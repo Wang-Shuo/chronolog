@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: ab9dad60dc1e015f6fa723e060855bc85c44f4b35f632a351c28dee57c1ca6d1
+machine_hash: 477733023bd7c85a6e5cf06d539821cb88628e520ea9f75a9a3e020c517b13b8
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -82,10 +82,11 @@ record:
   title: Gmail, Google Calendar, and Google Contacts Connectors in ChatGPT (Pro)
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-07-03-improved-embeddings-for-semantic-search|Improved embeddings
-  for semantic search]]'
-- '[[Changes/Cursor/2025-08-06-separate-models-per-agent|Separate models per Agent]]'
-- '[[Changes/ChatGPT/2025-08-07-gpt-5-is-slowly-rolling-out-to-all-users-on-chatgpt-plus-pro-team-and-free-plans-64a08c|GPT-5]]'
+- '[[Changes/Codex CLI/2025-08-07-2-model-support-changes-in-rust-v0-15-0|2 Model
+  Support changes in rust-v0.15.0]]'
+- '[[Changes/Windsurf/2025-08-07-gpt-5-available|GPT-5 Available]]'
+- '[[Changes/Aider/2025-08-09-5-model-support-changes-in-v0-86-0|5 Model Support changes
+  in v0.86.0]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-08-12-gmail-google-calendar-and-google-contacts-connectors-in-chatgpt-db727e12|chatgpt-2025-08-12-gmail-google-calendar-and-google-contacts-connectors-in-chatgpt-db727e12]]'
 source_type: chatgpt_changelog
 theme: model-support
@@ -112,7 +113,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2025-08-07 · ChatGPT · [[Changes/ChatGPT/2025-08-07-gpt-5-is-slowly-rolling-out-to-all-users-on-chatgpt-plus-pro-team-and-free-plans-64a08c|GPT-5]]
+- Earlier: 2025-08-09 · Aider · [[Changes/Aider/2025-08-09-5-model-support-changes-in-v0-86-0|5 Model Support changes in v0.86.0]]
 - Later: 2025-08-12 · ChatGPT · [[Changes/ChatGPT/2025-08-12-you-can-now-choose-between-auto-fast-and-thinking-for-gpt-5-most-users-will-want-f4c05b|GPT-5 Updates]]
 <!-- chronolog:end -->
 

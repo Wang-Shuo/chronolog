@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 33f424d4a9c6ef1efcb9c2b813e7d975d13873f0019473fda1cc6f1c4684ccec
+machine_hash: 29e6810d6dd25b09cba8e25b60fccde858c0e29490ca23886313d28e47e972d1
 product: claude-code
 product_name: Claude Code
 record:
@@ -56,12 +56,12 @@ record:
   title: 6 Developer Workflow changes in v2.1.69
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-02-28-added-simplify-and-batch-bundled-slash-commands|Added
-  /simplify and /batch bundled slash commands]]'
-- '[[Changes/Cursor/2026-03-03-3-developer-workflow-changes-in-2-6|3 Developer Workflow
-  changes in 2.6]]'
 - '[[Changes/Cursor/2026-03-03-this-release-introduces-interactive-uis-in-agent-chats-a-way-for-teams-to-share|Cursor
   introduces interactive UIs in agent chats, a way for teams to share private…]]'
+- '[[Changes/Gemini CLI/2026-03-03-2-developer-workflow-changes-in-v0-32-0|2 Developer
+  Workflow changes in v0.32.0]]'
+- '[[Changes/GitHub Copilot CLI/2026-03-03-4-developer-workflow-changes-in-v0-0-421|4
+  Developer Workflow changes in v0.0.421]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-03-05-v2-1-69-github-293216328-162b2e44|claude-code-2026-03-05-v2-1-69-github-293216328-162b2e44]]'
 source_type: github_releases
 theme: developer-workflow
@@ -114,8 +114,8 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.69
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2026-03-03 · Cursor · [[Changes/Cursor/2026-03-03-this-release-introduces-interactive-uis-in-agent-chats-a-way-for-teams-to-share|Cursor introduces interactive UIs in agent chats, a way for teams to share private…]]
-- Later: 2026-03-07 · Claude Code · [[Changes/Claude Code/2026-03-07-2-developer-workflow-changes-in-v2-1-71|2 Developer Workflow changes in v2.1.71]]
+- Earlier: 2026-03-03 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-03-03-4-developer-workflow-changes-in-v0-0-421|4 Developer Workflow changes in v0.0.421]]
+- Later: 2026-03-05 · Codex CLI · [[Changes/Codex CLI/2026-03-05-7-developer-workflow-changes-in-rust-v0-110-0|7 Developer Workflow changes in rust-v0.110.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

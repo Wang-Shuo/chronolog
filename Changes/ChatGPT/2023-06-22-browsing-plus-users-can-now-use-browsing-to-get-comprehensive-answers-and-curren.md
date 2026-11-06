@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 85831fc7ba519f12fc81972ddbf15891ee798bff402b0163aeeb2f83a7e0cdb4
+machine_hash: f8980bb40ebb1e699b0c79f3590157ac17ce129c7426551e39f781c4080f86d0
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -63,11 +63,12 @@ record:
     current…'
   type: change
 related_changes:
-- '[[Changes/Cursor/2023-05-04-gpt-4-support-now-available-for-project-generation|GPT-4
-  support now available for project generation]]'
-- '[[Changes/Cursor/2023-05-20-upgrades-to-gpt-4-e59675|Upgrades to GPT-4]]'
 - '[[Changes/Cursor/2023-06-01-check-out-the-more-tab-to-have-gpt-3-5-or-gpt-4-review-your-code-periodically-fo|AI
   Linting]]'
+- '[[Changes/Aider/2023-06-07-added-support-for-gpt-3-5-turbo-and-gpt-4-32k|Added
+  support for gpt-3.5-turbo and gpt-4-32k]]'
+- '[[Changes/Aider/2023-06-17-2-model-support-changes-in-v0-6-2|2 Model Support changes
+  in v0.6.2]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2023-06-22-browsing-and-search-on-mobile-989ccb98|chatgpt-2023-06-22-browsing-and-search-on-mobile-989ccb98]]'
 source_type: chatgpt_changelog
 theme: model-support
@@ -98,8 +99,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2023-06-01 · Cursor · [[Changes/Cursor/2023-06-01-check-out-the-more-tab-to-have-gpt-3-5-or-gpt-4-review-your-code-periodically-fo|AI Linting]]
-- Later: 2023-07-19 · ChatGPT · [[Changes/ChatGPT/2023-07-19-we-re-doubling-the-number-of-messages-chatgpt-plus-customers-can-send-with-gpt-4|Higher message limits for GPT-4]]
+- Earlier: 2023-06-17 · Aider · [[Changes/Aider/2023-06-17-2-model-support-changes-in-v0-6-2|2 Model Support changes in v0.6.2]]
+- Later: 2023-07-06 · Aider · [[Changes/Aider/2023-07-06-benchmark-comparing-code-editing-in-gpt-3-5-and-gpt-4-https-aider-chat-docs-benc|Benchmark comparing code editing in GPT-3.5…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

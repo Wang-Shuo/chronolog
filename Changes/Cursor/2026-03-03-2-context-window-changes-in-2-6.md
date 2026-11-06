@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: b027c618ba9e63085d25fa0d1febdbaabc6e69ec616bca545effcf9636c68df3
+machine_hash: 78fa515ff8baa923286e905798b7caf0e845c8bdf761042db581d2c95829f42b
 product: cursor
 product_name: Cursor
 record:
@@ -45,12 +45,12 @@ record:
   title: 2 Context Window changes in 2.6
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-02-24-tool-results-larger-than-50k-characters-are-now-persisted-to-disk-previously-100|Tool
-  results larger than 50K characters are now persisted to disk (previously 100K)]]'
-- '[[Changes/ChatGPT/2026-02-25-ad-hoc-text-sources-paste-notes-briefs-or-reference-material-directly-to-capture|Ad-hoc
-  text sources]]'
-- '[[Changes/ChatGPT/2026-02-25-projects-now-make-it-easy-to-build-a-living-knowledge-base-by-adding-sources-whe|Projects
-  now make it easy to build a living knowledge base by adding sources…]]'
+- '[[Changes/Gemini CLI/2026-02-27-feat-telemetry-add-context-breakdown-to-api-response-event-by-sandytao520-in-htt|feat(telemetry):
+  Add context breakdown to API response event]]'
+- '[[Changes/Codex CLI/2026-03-02-12947-feat-add-local-date-timezone-to-turn-environment-context-celia-oai|♯12947
+  feat: add local date/timezone to turn environment context @celia-oai]]'
+- '[[Changes/Cline/2026-03-03-trigger-auto-compaction-on-openrouter-context-overflow-errors|Trigger
+  auto-compaction on OpenRouter context overflow errors]]'
 source_release: '[[Releases/Cursor/cursor-2026-03-03-2-6-https-cursor-com-changelog-2-6-0fa7f1a3|cursor-2026-03-03-2-6-https-cursor-com-changelog-2-6-0fa7f1a3]]'
 source_type: cursor_changelog
 theme: context-window
@@ -94,8 +94,8 @@ Source: https://cursor.com/changelog/2-6
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Context Window
 
-- Earlier: 2026-02-25 · ChatGPT · [[Changes/ChatGPT/2026-02-25-projects-now-make-it-easy-to-build-a-living-knowledge-base-by-adding-sources-whe|Projects now make it easy to build a living knowledge base by adding sources…]]
-- Later: 2026-03-05 · ChatGPT · [[Changes/ChatGPT/2026-03-05-gpt-5-4-brings-together-the-best-of-our-recent-advances-in-reasoning-coding-and|GPT-5.4 Thinking in ChatGPT]]
+- Earlier: 2026-03-03 · Cline · [[Changes/Cline/2026-03-03-trigger-auto-compaction-on-openrouter-context-overflow-errors|Trigger auto-compaction on OpenRouter context overflow errors]]
+- Later: 2026-03-04 · Cline · [[Changes/Cline/2026-03-04-2-context-window-changes-in-v3-70-0|2 Context Window changes in v3.70.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

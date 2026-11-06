@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: ad47a2b9edf2a2025a85357a3f66963ad8e0a2caa3ad35be0f47c493d8135d35
+machine_hash: abb24f62341776868222a4ad12222f56a6e3411dad9c05684efbd95e15d117af
 product: claude-code
 product_name: Claude Code
 record:
@@ -54,8 +54,8 @@ record:
   title: Improved prompt-cache stability
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-03-3-context-window-changes-in-v2-1-260|3 Context
-  Window changes in v2.1.260]]'
+- '[[Changes/Codex CLI/2026-09-03-6-context-window-changes-in-rust-v0-153-0|6 Context
+  Window changes in rust-v0.153.0]]'
 - '[[Changes/Claude Code/2026-09-04-changed-context-token-counting-to-use-a-local-estimate-when-the-token-counting-a|Changed
   /context token counting to use a local estimate when the token-counting…]]'
 - '[[Changes/Claude Code/2026-09-04-added-skill-doctor-to-show-which-loaded-skills-go-unused-and-what-they-cost-in-c|Added
@@ -95,7 +95,7 @@ type: change
 ## Nearby in Context Window
 
 - Earlier: 2026-09-04 · Claude Code · [[Changes/Claude Code/2026-09-04-added-skill-doctor-to-show-which-loaded-skills-go-unused-and-what-they-cost-in-c|Added /skill-doctor to show which loaded skills go unused and what they cost…]]
-- Later: 2026-09-10 · Cursor · [[Changes/Cursor/2026-09-10-you-shouldn-t-have-to-onboard-an-agent-every-time-you-start-a-task-each-project|Shared context]]
+- Later: 2026-09-09 · Codex CLI · [[Changes/Codex CLI/2026-09-09-17-context-window-changes-in-rust-v0-154-0|17 Context Window changes in rust-v0.154.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

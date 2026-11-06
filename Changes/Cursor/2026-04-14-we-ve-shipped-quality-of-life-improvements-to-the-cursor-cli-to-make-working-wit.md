@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 6352bb4d080c671be756c79e526f83951f69dc82a9d93ac3ca3212e969bcd68e
+machine_hash: 2e24457f380954074f3ebec59470b73c1722c2e20bb428219d9bbd34a226f21b
 product: cursor
 product_name: Cursor
 record:
@@ -52,8 +52,8 @@ record:
   title: We've shipped quality-of-life improvements to the Cursor CLI to make working…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-04-09-6-developer-workflow-changes-in-v2-1-98|6 Developer
-  Workflow changes in v2.1.98]]'
+- '[[Changes/GitHub Copilot CLI/2026-04-10-2-developer-workflow-changes-in-v1-0-23|2
+  Developer Workflow changes in v1.0.23]]'
 - '[[Changes/Claude Code/2026-04-13-2-developer-workflow-changes-in-v2-1-105|2 Developer
   Workflow changes in v2.1.105]]'
 - '[[Changes/Cursor/2026-04-14-use-debug-to-find-root-causes-and-fix-tricky-bugs-that-are-hard-to-reproduce-or|Debug
@@ -93,7 +93,7 @@ type: change
 ## Nearby in Developer Workflow
 
 - Earlier: 2026-04-13 · Claude Code · [[Changes/Claude Code/2026-04-13-2-developer-workflow-changes-in-v2-1-105|2 Developer Workflow changes in v2.1.105]]
-- Later: 2026-04-15 · Claude Code · [[Changes/Claude Code/2026-04-15-bash-tool-now-enforces-the-documented-maximum-timeout-instead-of-accepting-arbit|Bash tool now enforces the documented maximum timeout instead of accepting…]]
+- Later: 2026-04-14 · Gemini CLI · [[Changes/Gemini CLI/2026-04-14-4-developer-workflow-changes-in-v0-38-0|4 Developer Workflow changes in v0.38.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

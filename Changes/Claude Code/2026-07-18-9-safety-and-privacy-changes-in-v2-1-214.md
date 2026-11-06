@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 9b4217cd56786f541353832504b3ea81307add244041d994c366757355ed2340
+machine_hash: 6791e13f675627bf54050298e853c9aeaadc37076ab8dc7fb090d8fb1b5a90a3
 product: claude-code
 product_name: Claude Code
 record:
@@ -69,10 +69,10 @@ record:
   title: 9 Safety and Privacy changes in v2.1.214
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-07-14-fixed-multi-second-per-turn-slowdowns-in-sessions-with-many-permission-deny-ask|Fixed
-  multi-second per-turn slowdowns in sessions with many permission deny/ask rules]]'
 - '[[Changes/Claude Code/2026-07-15-2-safety-and-privacy-changes-in-v2-1-211|2 Safety
   and Privacy changes in v2.1.211]]'
+- '[[Changes/GitHub Copilot CLI/2026-07-16-2-safety-and-privacy-changes-in-v1-0-71|2
+  Safety and Privacy changes in v1.0.71]]'
 - '[[Changes/Claude Code/2026-07-17-3-safety-and-privacy-changes-in-v2-1-212|3 Safety
   and Privacy changes in v2.1.212]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-07-18-v2-1-214-github-355973317-478680c5|claude-code-2026-07-18-v2-1-214-github-355973317-478680c5]]'

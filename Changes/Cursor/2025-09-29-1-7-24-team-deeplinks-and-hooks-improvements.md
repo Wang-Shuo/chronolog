@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: ff91e4e70e9f5de521934b369da3fb4163fd38c8545428466396949f4ec51056
+machine_hash: ae238385f01102c41393e7f346985b8c276765f45079b2b488a545335698ef98
 product: cursor
 product_name: Cursor
 record:
@@ -40,8 +40,8 @@ record:
   title: '1.7.24: Team deeplinks and hooks improvements'
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2025-08-11-plus-box-canva-dropbox-hubspot-notion-microsoft-sharepoint-and-microsoft-teams|Plus:
-  Box, Canva, Dropbox, HubSpot, Notion, Microsoft SharePoint, and Microsoft Teams]]'
+- '[[Changes/Codex CLI/2025-09-23-3878-move-responses-mocking-helpers-to-a-shared-lib-3878|♯3878
+  Move responses mocking helpers to a shared lib (♯3878)]]'
 - '[[Changes/Cursor/2025-09-29-share-prompts-with-deeplinks-beta|Share prompts with
   deeplinks (beta)]]'
 - '[[Changes/Cursor/2025-09-29-team-rules|Team rules]]'
@@ -91,8 +91,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Collaboration
 
-- Earlier: 2025-08-11 · ChatGPT · [[Changes/ChatGPT/2025-08-11-plus-box-canva-dropbox-hubspot-notion-microsoft-sharepoint-and-microsoft-teams|Plus: Box, Canva, Dropbox, HubSpot, Notion, Microsoft SharePoint, and Microsoft Teams]]
-- Later: 2025-10-23 · ChatGPT · [[Changes/ChatGPT/2025-10-23-content-creation-apply-project-specific-instructions-to-keep-tone-and-style-cons|Content creation: Apply project-specific instructions to keep tone and style…]]
+- Earlier: 2025-09-23 · Codex CLI · [[Changes/Codex CLI/2025-09-23-3878-move-responses-mocking-helpers-to-a-shared-lib-3878|♯3878 Move responses mocking helpers to a shared lib (♯3878)]]
+- Later: 2025-10-01 · Gemini CLI · [[Changes/Gemini CLI/2025-10-01-support-rendering-function-calls-and-responses-when-sharing-chat-to-markdown-by|Support rendering function calls and responses when sharing chat to markdown]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

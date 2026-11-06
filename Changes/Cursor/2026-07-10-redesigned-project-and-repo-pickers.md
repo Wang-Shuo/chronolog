@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 01db50573d6f7cabbd40bae7a4a0f99876a4b85d0f0e3bdd96891c06b67cbd9a
+machine_hash: f1f257135614839d43e394327095f03904aae84255370eb4f5486d9f2c481dce
 product: cursor
 product_name: Cursor
 record:
@@ -50,8 +50,8 @@ record:
   title: Redesigned project and repo pickers
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-07-07-removed-a-redundant-navigation-hint-from-the-claude-agents-footer|Removed
-  a redundant navigation hint from the claude agents footer]]'
+- '[[Changes/Codex CLI/2026-07-09-3-interface-experience-changes-in-rust-v0-144-0|3
+  Interface Experience changes in rust-v0.144.0]]'
 - '[[Changes/Cursor/2026-07-10-conversation-search-454cae|Conversation search]]'
 - '[[Changes/Cursor/2026-07-10-7-interface-experience-changes-in-side-chats-and-conversation-search|7
   Interface Experience changes in Side Chats and Conversation Search]]'
@@ -90,8 +90,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-07-07 · Claude Code · [[Changes/Claude Code/2026-07-07-removed-a-redundant-navigation-hint-from-the-claude-agents-footer|Removed a redundant navigation hint from the claude agents footer]]
-- Later: 2026-07-11 · Claude Code · [[Changes/Claude Code/2026-07-11-improved-agent-view-pasting-the-same-text-again-now-expands-the-collapsed-pasted|Improved agent view]]
+- Earlier: 2026-07-09 · Codex CLI · [[Changes/Codex CLI/2026-07-09-3-interface-experience-changes-in-rust-v0-144-0|3 Interface Experience changes in rust-v0.144.0]]
+- Later: 2026-07-10 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-07-10-4-interface-experience-changes-in-v1-0-70|4 Interface Experience changes in v1.0.70]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

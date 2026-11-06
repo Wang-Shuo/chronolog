@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: c0e317b1a466687e3836613f4a2c2d317111319d184574d923498b4b8c673ec1
+machine_hash: 12cc72e42978c125a4435204c1a1ec99ea9c7736995a4843793d6075d6aee6a2
 product: cursor
 product_name: Cursor
 record:
@@ -45,12 +45,12 @@ record:
     CLI
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-01-16-models-removed-use-model-to-see-all-models-or-select-a-model|/models
-  removed. Use /model to see all models or select a model]]'
-- '[[Changes/ChatGPT/2026-01-20-we-re-rolling-out-an-age-prediction-model-on-chatgpt-consumer-plans-to-help-dete|Rolling
-  out age prediction]]'
+- '[[Changes/Gemini CLI/2026-01-21-6-model-support-changes-in-v0-25-0|6 Model Support
+  changes in v0.25.0]]'
 - '[[Changes/ChatGPT/2026-01-22-we-re-updating-gpt-5-2-instant-s-default-personality-to-be-more-conversational-a|5.2
   Personality System Prompt Update]]'
+- '[[Changes/Codex CLI/2026-01-22-9597-feat-core-modelinfo-model-instructions-template-dylan-hurd-oai|♯9597
+  feat(core) ModelInfo.model_instructions_template @dylan-hurd-oai]]'
 source_release: '[[Releases/Cursor/cursor-2026-01-22-2-4-https-cursor-com-changelog-2-4-a10c8f03|cursor-2026-01-22-2-4-https-cursor-com-changelog-2-4-a10c8f03]]'
 source_type: cursor_changelog
 theme: model-support
@@ -96,8 +96,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-01-22 · ChatGPT · [[Changes/ChatGPT/2026-01-22-we-re-updating-gpt-5-2-instant-s-default-personality-to-be-more-conversational-a|5.2 Personality System Prompt Update]]
-- Later: 2026-01-29 · ChatGPT · [[Changes/ChatGPT/2026-01-29-on-february-13-2026-alongside-the-previously-announced-retirement-of-gpt-5-insta|Retiring GPT-4o and other legacy models]]
+- Earlier: 2026-01-22 · Codex CLI · [[Changes/Codex CLI/2026-01-22-9597-feat-core-modelinfo-model-instructions-template-dylan-hurd-oai|♯9597 feat(core) ModelInfo.model_instructions_template @dylan-hurd-oai]]
+- Later: 2026-01-22 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-01-22-add-models-as-alias-for-model-command|Add /models as alias for /model command]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

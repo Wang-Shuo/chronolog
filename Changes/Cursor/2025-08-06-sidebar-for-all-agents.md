@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: 541da8318958d491788b8c5ed1e99067143cc943a54cd58b3057a58d9ef540be
+machine_hash: 0ac6bddd8c750a58ac409a2b2491c8299078726088bd4ce815d0959918b03873
 product: cursor
 product_name: Cursor
 record:
@@ -101,8 +101,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2025-07-29 · Cursor · [[Changes/Cursor/2025-07-29-2-agent-mode-changes-in-1-3|2 Agent Mode changes in 1.3]]
-- Later: 2025-08-21 · Cursor · [[Changes/Cursor/2025-08-21-you-can-now-start-background-agents-directly-from-linear-delegate-tasks-to-curso|Run Agents in Linear]]
+- Earlier: 2025-08-05 · Gemini CLI · [[Changes/Gemini CLI/2025-08-05-6-agent-mode-changes-in-v0-1-17|6 Agent Mode changes in v0.1.17]]
+- Later: 2025-08-06 · Gemini CLI · [[Changes/Gemini CLI/2025-08-06-6-agent-mode-changes-in-v0-1-18|6 Agent Mode changes in v0.1.18]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

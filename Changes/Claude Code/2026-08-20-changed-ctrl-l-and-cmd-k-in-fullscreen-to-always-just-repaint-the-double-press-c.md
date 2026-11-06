@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: dcf2f5e106d2ddc3660a64dc14679bbbeb2f2ac7286de71ee98064189a44d8a1
+machine_hash: 33cd784fac32de0a3904e17659fdf1f4129ca8eb883af621d139eb892d0ab5cd
 product: claude-code
 product_name: Claude Code
 record:
@@ -55,10 +55,10 @@ record:
   title: Changed Ctrl+L and Cmd+K in fullscreen to always just repaint
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-08-13-improved-fullscreen-streaming-long-sessions-stay-responsive-because-the-whole-co|Improved
-  fullscreen streaming]]'
 - '[[Changes/Claude Code/2026-08-17-3-interface-experience-changes-in-v2-1-234|3 Interface
   Experience changes in v2.1.234]]'
+- '[[Changes/Codex CLI/2026-08-18-13-interface-experience-changes-in-rust-v0-148-0|13
+  Interface Experience changes in rust-v0.148.0]]'
 - '[[Changes/Claude Code/2026-08-19-changed-the-model-picker-to-highlight-only-the-newest-model-s-name-so-the-highli|Changed
   the /model picker to highlight only the newest model''s name…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-08-20-v2-1-238-github-373927029-c96744e2|claude-code-2026-08-20-v2-1-238-github-373927029-c96744e2]]'
@@ -96,7 +96,7 @@ type: change
 ## Nearby in Interface Experience
 
 - Earlier: 2026-08-19 · Claude Code · [[Changes/Claude Code/2026-08-19-changed-the-model-picker-to-highlight-only-the-newest-model-s-name-so-the-highli|Changed the /model picker to highlight only the newest model's name…]]
-- Later: 2026-08-21 · ChatGPT · [[Changes/ChatGPT/2026-08-21-keep-recent-chats-easier-to-browse-your-sidebar-now-shows-up-to-eight-recent-con|Keep recent chats easier to browse]]
+- Later: 2026-08-20 · Codex CLI · [[Changes/Codex CLI/2026-08-20-3-interface-experience-changes-in-rust-v0-149-0|3 Interface Experience changes in rust-v0.149.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

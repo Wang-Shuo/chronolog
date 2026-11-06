@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 0e0c522240596328936c3f6538ba92c8aaea07a032c6c2216857c9e9e2e96911
+machine_hash: d53ca05e9bef891608afb8bd4e47131dd34f40e4bb77774925f2cd27d7fe830b
 product: claude-code
 product_name: Claude Code
 record:
@@ -51,12 +51,12 @@ record:
   title: 3 Editor Experience changes in v2.1.296
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-06-added-prompt-autocomplete-an-event-a-mod-hooks-to-add-its-own-rows-to-the-prompt|Added
-  prompt.autocomplete, an event a mod hooks to add its own rows to the prompt…]]'
-- '[[Changes/Claude Code/2026-10-07-improved-the-bash-edit-diff-note-to-say-the-listed-files-changed-while-the-comma|Improved
-  the Bash edit diff note to say the listed files changed while the command…]]'
+- '[[Changes/GitHub Copilot CLI/2026-10-07-read-user-settings-only-from-copilot-settings-json-user-setting-keys-in-copilot|Read
+  user settings only from ~/.copilot/settings.json]]'
 - '[[Changes/Claude Code/2026-10-08-changed-tab-stops-to-count-from-where-a-text-starts-instead-of-from-the-screen-s|Changed
   tab stops to count from where a text starts instead of from the screen''s left edge]]'
+- '[[Changes/Codex CLI/2026-10-08-50216-use-the-shared-text-editor-for-command-center-task-renaming-bc-openai|♯50216
+  Use the shared text editor for command-center task renaming @bc-openai]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-10-09-v2-1-296-github-408141042-fd950e7a|claude-code-2026-10-09-v2-1-296-github-408141042-fd950e7a]]'
 source_type: github_releases
 theme: editor-experience
@@ -101,8 +101,8 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.296
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2026-10-08 · Claude Code · [[Changes/Claude Code/2026-10-08-changed-tab-stops-to-count-from-where-a-text-starts-instead-of-from-the-screen-s|Changed tab stops to count from where a text starts instead of from the screen's left edge]]
-- Later: 2026-10-14 · Claude Code · [[Changes/Claude Code/2026-10-14-3-editor-experience-changes-in-v2-1-300|3 Editor Experience changes in v2.1.300]]
+- Earlier: 2026-10-08 · Codex CLI · [[Changes/Codex CLI/2026-10-08-50216-use-the-shared-text-editor-for-command-center-task-renaming-bc-openai|♯50216 Use the shared text editor for command-center task renaming @bc-openai]]
+- Later: 2026-10-13 · Cline · [[Changes/Cline/2026-10-13-the-editor-tool-no-longer-receives-null-in-place-of-the-text-to-replace-from-som|The editor tool no longer receives null in place of the text to replace from some models]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

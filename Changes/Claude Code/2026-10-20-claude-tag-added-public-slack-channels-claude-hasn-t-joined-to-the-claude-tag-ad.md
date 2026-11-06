@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: ee4f63470c2c794de54bf0265bc9917050c7b047c73231bc9fb584ecc0da4c5d
+machine_hash: 92990121846c9150d610bd72f7ce9da065c56ced65e5e086011ade38c45e4a7b
 product: claude-code
 product_name: Claude Code
 record:
@@ -44,12 +44,12 @@ record:
     Tag…'
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-07-3-enterprise-and-administration-changes-in-v2-1-293|3
-  Enterprise and Administration changes in v2.1.293]]'
-- '[[Changes/Claude Code/2026-10-08-claude-tag-changed-claude-s-notice-that-a-channel-shared-across-enterprise-grid|Claude
-  Tag Changed Claude''s notice that a channel shared across Enterprise Grid…]]'
+- '[[Changes/GitHub Copilot CLI/2026-10-12-keep-allow-all-available-during-startup-while-enterprise-policy-is-still-resolvi|Keep
+  /allow-all available during startup while enterprise policy is still resolving]]'
 - '[[Changes/ChatGPT/2026-10-15-applications-are-now-open-to-labs-at-u-s-universities-if-you-re-a-principal-inve|Applications
   are now open to labs at U.S. universities]]'
+- '[[Changes/GitHub Copilot CLI/2026-10-19-2-enterprise-and-administration-changes-in-v1-0-100|2
+  Enterprise and Administration changes in v1.0.100]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-10-20-v2-1-305-github-418781864-90995baa|claude-code-2026-10-20-v2-1-305-github-418781864-90995baa]]'
 source_type: github_releases
 theme: enterprise-admin
@@ -84,8 +84,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Enterprise and Administration
 
-- Earlier: 2026-10-15 · ChatGPT · [[Changes/ChatGPT/2026-10-15-applications-are-now-open-to-labs-at-u-s-universities-if-you-re-a-principal-inve|Applications are now open to labs at U.S. universities]]
-- Later: 2026-10-23 · Claude Code · [[Changes/Claude Code/2026-10-23-cloud-sessions-added-claude-code-cloud-sessions-and-remote-control-permissions-t|Cloud sessions Added Claude Code cloud sessions and Remote Control permissions…]]
+- Earlier: 2026-10-19 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-10-19-2-enterprise-and-administration-changes-in-v1-0-100|2 Enterprise and Administration changes in v1.0.100]]
+- Later: 2026-10-20 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-10-20-model-picker-marks-your-administrator-managed-model-as-the-default-when-it-is-av|Model picker marks your administrator-managed model as the default when it is available]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: c57b73a065400b49a4fe884d5c1ac7f2f0657ec021a725a35e9f80f26995df03
+machine_hash: b2b4add034a9d742e251a2b6519c1401fb8ff0ae05772c5b56839f630183124c
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -46,12 +46,12 @@ record:
   title: Attach up to 20 files in a single message
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-01-22-agents-can-now-read-pdfs-which-you-can-attach-in-chats-as-context|Agents
-  can now read PDFs, which you can attach in chats as context]]'
-- '[[Changes/Claude Code/2026-02-03-added-pages-parameter-to-the-read-tool-for-pdfs-allowing-specific-page-ranges-to|Added
-  pages parameter to the Read tool for PDFs, allowing specific page ranges…]]'
-- '[[Changes/Claude Code/2026-02-05-2-context-window-changes-in-v2-1-32|2 Context
-  Window changes in v2.1.32]]'
+- '[[Changes/Codex CLI/2026-02-11-6-context-window-changes-in-rust-v0-99-0|6 Context
+  Window changes in rust-v0.99.0]]'
+- '[[Changes/GitHub Copilot CLI/2026-02-11-expose-session-context-in-session-list-sdk-response|Expose
+  session context in session.list SDK response]]'
+- '[[Changes/Codex CLI/2026-02-12-3-context-window-changes-in-rust-v0-100-0|3 Context
+  Window changes in rust-v0.100.0]]'
 scope: Web
 source_release: '[[Releases/ChatGPT/chatgpt-2026-02-13-chatgpt-updates-better-file-uploads-easier-copying-and-more-reli-e2c69aa0|chatgpt-2026-02-13-chatgpt-updates-better-file-uploads-easier-copying-and-more-reli-e2c69aa0]]'
 source_type: chatgpt_changelog
@@ -85,7 +85,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Context Window
 
-- Earlier: 2026-02-05 · Claude Code · [[Changes/Claude Code/2026-02-05-2-context-window-changes-in-v2-1-32|2 Context Window changes in v2.1.32]]
+- Earlier: 2026-02-12 · Codex CLI · [[Changes/Codex CLI/2026-02-12-3-context-window-changes-in-rust-v0-100-0|3 Context Window changes in rust-v0.100.0]]
 - Later: 2026-02-13 · Claude Code · [[Changes/Claude Code/2026-02-13-improved-rename-to-auto-generate-session-name-from-conversation-context-when-cal|Improved /rename to auto-generate session name from conversation context…]]
 <!-- chronolog:end -->
 

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: policy
-machine_hash: 41233db7f0a81001508ff127f6038334f831534558b0b25493122ad7ad69d6c7
+machine_hash: 6f85960da715c7bb390b75934444e7daf77ce2a6afea7de228c4512e6f513412
 product: cursor
 product_name: Cursor
 record:
@@ -51,10 +51,10 @@ record:
   title: Deprecated the previous worktree and best-of-n selection from the Editor
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-04-01-changed-resume-picker-to-no-longer-show-sessions-created-by-claude-p-or-sdk-invo|Changed
-  --resume picker to no longer show sessions created by claude -p or SDK…]]'
-- '[[Changes/Claude Code/2026-04-01-added-claude-code-no-flicker-1-environment-variable-to-opt-into-flicker-free-alt|Added
-  CLAUDE_CODE_NO_FLICKER=1 environment variable to opt into flicker-free…]]'
+- '[[Changes/Gemini CLI/2026-04-01-2-interface-experience-changes-in-v0-36-0|2 Interface
+  Experience changes in v0.36.0]]'
+- '[[Changes/GitHub Copilot CLI/2026-04-01-4-interface-experience-changes-in-v1-0-15|4
+  Interface Experience changes in v1.0.15]]'
 - '[[Changes/Claude Code/2026-04-02-feedback-now-explains-why-it-s-unavailable-instead-of-disappearing-from-the-slas|/feedback
   now explains why it''s unavailable instead of disappearing from the slash menu]]'
 source_release: '[[Releases/Cursor/cursor-2026-04-02-3-0-https-cursor-com-changelog-3-0-c58cd2ad|cursor-2026-04-02-3-0-https-cursor-com-changelog-3-0-c58cd2ad]]'
@@ -98,7 +98,7 @@ type: change
 ## Nearby in Interface Experience
 
 - Earlier: 2026-04-02 · Claude Code · [[Changes/Claude Code/2026-04-02-feedback-now-explains-why-it-s-unavailable-instead-of-disappearing-from-the-slas|/feedback now explains why it's unavailable instead of disappearing from the slash menu]]
-- Later: 2026-04-04 · Claude Code · [[Changes/Claude Code/2026-04-04-release-notes-is-now-an-interactive-version-picker|/release-notes is now an interactive version picker]]
+- Later: 2026-04-03 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-04-03-resume-session-picker-loads-significantly-faster-especially-with-large-session-h|/resume session picker loads significantly faster, especially with large session histories]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

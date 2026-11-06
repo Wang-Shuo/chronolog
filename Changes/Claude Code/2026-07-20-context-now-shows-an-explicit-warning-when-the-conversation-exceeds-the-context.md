@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: f634807d42242a2babef0ac2fabb82220c8b4ee4c87b9276bcf8c32186ac9dec
+machine_hash: 04dcd05ead4ff7babdbb4671b14f9d36f2c39af204ce9e1530c65a0ec1bdcd7a
 product: claude-code
 product_name: Claude Code
 record:
@@ -46,9 +46,10 @@ record:
     context…'
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-07-08-improved-auto-mode-to-ask-before-running-rm-rf-on-a-variable-it-can-t-resolve-fr|Improved
-  auto mode to ask before running rm -rf on a variable it can''t resolve…]]'
-- '[[Changes/Cursor/2026-07-10-side-chats|Side chats]]'
+- '[[Changes/GitHub Copilot CLI/2026-07-10-press-tab-to-switch-the-context-window-in-model|Press
+  Tab to switch the context window in /model]]'
+- '[[Changes/GitHub Copilot CLI/2026-07-16-2-context-window-changes-in-v1-0-71|2 Context
+  Window changes in v1.0.71]]'
 - '[[Changes/Cursor/2026-07-17-cross-channel-workflows|Cross-channel workflows]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-07-20-v2-1-216-github-356972381-87e422ae|claude-code-2026-07-20-v2-1-216-github-356972381-87e422ae]]'
 source_type: github_releases
@@ -83,7 +84,7 @@ type: change
 ## Nearby in Context Window
 
 - Earlier: 2026-07-17 · Cursor · [[Changes/Cursor/2026-07-17-cross-channel-workflows|Cross-channel workflows]]
-- Later: 2026-07-22 · Claude Code · [[Changes/Claude Code/2026-07-22-changed-skills-with-context-fork-to-run-in-the-background-by-default-opt-out-per|Changed skills with context: fork to run in the background by default]]
+- Later: 2026-07-20 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-07-20-2-context-window-changes-in-v1-0-72|2 Context Window changes in v1.0.72]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

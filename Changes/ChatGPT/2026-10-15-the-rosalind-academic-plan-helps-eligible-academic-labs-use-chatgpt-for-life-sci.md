@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: pricing
-machine_hash: 8c396cb82f4cdc75afa067c119de70259cca0a68408486598732a87db0165a81
+machine_hash: dadabc082ccf4689df7f7f4acd4b27c24337d6cbe6d9fa98b7e6b5c47b863898
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -49,12 +49,12 @@ record:
   title: The Rosalind Academic Plan helps eligible academic labs use ChatGPT for life…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-29-claude-tag-added-direct-messages-with-claude-for-members-on-an-enterprise-plan-s|Claude
-  Tag Added direct messages with Claude for members on an Enterprise plan…]]'
-- '[[Changes/Claude Code/2026-10-02-improved-the-usage-credits-message-shown-to-team-and-enterprise-members-whose-or|Improved
-  the /usage-credits message shown to Team and Enterprise members whose…]]'
+- '[[Changes/GitHub Copilot CLI/2026-10-05-plan-usage-reflects-the-current-billing-period-after-quota-resets|Plan
+  usage reflects the current billing period after quota resets]]'
 - '[[Changes/Claude Code/2026-10-09-updated-cost-the-status-line-max-budget-usd-and-the-sdk-s-cost-figures-to-price|Updated
   /cost, the status line, --max-budget-usd and the SDK''s cost figures…]]'
+- '[[Changes/GitHub Copilot CLI/2026-10-13-show-billed-ai-credits-in-usage-for-token-billed-sessions-including-after-resume|Show
+  billed AI Credits in /usage for token-billed sessions, including after resume]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-10-15-applications-for-the-rosalind-academic-plan-b85717ef|chatgpt-2026-10-15-applications-for-the-rosalind-academic-plan-b85717ef]]'
 source_type: chatgpt_changelog
 theme: pricing-model
@@ -83,8 +83,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Pricing Model
 
-- Earlier: 2026-10-09 · Claude Code · [[Changes/Claude Code/2026-10-09-updated-cost-the-status-line-max-budget-usd-and-the-sdk-s-cost-figures-to-price|Updated /cost, the status line, --max-budget-usd and the SDK's cost figures…]]
-- Later: 2026-10-21 · ChatGPT · [[Changes/ChatGPT/2026-10-21-you-can-now-use-momo-to-pay-for-chatgpt-go-plus-and-pro-subscriptions-purchased|MoMo payments in Vietnam]]
+- Earlier: 2026-10-13 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-10-13-show-billed-ai-credits-in-usage-for-token-billed-sessions-including-after-resume|Show billed AI Credits in /usage for token-billed sessions, including after resume]]
+- Later: 2026-10-19 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-10-19-complete-usage-reporting-no-longer-shows-partial-status-or-phantom-unattributed|Complete usage reporting no longer shows partial status or phantom unattributed…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

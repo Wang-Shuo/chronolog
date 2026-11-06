@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 773465da6737b6101df508f83f21a0324c828f85853ae847cdca8171dc359905
+machine_hash: a6ad5e5bef96af2ba90cd481562de37c876933ad097ce6ba48b98f98955592bc
 product: cursor
 product_name: Cursor
 record:
@@ -77,7 +77,7 @@ type: change
 ## Nearby in Safety and Privacy
 
 - Earlier: 2023-04-16 · Cursor · [[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|Ghost mode for opting out of storing any kind of data on our servers]]
-- Later: 2023-08-28 · ChatGPT · [[Changes/ChatGPT/2023-08-28-today-we-re-launching-chatgpt-enterprise-which-offers-enterprise-grade-security-4958cf|Introducing ChatGPT Enterprise]]
+- Later: 2023-07-24 · Aider · [[Changes/Aider/2023-07-24-encourage-gpt-to-use-language-like-add-files-to-the-chat-to-ask-users-for-permis|Encourage GPT to use language like "add files to the chat" to ask users…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 9512310647929541276e5c1ca7a86906532b081a87ae4ab14794aac05e2c86f7
+machine_hash: 8ab45b9198af28afcb092c323f1af98e56a77fa63a35ff3908bb4c109d73dd20
 product: cursor
 product_name: Cursor
 record:
@@ -87,7 +87,7 @@ type: change
 ## Nearby in Reliability and Performance
 
 - Earlier: 2025-02-21 · ChatGPT · [[Changes/ChatGPT/2025-02-21-text-selection-improvements-you-can-now-select-text-across-horizontal-rulers-3-p|Text selection improvements: you can now select text across horizontal rulers]]
-- Later: 2025-03-18 · ChatGPT · [[Changes/ChatGPT/2025-03-18-we-have-been-working-on-a-variety-of-usability-and-performance-improvements-and|We have been working on a variety of usability and performance improvements and bug…]]
+- Later: 2025-03-15 · Cline · [[Changes/Cline/2025-03-15-improve-checkpoints-loading-performance-and-display-warning-for-large-projects-n|Improve checkpoints loading performance and display warning for large projects not…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

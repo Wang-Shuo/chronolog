@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: e2b9cd815a8661813e8cb2fd71fc9d3726637fb5d57e53c598ae661a02d9b367
+machine_hash: 0d1e577f0b6ebfe2dbf0448ced374ce3f663be29d36fd3276770a1a3bc3b79fe
 product: cursor
 product_name: Cursor
 record:
@@ -49,8 +49,8 @@ record:
   title: Plugin canvases
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-06-22-2-apps-and-integrations-changes-in-v2-1-186|2
-  Apps and Integrations changes in v2.1.186]]'
+- '[[Changes/Codex CLI/2026-06-22-37-apps-and-integrations-changes-in-rust-v0-142-0|37
+  Apps and Integrations changes in rust-v0.142.0]]'
 - '[[Changes/Cursor/2026-06-22-plugins-skills-and-mcps-let-you-customize-cursor-for-your-workflows-the-new-cust-241c4b|Plugins,
   skills, and MCPs let you customize Cursor for your workflows]]'
 - '[[Changes/Cursor/2026-06-22-marketplace-leaderboard-654084|Marketplace leaderboard]]'
@@ -88,7 +88,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-06-22 · Claude Code · [[Changes/Claude Code/2026-06-22-2-apps-and-integrations-changes-in-v2-1-186|2 Apps and Integrations changes in v2.1.186]]
+- Earlier: 2026-06-22 · Codex CLI · [[Changes/Codex CLI/2026-06-22-37-apps-and-integrations-changes-in-rust-v0-142-0|37 Apps and Integrations changes in rust-v0.142.0]]
 - Later: 2026-06-23 · Claude Code · [[Changes/Claude Code/2026-06-23-2-apps-and-integrations-changes-in-v2-1-187|2 Apps and Integrations changes in v2.1.187]]
 <!-- chronolog:end -->
 

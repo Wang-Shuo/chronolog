@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 5a3c7635ec4012a4e6280279d2bf1e9c98f3e1a021b3f1706449e8d47fc851fc
+machine_hash: 2b4beef3b3447568ccf2581350da5db607556d1778e76f35bdbe72c7ef0ff3f9
 product: claude-code
 product_name: Claude Code
 record:
@@ -47,12 +47,12 @@ record:
     a new Claude…'
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-02-27-edit-messages-with-images-you-can-now-edit-messages-that-include-image-attachmen|Edit
-  messages with images]]'
-- '[[Changes/Cursor/2026-03-03-agent-workflows-are-faster-and-more-predictable-for-multi-file-edits-and-pr-heav|Agent
-  workflows are faster and more predictable for multi-file edits and PR-heavy tasks]]'
-- '[[Changes/Cursor/2026-03-04-install-the-cursor-acp-directly-in-your-jetbrains-ide-from-the-acp-registry-and|Install
-  the Cursor ACP directly in your JetBrains IDE from the ACP Registry…]]'
+- '[[Changes/GitHub Copilot CLI/2026-03-05-6-editor-experience-changes-in-v0-0-422|6
+  Editor Experience changes in v0.0.422]]'
+- '[[Changes/Cline/2026-03-06-hooks-added-a-notification-hook-for-attention-and-completion-boundaries|Hooks:
+  Added a Notification hook for attention and completion boundaries]]'
+- '[[Changes/GitHub Copilot CLI/2026-03-06-to-commemorate-github-copilot-cli-reaching-general-availability-last-week-we-re|To
+  commemorate GitHub Copilot CLI reaching general availability last week, we''re…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-03-10-v2-1-72-github-294951528-18ee0f48|claude-code-2026-03-10-v2-1-72-github-294951528-18ee0f48]]'
 source_type: github_releases
 theme: editor-experience
@@ -90,8 +90,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2026-03-04 · Cursor · [[Changes/Cursor/2026-03-04-install-the-cursor-acp-directly-in-your-jetbrains-ide-from-the-acp-registry-and|Install the Cursor ACP directly in your JetBrains IDE from the ACP Registry…]]
-- Later: 2026-03-17 · Claude Code · [[Changes/Claude Code/2026-03-17-vscode-improved-plan-preview-tab-titles-to-use-the-plan-s-heading-instead-of-cla|VSCode Improved plan preview tab titles to use the plan's heading instead…]]
+- Earlier: 2026-03-06 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-03-06-to-commemorate-github-copilot-cli-reaching-general-availability-last-week-we-re|To commemorate GitHub Copilot CLI reaching general availability last week, we're…]]
+- Later: 2026-03-11 · Gemini CLI · [[Changes/Gemini CLI/2026-03-11-document-node-limitation-for-shift-tab-by-scidomino-in-https-github-com-google-g|document node limitation for shift+tab]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: b987db5477093a7cf217683897b3966ae5bbf8a2d941cfb53c39e40660563bc0
+machine_hash: 26413127feeaaef417ecb17893cdd782830ccf37089cf3459149dab3e699ce67
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -52,11 +52,12 @@ record:
   title: Applications are now open to labs at U.S. universities
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-10-06-for-enterprise-teams|For Enterprise teams]]'
-- '[[Changes/Claude Code/2026-10-07-3-enterprise-and-administration-changes-in-v2-1-293|3
-  Enterprise and Administration changes in v2.1.293]]'
 - '[[Changes/Claude Code/2026-10-08-claude-tag-changed-claude-s-notice-that-a-channel-shared-across-enterprise-grid|Claude
   Tag Changed Claude''s notice that a channel shared across Enterprise Grid…]]'
+- '[[Changes/OpenHands/2026-10-08-feat-onboarding-show-the-super-admin-setup-guide-on-enterprise-backends-by-hiept|feat(onboarding):
+  show the Super Admin setup guide on enterprise backends]]'
+- '[[Changes/GitHub Copilot CLI/2026-10-12-keep-allow-all-available-during-startup-while-enterprise-policy-is-still-resolvi|Keep
+  /allow-all available during startup while enterprise policy is still resolving]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-10-15-applications-for-the-rosalind-academic-plan-b85717ef|chatgpt-2026-10-15-applications-for-the-rosalind-academic-plan-b85717ef]]'
 source_type: chatgpt_changelog
 theme: enterprise-admin
@@ -85,8 +86,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Enterprise and Administration
 
-- Earlier: 2026-10-08 · Claude Code · [[Changes/Claude Code/2026-10-08-claude-tag-changed-claude-s-notice-that-a-channel-shared-across-enterprise-grid|Claude Tag Changed Claude's notice that a channel shared across Enterprise Grid…]]
-- Later: 2026-10-20 · Claude Code · [[Changes/Claude Code/2026-10-20-claude-tag-added-public-slack-channels-claude-hasn-t-joined-to-the-claude-tag-ad|Claude Tag Added public Slack channels Claude hasn't joined to the Claude Tag…]]
+- Earlier: 2026-10-12 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-10-12-keep-allow-all-available-during-startup-while-enterprise-policy-is-still-resolvi|Keep /allow-all available during startup while enterprise policy is still resolving]]
+- Later: 2026-10-19 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-10-19-2-enterprise-and-administration-changes-in-v1-0-100|2 Enterprise and Administration changes in v1.0.100]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

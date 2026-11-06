@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 4283a8221310f09e2408576a72701fb16df5213843f57c5d53c5d50c3c69331f
+machine_hash: c2843c2119fd476ee3698088abe5a0bba8a6889f1f0aa2602e8e36ec5a860926
 product: claude-code
 product_name: Claude Code
 record:
@@ -43,12 +43,12 @@ record:
     Design…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-08-added-support-for-forceloginmethod-gateway-and-forcelogingatewayurl-in-your-own|Added
-  support for forceLoginMethod: "gateway" and forceLoginGatewayUrl…]]'
-- '[[Changes/Claude Code/2026-10-09-improved-the-errors-for-a-refused-cloud-session-they-now-say-why-your-organizati|Improved
-  the errors for a refused cloud session]]'
+- '[[Changes/GitHub Copilot CLI/2026-10-13-power-bi-and-bluebird-mcp-servers-accept-their-published-resource-scopes-during|Power
+  BI and Bluebird MCP servers accept their published resource scopes during sign-in]]'
 - '[[Changes/Claude Code/2026-10-14-improved-the-error-shown-when-a-cloud-session-is-refused-because-your-claude-ai|Improved
   the error shown when a cloud session is refused because your claude.ai…]]'
+- '[[Changes/Codex CLI/2026-10-15-53389-use-cached-login-credentials-for-guardian-decisions-swastik-oai|♯53389
+  Use cached login credentials for Guardian decisions @swastik-oai]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-10-16-v2-1-302-github-415177347-763faf43|claude-code-2026-10-16-v2-1-302-github-415177347-763faf43]]'
 source_type: github_releases
 theme: account-access
@@ -82,8 +82,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Account and Access
 
-- Earlier: 2026-10-14 · Claude Code · [[Changes/Claude Code/2026-10-14-improved-the-error-shown-when-a-cloud-session-is-refused-because-your-claude-ai|Improved the error shown when a cloud session is refused because your claude.ai…]]
-- Later: 2026-10-20 · ChatGPT · [[Changes/ChatGPT/2026-10-20-locked-chats-let-you-keep-selected-conversations-in-your-account-while-hiding-th|Introducing locked chats]]
+- Earlier: 2026-10-15 · Codex CLI · [[Changes/Codex CLI/2026-10-15-53389-use-cached-login-credentials-for-guardian-decisions-swastik-oai|♯53389 Use cached login credentials for Guardian decisions @swastik-oai]]
+- Later: 2026-10-19 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-10-19-3-account-and-access-changes-in-v1-0-100|3 Account and Access changes in v1.0.100]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

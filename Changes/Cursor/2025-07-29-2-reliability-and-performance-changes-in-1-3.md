@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: cbf757b4e4feac52f9f1fd86b86ea45e1c6816bf63ed31de6214bf906d697bc0
+machine_hash: a3a38050ef4b03e532b8d8f42cea6028cbb4a4a46af9cf29f6c1f8fed219fe9c
 product: cursor
 product_name: Cursor
 record:
@@ -43,9 +43,10 @@ record:
   title: 2 Reliability and Performance changes in 1.3
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-07-03-faster-tab|Faster Tab]]'
-- '[[Changes/Cursor/2025-07-03-4-reliability-and-performance-changes-in-1-2|4 Reliability
-  and Performance changes in 1.2]]'
+- '[[Changes/Cline/2025-07-22-speed-up-e2e-tests-by-celestial-vault-in-https-github-com-cline-cline-pull-5045|Speed
+  up E2E tests]]'
+- '[[Changes/Gemini CLI/2025-07-25-run-model-availability-check-in-the-background-to-speed-up-startup-by-sandytao52|Run
+  model availability check in the background to speed up startup]]'
 - '[[Changes/Cursor/2025-07-29-agent-edits-are-now-faster-by-lazy-loading-linter-errors-search-replace-edit-lat|Faster
   edits]]'
 source_release: '[[Releases/Cursor/cursor-2025-07-29-1-3-https-cursor-com-changelog-1-3-d153efc3|cursor-2025-07-29-1-3-https-cursor-com-changelog-1-3-d153efc3]]'
@@ -89,8 +90,8 @@ Source: https://cursor.com/changelog/1-3
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2025-07-03 · Cursor · [[Changes/Cursor/2025-07-03-4-reliability-and-performance-changes-in-1-2|4 Reliability and Performance changes in 1.2]]
-- Later: 2025-08-06 · Cursor · [[Changes/Cursor/2025-08-06-1-4-5-improved-performance|1.4.5: Improved performance]]
+- Earlier: 2025-07-25 · Gemini CLI · [[Changes/Gemini CLI/2025-07-25-run-model-availability-check-in-the-background-to-speed-up-startup-by-sandytao52|Run model availability check in the background to speed up startup]]
+- Later: 2025-07-30 · Gemini CLI · [[Changes/Gemini CLI/2025-07-30-run-model-availability-check-in-the-background-to-speed-up-startup-by-sandytao52|Run model availability check in the background to speed up startup]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: b81228b9ff301f57e7deaa14d35bae1e3c109782610d6c66a13c6adb2c6deb44
+machine_hash: 62a4b99fbf3bae1f1439e57a23a49cb8659037f01763aa56017d26a5e04e5cf8
 product: cursor
 product_name: Cursor
 record:
@@ -53,10 +53,10 @@ record:
     using…'
   type: change
 related_changes:
-- '[[Changes/Cursor/2024-10-09-vs-code-1-93-1-cursor-is-now-based-on-vs-code-1-93-1-c087f6|VS
-  Code 1.93.1: Cursor is now based on VS Code 1.93.1]]'
-- '[[Changes/Cursor/2024-12-17-agent-can-reapply-edits-with-a-smarter-apply-model|Agent
-  can reapply edits with a smarter apply model]]'
+- '[[Changes/OpenHands/2025-01-22-users-can-now-define-a-different-llm-as-a-custom-llm-config-named-with-a-predefi|Users
+  can now define a different LLM as a custom LLM config named with a predefined name]]'
+- '[[Changes/OpenHands/2025-02-13-add-success-failure-indicators-for-file-read-edit-operations-by-neubig-in-https|Add
+  success/failure indicators for file read/edit operations]]'
 - '[[Changes/Cursor/2025-02-19-ignore-files-cursorignore-now-blocks-files-from-being-added-in-chat-or-sent-up-f|Ignore
   files: .cursorignore now blocks files from being added in chat or sent up…]]'
 source_release: '[[Releases/Cursor/cursor-2025-02-19-0-46-x-https-cursor-com-changelog-0-46-x-640a0a10|cursor-2025-02-19-0-46-x-https-cursor-com-changelog-0-46-x-640a0a10]]'
@@ -98,7 +98,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2024-12-17 · Cursor · [[Changes/Cursor/2024-12-17-agent-can-reapply-edits-with-a-smarter-apply-model|Agent can reapply edits with a smarter apply model]]
+- Earlier: 2025-02-13 · OpenHands · [[Changes/OpenHands/2025-02-13-add-success-failure-indicators-for-file-read-edit-operations-by-neubig-in-https|Add success/failure indicators for file read/edit operations]]
 - Later: 2025-03-11 · Cursor · [[Changes/Cursor/2025-03-11-0-47-2-cursor-tab-accepts-work-with-single-line-selections|0.47.2: Cursor Tab accepts work with single-line selections]]
 <!-- chronolog:end -->
 

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 43088e72accfbe86572a6c46051e59e924488eb805f8c3df5cb5f3187bdd6bbe
+machine_hash: 4f5106f4716ab5d678224c9d2e49770db785eab80314046f42437ae475401f2c
 product: cursor
 product_name: Cursor
 record:
@@ -45,12 +45,12 @@ record:
     docs
   type: change
 related_changes:
-- '[[Changes/Cursor/2024-01-15-supports-newer-version-of-python-extension|Supports
-  newer version of python extension]]'
-- '[[Changes/Cursor/2024-01-25-update-0-24-3-0-24-4-adds-ability-to-configure-openai-base-url-fixes-getcursor-c|UPDATE
-  (0.24.3-0.24.4): Adds ability to configure OpenAI base URL, fixes…]]'
-- '[[Changes/ChatGPT/2024-05-16-upload-the-latest-file-versions-directly-from-google-drive-microsoft-onedrive-pe-70f6a3|Upload
-  the latest file versions directly from Google Drive, Microsoft OneDrive…]]'
+- '[[Changes/OpenHands/2024-06-04-2-apps-and-integrations-changes-in-0-6-1|2 Apps
+  and Integrations changes in 0.6.1]]'
+- '[[Changes/OpenHands/2024-06-05-bump-typescript-eslint-eslint-plugin-from-7-11-0-to-7-12-0-in-frontend-by-depend|Bump
+  @typescript-eslint/eslint-plugin from 7.11.0 to 7.12.0 in /frontend]]'
+- '[[Changes/OpenHands/2024-06-29-10-apps-and-integrations-changes-in-0-7-0|10 Apps
+  and Integrations changes in 0.7.0]]'
 source_release: '[[Releases/Cursor/cursor-2024-07-03-0-36-x-https-cursor-com-changelog-0-36-x-526adbdf|cursor-2024-07-03-0-36-x-https-cursor-com-changelog-0-36-x-526adbdf]]'
 source_type: cursor_changelog
 theme: apps-integrations
@@ -79,8 +79,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2024-05-16 · ChatGPT · [[Changes/ChatGPT/2024-05-16-upload-the-latest-file-versions-directly-from-google-drive-microsoft-onedrive-pe-70f6a3|Upload the latest file versions directly from Google Drive, Microsoft OneDrive…]]
-- Later: 2025-02-19 · Cursor · [[Changes/Cursor/2025-02-19-2-apps-and-integrations-changes-in-0-46-x|2 Apps and Integrations changes in 0.46.x]]
+- Earlier: 2024-06-29 · OpenHands · [[Changes/OpenHands/2024-06-29-10-apps-and-integrations-changes-in-0-7-0|10 Apps and Integrations changes in 0.7.0]]
+- Later: 2024-07-05 · OpenHands · [[Changes/OpenHands/2024-07-05-chore-deps-dev-bump-typescript-eslint-eslint-plugin-from-7-14-1-to-7-15-0-in-fro|chore(deps-dev): bump @typescript-eslint/eslint-plugin from 7.14.1 to 7.15.0 in /frontend]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

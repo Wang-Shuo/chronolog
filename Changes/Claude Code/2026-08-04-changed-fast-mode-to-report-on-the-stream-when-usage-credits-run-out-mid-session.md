@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: pricing
-machine_hash: 822869a7e7190554935a72bb8d964c59f4dd5ace0dbc685e0a3dabb46d27fc20
+machine_hash: 2cc9cb833cc0e5a9d93a050d738bc97fbc2b464136f3c0a1ce16d589e6a2c337
 product: claude-code
 product_name: Claude Code
 record:
@@ -86,7 +86,7 @@ type: change
 ## Nearby in Pricing Model
 
 - Earlier: 2026-07-29 · ChatGPT · [[Changes/ChatGPT/2026-07-29-research-rarely-happens-alone-chatgpt-for-academic-researchers-gives-faculty-and|ChatGPT for Academic Researchers]]
-- Later: 2026-08-19 · Claude Code · [[Changes/Claude Code/2026-08-19-usage-now-shows-the-usage-credits-spend-row-for-team-and-enterprise-members-and|/usage now shows the usage-credits spend row for Team and Enterprise members…]]
+- Later: 2026-08-10 · Windsurf · [[Changes/Windsurf/2026-08-10-devin-cloud|Devin Cloud]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

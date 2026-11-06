@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: c810add9bb10ed4a538048230ff0af77949eb3031aa8e517d5283139a12a272d
+machine_hash: fd246570af885ff5ceb51768328c1ecae6077961297a4e74a40f7539668fad13
 product: cursor
 product_name: Cursor
 record:
@@ -48,12 +48,12 @@ record:
   title: 3 Editor Experience changes in 3.1
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-04-04-removed-vim-command-toggle-vim-mode-via-config-editor-mode|Removed
-  /vim command (toggle vim mode via /config → Editor mode)]]'
-- '[[Changes/Claude Code/2026-04-08-4-editor-experience-changes-in-v2-1-97|4 Editor
-  Experience changes in v2.1.97]]'
-- '[[Changes/Claude Code/2026-04-09-2-editor-experience-changes-in-v2-1-98|2 Editor
-  Experience changes in v2.1.98]]'
+- '[[Changes/Codex CLI/2026-04-10-16202-fix-paste-driven-bottom-pane-completion-teardown-etraut-openai|♯16202
+  Fix paste-driven bottom pane completion teardown @etraut-openai]]'
+- '[[Changes/GitHub Copilot CLI/2026-04-10-2-editor-experience-changes-in-v1-0-23|2
+  Editor Experience changes in v1.0.23]]'
+- '[[Changes/GitHub Copilot CLI/2026-04-10-redesign-exit-screen-with-copilot-mascot-and-cleaner-usage-summary-layout|Redesign
+  exit screen with Copilot mascot and cleaner usage summary layout]]'
 source_release: '[[Releases/Cursor/cursor-2026-04-13-3-1-https-cursor-com-changelog-3-1-27a51313|cursor-2026-04-13-3-1-https-cursor-com-changelog-3-1-27a51313]]'
 source_type: cursor_changelog
 theme: editor-experience
@@ -98,8 +98,8 @@ Source: https://cursor.com/changelog/3-1
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2026-04-09 · Claude Code · [[Changes/Claude Code/2026-04-09-2-editor-experience-changes-in-v2-1-98|2 Editor Experience changes in v2.1.98]]
-- Later: 2026-04-15 · Claude Code · [[Changes/Claude Code/2026-04-15-2-editor-experience-changes-in-v2-1-110|2 Editor Experience changes in v2.1.110]]
+- Earlier: 2026-04-10 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-04-10-redesign-exit-screen-with-copilot-mascot-and-cleaner-usage-summary-layout|Redesign exit screen with Copilot mascot and cleaner usage summary layout]]
+- Later: 2026-04-14 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-04-14-2-editor-experience-changes-in-v1-0-26|2 Editor Experience changes in v1.0.26]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

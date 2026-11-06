@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 72099fe0b7b8d82e064190a3cbf200330a91b73417f595acb3c0c6da2d80d8a1
+machine_hash: 7f85b69ee147b994f5d7afef6f0bebfd015fbe14ec10580f4591bb5e98e9b108
 product: cursor
 product_name: Cursor
 record:
@@ -45,12 +45,12 @@ record:
   title: 'UPDATE (0.41.1–0.41.3): Improves onboarding UX, fixes a bug with composer…'
   type: change
 related_changes:
-- '[[Changes/Cursor/2024-07-13-this-build-comes-with-a-new-experimental-multi-file-editing-feature-to-enable-it|Composer
-  (beta)]]'
-- '[[Changes/Cursor/2024-07-23-vs-code-1-91-1-cursor-is-now-based-on-vs-code-1-91-1|VS
-  Code 1.91.1: Cursor is now based on VS Code 1.91.1]]'
-- '[[Changes/Cursor/2024-08-02-cursor-tab-previously-called-copilot-defaults-to-chunked-streaming-this-build-al|Cursor
-  Tab (previously called Copilot++) defaults to chunked streaming]]'
+- '[[Changes/Aider/2024-08-13-new-code-message-command-request-a-code-edit-while-in-ask-mode|New
+  /code message command request a code edit while in ask mode]]'
+- '[[Changes/Cline/2024-08-31-you-can-now-edit-claude-s-changes-before-accepting-when-he-edits-or-creates-a-fi|You
+  can now edit Claude''s changes before accepting! When he edits or creates…]]'
+- '[[Changes/Cline/2024-09-05-claude-s-changes-now-appear-in-your-file-s-timeline-allowing-you-to-easily-view|Claude''s
+  changes now appear in your file''s Timeline, allowing you to easily view…]]'
 source_release: '[[Releases/Cursor/cursor-2024-09-17-0-41-x-https-cursor-com-changelog-0-41-x-a8b13ea8|cursor-2024-09-17-0-41-x-https-cursor-com-changelog-0-41-x-a8b13ea8]]'
 source_type: cursor_changelog
 theme: editor-experience
@@ -83,8 +83,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2024-08-02 · Cursor · [[Changes/Cursor/2024-08-02-cursor-tab-previously-called-copilot-defaults-to-chunked-streaming-this-build-al|Cursor Tab (previously called Copilot++) defaults to chunked streaming]]
-- Later: 2024-10-09 · Cursor · [[Changes/Cursor/2024-10-09-vs-code-1-93-1-cursor-is-now-based-on-vs-code-1-93-1-c087f6|VS Code 1.93.1: Cursor is now based on VS Code 1.93.1]]
+- Earlier: 2024-09-05 · Cline · [[Changes/Cline/2024-09-05-claude-s-changes-now-appear-in-your-file-s-timeline-allowing-you-to-easily-view|Claude's changes now appear in your file's Timeline, allowing you to easily view…]]
+- Later: 2024-09-29 · Aider · [[Changes/Aider/2024-09-29-3-editor-experience-changes-in-v0-58-0|3 Editor Experience changes in v0.58.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

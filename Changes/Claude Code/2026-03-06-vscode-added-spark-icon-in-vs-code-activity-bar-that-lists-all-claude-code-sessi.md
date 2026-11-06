@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 0d2bb0a99e4f868ba501a272c6b81dee7ceb877433d1b084ff0ff93145d6cd4a
+machine_hash: 22a545269b86adf595fc7751da291bd8f9419f0b7a7a6ad0ab9b05d9a024f345
 product: claude-code
 product_name: Claude Code
 record:
@@ -46,12 +46,12 @@ record:
     Code…'
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-02-28-added-always-copy-full-response-option-to-the-copy-picker-when-selected-future-c|Added
-  "Always copy full response" option to the /copy picker]]'
-- '[[Changes/Cursor/2026-03-03-the-content-from-your-plan-files-are-now-included-in-autocomplete-suggestions-as|The
-  content from your plan files are now included in autocomplete suggestions as you…]]'
 - '[[Changes/Claude Code/2026-03-05-3-interface-experience-changes-in-v2-1-69|3 Interface
   Experience changes in v2.1.69]]'
+- '[[Changes/Codex CLI/2026-03-05-13313-renaming-team-to-business-plan-during-tui-onboarding-bwanner-oai|♯13313
+  Renaming Team to Business plan during TUI onboarding @bwanner-oai]]'
+- '[[Changes/GitHub Copilot CLI/2026-03-05-text-selection-persists-after-copying-to-clipboard-in-alt-screen|Text
+  selection persists after copying to clipboard in alt screen]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-03-06-v2-1-70-github-293754953-afac13c0|claude-code-2026-03-06-v2-1-70-github-293754953-afac13c0]]'
 source_type: github_releases
 theme: interface-experience
@@ -84,8 +84,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-03-05 · Claude Code · [[Changes/Claude Code/2026-03-05-3-interface-experience-changes-in-v2-1-69|3 Interface Experience changes in v2.1.69]]
-- Later: 2026-03-10 · Claude Code · [[Changes/Claude Code/2026-03-10-added-w-key-in-copy-to-write-the-focused-selection-directly-to-a-file-bypassing|Added w key in /copy to write the focused selection directly to a file…]]
+- Earlier: 2026-03-05 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-03-05-text-selection-persists-after-copying-to-clipboard-in-alt-screen|Text selection persists after copying to clipboard in alt screen]]
+- Later: 2026-03-08 · Codex CLI · [[Changes/Codex CLI/2026-03-08-added-a-new-model-selection-surface-update-so-the-latest-model-catalog-changes-a|Added a new model-selection surface update so the latest model catalog changes…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

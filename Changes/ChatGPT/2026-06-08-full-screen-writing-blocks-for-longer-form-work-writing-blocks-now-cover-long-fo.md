@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 853664a3223004e80808996c71919eac50fe68d0a7e53c32faa94cad788ae668
+machine_hash: 5c8d3ae168b4157dcbfd9d2884222d029f46993066364b258fc78e445446a6d5
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -115,7 +115,7 @@ type: change
 ## Nearby in Files and Data
 
 - Earlier: 2026-06-04 · Cursor · [[Changes/Cursor/2026-06-04-0-1-6-release-and-analytics-cursor-sdk-0-1-6-documents-the-buildkite-release-pat|0.1.6 release and analytics]]
-- Later: 2026-06-26 · ChatGPT · [[Changes/ChatGPT/2026-06-26-the-personal-finance-experience-in-chatgpt-is-rolling-out-to-plus-users-in-the-u|Personal finance in ChatGPT expands to Plus users and Android]]
+- Later: 2026-06-16 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-06-16-recover-from-unreadable-native-document-attachments-by-falling-back-to-file-path|Recover from unreadable native document attachments by falling back to file-path uploads]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

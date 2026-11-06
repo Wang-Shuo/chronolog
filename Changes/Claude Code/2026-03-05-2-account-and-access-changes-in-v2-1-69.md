@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 54b241d9ec6d9b32a87b23bc0d9823c0fc0055f2d447d7cfe1b5196826541935
+machine_hash: 91209581f6442060e9ffae815c2b8bd3460f95d53cd773831b182ff391c1b1b3
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,12 +45,12 @@ record:
   title: 2 Account and Access changes in v2.1.69
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-02-13-added-claude-auth-login-claude-auth-status-and-claude-auth-logout-cli-subcommand|Added
-  claude auth login, claude auth status, and claude auth logout CLI subcommands]]'
-- '[[Changes/Claude Code/2026-02-19-improved-performance-by-caching-authentication-failures-for-http-and-sse-mcp-ser|Improved
-  performance by caching authentication failures for HTTP and SSE MCP…]]'
+- '[[Changes/Gemini CLI/2026-02-27-3-account-and-access-changes-in-v0-31-0|3 Account
+  and Access changes in v0.31.0]]'
 - '[[Changes/Claude Code/2026-02-28-added-manual-url-paste-fallback-during-mcp-oauth-authentication-if-the-automatic|Added
   manual URL paste fallback during MCP OAuth authentication]]'
+- '[[Changes/Codex CLI/2026-03-02-3-account-and-access-changes-in-rust-v0-107-0|3
+  Account and Access changes in rust-v0.107.0]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-03-05-v2-1-69-github-293216328-162b2e44|claude-code-2026-03-05-v2-1-69-github-293216328-162b2e44]]'
 source_type: github_releases
 theme: account-access
@@ -95,8 +95,8 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.69
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Account and Access
 
-- Earlier: 2026-02-28 · Claude Code · [[Changes/Claude Code/2026-02-28-added-manual-url-paste-fallback-during-mcp-oauth-authentication-if-the-automatic|Added manual URL paste fallback during MCP OAuth authentication]]
-- Later: 2026-03-06 · Claude Code · [[Changes/Claude Code/2026-03-06-vscode-added-native-mcp-server-management-dialog-use-mcp-in-the-chat-panel-to-en|VSCode Added native MCP server management dialog]]
+- Earlier: 2026-03-02 · Codex CLI · [[Changes/Codex CLI/2026-03-02-3-account-and-access-changes-in-rust-v0-107-0|3 Account and Access changes in rust-v0.107.0]]
+- Later: 2026-03-05 · Codex CLI · [[Changes/Codex CLI/2026-03-05-12383-add-new-scopes-to-login-adaley-openai|♯12383 add new scopes to login @adaley-openai]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

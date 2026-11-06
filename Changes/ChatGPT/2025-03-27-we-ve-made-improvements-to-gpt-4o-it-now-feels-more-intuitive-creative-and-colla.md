@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 7680d1367bfd9ba67b39e883ab429c4f4722f1dc73e9b62e3ff20de232785da1
+machine_hash: 460381606cadf458be3a2062aa7a5520d475d0cb2e9f863f8794c4f1c2278e06
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -46,12 +46,12 @@ record:
   title: ChatGPT makes improvements to GPT-4o—it now feels more intuitive, creative…
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-03-11-3-model-support-changes-in-0-47-x|3 Model Support changes
-  in 0.47.x]]'
-- '[[Changes/ChatGPT/2025-03-18-o1-and-o3-mini-now-offer-python-powered-data-analysis-in-chatgpt-you-can-now-ask-bfa530|o1
-  and o3-mini now offer Python-powered data analysis in ChatGPT]]'
 - '[[Changes/Cursor/2025-03-23-2-model-support-changes-in-0-48-x|2 Model Support changes
   in 0.48.x]]'
+- '[[Changes/Aider/2025-03-25-2-model-support-changes-in-v0-79-0|2 Model Support changes
+  in v0.79.0]]'
+- '[[Changes/Cline/2025-03-26-4-model-support-changes-in-v3-8-3|4 Model Support changes
+  in v3.8.3]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-03-27-improvements-to-gpt-4o-4bcfc1a7|chatgpt-2025-03-27-improvements-to-gpt-4o-4bcfc1a7]]'
 source_type: chatgpt_changelog
 theme: model-support
@@ -82,8 +82,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2025-03-23 · Cursor · [[Changes/Cursor/2025-03-23-2-model-support-changes-in-0-48-x|2 Model Support changes in 0.48.x]]
-- Later: 2025-04-10 · ChatGPT · [[Changes/ChatGPT/2025-04-10-effective-april-30-2025-gpt-4-will-be-retired-from-chatgpt-and-fully-replaced-by-d03b3b|Sunsetting GPT‑4 in ChatGPT]]
+- Earlier: 2025-03-26 · Cline · [[Changes/Cline/2025-03-26-4-model-support-changes-in-v3-8-3|4 Model Support changes in v3.8.3]]
+- Later: 2025-03-31 · Aider · [[Changes/Aider/2025-03-31-3-model-support-changes-in-v0-80-0|3 Model Support changes in v0.80.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 84d98b39b98564a290534fb05ffbad7739df0a202d9f8c61e7ee13a84fab3207
+machine_hash: b2da5e3b18e75092639ba17848837e01ac998ef03dee4bee562b9a0f6209e1f1
 product: cursor
 product_name: Cursor
 record:
@@ -46,10 +46,10 @@ record:
   title: '"cursor-fast": This is a new model available in command-k and chat'
   type: change
 related_changes:
-- '[[Changes/Cursor/2023-11-10-new-models-you-can-plug-in-your-api-key-to-try-out-the-newest-gpt-4-and-gpt-3-tu|New
-  models: you can plug in your API key to try out the newest gpt-4 and gpt-3 turbo…]]'
-- '[[Changes/Cursor/2023-12-16-ai-review-beta-this-is-a-new-experimental-feature-that-let-s-gpt-4-scan-your-git|AI
-  Review (beta)]]'
+- '[[Changes/Aider/2023-12-20-3-model-support-changes-in-v0-19-0|3 Model Support changes
+  in v0.19.0]]'
+- '[[Changes/Aider/2024-01-04-add-images-to-the-chat-to-automatically-use-gpt-4-vision-by-joshuavial|Add
+  images to the chat to automatically use GPT-4 Vision, by @joshuavial]]'
 - '[[Changes/Cursor/2024-01-15-cursor-fast-is-a-newly-trained-model-between-gpt-3-5-and-gpt-4-coding-capabiliti-bb4c11|Cursor-Fast
   is a newly trained model between gpt-3.5 and gpt-4 coding capabilities…]]'
 source_release: '[[Releases/Cursor/cursor-2024-01-18-0-23-x-https-cursor-com-changelog-0-23-x-c0ec65fe|cursor-2024-01-18-0-23-x-https-cursor-com-changelog-0-23-x-c0ec65fe]]'

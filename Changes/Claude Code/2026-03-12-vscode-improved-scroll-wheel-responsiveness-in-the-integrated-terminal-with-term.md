@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 6601a70d8cfd28f1d3f3d3602c61757a07dcb5ee5c12327420c978570dab1710
+machine_hash: 006243e0a192f8541092f0ded733a440ed53ff1bf1a0656eb231d293a5828558
 product: claude-code
 product_name: Claude Code
 record:
@@ -51,12 +51,12 @@ record:
   title: '[VSCode] Improved scroll wheel responsiveness in the integrated terminal…'
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-03-07-2-developer-workflow-changes-in-v2-1-71|2 Developer
-  Workflow changes in v2.1.71]]'
-- '[[Changes/Claude Code/2026-03-10-3-developer-workflow-changes-in-v2-1-72|3 Developer
-  Workflow changes in v2.1.72]]'
-- '[[Changes/Claude Code/2026-03-11-deprecated-output-style-command-use-config-instead-output-style-is-now-fixed-at|Deprecated
-  /output-style command — use /config instead]]'
+- '[[Changes/Gemini CLI/2026-03-11-code-review-fixes-as-a-pr-by-jacob314-in-https-github-com-google-gemini-gemini-c|Code
+  review fixes as a pr]]'
+- '[[Changes/GitHub Copilot CLI/2026-03-11-4-developer-workflow-changes-in-v1-0-4|4
+  Developer Workflow changes in v1.0.4]]'
+- '[[Changes/OpenHands/2026-03-11-2-developer-workflow-changes-in-1-5-0|2 Developer
+  Workflow changes in 1.5.0]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-03-12-v2-1-74-github-295929475-2ee971ae|claude-code-2026-03-12-v2-1-74-github-295929475-2ee971ae]]'
 source_type: github_releases
 theme: developer-workflow
@@ -88,8 +88,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2026-03-11 · Claude Code · [[Changes/Claude Code/2026-03-11-deprecated-output-style-command-use-config-instead-output-style-is-now-fixed-at|Deprecated /output-style command — use /config instead]]
-- Later: 2026-03-14 · Claude Code · [[Changes/Claude Code/2026-03-14-4-developer-workflow-changes-in-v2-1-76|4 Developer Workflow changes in v2.1.76]]
+- Earlier: 2026-03-11 · OpenHands · [[Changes/OpenHands/2026-03-11-2-developer-workflow-changes-in-1-5-0|2 Developer Workflow changes in 1.5.0]]
+- Later: 2026-03-13 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-03-13-3-developer-workflow-changes-in-v1-0-5|3 Developer Workflow changes in v1.0.5]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

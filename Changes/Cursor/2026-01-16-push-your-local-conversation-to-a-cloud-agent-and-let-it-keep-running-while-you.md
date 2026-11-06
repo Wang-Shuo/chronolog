@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: c71386ccc5dc5ca7ed98dba3154310c53d31cd518df8c77aa04e7de2e3898e0d
+machine_hash: 953361521399c13827d96f3644541b9ab9a3aca53d9a2d3b71c36748c5eb2ed3
 product: cursor
 product_name: Cursor
 record:
@@ -47,10 +47,10 @@ record:
   title: Handoff to Cloud Agents
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-01-11-added-claude-code-disable-background-tasks-environment-variable-to-disable-all-b|Added
-  CLAUDE_CODE_DISABLE_BACKGROUND_TASKS environment variable to disable all…]]'
-- '[[Changes/Claude Code/2026-01-14-added-inline-display-of-agent-s-final-response-in-task-notifications-making-it-e|Added
-  inline display of agent''s final response in task notifications, making…]]'
+- '[[Changes/Gemini CLI/2026-01-14-10-agent-mode-changes-in-v0-24-0|10 Agent Mode
+  changes in v0.24.0]]'
+- '[[Changes/Codex CLI/2026-01-15-9275-feat-add-agent-roles-to-collab-tools-jif-oai|♯9275
+  feat: add agent roles to collab tools @jif-oai]]'
 - '[[Changes/Claude Code/2026-01-16-added-plansdirectory-setting-to-customize-where-plan-files-are-stored|Added
   plansDirectory setting to customize where plan files are stored]]'
 source_release: '[[Releases/Cursor/cursor-2026-01-16-cli-agent-modes-and-cloud-handoff-https-cursor-com-changelog-cli-becd78b5|cursor-2026-01-16-cli-agent-modes-and-cloud-handoff-https-cursor-com-changelog-cli-becd78b5]]'
@@ -93,7 +93,7 @@ type: change
 ## Nearby in Agent Mode
 
 - Earlier: 2026-01-16 · Claude Code · [[Changes/Claude Code/2026-01-16-added-plansdirectory-setting-to-customize-where-plan-files-are-stored|Added plansDirectory setting to customize where plan files are stored]]
-- Later: 2026-01-22 · Cursor · [[Changes/Cursor/2026-01-22-skills|Skills]]
+- Later: 2026-01-16 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-01-16-2-agent-mode-changes-in-v0-0-384|2 Agent Mode changes in v0.0.384]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

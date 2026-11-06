@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: b614584931377c97fe9b7239c68a41bcbbd31970c126d2d3746850d740f1573f
+machine_hash: 55db9da4910313346a93d58df1834990a82fa3e64381390936a68e8fb13a795a
 product: cursor
 product_name: Cursor
 record:
@@ -84,7 +84,7 @@ type: change
 ## Nearby in Model Support
 
 - Earlier: 2023-05-20 · Cursor · [[Changes/Cursor/2023-05-20-upgrades-to-gpt-4-e59675|Upgrades to GPT-4]]
-- Later: 2023-06-22 · ChatGPT · [[Changes/ChatGPT/2023-06-22-browsing-plus-users-can-now-use-browsing-to-get-comprehensive-answers-and-curren|Browsing: Plus users can now use Browsing to get comprehensive answers and current…]]
+- Later: 2023-06-07 · Aider · [[Changes/Aider/2023-06-07-added-support-for-gpt-3-5-turbo-and-gpt-4-32k|Added support for gpt-3.5-turbo and gpt-4-32k]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

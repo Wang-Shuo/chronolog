@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: f4e0e3d156aca09e9dc0902db240cb6bfcd1801884ad864cbb36e830168b2f7a
+machine_hash: e31831362f8cd14d3d7f6b90a4725b664165181406dccffdf68ff3e6a015fca7
 product: cursor
 product_name: Cursor
 record:
@@ -42,10 +42,10 @@ record:
   title: Bugbot can automatically fix issues it finds in pull requests
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-02-24-bashtool-now-skips-login-shell-l-flag-by-default-when-a-shell-snapshot-is-availa|BashTool
-  now skips login shell (-l flag) by default when a shell snapshot…]]'
 - '[[Changes/Claude Code/2026-02-26-improved-always-allow-prefix-suggestions-for-compound-bash-commands-e-g-cd-tmp-g|Improved
   "always allow" prefix suggestions for compound bash commands…]]'
+- '[[Changes/Codex CLI/2026-02-26-12758-feat-include-available-decisions-in-command-approval-requests-bolinfest|♯12758
+  feat: include available decisions in command approval requests @bolinfest]]'
 - '[[Changes/Cursor/2026-02-26-bugbot-will-post-a-comment-on-the-original-pr-with-a-preview-of-the-autofix-chan|Bugbot
   will post a comment on the original PR with a preview of the autofix changes…]]'
 source_release: '[[Releases/Cursor/cursor-2026-02-26-bugbot-autofix-https-cursor-com-changelog-02-26-26-22c9cc48|cursor-2026-02-26-bugbot-autofix-https-cursor-com-changelog-02-26-26-22c9cc48]]'
@@ -77,8 +77,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2026-02-26 · Claude Code · [[Changes/Claude Code/2026-02-26-improved-always-allow-prefix-suggestions-for-compound-bash-commands-e-g-cd-tmp-g|Improved "always allow" prefix suggestions for compound bash commands…]]
-- Later: 2026-02-28 · Claude Code · [[Changes/Claude Code/2026-02-28-improved-model-command-to-show-the-currently-active-model-in-the-slash-command-m|Improved /model command to show the currently active model in the slash command menu]]
+- Earlier: 2026-02-26 · Codex CLI · [[Changes/Codex CLI/2026-02-26-12758-feat-include-available-decisions-in-command-approval-requests-bolinfest|♯12758 feat: include available decisions in command approval requests @bolinfest]]
+- Later: 2026-02-27 · Cline · [[Changes/Cline/2026-02-27-generate-commit-message-from-staged-changes-only-when-staging-exists|Generate commit message from staged changes only when staging exists]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

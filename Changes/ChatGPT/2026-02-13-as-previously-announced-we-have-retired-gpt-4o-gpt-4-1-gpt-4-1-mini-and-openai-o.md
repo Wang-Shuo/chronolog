@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: policy
-machine_hash: 6177ec02e25b1d4094425f4fa7c803c17b168723d9c1873af9bb53addc408c8f
+machine_hash: 397ecc34f235fda3cba1c6c7752321bd31c27494f307d3a64116428d6228c032
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -48,12 +48,12 @@ record:
   title: Retiring GPT-4o and other legacy models
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-02-05-claude-opus-4-6-is-now-available|Claude Opus 4.6
-  is now available!]]'
-- '[[Changes/Claude Code/2026-02-07-fast-mode-is-now-available-for-opus-4-6-learn-more-at-https-code-claude-com-docs|Fast
-  mode is now available for Opus 4.6]]'
-- '[[Changes/ChatGPT/2026-02-10-we-re-making-an-update-to-gpt-5-2-instant-in-chatgpt-and-the-api-that-improves-r|GPT-5.2
-  Instant Update]]'
+- '[[Changes/Codex CLI/2026-02-12-3-model-support-changes-in-rust-v0-101-0|3 Model
+  Support changes in rust-v0.101.0]]'
+- '[[Changes/Codex CLI/2026-02-12-4-model-support-changes-in-rust-v0-100-0|4 Model
+  Support changes in rust-v0.100.0]]'
+- '[[Changes/GitHub Copilot CLI/2026-02-12-add-streamer-mode-to-hide-preview-model-names-and-quota-details-for-streaming|Add
+  /streamer-mode to hide preview model names and quota details for streaming]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-02-13-retiring-gpt-4o-and-other-legacy-models-71b41b16|chatgpt-2026-02-13-retiring-gpt-4o-and-other-legacy-models-71b41b16]]'
 source_type: chatgpt_changelog
 theme: model-support
@@ -80,8 +80,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-02-10 · ChatGPT · [[Changes/ChatGPT/2026-02-10-we-re-making-an-update-to-gpt-5-2-instant-in-chatgpt-and-the-api-that-improves-r|GPT-5.2 Instant Update]]
-- Later: 2026-02-17 · Claude Code · [[Changes/Claude Code/2026-02-17-added-support-for-claude-sonnet-4-6|Added support for Claude Sonnet 4.6]]
+- Earlier: 2026-02-12 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-02-12-add-streamer-mode-to-hide-preview-model-names-and-quota-details-for-streaming|Add /streamer-mode to hide preview model names and quota details for streaming]]
+- Later: 2026-02-13 · Cline · [[Changes/Cline/2026-02-13-ui-ux-fixes-with-minimax-model-family|UI/UX fixes with minimax model family]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

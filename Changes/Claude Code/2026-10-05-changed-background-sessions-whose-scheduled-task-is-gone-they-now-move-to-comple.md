@@ -4,20 +4,20 @@ date: '2026-10-05'
 description: 'Claude Code · 2026-10-05 · Automation and Scheduling: Changed background
   sessions whose scheduled task is gone: they now move to Completed about 20 seconds…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2025-01-14-today-we-re-rolling-out-a-beta-version-of-tasks-a-new-way-to-ask-chatgpt-to-do-t-2d33b6|Scheduled
-    tasks in ChatGPT]]'
+  first_in_tracked: '[[Changes/OpenHands/2024-09-04-better-syntax-error-loop-detection-by-tobitege-in-https-github-com-all-hands-ai|Better
+    syntax error loop detection]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 629
+  lag_days: 761
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: eac9d1858038257c818a7c4cbeccf89bc27f91d5be0d774a928a5cb55a01ac3f
+machine_hash: a6961552947e14b1c233fa3434ab1218bfa6f8902e04cb23711756a2248a4782
 product: claude-code
 product_name: Claude Code
 record:
@@ -43,10 +43,10 @@ record:
   title: Changed background sessions whose scheduled task is gone
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-08-27-changed-loop-self-paced-dynamic-mode-and-the-no-prompt-autonomous-default-are-no|Changed
-  /loop: self-paced dynamic mode and the no-prompt autonomous default…]]'
-- '[[Changes/Claude Code/2026-09-23-claude-tag-changed-the-routine-list-claude-gives-when-asked-in-a-slack-thread-to|Claude
-  Tag Changed the routine list Claude gives when asked in a Slack thread…]]'
+- '[[Changes/OpenHands/2026-09-23-chore-consume-sdk-1-49-5-and-automation-1-15-0-by-juanmichelini-in-https-github|chore:
+  consume SDK 1.49.5 and Automation 1.15.0]]'
+- '[[Changes/OpenHands/2026-09-25-3-automation-and-scheduling-changes-in-v1-24-0|3
+  Automation and Scheduling changes in v1.24.0]]'
 - '[[Changes/ChatGPT/2026-09-29-site-owners-can-also-create-recurring-cloud-schedules-from-automations-these-upd|Site
   owners can also create recurring cloud schedules from Automations]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-10-05-v2-1-290-github-403993621-ae06f2b6|claude-code-2026-10-05-v2-1-290-github-403993621-ae06f2b6]]'
@@ -89,13 +89,13 @@ type: change
 ## Nearby in Automation and Scheduling
 
 - Earlier: 2026-09-29 · ChatGPT · [[Changes/ChatGPT/2026-09-29-site-owners-can-also-create-recurring-cloud-schedules-from-automations-these-upd|Site owners can also create recurring cloud schedules from Automations]]
-- Later: 2026-10-08 · Claude Code · [[Changes/Claude Code/2026-10-08-changed-ctrl-c-at-the-idle-prompt-of-an-attached-background-session-to-leave-a-p|Changed Ctrl+C at the idle prompt of an attached background session to leave…]]
+- Later: 2026-10-06 · OpenHands · [[Changes/OpenHands/2026-10-06-5-automation-and-scheduling-changes-in-v1-25-0|5 Automation and Scheduling changes in v1.25.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2025-01-14 · ChatGPT · [[Changes/ChatGPT/2025-01-14-today-we-re-rolling-out-a-beta-version-of-tasks-a-new-way-to-ask-chatgpt-to-do-t-2d33b6|Scheduled tasks in ChatGPT]]
+- Earliest same-theme entry in the tracked set: 2024-09-04 · OpenHands · [[Changes/OpenHands/2024-09-04-better-syntax-error-loop-detection-by-tobitege-in-https-github-com-all-hands-ai|Better syntax error loop detection]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

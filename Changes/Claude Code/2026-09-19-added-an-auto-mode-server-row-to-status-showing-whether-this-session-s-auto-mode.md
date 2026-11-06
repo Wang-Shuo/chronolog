@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 1bc6e8133f1fb2477c02220fafd219547f475afc2182319d1979f04acc50ab2e
+machine_hash: bd1e93a16f215e590919bd602637d0e8a3db747f6461b1d3f4580e1a3f88c31e
 product: claude-code
 product_name: Claude Code
 record:
@@ -43,10 +43,10 @@ record:
     auto…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-15-changed-auto-mode-on-bedrock-vertex-and-foundry-to-use-the-local-classifier-by-d|Changed
-  auto mode on Bedrock, Vertex and Foundry to use the local classifier…]]'
-- '[[Changes/Claude Code/2026-09-17-vscode-improved-the-agent-map-the-pill-counts-running-agents-and-turns-red-after|VSCode
-  Improved the agent map]]'
+- '[[Changes/Codex CLI/2026-09-17-9-agent-mode-changes-in-rust-v0-155-0|9 Agent Mode
+  changes in rust-v0.155.0]]'
+- '[[Changes/OpenHands/2026-09-17-2-agent-mode-changes-in-v1-20-0|2 Agent Mode changes
+  in v1.20.0]]'
 - '[[Changes/Claude Code/2026-09-18-4-agent-mode-changes-in-v2-1-277|4 Agent Mode
   changes in v2.1.277]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-19-v2-1-278-github-391877760-2958ad0a|claude-code-2026-09-19-v2-1-278-github-391877760-2958ad0a]]'
@@ -78,7 +78,7 @@ type: change
 ## Nearby in Agent Mode
 
 - Earlier: 2026-09-18 · Claude Code · [[Changes/Claude Code/2026-09-18-4-agent-mode-changes-in-v2-1-277|4 Agent Mode changes in v2.1.277]]
-- Later: 2026-09-22 · Claude Code · [[Changes/Claude Code/2026-09-22-2-agent-mode-changes-in-v2-1-280|2 Agent Mode changes in v2.1.280]]
+- Later: 2026-09-21 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-09-21-show-live-elapsed-time-for-execution-subagents-in-timeline-entries|Show live elapsed time for execution subagents in timeline entries]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

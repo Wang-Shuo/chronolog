@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 328a50fb684e31d300dbc06136f33b382bf935de4fc6571f82fb0e060ad968c8
+machine_hash: 024df2a8dd11108f315b016c591bd374f08d907dccf28716be66784dedb9f618
 product: cursor
 product_name: Cursor
 record:
@@ -44,12 +44,11 @@ record:
   title: 2 Reliability and Performance changes in 2.0
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2025-09-17-2-reliability-and-performance-changes-in-toggle-thinking-time-in-the-message|2
-  Reliability and Performance changes in Toggle thinking time in the message…]]'
-- '[[Changes/Cursor/2025-09-29-8-reliability-and-performance-changes-in-1-7|8 Reliability
-  and Performance changes in 1.7]]'
-- '[[Changes/ChatGPT/2025-10-23-group-work-upload-notes-proposals-and-contracts-so-collaborators-can-draft-deliv|Group
-  work: Upload notes, proposals, and contracts so collaborators can draft…]]'
+- '[[Changes/Windsurf/2025-10-23-performance-optimizations-and-stability-enhancements|Performance
+  optimizations and stability enhancements]]'
+- '[[Changes/Windsurf/2025-10-26-various-performance-improvements-and-bug-fixes|Various
+  performance improvements and bug fixes]]'
+- '[[Changes/Windsurf/2025-10-26-falcon-alpha|Falcon Alpha]]'
 source_release: '[[Releases/Cursor/cursor-2025-10-29-2-0-https-cursor-com-changelog-2-0-66a8e76e|cursor-2025-10-29-2-0-https-cursor-com-changelog-2-0-66a8e76e]]'
 source_type: cursor_changelog
 theme: reliability-performance
@@ -102,8 +101,8 @@ Source: https://cursor.com/changelog/2-0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2025-10-23 · ChatGPT · [[Changes/ChatGPT/2025-10-23-group-work-upload-notes-proposals-and-contracts-so-collaborators-can-draft-deliv|Group work: Upload notes, proposals, and contracts so collaborators can draft…]]
-- Later: 2025-12-10 · Cursor · [[Changes/Cursor/2025-12-10-2-reliability-and-performance-changes-in-2-2|2 Reliability and Performance changes in 2.2]]
+- Earlier: 2025-10-26 · Windsurf · [[Changes/Windsurf/2025-10-26-falcon-alpha|Falcon Alpha]]
+- Later: 2025-10-30 · Codex CLI · [[Changes/Codex CLI/2025-10-30-chore-speed-up-pipeline-in-https-github-com-openai-codex-pull-5812|chore: speed-up pipeline in (source link)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

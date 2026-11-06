@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 38a7db678621307d663c150e9d262dbfd265c43c41b4e20512d40dd86b769f29
+machine_hash: 497aa759c03e7b9eaa4ba0493552fcd43b514425048bc0859332aa43756682db
 product: cursor
 product_name: Cursor
 record:
@@ -46,12 +46,12 @@ record:
   title: Cmd-I to Heal
   type: change
 related_changes:
-- '[[Changes/Cursor/2024-01-18-more-chat-symbol-links-when-the-chat-references-a-code-symbol-you-ll-often-be-ab|More
-  chat symbol links]]'
 - '[[Changes/Cursor/2024-01-18-apply-button-we-ve-added-some-polish-to-the-apply-codeblock-experience-in-chat|Apply
   button: We''ve added some polish to the "apply codeblock" experience in chat]]'
 - '[[Changes/Cursor/2024-01-18-chat-lints-if-the-ai-suggests-a-code-change-in-chat-that-involves-a-made-up-code|Chat
   lints: If the AI suggests a code change in chat that involves a made up code…]]'
+- '[[Changes/Aider/2024-01-23-3-editor-experience-changes-in-v0-22-0|3 Editor Experience
+  changes in v0.22.0]]'
 source_release: '[[Releases/Cursor/cursor-2024-02-02-0-25-0-nightly-https-cursor-com-changelog-0-25-0-nightly-8ca356c1|cursor-2024-02-02-0-25-0-nightly-https-cursor-com-changelog-0-25-0-nightly-8ca356c1]]'
 source_type: cursor_changelog
 theme: editor-experience
@@ -78,7 +78,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2024-01-18 · Cursor · [[Changes/Cursor/2024-01-18-chat-lints-if-the-ai-suggests-a-code-change-in-chat-that-involves-a-made-up-code|Chat lints: If the AI suggests a code change in chat that involves a made up code…]]
+- Earlier: 2024-01-23 · Aider · [[Changes/Aider/2024-01-23-3-editor-experience-changes-in-v0-22-0|3 Editor Experience changes in v0.22.0]]
 - Later: 2024-02-09 · Cursor · [[Changes/Cursor/2024-02-09-copilot-quality-of-life-improvements-show-ghost-text-more-often-toggle-on-off-on|Copilot++ quality of life improvements…]]
 <!-- chronolog:end -->
 

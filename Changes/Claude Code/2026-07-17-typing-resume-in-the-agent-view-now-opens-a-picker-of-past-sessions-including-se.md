@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: c180838a9d0b42cb7b18001090203ba644469ed3b3a2fba6713b3d6a26ca3636
+machine_hash: 262443b2dae9b809cf80856d379edf32a082f1351b12a7b5f8b5a22d2125a723
 product: claude-code
 product_name: Claude Code
 record:
@@ -57,13 +57,12 @@ record:
   title: Typing `/resume` in the agent view now opens a picker of past sessions
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-07-14-added-mouse-click-support-for-multi-select-menus-and-other-input-rows-in-fullscr|Added
-  mouse-click support for multi-select menus and "Other" input rows in fullscreen
-  mode]]'
 - '[[Changes/Claude Code/2026-07-14-2-interface-experience-changes-in-v2-1-210|2 Interface
   Experience changes in v2.1.210]]'
 - '[[Changes/Claude Code/2026-07-15-improved-terminal-layout-and-rendering-performance|Improved
   terminal layout and rendering performance]]'
+- '[[Changes/GitHub Copilot CLI/2026-07-16-5-interface-experience-changes-in-v1-0-71|5
+  Interface Experience changes in v1.0.71]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-07-17-v2-1-212-github-355310036-d94b4e11|claude-code-2026-07-17-v2-1-212-github-355310036-d94b4e11]]'
 source_type: github_releases
 theme: interface-experience
@@ -99,7 +98,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-07-15 · Claude Code · [[Changes/Claude Code/2026-07-15-improved-terminal-layout-and-rendering-performance|Improved terminal layout and rendering performance]]
+- Earlier: 2026-07-16 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-07-16-5-interface-experience-changes-in-v1-0-71|5 Interface Experience changes in v1.0.71]]
 - Later: 2026-07-17 · Cursor · [[Changes/Cursor/2026-07-17-interaction-improvements-dee44a|Interaction improvements]]
 <!-- chronolog:end -->
 

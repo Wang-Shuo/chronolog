@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 8779699e8857e0cb366781029dbd1ecdc316d5e0fafb8d209870a4f9dd4b9647
+machine_hash: b57dae1a53ade200c80d07d887a2f4707c4efab86a4852a8c19916af4c9f204f
 product: claude-code
 product_name: Claude Code
 record:
@@ -46,11 +46,12 @@ record:
     Grid…'
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-10-06-remote-control-is-on-by-default-for-everyone-except-enterprise-organizations|Remote
-  Control is on by default for everyone except Enterprise organizations]]'
-- '[[Changes/Cursor/2026-10-06-for-enterprise-teams|For Enterprise teams]]'
 - '[[Changes/Claude Code/2026-10-07-3-enterprise-and-administration-changes-in-v2-1-293|3
   Enterprise and Administration changes in v2.1.293]]'
+- '[[Changes/Codex CLI/2026-10-07-49473-use-the-rmcp-sdk-for-enterprise-managed-token-exchanges-nicksteele-oai|♯49473
+  Use the rmcp SDK for enterprise-managed token exchanges @nicksteele-oai]]'
+- '[[Changes/GitHub Copilot CLI/2026-10-07-add-enterprise-permissions-limitto-to-enforce-managed-domain-boundaries-for-netw|Add
+  enterprise permissions.limitTo to enforce managed domain boundaries for network…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-10-08-v2-1-295-github-407134589-d5c87510|claude-code-2026-10-08-v2-1-295-github-407134589-d5c87510]]'
 source_type: github_releases
 theme: enterprise-admin
@@ -91,8 +92,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Enterprise and Administration
 
-- Earlier: 2026-10-07 · Claude Code · [[Changes/Claude Code/2026-10-07-3-enterprise-and-administration-changes-in-v2-1-293|3 Enterprise and Administration changes in v2.1.293]]
-- Later: 2026-10-15 · ChatGPT · [[Changes/ChatGPT/2026-10-15-applications-are-now-open-to-labs-at-u-s-universities-if-you-re-a-principal-inve|Applications are now open to labs at U.S. universities]]
+- Earlier: 2026-10-07 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-10-07-add-enterprise-permissions-limitto-to-enforce-managed-domain-boundaries-for-netw|Add enterprise permissions.limitTo to enforce managed domain boundaries for network…]]
+- Later: 2026-10-08 · OpenHands · [[Changes/OpenHands/2026-10-08-feat-onboarding-show-the-super-admin-setup-guide-on-enterprise-backends-by-hiept|feat(onboarding): show the Super Admin setup guide on enterprise backends]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

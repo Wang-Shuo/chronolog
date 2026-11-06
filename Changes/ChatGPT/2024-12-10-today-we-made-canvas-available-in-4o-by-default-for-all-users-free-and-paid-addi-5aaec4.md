@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: f7172940d037edef20c8bfb813a4fc2cc80185ecc9450deb1f313a40a8195b55
+machine_hash: 516a241fe75ae289a8a361a07692f6302ab58c5772908be7b06e5f64b7b5ce93
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -57,10 +57,10 @@ record:
   title: Canvas
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2023-07-06-we-re-rolling-out-code-interpreter-to-all-chatgpt-plus-users-over-the-next-week-66255e|Code
-  interpreter is now rolling out in beta on web]]'
 - '[[Changes/ChatGPT/2024-05-16-today-we-re-starting-to-roll-out-enhancements-to-data-analysis-6433a3|Today,
   we’re starting to roll out enhancements to data analysis]]'
+- '[[Changes/OpenHands/2024-06-29-2-files-and-data-changes-in-0-7-0|2 Files and Data
+  changes in 0.7.0]]'
 - '[[Changes/ChatGPT/2024-11-22-the-sidebar-when-pinned-can-now-stay-open-with-an-active-canvas-if-enough-space|The
   sidebar when pinned can now stay open with an active Canvas if enough space…]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2024-12-10-canvas-a457e8f0|chatgpt-2024-12-10-canvas-a457e8f0]]'

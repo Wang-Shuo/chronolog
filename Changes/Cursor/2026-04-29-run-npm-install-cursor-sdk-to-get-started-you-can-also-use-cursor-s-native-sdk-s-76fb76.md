@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 89f9931ff882dcb908470836662c7dbaeca9294400d1b2f1c181000c11b9217d
+machine_hash: e48f426ca8464ebc2caed79dec1a2ad4f5bcd110295c34e0220a3d28ce676738
 product: cursor
 product_name: Cursor
 record:
@@ -52,10 +52,10 @@ record:
   title: Run npm install @cursor/sdk to get started
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-04-28-2-apps-and-integrations-changes-in-v2-1-122|2
-  Apps and Integrations changes in v2.1.122]]'
 - '[[Changes/Claude Code/2026-04-28-6-apps-and-integrations-changes-in-v2-1-121|6
   Apps and Integrations changes in v2.1.121]]'
+- '[[Changes/Gemini CLI/2026-04-28-2-apps-and-integrations-changes-in-v0-40-0|2 Apps
+  and Integrations changes in v0.40.0]]'
 - '[[Changes/Cursor/2026-04-29-we-re-introducing-the-cursor-sdk-so-you-can-build-agents-with-the-same-runtime-h|Cursor
   introduces the Cursor SDK so you can build agents with the same runtime…]]'
 source_release: '[[Releases/Cursor/cursor-2026-04-29-build-programmatic-agents-with-the-cursor-sdk-https-cursor-com-c-b4665fa3|cursor-2026-04-29-build-programmatic-agents-with-the-cursor-sdk-https-cursor-com-c-b4665fa3]]'
@@ -93,8 +93,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-04-28 · Claude Code · [[Changes/Claude Code/2026-04-28-6-apps-and-integrations-changes-in-v2-1-121|6 Apps and Integrations changes in v2.1.121]]
-- Later: 2026-05-04 · Claude Code · [[Changes/Claude Code/2026-05-04-6-apps-and-integrations-changes-in-v2-1-128|6 Apps and Integrations changes in v2.1.128]]
+- Earlier: 2026-04-28 · Gemini CLI · [[Changes/Gemini CLI/2026-04-28-2-apps-and-integrations-changes-in-v0-40-0|2 Apps and Integrations changes in v0.40.0]]
+- Later: 2026-04-30 · Codex CLI · [[Changes/Codex CLI/2026-04-30-37-apps-and-integrations-changes-in-rust-v0-128-0|37 Apps and Integrations changes in rust-v0.128.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

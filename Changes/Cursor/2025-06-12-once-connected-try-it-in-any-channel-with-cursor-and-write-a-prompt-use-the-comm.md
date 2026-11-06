@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 41bc8f623a18b8989aa816066dabe64695c2f0cb9c939f9bc26e1b2a694b4a90
+machine_hash: 186c68c7e6fae19ecca3896571c4a82704a20a72f3726ead1fd5c96230b079b2
 product: cursor
 product_name: Cursor
 record:
@@ -46,12 +46,12 @@ record:
   title: Once connected, try it in any channel with @Cursor and write a prompt
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2025-06-10-like-o1-pro-o3-pro-is-a-version-of-our-most-intelligent-model-o3-designed-to-thi-32668a|ChatGPT
-  launches OpenAI o3-pro—available now for Pro users and in our API]]'
 - '[[Changes/ChatGPT/2025-06-12-upload-files-and-access-model-selector-on-mobile|Upload
   files and access model selector on mobile]]'
 - '[[Changes/ChatGPT/2025-06-12-creators-can-now-choose-from-the-full-set-of-chatgpt-models-gpt-4o-o3-o4-mini-an-ad1adf|Creators
   can now choose from the full set of ChatGPT models…]]'
+- '[[Changes/Cline/2025-06-12-4-model-support-changes-in-v3-17-13|4 Model Support
+  changes in v3.17.13]]'
 source_release: '[[Releases/Cursor/cursor-2025-06-12-1-1-https-cursor-com-changelog-1-1-0f0190fc|cursor-2025-06-12-1-1-https-cursor-com-changelog-1-1-0f0190fc]]'
 source_type: cursor_changelog
 theme: model-support
@@ -85,7 +85,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2025-06-12 · ChatGPT · [[Changes/ChatGPT/2025-06-12-creators-can-now-choose-from-the-full-set-of-chatgpt-models-gpt-4o-o3-o4-mini-an-ad1adf|Creators can now choose from the full set of ChatGPT models…]]
+- Earlier: 2025-06-12 · Cline · [[Changes/Cline/2025-06-12-4-model-support-changes-in-v3-17-13|4 Model Support changes in v3.17.13]]
 - Later: 2025-06-13 · ChatGPT · [[Changes/ChatGPT/2025-06-13-in-some-cases-a-chain-of-thought-reasoning-will-show-up-unexpectedly-for-simple|In some cases, a “chain of thought” reasoning will show up unexpectedly for simple queries]]
 <!-- chronolog:end -->
 

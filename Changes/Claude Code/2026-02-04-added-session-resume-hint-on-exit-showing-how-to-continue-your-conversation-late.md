@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: projects-workspaces
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 60b6e5cbee352d946e56be6d144f92da319563218d7044796612f21cdcd10ac3
+machine_hash: ed242706f5e79fdaf57d2870ea230ec80eac21c47f28a8df9d4be7595ff685e8
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,10 +45,10 @@ record:
     later
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2025-09-04-you-can-now-branch-conversations-in-chatgpt-making-it-easier-to-explore-differen-78eb21|Branch
-  conversations on web]]'
 - '[[Changes/Claude Code/2025-12-19-added-support-for-custom-session-ids-when-forking-sessions-with-session-id-combi|Added
   support for custom session IDs when forking sessions with --session-id…]]'
+- '[[Changes/Gemini CLI/2026-01-28-docs-update-project-context-and-pr-creator-workflow-by-ntaylormullen-in-https-gi|docs:
+  update project context and pr-creator workflow]]'
 - '[[Changes/Claude Code/2026-01-30-added-from-pr-flag-to-resume-sessions-linked-to-a-specific-github-pr-number-or-u|Added
   --from-pr flag to resume sessions linked to a specific GitHub PR number or URL]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-02-04-v2-1-31-github-282782741-04ea99e1|claude-code-2026-02-04-v2-1-31-github-282782741-04ea99e1]]'
@@ -85,7 +85,7 @@ type: change
 ## Nearby in Projects and Workspaces
 
 - Earlier: 2026-01-30 · Claude Code · [[Changes/Claude Code/2026-01-30-added-from-pr-flag-to-resume-sessions-linked-to-a-specific-github-pr-number-or-u|Added --from-pr flag to resume sessions linked to a specific GitHub PR number or URL]]
-- Later: 2026-02-17 · Claude Code · [[Changes/Claude Code/2026-02-17-improved-startup-performance-by-removing-eager-loading-of-session-history-for-st|Improved startup performance by removing eager loading of session history for stats…]]
+- Later: 2026-02-10 · Gemini CLI · [[Changes/Gemini CLI/2026-02-10-feat-acp-add-session-resume-support-by-bdmorgan-in-https-github-com-google-gemin|feat(acp): add session resume support]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

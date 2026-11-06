@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 8dbd2cb39b0ecc70d9f2881e7b73cef62bc18c99934e7e7c1cb4c65da93c6785
+machine_hash: fea4fc71aadd06632b55d2a303ae9cb3ae470c227d4b90e3c11ff3f7e06fc9da
 product: claude-code
 product_name: Claude Code
 record:
@@ -50,12 +50,12 @@ record:
   title: 3 Apps and Integrations changes in v2.1.225
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-08-04-4-apps-and-integrations-changes-in-v2-1-221|4
-  Apps and Integrations changes in v2.1.221]]'
-- '[[Changes/Claude Code/2026-08-04-2-apps-and-integrations-changes-in-v2-1-222|2
-  Apps and Integrations changes in v2.1.222]]'
+- '[[Changes/OpenHands/2026-08-05-chore-bump-openhands-extensions-to-0-16-0-by-hieptl-in-https-github-com-openhand|chore:
+  bump @openhands/extensions to 0.16.0]]'
 - '[[Changes/Claude Code/2026-08-07-3-apps-and-integrations-changes-in-v2-1-224|3
   Apps and Integrations changes in v2.1.224]]'
+- '[[Changes/Codex CLI/2026-08-07-65-apps-and-integrations-changes-in-rust-v0-147-0|65
+  Apps and Integrations changes in rust-v0.147.0]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-08-08-v2-1-225-github-367046190-ccb40049|claude-code-2026-08-08-v2-1-225-github-367046190-ccb40049]]'
 source_type: github_releases
 theme: apps-integrations
@@ -92,8 +92,8 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.225
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-08-07 · Claude Code · [[Changes/Claude Code/2026-08-07-3-apps-and-integrations-changes-in-v2-1-224|3 Apps and Integrations changes in v2.1.224]]
-- Later: 2026-08-11 · Claude Code · [[Changes/Claude Code/2026-08-11-2-apps-and-integrations-changes-in-v2-1-228|2 Apps and Integrations changes in v2.1.228]]
+- Earlier: 2026-08-07 · Codex CLI · [[Changes/Codex CLI/2026-08-07-65-apps-and-integrations-changes-in-rust-v0-147-0|65 Apps and Integrations changes in rust-v0.147.0]]
+- Later: 2026-08-09 · Cline · [[Changes/Cline/2026-08-09-2-apps-and-integrations-changes-in-v4-1-7|2 Apps and Integrations changes in v4.1.7]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

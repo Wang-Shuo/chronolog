@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: b80df630856cb76b07df77971bda65fbd0b2e3406e95668822074ff0b2961bf3
+machine_hash: 701020376d789ac299b6c151a94ff85e98b5045e375aea8336a2ee3efd9026ee
 product: claude-code
 product_name: Claude Code
 record:
@@ -55,12 +55,11 @@ record:
     to sign in
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-28-added-mcp-reconnect-all-in-the-interactive-terminal-to-retry-every-mcp-server-th|Added
-  /mcp reconnect all in the interactive terminal to retry every MCP server…]]'
-- '[[Changes/Claude Code/2026-09-28-4-account-and-access-changes-in-v2-1-284|4 Account
-  and Access changes in v2.1.284]]'
-- '[[Changes/Claude Code/2026-09-29-changed-team-and-enterprise-sessions-and-sessions-whose-sign-in-plan-claude-code|Changed
-  Team and Enterprise sessions, and sessions whose sign-in plan Claude Code…]]'
+- '[[Changes/Windsurf/2026-09-29-sign-in-with-chatgpt-cf599d|Sign in with ChatGPT]]'
+- '[[Changes/Cline/2026-09-30-if-a-new-task-fails-cline-sign-in-signing-in-and-submitting-a-revised-prompt-now|If
+  a new task fails Cline sign-in, signing in and submitting a revised prompt now…]]'
+- '[[Changes/GitHub Copilot CLI/2026-09-30-mcp-oauth-sign-in-to-servers-such-as-datadog-reuses-a-still-valid-cached-token|MCP
+  OAuth sign-in to servers such as Datadog reuses a still-valid cached token]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-10-01-v2-1-287-github-401174143-9cfdbb87|claude-code-2026-10-01-v2-1-287-github-401174143-9cfdbb87]]'
 source_type: github_releases
 theme: account-access
@@ -102,8 +101,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Account and Access
 
-- Earlier: 2026-09-29 · Claude Code · [[Changes/Claude Code/2026-09-29-changed-team-and-enterprise-sessions-and-sessions-whose-sign-in-plan-claude-code|Changed Team and Enterprise sessions, and sessions whose sign-in plan Claude Code…]]
-- Later: 2026-10-02 · Claude Code · [[Changes/Claude Code/2026-10-02-added-a-re-authenticate-prompt-when-an-mcp-server-asks-for-more-oauth-scope-duri|Added a re-authenticate prompt when an MCP server asks for more OAuth scope during…]]
+- Earlier: 2026-09-30 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-09-30-mcp-oauth-sign-in-to-servers-such-as-datadog-reuses-a-still-valid-cached-token|MCP OAuth sign-in to servers such as Datadog reuses a still-valid cached token]]
+- Later: 2026-10-01 · Codex CLI · [[Changes/Codex CLI/2026-10-01-2-account-and-access-changes-in-rust-v0-160-0|2 Account and Access changes in rust-v0.160.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

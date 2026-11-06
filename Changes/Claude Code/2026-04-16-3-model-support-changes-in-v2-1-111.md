@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 57f2ddf52188120598c660855d022185bb70b606d17cb41fb7d27f79afe7b165
+machine_hash: 2783d25edf036449e61a70a21baf73c4020e84a77173156a7ff16c0dc5ea98c1
 product: claude-code
 product_name: Claude Code
 record:
@@ -48,12 +48,12 @@ record:
   title: 3 Model Support changes in v2.1.111
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-04-09-today-we-re-releasing-gpt-5-3-instant-mini-in-chatgpt-it-replaces-gpt-5-instant|GPT-5.3
-  Instant mini in ChatGPT]]'
 - '[[Changes/Claude Code/2026-04-14-improved-model-to-warn-before-switching-models-mid-conversation-since-the-next-r|Improved
   /model to warn before switching models mid-conversation, since the next…]]'
 - '[[Changes/Cursor/2026-04-14-trigger-the-model-picker-from-anywhere-to-switch-models-without-clearing-your-pr|Trigger
   the model picker from anywhere to switch models without clearing your prompt first]]'
+- '[[Changes/Codex CLI/2026-04-15-3-model-support-changes-in-rust-v0-121-0|3 Model
+  Support changes in rust-v0.121.0]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-04-16-v2-1-111-github-309911692-a3025e78|claude-code-2026-04-16-v2-1-111-github-309911692-a3025e78]]'
 source_type: github_releases
 theme: model-support
@@ -98,8 +98,8 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.111
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-04-14 · Cursor · [[Changes/Cursor/2026-04-14-trigger-the-model-picker-from-anywhere-to-switch-models-without-clearing-your-pr|Trigger the model picker from anywhere to switch models without clearing your prompt first]]
-- Later: 2026-04-22 · Claude Code · [[Changes/Claude Code/2026-04-22-2-model-support-changes-in-v2-1-117|2 Model Support changes in v2.1.117]]
+- Earlier: 2026-04-15 · Codex CLI · [[Changes/Codex CLI/2026-04-15-3-model-support-changes-in-rust-v0-121-0|3 Model Support changes in rust-v0.121.0]]
+- Later: 2026-04-16 · Cline · [[Changes/Cline/2026-04-16-add-claude-opus-4-7-model-support|Add Claude Opus 4.7 model support]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

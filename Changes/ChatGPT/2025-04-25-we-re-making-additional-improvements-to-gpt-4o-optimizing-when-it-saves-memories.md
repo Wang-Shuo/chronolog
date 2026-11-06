@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 7adc03bc799ea58664999d54b5c5d1044c5293e99c1cdf56b0d6a72a7d592806
+machine_hash: 5ce6f5583e7b59e279c9f528fcd07738430052844faf9d1dec4a32a9d3ebb284
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -60,11 +60,11 @@ record:
   title: Improvements to GPT-4o
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2025-04-10-effective-april-30-2025-gpt-4-will-be-retired-from-chatgpt-and-fully-replaced-by-d03b3b|Sunsetting
-  GPT‑4 in ChatGPT]]'
-- '[[Changes/Cursor/2025-04-15-new-models|New models]]'
-- '[[Changes/ChatGPT/2025-04-16-today-we-re-releasing-openai-o3-and-o4-mini-the-latest-in-our-o-series-of-models|o3
-  and o4-mini in ChatGPT]]'
+- '[[Changes/Windsurf/2025-04-16-o4-mini-available|o4-mini Available]]'
+- '[[Changes/Cline/2025-04-19-4-model-support-changes-in-v3-13-0|4 Model Support changes
+  in v3.13.0]]'
+- '[[Changes/Cline/2025-04-24-4-model-support-changes-in-v3-13-2|4 Model Support changes
+  in v3.13.2]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-04-25-improvements-to-gpt-4o-4bcfc1a7|chatgpt-2025-04-25-improvements-to-gpt-4o-4bcfc1a7]]'
 source_type: chatgpt_changelog
 theme: model-support
@@ -91,8 +91,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2025-04-16 · ChatGPT · [[Changes/ChatGPT/2025-04-16-today-we-re-releasing-openai-o3-and-o4-mini-the-latest-in-our-o-series-of-models|o3 and o4-mini in ChatGPT]]
-- Later: 2025-04-29 · ChatGPT · [[Changes/ChatGPT/2025-04-29-we-ve-reverted-the-most-recent-update-to-gpt-4o-due-to-issues-with-overly-agreea-097503|Updates to GPT-4o]]
+- Earlier: 2025-04-24 · Cline · [[Changes/Cline/2025-04-24-4-model-support-changes-in-v3-13-2|4 Model Support changes in v3.13.2]]
+- Later: 2025-04-25 · Cline · [[Changes/Cline/2025-04-25-add-prompt-caching-to-gemini-models-in-cline-openrouter-providers|Add prompt caching to gemini models in cline / openrouter providers]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

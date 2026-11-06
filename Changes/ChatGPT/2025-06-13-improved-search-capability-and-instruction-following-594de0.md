@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 32a8bae82d619e33b4e7513624070908087cc4cdb325a1926a9aaa77e5d6c28f
+machine_hash: c90a0762cd7a63ddf6d7be94559be6a2250ab6315bf880874dffadca9680505a
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -50,8 +50,8 @@ record:
   title: Improved search capability and instruction following
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2025-05-08-outside-the-european-regions-listed-above-all-plus-and-pro-accounts-that-have-me-507581|Opt‑in
-  reminders]]'
+- '[[Changes/Aider/2025-05-30-improved-openrouter-model-metadata-handling-by-introducing-a-local-cache-increas|Improved
+  OpenRouter model metadata handling by introducing a local cache, increasing…]]'
 - '[[Changes/Cursor/2025-06-04-faster-responses-with-parallel-tool-calls|Faster responses
   with parallel tool calls]]'
 - '[[Changes/Cursor/2025-06-12-3-reliability-and-performance-changes-in-1-1|3 Reliability
@@ -91,7 +91,7 @@ type: change
 ## Nearby in Reliability and Performance
 
 - Earlier: 2025-06-12 · Cursor · [[Changes/Cursor/2025-06-12-3-reliability-and-performance-changes-in-1-1|3 Reliability and Performance changes in 1.1]]
-- Later: 2025-07-03 · Cursor · [[Changes/Cursor/2025-07-03-faster-tab|Faster Tab]]
+- Later: 2025-06-24 · OpenHands · [[Changes/OpenHands/2025-06-24-enabled-users-to-provide-feedback-on-agent-performance-even-when-the-agent-encou|Enabled users to provide feedback on agent performance even when the agent…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

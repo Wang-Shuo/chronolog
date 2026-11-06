@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: f2eecac6cd45430c28953201a1d58a210b0f1f07bacfd6cd45584801bf923188
+machine_hash: 51ac3a07fb2564be9dc4091b0a0d13988d5704c40276083cd234a95d94475f7e
 product: cursor
 product_name: Cursor
 record:
@@ -39,12 +39,12 @@ record:
   title: Cursor for Enterprise
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2025-06-12-enterprise-and-edu-rollout-coming-soon|Enterprise
-  and Edu rollout coming soon]]'
 - '[[Changes/Cursor/2025-07-29-allow-team-admins-to-configure-an-extension-allowlist|Allow
   team admins to configure an extension allowlist]]'
 - '[[Changes/ChatGPT/2025-09-03-projects-bring-your-chats-and-files-into-one-place-helping-you-stay-focused-and-96a40d|Projects
   Now Available on ChatGPT Free Tier]]'
+- '[[Changes/Gemini CLI/2025-09-04-2-enterprise-and-administration-changes-in-v0-3-0|2
+  Enterprise and Administration changes in v0.3.0]]'
 source_release: '[[Releases/Cursor/cursor-2025-10-29-2-0-https-cursor-com-changelog-2-0-66a8e76e|cursor-2025-10-29-2-0-https-cursor-com-changelog-2-0-66a8e76e]]'
 source_type: cursor_changelog
 theme: enterprise-admin
@@ -93,7 +93,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Enterprise and Administration
 
-- Earlier: 2025-09-03 · ChatGPT · [[Changes/ChatGPT/2025-09-03-projects-bring-your-chats-and-files-into-one-place-helping-you-stay-focused-and-96a40d|Projects Now Available on ChatGPT Free Tier]]
+- Earlier: 2025-09-04 · Gemini CLI · [[Changes/Gemini CLI/2025-09-04-2-enterprise-and-administration-changes-in-v0-3-0|2 Enterprise and Administration changes in v0.3.0]]
 - Later: 2025-11-21 · Cursor · [[Changes/Cursor/2025-11-21-3-enterprise-and-administration-changes-in-2-1|3 Enterprise and Administration changes in 2.1]]
 <!-- chronolog:end -->
 

@@ -1,0 +1,2479 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e3]:
+    - generic [ref=e4]:
+      - generic [ref=e5]:
+        - heading [level=2] [ref=e6]:
+          - link "ChronoLog" [ref=e7] [cursor=pointer]:
+            - /url: ..
+        - paragraph [ref=e8]: Tracked changes in AI assistants and coding tools
+      - button [ref=e10] [cursor=pointer]:
+        - img "Search" [ref=e11]
+        - paragraph [ref=e15]: Search
+      - button [ref=e16] [cursor=pointer]:
+        - img "Dark mode" [ref=e17]
+      - generic [ref=e19]:
+        - button [expanded] [ref=e20] [cursor=pointer]:
+          - heading "Explorer" [level=2] [ref=e21]
+        - group [ref=e23]:
+          - list [ref=e24]:
+            - listitem [ref=e894]:
+              - generic [ref=e895]:
+                - img [ref=e896] [cursor=pointer]
+                - link "Products" [ref=e898] [cursor=pointer]:
+                  - /url: ../Products/
+              - list [ref=e900]:
+                - listitem [ref=e901]:
+                  - link "Aider" [ref=e902] [cursor=pointer]:
+                    - /url: ../Products/Aider
+                - listitem [ref=e903]:
+                  - link "ChatGPT" [ref=e904] [cursor=pointer]:
+                    - /url: ../Products/ChatGPT
+                - listitem [ref=e905]:
+                  - link "Claude Code" [ref=e906] [cursor=pointer]:
+                    - /url: ../Products/Claude-Code
+                - listitem [ref=e907]:
+                  - link "Cline" [ref=e908] [cursor=pointer]:
+                    - /url: ../Products/Cline
+                - listitem [ref=e909]:
+                  - link "Codex CLI" [ref=e910] [cursor=pointer]:
+                    - /url: ../Products/Codex-CLI
+                - listitem [ref=e911]:
+                  - link "Cursor" [ref=e912] [cursor=pointer]:
+                    - /url: ../Products/Cursor
+                - listitem [ref=e913]:
+                  - link "Gemini CLI" [ref=e914] [cursor=pointer]:
+                    - /url: ../Products/Gemini-CLI
+                - listitem [ref=e915]:
+                  - link "GitHub Copilot CLI" [ref=e916] [cursor=pointer]:
+                    - /url: ../Products/GitHub-Copilot-CLI
+                - listitem [ref=e917]:
+                  - link "OpenHands" [ref=e918] [cursor=pointer]:
+                    - /url: ../Products/OpenHands
+                - listitem [ref=e919]:
+                  - link "Windsurf" [ref=e920] [cursor=pointer]:
+                    - /url: ../Products/Windsurf
+            - listitem [ref=e921]:
+              - generic [ref=e922]:
+                - img [ref=e923] [cursor=pointer]
+                - link "Themes" [ref=e925] [cursor=pointer]:
+                  - /url: ../Themes/
+              - list [ref=e927]:
+                - listitem [ref=e928]:
+                  - link "Accessibility and Localization" [ref=e929] [cursor=pointer]:
+                    - /url: ../Themes/accessibility-localization
+                - listitem [ref=e930]:
+                  - link "Account and Access" [ref=e931] [cursor=pointer]:
+                    - /url: ../Themes/account-access
+                - listitem [ref=e932]:
+                  - link "Agent Mode" [ref=e933] [cursor=pointer]:
+                    - /url: ../Themes/agent-mode
+                - listitem [ref=e934]:
+                  - link "Apps and Integrations" [ref=e935] [cursor=pointer]:
+                    - /url: ../Themes/apps-integrations
+                - listitem [ref=e936]:
+                  - link "Artifact Creation" [ref=e937] [cursor=pointer]:
+                    - /url: ../Themes/artifact-creation
+                - listitem [ref=e938]:
+                  - link "Automation and Scheduling" [ref=e939] [cursor=pointer]:
+                    - /url: ../Themes/automation-scheduling
+                - listitem [ref=e940]:
+                  - link "Collaboration" [ref=e941] [cursor=pointer]:
+                    - /url: ../Themes/collaboration
+                - listitem [ref=e942]:
+                  - link "Context Window" [ref=e943] [cursor=pointer]:
+                    - /url: ../Themes/context-window
+                - listitem [ref=e944]:
+                  - link "Developer Workflow" [ref=e945] [cursor=pointer]:
+                    - /url: ../Themes/developer-workflow
+                - listitem [ref=e946]:
+                  - link "Editor Experience" [ref=e947] [cursor=pointer]:
+                    - /url: ../Themes/editor-experience
+                - listitem [ref=e948]:
+                  - link "Enterprise and Administration" [ref=e949] [cursor=pointer]:
+                    - /url: ../Themes/enterprise-admin
+                - listitem [ref=e950]:
+                  - link "Files and Data" [ref=e951] [cursor=pointer]:
+                    - /url: ../Themes/file-data
+                - listitem [ref=e952]:
+                  - link "Image Generation" [ref=e953] [cursor=pointer]:
+                    - /url: ../Themes/image-generation
+                - listitem [ref=e954]:
+                  - link "Interface Experience" [ref=e955] [cursor=pointer]:
+                    - /url: ../Themes/interface-experience
+                - listitem [ref=e956]:
+                  - link "Learning Tools" [ref=e957] [cursor=pointer]:
+                    - /url: ../Themes/learning-tools
+                - listitem [ref=e958]:
+                  - link "Memory and Personalization" [ref=e959] [cursor=pointer]:
+                    - /url: ../Themes/memory
+                - listitem [ref=e960]:
+                  - link "Mobile and Desktop" [ref=e961] [cursor=pointer]:
+                    - /url: ../Themes/mobile-desktop
+                - listitem [ref=e962]:
+                  - link "Model Support" [ref=e963] [cursor=pointer]:
+                    - /url: ../Themes/model-support
+                - listitem [ref=e964]:
+                  - link "Multimodal Input" [ref=e965] [cursor=pointer]:
+                    - /url: ../Themes/multimodal
+                - listitem [ref=e966]:
+                  - link "Pricing Model" [ref=e967] [cursor=pointer]:
+                    - /url: ../Themes/pricing-model
+                - listitem [ref=e968]:
+                  - link "Projects and Workspaces" [ref=e969] [cursor=pointer]:
+                    - /url: ../Themes/projects-workspaces
+                - listitem [ref=e970]:
+                  - link "Reliability and Performance" [ref=e971] [cursor=pointer]:
+                    - /url: ../Themes/reliability-performance
+                - listitem [ref=e972]:
+                  - link "Safety and Privacy" [ref=e973] [cursor=pointer]:
+                    - /url: ../Themes/safety-privacy
+                - listitem [ref=e974]:
+                  - link "Search and Browsing" [ref=e975] [cursor=pointer]:
+                    - /url: ../Themes/search-browsing
+                - listitem [ref=e976]:
+                  - link "Voice and Audio" [ref=e977] [cursor=pointer]:
+                    - /url: ../Themes/voice
+            - listitem [ref=e978]:
+              - generic [ref=e979]:
+                - img [ref=e980] [cursor=pointer]
+                - link "Archive" [ref=e982] [cursor=pointer]:
+                  - /url: ../Archive/
+              - list [ref=e984]:
+                - listitem [ref=e985]:
+                  - link "November 2026" [ref=e986] [cursor=pointer]:
+                    - /url: ../Archive/2026-11
+                - listitem [ref=e987]:
+                  - link "October 2026" [ref=e988] [cursor=pointer]:
+                    - /url: ../Archive/2026-10
+                - listitem [ref=e989]:
+                  - link "September 2026" [ref=e990] [cursor=pointer]:
+                    - /url: ../Archive/2026-09
+                - listitem [ref=e991]:
+                  - link "August 2026" [ref=e992] [cursor=pointer]:
+                    - /url: ../Archive/2026-08
+                - listitem [ref=e993]:
+                  - link "July 2026" [ref=e994] [cursor=pointer]:
+                    - /url: ../Archive/2026-07
+                - listitem [ref=e995]:
+                  - link "June 2026" [ref=e996] [cursor=pointer]:
+                    - /url: ../Archive/2026-06
+                - listitem [ref=e997]:
+                  - link "May 2026" [ref=e998] [cursor=pointer]:
+                    - /url: ../Archive/2026-05
+                - listitem [ref=e999]:
+                  - link "April 2026" [ref=e1000] [cursor=pointer]:
+                    - /url: ../Archive/2026-04
+                - listitem [ref=e1001]:
+                  - link "March 2026" [ref=e1002] [cursor=pointer]:
+                    - /url: ../Archive/2026-03
+                - listitem [ref=e1003]:
+                  - link "February 2026" [ref=e1004] [cursor=pointer]:
+                    - /url: ../Archive/2026-02
+                - listitem [ref=e1005]:
+                  - link "January 2026" [ref=e1006] [cursor=pointer]:
+                    - /url: ../Archive/2026-01
+                - listitem [ref=e1007]:
+                  - link "December 2025" [ref=e1008] [cursor=pointer]:
+                    - /url: ../Archive/2025-12
+                - listitem [ref=e1009]:
+                  - link "November 2025" [ref=e1010] [cursor=pointer]:
+                    - /url: ../Archive/2025-11
+                - listitem [ref=e1011]:
+                  - link "October 2025" [ref=e1012] [cursor=pointer]:
+                    - /url: ../Archive/2025-10
+                - listitem [ref=e1013]:
+                  - link "September 2025" [ref=e1014] [cursor=pointer]:
+                    - /url: ../Archive/2025-09
+                - listitem [ref=e1015]:
+                  - link "August 2025" [ref=e1016] [cursor=pointer]:
+                    - /url: ../Archive/2025-08
+                - listitem [ref=e1017]:
+                  - link "July 2025" [ref=e1018] [cursor=pointer]:
+                    - /url: ../Archive/2025-07
+                - listitem [ref=e1019]:
+                  - link "June 2025" [ref=e1020] [cursor=pointer]:
+                    - /url: ../Archive/2025-06
+                - listitem [ref=e1021]:
+                  - link "May 2025" [ref=e1022] [cursor=pointer]:
+                    - /url: ../Archive/2025-05
+                - listitem [ref=e1023]:
+                  - link "April 2025" [ref=e1024] [cursor=pointer]:
+                    - /url: ../Archive/2025-04
+                - listitem [ref=e1025]:
+                  - link "March 2025" [ref=e1026] [cursor=pointer]:
+                    - /url: ../Archive/2025-03
+                - listitem [ref=e1027]:
+                  - link "February 2025" [ref=e1028] [cursor=pointer]:
+                    - /url: ../Archive/2025-02
+                - listitem [ref=e1029]:
+                  - link "January 2025" [ref=e1030] [cursor=pointer]:
+                    - /url: ../Archive/2025-01
+                - listitem [ref=e1031]:
+                  - link "December 2024" [ref=e1032] [cursor=pointer]:
+                    - /url: ../Archive/2024-12
+                - listitem [ref=e1033]:
+                  - link "November 2024" [ref=e1034] [cursor=pointer]:
+                    - /url: ../Archive/2024-11
+                - listitem [ref=e1035]:
+                  - link "October 2024" [ref=e1036] [cursor=pointer]:
+                    - /url: ../Archive/2024-10
+                - listitem [ref=e1037]:
+                  - link "September 2024" [ref=e1038] [cursor=pointer]:
+                    - /url: ../Archive/2024-09
+                - listitem [ref=e1039]:
+                  - link "August 2024" [ref=e1040] [cursor=pointer]:
+                    - /url: ../Archive/2024-08
+                - listitem [ref=e1041]:
+                  - link "July 2024" [ref=e1042] [cursor=pointer]:
+                    - /url: ../Archive/2024-07
+                - listitem [ref=e1043]:
+                  - link "June 2024" [ref=e1044] [cursor=pointer]:
+                    - /url: ../Archive/2024-06
+                - listitem [ref=e1045]:
+                  - link "May 2024" [ref=e1046] [cursor=pointer]:
+                    - /url: ../Archive/2024-05
+                - listitem [ref=e1047]:
+                  - link "April 2024" [ref=e1048] [cursor=pointer]:
+                    - /url: ../Archive/2024-04
+                - listitem [ref=e1049]:
+                  - link "March 2024" [ref=e1050] [cursor=pointer]:
+                    - /url: ../Archive/2024-03
+                - listitem [ref=e1051]:
+                  - link "February 2024" [ref=e1052] [cursor=pointer]:
+                    - /url: ../Archive/2024-02
+                - listitem [ref=e1053]:
+                  - link "January 2024" [ref=e1054] [cursor=pointer]:
+                    - /url: ../Archive/2024-01
+                - listitem [ref=e1055]:
+                  - link "December 2023" [ref=e1056] [cursor=pointer]:
+                    - /url: ../Archive/2023-12
+                - listitem [ref=e1057]:
+                  - link "November 2023" [ref=e1058] [cursor=pointer]:
+                    - /url: ../Archive/2023-11
+                - listitem [ref=e1059]:
+                  - link "October 2023" [ref=e1060] [cursor=pointer]:
+                    - /url: ../Archive/2023-10
+                - listitem [ref=e1061]:
+                  - link "September 2023" [ref=e1062] [cursor=pointer]:
+                    - /url: ../Archive/2023-09
+                - listitem [ref=e1063]:
+                  - link "August 2023" [ref=e1064] [cursor=pointer]:
+                    - /url: ../Archive/2023-08
+                - listitem [ref=e1065]:
+                  - link "July 2023" [ref=e1066] [cursor=pointer]:
+                    - /url: ../Archive/2023-07
+                - listitem [ref=e1067]:
+                  - link "June 2023" [ref=e1068] [cursor=pointer]:
+                    - /url: ../Archive/2023-06
+                - listitem [ref=e1069]:
+                  - link "May 2023" [ref=e1070] [cursor=pointer]:
+                    - /url: ../Archive/2023-05
+                - listitem [ref=e1071]:
+                  - link "April 2023" [ref=e1072] [cursor=pointer]:
+                    - /url: ../Archive/2023-04
+                - listitem [ref=e1073]:
+                  - link "March 2023" [ref=e1074] [cursor=pointer]:
+                    - /url: ../Archive/2023-03
+                - listitem [ref=e1075]:
+                  - link "February 2023" [ref=e1076] [cursor=pointer]:
+                    - /url: ../Archive/2023-02
+                - listitem [ref=e1077]:
+                  - link "January 2023" [ref=e1078] [cursor=pointer]:
+                    - /url: ../Archive/2023-01
+                - listitem [ref=e1079]:
+                  - link "December 2022" [ref=e1080] [cursor=pointer]:
+                    - /url: ../Archive/2022-12
+            - listitem [ref=e1081]:
+              - link "About the data" [ref=e1082] [cursor=pointer]:
+                - /url: ../About
+            - listitem [ref=e598]
+    - generic [ref=e215]:
+      - generic [ref=e217]:
+        - navigation "breadcrumbs" [ref=e218]:
+          - generic [ref=e219]:
+            - link "Home" [ref=e220] [cursor=pointer]:
+              - /url: /
+            - paragraph [ref=e787]: ❯
+          - generic [ref=e788]:
+            - link "Themes" [ref=e1083] [cursor=pointer]:
+              - /url: /Themes/
+            - paragraph [ref=e790]: ❯
+          - link "Agent Mode" [ref=e1084] [cursor=pointer]:
+            - /url: /Themes/agent-mode
+        - paragraph [ref=e221]:
+          - time [ref=e222]: Nov 06, 2026
+        - list [ref=e223]:
+          - listitem [ref=e224]:
+            - link "#theme" [ref=e1085] [cursor=pointer]:
+              - /url: /tags/theme
+          - listitem [ref=e1086]:
+            - link "#moc" [ref=e1087] [cursor=pointer]:
+              - /url: /tags/moc
+      - article [ref=e226]:
+        - heading "Agent Mode" [level=1] [ref=e1088]:
+          - text: Agent Mode
+          - link [aria-hidden] [ref=e228] [cursor=pointer]:
+            - /url: "#agent-mode"
+        - paragraph [ref=e232]: 584 tracked changes across Aider, ChatGPT, Claude Code, Cline, Codex CLI, Cursor, Gemini CLI, GitHub Copilot CLI, OpenHands and Windsurf · 2023-07-06 → 2026-11-06 · Codex CLI averages 8.0 cards per release, Gemini CLI 7.5, Claude Code 7.0, GitHub Copilot CLI 6.3, Cursor 4.0, OpenHands 3.8, Aider 3.7, Cline 3.0, Windsurf 2.6, ChatGPT 1.7
+        - heading "Research summary" [level=2] [ref=e1089]:
+          - text: Research summary
+          - link [aria-hidden] [ref=e235] [cursor=pointer]:
+            - /url: "#research-summary"
+        - paragraph [ref=e797]:
+          - strong [ref=e1090]: "Research question: what changed in delegated execution?"
+        - paragraph [ref=e798]:
+          - text: Cursor's
+          - link "2025-05-15 release" [ref=e1091] [cursor=pointer]:
+            - /url: https://cursor.com/changelog/0-50
+          - text: (
+          - link "archived" [ref=e1094] [cursor=pointer]:
+            - /url: /Releases/Cursor/cursor-2025-05-15-0-50-https-cursor-com-changelog-0-50-dc290998
+          - text: ) introduces Background Agent for parallel task execution. The
+          - link "2025-06-04 release" [ref=e1095] [cursor=pointer]:
+            - /url: https://cursor.com/changelog/1-0
+          - text: (
+          - link "archived" [ref=e1098] [cursor=pointer]:
+            - /url: /Releases/Cursor/cursor-2025-06-04-1-0-https-cursor-com-changelog-1-0-237767ca
+          - text: ) expands access to the same remote coding agent, with privacy-mode limitations at that time, a within-product expansion of one named capability.
+        - paragraph [ref=e1099]:
+          - text: ChatGPT's
+          - link "2026-07-09 Work announcement" [ref=e1100] [cursor=pointer]:
+            - /url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#introducing-chatgpt-work
+          - text: (
+          - link "archived" [ref=e1103] [cursor=pointer]:
+            - /url: /Releases/ChatGPT/chatgpt-2026-07-09-introducing-chatgpt-work-eff9f272
+          - text: ) describes longer research and creation tasks across apps and files, with user direction and approvals.
+          - link "Dots on 2026-09-29" [ref=e1104] [cursor=pointer]:
+            - /url: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#meet-your-dot
+          - text: (
+          - link "archived" [ref=e1107] [cursor=pointer]:
+            - /url: /Releases/ChatGPT/chatgpt-2026-09-29-meet-your-dot-8b9f914b
+          - text: ) adds ongoing goals on a cloud computer, with plan and regional restrictions. Both are general-work agents, a different scope from Cursor's repository-oriented remote coding agent.
+        - paragraph [ref=e1108]:
+          - text: Claude Code's
+          - link "v2.1.296 on 2026-10-09" [ref=e1109] [cursor=pointer]:
+            - /url: https://github.com/anthropics/claude-code/releases/tag/v2.1.296
+          - text: (
+          - link "archived" [ref=e1112] [cursor=pointer]:
+            - /url: /Releases/Claude-Code/claude-code-2026-10-09-v2-1-296-github-408141042-fd950e7a
+          - text: ) adds a workflow-subagent model setting and per-subagent auto-compaction, controls over an execution system that already exists.
+        - paragraph [ref=e815]:
+          - strong [ref=e1113]: "Uncertainty and scope:"
+          - text: this editorial summary covers ChatGPT, Claude Code and Cursor; the timeline includes all tracked products and Claude Code coverage starts at v2.0.73 (2025-12-19), so a first appearance here does not date when agent functionality first existed; similar names and dates do not establish identical autonomy, reliability, adoption or influence, the timeline below is a sequence of evidence rather than a diffusion claim, and generic permission fixes or unrelated uses of “mode” do not count as agent capabilities.
+        - heading "Key moments" [level=2] [ref=e1114]:
+          - text: Key moments
+          - link [aria-hidden] [ref=e1115] [cursor=pointer]:
+            - /url: "#key-moments"
+        - table [ref=e1120]:
+          - rowgroup [ref=e1121]:
+            - row [ref=e1122]:
+              - columnheader "Quarter" [ref=e1123]
+              - columnheader "Aider" [ref=e1124]
+              - columnheader "ChatGPT" [ref=e1125]
+              - columnheader "Claude Code" [ref=e1126]
+              - columnheader "Cline" [ref=e1127]
+              - columnheader "Codex CLI" [ref=e1128]
+              - columnheader "Cursor" [ref=e1129]
+              - columnheader "Gemini CLI" [ref=e1130]
+              - columnheader "GitHub Copilot CLI" [ref=e1131]
+              - columnheader "OpenHands" [ref=e1132]
+              - columnheader "Windsurf" [ref=e1133]
+          - rowgroup [ref=e1134]:
+            - row [ref=e1135]:
+              - cell [ref=e1136]:
+                - strong [ref=e1137]: First in archive
+              - cell [ref=e1138]:
+                - time [ref=e1139]: 2024-08-27
+                - link "Improved shell command prompting" [ref=e1140] [cursor=pointer]:
+                  - /url: /Changes/Aider/2024-08-27-improved-shell-command-prompting
+              - cell [ref=e1141]:
+                - time [ref=e1142]: 2025-09-29
+                - link "ChatGPT introduces Instant Checkout and the Agentic Commerce Protocol that powers…" [ref=e1143] [cursor=pointer]:
+                  - /url: /Changes/ChatGPT/2025-09-29-we-re-introducing-instant-checkout-in-chatgpt-and-the-agentic-commerce-protocol-8cbf19
+              - cell [ref=e1144]:
+                - time [ref=e1145]: 2026-01-09
+                - link "Added agent_type to SessionStart hook input, populated if --agent is specified" [ref=e1146] [cursor=pointer]:
+                  - /url: /Changes/Claude-Code/2026-01-09-added-agent-type-to-sessionstart-hook-input-populated-if-agent-is-specified
+              - cell [ref=e1147]:
+                - time [ref=e1148]: 2025-04-09
+                - link "Add new 'Create New Task' tool to let Cline start a new task autonomously!" [ref=e1149] [cursor=pointer]:
+                  - /url: /Changes/Cline/2025-04-09-add-new-create-new-task-tool-to-let-cline-start-a-new-task-autonomously
+              - cell [ref=e1150]:
+                - time [ref=e1151]: 2025-07-19
+                - link "(source link) changes ctrl-d so it only exits the TUI…" [ref=e1152] [cursor=pointer]:
+                  - /url: /Changes/Codex-CLI/2025-07-19-https-github-com-openai-codex-pull-1589-changes-ctrl-d-so-it-only-exits-the-tui
+              - cell [ref=e1153]:
+                - time [ref=e1154]: 2023-07-06
+                - link "Agents, new docs" [ref=e1155] [cursor=pointer]:
+                  - /url: /Changes/Cursor/2023-07-06-welcome-to-the-first-nightly-release-it-comes-with-agents-which-we-aren-t-releas
+              - cell [ref=e1156]:
+                - time [ref=e1157]: 2025-07-19
+                - link "3 Agent Mode changes in v0.1.13" [ref=e1158] [cursor=pointer]:
+                  - /url: /Changes/Gemini-CLI/2025-07-19-3-agent-mode-changes-in-v0-1-13
+              - cell [ref=e1159]:
+                - time [ref=e1160]: 2025-10-01
+                - link "Improved the experience of writing prompts while the agent is running -- up/down…" [ref=e1161] [cursor=pointer]:
+                  - /url: /Changes/GitHub-Copilot-CLI/2025-10-01-improved-the-experience-of-writing-prompts-while-the-agent-is-running-up-down-ar
+              - cell [ref=e1162]:
+                - time [ref=e1163]: 2024-06-29
+                - link "3 Agent Mode changes in 0.7.0" [ref=e1164] [cursor=pointer]:
+                  - /url: /Changes/OpenHands/2024-06-29-3-agent-mode-changes-in-0-7-0
+              - cell [ref=e1165]:
+                - time [ref=e1166]: 2025-10-23
+                - link "Support and fixes for AGENTS.md" [ref=e1167] [cursor=pointer]:
+                  - /url: /Changes/Windsurf/2025-10-23-support-and-fixes-for-agents-md
+            - row [ref=e1168]:
+              - cell "2026 Q3" [ref=e1169]
+              - cell "·" [ref=e1170]
+              - cell [ref=e1171]:
+                - time [ref=e1172]: 2026-09-29
+                - link "ChatGPT introduces dots" [ref=e1173] [cursor=pointer]:
+                  - /url: /Changes/ChatGPT/2026-09-29-we-re-introducing-dots-always-on-agents-in-chatgpt-that-can-take-on-ongoing-work-24bef5
+                - time [ref=e1174]: 2026-07-09
+                - link "ChatGPT Work is an agent for longer, more involved tasks" [ref=e1175] [cursor=pointer]:
+                  - /url: /Changes/ChatGPT/2026-07-09-chatgpt-work-is-an-agent-for-longer-more-involved-tasks-it-can-research-and-anal
+              - cell [ref=e1176]:
+                - time [ref=e1177]: 2026-07-11
+                - link "Auto mode is now available without CLAUDE_CODE_ENABLE_AUTO_MODE opt-in on Bedrock…" [ref=e1178] [cursor=pointer]:
+                  - /url: /Changes/Claude-Code/2026-07-11-auto-mode-is-now-available-without-claude-code-enable-auto-mode-opt-in-on-bedroc
+              - cell "·" [ref=e1179]
+              - cell "·" [ref=e1180]
+              - cell [ref=e1181]:
+                - time [ref=e1182]: 2026-09-10
+                - link "Powered by Cloud Agents" [ref=e1183] [cursor=pointer]:
+                  - /url: /Changes/Cursor/2026-09-10-a-project-runs-on-its-own-computer-in-the-cloud-so-closing-your-laptop-doesn-t-s
+              - cell "·" [ref=e1184]
+              - cell "·" [ref=e1185]
+              - cell "·" [ref=e1186]
+              - cell "·" [ref=e1187]
+            - row [ref=e1188]:
+              - cell "2026 Q2" [ref=e1189]
+              - cell "·" [ref=e1190]
+              - cell "·" [ref=e1191]
+              - cell [ref=e1192]:
+                - time [ref=e1193]: 2026-06-10
+                - link "Sub-agents can now spawn their own sub-agents (up to 5 levels deep)" [ref=e1194] [cursor=pointer]:
+                  - /url: /Changes/Claude-Code/2026-06-10-sub-agents-can-now-spawn-their-own-sub-agents-up-to-5-levels-deep
+                - time [ref=e1195]: 2026-05-28
+                - link "Introducing dynamic workflows" [ref=e1196] [cursor=pointer]:
+                  - /url: /Changes/Claude-Code/2026-05-28-introducing-dynamic-workflows-ask-claude-to-create-a-workflow-and-it-orchestrate
+                - time [ref=e1197]: 2026-04-16
+                - link "Auto mode no longer requires --enable-auto-mode" [ref=e1198] [cursor=pointer]:
+                  - /url: /Changes/Claude-Code/2026-04-16-auto-mode-no-longer-requires-enable-auto-mode
+              - cell "·" [ref=e1199]
+              - cell "·" [ref=e1200]
+              - cell "·" [ref=e1201]
+              - cell "·" [ref=e1202]
+              - cell "·" [ref=e1203]
+              - cell "·" [ref=e1204]
+              - cell "·" [ref=e1205]
+            - row [ref=e1206]:
+              - cell "2026 Q1" [ref=e1207]
+              - cell "·" [ref=e1208]
+              - cell "·" [ref=e1209]
+              - cell "·" [ref=e1210]
+              - cell "·" [ref=e1211]
+              - cell "·" [ref=e1212]
+              - cell [ref=e1213]:
+                - time [ref=e1214]: 2026-01-22
+                - link "Subagents" [ref=e1215] [cursor=pointer]:
+                  - /url: /Changes/Cursor/2026-01-22-subagents
+              - cell "·" [ref=e1216]
+              - cell "·" [ref=e1217]
+              - cell "·" [ref=e1218]
+              - cell "·" [ref=e1219]
+            - row [ref=e1220]:
+              - cell "2025 Q4" [ref=e1221]
+              - cell "·" [ref=e1222]
+              - cell "·" [ref=e1223]
+              - cell [ref=e1224]:
+                - text: archive begins
+                - time [ref=e1225]: 2025-12-19
+              - cell "·" [ref=e1226]
+              - cell "·" [ref=e1227]
+              - cell [ref=e1228]:
+                - time [ref=e1229]: 2025-10-29
+                - link "Multi-Agents" [ref=e1230] [cursor=pointer]:
+                  - /url: /Changes/Cursor/2025-10-29-multi-agents-bb4f56
+              - cell "·" [ref=e1231]
+              - cell "·" [ref=e1232]
+              - cell "·" [ref=e1233]
+              - cell "·" [ref=e1234]
+            - row [ref=e1235]:
+              - cell "2025 Q3" [ref=e1236]
+              - cell "·" [ref=e1237]
+              - cell [ref=e1238]:
+                - time [ref=e1239]: 2025-09-29
+                - link "ChatGPT introduces Instant Checkout and the Agentic Commerce Protocol that powers…" [ref=e1240] [cursor=pointer]:
+                  - /url: /Changes/ChatGPT/2025-09-29-we-re-introducing-instant-checkout-in-chatgpt-and-the-agentic-commerce-protocol-8cbf19
+              - cell "not archived" [ref=e1241]
+              - cell "·" [ref=e1242]
+              - cell "·" [ref=e1243]
+              - cell "·" [ref=e1244]
+              - cell "·" [ref=e1245]
+              - cell [ref=e1246]:
+                - text: archive begins
+                - time [ref=e1247]: 2025-09-26
+              - cell "·" [ref=e1248]
+              - cell "·" [ref=e1249]
+            - row [ref=e1250]:
+              - cell "2025 Q2" [ref=e1251]
+              - cell "·" [ref=e1252]
+              - cell "·" [ref=e1253]
+              - cell "not archived" [ref=e1254]
+              - cell "·" [ref=e1255]
+              - cell [ref=e1256]:
+                - text: archive begins
+                - time [ref=e1257]: 2025-06-30
+              - cell [ref=e1258]:
+                - time [ref=e1259]: 2025-06-04
+                - link "Background Agent for everyone" [ref=e1260] [cursor=pointer]:
+                  - /url: /Changes/Cursor/2025-06-04-background-agent-for-everyone-8b35dc
+                - time [ref=e1261]: 2025-05-15
+                - link "Background Agent (Preview)" [ref=e1262] [cursor=pointer]:
+                  - /url: /Changes/Cursor/2025-05-15-background-agent-preview
+              - cell [ref=e1263]:
+                - text: archive begins
+                - time [ref=e1264]: 2025-06-28
+              - cell "not archived" [ref=e1265]
+              - cell "·" [ref=e1266]
+              - cell [ref=e1267]:
+                - text: archive begins
+                - time [ref=e1268]: 2025-04-02
+            - row [ref=e1269]:
+              - cell "2025 Q1" [ref=e1270]
+              - cell "·" [ref=e1271]
+              - cell "·" [ref=e1272]
+              - cell "not archived" [ref=e1273]
+              - cell "·" [ref=e1274]
+              - cell "not archived" [ref=e1275]
+              - cell [ref=e1276]:
+                - time [ref=e1277]: 2025-02-19
+                - 'link "Agent is ready: Agent is now the default mode, bringing a more powerful and unified…" [ref=e1278] [cursor=pointer]':
+                  - /url: /Changes/Cursor/2025-02-19-agent-is-ready-agent-is-now-the-default-mode-bringing-a-more-powerful-and-unifie
+              - cell "not archived" [ref=e1279]
+              - cell "not archived" [ref=e1280]
+              - cell "·" [ref=e1281]
+              - cell "not archived" [ref=e1282]
+            - row [ref=e1283]:
+              - cell "2023 Q4 → 2024 Q4" [ref=e1284]
+              - cell "·" [ref=e1285]
+              - cell "·" [ref=e1286]
+              - cell "not archived" [ref=e1287]
+              - cell [ref=e1288]:
+                - text: archive begins
+                - time [ref=e1289]: 2024-07-28
+              - cell "not archived" [ref=e1290]
+              - cell "·" [ref=e1291]
+              - cell "not archived" [ref=e1292]
+              - cell "not archived" [ref=e1293]
+              - cell [ref=e1294]:
+                - text: archive begins
+                - time [ref=e1295]: 2024-06-04
+              - cell "not archived" [ref=e1296]
+            - row [ref=e1297]:
+              - cell "2023 Q3" [ref=e1298]
+              - cell "·" [ref=e1299]
+              - cell "·" [ref=e1300]
+              - cell "not archived" [ref=e1301]
+              - cell "not archived" [ref=e1302]
+              - cell "not archived" [ref=e1303]
+              - cell [ref=e1304]:
+                - time [ref=e1305]: 2023-07-06
+                - link "Agents, new docs" [ref=e1306] [cursor=pointer]:
+                  - /url: /Changes/Cursor/2023-07-06-welcome-to-the-first-nightly-release-it-comes-with-agents-which-we-aren-t-releas
+              - cell "not archived" [ref=e1307]
+              - cell "not archived" [ref=e1308]
+              - cell "not archived" [ref=e1309]
+              - cell "not archived" [ref=e1310]
+        - paragraph [ref=e1311]: "First in archive: each product's earliest tracked change in this theme. \"·\" marks a quarter without a key moment, and \"not archived\" a quarter before the product's archive begins. Archives begin: Aider 2023-06-07 · ChatGPT 2022-12-15 · Claude Code 2025-12-19 · Cline 2024-07-28 · Codex CLI 2025-06-30 · Cursor 2023-03-14 · Gemini CLI 2025-06-28 · GitHub Copilot CLI 2025-09-26 · OpenHands 2024-06-04 · Windsurf 2025-04-02."
+        - group [ref=e1312]:
+          - generic "How to read this timeline" [ref=e1313] [cursor=pointer]
+        - heading "Timeline" [level=2] [ref=e1314]:
+          - text: Timeline
+          - link [aria-hidden] [ref=e1315] [cursor=pointer]:
+            - /url: "#timeline"
+        - generic [ref=e1319]:
+          - paragraph [ref=e1320]: Launches, expansions, pricing and policy changes and standalone announcements come first in each year; fixes, digests and other changes are folded beneath them.
+          - group "Show" [ref=e1321]:
+            - generic [ref=e1323] [cursor=pointer]:
+              - radio "All" [checked] [ref=e1324]
+              - text: All
+            - generic [ref=e1325] [cursor=pointer]:
+              - radio "Aider" [ref=e1326]
+              - text: Aider
+            - generic [ref=e1327] [cursor=pointer]:
+              - radio "ChatGPT" [ref=e1328]
+              - text: ChatGPT
+            - generic [ref=e1329] [cursor=pointer]:
+              - radio "Claude Code" [ref=e1330]
+              - text: Claude Code
+            - generic [ref=e1331] [cursor=pointer]:
+              - radio "Cline" [ref=e1332]
+              - text: Cline
+            - generic [ref=e1333] [cursor=pointer]:
+              - radio "Codex CLI" [ref=e1334]
+              - text: Codex CLI
+            - generic [ref=e1335] [cursor=pointer]:
+              - radio "Cursor" [ref=e1336]
+              - text: Cursor
+            - generic [ref=e1337] [cursor=pointer]:
+              - radio "Gemini CLI" [ref=e1338]
+              - text: Gemini CLI
+            - generic [ref=e1339] [cursor=pointer]:
+              - radio "GitHub Copilot CLI" [ref=e1340]
+              - text: GitHub Copilot CLI
+            - generic [ref=e1341] [cursor=pointer]:
+              - radio "OpenHands" [ref=e1342]
+              - text: OpenHands
+            - generic [ref=e1343] [cursor=pointer]:
+              - radio "Windsurf" [ref=e1344]
+              - text: Windsurf
+          - group [ref=e1345]:
+            - generic "2026 · 446 entries (ChatGPT 3 · Claude Code 126 · Cline 12 · Codex CLI 72 · Cursor 89 · Gemini CLI 26 · GitHub Copilot CLI 82 · OpenHands 26 · Windsurf 10)" [ref=e1346] [cursor=pointer]
+          - group [ref=e1347]:
+            - generic "2025 · 118 entries (ChatGPT 2 · Cline 5 · Codex CLI 18 · Cursor 50 · Gemini CLI 19 · GitHub Copilot CLI 5 · OpenHands 17 · Windsurf 2)" [ref=e1348] [cursor=pointer]
+          - group [ref=e1349]:
+            - generic "2024 · 17 entries (Aider 2 · Cursor 2 · OpenHands 13)" [ref=e1350] [cursor=pointer]
+          - group [ref=e1351]:
+            - generic "2023 · 3 entries (Cursor 3)" [ref=e1352] [cursor=pointer]
+            - paragraph [ref=e1353]:
+              - strong [ref=e1354]: 2023-07
+            - list [ref=e1355]:
+              - listitem [ref=e1356]:
+                - text: 2023-07-10 ·
+                - strong [ref=e1358]: Cursor
+                - text: ·
+                - link "This nightly build comes with experimental interface agent support!" [ref=e1359] [cursor=pointer]:
+                  - /url: /Changes/Cursor/2023-07-10-this-nightly-build-comes-with-experimental-interface-agent-support
+                - text: · Change
+              - listitem [ref=e1360]:
+                - text: 2023-07-10 ·
+                - strong [ref=e1362]: Cursor
+                - text: ·
+                - 'link "The goal: you write an interface specification, and an agent writes both the tests…" [ref=e1363] [cursor=pointer]':
+                  - /url: /Changes/Cursor/2023-07-10-the-goal-you-write-an-interface-specification-and-an-agent-writes-both-the-tests
+                - text: · Change
+              - listitem [ref=e1364]:
+                - text: 2023-07-06 ·
+                - strong [ref=e1366]: Cursor
+                - text: ·
+                - link "Agents, new docs" [ref=e1367] [cursor=pointer]:
+                  - /url: /Changes/Cursor/2023-07-06-welcome-to-the-first-nightly-release-it-comes-with-agents-which-we-aren-t-releas
+                - text: · Change
+      - separator [ref=e547]
+    - generic [ref=e548]:
+      - generic [ref=e549]:
+        - button [expanded] [ref=e550] [cursor=pointer]:
+          - heading "Table of Contents" [level=3] [ref=e551]
+        - list [ref=e554]:
+          - listitem [ref=e555]:
+            - link "Agent Mode" [ref=e1368] [cursor=pointer]:
+              - /url: "#agent-mode"
+          - listitem [ref=e557]:
+            - link "Research summary" [ref=e1369] [cursor=pointer]:
+              - /url: "#research-summary"
+          - listitem [ref=e559]:
+            - link "Key moments" [ref=e1370] [cursor=pointer]:
+              - /url: "#key-moments"
+          - listitem [ref=e561]:
+            - link "Timeline" [ref=e1371] [cursor=pointer]:
+              - /url: "#timeline"
+          - listitem [ref=e563]
+      - generic [ref=e887]:
+        - heading "Backlinks" [level=3] [ref=e888]
+        - list [ref=e889]:
+          - listitem [ref=e890]:
+            - link "Improved shell command prompting" [ref=e1372] [cursor=pointer]:
+              - /url: /Changes/Aider/2024-08-27-improved-shell-command-prompting
+          - listitem [ref=e892]:
+            - link "Updated shell command prompt" [ref=e1373] [cursor=pointer]:
+              - /url: /Changes/Aider/2024-12-10-updated-shell-command-prompt
+          - listitem [ref=e1374]:
+            - link "Agentic Commerce Protocol" [ref=e1375] [cursor=pointer]:
+              - /url: /Changes/ChatGPT/2025-09-29-agentic-commerce-protocol
+          - listitem [ref=e1376]:
+            - link "ChatGPT introduces Instant Checkout and the Agentic Commerce Protocol that powers…" [ref=e1377] [cursor=pointer]:
+              - /url: /Changes/ChatGPT/2025-09-29-we-re-introducing-instant-checkout-in-chatgpt-and-the-agentic-commerce-protocol-8cbf19
+          - listitem [ref=e1378]:
+            - link "ChatGPT Work is an agent for longer, more involved tasks" [ref=e1379] [cursor=pointer]:
+              - /url: /Changes/ChatGPT/2026-07-09-chatgpt-work-is-an-agent-for-longer-more-involved-tasks-it-can-research-and-anal
+          - listitem [ref=e1380]:
+            - link "ChatGPT introduces dots" [ref=e1381] [cursor=pointer]:
+              - /url: /Changes/ChatGPT/2026-09-29-we-re-introducing-dots-always-on-agents-in-chatgpt-that-can-take-on-ongoing-work-24bef5
+          - listitem [ref=e1382]:
+            - link "Multiple agents that can work on different parts of a task in parallel" [ref=e1383] [cursor=pointer]:
+              - /url: /Changes/ChatGPT/2026-10-16-multiple-agents-that-can-work-on-different-parts-of-a-task-in-parallel-you-can-f
+          - listitem [ref=e1384]:
+            - link "Added agent_type to SessionStart hook input, populated if --agent is specified" [ref=e1385] [cursor=pointer]:
+              - /url: /Changes/Claude-Code/2026-01-09-added-agent-type-to-sessionstart-hook-input-populated-if-agent-is-specified
+          - listitem [ref=e1386]:
+            - link "Added CLAUDE_CODE_DISABLE_BACKGROUND_TASKS environment variable to disable all…" [ref=e1387] [cursor=pointer]:
+              - /url: /Changes/Claude-Code/2026-01-11-added-claude-code-disable-background-tasks-environment-variable-to-disable-all-b
+          - listitem [ref=e1388]:
+            - link "Added inline display of agent's final response in task notifications, making…" [ref=e1389] [cursor=pointer]:
+              - /url: /Changes/Claude-Code/2026-01-14-added-inline-display-of-agent-s-final-response-in-task-notifications-making-it-e
+          - listitem [ref=e1390]:
+            - link "Added plansDirectory setting to customize where plan files are stored" [ref=e1391] [cursor=pointer]:
+              - /url: /Changes/Claude-Code/2026-01-16-added-plansdirectory-setting-to-customize-where-plan-files-are-stored
+          - listitem [ref=e1392]:
+            - link "Added env var CLAUDE_CODE_ENABLE_TASKS, set to false to keep the old system…" [ref=e1393] [cursor=pointer]:
+              - /url: /Changes/Claude-Code/2026-01-23-added-env-var-claude-code-enable-tasks-set-to-false-to-keep-the-old-system-tempo
+          - listitem [ref=e1394]:
+            - link "2 Agent Mode changes in v2.1.20" [ref=e1395] [cursor=pointer]:
+              - /url: /Changes/Claude-Code/2026-01-27-2-agent-mode-changes-in-v2-1-20
+          - listitem [ref=e1396]:
+            - link "Added token count, tool uses, and duration metrics to Task tool results" [ref=e1397] [cursor=pointer]:
+              - /url: /Changes/Claude-Code/2026-02-03-added-token-count-tool-uses-and-duration-metrics-to-task-tool-results
+          - listitem [ref=e1398]:
+            - link "Updated --resume to re-use --agent value specified in previous conversation by default" [ref=e1399] [cursor=pointer]:
+              - /url: /Changes/Claude-Code/2026-02-05-updated-resume-to-re-use-agent-value-specified-in-previous-conversation-by-defau
+          - listitem [ref=e1400]:
+            - link "2 Agent Mode changes in v2.1.33" [ref=e1401] [cursor=pointer]:
+              - /url: /Changes/Claude-Code/2026-02-06-2-agent-mode-changes-in-v2-1-33
+          - listitem [ref=e1402]:
+            - link "2 Agent Mode changes in v2.1.47" [ref=e1403] [cursor=pointer]:
+              - /url: /Changes/Claude-Code/2026-02-18-2-agent-mode-changes-in-v2-1-47
+          - listitem [ref=e1404]:
+            - link "2 Agent Mode changes in v2.1.50" [ref=e1405] [cursor=pointer]:
+              - /url: /Changes/Claude-Code/2026-02-20-2-agent-mode-changes-in-v2-1-50
+          - listitem [ref=e1406]:
+            - link "Added HTTP hooks, which can POST JSON to a URL and receive JSON instead of running…" [ref=e1407] [cursor=pointer]:
+              - /url: /Changes/Claude-Code/2026-02-28-added-http-hooks-which-can-post-json-to-a-url-and-receive-json-instead-of-runnin
+          - listitem [ref=e1408]:
+            - link "2 Agent Mode changes in v2.1.69" [ref=e1409] [cursor=pointer]:
+              - /url: /Changes/Claude-Code/2026-03-05-2-agent-mode-changes-in-v2-1-69
+          - listitem [ref=e1410]:
+            - link "2 Agent Mode changes in v2.1.72" [ref=e1411] [cursor=pointer]:
+              - /url: /Changes/Claude-Code/2026-03-10-2-agent-mode-changes-in-v2-1-72
+          - listitem [ref=e1412]:
+            - link "Improved background agent behavior" [ref=e1413] [cursor=pointer]:
+              - /url: /Changes/Claude-Code/2026-03-14-improved-background-agent-behavior-killing-a-background-agent-now-preserves-its
+          - listitem [ref=e1414]:
+            - link "2 Agent Mode changes in v2.1.77" [ref=e1415] [cursor=pointer]:
+              - /url: /Changes/Claude-Code/2026-03-17-2-agent-mode-changes-in-v2-1-77
+          - listitem [ref=e1416]:
+            - link "Agents can now declare initialPrompt in frontmatter to auto-submit a first turn" [ref=e1417] [cursor=pointer]:
+              - /url: /Changes/Claude-Code/2026-03-25-agents-can-now-declare-initialprompt-in-frontmatter-to-auto-submit-a-first-turn
+          - listitem [ref=e1418]:
+            - link "2 Agent Mode changes in v2.1.84" [ref=e1419] [cursor=pointer]:
+              - /url: /Changes/Claude-Code/2026-03-26-2-agent-mode-changes-in-v2-1-84
+          - listitem [ref=e1420]:
+            - link "Auto mode now shows \"unavailable for your plan\" when disabled by plan restrictions…" [ref=e1421] [cursor=pointer]:
+              - /url: /Changes/Claude-Code/2026-03-27-auto-mode-now-shows-unavailable-for-your-plan-when-disabled-by-plan-restrictions
+          - listitem [ref=e1422]:
+            - link "3 Agent Mode changes in v2.1.89" [ref=e1423] [cursor=pointer]:
+              - /url: /Changes/Claude-Code/2026-04-01-3-agent-mode-changes-in-v2-1-89
+          - listitem [ref=e1424]:
+            - link "2 Agent Mode changes in v2.1.97" [ref=e1425] [cursor=pointer]:
+              - /url: /Changes/Claude-Code/2026-04-08-2-agent-mode-changes-in-v2-1-97
+          - listitem [ref=e1426]:
+            - link "3 Agent Mode changes in v2.1.98" [ref=e1427] [cursor=pointer]:
+              - /url: /Changes/Claude-Code/2026-04-09-3-agent-mode-changes-in-v2-1-98
+          - listitem [ref=e1428]:
+            - link "/ultraplan and other remote-session features now auto-create a default cloud…" [ref=e1429] [cursor=pointer]:
+              - /url: /Changes/Claude-Code/2026-04-10-ultraplan-and-other-remote-session-features-now-auto-create-a-default-cloud-envi
+          - listitem [ref=e1430]:
+            - link "Auto mode no longer requires --enable-auto-mode" [ref=e1431] [cursor=pointer]:
+              - /url: /Changes/Claude-Code/2026-04-16-auto-mode-no-longer-requires-enable-auto-mode
+          - listitem [ref=e1432]:
+            - link "Subagents that stall mid-stream now fail with a clear error after 10 minutes instead…" [ref=e1433] [cursor=pointer]:
+              - /url: /Changes/Claude-Code/2026-04-17-subagents-that-stall-mid-stream-now-fail-with-a-clear-error-after-10-minutes-ins
+          - listitem [ref=e1434]:
+            - link "2 Agent Mode changes in v2.1.116" [ref=e1435] [cursor=pointer]:
+              - /url: /Changes/Claude-Code/2026-04-20-2-agent-mode-changes-in-v2-1-116
+          - listitem [ref=e1436]:
+            - link "2 Agent Mode changes in v2.1.117" [ref=e1437] [cursor=pointer]:
+              - /url: /Changes/Claude-Code/2026-04-22-2-agent-mode-changes-in-v2-1-117
+          - listitem [ref=e1438]:
+            - link "2 Agent Mode changes in v2.1.118" [ref=e1439] [cursor=pointer]:
+              - /url: /Changes/Claude-Code/2026-04-23-2-agent-mode-changes-in-v2-1-118
+          - listitem [ref=e1440]:
+            - link "2 Agent Mode changes in v2.1.119" [ref=e1441] [cursor=pointer]:
+              - /url: /Changes/Claude-Code/2026-04-23-2-agent-mode-changes-in-v2-1-119
+          - listitem [ref=e1442]:
+            - link "2 Agent Mode changes in v2.1.121" [ref=e1443] [cursor=pointer]:
+              - /url: /Changes/Claude-Code/2026-04-28-2-agent-mode-changes-in-v2-1-121
+          - listitem [ref=e1444]:
+            - 'link "Auto mode: when the classifier can''t evaluate an action, the error now includes…" [ref=e1445] [cursor=pointer]':
+              - /url: /Changes/Claude-Code/2026-05-04-auto-mode-when-the-classifier-can-t-evaluate-an-action-the-error-now-includes-a
+          - listitem [ref=e1446]:
+            - link "2 Agent Mode changes in v2.1.139" [ref=e1447] [cursor=pointer]:
+              - /url: /Changes/Claude-Code/2026-05-11-2-agent-mode-changes-in-v2-1-139
+          - listitem [ref=e1448]:
+            - link "2 Agent Mode changes in v2.1.140" [ref=e1449] [cursor=pointer]:
+              - /url: /Changes/Claude-Code/2026-05-12-2-agent-mode-changes-in-v2-1-140
+          - listitem [ref=e1450]:
+            - link "4 Agent Mode changes in v2.1.141" [ref=e1451] [cursor=pointer]:
+              - /url: /Changes/Claude-Code/2026-05-13-4-agent-mode-changes-in-v2-1-141
+          - listitem [ref=e1452]:
+            - link "Improved hook configuration error" [ref=e1453] [cursor=pointer]:
+              - /url: /Changes/Claude-Code/2026-05-14-improved-hook-configuration-error-configuring-a-prompt-or-agent-type-hook-for-se
+          - listitem [ref=e1454]:
+            - link "2 Agent Mode changes in v2.1.143" [ref=e1455] [cursor=pointer]:
+              - /url: /Changes/Claude-Code/2026-05-15-2-agent-mode-changes-in-v2-1-143
+          - listitem [ref=e1456]:
+            - link "3 Agent Mode changes in v2.1.144" [ref=e1457] [cursor=pointer]:
+              - /url: /Changes/Claude-Code/2026-05-19-3-agent-mode-changes-in-v2-1-144
+          - listitem [ref=e1458]:
+            - link "3 Agent Mode changes in v2.1.145" [ref=e1459] [cursor=pointer]:
+              - /url: /Changes/Claude-Code/2026-05-19-3-agent-mode-changes-in-v2-1-145
+          - listitem [ref=e1460]:
+            - link "Added /resume support for background sessions" [ref=e1461] [cursor=pointer]:
+              - /url: /Changes/Claude-Code/2026-05-19-added-resume-support-for-background-sessions-sessions-started-via-claude-bg-or-a
+          - listitem [ref=e1462]:
+            - link "Auto mode no longer suppresses AskUserQuestion when the user or a skill explicitly…" [ref=e1463] [cursor=pointer]:
+              - /url: /Changes/Claude-Code/2026-05-21-auto-mode-no-longer-suppresses-askuserquestion-when-the-user-or-a-skill-explicit
+          - listitem [ref=e1464]:
+            - link "2 Agent Mode changes in v2.1.152" [ref=e1465] [cursor=pointer]:
+              - /url: /Changes/Claude-Code/2026-05-27-2-agent-mode-changes-in-v2-1-152
+          - listitem [ref=e1466]:
+            - link "3 Agent Mode changes in v2.1.153" [ref=e1467] [cursor=pointer]:
+              - /url: /Changes/Claude-Code/2026-05-28-3-agent-mode-changes-in-v2-1-153
+          - listitem [ref=e1468]:
+            - link "4 Agent Mode changes in v2.1.154" [ref=e1469] [cursor=pointer]:
+              - /url: /Changes/Claude-Code/2026-05-28-4-agent-mode-changes-in-v2-1-154
+          - listitem [ref=e1470]:
+            - link "Introducing dynamic workflows" [ref=e1471] [cursor=pointer]:
+              - /url: /Changes/Claude-Code/2026-05-28-introducing-dynamic-workflows-ask-claude-to-create-a-workflow-and-it-orchestrate
+          - listitem [ref=e1472]:
+            - 'link "claude agents: the agent field in settings.json is now honored for dispatched…" [ref=e1473] [cursor=pointer]':
+              - /url: /Changes/Claude-Code/2026-05-29-claude-agents-the-agent-field-in-settings-json-is-now-honored-for-dispatched-ses
+          - listitem [ref=e1474]:
+            - link "claude agents rows now show done/total before the detail when work is fanned out" [ref=e1475] [cursor=pointer]:
+              - /url: /Changes/Claude-Code/2026-06-02-claude-agents-rows-now-show-done-total-before-the-detail-when-work-is-fanned-out
+          - listitem [ref=e1476]:
+            - link "Improved performance of opening recently-inactive background agent sessions…" [ref=e1477] [cursor=pointer]:
+              - /url: /Changes/Claude-Code/2026-06-02-improved-performance-of-opening-recently-inactive-background-agent-sessions-in-c
+          - listitem [ref=e1478]:
+            - link "2 Agent Mode changes in v2.1.163" [ref=e1479] [cursor=pointer]:
+              - /url: /Changes/Claude-Code/2026-06-04-2-agent-mode-changes-in-v2-1-163
+          - listitem [ref=e1480]:
+            - 'link "claude agents: typing a URL into the list now filters to the session whose first…" [ref=e1481] [cursor=pointer]':
+              - /url: /Changes/Claude-Code/2026-06-06-claude-agents-typing-a-url-into-the-list-now-filters-to-the-session-whose-first
+          - listitem [ref=e1482]:
+            - link "2 Agent Mode changes in v2.1.169" [ref=e1483] [cursor=pointer]:
+              - /url: /Changes/Claude-Code/2026-06-08-2-agent-mode-changes-in-v2-1-169
+          - listitem [ref=e1484]:
+            - link "Sub-agents can now spawn their own sub-agents (up to 5 levels deep)" [ref=e1485] [cursor=pointer]:
+              - /url: /Changes/Claude-Code/2026-06-10-sub-agents-can-now-spawn-their-own-sub-agents-up-to-5-levels-deep
+          - listitem [ref=e1486]:
+            - link "2 Agent Mode changes in v2.1.178" [ref=e1487] [cursor=pointer]:
+              - /url: /Changes/Claude-Code/2026-06-15-2-agent-mode-changes-in-v2-1-178
+          - listitem [ref=e1488]:
+            - link "Improved the subagent panel" [ref=e1489] [cursor=pointer]:
+              - /url: /Changes/Claude-Code/2026-06-17-improved-the-subagent-panel-idle-subagents-auto-hide-after-30s-the-list-caps-at
+          - listitem [ref=e1490]:
+            - link "Improved auto mode safety" [ref=e1491] [cursor=pointer]:
+              - /url: /Changes/Claude-Code/2026-06-19-improved-auto-mode-safety-destructive-git-commands-git-reset-hard-git-checkout-g
+          - listitem [ref=e1492]:
+            - link "2 Agent Mode changes in v2.1.186" [ref=e1493] [cursor=pointer]:
+              - /url: /Changes/Claude-Code/2026-06-22-2-agent-mode-changes-in-v2-1-186
+          - listitem [ref=e1494]:
+            - link "3 Agent Mode changes in v2.1.193" [ref=e1495] [cursor=pointer]:
+              - /url: /Changes/Claude-Code/2026-06-25-3-agent-mode-changes-in-v2-1-193
+          - listitem [ref=e1496]:
+            - link "Improved claude agents completed list to fill available vertical space" [ref=e1497] [cursor=pointer]:
+              - /url: /Changes/Claude-Code/2026-06-26-improved-claude-agents-completed-list-to-fill-available-vertical-space-on-short
+          - listitem [ref=e1498]:
+            - link "2 Agent Mode changes in v2.1.196" [ref=e1499] [cursor=pointer]:
+              - /url: /Changes/Claude-Code/2026-06-29-2-agent-mode-changes-in-v2-1-196
+          - listitem [ref=e1500]:
+            - link "5 Agent Mode changes in v2.1.198" [ref=e1501] [cursor=pointer]:
+              - /url: /Changes/Claude-Code/2026-07-01-5-agent-mode-changes-in-v2-1-198
+          - listitem [ref=e1502]:
+            - link "3 Agent Mode changes in v2.1.202" [ref=e1503] [cursor=pointer]:
+              - /url: /Changes/Claude-Code/2026-07-06-3-agent-mode-changes-in-v2-1-202
+          - listitem [ref=e1504]:
+            - link "2 Agent Mode changes in v2.1.203" [ref=e1505] [cursor=pointer]:
+              - /url: /Changes/Claude-Code/2026-07-07-2-agent-mode-changes-in-v2-1-203
+          - listitem [ref=e1506]:
+            - link "3 Agent Mode changes in v2.1.205" [ref=e1507] [cursor=pointer]:
+              - /url: /Changes/Claude-Code/2026-07-08-3-agent-mode-changes-in-v2-1-205
+          - listitem [ref=e1508]:
+            - link "2 Agent Mode changes in v2.1.206" [ref=e1509] [cursor=pointer]:
+              - /url: /Changes/Claude-Code/2026-07-10-2-agent-mode-changes-in-v2-1-206
+          - listitem [ref=e1510]:
+            - link "2 Agent Mode changes in v2.1.207" [ref=e1511] [cursor=pointer]:
+              - /url: /Changes/Claude-Code/2026-07-11-2-agent-mode-changes-in-v2-1-207
+          - listitem [ref=e1512]:
+            - link "Auto mode is now available without CLAUDE_CODE_ENABLE_AUTO_MODE opt-in on Bedrock…" [ref=e1513] [cursor=pointer]:
+              - /url: /Changes/Claude-Code/2026-07-11-auto-mode-is-now-available-without-claude-code-enable-auto-mode-opt-in-on-bedroc
+          - listitem [ref=e1514]:
+            - link "3 Agent Mode changes in v2.1.210" [ref=e1515] [cursor=pointer]:
+              - /url: /Changes/Claude-Code/2026-07-14-3-agent-mode-changes-in-v2-1-210
+          - listitem [ref=e1516]:
+            - link "4 Agent Mode changes in v2.1.208" [ref=e1517] [cursor=pointer]:
+              - /url: /Changes/Claude-Code/2026-07-14-4-agent-mode-changes-in-v2-1-208
+          - listitem [ref=e1518]:
+            - link "2 Agent Mode changes in v2.1.211" [ref=e1519] [cursor=pointer]:
+              - /url: /Changes/Claude-Code/2026-07-15-2-agent-mode-changes-in-v2-1-211
+          - listitem [ref=e1520]:
+            - link "7 Agent Mode changes in v2.1.212" [ref=e1521] [cursor=pointer]:
+              - /url: /Changes/Claude-Code/2026-07-17-7-agent-mode-changes-in-v2-1-212
+          - listitem [ref=e1522]:
+            - link "Added reasoning effort to the subagentStatusLine payload, so custom agent rows can…" [ref=e1523] [cursor=pointer]:
+              - /url: /Changes/Claude-Code/2026-07-18-added-reasoning-effort-to-the-subagentstatusline-payload-so-custom-agent-rows-ca
+          - listitem [ref=e1524]:
+            - link "2 Agent Mode changes in v2.1.217" [ref=e1525] [cursor=pointer]:
+              - /url: /Changes/Claude-Code/2026-07-21-2-agent-mode-changes-in-v2-1-217
+          - listitem [ref=e1526]:
+            - link "Changed plan mode with auto to no longer prompt for Bash commands the static…" [ref=e1527] [cursor=pointer]:
+              - /url: /Changes/Claude-Code/2026-07-22-changed-plan-mode-with-auto-to-no-longer-prompt-for-bash-commands-the-static-ana
+          - listitem [ref=e1528]:
+            - link "4 Agent Mode changes in v2.1.219" [ref=e1529] [cursor=pointer]:
+              - /url: /Changes/Claude-Code/2026-07-24-4-agent-mode-changes-in-v2-1-219
+          - listitem [ref=e1530]:
+            - link "2 Agent Mode changes in v2.1.223" [ref=e1531] [cursor=pointer]:
+              - /url: /Changes/Claude-Code/2026-08-06-2-agent-mode-changes-in-v2-1-223
+          - listitem [ref=e1532]:
+            - link "Removed the 200-subagent-per-session spawn cap" [ref=e1533] [cursor=pointer]:
+              - /url: /Changes/Claude-Code/2026-08-07-removed-the-200-subagent-per-session-spawn-cap-long-running-sessions-no-longer-r
+          - listitem [ref=e1534]:
+            - link "Removed the outdated note about auto mode sessions costing slightly more…" [ref=e1535] [cursor=pointer]:
+              - /url: /Changes/Claude-Code/2026-08-11-removed-the-outdated-note-about-auto-mode-sessions-costing-slightly-more-from-th
+          - listitem [ref=e1536]:
+            - link "Improved workflow fan-outs to stagger same-prefix sibling agents so subsequent…" [ref=e1537] [cursor=pointer]:
+              - /url: /Changes/Claude-Code/2026-08-12-improved-workflow-fan-outs-to-stagger-same-prefix-sibling-agents-so-subsequent-a
+          - listitem [ref=e1538]:
+            - link "4 Agent Mode changes in v2.1.232" [ref=e1539] [cursor=pointer]:
+              - /url: /Changes/Claude-Code/2026-08-13-4-agent-mode-changes-in-v2-1-232
+          - listitem [ref=e1540]:
+            - link "Subagent forking is now on by default" [ref=e1541] [cursor=pointer]:
+              - /url: /Changes/Claude-Code/2026-08-13-subagent-forking-is-now-on-by-default-a-subagent-type-fork-subagent-inherits-the
+          - listitem [ref=e1542]:
+            - link "Improved claude self-hosted-runner session start time" [ref=e1543] [cursor=pointer]:
+              - /url: /Changes/Claude-Code/2026-08-14-improved-claude-self-hosted-runner-session-start-time-the-session-branch-is-now
+          - listitem [ref=e1544]:
+            - link "Removed the redundant \"Allowed by auto mode classifier\" line that auto mode showed…" [ref=e1545] [cursor=pointer]:
+              - /url: /Changes/Claude-Code/2026-08-17-removed-the-redundant-allowed-by-auto-mode-classifier-line-that-auto-mode-showed
+          - listitem [ref=e1546]:
+            - link "4 Agent Mode changes in v2.1.236" [ref=e1547] [cursor=pointer]:
+              - /url: /Changes/Claude-Code/2026-08-19-4-agent-mode-changes-in-v2-1-236
+          - listitem [ref=e1548]:
+            - link "2 Agent Mode changes in v2.1.239" [ref=e1549] [cursor=pointer]:
+              - /url: /Changes/Claude-Code/2026-08-21-2-agent-mode-changes-in-v2-1-239
+          - listitem [ref=e1550]:
+            - link "Improved subagent results" [ref=e1551] [cursor=pointer]:
+              - /url: /Changes/Claude-Code/2026-08-25-improved-subagent-results-a-subagent-that-stops-at-its-maxturns-limit-now-return
+          - listitem [ref=e1552]:
+            - link "3 Agent Mode changes in v2.1.248" [ref=e1553] [cursor=pointer]:
+              - /url: /Changes/Claude-Code/2026-08-27-3-agent-mode-changes-in-v2-1-248
+          - listitem [ref=e1554]:
+            - link "4 Agent Mode changes in v2.1.251" [ref=e1555] [cursor=pointer]:
+              - /url: /Changes/Claude-Code/2026-08-28-4-agent-mode-changes-in-v2-1-251
+          - listitem [ref=e1556]:
+            - link "5 Agent Mode changes in v2.1.257" [ref=e1557] [cursor=pointer]:
+              - /url: /Changes/Claude-Code/2026-09-01-5-agent-mode-changes-in-v2-1-257
+          - listitem [ref=e1558]:
+            - link "2 Agent Mode changes in v2.1.259" [ref=e1559] [cursor=pointer]:
+              - /url: /Changes/Claude-Code/2026-09-02-2-agent-mode-changes-in-v2-1-259
+          - listitem [ref=e1560]:
+            - link "2 Agent Mode changes in v2.1.260" [ref=e1561] [cursor=pointer]:
+              - /url: /Changes/Claude-Code/2026-09-03-2-agent-mode-changes-in-v2-1-260
+          - listitem [ref=e1562]:
+            - link "2 Agent Mode changes in v2.1.261" [ref=e1563] [cursor=pointer]:
+              - /url: /Changes/Claude-Code/2026-09-04-2-agent-mode-changes-in-v2-1-261
+          - listitem [ref=e1564]:
+            - link "Improved /workflows agent detail" [ref=e1565] [cursor=pointer]:
+              - /url: /Changes/Claude-Code/2026-09-08-improved-workflows-agent-detail-tool-calls-are-marked-running-failed-or-done-the
+          - listitem [ref=e1566]:
+            - link "Improved auto mode denials" [ref=e1567] [cursor=pointer]:
+              - /url: /Changes/Claude-Code/2026-09-10-improved-auto-mode-denials-the-message-claude-receives-now-names-the-rule-that-b
+          - listitem [ref=e1568]:
+            - link "2 Agent Mode changes in v2.1.269" [ref=e1569] [cursor=pointer]:
+              - /url: /Changes/Claude-Code/2026-09-11-2-agent-mode-changes-in-v2-1-269
+          - listitem [ref=e1570]:
+            - link "7 Agent Mode changes in v2.1.271" [ref=e1571] [cursor=pointer]:
+              - /url: /Changes/Claude-Code/2026-09-14-7-agent-mode-changes-in-v2-1-271
+          - listitem [ref=e1572]:
+            - link "Changed auto mode on Bedrock, Vertex and Foundry to use the local classifier…" [ref=e1573] [cursor=pointer]:
+              - /url: /Changes/Claude-Code/2026-09-15-changed-auto-mode-on-bedrock-vertex-and-foundry-to-use-the-local-classifier-by-d
+          - listitem [ref=e1574]:
+            - link "VSCode Improved the agent map" [ref=e1575] [cursor=pointer]:
+              - /url: /Changes/Claude-Code/2026-09-17-vscode-improved-the-agent-map-the-pill-counts-running-agents-and-turns-red-after
+          - listitem [ref=e1576]:
+            - link "4 Agent Mode changes in v2.1.277" [ref=e1577] [cursor=pointer]:
+              - /url: /Changes/Claude-Code/2026-09-18-4-agent-mode-changes-in-v2-1-277
+          - listitem [ref=e1578]:
+            - link "Added an Auto mode server row to /status showing whether this session's auto…" [ref=e1579] [cursor=pointer]:
+              - /url: /Changes/Claude-Code/2026-09-19-added-an-auto-mode-server-row-to-status-showing-whether-this-session-s-auto-mode
+          - listitem [ref=e1580]:
+            - link "2 Agent Mode changes in v2.1.280" [ref=e1581] [cursor=pointer]:
+              - /url: /Changes/Claude-Code/2026-09-22-2-agent-mode-changes-in-v2-1-280
+          - listitem [ref=e1582]:
+            - link "10 Agent Mode changes in v2.1.281" [ref=e1583] [cursor=pointer]:
+              - /url: /Changes/Claude-Code/2026-09-23-10-agent-mode-changes-in-v2-1-281
+          - listitem [ref=e1584]:
+            - link "2 Agent Mode changes in v2.1.282" [ref=e1585] [cursor=pointer]:
+              - /url: /Changes/Claude-Code/2026-09-24-2-agent-mode-changes-in-v2-1-282
+          - listitem [ref=e1586]:
+            - 'link "Improved startup: claude -p and Claude Code Remote no longer load the interactive…" [ref=e1587] [cursor=pointer]':
+              - /url: /Changes/Claude-Code/2026-09-25-improved-startup-claude-p-and-claude-code-remote-no-longer-load-the-interactive
+          - listitem [ref=e1588]:
+            - link "Added a \"Yes, but ask again next time\" answer to auto mode's prompt before a read…" [ref=e1589] [cursor=pointer]:
+              - /url: /Changes/Claude-Code/2026-09-28-added-a-yes-but-ask-again-next-time-answer-to-auto-mode-s-prompt-before-a-read-o
+          - listitem [ref=e1590]:
+            - link "2 Agent Mode changes in v2.1.285" [ref=e1591] [cursor=pointer]:
+              - /url: /Changes/Claude-Code/2026-09-29-2-agent-mode-changes-in-v2-1-285
+          - listitem [ref=e1592]:
+            - link "6 Agent Mode changes in v2.1.286" [ref=e1593] [cursor=pointer]:
+              - /url: /Changes/Claude-Code/2026-09-30-6-agent-mode-changes-in-v2-1-286
+          - listitem [ref=e1594]:
+            - link "4 Agent Mode changes in v2.1.287" [ref=e1595] [cursor=pointer]:
+              - /url: /Changes/Claude-Code/2026-10-01-4-agent-mode-changes-in-v2-1-287
+          - listitem [ref=e1596]:
+            - link "4 Agent Mode changes in v2.1.288" [ref=e1597] [cursor=pointer]:
+              - /url: /Changes/Claude-Code/2026-10-02-4-agent-mode-changes-in-v2-1-288
+          - listitem [ref=e1598]:
+            - link "4 Agent Mode changes in v2.1.290" [ref=e1599] [cursor=pointer]:
+              - /url: /Changes/Claude-Code/2026-10-05-4-agent-mode-changes-in-v2-1-290
+          - listitem [ref=e1600]:
+            - link "Added /claude-api managed-agents-onboard quickstart-name to build a Console…" [ref=e1601] [cursor=pointer]:
+              - /url: /Changes/Claude-Code/2026-10-05-added-claude-api-managed-agents-onboard-quickstart-name-to-build-a-console-quick
+          - listitem [ref=e1602]:
+            - link "Added /claude-api managed-agents-onboard url to set up the Managed Agents…" [ref=e1603] [cursor=pointer]:
+              - /url: /Changes/Claude-Code/2026-10-05-added-claude-api-managed-agents-onboard-url-to-set-up-the-managed-agents-pattern
+          - listitem [ref=e1604]:
+            - link "3 Agent Mode changes in v2.1.292" [ref=e1605] [cursor=pointer]:
+              - /url: /Changes/Claude-Code/2026-10-06-3-agent-mode-changes-in-v2-1-292
+          - listitem [ref=e1606]:
+            - link "2 Agent Mode changes in v2.1.293" [ref=e1607] [cursor=pointer]:
+              - /url: /Changes/Claude-Code/2026-10-07-2-agent-mode-changes-in-v2-1-293
+          - listitem [ref=e1608]:
+            - link "4 Agent Mode changes in v2.1.295" [ref=e1609] [cursor=pointer]:
+              - /url: /Changes/Claude-Code/2026-10-08-4-agent-mode-changes-in-v2-1-295
+          - listitem [ref=e1610]:
+            - link "3 Agent Mode changes in v2.1.296" [ref=e1611] [cursor=pointer]:
+              - /url: /Changes/Claude-Code/2026-10-09-3-agent-mode-changes-in-v2-1-296
+          - listitem [ref=e1612]:
+            - link "3 Agent Mode changes in v2.1.300" [ref=e1613] [cursor=pointer]:
+              - /url: /Changes/Claude-Code/2026-10-14-3-agent-mode-changes-in-v2-1-300
+          - listitem [ref=e1614]:
+            - link "5 Agent Mode changes in v2.1.299" [ref=e1615] [cursor=pointer]:
+              - /url: /Changes/Claude-Code/2026-10-14-5-agent-mode-changes-in-v2-1-299
+          - listitem [ref=e1616]:
+            - link "6 Agent Mode changes in v2.1.302" [ref=e1617] [cursor=pointer]:
+              - /url: /Changes/Claude-Code/2026-10-16-6-agent-mode-changes-in-v2-1-302
+          - listitem [ref=e1618]:
+            - link "2 Agent Mode changes in v2.1.304" [ref=e1619] [cursor=pointer]:
+              - /url: /Changes/Claude-Code/2026-10-19-2-agent-mode-changes-in-v2-1-304
+          - listitem [ref=e1620]:
+            - link "Added /claude-api managed-agents-secure, which compares a Managed Agents agent's…" [ref=e1621] [cursor=pointer]:
+              - /url: /Changes/Claude-Code/2026-10-19-added-claude-api-managed-agents-secure-which-compares-a-managed-agents-agent-s-s
+          - listitem [ref=e1622]:
+            - link "Improved fork subagents launched together" [ref=e1623] [cursor=pointer]:
+              - /url: /Changes/Claude-Code/2026-10-21-improved-fork-subagents-launched-together-each-is-now-told-which-launch-is-its-o
+          - listitem [ref=e1624]:
+            - link "Changed the /claude-api skill to build Managed Agents subagent teams…" [ref=e1625] [cursor=pointer]:
+              - /url: /Changes/Claude-Code/2026-10-22-changed-the-claude-api-skill-to-build-managed-agents-subagent-teams-on-multiagen
+          - listitem [ref=e1626]:
+            - link "2 Agent Mode changes in v2.1.310" [ref=e1627] [cursor=pointer]:
+              - /url: /Changes/Claude-Code/2026-10-23-2-agent-mode-changes-in-v2-1-310
+          - listitem [ref=e1628]:
+            - link "2 Agent Mode changes in v2.1.311" [ref=e1629] [cursor=pointer]:
+              - /url: /Changes/Claude-Code/2026-10-26-2-agent-mode-changes-in-v2-1-311
+          - listitem [ref=e1630]:
+            - link "2 Agent Mode changes in v2.1.312" [ref=e1631] [cursor=pointer]:
+              - /url: /Changes/Claude-Code/2026-10-27-2-agent-mode-changes-in-v2-1-312
+          - listitem [ref=e1632]:
+            - link "3 Agent Mode changes in v2.1.314" [ref=e1633] [cursor=pointer]:
+              - /url: /Changes/Claude-Code/2026-10-30-3-agent-mode-changes-in-v2-1-314
+          - listitem [ref=e1634]:
+            - link "2 Agent Mode changes in v2.1.316" [ref=e1635] [cursor=pointer]:
+              - /url: /Changes/Claude-Code/2026-10-31-2-agent-mode-changes-in-v2-1-316
+          - listitem [ref=e1636]:
+            - link "Add new 'Create New Task' tool to let Cline start a new task autonomously!" [ref=e1637] [cursor=pointer]:
+              - /url: /Changes/Cline/2025-04-09-add-new-create-new-task-tool-to-let-cline-start-a-new-task-autonomously
+          - listitem [ref=e1638]:
+            - link "Improve prompting for new task tool" [ref=e1639] [cursor=pointer]:
+              - /url: /Changes/Cline/2025-04-24-improve-prompting-for-new-task-tool
+          - listitem [ref=e1640]:
+            - link "adding task_progress param to the summarize task tool call" [ref=e1641] [cursor=pointer]:
+              - /url: /Changes/Cline/2025-08-21-adding-task-progress-param-to-the-summarize-task-tool-call-by-0xtoshii-in-https
+          - listitem [ref=e1642]:
+            - link "2 Agent Mode changes in v3.33.0" [ref=e1643] [cursor=pointer]:
+              - /url: /Changes/Cline/2025-10-16-2-agent-mode-changes-in-v3-33-0
+          - listitem [ref=e1644]:
+            - 'link "feat: add AGENTS.md support" [ref=e1645] [cursor=pointer]':
+              - /url: /Changes/Cline/2025-11-13-feat-add-agents-md-support-by-saoudrizwan-in-https-github-com-cline-cline-pull-7
+          - listitem [ref=e1646]:
+            - link "Add Skills system for reusable, on-demand agent instructions" [ref=e1647] [cursor=pointer]:
+              - /url: /Changes/Cline/2026-01-09-add-skills-system-for-reusable-on-demand-agent-instructions
+          - listitem [ref=e1648]:
+            - 'link "Subagent: replace legacy subagents with the native use_subagents tool" [ref=e1649] [cursor=pointer]':
+              - /url: /Changes/Cline/2026-02-12-subagent-replace-legacy-subagents-with-the-native-use-subagents-tool
+          - listitem [ref=e1650]:
+            - link "3 Agent Mode changes in v3.67.0" [ref=e1651] [cursor=pointer]:
+              - /url: /Changes/Cline/2026-02-24-3-agent-mode-changes-in-v3-67-0
+          - listitem [ref=e1652]:
+            - link "Add User-Agent header to requests sent to the Cline backend" [ref=e1653] [cursor=pointer]:
+              - /url: /Changes/Cline/2026-03-03-add-user-agent-header-to-requests-sent-to-the-cline-backend
+          - listitem [ref=e1654]:
+            - link "Subagent stream retry delay increased to reduce noise from transient failures" [ref=e1655] [cursor=pointer]:
+              - /url: /Changes/Cline/2026-03-04-subagent-stream-retry-delay-increased-to-reduce-noise-from-transient-failures
+          - listitem [ref=e1656]:
+            - link "Added .github/copilot-instructions.md for coding agents" [ref=e1657] [cursor=pointer]:
+              - /url: /Changes/Cline/2026-03-12-added-github-copilot-instructions-md-for-coding-agents
+          - listitem [ref=e1658]:
+            - link "Exclude new_task tool from system prompt in yolo/headless mode" [ref=e1659] [cursor=pointer]:
+              - /url: /Changes/Cline/2026-04-01-exclude-new-task-tool-from-system-prompt-in-yolo-headless-mode
+          - listitem [ref=e1660]:
+            - link "Temporarily disable subagents in the VS Code extension while the SDK-backed…" [ref=e1661] [cursor=pointer]:
+              - /url: /Changes/Cline/2026-06-26-temporarily-disable-subagents-in-the-vs-code-extension-while-the-sdk-backed-expe
+          - listitem [ref=e1662]:
+            - link "Carry session and client identity into Langfuse traces for Hub-backed…" [ref=e1663] [cursor=pointer]:
+              - /url: /Changes/Cline/2026-08-22-carry-session-and-client-identity-into-langfuse-traces-for-hub-backed-and-delega
+          - listitem [ref=e1664]:
+            - link "Aborting a task now also cancels the delegated subagents and teammates it spawned…" [ref=e1665] [cursor=pointer]:
+              - /url: /Changes/Cline/2026-09-02-aborting-a-task-now-also-cancels-the-delegated-subagents-and-teammates-it-spawne
+          - listitem [ref=e1666]:
+            - link "Task history no longer goes blank when a task spawns many subagents" [ref=e1667] [cursor=pointer]:
+              - /url: /Changes/Cline/2026-09-17-task-history-no-longer-goes-blank-when-a-task-spawns-many-subagents-subagent-row
+          - listitem [ref=e1668]:
+            - link "2 Agent Mode changes in v4.1.20" [ref=e1669] [cursor=pointer]:
+              - /url: /Changes/Cline/2026-09-22-2-agent-mode-changes-in-v4-1-20
+          - listitem [ref=e1670]:
+            - link "(source link) changes ctrl-d so it only exits the TUI…" [ref=e1671] [cursor=pointer]:
+              - /url: /Changes/Codex-CLI/2025-07-19-https-github-com-openai-codex-pull-1589-changes-ctrl-d-so-it-only-exits-the-tui
+          - listitem [ref=e1672]:
+            - link "5 Agent Mode changes in rust-v0.24.0" [ref=e1673] [cursor=pointer]:
+              - /url: /Changes/Codex-CLI/2025-08-26-5-agent-mode-changes-in-rust-v0-24-0
+          - listitem [ref=e1674]:
+            - link "2 Agent Mode changes in rust-v0.27.0" [ref=e1675] [cursor=pointer]:
+              - /url: /Changes/Codex-CLI/2025-08-29-2-agent-mode-changes-in-rust-v0-27-0
+          - listitem [ref=e1676]:
+            - 'link "♯2848 chore: try to make it easier to debug the flakiness…" [ref=e1677] [cursor=pointer]':
+              - /url: /Changes/Codex-CLI/2025-08-29-2848-chore-try-to-make-it-easier-to-debug-the-flakiness-of-test-shell-command-ap
+          - listitem [ref=e1678]:
+            - link "4 Agent Mode changes in rust-v0.28.0" [ref=e1679] [cursor=pointer]:
+              - /url: /Changes/Codex-CLI/2025-09-02-4-agent-mode-changes-in-rust-v0-28-0
+          - listitem [ref=e1680]:
+            - 'link "♯3089 Docs: update link to (source link)" [ref=e1681] [cursor=pointer]':
+              - /url: /Changes/Codex-CLI/2025-09-03-3089-docs-update-link-to-https-agents-md
+          - listitem [ref=e1682]:
+            - link "3 Agent Mode changes in rust-v0.30.0" [ref=e1683] [cursor=pointer]:
+              - /url: /Changes/Codex-CLI/2025-09-05-3-agent-mode-changes-in-rust-v0-30-0
+          - listitem [ref=e1684]:
+            - link "♯3436 Make user_agent optional (♯3436)" [ref=e1685] [cursor=pointer]:
+              - /url: /Changes/Codex-CLI/2025-09-10-3436-make-user-agent-optional-3436
+          - listitem [ref=e1686]:
+            - link "2 Agent Mode changes in rust-v0.39.0" [ref=e1687] [cursor=pointer]:
+              - /url: /Changes/Codex-CLI/2025-09-18-2-agent-mode-changes-in-rust-v0-39-0
+          - listitem [ref=e1688]:
+            - link "5 Agent Mode changes in rust-v0.44.0" [ref=e1689] [cursor=pointer]:
+              - /url: /Changes/Codex-CLI/2025-10-03-5-agent-mode-changes-in-rust-v0-44-0
+          - listitem [ref=e1690]:
+            - link "Agent override file (♯5215)" [ref=e1691] [cursor=pointer]:
+              - /url: /Changes/Codex-CLI/2025-10-17-agent-override-file-5215
+          - listitem [ref=e1692]:
+            - link "2 Agent Mode changes in rust-v0.48.0" [ref=e1693] [cursor=pointer]:
+              - /url: /Changes/Codex-CLI/2025-10-23-2-agent-mode-changes-in-rust-v0-48-0
+          - listitem [ref=e1694]:
+            - link "3 Agent Mode changes in rust-v0.52.0" [ref=e1695] [cursor=pointer]:
+              - /url: /Changes/Codex-CLI/2025-10-30-3-agent-mode-changes-in-rust-v0-52-0
+          - listitem [ref=e1696]:
+            - 'link "♯6510 — feat: shell_command tool (29364f3a9)" [ref=e1697] [cursor=pointer]':
+              - /url: /Changes/Codex-CLI/2025-11-13-6510-feat-shell-command-tool-29364f3a9
+          - listitem [ref=e1698]:
+            - link "2 Agent Mode changes in rust-v0.59.0" [ref=e1699] [cursor=pointer]:
+              - /url: /Changes/Codex-CLI/2025-11-19-2-agent-mode-changes-in-rust-v0-59-0
+          - listitem [ref=e1700]:
+            - link "PowerShell apply_patch parsing is corrected, and apply_patch tests now cover…" [ref=e1701] [cursor=pointer]:
+              - /url: /Changes/Codex-CLI/2025-12-02-powershell-apply-patch-parsing-is-corrected-and-apply-patch-tests-now-cover-shel
+          - listitem [ref=e1702]:
+            - 'link "♯7729 feat: add is-mutating detection for shell command handler @jif-oai" [ref=e1703] [cursor=pointer]':
+              - /url: /Changes/Codex-CLI/2025-12-09-7729-feat-add-is-mutating-detection-for-shell-command-handler-jif-oai
+          - listitem [ref=e1704]:
+            - link "3 Agent Mode changes in rust-v0.74.0" [ref=e1705] [cursor=pointer]:
+              - /url: /Changes/Codex-CLI/2025-12-18-3-agent-mode-changes-in-rust-v0-74-0
+          - listitem [ref=e1706]:
+            - link "4 Agent Mode changes in rust-v0.79.0" [ref=e1707] [cursor=pointer]:
+              - /url: /Changes/Codex-CLI/2026-01-07-4-agent-mode-changes-in-rust-v0-79-0
+          - listitem [ref=e1708]:
+            - link "2 Agent Mode changes in rust-v0.80.0" [ref=e1709] [cursor=pointer]:
+              - /url: /Changes/Codex-CLI/2026-01-09-2-agent-mode-changes-in-rust-v0-80-0
+          - listitem [ref=e1710]:
+            - link "2 Agent Mode changes in rust-v0.81.0" [ref=e1711] [cursor=pointer]:
+              - /url: /Changes/Codex-CLI/2026-01-14-2-agent-mode-changes-in-rust-v0-81-0
+          - listitem [ref=e1712]:
+            - 'link "♯9275 feat: add agent roles to collab tools @jif-oai" [ref=e1713] [cursor=pointer]':
+              - /url: /Changes/Codex-CLI/2026-01-15-9275-feat-add-agent-roles-to-collab-tools-jif-oai
+          - listitem [ref=e1714]:
+            - link "2 Agent Mode changes in rust-v0.88.0" [ref=e1715] [cursor=pointer]:
+              - /url: /Changes/Codex-CLI/2026-01-21-2-agent-mode-changes-in-rust-v0-88-0
+          - listitem [ref=e1716]:
+            - 'link "♯9650 chore: tweak AGENTS.md @dylan-hurd-oai" [ref=e1717] [cursor=pointer]':
+              - /url: /Changes/Codex-CLI/2026-01-22-9650-chore-tweak-agents-md-dylan-hurd-oai
+          - listitem [ref=e1718]:
+            - link "2 Agent Mode changes in rust-v0.90.0" [ref=e1719] [cursor=pointer]:
+              - /url: /Changes/Codex-CLI/2026-01-25-2-agent-mode-changes-in-rust-v0-90-0
+          - listitem [ref=e1720]:
+            - link "2 Agent Mode changes in rust-v0.91.0" [ref=e1721] [cursor=pointer]:
+              - /url: /Changes/Codex-CLI/2026-01-25-2-agent-mode-changes-in-rust-v0-91-0
+          - listitem [ref=e1722]:
+            - 'link "♯9818 feat: rebase multi-agent tui on config_snapshot @jif-oai" [ref=e1723] [cursor=pointer]':
+              - /url: /Changes/Codex-CLI/2026-01-27-9818-feat-rebase-multi-agent-tui-on-config-snapshot-jif-oai
+          - listitem [ref=e1724]:
+            - link "2 Agent Mode changes in rust-v0.94.0" [ref=e1725] [cursor=pointer]:
+              - /url: /Changes/Codex-CLI/2026-02-02-2-agent-mode-changes-in-rust-v0-94-0
+          - listitem [ref=e1726]:
+            - link "4 Agent Mode changes in rust-v0.95.0" [ref=e1727] [cursor=pointer]:
+              - /url: /Changes/Codex-CLI/2026-02-04-4-agent-mode-changes-in-rust-v0-95-0
+          - listitem [ref=e1728]:
+            - link "♯10649 Fix test_shell_command_interruption flake @gt-oai" [ref=e1729] [cursor=pointer]:
+              - /url: /Changes/Codex-CLI/2026-02-05-10649-fix-test-shell-command-interruption-flake-gt-oai
+          - listitem [ref=e1730]:
+            - link "10 Agent Mode changes in rust-v0.99.0" [ref=e1731] [cursor=pointer]:
+              - /url: /Changes/Codex-CLI/2026-02-11-10-agent-mode-changes-in-rust-v0-99-0
+          - listitem [ref=e1732]:
+            - link "2 Agent Mode changes in rust-v0.100.0" [ref=e1733] [cursor=pointer]:
+              - /url: /Changes/Codex-CLI/2026-02-12-2-agent-mode-changes-in-rust-v0-100-0
+          - listitem [ref=e1734]:
+            - link "7 Agent Mode changes in rust-v0.102.0" [ref=e1735] [cursor=pointer]:
+              - /url: /Changes/Codex-CLI/2026-02-17-7-agent-mode-changes-in-rust-v0-102-0
+          - listitem [ref=e1736]:
+            - link "Protocol/core now carry distinct approval IDs for command approvals to support…" [ref=e1737] [cursor=pointer]:
+              - /url: /Changes/Codex-CLI/2026-02-18-protocol-core-now-carry-distinct-approval-ids-for-command-approvals-to-support-m
+          - listitem [ref=e1738]:
+            - link "18 Agent Mode changes in rust-v0.105.0" [ref=e1739] [cursor=pointer]:
+              - /url: /Changes/Codex-CLI/2026-02-25-18-agent-mode-changes-in-rust-v0-105-0
+          - listitem [ref=e1740]:
+            - link "5 Agent Mode changes in rust-v0.106.0" [ref=e1741] [cursor=pointer]:
+              - /url: /Changes/Codex-CLI/2026-02-26-5-agent-mode-changes-in-rust-v0-106-0
+          - listitem [ref=e1742]:
+            - link "2 Agent Mode changes in rust-v0.107.0" [ref=e1743] [cursor=pointer]:
+              - /url: /Changes/Codex-CLI/2026-03-02-2-agent-mode-changes-in-rust-v0-107-0
+          - listitem [ref=e1744]:
+            - link "Fork a thread into sub-agents, making it easier to branch work without leaving…" [ref=e1745] [cursor=pointer]:
+              - /url: /Changes/Codex-CLI/2026-03-02-you-can-now-fork-a-thread-into-sub-agents-making-it-easier-to-branch-work-withou
+          - listitem [ref=e1746]:
+            - link "13 Agent Mode changes in rust-v0.110.0" [ref=e1747] [cursor=pointer]:
+              - /url: /Changes/Codex-CLI/2026-03-05-13-agent-mode-changes-in-rust-v0-110-0
+          - listitem [ref=e1748]:
+            - link "16 Agent Mode changes in rust-v0.115.0" [ref=e1749] [cursor=pointer]:
+              - /url: /Changes/Codex-CLI/2026-03-16-16-agent-mode-changes-in-rust-v0-115-0
+          - listitem [ref=e1750]:
+            - link "5 Agent Mode changes in rust-v0.116.0" [ref=e1751] [cursor=pointer]:
+              - /url: /Changes/Codex-CLI/2026-03-19-5-agent-mode-changes-in-rust-v0-116-0
+          - listitem [ref=e1752]:
+            - link "19 Agent Mode changes in rust-v0.117.0" [ref=e1753] [cursor=pointer]:
+              - /url: /Changes/Codex-CLI/2026-03-26-19-agent-mode-changes-in-rust-v0-117-0
+          - listitem [ref=e1754]:
+            - link "4 Agent Mode changes in rust-v0.118.0" [ref=e1755] [cursor=pointer]:
+              - /url: /Changes/Codex-CLI/2026-03-31-4-agent-mode-changes-in-rust-v0-118-0
+          - listitem [ref=e1756]:
+            - link "13 Agent Mode changes in rust-v0.119.0" [ref=e1757] [cursor=pointer]:
+              - /url: /Changes/Codex-CLI/2026-04-10-13-agent-mode-changes-in-rust-v0-119-0
+          - listitem [ref=e1758]:
+            - link "4 Agent Mode changes in rust-v0.120.0" [ref=e1759] [cursor=pointer]:
+              - /url: /Changes/Codex-CLI/2026-04-11-4-agent-mode-changes-in-rust-v0-120-0
+          - listitem [ref=e1760]:
+            - link "7 Agent Mode changes in rust-v0.121.0" [ref=e1761] [cursor=pointer]:
+              - /url: /Changes/Codex-CLI/2026-04-15-7-agent-mode-changes-in-rust-v0-121-0
+          - listitem [ref=e1762]:
+            - link "10 Agent Mode changes in rust-v0.122.0" [ref=e1763] [cursor=pointer]:
+              - /url: /Changes/Codex-CLI/2026-04-20-10-agent-mode-changes-in-rust-v0-122-0
+          - listitem [ref=e1764]:
+            - link "11 Agent Mode changes in rust-v0.124.0" [ref=e1765] [cursor=pointer]:
+              - /url: /Changes/Codex-CLI/2026-04-23-11-agent-mode-changes-in-rust-v0-124-0
+          - listitem [ref=e1766]:
+            - link "8 Agent Mode changes in rust-v0.123.0" [ref=e1767] [cursor=pointer]:
+              - /url: /Changes/Codex-CLI/2026-04-23-8-agent-mode-changes-in-rust-v0-123-0
+          - listitem [ref=e1768]:
+            - link "5 Agent Mode changes in rust-v0.125.0" [ref=e1769] [cursor=pointer]:
+              - /url: /Changes/Codex-CLI/2026-04-24-5-agent-mode-changes-in-rust-v0-125-0
+          - listitem [ref=e1770]:
+            - link "19 Agent Mode changes in rust-v0.128.0" [ref=e1771] [cursor=pointer]:
+              - /url: /Changes/Codex-CLI/2026-04-30-19-agent-mode-changes-in-rust-v0-128-0
+          - listitem [ref=e1772]:
+            - link "5 Agent Mode changes in rust-v0.129.0" [ref=e1773] [cursor=pointer]:
+              - /url: /Changes/Codex-CLI/2026-05-07-5-agent-mode-changes-in-rust-v0-129-0
+          - listitem [ref=e1774]:
+            - link "9 Agent Mode changes in rust-v0.131.0" [ref=e1775] [cursor=pointer]:
+              - /url: /Changes/Codex-CLI/2026-05-18-9-agent-mode-changes-in-rust-v0-131-0
+          - listitem [ref=e1776]:
+            - link "♯23147 Make multi-agent v2 tool namespace configurable @jif-oai" [ref=e1777] [cursor=pointer]:
+              - /url: /Changes/Codex-CLI/2026-05-20-23147-make-multi-agent-v2-tool-namespace-configurable-jif-oai
+          - listitem [ref=e1778]:
+            - link "7 Agent Mode changes in rust-v0.133.0" [ref=e1779] [cursor=pointer]:
+              - /url: /Changes/Codex-CLI/2026-05-21-7-agent-mode-changes-in-rust-v0-133-0
+          - listitem [ref=e1780]:
+            - link "3 Agent Mode changes in rust-v0.134.0" [ref=e1781] [cursor=pointer]:
+              - /url: /Changes/Codex-CLI/2026-05-26-3-agent-mode-changes-in-rust-v0-134-0
+          - listitem [ref=e1782]:
+            - link "♯24714 fix(auto-review) skip legacy notify for auto review threads @dylan-hurd-oai" [ref=e1783] [cursor=pointer]:
+              - /url: /Changes/Codex-CLI/2026-05-28-24714-fix-auto-review-skip-legacy-notify-for-auto-review-threads-dylan-hurd-oai
+          - listitem [ref=e1784]:
+            - link "3 Agent Mode changes in rust-v0.136.0" [ref=e1785] [cursor=pointer]:
+              - /url: /Changes/Codex-CLI/2026-06-01-3-agent-mode-changes-in-rust-v0-136-0
+          - listitem [ref=e1786]:
+            - link "12 Agent Mode changes in rust-v0.137.0" [ref=e1787] [cursor=pointer]:
+              - /url: /Changes/Codex-CLI/2026-06-04-12-agent-mode-changes-in-rust-v0-137-0
+          - listitem [ref=e1788]:
+            - link "8 Agent Mode changes in rust-v0.138.0" [ref=e1789] [cursor=pointer]:
+              - /url: /Changes/Codex-CLI/2026-06-08-8-agent-mode-changes-in-rust-v0-138-0
+          - listitem [ref=e1790]:
+            - link "5 Agent Mode changes in rust-v0.139.0" [ref=e1791] [cursor=pointer]:
+              - /url: /Changes/Codex-CLI/2026-06-09-5-agent-mode-changes-in-rust-v0-139-0
+          - listitem [ref=e1792]:
+            - link "11 Agent Mode changes in rust-v0.140.0" [ref=e1793] [cursor=pointer]:
+              - /url: /Changes/Codex-CLI/2026-06-15-11-agent-mode-changes-in-rust-v0-140-0
+          - listitem [ref=e1794]:
+            - link "5 Agent Mode changes in rust-v0.141.0" [ref=e1795] [cursor=pointer]:
+              - /url: /Changes/Codex-CLI/2026-06-18-5-agent-mode-changes-in-rust-v0-141-0
+          - listitem [ref=e1796]:
+            - link "14 Agent Mode changes in rust-v0.142.0" [ref=e1797] [cursor=pointer]:
+              - /url: /Changes/Codex-CLI/2026-06-22-14-agent-mode-changes-in-rust-v0-142-0
+          - listitem [ref=e1798]:
+            - link "10 Agent Mode changes in rust-v0.143.0" [ref=e1799] [cursor=pointer]:
+              - /url: /Changes/Codex-CLI/2026-07-08-10-agent-mode-changes-in-rust-v0-143-0
+          - listitem [ref=e1800]:
+            - link "4 Agent Mode changes in rust-v0.144.0" [ref=e1801] [cursor=pointer]:
+              - /url: /Changes/Codex-CLI/2026-07-09-4-agent-mode-changes-in-rust-v0-144-0
+          - listitem [ref=e1802]:
+            - link "2 Agent Mode changes in rust-v0.144.2" [ref=e1803] [cursor=pointer]:
+              - /url: /Changes/Codex-CLI/2026-07-13-2-agent-mode-changes-in-rust-v0-144-2
+          - listitem [ref=e1804]:
+            - link "20 Agent Mode changes in rust-v0.145.0" [ref=e1805] [cursor=pointer]:
+              - /url: /Changes/Codex-CLI/2026-07-21-20-agent-mode-changes-in-rust-v0-145-0
+          - listitem [ref=e1806]:
+            - link "11 Agent Mode changes in rust-v0.146.0" [ref=e1807] [cursor=pointer]:
+              - /url: /Changes/Codex-CLI/2026-07-29-11-agent-mode-changes-in-rust-v0-146-0
+          - listitem [ref=e1808]:
+            - link "17 Agent Mode changes in rust-v0.147.0" [ref=e1809] [cursor=pointer]:
+              - /url: /Changes/Codex-CLI/2026-08-07-17-agent-mode-changes-in-rust-v0-147-0
+          - listitem [ref=e1810]:
+            - link "12 Agent Mode changes in rust-v0.148.0" [ref=e1811] [cursor=pointer]:
+              - /url: /Changes/Codex-CLI/2026-08-18-12-agent-mode-changes-in-rust-v0-148-0
+          - listitem [ref=e1812]:
+            - link "12 Agent Mode changes in rust-v0.149.0" [ref=e1813] [cursor=pointer]:
+              - /url: /Changes/Codex-CLI/2026-08-20-12-agent-mode-changes-in-rust-v0-149-0
+          - listitem [ref=e1814]:
+            - link "14 Agent Mode changes in rust-v0.150.0" [ref=e1815] [cursor=pointer]:
+              - /url: /Changes/Codex-CLI/2026-08-26-14-agent-mode-changes-in-rust-v0-150-0
+          - listitem [ref=e1816]:
+            - link "2 Agent Mode changes in rust-v0.151.0" [ref=e1817] [cursor=pointer]:
+              - /url: /Changes/Codex-CLI/2026-08-29-2-agent-mode-changes-in-rust-v0-151-0
+          - listitem [ref=e1818]:
+            - link "4 Agent Mode changes in rust-v0.152.0" [ref=e1819] [cursor=pointer]:
+              - /url: /Changes/Codex-CLI/2026-09-01-4-agent-mode-changes-in-rust-v0-152-0
+          - listitem [ref=e1820]:
+            - link "4 Agent Mode changes in rust-v0.153.0" [ref=e1821] [cursor=pointer]:
+              - /url: /Changes/Codex-CLI/2026-09-03-4-agent-mode-changes-in-rust-v0-153-0
+          - listitem [ref=e1822]:
+            - link "6 Agent Mode changes in rust-v0.154.0" [ref=e1823] [cursor=pointer]:
+              - /url: /Changes/Codex-CLI/2026-09-09-6-agent-mode-changes-in-rust-v0-154-0
+          - listitem [ref=e1824]:
+            - link "9 Agent Mode changes in rust-v0.155.0" [ref=e1825] [cursor=pointer]:
+              - /url: /Changes/Codex-CLI/2026-09-17-9-agent-mode-changes-in-rust-v0-155-0
+          - listitem [ref=e1826]:
+            - link "34 Agent Mode changes in rust-v0.156.0" [ref=e1827] [cursor=pointer]:
+              - /url: /Changes/Codex-CLI/2026-09-22-34-agent-mode-changes-in-rust-v0-156-0
+          - listitem [ref=e1828]:
+            - link "13 Agent Mode changes in rust-v0.157.0" [ref=e1829] [cursor=pointer]:
+              - /url: /Changes/Codex-CLI/2026-09-25-13-agent-mode-changes-in-rust-v0-157-0
+          - listitem [ref=e1830]:
+            - link "11 Agent Mode changes in rust-v0.158.0" [ref=e1831] [cursor=pointer]:
+              - /url: /Changes/Codex-CLI/2026-09-28-11-agent-mode-changes-in-rust-v0-158-0
+          - listitem [ref=e1832]:
+            - link "♯48190 Bound agent message board SSE frames before parsing @jif-oai" [ref=e1833] [cursor=pointer]:
+              - /url: /Changes/Codex-CLI/2026-09-29-48190-bound-agent-message-board-sse-frames-before-parsing-jif-oai
+          - listitem [ref=e1834]:
+            - link "6 Agent Mode changes in rust-v0.160.0" [ref=e1835] [cursor=pointer]:
+              - /url: /Changes/Codex-CLI/2026-10-01-6-agent-mode-changes-in-rust-v0-160-0
+          - listitem [ref=e1836]:
+            - link "9 Agent Mode changes in rust-v0.161.0" [ref=e1837] [cursor=pointer]:
+              - /url: /Changes/Codex-CLI/2026-10-07-9-agent-mode-changes-in-rust-v0-161-0
+          - listitem [ref=e1838]:
+            - link "14 Agent Mode changes in rust-v0.162.0" [ref=e1839] [cursor=pointer]:
+              - /url: /Changes/Codex-CLI/2026-10-08-14-agent-mode-changes-in-rust-v0-162-0
+          - listitem [ref=e1840]:
+            - link "14 Agent Mode changes in rust-v0.163.0" [ref=e1841] [cursor=pointer]:
+              - /url: /Changes/Codex-CLI/2026-10-15-14-agent-mode-changes-in-rust-v0-163-0
+          - listitem [ref=e1842]:
+            - link "13 Agent Mode changes in rust-v0.164.0" [ref=e1843] [cursor=pointer]:
+              - /url: /Changes/Codex-CLI/2026-10-23-13-agent-mode-changes-in-rust-v0-164-0
+          - listitem [ref=e1844]:
+            - link "4 Agent Mode changes in rust-v0.165.0" [ref=e1845] [cursor=pointer]:
+              - /url: /Changes/Codex-CLI/2026-10-27-4-agent-mode-changes-in-rust-v0-165-0
+          - listitem [ref=e1846]:
+            - link "7 Agent Mode changes in rust-v0.166.0" [ref=e1847] [cursor=pointer]:
+              - /url: /Changes/Codex-CLI/2026-10-29-7-agent-mode-changes-in-rust-v0-166-0
+          - listitem [ref=e1848]:
+            - link "6 Agent Mode changes in rust-v0.167.0" [ref=e1849] [cursor=pointer]:
+              - /url: /Changes/Codex-CLI/2026-11-06-6-agent-mode-changes-in-rust-v0-167-0
+          - listitem [ref=e1850]:
+            - link "Agents, new docs" [ref=e1851] [cursor=pointer]:
+              - /url: /Changes/Cursor/2023-07-06-welcome-to-the-first-nightly-release-it-comes-with-agents-which-we-aren-t-releas
+          - listitem [ref=e1852]:
+            - 'link "The goal: you write an interface specification, and an agent writes both the tests…" [ref=e1853] [cursor=pointer]':
+              - /url: /Changes/Cursor/2023-07-10-the-goal-you-write-an-interface-specification-and-an-agent-writes-both-the-tests
+          - listitem [ref=e1854]:
+            - link "This nightly build comes with experimental interface agent support!" [ref=e1855] [cursor=pointer]:
+              - /url: /Changes/Cursor/2023-07-10-this-nightly-build-comes-with-experimental-interface-agent-support
+          - listitem [ref=e1856]:
+            - 'link "Interpreter Mode: We''ve made some big improvements to the backend powering…" [ref=e1857] [cursor=pointer]':
+              - /url: /Changes/Cursor/2024-02-15-interpreter-mode-we-ve-made-some-big-improvements-to-the-backend-powering-interp
+          - listitem [ref=e1858]:
+            - link "Concurrent composers support, composer control panel, and various bug fixes such…" [ref=e1859] [cursor=pointer]:
+              - /url: /Changes/Cursor/2024-08-02-concurrent-composers-support-composer-control-panel-and-various-bug-fixes-such-a
+          - listitem [ref=e1860]:
+            - 'link "Agent sees recent changes: The agent can use a tool to see your recent changes" [ref=e1861] [cursor=pointer]':
+              - /url: /Changes/Cursor/2025-01-23-agent-sees-recent-changes-the-agent-can-use-a-tool-to-see-your-recent-changes-it
+          - listitem [ref=e1862]:
+            - 'link ".cursor/rules: Users can write several repository-level rules to disk…" [ref=e1863] [cursor=pointer]':
+              - /url: /Changes/Cursor/2025-01-23-cursor-rules-users-can-write-several-repository-level-rules-to-disk-in-the-curso
+          - listitem [ref=e1864]:
+            - 'link "Agent is ready: Agent is now the default mode, bringing a more powerful and unified…" [ref=e1865] [cursor=pointer]':
+              - /url: /Changes/Cursor/2025-02-19-agent-is-ready-agent-is-now-the-default-mode-bringing-a-more-powerful-and-unifie
+          - listitem [ref=e1866]:
+            - link "Agent tool limit" [ref=e1867] [cursor=pointer]:
+              - /url: /Changes/Cursor/2025-02-19-agent-tool-limit-upon-reaching-the-25-tool-call-limit-you-can-press-continue-to
+          - listitem [ref=e1868]:
+            - link "Built-in modes & custom modes (beta)" [ref=e1869] [cursor=pointer]:
+              - /url: /Changes/Cursor/2025-03-23-built-in-modes-custom-modes-beta
+          - listitem [ref=e1870]:
+            - link "Making reviews easier" [ref=e1871] [cursor=pointer]:
+              - /url: /Changes/Cursor/2025-04-15-reviewing-agent-generated-code-is-now-easier-with-a-built-in-diff-view-at-the-en
+          - listitem [ref=e1872]:
+            - link "Background Agent (Preview)" [ref=e1873] [cursor=pointer]:
+              - /url: /Changes/Cursor/2025-05-15-background-agent-preview
+          - listitem [ref=e1874]:
+            - link "Fast edits for long files with Agent" [ref=e1875] [cursor=pointer]:
+              - /url: /Changes/Cursor/2025-05-15-fast-edits-for-long-files-with-agent
+          - listitem [ref=e1876]:
+            - link "Agent in Jupyter Notebooks" [ref=e1877] [cursor=pointer]:
+              - /url: /Changes/Cursor/2025-06-04-agent-in-jupyter-notebooks
+          - listitem [ref=e1878]:
+            - link "Background Agent for everyone" [ref=e1879] [cursor=pointer]:
+              - /url: /Changes/Cursor/2025-06-04-background-agent-for-everyone-8b35dc
+          - listitem [ref=e1880]:
+            - link "Open Background Agent control panel with Cmd/Ctrl+E" [ref=e1881] [cursor=pointer]:
+              - /url: /Changes/Cursor/2025-06-04-open-background-agent-control-panel-with-cmd-ctrl-e
+          - listitem [ref=e1882]:
+            - link "Cursor brings Bugbot for code review, a first look at memories, one-click MCP setup…" [ref=e1883] [cursor=pointer]:
+              - /url: /Changes/Cursor/2025-06-04-this-release-brings-bugbot-for-code-review-a-first-look-at-memories-one-click-mc
+          - listitem [ref=e1884]:
+            - link "Improved Background Agent reliability" [ref=e1885] [cursor=pointer]:
+              - /url: /Changes/Cursor/2025-06-12-improved-background-agent-reliability
+          - listitem [ref=e1886]:
+            - link "Launch Background Agents directly from Slack by mentioning @Cursor" [ref=e1887] [cursor=pointer]:
+              - /url: /Changes/Cursor/2025-06-12-you-can-now-launch-background-agents-directly-from-slack-by-mentioning-cursor-ag
+          - listitem [ref=e1888]:
+            - link "2 Agent Mode changes in 1.2" [ref=e1889] [cursor=pointer]:
+              - /url: /Changes/Cursor/2025-07-03-2-agent-mode-changes-in-1-2
+          - listitem [ref=e1890]:
+            - link "Agent To-dos" [ref=e1891] [cursor=pointer]:
+              - /url: /Changes/Cursor/2025-07-03-agent-to-dos-3ffa24
+          - listitem [ref=e1892]:
+            - link "Background Agent improvements" [ref=e1893] [cursor=pointer]:
+              - /url: /Changes/Cursor/2025-07-03-background-agent-improvements
+          - listitem [ref=e1894]:
+            - link "Let Agent resolve merge conflicts" [ref=e1895] [cursor=pointer]:
+              - /url: /Changes/Cursor/2025-07-03-let-agent-resolve-merge-conflicts
+          - listitem [ref=e1896]:
+            - link "Queued messages" [ref=e1897] [cursor=pointer]:
+              - /url: /Changes/Cursor/2025-07-03-you-can-now-queue-follow-up-messages-for-agent-once-it-s-done-with-current-task
+          - listitem [ref=e1898]:
+            - link "2 Agent Mode changes in 1.3" [ref=e1899] [cursor=pointer]:
+              - /url: /Changes/Cursor/2025-07-29-2-agent-mode-changes-in-1-3
+          - listitem [ref=e1900]:
+            - link "Share terminal with Agent" [ref=e1901] [cursor=pointer]:
+              - /url: /Changes/Cursor/2025-07-29-agents-can-now-use-your-native-terminal-a-new-terminal-will-be-created-when-need
+          - listitem [ref=e1902]:
+            - link "Faster Background Agent startup" [ref=e1903] [cursor=pointer]:
+              - /url: /Changes/Cursor/2025-08-06-faster-background-agent-startup
+          - listitem [ref=e1904]:
+            - link "GitHub support for Background Agents" [ref=e1905] [cursor=pointer]:
+              - /url: /Changes/Cursor/2025-08-06-github-support-for-background-agents
+          - listitem [ref=e1906]:
+            - link "Improved Agent tools" [ref=e1907] [cursor=pointer]:
+              - /url: /Changes/Cursor/2025-08-06-improved-agent-tools-488891
+          - listitem [ref=e1908]:
+            - link "More Agent steerability" [ref=e1909] [cursor=pointer]:
+              - /url: /Changes/Cursor/2025-08-06-sending-messages-while-cursor-is-working-now-does-a-better-job-of-steering-the-a
+          - listitem [ref=e1910]:
+            - link "Sidebar for all Agents" [ref=e1911] [cursor=pointer]:
+              - /url: /Changes/Cursor/2025-08-06-sidebar-for-all-agents
+          - listitem [ref=e1912]:
+            - link "OS notifications from Agent" [ref=e1913] [cursor=pointer]:
+              - /url: /Changes/Cursor/2025-08-21-get-native-os-notifications-when-an-agent-run-finishes-or-when-input-is-required
+          - listitem [ref=e1914]:
+            - link "Run Agents in Linear" [ref=e1915] [cursor=pointer]:
+              - /url: /Changes/Cursor/2025-08-21-you-can-now-start-background-agents-directly-from-linear-delegate-tasks-to-curso
+          - listitem [ref=e1916]:
+            - link "3 Agent Mode changes in 1.6" [ref=e1917] [cursor=pointer]:
+              - /url: /Changes/Cursor/2025-09-12-3-agent-mode-changes-in-1-6
+          - listitem [ref=e1918]:
+            - link "6 Agent Mode changes in 1.7" [ref=e1919] [cursor=pointer]:
+              - /url: /Changes/Cursor/2025-09-29-6-agent-mode-changes-in-1-7
+          - listitem [ref=e1920]:
+            - link "Browser Controls" [ref=e1921] [cursor=pointer]:
+              - /url: /Changes/Cursor/2025-09-29-agent-can-take-screenshots-improve-ui-and-debug-client-issues-read-more-about-br
+          - listitem [ref=e1922]:
+            - link "Plan Mode" [ref=e1923] [cursor=pointer]:
+              - /url: /Changes/Cursor/2025-09-29-cursor-can-now-write-detailed-plans-before-starting-complex-tasks-this-allows-ag
+          - listitem [ref=e1924]:
+            - link "Hooks (beta)" [ref=e1925] [cursor=pointer]:
+              - /url: /Changes/Cursor/2025-09-29-hooks-beta
+          - listitem [ref=e1926]:
+            - link "Image file support for Agent" [ref=e1927] [cursor=pointer]:
+              - /url: /Changes/Cursor/2025-09-29-image-file-support-for-agent
+          - listitem [ref=e1928]:
+            - link "Monitor Agents from menubar" [ref=e1929] [cursor=pointer]:
+              - /url: /Changes/Cursor/2025-09-29-monitor-agents-from-menubar
+          - listitem [ref=e1930]:
+            - link "Background Agents have been renamed to Cloud Agents" [ref=e1931] [cursor=pointer]:
+              - /url: /Changes/Cursor/2025-10-29-background-agents-have-been-renamed-to-cloud-agents
+          - listitem [ref=e1932]:
+            - link "Browser (GA)" [ref=e1933] [cursor=pointer]:
+              - /url: /Changes/Cursor/2025-10-29-browser-ga-1124ce
+          - listitem [ref=e1934]:
+            - link "Cloud Agents" [ref=e1935] [cursor=pointer]:
+              - /url: /Changes/Cursor/2025-10-29-cloud-agents
+          - listitem [ref=e1936]:
+            - link "Improved Agent Harness" [ref=e1937] [cursor=pointer]:
+              - /url: /Changes/Cursor/2025-10-29-improved-agent-harness
+          - listitem [ref=e1938]:
+            - link "Multi-Agents" [ref=e1939] [cursor=pointer]:
+              - /url: /Changes/Cursor/2025-10-29-multi-agents-bb4f56
+          - listitem [ref=e1940]:
+            - link "2 Agent Mode changes in 2.1" [ref=e1941] [cursor=pointer]:
+              - /url: /Changes/Cursor/2025-11-21-2-agent-mode-changes-in-2-1
+          - listitem [ref=e1942]:
+            - link "Instant Grep (Beta)" [ref=e1943] [cursor=pointer]:
+              - /url: /Changes/Cursor/2025-11-21-instant-grep-beta
+          - listitem [ref=e1944]:
+            - link "Agent plans are now files that can be edited with normal tools" [ref=e1945] [cursor=pointer]:
+              - /url: /Changes/Cursor/2025-12-10-agent-plans-are-now-files-that-can-be-edited-with-normal-tools
+          - listitem [ref=e1946]:
+            - link "Multi-agent judging" [ref=e1947] [cursor=pointer]:
+              - /url: /Changes/Cursor/2025-12-10-multi-agent-judging
+          - listitem [ref=e1948]:
+            - link "Plan Mode improvements" [ref=e1949] [cursor=pointer]:
+              - /url: /Changes/Cursor/2025-12-10-plan-mode-now-supports-inline-mermaid-diagrams-allowing-the-agent-to-automatical
+          - listitem [ref=e1950]:
+            - link "Linux sandboxing for agents" [ref=e1951] [cursor=pointer]:
+              - /url: /Changes/Cursor/2025-12-18-linux-sandboxing-for-agents
+          - listitem [ref=e1952]:
+            - link "Service accounts" [ref=e1953] [cursor=pointer]:
+              - /url: /Changes/Cursor/2025-12-18-service-accounts
+          - listitem [ref=e1954]:
+            - link "Shared agent transcripts" [ref=e1955] [cursor=pointer]:
+              - /url: /Changes/Cursor/2025-12-18-shared-agent-transcripts-164030
+          - listitem [ref=e1956]:
+            - link "2 Agent Mode changes in 2.3" [ref=e1957] [cursor=pointer]:
+              - /url: /Changes/Cursor/2025-12-22-2-agent-mode-changes-in-2-3
+          - listitem [ref=e1958]:
+            - link "This includes the core agent, layout controls, viewing code diffs, and more" [ref=e1959] [cursor=pointer]:
+              - /url: /Changes/Cursor/2025-12-22-this-includes-the-core-agent-layout-controls-viewing-code-diffs-and-more-we-will
+          - listitem [ref=e1960]:
+            - link "New agent command is now the primary CLI entrypoint. cursor-agent remains…" [ref=e1961] [cursor=pointer]:
+              - /url: /Changes/Cursor/2026-01-08-new-agent-command-is-now-the-primary-cli-entrypoint-cursor-agent-remains-as-a-ba
+          - listitem [ref=e1962]:
+            - link "Added hooks for session start/end, prompt, and stop for customizing agent lifecycle events" [ref=e1963] [cursor=pointer]:
+              - /url: /Changes/Cursor/2026-01-16-added-hooks-for-session-start-end-prompt-and-stop-for-customizing-agent-lifecycl
+          - listitem [ref=e1964]:
+            - link "Handoff to Cloud Agents" [ref=e1965] [cursor=pointer]:
+              - /url: /Changes/Cursor/2026-01-16-push-your-local-conversation-to-a-cloud-agent-and-let-it-keep-running-while-you
+          - listitem [ref=e1966]:
+            - link "Plan mode in CLI" [ref=e1967] [cursor=pointer]:
+              - /url: /Changes/Cursor/2026-01-16-use-plan-mode-to-design-your-approach-before-coding-cursor-will-ask-clarifying-q
+          - listitem [ref=e1968]:
+            - link "4 Agent Mode changes in 2.4" [ref=e1969] [cursor=pointer]:
+              - /url: /Changes/Cursor/2026-01-22-4-agent-mode-changes-in-2-4
+          - listitem [ref=e1970]:
+            - link "Agents are solving increasingly complex, long-running tasks across your codebase" [ref=e1971] [cursor=pointer]:
+              - /url: /Changes/Cursor/2026-01-22-agents-are-solving-increasingly-complex-long-running-tasks-across-your-codebase
+          - listitem [ref=e1972]:
+            - link "Clarification questions from the agent" [ref=e1973] [cursor=pointer]:
+              - /url: /Changes/Cursor/2026-01-22-clarification-questions-from-the-agent
+          - listitem [ref=e1974]:
+            - link "Skills" [ref=e1975] [cursor=pointer]:
+              - /url: /Changes/Cursor/2026-01-22-skills
+          - listitem [ref=e1976]:
+            - link "Subagents" [ref=e1977] [cursor=pointer]:
+              - /url: /Changes/Cursor/2026-01-22-subagents
+          - listitem [ref=e1978]:
+            - link "Long-running Agents in Research Preview" [ref=e1979] [cursor=pointer]:
+              - /url: /Changes/Cursor/2026-02-12-cursor-can-now-work-autonomously-over-longer-horizons-to-complete-larger-more-co-48843c
+          - listitem [ref=e1980]:
+            - link "6 Agent Mode changes in 2.5" [ref=e1981] [cursor=pointer]:
+              - /url: /Changes/Cursor/2026-02-17-6-agent-mode-changes-in-2-5
+          - listitem [ref=e1982]:
+            - link "Async subagents" [ref=e1983] [cursor=pointer]:
+              - /url: /Changes/Cursor/2026-02-17-async-subagents
+          - listitem [ref=e1984]:
+            - link "Cursor introduces plugins for extending Cursor, improvements to core agent…" [ref=e1985] [cursor=pointer]:
+              - /url: /Changes/Cursor/2026-02-17-this-release-introduces-plugins-for-extending-cursor-improvements-to-core-agent
+          - listitem [ref=e1986]:
+            - link "2 Agent Mode changes in CLI Improvements and Mermaid ASCII…" [ref=e1987] [cursor=pointer]:
+              - /url: /Changes/Cursor/2026-02-18-2-agent-mode-changes-in-cli-improvements-and-mermaid-ascii
+          - listitem [ref=e1988]:
+            - link "Cloud Agents with Computer Use" [ref=e1989] [cursor=pointer]:
+              - /url: /Changes/Cursor/2026-02-24-cloud-agents-can-now-use-the-software-they-create-to-test-changes-and-demo-their-c922e9
+          - listitem [ref=e1990]:
+            - link "Autofix runs cloud agents on their own machines to test changes and propose fixes…" [ref=e1991] [cursor=pointer]:
+              - /url: /Changes/Cursor/2026-02-26-autofix-runs-cloud-agents-on-their-own-machines-to-test-changes-and-propose-fixe
+          - listitem [ref=e1992]:
+            - link "Improved reliability for longer-running agent sessions" [ref=e1993] [cursor=pointer]:
+              - /url: /Changes/Cursor/2026-03-03-improved-reliability-for-longer-running-agent-sessions
+          - listitem [ref=e1994]:
+            - link "Cursor is now available in IntelliJ IDEA, PyCharm, WebStorm, and other JetBrains…" [ref=e1995] [cursor=pointer]:
+              - /url: /Changes/Cursor/2026-03-04-cursor-is-now-available-in-intellij-idea-pycharm-webstorm-and-other-jetbrains-id-2dc9cd
+          - listitem [ref=e1996]:
+            - link "Self-hosted Cloud Agents" [ref=e1997] [cursor=pointer]:
+              - /url: /Changes/Cursor/2026-03-25-cursor-now-supports-self-hosted-cloud-agents-that-keep-your-code-and-tool-execut-e411f3
+          - listitem [ref=e1998]:
+            - link "4 Agent Mode changes in 3.0" [ref=e1999] [cursor=pointer]:
+              - /url: /Changes/Cursor/2026-04-02-4-agent-mode-changes-in-3-0
+          - listitem [ref=e2000]:
+            - link "Agents Window" [ref=e2001] [cursor=pointer]:
+              - /url: /Changes/Cursor/2026-04-02-agents-window-da5689
+          - listitem [ref=e2002]:
+            - link "Design Mode" [ref=e2003] [cursor=pointer]:
+              - /url: /Changes/Cursor/2026-04-02-design-mode
+          - listitem [ref=e2004]:
+            - link "3 Agent Mode changes in 3.1" [ref=e2005] [cursor=pointer]:
+              - /url: /Changes/Cursor/2026-04-13-3-agent-mode-changes-in-3-1
+          - listitem [ref=e2006]:
+            - link "Branch selection in empty state" [ref=e2007] [cursor=pointer]:
+              - /url: /Changes/Cursor/2026-04-13-branch-selection-in-empty-state
+          - listitem [ref=e2008]:
+            - link "Cursor introduces improvements to our Agents Window interface as part of Cursor 3" [ref=e2009] [cursor=pointer]:
+              - /url: /Changes/Cursor/2026-04-13-this-release-introduces-improvements-to-our-agents-window-interface-as-part-of-c
+          - listitem [ref=e2010]:
+            - link "Tiled layout" [ref=e2011] [cursor=pointer]:
+              - /url: /Changes/Cursor/2026-04-13-tiled-layout-2f03f6
+          - listitem [ref=e2012]:
+            - link "/btw support in CLI" [ref=e2013] [cursor=pointer]:
+              - /url: /Changes/Cursor/2026-04-14-ask-a-quick-side-question-without-derailing-the-agent-s-main-task-btw-allows-you
+          - listitem [ref=e2014]:
+            - link "Multi-root workspaces in Agents Window" [ref=e2015] [cursor=pointer]:
+              - /url: /Changes/Cursor/2026-04-24-multi-root-workspaces-in-agents-window
+          - listitem [ref=e2016]:
+            - link "Multitask in Agents Window" [ref=e2017] [cursor=pointer]:
+              - /url: /Changes/Cursor/2026-04-24-multitask-in-agents-window-9bc7ed
+          - listitem [ref=e2018]:
+            - link "Cursor introduces a new way to multitask with async subagents, an improved worktrees…" [ref=e2019] [cursor=pointer]:
+              - /url: /Changes/Cursor/2026-04-24-this-release-introduces-a-new-way-to-multitask-with-async-subagents-an-improved
+          - listitem [ref=e2020]:
+            - link "Worktrees in Agents Window" [ref=e2021] [cursor=pointer]:
+              - /url: /Changes/Cursor/2026-04-24-worktrees-in-agents-window-44e81c
+          - listitem [ref=e2022]:
+            - link "3 Agent Mode changes in Build programmatic agents…" [ref=e2023] [cursor=pointer]:
+              - /url: /Changes/Cursor/2026-04-29-3-agent-mode-changes-in-build-programmatic-agents
+          - listitem [ref=e2024]:
+            - link "Added the ability to control Explore subagent behavior from settings" [ref=e2025] [cursor=pointer]:
+              - /url: /Changes/Cursor/2026-05-07-added-the-ability-to-control-explore-subagent-behavior-from-settings-choose-a-sp
+          - listitem [ref=e2026]:
+            - link "Mention @Cursor in any Teams channel to delegate a task to a cloud agent or pull…" [ref=e2027] [cursor=pointer]:
+              - /url: /Changes/Cursor/2026-05-11-mention-cursor-in-any-teams-channel-to-delegate-a-task-to-a-cloud-agent-or-pull-d30c31
+          - listitem [ref=e2028]:
+            - link "Multi-repo environments" [ref=e2029] [cursor=pointer]:
+              - /url: /Changes/Cursor/2026-05-13-cloud-agents-and-automations-now-support-multi-repo-environments-building-off-ou
+          - listitem [ref=e2030]:
+            - link "Improved agent-led environment setup" [ref=e2031] [cursor=pointer]:
+              - /url: /Changes/Cursor/2026-05-13-improved-agent-led-environment-setup
+          - listitem [ref=e2032]:
+            - link "Cursor introduces quality-of-life improvements to the Agents Window" [ref=e2033] [cursor=pointer]:
+              - /url: /Changes/Cursor/2026-05-13-this-release-introduces-quality-of-life-improvements-to-the-agents-window
+          - listitem [ref=e2034]:
+            - link "To take engineering tasks from start to finish, agents need a development…" [ref=e2035] [cursor=pointer]:
+              - /url: /Changes/Cursor/2026-05-13-to-take-engineering-tasks-from-start-to-finish-agents-need-a-development-environ-e47512
+          - listitem [ref=e2036]:
+            - link "Composer 2.5 is now available in Cursor" [ref=e2037] [cursor=pointer]:
+              - /url: /Changes/Cursor/2026-05-18-composer-2-5-is-now-available-in-cursor
+          - listitem [ref=e2038]:
+            - link "Assign work items to Cursor, or mention @Cursor in a comment to kick off a cloud agent" [ref=e2039] [cursor=pointer]:
+              - /url: /Changes/Cursor/2026-05-19-assign-work-items-to-cursor-or-mention-cursor-in-a-comment-to-kick-off-a-cloud-a-1c05f0
+          - listitem [ref=e2040]:
+            - link "/loop skill" [ref=e2041] [cursor=pointer]:
+              - /url: /Changes/Cursor/2026-05-20-loop-skill
+          - listitem [ref=e2042]:
+            - link "Auto-review Run Mode" [ref=e2043] [cursor=pointer]:
+              - /url: /Changes/Cursor/2026-05-29-auto-review-is-a-new-run-mode-that-allows-cursor-to-work-for-longer-with-fewer-a-61df08
+          - listitem [ref=e2044]:
+            - link "5 Agent Mode changes in Custom stores, custom tools…" [ref=e2045] [cursor=pointer]:
+              - /url: /Changes/Cursor/2026-06-04-5-agent-mode-changes-in-custom-stores-custom-tools
+          - listitem [ref=e2046]:
+            - link "Added the ability for agents to embed buttons in canvases that will run a specific…" [ref=e2047] [cursor=pointer]:
+              - /url: /Changes/Cursor/2026-06-04-added-the-ability-for-agents-to-embed-buttons-in-canvases-that-will-run-a-specif
+          - listitem [ref=e2048]:
+            - link "Auto-review" [ref=e2049] [cursor=pointer]:
+              - /url: /Changes/Cursor/2026-06-04-auto-review
+          - listitem [ref=e2050]:
+            - link "JSONL and custom stores" [ref=e2051] [cursor=pointer]:
+              - /url: /Changes/Cursor/2026-06-04-jsonl-and-custom-stores
+          - listitem [ref=e2052]:
+            - link "Nested subagents" [ref=e2053] [cursor=pointer]:
+              - /url: /Changes/Cursor/2026-06-04-nested-subagents
+          - listitem [ref=e2054]:
+            - link "With canvases, agents can create interactive artifacts like dashboards, reports…" [ref=e2055] [cursor=pointer]:
+              - /url: /Changes/Cursor/2026-06-04-with-canvases-agents-can-create-interactive-artifacts-like-dashboards-reports-an
+          - listitem [ref=e2056]:
+            - link "Multi-select elements" [ref=e2057] [cursor=pointer]:
+              - /url: /Changes/Cursor/2026-06-05-ask-the-agent-to-make-one-match-the-other-remove-repeated-content-or-adjust-a-gr
+          - listitem [ref=e2058]:
+            - link "Cloud subagents with /in-cloud" [ref=e2059] [cursor=pointer]:
+              - /url: /Changes/Cursor/2026-06-17-cloud-subagents-with-in-cloud-eb7958
+          - listitem [ref=e2060]:
+            - link "Handoff between local and cloud" [ref=e2061] [cursor=pointer]:
+              - /url: /Changes/Cursor/2026-06-17-handoff-between-local-and-cloud
+          - listitem [ref=e2062]:
+            - link "Cursor introduces updates to cloud agents in the Agents Window of the Cursor desktop app" [ref=e2063] [cursor=pointer]:
+              - /url: /Changes/Cursor/2026-06-17-this-release-introduces-updates-to-cloud-agents-in-the-agents-window-of-the-curs
+          - listitem [ref=e2064]:
+            - link "Cloud agents on mobile" [ref=e2065] [cursor=pointer]:
+              - /url: /Changes/Cursor/2026-06-29-cloud-agents-on-mobile-1bc371
+          - listitem [ref=e2066]:
+            - link "Cursor for iOS is now available in public beta on all paid plans" [ref=e2067] [cursor=pointer]:
+              - /url: /Changes/Cursor/2026-06-29-cursor-for-ios-is-now-available-in-public-beta-on-all-paid-plans-launch-and-mana
+          - listitem [ref=e2068]:
+            - link "Live Activities and push notifications" [ref=e2069] [cursor=pointer]:
+              - /url: /Changes/Cursor/2026-06-29-live-activities-and-push-notifications
+          - listitem [ref=e2070]:
+            - link "Remote Control" [ref=e2071] [cursor=pointer]:
+              - /url: /Changes/Cursor/2026-06-29-remote-control-3ec330
+          - listitem [ref=e2072]:
+            - link "New cloud agent hooks" [ref=e2073] [cursor=pointer]:
+              - /url: /Changes/Cursor/2026-07-10-new-cloud-agent-hooks
+          - listitem [ref=e2074]:
+            - link "Cursor makes it easier to stay in flow with side chats that run alongside your main…" [ref=e2075] [cursor=pointer]:
+              - /url: /Changes/Cursor/2026-07-10-this-release-makes-it-easier-to-stay-in-flow-with-side-chats-that-run-alongside
+          - listitem [ref=e2076]:
+            - link "Auto mode is now powered by Cursor Router" [ref=e2077] [cursor=pointer]:
+              - /url: /Changes/Cursor/2026-07-22-auto-mode-is-now-powered-by-cursor-router
+          - listitem [ref=e2078]:
+            - link "Always-on cloud agents that build, test, and ship code while you keep working" [ref=e2079] [cursor=pointer]:
+              - /url: /Changes/Cursor/2026-07-28-always-on-cloud-agents-that-build-test-and-ship-code-while-you-keep-working-725c7c
+          - listitem [ref=e2080]:
+            - link "Inbox" [ref=e2081] [cursor=pointer]:
+              - /url: /Changes/Cursor/2026-07-29-inbox
+          - listitem [ref=e2082]:
+            - link "A full review surface" [ref=e2083] [cursor=pointer]:
+              - /url: /Changes/Cursor/2026-07-29-on-iphone-and-ipad-the-review-screen-now-covers-the-full-pr-comments-checks-and
+          - listitem [ref=e2084]:
+            - link "2 Agent Mode changes in 08.13.26" [ref=e2085] [cursor=pointer]:
+              - /url: /Changes/Cursor/2026-08-13-2-agent-mode-changes-in-08-13-26
+          - listitem [ref=e2086]:
+            - link "Agents do their best work when they start in a ready environment" [ref=e2087] [cursor=pointer]:
+              - /url: /Changes/Cursor/2026-08-13-agents-do-their-best-work-when-they-start-in-a-ready-environment-repos-cloned-de-6161c7
+          - listitem [ref=e2088]:
+            - link "More resilient agent runs" [ref=e2089] [cursor=pointer]:
+              - /url: /Changes/Cursor/2026-08-13-when-a-bad-commit-or-dependency-update-breaks-your-environment-agents-keep-using
+          - listitem [ref=e2090]:
+            - link "Agents in every repo" [ref=e2091] [cursor=pointer]:
+              - /url: /Changes/Cursor/2026-08-17-agents-in-every-repo
+          - listitem [ref=e2092]:
+            - link "Custom modes" [ref=e2093] [cursor=pointer]:
+              - /url: /Changes/Cursor/2026-08-19-custom-modes
+          - listitem [ref=e2094]:
+            - link "/goal" [ref=e2095] [cursor=pointer]:
+              - /url: /Changes/Cursor/2026-08-19-goal
+          - listitem [ref=e2096]:
+            - link "Steering improvements" [ref=e2097] [cursor=pointer]:
+              - /url: /Changes/Cursor/2026-08-19-steering-improvements
+          - listitem [ref=e2098]:
+            - link "Subagents on their own machines" [ref=e2099] [cursor=pointer]:
+              - /url: /Changes/Cursor/2026-08-19-subagents-on-their-own-machines
+          - listitem [ref=e2100]:
+            - link "Subscriptions" [ref=e2101] [cursor=pointer]:
+              - /url: /Changes/Cursor/2026-08-19-subscriptions
+          - listitem [ref=e2102]:
+            - link "We're continuing to improve cloud agents and the Cursor harness so always-on agents…" [ref=e2103] [cursor=pointer]:
+              - /url: /Changes/Cursor/2026-08-19-we-re-continuing-to-improve-cloud-agents-and-the-cursor-harness-so-always-on-age-1d1294
+          - listitem [ref=e2104]:
+            - link "Cloud Agents no longer require a connected GitHub or other third-party SCM provider…" [ref=e2105] [cursor=pointer]:
+              - /url: /Changes/Cursor/2026-08-27-cloud-agents-no-longer-require-a-connected-github-or-other-third-party-scm-provi
+          - listitem [ref=e2106]:
+            - link "A live preview, right in the browser" [ref=e2107] [cursor=pointer]:
+              - /url: /Changes/Cursor/2026-08-27-cursor-now-port-forwards-your-cloud-agent-s-live-environment-straight-to-your-br
+          - listitem [ref=e2108]:
+            - link "Computer use on Linux and Mac" [ref=e2109] [cursor=pointer]:
+              - /url: /Changes/Cursor/2026-09-02-computer-use-on-linux-and-mac
+          - listitem [ref=e2110]:
+            - link "Cursor supports self-hosted machines, which let you keep tool execution entirely…" [ref=e2111] [cursor=pointer]:
+              - /url: /Changes/Cursor/2026-09-02-cursor-supports-self-hosted-machines-which-let-you-keep-tool-execution-entirely
+          - listitem [ref=e2112]:
+            - link "Run on your sandboxes" [ref=e2113] [cursor=pointer]:
+              - /url: /Changes/Cursor/2026-09-02-run-on-your-sandboxes
+          - listitem [ref=e2114]:
+            - link "Powered by Cloud Agents" [ref=e2115] [cursor=pointer]:
+              - /url: /Changes/Cursor/2026-09-10-a-project-runs-on-its-own-computer-in-the-cloud-so-closing-your-laptop-doesn-t-s
+          - listitem [ref=e2116]:
+            - link "Subscriptions" [ref=e2117] [cursor=pointer]:
+              - /url: /Changes/Cursor/2026-09-10-subscriptions
+          - listitem [ref=e2118]:
+            - link "When Rollouts detects a regression, it names the change it suspects and notifies…" [ref=e2119] [cursor=pointer]:
+              - /url: /Changes/Cursor/2026-09-23-when-rollouts-detects-a-regression-it-names-the-change-it-suspects-and-notifies
+          - listitem [ref=e2120]:
+            - link "Agents keep running on your computer" [ref=e2121] [cursor=pointer]:
+              - /url: /Changes/Cursor/2026-10-06-remote-control-doesn-t-move-your-agents-anywhere-it-keeps-running-on-your-comput
+          - listitem [ref=e2122]:
+            - link "See and reply to the local agents running on your computer from the Cursor iOS app" [ref=e2123] [cursor=pointer]:
+              - /url: /Changes/Cursor/2026-10-06-you-can-now-see-and-reply-to-the-local-agents-running-on-your-computer-from-the
+          - listitem [ref=e2124]:
+            - link "Canvases from cloud agents" [ref=e2125] [cursor=pointer]:
+              - /url: /Changes/Cursor/2026-10-16-canvases-from-cloud-agents
+          - listitem [ref=e2126]:
+            - link "Environments API" [ref=e2127] [cursor=pointer]:
+              - /url: /Changes/Cursor/2026-10-16-environments-api
+          - listitem [ref=e2128]:
+            - link "Agents as code" [ref=e2129] [cursor=pointer]:
+              - /url: /Changes/Cursor/2026-10-20-agents-as-code
+          - listitem [ref=e2130]:
+            - link "Deploy agents wherever you need them" [ref=e2131] [cursor=pointer]:
+              - /url: /Changes/Cursor/2026-10-20-deploy-agents-wherever-you-need-them
+          - listitem [ref=e2132]:
+            - link "Evals" [ref=e2133] [cursor=pointer]:
+              - /url: /Changes/Cursor/2026-10-20-evals
+          - listitem [ref=e2134]:
+            - link "The Agent SDK is available today" [ref=e2135] [cursor=pointer]:
+              - /url: /Changes/Cursor/2026-10-20-the-agent-sdk-is-available-today-it-allows-you-to-define-an-agent-as-a-folder-of
+          - listitem [ref=e2136]:
+            - link "The Agent SDK is generally available today" [ref=e2137] [cursor=pointer]:
+              - /url: /Changes/Cursor/2026-10-20-the-agent-sdk-is-generally-available-today-read-the-docs-and-get-started
+          - listitem [ref=e2138]:
+            - link "3 Agent Mode changes in v0.1.13" [ref=e2139] [cursor=pointer]:
+              - /url: /Changes/Gemini-CLI/2025-07-19-3-agent-mode-changes-in-v0-1-13
+          - listitem [ref=e2140]:
+            - link "5 Agent Mode changes in v0.1.14" [ref=e2141] [cursor=pointer]:
+              - /url: /Changes/Gemini-CLI/2025-07-25-5-agent-mode-changes-in-v0-1-14
+          - listitem [ref=e2142]:
+            - link "6 Agent Mode changes in v0.1.15" [ref=e2143] [cursor=pointer]:
+              - /url: /Changes/Gemini-CLI/2025-07-30-6-agent-mode-changes-in-v0-1-15
+          - listitem [ref=e2144]:
+            - link "6 Agent Mode changes in v0.1.16" [ref=e2145] [cursor=pointer]:
+              - /url: /Changes/Gemini-CLI/2025-08-02-6-agent-mode-changes-in-v0-1-16
+          - listitem [ref=e2146]:
+            - link "6 Agent Mode changes in v0.1.17" [ref=e2147] [cursor=pointer]:
+              - /url: /Changes/Gemini-CLI/2025-08-05-6-agent-mode-changes-in-v0-1-17
+          - listitem [ref=e2148]:
+            - link "6 Agent Mode changes in v0.1.18" [ref=e2149] [cursor=pointer]:
+              - /url: /Changes/Gemini-CLI/2025-08-06-6-agent-mode-changes-in-v0-1-18
+          - listitem [ref=e2150]:
+            - 'link "feat(agent): Introduce Foundational Subagent Architecture" [ref=e2151] [cursor=pointer]':
+              - /url: /Changes/Gemini-CLI/2025-08-12-feat-agent-introduce-foundational-subagent-architecture-by-abhipatel12-in-https
+          - listitem [ref=e2152]:
+            - link "7 Agent Mode changes in v0.1.21" [ref=e2153] [cursor=pointer]:
+              - /url: /Changes/Gemini-CLI/2025-08-14-7-agent-mode-changes-in-v0-1-21
+          - listitem [ref=e2154]:
+            - 'link "feat(subagent): Enable incremental output streaming" [ref=e2155] [cursor=pointer]':
+              - /url: /Changes/Gemini-CLI/2025-09-04-feat-subagent-enable-incremental-output-streaming-by-allenhutchison-in-https-git
+          - listitem [ref=e2156]:
+            - 'link "feat(core): Only summarize long tool output for shell command" [ref=e2157] [cursor=pointer]':
+              - /url: /Changes/Gemini-CLI/2025-09-17-feat-core-only-summarize-long-tool-output-for-shell-command-by-sandytao520-in-ht
+          - listitem [ref=e2158]:
+            - link "2 Agent Mode changes in v0.8.0" [ref=e2159] [cursor=pointer]:
+              - /url: /Changes/Gemini-CLI/2025-10-07-2-agent-mode-changes-in-v0-8-0
+          - listitem [ref=e2160]:
+            - link "3 Agent Mode changes in v0.9.0" [ref=e2161] [cursor=pointer]:
+              - /url: /Changes/Gemini-CLI/2025-10-15-3-agent-mode-changes-in-v0-9-0
+          - listitem [ref=e2162]:
+            - 'link "feat(core): add telemetry for subagent execution" [ref=e2163] [cursor=pointer]':
+              - /url: /Changes/Gemini-CLI/2025-10-22-feat-core-add-telemetry-for-subagent-execution-by-abhipatel12-in-https-github-co
+          - listitem [ref=e2164]:
+            - 'link "chore(subagents): Remove legacy subagent code" [ref=e2165] [cursor=pointer]':
+              - /url: /Changes/Gemini-CLI/2025-10-29-chore-subagents-remove-legacy-subagent-code-by-abhipatel12-in-https-github-com-g
+          - listitem [ref=e2166]:
+            - link "Add regression tests for shell command parsing" [ref=e2167] [cursor=pointer]:
+              - /url: /Changes/Gemini-CLI/2025-11-04-add-regression-tests-for-shell-command-parsing-by-cornmander-in-https-github-com
+          - listitem [ref=e2168]:
+            - link "3 Agent Mode changes in v0.13.0" [ref=e2169] [cursor=pointer]:
+              - /url: /Changes/Gemini-CLI/2025-11-07-3-agent-mode-changes-in-v0-13-0
+          - listitem [ref=e2170]:
+            - link "2 Agent Mode changes in v0.14.0" [ref=e2171] [cursor=pointer]:
+              - /url: /Changes/Gemini-CLI/2025-11-12-2-agent-mode-changes-in-v0-14-0
+          - listitem [ref=e2172]:
+            - 'link "feat(a2a): Urgent fix - Process modelInfo agent message" [ref=e2173] [cursor=pointer]':
+              - /url: /Changes/Gemini-CLI/2025-12-09-feat-a2a-urgent-fix-process-modelinfo-agent-message-by-cocosheng-g-in-https-gith
+          - listitem [ref=e2174]:
+            - link "Send the model and CLI version with the user agent" [ref=e2175] [cursor=pointer]:
+              - /url: /Changes/Gemini-CLI/2025-12-22-send-the-model-and-cli-version-with-the-user-agent-by-gundermanc-in-https-github
+          - listitem [ref=e2176]:
+            - link "3 Agent Mode changes in v0.23.0" [ref=e2177] [cursor=pointer]:
+              - /url: /Changes/Gemini-CLI/2026-01-07-3-agent-mode-changes-in-v0-23-0
+          - listitem [ref=e2178]:
+            - link "10 Agent Mode changes in v0.24.0" [ref=e2179] [cursor=pointer]:
+              - /url: /Changes/Gemini-CLI/2026-01-14-10-agent-mode-changes-in-v0-24-0
+          - listitem [ref=e2180]:
+            - link "13 Agent Mode changes in v0.25.0" [ref=e2181] [cursor=pointer]:
+              - /url: /Changes/Gemini-CLI/2026-01-21-13-agent-mode-changes-in-v0-25-0
+          - listitem [ref=e2182]:
+            - link "8 Agent Mode changes in v0.26.0" [ref=e2183] [cursor=pointer]:
+              - /url: /Changes/Gemini-CLI/2026-01-28-8-agent-mode-changes-in-v0-26-0
+          - listitem [ref=e2184]:
+            - link "15 Agent Mode changes in v0.27.0" [ref=e2185] [cursor=pointer]:
+              - /url: /Changes/Gemini-CLI/2026-02-04-15-agent-mode-changes-in-v0-27-0
+          - listitem [ref=e2186]:
+            - link "4 Agent Mode changes in v0.28.0" [ref=e2187] [cursor=pointer]:
+              - /url: /Changes/Gemini-CLI/2026-02-10-4-agent-mode-changes-in-v0-28-0
+          - listitem [ref=e2188]:
+            - link "8 Agent Mode changes in v0.29.0" [ref=e2189] [cursor=pointer]:
+              - /url: /Changes/Gemini-CLI/2026-02-18-8-agent-mode-changes-in-v0-29-0
+          - listitem [ref=e2190]:
+            - link "4 Agent Mode changes in v0.30.0" [ref=e2191] [cursor=pointer]:
+              - /url: /Changes/Gemini-CLI/2026-02-25-4-agent-mode-changes-in-v0-30-0
+          - listitem [ref=e2192]:
+            - 'link "feat(browser): implement experimental browser agent" [ref=e2193] [cursor=pointer]':
+              - /url: /Changes/Gemini-CLI/2026-02-27-feat-browser-implement-experimental-browser-agent-by-gsquared94-in-https-github
+          - listitem [ref=e2194]:
+            - link "3 Agent Mode changes in v0.32.0" [ref=e2195] [cursor=pointer]:
+              - /url: /Changes/Gemini-CLI/2026-03-03-3-agent-mode-changes-in-v0-32-0
+          - listitem [ref=e2196]:
+            - link "6 Agent Mode changes in v0.33.0" [ref=e2197] [cursor=pointer]:
+              - /url: /Changes/Gemini-CLI/2026-03-11-6-agent-mode-changes-in-v0-33-0
+          - listitem [ref=e2198]:
+            - link "7 Agent Mode changes in v0.34.0" [ref=e2199] [cursor=pointer]:
+              - /url: /Changes/Gemini-CLI/2026-03-17-7-agent-mode-changes-in-v0-34-0
+          - listitem [ref=e2200]:
+            - link "10 Agent Mode changes in v0.35.0" [ref=e2201] [cursor=pointer]:
+              - /url: /Changes/Gemini-CLI/2026-03-24-10-agent-mode-changes-in-v0-35-0
+          - listitem [ref=e2202]:
+            - link "10 Agent Mode changes in v0.36.0" [ref=e2203] [cursor=pointer]:
+              - /url: /Changes/Gemini-CLI/2026-04-01-10-agent-mode-changes-in-v0-36-0
+          - listitem [ref=e2204]:
+            - link "11 Agent Mode changes in v0.37.0" [ref=e2205] [cursor=pointer]:
+              - /url: /Changes/Gemini-CLI/2026-04-08-11-agent-mode-changes-in-v0-37-0
+          - listitem [ref=e2206]:
+            - link "6 Agent Mode changes in v0.38.0" [ref=e2207] [cursor=pointer]:
+              - /url: /Changes/Gemini-CLI/2026-04-14-6-agent-mode-changes-in-v0-38-0
+          - listitem [ref=e2208]:
+            - link "6 Agent Mode changes in v0.39.0" [ref=e2209] [cursor=pointer]:
+              - /url: /Changes/Gemini-CLI/2026-04-23-6-agent-mode-changes-in-v0-39-0
+          - listitem [ref=e2210]:
+            - link "3 Agent Mode changes in v0.40.0" [ref=e2211] [cursor=pointer]:
+              - /url: /Changes/Gemini-CLI/2026-04-28-3-agent-mode-changes-in-v0-40-0
+          - listitem [ref=e2212]:
+            - 'link "feat(core): enhance shell command validation and add core tools allowlist" [ref=e2213] [cursor=pointer]':
+              - /url: /Changes/Gemini-CLI/2026-05-05-feat-core-enhance-shell-command-validation-and-add-core-tools-allowlist-by-galz1
+          - listitem [ref=e2214]:
+            - link "2 Agent Mode changes in v0.42.0" [ref=e2215] [cursor=pointer]:
+              - /url: /Changes/Gemini-CLI/2026-05-12-2-agent-mode-changes-in-v0-42-0
+          - listitem [ref=e2216]:
+            - link "2 Agent Mode changes in v0.43.0" [ref=e2217] [cursor=pointer]:
+              - /url: /Changes/Gemini-CLI/2026-05-22-2-agent-mode-changes-in-v0-43-0
+          - listitem [ref=e2218]:
+            - link "4 Agent Mode changes in v0.44.0" [ref=e2219] [cursor=pointer]:
+              - /url: /Changes/Gemini-CLI/2026-05-27-4-agent-mode-changes-in-v0-44-0
+          - listitem [ref=e2220]:
+            - link "2 Agent Mode changes in v0.47.0" [ref=e2221] [cursor=pointer]:
+              - /url: /Changes/Gemini-CLI/2026-06-18-2-agent-mode-changes-in-v0-47-0
+          - listitem [ref=e2222]:
+            - 'link "feat(pr-generator-agent): implement Antigravity agent runner and prompt templates …" [ref=e2223] [cursor=pointer]':
+              - /url: /Changes/Gemini-CLI/2026-08-06-feat-pr-generator-agent-implement-antigravity-agent-runner-and-prompt-templates
+          - listitem [ref=e2224]:
+            - link "2 Agent Mode changes in v0.55.1" [ref=e2225] [cursor=pointer]:
+              - /url: /Changes/Gemini-CLI/2026-08-11-2-agent-mode-changes-in-v0-55-1
+          - listitem [ref=e2226]:
+            - link "8 Agent Mode changes in v0.57.0" [ref=e2227] [cursor=pointer]:
+              - /url: /Changes/Gemini-CLI/2026-08-25-8-agent-mode-changes-in-v0-57-0
+          - listitem [ref=e2228]:
+            - link "Improved the experience of writing prompts while the agent is running -- up/down…" [ref=e2229] [cursor=pointer]:
+              - /url: /Changes/GitHub-Copilot-CLI/2025-10-01-improved-the-experience-of-writing-prompts-while-the-agent-is-running-up-down-ar
+          - listitem [ref=e2230]:
+            - link "2 Agent Mode changes in v0.0.353" [ref=e2231] [cursor=pointer]:
+              - /url: /Changes/GitHub-Copilot-CLI/2025-10-28-2-agent-mode-changes-in-v0-0-353
+          - listitem [ref=e2232]:
+            - link "Custom agents with special characters in filenames no longer fail" [ref=e2233] [cursor=pointer]:
+              - /url: /Changes/GitHub-Copilot-CLI/2025-11-03-custom-agents-with-special-characters-in-filenames-no-longer-fail
+          - listitem [ref=e2234]:
+            - link "3 Agent Mode changes in v0.0.355" [ref=e2235] [cursor=pointer]:
+              - /url: /Changes/GitHub-Copilot-CLI/2025-11-12-3-agent-mode-changes-in-v0-0-355
+          - listitem [ref=e2236]:
+            - link "Add infer property to control custom agent tool visibility" [ref=e2237] [cursor=pointer]:
+              - /url: /Changes/GitHub-Copilot-CLI/2025-12-03-add-infer-property-to-control-custom-agent-tool-visibility
+          - listitem [ref=e2238]:
+            - link "Built-in subagents for exploring and managing tasks" [ref=e2239] [cursor=pointer]:
+              - /url: /Changes/GitHub-Copilot-CLI/2026-01-02-built-in-subagents-for-exploring-and-managing-tasks
+          - listitem [ref=e2240]:
+            - link "Task tool subagents can now process images" [ref=e2241] [cursor=pointer]:
+              - /url: /Changes/GitHub-Copilot-CLI/2026-01-08-task-tool-subagents-can-now-process-images
+          - listitem [ref=e2242]:
+            - link "3 Agent Mode changes in v0.0.380" [ref=e2243] [cursor=pointer]:
+              - /url: /Changes/GitHub-Copilot-CLI/2026-01-13-3-agent-mode-changes-in-v0-0-380
+          - listitem [ref=e2244]:
+            - link "2 Agent Mode changes in v0.0.384" [ref=e2245] [cursor=pointer]:
+              - /url: /Changes/GitHub-Copilot-CLI/2026-01-16-2-agent-mode-changes-in-v0-0-384
+          - listitem [ref=e2246]:
+            - link "MCP server management when swapping between custom agents with /agent" [ref=e2247] [cursor=pointer]:
+              - /url: /Changes/GitHub-Copilot-CLI/2026-01-19-mcp-server-management-when-swapping-between-custom-agents-with-agent
+          - listitem [ref=e2248]:
+            - link "2 Agent Mode changes in v0.0.389" [ref=e2249] [cursor=pointer]:
+              - /url: /Changes/GitHub-Copilot-CLI/2026-01-22-2-agent-mode-changes-in-v0-0-389
+          - listitem [ref=e2250]:
+            - link "Add support for GHE Cloud (\\.ghe.com) remote custom agents" [ref=e2251] [cursor=pointer]:
+              - /url: /Changes/GitHub-Copilot-CLI/2026-01-23-add-support-for-ghe-cloud-ghe-com-remote-custom-agents
+          - listitem [ref=e2252]:
+            - link "Load local shell configuration in agent sessions" [ref=e2253] [cursor=pointer]:
+              - /url: /Changes/GitHub-Copilot-CLI/2026-01-26-load-local-shell-configuration-in-agent-sessions
+          - listitem [ref=e2254]:
+            - link "3 Agent Mode changes in v0.0.396" [ref=e2255] [cursor=pointer]:
+              - /url: /Changes/GitHub-Copilot-CLI/2026-01-27-3-agent-mode-changes-in-v0-0-396
+          - listitem [ref=e2256]:
+            - link "Add --acp flag to start as Agent Client Protocol server" [ref=e2257] [cursor=pointer]:
+              - /url: /Changes/GitHub-Copilot-CLI/2026-01-28-add-acp-flag-to-start-as-agent-client-protocol-server
+          - listitem [ref=e2258]:
+            - link "2 Agent Mode changes in v0.0.399" [ref=e2259] [cursor=pointer]:
+              - /url: /Changes/GitHub-Copilot-CLI/2026-01-29-2-agent-mode-changes-in-v0-0-399
+          - listitem [ref=e2260]:
+            - link "4 Agent Mode changes in v0.0.402" [ref=e2261] [cursor=pointer]:
+              - /url: /Changes/GitHub-Copilot-CLI/2026-02-03-4-agent-mode-changes-in-v0-0-402
+          - listitem [ref=e2262]:
+            - link "Support .agents/skills directory for auto-loading skills" [ref=e2263] [cursor=pointer]:
+              - /url: /Changes/GitHub-Copilot-CLI/2026-02-03-support-agents-skills-directory-for-auto-loading-skills
+          - listitem [ref=e2264]:
+            - link "2 Agent Mode changes in v0.0.404" [ref=e2265] [cursor=pointer]:
+              - /url: /Changes/GitHub-Copilot-CLI/2026-02-05-2-agent-mode-changes-in-v0-0-404
+          - listitem [ref=e2266]:
+            - link "Support comma-separated tools in custom agent frontmatter" [ref=e2267] [cursor=pointer]:
+              - /url: /Changes/GitHub-Copilot-CLI/2026-02-05-support-comma-separated-tools-in-custom-agent-frontmatter
+          - listitem [ref=e2268]:
+            - link "3 Agent Mode changes in v0.0.407" [ref=e2269] [cursor=pointer]:
+              - /url: /Changes/GitHub-Copilot-CLI/2026-02-11-3-agent-mode-changes-in-v0-0-407
+          - listitem [ref=e2270]:
+            - link "Subagents return complete responses" [ref=e2271] [cursor=pointer]:
+              - /url: /Changes/GitHub-Copilot-CLI/2026-02-12-subagents-return-complete-responses
+          - listitem [ref=e2272]:
+            - link "3 Agent Mode changes in v0.0.412" [ref=e2273] [cursor=pointer]:
+              - /url: /Changes/GitHub-Copilot-CLI/2026-02-19-3-agent-mode-changes-in-v0-0-412
+          - listitem [ref=e2274]:
+            - link "2 Agent Mode changes in v0.0.415" [ref=e2275] [cursor=pointer]:
+              - /url: /Changes/GitHub-Copilot-CLI/2026-02-23-2-agent-mode-changes-in-v0-0-415
+          - listitem [ref=e2276]:
+            - link "Agent protected from accidentally killing itself" [ref=e2277] [cursor=pointer]:
+              - /url: /Changes/GitHub-Copilot-CLI/2026-02-25-agent-protected-from-accidentally-killing-itself
+          - listitem [ref=e2278]:
+            - link "CLI spinner stops and final agent response is visible after agent finishes work" [ref=e2279] [cursor=pointer]:
+              - /url: /Changes/GitHub-Copilot-CLI/2026-02-27-cli-spinner-stops-and-final-agent-response-is-visible-after-agent-finishes-work
+          - listitem [ref=e2280]:
+            - link "Shell command output on Windows no longer renders as \"No changes detected\" in the timeline" [ref=e2281] [cursor=pointer]:
+              - /url: /Changes/GitHub-Copilot-CLI/2026-03-03-shell-command-output-on-windows-no-longer-renders-as-no-changes-detected-in-the
+          - listitem [ref=e2282]:
+            - link "Automatic notifications when background shell commands and agents complete" [ref=e2283] [cursor=pointer]:
+              - /url: /Changes/GitHub-Copilot-CLI/2026-03-05-automatic-notifications-when-background-shell-commands-and-agents-complete
+          - listitem [ref=e2284]:
+            - link "2 Agent Mode changes in v1.0.4" [ref=e2285] [cursor=pointer]:
+              - /url: /Changes/GitHub-Copilot-CLI/2026-03-11-2-agent-mode-changes-in-v1-0-4
+          - listitem [ref=e2286]:
+            - link "Send follow-up messages to background agents with the write_agent tool…" [ref=e2287] [cursor=pointer]:
+              - /url: /Changes/GitHub-Copilot-CLI/2026-03-13-send-follow-up-messages-to-background-agents-with-the-write-agent-tool-for-multi
+          - listitem [ref=e2288]:
+            - link "5 Agent Mode changes in v1.0.6" [ref=e2289] [cursor=pointer]:
+              - /url: /Changes/GitHub-Copilot-CLI/2026-03-16-5-agent-mode-changes-in-v1-0-6
+          - listitem [ref=e2290]:
+            - link "2 Agent Mode changes in v1.0.8" [ref=e2291] [cursor=pointer]:
+              - /url: /Changes/GitHub-Copilot-CLI/2026-03-18-2-agent-mode-changes-in-v1-0-8
+          - listitem [ref=e2292]:
+            - link "2 Agent Mode changes in v1.0.11" [ref=e2293] [cursor=pointer]:
+              - /url: /Changes/GitHub-Copilot-CLI/2026-03-23-2-agent-mode-changes-in-v1-0-11
+          - listitem [ref=e2294]:
+            - link "Resume session restores the previously selected custom agent" [ref=e2295] [cursor=pointer]:
+              - /url: /Changes/GitHub-Copilot-CLI/2026-03-26-resume-session-restores-the-previously-selected-custom-agent
+          - listitem [ref=e2296]:
+            - link "Built-in skills are now included with the CLI, starting with a guide for customizing…" [ref=e2297] [cursor=pointer]:
+              - /url: /Changes/GitHub-Copilot-CLI/2026-04-03-built-in-skills-are-now-included-with-the-cli-starting-with-a-guide-for-customiz
+          - listitem [ref=e2298]:
+            - link "2 Agent Mode changes in v1.0.19" [ref=e2299] [cursor=pointer]:
+              - /url: /Changes/GitHub-Copilot-CLI/2026-04-06-2-agent-mode-changes-in-v1-0-19
+          - listitem [ref=e2300]:
+            - link "Spinner no longer appears stuck when a long-running async shell command is active" [ref=e2301] [cursor=pointer]:
+              - /url: /Changes/GitHub-Copilot-CLI/2026-04-07-spinner-no-longer-appears-stuck-when-a-long-running-async-shell-command-is-activ
+          - listitem [ref=e2302]:
+            - link "Spinner stays active until background agents and shell commands finish, and user…" [ref=e2303] [cursor=pointer]:
+              - /url: /Changes/GitHub-Copilot-CLI/2026-04-07-spinner-stays-active-until-background-agents-and-shell-commands-finish-and-user
+          - listitem [ref=e2304]:
+            - link "3 Agent Mode changes in v1.0.22" [ref=e2305] [cursor=pointer]:
+              - /url: /Changes/GitHub-Copilot-CLI/2026-04-09-3-agent-mode-changes-in-v1-0-22
+          - listitem [ref=e2306]:
+            - link "Add --mode, --autopilot, and --plan flags to start the CLI directly in a specific…" [ref=e2307] [cursor=pointer]:
+              - /url: /Changes/GitHub-Copilot-CLI/2026-04-10-add-mode-autopilot-and-plan-flags-to-start-the-cli-directly-in-a-specific-agent
+          - listitem [ref=e2308]:
+            - link "Agent correctly identifies repository owner from git remote URL rather than local username" [ref=e2309] [cursor=pointer]:
+              - /url: /Changes/GitHub-Copilot-CLI/2026-04-16-agent-correctly-identifies-repository-owner-from-git-remote-url-rather-than-loca
+          - listitem [ref=e2310]:
+            - link "Background agent completion notifications are not sent redundantly when read_agent…" [ref=e2311] [cursor=pointer]:
+              - /url: /Changes/GitHub-Copilot-CLI/2026-04-16-background-agent-completion-notifications-are-not-sent-redundantly-when-read-age
+          - listitem [ref=e2312]:
+            - link "Attach supported document files to prompts for the agent to read and reason about" [ref=e2313] [cursor=pointer]:
+              - /url: /Changes/GitHub-Copilot-CLI/2026-04-17-attach-supported-document-files-to-prompts-for-the-agent-to-read-and-reason-abou
+          - listitem [ref=e2314]:
+            - link "2 Agent Mode changes in v1.0.33" [ref=e2315] [cursor=pointer]:
+              - /url: /Changes/GitHub-Copilot-CLI/2026-04-20-2-agent-mode-changes-in-v1-0-33
+          - listitem [ref=e2316]:
+            - link "7 Agent Mode changes in v1.0.35" [ref=e2317] [cursor=pointer]:
+              - /url: /Changes/GitHub-Copilot-CLI/2026-04-23-7-agent-mode-changes-in-v1-0-35
+          - listitem [ref=e2318]:
+            - link "Custom agents, skills, and commands from ~/.claude/ are no longer loaded…" [ref=e2319] [cursor=pointer]:
+              - /url: /Changes/GitHub-Copilot-CLI/2026-04-24-custom-agents-skills-and-commands-from-claude-are-no-longer-loaded-by-the-copilo
+          - listitem [ref=e2320]:
+            - link "Press ctrl+x → b to move the current running task or shell command to the background" [ref=e2321] [cursor=pointer]:
+              - /url: /Changes/GitHub-Copilot-CLI/2026-04-28-press-ctrl-x-b-to-move-the-current-running-task-or-shell-command-to-the-backgrou
+          - listitem [ref=e2322]:
+            - link "3 Agent Mode changes in v1.0.40" [ref=e2323] [cursor=pointer]:
+              - /url: /Changes/GitHub-Copilot-CLI/2026-05-01-3-agent-mode-changes-in-v1-0-40
+          - listitem [ref=e2324]:
+            - link "Add experimental MCP Tasks support" [ref=e2325] [cursor=pointer]:
+              - /url: /Changes/GitHub-Copilot-CLI/2026-05-05-add-experimental-mcp-tasks-support-mcp-tools-with-tasksupport-required-run-as-no
+          - listitem [ref=e2326]:
+            - link "Add rubber-duck agent for GPT sessions, powered by Claude (available in /experimental)" [ref=e2327] [cursor=pointer]:
+              - /url: /Changes/GitHub-Copilot-CLI/2026-05-06-add-rubber-duck-agent-for-gpt-sessions-powered-by-claude-available-in-experiment
+          - listitem [ref=e2328]:
+            - link "agentStop hook now fires correctly when the agent stops via task_complete" [ref=e2329] [cursor=pointer]:
+              - /url: /Changes/GitHub-Copilot-CLI/2026-05-11-agentstop-hook-now-fires-correctly-when-the-agent-stops-via-task-complete
+          - listitem [ref=e2330]:
+            - link "--resume supports Copilot cloud agent sessions where the agent hasn't pushed any…" [ref=e2331] [cursor=pointer]:
+              - /url: /Changes/GitHub-Copilot-CLI/2026-05-13-resume-supports-copilot-cloud-agent-sessions-where-the-agent-hasn-t-pushed-any-c
+          - listitem [ref=e2332]:
+            - link "4 Agent Mode changes in v1.0.49" [ref=e2333] [cursor=pointer]:
+              - /url: /Changes/GitHub-Copilot-CLI/2026-05-19-4-agent-mode-changes-in-v1-0-49
+          - listitem [ref=e2334]:
+            - link "/remote command can now be used while the agent is working" [ref=e2335] [cursor=pointer]:
+              - /url: /Changes/GitHub-Copilot-CLI/2026-05-20-remote-command-can-now-be-used-while-the-agent-is-working
+          - listitem [ref=e2336]:
+            - link "Custom agents support opt-in deferred tool loading via deferred-tool-loading…" [ref=e2337] [cursor=pointer]:
+              - /url: /Changes/GitHub-Copilot-CLI/2026-05-23-custom-agents-support-opt-in-deferred-tool-loading-via-deferred-tool-loading-in
+          - listitem [ref=e2338]:
+            - link "3 Agent Mode changes in v1.0.55" [ref=e2339] [cursor=pointer]:
+              - /url: /Changes/GitHub-Copilot-CLI/2026-05-28-3-agent-mode-changes-in-v1-0-55
+          - listitem [ref=e2340]:
+            - link "Add builtInAgents.rubberDuck setting to enable or disable the rubber duck agent…" [ref=e2341] [cursor=pointer]:
+              - /url: /Changes/GitHub-Copilot-CLI/2026-05-29-add-builtinagents-rubberduck-setting-to-enable-or-disable-the-rubber-duck-agent
+          - listitem [ref=e2342]:
+            - link "Canceling a running shell command (Ctrl+C on a !command, or aborting an agent command" [ref=e2343] [cursor=pointer]:
+              - /url: /Changes/GitHub-Copilot-CLI/2026-06-01-canceling-a-running-shell-command-ctrl-c-on-a-command-or-aborting-an-agent-comma
+          - listitem [ref=e2344]:
+            - link "2 Agent Mode changes in v1.0.60" [ref=e2345] [cursor=pointer]:
+              - /url: /Changes/GitHub-Copilot-CLI/2026-06-05-2-agent-mode-changes-in-v1-0-60
+          - listitem [ref=e2346]:
+            - link "3 Agent Mode changes in v1.0.61" [ref=e2347] [cursor=pointer]:
+              - /url: /Changes/GitHub-Copilot-CLI/2026-06-09-3-agent-mode-changes-in-v1-0-61
+          - listitem [ref=e2348]:
+            - link "4 Agent Mode changes in v1.0.62" [ref=e2349] [cursor=pointer]:
+              - /url: /Changes/GitHub-Copilot-CLI/2026-06-13-4-agent-mode-changes-in-v1-0-62
+          - listitem [ref=e2350]:
+            - link "Agent mode is tracked per session, so it no longer carries over when you create…" [ref=e2351] [cursor=pointer]:
+              - /url: /Changes/GitHub-Copilot-CLI/2026-06-16-agent-mode-is-tracked-per-session-so-it-no-longer-carries-over-when-you-create-c
+          - listitem [ref=e2352]:
+            - link "6 Agent Mode changes in v1.0.64" [ref=e2353] [cursor=pointer]:
+              - /url: /Changes/GitHub-Copilot-CLI/2026-06-23-6-agent-mode-changes-in-v1-0-64
+          - listitem [ref=e2354]:
+            - link "4 Agent Mode changes in v1.0.65" [ref=e2355] [cursor=pointer]:
+              - /url: /Changes/GitHub-Copilot-CLI/2026-06-24-4-agent-mode-changes-in-v1-0-65
+          - listitem [ref=e2356]:
+            - link "2 Agent Mode changes in v1.0.67" [ref=e2357] [cursor=pointer]:
+              - /url: /Changes/GitHub-Copilot-CLI/2026-06-30-2-agent-mode-changes-in-v1-0-67
+          - listitem [ref=e2358]:
+            - link "8 Agent Mode changes in v1.0.66" [ref=e2359] [cursor=pointer]:
+              - /url: /Changes/GitHub-Copilot-CLI/2026-06-30-8-agent-mode-changes-in-v1-0-66
+          - listitem [ref=e2360]:
+            - link "3 Agent Mode changes in v1.0.68" [ref=e2361] [cursor=pointer]:
+              - /url: /Changes/GitHub-Copilot-CLI/2026-07-01-3-agent-mode-changes-in-v1-0-68
+          - listitem [ref=e2362]:
+            - link "Double-press Esc now interrupts the running main turn (flushing queued messages)…" [ref=e2363] [cursor=pointer]:
+              - /url: /Changes/GitHub-Copilot-CLI/2026-07-07-double-press-esc-now-interrupts-the-running-main-turn-flushing-queued-messages-o
+          - listitem [ref=e2364]:
+            - link "3 Agent Mode changes in v1.0.70" [ref=e2365] [cursor=pointer]:
+              - /url: /Changes/GitHub-Copilot-CLI/2026-07-10-3-agent-mode-changes-in-v1-0-70
+          - listitem [ref=e2366]:
+            - link "8 Agent Mode changes in v1.0.71" [ref=e2367] [cursor=pointer]:
+              - /url: /Changes/GitHub-Copilot-CLI/2026-07-16-8-agent-mode-changes-in-v1-0-71
+          - listitem [ref=e2368]:
+            - link "3 Agent Mode changes in v1.0.72" [ref=e2369] [cursor=pointer]:
+              - /url: /Changes/GitHub-Copilot-CLI/2026-07-20-3-agent-mode-changes-in-v1-0-72
+          - listitem [ref=e2370]:
+            - link "2 Agent Mode changes in v1.0.73" [ref=e2371] [cursor=pointer]:
+              - /url: /Changes/GitHub-Copilot-CLI/2026-07-21-2-agent-mode-changes-in-v1-0-73
+          - listitem [ref=e2372]:
+            - link "3 Agent Mode changes in v1.0.74" [ref=e2373] [cursor=pointer]:
+              - /url: /Changes/GitHub-Copilot-CLI/2026-07-23-3-agent-mode-changes-in-v1-0-74
+          - listitem [ref=e2374]:
+            - link "2 Agent Mode changes in v1.0.76" [ref=e2375] [cursor=pointer]:
+              - /url: /Changes/GitHub-Copilot-CLI/2026-07-30-2-agent-mode-changes-in-v1-0-76
+          - listitem [ref=e2376]:
+            - link "A run whose prompt is piped over stdin now treats its sessionEnd hook the same way…" [ref=e2377] [cursor=pointer]:
+              - /url: /Changes/GitHub-Copilot-CLI/2026-08-03-a-run-whose-prompt-is-piped-over-stdin-now-treats-its-sessionend-hook-the-same-w
+          - listitem [ref=e2378]:
+            - link "8 Agent Mode changes in v1.0.81" [ref=e2379] [cursor=pointer]:
+              - /url: /Changes/GitHub-Copilot-CLI/2026-08-27-8-agent-mode-changes-in-v1-0-81
+          - listitem [ref=e2380]:
+            - link "Stopping a timed-out shell command now lets queued messages run and sessions return…" [ref=e2381] [cursor=pointer]:
+              - /url: /Changes/GitHub-Copilot-CLI/2026-09-04-stopping-a-timed-out-shell-command-now-lets-queued-messages-run-and-sessions-ret
+          - listitem [ref=e2382]:
+            - link "2 Agent Mode changes in v1.0.85" [ref=e2383] [cursor=pointer]:
+              - /url: /Changes/GitHub-Copilot-CLI/2026-09-16-2-agent-mode-changes-in-v1-0-85
+          - listitem [ref=e2384]:
+            - link "Show live elapsed time for execution subagents in timeline entries" [ref=e2385] [cursor=pointer]:
+              - /url: /Changes/GitHub-Copilot-CLI/2026-09-21-show-live-elapsed-time-for-execution-subagents-in-timeline-entries
+          - listitem [ref=e2386]:
+            - link "2 Agent Mode changes in v1.0.88" [ref=e2387] [cursor=pointer]:
+              - /url: /Changes/GitHub-Copilot-CLI/2026-09-22-2-agent-mode-changes-in-v1-0-88
+          - listitem [ref=e2388]:
+            - link "Queue exit commands while an agent response is still running" [ref=e2389] [cursor=pointer]:
+              - /url: /Changes/GitHub-Copilot-CLI/2026-09-28-queue-exit-commands-while-an-agent-response-is-still-running
+          - listitem [ref=e2390]:
+            - link "Auto-approval now takes into account messages you type while the agent is working…" [ref=e2391] [cursor=pointer]:
+              - /url: /Changes/GitHub-Copilot-CLI/2026-09-30-auto-approval-now-takes-into-account-messages-you-type-while-the-agent-is-workin
+          - listitem [ref=e2392]:
+            - link "5 Agent Mode changes in v1.0.92" [ref=e2393] [cursor=pointer]:
+              - /url: /Changes/GitHub-Copilot-CLI/2026-10-05-5-agent-mode-changes-in-v1-0-92
+          - listitem [ref=e2394]:
+            - link "Clicking a truncated compact shell command expands it" [ref=e2395] [cursor=pointer]:
+              - /url: /Changes/GitHub-Copilot-CLI/2026-10-07-clicking-a-truncated-compact-shell-command-expands-it
+          - listitem [ref=e2396]:
+            - link "3 Agent Mode changes in v1.0.97" [ref=e2397] [cursor=pointer]:
+              - /url: /Changes/GitHub-Copilot-CLI/2026-10-13-3-agent-mode-changes-in-v1-0-97
+          - listitem [ref=e2398]:
+            - link "2 Agent Mode changes in v1.0.100" [ref=e2399] [cursor=pointer]:
+              - /url: /Changes/GitHub-Copilot-CLI/2026-10-19-2-agent-mode-changes-in-v1-0-100
+          - listitem [ref=e2400]:
+            - link "34 Agent Mode changes in v1.0.106" [ref=e2401] [cursor=pointer]:
+              - /url: /Changes/GitHub-Copilot-CLI/2026-11-06-34-agent-mode-changes-in-v1-0-106
+          - listitem [ref=e2402]:
+            - link "3 Agent Mode changes in 0.7.0" [ref=e2403] [cursor=pointer]:
+              - /url: /Changes/OpenHands/2024-06-29-3-agent-mode-changes-in-0-7-0
+          - listitem [ref=e2404]:
+            - link "2 Agent Mode changes in 0.7.1" [ref=e2405] [cursor=pointer]:
+              - /url: /Changes/OpenHands/2024-07-05-2-agent-mode-changes-in-0-7-1
+          - listitem [ref=e2406]:
+            - link "3 Agent Mode changes in 0.8.0" [ref=e2407] [cursor=pointer]:
+              - /url: /Changes/OpenHands/2024-07-13-3-agent-mode-changes-in-0-8-0
+          - listitem [ref=e2408]:
+            - link "4 Agent Mode changes in 0.8.2" [ref=e2409] [cursor=pointer]:
+              - /url: /Changes/OpenHands/2024-07-27-4-agent-mode-changes-in-0-8-2
+          - listitem [ref=e2410]:
+            - link "2 Agent Mode changes in 0.8.3" [ref=e2411] [cursor=pointer]:
+              - /url: /Changes/OpenHands/2024-08-01-2-agent-mode-changes-in-0-8-3
+          - listitem [ref=e2412]:
+            - link "4 Agent Mode changes in 0.9.0" [ref=e2413] [cursor=pointer]:
+              - /url: /Changes/OpenHands/2024-08-23-4-agent-mode-changes-in-0-9-0
+          - listitem [ref=e2414]:
+            - link "Specialize CodeAct into micro agents" [ref=e2415] [cursor=pointer]:
+              - /url: /Changes/OpenHands/2024-08-29-specialize-codeact-into-micro-agents-by-xingyaoww-in-https-github-com-all-hands
+          - listitem [ref=e2416]:
+            - link "Files display updated content after agent edit" [ref=e2417] [cursor=pointer]:
+              - /url: /Changes/OpenHands/2024-09-04-files-display-updated-content-after-agent-edit-by-amanape-in-https-github-com-al
+          - listitem [ref=e2418]:
+            - link "Improvements to Agent Editing using LLM" [ref=e2419] [cursor=pointer]:
+              - /url: /Changes/OpenHands/2024-10-22-improvements-to-agent-editing-using-llm-by-xingyaoww-in-https-github-com-all-han
+          - listitem [ref=e2420]:
+            - link "2 Agent Mode changes in 0.13.0" [ref=e2421] [cursor=pointer]:
+              - /url: /Changes/OpenHands/2024-11-08-2-agent-mode-changes-in-0-13-0
+          - listitem [ref=e2422]:
+            - link "2 Agent Mode changes in 0.15.1" [ref=e2423] [cursor=pointer]:
+              - /url: /Changes/OpenHands/2024-12-06-2-agent-mode-changes-in-0-15-1
+          - listitem [ref=e2424]:
+            - link "Let user continue when the agent gets stuck in a loop (UI-only)" [ref=e2425] [cursor=pointer]:
+              - /url: /Changes/OpenHands/2024-12-17-let-user-continue-when-the-agent-gets-stuck-in-a-loop-ui-only-by-enyst-in-https
+          - listitem [ref=e2426]:
+            - link "Agent gets stuck in closing and server won't die" [ref=e2427] [cursor=pointer]:
+              - /url: /Changes/OpenHands/2024-12-19-agent-gets-stuck-in-closing-and-server-won-t-die-by-tofarr-in-https-github-com-a
+          - listitem [ref=e2428]:
+            - link "Added RateLimitError status on UI and Agent state" [ref=e2429] [cursor=pointer]:
+              - /url: /Changes/OpenHands/2025-01-07-added-ratelimiterror-status-on-ui-and-agent-state-by-rkat7-in-https-github-com-a
+          - listitem [ref=e2430]:
+            - link "When connecting to a GitHub repo, the agent now explicitly knows which repo…" [ref=e2431] [cursor=pointer]:
+              - /url: /Changes/OpenHands/2025-01-22-when-connecting-to-a-github-repo-the-agent-now-explicitly-knows-which-repo-was-c
+          - listitem [ref=e2432]:
+            - link "3 Agent Mode changes in 0.28.0" [ref=e2433] [cursor=pointer]:
+              - /url: /Changes/OpenHands/2025-03-07-3-agent-mode-changes-in-0-28-0
+          - listitem [ref=e2434]:
+            - link "Improve agent loop tracking" [ref=e2435] [cursor=pointer]:
+              - /url: /Changes/OpenHands/2025-03-10-improve-agent-loop-tracking-by-rbren-in-https-github-com-all-hands-ai-openhands
+          - listitem [ref=e2436]:
+            - link "Prompt agent to follow existing PR template when create new PR" [ref=e2437] [cursor=pointer]:
+              - /url: /Changes/OpenHands/2025-04-10-prompt-agent-to-follow-existing-pr-template-when-create-new-pr-by-xingyaoww-in-h
+          - listitem [ref=e2438]:
+            - link "Improved logic to prevent agent from getting stuck" [ref=e2439] [cursor=pointer]:
+              - /url: /Changes/OpenHands/2025-04-23-improved-logic-to-prevent-agent-from-getting-stuck-by-rbren-in-https-github-com
+          - listitem [ref=e2440]:
+            - link "Added support for agent pause and resume functionality in the CLI" [ref=e2441] [cursor=pointer]:
+              - /url: /Changes/OpenHands/2025-05-01-added-support-for-agent-pause-and-resume-functionality-in-the-cli-by-pandukamudi
+          - listitem [ref=e2442]:
+            - link "Added the ability for the agent to save browser screenshots as image files" [ref=e2443] [cursor=pointer]:
+              - /url: /Changes/OpenHands/2025-05-12-added-the-ability-for-the-agent-to-save-browser-screenshots-as-image-files-by-xi
+          - listitem [ref=e2444]:
+            - link "2 Agent Mode changes in 0.39.0" [ref=e2445] [cursor=pointer]:
+              - /url: /Changes/OpenHands/2025-05-20-2-agent-mode-changes-in-0-39-0
+          - listitem [ref=e2446]:
+            - link "Ensured PRs opened by agent is properly tracked in conversation metadata" [ref=e2447] [cursor=pointer]:
+              - /url: /Changes/OpenHands/2025-06-10-ensured-prs-opened-by-agent-is-properly-tracked-in-conversation-metadata-by-malh
+          - listitem [ref=e2448]:
+            - link "Fixed incorrect tracking for cost and token usage for main agent and delegates" [ref=e2449] [cursor=pointer]:
+              - /url: /Changes/OpenHands/2025-06-20-fixed-incorrect-tracking-for-cost-and-token-usage-for-main-agent-and-delegates-b
+          - listitem [ref=e2450]:
+            - link "2 Agent Mode changes in 0.50.0" [ref=e2451] [cursor=pointer]:
+              - /url: /Changes/OpenHands/2025-07-24-2-agent-mode-changes-in-0-50-0
+          - listitem [ref=e2452]:
+            - link "Improved the resolver summary generation by instructing the agent to focus only…" [ref=e2453] [cursor=pointer]:
+              - /url: /Changes/OpenHands/2025-07-31-improved-the-resolver-summary-generation-by-instructing-the-agent-to-focus-only
+          - listitem [ref=e2454]:
+            - link "Enhanced the CLI interface by adding proper markdown rendering for agent messages…" [ref=e2455] [cursor=pointer]:
+              - /url: /Changes/OpenHands/2025-08-13-enhanced-the-cli-interface-by-adding-proper-markdown-rendering-for-agent-message
+          - listitem [ref=e2456]:
+            - 'link "Added a new feedback reason: \"The agent didn''t finish the job\"" [ref=e2457] [cursor=pointer]':
+              - /url: /Changes/OpenHands/2025-08-20-added-a-new-feedback-reason-the-agent-didn-t-finish-the-job-by-xingyaoww-in-http
+          - listitem [ref=e2458]:
+            - link "2 Agent Mode changes in 0.56.0" [ref=e2459] [cursor=pointer]:
+              - /url: /Changes/OpenHands/2025-09-09-2-agent-mode-changes-in-0-56-0
+          - listitem [ref=e2460]:
+            - link "New OpenHands 1.0.0 using the new…" [ref=e2461] [cursor=pointer]:
+              - /url: /Changes/OpenHands/2025-12-16-new-openhands-1-0-0-using-the-new-software-agent-sdk-https-github-com-openhands
+          - listitem [ref=e2462]:
+            - link "2 Agent Mode changes in 1.5.0" [ref=e2463] [cursor=pointer]:
+              - /url: /Changes/OpenHands/2026-03-11-2-agent-mode-changes-in-1-5-0
+          - listitem [ref=e2464]:
+            - link "2 Agent Mode changes in 1.8.0" [ref=e2465] [cursor=pointer]:
+              - /url: /Changes/OpenHands/2026-06-10-2-agent-mode-changes-in-1-8-0
+          - listitem [ref=e2466]:
+            - link "9 Agent Mode changes in 1.9.0" [ref=e2467] [cursor=pointer]:
+              - /url: /Changes/OpenHands/2026-07-06-9-agent-mode-changes-in-1-9-0
+          - listitem [ref=e2468]:
+            - 'link "feat(enterprise): Agent Profiles on the cloud/SaaS backend (♯15044)" [ref=e2469] [cursor=pointer]':
+              - /url: /Changes/OpenHands/2026-07-09-feat-enterprise-agent-profiles-on-the-cloud-saas-backend-15044-by-simonrosenberg
+          - listitem [ref=e2470]:
+            - link "This release migration was performed by an AI agent (OpenHands) on behalf of the user" [ref=e2471] [cursor=pointer]:
+              - /url: /Changes/OpenHands/2026-07-28-this-release-migration-was-performed-by-an-ai-agent-openhands-on-behalf-of-the-u
+          - listitem [ref=e2472]:
+            - 'link "feat: always show the LLM selector; move agent-profile switching to the tools menu" [ref=e2473] [cursor=pointer]':
+              - /url: /Changes/OpenHands/2026-07-29-feat-always-show-the-llm-selector-move-agent-profile-switching-to-the-tools-menu
+          - listitem [ref=e2474]:
+            - 'link "docs: refresh AGENTS.md guidance" [ref=e2475] [cursor=pointer]':
+              - /url: /Changes/OpenHands/2026-07-30-docs-refresh-agents-md-guidance-by-all-hands-bot-in-https-github-com-openhands-o
+          - listitem [ref=e2476]:
+            - link "3 Agent Mode changes in v1.9.0" [ref=e2477] [cursor=pointer]:
+              - /url: /Changes/OpenHands/2026-08-03-3-agent-mode-changes-in-v1-9-0
+          - listitem [ref=e2478]:
+            - 'link "feat: add a typed agent action for launching local or Cloud child conversations" [ref=e2479] [cursor=pointer]':
+              - /url: /Changes/OpenHands/2026-08-07-feat-add-a-typed-agent-action-for-launching-local-or-cloud-child-conversations-b
+          - listitem [ref=e2480]:
+            - 'link "chore: enforce typed @openhands/typescript-client for agent-server API calls…" [ref=e2481] [cursor=pointer]':
+              - /url: /Changes/OpenHands/2026-08-13-chore-enforce-typed-openhands-typescript-client-for-agent-server-api-calls-no-ad
+          - listitem [ref=e2482]:
+            - 'link "docs(agents): add a repository map clarifying what belongs where" [ref=e2483] [cursor=pointer]':
+              - /url: /Changes/OpenHands/2026-08-17-docs-agents-add-a-repository-map-clarifying-what-belongs-where-by-smolpaws-in-ht
+          - listitem [ref=e2484]:
+            - 'link "feat: add LLM provider-connections UI (local agent-server)" [ref=e2485] [cursor=pointer]':
+              - /url: /Changes/OpenHands/2026-08-21-feat-add-llm-provider-connections-ui-local-agent-server-by-juanmichelini-in-http
+          - listitem [ref=e2486]:
+            - link "4 Agent Mode changes in v1.16.0" [ref=e2487] [cursor=pointer]:
+              - /url: /Changes/OpenHands/2026-08-27-4-agent-mode-changes-in-v1-16-0
+          - listitem [ref=e2488]:
+            - link "2 Agent Mode changes in v1.19.0" [ref=e2489] [cursor=pointer]:
+              - /url: /Changes/OpenHands/2026-09-16-2-agent-mode-changes-in-v1-19-0
+          - listitem [ref=e2490]:
+            - link "2 Agent Mode changes in v1.20.0" [ref=e2491] [cursor=pointer]:
+              - /url: /Changes/OpenHands/2026-09-17-2-agent-mode-changes-in-v1-20-0
+          - listitem [ref=e2492]:
+            - 'link "docs: refresh AGENTS.md guidance" [ref=e2493] [cursor=pointer]':
+              - /url: /Changes/OpenHands/2026-09-22-docs-refresh-agents-md-guidance-by-all-hands-bot-in-https-github-com-openhands-o
+          - listitem [ref=e2494]:
+            - 'link "docs: correct outdated cloud-proxy Rule 2 in AGENTS.md" [ref=e2495] [cursor=pointer]':
+              - /url: /Changes/OpenHands/2026-09-25-docs-correct-outdated-cloud-proxy-rule-2-in-agents-md-by-juanmichelini-in-https
+          - listitem [ref=e2496]:
+            - link "4 Agent Mode changes in v1.25.0" [ref=e2497] [cursor=pointer]:
+              - /url: /Changes/OpenHands/2026-10-06-4-agent-mode-changes-in-v1-25-0
+          - listitem [ref=e2498]:
+            - link "4 Agent Mode changes in v1.27.0" [ref=e2499] [cursor=pointer]:
+              - /url: /Changes/OpenHands/2026-10-12-4-agent-mode-changes-in-v1-27-0
+          - listitem [ref=e2500]:
+            - link "3 Agent Mode changes in v1.28.0" [ref=e2501] [cursor=pointer]:
+              - /url: /Changes/OpenHands/2026-10-19-3-agent-mode-changes-in-v1-28-0
+          - listitem [ref=e2502]:
+            - 'link "chore: bump agent-server to 1.56.0" [ref=e2503] [cursor=pointer]':
+              - /url: /Changes/OpenHands/2026-10-19-chore-bump-agent-server-to-1-56-0-by-all-hands-bot-in-https-github-com-openhands
+          - listitem [ref=e2504]:
+            - link "5 Agent Mode changes in v1.29.0" [ref=e2505] [cursor=pointer]:
+              - /url: /Changes/OpenHands/2026-10-20-5-agent-mode-changes-in-v1-29-0
+          - listitem [ref=e2506]:
+            - 'link "chore: bump agent-server to 1.57.0" [ref=e2507] [cursor=pointer]':
+              - /url: /Changes/OpenHands/2026-10-22-chore-bump-agent-server-to-1-57-0-by-all-hands-bot-in-https-github-com-openhands
+          - listitem [ref=e2508]:
+            - 'link "feat(verify): stand in for DigitalOcean so Managed Agents can be verified" [ref=e2509] [cursor=pointer]':
+              - /url: /Changes/OpenHands/2026-10-27-feat-verify-stand-in-for-digitalocean-so-managed-agents-can-be-verified-by-enyst
+          - listitem [ref=e2510]:
+            - link "3 Agent Mode changes in v1.35.0" [ref=e2511] [cursor=pointer]:
+              - /url: /Changes/OpenHands/2026-11-03-3-agent-mode-changes-in-v1-35-0
+          - listitem [ref=e2512]:
+            - link "2 Agent Mode changes in v1.36.0" [ref=e2513] [cursor=pointer]:
+              - /url: /Changes/OpenHands/2026-11-05-2-agent-mode-changes-in-v1-36-0
+          - listitem [ref=e2514]:
+            - link "Support and fixes for AGENTS.md" [ref=e2515] [cursor=pointer]:
+              - /url: /Changes/Windsurf/2025-10-23-support-and-fixes-for-agents-md
+          - listitem [ref=e2516]:
+            - link "Agents & Tool Execution" [ref=e2517] [cursor=pointer]:
+              - /url: /Changes/Windsurf/2025-12-16-agents-tool-execution
+          - listitem [ref=e2518]:
+            - link "New Features and Improvements" [ref=e2519] [cursor=pointer]:
+              - /url: /Changes/Windsurf/2026-01-13-new-features-and-improvements
+          - listitem [ref=e2520]:
+            - link "Agent Command Center" [ref=e2521] [cursor=pointer]:
+              - /url: /Changes/Windsurf/2026-04-15-agent-command-center
+          - listitem [ref=e2522]:
+            - link "Devin in Windsurf" [ref=e2523] [cursor=pointer]:
+              - /url: /Changes/Windsurf/2026-04-15-devin-in-windsurf
+          - listitem [ref=e2524]:
+            - link "Devin Agent in Windsurf" [ref=e2525] [cursor=pointer]:
+              - /url: /Changes/Windsurf/2026-04-29-devin-agent-in-windsurf
+          - listitem [ref=e2526]:
+            - link "Agent Command Center" [ref=e2527] [cursor=pointer]:
+              - /url: /Changes/Windsurf/2026-05-06-agent-command-center
+          - listitem [ref=e2528]:
+            - link "Improved reliability of Devin Local agent" [ref=e2529] [cursor=pointer]:
+              - /url: /Changes/Windsurf/2026-05-06-improved-reliability-of-devin-local-agent
+          - listitem [ref=e2530]:
+            - link "Devin Local" [ref=e2531] [cursor=pointer]:
+              - /url: /Changes/Windsurf/2026-05-27-devin-local
+          - listitem [ref=e2532]:
+            - link "3 Agent Mode changes in v3.11.212" [ref=e2533] [cursor=pointer]:
+              - /url: /Changes/Windsurf/2026-10-23-3-agent-mode-changes-in-v3-11-212
+          - listitem [ref=e2534]:
+            - link "New Agent Window" [ref=e2535] [cursor=pointer]:
+              - /url: /Changes/Windsurf/2026-10-23-new-agent-window
+          - listitem [ref=e2536]:
+            - link "The status bar no longer disappears after you switch from Agent mode to IDE mode" [ref=e2537] [cursor=pointer]:
+              - /url: /Changes/Windsurf/2026-10-26-the-status-bar-no-longer-disappears-after-you-switch-from-agent-mode-to-ide-mode
+          - listitem [ref=e2538]:
+            - link "Claude Code" [ref=e2539] [cursor=pointer]:
+              - /url: /Products/Claude-Code
+          - listitem [ref=e2540]:
+            - link "Codex CLI" [ref=e2541] [cursor=pointer]:
+              - /url: /Products/Codex-CLI
+          - listitem [ref=e2542]:
+            - link "Cursor" [ref=e2543] [cursor=pointer]:
+              - /url: /Products/Cursor
+          - listitem [ref=e2544]:
+            - link "Gemini CLI" [ref=e2545] [cursor=pointer]:
+              - /url: /Products/Gemini-CLI
+          - listitem [ref=e2546]:
+            - link "GitHub Copilot CLI" [ref=e2547] [cursor=pointer]:
+              - /url: /Products/GitHub-Copilot-CLI
+          - listitem [ref=e2548]:
+            - link "OpenHands" [ref=e2549] [cursor=pointer]:
+              - /url: /Products/OpenHands
+          - listitem [ref=e2550]:
+            - link "Windsurf" [ref=e2551] [cursor=pointer]:
+              - /url: /Products/Windsurf
+          - listitem [ref=e2552]:
+            - link "ChronoLog" [ref=e2553] [cursor=pointer]:
+              - /url: /
+          - listitem [ref=e2554]
+    - contentinfo [ref=e588]:
+      - paragraph [ref=e589]:
+        - text: Created with
+        - link "Quartz v0.1.0" [ref=e590] [cursor=pointer]:
+          - /url: https://quartz.jzhao.xyz/
+        - text: © 2026
+      - list [ref=e591]:
+        - listitem [ref=e592]:
+          - link "GitHub" [ref=e593] [cursor=pointer]:
+            - /url: https://github.com/Wang-Shuo/chronolog
+        - listitem [ref=e594]:
+          - link "About" [ref=e595] [cursor=pointer]:
+            - /url: https://wang-shuo.github.io/chronolog/About
+        - listitem [ref=e596]:
+          - link "RSS" [ref=e597] [cursor=pointer]:
+            - /url: https://wang-shuo.github.io/chronolog/index.xml
+  - generic [ref=e893]: Agent Mode

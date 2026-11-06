@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 4b222e44c52e0c792e0475833a39dbc156ca691acab61f25d7f04a06eb151f51
+machine_hash: 4c74c8feda7422bba29c1ad8d595f89034caaf87d1ad1a56cc08e88010de6f9d
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -50,9 +50,9 @@ record:
   title: Use Apple Messages from Codex and ChatGPT Work
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-08-17-app-extensions-for-cursor-repos|App extensions for
-  Cursor repos]]'
 - '[[Changes/Cursor/2026-08-17-settings|Settings]]'
+- '[[Changes/Codex CLI/2026-08-18-57-apps-and-integrations-changes-in-rust-v0-148-0|57
+  Apps and Integrations changes in rust-v0.148.0]]'
 - '[[Changes/Claude Code/2026-08-19-sigterm-in-print-sdk-mode-no-longer-records-an-interrupted-turn-or-synthetic-too|SIGTERM
   in print/SDK mode no longer records an interrupted turn or synthetic tool…]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-08-20-codex-and-chatgpt-feature-updates-c987f574|chatgpt-2026-08-20-codex-and-chatgpt-feature-updates-c987f574]]'

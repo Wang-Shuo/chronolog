@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 522bc11d70da8acebaf3f8e1c3f2368a906d09f6b1b030d3515479e9b7b3e626
+machine_hash: b9addc261c10c08998201d3e569a8783334ec7e3ec02dbbde87297ad605d1e63
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,12 +45,12 @@ record:
   title: Added `CLAUDE_CODE_SESSION_ID` environment variable to the Bash tool subprocess…
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-04-29-we-re-introducing-the-cursor-sdk-so-you-can-build-agents-with-the-same-runtime-h|Cursor
-  introduces the Cursor SDK so you can build agents with the same runtime…]]'
-- '[[Changes/Cursor/2026-04-29-run-npm-install-cursor-sdk-to-get-started-you-can-also-use-cursor-s-native-sdk-s-76fb76|Run
-  npm install @cursor/sdk to get started]]'
+- '[[Changes/OpenHands/2026-05-01-2-apps-and-integrations-changes-in-1-7-0|2 Apps
+  and Integrations changes in 1.7.0]]'
 - '[[Changes/Claude Code/2026-05-04-6-apps-and-integrations-changes-in-v2-1-128|6
   Apps and Integrations changes in v2.1.128]]'
+- '[[Changes/GitHub Copilot CLI/2026-05-05-2-apps-and-integrations-changes-in-v1-0-41|2
+  Apps and Integrations changes in v1.0.41]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-05-06-v2-1-132-github-318578987-ed60d664|claude-code-2026-05-06-v2-1-132-github-318578987-ed60d664]]'
 source_type: github_releases
 theme: apps-integrations
@@ -82,7 +82,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-05-04 · Claude Code · [[Changes/Claude Code/2026-05-04-6-apps-and-integrations-changes-in-v2-1-128|6 Apps and Integrations changes in v2.1.128]]
+- Earlier: 2026-05-05 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-05-05-2-apps-and-integrations-changes-in-v1-0-41|2 Apps and Integrations changes in v1.0.41]]
 - Later: 2026-05-06 · Claude Code · [[Changes/Claude Code/2026-05-06-3-apps-and-integrations-changes-in-v2-1-129|3 Apps and Integrations changes in v2.1.129]]
 <!-- chronolog:end -->
 

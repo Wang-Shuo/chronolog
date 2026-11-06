@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 35249d72bdf0863b0efb3bc2c7cddb0390494c4748ad22c4daab9ce1115d1e19
+machine_hash: c59696e1c422a64d0820d7d265c2be4bfe75c93a0eed52a57d460d9e0bbd266b
 product: cursor
 product_name: Cursor
 record:
@@ -44,10 +44,10 @@ record:
     Cursor 3
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-04-09-3-agent-mode-changes-in-v2-1-98|3 Agent Mode changes
-  in v2.1.98]]'
-- '[[Changes/Claude Code/2026-04-10-ultraplan-and-other-remote-session-features-now-auto-create-a-default-cloud-envi|/ultraplan
-  and other remote-session features now auto-create a default cloud…]]'
+- '[[Changes/GitHub Copilot CLI/2026-04-10-add-mode-autopilot-and-plan-flags-to-start-the-cli-directly-in-a-specific-agent|Add
+  --mode, --autopilot, and --plan flags to start the CLI directly in a specific…]]'
+- '[[Changes/Codex CLI/2026-04-11-4-agent-mode-changes-in-rust-v0-120-0|4 Agent Mode
+  changes in rust-v0.120.0]]'
 - '[[Changes/Cursor/2026-04-13-tiled-layout-2f03f6|Tiled layout]]'
 source_release: '[[Releases/Cursor/cursor-2026-04-13-3-1-https-cursor-com-changelog-3-1-27a51313|cursor-2026-04-13-3-1-https-cursor-com-changelog-3-1-27a51313]]'
 source_type: cursor_changelog
@@ -88,7 +88,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2026-04-10 · Claude Code · [[Changes/Claude Code/2026-04-10-ultraplan-and-other-remote-session-features-now-auto-create-a-default-cloud-envi|/ultraplan and other remote-session features now auto-create a default cloud…]]
+- Earlier: 2026-04-11 · Codex CLI · [[Changes/Codex CLI/2026-04-11-4-agent-mode-changes-in-rust-v0-120-0|4 Agent Mode changes in rust-v0.120.0]]
 - Later: 2026-04-14 · Cursor · [[Changes/Cursor/2026-04-14-ask-a-quick-side-question-without-derailing-the-agent-s-main-task-btw-allows-you|/btw support in CLI]]
 <!-- chronolog:end -->
 

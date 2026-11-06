@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 8bac1b33ac63396f8bebe8470a9149eacf75c503e81ad3ad384ae9bb276e150d
+machine_hash: 55816ce218fc13772fb49cfc00861c2813fa5f76f64ef7d735e0439762a967d6
 product: cursor
 product_name: Cursor
 record:
@@ -44,11 +44,12 @@ record:
   title: Team rules
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-09-09-shared-folders-and-ownership|Shared folders and ownership]]'
-- '[[Changes/ChatGPT/2026-09-09-library-sharing-lets-you-share-files-and-folders-in-chatgpt-choose-who-can-acces|Library
-  sharing lets you share files and folders in ChatGPT, choose who can access…]]'
 - '[[Changes/Claude Code/2026-09-18-changed-ultrareview-in-non-interactive-sessions-to-refuse-when-the-repository-ha|Changed
   /ultrareview in non-interactive sessions to refuse when the repository has…]]'
+- '[[Changes/Codex CLI/2026-09-22-9-collaboration-changes-in-rust-v0-156-0|9 Collaboration
+  changes in rust-v0.156.0]]'
+- '[[Changes/OpenHands/2026-09-22-test-strengthen-shared-utility-behavior-by-aivong-openhands-in-https-github-com|test:
+  strengthen shared utility behavior]]'
 source_release: '[[Releases/Cursor/cursor-2026-09-23-rollouts-and-security-review-https-cursor-com-changelog-rollouts-b860a5fb|cursor-2026-09-23-rollouts-and-security-review-https-cursor-com-changelog-rollouts-b860a5fb]]'
 source_type: cursor_changelog
 theme: collaboration
@@ -86,8 +87,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Collaboration
 
-- Earlier: 2026-09-18 · Claude Code · [[Changes/Claude Code/2026-09-18-changed-ultrareview-in-non-interactive-sessions-to-refuse-when-the-repository-ha|Changed /ultrareview in non-interactive sessions to refuse when the repository has…]]
-- Later: 2026-09-28 · Claude Code · [[Changes/Claude Code/2026-09-28-2-collaboration-changes-in-v2-1-284|2 Collaboration changes in v2.1.284]]
+- Earlier: 2026-09-22 · OpenHands · [[Changes/OpenHands/2026-09-22-test-strengthen-shared-utility-behavior-by-aivong-openhands-in-https-github-com|test: strengthen shared utility behavior]]
+- Later: 2026-09-25 · Codex CLI · [[Changes/Codex CLI/2026-09-25-47411-apply-shared-network-policy-throughout-embedded-codex-startup-acrognale-oa|♯47411 Apply shared network policy throughout embedded Codex startup @acrognale-oai]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

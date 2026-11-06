@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 8a9c4420da1f7e201277a347d2967a9e0157f29834cc6d20a01efa8e5cf2ef46
+machine_hash: 9b70142fb4d403fc22fb24b42b00e0311789a943e8cddb167810d281b138857d
 product: claude-code
 product_name: Claude Code
 record:
@@ -54,12 +54,12 @@ record:
   title: Added `effortSlider:decreaseEffort`, `increaseEffort` and `toggleUltracode`…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-23-4-interface-experience-changes-in-v2-1-281|4 Interface
-  Experience changes in v2.1.281]]'
 - '[[Changes/Claude Code/2026-09-24-4-interface-experience-changes-in-v2-1-282|4 Interface
   Experience changes in v2.1.282]]'
 - '[[Changes/Claude Code/2026-09-25-2-interface-experience-changes-in-v2-1-283|2 Interface
   Experience changes in v2.1.283]]'
+- '[[Changes/Codex CLI/2026-09-25-9-interface-experience-changes-in-rust-v0-157-0|9
+  Interface Experience changes in rust-v0.157.0]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-28-v2-1-284-github-398457074-cbb49e49|claude-code-2026-09-28-v2-1-284-github-398457074-cbb49e49]]'
 source_type: github_releases
 theme: interface-experience
@@ -102,8 +102,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-09-25 · Claude Code · [[Changes/Claude Code/2026-09-25-2-interface-experience-changes-in-v2-1-283|2 Interface Experience changes in v2.1.283]]
-- Later: 2026-09-29 · Claude Code · [[Changes/Claude Code/2026-09-29-improved-responsiveness-when-leaving-the-ctrl-o-transcript-view-in-long-sessions|Improved responsiveness when leaving the ctrl+o transcript view in long sessions…]]
+- Earlier: 2026-09-25 · Codex CLI · [[Changes/Codex CLI/2026-09-25-9-interface-experience-changes-in-rust-v0-157-0|9 Interface Experience changes in rust-v0.157.0]]
+- Later: 2026-09-28 · Codex CLI · [[Changes/Codex CLI/2026-09-28-6-interface-experience-changes-in-rust-v0-158-0|6 Interface Experience changes in rust-v0.158.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

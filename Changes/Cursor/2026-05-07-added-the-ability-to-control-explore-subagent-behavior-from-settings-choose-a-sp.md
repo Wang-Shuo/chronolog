@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: f976e9ecd63ce0133b31ada4d00bc2bf5b34770f6e730c28b08f7f0e5df29aa6
+machine_hash: 6b7ef4e9dc154d84349ebdc52b50c0a2108b6a11e3f3a9fd7910db2bb759ab6d
 product: cursor
 product_name: Cursor
 record:
@@ -59,12 +59,11 @@ record:
   title: Added the ability to control Explore subagent behavior from settings
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-04-28-2-agent-mode-changes-in-v2-1-121|2 Agent Mode
-  changes in v2.1.121]]'
-- '[[Changes/Cursor/2026-04-29-3-agent-mode-changes-in-build-programmatic-agents|3
-  Agent Mode changes in Build programmatic agents…]]'
-- '[[Changes/Claude Code/2026-05-04-auto-mode-when-the-classifier-can-t-evaluate-an-action-the-error-now-includes-a|Auto
-  mode: when the classifier can''t evaluate an action, the error now includes…]]'
+- '[[Changes/Windsurf/2026-05-06-improved-reliability-of-devin-local-agent|Improved
+  reliability of Devin Local agent]]'
+- '[[Changes/Windsurf/2026-05-06-agent-command-center|Agent Command Center]]'
+- '[[Changes/Codex CLI/2026-05-07-5-agent-mode-changes-in-rust-v0-129-0|5 Agent Mode
+  changes in rust-v0.129.0]]'
 source_release: '[[Releases/Cursor/cursor-2026-05-07-3-3-https-cursor-com-changelog-05-07-26-9d8a16d3|cursor-2026-05-07-3-3-https-cursor-com-changelog-05-07-26-9d8a16d3]]'
 source_type: cursor_changelog
 theme: agent-mode
@@ -101,7 +100,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2026-05-04 · Claude Code · [[Changes/Claude Code/2026-05-04-auto-mode-when-the-classifier-can-t-evaluate-an-action-the-error-now-includes-a|Auto mode: when the classifier can't evaluate an action, the error now includes…]]
+- Earlier: 2026-05-07 · Codex CLI · [[Changes/Codex CLI/2026-05-07-5-agent-mode-changes-in-rust-v0-129-0|5 Agent Mode changes in rust-v0.129.0]]
 - Later: 2026-05-11 · Claude Code · [[Changes/Claude Code/2026-05-11-2-agent-mode-changes-in-v2-1-139|2 Agent Mode changes in v2.1.139]]
 <!-- chronolog:end -->
 

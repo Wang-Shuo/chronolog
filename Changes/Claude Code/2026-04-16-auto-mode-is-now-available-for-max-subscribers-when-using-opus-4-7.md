@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: expansion
-machine_hash: 578c669dbabe7e98b3099db7c8b8e8f4d02730a177decbdd1b9a213514a51fac
+machine_hash: a55326adff5367f2c5300ee5e77b5afad4108e230da26d67417f0dafb8f9e5c5
 product: claude-code
 product_name: Claude Code
 record:
@@ -51,10 +51,10 @@ record:
   title: Auto mode is now available for Max subscribers when using Opus 4.7
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-04-14-improved-model-to-warn-before-switching-models-mid-conversation-since-the-next-r|Improved
-  /model to warn before switching models mid-conversation, since the next…]]'
 - '[[Changes/Cursor/2026-04-14-trigger-the-model-picker-from-anywhere-to-switch-models-without-clearing-your-pr|Trigger
   the model picker from anywhere to switch models without clearing your prompt first]]'
+- '[[Changes/Codex CLI/2026-04-15-3-model-support-changes-in-rust-v0-121-0|3 Model
+  Support changes in rust-v0.121.0]]'
 - '[[Changes/Claude Code/2026-04-16-3-model-support-changes-in-v2-1-111|3 Model Support
   changes in v2.1.111]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-04-16-v2-1-111-github-309911692-a3025e78|claude-code-2026-04-16-v2-1-111-github-309911692-a3025e78]]'
@@ -95,8 +95,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-04-14 · Cursor · [[Changes/Cursor/2026-04-14-trigger-the-model-picker-from-anywhere-to-switch-models-without-clearing-your-pr|Trigger the model picker from anywhere to switch models without clearing your prompt first]]
-- Later: 2026-04-22 · Claude Code · [[Changes/Claude Code/2026-04-22-2-model-support-changes-in-v2-1-117|2 Model Support changes in v2.1.117]]
+- Earlier: 2026-04-15 · Codex CLI · [[Changes/Codex CLI/2026-04-15-3-model-support-changes-in-rust-v0-121-0|3 Model Support changes in rust-v0.121.0]]
+- Later: 2026-04-16 · Cline · [[Changes/Cline/2026-04-16-add-claude-opus-4-7-model-support|Add Claude Opus 4.7 model support]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

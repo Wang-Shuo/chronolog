@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: fec130aefee314c6150e0c0305ba965041164c0c035d1d92d296c060d26eef64
+machine_hash: a8a969c7fd80480bf7cd3c270bbe4e7c959a35b560597b8f76fad66ee1ade06c
 product: cursor
 product_name: Cursor
 record:
@@ -47,12 +47,12 @@ record:
   title: Improved Prompt UI
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-08-06-admin-api-for-blocklists-block-specific-files-or-directories-from-being-indexed|Admin
-  API for blocklists]]'
-- '[[Changes/Cursor/2025-08-21-context-usage-is-always-shown-in-the-chat-input|Context
-  usage is always shown in the chat input]]'
-- '[[Changes/Cursor/2025-09-12-cursor-automatically-summarizes-long-conversation-for-you-when-reaching-the-cont|Summarization
-  triggers]]'
+- '[[Changes/Codex CLI/2025-10-23-auto-compact-at-90-by-aibrahim-oai-in-https-github-com-openai-codex-pull-5292|Auto
+  compact at ~90%]]'
+- '[[Changes/Windsurf/2025-10-23-improvements-to-fast-context-enterprises-can-opt-in-using-the-windsurf-team-sett|Improvements
+  to Fast Context]]'
+- '[[Changes/GitHub Copilot CLI/2025-10-24-to-conserve-context-window-space-we-ve-limited-the-list-of-tools-available-to-th|To
+  conserve context window space, we''ve limited the list of tools available…]]'
 source_release: '[[Releases/Cursor/cursor-2025-10-29-2-0-https-cursor-com-changelog-2-0-66a8e76e|cursor-2025-10-29-2-0-https-cursor-com-changelog-2-0-66a8e76e]]'
 source_type: cursor_changelog
 theme: context-window
@@ -103,8 +103,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Context Window
 
-- Earlier: 2025-09-12 · Cursor · [[Changes/Cursor/2025-09-12-cursor-automatically-summarizes-long-conversation-for-you-when-reaching-the-cont|Summarization triggers]]
-- Later: 2025-11-21 · Cursor · [[Changes/Cursor/2025-11-21-rules-in-home-folder-cursor-rules-will-be-included-in-context|Rules in home folder (~/.cursor/rules) will be included in context]]
+- Earlier: 2025-10-24 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2025-10-24-to-conserve-context-window-space-we-ve-limited-the-list-of-tools-available-to-th|To conserve context window space, we've limited the list of tools available…]]
+- Later: 2025-10-29 · Gemini CLI · [[Changes/Gemini CLI/2025-10-29-pass-whole-extensions-rather-than-just-context-files-by-zbirkenbuel-in-https-git|Pass whole extensions rather than just context files]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

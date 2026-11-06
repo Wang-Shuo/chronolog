@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 9d64ab3f798265324893086399948949809f98782f2031b561e5cb8d5a3e66f0
+machine_hash: 111ede62be3b7c99d8701f027d656bb0d010093574503c0a750049572ea471c5
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,12 +45,12 @@ record:
     clearer…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-06-04-skills-added-escape-syntax-to-include-a-literal-before-a-digit-in-command-bodies|Skills:
-  added \$ escape syntax to include a literal $ before a digit in command bodies]]'
-- '[[Changes/Claude Code/2026-06-08-background-sessions-are-now-told-that-shared-checkout-edits-are-blocked-until-th|Background
-  sessions are now told that shared-checkout edits are blocked until they…]]'
+- '[[Changes/GitHub Copilot CLI/2026-06-09-6-developer-workflow-changes-in-v1-0-61|6
+  Developer Workflow changes in v1.0.61]]'
 - '[[Changes/Claude Code/2026-06-10-2-developer-workflow-changes-in-v2-1-172|2 Developer
   Workflow changes in v2.1.172]]'
+- '[[Changes/GitHub Copilot CLI/2026-06-13-6-developer-workflow-changes-in-v1-0-62|6
+  Developer Workflow changes in v1.0.62]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-06-15-v2-1-178-github-339741361-902bc427|claude-code-2026-06-15-v2-1-178-github-339741361-902bc427]]'
 source_type: github_releases
 theme: developer-workflow
@@ -83,8 +83,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2026-06-10 · Claude Code · [[Changes/Claude Code/2026-06-10-2-developer-workflow-changes-in-v2-1-172|2 Developer Workflow changes in v2.1.172]]
-- Later: 2026-06-17 · Cursor · [[Changes/Cursor/2026-06-17-cloud-environment-setup-8a7697|Cloud environment setup]]
+- Earlier: 2026-06-13 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-06-13-6-developer-workflow-changes-in-v1-0-62|6 Developer Workflow changes in v1.0.62]]
+- Later: 2026-06-15 · Codex CLI · [[Changes/Codex CLI/2026-06-15-6-developer-workflow-changes-in-rust-v0-140-0|6 Developer Workflow changes in rust-v0.140.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

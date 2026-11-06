@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 55c1f9322f61ae89bea163b872c652debaaadb8eb491d5d0c3b5607a460e5c06
+machine_hash: ebc9a1747acd59f856dfafcbc7065d30bdb01199f27b8a584558164795f239c1
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,12 +45,12 @@ record:
   title: 2 Context Window changes in v2.1.311
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-16-2-context-window-changes-in-v2-1-302|2 Context
-  Window changes in v2.1.302]]'
-- '[[Changes/Claude Code/2026-10-19-3-context-window-changes-in-v2-1-304|3 Context
-  Window changes in v2.1.304]]'
+- '[[Changes/GitHub Copilot CLI/2026-10-20-switching-only-reasoning-effort-no-longer-forces-compaction-in-over-budget-sessi|Switching
+  only reasoning effort no longer forces compaction in over-budget sessions]]'
 - '[[Changes/Claude Code/2026-10-22-updated-the-claude-api-skill-service-account-keys-and-workload-identity-federati|Updated
   the /claude-api skill]]'
+- '[[Changes/Codex CLI/2026-10-23-18-context-window-changes-in-rust-v0-164-0|18 Context
+  Window changes in rust-v0.164.0]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-10-26-v2-1-311-github-424682562-151da26b|claude-code-2026-10-26-v2-1-311-github-424682562-151da26b]]'
 source_type: github_releases
 theme: context-window
@@ -93,8 +93,8 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.311
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Context Window
 
-- Earlier: 2026-10-22 · Claude Code · [[Changes/Claude Code/2026-10-22-updated-the-claude-api-skill-service-account-keys-and-workload-identity-federati|Updated the /claude-api skill]]
-- Later: 2026-10-27 · Claude Code · [[Changes/Claude Code/2026-10-27-changed-a-subagent-s-autocompactwindow-to-lower-the-window-set-by-claude-code-au|Changed a subagent's autoCompactWindow to lower the window set…]]
+- Earlier: 2026-10-23 · Codex CLI · [[Changes/Codex CLI/2026-10-23-18-context-window-changes-in-rust-v0-164-0|18 Context Window changes in rust-v0.164.0]]
+- Later: 2026-10-26 · Cline · [[Changes/Cline/2026-10-26-auto-compaction-no-longer-runs-for-models-with-an-unknown-context-limit-and-it-n|Auto-compaction no longer runs for models with an unknown context limit, and it no…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

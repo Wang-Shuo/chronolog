@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 49ad659db2d7166e1f25651dcdf8365dbde79882d41c21bb0e40195c198b83bd
+machine_hash: 83af5883fb68dfaedd5434ffe44a40f66a6dfb802f5add2784f302e7eb671d80
 product: claude-code
 product_name: Claude Code
 record:
@@ -41,10 +41,10 @@ record:
   title: Removed the JetBrains plugin install suggestion from startup
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-05-28-4-apps-and-integrations-changes-in-v2-1-154|4
-  Apps and Integrations changes in v2.1.154]]'
-- '[[Changes/Claude Code/2026-05-29-4-apps-and-integrations-changes-in-v2-1-157|4
-  Apps and Integrations changes in v2.1.157]]'
+- '[[Changes/Codex CLI/2026-06-01-20-apps-and-integrations-changes-in-rust-v0-136-0|20
+  Apps and Integrations changes in rust-v0.136.0]]'
+- '[[Changes/GitHub Copilot CLI/2026-06-01-5-apps-and-integrations-changes-in-v1-0-57|5
+  Apps and Integrations changes in v1.0.57]]'
 - '[[Changes/Claude Code/2026-06-02-mcp-now-collapses-claude-ai-connectors-you-ve-never-signed-in-to-behind-a-show-u|/mcp
   now collapses claude.ai connectors you''ve never signed in to behind…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-06-02-v2-1-160-github-332740156-03dd8b5a|claude-code-2026-06-02-v2-1-160-github-332740156-03dd8b5a]]'

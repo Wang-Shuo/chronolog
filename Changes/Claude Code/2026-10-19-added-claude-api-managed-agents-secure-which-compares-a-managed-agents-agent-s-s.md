@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: 8ef25b373105fc4fbd08659b53baf961b4c9a22079323da6cb441ebac0e12d4c
+machine_hash: b363c1fde88233952bfd0717b8d5ad9cf87a2b354498d11f6d44961921f1ce15
 product: claude-code
 product_name: Claude Code
 record:
@@ -99,7 +99,7 @@ type: change
 ## Nearby in Agent Mode
 
 - Earlier: 2026-10-16 · Cursor · [[Changes/Cursor/2026-10-16-canvases-from-cloud-agents|Canvases from cloud agents]]
-- Later: 2026-10-20 · Cursor · [[Changes/Cursor/2026-10-20-deploy-agents-wherever-you-need-them|Deploy agents wherever you need them]]
+- Later: 2026-10-19 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-10-19-2-agent-mode-changes-in-v1-0-100|2 Agent Mode changes in v1.0.100]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

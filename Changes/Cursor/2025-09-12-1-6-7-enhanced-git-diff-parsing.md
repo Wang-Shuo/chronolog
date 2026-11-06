@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 2cbd7764e36b9a5a3df9b883f977a598b3c49b84610f1a38d0cc62d398fb3325
+machine_hash: 540f44fb6e996c615b5411020cbb8511f85092f9e8ec92b161a51ed33b39d548
 product: cursor
 product_name: Cursor
 record:
@@ -42,10 +42,12 @@ record:
   title: '1.6.7: Enhanced git diff parsing'
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-05-15-new-tab-model|New Tab model]]'
-- '[[Changes/Cursor/2025-07-29-active-tab-in-chat|Active Tab in Chat]]'
-- '[[Changes/Cursor/2025-08-21-tab-now-aware-of-full-notebook|Tab now aware of full
-  notebook]]'
+- '[[Changes/Gemini CLI/2025-08-27-2-editor-experience-changes-in-v0-2-0|2 Editor
+  Experience changes in v0.2.0]]'
+- '[[Changes/Gemini CLI/2025-09-04-7-editor-experience-changes-in-v0-3-0|7 Editor
+  Experience changes in v0.3.0]]'
+- '[[Changes/Gemini CLI/2025-09-09-4-editor-experience-changes-in-v0-4-0|4 Editor
+  Experience changes in v0.4.0]]'
 source_release: '[[Releases/Cursor/cursor-2025-09-12-1-6-https-cursor-com-changelog-1-6-f33fb3ea|cursor-2025-09-12-1-6-https-cursor-com-changelog-1-6-f33fb3ea]]'
 source_type: cursor_changelog
 theme: editor-experience
@@ -83,8 +85,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2025-08-21 · Cursor · [[Changes/Cursor/2025-08-21-tab-now-aware-of-full-notebook|Tab now aware of full notebook]]
-- Later: 2025-09-29 · Cursor · [[Changes/Cursor/2025-09-29-when-writing-prompts-autocomplete-suggestions-will-appear-based-on-recent-change|Autocomplete for Agent]]
+- Earlier: 2025-09-09 · Gemini CLI · [[Changes/Gemini CLI/2025-09-09-4-editor-experience-changes-in-v0-4-0|4 Editor Experience changes in v0.4.0]]
+- Later: 2025-09-15 · Codex CLI · [[Changes/Codex CLI/2025-09-15-add-readme-ide-3494|add(readme): IDE (♯3494)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

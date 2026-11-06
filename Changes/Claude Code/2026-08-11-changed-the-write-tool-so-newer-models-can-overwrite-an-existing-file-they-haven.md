@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: d1c858626e8f2b4724fd614f4a1162d1911b8d223756106e21c816f33fa51d57
+machine_hash: c53fb596b029635d2d7bc137389cee3e2ba0d207b659132aa7bf6a76bec492dd
 product: claude-code
 product_name: Claude Code
 record:
@@ -46,12 +46,12 @@ record:
     haven't…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-08-04-improved-the-refusal-when-claude-tries-to-invoke-a-skill-with-disable-model-invo|Improved
-  the refusal when Claude tries to invoke a skill with disable-model-invocation]]'
-- '[[Changes/ChatGPT/2026-08-06-plus-and-pro-users-can-now-use-an-updated-gpt-5-6-sol-in-chatgpt-with-more-relia-397840|Updates
-  to GPT‑5.6 in ChatGPT]]'
-- '[[Changes/Claude Code/2026-08-07-changed-the-bash-tool-description-to-always-note-that-command-output-is-displaye|Changed
-  the Bash tool description to always note that command output is displayed…]]'
+- '[[Changes/OpenHands/2026-08-07-feat-show-per-run-llm-cost-in-the-activity-log-and-exports-by-hieptl-in-https-gi|feat:
+  show per-run LLM cost in the Activity Log and exports]]'
+- '[[Changes/Cline/2026-08-09-retry-network-interruptions-that-happen-mid-stream-but-before-any-model-output-i|Retry
+  network interruptions that happen mid-stream but before any model output…]]'
+- '[[Changes/GitHub Copilot CLI/2026-08-10-3-model-support-changes-in-v1-0-79|3 Model
+  Support changes in v1.0.79]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-08-11-v2-1-228-github-368745796-47d0c6b9|claude-code-2026-08-11-v2-1-228-github-368745796-47d0c6b9]]'
 source_type: github_releases
 theme: model-support
@@ -85,8 +85,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-08-07 · Claude Code · [[Changes/Claude Code/2026-08-07-changed-the-bash-tool-description-to-always-note-that-command-output-is-displaye|Changed the Bash tool description to always note that command output is displayed…]]
-- Later: 2026-08-14 · Claude Code · [[Changes/Claude Code/2026-08-14-2-model-support-changes-in-v2-1-233|2 Model Support changes in v2.1.233]]
+- Earlier: 2026-08-10 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-08-10-3-model-support-changes-in-v1-0-79|3 Model Support changes in v1.0.79]]
+- Later: 2026-08-11 · Cline · [[Changes/Cline/2026-08-11-2-model-support-changes-in-v4-1-8|2 Model Support changes in v4.1.8]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 59431c89af00e8f7ded5a0850564b6e55430b926187989ed65cf2970d16c195f
+machine_hash: 97dd7adcb15b928410a9a317acb6f8570474b9ef9eff759b82089a153c218ccc
 product: cursor
 product_name: Cursor
 record:
@@ -40,10 +40,12 @@ record:
   title: Active Tab in Chat
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-03-23-0-48-2-allows-users-to-accept-reject-file-edited-in-another-chat-tab|0.48.2
-  - Allows users to accept/reject file edited in another chat tab]]'
-- '[[Changes/Cursor/2025-03-23-chat-tabs|Chat tabs]]'
-- '[[Changes/Cursor/2025-05-15-new-tab-model|New Tab model]]'
+- '[[Changes/Cline/2025-07-22-3-editor-experience-changes-in-v3-19-8|3 Editor Experience
+  changes in v3.19.8]]'
+- '[[Changes/Gemini CLI/2025-07-25-19-editor-experience-changes-in-v0-1-14|19 Editor
+  Experience changes in v0.1.14]]'
+- '[[Changes/Cline/2025-07-26-add-an-rpc-to-the-host-bridge-to-scroll-the-diff-viewer-by-sjf-in-https-github-c|Add
+  an RPC to the host bridge to scroll the diff viewer]]'
 source_release: '[[Releases/Cursor/cursor-2025-07-29-1-3-https-cursor-com-changelog-1-3-d153efc3|cursor-2025-07-29-1-3-https-cursor-com-changelog-1-3-d153efc3]]'
 source_type: cursor_changelog
 theme: editor-experience
@@ -81,8 +83,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2025-05-15 · Cursor · [[Changes/Cursor/2025-05-15-new-tab-model|New Tab model]]
-- Later: 2025-08-21 · Cursor · [[Changes/Cursor/2025-08-21-tab-now-aware-of-full-notebook|Tab now aware of full notebook]]
+- Earlier: 2025-07-26 · Cline · [[Changes/Cline/2025-07-26-add-an-rpc-to-the-host-bridge-to-scroll-the-diff-viewer-by-sjf-in-https-github-c|Add an RPC to the host bridge to scroll the diff viewer]]
+- Later: 2025-07-30 · Gemini CLI · [[Changes/Gemini CLI/2025-07-30-19-editor-experience-changes-in-v0-1-15|19 Editor Experience changes in v0.1.15]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

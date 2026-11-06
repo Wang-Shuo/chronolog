@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 1a260f7a5ead546ba1d9dc44c6f3486954a7077a5a780ccf607c5293c1dc7cf1
+machine_hash: 22d4f155cedea58c9db3b2932d19f2dca3624719dc40b1eb68cb59d845132a1e
 product: cursor
 product_name: Cursor
 record:
@@ -46,11 +46,12 @@ record:
   title: Launch Background Agents directly from Slack by mentioning @Cursor
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-06-04-agent-in-jupyter-notebooks|Agent in Jupyter Notebooks]]'
 - '[[Changes/Cursor/2025-06-04-background-agent-for-everyone-8b35dc|Background Agent
   for everyone]]'
 - '[[Changes/Cursor/2025-06-04-this-release-brings-bugbot-for-code-review-a-first-look-at-memories-one-click-mc|Cursor
   brings Bugbot for code review, a first look at memories, one-click MCP setup…]]'
+- '[[Changes/OpenHands/2025-06-10-ensured-prs-opened-by-agent-is-properly-tracked-in-conversation-metadata-by-malh|Ensured
+  PRs opened by agent is properly tracked in conversation metadata]]'
 source_release: '[[Releases/Cursor/cursor-2025-06-12-1-1-https-cursor-com-changelog-1-1-0f0190fc|cursor-2025-06-12-1-1-https-cursor-com-changelog-1-1-0f0190fc]]'
 source_type: cursor_changelog
 theme: agent-mode
@@ -84,8 +85,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2025-06-04 · Cursor · [[Changes/Cursor/2025-06-04-this-release-brings-bugbot-for-code-review-a-first-look-at-memories-one-click-mc|Cursor brings Bugbot for code review, a first look at memories, one-click MCP setup…]]
-- Later: 2025-07-03 · Cursor · [[Changes/Cursor/2025-07-03-let-agent-resolve-merge-conflicts|Let Agent resolve merge conflicts]]
+- Earlier: 2025-06-10 · OpenHands · [[Changes/OpenHands/2025-06-10-ensured-prs-opened-by-agent-is-properly-tracked-in-conversation-metadata-by-malh|Ensured PRs opened by agent is properly tracked in conversation metadata]]
+- Later: 2025-06-20 · OpenHands · [[Changes/OpenHands/2025-06-20-fixed-incorrect-tracking-for-cost-and-token-usage-for-main-agent-and-delegates-b|Fixed incorrect tracking for cost and token usage for main agent and delegates]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

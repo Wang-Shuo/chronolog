@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 70b2981aa9135d085935c26e336501f48cf1fd66e17bcd08b98c67f5b2eb9ed3
+machine_hash: 50afa1eb5bd2720a9e54a764bdf54ee2639b56a7892a48d93348614a511dc84c
 product: claude-code
 product_name: Claude Code
 record:
@@ -89,10 +89,10 @@ record:
   title: 14 Apps and Integrations changes in v2.1.295
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-06-9-apps-and-integrations-changes-in-v2-1-292|9
-  Apps and Integrations changes in v2.1.292]]'
-- '[[Changes/Claude Code/2026-10-07-3-apps-and-integrations-changes-in-v2-1-293|3
-  Apps and Integrations changes in v2.1.293]]'
+- '[[Changes/Codex CLI/2026-10-07-5-apps-and-integrations-changes-in-rust-v0-161-0|5
+  Apps and Integrations changes in rust-v0.161.0]]'
+- '[[Changes/GitHub Copilot CLI/2026-10-07-2-apps-and-integrations-changes-in-v1-0-93|2
+  Apps and Integrations changes in v1.0.93]]'
 - '[[Changes/Claude Code/2026-10-08-improved-how-prompt-hooks-on-stop-and-subagentstop-written-as-instructions-such|Improved
   how prompt hooks on Stop and SubagentStop written as instructions…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-10-08-v2-1-295-github-407134589-d5c87510|claude-code-2026-10-08-v2-1-295-github-407134589-d5c87510]]'
@@ -163,7 +163,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.295
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-10-08 · Claude Code · [[Changes/Claude Code/2026-10-08-improved-how-prompt-hooks-on-stop-and-subagentstop-written-as-instructions-such|Improved how prompt hooks on Stop and SubagentStop written as instructions…]]
-- Later: 2026-10-09 · Claude Code · [[Changes/Claude Code/2026-10-09-3-apps-and-integrations-changes-in-v2-1-296|3 Apps and Integrations changes in v2.1.296]]
+- Later: 2026-10-08 · Codex CLI · [[Changes/Codex CLI/2026-10-08-20-apps-and-integrations-changes-in-rust-v0-162-0|20 Apps and Integrations changes in rust-v0.162.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

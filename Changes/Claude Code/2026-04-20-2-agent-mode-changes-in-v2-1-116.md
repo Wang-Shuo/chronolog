@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 62675a5f3ba556e8b1b986335f14cd15e8c48a6b31330f76a9105a50640e6694
+machine_hash: 6aed1cd681a362091e2331c70186bffd85ee41b870a3d5dbdc2e9e6231ade23e
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,12 +45,12 @@ record:
   title: 2 Agent Mode changes in v2.1.116
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-04-14-ask-a-quick-side-question-without-derailing-the-agent-s-main-task-btw-allows-you|/btw
-  support in CLI]]'
-- '[[Changes/Claude Code/2026-04-16-auto-mode-no-longer-requires-enable-auto-mode|Auto
-  mode no longer requires --enable-auto-mode]]'
+- '[[Changes/GitHub Copilot CLI/2026-04-16-agent-correctly-identifies-repository-owner-from-git-remote-url-rather-than-loca|Agent
+  correctly identifies repository owner from git remote URL rather than local username]]'
 - '[[Changes/Claude Code/2026-04-17-subagents-that-stall-mid-stream-now-fail-with-a-clear-error-after-10-minutes-ins|Subagents
   that stall mid-stream now fail with a clear error after 10 minutes instead…]]'
+- '[[Changes/GitHub Copilot CLI/2026-04-17-attach-supported-document-files-to-prompts-for-the-agent-to-read-and-reason-abou|Attach
+  supported document files to prompts for the agent to read and reason about]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-04-20-v2-1-116-github-311446114-3b24dc7e|claude-code-2026-04-20-v2-1-116-github-311446114-3b24dc7e]]'
 source_type: github_releases
 theme: agent-mode
@@ -88,8 +88,8 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.116
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2026-04-17 · Claude Code · [[Changes/Claude Code/2026-04-17-subagents-that-stall-mid-stream-now-fail-with-a-clear-error-after-10-minutes-ins|Subagents that stall mid-stream now fail with a clear error after 10 minutes instead…]]
-- Later: 2026-04-22 · Claude Code · [[Changes/Claude Code/2026-04-22-2-agent-mode-changes-in-v2-1-117|2 Agent Mode changes in v2.1.117]]
+- Earlier: 2026-04-17 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-04-17-attach-supported-document-files-to-prompts-for-the-agent-to-read-and-reason-abou|Attach supported document files to prompts for the agent to read and reason about]]
+- Later: 2026-04-20 · Codex CLI · [[Changes/Codex CLI/2026-04-20-10-agent-mode-changes-in-rust-v0-122-0|10 Agent Mode changes in rust-v0.122.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

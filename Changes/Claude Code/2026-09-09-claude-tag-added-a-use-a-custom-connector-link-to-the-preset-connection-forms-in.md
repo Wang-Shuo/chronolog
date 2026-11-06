@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: e73e80721b32b1f2ca0fe602af74d77f45eb69a275db2562d9d028da2f15bb0b
+machine_hash: a2498debde6fc0a36adcc9f50ccb54b9f9ff0205ceb9dfb348beeaabd0333883
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,10 +45,10 @@ record:
     forms…'
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-03-added-reload-plugins-to-headless-sessions-so-it-appears-in-the-claude-code-deskt|Added
-  /reload-plugins to headless sessions, so it appears in the Claude Code…]]'
 - '[[Changes/Claude Code/2026-09-04-vscode-added-an-add-server-form-and-a-remove-action-to-the-mcp-servers-dialog-so|VSCode
   Added an Add server form and a Remove action to the MCP servers dialog…]]'
+- '[[Changes/GitHub Copilot CLI/2026-09-04-7-apps-and-integrations-changes-in-v1-0-83|7
+  Apps and Integrations changes in v1.0.83]]'
 - '[[Changes/Claude Code/2026-09-08-4-apps-and-integrations-changes-in-v2-1-265|4
   Apps and Integrations changes in v2.1.265]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-09-v2-1-267-github-385748811-6409148e|claude-code-2026-09-09-v2-1-267-github-385748811-6409148e]]'
@@ -86,7 +86,7 @@ type: change
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-09-08 · Claude Code · [[Changes/Claude Code/2026-09-08-4-apps-and-integrations-changes-in-v2-1-265|4 Apps and Integrations changes in v2.1.265]]
-- Later: 2026-09-10 · ChatGPT · [[Changes/ChatGPT/2026-09-10-the-data-plugin-helps-you-analyze-connected-business-data-in-chatgpt-work-and-co|Data plugin in ChatGPT Work and Codex]]
+- Later: 2026-09-09 · Codex CLI · [[Changes/Codex CLI/2026-09-09-19-apps-and-integrations-changes-in-rust-v0-154-0|19 Apps and Integrations changes in rust-v0.154.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

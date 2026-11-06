@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 8309be9130ff2890993b95809871a68bbea6e6ea97af8175cc1f3fb76bfad7d3
+machine_hash: c427d0c3b08931c3a156d2dd7fbe701a9a4e09a2304d46efbfff82b7d0352ce7
 product: cursor
 product_name: Cursor
 record:
@@ -77,7 +77,7 @@ type: change
 ## Nearby in Safety and Privacy
 
 - Earlier: 2026-05-01 · Claude Code · [[Changes/Claude Code/2026-05-01-3-safety-and-privacy-changes-in-v2-1-126|3 Safety and Privacy changes in v2.1.126]]
-- Later: 2026-05-04 · Claude Code · [[Changes/Claude Code/2026-05-04-sdk-hosts-now-receive-a-persistent-localsettings-suggestion-for-bash-permission|SDK hosts now receive a persistent localSettings suggestion for Bash permission…]]
+- Later: 2026-05-01 · OpenHands · [[Changes/OpenHands/2026-05-01-added-sandbox-kvm-enabled-environment-variable-to-enable-passing-dev-kvm-to-sand|Added SANDBOX_KVM_ENABLED environment variable to enable passing /dev/kvm to sandbox…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

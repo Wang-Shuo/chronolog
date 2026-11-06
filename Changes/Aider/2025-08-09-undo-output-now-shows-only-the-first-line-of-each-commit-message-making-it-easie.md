@@ -1,0 +1,94 @@
+---
+card_id: aider-2025-08-09-0db0f1
+date: '2025-08-09'
+description: 'Aider · 2025-08-09 · Developer Workflow: `/undo` output now shows only
+  the first line of each commit message, making it easier to read.'
+diffusion:
+  first_in_tracked: '[[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]'
+  inference: No adoption, equivalence, or causation claim.
+  lag_days: 875
+  relation: same-theme-chronology
+  role: later-observed
+  scope: tracked-products-only
+  theme: developer-workflow
+  tracked_products_count: 10
+evolves_from: []
+extractor_version: fallback-v5
+impact: incremental
+kind: change
+machine_hash: 281a7e467be2b9694e333e584c9d6de76e811d09c7abbd727be59ff7c2f08c95
+product: aider
+product_name: Aider
+record:
+  card_id: aider-2025-08-09-0db0f1
+  comparison: ''
+  date: '2025-08-09'
+  description: 'Aider — Aider v0.86.0: `/undo` output now shows only the first line
+    of each commit message, making it easier to read.'
+  evidence:
+  - quote: '`/undo` output now shows only the first line of each commit message, making
+      it easier to read.'
+    source_release: https://github.com/Aider-AI/aider/releases/tag/v0.86.0
+  extractor_version: fallback-v5
+  impact: incremental
+  kind: change
+  product: aider
+  product_name: Aider
+  slug: undo-output-now-shows-only-the-first-line-of-each-commit-message-making-it-easie
+  source_release: aider-2025-08-09-v0-86-0-github-238790002-787ef322
+  source_type: github_releases
+  theme: developer-workflow
+  theme_matches: []
+  theme_resolution: manual-semantic-rule-v1
+  title: '`/undo` output now shows only the first line of each commit message, making…'
+  type: change
+related_changes:
+- '[[Changes/Gemini CLI/2025-08-02-26-developer-workflow-changes-in-v0-1-16|26 Developer
+  Workflow changes in v0.1.16]]'
+- '[[Changes/Gemini CLI/2025-08-05-30-developer-workflow-changes-in-v0-1-17|30 Developer
+  Workflow changes in v0.1.17]]'
+- '[[Changes/Gemini CLI/2025-08-06-31-developer-workflow-changes-in-v0-1-18|31 Developer
+  Workflow changes in v0.1.18]]'
+source_release: '[[Releases/Aider/aider-2025-08-09-v0-86-0-github-238790002-787ef322|aider-2025-08-09-v0-86-0-github-238790002-787ef322]]'
+source_type: github_releases
+theme: developer-workflow
+title: /undo output now shows only the first line of each commit message, making…
+type: change
+---
+
+<!-- chronolog:begin region="header" -->
+# `/undo` output now shows only the first line of each commit message, making…
+
+**Aider** · 2025-08-09 · [[Themes/developer-workflow|Developer Workflow]] · [Official source](https://github.com/Aider-AI/aider/releases/tag/v0.86.0) · from [[Releases/Aider/aider-2025-08-09-v0-86-0-github-238790002-787ef322|Aider v0.86.0]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="evidence" -->
+> `/undo` output now shows only the first line of each commit message, making it easier to read.
+>
+> Source: https://github.com/Aider-AI/aider/releases/tag/v0.86.0
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="context" -->
+## Also in this release
+
+- [[Changes/Aider/2025-08-09-5-model-support-changes-in-v0-86-0|5 Model Support changes in v0.86.0]] · Model Support
+- [[Changes/Aider/2025-08-09-clear-now-prints-all-chat-history-cleared-so-you-know-it-worked-by-zexin-yuan|/clear now prints “All chat history cleared.” so you know it worked, by Zexin Yuan]] · Interface Experience
+- [[Changes/Aider/2025-08-09-2-other-changes-in-v0-86-0|2 other changes in v0.86.0]] · Other changes
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="nearby" -->
+## Nearby in Developer Workflow
+
+- Earlier: 2025-08-06 · Gemini CLI · [[Changes/Gemini CLI/2025-08-06-31-developer-workflow-changes-in-v0-1-18|31 Developer Workflow changes in v0.1.18]]
+- Later: 2025-08-09 · Cline · [[Changes/Cline/2025-08-09-revert-unnecessary-terminal-command-issue-workarounds-by-saoudrizwan-in-https-gi|Revert unnecessary terminal command issue workarounds]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="relations" -->
+## Related
+
+- Earliest same-theme entry in the tracked set: 2023-03-18 · Cursor · [[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="footer" -->
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20aider-2025-08-09-0db0f1&body=Card%3A%20Changes%2FAider%2F2025-08-09-undo-output-now-shows-only-the-first-line-of-each-commit-message-making-it-easie.md%0ACard%20ID%3A%20aider-2025-08-09-0db0f1%0ASource%3A%20https%3A%2F%2Fgithub.com%2FAider-AI%2Faider%2Freleases%2Ftag%2Fv0.86.0%0A%0AWhat%20should%20be%20corrected%3F%0A)
+<!-- chronolog:end -->

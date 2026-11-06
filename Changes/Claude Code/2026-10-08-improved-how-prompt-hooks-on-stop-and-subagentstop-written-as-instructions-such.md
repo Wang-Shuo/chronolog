@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 616f4a4fb916144fe897800e39063b2a40b5c780cc1e21223eb9a69a55de1c2e
+machine_hash: f0f9eb941b7166cba282273aa2b9e9d73a6bb9af15337748325714cb3816337a
 product: claude-code
 product_name: Claude Code
 record:
@@ -47,12 +47,12 @@ record:
   title: Improved how `prompt` hooks on Stop and SubagentStop written as instructions…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-05-14-apps-and-integrations-changes-in-v2-1-290|14
-  Apps and Integrations changes in v2.1.290]]'
-- '[[Changes/Claude Code/2026-10-06-9-apps-and-integrations-changes-in-v2-1-292|9
-  Apps and Integrations changes in v2.1.292]]'
-- '[[Changes/Claude Code/2026-10-07-3-apps-and-integrations-changes-in-v2-1-293|3
-  Apps and Integrations changes in v2.1.293]]'
+- '[[Changes/Cline/2026-10-07-when-an-mcp-tool-returns-more-output-than-fits-in-context-cline-can-now-read-the|When
+  an MCP tool returns more output than fits in context, Cline can now read the rest]]'
+- '[[Changes/Codex CLI/2026-10-07-5-apps-and-integrations-changes-in-rust-v0-161-0|5
+  Apps and Integrations changes in rust-v0.161.0]]'
+- '[[Changes/GitHub Copilot CLI/2026-10-07-2-apps-and-integrations-changes-in-v1-0-93|2
+  Apps and Integrations changes in v1.0.93]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-10-08-v2-1-294-github-406385982-681de204|claude-code-2026-10-08-v2-1-294-github-406385982-681de204]]'
 source_type: github_releases
 theme: apps-integrations
@@ -79,7 +79,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-10-07 · Claude Code · [[Changes/Claude Code/2026-10-07-3-apps-and-integrations-changes-in-v2-1-293|3 Apps and Integrations changes in v2.1.293]]
+- Earlier: 2026-10-07 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-10-07-2-apps-and-integrations-changes-in-v1-0-93|2 Apps and Integrations changes in v1.0.93]]
 - Later: 2026-10-08 · Claude Code · [[Changes/Claude Code/2026-10-08-14-apps-and-integrations-changes-in-v2-1-295|14 Apps and Integrations changes in v2.1.295]]
 <!-- chronolog:end -->
 

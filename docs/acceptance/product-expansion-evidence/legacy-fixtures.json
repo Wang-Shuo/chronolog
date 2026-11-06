@@ -1,0 +1,33 @@
+{
+  "superseded_cards": [
+    "aider-2023-01-10-b552e3",
+    "aider-2023-01-10-3d766e",
+    "aider-2025-01-20-d2e795",
+    "aider-2025-01-20-55f735",
+    "openhands-2023-06-21-ebc797",
+    "openhands-2023-06-21-6a2d25",
+    "openhands-2026-01-10-3534d8",
+    "openhands-2026-01-10-607f28"
+  ],
+  "superseded_releases": [
+    "2023-01-10-aider-2023-01-10-v0-22",
+    "2025-01-20-aider-2025-01-20-v0-72",
+    "2023-06-21-openhands-2023-06-21-v0-7",
+    "2026-01-10-openhands-2026-01-10-v1-0"
+  ],
+  "files": [
+    "Releases/Aider/2023-01-10-aider-2023-01-10-v0-22.md",
+    "Releases/Aider/2025-01-20-aider-2025-01-20-v0-72.md",
+    "Changes/Aider/2023-01-10-editor-integration-improves-autocomplete-handoff.md",
+    "Changes/Aider/2025-01-20-agent-workflow-can-inspect-repository-files-before-edits.md",
+    "Changes/Aider/2025-01-20-pricing-documentation-explains-usage-based-api-costs.md",
+    "Changes/Aider/2023-01-10-added-model-support-for-claude-and-gpt-coding-workflows.md",
+    "Releases/OpenHands/2026-01-10-openhands-2026-01-10-v1-0.md",
+    "Releases/OpenHands/2023-06-21-openhands-2023-06-21-v0-7.md",
+    "Changes/OpenHands/2023-06-21-agent-runtime-can-execute-shell-commands-in-a-sandbox.md",
+    "Changes/OpenHands/2026-01-10-context-window-handling-improves-long-running-repository-tasks.md",
+    "Changes/OpenHands/2023-06-21-model-support-adds-configurable-provider-routing.md",
+    "Changes/OpenHands/2026-01-10-collaboration-workflow-lets-reviewers-approve-agent-actions.md"
+  ],
+  "applied_files": 12
+}

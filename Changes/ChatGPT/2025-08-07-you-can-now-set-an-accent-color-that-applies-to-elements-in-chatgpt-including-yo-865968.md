@@ -4,20 +4,20 @@ date: '2025-08-07'
 description: 'ChatGPT · 2025-08-07 · Voice and Audio: You can now set an accent color
   that applies to elements in ChatGPT, including your conversation bubbles, the Voice…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-09-25-you-can-now-use-voice-to-engage-in-a-back-and-forth-conversation-with-your-assis-13666e|Voice
-    (Beta) is now rolling out to Plus users on iOS and Android]]'
+  first_in_tracked: '[[Changes/Aider/2023-08-11-voice-to-code-https-aider-chat-docs-voice-html-support-which-allows-you-to-code|Voice-to-code((source
+    link) support, which allows you…]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 682
+  lag_days: 727
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 74a1db1b290ef414b7651cce9ecf169a34cb750c23a5000dc14bfc4e58c4db9b
+machine_hash: 52b5f7842c61abdba49bd8f82bd239e155079a45e65b76ebc2344d32f702ce8f
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -63,10 +63,9 @@ record:
   title: Accent Colors
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2025-07-16-record-live-conversations-like-team-meetings-or-voice-notes-and-turn-those-into|Record
-  live conversations like team meetings or voice notes, and turn those…]]'
 - '[[Changes/ChatGPT/2025-07-17-the-advanced-voice-upgrades-we-announced-on-june-7th-are-now-rolling-out-to-chat|Updates
   to Advanced Voice Mode for Free tier users]]'
+- '[[Changes/Windsurf/2025-07-17-voice|Voice]]'
 - '[[Changes/ChatGPT/2025-08-07-today-we-re-rolling-out-improvements-to-voice-mode-to-make-it-more-accessible-an-055388|ChatGPT
   Voice updates]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-08-07-accent-colors-d6573a1d|chatgpt-2025-08-07-accent-colors-d6573a1d]]'
@@ -102,7 +101,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-09-25 · ChatGPT · [[Changes/ChatGPT/2023-09-25-you-can-now-use-voice-to-engage-in-a-back-and-forth-conversation-with-your-assis-13666e|Voice (Beta) is now rolling out to Plus users on iOS and Android]]
+- Earliest same-theme entry in the tracked set: 2023-08-11 · Aider · [[Changes/Aider/2023-08-11-voice-to-code-https-aider-chat-docs-voice-html-support-which-allows-you-to-code|Voice-to-code((source link) support, which allows you…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

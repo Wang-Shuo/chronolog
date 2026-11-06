@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 3d456fa04f2053ee6d1ca3895139e341469985181caa6ac5e187b9432db08ff6
+machine_hash: 992710c434de0d407bf3d3114ced87004141c54c79372c6bae7e0c960dd5617e
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -44,10 +44,10 @@ record:
   title: For the next month, dots usage won’t count toward eligible Pro, Business…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-17-claude-tag-improved-claude-s-notices-in-enterprise-grid-channels-shared-across-w|Claude
-  Tag Improved Claude''s notices in Enterprise Grid channels shared across…]]'
 - '[[Changes/Claude Code/2026-09-18-2-enterprise-and-administration-changes-in-v2-1-277|2
   Enterprise and Administration changes in v2.1.277]]'
+- '[[Changes/OpenHands/2026-09-22-feat-open-git-sync-to-org-admins-on-cloud-backends-by-hieptl-in-https-github-com|feat:
+  open Git Sync to org admins on cloud backends]]'
 - '[[Changes/Claude Code/2026-09-28-claude-tag-improved-notify-members-now-in-admin-settings-one-press-reaches-every|Claude
   Tag Improved "Notify members now" in admin settings]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-09-29-meet-your-dot-8b9f914b|chatgpt-2026-09-29-meet-your-dot-8b9f914b]]'

@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 451153620dda4d8e8c2b562209542a7ea09546e0420ad3e29205d076f9b92b78
+machine_hash: 6d89e04d2f8a05eb995ebc131543a2dcec4f86837afeca6f9d1cb2e94c2c980d
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -41,8 +41,8 @@ record:
   title: Advanced data analysis
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2024-05-16-today-we-re-starting-to-roll-out-enhancements-to-data-analysis-6433a3|Today,
-  we’re starting to roll out enhancements to data analysis]]'
+- '[[Changes/OpenHands/2024-06-29-2-files-and-data-changes-in-0-7-0|2 Files and Data
+  changes in 0.7.0]]'
 - '[[Changes/ChatGPT/2024-11-22-the-sidebar-when-pinned-can-now-stay-open-with-an-active-canvas-if-enough-space|The
   sidebar when pinned can now stay open with an active Canvas if enough space…]]'
 - '[[Changes/ChatGPT/2024-12-10-today-we-made-canvas-available-in-4o-by-default-for-all-users-free-and-paid-addi-5aaec4|Canvas]]'

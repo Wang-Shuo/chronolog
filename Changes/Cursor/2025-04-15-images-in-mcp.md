@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 506f4cb0b294c149458e230173a8aa7e351ed44723e4013c336d8d5ebd95a161
+machine_hash: 2d544966bb4a203e200677915cfdf8dce058e47908db321abebaca9ce422e34c
 product: cursor
 product_name: Cursor
 record:
@@ -45,11 +45,12 @@ record:
   title: Images in MCP
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-02-19-mcp-improvements|MCP improvements]]'
-- '[[Changes/Cursor/2025-03-11-mcp-added-global-server-configuration-with-cursor-mcp-json-and-support-for-envir|MCP:
-  Added global server configuration with ~/.cursor/mcp.json and support…]]'
-- '[[Changes/Cursor/2025-03-23-3-apps-and-integrations-changes-in-0-48-x|3 Apps and
-  Integrations changes in 0.48.x]]'
+- '[[Changes/Windsurf/2025-04-07-increased-stability-around-mcp-sse-connections|Increased
+  stability around MCP SSE connections]]'
+- '[[Changes/Cline/2025-04-08-add-modal-in-the-chat-area-to-more-easily-enable-or-disable-mcp-servers|Add
+  modal in the chat area to more easily enable or disable MCP servers]]'
+- '[[Changes/Cline/2025-04-12-add-settings-button-to-mcp-popover-to-easily-modify-installed-servers|Add
+  settings button to MCP popover to easily modify installed servers]]'
 source_release: '[[Releases/Cursor/cursor-2025-04-15-0-49-https-cursor-com-changelog-0-49-3e16488f|cursor-2025-04-15-0-49-https-cursor-com-changelog-0-49-3e16488f]]'
 source_type: cursor_changelog
 theme: apps-integrations
@@ -83,8 +84,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2025-03-23 · Cursor · [[Changes/Cursor/2025-03-23-3-apps-and-integrations-changes-in-0-48-x|3 Apps and Integrations changes in 0.48.x]]
-- Later: 2025-05-15 · ChatGPT · [[Changes/ChatGPT/2025-05-15-the-github-connector-is-now-available-globally-to-plus-pro-team-users-including|GitHub connector for deep research]]
+- Earlier: 2025-04-12 · Cline · [[Changes/Cline/2025-04-12-add-settings-button-to-mcp-popover-to-easily-modify-installed-servers|Add settings button to MCP popover to easily modify installed servers]]
+- Later: 2025-04-16 · OpenHands · [[Changes/OpenHands/2025-04-16-added-support-for-mcp-servers-natively-via-codeactagent-by-ducphamle2-in-https-g|Added support for MCP servers natively via CodeActAgent]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

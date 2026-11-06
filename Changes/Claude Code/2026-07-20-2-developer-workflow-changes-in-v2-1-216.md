@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 7b89a53bee9c1c9d92ca7dbb58bf00cf19f0d23f73d249ffaf37d8f85968474c
+machine_hash: 041c9904f27e9b96240ee5459de9db9bc1a1d08fd09796ad0e98eff5dda885fd
 product: claude-code
 product_name: Claude Code
 record:
@@ -43,8 +43,8 @@ record:
   title: 2 Developer Workflow changes in v2.1.216
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-07-14-agent-view-ctrl-x-now-deletes-renamed-branch-worktrees-never-destroys-unpushed-c|Agent
-  view: Ctrl+X now deletes renamed-branch worktrees, never destroys unpushed…]]'
+- '[[Changes/GitHub Copilot CLI/2026-07-16-8-developer-workflow-changes-in-v1-0-71|8
+  Developer Workflow changes in v1.0.71]]'
 - '[[Changes/Claude Code/2026-07-17-changed-enterprise-forceloginmethod-to-be-enforced-for-vs-code-extension-sdk-set|Changed
   Enterprise forceLoginMethod to be enforced for VS Code extension, SDK…]]'
 - '[[Changes/Claude Code/2026-07-19-claude-no-longer-runs-the-verify-and-code-review-skills-on-its-own-invoke-them-w|Claude
@@ -86,7 +86,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.216
 ## Nearby in Developer Workflow
 
 - Earlier: 2026-07-19 · Claude Code · [[Changes/Claude Code/2026-07-19-claude-no-longer-runs-the-verify-and-code-review-skills-on-its-own-invoke-them-w|Claude no longer runs the /verify and /code-review skills on its own]]
-- Later: 2026-07-21 · Claude Code · [[Changes/Claude Code/2026-07-21-improved-footer-pr-badge-links-to-be-clickable-hyperlinks-even-when-terminal-sup|Improved footer PR badge links to be clickable hyperlinks even when terminal support…]]
+- Later: 2026-07-20 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-07-20-8-developer-workflow-changes-in-v1-0-72|8 Developer Workflow changes in v1.0.72]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

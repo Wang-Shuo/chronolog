@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: c928a7e15a5d5767124401506a124592635e2753127ad628afc7e956ccccb8ab
+machine_hash: 8d974b7c0322f17a3a2cbe4810b7e50a59abf956a9770a0408f75f1810384342
 product: claude-code
 product_name: Claude Code
 record:
@@ -44,13 +44,12 @@ record:
   title: 2 Safety and Privacy changes in v2.1.187
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-06-17-added-sandbox-allowappleevents-opt-in-setting-that-lets-sandboxed-commands-send|Added
-  sandbox.allowAppleEvents opt-in setting that lets sandboxed commands send…]]'
-- '[[Changes/ChatGPT/2026-06-18-app-permission-controls-you-can-now-choose-when-chatgpt-asks-before-using-connec|App
-  permission controls: You can now choose when ChatGPT asks before using connected
-  apps]]'
+- '[[Changes/Codex CLI/2026-06-18-7-safety-and-privacy-changes-in-rust-v0-141-0|7
+  Safety and Privacy changes in rust-v0.141.0]]'
 - '[[Changes/Claude Code/2026-06-22-2-safety-and-privacy-changes-in-v2-1-186|2 Safety
   and Privacy changes in v2.1.186]]'
+- '[[Changes/Codex CLI/2026-06-22-12-safety-and-privacy-changes-in-rust-v0-142-0|12
+  Safety and Privacy changes in rust-v0.142.0]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-06-23-v2-1-187-github-343665388-744f9775|claude-code-2026-06-23-v2-1-187-github-343665388-744f9775]]'
 source_type: github_releases
 theme: safety-privacy
@@ -84,8 +83,8 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.187
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Safety and Privacy
 
-- Earlier: 2026-06-22 · Claude Code · [[Changes/Claude Code/2026-06-22-2-safety-and-privacy-changes-in-v2-1-186|2 Safety and Privacy changes in v2.1.186]]
-- Later: 2026-06-24 · Claude Code · [[Changes/Claude Code/2026-06-24-improved-sandbox-network-permission-dialog-hosts-you-allow-with-yes-are-now-reme|Improved sandbox network permission dialog]]
+- Earlier: 2026-06-22 · Codex CLI · [[Changes/Codex CLI/2026-06-22-12-safety-and-privacy-changes-in-rust-v0-142-0|12 Safety and Privacy changes in rust-v0.142.0]]
+- Later: 2026-06-23 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-06-23-6-safety-and-privacy-changes-in-v1-0-64|6 Safety and Privacy changes in v1.0.64]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

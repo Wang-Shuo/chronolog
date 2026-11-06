@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: da253a50e54ef5f09f128ccd31eb0c352829d2e9e5254afb96d1328b01505b31
+machine_hash: ef390d62b82ce91ea5b1f93e943f0691309b7b509b0872274d8d8361ae61242e
 product: cursor
 product_name: Cursor
 record:
@@ -48,12 +48,12 @@ record:
   title: 'New GPT-4 model: As of a couple of days ago, you can try out gpt-4-turbo-2024-04-09…'
   type: change
 related_changes:
-- '[[Changes/Cursor/2024-01-25-both-pro-and-api-key-users-can-also-try-out-gpt-4-0125-preview-by-configuring-th|Both
-  pro and API key users can also try out gpt-4-0125-preview by configuring…]]'
 - '[[Changes/Cursor/2024-03-12-if-you-re-a-pro-or-business-user-you-can-add-claude-3-opus-as-a-custom-model-in|Claude
   Support]]'
 - '[[Changes/Cursor/2024-03-20-stable-claude-support-all-the-newest-claude-models-are-available-for-pro-and-api|Stable
   Claude Support]]'
+- '[[Changes/Aider/2024-04-09-4-model-support-changes-in-v0-28-0|4 Model Support changes
+  in v0.28.0]]'
 source_release: '[[Releases/Cursor/cursor-2024-04-12-0-32-x-https-cursor-com-changelog-0-32-x-ce3690fc|cursor-2024-04-12-0-32-x-https-cursor-com-changelog-0-32-x-ce3690fc]]'
 source_type: cursor_changelog
 theme: model-support
@@ -84,8 +84,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2024-03-20 · Cursor · [[Changes/Cursor/2024-03-20-stable-claude-support-all-the-newest-claude-models-are-available-for-pro-and-api|Stable Claude Support]]
-- Later: 2024-05-13 · ChatGPT · [[Changes/ChatGPT/2024-05-13-gpt-4o-is-our-newest-flagship-model-that-provides-gpt-4-level-intelligence-that-297427|Introducing GPT-4o]]
+- Earlier: 2024-04-09 · Aider · [[Changes/Aider/2024-04-09-4-model-support-changes-in-v0-28-0|4 Model Support changes in v0.28.0]]
+- Later: 2024-04-21 · Aider · [[Changes/Aider/2024-04-21-4-model-support-changes-in-v0-29-0|4 Model Support changes in v0.29.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

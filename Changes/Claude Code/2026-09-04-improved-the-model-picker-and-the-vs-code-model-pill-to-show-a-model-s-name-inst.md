@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: a058a3217e42e77c1b58b755291187b819bdf2df2372edbf0c922740fbbb0d53
+machine_hash: 540d22bc8a6d5d6eaa0aeb57c4c521747c768c6107019c7793b8b407bd5405a9
 product: claude-code
 product_name: Claude Code
 record:
@@ -58,12 +58,12 @@ record:
     name…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-01-6-model-support-changes-in-v2-1-257|6 Model Support
-  changes in v2.1.257]]'
-- '[[Changes/ChatGPT/2026-09-03-today-we-re-introducing-gpt-6-astra-with-improvements-in-coding-research-compute-069f67|Introducing
-  GPT-6 Astra]]'
-- '[[Changes/Claude Code/2026-09-03-2-model-support-changes-in-v2-1-260|2 Model Support
-  changes in v2.1.260]]'
+- '[[Changes/Codex CLI/2026-09-03-2-model-support-changes-in-rust-v0-153-0|2 Model
+  Support changes in rust-v0.153.0]]'
+- '[[Changes/Codex CLI/2026-09-03-2-model-support-changes-in-rust-v0-153-1|2 Model
+  Support changes in rust-v0.153.1]]'
+- '[[Changes/Codex CLI/2026-09-03-2-model-support-changes-in-rust-v0-153-2|2 Model
+  Support changes in rust-v0.153.2]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-04-v2-1-261-github-382913543-2cb10519|claude-code-2026-09-04-v2-1-261-github-382913543-2cb10519]]'
 source_type: github_releases
 theme: model-support
@@ -101,8 +101,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-09-03 · Claude Code · [[Changes/Claude Code/2026-09-03-2-model-support-changes-in-v2-1-260|2 Model Support changes in v2.1.260]]
-- Later: 2026-09-09 · ChatGPT · [[Changes/ChatGPT/2026-09-09-chatgpt-voice-can-now-use-gpt-5-6-or-gpt-6-astra-when-it-needs-to-search-or-reas-848954|ChatGPT Voice can now use GPT-5.6 or GPT-6 Astra when it needs to search or reason…]]
+- Earlier: 2026-09-03 · Codex CLI · [[Changes/Codex CLI/2026-09-03-2-model-support-changes-in-rust-v0-153-2|2 Model Support changes in rust-v0.153.2]]
+- Later: 2026-09-04 · Codex CLI · [[Changes/Codex CLI/2026-09-04-3-model-support-changes-in-rust-v0-153-3|3 Model Support changes in rust-v0.153.3]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

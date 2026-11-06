@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 7db7fba49184dc4665a1dfd29aee70a8e0e9ebbb18971228ea244ed32ebb0415
+machine_hash: 08306cec6869a3a529a0f210e519f1bb483f42ea594708ff1f9fea51195a8996
 product: claude-code
 product_name: Claude Code
 record:
@@ -43,10 +43,10 @@ record:
     locking…'
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-14-3-editor-experience-changes-in-v2-1-271|3 Editor
-  Experience changes in v2.1.271]]'
 - '[[Changes/Claude Code/2026-09-15-claude-code-on-the-web-added-a-discard-unsaved-changes-confirmation-before-the-n|Claude
   Code on the web Added a "Discard unsaved changes?" confirmation before…]]'
+- '[[Changes/GitHub Copilot CLI/2026-09-16-9-editor-experience-changes-in-v1-0-85|9
+  Editor Experience changes in v1.0.85]]'
 - '[[Changes/Claude Code/2026-09-17-10-editor-experience-changes-in-v2-1-275|10 Editor
   Experience changes in v2.1.275]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-17-v2-1-274-github-390317660-0d9c7c5d|claude-code-2026-09-17-v2-1-274-github-390317660-0d9c7c5d]]'
@@ -90,7 +90,7 @@ type: change
 ## Nearby in Editor Experience
 
 - Earlier: 2026-09-17 · Claude Code · [[Changes/Claude Code/2026-09-17-10-editor-experience-changes-in-v2-1-275|10 Editor Experience changes in v2.1.275]]
-- Later: 2026-09-18 · Claude Code · [[Changes/Claude Code/2026-09-18-2-editor-experience-changes-in-v2-1-277|2 Editor Experience changes in v2.1.277]]
+- Later: 2026-09-17 · Codex CLI · [[Changes/Codex CLI/2026-09-17-2-editor-experience-changes-in-rust-v0-155-0|2 Editor Experience changes in rust-v0.155.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

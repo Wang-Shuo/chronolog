@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 55340b2078de3201bb5922f3cb85a993aba3d74d41a350bdd9215c52d1018bf7
+machine_hash: 20479a2990e208066bf66d91230e2e69a69c082e0414a9d24a601c077bec2720
 product: cursor
 product_name: Cursor
 record:
@@ -52,10 +52,10 @@ record:
   title: Environment configuration as code
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-05-08-2-developer-workflow-changes-in-v2-1-136|2 Developer
-  Workflow changes in v2.1.136]]'
-- '[[Changes/Claude Code/2026-05-11-added-hook-args-string-field-exec-form-that-spawns-the-command-directly-without|Added
-  hook args: string field (exec form) that spawns the command directly…]]'
+- '[[Changes/Gemini CLI/2026-05-12-2-developer-workflow-changes-in-v0-42-0|2 Developer
+  Workflow changes in v0.42.0]]'
+- '[[Changes/GitHub Copilot CLI/2026-05-12-long-lines-in-diff-view-wrap-at-terminal-width-instead-of-being-truncated|Long
+  lines in diff view wrap at terminal width instead of being truncated]]'
 - '[[Changes/Claude Code/2026-05-13-added-terminalsequence-field-to-hook-json-output-so-hooks-can-emit-desktop-notif|Added
   terminalSequence field to hook JSON output so hooks can emit desktop…]]'
 source_release: '[[Releases/Cursor/cursor-2026-05-13-3-4-https-cursor-com-changelog-05-13-26-685b1c4c|cursor-2026-05-13-3-4-https-cursor-com-changelog-05-13-26-685b1c4c]]'

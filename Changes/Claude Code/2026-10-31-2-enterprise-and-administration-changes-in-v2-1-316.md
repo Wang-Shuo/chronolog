@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 68e01dbe6668cef8b247ff0881a1930ab89720ad2b24113c41299bf233287597
+machine_hash: 9fd099a09455ee592f409389afc83744f75e6134c0d1ea1e45567730ada2d8c7
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,12 +45,12 @@ record:
   title: 2 Enterprise and Administration changes in v2.1.316
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-20-claude-tag-added-public-slack-channels-claude-hasn-t-joined-to-the-claude-tag-ad|Claude
-  Tag Added public Slack channels Claude hasn''t joined to the Claude Tag…]]'
 - '[[Changes/Claude Code/2026-10-23-cloud-sessions-added-claude-code-cloud-sessions-and-remote-control-permissions-t|Cloud
   sessions Added Claude Code cloud sessions and Remote Control permissions…]]'
 - '[[Changes/Claude Code/2026-10-30-3-enterprise-and-administration-changes-in-v2-1-314|3
   Enterprise and Administration changes in v2.1.314]]'
+- '[[Changes/Windsurf/2026-10-30-members-an-enterprise-admin-has-listed-for-anthropic-s-cyber-verification-progra|Members
+  an enterprise admin has listed for Anthropic''s Cyber Verification Program…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-10-31-v2-1-316-github-429617179-a30f32c9|claude-code-2026-10-31-v2-1-316-github-429617179-a30f32c9]]'
 source_type: github_releases
 theme: enterprise-admin
@@ -90,7 +90,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.316
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Enterprise and Administration
 
-- Earlier: 2026-10-30 · Claude Code · [[Changes/Claude Code/2026-10-30-3-enterprise-and-administration-changes-in-v2-1-314|3 Enterprise and Administration changes in v2.1.314]]
+- Earlier: 2026-10-30 · Windsurf · [[Changes/Windsurf/2026-10-30-members-an-enterprise-admin-has-listed-for-anthropic-s-cyber-verification-progra|Members an enterprise admin has listed for Anthropic's Cyber Verification Program…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

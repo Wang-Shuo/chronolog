@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 5af258056ca47aebbbf969bfac351e81ed07051dd3cd874ad19d961c54d35872
+machine_hash: 82e84d03d130af900c3d63fae896b3cdc0c67fd67d8e7468c983b342240398fc
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,12 +45,12 @@ record:
   title: Improved compaction progress
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-08-04-if-you-paste-more-than-10k-characters-into-the-composer-chatgpt-will-automatical-1bd022|If
-  you paste more than 10k characters into the composer, ChatGPT will automatically…]]'
-- '[[Changes/Claude Code/2026-08-04-improved-stats-panel-to-count-cache-tokens-in-its-token-totals-with-a-breakdown|Improved
-  Stats panel to count cache tokens in its token totals, with a breakdown…]]'
-- '[[Changes/Claude Code/2026-08-06-2-context-window-changes-in-v2-1-223|2 Context
-  Window changes in v2.1.223]]'
+- '[[Changes/Codex CLI/2026-08-07-10-context-window-changes-in-rust-v0-147-0|10 Context
+  Window changes in rust-v0.147.0]]'
+- '[[Changes/Cline/2026-08-09-2-context-window-changes-in-v4-1-7|2 Context Window
+  changes in v4.1.7]]'
+- '[[Changes/GitHub Copilot CLI/2026-08-10-compute-context-attribution-against-the-auto-resolved-model-so-token-totals-are|Compute
+  /context attribution against the Auto-resolved model so token totals…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-08-11-v2-1-228-github-368745796-47d0c6b9|claude-code-2026-08-11-v2-1-228-github-368745796-47d0c6b9]]'
 source_type: github_releases
 theme: context-window
@@ -83,8 +83,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Context Window
 
-- Earlier: 2026-08-06 · Claude Code · [[Changes/Claude Code/2026-08-06-2-context-window-changes-in-v2-1-223|2 Context Window changes in v2.1.223]]
-- Later: 2026-08-12 · Claude Code · [[Changes/Claude Code/2026-08-12-improved-prompt-is-too-long-errors-to-explain-why-automatic-compaction-could-not|Improved "prompt is too long" errors to explain why automatic compaction could not…]]
+- Earlier: 2026-08-10 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-08-10-compute-context-attribution-against-the-auto-resolved-model-so-token-totals-are|Compute /context attribution against the Auto-resolved model so token totals…]]
+- Later: 2026-08-11 · Cline · [[Changes/Cline/2026-08-11-respect-your-configured-max-output-tokens-when-the-compaction-summarizer-request|Respect your configured max output tokens when the compaction summarizer requests…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

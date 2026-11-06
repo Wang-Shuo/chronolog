@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 2cd30621adee6357766b7610ceb30fd1182f0a7de514c5e26196951e6c37b2f5
+machine_hash: 948663eaad7a0c30b162a97e41bcf5e36909da40014515024b4cb8f7f2b41edc
 product: claude-code
 product_name: Claude Code
 record:
@@ -44,12 +44,12 @@ record:
   title: Changed Sonnet 4.5 users on Pro/Max/Team Premium to be automatically migrated…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-02-24-the-model-picker-now-shows-human-readable-labels-e-g-sonnet-4-5-instead-of-raw-m|The
-  /model picker now shows human-readable labels (e.g., "Sonnet 4.5") instead…]]'
-- '[[Changes/ChatGPT/2026-03-03-gpt-5-3-instant-delivers-more-accurate-answers-richer-and-better-contextualized|GPT-5.3
-  Instant Update]]'
+- '[[Changes/GitHub Copilot CLI/2026-03-03-2-model-support-changes-in-v0-0-421|2 Model
+  Support changes in v0.0.421]]'
 - '[[Changes/Claude Code/2026-03-04-3-model-support-changes-in-v2-1-68|3 Model Support
   changes in v2.1.68]]'
+- '[[Changes/Cline/2026-03-04-2-model-support-changes-in-v3-70-0|2 Model Support changes
+  in v3.70.0]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-03-05-v2-1-69-github-293216328-162b2e44|claude-code-2026-03-05-v2-1-69-github-293216328-162b2e44]]'
 source_type: github_releases
 theme: model-support
@@ -90,8 +90,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-03-04 · Claude Code · [[Changes/Claude Code/2026-03-04-3-model-support-changes-in-v2-1-68|3 Model Support changes in v2.1.68]]
-- Later: 2026-03-11 · ChatGPT · [[Changes/ChatGPT/2026-03-11-as-of-march-11-2026-gpt-5-1-models-are-no-longer-available-in-chatgpt-this-appli|Retiring GPT-5.1 models]]
+- Earlier: 2026-03-04 · Cline · [[Changes/Cline/2026-03-04-2-model-support-changes-in-v3-70-0|2 Model Support changes in v3.70.0]]
+- Later: 2026-03-05 · Codex CLI · [[Changes/Codex CLI/2026-03-05-2-model-support-changes-in-rust-v0-110-0|2 Model Support changes in rust-v0.110.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

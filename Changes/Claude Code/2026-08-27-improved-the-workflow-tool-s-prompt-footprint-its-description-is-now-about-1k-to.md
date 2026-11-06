@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 197ee9b0fe1a4760b3fe44fc0846f59a402603496f8686d563582fef3d134a05
+machine_hash: a5eb92cd52db1622f9690343d7b7351ef836f2ecc653aff97dd143f723bafc21
 product: claude-code
 product_name: Claude Code
 record:
@@ -44,12 +44,12 @@ record:
   title: Improved the Workflow tool's prompt footprint
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-08-18-improved-the-context-limit-error-to-say-when-auto-compact-is-off-and-point-to-co|Improved
-  the context-limit error to say when auto-compact is off and point…]]'
-- '[[Changes/Claude Code/2026-08-21-improved-the-reminder-shown-after-compaction-so-a-skill-s-original-arguments-are|Improved
-  the reminder shown after compaction so a skill''s original arguments are not…]]'
+- '[[Changes/Gemini CLI/2026-08-25-ssr-agent-issue-fix-19239-update-clear-command-docs-to-include-context-reset-by|SSR
+  Agent Issue Fix (19239): Update /clear command docs to include context reset]]'
 - '[[Changes/Claude Code/2026-08-26-changed-sonnet-5-s-default-auto-compact-window-to-its-full-1m-context-so-session|Changed
   Sonnet 5''s default auto-compact window to its full 1M context, so sessions…]]'
+- '[[Changes/Codex CLI/2026-08-26-14-context-window-changes-in-rust-v0-150-0|14 Context
+  Window changes in rust-v0.150.0]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-08-27-v2-1-248-github-378106990-677106e3|claude-code-2026-08-27-v2-1-248-github-378106990-677106e3]]'
 source_type: github_releases
 theme: context-window
@@ -85,8 +85,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Context Window
 
-- Earlier: 2026-08-26 · Claude Code · [[Changes/Claude Code/2026-08-26-changed-sonnet-5-s-default-auto-compact-window-to-its-full-1m-context-so-session|Changed Sonnet 5's default auto-compact window to its full 1M context, so sessions…]]
-- Later: 2026-08-28 · Claude Code · [[Changes/Claude Code/2026-08-28-improved-retry-when-the-model-s-tool-call-is-malformed-the-broken-output-is-now|Improved retry when the model's tool call is malformed]]
+- Earlier: 2026-08-26 · Codex CLI · [[Changes/Codex CLI/2026-08-26-14-context-window-changes-in-rust-v0-150-0|14 Context Window changes in rust-v0.150.0]]
+- Later: 2026-08-27 · Codex CLI · [[Changes/Codex CLI/2026-08-27-2-context-window-changes-in-rust-v0-150-1|2 Context Window changes in rust-v0.150.1]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

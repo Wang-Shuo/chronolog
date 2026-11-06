@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 8f6109981bacabfa45b05022553db771d3035dcd507ad4c36f03a97203ac41d3
+machine_hash: 0863c4dae09d7d6f3f43a88ae111d461f9b4d5e1b2b43f6b466178a9af055232
 product: cursor
 product_name: Cursor
 record:
@@ -43,11 +43,12 @@ record:
     git commits
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-09-29-7-developer-workflow-changes-in-1-7|7 Developer Workflow
-  changes in 1.7]]'
-- '[[Changes/Cursor/2025-10-29-improved-code-review|Improved Code Review]]'
-- '[[Changes/Cursor/2025-10-29-3-developer-workflow-changes-in-2-0|3 Developer Workflow
-  changes in 2.0]]'
+- '[[Changes/Codex CLI/2025-12-09-2-developer-workflow-changes-in-rust-v0-66-0|2 Developer
+  Workflow changes in rust-v0.66.0]]'
+- '[[Changes/Gemini CLI/2025-12-09-feat-core-add-configurable-inactivity-timeout-for-shell-commands-by-galz10-in-ht|feat(core):
+  Add configurable inactivity timeout for shell commands]]'
+- '[[Changes/Codex CLI/2025-12-10-3-developer-workflow-changes-in-rust-v0-69-0|3 Developer
+  Workflow changes in rust-v0.69.0]]'
 source_release: '[[Releases/Cursor/cursor-2025-12-10-2-2-https-cursor-com-changelog-2-2-297c9323|cursor-2025-12-10-2-2-https-cursor-com-changelog-2-2-297c9323]]'
 source_type: cursor_changelog
 theme: developer-workflow
@@ -85,8 +86,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2025-10-29 · Cursor · [[Changes/Cursor/2025-10-29-3-developer-workflow-changes-in-2-0|3 Developer Workflow changes in 2.0]]
-- Later: 2025-12-19 · Claude Code · [[Changes/Claude Code/2025-12-19-added-terminal-setup-support-for-kitty-alacritty-zed-and-warp-terminals|Added /terminal-setup support for Kitty, Alacritty, Zed, and Warp terminals]]
+- Earlier: 2025-12-10 · Codex CLI · [[Changes/Codex CLI/2025-12-10-3-developer-workflow-changes-in-rust-v0-69-0|3 Developer Workflow changes in rust-v0.69.0]]
+- Later: 2025-12-11 · Cline · [[Changes/Cline/2025-12-11-6-developer-workflow-changes-in-v3-41-0|6 Developer Workflow changes in v3.41.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

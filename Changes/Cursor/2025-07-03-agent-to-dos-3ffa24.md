@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: 21a39554e7d5065786e274857f41968ab9a444ac37c9ce29627bbb4756a432ed
+machine_hash: 97d968b8a49abb2aed473311c5bd79ad249ee4a1e0c44b3d5ade498064919c52
 product: cursor
 product_name: Cursor
 record:
@@ -51,10 +51,10 @@ record:
   title: Agent To-dos
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-06-12-you-can-now-launch-background-agents-directly-from-slack-by-mentioning-cursor-ag|Launch
-  Background Agents directly from Slack by mentioning @Cursor]]'
 - '[[Changes/Cursor/2025-06-12-improved-background-agent-reliability|Improved Background
   Agent reliability]]'
+- '[[Changes/OpenHands/2025-06-20-fixed-incorrect-tracking-for-cost-and-token-usage-for-main-agent-and-delegates-b|Fixed
+  incorrect tracking for cost and token usage for main agent and delegates]]'
 - '[[Changes/Cursor/2025-07-03-let-agent-resolve-merge-conflicts|Let Agent resolve
   merge conflicts]]'
 source_release: '[[Releases/Cursor/cursor-2025-07-03-1-2-https-cursor-com-changelog-1-2-27872f5d|cursor-2025-07-03-1-2-https-cursor-com-changelog-1-2-27872f5d]]'
@@ -100,8 +100,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2025-06-12 · Cursor · [[Changes/Cursor/2025-06-12-improved-background-agent-reliability|Improved Background Agent reliability]]
-- Later: 2025-07-29 · Cursor · [[Changes/Cursor/2025-07-29-agents-can-now-use-your-native-terminal-a-new-terminal-will-be-created-when-need|Share terminal with Agent]]
+- Earlier: 2025-06-20 · OpenHands · [[Changes/OpenHands/2025-06-20-fixed-incorrect-tracking-for-cost-and-token-usage-for-main-agent-and-delegates-b|Fixed incorrect tracking for cost and token usage for main agent and delegates]]
+- Later: 2025-07-19 · Codex CLI · [[Changes/Codex CLI/2025-07-19-https-github-com-openai-codex-pull-1589-changes-ctrl-d-so-it-only-exits-the-tui|(source link) changes ctrl-d so it only exits the TUI…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

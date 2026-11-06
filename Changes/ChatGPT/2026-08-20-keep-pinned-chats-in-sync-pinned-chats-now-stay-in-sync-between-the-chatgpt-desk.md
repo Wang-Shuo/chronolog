@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 9408f5b526db0da48345251ce2f83432035ae8a0fe75ce0e6c9dae56caf81c4e
+machine_hash: e3cc217fe050138dd94c197c0e667f7ce14791f47f23210ce8865a24ba3022c8
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -46,10 +46,10 @@ record:
   title: Keep pinned chats in sync
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-08-14-learning-projects-and-personalized-suggestions|Learning,
-  Projects, and personalized suggestions]]'
 - '[[Changes/ChatGPT/2026-08-14-use-chatgpt-and-codex-on-linux-the-desktop-app-is-now-available-globally-in-publ|Use
   ChatGPT and Codex on Linux]]'
+- '[[Changes/Codex CLI/2026-08-18-3-mobile-and-desktop-changes-in-rust-v0-148-0|3
+  Mobile and Desktop changes in rust-v0.148.0]]'
 - '[[Changes/Claude Code/2026-08-19-added-notify-when-idle-to-cross-session-sendmessage-ask-another-claude-code-sess|Added
   notify_when_idle to cross-session SendMessage]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-08-20-codex-and-chatgpt-feature-updates-c987f574|chatgpt-2026-08-20-codex-and-chatgpt-feature-updates-c987f574]]'

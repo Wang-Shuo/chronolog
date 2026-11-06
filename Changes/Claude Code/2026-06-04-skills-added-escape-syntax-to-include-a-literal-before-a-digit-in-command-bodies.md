@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: f6babdbcee6bd83a7ca520fae0c88c250f80c681e678e8762f248e80795ae92f
+machine_hash: a4c49bacde74e8bf08274c75abb5090330a8fd7cd99d7a696be95401c463fc34
 product: claude-code
 product_name: Claude Code
 record:
@@ -44,10 +44,10 @@ record:
     in command bodies'
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-06-02-2-developer-workflow-changes-in-v2-1-160|2 Developer
-  Workflow changes in v2.1.160]]'
 - '[[Changes/Claude Code/2026-06-02-2-developer-workflow-changes-in-v2-1-161|2 Developer
   Workflow changes in v2.1.161]]'
+- '[[Changes/GitHub Copilot CLI/2026-06-02-experimental-new-ui-with-easy-access-to-issues-pull-requests-and-gists|/experimental
+  new UI with easy access to issues, pull requests, and gists]]'
 - '[[Changes/Claude Code/2026-06-03-tools-explicitly-listing-grep-glob-now-provides-the-dedicated-search-tools-on-na|--tools:
   explicitly listing Grep/Glob now provides the dedicated search tools…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-06-04-v2-1-163-github-334509318-c6b9f988|claude-code-2026-06-04-v2-1-163-github-334509318-c6b9f988]]'
@@ -86,7 +86,7 @@ type: change
 ## Nearby in Developer Workflow
 
 - Earlier: 2026-06-03 · Claude Code · [[Changes/Claude Code/2026-06-03-tools-explicitly-listing-grep-glob-now-provides-the-dedicated-search-tools-on-na|--tools: explicitly listing Grep/Glob now provides the dedicated search tools…]]
-- Later: 2026-06-08 · Claude Code · [[Changes/Claude Code/2026-06-08-background-sessions-are-now-told-that-shared-checkout-edits-are-blocked-until-th|Background sessions are now told that shared-checkout edits are blocked until they…]]
+- Later: 2026-06-04 · Codex CLI · [[Changes/Codex CLI/2026-06-04-6-developer-workflow-changes-in-rust-v0-137-0|6 Developer Workflow changes in rust-v0.137.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

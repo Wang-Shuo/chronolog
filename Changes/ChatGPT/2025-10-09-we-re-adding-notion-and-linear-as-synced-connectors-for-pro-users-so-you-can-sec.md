@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 625d3e7e50c472826029e2310a915a73149534f5c5f838342a546ddf5a53eb6c
+machine_hash: f0273ff985b0ffe2826667f57f346f7e931e9fd58bbde72527f5fbe962439ca9
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -52,11 +52,12 @@ record:
   title: Adding Notion & Linear synced connectors
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-09-12-2-apps-and-integrations-changes-in-1-6|2 Apps and Integrations
-  changes in 1.6]]'
-- '[[Changes/Cursor/2025-09-12-mcp-resources-support|MCP Resources support]]'
-- '[[Changes/Cursor/2025-09-29-4-apps-and-integrations-changes-in-1-7|4 Apps and Integrations
-  changes in 1.7]]'
+- '[[Changes/Gemini CLI/2025-10-07-14-apps-and-integrations-changes-in-v0-8-0|14 Apps
+  and Integrations changes in v0.8.0]]'
+- '[[Changes/Cline/2025-10-08-move-mcp-marketplace-catalog-from-global-state-to-disk-cache-by-celestial-vault|Move
+  MCP marketplace catalog from global state to disk cache]]'
+- '[[Changes/GitHub Copilot CLI/2025-10-08-added-validation-for-mcp-server-names-fixes-https-github-com-github-copilot-cli|Added
+  validation for MCP server names…]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-10-09-adding-notion-linear-synced-connectors-8b3828f2|chatgpt-2025-10-09-adding-notion-linear-synced-connectors-8b3828f2]]'
 source_type: chatgpt_changelog
 theme: apps-integrations
@@ -83,8 +84,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2025-09-29 · Cursor · [[Changes/Cursor/2025-09-29-4-apps-and-integrations-changes-in-1-7|4 Apps and Integrations changes in 1.7]]
-- Later: 2025-10-13 · ChatGPT · [[Changes/ChatGPT/2025-10-13-we-re-rolling-out-two-new-ways-to-bring-slack-and-chatgpt-together-a-connector-t-be2213|Slack connector and app]]
+- Earlier: 2025-10-08 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2025-10-08-added-validation-for-mcp-server-names-fixes-https-github-com-github-copilot-cli|Added validation for MCP server names…]]
+- Later: 2025-10-09 · Codex CLI · [[Changes/Codex CLI/2025-10-09-6-apps-and-integrations-changes-in-rust-v0-46-0|6 Apps and Integrations changes in rust-v0.46.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

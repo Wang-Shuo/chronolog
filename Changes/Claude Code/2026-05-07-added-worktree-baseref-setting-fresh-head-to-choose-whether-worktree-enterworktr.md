@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: 402ea2edeb033fe19c96ea79d3fbb34f406d1f9d70b28ccd3fe6ee5f2f670a7f
+machine_hash: 5e0241b0100af737ba228c22af8fc3703dfb5c1455d0b0a7a5c2c3c5a972ae5b
 product: claude-code
 product_name: Claude Code
 record:
@@ -60,12 +60,12 @@ record:
   title: Added `worktree.baseRef` setting (`fresh` | `head`) to choose whether `--worktree`…
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-04-29-added-first-class-run-streaming-with-sse-events-reconnect-support-via-last-event|Added
-  first-class run streaming with SSE events, reconnect support…]]'
-- '[[Changes/Claude Code/2026-05-01-3-developer-workflow-changes-in-v2-1-126|3 Developer
-  Workflow changes in v2.1.126]]'
 - '[[Changes/Claude Code/2026-05-06-2-developer-workflow-changes-in-v2-1-129|2 Developer
   Workflow changes in v2.1.129]]'
+- '[[Changes/GitHub Copilot CLI/2026-05-06-2-developer-workflow-changes-in-v1-0-42|2
+  Developer Workflow changes in v1.0.42]]'
+- '[[Changes/GitHub Copilot CLI/2026-05-06-show-download-progress-when-running-the-update-command|Show
+  download progress when running the update command]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-05-07-v2-1-133-github-319164825-08653677|claude-code-2026-05-07-v2-1-133-github-319164825-08653677]]'
 source_type: github_releases
 theme: developer-workflow
@@ -98,8 +98,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2026-05-06 · Claude Code · [[Changes/Claude Code/2026-05-06-2-developer-workflow-changes-in-v2-1-129|2 Developer Workflow changes in v2.1.129]]
-- Later: 2026-05-07 · Cursor · [[Changes/Cursor/2026-05-07-pr-review|PR review]]
+- Earlier: 2026-05-06 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-05-06-show-download-progress-when-running-the-update-command|Show download progress when running the update command]]
+- Later: 2026-05-07 · Codex CLI · [[Changes/Codex CLI/2026-05-07-5-developer-workflow-changes-in-rust-v0-129-0|5 Developer Workflow changes in rust-v0.129.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

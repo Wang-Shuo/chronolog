@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: policy
-machine_hash: 0bd559c4f814e28a042c7d144c9b35c91b5d0e838650bea4b3cc8a99025140fa
+machine_hash: 060e6d9b011c507f385ccf5b723edd281fd7249942eecee76501713736f3742f
 product: cursor
 product_name: Cursor
 record:
@@ -45,11 +45,12 @@ record:
     you now can'
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2023-02-13-we-rolled-out-the-ability-to-purchase-chatgpt-plus-internationally|We
-  rolled out the ability to purchase ChatGPT Plus internationally]]'
-- '[[Changes/Cursor/2023-03-27-adds-an-optional-paid-plan-if-you-d-like-to-avoid-the-server-capacity-rate-limit|Adds
-  an optional paid plan if you''d like to avoid the server capacity rate limits]]'
-- '[[Changes/Cursor/2023-04-19-150k-gpt-4-tokens-included|150k GPT-4 tokens included]]'
+- '[[Changes/Aider/2023-06-25-enables-display-of-cost-info-based-on-openai-advertised-pricing|Enables
+  display of cost info based on OpenAI advertised pricing]]'
+- '[[Changes/Aider/2023-06-26-enables-display-of-cost-info-based-on-openai-advertised-pricing|Enables
+  display of cost info based on OpenAI advertised pricing]]'
+- '[[Changes/Aider/2023-06-26-enables-display-of-cost-info-based-on-openai-advertised-pricing-5f5b32|Enables
+  display of cost info based on OpenAI advertised pricing]]'
 source_release: '[[Releases/Cursor/cursor-2023-11-03-0-14-0-https-cursor-com-changelog-0-14-0-45a47acf|cursor-2023-11-03-0-14-0-https-cursor-com-changelog-0-14-0-45a47acf]]'
 source_type: cursor_changelog
 theme: pricing-model
@@ -82,8 +83,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Pricing Model
 
-- Earlier: 2023-04-19 · Cursor · [[Changes/Cursor/2023-04-19-150k-gpt-4-tokens-included|150k GPT-4 tokens included]]
-- Later: 2025-03-23 · Cursor · [[Changes/Cursor/2025-03-23-chat-will-now-display-a-notification-about-usage-based-pricing-when-approaching|Chat will now display a notification about usage-based pricing when approaching fast…]]
+- Earlier: 2023-06-26 · Aider · [[Changes/Aider/2023-06-26-enables-display-of-cost-info-based-on-openai-advertised-pricing-5f5b32|Enables display of cost info based on OpenAI advertised pricing]]
+- Later: 2024-02-10 · Aider · [[Changes/Aider/2024-02-10-updated-all-openai-model-names-pricing-info|Updated all OpenAI model names, pricing info]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: a4bb1243c92c9bb9c6b5761563259d7aee4c6400f2718eb1c4c4e91c841e7d80
+machine_hash: af0c07d0a1bfced84ef9cc6b5aa78fd64c3b2b94d26001dac3b2dcaffd80f9ca
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,12 +45,12 @@ record:
     npm…
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-01-07-health-appears-as-a-new-space-in-the-chatgpt-sidebar-if-you-ask-a-health-related|Health
-  appears as a new space in the ChatGPT sidebar]]'
 - '[[Changes/Claude Code/2026-01-09-2-interface-experience-changes-in-v2-1-3|2 Interface
   Experience changes in v2.1.3]]'
 - '[[Changes/Claude Code/2026-01-09-added-shift-tab-keyboard-shortcut-in-plan-mode-to-quickly-select-auto-accept-edi|Added
   Shift+Tab keyboard shortcut in plan mode to quickly select…]]'
+- '[[Changes/Codex CLI/2026-01-09-3-interface-experience-changes-in-rust-v0-80-0|3
+  Interface Experience changes in rust-v0.80.0]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-01-13-v2-1-6-github-276206295-e2719d9a|claude-code-2026-01-13-v2-1-6-github-276206295-e2719d9a]]'
 source_type: github_releases
 theme: interface-experience
@@ -86,8 +86,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-01-09 · Claude Code · [[Changes/Claude Code/2026-01-09-added-shift-tab-keyboard-shortcut-in-plan-mode-to-quickly-select-auto-accept-edi|Added Shift+Tab keyboard shortcut in plan mode to quickly select…]]
-- Later: 2026-01-14 · Claude Code · [[Changes/Claude Code/2026-01-14-added-showturnduration-setting-to-hide-turn-duration-messages-e-g-cooked-for-1m|Added showTurnDuration setting to hide turn duration messages (e.g., "Cooked for 1m 6s")]]
+- Earlier: 2026-01-09 · Codex CLI · [[Changes/Codex CLI/2026-01-09-3-interface-experience-changes-in-rust-v0-80-0|3 Interface Experience changes in rust-v0.80.0]]
+- Later: 2026-01-13 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-01-13-shell-mode-history-navigation-now-filters-by-prefix-typing-git-and-pressing-up-a|Shell mode history navigation now filters by prefix - typing !git and pressing up…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

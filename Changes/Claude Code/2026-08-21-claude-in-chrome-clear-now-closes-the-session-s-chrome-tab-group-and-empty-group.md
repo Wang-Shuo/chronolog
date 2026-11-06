@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 7fa40529f0ec2758adb5654e4862c4c0060eeb7441e73e021eebfb29d1b85a81
+machine_hash: 5fb654bf088793527b58b002f2f70aa02e252aa3aca640772ec92e36b63309b0
 product: claude-code
 product_name: Claude Code
 record:
@@ -43,10 +43,11 @@ record:
   title: Claude in Chrome
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-08-04-changed-emoji-autocomplete-to-accept-common-alternate-shortcodes-like-thumbsup-t|Changed
-  emoji autocomplete to accept common alternate shortcodes like :thumbsup:…]]'
-- '[[Changes/Cursor/2026-08-17-origin-repos|Origin Repos]]'
 - '[[Changes/Cursor/2026-08-17-pull-requests|Pull requests]]'
+- '[[Changes/Codex CLI/2026-08-18-37828-track-running-unified-exec-processes-at-turn-completion-copyberry|♯37828
+  Track running unified exec processes at turn completion @copyberry]]'
+- '[[Changes/Codex CLI/2026-08-20-5-editor-experience-changes-in-rust-v0-149-0|5 Editor
+  Experience changes in rust-v0.149.0]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-08-21-v2-1-239-github-374556322-5f6b8918|claude-code-2026-08-21-v2-1-239-github-374556322-5f6b8918]]'
 source_type: github_releases
 theme: editor-experience
@@ -86,8 +87,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2026-08-17 · Cursor · [[Changes/Cursor/2026-08-17-pull-requests|Pull requests]]
-- Later: 2026-08-25 · Claude Code · [[Changes/Claude Code/2026-08-25-added-the-turn-s-completion-time-to-the-end-of-turn-duration-line-e-g-saut-ed-fo|Added the turn's completion time to the end-of-turn duration line…]]
+- Earlier: 2026-08-20 · Codex CLI · [[Changes/Codex CLI/2026-08-20-5-editor-experience-changes-in-rust-v0-149-0|5 Editor Experience changes in rust-v0.149.0]]
+- Later: 2026-08-21 · Cline · [[Changes/Cline/2026-08-21-show-the-diff-edit-view-for-multi-line-edits-in-files-with-crlf-line-endings|Show the diff edit view for multi-line edits in files with CRLF line endings]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

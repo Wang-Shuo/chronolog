@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 1164a2dd329f0ae254d7a60e70cf324e291dbf8d15e7eedc923536da7c42142c
+machine_hash: efa8d0743f500ad9330489edd66c44a2366606181b92b06433486cab9ac44f86
 product: claude-code
 product_name: Claude Code
 record:
@@ -48,11 +48,11 @@ record:
   title: 3 Model Support changes in v2.1.219
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-07-22-cursor-router-is-our-intelligent-model-router-it-analyzes-each-request-and-sends|Cursor
-  Router is our intelligent model router]]'
 - '[[Changes/Cursor/2026-07-22-routed-model-can-be-displayed-or-hidden-hidden-by-default|Routed
   model can be displayed or hidden (hidden by default)]]'
 - '[[Changes/Cursor/2026-07-22-optimization-modes-e62142|Optimization modes]]'
+- '[[Changes/GitHub Copilot CLI/2026-07-23-2-model-support-changes-in-v1-0-74|2 Model
+  Support changes in v1.0.74]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-07-24-v2-1-219-github-359412713-6c14d233|claude-code-2026-07-24-v2-1-219-github-359412713-6c14d233]]'
 source_type: github_releases
 theme: model-support
@@ -91,8 +91,8 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.219
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-07-22 · Cursor · [[Changes/Cursor/2026-07-22-optimization-modes-e62142|Optimization modes]]
-- Later: 2026-08-04 · Claude Code · [[Changes/Claude Code/2026-08-04-3-model-support-changes-in-v2-1-221|3 Model Support changes in v2.1.221]]
+- Earlier: 2026-07-23 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-07-23-2-model-support-changes-in-v1-0-74|2 Model Support changes in v1.0.74]]
+- Later: 2026-07-24 · Cline · [[Changes/Cline/2026-07-24-2-model-support-changes-in-v4-0-11|2 Model Support changes in v4.0.11]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: dcd3a509792105c9522105ac3af9f3a48d292f4327afb81154c9185e39202989
+machine_hash: 4312d1c4e76178d04685338435e23e6f8d07b44e0a4e9757d77120973a904265
 product: cursor
 product_name: Cursor
 record:
@@ -41,8 +41,8 @@ record:
   title: '0.47.2: Cursor Tab accepts work with single-line selections'
   type: change
 related_changes:
-- '[[Changes/Cursor/2024-12-17-agent-can-reapply-edits-with-a-smarter-apply-model|Agent
-  can reapply edits with a smarter apply model]]'
+- '[[Changes/OpenHands/2025-02-13-add-success-failure-indicators-for-file-read-edit-operations-by-neubig-in-https|Add
+  success/failure indicators for file read/edit operations]]'
 - '[[Changes/Cursor/2025-02-19-ignore-files-cursorignore-now-blocks-files-from-being-added-in-chat-or-sent-up-f|Ignore
   files: .cursorignore now blocks files from being added in chat or sent up…]]'
 - '[[Changes/Cursor/2025-02-19-tab-rebinding-tab-suggestions-can-now-be-rebound-to-a-different-keybinding-using|Tab
@@ -83,7 +83,7 @@ type: change
 ## Nearby in Editor Experience
 
 - Earlier: 2025-02-19 · Cursor · [[Changes/Cursor/2025-02-19-tab-rebinding-tab-suggestions-can-now-be-rebound-to-a-different-keybinding-using|Tab rebinding: Tab suggestions can now be rebound to a different keybinding using…]]
-- Later: 2025-03-23 · Cursor · [[Changes/Cursor/2025-03-23-0-48-2-allows-users-to-accept-reject-file-edited-in-another-chat-tab|0.48.2 - Allows users to accept/reject file edited in another chat tab]]
+- Later: 2025-03-21 · Aider · [[Changes/Aider/2025-03-21-added-commands-to-switch-between-model-types-editor-model-for-editor-model-and-w|Added commands to switch between model types]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

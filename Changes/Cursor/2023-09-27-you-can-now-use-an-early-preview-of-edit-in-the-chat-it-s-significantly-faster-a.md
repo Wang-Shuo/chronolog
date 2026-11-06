@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: df8d6bc7b4a2c33a38b21974529fda063186ea8a7d9e95b145d2fe8474293cba
+machine_hash: 84dd82cb4d4550e7f8d46071221853641c291adf73c6bd69f79e8ee4ad524181
 product: cursor
 product_name: Cursor
 record:
@@ -93,7 +93,7 @@ type: change
 ## Nearby in Editor Experience
 
 - Earlier: 2023-09-21 · Cursor · [[Changes/Cursor/2023-09-21-hacky-first-version-of-cmd-k-in-the-terminal-let-us-know-what-you-think|Cmd-K in the terminal!]]
-- Later: 2023-11-03 · Cursor · [[Changes/Cursor/2023-11-03-cmd-k-diffs-these-now-obey-word-wrap-you-can-also-copy-from-the-red-text|Cmd-K diffs: these now obey word-wrap!]]
+- Later: 2023-10-29 · Aider · [[Changes/Aider/2023-10-29-2-editor-experience-changes-in-v0-16-0|2 Editor Experience changes in v0.16.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

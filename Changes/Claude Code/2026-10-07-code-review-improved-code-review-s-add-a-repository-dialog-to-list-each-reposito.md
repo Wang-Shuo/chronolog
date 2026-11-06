@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 26325361cec1a06703fb3e547726ede5aa54efe4c7f8c0b248154e32143bedab
+machine_hash: a0ed915e56f2bcd4cc17b348b91a6ee6ae6d6f9327c7bb9957887b14d02485cb
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,10 +45,10 @@ record:
     repository…'
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-02-3-developer-workflow-changes-in-v2-1-288|3 Developer
-  Workflow changes in v2.1.288]]'
 - '[[Changes/Claude Code/2026-10-05-5-developer-workflow-changes-in-v2-1-290|5 Developer
   Workflow changes in v2.1.290]]'
+- '[[Changes/GitHub Copilot CLI/2026-10-05-4-developer-workflow-changes-in-v1-0-92|4
+  Developer Workflow changes in v1.0.92]]'
 - '[[Changes/Claude Code/2026-10-06-2-developer-workflow-changes-in-v2-1-292|2 Developer
   Workflow changes in v2.1.292]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-10-07-v2-1-293-github-405988533-66d1bb8d|claude-code-2026-10-07-v2-1-293-github-405988533-66d1bb8d]]'
@@ -86,7 +86,7 @@ type: change
 ## Nearby in Developer Workflow
 
 - Earlier: 2026-10-06 · Claude Code · [[Changes/Claude Code/2026-10-06-2-developer-workflow-changes-in-v2-1-292|2 Developer Workflow changes in v2.1.292]]
-- Later: 2026-10-08 · Claude Code · [[Changes/Claude Code/2026-10-08-added-a-line-on-stderr-when-it-is-a-terminal-that-says-what-a-claude-p-run-is-wa|Added a line on stderr, when it is a terminal, that says what a claude -p run…]]
+- Later: 2026-10-07 · Cline · [[Changes/Cline/2026-10-07-generate-commit-message-now-follows-your-clinerules-so-conventions-like-language|Generate Commit Message now follows your .clinerules, so conventions like…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

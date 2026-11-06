@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: fbd7ebc05ebcb03594f59e5c1263e3ba794136d5a989baf3f22eddd1313a8c79
+machine_hash: f879ef5b9a3802c5bbbf47deed567362e211605d089567f1cc9f65ee860e7ca1
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -75,8 +75,9 @@ record:
   title: GPT-5 Updates
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-08-06-separate-models-per-agent|Separate models per Agent]]'
-- '[[Changes/ChatGPT/2025-08-07-gpt-5-is-slowly-rolling-out-to-all-users-on-chatgpt-plus-pro-team-and-free-plans-64a08c|GPT-5]]'
+- '[[Changes/Windsurf/2025-08-07-gpt-5-available|GPT-5 Available]]'
+- '[[Changes/Aider/2025-08-09-5-model-support-changes-in-v0-86-0|5 Model Support changes
+  in v0.86.0]]'
 - '[[Changes/ChatGPT/2025-08-12-gmail-google-calendar-and-google-contacts-are-now-available-to-connect-and-use-i-9ea6d6|Gmail,
   Google Calendar, and Google Contacts Connectors in ChatGPT (Pro)]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-08-12-gpt-5-updates-9aaeee46|chatgpt-2025-08-12-gpt-5-updates-9aaeee46]]'
@@ -106,7 +107,7 @@ type: change
 ## Nearby in Model Support
 
 - Earlier: 2025-08-12 · ChatGPT · [[Changes/ChatGPT/2025-08-12-gmail-google-calendar-and-google-contacts-are-now-available-to-connect-and-use-i-9ea6d6|Gmail, Google Calendar, and Google Contacts Connectors in ChatGPT (Pro)]]
-- Later: 2025-08-15 · ChatGPT · [[Changes/ChatGPT/2025-08-15-we-re-making-gpt-5-s-default-personality-warmer-and-more-familiar-this-is-in-res-19a03e|GPT-5 Updates]]
+- Later: 2025-08-12 · Codex CLI · [[Changes/Codex CLI/2025-08-12-https-github-com-openai-codex-pull-2183-include-output-truncation-message-in-too|(source link) Include output truncation message in tool…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

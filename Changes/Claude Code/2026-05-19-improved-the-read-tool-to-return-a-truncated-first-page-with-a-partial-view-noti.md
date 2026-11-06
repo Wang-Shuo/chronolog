@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 0a6c07afa895082a6e0abfb79947b3535fc1f539bfe3a70d5f00529266c23b4b
+machine_hash: c038b146a2d2d0a399da391bae95bf8b9197fd3fe83f2920bdeb65c2de147a89
 product: claude-code
 product_name: Claude Code
 record:
@@ -48,11 +48,12 @@ record:
     notice…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-05-13-rewind-menu-added-summarize-up-to-here-to-compress-earlier-context-while-keeping|Rewind
-  menu: added "Summarize up to here" to compress earlier context while keeping…]]'
-- '[[Changes/Cursor/2026-05-13-compact-chat-responses|Compact chat responses]]'
 - '[[Changes/Claude Code/2026-05-14-improved-reactive-compaction-the-first-summarize-attempt-now-seeds-from-the-orig|Improved
   reactive compaction]]'
+- '[[Changes/GitHub Copilot CLI/2026-05-14-context-shows-correct-token-limits-for-all-models-instead-of-always-showing-128k|/context
+  shows correct token limits for all models instead of always showing 128k]]'
+- '[[Changes/Codex CLI/2026-05-18-7-context-window-changes-in-rust-v0-131-0|7 Context
+  Window changes in rust-v0.131.0]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-05-19-v2-1-145-github-325388499-227a5ce4|claude-code-2026-05-19-v2-1-145-github-325388499-227a5ce4]]'
 source_type: github_releases
 theme: context-window
@@ -86,7 +87,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Context Window
 
-- Earlier: 2026-05-14 · Claude Code · [[Changes/Claude Code/2026-05-14-improved-reactive-compaction-the-first-summarize-attempt-now-seeds-from-the-orig|Improved reactive compaction]]
+- Earlier: 2026-05-18 · Codex CLI · [[Changes/Codex CLI/2026-05-18-7-context-window-changes-in-rust-v0-131-0|7 Context Window changes in rust-v0.131.0]]
 - Later: 2026-05-19 · Claude Code · [[Changes/Claude Code/2026-05-19-the-post-survey-follow-up-hint-now-appears-after-every-non-dismiss-survey-respon|The post-survey follow-up hint now appears after every non-dismiss survey response…]]
 <!-- chronolog:end -->
 

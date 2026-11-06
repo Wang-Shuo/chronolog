@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: a4fe5da6f3cb2c786d8cac5a01085822a2b6ffadfa2b68b24d525ba624f859db
+machine_hash: 0258bead4e6a7b8381f9c3d179d8046874521a368230be055054a327e2a3d3de
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,10 +45,10 @@ record:
   title: Improved MCP error messages
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-07-01-claude-in-chrome-is-now-generally-available|Claude
-  in Chrome is now generally available]]'
 - '[[Changes/Claude Code/2026-07-01-added-dataviz-skill-for-chart-and-dashboard-design-guidance-with-a-runnable-colo|Added
   /dataviz skill for chart and dashboard design guidance with a runnable…]]'
+- '[[Changes/GitHub Copilot CLI/2026-07-01-2-apps-and-integrations-changes-in-v1-0-68|2
+  Apps and Integrations changes in v1.0.68]]'
 - '[[Changes/Claude Code/2026-07-02-stacked-slash-skill-invocations-like-skill-a-skill-b-do-xyz-now-load-all-leading|Stacked
   slash-skill invocations like /skill-a /skill-b do XYZ now load all leading…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-07-06-v2-1-202-github-349856235-58e6d3e8|claude-code-2026-07-06-v2-1-202-github-349856235-58e6d3e8]]'
@@ -82,7 +82,7 @@ type: change
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-07-02 · Claude Code · [[Changes/Claude Code/2026-07-02-stacked-slash-skill-invocations-like-skill-a-skill-b-do-xyz-now-load-all-leading|Stacked slash-skill invocations like /skill-a /skill-b do XYZ now load all leading…]]
-- Later: 2026-07-07 · Claude Code · [[Changes/Claude Code/2026-07-07-2-apps-and-integrations-changes-in-v2-1-203|2 Apps and Integrations changes in v2.1.203]]
+- Later: 2026-07-06 · OpenHands · [[Changes/OpenHands/2026-07-06-7-apps-and-integrations-changes-in-1-9-0|7 Apps and Integrations changes in 1.9.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

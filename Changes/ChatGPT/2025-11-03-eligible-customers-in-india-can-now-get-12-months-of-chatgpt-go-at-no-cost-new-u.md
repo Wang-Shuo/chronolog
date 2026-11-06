@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: pricing
-machine_hash: 09cb16b0c4bfbff64d171342565493dc73d43bda0709f645b322349dce6528c5
+machine_hash: 59114930f1d807d24bd6826df9dc775f457f249c4041859316eda76d58b5edbf
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -59,12 +59,12 @@ record:
   title: ChatGPT Go Promo - India
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2025-10-14-we-re-excited-to-announce-that-chatgpt-go-our-low-cost-subscription-plan-is-now-d58cbb|ChatGPT
-  Go, our low cost subscription plan, is now available in 71 additional…]]'
 - '[[Changes/ChatGPT/2025-10-28-we-re-launching-chatgpt-go-our-low-cost-subscription-plan-in-brazil-chatgpt-go-p|ChatGPT
   launches ChatGPT Go, our low cost subscription plan, in Brazil]]'
 - '[[Changes/ChatGPT/2025-10-30-we-re-excited-to-announce-that-chatgpt-go-our-low-cost-subscription-plan-is-now-44be9d|ChatGPT
   Go, our low cost subscription plan, is now available in 8 additional…]]'
+- '[[Changes/Codex CLI/2025-10-30-ability-to-buy-credits-for-more-usage-more-information-https-help-openai-com-en|Ability
+  to buy credits for more usage]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-11-03-chatgpt-go-promo-india-d9dd74b7|chatgpt-2025-11-03-chatgpt-go-promo-india-d9dd74b7]]'
 source_type: chatgpt_changelog
 theme: pricing-model
@@ -91,8 +91,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Pricing Model
 
-- Earlier: 2025-10-30 · ChatGPT · [[Changes/ChatGPT/2025-10-30-we-re-excited-to-announce-that-chatgpt-go-our-low-cost-subscription-plan-is-now-44be9d|ChatGPT Go, our low cost subscription plan, is now available in 8 additional…]]
-- Later: 2025-12-18 · Cursor · [[Changes/Cursor/2025-12-18-billing-groups|Billing groups]]
+- Earlier: 2025-10-30 · Codex CLI · [[Changes/Codex CLI/2025-10-30-ability-to-buy-credits-for-more-usage-more-information-https-help-openai-com-en|Ability to buy credits for more usage]]
+- Later: 2025-11-07 · Gemini CLI · [[Changes/Gemini CLI/2025-11-07-fixing-minor-formatting-issues-in-quota-and-pricing-md-by-hyangah-in-https-githu|fixing minor formatting issues in quota-and-pricing.md]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: e80e18d6d0ffd8e9de0188b6e74efc30a9cca1854abfc520f9a807ca0aeeae14
+machine_hash: 211eb1386478e60538ba2cc416f7b4f03c28734868ee17b31e2da07d428e98f6
 product: claude-code
 product_name: Claude Code
 record:
@@ -46,12 +46,12 @@ record:
     tracking
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-01-16-2-developer-workflow-changes-in-cli-agent-modes-and-cloud-handoff|2
-  Developer Workflow changes in CLI Agent Modes and Cloud Handoff]]'
-- '[[Changes/Claude Code/2026-01-20-vscode-added-usage-command-to-display-current-plan-usage|VSCode
-  Added /usage command to display current plan usage]]'
 - '[[Changes/Claude Code/2026-01-21-added-deprecation-notification-for-npm-installations-run-claude-install-or-see-h|Added
   deprecation notification for npm installations - run claude install or see…]]'
+- '[[Changes/Codex CLI/2026-01-21-9-developer-workflow-changes-in-rust-v0-88-0|9 Developer
+  Workflow changes in rust-v0.88.0]]'
+- '[[Changes/Gemini CLI/2026-01-21-7-developer-workflow-changes-in-v0-25-0|7 Developer
+  Workflow changes in v0.25.0]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-01-22-v2-1-16-github-279146529-0e5b3428|claude-code-2026-01-22-v2-1-16-github-279146529-0e5b3428]]'
 source_type: github_releases
 theme: developer-workflow
@@ -82,8 +82,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2026-01-21 · Claude Code · [[Changes/Claude Code/2026-01-21-added-deprecation-notification-for-npm-installations-run-claude-install-or-see-h|Added deprecation notification for npm installations - run claude install or see…]]
-- Later: 2026-01-22 · Cursor · [[Changes/Cursor/2026-01-22-3-developer-workflow-changes-in-2-4|3 Developer Workflow changes in 2.4]]
+- Earlier: 2026-01-21 · Gemini CLI · [[Changes/Gemini CLI/2026-01-21-7-developer-workflow-changes-in-v0-25-0|7 Developer Workflow changes in v0.25.0]]
+- Later: 2026-01-22 · Codex CLI · [[Changes/Codex CLI/2026-01-22-4-developer-workflow-changes-in-rust-v0-89-0|4 Developer Workflow changes in rust-v0.89.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: b8ff802a78eebef995508e9ef81e9d7a1f448c2ccf81c37bd6a6a4a4f2bfde98
+machine_hash: 0e912fe6fa25f6f4bfc0ce0098c3b4e55ff384d38f2cf02eb532c2148bb82787
 product: cursor
 product_name: Cursor
 record:
@@ -44,12 +44,12 @@ record:
   title: WSL Fixes
   type: change
 related_changes:
-- '[[Changes/Cursor/2023-08-01-improved-linter-please-give-us-feedback-on-the-linter-suggestions-using-the-smil|Improved
-  linter]]'
 - '[[Changes/Cursor/2023-08-03-also-the-linter-is-slightly-improved|In-editor chat
   is back!]]'
 - '[[Changes/Cursor/2023-08-17-the-cursor-nightly-command-now-works-on-mac|The cursor-nightly
   command now works on Mac]]'
+- '[[Changes/Aider/2023-08-22-improved-foo-no-foo-switch-handling-for-command-line-and-yml-config-settings|Improved
+  --foo/--no-foo switch handling for command line and yml config settings]]'
 source_release: '[[Releases/Cursor/cursor-2023-08-22-0-8-4-https-cursor-com-changelog-0-8-4-540922cd|cursor-2023-08-22-0-8-4-https-cursor-com-changelog-0-8-4-540922cd]]'
 source_type: cursor_changelog
 theme: developer-workflow
@@ -76,7 +76,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2023-08-17 · Cursor · [[Changes/Cursor/2023-08-17-the-cursor-nightly-command-now-works-on-mac|The cursor-nightly command now works on Mac]]
+- Earlier: 2023-08-22 · Aider · [[Changes/Aider/2023-08-22-improved-foo-no-foo-switch-handling-for-command-line-and-yml-config-settings|Improved --foo/--no-foo switch handling for command line and yml config settings]]
 - Later: 2023-08-26 · Cursor · [[Changes/Cursor/2023-08-26-we-had-a-big-bug-for-people-on-language-packs-thank-you-to-all-who-helped-us-deb|Bug fix for people on language packs]]
 <!-- chronolog:end -->
 

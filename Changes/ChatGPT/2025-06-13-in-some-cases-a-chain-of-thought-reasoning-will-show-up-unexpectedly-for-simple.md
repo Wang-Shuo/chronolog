@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 794d41042d8128609ce3a0319788a8a964afc94aeb5d896453e86fe56d0cd9ea
+machine_hash: 64c7f7e9a0f0d7702de1f4e5d814cff7234aa98334a735278aeb438694af670e
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -47,10 +47,10 @@ record:
     simple queries
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2025-06-12-upload-files-and-access-model-selector-on-mobile|Upload
-  files and access model selector on mobile]]'
 - '[[Changes/ChatGPT/2025-06-12-creators-can-now-choose-from-the-full-set-of-chatgpt-models-gpt-4o-o3-o4-mini-an-ad1adf|Creators
   can now choose from the full set of ChatGPT models…]]'
+- '[[Changes/Cline/2025-06-12-4-model-support-changes-in-v3-17-13|4 Model Support
+  changes in v3.17.13]]'
 - '[[Changes/Cursor/2025-06-12-once-connected-try-it-in-any-channel-with-cursor-and-write-a-prompt-use-the-comm|Once
   connected, try it in any channel with @Cursor and write a prompt]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-06-13-improvements-to-the-chatgpt-search-response-quality-2791e464|chatgpt-2025-06-13-improvements-to-the-chatgpt-search-response-quality-2791e464]]'

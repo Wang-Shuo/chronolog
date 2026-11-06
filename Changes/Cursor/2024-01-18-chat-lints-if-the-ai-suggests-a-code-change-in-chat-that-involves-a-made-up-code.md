@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 4995966ae38faff3ce89c0639eccb1baa1425f9ee34a256b84c380b6484f3206
+machine_hash: bbd14385d4e23698033d3130fcd555687e67290aa85b3e5984328ae0c7772d7c
 product: cursor
 product_name: Cursor
 record:
@@ -46,8 +46,8 @@ record:
     up code…'
   type: change
 related_changes:
-- '[[Changes/Cursor/2024-01-06-upgrades-cursor-to-vs-code-1-85-which-comes-with-support-for-dragging-out-tabs-i|Upgrades
-  Cursor to VS Code 1.85, which comes with support for dragging out tabs…]]'
+- '[[Changes/Aider/2024-01-08-improvements-to-unified-diff-editing-format|Improvements
+  to unified diff editing format]]'
 - '[[Changes/Cursor/2024-01-18-more-chat-symbol-links-when-the-chat-references-a-code-symbol-you-ll-often-be-ab|More
   chat symbol links]]'
 - '[[Changes/Cursor/2024-01-18-apply-button-we-ve-added-some-polish-to-the-apply-codeblock-experience-in-chat|Apply
@@ -83,8 +83,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2024-01-06 · Cursor · [[Changes/Cursor/2024-01-06-upgrades-cursor-to-vs-code-1-85-which-comes-with-support-for-dragging-out-tabs-i|Upgrades Cursor to VS Code 1.85, which comes with support for dragging out tabs…]]
-- Later: 2024-02-02 · Cursor · [[Changes/Cursor/2024-02-02-hold-down-cmd-i-over-a-selection-to-heal-the-code-with-gpt-4-useful-for-writing|Cmd-I to Heal]]
+- Earlier: 2024-01-08 · Aider · [[Changes/Aider/2024-01-08-improvements-to-unified-diff-editing-format|Improvements to unified diff editing format]]
+- Later: 2024-01-23 · Aider · [[Changes/Aider/2024-01-23-3-editor-experience-changes-in-v0-22-0|3 Editor Experience changes in v0.22.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

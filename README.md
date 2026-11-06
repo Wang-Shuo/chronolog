@@ -29,6 +29,21 @@ python -m pytest -q
 - ChatGPT: [ChatGPT release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
 - Claude Code: [anthropics/claude-code releases](https://github.com/anthropics/claude-code/releases)
 - Cursor: [Cursor changelog](https://cursor.com/changelog)
+- Codex CLI: [openai/codex releases](https://github.com/openai/codex/releases)
+- Gemini CLI: [google-gemini/gemini-cli releases](https://github.com/google-gemini/gemini-cli/releases)
+- GitHub Copilot CLI: [github/copilot-cli releases](https://github.com/github/copilot-cli/releases)
+- Windsurf (now Devin Desktop): [stable desktop changelog](https://docs.devin.ai/desktop/changelog)
+- Cline: [cline/cline releases](https://github.com/cline/cline/releases)
+- Aider: [Aider-AI/aider releases](https://github.com/Aider-AI/aider/releases)
+- OpenHands: [OpenHands/OpenHands releases](https://github.com/OpenHands/OpenHands/releases)
+
+`_scripts/sources.yaml` is the shared product catalog for collection, public pages,
+search, graph and timeline filters. The seven added sources track stable application
+releases: `include_prereleases: false` and `tag_pattern` exclude preview builds,
+separately tagged packages and temporary CI uploads. Codex uses smaller API pages
+because release asset metadata makes 100-item responses time out. Coverage limits
+are carried into each product page and About; CLI histories do not represent their
+consumer apps or all product surfaces. Continue and Tabby remain disabled.
 
 ## Daily incremental updates
 
@@ -202,8 +217,8 @@ npx quartz build
 
 Quartz reads the repository-root vault. `content/` is an ignored, disposable artifact
 from older builds. `_pipeline/`, `_review/`, `_scripts/`, tests and docs are not published.
-The explicit three-product filter excludes legacy fixture products, fixture records
-and superseded records from HTML, search, explorer and graph. Historical Markdown
+The source-catalog filter excludes disabled products, fixture records and superseded
+records from HTML, search, explorer and graph. Historical Markdown
 remains available locally; there is no public archive route for retired records.
 
 Preview locally:

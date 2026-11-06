@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 8f73a3dd147eb31959a42112b8df4e07783eb03a25594d47b7cef7814c818d56
+machine_hash: 1e610aeeac7a03ac2d54aa440aad31e9b714024c0b993100d88d1fed635e6b36
 product: cursor
 product_name: Cursor
 record:
@@ -52,12 +52,12 @@ record:
   title: 4 Apps and Integrations changes in 2.4
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-01-13-2-apps-and-integrations-changes-in-v2-1-6|2 Apps
-  and Integrations changes in v2.1.6]]'
-- '[[Changes/Claude Code/2026-01-20-2-apps-and-integrations-changes-in-v2-1-14|2 Apps
-  and Integrations changes in v2.1.14]]'
+- '[[Changes/Gemini CLI/2026-01-21-10-apps-and-integrations-changes-in-v0-25-0|10
+  Apps and Integrations changes in v0.25.0]]'
 - '[[Changes/Claude Code/2026-01-22-vscode-added-native-plugin-management-support|VSCode
   Added native plugin management support]]'
+- '[[Changes/Codex CLI/2026-01-22-2-apps-and-integrations-changes-in-rust-v0-89-0|2
+  Apps and Integrations changes in rust-v0.89.0]]'
 source_release: '[[Releases/Cursor/cursor-2026-01-22-2-4-https-cursor-com-changelog-2-4-a10c8f03|cursor-2026-01-22-2-4-https-cursor-com-changelog-2-4-a10c8f03]]'
 source_type: cursor_changelog
 theme: apps-integrations
@@ -111,8 +111,8 @@ Source: https://cursor.com/changelog/2-4
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-01-22 · Claude Code · [[Changes/Claude Code/2026-01-22-vscode-added-native-plugin-management-support|VSCode Added native plugin management support]]
-- Later: 2026-01-23 · Claude Code · [[Changes/Claude Code/2026-01-23-2-apps-and-integrations-changes-in-v2-1-19|2 Apps and Integrations changes in v2.1.19]]
+- Earlier: 2026-01-22 · Codex CLI · [[Changes/Codex CLI/2026-01-22-2-apps-and-integrations-changes-in-rust-v0-89-0|2 Apps and Integrations changes in rust-v0.89.0]]
+- Later: 2026-01-22 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-01-22-2-apps-and-integrations-changes-in-v0-0-392|2 Apps and Integrations changes in v0.0.392]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

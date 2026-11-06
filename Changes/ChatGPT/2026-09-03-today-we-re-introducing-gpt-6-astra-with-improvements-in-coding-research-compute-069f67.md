@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 8ae18026517af5312df839af8bff22336303a353eba80c773aaf9048dfdaf811
+machine_hash: 38f976f4ba54bdab46c00cc8073fe4f234f3e48071f13d25a395ce8dd3d2d938
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -57,12 +57,12 @@ record:
   title: Introducing GPT-6 Astra
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-08-28-5-model-support-changes-in-v2-1-251|5 Model Support
-  changes in v2.1.251]]'
-- '[[Changes/ChatGPT/2026-08-31-site-tools-use-webmcp-and-require-a-supported-account-model-and-webpage-they-are|Site
-  tools use WebMCP and require a supported account, model, and webpage]]'
-- '[[Changes/Claude Code/2026-09-01-6-model-support-changes-in-v2-1-257|6 Model Support
-  changes in v2.1.257]]'
+- '[[Changes/Codex CLI/2026-09-01-6-model-support-changes-in-rust-v0-152-0|6 Model
+  Support changes in rust-v0.152.0]]'
+- '[[Changes/Codex CLI/2026-09-01-guardian-approval-review-now-honors-node-repl-policies-provided-through-model-me|Guardian
+  approval review now honors Node REPL policies provided through model metadata]]'
+- '[[Changes/Cline/2026-09-02-3-model-support-changes-in-v4-1-17|3 Model Support changes
+  in v4.1.17]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-09-03-introducing-gpt-6-astra-d055fc02|chatgpt-2026-09-03-introducing-gpt-6-astra-d055fc02]]'
 source_type: chatgpt_changelog
 theme: model-support
@@ -93,7 +93,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-09-01 · Claude Code · [[Changes/Claude Code/2026-09-01-6-model-support-changes-in-v2-1-257|6 Model Support changes in v2.1.257]]
+- Earlier: 2026-09-02 · Cline · [[Changes/Cline/2026-09-02-3-model-support-changes-in-v4-1-17|3 Model Support changes in v4.1.17]]
 - Later: 2026-09-03 · Claude Code · [[Changes/Claude Code/2026-09-03-2-model-support-changes-in-v2-1-260|2 Model Support changes in v2.1.260]]
 <!-- chronolog:end -->
 

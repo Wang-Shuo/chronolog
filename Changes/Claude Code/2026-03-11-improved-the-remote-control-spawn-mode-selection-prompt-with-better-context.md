@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: fe0fed983bcacafbebcabc1b41731ed136a841941800bf9523685fc5123412da
+machine_hash: efb4fba2993496852407b42a7949c24e8fe81e21e93a73558e34311ea6eee34f
 product: claude-code
 product_name: Claude Code
 record:
@@ -41,12 +41,12 @@ record:
   title: Improved the Remote Control spawn mode selection prompt with better context
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-03-03-2-context-window-changes-in-2-6|2 Context Window changes
-  in 2.6]]'
-- '[[Changes/ChatGPT/2026-03-05-gpt-5-4-brings-together-the-best-of-our-recent-advances-in-reasoning-coding-and|GPT-5.4
-  Thinking in ChatGPT]]'
-- '[[Changes/Claude Code/2026-03-05-3-context-window-changes-in-v2-1-69|3 Context
-  Window changes in v2.1.69]]'
+- '[[Changes/GitHub Copilot CLI/2026-03-05-session-usage-metrics-requests-tokens-code-changes-are-now-persisted-to-events-j|Session
+  usage metrics (requests, tokens, code changes) are now persisted…]]'
+- '[[Changes/GitHub Copilot CLI/2026-03-06-improve-explore-agent-precision-and-large-repository-support-with-better-context|Improve
+  explore agent precision and large repository support with better context sharing]]'
+- '[[Changes/Codex CLI/2026-03-10-4-context-window-changes-in-rust-v0-113-0|4 Context
+  Window changes in rust-v0.113.0]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-03-11-v2-1-73-github-295814700-0abb054f|claude-code-2026-03-11-v2-1-73-github-295814700-0abb054f]]'
 source_type: github_releases
 theme: context-window
@@ -81,8 +81,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Context Window
 
-- Earlier: 2026-03-05 · Claude Code · [[Changes/Claude Code/2026-03-05-3-context-window-changes-in-v2-1-69|3 Context Window changes in v2.1.69]]
-- Later: 2026-03-14 · Claude Code · [[Changes/Claude Code/2026-03-14-added-postcompact-hook-that-fires-after-compaction-completes|Added PostCompact hook that fires after compaction completes]]
+- Earlier: 2026-03-10 · Codex CLI · [[Changes/Codex CLI/2026-03-10-4-context-window-changes-in-rust-v0-113-0|4 Context Window changes in rust-v0.113.0]]
+- Later: 2026-03-11 · Codex CLI · [[Changes/Codex CLI/2026-03-11-2-context-window-changes-in-rust-v0-114-0|2 Context Window changes in rust-v0.114.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

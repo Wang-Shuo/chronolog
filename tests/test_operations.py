@@ -174,7 +174,7 @@ def test_public_verification_rejects_stale_commit_and_mixed_artifacts():
     base='https://owner.github.io/chronolog'
     index=json.dumps({'index':{},'Products/ChatGPT':{}}).encode()
     rss=f'<rss><channel><item><link>{base}/Products/ChatGPT</link></item></channel></rss>'.encode()
-    identity={'commit':'abc','kind':'commit-build',
+    identity={'commit':'abc','kind':'commit-build','product_slugs':['Products/ChatGPT'],
         'content_index_sha256':hashlib.sha256(index).hexdigest(),'rss_sha256':hashlib.sha256(rss).hexdigest()}
     pages={base+'/deployment.json':json.dumps(identity).encode(),base+'/static/contentIndex.json':index,
            base+'/index.xml':rss,base+'/':b'<html>Home</html>'}
@@ -195,12 +195,16 @@ def test_untrusted_snapshot_rejection_does_not_hide_http_error(vault,tmp_path,mo
 
 def test_seven_replays_or_missing_days_do_not_satisfy_live_acceptance():
     from _scripts.verify_schedule import assess
+    from _scripts.collect import load_sources
     now=datetime(2026,10,13,12,tzinfo=timezone.utc)
     runs=[{'databaseId':i,'event':'schedule','status':'completed','conclusion':'success',
            'createdAt':(now-timedelta(days=i)).isoformat()} for i in range(7)]
     reports={i:{'input_kind':'live','status':'no-change',
-                'sources':[{'product':p,'status':'success'} for p in ['chatgpt','claude-code','cursor']]} for i in range(7)}
+                'sources':[{'product':p['name'],'status':'success'} for p in load_sources(ROOT / '_scripts/sources.yaml')]} for i in range(7)}
     assert assess(runs,reports,now)['scheduled_runs']==7
+    missing = reports[0]['sources'].pop()
+    with pytest.raises(ValueError, match='each requested source'): assess(runs, reports, now)
+    reports[0]['sources'].append(missing)
     reports[0]['input_kind']='replay'
     with pytest.raises(ValueError,match='replay'):assess(runs,reports,now)
     reports[0]['input_kind']='live';runs[0]['createdAt']=(now-timedelta(days=10)).isoformat()

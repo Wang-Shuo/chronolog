@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: pricing
-machine_hash: 8d32eca9fcb8526736ab970699a3643b896e1838aefb525e6a18fd977c9caf7a
+machine_hash: 13eb61bb39b32a5467b98955b5fc4251391445fbfe0ce9ac6b81dc8cf457dda2
 product: cursor
 product_name: Cursor
 record:
@@ -56,11 +56,9 @@ record:
   title: Simpler, unified pricing
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-03-23-chat-will-now-display-a-notification-about-usage-based-pricing-when-approaching|Chat
-  will now display a notification about usage-based pricing when approaching fast…]]'
-- '[[Changes/Cursor/2025-03-23-usage-based-cost-visibility|Usage-based cost visibility]]'
-- '[[Changes/Cursor/2025-03-23-this-release-introduces-chat-tabs-for-parallel-conversations-a-redesignedmodes-s|Cursor
-  introduces chat tabs for parallel conversations, a redesignedmodes system…]]'
+- '[[Changes/Windsurf/2025-04-20-updated-simplified-pricing|Updated & Simplified Pricing]]'
+- '[[Changes/Windsurf/2025-04-20-user-prompt-credits|User Prompt Credits]]'
+- '[[Changes/Windsurf/2025-04-20-existing-plans|Existing Plans]]'
 source_release: '[[Releases/Cursor/cursor-2025-05-15-0-50-https-cursor-com-changelog-0-50-dc290998|cursor-2025-05-15-0-50-https-cursor-com-changelog-0-50-dc290998]]'
 source_type: cursor_changelog
 theme: pricing-model
@@ -104,8 +102,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Pricing Model
 
-- Earlier: 2025-03-23 · Cursor · [[Changes/Cursor/2025-03-23-this-release-introduces-chat-tabs-for-parallel-conversations-a-redesignedmodes-s|Cursor introduces chat tabs for parallel conversations, a redesignedmodes system…]]
-- Later: 2025-08-06 · Cursor · [[Changes/Cursor/2025-08-06-usage-and-pricing-visibility|Usage and pricing visibility]]
+- Earlier: 2025-04-20 · Windsurf · [[Changes/Windsurf/2025-04-20-existing-plans|Existing Plans]]
+- Later: 2025-07-01 · Gemini CLI · [[Changes/Gemini CLI/2025-07-01-docs-add-a-page-detailing-quota-and-cost-information-by-ptone-in-https-github-co|Docs: Add a page detailing quota and cost information]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

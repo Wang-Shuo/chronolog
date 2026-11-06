@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 51ffb84076db6198977285869c6fdbc88ae68a1e64c51137e2df5c377023708e
+machine_hash: 3617c815648582794e6f510d502150afd86890cf2e9cacf17a5d0f343034856e
 product: claude-code
 product_name: Claude Code
 record:
@@ -58,12 +58,12 @@ record:
     instead…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-02-17-added-support-for-claude-sonnet-4-6|Added support
-  for Claude Sonnet 4.6]]'
-- '[[Changes/Cursor/2026-02-18-2-model-support-changes-in-cli-improvements-and-mermaid-ascii|2
-  Model Support changes in CLI Improvements and Mermaid ASCII…]]'
-- '[[Changes/Claude Code/2026-02-19-2-model-support-changes-in-v2-1-49|2 Model Support
-  changes in v2.1.49]]'
+- '[[Changes/GitHub Copilot CLI/2026-02-19-2-model-support-changes-in-v0-0-412|2 Model
+  Support changes in v0.0.412]]'
+- '[[Changes/GitHub Copilot CLI/2026-02-20-2-model-support-changes-in-v0-0-413|2 Model
+  Support changes in v0.0.413]]'
+- '[[Changes/GitHub Copilot CLI/2026-02-23-plan-approval-menu-shows-model-curated-actions-with-a-recommended-option-highlig|Plan
+  approval menu shows model-curated actions with a recommended option highlighted…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-02-24-v2-1-51-github-289665343-b4bbdd9c|claude-code-2026-02-24-v2-1-51-github-289665343-b4bbdd9c]]'
 source_type: github_releases
 theme: model-support
@@ -95,8 +95,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-02-19 · Claude Code · [[Changes/Claude Code/2026-02-19-2-model-support-changes-in-v2-1-49|2 Model Support changes in v2.1.49]]
-- Later: 2026-03-03 · ChatGPT · [[Changes/ChatGPT/2026-03-03-gpt-5-3-instant-delivers-more-accurate-answers-richer-and-better-contextualized|GPT-5.3 Instant Update]]
+- Earlier: 2026-02-23 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-02-23-plan-approval-menu-shows-model-curated-actions-with-a-recommended-option-highlig|Plan approval menu shows model-curated actions with a recommended option highlighted…]]
+- Later: 2026-02-24 · Cline · [[Changes/Cline/2026-02-24-added-codex-5-3-model-support|Added Codex 5.3 model support]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

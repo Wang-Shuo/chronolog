@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: pricing
-machine_hash: 0059a32670269438c60b5ebbf52df65e5721030dfd0c4e0ad08435bfe602ea6b
+machine_hash: 79b82db4949ef53b684f895b84248589d1f4cdbd08d59c92f5c7aacf248406c3
 product: claude-code
 product_name: Claude Code
 record:
@@ -99,7 +99,7 @@ type: change
 ## Nearby in Pricing Model
 
 - Earlier: 2026-04-09 · ChatGPT · [[Changes/ChatGPT/2026-04-09-you-can-upgrade-switch-or-cancel-your-plan-from-settings-my-plan-or-from-the-pri|You can upgrade, switch, or cancel your plan from Settings  My Plan or…]]
-- Later: 2026-05-11 · Cursor · [[Changes/Cursor/2026-05-11-customers-must-be-on-usage-based-billing-for-bugbot-to-customize-effort-levels-l|Customers must be on usage-based billing for Bugbot to customize effort levels]]
+- Later: 2026-05-06 · Windsurf · [[Changes/Windsurf/2026-05-06-devin-review-quick-review|Devin Review & Quick Review]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

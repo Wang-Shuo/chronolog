@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 7f11a87a8968571b6180181dfc71b35a4619930de31656c61e99b680305b5b14
+machine_hash: 5ff4860bf02712e6d79766df74c2ebbebb90aa8d170b4d33fa68ce3221a42c7f
 product: claude-code
 product_name: Claude Code
 record:
@@ -44,12 +44,12 @@ record:
   title: 2 Reliability and Performance changes in v2.1.146
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-05-07-build-in-parallel-from-plans|Build in parallel from
-  plans]]'
-- '[[Changes/Claude Code/2026-05-11-added-scroll-speed-command-to-tune-mouse-wheel-scroll-speed-with-a-live-preview|Added
-  /scroll-speed command to tune mouse wheel scroll speed with a live preview]]'
-- '[[Changes/Cursor/2026-05-11-default-bugbot-continues-to-use-the-same-effort-level-as-it-does-today-optimized|Default:
-  Bugbot continues to use the same effort level as it does today]]'
+- '[[Changes/Gemini CLI/2026-05-12-2-reliability-and-performance-changes-in-v0-42-0|2
+  Reliability and Performance changes in v0.42.0]]'
+- '[[Changes/Cline/2026-05-13-improve-mention-file-search-performance|Improve @-mention
+  file search performance]]'
+- '[[Changes/Codex CLI/2026-05-20-windows-installs-are-more-robust-codex-doctor-now-detects-npm-managed-installs-c|Windows
+  installs are more robust]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-05-21-v2-1-146-github-326230049-ea612648|claude-code-2026-05-21-v2-1-146-github-326230049-ea612648]]'
 source_type: github_releases
 theme: reliability-performance
@@ -83,7 +83,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.146
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2026-05-11 · Cursor · [[Changes/Cursor/2026-05-11-default-bugbot-continues-to-use-the-same-effort-level-as-it-does-today-optimized|Default: Bugbot continues to use the same effort level as it does today]]
+- Earlier: 2026-05-20 · Codex CLI · [[Changes/Codex CLI/2026-05-20-windows-installs-are-more-robust-codex-doctor-now-detects-npm-managed-installs-c|Windows installs are more robust]]
 - Later: 2026-05-21 · Claude Code · [[Changes/Claude Code/2026-05-21-3-reliability-and-performance-changes-in-v2-1-147|3 Reliability and Performance changes in v2.1.147]]
 <!-- chronolog:end -->
 

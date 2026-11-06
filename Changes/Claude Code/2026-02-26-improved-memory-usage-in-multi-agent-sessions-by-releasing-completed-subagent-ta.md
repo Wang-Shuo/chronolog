@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: 08ac35f28edcd7531f1dcca760aeb34f70e3e7424e4b8c3c19f6839032c14c27
+machine_hash: 0ac8b6101aa0b9923d2b8e5f9eefe56ce5eeb0056267712570f4a6c6198d2ce7
 product: claude-code
 product_name: Claude Code
 record:
@@ -56,12 +56,12 @@ record:
     task state
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-02-18-auto-updates-now-run-in-the-background-for-faster-time-to-interactive|Auto-updates
-  now run in the background for faster time-to-interactive]]'
-- '[[Changes/Claude Code/2026-02-19-2-reliability-and-performance-changes-in-v2-1-49|2
-  Reliability and Performance changes in v2.1.49]]'
-- '[[Changes/Claude Code/2026-02-20-3-reliability-and-performance-changes-in-v2-1-50|3
-  Reliability and Performance changes in v2.1.50]]'
+- '[[Changes/Cline/2026-02-24-preconnect-websocket-to-reduce-response-latency|Preconnect
+  websocket to reduce response latency]]'
+- '[[Changes/Codex CLI/2026-02-25-3-reliability-and-performance-changes-in-rust-v0-105-0|3
+  Reliability and Performance changes in rust-v0.105.0]]'
+- '[[Changes/Gemini CLI/2026-02-25-2-reliability-and-performance-changes-in-v0-30-0|2
+  Reliability and Performance changes in v0.30.0]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-02-26-v2-1-59-github-290659389-9e2d6217|claude-code-2026-02-26-v2-1-59-github-290659389-9e2d6217]]'
 source_type: github_releases
 theme: reliability-performance
@@ -94,8 +94,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2026-02-20 · Claude Code · [[Changes/Claude Code/2026-02-20-3-reliability-and-performance-changes-in-v2-1-50|3 Reliability and Performance changes in v2.1.50]]
-- Later: 2026-02-27 · ChatGPT · [[Changes/ChatGPT/2026-02-27-faster-sharing-sharing-chats-is-now-easier-and-faster-with-a-quicker-loading-sha|Faster sharing. Sharing chats is now easier and faster, with a quicker-loading share menu]]
+- Earlier: 2026-02-25 · Gemini CLI · [[Changes/Gemini CLI/2026-02-25-2-reliability-and-performance-changes-in-v0-30-0|2 Reliability and Performance changes in v0.30.0]]
+- Later: 2026-02-26 · Codex CLI · [[Changes/Codex CLI/2026-02-26-2-reliability-and-performance-changes-in-rust-v0-106-0|2 Reliability and Performance changes in rust-v0.106.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

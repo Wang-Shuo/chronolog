@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: c3fee14a3458c4b7f5ebc2809460b391074f922bd771f85f8874acdd725d709c
+machine_hash: 1a8e77c505ac950d5ef8c60626a050d7f58ee3d45485ab761cf2e6064767a5be
 product: cursor
 product_name: Cursor
 record:
@@ -43,12 +43,12 @@ record:
   title: Experimental @Codebase support in the chat (and coming to the cmd-k soon!)
   type: change
 related_changes:
-- '[[Changes/Cursor/2023-07-12-semantic-search-in-cmd-shift-f-842ecc|Semantic search
-  in Cmd-Shift-F]]'
-- '[[Changes/Cursor/2023-07-19-a-better-flow-for-getting-cmd-k-to-produce-code-with-no-linter-errors-you-should-8eb878|A
-  better flow for getting CMD-k to produce code with no linter errors…]]'
+- '[[Changes/Aider/2023-07-22-provide-gpt-with-detailed-error-if-it-makes-a-bad-edit-block-ask-for-a-retry|Provide
+  GPT with detailed error if it makes a bad edit block, ask for a retry]]'
 - '[[Changes/Cursor/2023-07-22-cmd-k-can-again-see-all-of-your-cells-in-jupyter|Jupyter
   CMD-k Context Building]]'
+- '[[Changes/Aider/2023-07-24-provide-gpt-with-detailed-error-if-it-makes-a-bad-edit-block-ask-for-a-retry|Provide
+  GPT with detailed error if it makes a bad edit block, ask for a retry]]'
 source_release: '[[Releases/Cursor/cursor-2023-07-27-0-5-0-https-cursor-com-changelog-0-5-0-55901f62|cursor-2023-07-27-0-5-0-https-cursor-com-changelog-0-5-0-55901f62]]'
 source_type: cursor_changelog
 theme: editor-experience
@@ -78,7 +78,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2023-07-22 · Cursor · [[Changes/Cursor/2023-07-22-cmd-k-can-again-see-all-of-your-cells-in-jupyter|Jupyter CMD-k Context Building]]
+- Earlier: 2023-07-24 · Aider · [[Changes/Aider/2023-07-24-provide-gpt-with-detailed-error-if-it-makes-a-bad-edit-block-ask-for-a-retry|Provide GPT with detailed error if it makes a bad edit block, ask for a retry]]
 - Later: 2023-08-10 · Cursor · [[Changes/Cursor/2023-08-10-for-those-who-don-t-want-the-chat-side-by-side-you-can-now-pop-it-into-your-edit|In-editor chat]]
 <!-- chronolog:end -->
 

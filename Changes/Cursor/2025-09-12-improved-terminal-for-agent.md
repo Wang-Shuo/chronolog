@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: 51065452356a13191dfb40f457f94f116803f2a38f24adcae833ada142fb45b3
+machine_hash: 453406a4f72f495a7a8cab0a93b01f3968d7d3c2e5e9c22961cf6bb4342ff634
 product: cursor
 product_name: Cursor
 record:
@@ -64,12 +64,12 @@ record:
   title: Improved terminal for Agent
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-06-04-automatic-code-review-with-bugbot-19b552|Automatic
-  code review with Bugbot]]'
-- '[[Changes/Cursor/2025-07-29-2-developer-workflow-changes-in-1-3|2 Developer Workflow
-  changes in 1.3]]'
-- '[[Changes/Cursor/2025-08-21-the-terminal-now-opens-on-the-left-with-a-clear-backdrop-and-border-animation-to|Improved
-  review flow in Agent terminal]]'
+- '[[Changes/Codex CLI/2025-09-08-2-developer-workflow-changes-in-rust-v0-31-0|2 Developer
+  Workflow changes in rust-v0.31.0]]'
+- '[[Changes/Gemini CLI/2025-09-09-3-developer-workflow-changes-in-v0-4-0|3 Developer
+  Workflow changes in v0.4.0]]'
+- '[[Changes/Codex CLI/2025-09-10-2-developer-workflow-changes-in-rust-v0-32-0|2 Developer
+  Workflow changes in rust-v0.32.0]]'
 source_release: '[[Releases/Cursor/cursor-2025-09-12-1-6-https-cursor-com-changelog-1-6-f33fb3ea|cursor-2025-09-12-1-6-https-cursor-com-changelog-1-6-f33fb3ea]]'
 source_type: cursor_changelog
 theme: developer-workflow
@@ -111,8 +111,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2025-08-21 · Cursor · [[Changes/Cursor/2025-08-21-the-terminal-now-opens-on-the-left-with-a-clear-backdrop-and-border-animation-to|Improved review flow in Agent terminal]]
-- Later: 2025-09-29 · Cursor · [[Changes/Cursor/2025-09-29-7-developer-workflow-changes-in-1-7|7 Developer Workflow changes in 1.7]]
+- Earlier: 2025-09-10 · Codex CLI · [[Changes/Codex CLI/2025-09-10-2-developer-workflow-changes-in-rust-v0-32-0|2 Developer Workflow changes in rust-v0.32.0]]
+- Later: 2025-09-13 · Cline · [[Changes/Cline/2025-09-13-feature-to-generate-commit-message-for-staged-changes-with-unstaged-as-fallback|Feature to generate commit message for staged changes, with unstaged as fallback]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

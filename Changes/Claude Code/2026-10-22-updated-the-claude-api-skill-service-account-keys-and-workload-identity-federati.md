@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: bc2fda021550a06e50c4f4afa3be6b416112e080d15384932f213a5a35c9e5bf
+machine_hash: 9cf0eefb350f1a75cbf5cc8dc05b36410cacc95beffbb7c887d2f57310c9e924
 product: claude-code
 product_name: Claude Code
 record:
@@ -42,12 +42,12 @@ record:
   title: Updated the /claude-api skill
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-15-improved-switching-to-a-model-with-a-smaller-context-window-a-conversation-too-l|Improved
-  switching to a model with a smaller context window]]'
-- '[[Changes/Claude Code/2026-10-16-2-context-window-changes-in-v2-1-302|2 Context
-  Window changes in v2.1.302]]'
-- '[[Changes/Claude Code/2026-10-19-3-context-window-changes-in-v2-1-304|3 Context
-  Window changes in v2.1.304]]'
+- '[[Changes/GitHub Copilot CLI/2026-10-19-avoid-false-context-exhaustion-and-rollover-refusal-when-tool-definitions-are-de|Avoid
+  false context exhaustion and rollover refusal when tool definitions are deferred]]'
+- '[[Changes/OpenHands/2026-10-19-chore-lint-remove-context-color-spec-bookkeeping-by-enyst-in-https-github-com-op|chore(lint):
+  remove context color spec bookkeeping]]'
+- '[[Changes/GitHub Copilot CLI/2026-10-20-switching-only-reasoning-effort-no-longer-forces-compaction-in-over-budget-sessi|Switching
+  only reasoning effort no longer forces compaction in over-budget sessions]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-10-22-v2-1-309-github-421170674-b2394d99|claude-code-2026-10-22-v2-1-309-github-421170674-b2394d99]]'
 source_type: github_releases
 theme: context-window
@@ -84,8 +84,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Context Window
 
-- Earlier: 2026-10-19 · Claude Code · [[Changes/Claude Code/2026-10-19-3-context-window-changes-in-v2-1-304|3 Context Window changes in v2.1.304]]
-- Later: 2026-10-26 · Claude Code · [[Changes/Claude Code/2026-10-26-2-context-window-changes-in-v2-1-311|2 Context Window changes in v2.1.311]]
+- Earlier: 2026-10-20 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-10-20-switching-only-reasoning-effort-no-longer-forces-compaction-in-over-budget-sessi|Switching only reasoning effort no longer forces compaction in over-budget sessions]]
+- Later: 2026-10-23 · Codex CLI · [[Changes/Codex CLI/2026-10-23-18-context-window-changes-in-rust-v0-164-0|18 Context Window changes in rust-v0.164.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 214c12b7b3dd434d794143a3c543a9d2383bc8ff8ce3ace095427cdbd2e71331
+machine_hash: 3181cc4f2354cb8976eff112ef5e981f03bf72a4b7357c301d6c9d7324f7ea2d
 product: claude-code
 product_name: Claude Code
 record:
@@ -44,12 +44,12 @@ record:
     footer now…'
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-02-13-added-windows-arm64-win32-arm64-native-binary-support|Added
-  Windows ARM64 (win32-arm64) native binary support]]'
-- '[[Changes/Cursor/2026-02-18-2-mobile-and-desktop-changes-in-cli-improvements-and-mermaid-ascii|2
-  Mobile and Desktop changes in CLI Improvements and Mermaid ASCII…]]'
-- '[[Changes/Claude Code/2026-03-05-2-mobile-and-desktop-changes-in-v2-1-69|2 Mobile
-  and Desktop changes in v2.1.69]]'
+- '[[Changes/GitHub Copilot CLI/2026-03-13-2-mobile-and-desktop-changes-in-v1-0-5|2
+  Mobile and Desktop changes in v1.0.5]]'
+- '[[Changes/Codex CLI/2026-03-16-2-mobile-and-desktop-changes-in-rust-v0-115-0|2
+  Mobile and Desktop changes in rust-v0.115.0]]'
+- '[[Changes/GitHub Copilot CLI/2026-03-16-3-mobile-and-desktop-changes-in-v1-0-6|3
+  Mobile and Desktop changes in v1.0.6]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-03-17-v2-1-77-github-297726061-caf6c30c|claude-code-2026-03-17-v2-1-77-github-297726061-caf6c30c]]'
 source_type: github_releases
 theme: mobile-desktop
@@ -88,8 +88,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2026-03-05 · Claude Code · [[Changes/Claude Code/2026-03-05-2-mobile-and-desktop-changes-in-v2-1-69|2 Mobile and Desktop changes in v2.1.69]]
-- Later: 2026-03-26 · ChatGPT · [[Changes/ChatGPT/2026-03-26-users-can-now-choose-to-share-their-device-location-so-chatgpt-can-provide-more-7907ed|Location Sharing]]
+- Earlier: 2026-03-16 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-03-16-3-mobile-and-desktop-changes-in-v1-0-6|3 Mobile and Desktop changes in v1.0.6]]
+- Later: 2026-03-17 · Gemini CLI · [[Changes/Gemini CLI/2026-03-17-docs-add-documentation-for-notifications-experimental-macos-by-jkcinouye-in-http|Docs: Add documentation for notifications (experimental)(macOS)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

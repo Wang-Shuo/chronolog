@@ -5,20 +5,20 @@ description: 'Claude Code · 2026-09-23 · Automation and Scheduling: [Claude Ta
   the routine list Claude gives when asked in a Slack thread to show that thread''s
   own…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2025-01-14-today-we-re-rolling-out-a-beta-version-of-tasks-a-new-way-to-ask-chatgpt-to-do-t-2d33b6|Scheduled
-    tasks in ChatGPT]]'
+  first_in_tracked: '[[Changes/OpenHands/2024-09-04-better-syntax-error-loop-detection-by-tobitege-in-https-github-com-all-hands-ai|Better
+    syntax error loop detection]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 617
+  lag_days: 749
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 5ddb9df90827ae421f7a3710361457577ca4996c8ea8abbcfae1cf40854184b6
+machine_hash: 6a683d88f3b5acef68e9d1852cdbf3a4660d88cd72fd7346f88a645e144d5599
 product: claude-code
 product_name: Claude Code
 record:
@@ -46,12 +46,12 @@ record:
     thread…'
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-08-25-free-go-plus-and-pro-users-can-share-scheduled-tasks-recipients-can-review-and-c|Share
-  scheduled tasks]]'
-- '[[Changes/ChatGPT/2026-08-25-free-users-can-create-up-to-three-active-scheduled-tasks-tasks-can-run-once-or-r|Scheduled
-  tasks for Free users]]'
-- '[[Changes/Claude Code/2026-08-27-changed-loop-self-paced-dynamic-mode-and-the-no-prompt-autonomous-default-are-no|Changed
-  /loop: self-paced dynamic mode and the no-prompt autonomous default…]]'
+- '[[Changes/Codex CLI/2026-09-22-45849-preserve-the-app-server-shutdown-signal-future-across-loop-iterations-jger|♯45849
+  Preserve the app-server shutdown signal future across loop iterations @jgershen-oai]]'
+- '[[Changes/OpenHands/2026-09-22-chore-consume-sdk-1-49-4-and-automation-1-14-0-by-hieptl-in-https-github-com-ope|chore:
+  consume SDK 1.49.4 and Automation 1.14.0]]'
+- '[[Changes/OpenHands/2026-09-22-2-automation-and-scheduling-changes-in-v1-21-0|2
+  Automation and Scheduling changes in v1.21.0]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-23-v2-1-281-github-394877414-9173ae95|claude-code-2026-09-23-v2-1-281-github-394877414-9173ae95]]'
 source_type: github_releases
 theme: automation-scheduling
@@ -90,14 +90,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Automation and Scheduling
 
-- Earlier: 2026-08-27 · Claude Code · [[Changes/Claude Code/2026-08-27-changed-loop-self-paced-dynamic-mode-and-the-no-prompt-autonomous-default-are-no|Changed /loop: self-paced dynamic mode and the no-prompt autonomous default…]]
-- Later: 2026-09-29 · ChatGPT · [[Changes/ChatGPT/2026-09-29-site-owners-can-also-create-recurring-cloud-schedules-from-automations-these-upd|Site owners can also create recurring cloud schedules from Automations]]
+- Earlier: 2026-09-22 · OpenHands · [[Changes/OpenHands/2026-09-22-2-automation-and-scheduling-changes-in-v1-21-0|2 Automation and Scheduling changes in v1.21.0]]
+- Later: 2026-09-23 · OpenHands · [[Changes/OpenHands/2026-09-23-chore-consume-sdk-1-49-5-and-automation-1-15-0-by-juanmichelini-in-https-github|chore: consume SDK 1.49.5 and Automation 1.15.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2025-01-14 · ChatGPT · [[Changes/ChatGPT/2025-01-14-today-we-re-rolling-out-a-beta-version-of-tasks-a-new-way-to-ask-chatgpt-to-do-t-2d33b6|Scheduled tasks in ChatGPT]]
+- Earliest same-theme entry in the tracked set: 2024-09-04 · OpenHands · [[Changes/OpenHands/2024-09-04-better-syntax-error-loop-detection-by-tobitege-in-https-github-com-all-hands-ai|Better syntax error loop detection]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

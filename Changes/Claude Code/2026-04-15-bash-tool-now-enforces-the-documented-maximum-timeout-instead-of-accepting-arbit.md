@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: c7728d075c912bcddea291495eb75d721e8361b48e753a0ebac92577930e8544
+machine_hash: 1768cf1e843f107d6672ad29929b4a2f779ed9878a934f53e12c0118dfa9ae5a
 product: claude-code
 product_name: Claude Code
 record:
@@ -43,12 +43,12 @@ record:
   title: Bash tool now enforces the documented maximum timeout instead of accepting…
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-04-14-use-debug-to-find-root-causes-and-fix-tricky-bugs-that-are-hard-to-reproduce-or|Debug
-  Mode in CLI]]'
-- '[[Changes/Cursor/2026-04-14-we-ve-shipped-quality-of-life-improvements-to-the-cursor-cli-to-make-working-wit|We''ve
-  shipped quality-of-life improvements to the Cursor CLI to make working…]]'
 - '[[Changes/Cursor/2026-04-14-3-developer-workflow-changes-in-04-14-26|3 Developer
   Workflow changes in 04.14.26]]'
+- '[[Changes/Gemini CLI/2026-04-14-4-developer-workflow-changes-in-v0-38-0|4 Developer
+  Workflow changes in v0.38.0]]'
+- '[[Changes/GitHub Copilot CLI/2026-04-14-lsp-language-servers-correctly-initialize-on-windows-using-proper-file-uri-paths|LSP
+  language servers correctly initialize on Windows using proper file URI paths]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-04-15-v2-1-110-github-309583669-83ce1e59|claude-code-2026-04-15-v2-1-110-github-309583669-83ce1e59]]'
 source_type: github_releases
 theme: developer-workflow
@@ -84,8 +84,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2026-04-14 · Cursor · [[Changes/Cursor/2026-04-14-3-developer-workflow-changes-in-04-14-26|3 Developer Workflow changes in 04.14.26]]
-- Later: 2026-04-15 · Cursor · [[Changes/Cursor/2026-04-15-in-the-agents-window-canvases-are-durable-artifacts-that-live-in-the-side-panel|In the Agents Window, canvases are durable artifacts that live in the side panel…]]
+- Earlier: 2026-04-14 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-04-14-lsp-language-servers-correctly-initialize-on-windows-using-proper-file-uri-paths|LSP language servers correctly initialize on Windows using proper file URI paths]]
+- Later: 2026-04-15 · Codex CLI · [[Changes/Codex CLI/2026-04-15-4-developer-workflow-changes-in-rust-v0-121-0|4 Developer Workflow changes in rust-v0.121.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

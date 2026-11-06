@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: b0dfd965c815da56c68a741801acdbd31dcfa2a5ac723abc59a8add5a9dba333
+machine_hash: 5c0ea017e0fe11f36be3387013468469c150f153fcec3a061b3ec3f3d3611831
 product: claude-code
 product_name: Claude Code
 record:
@@ -46,12 +46,12 @@ record:
   title: 2 Model Support changes in v2.1.233
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-08-06-plus-and-pro-users-can-now-use-an-updated-gpt-5-6-sol-in-chatgpt-with-more-relia-397840|Updates
-  to GPT‑5.6 in ChatGPT]]'
-- '[[Changes/Claude Code/2026-08-07-changed-the-bash-tool-description-to-always-note-that-command-output-is-displaye|Changed
-  the Bash tool description to always note that command output is displayed…]]'
 - '[[Changes/Claude Code/2026-08-11-changed-the-write-tool-so-newer-models-can-overwrite-an-existing-file-they-haven|Changed
   the Write tool so newer models can overwrite an existing file they haven''t…]]'
+- '[[Changes/Cline/2026-08-11-2-model-support-changes-in-v4-1-8|2 Model Support changes
+  in v4.1.8]]'
+- '[[Changes/Gemini CLI/2026-08-11-2-model-support-changes-in-v0-55-1|2 Model Support
+  changes in v0.55.1]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-08-14-v2-1-233-github-370762090-de6823a9|claude-code-2026-08-14-v2-1-233-github-370762090-de6823a9]]'
 source_type: github_releases
 theme: model-support
@@ -92,8 +92,8 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.233
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-08-11 · Claude Code · [[Changes/Claude Code/2026-08-11-changed-the-write-tool-so-newer-models-can-overwrite-an-existing-file-they-haven|Changed the Write tool so newer models can overwrite an existing file they haven't…]]
-- Later: 2026-08-17 · Claude Code · [[Changes/Claude Code/2026-08-17-2-model-support-changes-in-v2-1-234|2 Model Support changes in v2.1.234]]
+- Earlier: 2026-08-11 · Gemini CLI · [[Changes/Gemini CLI/2026-08-11-2-model-support-changes-in-v0-55-1|2 Model Support changes in v0.55.1]]
+- Later: 2026-08-14 · Cline · [[Changes/Cline/2026-08-14-2-model-support-changes-in-v4-1-10|2 Model Support changes in v4.1.10]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

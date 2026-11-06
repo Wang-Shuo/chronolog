@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: a8ff9e88958ed4aa9870191e1fd75e1966ac414cea1fedb490531b1ca4d71fda
+machine_hash: 2a8667a7af452590819b445887022501ee8196ffbf4c1e49dd0f22c9f0f2d02b
 product: claude-code
 product_name: Claude Code
 record:
@@ -80,7 +80,7 @@ type: change
 ## Nearby in Context Window
 
 - Earlier: 2026-05-13 · Cursor · [[Changes/Cursor/2026-05-13-compact-chat-responses|Compact chat responses]]
-- Later: 2026-05-19 · Claude Code · [[Changes/Claude Code/2026-05-19-improved-the-read-tool-to-return-a-truncated-first-page-with-a-partial-view-noti|Improved the Read tool to return a truncated first page with a "PARTIAL view" notice…]]
+- Later: 2026-05-14 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-05-14-context-shows-correct-token-limits-for-all-models-instead-of-always-showing-128k|/context shows correct token limits for all models instead of always showing 128k]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

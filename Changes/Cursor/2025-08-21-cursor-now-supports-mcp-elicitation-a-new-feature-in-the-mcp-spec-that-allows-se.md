@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: b86764805d8cae32f82f490488d67d5289cb951aaafc153686ce484ec62ec0d1
+machine_hash: d44b7735cdd8780da71595a25baa8313b21a54447e95ac197eddee1bdb202cfb
 product: cursor
 product_name: Cursor
 record:
@@ -50,12 +50,12 @@ record:
   title: Support for MCP elicitation
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2025-07-24-pro-users-can-now-utilize-chat-search-with-hubspot-and-custom-connectors-mcp-in-b9b682|Chat
-  search for HubSpot and custom connectors (MCP) (Pro)]]'
-- '[[Changes/Cursor/2025-07-29-extension-marketplace-supports-custom-urls|Extension
-  marketplace supports custom URLs]]'
-- '[[Changes/ChatGPT/2025-08-13-gmail-google-calendar-and-google-contacts-connectors-in-chatgpt-are-now-availabl-e34de4|Gmail,
-  Google Calendar, and Google Contacts Connectors in ChatGPT (Plus)]]'
+- '[[Changes/Codex CLI/2025-08-20-5-apps-and-integrations-changes-in-rust-v0-23-0|5
+  Apps and Integrations changes in rust-v0.23.0]]'
+- '[[Changes/OpenHands/2025-08-20-2-apps-and-integrations-changes-in-0-54-0|2 Apps
+  and Integrations changes in 0.54.0]]'
+- '[[Changes/Cline/2025-08-21-feat-telemetry-add-mcp-tool-usage-tracking-by-nighttrek-in-https-github-com-clin|feat(telemetry):
+  Add MCP tool usage tracking]]'
 source_release: '[[Releases/Cursor/cursor-2025-08-21-1-5-https-cursor-com-changelog-1-5-f93efb89|cursor-2025-08-21-1-5-https-cursor-com-changelog-1-5-f93efb89]]'
 source_type: cursor_changelog
 theme: apps-integrations
@@ -91,8 +91,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2025-08-13 · ChatGPT · [[Changes/ChatGPT/2025-08-13-gmail-google-calendar-and-google-contacts-connectors-in-chatgpt-are-now-availabl-e34de4|Gmail, Google Calendar, and Google Contacts Connectors in ChatGPT (Plus)]]
-- Later: 2025-09-12 · Cursor · [[Changes/Cursor/2025-09-12-2-apps-and-integrations-changes-in-1-6|2 Apps and Integrations changes in 1.6]]
+- Earlier: 2025-08-21 · Cline · [[Changes/Cline/2025-08-21-feat-telemetry-add-mcp-tool-usage-tracking-by-nighttrek-in-https-github-com-clin|feat(telemetry): Add MCP tool usage tracking]]
+- Later: 2025-08-26 · Codex CLI · [[Changes/Codex CLI/2025-08-26-5-apps-and-integrations-changes-in-rust-v0-24-0|5 Apps and Integrations changes in rust-v0.24.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

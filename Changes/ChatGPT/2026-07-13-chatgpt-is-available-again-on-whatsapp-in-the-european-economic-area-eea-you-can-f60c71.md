@@ -4,20 +4,20 @@ date: '2026-07-13'
 description: 'ChatGPT · 2026-07-13 · Voice and Audio: ChatGPT is available again on
   WhatsApp in the European Economic Area (EEA). You can get started without a ChatGPT…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-09-25-you-can-now-use-voice-to-engage-in-a-back-and-forth-conversation-with-your-assis-13666e|Voice
-    (Beta) is now rolling out to Plus users on iOS and Android]]'
+  first_in_tracked: '[[Changes/Aider/2023-08-11-voice-to-code-https-aider-chat-docs-voice-html-support-which-allows-you-to-code|Voice-to-code((source
+    link) support, which allows you…]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1022
+  lag_days: 1067
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 1d8408de24b52b48924794115577173ef944e64495c961a2be0356eaf6a5d90f
+machine_hash: 0e99e632a3658c64765f3a14fcdac866a83ae0ff7e4df568e4eb93334ff5ade3
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -63,10 +63,10 @@ record:
   title: ChatGPT returns to WhatsApp in the EEA
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-06-26-we-re-rolling-out-a-new-speech-to-text-model-for-dictation-in-chatgpt-across-all|Improved
-  dictation in ChatGPT]]'
 - '[[Changes/Claude Code/2026-06-26-improved-voice-mode-on-linux-now-distinguishes-no-microphone-from-sox-not-instal|Improved
   voice mode on Linux]]'
+- '[[Changes/GitHub Copilot CLI/2026-06-30-voice-mode-turns-itself-off-when-the-engine-fails-to-start-at-boot|Voice
+  mode turns itself off when the engine fails to start at boot]]'
 - '[[Changes/ChatGPT/2026-07-08-we-re-rolling-out-a-new-chatgpt-voice-experience-chatgpt-voice-is-now-powered-by|Introducing
   GPT-Live-1 in ChatGPT Voice]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-07-13-chatgpt-returns-to-whatsapp-in-the-eea-ce61ee08|chatgpt-2026-07-13-chatgpt-returns-to-whatsapp-in-the-eea-ce61ee08]]'
@@ -96,13 +96,13 @@ type: change
 ## Nearby in Voice and Audio
 
 - Earlier: 2026-07-08 · ChatGPT · [[Changes/ChatGPT/2026-07-08-we-re-rolling-out-a-new-chatgpt-voice-experience-chatgpt-voice-is-now-powered-by|Introducing GPT-Live-1 in ChatGPT Voice]]
-- Later: 2026-07-23 · ChatGPT · [[Changes/ChatGPT/2026-07-23-chatgpt-voice-is-now-available-in-work-and-codex-in-the-chatgpt-desktop-app-star|ChatGPT Voice in Work and Codex on desktop]]
+- Later: 2026-07-16 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-07-16-add-voice-devices-to-choose-and-persist-the-microphone-for-voice-mode|Add /voice devices to choose and persist the microphone for voice mode]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-09-25 · ChatGPT · [[Changes/ChatGPT/2023-09-25-you-can-now-use-voice-to-engage-in-a-back-and-forth-conversation-with-your-assis-13666e|Voice (Beta) is now rolling out to Plus users on iOS and Android]]
+- Earliest same-theme entry in the tracked set: 2023-08-11 · Aider · [[Changes/Aider/2023-08-11-voice-to-code-https-aider-chat-docs-voice-html-support-which-allows-you-to-code|Voice-to-code((source link) support, which allows you…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

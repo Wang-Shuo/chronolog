@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: b65a927a4eeaf9bf29438ad5dbd60d773508239587ebee043a1c22ba0560a29d
+machine_hash: 39535f423aa8f82c04d55beab92e9ea66df7909f0b079a7391417905b8bcdc97
 product: cursor
 product_name: Cursor
 record:
@@ -45,12 +45,12 @@ record:
   title: More chat symbol links
   type: change
 related_changes:
-- '[[Changes/Cursor/2023-12-31-you-can-now-use-chat-and-cmd-k-in-the-aux-window-without-too-many-problems|Aux
-  Window Fixes]]'
 - '[[Changes/Cursor/2024-01-03-hold-down-command-press-and-release-shift-and-continue-holding-down-command-this|Early
   Preview: Hold-cmd-tap-shift to Trigger AI Rewrite]]'
 - '[[Changes/Cursor/2024-01-06-upgrades-cursor-to-vs-code-1-85-which-comes-with-support-for-dragging-out-tabs-i|Upgrades
   Cursor to VS Code 1.85, which comes with support for dragging out tabs…]]'
+- '[[Changes/Aider/2024-01-08-improvements-to-unified-diff-editing-format|Improvements
+  to unified diff editing format]]'
 source_release: '[[Releases/Cursor/cursor-2024-01-18-0-23-x-https-cursor-com-changelog-0-23-x-c0ec65fe|cursor-2024-01-18-0-23-x-https-cursor-com-changelog-0-23-x-c0ec65fe]]'
 source_type: cursor_changelog
 theme: editor-experience
@@ -81,8 +81,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2024-01-06 · Cursor · [[Changes/Cursor/2024-01-06-upgrades-cursor-to-vs-code-1-85-which-comes-with-support-for-dragging-out-tabs-i|Upgrades Cursor to VS Code 1.85, which comes with support for dragging out tabs…]]
-- Later: 2024-02-02 · Cursor · [[Changes/Cursor/2024-02-02-hold-down-cmd-i-over-a-selection-to-heal-the-code-with-gpt-4-useful-for-writing|Cmd-I to Heal]]
+- Earlier: 2024-01-08 · Aider · [[Changes/Aider/2024-01-08-improvements-to-unified-diff-editing-format|Improvements to unified diff editing format]]
+- Later: 2024-01-23 · Aider · [[Changes/Aider/2024-01-23-3-editor-experience-changes-in-v0-22-0|3 Editor Experience changes in v0.22.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

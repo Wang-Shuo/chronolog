@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: d54629997714b3a391c566cb7d55004c292a1edfb81cd514f133db0e3083e7e9
+machine_hash: 6962e2b55b3ab49c51261d584f9bd7ef7773837a17f029890e09f53941adc5ea
 product: cursor
 product_name: Cursor
 record:
@@ -51,12 +51,12 @@ record:
   title: Agents can now search past conversations and use chat history as context
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-02-05-2-context-window-changes-in-v2-1-32|2 Context
-  Window changes in v2.1.32]]'
-- '[[Changes/ChatGPT/2026-02-13-attach-up-to-20-files-in-a-single-message-you-can-now-upload-up-to-20-files-at-o|Attach
-  up to 20 files in a single message]]'
 - '[[Changes/Claude Code/2026-02-13-improved-rename-to-auto-generate-session-name-from-conversation-context-when-cal|Improved
   /rename to auto-generate session name from conversation context…]]'
+- '[[Changes/GitHub Copilot CLI/2026-02-14-shell-mode-pastes-raw-text-instead-of-paste-tokens|Shell
+  mode pastes raw text instead of paste tokens]]'
+- '[[Changes/Codex CLI/2026-02-17-4-context-window-changes-in-rust-v0-102-0|4 Context
+  Window changes in rust-v0.102.0]]'
 source_release: '[[Releases/Cursor/cursor-2026-02-17-2-5-https-cursor-com-changelog-2-5-82892320|cursor-2026-02-17-2-5-https-cursor-com-changelog-2-5-82892320]]'
 source_type: cursor_changelog
 theme: context-window
@@ -95,8 +95,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Context Window
 
-- Earlier: 2026-02-13 · Claude Code · [[Changes/Claude Code/2026-02-13-improved-rename-to-auto-generate-session-name-from-conversation-context-when-cal|Improved /rename to auto-generate session name from conversation context…]]
-- Later: 2026-02-18 · Cursor · [[Changes/Cursor/2026-02-18-cli-now-stores-conversation-transcripts-that-the-agent-can-use-as-context|CLI now stores conversation transcripts that the agent can use as context]]
+- Earlier: 2026-02-17 · Codex CLI · [[Changes/Codex CLI/2026-02-17-4-context-window-changes-in-rust-v0-102-0|4 Context Window changes in rust-v0.102.0]]
+- Later: 2026-02-18 · Codex CLI · [[Changes/Codex CLI/2026-02-18-2-context-window-changes-in-rust-v0-104-0|2 Context Window changes in rust-v0.104.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

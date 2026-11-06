@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: policy
-machine_hash: 00092ec1f9f2ed5ce60f3040dc0e20b287c2beda19722a2dd63456648683750b
+machine_hash: 6053a3c74783abcbf30d86b0a3acf0780b3fa9a42b543d986ccf337830d4a45d
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -66,8 +66,8 @@ record:
   title: Planned custom GPT retirement and migration to plugins
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-09-claude-tag-added-a-use-a-custom-connector-link-to-the-preset-connection-forms-in|Claude
-  Tag Added a "Use a custom connector" link to the preset connection forms…]]'
+- '[[Changes/OpenHands/2026-09-09-docs-remove-duplicate-openhands-extensions-bullet-in-development-md-by-imitater|docs:
+  remove duplicate OpenHands/extensions bullet in DEVELOPMENT.md]]'
 - '[[Changes/ChatGPT/2026-09-10-the-data-plugin-helps-you-analyze-connected-business-data-in-chatgpt-work-and-co|Data
   plugin in ChatGPT Work and Codex]]'
 - '[[Changes/Claude Code/2026-09-10-7-apps-and-integrations-changes-in-v2-1-268|7

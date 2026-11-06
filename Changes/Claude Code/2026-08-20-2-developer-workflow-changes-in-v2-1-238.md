@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 31836cf18391d940a25a34bf379a8b14959009a6261899b6b1259c2dbd21c476
+machine_hash: e2c46afac76c5ce801313695e640a5bc5d4843d7efb490c2f252af4a04c932c5
 product: claude-code
 product_name: Claude Code
 record:
@@ -46,10 +46,10 @@ record:
   title: 2 Developer Workflow changes in v2.1.238
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-08-14-added-gitlab-merge-request-url-support-to-the-worktree-flag-and-the-claude-agent|Added
-  GitLab merge request URL support to the --worktree flag…]]'
 - '[[Changes/Claude Code/2026-08-17-remote-control-effort-picks-made-on-a-phone-or-on-claude-ai-code-now-apply-to-te|Remote
   Control: effort picks made on a phone or on claude.ai/code now apply…]]'
+- '[[Changes/Codex CLI/2026-08-18-5-developer-workflow-changes-in-rust-v0-148-0|5
+  Developer Workflow changes in rust-v0.148.0]]'
 - '[[Changes/Claude Code/2026-08-19-2-developer-workflow-changes-in-v2-1-236|2 Developer
   Workflow changes in v2.1.236]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-08-20-v2-1-238-github-373927029-c96744e2|claude-code-2026-08-20-v2-1-238-github-373927029-c96744e2]]'
@@ -91,7 +91,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.238
 ## Nearby in Developer Workflow
 
 - Earlier: 2026-08-19 · Claude Code · [[Changes/Claude Code/2026-08-19-2-developer-workflow-changes-in-v2-1-236|2 Developer Workflow changes in v2.1.236]]
-- Later: 2026-08-21 · Claude Code · [[Changes/Claude Code/2026-08-21-2-developer-workflow-changes-in-v2-1-239|2 Developer Workflow changes in v2.1.239]]
+- Later: 2026-08-20 · Codex CLI · [[Changes/Codex CLI/2026-08-20-18-developer-workflow-changes-in-rust-v0-149-0|18 Developer Workflow changes in rust-v0.149.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

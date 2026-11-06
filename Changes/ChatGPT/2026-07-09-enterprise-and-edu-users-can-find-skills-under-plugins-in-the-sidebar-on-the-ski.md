@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: d6f8f4f4ab8917afcc2b668436d6562a70b056bf46ffd88c0b409146945f581b
+machine_hash: f8eb31a69aa5ffd3c3e7bba8ded3370417883881134fb0df6c55128665251845
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -57,10 +57,10 @@ record:
   title: Skills are now generally available
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-07-07-2-apps-and-integrations-changes-in-v2-1-203|2
-  Apps and Integrations changes in v2.1.203]]'
-- '[[Changes/Claude Code/2026-07-08-reserved-the-claude-browser-mcp-server-name-alongside-claude-preview-ahead-of-th|Reserved
-  the "Claude Browser" MCP server name (alongside "Claude Preview") ahead…]]'
+- '[[Changes/Codex CLI/2026-07-08-remote-plugins-are-now-enabled-by-default-with-richer-catalog-rows-npm-marketpla|Remote
+  plugins are now enabled by default, with richer catalog rows, npm marketplace…]]'
+- '[[Changes/OpenHands/2026-07-08-chore-bump-sdk-packages-to-v1-33-0-by-all-hands-bot-in-https-github-com-openhand|chore:
+  bump SDK packages to v1.33.0]]'
 - '[[Changes/ChatGPT/2026-07-09-we-re-also-replacing-the-app-directory-with-the-plugin-directory-existing-app-co|We’re
   also replacing the App Directory with the Plugin Directory]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-07-09-skills-are-now-generally-available-24f58f9d|chatgpt-2026-07-09-skills-are-now-generally-available-24f58f9d]]'
@@ -90,7 +90,7 @@ type: change
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-07-09 · ChatGPT · [[Changes/ChatGPT/2026-07-09-we-re-also-replacing-the-app-directory-with-the-plugin-directory-existing-app-co|We’re also replacing the App Directory with the Plugin Directory]]
-- Later: 2026-07-11 · Claude Code · [[Changes/Claude Code/2026-07-11-2-apps-and-integrations-changes-in-v2-1-207|2 Apps and Integrations changes in v2.1.207]]
+- Later: 2026-07-09 · Codex CLI · [[Changes/Codex CLI/2026-07-09-11-apps-and-integrations-changes-in-rust-v0-144-0|11 Apps and Integrations changes in rust-v0.144.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

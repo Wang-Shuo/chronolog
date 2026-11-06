@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: dc0246f279af7388e57d6a29d6def132361bdb8116a723c24227523bf427b0a4
+machine_hash: 4065bcbfa9c5fbfa5b6437d1cc6da165f55b119135fc04448c96a45a4ee6a006
 product: cursor
 product_name: Cursor
 record:
@@ -40,10 +40,10 @@ record:
   title: '1.7.4: Shift+Tab shortcut improvements'
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-08-21-tab-now-aware-of-full-notebook|Tab now aware of full
-  notebook]]'
-- '[[Changes/Cursor/2025-09-12-1-6-7-enhanced-git-diff-parsing|1.6.7: Enhanced git
-  diff parsing]]'
+- '[[Changes/Gemini CLI/2025-09-24-8-editor-experience-changes-in-v0-6-0|8 Editor
+  Experience changes in v0.6.0]]'
+- '[[Changes/GitHub Copilot CLI/2025-09-26-2-editor-experience-changes-in-v0-0-328|2
+  Editor Experience changes in v0.0.328]]'
 - '[[Changes/Cursor/2025-09-29-when-writing-prompts-autocomplete-suggestions-will-appear-based-on-recent-change|Autocomplete
   for Agent]]'
 source_release: '[[Releases/Cursor/cursor-2025-09-29-1-7-https-cursor-com-changelog-1-7-0a03c0ae|cursor-2025-09-29-1-7-https-cursor-com-changelog-1-7-0a03c0ae]]'
@@ -92,8 +92,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2025-09-12 · Cursor · [[Changes/Cursor/2025-09-12-1-6-7-enhanced-git-diff-parsing|1.6.7: Enhanced git diff parsing]]
-- Later: 2025-11-21 · Cursor · [[Changes/Cursor/2025-11-21-4-editor-experience-changes-in-2-1|4 Editor Experience changes in 2.1]]
+- Earlier: 2025-09-26 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2025-09-26-2-editor-experience-changes-in-v0-0-328|2 Editor Experience changes in v0.0.328]]
+- Later: 2025-09-29 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2025-09-29-4-editor-experience-changes-in-v0-0-329|4 Editor Experience changes in v0.0.329]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

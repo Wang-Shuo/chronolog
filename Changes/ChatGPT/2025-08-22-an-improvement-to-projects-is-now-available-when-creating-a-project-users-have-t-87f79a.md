@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: memory
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: f5b7c65875877902251e61cfe0501d21c93f5324dfc18189db6faac4f1144feb
+machine_hash: d8e222c6fca421ee18f0666fecad702fecf43c93e6f91d1e7e5520ebbf14ef43
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -67,10 +67,10 @@ record:
   title: An improvement to projects is now available
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-07-03-memories-is-now-ga-since-1-0-we-ve-improved-memory-generation-quality-added-in-e|Memories
-  (now GA)]]'
-- '[[Changes/ChatGPT/2025-07-29-personalize-responses-based-on-your-past-chats-if-memory-is-on-using-examples-an|Personalize
-  responses based on your past chats if memory is on, using examples…]]'
+- '[[Changes/Gemini CLI/2025-08-12-feat-drop-load-memory-from-include-directories-option-from-cli-args-by-y-okt-in|feat:
+  drop load-memory-from-include-directories option from cli args]]'
+- '[[Changes/Gemini CLI/2025-08-14-3-memory-and-personalization-changes-in-v0-1-21|3
+  Memory and Personalization changes in v0.1.21]]'
 - '[[Changes/ChatGPT/2025-08-18-longer-memory-for-more-personalized-responses-4644fd|Longer
   memory for more personalized responses]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-08-22-project-only-memory-3424a221|chatgpt-2025-08-22-project-only-memory-3424a221]]'
@@ -104,7 +104,7 @@ type: change
 ## Nearby in Memory and Personalization
 
 - Earlier: 2025-08-18 · ChatGPT · [[Changes/ChatGPT/2025-08-18-longer-memory-for-more-personalized-responses-4644fd|Longer memory for more personalized responses]]
-- Later: 2025-09-15 · ChatGPT · [[Changes/ChatGPT/2025-09-15-personalization-no-longer-opens-in-a-separate-modal-you-can-manage-personalizati|Personalization settings are now in Settings]]
+- Later: 2025-08-28 · Windsurf · [[Changes/Windsurf/2025-08-28-memory-improvements|Memory improvements]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

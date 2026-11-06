@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: memory
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 7912713780b51c507215dffce68dfd630c0f86f5866ca7ff9f2f671b24e4eb41
+machine_hash: ec2fd9d6d3e484ea180846788cc26140aa90109484a2da0af72713e9fcbb387d
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -74,12 +74,12 @@ record:
   title: Shopping research in ChatGPT
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2025-10-29-chatgpt-pulse-is-now-available-on-web-and-rolling-out-to-atlas-for-pro-users-wit|ChatGPT
-  Pulse on Web]]'
 - '[[Changes/ChatGPT/2025-10-30-longer-memory-for-more-personalized-responses|Longer
   memory for more personalized responses]]'
 - '[[Changes/ChatGPT/2025-11-07-previously-changes-you-made-to-your-chatgpt-personality-or-custom-instructions-o|Personality
   and custom instructions now apply to all chats]]'
+- '[[Changes/Gemini CLI/2025-11-07-feat-core-implement-granular-memory-loaders-for-jit-architecture-by-abhipatel12|feat(core):
+  Implement granular memory loaders for JIT architecture]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-11-24-shopping-research-in-chatgpt-1b8ce931|chatgpt-2025-11-24-shopping-research-in-chatgpt-1b8ce931]]'
 source_type: chatgpt_changelog
 theme: memory
@@ -106,8 +106,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Memory and Personalization
 
-- Earlier: 2025-11-07 · ChatGPT · [[Changes/ChatGPT/2025-11-07-previously-changes-you-made-to-your-chatgpt-personality-or-custom-instructions-o|Personality and custom instructions now apply to all chats]]
-- Later: 2025-12-19 · ChatGPT · [[Changes/ChatGPT/2025-12-19-in-addition-to-selecting-a-base-style-and-tone-preset-like-candid-and-friendly-y-21da79|New detailed characteristic controls]]
+- Earlier: 2025-11-07 · Gemini CLI · [[Changes/Gemini CLI/2025-11-07-feat-core-implement-granular-memory-loaders-for-jit-architecture-by-abhipatel12|feat(core): Implement granular memory loaders for JIT architecture]]
+- Later: 2025-12-16 · Gemini CLI · [[Changes/Gemini CLI/2025-12-16-chore-tests-remove-obsolete-test-for-hierarchical-memory-by-pareshjoshij-in-http|chore(tests): remove obsolete test for hierarchical memory]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

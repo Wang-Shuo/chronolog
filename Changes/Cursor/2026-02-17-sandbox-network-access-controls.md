@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: 2469f95514bedd0256300897a3f3feb104737cd1fce5a379d446f1dc83b861ae
+machine_hash: 8b88b69b03aa1d035b07ecb5bad557dd92cefacf2ae49a75ffcfe3e8eb86a532
 product: cursor
 product_name: Cursor
 record:
@@ -62,12 +62,12 @@ record:
   title: Sandbox network access controls
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-02-10-2-safety-and-privacy-changes-in-v2-1-38|2 Safety
-  and Privacy changes in v2.1.38]]'
 - '[[Changes/Claude Code/2026-02-13-2-safety-and-privacy-changes-in-v2-1-41|2 Safety
   and Privacy changes in v2.1.41]]'
 - '[[Changes/Claude Code/2026-02-17-vscode-improved-permission-destination-choice-project-user-session-to-persist-ac|VSCode
   Improved permission destination choice (project/user/session) to persist…]]'
+- '[[Changes/Codex CLI/2026-02-17-9-safety-and-privacy-changes-in-rust-v0-102-0|9
+  Safety and Privacy changes in rust-v0.102.0]]'
 source_release: '[[Releases/Cursor/cursor-2026-02-17-2-5-https-cursor-com-changelog-2-5-82892320|cursor-2026-02-17-2-5-https-cursor-com-changelog-2-5-82892320]]'
 source_type: cursor_changelog
 theme: safety-privacy
@@ -114,7 +114,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Safety and Privacy
 
-- Earlier: 2026-02-17 · Claude Code · [[Changes/Claude Code/2026-02-17-vscode-improved-permission-destination-choice-project-user-session-to-persist-ac|VSCode Improved permission destination choice (project/user/session) to persist…]]
+- Earlier: 2026-02-17 · Codex CLI · [[Changes/Codex CLI/2026-02-17-9-safety-and-privacy-changes-in-rust-v0-102-0|9 Safety and Privacy changes in rust-v0.102.0]]
 - Later: 2026-02-18 · Claude Code · [[Changes/Claude Code/2026-02-18-2-safety-and-privacy-changes-in-v2-1-47|2 Safety and Privacy changes in v2.1.47]]
 <!-- chronolog:end -->
 

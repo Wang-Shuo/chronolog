@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: f5098d27b4020ed253b214d48715ad8c6703ca9b74e6efde7d19c6745786c4e7
+machine_hash: e2fe94d6e5be9eb664ac8d5d4752b0bfc4864607b1c4d16bb33b275b970618f2
 product: cursor
 product_name: Cursor
 record:
@@ -46,11 +46,12 @@ record:
   title: Faster edits
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2025-06-13-improved-search-capability-and-instruction-following-594de0|Improved
-  search capability and instruction following]]'
-- '[[Changes/Cursor/2025-07-03-faster-tab|Faster Tab]]'
-- '[[Changes/Cursor/2025-07-03-4-reliability-and-performance-changes-in-1-2|4 Reliability
-  and Performance changes in 1.2]]'
+- '[[Changes/Gemini CLI/2025-07-19-run-model-availability-check-in-the-background-to-speed-up-startup-by-sandytao52|Run
+  model availability check in the background to speed up startup]]'
+- '[[Changes/Cline/2025-07-22-speed-up-e2e-tests-by-celestial-vault-in-https-github-com-cline-cline-pull-5045|Speed
+  up E2E tests]]'
+- '[[Changes/Gemini CLI/2025-07-25-run-model-availability-check-in-the-background-to-speed-up-startup-by-sandytao52|Run
+  model availability check in the background to speed up startup]]'
 source_release: '[[Releases/Cursor/cursor-2025-07-29-1-3-https-cursor-com-changelog-1-3-d153efc3|cursor-2025-07-29-1-3-https-cursor-com-changelog-1-3-d153efc3]]'
 source_type: cursor_changelog
 theme: reliability-performance
@@ -88,8 +89,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2025-07-03 · Cursor · [[Changes/Cursor/2025-07-03-4-reliability-and-performance-changes-in-1-2|4 Reliability and Performance changes in 1.2]]
-- Later: 2025-08-06 · Cursor · [[Changes/Cursor/2025-08-06-1-4-5-improved-performance|1.4.5: Improved performance]]
+- Earlier: 2025-07-25 · Gemini CLI · [[Changes/Gemini CLI/2025-07-25-run-model-availability-check-in-the-background-to-speed-up-startup-by-sandytao52|Run model availability check in the background to speed up startup]]
+- Later: 2025-07-30 · Gemini CLI · [[Changes/Gemini CLI/2025-07-30-run-model-availability-check-in-the-background-to-speed-up-startup-by-sandytao52|Run model availability check in the background to speed up startup]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

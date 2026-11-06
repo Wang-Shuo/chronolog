@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 16d4f3610bd320f2f2987d6ba9fc875f21f84c6b31c82402a2a0532414634e07
+machine_hash: 2489af89dafb5fddd706778aa58bc7103941b78228ad55b95e430e289bd9eea7
 product: cursor
 product_name: Cursor
 record:
@@ -46,10 +46,10 @@ record:
     find makes…'
   type: change
 related_changes:
-- '[[Changes/Cursor/2024-02-09-ai-previews-this-is-an-experimental-new-code-reading-feature-after-enabling-in-t|AI
-  Previews: this is an experimental new code reading feature]]'
 - '[[Changes/Cursor/2024-02-23-cursor-is-now-based-on-vs-code-1-86-2-among-other-things-this-adds-sticky-scroll|VS
   Code 1.86.2]]'
+- '[[Changes/Aider/2024-03-04-show-the-user-a-faq-link-if-edits-fail-to-apply|Show
+  the user a FAQ link if edits fail to apply]]'
 - '[[Changes/Cursor/2024-03-20-team-invites-we-made-it-a-bit-easier-for-you-to-invite-your-colleagues-to-your-c|Team
   invites: We made it a bit easier for you to invite your colleagues…]]'
 source_release: '[[Releases/Cursor/cursor-2024-04-12-0-32-x-https-cursor-com-changelog-0-32-x-ce3690fc|cursor-2024-04-12-0-32-x-https-cursor-com-changelog-0-32-x-ce3690fc]]'
@@ -84,7 +84,7 @@ type: change
 ## Nearby in Editor Experience
 
 - Earlier: 2024-03-20 · Cursor · [[Changes/Cursor/2024-03-20-team-invites-we-made-it-a-bit-easier-for-you-to-invite-your-colleagues-to-your-c|Team invites: We made it a bit easier for you to invite your colleagues…]]
-- Later: 2024-05-26 · Cursor · [[Changes/Cursor/2024-05-26-merges-vs-code-1-89-into-cursor-38031f|Merges VS Code 1.89 into Cursor]]
+- Later: 2024-04-24 · Aider · [[Changes/Aider/2024-04-24-allow-repo-map-for-whole-edit-format|Allow repo map for "whole" edit format]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

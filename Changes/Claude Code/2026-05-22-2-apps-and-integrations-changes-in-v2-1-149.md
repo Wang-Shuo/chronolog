@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 0749f1d5b182f4ef906afdb0e6311e66bb6fc599d6cef0caf085bcdc805bdcfc
+machine_hash: 5c4b231582f318fa59eddd5d6cfa9480bb3b1b3f06aeb67ea8666e7ef7d1ed42
 product: claude-code
 product_name: Claude Code
 record:
@@ -44,12 +44,12 @@ record:
   title: 2 Apps and Integrations changes in v2.1.149
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-05-19-3-apps-and-integrations-changes-in-v2-1-144|3
-  Apps and Integrations changes in v2.1.144]]'
-- '[[Changes/Cursor/2026-05-19-cursor-is-now-available-in-jira|Cursor is now available
-  in Jira]]'
-- '[[Changes/Cursor/2026-05-19-install-the-integration-from-cursor-integrations-you-need-cursor-admin-access-an|Install
-  the integration from Cursor integrations]]'
+- '[[Changes/Codex CLI/2026-05-20-9-apps-and-integrations-changes-in-rust-v0-132-0|9
+  Apps and Integrations changes in rust-v0.132.0]]'
+- '[[Changes/GitHub Copilot CLI/2026-05-20-4-apps-and-integrations-changes-in-v1-0-51|4
+  Apps and Integrations changes in v1.0.51]]'
+- '[[Changes/Codex CLI/2026-05-21-20-apps-and-integrations-changes-in-rust-v0-133-0|20
+  Apps and Integrations changes in rust-v0.133.0]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-05-22-v2-1-149-github-328077450-086ee33f|claude-code-2026-05-22-v2-1-149-github-328077450-086ee33f]]'
 source_type: github_releases
 theme: apps-integrations
@@ -85,8 +85,8 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.149
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-05-19 · Cursor · [[Changes/Cursor/2026-05-19-install-the-integration-from-cursor-integrations-you-need-cursor-admin-access-an|Install the integration from Cursor integrations]]
-- Later: 2026-05-27 · Claude Code · [[Changes/Claude Code/2026-05-27-4-apps-and-integrations-changes-in-v2-1-152|4 Apps and Integrations changes in v2.1.152]]
+- Earlier: 2026-05-21 · Codex CLI · [[Changes/Codex CLI/2026-05-21-20-apps-and-integrations-changes-in-rust-v0-133-0|20 Apps and Integrations changes in rust-v0.133.0]]
+- Later: 2026-05-22 · Gemini CLI · [[Changes/Gemini CLI/2026-05-22-docs-extensions-refactor-releasing-guide-and-add-update-mechanisms-by-ruomengz-i|docs(extensions): refactor releasing guide and add update mechanisms]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

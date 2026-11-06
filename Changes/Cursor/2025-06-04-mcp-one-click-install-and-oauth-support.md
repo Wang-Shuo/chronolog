@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 15985207095a8280b73c8faa297d8ed6fcfae3dc9299190928b7ea50824cf325
+machine_hash: 256cbf8d120ea7ac654ee6150323ee199ebb0e645fa20537e8327ef00c3e0f3f
 product: cursor
 product_name: Cursor
 record:
@@ -62,12 +62,12 @@ record:
   title: MCP one-click install and OAuth support
   type: change
 related_changes:
-- '[[Changes/Cursor/2023-07-25-you-can-now-chat-with-any-codebase-no-need-to-have-a-github-repo-login-through-g|"with
-  codebase" for all codebases!]]'
-- '[[Changes/Cursor/2023-09-01-you-should-now-be-able-to-sign-in-with-github-again|You
-  should now be able to sign in with GitHub again]]'
-- '[[Changes/ChatGPT/2024-04-01-we-re-making-it-easier-for-people-to-experience-the-benefits-of-ai-without-needi|Start
-  using ChatGPT instantly]]'
+- '[[Changes/Aider/2025-03-31-2-account-and-access-changes-in-v0-80-0|2 Account and
+  Access changes in v0.80.0]]'
+- '[[Changes/Aider/2025-04-04-2-account-and-access-changes-in-v0-81-0|2 Account and
+  Access changes in v0.81.0]]'
+- '[[Changes/OpenHands/2025-04-16-added-support-for-gitlab-api-calling-using-both-oauth-and-pat-tokens-by-malhotra|Added
+  support for GitLab API calling using both OAuth and PAT tokens]]'
 source_release: '[[Releases/Cursor/cursor-2025-06-04-1-0-https-cursor-com-changelog-1-0-237767ca|cursor-2025-06-04-1-0-https-cursor-com-changelog-1-0-237767ca]]'
 source_type: cursor_changelog
 theme: account-access
@@ -113,8 +113,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Account and Access
 
-- Earlier: 2024-04-01 · ChatGPT · [[Changes/ChatGPT/2024-04-01-we-re-making-it-easier-for-people-to-experience-the-benefits-of-ai-without-needi|Start using ChatGPT instantly]]
-- Later: 2025-09-29 · Cursor · [[Changes/Cursor/2025-09-29-1-7-41-token-sync-improvements-for-authentication|1.7.41: Token sync improvements for authentication]]
+- Earlier: 2025-04-16 · OpenHands · [[Changes/OpenHands/2025-04-16-added-support-for-gitlab-api-calling-using-both-oauth-and-pat-tokens-by-malhotra|Added support for GitLab API calling using both OAuth and PAT tokens]]
+- Later: 2025-07-01 · Gemini CLI · [[Changes/Gemini CLI/2025-07-01-rename-authtype-login-with-google-personal-login-with-google-by-scidomino-in-htt|Rename AuthType LOGIN_WITH_GOOGLE_PERSONAL - LOGIN_WITH_GOOGLE]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

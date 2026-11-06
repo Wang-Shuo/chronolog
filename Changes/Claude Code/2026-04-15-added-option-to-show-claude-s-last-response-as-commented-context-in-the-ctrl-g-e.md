@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 7a3f69c171aee7765b415fb232a59a532483e6505c0fdc1687b9c1407402d31c
+machine_hash: c33b98cbc0f763db05b914770abd9ccae46642cab11a363814afe95ab0b77f87
 product: claude-code
 product_name: Claude Code
 record:
@@ -52,12 +52,12 @@ record:
   title: Added option to show Claude's last response as commented context in the `Ctrl+G`…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-04-09-added-exclude-dynamic-system-prompt-sections-flag-to-print-mode-for-improved-cro|Added
-  --exclude-dynamic-system-prompt-sections flag to print mode for improved…]]'
-- '[[Changes/Claude Code/2026-04-10-improved-tool-not-available-errors-to-explain-why-and-how-to-proceed-when-the-mo|Improved
-  tool-not-available errors to explain why and how to proceed when the model…]]'
 - '[[Changes/Claude Code/2026-04-14-2-context-window-changes-in-v2-1-108|2 Context
   Window changes in v2.1.108]]'
+- '[[Changes/Gemini CLI/2026-04-14-2-context-window-changes-in-v0-38-0|2 Context Window
+  changes in v0.38.0]]'
+- '[[Changes/GitHub Copilot CLI/2026-04-14-4-context-window-changes-in-v1-0-26|4 Context
+  Window changes in v1.0.26]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-04-15-v2-1-110-github-309583669-83ce1e59|claude-code-2026-04-15-v2-1-110-github-309583669-83ce1e59]]'
 source_type: github_releases
 theme: context-window
@@ -93,8 +93,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Context Window
 
-- Earlier: 2026-04-14 · Claude Code · [[Changes/Claude Code/2026-04-14-2-context-window-changes-in-v2-1-108|2 Context Window changes in v2.1.108]]
-- Later: 2026-04-28 · Claude Code · [[Changes/Claude Code/2026-04-28-vscode-context-now-opens-a-native-token-usage-dialog|VSCode /context now opens a native token usage dialog]]
+- Earlier: 2026-04-14 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-04-14-4-context-window-changes-in-v1-0-26|4 Context Window changes in v1.0.26]]
+- Later: 2026-04-15 · Codex CLI · [[Changes/Codex CLI/2026-04-15-4-context-window-changes-in-rust-v0-121-0|4 Context Window changes in rust-v0.121.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

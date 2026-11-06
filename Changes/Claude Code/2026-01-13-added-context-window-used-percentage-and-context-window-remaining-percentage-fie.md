@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 1cdf4dbbe662faf0a90a4a96a5fdfc28648dc9485b63c8787b66996cea76e608
+machine_hash: 1de58a816c971a02d67381554b5eccf5768183c0d30556ab268f12d0b9b80a9b
 product: claude-code
 product_name: Claude Code
 record:
@@ -53,11 +53,12 @@ record:
   title: Added `context_window.used_percentage` and `context_window.remaining_percentage`…
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-11-21-rules-in-home-folder-cursor-rules-will-be-included-in-context|Rules
-  in home folder (~/.cursor/rules) will be included in context]]'
-- '[[Changes/Cursor/2025-12-18-conversation-insights-2efafc|Conversation insights]]'
-- '[[Changes/Claude Code/2025-12-19-improved-context-command-visualization-with-grouped-skills-and-agents-by-source|Improved
-  /context command visualization with grouped skills and agents by source…]]'
+- '[[Changes/GitHub Copilot CLI/2026-01-02-add-auto-compaction-at-95-token-limit-and-compact-command|Add
+  auto-compaction at 95% token limit and /compact command]]'
+- '[[Changes/Codex CLI/2026-01-06-2-context-window-changes-in-rust-v0-78-0|2 Context
+  Window changes in rust-v0.78.0]]'
+- '[[Changes/Gemini CLI/2026-01-07-add-core-tool-that-adds-all-context-from-the-core-package-by-jacob314-in-https-g|Add
+  core tool that adds all context from the core package]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-01-13-v2-1-6-github-276206295-e2719d9a|claude-code-2026-01-13-v2-1-6-github-276206295-e2719d9a]]'
 source_type: github_releases
 theme: context-window
@@ -92,8 +93,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Context Window
 
-- Earlier: 2025-12-19 · Claude Code · [[Changes/Claude Code/2025-12-19-improved-context-command-visualization-with-grouped-skills-and-agents-by-source|Improved /context command visualization with grouped skills and agents by source…]]
-- Later: 2026-01-14 · Claude Code · [[Changes/Claude Code/2026-01-14-enabled-mcp-tool-search-auto-mode-by-default-for-all-users-when-mcp-tool-descrip|Enabled MCP tool search auto mode by default for all users]]
+- Earlier: 2026-01-07 · Gemini CLI · [[Changes/Gemini CLI/2026-01-07-add-core-tool-that-adds-all-context-from-the-core-package-by-jacob314-in-https-g|Add core tool that adds all context from the core package]]
+- Later: 2026-01-13 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-01-13-auto-compaction-runs-in-background-without-blocking-the-conversation|Auto-compaction runs in background without blocking the conversation]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

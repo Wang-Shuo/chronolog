@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 5958f6c49d783c55c079208f905b19aa056e37de0af8cc8132f0db3aa8de9318
+machine_hash: 6d226199807f236dc333bc5197e0839b7323b3d26c6950ea8dd38cea02dbea5a
 product: claude-code
 product_name: Claude Code
 record:
@@ -42,12 +42,12 @@ record:
   title: Added `managed-settings.d/` drop-in directory alongside `managed-settings.json`…
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-01-22-added-team-and-mdm-hooks-support-to-cli-with-more-efficient-execution|Added
-  team and MDM hooks support to CLI with more efficient execution]]'
-- '[[Changes/Claude Code/2026-02-05-added-research-preview-agent-teams-feature-for-multi-agent-collaboration-token-i|Added
-  research preview agent teams feature for multi-agent collaboration…]]'
-- '[[Changes/ChatGPT/2026-02-13-cleaner-select-all-behavior-cmd-a-cmd-a-now-selects-only-the-conversation-conten|Cleaner
-  “Select All” behavior (Cmd+A)]]'
+- '[[Changes/Codex CLI/2026-03-10-14117-feat-otel-centralize-otel-metric-names-and-shared-tag-builders-owenlin0|♯14117
+  feat(otel): Centralize OTEL metric names and shared tag builders @owenlin0]]'
+- '[[Changes/GitHub Copilot CLI/2026-03-11-session-export-header-renders-each-field-on-its-own-line-in-shared-gists|Session
+  export header renders each field on its own line in shared gists]]'
+- '[[Changes/GitHub Copilot CLI/2026-03-20-2-collaboration-changes-in-v1-0-10|2 Collaboration
+  changes in v1.0.10]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-03-25-v2-1-83-github-301019202-ba6a8317|claude-code-2026-03-25-v2-1-83-github-301019202-ba6a8317]]'
 source_type: github_releases
 theme: collaboration
@@ -82,8 +82,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Collaboration
 
-- Earlier: 2026-02-13 · ChatGPT · [[Changes/ChatGPT/2026-02-13-cleaner-select-all-behavior-cmd-a-cmd-a-now-selects-only-the-conversation-conten|Cleaner “Select All” behavior (Cmd+A)]]
-- Later: 2026-04-02 · Cursor · [[Changes/Cursor/2026-04-02-2-collaboration-changes-in-3-0|2 Collaboration changes in 3.0]]
+- Earlier: 2026-03-20 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-03-20-2-collaboration-changes-in-v1-0-10|2 Collaboration changes in v1.0.10]]
+- Later: 2026-03-31 · Codex CLI · [[Changes/Codex CLI/2026-03-31-4-collaboration-changes-in-rust-v0-118-0|4 Collaboration changes in rust-v0.118.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: c223040b25c7a3c2440e16272b873f97e91cf81966070662df9e0799c7305946
+machine_hash: a0144185c1427e29243e62aa7c6182d102942b02d918bfb90d3ce5aae32be119
 product: claude-code
 product_name: Claude Code
 record:
@@ -56,10 +56,10 @@ record:
   title: 5 Developer Workflow changes in v2.1.290
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-30-3-developer-workflow-changes-in-v2-1-286|3 Developer
-  Workflow changes in v2.1.286]]'
-- '[[Changes/Claude Code/2026-10-01-3-developer-workflow-changes-in-v2-1-287|3 Developer
-  Workflow changes in v2.1.287]]'
+- '[[Changes/Codex CLI/2026-10-01-2-developer-workflow-changes-in-rust-v0-160-0|2
+  Developer Workflow changes in rust-v0.160.0]]'
+- '[[Changes/GitHub Copilot CLI/2026-10-01-complete-statically-analyzable-read-only-shell-pipelines-can-now-enter-execution|Complete,
+  statically analyzable read-only shell pipelines can now enter…]]'
 - '[[Changes/Claude Code/2026-10-02-3-developer-workflow-changes-in-v2-1-288|3 Developer
   Workflow changes in v2.1.288]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-10-05-v2-1-290-github-403993621-ae06f2b6|claude-code-2026-10-05-v2-1-290-github-403993621-ae06f2b6]]'
@@ -112,7 +112,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.290
 ## Nearby in Developer Workflow
 
 - Earlier: 2026-10-02 · Claude Code · [[Changes/Claude Code/2026-10-02-3-developer-workflow-changes-in-v2-1-288|3 Developer Workflow changes in v2.1.288]]
-- Later: 2026-10-06 · Claude Code · [[Changes/Claude Code/2026-10-06-2-developer-workflow-changes-in-v2-1-292|2 Developer Workflow changes in v2.1.292]]
+- Later: 2026-10-05 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-10-05-4-developer-workflow-changes-in-v1-0-92|4 Developer Workflow changes in v1.0.92]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

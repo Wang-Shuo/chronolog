@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: e4e689bc3b1c122c3f957803d341f64c3944b5fe824932ce8312a95ba730d5d0
+machine_hash: 6d8a84c54c71f70309cc28a72b6c15a8041664da248c8e49e64e23ed96073456
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -41,10 +41,10 @@ record:
   title: Enterprise and Edu rollout coming soon
   type: change
 related_changes:
-- '[[Changes/Cursor/2024-03-20-admin-improvements-team-admins-can-now-mark-themselves-as-unpaid-users-and-can-s|Admin
-  improvements: Team admins can now mark themselves as unpaid users and can see…]]'
-- '[[Changes/Cursor/2025-03-23-enhanced-visibility-of-auto-run-controls-configured-by-team-admins-clarifying-wh|Enhanced
-  visibility of auto-run controls configured by team admins, clarifying…]]'
+- '[[Changes/OpenHands/2025-04-16-added-support-for-github-enterprise-and-on-prem-gitlab-in-the-github-action-reso|Added
+  support for GitHub Enterprise and on-prem GitLab in the GitHub Action resolver]]'
+- '[[Changes/OpenHands/2025-05-12-added-self-hosted-gitlab-or-enterprise-github-host-settings-for-local-installati|Added
+  self-hosted gitlab or enterprise github host settings for local installation]]'
 - '[[Changes/Cursor/2025-06-04-enterprise-users-can-only-access-stable-release-no-pre-release|Enterprise
   users can only access stable release (no pre-release)]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-06-12-expanded-model-support-for-custom-gpts-55f4555f|chatgpt-2025-06-12-expanded-model-support-for-custom-gpts-55f4555f]]'
@@ -76,7 +76,7 @@ type: change
 ## Nearby in Enterprise and Administration
 
 - Earlier: 2025-06-04 · Cursor · [[Changes/Cursor/2025-06-04-enterprise-users-can-only-access-stable-release-no-pre-release|Enterprise users can only access stable release (no pre-release)]]
-- Later: 2025-07-29 · Cursor · [[Changes/Cursor/2025-07-29-allow-team-admins-to-configure-an-extension-allowlist|Allow team admins to configure an extension allowlist]]
+- Later: 2025-07-17 · Windsurf · [[Changes/Windsurf/2025-07-17-important-for-enterprise-customers-who-use-windsurf-across-lots-of-repos-now-you|Important for enterprise customers who use Windsurf across lots of repos]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

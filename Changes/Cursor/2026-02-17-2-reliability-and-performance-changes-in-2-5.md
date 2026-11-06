@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 9dd2b0d01fcbd55e5c45066a8db50cf442c619a41884d7fe8c18ea847b00bdac
+machine_hash: 84e03cd236e3c53d99feb5340e2ac337c4f2b445d065ba8a92a6bfabd58a33fc
 product: cursor
 product_name: Cursor
 record:
@@ -44,12 +44,12 @@ record:
   title: 2 Reliability and Performance changes in 2.5
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-02-03-improved-memory-usage-for-resume-68-reduction-for-users-with-many-sessions-by-re|Improved
-  memory usage for --resume (68% reduction for users with many sessions)…]]'
-- '[[Changes/ChatGPT/2026-02-13-performance-improvements-we-ve-made-multiple-performance-enhancements-to-improve|Performance
-  improvements]]'
+- '[[Changes/GitHub Copilot CLI/2026-02-14-reduce-memory-usage-from-encoding-streaming-chunks|Reduce
+  memory usage from encoding streaming chunks]]'
 - '[[Changes/Claude Code/2026-02-17-improved-memory-usage-for-shell-commands-that-produce-large-output-rss-no-longer|Improved
   memory usage for shell commands that produce large output]]'
+- '[[Changes/Codex CLI/2026-02-17-removed-the-remote-models-feature-flag-to-prevent-fallback-model-metadata-when-i|Removed
+  the remote_models feature flag to prevent fallback model metadata…]]'
 source_release: '[[Releases/Cursor/cursor-2026-02-17-2-5-https-cursor-com-changelog-2-5-82892320|cursor-2026-02-17-2-5-https-cursor-com-changelog-2-5-82892320]]'
 source_type: cursor_changelog
 theme: reliability-performance
@@ -92,8 +92,8 @@ Source: https://cursor.com/changelog/2-5
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2026-02-17 · Claude Code · [[Changes/Claude Code/2026-02-17-improved-memory-usage-for-shell-commands-that-produce-large-output-rss-no-longer|Improved memory usage for shell commands that produce large output]]
-- Later: 2026-02-18 · Claude Code · [[Changes/Claude Code/2026-02-18-5-reliability-and-performance-changes-in-v2-1-47|5 Reliability and Performance changes in v2.1.47]]
+- Earlier: 2026-02-17 · Codex CLI · [[Changes/Codex CLI/2026-02-17-removed-the-remote-models-feature-flag-to-prevent-fallback-model-metadata-when-i|Removed the remote_models feature flag to prevent fallback model metadata…]]
+- Later: 2026-02-17 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-02-17-2-reliability-and-performance-changes-in-v0-0-411|2 Reliability and Performance changes in v0.0.411]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

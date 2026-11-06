@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 19703b5f9b7a06a38d738f5d7859038be2d50e18d10d64fa7c6b79e85c2725c1
+machine_hash: ae343f68c50750d02dc3c51732159fe8664d6bc4265d7e27dc5e940f8becc5b7
 product: cursor
 product_name: Cursor
 record:
@@ -48,10 +48,10 @@ record:
   title: Faster indexing
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2025-03-18-in-line-message-error-retries-if-you-encounter-a-message-error-you-can-retry-or|In-line
-  message error retries]]'
-- '[[Changes/ChatGPT/2025-03-18-improved-display-and-faster-streaming-of-conversations-and-message-menu-actions|Improved
-  display and faster streaming of conversations and message menu actions]]'
+- '[[Changes/OpenHands/2025-03-18-improve-the-stability-of-openhands-application-and-evaluation-harness-by-retry-o|Improve
+  the stability of OpenHands application and evaluation harness by retry…]]'
+- '[[Changes/Cline/2025-03-23-add-sort-underlying-provider-routing-setting-to-cline-openrouter-allowing-you-to|Add
+  ''Sort underlying provider routing'' setting to Cline/OpenRouter allowing you…]]'
 - '[[Changes/Cursor/2025-03-23-2-reliability-and-performance-changes-in-0-48-x|2 Reliability
   and Performance changes in 0.48.x]]'
 source_release: '[[Releases/Cursor/cursor-2025-03-23-0-48-x-https-cursor-com-changelog-0-48-x-7b3e771b|cursor-2025-03-23-0-48-x-https-cursor-com-changelog-0-48-x-7b3e771b]]'
@@ -96,8 +96,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2025-03-18 · ChatGPT · [[Changes/ChatGPT/2025-03-18-improved-display-and-faster-streaming-of-conversations-and-message-menu-actions|Improved display and faster streaming of conversations and message menu actions]]
-- Later: 2025-05-08 · ChatGPT · [[Changes/ChatGPT/2025-05-08-outside-the-european-regions-listed-above-all-plus-and-pro-accounts-that-have-me-507581|Opt‑in reminders]]
+- Earlier: 2025-03-23 · Cline · [[Changes/Cline/2025-03-23-add-sort-underlying-provider-routing-setting-to-cline-openrouter-allowing-you-to|Add 'Sort underlying provider routing' setting to Cline/OpenRouter allowing you…]]
+- Later: 2025-04-06 · Cline · [[Changes/Cline/2025-04-06-add-improvements-to-file-mention-searching-for-faster-searching|Add improvements to file mention searching for faster searching]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

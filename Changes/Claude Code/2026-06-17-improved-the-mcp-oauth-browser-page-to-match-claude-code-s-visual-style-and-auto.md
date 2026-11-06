@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: afbde95f1f052de589bcf3fdbf8d2f94a2e5a9d14405bb0d5fc89f3dbbe1aa11
+machine_hash: 1a363906d6d32e45ccd66b406f2e8012730ab7cceff3022b66c00b1bcd75b400
 product: claude-code
 product_name: Claude Code
 record:
@@ -52,12 +52,12 @@ record:
   title: Improved the MCP OAuth browser page to match Claude Code's visual style…
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-06-02-log-out-of-individual-sessions-or-all-sessions-from-active-sessions|Log
-  out of individual sessions or all sessions from Active sessions]]'
-- '[[Changes/Claude Code/2026-06-02-added-a-prompt-before-writing-to-shell-startup-files-zshenv-zlogin-bash-login-an|Added
-  a prompt before writing to shell startup files…]]'
-- '[[Changes/Claude Code/2026-06-08-improved-the-error-message-shown-when-your-organization-has-disabled-api-key-aut|Improved
-  the error message shown when your organization has disabled API key…]]'
+- '[[Changes/GitHub Copilot CLI/2026-06-13-remote-mcp-oauth-servers-start-only-once-per-matching-config-instead-of-restarti|Remote
+  MCP OAuth servers start only once per matching config instead of restarting…]]'
+- '[[Changes/Codex CLI/2026-06-15-5-account-and-access-changes-in-rust-v0-140-0|5
+  Account and Access changes in rust-v0.140.0]]'
+- '[[Changes/GitHub Copilot CLI/2026-06-16-2-account-and-access-changes-in-v1-0-63|2
+  Account and Access changes in v1.0.63]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-06-17-v2-1-181-github-340975229-c771c493|claude-code-2026-06-17-v2-1-181-github-340975229-c771c493]]'
 source_type: github_releases
 theme: account-access
@@ -92,8 +92,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Account and Access
 
-- Earlier: 2026-06-08 · Claude Code · [[Changes/Claude Code/2026-06-08-improved-the-error-message-shown-when-your-organization-has-disabled-api-key-aut|Improved the error message shown when your organization has disabled API key…]]
-- Later: 2026-06-22 · Claude Code · [[Changes/Claude Code/2026-06-22-2-account-and-access-changes-in-v2-1-186|2 Account and Access changes in v2.1.186]]
+- Earlier: 2026-06-16 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-06-16-2-account-and-access-changes-in-v1-0-63|2 Account and Access changes in v1.0.63]]
+- Later: 2026-06-18 · Codex CLI · [[Changes/Codex CLI/2026-06-18-28257-support-staging-oauth-client-id-overrides-apanasenko-oai|♯28257 Support staging OAuth client ID overrides @apanasenko-oai]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

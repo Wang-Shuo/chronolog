@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 898e1d64510ec5f677571c103d32e39f511114406e903fe9ef37b4e0c761c9c5
+machine_hash: 4a92f8ab935ba4fd9c3d1af4088bd4725f2b766ccb0a3e30158bbfe3a394fdc9
 product: claude-code
 product_name: Claude Code
 record:
@@ -46,12 +46,12 @@ record:
     so users…'
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-04-01-4-safety-and-privacy-changes-in-v2-1-90|4 Safety
-  and Privacy changes in v2.1.90]]'
-- '[[Changes/Claude Code/2026-04-02-fixed-plan-mode-in-remote-sessions-losing-track-of-the-plan-file-after-a-contain|Fixed
-  plan mode in remote sessions losing track of the plan file after a container…]]'
+- '[[Changes/GitHub Copilot CLI/2026-04-02-add-permissionrequest-hook-to-allow-scripts-to-programmatically-approve-or-deny|Add
+  PermissionRequest hook to allow scripts to programmatically approve or deny tool…]]'
 - '[[Changes/Claude Code/2026-04-04-linux-sandbox-now-ships-the-apply-seccomp-helper-in-both-npm-and-native-builds-r|Linux
   sandbox now ships the apply-seccomp helper in both npm and native builds…]]'
+- '[[Changes/GitHub Copilot CLI/2026-04-04-add-notification-hook-event-that-fires-asynchronously-on-shell-completion-permis|Add
+  notification hook event that fires asynchronously on shell completion…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-04-07-v2-1-94-github-306300914-5622fba4|claude-code-2026-04-07-v2-1-94-github-306300914-5622fba4]]'
 source_type: github_releases
 theme: safety-privacy
@@ -83,7 +83,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Safety and Privacy
 
-- Earlier: 2026-04-04 · Claude Code · [[Changes/Claude Code/2026-04-04-linux-sandbox-now-ships-the-apply-seccomp-helper-in-both-npm-and-native-builds-r|Linux sandbox now ships the apply-seccomp helper in both npm and native builds…]]
+- Earlier: 2026-04-04 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-04-04-add-notification-hook-event-that-fires-asynchronously-on-shell-completion-permis|Add notification hook event that fires asynchronously on shell completion…]]
 - Later: 2026-04-08 · Claude Code · [[Changes/Claude Code/2026-04-08-3-safety-and-privacy-changes-in-v2-1-97|3 Safety and Privacy changes in v2.1.97]]
 <!-- chronolog:end -->
 

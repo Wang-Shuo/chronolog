@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 827802950abfde235ed7b943e0fcd133f5c31845c48f7e1bc3df276a882e536f
+machine_hash: 31b85229a39d73aa0e6051ee281a156adf0cc2e76a31d90a958457a50533b43a
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,12 +45,12 @@ record:
   title: Added "Always copy full response" option to the `/copy` picker
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-02-27-automatic-scroll-to-latest-message-existing-conversations-now-automatically-scro|Automatic
-  scroll to latest message]]'
-- '[[Changes/ChatGPT/2026-02-27-sidebar-actions-on-mobile-web-no-longer-stick-while-scrolling|Sidebar
-  actions on mobile web no longer stick while scrolling]]'
 - '[[Changes/ChatGPT/2026-02-27-faster-sidebar-actions-sidebar-interactions-such-as-renaming-chats-are-now-faste|Faster
   sidebar actions]]'
+- '[[Changes/Gemini CLI/2026-02-27-2-interface-experience-changes-in-v0-31-0|2 Interface
+  Experience changes in v0.31.0]]'
+- '[[Changes/GitHub Copilot CLI/2026-02-27-add-ctrl-g-keyboard-shortcut-for-editing-prompts-in-external-editor-and-dismissi|Add
+  Ctrl+G keyboard shortcut for editing prompts in external editor and dismissing…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-02-28-v2-1-63-github-291579549-8767ab9c|claude-code-2026-02-28-v2-1-63-github-291579549-8767ab9c]]'
 source_type: github_releases
 theme: interface-experience
@@ -87,7 +87,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-02-27 · ChatGPT · [[Changes/ChatGPT/2026-02-27-faster-sidebar-actions-sidebar-interactions-such-as-renaming-chats-are-now-faste|Faster sidebar actions]]
+- Earlier: 2026-02-27 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-02-27-add-ctrl-g-keyboard-shortcut-for-editing-prompts-in-external-editor-and-dismissi|Add Ctrl+G keyboard shortcut for editing prompts in external editor and dismissing…]]
 - Later: 2026-03-03 · Cursor · [[Changes/Cursor/2026-03-03-the-content-from-your-plan-files-are-now-included-in-autocomplete-suggestions-as|The content from your plan files are now included in autocomplete suggestions as you…]]
 <!-- chronolog:end -->
 

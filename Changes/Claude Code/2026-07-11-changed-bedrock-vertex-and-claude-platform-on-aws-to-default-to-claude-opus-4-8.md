@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 46f2eeca9e1564fb2399dd937f61e4502e282130f6b21bcb23426cc797aa8e66
+machine_hash: bcaf9527573914b527f268aa41dcb0602efa74c8726bd78a63c833a38f6766d7
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,12 +45,12 @@ record:
     Opus 4.8
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-07-03-claude-sonnet-5-sessions-no-longer-use-the-mid-conversation-system-role-for-harn|Claude
-  Sonnet 5 sessions no longer use the mid-conversation system role for harness…]]'
-- '[[Changes/ChatGPT/2026-07-06-we-re-rolling-out-gpt-5-5-instant-mini-in-chatgpt-it-replaces-gpt-5-3-instant-mi|GPT-5.5
-  Instant Mini in ChatGPT]]'
+- '[[Changes/Codex CLI/2026-07-09-8-model-support-changes-in-rust-v0-144-0|8 Model
+  Support changes in rust-v0.144.0]]'
 - '[[Changes/Claude Code/2026-07-10-improved-code-review-findings-quality-on-claude-opus-4-8-across-all-effort-level|Improved
   /code-review findings quality on claude-opus-4-8 across all effort levels]]'
+- '[[Changes/GitHub Copilot CLI/2026-07-10-4-model-support-changes-in-v1-0-70|4 Model
+  Support changes in v1.0.70]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-07-11-v2-1-207-github-352355755-d77b8e91|claude-code-2026-07-11-v2-1-207-github-352355755-d77b8e91]]'
 source_type: github_releases
 theme: model-support
@@ -84,8 +84,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-07-10 · Claude Code · [[Changes/Claude Code/2026-07-10-improved-code-review-findings-quality-on-claude-opus-4-8-across-all-effort-level|Improved /code-review findings quality on claude-opus-4-8 across all effort levels]]
-- Later: 2026-07-14 · Claude Code · [[Changes/Claude Code/2026-07-14-improved-the-bash-powershell-tool-message-when-a-command-hits-its-timeout-and-is|Improved the Bash/PowerShell tool message when a command hits its timeout…]]
+- Earlier: 2026-07-10 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-07-10-4-model-support-changes-in-v1-0-70|4 Model Support changes in v1.0.70]]
+- Later: 2026-07-11 · Cline · [[Changes/Cline/2026-07-11-add-more-models-to-the-gcp-vertex-provider-plus-a-free-form-entry-option-in-the|Add more models to the GCP Vertex provider, plus a free-form entry option…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

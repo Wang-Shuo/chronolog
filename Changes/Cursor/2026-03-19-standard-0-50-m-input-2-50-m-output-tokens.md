@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: pricing
-machine_hash: 42402580379aa0c693503d300a2f042ea204a614d488d2f25e74e5140c0e89de
+machine_hash: 5c4af9d68dc55d3542232ae893aa6a44474cd9df216722d5a47ca943c32d5b75
 product: cursor
 product_name: Cursor
 record:
@@ -42,11 +42,12 @@ record:
   title: 'Standard: $0.50/M input, $2.50/M output tokens'
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-12-18-billing-groups|Billing groups]]'
-- '[[Changes/Claude Code/2026-02-04-removed-misleading-anthropic-api-pricing-from-model-selector-for-third-party-pro|Removed
-  misleading Anthropic API pricing from model selector for third-party…]]'
 - '[[Changes/ChatGPT/2026-03-10-eligible-chatgpt-plus-and-pro-users-can-now-turn-on-auto-top-up-for-credits-used-5e9d54|Auto
   top-up for flexible usage credits]]'
+- '[[Changes/Gemini CLI/2026-03-17-2-pricing-model-changes-in-v0-34-0|2 Pricing Model
+  changes in v0.34.0]]'
+- '[[Changes/Cline/2026-03-19-add-missing-fireworks-serverless-models-and-pricing|Add
+  missing Fireworks serverless models and pricing]]'
 source_release: '[[Releases/Cursor/cursor-2026-03-19-composer-2-https-cursor-com-changelog-composer-2-8a6d25c8|cursor-2026-03-19-composer-2-https-cursor-com-changelog-composer-2-8a6d25c8]]'
 source_type: cursor_changelog
 theme: pricing-model
@@ -76,8 +77,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Pricing Model
 
-- Earlier: 2026-03-10 · ChatGPT · [[Changes/ChatGPT/2026-03-10-eligible-chatgpt-plus-and-pro-users-can-now-turn-on-auto-top-up-for-credits-used-5e9d54|Auto top-up for flexible usage credits]]
-- Later: 2026-04-04 · Claude Code · [[Changes/Claude Code/2026-04-04-added-per-model-and-cache-hit-breakdown-to-cost-for-subscription-users|Added per-model and cache-hit breakdown to /cost for subscription users]]
+- Earlier: 2026-03-19 · Cline · [[Changes/Cline/2026-03-19-add-missing-fireworks-serverless-models-and-pricing|Add missing Fireworks serverless models and pricing]]
+- Later: 2026-03-19 · Windsurf · [[Changes/Windsurf/2026-03-19-quota-billing|Quota Billing]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

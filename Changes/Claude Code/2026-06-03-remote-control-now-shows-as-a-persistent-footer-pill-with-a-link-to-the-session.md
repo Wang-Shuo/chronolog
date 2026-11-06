@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: fb79b1c84c811954dadcc29dbf7372e070de18394d5ddcd2a9415507c9cb959c
+machine_hash: ad53d11a8ce097fbec0de18a8c071ed48f4bcf54390426f49d0a4ba35da2eb4a
 product: claude-code
 product_name: Claude Code
 record:
@@ -46,8 +46,8 @@ record:
     session)…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-05-29-4-apps-and-integrations-changes-in-v2-1-157|4
-  Apps and Integrations changes in v2.1.157]]'
+- '[[Changes/GitHub Copilot CLI/2026-06-01-5-apps-and-integrations-changes-in-v1-0-57|5
+  Apps and Integrations changes in v1.0.57]]'
 - '[[Changes/Claude Code/2026-06-02-mcp-now-collapses-claude-ai-connectors-you-ve-never-signed-in-to-behind-a-show-u|/mcp
   now collapses claude.ai connectors you''ve never signed in to behind…]]'
 - '[[Changes/Claude Code/2026-06-02-removed-the-jetbrains-plugin-install-suggestion-from-startup|Removed

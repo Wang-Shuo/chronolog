@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 9d54e109533bc6f82d29255490f88dd028066587bbc79de3cf6699c38eff1c86
+machine_hash: 636409c1b71e9ba827440d024d9078e50d49ed2e69ce1c8e664f7fecbb4ddd84
 product: claude-code
 product_name: Claude Code
 record:
@@ -44,12 +44,12 @@ record:
   title: Added transcript view navigation
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-05-06-2-interface-experience-changes-in-v2-1-132|2 Interface
-  Experience changes in v2.1.132]]'
-- '[[Changes/Claude Code/2026-05-06-3-interface-experience-changes-in-v2-1-129|3 Interface
-  Experience changes in v2.1.129]]'
-- '[[Changes/Claude Code/2026-05-07-improved-focus-mode-behavior|Improved focus mode
-  behavior]]'
+- '[[Changes/Codex CLI/2026-05-07-20065-feat-tui-redesign-session-picker-fcoury-oai|♯20065
+  feat(tui): redesign session picker @fcoury-oai]]'
+- '[[Changes/Codex CLI/2026-05-08-20665-make-environment-providers-own-default-selection-starr-openai|♯20665
+  Make environment providers own default selection @starr-openai]]'
+- '[[Changes/GitHub Copilot CLI/2026-05-08-project-info-remains-visible-in-slash-command-picker-when-no-results-match|Project
+  info remains visible in slash command picker when no results match]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-05-11-v2-1-139-github-320692766-5e65de7d|claude-code-2026-05-11-v2-1-139-github-320692766-5e65de7d]]'
 source_type: github_releases
 theme: interface-experience
@@ -87,8 +87,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-05-07 · Claude Code · [[Changes/Claude Code/2026-05-07-improved-focus-mode-behavior|Improved focus mode behavior]]
-- Later: 2026-05-13 · Claude Code · [[Changes/Claude Code/2026-05-13-2-interface-experience-changes-in-v2-1-141|2 Interface Experience changes in v2.1.141]]
+- Earlier: 2026-05-08 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-05-08-project-info-remains-visible-in-slash-command-picker-when-no-results-match|Project info remains visible in slash command picker when no results match]]
+- Later: 2026-05-12 · Gemini CLI · [[Changes/Gemini CLI/2026-05-12-test-evals-add-behavioral-eval-for-file-creation-and-write-file-tool-selection-b|test(evals): add behavioral eval for file creation and write_file tool selection]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

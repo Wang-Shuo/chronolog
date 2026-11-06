@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 93c7c4fbc2660763a6a74222b13aa348280de01d6f353f7de3e83dc48722458c
+machine_hash: 8e84f8df53b7505d9128391f5aa78d7871668f59a652db2b080791ca922285f7
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -78,6 +78,8 @@ related_changes:
   mode for opting out of storing any kind of data on our servers]]'
 - '[[Changes/Cursor/2023-06-27-cursor-is-now-based-on-version-1-79-2-of-vscodium-which-comes-with-security-upda|Cursor
   is now based on version 1.79.2 of VSCodium, which comes with security updates…]]'
+- '[[Changes/Aider/2023-07-24-encourage-gpt-to-use-language-like-add-files-to-the-chat-to-ask-users-for-permis|Encourage
+  GPT to use language like "add files to the chat" to ask users…]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2023-08-28-introducing-chatgpt-enterprise-eb7127e6|chatgpt-2023-08-28-introducing-chatgpt-enterprise-eb7127e6]]'
 source_type: chatgpt_changelog
 theme: safety-privacy
@@ -104,7 +106,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Safety and Privacy
 
-- Earlier: 2023-06-27 · Cursor · [[Changes/Cursor/2023-06-27-cursor-is-now-based-on-version-1-79-2-of-vscodium-which-comes-with-security-upda|Cursor is now based on version 1.79.2 of VSCodium, which comes with security updates…]]
+- Earlier: 2023-07-24 · Aider · [[Changes/Aider/2023-07-24-encourage-gpt-to-use-language-like-add-files-to-the-chat-to-ask-users-for-permis|Encourage GPT to use language like "add files to the chat" to ask users…]]
 - Later: 2023-08-30 · Cursor · [[Changes/Cursor/2023-08-30-api-key-input-box-is-now-a-password-type|API Key input box is now a password type]]
 <!-- chronolog:end -->
 

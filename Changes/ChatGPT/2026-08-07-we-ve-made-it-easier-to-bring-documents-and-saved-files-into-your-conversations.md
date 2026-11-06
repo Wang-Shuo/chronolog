@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: ca0fe22a731ef5c8bf535266e885503a078ffb0f57001e91e700965eb82fde6f
+machine_hash: 76bd688ad6e9cf1934ad1a7c52a9a17c2c04b960a34bc33c38cd0ba26de18571
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -44,12 +44,12 @@ record:
   title: ChatGPT makes it easier to bring documents and saved files into your conversations…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-06-29-added-clickable-file-attachments-in-chat-cmd-ctrl-click-reveals-the-file-in-find|Added
-  clickable file attachments in chat]]'
-- '[[Changes/Claude Code/2026-07-15-claude-in-chrome-hardened-file-upload-path-validation|Claude
-  in Chrome: hardened file-upload path validation]]'
-- '[[Changes/ChatGPT/2026-07-23-we-re-starting-to-roll-out-a-new-health-experience-in-chatgpt-logged-in-free-go-b62f3b|We’re
-  starting to roll out a new health experience in ChatGPT]]'
+- '[[Changes/Codex CLI/2026-07-29-2-files-and-data-changes-in-rust-v0-146-0|2 Files
+  and Data changes in rust-v0.146.0]]'
+- '[[Changes/OpenHands/2026-07-29-chore-replay-agent-canvas-history-by-neubig-in-https-github-com-openhands-openha|chore:
+  replay Agent Canvas history]]'
+- '[[Changes/OpenHands/2026-08-05-feat-set-canvas-default-model-to-glm-5-2-by-juanmichelini-in-https-github-com-op|feat:
+  set Canvas default model to GLM 5.2]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-08-07-chatgpt-app-experience-updates-d15f55c5|chatgpt-2026-08-07-chatgpt-app-experience-updates-d15f55c5]]'
 source_type: chatgpt_changelog
 theme: file-data
@@ -80,8 +80,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Files and Data
 
-- Earlier: 2026-07-23 · ChatGPT · [[Changes/ChatGPT/2026-07-23-we-re-starting-to-roll-out-a-new-health-experience-in-chatgpt-logged-in-free-go-b62f3b|We’re starting to roll out a new health experience in ChatGPT]]
-- Later: 2026-09-11 · Claude Code · [[Changes/Claude Code/2026-09-11-vscode-improved-documents-and-messages-written-for-someone-other-than-the-user-c|VSCode Improved documents and messages written for someone other than the user]]
+- Earlier: 2026-08-05 · OpenHands · [[Changes/OpenHands/2026-08-05-feat-set-canvas-default-model-to-glm-5-2-by-juanmichelini-in-https-github-com-op|feat: set Canvas default model to GLM 5.2]]
+- Later: 2026-08-07 · Codex CLI · [[Changes/Codex CLI/2026-08-07-36043-document-the-responses-api-proxy-reqwest-exception-copyberry|♯36043 Document the Responses API proxy reqwest exception @copyberry]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

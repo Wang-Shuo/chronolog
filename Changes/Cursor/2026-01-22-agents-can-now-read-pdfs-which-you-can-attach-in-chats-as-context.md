@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: b283f19c0fb804a3439681868460683d89132404dfeabdb76ba43440738085e4
+machine_hash: d23d199f0d25f126cd57bc65ba91d8ad4398b10c747d8fd875683e598abf1569
 product: cursor
 product_name: Cursor
 record:
@@ -51,12 +51,12 @@ record:
   title: Agents can now read PDFs, which you can attach in chats as context
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-01-13-added-context-window-used-percentage-and-context-window-remaining-percentage-fie|Added
-  context_window.used_percentage and context_window.remaining_percentage…]]'
-- '[[Changes/Claude Code/2026-01-14-enabled-mcp-tool-search-auto-mode-by-default-for-all-users-when-mcp-tool-descrip|Enabled
-  MCP tool search auto mode by default for all users]]'
-- '[[Changes/Claude Code/2026-01-16-added-auto-n-syntax-for-configuring-the-mcp-tool-search-auto-enable-threshold-wh|Added
-  auto:N syntax for configuring the MCP tool search auto-enable threshold…]]'
+- '[[Changes/GitHub Copilot CLI/2026-01-19-enable-infinite-sessions-with-automatic-long-running-context-management-through|Enable
+  infinite sessions with automatic long-running context management through…]]'
+- '[[Changes/GitHub Copilot CLI/2026-01-19-background-compaction-preserves-tool-call-sequences-correctly|Background
+  compaction preserves tool call sequences correctly]]'
+- '[[Changes/GitHub Copilot CLI/2026-01-20-skill-tool-handles-large-directories-without-exceeding-context-limits|Skill
+  tool handles large directories without exceeding context limits]]'
 source_release: '[[Releases/Cursor/cursor-2026-01-22-2-4-https-cursor-com-changelog-2-4-a10c8f03|cursor-2026-01-22-2-4-https-cursor-com-changelog-2-4-a10c8f03]]'
 source_type: cursor_changelog
 theme: context-window
@@ -102,8 +102,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Context Window
 
-- Earlier: 2026-01-16 · Claude Code · [[Changes/Claude Code/2026-01-16-added-auto-n-syntax-for-configuring-the-mcp-tool-search-auto-enable-threshold-wh|Added auto:N syntax for configuring the MCP tool search auto-enable threshold…]]
-- Later: 2026-02-03 · Claude Code · [[Changes/Claude Code/2026-02-03-added-pages-parameter-to-the-read-tool-for-pdfs-allowing-specific-page-ranges-to|Added pages parameter to the Read tool for PDFs, allowing specific page ranges…]]
+- Earlier: 2026-01-20 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-01-20-skill-tool-handles-large-directories-without-exceeding-context-limits|Skill tool handles large directories without exceeding context limits]]
+- Later: 2026-01-22 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-01-22-preserve-extended-thinking-after-compaction|Preserve extended thinking after compaction]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

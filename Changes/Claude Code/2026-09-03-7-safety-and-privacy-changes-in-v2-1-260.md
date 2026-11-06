@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: aaf95ebc5ba7af2d16934eb8250554fc26b9c1a145434e7f87d10ded408e3012
+machine_hash: 4857bd1a4e91bbefebd3891e5a26940b89451211a4eaf24f83925e4869c81e8e
 product: claude-code
 product_name: Claude Code
 record:
@@ -65,10 +65,10 @@ record:
   title: 7 Safety and Privacy changes in v2.1.260
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-01-fixed-remote-and-scheduled-sessions-failing-with-user-messages-must-have-non-emp|Fixed
-  remote and scheduled sessions failing…]]'
 - '[[Changes/Claude Code/2026-09-01-10-safety-and-privacy-changes-in-v2-1-257|10 Safety
   and Privacy changes in v2.1.257]]'
+- '[[Changes/Codex CLI/2026-09-01-41227-use-compatible-powershell-for-elevated-windows-sandbox-commands-copyberry|♯41227
+  Use compatible PowerShell for elevated Windows sandbox commands @copyberry]]'
 - '[[Changes/Claude Code/2026-09-02-4-safety-and-privacy-changes-in-v2-1-259|4 Safety
   and Privacy changes in v2.1.259]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-03-v2-1-260-github-382367470-ac2ba1fc|claude-code-2026-09-03-v2-1-260-github-382367470-ac2ba1fc]]'
@@ -123,7 +123,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.260
 ## Nearby in Safety and Privacy
 
 - Earlier: 2026-09-02 · Claude Code · [[Changes/Claude Code/2026-09-02-4-safety-and-privacy-changes-in-v2-1-259|4 Safety and Privacy changes in v2.1.259]]
-- Later: 2026-09-04 · Claude Code · [[Changes/Claude Code/2026-09-04-4-safety-and-privacy-changes-in-v2-1-261|4 Safety and Privacy changes in v2.1.261]]
+- Later: 2026-09-03 · Codex CLI · [[Changes/Codex CLI/2026-09-03-6-safety-and-privacy-changes-in-rust-v0-153-0|6 Safety and Privacy changes in rust-v0.153.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: ccf00d480049720509f20392492dde7e95e6925277d8386cae3c3d4f0ce3257e
+machine_hash: 3f9a01661016938744de0ccd526cd8837845cc6e4b56d7bd26e8383912530bf3
 product: claude-code
 product_name: Claude Code
 record:
@@ -55,13 +55,12 @@ record:
   title: Removed the "Default teammate model" setting from `/config`
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-07-29-switch-between-teams-that-you-belong-to-directly-in-the-app|Switch
-  between teams that you belong to directly in the app]]'
 - '[[Changes/ChatGPT/2026-08-13-the-initial-experience-includes-my-drive-and-files-and-folders-shared-directly-w|The
   initial experience includes My Drive and files and folders shared directly with
   you]]'
 - '[[Changes/Claude Code/2026-08-13-hardened-the-auto-generated-cross-session-messaging-socket-directory-on-shared-t|Hardened
   the auto-generated cross-session messaging socket directory on shared /tmp]]'
+- '[[Changes/Windsurf/2026-08-13-devin-local|Devin Local]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-08-17-v2-1-234-github-371864218-2ca32673|claude-code-2026-08-17-v2-1-234-github-371864218-2ca32673]]'
 source_type: github_releases
 theme: collaboration
@@ -98,8 +97,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Collaboration
 
-- Earlier: 2026-08-13 · Claude Code · [[Changes/Claude Code/2026-08-13-hardened-the-auto-generated-cross-session-messaging-socket-directory-on-shared-t|Hardened the auto-generated cross-session messaging socket directory on shared /tmp]]
-- Later: 2026-08-20 · ChatGPT · [[Changes/ChatGPT/2026-08-20-share-a-read-only-snapshot-of-a-codex-chat-personal-share-links-can-be-opened-by|Share a read-only snapshot of a Codex chat]]
+- Earlier: 2026-08-13 · Windsurf · [[Changes/Windsurf/2026-08-13-devin-local|Devin Local]]
+- Later: 2026-08-18 · Codex CLI · [[Changes/Codex CLI/2026-08-18-5-collaboration-changes-in-rust-v0-148-0|5 Collaboration changes in rust-v0.148.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

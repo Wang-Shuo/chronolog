@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: a8497f30b60f2736e5a8a85aaacfc302e5096b51ce9031294355a374bf41635d
+machine_hash: fa79568204875cce58d01bb618be8f3b1b0ad1c9ad2b7106be476b0a24b674c8
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,12 +45,12 @@ record:
   title: Changed Fable to always appear in `/model` on the Anthropic API
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-15-changed-bug-and-feedback-reports-to-include-only-model-behavior-params-model-sys|Changed
-  /bug and /feedback reports to include only model-behavior params…]]'
-- '[[Changes/Claude Code/2026-09-17-2-model-support-changes-in-v2-1-274|2 Model Support
-  changes in v2.1.274]]'
-- '[[Changes/Claude Code/2026-09-17-added-a-send-now-key-ctrl-enter-or-ctrl-x-ctrl-s-that-interrupts-the-current-tur|Added
-  a send-now key (ctrl+enter, or ctrl+x ctrl+s) that interrupts the current turn…]]'
+- '[[Changes/Codex CLI/2026-09-17-13-model-support-changes-in-rust-v0-155-0|13 Model
+  Support changes in rust-v0.155.0]]'
+- '[[Changes/GitHub Copilot CLI/2026-09-17-expanded-reasoning-text-in-the-compact-timeline-is-no-longer-dimmed-so-it-is-as|Expanded
+  reasoning text in the compact timeline is no longer dimmed, so it…]]'
+- '[[Changes/OpenHands/2026-09-17-test-isolate-mock-llm-profiles-from-ambient-secrets-by-neubig-in-https-github-co|test:
+  isolate Mock-LLM profiles from ambient secrets]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-18-v2-1-277-github-391616593-06a20f36|claude-code-2026-09-18-v2-1-277-github-391616593-06a20f36]]'
 source_type: github_releases
 theme: model-support
@@ -89,8 +89,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-09-17 · Claude Code · [[Changes/Claude Code/2026-09-17-added-a-send-now-key-ctrl-enter-or-ctrl-x-ctrl-s-that-interrupts-the-current-tur|Added a send-now key (ctrl+enter, or ctrl+x ctrl+s) that interrupts the current turn…]]
-- Later: 2026-09-22 · Claude Code · [[Changes/Claude Code/2026-09-22-5-model-support-changes-in-v2-1-280|5 Model Support changes in v2.1.280]]
+- Earlier: 2026-09-17 · OpenHands · [[Changes/OpenHands/2026-09-17-test-isolate-mock-llm-profiles-from-ambient-secrets-by-neubig-in-https-github-co|test: isolate Mock-LLM profiles from ambient secrets]]
+- Later: 2026-09-18 · Codex CLI · [[Changes/Codex CLI/2026-09-18-2-model-support-changes-in-rust-v0-155-1|2 Model Support changes in rust-v0.155.1]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

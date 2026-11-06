@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 04d5b810222f714d916f8e0fd72ad59fada4ff8b00bc8bc4dc2784664727edbb
+machine_hash: c89de7e3f61c3611d4a6f69c5292a94af2bcecddf0af940fcf362a52c6898647
 product: cursor
 product_name: Cursor
 record:
@@ -91,7 +91,7 @@ Source: https://cursor.com/changelog/04-14-26
 ## Nearby in Developer Workflow
 
 - Earlier: 2026-04-13 · Claude Code · [[Changes/Claude Code/2026-04-13-2-developer-workflow-changes-in-v2-1-105|2 Developer Workflow changes in v2.1.105]]
-- Later: 2026-04-15 · Claude Code · [[Changes/Claude Code/2026-04-15-bash-tool-now-enforces-the-documented-maximum-timeout-instead-of-accepting-arbit|Bash tool now enforces the documented maximum timeout instead of accepting…]]
+- Later: 2026-04-14 · Gemini CLI · [[Changes/Gemini CLI/2026-04-14-4-developer-workflow-changes-in-v0-38-0|4 Developer Workflow changes in v0.38.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

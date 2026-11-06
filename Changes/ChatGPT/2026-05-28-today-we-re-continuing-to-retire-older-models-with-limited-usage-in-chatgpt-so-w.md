@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: policy
-machine_hash: 0bc1ffb4bcef62e7213f2194813bfa59454ed44774eb39c9cd8b1b138b9b70e5
+machine_hash: 5bc932b44fa2eabdc392cb3bebe2ae36c97bae636f62b204162d0ca5a329738f
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -55,12 +55,12 @@ record:
   title: Retiring OpenAI o3 and GPT-4.5
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-05-18-it-s-a-substantial-improvement-in-intelligence-and-behavior-over-composer-2-it-i|It''s
-  a substantial improvement in intelligence and behavior over Composer 2]]'
-- '[[Changes/Claude Code/2026-05-19-resumed-sessions-now-keep-the-model-they-were-using-instead-of-picking-up-anothe|Resumed
-  sessions now keep the model they were using instead of picking up another…]]'
+- '[[Changes/Cline/2026-05-25-4-model-support-changes-in-v3-85-0|4 Model Support changes
+  in v3.85.0]]'
 - '[[Changes/Claude Code/2026-05-27-2-model-support-changes-in-v2-1-152|2 Model Support
   changes in v2.1.152]]'
+- '[[Changes/Gemini CLI/2026-05-27-refactor-decouple-auto-model-description-and-configuration-from-releasechannel-b|refactor:
+  decouple auto model description and configuration from releaseChannel]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-05-28-retiring-openai-o3-and-gpt-4-5-bb3c534d|chatgpt-2026-05-28-retiring-openai-o3-and-gpt-4-5-bb3c534d]]'
 source_type: chatgpt_changelog
 theme: model-support
@@ -87,7 +87,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-05-27 · Claude Code · [[Changes/Claude Code/2026-05-27-2-model-support-changes-in-v2-1-152|2 Model Support changes in v2.1.152]]
+- Earlier: 2026-05-27 · Gemini CLI · [[Changes/Gemini CLI/2026-05-27-refactor-decouple-auto-model-description-and-configuration-from-releasechannel-b|refactor: decouple auto model description and configuration from releaseChannel]]
 - Later: 2026-05-28 · ChatGPT · [[Changes/ChatGPT/2026-05-28-we-re-updating-gpt-5-5-instant-in-chatgpt-and-the-api-to-improve-response-style|GPT-5.5 Instant Update]]
 <!-- chronolog:end -->
 

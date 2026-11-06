@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 7ae1f2ad9f6ee27414d955b3048b917971af4a18181abeba6ce0974db2ee625a
+machine_hash: 6c58b43e3c63368db9bff3ca096f104c00db13d25c7f4dee8d7f95b08acc922c
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,11 +45,11 @@ record:
   title: 2 Agent Mode changes in v2.1.207
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-07-10-2-agent-mode-changes-in-v2-1-206|2 Agent Mode
-  changes in v2.1.206]]'
 - '[[Changes/Cursor/2026-07-10-new-cloud-agent-hooks|New cloud agent hooks]]'
 - '[[Changes/Cursor/2026-07-10-this-release-makes-it-easier-to-stay-in-flow-with-side-chats-that-run-alongside|Cursor
   makes it easier to stay in flow with side chats that run alongside your main…]]'
+- '[[Changes/GitHub Copilot CLI/2026-07-10-3-agent-mode-changes-in-v1-0-70|3 Agent
+  Mode changes in v1.0.70]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-07-11-v2-1-207-github-352355755-d77b8e91|claude-code-2026-07-11-v2-1-207-github-352355755-d77b8e91]]'
 source_type: github_releases
 theme: agent-mode
@@ -86,8 +86,8 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.207
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2026-07-10 · Cursor · [[Changes/Cursor/2026-07-10-this-release-makes-it-easier-to-stay-in-flow-with-side-chats-that-run-alongside|Cursor makes it easier to stay in flow with side chats that run alongside your main…]]
-- Later: 2026-07-14 · Claude Code · [[Changes/Claude Code/2026-07-14-4-agent-mode-changes-in-v2-1-208|4 Agent Mode changes in v2.1.208]]
+- Earlier: 2026-07-10 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-07-10-3-agent-mode-changes-in-v1-0-70|3 Agent Mode changes in v1.0.70]]
+- Later: 2026-07-13 · Codex CLI · [[Changes/Codex CLI/2026-07-13-2-agent-mode-changes-in-rust-v0-144-2|2 Agent Mode changes in rust-v0.144.2]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

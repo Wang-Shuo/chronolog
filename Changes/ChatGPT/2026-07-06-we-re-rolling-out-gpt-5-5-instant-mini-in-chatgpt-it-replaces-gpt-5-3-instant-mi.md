@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: b57f33fe5228f7172341480f95ff228ed939a46ea09477b294bffc0717d48c85
+machine_hash: c36b0448d87fa614527265aa78bffdf236e9ae8a4285343e2452af7d6f2560c8
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -70,10 +70,10 @@ record:
   title: GPT-5.5 Instant Mini in ChatGPT
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-06-30-introducing-claude-sonnet-5-now-the-default-model-in-claude-code-with-a-native-1|Introducing
-  Claude Sonnet 5]]'
-- '[[Changes/Claude Code/2026-07-01-2-model-support-changes-in-v2-1-198|2 Model Support
-  changes in v2.1.198]]'
+- '[[Changes/GitHub Copilot CLI/2026-07-01-add-support-for-the-kimi-k2-7-code-model|Add
+  support for the kimi-k2.7-code model]]'
+- '[[Changes/Cline/2026-07-02-generalize-the-model-capability-warning-so-it-applies-more-broadly|Generalize
+  the model capability warning so it applies more broadly]]'
 - '[[Changes/Claude Code/2026-07-03-claude-sonnet-5-sessions-no-longer-use-the-mid-conversation-system-role-for-harn|Claude
   Sonnet 5 sessions no longer use the mid-conversation system role for harness…]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-07-06-gpt-5-5-instant-mini-in-chatgpt-1ce53754|chatgpt-2026-07-06-gpt-5-5-instant-mini-in-chatgpt-1ce53754]]'
@@ -103,7 +103,7 @@ type: change
 ## Nearby in Model Support
 
 - Earlier: 2026-07-03 · Claude Code · [[Changes/Claude Code/2026-07-03-claude-sonnet-5-sessions-no-longer-use-the-mid-conversation-system-role-for-harn|Claude Sonnet 5 sessions no longer use the mid-conversation system role for harness…]]
-- Later: 2026-07-10 · Claude Code · [[Changes/Claude Code/2026-07-10-improved-code-review-findings-quality-on-claude-opus-4-8-across-all-effort-level|Improved /code-review findings quality on claude-opus-4-8 across all effort levels]]
+- Later: 2026-07-06 · OpenHands · [[Changes/OpenHands/2026-07-06-4-model-support-changes-in-1-9-0|4 Model Support changes in 1.9.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

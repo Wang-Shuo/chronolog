@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 52e302e2fb9794497a86e72b8bd52a93d4842b337a8c106fc925c811de0b81c8
+machine_hash: 1038341c4c32f20a30d088e749b78dd78c2ef9cba93f8b5be0666536ade4e6f8
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -78,12 +78,12 @@ record:
   title: GPT-6 and Intelligent UI in ChatGPT
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-02-changed-the-client-side-auto-mode-classifier-to-ignore-an-anthropic-default-sonn|Changed
-  the client-side auto mode classifier to ignore…]]'
-- '[[Changes/Claude Code/2026-10-05-2-model-support-changes-in-v2-1-290|2 Model Support
-  changes in v2.1.290]]'
+- '[[Changes/GitHub Copilot CLI/2026-10-05-2-model-support-changes-in-v1-0-92|2 Model
+  Support changes in v1.0.92]]'
 - '[[Changes/Claude Code/2026-10-06-added-prompt-caching-to-model-complete-for-mods-prompt-and-system-take-blocks-of|Added
   prompt caching to $.model.complete for mods]]'
+- '[[Changes/OpenHands/2026-10-06-7-model-support-changes-in-v1-25-0|7 Model Support
+  changes in v1.25.0]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-10-07-gpt-6-and-intelligent-ui-in-chatgpt-43bd07f7|chatgpt-2026-10-07-gpt-6-and-intelligent-ui-in-chatgpt-43bd07f7]]'
 source_type: chatgpt_changelog
 theme: model-support
@@ -110,7 +110,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-10-06 · Claude Code · [[Changes/Claude Code/2026-10-06-added-prompt-caching-to-model-complete-for-mods-prompt-and-system-take-blocks-of|Added prompt caching to $.model.complete for mods]]
+- Earlier: 2026-10-06 · OpenHands · [[Changes/OpenHands/2026-10-06-7-model-support-changes-in-v1-25-0|7 Model Support changes in v1.25.0]]
 - Later: 2026-10-07 · Claude Code · [[Changes/Claude Code/2026-10-07-added-claude-haiku-5-5-claude-haiku-5-5-now-the-default-haiku-model-on-the-anthr|Added Claude Haiku 5.5 (claude-haiku-5-5), now the default Haiku model…]]
 <!-- chronolog:end -->
 

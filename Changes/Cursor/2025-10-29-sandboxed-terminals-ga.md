@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: 5b02fee375213bab3c5ea5817f4dd190e37a684ff0e03cc5b1fba42c56dfabae
+machine_hash: edd767d6a71d327f296275515f0850005d45dfaa1a957a616452f9cfc2c46cd2
 product: cursor
 product_name: Cursor
 record:
@@ -52,11 +52,12 @@ record:
   title: Sandboxed Terminals (GA)
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-07-29-2-safety-and-privacy-changes-in-1-3|2 Safety and Privacy
-  changes in 1.3]]'
-- '[[Changes/ChatGPT/2025-09-29-we-re-rolling-out-parental-controls-globally-in-chatgpt-to-help-families-guide-h-289d0a|ChatGPT
-  rolls out parental controls globally to help families guide how ChatGPT…]]'
-- '[[Changes/Cursor/2025-09-29-sandboxed-terminals|Sandboxed terminals]]'
+- '[[Changes/GitHub Copilot CLI/2025-10-22-ensure-that-environment-variables-are-expanded-before-running-path-permission-ch|Ensure
+  that environment variables are expanded before running path permission checks]]'
+- '[[Changes/Codex CLI/2025-10-23-2-safety-and-privacy-changes-in-rust-v0-48-0|2 Safety
+  and Privacy changes in rust-v0.48.0]]'
+- '[[Changes/Codex CLI/2025-10-25-5536-added-model-summary-and-risk-assessment-for-commands-that-violate-sandbox-p|♯5536
+  — Added model summary and risk assessment for commands that violate sandbox policy]]'
 source_release: '[[Releases/Cursor/cursor-2025-10-29-2-0-https-cursor-com-changelog-2-0-66a8e76e|cursor-2025-10-29-2-0-https-cursor-com-changelog-2-0-66a8e76e]]'
 source_type: cursor_changelog
 theme: safety-privacy
@@ -107,8 +108,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Safety and Privacy
 
-- Earlier: 2025-09-29 · Cursor · [[Changes/Cursor/2025-09-29-sandboxed-terminals|Sandboxed terminals]]
-- Later: 2025-12-22 · Cursor · [[Changes/Cursor/2025-12-22-improved-stability-around-how-the-agent-respects-auto-run-preferences-to-prevent|Improved stability around how the agent respects auto-run preferences to prevent…]]
+- Earlier: 2025-10-25 · Codex CLI · [[Changes/Codex CLI/2025-10-25-5536-added-model-summary-and-risk-assessment-for-commands-that-violate-sandbox-p|♯5536 — Added model summary and risk assessment for commands that violate sandbox policy]]
+- Later: 2025-10-29 · OpenHands · [[Changes/OpenHands/2025-10-29-3-safety-and-privacy-changes-in-0-60-0|3 Safety and Privacy changes in 0.60.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: memory
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 7f9069c44cb919456108d88abcf331dac10d661e148ec206da15a6aaa040f738
+machine_hash: bae6c1ef2572c31184e9e04778105033b1f38766b60c8475a3274e01d424f5ee
 product: claude-code
 product_name: Claude Code
 record:
@@ -54,10 +54,10 @@ record:
   title: '[VSCode] Added Memory and Instructions entries to the Customize menu'
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-08-27-we-re-rolling-out-new-controls-in-temporary-chat-you-can-now-choose-to-personali|ChatGPT
-  rolls out new controls in temporary chat]]'
 - '[[Changes/Claude Code/2026-09-10-2-memory-and-personalization-changes-in-v2-1-268|2
   Memory and Personalization changes in v2.1.268]]'
+- '[[Changes/GitHub Copilot CLI/2026-09-16-3-memory-and-personalization-changes-in-v1-0-85|3
+  Memory and Personalization changes in v1.0.85]]'
 - '[[Changes/Claude Code/2026-09-17-vscode-added-viewing-editing-and-deleting-a-saved-memory-inside-the-memory-dialo|VSCode
   Added viewing, editing and deleting a saved memory inside the Memory dialog]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-17-v2-1-274-github-390317660-0d9c7c5d|claude-code-2026-09-17-v2-1-274-github-390317660-0d9c7c5d]]'
@@ -101,7 +101,7 @@ type: change
 ## Nearby in Memory and Personalization
 
 - Earlier: 2026-09-17 · Claude Code · [[Changes/Claude Code/2026-09-17-vscode-added-viewing-editing-and-deleting-a-saved-memory-inside-the-memory-dialo|VSCode Added viewing, editing and deleting a saved memory inside the Memory dialog]]
-- Later: 2026-09-25 · Claude Code · [[Changes/Claude Code/2026-09-25-improved-lists-in-help-hooks-copy-chrome-memory-ide-release-notes-rewind-diff-re|Improved lists in /help, /hooks, /copy, /chrome, /memory, /ide…]]
+- Later: 2026-09-17 · Codex CLI · [[Changes/Codex CLI/2026-09-17-7-memory-and-personalization-changes-in-rust-v0-155-0|7 Memory and Personalization changes in rust-v0.155.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

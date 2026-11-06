@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: ed9d0d77b44eabbc5d4d8e2ebeb00b067990a42b83cfc8ef7bdfbeb31412e596
+machine_hash: 3fdb2231d36335edd410b314bf9548ff1dea4171207571e3fecef2f7a855b52b
 product: cursor
 product_name: Cursor
 record:
@@ -41,10 +41,12 @@ record:
   title: Enterprise users can only access stable release (no pre-release)
   type: change
 related_changes:
-- '[[Changes/Cursor/2024-03-20-admin-improvements-team-admins-can-now-mark-themselves-as-unpaid-users-and-can-s|Admin
-  improvements: Team admins can now mark themselves as unpaid users and can see…]]'
 - '[[Changes/Cursor/2025-03-23-enhanced-visibility-of-auto-run-controls-configured-by-team-admins-clarifying-wh|Enhanced
   visibility of auto-run controls configured by team admins, clarifying…]]'
+- '[[Changes/OpenHands/2025-04-16-added-support-for-github-enterprise-and-on-prem-gitlab-in-the-github-action-reso|Added
+  support for GitHub Enterprise and on-prem GitLab in the GitHub Action resolver]]'
+- '[[Changes/OpenHands/2025-05-12-added-self-hosted-gitlab-or-enterprise-github-host-settings-for-local-installati|Added
+  self-hosted gitlab or enterprise github host settings for local installation]]'
 source_release: '[[Releases/Cursor/cursor-2025-06-04-1-0-https-cursor-com-changelog-1-0-237767ca|cursor-2025-06-04-1-0-https-cursor-com-changelog-1-0-237767ca]]'
 source_type: cursor_changelog
 theme: enterprise-admin
@@ -86,7 +88,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Enterprise and Administration
 
-- Earlier: 2025-03-23 · Cursor · [[Changes/Cursor/2025-03-23-enhanced-visibility-of-auto-run-controls-configured-by-team-admins-clarifying-wh|Enhanced visibility of auto-run controls configured by team admins, clarifying…]]
+- Earlier: 2025-05-12 · OpenHands · [[Changes/OpenHands/2025-05-12-added-self-hosted-gitlab-or-enterprise-github-host-settings-for-local-installati|Added self-hosted gitlab or enterprise github host settings for local installation]]
 - Later: 2025-06-12 · ChatGPT · [[Changes/ChatGPT/2025-06-12-enterprise-and-edu-rollout-coming-soon|Enterprise and Edu rollout coming soon]]
 <!-- chronolog:end -->
 

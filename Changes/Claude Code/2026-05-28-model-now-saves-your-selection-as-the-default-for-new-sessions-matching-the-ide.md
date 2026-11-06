@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: f8e10ff9dfbe1e074353f0f6a32525bcbab58218107229d1b0deaf052deca7ec
+machine_hash: c2b9f6981e9b607100a178b6ce270c68af3831ffa1f0de64fa66bc6aa2462596
 product: claude-code
 product_name: Claude Code
 record:
@@ -102,7 +102,7 @@ type: change
 ## Nearby in Model Support
 
 - Earlier: 2026-05-28 · Claude Code · [[Changes/Claude Code/2026-05-28-5-model-support-changes-in-v2-1-154|5 Model Support changes in v2.1.154]]
-- Later: 2026-05-30 · Claude Code · [[Changes/Claude Code/2026-05-30-auto-mode-is-now-available-on-bedrock-vertex-and-foundry-for-opus-4-7-and-opus-4|Auto mode is now available on Bedrock, Vertex, and Foundry for Opus 4.7 and Opus 4.8]]
+- Later: 2026-05-28 · Cline · [[Changes/Cline/2026-05-28-2-model-support-changes-in-v3-86-0|2 Model Support changes in v3.86.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

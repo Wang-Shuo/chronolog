@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 054a8a1dc6118dc40ceeec1cea77618f7f0b543bf80ddddeba4ed82c5a43dc0d
+machine_hash: d6dda1551cea965deeb6a79547a8902a56d8059764e9f1fae341830793c5f1ea
 product: cursor
 product_name: Cursor
 record:
@@ -48,10 +48,10 @@ record:
   title: 3 Apps and Integrations changes in CLI Improvements and Mermaid ASCII…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-02-17-2-apps-and-integrations-changes-in-v2-1-45|2 Apps
-  and Integrations changes in v2.1.45]]'
 - '[[Changes/Cursor/2026-02-17-plugins-on-the-cursor-marketplace-0cef65|Plugins on
   the Cursor Marketplace]]'
+- '[[Changes/GitHub Copilot CLI/2026-02-17-2-apps-and-integrations-changes-in-v0-0-411|2
+  Apps and Integrations changes in v0.0.411]]'
 - '[[Changes/Claude Code/2026-02-18-added-last-assistant-message-field-to-stop-and-subagentstop-hook-inputs-providin|Added
   last_assistant_message field to Stop and SubagentStop hook inputs, providing…]]'
 source_release: '[[Releases/Cursor/cursor-2026-02-18-cli-improvements-and-mermaid-ascii-diagrams-https-cursor-com-cha-a75d36c7|cursor-2026-02-18-cli-improvements-and-mermaid-ascii-diagrams-https-cursor-com-cha-a75d36c7]]'
@@ -100,7 +100,7 @@ Source: https://cursor.com/changelog/cli-feb-18-2026
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-02-18 · Claude Code · [[Changes/Claude Code/2026-02-18-added-last-assistant-message-field-to-stop-and-subagentstop-hook-inputs-providin|Added last_assistant_message field to Stop and SubagentStop hook inputs, providing…]]
-- Later: 2026-02-19 · ChatGPT · [[Changes/ChatGPT/2026-02-19-preview-diagrams-and-mini-apps-directly-in-chat|Preview diagrams and mini apps directly in chat]]
+- Later: 2026-02-18 · Gemini CLI · [[Changes/Gemini CLI/2026-02-18-5-apps-and-integrations-changes-in-v0-29-0|5 Apps and Integrations changes in v0.29.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

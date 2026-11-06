@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 9818a357137846273ac0c3d3185d5ef558239d2ef73326d5dfdcb4a6af54791f
+machine_hash: e31a3ff3f5868c1869f0d9ed5aa779715c326145cb319f16c7319fc86494e74d
 product: cursor
 product_name: Cursor
 record:
@@ -45,11 +45,12 @@ record:
   title: Run Agents in Linear
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-08-06-faster-background-agent-startup|Faster Background Agent
-  startup]]'
-- '[[Changes/Cursor/2025-08-06-sidebar-for-all-agents|Sidebar for all Agents]]'
-- '[[Changes/Cursor/2025-08-06-sending-messages-while-cursor-is-working-now-does-a-better-job-of-steering-the-a|More
-  Agent steerability]]'
+- '[[Changes/Gemini CLI/2025-08-14-7-agent-mode-changes-in-v0-1-21|7 Agent Mode changes
+  in v0.1.21]]'
+- '[[Changes/OpenHands/2025-08-20-added-a-new-feedback-reason-the-agent-didn-t-finish-the-job-by-xingyaoww-in-http|Added
+  a new feedback reason: "The agent didn''t finish the job"]]'
+- '[[Changes/Cline/2025-08-21-adding-task-progress-param-to-the-summarize-task-tool-call-by-0xtoshii-in-https|adding
+  task_progress param to the summarize task tool call]]'
 source_release: '[[Releases/Cursor/cursor-2025-08-21-1-5-https-cursor-com-changelog-1-5-f93efb89|cursor-2025-08-21-1-5-https-cursor-com-changelog-1-5-f93efb89]]'
 source_type: cursor_changelog
 theme: agent-mode
@@ -85,8 +86,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2025-08-06 · Cursor · [[Changes/Cursor/2025-08-06-sending-messages-while-cursor-is-working-now-does-a-better-job-of-steering-the-a|More Agent steerability]]
-- Later: 2025-09-12 · Cursor · [[Changes/Cursor/2025-09-12-3-agent-mode-changes-in-1-6|3 Agent Mode changes in 1.6]]
+- Earlier: 2025-08-21 · Cline · [[Changes/Cline/2025-08-21-adding-task-progress-param-to-the-summarize-task-tool-call-by-0xtoshii-in-https|adding task_progress param to the summarize task tool call]]
+- Later: 2025-08-26 · Codex CLI · [[Changes/Codex CLI/2025-08-26-5-agent-mode-changes-in-rust-v0-24-0|5 Agent Mode changes in rust-v0.24.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

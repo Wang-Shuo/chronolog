@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 768b7b981e4cef93c6987b44517090953e605c1b3f6dd9360afe631475ed20ff
+machine_hash: be138d372619fed9a01895882f7d2f9a9a062d5e4c4f07a56a7b41498d185404
 product: claude-code
 product_name: Claude Code
 record:
@@ -96,7 +96,7 @@ type: change
 ## Nearby in Editor Experience
 
 - Earlier: 2026-09-14 · Claude Code · [[Changes/Claude Code/2026-09-14-3-editor-experience-changes-in-v2-1-271|3 Editor Experience changes in v2.1.271]]
-- Later: 2026-09-17 · Claude Code · [[Changes/Claude Code/2026-09-17-10-editor-experience-changes-in-v2-1-275|10 Editor Experience changes in v2.1.275]]
+- Later: 2026-09-16 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-09-16-9-editor-experience-changes-in-v1-0-85|9 Editor Experience changes in v1.0.85]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

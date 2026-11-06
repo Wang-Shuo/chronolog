@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: d81ce7d86b3bff2bb2390dc4b9f9279fe73e25a75cfda86cb82c44b682e4c29b
+machine_hash: 5b4e0862ba6dde7eaaa1ebec56971181b9a00e9fabbe2be12f951a851c258520
 product: claude-code
 product_name: Claude Code
 record:
@@ -46,8 +46,7 @@ record:
   title: Introducing dynamic workflows
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-05-27-2-agent-mode-changes-in-v2-1-152|2 Agent Mode
-  changes in v2.1.152]]'
+- '[[Changes/Windsurf/2026-05-27-devin-local|Devin Local]]'
 - '[[Changes/Claude Code/2026-05-28-4-agent-mode-changes-in-v2-1-154|4 Agent Mode
   changes in v2.1.154]]'
 - '[[Changes/Claude Code/2026-05-28-3-agent-mode-changes-in-v2-1-153|3 Agent Mode
@@ -89,7 +88,7 @@ type: change
 ## Nearby in Agent Mode
 
 - Earlier: 2026-05-28 · Claude Code · [[Changes/Claude Code/2026-05-28-3-agent-mode-changes-in-v2-1-153|3 Agent Mode changes in v2.1.153]]
-- Later: 2026-05-29 · Claude Code · [[Changes/Claude Code/2026-05-29-claude-agents-the-agent-field-in-settings-json-is-now-honored-for-dispatched-ses|claude agents: the agent field in settings.json is now honored for dispatched…]]
+- Later: 2026-05-28 · Codex CLI · [[Changes/Codex CLI/2026-05-28-24714-fix-auto-review-skip-legacy-notify-for-auto-review-threads-dylan-hurd-oai|♯24714 fix(auto-review) skip legacy notify for auto review threads @dylan-hurd-oai]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

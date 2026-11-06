@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: be69e97ceb4cd853c2d31ed8a406bb4969ff9e1d8b531609788c679ce5c3deaa
+machine_hash: a1e07a0342b2957d9e5571e425c4f80d5ebc0c0a7bfbb12a5b2ab853eb13af0a
 product: claude-code
 product_name: Claude Code
 record:
@@ -46,12 +46,12 @@ record:
   title: 3 Developer Workflow changes in v2.1.113
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-04-15-in-the-agents-window-canvases-are-durable-artifacts-that-live-in-the-side-panel|In
-  the Agents Window, canvases are durable artifacts that live in the side panel…]]'
-- '[[Changes/Claude Code/2026-04-16-2-developer-workflow-changes-in-v2-1-111|2 Developer
-  Workflow changes in v2.1.111]]'
-- '[[Changes/Claude Code/2026-04-16-added-ultrareview-for-running-comprehensive-code-review-in-the-cloud-using-paral|Added
-  /ultrareview for running comprehensive code review in the cloud using…]]'
+- '[[Changes/GitHub Copilot CLI/2026-04-16-terminal-state-correctly-restored-after-a-crash-exit-on-windows|Terminal
+  state correctly restored after a crash exit on Windows]]'
+- '[[Changes/GitHub Copilot CLI/2026-04-16-support-copilot-disable-terminal-title-environment-variable-to-opt-out-of-termin|Support
+  COPILOT_DISABLE_TERMINAL_TITLE environment variable to opt out of terminal…]]'
+- '[[Changes/GitHub Copilot CLI/2026-04-16-undo-shows-an-explanatory-message-when-rewind-is-unavailable-e-g-not-in-a-git-re|/undo
+  shows an explanatory message when rewind is unavailable…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-04-17-v2-1-113-github-310525785-1b5293ba|claude-code-2026-04-17-v2-1-113-github-310525785-1b5293ba]]'
 source_type: github_releases
 theme: developer-workflow
@@ -92,8 +92,8 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.113
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2026-04-16 · Claude Code · [[Changes/Claude Code/2026-04-16-added-ultrareview-for-running-comprehensive-code-review-in-the-cloud-using-paral|Added /ultrareview for running comprehensive code review in the cloud using…]]
-- Later: 2026-04-22 · Claude Code · [[Changes/Claude Code/2026-04-22-2-developer-workflow-changes-in-v2-1-117|2 Developer Workflow changes in v2.1.117]]
+- Earlier: 2026-04-16 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-04-16-undo-shows-an-explanatory-message-when-rewind-is-unavailable-e-g-not-in-a-git-re|/undo shows an explanatory message when rewind is unavailable…]]
+- Later: 2026-04-17 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-04-17-3-developer-workflow-changes-in-v1-0-32|3 Developer Workflow changes in v1.0.32]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

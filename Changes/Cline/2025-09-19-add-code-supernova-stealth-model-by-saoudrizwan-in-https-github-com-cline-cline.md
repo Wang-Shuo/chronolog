@@ -1,0 +1,92 @@
+---
+card_id: cline-2025-09-19-d6c75f
+date: '2025-09-19'
+description: 'Cline · 2025-09-19 · Model Support: Add code-supernova stealth model
+  by @saoudrizwan in https://github.com/cline/cline/pull/6327'
+diffusion:
+  first_in_tracked: '[[Changes/ChatGPT/2023-01-09-we-made-more-improvements-to-the-chatgpt-model-it-should-be-generally-better-acr|We
+    made more improvements to the ChatGPT model!]]'
+  inference: No adoption, equivalence, or causation claim.
+  lag_days: 984
+  relation: same-theme-chronology
+  role: later-observed
+  scope: tracked-products-only
+  theme: model-support
+  tracked_products_count: 10
+evolves_from: []
+extractor_version: fallback-v5
+impact: significant
+kind: change
+machine_hash: 0e754d3b48c576f3d3b2afc38f0f6482034ea544f7b0caad9c2720a482ebfee3
+product: cline
+product_name: Cline
+record:
+  ai_generated: true
+  card_id: cline-2025-09-19-d6c75f
+  comparison: ''
+  confidence: low
+  date: '2025-09-19'
+  description: 'Cline — v3.30.0: Add code-supernova stealth model by @saoudrizwan
+    in https://github.com/cline/cline/pull/6327'
+  evidence:
+  - quote: Add code-supernova stealth model by @saoudrizwan in https://github.com/cline/cline/pull/6327
+    source_release: https://github.com/cline/cline/releases/tag/v3.30.0
+  extractor_version: fallback-v5
+  impact: significant
+  kind: change
+  product: cline
+  product_name: Cline
+  slug: add-code-supernova-stealth-model-by-saoudrizwan-in-https-github-com-cline-cline
+  source_release: cline-2025-09-19-v3-30-0-github-248707045-13def0a7
+  source_type: github_releases
+  theme: model-support
+  title: Add code-supernova stealth model
+  type: change
+related_changes:
+- '[[Changes/Codex CLI/2025-09-17-3680-update-azure-model-provider-example-3680|♯3680
+  Update azure model provider example (♯3680)]]'
+- '[[Changes/Gemini CLI/2025-09-17-refactor-centralize-and-improve-model-fallback-handling-by-abhipatel12-in-https|refactor:
+  Centralize and improve model fallback handling]]'
+- '[[Changes/ChatGPT/2025-09-18-we-re-improving-the-quality-and-latency-of-responses-of-the-version-of-advanced|Voice
+  Updates]]'
+source_release: '[[Releases/Cline/cline-2025-09-19-v3-30-0-github-248707045-13def0a7|cline-2025-09-19-v3-30-0-github-248707045-13def0a7]]'
+source_type: github_releases
+theme: model-support
+title: Add code-supernova stealth model
+type: change
+---
+
+<!-- chronolog:begin region="header" -->
+# Add code-supernova stealth model
+
+**Cline** · 2025-09-19 · [[Themes/model-support|Model Support]] · [Official source](https://github.com/cline/cline/releases/tag/v3.30.0) · from [[Releases/Cline/cline-2025-09-19-v3-30-0-github-248707045-13def0a7|v3.30.0]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="evidence" -->
+> Add code-supernova stealth model by @saoudrizwan in https://github.com/cline/cline/pull/6327
+>
+> Source: https://github.com/cline/cline/releases/tag/v3.30.0
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="context" -->
+## Also in this release
+
+- [[Changes/Cline/2025-09-19-3-other-changes-in-v3-30-0|3 other changes in v3.30.0]] · Other changes
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="nearby" -->
+## Nearby in Model Support
+
+- Earlier: 2025-09-18 · ChatGPT · [[Changes/ChatGPT/2025-09-18-we-re-improving-the-quality-and-latency-of-responses-of-the-version-of-advanced|Voice Updates]]
+- Later: 2025-09-23 · Codex CLI · [[Changes/Codex CLI/2025-09-23-2-model-support-changes-in-rust-v0-40-0|2 Model Support changes in rust-v0.40.0]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="relations" -->
+## Related
+
+- Earliest same-theme entry in the tracked set: 2023-01-09 · ChatGPT · [[Changes/ChatGPT/2023-01-09-we-made-more-improvements-to-the-chatgpt-model-it-should-be-generally-better-acr|We made more improvements to the ChatGPT model!]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="footer" -->
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20cline-2025-09-19-d6c75f&body=Card%3A%20Changes%2FCline%2F2025-09-19-add-code-supernova-stealth-model-by-saoudrizwan-in-https-github-com-cline-cline.md%0ACard%20ID%3A%20cline-2025-09-19-d6c75f%0ASource%3A%20https%3A%2F%2Fgithub.com%2Fcline%2Fcline%2Freleases%2Ftag%2Fv3.30.0%0A%0AWhat%20should%20be%20corrected%3F%0A)
+<!-- chronolog:end -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: search-browsing
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 379adf509dfa7b4304fd55c3e5b31ff53a0baa064a28679227c958e53466bd24
+machine_hash: 275a762e9f0e4c59b9266fb6cc336fb63c1ecced475b4a0c3dad55007f82eead
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -56,10 +56,10 @@ record:
   title: Outlook shared mailboxes and calendars in ChatGPT
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-03-23-now-it-s-easier-to-find-reuse-and-build-on-your-files-over-time-when-you-upload|File
-  Library in ChatGPT]]'
-- '[[Changes/ChatGPT/2026-03-24-we-ve-improved-shopping-in-chatgpt-to-make-it-easier-to-discover-compare-and-dec|Shopping
-  updates in ChatGPT]]'
+- '[[Changes/GitHub Copilot CLI/2026-03-30-grep-and-glob-search-results-return-promptly-when-a-timeout-is-reached|Grep
+  and glob search results return promptly when a timeout is reached]]'
+- '[[Changes/GitHub Copilot CLI/2026-03-31-grep-and-glob-search-results-return-promptly-when-a-timeout-is-reached|Grep
+  and glob search results return promptly when a timeout is reached]]'
 - '[[Changes/Cursor/2026-04-02-past-chat-transcripts-are-now-surfaced-directly-in-at-mention-search-results|Past
   chat transcripts are now surfaced directly in at-mention search results]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-04-08-outlook-shared-mailboxes-and-calendars-in-chatgpt-51092ccc|chatgpt-2026-04-08-outlook-shared-mailboxes-and-calendars-in-chatgpt-51092ccc]]'
@@ -89,7 +89,7 @@ type: change
 ## Nearby in Search and Browsing
 
 - Earlier: 2026-04-02 · Cursor · [[Changes/Cursor/2026-04-02-past-chat-transcripts-are-now-surfaced-directly-in-at-mention-search-results|Past chat transcripts are now surfaced directly in at-mention search results]]
-- Later: 2026-05-19 · Claude Code · [[Changes/Claude Code/2026-05-19-the-plugin-browse-and-discover-panes-now-show-when-a-plugin-was-last-updated|The /plugin browse and discover panes now show when a plugin was last updated]]
+- Later: 2026-04-11 · Codex CLI · [[Changes/Codex CLI/2026-04-11-2-search-and-browsing-changes-in-rust-v0-120-0|2 Search and Browsing changes in rust-v0.120.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

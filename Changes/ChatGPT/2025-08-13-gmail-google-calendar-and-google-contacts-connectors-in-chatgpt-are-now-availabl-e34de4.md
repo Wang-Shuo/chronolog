@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: expansion
-machine_hash: 51a3987ae655c76389d1ac7c0b0caeb6913cbc6022ed4a8275beca733b9b7276
+machine_hash: d7808a7323720417fc15c1f7367aa7bf22e061d47c3753697b2acebda6f48850
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -47,12 +47,12 @@ record:
   title: Gmail, Google Calendar, and Google Contacts Connectors in ChatGPT (Plus)
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-07-03-2-apps-and-integrations-changes-in-1-2|2 Apps and Integrations
-  changes in 1.2]]'
-- '[[Changes/ChatGPT/2025-07-24-pro-users-can-now-utilize-chat-search-with-hubspot-and-custom-connectors-mcp-in-b9b682|Chat
-  search for HubSpot and custom connectors (MCP) (Pro)]]'
-- '[[Changes/Cursor/2025-07-29-extension-marketplace-supports-custom-urls|Extension
-  marketplace supports custom URLs]]'
+- '[[Changes/Gemini CLI/2025-08-06-26-apps-and-integrations-changes-in-v0-1-18|26
+  Apps and Integrations changes in v0.1.18]]'
+- '[[Changes/Codex CLI/2025-08-12-https-github-com-openai-codex-pull-1975-add-json-schema-sanitization-for-mcp-too|(source
+  link) add JSON schema sanitization for MCP tools…]]'
+- '[[Changes/Gemini CLI/2025-08-12-10-apps-and-integrations-changes-in-v0-1-19|10
+  Apps and Integrations changes in v0.1.19]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-08-13-gmail-google-calendar-and-google-contacts-connectors-in-chatgpt-14e603bd|chatgpt-2025-08-13-gmail-google-calendar-and-google-contacts-connectors-in-chatgpt-14e603bd]]'
 source_type: chatgpt_changelog
 theme: apps-integrations
@@ -79,8 +79,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2025-07-29 · Cursor · [[Changes/Cursor/2025-07-29-extension-marketplace-supports-custom-urls|Extension marketplace supports custom URLs]]
-- Later: 2025-08-21 · Cursor · [[Changes/Cursor/2025-08-21-cursor-now-supports-mcp-elicitation-a-new-feature-in-the-mcp-spec-that-allows-se|Support for MCP elicitation]]
+- Earlier: 2025-08-12 · Gemini CLI · [[Changes/Gemini CLI/2025-08-12-10-apps-and-integrations-changes-in-v0-1-19|10 Apps and Integrations changes in v0.1.19]]
+- Later: 2025-08-13 · Cline · [[Changes/Cline/2025-08-13-add-an-endpoint-to-the-hostbridge-for-integration-testing-by-sjf-in-https-github|Add an endpoint to the HostBridge for integration testing]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: a8c30936bef9a1ee4687ca849edeb66b0b088140053f4a4af17fa702365a23b1
+machine_hash: 1da817fde83a2ee0e2f0bf5d9c9868e3e5a2548525f6b7b647d8e17072456ad0
 product: claude-code
 product_name: Claude Code
 record:
@@ -53,12 +53,12 @@ record:
   title: 5 Apps and Integrations changes in v2.1.94
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-04-02-4-apps-and-integrations-changes-in-v2-1-91|4 Apps
-  and Integrations changes in v2.1.91]]'
-- '[[Changes/Cursor/2026-04-02-2-apps-and-integrations-changes-in-3-0|2 Apps and Integrations
-  changes in 3.0]]'
+- '[[Changes/GitHub Copilot CLI/2026-04-02-mcp-tool-calls-display-tool-name-and-parameter-summary-in-the-timeline|MCP
+  tool calls display tool name and parameter summary in the timeline]]'
 - '[[Changes/Claude Code/2026-04-04-remote-control-session-names-now-use-your-hostname-as-the-default-prefix-e-g-myh|Remote
   Control session names now use your hostname as the default prefix…]]'
+- '[[Changes/GitHub Copilot CLI/2026-04-06-2-apps-and-integrations-changes-in-v1-0-19|2
+  Apps and Integrations changes in v1.0.19]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-04-07-v2-1-94-github-306300914-5622fba4|claude-code-2026-04-07-v2-1-94-github-306300914-5622fba4]]'
 source_type: github_releases
 theme: apps-integrations
@@ -100,8 +100,8 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.94
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-04-04 · Claude Code · [[Changes/Claude Code/2026-04-04-remote-control-session-names-now-use-your-hostname-as-the-default-prefix-e-g-myh|Remote Control session names now use your hostname as the default prefix…]]
-- Later: 2026-04-08 · Cursor · [[Changes/Cursor/2026-04-08-give-bugbot-access-to-mcp-servers-for-additional-context-during-code-reviews-on|Bugbot MCP Support]]
+- Earlier: 2026-04-06 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-04-06-2-apps-and-integrations-changes-in-v1-0-19|2 Apps and Integrations changes in v1.0.19]]
+- Later: 2026-04-07 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-04-07-2-apps-and-integrations-changes-in-v1-0-21|2 Apps and Integrations changes in v1.0.21]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

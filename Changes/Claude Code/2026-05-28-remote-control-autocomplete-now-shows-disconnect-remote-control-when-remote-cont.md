@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: a22f24654107e6f332fed19266a18c80edecac62aeaf01c463eecb59874941a7
+machine_hash: 42a7b2c880443d535b24beb1fb3d0dab9086ff802bdefbd5cc794a6c34b33161
 product: claude-code
 product_name: Claude Code
 record:
@@ -43,12 +43,12 @@ record:
     Remote…'
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-05-15-bg-and-detach-now-preserve-allow-dangerously-skip-permissions-so-the-forked-work|/bg
-  and ←-detach now preserve --allow-dangerously-skip-permissions…]]'
-- '[[Changes/Claude Code/2026-05-19-fewer-spurious-tool-errors-during-search-head-tail-file-views-now-satisfy-the-re|Fewer
-  spurious tool errors during search]]'
-- '[[Changes/Claude Code/2026-05-22-diff-detail-view-can-now-be-scrolled-with-the-keyboard-arrows-j-k-pgup-pgdn-spac|/diff
-  detail view can now be scrolled with the keyboard…]]'
+- '[[Changes/Gemini CLI/2026-05-22-ci-implement-codebase-aware-effort-level-triage-by-cocosheng-g-in-https-github-c|ci:
+  implement codebase-aware effort level triage]]'
+- '[[Changes/GitHub Copilot CLI/2026-05-23-automatically-prune-old-process-log-files-from-copilot-logs-at-startup-to-preven|Automatically
+  prune old process log files from ~/.copilot/logs/ at startup…]]'
+- '[[Changes/Cline/2026-05-25-update-diff-and-protobufjs-dependencies|Update diff
+  and protobufjs dependencies]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-05-28-v2-1-154-github-330944050-782cdfc9|claude-code-2026-05-28-v2-1-154-github-330944050-782cdfc9]]'
 source_type: github_releases
 theme: editor-experience
@@ -85,8 +85,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2026-05-22 · Claude Code · [[Changes/Claude Code/2026-05-22-diff-detail-view-can-now-be-scrolled-with-the-keyboard-arrows-j-k-pgup-pgdn-spac|/diff detail view can now be scrolled with the keyboard…]]
-- Later: 2026-05-29 · Claude Code · [[Changes/Claude Code/2026-05-29-removed-the-ide-for-startup-hint-toast|Removed the "/ide for …" startup hint toast]]
+- Earlier: 2026-05-25 · Cline · [[Changes/Cline/2026-05-25-update-diff-and-protobufjs-dependencies|Update diff and protobufjs dependencies]]
+- Later: 2026-05-28 · Codex CLI · [[Changes/Codex CLI/2026-05-28-slash-command-completion-now-preserves-existing-draft-text-for-commands-that-acc|Slash-command completion now preserves existing draft text for commands that accept…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

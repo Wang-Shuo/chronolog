@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: a8041158de316c2bff877e6c67f73bf39e1e5eecc3325676212e2a5485c79556
+machine_hash: 296901126b21aa04990ee32ba244967876eff7714fcbec5c9365471c46fd389c
 product: claude-code
 product_name: Claude Code
 record:
@@ -47,12 +47,12 @@ record:
     all…
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-12-22-this-includes-the-core-agent-layout-controls-viewing-code-diffs-and-more-we-will|This
-  includes the core agent, layout controls, viewing code diffs, and more]]'
-- '[[Changes/Cursor/2026-01-08-new-agent-command-is-now-the-primary-cli-entrypoint-cursor-agent-remains-as-a-ba|New
-  agent command is now the primary CLI entrypoint. cursor-agent remains…]]'
 - '[[Changes/Claude Code/2026-01-09-added-agent-type-to-sessionstart-hook-input-populated-if-agent-is-specified|Added
   agent_type to SessionStart hook input, populated if --agent is specified]]'
+- '[[Changes/Cline/2026-01-09-add-skills-system-for-reusable-on-demand-agent-instructions|Add
+  Skills system for reusable, on-demand agent instructions]]'
+- '[[Changes/Codex CLI/2026-01-09-2-agent-mode-changes-in-rust-v0-80-0|2 Agent Mode
+  changes in rust-v0.80.0]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-01-11-v2-1-4-github-275760368-28c923f9|claude-code-2026-01-11-v2-1-4-github-275760368-28c923f9]]'
 source_type: github_releases
 theme: agent-mode
@@ -80,8 +80,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2026-01-09 · Claude Code · [[Changes/Claude Code/2026-01-09-added-agent-type-to-sessionstart-hook-input-populated-if-agent-is-specified|Added agent_type to SessionStart hook input, populated if --agent is specified]]
-- Later: 2026-01-14 · Claude Code · [[Changes/Claude Code/2026-01-14-added-inline-display-of-agent-s-final-response-in-task-notifications-making-it-e|Added inline display of agent's final response in task notifications, making…]]
+- Earlier: 2026-01-09 · Codex CLI · [[Changes/Codex CLI/2026-01-09-2-agent-mode-changes-in-rust-v0-80-0|2 Agent Mode changes in rust-v0.80.0]]
+- Later: 2026-01-13 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-01-13-3-agent-mode-changes-in-v0-0-380|3 Agent Mode changes in v0.0.380]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

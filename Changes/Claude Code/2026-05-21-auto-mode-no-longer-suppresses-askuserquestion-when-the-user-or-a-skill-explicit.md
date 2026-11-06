@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 28780813d7e2a08f46f3017e642efc6ce345589b5dfc0a1622902991204c1584
+machine_hash: 3fdf7bfb4e7e9f328128fc90b3cc1e6b732fd2b139443181f2bca069bbb00ee0
 product: claude-code
 product_name: Claude Code
 record:
@@ -43,11 +43,11 @@ record:
     explicitly…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-05-19-3-agent-mode-changes-in-v2-1-145|3 Agent Mode
-  changes in v2.1.145]]'
-- '[[Changes/Cursor/2026-05-19-assign-work-items-to-cursor-or-mention-cursor-in-a-comment-to-kick-off-a-cloud-a-1c05f0|Assign
-  work items to Cursor, or mention @Cursor in a comment to kick off a cloud agent]]'
+- '[[Changes/Codex CLI/2026-05-20-23147-make-multi-agent-v2-tool-namespace-configurable-jif-oai|♯23147
+  Make multi-agent v2 tool namespace configurable @jif-oai]]'
 - '[[Changes/Cursor/2026-05-20-loop-skill|/loop skill]]'
+- '[[Changes/GitHub Copilot CLI/2026-05-20-remote-command-can-now-be-used-while-the-agent-is-working|/remote
+  command can now be used while the agent is working]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-05-21-v2-1-146-github-326230049-ea612648|claude-code-2026-05-21-v2-1-146-github-326230049-ea612648]]'
 source_type: github_releases
 theme: agent-mode
@@ -77,8 +77,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2026-05-20 · Cursor · [[Changes/Cursor/2026-05-20-loop-skill|/loop skill]]
-- Later: 2026-05-27 · Claude Code · [[Changes/Claude Code/2026-05-27-2-agent-mode-changes-in-v2-1-152|2 Agent Mode changes in v2.1.152]]
+- Earlier: 2026-05-20 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-05-20-remote-command-can-now-be-used-while-the-agent-is-working|/remote command can now be used while the agent is working]]
+- Later: 2026-05-21 · Codex CLI · [[Changes/Codex CLI/2026-05-21-7-agent-mode-changes-in-rust-v0-133-0|7 Agent Mode changes in rust-v0.133.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

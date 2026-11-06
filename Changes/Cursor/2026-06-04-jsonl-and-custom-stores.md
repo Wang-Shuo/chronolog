@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: 2bb716bec623be206a4131d31c7b5f5adb485fb8b417203ffda889cea85e5faa
+machine_hash: b9d07a01d51cf9a006f7ddc37a6a96b2678363c0daa7e533647cdf4515fdce6f
 product: cursor
 product_name: Cursor
 record:
@@ -57,10 +57,10 @@ record:
   title: JSONL and custom stores
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-06-02-claude-agents-rows-now-show-done-total-before-the-detail-when-work-is-fanned-out|claude
-  agents rows now show done/total before the detail when work is fanned out]]'
 - '[[Changes/Claude Code/2026-06-04-2-agent-mode-changes-in-v2-1-163|2 Agent Mode
   changes in v2.1.163]]'
+- '[[Changes/Codex CLI/2026-06-04-12-agent-mode-changes-in-rust-v0-137-0|12 Agent
+  Mode changes in rust-v0.137.0]]'
 - '[[Changes/Cursor/2026-06-04-added-the-ability-for-agents-to-embed-buttons-in-canvases-that-will-run-a-specif|Added
   the ability for agents to embed buttons in canvases that will run a specific…]]'
 source_release: '[[Releases/Cursor/cursor-2026-06-04-custom-stores-custom-tools-and-auto-review-for-the-cursor-sdk-ht-612f6856|cursor-2026-06-04-custom-stores-custom-tools-and-auto-review-for-the-cursor-sdk-ht-612f6856]]'

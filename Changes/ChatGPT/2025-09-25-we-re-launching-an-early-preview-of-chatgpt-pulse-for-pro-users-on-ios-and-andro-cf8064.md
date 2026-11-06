@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: memory
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 366e43bdae4b510b4313e435ac269cfc62b369c39ca400c4b9a803b3013ed09f
+machine_hash: 58bb71b873d8b5503c76b679c392f1fc9aea882fb79f42bb611d1a4cd8e25e62
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -76,12 +76,12 @@ record:
   title: Introducing ChatGPT Pulse for Pro users
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2025-08-22-an-improvement-to-projects-is-now-available-when-creating-a-project-users-have-t-87f79a|An
-  improvement to projects is now available]]'
 - '[[Changes/ChatGPT/2025-09-15-personalization-no-longer-opens-in-a-separate-modal-you-can-manage-personalizati|Personalization
   settings are now in Settings]]'
 - '[[Changes/ChatGPT/2025-09-22-longer-memory-for-more-personalized-responses|Longer
   memory for more personalized responses]]'
+- '[[Changes/Codex CLI/2025-09-23-new-review-commands-review-specific-commit-against-a-base-branch-or-custom-instr|New
+  /review commands…]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-09-25-introducing-chatgpt-pulse-for-pro-users-5be6c168|chatgpt-2025-09-25-introducing-chatgpt-pulse-for-pro-users-5be6c168]]'
 source_type: chatgpt_changelog
 theme: memory
@@ -108,7 +108,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Memory and Personalization
 
-- Earlier: 2025-09-22 · ChatGPT · [[Changes/ChatGPT/2025-09-22-longer-memory-for-more-personalized-responses|Longer memory for more personalized responses]]
+- Earlier: 2025-09-23 · Codex CLI · [[Changes/Codex CLI/2025-09-23-new-review-commands-review-specific-commit-against-a-base-branch-or-custom-instr|New /review commands…]]
 - Later: 2025-09-29 · ChatGPT · [[Changes/ChatGPT/2025-09-29-turn-off-memory-so-chatgpt-won-t-save-and-use-memories-when-responding|Turn off memory, so ChatGPT won’t save and use memories when responding]]
 <!-- chronolog:end -->
 

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: c097bcb262faaf1c11276999dcc31d628d39031c5cf14505e2e2623e46c69cfc
+machine_hash: 6ab648da50489200a5994701d6f5e666badb0d9d1c7bb7d99d6af34847b6ac66
 product: claude-code
 product_name: Claude Code
 record:
@@ -46,11 +46,12 @@ record:
   title: 2 Editor Experience changes in v2.1.98
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-04-02-agent-tabs-in-the-editor|Agent Tabs in the Editor]]'
-- '[[Changes/Claude Code/2026-04-04-removed-vim-command-toggle-vim-mode-via-config-editor-mode|Removed
-  /vim command (toggle vim mode via /config → Editor mode)]]'
+- '[[Changes/GitHub Copilot CLI/2026-04-07-timeline-no-longer-goes-blank-when-content-shrinks-e-g-after-cancelling-or-tool|Timeline
+  no longer goes blank when content shrinks…]]'
 - '[[Changes/Claude Code/2026-04-08-4-editor-experience-changes-in-v2-1-97|4 Editor
   Experience changes in v2.1.97]]'
+- '[[Changes/Gemini CLI/2026-04-08-feat-cli-support-tab-to-queue-for-messages-while-generating-by-gundermanc-in-htt|feat(cli):
+  support ''tab to queue'' for messages while generating]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-04-09-v2-1-98-github-307232194-a0774436|claude-code-2026-04-09-v2-1-98-github-307232194-a0774436]]'
 source_type: github_releases
 theme: editor-experience
@@ -90,8 +91,8 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.98
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2026-04-08 · Claude Code · [[Changes/Claude Code/2026-04-08-4-editor-experience-changes-in-v2-1-97|4 Editor Experience changes in v2.1.97]]
-- Later: 2026-04-13 · Cursor · [[Changes/Cursor/2026-04-13-3-editor-experience-changes-in-3-1|3 Editor Experience changes in 3.1]]
+- Earlier: 2026-04-08 · Gemini CLI · [[Changes/Gemini CLI/2026-04-08-feat-cli-support-tab-to-queue-for-messages-while-generating-by-gundermanc-in-htt|feat(cli): support 'tab to queue' for messages while generating]]
+- Later: 2026-04-10 · Codex CLI · [[Changes/Codex CLI/2026-04-10-16202-fix-paste-driven-bottom-pane-completion-teardown-etraut-openai|♯16202 Fix paste-driven bottom pane completion teardown @etraut-openai]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

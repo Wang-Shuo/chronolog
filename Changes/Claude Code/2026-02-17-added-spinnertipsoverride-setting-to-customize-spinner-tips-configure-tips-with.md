@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 150a780a477952fddd72d86ba0beee7f5a86f3d494050d73e3e9d26970d751fc
+machine_hash: 1df4e7f2f812f2627c4e338f5ca83b64d1e79a4eb9c6fa9aab9631dc72b9fe7d
 product: claude-code
 product_name: Claude Code
 record:
@@ -87,7 +87,7 @@ type: change
 ## Nearby in Interface Experience
 
 - Earlier: 2026-02-13 · Claude Code · [[Changes/Claude Code/2026-02-13-improved-narrow-terminal-layout-for-prompt-footer|Improved narrow terminal layout for prompt footer]]
-- Later: 2026-02-17 · Cursor · [[Changes/Cursor/2026-02-17-3-interface-experience-changes-in-2-5|3 Interface Experience changes in 2.5]]
+- Later: 2026-02-17 · Codex CLI · [[Changes/Codex CLI/2026-02-17-3-interface-experience-changes-in-rust-v0-102-0|3 Interface Experience changes in rust-v0.102.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

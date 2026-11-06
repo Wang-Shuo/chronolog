@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 0efc66bcef06410c93e9c9ff6bf2bf6e345efe404b49864854d0c7ca54a2acef
+machine_hash: 61e7ef3fd24f8677467d3e71b069ad965435e87308a8870b5ce482757dbffc84
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -63,12 +63,10 @@ record:
   title: Connect multiple accounts to plugins in ChatGPT
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-11-changed-skills-synced-from-claude-ai-in-cloud-sessions-to-be-named-anthropic-ski|Changed
-  skills synced from claude.ai in cloud sessions to be named…]]'
-- '[[Changes/Claude Code/2026-09-14-improved-mobile-to-show-a-single-qr-code-for-claude-ai-mobile-which-opens-the-ri|Improved
-  /mobile to show a single QR code for claude.ai/mobile, which opens…]]'
-- '[[Changes/Claude Code/2026-09-15-claude-code-on-the-web-removed-the-full-page-desktop-app-download-screen-that-ne|Claude
-  Code on the web Removed the full-page desktop-app download screen that new…]]'
+- '[[Changes/Windsurf/2026-09-15-devin-desktop|Devin Desktop]]'
+- '[[Changes/GitHub Copilot CLI/2026-09-16-4-mobile-and-desktop-changes-in-v1-0-85|4
+  Mobile and Desktop changes in v1.0.85]]'
+- '[[Changes/Windsurf/2026-09-16-devin-desktop|Devin Desktop]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-09-17-connect-multiple-accounts-to-plugins-in-chatgpt-4c1d9bb4|chatgpt-2026-09-17-connect-multiple-accounts-to-plugins-in-chatgpt-4c1d9bb4]]'
 source_type: chatgpt_changelog
 theme: mobile-desktop
@@ -95,7 +93,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2026-09-15 · Claude Code · [[Changes/Claude Code/2026-09-15-claude-code-on-the-web-removed-the-full-page-desktop-app-download-screen-that-ne|Claude Code on the web Removed the full-page desktop-app download screen that new…]]
+- Earlier: 2026-09-16 · Windsurf · [[Changes/Windsurf/2026-09-16-devin-desktop|Devin Desktop]]
 - Later: 2026-09-17 · Claude Code · [[Changes/Claude Code/2026-09-17-added-enduser-sub-the-idp-subject-to-the-telemetry-claude-desktop-and-cowork-sen|Added enduser.sub, the IdP subject, to the telemetry Claude Desktop and Cowork…]]
 <!-- chronolog:end -->
 

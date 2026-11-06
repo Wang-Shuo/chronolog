@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 023ad2486c28cc538fe67712e858bc5c6b9eb1677720ad3baaa369b8086e6b6e
+machine_hash: 125655fe88bc89502c2a4d1f0010dd26e027f82dd1e1c7f8d3ee991508031e4d
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -50,10 +50,10 @@ record:
   title: Improved Mobile Web Experience
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2023-06-22-we-ve-made-two-updates-to-the-mobile-chatgpt-app|ChatGPT
-  makes two updates to the mobile ChatGPT app]]'
-- '[[Changes/ChatGPT/2023-07-25-chatgpt-for-android-is-now-available-for-download-in-the-united-states-india-ban-6b21e9|Introducing
-  the ChatGPT app for Android]]'
+- '[[Changes/Aider/2024-09-04-only-print-the-pip-command-when-self-updating-on-windows-without-running-it|Only
+  print the pip command when self updating on Windows, without running it]]'
+- '[[Changes/Aider/2024-09-21-on-windows-run-correctly-uses-powershell-or-cmd-exe|On
+  Windows, /run correctly uses PowerShell or cmd.exe]]'
 - '[[Changes/ChatGPT/2024-11-19-starting-today-we-re-beginning-to-roll-out-advanced-voice-mode-on-web-already-av-3d4db6|Advanced
   Voice for ChatGPT Web]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2024-11-22-updates-to-the-chatgpt-web-experience-bf046a2c|chatgpt-2024-11-22-updates-to-the-chatgpt-web-experience-bf046a2c]]'
@@ -95,7 +95,7 @@ type: change
 ## Nearby in Mobile and Desktop
 
 - Earlier: 2024-11-19 · ChatGPT · [[Changes/ChatGPT/2024-11-19-starting-today-we-re-beginning-to-roll-out-advanced-voice-mode-on-web-already-av-3d4db6|Advanced Voice for ChatGPT Web]]
-- Later: 2025-01-17 · ChatGPT · [[Changes/ChatGPT/2025-01-17-we-ve-updated-custom-instructions-to-make-it-easier-to-customize-how-chatgpt-res-e42760|More personalization in Custom Instructions]]
+- Later: 2024-12-12 · OpenHands · [[Changes/OpenHands/2024-12-12-make-layout-responsive-for-mobile-devices-by-tofarr-in-https-github-com-all-hand|Make layout responsive for mobile devices]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

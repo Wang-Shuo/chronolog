@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: f7298abb1774ff4a92e2efcb251c06d18e9f61328481aef6e7fc444a2e754db2
+machine_hash: b69c59a4df48af4a5cf2297e77ce4f51d95320738f6e9cd5718c66651ba3da08
 product: claude-code
 product_name: Claude Code
 record:
@@ -43,12 +43,12 @@ record:
   title: Changed plan mode to hide the "clear context" option by default…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-03-05-3-context-window-changes-in-v2-1-69|3 Context
-  Window changes in v2.1.69]]'
-- '[[Changes/Claude Code/2026-03-11-improved-the-remote-control-spawn-mode-selection-prompt-with-better-context|Improved
-  the Remote Control spawn mode selection prompt with better context]]'
-- '[[Changes/Claude Code/2026-03-14-added-postcompact-hook-that-fires-after-compaction-completes|Added
-  PostCompact hook that fires after compaction completes]]'
+- '[[Changes/GitHub Copilot CLI/2026-03-17-add-subagentstart-hook-that-fires-when-a-subagent-is-spawned-with-support-for-in|Add
+  subagentStart hook that fires when a subagent is spawned, with support…]]'
+- '[[Changes/Cline/2026-03-19-respect-user-configured-context-window-in-litellm-getmodel|Respect
+  user-configured context window in LiteLLM getModel()]]'
+- '[[Changes/Codex CLI/2026-03-19-14829-stack-3-4-add-current-thread-context-to-realtime-startup-aibrahim-oai|♯14829
+  stack 3/4 Add current thread context to realtime startup @aibrahim-oai]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-03-20-v2-1-81-github-299621655-10d2d4fe|claude-code-2026-03-20-v2-1-81-github-299621655-10d2d4fe]]'
 source_type: github_releases
 theme: context-window
@@ -80,8 +80,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Context Window
 
-- Earlier: 2026-03-14 · Claude Code · [[Changes/Claude Code/2026-03-14-added-postcompact-hook-that-fires-after-compaction-completes|Added PostCompact hook that fires after compaction completes]]
-- Later: 2026-03-25 · ChatGPT · [[Changes/ChatGPT/2026-03-25-starting-today-for-chatgpt-plus-pro-and-business-users-long-pastes-are-handled-d|Large pastes are now handled as attachments]]
+- Earlier: 2026-03-19 · Codex CLI · [[Changes/Codex CLI/2026-03-19-14829-stack-3-4-add-current-thread-context-to-realtime-startup-aibrahim-oai|♯14829 stack 3/4 Add current thread context to realtime startup @aibrahim-oai]]
+- Later: 2026-03-24 · Gemini CLI · [[Changes/Gemini CLI/2026-03-24-2-context-window-changes-in-v0-35-0|2 Context Window changes in v0.35.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

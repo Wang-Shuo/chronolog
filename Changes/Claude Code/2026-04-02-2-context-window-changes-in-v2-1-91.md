@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 0b1d9a63b4f6a1b0fd09d7f443d8af5d525353ab50018215a1640d3e9ed0423b
+machine_hash: 9abd87338ec6d47db685d8b106fb104c3a0556ad7f90b71bbda94b805fb58d25
 product: claude-code
 product_name: Claude Code
 record:
@@ -43,12 +43,12 @@ record:
   title: 2 Context Window changes in v2.1.91
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-03-26-2-context-window-changes-in-v2-1-84|2 Context
-  Window changes in v2.1.84]]'
-- '[[Changes/Claude Code/2026-03-27-3-context-window-changes-in-v2-1-86|3 Context
-  Window changes in v2.1.86]]'
+- '[[Changes/Codex CLI/2026-03-31-16286-auth-generalize-external-auth-tokens-for-bearer-only-sources-bolinfest|♯16286
+  auth: generalize external auth tokens for bearer-only sources @bolinfest]]'
 - '[[Changes/Claude Code/2026-04-01-changed-hook-output-over-50k-characters-to-be-saved-to-disk-with-a-file-path-pre|Changed
   hook output over 50K characters to be saved to disk with a file path…]]'
+- '[[Changes/Gemini CLI/2026-04-01-feat-core-cap-jit-context-upward-traversal-at-git-root-by-sandytao520-in-https-g|feat(core):
+  cap JIT context upward traversal at git root]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-04-02-v2-1-91-github-304899951-a56266fc|claude-code-2026-04-02-v2-1-91-github-304899951-a56266fc]]'
 source_type: github_releases
 theme: context-window
@@ -84,7 +84,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.91
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Context Window
 
-- Earlier: 2026-04-01 · Claude Code · [[Changes/Claude Code/2026-04-01-changed-hook-output-over-50k-characters-to-be-saved-to-disk-with-a-file-path-pre|Changed hook output over 50K characters to be saved to disk with a file path…]]
+- Earlier: 2026-04-01 · Gemini CLI · [[Changes/Gemini CLI/2026-04-01-feat-core-cap-jit-context-upward-traversal-at-git-root-by-sandytao520-in-https-g|feat(core): cap JIT context upward traversal at git root]]
 - Later: 2026-04-04 · Claude Code · [[Changes/Claude Code/2026-04-04-pro-users-now-see-a-footer-hint-when-returning-to-a-session-after-the-prompt-cac|Pro users now see a footer hint when returning to a session after the prompt cache…]]
 <!-- chronolog:end -->
 

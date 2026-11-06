@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 999fe3d8cdac92bedece35104dc28531b64f2c2ed01d2a8cfae1bdcea318a33f
+machine_hash: 89d25f8afe1bc9cac045419da4b1b9c8a30d388c75cdc93dd3f440f205770d2e
 product: claude-code
 product_name: Claude Code
 record:
@@ -77,12 +77,12 @@ record:
   title: 10 Editor Experience changes in v2.1.275
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-11-3-editor-experience-changes-in-v2-1-269|3 Editor
-  Experience changes in v2.1.269]]'
 - '[[Changes/Claude Code/2026-09-14-3-editor-experience-changes-in-v2-1-271|3 Editor
   Experience changes in v2.1.271]]'
 - '[[Changes/Claude Code/2026-09-15-claude-code-on-the-web-added-a-discard-unsaved-changes-confirmation-before-the-n|Claude
   Code on the web Added a "Discard unsaved changes?" confirmation before…]]'
+- '[[Changes/GitHub Copilot CLI/2026-09-16-9-editor-experience-changes-in-v1-0-85|9
+  Editor Experience changes in v1.0.85]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-17-v2-1-275-github-391032307-12ccfafd|claude-code-2026-09-17-v2-1-275-github-391032307-12ccfafd]]'
 source_type: github_releases
 theme: editor-experience
@@ -142,7 +142,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.275
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2026-09-15 · Claude Code · [[Changes/Claude Code/2026-09-15-claude-code-on-the-web-added-a-discard-unsaved-changes-confirmation-before-the-n|Claude Code on the web Added a "Discard unsaved changes?" confirmation before…]]
+- Earlier: 2026-09-16 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-09-16-9-editor-experience-changes-in-v1-0-85|9 Editor Experience changes in v1.0.85]]
 - Later: 2026-09-17 · Claude Code · [[Changes/Claude Code/2026-09-17-vscode-added-a-claudecode-lockeditorgroups-setting-to-stop-claude-from-locking-t|VSCode Added a claudeCode.lockEditorGroups setting to stop Claude from locking…]]
 <!-- chronolog:end -->
 

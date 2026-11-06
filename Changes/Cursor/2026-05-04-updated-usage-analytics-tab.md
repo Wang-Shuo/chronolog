@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 5ec9dfec3333fe3a041e7bd4b45af8675eb4f73a7e682e0bf1acdd1916e0492e
+machine_hash: 9d9fb56cd4f7bae4f74463aed4d628ef0cc498aaab56d0efb5b4da2689088b5f
 product: cursor
 product_name: Cursor
 record:
@@ -43,10 +43,10 @@ record:
   title: Updated usage analytics tab
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-04-23-config-settings-theme-editor-mode-verbose-etc-now-persist-to-claude-settings-jso|/config
-  settings (theme, editor mode, verbose, etc.) now persist…]]'
-- '[[Changes/Claude Code/2026-04-23-merged-cost-and-stats-into-usage-both-remain-as-typing-shortcuts-that-open-the-r|Merged
-  /cost and /stats into /usage]]'
+- '[[Changes/GitHub Copilot CLI/2026-04-27-add-copilot-completion-bash-zsh-fish-subcommand-to-generate-static-shell-complet|Add
+  copilot completion bash / zsh / fish subcommand to generate static shell…]]'
+- '[[Changes/Codex CLI/2026-04-30-20045-fix-plan-mode-nudge-test-after-task-completion-signature-change-canvrno-oa|♯20045
+  Fix plan mode nudge test after task completion signature change @canvrno-oai]]'
 - '[[Changes/Claude Code/2026-05-01-powershell-tool-bare-e-g-git-diff-file-is-no-longer-mis-flagged-as-the-stop-pars|PowerShell
   tool: bare -- (e.g. git diff -- file) is no longer mis-flagged…]]'
 source_release: '[[Releases/Cursor/cursor-2026-05-04-model-controls-spend-management-and-usage-analytics-https-cursor-1ab41047|cursor-2026-05-04-model-controls-spend-management-and-usage-analytics-https-cursor-1ab41047]]'
@@ -80,7 +80,7 @@ type: change
 ## Nearby in Editor Experience
 
 - Earlier: 2026-05-01 · Claude Code · [[Changes/Claude Code/2026-05-01-powershell-tool-bare-e-g-git-diff-file-is-no-longer-mis-flagged-as-the-stop-pars|PowerShell tool: bare -- (e.g. git diff -- file) is no longer mis-flagged…]]
-- Later: 2026-05-07 · Cursor · [[Changes/Cursor/2026-05-07-improved-prompt-input-undo-grouping-so-undo-redo-feels-more-natural-during-edits|Improved prompt input undo grouping, so undo/redo feels more natural during edits]]
+- Later: 2026-05-05 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-05-05-4-editor-experience-changes-in-v1-0-41|4 Editor Experience changes in v1.0.41]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 06615e221369437e00bf34f601db4767fc3c5297b31ccb303b4e905c4e36aadb
+machine_hash: 8ba318a8c4a61662dd00d1637115a27ea49a5573999695104e6648396fd321ce
 product: cursor
 product_name: Cursor
 record:
@@ -45,12 +45,12 @@ record:
   title: Automatic code review with Bugbot
   type: change
 related_changes:
-- '[[Changes/Cursor/2024-12-17-agent-sees-terminal-exit-codes-can-run-commands-in-the-background-and-commands-a-4f6044|Agent
-  sees terminal exit codes, can run commands in the background, and commands…]]'
-- '[[Changes/Cursor/2025-01-23-update-0-45-12-13-update-infrastructure-improvements-the-f1-check-for-updates-co|UPDATE
-  (0.45.12-13): Update infrastructure improvements]]'
-- '[[Changes/Cursor/2025-04-15-improved-agent-terminal-control|Improved agent terminal
-  control]]'
+- '[[Changes/Aider/2025-05-09-5-developer-workflow-changes-in-v0-83-0|5 Developer
+  Workflow changes in v0.83.0]]'
+- '[[Changes/Cline/2025-05-10-add-ability-to-generate-commit-message-via-cline-thanks-zapp88|Add
+  ability to generate commit message via cline (Thanks zapp88!)]]'
+- '[[Changes/OpenHands/2025-06-01-added-a-dev-container-setup-for-development-by-kentyman23-in-https-github-com-al|Added
+  a dev container setup for development]]'
 source_release: '[[Releases/Cursor/cursor-2025-06-04-1-0-https-cursor-com-changelog-1-0-237767ca|cursor-2025-06-04-1-0-https-cursor-com-changelog-1-0-237767ca]]'
 source_type: cursor_changelog
 theme: developer-workflow
@@ -94,8 +94,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2025-04-15 · Cursor · [[Changes/Cursor/2025-04-15-improved-agent-terminal-control|Improved agent terminal control]]
-- Later: 2025-07-29 · Cursor · [[Changes/Cursor/2025-07-29-2-developer-workflow-changes-in-1-3|2 Developer Workflow changes in 1.3]]
+- Earlier: 2025-06-01 · OpenHands · [[Changes/OpenHands/2025-06-01-added-a-dev-container-setup-for-development-by-kentyman23-in-https-github-com-al|Added a dev container setup for development]]
+- Later: 2025-06-05 · Cline · [[Changes/Cline/2025-06-05-add-setting-to-disable-aggressive-terminal-reuse-to-help-users-experiencing-task|Add setting to disable aggressive terminal reuse to help users experiencing task…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 8cf15e9d70efaa19505c59913fb3722ebcc92f3be7ff01ab8f9bb449695cc883
+machine_hash: cb7441e51ab5dd94af82a4d2bec43c406ed7ee5c97fffe1ec8b35d516173c6d1
 product: claude-code
 product_name: Claude Code
 record:
@@ -44,12 +44,12 @@ record:
   title: '`/diff` detail view can now be scrolled with the keyboard…'
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-05-13-improved-pr-tabs-by-adding-clearer-review-states-better-reviewer-thread-visibili|Improved
-  PR tabs by adding clearer review states, better reviewer/thread visibility…]]'
-- '[[Changes/Claude Code/2026-05-15-bg-and-detach-now-preserve-allow-dangerously-skip-permissions-so-the-forked-work|/bg
-  and ←-detach now preserve --allow-dangerously-skip-permissions…]]'
-- '[[Changes/Claude Code/2026-05-19-fewer-spurious-tool-errors-during-search-head-tail-file-views-now-satisfy-the-re|Fewer
-  spurious tool errors during search]]'
+- '[[Changes/GitHub Copilot CLI/2026-05-19-file-diffs-are-correctly-reported-to-acp-clients-for-all-edit-tool-types|File
+  diffs are correctly reported to ACP clients for all edit tool types]]'
+- '[[Changes/Codex CLI/2026-05-20-3-editor-experience-changes-in-rust-v0-132-0|3 Editor
+  Experience changes in rust-v0.132.0]]'
+- '[[Changes/GitHub Copilot CLI/2026-05-20-2-editor-experience-changes-in-v1-0-51|2
+  Editor Experience changes in v1.0.51]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-05-22-v2-1-149-github-328077450-086ee33f|claude-code-2026-05-22-v2-1-149-github-328077450-086ee33f]]'
 source_type: github_releases
 theme: editor-experience
@@ -81,8 +81,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2026-05-19 · Claude Code · [[Changes/Claude Code/2026-05-19-fewer-spurious-tool-errors-during-search-head-tail-file-views-now-satisfy-the-re|Fewer spurious tool errors during search]]
-- Later: 2026-05-28 · Claude Code · [[Changes/Claude Code/2026-05-28-remote-control-autocomplete-now-shows-disconnect-remote-control-when-remote-cont|/remote-control autocomplete now shows "Disconnect Remote Control" when Remote…]]
+- Earlier: 2026-05-20 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-05-20-2-editor-experience-changes-in-v1-0-51|2 Editor Experience changes in v1.0.51]]
+- Later: 2026-05-22 · Gemini CLI · [[Changes/Gemini CLI/2026-05-22-ci-implement-codebase-aware-effort-level-triage-by-cocosheng-g-in-https-github-c|ci: implement codebase-aware effort level triage]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

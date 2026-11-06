@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: 8915329cda39ff16b4c85f654f56e0a8f0c786cc2069549b8c43b35206db5c34
+machine_hash: e6386a80caf9f47e85f45d095206493e133126104d8153373f7609e82a086e29
 product: claude-code
 product_name: Claude Code
 record:
@@ -54,10 +54,10 @@ record:
   title: Changed `/review <pr>` back to a fast single-pass review
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-06-29-2-developer-workflow-changes-in-v2-1-196|2 Developer
-  Workflow changes in v2.1.196]]'
 - '[[Changes/Claude Code/2026-07-01-background-agents-launched-from-claude-agents-now-commit-push-and-open-a-draft-p|Background
   agents launched from claude agents now commit, push, and open a draft…]]'
+- '[[Changes/GitHub Copilot CLI/2026-07-01-6-developer-workflow-changes-in-v1-0-68|6
+  Developer Workflow changes in v1.0.68]]'
 - '[[Changes/Claude Code/2026-07-02-claude-agents-session-rows-now-show-pull-request-links-as-bare-n-without-the-red|claude
   agents session rows now show pull-request links as bare ♯N without…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-07-06-v2-1-202-github-349856235-58e6d3e8|claude-code-2026-07-06-v2-1-202-github-349856235-58e6d3e8]]'
@@ -91,7 +91,7 @@ type: change
 ## Nearby in Developer Workflow
 
 - Earlier: 2026-07-02 · Claude Code · [[Changes/Claude Code/2026-07-02-claude-agents-session-rows-now-show-pull-request-links-as-bare-n-without-the-red|claude agents session rows now show pull-request links as bare ♯N without…]]
-- Later: 2026-07-07 · Claude Code · [[Changes/Claude Code/2026-07-07-removed-the-startup-claude-command-missing-or-broken-warnings-they-now-appear-in|Removed the startup "claude command missing or broken" warnings]]
+- Later: 2026-07-06 · OpenHands · [[Changes/OpenHands/2026-07-06-feat-add-full-git-history-user-setting-by-malhotra5-in-https-github-com-openhand|feat: Add full Git history user setting]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

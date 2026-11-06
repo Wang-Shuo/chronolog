@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: 9aac9614f7c7a0010765eaf9d0ae701c2269f0a171f3f558d702d31aa2a7731c
+machine_hash: ac2307f1881364d59894b057ba31e47287c4d88d77de2d101d41f67d04484aac
 product: cursor
 product_name: Cursor
 record:
@@ -64,12 +64,12 @@ record:
   title: Agent sees terminal exit codes, can run commands in the background, and commands…
   type: change
 related_changes:
-- '[[Changes/Cursor/2024-09-17-we-ve-added-support-for-using-cursor-on-macs-over-remote-ssh|Cursor
-  adds support for using Cursor on Macs over Remote SSH]]'
-- '[[Changes/Cursor/2024-10-09-we-have-made-slight-improvements-to-debug-with-ai-and-added-back-lint-errors-in|We
-  have made slight improvements to Debug with AI and added back @Lint Errors in Chat]]'
-- '[[Changes/Cursor/2024-10-09-using-cursor-with-wsl-should-now-be-more-stable|Using
-  cursor . with WSL should now be more stable]]'
+- '[[Changes/Aider/2024-12-10-2-developer-workflow-changes-in-v0-68-0|2 Developer
+  Workflow changes in v0.68.0]]'
+- '[[Changes/OpenHands/2024-12-12-request-code-review-from-the-person-who-initiated-the-resolver-by-openhands-agen|Request
+  code review from the person who initiated the resolver]]'
+- '[[Changes/Aider/2024-12-13-new-multiline-flag-and-multiline-mode-command-https-aider-chat-docs-usage-comman|New
+  --multiline flag and /multiline-mode…]]'
 source_release: '[[Releases/Cursor/cursor-2024-12-17-0-44-x-https-cursor-com-changelog-0-44-x-b137ff8e|cursor-2024-12-17-0-44-x-https-cursor-com-changelog-0-44-x-b137ff8e]]'
 source_type: cursor_changelog
 theme: developer-workflow
@@ -111,8 +111,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2024-10-09 · Cursor · [[Changes/Cursor/2024-10-09-using-cursor-with-wsl-should-now-be-more-stable|Using cursor . with WSL should now be more stable]]
-- Later: 2025-01-23 · Cursor · [[Changes/Cursor/2025-01-23-update-0-45-12-13-update-infrastructure-improvements-the-f1-check-for-updates-co|UPDATE (0.45.12-13): Update infrastructure improvements]]
+- Earlier: 2024-12-13 · Aider · [[Changes/Aider/2024-12-13-new-multiline-flag-and-multiline-mode-command-https-aider-chat-docs-usage-comman|New --multiline flag and /multiline-mode…]]
+- Later: 2024-12-17 · OpenHands · [[Changes/OpenHands/2024-12-17-add-color-to-the-line-next-to-ran-a-command-based-on-return-value-by-openhands-a|Add color to the line next to Ran a Command based on return value]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

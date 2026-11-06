@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: 6f5ac4f8148e6d3d16a1135df54d0ba6669b93ea17987c3859ab4dc127b11f66
+machine_hash: 461101a3945e91088e1341deef559d5c7ae65dfab6aeb9ae8814ff49b1072266
 product: cursor
 product_name: Cursor
 record:
@@ -49,12 +49,12 @@ record:
   title: A full review surface
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-07-22-auto-mode-is-now-powered-by-cursor-router|Auto mode
-  is now powered by Cursor Router]]'
-- '[[Changes/Claude Code/2026-07-24-4-agent-mode-changes-in-v2-1-219|4 Agent Mode
-  changes in v2.1.219]]'
 - '[[Changes/Cursor/2026-07-28-always-on-cloud-agents-that-build-test-and-ship-code-while-you-keep-working-725c7c|Always-on
   cloud agents that build, test, and ship code while you keep working]]'
+- '[[Changes/OpenHands/2026-07-28-this-release-migration-was-performed-by-an-ai-agent-openhands-on-behalf-of-the-u|This
+  release migration was performed by an AI agent (OpenHands) on behalf of the user]]'
+- '[[Changes/Codex CLI/2026-07-29-11-agent-mode-changes-in-rust-v0-146-0|11 Agent
+  Mode changes in rust-v0.146.0]]'
 source_release: '[[Releases/Cursor/cursor-2026-07-29-cursor-now-on-ipad-https-cursor-com-changelog-ipad-d2eeee4c|cursor-2026-07-29-cursor-now-on-ipad-https-cursor-com-changelog-ipad-d2eeee4c]]'
 source_type: cursor_changelog
 theme: agent-mode
@@ -87,8 +87,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2026-07-28 · Cursor · [[Changes/Cursor/2026-07-28-always-on-cloud-agents-that-build-test-and-ship-code-while-you-keep-working-725c7c|Always-on cloud agents that build, test, and ship code while you keep working]]
-- Later: 2026-08-06 · Claude Code · [[Changes/Claude Code/2026-08-06-2-agent-mode-changes-in-v2-1-223|2 Agent Mode changes in v2.1.223]]
+- Earlier: 2026-07-29 · Codex CLI · [[Changes/Codex CLI/2026-07-29-11-agent-mode-changes-in-rust-v0-146-0|11 Agent Mode changes in rust-v0.146.0]]
+- Later: 2026-07-29 · OpenHands · [[Changes/OpenHands/2026-07-29-feat-always-show-the-llm-selector-move-agent-profile-switching-to-the-tools-menu|feat: always show the LLM selector; move agent-profile switching to the tools menu]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

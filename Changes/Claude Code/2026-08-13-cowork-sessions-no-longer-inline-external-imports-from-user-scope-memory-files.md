@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: memory
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 7f388d39a343c8edf4f9769fe4bee2b83c7fac9cf0ba0dd06c77e4ce702e1c1f
+machine_hash: f759edf8e5d7eca1a6e886cd914af35de951c725063cb9cf46e510edb9669b73
 product: claude-code
 product_name: Claude Code
 record:
@@ -43,12 +43,12 @@ record:
     files
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-07-15-we-re-increasing-the-character-limit-for-custom-instructions-in-chatgpt-plus-pro|Increased
-  custom instructions limit]]'
-- '[[Changes/Claude Code/2026-07-15-improved-the-memory-index-over-limit-warning-to-measure-only-loaded-content-excl|Improved
-  the memory index over-limit warning to measure only loaded content…]]'
-- '[[Changes/Claude Code/2026-07-18-added-an-iso-modified-timestamp-to-memory-file-frontmatter|Added
-  an ISO modified timestamp to memory file frontmatter]]'
+- '[[Changes/GitHub Copilot CLI/2026-07-30-a-userpromptsubmitted-hook-returning-a-non-string-value-for-modifiedprompt-modif|A
+  userPromptSubmitted hook returning a non-string value for modifiedPrompt…]]'
+- '[[Changes/Cline/2026-07-31-remove-vestigial-mcp-server-key-machinery-from-mcphub-native-mcp-tool-calls-now|Remove
+  vestigial MCP server-key machinery from McpHub]]'
+- '[[Changes/Codex CLI/2026-08-07-36140-wait-for-memory-consolidation-shutdown-before-finishing-jobs-copyberry|♯36140
+  Wait for memory consolidation shutdown before finishing jobs @copyberry]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-08-13-v2-1-232-github-370225682-71e478db|claude-code-2026-08-13-v2-1-232-github-370225682-71e478db]]'
 source_type: github_releases
 theme: memory
@@ -90,7 +90,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Memory and Personalization
 
-- Earlier: 2026-07-18 · Claude Code · [[Changes/Claude Code/2026-07-18-added-an-iso-modified-timestamp-to-memory-file-frontmatter|Added an ISO modified timestamp to memory file frontmatter]]
+- Earlier: 2026-08-07 · Codex CLI · [[Changes/Codex CLI/2026-08-07-36140-wait-for-memory-consolidation-shutdown-before-finishing-jobs-copyberry|♯36140 Wait for memory consolidation shutdown before finishing jobs @copyberry]]
 - Later: 2026-08-14 · ChatGPT · [[Changes/ChatGPT/2026-08-14-we-ve-made-it-easier-to-study-with-interactive-quizzes-manage-project-memory-and|ChatGPT makes it easier to study with interactive quizzes, manage project memory…]]
 <!-- chronolog:end -->
 

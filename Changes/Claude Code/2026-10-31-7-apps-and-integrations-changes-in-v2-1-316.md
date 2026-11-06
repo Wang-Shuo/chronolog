@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 613b1cd837caeeb20d8613c0e473795afb355f2a90be5ef911dd4252f20790d5
+machine_hash: 5448442c8dd9f4cb83bc5ed040bcab3bfc2d44fa4743d26155cfb7de9ca81ee3
 product: claude-code
 product_name: Claude Code
 record:
@@ -67,10 +67,10 @@ record:
   title: 7 Apps and Integrations changes in v2.1.316
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-26-3-apps-and-integrations-changes-in-v2-1-311|3
-  Apps and Integrations changes in v2.1.311]]'
-- '[[Changes/Claude Code/2026-10-27-2-apps-and-integrations-changes-in-v2-1-312|2
-  Apps and Integrations changes in v2.1.312]]'
+- '[[Changes/OpenHands/2026-10-27-refactor-extensions-name-dialog-viewport-limits-by-enyst-in-https-github-com-ope|refactor(extensions):
+  name dialog viewport limits]]'
+- '[[Changes/Codex CLI/2026-10-29-22-apps-and-integrations-changes-in-rust-v0-166-0|22
+  Apps and Integrations changes in rust-v0.166.0]]'
 - '[[Changes/Claude Code/2026-10-30-3-apps-and-integrations-changes-in-v2-1-314|3
   Apps and Integrations changes in v2.1.314]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-10-31-v2-1-316-github-429617179-a30f32c9|claude-code-2026-10-31-v2-1-316-github-429617179-a30f32c9]]'
@@ -123,6 +123,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.316
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-10-30 · Claude Code · [[Changes/Claude Code/2026-10-30-3-apps-and-integrations-changes-in-v2-1-314|3 Apps and Integrations changes in v2.1.314]]
+- Later: 2026-11-03 · OpenHands · [[Changes/OpenHands/2026-11-03-3-apps-and-integrations-changes-in-v1-35-0|3 Apps and Integrations changes in v1.35.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

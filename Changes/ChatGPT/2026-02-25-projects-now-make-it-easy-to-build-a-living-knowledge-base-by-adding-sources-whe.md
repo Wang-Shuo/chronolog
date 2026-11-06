@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 44231b3536ca3e4fcf3c468ffd4654f064aa54afd88383a4eefe6b0382776038
+machine_hash: e9a3383fb51fc81df486e043c6545917b4636306debe0ee60f928035e046d2f7
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -82,7 +82,7 @@ type: change
 ## Nearby in Context Window
 
 - Earlier: 2026-02-24 · Claude Code · [[Changes/Claude Code/2026-02-24-tool-results-larger-than-50k-characters-are-now-persisted-to-disk-previously-100|Tool results larger than 50K characters are now persisted to disk (previously 100K)]]
-- Later: 2026-03-03 · Cursor · [[Changes/Cursor/2026-03-03-2-context-window-changes-in-2-6|2 Context Window changes in 2.6]]
+- Later: 2026-02-25 · Codex CLI · [[Changes/Codex CLI/2026-02-25-5-context-window-changes-in-rust-v0-105-0|5 Context Window changes in rust-v0.105.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: 576845b9e625683f2860160832c94e193107e4a9460ac16bb684d4a925c68eff
+machine_hash: 0a549934c350ff3b7ba14b2c0b082a172c929a8c54da6e94ebb3a1b22acc4694
 product: cursor
 product_name: Cursor
 record:
@@ -45,11 +45,12 @@ record:
   title: New agent command is now the primary CLI entrypoint. cursor-agent remains…
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-12-18-service-accounts|Service accounts]]'
-- '[[Changes/Cursor/2025-12-22-2-agent-mode-changes-in-2-3|2 Agent Mode changes in
-  2.3]]'
-- '[[Changes/Cursor/2025-12-22-this-includes-the-core-agent-layout-controls-viewing-code-diffs-and-more-we-will|This
-  includes the core agent, layout controls, viewing code diffs, and more]]'
+- '[[Changes/GitHub Copilot CLI/2026-01-02-built-in-subagents-for-exploring-and-managing-tasks|Built-in
+  subagents for exploring and managing tasks]]'
+- '[[Changes/Codex CLI/2026-01-07-4-agent-mode-changes-in-rust-v0-79-0|4 Agent Mode
+  changes in rust-v0.79.0]]'
+- '[[Changes/Gemini CLI/2026-01-07-3-agent-mode-changes-in-v0-23-0|3 Agent Mode changes
+  in v0.23.0]]'
 source_release: '[[Releases/Cursor/cursor-2026-01-08-new-cli-features-and-improved-cli-performance-https-cursor-com-c-8afb8542|cursor-2026-01-08-new-cli-features-and-improved-cli-performance-https-cursor-com-c-8afb8542]]'
 source_type: cursor_changelog
 theme: agent-mode
@@ -89,8 +90,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2025-12-22 · Cursor · [[Changes/Cursor/2025-12-22-this-includes-the-core-agent-layout-controls-viewing-code-diffs-and-more-we-will|This includes the core agent, layout controls, viewing code diffs, and more]]
-- Later: 2026-01-09 · Claude Code · [[Changes/Claude Code/2026-01-09-added-agent-type-to-sessionstart-hook-input-populated-if-agent-is-specified|Added agent_type to SessionStart hook input, populated if --agent is specified]]
+- Earlier: 2026-01-07 · Gemini CLI · [[Changes/Gemini CLI/2026-01-07-3-agent-mode-changes-in-v0-23-0|3 Agent Mode changes in v0.23.0]]
+- Later: 2026-01-08 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-01-08-task-tool-subagents-can-now-process-images|Task tool subagents can now process images]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

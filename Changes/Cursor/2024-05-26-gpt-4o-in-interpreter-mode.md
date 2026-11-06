@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: c849de75a5941e4d60e5583c7a92daa6a78135d2e81bda0a93a4300a17f835c7
+machine_hash: fd3e56cb9911fe45cfaac51dc7f99a5ccb2eb37f067f315b20c168a0a8599002
 product: cursor
 product_name: Cursor
 record:
@@ -42,10 +42,10 @@ record:
   title: GPT-4o in Interpreter Mode
   type: change
 related_changes:
-- '[[Changes/Cursor/2024-04-12-new-gpt-4-model-as-of-a-couple-of-days-ago-you-can-try-out-gpt-4-turbo-2024-04-0|New
-  GPT-4 model: As of a couple of days ago, you can try out gpt-4-turbo-2024-04-09…]]'
 - '[[Changes/ChatGPT/2024-05-13-gpt-4o-is-our-newest-flagship-model-that-provides-gpt-4-level-intelligence-that-297427|Introducing
   GPT-4o]]'
+- '[[Changes/Aider/2024-05-22-aider-automatically-lints-and-fixes-after-every-llm-edit|Aider
+  automatically lints and fixes after every LLM edit]]'
 - '[[Changes/Cursor/2024-05-26-gemini-1-5-flash-is-available-in-long-context-mode|Gemini
   1.5 Flash is available in long-context mode]]'
 source_release: '[[Releases/Cursor/cursor-2024-05-26-0-34-x-https-cursor-com-changelog-0-34-x-a468f0bc|cursor-2024-05-26-0-34-x-https-cursor-com-changelog-0-34-x-a468f0bc]]'
@@ -78,8 +78,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2024-05-13 · ChatGPT · [[Changes/ChatGPT/2024-05-13-gpt-4o-is-our-newest-flagship-model-that-provides-gpt-4-level-intelligence-that-297427|Introducing GPT-4o]]
-- Later: 2024-06-08 · Cursor · [[Changes/Cursor/2024-06-08-update-0-35-1-disables-copilot-partial-accepts-by-default-and-makes-the-keybindi|UPDATE (0.35.1): Disables Copilot++ partial accepts by default and makes…]]
+- Earlier: 2024-05-22 · Aider · [[Changes/Aider/2024-05-22-aider-automatically-lints-and-fixes-after-every-llm-edit|Aider automatically lints and fixes after every LLM edit]]
+- Later: 2024-06-04 · Aider · [[Changes/Aider/2024-06-04-improved-prompts-when-no-files-have-been-added-to-chat-to-solicit-llm-file-sugge|Improved prompts when no files have been added to chat to solicit LLM file suggestions]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

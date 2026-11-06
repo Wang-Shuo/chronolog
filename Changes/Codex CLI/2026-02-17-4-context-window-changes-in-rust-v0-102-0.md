@@ -1,0 +1,116 @@
+---
+card_id: codex-cli-2026-02-17-a308a5
+date: '2026-02-17'
+description: 'Codex CLI · 2026-02-17 · Context Window: 4 changes in 0.102.0 — Introduced
+  structured network approval handling, with richer host/protocol context shown…'
+diffusion:
+  first_in_tracked: '[[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2
+    Context Window changes in 0.2.9]]'
+  inference: No adoption, equivalence, or causation claim.
+  lag_days: 1020
+  relation: same-theme-chronology
+  role: later-observed
+  scope: tracked-products-only
+  theme: context-window
+  tracked_products_count: 10
+evolves_from: []
+extractor_version: fallback-v5
+impact: incremental
+kind: digest
+machine_hash: a4742136b1748bad4c744fa566c5a135128929261ffbe98d2bf571fc6261f4a3
+product: codex-cli
+product_name: Codex CLI
+record:
+  card_id: codex-cli-2026-02-17-a308a5
+  comparison: ''
+  date: '2026-02-17'
+  description: 'Codex CLI — 0.102.0: 4 Context Window changes'
+  evidence:
+  - quote: 'Introduced structured network approval handling, with richer host/protocol
+      context shown directly in approval prompts. (#11672, #11674)'
+    source_release: https://github.com/openai/codex/releases/tag/rust-v0.102.0
+  - quote: '#11663 fix: reduce flakiness of compact_resume_after_second_compaction_preserves_history
+      @bolinfest'
+    source_release: https://github.com/openai/codex/releases/tag/rust-v0.102.0
+  - quote: '#11487 core: snapshot tests for compaction requests, post-compaction layout,
+      some additional compaction tests @charley-oai'
+    source_release: https://github.com/openai/codex/releases/tag/rust-v0.102.0
+  - quote: '#11807 Centralize context update diffing logic @charley-oai'
+    source_release: https://github.com/openai/codex/releases/tag/rust-v0.102.0
+  extractor_version: fallback-v5
+  impact: incremental
+  kind: digest
+  product: codex-cli
+  product_name: Codex CLI
+  slug: 4-context-window-changes-in-rust-v0-102-0
+  source_release: codex-cli-2026-02-17-rust-v0-102-0-github-287401154-1bf3dbd0
+  source_type: github_releases
+  theme: context-window
+  title: 4 Context Window changes in rust-v0.102.0
+  type: change
+related_changes:
+- '[[Changes/ChatGPT/2026-02-13-attach-up-to-20-files-in-a-single-message-you-can-now-upload-up-to-20-files-at-o|Attach
+  up to 20 files in a single message]]'
+- '[[Changes/Claude Code/2026-02-13-improved-rename-to-auto-generate-session-name-from-conversation-context-when-cal|Improved
+  /rename to auto-generate session name from conversation context…]]'
+- '[[Changes/GitHub Copilot CLI/2026-02-14-shell-mode-pastes-raw-text-instead-of-paste-tokens|Shell
+  mode pastes raw text instead of paste tokens]]'
+source_release: '[[Releases/Codex CLI/codex-cli-2026-02-17-rust-v0-102-0-github-287401154-1bf3dbd0|codex-cli-2026-02-17-rust-v0-102-0-github-287401154-1bf3dbd0]]'
+source_type: github_releases
+theme: context-window
+title: 4 Context Window changes in rust-v0.102.0
+type: change
+---
+
+<!-- chronolog:begin region="header" -->
+# 4 Context Window changes in rust-v0.102.0
+
+**Codex CLI** · 2026-02-17 · [[Themes/context-window|Context Window]] · Digest · [Official source](https://github.com/openai/codex/releases/tag/rust-v0.102.0) · from [[Releases/Codex CLI/codex-cli-2026-02-17-rust-v0-102-0-github-287401154-1bf3dbd0|0.102.0]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="evidence" -->
+## Changes in this digest
+
+> Introduced structured network approval handling, with richer host/protocol context shown directly in approval prompts. (#11672, #11674)
+
+> #11663 fix: reduce flakiness of compact_resume_after_second_compaction_preserves_history @bolinfest
+
+> #11487 core: snapshot tests for compaction requests, post-compaction layout, some additional compaction tests @charley-oai
+
+> #11807 Centralize context update diffing logic @charley-oai
+
+Source: https://github.com/openai/codex/releases/tag/rust-v0.102.0
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="context" -->
+## Also in this release
+
+- [[Changes/Codex CLI/2026-02-17-3-developer-workflow-changes-in-rust-v0-102-0|3 Developer Workflow changes in rust-v0.102.0]] · Developer Workflow
+- [[Changes/Codex CLI/2026-02-17-11-model-support-changes-in-rust-v0-102-0|11 Model Support changes in rust-v0.102.0]] · Model Support
+- [[Changes/Codex CLI/2026-02-17-15-apps-and-integrations-changes-in-rust-v0-102-0|15 Apps and Integrations changes in rust-v0.102.0]] · Apps and Integrations
+- [[Changes/Codex CLI/2026-02-17-2-mobile-and-desktop-changes-in-rust-v0-102-0|2 Mobile and Desktop changes in rust-v0.102.0]] · Mobile and Desktop
+- [[Changes/Codex CLI/2026-02-17-9-safety-and-privacy-changes-in-rust-v0-102-0|9 Safety and Privacy changes in rust-v0.102.0]] · Safety and Privacy
+- [[Changes/Codex CLI/2026-02-17-11860-fixed-screen-reader-regression-in-cli-etraut-openai|♯11860 Fixed screen reader regression in CLI @etraut-openai]] · Accessibility and Localization
+- [[Changes/Codex CLI/2026-02-17-11224-chore-clarify-web-search-deprecation-notices-and-consolidate-tests-sayan-o|♯11224 chore: clarify web_search deprecation notices and consolidate tests @sayan-oai]] · Search and Browsing
+- [[Changes/Codex CLI/2026-02-17-4-memory-and-personalization-changes-in-rust-v0-102-0|4 Memory and Personalization changes in rust-v0.102.0]] · Memory and Personalization
+- [[Changes/Codex CLI/2026-02-17-3-interface-experience-changes-in-rust-v0-102-0|3 Interface Experience changes in rust-v0.102.0]] · Interface Experience
+- [[Changes/Codex CLI/2026-02-17-7-agent-mode-changes-in-rust-v0-102-0|7 Agent Mode changes in rust-v0.102.0]] · Agent Mode
+- [[Changes/Codex CLI/2026-02-17-59-other-changes-in-rust-v0-102-0|59 other changes in rust-v0.102.0]] · Other changes
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="nearby" -->
+## Nearby in Context Window
+
+- Earlier: 2026-02-14 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-02-14-shell-mode-pastes-raw-text-instead-of-paste-tokens|Shell mode pastes raw text instead of paste tokens]]
+- Later: 2026-02-17 · Cursor · [[Changes/Cursor/2026-02-17-agents-can-now-search-past-conversations-and-use-chat-history-as-context|Agents can now search past conversations and use chat history as context]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="relations" -->
+## Related
+
+- Earliest same-theme entry in the tracked set: 2023-05-04 · Cursor · [[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2 Context Window changes in 0.2.9]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="footer" -->
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20codex-cli-2026-02-17-a308a5&body=Card%3A%20Changes%2FCodex%20CLI%2F2026-02-17-4-context-window-changes-in-rust-v0-102-0.md%0ACard%20ID%3A%20codex-cli-2026-02-17-a308a5%0ASource%3A%20https%3A%2F%2Fgithub.com%2Fopenai%2Fcodex%2Freleases%2Ftag%2Frust-v0.102.0%0A%0AWhat%20should%20be%20corrected%3F%0A)
+<!-- chronolog:end -->

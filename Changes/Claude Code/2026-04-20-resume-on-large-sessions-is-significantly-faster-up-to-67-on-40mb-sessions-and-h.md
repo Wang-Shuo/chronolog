@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: b745524ff834821ddef66f0b467e6c0abbadbcf51009036c3c6a72d8a102f0b5
+machine_hash: ad0027228778370a5a8309f2943825971e72e14924a0d447c8b14d0772584012
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,12 +45,12 @@ record:
     sessions)…'
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-04-13-closing-tabs-is-now-less-likely-to-glitch-the-file-tree-and-recovery-is-faster|Closing
-  tabs is now less likely to glitch the file tree, and recovery is faster]]'
-- '[[Changes/Claude Code/2026-04-14-reduced-memory-footprint-for-file-reads-edits-and-syntax-highlighting-by-loading|Reduced
-  memory footprint for file reads, edits, and syntax highlighting by loading…]]'
+- '[[Changes/Windsurf/2026-04-16-various-bug-fixes-and-performance-improvements-for-improving-windsurf-2-0-auth-e|Various
+  bug fixes and performance improvements for improving Windsurf 2.0 auth experience]]'
 - '[[Changes/Claude Code/2026-04-17-improved-ultrareview-faster-launch-with-parallelized-checks-diffstat-in-the-laun|Improved
   /ultrareview: faster launch with parallelized checks, diffstat…]]'
+- '[[Changes/Windsurf/2026-04-17-various-bug-fixes-and-performance-improvements|Various
+  bug fixes and performance improvements]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-04-20-v2-1-116-github-311446114-3b24dc7e|claude-code-2026-04-20-v2-1-116-github-311446114-3b24dc7e]]'
 source_type: github_releases
 theme: reliability-performance
@@ -84,7 +84,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2026-04-17 · Claude Code · [[Changes/Claude Code/2026-04-17-improved-ultrareview-faster-launch-with-parallelized-checks-diffstat-in-the-laun|Improved /ultrareview: faster launch with parallelized checks, diffstat…]]
+- Earlier: 2026-04-17 · Windsurf · [[Changes/Windsurf/2026-04-17-various-bug-fixes-and-performance-improvements|Various bug fixes and performance improvements]]
 - Later: 2026-04-22 · Claude Code · [[Changes/Claude Code/2026-04-22-2-reliability-and-performance-changes-in-v2-1-117|2 Reliability and Performance changes in v2.1.117]]
 <!-- chronolog:end -->
 

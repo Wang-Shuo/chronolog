@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 47033c9cb8dc22c596fbf30ff74470a8e701997ad14bbf668c0e1f1704c02266
+machine_hash: dc7de3587a132c869d41f8c35d88993817116e7e445cb0e7665417737008ad01
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -52,10 +52,10 @@ record:
   title: Create webhook-triggered tasks
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-08-19-2-developer-workflow-changes-in-v2-1-236|2 Developer
-  Workflow changes in v2.1.236]]'
 - '[[Changes/Claude Code/2026-08-20-2-developer-workflow-changes-in-v2-1-238|2 Developer
   Workflow changes in v2.1.238]]'
+- '[[Changes/Codex CLI/2026-08-20-18-developer-workflow-changes-in-rust-v0-149-0|18
+  Developer Workflow changes in rust-v0.149.0]]'
 - '[[Changes/Claude Code/2026-08-21-2-developer-workflow-changes-in-v2-1-239|2 Developer
   Workflow changes in v2.1.239]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-08-25-scheduled-tasks-can-respond-to-app-updates-and-be-shared-63a6aae4|chatgpt-2026-08-25-scheduled-tasks-can-respond-to-app-updates-and-be-shared-63a6aae4]]'

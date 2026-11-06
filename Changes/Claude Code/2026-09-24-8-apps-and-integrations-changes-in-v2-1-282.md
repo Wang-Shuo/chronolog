@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: b80858742a0a2ebf2e1caf344d65606fad913ea9e38a3fca834c82d2d18ced61
+machine_hash: 499931e90c7fabcb83f2508f69a9974062b09015654163d0521b29e53cff2f20
 product: claude-code
 product_name: Claude Code
 record:
@@ -68,8 +68,8 @@ record:
   title: 8 Apps and Integrations changes in v2.1.282
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-22-8-apps-and-integrations-changes-in-v2-1-280|8
-  Apps and Integrations changes in v2.1.280]]'
+- '[[Changes/OpenHands/2026-09-22-feat-test-remote-mcp-servers-on-cloud-backends-via-the-app-server-by-hieptl-in-h|feat:
+  test remote MCP servers on cloud backends via the app server]]'
 - '[[Changes/Claude Code/2026-09-23-17-apps-and-integrations-changes-in-v2-1-281|17
   Apps and Integrations changes in v2.1.281]]'
 - '[[Changes/Cursor/2026-09-23-integrations|Integrations]]'

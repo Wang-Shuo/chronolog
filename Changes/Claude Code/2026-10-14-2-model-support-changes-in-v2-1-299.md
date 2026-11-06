@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 835604b58a4abdd8a25f1ea8ee99e4e969e8372e93fb2494422f6dc0559ea634
+machine_hash: 321c3f50ed3cff581c20afb4bb53a12f85b3dff04c48856a7a22d9dcde4f595d
 product: claude-code
 product_name: Claude Code
 record:
@@ -47,12 +47,12 @@ record:
   title: 2 Model Support changes in v2.1.299
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-07-added-claude-haiku-5-5-claude-haiku-5-5-now-the-default-haiku-model-on-the-anthr|Added
-  Claude Haiku 5.5 (claude-haiku-5-5), now the default Haiku model…]]'
-- '[[Changes/Claude Code/2026-10-08-3-model-support-changes-in-v2-1-295|3 Model Support
-  changes in v2.1.295]]'
-- '[[Changes/Claude Code/2026-10-09-claude-tag-changed-claude-in-slack-to-show-the-footer-with-the-session-link-mode|Claude
-  Tag Changed Claude in Slack to show the footer with the session link, model…]]'
+- '[[Changes/GitHub Copilot CLI/2026-10-12-2-model-support-changes-in-v1-0-96|2 Model
+  Support changes in v1.0.96]]'
+- '[[Changes/OpenHands/2026-10-12-3-model-support-changes-in-v1-27-0|3 Model Support
+  changes in v1.27.0]]'
+- '[[Changes/Cline/2026-10-13-3-model-support-changes-in-v4-1-24|3 Model Support changes
+  in v4.1.24]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-10-14-v2-1-299-github-412217284-623d9162|claude-code-2026-10-14-v2-1-299-github-412217284-623d9162]]'
 source_type: github_releases
 theme: model-support
@@ -97,7 +97,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.299
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-10-09 · Claude Code · [[Changes/Claude Code/2026-10-09-claude-tag-changed-claude-in-slack-to-show-the-footer-with-the-session-link-mode|Claude Tag Changed Claude in Slack to show the footer with the session link, model…]]
+- Earlier: 2026-10-13 · Cline · [[Changes/Cline/2026-10-13-3-model-support-changes-in-v4-1-24|3 Model Support changes in v4.1.24]]
 - Later: 2026-10-14 · Claude Code · [[Changes/Claude Code/2026-10-14-improved-the-note-claude-3-models-get-about-an-mentioned-pdf-so-they-less-often|Improved the note Claude 3 models get about an @-mentioned PDF, so they less often…]]
 <!-- chronolog:end -->
 

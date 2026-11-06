@@ -4,20 +4,20 @@ date: '2026-10-15'
 description: 'ChatGPT · 2026-10-15 · Voice and Audio: For more information, see: ChatGPT
   Voice.'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-09-25-you-can-now-use-voice-to-engage-in-a-back-and-forth-conversation-with-your-assis-13666e|Voice
-    (Beta) is now rolling out to Plus users on iOS and Android]]'
+  first_in_tracked: '[[Changes/Aider/2023-08-11-voice-to-code-https-aider-chat-docs-voice-html-support-which-allows-you-to-code|Voice-to-code((source
+    link) support, which allows you…]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1116
+  lag_days: 1161
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 03c168f248ba25494bf61de1380a9baedeb2d25795ab26fc5542febb44d33849
+machine_hash: aa669a83f1784e6b968da12d4e7cb846aba41c0a04389df5f7e8986bc8d021bd
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -41,10 +41,10 @@ record:
   title: 'For more information, see: ChatGPT Voice'
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-09-29-audio-is-deleted-once-your-notes-are-ready-and-can-t-be-accessed-or-replayed-ava|Audio
-  is deleted once your notes are ready and can’t be accessed or replayed]]'
-- '[[Changes/ChatGPT/2026-10-06-upload-audio-files-to-chatgpt-to-create-transcripts-summarize-recordings-and-ask|Audio
-  uploads in ChatGPT]]'
+- '[[Changes/Codex CLI/2026-10-07-4-voice-and-audio-changes-in-rust-v0-161-0|4 Voice
+  and Audio changes in rust-v0.161.0]]'
+- '[[Changes/Codex CLI/2026-10-08-2-voice-and-audio-changes-in-rust-v0-162-0|2 Voice
+  and Audio changes in rust-v0.162.0]]'
 - '[[Changes/Claude Code/2026-10-14-claude-tag-added-support-for-slack-voice-clips-in-claude-in-slack-claude-reads-s|Claude
   Tag Added support for Slack voice clips in Claude in Slack]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-10-15-gpt-live-1-1-and-new-voices-in-chatgpt-3e3f7f0c|chatgpt-2026-10-15-gpt-live-1-1-and-new-voices-in-chatgpt-3e3f7f0c]]'
@@ -76,13 +76,13 @@ type: change
 ## Nearby in Voice and Audio
 
 - Earlier: 2026-10-14 · Claude Code · [[Changes/Claude Code/2026-10-14-claude-tag-added-support-for-slack-voice-clips-in-claude-in-slack-claude-reads-s|Claude Tag Added support for Slack voice clips in Claude in Slack]]
-- Later: 2026-10-21 · Claude Code · [[Changes/Claude Code/2026-10-21-2-voice-and-audio-changes-in-v2-1-307|2 Voice and Audio changes in v2.1.307]]
+- Later: 2026-10-15 · Codex CLI · [[Changes/Codex CLI/2026-10-15-4-voice-and-audio-changes-in-rust-v0-163-0|4 Voice and Audio changes in rust-v0.163.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-09-25 · ChatGPT · [[Changes/ChatGPT/2023-09-25-you-can-now-use-voice-to-engage-in-a-back-and-forth-conversation-with-your-assis-13666e|Voice (Beta) is now rolling out to Plus users on iOS and Android]]
+- Earliest same-theme entry in the tracked set: 2023-08-11 · Aider · [[Changes/Aider/2023-08-11-voice-to-code-https-aider-chat-docs-voice-html-support-which-allows-you-to-code|Voice-to-code((source link) support, which allows you…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

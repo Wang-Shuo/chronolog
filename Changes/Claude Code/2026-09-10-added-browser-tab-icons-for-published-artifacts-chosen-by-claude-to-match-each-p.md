@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: d38905ea9582d71b9d72c9aeb84d7c0c8d2a24c5bfca2f8d590948ad37163d47
+machine_hash: c431fdc16fdcf61738ab0fdaf10cd02a4758ce89a5bbbf83e6fbac935cdf7d5b
 product: claude-code
 product_name: Claude Code
 record:
@@ -43,12 +43,12 @@ record:
     each page
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-08-27-once-the-agent-s-build-is-to-your-liking-click-the-create-repo-button-to-save-yo|Turn
-  it into a real repo, whenever you want]]'
-- '[[Changes/Claude Code/2026-09-01-2-editor-experience-changes-in-v2-1-257|2 Editor
-  Experience changes in v2.1.257]]'
 - '[[Changes/Claude Code/2026-09-03-improved-the-settings-error-for-rules-such-as-edit-c-dir-name-where-is-read-as-a|Improved
   the settings error for rules such as Edit(C:\dir\(name)\), where…]]'
+- '[[Changes/GitHub Copilot CLI/2026-09-04-2-editor-experience-changes-in-v1-0-83|2
+  Editor Experience changes in v1.0.83]]'
+- '[[Changes/Codex CLI/2026-09-09-42746-handle-pending-network-reviews-after-process-completion-copyberry|♯42746
+  Handle pending network reviews after process completion @copyberry]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-10-v2-1-268-github-386532237-baa1a848|claude-code-2026-09-10-v2-1-268-github-386532237-baa1a848]]'
 source_type: github_releases
 theme: editor-experience
@@ -89,7 +89,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2026-09-03 · Claude Code · [[Changes/Claude Code/2026-09-03-improved-the-settings-error-for-rules-such-as-edit-c-dir-name-where-is-read-as-a|Improved the settings error for rules such as Edit(C:\dir\(name)\), where…]]
+- Earlier: 2026-09-09 · Codex CLI · [[Changes/Codex CLI/2026-09-09-42746-handle-pending-network-reviews-after-process-completion-copyberry|♯42746 Handle pending network reviews after process completion @copyberry]]
 - Later: 2026-09-11 · Claude Code · [[Changes/Claude Code/2026-09-11-3-editor-experience-changes-in-v2-1-269|3 Editor Experience changes in v2.1.269]]
 <!-- chronolog:end -->
 

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: pricing
-machine_hash: 2bee5c081fd24b86444a6a13bcd47baa9d568d31629174a3948f213b362dc2d1
+machine_hash: 62e9f91d9290e50cef71c3b6e07b8aa96ffa83031d99f8e75ae6f4b2442f43ea
 product: cursor
 product_name: Cursor
 record:
@@ -43,10 +43,10 @@ record:
   title: 'Fast (default): $3.00/M input, $15.00/M output tokens'
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-04-22-opentelemetry-user-prompt-events-now-include-command-name-and-command-source-for|OpenTelemetry:
-  user_prompt events now include command_name and command_source…]]'
-- '[[Changes/Cursor/2026-05-11-customers-must-be-on-usage-based-billing-for-bugbot-to-customize-effort-levels-l|Customers
-  must be on usage-based billing for Bugbot to customize effort levels]]'
+- '[[Changes/GitHub Copilot CLI/2026-05-13-copilot-max-subscribers-see-the-correct-models-available-to-their-subscription-t|Copilot
+  Max subscribers see the correct models available to their subscription tier]]'
+- '[[Changes/GitHub Copilot CLI/2026-05-14-model-picker-displays-actual-token-prices-instead-of-dot-indicators-for-token-ba|Model
+  picker displays actual token prices instead of dot indicators for token-based…]]'
 - '[[Changes/Claude Code/2026-05-15-added-projected-context-cost-per-turn-and-per-invocation-token-estimates-to-the|Added
   projected context cost (per-turn and per-invocation token estimates)…]]'
 source_release: '[[Releases/Cursor/cursor-2026-05-18-composer-2-5-https-cursor-com-changelog-composer-2-5-1dffe5a1|cursor-2026-05-18-composer-2-5-https-cursor-com-changelog-composer-2-5-1dffe5a1]]'

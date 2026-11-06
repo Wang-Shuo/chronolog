@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: 534e84d3637e575b50b30144d2886f899001275bfa7aa0feb3a4407fdb68b58d
+machine_hash: e94419b59068a02b500a44317fa7d18a697f759ba32e20edf189d6fc0fd76141
 product: claude-code
 product_name: Claude Code
 record:
@@ -106,7 +106,7 @@ type: change
 ## Nearby in Context Window
 
 - Earlier: 2026-09-14 · Claude Code · [[Changes/Claude Code/2026-09-14-improved-the-spinner-status-during-long-thinking-it-now-reads-deep-in-thought-af|Improved the spinner status during long thinking]]
-- Later: 2026-09-25 · Claude Code · [[Changes/Claude Code/2026-09-25-2-context-window-changes-in-v2-1-283|2 Context Window changes in v2.1.283]]
+- Later: 2026-09-16 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-09-16-3-context-window-changes-in-v1-0-85|3 Context Window changes in v1.0.85]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

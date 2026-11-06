@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: b93cff043735c61c60fe49014ed90c246974920c912e7a6f4424681801c9c8c9
+machine_hash: 98a305a712554e4b702dc9ba67fcb75e91c0eae67d59f650fe0b3a3bd1b93d93
 product: cursor
 product_name: Cursor
 record:
@@ -44,12 +44,12 @@ record:
   title: Composer 2.5 includes double usage for the first week
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-05-11-custom-describe-in-natural-language-when-bugbot-should-use-default-or-high-effor|Custom:
-  Describe in natural language when Bugbot should use default or high effort]]'
-- '[[Changes/Claude Code/2026-05-14-2-model-support-changes-in-v2-1-142|2 Model Support
-  changes in v2.1.142]]'
+- '[[Changes/GitHub Copilot CLI/2026-05-14-2-model-support-changes-in-v1-0-48|2 Model
+  Support changes in v1.0.48]]'
 - '[[Changes/Claude Code/2026-05-15-2-model-support-changes-in-v2-1-143|2 Model Support
   changes in v2.1.143]]'
+- '[[Changes/Codex CLI/2026-05-18-4-model-support-changes-in-rust-v0-131-0|4 Model
+  Support changes in rust-v0.131.0]]'
 source_release: '[[Releases/Cursor/cursor-2026-05-18-composer-2-5-https-cursor-com-changelog-composer-2-5-1dffe5a1|cursor-2026-05-18-composer-2-5-https-cursor-com-changelog-composer-2-5-1dffe5a1]]'
 source_type: cursor_changelog
 theme: model-support
@@ -81,7 +81,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-05-15 · Claude Code · [[Changes/Claude Code/2026-05-15-2-model-support-changes-in-v2-1-143|2 Model Support changes in v2.1.143]]
+- Earlier: 2026-05-18 · Codex CLI · [[Changes/Codex CLI/2026-05-18-4-model-support-changes-in-rust-v0-131-0|4 Model Support changes in rust-v0.131.0]]
 - Later: 2026-05-19 · Claude Code · [[Changes/Claude Code/2026-05-19-resumed-sessions-now-keep-the-model-they-were-using-instead-of-picking-up-anothe|Resumed sessions now keep the model they were using instead of picking up another…]]
 <!-- chronolog:end -->
 

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: b7ffb8e02791980f9d541de367e8fbe06ae9da32704346cb8b43eca8053bdd12
+machine_hash: 1264c779f77e5f6fed95f4b774042fd254784ea935538b72e3c636ec4c5cf0be
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,10 +45,10 @@ record:
     fullscreen mode
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-07-10-7-interface-experience-changes-in-side-chats-and-conversation-search|7
-  Interface Experience changes in Side Chats and Conversation Search]]'
 - '[[Changes/Cursor/2026-07-10-redesigned-project-and-repo-pickers|Redesigned project
   and repo pickers]]'
+- '[[Changes/GitHub Copilot CLI/2026-07-10-4-interface-experience-changes-in-v1-0-70|4
+  Interface Experience changes in v1.0.70]]'
 - '[[Changes/Claude Code/2026-07-11-improved-agent-view-pasting-the-same-text-again-now-expands-the-collapsed-pasted|Improved
   agent view]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-07-14-v2-1-208-github-353442054-2756b984|claude-code-2026-07-14-v2-1-208-github-353442054-2756b984]]'

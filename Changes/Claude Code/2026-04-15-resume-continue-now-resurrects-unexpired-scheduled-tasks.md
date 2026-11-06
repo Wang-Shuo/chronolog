@@ -4,20 +4,20 @@ date: '2026-04-15'
 description: 'Claude Code · 2026-04-15 · Automation and Scheduling: `--resume`/`--continue`
   now resurrects unexpired scheduled tasks'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2025-01-14-today-we-re-rolling-out-a-beta-version-of-tasks-a-new-way-to-ask-chatgpt-to-do-t-2d33b6|Scheduled
-    tasks in ChatGPT]]'
+  first_in_tracked: '[[Changes/OpenHands/2024-09-04-better-syntax-error-loop-detection-by-tobitege-in-https-github-com-all-hands-ai|Better
+    syntax error loop detection]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 456
+  lag_days: 588
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 902ad13f461d8a3a49ddbc4c48559364a0f553ad3369a436064b934a05827d95
+machine_hash: 7e877ecbfcd4a4f38763ceda0c3a80f25c4dca454ee8cf0893b1bf23c5004957
 product: claude-code
 product_name: Claude Code
 record:
@@ -41,8 +41,8 @@ record:
   title: '`--resume`/`--continue` now resurrects unexpired scheduled tasks'
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-03-26-added-timestamp-markers-in-transcripts-when-scheduled-tasks-loop-croncreate-fire|Added
-  timestamp markers in transcripts when scheduled tasks (/loop, CronCreate) fire]]'
+- '[[Changes/Gemini CLI/2026-04-01-test-core-migrate-hook-tests-to-scheduler-by-abhipatel12-in-https-github-com-goo|test(core):
+  migrate hook tests to scheduler]]'
 - '[[Changes/Cursor/2026-04-02-reduced-the-browser-automation-tool-surface-and-tightened-the-subagent-to-use-br|Reduced
   the browser automation tool surface and tightened the subagent to use…]]'
 - '[[Changes/Claude Code/2026-04-13-proactive-is-now-an-alias-for-loop|/proactive
@@ -89,7 +89,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2025-01-14 · ChatGPT · [[Changes/ChatGPT/2025-01-14-today-we-re-rolling-out-a-beta-version-of-tasks-a-new-way-to-ask-chatgpt-to-do-t-2d33b6|Scheduled tasks in ChatGPT]]
+- Earliest same-theme entry in the tracked set: 2024-09-04 · OpenHands · [[Changes/OpenHands/2024-09-04-better-syntax-error-loop-detection-by-tobitege-in-https-github-com-all-hands-ai|Better syntax error loop detection]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

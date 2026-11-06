@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 48a6f75daf02bb1064cdafb9e1ef6a864a12b7158bec4328cd8b8fb34b6b68f4
+machine_hash: 97304863a768b4ec149f029b038bb2c57daabb183030592492981d4f8314d994
 product: claude-code
 product_name: Claude Code
 record:
@@ -42,9 +42,10 @@ record:
   title: 2 Interface Experience changes in v2.0.74
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-12-10-pinned-chats|Pinned chats]]'
-- '[[Changes/ChatGPT/2025-12-18-you-can-now-pin-chats-to-the-top-of-your-list-for-quick-access-to-important-conv|Pinned
-  chats in ChatGPT]]'
+- '[[Changes/Codex CLI/2025-12-18-6-interface-experience-changes-in-rust-v0-74-0|6
+  Interface Experience changes in rust-v0.74.0]]'
+- '[[Changes/GitHub Copilot CLI/2025-12-18-model-picker-uses-two-column-layout-with-aligned-multipliers-and-clearer-visual|Model
+  picker uses two-column layout with aligned multipliers and clearer visual indicators]]'
 - '[[Changes/Claude Code/2025-12-19-3-interface-experience-changes-in-v2-0-73|3 Interface
   Experience changes in v2.0.73]]'
 source_release: '[[Releases/Claude Code/claude-code-2025-12-19-v2-0-74-github-271886909-2070ef10|claude-code-2025-12-19-v2-0-74-github-271886909-2070ef10]]'
@@ -83,7 +84,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.0.74
 ## Nearby in Interface Experience
 
 - Earlier: 2025-12-19 · Claude Code · [[Changes/Claude Code/2025-12-19-3-interface-experience-changes-in-v2-0-73|3 Interface Experience changes in v2.0.73]]
-- Later: 2025-12-22 · Cursor · [[Changes/Cursor/2025-12-22-3-interface-experience-changes-in-2-3|3 Interface Experience changes in 2.3]]
+- Later: 2025-12-19 · Codex CLI · [[Changes/Codex CLI/2025-12-19-2-interface-experience-changes-in-rust-v0-76-0|2 Interface Experience changes in rust-v0.76.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

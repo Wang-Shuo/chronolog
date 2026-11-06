@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 9fc5e6dd1c9da9cbe0922e68a9cf17fd285f1443fbf73d7327fed5f6cb3fa9d4
+machine_hash: c0f10463632e07d631a8f4f5d3f20acb9b7270aa127f8fb35a62ed579a9e6088
 product: cursor
 product_name: Cursor
 record:
@@ -44,12 +44,12 @@ record:
   title: 2 Account and Access changes in 2.3
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2024-04-01-we-re-making-it-easier-for-people-to-experience-the-benefits-of-ai-without-needi|Start
-  using ChatGPT instantly]]'
-- '[[Changes/Cursor/2025-06-04-mcp-one-click-install-and-oauth-support|MCP one-click
-  install and OAuth support]]'
-- '[[Changes/Cursor/2025-09-29-1-7-41-token-sync-improvements-for-authentication|1.7.41:
-  Token sync improvements for authentication]]'
+- '[[Changes/Windsurf/2025-12-12-request-all-supported-scopes-if-no-scopes-are-provided-in-mcp-oauth-config|Request
+  all supported scopes if no scopes are provided in MCP OAuth config]]'
+- '[[Changes/Gemini CLI/2025-12-16-allow-telemetry-exporters-to-gcp-to-utilize-user-s-login-credentials-if-requeste|Allow
+  telemetry exporters to GCP to utilize user''s login credentials, if requested]]'
+- '[[Changes/Codex CLI/2025-12-21-2-account-and-access-changes-in-rust-v0-77-0|2 Account
+  and Access changes in rust-v0.77.0]]'
 source_release: '[[Releases/Cursor/cursor-2025-12-22-2-3-https-cursor-com-changelog-2-3-fe418465|cursor-2025-12-22-2-3-https-cursor-com-changelog-2-3-fe418465]]'
 source_type: cursor_changelog
 theme: account-access
@@ -89,8 +89,8 @@ Source: https://cursor.com/changelog/2-3
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Account and Access
 
-- Earlier: 2025-09-29 · Cursor · [[Changes/Cursor/2025-09-29-1-7-41-token-sync-improvements-for-authentication|1.7.41: Token sync improvements for authentication]]
-- Later: 2026-01-13 · Claude Code · [[Changes/Claude Code/2026-01-13-updated-help-improve-claude-setting-fetch-to-refresh-oauth-and-retry-when-it-fai|Updated "Help improve Claude" setting fetch to refresh OAuth and retry when it fails…]]
+- Earlier: 2025-12-21 · Codex CLI · [[Changes/Codex CLI/2025-12-21-2-account-and-access-changes-in-rust-v0-77-0|2 Account and Access changes in rust-v0.77.0]]
+- Later: 2025-12-30 · OpenHands · [[Changes/OpenHands/2025-12-30-added-oauth-2-0-device-flow-for-cli-authentication-by-malhotra5-in-https-github|Added OAuth 2.0 Device Flow for CLI authentication]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

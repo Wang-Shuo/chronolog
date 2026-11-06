@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 5b8b20ef97757b464002ae5bf495835b4652ae44bd0b92b1a23bb633c5e2b9e0
+machine_hash: 127085ab2a3db58fdf92bd14adc069fd568929ca39dbc500d5dcfcd422d54091
 product: claude-code
 product_name: Claude Code
 record:
@@ -43,11 +43,11 @@ record:
   title: Removed the startup "setup issues" line under the logo
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-06-10-2-developer-workflow-changes-in-v2-1-172|2 Developer
-  Workflow changes in v2.1.172]]'
-- '[[Changes/Claude Code/2026-06-15-improved-doctor-with-consistent-flat-tree-layout-across-all-sections-clearer-sec|Improved
-  /doctor with consistent flat tree layout across all sections, clearer…]]'
+- '[[Changes/GitHub Copilot CLI/2026-06-16-3-developer-workflow-changes-in-v1-0-63|3
+  Developer Workflow changes in v1.0.63]]'
 - '[[Changes/Cursor/2026-06-17-cloud-environment-setup-8a7697|Cloud environment setup]]'
+- '[[Changes/Codex CLI/2026-06-18-7-developer-workflow-changes-in-rust-v0-141-0|7
+  Developer Workflow changes in rust-v0.141.0]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-06-19-v2-1-183-github-341696059-98586912|claude-code-2026-06-19-v2-1-183-github-341696059-98586912]]'
 source_type: github_releases
 theme: developer-workflow
@@ -80,7 +80,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2026-06-17 · Cursor · [[Changes/Cursor/2026-06-17-cloud-environment-setup-8a7697|Cloud environment setup]]
+- Earlier: 2026-06-18 · Codex CLI · [[Changes/Codex CLI/2026-06-18-7-developer-workflow-changes-in-rust-v0-141-0|7 Developer Workflow changes in rust-v0.141.0]]
 - Later: 2026-06-22 · Claude Code · [[Changes/Claude Code/2026-06-22-changed-review-pr-to-use-the-same-review-engine-as-code-review-medium|Changed /review pr to use the same review engine as /code-review medium]]
 <!-- chronolog:end -->
 

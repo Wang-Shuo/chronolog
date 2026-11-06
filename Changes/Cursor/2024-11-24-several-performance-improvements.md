@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 5b5c78884695430e25cb6762e4a7579c0e39997f8fee687f390701ecd72192cc
+machine_hash: bb16a326dc628a3b97563e6e5ce3bbd4de69b0068e5799bf473f72b93d8b6d3f
 product: cursor
 product_name: Cursor
 record:
@@ -41,11 +41,12 @@ record:
   title: Several performance improvements
   type: change
 related_changes:
-- '[[Changes/Cursor/2024-08-02-faster-cursor-tab-suggestions|Faster Cursor Tab Suggestions!]]'
-- '[[Changes/Cursor/2024-09-17-cursor-tab-now-auto-imports-symbols-in-python-files-we-ve-also-significantly-imp|Cursor
-  Tab now auto-imports symbols in Python files!]]'
-- '[[Changes/Cursor/2024-09-17-composer-can-now-be-added-to-the-ai-pane-this-release-also-includes-many-stabili-7b4c37|Composer
-  can now be added to the AI pane]]'
+- '[[Changes/Cline/2024-09-19-folder-adds-folder-s-files-all-at-once-to-speed-up-your-workflow-even-more|@folder:
+  Adds folder''s files all at once to speed up your workflow even more]]'
+- '[[Changes/OpenHands/2024-10-03-improve-the-docker-runtime-build-speed-fix-issues-in-build-by-xingyaoww-in-https|Improve
+  the docker runtime build speed & fix issues in build]]'
+- '[[Changes/Cline/2024-10-09-2-reliability-and-performance-changes-in-v2-0-0|2 Reliability
+  and Performance changes in v2.0.0]]'
 source_release: '[[Releases/Cursor/cursor-2024-11-24-0-43-x-https-cursor-com-changelog-0-43-x-18aee492|cursor-2024-11-24-0-43-x-https-cursor-com-changelog-0-43-x-18aee492]]'
 source_type: cursor_changelog
 theme: reliability-performance
@@ -75,7 +76,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2024-09-17 · Cursor · [[Changes/Cursor/2024-09-17-composer-can-now-be-added-to-the-ai-pane-this-release-also-includes-many-stabili-7b4c37|Composer can now be added to the AI pane]]
+- Earlier: 2024-10-09 · Cline · [[Changes/Cline/2024-10-09-2-reliability-and-performance-changes-in-v2-0-0|2 Reliability and Performance changes in v2.0.0]]
 - Later: 2024-12-17 · Cursor · [[Changes/Cursor/2024-12-17-cursor-starts-up-faster|Cursor starts up faster]]
 <!-- chronolog:end -->
 

@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 22ccf90df077ab4aeea6d5070699b8a5cbb75325323f647e46fab4c3b4b1fbb8
+machine_hash: 887264376161ef0e6549477e378109052c289743dc43041e4db7683782c2c7e8
 product: claude-code
 product_name: Claude Code
 record:
@@ -49,8 +49,8 @@ record:
   title: 4 Developer Workflow changes in v2.1.2
   type: change
 related_changes:
-- '[[Changes/Claude Code/2025-12-19-2-developer-workflow-changes-in-v2-0-74|2 Developer
-  Workflow changes in v2.0.74]]'
+- '[[Changes/Gemini CLI/2026-01-07-4-developer-workflow-changes-in-v0-23-0|4 Developer
+  Workflow changes in v0.23.0]]'
 - '[[Changes/Cursor/2026-01-08-3-developer-workflow-changes-in-new-cli-features-and-improved-cli|3
   Developer Workflow changes in New CLI Features and Improved CLI…]]'
 - '[[Changes/Claude Code/2026-01-09-improved-slash-command-suggestion-readability-by-truncating-long-descriptions-to|Improved
@@ -97,7 +97,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.2
 ## Nearby in Developer Workflow
 
 - Earlier: 2026-01-09 · Claude Code · [[Changes/Claude Code/2026-01-09-improved-slash-command-suggestion-readability-by-truncating-long-descriptions-to|Improved slash command suggestion readability by truncating long descriptions to 2 lines]]
-- Later: 2026-01-12 · Claude Code · [[Changes/Claude Code/2026-01-12-added-claude-code-tmpdir-environment-variable-to-override-the-temp-directory-use|Added CLAUDE_CODE_TMPDIR environment variable to override the temp directory used…]]
+- Later: 2026-01-09 · Codex CLI · [[Changes/Codex CLI/2026-01-09-4-developer-workflow-changes-in-rust-v0-80-0|4 Developer Workflow changes in rust-v0.80.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

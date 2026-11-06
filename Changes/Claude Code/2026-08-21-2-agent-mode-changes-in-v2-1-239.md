@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 5747d5c93f6dac568dbc3ed3bc939d60bfb6b5836d93cb1ad7487b37b83cc185
+machine_hash: bb99fd10fd5a4fd34a6593e57d5b270bf38e1969144d167eef29a133fa8ff4bd
 product: claude-code
 product_name: Claude Code
 record:
@@ -44,10 +44,11 @@ record:
   title: 2 Agent Mode changes in v2.1.239
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-08-19-steering-improvements|Steering improvements]]'
 - '[[Changes/Cursor/2026-08-19-subagents-on-their-own-machines|Subagents on their
   own machines]]'
 - '[[Changes/Cursor/2026-08-19-goal|/goal]]'
+- '[[Changes/Codex CLI/2026-08-20-12-agent-mode-changes-in-rust-v0-149-0|12 Agent
+  Mode changes in rust-v0.149.0]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-08-21-v2-1-239-github-374556322-5f6b8918|claude-code-2026-08-21-v2-1-239-github-374556322-5f6b8918]]'
 source_type: github_releases
 theme: agent-mode
@@ -91,8 +92,8 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.239
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2026-08-19 · Cursor · [[Changes/Cursor/2026-08-19-goal|/goal]]
-- Later: 2026-08-25 · Claude Code · [[Changes/Claude Code/2026-08-25-improved-subagent-results-a-subagent-that-stops-at-its-maxturns-limit-now-return|Improved subagent results]]
+- Earlier: 2026-08-20 · Codex CLI · [[Changes/Codex CLI/2026-08-20-12-agent-mode-changes-in-rust-v0-149-0|12 Agent Mode changes in rust-v0.149.0]]
+- Later: 2026-08-21 · OpenHands · [[Changes/OpenHands/2026-08-21-feat-add-llm-provider-connections-ui-local-agent-server-by-juanmichelini-in-http|feat: add LLM provider-connections UI (local agent-server)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 8e882ce65cec7eba8ec004841abe24741d242ae9d4a88f36526593da64bb126f
+machine_hash: eb03d86bb70970ae2fbe8a640062b3a0f31a7f213d28c12e848e9b335798857f
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -59,12 +59,12 @@ record:
   title: Google Drive app unification
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-03-18-2-apps-and-integrations-changes-in-v2-1-79|2 Apps
-  and Integrations changes in v2.1.79]]'
-- '[[Changes/Claude Code/2026-03-19-4-apps-and-integrations-changes-in-v2-1-80|4 Apps
-  and Integrations changes in v2.1.80]]'
-- '[[Changes/Claude Code/2026-03-20-3-apps-and-integrations-changes-in-v2-1-81|3 Apps
-  and Integrations changes in v2.1.81]]'
+- '[[Changes/GitHub Copilot CLI/2026-03-20-6-apps-and-integrations-changes-in-v1-0-10|6
+  Apps and Integrations changes in v1.0.10]]'
+- '[[Changes/GitHub Copilot CLI/2026-03-23-6-apps-and-integrations-changes-in-v1-0-11|6
+  Apps and Integrations changes in v1.0.11]]'
+- '[[Changes/Gemini CLI/2026-03-24-5-apps-and-integrations-changes-in-v0-35-0|5 Apps
+  and Integrations changes in v0.35.0]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-03-25-google-drive-app-unification-4e5cfa13|chatgpt-2026-03-25-google-drive-app-unification-4e5cfa13]]'
 source_type: chatgpt_changelog
 theme: apps-integrations
@@ -91,7 +91,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-03-20 · Claude Code · [[Changes/Claude Code/2026-03-20-3-apps-and-integrations-changes-in-v2-1-81|3 Apps and Integrations changes in v2.1.81]]
+- Earlier: 2026-03-24 · Gemini CLI · [[Changes/Gemini CLI/2026-03-24-5-apps-and-integrations-changes-in-v0-35-0|5 Apps and Integrations changes in v0.35.0]]
 - Later: 2026-03-25 · Claude Code · [[Changes/Claude Code/2026-03-25-6-apps-and-integrations-changes-in-v2-1-83|6 Apps and Integrations changes in v2.1.83]]
 <!-- chronolog:end -->
 

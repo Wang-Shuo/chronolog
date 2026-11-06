@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: e867932d82adc734b22380da84c1127eaec298abc542198341e5ec689c76f25f
+machine_hash: 5f60b5debb2a84f4d1f54369522126a1dfe021479fba3e87ed7fb1402013377d
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -47,9 +47,10 @@ record:
   title: ChatGPT launches ChatGPT Go, a new low-cost subscription plan
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-05-15-simpler-unified-pricing-6a915c|Simpler, unified pricing]]'
-- '[[Changes/Cursor/2025-05-15-introducing-unified-request-based-pricing-max-mode-for-all-top-models-and-backgr|Introducing
-  unified request-based pricing, Max Mode for all top models…]]'
+- '[[Changes/Cline/2025-07-15-removing-reasoning-ux-for-grok-4-models-and-correct-pricing-by-arafatkatze-in-ht|Removing
+  reasoning UX for Grok 4 models and correct pricing]]'
+- '[[Changes/Cline/2025-07-31-adding-redirecturl-to-credits-purchasing-experience-by-pashpashpash-in-https-git|adding
+  redirectUrl to credits purchasing experience]]'
 - '[[Changes/Cursor/2025-08-06-usage-and-pricing-visibility|Usage and pricing visibility]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-08-18-introducing-chatgpt-go-fbc1ef7a|chatgpt-2025-08-18-introducing-chatgpt-go-fbc1ef7a]]'
 source_type: chatgpt_changelog
@@ -81,7 +82,7 @@ type: change
 ## Nearby in Pricing Model
 
 - Earlier: 2025-08-06 · Cursor · [[Changes/Cursor/2025-08-06-usage-and-pricing-visibility|Usage and pricing visibility]]
-- Later: 2025-09-22 · ChatGPT · [[Changes/ChatGPT/2025-09-22-we-re-launching-chatgpt-go-our-low-cost-subscription-plan-in-indonesia-for-rp-75|ChatGPT launches ChatGPT Go, our low cost subscription plan, in Indonesia]]
+- Later: 2025-08-18 · Gemini CLI · [[Changes/Gemini CLI/2025-08-18-update-quota-and-pricing-md-to-clarify-billing-by-blanca-delgado-parra-in-https|Update quota-and-pricing.md to clarify billing]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

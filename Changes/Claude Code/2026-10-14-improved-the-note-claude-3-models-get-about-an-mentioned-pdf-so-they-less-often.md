@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 6971b99b7ff349c24185681e9a6936f1930d5c47c1d6cff8c65baafeed958549
+machine_hash: ad7db1ab3f7c959602e4feb276a660479de7db8fe3e86805b91c86ed12301ff5
 product: claude-code
 product_name: Claude Code
 record:
@@ -43,10 +43,10 @@ record:
     often…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-08-3-model-support-changes-in-v2-1-295|3 Model Support
-  changes in v2.1.295]]'
-- '[[Changes/Claude Code/2026-10-09-claude-tag-changed-claude-in-slack-to-show-the-footer-with-the-session-link-mode|Claude
-  Tag Changed Claude in Slack to show the footer with the session link, model…]]'
+- '[[Changes/OpenHands/2026-10-12-3-model-support-changes-in-v1-27-0|3 Model Support
+  changes in v1.27.0]]'
+- '[[Changes/Cline/2026-10-13-3-model-support-changes-in-v4-1-24|3 Model Support changes
+  in v4.1.24]]'
 - '[[Changes/Claude Code/2026-10-14-2-model-support-changes-in-v2-1-299|2 Model Support
   changes in v2.1.299]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-10-14-v2-1-300-github-412815061-c358fcd0|claude-code-2026-10-14-v2-1-300-github-412815061-c358fcd0]]'
@@ -90,7 +90,7 @@ type: change
 ## Nearby in Model Support
 
 - Earlier: 2026-10-14 · Claude Code · [[Changes/Claude Code/2026-10-14-2-model-support-changes-in-v2-1-299|2 Model Support changes in v2.1.299]]
-- Later: 2026-10-16 · ChatGPT · [[Changes/ChatGPT/2026-10-16-gpt-6-pro-in-the-chat-tab-now-offers|GPT-6 Pro in the chat tab now offers]]
+- Later: 2026-10-14 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-10-14-add-support-for-gemini-4-argon|Add support for Gemini 4 Argon]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

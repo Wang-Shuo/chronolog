@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 915f25710693d1c9448d12df0620eec904c259f7b0c1e4d5f3be63392f23020d
+machine_hash: 56f04f733a8d51d49674e4a5be624135371b6e1632043b6bb1e554ad5360e39c
 product: cursor
 product_name: Cursor
 record:
@@ -56,12 +56,12 @@ record:
   title: Agents understand context
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2025-06-04-supported-connectors-google-drive-sharepoint-dropbox-box-outlook-gmail-google-ca|Supported
-  connectors: Google Drive, SharePoint, Dropbox, Box, Outlook, Gmail, Google…]]'
-- '[[Changes/ChatGPT/2025-06-04-admin-published-connectors-appear-in-the-connector-list-for-all-users|Admin-published
-  connectors appear in the connector list for all users]]'
-- '[[Changes/ChatGPT/2025-06-04-admins-and-users-can-now-build-and-deploy-custom-connectors-to-proprietary-syste|Admins
-  and users can now build and deploy custom connectors to proprietary systems…]]'
+- '[[Changes/OpenHands/2025-06-05-2-apps-and-integrations-changes-in-0-41-0|2 Apps
+  and Integrations changes in 0.41.0]]'
+- '[[Changes/Cline/2025-06-10-add-collapsible-mcp-response-panels-to-keep-conversations-focused-on-the-main-ai|Add
+  collapsible MCP response panels to keep conversations focused on the main AI…]]'
+- '[[Changes/Cline/2025-06-12-2-apps-and-integrations-changes-in-v3-17-13|2 Apps and
+  Integrations changes in v3.17.13]]'
 source_release: '[[Releases/Cursor/cursor-2025-06-12-1-1-https-cursor-com-changelog-1-1-0f0190fc|cursor-2025-06-12-1-1-https-cursor-com-changelog-1-1-0f0190fc]]'
 source_type: cursor_changelog
 theme: apps-integrations
@@ -97,8 +97,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2025-06-04 · ChatGPT · [[Changes/ChatGPT/2025-06-04-admins-and-users-can-now-build-and-deploy-custom-connectors-to-proprietary-syste|Admins and users can now build and deploy custom connectors to proprietary systems…]]
-- Later: 2025-06-24 · ChatGPT · [[Changes/ChatGPT/2025-06-24-pro-users-are-now-able-to-use-chat-search-connectors-in-addition-to-deep-researc-9d5a85|Chat search connectors (Pro)]]
+- Earlier: 2025-06-12 · Cline · [[Changes/Cline/2025-06-12-2-apps-and-integrations-changes-in-v3-17-13|2 Apps and Integrations changes in v3.17.13]]
+- Later: 2025-06-20 · OpenHands · [[Changes/OpenHands/2025-06-20-3-apps-and-integrations-changes-in-0-44-0|3 Apps and Integrations changes in 0.44.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

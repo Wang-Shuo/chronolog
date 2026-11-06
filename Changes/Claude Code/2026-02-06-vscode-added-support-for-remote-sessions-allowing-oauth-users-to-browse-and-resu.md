@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 7a9fddf7780637c0161dc936b10e807b000cbe659de844cbdca13503d6f0f230
+machine_hash: 603d28a075f26b6c8e4011064ebc585596bbc8793b5e1a7b350ceab550d4f88f
 product: claude-code
 product_name: Claude Code
 record:
@@ -55,12 +55,12 @@ record:
     and resume…'
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-01-22-vscode-added-ability-for-oauth-users-to-browse-and-resume-remote-claude-sessions|VSCode
-  Added ability for OAuth users to browse and resume remote Claude sessions…]]'
-- '[[Changes/Cursor/2026-01-22-browser-can-now-request-local-network-permissions-fixing-authentication-flows-wi|Browser
-  can now request local network permissions, fixing authentication flows…]]'
 - '[[Changes/Claude Code/2026-02-03-added-pre-configured-oauth-client-credentials-for-mcp-servers-that-don-t-support|Added
   pre-configured OAuth client credentials for MCP servers that don''t support…]]'
+- '[[Changes/GitHub Copilot CLI/2026-02-03-2-account-and-access-changes-in-v0-0-401|2
+  Account and Access changes in v0.0.401]]'
+- '[[Changes/Codex CLI/2026-02-05-2-account-and-access-changes-in-rust-v0-98-0|2 Account
+  and Access changes in rust-v0.98.0]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-02-06-v2-1-33-github-283581096-0f5b01a0|claude-code-2026-02-06-v2-1-33-github-283581096-0f5b01a0]]'
 source_type: github_releases
 theme: account-access
@@ -94,8 +94,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Account and Access
 
-- Earlier: 2026-02-03 · Claude Code · [[Changes/Claude Code/2026-02-03-added-pre-configured-oauth-client-credentials-for-mcp-servers-that-don-t-support|Added pre-configured OAuth client credentials for MCP servers that don't support…]]
-- Later: 2026-02-13 · Claude Code · [[Changes/Claude Code/2026-02-13-added-claude-auth-login-claude-auth-status-and-claude-auth-logout-cli-subcommand|Added claude auth login, claude auth status, and claude auth logout CLI subcommands]]
+- Earlier: 2026-02-05 · Codex CLI · [[Changes/Codex CLI/2026-02-05-2-account-and-access-changes-in-rust-v0-98-0|2 Account and Access changes in rust-v0.98.0]]
+- Later: 2026-02-10 · Gemini CLI · [[Changes/Gemini CLI/2026-02-10-test-core-mock-fetch-in-oauth-transport-fallback-tests-by-jw409-in-https-github|test(core): mock fetch in OAuth transport fallback tests]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

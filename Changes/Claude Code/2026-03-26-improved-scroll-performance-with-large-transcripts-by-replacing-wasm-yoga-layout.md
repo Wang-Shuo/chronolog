@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: a91a009574a2fb196bc03a109acb95963021d6fee428b4b8f0f233f9fead7097
+machine_hash: 49a2b48b66cba7ce8a6d387b650338a27f0dc86fa3836cd6880123440abb8c26
 product: claude-code
 product_name: Claude Code
 record:
@@ -42,8 +42,8 @@ record:
   title: Improved scroll performance with large transcripts by replacing WASM yoga-layout…
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-03-19-composer-2-is-now-available-in-cursor-frontier-level-coding-performance-with-str|Composer
-  2 is now available in Cursor]]'
+- '[[Changes/GitHub Copilot CLI/2026-03-20-reduced-memory-usage-when-viewing-large-files-in-their-entirety|Reduced
+  memory usage when viewing large files in their entirety]]'
 - '[[Changes/Claude Code/2026-03-25-3-reliability-and-performance-changes-in-v2-1-83|3
   Reliability and Performance changes in v2.1.83]]'
 - '[[Changes/Claude Code/2026-03-26-2-reliability-and-performance-changes-in-v2-1-84|2
@@ -84,7 +84,7 @@ type: change
 ## Nearby in Reliability and Performance
 
 - Earlier: 2026-03-26 · Claude Code · [[Changes/Claude Code/2026-03-26-2-reliability-and-performance-changes-in-v2-1-84|2 Reliability and Performance changes in v2.1.84]]
-- Later: 2026-04-01 · Claude Code · [[Changes/Claude Code/2026-04-01-2-reliability-and-performance-changes-in-v2-1-90|2 Reliability and Performance changes in v2.1.90]]
+- Later: 2026-03-26 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-03-26-cli-no-longer-crashes-with-out-of-memory-errors-when-running-shell-commands-that|CLI no longer crashes with out-of-memory errors when running shell commands…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: ba017dbeeefaebe467f745af2b282fe4c3722907bdd6e6b970306cab3f123007
+machine_hash: 24a3d2f12495503cefcdbd4c2fdce6070f96633a8bc5e41eb2805624dae5bb9c
 product: claude-code
 product_name: Claude Code
 record:
@@ -44,10 +44,10 @@ record:
   title: 2 Developer Workflow changes in v2.1.161
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-05-28-status-line-commands-now-receive-columns-and-lines-environment-variables-so-scri|Status
-  line commands now receive COLUMNS and LINES environment variables…]]'
-- '[[Changes/Claude Code/2026-05-29-3-developer-workflow-changes-in-v2-1-157|3 Developer
-  Workflow changes in v2.1.157]]'
+- '[[Changes/Codex CLI/2026-06-01-11-developer-workflow-changes-in-rust-v0-136-0|11
+  Developer Workflow changes in rust-v0.136.0]]'
+- '[[Changes/GitHub Copilot CLI/2026-06-01-lsp-show-lsp-test-and-lsp-reload-correctly-discover-project-lsp-config-when-the|/lsp
+  show, /lsp test, and /lsp reload correctly discover project LSP config…]]'
 - '[[Changes/Claude Code/2026-06-02-2-developer-workflow-changes-in-v2-1-160|2 Developer
   Workflow changes in v2.1.160]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-06-02-v2-1-161-github-333271302-7337e6fa|claude-code-2026-06-02-v2-1-161-github-333271302-7337e6fa]]'
@@ -87,7 +87,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.161
 ## Nearby in Developer Workflow
 
 - Earlier: 2026-06-02 · Claude Code · [[Changes/Claude Code/2026-06-02-2-developer-workflow-changes-in-v2-1-160|2 Developer Workflow changes in v2.1.160]]
-- Later: 2026-06-03 · Claude Code · [[Changes/Claude Code/2026-06-03-tools-explicitly-listing-grep-glob-now-provides-the-dedicated-search-tools-on-na|--tools: explicitly listing Grep/Glob now provides the dedicated search tools…]]
+- Later: 2026-06-02 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-06-02-experimental-new-ui-with-easy-access-to-issues-pull-requests-and-gists|/experimental new UI with easy access to issues, pull requests, and gists]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

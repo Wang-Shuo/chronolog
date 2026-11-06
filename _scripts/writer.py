@@ -690,7 +690,6 @@ TIMELINE_SIGNAL_KINDS = ("launch", "expansion", "pricing", "policy")
 TIMELINE_YEAR_OPEN_MAX = 5
 TIMELINE_LEAD = ("Launches, expansions, pricing and policy changes and standalone announcements "
                  "come first in each year; fixes, digests and other changes are folded beneath them.")
-TIMELINE_FILTER_PRODUCTS = 8  # site_title.tsx styles filters for up to this many products
 
 
 def timeline_signal(card: dict[str, Any]) -> bool:
@@ -754,7 +753,7 @@ def theme_timeline(
     if not cards:
         return "No changes yet."
     names = product_names or sorted({card["product_name"] for card in cards})
-    filtered = 1 < len(names) <= TIMELINE_FILTER_PRODUCTS
+    filtered = len(names) > 1
     product_index = {name: index for index, name in enumerate(names, start=1)} if filtered else {}
     blocks: list[str] = []
     for year in sorted({card["date"][:4] for card in cards}, reverse=True):
@@ -882,12 +881,13 @@ def change_description(
 # would be parsed as a tag and vanish from the page.
 TAG_LIKE_RE = re.compile(r"<(?=[A-Za-z/!?])")
 CODE_SPAN_RE = re.compile(r"(`+[^`]*`+)")
+WWW_LINK_RE = re.compile(r"(\]\(\s*)(www\.[^\s)]+)")
 
 
 def quote_markdown(quote: str) -> str:
     """A source quote with tag-like ``<`` escaped outside inline code spans."""
     return "".join(
-        part if part.startswith("`") else TAG_LIKE_RE.sub(r"\\<", part)
+        part if part.startswith("`") else WWW_LINK_RE.sub(r"\1https://\2", TAG_LIKE_RE.sub(r"\\<", part))
         for part in CODE_SPAN_RE.split(str(quote))
     )
 
@@ -1483,6 +1483,8 @@ def window_start(end: str, days: int) -> str:
 
 
 def site_lead(product_names: list[str]) -> str:
+    if len(product_names) > 3:
+        return "Tracked changes in AI assistants and coding tools, from official release notes."
     scope = f" in {natural_join(product_names)}" if product_names else ""
     return f"Tracked changes{scope}, from official release notes."
 

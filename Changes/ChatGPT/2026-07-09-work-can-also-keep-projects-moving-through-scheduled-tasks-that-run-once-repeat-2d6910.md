@@ -5,20 +5,20 @@ description: 'ChatGPT · 2026-07-09 · Automation and Scheduling: Work can also 
   projects moving through Scheduled Tasks that run once, repeat on a schedule or trigger,
   or…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2025-01-14-today-we-re-rolling-out-a-beta-version-of-tasks-a-new-way-to-ask-chatgpt-to-do-t-2d33b6|Scheduled
-    tasks in ChatGPT]]'
+  first_in_tracked: '[[Changes/OpenHands/2024-09-04-better-syntax-error-loop-detection-by-tobitege-in-https-github-com-all-hands-ai|Better
+    syntax error loop detection]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 541
+  lag_days: 673
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: f200e865962b4345a105617de09ee5e849181228c93eb53ad94207d4c667cb2d
+machine_hash: 562dbc1c1d7611ab1d9878f73f243130a3c3d75e21d08c766e08320a123fc888
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -49,11 +49,12 @@ record:
     repeat…
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-06-18-automate-skill-6bab3b|/automate skill]]'
-- '[[Changes/Cursor/2026-06-18-react-to-any-slack-message-with-a-designated-emoji-to-kick-off-an-automation-at|An
-  emoji trigger for Slack]]'
-- '[[Changes/Cursor/2026-06-18-2-automation-and-scheduling-changes-in-06-18-26|2 Automation
-  and Scheduling changes in 06.18.26]]'
+- '[[Changes/GitHub Copilot CLI/2026-06-30-pr-auto-now-starts-a-self-paced-loop-that-fixes-one-thing-per-run-and-paces-itse|/pr
+  auto now starts a self-paced loop that fixes one thing per run and paces itself…]]'
+- '[[Changes/OpenHands/2026-07-06-2-automation-and-scheduling-changes-in-1-9-0|2 Automation
+  and Scheduling changes in 1.9.0]]'
+- '[[Changes/Codex CLI/2026-07-08-30508-revert-make-auto-review-on-request-prompt-more-proactive-dylan-hurd-oai|♯30508
+  Revert "Make auto-review on-request prompt more proactive" @dylan-hurd-oai]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-07-09-introducing-chatgpt-work-eff9f272|chatgpt-2026-07-09-introducing-chatgpt-work-eff9f272]]'
 source_type: chatgpt_changelog
 theme: automation-scheduling
@@ -86,14 +87,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Automation and Scheduling
 
-- Earlier: 2026-06-18 · Cursor · [[Changes/Cursor/2026-06-18-2-automation-and-scheduling-changes-in-06-18-26|2 Automation and Scheduling changes in 06.18.26]]
-- Later: 2026-08-13 · Claude Code · [[Changes/Claude Code/2026-08-13-pasted-and-clipboard-images-are-read-without-blocking-the-event-loop|Pasted and clipboard images are read without blocking the event loop]]
+- Earlier: 2026-07-08 · Codex CLI · [[Changes/Codex CLI/2026-07-08-30508-revert-make-auto-review-on-request-prompt-more-proactive-dylan-hurd-oai|♯30508 Revert "Make auto-review on-request prompt more proactive" @dylan-hurd-oai]]
+- Later: 2026-07-22 · Gemini CLI · [[Changes/Gemini CLI/2026-07-22-feat-caretaker-triage-implement-main-worker-execution-loop-and-egress-action-pub|feat(caretaker-triage): implement main worker execution loop and egress action publisher]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2025-01-14 · ChatGPT · [[Changes/ChatGPT/2025-01-14-today-we-re-rolling-out-a-beta-version-of-tasks-a-new-way-to-ask-chatgpt-to-do-t-2d33b6|Scheduled tasks in ChatGPT]]
+- Earliest same-theme entry in the tracked set: 2024-09-04 · OpenHands · [[Changes/OpenHands/2024-09-04-better-syntax-error-loop-detection-by-tobitege-in-https-github-com-all-hands-ai|Better syntax error loop detection]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

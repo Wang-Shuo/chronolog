@@ -1,0 +1,79 @@
+---
+card_id: codex-cli-2026-02-05-ce304f
+date: '2026-02-05'
+description: 'Codex CLI · 2026-02-05 · Other changes: 2 changes in 0.98.0 — #10709
+  fix: ensure resume args precede image args @cryptonerdcn'
+evolves_from: []
+extractor_version: fallback-v5
+impact: incremental
+kind: digest
+machine_hash: 1c3382d3264828b476fbec69402ab48471233d19404234a6f5ba9fe911d7b3cb
+product: codex-cli
+product_name: Codex CLI
+record:
+  card_id: codex-cli-2026-02-05-ce304f
+  comparison: ''
+  date: '2026-02-05'
+  description: 'Codex CLI — 0.98.0: 2 other changes'
+  evidence:
+  - quote: '#10709 fix: ensure resume args precede image args @cryptonerdcn'
+    source_release: https://github.com/openai/codex/releases/tag/rust-v0.98.0
+  - quote: '#10690 Make steer stable by default @aibrahim-oai'
+    source_release: https://github.com/openai/codex/releases/tag/rust-v0.98.0
+  extractor_version: fallback-v5
+  impact: incremental
+  kind: digest
+  product: codex-cli
+  product_name: Codex CLI
+  slug: 2-other-changes-in-rust-v0-98-0
+  source_release: codex-cli-2026-02-05-rust-v0-98-0-github-283440153-81972c92
+  source_type: github_releases
+  theme: uncategorized
+  title: 2 other changes in rust-v0.98.0
+  type: change
+source_release: '[[Releases/Codex CLI/codex-cli-2026-02-05-rust-v0-98-0-github-283440153-81972c92|codex-cli-2026-02-05-rust-v0-98-0-github-283440153-81972c92]]'
+source_type: github_releases
+theme: uncategorized
+title: 2 other changes in rust-v0.98.0
+type: change
+---
+
+<!-- chronolog:begin region="header" -->
+# 2 other changes in rust-v0.98.0
+
+**Codex CLI** · 2026-02-05 · Other changes · Digest · [Official source](https://github.com/openai/codex/releases/tag/rust-v0.98.0) · from [[Releases/Codex CLI/codex-cli-2026-02-05-rust-v0-98-0-github-283440153-81972c92|0.98.0]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="evidence" -->
+## Changes in this digest
+
+> #10709 fix: ensure resume args precede image args @cryptonerdcn
+
+> #10690 Make steer stable by default @aibrahim-oai
+
+Source: https://github.com/openai/codex/releases/tag/rust-v0.98.0
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="context" -->
+## Also in this release
+
+- [[Changes/Codex CLI/2026-02-05-steer-mode-is-now-stable-and-enabled-by-default-so-enter-sends-immediately-durin|Steer mode is now stable and enabled by default, so Enter sends immediately during…]] · Editor Experience
+- [[Changes/Codex CLI/2026-02-05-2-model-support-changes-in-rust-v0-98-0|2 Model Support changes in rust-v0.98.0]] · Model Support
+- [[Changes/Codex CLI/2026-02-05-introducing-gpt-5-3-codex-learn-more-https-openai-com-index-introducing-gpt-5-3|Introducing GPT-5.3-Codex]] · Model Support
+- [[Changes/Codex CLI/2026-02-05-2-collaboration-changes-in-rust-v0-98-0|2 Collaboration changes in rust-v0.98.0]] · Collaboration
+- [[Changes/Codex CLI/2026-02-05-10692-fix-remote-compaction-estimator-payload-instruction-small-mismatch-charley|♯10692 Fix remote compaction estimator/payload instruction small mismatch @charley-oai]] · Context Window
+- [[Changes/Codex CLI/2026-02-05-2-account-and-access-changes-in-rust-v0-98-0|2 Account and Access changes in rust-v0.98.0]] · Account and Access
+- [[Changes/Codex CLI/2026-02-05-2-memory-and-personalization-changes-in-rust-v0-98-0|2 Memory and Personalization changes in rust-v0.98.0]] · Memory and Personalization
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="nearby" -->
+
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="relations" -->
+
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="footer" -->
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20codex-cli-2026-02-05-ce304f&body=Card%3A%20Changes%2FCodex%20CLI%2F2026-02-05-2-other-changes-in-rust-v0-98-0.md%0ACard%20ID%3A%20codex-cli-2026-02-05-ce304f%0ASource%3A%20https%3A%2F%2Fgithub.com%2Fopenai%2Fcodex%2Freleases%2Ftag%2Frust-v0.98.0%0A%0AWhat%20should%20be%20corrected%3F%0A)
+<!-- chronolog:end -->

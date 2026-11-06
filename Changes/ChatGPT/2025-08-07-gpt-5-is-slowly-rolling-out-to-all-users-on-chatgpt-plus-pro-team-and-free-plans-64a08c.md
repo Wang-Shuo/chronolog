@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: d82e996f07663944d77b5e5eee7529e789fbe8df50d52d691b77b2bc32597e5d
+machine_hash: 9451b4104aa81aa39996869ce6febf87bc79bf42dc2f78217805ce5f07ab791c
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -79,11 +79,11 @@ record:
   title: GPT-5
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2025-06-16-enterprise-and-edu-users-can-also-now-choose-from-the-full-set-of-chatgpt-models-1ea372|Expanded
-  Model Support for Custom GPTs]]'
-- '[[Changes/Cursor/2025-07-03-improved-embeddings-for-semantic-search|Improved embeddings
-  for semantic search]]'
+- '[[Changes/Cline/2025-08-06-add-prompt-caching-for-opus-4-1-by-saoudrizwan-in-https-github-com-cline-cline-p|Add
+  prompt caching for Opus 4.1]]'
 - '[[Changes/Cursor/2025-08-06-separate-models-per-agent|Separate models per Agent]]'
+- '[[Changes/Gemini CLI/2025-08-06-20-model-support-changes-in-v0-1-18|20 Model Support
+  changes in v0.1.18]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-08-07-gpt-5-a50b91bc|chatgpt-2025-08-07-gpt-5-a50b91bc]]'
 source_type: chatgpt_changelog
 theme: model-support
@@ -110,8 +110,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2025-08-06 · Cursor · [[Changes/Cursor/2025-08-06-separate-models-per-agent|Separate models per Agent]]
-- Later: 2025-08-12 · ChatGPT · [[Changes/ChatGPT/2025-08-12-gmail-google-calendar-and-google-contacts-are-now-available-to-connect-and-use-i-9ea6d6|Gmail, Google Calendar, and Google Contacts Connectors in ChatGPT (Pro)]]
+- Earlier: 2025-08-06 · Gemini CLI · [[Changes/Gemini CLI/2025-08-06-20-model-support-changes-in-v0-1-18|20 Model Support changes in v0.1.18]]
+- Later: 2025-08-07 · Cline · [[Changes/Cline/2025-08-07-pashpashpash-gpt-5-release-by-pashpashpash-in-https-github-com-cline-cline-pull|Pashpashpash/gpt 5 release]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

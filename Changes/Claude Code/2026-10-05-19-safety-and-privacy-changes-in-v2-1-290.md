@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 314f0bce6cb59ed2755767a86e764b7a3e9eb82f0e53cf4ed444bc4c879c0450
+machine_hash: e7aa9268580dcc0930b78abd4e50008075cb45662422d23cddc3b44dc3a8e3ba
 product: claude-code
 product_name: Claude Code
 record:
@@ -98,10 +98,10 @@ record:
   title: 19 Safety and Privacy changes in v2.1.290
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-30-4-safety-and-privacy-changes-in-v2-1-286|4 Safety
-  and Privacy changes in v2.1.286]]'
-- '[[Changes/Claude Code/2026-10-01-6-safety-and-privacy-changes-in-v2-1-287|6 Safety
-  and Privacy changes in v2.1.287]]'
+- '[[Changes/Codex CLI/2026-10-01-7-safety-and-privacy-changes-in-rust-v0-160-0|7
+  Safety and Privacy changes in rust-v0.160.0]]'
+- '[[Changes/GitHub Copilot CLI/2026-10-01-2-safety-and-privacy-changes-in-v1-0-91|2
+  Safety and Privacy changes in v1.0.91]]'
 - '[[Changes/Claude Code/2026-10-02-6-safety-and-privacy-changes-in-v2-1-288|6 Safety
   and Privacy changes in v2.1.288]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-10-05-v2-1-290-github-403993621-ae06f2b6|claude-code-2026-10-05-v2-1-290-github-403993621-ae06f2b6]]'
@@ -182,7 +182,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.290
 ## Nearby in Safety and Privacy
 
 - Earlier: 2026-10-02 · Claude Code · [[Changes/Claude Code/2026-10-02-6-safety-and-privacy-changes-in-v2-1-288|6 Safety and Privacy changes in v2.1.288]]
-- Later: 2026-10-06 · Claude Code · [[Changes/Claude Code/2026-10-06-6-safety-and-privacy-changes-in-v2-1-292|6 Safety and Privacy changes in v2.1.292]]
+- Later: 2026-10-05 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-10-05-4-safety-and-privacy-changes-in-v1-0-92|4 Safety and Privacy changes in v1.0.92]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

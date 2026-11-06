@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 64e31f7cbd00bf6fbcb14dded387535bac0c219765f8051e17b631cc4b9c374d
+machine_hash: 2d2c2052da3830b07b39179077780e31d9729128887c140973a6fa6021ab5754
 product: claude-code
 product_name: Claude Code
 record:
@@ -62,10 +62,9 @@ record:
   title: 6 Mobile and Desktop changes in v2.1.285
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-23-2-mobile-and-desktop-changes-in-v2-1-281|2 Mobile
-  and Desktop changes in v2.1.281]]'
-- '[[Changes/Claude Code/2026-09-24-improved-the-error-shown-on-windows-when-a-session-can-t-be-resumed-because-its|Improved
-  the error shown on Windows when a session can''t be resumed because…]]'
+- '[[Changes/Windsurf/2026-09-24-devin-desktop|Devin Desktop]]'
+- '[[Changes/Codex CLI/2026-09-28-3-mobile-and-desktop-changes-in-rust-v0-158-0|3
+  Mobile and Desktop changes in rust-v0.158.0]]'
 - '[[Changes/ChatGPT/2026-09-29-site-owners-and-editors-on-plus-and-pro-can-select-edit-site-from-a-published-si|Site
   owners and editors on Plus and Pro can select Edit site from a published Site…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-29-v2-1-285-github-399375132-96b3ffbc|claude-code-2026-09-29-v2-1-285-github-399375132-96b3ffbc]]'
@@ -121,7 +120,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.285
 ## Nearby in Mobile and Desktop
 
 - Earlier: 2026-09-29 · ChatGPT · [[Changes/ChatGPT/2026-09-29-site-owners-and-editors-on-plus-and-pro-can-select-edit-site-from-a-published-si|Site owners and editors on Plus and Pro can select Edit site from a published Site…]]
-- Later: 2026-10-01 · Claude Code · [[Changes/Claude Code/2026-10-01-2-mobile-and-desktop-changes-in-v2-1-287|2 Mobile and Desktop changes in v2.1.287]]
+- Later: 2026-09-29 · Codex CLI · [[Changes/Codex CLI/2026-09-29-4-mobile-and-desktop-changes-in-rust-v0-159-0|4 Mobile and Desktop changes in rust-v0.159.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

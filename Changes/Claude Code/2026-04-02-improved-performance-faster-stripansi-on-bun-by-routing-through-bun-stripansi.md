@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 00e3adaaafff2463f9ba4d2d79d6b4530ef8f79397294872961bc47421acfbb5
+machine_hash: 103327bdc216deb877b7577e0df092dab7e608356edd5d45bd38530733e4fbf1
 product: claude-code
 product_name: Claude Code
 record:
@@ -41,12 +41,12 @@ record:
   title: 'Improved performance: faster `stripAnsi` on Bun by routing through `Bun.stripANSI`'
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-03-26-2-reliability-and-performance-changes-in-v2-1-84|2
-  Reliability and Performance changes in v2.1.84]]'
-- '[[Changes/Claude Code/2026-03-26-improved-scroll-performance-with-large-transcripts-by-replacing-wasm-yoga-layout|Improved
-  scroll performance with large transcripts by replacing WASM yoga-layout…]]'
 - '[[Changes/Claude Code/2026-04-01-2-reliability-and-performance-changes-in-v2-1-90|2
   Reliability and Performance changes in v2.1.90]]'
+- '[[Changes/Gemini CLI/2026-04-01-perf-cli-background-ide-client-to-speed-up-initialization-by-sehoon38-in-https-g|perf(cli):
+  background IDE client to speed up initialization]]'
+- '[[Changes/GitHub Copilot CLI/2026-04-01-improved-performance-of-expand-collapse-ctrl-e-ctrl-o-in-alt-screen-mode-for-lon|Improved
+  performance of expand/collapse (ctrl+e, ctrl+o) in alt-screen mode for long…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-04-02-v2-1-91-github-304899951-a56266fc|claude-code-2026-04-02-v2-1-91-github-304899951-a56266fc]]'
 source_type: github_releases
 theme: reliability-performance
@@ -78,7 +78,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2026-04-01 · Claude Code · [[Changes/Claude Code/2026-04-01-2-reliability-and-performance-changes-in-v2-1-90|2 Reliability and Performance changes in v2.1.90]]
+- Earlier: 2026-04-01 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-04-01-improved-performance-of-expand-collapse-ctrl-e-ctrl-o-in-alt-screen-mode-for-lon|Improved performance of expand/collapse (ctrl+e, ctrl+o) in alt-screen mode for long…]]
 - Later: 2026-04-02 · Cursor · [[Changes/Cursor/2026-04-02-large-file-diff-rendering-is-now-much-faster-smoother-and-less-memory-heavy|Large-file diff rendering is now much faster, smoother, and less memory-heavy]]
 <!-- chronolog:end -->
 

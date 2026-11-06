@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 8ea22f43c8eb42ca05b080871c739b6956a57d66d6ab1829eefd081d1037cd10
+machine_hash: a11bf96f40a173f478b8fbc57cdf3fe445255d3de5c426588710fba96c900e73
 product: cursor
 product_name: Cursor
 record:
@@ -45,12 +45,12 @@ record:
   title: Enterprise customers can now manage multiple Cursor teams from one place…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-05-29-2-safety-and-privacy-changes-in-v2-1-157|2 Safety
-  and Privacy changes in v2.1.157]]'
 - '[[Changes/ChatGPT/2026-06-02-we-re-rolling-out-active-sessions-a-new-security-feature-in-chatgpt-that-helps-u-51e977|ChatGPT
   rolls out Active sessions, a new security feature that helps users review…]]'
 - '[[Changes/Claude Code/2026-06-03-4-safety-and-privacy-changes-in-v2-1-162|4 Safety
   and Privacy changes in v2.1.162]]'
+- '[[Changes/Cline/2026-06-03-update-vs-code-extension-dependencies-to-resolve-security-issues-in-xmldom-xmldo|Update
+  VS Code extension dependencies to resolve security issues…]]'
 source_release: '[[Releases/Cursor/cursor-2026-06-03-organizations-for-cursor-enterprise-https-cursor-com-changelog-e-b5c7f576|cursor-2026-06-03-organizations-for-cursor-enterprise-https-cursor-com-changelog-e-b5c7f576]]'
 source_type: cursor_changelog
 theme: safety-privacy
@@ -84,7 +84,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Safety and Privacy
 
-- Earlier: 2026-06-03 · Claude Code · [[Changes/Claude Code/2026-06-03-4-safety-and-privacy-changes-in-v2-1-162|4 Safety and Privacy changes in v2.1.162]]
+- Earlier: 2026-06-03 · Cline · [[Changes/Cline/2026-06-03-update-vs-code-extension-dependencies-to-resolve-security-issues-in-xmldom-xmldo|Update VS Code extension dependencies to resolve security issues…]]
 - Later: 2026-06-04 · ChatGPT · [[Changes/ChatGPT/2026-06-04-lockdown-mode-is-now-available-to-all-logged-in-users-across-account-types-and-w|Lockdown Mode is now available to all logged-in users]]
 <!-- chronolog:end -->
 

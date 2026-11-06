@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: a98f59851a631484231b5460d59b6cc4d843a46e78d07d135caa31df7bba99bd
+machine_hash: fdd92e40ef7853650c3e5313240a0748db923d97317b4971ec911f5de7baa0bc
 product: claude-code
 product_name: Claude Code
 record:
@@ -44,12 +44,12 @@ record:
   title: Added `X-Claude-Code-Session-Id` header to API requests so proxies can aggregate…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-03-20-4-developer-workflow-changes-in-v2-1-81|4 Developer
-  Workflow changes in v2.1.81]]'
-- '[[Changes/Claude Code/2026-03-26-5-developer-workflow-changes-in-v2-1-84|5 Developer
-  Workflow changes in v2.1.84]]'
 - '[[Changes/Claude Code/2026-03-26-improved-powershell-dangerous-command-detection|Improved
   PowerShell dangerous command detection]]'
+- '[[Changes/Codex CLI/2026-03-26-19-developer-workflow-changes-in-rust-v0-117-0|19
+  Developer Workflow changes in rust-v0.117.0]]'
+- '[[Changes/GitHub Copilot CLI/2026-03-26-2-developer-workflow-changes-in-v1-0-12|2
+  Developer Workflow changes in v1.0.12]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-03-27-v2-1-86-github-302569462-d6b30859|claude-code-2026-03-27-v2-1-86-github-302569462-d6b30859]]'
 source_type: github_releases
 theme: developer-workflow
@@ -85,8 +85,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2026-03-26 · Claude Code · [[Changes/Claude Code/2026-03-26-improved-powershell-dangerous-command-detection|Improved PowerShell dangerous command detection]]
-- Later: 2026-04-01 · Claude Code · [[Changes/Claude Code/2026-04-01-4-developer-workflow-changes-in-v2-1-89|4 Developer Workflow changes in v2.1.89]]
+- Earlier: 2026-03-26 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-03-26-2-developer-workflow-changes-in-v1-0-12|2 Developer Workflow changes in v1.0.12]]
+- Later: 2026-03-30 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-03-30-2-developer-workflow-changes-in-v1-0-13|2 Developer Workflow changes in v1.0.13]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

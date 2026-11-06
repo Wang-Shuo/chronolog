@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 8fb4a05b71a1376cd3b4e2f9ff5118f9643b0b2c78a3f0e81c5e3d5e69a896f6
+machine_hash: dc0fa52f5203f54c139f7f08d51cb571add91ee1da926dc35e8089ce4a50f910
 product: cursor
 product_name: Cursor
 record:
@@ -45,10 +45,10 @@ record:
   title: Bug fix for people on language packs
   type: change
 related_changes:
-- '[[Changes/Cursor/2023-08-03-also-the-linter-is-slightly-improved|In-editor chat
-  is back!]]'
 - '[[Changes/Cursor/2023-08-17-the-cursor-nightly-command-now-works-on-mac|The cursor-nightly
   command now works on Mac]]'
+- '[[Changes/Aider/2023-08-22-improved-foo-no-foo-switch-handling-for-command-line-and-yml-config-settings|Improved
+  --foo/--no-foo switch handling for command line and yml config settings]]'
 - '[[Changes/Cursor/2023-08-22-applies-the-patch-from-github-across-all-your-wsl-windows-subsystem-for-linux-di|WSL
   Fixes]]'
 source_release: '[[Releases/Cursor/cursor-2023-08-26-0-8-3-nightly-https-cursor-com-changelog-0-8-3-nightly-e8ac9c3e|cursor-2023-08-26-0-8-3-nightly-https-cursor-com-changelog-0-8-3-nightly-e8ac9c3e]]'

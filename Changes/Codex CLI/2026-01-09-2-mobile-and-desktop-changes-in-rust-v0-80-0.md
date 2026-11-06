@@ -1,0 +1,104 @@
+---
+card_id: codex-cli-2026-01-09-b71885
+date: '2026-01-09'
+description: 'Codex CLI · 2026-01-09 · Mobile and Desktop: 2 changes in 0.80.0 — #8691
+  Avoid setpgid for inherited stdio on macOS @seeekr'
+diffusion:
+  first_in_tracked: "[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
+    and Linux support \U0001F973]]"
+  inference: No adoption, equivalence, or causation claim.
+  lag_days: 1032
+  relation: same-theme-chronology
+  role: later-observed
+  scope: tracked-products-only
+  theme: mobile-desktop
+  tracked_products_count: 10
+evolves_from: []
+extractor_version: fallback-v5
+impact: incremental
+kind: digest
+machine_hash: e779927710b40120694925f2d9bdb26236cff298ed7a422e602096187fc07e67
+product: codex-cli
+product_name: Codex CLI
+record:
+  card_id: codex-cli-2026-01-09-b71885
+  comparison: ''
+  date: '2026-01-09'
+  description: 'Codex CLI — 0.80.0: 2 Mobile and Desktop changes'
+  evidence:
+  - quote: '#8691 Avoid setpgid for inherited stdio on macOS @seeekr'
+    source_release: https://github.com/openai/codex/releases/tag/rust-v0.80.0
+  - quote: '#8897 fix: preserve core env vars on Windows @tibo-openai'
+    source_release: https://github.com/openai/codex/releases/tag/rust-v0.80.0
+  extractor_version: fallback-v5
+  impact: incremental
+  kind: digest
+  product: codex-cli
+  product_name: Codex CLI
+  slug: 2-mobile-and-desktop-changes-in-rust-v0-80-0
+  source_release: codex-cli-2026-01-09-rust-v0-80-0-github-275597320-df7b3faf
+  source_type: github_releases
+  theme: mobile-desktop
+  title: 2 Mobile and Desktop changes in rust-v0.80.0
+  type: change
+related_changes:
+- '[[Changes/Codex CLI/2025-12-19-4-mobile-and-desktop-changes-in-rust-v0-76-0|4 Mobile
+  and Desktop changes in rust-v0.76.0]]'
+- '[[Changes/Codex CLI/2026-01-06-8743-macos-load-config-requirements-from-mdm-gt-oai|♯8743
+  (MacOS) Load config requirements from MDM @gt-oai]]'
+- '[[Changes/Claude Code/2026-01-09-added-support-for-windows-package-manager-winget-installations-with-automatic-de|Added
+  support for Windows Package Manager (winget) installations with automatic…]]'
+source_release: '[[Releases/Codex CLI/codex-cli-2026-01-09-rust-v0-80-0-github-275597320-df7b3faf|codex-cli-2026-01-09-rust-v0-80-0-github-275597320-df7b3faf]]'
+source_type: github_releases
+theme: mobile-desktop
+title: 2 Mobile and Desktop changes in rust-v0.80.0
+type: change
+---
+
+<!-- chronolog:begin region="header" -->
+# 2 Mobile and Desktop changes in rust-v0.80.0
+
+**Codex CLI** · 2026-01-09 · [[Themes/mobile-desktop|Mobile and Desktop]] · Digest · [Official source](https://github.com/openai/codex/releases/tag/rust-v0.80.0) · from [[Releases/Codex CLI/codex-cli-2026-01-09-rust-v0-80-0-github-275597320-df7b3faf|0.80.0]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="evidence" -->
+## Changes in this digest
+
+> #8691 Avoid setpgid for inherited stdio on macOS @seeekr
+
+> #8897 fix: preserve core env vars on Windows @tibo-openai
+
+Source: https://github.com/openai/codex/releases/tag/rust-v0.80.0
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="context" -->
+## Also in this release
+
+- [[Changes/Codex CLI/2026-01-09-2-apps-and-integrations-changes-in-rust-v0-80-0|2 Apps and Integrations changes in rust-v0.80.0]] · Apps and Integrations
+- [[Changes/Codex CLI/2026-01-09-2-agent-mode-changes-in-rust-v0-80-0|2 Agent Mode changes in rust-v0.80.0]] · Agent Mode
+- [[Changes/Codex CLI/2026-01-09-codex-cli-subprocesses-again-inherit-env-vars-like-ld-library-path-dyld-library|Codex CLI subprocesses again inherit env vars like…]] · Reliability and Performance
+- [[Changes/Codex CLI/2026-01-09-8939-chore-move-app-server-tests-from-chat-completion-to-responses-celia-oai|♯8939 chore move app server tests from chat completion to responses @celia-oai]] · Editor Experience
+- [[Changes/Codex CLI/2026-01-09-app-server-readme-now-documents-skills-support-and-usage-8853|App-server README now documents skills support and usage]] · Files and Data
+- [[Changes/Codex CLI/2026-01-09-4-developer-workflow-changes-in-rust-v0-80-0|4 Developer Workflow changes in rust-v0.80.0]] · Developer Workflow
+- [[Changes/Codex CLI/2026-01-09-4-model-support-changes-in-rust-v0-80-0|4 Model Support changes in rust-v0.80.0]] · Model Support
+- [[Changes/Codex CLI/2026-01-09-3-interface-experience-changes-in-rust-v0-80-0|3 Interface Experience changes in rust-v0.80.0]] · Interface Experience
+- [[Changes/Codex CLI/2026-01-09-2-safety-and-privacy-changes-in-rust-v0-80-0|2 Safety and Privacy changes in rust-v0.80.0]] · Safety and Privacy
+- [[Changes/Codex CLI/2026-01-09-62-other-changes-in-rust-v0-80-0|62 other changes in rust-v0.80.0]] · Other changes
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="nearby" -->
+## Nearby in Mobile and Desktop
+
+- Earlier: 2026-01-09 · Claude Code · [[Changes/Claude Code/2026-01-09-added-support-for-windows-package-manager-winget-installations-with-automatic-de|Added support for Windows Package Manager (winget) installations with automatic…]]
+- Later: 2026-01-14 · Codex CLI · [[Changes/Codex CLI/2026-01-14-2-mobile-and-desktop-changes-in-rust-v0-81-0|2 Mobile and Desktop changes in rust-v0.81.0]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="relations" -->
+## Related
+
+- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows and Linux support 🥳]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="footer" -->
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20codex-cli-2026-01-09-b71885&body=Card%3A%20Changes%2FCodex%20CLI%2F2026-01-09-2-mobile-and-desktop-changes-in-rust-v0-80-0.md%0ACard%20ID%3A%20codex-cli-2026-01-09-b71885%0ASource%3A%20https%3A%2F%2Fgithub.com%2Fopenai%2Fcodex%2Freleases%2Ftag%2Frust-v0.80.0%0A%0AWhat%20should%20be%20corrected%3F%0A)
+<!-- chronolog:end -->

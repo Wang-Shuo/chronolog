@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: d9d5948eed8062e572f578a6137a0cff85e697d14aca389e2e359709f8e890da
+machine_hash: 575544d699528fc9919df2e9f726f89d704c085f9a1f7a2d32103f398f2b102e
 product: cursor
 product_name: Cursor
 record:
@@ -84,7 +84,7 @@ type: change
 ## Nearby in Editor Experience
 
 - Earlier: 2024-01-03 · Cursor · [[Changes/Cursor/2024-01-03-hold-down-command-press-and-release-shift-and-continue-holding-down-command-this|Early Preview: Hold-cmd-tap-shift to Trigger AI Rewrite]]
-- Later: 2024-01-18 · Cursor · [[Changes/Cursor/2024-01-18-more-chat-symbol-links-when-the-chat-references-a-code-symbol-you-ll-often-be-ab|More chat symbol links]]
+- Later: 2024-01-08 · Aider · [[Changes/Aider/2024-01-08-improvements-to-unified-diff-editing-format|Improvements to unified diff editing format]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

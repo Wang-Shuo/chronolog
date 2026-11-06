@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: db1388bdea61d5b934c402eb6194c2d11d97c7cc92a6c632e58dee6fce361609
+machine_hash: fbe381df4497f2eeff970c4be244c260cd462026b18e9615bc4577aca8ad20e6
 product: cursor
 product_name: Cursor
 record:
@@ -42,12 +42,12 @@ record:
   title: 2 Editor Experience changes in 3.0
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-03-25-3-editor-experience-changes-in-v2-1-83|3 Editor
-  Experience changes in v2.1.83]]'
-- '[[Changes/Claude Code/2026-03-27-added-jj-and-sl-to-vcs-directory-exclusion-lists-so-grep-and-file-autocomplete-d|Added
-  .jj and .sl to VCS directory exclusion lists so Grep and file autocomplete…]]'
 - '[[Changes/Claude Code/2026-04-01-changed-edit-to-work-on-files-viewed-via-bash-with-sed-n-or-cat-without-requirin|Changed
   Edit to work on files viewed via Bash with sed -n or cat, without…]]'
+- '[[Changes/Gemini CLI/2026-04-01-refactor-ide-replace-dynamic-undici-import-with-static-fetch-import-by-cocosheng|refactor(ide):
+  replace dynamic undici import with static fetch import]]'
+- '[[Changes/GitHub Copilot CLI/2026-04-01-3-editor-experience-changes-in-v1-0-15|3
+  Editor Experience changes in v1.0.15]]'
 source_release: '[[Releases/Cursor/cursor-2026-04-02-3-0-https-cursor-com-changelog-3-0-c58cd2ad|cursor-2026-04-02-3-0-https-cursor-com-changelog-3-0-c58cd2ad]]'
 source_type: cursor_changelog
 theme: editor-experience
@@ -92,7 +92,7 @@ Source: https://cursor.com/changelog/3-0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2026-04-01 · Claude Code · [[Changes/Claude Code/2026-04-01-changed-edit-to-work-on-files-viewed-via-bash-with-sed-n-or-cat-without-requirin|Changed Edit to work on files viewed via Bash with sed -n or cat, without…]]
+- Earlier: 2026-04-01 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-04-01-3-editor-experience-changes-in-v1-0-15|3 Editor Experience changes in v1.0.15]]
 - Later: 2026-04-04 · Claude Code · [[Changes/Claude Code/2026-04-04-removed-vim-command-toggle-vim-mode-via-config-editor-mode|Removed /vim command (toggle vim mode via /config → Editor mode)]]
 <!-- chronolog:end -->
 

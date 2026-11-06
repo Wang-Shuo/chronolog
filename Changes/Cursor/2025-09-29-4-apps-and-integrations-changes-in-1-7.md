@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 6b54041901106627f5414dd185d9ebccf74ebaac1a576bad01711b66fa52ca8d
+machine_hash: edba838721566936db3b377a7cd6a0b0e5db9a7f7e0a5aee1be42a0ccd0de88b
 product: cursor
 product_name: Cursor
 record:
@@ -49,11 +49,12 @@ record:
   title: 4 Apps and Integrations changes in 1.7
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-08-21-cursor-now-supports-mcp-elicitation-a-new-feature-in-the-mcp-spec-that-allows-se|Support
-  for MCP elicitation]]'
-- '[[Changes/Cursor/2025-09-12-2-apps-and-integrations-changes-in-1-6|2 Apps and Integrations
-  changes in 1.6]]'
-- '[[Changes/Cursor/2025-09-12-mcp-resources-support|MCP Resources support]]'
+- '[[Changes/Gemini CLI/2025-09-24-5-apps-and-integrations-changes-in-v0-6-0|5 Apps
+  and Integrations changes in v0.6.0]]'
+- '[[Changes/Cline/2025-09-25-rename-mcp-tab-installed-to-configure-by-saoudrizwan-in-https-github-com-cline-c|Rename
+  MCP tab ''Installed'' to ''Configure'']]'
+- '[[Changes/Codex CLI/2025-09-26-4-apps-and-integrations-changes-in-rust-v0-42-0|4
+  Apps and Integrations changes in rust-v0.42.0]]'
 source_release: '[[Releases/Cursor/cursor-2025-09-29-1-7-https-cursor-com-changelog-1-7-0a03c0ae|cursor-2025-09-29-1-7-https-cursor-com-changelog-1-7-0a03c0ae]]'
 source_type: cursor_changelog
 theme: apps-integrations
@@ -108,8 +109,8 @@ Source: https://cursor.com/changelog/1-7
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2025-09-12 · Cursor · [[Changes/Cursor/2025-09-12-mcp-resources-support|MCP Resources support]]
-- Later: 2025-10-09 · ChatGPT · [[Changes/ChatGPT/2025-10-09-we-re-adding-notion-and-linear-as-synced-connectors-for-pro-users-so-you-can-sec|Adding Notion & Linear synced connectors]]
+- Earlier: 2025-09-26 · Codex CLI · [[Changes/Codex CLI/2025-09-26-4-apps-and-integrations-changes-in-rust-v0-42-0|4 Apps and Integrations changes in rust-v0.42.0]]
+- Later: 2025-10-01 · Gemini CLI · [[Changes/Gemini CLI/2025-10-01-11-apps-and-integrations-changes-in-v0-7-0|11 Apps and Integrations changes in v0.7.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

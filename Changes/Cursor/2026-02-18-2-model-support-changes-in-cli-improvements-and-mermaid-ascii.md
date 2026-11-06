@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: adfd33918a9891747888940e0ae2f543d92400ae7cf7b765aed45207b61ba804
+machine_hash: 6be8ba57d7068886d7edb5d73b5f662cd8a761a48bd36e0a4fed84e1662b36b9
 product: cursor
 product_name: Cursor
 record:
@@ -47,12 +47,12 @@ record:
   title: 2 Model Support changes in CLI Improvements and Mermaid ASCII…
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-02-10-we-re-making-an-update-to-gpt-5-2-instant-in-chatgpt-and-the-api-that-improves-r|GPT-5.2
-  Instant Update]]'
-- '[[Changes/ChatGPT/2026-02-13-as-previously-announced-we-have-retired-gpt-4o-gpt-4-1-gpt-4-1-mini-and-openai-o|Retiring
-  GPT-4o and other legacy models]]'
-- '[[Changes/Claude Code/2026-02-17-added-support-for-claude-sonnet-4-6|Added support
-  for Claude Sonnet 4.6]]'
+- '[[Changes/Codex CLI/2026-02-17-11699-chore-rm-remote-models-fflag-sayan-oai|♯11699
+  chore: rm remote models fflag @sayan-oai]]'
+- '[[Changes/GitHub Copilot CLI/2026-02-17-2-model-support-changes-in-v0-0-411|2 Model
+  Support changes in v0.0.411]]'
+- '[[Changes/Codex CLI/2026-02-18-2-model-support-changes-in-rust-v0-104-0|2 Model
+  Support changes in rust-v0.104.0]]'
 source_release: '[[Releases/Cursor/cursor-2026-02-18-cli-improvements-and-mermaid-ascii-diagrams-https-cursor-com-cha-a75d36c7|cursor-2026-02-18-cli-improvements-and-mermaid-ascii-diagrams-https-cursor-com-cha-a75d36c7]]'
 source_type: cursor_changelog
 theme: model-support
@@ -96,8 +96,8 @@ Source: https://cursor.com/changelog/cli-feb-18-2026
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-02-17 · Claude Code · [[Changes/Claude Code/2026-02-17-added-support-for-claude-sonnet-4-6|Added support for Claude Sonnet 4.6]]
-- Later: 2026-02-19 · Claude Code · [[Changes/Claude Code/2026-02-19-2-model-support-changes-in-v2-1-49|2 Model Support changes in v2.1.49]]
+- Earlier: 2026-02-18 · Codex CLI · [[Changes/Codex CLI/2026-02-18-2-model-support-changes-in-rust-v0-104-0|2 Model Support changes in rust-v0.104.0]]
+- Later: 2026-02-18 · Gemini CLI · [[Changes/Gemini CLI/2026-02-18-11-model-support-changes-in-v0-29-0|11 Model Support changes in v0.29.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

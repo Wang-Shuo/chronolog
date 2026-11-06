@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: cc982898b819440f338d22d79798d7bc0006c722932b2b78e3ee92a0e203c08e
+machine_hash: cd0062b54881e180f310c62a01ad5b357e5dfc0351b18ab7b56f49299827d356
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -44,12 +44,12 @@ record:
   title: Performance improvements
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-01-21-improved-ui-rendering-performance-with-react-compiler|Improved
-  UI rendering performance with React Compiler]]'
-- '[[Changes/Cursor/2026-01-22-4-reliability-and-performance-changes-in-2-4|4 Reliability
-  and Performance changes in 2.4]]'
-- '[[Changes/Claude Code/2026-02-03-improved-memory-usage-for-resume-68-reduction-for-users-with-many-sessions-by-re|Improved
-  memory usage for --resume (68% reduction for users with many sessions)…]]'
+- '[[Changes/Windsurf/2026-02-05-various-bug-fixes-and-performance-improvements|Various
+  bug fixes and performance improvements]]'
+- '[[Changes/Codex CLI/2026-02-12-improved-websocket-session-stability-by-continuing-ping-handling-when-idle-and-s|Improved
+  websocket session stability by continuing ping handling when idle…]]'
+- '[[Changes/Windsurf/2026-02-12-addressed-multiple-memory-leaks|Addressed multiple
+  memory leaks]]'
 scope: iOS
 source_release: '[[Releases/ChatGPT/chatgpt-2026-02-13-chatgpt-updates-better-file-uploads-easier-copying-and-more-reli-e2c69aa0|chatgpt-2026-02-13-chatgpt-updates-better-file-uploads-easier-copying-and-more-reli-e2c69aa0]]'
 source_type: chatgpt_changelog
@@ -83,8 +83,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2026-02-03 · Claude Code · [[Changes/Claude Code/2026-02-03-improved-memory-usage-for-resume-68-reduction-for-users-with-many-sessions-by-re|Improved memory usage for --resume (68% reduction for users with many sessions)…]]
-- Later: 2026-02-17 · Claude Code · [[Changes/Claude Code/2026-02-17-improved-memory-usage-for-shell-commands-that-produce-large-output-rss-no-longer|Improved memory usage for shell commands that produce large output]]
+- Earlier: 2026-02-12 · Windsurf · [[Changes/Windsurf/2026-02-12-addressed-multiple-memory-leaks|Addressed multiple memory leaks]]
+- Later: 2026-02-14 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-02-14-reduce-memory-usage-from-encoding-streaming-chunks|Reduce memory usage from encoding streaming chunks]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

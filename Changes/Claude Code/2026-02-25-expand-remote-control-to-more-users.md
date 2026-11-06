@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: fcdccdceb23a82343bc814822b023f49398fe90047b9e027029ea873e0180c60
+machine_hash: 811baecd108913a823c36c30188da9aebad68d679e5dc64906843d4352559e57
 product: claude-code
 product_name: Claude Code
 record:
@@ -42,10 +42,10 @@ record:
   title: Expand Remote Control to more users
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-02-20-claude-code-simple-mode-now-also-disables-mcp-tools-attachments-hooks-and-claude|CLAUDE_CODE_SIMPLE
-  mode now also disables MCP tools, attachments, hooks…]]'
-- '[[Changes/Claude Code/2026-02-24-4-apps-and-integrations-changes-in-v2-1-51|4 Apps
-  and Integrations changes in v2.1.51]]'
+- '[[Changes/Cline/2026-02-24-added-cline-sdk-api-interface-for-programmatic-access-to-cline-features-and-tool|Added
+  Cline SDK API interface for programmatic access to Cline features and tools…]]'
+- '[[Changes/GitHub Copilot CLI/2026-02-24-block-third-party-mcp-servers-when-the-copilot-mcp-policy-does-not-allow-them|Block
+  third-party MCP servers when the Copilot MCP policy does not allow them]]'
 - '[[Changes/ChatGPT/2026-02-25-sources-from-apps-paste-a-link-to-a-slack-channel-or-google-drive-file-or-folder|Sources
   from apps]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-02-25-v2-1-58-github-290546921-8d2a32fd|claude-code-2026-02-25-v2-1-58-github-290546921-8d2a32fd]]'
@@ -75,7 +75,7 @@ type: change
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-02-25 · ChatGPT · [[Changes/ChatGPT/2026-02-25-sources-from-apps-paste-a-link-to-a-slack-channel-or-google-drive-file-or-folder|Sources from apps]]
-- Later: 2026-02-28 · Claude Code · [[Changes/Claude Code/2026-02-28-added-enable-claudeai-mcp-servers-false-env-var-to-opt-out-from-making-claude-ai|Added ENABLE_CLAUDEAI_MCP_SERVERS=false env var to opt out from making claude.ai…]]
+- Later: 2026-02-25 · Codex CLI · [[Changes/Codex CLI/2026-02-25-13-apps-and-integrations-changes-in-rust-v0-105-0|13 Apps and Integrations changes in rust-v0.105.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

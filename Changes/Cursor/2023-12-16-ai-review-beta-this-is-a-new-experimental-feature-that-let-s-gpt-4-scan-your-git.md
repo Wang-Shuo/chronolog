@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: b921f6372b05b9c5975bd90565c73b4b1ae58edc2c3cea9ada04f386b4fe9a1b
+machine_hash: f679330268c4ef6511b95267904f15ad799cdb9e24bff7c9acd1e90519d4d56e
 product: cursor
 product_name: Cursor
 record:
@@ -57,12 +57,12 @@ record:
   title: AI Review (beta)
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2023-10-16-we-ve-integrated-dall-e-3-with-chatgpt-allowing-it-to-respond-to-your-requests-w-ad3caf|DALL·E
-  3 is now rolling out in beta]]'
-- '[[Changes/ChatGPT/2023-10-17-browsing-which-we-re-launched-a-few-weeks-ago-is-moving-out-of-beta-plus-and-ent|Browsing
-  is now out of beta]]'
+- '[[Changes/Aider/2023-11-07-2-model-support-changes-in-v0-17-0|2 Model Support changes
+  in v0.17.0]]'
 - '[[Changes/Cursor/2023-11-10-new-models-you-can-plug-in-your-api-key-to-try-out-the-newest-gpt-4-and-gpt-3-tu|New
   models: you can plug in your API key to try out the newest gpt-4 and gpt-3 turbo…]]'
+- '[[Changes/Aider/2023-11-17-3-model-support-changes-in-v0-18-0|3 Model Support changes
+  in v0.18.0]]'
 source_release: '[[Releases/Cursor/cursor-2023-12-16-0-20-0-https-cursor-com-changelog-0-20-0-fecb080e|cursor-2023-12-16-0-20-0-https-cursor-com-changelog-0-20-0-fecb080e]]'
 source_type: cursor_changelog
 theme: model-support
@@ -93,8 +93,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2023-11-10 · Cursor · [[Changes/Cursor/2023-11-10-new-models-you-can-plug-in-your-api-key-to-try-out-the-newest-gpt-4-and-gpt-3-tu|New models: you can plug in your API key to try out the newest gpt-4 and gpt-3 turbo…]]
-- Later: 2024-01-15 · Cursor · [[Changes/Cursor/2024-01-15-cursor-fast-is-a-newly-trained-model-between-gpt-3-5-and-gpt-4-coding-capabiliti-bb4c11|Cursor-Fast is a newly trained model between gpt-3.5 and gpt-4 coding capabilities…]]
+- Earlier: 2023-11-17 · Aider · [[Changes/Aider/2023-11-17-3-model-support-changes-in-v0-18-0|3 Model Support changes in v0.18.0]]
+- Later: 2023-12-20 · Aider · [[Changes/Aider/2023-12-20-3-model-support-changes-in-v0-19-0|3 Model Support changes in v0.19.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

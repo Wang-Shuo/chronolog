@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: e6c6846a867c953fe44ed5b1793f2ef193e68d726f063a0d17788a098b1707e0
+machine_hash: c9f8fac6cc22f968150654a4b7886a6562cbc6caccfea898ecaa6d4a7d67d7bd
 product: cursor
 product_name: Cursor
 record:
@@ -45,12 +45,12 @@ record:
   title: Added /commands to create new commands and edit existing commands
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-12-10-browser-layout-and-style-editor-c9ae9c|Browser layout
-  and style editor]]'
-- '[[Changes/ChatGPT/2025-12-17-edit-and-review-tasks-in-pulse-anytime-after-you-create-them-please-note-that-pu|Edit
-  and review tasks in Pulse anytime after you create them]]'
-- '[[Changes/Claude Code/2025-12-19-vscode-added-tab-icon-badges-showing-pending-permissions-blue-and-unread-complet|VSCode
-  Added tab icon badges showing pending permissions (blue) and unread…]]'
+- '[[Changes/Codex CLI/2026-01-06-3-editor-experience-changes-in-rust-v0-78-0|3 Editor
+  Experience changes in rust-v0.78.0]]'
+- '[[Changes/Codex CLI/2026-01-07-add-app-server-thread-rollback-so-ide-clients-can-undo-the-last-n-turns-without|Add
+  app-server thread/rollback so IDE clients can undo the last N turns without…]]'
+- '[[Changes/GitHub Copilot CLI/2026-01-07-file-edits-no-longer-hang-when-approving-multiple-concurrent-edits|File
+  edits no longer hang when approving multiple concurrent edits]]'
 source_release: '[[Releases/Cursor/cursor-2026-01-08-new-cli-features-and-improved-cli-performance-https-cursor-com-c-8afb8542|cursor-2026-01-08-new-cli-features-and-improved-cli-performance-https-cursor-com-c-8afb8542]]'
 source_type: cursor_changelog
 theme: editor-experience
@@ -90,8 +90,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2025-12-19 · Claude Code · [[Changes/Claude Code/2025-12-19-vscode-added-tab-icon-badges-showing-pending-permissions-blue-and-unread-complet|VSCode Added tab icon badges showing pending permissions (blue) and unread…]]
-- Later: 2026-01-13 · Claude Code · [[Changes/Claude Code/2026-01-13-2-editor-experience-changes-in-v2-1-6|2 Editor Experience changes in v2.1.6]]
+- Earlier: 2026-01-07 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-01-07-file-edits-no-longer-hang-when-approving-multiple-concurrent-edits|File edits no longer hang when approving multiple concurrent edits]]
+- Later: 2026-01-09 · Codex CLI · [[Changes/Codex CLI/2026-01-09-8939-chore-move-app-server-tests-from-chat-completion-to-responses-celia-oai|♯8939 chore move app server tests from chat completion to responses @celia-oai]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

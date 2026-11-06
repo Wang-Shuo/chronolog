@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: dc710ffcf06528cd56b82553c826f54486e03d3a0b65f60844aecd0694baa89a
+machine_hash: 63be508412587d17c776a2907adfa7c76deaae99ddf8a648e1ff7bddb610e5e4
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,12 +45,11 @@ record:
     went…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-07-07-2-reliability-and-performance-changes-in-v2-1-203|2
-  Reliability and Performance changes in v2.1.203]]'
-- '[[Changes/Claude Code/2026-07-08-auto-update-binary-downloads-now-stream-to-disk-instead-of-buffering-in-memory-c|Auto-update
-  binary downloads now stream to disk instead of buffering in memory…]]'
+- '[[Changes/Codex CLI/2026-07-09-responses-websockets-continue-using-the-low-latency-transport-while-respecting-s|Responses
+  WebSockets continue using the low-latency transport while respecting…]]'
 - '[[Changes/Claude Code/2026-07-14-3-reliability-and-performance-changes-in-v2-1-208|3
   Reliability and Performance changes in v2.1.208]]'
+- '[[Changes/Windsurf/2026-07-17-devin-cloud|Devin Cloud]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-07-18-v2-1-214-github-355973317-478680c5|claude-code-2026-07-18-v2-1-214-github-355973317-478680c5]]'
 source_type: github_releases
 theme: reliability-performance
@@ -84,7 +83,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2026-07-14 · Claude Code · [[Changes/Claude Code/2026-07-14-3-reliability-and-performance-changes-in-v2-1-208|3 Reliability and Performance changes in v2.1.208]]
+- Earlier: 2026-07-17 · Windsurf · [[Changes/Windsurf/2026-07-17-devin-cloud|Devin Cloud]]
 - Later: 2026-07-21 · Claude Code · [[Changes/Claude Code/2026-07-21-added-warnings-when-transcript-writes-are-failing-e-g-disk-full-or-when-session|Added warnings when transcript writes are failing (e.g. disk full) or when session…]]
 <!-- chronolog:end -->
 

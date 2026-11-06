@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: b7df061e7a361a0c28ba29868f2aea7bfaf8f54e388ba41249c266fa69dd2b9e
+machine_hash: d6f65eceb02ee4b871fbb2e75d8317d1b59acb44c9b7bc14d7687e150a7f76a8
 product: cursor
 product_name: Cursor
 record:
@@ -45,8 +45,8 @@ record:
   title: Larger, faster environments
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-09-improved-transcript-toggle-ctrl-o-responsiveness-in-code-heavy-conversations-by|Improved
-  transcript toggle (ctrl+o) responsiveness in code-heavy conversations…]]'
+- '[[Changes/GitHub Copilot CLI/2026-10-13-emergency-memory-relief-in-long-sessions-can-now-bypass-its-cooldown-before-v8-a|Emergency
+  memory relief in long sessions can now bypass its cooldown before V8…]]'
 - '[[Changes/Claude Code/2026-10-14-improved-memory-and-disk-use-when-pdfs-are-mentioned-their-bytes-are-no-longer-k|Improved
   memory and disk use when PDFs are @-mentioned]]'
 - '[[Changes/ChatGPT/2026-10-16-faster-responses|Faster responses]]'

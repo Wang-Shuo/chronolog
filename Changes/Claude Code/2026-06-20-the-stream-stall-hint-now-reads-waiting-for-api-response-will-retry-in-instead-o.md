@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 9eeeda1e0a532c97c964885f39bed949c90bc25abb61a388b5341856b2d22108
+machine_hash: 564ddc3ffa2200b8fba55a24aefec50cc1fb150637b16df130e57c111080c6d6
 product: claude-code
 product_name: Claude Code
 record:
@@ -81,7 +81,7 @@ type: change
 ## Nearby in Reliability and Performance
 
 - Earlier: 2026-06-18 · ChatGPT · [[Changes/ChatGPT/2026-06-18-easier-conversation-sharing-sharing-a-conversation-is-now-faster-with-a-one-clic|Easier conversation sharing]]
-- Later: 2026-06-24 · Claude Code · [[Changes/Claude Code/2026-06-24-reduced-long-session-memory-growth-from-terminal-output-cache|Reduced long-session memory growth from terminal output cache]]
+- Later: 2026-06-22 · Codex CLI · [[Changes/Codex CLI/2026-06-22-2-reliability-and-performance-changes-in-rust-v0-142-0|2 Reliability and Performance changes in rust-v0.142.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

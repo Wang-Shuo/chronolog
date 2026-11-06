@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: ed18a43cfe732b01db12efbcf041131148f7f8bd8d28e68af00bb693a571814e
+machine_hash: b6125a4d31bf78755f2632ec5bef3da2b07a065af7a881f62cbfe78e21cf05aa
 product: claude-code
 product_name: Claude Code
 record:
@@ -47,10 +47,10 @@ record:
     breaking…
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-06-04-this-release-introduces-design-mode-for-faster-canvas-editing-new-ways-to-unders|Cursor
-  introduces Design Mode for faster canvas editing, new ways to understand…]]'
-- '[[Changes/Cursor/2026-06-04-context-usage-report-in-canvas-d08e2a|Context usage
-  report in canvas]]'
+- '[[Changes/GitHub Copilot CLI/2026-06-05-2-context-window-changes-in-v1-0-60|2 Context
+  Window changes in v1.0.60]]'
+- '[[Changes/Windsurf/2026-06-06-improved-handling-of-file-context-in-devin-local-agent|Improved
+  handling of file context in Devin Local agent]]'
 - '[[Changes/Claude Code/2026-06-08-the-claude-md-is-too-long-warning-threshold-now-scales-with-the-model-s-context|The
   "CLAUDE.md is too long" warning threshold now scales with the model''s context window]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-06-08-v2-1-169-github-336158564-d513d69d|claude-code-2026-06-08-v2-1-169-github-336158564-d513d69d]]'
@@ -91,8 +91,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Context Window
 
-- Earlier: 2026-06-04 · Cursor · [[Changes/Cursor/2026-06-04-context-usage-report-in-canvas-d08e2a|Context usage report in canvas]]
-- Later: 2026-06-12 · Claude Code · [[Changes/Claude Code/2026-06-12-vscode-added-usage-attribution-to-the-account-usage-dialog-usage-showing-cache-m|VSCode Added usage attribution to the Account & usage dialog (/usage) showing…]]
+- Earlier: 2026-06-06 · Windsurf · [[Changes/Windsurf/2026-06-06-improved-handling-of-file-context-in-devin-local-agent|Improved handling of file context in Devin Local agent]]
+- Later: 2026-06-08 · Codex CLI · [[Changes/Codex CLI/2026-06-08-4-context-window-changes-in-rust-v0-138-0|4 Context Window changes in rust-v0.138.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

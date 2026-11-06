@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 800b5c72eae2830b1b9e870d2a9915d8f64c98ecd175d3b6550660d01ba6370e
+machine_hash: 9a0a91f4cb4802a5a523b3acf9d0f9a4ba6630338cab5eef9c8b25fdcd4130fa
 product: claude-code
 product_name: Claude Code
 record:
@@ -47,12 +47,12 @@ record:
   title: 2 Context Window changes in v2.1.108
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-04-08-improved-context-low-warning-to-show-as-a-transient-footer-notification-instead|Improved
-  context-low warning to show as a transient footer notification instead…]]'
-- '[[Changes/Claude Code/2026-04-09-added-exclude-dynamic-system-prompt-sections-flag-to-print-mode-for-improved-cro|Added
-  --exclude-dynamic-system-prompt-sections flag to print mode for improved…]]'
 - '[[Changes/Claude Code/2026-04-10-improved-tool-not-available-errors-to-explain-why-and-how-to-proceed-when-the-mo|Improved
   tool-not-available errors to explain why and how to proceed when the model…]]'
+- '[[Changes/Codex CLI/2026-04-10-4-context-window-changes-in-rust-v0-119-0|4 Context
+  Window changes in rust-v0.119.0]]'
+- '[[Changes/Codex CLI/2026-04-11-3-context-window-changes-in-rust-v0-120-0|3 Context
+  Window changes in rust-v0.120.0]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-04-14-v2-1-108-github-309009167-35123bd5|claude-code-2026-04-14-v2-1-108-github-309009167-35123bd5]]'
 source_type: github_releases
 theme: context-window
@@ -89,8 +89,8 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.108
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Context Window
 
-- Earlier: 2026-04-10 · Claude Code · [[Changes/Claude Code/2026-04-10-improved-tool-not-available-errors-to-explain-why-and-how-to-proceed-when-the-mo|Improved tool-not-available errors to explain why and how to proceed when the model…]]
-- Later: 2026-04-15 · Claude Code · [[Changes/Claude Code/2026-04-15-added-option-to-show-claude-s-last-response-as-commented-context-in-the-ctrl-g-e|Added option to show Claude's last response as commented context in the Ctrl+G…]]
+- Earlier: 2026-04-11 · Codex CLI · [[Changes/Codex CLI/2026-04-11-3-context-window-changes-in-rust-v0-120-0|3 Context Window changes in rust-v0.120.0]]
+- Later: 2026-04-14 · Gemini CLI · [[Changes/Gemini CLI/2026-04-14-2-context-window-changes-in-v0-38-0|2 Context Window changes in v0.38.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

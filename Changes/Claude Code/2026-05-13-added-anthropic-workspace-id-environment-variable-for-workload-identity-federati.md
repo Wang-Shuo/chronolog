@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 113befa11ae7ff14d518ec6ac5f888a9277cb9d613899d4ecb803546386be655
+machine_hash: d52f0523a0bcfaaec8655ef3cdfc7f85e8348562476e96d5803b29f6549a8540
 product: claude-code
 product_name: Claude Code
 record:
@@ -91,7 +91,7 @@ type: change
 ## Nearby in Enterprise and Administration
 
 - Earlier: 2026-05-11 · Cursor · [[Changes/Cursor/2026-05-11-teams-admins-and-individual-plan-users-can-now-customize-the-effort-level-bugbot|Teams admins and Individual plan users can now customize the effort level Bugbot…]]
-- Later: 2026-06-03 · Cursor · [[Changes/Cursor/2026-06-03-admins-can-move-users-between-teams-through-the-dashboard-api-or-csv|Admins can move users between teams through the dashboard, API, or CSV]]
+- Later: 2026-05-26 · Codex CLI · [[Changes/Codex CLI/2026-05-26-23736-add-new-enterprise-requirement-gate-adams-oai|♯23736 Add new enterprise requirement gate @adams-oai]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

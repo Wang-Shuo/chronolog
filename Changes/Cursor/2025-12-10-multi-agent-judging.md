@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: f3662bac6bd7423afbe54779b9247cb7af5bf50cb600be35f68282de92e23fa8
+machine_hash: bd19c16c1718df8cc72a49c39bff5d10aad9526bc12c8b0dfa2a8fe50e3433ff
 product: cursor
 product_name: Cursor
 record:
@@ -48,9 +48,10 @@ record:
   title: Multi-agent judging
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-11-21-instant-grep-beta|Instant Grep (Beta)]]'
-- '[[Changes/Cursor/2025-11-21-2-agent-mode-changes-in-2-1|2 Agent Mode changes in
-  2.1]]'
+- '[[Changes/Codex CLI/2025-12-09-7729-feat-add-is-mutating-detection-for-shell-command-handler-jif-oai|♯7729
+  feat: add is-mutating detection for shell command handler @jif-oai]]'
+- '[[Changes/Gemini CLI/2025-12-09-feat-a2a-urgent-fix-process-modelinfo-agent-message-by-cocosheng-g-in-https-gith|feat(a2a):
+  Urgent fix - Process modelInfo agent message]]'
 - '[[Changes/Cursor/2025-12-10-plan-mode-now-supports-inline-mermaid-diagrams-allowing-the-agent-to-automatical|Plan
   Mode improvements]]'
 source_release: '[[Releases/Cursor/cursor-2025-12-10-2-2-https-cursor-com-changelog-2-2-297c9323|cursor-2025-12-10-2-2-https-cursor-com-changelog-2-2-297c9323]]'
@@ -91,8 +92,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2025-11-21 · Cursor · [[Changes/Cursor/2025-11-21-2-agent-mode-changes-in-2-1|2 Agent Mode changes in 2.1]]
-- Later: 2025-12-18 · Cursor · [[Changes/Cursor/2025-12-18-shared-agent-transcripts-164030|Shared agent transcripts]]
+- Earlier: 2025-12-09 · Gemini CLI · [[Changes/Gemini CLI/2025-12-09-feat-a2a-urgent-fix-process-modelinfo-agent-message-by-cocosheng-g-in-https-gith|feat(a2a): Urgent fix - Process modelInfo agent message]]
+- Later: 2025-12-16 · OpenHands · [[Changes/OpenHands/2025-12-16-new-openhands-1-0-0-using-the-new-software-agent-sdk-https-github-com-openhands|New OpenHands 1.0.0 using the new…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

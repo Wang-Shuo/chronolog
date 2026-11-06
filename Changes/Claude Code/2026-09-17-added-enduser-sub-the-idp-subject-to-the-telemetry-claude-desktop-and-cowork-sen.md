@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: e7c7c4d1d249be431f1467457dfcbb2a6f5620fd669ebd6e14e9a45daf09fdc6
+machine_hash: a0441207c9d5c406b9dbcba6f984fa4a3f7941bc44782773580e8522160e7274
 product: claude-code
 product_name: Claude Code
 record:
@@ -54,10 +54,9 @@ record:
     Cowork…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-14-improved-mobile-to-show-a-single-qr-code-for-claude-ai-mobile-which-opens-the-ri|Improved
-  /mobile to show a single QR code for claude.ai/mobile, which opens…]]'
-- '[[Changes/Claude Code/2026-09-15-claude-code-on-the-web-removed-the-full-page-desktop-app-download-screen-that-ne|Claude
-  Code on the web Removed the full-page desktop-app download screen that new…]]'
+- '[[Changes/GitHub Copilot CLI/2026-09-16-4-mobile-and-desktop-changes-in-v1-0-85|4
+  Mobile and Desktop changes in v1.0.85]]'
+- '[[Changes/Windsurf/2026-09-16-devin-desktop|Devin Desktop]]'
 - '[[Changes/ChatGPT/2026-09-17-you-can-now-connect-multiple-accounts-to-plugins-in-chatgpt-expanding-support-be|Connect
   multiple accounts to plugins in ChatGPT]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-17-v2-1-274-github-390317660-0d9c7c5d|claude-code-2026-09-17-v2-1-274-github-390317660-0d9c7c5d]]'

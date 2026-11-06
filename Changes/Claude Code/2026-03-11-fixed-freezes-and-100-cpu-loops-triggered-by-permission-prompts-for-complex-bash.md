@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: fix
-machine_hash: bcf33689faeba9af3d870a7aacb2384ca70f346f013147764308f8158e672d02
+machine_hash: 40afa549a6312dfaefbbcf05896911ca7e9d6cde107112e8943065163b8c5ca4
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,12 +45,12 @@ record:
     bash commands
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-03-05-when-invoked-the-agent-spins-up-a-cloud-sandbox-and-follows-your-instructions-us|When
-  invoked, the agent spins up a cloud sandbox and follows your instructions using…]]'
-- '[[Changes/Claude Code/2026-03-07-fixed-false-positive-permission-prompts-for-compound-bash-commands-containing-he|Fixed
-  false-positive permission prompts for compound bash commands containing…]]'
+- '[[Changes/GitHub Copilot CLI/2026-03-09-reset-allowed-tools-now-fully-undoes-allow-all-and-re-triggers-the-autopilot-per|/reset-allowed-tools
+  now fully undoes /allow-all and re-triggers the autopilot…]]'
 - '[[Changes/Claude Code/2026-03-10-6-safety-and-privacy-changes-in-v2-1-72|6 Safety
   and Privacy changes in v2.1.72]]'
+- '[[Changes/Codex CLI/2026-03-10-10-safety-and-privacy-changes-in-rust-v0-113-0|10
+  Safety and Privacy changes in rust-v0.113.0]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-03-11-v2-1-73-github-295814700-0abb054f|claude-code-2026-03-11-v2-1-73-github-295814700-0abb054f]]'
 source_type: github_releases
 theme: safety-privacy
@@ -86,8 +86,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Safety and Privacy
 
-- Earlier: 2026-03-10 · Claude Code · [[Changes/Claude Code/2026-03-10-6-safety-and-privacy-changes-in-v2-1-72|6 Safety and Privacy changes in v2.1.72]]
-- Later: 2026-03-12 · Claude Code · [[Changes/Claude Code/2026-03-12-fixed-voice-mode-silently-failing-on-the-macos-native-binary-for-users-whose-ter|Fixed voice mode silently failing on the macOS native binary for users whose…]]
+- Earlier: 2026-03-10 · Codex CLI · [[Changes/Codex CLI/2026-03-10-10-safety-and-privacy-changes-in-rust-v0-113-0|10 Safety and Privacy changes in rust-v0.113.0]]
+- Later: 2026-03-11 · Codex CLI · [[Changes/Codex CLI/2026-03-11-2-safety-and-privacy-changes-in-rust-v0-114-0|2 Safety and Privacy changes in rust-v0.114.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

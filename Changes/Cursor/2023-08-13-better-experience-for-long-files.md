@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: b3609b05709dbe4b71baaafa3ed14792fa8bcff3c6e5a3241e2be6dc390fb426
+machine_hash: 04de1ffe790243eb3dd6481aae0ee178a2662295e61b61b27aab0149a28841ce
 product: cursor
 product_name: Cursor
 record:
@@ -75,7 +75,7 @@ type: change
 ## Nearby in Editor Experience
 
 - Earlier: 2023-08-12 · Cursor · [[Changes/Cursor/2023-08-12-the-cmd-k-edits-now-support-followups-this-is-an-early-preview-please-let-us-kno|Followups in edits]]
-- Later: 2023-08-22 · Cursor · [[Changes/Cursor/2023-08-22-codeblocks-and-code-symbols-in-with-codebase-responses-will-now-often-be-clickab|Codeblocks and code symbols in "with codebase" responses will now often be clickable]]
+- Later: 2023-08-22 · Aider · [[Changes/Aider/2023-08-22-only-git-commit-dirty-files-that-gpt-tries-to-edit-https-aider-chat-docs-faq-htm|Only git commit dirty files that GPT tries…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

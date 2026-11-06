@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: fix
-machine_hash: 7f32fcde96adda22ce349a13ebce436a976e2d5ca4068a406cce40d635f9bf01
+machine_hash: 0f56f37185bbc29e14c8d32258c17c562c31c8f53251b099e58d1fdb3b38fe60
 product: claude-code
 product_name: Claude Code
 record:
@@ -46,8 +46,8 @@ record:
     rules
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-07-10-fixed-permission-prompt-tool-pointing-at-an-mcp-server-crashing-with-mcp-tool-no|Fixed
-  --permission-prompt-tool pointing at an MCP server crashing…]]'
+- '[[Changes/GitHub Copilot CLI/2026-07-10-5-safety-and-privacy-changes-in-v1-0-70|5
+  Safety and Privacy changes in v1.0.70]]'
 - '[[Changes/Claude Code/2026-07-11-2-safety-and-privacy-changes-in-v2-1-207|2 Safety
   and Privacy changes in v2.1.207]]'
 - '[[Changes/Claude Code/2026-07-14-3-safety-and-privacy-changes-in-v2-1-210|3 Safety

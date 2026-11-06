@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 2baab1df2ef1fc1ee75efa24368b989181ebcb3dcf198e23e936e5be520f828b
+machine_hash: 631017438aee42cc4f638bd7f22342857c1aca74a6d5e5ce4d64d5be37dcda7f
 product: claude-code
 product_name: Claude Code
 record:
@@ -80,12 +80,12 @@ record:
   title: 12 Safety and Privacy changes in v2.1.281
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-18-4-safety-and-privacy-changes-in-v2-1-277|4 Safety
-  and Privacy changes in v2.1.277]]'
-- '[[Changes/ChatGPT/2026-09-21-privacy-center-is-rolling-out-to-signed-in-chatgpt-free-go-plus-and-pro-users-it-0d2f36|Privacy
-  Center in ChatGPT]]'
 - '[[Changes/Claude Code/2026-09-22-2-safety-and-privacy-changes-in-v2-1-280|2 Safety
   and Privacy changes in v2.1.280]]'
+- '[[Changes/Codex CLI/2026-09-22-50-safety-and-privacy-changes-in-rust-v0-156-0|50
+  Safety and Privacy changes in rust-v0.156.0]]'
+- '[[Changes/GitHub Copilot CLI/2026-09-22-2-safety-and-privacy-changes-in-v1-0-88|2
+  Safety and Privacy changes in v1.0.88]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-23-v2-1-281-github-394877414-9173ae95|claude-code-2026-09-23-v2-1-281-github-394877414-9173ae95]]'
 source_type: github_releases
 theme: safety-privacy
@@ -148,7 +148,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.281
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Safety and Privacy
 
-- Earlier: 2026-09-22 · Claude Code · [[Changes/Claude Code/2026-09-22-2-safety-and-privacy-changes-in-v2-1-280|2 Safety and Privacy changes in v2.1.280]]
+- Earlier: 2026-09-22 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-09-22-2-safety-and-privacy-changes-in-v1-0-88|2 Safety and Privacy changes in v1.0.88]]
 - Later: 2026-09-23 · Cursor · [[Changes/Cursor/2026-09-23-2-safety-and-privacy-changes-in-rollouts-and-security-review|2 Safety and Privacy changes in Rollouts and Security Review]]
 <!-- chronolog:end -->
 

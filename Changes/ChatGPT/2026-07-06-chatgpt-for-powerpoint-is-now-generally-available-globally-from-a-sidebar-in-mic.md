@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 53e5efb933e10ab4ff1fa4bcfb7d88b96f7c33e534361d7a393e1de084ae16cc
+machine_hash: 653931c564708e91c29959a247596e4a5cb7ba31414a1eb92e61a2111574b7e3
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -76,10 +76,10 @@ record:
   title: ChatGPT for PowerPoint is now generally available
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-06-24-improved-mcp-oauth-discovery-and-token-requests-now-retry-once-after-transient-n|Improved
-  MCP OAuth]]'
-- '[[Changes/Claude Code/2026-06-25-added-a-startup-notice-when-mcp-servers-need-authentication-pointing-at-mcp|Added
-  a startup notice when MCP servers need authentication, pointing at /mcp]]'
+- '[[Changes/GitHub Copilot CLI/2026-06-30-mcp-oauth-against-microsoft-entra-servers-behind-a-tenant-vanity-domain-e-g-copi|MCP
+  OAuth against Microsoft Entra servers behind a tenant vanity domain…]]'
+- '[[Changes/GitHub Copilot CLI/2026-06-30-6-account-and-access-changes-in-v1-0-66|6
+  Account and Access changes in v1.0.66]]'
 - '[[Changes/Claude Code/2026-07-01-login-now-opens-the-sign-in-dialog-from-the-claude-agents-view-instead-of-saying|/login
   now opens the sign-in dialog from the claude agents view instead…]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-07-06-chatgpt-for-powerpoint-is-now-generally-available-fc1a6be9|chatgpt-2026-07-06-chatgpt-for-powerpoint-is-now-generally-available-fc1a6be9]]'
@@ -109,7 +109,7 @@ type: change
 ## Nearby in Account and Access
 
 - Earlier: 2026-07-01 · Claude Code · [[Changes/Claude Code/2026-07-01-login-now-opens-the-sign-in-dialog-from-the-claude-agents-view-instead-of-saying|/login now opens the sign-in dialog from the claude agents view instead…]]
-- Later: 2026-07-07 · Claude Code · [[Changes/Claude Code/2026-07-07-added-a-warning-when-your-login-is-about-to-expire-so-you-can-re-authenticate-be|Added a warning when your login is about to expire, so you can re-authenticate…]]
+- Later: 2026-07-06 · OpenHands · [[Changes/OpenHands/2026-07-06-3-account-and-access-changes-in-1-9-0|3 Account and Access changes in 1.9.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

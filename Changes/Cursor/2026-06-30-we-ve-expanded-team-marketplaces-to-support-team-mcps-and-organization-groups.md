@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: a29d25a86391737cb492e9d336da0cf1084e754be1ad7f1550943450b3921516
+machine_hash: a78fbcf9fdaa17c31e3b0304bbcd36d3617e4aa57eba781aed6a722e18ee5e77
 product: cursor
 product_name: Cursor
 record:
@@ -43,7 +43,8 @@ record:
   title: Cursor expands team marketplaces to support Team MCPs and organization groups
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-06-22-new-team-marketplaces|New Team Marketplaces]]'
+- '[[Changes/Cline/2026-06-26-simplify-provider-settings-ui-by-replacing-many-provider-specific-views-with-sha|Simplify
+  provider settings UI by replacing many provider-specific views with shared…]]'
 - '[[Changes/Cursor/2026-06-30-team-mcps-in-team-marketplaces-27f9ef|Team MCPs in
   team marketplaces]]'
 - '[[Changes/Cursor/2026-06-30-marketplace-access-by-organization-group-a2cf9b|Marketplace
@@ -77,8 +78,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Collaboration
 
-- Earlier: 2026-06-22 · Cursor · [[Changes/Cursor/2026-06-22-new-team-marketplaces|New Team Marketplaces]]
-- Later: 2026-07-09 · ChatGPT · [[Changes/ChatGPT/2026-07-09-existing-group-chats-will-remain-available-and-can-continue-to-be-used-for-now-w|Existing group chats will remain available and can continue to be used for now]]
+- Earlier: 2026-06-26 · Cline · [[Changes/Cline/2026-06-26-simplify-provider-settings-ui-by-replacing-many-provider-specific-views-with-sha|Simplify provider settings UI by replacing many provider-specific views with shared…]]
+- Later: 2026-06-30 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-06-30-2-collaboration-changes-in-v1-0-66|2 Collaboration changes in v1.0.66]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

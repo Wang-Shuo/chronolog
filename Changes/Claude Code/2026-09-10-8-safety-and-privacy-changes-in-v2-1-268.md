@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 3f482b70c28115b70c1c119c5f1f5e18cfef07f123edbdfe54017455b3133e11
+machine_hash: 4e8fa11bb949dc4ad6066c076a0efa6dde7c83a5dcd9e057b63c6b92555ce93f
 product: claude-code
 product_name: Claude Code
 record:
@@ -67,12 +67,12 @@ record:
   title: 8 Safety and Privacy changes in v2.1.268
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-04-4-safety-and-privacy-changes-in-v2-1-261|4 Safety
-  and Privacy changes in v2.1.261]]'
-- '[[Changes/Claude Code/2026-09-08-3-safety-and-privacy-changes-in-v2-1-265|3 Safety
-  and Privacy changes in v2.1.265]]'
+- '[[Changes/Gemini CLI/2026-09-08-fix-core-enforce-fail-closed-workspace-trust-and-filter-mcpservers-in-restricted|fix(core):
+  enforce fail-closed workspace trust and filter mcpServers in restricted mode]]'
 - '[[Changes/Claude Code/2026-09-09-2-safety-and-privacy-changes-in-v2-1-267|2 Safety
   and Privacy changes in v2.1.267]]'
+- '[[Changes/Codex CLI/2026-09-09-25-safety-and-privacy-changes-in-rust-v0-154-0|25
+  Safety and Privacy changes in rust-v0.154.0]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-10-v2-1-268-github-386532237-baa1a848|claude-code-2026-09-10-v2-1-268-github-386532237-baa1a848]]'
 source_type: github_releases
 theme: safety-privacy
@@ -128,8 +128,8 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.268
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Safety and Privacy
 
-- Earlier: 2026-09-09 · Claude Code · [[Changes/Claude Code/2026-09-09-2-safety-and-privacy-changes-in-v2-1-267|2 Safety and Privacy changes in v2.1.267]]
-- Later: 2026-09-11 · Claude Code · [[Changes/Claude Code/2026-09-11-5-safety-and-privacy-changes-in-v2-1-269|5 Safety and Privacy changes in v2.1.269]]
+- Earlier: 2026-09-09 · Codex CLI · [[Changes/Codex CLI/2026-09-09-25-safety-and-privacy-changes-in-rust-v0-154-0|25 Safety and Privacy changes in rust-v0.154.0]]
+- Later: 2026-09-10 · Windsurf · [[Changes/Windsurf/2026-09-10-devin-cloud|Devin Cloud]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

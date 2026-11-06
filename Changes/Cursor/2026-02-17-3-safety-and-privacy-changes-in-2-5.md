@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 45ff69478fa573b4a88d5a222a292674f34a7d02a374483fc6cf36062f004f5e
+machine_hash: 04c971a8caa5029f9f98aeeab6ddc0ddedf6a65b8fe75ad67610bcebdd68177c
 product: cursor
 product_name: Cursor
 record:
@@ -47,10 +47,10 @@ record:
   title: 3 Safety and Privacy changes in 2.5
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-02-13-2-safety-and-privacy-changes-in-v2-1-41|2 Safety
-  and Privacy changes in v2.1.41]]'
 - '[[Changes/Claude Code/2026-02-17-vscode-improved-permission-destination-choice-project-user-session-to-persist-ac|VSCode
   Improved permission destination choice (project/user/session) to persist…]]'
+- '[[Changes/Codex CLI/2026-02-17-9-safety-and-privacy-changes-in-rust-v0-102-0|9
+  Safety and Privacy changes in rust-v0.102.0]]'
 - '[[Changes/Cursor/2026-02-17-sandbox-network-access-controls|Sandbox network access
   controls]]'
 source_release: '[[Releases/Cursor/cursor-2026-02-17-2-5-https-cursor-com-changelog-2-5-82892320|cursor-2026-02-17-2-5-https-cursor-com-changelog-2-5-82892320]]'
@@ -97,7 +97,7 @@ Source: https://cursor.com/changelog/2-5
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Safety and Privacy
 
-- Earlier: 2026-02-17 · Claude Code · [[Changes/Claude Code/2026-02-17-vscode-improved-permission-destination-choice-project-user-session-to-persist-ac|VSCode Improved permission destination choice (project/user/session) to persist…]]
+- Earlier: 2026-02-17 · Codex CLI · [[Changes/Codex CLI/2026-02-17-9-safety-and-privacy-changes-in-rust-v0-102-0|9 Safety and Privacy changes in rust-v0.102.0]]
 - Later: 2026-02-18 · Claude Code · [[Changes/Claude Code/2026-02-18-2-safety-and-privacy-changes-in-v2-1-47|2 Safety and Privacy changes in v2.1.47]]
 <!-- chronolog:end -->
 

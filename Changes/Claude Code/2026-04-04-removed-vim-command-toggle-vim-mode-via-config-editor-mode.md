@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: a56b213f01bbb763df584342646c718bc11c49487dc331f1689ef864bb9d4b3d
+machine_hash: 2f88213731ce72e2c2277af341376f60b834a7248e39625ba30c3c70675aa913
 product: claude-code
 product_name: Claude Code
 record:
@@ -41,8 +41,8 @@ record:
   title: Removed `/vim` command (toggle vim mode via `/config` → Editor mode)
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-04-01-changed-edit-to-work-on-files-viewed-via-bash-with-sed-n-or-cat-without-requirin|Changed
-  Edit to work on files viewed via Bash with sed -n or cat, without…]]'
+- '[[Changes/GitHub Copilot CLI/2026-04-01-3-editor-experience-changes-in-v1-0-15|3
+  Editor Experience changes in v1.0.15]]'
 - '[[Changes/Cursor/2026-04-02-2-editor-experience-changes-in-3-0|2 Editor Experience
   changes in 3.0]]'
 - '[[Changes/Cursor/2026-04-02-agent-tabs-in-the-editor|Agent Tabs in the Editor]]'
@@ -83,7 +83,7 @@ type: change
 ## Nearby in Editor Experience
 
 - Earlier: 2026-04-02 · Cursor · [[Changes/Cursor/2026-04-02-agent-tabs-in-the-editor|Agent Tabs in the Editor]]
-- Later: 2026-04-08 · Claude Code · [[Changes/Claude Code/2026-04-08-4-editor-experience-changes-in-v2-1-97|4 Editor Experience changes in v2.1.97]]
+- Later: 2026-04-06 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-04-06-skip-ide-auto-connect-when-session-is-already-in-use-by-another-client|Skip IDE auto-connect when session is already in use by another client]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: 6a52999733eeedd22cbdcce68c445aecb2ac11ebf334a2278a3da87c5b9b956a
+machine_hash: 6bb48fb4d1e0c63c10da863c3af52d279d21789d43e1fda447e49827ca5aa5b5
 product: claude-code
 product_name: Claude Code
 record:
@@ -47,11 +47,12 @@ record:
   title: Improved agent view
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-07-10-conversation-search-454cae|Conversation search]]'
 - '[[Changes/Cursor/2026-07-10-7-interface-experience-changes-in-side-chats-and-conversation-search|7
   Interface Experience changes in Side Chats and Conversation Search]]'
 - '[[Changes/Cursor/2026-07-10-redesigned-project-and-repo-pickers|Redesigned project
   and repo pickers]]'
+- '[[Changes/GitHub Copilot CLI/2026-07-10-4-interface-experience-changes-in-v1-0-70|4
+  Interface Experience changes in v1.0.70]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-07-11-v2-1-207-github-352355755-d77b8e91|claude-code-2026-07-11-v2-1-207-github-352355755-d77b8e91]]'
 source_type: github_releases
 theme: interface-experience
@@ -84,7 +85,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-07-10 · Cursor · [[Changes/Cursor/2026-07-10-redesigned-project-and-repo-pickers|Redesigned project and repo pickers]]
+- Earlier: 2026-07-10 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-07-10-4-interface-experience-changes-in-v1-0-70|4 Interface Experience changes in v1.0.70]]
 - Later: 2026-07-14 · Claude Code · [[Changes/Claude Code/2026-07-14-added-mouse-click-support-for-multi-select-menus-and-other-input-rows-in-fullscr|Added mouse-click support for multi-select menus and "Other" input rows in fullscreen mode]]
 <!-- chronolog:end -->
 

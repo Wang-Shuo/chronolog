@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 2856a7849c74e9d898aa61efe22f685d4239424ea9dbfb4a6131af782c3be286
+machine_hash: 65a06fd1b645b5f14ab1f826424647f93c4d64ba7dbcbf51460003487704579e
 product: cursor
 product_name: Cursor
 record:
@@ -43,11 +43,12 @@ record:
   title: Admin API for blocklists
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-05-15-include-your-entire-codebase-in-context|Include your
-  entire codebase in context]]'
-- '[[Changes/Cursor/2025-07-03-pr-indexing-search|PR indexing & search]]'
-- '[[Changes/Cursor/2025-07-29-at-the-end-of-a-conversation-you-can-now-see-how-much-of-the-context-window-is-u|View
-  context usage in Chat]]'
+- '[[Changes/Gemini CLI/2025-07-30-2-context-window-changes-in-v0-1-15|2 Context Window
+  changes in v0.1.15]]'
+- '[[Changes/Gemini CLI/2025-08-02-3-context-window-changes-in-v0-1-16|3 Context Window
+  changes in v0.1.16]]'
+- '[[Changes/Gemini CLI/2025-08-05-3-context-window-changes-in-v0-1-17|3 Context Window
+  changes in v0.1.17]]'
 source_release: '[[Releases/Cursor/cursor-2025-08-06-1-4-https-cursor-com-changelog-1-4-5a085889|cursor-2025-08-06-1-4-https-cursor-com-changelog-1-4-5a085889]]'
 source_type: cursor_changelog
 theme: context-window
@@ -85,8 +86,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Context Window
 
-- Earlier: 2025-07-29 · Cursor · [[Changes/Cursor/2025-07-29-at-the-end-of-a-conversation-you-can-now-see-how-much-of-the-context-window-is-u|View context usage in Chat]]
-- Later: 2025-08-21 · Cursor · [[Changes/Cursor/2025-08-21-context-usage-is-always-shown-in-the-chat-input|Context usage is always shown in the chat input]]
+- Earlier: 2025-08-05 · Gemini CLI · [[Changes/Gemini CLI/2025-08-05-3-context-window-changes-in-v0-1-17|3 Context Window changes in v0.1.17]]
+- Later: 2025-08-06 · Gemini CLI · [[Changes/Gemini CLI/2025-08-06-3-context-window-changes-in-v0-1-18|3 Context Window changes in v0.1.18]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

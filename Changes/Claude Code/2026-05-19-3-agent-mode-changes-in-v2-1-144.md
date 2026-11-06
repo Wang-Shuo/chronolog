@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 525b856851670586c58a1ba469094beaddd8ff152bc51f6c253549da71df63e8
+machine_hash: a9677eb15f33945d662223e6fb286a3a20f95f27644b8fa4b46efc21c084f895
 product: claude-code
 product_name: Claude Code
 record:
@@ -47,8 +47,8 @@ record:
   title: 3 Agent Mode changes in v2.1.144
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-05-15-2-agent-mode-changes-in-v2-1-143|2 Agent Mode
-  changes in v2.1.143]]'
+- '[[Changes/Codex CLI/2026-05-18-9-agent-mode-changes-in-rust-v0-131-0|9 Agent Mode
+  changes in rust-v0.131.0]]'
 - '[[Changes/Cursor/2026-05-18-composer-2-5-is-now-available-in-cursor|Composer 2.5
   is now available in Cursor]]'
 - '[[Changes/Claude Code/2026-05-19-added-resume-support-for-background-sessions-sessions-started-via-claude-bg-or-a|Added

@@ -12,6 +12,7 @@ import frontmatter
 ROOT = Path(__file__).resolve().parents[2]
 sys.path.insert(0, str(ROOT))
 from _scripts.extract import HOLDING_THEMES
+from _scripts.collect import load_sources
 from _scripts.history import read_history
 from _scripts.validate import ROOT_PAGES, validate_vault_links
 
@@ -63,12 +64,19 @@ def audit_html(site, base_url=None):
 
 def audit(vault, site, base_url=None):
     index = json.loads((site / 'static/contentIndex.json').read_text())
+    config = vault / '_scripts/sources.yaml'
+    sources = load_sources(config if config.exists() else ROOT / '_scripts/sources.yaml')
+    product_ids = {source['name'] for source in sources}
+    product_names = {source['display_name'] for source in sources}
     active, excluded = {}, []
     for directory in ['Products','Changes','Releases','Themes','Alerts','Archive']:
         for path in (vault / directory).rglob('*.md'):
             meta = frontmatter.load(path)
             slug = path.relative_to(vault).with_suffix('').as_posix().replace(' ', '-')
-            if meta.get('superseded') or meta.get('source_type') == 'fixture' or meta.get('publication') == 'fixture' or meta.get('product_name') not in (None,'ChatGPT','Claude Code','Cursor') or meta.get('product') not in (None,'chatgpt','claude-code','cursor'):
+            if (meta.get('superseded') or meta.get('source_type') == 'fixture'
+                    or meta.get('publication') == 'fixture'
+                    or meta.get('product_name') not in {None, *product_names}
+                    or meta.get('product') not in {None, *product_ids}):
                 excluded.append(slug)
             else:
                 active[slug] = meta
@@ -84,9 +92,6 @@ def audit(vault, site, base_url=None):
     html = '\n'.join(p.read_text() for p in site.rglob('*.html'))
     for excluded_slug in excluded:
         assert f'href="/{excluded_slug}"' not in html
-    for name in ['Aider','Continue','Tabby','OpenHands']:
-        assert not (site / 'Products' / (name+'.html')).exists()
-        assert not any(f'/{name}/' in key or key == f'Products/{name}' for key in index)
     changes = {k:v for k,v in active.items() if k.startswith('Changes/')}
     releases = {k:v for k,v in active.items() if k.startswith('Releases/')}
     product_counts = Counter(v['product'] for v in changes.values())
@@ -111,7 +116,7 @@ def audit(vault, site, base_url=None):
     for month, count in month_counts.items():
         assert f'{count:,} tracked change' in index['Archive/'+month]['content'], month
         assert f'Archive/{month}' in index['Archive/index']['links'], month
-    rs,cs,pending = read_history(vault, {'chatgpt','claude-code','cursor'})
+    rs,cs,pending = read_history(vault, product_ids)
     links = validate_vault_links(vault,rs,cs,pending)
     assert not links['errors'], links['errors'][:10]
     html_links = audit_html(site, base_url)

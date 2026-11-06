@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 9612c06a9298de7cf24cbbb934e5c6f7ca220bccbad5426e9fee56044930c714
+machine_hash: 61232ba0a2412a3ca4f7c4e6c669708d00684b8e8f418dffd90fd9eb411291f7
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,10 +45,10 @@ record:
     button…'
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-22-2-editor-experience-changes-in-v2-1-309|2 Editor
-  Experience changes in v2.1.309]]'
-- '[[Changes/Claude Code/2026-10-23-cloud-sessions-changed-the-cloud-environment-dialog-to-open-network-access-setup|Cloud
-  sessions Changed the cloud environment dialog to open network access, setup…]]'
+- '[[Changes/OpenHands/2026-10-23-chore-verify-openhands-time-network-responses-and-order-them-by-completion-by-en|chore(verify-openhands):
+  time network responses and order them by completion]]'
+- '[[Changes/Windsurf/2026-10-23-in-ide-mode-a-chat-tab-whose-agent-could-not-start-a-session-says-why-and-offers|In
+  IDE mode, a chat tab whose agent could not start a session says why and offers…]]'
 - '[[Changes/Claude Code/2026-10-26-vscode-changed-the-session-list-side-bar-to-load-web-sessions-when-the-web-tab-i|VSCode
   Changed the session list side bar to load Web sessions when the Web tab…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-10-27-v2-1-312-github-425846009-439d063a|claude-code-2026-10-27-v2-1-312-github-425846009-439d063a]]'
@@ -86,7 +86,7 @@ type: change
 ## Nearby in Editor Experience
 
 - Earlier: 2026-10-26 · Claude Code · [[Changes/Claude Code/2026-10-26-vscode-changed-the-session-list-side-bar-to-load-web-sessions-when-the-web-tab-i|VSCode Changed the session list side bar to load Web sessions when the Web tab…]]
-- Later: 2026-10-30 · Claude Code · [[Changes/Claude Code/2026-10-30-2-editor-experience-changes-in-v2-1-314|2 Editor Experience changes in v2.1.314]]
+- Later: 2026-10-28 · Windsurf · [[Changes/Windsurf/2026-10-28-in-devin-local-some-tool-requests-such-as-web-fetches-and-multi-file-edits-now-c|In Devin Local, some tool requests, such as web fetches and multi-file edits, now…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

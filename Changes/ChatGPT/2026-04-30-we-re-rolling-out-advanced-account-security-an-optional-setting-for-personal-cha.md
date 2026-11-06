@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 22a4aabf16feb9c4da4eb0fb0ad244d3a366eaf1118e250d5724fb3ad9a128cb
+machine_hash: 4ae69dfb3565fae447507c34bc28e2f6602277479c3d97a260f48dff9cabc363
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -74,12 +74,12 @@ record:
   title: Advanced Account Security in ChatGPT
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-04-09-added-interactive-google-vertex-ai-setup-wizard-accessible-from-the-login-screen|Added
-  interactive Google Vertex AI setup wizard accessible from the login screen…]]'
-- '[[Changes/ChatGPT/2026-04-22-we-re-launching-chatgpt-for-clinicians-a-free-version-of-chatgpt-for-verified-cl|ChatGPT
-  for Clinicians]]'
+- '[[Changes/GitHub Copilot CLI/2026-04-23-2-account-and-access-changes-in-v1-0-35|2
+  Account and Access changes in v1.0.35]]'
 - '[[Changes/Claude Code/2026-04-28-clarified-the-mcp-message-shown-when-an-mcp-server-is-still-unauthorized-after-t|Clarified
   the /mcp message shown when an MCP server is still unauthorized after…]]'
+- '[[Changes/Gemini CLI/2026-04-28-docs-migrate-installation-and-authentication-to-mdx-with-tabbed-layouts-by-g-sam|docs:
+  migrate installation and authentication to mdx with tabbed layouts]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-04-30-advanced-account-security-in-chatgpt-d81bf569|chatgpt-2026-04-30-advanced-account-security-in-chatgpt-d81bf569]]'
 source_type: chatgpt_changelog
 theme: account-access
@@ -106,8 +106,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Account and Access
 
-- Earlier: 2026-04-28 · Claude Code · [[Changes/Claude Code/2026-04-28-clarified-the-mcp-message-shown-when-an-mcp-server-is-still-unauthorized-after-t|Clarified the /mcp message shown when an MCP server is still unauthorized after…]]
-- Later: 2026-05-01 · Claude Code · [[Changes/Claude Code/2026-05-01-claude-auth-login-now-accepts-the-oauth-code-pasted-into-the-terminal-when-the-b|claude auth login now accepts the OAuth code pasted into the terminal…]]
+- Earlier: 2026-04-28 · Gemini CLI · [[Changes/Gemini CLI/2026-04-28-docs-migrate-installation-and-authentication-to-mdx-with-tabbed-layouts-by-g-sam|docs: migrate installation and authentication to mdx with tabbed layouts]]
+- Later: 2026-04-30 · Codex CLI · [[Changes/Codex CLI/2026-04-30-3-account-and-access-changes-in-rust-v0-128-0|3 Account and Access changes in rust-v0.128.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

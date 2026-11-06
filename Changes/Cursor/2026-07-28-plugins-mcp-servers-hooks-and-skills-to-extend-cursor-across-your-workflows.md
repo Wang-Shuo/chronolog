@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: b778e3a2bd15b4187ba671cd455bfade44db56125b1496dc4152d283089f786e
+machine_hash: 849bfa91756248a76b89a52cc976382fde72b25f4d6aeb963addefeda5d73b88
 product: cursor
 product_name: Cursor
 record:
@@ -41,12 +41,12 @@ record:
   title: Plugins, MCP servers, hooks, and skills to extend Cursor across your workflows
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-07-21-capped-the-frontend-design-plugin-suggestion-tip-at-3-lifetime-impressions-inste|Capped
-  the frontend-design plugin suggestion tip at 3 lifetime impressions instead…]]'
-- '[[Changes/Claude Code/2026-07-22-3-apps-and-integrations-changes-in-v2-1-218|3
-  Apps and Integrations changes in v2.1.218]]'
+- '[[Changes/GitHub Copilot CLI/2026-07-23-3-apps-and-integrations-changes-in-v1-0-74|3
+  Apps and Integrations changes in v1.0.74]]'
 - '[[Changes/Claude Code/2026-07-24-5-apps-and-integrations-changes-in-v2-1-219|5
   Apps and Integrations changes in v2.1.219]]'
+- '[[Changes/Cline/2026-07-24-include-the-host-plugin-version-in-telemetry-events|Include
+  the host plugin version in telemetry events]]'
 source_release: '[[Releases/Cursor/cursor-2026-07-28-cursor-start-https-cursor-com-changelog-cursor-start-386914df|cursor-2026-07-28-cursor-start-https-cursor-com-changelog-cursor-start-386914df]]'
 source_type: cursor_changelog
 theme: apps-integrations
@@ -78,7 +78,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-07-24 · Claude Code · [[Changes/Claude Code/2026-07-24-5-apps-and-integrations-changes-in-v2-1-219|5 Apps and Integrations changes in v2.1.219]]
+- Earlier: 2026-07-24 · Cline · [[Changes/Cline/2026-07-24-include-the-host-plugin-version-in-telemetry-events|Include the host plugin version in telemetry events]]
 - Later: 2026-07-29 · ChatGPT · [[Changes/ChatGPT/2026-07-29-we-re-beginning-to-roll-out-sign-in-with-chatgpt-across-select-plugins-and-partn|Sign in with ChatGPT]]
 <!-- chronolog:end -->
 

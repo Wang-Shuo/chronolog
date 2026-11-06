@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 6d4a00fd008cc32e321fc31981a01b01f9b1c0f1f74e3989fe9b1822e04681d2
+machine_hash: 4ae2cff93bdff861c364035c6a6e3f9f71771553817becf0957ad5c06b8dcf86
 product: claude-code
 product_name: Claude Code
 record:
@@ -54,8 +54,8 @@ record:
   title: 5 Model Support changes in v2.1.154
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-05-27-2-model-support-changes-in-v2-1-152|2 Model Support
-  changes in v2.1.152]]'
+- '[[Changes/Gemini CLI/2026-05-27-refactor-decouple-auto-model-description-and-configuration-from-releasechannel-b|refactor:
+  decouple auto model description and configuration from releaseChannel]]'
 - '[[Changes/ChatGPT/2026-05-28-today-we-re-continuing-to-retire-older-models-with-limited-usage-in-chatgpt-so-w|Retiring
   OpenAI o3 and GPT-4.5]]'
 - '[[Changes/ChatGPT/2026-05-28-we-re-updating-gpt-5-5-instant-in-chatgpt-and-the-api-to-improve-response-style|GPT-5.5

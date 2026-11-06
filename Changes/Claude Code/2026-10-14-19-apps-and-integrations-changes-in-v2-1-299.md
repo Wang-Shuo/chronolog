@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 6d18eaccfb62dce6db1ed0a6098b37df896c8d883e6ce0fa56d5acdf24a7bbc5
+machine_hash: 0963d7226343028d763110a041ed2cacb7f33a0d7e58ade2b62640edc4931db2
 product: claude-code
 product_name: Claude Code
 record:
@@ -105,9 +105,9 @@ record:
   title: 19 Apps and Integrations changes in v2.1.299
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-10-13-2-apps-and-integrations-changes-in-origin-app-marketplace|2
-  Apps and Integrations changes in Origin App Marketplace]]'
 - '[[Changes/Cursor/2026-10-13-apps-for-your-stack|Apps for your stack]]'
+- '[[Changes/GitHub Copilot CLI/2026-10-13-4-apps-and-integrations-changes-in-v1-0-97|4
+  Apps and Integrations changes in v1.0.97]]'
 - '[[Changes/Claude Code/2026-10-14-7-apps-and-integrations-changes-in-v2-1-300|7
   Apps and Integrations changes in v2.1.300]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-10-14-v2-1-299-github-412217284-623d9162|claude-code-2026-10-14-v2-1-299-github-412217284-623d9162]]'
@@ -189,7 +189,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.299
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-10-14 · Claude Code · [[Changes/Claude Code/2026-10-14-7-apps-and-integrations-changes-in-v2-1-300|7 Apps and Integrations changes in v2.1.300]]
-- Later: 2026-10-16 · ChatGPT · [[Changes/ChatGPT/2026-10-16-improved-use-of-plugins-and-tools-to-carry-out-tasks|Improved use of plugins and tools to carry out tasks]]
+- Later: 2026-10-14 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-10-14-2-apps-and-integrations-changes-in-v1-0-98|2 Apps and Integrations changes in v1.0.98]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

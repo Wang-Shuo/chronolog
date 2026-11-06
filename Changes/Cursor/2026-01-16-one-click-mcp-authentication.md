@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: 74c5e32d653a7dac6094f256122c7b85c2c9ea6bd05f6d3bc9889b1644c0269d
+machine_hash: e054e0e707106dafc319551c0f94bc9c92005b072f0f75ecbcdc0c69d3e69cda
 product: cursor
 product_name: Cursor
 record:
@@ -64,12 +64,12 @@ record:
   title: One-click MCP authentication
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-12-22-2-account-and-access-changes-in-2-3|2 Account and Access
-  changes in 2.3]]'
 - '[[Changes/Claude Code/2026-01-13-updated-help-improve-claude-setting-fetch-to-refresh-oauth-and-retry-when-it-fai|Updated
   "Help improve Claude" setting fetch to refresh OAuth and retry when it fails…]]'
 - '[[Changes/Claude Code/2026-01-14-changed-oauth-and-api-console-urls-from-console-anthropic-com-to-platform-claude|Changed
   OAuth and API Console URLs from console.anthropic.com to platform.claude.com]]'
+- '[[Changes/Codex CLI/2026-01-14-2-account-and-access-changes-in-rust-v0-81-0|2 Account
+  and Access changes in rust-v0.81.0]]'
 source_release: '[[Releases/Cursor/cursor-2026-01-16-cli-agent-modes-and-cloud-handoff-https-cursor-com-changelog-cli-becd78b5|cursor-2026-01-16-cli-agent-modes-and-cloud-handoff-https-cursor-com-changelog-cli-becd78b5]]'
 source_type: cursor_changelog
 theme: account-access
@@ -111,8 +111,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Account and Access
 
-- Earlier: 2026-01-14 · Claude Code · [[Changes/Claude Code/2026-01-14-changed-oauth-and-api-console-urls-from-console-anthropic-com-to-platform-claude|Changed OAuth and API Console URLs from console.anthropic.com to platform.claude.com]]
-- Later: 2026-01-22 · Claude Code · [[Changes/Claude Code/2026-01-22-vscode-added-ability-for-oauth-users-to-browse-and-resume-remote-claude-sessions|VSCode Added ability for OAuth users to browse and resume remote Claude sessions…]]
+- Earlier: 2026-01-14 · Codex CLI · [[Changes/Codex CLI/2026-01-14-2-account-and-access-changes-in-rust-v0-81-0|2 Account and Access changes in rust-v0.81.0]]
+- Later: 2026-01-16 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-01-16-2-account-and-access-changes-in-v0-0-384|2 Account and Access changes in v0.0.384]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

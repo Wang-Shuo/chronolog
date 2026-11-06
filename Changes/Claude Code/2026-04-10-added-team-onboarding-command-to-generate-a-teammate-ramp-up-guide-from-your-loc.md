@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 70771bd20dc1d9e75f37d67c7d304b1d199f86793c5fafaa4a97ab3eea0a97ad
+machine_hash: 0759ac9bba82e7e91c0660a9f4834fe9587feaf76fc90eb5fbd87692092bf532
 product: claude-code
 product_name: Claude Code
 record:
@@ -41,12 +41,12 @@ record:
   title: Added `/team-onboarding` command to generate a teammate ramp-up guide…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-03-25-added-managed-settings-d-drop-in-directory-alongside-managed-settings-json-letti|Added
-  managed-settings.d/ drop-in directory alongside managed-settings.json…]]'
 - '[[Changes/Cursor/2026-04-02-2-collaboration-changes-in-3-0|2 Collaboration changes
   in 3.0]]'
 - '[[Changes/Cursor/2026-04-08-redesigned-bugbot-settings-and-split-personal-and-team-settings-into-clearer-sec|Redesigned
   Bugbot settings, and split personal and team settings into clearer sections]]'
+- '[[Changes/Gemini CLI/2026-04-08-default-enable-narration-for-the-team-by-gundermanc-in-https-github-com-google-g|Default
+  enable narration for the team]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-04-10-v2-1-101-github-307692858-ffcdf642|claude-code-2026-04-10-v2-1-101-github-307692858-ffcdf642]]'
 source_type: github_releases
 theme: collaboration
@@ -82,8 +82,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Collaboration
 
-- Earlier: 2026-04-08 · Cursor · [[Changes/Cursor/2026-04-08-redesigned-bugbot-settings-and-split-personal-and-team-settings-into-clearer-sec|Redesigned Bugbot settings, and split personal and team settings into clearer sections]]
-- Later: 2026-05-01 · Cursor · [[Changes/Cursor/2026-05-01-admins-can-now-create-a-team-marketplace-without-connecting-a-repository-first-a-b1834a|Admins can now create a team marketplace without connecting a repository first]]
+- Earlier: 2026-04-08 · Gemini CLI · [[Changes/Gemini CLI/2026-04-08-default-enable-narration-for-the-team-by-gundermanc-in-https-github-com-google-g|Default enable narration for the team]]
+- Later: 2026-04-10 · Codex CLI · [[Changes/Codex CLI/2026-04-10-17256-app-server-use-shared-receivers-for-app-server-message-processors-euroeles|♯17256 app-server: Use shared receivers for app-server message processors @euroelessar]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

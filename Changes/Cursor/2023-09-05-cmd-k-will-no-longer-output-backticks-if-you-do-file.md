@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 47813a30d54e47fb2d953c72ea1c1a7a01e846d4d154455d78663cae6016cbf7
+machine_hash: 16aa3550a40d1b744adaeed0d5e56f1b6baa614044bc55f129051a223e814992
 product: cursor
 product_name: Cursor
 record:
@@ -41,7 +41,8 @@ record:
   title: Cmd-K will no longer output backticks if you do @file
   type: change
 related_changes:
-- '[[Changes/Cursor/2023-08-13-better-experience-for-long-files|Long-file experience]]'
+- '[[Changes/Aider/2023-08-22-only-git-commit-dirty-files-that-gpt-tries-to-edit-https-aider-chat-docs-faq-htm|Only
+  git commit dirty files that GPT tries…]]'
 - '[[Changes/Cursor/2023-08-22-codeblocks-and-code-symbols-in-with-codebase-responses-will-now-often-be-clickab|Codeblocks
   and code symbols in "with codebase" responses will now often be clickable]]'
 - '[[Changes/Cursor/2023-08-22-you-can-now-reply-to-cmd-k-outputs-making-it-much-easier-to-have-the-model-revis|Reply

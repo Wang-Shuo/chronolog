@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 22a582ce6393e0bf7635e56c1e77ca93e7f6c85dcb20d3d959bc1311b15eeae9
+machine_hash: d111511b4b16b9d4ce00098cc8b857877a67adeaeaa333f0ffb0fd4665aafb2d
 product: claude-code
 product_name: Claude Code
 record:
@@ -43,8 +43,8 @@ record:
     add…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-15-3-apps-and-integrations-changes-in-v2-1-273|3
-  Apps and Integrations changes in v2.1.273]]'
+- '[[Changes/OpenHands/2026-09-16-9-apps-and-integrations-changes-in-v1-19-0|9 Apps
+  and Integrations changes in v1.19.0]]'
 - '[[Changes/Claude Code/2026-09-17-10-apps-and-integrations-changes-in-v2-1-274|10
   Apps and Integrations changes in v2.1.274]]'
 - '[[Changes/Claude Code/2026-09-17-6-apps-and-integrations-changes-in-v2-1-275|6
@@ -89,7 +89,7 @@ type: change
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-09-17 · Claude Code · [[Changes/Claude Code/2026-09-17-10-apps-and-integrations-changes-in-v2-1-274|10 Apps and Integrations changes in v2.1.274]]
-- Later: 2026-09-18 · Claude Code · [[Changes/Claude Code/2026-09-18-6-apps-and-integrations-changes-in-v2-1-277|6 Apps and Integrations changes in v2.1.277]]
+- Later: 2026-09-17 · Cline · [[Changes/Cline/2026-09-17-terminal-commands-that-succeed-without-printing-anything-git-add-a-on-a-clean-tr|Terminal commands that succeed without printing anything…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

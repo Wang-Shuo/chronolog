@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: cb69c95a46423aca41522a08fc538fe0bd05d5c34810587586b740f124314c04
+machine_hash: a9065311c75b53249aa040682db1859ffd15de2b827e1c49f0267f76a9eb66ce
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -47,12 +47,12 @@ record:
   title: Finances expands to Free and Go users
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-09-29-site-owners-and-editors-on-plus-and-pro-can-select-edit-site-from-a-published-si|Site
-  owners and editors on Plus and Pro can select Edit site from a published Site…]]'
-- '[[Changes/Claude Code/2026-09-29-6-mobile-and-desktop-changes-in-v2-1-285|6 Mobile
-  and Desktop changes in v2.1.285]]'
 - '[[Changes/Claude Code/2026-10-01-2-mobile-and-desktop-changes-in-v2-1-287|2 Mobile
   and Desktop changes in v2.1.287]]'
+- '[[Changes/Codex CLI/2026-10-01-49093-simplify-startup-promotions-to-platform-specific-desktop-app-tips-etraut-o|♯49093
+  Simplify startup promotions to platform-specific desktop app tips @etraut-openai]]'
+- '[[Changes/GitHub Copilot CLI/2026-10-01-sandboxed-commands-run-on-windows-versions-without-filesystem-enumeration-suppor|Sandboxed
+  commands run on Windows versions without filesystem enumeration support…]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-10-02-finances-expands-to-free-and-go-users-58adba1b|chatgpt-2026-10-02-finances-expands-to-free-and-go-users-58adba1b]]'
 source_type: chatgpt_changelog
 theme: mobile-desktop
@@ -79,8 +79,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2026-10-01 · Claude Code · [[Changes/Claude Code/2026-10-01-2-mobile-and-desktop-changes-in-v2-1-287|2 Mobile and Desktop changes in v2.1.287]]
-- Later: 2026-10-06 · Cursor · [[Changes/Cursor/2026-10-06-to-stop-your-computer-from-sleeping-while-you-re-away-turn-on-keep-this-computer|Keep your computer awake]]
+- Earlier: 2026-10-01 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-10-01-sandboxed-commands-run-on-windows-versions-without-filesystem-enumeration-suppor|Sandboxed commands run on Windows versions without filesystem enumeration support…]]
+- Later: 2026-10-05 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-10-05-sandboxed-commands-on-windows-write-temporary-files-to-the-granted-temp-director|Sandboxed commands on Windows write temporary files to the granted temp directory…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

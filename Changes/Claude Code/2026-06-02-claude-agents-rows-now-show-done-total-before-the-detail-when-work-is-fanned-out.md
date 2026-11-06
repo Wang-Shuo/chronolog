@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 659522a0332f4926bb8a6274efb3eb30aca434eb71340cb07fecc3ed5ca2b8b1
+machine_hash: 05972fbadfa1171d00719ad930887afb06fe1160baa9232a17f67f675cb64c69
 product: claude-code
 product_name: Claude Code
 record:
@@ -44,10 +44,10 @@ record:
     fanned out'
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-05-29-claude-agents-the-agent-field-in-settings-json-is-now-honored-for-dispatched-ses|claude
-  agents: the agent field in settings.json is now honored for dispatched…]]'
-- '[[Changes/Cursor/2026-05-29-auto-review-is-a-new-run-mode-that-allows-cursor-to-work-for-longer-with-fewer-a-61df08|Auto-review
-  Run Mode]]'
+- '[[Changes/Codex CLI/2026-06-01-3-agent-mode-changes-in-rust-v0-136-0|3 Agent Mode
+  changes in rust-v0.136.0]]'
+- '[[Changes/GitHub Copilot CLI/2026-06-01-canceling-a-running-shell-command-ctrl-c-on-a-command-or-aborting-an-agent-comma|Canceling
+  a running shell command (Ctrl+C on a !command, or aborting an agent command]]'
 - '[[Changes/Claude Code/2026-06-02-improved-performance-of-opening-recently-inactive-background-agent-sessions-in-c|Improved
   performance of opening recently-inactive background agent sessions…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-06-02-v2-1-161-github-333271302-7337e6fa|claude-code-2026-06-02-v2-1-161-github-333271302-7337e6fa]]'

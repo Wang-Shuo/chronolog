@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: 48c4fa8cefc65acad4ad5ecb0d84580b35b5ed530afa75d0f3163d78390262d0
+machine_hash: 785c534ab6af717724ca13a3ad9759ef536227e423ead7ff6be7877ebf10289f
 product: claude-code
 product_name: Claude Code
 record:
@@ -54,12 +54,12 @@ record:
   title: Improved background agent behavior
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-03-04-cursor-is-now-available-in-intellij-idea-pycharm-webstorm-and-other-jetbrains-id-2dc9cd|Cursor
-  is now available in IntelliJ IDEA, PyCharm, WebStorm, and other JetBrains…]]'
-- '[[Changes/Claude Code/2026-03-05-2-agent-mode-changes-in-v2-1-69|2 Agent Mode changes
-  in v2.1.69]]'
-- '[[Changes/Claude Code/2026-03-10-2-agent-mode-changes-in-v2-1-72|2 Agent Mode changes
-  in v2.1.72]]'
+- '[[Changes/OpenHands/2026-03-11-2-agent-mode-changes-in-1-5-0|2 Agent Mode changes
+  in 1.5.0]]'
+- '[[Changes/Cline/2026-03-12-added-github-copilot-instructions-md-for-coding-agents|Added
+  .github/copilot-instructions.md for coding agents]]'
+- '[[Changes/GitHub Copilot CLI/2026-03-13-send-follow-up-messages-to-background-agents-with-the-write-agent-tool-for-multi|Send
+  follow-up messages to background agents with the write_agent tool…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-03-14-v2-1-76-github-296929324-94cd2ffc|claude-code-2026-03-14-v2-1-76-github-296929324-94cd2ffc]]'
 source_type: github_releases
 theme: agent-mode
@@ -96,8 +96,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2026-03-10 · Claude Code · [[Changes/Claude Code/2026-03-10-2-agent-mode-changes-in-v2-1-72|2 Agent Mode changes in v2.1.72]]
-- Later: 2026-03-17 · Claude Code · [[Changes/Claude Code/2026-03-17-2-agent-mode-changes-in-v2-1-77|2 Agent Mode changes in v2.1.77]]
+- Earlier: 2026-03-13 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-03-13-send-follow-up-messages-to-background-agents-with-the-write-agent-tool-for-multi|Send follow-up messages to background agents with the write_agent tool…]]
+- Later: 2026-03-16 · Codex CLI · [[Changes/Codex CLI/2026-03-16-16-agent-mode-changes-in-rust-v0-115-0|16 Agent Mode changes in rust-v0.115.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

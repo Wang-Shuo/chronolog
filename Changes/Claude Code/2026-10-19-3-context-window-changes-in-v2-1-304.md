@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 3e8d69332bd1001937a5b365b97bdb51d1e41bb9c9919959c65eb6e7d5366b3f
+machine_hash: 5466243891f9052f996debfaf39857b64752086f3ce5b4c15b3227767618cf26
 product: claude-code
 product_name: Claude Code
 record:
@@ -48,12 +48,12 @@ record:
   title: 3 Context Window changes in v2.1.304
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-14-added-usage-warnings-for-max-effort-workflows-always-on-context-and-large-tool-r|Added
-  /usage warnings for max effort, workflows, always-on context and large tool…]]'
-- '[[Changes/Claude Code/2026-10-15-improved-switching-to-a-model-with-a-smaller-context-window-a-conversation-too-l|Improved
-  switching to a model with a smaller context window]]'
+- '[[Changes/Codex CLI/2026-10-15-16-context-window-changes-in-rust-v0-163-0|16 Context
+  Window changes in rust-v0.163.0]]'
 - '[[Changes/Claude Code/2026-10-16-2-context-window-changes-in-v2-1-302|2 Context
   Window changes in v2.1.302]]'
+- '[[Changes/Cline/2026-10-16-auto-compact-and-its-strategy-setting-sit-together-again-in-feature-settings|Auto
+  Compact and its strategy setting sit together again in Feature settings]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-10-19-v2-1-304-github-417677344-46c4d994|claude-code-2026-10-19-v2-1-304-github-417677344-46c4d994]]'
 source_type: github_releases
 theme: context-window
@@ -97,8 +97,8 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.304
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Context Window
 
-- Earlier: 2026-10-16 · Claude Code · [[Changes/Claude Code/2026-10-16-2-context-window-changes-in-v2-1-302|2 Context Window changes in v2.1.302]]
-- Later: 2026-10-22 · Claude Code · [[Changes/Claude Code/2026-10-22-updated-the-claude-api-skill-service-account-keys-and-workload-identity-federati|Updated the /claude-api skill]]
+- Earlier: 2026-10-16 · Cline · [[Changes/Cline/2026-10-16-auto-compact-and-its-strategy-setting-sit-together-again-in-feature-settings|Auto Compact and its strategy setting sit together again in Feature settings]]
+- Later: 2026-10-19 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-10-19-avoid-false-context-exhaustion-and-rollover-refusal-when-tool-definitions-are-de|Avoid false context exhaustion and rollover refusal when tool definitions are deferred]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

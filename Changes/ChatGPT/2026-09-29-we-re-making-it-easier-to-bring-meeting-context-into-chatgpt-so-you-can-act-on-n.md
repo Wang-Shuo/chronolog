@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 2659b43d98dc9a5bc8098b25e65e3344fe306febfe67fc68d9a0707be267508b
+machine_hash: 57c4c6ac7aebcd92ab69226a1a3c359a6571fbe6db2216cdb7e59cdb02debe64
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -63,8 +63,8 @@ record:
     on next…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-28-8-apps-and-integrations-changes-in-v2-1-284|8
-  Apps and Integrations changes in v2.1.284]]'
+- '[[Changes/GitHub Copilot CLI/2026-09-28-4-apps-and-integrations-changes-in-v1-0-89|4
+  Apps and Integrations changes in v1.0.89]]'
 - '[[Changes/ChatGPT/2026-09-29-this-is-a-limited-preview-with-participating-integrations-using-purchased-credit|This
   is a limited preview with participating integrations]]'
 - '[[Changes/ChatGPT/2026-09-29-plugins-can-now-include-interactive-panels-sidebar-views-and-viewers-or-editors-d0bd7e|Work

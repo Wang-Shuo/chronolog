@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: fcb0dda0cc88f4004dc15060b9d20c88f43333b913e1f3602d1167b93df71772
+machine_hash: eca9da9844a55893f7a643e9e7880a61919c442674c9c73c61c376311d09d9b0
 product: cursor
 product_name: Cursor
 record:
@@ -47,12 +47,12 @@ record:
   title: Duplicate Chats
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-03-23-2-interface-experience-changes-in-0-48-x|2 Interface
-  Experience changes in 0.48.x]]'
-- '[[Changes/Cursor/2025-04-15-chat-history-has-moved-into-the-command-palette-you-can-access-it-from-the-show|More
-  accessible history]]'
-- '[[Changes/ChatGPT/2025-05-06-we-ve-removed-the-row-of-individual-tool-icons-from-the-mobile-composer-and-repl-a35dd7|Mobile
-  UI (iOS/Android) changing on Free/Plus/Pro plans]]'
+- '[[Changes/Aider/2025-05-09-3-interface-experience-changes-in-v0-83-0|3 Interface
+  Experience changes in v0.83.0]]'
+- '[[Changes/Cline/2025-05-10-add-support-for-batch-selection-and-deletion-of-tasks-in-history-thanks-danix800|Add
+  support for batch selection and deletion of tasks in history (Thanks danix800!)]]'
+- '[[Changes/Cline/2025-05-12-added-details-to-auto-approve-menu-and-more-sensible-default-controls|Added
+  details to auto approve menu and more sensible default controls]]'
 source_release: '[[Releases/Cursor/cursor-2025-05-15-0-50-https-cursor-com-changelog-0-50-dc290998|cursor-2025-05-15-0-50-https-cursor-com-changelog-0-50-dc290998]]'
 source_type: cursor_changelog
 theme: interface-experience
@@ -88,8 +88,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2025-05-06 · ChatGPT · [[Changes/ChatGPT/2025-05-06-we-ve-removed-the-row-of-individual-tool-icons-from-the-mobile-composer-and-repl-a35dd7|Mobile UI (iOS/Android) changing on Free/Plus/Pro plans]]
-- Later: 2025-06-03 · ChatGPT · [[Changes/ChatGPT/2025-06-03-memory-improvements-are-starting-to-roll-out-to-free-users-in-addition-to-the-sa-a02494|Memory improvements are starting to roll out to Free users]]
+- Earlier: 2025-05-12 · Cline · [[Changes/Cline/2025-05-12-added-details-to-auto-approve-menu-and-more-sensible-default-controls|Added details to auto approve menu and more sensible default controls]]
+- Later: 2025-05-18 · Cline · [[Changes/Cline/2025-05-18-update-ui-styling-for-auto-approve-menu-items-to-conserve-space|Update UI styling for auto-approve menu items to conserve space]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

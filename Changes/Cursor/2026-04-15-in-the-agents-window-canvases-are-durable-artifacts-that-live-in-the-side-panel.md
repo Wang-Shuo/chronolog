@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 8b10e72174ef1f1c196289a9fd70798023d15e113e13e15a1d12425c1a0d57a7
+machine_hash: 24fba9cdd9d4543763cf94159e37fa6da84d477af15aa672bd9f5b5c24877b26
 product: cursor
 product_name: Cursor
 record:
@@ -53,12 +53,12 @@ record:
     panel…
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-04-14-we-ve-shipped-quality-of-life-improvements-to-the-cursor-cli-to-make-working-wit|We''ve
-  shipped quality-of-life improvements to the Cursor CLI to make working…]]'
-- '[[Changes/Cursor/2026-04-14-3-developer-workflow-changes-in-04-14-26|3 Developer
-  Workflow changes in 04.14.26]]'
+- '[[Changes/GitHub Copilot CLI/2026-04-14-lsp-language-servers-correctly-initialize-on-windows-using-proper-file-uri-paths|LSP
+  language servers correctly initialize on Windows using proper file URI paths]]'
 - '[[Changes/Claude Code/2026-04-15-bash-tool-now-enforces-the-documented-maximum-timeout-instead-of-accepting-arbit|Bash
   tool now enforces the documented maximum timeout instead of accepting…]]'
+- '[[Changes/Codex CLI/2026-04-15-4-developer-workflow-changes-in-rust-v0-121-0|4
+  Developer Workflow changes in rust-v0.121.0]]'
 source_release: '[[Releases/Cursor/cursor-2026-04-15-canvases-https-cursor-com-changelog-04-15-26-cd056bf7|cursor-2026-04-15-canvases-https-cursor-com-changelog-04-15-26-cd056bf7]]'
 source_type: cursor_changelog
 theme: developer-workflow
@@ -88,8 +88,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2026-04-15 · Claude Code · [[Changes/Claude Code/2026-04-15-bash-tool-now-enforces-the-documented-maximum-timeout-instead-of-accepting-arbit|Bash tool now enforces the documented maximum timeout instead of accepting…]]
-- Later: 2026-04-16 · Claude Code · [[Changes/Claude Code/2026-04-16-2-developer-workflow-changes-in-v2-1-111|2 Developer Workflow changes in v2.1.111]]
+- Earlier: 2026-04-15 · Codex CLI · [[Changes/Codex CLI/2026-04-15-4-developer-workflow-changes-in-rust-v0-121-0|4 Developer Workflow changes in rust-v0.121.0]]
+- Later: 2026-04-15 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-04-15-2-developer-workflow-changes-in-v1-0-27|2 Developer Workflow changes in v1.0.27]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 3d6c2e9f635c2ff84a58c278c2779be24885d5aa2cebaac7ef487d2e122b54fd
+machine_hash: 930c97303144d00b1f96958462e2afc9576ad8ddc7b5baecfb098874ba880eca
 product: claude-code
 product_name: Claude Code
 record:
@@ -44,12 +44,12 @@ record:
     resolution'
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-04-22-2-developer-workflow-changes-in-v2-1-117|2 Developer
-  Workflow changes in v2.1.117]]'
-- '[[Changes/Claude Code/2026-04-23-4-developer-workflow-changes-in-v2-1-119|4 Developer
-  Workflow changes in v2.1.119]]'
-- '[[Changes/Claude Code/2026-04-23-wsl-on-windows-can-now-inherit-windows-side-managed-settings-via-the-wslinherits|WSL
-  on Windows can now inherit Windows-side managed settings…]]'
+- '[[Changes/Cline/2026-04-24-log-discovered-heap-snapshots-on-abnormal-exits-for-easier-oom-debugging|log
+  discovered heap snapshots on abnormal exits for easier OOM debugging]]'
+- '[[Changes/Codex CLI/2026-04-24-2-developer-workflow-changes-in-rust-v0-125-0|2
+  Developer Workflow changes in rust-v0.125.0]]'
+- '[[Changes/GitHub Copilot CLI/2026-04-24-2-developer-workflow-changes-in-v1-0-36|2
+  Developer Workflow changes in v1.0.36]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-04-28-v2-1-122-github-314740479-0cc42196|claude-code-2026-04-28-v2-1-122-github-314740479-0cc42196]]'
 source_type: github_releases
 theme: developer-workflow
@@ -81,7 +81,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2026-04-23 · Claude Code · [[Changes/Claude Code/2026-04-23-wsl-on-windows-can-now-inherit-windows-side-managed-settings-via-the-wslinherits|WSL on Windows can now inherit Windows-side managed settings…]]
+- Earlier: 2026-04-24 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-04-24-2-developer-workflow-changes-in-v1-0-36|2 Developer Workflow changes in v1.0.36]]
 - Later: 2026-04-28 · Claude Code · [[Changes/Claude Code/2026-04-28-4-developer-workflow-changes-in-v2-1-121|4 Developer Workflow changes in v2.1.121]]
 <!-- chronolog:end -->
 

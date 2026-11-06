@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: bd83f675d4eaba3dfaa85ef2b9b0bd742124c6eda95d9e1e183b9da302f9b66a
+machine_hash: 8dcb09efc18efb8155694b0d16ae9e198ff3588268a211a7eafd8235d788c87e
 product: claude-code
 product_name: Claude Code
 record:
@@ -52,8 +52,8 @@ record:
   title: 4 Apps and Integrations changes in v2.1.232
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-08-08-3-apps-and-integrations-changes-in-v2-1-225|3
-  Apps and Integrations changes in v2.1.225]]'
+- '[[Changes/GitHub Copilot CLI/2026-08-10-3-apps-and-integrations-changes-in-v1-0-79|3
+  Apps and Integrations changes in v1.0.79]]'
 - '[[Changes/Claude Code/2026-08-11-2-apps-and-integrations-changes-in-v2-1-228|2
   Apps and Integrations changes in v2.1.228]]'
 - '[[Changes/Claude Code/2026-08-12-3-apps-and-integrations-changes-in-v2-1-229|3
@@ -107,7 +107,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.232
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-08-12 · Claude Code · [[Changes/Claude Code/2026-08-12-3-apps-and-integrations-changes-in-v2-1-229|3 Apps and Integrations changes in v2.1.229]]
-- Later: 2026-08-14 · Claude Code · [[Changes/Claude Code/2026-08-14-2-apps-and-integrations-changes-in-v2-1-233|2 Apps and Integrations changes in v2.1.233]]
+- Later: 2026-08-13 · Cline · [[Changes/Cline/2026-08-13-these-land-through-sdk-v0-0-74-and-therefore-apply-to-windows-running-the-sdk-bu|These land through SDK v0.0.74 and therefore apply to windows running the SDK…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

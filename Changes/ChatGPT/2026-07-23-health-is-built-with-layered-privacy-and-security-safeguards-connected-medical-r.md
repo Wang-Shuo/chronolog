@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: df869244962cc0ca6e30ab9a7ec910bcd23639ac76e50bdfe1d569a1c808637b
+machine_hash: 0df171ab8e4bd99b09a55b9cd944a2cd90a97f8389178fe45b5d0d968d2548ef
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -56,10 +56,10 @@ record:
   title: Health is built with layered privacy and security safeguards
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-07-20-5-safety-and-privacy-changes-in-v2-1-216|5 Safety
-  and Privacy changes in v2.1.216]]'
 - '[[Changes/Claude Code/2026-07-21-fixed-remote-control-sessions-not-showing-a-pending-permission-prompt-or-dialog|Fixed
   Remote Control sessions not showing a pending permission prompt or dialog…]]'
+- '[[Changes/Codex CLI/2026-07-21-17-safety-and-privacy-changes-in-rust-v0-145-0|17
+  Safety and Privacy changes in rust-v0.145.0]]'
 - '[[Changes/Claude Code/2026-07-22-3-safety-and-privacy-changes-in-v2-1-218|3 Safety
   and Privacy changes in v2.1.218]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-07-23-health-in-chatgpt-4cb3bdf6|chatgpt-2026-07-23-health-in-chatgpt-4cb3bdf6]]'
@@ -91,7 +91,7 @@ type: change
 ## Nearby in Safety and Privacy
 
 - Earlier: 2026-07-22 · Claude Code · [[Changes/Claude Code/2026-07-22-3-safety-and-privacy-changes-in-v2-1-218|3 Safety and Privacy changes in v2.1.218]]
-- Later: 2026-07-24 · Claude Code · [[Changes/Claude Code/2026-07-24-2-safety-and-privacy-changes-in-v2-1-219|2 Safety and Privacy changes in v2.1.219]]
+- Later: 2026-07-23 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-07-23-show-a-first-run-splash-to-opt-into-the-default-sandbox|Show a first-run splash to opt into the default sandbox]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

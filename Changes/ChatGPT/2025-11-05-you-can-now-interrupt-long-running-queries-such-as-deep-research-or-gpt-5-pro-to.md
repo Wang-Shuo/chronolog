@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 4dc3c8b43df48bf8235c4922d9e80d447670dd032834c270fd7331fa613c13dd
+machine_hash: 6188a488f4d3a46a0d7d74662e673b01842e10db581d1c0734b4eeb433e43532
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -68,10 +68,12 @@ record:
   title: Interrupt ChatGPT
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2025-10-22-we-re-updating-the-model-for-signed-out-users-to-gpt-5-instant-giving-more-peopl|We’re
-  updating the model for signed-out users to GPT-5 Instant, giving more people…]]'
-- '[[Changes/Cursor/2025-10-29-introducing-our-first-agentic-coding-model-composer-is-a-frontier-model-that-is|Composer]]'
-- '[[Changes/Cursor/2025-10-29-plan-mode-in-background|Plan Mode in Background]]'
+- '[[Changes/Cline/2025-11-04-feat-add-support-for-claude-4-5-sonnet-in-sap-ai-core-provider-by-wahajahmedkhan|feat:
+  Add support for Claude 4.5 Sonnet in SAP AI Core provider]]'
+- '[[Changes/Codex CLI/2025-11-04-2-model-support-changes-in-rust-v0-54-0|2 Model
+  Support changes in rust-v0.54.0]]'
+- '[[Changes/Gemini CLI/2025-11-04-2-model-support-changes-in-v0-12-0|2 Model Support
+  changes in v0.12.0]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-11-05-interrupt-chatgpt-f1320118|chatgpt-2025-11-05-interrupt-chatgpt-f1320118]]'
 source_type: chatgpt_changelog
 theme: model-support
@@ -98,8 +100,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2025-10-29 · Cursor · [[Changes/Cursor/2025-10-29-plan-mode-in-background|Plan Mode in Background]]
-- Later: 2025-11-12 · ChatGPT · [[Changes/ChatGPT/2025-11-12-we-re-updating-chatgpt-s-tone-controls-so-it-s-easier-to-make-responses-sound-th-d3a253|New tone and personalization controls]]
+- Earlier: 2025-11-04 · Gemini CLI · [[Changes/Gemini CLI/2025-11-04-2-model-support-changes-in-v0-12-0|2 Model Support changes in v0.12.0]]
+- Later: 2025-11-06 · Cline · [[Changes/Cline/2025-11-06-complete-telemetry-attribution-for-model-provider-tracking-by-nickbaumann98-in-h|Complete telemetry attribution for model/provider tracking]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

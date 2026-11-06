@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 3edca32a3c238ce9079c366151549a5d7122850b9e074bf4c949e9771edf679a
+machine_hash: 7a7563855520a02596bc310916fc54dcb8595edf7f4de9c81dca117e2d3d2160
 product: cursor
 product_name: Cursor
 record:
@@ -50,10 +50,9 @@ record:
   title: MCP Resources support
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2025-08-13-gmail-google-calendar-and-google-contacts-connectors-in-chatgpt-are-now-availabl-e34de4|Gmail,
-  Google Calendar, and Google Contacts Connectors in ChatGPT (Plus)]]'
-- '[[Changes/Cursor/2025-08-21-cursor-now-supports-mcp-elicitation-a-new-feature-in-the-mcp-spec-that-allows-se|Support
-  for MCP elicitation]]'
+- '[[Changes/Codex CLI/2025-09-10-3395-set-a-user-agent-suffix-when-used-as-a-mcp-server-3395|♯3395
+  Set a user agent suffix when used as a mcp server (♯3395)]]'
+- '[[Changes/Cline/2025-09-11-added-dify-ai-api-integration|Added Dify.ai API Integration]]'
 - '[[Changes/Cursor/2025-09-12-2-apps-and-integrations-changes-in-1-6|2 Apps and Integrations
   changes in 1.6]]'
 source_release: '[[Releases/Cursor/cursor-2025-09-12-1-6-https-cursor-com-changelog-1-6-f33fb3ea|cursor-2025-09-12-1-6-https-cursor-com-changelog-1-6-f33fb3ea]]'
@@ -95,8 +94,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2025-08-21 · Cursor · [[Changes/Cursor/2025-08-21-cursor-now-supports-mcp-elicitation-a-new-feature-in-the-mcp-spec-that-allows-se|Support for MCP elicitation]]
-- Later: 2025-09-29 · Cursor · [[Changes/Cursor/2025-09-29-4-apps-and-integrations-changes-in-1-7|4 Apps and Integrations changes in 1.7]]
+- Earlier: 2025-09-11 · Cline · [[Changes/Cline/2025-09-11-added-dify-ai-api-integration|Added Dify.ai API Integration]]
+- Later: 2025-09-15 · Codex CLI · [[Changes/Codex CLI/2025-09-15-5-apps-and-integrations-changes-in-rust-v0-36-0|5 Apps and Integrations changes in rust-v0.36.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

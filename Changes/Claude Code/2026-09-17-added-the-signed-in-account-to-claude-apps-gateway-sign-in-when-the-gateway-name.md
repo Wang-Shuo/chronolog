@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: e48c71db61ac7e91122b561129f8ad6211e330118407e9327044b507f6d75f1f
+machine_hash: 896cf61211e6478be4d4e8f923a81e8fe65c97933c856a028a3e8a5a1ace5af7
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,10 +45,10 @@ record:
   title: Added the signed-in account to Claude apps gateway sign-in
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-14-changed-claude-apps-gateway-bedrock-vertex-ai-and-foundry-sessions-so-that-they|Changed
-  Claude apps gateway, Bedrock, Vertex AI, and Foundry sessions so that they…]]'
-- '[[Changes/Claude Code/2026-09-15-4-account-and-access-changes-in-v2-1-273|4 Account
-  and Access changes in v2.1.273]]'
+- '[[Changes/GitHub Copilot CLI/2026-09-16-4-account-and-access-changes-in-v1-0-85|4
+  Account and Access changes in v1.0.85]]'
+- '[[Changes/OpenHands/2026-09-16-2-account-and-access-changes-in-v1-19-0|2 Account
+  and Access changes in v1.19.0]]'
 - '[[Changes/Claude Code/2026-09-17-improved-claude-apps-gateway-sign-in-rate-limit-errors-login-now-explains-the-re|Improved
   Claude apps gateway sign-in rate limit errors]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-17-v2-1-275-github-391032307-12ccfafd|claude-code-2026-09-17-v2-1-275-github-391032307-12ccfafd]]'
@@ -91,7 +91,7 @@ type: change
 ## Nearby in Account and Access
 
 - Earlier: 2026-09-17 · Claude Code · [[Changes/Claude Code/2026-09-17-improved-claude-apps-gateway-sign-in-rate-limit-errors-login-now-explains-the-re|Improved Claude apps gateway sign-in rate limit errors]]
-- Later: 2026-09-22 · Claude Code · [[Changes/Claude Code/2026-09-22-claude-tag-improved-the-github-banner-in-claude-tag-admin-settings-to-say-why-gi|Claude Tag Improved the GitHub banner in Claude Tag admin settings to say why…]]
+- Later: 2026-09-17 · Codex CLI · [[Changes/Codex CLI/2026-09-17-6-account-and-access-changes-in-rust-v0-155-0|6 Account and Access changes in rust-v0.155.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

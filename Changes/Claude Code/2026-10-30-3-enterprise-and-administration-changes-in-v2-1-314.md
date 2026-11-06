@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 5ed1021cc2a829b252eab5571a8ff9ccfc36bd9aec07f7ce3ee3294375b8a3e5
+machine_hash: ace06b3ca43ac60844d2e26f22549ccb4edf5d1f8ade615dd5449649da8a9033
 product: claude-code
 product_name: Claude Code
 record:
@@ -50,10 +50,10 @@ record:
   title: 3 Enterprise and Administration changes in v2.1.314
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-10-15-applications-are-now-open-to-labs-at-u-s-universities-if-you-re-a-principal-inve|Applications
-  are now open to labs at U.S. universities]]'
 - '[[Changes/Claude Code/2026-10-20-claude-tag-added-public-slack-channels-claude-hasn-t-joined-to-the-claude-tag-ad|Claude
   Tag Added public Slack channels Claude hasn''t joined to the Claude Tag…]]'
+- '[[Changes/GitHub Copilot CLI/2026-10-20-model-picker-marks-your-administrator-managed-model-as-the-default-when-it-is-av|Model
+  picker marks your administrator-managed model as the default when it is available]]'
 - '[[Changes/Claude Code/2026-10-23-cloud-sessions-added-claude-code-cloud-sessions-and-remote-control-permissions-t|Cloud
   sessions Added Claude Code cloud sessions and Remote Control permissions…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-10-30-v2-1-314-github-428518421-b7ac83d7|claude-code-2026-10-30-v2-1-314-github-428518421-b7ac83d7]]'
@@ -100,7 +100,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.314
 ## Nearby in Enterprise and Administration
 
 - Earlier: 2026-10-23 · Claude Code · [[Changes/Claude Code/2026-10-23-cloud-sessions-added-claude-code-cloud-sessions-and-remote-control-permissions-t|Cloud sessions Added Claude Code cloud sessions and Remote Control permissions…]]
-- Later: 2026-10-31 · Claude Code · [[Changes/Claude Code/2026-10-31-2-enterprise-and-administration-changes-in-v2-1-316|2 Enterprise and Administration changes in v2.1.316]]
+- Later: 2026-10-30 · Windsurf · [[Changes/Windsurf/2026-10-30-members-an-enterprise-admin-has-listed-for-anthropic-s-cyber-verification-progra|Members an enterprise admin has listed for Anthropic's Cyber Verification Program…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

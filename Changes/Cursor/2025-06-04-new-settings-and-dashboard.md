@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 4fdcbfb9b0f1c8b9feb40fc1a48efb5620118f5265027c1b7033a2448bf888f2
+machine_hash: 2c03d03660621bd299515b05e2ca67647c4ce4fdd841b070edad38d337274e21
 product: cursor
 product_name: Cursor
 record:
@@ -50,11 +50,12 @@ record:
   title: New Settings and Dashboard
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2025-05-06-we-ve-removed-the-row-of-individual-tool-icons-from-the-mobile-composer-and-repl-a35dd7|Mobile
-  UI (iOS/Android) changing on Free/Plus/Pro plans]]'
-- '[[Changes/Cursor/2025-05-15-duplicate-chats|Duplicate Chats]]'
+- '[[Changes/Cline/2025-05-28-add-improved-onboarding-experience-for-new-users-with-guided-setup|Add
+  improved onboarding experience for new users with guided setup]]'
 - '[[Changes/ChatGPT/2025-06-03-memory-improvements-are-starting-to-roll-out-to-free-users-in-addition-to-the-sa-a02494|Memory
   improvements are starting to roll out to Free users]]'
+- '[[Changes/Windsurf/2025-06-03-improvements-to-import-behavior-during-onboarding|Improvements
+  to import behavior during onboarding]]'
 source_release: '[[Releases/Cursor/cursor-2025-06-04-1-0-https-cursor-com-changelog-1-0-237767ca|cursor-2025-06-04-1-0-https-cursor-com-changelog-1-0-237767ca]]'
 source_type: cursor_changelog
 theme: interface-experience
@@ -98,8 +99,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2025-06-03 · ChatGPT · [[Changes/ChatGPT/2025-06-03-memory-improvements-are-starting-to-roll-out-to-free-users-in-addition-to-the-sa-a02494|Memory improvements are starting to roll out to Free users]]
-- Later: 2025-07-03 · Cursor · [[Changes/Cursor/2025-07-03-chat-rendering-bugs-resolved-toolcall-display-overflow-issues|Chat rendering bugs resolved (toolcall display, overflow issues)]]
+- Earlier: 2025-06-03 · Windsurf · [[Changes/Windsurf/2025-06-03-improvements-to-import-behavior-during-onboarding|Improvements to import behavior during onboarding]]
+- Later: 2025-06-10 · Windsurf · [[Changes/Windsurf/2025-06-10-new-menu-to-open-previous-conversations-to-quickly-switch-conversations|New menu to open previous conversations to quickly switch conversations]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

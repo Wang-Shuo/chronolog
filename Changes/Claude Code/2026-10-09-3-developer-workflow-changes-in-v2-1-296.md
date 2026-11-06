@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 537b3f6c5ceff74d1be910c930b5d3a27869358d9ad3ec24a451b0f6d0410884
+machine_hash: d00a0f1f122ed95afcf320ae0e14ed78e7477190bd850de2e882e4b16b148faa
 product: claude-code
 product_name: Claude Code
 record:
@@ -49,12 +49,12 @@ record:
   title: 3 Developer Workflow changes in v2.1.296
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-06-2-developer-workflow-changes-in-v2-1-292|2 Developer
-  Workflow changes in v2.1.292]]'
-- '[[Changes/Claude Code/2026-10-07-code-review-improved-code-review-s-add-a-repository-dialog-to-list-each-reposito|Code
-  Review Improved Code Review''s Add a repository dialog to list each repository…]]'
+- '[[Changes/GitHub Copilot CLI/2026-10-07-warmed-language-servers-stay-running-across-lsp-requests-when-sandboxing-is-disa|Warmed
+  language servers stay running across LSP requests when sandboxing is disabled]]'
 - '[[Changes/Claude Code/2026-10-08-added-a-line-on-stderr-when-it-is-a-terminal-that-says-what-a-claude-p-run-is-wa|Added
   a line on stderr, when it is a terminal, that says what a claude -p run…]]'
+- '[[Changes/Codex CLI/2026-10-08-12-developer-workflow-changes-in-rust-v0-162-0|12
+  Developer Workflow changes in rust-v0.162.0]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-10-09-v2-1-296-github-408141042-fd950e7a|claude-code-2026-10-09-v2-1-296-github-408141042-fd950e7a]]'
 source_type: github_releases
 theme: developer-workflow
@@ -99,8 +99,8 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.296
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2026-10-08 · Claude Code · [[Changes/Claude Code/2026-10-08-added-a-line-on-stderr-when-it-is-a-terminal-that-says-what-a-claude-p-run-is-wa|Added a line on stderr, when it is a terminal, that says what a claude -p run…]]
-- Later: 2026-10-14 · Claude Code · [[Changes/Claude Code/2026-10-14-added-a-dir-prop-on-a-mod-s-text-for-right-to-left-text-on-windows-and-in-vs-cod|Added a dir prop on a mod's Text for right-to-left text]]
+- Earlier: 2026-10-08 · Codex CLI · [[Changes/Codex CLI/2026-10-08-12-developer-workflow-changes-in-rust-v0-162-0|12 Developer Workflow changes in rust-v0.162.0]]
+- Later: 2026-10-12 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-10-12-interactive-sessions-in-git-repositories-reach-the-input-prompt-sooner|Interactive sessions in git repositories reach the input prompt sooner]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

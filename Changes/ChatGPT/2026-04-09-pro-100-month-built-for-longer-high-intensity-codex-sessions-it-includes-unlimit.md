@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: pricing
-machine_hash: cb56c36fd7a465b695eb8dcfd13eadddacdbd8d321eba711b573f4bdf720f078
+machine_hash: 288f90a8bbea564c06b2d54fb01d24beac8ca81a3e5c6b2bfdc414e0165ddba9
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -47,12 +47,12 @@ record:
   title: 'Pro ($100/month): Built for longer, high-intensity Codex sessions'
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-03-19-standard-0-50-m-input-2-50-m-output-tokens|Standard:
-  $0.50/M input, $2.50/M output tokens]]'
-- '[[Changes/Cursor/2026-03-19-fast-default-1-50-m-input-7-50-m-output-tokens|Fast
-  (default): $1.50/M input, $7.50/M output tokens]]'
 - '[[Changes/Claude Code/2026-04-04-added-per-model-and-cache-hit-breakdown-to-cost-for-subscription-users|Added
   per-model and cache-hit breakdown to /cost for subscription users]]'
+- '[[Changes/Windsurf/2026-04-06-updated-model-picker-with-pricing-context|Updated
+  Model Picker with Pricing Context]]'
+- '[[Changes/Gemini CLI/2026-04-08-docs-update-quotas-and-pricing-by-jkcinouye-in-https-github-com-google-gemini-ge|Docs:
+  Update quotas and pricing]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-04-09-new-pro-plan-options-9eccb9c2|chatgpt-2026-04-09-new-pro-plan-options-9eccb9c2]]'
 source_type: chatgpt_changelog
 theme: pricing-model
@@ -84,7 +84,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Pricing Model
 
-- Earlier: 2026-04-04 · Claude Code · [[Changes/Claude Code/2026-04-04-added-per-model-and-cache-hit-breakdown-to-cost-for-subscription-users|Added per-model and cache-hit breakdown to /cost for subscription users]]
+- Earlier: 2026-04-08 · Gemini CLI · [[Changes/Gemini CLI/2026-04-08-docs-update-quotas-and-pricing-by-jkcinouye-in-https-github-com-google-gemini-ge|Docs: Update quotas and pricing]]
 - Later: 2026-04-22 · Claude Code · [[Changes/Claude Code/2026-04-22-opentelemetry-user-prompt-events-now-include-command-name-and-command-source-for|OpenTelemetry: user_prompt events now include command_name and command_source…]]
 <!-- chronolog:end -->
 

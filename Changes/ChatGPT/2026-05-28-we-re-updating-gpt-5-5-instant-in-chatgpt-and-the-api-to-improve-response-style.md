@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 7b64dae4756a0d3f4f1fa30f0cd511c2e87862aec538fc2a03a57cdaced7a13d
+machine_hash: 04efbfb78e7cc65761b8b6525e6be009cef26c15825e0fbada5e0f6f150f82a0
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -66,10 +66,10 @@ record:
   title: GPT-5.5 Instant Update
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-05-19-resumed-sessions-now-keep-the-model-they-were-using-instead-of-picking-up-anothe|Resumed
-  sessions now keep the model they were using instead of picking up another…]]'
 - '[[Changes/Claude Code/2026-05-27-2-model-support-changes-in-v2-1-152|2 Model Support
   changes in v2.1.152]]'
+- '[[Changes/Gemini CLI/2026-05-27-refactor-decouple-auto-model-description-and-configuration-from-releasechannel-b|refactor:
+  decouple auto model description and configuration from releaseChannel]]'
 - '[[Changes/ChatGPT/2026-05-28-today-we-re-continuing-to-retire-older-models-with-limited-usage-in-chatgpt-so-w|Retiring
   OpenAI o3 and GPT-4.5]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-05-28-gpt-5-5-instant-update-6c17e30e|chatgpt-2026-05-28-gpt-5-5-instant-update-6c17e30e]]'

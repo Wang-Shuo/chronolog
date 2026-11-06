@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 6a178dd0ec1b0f5ae09a7d8b4b50d117155b2aad6db612b49bbb633de748ad9b
+machine_hash: c7bea92c32c8a12e2f8b76e175159cbd5ef810cf466ce1291d58fbfa532abd82
 product: claude-code
 product_name: Claude Code
 record:
@@ -47,12 +47,12 @@ record:
   title: 3 Apps and Integrations changes in v2.1.119
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-04-16-2-apps-and-integrations-changes-in-v2-1-111|2
-  Apps and Integrations changes in v2.1.111]]'
-- '[[Changes/Claude Code/2026-04-20-2-apps-and-integrations-changes-in-v2-1-116|2
-  Apps and Integrations changes in v2.1.116]]'
+- '[[Changes/Codex CLI/2026-04-20-28-apps-and-integrations-changes-in-rust-v0-122-0|28
+  Apps and Integrations changes in rust-v0.122.0]]'
 - '[[Changes/Claude Code/2026-04-22-4-apps-and-integrations-changes-in-v2-1-117|4
   Apps and Integrations changes in v2.1.117]]'
+- '[[Changes/Cline/2026-04-22-wire-up-remote-globalskills-from-enterprise-remote-config-with-full-ui-toggle-su|Wire
+  up remote globalSkills from enterprise remote config with full UI, toggle…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-04-23-v2-1-119-github-312949780-573724e7|claude-code-2026-04-23-v2-1-119-github-312949780-573724e7]]'
 source_type: github_releases
 theme: apps-integrations
@@ -92,7 +92,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.119
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-04-22 · Claude Code · [[Changes/Claude Code/2026-04-22-4-apps-and-integrations-changes-in-v2-1-117|4 Apps and Integrations changes in v2.1.117]]
+- Earlier: 2026-04-22 · Cline · [[Changes/Cline/2026-04-22-wire-up-remote-globalskills-from-enterprise-remote-config-with-full-ui-toggle-su|Wire up remote globalSkills from enterprise remote config with full UI, toggle…]]
 - Later: 2026-04-23 · Claude Code · [[Changes/Claude Code/2026-04-23-5-apps-and-integrations-changes-in-v2-1-118|5 Apps and Integrations changes in v2.1.118]]
 <!-- chronolog:end -->
 

@@ -10,12 +10,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: b0fb7bf53b036424e163c4d5670b45536462a2ae4a6a8b72f41e742bf080bdc1
+machine_hash: f8956097d021e4af648fc94c5ba49b83f3786d00509bf640770e9c0db38cb150
 product: cursor
 product_name: Cursor
 record:
@@ -38,13 +38,12 @@ record:
   title: Linter is back!
   type: change
 related_changes:
-- '[[Changes/Cursor/2023-06-24-chat-was-failing-on-some-non-git-folders-that-is-now-fixed|Chat
-  was failing on some non-git folders]]'
-- '[[Changes/Cursor/2023-06-27-you-can-now-use-run-debug-in-cursor-again-the-toolbar-is-back-db8146|Use
-  Run & debug in Cursor again (the toolbar is back)]]'
-- '[[Changes/Cursor/2023-07-12-this-update-patches-search-cmd-win-shift-f-and-many-extensions-for-and-wsl-and-s|This
-  update patches search (Cmd/Win+Shift+F) and many extensions for and WSL and SSH
-  users]]'
+- '[[Changes/Aider/2023-07-22-added-git-command-to-run-git-from-inside-aider-chats|Added
+  /git command to run git from inside aider chats]]'
+- '[[Changes/Aider/2023-07-24-added-git-command-to-run-git-from-inside-aider-chats|Added
+  /git command to run git from inside aider chats]]'
+- '[[Changes/Aider/2023-07-24-3-developer-workflow-changes-in-v0-10-1|3 Developer
+  Workflow changes in v0.10.1]]'
 source_release: '[[Releases/Cursor/cursor-2023-07-27-0-5-0-https-cursor-com-changelog-0-5-0-55901f62|cursor-2023-07-27-0-5-0-https-cursor-com-changelog-0-5-0-55901f62]]'
 source_type: cursor_changelog
 theme: developer-workflow
@@ -74,7 +73,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2023-07-12 · Cursor · [[Changes/Cursor/2023-07-12-this-update-patches-search-cmd-win-shift-f-and-many-extensions-for-and-wsl-and-s|This update patches search (Cmd/Win+Shift+F) and many extensions for and WSL and SSH users]]
+- Earlier: 2023-07-24 · Aider · [[Changes/Aider/2023-07-24-3-developer-workflow-changes-in-v0-10-1|3 Developer Workflow changes in v0.10.1]]
 - Later: 2023-07-28 · Cursor · [[Changes/Cursor/2023-07-28-better-support-for-remote-ssh|Better support for remote-ssh]]
 <!-- chronolog:end -->
 

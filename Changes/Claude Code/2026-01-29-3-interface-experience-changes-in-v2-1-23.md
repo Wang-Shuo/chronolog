@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 59f4e431dea4054c72ebc9b231891cd9f9e58898b0ab3ae3621c5a2f4ad425d5
+machine_hash: 676b9f80df0113f111f7e1e18181b3511069ab3c80850a7b309d57d79092bf34
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,12 +45,12 @@ record:
   title: 3 Interface Experience changes in v2.1.23
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-01-22-2-interface-experience-changes-in-2-4|2 Interface Experience
-  changes in 2.4]]'
-- '[[Changes/Claude Code/2026-01-27-2-interface-experience-changes-in-v2-1-20|2 Interface
-  Experience changes in v2.1.20]]'
+- '[[Changes/GitHub Copilot CLI/2026-01-27-reorder-model-picker-list-for-better-organization|Reorder
+  model picker list for better organization]]'
 - '[[Changes/Claude Code/2026-01-28-improved-read-search-progress-indicators-to-show-reading-while-in-progress-and-r|Improved
   read/search progress indicators to show "Reading…" while in progress…]]'
+- '[[Changes/Gemini CLI/2026-01-28-remove-missing-sidebar-item-by-chrstnb-in-https-github-com-google-gemini-gemini|Remove
+  missing sidebar item]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-01-29-v2-1-23-github-280926274-b1e77a6a|claude-code-2026-01-29-v2-1-23-github-280926274-b1e77a6a]]'
 source_type: github_releases
 theme: interface-experience
@@ -86,7 +86,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.23
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-01-28 · Claude Code · [[Changes/Claude Code/2026-01-28-improved-read-search-progress-indicators-to-show-reading-while-in-progress-and-r|Improved read/search progress indicators to show "Reading…" while in progress…]]
+- Earlier: 2026-01-28 · Gemini CLI · [[Changes/Gemini CLI/2026-01-28-remove-missing-sidebar-item-by-chrstnb-in-https-github-com-google-gemini-gemini|Remove missing sidebar item]]
 - Later: 2026-01-30 · ChatGPT · [[Changes/ChatGPT/2026-01-30-responses-in-chatgpt-are-now-more-visual-and-easier-to-scan-for-everyday-questio|More visual responses]]
 <!-- chronolog:end -->
 

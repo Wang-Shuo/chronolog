@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: d5b70bc98f48453c68ccdd57a0b8e21194abc476ed3d1a9ef570090384272eef
+machine_hash: 20709e4d712d112568adb7bbd7fe70810e3974c68e7ce308dc792bade16d0827
 product: cursor
 product_name: Cursor
 record:
@@ -46,12 +46,12 @@ record:
     fixes…
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-02-18-2-agent-mode-changes-in-cli-improvements-and-mermaid-ascii|2
-  Agent Mode changes in CLI Improvements and Mermaid ASCII…]]'
-- '[[Changes/Claude Code/2026-02-20-2-agent-mode-changes-in-v2-1-50|2 Agent Mode changes
-  in v2.1.50]]'
-- '[[Changes/Cursor/2026-02-24-cloud-agents-can-now-use-the-software-they-create-to-test-changes-and-demo-their-c922e9|Cloud
-  Agents with Computer Use]]'
+- '[[Changes/Gemini CLI/2026-02-25-4-agent-mode-changes-in-v0-30-0|4 Agent Mode changes
+  in v0.30.0]]'
+- '[[Changes/GitHub Copilot CLI/2026-02-25-agent-protected-from-accidentally-killing-itself|Agent
+  protected from accidentally killing itself]]'
+- '[[Changes/Codex CLI/2026-02-26-5-agent-mode-changes-in-rust-v0-106-0|5 Agent Mode
+  changes in rust-v0.106.0]]'
 source_release: '[[Releases/Cursor/cursor-2026-02-26-bugbot-autofix-https-cursor-com-changelog-02-26-26-22c9cc48|cursor-2026-02-26-bugbot-autofix-https-cursor-com-changelog-02-26-26-22c9cc48]]'
 source_type: cursor_changelog
 theme: agent-mode
@@ -82,8 +82,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2026-02-24 · Cursor · [[Changes/Cursor/2026-02-24-cloud-agents-can-now-use-the-software-they-create-to-test-changes-and-demo-their-c922e9|Cloud Agents with Computer Use]]
-- Later: 2026-02-28 · Claude Code · [[Changes/Claude Code/2026-02-28-added-http-hooks-which-can-post-json-to-a-url-and-receive-json-instead-of-runnin|Added HTTP hooks, which can POST JSON to a URL and receive JSON instead of running…]]
+- Earlier: 2026-02-26 · Codex CLI · [[Changes/Codex CLI/2026-02-26-5-agent-mode-changes-in-rust-v0-106-0|5 Agent Mode changes in rust-v0.106.0]]
+- Later: 2026-02-27 · Gemini CLI · [[Changes/Gemini CLI/2026-02-27-feat-browser-implement-experimental-browser-agent-by-gsquared94-in-https-github|feat(browser): implement experimental browser agent]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

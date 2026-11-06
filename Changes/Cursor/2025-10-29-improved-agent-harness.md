@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: b4839812b6a7e1891b609dc74e077c7338feeaff85bd39107c2cbabfc230fd96
+machine_hash: 267f757798650f2d72bf99d6764ae7783f26578920ae19bc678e18d85c6933fe
 product: cursor
 product_name: Cursor
 record:
@@ -45,10 +45,10 @@ record:
   title: Improved Agent Harness
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-09-29-6-agent-mode-changes-in-1-7|6 Agent Mode changes in
-  1.7]]'
-- '[[Changes/Cursor/2025-09-29-image-file-support-for-agent|Image file support for
-  Agent]]'
+- '[[Changes/Windsurf/2025-10-23-support-and-fixes-for-agents-md|Support and fixes
+  for AGENTS.md]]'
+- '[[Changes/GitHub Copilot CLI/2025-10-28-2-agent-mode-changes-in-v0-0-353|2 Agent
+  Mode changes in v0.0.353]]'
 - '[[Changes/Cursor/2025-10-29-browser-ga-1124ce|Browser (GA)]]'
 source_release: '[[Releases/Cursor/cursor-2025-10-29-2-0-https-cursor-com-changelog-2-0-66a8e76e|cursor-2025-10-29-2-0-https-cursor-com-changelog-2-0-66a8e76e]]'
 source_type: cursor_changelog
@@ -98,8 +98,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2025-09-29 · Cursor · [[Changes/Cursor/2025-09-29-image-file-support-for-agent|Image file support for Agent]]
-- Later: 2025-11-21 · Cursor · [[Changes/Cursor/2025-11-21-instant-grep-beta|Instant Grep (Beta)]]
+- Earlier: 2025-10-28 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2025-10-28-2-agent-mode-changes-in-v0-0-353|2 Agent Mode changes in v0.0.353]]
+- Later: 2025-10-29 · Gemini CLI · [[Changes/Gemini CLI/2025-10-29-chore-subagents-remove-legacy-subagent-code-by-abhipatel12-in-https-github-com-g|chore(subagents): Remove legacy subagent code]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

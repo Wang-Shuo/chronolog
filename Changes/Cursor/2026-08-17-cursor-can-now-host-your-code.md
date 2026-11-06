@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: search-browsing
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: f5fe1ab891349399ae42e7b2a515edb315118206f86f5e0d561be88e9d33e10d
+machine_hash: 722b5a2060497fcec847f3d90164114b1ff1ced0fb269d5bae95d7709f438041
 product: cursor
 product_name: Cursor
 record:
@@ -54,10 +54,10 @@ record:
   title: Cursor can now host your code
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-07-17-3-search-and-browsing-changes-in-v2-1-212|3 Search
-  and Browsing changes in v2.1.212]]'
-- '[[Changes/Claude Code/2026-07-22-changed-deep-research-to-start-only-when-invoked-manually-claude-no-longer-launc|Changed
-  /deep-research to start only when invoked manually]]'
+- '[[Changes/Codex CLI/2026-08-07-3-search-and-browsing-changes-in-rust-v0-147-0|3
+  Search and Browsing changes in rust-v0.147.0]]'
+- '[[Changes/GitHub Copilot CLI/2026-08-10-improve-teleported-subagent-tasks-navigation-with-nested-tree-browsing-current-a|Improve
+  teleported subagent /tasks navigation with nested tree browsing, current/all…]]'
 - '[[Changes/ChatGPT/2026-08-13-if-you-have-the-google-drive-plugin-connected-you-can-now-see-and-browse-your-go-97f18f|If
   you have the Google Drive plugin connected, you can now see and browse…]]'
 source_release: '[[Releases/Cursor/cursor-2026-08-17-origin-code-hosting-https-cursor-com-changelog-origin-code-hosti-ed3a9195|cursor-2026-08-17-origin-code-hosting-https-cursor-com-changelog-origin-code-hosti-ed3a9195]]'

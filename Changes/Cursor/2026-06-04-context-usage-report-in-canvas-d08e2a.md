@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: 081b25f894aca18373223db690b194795827e47998f0b315d1adb55ac5626a2b
+machine_hash: 2488b3a936f0c11a2b397055c1ac24bab6062b6b46aea3bcc86c0d7b9f210a78
 product: cursor
 product_name: Cursor
 record:
@@ -66,10 +66,10 @@ record:
   title: Context usage report in canvas
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-05-27-added-pluginsuggestionmarketplaces-managed-setting-admins-can-allowlist-org-mark|Added
-  pluginSuggestionMarketplaces managed setting]]'
-- '[[Changes/Claude Code/2026-05-28-claude-now-reserves-the-multiple-choice-question-prompt-for-decisions-it-genuine|Claude
-  now reserves the multiple-choice question prompt for decisions it genuinely…]]'
+- '[[Changes/Gemini CLI/2026-06-03-feat-context-complete-simplification-work-by-joshualitt-in-https-github-com-goog|feat(context):
+  Complete simplification work]]'
+- '[[Changes/Codex CLI/2026-06-04-3-context-window-changes-in-rust-v0-137-0|3 Context
+  Window changes in rust-v0.137.0]]'
 - '[[Changes/Cursor/2026-06-04-this-release-introduces-design-mode-for-faster-canvas-editing-new-ways-to-unders|Cursor
   introduces Design Mode for faster canvas editing, new ways to understand…]]'
 source_release: '[[Releases/Cursor/cursor-2026-06-04-3-7-https-cursor-com-changelog-canvas-improvements-6f42df85|cursor-2026-06-04-3-7-https-cursor-com-changelog-canvas-improvements-6f42df85]]'
@@ -110,8 +110,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Context Window
 
-- Earlier: 2026-05-28 · Claude Code · [[Changes/Claude Code/2026-05-28-claude-now-reserves-the-multiple-choice-question-prompt-for-decisions-it-genuine|Claude now reserves the multiple-choice question prompt for decisions it genuinely…]]
-- Later: 2026-06-08 · Claude Code · [[Changes/Claude Code/2026-06-08-the-claude-md-is-too-long-warning-threshold-now-scales-with-the-model-s-context|The "CLAUDE.md is too long" warning threshold now scales with the model's context window]]
+- Earlier: 2026-06-04 · Codex CLI · [[Changes/Codex CLI/2026-06-04-3-context-window-changes-in-rust-v0-137-0|3 Context Window changes in rust-v0.137.0]]
+- Later: 2026-06-05 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-06-05-2-context-window-changes-in-v1-0-60|2 Context Window changes in v1.0.60]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

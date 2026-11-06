@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 31e9bb182e81ed8eb3e547dd98587f6b6c2ef06f9fe967dde522bfe95f2d08aa
+machine_hash: 27e4c155c07fb73f7a3f53564adaa376efeddd6308c6c47b23f370408db9516b
 product: cursor
 product_name: Cursor
 record:
@@ -54,9 +54,10 @@ record:
   title: GPT-V Support
   type: change
 related_changes:
-- '[[Changes/Cursor/2023-09-08-long-files-in-chat|Long files in chat]]'
 - '[[Changes/Cursor/2023-09-10-ask-a-question-about-an-edit-that-the-model-with-option-enter-or-bring-in-contex|Quick
   question and @chat in cmd+k]]'
+- '[[Changes/Aider/2023-11-07-2-context-window-changes-in-v0-17-0|2 Context Window
+  changes in v0.17.0]]'
 - '[[Changes/Cursor/2023-11-10-copilot-beta-this-is-an-add-on-to-copilot-that-suggests-diffs-around-your-cursor|Copilot++
   (beta): this is an "add-on" to Copilot that suggests diffs around…]]'
 source_release: '[[Releases/Cursor/cursor-2023-11-21-0-16-2-nightly-https-cursor-com-changelog-0-16-2-nightly-872eb87e|cursor-2023-11-21-0-16-2-nightly-https-cursor-com-changelog-0-16-2-nightly-872eb87e]]'

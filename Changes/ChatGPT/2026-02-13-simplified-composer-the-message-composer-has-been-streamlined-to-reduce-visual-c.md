@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: cf977f4dbd450b1b3883a921855ef0dca1dde2d55a7982cc2dc61e28d515540f
+machine_hash: 97e217b60fc8e3675808c5831fb5d0d37b2ec16085768637753ad745365ed640
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -47,10 +47,10 @@ record:
   title: Simplified composer
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-02-10-we-re-introducing-improvements-to-deep-research-in-chatgpt-to-help-produce-more|Updates
-  to deep research]]'
-- '[[Changes/Claude Code/2026-02-10-improved-terminal-rendering-performance|Improved
-  terminal rendering performance]]'
+- '[[Changes/GitHub Copilot CLI/2026-02-12-add-mouse-text-selection-in-alt-screen-mode|Add
+  mouse text selection in --alt-screen mode]]'
+- '[[Changes/Windsurf/2026-02-12-improved-rtl-language-rendering-in-todo-lists|Improved
+  RTL language rendering in todo lists]]'
 - '[[Changes/ChatGPT/2026-02-13-quick-tools-in-the-composer-a-new-quick-tools-menu-in-the-message-composer-makes|Quick
   tools in the composer]]'
 scope: Android
@@ -86,7 +86,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-02-10 · Claude Code · [[Changes/Claude Code/2026-02-10-improved-terminal-rendering-performance|Improved terminal rendering performance]]
+- Earlier: 2026-02-12 · Windsurf · [[Changes/Windsurf/2026-02-12-improved-rtl-language-rendering-in-todo-lists|Improved RTL language rendering in todo lists]]
 - Later: 2026-02-13 · Claude Code · [[Changes/Claude Code/2026-02-13-improved-narrow-terminal-layout-for-prompt-footer|Improved narrow terminal layout for prompt footer]]
 <!-- chronolog:end -->
 

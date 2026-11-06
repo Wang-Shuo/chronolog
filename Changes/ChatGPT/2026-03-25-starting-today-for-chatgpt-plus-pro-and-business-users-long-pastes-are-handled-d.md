@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 3641af7fb8d64076d53fde9adf8b97b5f41ad65d199fabe3cc4d778e0d4116da
+machine_hash: d49d8c71eeec34117c0eb7e56020d5b8fd1254e5e64c959d65fea4116d2c58da
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -56,12 +56,12 @@ record:
   title: Large pastes are now handled as attachments
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-03-11-improved-the-remote-control-spawn-mode-selection-prompt-with-better-context|Improved
-  the Remote Control spawn mode selection prompt with better context]]'
-- '[[Changes/Claude Code/2026-03-14-added-postcompact-hook-that-fires-after-compaction-completes|Added
-  PostCompact hook that fires after compaction completes]]'
+- '[[Changes/Codex CLI/2026-03-19-14829-stack-3-4-add-current-thread-context-to-realtime-startup-aibrahim-oai|♯14829
+  stack 3/4 Add current thread context to realtime startup @aibrahim-oai]]'
 - '[[Changes/Claude Code/2026-03-20-changed-plan-mode-to-hide-the-clear-context-option-by-default-restore-with-showc|Changed
   plan mode to hide the "clear context" option by default…]]'
+- '[[Changes/Gemini CLI/2026-03-24-2-context-window-changes-in-v0-35-0|2 Context Window
+  changes in v0.35.0]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-03-25-large-pastes-are-now-handled-as-attachments-6bacf64e|chatgpt-2026-03-25-large-pastes-are-now-handled-as-attachments-6bacf64e]]'
 source_type: chatgpt_changelog
 theme: context-window
@@ -88,7 +88,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Context Window
 
-- Earlier: 2026-03-20 · Claude Code · [[Changes/Claude Code/2026-03-20-changed-plan-mode-to-hide-the-clear-context-option-by-default-restore-with-showc|Changed plan mode to hide the "clear context" option by default…]]
+- Earlier: 2026-03-24 · Gemini CLI · [[Changes/Gemini CLI/2026-03-24-2-context-window-changes-in-v0-35-0|2 Context Window changes in v0.35.0]]
 - Later: 2026-03-26 · Claude Code · [[Changes/Claude Code/2026-03-26-reduced-ui-stutter-when-compaction-triggers-on-large-sessions|Reduced UI stutter when compaction triggers on large sessions]]
 <!-- chronolog:end -->
 

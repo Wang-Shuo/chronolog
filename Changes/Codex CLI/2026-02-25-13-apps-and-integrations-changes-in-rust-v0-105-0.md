@@ -1,0 +1,156 @@
+---
+card_id: codex-cli-2026-02-25-090dd5
+date: '2026-02-25'
+description: 'Codex CLI · 2026-02-25 · Apps and Integrations: 13 changes in 0.105.0
+  — #12180 [apps] Temporary app block. @mzeng-openai'
+diffusion:
+  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We
+    are announcing experimental support for AI plugins in ChatGPT]]'
+  inference: No adoption, equivalence, or causation claim.
+  lag_days: 1070
+  relation: same-theme-chronology
+  role: later-observed
+  scope: tracked-products-only
+  theme: apps-integrations
+  tracked_products_count: 10
+evolves_from: []
+extractor_version: fallback-v5
+impact: incremental
+kind: digest
+machine_hash: 86501b9c33a9820945061435ef6797338a5f035d0b221ea82a70c02a75b2e4b0
+product: codex-cli
+product_name: Codex CLI
+record:
+  card_id: codex-cli-2026-02-25-090dd5
+  comparison: ''
+  date: '2026-02-25'
+  description: 'Codex CLI — 0.105.0: 13 Apps and Integrations changes'
+  evidence:
+  - quote: '#12180 [apps] Temporary app block. @mzeng-openai'
+    source_release: https://github.com/openai/codex/releases/tag/rust-v0.105.0
+  - quote: '#12211 [apps] Update apps allowlist. @mzeng-openai'
+    source_release: https://github.com/openai/codex/releases/tag/rust-v0.105.0
+  - quote: '#11787 Adjust MCP tool approval handling for custom servers @colby-oai'
+    source_release: https://github.com/openai/codex/releases/tag/rust-v0.105.0
+  - quote: '#12286 app-server: fix flaky list_apps_returns_connectors_with_accessible_flags
+      test @bolinfest'
+    source_release: https://github.com/openai/codex/releases/tag/rust-v0.105.0
+  - quote: '#11822 [apps] Store apps tool cache in disk to reduce startup time. @mzeng-openai'
+    source_release: https://github.com/openai/codex/releases/tag/rust-v0.105.0
+  - quote: '#12267 Add MCP server context to otel tool_result logs @colby-oai'
+    source_release: https://github.com/openai/codex/releases/tag/rust-v0.105.0
+  - quote: '#12086 [apps] Implement apps configs. @mzeng-openai'
+    source_release: https://github.com/openai/codex/releases/tag/rust-v0.105.0
+  - quote: '#12353 fix(core): require approval for destructive MCP tool calls @colby-oai'
+    source_release: https://github.com/openai/codex/releases/tag/rust-v0.105.0
+  - quote: '#12374 [apps] Enforce simple logo url format. @mzeng-openai'
+    source_release: https://github.com/openai/codex/releases/tag/rust-v0.105.0
+  - quote: '#12403 [apps] Fix gateway url. @mzeng-openai'
+    source_release: https://github.com/openai/codex/releases/tag/rust-v0.105.0
+  - quote: '#12405 [apps] Bump MCP tool call timeout. @mzeng-openai'
+    source_release: https://github.com/openai/codex/releases/tag/rust-v0.105.0
+  - quote: '#12555 refactor: decouple MCP policy construction from escalate server
+      @bolinfest'
+    source_release: https://github.com/openai/codex/releases/tag/rust-v0.105.0
+  - quote: '#12629 app-server: fix connecting via websockets with `Sec-WebSocket-Extensions:
+      permessage-deflate` @JaviSoto'
+    source_release: https://github.com/openai/codex/releases/tag/rust-v0.105.0
+  extractor_version: fallback-v5
+  impact: incremental
+  kind: digest
+  product: codex-cli
+  product_name: Codex CLI
+  slug: 13-apps-and-integrations-changes-in-rust-v0-105-0
+  source_release: codex-cli-2026-02-25-rust-v0-105-0-github-290476287-0c72d1ed
+  source_type: github_releases
+  theme: apps-integrations
+  title: 13 Apps and Integrations changes in rust-v0.105.0
+  type: change
+related_changes:
+- '[[Changes/GitHub Copilot CLI/2026-02-24-block-third-party-mcp-servers-when-the-copilot-mcp-policy-does-not-allow-them|Block
+  third-party MCP servers when the Copilot MCP policy does not allow them]]'
+- '[[Changes/ChatGPT/2026-02-25-sources-from-apps-paste-a-link-to-a-slack-channel-or-google-drive-file-or-folder|Sources
+  from apps]]'
+- '[[Changes/Claude Code/2026-02-25-expand-remote-control-to-more-users|Expand Remote
+  Control to more users]]'
+source_release: '[[Releases/Codex CLI/codex-cli-2026-02-25-rust-v0-105-0-github-290476287-0c72d1ed|codex-cli-2026-02-25-rust-v0-105-0-github-290476287-0c72d1ed]]'
+source_type: github_releases
+theme: apps-integrations
+title: 13 Apps and Integrations changes in rust-v0.105.0
+type: change
+---
+
+<!-- chronolog:begin region="header" -->
+# 13 Apps and Integrations changes in rust-v0.105.0
+
+**Codex CLI** · 2026-02-25 · [[Themes/apps-integrations|Apps and Integrations]] · Digest · [Official source](https://github.com/openai/codex/releases/tag/rust-v0.105.0) · from [[Releases/Codex CLI/codex-cli-2026-02-25-rust-v0-105-0-github-290476287-0c72d1ed|0.105.0]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="evidence" -->
+## Changes in this digest
+
+> #12180 [apps] Temporary app block. @mzeng-openai
+
+> #12211 [apps] Update apps allowlist. @mzeng-openai
+
+> #11787 Adjust MCP tool approval handling for custom servers @colby-oai
+
+> #12286 app-server: fix flaky list_apps_returns_connectors_with_accessible_flags test @bolinfest
+
+> #11822 [apps] Store apps tool cache in disk to reduce startup time. @mzeng-openai
+
+> #12267 Add MCP server context to otel tool_result logs @colby-oai
+
+> #12086 [apps] Implement apps configs. @mzeng-openai
+
+> #12353 fix(core): require approval for destructive MCP tool calls @colby-oai
+
+> #12374 [apps] Enforce simple logo url format. @mzeng-openai
+
+> #12403 [apps] Fix gateway url. @mzeng-openai
+
+> #12405 [apps] Bump MCP tool call timeout. @mzeng-openai
+
+> #12555 refactor: decouple MCP policy construction from escalate server @bolinfest
+
+> #12629 app-server: fix connecting via websockets with `Sec-WebSocket-Extensions: permessage-deflate` @JaviSoto
+
+Source: https://github.com/openai/codex/releases/tag/rust-v0.105.0
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="context" -->
+## Also in this release
+
+- [[Changes/Codex CLI/2026-02-25-18-agent-mode-changes-in-rust-v0-105-0|18 Agent Mode changes in rust-v0.105.0]] · Agent Mode
+- [[Changes/Codex CLI/2026-02-25-15-developer-workflow-changes-in-rust-v0-105-0|15 Developer Workflow changes in rust-v0.105.0]] · Developer Workflow
+- [[Changes/Codex CLI/2026-02-25-12028-remove-feature-flag-collaboration-modes-aibrahim-oai|♯12028 remove feature flag collaboration modes @aibrahim-oai]] · Collaboration
+- [[Changes/Codex CLI/2026-02-25-9-memory-and-personalization-changes-in-rust-v0-105-0|9 Memory and Personalization changes in rust-v0.105.0]] · Memory and Personalization
+- [[Changes/Codex CLI/2026-02-25-3-reliability-and-performance-changes-in-rust-v0-105-0|3 Reliability and Performance changes in rust-v0.105.0]] · Reliability and Performance
+- [[Changes/Codex CLI/2026-02-25-you-can-now-dictate-prompts-by-holding-the-spacebar-to-record-and-transcribe-voi|Dictate prompts by holding the spacebar to record and transcribe voice input…]] · Voice and Audio
+- [[Changes/Codex CLI/2026-02-25-3-account-and-access-changes-in-rust-v0-105-0|3 Account and Access changes in rust-v0.105.0]] · Account and Access
+- [[Changes/Codex CLI/2026-02-25-8-interface-experience-changes-in-rust-v0-105-0|8 Interface Experience changes in rust-v0.105.0]] · Interface Experience
+- [[Changes/Codex CLI/2026-02-25-2-editor-experience-changes-in-rust-v0-105-0|2 Editor Experience changes in rust-v0.105.0]] · Editor Experience
+- [[Changes/Codex CLI/2026-02-25-9-safety-and-privacy-changes-in-rust-v0-105-0|9 Safety and Privacy changes in rust-v0.105.0]] · Safety and Privacy
+- [[Changes/Codex CLI/2026-02-25-5-context-window-changes-in-rust-v0-105-0|5 Context Window changes in rust-v0.105.0]] · Context Window
+- [[Changes/Codex CLI/2026-02-25-6-model-support-changes-in-rust-v0-105-0|6 Model Support changes in rust-v0.105.0]] · Model Support
+- [[Changes/Codex CLI/2026-02-25-2-mobile-and-desktop-changes-in-rust-v0-105-0|2 Mobile and Desktop changes in rust-v0.105.0]] · Mobile and Desktop
+- [[Changes/Codex CLI/2026-02-25-2-voice-and-audio-changes-in-rust-v0-105-0|2 Voice and Audio changes in rust-v0.105.0]] · Voice and Audio
+- [[Changes/Codex CLI/2026-02-25-156-other-changes-in-rust-v0-105-0|156 other changes in rust-v0.105.0]] · Other changes
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="nearby" -->
+## Nearby in Apps and Integrations
+
+- Earlier: 2026-02-25 · Claude Code · [[Changes/Claude Code/2026-02-25-expand-remote-control-to-more-users|Expand Remote Control to more users]]
+- Later: 2026-02-25 · Gemini CLI · [[Changes/Gemini CLI/2026-02-25-8-apps-and-integrations-changes-in-v0-30-0|8 Apps and Integrations changes in v0.30.0]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="relations" -->
+## Related
+
+- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We are announcing experimental support for AI plugins in ChatGPT]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="footer" -->
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20codex-cli-2026-02-25-090dd5&body=Card%3A%20Changes%2FCodex%20CLI%2F2026-02-25-13-apps-and-integrations-changes-in-rust-v0-105-0.md%0ACard%20ID%3A%20codex-cli-2026-02-25-090dd5%0ASource%3A%20https%3A%2F%2Fgithub.com%2Fopenai%2Fcodex%2Freleases%2Ftag%2Frust-v0.105.0%0A%0AWhat%20should%20be%20corrected%3F%0A)
+<!-- chronolog:end -->

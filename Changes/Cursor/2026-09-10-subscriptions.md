@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: 80c331a899eaab6528e0b376951e6f2ef3b34bf67e33e8168e791e8fa0aab0ec
+machine_hash: 6a2532e3289a1ad1f6759f73f4a31dd370856052aec41ba0100672a5415b89d3
 product: cursor
 product_name: Cursor
 record:
@@ -52,8 +52,8 @@ record:
   title: Subscriptions
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-08-improved-workflows-agent-detail-tool-calls-are-marked-running-failed-or-done-the|Improved
-  /workflows agent detail]]'
+- '[[Changes/Codex CLI/2026-09-09-6-agent-mode-changes-in-rust-v0-154-0|6 Agent Mode
+  changes in rust-v0.154.0]]'
 - '[[Changes/Claude Code/2026-09-10-improved-auto-mode-denials-the-message-claude-receives-now-names-the-rule-that-b|Improved
   auto mode denials]]'
 - '[[Changes/Cursor/2026-09-10-a-project-runs-on-its-own-computer-in-the-cloud-so-closing-your-laptop-doesn-t-s|Powered

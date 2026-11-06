@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 01d8200ba484c499a9da08dbf911e221a6d4b0817859c804e59ede758c5ae45a
+machine_hash: 138370e72d6c5a2d8ca0bc807cfef1264184a08163dcae1730079ae973a84b45
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -83,7 +83,7 @@ type: change
 ## Nearby in Account and Access
 
 - Earlier: 2023-09-01 · Cursor · [[Changes/Cursor/2023-09-01-you-should-now-be-able-to-sign-in-with-github-again|You should now be able to sign in with GitHub again]]
-- Later: 2025-06-04 · Cursor · [[Changes/Cursor/2025-06-04-mcp-one-click-install-and-oauth-support|MCP one-click install and OAuth support]]
+- Later: 2024-12-06 · OpenHands · [[Changes/OpenHands/2024-12-06-updated-initial-sign-in-with-github-modal-by-amanape-in-https-github-com-all-han|Updated initial Sign in with Github modal]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

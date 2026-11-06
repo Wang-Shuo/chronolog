@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: cf3a4e52fff43b3c194d8f8553a7775a74040e3c0863774b0f94f2a7ae875348
+machine_hash: 8cdb7e52ee6932974380bdbb5860bf9ee2073bd1eecafae7252739d4f88d5c2b
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,12 +45,12 @@ record:
     specified
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-12-22-2-agent-mode-changes-in-2-3|2 Agent Mode changes in
-  2.3]]'
-- '[[Changes/Cursor/2025-12-22-this-includes-the-core-agent-layout-controls-viewing-code-diffs-and-more-we-will|This
-  includes the core agent, layout controls, viewing code diffs, and more]]'
+- '[[Changes/Gemini CLI/2026-01-07-3-agent-mode-changes-in-v0-23-0|3 Agent Mode changes
+  in v0.23.0]]'
 - '[[Changes/Cursor/2026-01-08-new-agent-command-is-now-the-primary-cli-entrypoint-cursor-agent-remains-as-a-ba|New
   agent command is now the primary CLI entrypoint. cursor-agent remains…]]'
+- '[[Changes/GitHub Copilot CLI/2026-01-08-task-tool-subagents-can-now-process-images|Task
+  tool subagents can now process images]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-01-09-v2-1-2-github-275344737-27089666|claude-code-2026-01-09-v2-1-2-github-275344737-27089666]]'
 source_type: github_releases
 theme: agent-mode
@@ -84,8 +84,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2026-01-08 · Cursor · [[Changes/Cursor/2026-01-08-new-agent-command-is-now-the-primary-cli-entrypoint-cursor-agent-remains-as-a-ba|New agent command is now the primary CLI entrypoint. cursor-agent remains…]]
-- Later: 2026-01-11 · Claude Code · [[Changes/Claude Code/2026-01-11-added-claude-code-disable-background-tasks-environment-variable-to-disable-all-b|Added CLAUDE_CODE_DISABLE_BACKGROUND_TASKS environment variable to disable all…]]
+- Earlier: 2026-01-08 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-01-08-task-tool-subagents-can-now-process-images|Task tool subagents can now process images]]
+- Later: 2026-01-09 · Cline · [[Changes/Cline/2026-01-09-add-skills-system-for-reusable-on-demand-agent-instructions|Add Skills system for reusable, on-demand agent instructions]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

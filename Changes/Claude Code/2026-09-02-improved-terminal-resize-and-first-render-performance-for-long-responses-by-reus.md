@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 455cc7db2991b28611966dc2a323a5b74ab6d9cf7311a523c3aadb85ac371237
+machine_hash: ac9425426657cb20e0d22aa4aff211ffca2c27eaa591fd503e5bc1b71a8bc6e5
 product: claude-code
 product_name: Claude Code
 record:
@@ -52,12 +52,12 @@ record:
     by reusing…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-08-27-changed-anthropic-telemetry-export-failures-to-log-at-debug-level-as-anthropic-t|Changed
-  Anthropic telemetry export failures to log at debug level…]]'
-- '[[Changes/Claude Code/2026-08-28-3-developer-workflow-changes-in-v2-1-251|3 Developer
-  Workflow changes in v2.1.251]]'
+- '[[Changes/GitHub Copilot CLI/2026-08-29-a-message-typed-while-worktree-or-move-is-preparing-the-worktree-no-longer-break|A
+  message typed while /worktree or /move is preparing the worktree no longer breaks…]]'
 - '[[Changes/Claude Code/2026-09-01-3-developer-workflow-changes-in-v2-1-257|3 Developer
   Workflow changes in v2.1.257]]'
+- '[[Changes/Codex CLI/2026-09-01-6-developer-workflow-changes-in-rust-v0-152-0|6
+  Developer Workflow changes in rust-v0.152.0]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-02-v2-1-259-github-381579834-0f335a0f|claude-code-2026-09-02-v2-1-259-github-381579834-0f335a0f]]'
 source_type: github_releases
 theme: developer-workflow
@@ -91,8 +91,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2026-09-01 · Claude Code · [[Changes/Claude Code/2026-09-01-3-developer-workflow-changes-in-v2-1-257|3 Developer Workflow changes in v2.1.257]]
-- Later: 2026-09-03 · Claude Code · [[Changes/Claude Code/2026-09-03-improved-deleting-a-background-session-whose-worktree-has-unpushed-commits-the-m|Improved deleting a background session whose worktree has unpushed commits]]
+- Earlier: 2026-09-01 · Codex CLI · [[Changes/Codex CLI/2026-09-01-6-developer-workflow-changes-in-rust-v0-152-0|6 Developer Workflow changes in rust-v0.152.0]]
+- Later: 2026-09-02 · Cline · [[Changes/Cline/2026-09-02-global-rules-are-now-also-read-from-cline-rules-which-is-where-the-rules-tab-wri|Global rules are now also read from ~/Cline/Rules, which is where the Rules tab…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

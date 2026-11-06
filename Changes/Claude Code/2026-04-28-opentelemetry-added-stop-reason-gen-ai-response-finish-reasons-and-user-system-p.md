@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 1b06e824656a114fb8f3abda97b23760c8d19d54062e2e066ccf6fd373c54e58
+machine_hash: f498c13afc981954958793d90424db32606dc958df864945fef1848738a5da44
 product: claude-code
 product_name: Claude Code
 record:
@@ -44,10 +44,10 @@ record:
   title: 'OpenTelemetry: added `stop_reason`, `gen_ai.response.finish_reasons`…'
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-04-16-auto-mode-is-now-available-for-max-subscribers-when-using-opus-4-7|Auto
-  mode is now available for Max subscribers when using Opus 4.7]]'
-- '[[Changes/Claude Code/2026-04-22-2-model-support-changes-in-v2-1-117|2 Model Support
-  changes in v2.1.117]]'
+- '[[Changes/GitHub Copilot CLI/2026-04-24-claude-opus-4-6-now-uses-medium-reasoning-effort-by-default|Claude
+  Opus 4.6 now uses medium reasoning effort by default]]'
+- '[[Changes/GitHub Copilot CLI/2026-04-27-2-model-support-changes-in-v1-0-37|2 Model
+  Support changes in v1.0.37]]'
 - '[[Changes/ChatGPT/2026-04-28-we-re-making-it-easier-to-choose-the-right-model-before-you-send-a-message-model|Easier
   model selection in ChatGPT]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-04-28-v2-1-121-github-314262096-ff31d5ce|claude-code-2026-04-28-v2-1-121-github-314262096-ff31d5ce]]'
@@ -86,7 +86,7 @@ type: change
 ## Nearby in Model Support
 
 - Earlier: 2026-04-28 · ChatGPT · [[Changes/ChatGPT/2026-04-28-we-re-making-it-easier-to-choose-the-right-model-before-you-send-a-message-model|Easier model selection in ChatGPT]]
-- Later: 2026-05-01 · Claude Code · [[Changes/Claude Code/2026-05-01-2-model-support-changes-in-v2-1-126|2 Model Support changes in v2.1.126]]
+- Later: 2026-04-28 · Gemini CLI · [[Changes/Gemini CLI/2026-04-28-2-model-support-changes-in-v0-40-0|2 Model Support changes in v0.40.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

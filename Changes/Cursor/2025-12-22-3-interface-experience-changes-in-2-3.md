@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: e4ffb7b0e62eee397f58232d998fe207fee3d0fef36af8893377dfc0282bb3fa
+machine_hash: 44247219639c8125d64f0a59b46bf1877e811d13b6f2aa3eb50e17b4ec1f3ee5
 product: cursor
 product_name: Cursor
 record:
@@ -46,12 +46,12 @@ record:
   title: 3 Interface Experience changes in 2.3
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2025-12-18-you-can-now-pin-chats-to-the-top-of-your-list-for-quick-access-to-important-conv|Pinned
-  chats in ChatGPT]]'
-- '[[Changes/Claude Code/2025-12-19-3-interface-experience-changes-in-v2-0-73|3 Interface
-  Experience changes in v2.0.73]]'
 - '[[Changes/Claude Code/2025-12-19-2-interface-experience-changes-in-v2-0-74|2 Interface
   Experience changes in v2.0.74]]'
+- '[[Changes/Codex CLI/2025-12-19-2-interface-experience-changes-in-rust-v0-76-0|2
+  Interface Experience changes in rust-v0.76.0]]'
+- '[[Changes/Cline/2025-12-22-model-picker-favorites-ordering-star-toggle-and-keyboard-navigation-for-openrout|Model
+  picker favorites ordering, star toggle, and keyboard navigation for OpenRouter…]]'
 source_release: '[[Releases/Cursor/cursor-2025-12-22-2-3-https-cursor-com-changelog-2-3-fe418465|cursor-2025-12-22-2-3-https-cursor-com-changelog-2-3-fe418465]]'
 source_type: cursor_changelog
 theme: interface-experience
@@ -93,8 +93,8 @@ Source: https://cursor.com/changelog/2-3
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2025-12-19 · Claude Code · [[Changes/Claude Code/2025-12-19-2-interface-experience-changes-in-v2-0-74|2 Interface Experience changes in v2.0.74]]
-- Later: 2026-01-07 · ChatGPT · [[Changes/ChatGPT/2026-01-07-health-appears-as-a-new-space-in-the-chatgpt-sidebar-if-you-ask-a-health-related|Health appears as a new space in the ChatGPT sidebar]]
+- Earlier: 2025-12-22 · Cline · [[Changes/Cline/2025-12-22-model-picker-favorites-ordering-star-toggle-and-keyboard-navigation-for-openrout|Model picker favorites ordering, star toggle, and keyboard navigation for OpenRouter…]]
+- Later: 2026-01-06 · Cline · [[Changes/Cline/2026-01-06-show-notification-instead-of-opening-sidebar-on-update|Show notification instead of opening sidebar on update]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 28fd39d1ed4f5ce2555122784200f64e3726596abb58e1f43f0e492cff520a65
+machine_hash: 47bc207f6e8d0dd9e3ecdfd7fd600b399626c3814db1f4b1364dd8c2d2f4d7ed
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -48,10 +48,10 @@ record:
   title: Bring your browser into Work and Codex
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-08-26-changed-sonnet-5-s-default-auto-compact-window-to-its-full-1m-context-so-session|Changed
-  Sonnet 5''s default auto-compact window to its full 1M context, so sessions…]]'
-- '[[Changes/Claude Code/2026-08-27-improved-the-workflow-tool-s-prompt-footprint-its-description-is-now-about-1k-to|Improved
-  the Workflow tool''s prompt footprint]]'
+- '[[Changes/Codex CLI/2026-08-27-2-context-window-changes-in-rust-v0-150-1|2 Context
+  Window changes in rust-v0.150.1]]'
+- '[[Changes/GitHub Copilot CLI/2026-08-27-hooks-can-now-receive-the-current-opentelemetry-trace-context-and-emit-correlate|Hooks
+  can now receive the current OpenTelemetry trace context and emit correlated spans]]'
 - '[[Changes/Claude Code/2026-08-28-improved-retry-when-the-model-s-tool-call-is-malformed-the-broken-output-is-now|Improved
   retry when the model''s tool call is malformed]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-08-31-use-the-browser-extension-in-more-browsers-87a64682|chatgpt-2026-08-31-use-the-browser-extension-in-more-browsers-87a64682]]'
@@ -83,7 +83,7 @@ type: change
 ## Nearby in Context Window
 
 - Earlier: 2026-08-28 · Claude Code · [[Changes/Claude Code/2026-08-28-improved-retry-when-the-model-s-tool-call-is-malformed-the-broken-output-is-now|Improved retry when the model's tool call is malformed]]
-- Later: 2026-09-03 · Claude Code · [[Changes/Claude Code/2026-09-03-3-context-window-changes-in-v2-1-260|3 Context Window changes in v2.1.260]]
+- Later: 2026-09-01 · Codex CLI · [[Changes/Codex CLI/2026-09-01-9-context-window-changes-in-rust-v0-152-0|9 Context Window changes in rust-v0.152.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

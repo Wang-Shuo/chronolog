@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 93127ba0e0a0b6fa3d77567648e25e9b2f3f43dcf8ecff9c6d71c86cee560231
+machine_hash: defdaafc496ac7a6351627d68e0dd2b8dc51324c0436a03df43f2681ff93feee
 product: cursor
 product_name: Cursor
 record:
@@ -48,12 +48,12 @@ record:
   title: Also, there's an experimental bash mode
   type: change
 related_changes:
-- '[[Changes/Cursor/2023-09-05-ships-with-cursor-python-a-language-server-fork-of-pyright-built-for-cursor|Cursor-Python
-  LSP]]'
-- '[[Changes/Cursor/2023-09-23-never-lets-your-root-directory-be-in-the-gitignore|gitignore
-  and search hotfix]]'
 - '[[Changes/Cursor/2023-10-01-ask-about-git-commits-and-prs-using-git-in-chat|Ask
   about git commits and PRs using @git in chat!]]'
+- '[[Changes/Aider/2023-10-18-2-developer-workflow-changes-in-v0-14-2|2 Developer
+  Workflow changes in v0.14.2]]'
+- '[[Changes/Aider/2023-10-20-3-developer-workflow-changes-in-v0-15-0|3 Developer
+  Workflow changes in v0.15.0]]'
 source_release: '[[Releases/Cursor/cursor-2023-10-20-0-13-0-0-13-4-https-cursor-com-changelog-0-13-0-0-13-4-5f700e1b|cursor-2023-10-20-0-13-0-0-13-4-https-cursor-com-changelog-0-13-0-0-13-4-5f700e1b]]'
 source_type: cursor_changelog
 theme: developer-workflow
@@ -82,8 +82,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2023-10-01 · Cursor · [[Changes/Cursor/2023-10-01-ask-about-git-commits-and-prs-using-git-in-chat|Ask about git commits and PRs using @git in chat!]]
-- Later: 2024-01-06 · Cursor · [[Changes/Cursor/2024-01-06-wsl-and-dev-containers-should-now-work-properly|Better Remote Support]]
+- Earlier: 2023-10-20 · Aider · [[Changes/Aider/2023-10-20-3-developer-workflow-changes-in-v0-15-0|3 Developer Workflow changes in v0.15.0]]
+- Later: 2024-01-04 · Aider · [[Changes/Aider/2024-01-04-improved-unicode-encoding-for-run-command-output-by-ctoth|Improved unicode encoding for /run command output, by @ctoth]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

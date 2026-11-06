@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 72161801d91949cc75ef21a3717a62a228174d3ef37a6d6a060c51484ae931d0
+machine_hash: 60c30f1193780d021da1cea1ee453f1c94d0b5fac8d581f882ab8270bf6d66c4
 product: claude-code
 product_name: Claude Code
 record:
@@ -42,12 +42,12 @@ record:
   title: 'Improved `/ultrareview`: faster launch with parallelized checks, diffstat…'
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-04-13-improved-stalled-api-stream-handling-streams-now-abort-after-5-minutes-of-no-dat|Improved
-  stalled API stream handling]]'
-- '[[Changes/Cursor/2026-04-13-closing-tabs-is-now-less-likely-to-glitch-the-file-tree-and-recovery-is-faster|Closing
-  tabs is now less likely to glitch the file tree, and recovery is faster]]'
 - '[[Changes/Claude Code/2026-04-14-reduced-memory-footprint-for-file-reads-edits-and-syntax-highlighting-by-loading|Reduced
   memory footprint for file reads, edits, and syntax highlighting by loading…]]'
+- '[[Changes/Codex CLI/2026-04-15-17640-fix-stability-exec-server-jif-oai|♯17640 fix:
+  stability exec server @jif-oai]]'
+- '[[Changes/Windsurf/2026-04-16-various-bug-fixes-and-performance-improvements-for-improving-windsurf-2-0-auth-e|Various
+  bug fixes and performance improvements for improving Windsurf 2.0 auth experience]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-04-17-v2-1-113-github-310525785-1b5293ba|claude-code-2026-04-17-v2-1-113-github-310525785-1b5293ba]]'
 source_type: github_releases
 theme: reliability-performance
@@ -82,8 +82,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2026-04-14 · Claude Code · [[Changes/Claude Code/2026-04-14-reduced-memory-footprint-for-file-reads-edits-and-syntax-highlighting-by-loading|Reduced memory footprint for file reads, edits, and syntax highlighting by loading…]]
-- Later: 2026-04-20 · Claude Code · [[Changes/Claude Code/2026-04-20-resume-on-large-sessions-is-significantly-faster-up-to-67-on-40mb-sessions-and-h|/resume on large sessions is significantly faster (up to 67% on 40MB+ sessions)…]]
+- Earlier: 2026-04-16 · Windsurf · [[Changes/Windsurf/2026-04-16-various-bug-fixes-and-performance-improvements-for-improving-windsurf-2-0-auth-e|Various bug fixes and performance improvements for improving Windsurf 2.0 auth experience]]
+- Later: 2026-04-17 · Windsurf · [[Changes/Windsurf/2026-04-17-various-bug-fixes-and-performance-improvements|Various bug fixes and performance improvements]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 544f3696ade2cc7f9156859db17667d03212b5dd3ae7c35d7c903320cdf9d144
+machine_hash: 744760dc068ec89511db60587b91702d6a22a59157430ea8145770e96fecff07
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -45,11 +45,11 @@ record:
   title: Edit and review tasks in Pulse anytime after you create them
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-09-29-pr-summaries-from-bugbot|PR summaries from Bugbot]]'
-- '[[Changes/Cursor/2025-11-21-4-editor-experience-changes-in-2-1|4 Editor Experience
-  changes in 2.1]]'
-- '[[Changes/Cursor/2025-12-10-browser-layout-and-style-editor-c9ae9c|Browser layout
-  and style editor]]'
+- '[[Changes/Windsurf/2025-12-10-tab-supercomplete|Tab (Supercomplete)]]'
+- '[[Changes/Cline/2025-12-11-display-completion-messages-in-processstateupdate-by-maxpaulus43-in-https-github|display
+  completion messages in processStateUpdate]]'
+- '[[Changes/Gemini CLI/2025-12-16-3-editor-experience-changes-in-v0-21-0|3 Editor
+  Experience changes in v0.21.0]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-12-17-tasks-are-now-in-pulse-15c01c44|chatgpt-2025-12-17-tasks-are-now-in-pulse-15c01c44]]'
 source_type: chatgpt_changelog
 theme: editor-experience
@@ -78,8 +78,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2025-12-10 · Cursor · [[Changes/Cursor/2025-12-10-browser-layout-and-style-editor-c9ae9c|Browser layout and style editor]]
-- Later: 2025-12-19 · Claude Code · [[Changes/Claude Code/2025-12-19-vscode-added-tab-icon-badges-showing-pending-permissions-blue-and-unread-complet|VSCode Added tab icon badges showing pending permissions (blue) and unread…]]
+- Earlier: 2025-12-16 · Gemini CLI · [[Changes/Gemini CLI/2025-12-16-3-editor-experience-changes-in-v0-21-0|3 Editor Experience changes in v0.21.0]]
+- Later: 2025-12-18 · Codex CLI · [[Changes/Codex CLI/2025-12-18-7931-chore-persist-comments-in-edit|♯7931 chore: persist comments in edit]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

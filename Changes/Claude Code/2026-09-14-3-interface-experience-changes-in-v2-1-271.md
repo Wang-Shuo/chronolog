@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: a28912d4b13222095b6bef82ca8113a08ba1b95bbd401494b2966c17b940288e
+machine_hash: 40b245617d793464a2c3af0b513eeaa6f4cddbb51df6d5faed9507575137e008
 product: claude-code
 product_name: Claude Code
 record:
@@ -51,8 +51,8 @@ record:
   title: 3 Interface Experience changes in v2.1.271
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-09-improved-the-diff-panel-it-no-longer-flashes-0-files-changed-and-a-spinner-befor|Improved
-  the /diff panel]]'
+- '[[Changes/Codex CLI/2026-09-09-4-interface-experience-changes-in-rust-v0-154-0|4
+  Interface Experience changes in rust-v0.154.0]]'
 - '[[Changes/Claude Code/2026-09-10-2-interface-experience-changes-in-v2-1-268|2 Interface
   Experience changes in v2.1.268]]'
 - '[[Changes/Claude Code/2026-09-11-3-interface-experience-changes-in-v2-1-269|3 Interface

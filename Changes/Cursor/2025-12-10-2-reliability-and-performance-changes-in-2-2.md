@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: f9940fc86cfce76b88ff983f7bfa904644e081ecb58b202588763995ae9790e0
+machine_hash: 1dc6e77d4cc38cef119985b2ae458ab34cbc1b02683a52d5c765e5fdc0920502
 product: cursor
 product_name: Cursor
 record:
@@ -44,11 +44,11 @@ record:
   title: 2 Reliability and Performance changes in 2.2
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2025-10-23-group-work-upload-notes-proposals-and-contracts-so-collaborators-can-draft-deliv|Group
-  work: Upload notes, proposals, and contracts so collaborators can draft…]]'
-- '[[Changes/Cursor/2025-10-29-2-reliability-and-performance-changes-in-2-0|2 Reliability
-  and Performance changes in 2.0]]'
-- '[[Changes/Cursor/2025-10-29-improved-performance|Improved Performance]]'
+- '[[Changes/Windsurf/2025-11-21-general-improvements|General Improvements]]'
+- '[[Changes/Cline/2025-11-27-feat-update-cerebras-models-and-speed-by-sebastiand-cerebras-in-https-github-com|feat:
+  update Cerebras models and speed]]'
+- '[[Changes/Codex CLI/2025-12-04-2-reliability-and-performance-changes-in-rust-v0-65-0|2
+  Reliability and Performance changes in rust-v0.65.0]]'
 source_release: '[[Releases/Cursor/cursor-2025-12-10-2-2-https-cursor-com-changelog-2-2-297c9323|cursor-2025-12-10-2-2-https-cursor-com-changelog-2-2-297c9323]]'
 source_type: cursor_changelog
 theme: reliability-performance
@@ -89,8 +89,8 @@ Source: https://cursor.com/changelog/2-2
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2025-10-29 · Cursor · [[Changes/Cursor/2025-10-29-improved-performance|Improved Performance]]
-- Later: 2025-12-22 · Cursor · [[Changes/Cursor/2025-12-22-for-this-holiday-release-we-ve-focused-entirely-on-fixing-bugs-and-improving-sta|For this holiday release, we've focused entirely on fixing bugs and improving stability]]
+- Earlier: 2025-12-04 · Codex CLI · [[Changes/Codex CLI/2025-12-04-2-reliability-and-performance-changes-in-rust-v0-65-0|2 Reliability and Performance changes in rust-v0.65.0]]
+- Later: 2025-12-10 · Windsurf · [[Changes/Windsurf/2025-12-10-general-stability-and-performance-improvements|General stability and performance improvements]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

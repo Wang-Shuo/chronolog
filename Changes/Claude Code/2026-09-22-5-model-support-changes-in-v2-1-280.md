@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 40807bcd14c1bdf714b34a5d98ac2fcedab160b861398a3056c450839bb0bf35
+machine_hash: cfd925b4bd941f3b3bde4f4ecfe854dbc0bd5677848704ba5c3af343cd2dbc7e
 product: claude-code
 product_name: Claude Code
 record:
@@ -55,12 +55,12 @@ record:
   title: 5 Model Support changes in v2.1.280
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-17-2-model-support-changes-in-v2-1-274|2 Model Support
-  changes in v2.1.274]]'
-- '[[Changes/Claude Code/2026-09-17-added-a-send-now-key-ctrl-enter-or-ctrl-x-ctrl-s-that-interrupts-the-current-tur|Added
-  a send-now key (ctrl+enter, or ctrl+x ctrl+s) that interrupts the current turn…]]'
 - '[[Changes/Claude Code/2026-09-18-changed-fable-to-always-appear-in-model-on-the-anthropic-api-it-is-greyed-out-on|Changed
   Fable to always appear in /model on the Anthropic API]]'
+- '[[Changes/Codex CLI/2026-09-18-2-model-support-changes-in-rust-v0-155-1|2 Model
+  Support changes in rust-v0.155.1]]'
+- '[[Changes/GitHub Copilot CLI/2026-09-21-enable-the-rubber-duck-agent-for-every-model-family-and-for-low-cost-tier-sessio|Enable
+  the rubber-duck agent for every model family and for low-cost-tier session models]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-22-v2-1-280-github-393879189-1cf5db2b|claude-code-2026-09-22-v2-1-280-github-393879189-1cf5db2b]]'
 source_type: github_releases
 theme: model-support
@@ -107,8 +107,8 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.280
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-09-18 · Claude Code · [[Changes/Claude Code/2026-09-18-changed-fable-to-always-appear-in-model-on-the-anthropic-api-it-is-greyed-out-on|Changed Fable to always appear in /model on the Anthropic API]]
-- Later: 2026-09-23 · Claude Code · [[Changes/Claude Code/2026-09-23-improved-interactive-startup-time-git-reads-startup-telemetry-and-the-bedrock-ve|Improved interactive startup time]]
+- Earlier: 2026-09-21 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-09-21-enable-the-rubber-duck-agent-for-every-model-family-and-for-low-cost-tier-sessio|Enable the rubber-duck agent for every model family and for low-cost-tier session models]]
+- Later: 2026-09-22 · Cline · [[Changes/Cline/2026-09-22-3-model-support-changes-in-v4-1-20|3 Model Support changes in v4.1.20]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

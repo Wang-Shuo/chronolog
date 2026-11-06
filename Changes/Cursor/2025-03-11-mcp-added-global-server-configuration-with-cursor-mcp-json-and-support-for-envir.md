@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: ec6dd2e81425d10f17a26a205a0edee8f287032effc973ca037c3137bf474eff
+machine_hash: 6da649e500ba3266252db1aaa3045506ec56124542721077f57b6bfe63f26169
 product: cursor
 product_name: Cursor
 record:
@@ -45,11 +45,11 @@ record:
   title: 'MCP: Added global server configuration with ~/.cursor/mcp.json and support…'
   type: change
 related_changes:
-- '[[Changes/Cursor/2024-07-03-docs-management-go-to-cursor-settings-features-docs-to-re-index-your-docs|Docs
-  management! Go to Cursor Settings  Features  Docs to re-index your docs]]'
-- '[[Changes/Cursor/2025-02-19-2-apps-and-integrations-changes-in-0-46-x|2 Apps and
-  Integrations changes in 0.46.x]]'
 - '[[Changes/Cursor/2025-02-19-mcp-improvements|MCP improvements]]'
+- '[[Changes/Cline/2025-03-01-2-apps-and-integrations-changes-in-v3-5-0|2 Apps and
+  Integrations changes in v3.5.0]]'
+- '[[Changes/Cline/2025-03-03-add-timeout-option-to-mcp-servers|Add timeout option
+  to MCP servers]]'
 source_release: '[[Releases/Cursor/cursor-2025-03-11-0-47-x-https-cursor-com-changelog-0-47-x-eebf8f2e|cursor-2025-03-11-0-47-x-https-cursor-com-changelog-0-47-x-eebf8f2e]]'
 source_type: cursor_changelog
 theme: apps-integrations
@@ -85,8 +85,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2025-02-19 · Cursor · [[Changes/Cursor/2025-02-19-mcp-improvements|MCP improvements]]
-- Later: 2025-03-23 · Cursor · [[Changes/Cursor/2025-03-23-3-apps-and-integrations-changes-in-0-48-x|3 Apps and Integrations changes in 0.48.x]]
+- Earlier: 2025-03-03 · Cline · [[Changes/Cline/2025-03-03-add-timeout-option-to-mcp-servers|Add timeout option to MCP servers]]
+- Later: 2025-03-21 · Aider · [[Changes/Aider/2025-03-21-added-git-commit-verify-flag-default-false-to-control-whether-git-commit-hooks-a|Added --git-commit-verify flag (default]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 2652e0a0ae29895be104b480368b263f1c3d3797a13b08f71cd93c3745d3d65d
+machine_hash: 9af01fdaf5e367f9c8954f228c21ca58e74562347ef661de0d251014b654f8db
 product: cursor
 product_name: Cursor
 record:
@@ -45,12 +45,13 @@ record:
   title: Cursor Tab (previously called Copilot++) defaults to chunked streaming
   type: change
 related_changes:
-- '[[Changes/Cursor/2024-06-08-default-on-cursor-prediction-with-a-new-ui|Default-on
-  Cursor Prediction with a new UI]]'
-- '[[Changes/Cursor/2024-07-13-this-build-comes-with-a-new-experimental-multi-file-editing-feature-to-enable-it|Composer
-  (beta)]]'
-- '[[Changes/Cursor/2024-07-23-vs-code-1-91-1-cursor-is-now-based-on-vs-code-1-91-1|VS
-  Code 1.91.1: Cursor is now based on VS Code 1.91.1]]'
+- '[[Changes/Aider/2024-07-31-2-editor-experience-changes-in-v0-47-0|2 Editor Experience
+  changes in v0.47.0]]'
+- '[[Changes/Cline/2024-07-31-new-or-edited-files-open-up-in-the-editor-to-more-easily-see-the-changes-claude|New
+  or edited files open up in the editor to more easily see the changes Claude Dev
+  makes]]'
+- '[[Changes/Cline/2024-08-01-shows-diff-view-of-new-or-edited-files-right-in-the-editor|Shows
+  diff view of new or edited files right in the editor]]'
 source_release: '[[Releases/Cursor/cursor-2024-08-02-0-39-x-https-cursor-com-changelog-0-39-x-db22c405|cursor-2024-08-02-0-39-x-https-cursor-com-changelog-0-39-x-db22c405]]'
 source_type: cursor_changelog
 theme: editor-experience
@@ -80,8 +81,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2024-07-23 · Cursor · [[Changes/Cursor/2024-07-23-vs-code-1-91-1-cursor-is-now-based-on-vs-code-1-91-1|VS Code 1.91.1: Cursor is now based on VS Code 1.91.1]]
-- Later: 2024-09-17 · Cursor · [[Changes/Cursor/2024-09-17-update-0-41-1-0-41-3-improves-onboarding-ux-fixes-a-bug-with-composer-cancellati|UPDATE (0.41.1–0.41.3): Improves onboarding UX, fixes a bug with composer…]]
+- Earlier: 2024-08-01 · Cline · [[Changes/Cline/2024-08-01-shows-diff-view-of-new-or-edited-files-right-in-the-editor|Shows diff view of new or edited files right in the editor]]
+- Later: 2024-08-10 · Aider · [[Changes/Aider/2024-08-10-diff-now-shows-diffs-of-all-changes-resulting-from-your-request-including-lint-a|/diff now shows diffs of all changes resulting from your request, including lint…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

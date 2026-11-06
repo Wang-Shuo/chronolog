@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: pricing
-machine_hash: 4154c5831a3c4b20b9b74bec27c0c1bf47621ccbaa76c6729b1bf9c4b4e411dd
+machine_hash: 0be5d407863e5322637dda78fd723c603d77335d6ea55c9137dde01e26662a95
 product: claude-code
 product_name: Claude Code
 record:
@@ -53,12 +53,11 @@ record:
   title: Added per-model and cache-hit breakdown to `/cost` for subscription users
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-03-10-eligible-chatgpt-plus-and-pro-users-can-now-turn-on-auto-top-up-for-credits-used-5e9d54|Auto
-  top-up for flexible usage credits]]'
-- '[[Changes/Cursor/2026-03-19-standard-0-50-m-input-2-50-m-output-tokens|Standard:
-  $0.50/M input, $2.50/M output tokens]]'
-- '[[Changes/Cursor/2026-03-19-fast-default-1-50-m-input-7-50-m-output-tokens|Fast
-  (default): $1.50/M input, $7.50/M output tokens]]'
+- '[[Changes/Windsurf/2026-03-19-quota-billing|Quota Billing]]'
+- '[[Changes/Gemini CLI/2026-03-24-feat-telemetry-add-clearcut-instrumentation-for-ai-credits-billing-events-by-gsq|feat(telemetry):
+  add Clearcut instrumentation for AI credits billing events]]'
+- '[[Changes/Codex CLI/2026-03-31-15934-add-usage-based-business-plan-types-bwanner-oai|♯15934
+  Add usage-based business plan types @bwanner-oai]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-04-04-v2-1-92-github-305189904-2eb020f5|claude-code-2026-04-04-v2-1-92-github-305189904-2eb020f5]]'
 source_type: github_releases
 theme: pricing-model
@@ -95,8 +94,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Pricing Model
 
-- Earlier: 2026-03-19 · Cursor · [[Changes/Cursor/2026-03-19-fast-default-1-50-m-input-7-50-m-output-tokens|Fast (default): $1.50/M input, $7.50/M output tokens]]
-- Later: 2026-04-09 · ChatGPT · [[Changes/ChatGPT/2026-04-09-pro-100-month-built-for-longer-high-intensity-codex-sessions-it-includes-unlimit|Pro ($100/month): Built for longer, high-intensity Codex sessions]]
+- Earlier: 2026-03-31 · Codex CLI · [[Changes/Codex CLI/2026-03-31-15934-add-usage-based-business-plan-types-bwanner-oai|♯15934 Add usage-based business plan types @bwanner-oai]]
+- Later: 2026-04-06 · Windsurf · [[Changes/Windsurf/2026-04-06-updated-model-picker-with-pricing-context|Updated Model Picker with Pricing Context]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

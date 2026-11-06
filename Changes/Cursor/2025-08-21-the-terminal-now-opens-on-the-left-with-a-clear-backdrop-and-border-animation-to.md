@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: 8a625d5f484f603f955e6fc331fe445b5d8943519cee4d3368ec9aa9af690892
+machine_hash: 4295b38c5bc1116625a0e35cdce240c0f78a21ee43c4b94287030755c31dfa85
 product: cursor
 product_name: Cursor
 record:
@@ -56,12 +56,12 @@ record:
   title: Improved review flow in Agent terminal
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-04-15-improved-agent-terminal-control|Improved agent terminal
-  control]]'
-- '[[Changes/Cursor/2025-06-04-automatic-code-review-with-bugbot-19b552|Automatic
-  code review with Bugbot]]'
-- '[[Changes/Cursor/2025-07-29-2-developer-workflow-changes-in-1-3|2 Developer Workflow
-  changes in 1.3]]'
+- '[[Changes/Cline/2025-08-20-remove-unused-code-from-the-commit-message-generator-by-sjf-in-https-github-com|Remove
+  unused code from the commit-message-generator]]'
+- '[[Changes/Codex CLI/2025-08-20-2474-https-github-com-openai-codex-pull-2474-add-a-slash-command-to-control-perm|♯2474((source
+  link) Add a slash command to control…]]'
+- '[[Changes/Cline/2025-08-21-when-packaging-cline-core-for-debug-builds-include-map-files-by-sjf-in-https-git|When
+  packaging cline-core for debug builds include map files]]'
 source_release: '[[Releases/Cursor/cursor-2025-08-21-1-5-https-cursor-com-changelog-1-5-f93efb89|cursor-2025-08-21-1-5-https-cursor-com-changelog-1-5-f93efb89]]'
 source_type: cursor_changelog
 theme: developer-workflow
@@ -97,8 +97,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2025-07-29 · Cursor · [[Changes/Cursor/2025-07-29-2-developer-workflow-changes-in-1-3|2 Developer Workflow changes in 1.3]]
-- Later: 2025-09-12 · Cursor · [[Changes/Cursor/2025-09-12-improved-terminal-for-agent|Improved terminal for Agent]]
+- Earlier: 2025-08-21 · Cline · [[Changes/Cline/2025-08-21-when-packaging-cline-core-for-debug-builds-include-map-files-by-sjf-in-https-git|When packaging cline-core for debug builds include map files]]
+- Later: 2025-08-26 · Codex CLI · [[Changes/Codex CLI/2025-08-26-11-developer-workflow-changes-in-rust-v0-24-0|11 Developer Workflow changes in rust-v0.24.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

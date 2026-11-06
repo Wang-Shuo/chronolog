@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: dd9bc704673ae162da81d6f64e82411628a83e7c56fbb44977959aa9a15728bd
+machine_hash: b0f53dbfc9091a8eca709a17f778eb097c7ba2e3548b68c06dcc1e7c610bd5dc
 product: claude-code
 product_name: Claude Code
 record:
@@ -44,10 +44,10 @@ record:
   title: 2 Developer Workflow changes in v2.1.275
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-11-added-otel-metrics-include-repository-to-tag-opentelemetry-metrics-and-events-wi|Added
-  OTEL_METRICS_INCLUDE_REPOSITORY to tag OpenTelemetry metrics and events…]]'
-- '[[Changes/Claude Code/2026-09-15-3-developer-workflow-changes-in-v2-1-273|3 Developer
-  Workflow changes in v2.1.273]]'
+- '[[Changes/GitHub Copilot CLI/2026-09-16-6-developer-workflow-changes-in-v1-0-85|6
+  Developer Workflow changes in v1.0.85]]'
+- '[[Changes/OpenHands/2026-09-16-5-developer-workflow-changes-in-v1-19-0|5 Developer
+  Workflow changes in v1.19.0]]'
 - '[[Changes/Claude Code/2026-09-17-7-developer-workflow-changes-in-v2-1-274|7 Developer
   Workflow changes in v2.1.274]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-17-v2-1-275-github-391032307-12ccfafd|claude-code-2026-09-17-v2-1-275-github-391032307-12ccfafd]]'
@@ -94,7 +94,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.275
 ## Nearby in Developer Workflow
 
 - Earlier: 2026-09-17 · Claude Code · [[Changes/Claude Code/2026-09-17-7-developer-workflow-changes-in-v2-1-274|7 Developer Workflow changes in v2.1.274]]
-- Later: 2026-09-18 · Claude Code · [[Changes/Claude Code/2026-09-18-improved-ultrareview-when-there-s-nothing-to-review-messages-say-which-case-you|Improved /ultrareview when there's nothing to review]]
+- Later: 2026-09-17 · Cline · [[Changes/Cline/2026-09-17-2-developer-workflow-changes-in-v4-1-19|2 Developer Workflow changes in v4.1.19]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

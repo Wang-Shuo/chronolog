@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: d10f85002fbd30886bd1367b944c39981e6a09fb9c6f0fe3b60fafdb6ea80613
+machine_hash: b53322e6aeefdbee2e499936b0ced0a844de941d1842692db9a70bb6c8ba0ee0
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -69,10 +69,10 @@ record:
   title: Sign in with ChatGPT
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-07-22-3-apps-and-integrations-changes-in-v2-1-218|3
-  Apps and Integrations changes in v2.1.218]]'
 - '[[Changes/Claude Code/2026-07-24-5-apps-and-integrations-changes-in-v2-1-219|5
   Apps and Integrations changes in v2.1.219]]'
+- '[[Changes/Cline/2026-07-24-include-the-host-plugin-version-in-telemetry-events|Include
+  the host plugin version in telemetry events]]'
 - '[[Changes/Cursor/2026-07-28-plugins-mcp-servers-hooks-and-skills-to-extend-cursor-across-your-workflows|Plugins,
   MCP servers, hooks, and skills to extend Cursor across your workflows]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-07-29-sign-in-with-chatgpt-d166182a|chatgpt-2026-07-29-sign-in-with-chatgpt-d166182a]]'
@@ -102,7 +102,7 @@ type: change
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-07-28 · Cursor · [[Changes/Cursor/2026-07-28-plugins-mcp-servers-hooks-and-skills-to-extend-cursor-across-your-workflows|Plugins, MCP servers, hooks, and skills to extend Cursor across your workflows]]
-- Later: 2026-08-03 · Cursor · [[Changes/Cursor/2026-08-03-cursor-can-now-read-write-and-act-across-your-google-workspace|Google Workspace Plugins]]
+- Later: 2026-07-29 · Codex CLI · [[Changes/Codex CLI/2026-07-29-47-apps-and-integrations-changes-in-rust-v0-146-0|47 Apps and Integrations changes in rust-v0.146.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

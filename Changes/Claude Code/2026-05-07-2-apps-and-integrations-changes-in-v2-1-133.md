@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: a03660c7643de304ccb1dba3da1c41bc75aa87be35d71c0053256585b33a0c4b
+machine_hash: 9e2b8f9b20abc21dacb1447692ee71bbd1f2d3e27c2082adcabba8fae2b44b1b
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,12 +45,12 @@ record:
   title: 2 Apps and Integrations changes in v2.1.133
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-05-04-6-apps-and-integrations-changes-in-v2-1-128|6
-  Apps and Integrations changes in v2.1.128]]'
-- '[[Changes/Claude Code/2026-05-06-added-claude-code-session-id-environment-variable-to-the-bash-tool-subprocess-en|Added
-  CLAUDE_CODE_SESSION_ID environment variable to the Bash tool subprocess…]]'
 - '[[Changes/Claude Code/2026-05-06-3-apps-and-integrations-changes-in-v2-1-129|3
   Apps and Integrations changes in v2.1.129]]'
+- '[[Changes/GitHub Copilot CLI/2026-05-06-mcp-server-child-processes-e-g-started-via-npx-or-uvx-are-now-fully-terminated-w|MCP
+  server child processes (e.g. started via npx or uvx) are now fully terminated…]]'
+- '[[Changes/GitHub Copilot CLI/2026-05-06-2-apps-and-integrations-changes-in-v1-0-42|2
+  Apps and Integrations changes in v1.0.42]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-05-07-v2-1-133-github-319164825-08653677|claude-code-2026-05-07-v2-1-133-github-319164825-08653677]]'
 source_type: github_releases
 theme: apps-integrations
@@ -87,8 +87,8 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.133
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-05-06 · Claude Code · [[Changes/Claude Code/2026-05-06-3-apps-and-integrations-changes-in-v2-1-129|3 Apps and Integrations changes in v2.1.129]]
-- Later: 2026-05-07 · Cursor · [[Changes/Cursor/2026-05-07-made-mcp-connection-behavior-more-predictable-and-added-explicit-stale-token-cle|Made MCP connection behavior more predictable, and added explicit stale token…]]
+- Earlier: 2026-05-06 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-05-06-2-apps-and-integrations-changes-in-v1-0-42|2 Apps and Integrations changes in v1.0.42]]
+- Later: 2026-05-07 · Codex CLI · [[Changes/Codex CLI/2026-05-07-39-apps-and-integrations-changes-in-rust-v0-129-0|39 Apps and Integrations changes in rust-v0.129.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

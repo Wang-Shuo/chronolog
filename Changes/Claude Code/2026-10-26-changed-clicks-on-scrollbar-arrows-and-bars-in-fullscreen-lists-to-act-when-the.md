@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: f032e17d615f4db0c77a2dc53befda7409642d58697c76a23293ebf2264ded66
+machine_hash: 731b4c273a739af9087e12595ea76605215144c76fd6cf0b4adcedeaa4cee1fc
 product: claude-code
 product_name: Claude Code
 record:
@@ -44,12 +44,12 @@ record:
   title: Changed clicks on scrollbar arrows and bars in fullscreen lists to act…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-15-2-interface-experience-changes-in-v2-1-301|2 Interface
-  Experience changes in v2.1.301]]'
-- '[[Changes/Claude Code/2026-10-20-improved-a-mod-s-image-to-draw-its-picture-in-iterm2-3-5-and-later-with-fullscre|Improved
-  a mod''s Image to draw its picture in iTerm2 3.5 and later with fullscreen…]]'
-- '[[Changes/Claude Code/2026-10-23-improved-a-mod-s-image-to-draw-inside-tmux-with-allow-passthrough-and-focus-even|Improved
-  a mod''s Image to draw inside tmux with allow-passthrough…]]'
+- '[[Changes/Codex CLI/2026-10-23-9-interface-experience-changes-in-rust-v0-164-0|9
+  Interface Experience changes in rust-v0.164.0]]'
+- '[[Changes/OpenHands/2026-10-23-refactor-sidebar-express-mobile-drawer-duration-in-css-by-enyst-in-https-github|refactor(sidebar):
+  express mobile drawer duration in CSS]]'
+- '[[Changes/Windsurf/2026-10-23-2-interface-experience-changes-in-v3-11-212|2 Interface
+  Experience changes in v3.11.212]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-10-26-v2-1-311-github-424682562-151da26b|claude-code-2026-10-26-v2-1-311-github-424682562-151da26b]]'
 source_type: github_releases
 theme: interface-experience
@@ -88,7 +88,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-10-23 · Claude Code · [[Changes/Claude Code/2026-10-23-improved-a-mod-s-image-to-draw-inside-tmux-with-allow-passthrough-and-focus-even|Improved a mod's Image to draw inside tmux with allow-passthrough…]]
+- Earlier: 2026-10-23 · Windsurf · [[Changes/Windsurf/2026-10-23-2-interface-experience-changes-in-v3-11-212|2 Interface Experience changes in v3.11.212]]
 - Later: 2026-10-27 · Claude Code · [[Changes/Claude Code/2026-10-27-2-interface-experience-changes-in-v2-1-312|2 Interface Experience changes in v2.1.312]]
 <!-- chronolog:end -->
 

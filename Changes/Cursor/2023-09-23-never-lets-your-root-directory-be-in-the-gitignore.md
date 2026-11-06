@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: a806bed273811c6e8bed51574713803ee138822bb5c6ec44c9bb6c51562a33b1
+machine_hash: 4456c3b486e6a303e145c9289317c9a1e41c43a2b11972047d7c8da58d26d73b
 product: cursor
 product_name: Cursor
 record:
@@ -75,7 +75,7 @@ type: change
 ## Nearby in Developer Workflow
 
 - Earlier: 2023-09-05 · Cursor · [[Changes/Cursor/2023-09-05-ships-with-cursor-python-a-language-server-fork-of-pyright-built-for-cursor|Cursor-Python LSP]]
-- Later: 2023-10-01 · Cursor · [[Changes/Cursor/2023-10-01-ask-about-git-commits-and-prs-using-git-in-chat|Ask about git commits and PRs using @git in chat!]]
+- Later: 2023-09-30 · Aider · [[Changes/Aider/2023-09-30-2-developer-workflow-changes-in-v0-14-1|2 Developer Workflow changes in v0.14.1]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

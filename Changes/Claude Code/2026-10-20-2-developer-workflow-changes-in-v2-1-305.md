@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: ca97021c273acabacaa70c6f65301aa0559b8f6022fe92e01ac427c59941944d
+machine_hash: 492eff459c9c2c9c81eadd00689afba0a0cc1d2df061e8053929beb591852655
 product: claude-code
 product_name: Claude Code
 record:
@@ -44,12 +44,12 @@ record:
   title: 2 Developer Workflow changes in v2.1.305
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-14-10-developer-workflow-changes-in-v2-1-299|10 Developer
-  Workflow changes in v2.1.299]]'
-- '[[Changes/Claude Code/2026-10-15-2-developer-workflow-changes-in-v2-1-301|2 Developer
-  Workflow changes in v2.1.301]]'
+- '[[Changes/Codex CLI/2026-10-15-15-developer-workflow-changes-in-rust-v0-163-0|15
+  Developer Workflow changes in rust-v0.163.0]]'
 - '[[Changes/Claude Code/2026-10-19-3-developer-workflow-changes-in-v2-1-304|3 Developer
   Workflow changes in v2.1.304]]'
+- '[[Changes/GitHub Copilot CLI/2026-10-19-2-developer-workflow-changes-in-v1-0-100|2
+  Developer Workflow changes in v1.0.100]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-10-20-v2-1-305-github-418781864-90995baa|claude-code-2026-10-20-v2-1-305-github-418781864-90995baa]]'
 source_type: github_releases
 theme: developer-workflow
@@ -88,8 +88,8 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.305
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2026-10-19 · Claude Code · [[Changes/Claude Code/2026-10-19-3-developer-workflow-changes-in-v2-1-304|3 Developer Workflow changes in v2.1.304]]
-- Later: 2026-10-21 · Claude Code · [[Changes/Claude Code/2026-10-21-2-developer-workflow-changes-in-v2-1-307|2 Developer Workflow changes in v2.1.307]]
+- Earlier: 2026-10-19 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-10-19-2-developer-workflow-changes-in-v1-0-100|2 Developer Workflow changes in v1.0.100]]
+- Later: 2026-10-20 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-10-20-2-developer-workflow-changes-in-v1-0-101|2 Developer Workflow changes in v1.0.101]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

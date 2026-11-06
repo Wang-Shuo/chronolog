@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 536f6709fc4b0294b0f9c84d11f1e2b923d07d44cb41ce42bb062c3526482d60
+machine_hash: 42a31a18aeee7c1d481689585720c3bb3487bb86dbd7712d38d9f444b96d085e
 product: claude-code
 product_name: Claude Code
 record:
@@ -46,10 +46,10 @@ record:
     you…'
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-17-10-editor-experience-changes-in-v2-1-275|10 Editor
-  Experience changes in v2.1.275]]'
-- '[[Changes/Claude Code/2026-09-17-vscode-added-a-claudecode-lockeditorgroups-setting-to-stop-claude-from-locking-t|VSCode
-  Added a claudeCode.lockEditorGroups setting to stop Claude from locking…]]'
+- '[[Changes/Codex CLI/2026-09-17-2-editor-experience-changes-in-rust-v0-155-0|2 Editor
+  Experience changes in rust-v0.155.0]]'
+- '[[Changes/GitHub Copilot CLI/2026-09-17-2-editor-experience-changes-in-v1-0-86|2
+  Editor Experience changes in v1.0.86]]'
 - '[[Changes/Claude Code/2026-09-18-2-editor-experience-changes-in-v2-1-277|2 Editor
   Experience changes in v2.1.277]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-22-v2-1-280-github-393879189-1cf5db2b|claude-code-2026-09-22-v2-1-280-github-393879189-1cf5db2b]]'
@@ -89,7 +89,7 @@ type: change
 ## Nearby in Editor Experience
 
 - Earlier: 2026-09-18 · Claude Code · [[Changes/Claude Code/2026-09-18-2-editor-experience-changes-in-v2-1-277|2 Editor Experience changes in v2.1.277]]
-- Later: 2026-09-28 · ChatGPT · [[Changes/ChatGPT/2026-09-28-you-can-now-select-a-chart-metric-or-record-in-the-health-tab-to-get-personalize|Explore your health data with personalized summaries]]
+- Later: 2026-09-22 · Codex CLI · [[Changes/Codex CLI/2026-09-22-6-editor-experience-changes-in-rust-v0-156-0|6 Editor Experience changes in rust-v0.156.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

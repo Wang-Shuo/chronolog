@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: image-generation
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: a15111117d4bfa5f5468be9861bb072c4cb3fcfa1f3b51c72956e52c87f73939
+machine_hash: b21cac453dcaab9586e53c92659a8eb1f5a2a5e21d49f1403b38c986dfedcafc
 product: cursor
 product_name: Cursor
 record:
@@ -104,7 +104,7 @@ type: change
 ## Nearby in Image Generation
 
 - Earlier: 2025-12-16 · ChatGPT · [[Changes/ChatGPT/2025-12-16-we-ve-introduced-a-new-and-improved-version-of-chatgpt-images-powered-by-our-bes-a63d5c|ChatGPT Images on Web and Mobile (iOS & Android)]]
-- Later: 2026-04-21 · ChatGPT · [[Changes/ChatGPT/2026-04-21-we-re-introducing-chatgpt-images-2-0-our-new-image-generation-model-in-chatgpt-c|ChatGPT Images 2.0 in ChatGPT]]
+- Later: 2026-03-05 · Codex CLI · [[Changes/Codex CLI/2026-03-05-expanded-image-workflow-support-for-clients-including-client-side-handling-of-im|Expanded image workflow support for clients, including client-side handling…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

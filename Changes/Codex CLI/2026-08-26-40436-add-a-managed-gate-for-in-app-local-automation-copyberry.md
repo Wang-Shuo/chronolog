@@ -1,0 +1,103 @@
+---
+card_id: codex-cli-2026-08-26-f82b97
+date: '2026-08-26'
+description: 'Codex CLI · 2026-08-26 · Automation and Scheduling: #40436 Add a managed
+  gate for in-app local automation @copyberry'
+diffusion:
+  first_in_tracked: '[[Changes/OpenHands/2024-09-04-better-syntax-error-loop-detection-by-tobitege-in-https-github-com-all-hands-ai|Better
+    syntax error loop detection]]'
+  inference: No adoption, equivalence, or causation claim.
+  lag_days: 721
+  relation: same-theme-chronology
+  role: later-observed
+  scope: tracked-products-only
+  theme: automation-scheduling
+  tracked_products_count: 10
+evolves_from: []
+extractor_version: fallback-v5
+impact: incremental
+kind: change
+machine_hash: f5c8ef9d55d5bf73a487bc7911c4929ba537f080c0cd827a6db0e38e54724e52
+product: codex-cli
+product_name: Codex CLI
+record:
+  card_id: codex-cli-2026-08-26-f82b97
+  comparison: ''
+  date: '2026-08-26'
+  description: 'Codex CLI — 0.150.0: #40436 Add a managed gate for in-app local automation
+    @copyberry'
+  evidence:
+  - quote: '#40436 Add a managed gate for in-app local automation @copyberry'
+    source_release: https://github.com/openai/codex/releases/tag/rust-v0.150.0
+  extractor_version: fallback-v5
+  impact: incremental
+  kind: change
+  product: codex-cli
+  product_name: Codex CLI
+  slug: 40436-add-a-managed-gate-for-in-app-local-automation-copyberry
+  source_release: codex-cli-2026-08-26-rust-v0-150-0-github-377374683-d950f84c
+  source_type: github_releases
+  theme: automation-scheduling
+  title: '#40436 Add a managed gate for in-app local automation @copyberry'
+  type: change
+related_changes:
+- '[[Changes/ChatGPT/2026-08-25-scheduled-tasks-in-chatgpt-work-can-use-webhooks-to-respond-when-something-chang|Scheduled
+  tasks in ChatGPT Work can use webhooks to respond when something changes…]]'
+- '[[Changes/ChatGPT/2026-08-25-free-go-plus-and-pro-users-can-share-scheduled-tasks-recipients-can-review-and-c|Share
+  scheduled tasks]]'
+- '[[Changes/ChatGPT/2026-08-25-free-users-can-create-up-to-three-active-scheduled-tasks-tasks-can-run-once-or-r|Scheduled
+  tasks for Free users]]'
+source_release: '[[Releases/Codex CLI/codex-cli-2026-08-26-rust-v0-150-0-github-377374683-d950f84c|codex-cli-2026-08-26-rust-v0-150-0-github-377374683-d950f84c]]'
+source_type: github_releases
+theme: automation-scheduling
+title: ♯40436 Add a managed gate for in-app local automation @copyberry
+type: change
+---
+
+<!-- chronolog:begin region="header" -->
+# #40436 Add a managed gate for in-app local automation @copyberry
+
+**Codex CLI** · 2026-08-26 · [[Themes/automation-scheduling|Automation and Scheduling]] · [Official source](https://github.com/openai/codex/releases/tag/rust-v0.150.0) · from [[Releases/Codex CLI/codex-cli-2026-08-26-rust-v0-150-0-github-377374683-d950f84c|0.150.0]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="evidence" -->
+> #40436 Add a managed gate for in-app local automation @copyberry
+>
+> Source: https://github.com/openai/codex/releases/tag/rust-v0.150.0
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="context" -->
+## Also in this release
+
+- [[Changes/Codex CLI/2026-08-26-39953-support-voice-aware-configuration-and-version-skew-builds-copyberry|♯39953 Support voice-aware configuration and version-skew builds @copyberry]] · Voice and Audio
+- [[Changes/Codex CLI/2026-08-26-6-interface-experience-changes-in-rust-v0-150-0|6 Interface Experience changes in rust-v0.150.0]] · Interface Experience
+- [[Changes/Codex CLI/2026-08-26-10-model-support-changes-in-rust-v0-150-0|10 Model Support changes in rust-v0.150.0]] · Model Support
+- [[Changes/Codex CLI/2026-08-26-24-apps-and-integrations-changes-in-rust-v0-150-0|24 Apps and Integrations changes in rust-v0.150.0]] · Apps and Integrations
+- [[Changes/Codex CLI/2026-08-26-15-developer-workflow-changes-in-rust-v0-150-0|15 Developer Workflow changes in rust-v0.150.0]] · Developer Workflow
+- [[Changes/Codex CLI/2026-08-26-40544-include-transparent-background-in-image-generation-analytics-copyberry|♯40544 Include transparent background in image generation analytics @copyberry]] · Image Generation
+- [[Changes/Codex CLI/2026-08-26-14-agent-mode-changes-in-rust-v0-150-0|14 Agent Mode changes in rust-v0.150.0]] · Agent Mode
+- [[Changes/Codex CLI/2026-08-26-12-safety-and-privacy-changes-in-rust-v0-150-0|12 Safety and Privacy changes in rust-v0.150.0]] · Safety and Privacy
+- [[Changes/Codex CLI/2026-08-26-2-account-and-access-changes-in-rust-v0-150-0|2 Account and Access changes in rust-v0.150.0]] · Account and Access
+- [[Changes/Codex CLI/2026-08-26-39811-restrict-macos-preference-reads-to-full-disk-policies-copyberry|♯39811 Restrict macOS preference reads to full-disk policies @copyberry]] · Mobile and Desktop
+- [[Changes/Codex CLI/2026-08-26-40488-export-turn-cost-as-an-otel-metric-copyberry|♯40488 Export turn cost as an OTEL metric @copyberry]] · Pricing Model
+- [[Changes/Codex CLI/2026-08-26-3-memory-and-personalization-changes-in-rust-v0-150-0|3 Memory and Personalization changes in rust-v0.150.0]] · Memory and Personalization
+- [[Changes/Codex CLI/2026-08-26-14-context-window-changes-in-rust-v0-150-0|14 Context Window changes in rust-v0.150.0]] · Context Window
+- [[Changes/Codex CLI/2026-08-26-110-other-changes-in-rust-v0-150-0|110 other changes in rust-v0.150.0]] · Other changes
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="nearby" -->
+## Nearby in Automation and Scheduling
+
+- Earlier: 2026-08-25 · ChatGPT · [[Changes/ChatGPT/2026-08-25-free-users-can-create-up-to-three-active-scheduled-tasks-tasks-can-run-once-or-r|Scheduled tasks for Free users]]
+- Later: 2026-08-27 · Claude Code · [[Changes/Claude Code/2026-08-27-changed-loop-self-paced-dynamic-mode-and-the-no-prompt-autonomous-default-are-no|Changed /loop: self-paced dynamic mode and the no-prompt autonomous default…]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="relations" -->
+## Related
+
+- Earliest same-theme entry in the tracked set: 2024-09-04 · OpenHands · [[Changes/OpenHands/2024-09-04-better-syntax-error-loop-detection-by-tobitege-in-https-github-com-all-hands-ai|Better syntax error loop detection]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="footer" -->
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20codex-cli-2026-08-26-f82b97&body=Card%3A%20Changes%2FCodex%20CLI%2F2026-08-26-40436-add-a-managed-gate-for-in-app-local-automation-copyberry.md%0ACard%20ID%3A%20codex-cli-2026-08-26-f82b97%0ASource%3A%20https%3A%2F%2Fgithub.com%2Fopenai%2Fcodex%2Freleases%2Ftag%2Frust-v0.150.0%0A%0AWhat%20should%20be%20corrected%3F%0A)
+<!-- chronolog:end -->

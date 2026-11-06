@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: search-browsing
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 00f2c0cc81c1b1ae995bb6e8ccc08e460bc4f4a230dd2fb6377bd6a619f150da
+machine_hash: 6d1b95daea506a09d0a84ad60c62edcff8a9516c6d0bf581fa292168b5da1dcb
 product: cursor
 product_name: Cursor
 record:
@@ -82,7 +82,7 @@ type: change
 ## Nearby in Search and Browsing
 
 - Earlier: 2023-09-27 · ChatGPT · [[Changes/ChatGPT/2023-09-27-browsing-is-rolling-out-to-all-plus-users-chatgpt-can-now-browse-the-internet-to-335b58|Browsing is rolling out to all Plus users]]
-- Later: 2025-02-14 · ChatGPT · [[Changes/ChatGPT/2025-02-14-set-chatgpt-as-default-search-engine-in-safari|Set ChatGPT as default search engine in Safari]]
+- Later: 2024-06-29 · OpenHands · [[Changes/OpenHands/2024-06-29-5-search-and-browsing-changes-in-0-7-0|5 Search and Browsing changes in 0.7.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

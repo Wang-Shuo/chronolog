@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: 72312d344e5f21d57942edb02af3fff07dbbf2600b6dfdde78ea9f8b88bf5770
+machine_hash: 0e294dedc97be4f88544cf7385c481c6a51e23f1d399831ecd2d687daa31f86d
 product: cursor
 product_name: Cursor
 record:
@@ -57,10 +57,10 @@ record:
     as you…
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-02-27-sidebar-actions-on-mobile-web-no-longer-stick-while-scrolling|Sidebar
-  actions on mobile web no longer stick while scrolling]]'
-- '[[Changes/ChatGPT/2026-02-27-faster-sidebar-actions-sidebar-interactions-such-as-renaming-chats-are-now-faste|Faster
-  sidebar actions]]'
+- '[[Changes/Gemini CLI/2026-02-27-2-interface-experience-changes-in-v0-31-0|2 Interface
+  Experience changes in v0.31.0]]'
+- '[[Changes/GitHub Copilot CLI/2026-02-27-add-ctrl-g-keyboard-shortcut-for-editing-prompts-in-external-editor-and-dismissi|Add
+  Ctrl+G keyboard shortcut for editing prompts in external editor and dismissing…]]'
 - '[[Changes/Claude Code/2026-02-28-added-always-copy-full-response-option-to-the-copy-picker-when-selected-future-c|Added
   "Always copy full response" option to the /copy picker]]'
 source_release: '[[Releases/Cursor/cursor-2026-03-03-2-6-https-cursor-com-changelog-2-6-0fa7f1a3|cursor-2026-03-03-2-6-https-cursor-com-changelog-2-6-0fa7f1a3]]'
@@ -104,7 +104,7 @@ type: change
 ## Nearby in Interface Experience
 
 - Earlier: 2026-02-28 · Claude Code · [[Changes/Claude Code/2026-02-28-added-always-copy-full-response-option-to-the-copy-picker-when-selected-future-c|Added "Always copy full response" option to the /copy picker]]
-- Later: 2026-03-05 · Claude Code · [[Changes/Claude Code/2026-03-05-3-interface-experience-changes-in-v2-1-69|3 Interface Experience changes in v2.1.69]]
+- Later: 2026-03-03 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-03-03-2-interface-experience-changes-in-v0-0-421|2 Interface Experience changes in v0.0.421]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

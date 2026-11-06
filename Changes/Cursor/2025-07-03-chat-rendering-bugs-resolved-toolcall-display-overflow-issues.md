@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 2b8736950634b46cc34267b081ddd19fbb0b2017790746949168be5f5db2773e
+machine_hash: aee98a7d6ecfa2ac0707cc65bcd299606919f2f42c7a743cf11e120f7f4486c4
 product: cursor
 product_name: Cursor
 record:
@@ -43,10 +43,12 @@ record:
   title: Chat rendering bugs resolved (toolcall display, overflow issues)
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-05-15-duplicate-chats|Duplicate Chats]]'
-- '[[Changes/ChatGPT/2025-06-03-memory-improvements-are-starting-to-roll-out-to-free-users-in-addition-to-the-sa-a02494|Memory
-  improvements are starting to roll out to Free users]]'
-- '[[Changes/Cursor/2025-06-04-new-settings-and-dashboard|New Settings and Dashboard]]'
+- '[[Changes/Aider/2025-06-27-2-interface-experience-changes-in-v0-85-0|2 Interface
+  Experience changes in v0.85.0]]'
+- '[[Changes/Gemini CLI/2025-07-01-feat-add-markdown-table-rendering-support-by-heartyguy-in-https-github-com-googl|feat:
+  Add markdown table rendering support]]'
+- '[[Changes/OpenHands/2025-07-02-added-tooltip-for-suggested-tasks-by-hieptl-in-https-github-com-all-hands-ai-ope|Added
+  tooltip for suggested tasks]]'
 source_release: '[[Releases/Cursor/cursor-2025-07-03-1-2-https-cursor-com-changelog-1-2-27872f5d|cursor-2025-07-03-1-2-https-cursor-com-changelog-1-2-27872f5d]]'
 source_type: cursor_changelog
 theme: interface-experience
@@ -86,8 +88,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2025-06-04 · Cursor · [[Changes/Cursor/2025-06-04-new-settings-and-dashboard|New Settings and Dashboard]]
-- Later: 2025-09-12 · Cursor · [[Changes/Cursor/2025-09-12-1-6-27-native-menu-notification-badge|1.6.27: Native menu notification badge]]
+- Earlier: 2025-07-02 · OpenHands · [[Changes/OpenHands/2025-07-02-added-tooltip-for-suggested-tasks-by-hieptl-in-https-github-com-all-hands-ai-ope|Added tooltip for suggested tasks]]
+- Later: 2025-07-19 · Gemini CLI · [[Changes/Gemini CLI/2025-07-19-add-numbers-to-selection-list-by-miguelsolorio-in-https-github-com-google-gemini|Add numbers to selection list]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

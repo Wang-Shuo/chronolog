@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: c6bbffdb03eff0462bc30c0cad096f666796fed712a81f408eedeb7b264f69be
+machine_hash: 8b36e0af9868d2c647817e429c483d7fb78c1ecec228fda9190171f8a2d8ed93
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -42,10 +42,10 @@ record:
   title: Extra High [Pro plans only]
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-06-08-added-a-disablebundledskills-setting-and-claude-code-disable-bundled-skills-envi|Added
-  a disableBundledSkills setting and CLAUDE_CODE_DISABLE_BUNDLED_SKILLS…]]'
-- '[[Changes/Claude Code/2026-06-09-introducing-claude-fable-5-a-mythos-class-model-that-we-ve-made-safe-for-general|Introducing
-  Claude Fable 5: a Mythos-class model that we’ve made safe for general use]]'
+- '[[Changes/Cline/2026-06-09-2-model-support-changes-in-v3-89-0|2 Model Support changes
+  in v3.89.0]]'
+- '[[Changes/GitHub Copilot CLI/2026-06-09-3-model-support-changes-in-v1-0-61|3 Model
+  Support changes in v1.0.61]]'
 - '[[Changes/ChatGPT/2026-06-10-pro-extended-pro-plans-only|Pro Extended Pro plans
   only]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-06-10-simplified-controls-in-the-model-picker-32a1fdba|chatgpt-2026-06-10-simplified-controls-in-the-model-picker-32a1fdba]]'
@@ -78,7 +78,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-06-09 · Claude Code · [[Changes/Claude Code/2026-06-09-introducing-claude-fable-5-a-mythos-class-model-that-we-ve-made-safe-for-general|Introducing Claude Fable 5: a Mythos-class model that we’ve made safe for general use]]
+- Earlier: 2026-06-09 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-06-09-3-model-support-changes-in-v1-0-61|3 Model Support changes in v1.0.61]]
 - Later: 2026-06-10 · Claude Code · [[Changes/Claude Code/2026-06-10-2-model-support-changes-in-v2-1-172|2 Model Support changes in v2.1.172]]
 <!-- chronolog:end -->
 

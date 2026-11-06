@@ -1,0 +1,96 @@
+---
+card_id: gemini-cli-2026-03-03-cee513
+date: '2026-03-03'
+description: 'Gemini CLI · 2026-03-03 · Pricing Model: feat(billing): implement G1
+  AI credits overage flow with billing telemetry by @gsquared94 in…'
+diffusion:
+  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-daily-limit-to-ensure-a-high-quality-experience-for-all-chatgpt-users-we-are-exp|Daily
+    limit: To ensure a high-quality experience for all ChatGPT users, we…]]'
+  inference: No adoption, equivalence, or causation claim.
+  lag_days: 1174
+  relation: same-theme-chronology
+  role: later-observed
+  scope: tracked-products-only
+  theme: pricing-model
+  tracked_products_count: 10
+evolves_from: []
+extractor_version: fallback-v5
+impact: incremental
+kind: pricing
+machine_hash: a54727720b2ee18ca78dc3384c3ca3d6bd821b0e4b78a4c1a03ea2a59265d621
+product: gemini-cli
+product_name: Gemini CLI
+record:
+  card_id: gemini-cli-2026-03-03-cee513
+  comparison: ''
+  date: '2026-03-03'
+  description: 'Gemini CLI — Release v0.32.0: feat(billing): implement G1 AI credits
+    overage flow with billing telemetry by @gsquared94 in https://github.com/google-gemini/gemini-cli/pull/18590'
+  evidence:
+  - quote: 'feat(billing): implement G1 AI credits overage flow with billing telemetry
+      by @gsquared94 in https://github.com/google-gemini/gemini-cli/pull/18590'
+    source_release: https://github.com/google-gemini/gemini-cli/releases/tag/v0.32.0
+  extractor_version: fallback-v5
+  impact: incremental
+  kind: pricing
+  product: gemini-cli
+  product_name: Gemini CLI
+  slug: feat-billing-implement-g1-ai-credits-overage-flow-with-billing-telemetry-by-gsqu
+  source_release: gemini-cli-2026-03-03-v0-32-0-github-292766674-53a1a89a
+  source_type: github_releases
+  theme: pricing-model
+  title: 'feat(billing): implement G1 AI credits overage flow with billing telemetry'
+  type: change
+related_changes:
+- '[[Changes/Codex CLI/2026-02-04-10274-add-credits-tooltip-pakrym-oai|♯10274 Add
+  credits tooltip @pakrym-oai]]'
+- '[[Changes/Cline/2026-02-05-codex-5-3-through-chatgpt-subscription|Codex-5.3 through
+  ChatGPT subscription]]'
+- '[[Changes/GitHub Copilot CLI/2026-02-07-display-warning-when-user-has-no-copilot-subscription|Display
+  warning when user has no Copilot subscription]]'
+source_release: '[[Releases/Gemini CLI/gemini-cli-2026-03-03-v0-32-0-github-292766674-53a1a89a|gemini-cli-2026-03-03-v0-32-0-github-292766674-53a1a89a]]'
+source_type: github_releases
+theme: pricing-model
+title: 'feat(billing): implement G1 AI credits overage flow with billing telemetry'
+type: change
+---
+
+<!-- chronolog:begin region="header" -->
+# feat(billing): implement G1 AI credits overage flow with billing telemetry
+
+**Gemini CLI** · 2026-03-03 · [[Themes/pricing-model|Pricing Model]] · Pricing · [Official source](https://github.com/google-gemini/gemini-cli/releases/tag/v0.32.0) · from [[Releases/Gemini CLI/gemini-cli-2026-03-03-v0-32-0-github-292766674-53a1a89a|Release v0.32.0]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="evidence" -->
+> feat(billing): implement G1 AI credits overage flow with billing telemetry by @gsquared94 in https://github.com/google-gemini/gemini-cli/pull/18590
+>
+> Source: https://github.com/google-gemini/gemini-cli/releases/tag/v0.32.0
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="context" -->
+## Also in this release
+
+- [[Changes/Gemini CLI/2026-03-03-2-developer-workflow-changes-in-v0-32-0|2 Developer Workflow changes in v0.32.0]] · Developer Workflow
+- [[Changes/Gemini CLI/2026-03-03-3-agent-mode-changes-in-v0-32-0|3 Agent Mode changes in v0.32.0]] · Agent Mode
+- [[Changes/Gemini CLI/2026-03-03-3-apps-and-integrations-changes-in-v0-32-0|3 Apps and Integrations changes in v0.32.0]] · Apps and Integrations
+- [[Changes/Gemini CLI/2026-03-03-3-model-support-changes-in-v0-32-0|3 Model Support changes in v0.32.0]] · Model Support
+- [[Changes/Gemini CLI/2026-03-03-feat-plan-support-opening-and-modifying-plan-in-external-editor-by-adib234-in-ht|feat(plan): support opening and modifying plan in external editor]] · Editor Experience
+- [[Changes/Gemini CLI/2026-03-03-36-other-changes-in-v0-32-0|36 other changes in v0.32.0]] · Other changes
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="nearby" -->
+## Nearby in Pricing Model
+
+- Earlier: 2026-02-07 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-02-07-display-warning-when-user-has-no-copilot-subscription|Display warning when user has no Copilot subscription]]
+- Later: 2026-03-04 · Cline · [[Changes/Cline/2026-03-04-token-cost-updates-now-happen-immediately-as-usage-chunks-arrive-not-after-tool|Token/cost updates now happen immediately as usage chunks arrive, not after tool execution]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="relations" -->
+## Related
+
+- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-daily-limit-to-ensure-a-high-quality-experience-for-all-chatgpt-users-we-are-exp|Daily limit: To ensure a high-quality experience for all ChatGPT users, we…]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="footer" -->
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20gemini-cli-2026-03-03-cee513&body=Card%3A%20Changes%2FGemini%20CLI%2F2026-03-03-feat-billing-implement-g1-ai-credits-overage-flow-with-billing-telemetry-by-gsqu.md%0ACard%20ID%3A%20gemini-cli-2026-03-03-cee513%0ASource%3A%20https%3A%2F%2Fgithub.com%2Fgoogle-gemini%2Fgemini-cli%2Freleases%2Ftag%2Fv0.32.0%0A%0AWhat%20should%20be%20corrected%3F%0A)
+<!-- chronolog:end -->

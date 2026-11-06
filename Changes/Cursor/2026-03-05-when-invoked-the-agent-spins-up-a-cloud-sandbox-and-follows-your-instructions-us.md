@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: acd22412e99de70c473020fb51c2f5bb38eb6c4d79c74d0401ea3413c6370b1b
+machine_hash: 62233b3e41ccf542722e1ed6c07c3c5b1667291764331b3cf455751849a36b42
 product: cursor
 product_name: Cursor
 record:
@@ -63,12 +63,12 @@ record:
     using…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-02-28-fixed-listener-leak-in-interactive-permission-handler-during-auto-approvals|Fixed
-  listener leak in interactive permission handler during auto-approvals]]'
-- '[[Changes/Cursor/2026-03-03-fixed-team-permission-and-access-control-inconsistencies-across-organization-set|Fixed
-  team permission and access control inconsistencies across organization setups]]'
+- '[[Changes/GitHub Copilot CLI/2026-03-03-autopilot-permission-dialog-appears-on-first-prompt-submission-instead-of-on-mod|Autopilot
+  permission dialog appears on first prompt submission instead of on mode switch]]'
 - '[[Changes/Claude Code/2026-03-05-5-safety-and-privacy-changes-in-v2-1-69|5 Safety
   and Privacy changes in v2.1.69]]'
+- '[[Changes/Codex CLI/2026-03-05-4-safety-and-privacy-changes-in-rust-v0-110-0|4
+  Safety and Privacy changes in rust-v0.110.0]]'
 source_release: '[[Releases/Cursor/cursor-2026-03-05-automations-https-cursor-com-changelog-03-05-26-be367422|cursor-2026-03-05-automations-https-cursor-com-changelog-03-05-26-be367422]]'
 source_type: cursor_changelog
 theme: safety-privacy
@@ -99,7 +99,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Safety and Privacy
 
-- Earlier: 2026-03-05 · Claude Code · [[Changes/Claude Code/2026-03-05-5-safety-and-privacy-changes-in-v2-1-69|5 Safety and Privacy changes in v2.1.69]]
+- Earlier: 2026-03-05 · Codex CLI · [[Changes/Codex CLI/2026-03-05-4-safety-and-privacy-changes-in-rust-v0-110-0|4 Safety and Privacy changes in rust-v0.110.0]]
 - Later: 2026-03-07 · Claude Code · [[Changes/Claude Code/2026-03-07-fixed-false-positive-permission-prompts-for-compound-bash-commands-containing-he|Fixed false-positive permission prompts for compound bash commands containing…]]
 <!-- chronolog:end -->
 

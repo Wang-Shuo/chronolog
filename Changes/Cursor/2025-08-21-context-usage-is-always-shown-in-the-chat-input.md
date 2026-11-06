@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 006a1b14687537203c715232cb47b6e8baf52df8989b38fc894364faf45533bb
+machine_hash: 81d56d1eae6343d68a77b77f5923e729e5fd83b2dd14377413753094101d671d
 product: cursor
 product_name: Cursor
 record:
@@ -41,11 +41,12 @@ record:
   title: Context usage is always shown in the chat input
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-07-03-pr-indexing-search|PR indexing & search]]'
-- '[[Changes/Cursor/2025-07-29-at-the-end-of-a-conversation-you-can-now-see-how-much-of-the-context-window-is-u|View
-  context usage in Chat]]'
-- '[[Changes/Cursor/2025-08-06-admin-api-for-blocklists-block-specific-files-or-directories-from-being-indexed|Admin
-  API for blocklists]]'
+- '[[Changes/Codex CLI/2025-08-20-2-context-window-changes-in-rust-v0-23-0|2 Context
+  Window changes in rust-v0.23.0]]'
+- '[[Changes/Cline/2025-08-21-added-telemetry-for-auto-compact-toggle-in-menu-by-0xtoshii-in-https-github-com|added
+  telemetry for auto compact toggle in menu]]'
+- '[[Changes/Cline/2025-08-21-next-gen-context-management-method-switch-by-0xtoshii-in-https-github-com-cline|next
+  gen context management method switch]]'
 source_release: '[[Releases/Cursor/cursor-2025-08-21-1-5-https-cursor-com-changelog-1-5-f93efb89|cursor-2025-08-21-1-5-https-cursor-com-changelog-1-5-f93efb89]]'
 source_type: cursor_changelog
 theme: context-window
@@ -81,8 +82,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Context Window
 
-- Earlier: 2025-08-06 · Cursor · [[Changes/Cursor/2025-08-06-admin-api-for-blocklists-block-specific-files-or-directories-from-being-indexed|Admin API for blocklists]]
-- Later: 2025-09-12 · Cursor · [[Changes/Cursor/2025-09-12-cursor-automatically-summarizes-long-conversation-for-you-when-reaching-the-cont|Summarization triggers]]
+- Earlier: 2025-08-21 · Cline · [[Changes/Cline/2025-08-21-next-gen-context-management-method-switch-by-0xtoshii-in-https-github-com-cline|next gen context management method switch]]
+- Later: 2025-08-27 · Codex CLI · [[Changes/Codex CLI/2025-08-27-2-context-window-changes-in-rust-v0-25-0|2 Context Window changes in rust-v0.25.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

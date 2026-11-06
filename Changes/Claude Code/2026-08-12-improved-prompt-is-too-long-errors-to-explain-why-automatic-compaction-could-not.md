@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 812b053d66aaa4ea408b782bc4a8374e61d62292e0ca5e4be8a1c6f47334ba61
+machine_hash: b2811749bc69e4d65426da9b34e020461ecd77f3374b5805c06eaf6413fcf845
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,12 +45,12 @@ record:
     could not…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-08-04-improved-stats-panel-to-count-cache-tokens-in-its-token-totals-with-a-breakdown|Improved
-  Stats panel to count cache tokens in its token totals, with a breakdown…]]'
-- '[[Changes/Claude Code/2026-08-06-2-context-window-changes-in-v2-1-223|2 Context
-  Window changes in v2.1.223]]'
 - '[[Changes/Claude Code/2026-08-11-improved-compaction-progress-the-retry-countdown-and-stall-hint-now-appear-durin|Improved
   compaction progress]]'
+- '[[Changes/Cline/2026-08-11-respect-your-configured-max-output-tokens-when-the-compaction-summarizer-request|Respect
+  your configured max output tokens when the compaction summarizer requests…]]'
+- '[[Changes/Gemini CLI/2026-08-11-refactor-exclude-transient-ci-configuration-files-from-workspace-context-by-davi|Refactor:
+  exclude transient CI configuration files from workspace context]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-08-12-v2-1-229-github-369475532-b063933d|claude-code-2026-08-12-v2-1-229-github-369475532-b063933d]]'
 source_type: github_releases
 theme: context-window
@@ -87,8 +87,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Context Window
 
-- Earlier: 2026-08-11 · Claude Code · [[Changes/Claude Code/2026-08-11-improved-compaction-progress-the-retry-countdown-and-stall-hint-now-appear-durin|Improved compaction progress]]
-- Later: 2026-08-14 · Claude Code · [[Changes/Claude Code/2026-08-14-improved-apps-gateway-error-forwarding-400-413-errors-from-vertex-foundry-and-cl|Improved apps gateway error forwarding]]
+- Earlier: 2026-08-11 · Gemini CLI · [[Changes/Gemini CLI/2026-08-11-refactor-exclude-transient-ci-configuration-files-from-workspace-context-by-davi|Refactor: exclude transient CI configuration files from workspace context]]
+- Later: 2026-08-13 · OpenHands · [[Changes/OpenHands/2026-08-13-feat-context-window-usage-meter-usage-drawer-and-manual-compaction-by-georgeglar|feat: context window usage meter, usage drawer, and manual compaction]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

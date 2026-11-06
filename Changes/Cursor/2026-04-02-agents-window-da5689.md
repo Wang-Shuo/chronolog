@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 1d05a07228c0443aad80e0df6efc3b5a18048bd1d464fafe8391ea1ae74af563
+machine_hash: 32e4a73008f2167bb15ee50d5ecd2b1bced0dad9f82616661d80b7f929952dae
 product: cursor
 product_name: Cursor
 record:
@@ -54,8 +54,8 @@ record:
   title: Agents Window
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-04-01-3-agent-mode-changes-in-v2-1-89|3 Agent Mode changes
-  in v2.1.89]]'
+- '[[Changes/Gemini CLI/2026-04-01-10-agent-mode-changes-in-v0-36-0|10 Agent Mode
+  changes in v0.36.0]]'
 - '[[Changes/Cursor/2026-04-02-4-agent-mode-changes-in-3-0|4 Agent Mode changes in
   3.0]]'
 - '[[Changes/Cursor/2026-04-02-design-mode|Design Mode]]'
@@ -105,8 +105,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2026-04-01 · Claude Code · [[Changes/Claude Code/2026-04-01-3-agent-mode-changes-in-v2-1-89|3 Agent Mode changes in v2.1.89]]
-- Later: 2026-04-08 · Claude Code · [[Changes/Claude Code/2026-04-08-2-agent-mode-changes-in-v2-1-97|2 Agent Mode changes in v2.1.97]]
+- Earlier: 2026-04-01 · Gemini CLI · [[Changes/Gemini CLI/2026-04-01-10-agent-mode-changes-in-v0-36-0|10 Agent Mode changes in v0.36.0]]
+- Later: 2026-04-03 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-04-03-built-in-skills-are-now-included-with-the-cli-starting-with-a-guide-for-customiz|Built-in skills are now included with the CLI, starting with a guide for customizing…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

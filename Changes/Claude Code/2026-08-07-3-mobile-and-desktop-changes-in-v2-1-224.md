@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: d414c7cea40c43ed4d59b9447f603e398b611b07f9535ccf5ae8fd7b68dd04c7
+machine_hash: 663225341b6e73e76125926ccf9f4063281a40f098be2d5dcace9a2fac2bfdd4
 product: claude-code
 product_name: Claude Code
 record:
@@ -51,12 +51,10 @@ record:
   title: 3 Mobile and Desktop changes in v2.1.224
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-07-16-continue-work-across-devices-cloud-work-conversations-now-sync-across-web-mobile|Continue
-  Work across devices]]'
-- '[[Changes/Cursor/2026-07-29-built-for-the-bigger-screen-98bf7a|Built for the bigger
-  screen]]'
 - '[[Changes/Cursor/2026-07-29-cursor-for-ipad-is-now-available-on-all-paid-plans-ce68be|Cursor
   for iPad is now available on all paid plans]]'
+- '[[Changes/Windsurf/2026-07-29-devin-desktop|Devin Desktop]]'
+- '[[Changes/Windsurf/2026-07-29-devin-desktop-9e1a9d|Devin Desktop]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-08-07-v2-1-224-github-366468634-0ab9e64c|claude-code-2026-08-07-v2-1-224-github-366468634-0ab9e64c]]'
 source_type: github_releases
 theme: mobile-desktop
@@ -98,8 +96,8 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.224
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2026-07-29 · Cursor · [[Changes/Cursor/2026-07-29-cursor-for-ipad-is-now-available-on-all-paid-plans-ce68be|Cursor for iPad is now available on all paid plans]]
-- Later: 2026-08-10 · ChatGPT · [[Changes/ChatGPT/2026-08-10-chatgpt-can-now-help-you-find-available-restaurant-reservations-with-opentable-r|Restaurant reservations in ChatGPT]]
+- Earlier: 2026-07-29 · Windsurf · [[Changes/Windsurf/2026-07-29-devin-desktop-9e1a9d|Devin Desktop]]
+- Later: 2026-08-07 · Codex CLI · [[Changes/Codex CLI/2026-08-07-4-mobile-and-desktop-changes-in-rust-v0-147-0|4 Mobile and Desktop changes in rust-v0.147.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: a305cf4f04e949eff6ea3443b178104263a126c1991ee3778df27368225831a8
+machine_hash: 98f192e49f0bfa898b47fd565b219f1736f1993d7f19bc717b93ed006db33bc6
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -46,11 +46,10 @@ record:
   title: Pinned chats in ChatGPT
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-10-29-optimized-text-parsing-for-chat-rendering|Optimized
-  text parsing for chat rendering]]'
-- '[[Changes/Cursor/2025-11-21-set-origin-allowlist-from-dashboard-to-restrict-browser-tools-browser-tools-and|Set
-  origin allowlist from dashboard to restrict browser tools]]'
-- '[[Changes/Cursor/2025-12-10-pinned-chats|Pinned chats]]'
+- '[[Changes/Codex CLI/2025-12-15-8047-chore-fix-tooltip-typos-and-align-tone|♯8047
+  chore: fix tooltip typos and align tone]]'
+- '[[Changes/Windsurf/2025-12-16-ui-rendering|UI & Rendering]]'
+- '[[Changes/Windsurf/2025-12-16-workspace-onboarding|Workspace & Onboarding]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-12-18-pinned-chats-in-chatgpt-f0483839|chatgpt-2025-12-18-pinned-chats-in-chatgpt-f0483839]]'
 source_type: chatgpt_changelog
 theme: interface-experience
@@ -77,8 +76,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2025-12-10 · Cursor · [[Changes/Cursor/2025-12-10-pinned-chats|Pinned chats]]
-- Later: 2025-12-19 · Claude Code · [[Changes/Claude Code/2025-12-19-3-interface-experience-changes-in-v2-0-73|3 Interface Experience changes in v2.0.73]]
+- Earlier: 2025-12-16 · Windsurf · [[Changes/Windsurf/2025-12-16-workspace-onboarding|Workspace & Onboarding]]
+- Later: 2025-12-18 · Codex CLI · [[Changes/Codex CLI/2025-12-18-6-interface-experience-changes-in-rust-v0-74-0|6 Interface Experience changes in rust-v0.74.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

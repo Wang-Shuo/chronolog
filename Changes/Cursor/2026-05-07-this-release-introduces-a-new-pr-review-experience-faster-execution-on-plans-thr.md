@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: bb747002201f73d2ab582144b21f7804b3b77ea4ad476267f2b14ce1c0547204
+machine_hash: 75160befbba27c6e751ac8cc8c55f21ab3be4d5909e34e1f515cef1ac4021263
 product: cursor
 product_name: Cursor
 record:
@@ -55,10 +55,10 @@ record:
   title: Cursor introduces a new PR review experience, faster execution on plans through…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-05-06-2-developer-workflow-changes-in-v2-1-129|2 Developer
-  Workflow changes in v2.1.129]]'
 - '[[Changes/Claude Code/2026-05-07-added-worktree-baseref-setting-fresh-head-to-choose-whether-worktree-enterworktr|Added
   worktree.baseRef setting (fresh  /  head) to choose whether --worktree…]]'
+- '[[Changes/Codex CLI/2026-05-07-5-developer-workflow-changes-in-rust-v0-129-0|5
+  Developer Workflow changes in rust-v0.129.0]]'
 - '[[Changes/Cursor/2026-05-07-pr-review|PR review]]'
 source_release: '[[Releases/Cursor/cursor-2026-05-07-3-3-https-cursor-com-changelog-05-07-26-9d8a16d3|cursor-2026-05-07-3-3-https-cursor-com-changelog-05-07-26-9d8a16d3]]'
 source_type: cursor_changelog
@@ -96,7 +96,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2026-05-07 · Claude Code · [[Changes/Claude Code/2026-05-07-added-worktree-baseref-setting-fresh-head-to-choose-whether-worktree-enterworktr|Added worktree.baseRef setting (fresh  /  head) to choose whether --worktree…]]
+- Earlier: 2026-05-07 · Codex CLI · [[Changes/Codex CLI/2026-05-07-5-developer-workflow-changes-in-rust-v0-129-0|5 Developer Workflow changes in rust-v0.129.0]]
 - Later: 2026-05-08 · Claude Code · [[Changes/Claude Code/2026-05-08-2-developer-workflow-changes-in-v2-1-136|2 Developer Workflow changes in v2.1.136]]
 <!-- chronolog:end -->
 

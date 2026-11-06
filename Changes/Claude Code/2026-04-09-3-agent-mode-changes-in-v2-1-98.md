@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 86608cbc59ab6186f0af2d2f617c7a1301ecd1848fc32069d8f9c779ccd0e72e
+machine_hash: 3ae752cf9fed8eb216c9cffaf8108d30d3f451d808d06cf3769d42d08975dce8
 product: claude-code
 product_name: Claude Code
 record:
@@ -46,10 +46,12 @@ record:
   title: 3 Agent Mode changes in v2.1.98
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-04-02-design-mode|Design Mode]]'
-- '[[Changes/Cursor/2026-04-02-agents-window-da5689|Agents Window]]'
+- '[[Changes/GitHub Copilot CLI/2026-04-07-spinner-stays-active-until-background-agents-and-shell-commands-finish-and-user|Spinner
+  stays active until background agents and shell commands finish, and user…]]'
 - '[[Changes/Claude Code/2026-04-08-2-agent-mode-changes-in-v2-1-97|2 Agent Mode changes
   in v2.1.97]]'
+- '[[Changes/Gemini CLI/2026-04-08-11-agent-mode-changes-in-v0-37-0|11 Agent Mode
+  changes in v0.37.0]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-04-09-v2-1-98-github-307232194-a0774436|claude-code-2026-04-09-v2-1-98-github-307232194-a0774436]]'
 source_type: github_releases
 theme: agent-mode
@@ -91,8 +93,8 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.98
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2026-04-08 · Claude Code · [[Changes/Claude Code/2026-04-08-2-agent-mode-changes-in-v2-1-97|2 Agent Mode changes in v2.1.97]]
-- Later: 2026-04-10 · Claude Code · [[Changes/Claude Code/2026-04-10-ultraplan-and-other-remote-session-features-now-auto-create-a-default-cloud-envi|/ultraplan and other remote-session features now auto-create a default cloud…]]
+- Earlier: 2026-04-08 · Gemini CLI · [[Changes/Gemini CLI/2026-04-08-11-agent-mode-changes-in-v0-37-0|11 Agent Mode changes in v0.37.0]]
+- Later: 2026-04-09 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-04-09-3-agent-mode-changes-in-v1-0-22|3 Agent Mode changes in v1.0.22]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

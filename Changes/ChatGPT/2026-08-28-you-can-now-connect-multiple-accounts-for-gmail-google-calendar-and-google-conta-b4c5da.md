@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 90522d90edee40f48b1165cba1da1d425884797d11e253ff8738f1dc35336228
+machine_hash: 54d97dcbe02dcfd01c74f540f7e91ca8d92439379befca84e39c14ae9390649d
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -50,12 +50,12 @@ record:
   title: Connect multiple Google accounts to ChatGPT
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-08-25-3-apps-and-integrations-changes-in-v2-1-246|3
-  Apps and Integrations changes in v2.1.246]]'
-- '[[Changes/Claude Code/2026-08-26-2-apps-and-integrations-changes-in-v2-1-247|2
-  Apps and Integrations changes in v2.1.247]]'
 - '[[Changes/Claude Code/2026-08-27-improved-managed-settings-client-side-timeout-mcp-startup-mode-and-stream-watchd|Improved
   managed settings]]'
+- '[[Changes/GitHub Copilot CLI/2026-08-27-12-apps-and-integrations-changes-in-v1-0-81|12
+  Apps and Integrations changes in v1.0.81]]'
+- '[[Changes/OpenHands/2026-08-27-feat-land-the-canvas-extensions-frontend-load-pages-sidebar-customize-by-hieptl|feat:
+  land the Canvas Extensions frontend (load pages, sidebar, customize)]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-08-28-connect-multiple-google-accounts-to-chatgpt-06db9b52|chatgpt-2026-08-28-connect-multiple-google-accounts-to-chatgpt-06db9b52]]'
 source_type: chatgpt_changelog
 theme: apps-integrations
@@ -84,7 +84,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-08-27 · Claude Code · [[Changes/Claude Code/2026-08-27-improved-managed-settings-client-side-timeout-mcp-startup-mode-and-stream-watchd|Improved managed settings]]
+- Earlier: 2026-08-27 · OpenHands · [[Changes/OpenHands/2026-08-27-feat-land-the-canvas-extensions-frontend-load-pages-sidebar-customize-by-hieptl|feat: land the Canvas Extensions frontend (load pages, sidebar, customize)]]
 - Later: 2026-08-28 · Claude Code · [[Changes/Claude Code/2026-08-28-4-apps-and-integrations-changes-in-v2-1-251|4 Apps and Integrations changes in v2.1.251]]
 <!-- chronolog:end -->
 

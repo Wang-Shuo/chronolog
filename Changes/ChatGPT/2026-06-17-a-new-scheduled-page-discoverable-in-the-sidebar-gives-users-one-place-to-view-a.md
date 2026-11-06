@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: beb1981332c3d818e71fd156617705782acd9de44124a645c67b6006fa16058e
+machine_hash: c10db650d5a1bd0a9347bd5223f989783ea063a745108a8949203ab1fd89dc46
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -47,12 +47,12 @@ record:
     to view…
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-06-10-we-re-updating-the-model-picker-to-make-it-easier-to-choose-the-balance-of-speed-b05795|We’re
-  updating the model picker to make it easier to choose the balance of speed…]]'
-- '[[Changes/Claude Code/2026-06-12-added-footerlinksregexes-setting-for-regex-matched-link-badges-in-the-footer-row|Added
-  footerLinksRegexes setting for regex-matched link badges in the footer row…]]'
-- '[[Changes/Claude Code/2026-06-12-added-wheelscrollaccelerationenabled-setting-to-disable-mouse-wheel-scroll-accel|Added
-  wheelScrollAccelerationEnabled setting to disable mouse-wheel scroll…]]'
+- '[[Changes/GitHub Copilot CLI/2026-06-13-3-interface-experience-changes-in-v1-0-62|3
+  Interface Experience changes in v1.0.62]]'
+- '[[Changes/Codex CLI/2026-06-15-added-import-for-selectively-importing-setup-project-configuration-and-recent-ch|Added
+  /import for selectively importing setup, project configuration, and recent…]]'
+- '[[Changes/Codex CLI/2026-06-15-3-interface-experience-changes-in-rust-v0-140-0|3
+  Interface Experience changes in rust-v0.140.0]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-06-17-scheduled-tasks-in-chatgpt-b8005b4a|chatgpt-2026-06-17-scheduled-tasks-in-chatgpt-b8005b4a]]'
 source_type: chatgpt_changelog
 theme: interface-experience
@@ -86,7 +86,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-06-12 · Claude Code · [[Changes/Claude Code/2026-06-12-added-wheelscrollaccelerationenabled-setting-to-disable-mouse-wheel-scroll-accel|Added wheelScrollAccelerationEnabled setting to disable mouse-wheel scroll…]]
+- Earlier: 2026-06-15 · Codex CLI · [[Changes/Codex CLI/2026-06-15-3-interface-experience-changes-in-rust-v0-140-0|3 Interface Experience changes in rust-v0.140.0]]
 - Later: 2026-06-17 · Claude Code · [[Changes/Claude Code/2026-06-17-improved-streaming-of-long-paragraphs-text-now-appears-line-by-line-instead-of-w|Improved streaming of long paragraphs]]
 <!-- chronolog:end -->
 

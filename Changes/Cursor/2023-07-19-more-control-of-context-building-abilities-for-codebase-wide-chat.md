@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 5ba8469da57c111dba986d54256e59ad92f07c87945d848a25317b9589c5bdbd
+machine_hash: 49010e6e3862cfdf9c47a33e027e172ff72e23f34680e273100254efc4e3f413
 product: cursor
 product_name: Cursor
 record:
@@ -41,9 +41,10 @@ record:
   title: More control of context building abilities for codebase-wide chat
   type: change
 related_changes:
-- '[[Changes/Cursor/2023-06-06-codebase-context-v1-bd6ee5|Codebase Context v1]]'
-- '[[Changes/Cursor/2023-06-06-following-this-you-ll-be-able-to-see-an-improved-version-of-codebase-context-in|Following
-  this, you''ll be able to see an improved version of codebase context…]]'
+- '[[Changes/Aider/2023-06-26-graceful-handling-of-context-window-exhaustion-including-helpful-tips|Graceful
+  handling of context window exhaustion, including helpful tips]]'
+- '[[Changes/Aider/2023-06-26-graceful-handling-of-context-window-exhaustion-including-helpful-tips-d31722|Graceful
+  handling of context window exhaustion, including helpful tips]]'
 - '[[Changes/Cursor/2023-07-19-advanced-context-controls-only-show-up-if-you-have-indexed-your-codebase|Advanced
   context controls only show up if you have indexed your codebase]]'
 source_release: '[[Releases/Cursor/cursor-2023-07-19-0-2-49-https-cursor-com-changelog-0-2-49-69872598|cursor-2023-07-19-0-2-49-https-cursor-com-changelog-0-2-49-69872598]]'
@@ -75,7 +76,7 @@ type: change
 ## Nearby in Context Window
 
 - Earlier: 2023-07-19 · Cursor · [[Changes/Cursor/2023-07-19-advanced-context-controls-only-show-up-if-you-have-indexed-your-codebase|Advanced context controls only show up if you have indexed your codebase]]
-- Later: 2023-08-22 · Cursor · [[Changes/Cursor/2023-08-22-follow-up-chat-messages-to-with-codebase-will-keep-the-codebase-context|Follow-up chat messages to "with codebase" will keep the codebase context]]
+- Later: 2023-08-02 · Aider · [[Changes/Aider/2023-08-02-automatically-summarize-chat-history-to-avoid-exhausting-context-window|Automatically summarize chat history to avoid exhausting context window]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

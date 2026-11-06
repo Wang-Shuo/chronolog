@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: 9bd3420402e7752bc677b6c168db1e6ff3404740e2676fdc4b17aa9ea643b793
+machine_hash: 270da34244f2537bcf8c490f87e96e847bd79bfc80bd56e149f82afa0a860fa0
 product: cursor
 product_name: Cursor
 record:
@@ -57,12 +57,12 @@ record:
   title: Improved agent terminal control
   type: change
 related_changes:
-- '[[Changes/Cursor/2024-10-09-using-cursor-with-wsl-should-now-be-more-stable|Using
-  cursor . with WSL should now be more stable]]'
-- '[[Changes/Cursor/2024-12-17-agent-sees-terminal-exit-codes-can-run-commands-in-the-background-and-commands-a-4f6044|Agent
-  sees terminal exit codes, can run commands in the background, and commands…]]'
-- '[[Changes/Cursor/2025-01-23-update-0-45-12-13-update-infrastructure-improvements-the-f1-check-for-updates-co|UPDATE
-  (0.45.12-13): Update infrastructure improvements]]'
+- '[[Changes/Aider/2025-03-31-2-developer-workflow-changes-in-v0-80-0|2 Developer
+  Workflow changes in v0.80.0]]'
+- '[[Changes/OpenHands/2025-04-02-prevent-openhands-from-creating-additional-pull-requests-unless-explicitly-instr|Prevent
+  OpenHands from creating additional pull requests unless explicitly instructed]]'
+- '[[Changes/Windsurf/2025-04-02-commit-message-generation-beta|Commit Message Generation
+  (Beta)]]'
 source_release: '[[Releases/Cursor/cursor-2025-04-15-0-49-https-cursor-com-changelog-0-49-3e16488f|cursor-2025-04-15-0-49-https-cursor-com-changelog-0-49-3e16488f]]'
 source_type: cursor_changelog
 theme: developer-workflow
@@ -96,8 +96,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2025-01-23 · Cursor · [[Changes/Cursor/2025-01-23-update-0-45-12-13-update-infrastructure-improvements-the-f1-check-for-updates-co|UPDATE (0.45.12-13): Update infrastructure improvements]]
-- Later: 2025-06-04 · Cursor · [[Changes/Cursor/2025-06-04-automatic-code-review-with-bugbot-19b552|Automatic code review with Bugbot]]
+- Earlier: 2025-04-02 · Windsurf · [[Changes/Windsurf/2025-04-02-commit-message-generation-beta|Commit Message Generation (Beta)]]
+- Later: 2025-04-16 · OpenHands · [[Changes/OpenHands/2025-04-16-converted-the-terminal-panel-from-a-fixed-bottom-panel-to-a-tab-by-rbren-in-http|Converted the Terminal panel from a fixed bottom panel to a tab]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

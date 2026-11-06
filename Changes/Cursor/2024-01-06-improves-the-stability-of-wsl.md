@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 879ce6ed2629c6349b2c142402e3e498640a537137bfa19ca585bc121aedf5b0
+machine_hash: ac3cce88f841bd34c9cbf9e93e9a477d485bdca1a0d518145b560a5078febc51
 product: cursor
 product_name: Cursor
 record:
@@ -49,8 +49,8 @@ record:
   title: Improves the stability of WSL
   type: change
 related_changes:
-- '[[Changes/Cursor/2023-10-20-also-there-s-an-experimental-bash-mode-enable-it-in-the-settings-and-let-the-cha|Also,
-  there''s an experimental bash mode]]'
+- '[[Changes/Aider/2024-01-04-improved-unicode-encoding-for-run-command-output-by-ctoth|Improved
+  unicode encoding for /run command output, by @ctoth]]'
 - '[[Changes/Cursor/2024-01-06-wsl-and-dev-containers-should-now-work-properly|Better
   Remote Support]]'
 - '[[Changes/Cursor/2024-01-06-dev-containers-are-now-supported-this-build-also|Dev

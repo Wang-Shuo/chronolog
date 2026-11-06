@@ -1,0 +1,95 @@
+---
+card_id: aider-2024-02-10-10416f
+date: '2024-02-10'
+description: 'Aider · 2024-02-10 · Developer Workflow: New `/web <url>` command which
+  scrapes the url, turns it into fairly clean markdown and adds it to the chat.'
+diffusion:
+  first_in_tracked: '[[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]'
+  inference: No adoption, equivalence, or causation claim.
+  lag_days: 329
+  relation: same-theme-chronology
+  role: later-observed
+  scope: tracked-products-only
+  theme: developer-workflow
+  tracked_products_count: 10
+evolves_from: []
+extractor_version: fallback-v5
+impact: significant
+kind: change
+machine_hash: 9678d63f56bc8521347519a57e4f52acf22ac407c1fe3dab26782a39fc05365c
+product: aider
+product_name: Aider
+record:
+  ai_generated: true
+  card_id: aider-2024-02-10-10416f
+  comparison: ''
+  confidence: low
+  date: '2024-02-10'
+  description: 'Aider — v0.24.0: New `/web <url>` command which scrapes the url, turns
+    it into fairly clean markdown and adds it to the chat.'
+  evidence:
+  - quote: New `/web <url>` command which scrapes the url, turns it into fairly clean
+      markdown and adds it to the chat.
+    source_release: https://github.com/Aider-AI/aider/releases/tag/v0.24.0
+  extractor_version: fallback-v5
+  impact: significant
+  kind: change
+  product: aider
+  product_name: Aider
+  slug: new-web-url-command-which-scrapes-the-url-turns-it-into-fairly-clean-markdown-an
+  source_release: aider-2024-02-10-v0-24-0-github-141383144-b580d44c
+  source_type: github_releases
+  theme: developer-workflow
+  theme_matches: []
+  theme_resolution: manual-semantic-rule-v1
+  title: New `/web <url>` command which scrapes the url, turns it into fairly clean
+    markdown…
+  type: change
+related_changes:
+- '[[Changes/Cursor/2024-01-06-improves-the-stability-of-wsl|Improves the stability
+  of WSL]]'
+- '[[Changes/Cursor/2024-01-15-working-wsl-codebase-search|Working WSL codebase search]]'
+- '[[Changes/Aider/2024-02-03-2-developer-workflow-changes-in-v0-23-0|2 Developer
+  Workflow changes in v0.23.0]]'
+source_release: '[[Releases/Aider/aider-2024-02-10-v0-24-0-github-141383144-b580d44c|aider-2024-02-10-v0-24-0-github-141383144-b580d44c]]'
+source_type: github_releases
+theme: developer-workflow
+title: New /web url command which scrapes the url, turns it into fairly clean markdown…
+type: change
+---
+
+<!-- chronolog:begin region="header" -->
+# New `/web <url>` command which scrapes the url, turns it into fairly clean markdown…
+
+**Aider** · 2024-02-10 · [[Themes/developer-workflow|Developer Workflow]] · [Official source](https://github.com/Aider-AI/aider/releases/tag/v0.24.0) · from [[Releases/Aider/aider-2024-02-10-v0-24-0-github-141383144-b580d44c|v0.24.0]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="evidence" -->
+> New `/web <url>` command which scrapes the url, turns it into fairly clean markdown and adds it to the chat.
+>
+> Source: https://github.com/Aider-AI/aider/releases/tag/v0.24.0
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="context" -->
+## Also in this release
+
+- [[Changes/Aider/2024-02-10-updated-all-openai-model-names-pricing-info|Updated all OpenAI model names, pricing info]] · Pricing Model
+- [[Changes/Aider/2024-02-10-default-gpt-3-5-model-is-now-gpt-3-5-turbo-0125|Default GPT 3.5 model is now gpt-3.5-turbo-0125]] · Model Support
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="nearby" -->
+## Nearby in Developer Workflow
+
+- Earlier: 2024-02-03 · Aider · [[Changes/Aider/2024-02-03-2-developer-workflow-changes-in-v0-23-0|2 Developer Workflow changes in v0.23.0]]
+- Later: 2024-02-15 · Cursor · [[Changes/Cursor/2024-02-15-linter-you-can-now-turn-on-an-ai-linter-in-the-more-tab-beside-chat-it-ll-scan-y|Linter: You can now turn on an AI linter in the "More" tab beside Chat]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="relations" -->
+## Related
+
+- Earliest same-theme entry in the tracked set: 2023-03-18 · Cursor · [[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="footer" -->
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20aider-2024-02-10-10416f&body=Card%3A%20Changes%2FAider%2F2024-02-10-new-web-url-command-which-scrapes-the-url-turns-it-into-fairly-clean-markdown-an.md%0ACard%20ID%3A%20aider-2024-02-10-10416f%0ASource%3A%20https%3A%2F%2Fgithub.com%2FAider-AI%2Faider%2Freleases%2Ftag%2Fv0.24.0%0A%0AWhat%20should%20be%20corrected%3F%0A)
+<!-- chronolog:end -->

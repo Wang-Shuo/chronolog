@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 8f8afa5c7b5f656d37c4ae2c273a72ac789508f8c40d47c1b50c4a3fc77c394d
+machine_hash: 43d3329d43ec3a2f0e93fb1a1ed9646969b84c98ddbaf72187b5727e08ef75c6
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,10 +45,10 @@ record:
     has no…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-14-2-model-support-changes-in-v2-1-299|2 Model Support
-  changes in v2.1.299]]'
-- '[[Changes/Claude Code/2026-10-14-improved-the-note-claude-3-models-get-about-an-mentioned-pdf-so-they-less-often|Improved
-  the note Claude 3 models get about an @-mentioned PDF, so they less often…]]'
+- '[[Changes/GitHub Copilot CLI/2026-10-14-add-support-for-gemini-4-argon|Add support
+  for Gemini 4 Argon]]'
+- '[[Changes/Codex CLI/2026-10-15-6-model-support-changes-in-rust-v0-163-0|6 Model
+  Support changes in rust-v0.163.0]]'
 - '[[Changes/ChatGPT/2026-10-16-gpt-6-pro-in-the-chat-tab-now-offers|GPT-6 Pro in
   the chat tab now offers]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-10-16-v2-1-302-github-415177347-763faf43|claude-code-2026-10-16-v2-1-302-github-415177347-763faf43]]'
@@ -86,7 +86,7 @@ type: change
 ## Nearby in Model Support
 
 - Earlier: 2026-10-16 · ChatGPT · [[Changes/ChatGPT/2026-10-16-gpt-6-pro-in-the-chat-tab-now-offers|GPT-6 Pro in the chat tab now offers]]
-- Later: 2026-10-19 · Claude Code · [[Changes/Claude Code/2026-10-19-2-model-support-changes-in-v2-1-304|2 Model Support changes in v2.1.304]]
+- Later: 2026-10-16 · Cline · [[Changes/Cline/2026-10-16-4-model-support-changes-in-v4-1-25|4 Model Support changes in v4.1.25]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 7b2bfb624982127caf4c89194a80c9d127b6445795769cc102cab4d8ff0023d3
+machine_hash: cfa83dd6cc505e2a87aeb530b94f4e1d0ba020d4a36140317736750ff88e3975
 product: claude-code
 product_name: Claude Code
 record:
@@ -42,11 +42,12 @@ record:
   title: Added `/terminal-setup` support for Kitty, Alacritty, Zed, and Warp terminals
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-10-29-3-developer-workflow-changes-in-2-0|3 Developer Workflow
-  changes in 2.0]]'
-- '[[Changes/Cursor/2025-12-10-ask-mode-can-use-a-read-only-terminal-to-get-better-answers-like-checking-git-co|Ask
-  Mode can use a read-only terminal to get better answers, like checking git commits]]'
-- '[[Changes/Cursor/2025-12-10-debug-mode|Debug Mode]]'
+- '[[Changes/Codex CLI/2025-12-18-2-developer-workflow-changes-in-rust-v0-74-0|2 Developer
+  Workflow changes in rust-v0.74.0]]'
+- '[[Changes/GitHub Copilot CLI/2025-12-18-normal-text-respects-terminal-s-default-foreground-color|Normal
+  text respects terminal''s default foreground color]]'
+- '[[Changes/GitHub Copilot CLI/2025-12-18-shared-sessions-correctly-render-nested-markdown-codeblocks|Shared
+  sessions correctly render nested markdown codeblocks]]'
 source_release: '[[Releases/Claude Code/claude-code-2025-12-19-v2-0-74-github-271886909-2070ef10|claude-code-2025-12-19-v2-0-74-github-271886909-2070ef10]]'
 source_type: github_releases
 theme: developer-workflow
@@ -78,8 +79,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2025-12-10 · Cursor · [[Changes/Cursor/2025-12-10-debug-mode|Debug Mode]]
-- Later: 2026-01-08 · Cursor · [[Changes/Cursor/2026-01-08-3-developer-workflow-changes-in-new-cli-features-and-improved-cli|3 Developer Workflow changes in New CLI Features and Improved CLI…]]
+- Earlier: 2025-12-18 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2025-12-18-shared-sessions-correctly-render-nested-markdown-codeblocks|Shared sessions correctly render nested markdown codeblocks]]
+- Later: 2025-12-19 · Codex CLI · [[Changes/Codex CLI/2025-12-19-6-developer-workflow-changes-in-rust-v0-76-0|6 Developer Workflow changes in rust-v0.76.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

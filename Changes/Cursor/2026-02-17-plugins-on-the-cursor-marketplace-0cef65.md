@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: e50c14e17817dda8d6f8ba53d786a8906c8935ae7d9aab1641a26fdfda61c9b0
+machine_hash: b87d19e6465e038f108dae4e3d29523bf5a68e117f4c272c4aeefaf0991f37ce
 product: cursor
 product_name: Cursor
 record:
@@ -52,12 +52,12 @@ record:
   title: Plugins on the Cursor Marketplace
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-02-05-skills-defined-in-claude-skills-within-additional-directories-add-dir-are-now-lo|Skills
-  defined in .claude/skills/ within additional directories (--add-dir)…]]'
-- '[[Changes/Claude Code/2026-02-06-added-plugin-name-to-skill-descriptions-and-skills-menu-for-better-discoverabili|Added
-  plugin name to skill descriptions and /skills menu for better discoverability]]'
 - '[[Changes/Claude Code/2026-02-17-2-apps-and-integrations-changes-in-v2-1-45|2 Apps
   and Integrations changes in v2.1.45]]'
+- '[[Changes/Codex CLI/2026-02-17-15-apps-and-integrations-changes-in-rust-v0-102-0|15
+  Apps and Integrations changes in rust-v0.102.0]]'
+- '[[Changes/Codex CLI/2026-02-17-11706-apps-expose-more-fields-from-apps-listing-endpoints-mzeng-openai|♯11706
+  apps Expose more fields from apps listing endpoints]]'
 source_release: '[[Releases/Cursor/cursor-2026-02-17-2-5-https-cursor-com-changelog-2-5-82892320|cursor-2026-02-17-2-5-https-cursor-com-changelog-2-5-82892320]]'
 source_type: cursor_changelog
 theme: apps-integrations
@@ -100,8 +100,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-02-17 · Claude Code · [[Changes/Claude Code/2026-02-17-2-apps-and-integrations-changes-in-v2-1-45|2 Apps and Integrations changes in v2.1.45]]
-- Later: 2026-02-18 · Claude Code · [[Changes/Claude Code/2026-02-18-added-last-assistant-message-field-to-stop-and-subagentstop-hook-inputs-providin|Added last_assistant_message field to Stop and SubagentStop hook inputs, providing…]]
+- Earlier: 2026-02-17 · Codex CLI · [[Changes/Codex CLI/2026-02-17-11706-apps-expose-more-fields-from-apps-listing-endpoints-mzeng-openai|♯11706 apps Expose more fields from apps listing endpoints]]
+- Later: 2026-02-17 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-02-17-2-apps-and-integrations-changes-in-v0-0-411|2 Apps and Integrations changes in v0.0.411]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

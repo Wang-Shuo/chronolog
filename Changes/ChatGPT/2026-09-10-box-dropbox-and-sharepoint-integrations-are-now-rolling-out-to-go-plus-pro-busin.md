@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: expansion
-machine_hash: 8ea0de23523091c50a30c1832e77e8b2b3fb0aa60e6e0ca6bc801c634987c370
+machine_hash: 7ad453a2db21bc7ff7b0ddaac9a7b0cfe41dfab1a4f2ccb58e75980c057aceb0
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -60,12 +60,12 @@ record:
     Pro…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-08-13-enterprise-policy-a-url-typed-blockedmarketplaces-entry-for-a-bare-repo-url-keep|Enterprise
-  policy: a url-typed blockedMarketplaces entry for a bare repo URL keeps…]]'
-- '[[Changes/Claude Code/2026-08-14-changed-the-github-app-setup-tip-to-no-longer-appear-in-repositories-whose-origi|Changed
-  the GitHub app setup tip to no longer appear in repositories whose origin…]]'
 - '[[Changes/Claude Code/2026-08-18-remote-control-claude-rc-now-applies-the-same-enterprise-gateway-availability-ch|Remote
   Control: claude rc now applies the same enterprise-gateway availability…]]'
+- '[[Changes/GitHub Copilot CLI/2026-08-27-2-enterprise-and-administration-changes-in-v1-0-81|2
+  Enterprise and Administration changes in v1.0.81]]'
+- '[[Changes/GitHub Copilot CLI/2026-09-04-enterprise-admins-can-pin-sign-in-to-approved-github-organizations-with-the-forc|Enterprise
+  admins can pin sign-in to approved GitHub organizations…]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-09-10-box-dropbox-and-sharepoint-are-now-in-library-e089c018|chatgpt-2026-09-10-box-dropbox-and-sharepoint-are-now-in-library-e089c018]]'
 source_type: chatgpt_changelog
 theme: enterprise-admin
@@ -95,7 +95,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Enterprise and Administration
 
-- Earlier: 2026-08-18 · Claude Code · [[Changes/Claude Code/2026-08-18-remote-control-claude-rc-now-applies-the-same-enterprise-gateway-availability-ch|Remote Control: claude rc now applies the same enterprise-gateway availability…]]
+- Earlier: 2026-09-04 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-09-04-enterprise-admins-can-pin-sign-in-to-approved-github-organizations-with-the-forc|Enterprise admins can pin sign-in to approved GitHub organizations…]]
 - Later: 2026-09-17 · Claude Code · [[Changes/Claude Code/2026-09-17-claude-tag-improved-claude-s-notices-in-enterprise-grid-channels-shared-across-w|Claude Tag Improved Claude's notices in Enterprise Grid channels shared across…]]
 <!-- chronolog:end -->
 

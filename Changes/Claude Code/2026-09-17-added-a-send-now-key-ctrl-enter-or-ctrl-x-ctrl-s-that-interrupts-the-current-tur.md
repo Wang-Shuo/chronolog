@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 485d8681e073a8360c74371651dcfb847a647a8206f29827276308927fcddb1e
+machine_hash: 809deb6d5c200804314df756d8bdc72c519f4de94aa6217dc331b7f94121f337
 product: claude-code
 product_name: Claude Code
 record:
@@ -48,10 +48,10 @@ record:
     turn…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-14-2-model-support-changes-in-v2-1-271|2 Model Support
-  changes in v2.1.271]]'
-- '[[Changes/Claude Code/2026-09-15-changed-bug-and-feedback-reports-to-include-only-model-behavior-params-model-sys|Changed
-  /bug and /feedback reports to include only model-behavior params…]]'
+- '[[Changes/GitHub Copilot CLI/2026-09-16-13-model-support-changes-in-v1-0-85|13
+  Model Support changes in v1.0.85]]'
+- '[[Changes/OpenHands/2026-09-16-feat-add-gpt-6-astra-model-support-by-neubig-in-https-github-com-openhands-openh|feat:
+  add GPT-6 Astra model support]]'
 - '[[Changes/Claude Code/2026-09-17-2-model-support-changes-in-v2-1-274|2 Model Support
   changes in v2.1.274]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-17-v2-1-275-github-391032307-12ccfafd|claude-code-2026-09-17-v2-1-275-github-391032307-12ccfafd]]'
@@ -95,7 +95,7 @@ type: change
 ## Nearby in Model Support
 
 - Earlier: 2026-09-17 · Claude Code · [[Changes/Claude Code/2026-09-17-2-model-support-changes-in-v2-1-274|2 Model Support changes in v2.1.274]]
-- Later: 2026-09-18 · Claude Code · [[Changes/Claude Code/2026-09-18-changed-fable-to-always-appear-in-model-on-the-anthropic-api-it-is-greyed-out-on|Changed Fable to always appear in /model on the Anthropic API]]
+- Later: 2026-09-17 · Cline · [[Changes/Cline/2026-09-17-13-model-support-changes-in-v4-1-19|13 Model Support changes in v4.1.19]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

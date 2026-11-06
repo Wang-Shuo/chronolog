@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: c133524dcb54a8559dfc057b095edcd3b46b10129c3c9774cbd4fc5368dee6e0
+machine_hash: e0bfdbca31cdcd0e60b4e4859ad77b02496566408bf88b4006b94e1340c0c2be
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,10 +45,10 @@ record:
   title: 2 Interface Experience changes in v2.1.118
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-04-17-3-interface-experience-changes-in-v2-1-113|3 Interface
-  Experience changes in v2.1.113]]'
-- '[[Changes/Claude Code/2026-04-20-3-interface-experience-changes-in-v2-1-116|3 Interface
-  Experience changes in v2.1.116]]'
+- '[[Changes/Codex CLI/2026-04-20-2-interface-experience-changes-in-rust-v0-122-0|2
+  Interface Experience changes in rust-v0.122.0]]'
+- '[[Changes/GitHub Copilot CLI/2026-04-20-4-interface-experience-changes-in-v1-0-33|4
+  Interface Experience changes in v1.0.33]]'
 - '[[Changes/Claude Code/2026-04-23-3-interface-experience-changes-in-v2-1-119|3 Interface
   Experience changes in v2.1.119]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-04-23-v2-1-118-github-312487295-b3c6b04c|claude-code-2026-04-23-v2-1-118-github-312487295-b3c6b04c]]'
@@ -90,7 +90,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.118
 ## Nearby in Interface Experience
 
 - Earlier: 2026-04-23 · Claude Code · [[Changes/Claude Code/2026-04-23-3-interface-experience-changes-in-v2-1-119|3 Interface Experience changes in v2.1.119]]
-- Later: 2026-04-28 · Claude Code · [[Changes/Claude Code/2026-04-28-4-interface-experience-changes-in-v2-1-121|4 Interface Experience changes in v2.1.121]]
+- Later: 2026-04-23 · Codex CLI · [[Changes/Codex CLI/2026-04-23-18633-use-app-server-thread-names-in-tui-picker-etraut-openai|♯18633 Use app server thread names in TUI picker @etraut-openai]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

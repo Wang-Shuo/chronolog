@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 3811ea2c9286878f8e1cd137a8688231be355764bc469474664e6eb983a7fa15
+machine_hash: ab7baef203aa14ce5324a08f92050d2f30706b9836671460323eefd28e618e60
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -80,10 +80,10 @@ record:
   title: ChatGPT for Excel and Google Sheets
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-04-30-we-re-rolling-out-advanced-account-security-an-optional-setting-for-personal-cha|Advanced
-  Account Security in ChatGPT]]'
 - '[[Changes/Claude Code/2026-05-01-claude-auth-login-now-accepts-the-oauth-code-pasted-into-the-terminal-when-the-b|claude
   auth login now accepts the OAuth code pasted into the terminal…]]'
+- '[[Changes/GitHub Copilot CLI/2026-05-01-2-account-and-access-changes-in-v1-0-40|2
+  Account and Access changes in v1.0.40]]'
 - '[[Changes/Claude Code/2026-05-04-channels-now-works-with-console-api-key-authentication-console-orgs-with-managed|--channels
   now works with console (API key) authentication]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-05-05-chatgpt-for-excel-and-google-sheets-a25132e0|chatgpt-2026-05-05-chatgpt-for-excel-and-google-sheets-a25132e0]]'
@@ -113,7 +113,7 @@ type: change
 ## Nearby in Account and Access
 
 - Earlier: 2026-05-04 · Claude Code · [[Changes/Claude Code/2026-05-04-channels-now-works-with-console-api-key-authentication-console-orgs-with-managed|--channels now works with console (API key) authentication]]
-- Later: 2026-05-06 · Claude Code · [[Changes/Claude Code/2026-05-06-improved-visual-consistency-in-slash-command-dialogs-and-login-upgrade-extra-usa|Improved visual consistency in slash command dialogs and /login, /upgrade…]]
+- Later: 2026-05-05 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-05-05-cli-starts-faster-by-rendering-the-ui-immediately-while-authentication-resolves|CLI starts faster by rendering the UI immediately while authentication resolves…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

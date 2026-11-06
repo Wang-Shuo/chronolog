@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: ec43d15aac2834d0e74e6974efb6fad9aca6cb0a0bae6d0b8f037304975316c4
+machine_hash: 1fa1296b3c6bf1cbb78770321fa71ae71637b8087d030c92c46a1673e1c909ad
 product: cursor
 product_name: Cursor
 record:
@@ -49,10 +49,10 @@ record:
   title: Self-hosted Cloud Agents
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-03-14-improved-background-agent-behavior-killing-a-background-agent-now-preserves-its|Improved
-  background agent behavior]]'
-- '[[Changes/Claude Code/2026-03-17-2-agent-mode-changes-in-v2-1-77|2 Agent Mode changes
-  in v2.1.77]]'
+- '[[Changes/GitHub Copilot CLI/2026-03-23-2-agent-mode-changes-in-v1-0-11|2 Agent
+  Mode changes in v1.0.11]]'
+- '[[Changes/Gemini CLI/2026-03-24-10-agent-mode-changes-in-v0-35-0|10 Agent Mode
+  changes in v0.35.0]]'
 - '[[Changes/Claude Code/2026-03-25-agents-can-now-declare-initialprompt-in-frontmatter-to-auto-submit-a-first-turn|Agents
   can now declare initialPrompt in frontmatter to auto-submit a first turn]]'
 source_release: '[[Releases/Cursor/cursor-2026-03-25-self-hosted-cloud-agents-https-cursor-com-changelog-03-25-26-423e399c|cursor-2026-03-25-self-hosted-cloud-agents-https-cursor-com-changelog-03-25-26-423e399c]]'

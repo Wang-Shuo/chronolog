@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 693d7bd591f07e8a06df1d5f4ce46fe09c81043e847e386e6f636af6fcc4959f
+machine_hash: 79be573916badc73a5110eda76811e0c85296b289c1985241eead7487eaf460e
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -101,7 +101,7 @@ type: change
 ## Nearby in Mobile and Desktop
 
 - Earlier: 2026-06-17 · Claude Code · [[Changes/Claude Code/2026-06-17-2-mobile-and-desktop-changes-in-v2-1-181|2 Mobile and Desktop changes in v2.1.181]]
-- Later: 2026-06-29 · Claude Code · [[Changes/Claude Code/2026-06-29-improved-background-session-reliability-long-running-commands-and-workflows-now|Improved background session reliability]]
+- Later: 2026-06-22 · Codex CLI · [[Changes/Codex CLI/2026-06-22-28791-bazel-refresh-expired-macos-sdk-pin-anp-oai|♯28791 bazel: refresh expired macOS SDK pin @anp-oai]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

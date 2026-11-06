@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 149845a3a1986e9c09ad139079c1e7cd52cec72b5c67a6680b98224027e65369
+machine_hash: 79ca589fd0a402c747954e1ae8e5354cce5a14dc49cc276e3817a0775db2aeeb
 product: claude-code
 product_name: Claude Code
 record:
@@ -44,10 +44,10 @@ record:
     to 2 lines
   type: change
 related_changes:
-- '[[Changes/Claude Code/2025-12-19-added-terminal-setup-support-for-kitty-alacritty-zed-and-warp-terminals|Added
-  /terminal-setup support for Kitty, Alacritty, Zed, and Warp terminals]]'
-- '[[Changes/Claude Code/2025-12-19-2-developer-workflow-changes-in-v2-0-74|2 Developer
-  Workflow changes in v2.0.74]]'
+- '[[Changes/Codex CLI/2026-01-07-render-paths-relative-to-the-current-working-directory-before-checking-git-roots|Render
+  paths relative to the current working directory before checking git roots…]]'
+- '[[Changes/Gemini CLI/2026-01-07-4-developer-workflow-changes-in-v0-23-0|4 Developer
+  Workflow changes in v0.23.0]]'
 - '[[Changes/Cursor/2026-01-08-3-developer-workflow-changes-in-new-cli-features-and-improved-cli|3
   Developer Workflow changes in New CLI Features and Improved CLI…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-01-09-v2-1-3-github-275638643-101f767c|claude-code-2026-01-09-v2-1-3-github-275638643-101f767c]]'

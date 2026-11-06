@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: c558625798467e70cf5a68205562de1586a368b131ba8feb1e1d8b1c4aa8d8ec
+machine_hash: c3b3990ecaed22e34a430132d07024a512063ac02105598fac0085341a22c584
 product: claude-code
 product_name: Claude Code
 record:
@@ -53,12 +53,12 @@ record:
   title: BashTool now skips login shell (`-l` flag) by default when a shell snapshot…
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-02-18-3-developer-workflow-changes-in-cli-improvements-and-mermaid-ascii|3
-  Developer Workflow changes in CLI Improvements and Mermaid ASCII…]]'
-- '[[Changes/ChatGPT/2026-02-19-review-code-in-split-screen-views|Review code in split-screen
-  views]]'
+- '[[Changes/GitHub Copilot CLI/2026-02-19-5-developer-workflow-changes-in-v0-0-412|5
+  Developer Workflow changes in v0.0.412]]'
 - '[[Changes/Claude Code/2026-02-20-3-developer-workflow-changes-in-v2-1-50|3 Developer
   Workflow changes in v2.1.50]]'
+- '[[Changes/GitHub Copilot CLI/2026-02-20-increase-lsp-request-timeout-from-30s-to-90s-to-reduce-timeout-failures|Increase
+  LSP request timeout from 30s to 90s to reduce timeout failures]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-02-24-v2-1-51-github-289665343-b4bbdd9c|claude-code-2026-02-24-v2-1-51-github-289665343-b4bbdd9c]]'
 source_type: github_releases
 theme: developer-workflow
@@ -90,8 +90,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2026-02-20 · Claude Code · [[Changes/Claude Code/2026-02-20-3-developer-workflow-changes-in-v2-1-50|3 Developer Workflow changes in v2.1.50]]
-- Later: 2026-02-26 · Claude Code · [[Changes/Claude Code/2026-02-26-improved-always-allow-prefix-suggestions-for-compound-bash-commands-e-g-cd-tmp-g|Improved "always allow" prefix suggestions for compound bash commands…]]
+- Earlier: 2026-02-20 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-02-20-increase-lsp-request-timeout-from-30s-to-90s-to-reduce-timeout-failures|Increase LSP request timeout from 30s to 90s to reduce timeout failures]]
+- Later: 2026-02-24 · Cline · [[Changes/Cline/2026-02-24-add-q-command-to-quit-cli|Add /q command to quit CLI]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

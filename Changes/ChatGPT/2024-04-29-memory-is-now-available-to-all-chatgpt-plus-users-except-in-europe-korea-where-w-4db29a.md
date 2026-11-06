@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: memory
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: expansion
-machine_hash: 9da4a8cabbb32aee8164b2402228b5a48bf8139b7859949cb775d54c7a58056a
+machine_hash: ea96364a1b1f4ae0169cc255a7c3cb0a91a8877d4e8befc047b70c47fc888cf1
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -82,7 +82,7 @@ type: change
 ## Nearby in Memory and Personalization
 
 - Earlier: 2024-02-13 · ChatGPT · [[Changes/ChatGPT/2024-02-13-we-re-testing-memory-with-chatgpt-remembering-things-you-discuss-across-all-chat-9872c8|Memory and new controls for ChatGPT]]
-- Later: 2025-02-19 · Cursor · [[Changes/Cursor/2025-02-19-0-46-9-memory-and-performances-fixes-composer-chat-remembers-your-last-mode-sele|0.46.9: Memory and performances fixes, composer/chat remembers your last mode…]]
+- Later: 2024-07-05 · OpenHands · [[Changes/OpenHands/2024-07-05-ci-for-colima-modify-cpu-count-and-memory-by-smartmanoj-in-https-github-com-open|CI: For colima, modify CPU count and memory]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

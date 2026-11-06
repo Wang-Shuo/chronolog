@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: ccd8bfc578fdc23323000f50ebe4a90d35834772f638d3d189f5504707fabd49
+machine_hash: 13ef364726c090860a6aaff94aab74a9f68c89af38a596a53fe4fa8ddfb0d572
 product: claude-code
 product_name: Claude Code
 record:
@@ -44,12 +44,12 @@ record:
   title: Improved Claude to prefer file operation tools (Read, Edit, Write) over bash…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-01-20-added-history-based-autocomplete-in-bash-mode-type-a-partial-command-and-press-t|Added
-  history-based autocomplete in bash mode (!) - type a partial command…]]'
-- '[[Changes/Cursor/2026-01-22-2-editor-experience-changes-in-2-4|2 Editor Experience
-  changes in 2.4]]'
 - '[[Changes/Claude Code/2026-01-27-added-external-editor-shortcut-ctrl-g-to-the-help-menu-for-better-discoverabilit|Added
   external editor shortcut (Ctrl+G) to the help menu for better discoverability]]'
+- '[[Changes/Cline/2026-01-27-skip-diff-error-ui-handling-during-streaming-to-prevent-flickering-error-handlin|Skip
+  diff error UI handling during streaming to prevent flickering]]'
+- '[[Changes/GitHub Copilot CLI/2026-01-27-3-editor-experience-changes-in-v0-0-396|3
+  Editor Experience changes in v0.0.396]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-01-28-v2-1-21-github-280523920-bba74245|claude-code-2026-01-28-v2-1-21-github-280523920-bba74245]]'
 source_type: github_releases
 theme: editor-experience
@@ -80,8 +80,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2026-01-27 · Claude Code · [[Changes/Claude Code/2026-01-27-added-external-editor-shortcut-ctrl-g-to-the-help-menu-for-better-discoverabilit|Added external editor shortcut (Ctrl+G) to the help menu for better discoverability]]
-- Later: 2026-02-17 · Cursor · [[Changes/Cursor/2026-02-17-manual-edits-no-longer-create-in-line-diffs|Manual edits no longer create in-line diffs]]
+- Earlier: 2026-01-27 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-01-27-3-editor-experience-changes-in-v0-0-396|3 Editor Experience changes in v0.0.396]]
+- Later: 2026-01-28 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-01-28-directories-now-appear-in-mention-autocomplete|Directories now appear in @mention autocomplete]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

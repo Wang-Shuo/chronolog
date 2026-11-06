@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: pricing
-machine_hash: 91ce2b307f70eabb63e531c7a7da5431e45b638a00fc98477d5a1044e2b047c7
+machine_hash: 8959bdea1cbd3ac33aa145ed6620b93704c76ac18bf2678ba3f2c6d55a39d4c7
 product: cursor
 product_name: Cursor
 record:
@@ -47,12 +47,12 @@ record:
   title: Billing groups
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2025-10-28-we-re-launching-chatgpt-go-our-low-cost-subscription-plan-in-brazil-chatgpt-go-p|ChatGPT
-  launches ChatGPT Go, our low cost subscription plan, in Brazil]]'
-- '[[Changes/ChatGPT/2025-10-30-we-re-excited-to-announce-that-chatgpt-go-our-low-cost-subscription-plan-is-now-44be9d|ChatGPT
-  Go, our low cost subscription plan, is now available in 8 additional…]]'
-- '[[Changes/ChatGPT/2025-11-03-eligible-customers-in-india-can-now-get-12-months-of-chatgpt-go-at-no-cost-new-u|ChatGPT
-  Go Promo - India]]'
+- '[[Changes/Gemini CLI/2025-11-07-fixing-minor-formatting-issues-in-quota-and-pricing-md-by-hyangah-in-https-githu|fixing
+  minor formatting issues in quota-and-pricing.md]]'
+- '[[Changes/Codex CLI/2025-11-19-credits-are-now-visible-in-status|Credits are now
+  visible in /status]]'
+- '[[Changes/Codex CLI/2025-12-04-persisting-credits-if-new-snapshot-does-not-contain-credit-info-7490-zhao-oai|persisting
+  credits if new snapshot does not contain credit info ♯7490 @zhao-oai]]'
 source_release: '[[Releases/Cursor/cursor-2025-12-18-enterprise-insights-billing-groups-service-accounts-and-improved-23eccccb|cursor-2025-12-18-enterprise-insights-billing-groups-service-accounts-and-improved-23eccccb]]'
 source_type: cursor_changelog
 theme: pricing-model
@@ -87,7 +87,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Pricing Model
 
-- Earlier: 2025-11-03 · ChatGPT · [[Changes/ChatGPT/2025-11-03-eligible-customers-in-india-can-now-get-12-months-of-chatgpt-go-at-no-cost-new-u|ChatGPT Go Promo - India]]
+- Earlier: 2025-12-04 · Codex CLI · [[Changes/Codex CLI/2025-12-04-persisting-credits-if-new-snapshot-does-not-contain-credit-info-7490-zhao-oai|persisting credits if new snapshot does not contain credit info ♯7490 @zhao-oai]]
 - Later: 2026-02-04 · Claude Code · [[Changes/Claude Code/2026-02-04-removed-misleading-anthropic-api-pricing-from-model-selector-for-third-party-pro|Removed misleading Anthropic API pricing from model selector for third-party…]]
 <!-- chronolog:end -->
 

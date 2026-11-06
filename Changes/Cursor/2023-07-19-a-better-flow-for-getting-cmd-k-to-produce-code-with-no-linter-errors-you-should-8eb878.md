@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: e210123c75bae8941311f2e09952f946dc652d53014b626fd96c442d907aa9c4
+machine_hash: 438f6215e26b448a18f6d7811515dd9edacb794d942928b3d0ccabd2919a2686
 product: cursor
 product_name: Cursor
 record:
@@ -92,7 +92,7 @@ type: change
 ## Nearby in Editor Experience
 
 - Earlier: 2023-07-12 · Cursor · [[Changes/Cursor/2023-07-12-semantic-search-in-cmd-shift-f-842ecc|Semantic search in Cmd-Shift-F]]
-- Later: 2023-07-22 · Cursor · [[Changes/Cursor/2023-07-22-cmd-k-can-again-see-all-of-your-cells-in-jupyter|Jupyter CMD-k Context Building]]
+- Later: 2023-07-22 · Aider · [[Changes/Aider/2023-07-22-provide-gpt-with-detailed-error-if-it-makes-a-bad-edit-block-ask-for-a-retry|Provide GPT with detailed error if it makes a bad edit block, ask for a retry]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

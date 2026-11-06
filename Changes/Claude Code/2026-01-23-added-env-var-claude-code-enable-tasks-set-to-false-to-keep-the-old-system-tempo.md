@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 9d8bb1d2bed42d30adcc60b0526ed4c20095d226ca47a03cd3ebc35412d57f10
+machine_hash: b8b7f65ce4fd5edb956158efd97f393e28c400431265c6e0983cedc3bb5425ad
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,11 +45,11 @@ record:
     system…
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-01-22-agents-are-solving-increasingly-complex-long-running-tasks-across-your-codebase|Agents
-  are solving increasingly complex, long-running tasks across your codebase]]'
 - '[[Changes/Cursor/2026-01-22-subagents|Subagents]]'
 - '[[Changes/Cursor/2026-01-22-clarification-questions-from-the-agent|Clarification
   questions from the agent]]'
+- '[[Changes/GitHub Copilot CLI/2026-01-22-2-agent-mode-changes-in-v0-0-389|2 Agent
+  Mode changes in v0.0.389]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-01-23-v2-1-19-github-279515857-4e1f7640|claude-code-2026-01-23-v2-1-19-github-279515857-4e1f7640]]'
 source_type: github_releases
 theme: agent-mode
@@ -80,8 +80,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2026-01-22 · Cursor · [[Changes/Cursor/2026-01-22-clarification-questions-from-the-agent|Clarification questions from the agent]]
-- Later: 2026-01-27 · Claude Code · [[Changes/Claude Code/2026-01-27-2-agent-mode-changes-in-v2-1-20|2 Agent Mode changes in v2.1.20]]
+- Earlier: 2026-01-22 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-01-22-2-agent-mode-changes-in-v0-0-389|2 Agent Mode changes in v0.0.389]]
+- Later: 2026-01-23 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-01-23-add-support-for-ghe-cloud-ghe-com-remote-custom-agents|Add support for GHE Cloud (\.ghe.com) remote custom agents]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

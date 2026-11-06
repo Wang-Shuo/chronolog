@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 09eb19e2776bd7119e016222d2e44a94dbc2ada19ae2ae048e11b7eb742ddfb1
+machine_hash: 1e930eac3a3bdaa0a9d0856b4fecd9ce109b966b1783a75dfe8adc3ae75384ef
 product: claude-code
 product_name: Claude Code
 record:
@@ -48,12 +48,12 @@ record:
   title: Improved `/ultrareview` when there's nothing to review
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-15-3-developer-workflow-changes-in-v2-1-273|3 Developer
-  Workflow changes in v2.1.273]]'
-- '[[Changes/Claude Code/2026-09-17-7-developer-workflow-changes-in-v2-1-274|7 Developer
-  Workflow changes in v2.1.274]]'
-- '[[Changes/Claude Code/2026-09-17-2-developer-workflow-changes-in-v2-1-275|2 Developer
-  Workflow changes in v2.1.275]]'
+- '[[Changes/Cline/2026-09-17-2-developer-workflow-changes-in-v4-1-19|2 Developer
+  Workflow changes in v4.1.19]]'
+- '[[Changes/Codex CLI/2026-09-17-15-developer-workflow-changes-in-rust-v0-155-0|15
+  Developer Workflow changes in rust-v0.155.0]]'
+- '[[Changes/GitHub Copilot CLI/2026-09-17-the-status-row-now-says-it-is-waiting-for-background-shells-instead-of-working-w|The
+  status row now says it is waiting for background shells, instead…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-18-v2-1-277-github-391616593-06a20f36|claude-code-2026-09-18-v2-1-277-github-391616593-06a20f36]]'
 source_type: github_releases
 theme: developer-workflow
@@ -92,8 +92,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2026-09-17 · Claude Code · [[Changes/Claude Code/2026-09-17-2-developer-workflow-changes-in-v2-1-275|2 Developer Workflow changes in v2.1.275]]
-- Later: 2026-09-22 · Claude Code · [[Changes/Claude Code/2026-09-22-3-developer-workflow-changes-in-v2-1-280|3 Developer Workflow changes in v2.1.280]]
+- Earlier: 2026-09-17 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-09-17-the-status-row-now-says-it-is-waiting-for-background-shells-instead-of-working-w|The status row now says it is waiting for background shells, instead…]]
+- Later: 2026-09-21 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-09-21-5-developer-workflow-changes-in-v1-0-87|5 Developer Workflow changes in v1.0.87]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

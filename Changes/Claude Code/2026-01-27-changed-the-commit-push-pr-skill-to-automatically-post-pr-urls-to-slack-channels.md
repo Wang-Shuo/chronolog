@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 81d8b2ea75e2b887cf021113322fe5cd5ab8a0d282c9a7301ceb8a50e2926907
+machine_hash: 66f1e10e1dd2f405d85ec907310ca6aa3bf0db419be84f556455dcee2de907ed
 product: claude-code
 product_name: Claude Code
 record:
@@ -43,12 +43,12 @@ record:
     channels…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-01-22-vscode-added-native-plugin-management-support|VSCode
-  Added native plugin management support]]'
-- '[[Changes/Cursor/2026-01-22-4-apps-and-integrations-changes-in-2-4|4 Apps and Integrations
-  changes in 2.4]]'
-- '[[Changes/Claude Code/2026-01-23-2-apps-and-integrations-changes-in-v2-1-19|2 Apps
-  and Integrations changes in v2.1.19]]'
+- '[[Changes/GitHub Copilot CLI/2026-01-24-plugin-skills-work-in-agent-responses|Plugin
+  skills work in agent responses]]'
+- '[[Changes/Codex CLI/2026-01-25-3-apps-and-integrations-changes-in-rust-v0-90-0|3
+  Apps and Integrations changes in rust-v0.90.0]]'
+- '[[Changes/GitHub Copilot CLI/2026-01-26-3-apps-and-integrations-changes-in-v0-0-395|3
+  Apps and Integrations changes in v0.0.395]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-01-27-v2-1-20-github-280123443-38431f59|claude-code-2026-01-27-v2-1-20-github-280123443-38431f59]]'
 source_type: github_releases
 theme: apps-integrations
@@ -82,8 +82,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-01-23 · Claude Code · [[Changes/Claude Code/2026-01-23-2-apps-and-integrations-changes-in-v2-1-19|2 Apps and Integrations changes in v2.1.19]]
-- Later: 2026-01-30 · Claude Code · [[Changes/Claude Code/2026-01-30-vscode-enabled-claude-in-chrome-integration|VSCode: Enabled Claude in Chrome integration]]
+- Earlier: 2026-01-26 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-01-26-3-apps-and-integrations-changes-in-v0-0-395|3 Apps and Integrations changes in v0.0.395]]
+- Later: 2026-01-27 · Codex CLI · [[Changes/Codex CLI/2026-01-27-refreshed-protocol-mcp-docs-to-reflect-thread-unarchive-and-the-updated-request|Refreshed protocol/MCP docs to reflect thread/unarchive and the updated…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

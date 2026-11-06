@@ -1,0 +1,95 @@
+---
+card_id: openhands-2026-03-30-64de9d
+date: '2026-03-30'
+description: 'OpenHands · 2026-03-30 · Interface Experience: Added the `/new` slash
+  command to the slash command menu by @karanjaxyz in…'
+diffusion:
+  first_in_tracked: '[[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop
+    generating: Based on your feedback, we''ve added the ability to stop generating…]]'
+  inference: No adoption, equivalence, or causation claim.
+  lag_days: 1176
+  relation: same-theme-chronology
+  role: later-observed
+  scope: tracked-products-only
+  theme: interface-experience
+  tracked_products_count: 10
+evolves_from: []
+extractor_version: fallback-v5
+impact: significant
+kind: change
+machine_hash: a8659d207d20897797a60b9d1f0a2b7cfddc936ea69c34352b8e1d96eccbab51
+product: openhands
+product_name: OpenHands
+record:
+  ai_generated: true
+  card_id: openhands-2026-03-30-64de9d
+  comparison: ''
+  confidence: low
+  date: '2026-03-30'
+  description: 'OpenHands — 1.6.0 - 2026-03-30: Added the `/new` slash command to
+    the slash command menu by @karanjaxyz in https://github.com/OpenHands/OpenHands/pull/13599'
+  evidence:
+  - quote: Added the `/new` slash command to the slash command menu by @karanjaxyz
+      in https://github.com/OpenHands/OpenHands/pull/13599
+    source_release: https://github.com/OpenHands/OpenHands/releases/tag/1.6.0
+  extractor_version: fallback-v5
+  impact: significant
+  kind: change
+  product: openhands
+  product_name: OpenHands
+  slug: added-the-new-slash-command-to-the-slash-command-menu-by-karanjaxyz-in-https-git
+  source_release: openhands-2026-03-30-1-6-0-github-303268521-e953c7dd
+  source_type: github_releases
+  theme: interface-experience
+  title: Added the `/new` slash command to the slash command menu
+  type: change
+related_changes:
+- '[[Changes/GitHub Copilot CLI/2026-03-26-3-interface-experience-changes-in-v1-0-12|3
+  Interface Experience changes in v1.0.12]]'
+- '[[Changes/Claude Code/2026-03-27-changed-skills-menu-to-sort-alphabetically-for-easier-scanning|Changed
+  /skills menu to sort alphabetically for easier scanning]]'
+- '[[Changes/GitHub Copilot CLI/2026-03-30-2-interface-experience-changes-in-v1-0-13|2
+  Interface Experience changes in v1.0.13]]'
+source_release: '[[Releases/OpenHands/openhands-2026-03-30-1-6-0-github-303268521-e953c7dd|openhands-2026-03-30-1-6-0-github-303268521-e953c7dd]]'
+source_type: github_releases
+theme: interface-experience
+title: Added the /new slash command to the slash command menu
+type: change
+---
+
+<!-- chronolog:begin region="header" -->
+# Added the `/new` slash command to the slash command menu
+
+**OpenHands** · 2026-03-30 · [[Themes/interface-experience|Interface Experience]] · [Official source](https://github.com/OpenHands/OpenHands/releases/tag/1.6.0) · from [[Releases/OpenHands/openhands-2026-03-30-1-6-0-github-303268521-e953c7dd|1.6.0 - 2026-03-30]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="evidence" -->
+> Added the `/new` slash command to the slash command menu by @karanjaxyz in https://github.com/OpenHands/OpenHands/pull/13599
+>
+> Source: https://github.com/OpenHands/OpenHands/releases/tag/1.6.0
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="context" -->
+## Also in this release
+
+- [[Changes/OpenHands/2026-03-30-added-support-for-hooks-by-xingyaoww-in-https-github-com-openhands-openhands-pul|Added support for hooks]] · Apps and Integrations
+- [[Changes/OpenHands/2026-03-30-added-clear-command-for-v1-conversations-typing-clear-in-the-chat-creates-a-new|Added /clear command for V1 conversations]] · Safety and Privacy
+- [[Changes/OpenHands/2026-03-30-4-other-changes-in-1-6-0|4 other changes in 1.6.0]] · Other changes
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="nearby" -->
+## Nearby in Interface Experience
+
+- Earlier: 2026-03-30 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-03-30-2-interface-experience-changes-in-v1-0-13|2 Interface Experience changes in v1.0.13]]
+- Later: 2026-03-31 · Codex CLI · [[Changes/Codex CLI/2026-03-31-3-interface-experience-changes-in-rust-v0-118-0|3 Interface Experience changes in rust-v0.118.0]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="relations" -->
+## Related
+
+- Earliest same-theme entry in the tracked set: 2023-01-09 · ChatGPT · [[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop generating: Based on your feedback, we've added the ability to stop generating…]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="footer" -->
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20openhands-2026-03-30-64de9d&body=Card%3A%20Changes%2FOpenHands%2F2026-03-30-added-the-new-slash-command-to-the-slash-command-menu-by-karanjaxyz-in-https-git.md%0ACard%20ID%3A%20openhands-2026-03-30-64de9d%0ASource%3A%20https%3A%2F%2Fgithub.com%2FOpenHands%2FOpenHands%2Freleases%2Ftag%2F1.6.0%0A%0AWhat%20should%20be%20corrected%3F%0A)
+<!-- chronolog:end -->

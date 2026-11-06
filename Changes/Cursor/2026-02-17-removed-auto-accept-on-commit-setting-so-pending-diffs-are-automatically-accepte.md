@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 71b2ea177096fbf3bbac228c848361ed299658502963e956210522cdab6824b5
+machine_hash: 2f068c39443cc827d0ab59b9c31149363d2367b6fc203e3eba67624b80f16385
 product: cursor
 product_name: Cursor
 record:
@@ -45,12 +45,12 @@ record:
     accepted…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-02-03-added-debug-for-claude-to-help-troubleshoot-the-current-session|Added
-  /debug for Claude to help troubleshoot the current session]]'
-- '[[Changes/Claude Code/2026-02-04-reduced-layout-jitter-in-the-terminal-when-the-spinner-appears-and-disappears-du|Reduced
-  layout jitter in the terminal when the spinner appears and disappears during…]]'
-- '[[Changes/Claude Code/2026-02-10-improved-heredoc-delimiter-parsing-to-prevent-command-smuggling|Improved
-  heredoc delimiter parsing to prevent command smuggling]]'
+- '[[Changes/GitHub Copilot CLI/2026-02-12-change-run-command-shortcut-from-ctrl-p-to-ctrl-s|Change
+  run command shortcut from ctrl+p to ctrl+s]]'
+- '[[Changes/Codex CLI/2026-02-17-3-developer-workflow-changes-in-rust-v0-102-0|3
+  Developer Workflow changes in rust-v0.102.0]]'
+- '[[Changes/Codex CLI/2026-02-17-commit-co-author-attribution-now-uses-a-codex-managed-prepare-commit-msg-hook-wi|Commit
+  co-author attribution now uses a Codex-managed prepare-commit-msg hook…]]'
 source_release: '[[Releases/Cursor/cursor-2026-02-17-2-5-https-cursor-com-changelog-2-5-82892320|cursor-2026-02-17-2-5-https-cursor-com-changelog-2-5-82892320]]'
 source_type: cursor_changelog
 theme: developer-workflow
@@ -89,8 +89,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2026-02-10 · Claude Code · [[Changes/Claude Code/2026-02-10-improved-heredoc-delimiter-parsing-to-prevent-command-smuggling|Improved heredoc delimiter parsing to prevent command smuggling]]
-- Later: 2026-02-18 · Claude Code · [[Changes/Claude Code/2026-02-18-the-rename-command-now-updates-the-terminal-tab-title-by-default-anthropics-clau|The /rename command now updates the terminal tab title by default…]]
+- Earlier: 2026-02-17 · Codex CLI · [[Changes/Codex CLI/2026-02-17-commit-co-author-attribution-now-uses-a-codex-managed-prepare-commit-msg-hook-wi|Commit co-author attribution now uses a Codex-managed prepare-commit-msg hook…]]
+- Later: 2026-02-17 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-02-17-2-developer-workflow-changes-in-v0-0-411|2 Developer Workflow changes in v0.0.411]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

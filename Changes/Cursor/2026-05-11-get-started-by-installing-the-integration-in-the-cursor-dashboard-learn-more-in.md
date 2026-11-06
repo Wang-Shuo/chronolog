@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: d2c13ab0166529007ee9e9e0a4cf30c7b0537265ce17ddeb0c62d476fe6cc2d8
+machine_hash: 182c52fd6f51b7da801973a8710bdf94a9f6c4e72941913b872650b982659608
 product: cursor
 product_name: Cursor
 record:
@@ -44,8 +44,8 @@ record:
   title: Get started by installing the integration in the Cursor dashboard
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-05-08-changed-plugin-marketplace-removal-key-to-d-matching-delete-elsewhere-instead-of|Changed
-  plugin marketplace removal key to d (matching delete elsewhere) instead…]]'
+- '[[Changes/Codex CLI/2026-05-08-8-apps-and-integrations-changes-in-rust-v0-130-0|8
+  Apps and Integrations changes in rust-v0.130.0]]'
 - '[[Changes/Claude Code/2026-05-11-added-goal-command-set-a-completion-condition-and-claude-keeps-working-across-tu|Added
   /goal command]]'
 - '[[Changes/Claude Code/2026-05-11-8-apps-and-integrations-changes-in-v2-1-139|8
@@ -80,7 +80,7 @@ type: change
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-05-11 · Claude Code · [[Changes/Claude Code/2026-05-11-8-apps-and-integrations-changes-in-v2-1-139|8 Apps and Integrations changes in v2.1.139]]
-- Later: 2026-05-12 · Claude Code · [[Changes/Claude Code/2026-05-12-plugins-now-warn-when-a-default-component-folder-e-g-commands-is-silently-ignore|Plugins now warn when a default component folder (e.g. commands/) is silently…]]
+- Later: 2026-05-11 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-05-11-opentelemetry-output-aligns-with-genai-semantic-conventions-mcp-tool-calls-now-u|OpenTelemetry output aligns with GenAI semantic conventions]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

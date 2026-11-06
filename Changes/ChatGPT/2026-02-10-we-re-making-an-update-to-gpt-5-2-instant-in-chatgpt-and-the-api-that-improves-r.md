@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 3eec1cbd28b9cf3aecaafe40c80c6cba73c81b7f65e6b885e796e5da8e5425f9
+machine_hash: a9fbb243af5c4c12b711ae075130024cbeaf79113b7f5b8afd14fd74b30b7584
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -53,12 +53,11 @@ record:
   title: GPT-5.2 Instant Update
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-02-04-improved-system-prompts-to-more-clearly-guide-the-model-toward-using-dedicated-t|Improved
-  system prompts to more clearly guide the model toward using dedicated tools…]]'
-- '[[Changes/Claude Code/2026-02-05-claude-opus-4-6-is-now-available|Claude Opus 4.6
-  is now available!]]'
+- '[[Changes/Windsurf/2026-02-05-claude-opus-4-6-fast-mode|Claude Opus 4.6 (fast mode)]]'
 - '[[Changes/Claude Code/2026-02-07-fast-mode-is-now-available-for-opus-4-6-learn-more-at-https-code-claude-com-docs|Fast
   mode is now available for Opus 4.6]]'
+- '[[Changes/GitHub Copilot CLI/2026-02-07-add-support-for-claude-opus-4-6-fast-preview|Add
+  support for Claude Opus 4.6 Fast (Preview)]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-02-10-gpt-5-2-instant-update-09d95a8b|chatgpt-2026-02-10-gpt-5-2-instant-update-09d95a8b]]'
 source_type: chatgpt_changelog
 theme: model-support
@@ -85,8 +84,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-02-07 · Claude Code · [[Changes/Claude Code/2026-02-07-fast-mode-is-now-available-for-opus-4-6-learn-more-at-https-code-claude-com-docs|Fast mode is now available for Opus 4.6]]
-- Later: 2026-02-13 · ChatGPT · [[Changes/ChatGPT/2026-02-13-as-previously-announced-we-have-retired-gpt-4o-gpt-4-1-gpt-4-1-mini-and-openai-o|Retiring GPT-4o and other legacy models]]
+- Earlier: 2026-02-07 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-02-07-add-support-for-claude-opus-4-6-fast-preview|Add support for Claude Opus 4.6 Fast (Preview)]]
+- Later: 2026-02-10 · Gemini CLI · [[Changes/Gemini CLI/2026-02-10-docs-document-gemini-cli-home-environment-variable-by-adamfweidman-in-https-gith|docs: document GEMINI_CLI_HOME environment variable]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -13,7 +13,7 @@ created: '2023-03-14'
 date: '2026-10-20'
 description: AI code editor built on a fork of VSCodium, with local and cloud coding
   agents, tracked through the official Cursor changelog.
-machine_hash: c411c16493f7d3d82344155d03710a709efc3f3bb3997496f6dd88bd9b636db7
+machine_hash: 59c8ec166f33f896c238a4a4716a7db16d6128be1e840fe331f04e9f82a7c70c
 modified: '2026-10-20'
 product: cursor
 product_name: Cursor
@@ -55,11 +55,10 @@ AI code editor built on a fork of VSCodium, with local and cloud coding agents, 
 
 ## Release cadence
 <!-- chronolog:begin region="cadence" -->
-Last release 2026-10-20 (11 days before the archive date) · 12 releases in the last 90 days · cadence: normal
+Last release 2026-10-20 (17 days before the archive date) · 11 releases in the last 90 days · cadence: normal
 
-Monthly releases, last 12 months (baseline 5.9 per month):
+Monthly releases, last 12 months (baseline 5.8 per month):
 
-- 2025-11 ▇▇ 1
 - 2025-12 ▇▇▇▇▇ 3
 - 2026-01 ▇▇▇▇▇ 3
 - 2026-02 ▇▇▇▇▇▇▇▇ 5
@@ -71,6 +70,7 @@ Monthly releases, last 12 months (baseline 5.9 per month):
 - 2026-08 ▇▇▇▇▇▇▇▇ 5
 - 2026-09 ▇▇▇▇▇ 3
 - 2026-10 ▇▇▇▇▇▇ 4
+- 2026-11 · 0
 <!-- chronolog:end -->
 
 ## Eras

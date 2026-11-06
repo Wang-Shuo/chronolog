@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 033201220139cfe5d9c023c68f5942f6e637b155c5fdec7041538140ad10d9b0
+machine_hash: e0e25d16e6ccdc9fb94a4d82db6851201ac0cb194d99ced7d3d65c0b66410e1f
 product: claude-code
 product_name: Claude Code
 record:
@@ -46,12 +46,12 @@ record:
     all leading…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-06-29-remote-control-is-now-disabled-when-anthropic-base-url-points-at-a-non-anthropic|Remote
-  Control is now disabled when ANTHROPIC_BASE_URL points at a non-Anthropic…]]'
 - '[[Changes/Claude Code/2026-07-01-claude-in-chrome-is-now-generally-available|Claude
   in Chrome is now generally available]]'
 - '[[Changes/Claude Code/2026-07-01-added-dataviz-skill-for-chart-and-dashboard-design-guidance-with-a-runnable-colo|Added
   /dataviz skill for chart and dashboard design guidance with a runnable…]]'
+- '[[Changes/GitHub Copilot CLI/2026-07-01-2-apps-and-integrations-changes-in-v1-0-68|2
+  Apps and Integrations changes in v1.0.68]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-07-02-v2-1-199-github-348195313-a8a76d9f|claude-code-2026-07-02-v2-1-199-github-348195313-a8a76d9f]]'
 source_type: github_releases
 theme: apps-integrations
@@ -82,7 +82,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-07-01 · Claude Code · [[Changes/Claude Code/2026-07-01-added-dataviz-skill-for-chart-and-dashboard-design-guidance-with-a-runnable-colo|Added /dataviz skill for chart and dashboard design guidance with a runnable…]]
+- Earlier: 2026-07-01 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-07-01-2-apps-and-integrations-changes-in-v1-0-68|2 Apps and Integrations changes in v1.0.68]]
 - Later: 2026-07-06 · Claude Code · [[Changes/Claude Code/2026-07-06-improved-mcp-error-messages-clearer-error-when-a-server-config-has-url-but-no-ty|Improved MCP error messages]]
 <!-- chronolog:end -->
 

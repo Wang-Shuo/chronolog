@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: 067a01221e72bb3f8e2c21bae447bc5699f5b2fc0fd3d5988d90f8a54d3aecb6
+machine_hash: 309b0b19ccf59de90d91397df4fa7946895daab4b178f6f425e89548deb26770
 product: cursor
 product_name: Cursor
 record:
@@ -64,12 +64,12 @@ record:
   title: Max Mode for all top models
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2025-04-29-we-ve-reverted-the-most-recent-update-to-gpt-4o-due-to-issues-with-overly-agreea-097503|Updates
-  to GPT-4o]]'
 - '[[Changes/ChatGPT/2025-05-14-since-its-launch-in-the-api-in-april-gpt-4-1-has-become-a-favorite-among-develop-286eb2|Releasing
   GPT-4.1 in ChatGPT for all paid users]]'
 - '[[Changes/ChatGPT/2025-05-14-gpt-4-1-mini-is-a-fast-capable-and-efficient-small-model-delivering-significant-722b7d|Introducing
   GPT-4.1 mini, replacing GPT-4o mini, in ChatGPT for all users]]'
+- '[[Changes/Cline/2025-05-14-2-model-support-changes-in-v3-15-4|2 Model Support changes
+  in v3.15.4]]'
 source_release: '[[Releases/Cursor/cursor-2025-05-15-0-50-https-cursor-com-changelog-0-50-dc290998|cursor-2025-05-15-0-50-https-cursor-com-changelog-0-50-dc290998]]'
 source_type: cursor_changelog
 theme: model-support
@@ -111,8 +111,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2025-05-14 · ChatGPT · [[Changes/ChatGPT/2025-05-14-gpt-4-1-mini-is-a-fast-capable-and-efficient-small-model-delivering-significant-722b7d|Introducing GPT-4.1 mini, replacing GPT-4o mini, in ChatGPT for all users]]
-- Later: 2025-06-04 · Cursor · [[Changes/Cursor/2025-06-04-max-mode-is-now-available-for-gemini-2-5-flash|Max mode is now available for Gemini 2.5 Flash]]
+- Earlier: 2025-05-14 · Cline · [[Changes/Cline/2025-05-14-2-model-support-changes-in-v3-15-4|2 Model Support changes in v3.15.4]]
+- Later: 2025-05-15 · Windsurf · [[Changes/Windsurf/2025-05-15-swe-1|SWE-1]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

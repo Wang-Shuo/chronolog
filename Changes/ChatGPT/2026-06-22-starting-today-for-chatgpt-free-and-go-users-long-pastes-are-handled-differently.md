@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: e86114f693f662b43d27812daa94db5fbef3a196afbd620d9c90aecca1e524cb
+machine_hash: 5cbed76a88e6b978ef9f16f14fee7323540b7bdb09ba57ca0dda1fd6bfabe198
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -61,12 +61,12 @@ record:
   title: Large pastes are now handled as attachments for more plans
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-06-08-the-claude-md-is-too-long-warning-threshold-now-scales-with-the-model-s-context|The
-  "CLAUDE.md is too long" warning threshold now scales with the model''s context window]]'
-- '[[Changes/Claude Code/2026-06-08-added-cd-command-to-move-a-session-to-a-new-working-directory-without-breaking-t|Added
-  /cd command to move a session to a new working directory without breaking…]]'
-- '[[Changes/Claude Code/2026-06-12-vscode-added-usage-attribution-to-the-account-usage-dialog-usage-showing-cache-m|VSCode
-  Added usage attribution to the Account & usage dialog (/usage) showing…]]'
+- '[[Changes/GitHub Copilot CLI/2026-06-13-honor-max-output-tokens-for-byok-responses-providers|Honor
+  max_output_tokens for BYOK Responses providers]]'
+- '[[Changes/Codex CLI/2026-06-15-7-context-window-changes-in-rust-v0-140-0|7 Context
+  Window changes in rust-v0.140.0]]'
+- '[[Changes/Codex CLI/2026-06-18-2-context-window-changes-in-rust-v0-141-0|2 Context
+  Window changes in rust-v0.141.0]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-06-22-large-pastes-are-now-handled-as-attachments-for-more-plans-64db97b0|chatgpt-2026-06-22-large-pastes-are-now-handled-as-attachments-for-more-plans-64db97b0]]'
 source_type: chatgpt_changelog
 theme: context-window
@@ -93,7 +93,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Context Window
 
-- Earlier: 2026-06-12 · Claude Code · [[Changes/Claude Code/2026-06-12-vscode-added-usage-attribution-to-the-account-usage-dialog-usage-showing-cache-m|VSCode Added usage attribution to the Account & usage dialog (/usage) showing…]]
+- Earlier: 2026-06-18 · Codex CLI · [[Changes/Codex CLI/2026-06-18-2-context-window-changes-in-rust-v0-141-0|2 Context Window changes in rust-v0.141.0]]
 - Later: 2026-06-22 · Claude Code · [[Changes/Claude Code/2026-06-22-bash-commands-now-trigger-claude-to-respond-to-the-output-automatically-set-resp|! bash commands now trigger Claude to respond to the output automatically]]
 <!-- chronolog:end -->
 

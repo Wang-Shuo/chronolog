@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: c3bfe769050c7108936154cf9cb02365ece0ff7a949b0af8e354a2c1425a6ffb
+machine_hash: c90ba30c971a0d17ca9176f386ca3b4332cc8b4bee43e187ed81709cae9ae6f2
 product: cursor
 product_name: Cursor
 record:
@@ -43,8 +43,8 @@ record:
   title: Environments API
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-14-3-agent-mode-changes-in-v2-1-300|3 Agent Mode
-  changes in v2.1.300]]'
+- '[[Changes/Codex CLI/2026-10-15-14-agent-mode-changes-in-rust-v0-163-0|14 Agent
+  Mode changes in rust-v0.163.0]]'
 - '[[Changes/ChatGPT/2026-10-16-multiple-agents-that-can-work-on-different-parts-of-a-task-in-parallel-you-can-f|Multiple
   agents that can work on different parts of a task in parallel]]'
 - '[[Changes/Claude Code/2026-10-16-6-agent-mode-changes-in-v2-1-302|6 Agent Mode

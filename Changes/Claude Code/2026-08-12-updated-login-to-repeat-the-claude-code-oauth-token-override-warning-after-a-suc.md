@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: c953ea5c0c26ee3349e876443a9e4226679aca465882ae0d507f0389477f0f97
+machine_hash: 0475af0e74e4c388afff04293dbe1ed875545ba6fd8a742a39dd5c38becde5f9
 product: claude-code
 product_name: Claude Code
 record:
@@ -43,12 +43,12 @@ record:
     after…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-07-17-updated-the-auth-status-panel-title-from-cloud-authentication-to-authentication|Updated
-  the auth status panel title from "Cloud authentication" to "Authentication"]]'
-- '[[Changes/Claude Code/2026-07-21-changed-the-login-expiry-warning-to-appear-3-days-before-expiry-instead-of-5|Changed
-  the login-expiry warning to appear 3 days before expiry instead of 5]]'
-- '[[Changes/Claude Code/2026-08-07-changed-managed-settings-the-approval-prompt-no-longer-re-appears-after-re-login|Changed
-  managed settings]]'
+- '[[Changes/Codex CLI/2026-08-07-8-account-and-access-changes-in-rust-v0-147-0|8
+  Account and Access changes in rust-v0.147.0]]'
+- '[[Changes/Cline/2026-08-09-2-account-and-access-changes-in-v4-1-7|2 Account and
+  Access changes in v4.1.7]]'
+- '[[Changes/GitHub Copilot CLI/2026-08-10-login-links-are-clickable-during-web-and-device-code-sign-in|Login
+  links are clickable during web and device-code sign-in]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-08-12-v2-1-229-github-369475532-b063933d|claude-code-2026-08-12-v2-1-229-github-369475532-b063933d]]'
 source_type: github_releases
 theme: account-access
@@ -84,7 +84,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Account and Access
 
-- Earlier: 2026-08-07 · Claude Code · [[Changes/Claude Code/2026-08-07-changed-managed-settings-the-approval-prompt-no-longer-re-appears-after-re-login|Changed managed settings]]
+- Earlier: 2026-08-10 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-08-10-login-links-are-clickable-during-web-and-device-code-sign-in|Login links are clickable during web and device-code sign-in]]
 - Later: 2026-08-13 · Claude Code · [[Changes/Claude Code/2026-08-13-remote-control-resuming-a-conversation-whose-session-was-deleted-from-claude-ai|Remote Control: resuming a conversation whose session was deleted from claude.ai…]]
 <!-- chronolog:end -->
 

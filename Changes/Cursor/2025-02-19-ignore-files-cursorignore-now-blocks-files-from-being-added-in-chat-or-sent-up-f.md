@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 872d1a1c9f66903b63ac866891d5d2d2c71c85364f675445bb42e1602f4aa254
+machine_hash: eb1984a09439585ae09024523bfd471f6750e139c07673e7bd56a70797db6314
 product: cursor
 product_name: Cursor
 record:
@@ -47,12 +47,12 @@ record:
     sent up…'
   type: change
 related_changes:
-- '[[Changes/Cursor/2024-09-17-update-0-41-1-0-41-3-improves-onboarding-ux-fixes-a-bug-with-composer-cancellati|UPDATE
-  (0.41.1–0.41.3): Improves onboarding UX, fixes a bug with composer…]]'
-- '[[Changes/Cursor/2024-10-09-vs-code-1-93-1-cursor-is-now-based-on-vs-code-1-93-1-c087f6|VS
-  Code 1.93.1: Cursor is now based on VS Code 1.93.1]]'
-- '[[Changes/Cursor/2024-12-17-agent-can-reapply-edits-with-a-smarter-apply-model|Agent
-  can reapply edits with a smarter apply model]]'
+- '[[Changes/OpenHands/2025-01-13-added-new-app-tab-which-allows-users-to-interact-with-the-web-app-run-in-openhan|Added
+  new App tab which allows users to interact with the web app run in OpenHands…]]'
+- '[[Changes/OpenHands/2025-01-22-users-can-now-define-a-different-llm-as-a-custom-llm-config-named-with-a-predefi|Users
+  can now define a different LLM as a custom LLM config named with a predefined name]]'
+- '[[Changes/OpenHands/2025-02-13-add-success-failure-indicators-for-file-read-edit-operations-by-neubig-in-https|Add
+  success/failure indicators for file read/edit operations]]'
 source_release: '[[Releases/Cursor/cursor-2025-02-19-0-46-x-https-cursor-com-changelog-0-46-x-640a0a10|cursor-2025-02-19-0-46-x-https-cursor-com-changelog-0-46-x-640a0a10]]'
 source_type: cursor_changelog
 theme: editor-experience
@@ -92,7 +92,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2024-12-17 · Cursor · [[Changes/Cursor/2024-12-17-agent-can-reapply-edits-with-a-smarter-apply-model|Agent can reapply edits with a smarter apply model]]
+- Earlier: 2025-02-13 · OpenHands · [[Changes/OpenHands/2025-02-13-add-success-failure-indicators-for-file-read-edit-operations-by-neubig-in-https|Add success/failure indicators for file read/edit operations]]
 - Later: 2025-03-11 · Cursor · [[Changes/Cursor/2025-03-11-0-47-2-cursor-tab-accepts-work-with-single-line-selections|0.47.2: Cursor Tab accepts work with single-line selections]]
 <!-- chronolog:end -->
 

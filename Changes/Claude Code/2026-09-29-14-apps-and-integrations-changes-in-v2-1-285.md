@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 88c4b152856724cb0022b00db3e65b4e18e97570c58dce615dc0d6d2d46d3ccf
+machine_hash: 4ddd94a977cf41fb0b23f066adb3b7720d2099122de74cd771907a213c3ff6f0
 product: claude-code
 product_name: Claude Code
 record:
@@ -163,7 +163,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.285
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-09-29 · ChatGPT · [[Changes/ChatGPT/2026-09-29-supported-plugins-can-use-mcp-events-to-start-an-automation-when-something-chang-d9add6|Start automations from connected-app events]]
-- Later: 2026-09-30 · Claude Code · [[Changes/Claude Code/2026-09-30-11-apps-and-integrations-changes-in-v2-1-286|11 Apps and Integrations changes in v2.1.286]]
+- Later: 2026-09-29 · Codex CLI · [[Changes/Codex CLI/2026-09-29-8-apps-and-integrations-changes-in-rust-v0-159-0|8 Apps and Integrations changes in rust-v0.159.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

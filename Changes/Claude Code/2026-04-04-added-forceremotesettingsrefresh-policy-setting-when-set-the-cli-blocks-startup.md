@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 5b88d186fd68e9992edc984cbaedbc7a8e6c33c3f3c14bda927f6221c4637485
+machine_hash: d8163c80bcdc6eec205d7a5f57123b14486af83becd02f1feda6371215e2f75e
 product: claude-code
 product_name: Claude Code
 record:
@@ -46,10 +46,10 @@ record:
   title: Added `forceRemoteSettingsRefresh` policy setting
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-03-17-we-ve-simplified-the-model-picker-to-make-it-easier-to-choose-the-right-level-of-a3fc77|We’ve
-  simplified the model picker to make it easier to choose the right level of reasoning]]'
 - '[[Changes/Claude Code/2026-03-26-added-allowedchannelplugins-managed-setting-for-team-enterprise-admins-to-define|Added
   allowedChannelPlugins managed setting for team/enterprise admins to define…]]'
+- '[[Changes/Codex CLI/2026-03-26-15789-treat-chatgpt-hc-plan-as-enterprise-arnavdugar-openai|♯15789
+  Treat ChatGPT hc plan as Enterprise @arnavdugar-openai]]'
 - '[[Changes/Cursor/2026-04-02-added-an-enterprise-admin-control-for-disabling-made-with-cursor-code-attributio|Added
   an Enterprise Admin control for disabling "Made with Cursor" code attribution…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-04-04-v2-1-92-github-305189904-2eb020f5|claude-code-2026-04-04-v2-1-92-github-305189904-2eb020f5]]'

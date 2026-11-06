@@ -1,0 +1,96 @@
+---
+card_id: aider-2024-09-04-b73011
+date: '2024-09-04'
+description: 'Aider · 2024-09-04 · Voice and Audio: Catch `/voice` transcription exceptions,
+  show the WAV file so the user can recover it.'
+diffusion:
+  first_in_tracked: '[[Changes/Aider/2023-08-11-voice-to-code-https-aider-chat-docs-voice-html-support-which-allows-you-to-code|Voice-to-code((source
+    link) support, which allows you…]]'
+  inference: No adoption, equivalence, or causation claim.
+  lag_days: 390
+  relation: same-theme-chronology
+  role: later-observed
+  scope: tracked-products-only
+  theme: voice
+  tracked_products_count: 10
+evolves_from: []
+extractor_version: fallback-v5
+impact: incremental
+kind: change
+machine_hash: bb3084161e2c510d38e32be4df0f3d95eabbd3e1b5e0386123e36d0f8cb1411d
+product: aider
+product_name: Aider
+record:
+  card_id: aider-2024-09-04-b73011
+  comparison: ''
+  date: '2024-09-04'
+  description: 'Aider — Aider v0.55.0: Catch `/voice` transcription exceptions, show
+    the WAV file so the user can recover it.'
+  evidence:
+  - quote: Catch `/voice` transcription exceptions, show the WAV file so the user
+      can recover it.
+    source_release: https://github.com/Aider-AI/aider/releases/tag/v0.55.0
+  extractor_version: fallback-v5
+  impact: incremental
+  kind: change
+  product: aider
+  product_name: Aider
+  slug: catch-voice-transcription-exceptions-show-the-wav-file-so-the-user-can-recover-i
+  source_release: aider-2024-09-04-v0-55-0-github-173466209-522ef089
+  source_type: github_releases
+  theme: voice
+  title: Catch `/voice` transcription exceptions, show the WAV file so the user can
+    recover it
+  type: change
+related_changes:
+- '[[Changes/ChatGPT/2023-09-25-we-are-beginning-to-roll-out-new-voice-and-image-capabilities-in-chatgpt-they-of|We
+  are beginning to roll out new voice and image capabilities in ChatGPT]]'
+- '[[Changes/ChatGPT/2023-11-21-chatgpt-with-voice-is-now-available-to-all-free-users-download-the-app-on-your-p|ChatGPT
+  with voice is available to all users]]'
+- '[[Changes/Aider/2024-06-04-detect-supported-audio-sample-rates-for-voice|Detect
+  supported audio sample rates for /voice]]'
+source_release: '[[Releases/Aider/aider-2024-09-04-v0-55-0-github-173466209-522ef089|aider-2024-09-04-v0-55-0-github-173466209-522ef089]]'
+source_type: github_releases
+theme: voice
+title: Catch /voice transcription exceptions, show the WAV file so the user can recover
+  it
+type: change
+---
+
+<!-- chronolog:begin region="header" -->
+# Catch `/voice` transcription exceptions, show the WAV file so the user can recover it
+
+**Aider** · 2024-09-04 · [[Themes/voice|Voice and Audio]] · [Official source](https://github.com/Aider-AI/aider/releases/tag/v0.55.0) · from [[Releases/Aider/aider-2024-09-04-v0-55-0-github-173466209-522ef089|Aider v0.55.0]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="evidence" -->
+> Catch `/voice` transcription exceptions, show the WAV file so the user can recover it.
+>
+> Source: https://github.com/Aider-AI/aider/releases/tag/v0.55.0
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="context" -->
+## Also in this release
+
+- [[Changes/Aider/2024-09-04-only-print-the-pip-command-when-self-updating-on-windows-without-running-it|Only print the pip command when self updating on Windows, without running it]] · Mobile and Desktop
+- [[Changes/Aider/2024-09-04-6-developer-workflow-changes-in-v0-55-0|6 Developer Workflow changes in v0.55.0]] · Developer Workflow
+- [[Changes/Aider/2024-09-04-3-model-support-changes-in-v0-55-0|3 Model Support changes in v0.55.0]] · Model Support
+- [[Changes/Aider/2024-09-04-10-other-changes-in-v0-55-0|10 other changes in v0.55.0]] · Other changes
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="nearby" -->
+## Nearby in Voice and Audio
+
+- Earlier: 2024-06-04 · Aider · [[Changes/Aider/2024-06-04-detect-supported-audio-sample-rates-for-voice|Detect supported audio sample rates for /voice]]
+- Later: 2024-09-09 · Aider · [[Changes/Aider/2024-09-09-new-chat-language-switch-to-set-the-spoken-language|New --chat-language switch to set the spoken language]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="relations" -->
+## Related
+
+- Earliest same-theme entry in the tracked set: 2023-08-11 · Aider · [[Changes/Aider/2023-08-11-voice-to-code-https-aider-chat-docs-voice-html-support-which-allows-you-to-code|Voice-to-code((source link) support, which allows you…]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="footer" -->
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20aider-2024-09-04-b73011&body=Card%3A%20Changes%2FAider%2F2024-09-04-catch-voice-transcription-exceptions-show-the-wav-file-so-the-user-can-recover-i.md%0ACard%20ID%3A%20aider-2024-09-04-b73011%0ASource%3A%20https%3A%2F%2Fgithub.com%2FAider-AI%2Faider%2Freleases%2Ftag%2Fv0.55.0%0A%0AWhat%20should%20be%20corrected%3F%0A)
+<!-- chronolog:end -->

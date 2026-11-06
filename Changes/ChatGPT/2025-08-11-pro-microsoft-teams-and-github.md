@@ -10,12 +10,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 21e392466ce5abe5d22742f19f977341c775afaa3c02450cc1500752765be120
+machine_hash: 60f6c33afd98f15133605ddba1d6a4b0ba2fc76f1bd0887d459c43a1dc9cb154
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -39,10 +39,10 @@ record:
   title: 'Pro: Microsoft Teams and GitHub'
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2025-06-12-starting-today-we-re-adding-several-updates-to-projects-in-chatgpt-to-help-you-d|Starting
-  today, we’re adding several updates to projects in ChatGPT to help you do…]]'
-- '[[Changes/Cursor/2025-06-12-use-cursor-where-your-team-works-3e7ca8|Use Cursor
-  where your team works]]'
+- '[[Changes/Cline/2025-07-22-move-duplicated-code-for-loading-the-protobuf-descriptor-set-into-a-shared-util|Move
+  duplicated code for loading the protobuf descriptor set into a shared util file]]'
+- '[[Changes/Cline/2025-07-31-refactor-setup-e2e-tests-to-use-shared-mock-server-by-abeatrix-in-https-github-c|refactor:
+  setup e2e tests to use shared mock server]]'
 - '[[Changes/Cursor/2025-08-06-ai-code-tracking-api-get-commit-level-visibility-into-ai-usage-and-accepted-chan|AI
   code tracking API]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-08-11-additional-connectors-for-plus-and-pro-6d22248a|chatgpt-2025-08-11-additional-connectors-for-plus-and-pro-6d22248a]]'
@@ -75,7 +75,7 @@ type: change
 ## Nearby in Collaboration
 
 - Earlier: 2025-08-06 · Cursor · [[Changes/Cursor/2025-08-06-ai-code-tracking-api-get-commit-level-visibility-into-ai-usage-and-accepted-chan|AI code tracking API]]
-- Later: 2025-09-29 · Cursor · [[Changes/Cursor/2025-09-29-share-prompts-with-deeplinks-beta|Share prompts with deeplinks (beta)]]
+- Later: 2025-08-16 · Cline · [[Changes/Cline/2025-08-16-focus-chain-regex-moved-to-shared-by-canvrno-in-https-github-com-cline-cline-pul|Focus Chain regex moved to /shared]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: 556f5d019e3f1c359bab9c24d4a78fc1d04741ce937dc2ee8165afa0f6f07063
+machine_hash: ac9899d722ba029d5521e5047f84111525b3724135e4aa18f4c6d974815c4c00
 product: cursor
 product_name: Cursor
 record:
@@ -47,11 +47,11 @@ record:
   title: Shared agent transcripts
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-12-10-plan-mode-now-supports-inline-mermaid-diagrams-allowing-the-agent-to-automatical|Plan
-  Mode improvements]]'
-- '[[Changes/Cursor/2025-12-10-multi-agent-judging|Multi-agent judging]]'
-- '[[Changes/Cursor/2025-12-10-agent-plans-are-now-files-that-can-be-edited-with-normal-tools|Agent
-  plans are now files that can be edited with normal tools]]'
+- '[[Changes/OpenHands/2025-12-16-new-openhands-1-0-0-using-the-new-software-agent-sdk-https-github-com-openhands|New
+  OpenHands 1.0.0 using the new…]]'
+- '[[Changes/Windsurf/2025-12-16-agents-tool-execution|Agents & Tool Execution]]'
+- '[[Changes/Codex CLI/2025-12-18-3-agent-mode-changes-in-rust-v0-74-0|3 Agent Mode
+  changes in rust-v0.74.0]]'
 source_release: '[[Releases/Cursor/cursor-2025-12-18-enterprise-insights-billing-groups-service-accounts-and-improved-23eccccb|cursor-2025-12-18-enterprise-insights-billing-groups-service-accounts-and-improved-23eccccb]]'
 source_type: cursor_changelog
 theme: agent-mode
@@ -86,7 +86,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2025-12-10 · Cursor · [[Changes/Cursor/2025-12-10-agent-plans-are-now-files-that-can-be-edited-with-normal-tools|Agent plans are now files that can be edited with normal tools]]
+- Earlier: 2025-12-18 · Codex CLI · [[Changes/Codex CLI/2025-12-18-3-agent-mode-changes-in-rust-v0-74-0|3 Agent Mode changes in rust-v0.74.0]]
 - Later: 2025-12-22 · Cursor · [[Changes/Cursor/2025-12-22-2-agent-mode-changes-in-2-3|2 Agent Mode changes in 2.3]]
 <!-- chronolog:end -->
 

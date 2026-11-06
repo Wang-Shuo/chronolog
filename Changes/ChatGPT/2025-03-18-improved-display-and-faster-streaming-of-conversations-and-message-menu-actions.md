@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: d210f8cb97dcbd80d9ff2f66a4ac5f2bae877f3549a47459cce32ca8531178dd
+machine_hash: 9395fedd1562caf0147647a68bd7c96345b0d0ce934c7f7a54838c225bf3d9cc
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -52,8 +52,8 @@ record:
   title: Improved display and faster streaming of conversations and message menu actions
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-03-11-this-release-focuses-mainly-on-stability-and-performance-improvements-to-make-ex|This
-  release focuses mainly on stability and performance improvements to make…]]'
+- '[[Changes/Cline/2025-03-15-improve-checkpoints-loading-performance-and-display-warning-for-large-projects-n|Improve
+  checkpoints loading performance and display warning for large projects not…]]'
 - '[[Changes/ChatGPT/2025-03-18-we-have-been-working-on-a-variety-of-usability-and-performance-improvements-and|We
   have been working on a variety of usability and performance improvements and bug…]]'
 - '[[Changes/ChatGPT/2025-03-18-in-line-message-error-retries-if-you-encounter-a-message-error-you-can-retry-or|In-line
@@ -89,7 +89,7 @@ type: change
 ## Nearby in Reliability and Performance
 
 - Earlier: 2025-03-18 · ChatGPT · [[Changes/ChatGPT/2025-03-18-in-line-message-error-retries-if-you-encounter-a-message-error-you-can-retry-or|In-line message error retries]]
-- Later: 2025-03-23 · Cursor · [[Changes/Cursor/2025-03-23-2-reliability-and-performance-changes-in-0-48-x|2 Reliability and Performance changes in 0.48.x]]
+- Later: 2025-03-18 · OpenHands · [[Changes/OpenHands/2025-03-18-improve-the-stability-of-openhands-application-and-evaluation-harness-by-retry-o|Improve the stability of OpenHands application and evaluation harness by retry…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

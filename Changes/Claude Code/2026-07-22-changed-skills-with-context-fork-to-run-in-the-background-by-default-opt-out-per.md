@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 3f3388022941560acb2586f3d963dff9d44ee0fc6a56d1d30de03986e1de6826
+machine_hash: 471f4cba8028a656cbfff3360ce4070e7d008df01cd73e162d8eeba91ceb86ec
 product: claude-code
 product_name: Claude Code
 record:
@@ -42,10 +42,12 @@ record:
   title: 'Changed skills with `context: fork` to run in the background by default'
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-07-10-side-chats|Side chats]]'
-- '[[Changes/Cursor/2026-07-17-cross-channel-workflows|Cross-channel workflows]]'
 - '[[Changes/Claude Code/2026-07-20-context-now-shows-an-explicit-warning-when-the-conversation-exceeds-the-context|/context
   now shows an explicit warning when the conversation exceeds the context…]]'
+- '[[Changes/GitHub Copilot CLI/2026-07-20-2-context-window-changes-in-v1-0-72|2 Context
+  Window changes in v1.0.72]]'
+- '[[Changes/Codex CLI/2026-07-21-12-context-window-changes-in-rust-v0-145-0|12 Context
+  Window changes in rust-v0.145.0]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-07-22-v2-1-218-github-358276841-57d73db4|claude-code-2026-07-22-v2-1-218-github-358276841-57d73db4]]'
 source_type: github_releases
 theme: context-window
@@ -82,8 +84,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Context Window
 
-- Earlier: 2026-07-20 · Claude Code · [[Changes/Claude Code/2026-07-20-context-now-shows-an-explicit-warning-when-the-conversation-exceeds-the-context|/context now shows an explicit warning when the conversation exceeds the context…]]
-- Later: 2026-08-04 · ChatGPT · [[Changes/ChatGPT/2026-08-04-if-you-paste-more-than-10k-characters-into-the-composer-chatgpt-will-automatical-1bd022|If you paste more than 10k characters into the composer, ChatGPT will automatically…]]
+- Earlier: 2026-07-21 · Codex CLI · [[Changes/Codex CLI/2026-07-21-12-context-window-changes-in-rust-v0-145-0|12 Context Window changes in rust-v0.145.0]]
+- Later: 2026-07-22 · Gemini CLI · [[Changes/Gemini CLI/2026-07-22-refactor-exclude-transient-ci-configuration-files-from-workspace-context-by-davi|Refactor: exclude transient CI configuration files from workspace context]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

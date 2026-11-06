@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: b3c537b6c33588c63bfc335b3194311c3dbb9de5d335e1b5b2772076282647b2
+machine_hash: bab0c0251c896b3b71b09248c7255466dcac30a77b10241391e4337daa0bd8d2
 product: cursor
 product_name: Cursor
 record:
@@ -47,12 +47,12 @@ record:
   title: 4 Reliability and Performance changes in 2.4
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-01-14-improved-typing-responsiveness-by-reducing-memory-allocation-overhead-in-termina|Improved
-  typing responsiveness by reducing memory allocation overhead in terminal…]]'
-- '[[Changes/Cursor/2026-01-16-faster-message-queueing-and-ux|Faster message queueing
-  and UX]]'
 - '[[Changes/Claude Code/2026-01-21-improved-ui-rendering-performance-with-react-compiler|Improved
   UI rendering performance with React Compiler]]'
+- '[[Changes/Codex CLI/2026-01-21-9543-fix-memory-leak-issue-jif-oai|♯9543 fix: memory
+  leak issue @jif-oai]]'
+- '[[Changes/Gemini CLI/2026-01-21-2-reliability-and-performance-changes-in-v0-25-0|2
+  Reliability and Performance changes in v0.25.0]]'
 source_release: '[[Releases/Cursor/cursor-2026-01-22-2-4-https-cursor-com-changelog-2-4-a10c8f03|cursor-2026-01-22-2-4-https-cursor-com-changelog-2-4-a10c8f03]]'
 source_type: cursor_changelog
 theme: reliability-performance
@@ -106,8 +106,8 @@ Source: https://cursor.com/changelog/2-4
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2026-01-21 · Claude Code · [[Changes/Claude Code/2026-01-21-improved-ui-rendering-performance-with-react-compiler|Improved UI rendering performance with React Compiler]]
-- Later: 2026-02-03 · Claude Code · [[Changes/Claude Code/2026-02-03-improved-memory-usage-for-resume-68-reduction-for-users-with-many-sessions-by-re|Improved memory usage for --resume (68% reduction for users with many sessions)…]]
+- Earlier: 2026-01-21 · Gemini CLI · [[Changes/Gemini CLI/2026-01-21-2-reliability-and-performance-changes-in-v0-25-0|2 Reliability and Performance changes in v0.25.0]]
+- Later: 2026-01-23 · Windsurf · [[Changes/Windsurf/2026-01-23-improved-overall-stability-and-reliability|Improved overall stability and reliability]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

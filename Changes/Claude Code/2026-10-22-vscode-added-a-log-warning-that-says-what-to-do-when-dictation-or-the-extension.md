@@ -4,20 +4,20 @@ date: '2026-10-22'
 description: 'Claude Code · 2026-10-22 · Voice and Audio: [VSCode] Added a log warning
   that says what to do when dictation or the extension''s own requests fail certificate…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-09-25-you-can-now-use-voice-to-engage-in-a-back-and-forth-conversation-with-your-assis-13666e|Voice
-    (Beta) is now rolling out to Plus users on iOS and Android]]'
+  first_in_tracked: '[[Changes/Aider/2023-08-11-voice-to-code-https-aider-chat-docs-voice-html-support-which-allows-you-to-code|Voice-to-code((source
+    link) support, which allows you…]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1123
+  lag_days: 1168
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 77aca7b95b39c1a757c75309c2c68025ecc8a91efdfc04b57ffe726379555e7c
+machine_hash: c2e5624efad1d927897473a93cabf6de77eef2d558dbd728fb45ef56f0a9a0b4
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,10 +45,10 @@ record:
     extension''s…'
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-10-15-for-more-information-see-chatgpt-voice|For more information,
-  see: ChatGPT Voice]]'
-- '[[Changes/ChatGPT/2026-10-15-we-re-rolling-out-gpt-live-1-1-and-gpt-live-1-1-quip-a-mini-version-of-the-model|ChatGPT
-  rolls out GPT-Live-1.1 and GPT-Live-1.1 Quip, a mini version of the model…]]'
+- '[[Changes/Codex CLI/2026-10-15-4-voice-and-audio-changes-in-rust-v0-163-0|4 Voice
+  and Audio changes in rust-v0.163.0]]'
+- '[[Changes/GitHub Copilot CLI/2026-10-19-voice-dictation-no-longer-inserts-language-markers-like-en-us-into-transcript-te|Voice
+  dictation no longer inserts language markers like en-US into transcript text]]'
 - '[[Changes/Claude Code/2026-10-21-2-voice-and-audio-changes-in-v2-1-307|2 Voice
   and Audio changes in v2.1.307]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-10-22-v2-1-309-github-421170674-b2394d99|claude-code-2026-10-22-v2-1-309-github-421170674-b2394d99]]'
@@ -88,12 +88,13 @@ type: change
 ## Nearby in Voice and Audio
 
 - Earlier: 2026-10-21 · Claude Code · [[Changes/Claude Code/2026-10-21-2-voice-and-audio-changes-in-v2-1-307|2 Voice and Audio changes in v2.1.307]]
+- Later: 2026-10-23 · Codex CLI · [[Changes/Codex CLI/2026-10-23-3-voice-and-audio-changes-in-rust-v0-164-0|3 Voice and Audio changes in rust-v0.164.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-09-25 · ChatGPT · [[Changes/ChatGPT/2023-09-25-you-can-now-use-voice-to-engage-in-a-back-and-forth-conversation-with-your-assis-13666e|Voice (Beta) is now rolling out to Plus users on iOS and Android]]
+- Earliest same-theme entry in the tracked set: 2023-08-11 · Aider · [[Changes/Aider/2023-08-11-voice-to-code-https-aider-chat-docs-voice-html-support-which-allows-you-to-code|Voice-to-code((source link) support, which allows you…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

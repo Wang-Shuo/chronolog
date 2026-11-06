@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 2625ce4baaf55d71a2b73426541d7eeab7887dc90810c92ae12999cc90f7aa7a
+machine_hash: c7b49ad4a00d4e345eff844289a5b613ea360ade434f9a8aeae48888637f6387
 product: cursor
 product_name: Cursor
 record:
@@ -43,10 +43,10 @@ record:
   title: In-editor chat
   type: change
 related_changes:
-- '[[Changes/Cursor/2023-07-19-a-better-flow-for-getting-cmd-k-to-produce-code-with-no-linter-errors-you-should-8eb878|A
-  better flow for getting CMD-k to produce code with no linter errors…]]'
 - '[[Changes/Cursor/2023-07-22-cmd-k-can-again-see-all-of-your-cells-in-jupyter|Jupyter
   CMD-k Context Building]]'
+- '[[Changes/Aider/2023-07-24-provide-gpt-with-detailed-error-if-it-makes-a-bad-edit-block-ask-for-a-retry|Provide
+  GPT with detailed error if it makes a bad edit block, ask for a retry]]'
 - '[[Changes/Cursor/2023-07-27-experimental-codebase-support-in-the-chat-and-coming-to-the-cmd-k-soon|Experimental
   @Codebase support in the chat (and coming to the cmd-k soon!)]]'
 source_release: '[[Releases/Cursor/cursor-2023-08-10-0-7-0-https-cursor-com-changelog-0-7-0-c14eff8e|cursor-2023-08-10-0-7-0-https-cursor-com-changelog-0-7-0-c14eff8e]]'

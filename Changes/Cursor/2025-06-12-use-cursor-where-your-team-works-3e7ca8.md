@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: fabc236675f8a71086d4263975a7c29495a8ec8fa0d5debc380b9c24434eda2b
+machine_hash: 858ef70c62831a895815da59268fb7327d52405403048b2eb3b4c9c590663036
 product: cursor
 product_name: Cursor
 record:
@@ -84,7 +84,7 @@ type: change
 ## Nearby in Collaboration
 
 - Earlier: 2025-06-12 · ChatGPT · [[Changes/ChatGPT/2025-06-12-starting-today-we-re-adding-several-updates-to-projects-in-chatgpt-to-help-you-d|Starting today, we’re adding several updates to projects in ChatGPT to help you do…]]
-- Later: 2025-08-06 · Cursor · [[Changes/Cursor/2025-08-06-ai-code-tracking-api-get-commit-level-visibility-into-ai-usage-and-accepted-chan|AI code tracking API]]
+- Later: 2025-07-11 · Cline · [[Changes/Cline/2025-07-11-request-validation-and-remove-credit-balance-for-cline-team-by-abeatrix-in-https|Request validation and remove credit balance for cline team]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: d96a83fb816d6d589afdc48504d94ebc32094a3337ba77e0ea2359ec0aa2f343
+machine_hash: 87acbb336157605b8d324fbede6b0a7c26282f2659bb42f8e6d7a0394c6b624c
 product: claude-code
 product_name: Claude Code
 record:
@@ -47,10 +47,10 @@ record:
     `/tmp`
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-07-22-admin-controls-per-team-and-per-group-enablement-mode-restrictions-default-mode|Admin
-  controls: per-team and per-group enablement, mode restrictions, default mode…]]'
-- '[[Changes/Cursor/2026-07-29-switch-between-teams-that-you-belong-to-directly-in-the-app|Switch
-  between teams that you belong to directly in the app]]'
+- '[[Changes/Cline/2026-08-02-stop-the-two-bundles-of-the-combined-rollout-package-from-invalidating-each-othe|Stop
+  the two bundles of the combined rollout package from invalidating each other''s…]]'
+- '[[Changes/Codex CLI/2026-08-07-10-collaboration-changes-in-rust-v0-147-0|10 Collaboration
+  changes in rust-v0.147.0]]'
 - '[[Changes/ChatGPT/2026-08-13-the-initial-experience-includes-my-drive-and-files-and-folders-shared-directly-w|The
   initial experience includes My Drive and files and folders shared directly with
   you]]'
@@ -96,7 +96,7 @@ type: change
 ## Nearby in Collaboration
 
 - Earlier: 2026-08-13 · ChatGPT · [[Changes/ChatGPT/2026-08-13-the-initial-experience-includes-my-drive-and-files-and-folders-shared-directly-w|The initial experience includes My Drive and files and folders shared directly with you]]
-- Later: 2026-08-17 · Claude Code · [[Changes/Claude Code/2026-08-17-removed-the-default-teammate-model-setting-from-config-agent-team-teammates-now|Removed the "Default teammate model" setting from /config]]
+- Later: 2026-08-13 · Windsurf · [[Changes/Windsurf/2026-08-13-devin-local|Devin Local]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

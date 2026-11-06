@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 3f7554b02c3a3da4bfeab3dccf54083c20a15cdc257714e17863f63f5de1ebfa
+machine_hash: c415eb38f7da66cd4089bbf010f9c6db3a3a106807c600765c6268391fcb50db
 product: claude-code
 product_name: Claude Code
 record:
@@ -59,12 +59,12 @@ record:
   title: 6 Safety and Privacy changes in v2.1.292
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-01-6-safety-and-privacy-changes-in-v2-1-287|6 Safety
-  and Privacy changes in v2.1.287]]'
 - '[[Changes/Claude Code/2026-10-02-6-safety-and-privacy-changes-in-v2-1-288|6 Safety
   and Privacy changes in v2.1.288]]'
 - '[[Changes/Claude Code/2026-10-05-19-safety-and-privacy-changes-in-v2-1-290|19 Safety
   and Privacy changes in v2.1.290]]'
+- '[[Changes/GitHub Copilot CLI/2026-10-05-4-safety-and-privacy-changes-in-v1-0-92|4
+  Safety and Privacy changes in v1.0.92]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-10-06-v2-1-292-github-404958910-b2fd21ab|claude-code-2026-10-06-v2-1-292-github-404958910-b2fd21ab]]'
 source_type: github_releases
 theme: safety-privacy
@@ -113,7 +113,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.292
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Safety and Privacy
 
-- Earlier: 2026-10-05 · Claude Code · [[Changes/Claude Code/2026-10-05-19-safety-and-privacy-changes-in-v2-1-290|19 Safety and Privacy changes in v2.1.290]]
+- Earlier: 2026-10-05 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-10-05-4-safety-and-privacy-changes-in-v1-0-92|4 Safety and Privacy changes in v1.0.92]]
 - Later: 2026-10-06 · Claude Code · [[Changes/Claude Code/2026-10-06-fixed-a-regression-in-2-1-290-where-cloud-sessions-could-drop-answers-to-permiss|Fixed a regression in 2.1.290 where cloud sessions could drop answers to permission…]]
 <!-- chronolog:end -->
 

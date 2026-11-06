@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 702f4f966f453a192be8cb9166c445f77edd832b79e57406722de21442d0e95a
+machine_hash: 5f53fc0a969e5503da02193f959edbd9711c1b13dca69fa8ab3b360d2755aa33
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -80,7 +80,7 @@ type: change
 ## Nearby in Files and Data
 
 - Earlier: 2023-07-06 · ChatGPT · [[Changes/ChatGPT/2023-07-06-we-re-rolling-out-code-interpreter-to-all-chatgpt-plus-users-over-the-next-week-66255e|Code interpreter is now rolling out in beta on web]]
-- Later: 2024-11-22 · ChatGPT · [[Changes/ChatGPT/2024-11-22-the-sidebar-when-pinned-can-now-stay-open-with-an-active-canvas-if-enough-space|The sidebar when pinned can now stay open with an active Canvas if enough space…]]
+- Later: 2024-06-29 · OpenHands · [[Changes/OpenHands/2024-06-29-2-files-and-data-changes-in-0-7-0|2 Files and Data changes in 0.7.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

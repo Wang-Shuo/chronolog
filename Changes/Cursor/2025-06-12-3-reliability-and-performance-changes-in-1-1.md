@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 614d56c8caad1703bd6d25e180c02cef113e96b8377eb27e1f466a619cd31e22
+machine_hash: 560e0db0a26453ff60ad445c7d5456e1e7ea619ab8841ef1e72df039226750f8
 product: cursor
 product_name: Cursor
 record:
@@ -45,9 +45,10 @@ record:
   title: 3 Reliability and Performance changes in 1.1
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-03-23-faster-indexing|Faster indexing]]'
-- '[[Changes/ChatGPT/2025-05-08-outside-the-european-regions-listed-above-all-plus-and-pro-accounts-that-have-me-507581|Opt‑in
-  reminders]]'
+- '[[Changes/Cline/2025-05-28-add-cerebras-as-a-new-api-provider-with-5-high-performance-models-including-reas|Add
+  Cerebras as a new API provider with 5 high-performance models including…]]'
+- '[[Changes/Aider/2025-05-30-improved-openrouter-model-metadata-handling-by-introducing-a-local-cache-increas|Improved
+  OpenRouter model metadata handling by introducing a local cache, increasing…]]'
 - '[[Changes/Cursor/2025-06-04-faster-responses-with-parallel-tool-calls|Faster responses
   with parallel tool calls]]'
 source_release: '[[Releases/Cursor/cursor-2025-06-12-1-1-https-cursor-com-changelog-1-1-0f0190fc|cursor-2025-06-12-1-1-https-cursor-com-changelog-1-1-0f0190fc]]'

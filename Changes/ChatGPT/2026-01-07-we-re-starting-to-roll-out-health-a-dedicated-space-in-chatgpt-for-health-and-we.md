@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: memory
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: a6ad8b8c66ca8b0a874efbb98808c59eae2bfd72684d9fa2c1144e97c9ef4a3d
+machine_hash: fcd3fb0c479bf7aa0f0b5195fec297e6ce9af5be83423bd7bca7a036125cd98a
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -60,8 +60,8 @@ record:
   title: We’re starting to roll out Health, a dedicated space in ChatGPT for health…
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2025-11-24-shopping-research-is-a-new-interactive-experience-that-helps-you-find-the-right-0a021d|Shopping
-  research in ChatGPT]]'
+- '[[Changes/Gemini CLI/2025-12-16-chore-tests-remove-obsolete-test-for-hierarchical-memory-by-pareshjoshij-in-http|chore(tests):
+  remove obsolete test for hierarchical memory]]'
 - '[[Changes/ChatGPT/2025-12-19-in-addition-to-selecting-a-base-style-and-tone-preset-like-candid-and-friendly-y-21da79|New
   detailed characteristic controls]]'
 - '[[Changes/ChatGPT/2025-12-22-today-we-re-rolling-out-your-year-with-chatgpt-an-optional-personalized-end-of-y-740eb1|Your
@@ -95,7 +95,7 @@ type: change
 ## Nearby in Memory and Personalization
 
 - Earlier: 2025-12-22 · ChatGPT · [[Changes/ChatGPT/2025-12-22-today-we-re-rolling-out-your-year-with-chatgpt-an-optional-personalized-end-of-y-740eb1|Your Year with ChatGPT]]
-- Later: 2026-01-15 · ChatGPT · [[Changes/ChatGPT/2026-01-15-when-reference-chat-history-is-enabled-chatgpt-can-now-more-reliably-find-specif|Improved memory for finding details from past chats (Plus & Pro)]]
+- Later: 2026-01-07 · Gemini CLI · [[Changes/Gemini CLI/2026-01-07-feat-core-implement-jit-context-memory-loading-and-ui-sync-by-sandytao520-in-htt|feat(core): Implement JIT context memory loading and UI sync]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

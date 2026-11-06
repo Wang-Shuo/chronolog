@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 8aa281812a96670214d4eb123f27b01aa89e74563c776b10bf5e5f58d07f307c
+machine_hash: a2f99d79fb36cc42ae23d0c19ed228bc1ed0577822b08dedfc664cefc5e2049a
 product: cursor
 product_name: Cursor
 record:
@@ -44,6 +44,8 @@ record:
 related_changes:
 - '[[Changes/Cursor/2024-03-20-admin-improvements-team-admins-can-now-mark-themselves-as-unpaid-users-and-can-s|Admin
   improvements: Team admins can now mark themselves as unpaid users and can see…]]'
+- '[[Changes/Cline/2024-08-31-adds-support-for-reading-pdf-and-docx-files-try-turn-my-business-plan-docx-into|Adds
+  support for reading .pdf and .docx files…]]'
 source_release: '[[Releases/Cursor/cursor-2025-03-23-0-48-x-https-cursor-com-changelog-0-48-x-7b3e771b|cursor-2025-03-23-0-48-x-https-cursor-com-changelog-0-48-x-7b3e771b]]'
 source_type: cursor_changelog
 theme: enterprise-admin
@@ -86,8 +88,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Enterprise and Administration
 
-- Earlier: 2024-03-20 · Cursor · [[Changes/Cursor/2024-03-20-admin-improvements-team-admins-can-now-mark-themselves-as-unpaid-users-and-can-s|Admin improvements: Team admins can now mark themselves as unpaid users and can see…]]
-- Later: 2025-06-04 · Cursor · [[Changes/Cursor/2025-06-04-enterprise-users-can-only-access-stable-release-no-pre-release|Enterprise users can only access stable release (no pre-release)]]
+- Earlier: 2024-08-31 · Cline · [[Changes/Cline/2024-08-31-adds-support-for-reading-pdf-and-docx-files-try-turn-my-business-plan-docx-into|Adds support for reading .pdf and .docx files…]]
+- Later: 2025-04-16 · OpenHands · [[Changes/OpenHands/2025-04-16-added-support-for-github-enterprise-and-on-prem-gitlab-in-the-github-action-reso|Added support for GitHub Enterprise and on-prem GitLab in the GitHub Action resolver]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

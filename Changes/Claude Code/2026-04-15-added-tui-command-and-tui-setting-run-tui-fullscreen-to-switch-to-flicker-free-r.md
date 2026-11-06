@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: bb49c80e0101d6edfffb8e52fb3c1b62a6d026850a1c25ac4ee3057516b901c5
+machine_hash: c70a0db0199ad16c9881a3c148e227d8108e2883070b1506c3031945d8099abf
 product: claude-code
 product_name: Claude Code
 record:
@@ -43,11 +43,11 @@ record:
   title: Added `/tui` command and `tui` setting
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-04-14-2-interface-experience-changes-in-v2-1-108|2 Interface
-  Experience changes in v2.1.108]]'
 - '[[Changes/Claude Code/2026-04-14-show-thinking-hints-sooner-during-long-operations|Show
   thinking hints sooner during long operations]]'
 - '[[Changes/Cursor/2026-04-14-configuration-menu-in-cli|Configuration menu in CLI]]'
+- '[[Changes/Gemini CLI/2026-04-14-2-interface-experience-changes-in-v0-38-0|2 Interface
+  Experience changes in v0.38.0]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-04-15-v2-1-110-github-309583669-83ce1e59|claude-code-2026-04-15-v2-1-110-github-309583669-83ce1e59]]'
 source_type: github_releases
 theme: interface-experience
@@ -83,7 +83,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-04-14 · Cursor · [[Changes/Cursor/2026-04-14-configuration-menu-in-cli|Configuration menu in CLI]]
+- Earlier: 2026-04-14 · Gemini CLI · [[Changes/Gemini CLI/2026-04-14-2-interface-experience-changes-in-v0-38-0|2 Interface Experience changes in v0.38.0]]
 - Later: 2026-04-15 · Claude Code · [[Changes/Claude Code/2026-04-15-improved-the-extended-thinking-indicator-with-a-rotating-progress-hint|Improved the extended-thinking indicator with a rotating progress hint]]
 <!-- chronolog:end -->
 

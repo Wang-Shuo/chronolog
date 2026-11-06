@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: accessibility-localization
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: f09bf060b92ea70ee2bfdfcff0dd738dcf1cbcdd23c250fe8b5264067303c7cb
+machine_hash: 76f121cb6814fa5dfc310b4936642cdb1743eff0167d82c1fcb01b7ad9308930
 product: claude-code
 product_name: Claude Code
 record:
@@ -46,8 +46,8 @@ record:
   title: 2 Accessibility and Localization changes in v2.1.288
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-17-vscode-improved-screen-reader-navigation-of-the-conversation-each-message-is-ann|VSCode
-  Improved screen reader navigation of the conversation]]'
+- '[[Changes/Codex CLI/2026-09-22-46040-default-tui-animations-off-when-a-screen-reader-is-detected-etraut-openai|♯46040
+  Default TUI animations off when a screen reader is detected @etraut-openai]]'
 - '[[Changes/Claude Code/2026-09-23-improved-screen-reader-output-in-mcp-a-disabled-server-is-read-as-off-instead-of|Improved
   screen-reader output in /mcp]]'
 - '[[Changes/Claude Code/2026-10-01-changed-screen-reader-mode-to-write-new-or-changed-lines-without-first-pausing-w|Changed

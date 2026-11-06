@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 8b947a29301e94dfc2a36f226694d2d6feb600618672bf2446a4715b44621707
+machine_hash: 07bcdb4cc61d30cadb3eb6f23005b9121700d82a24777653120e8c0f212fc5fd
 product: claude-code
 product_name: Claude Code
 record:
@@ -42,12 +42,12 @@ record:
   title: '[VSCode] Added tab icon badges showing pending permissions (blue) and unread…'
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-11-21-4-editor-experience-changes-in-2-1|4 Editor Experience
-  changes in 2.1]]'
-- '[[Changes/Cursor/2025-12-10-browser-layout-and-style-editor-c9ae9c|Browser layout
-  and style editor]]'
-- '[[Changes/ChatGPT/2025-12-17-edit-and-review-tasks-in-pulse-anytime-after-you-create-them-please-note-that-pu|Edit
-  and review tasks in Pulse anytime after you create them]]'
+- '[[Changes/Codex CLI/2025-12-18-7931-chore-persist-comments-in-edit|♯7931 chore:
+  persist comments in edit]]'
+- '[[Changes/GitHub Copilot CLI/2025-12-18-diff-display-uses-your-configured-git-pager-delta-diff-so-fancy|Diff
+  display uses your configured git pager (delta, diff-so-fancy)]]'
+- '[[Changes/GitHub Copilot CLI/2025-12-18-update-skills-help-text-to-reference-correct-copilot-skills-directory|Update
+  skills help text to reference correct ~/.copilot/skills/ directory]]'
 source_release: '[[Releases/Claude Code/claude-code-2025-12-19-v2-0-73-github-271620087-160adbe9|claude-code-2025-12-19-v2-0-73-github-271620087-160adbe9]]'
 source_type: github_releases
 theme: editor-experience
@@ -79,8 +79,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2025-12-17 · ChatGPT · [[Changes/ChatGPT/2025-12-17-edit-and-review-tasks-in-pulse-anytime-after-you-create-them-please-note-that-pu|Edit and review tasks in Pulse anytime after you create them]]
-- Later: 2026-01-08 · Cursor · [[Changes/Cursor/2026-01-08-added-commands-to-create-new-commands-and-edit-existing-commands|Added /commands to create new commands and edit existing commands]]
+- Earlier: 2025-12-18 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2025-12-18-update-skills-help-text-to-reference-correct-copilot-skills-directory|Update skills help text to reference correct ~/.copilot/skills/ directory]]
+- Later: 2025-12-22 · Cline · [[Changes/Cline/2025-12-22-duplicate-error-messages-during-streaming-for-diff-edit-tool-when-parallel-tool|Duplicate error messages during streaming for Diff Edit tool when Parallel Tool…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

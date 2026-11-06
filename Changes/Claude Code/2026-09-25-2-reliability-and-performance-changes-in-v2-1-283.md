@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 065b58b38e0556bc301fd50ce6b04b7121f60d8e91938fb5c4daf4729df8f92d
+machine_hash: 29bded48f5166c382e68927c3292663add48b56d5591d9350365c4c7f3c38a0c
 product: claude-code
 product_name: Claude Code
 record:
@@ -44,10 +44,10 @@ record:
   title: 2 Reliability and Performance changes in v2.1.283
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-15-improved-responsiveness-in-long-sessions-hook-progress-and-sub-agent-activity-no|Improved
-  responsiveness in long sessions]]'
 - '[[Changes/Claude Code/2026-09-17-added-a-visible-warning-when-memory-usage-is-critical-with-steps-to-free-memory|Added
   a visible warning when memory usage is critical, with steps to free memory…]]'
+- '[[Changes/Codex CLI/2026-09-22-45960-tag-memory-usage-telemetry-with-the-memory-version-jif-oai|♯45960
+  Tag memory usage telemetry with the memory version @jif-oai]]'
 - '[[Changes/Cursor/2026-09-23-deploy-tracking|Deploy tracking]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-25-v2-1-283-github-396845205-9a5a07f8|claude-code-2026-09-25-v2-1-283-github-396845205-9a5a07f8]]'
 source_type: github_releases

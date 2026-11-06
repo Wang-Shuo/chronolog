@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: f9798a1a02316b809f60eeb5b8d5fb3bef6cb2eabcdbfefe2b39378d59f00b54
+machine_hash: a952bfcf10542f14aa89f07856d590546cbcd35490fd316e2796880d83f14f7b
 product: cursor
 product_name: Cursor
 record:
@@ -51,12 +51,12 @@ record:
   title: Team admins can now disable Privacy Mode
   type: change
 related_changes:
-- '[[Changes/Cursor/2024-10-09-update-0-42-1-0-42-5-fixes-the-following-upstream-security-issue-cve-2024-43601|UPDATE
-  (0.42.1 - 0.42.5): Fixes the following upstream security issue: CVE-2024-43601]]'
-- '[[Changes/ChatGPT/2025-03-18-more-clear-and-private-incognito-keyboard-for-temporary-chats|More
-  clear and private Incognito keyboard for Temporary Chats]]'
-- '[[Changes/ChatGPT/2025-03-18-new-ui-for-temporary-chats-we-ve-made-accessing-and-viewing-these-private-conver|New
-  UI for Temporary Chats]]'
+- '[[Changes/OpenHands/2025-03-19-feat-microagents-add-security-microagent-by-h55nick-in-https-github-com-all-hand|feat(microagents):
+  Add security microagent]]'
+- '[[Changes/OpenHands/2025-04-23-enabled-custom-sandbox-for-resolver-by-tetsu-is-in-https-github-com-all-hands-ai|Enabled
+  custom sandbox for resolver]]'
+- '[[Changes/OpenHands/2025-05-12-simplified-workspace-mounting-with-sandbox-volumes-by-xingyaoww-in-https-github|Simplified
+  workspace mounting with SANDBOX_VOLUMES]]'
 source_release: '[[Releases/Cursor/cursor-2025-06-04-1-0-https-cursor-com-changelog-1-0-237767ca|cursor-2025-06-04-1-0-https-cursor-com-changelog-1-0-237767ca]]'
 source_type: cursor_changelog
 theme: safety-privacy
@@ -98,8 +98,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Safety and Privacy
 
-- Earlier: 2025-03-18 · ChatGPT · [[Changes/ChatGPT/2025-03-18-new-ui-for-temporary-chats-we-ve-made-accessing-and-viewing-these-private-conver|New UI for Temporary Chats]]
-- Later: 2025-07-29 · Cursor · [[Changes/Cursor/2025-07-29-2-safety-and-privacy-changes-in-1-3|2 Safety and Privacy changes in 1.3]]
+- Earlier: 2025-05-12 · OpenHands · [[Changes/OpenHands/2025-05-12-simplified-workspace-mounting-with-sandbox-volumes-by-xingyaoww-in-https-github|Simplified workspace mounting with SANDBOX_VOLUMES]]
+- Later: 2025-06-20 · OpenHands · [[Changes/OpenHands/2025-06-20-daytona-runtime-sandbox-handling-by-idagelic-in-https-github-com-all-hands-ai-op|Daytona Runtime sandbox handling]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

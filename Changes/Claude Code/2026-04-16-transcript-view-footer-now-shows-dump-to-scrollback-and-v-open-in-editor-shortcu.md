@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 739d02979ac637e6e6ef0d73132de7e4b0b866ce2cebf09529b53c939c7bf4e4
+machine_hash: 6f861001e8a8822b42f27c37ec347f4a9ef6a491a45068cebb080eaa1e3d8112
 product: claude-code
 product_name: Claude Code
 record:
@@ -43,12 +43,12 @@ record:
     editor)…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-04-09-2-editor-experience-changes-in-v2-1-98|2 Editor
-  Experience changes in v2.1.98]]'
-- '[[Changes/Cursor/2026-04-13-3-editor-experience-changes-in-3-1|3 Editor Experience
-  changes in 3.1]]'
 - '[[Changes/Claude Code/2026-04-15-2-editor-experience-changes-in-v2-1-110|2 Editor
   Experience changes in v2.1.110]]'
+- '[[Changes/Codex CLI/2026-04-15-added-realtime-and-app-server-apis-for-output-modality-transcript-completion-eve|Added
+  realtime and app-server APIs for output modality, transcript completion…]]'
+- '[[Changes/GitHub Copilot CLI/2026-04-15-show-a-clear-message-when-copilot-pro-trial-is-paused-instead-of-a-generic-polic|Show
+  a clear message when Copilot Pro trial is paused instead of a generic policy error]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-04-16-v2-1-111-github-309911692-a3025e78|claude-code-2026-04-16-v2-1-111-github-309911692-a3025e78]]'
 source_type: github_releases
 theme: editor-experience
@@ -87,8 +87,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2026-04-15 · Claude Code · [[Changes/Claude Code/2026-04-15-2-editor-experience-changes-in-v2-1-110|2 Editor Experience changes in v2.1.110]]
-- Later: 2026-04-17 · Claude Code · [[Changes/Claude Code/2026-04-17-remote-control-clients-can-now-query-file-autocomplete-suggestions|Remote Control clients can now query @-file autocomplete suggestions]]
+- Earlier: 2026-04-15 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-04-15-show-a-clear-message-when-copilot-pro-trial-is-paused-instead-of-a-generic-polic|Show a clear message when Copilot Pro trial is paused instead of a generic policy error]]
+- Later: 2026-04-16 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-04-16-a-clear-error-message-is-displayed-when-the-configured-editor-cannot-be-launched|A clear error message is displayed when the configured editor cannot be launched]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

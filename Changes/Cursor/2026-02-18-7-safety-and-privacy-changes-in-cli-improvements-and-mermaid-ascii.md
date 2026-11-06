@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 1ba69614a66682bd6680376b2ae1d256e2bac75920da3216f7f4b0176ed8eec8
+machine_hash: 820d275aa77aba780a68089beccb6e7f2e6f01158a29ba8489e19715b280e277
 product: cursor
 product_name: Cursor
 record:
@@ -120,7 +120,7 @@ Source: https://cursor.com/changelog/cli-feb-18-2026
 ## Nearby in Safety and Privacy
 
 - Earlier: 2026-02-18 · Claude Code · [[Changes/Claude Code/2026-02-18-2-safety-and-privacy-changes-in-v2-1-47|2 Safety and Privacy changes in v2.1.47]]
-- Later: 2026-02-19 · Claude Code · [[Changes/Claude Code/2026-02-19-3-safety-and-privacy-changes-in-v2-1-49|3 Safety and Privacy changes in v2.1.49]]
+- Later: 2026-02-18 · Gemini CLI · [[Changes/Gemini CLI/2026-02-18-5-safety-and-privacy-changes-in-v0-29-0|5 Safety and Privacy changes in v0.29.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

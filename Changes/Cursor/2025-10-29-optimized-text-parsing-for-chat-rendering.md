@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: c5881a4e997fb40b9cb7c6a88c1e5d5117bd5d58a6eb11bd4ca50ca2e6c6a35f
+machine_hash: 3b29190585002d807b8906a03abb92d33cc458e76cbbee96df7f73ed46931836
 product: cursor
 product_name: Cursor
 record:
@@ -43,11 +43,11 @@ record:
   title: Optimized text parsing for chat rendering
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-09-12-1-6-27-native-menu-notification-badge|1.6.27: Native
-  menu notification badge]]'
-- '[[Changes/ChatGPT/2025-09-16-formatting-answers-are-better-formatted-for-quick-understanding-without-losing-d|Formatting:
-  Answers are better formatted for quick understanding without losing…]]'
-- '[[Changes/Cursor/2025-09-29-1-7-45-model-picker-ux|1.7.45: Model picker UX]]'
+- '[[Changes/Gemini CLI/2025-10-22-2-interface-experience-changes-in-v0-10-0|2 Interface
+  Experience changes in v0.10.0]]'
+- '[[Changes/Codex CLI/2025-10-23-tui-drop-citation-rendering-by-nornagon-openai-in-https-github-com-openai-codex|tui:
+  drop citation rendering]]'
+- '[[Changes/GitHub Copilot CLI/2025-10-24-code-repo-navigation|Code & Repo navigation]]'
 source_release: '[[Releases/Cursor/cursor-2025-10-29-2-0-https-cursor-com-changelog-2-0-66a8e76e|cursor-2025-10-29-2-0-https-cursor-com-changelog-2-0-66a8e76e]]'
 source_type: cursor_changelog
 theme: interface-experience
@@ -96,8 +96,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2025-09-29 · Cursor · [[Changes/Cursor/2025-09-29-1-7-45-model-picker-ux|1.7.45: Model picker UX]]
-- Later: 2025-11-21 · Cursor · [[Changes/Cursor/2025-11-21-set-origin-allowlist-from-dashboard-to-restrict-browser-tools-browser-tools-and|Set origin allowlist from dashboard to restrict browser tools]]
+- Earlier: 2025-10-24 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2025-10-24-code-repo-navigation|Code & Repo navigation]]
+- Later: 2025-10-29 · Gemini CLI · [[Changes/Gemini CLI/2025-10-29-improve-rendering-of-todo-lists-by-scidomino-in-https-github-com-google-gemini-g|Improve rendering of ToDo lists]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

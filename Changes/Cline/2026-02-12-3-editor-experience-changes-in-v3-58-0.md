@@ -1,0 +1,107 @@
+---
+card_id: cline-2026-02-12-ec81ca
+date: '2026-02-12'
+description: 'Cline · 2026-02-12 · Editor Experience: 3 changes in v3.58.0 — New "double-check
+  completion" experimental feature to verify work before marking tasks complete'
+diffusion:
+  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
+    Editor Experience changes in 0.0.37]]'
+  inference: No adoption, equivalence, or causation claim.
+  lag_days: 1066
+  relation: same-theme-chronology
+  role: later-observed
+  scope: tracked-products-only
+  theme: editor-experience
+  tracked_products_count: 10
+evolves_from: []
+extractor_version: fallback-v5
+impact: incremental
+kind: digest
+machine_hash: ad79c81b85511936905c70fc416d9189eb3d2846ec81cb0f0f5a4fb95bb61b0d
+product: cline
+product_name: Cline
+record:
+  card_id: cline-2026-02-12-ec81ca
+  comparison: ''
+  date: '2026-02-12'
+  description: 'Cline — v3.58.0: 3 Editor Experience changes'
+  evidence:
+  - quote: New "double-check completion" experimental feature to verify work before
+      marking tasks complete
+    source_release: https://github.com/cline/cline/releases/tag/v3.58.0
+  - quote: 'Task streaming: prevent duplicate streamed text rows after completion'
+    source_release: https://github.com/cline/cline/releases/tag/v3.58.0
+  - quote: 'Tools: add auto-approval support for `attempt_completion` commands'
+    source_release: https://github.com/cline/cline/releases/tag/v3.58.0
+  extractor_version: fallback-v5
+  impact: incremental
+  kind: digest
+  product: cline
+  product_name: Cline
+  slug: 3-editor-experience-changes-in-v3-58-0
+  source_release: cline-2026-02-12-v3-58-0-github-285499006-63eb7b5c
+  source_type: github_releases
+  theme: editor-experience
+  title: 3 Editor Experience changes in v3.58.0
+  type: change
+related_changes:
+- '[[Changes/Gemini CLI/2026-02-10-3-editor-experience-changes-in-v0-28-0|3 Editor
+  Experience changes in v0.28.0]]'
+- '[[Changes/Codex CLI/2026-02-11-2-editor-experience-changes-in-rust-v0-99-0|2 Editor
+  Experience changes in rust-v0.99.0]]'
+- '[[Changes/GitHub Copilot CLI/2026-02-11-3-editor-experience-changes-in-v0-0-407|3
+  Editor Experience changes in v0.0.407]]'
+source_release: '[[Releases/Cline/cline-2026-02-12-v3-58-0-github-285499006-63eb7b5c|cline-2026-02-12-v3-58-0-github-285499006-63eb7b5c]]'
+source_type: github_releases
+theme: editor-experience
+title: 3 Editor Experience changes in v3.58.0
+type: change
+---
+
+<!-- chronolog:begin region="header" -->
+# 3 Editor Experience changes in v3.58.0
+
+**Cline** · 2026-02-12 · [[Themes/editor-experience|Editor Experience]] · Digest · [Official source](https://github.com/cline/cline/releases/tag/v3.58.0) · from [[Releases/Cline/cline-2026-02-12-v3-58-0-github-285499006-63eb7b5c|v3.58.0]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="evidence" -->
+## Changes in this digest
+
+> New "double-check completion" experimental feature to verify work before marking tasks complete
+
+> Task streaming: prevent duplicate streamed text rows after completion
+
+> Tools: add auto-approval support for `attempt_completion` commands
+
+Source: https://github.com/cline/cline/releases/tag/v3.58.0
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="context" -->
+## Also in this release
+
+- [[Changes/Cline/2026-02-12-terminal-surface-command-exit-codes-in-results-and-improve-long-running-execute|Terminal: surface command exit codes in results and improve long-running…]] · Developer Workflow
+- [[Changes/Cline/2026-02-12-2-account-and-access-changes-in-v3-58-0|2 Account and Access changes in v3.58.0]] · Account and Access
+- [[Changes/Cline/2026-02-12-2-interface-experience-changes-in-v3-58-0|2 Interface Experience changes in v3.58.0]] · Interface Experience
+- [[Changes/Cline/2026-02-12-subagent-replace-legacy-subagents-with-the-native-use-subagents-tool|Subagent: replace legacy subagents with the native use_subagents tool]] · Agent Mode
+- [[Changes/Cline/2026-02-12-2-apps-and-integrations-changes-in-v3-58-0|2 Apps and Integrations changes in v3.58.0]] · Apps and Integrations
+- [[Changes/Cline/2026-02-12-telemetry-route-posthog-networking-through-proxy-aware-shared-fetch-and-ensure-t|Telemetry: route PostHog networking through proxy-aware shared fetch and ensure…]] · Collaboration
+- [[Changes/Cline/2026-02-12-2-model-support-changes-in-v3-58-0|2 Model Support changes in v3.58.0]] · Model Support
+- [[Changes/Cline/2026-02-12-7-other-changes-in-v3-58-0|7 other changes in v3.58.0]] · Other changes
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="nearby" -->
+## Nearby in Editor Experience
+
+- Earlier: 2026-02-11 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-02-11-3-editor-experience-changes-in-v0-0-407|3 Editor Experience changes in v0.0.407]]
+- Later: 2026-02-12 · Codex CLI · [[Changes/Codex CLI/2026-02-12-reduced-repeated-skill-parse-error-spam-during-active-edits-by-increasing-file-w|Reduced repeated skill parse-error spam during active edits by increasing…]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="relations" -->
+## Related
+
+- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="footer" -->
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20cline-2026-02-12-ec81ca&body=Card%3A%20Changes%2FCline%2F2026-02-12-3-editor-experience-changes-in-v3-58-0.md%0ACard%20ID%3A%20cline-2026-02-12-ec81ca%0ASource%3A%20https%3A%2F%2Fgithub.com%2Fcline%2Fcline%2Freleases%2Ftag%2Fv3.58.0%0A%0AWhat%20should%20be%20corrected%3F%0A)
+<!-- chronolog:end -->

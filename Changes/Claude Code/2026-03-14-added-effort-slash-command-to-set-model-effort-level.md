@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: b1c7b62524805004e80df23852e4959728ad07ac1bb12709e8fc5d2ba512d96d
+machine_hash: a5ec71c6fbe8a274b51210f9b749be42335d0d55c8896d7e0626fd8db57d14a7
 product: claude-code
 product_name: Claude Code
 record:
@@ -43,12 +43,12 @@ record:
   title: Added `/effort` slash command to set model effort level
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-03-05-changed-sonnet-4-5-users-on-pro-max-team-premium-to-be-automatically-migrated-to|Changed
-  Sonnet 4.5 users on Pro/Max/Team Premium to be automatically migrated…]]'
-- '[[Changes/ChatGPT/2026-03-11-as-of-march-11-2026-gpt-5-1-models-are-no-longer-available-in-chatgpt-this-appli|Retiring
-  GPT-5.1 models]]'
-- '[[Changes/Claude Code/2026-03-11-2-model-support-changes-in-v2-1-73|2 Model Support
-  changes in v2.1.73]]'
+- '[[Changes/OpenHands/2026-03-11-added-support-for-the-following-models-claude-opus-4-6-glm-4-7-claude-sonnet-4-6|Added
+  support for the following models]]'
+- '[[Changes/Cline/2026-03-12-2-model-support-changes-in-v3-72-0|2 Model Support changes
+  in v3.72.0]]'
+- '[[Changes/GitHub Copilot CLI/2026-03-13-setting-claude-sonnet-4-6-as-the-default-model-is-now-preserved-correctly|Setting
+  claude-sonnet-4.6 as the default model is now preserved correctly]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-03-14-v2-1-76-github-296929324-94cd2ffc|claude-code-2026-03-14-v2-1-76-github-296929324-94cd2ffc]]'
 source_type: github_releases
 theme: model-support
@@ -85,7 +85,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-03-11 · Claude Code · [[Changes/Claude Code/2026-03-11-2-model-support-changes-in-v2-1-73|2 Model Support changes in v2.1.73]]
+- Earlier: 2026-03-13 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-03-13-setting-claude-sonnet-4-6-as-the-default-model-is-now-preserved-correctly|Setting claude-sonnet-4.6 as the default model is now preserved correctly]]
 - Later: 2026-03-16 · ChatGPT · [[Changes/ChatGPT/2026-03-16-we-re-rolling-out-an-update-to-gpt-5-3-instant-that-improves-follow-up-tone-and|GPT-5.3 Instant update]]
 <!-- chronolog:end -->
 

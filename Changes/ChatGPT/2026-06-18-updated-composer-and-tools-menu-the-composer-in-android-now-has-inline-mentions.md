@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: dd6810d8d48f7f269a719e41af801804c51f95033330e2cc5f064deb7da59a59
+machine_hash: 2412bdb9f975c6ff0b7bbc31592ad28b6594dacede2d7f239fad3b90cc781ffa
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -54,10 +54,10 @@ record:
   title: Updated composer and tools menu
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-06-08-auto-updater-on-windows-now-stops-retrying-within-a-session-once-claude-exe-is-h|Auto-updater
-  on Windows now stops retrying within a session once claude.exe…]]'
-- '[[Changes/Claude Code/2026-06-10-disable-mouse-tracking-on-windows-consoles-that-don-t-fully-support-it|Disable
-  mouse tracking on Windows consoles that don''t fully support it]]'
+- '[[Changes/Codex CLI/2026-06-15-clarified-contributor-guidance-around-keeping-crate-apis-narrow-and-supporting-l|Clarified
+  contributor guidance around keeping crate APIs narrow and supporting…]]'
+- '[[Changes/Windsurf/2026-06-16-the-3-2-series-brings-devin-local-enhancements-and-continued-devin-desktop-polis|The
+  3.2 series brings Devin Local enhancements and continued Devin Desktop polish]]'
 - '[[Changes/Claude Code/2026-06-17-2-mobile-and-desktop-changes-in-v2-1-181|2 Mobile
   and Desktop changes in v2.1.181]]'
 scope: Android
@@ -97,7 +97,7 @@ type: change
 ## Nearby in Mobile and Desktop
 
 - Earlier: 2026-06-17 · Claude Code · [[Changes/Claude Code/2026-06-17-2-mobile-and-desktop-changes-in-v2-1-181|2 Mobile and Desktop changes in v2.1.181]]
-- Later: 2026-06-29 · Claude Code · [[Changes/Claude Code/2026-06-29-improved-background-session-reliability-long-running-commands-and-workflows-now|Improved background session reliability]]
+- Later: 2026-06-22 · Codex CLI · [[Changes/Codex CLI/2026-06-22-28791-bazel-refresh-expired-macos-sdk-pin-anp-oai|♯28791 bazel: refresh expired macOS SDK pin @anp-oai]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

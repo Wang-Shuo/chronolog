@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: e7706f64131254d728c5ac99dd5684bbd03c1a1ebcf16aeb78b344d5a208d7d1
+machine_hash: 47d8476e9dcd0353f7d3e32a222e58fc0fe18485f8ea5028a2cc6206034602cd
 product: claude-code
 product_name: Claude Code
 record:
@@ -44,12 +44,12 @@ record:
   title: 2 Apps and Integrations changes in v2.1.116
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-04-13-3-apps-and-integrations-changes-in-v2-1-105|3
-  Apps and Integrations changes in v2.1.105]]'
-- '[[Changes/Claude Code/2026-04-15-4-apps-and-integrations-changes-in-v2-1-110|4
-  Apps and Integrations changes in v2.1.110]]'
-- '[[Changes/Claude Code/2026-04-16-2-apps-and-integrations-changes-in-v2-1-111|2
-  Apps and Integrations changes in v2.1.111]]'
+- '[[Changes/GitHub Copilot CLI/2026-04-16-2-apps-and-integrations-changes-in-v1-0-30|2
+  Apps and Integrations changes in v1.0.30]]'
+- '[[Changes/GitHub Copilot CLI/2026-04-16-mcp-migration-hint-now-links-to-documentation-with-platform-specific-instruction|MCP
+  migration hint now links to documentation with platform-specific instructions…]]'
+- '[[Changes/GitHub Copilot CLI/2026-04-16-3-apps-and-integrations-changes-in-v1-0-29|3
+  Apps and Integrations changes in v1.0.29]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-04-20-v2-1-116-github-311446114-3b24dc7e|claude-code-2026-04-20-v2-1-116-github-311446114-3b24dc7e]]'
 source_type: github_releases
 theme: apps-integrations
@@ -87,8 +87,8 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.116
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-04-16 · Claude Code · [[Changes/Claude Code/2026-04-16-2-apps-and-integrations-changes-in-v2-1-111|2 Apps and Integrations changes in v2.1.111]]
-- Later: 2026-04-22 · Claude Code · [[Changes/Claude Code/2026-04-22-4-apps-and-integrations-changes-in-v2-1-117|4 Apps and Integrations changes in v2.1.117]]
+- Earlier: 2026-04-16 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-04-16-3-apps-and-integrations-changes-in-v1-0-29|3 Apps and Integrations changes in v1.0.29]]
+- Later: 2026-04-20 · Codex CLI · [[Changes/Codex CLI/2026-04-20-28-apps-and-integrations-changes-in-rust-v0-122-0|28 Apps and Integrations changes in rust-v0.122.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

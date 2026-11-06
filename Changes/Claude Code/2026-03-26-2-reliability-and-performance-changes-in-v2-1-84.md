@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: a2c2b3fb51c69012eb8bba4096c474d7e2a495ea1586fcfb55278ba564f86679
+machine_hash: 96943ab91ee652e89251979e5066159f72abd25623f1726357635085e32811e3
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,10 +45,10 @@ record:
   title: 2 Reliability and Performance changes in v2.1.84
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-03-19-reduced-memory-usage-on-startup-in-large-repositories-80-mb-saved-on-250k-file-r|Reduced
-  memory usage on startup in large repositories (~80 MB saved on 250k-file repos)]]'
-- '[[Changes/Cursor/2026-03-19-composer-2-is-now-available-in-cursor-frontier-level-coding-performance-with-str|Composer
-  2 is now available in Cursor]]'
+- '[[Changes/Cline/2026-03-20-latency-improvements-for-remote-workspaces|Latency improvements
+  for remote workspaces]]'
+- '[[Changes/GitHub Copilot CLI/2026-03-20-reduced-memory-usage-when-viewing-large-files-in-their-entirety|Reduced
+  memory usage when viewing large files in their entirety]]'
 - '[[Changes/Claude Code/2026-03-25-3-reliability-and-performance-changes-in-v2-1-83|3
   Reliability and Performance changes in v2.1.83]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-03-26-v2-1-84-github-301540101-d02104aa|claude-code-2026-03-26-v2-1-84-github-301540101-d02104aa]]'

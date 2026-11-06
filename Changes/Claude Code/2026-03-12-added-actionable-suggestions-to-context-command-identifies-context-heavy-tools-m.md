@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: c9b73b03e9c8431b5a19fd2a90781386f16a027a1f5768a61a514a22d3df7f83
+machine_hash: 2a6fed5b4a7b317eb329d9b74b6f988fe9da9029146eb7f140dc8b7b703ee11b
 product: claude-code
 product_name: Claude Code
 record:
@@ -54,12 +54,12 @@ record:
   title: Added actionable suggestions to `/context` command
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-03-06-3-reliability-and-performance-changes-in-v2-1-70|3
-  Reliability and Performance changes in v2.1.70]]'
 - '[[Changes/Claude Code/2026-03-10-improved-bash-command-parsing-by-switching-to-a-native-module-faster-initializat|Improved
   bash command parsing by switching to a native module]]'
 - '[[Changes/Claude Code/2026-03-11-2-reliability-and-performance-changes-in-v2-1-73|2
   Reliability and Performance changes in v2.1.73]]'
+- '[[Changes/GitHub Copilot CLI/2026-03-11-faster-shell-commands-on-windows-by-skipping-powershell-profile-loading|Faster
+  shell commands on Windows by skipping PowerShell profile loading]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-03-12-v2-1-74-github-295929475-2ee971ae|claude-code-2026-03-12-v2-1-74-github-295929475-2ee971ae]]'
 source_type: github_releases
 theme: reliability-performance
@@ -91,8 +91,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2026-03-11 · Claude Code · [[Changes/Claude Code/2026-03-11-2-reliability-and-performance-changes-in-v2-1-73|2 Reliability and Performance changes in v2.1.73]]
-- Later: 2026-03-17 · Claude Code · [[Changes/Claude Code/2026-03-17-2-reliability-and-performance-changes-in-v2-1-77|2 Reliability and Performance changes in v2.1.77]]
+- Earlier: 2026-03-11 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-03-11-faster-shell-commands-on-windows-by-skipping-powershell-profile-loading|Faster shell commands on Windows by skipping PowerShell profile loading]]
+- Later: 2026-03-16 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-03-16-3-reliability-and-performance-changes-in-v1-0-6|3 Reliability and Performance changes in v1.0.6]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

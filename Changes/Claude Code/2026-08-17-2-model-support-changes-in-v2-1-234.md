@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 07aa01812bcd60d72ae6de08cd80f0111ae793244d2e7d1ca5cd480671b93bed
+machine_hash: e16dd2250bb91b817e15a99ade310d073c9fa0df2f8a57f3f8e33f82e0d4cb62
 product: claude-code
 product_name: Claude Code
 record:
@@ -44,12 +44,12 @@ record:
   title: 2 Model Support changes in v2.1.234
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-08-07-changed-the-bash-tool-description-to-always-note-that-command-output-is-displaye|Changed
-  the Bash tool description to always note that command output is displayed…]]'
-- '[[Changes/Claude Code/2026-08-11-changed-the-write-tool-so-newer-models-can-overwrite-an-existing-file-they-haven|Changed
-  the Write tool so newer models can overwrite an existing file they haven''t…]]'
 - '[[Changes/Claude Code/2026-08-14-2-model-support-changes-in-v2-1-233|2 Model Support
   changes in v2.1.233]]'
+- '[[Changes/Cline/2026-08-14-2-model-support-changes-in-v4-1-10|2 Model Support changes
+  in v4.1.10]]'
+- '[[Changes/GitHub Copilot CLI/2026-08-14-update-model-configurations|Update model
+  configurations]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-08-17-v2-1-234-github-371864218-2ca32673|claude-code-2026-08-17-v2-1-234-github-371864218-2ca32673]]'
 source_type: github_releases
 theme: model-support
@@ -90,8 +90,8 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.234
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-08-14 · Claude Code · [[Changes/Claude Code/2026-08-14-2-model-support-changes-in-v2-1-233|2 Model Support changes in v2.1.233]]
-- Later: 2026-08-19 · Claude Code · [[Changes/Claude Code/2026-08-19-added-anthropic-default-model-environment-variable-sets-the-model-new-sessions-s|Added ANTHROPIC_DEFAULT_MODEL environment variable]]
+- Earlier: 2026-08-14 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-08-14-update-model-configurations|Update model configurations]]
+- Later: 2026-08-17 · OpenHands · [[Changes/OpenHands/2026-08-17-feat-add-llm-pre-flight-validation-to-prevent-saving-misconfigured-profiles-by-n|feat: add LLM pre-flight validation to prevent saving misconfigured profiles]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

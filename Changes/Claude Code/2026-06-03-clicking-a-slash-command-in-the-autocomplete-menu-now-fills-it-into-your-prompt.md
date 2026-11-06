@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 39bff0ed309905a16cea0d5384ec10a6b85dea2b921e51e67dc1bd8299fa4876
+machine_hash: de0f76d535494d31efeed694b555e53f14c80d16ec0f711dd565cf405f17cf9d
 product: claude-code
 product_name: Claude Code
 record:
@@ -54,10 +54,10 @@ record:
     prompt…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-05-28-2-interface-experience-changes-in-v2-1-153|2 Interface
-  Experience changes in v2.1.153]]'
-- '[[Changes/Claude Code/2026-05-29-claude-agents-slash-command-autocomplete-in-the-dispatch-input-now-matches-subst|claude
-  agents: slash-command autocomplete in the dispatch input now matches substrings]]'
+- '[[Changes/GitHub Copilot CLI/2026-05-29-reasoning-effort-picker-respects-model-capabilities-options-not-supported-by-the|Reasoning
+  effort picker respects model capabilities]]'
+- '[[Changes/Codex CLI/2026-06-01-2-interface-experience-changes-in-rust-v0-136-0|2
+  Interface Experience changes in rust-v0.136.0]]'
 - '[[Changes/Claude Code/2026-06-02-2-interface-experience-changes-in-v2-1-161|2 Interface
   Experience changes in v2.1.161]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-06-03-v2-1-162-github-333906405-cdc7c67c|claude-code-2026-06-03-v2-1-162-github-333906405-cdc7c67c]]'

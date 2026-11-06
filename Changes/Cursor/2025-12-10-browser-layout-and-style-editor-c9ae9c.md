@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 218315052020a8727e3534ef256dba14d8cc34eead6fe25e93e67aac021de7f7
+machine_hash: 756571a7745c29efee978304ac05058c7ba0af70c79eb7fe4f05903f3e479d4c
 product: cursor
 product_name: Cursor
 record:
@@ -50,11 +50,12 @@ record:
   title: Browser layout and style editor
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-09-29-1-7-4-shift-tab-shortcut-improvements|1.7.4: Shift+Tab
-  shortcut improvements]]'
-- '[[Changes/Cursor/2025-09-29-pr-summaries-from-bugbot|PR summaries from Bugbot]]'
-- '[[Changes/Cursor/2025-11-21-4-editor-experience-changes-in-2-1|4 Editor Experience
-  changes in 2.1]]'
+- '[[Changes/Gemini CLI/2025-12-02-restore-bracketed-paste-mode-after-external-editor-exit-by-scidomino-in-https-gi|Restore
+  bracketed paste mode after external editor exit]]'
+- '[[Changes/Cline/2025-12-04-set-the-cli-s-ide-version-to-just-the-cli-version-rather-than-being-blank-to-mak|set
+  the cli''s ''ide version'' to just the cli version rather than being blank, to make…]]'
+- '[[Changes/Codex CLI/2025-12-09-3-editor-experience-changes-in-rust-v0-66-0|3 Editor
+  Experience changes in rust-v0.66.0]]'
 source_release: '[[Releases/Cursor/cursor-2025-12-10-2-2-https-cursor-com-changelog-2-2-297c9323|cursor-2025-12-10-2-2-https-cursor-com-changelog-2-2-297c9323]]'
 source_type: cursor_changelog
 theme: editor-experience
@@ -93,8 +94,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2025-11-21 · Cursor · [[Changes/Cursor/2025-11-21-4-editor-experience-changes-in-2-1|4 Editor Experience changes in 2.1]]
-- Later: 2025-12-17 · ChatGPT · [[Changes/ChatGPT/2025-12-17-edit-and-review-tasks-in-pulse-anytime-after-you-create-them-please-note-that-pu|Edit and review tasks in Pulse anytime after you create them]]
+- Earlier: 2025-12-09 · Codex CLI · [[Changes/Codex CLI/2025-12-09-3-editor-experience-changes-in-rust-v0-66-0|3 Editor Experience changes in rust-v0.66.0]]
+- Later: 2025-12-10 · Windsurf · [[Changes/Windsurf/2025-12-10-diff-zones|Diff Zones]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

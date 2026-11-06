@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 71610a5c3e123c02a2ba3f533a0c4f6b9622536a1d8f892dda35a99a0c85b7bd
+machine_hash: 3cae4d988c90b1e2c3465aa59d2c264db0d2bd0962f054a85ad39a73a0290696
 product: claude-code
 product_name: Claude Code
 record:
@@ -52,12 +52,12 @@ record:
   title: 3 Model Support changes in v2.1.295
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-06-added-prompt-caching-to-model-complete-for-mods-prompt-and-system-take-blocks-of|Added
-  prompt caching to $.model.complete for mods]]'
-- '[[Changes/ChatGPT/2026-10-07-we-re-introducing-gpt-6-with-intelligent-ui-in-chatgpt-chatgpt-can-now-combine-t|GPT-6
-  and Intelligent UI in ChatGPT]]'
-- '[[Changes/Claude Code/2026-10-07-added-claude-haiku-5-5-claude-haiku-5-5-now-the-default-haiku-model-on-the-anthr|Added
-  Claude Haiku 5.5 (claude-haiku-5-5), now the default Haiku model…]]'
+- '[[Changes/Cline/2026-10-07-3-model-support-changes-in-v4-1-23|3 Model Support changes
+  in v4.1.23]]'
+- '[[Changes/Codex CLI/2026-10-07-9-model-support-changes-in-rust-v0-161-0|9 Model
+  Support changes in rust-v0.161.0]]'
+- '[[Changes/GitHub Copilot CLI/2026-10-07-model-picker-updates-the-recommended-list-to-prioritize-gpt-6-1-sol-gpt-6-astra|Model
+  picker updates the recommended list to prioritize GPT-6.1 Sol, GPT-6…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-10-08-v2-1-295-github-407134589-d5c87510|claude-code-2026-10-08-v2-1-295-github-407134589-d5c87510]]'
 source_type: github_releases
 theme: model-support
@@ -103,8 +103,8 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.295
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-10-07 · Claude Code · [[Changes/Claude Code/2026-10-07-added-claude-haiku-5-5-claude-haiku-5-5-now-the-default-haiku-model-on-the-anthr|Added Claude Haiku 5.5 (claude-haiku-5-5), now the default Haiku model…]]
-- Later: 2026-10-09 · Claude Code · [[Changes/Claude Code/2026-10-09-claude-tag-changed-claude-in-slack-to-show-the-footer-with-the-session-link-mode|Claude Tag Changed Claude in Slack to show the footer with the session link, model…]]
+- Earlier: 2026-10-07 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-10-07-model-picker-updates-the-recommended-list-to-prioritize-gpt-6-1-sol-gpt-6-astra|Model picker updates the recommended list to prioritize GPT-6.1 Sol, GPT-6…]]
+- Later: 2026-10-08 · Codex CLI · [[Changes/Codex CLI/2026-10-08-11-model-support-changes-in-rust-v0-162-0|11 Model Support changes in rust-v0.162.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

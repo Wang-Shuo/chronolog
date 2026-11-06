@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 4df05ea676aa125902ad052f3b1b13315bf5d9ff97c8c201992b3675f2ba50e7
+machine_hash: 6f00cc2fb620daf1c66050379d59aa1c2e76399df78a211ce0076281e694bd25
 product: claude-code
 product_name: Claude Code
 record:
@@ -47,12 +47,12 @@ record:
   title: 3 Developer Workflow changes in v2.1.144
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-05-13-environment-configuration-as-code-827fd1|Environment
-  configuration as code]]'
-- '[[Changes/Cursor/2026-05-13-removed-noisy-in-app-terminal-notifications-and-improved-shortcut-behavior|Removed
-  noisy in-app terminal notifications and improved shortcut behavior]]'
 - '[[Changes/Claude Code/2026-05-15-2-developer-workflow-changes-in-v2-1-143|2 Developer
   Workflow changes in v2.1.143]]'
+- '[[Changes/Windsurf/2026-05-16-2-developer-workflow-changes-in-v2-3-9|2 Developer
+  Workflow changes in v2.3.9]]'
+- '[[Changes/Codex CLI/2026-05-18-12-developer-workflow-changes-in-rust-v0-131-0|12
+  Developer Workflow changes in rust-v0.131.0]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-05-19-v2-1-144-github-324524751-1469637a|claude-code-2026-05-19-v2-1-144-github-324524751-1469637a]]'
 source_type: github_releases
 theme: developer-workflow
@@ -97,8 +97,8 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.144
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2026-05-15 · Claude Code · [[Changes/Claude Code/2026-05-15-2-developer-workflow-changes-in-v2-1-143|2 Developer Workflow changes in v2.1.143]]
-- Later: 2026-05-21 · Claude Code · [[Changes/Claude Code/2026-05-21-renamed-simplify-to-code-review-with-an-optional-effort-level-e-g-code-review-hi|Renamed /simplify to /code-review with an optional effort level…]]
+- Earlier: 2026-05-18 · Codex CLI · [[Changes/Codex CLI/2026-05-18-12-developer-workflow-changes-in-rust-v0-131-0|12 Developer Workflow changes in rust-v0.131.0]]
+- Later: 2026-05-19 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-05-19-2-developer-workflow-changes-in-v1-0-49|2 Developer Workflow changes in v1.0.49]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

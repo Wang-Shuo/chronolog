@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 431dbfc23a7bf1237a9e031a2de99312d4a40f829b92f31a1fd8959b7420c194
+machine_hash: 77604a2a4b161981e6e2b0a8cb30d28e2a06b9007a75d9f1a8a31c869b5e20ab
 product: cursor
 product_name: Cursor
 record:
@@ -44,12 +44,12 @@ record:
   title: 2 Mobile and Desktop changes in CLI Improvements and Mermaid ASCII…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-01-09-added-support-for-windows-package-manager-winget-installations-with-automatic-de|Added
-  support for Windows Package Manager (winget) installations with automatic…]]'
-- '[[Changes/Cursor/2026-01-22-windows-notifications-now-have-accept-reject-buttons-like-macos|Windows
-  notifications now have accept/reject buttons like MacOS]]'
+- '[[Changes/Codex CLI/2026-02-12-4-mobile-and-desktop-changes-in-rust-v0-100-0|4
+  Mobile and Desktop changes in rust-v0.100.0]]'
 - '[[Changes/Claude Code/2026-02-13-added-windows-arm64-win32-arm64-native-binary-support|Added
   Windows ARM64 (win32-arm64) native binary support]]'
+- '[[Changes/Codex CLI/2026-02-17-2-mobile-and-desktop-changes-in-rust-v0-102-0|2
+  Mobile and Desktop changes in rust-v0.102.0]]'
 source_release: '[[Releases/Cursor/cursor-2026-02-18-cli-improvements-and-mermaid-ascii-diagrams-https-cursor-com-cha-a75d36c7|cursor-2026-02-18-cli-improvements-and-mermaid-ascii-diagrams-https-cursor-com-cha-a75d36c7]]'
 source_type: cursor_changelog
 theme: mobile-desktop
@@ -93,8 +93,8 @@ Source: https://cursor.com/changelog/cli-feb-18-2026
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2026-02-13 · Claude Code · [[Changes/Claude Code/2026-02-13-added-windows-arm64-win32-arm64-native-binary-support|Added Windows ARM64 (win32-arm64) native binary support]]
-- Later: 2026-03-05 · Claude Code · [[Changes/Claude Code/2026-03-05-2-mobile-and-desktop-changes-in-v2-1-69|2 Mobile and Desktop changes in v2.1.69]]
+- Earlier: 2026-02-17 · Codex CLI · [[Changes/Codex CLI/2026-02-17-2-mobile-and-desktop-changes-in-rust-v0-102-0|2 Mobile and Desktop changes in rust-v0.102.0]]
+- Later: 2026-02-18 · Gemini CLI · [[Changes/Gemini CLI/2026-02-18-feat-expand-verify-release-to-macos-and-windows-by-yunaseoul-in-https-github-com|feat: expand verify-release to macOS and Windows]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

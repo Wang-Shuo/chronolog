@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: a5e56363614eaae0111516297c26f7ee540604ac2fcd16996499f6217b2f16f8
+machine_hash: 7f2c8bd1ea8309d730f16b7390445dbccf7a28d172ee667123f14ac91cae252f
 product: claude-code
 product_name: Claude Code
 record:
@@ -51,11 +51,12 @@ record:
   title: 4 Editor Experience changes in v2.1.97
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-04-02-2-editor-experience-changes-in-3-0|2 Editor Experience
-  changes in 3.0]]'
-- '[[Changes/Cursor/2026-04-02-agent-tabs-in-the-editor|Agent Tabs in the Editor]]'
-- '[[Changes/Claude Code/2026-04-04-removed-vim-command-toggle-vim-mode-via-config-editor-mode|Removed
-  /vim command (toggle vim mode via /config → Editor mode)]]'
+- '[[Changes/GitHub Copilot CLI/2026-04-06-skip-ide-auto-connect-when-session-is-already-in-use-by-another-client|Skip
+  IDE auto-connect when session is already in use by another client]]'
+- '[[Changes/GitHub Copilot CLI/2026-04-07-add-copilot-help-monitoring-topic-with-opentelemetry-configuration-details-and-e|Add
+  copilot help monitoring topic with OpenTelemetry configuration details and examples]]'
+- '[[Changes/GitHub Copilot CLI/2026-04-07-timeline-no-longer-goes-blank-when-content-shrinks-e-g-after-cancelling-or-tool|Timeline
+  no longer goes blank when content shrinks…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-04-08-v2-1-97-github-306811434-0f57bf33|claude-code-2026-04-08-v2-1-97-github-306811434-0f57bf33]]'
 source_type: github_releases
 theme: editor-experience
@@ -97,8 +98,8 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.97
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2026-04-04 · Claude Code · [[Changes/Claude Code/2026-04-04-removed-vim-command-toggle-vim-mode-via-config-editor-mode|Removed /vim command (toggle vim mode via /config → Editor mode)]]
-- Later: 2026-04-09 · Claude Code · [[Changes/Claude Code/2026-04-09-2-editor-experience-changes-in-v2-1-98|2 Editor Experience changes in v2.1.98]]
+- Earlier: 2026-04-07 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-04-07-timeline-no-longer-goes-blank-when-content-shrinks-e-g-after-cancelling-or-tool|Timeline no longer goes blank when content shrinks…]]
+- Later: 2026-04-08 · Gemini CLI · [[Changes/Gemini CLI/2026-04-08-feat-cli-support-tab-to-queue-for-messages-while-generating-by-gundermanc-in-htt|feat(cli): support 'tab to queue' for messages while generating]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

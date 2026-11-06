@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: b97ac89dee93edd6fb2c631f09c096e6f056a3e73cbc5799fd0a2a1bfc729de2
+machine_hash: 7311ab9446fd819ca05d596ddf8d358c0f7fdb5a79da168caa20e711de8eb061
 product: claude-code
 product_name: Claude Code
 record:
@@ -54,10 +54,10 @@ record:
   title: 5 Apps and Integrations changes in v2.1.118
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-04-20-2-apps-and-integrations-changes-in-v2-1-116|2
-  Apps and Integrations changes in v2.1.116]]'
 - '[[Changes/Claude Code/2026-04-22-4-apps-and-integrations-changes-in-v2-1-117|4
   Apps and Integrations changes in v2.1.117]]'
+- '[[Changes/Cline/2026-04-22-wire-up-remote-globalskills-from-enterprise-remote-config-with-full-ui-toggle-su|Wire
+  up remote globalSkills from enterprise remote config with full UI, toggle…]]'
 - '[[Changes/Claude Code/2026-04-23-3-apps-and-integrations-changes-in-v2-1-119|3
   Apps and Integrations changes in v2.1.119]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-04-23-v2-1-118-github-312487295-b3c6b04c|claude-code-2026-04-23-v2-1-118-github-312487295-b3c6b04c]]'
@@ -105,7 +105,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.118
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-04-23 · Claude Code · [[Changes/Claude Code/2026-04-23-3-apps-and-integrations-changes-in-v2-1-119|3 Apps and Integrations changes in v2.1.119]]
-- Later: 2026-04-28 · Claude Code · [[Changes/Claude Code/2026-04-28-2-apps-and-integrations-changes-in-v2-1-122|2 Apps and Integrations changes in v2.1.122]]
+- Later: 2026-04-23 · Codex CLI · [[Changes/Codex CLI/2026-04-23-12-apps-and-integrations-changes-in-rust-v0-124-0|12 Apps and Integrations changes in rust-v0.124.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

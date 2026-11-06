@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: accessibility-localization
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 3f108bfae2f77ea02da1fd930a2957ed9fefa53a0350893c3fad12b24658e8c6
+machine_hash: b35af9a6ae22f0e95c7eb494b902eb98011ecf4da51c297756271aeaa4e0242a
 product: claude-code
 product_name: Claude Code
 record:
@@ -44,8 +44,8 @@ record:
   title: Added screen-reader announcements of deleted text for word and line deletions…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-06-12-session-titles-are-now-generated-in-the-language-of-your-conversation-set-the-la|Session
-  titles are now generated in the language of your conversation…]]'
+- '[[Changes/Codex CLI/2026-06-22-28770-connectors-ignore-synthetic-links-for-app-accessibility-adaley-openai|♯28770
+  connectors Ignore synthetic links for app accessibility @adaley-openai]]'
 - '[[Changes/Claude Code/2026-07-03-improved-screen-reader-output-decorative-glyphs-are-now-hidden-transcript-symbol|Improved
   screen-reader output]]'
 - '[[Changes/Claude Code/2026-07-14-added-screen-reader-mode-opt-in-plain-text-rendering-for-screen-reader-users-run|Added

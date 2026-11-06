@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: memory
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 279c81ea288b0de7ffc2ea36c149ef6b82256ce427e89811316227bdf3d10239
+machine_hash: 7bd48f54f293cc8407c49af16e9774ced1e38f04fc8d3d7d0dbec1eb3e849048
 product: claude-code
 product_name: Claude Code
 record:
@@ -97,7 +97,7 @@ type: change
 ## Nearby in Memory and Personalization
 
 - Earlier: 2026-08-20 · ChatGPT · [[Changes/ChatGPT/2026-08-20-use-computer-history-in-more-regions-computer-history-is-now-available-in-the-ee|Use Computer History in more regions]]
-- Later: 2026-08-27 · ChatGPT · [[Changes/ChatGPT/2026-08-27-3-memory-and-personalization-changes-in-more-controls-in-temporary-chat|3 Memory and Personalization changes in More controls in temporary chat]]
+- Later: 2026-08-20 · Codex CLI · [[Changes/Codex CLI/2026-08-20-2-memory-and-personalization-changes-in-rust-v0-149-0|2 Memory and Personalization changes in rust-v0.149.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: bf01be0bcb744a16bcfef84b1a90ffbb2fe158e1fdea0c05b58ee262feade051
+machine_hash: 2cbb3e0181c213358820ea678fd51b1cda9346ff4ba1ea532a426ddbfca23b3d
 product: cursor
 product_name: Cursor
 record:
@@ -54,12 +54,12 @@ record:
   title: Long-running Agents in Research Preview
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-02-03-added-token-count-tool-uses-and-duration-metrics-to-task-tool-results|Added
-  token count, tool uses, and duration metrics to Task tool results]]'
-- '[[Changes/Claude Code/2026-02-05-updated-resume-to-re-use-agent-value-specified-in-previous-conversation-by-defau|Updated
-  --resume to re-use --agent value specified in previous conversation by default]]'
-- '[[Changes/Claude Code/2026-02-06-2-agent-mode-changes-in-v2-1-33|2 Agent Mode changes
-  in v2.1.33]]'
+- '[[Changes/GitHub Copilot CLI/2026-02-11-3-agent-mode-changes-in-v0-0-407|3 Agent
+  Mode changes in v0.0.407]]'
+- '[[Changes/Cline/2026-02-12-subagent-replace-legacy-subagents-with-the-native-use-subagents-tool|Subagent:
+  replace legacy subagents with the native use_subagents tool]]'
+- '[[Changes/Codex CLI/2026-02-12-2-agent-mode-changes-in-rust-v0-100-0|2 Agent Mode
+  changes in rust-v0.100.0]]'
 source_release: '[[Releases/Cursor/cursor-2026-02-12-long-running-agents-in-research-preview-https-cursor-com-changel-2b95c718|cursor-2026-02-12-long-running-agents-in-research-preview-https-cursor-com-changel-2b95c718]]'
 source_type: cursor_changelog
 theme: agent-mode
@@ -90,8 +90,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2026-02-06 · Claude Code · [[Changes/Claude Code/2026-02-06-2-agent-mode-changes-in-v2-1-33|2 Agent Mode changes in v2.1.33]]
-- Later: 2026-02-17 · Cursor · [[Changes/Cursor/2026-02-17-async-subagents|Async subagents]]
+- Earlier: 2026-02-12 · Codex CLI · [[Changes/Codex CLI/2026-02-12-2-agent-mode-changes-in-rust-v0-100-0|2 Agent Mode changes in rust-v0.100.0]]
+- Later: 2026-02-12 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-02-12-subagents-return-complete-responses|Subagents return complete responses]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

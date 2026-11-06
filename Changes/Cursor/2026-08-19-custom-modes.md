@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: d80e69773e78d512f8df5c4422eedf66f45d5b35382239c7f08a23ec887a3c29
+machine_hash: 2c1d7c2f91ff5fa9a1c0c90c106622c8d89404121a20626ee5484b965a4f6b5b
 product: cursor
 product_name: Cursor
 record:
@@ -48,9 +48,10 @@ record:
   title: Custom modes
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-08-17-removed-the-redundant-allowed-by-auto-mode-classifier-line-that-auto-mode-showed|Removed
-  the redundant "Allowed by auto mode classifier" line that auto mode showed…]]'
-- '[[Changes/Cursor/2026-08-17-agents-in-every-repo|Agents in every repo]]'
+- '[[Changes/OpenHands/2026-08-17-docs-agents-add-a-repository-map-clarifying-what-belongs-where-by-smolpaws-in-ht|docs(agents):
+  add a repository map clarifying what belongs where]]'
+- '[[Changes/Codex CLI/2026-08-18-12-agent-mode-changes-in-rust-v0-148-0|12 Agent
+  Mode changes in rust-v0.148.0]]'
 - '[[Changes/Claude Code/2026-08-19-4-agent-mode-changes-in-v2-1-236|4 Agent Mode
   changes in v2.1.236]]'
 source_release: '[[Releases/Cursor/cursor-2026-08-19-cloud-agents-and-cursor-harness-improvements-https-cursor-com-ch-a4daf0c1|cursor-2026-08-19-cloud-agents-and-cursor-harness-improvements-https-cursor-com-ch-a4daf0c1]]'
@@ -88,7 +89,7 @@ type: change
 ## Nearby in Agent Mode
 
 - Earlier: 2026-08-19 · Claude Code · [[Changes/Claude Code/2026-08-19-4-agent-mode-changes-in-v2-1-236|4 Agent Mode changes in v2.1.236]]
-- Later: 2026-08-21 · Claude Code · [[Changes/Claude Code/2026-08-21-2-agent-mode-changes-in-v2-1-239|2 Agent Mode changes in v2.1.239]]
+- Later: 2026-08-20 · Codex CLI · [[Changes/Codex CLI/2026-08-20-12-agent-mode-changes-in-rust-v0-149-0|12 Agent Mode changes in rust-v0.149.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

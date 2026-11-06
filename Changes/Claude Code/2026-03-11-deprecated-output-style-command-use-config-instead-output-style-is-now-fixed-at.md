@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: policy
-machine_hash: 140c1af5f9aad89c0125ac5c2ba81293e36f77765d93deb18bfe29525332a9fc
+machine_hash: 03e9aa936ffb0f2d616c5d67ccdd0f45b2f5a2906cf3c9fd469521190f19d6ef
 product: claude-code
 product_name: Claude Code
 record:
@@ -43,12 +43,11 @@ record:
   title: Deprecated `/output-style` command — use `/config` instead
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-03-05-6-developer-workflow-changes-in-v2-1-69|6 Developer
-  Workflow changes in v2.1.69]]'
-- '[[Changes/Claude Code/2026-03-07-2-developer-workflow-changes-in-v2-1-71|2 Developer
-  Workflow changes in v2.1.71]]'
+- '[[Changes/Windsurf/2026-03-09-cascade|Cascade]]'
 - '[[Changes/Claude Code/2026-03-10-3-developer-workflow-changes-in-v2-1-72|3 Developer
   Workflow changes in v2.1.72]]'
+- '[[Changes/Codex CLI/2026-03-10-8-developer-workflow-changes-in-rust-v0-113-0|8
+  Developer Workflow changes in rust-v0.113.0]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-03-11-v2-1-73-github-295814700-0abb054f|claude-code-2026-03-11-v2-1-73-github-295814700-0abb054f]]'
 source_type: github_releases
 theme: developer-workflow
@@ -83,8 +82,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2026-03-10 · Claude Code · [[Changes/Claude Code/2026-03-10-3-developer-workflow-changes-in-v2-1-72|3 Developer Workflow changes in v2.1.72]]
-- Later: 2026-03-12 · Claude Code · [[Changes/Claude Code/2026-03-12-vscode-improved-scroll-wheel-responsiveness-in-the-integrated-terminal-with-term|VSCode Improved scroll wheel responsiveness in the integrated terminal…]]
+- Earlier: 2026-03-10 · Codex CLI · [[Changes/Codex CLI/2026-03-10-8-developer-workflow-changes-in-rust-v0-113-0|8 Developer Workflow changes in rust-v0.113.0]]
+- Later: 2026-03-11 · Codex CLI · [[Changes/Codex CLI/2026-03-11-3-developer-workflow-changes-in-rust-v0-114-0|3 Developer Workflow changes in rust-v0.114.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

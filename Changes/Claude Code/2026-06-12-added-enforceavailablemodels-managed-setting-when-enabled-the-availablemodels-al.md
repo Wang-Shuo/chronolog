@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 42e4a71887b2c18cf7d2272f2b19546b53d2a710a3b812cd29f2bd6144697952
+machine_hash: 21c64230ad1ad389eb926fb8930072f3cf6751f13bef326454862a2bc9f66e73
 product: claude-code
 product_name: Claude Code
 record:
@@ -50,10 +50,10 @@ record:
   title: Added `enforceAvailableModels` managed setting
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-06-10-pro-standard-pro-plans-only|Pro Standard Pro plans
-  only]]'
-- '[[Changes/Claude Code/2026-06-10-2-model-support-changes-in-v2-1-172|2 Model Support
-  changes in v2.1.172]]'
+- '[[Changes/OpenHands/2026-06-10-added-llm-profiles-by-vascosch92-in-https-github-com-openhands-openhands-pull-14|Added
+  LLM profiles]]'
+- '[[Changes/Cline/2026-06-11-handle-the-deepseek-v4-reasoning-format|Handle the DeepSeek
+  V4 reasoning format]]'
 - '[[Changes/ChatGPT/2026-06-12-as-of-june-12-2026-gpt-5-2-models-are-no-longer-available-in-chatgpt-this-applie|Retiring
   GPT-5.2 models]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-06-12-v2-1-175-github-338335820-6f3a7124|claude-code-2026-06-12-v2-1-175-github-338335820-6f3a7124]]'
@@ -83,7 +83,7 @@ type: change
 ## Nearby in Model Support
 
 - Earlier: 2026-06-12 · ChatGPT · [[Changes/ChatGPT/2026-06-12-as-of-june-12-2026-gpt-5-2-models-are-no-longer-available-in-chatgpt-this-applie|Retiring GPT-5.2 models]]
-- Later: 2026-06-15 · Claude Code · [[Changes/Claude Code/2026-06-15-bug-now-requires-a-description-before-submitting-and-no-longer-uses-model-refusa|/bug now requires a description before submitting, and no longer uses…]]
+- Later: 2026-06-13 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-06-13-3-model-support-changes-in-v1-0-62|3 Model Support changes in v1.0.62]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

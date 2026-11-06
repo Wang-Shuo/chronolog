@@ -4,20 +4,20 @@ date: '2026-07-08'
 description: 'ChatGPT · 2026-07-08 · Voice and Audio: We’re rolling out a new ChatGPT
   Voice experience. ChatGPT Voice is now powered by GPT-Live-1 for paid users and…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-09-25-you-can-now-use-voice-to-engage-in-a-back-and-forth-conversation-with-your-assis-13666e|Voice
-    (Beta) is now rolling out to Plus users on iOS and Android]]'
+  first_in_tracked: '[[Changes/Aider/2023-08-11-voice-to-code-https-aider-chat-docs-voice-html-support-which-allows-you-to-code|Voice-to-code((source
+    link) support, which allows you…]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1017
+  lag_days: 1062
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: e8ce9b5d11e65d76f5a9d3a6443f7960d446e6775108b4a6171cf7ea85e50631
+machine_hash: b20b844d4963191f6cb5b1cfe4fe04d8fd165657321282d24c014ce3aa01654d
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -89,12 +89,12 @@ record:
   title: Introducing GPT-Live-1 in ChatGPT Voice
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-06-18-help-with-pronunciations-chatgpt-can-now-include-text-and-audio-pronunciation-gu|Help
-  with pronunciations]]'
 - '[[Changes/ChatGPT/2026-06-26-we-re-rolling-out-a-new-speech-to-text-model-for-dictation-in-chatgpt-across-all|Improved
   dictation in ChatGPT]]'
 - '[[Changes/Claude Code/2026-06-26-improved-voice-mode-on-linux-now-distinguishes-no-microphone-from-sox-not-instal|Improved
   voice mode on Linux]]'
+- '[[Changes/GitHub Copilot CLI/2026-06-30-voice-mode-turns-itself-off-when-the-engine-fails-to-start-at-boot|Voice
+  mode turns itself off when the engine fails to start at boot]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-07-08-introducing-gpt-live-1-in-chatgpt-voice-9a0cfc91|chatgpt-2026-07-08-introducing-gpt-live-1-in-chatgpt-voice-9a0cfc91]]'
 source_type: chatgpt_changelog
 theme: voice
@@ -121,14 +121,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Voice and Audio
 
-- Earlier: 2026-06-26 · Claude Code · [[Changes/Claude Code/2026-06-26-improved-voice-mode-on-linux-now-distinguishes-no-microphone-from-sox-not-instal|Improved voice mode on Linux]]
+- Earlier: 2026-06-30 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-06-30-voice-mode-turns-itself-off-when-the-engine-fails-to-start-at-boot|Voice mode turns itself off when the engine fails to start at boot]]
 - Later: 2026-07-13 · ChatGPT · [[Changes/ChatGPT/2026-07-13-chatgpt-is-available-again-on-whatsapp-in-the-european-economic-area-eea-you-can-f60c71|ChatGPT returns to WhatsApp in the EEA]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-09-25 · ChatGPT · [[Changes/ChatGPT/2023-09-25-you-can-now-use-voice-to-engage-in-a-back-and-forth-conversation-with-your-assis-13666e|Voice (Beta) is now rolling out to Plus users on iOS and Android]]
+- Earliest same-theme entry in the tracked set: 2023-08-11 · Aider · [[Changes/Aider/2023-08-11-voice-to-code-https-aider-chat-docs-voice-html-support-which-allows-you-to-code|Voice-to-code((source link) support, which allows you…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

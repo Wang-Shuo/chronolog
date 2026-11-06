@@ -5,20 +5,20 @@ description: 'ChatGPT · 2026-10-06 · Voice and Audio: Upload audio files to Ch
   to create transcripts, summarize recordings, and ask questions about their contents.
   You…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-09-25-you-can-now-use-voice-to-engage-in-a-back-and-forth-conversation-with-your-assis-13666e|Voice
-    (Beta) is now rolling out to Plus users on iOS and Android]]'
+  first_in_tracked: '[[Changes/Aider/2023-08-11-voice-to-code-https-aider-chat-docs-voice-html-support-which-allows-you-to-code|Voice-to-code((source
+    link) support, which allows you…]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1107
+  lag_days: 1152
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 15325ccc02c8ed36222485134fe66555f25b7ef7880c46f47f67abd58c9b683a
+machine_hash: 1bd36528b29aede292e886e1c1f2cb31f12e1a39f514a0d32451ed0b3332e6c5
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -71,12 +71,12 @@ record:
   title: Audio uploads in ChatGPT
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-08-31-to-continue-a-voice-conversation-outside-chatgpt-turn-on-background-conversation|To
-  continue a Voice conversation outside ChatGPT, turn on Background conversations…]]'
-- '[[Changes/ChatGPT/2026-09-23-live-now-supports-plugins-on-web-ios-and-android-you-can-use-the-plugins-and-con-88a242|Use
-  plugins in Voice and get work done by speaking]]'
-- '[[Changes/ChatGPT/2026-09-29-audio-is-deleted-once-your-notes-are-ready-and-can-t-be-accessed-or-replayed-ava|Audio
-  is deleted once your notes are ready and can’t be accessed or replayed]]'
+- '[[Changes/GitHub Copilot CLI/2026-09-30-holding-space-and-ctrl-x-v-explain-when-voice-mode-is-off-or-still-getting-ready|Holding
+  Space and Ctrl+X V explain when voice mode is off or still getting ready]]'
+- '[[Changes/Codex CLI/2026-10-01-49073-surface-realtime-voice-catalog-failures-in-the-tui-etraut-openai|♯49073
+  Surface realtime voice catalog failures in the TUI @etraut-openai]]'
+- '[[Changes/GitHub Copilot CLI/2026-10-05-voice-runtime-install-errors-name-why-the-download-from-nuget-org-failed-not-onl|Voice
+  runtime install errors name why the download from nuget.org failed, not only…]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-10-06-audio-uploads-in-chatgpt-e9ed5a9f|chatgpt-2026-10-06-audio-uploads-in-chatgpt-e9ed5a9f]]'
 source_type: chatgpt_changelog
 theme: voice
@@ -103,14 +103,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Voice and Audio
 
-- Earlier: 2026-09-29 · ChatGPT · [[Changes/ChatGPT/2026-09-29-audio-is-deleted-once-your-notes-are-ready-and-can-t-be-accessed-or-replayed-ava|Audio is deleted once your notes are ready and can’t be accessed or replayed]]
-- Later: 2026-10-14 · Claude Code · [[Changes/Claude Code/2026-10-14-claude-tag-added-support-for-slack-voice-clips-in-claude-in-slack-claude-reads-s|Claude Tag Added support for Slack voice clips in Claude in Slack]]
+- Earlier: 2026-10-05 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-10-05-voice-runtime-install-errors-name-why-the-download-from-nuget-org-failed-not-onl|Voice runtime install errors name why the download from nuget.org failed, not only…]]
+- Later: 2026-10-06 · OpenHands · [[Changes/OpenHands/2026-10-06-feat-chat-add-optional-voice-dictation-to-the-chat-input-by-vascosch92-in-https|feat(chat): add optional voice dictation to the chat input]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-09-25 · ChatGPT · [[Changes/ChatGPT/2023-09-25-you-can-now-use-voice-to-engage-in-a-back-and-forth-conversation-with-your-assis-13666e|Voice (Beta) is now rolling out to Plus users on iOS and Android]]
+- Earliest same-theme entry in the tracked set: 2023-08-11 · Aider · [[Changes/Aider/2023-08-11-voice-to-code-https-aider-chat-docs-voice-html-support-which-allows-you-to-code|Voice-to-code((source link) support, which allows you…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

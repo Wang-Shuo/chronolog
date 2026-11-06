@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: a237463c69d4463e20d64788d9cad5ce911852207f79573590d0ea953bd05047
+machine_hash: 5206d2540225ef0e9fae85848c101335dc3a66d471de32170c528af2d4ef64f9
 product: cursor
 product_name: Cursor
 record:
@@ -54,10 +54,10 @@ record:
   title: Background Agent (Preview)
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-03-23-built-in-modes-custom-modes-beta|Built-in modes & custom
-  modes (beta)]]'
-- '[[Changes/Cursor/2025-04-15-reviewing-agent-generated-code-is-now-easier-with-a-built-in-diff-view-at-the-en|Making
-  reviews easier]]'
+- '[[Changes/OpenHands/2025-05-01-added-support-for-agent-pause-and-resume-functionality-in-the-cli-by-pandukamudi|Added
+  support for agent pause and resume functionality in the CLI]]'
+- '[[Changes/OpenHands/2025-05-12-added-the-ability-for-the-agent-to-save-browser-screenshots-as-image-files-by-xi|Added
+  the ability for the agent to save browser screenshots as image files]]'
 - '[[Changes/Cursor/2025-05-15-fast-edits-for-long-files-with-agent|Fast edits for
   long files with Agent]]'
 source_release: '[[Releases/Cursor/cursor-2025-05-15-0-50-https-cursor-com-changelog-0-50-dc290998|cursor-2025-05-15-0-50-https-cursor-com-changelog-0-50-dc290998]]'
@@ -99,8 +99,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2025-04-15 · Cursor · [[Changes/Cursor/2025-04-15-reviewing-agent-generated-code-is-now-easier-with-a-built-in-diff-view-at-the-en|Making reviews easier]]
-- Later: 2025-06-04 · Cursor · [[Changes/Cursor/2025-06-04-open-background-agent-control-panel-with-cmd-ctrl-e|Open Background Agent control panel with Cmd/Ctrl+E]]
+- Earlier: 2025-05-12 · OpenHands · [[Changes/OpenHands/2025-05-12-added-the-ability-for-the-agent-to-save-browser-screenshots-as-image-files-by-xi|Added the ability for the agent to save browser screenshots as image files]]
+- Later: 2025-05-20 · OpenHands · [[Changes/OpenHands/2025-05-20-2-agent-mode-changes-in-0-39-0|2 Agent Mode changes in 0.39.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

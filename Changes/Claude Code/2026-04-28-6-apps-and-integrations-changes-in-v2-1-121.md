@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 73f1f1470e552a476bdd595c580416f9509fbb5c2963d7ea073259a78aa913d1
+machine_hash: e73547fee2fb5a903d6b82e1eef80cd1b15aee510141bcc371730714a1234b53
 product: claude-code
 product_name: Claude Code
 record:
@@ -56,10 +56,10 @@ record:
   title: 6 Apps and Integrations changes in v2.1.121
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-04-23-3-apps-and-integrations-changes-in-v2-1-119|3
-  Apps and Integrations changes in v2.1.119]]'
-- '[[Changes/Claude Code/2026-04-23-5-apps-and-integrations-changes-in-v2-1-118|5
-  Apps and Integrations changes in v2.1.118]]'
+- '[[Changes/Codex CLI/2026-04-24-11-apps-and-integrations-changes-in-rust-v0-125-0|11
+  Apps and Integrations changes in rust-v0.125.0]]'
+- '[[Changes/GitHub Copilot CLI/2026-04-24-remote-command-shows-current-status-and-supports-remote-on-and-remote-off-to-tog|/remote
+  command shows current status and supports /remote on and /remote off…]]'
 - '[[Changes/Claude Code/2026-04-28-2-apps-and-integrations-changes-in-v2-1-122|2
   Apps and Integrations changes in v2.1.122]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-04-28-v2-1-121-github-314262096-ff31d5ce|claude-code-2026-04-28-v2-1-121-github-314262096-ff31d5ce]]'
@@ -110,7 +110,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.121
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-04-28 · Claude Code · [[Changes/Claude Code/2026-04-28-2-apps-and-integrations-changes-in-v2-1-122|2 Apps and Integrations changes in v2.1.122]]
-- Later: 2026-04-29 · Cursor · [[Changes/Cursor/2026-04-29-we-re-introducing-the-cursor-sdk-so-you-can-build-agents-with-the-same-runtime-h|Cursor introduces the Cursor SDK so you can build agents with the same runtime…]]
+- Later: 2026-04-28 · Gemini CLI · [[Changes/Gemini CLI/2026-04-28-2-apps-and-integrations-changes-in-v0-40-0|2 Apps and Integrations changes in v0.40.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

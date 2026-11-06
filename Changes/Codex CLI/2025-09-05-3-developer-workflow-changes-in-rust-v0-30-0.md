@@ -1,0 +1,109 @@
+---
+card_id: codex-cli-2025-09-05-0f3b8b
+date: '2025-09-05'
+description: 'Codex CLI · 2025-09-05 · Developer Workflow: 3 changes in 0.30.0 — **TUI/UX**:
+  Fix approval dialog for large commands; pause status timer during modals; pager…'
+diffusion:
+  first_in_tracked: '[[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]'
+  inference: No adoption, equivalence, or causation claim.
+  lag_days: 902
+  relation: same-theme-chronology
+  role: later-observed
+  scope: tracked-products-only
+  theme: developer-workflow
+  tracked_products_count: 10
+evolves_from: []
+extractor_version: fallback-v5
+impact: incremental
+kind: digest
+machine_hash: 91e166312caf701d369ac208357fec60f606bda672a8b9b0e2c953e255a3dfb7
+product: codex-cli
+product_name: Codex CLI
+record:
+  card_id: codex-cli-2025-09-05-0f3b8b
+  comparison: ''
+  date: '2025-09-05'
+  description: 'Codex CLI — 0.30.0: 3 Developer Workflow changes'
+  evidence:
+  - quote: '**TUI/UX**: Fix approval dialog for large commands; pause status timer
+      during modals; pager auto‑scroll; bash syntax highlighting; mac key glyphs;
+      avoid zero‑height panic; improved @ file search (hidden dirs).'
+    source_release: https://github.com/openai/codex/releases/tag/rust-v0.30.0
+  - quote: '[#3142] syntax-highlight bash lines'
+    source_release: https://github.com/openai/codex/releases/tag/rust-v0.30.0
+  - quote: '[#3069] core: correct sandboxed shell tool description (reads allowed
+      anywhere)'
+    source_release: https://github.com/openai/codex/releases/tag/rust-v0.30.0
+  extractor_version: fallback-v5
+  impact: incremental
+  kind: digest
+  product: codex-cli
+  product_name: Codex CLI
+  slug: 3-developer-workflow-changes-in-rust-v0-30-0
+  source_release: codex-cli-2025-09-05-rust-v0-30-0-github-245199079-dedb4e90
+  source_type: github_releases
+  theme: developer-workflow
+  title: 3 Developer Workflow changes in rust-v0.30.0
+  type: change
+related_changes:
+- '[[Changes/Codex CLI/2025-08-29-2852-following-up-on-2371-post-commit-feedback|♯2852
+  Following up on ♯2371 post commit feedback]]'
+- '[[Changes/Codex CLI/2025-09-02-2-developer-workflow-changes-in-rust-v0-28-0|2 Developer
+  Workflow changes in rust-v0.28.0]]'
+- '[[Changes/Gemini CLI/2025-09-04-5-developer-workflow-changes-in-v0-3-0|5 Developer
+  Workflow changes in v0.3.0]]'
+source_release: '[[Releases/Codex CLI/codex-cli-2025-09-05-rust-v0-30-0-github-245199079-dedb4e90|codex-cli-2025-09-05-rust-v0-30-0-github-245199079-dedb4e90]]'
+source_type: github_releases
+theme: developer-workflow
+title: 3 Developer Workflow changes in rust-v0.30.0
+type: change
+---
+
+<!-- chronolog:begin region="header" -->
+# 3 Developer Workflow changes in rust-v0.30.0
+
+**Codex CLI** · 2025-09-05 · [[Themes/developer-workflow|Developer Workflow]] · Digest · [Official source](https://github.com/openai/codex/releases/tag/rust-v0.30.0) · from [[Releases/Codex CLI/codex-cli-2025-09-05-rust-v0-30-0-github-245199079-dedb4e90|0.30.0]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="evidence" -->
+## Changes in this digest
+
+> **TUI/UX**: Fix approval dialog for large commands; pause status timer during modals; pager auto‑scroll; bash syntax highlighting; mac key glyphs; avoid zero‑height panic; improved @ file search (hidden dirs).
+
+> [#3142] syntax-highlight bash lines
+
+> [#3069] core: correct sandboxed shell tool description (reads allowed anywhere)
+
+Source: https://github.com/openai/codex/releases/tag/rust-v0.30.0
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="context" -->
+## Also in this release
+
+- [[Changes/Codex CLI/2025-09-05-2-model-support-changes-in-rust-v0-30-0|2 Model Support changes in rust-v0.30.0]] · Model Support
+- [[Changes/Codex CLI/2025-09-05-3135-tui-add-session-resume-picker-resume-and-quick-resume-continue|♯3135 TUI: Add session resume picker (--resume) and quick resume (--continue)]] · Interface Experience
+- [[Changes/Codex CLI/2025-09-05-2-context-window-changes-in-rust-v0-30-0|2 Context Window changes in rust-v0.30.0]] · Context Window
+- [[Changes/Codex CLI/2025-09-05-3-account-and-access-changes-in-rust-v0-30-0|3 Account and Access changes in rust-v0.30.0]] · Account and Access
+- [[Changes/Codex CLI/2025-09-05-3128-mcp-sandbox-call|♯3128 MCP sandbox call]] · Safety and Privacy
+- [[Changes/Codex CLI/2025-09-05-3118-codex-document-use-experimental-reasoning-summary-toml-key-config|♯3118 codex document use_experimental_reasoning_summary toml key config]] · Files and Data
+- [[Changes/Codex CLI/2025-09-05-3-agent-mode-changes-in-rust-v0-30-0|3 Agent Mode changes in rust-v0.30.0]] · Agent Mode
+- [[Changes/Codex CLI/2025-09-05-4-apps-and-integrations-changes-in-rust-v0-30-0|4 Apps and Integrations changes in rust-v0.30.0]] · Apps and Integrations
+- [[Changes/Codex CLI/2025-09-05-24-other-changes-in-rust-v0-30-0|24 other changes in rust-v0.30.0]] · Other changes
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="nearby" -->
+## Nearby in Developer Workflow
+
+- Earlier: 2025-09-04 · Gemini CLI · [[Changes/Gemini CLI/2025-09-04-5-developer-workflow-changes-in-v0-3-0|5 Developer Workflow changes in v0.3.0]]
+- Later: 2025-09-08 · Codex CLI · [[Changes/Codex CLI/2025-09-08-2-developer-workflow-changes-in-rust-v0-31-0|2 Developer Workflow changes in rust-v0.31.0]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="relations" -->
+## Related
+
+- Earliest same-theme entry in the tracked set: 2023-03-18 · Cursor · [[Changes/Cursor/2023-03-18-built-in-terminal|Built-in terminal]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="footer" -->
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20codex-cli-2025-09-05-0f3b8b&body=Card%3A%20Changes%2FCodex%20CLI%2F2025-09-05-3-developer-workflow-changes-in-rust-v0-30-0.md%0ACard%20ID%3A%20codex-cli-2025-09-05-0f3b8b%0ASource%3A%20https%3A%2F%2Fgithub.com%2Fopenai%2Fcodex%2Freleases%2Ftag%2Frust-v0.30.0%0A%0AWhat%20should%20be%20corrected%3F%0A)
+<!-- chronolog:end -->

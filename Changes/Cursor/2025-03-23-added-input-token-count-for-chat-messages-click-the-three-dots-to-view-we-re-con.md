@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 1533b9d8ab503fcb05d80be210dec21f36ed21fc4f505e37eb51c5c7e7a0e282
+machine_hash: dcfdedc8bffb6d24172777caab3ef3d2b3d1b27a1140611ac20f878816b5efbf
 product: cursor
 product_name: Cursor
 record:
@@ -57,12 +57,12 @@ record:
   title: Added input token count for chat messages (click the three dots to view)
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-01-23-summarize-previous-composers-when-conversations-grow-too-long-you-can-start-a-ne|Summarize
-  Previous Composers]]'
-- '[[Changes/Cursor/2025-01-23-optional-long-context-when-tagging-long-files-users-have-the-option-to-request-a|Optional
-  Long Context]]'
-- '[[Changes/Cursor/2025-02-19-ui-refresh-phase-one-of-a-fresh-coat-of-paint-with-new-default-cursor-themes-des|UI
-  refresh: Phase one of a fresh coat of paint with new default Cursor themes…]]'
+- '[[Changes/Aider/2025-03-13-2-context-window-changes-in-v0-77-0|2 Context Window
+  changes in v0.77.0]]'
+- '[[Changes/Cline/2025-03-15-prevent-cline-from-reading-extremely-large-files-into-context-that-would-overloa|Prevent
+  Cline from reading extremely large files into context that would overload…]]'
+- '[[Changes/Cline/2025-03-23-add-add-to-cline-as-an-option-when-you-right-click-selected-text-in-a-file-or-th|Add
+  Add to Cline as an option when you right-click selected text in a file…]]'
 source_release: '[[Releases/Cursor/cursor-2025-03-23-0-48-x-https-cursor-com-changelog-0-48-x-7b3e771b|cursor-2025-03-23-0-48-x-https-cursor-com-changelog-0-48-x-7b3e771b]]'
 source_type: cursor_changelog
 theme: context-window
@@ -105,8 +105,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Context Window
 
-- Earlier: 2025-02-19 · Cursor · [[Changes/Cursor/2025-02-19-ui-refresh-phase-one-of-a-fresh-coat-of-paint-with-new-default-cursor-themes-des|UI refresh: Phase one of a fresh coat of paint with new default Cursor themes…]]
-- Later: 2025-04-15 · Cursor · [[Changes/Cursor/2025-04-15-automated-and-improved-rules-15afc6|Automated and improved rules]]
+- Earlier: 2025-03-23 · Cline · [[Changes/Cline/2025-03-23-add-add-to-cline-as-an-option-when-you-right-click-selected-text-in-a-file-or-th|Add Add to Cline as an option when you right-click selected text in a file…]]
+- Later: 2025-03-25 · Aider · [[Changes/Aider/2025-03-25-added-a-new-context-command-that-automatically-identifies-which-files-need-to-be|Added a new /context command that automatically identifies which files need…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

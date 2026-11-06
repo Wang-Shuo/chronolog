@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 03649fae3ff93c3a38e9d2f8af8a8f414459197ed9c881781536cfde283d4136
+machine_hash: 14dae801c5b86e3a0cc0f74febaba6a4cfa2d4ca317ecf6ae5b14ace88bee951
 product: claude-code
 product_name: Claude Code
 record:
@@ -60,10 +60,9 @@ record:
   title: 7 Apps and Integrations changes in v2.1.69
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-03-03-mcp-apps-support-interactive-user-interfaces-like-charts-from-amplitude-diagrams|MCP
-  Apps]]'
-- '[[Changes/Cursor/2026-03-03-on-teams-and-enterprise-plans-admins-can-now-create-team-marketplaces-to-share-p|Team
-  marketplaces for plugins]]'
+- '[[Changes/GitHub Copilot CLI/2026-03-03-7-apps-and-integrations-changes-in-v0-0-421|7
+  Apps and Integrations changes in v0.0.421]]'
+- '[[Changes/Cline/2026-03-04-updated-hooks-docs|Updated hooks docs]]'
 - '[[Changes/Claude Code/2026-03-05-added-reload-plugins-command-to-activate-pending-plugin-changes-without-restarti|Added
   /reload-plugins command to activate pending plugin changes without restarting]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-03-05-v2-1-69-github-293216328-162b2e44|claude-code-2026-03-05-v2-1-69-github-293216328-162b2e44]]'
@@ -120,8 +119,8 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.69
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-03-03 · Cursor · [[Changes/Cursor/2026-03-03-on-teams-and-enterprise-plans-admins-can-now-create-team-marketplaces-to-share-p|Team marketplaces for plugins]]
-- Later: 2026-03-06 · Claude Code · [[Changes/Claude Code/2026-03-06-reduced-remote-control-poll-rate-to-once-per-10-minutes-while-connected-was-1-2s|Reduced Remote Control /poll rate to once per 10 minutes while connected…]]
+- Earlier: 2026-03-04 · Cline · [[Changes/Cline/2026-03-04-updated-hooks-docs|Updated hooks docs]]
+- Later: 2026-03-05 · Codex CLI · [[Changes/Codex CLI/2026-03-05-7-apps-and-integrations-changes-in-rust-v0-110-0|7 Apps and Integrations changes in rust-v0.110.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

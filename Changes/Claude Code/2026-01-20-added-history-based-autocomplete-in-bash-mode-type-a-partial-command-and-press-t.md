@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: d9c80e30cb3bc386c6c32abbc999a8446cfb95a066112d0916788f9c8f7850ce
+machine_hash: 9023e1f3b1aa8833278ab3cd2b402aa39a098c9244e12a660d38d0726b4e2b3d
 product: claude-code
 product_name: Claude Code
 record:
@@ -43,12 +43,12 @@ record:
   title: Added history-based autocomplete in bash mode (`!`) - type a partial command…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-01-16-added-external-editor-support-ctrl-g-in-askuserquestion-other-input-field|Added
-  external editor support (Ctrl+G) in AskUserQuestion "Other" input field]]'
 - '[[Changes/Cursor/2026-01-16-this-release-brings-many-of-the-editor-s-most-loved-features-to-the-cursor-cli-a|Cursor
   brings many of the editor’s most-loved features to the Cursor CLI, along…]]'
 - '[[Changes/Cursor/2026-01-16-use-ask-mode-to-explore-code-without-making-changes-just-like-in-the-editor-star|Ask
   mode in CLI]]'
+- '[[Changes/GitHub Copilot CLI/2026-01-16-2-editor-experience-changes-in-v0-0-384|2
+  Editor Experience changes in v0.0.384]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-01-20-v2-1-14-github-278458927-a7d53111|claude-code-2026-01-20-v2-1-14-github-278458927-a7d53111]]'
 source_type: github_releases
 theme: editor-experience
@@ -79,8 +79,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2026-01-16 · Cursor · [[Changes/Cursor/2026-01-16-use-ask-mode-to-explore-code-without-making-changes-just-like-in-the-editor-star|Ask mode in CLI]]
-- Later: 2026-01-22 · Cursor · [[Changes/Cursor/2026-01-22-2-editor-experience-changes-in-2-4|2 Editor Experience changes in 2.4]]
+- Earlier: 2026-01-16 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-01-16-2-editor-experience-changes-in-v0-0-384|2 Editor Experience changes in v0.0.384]]
+- Later: 2026-01-21 · Gemini CLI · [[Changes/Gemini CLI/2026-01-21-4-editor-experience-changes-in-v0-25-0|4 Editor Experience changes in v0.25.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

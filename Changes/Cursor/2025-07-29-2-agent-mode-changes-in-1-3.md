@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: e02dc82c87c40e60e058234576bd9c6ded13769f69a64cae4765c1f31713673a
+machine_hash: 8e6264cbde33573f9ccd81b643c171c85427f40b7a33e397ce737f417fbbba7c
 product: cursor
 product_name: Cursor
 record:
@@ -43,9 +43,10 @@ record:
   title: 2 Agent Mode changes in 1.3
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-07-03-2-agent-mode-changes-in-1-2|2 Agent Mode changes in
-  1.2]]'
-- '[[Changes/Cursor/2025-07-03-background-agent-improvements|Background Agent improvements]]'
+- '[[Changes/OpenHands/2025-07-24-2-agent-mode-changes-in-0-50-0|2 Agent Mode changes
+  in 0.50.0]]'
+- '[[Changes/Gemini CLI/2025-07-25-5-agent-mode-changes-in-v0-1-14|5 Agent Mode changes
+  in v0.1.14]]'
 - '[[Changes/Cursor/2025-07-29-agents-can-now-use-your-native-terminal-a-new-terminal-will-be-created-when-need|Share
   terminal with Agent]]'
 source_release: '[[Releases/Cursor/cursor-2025-07-29-1-3-https-cursor-com-changelog-1-3-d153efc3|cursor-2025-07-29-1-3-https-cursor-com-changelog-1-3-d153efc3]]'
@@ -89,8 +90,8 @@ Source: https://cursor.com/changelog/1-3
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2025-07-03 · Cursor · [[Changes/Cursor/2025-07-03-background-agent-improvements|Background Agent improvements]]
-- Later: 2025-08-06 · Cursor · [[Changes/Cursor/2025-08-06-improved-agent-tools-488891|Improved Agent tools]]
+- Earlier: 2025-07-25 · Gemini CLI · [[Changes/Gemini CLI/2025-07-25-5-agent-mode-changes-in-v0-1-14|5 Agent Mode changes in v0.1.14]]
+- Later: 2025-07-30 · Gemini CLI · [[Changes/Gemini CLI/2025-07-30-6-agent-mode-changes-in-v0-1-15|6 Agent Mode changes in v0.1.15]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

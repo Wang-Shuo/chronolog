@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: 6fb5dce4a12062bfa28d8b00fe1211540d7e59ba0b3c42fe5963305dea1c9bd6
+machine_hash: 7f26f2ad5ff643d27a55811aa204bd6c7a3c55fa9a072695e21e1dbf2edd8098
 product: cursor
 product_name: Cursor
 record:
@@ -62,9 +62,10 @@ record:
   title: Turn it into a real repo, whenever you want
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-08-17-pull-requests|Pull requests]]'
-- '[[Changes/Claude Code/2026-08-21-claude-in-chrome-clear-now-closes-the-session-s-chrome-tab-group-and-empty-group|Claude
-  in Chrome]]'
+- '[[Changes/Cline/2026-08-21-show-the-diff-edit-view-for-multi-line-edits-in-files-with-crlf-line-endings|Show
+  the diff edit view for multi-line edits in files with CRLF line endings]]'
+- '[[Changes/Cline/2026-08-23-restore-task-completion-telemetry-for-interactive-sessions-a-share-of-interactiv|Restore
+  task completion telemetry for interactive sessions]]'
 - '[[Changes/Claude Code/2026-08-25-added-the-turn-s-completion-time-to-the-end-of-turn-duration-line-e-g-saut-ed-fo|Added
   the turn''s completion time to the end-of-turn duration line…]]'
 source_release: '[[Releases/Cursor/cursor-2026-08-27-start-from-scratch-without-a-repo-https-cursor-com-changelog-sta-d75d62ae|cursor-2026-08-27-start-from-scratch-without-a-repo-https-cursor-com-changelog-sta-d75d62ae]]'
@@ -97,7 +98,7 @@ type: change
 ## Nearby in Editor Experience
 
 - Earlier: 2026-08-25 · Claude Code · [[Changes/Claude Code/2026-08-25-added-the-turn-s-completion-time-to-the-end-of-turn-duration-line-e-g-saut-ed-fo|Added the turn's completion time to the end-of-turn duration line…]]
-- Later: 2026-09-01 · Claude Code · [[Changes/Claude Code/2026-09-01-2-editor-experience-changes-in-v2-1-257|2 Editor Experience changes in v2.1.257]]
+- Later: 2026-08-27 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-08-27-add-copilot-app-to-open-the-github-copilot-app-in-the-current-directory|Add copilot app to open the GitHub Copilot app in the current directory]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

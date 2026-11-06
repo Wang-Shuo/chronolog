@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 842d65e1957ed32c26c30491ebddc315a7833e421a465fe2d164e3d5cc03fd4f
+machine_hash: be37763bac51f5ec36bad05740889efec64caad53d49c056f2cbde3625121987
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -60,8 +60,8 @@ record:
   title: Browsing is now out of beta
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2023-09-27-choose-browse-with-bing-in-the-selector-under-gpt-4|Choose
-  Browse with Bing in the selector under GPT-4]]'
+- '[[Changes/Aider/2023-09-30-show-models-supported-by-api-key-if-requested-model-isn-t-available|Show
+  models supported by api/key if requested model isn''t available]]'
 - '[[Changes/Cursor/2023-10-01-use-edit-in-the-chat-to-edit-a-whole-file-if-less-than-400-lines-expect-the-edit-78e4ac|Use
   /edit in the chat to edit a whole file (if less than 400 lines)]]'
 - '[[Changes/ChatGPT/2023-10-16-we-ve-integrated-dall-e-3-with-chatgpt-allowing-it-to-respond-to-your-requests-w-ad3caf|DALL·E
@@ -93,7 +93,7 @@ type: change
 ## Nearby in Model Support
 
 - Earlier: 2023-10-16 · ChatGPT · [[Changes/ChatGPT/2023-10-16-we-ve-integrated-dall-e-3-with-chatgpt-allowing-it-to-respond-to-your-requests-w-ad3caf|DALL·E 3 is now rolling out in beta]]
-- Later: 2023-11-10 · Cursor · [[Changes/Cursor/2023-11-10-new-models-you-can-plug-in-your-api-key-to-try-out-the-newest-gpt-4-and-gpt-3-tu|New models: you can plug in your API key to try out the newest gpt-4 and gpt-3 turbo…]]
+- Later: 2023-10-18 · Aider · [[Changes/Aider/2023-10-18-show-models-supported-by-api-key-if-requested-model-isn-t-available|Show models supported by api/key if requested model isn't available]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

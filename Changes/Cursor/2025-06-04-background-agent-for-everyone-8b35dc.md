@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: 8486b303403915e2ccf665248a9176ce6e88027088cfde6539b1e047db87c320
+machine_hash: a3df246455203d974217613c9d5d8c04929c894cb4d0f354f6f43c097a04a79e
 product: cursor
 product_name: Cursor
 record:
@@ -50,7 +50,8 @@ record:
   title: Background Agent for everyone
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-05-15-background-agent-preview|Background Agent (Preview)]]'
+- '[[Changes/OpenHands/2025-05-20-2-agent-mode-changes-in-0-39-0|2 Agent Mode changes
+  in 0.39.0]]'
 - '[[Changes/Cursor/2025-06-04-open-background-agent-control-panel-with-cmd-ctrl-e|Open
   Background Agent control panel with Cmd/Ctrl+E]]'
 - '[[Changes/Cursor/2025-06-04-agent-in-jupyter-notebooks|Agent in Jupyter Notebooks]]'
@@ -97,8 +98,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2025-05-15 · Cursor · [[Changes/Cursor/2025-05-15-background-agent-preview|Background Agent (Preview)]]
-- Later: 2025-06-12 · Cursor · [[Changes/Cursor/2025-06-12-you-can-now-launch-background-agents-directly-from-slack-by-mentioning-cursor-ag|Launch Background Agents directly from Slack by mentioning @Cursor]]
+- Earlier: 2025-05-20 · OpenHands · [[Changes/OpenHands/2025-05-20-2-agent-mode-changes-in-0-39-0|2 Agent Mode changes in 0.39.0]]
+- Later: 2025-06-10 · OpenHands · [[Changes/OpenHands/2025-06-10-ensured-prs-opened-by-agent-is-properly-tracked-in-conversation-metadata-by-malh|Ensured PRs opened by agent is properly tracked in conversation metadata]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 0e00a6c4a9fdc4c26bacb52884ac571d4e85895e611204ce276ce1e6759bb120
+machine_hash: 08cd6ff3805c22776e17dc48abc619a957b500a1e9b5591116c593b7bd5bd5f5
 product: cursor
 product_name: Cursor
 record:
@@ -51,10 +51,10 @@ record:
   title: Large-file diff rendering is now much faster, smoother, and less memory-heavy
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-03-26-improved-scroll-performance-with-large-transcripts-by-replacing-wasm-yoga-layout|Improved
-  scroll performance with large transcripts by replacing WASM yoga-layout…]]'
-- '[[Changes/Claude Code/2026-04-01-2-reliability-and-performance-changes-in-v2-1-90|2
-  Reliability and Performance changes in v2.1.90]]'
+- '[[Changes/Gemini CLI/2026-04-01-perf-cli-background-ide-client-to-speed-up-initialization-by-sehoon38-in-https-g|perf(cli):
+  background IDE client to speed up initialization]]'
+- '[[Changes/GitHub Copilot CLI/2026-04-01-improved-performance-of-expand-collapse-ctrl-e-ctrl-o-in-alt-screen-mode-for-lon|Improved
+  performance of expand/collapse (ctrl+e, ctrl+o) in alt-screen mode for long…]]'
 - '[[Changes/Claude Code/2026-04-02-improved-performance-faster-stripansi-on-bun-by-routing-through-bun-stripansi|Improved
   performance: faster stripAnsi on Bun by routing through Bun.stripANSI]]'
 source_release: '[[Releases/Cursor/cursor-2026-04-02-3-0-https-cursor-com-changelog-3-0-c58cd2ad|cursor-2026-04-02-3-0-https-cursor-com-changelog-3-0-c58cd2ad]]'

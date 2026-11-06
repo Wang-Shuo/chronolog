@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: search-browsing
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: c064b4124259c9b4d7f42b29f4e6d08eec1a697d109ad14c47811ec4c102733b
+machine_hash: 5145aa54fdc5c9b2e8e1efa21b8728187664c3e126356819579423322f569881
 product: claude-code
 product_name: Claude Code
 record:
@@ -44,12 +44,12 @@ record:
     unused…
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-08-17-cursor-can-now-host-your-code|Cursor can now host your
-  code]]'
-- '[[Changes/Claude Code/2026-09-01-changed-btw-history-browsing-from-to-shift-shift-or-stepping-through-your-recent|Changed
-  /btw history browsing from ←/→ to Shift+←/Shift+→ (or /)…]]'
-- '[[Changes/ChatGPT/2026-09-10-box-dropbox-and-sharepoint-now-join-google-drive-in-chatgpt-library-once-connect|Box,
-  Dropbox, and SharePoint now join Google Drive in ChatGPT Library]]'
+- '[[Changes/Cline/2026-09-17-web-search-is-now-enabled-by-default-on-models-that-support-it-outside-yolo-mode|Web
+  search is now enabled by default on models that support it, outside YOLO mode]]'
+- '[[Changes/GitHub Copilot CLI/2026-09-21-consecutive-steering-prompts-in-the-same-mode-combine-into-one-pending-message-p|Consecutive
+  steering prompts in the same mode combine into one pending message]]'
+- '[[Changes/Codex CLI/2026-09-22-2-search-and-browsing-changes-in-rust-v0-156-0|2
+  Search and Browsing changes in rust-v0.156.0]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-23-v2-1-281-github-394877414-9173ae95|claude-code-2026-09-23-v2-1-281-github-394877414-9173ae95]]'
 source_type: github_releases
 theme: search-browsing
@@ -88,8 +88,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Search and Browsing
 
-- Earlier: 2026-09-10 · ChatGPT · [[Changes/ChatGPT/2026-09-10-box-dropbox-and-sharepoint-now-join-google-drive-in-chatgpt-library-once-connect|Box, Dropbox, and SharePoint now join Google Drive in ChatGPT Library]]
-- Later: 2026-10-01 · Claude Code · [[Changes/Claude Code/2026-10-01-improved-sdk-sessions-so-a-message-sent-with-priority-now-no-longer-cancels-a-ru|Improved SDK sessions so a message sent with priority "now" no longer cancels…]]
+- Earlier: 2026-09-22 · Codex CLI · [[Changes/Codex CLI/2026-09-22-2-search-and-browsing-changes-in-rust-v0-156-0|2 Search and Browsing changes in rust-v0.156.0]]
+- Later: 2026-09-24 · Cline · [[Changes/Cline/2026-09-24-on-windows-mention-search-results-now-show-the-right-file-names-nested-files-suc|On Windows, @-mention search results now show the right file names]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

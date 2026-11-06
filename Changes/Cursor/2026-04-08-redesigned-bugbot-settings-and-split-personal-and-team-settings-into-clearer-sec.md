@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: d2f3675d035530d1cd25eacb88377aadf1c8cfe261cd76a23a4100d6b1dc8a56
+machine_hash: 8556f7ef47fb17f283c14894a8e796abfd02685f49a0383244d07cdd48f577f9
 product: cursor
 product_name: Cursor
 record:
@@ -42,10 +42,10 @@ record:
     sections
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-02-13-cleaner-select-all-behavior-cmd-a-cmd-a-now-selects-only-the-conversation-conten|Cleaner
-  “Select All” behavior (Cmd+A)]]'
 - '[[Changes/Claude Code/2026-03-25-added-managed-settings-d-drop-in-directory-alongside-managed-settings-json-letti|Added
   managed-settings.d/ drop-in directory alongside managed-settings.json…]]'
+- '[[Changes/Codex CLI/2026-03-31-4-collaboration-changes-in-rust-v0-118-0|4 Collaboration
+  changes in rust-v0.118.0]]'
 - '[[Changes/Cursor/2026-04-02-2-collaboration-changes-in-3-0|2 Collaboration changes
   in 3.0]]'
 source_release: '[[Releases/Cursor/cursor-2026-04-08-bugbot-learned-rules-and-mcp-support-https-cursor-com-changelog-cba7cd11|cursor-2026-04-08-bugbot-learned-rules-and-mcp-support-https-cursor-com-changelog-cba7cd11]]'
@@ -81,7 +81,7 @@ type: change
 ## Nearby in Collaboration
 
 - Earlier: 2026-04-02 · Cursor · [[Changes/Cursor/2026-04-02-2-collaboration-changes-in-3-0|2 Collaboration changes in 3.0]]
-- Later: 2026-04-10 · Claude Code · [[Changes/Claude Code/2026-04-10-added-team-onboarding-command-to-generate-a-teammate-ramp-up-guide-from-your-loc|Added /team-onboarding command to generate a teammate ramp-up guide…]]
+- Later: 2026-04-08 · Gemini CLI · [[Changes/Gemini CLI/2026-04-08-default-enable-narration-for-the-team-by-gundermanc-in-https-github-com-google-g|Default enable narration for the team]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

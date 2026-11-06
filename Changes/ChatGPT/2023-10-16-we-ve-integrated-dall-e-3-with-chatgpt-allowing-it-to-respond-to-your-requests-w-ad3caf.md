@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: efb8955e6a52dc603b6377c5c6c106eaee93ba20ff0c3ec93d0a93c56e82305d
+machine_hash: 557834a92393305a1d99013a000a5d064c8ce0071f8ec7d7d85580b3c98aa8ea
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -60,10 +60,10 @@ record:
   title: DALL·E 3 is now rolling out in beta
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2023-08-03-we-re-rolling-out-a-bunch-of-small-updates-to-improve-the-chatgpt-experience-shi|Updates
-  to ChatGPT]]'
 - '[[Changes/ChatGPT/2023-09-27-choose-browse-with-bing-in-the-selector-under-gpt-4|Choose
   Browse with Bing in the selector under GPT-4]]'
+- '[[Changes/Aider/2023-09-30-show-models-supported-by-api-key-if-requested-model-isn-t-available|Show
+  models supported by api/key if requested model isn''t available]]'
 - '[[Changes/Cursor/2023-10-01-use-edit-in-the-chat-to-edit-a-whole-file-if-less-than-400-lines-expect-the-edit-78e4ac|Use
   /edit in the chat to edit a whole file (if less than 400 lines)]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2023-10-16-dall-e-3-is-now-rolling-out-in-beta-d2dd292b|chatgpt-2023-10-16-dall-e-3-is-now-rolling-out-in-beta-d2dd292b]]'

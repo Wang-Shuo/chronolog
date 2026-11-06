@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: b169cb7248550af656b4c147db04bd9bb9ee3e5c6dede546c65326e43c1d505c
+machine_hash: a0f1d740eb0a0d7cc0c043661950f2bf762eb55b3c7175a85e48c3db45b534fc
 product: cursor
 product_name: Cursor
 record:
@@ -44,12 +44,12 @@ record:
   title: 2 Interface Experience changes in CLI Agent Modes and Cloud Handoff
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-01-09-added-shift-tab-keyboard-shortcut-in-plan-mode-to-quickly-select-auto-accept-edi|Added
-  Shift+Tab keyboard shortcut in plan mode to quickly select…]]'
-- '[[Changes/Claude Code/2026-01-13-added-updates-section-to-doctor-showing-auto-update-channel-and-available-npm-ve|Added
-  Updates section to /doctor showing auto-update channel and available npm…]]'
 - '[[Changes/Claude Code/2026-01-14-added-showturnduration-setting-to-hide-turn-duration-messages-e-g-cooked-for-1m|Added
   showTurnDuration setting to hide turn duration messages (e.g., "Cooked for 1m 6s")]]'
+- '[[Changes/Codex CLI/2026-01-14-2-interface-experience-changes-in-rust-v0-81-0|2
+  Interface Experience changes in rust-v0.81.0]]'
+- '[[Changes/Codex CLI/2026-01-15-extend-the-rust-protocol-types-to-include-additional-metadata-on-text-elements-e|Extend
+  the Rust protocol/types to include additional metadata on text elements…]]'
 source_release: '[[Releases/Cursor/cursor-2026-01-16-cli-agent-modes-and-cloud-handoff-https-cursor-com-changelog-cli-becd78b5|cursor-2026-01-16-cli-agent-modes-and-cloud-handoff-https-cursor-com-changelog-cli-becd78b5]]'
 source_type: cursor_changelog
 theme: interface-experience
@@ -93,8 +93,8 @@ Source: https://cursor.com/changelog/cli-jan-16-2026
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-01-14 · Claude Code · [[Changes/Claude Code/2026-01-14-added-showturnduration-setting-to-hide-turn-duration-messages-e-g-cooked-for-1m|Added showTurnDuration setting to hide turn duration messages (e.g., "Cooked for 1m 6s")]]
-- Later: 2026-01-20 · Claude Code · [[Changes/Claude Code/2026-01-20-improved-backspace-to-delete-pasted-text-as-a-single-token-instead-of-one-charac|Improved backspace to delete pasted text as a single token instead of one character…]]
+- Earlier: 2026-01-15 · Codex CLI · [[Changes/Codex CLI/2026-01-15-extend-the-rust-protocol-types-to-include-additional-metadata-on-text-elements-e|Extend the Rust protocol/types to include additional metadata on text elements…]]
+- Later: 2026-01-16 · OpenHands · [[Changes/OpenHands/2026-01-16-adding-a-status-indicator-above-the-chat-until-the-conversation-is-ready-by-heyi|Adding a status indicator above the chat until the conversation is ready]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

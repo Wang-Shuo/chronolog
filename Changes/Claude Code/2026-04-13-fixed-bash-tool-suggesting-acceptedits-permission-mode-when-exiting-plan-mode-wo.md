@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: fix
-machine_hash: 5e04f0895cea1ab1b5a0063d1179c418449816d0babf847fb1bcdfb921bba233
+machine_hash: e4c53f67f89e660ab245c64f5b1a09b915db4e27d0a61243beb76a2283c9b49b
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,12 +45,12 @@ record:
     mode…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-04-08-3-safety-and-privacy-changes-in-v2-1-97|3 Safety
-  and Privacy changes in v2.1.97]]'
-- '[[Changes/Claude Code/2026-04-09-7-safety-and-privacy-changes-in-v2-1-98|7 Safety
-  and Privacy changes in v2.1.98]]'
 - '[[Changes/Claude Code/2026-04-10-fixed-a-command-injection-vulnerability-in-the-posix-which-fallback-used-by-lsp|Fixed
   a command injection vulnerability in the POSIX which fallback used by LSP…]]'
+- '[[Changes/Codex CLI/2026-04-10-8-safety-and-privacy-changes-in-rust-v0-119-0|8
+  Safety and Privacy changes in rust-v0.119.0]]'
+- '[[Changes/Codex CLI/2026-04-11-4-safety-and-privacy-changes-in-rust-v0-120-0|4
+  Safety and Privacy changes in rust-v0.120.0]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-04-13-v2-1-105-github-308569432-65a12cd3|claude-code-2026-04-13-v2-1-105-github-308569432-65a12cd3]]'
 source_type: github_releases
 theme: safety-privacy
@@ -84,7 +84,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Safety and Privacy
 
-- Earlier: 2026-04-10 · Claude Code · [[Changes/Claude Code/2026-04-10-fixed-a-command-injection-vulnerability-in-the-posix-which-fallback-used-by-lsp|Fixed a command injection vulnerability in the POSIX which fallback used by LSP…]]
+- Earlier: 2026-04-11 · Codex CLI · [[Changes/Codex CLI/2026-04-11-4-safety-and-privacy-changes-in-rust-v0-120-0|4 Safety and Privacy changes in rust-v0.120.0]]
 - Later: 2026-04-14 · Claude Code · [[Changes/Claude Code/2026-04-14-2-safety-and-privacy-changes-in-v2-1-108|2 Safety and Privacy changes in v2.1.108]]
 <!-- chronolog:end -->
 

@@ -11,10 +11,11 @@ diffusion:
 evolves_from: []
 extractor_version: fallback-v1
 impact: significant
-machine_hash: cf867de4a95a11b8043b47dd099737540c90feaf4cd2656eceacfd915722b57c
+machine_hash: bd239ef4d5995777d1e9dd797ece66807b4b3dbe3bf5173e5f2d0822bd42e2a3
 product: aider
 product_name: Aider
 source_release: '[[Releases/Aider/2023-01-10-aider-2023-01-10-v0-22|aider-2023-01-10-v0-22]]'
+superseded: true
 theme: editor-experience
 type: change
 ---

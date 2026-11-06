@@ -1,0 +1,109 @@
+---
+card_id: github-copilot-cli-2026-02-19-4429b3
+date: '2026-02-19'
+description: 'GitHub Copilot CLI · 2026-02-19 · Mobile and Desktop: Terminal editor
+  is now supported on Windows'
+diffusion:
+  first_in_tracked: "[[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows
+    and Linux support \U0001F973]]"
+  inference: No adoption, equivalence, or causation claim.
+  lag_days: 1073
+  relation: same-theme-chronology
+  role: later-observed
+  scope: tracked-products-only
+  theme: mobile-desktop
+  tracked_products_count: 10
+evolves_from: []
+extractor_version: fallback-v5
+impact: incremental
+kind: change
+machine_hash: 1bbe47ae165c9743079e9e006f1d0487def5db692784e27d9d61ff60c4bd2354
+product: github-copilot-cli
+product_name: GitHub Copilot CLI
+record:
+  card_id: github-copilot-cli-2026-02-19-4429b3
+  comparison: ''
+  date: '2026-02-19'
+  description: 'GitHub Copilot CLI — 0.0.412: Terminal editor is now supported on
+    Windows'
+  evidence:
+  - quote: Terminal editor is now supported on Windows
+    source_release: https://github.com/github/copilot-cli/releases/tag/v0.0.412
+  extractor_version: fallback-v5
+  impact: incremental
+  kind: change
+  product: github-copilot-cli
+  product_name: GitHub Copilot CLI
+  slug: terminal-editor-is-now-supported-on-windows
+  source_release: github-copilot-cli-2026-02-19-v0-0-412-github-288488873-f50c4c60
+  source_type: github_releases
+  theme: mobile-desktop
+  theme_matches:
+  - matched_terms:
+    - terminal
+    score: 50
+    theme: developer-workflow
+  - matched_terms:
+    - editor
+    score: 50
+    theme: editor-experience
+  theme_resolution: manual-semantic-rule-v1
+  title: Terminal editor is now supported on Windows
+  type: change
+related_changes:
+- '[[Changes/Codex CLI/2026-02-17-2-mobile-and-desktop-changes-in-rust-v0-102-0|2
+  Mobile and Desktop changes in rust-v0.102.0]]'
+- '[[Changes/Cursor/2026-02-18-2-mobile-and-desktop-changes-in-cli-improvements-and-mermaid-ascii|2
+  Mobile and Desktop changes in CLI Improvements and Mermaid ASCII…]]'
+- '[[Changes/Gemini CLI/2026-02-18-feat-expand-verify-release-to-macos-and-windows-by-yunaseoul-in-https-github-com|feat:
+  expand verify-release to macOS and Windows]]'
+source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-02-19-v0-0-412-github-288488873-f50c4c60|github-copilot-cli-2026-02-19-v0-0-412-github-288488873-f50c4c60]]'
+source_type: github_releases
+theme: mobile-desktop
+title: Terminal editor is now supported on Windows
+type: change
+---
+
+<!-- chronolog:begin region="header" -->
+# Terminal editor is now supported on Windows
+
+**GitHub Copilot CLI** · 2026-02-19 · [[Themes/mobile-desktop|Mobile and Desktop]] · [Official source](https://github.com/github/copilot-cli/releases/tag/v0.0.412) · from [[Releases/GitHub Copilot CLI/github-copilot-cli-2026-02-19-v0-0-412-github-288488873-f50c4c60|0.0.412]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="evidence" -->
+> Terminal editor is now supported on Windows
+>
+> Source: https://github.com/github/copilot-cli/releases/tag/v0.0.412
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="context" -->
+## Also in this release
+
+- [[Changes/GitHub Copilot CLI/2026-02-19-5-developer-workflow-changes-in-v0-0-412|5 Developer Workflow changes in v0.0.412]] · Developer Workflow
+- [[Changes/GitHub Copilot CLI/2026-02-19-2-memory-and-personalization-changes-in-v0-0-412|2 Memory and Personalization changes in v0.0.412]] · Memory and Personalization
+- [[Changes/GitHub Copilot CLI/2026-02-19-2-model-support-changes-in-v0-0-412|2 Model Support changes in v0.0.412]] · Model Support
+- [[Changes/GitHub Copilot CLI/2026-02-19-3-apps-and-integrations-changes-in-v0-0-412|3 Apps and Integrations changes in v0.0.412]] · Apps and Integrations
+- [[Changes/GitHub Copilot CLI/2026-02-19-2-reliability-and-performance-changes-in-v0-0-412|2 Reliability and Performance changes in v0.0.412]] · Reliability and Performance
+- [[Changes/GitHub Copilot CLI/2026-02-19-improve-quick-help-accessibility-screen-reader-friendly-tab-labels-reordered-lay|Improve quick help accessibility]] · Accessibility and Localization
+- [[Changes/GitHub Copilot CLI/2026-02-19-3-agent-mode-changes-in-v0-0-412|3 Agent Mode changes in v0.0.412]] · Agent Mode
+- [[Changes/GitHub Copilot CLI/2026-02-19-3-editor-experience-changes-in-v0-0-412|3 Editor Experience changes in v0.0.412]] · Editor Experience
+- [[Changes/GitHub Copilot CLI/2026-02-19-6-interface-experience-changes-in-v0-0-412|6 Interface Experience changes in v0.0.412]] · Interface Experience
+- [[Changes/GitHub Copilot CLI/2026-02-19-10-other-changes-in-v0-0-412|10 other changes in v0.0.412]] · Other changes
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="nearby" -->
+## Nearby in Mobile and Desktop
+
+- Earlier: 2026-02-18 · Gemini CLI · [[Changes/Gemini CLI/2026-02-18-feat-expand-verify-release-to-macos-and-windows-by-yunaseoul-in-https-github-com|feat: expand verify-release to macOS and Windows]]
+- Later: 2026-02-23 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-02-23-skill-files-saved-with-a-utf-8-bom-common-on-windows-editors-now-load-correctly|Skill files saved with a UTF-8 BOM (common on Windows editors) now load correctly…]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="relations" -->
+## Related
+
+- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-windows-and-linux-support|Windows and Linux support 🥳]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="footer" -->
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20github-copilot-cli-2026-02-19-4429b3&body=Card%3A%20Changes%2FGitHub%20Copilot%20CLI%2F2026-02-19-terminal-editor-is-now-supported-on-windows.md%0ACard%20ID%3A%20github-copilot-cli-2026-02-19-4429b3%0ASource%3A%20https%3A%2F%2Fgithub.com%2Fgithub%2Fcopilot-cli%2Freleases%2Ftag%2Fv0.0.412%0A%0AWhat%20should%20be%20corrected%3F%0A)
+<!-- chronolog:end -->

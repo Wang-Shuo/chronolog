@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: expansion
-machine_hash: 2fb0d6683ec6686158d48c651768b69fa7345d6d269cab8c54cfb41393211414
+machine_hash: b137b3d8e41e59be36845f1385f290adafef506cacc6cda61b296a9d1a93ad57
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -44,8 +44,8 @@ record:
   title: ChatGPT launches ChatGPT Go, our low cost subscription plan, in Brazil
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2025-09-22-we-re-launching-chatgpt-go-our-low-cost-subscription-plan-in-indonesia-for-rp-75|ChatGPT
-  launches ChatGPT Go, our low cost subscription plan, in Indonesia]]'
+- '[[Changes/GitHub Copilot CLI/2025-10-01-switched-to-using-per-subscription-copilot-api-endpoints-in-accordance-with-gith|Switched
+  to using per-subscription Copilot API endpoints in accordance…]]'
 - '[[Changes/ChatGPT/2025-10-08-we-re-excited-to-announce-that-chatgpt-go-our-low-cost-subscription-plan-is-now|ChatGPT
   Go, our low cost subscription plan, is now available in 16 additional countries]]'
 - '[[Changes/ChatGPT/2025-10-14-we-re-excited-to-announce-that-chatgpt-go-our-low-cost-subscription-plan-is-now-d58cbb|ChatGPT

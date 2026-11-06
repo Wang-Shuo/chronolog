@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: f1ba7a9e6d519bcc8ff397bbc009239d1f0b97cfc19396f4a613055473ec9f41
+machine_hash: 7e1d197747400a1ac2b11bf3da8c80b4a610e36ba724e661cd585f31642e8eba
 product: claude-code
 product_name: Claude Code
 record:
@@ -42,12 +42,12 @@ record:
   title: Added session URL attribution to commits and PRs created from web sessions
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-01-09-4-developer-workflow-changes-in-v2-1-2|4 Developer
-  Workflow changes in v2.1.2]]'
-- '[[Changes/Claude Code/2026-01-12-added-claude-code-tmpdir-environment-variable-to-override-the-temp-directory-use|Added
-  CLAUDE_CODE_TMPDIR environment variable to override the temp directory used…]]'
-- '[[Changes/Claude Code/2026-01-13-3-developer-workflow-changes-in-v2-1-6|3 Developer
-  Workflow changes in v2.1.6]]'
+- '[[Changes/Cline/2026-01-14-add-create-pull-request-skill|Add create-pull-request
+  skill]]'
+- '[[Changes/Codex CLI/2026-01-14-5-developer-workflow-changes-in-rust-v0-81-0|5 Developer
+  Workflow changes in rust-v0.81.0]]'
+- '[[Changes/Gemini CLI/2026-01-14-feat-add-folder-suggestions-to-dir-add-command-by-jackwotherspoon-in-https-githu|feat:
+  add folder suggestions to /dir add command]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-01-16-v2-1-9-github-277250534-9563859d|claude-code-2026-01-16-v2-1-9-github-277250534-9563859d]]'
 source_type: github_releases
 theme: developer-workflow
@@ -80,8 +80,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2026-01-13 · Claude Code · [[Changes/Claude Code/2026-01-13-3-developer-workflow-changes-in-v2-1-6|3 Developer Workflow changes in v2.1.6]]
-- Later: 2026-01-16 · Cursor · [[Changes/Cursor/2026-01-16-2-developer-workflow-changes-in-cli-agent-modes-and-cloud-handoff|2 Developer Workflow changes in CLI Agent Modes and Cloud Handoff]]
+- Earlier: 2026-01-14 · Gemini CLI · [[Changes/Gemini CLI/2026-01-14-feat-add-folder-suggestions-to-dir-add-command-by-jackwotherspoon-in-https-githu|feat: add folder suggestions to /dir add command]]
+- Later: 2026-01-16 · Codex CLI · [[Changes/Codex CLI/2026-01-16-input-prompt-placeholder-styling-is-back-to-non-italic-to-avoid-terminal-renderi|Input prompt placeholder styling is back to non-italic to avoid terminal rendering…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

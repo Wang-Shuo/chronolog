@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: 59749a89f5c85f3dd6eeabdd0138fbc7dc5fede18358d17ee4f99b10f7e651e4
+machine_hash: a55a37bfd889f180335e5b1427e63afeb5aff47c9207d1ae706c2f421b538554
 product: cursor
 product_name: Cursor
 record:
@@ -60,8 +60,8 @@ record:
   title: Auto-review
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-06-04-2-agent-mode-changes-in-v2-1-163|2 Agent Mode
-  changes in v2.1.163]]'
+- '[[Changes/Codex CLI/2026-06-04-12-agent-mode-changes-in-rust-v0-137-0|12 Agent
+  Mode changes in rust-v0.137.0]]'
 - '[[Changes/Cursor/2026-06-04-added-the-ability-for-agents-to-embed-buttons-in-canvases-that-will-run-a-specif|Added
   the ability for agents to embed buttons in canvases that will run a specific…]]'
 - '[[Changes/Cursor/2026-06-04-jsonl-and-custom-stores|JSONL and custom stores]]'

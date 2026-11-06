@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: aaa2d7bf30b5dad8f9477b98f535468d82881ece05806c6957d4debbe746c6bb
+machine_hash: 4fd01fea13d130bc40d852f00c7cdcb1dbe8beb895ff7c1f541f770f36852b95
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -64,12 +64,12 @@ record:
   title: 5.2 Personality System Prompt Update
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-01-16-added-support-for-pretooluse-hooks-to-return-additionalcontext-to-the-model|Added
-  support for PreToolUse hooks to return additionalContext to the model]]'
-- '[[Changes/Cursor/2026-01-16-models-removed-use-model-to-see-all-models-or-select-a-model|/models
-  removed. Use /model to see all models or select a model]]'
 - '[[Changes/ChatGPT/2026-01-20-we-re-rolling-out-an-age-prediction-model-on-chatgpt-consumer-plans-to-help-dete|Rolling
   out age prediction]]'
+- '[[Changes/Codex CLI/2026-01-21-5-model-support-changes-in-rust-v0-88-0|5 Model
+  Support changes in rust-v0.88.0]]'
+- '[[Changes/Gemini CLI/2026-01-21-6-model-support-changes-in-v0-25-0|6 Model Support
+  changes in v0.25.0]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-01-22-5-2-personality-system-prompt-update-efbe6e4b|chatgpt-2026-01-22-5-2-personality-system-prompt-update-efbe6e4b]]'
 source_type: chatgpt_changelog
 theme: model-support
@@ -96,8 +96,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-01-20 · ChatGPT · [[Changes/ChatGPT/2026-01-20-we-re-rolling-out-an-age-prediction-model-on-chatgpt-consumer-plans-to-help-dete|Rolling out age prediction]]
-- Later: 2026-01-22 · Cursor · [[Changes/Cursor/2026-01-22-added-max-mode-on-off-to-toggle-max-mode-on-models-that-support-it-in-cli|Added /max-mode on / off to toggle max mode on models that support it in CLI]]
+- Earlier: 2026-01-21 · Gemini CLI · [[Changes/Gemini CLI/2026-01-21-6-model-support-changes-in-v0-25-0|6 Model Support changes in v0.25.0]]
+- Later: 2026-01-22 · Codex CLI · [[Changes/Codex CLI/2026-01-22-9597-feat-core-modelinfo-model-instructions-template-dylan-hurd-oai|♯9597 feat(core) ModelInfo.model_instructions_template @dylan-hurd-oai]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: 2b0dbd2fa68adb941c8d42e714b6fe7f1f855039473d2b7589db16d31150c495
+machine_hash: be93d59e95625c1b9b1866f776dce6bfe435dc87ae0bb3548718fa3fd6a9fd23
 product: cursor
 product_name: Cursor
 record:
@@ -65,12 +65,12 @@ record:
   title: Side chats
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-06-22-bash-commands-now-trigger-claude-to-respond-to-the-output-automatically-set-resp|!
-  bash commands now trigger Claude to respond to the output automatically]]'
-- '[[Changes/Claude Code/2026-07-01-subagents-and-context-compaction-now-inherit-the-session-s-extended-thinking-con|Subagents
-  and context compaction now inherit the session''s extended thinking…]]'
 - '[[Changes/Claude Code/2026-07-08-improved-auto-mode-to-ask-before-running-rm-rf-on-a-variable-it-can-t-resolve-fr|Improved
   auto mode to ask before running rm -rf on a variable it can''t resolve…]]'
+- '[[Changes/Codex CLI/2026-07-08-12-context-window-changes-in-rust-v0-143-0|12 Context
+  Window changes in rust-v0.143.0]]'
+- '[[Changes/Codex CLI/2026-07-09-3-context-window-changes-in-rust-v0-144-0|3 Context
+  Window changes in rust-v0.144.0]]'
 source_release: '[[Releases/Cursor/cursor-2026-07-10-3-11-https-cursor-com-changelog-side-chat-c762410d|cursor-2026-07-10-3-11-https-cursor-com-changelog-side-chat-c762410d]]'
 source_type: cursor_changelog
 theme: context-window
@@ -108,8 +108,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Context Window
 
-- Earlier: 2026-07-08 · Claude Code · [[Changes/Claude Code/2026-07-08-improved-auto-mode-to-ask-before-running-rm-rf-on-a-variable-it-can-t-resolve-fr|Improved auto mode to ask before running rm -rf on a variable it can't resolve…]]
-- Later: 2026-07-17 · Cursor · [[Changes/Cursor/2026-07-17-cross-channel-workflows|Cross-channel workflows]]
+- Earlier: 2026-07-09 · Codex CLI · [[Changes/Codex CLI/2026-07-09-3-context-window-changes-in-rust-v0-144-0|3 Context Window changes in rust-v0.144.0]]
+- Later: 2026-07-10 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-07-10-press-tab-to-switch-the-context-window-in-model|Press Tab to switch the context window in /model]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

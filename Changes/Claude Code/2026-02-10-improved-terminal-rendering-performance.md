@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: fd149c5664c1ee52532315c76ef451a837f27c20b86e9de10cb53bcdfd440c3c
+machine_hash: db2ab3497889ffd7b8ab61cee4d61ba7e13b6028a6036584a4565e37ada21aeb
 product: claude-code
 product_name: Claude Code
 record:
@@ -50,8 +50,8 @@ record:
   title: Improved terminal rendering performance
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-02-05-vscode-added-spinner-when-loading-past-conversations-list|VSCode:
-  Added spinner when loading past conversations list]]'
+- '[[Changes/GitHub Copilot CLI/2026-02-05-cancel-resume-session-picker-to-start-a-new-session|Cancel
+  --resume session picker to start a new session]]'
 - '[[Changes/Claude Code/2026-02-06-2-interface-experience-changes-in-v2-1-33|2 Interface
   Experience changes in v2.1.33]]'
 - '[[Changes/ChatGPT/2026-02-10-we-re-introducing-improvements-to-deep-research-in-chatgpt-to-help-produce-more|Updates
@@ -83,7 +83,7 @@ type: change
 ## Nearby in Interface Experience
 
 - Earlier: 2026-02-10 · ChatGPT · [[Changes/ChatGPT/2026-02-10-we-re-introducing-improvements-to-deep-research-in-chatgpt-to-help-produce-more|Updates to deep research]]
-- Later: 2026-02-13 · ChatGPT · [[Changes/ChatGPT/2026-02-13-quick-tools-in-the-composer-a-new-quick-tools-menu-in-the-message-composer-makes|Quick tools in the composer]]
+- Later: 2026-02-10 · Gemini CLI · [[Changes/Gemini CLI/2026-02-10-2-interface-experience-changes-in-v0-28-0|2 Interface Experience changes in v0.28.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 58e3627b05e6c10801fc2cb778d904dd9547b4e7b04d6e6a6a1b67f34594b8d2
+machine_hash: 05f0503eba377c3a0279086955450b625e1ace92bc57334869e443ff7c26dfa8
 product: cursor
 product_name: Cursor
 record:
@@ -50,10 +50,10 @@ record:
   title: Interaction improvements
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-07-14-2-interface-experience-changes-in-v2-1-210|2 Interface
-  Experience changes in v2.1.210]]'
 - '[[Changes/Claude Code/2026-07-15-improved-terminal-layout-and-rendering-performance|Improved
   terminal layout and rendering performance]]'
+- '[[Changes/GitHub Copilot CLI/2026-07-16-5-interface-experience-changes-in-v1-0-71|5
+  Interface Experience changes in v1.0.71]]'
 - '[[Changes/Claude Code/2026-07-17-typing-resume-in-the-agent-view-now-opens-a-picker-of-past-sessions-including-se|Typing
   /resume in the agent view now opens a picker of past sessions]]'
 source_release: '[[Releases/Cursor/cursor-2026-07-17-improvements-to-cursor-in-slack-https-cursor-com-changelog-slack-f233f9c6|cursor-2026-07-17-improvements-to-cursor-in-slack-https-cursor-com-changelog-slack-f233f9c6]]'
@@ -89,7 +89,7 @@ type: change
 ## Nearby in Interface Experience
 
 - Earlier: 2026-07-17 · Claude Code · [[Changes/Claude Code/2026-07-17-typing-resume-in-the-agent-view-now-opens-a-picker-of-past-sessions-including-se|Typing /resume in the agent view now opens a picker of past sessions]]
-- Later: 2026-07-24 · Claude Code · [[Changes/Claude Code/2026-07-24-2-interface-experience-changes-in-v2-1-219|2 Interface Experience changes in v2.1.219]]
+- Later: 2026-07-17 · Windsurf · [[Changes/Windsurf/2026-07-17-devin-local|Devin Local]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

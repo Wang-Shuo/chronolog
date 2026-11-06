@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: search-browsing
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: policy
-machine_hash: 73186991687a8783a87d85588c8c64822e162a9d89ffafb7562bf6a61442eac0
+machine_hash: 0e9e9c8e5a028b9efebc3c0ecdc17a573f9ec903b12e70fda40348ae77feb3c7
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -47,12 +47,12 @@ record:
   title: Legacy deep research mode deprecation notice
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-09-29-1-7-20-web-search-auto-accept-setting|1.7.20: Web search
-  auto-accept setting]]'
-- '[[Changes/Cursor/2026-01-16-added-webfetch-websearch-tools-approval-options-for-granular-controls-over-web-s|Added
-  WebFetch, WebSearch tools, & approval options for granular controls over web…]]'
-- '[[Changes/ChatGPT/2026-02-27-open-search-results-in-a-new-tab-cmd-click-in-the-search-panel-now-opens-results|Open
-  search results in a new tab]]'
+- '[[Changes/Codex CLI/2026-03-10-2-search-and-browsing-changes-in-rust-v0-113-0|2
+  Search and Browsing changes in rust-v0.113.0]]'
+- '[[Changes/Codex CLI/2026-03-11-14136-fix-core-use-dedicated-types-for-responsesapi-web-search-tool-config-owenl|♯14136
+  fix(core): use dedicated types for responsesapi web search tool config @owenlin0]]'
+- '[[Changes/GitHub Copilot CLI/2026-03-13-changelog-supports-last-n-since-version-and-summarize-to-browse-and-summarize-mu|/changelog
+  supports last N, since version, and summarize to browse…]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-03-19-legacy-deep-research-mode-deprecation-notice-99d97534|chatgpt-2026-03-19-legacy-deep-research-mode-deprecation-notice-99d97534]]'
 source_type: chatgpt_changelog
 theme: search-browsing
@@ -79,7 +79,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Search and Browsing
 
-- Earlier: 2026-02-27 · ChatGPT · [[Changes/ChatGPT/2026-02-27-open-search-results-in-a-new-tab-cmd-click-in-the-search-panel-now-opens-results|Open search results in a new tab]]
+- Earlier: 2026-03-13 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-03-13-changelog-supports-last-n-since-version-and-summarize-to-browse-and-summarize-mu|/changelog supports last N, since version, and summarize to browse…]]
 - Later: 2026-03-23 · ChatGPT · [[Changes/ChatGPT/2026-03-23-now-it-s-easier-to-find-reuse-and-build-on-your-files-over-time-when-you-upload|File Library in ChatGPT]]
 <!-- chronolog:end -->
 

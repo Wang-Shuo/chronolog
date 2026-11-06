@@ -14,7 +14,7 @@ created: '2025-12-19'
 date: '2026-10-31'
 description: Anthropic's coding agent for the terminal and IDEs, tracked through its
   official GitHub releases from v2.0.73 (2025-12-19).
-machine_hash: 08695e5ce95cf1b000c561190a8e87a07467fff358fc4f261268fda451d9428b
+machine_hash: 2ecbb8d498b05e56ed3775776e4cfeb8fc8bbaf00abb00789df0fea305b71302
 modified: '2026-10-31'
 product: claude-code
 product_name: Claude Code
@@ -57,11 +57,10 @@ Anthropic's coding agent for the terminal and IDEs, tracked through its official
 
 ## Release cadence
 <!-- chronolog:begin region="cadence" -->
-Last release 2026-10-31 (the archive date) · 80 releases in the last 90 days · cadence: normal
+Last release 2026-10-31 (6 days before the archive date) · 74 releases in the last 90 days · cadence: normal
 
-Monthly releases, last 12 months (baseline 23.1 per month):
+Monthly releases, last 12 months (baseline 23.4 per month):
 
-- 2025-11 · not archived
 - 2025-12 ▇ 2
 - 2026-01 ▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇ 23
 - 2026-02 ▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇ 26
@@ -73,6 +72,7 @@ Monthly releases, last 12 months (baseline 23.1 per month):
 - 2026-08 ▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇ 27
 - 2026-09 ▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇ 27
 - 2026-10 ▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇ 26
+- 2026-11 · 0
 <!-- chronolog:end -->
 
 ## Eras

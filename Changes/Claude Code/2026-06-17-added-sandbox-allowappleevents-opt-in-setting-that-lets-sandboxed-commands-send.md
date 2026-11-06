@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 7377ef15aaa624889a9f219fd692a8836f02b95bcf2ba91c129c5bef1a1f2b45
+machine_hash: e5a30e47ec6b7d1377a41f3f37f839d16dc02b64117d1a4651518ed3042f33ee
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,12 +45,12 @@ record:
     send…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-06-10-2-safety-and-privacy-changes-in-v2-1-172|2 Safety
-  and Privacy changes in v2.1.172]]'
-- '[[Changes/Cursor/2026-06-10-run-bugbot-before-you-push-3e5964|Run Bugbot before
-  you push]]'
+- '[[Changes/GitHub Copilot CLI/2026-06-13-2-safety-and-privacy-changes-in-v1-0-62|2
+  Safety and Privacy changes in v1.0.62]]'
 - '[[Changes/Claude Code/2026-06-15-2-safety-and-privacy-changes-in-v2-1-178|2 Safety
   and Privacy changes in v2.1.178]]'
+- '[[Changes/Codex CLI/2026-06-15-27490-remove-tui-legacy-windows-sandbox-dependency-etraut-openai|♯27490
+  Remove TUI legacy Windows sandbox dependency @etraut-openai]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-06-17-v2-1-181-github-340975229-c771c493|claude-code-2026-06-17-v2-1-181-github-340975229-c771c493]]'
 source_type: github_releases
 theme: safety-privacy
@@ -86,7 +86,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Safety and Privacy
 
-- Earlier: 2026-06-15 · Claude Code · [[Changes/Claude Code/2026-06-15-2-safety-and-privacy-changes-in-v2-1-178|2 Safety and Privacy changes in v2.1.178]]
+- Earlier: 2026-06-15 · Codex CLI · [[Changes/Codex CLI/2026-06-15-27490-remove-tui-legacy-windows-sandbox-dependency-etraut-openai|♯27490 Remove TUI legacy Windows sandbox dependency @etraut-openai]]
 - Later: 2026-06-18 · ChatGPT · [[Changes/ChatGPT/2026-06-18-app-permission-controls-you-can-now-choose-when-chatgpt-asks-before-using-connec|App permission controls: You can now choose when ChatGPT asks before using connected apps]]
 <!-- chronolog:end -->
 

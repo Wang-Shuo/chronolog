@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 19b732fcf6338395012a4fb05aa1adb1f49ae2ce88e92e07687eec93d8f05f92
+machine_hash: bdd90a8e860301ec16f3fe35771078fc85eed10a04dfd4760bbef8ddd6292395
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -56,12 +56,12 @@ record:
   title: Health appears as a new space in the ChatGPT sidebar
   type: change
 related_changes:
-- '[[Changes/Claude Code/2025-12-19-3-interface-experience-changes-in-v2-0-73|3 Interface
-  Experience changes in v2.0.73]]'
-- '[[Changes/Claude Code/2025-12-19-2-interface-experience-changes-in-v2-0-74|2 Interface
-  Experience changes in v2.0.74]]'
 - '[[Changes/Cursor/2025-12-22-3-interface-experience-changes-in-2-3|3 Interface Experience
   changes in 2.3]]'
+- '[[Changes/Cline/2026-01-06-show-notification-instead-of-opening-sidebar-on-update|Show
+  notification instead of opening sidebar on update]]'
+- '[[Changes/Codex CLI/2026-01-06-9-interface-experience-changes-in-rust-v0-78-0|9
+  Interface Experience changes in rust-v0.78.0]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-01-07-health-in-chatgpt-4cb3bdf6|chatgpt-2026-01-07-health-in-chatgpt-4cb3bdf6]]'
 source_type: chatgpt_changelog
 theme: interface-experience
@@ -90,8 +90,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2025-12-22 · Cursor · [[Changes/Cursor/2025-12-22-3-interface-experience-changes-in-2-3|3 Interface Experience changes in 2.3]]
-- Later: 2026-01-09 · Claude Code · [[Changes/Claude Code/2026-01-09-2-interface-experience-changes-in-v2-1-3|2 Interface Experience changes in v2.1.3]]
+- Earlier: 2026-01-06 · Codex CLI · [[Changes/Codex CLI/2026-01-06-9-interface-experience-changes-in-rust-v0-78-0|9 Interface Experience changes in rust-v0.78.0]]
+- Later: 2026-01-08 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-01-08-loading-remote-sessions-using-graphql-id-or-session-picker|Loading remote sessions using GraphQL ID or session picker]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

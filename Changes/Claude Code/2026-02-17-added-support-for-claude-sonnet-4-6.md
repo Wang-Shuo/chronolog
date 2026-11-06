@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 90e03b09dd5b541dcb2f0394f26adf9fbc58f8bcf4c9284ca85324a963bde752
+machine_hash: 56ea2e2a73fa70f37aa3793bebb92df3169167da1bb9c864d1b26f590e9007fb
 product: claude-code
 product_name: Claude Code
 record:
@@ -44,12 +44,12 @@ record:
   title: Added support for Claude Sonnet 4.6
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-02-07-fast-mode-is-now-available-for-opus-4-6-learn-more-at-https-code-claude-com-docs|Fast
-  mode is now available for Opus 4.6]]'
-- '[[Changes/ChatGPT/2026-02-10-we-re-making-an-update-to-gpt-5-2-instant-in-chatgpt-and-the-api-that-improves-r|GPT-5.2
-  Instant Update]]'
+- '[[Changes/GitHub Copilot CLI/2026-02-12-add-streamer-mode-to-hide-preview-model-names-and-quota-details-for-streaming|Add
+  /streamer-mode to hide preview model names and quota details for streaming]]'
 - '[[Changes/ChatGPT/2026-02-13-as-previously-announced-we-have-retired-gpt-4o-gpt-4-1-gpt-4-1-mini-and-openai-o|Retiring
   GPT-4o and other legacy models]]'
+- '[[Changes/Cline/2026-02-13-ui-ux-fixes-with-minimax-model-family|UI/UX fixes with
+  minimax model family]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-02-17-v2-1-45-github-287379410-d0651fb6|claude-code-2026-02-17-v2-1-45-github-287379410-d0651fb6]]'
 source_type: github_releases
 theme: model-support
@@ -83,8 +83,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-02-13 · ChatGPT · [[Changes/ChatGPT/2026-02-13-as-previously-announced-we-have-retired-gpt-4o-gpt-4-1-gpt-4-1-mini-and-openai-o|Retiring GPT-4o and other legacy models]]
-- Later: 2026-02-18 · Cursor · [[Changes/Cursor/2026-02-18-2-model-support-changes-in-cli-improvements-and-mermaid-ascii|2 Model Support changes in CLI Improvements and Mermaid ASCII…]]
+- Earlier: 2026-02-13 · Cline · [[Changes/Cline/2026-02-13-ui-ux-fixes-with-minimax-model-family|UI/UX fixes with minimax model family]]
+- Later: 2026-02-17 · Codex CLI · [[Changes/Codex CLI/2026-02-17-11-model-support-changes-in-rust-v0-102-0|11 Model Support changes in rust-v0.102.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

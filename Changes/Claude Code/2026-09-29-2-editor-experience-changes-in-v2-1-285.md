@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 682b1fbff79905d88e25b8176a780719b36364a08e0823fa884b329862262c9c
+machine_hash: a23b22469fde1ad06319f217708a772a6ca9d26d119040488351646cc9ab164a
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,10 +45,10 @@ record:
   title: 2 Editor Experience changes in v2.1.285
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-09-28-you-can-now-select-a-chart-metric-or-record-in-the-health-tab-to-get-personalize|Explore
-  your health data with personalized summaries]]'
-- '[[Changes/Claude Code/2026-09-28-changed-ultracode-into-its-own-toggle-in-effort-tab-or-effort-ultracode-on-off-i|Changed
-  Ultracode into its own toggle in /effort (Tab, or /effort ultracode on / off)]]'
+- '[[Changes/Codex CLI/2026-09-28-4-editor-experience-changes-in-rust-v0-158-0|4 Editor
+  Experience changes in rust-v0.158.0]]'
+- '[[Changes/GitHub Copilot CLI/2026-09-28-shell-output-no-longer-shows-trailing-command-completion-metadata|Shell
+  output no longer shows trailing command completion metadata]]'
 - '[[Changes/ChatGPT/2026-09-29-turn-a-conversation-into-a-page-start-from-a-template-or-begin-writing-directly|Turn
   a conversation into a Page, start from a template, or begin writing directly in
   Space]]'
@@ -97,7 +97,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.285
 ## Nearby in Editor Experience
 
 - Earlier: 2026-09-29 · ChatGPT · [[Changes/ChatGPT/2026-09-29-turn-a-conversation-into-a-page-start-from-a-template-or-begin-writing-directly|Turn a conversation into a Page, start from a template, or begin writing directly in Space]]
-- Later: 2026-09-30 · Claude Code · [[Changes/Claude Code/2026-09-30-improved-the-external-editor-ctrl-g-editors-that-take-a-line-number-now-open-on|Improved the external editor (Ctrl+G)]]
+- Later: 2026-09-29 · Codex CLI · [[Changes/Codex CLI/2026-09-29-3-editor-experience-changes-in-rust-v0-159-0|3 Editor Experience changes in rust-v0.159.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

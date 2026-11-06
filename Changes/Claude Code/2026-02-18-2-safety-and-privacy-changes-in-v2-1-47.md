@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 1416288016cc4be0c42332977fcb86f167a7509a29cc27f4525f44aa2bca6d51
+machine_hash: 13b1d33ffdf312e5cec9de81bf179fe4b736d7aaf9c67e3205dcf1e69d277537
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,8 +45,8 @@ record:
   title: 2 Safety and Privacy changes in v2.1.47
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-02-17-vscode-improved-permission-destination-choice-project-user-session-to-persist-ac|VSCode
-  Improved permission destination choice (project/user/session) to persist…]]'
+- '[[Changes/Codex CLI/2026-02-17-9-safety-and-privacy-changes-in-rust-v0-102-0|9
+  Safety and Privacy changes in rust-v0.102.0]]'
 - '[[Changes/Cursor/2026-02-17-sandbox-network-access-controls|Sandbox network access
   controls]]'
 - '[[Changes/Cursor/2026-02-17-3-safety-and-privacy-changes-in-2-5|3 Safety and Privacy

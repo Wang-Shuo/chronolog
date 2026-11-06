@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: policy
-machine_hash: dc8c780961397e2f0f34211afe5a3fb19dfeff130a1f4141629738d5959c92a2
+machine_hash: fa4843635636f8e6e96d1e60258d0565227dd7ac86b54a7e25c4d92280993350
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -68,12 +68,12 @@ record:
   title: Rolling out age prediction
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-01-09-merged-slash-commands-and-skills-simplifying-the-mental-model-with-no-change-in|Merged
-  slash commands and skills, simplifying the mental model with no change in behavior]]'
-- '[[Changes/Claude Code/2026-01-16-added-support-for-pretooluse-hooks-to-return-additionalcontext-to-the-model|Added
-  support for PreToolUse hooks to return additionalContext to the model]]'
-- '[[Changes/Cursor/2026-01-16-models-removed-use-model-to-see-all-models-or-select-a-model|/models
-  removed. Use /model to see all models or select a model]]'
+- '[[Changes/GitHub Copilot CLI/2026-01-16-3-model-support-changes-in-v0-0-384|3 Model
+  Support changes in v0.0.384]]'
+- '[[Changes/Windsurf/2026-01-16-improvements-to-gpt-5-2-codex-harness|Improvements
+  to GPT-5.2-Codex harness]]'
+- '[[Changes/GitHub Copilot CLI/2026-01-19-model-switching-from-codex-to-opus-preserves-conversation-history-correctly|Model
+  switching from Codex to Opus preserves conversation history correctly]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-01-20-rolling-out-age-prediction-2382655a|chatgpt-2026-01-20-rolling-out-age-prediction-2382655a]]'
 source_type: chatgpt_changelog
 theme: model-support
@@ -100,8 +100,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-01-16 · Cursor · [[Changes/Cursor/2026-01-16-models-removed-use-model-to-see-all-models-or-select-a-model|/models removed. Use /model to see all models or select a model]]
-- Later: 2026-01-22 · ChatGPT · [[Changes/ChatGPT/2026-01-22-we-re-updating-gpt-5-2-instant-s-default-personality-to-be-more-conversational-a|5.2 Personality System Prompt Update]]
+- Earlier: 2026-01-19 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-01-19-model-switching-from-codex-to-opus-preserves-conversation-history-correctly|Model switching from Codex to Opus preserves conversation history correctly]]
+- Later: 2026-01-21 · Codex CLI · [[Changes/Codex CLI/2026-01-21-5-model-support-changes-in-rust-v0-88-0|5 Model Support changes in rust-v0.88.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

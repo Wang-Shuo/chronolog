@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: aa9f8c1bdd854f01054e5035385f7f20256c1275dc92c7f7ae3a470eecce3b2a
+machine_hash: 9ac825ab00326a4e3bb2f768d7cbaa7fb20ad5f4d37526463b79061a1490a9d5
 product: cursor
 product_name: Cursor
 record:
@@ -45,8 +45,8 @@ record:
   title: Plan mode in CLI
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-01-14-added-inline-display-of-agent-s-final-response-in-task-notifications-making-it-e|Added
-  inline display of agent''s final response in task notifications, making…]]'
+- '[[Changes/Codex CLI/2026-01-15-9275-feat-add-agent-roles-to-collab-tools-jif-oai|♯9275
+  feat: add agent roles to collab tools @jif-oai]]'
 - '[[Changes/Claude Code/2026-01-16-added-plansdirectory-setting-to-customize-where-plan-files-are-stored|Added
   plansDirectory setting to customize where plan files are stored]]'
 - '[[Changes/Cursor/2026-01-16-push-your-local-conversation-to-a-cloud-agent-and-let-it-keep-running-while-you|Handoff
@@ -91,7 +91,7 @@ type: change
 ## Nearby in Agent Mode
 
 - Earlier: 2026-01-16 · Claude Code · [[Changes/Claude Code/2026-01-16-added-plansdirectory-setting-to-customize-where-plan-files-are-stored|Added plansDirectory setting to customize where plan files are stored]]
-- Later: 2026-01-22 · Cursor · [[Changes/Cursor/2026-01-22-skills|Skills]]
+- Later: 2026-01-16 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-01-16-2-agent-mode-changes-in-v0-0-384|2 Agent Mode changes in v0.0.384]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: 711bcd48106a04c8ad107fcc5d8ef2a4c570ad62f11483beaff68d34992667f7
+machine_hash: 91915b3c7247b157b506f70f48cd08403eac9b320f7148420d0916dc027beaf7
 product: cursor
 product_name: Cursor
 record:
@@ -78,9 +78,8 @@ record:
   title: Introducing unified request-based pricing, Max Mode for all top models…
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-03-23-usage-based-cost-visibility|Usage-based cost visibility]]'
-- '[[Changes/Cursor/2025-03-23-this-release-introduces-chat-tabs-for-parallel-conversations-a-redesignedmodes-s|Cursor
-  introduces chat tabs for parallel conversations, a redesignedmodes system…]]'
+- '[[Changes/Windsurf/2025-04-20-user-prompt-credits|User Prompt Credits]]'
+- '[[Changes/Windsurf/2025-04-20-existing-plans|Existing Plans]]'
 - '[[Changes/Cursor/2025-05-15-simpler-unified-pricing-6a915c|Simpler, unified pricing]]'
 source_release: '[[Releases/Cursor/cursor-2025-05-15-0-50-https-cursor-com-changelog-0-50-dc290998|cursor-2025-05-15-0-50-https-cursor-com-changelog-0-50-dc290998]]'
 source_type: cursor_changelog
@@ -117,8 +116,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Pricing Model
 
-- Earlier: 2025-03-23 · Cursor · [[Changes/Cursor/2025-03-23-this-release-introduces-chat-tabs-for-parallel-conversations-a-redesignedmodes-s|Cursor introduces chat tabs for parallel conversations, a redesignedmodes system…]]
-- Later: 2025-08-06 · Cursor · [[Changes/Cursor/2025-08-06-usage-and-pricing-visibility|Usage and pricing visibility]]
+- Earlier: 2025-04-20 · Windsurf · [[Changes/Windsurf/2025-04-20-existing-plans|Existing Plans]]
+- Later: 2025-07-01 · Gemini CLI · [[Changes/Gemini CLI/2025-07-01-docs-add-a-page-detailing-quota-and-cost-information-by-ptone-in-https-github-co|Docs: Add a page detailing quota and cost information]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

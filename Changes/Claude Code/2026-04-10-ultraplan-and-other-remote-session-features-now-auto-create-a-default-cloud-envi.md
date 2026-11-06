@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: b8770e5dc5ccf1cfa07f3efd52fe46d25630e55bc306f03b18a4164c0a1890fe
+machine_hash: 3469e21a0fb526aad599df55a8495cb904b4090eb75e295888594eaa77c13608
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,11 +45,12 @@ record:
     cloud…'
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-04-02-agents-window-da5689|Agents Window]]'
-- '[[Changes/Claude Code/2026-04-08-2-agent-mode-changes-in-v2-1-97|2 Agent Mode changes
-  in v2.1.97]]'
+- '[[Changes/Gemini CLI/2026-04-08-11-agent-mode-changes-in-v0-37-0|11 Agent Mode
+  changes in v0.37.0]]'
 - '[[Changes/Claude Code/2026-04-09-3-agent-mode-changes-in-v2-1-98|3 Agent Mode changes
   in v2.1.98]]'
+- '[[Changes/GitHub Copilot CLI/2026-04-09-3-agent-mode-changes-in-v1-0-22|3 Agent
+  Mode changes in v1.0.22]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-04-10-v2-1-101-github-307692858-ffcdf642|claude-code-2026-04-10-v2-1-101-github-307692858-ffcdf642]]'
 source_type: github_releases
 theme: agent-mode
@@ -85,8 +86,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2026-04-09 · Claude Code · [[Changes/Claude Code/2026-04-09-3-agent-mode-changes-in-v2-1-98|3 Agent Mode changes in v2.1.98]]
-- Later: 2026-04-13 · Cursor · [[Changes/Cursor/2026-04-13-tiled-layout-2f03f6|Tiled layout]]
+- Earlier: 2026-04-09 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-04-09-3-agent-mode-changes-in-v1-0-22|3 Agent Mode changes in v1.0.22]]
+- Later: 2026-04-10 · Codex CLI · [[Changes/Codex CLI/2026-04-10-13-agent-mode-changes-in-rust-v0-119-0|13 Agent Mode changes in rust-v0.119.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

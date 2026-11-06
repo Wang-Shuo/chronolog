@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 30e9de90a6d53a1ed3db93654c81a36d180bfde409ef48f43251e7e7f32be61b
+machine_hash: 3a91193c6e32f6df8afec83242dffcc44b892778aa7eff7db5f5fdf09c00ee4c
 product: claude-code
 product_name: Claude Code
 record:
@@ -54,12 +54,11 @@ record:
     refocus…
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-08-21-keep-recent-chats-easier-to-browse-your-sidebar-now-shows-up-to-eight-recent-con|Keep
-  recent chats easier to browse]]'
-- '[[Changes/ChatGPT/2026-08-21-generated-images-are-easier-to-view-and-your-recent-conversations-are-easier-to|Generated
-  images are easier to view, and your recent conversations are easier to browse]]'
-- '[[Changes/Claude Code/2026-08-21-3-interface-experience-changes-in-v2-1-239|3 Interface
-  Experience changes in v2.1.239]]'
+- '[[Changes/OpenHands/2026-08-21-2-interface-experience-changes-in-v1-15-0|2 Interface
+  Experience changes in v1.15.0]]'
+- '[[Changes/Windsurf/2026-08-21-devin-cloud|Devin Cloud]]'
+- '[[Changes/Gemini CLI/2026-08-25-ssr-agent-issue-fix-23954-add-trailing-space-to-autocomplete-suggestions-by-jone|SSR
+  Agent Issue Fix (23954): Add trailing space to autocomplete suggestions]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-08-26-v2-1-247-github-377320078-fc507178|claude-code-2026-08-26-v2-1-247-github-377320078-fc507178]]'
 source_type: github_releases
 theme: interface-experience
@@ -95,8 +94,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-08-21 · Claude Code · [[Changes/Claude Code/2026-08-21-3-interface-experience-changes-in-v2-1-239|3 Interface Experience changes in v2.1.239]]
-- Later: 2026-08-27 · Claude Code · [[Changes/Claude Code/2026-08-27-2-interface-experience-changes-in-v2-1-248|2 Interface Experience changes in v2.1.248]]
+- Earlier: 2026-08-25 · Gemini CLI · [[Changes/Gemini CLI/2026-08-25-ssr-agent-issue-fix-23954-add-trailing-space-to-autocomplete-suggestions-by-jone|SSR Agent Issue Fix (23954): Add trailing space to autocomplete suggestions]]
+- Later: 2026-08-26 · Codex CLI · [[Changes/Codex CLI/2026-08-26-6-interface-experience-changes-in-rust-v0-150-0|6 Interface Experience changes in rust-v0.150.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

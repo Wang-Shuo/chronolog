@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: accessibility-localization
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 7f778c6ab1ec34799c6d578e6d2eb6fe5584213e260d914341ea5a7b79445b9f
+machine_hash: b0f099a723bdb1af0199d0450f5fc1c20a59160bd55b3908eecb7e3ff89fc68c
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,10 +45,10 @@ record:
     users'
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-02-04-added-support-for-full-width-zenkaku-space-input-from-japanese-ime-in-checkbox-s|Added
-  support for full-width (zenkaku) space input from Japanese IME in checkbox selection]]'
-- '[[Changes/Claude Code/2026-06-12-session-titles-are-now-generated-in-the-language-of-your-conversation-set-the-la|Session
-  titles are now generated in the language of your conversation…]]'
+- '[[Changes/GitHub Copilot CLI/2026-06-13-improve-color-contrast-in-github-themes-to-meet-wcag-aa-accessibility-standards|Improve
+  color contrast in GitHub themes to meet WCAG AA accessibility standards]]'
+- '[[Changes/Codex CLI/2026-06-22-28770-connectors-ignore-synthetic-links-for-app-accessibility-adaley-openai|♯28770
+  connectors Ignore synthetic links for app accessibility @adaley-openai]]'
 - '[[Changes/Claude Code/2026-07-03-improved-screen-reader-output-decorative-glyphs-are-now-hidden-transcript-symbol|Improved
   screen-reader output]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-07-14-v2-1-208-github-353442054-2756b984|claude-code-2026-07-14-v2-1-208-github-353442054-2756b984]]'

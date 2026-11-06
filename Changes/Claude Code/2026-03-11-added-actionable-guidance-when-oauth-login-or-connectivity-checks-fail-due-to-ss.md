@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 8238d31a69450b99f347283a7e084543380f42ce3e4a5c7df680761ba6947cbe
+machine_hash: 7bf9228d1e5f29195e92178c5e7519a1669d739e262cf81c037ed75f93b8a7c0
 product: claude-code
 product_name: Claude Code
 record:
@@ -44,12 +44,12 @@ record:
     to SSL…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-02-28-added-manual-url-paste-fallback-during-mcp-oauth-authentication-if-the-automatic|Added
-  manual URL paste fallback during MCP OAuth authentication]]'
-- '[[Changes/Claude Code/2026-03-05-2-account-and-access-changes-in-v2-1-69|2 Account
-  and Access changes in v2.1.69]]'
-- '[[Changes/Claude Code/2026-03-06-vscode-added-native-mcp-server-management-dialog-use-mcp-in-the-chat-panel-to-en|VSCode
-  Added native MCP server management dialog]]'
+- '[[Changes/GitHub Copilot CLI/2026-03-06-mcp-servers-can-now-request-users-to-visit-a-url-for-out-of-band-interactions-su|MCP
+  servers can now request users to visit a URL for out-of-band interactions such…]]'
+- '[[Changes/GitHub Copilot CLI/2026-03-09-login-flow-no-longer-hangs-on-ubuntu-when-system-keyring-is-unresponsive|Login
+  flow no longer hangs on Ubuntu when system keyring is unresponsive]]'
+- '[[Changes/Codex CLI/2026-03-10-2-account-and-access-changes-in-rust-v0-113-0|2
+  Account and Access changes in rust-v0.113.0]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-03-11-v2-1-73-github-295814700-0abb054f|claude-code-2026-03-11-v2-1-73-github-295814700-0abb054f]]'
 source_type: github_releases
 theme: account-access
@@ -85,8 +85,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Account and Access
 
-- Earlier: 2026-03-06 · Claude Code · [[Changes/Claude Code/2026-03-06-vscode-added-native-mcp-server-management-dialog-use-mcp-in-the-chat-panel-to-en|VSCode Added native MCP server management dialog]]
-- Later: 2026-03-18 · Claude Code · [[Changes/Claude Code/2026-03-18-added-console-flag-to-claude-auth-login-for-anthropic-console-api-billing-authen|Added --console flag to claude auth login for Anthropic Console (API billing)…]]
+- Earlier: 2026-03-10 · Codex CLI · [[Changes/Codex CLI/2026-03-10-2-account-and-access-changes-in-rust-v0-113-0|2 Account and Access changes in rust-v0.113.0]]
+- Later: 2026-03-11 · Gemini CLI · [[Changes/Gemini CLI/2026-03-11-feat-core-implement-http-authentication-support-for-a2a-remote-agents-by-sandyta|feat(core): implement HTTP authentication support for A2A remote agents]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

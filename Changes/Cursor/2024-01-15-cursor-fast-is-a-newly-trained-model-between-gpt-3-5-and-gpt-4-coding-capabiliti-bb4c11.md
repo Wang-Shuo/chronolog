@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: ea3b94e8e17ee592f3ca0f9bc0523dafc2467b608d350ef754001a0de9cf741e
+machine_hash: f1d5041222097dbdfd20d15ebbaa643b8fb1bc9bcf3655c3a3cf34278ff74128
 product: cursor
 product_name: Cursor
 record:
@@ -59,12 +59,12 @@ record:
   title: Cursor-Fast is a newly trained model between gpt-3.5 and gpt-4 coding capabilities…
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2023-10-17-browsing-which-we-re-launched-a-few-weeks-ago-is-moving-out-of-beta-plus-and-ent|Browsing
-  is now out of beta]]'
-- '[[Changes/Cursor/2023-11-10-new-models-you-can-plug-in-your-api-key-to-try-out-the-newest-gpt-4-and-gpt-3-tu|New
-  models: you can plug in your API key to try out the newest gpt-4 and gpt-3 turbo…]]'
 - '[[Changes/Cursor/2023-12-16-ai-review-beta-this-is-a-new-experimental-feature-that-let-s-gpt-4-scan-your-git|AI
   Review (beta)]]'
+- '[[Changes/Aider/2023-12-20-3-model-support-changes-in-v0-19-0|3 Model Support changes
+  in v0.19.0]]'
+- '[[Changes/Aider/2024-01-04-add-images-to-the-chat-to-automatically-use-gpt-4-vision-by-joshuavial|Add
+  images to the chat to automatically use GPT-4 Vision, by @joshuavial]]'
 source_release: '[[Releases/Cursor/cursor-2024-01-15-0-22-1-nightly-https-cursor-com-changelog-0-22-1-nightly-a39dbb5c|cursor-2024-01-15-0-22-1-nightly-https-cursor-com-changelog-0-22-1-nightly-a39dbb5c]]'
 source_type: cursor_changelog
 theme: model-support
@@ -96,7 +96,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2023-12-16 · Cursor · [[Changes/Cursor/2023-12-16-ai-review-beta-this-is-a-new-experimental-feature-that-let-s-gpt-4-scan-your-git|AI Review (beta)]]
+- Earlier: 2024-01-04 · Aider · [[Changes/Aider/2024-01-04-add-images-to-the-chat-to-automatically-use-gpt-4-vision-by-joshuavial|Add images to the chat to automatically use GPT-4 Vision, by @joshuavial]]
 - Later: 2024-01-18 · Cursor · [[Changes/Cursor/2024-01-18-cursor-fast-this-is-a-new-model-available-in-command-k-and-chat-expect-it-to-be|"cursor-fast": This is a new model available in command-k and chat]]
 <!-- chronolog:end -->
 

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: 80a348ae9b4c600ecb1d7d06aa451cfe53b1708a7e0aac54513014ba0d20f1db
+machine_hash: 0594cc9588ff5083eb5bc2240a48cbc3a9e8c8b1e33aa281ca6166e0c358aefb
 product: cursor
 product_name: Cursor
 record:
@@ -47,8 +47,8 @@ record:
   title: Build history and debugging
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-08-07-added-a-cancel-and-confirm-step-when-removing-an-unavailable-paste-changes-a-com|Added
-  a cancel-and-confirm step when removing an unavailable paste changes…]]'
+- '[[Changes/Gemini CLI/2026-08-11-4-developer-workflow-changes-in-v0-55-1|4 Developer
+  Workflow changes in v0.55.1]]'
 - '[[Changes/Claude Code/2026-08-12-changed-commit-push-pr-so-git-gh-commands-with-dangerous-flags-force-amend-no-ve|Changed
   /commit-push-pr so git/gh commands with dangerous flags…]]'
 - '[[Changes/Claude Code/2026-08-13-remote-control-the-terminal-now-says-whether-a-session-was-taken-over-by-another|Remote

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: f81c369bf2fb3c2782270ba1f5a497f39d09866bc6f1d039e134c7bab87deead
+machine_hash: 26401d72cc6982eff948aff7122b89411d043616437ce7bb56ceda15c7efeffb
 product: claude-code
 product_name: Claude Code
 record:
@@ -43,10 +43,9 @@ record:
   title: Improved `/mobile` to show a single QR code for claude.ai/mobile, which opens…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-03-3-mobile-and-desktop-changes-in-v2-1-260|3 Mobile
-  and Desktop changes in v2.1.260]]'
-- '[[Changes/ChatGPT/2026-09-08-turn-a-sketch-into-an-image-on-mobile-type-in-the-message-box-and-select-sketch|Turn
-  a sketch into an image]]'
+- '[[Changes/Windsurf/2026-09-10-introducing-fusion-in-devin-desktop-and-devin-cli-https-exafunction-github-io-pu|!Introducing
+  Fusion in Devin Desktop and Devin…]]'
+- '[[Changes/Windsurf/2026-09-10-devin-desktop|Devin Desktop]]'
 - '[[Changes/Claude Code/2026-09-11-changed-skills-synced-from-claude-ai-in-cloud-sessions-to-be-named-anthropic-ski|Changed
   skills synced from claude.ai in cloud sessions to be named…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-14-v2-1-271-github-388664071-570fd44f|claude-code-2026-09-14-v2-1-271-github-388664071-570fd44f]]'

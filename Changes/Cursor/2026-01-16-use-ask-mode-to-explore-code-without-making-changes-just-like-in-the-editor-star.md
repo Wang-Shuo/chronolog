@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 2600508fb7d060e5e21501adfdbcd8c01a278aec01343707f976d5749549a320
+machine_hash: b972070a02b3535ee16c2bc34bcd9ab407a7f9e157dc5ba43f2835ae5997a5e7
 product: cursor
 product_name: Cursor
 record:
@@ -44,8 +44,8 @@ record:
   title: Ask mode in CLI
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-01-13-2-editor-experience-changes-in-v2-1-6|2 Editor
-  Experience changes in v2.1.6]]'
+- '[[Changes/Gemini CLI/2026-01-14-4-editor-experience-changes-in-v0-24-0|4 Editor
+  Experience changes in v0.24.0]]'
 - '[[Changes/Claude Code/2026-01-16-added-external-editor-support-ctrl-g-in-askuserquestion-other-input-field|Added
   external editor support (Ctrl+G) in AskUserQuestion "Other" input field]]'
 - '[[Changes/Cursor/2026-01-16-this-release-brings-many-of-the-editor-s-most-loved-features-to-the-cursor-cli-a|Cursor
@@ -90,7 +90,7 @@ type: change
 ## Nearby in Editor Experience
 
 - Earlier: 2026-01-16 · Claude Code · [[Changes/Claude Code/2026-01-16-added-external-editor-support-ctrl-g-in-askuserquestion-other-input-field|Added external editor support (Ctrl+G) in AskUserQuestion "Other" input field]]
-- Later: 2026-01-20 · Claude Code · [[Changes/Claude Code/2026-01-20-added-history-based-autocomplete-in-bash-mode-type-a-partial-command-and-press-t|Added history-based autocomplete in bash mode (!) - type a partial command…]]
+- Later: 2026-01-16 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-01-16-2-editor-experience-changes-in-v0-0-384|2 Editor Experience changes in v0.0.384]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

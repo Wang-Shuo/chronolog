@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: ab9c948d4b63d88886cdc1f5a23324cd6fbf9887961fe56be5064ad6cb4165d8
+machine_hash: f633929134ea8f4ae5b2dafa49b5e9441c33751f74ba712bc1f1bb298ccf7994
 product: cursor
 product_name: Cursor
 record:
@@ -43,12 +43,12 @@ record:
     specific…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-06-02-improved-performance-of-opening-recently-inactive-background-agent-sessions-in-c|Improved
-  performance of opening recently-inactive background agent sessions…]]'
 - '[[Changes/Claude Code/2026-06-02-claude-agents-rows-now-show-done-total-before-the-detail-when-work-is-fanned-out|claude
   agents rows now show done/total before the detail when work is fanned out]]'
 - '[[Changes/Claude Code/2026-06-04-2-agent-mode-changes-in-v2-1-163|2 Agent Mode
   changes in v2.1.163]]'
+- '[[Changes/Codex CLI/2026-06-04-12-agent-mode-changes-in-rust-v0-137-0|12 Agent
+  Mode changes in rust-v0.137.0]]'
 source_release: '[[Releases/Cursor/cursor-2026-06-04-3-7-https-cursor-com-changelog-canvas-improvements-6f42df85|cursor-2026-06-04-3-7-https-cursor-com-changelog-canvas-improvements-6f42df85]]'
 source_type: cursor_changelog
 theme: agent-mode
@@ -83,7 +83,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2026-06-04 · Claude Code · [[Changes/Claude Code/2026-06-04-2-agent-mode-changes-in-v2-1-163|2 Agent Mode changes in v2.1.163]]
+- Earlier: 2026-06-04 · Codex CLI · [[Changes/Codex CLI/2026-06-04-12-agent-mode-changes-in-rust-v0-137-0|12 Agent Mode changes in rust-v0.137.0]]
 - Later: 2026-06-04 · Cursor · [[Changes/Cursor/2026-06-04-jsonl-and-custom-stores|JSONL and custom stores]]
 <!-- chronolog:end -->
 

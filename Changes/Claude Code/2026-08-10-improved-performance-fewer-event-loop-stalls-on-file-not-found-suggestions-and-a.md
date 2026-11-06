@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 5ea4a1f7e93e49e1715eeb0b5ab9e9c10595bd15c847124212dfecbf3aca123b
+machine_hash: 4c6532ccacef2dfae24557569e07f2bf7aa805b2cce7d6d688c6d01165a6c4bc
 product: claude-code
 product_name: Claude Code
 record:
@@ -42,12 +42,11 @@ record:
   title: 'Improved performance: fewer event-loop stalls on file-not-found suggestions…'
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-07-14-3-reliability-and-performance-changes-in-v2-1-208|3
-  Reliability and Performance changes in v2.1.208]]'
-- '[[Changes/Claude Code/2026-07-18-added-a-periodic-progress-heartbeat-for-long-running-tool-calls-that-previously|Added
-  a periodic progress heartbeat for long-running tool calls that previously went…]]'
-- '[[Changes/Claude Code/2026-07-21-added-warnings-when-transcript-writes-are-failing-e-g-disk-full-or-when-session|Added
-  warnings when transcript writes are failing (e.g. disk full) or when session…]]'
+- '[[Changes/Windsurf/2026-07-29-devin-cloud|Devin Cloud]]'
+- '[[Changes/GitHub Copilot CLI/2026-07-30-diff-scrolls-and-syntax-highlights-large-multi-file-diffs-faster|/diff
+  scrolls and syntax-highlights large multi-file diffs faster]]'
+- '[[Changes/GitHub Copilot CLI/2026-08-03-resuming-a-long-session-is-dramatically-faster-and-far-lighter-on-memory-because|Resuming
+  a long session is dramatically faster and far lighter on memory, because…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-08-10-v2-1-227-github-368190806-b6269cf8|claude-code-2026-08-10-v2-1-227-github-368190806-b6269cf8]]'
 source_type: github_releases
 theme: reliability-performance
@@ -76,7 +75,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2026-07-21 · Claude Code · [[Changes/Claude Code/2026-07-21-added-warnings-when-transcript-writes-are-failing-e-g-disk-full-or-when-session|Added warnings when transcript writes are failing (e.g. disk full) or when session…]]
+- Earlier: 2026-08-03 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-08-03-resuming-a-long-session-is-dramatically-faster-and-far-lighter-on-memory-because|Resuming a long session is dramatically faster and far lighter on memory, because…]]
 - Later: 2026-08-13 · Cursor · [[Changes/Cursor/2026-08-13-faster-starts|Faster starts]]
 <!-- chronolog:end -->
 

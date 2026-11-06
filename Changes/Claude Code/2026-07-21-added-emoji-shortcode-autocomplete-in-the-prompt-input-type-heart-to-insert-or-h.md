@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: d3dfab40de9a1006454482b95b13c53f74d71522ba467add0de8a2c3624f65cf
+machine_hash: 255134f943c1a96c768f9c1655e597179e5a0889fd9c14ee65ad0133857d2290
 product: claude-code
 product_name: Claude Code
 record:
@@ -44,12 +44,12 @@ record:
   title: Added emoji shortcode autocomplete in the prompt input
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-07-10-added-a-doctor-check-that-proposes-trimming-checked-in-claude-md-files-by-cuttin|Added
-  a /doctor check that proposes trimming checked-in CLAUDE.md files…]]'
-- '[[Changes/Claude Code/2026-07-14-2-editor-experience-changes-in-v2-1-208|2 Editor
-  Experience changes in v2.1.208]]'
+- '[[Changes/GitHub Copilot CLI/2026-07-16-5-editor-experience-changes-in-v1-0-71|5
+  Editor Experience changes in v1.0.71]]'
 - '[[Changes/Claude Code/2026-07-20-improved-the-ultrareview-diff-too-large-error-to-show-configured-limits-measured|Improved
   the /ultrareview diff-too-large error to show configured limits, measured…]]'
+- '[[Changes/GitHub Copilot CLI/2026-07-20-2-editor-experience-changes-in-v1-0-72|2
+  Editor Experience changes in v1.0.72]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-07-21-v2-1-217-github-357601516-b5c19f5d|claude-code-2026-07-21-v2-1-217-github-357601516-b5c19f5d]]'
 source_type: github_releases
 theme: editor-experience
@@ -83,8 +83,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2026-07-20 · Claude Code · [[Changes/Claude Code/2026-07-20-improved-the-ultrareview-diff-too-large-error-to-show-configured-limits-measured|Improved the /ultrareview diff-too-large error to show configured limits, measured…]]
-- Later: 2026-08-04 · Claude Code · [[Changes/Claude Code/2026-08-04-changed-emoji-autocomplete-to-accept-common-alternate-shortcodes-like-thumbsup-t|Changed emoji autocomplete to accept common alternate shortcodes like :thumbsup:…]]
+- Earlier: 2026-07-20 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-07-20-2-editor-experience-changes-in-v1-0-72|2 Editor Experience changes in v1.0.72]]
+- Later: 2026-07-21 · Codex CLI · [[Changes/Codex CLI/2026-07-21-4-editor-experience-changes-in-rust-v0-145-0|4 Editor Experience changes in rust-v0.145.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

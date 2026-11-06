@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: 4532e7a641f19ccc36810185b941f228192171d9744cbe3e451898d2bdfeb017
+machine_hash: 63420b98957ffce908b9ef9445553eef9be68b8df192ba6ea5f393b728b7cd90
 product: claude-code
 product_name: Claude Code
 record:
@@ -61,12 +61,12 @@ record:
   title: Improved auto mode safety
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-06-17-handoff-between-local-and-cloud|Handoff between local
-  and cloud]]'
-- '[[Changes/Cursor/2026-06-17-this-release-introduces-updates-to-cloud-agents-in-the-agents-window-of-the-curs|Cursor
-  introduces updates to cloud agents in the Agents Window of the Cursor desktop app]]'
 - '[[Changes/Cursor/2026-06-17-cloud-subagents-with-in-cloud-eb7958|Cloud subagents
   with /in-cloud]]'
+- '[[Changes/Codex CLI/2026-06-18-5-agent-mode-changes-in-rust-v0-141-0|5 Agent Mode
+  changes in rust-v0.141.0]]'
+- '[[Changes/Gemini CLI/2026-06-18-2-agent-mode-changes-in-v0-47-0|2 Agent Mode changes
+  in v0.47.0]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-06-19-v2-1-183-github-341696059-98586912|claude-code-2026-06-19-v2-1-183-github-341696059-98586912]]'
 source_type: github_releases
 theme: agent-mode
@@ -99,7 +99,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2026-06-17 · Cursor · [[Changes/Cursor/2026-06-17-cloud-subagents-with-in-cloud-eb7958|Cloud subagents with /in-cloud]]
+- Earlier: 2026-06-18 · Gemini CLI · [[Changes/Gemini CLI/2026-06-18-2-agent-mode-changes-in-v0-47-0|2 Agent Mode changes in v0.47.0]]
 - Later: 2026-06-22 · Claude Code · [[Changes/Claude Code/2026-06-22-2-agent-mode-changes-in-v2-1-186|2 Agent Mode changes in v2.1.186]]
 <!-- chronolog:end -->
 

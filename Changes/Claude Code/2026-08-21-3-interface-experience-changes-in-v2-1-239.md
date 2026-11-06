@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: bfcdcf8b4ec86623328b7ddac878f61a757a9b1be07be425cce14f72560d10fa
+machine_hash: ddd4d236a98f74b642f1958874cb5842d46f515a4a0d6d959cb5faf84a6370f2
 product: claude-code
 product_name: Claude Code
 record:
@@ -47,8 +47,8 @@ record:
   title: 3 Interface Experience changes in v2.1.239
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-08-20-changed-ctrl-l-and-cmd-k-in-fullscreen-to-always-just-repaint-the-double-press-c|Changed
-  Ctrl+L and Cmd+K in fullscreen to always just repaint]]'
+- '[[Changes/Codex CLI/2026-08-20-3-interface-experience-changes-in-rust-v0-149-0|3
+  Interface Experience changes in rust-v0.149.0]]'
 - '[[Changes/ChatGPT/2026-08-21-keep-recent-chats-easier-to-browse-your-sidebar-now-shows-up-to-eight-recent-con|Keep
   recent chats easier to browse]]'
 - '[[Changes/ChatGPT/2026-08-21-generated-images-are-easier-to-view-and-your-recent-conversations-are-easier-to|Generated
@@ -99,7 +99,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.239
 ## Nearby in Interface Experience
 
 - Earlier: 2026-08-21 · ChatGPT · [[Changes/ChatGPT/2026-08-21-generated-images-are-easier-to-view-and-your-recent-conversations-are-easier-to|Generated images are easier to view, and your recent conversations are easier to browse]]
-- Later: 2026-08-26 · Claude Code · [[Changes/Claude Code/2026-08-26-changed-the-prompt-footer-pr-badge-to-skip-its-github-re-check-on-terminal-refoc|Changed the prompt-footer PR badge to skip its GitHub re-check on terminal refocus…]]
+- Later: 2026-08-21 · OpenHands · [[Changes/OpenHands/2026-08-21-2-interface-experience-changes-in-v1-15-0|2 Interface Experience changes in v1.15.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

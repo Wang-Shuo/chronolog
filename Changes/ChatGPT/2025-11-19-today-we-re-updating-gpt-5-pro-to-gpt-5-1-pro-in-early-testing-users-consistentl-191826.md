@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: a8d435de687eb8436c096ec1bc2bfad47882813902c6c1af9248f6a201fc20f9
+machine_hash: 599ea4d7fb82cc72abcadfc97bf9de35f4c8738c2066fcad78b7324583c5521b
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -67,12 +67,11 @@ record:
   title: 'GPT-5.1 Pro: Clearer, more capable answers for complex work'
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2025-11-05-you-can-now-interrupt-long-running-queries-such-as-deep-research-or-gpt-5-pro-to|Interrupt
-  ChatGPT]]'
-- '[[Changes/ChatGPT/2025-11-12-we-re-updating-chatgpt-s-tone-controls-so-it-s-easier-to-make-responses-sound-th-d3a253|New
-  tone and personalization controls]]'
-- '[[Changes/ChatGPT/2025-11-12-we-re-updating-gpt-5-to-gpt-5-1-instant-and-gpt-5-1-thinking-making-answers-both-d702c4|GPT-5.1
-  in ChatGPT]]'
+- "[[Changes/Gemini CLI/2025-11-18-feat-launch-gemini-3-in-gemini-cli-by-skeshive-in-https-github-com-google-gemini|feat:
+  launch Gemini 3 in Gemini CLI \U0001F680\U0001F680\U0001F680]]"
+- '[[Changes/GitHub Copilot CLI/2025-11-18-gemini-3-pro-is-now-available-in-github-copilot-cli|Gemini
+  3 Pro is now available in GitHub Copilot CLI]]'
+- '[[Changes/Windsurf/2025-11-18-gemini-3-pro-preview|Gemini 3 Pro Preview]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-11-19-gpt-5-1-pro-clearer-more-capable-answers-for-complex-work-78316657|chatgpt-2025-11-19-gpt-5-1-pro-clearer-more-capable-answers-for-complex-work-78316657]]'
 source_type: chatgpt_changelog
 theme: model-support
@@ -99,8 +98,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2025-11-12 · ChatGPT · [[Changes/ChatGPT/2025-11-12-we-re-updating-gpt-5-to-gpt-5-1-instant-and-gpt-5-1-thinking-making-answers-both-d702c4|GPT-5.1 in ChatGPT]]
-- Later: 2025-11-21 · ChatGPT · [[Changes/ChatGPT/2025-11-21-chatgpt-now-adds-more-inline-images-from-the-web-to-help-you-quickly-understand-83e5b8|More images in answers]]
+- Earlier: 2025-11-18 · Windsurf · [[Changes/Windsurf/2025-11-18-gemini-3-pro-preview|Gemini 3 Pro Preview]]
+- Later: 2025-11-19 · Codex CLI · [[Changes/Codex CLI/2025-11-19-default-model-for-api-users-is-now-gpt-5-1-codex|Default model for API users is now gpt-5.1-codex]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

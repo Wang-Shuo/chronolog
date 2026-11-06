@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 2de5db706e0fb368f93519b94eff573daad6367bfef6e049eecd058816d101a7
+machine_hash: 612b112bc02b315fcd300f1cd4471f765d314b4927b11a79419d55f163d286e0
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,12 +45,12 @@ record:
   title: 2 Context Window changes in v2.1.296
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-01-changed-opus-4-7-and-fable-to-use-a-1m-context-window-by-default-on-bedrock-vert|Changed
-  Opus 4.7+ and Fable to use a 1M context window by default on Bedrock…]]'
-- '[[Changes/Claude Code/2026-10-02-changed-autocompact-to-save-the-auto-compact-window-per-model-so-each-model-keep|Changed
-  /autocompact to save the auto-compact window per model, so each model…]]'
+- '[[Changes/GitHub Copilot CLI/2026-10-07-honor-context-long-context-at-startup-and-show-accurate-context-allowance-in-con|Honor
+  --context long_context at startup and show accurate context allowance in /context]]'
 - '[[Changes/Claude Code/2026-10-08-improved-token-counts-behind-a-claude-apps-gateway-on-amazon-bedrock-which-conte|Improved
   token counts behind a Claude apps gateway on Amazon Bedrock…]]'
+- '[[Changes/Codex CLI/2026-10-08-10-context-window-changes-in-rust-v0-162-0|10 Context
+  Window changes in rust-v0.162.0]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-10-09-v2-1-296-github-408141042-fd950e7a|claude-code-2026-10-09-v2-1-296-github-408141042-fd950e7a]]'
 source_type: github_releases
 theme: context-window
@@ -93,8 +93,8 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.296
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Context Window
 
-- Earlier: 2026-10-08 · Claude Code · [[Changes/Claude Code/2026-10-08-improved-token-counts-behind-a-claude-apps-gateway-on-amazon-bedrock-which-conte|Improved token counts behind a Claude apps gateway on Amazon Bedrock…]]
-- Later: 2026-10-14 · Claude Code · [[Changes/Claude Code/2026-10-14-added-cache-creation-5m-tokens-and-cache-creation-1h-tokens-to-the-opentelemetry|Added cache_creation_5m_tokens and cache_creation_1h_tokens to the OpenTelemetry…]]
+- Earlier: 2026-10-08 · Codex CLI · [[Changes/Codex CLI/2026-10-08-10-context-window-changes-in-rust-v0-162-0|10 Context Window changes in rust-v0.162.0]]
+- Later: 2026-10-09 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-10-09-context-now-applies-to-new-and-resumed-acp-sessions-instead-of-silently-using-th|--context now applies to new and resumed ACP sessions instead of silently using…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

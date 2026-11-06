@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: 84cdcd478d1137f3373e74c407b486052aafc8a08c5e2290ac137ec700e5674e
+machine_hash: 068322a8676515db46e04975af7f2dd90a2eeacc5ffa9ac3ec19d4823f08ac0b
 product: cursor
 product_name: Cursor
 record:
@@ -88,7 +88,7 @@ type: change
 ## Nearby in Agent Mode
 
 - Earlier: 2025-12-18 · Cursor · [[Changes/Cursor/2025-12-18-service-accounts|Service accounts]]
-- Later: 2026-01-08 · Cursor · [[Changes/Cursor/2026-01-08-new-agent-command-is-now-the-primary-cli-entrypoint-cursor-agent-remains-as-a-ba|New agent command is now the primary CLI entrypoint. cursor-agent remains…]]
+- Later: 2025-12-22 · Gemini CLI · [[Changes/Gemini CLI/2025-12-22-send-the-model-and-cli-version-with-the-user-agent-by-gundermanc-in-https-github|Send the model and CLI version with the user agent]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

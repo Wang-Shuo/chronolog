@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 56605128ab35648a046b831fd8ad685d86014a7d6e007207af51372634a00e21
+machine_hash: e91e1a6e952681b700057ff90c2c5ec672aff9ffa601460cfc7c741aab8cb91b
 product: claude-code
 product_name: Claude Code
 record:
@@ -59,10 +59,10 @@ record:
   title: 6 Apps and Integrations changes in v2.1.275
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-14-5-apps-and-integrations-changes-in-v2-1-271|5
-  Apps and Integrations changes in v2.1.271]]'
-- '[[Changes/Claude Code/2026-09-15-3-apps-and-integrations-changes-in-v2-1-273|3
-  Apps and Integrations changes in v2.1.273]]'
+- '[[Changes/GitHub Copilot CLI/2026-09-16-20-apps-and-integrations-changes-in-v1-0-85|20
+  Apps and Integrations changes in v1.0.85]]'
+- '[[Changes/OpenHands/2026-09-16-9-apps-and-integrations-changes-in-v1-19-0|9 Apps
+  and Integrations changes in v1.19.0]]'
 - '[[Changes/Claude Code/2026-09-17-10-apps-and-integrations-changes-in-v2-1-274|10
   Apps and Integrations changes in v2.1.274]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-17-v2-1-275-github-391032307-12ccfafd|claude-code-2026-09-17-v2-1-275-github-391032307-12ccfafd]]'
@@ -117,7 +117,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.275
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-09-17 · Claude Code · [[Changes/Claude Code/2026-09-17-10-apps-and-integrations-changes-in-v2-1-274|10 Apps and Integrations changes in v2.1.274]]
-- Later: 2026-09-18 · Claude Code · [[Changes/Claude Code/2026-09-18-6-apps-and-integrations-changes-in-v2-1-277|6 Apps and Integrations changes in v2.1.277]]
+- Later: 2026-09-17 · Cline · [[Changes/Cline/2026-09-17-terminal-commands-that-succeed-without-printing-anything-git-add-a-on-a-clean-tr|Terminal commands that succeed without printing anything…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

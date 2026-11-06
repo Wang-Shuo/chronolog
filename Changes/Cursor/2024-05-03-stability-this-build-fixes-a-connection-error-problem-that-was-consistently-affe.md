@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 4b540fca9603bfaf4f3966f80de5780bafc9cdfdaa9c9d9ccf5bfe1ede533d76
+machine_hash: d6b1c0fc6e85eae061e8359472f269ca307115f140c05cb58e1e47af7a5e181b
 product: cursor
 product_name: Cursor
 record:
@@ -81,7 +81,7 @@ type: change
 ## Nearby in Reliability and Performance
 
 - Earlier: 2024-03-20 · Cursor · [[Changes/Cursor/2024-03-20-faster-copilot-we-ve-made-copilot-2x-faster-this-speed-bump-comes-from-a-new-mod|Faster Copilot++: We've made Copilot++ ~2x faster!]]
-- Later: 2024-07-23 · Cursor · [[Changes/Cursor/2024-07-23-copilot-now-has-chunked-streaming-currently-in-beta-it-will-surface-edits-faster|Copilot++ now has chunked streaming (currently in Beta)!]]
+- Later: 2024-06-04 · Aider · [[Changes/Aider/2024-06-04-performance-improvements-the-repo-map-especially-in-large-repos|Performance improvements the repo map, especially in large repos]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

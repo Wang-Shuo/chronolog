@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 154a2c8159111d85a55e6da763ba8e5b6e5e8a8220e89cc0d14c871932115b9d
+machine_hash: b7d699c5cda13abbe1e4a099f8e85d3795544dac2bd4099ba7fc13348c5f1b0a
 product: cursor
 product_name: Cursor
 record:
@@ -42,12 +42,12 @@ record:
   title: Ask about git commits and PRs using @git in chat!
   type: change
 related_changes:
-- '[[Changes/Cursor/2023-08-26-we-had-a-big-bug-for-people-on-language-packs-thank-you-to-all-who-helped-us-deb|Bug
-  fix for people on language packs]]'
 - '[[Changes/Cursor/2023-09-05-ships-with-cursor-python-a-language-server-fork-of-pyright-built-for-cursor|Cursor-Python
   LSP]]'
 - '[[Changes/Cursor/2023-09-23-never-lets-your-root-directory-be-in-the-gitignore|gitignore
   and search hotfix]]'
+- '[[Changes/Aider/2023-09-30-2-developer-workflow-changes-in-v0-14-1|2 Developer
+  Workflow changes in v0.14.1]]'
 source_release: '[[Releases/Cursor/cursor-2023-10-01-0-12-0-https-cursor-com-changelog-0-12-0-2555ff30|cursor-2023-10-01-0-12-0-https-cursor-com-changelog-0-12-0-2555ff30]]'
 source_type: cursor_changelog
 theme: developer-workflow
@@ -77,8 +77,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2023-09-23 · Cursor · [[Changes/Cursor/2023-09-23-never-lets-your-root-directory-be-in-the-gitignore|gitignore and search hotfix]]
-- Later: 2023-10-20 · Cursor · [[Changes/Cursor/2023-10-20-also-there-s-an-experimental-bash-mode-enable-it-in-the-settings-and-let-the-cha|Also, there's an experimental bash mode]]
+- Earlier: 2023-09-30 · Aider · [[Changes/Aider/2023-09-30-2-developer-workflow-changes-in-v0-14-1|2 Developer Workflow changes in v0.14.1]]
+- Later: 2023-10-18 · Aider · [[Changes/Aider/2023-10-18-2-developer-workflow-changes-in-v0-14-2|2 Developer Workflow changes in v0.14.2]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

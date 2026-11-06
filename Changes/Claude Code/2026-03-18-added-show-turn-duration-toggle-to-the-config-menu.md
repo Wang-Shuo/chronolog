@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 75e97c9600bf416f8596384b5c2b485831ea313ef37b57dc9f60f089f406d8b4
+machine_hash: c66574f1f5ec999126ef4c52f6ccb8345a382fff1e0e5cf61b2416a1b90e39f9
 product: claude-code
 product_name: Claude Code
 record:
@@ -41,12 +41,12 @@ record:
   title: Added "Show turn duration" toggle to the `/config` menu
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-03-11-2-interface-experience-changes-in-v2-1-73|2 Interface
-  Experience changes in v2.1.73]]'
 - '[[Changes/Claude Code/2026-03-17-copy-now-accepts-an-optional-index-copy-n-copies-the-nth-latest-assistant-respon|/copy
   now accepts an optional index: /copy N copies the Nth-latest assistant response]]'
 - '[[Changes/Claude Code/2026-03-17-2-interface-experience-changes-in-v2-1-78|2 Interface
   Experience changes in v2.1.78]]'
+- '[[Changes/Gemini CLI/2026-03-17-3-interface-experience-changes-in-v0-34-0|3 Interface
+  Experience changes in v0.34.0]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-03-18-v2-1-79-github-298704791-2ebf4bbd|claude-code-2026-03-18-v2-1-79-github-298704791-2ebf4bbd]]'
 source_type: github_releases
 theme: interface-experience
@@ -79,8 +79,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-03-17 · Claude Code · [[Changes/Claude Code/2026-03-17-2-interface-experience-changes-in-v2-1-78|2 Interface Experience changes in v2.1.78]]
-- Later: 2026-03-19 · Claude Code · [[Changes/Claude Code/2026-03-19-2-interface-experience-changes-in-v2-1-80|2 Interface Experience changes in v2.1.80]]
+- Earlier: 2026-03-17 · Gemini CLI · [[Changes/Gemini CLI/2026-03-17-3-interface-experience-changes-in-v0-34-0|3 Interface Experience changes in v0.34.0]]
+- Later: 2026-03-18 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-03-18-spinner-animation-no-longer-delays-visible-output-from-appearing-in-the-timeline|Spinner animation no longer delays visible output from appearing in the timeline]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

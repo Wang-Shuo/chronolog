@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: fa3b849c61348de5cf7f3ddae4693cfac36d08eeb3bb494b5e3c15d7af7dc088
+machine_hash: 70fd35153a6b223c0d6bd8f7d4a0c6ee4456e82bde546d46b7d8ce7348939764
 product: claude-code
 product_name: Claude Code
 record:
@@ -46,12 +46,12 @@ record:
   title: 2 Interface Experience changes in v2.1.161
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-05-28-vscode-auto-mode-no-longer-requires-the-bypass-permissions-setting-to-appear-in|VSCode
-  Auto mode no longer requires the bypass-permissions setting to appear…]]'
-- '[[Changes/Claude Code/2026-05-28-2-interface-experience-changes-in-v2-1-153|2 Interface
-  Experience changes in v2.1.153]]'
 - '[[Changes/Claude Code/2026-05-29-claude-agents-slash-command-autocomplete-in-the-dispatch-input-now-matches-subst|claude
   agents: slash-command autocomplete in the dispatch input now matches substrings]]'
+- '[[Changes/GitHub Copilot CLI/2026-05-29-reasoning-effort-picker-respects-model-capabilities-options-not-supported-by-the|Reasoning
+  effort picker respects model capabilities]]'
+- '[[Changes/Codex CLI/2026-06-01-2-interface-experience-changes-in-rust-v0-136-0|2
+  Interface Experience changes in rust-v0.136.0]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-06-02-v2-1-161-github-333271302-7337e6fa|claude-code-2026-06-02-v2-1-161-github-333271302-7337e6fa]]'
 source_type: github_releases
 theme: interface-experience
@@ -88,7 +88,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.161
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-05-29 · Claude Code · [[Changes/Claude Code/2026-05-29-claude-agents-slash-command-autocomplete-in-the-dispatch-input-now-matches-subst|claude agents: slash-command autocomplete in the dispatch input now matches substrings]]
+- Earlier: 2026-06-01 · Codex CLI · [[Changes/Codex CLI/2026-06-01-2-interface-experience-changes-in-rust-v0-136-0|2 Interface Experience changes in rust-v0.136.0]]
 - Later: 2026-06-03 · Claude Code · [[Changes/Claude Code/2026-06-03-clicking-a-slash-command-in-the-autocomplete-menu-now-fills-it-into-your-prompt|Clicking a slash command in the autocomplete menu now fills it into your prompt…]]
 <!-- chronolog:end -->
 

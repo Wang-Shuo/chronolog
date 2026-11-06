@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 057a48b571752bbde234f8c7e5ce287f65a33b9e17f748bcf000bf46081caee7
+machine_hash: 282ea46cb45073e4c14c6db35980333130dc35df236dc74cd7452a302a7ef04d
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -41,11 +41,12 @@ record:
   title: Improved use of plugins and tools to carry out tasks
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-10-13-apps-for-your-stack|Apps for your stack]]'
-- '[[Changes/Claude Code/2026-10-14-7-apps-and-integrations-changes-in-v2-1-300|7
-  Apps and Integrations changes in v2.1.300]]'
 - '[[Changes/Claude Code/2026-10-14-19-apps-and-integrations-changes-in-v2-1-299|19
   Apps and Integrations changes in v2.1.299]]'
+- '[[Changes/GitHub Copilot CLI/2026-10-14-2-apps-and-integrations-changes-in-v1-0-98|2
+  Apps and Integrations changes in v1.0.98]]'
+- '[[Changes/Codex CLI/2026-10-15-15-apps-and-integrations-changes-in-rust-v0-163-0|15
+  Apps and Integrations changes in rust-v0.163.0]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-10-16-updates-to-gpt-6-pro-model-in-chatgpt-6a44f64a|chatgpt-2026-10-16-updates-to-gpt-6-pro-model-in-chatgpt-6a44f64a]]'
 source_type: chatgpt_changelog
 theme: apps-integrations
@@ -76,7 +77,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-10-14 · Claude Code · [[Changes/Claude Code/2026-10-14-19-apps-and-integrations-changes-in-v2-1-299|19 Apps and Integrations changes in v2.1.299]]
+- Earlier: 2026-10-15 · Codex CLI · [[Changes/Codex CLI/2026-10-15-15-apps-and-integrations-changes-in-rust-v0-163-0|15 Apps and Integrations changes in rust-v0.163.0]]
 - Later: 2026-10-16 · Claude Code · [[Changes/Claude Code/2026-10-16-3-apps-and-integrations-changes-in-v2-1-302|3 Apps and Integrations changes in v2.1.302]]
 <!-- chronolog:end -->
 

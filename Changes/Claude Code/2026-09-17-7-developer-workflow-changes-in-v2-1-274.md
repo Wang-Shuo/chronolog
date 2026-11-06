@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: ccea7713165a812fa733c472314dddf3ac938226a497b2b4eeb7f9623c4c482f
+machine_hash: 5ddf59bc2574b1160342e10e56da9e61f75e0e3d80ccb003c049a4b67116a8e5
 product: claude-code
 product_name: Claude Code
 record:
@@ -62,12 +62,12 @@ record:
   title: 7 Developer Workflow changes in v2.1.274
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-10-code-review-added-a-note-under-the-still-open-findings-list-in-follow-up-reviews|Code
-  Review Added a note under the still-open findings list in follow-up reviews]]'
-- '[[Changes/Claude Code/2026-09-11-added-otel-metrics-include-repository-to-tag-opentelemetry-metrics-and-events-wi|Added
-  OTEL_METRICS_INCLUDE_REPOSITORY to tag OpenTelemetry metrics and events…]]'
 - '[[Changes/Claude Code/2026-09-15-3-developer-workflow-changes-in-v2-1-273|3 Developer
   Workflow changes in v2.1.273]]'
+- '[[Changes/GitHub Copilot CLI/2026-09-16-6-developer-workflow-changes-in-v1-0-85|6
+  Developer Workflow changes in v1.0.85]]'
+- '[[Changes/OpenHands/2026-09-16-5-developer-workflow-changes-in-v1-19-0|5 Developer
+  Workflow changes in v1.19.0]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-17-v2-1-274-github-390317660-0d9c7c5d|claude-code-2026-09-17-v2-1-274-github-390317660-0d9c7c5d]]'
 source_type: github_releases
 theme: developer-workflow
@@ -122,7 +122,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.274
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2026-09-15 · Claude Code · [[Changes/Claude Code/2026-09-15-3-developer-workflow-changes-in-v2-1-273|3 Developer Workflow changes in v2.1.273]]
+- Earlier: 2026-09-16 · OpenHands · [[Changes/OpenHands/2026-09-16-5-developer-workflow-changes-in-v1-19-0|5 Developer Workflow changes in v1.19.0]]
 - Later: 2026-09-17 · Claude Code · [[Changes/Claude Code/2026-09-17-2-developer-workflow-changes-in-v2-1-275|2 Developer Workflow changes in v2.1.275]]
 <!-- chronolog:end -->
 

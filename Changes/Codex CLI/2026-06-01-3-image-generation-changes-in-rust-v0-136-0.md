@@ -1,0 +1,113 @@
+---
+card_id: codex-cli-2026-06-01-eb1011
+date: '2026-06-01'
+description: 'Codex CLI · 2026-06-01 · Image Generation: 3 changes in 0.136.0 — A
+  feature-gated standalone image generation extension can run through the native Codex
+  image…'
+diffusion:
+  first_in_tracked: '[[Changes/ChatGPT/2024-08-08-we-re-rolling-out-the-ability-for-chatgpt-free-users-to-create-up-to-two-images-2c505c|DALL·E
+    3 for ChatGPT Free users]]'
+  inference: No adoption, equivalence, or causation claim.
+  lag_days: 662
+  relation: same-theme-chronology
+  role: later-observed
+  scope: tracked-products-only
+  theme: image-generation
+  tracked_products_count: 10
+evolves_from: []
+extractor_version: fallback-v5
+impact: incremental
+kind: digest
+machine_hash: 3a4e2d6955e306d0cc65db2620c9ae0b4ff8e80c525e2502abc263e9f0d01588
+product: codex-cli
+product_name: Codex CLI
+record:
+  card_id: codex-cli-2026-06-01-eb1011
+  comparison: ''
+  date: '2026-06-01'
+  description: 'Codex CLI — 0.136.0: 3 Image Generation changes'
+  evidence:
+  - quote: 'A feature-gated standalone image generation extension can run through
+      the native Codex image artifact completion pipeline. (#24723, #24972)'
+    source_release: https://github.com/openai/codex/releases/tag/rust-v0.136.0
+  - quote: '#24723 Add feature-gated standalone image generation extension @won-openai'
+    source_release: https://github.com/openai/codex/releases/tag/rust-v0.136.0
+  - quote: '#24972 Route extension image generation through the native image completion
+      pipeline @won-openai'
+    source_release: https://github.com/openai/codex/releases/tag/rust-v0.136.0
+  extractor_version: fallback-v5
+  impact: incremental
+  kind: digest
+  product: codex-cli
+  product_name: Codex CLI
+  slug: 3-image-generation-changes-in-rust-v0-136-0
+  source_release: codex-cli-2026-06-01-rust-v0-136-0-github-332669350-976b06b6
+  source_type: github_releases
+  theme: image-generation
+  title: 3 Image Generation changes in rust-v0.136.0
+  type: change
+related_changes:
+- '[[Changes/Codex CLI/2026-04-20-17153-launch-image-generation-by-default-won-openai|♯17153
+  Launch image generation by default @won-openai]]'
+- '[[Changes/ChatGPT/2026-04-21-we-re-introducing-chatgpt-images-2-0-our-new-image-generation-model-in-chatgpt-c|ChatGPT
+  Images 2.0 in ChatGPT]]'
+- '[[Changes/Codex CLI/2026-04-30-19443-add-gpt-image-2-to-bundled-openai-docs-skill-kkahadze-oai|♯19443
+  Add gpt-image-2 to bundled OpenAI Docs skill @kkahadze-oai]]'
+source_release: '[[Releases/Codex CLI/codex-cli-2026-06-01-rust-v0-136-0-github-332669350-976b06b6|codex-cli-2026-06-01-rust-v0-136-0-github-332669350-976b06b6]]'
+source_type: github_releases
+theme: image-generation
+title: 3 Image Generation changes in rust-v0.136.0
+type: change
+---
+
+<!-- chronolog:begin region="header" -->
+# 3 Image Generation changes in rust-v0.136.0
+
+**Codex CLI** · 2026-06-01 · [[Themes/image-generation|Image Generation]] · Digest · [Official source](https://github.com/openai/codex/releases/tag/rust-v0.136.0) · from [[Releases/Codex CLI/codex-cli-2026-06-01-rust-v0-136-0-github-332669350-976b06b6|0.136.0]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="evidence" -->
+## Changes in this digest
+
+> A feature-gated standalone image generation extension can run through the native Codex image artifact completion pipeline. (#24723, #24972)
+
+> #24723 Add feature-gated standalone image generation extension @won-openai
+
+> #24972 Route extension image generation through the native image completion pipeline @won-openai
+
+Source: https://github.com/openai/codex/releases/tag/rust-v0.136.0
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="context" -->
+## Also in this release
+
+- [[Changes/Codex CLI/2026-06-01-25110-move-config-document-helpers-into-their-own-module-jif-oai|♯25110 Move config document helpers into their own module @jif-oai]] · Files and Data
+- [[Changes/Codex CLI/2026-06-01-11-developer-workflow-changes-in-rust-v0-136-0|11 Developer Workflow changes in rust-v0.136.0]] · Developer Workflow
+- [[Changes/Codex CLI/2026-06-01-20-apps-and-integrations-changes-in-rust-v0-136-0|20 Apps and Integrations changes in rust-v0.136.0]] · Apps and Integrations
+- [[Changes/Codex CLI/2026-06-01-11-safety-and-privacy-changes-in-rust-v0-136-0|11 Safety and Privacy changes in rust-v0.136.0]] · Safety and Privacy
+- [[Changes/Codex CLI/2026-06-01-2-memory-and-personalization-changes-in-rust-v0-136-0|2 Memory and Personalization changes in rust-v0.136.0]] · Memory and Personalization
+- [[Changes/Codex CLI/2026-06-01-5-model-support-changes-in-rust-v0-136-0|5 Model Support changes in rust-v0.136.0]] · Model Support
+- [[Changes/Codex CLI/2026-06-01-3-agent-mode-changes-in-rust-v0-136-0|3 Agent Mode changes in rust-v0.136.0]] · Agent Mode
+- [[Changes/Codex CLI/2026-06-01-2-editor-experience-changes-in-rust-v0-136-0|2 Editor Experience changes in rust-v0.136.0]] · Editor Experience
+- [[Changes/Codex CLI/2026-06-01-9-context-window-changes-in-rust-v0-136-0|9 Context Window changes in rust-v0.136.0]] · Context Window
+- [[Changes/Codex CLI/2026-06-01-3-search-and-browsing-changes-in-rust-v0-136-0|3 Search and Browsing changes in rust-v0.136.0]] · Search and Browsing
+- [[Changes/Codex CLI/2026-06-01-2-interface-experience-changes-in-rust-v0-136-0|2 Interface Experience changes in rust-v0.136.0]] · Interface Experience
+- [[Changes/Codex CLI/2026-06-01-57-other-changes-in-rust-v0-136-0|57 other changes in rust-v0.136.0]] · Other changes
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="nearby" -->
+## Nearby in Image Generation
+
+- Earlier: 2026-04-30 · Codex CLI · [[Changes/Codex CLI/2026-04-30-19443-add-gpt-image-2-to-bundled-openai-docs-skill-kkahadze-oai|♯19443 Add gpt-image-2 to bundled OpenAI Docs skill @kkahadze-oai]]
+- Later: 2026-06-04 · Codex CLI · [[Changes/Codex CLI/2026-06-04-3-image-generation-changes-in-rust-v0-137-0|3 Image Generation changes in rust-v0.137.0]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="relations" -->
+## Related
+
+- Earliest same-theme entry in the tracked set: 2024-08-08 · ChatGPT · [[Changes/ChatGPT/2024-08-08-we-re-rolling-out-the-ability-for-chatgpt-free-users-to-create-up-to-two-images-2c505c|DALL·E 3 for ChatGPT Free users]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="footer" -->
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20codex-cli-2026-06-01-eb1011&body=Card%3A%20Changes%2FCodex%20CLI%2F2026-06-01-3-image-generation-changes-in-rust-v0-136-0.md%0ACard%20ID%3A%20codex-cli-2026-06-01-eb1011%0ASource%3A%20https%3A%2F%2Fgithub.com%2Fopenai%2Fcodex%2Freleases%2Ftag%2Frust-v0.136.0%0A%0AWhat%20should%20be%20corrected%3F%0A)
+<!-- chronolog:end -->

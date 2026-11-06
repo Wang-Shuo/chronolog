@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: fix
-machine_hash: ba1533a5074c40657b7430c1be18e8d3e8245b37dbd9de56ab438cea22aa4692
+machine_hash: 49f01baabcc2c59c1c67789d325444a5da992a83d9fe043ba97b106464156d81
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,10 +45,10 @@ record:
     permission…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-02-6-safety-and-privacy-changes-in-v2-1-288|6 Safety
-  and Privacy changes in v2.1.288]]'
 - '[[Changes/Claude Code/2026-10-05-19-safety-and-privacy-changes-in-v2-1-290|19 Safety
   and Privacy changes in v2.1.290]]'
+- '[[Changes/GitHub Copilot CLI/2026-10-05-4-safety-and-privacy-changes-in-v1-0-92|4
+  Safety and Privacy changes in v1.0.92]]'
 - '[[Changes/Claude Code/2026-10-06-6-safety-and-privacy-changes-in-v2-1-292|6 Safety
   and Privacy changes in v2.1.292]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-10-06-v2-1-291-github-404281867-6120dc4f|claude-code-2026-10-06-v2-1-291-github-404281867-6120dc4f]]'
@@ -78,7 +78,7 @@ type: change
 ## Nearby in Safety and Privacy
 
 - Earlier: 2026-10-06 · Claude Code · [[Changes/Claude Code/2026-10-06-6-safety-and-privacy-changes-in-v2-1-292|6 Safety and Privacy changes in v2.1.292]]
-- Later: 2026-10-07 · Claude Code · [[Changes/Claude Code/2026-10-07-3-safety-and-privacy-changes-in-v2-1-293|3 Safety and Privacy changes in v2.1.293]]
+- Later: 2026-10-06 · OpenHands · [[Changes/OpenHands/2026-10-06-fix-consume-consent-aware-website-posthog-handoff-by-malhotra5-in-https-github-c|fix: consume consent-aware website PostHog handoff]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

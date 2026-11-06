@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: f9b3f914762d1c3a3004f81c9c0f70f38adb31ffbf33c69a1b8af950c8ab0c58
+machine_hash: b257e270f3b3b75381be3699d727f4347a7232c9169667cc28f9316eb49bbee3
 product: claude-code
 product_name: Claude Code
 record:
@@ -54,12 +54,12 @@ record:
   title: Improved MCP OAuth
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-06-08-improved-the-error-message-shown-when-your-organization-has-disabled-api-key-aut|Improved
-  the error message shown when your organization has disabled API key…]]'
-- '[[Changes/Claude Code/2026-06-17-improved-the-mcp-oauth-browser-page-to-match-claude-code-s-visual-style-and-auto|Improved
-  the MCP OAuth browser page to match Claude Code''s visual style…]]'
 - '[[Changes/Claude Code/2026-06-22-2-account-and-access-changes-in-v2-1-186|2 Account
   and Access changes in v2.1.186]]'
+- '[[Changes/Codex CLI/2026-06-22-29022-codex-support-protected-resource-oauth-discovery-xl-openai|♯29022
+  codex Support protected resource OAuth discovery @xl-openai]]'
+- '[[Changes/GitHub Copilot CLI/2026-06-23-2-account-and-access-changes-in-v1-0-64|2
+  Account and Access changes in v1.0.64]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-06-24-v2-1-191-github-344307226-67cdfb27|claude-code-2026-06-24-v2-1-191-github-344307226-67cdfb27]]'
 source_type: github_releases
 theme: account-access
@@ -92,8 +92,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Account and Access
 
-- Earlier: 2026-06-22 · Claude Code · [[Changes/Claude Code/2026-06-22-2-account-and-access-changes-in-v2-1-186|2 Account and Access changes in v2.1.186]]
-- Later: 2026-06-25 · Claude Code · [[Changes/Claude Code/2026-06-25-added-a-startup-notice-when-mcp-servers-need-authentication-pointing-at-mcp|Added a startup notice when MCP servers need authentication, pointing at /mcp]]
+- Earlier: 2026-06-23 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-06-23-2-account-and-access-changes-in-v1-0-64|2 Account and Access changes in v1.0.64]]
+- Later: 2026-06-24 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-06-24-silent-mcp-oauth-refresh-reuses-the-granted-scope-so-reconnects-stay-signed-in|Silent MCP OAuth refresh reuses the granted scope so reconnects stay signed in]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

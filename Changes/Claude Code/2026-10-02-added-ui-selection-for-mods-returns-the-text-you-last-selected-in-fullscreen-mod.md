@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: b51488c4bc903147c83f51b09169bcfb5147fcf3dc749ae3a576a99461681915
+machine_hash: ff98e0422e7b4d9579dd1a0642bb8f440d7741e4a0587db6b45d38574342f055
 product: claude-code
 product_name: Claude Code
 record:
@@ -44,12 +44,12 @@ record:
   title: Added `$.ui.selection()` for mods
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-28-added-rate-limit-options-to-help-and-the-command-menu-for-claude-ai-subscribers|Added
-  /rate-limit-options to /help and the command menu for claude.ai…]]'
-- '[[Changes/Claude Code/2026-09-29-improved-responsiveness-when-leaving-the-ctrl-o-transcript-view-in-long-sessions|Improved
-  responsiveness when leaving the ctrl+o transcript view in long sessions…]]'
-- '[[Changes/Claude Code/2026-09-30-4-interface-experience-changes-in-v2-1-286|4 Interface
-  Experience changes in v2.1.286]]'
+- '[[Changes/GitHub Copilot CLI/2026-09-30-2-interface-experience-changes-in-v1-0-90|2
+  Interface Experience changes in v1.0.90]]'
+- '[[Changes/Codex CLI/2026-10-01-2-interface-experience-changes-in-rust-v0-160-0|2
+  Interface Experience changes in rust-v0.160.0]]'
+- '[[Changes/GitHub Copilot CLI/2026-10-01-footer-text-selection-stays-on-the-same-visible-line-when-the-footer-grows-or-sh|Footer
+  text selection stays on the same visible line when the footer grows or shrinks]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-10-02-v2-1-288-github-402056988-39eb9ac6|claude-code-2026-10-02-v2-1-288-github-402056988-39eb9ac6]]'
 source_type: github_releases
 theme: interface-experience
@@ -87,8 +87,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-09-30 · Claude Code · [[Changes/Claude Code/2026-09-30-4-interface-experience-changes-in-v2-1-286|4 Interface Experience changes in v2.1.286]]
-- Later: 2026-10-06 · Claude Code · [[Changes/Claude Code/2026-10-06-improved-the-focus-tip-it-now-invites-you-to-try-focus-view-mid-turn-and-shows-h|Improved the /focus tip]]
+- Earlier: 2026-10-01 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-10-01-footer-text-selection-stays-on-the-same-visible-line-when-the-footer-grows-or-sh|Footer text selection stays on the same visible line when the footer grows or shrinks]]
+- Later: 2026-10-05 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-10-05-add-a-pre-conversation-ctrl-e-environment-picker-to-switch-between-local-and-clo|Add a pre-conversation Ctrl+E environment picker to switch between local and cloud runs]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: projects-workspaces
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: ed4f14f7b1c5f3edd5daad98426b0ce53ed56a689a11391fd20db94c2cbe6072
+machine_hash: 57301f523c829020e8da1a3cad1a8aac8b0b4869460ba603c21381baefb31a27
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -56,10 +56,10 @@ record:
     the app'
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-06-26-improved-remote-session-startup-with-a-provisioning-checklist-while-the-containe|Improved
-  Remote session startup with a provisioning checklist while the container starts]]'
-- '[[Changes/Claude Code/2026-06-29-added-readable-default-names-for-sessions-at-start-making-them-easier-to-identif|Added
-  readable default names for sessions at start, making them easier to identify…]]'
+- '[[Changes/GitHub Copilot CLI/2026-06-30-recover-corrupted-session-history-on-load|Recover
+  corrupted session history on load]]'
+- '[[Changes/GitHub Copilot CLI/2026-07-07-keep-session-resume-working-when-token-timing-includes-fractional-milliseconds|Keep
+  session resume working when token timing includes fractional milliseconds]]'
 - '[[Changes/ChatGPT/2026-07-16-unified-recents-chat-and-work-conversations-now-appear-together-in-recents-where|Unified
   Recents: Chat and Work conversations now appear together in Recents, where…]]'
 scope: macOS and Windows
@@ -95,7 +95,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Projects and Workspaces
 
-- Earlier: 2026-06-29 · Claude Code · [[Changes/Claude Code/2026-06-29-added-readable-default-names-for-sessions-at-start-making-them-easier-to-identif|Added readable default names for sessions at start, making them easier to identify…]]
+- Earlier: 2026-07-07 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-07-07-keep-session-resume-working-when-token-timing-includes-fractional-milliseconds|Keep session resume working when token timing includes fractional milliseconds]]
+- Later: 2026-07-21 · Codex CLI · [[Changes/Codex CLI/2026-07-21-33201-branch-conversations-when-editing-earlier-tui-prompts-copyberry|♯33201 Branch conversations when editing earlier TUI prompts @copyberry]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

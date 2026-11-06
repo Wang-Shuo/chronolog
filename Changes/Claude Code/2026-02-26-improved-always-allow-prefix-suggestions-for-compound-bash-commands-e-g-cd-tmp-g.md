@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 5d35ca37096faf9fe6f64d54060f795a6ca8632c9a9fd5b39aab789650e58f3e
+machine_hash: 32b63cc751d1c6bebc5b5d1e3869cc8af6759c93c8b507a65496eb37577dea3f
 product: claude-code
 product_name: Claude Code
 record:
@@ -46,12 +46,12 @@ record:
   title: Improved "always allow" prefix suggestions for compound bash commands…
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-02-19-review-code-in-split-screen-views|Review code in split-screen
-  views]]'
-- '[[Changes/Claude Code/2026-02-20-3-developer-workflow-changes-in-v2-1-50|3 Developer
-  Workflow changes in v2.1.50]]'
-- '[[Changes/Claude Code/2026-02-24-bashtool-now-skips-login-shell-l-flag-by-default-when-a-shell-snapshot-is-availa|BashTool
-  now skips login shell (-l flag) by default when a shell snapshot…]]'
+- '[[Changes/GitHub Copilot CLI/2026-02-24-status-line-automatically-switches-to-a-two-line-layout-on-narrow-terminals-keep|Status
+  line automatically switches to a two-line layout on narrow terminals, keeping…]]'
+- '[[Changes/Codex CLI/2026-02-25-15-developer-workflow-changes-in-rust-v0-105-0|15
+  Developer Workflow changes in rust-v0.105.0]]'
+- '[[Changes/Gemini CLI/2026-02-25-3-developer-workflow-changes-in-v0-30-0|3 Developer
+  Workflow changes in v0.30.0]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-02-26-v2-1-59-github-290659389-9e2d6217|claude-code-2026-02-26-v2-1-59-github-290659389-9e2d6217]]'
 source_type: github_releases
 theme: developer-workflow
@@ -83,8 +83,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2026-02-24 · Claude Code · [[Changes/Claude Code/2026-02-24-bashtool-now-skips-login-shell-l-flag-by-default-when-a-shell-snapshot-is-availa|BashTool now skips login shell (-l flag) by default when a shell snapshot…]]
-- Later: 2026-02-26 · Cursor · [[Changes/Cursor/2026-02-26-bugbot-will-post-a-comment-on-the-original-pr-with-a-preview-of-the-autofix-chan|Bugbot will post a comment on the original PR with a preview of the autofix changes…]]
+- Earlier: 2026-02-25 · Gemini CLI · [[Changes/Gemini CLI/2026-02-25-3-developer-workflow-changes-in-v0-30-0|3 Developer Workflow changes in v0.30.0]]
+- Later: 2026-02-26 · Codex CLI · [[Changes/Codex CLI/2026-02-26-12758-feat-include-available-decisions-in-command-approval-requests-bolinfest|♯12758 feat: include available decisions in command approval requests @bolinfest]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

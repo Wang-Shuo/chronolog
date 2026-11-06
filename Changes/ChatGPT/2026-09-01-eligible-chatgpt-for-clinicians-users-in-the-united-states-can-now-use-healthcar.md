@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 8807e8be15cb4ffc6fed129a89b2a9297f423165760312d08d000f5f6d097264
+machine_hash: 6152c55a8bef8ecf8be1cbe8535fd6dc2611691d37679365778a5ffa487ed660
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -55,12 +55,12 @@ record:
   title: Healthcare Public Data in ChatGPT for Clinicians
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-08-27-improved-managed-settings-client-side-timeout-mcp-startup-mode-and-stream-watchd|Improved
-  managed settings]]'
 - '[[Changes/ChatGPT/2026-08-28-you-can-now-connect-multiple-accounts-for-gmail-google-calendar-and-google-conta-b4c5da|Connect
   multiple Google accounts to ChatGPT]]'
 - '[[Changes/Claude Code/2026-08-28-4-apps-and-integrations-changes-in-v2-1-251|4
   Apps and Integrations changes in v2.1.251]]'
+- '[[Changes/Codex CLI/2026-08-29-11-apps-and-integrations-changes-in-rust-v0-151-0|11
+  Apps and Integrations changes in rust-v0.151.0]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-09-01-healthcare-public-data-in-chatgpt-for-clinicians-d90a3c8e|chatgpt-2026-09-01-healthcare-public-data-in-chatgpt-for-clinicians-d90a3c8e]]'
 source_type: chatgpt_changelog
 theme: apps-integrations
@@ -87,7 +87,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-08-28 · Claude Code · [[Changes/Claude Code/2026-08-28-4-apps-and-integrations-changes-in-v2-1-251|4 Apps and Integrations changes in v2.1.251]]
+- Earlier: 2026-08-29 · Codex CLI · [[Changes/Codex CLI/2026-08-29-11-apps-and-integrations-changes-in-rust-v0-151-0|11 Apps and Integrations changes in rust-v0.151.0]]
 - Later: 2026-09-01 · Claude Code · [[Changes/Claude Code/2026-09-01-2-apps-and-integrations-changes-in-v2-1-257|2 Apps and Integrations changes in v2.1.257]]
 <!-- chronolog:end -->
 

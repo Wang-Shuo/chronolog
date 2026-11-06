@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 1552984acf45118080568a918add37a70f3dc55ec9d746703b3c26b6ae1e9e47
+machine_hash: 8c24e3792012dddde592bf3fd292d79d6bc954f5bd9cb979716a2609e945c8f8
 product: cursor
 product_name: Cursor
 record:
@@ -46,11 +46,11 @@ record:
   title: More accessible history
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2025-03-18-improved-response-display-of-nested-blockquote-content|Improved
-  response display of nested blockquote content]]'
-- '[[Changes/Cursor/2025-03-23-new-onboarding|New onboarding]]'
-- '[[Changes/Cursor/2025-03-23-2-interface-experience-changes-in-0-48-x|2 Interface
-  Experience changes in 0.48.x]]'
+- '[[Changes/Aider/2025-03-31-2-interface-experience-changes-in-v0-80-0|2 Interface
+  Experience changes in v0.80.0]]'
+- '[[Changes/Aider/2025-04-04-https-aider-chat-history-html|(source link)]]'
+- '[[Changes/Cline/2025-04-09-add-cmd-keyboard-shortcut-to-add-selected-text-to-cline|Add
+  CMD+'' keyboard shortcut to add selected text to Cline]]'
 source_release: '[[Releases/Cursor/cursor-2025-04-15-0-49-https-cursor-com-changelog-0-49-3e16488f|cursor-2025-04-15-0-49-https-cursor-com-changelog-0-49-3e16488f]]'
 source_type: cursor_changelog
 theme: interface-experience
@@ -84,8 +84,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2025-03-23 · Cursor · [[Changes/Cursor/2025-03-23-2-interface-experience-changes-in-0-48-x|2 Interface Experience changes in 0.48.x]]
-- Later: 2025-05-06 · ChatGPT · [[Changes/ChatGPT/2025-05-06-we-ve-removed-the-row-of-individual-tool-icons-from-the-mobile-composer-and-repl-a35dd7|Mobile UI (iOS/Android) changing on Free/Plus/Pro plans]]
+- Earlier: 2025-04-09 · Cline · [[Changes/Cline/2025-04-09-add-cmd-keyboard-shortcut-to-add-selected-text-to-cline|Add CMD+' keyboard shortcut to add selected text to Cline]]
+- Later: 2025-04-19 · Cline · [[Changes/Cline/2025-04-19-add-new-slash-command-menu-letting-you-type-to-do-quick-actions-like-creating-ne|Add new slash command menu letting you type…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

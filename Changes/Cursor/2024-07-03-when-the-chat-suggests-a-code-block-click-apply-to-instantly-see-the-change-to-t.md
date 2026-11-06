@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 7114180959735ab049ca8c8d749e5ff3b3425bc727670ad9e65923dd3ff20db1
+machine_hash: ecc0da2af767592aba9ac5ff93a32f5cdabf0552539e823f01419a5ea4f877ee
 product: cursor
 product_name: Cursor
 record:
@@ -45,11 +45,12 @@ record:
   title: When the chat suggests a code block, click "Apply" to instantly see the change…
   type: change
 related_changes:
-- '[[Changes/Cursor/2024-01-15-working-wsl-codebase-search|Working WSL codebase search]]'
-- '[[Changes/Cursor/2024-02-15-linter-you-can-now-turn-on-an-ai-linter-in-the-more-tab-beside-chat-it-ll-scan-y|Linter:
-  You can now turn on an AI linter in the "More" tab beside Chat]]'
-- '[[Changes/Cursor/2024-06-08-remote-tunnels-are-now-supported-remote-ssh-support-is-also-more-robust-now-supp|Remote
-  tunnels are now supported!]]'
+- '[[Changes/Aider/2024-06-24-2-developer-workflow-changes-in-v0-40-0|2 Developer
+  Workflow changes in v0.40.0]]'
+- '[[Changes/OpenHands/2024-06-29-4-developer-workflow-changes-in-0-7-0|4 Developer
+  Workflow changes in 0.7.0]]'
+- '[[Changes/Aider/2024-07-01-added-attribute-commit-message-to-prefix-aider-s-commit-messages-with-aider|Added
+  --attribute-commit-message to prefix aider''s commit messages with "aider:"]]'
 source_release: '[[Releases/Cursor/cursor-2024-07-03-0-36-x-https-cursor-com-changelog-0-36-x-526adbdf|cursor-2024-07-03-0-36-x-https-cursor-com-changelog-0-36-x-526adbdf]]'
 source_type: cursor_changelog
 theme: developer-workflow
@@ -78,8 +79,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2024-06-08 · Cursor · [[Changes/Cursor/2024-06-08-remote-tunnels-are-now-supported-remote-ssh-support-is-also-more-robust-now-supp|Remote tunnels are now supported!]]
-- Later: 2024-09-17 · Cursor · [[Changes/Cursor/2024-09-17-we-ve-added-support-for-using-cursor-on-macs-over-remote-ssh|Cursor adds support for using Cursor on Macs over Remote SSH]]
+- Earlier: 2024-07-01 · Aider · [[Changes/Aider/2024-07-01-added-attribute-commit-message-to-prefix-aider-s-commit-messages-with-aider|Added --attribute-commit-message to prefix aider's commit messages with "aider:"]]
+- Later: 2024-07-05 · OpenHands · [[Changes/OpenHands/2024-07-05-3-developer-workflow-changes-in-0-7-1|3 Developer Workflow changes in 0.7.1]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

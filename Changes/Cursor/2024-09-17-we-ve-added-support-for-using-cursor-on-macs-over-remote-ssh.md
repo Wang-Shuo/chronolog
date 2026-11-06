@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 57baac58a35b15946a9c14cb7a33dd6c445245f543b4f9bb34a60cc7a9a2ecb7
+machine_hash: 78fd9a7257c7b4af061d76fa2fd59c21255e75388a32f1f2acb2c3f381e3b973
 product: cursor
 product_name: Cursor
 record:
@@ -43,12 +43,12 @@ record:
   title: Cursor adds support for using Cursor on Macs over Remote SSH
   type: change
 related_changes:
-- '[[Changes/Cursor/2024-02-15-linter-you-can-now-turn-on-an-ai-linter-in-the-more-tab-beside-chat-it-ll-scan-y|Linter:
-  You can now turn on an AI linter in the "More" tab beside Chat]]'
-- '[[Changes/Cursor/2024-06-08-remote-tunnels-are-now-supported-remote-ssh-support-is-also-more-robust-now-supp|Remote
-  tunnels are now supported!]]'
-- '[[Changes/Cursor/2024-07-03-when-the-chat-suggests-a-code-block-click-apply-to-instantly-see-the-change-to-t|When
-  the chat suggests a code block, click "Apply" to instantly see the change…]]'
+- '[[Changes/Aider/2024-09-04-6-developer-workflow-changes-in-v0-55-0|6 Developer
+  Workflow changes in v0.55.0]]'
+- '[[Changes/Aider/2024-09-09-2-developer-workflow-changes-in-v0-56-0|2 Developer
+  Workflow changes in v0.56.0]]'
+- '[[Changes/Cline/2024-09-14-2-developer-workflow-changes-in-v1-7-0|2 Developer Workflow
+  changes in v1.7.0]]'
 source_release: '[[Releases/Cursor/cursor-2024-09-17-0-41-x-https-cursor-com-changelog-0-41-x-a8b13ea8|cursor-2024-09-17-0-41-x-https-cursor-com-changelog-0-41-x-a8b13ea8]]'
 source_type: cursor_changelog
 theme: developer-workflow
@@ -81,8 +81,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2024-07-03 · Cursor · [[Changes/Cursor/2024-07-03-when-the-chat-suggests-a-code-block-click-apply-to-instantly-see-the-change-to-t|When the chat suggests a code block, click "Apply" to instantly see the change…]]
-- Later: 2024-10-09 · Cursor · [[Changes/Cursor/2024-10-09-we-have-made-slight-improvements-to-debug-with-ai-and-added-back-lint-errors-in|We have made slight improvements to Debug with AI and added back @Lint Errors in Chat]]
+- Earlier: 2024-09-14 · Cline · [[Changes/Cline/2024-09-14-2-developer-workflow-changes-in-v1-7-0|2 Developer Workflow changes in v1.7.0]]
+- Later: 2024-09-19 · Cline · [[Changes/Cline/2024-09-19-problems-add-workspace-errors-and-warnings-for-claude-to-fix-no-more-back-and-fo|@problems: Add workspace errors and warnings for Claude to fix, no more…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

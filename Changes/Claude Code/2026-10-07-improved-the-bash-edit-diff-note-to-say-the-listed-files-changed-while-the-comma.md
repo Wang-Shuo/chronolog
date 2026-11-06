@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 56e04d80eae953088a23e26e332f7007599d564920fba6309616ba34a6706fe3
+machine_hash: 2c3acf81d0ed06f8c5b7d976ce6cc1d41c194b1ad36eaaf828735ccf9fc87459
 product: claude-code
 product_name: Claude Code
 record:
@@ -47,12 +47,12 @@ record:
     command…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-30-improved-the-external-editor-ctrl-g-editors-that-take-a-line-number-now-open-on|Improved
-  the external editor (Ctrl+G)]]'
-- '[[Changes/Claude Code/2026-10-01-vscode-changed-the-claude-in-chrome-enabled-by-default-switch-to-also-connect-th|VSCode
-  Changed the Claude in Chrome "Enabled by default" switch to also connect…]]'
+- '[[Changes/GitHub Copilot CLI/2026-10-05-2-editor-experience-changes-in-v1-0-92|2
+  Editor Experience changes in v1.0.92]]'
 - '[[Changes/Claude Code/2026-10-06-added-prompt-autocomplete-an-event-a-mod-hooks-to-add-its-own-rows-to-the-prompt|Added
   prompt.autocomplete, an event a mod hooks to add its own rows to the prompt…]]'
+- '[[Changes/OpenHands/2026-10-06-feat-conversation-give-the-drawer-tab-strip-real-tab-semantics-by-errmakov-in-ht|feat(conversation):
+  give the drawer tab strip real tab semantics]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-10-07-v2-1-293-github-405988533-66d1bb8d|claude-code-2026-10-07-v2-1-293-github-405988533-66d1bb8d]]'
 source_type: github_releases
 theme: editor-experience
@@ -88,8 +88,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2026-10-06 · Claude Code · [[Changes/Claude Code/2026-10-06-added-prompt-autocomplete-an-event-a-mod-hooks-to-add-its-own-rows-to-the-prompt|Added prompt.autocomplete, an event a mod hooks to add its own rows to the prompt…]]
-- Later: 2026-10-08 · Claude Code · [[Changes/Claude Code/2026-10-08-changed-tab-stops-to-count-from-where-a-text-starts-instead-of-from-the-screen-s|Changed tab stops to count from where a text starts instead of from the screen's left edge]]
+- Earlier: 2026-10-06 · OpenHands · [[Changes/OpenHands/2026-10-06-feat-conversation-give-the-drawer-tab-strip-real-tab-semantics-by-errmakov-in-ht|feat(conversation): give the drawer tab strip real tab semantics]]
+- Later: 2026-10-07 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-10-07-read-user-settings-only-from-copilot-settings-json-user-setting-keys-in-copilot|Read user settings only from ~/.copilot/settings.json]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

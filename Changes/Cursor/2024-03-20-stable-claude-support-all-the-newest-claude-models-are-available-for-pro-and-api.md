@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 621259cf149415c7c9073543651df5df879f97c20765d7a8eebe211ef38e7f50
+machine_hash: 51fe0b8490e2620d0cc25a4cd84ad5f610aa9b0ef1f10bbca5488a2c689607fe
 product: cursor
 product_name: Cursor
 record:
@@ -49,10 +49,10 @@ record:
   title: Stable Claude Support
   type: change
 related_changes:
-- '[[Changes/Cursor/2024-01-18-cursor-fast-this-is-a-new-model-available-in-command-k-and-chat-expect-it-to-be|"cursor-fast":
-  This is a new model available in command-k and chat]]'
-- '[[Changes/Cursor/2024-01-25-both-pro-and-api-key-users-can-also-try-out-gpt-4-0125-preview-by-configuring-th|Both
-  pro and API key users can also try out gpt-4-0125-preview by configuring…]]'
+- '[[Changes/Aider/2024-02-10-default-gpt-3-5-model-is-now-gpt-3-5-turbo-0125|Default
+  GPT 3.5 model is now gpt-3.5-turbo-0125]]'
+- '[[Changes/Aider/2024-03-08-2-model-support-changes-in-v0-26-0|2 Model Support changes
+  in v0.26.0]]'
 - '[[Changes/Cursor/2024-03-12-if-you-re-a-pro-or-business-user-you-can-add-claude-3-opus-as-a-custom-model-in|Claude
   Support]]'
 source_release: '[[Releases/Cursor/cursor-2024-03-20-0-30-x-https-cursor-com-changelog-0-30-x-e7e3c53e|cursor-2024-03-20-0-30-x-https-cursor-com-changelog-0-30-x-e7e3c53e]]'
@@ -87,7 +87,7 @@ type: change
 ## Nearby in Model Support
 
 - Earlier: 2024-03-12 · Cursor · [[Changes/Cursor/2024-03-12-if-you-re-a-pro-or-business-user-you-can-add-claude-3-opus-as-a-custom-model-in|Claude Support]]
-- Later: 2024-04-12 · Cursor · [[Changes/Cursor/2024-04-12-new-gpt-4-model-as-of-a-couple-of-days-ago-you-can-try-out-gpt-4-turbo-2024-04-0|New GPT-4 model: As of a couple of days ago, you can try out gpt-4-turbo-2024-04-09…]]
+- Later: 2024-04-09 · Aider · [[Changes/Aider/2024-04-09-4-model-support-changes-in-v0-28-0|4 Model Support changes in v0.28.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

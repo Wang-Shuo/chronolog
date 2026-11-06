@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 14cb2a8a3e58dfd950470c4ff5f008b07c253ad542652f8118f3e9074ab76321
+machine_hash: 9c3eeb238fff43a15902b29b3e8d86582c7b9144f840c778c608f2656fccd076
 product: cursor
 product_name: Cursor
 record:
@@ -54,8 +54,8 @@ record:
   title: Cmd-K fast mode
   type: change
 related_changes:
-- '[[Changes/Cursor/2023-07-22-cmd-k-can-again-see-all-of-your-cells-in-jupyter|Jupyter
-  CMD-k Context Building]]'
+- '[[Changes/Aider/2023-07-24-provide-gpt-with-detailed-error-if-it-makes-a-bad-edit-block-ask-for-a-retry|Provide
+  GPT with detailed error if it makes a bad edit block, ask for a retry]]'
 - '[[Changes/Cursor/2023-07-27-experimental-codebase-support-in-the-chat-and-coming-to-the-cmd-k-soon|Experimental
   @Codebase support in the chat (and coming to the cmd-k soon!)]]'
 - '[[Changes/Cursor/2023-08-10-for-those-who-don-t-want-the-chat-side-by-side-you-can-now-pop-it-into-your-edit|In-editor

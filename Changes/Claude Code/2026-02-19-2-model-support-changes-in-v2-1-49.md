@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: f0ddc858eb59b23e78da373aca54a591e700d52de7bfe65e533a9c4341ed9676
+machine_hash: f8cceac7f6018c5619dbf8e11dc655701062b090766dd26d682665f8cba20009
 product: claude-code
 product_name: Claude Code
 record:
@@ -46,12 +46,12 @@ record:
   title: 2 Model Support changes in v2.1.49
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-02-13-as-previously-announced-we-have-retired-gpt-4o-gpt-4-1-gpt-4-1-mini-and-openai-o|Retiring
-  GPT-4o and other legacy models]]'
-- '[[Changes/Claude Code/2026-02-17-added-support-for-claude-sonnet-4-6|Added support
-  for Claude Sonnet 4.6]]'
 - '[[Changes/Cursor/2026-02-18-2-model-support-changes-in-cli-improvements-and-mermaid-ascii|2
   Model Support changes in CLI Improvements and Mermaid ASCII…]]'
+- '[[Changes/Gemini CLI/2026-02-18-11-model-support-changes-in-v0-29-0|11 Model Support
+  changes in v0.29.0]]'
+- '[[Changes/OpenHands/2026-02-18-add-minimax-m2-5-model-support-by-neubig-in-https-github-com-openhands-openhands|Add
+  MiniMax-M2.5 model support]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-02-19-v2-1-49-github-288498923-7c27a140|claude-code-2026-02-19-v2-1-49-github-288498923-7c27a140]]'
 source_type: github_releases
 theme: model-support
@@ -88,8 +88,8 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.49
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-02-18 · Cursor · [[Changes/Cursor/2026-02-18-2-model-support-changes-in-cli-improvements-and-mermaid-ascii|2 Model Support changes in CLI Improvements and Mermaid ASCII…]]
-- Later: 2026-02-24 · Claude Code · [[Changes/Claude Code/2026-02-24-the-model-picker-now-shows-human-readable-labels-e-g-sonnet-4-5-instead-of-raw-m|The /model picker now shows human-readable labels (e.g., "Sonnet 4.5") instead…]]
+- Earlier: 2026-02-18 · OpenHands · [[Changes/OpenHands/2026-02-18-add-minimax-m2-5-model-support-by-neubig-in-https-github-com-openhands-openhands|Add MiniMax-M2.5 model support]]
+- Later: 2026-02-19 · Cline · [[Changes/Cline/2026-02-19-gemini-3-1-pro-preview|Gemini-3.1 Pro Preview]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

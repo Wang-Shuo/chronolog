@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: search-browsing
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: dcc2f39db8eabe162ba5ab79e72967feb1fd9e572c4a7fcac9b9a31b59b093c7
+machine_hash: 47a71ff4bffc596f1d52927618d6435998e22dcff0b70e0c89dd334eefbc66bc
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -58,12 +58,12 @@ record:
   title: Find live jobs and format your resume in ChatGPT
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-04-02-past-chat-transcripts-are-now-surfaced-directly-in-at-mention-search-results|Past
-  chat transcripts are now surfaced directly in at-mention search results]]'
-- '[[Changes/ChatGPT/2026-04-08-the-outlook-email-and-calendar-apps-for-chatgpt-can-now-help-with-delegated-or-s|Outlook
-  shared mailboxes and calendars in ChatGPT]]'
+- '[[Changes/Codex CLI/2026-05-07-21054-rollout-store-web-search-and-mcp-tool-calls-owenlin0|♯21054
+  rollout: store web search and mcp tool calls @owenlin0]]'
 - '[[Changes/Claude Code/2026-05-19-the-plugin-browse-and-discover-panes-now-show-when-a-plugin-was-last-updated|The
   /plugin browse and discover panes now show when a plugin was last updated]]'
+- '[[Changes/GitHub Copilot CLI/2026-05-20-github-mcp-web-search-tool-is-available-immediately-without-requiring-tool-searc|GitHub
+  MCP web search tool is available immediately without requiring tool search]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-06-01-find-live-jobs-and-format-your-resume-in-chatgpt-69ee518e|chatgpt-2026-06-01-find-live-jobs-and-format-your-resume-in-chatgpt-69ee518e]]'
 source_type: chatgpt_changelog
 theme: search-browsing
@@ -90,8 +90,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Search and Browsing
 
-- Earlier: 2026-05-19 · Claude Code · [[Changes/Claude Code/2026-05-19-the-plugin-browse-and-discover-panes-now-show-when-a-plugin-was-last-updated|The /plugin browse and discover panes now show when a plugin was last updated]]
-- Later: 2026-07-17 · Claude Code · [[Changes/Claude Code/2026-07-17-3-search-and-browsing-changes-in-v2-1-212|3 Search and Browsing changes in v2.1.212]]
+- Earlier: 2026-05-20 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-05-20-github-mcp-web-search-tool-is-available-immediately-without-requiring-tool-searc|GitHub MCP web search tool is available immediately without requiring tool search]]
+- Later: 2026-06-01 · Codex CLI · [[Changes/Codex CLI/2026-06-01-3-search-and-browsing-changes-in-rust-v0-136-0|3 Search and Browsing changes in rust-v0.136.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

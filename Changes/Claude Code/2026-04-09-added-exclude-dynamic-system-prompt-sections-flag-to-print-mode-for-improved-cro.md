@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 35d0f531c2d6c17f463d84b2eb9852799b58faf18747dc72e205fe1ad28a48f4
+machine_hash: 3b7756f7358d4a6af421ac80992b63a61532156237b66a610cf0927e82f731c4
 product: claude-code
 product_name: Claude Code
 record:
@@ -44,12 +44,12 @@ record:
   title: Added `--exclude-dynamic-system-prompt-sections` flag to print mode for improved…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-04-02-2-context-window-changes-in-v2-1-91|2 Context
-  Window changes in v2.1.91]]'
-- '[[Changes/Claude Code/2026-04-04-pro-users-now-see-a-footer-hint-when-returning-to-a-session-after-the-prompt-cac|Pro
-  users now see a footer hint when returning to a session after the prompt cache…]]'
+- '[[Changes/GitHub Copilot CLI/2026-04-06-slash-command-timeline-entries-now-include-the-command-name-e-g-review-plan-for|Slash
+  command timeline entries now include the command name (e.g., "Review", "Plan")…]]'
 - '[[Changes/Claude Code/2026-04-08-improved-context-low-warning-to-show-as-a-transient-footer-notification-instead|Improved
   context-low warning to show as a transient footer notification instead…]]'
+- '[[Changes/Gemini CLI/2026-04-08-5-context-window-changes-in-v0-37-0|5 Context Window
+  changes in v0.37.0]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-04-09-v2-1-98-github-307232194-a0774436|claude-code-2026-04-09-v2-1-98-github-307232194-a0774436]]'
 source_type: github_releases
 theme: context-window
@@ -85,7 +85,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Context Window
 
-- Earlier: 2026-04-08 · Claude Code · [[Changes/Claude Code/2026-04-08-improved-context-low-warning-to-show-as-a-transient-footer-notification-instead|Improved context-low warning to show as a transient footer notification instead…]]
+- Earlier: 2026-04-08 · Gemini CLI · [[Changes/Gemini CLI/2026-04-08-5-context-window-changes-in-v0-37-0|5 Context Window changes in v0.37.0]]
 - Later: 2026-04-10 · Claude Code · [[Changes/Claude Code/2026-04-10-improved-tool-not-available-errors-to-explain-why-and-how-to-proceed-when-the-mo|Improved tool-not-available errors to explain why and how to proceed when the model…]]
 <!-- chronolog:end -->
 

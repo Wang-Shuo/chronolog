@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 25354e9c7996d298d411abdac4d6f60ea1d51576d8261924a760f81bc9e1a69b
+machine_hash: 5a9d12bd84f3b2e47413ecfb0b843d0a9f2b1375193f1c74aba8a4af9184bc01
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -63,12 +63,12 @@ record:
   title: Data plugin in ChatGPT Work and Codex
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-04-vscode-added-an-add-server-form-and-a-remove-action-to-the-mcp-servers-dialog-so|VSCode
-  Added an Add server form and a Remove action to the MCP servers dialog…]]'
-- '[[Changes/Claude Code/2026-09-08-4-apps-and-integrations-changes-in-v2-1-265|4
-  Apps and Integrations changes in v2.1.265]]'
 - '[[Changes/Claude Code/2026-09-09-claude-tag-added-a-use-a-custom-connector-link-to-the-preset-connection-forms-in|Claude
   Tag Added a "Use a custom connector" link to the preset connection forms…]]'
+- '[[Changes/Codex CLI/2026-09-09-19-apps-and-integrations-changes-in-rust-v0-154-0|19
+  Apps and Integrations changes in rust-v0.154.0]]'
+- '[[Changes/OpenHands/2026-09-09-docs-remove-duplicate-openhands-extensions-bullet-in-development-md-by-imitater|docs:
+  remove duplicate OpenHands/extensions bullet in DEVELOPMENT.md]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-09-10-data-plugin-in-chatgpt-work-and-codex-a8ab26d9|chatgpt-2026-09-10-data-plugin-in-chatgpt-work-and-codex-a8ab26d9]]'
 source_type: chatgpt_changelog
 theme: apps-integrations
@@ -95,7 +95,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-09-09 · Claude Code · [[Changes/Claude Code/2026-09-09-claude-tag-added-a-use-a-custom-connector-link-to-the-preset-connection-forms-in|Claude Tag Added a "Use a custom connector" link to the preset connection forms…]]
+- Earlier: 2026-09-09 · OpenHands · [[Changes/OpenHands/2026-09-09-docs-remove-duplicate-openhands-extensions-bullet-in-development-md-by-imitater|docs: remove duplicate OpenHands/extensions bullet in DEVELOPMENT.md]]
 - Later: 2026-09-10 · Claude Code · [[Changes/Claude Code/2026-09-10-7-apps-and-integrations-changes-in-v2-1-268|7 Apps and Integrations changes in v2.1.268]]
 <!-- chronolog:end -->
 

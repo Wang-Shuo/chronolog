@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 324190eb7acd1e4843aa0a5170d60162c6711f872435a949b76ce578aafa8053
+machine_hash: ecc93af36367a2ec983c6837970c5eae962900134379f9c84c79e308633c7e8a
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -73,12 +73,12 @@ record:
   title: Updating GPT-5
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2025-09-17-5-model-support-changes-in-toggle-thinking-time-in-the-message|5
-  Model Support changes in Toggle thinking time in the message…]]'
-- '[[Changes/ChatGPT/2025-09-18-we-re-improving-the-quality-and-latency-of-responses-of-the-version-of-advanced|Voice
-  Updates]]'
-- '[[Changes/ChatGPT/2025-09-29-opt-out-of-model-training-so-their-teen-s-conversations-won-t-be-used-to-improve|Opt
-  out of model training, so their teen’s conversations won’t be used to improve…]]'
+- '[[Changes/OpenHands/2025-10-01-added-claude-sonnet-4-5-model-support|Added claude-sonnet-4-5
+  model support]]'
+- '[[Changes/GitHub Copilot CLI/2025-10-02-2-model-support-changes-in-v0-0-333|2 Model
+  Support changes in v0.0.333]]'
+- '[[Changes/GitHub Copilot CLI/2025-10-02-added-usage-slash-command-to-provide-stats-about-premium-request-usage-session-t|Added
+  /usage slash command to provide stats about Premium request usage, session…]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-10-03-updating-gpt-5-a6c090c8|chatgpt-2025-10-03-updating-gpt-5-a6c090c8]]'
 source_type: chatgpt_changelog
 theme: model-support
@@ -105,8 +105,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2025-09-29 · ChatGPT · [[Changes/ChatGPT/2025-09-29-opt-out-of-model-training-so-their-teen-s-conversations-won-t-be-used-to-improve|Opt out of model training, so their teen’s conversations won’t be used to improve…]]
-- Later: 2025-10-22 · ChatGPT · [[Changes/ChatGPT/2025-10-22-we-re-updating-the-model-for-signed-out-users-to-gpt-5-instant-giving-more-peopl|We’re updating the model for signed-out users to GPT-5 Instant, giving more people…]]
+- Earlier: 2025-10-02 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2025-10-02-added-usage-slash-command-to-provide-stats-about-premium-request-usage-session-t|Added /usage slash command to provide stats about Premium request usage, session…]]
+- Later: 2025-10-03 · Codex CLI · [[Changes/Codex CLI/2025-10-03-6-model-support-changes-in-rust-v0-44-0|6 Model Support changes in rust-v0.44.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

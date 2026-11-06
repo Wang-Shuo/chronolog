@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: a00bc92aba40e9e01e48f53ac3ab9d37042dfd78164842d2f4cdf584ae53c6c4
+machine_hash: 145f1591b2d6e0ac1cd3e901ee1d1df48657648724c50bab3ac23a351069fba1
 product: claude-code
 product_name: Claude Code
 record:
@@ -55,12 +55,12 @@ record:
   title: Updated `/model` picker
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-04-28-we-re-making-it-easier-to-choose-the-right-model-before-you-send-a-message-model|Easier
-  model selection in ChatGPT]]'
-- '[[Changes/Claude Code/2026-04-28-opentelemetry-added-stop-reason-gen-ai-response-finish-reasons-and-user-system-p|OpenTelemetry:
-  added stop_reason, gen_ai.response.finish_reasons…]]'
-- '[[Changes/Claude Code/2026-05-01-2-model-support-changes-in-v2-1-126|2 Model Support
-  changes in v2.1.126]]'
+- '[[Changes/Cline/2026-05-01-2-model-support-changes-in-v3-82-0|2 Model Support changes
+  in v3.82.0]]'
+- '[[Changes/GitHub Copilot CLI/2026-05-01-2-model-support-changes-in-v1-0-40|2 Model
+  Support changes in v1.0.40]]'
+- '[[Changes/OpenHands/2026-05-01-added-llm-model-on-conversation-cards-and-header-by-sjathin-in-https-github-com|Added
+  LLM model on conversation cards and header]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-05-04-v2-1-128-github-317391175-a20e13a2|claude-code-2026-05-04-v2-1-128-github-317391175-a20e13a2]]'
 source_type: github_releases
 theme: model-support
@@ -94,7 +94,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-05-01 · Claude Code · [[Changes/Claude Code/2026-05-01-2-model-support-changes-in-v2-1-126|2 Model Support changes in v2.1.126]]
+- Earlier: 2026-05-01 · OpenHands · [[Changes/OpenHands/2026-05-01-added-llm-model-on-conversation-cards-and-header-by-sjathin-in-https-github-com|Added LLM model on conversation cards and header]]
 - Later: 2026-05-04 · Cursor · [[Changes/Cursor/2026-05-04-model-access-controls-d2ba4f|Model access controls]]
 <!-- chronolog:end -->
 

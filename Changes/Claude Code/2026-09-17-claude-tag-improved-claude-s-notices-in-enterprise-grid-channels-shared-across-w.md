@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: add49c6cc48a5397abdbfbe8b84dab29cc1ad2f0eb80762476b3738670c2c854
+machine_hash: 6fff289e9012d220a51d14eeee210b596dac68f54d372d3f86b158a0346ebef5
 product: claude-code
 product_name: Claude Code
 record:
@@ -46,10 +46,10 @@ record:
     across…'
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-08-14-changed-the-github-app-setup-tip-to-no-longer-appear-in-repositories-whose-origi|Changed
-  the GitHub app setup tip to no longer appear in repositories whose origin…]]'
-- '[[Changes/Claude Code/2026-08-18-remote-control-claude-rc-now-applies-the-same-enterprise-gateway-availability-ch|Remote
-  Control: claude rc now applies the same enterprise-gateway availability…]]'
+- '[[Changes/GitHub Copilot CLI/2026-08-27-2-enterprise-and-administration-changes-in-v1-0-81|2
+  Enterprise and Administration changes in v1.0.81]]'
+- '[[Changes/GitHub Copilot CLI/2026-09-04-enterprise-admins-can-pin-sign-in-to-approved-github-organizations-with-the-forc|Enterprise
+  admins can pin sign-in to approved GitHub organizations…]]'
 - '[[Changes/ChatGPT/2026-09-10-box-dropbox-and-sharepoint-integrations-are-now-rolling-out-to-go-plus-pro-busin|Box,
   Dropbox, and SharePoint integrations are now rolling out to Go, Plus, Pro…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-17-v2-1-275-github-391032307-12ccfafd|claude-code-2026-09-17-v2-1-275-github-391032307-12ccfafd]]'

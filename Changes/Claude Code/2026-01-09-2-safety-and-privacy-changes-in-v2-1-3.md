@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: e882657c455220d05809a88a7dd424a48bd9d40e8560ed2f9469f6d1061c8288
+machine_hash: c036a9ae2b96597c1125d230c81095729a49766a534654089de5214029bd85f2
 product: claude-code
 product_name: Claude Code
 record:
@@ -47,9 +47,10 @@ record:
   title: 2 Safety and Privacy changes in v2.1.3
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-10-29-sandboxed-terminals-ga|Sandboxed Terminals (GA)]]'
-- '[[Changes/Cursor/2025-12-22-improved-stability-around-how-the-agent-respects-auto-run-preferences-to-prevent|Improved
-  stability around how the agent respects auto-run preferences to prevent…]]'
+- '[[Changes/Codex CLI/2026-01-06-3-safety-and-privacy-changes-in-rust-v0-78-0|3 Safety
+  and Privacy changes in rust-v0.78.0]]'
+- '[[Changes/Codex CLI/2026-01-07-allow-global-exec-flags-model-json-sandbox-toggles-etc-to-be-passed-after-codex|Allow
+  global exec flags (model/json/sandbox toggles, etc.) to be passed after…]]'
 - '[[Changes/Claude Code/2026-01-09-2-safety-and-privacy-changes-in-v2-1-2|2 Safety
   and Privacy changes in v2.1.2]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-01-09-v2-1-3-github-275638643-101f767c|claude-code-2026-01-09-v2-1-3-github-275638643-101f767c]]'
@@ -88,7 +89,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.3
 ## Nearby in Safety and Privacy
 
 - Earlier: 2026-01-09 · Claude Code · [[Changes/Claude Code/2026-01-09-2-safety-and-privacy-changes-in-v2-1-2|2 Safety and Privacy changes in v2.1.2]]
-- Later: 2026-01-13 · Claude Code · [[Changes/Claude Code/2026-01-13-fixed-permission-bypass-via-shell-line-continuation-that-could-allow-blocked-com|Fixed permission bypass via shell line continuation that could allow blocked…]]
+- Later: 2026-01-09 · Codex CLI · [[Changes/Codex CLI/2026-01-09-2-safety-and-privacy-changes-in-rust-v0-80-0|2 Safety and Privacy changes in rust-v0.80.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

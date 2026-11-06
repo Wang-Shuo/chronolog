@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: d908d08b367eed75c922147b73fe32c370d858597f68f7ac82d7b30e2b81cbb7
+machine_hash: 9f3427c228fb57599c531e211c1bdf20a549510dea1689f3471fed6cdca55f6f
 product: cursor
 product_name: Cursor
 record:
@@ -51,12 +51,12 @@ record:
   title: System notification actions for terminal and MCP approval/rejection
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2025-10-09-we-re-adding-notion-and-linear-as-synced-connectors-for-pro-users-so-you-can-sec|Adding
-  Notion & Linear synced connectors]]'
-- '[[Changes/ChatGPT/2025-10-13-we-re-rolling-out-two-new-ways-to-bring-slack-and-chatgpt-together-a-connector-t-be2213|Slack
-  connector and app]]'
-- '[[Changes/Cursor/2025-11-21-project-level-hooks-are-now-supported|Project level
-  hooks are now supported]]'
+- '[[Changes/Codex CLI/2025-12-09-3-apps-and-integrations-changes-in-rust-v0-66-0|3
+  Apps and Integrations changes in rust-v0.66.0]]'
+- '[[Changes/Gemini CLI/2025-12-09-8-apps-and-integrations-changes-in-v0-20-0|8 Apps
+  and Integrations changes in v0.20.0]]'
+- '[[Changes/Codex CLI/2025-12-10-7817-fix-upgrade-modelcontextprotocol-sdk-to-1-24-0|♯7817
+  fix: Upgrade @modelcontextprotocol/sdk to ^1.24.0]]'
 source_release: '[[Releases/Cursor/cursor-2025-12-10-2-2-https-cursor-com-changelog-2-2-297c9323|cursor-2025-12-10-2-2-https-cursor-com-changelog-2-2-297c9323]]'
 source_type: cursor_changelog
 theme: apps-integrations
@@ -93,8 +93,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2025-11-21 · Cursor · [[Changes/Cursor/2025-11-21-project-level-hooks-are-now-supported|Project level hooks are now supported]]
-- Later: 2025-12-18 · ChatGPT · [[Changes/ChatGPT/2025-12-18-you-can-now-browse-and-add-approved-apps-in-the-new-app-directory-apps-let-you-w|Introducing the app directory in ChatGPT]]
+- Earlier: 2025-12-10 · Codex CLI · [[Changes/Codex CLI/2025-12-10-7817-fix-upgrade-modelcontextprotocol-sdk-to-1-24-0|♯7817 fix: Upgrade @modelcontextprotocol/sdk to ^1.24.0]]
+- Later: 2025-12-10 · Windsurf · [[Changes/Windsurf/2025-12-10-mcp-servers|MCP Servers]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

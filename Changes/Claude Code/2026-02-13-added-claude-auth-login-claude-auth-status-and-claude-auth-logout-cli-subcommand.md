@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: d2a13879124dac9ffdf8bf6ce60e1bb350961fa345bc78c991e6fc142b3df793
+machine_hash: 7a575dfb8004fceb2af2d1089229ecfb868188ea5cab976918c1c17c7cb38d3d
 product: claude-code
 product_name: Claude Code
 record:
@@ -43,12 +43,12 @@ record:
     CLI subcommands
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-01-22-browser-can-now-request-local-network-permissions-fixing-authentication-flows-wi|Browser
-  can now request local network permissions, fixing authentication flows…]]'
-- '[[Changes/Claude Code/2026-02-03-added-pre-configured-oauth-client-credentials-for-mcp-servers-that-don-t-support|Added
-  pre-configured OAuth client credentials for MCP servers that don''t support…]]'
-- '[[Changes/Claude Code/2026-02-06-vscode-added-support-for-remote-sessions-allowing-oauth-users-to-browse-and-resu|VSCode:
-  Added support for remote sessions, allowing OAuth users to browse and resume…]]'
+- '[[Changes/GitHub Copilot CLI/2026-02-11-2-account-and-access-changes-in-v0-0-407|2
+  Account and Access changes in v0.0.407]]'
+- '[[Changes/Cline/2026-02-12-2-account-and-access-changes-in-v3-58-0|2 Account and
+  Access changes in v3.58.0]]'
+- '[[Changes/Codex CLI/2026-02-12-11521-test-app-server-stabilize-app-list-thread-feature-flag-test-by-using-file|♯11521
+  test(app-server): stabilize app/list thread feature-flag test by using…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-02-13-v2-1-41-github-285970764-07a64ba8|claude-code-2026-02-13-v2-1-41-github-285970764-07a64ba8]]'
 source_type: github_releases
 theme: account-access
@@ -80,7 +80,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Account and Access
 
-- Earlier: 2026-02-06 · Claude Code · [[Changes/Claude Code/2026-02-06-vscode-added-support-for-remote-sessions-allowing-oauth-users-to-browse-and-resu|VSCode: Added support for remote sessions, allowing OAuth users to browse and resume…]]
+- Earlier: 2026-02-12 · Codex CLI · [[Changes/Codex CLI/2026-02-12-11521-test-app-server-stabilize-app-list-thread-feature-flag-test-by-using-file|♯11521 test(app-server): stabilize app/list thread feature-flag test by using…]]
 - Later: 2026-02-19 · Claude Code · [[Changes/Claude Code/2026-02-19-improved-performance-by-caching-authentication-failures-for-http-and-sse-mcp-ser|Improved performance by caching authentication failures for HTTP and SSE MCP…]]
 <!-- chronolog:end -->
 

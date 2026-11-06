@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: f91cd44ed871a79a10e933189ad9d14fdf6fd111637c6e38bab37ec490554d6a
+machine_hash: 9822fbb1965be5401247173970ae1980b3029a47b2359ba867510027a3d63293
 product: cursor
 product_name: Cursor
 record:
@@ -48,12 +48,12 @@ record:
   title: 'VS Code 1.93.1: Cursor is now based on VS Code 1.93.1'
   type: change
 related_changes:
-- '[[Changes/Cursor/2024-07-23-vs-code-1-91-1-cursor-is-now-based-on-vs-code-1-91-1|VS
-  Code 1.91.1: Cursor is now based on VS Code 1.91.1]]'
-- '[[Changes/Cursor/2024-08-02-cursor-tab-previously-called-copilot-defaults-to-chunked-streaming-this-build-al|Cursor
-  Tab (previously called Copilot++) defaults to chunked streaming]]'
 - '[[Changes/Cursor/2024-09-17-update-0-41-1-0-41-3-improves-onboarding-ux-fixes-a-bug-with-composer-cancellati|UPDATE
   (0.41.1–0.41.3): Improves onboarding UX, fixes a bug with composer…]]'
+- '[[Changes/Aider/2024-09-29-3-editor-experience-changes-in-v0-58-0|3 Editor Experience
+  changes in v0.58.0]]'
+- '[[Changes/Cline/2024-10-09-no-more-staring-at-loading-spinners-responses-are-now-streamed-into-the-editor-a|No
+  more staring at loading spinners: Responses are now streamed into the editor…]]'
 source_release: '[[Releases/Cursor/cursor-2024-10-09-0-42-x-https-cursor-com-changelog-0-42-x-71ecd9d1|cursor-2024-10-09-0-42-x-https-cursor-com-changelog-0-42-x-71ecd9d1]]'
 source_type: cursor_changelog
 theme: editor-experience
@@ -90,8 +90,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2024-09-17 · Cursor · [[Changes/Cursor/2024-09-17-update-0-41-1-0-41-3-improves-onboarding-ux-fixes-a-bug-with-composer-cancellati|UPDATE (0.41.1–0.41.3): Improves onboarding UX, fixes a bug with composer…]]
-- Later: 2024-12-17 · Cursor · [[Changes/Cursor/2024-12-17-agent-can-reapply-edits-with-a-smarter-apply-model|Agent can reapply edits with a smarter apply model]]
+- Earlier: 2024-10-09 · Cline · [[Changes/Cline/2024-10-09-no-more-staring-at-loading-spinners-responses-are-now-streamed-into-the-editor-a|No more staring at loading spinners: Responses are now streamed into the editor…]]
+- Later: 2024-10-22 · Aider · [[Changes/Aider/2024-10-22-2-editor-experience-changes-in-v0-60-0|2 Editor Experience changes in v0.60.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

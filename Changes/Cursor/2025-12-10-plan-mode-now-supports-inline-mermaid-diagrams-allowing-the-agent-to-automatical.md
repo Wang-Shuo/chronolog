@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: 990d8da84a960cdc16a3f5db72e11098072910596c819e5c2f3adab024714ecf
+machine_hash: 60e8b415fa58757aaa648d1b9b11c1f8a0f3934e251046ad626d4eea8efbbfb7
 product: cursor
 product_name: Cursor
 record:
@@ -48,10 +48,12 @@ record:
   title: Plan Mode improvements
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-10-29-multi-agents-bb4f56|Multi-Agents]]'
-- '[[Changes/Cursor/2025-11-21-instant-grep-beta|Instant Grep (Beta)]]'
-- '[[Changes/Cursor/2025-11-21-2-agent-mode-changes-in-2-1|2 Agent Mode changes in
-  2.1]]'
+- '[[Changes/GitHub Copilot CLI/2025-12-03-add-infer-property-to-control-custom-agent-tool-visibility|Add
+  infer property to control custom agent tool visibility]]'
+- '[[Changes/Codex CLI/2025-12-09-7729-feat-add-is-mutating-detection-for-shell-command-handler-jif-oai|♯7729
+  feat: add is-mutating detection for shell command handler @jif-oai]]'
+- '[[Changes/Gemini CLI/2025-12-09-feat-a2a-urgent-fix-process-modelinfo-agent-message-by-cocosheng-g-in-https-gith|feat(a2a):
+  Urgent fix - Process modelInfo agent message]]'
 source_release: '[[Releases/Cursor/cursor-2025-12-10-2-2-https-cursor-com-changelog-2-2-297c9323|cursor-2025-12-10-2-2-https-cursor-com-changelog-2-2-297c9323]]'
 source_type: cursor_changelog
 theme: agent-mode
@@ -88,8 +90,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2025-11-21 · Cursor · [[Changes/Cursor/2025-11-21-2-agent-mode-changes-in-2-1|2 Agent Mode changes in 2.1]]
-- Later: 2025-12-18 · Cursor · [[Changes/Cursor/2025-12-18-shared-agent-transcripts-164030|Shared agent transcripts]]
+- Earlier: 2025-12-09 · Gemini CLI · [[Changes/Gemini CLI/2025-12-09-feat-a2a-urgent-fix-process-modelinfo-agent-message-by-cocosheng-g-in-https-gith|feat(a2a): Urgent fix - Process modelInfo agent message]]
+- Later: 2025-12-16 · OpenHands · [[Changes/OpenHands/2025-12-16-new-openhands-1-0-0-using-the-new-software-agent-sdk-https-github-com-openhands|New OpenHands 1.0.0 using the new…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

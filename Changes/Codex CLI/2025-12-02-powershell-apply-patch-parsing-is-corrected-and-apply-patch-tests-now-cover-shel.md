@@ -1,0 +1,99 @@
+---
+card_id: codex-cli-2025-12-02-c73cc5
+date: '2025-12-02'
+description: 'Codex CLI · 2025-12-02 · Agent Mode: PowerShell apply_patch parsing
+  is corrected, and apply_patch tests now cover shell_command behavior.'
+diffusion:
+  first_in_tracked: '[[Changes/Cursor/2023-07-06-welcome-to-the-first-nightly-release-it-comes-with-agents-which-we-aren-t-releas|Agents,
+    new docs]]'
+  inference: No adoption, equivalence, or causation claim.
+  lag_days: 880
+  relation: same-theme-chronology
+  role: later-observed
+  scope: tracked-products-only
+  theme: agent-mode
+  tracked_products_count: 10
+evolves_from: []
+extractor_version: fallback-v5
+impact: incremental
+kind: change
+machine_hash: da02266749b8a917e404d3c6b6dc845de75bed58614d3258fd9cce669065d9b3
+product: codex-cli
+product_name: Codex CLI
+record:
+  card_id: codex-cli-2025-12-02-c73cc5
+  comparison: ''
+  date: '2025-12-02'
+  description: 'Codex CLI — 0.64.0: PowerShell apply_patch parsing is corrected, and
+    apply_patch tests now cover shell_command behavior.'
+  evidence:
+  - quote: PowerShell apply_patch parsing is corrected, and apply_patch tests now
+      cover shell_command behavior.
+    source_release: https://github.com/openai/codex/releases/tag/rust-v0.64.0
+  extractor_version: fallback-v5
+  impact: incremental
+  kind: change
+  product: codex-cli
+  product_name: Codex CLI
+  slug: powershell-apply-patch-parsing-is-corrected-and-apply-patch-tests-now-cover-shel
+  source_release: codex-cli-2025-12-02-rust-v0-64-0-github-266901625-82376886
+  source_type: github_releases
+  theme: agent-mode
+  title: PowerShell apply_patch parsing is corrected, and apply_patch tests now cover…
+  type: change
+related_changes:
+- '[[Changes/Codex CLI/2025-11-19-2-agent-mode-changes-in-rust-v0-59-0|2 Agent Mode
+  changes in rust-v0.59.0]]'
+- '[[Changes/Cursor/2025-11-21-instant-grep-beta|Instant Grep (Beta)]]'
+- '[[Changes/Cursor/2025-11-21-2-agent-mode-changes-in-2-1|2 Agent Mode changes in
+  2.1]]'
+source_release: '[[Releases/Codex CLI/codex-cli-2025-12-02-rust-v0-64-0-github-266901625-82376886|codex-cli-2025-12-02-rust-v0-64-0-github-266901625-82376886]]'
+source_type: github_releases
+theme: agent-mode
+title: PowerShell apply_patch parsing is corrected, and apply_patch tests now cover…
+type: change
+---
+
+<!-- chronolog:begin region="header" -->
+# PowerShell apply_patch parsing is corrected, and apply_patch tests now cover…
+
+**Codex CLI** · 2025-12-02 · [[Themes/agent-mode|Agent Mode]] · [Official source](https://github.com/openai/codex/releases/tag/rust-v0.64.0) · from [[Releases/Codex CLI/codex-cli-2025-12-02-rust-v0-64-0-github-266901625-82376886|0.64.0]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="evidence" -->
+> PowerShell apply_patch parsing is corrected, and apply_patch tests now cover shell_command behavior.
+>
+> Source: https://github.com/openai/codex/releases/tag/rust-v0.64.0
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="context" -->
+## Also in this release
+
+- [[Changes/Codex CLI/2025-12-02-2-model-support-changes-in-rust-v0-64-0|2 Model Support changes in rust-v0.64.0]] · Model Support
+- [[Changes/Codex CLI/2025-12-02-5-context-window-changes-in-rust-v0-64-0|5 Context Window changes in rust-v0.64.0]] · Context Window
+- [[Changes/Codex CLI/2025-12-02-feat-support-login-as-an-option-on-shell-tool-mcp-by-bolinfest-in-7120|feat: support login as an option on shell-tool-mcp by @bolinfest in ♯7120]] · Account and Access
+- [[Changes/Codex CLI/2025-12-02-3-apps-and-integrations-changes-in-rust-v0-64-0|3 Apps and Integrations changes in rust-v0.64.0]] · Apps and Integrations
+- [[Changes/Codex CLI/2025-12-02-9-safety-and-privacy-changes-in-rust-v0-64-0|9 Safety and Privacy changes in rust-v0.64.0]] · Safety and Privacy
+- [[Changes/Codex CLI/2025-12-02-4-developer-workflow-changes-in-rust-v0-64-0|4 Developer Workflow changes in rust-v0.64.0]] · Developer Workflow
+- [[Changes/Codex CLI/2025-12-02-execution-gains-an-experimental-exp-model-unified-exec-pruning-to-limit-session|Execution gains an experimental “exp” model, unified exec pruning to limit session…]] · Mobile and Desktop
+- [[Changes/Codex CLI/2025-12-02-3-editor-experience-changes-in-rust-v0-64-0|3 Editor Experience changes in rust-v0.64.0]] · Editor Experience
+- [[Changes/Codex CLI/2025-12-02-chore-dedup-unified-exec-waited-rendering-by-jif-oai-in-7256|chore: dedup unified exec "waited" rendering by @jif-oai in ♯7256]] · Interface Experience
+- [[Changes/Codex CLI/2025-12-02-46-other-changes-in-rust-v0-64-0|46 other changes in rust-v0.64.0]] · Other changes
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="nearby" -->
+## Nearby in Agent Mode
+
+- Earlier: 2025-11-21 · Cursor · [[Changes/Cursor/2025-11-21-2-agent-mode-changes-in-2-1|2 Agent Mode changes in 2.1]]
+- Later: 2025-12-03 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2025-12-03-add-infer-property-to-control-custom-agent-tool-visibility|Add infer property to control custom agent tool visibility]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="relations" -->
+## Related
+
+- Earliest same-theme entry in the tracked set: 2023-07-06 · Cursor · [[Changes/Cursor/2023-07-06-welcome-to-the-first-nightly-release-it-comes-with-agents-which-we-aren-t-releas|Agents, new docs]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="footer" -->
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20codex-cli-2025-12-02-c73cc5&body=Card%3A%20Changes%2FCodex%20CLI%2F2025-12-02-powershell-apply-patch-parsing-is-corrected-and-apply-patch-tests-now-cover-shel.md%0ACard%20ID%3A%20codex-cli-2025-12-02-c73cc5%0ASource%3A%20https%3A%2F%2Fgithub.com%2Fopenai%2Fcodex%2Freleases%2Ftag%2Frust-v0.64.0%0A%0AWhat%20should%20be%20corrected%3F%0A)
+<!-- chronolog:end -->

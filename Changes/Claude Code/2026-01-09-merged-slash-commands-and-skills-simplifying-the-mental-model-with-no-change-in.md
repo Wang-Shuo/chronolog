@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: b31a6d2ccc8515adc619c33e401d0ada14ad4dcf9ec2aaa8ab3babd9310ff91c
+machine_hash: 949df07b895f66fe89e1b514ae81557dc47dcdad7bb223875679ee6c71c141b0
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,12 +45,12 @@ record:
     in behavior
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2025-11-21-chatgpt-now-adds-more-inline-images-from-the-web-to-help-you-quickly-understand-83e5b8|More
-  images in answers]]'
-- '[[Changes/ChatGPT/2025-12-11-today-we-re-releasing-gpt-5-2-the-next-upgrade-to-the-gpt-5-series-gpt-5-2-is-sm|Today,
-  we’re releasing GPT-5.2, the next upgrade to the GPT-5 series]]'
+- '[[Changes/GitHub Copilot CLI/2026-01-07-2-model-support-changes-in-v0-0-375|2 Model
+  Support changes in v0.0.375]]'
 - '[[Changes/Cursor/2026-01-08-use-the-new-agent-models-command-list-models-flag-or-models-slash-command-to-lis|Model
   list and selection]]'
+- '[[Changes/GitHub Copilot CLI/2026-01-08-large-tool-outputs-are-written-to-disk-and-models-are-encouraged-to-use-efficien|Large
+  tool outputs are written to disk and models are encouraged to use efficient…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-01-09-v2-1-3-github-275638643-101f767c|claude-code-2026-01-09-v2-1-3-github-275638643-101f767c]]'
 source_type: github_releases
 theme: model-support
@@ -83,8 +83,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-01-08 · Cursor · [[Changes/Cursor/2026-01-08-use-the-new-agent-models-command-list-models-flag-or-models-slash-command-to-lis|Model list and selection]]
-- Later: 2026-01-16 · Claude Code · [[Changes/Claude Code/2026-01-16-added-support-for-pretooluse-hooks-to-return-additionalcontext-to-the-model|Added support for PreToolUse hooks to return additionalContext to the model]]
+- Earlier: 2026-01-08 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-01-08-large-tool-outputs-are-written-to-disk-and-models-are-encouraged-to-use-efficien|Large tool outputs are written to disk and models are encouraged to use efficient…]]
+- Later: 2026-01-09 · Cline · [[Changes/Cline/2026-01-09-2-model-support-changes-in-v3-48-0|2 Model Support changes in v3.48.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

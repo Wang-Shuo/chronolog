@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: e52cdf3e8363d2572f9bdca8b6508afed631b422795c8f0746d27d546cbc4918
+machine_hash: 418c96f4fc3c1746df81e81a89e084f5a6182634a5d41cde00205f128d6f188c
 product: claude-code
 product_name: Claude Code
 record:
@@ -44,10 +44,10 @@ record:
   title: Improved Stats panel to count cache tokens in its token totals, with a breakdown…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-07-20-context-now-shows-an-explicit-warning-when-the-conversation-exceeds-the-context|/context
-  now shows an explicit warning when the conversation exceeds the context…]]'
-- '[[Changes/Claude Code/2026-07-22-changed-skills-with-context-fork-to-run-in-the-background-by-default-opt-out-per|Changed
-  skills with context: fork to run in the background by default]]'
+- '[[Changes/Codex CLI/2026-07-29-5-context-window-changes-in-rust-v0-146-0|5 Context
+  Window changes in rust-v0.146.0]]'
+- '[[Changes/GitHub Copilot CLI/2026-07-30-restore-the-early-warning-when-unreclaimable-system-and-tool-context-nears-the-l|Restore
+  the early warning when unreclaimable system and tool context nears…]]'
 - '[[Changes/ChatGPT/2026-08-04-if-you-paste-more-than-10k-characters-into-the-composer-chatgpt-will-automatical-1bd022|If
   you paste more than 10k characters into the composer, ChatGPT will automatically…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-08-04-v2-1-221-github-364520051-d6a656ce|claude-code-2026-08-04-v2-1-221-github-364520051-d6a656ce]]'
@@ -86,7 +86,7 @@ type: change
 ## Nearby in Context Window
 
 - Earlier: 2026-08-04 · ChatGPT · [[Changes/ChatGPT/2026-08-04-if-you-paste-more-than-10k-characters-into-the-composer-chatgpt-will-automatical-1bd022|If you paste more than 10k characters into the composer, ChatGPT will automatically…]]
-- Later: 2026-08-06 · Claude Code · [[Changes/Claude Code/2026-08-06-2-context-window-changes-in-v2-1-223|2 Context Window changes in v2.1.223]]
+- Later: 2026-08-05 · Cline · [[Changes/Cline/2026-08-05-recover-from-running-out-of-context-instead-of-failing-with-a-raw-provider-error|Recover from running out of context instead of failing with a raw provider error]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

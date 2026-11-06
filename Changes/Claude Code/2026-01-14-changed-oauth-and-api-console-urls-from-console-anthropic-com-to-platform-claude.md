@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 0066709d7eaddb82d443ac73c1b1b95ba40324a241fab3bf24e42694d479ce0b
+machine_hash: 96d09c7789b2180c760de261cf18f240cf4b0b8f4333ed1a99a943716c181995
 product: claude-code
 product_name: Claude Code
 record:
@@ -41,10 +41,10 @@ record:
   title: Changed OAuth and API Console URLs from console.anthropic.com to platform.claude.com
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-09-29-1-7-41-token-sync-improvements-for-authentication|1.7.41:
-  Token sync improvements for authentication]]'
-- '[[Changes/Cursor/2025-12-22-2-account-and-access-changes-in-2-3|2 Account and Access
-  changes in 2.3]]'
+- '[[Changes/Codex CLI/2026-01-07-2-account-and-access-changes-in-rust-v0-79-0|2 Account
+  and Access changes in rust-v0.79.0]]'
+- '[[Changes/Gemini CLI/2026-01-07-validate-oauth-resource-parameter-matches-mcp-server-url-by-galz10-in-https-gith|Validate
+  OAuth resource parameter matches MCP server URL]]'
 - '[[Changes/Claude Code/2026-01-13-updated-help-improve-claude-setting-fetch-to-refresh-oauth-and-retry-when-it-fai|Updated
   "Help improve Claude" setting fetch to refresh OAuth and retry when it fails…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-01-14-v2-1-7-github-276555327-bf21dc80|claude-code-2026-01-14-v2-1-7-github-276555327-bf21dc80]]'
@@ -80,7 +80,7 @@ type: change
 ## Nearby in Account and Access
 
 - Earlier: 2026-01-13 · Claude Code · [[Changes/Claude Code/2026-01-13-updated-help-improve-claude-setting-fetch-to-refresh-oauth-and-retry-when-it-fai|Updated "Help improve Claude" setting fetch to refresh OAuth and retry when it fails…]]
-- Later: 2026-01-16 · Cursor · [[Changes/Cursor/2026-01-16-one-click-mcp-authentication|One-click MCP authentication]]
+- Later: 2026-01-14 · Codex CLI · [[Changes/Codex CLI/2026-01-14-2-account-and-access-changes-in-rust-v0-81-0|2 Account and Access changes in rust-v0.81.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

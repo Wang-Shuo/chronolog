@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 363355bbc6cb468aa48ce29a0d08db8f47ca77716c6ab9b2dbc84639c4bcdc85
+machine_hash: 2a54a4ee786808bd442665af903546284b86f5f6f391fe0969dfcf52a2e9590e
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -62,12 +62,12 @@ record:
   title: Texting your dot
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-23-4-safety-and-privacy-changes-in-v2-1-310|4 Safety
-  and Privacy changes in v2.1.310]]'
-- '[[Changes/Claude Code/2026-10-26-changed-startup-warnings-about-permission-rules-in-settings-files-to-show-once-p|Changed
-  startup warnings about permission rules in settings files to show once per…]]'
-- '[[Changes/Claude Code/2026-10-27-changed-claude-code-to-stop-sending-the-claude-code-safety-event-opentelemetry-e|Changed
-  Claude Code to stop sending the claude_code.safety_event OpenTelemetry event]]'
+- '[[Changes/Codex CLI/2026-10-27-3-safety-and-privacy-changes-in-rust-v0-165-0|3
+  Safety and Privacy changes in rust-v0.165.0]]'
+- '[[Changes/Gemini CLI/2026-10-27-fix-ci-remove-unsupported-members-permission-in-unassign-inactive-assignees-work|fix(ci):
+  remove unsupported members permission in unassign-inactive-assignees workflow]]'
+- '[[Changes/OpenHands/2026-10-27-feat-sidebar-start-a-new-conversation-in-the-row-s-sandbox-ohe-3689-by-hieptl-in|feat(sidebar):
+  start a new conversation in the row''s sandbox (OHE-3689)]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-10-28-texting-your-dot-7b46a795|chatgpt-2026-10-28-texting-your-dot-7b46a795]]'
 source_type: chatgpt_changelog
 theme: safety-privacy
@@ -100,8 +100,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Safety and Privacy
 
-- Earlier: 2026-10-27 · Claude Code · [[Changes/Claude Code/2026-10-27-changed-claude-code-to-stop-sending-the-claude-code-safety-event-opentelemetry-e|Changed Claude Code to stop sending the claude_code.safety_event OpenTelemetry event]]
-- Later: 2026-10-30 · Claude Code · [[Changes/Claude Code/2026-10-30-10-safety-and-privacy-changes-in-v2-1-314|10 Safety and Privacy changes in v2.1.314]]
+- Earlier: 2026-10-27 · OpenHands · [[Changes/OpenHands/2026-10-27-feat-sidebar-start-a-new-conversation-in-the-row-s-sandbox-ohe-3689-by-hieptl-in|feat(sidebar): start a new conversation in the row's sandbox (OHE-3689)]]
+- Later: 2026-10-29 · Codex CLI · [[Changes/Codex CLI/2026-10-29-10-safety-and-privacy-changes-in-rust-v0-166-0|10 Safety and Privacy changes in rust-v0.166.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

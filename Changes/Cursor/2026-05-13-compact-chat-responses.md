@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: 82f02b062bb9b42bbc25f5171f29284572d33c33ab8ea1ea1b837007e092115a
+machine_hash: 2b6cf3ed046afac6ebb9eab310d4327404bfb25b515f82386da620099cd4591a
 product: cursor
 product_name: Cursor
 record:
@@ -64,8 +64,8 @@ record:
   title: Compact chat responses
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-05-06-you-can-now-see-a-breakdown-of-your-agent-s-context-usage-e005b2|Context
-  Usage Breakdown]]'
+- '[[Changes/Codex CLI/2026-05-08-2-context-window-changes-in-rust-v0-130-0|2 Context
+  Window changes in rust-v0.130.0]]'
 - '[[Changes/Claude Code/2026-05-11-context-all-per-skill-token-estimates-now-account-for-the-model-s-tokenizer-and|/context
   all per-skill token estimates now account for the model''s tokenizer…]]'
 - '[[Changes/Claude Code/2026-05-13-rewind-menu-added-summarize-up-to-here-to-compress-earlier-context-while-keeping|Rewind

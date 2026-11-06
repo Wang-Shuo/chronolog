@@ -4,9 +4,14 @@ from datetime import datetime, timedelta, timezone
 import json
 from pathlib import Path
 import subprocess
+from _scripts.collect import load_sources
 
 
-def assess(runs: list[dict], reports: dict[int, dict], now: datetime) -> dict:
+def assess(runs: list[dict], reports: dict[int, dict], now: datetime,
+           expected_products: set[str] | None = None) -> dict:
+    if expected_products is None:
+        expected_products = {p['name'] for p in load_sources(
+            Path(__file__).resolve().parent / 'sources.yaml')}
     if len(runs)!=7 or len({r['databaseId'] for r in runs})!=7:
         raise ValueError('seven distinct real scheduled runs are required')
     days=[]
@@ -20,7 +25,7 @@ def assess(runs: list[dict], reports: dict[int, dict], now: datetime) -> dict:
             raise ValueError('offline replay cannot satisfy continuous operations acceptance')
         if report.get('status') not in {'no-change','candidate-applied','failed'}:
             raise ValueError('scheduled run lacks a terminal generation report')
-        if {s['product'] for s in report.get('sources',[])}!={'chatgpt','claude-code','cursor'}:
+        if {s['product'] for s in report.get('sources',[])} != expected_products:
             raise ValueError('run evidence must account for each requested source')
         if any(s.get('status') not in {'success','failed','not-attempted'} for s in report['sources']):
             raise ValueError('source status is missing')

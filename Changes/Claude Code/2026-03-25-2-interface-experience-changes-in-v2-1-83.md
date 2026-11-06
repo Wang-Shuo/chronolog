@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: d884837c447538481a512657426e3e6661c93b7973f8521ff8466bb285b35892
+machine_hash: 61b3ad3b943f55e2ff3b32e03bc1237ccb1a2df694f9f92ccc3a8b0b8b89363b
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,12 +45,12 @@ record:
   title: 2 Interface Experience changes in v2.1.83
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-03-17-2-interface-experience-changes-in-v2-1-78|2 Interface
-  Experience changes in v2.1.78]]'
-- '[[Changes/Claude Code/2026-03-18-added-show-turn-duration-toggle-to-the-config-menu|Added
-  "Show turn duration" toggle to the /config menu]]'
-- '[[Changes/Claude Code/2026-03-19-2-interface-experience-changes-in-v2-1-80|2 Interface
-  Experience changes in v2.1.80]]'
+- '[[Changes/Cline/2026-03-19-add-feature-tips-tooltip-during-thinking-state|Add feature
+  tips tooltip during thinking state]]'
+- '[[Changes/Codex CLI/2026-03-19-2-interface-experience-changes-in-rust-v0-116-0|2
+  Interface Experience changes in rust-v0.116.0]]'
+- '[[Changes/Gemini CLI/2026-03-24-docs-cli-add-custom-keybinding-documentation-by-scidomino-in-https-github-com-go|docs(cli):
+  add custom keybinding documentation]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-03-25-v2-1-83-github-301019202-ba6a8317|claude-code-2026-03-25-v2-1-83-github-301019202-ba6a8317]]'
 source_type: github_releases
 theme: interface-experience
@@ -89,7 +89,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.83
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-03-19 · Claude Code · [[Changes/Claude Code/2026-03-19-2-interface-experience-changes-in-v2-1-80|2 Interface Experience changes in v2.1.80]]
+- Earlier: 2026-03-24 · Gemini CLI · [[Changes/Gemini CLI/2026-03-24-docs-cli-add-custom-keybinding-documentation-by-scidomino-in-https-github-com-go|docs(cli): add custom keybinding documentation]]
 - Later: 2026-03-26 · ChatGPT · [[Changes/ChatGPT/2026-03-26-to-give-you-more-space-to-view-your-most-critical-chats-and-projects-the-sidebar|A simplified sidebar on mobile]]
 <!-- chronolog:end -->
 

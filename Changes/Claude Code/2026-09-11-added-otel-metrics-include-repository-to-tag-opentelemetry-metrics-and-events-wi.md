@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 090d74cc5b4d7814c4efc6e8b1e7b997f2b8a0087dab3da823a691f7c37e737f
+machine_hash: 67499e1e9dfbd820e993471b4e95a892265d7c4fdb91cd23b8f1c5b1cb7d3527
 product: claude-code
 product_name: Claude Code
 record:
@@ -46,10 +46,10 @@ record:
     events…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-08-2-developer-workflow-changes-in-v2-1-265|2 Developer
-  Workflow changes in v2.1.265]]'
-- '[[Changes/Claude Code/2026-09-09-3-developer-workflow-changes-in-v2-1-267|3 Developer
-  Workflow changes in v2.1.267]]'
+- '[[Changes/Codex CLI/2026-09-09-7-developer-workflow-changes-in-rust-v0-154-0|7
+  Developer Workflow changes in rust-v0.154.0]]'
+- '[[Changes/OpenHands/2026-09-09-2-developer-workflow-changes-in-v1-17-0|2 Developer
+  Workflow changes in v1.17.0]]'
 - '[[Changes/Claude Code/2026-09-10-code-review-added-a-note-under-the-still-open-findings-list-in-follow-up-reviews|Code
   Review Added a note under the still-open findings list in follow-up reviews]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-11-v2-1-269-github-387243742-288e9189|claude-code-2026-09-11-v2-1-269-github-387243742-288e9189]]'

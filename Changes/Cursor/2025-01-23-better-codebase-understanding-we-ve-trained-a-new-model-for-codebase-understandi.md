@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: b249a41eed67a1175e1fa2b703f6111753568e6b3395456c6ac53b2f41b82e24
+machine_hash: 0388356bec74a5a3b0e025965515a685c326bf80da10be80e63d4b17c87034e5
 product: cursor
 product_name: Cursor
 record:
@@ -46,10 +46,10 @@ record:
   title: 'Better Codebase Understanding: We''ve trained a new model for Codebase Understanding'
   type: change
 related_changes:
-- '[[Changes/Cursor/2024-07-23-new-default-model-we-ve-made-claude-3-5-sonnet-the-default-model-for-users|New
-  Default Model: We''ve made Claude 3.5 Sonnet the default model for users]]'
-- '[[Changes/ChatGPT/2024-12-13-projects-provide-a-new-way-to-group-files-and-chats-for-personal-use-simplifying|Projects
-  provide a new way to group files and chats for personal use, simplifying…]]'
+- '[[Changes/Cline/2025-01-21-add-vs-code-lm-api-provider-to-run-models-provided-by-other-vs-code-extensions-e|Add
+  VS Code LM API provider to run models provided by other VS Code extensions…]]'
+- '[[Changes/OpenHands/2025-01-22-2-model-support-changes-in-0-21-0|2 Model Support
+  changes in 0.21.0]]'
 - '[[Changes/Cursor/2025-01-23-deepseek-models-deepseek-r1-and-deepseek-v3-are-supported-in-0-45-and-0-44-you-c|Deepseek
   models: Deepseek R1 and Deepseek v3 are supported in 0.45 and 0.44]]'
 source_release: '[[Releases/Cursor/cursor-2025-01-23-0-45-x-https-cursor-com-changelog-0-45-x-c162d228|cursor-2025-01-23-0-45-x-https-cursor-com-changelog-0-45-x-c162d228]]'
@@ -87,8 +87,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2024-12-13 · ChatGPT · [[Changes/ChatGPT/2024-12-13-projects-provide-a-new-way-to-group-files-and-chats-for-personal-use-simplifying|Projects provide a new way to group files and chats for personal use, simplifying…]]
-- Later: 2025-03-11 · Cursor · [[Changes/Cursor/2025-03-11-sonnet-3-7-thinking-we-ve-made-a-few-improvements-to-3-7-prompting-thinking-will|Sonnet 3.7 thinking: We've made a few improvements to 3.7 prompting]]
+- Earlier: 2025-01-22 · OpenHands · [[Changes/OpenHands/2025-01-22-2-model-support-changes-in-0-21-0|2 Model Support changes in 0.21.0]]
+- Later: 2025-01-30 · Cline · [[Changes/Cline/2025-01-30-save-last-used-api-model-when-switching-between-plan-and-act-for-users-that-like|Save last used API/model when switching between Plan and Act, for users that like…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

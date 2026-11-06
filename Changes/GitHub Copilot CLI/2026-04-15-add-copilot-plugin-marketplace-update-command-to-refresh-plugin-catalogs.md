@@ -1,0 +1,92 @@
+---
+card_id: github-copilot-cli-2026-04-15-28db96
+date: '2026-04-15'
+description: 'GitHub Copilot CLI · 2026-04-15 · Apps and Integrations: Add `copilot
+  plugin marketplace update` command to refresh plugin catalogs'
+diffusion:
+  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We
+    are announcing experimental support for AI plugins in ChatGPT]]'
+  inference: No adoption, equivalence, or causation claim.
+  lag_days: 1119
+  relation: same-theme-chronology
+  role: later-observed
+  scope: tracked-products-only
+  theme: apps-integrations
+  tracked_products_count: 10
+evolves_from: []
+extractor_version: fallback-v5
+impact: incremental
+kind: change
+machine_hash: 9613dcc52e95f98e00bd79433bfa02f974abe9f86733bd2383b5c05841fc6a3a
+product: github-copilot-cli
+product_name: GitHub Copilot CLI
+record:
+  card_id: github-copilot-cli-2026-04-15-28db96
+  comparison: ''
+  date: '2026-04-15'
+  description: 'GitHub Copilot CLI — 1.0.27: Add `copilot plugin marketplace update`
+    command to refresh plugin catalogs'
+  evidence:
+  - quote: Add `copilot plugin marketplace update` command to refresh plugin catalogs
+    source_release: https://github.com/github/copilot-cli/releases/tag/v1.0.27
+  extractor_version: fallback-v5
+  impact: incremental
+  kind: change
+  product: github-copilot-cli
+  product_name: GitHub Copilot CLI
+  slug: add-copilot-plugin-marketplace-update-command-to-refresh-plugin-catalogs
+  source_release: github-copilot-cli-2026-04-15-v1-0-27-github-309117007-13c9ef47
+  source_type: github_releases
+  theme: apps-integrations
+  title: Add `copilot plugin marketplace update` command to refresh plugin catalogs
+  type: change
+related_changes:
+- '[[Changes/GitHub Copilot CLI/2026-04-14-4-apps-and-integrations-changes-in-v1-0-26|4
+  Apps and Integrations changes in v1.0.26]]'
+- '[[Changes/Claude Code/2026-04-15-4-apps-and-integrations-changes-in-v2-1-110|4
+  Apps and Integrations changes in v2.1.110]]'
+- '[[Changes/Codex CLI/2026-04-15-9-apps-and-integrations-changes-in-rust-v0-121-0|9
+  Apps and Integrations changes in rust-v0.121.0]]'
+source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-04-15-v1-0-27-github-309117007-13c9ef47|github-copilot-cli-2026-04-15-v1-0-27-github-309117007-13c9ef47]]'
+source_type: github_releases
+theme: apps-integrations
+title: Add copilot plugin marketplace update command to refresh plugin catalogs
+type: change
+---
+
+<!-- chronolog:begin region="header" -->
+# Add `copilot plugin marketplace update` command to refresh plugin catalogs
+
+**GitHub Copilot CLI** · 2026-04-15 · [[Themes/apps-integrations|Apps and Integrations]] · [Official source](https://github.com/github/copilot-cli/releases/tag/v1.0.27) · from [[Releases/GitHub Copilot CLI/github-copilot-cli-2026-04-15-v1-0-27-github-309117007-13c9ef47|1.0.27]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="evidence" -->
+> Add `copilot plugin marketplace update` command to refresh plugin catalogs
+>
+> Source: https://github.com/github/copilot-cli/releases/tag/v1.0.27
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="context" -->
+## Also in this release
+
+- [[Changes/GitHub Copilot CLI/2026-04-15-status-bar-shows-files-and-issues-hints-while-typing-and-help-hint-when-the-slas|Status bar shows @files and ♯issues hints while typing, and /help hint…]] · Interface Experience
+- [[Changes/GitHub Copilot CLI/2026-04-15-show-a-clear-message-when-copilot-pro-trial-is-paused-instead-of-a-generic-polic|Show a clear message when Copilot Pro trial is paused instead of a generic policy error]] · Editor Experience
+- [[Changes/GitHub Copilot CLI/2026-04-15-2-developer-workflow-changes-in-v1-0-27|2 Developer Workflow changes in v1.0.27]] · Developer Workflow
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="nearby" -->
+## Nearby in Apps and Integrations
+
+- Earlier: 2026-04-15 · Codex CLI · [[Changes/Codex CLI/2026-04-15-9-apps-and-integrations-changes-in-rust-v0-121-0|9 Apps and Integrations changes in rust-v0.121.0]]
+- Later: 2026-04-15 · Windsurf · [[Changes/Windsurf/2026-04-15-additional-changes|Additional Changes]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="relations" -->
+## Related
+
+- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We are announcing experimental support for AI plugins in ChatGPT]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="footer" -->
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20github-copilot-cli-2026-04-15-28db96&body=Card%3A%20Changes%2FGitHub%20Copilot%20CLI%2F2026-04-15-add-copilot-plugin-marketplace-update-command-to-refresh-plugin-catalogs.md%0ACard%20ID%3A%20github-copilot-cli-2026-04-15-28db96%0ASource%3A%20https%3A%2F%2Fgithub.com%2Fgithub%2Fcopilot-cli%2Freleases%2Ftag%2Fv1.0.27%0A%0AWhat%20should%20be%20corrected%3F%0A)
+<!-- chronolog:end -->

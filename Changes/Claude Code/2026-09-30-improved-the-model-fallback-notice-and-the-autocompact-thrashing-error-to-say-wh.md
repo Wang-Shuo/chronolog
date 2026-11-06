@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: 6ccd67ae14326f0f8c4fbbab8737c56f8c7b3463b03ccde471c0f97dc41fa52e
+machine_hash: 45fb1f286a229b898aac88fa57b02b2453db457c432c8f23d8734d4d48ca7e0e
 product: claude-code
 product_name: Claude Code
 record:
@@ -58,12 +58,12 @@ record:
     say…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-15-added-x-claude-code-request-class-x-claude-code-agent-type-x-claude-code-prev-to|Added
-  x-claude-code-request-class, x-claude-code-agent-type…]]'
-- '[[Changes/Claude Code/2026-09-25-2-context-window-changes-in-v2-1-283|2 Context
-  Window changes in v2.1.283]]'
+- '[[Changes/Codex CLI/2026-09-28-17-context-window-changes-in-rust-v0-158-0|17 Context
+  Window changes in rust-v0.158.0]]'
 - '[[Changes/Claude Code/2026-09-29-2-context-window-changes-in-v2-1-285|2 Context
   Window changes in v2.1.285]]'
+- '[[Changes/Codex CLI/2026-09-29-4-context-window-changes-in-rust-v0-159-0|4 Context
+  Window changes in rust-v0.159.0]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-30-v2-1-286-github-400266224-9fb31eb7|claude-code-2026-09-30-v2-1-286-github-400266224-9fb31eb7]]'
 source_type: github_releases
 theme: context-window
@@ -99,8 +99,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Context Window
 
-- Earlier: 2026-09-29 · Claude Code · [[Changes/Claude Code/2026-09-29-2-context-window-changes-in-v2-1-285|2 Context Window changes in v2.1.285]]
-- Later: 2026-10-01 · Claude Code · [[Changes/Claude Code/2026-10-01-changed-opus-4-7-and-fable-to-use-a-1m-context-window-by-default-on-bedrock-vert|Changed Opus 4.7+ and Fable to use a 1M context window by default on Bedrock…]]
+- Earlier: 2026-09-29 · Codex CLI · [[Changes/Codex CLI/2026-09-29-4-context-window-changes-in-rust-v0-159-0|4 Context Window changes in rust-v0.159.0]]
+- Later: 2026-09-30 · Cline · [[Changes/Cline/2026-09-30-reasoning-tokens-are-no-longer-counted-twice-in-token-usage-cost-is-unchanged|Reasoning tokens are no longer counted twice in token usage]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

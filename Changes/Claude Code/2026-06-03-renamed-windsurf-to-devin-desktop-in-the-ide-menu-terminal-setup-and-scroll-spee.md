@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: db024b39f68f90f40b012e6298a59fc72084e7296796d3264d67f5054bc06901
+machine_hash: f5ac6e7fb9d0a02f427f1afdc3cd309bcc814481230710c93ec4f6b295b61c8e
 product: claude-code
 product_name: Claude Code
 record:
@@ -60,10 +60,10 @@ record:
   title: Renamed Windsurf to Devin Desktop in the `/ide` menu, `/terminal-setup`…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-05-28-remote-control-autocomplete-now-shows-disconnect-remote-control-when-remote-cont|/remote-control
-  autocomplete now shows "Disconnect Remote Control" when Remote…]]'
-- '[[Changes/Claude Code/2026-05-29-removed-the-ide-for-startup-hint-toast|Removed
-  the "/ide for …" startup hint toast]]'
+- '[[Changes/Codex CLI/2026-06-01-2-editor-experience-changes-in-rust-v0-136-0|2 Editor
+  Experience changes in rust-v0.136.0]]'
+- '[[Changes/GitHub Copilot CLI/2026-06-01-9-editor-experience-changes-in-v1-0-57|9
+  Editor Experience changes in v1.0.57]]'
 - '[[Changes/Claude Code/2026-06-02-edit-no-longer-requires-a-separate-read-after-viewing-a-file-with-grep-single-fi|Edit
   no longer requires a separate Read after viewing a file with grep]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-06-03-v2-1-162-github-333906405-cdc7c67c|claude-code-2026-06-03-v2-1-162-github-333906405-cdc7c67c]]'
@@ -101,7 +101,7 @@ type: change
 ## Nearby in Editor Experience
 
 - Earlier: 2026-06-02 · Claude Code · [[Changes/Claude Code/2026-06-02-edit-no-longer-requires-a-separate-read-after-viewing-a-file-with-grep-single-fi|Edit no longer requires a separate Read after viewing a file with grep]]
-- Later: 2026-06-08 · ChatGPT · [[Changes/ChatGPT/2026-06-08-edit-messages-with-attachments-you-can-now-edit-messages-that-include-attachment|Edit messages with attachments]]
+- Later: 2026-06-05 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-06-05-3-editor-experience-changes-in-v1-0-60|3 Editor Experience changes in v1.0.60]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

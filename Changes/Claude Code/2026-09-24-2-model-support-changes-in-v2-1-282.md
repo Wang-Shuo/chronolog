@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: cddbf9204f2a47a7e9a17886de1d9d516e667eeb5e1c0269b1e9d455f3809f4c
+machine_hash: 966b81c1ab827b9b50b269c020e3b51a725462cf888fbd977b364548e6c7c32c
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,12 +45,12 @@ record:
   title: 2 Model Support changes in v2.1.282
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-18-changed-fable-to-always-appear-in-model-on-the-anthropic-api-it-is-greyed-out-on|Changed
-  Fable to always appear in /model on the Anthropic API]]'
-- '[[Changes/Claude Code/2026-09-22-5-model-support-changes-in-v2-1-280|5 Model Support
-  changes in v2.1.280]]'
+- '[[Changes/OpenHands/2026-09-22-test-strengthen-llm-profile-configuration-by-aivong-openhands-in-https-github-co|test:
+  strengthen LLM profile configuration]]'
 - '[[Changes/Claude Code/2026-09-23-improved-interactive-startup-time-git-reads-startup-telemetry-and-the-bedrock-ve|Improved
   interactive startup time]]'
+- '[[Changes/Codex CLI/2026-09-23-2-model-support-changes-in-rust-v0-156-1|2 Model
+  Support changes in rust-v0.156.1]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-24-v2-1-282-github-395840120-957e42c4|claude-code-2026-09-24-v2-1-282-github-395840120-957e42c4]]'
 source_type: github_releases
 theme: model-support
@@ -90,8 +90,8 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.282
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-09-23 · Claude Code · [[Changes/Claude Code/2026-09-23-improved-interactive-startup-time-git-reads-startup-telemetry-and-the-bedrock-ve|Improved interactive startup time]]
-- Later: 2026-09-25 · Claude Code · [[Changes/Claude Code/2026-09-25-3-model-support-changes-in-v2-1-283|3 Model Support changes in v2.1.283]]
+- Earlier: 2026-09-23 · Codex CLI · [[Changes/Codex CLI/2026-09-23-2-model-support-changes-in-rust-v0-156-1|2 Model Support changes in rust-v0.156.1]]
+- Later: 2026-09-24 · Cline · [[Changes/Cline/2026-09-24-3-model-support-changes-in-v4-1-21|3 Model Support changes in v4.1.21]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

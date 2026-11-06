@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 51a314b7bb6e7fe5b3c4a6ea8df33f70d945036fdeb4dc8a031a1d0e929dc212
+machine_hash: 1f9b37fed397bd1dfa32342520248789768b57fdd795349a0371800e40147191
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -97,11 +97,12 @@ record:
   title: ChatGPT launches OpenAI o3-pro—available now for Pro users and in our API
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2025-05-14-gpt-4-1-mini-is-a-fast-capable-and-efficient-small-model-delivering-significant-722b7d|Introducing
-  GPT-4.1 mini, replacing GPT-4o mini, in ChatGPT for all users]]'
-- '[[Changes/Cursor/2025-05-15-max-mode-for-all-top-models|Max Mode for all top models]]'
 - '[[Changes/Cursor/2025-06-04-max-mode-is-now-available-for-gemini-2-5-flash|Max
   mode is now available for Gemini 2.5 Flash]]'
+- '[[Changes/Cline/2025-06-05-3-model-support-changes-in-v3-17-10|3 Model Support
+  changes in v3.17.10]]'
+- '[[Changes/Cline/2025-06-05-add-support-for-gemini-2-5-pro-preview-06-05-model-to-vertex-ai-and-google-gemin|Add
+  support for Gemini 2.5 Pro Preview 06-05 model to Vertex AI and Google Gemini…]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-06-10-today-we-re-launching-openai-o3-pro-available-now-for-pro-users-43fd47c2|chatgpt-2025-06-10-today-we-re-launching-openai-o3-pro-available-now-for-pro-users-43fd47c2]]'
 source_type: chatgpt_changelog
 theme: model-support
@@ -134,8 +135,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2025-06-04 · Cursor · [[Changes/Cursor/2025-06-04-max-mode-is-now-available-for-gemini-2-5-flash|Max mode is now available for Gemini 2.5 Flash]]
-- Later: 2025-06-12 · ChatGPT · [[Changes/ChatGPT/2025-06-12-upload-files-and-access-model-selector-on-mobile|Upload files and access model selector on mobile]]
+- Earlier: 2025-06-05 · Cline · [[Changes/Cline/2025-06-05-add-support-for-gemini-2-5-pro-preview-06-05-model-to-vertex-ai-and-google-gemin|Add support for Gemini 2.5 Pro Preview 06-05 model to Vertex AI and Google Gemini…]]
+- Later: 2025-06-10 · Cline · [[Changes/Cline/2025-06-10-free-grok-model-available-access-grok-3-completely-free-through-the-cline-provid|Free Grok Model Available! Access Grok 3 completely free through the Cline provider]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

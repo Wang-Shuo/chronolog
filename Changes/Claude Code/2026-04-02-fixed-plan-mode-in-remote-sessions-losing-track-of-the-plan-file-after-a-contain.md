@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: fix
-machine_hash: 497b01d2790e15294fa7a346124a23474fba09763147bb65f8cf0479d2bca061
+machine_hash: aa61195136a471f4f3e30e296d149e4292ef861d2d9fe34826f394a9e40bbd03
 product: claude-code
 product_name: Claude Code
 record:
@@ -47,12 +47,12 @@ record:
     container…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-03-27-fixed-official-marketplace-plugin-scripts-failing-with-permission-denied-on-maco|Fixed
-  official marketplace plugin scripts failing…]]'
 - '[[Changes/Claude Code/2026-04-01-2-safety-and-privacy-changes-in-v2-1-89|2 Safety
   and Privacy changes in v2.1.89]]'
 - '[[Changes/Claude Code/2026-04-01-4-safety-and-privacy-changes-in-v2-1-90|4 Safety
   and Privacy changes in v2.1.90]]'
+- '[[Changes/Gemini CLI/2026-04-01-7-safety-and-privacy-changes-in-v0-36-0|7 Safety
+  and Privacy changes in v0.36.0]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-04-02-v2-1-91-github-304899951-a56266fc|claude-code-2026-04-02-v2-1-91-github-304899951-a56266fc]]'
 source_type: github_releases
 theme: safety-privacy
@@ -84,8 +84,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Safety and Privacy
 
-- Earlier: 2026-04-01 · Claude Code · [[Changes/Claude Code/2026-04-01-4-safety-and-privacy-changes-in-v2-1-90|4 Safety and Privacy changes in v2.1.90]]
-- Later: 2026-04-04 · Claude Code · [[Changes/Claude Code/2026-04-04-linux-sandbox-now-ships-the-apply-seccomp-helper-in-both-npm-and-native-builds-r|Linux sandbox now ships the apply-seccomp helper in both npm and native builds…]]
+- Earlier: 2026-04-01 · Gemini CLI · [[Changes/Gemini CLI/2026-04-01-7-safety-and-privacy-changes-in-v0-36-0|7 Safety and Privacy changes in v0.36.0]]
+- Later: 2026-04-02 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-04-02-add-permissionrequest-hook-to-allow-scripts-to-programmatically-approve-or-deny|Add PermissionRequest hook to allow scripts to programmatically approve or deny tool…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

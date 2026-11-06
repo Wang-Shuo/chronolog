@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 1a745a16ae1ebba14bdb8358debbfaff839cdf3a6e7ec0a5bfd1a50b8cfdd022
+machine_hash: b004f937bfb4e2d5a954762924101df737a2f4ee9e710902a8f8fa52f42b5b3d
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,10 +45,10 @@ record:
     that they…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-04-2-account-and-access-changes-in-v2-1-261|2 Account
-  and Access changes in v2.1.261]]'
 - '[[Changes/Claude Code/2026-09-08-2-account-and-access-changes-in-v2-1-265|2 Account
   and Access changes in v2.1.265]]'
+- '[[Changes/Codex CLI/2026-09-09-5-account-and-access-changes-in-rust-v0-154-0|5
+  Account and Access changes in rust-v0.154.0]]'
 - '[[Changes/Claude Code/2026-09-10-2-account-and-access-changes-in-v2-1-268|2 Account
   and Access changes in v2.1.268]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-14-v2-1-271-github-388664071-570fd44f|claude-code-2026-09-14-v2-1-271-github-388664071-570fd44f]]'

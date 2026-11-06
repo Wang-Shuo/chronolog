@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 7aae2bdcf0f56414f6ee9fdb5a3ef27322db3ee614eef29ca95343b0c67dd3a5
+machine_hash: 13839611597caff3cb4a841b6b86ba0b3891c2057ce953c6b174ffd2e31d6816
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -49,13 +49,11 @@ record:
   title: Share a read-only snapshot of a Codex chat
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-08-13-the-initial-experience-includes-my-drive-and-files-and-folders-shared-directly-w|The
-  initial experience includes My Drive and files and folders shared directly with
-  you]]'
-- '[[Changes/Claude Code/2026-08-13-hardened-the-auto-generated-cross-session-messaging-socket-directory-on-shared-t|Hardened
-  the auto-generated cross-session messaging socket directory on shared /tmp]]'
+- '[[Changes/Windsurf/2026-08-13-devin-local|Devin Local]]'
 - '[[Changes/Claude Code/2026-08-17-removed-the-default-teammate-model-setting-from-config-agent-team-teammates-now|Removed
   the "Default teammate model" setting from /config]]'
+- '[[Changes/Codex CLI/2026-08-18-5-collaboration-changes-in-rust-v0-148-0|5 Collaboration
+  changes in rust-v0.148.0]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-08-20-codex-and-chatgpt-feature-updates-c987f574|chatgpt-2026-08-20-codex-and-chatgpt-feature-updates-c987f574]]'
 source_type: chatgpt_changelog
 theme: collaboration
@@ -86,8 +84,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Collaboration
 
-- Earlier: 2026-08-17 · Claude Code · [[Changes/Claude Code/2026-08-17-removed-the-default-teammate-model-setting-from-config-agent-team-teammates-now|Removed the "Default teammate model" setting from /config]]
-- Later: 2026-09-03 · ChatGPT · [[Changes/ChatGPT/2026-09-03-eligible-site-owners-can-now-share-a-live-chatgpt-site-with-named-people-outside|Share Sites with people outside your workspace]]
+- Earlier: 2026-08-18 · Codex CLI · [[Changes/Codex CLI/2026-08-18-5-collaboration-changes-in-rust-v0-148-0|5 Collaboration changes in rust-v0.148.0]]
+- Later: 2026-08-20 · Codex CLI · [[Changes/Codex CLI/2026-08-20-2-collaboration-changes-in-rust-v0-149-0|2 Collaboration changes in rust-v0.149.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

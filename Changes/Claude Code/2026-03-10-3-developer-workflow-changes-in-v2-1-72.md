@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 7cb22f971e356ee2bef6a7ab370f01e43f5a1387f7cdd676f4b9b9b784a64371
+machine_hash: 057825298bad00a6b33bddb2cc67fb169a3332802547afbaab3295edbff26385
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,12 +45,11 @@ record:
   title: 3 Developer Workflow changes in v2.1.72
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-03-03-this-release-introduces-interactive-uis-in-agent-chats-a-way-for-teams-to-share|Cursor
-  introduces interactive UIs in agent chats, a way for teams to share private…]]'
-- '[[Changes/Claude Code/2026-03-05-6-developer-workflow-changes-in-v2-1-69|6 Developer
-  Workflow changes in v2.1.69]]'
 - '[[Changes/Claude Code/2026-03-07-2-developer-workflow-changes-in-v2-1-71|2 Developer
   Workflow changes in v2.1.71]]'
+- '[[Changes/GitHub Copilot CLI/2026-03-09-5-developer-workflow-changes-in-v1-0-3|5
+  Developer Workflow changes in v1.0.3]]'
+- '[[Changes/Windsurf/2026-03-09-cascade|Cascade]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-03-10-v2-1-72-github-294951528-18ee0f48|claude-code-2026-03-10-v2-1-72-github-294951528-18ee0f48]]'
 source_type: github_releases
 theme: developer-workflow
@@ -93,8 +92,8 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.72
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2026-03-07 · Claude Code · [[Changes/Claude Code/2026-03-07-2-developer-workflow-changes-in-v2-1-71|2 Developer Workflow changes in v2.1.71]]
-- Later: 2026-03-11 · Claude Code · [[Changes/Claude Code/2026-03-11-deprecated-output-style-command-use-config-instead-output-style-is-now-fixed-at|Deprecated /output-style command — use /config instead]]
+- Earlier: 2026-03-09 · Windsurf · [[Changes/Windsurf/2026-03-09-cascade|Cascade]]
+- Later: 2026-03-10 · Codex CLI · [[Changes/Codex CLI/2026-03-10-8-developer-workflow-changes-in-rust-v0-113-0|8 Developer Workflow changes in rust-v0.113.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: 127238fff65764c631c31e27a01356658616fcafa7be4274464bbd4a0f8f3a58
+machine_hash: 41cc95132b836895e1a9fcc8e0888a5685ee20993b348d723341e2a7a9ff5376
 product: claude-code
 product_name: Claude Code
 record:
@@ -55,10 +55,10 @@ record:
     rows can…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-07-14-3-agent-mode-changes-in-v2-1-210|3 Agent Mode
-  changes in v2.1.210]]'
 - '[[Changes/Claude Code/2026-07-15-2-agent-mode-changes-in-v2-1-211|2 Agent Mode
   changes in v2.1.211]]'
+- '[[Changes/GitHub Copilot CLI/2026-07-16-8-agent-mode-changes-in-v1-0-71|8 Agent
+  Mode changes in v1.0.71]]'
 - '[[Changes/Claude Code/2026-07-17-7-agent-mode-changes-in-v2-1-212|7 Agent Mode
   changes in v2.1.212]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-07-18-v2-1-214-github-355973317-478680c5|claude-code-2026-07-18-v2-1-214-github-355973317-478680c5]]'
@@ -95,7 +95,7 @@ type: change
 ## Nearby in Agent Mode
 
 - Earlier: 2026-07-17 · Claude Code · [[Changes/Claude Code/2026-07-17-7-agent-mode-changes-in-v2-1-212|7 Agent Mode changes in v2.1.212]]
-- Later: 2026-07-21 · Claude Code · [[Changes/Claude Code/2026-07-21-2-agent-mode-changes-in-v2-1-217|2 Agent Mode changes in v2.1.217]]
+- Later: 2026-07-20 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-07-20-3-agent-mode-changes-in-v1-0-72|3 Agent Mode changes in v1.0.72]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

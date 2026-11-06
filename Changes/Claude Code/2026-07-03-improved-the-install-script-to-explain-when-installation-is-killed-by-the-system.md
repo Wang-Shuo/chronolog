@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 2289f6d869c90ba940b3ce4487216891edd90b2b2d1d70bb0be0573bbd945ee2
+machine_hash: 2a595d71266b649c3fe716c6bd8701e3fddf9fdf2e6933e561c4c3f33f61b5b0
 product: claude-code
 product_name: Claude Code
 record:
@@ -46,10 +46,10 @@ record:
     system…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-06-24-reduced-long-session-memory-growth-from-terminal-output-cache|Reduced
-  long-session memory growth from terminal output cache]]'
-- '[[Changes/Claude Code/2026-06-25-added-automatic-memory-pressure-reaping-for-idle-background-shell-commands-disab|Added
-  automatic memory-pressure reaping for idle background shell commands…]]'
+- '[[Changes/Codex CLI/2026-06-25-apps-can-display-richer-safety-buffering-ui-using-server-provided-visibility-and|Apps
+  can display richer safety-buffering UI using server-provided visibility…]]'
+- '[[Changes/GitHub Copilot CLI/2026-06-30-perform-tokenizer-warmup-in-parallel-on-a-background-thread-for-better-startup-p|Perform
+  tokenizer warmup in parallel on a background thread for better startup performance]]'
 - '[[Changes/Claude Code/2026-07-02-2-reliability-and-performance-changes-in-v2-1-199|2
   Reliability and Performance changes in v2.1.199]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-07-03-v2-1-200-github-348415228-64d6d68d|claude-code-2026-07-03-v2-1-200-github-348415228-64d6d68d]]'

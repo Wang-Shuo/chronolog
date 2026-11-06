@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: c1f4060bacbad673b543ee08d050b6f2fecf71e751ebb318d6cf361dd478bb4d
+machine_hash: 83d31fd66db012114d9cc1d033066b2b28dc1109257efa98b8247fd4cc03f3a6
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,12 +45,11 @@ record:
   title: Added inline display of agent's final response in task notifications, making…
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-01-08-new-agent-command-is-now-the-primary-cli-entrypoint-cursor-agent-remains-as-a-ba|New
-  agent command is now the primary CLI entrypoint. cursor-agent remains…]]'
-- '[[Changes/Claude Code/2026-01-09-added-agent-type-to-sessionstart-hook-input-populated-if-agent-is-specified|Added
-  agent_type to SessionStart hook input, populated if --agent is specified]]'
 - '[[Changes/Claude Code/2026-01-11-added-claude-code-disable-background-tasks-environment-variable-to-disable-all-b|Added
   CLAUDE_CODE_DISABLE_BACKGROUND_TASKS environment variable to disable all…]]'
+- '[[Changes/GitHub Copilot CLI/2026-01-13-3-agent-mode-changes-in-v0-0-380|3 Agent
+  Mode changes in v0.0.380]]'
+- '[[Changes/Windsurf/2026-01-13-new-features-and-improvements|New Features and Improvements]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-01-14-v2-1-7-github-276555327-bf21dc80|claude-code-2026-01-14-v2-1-7-github-276555327-bf21dc80]]'
 source_type: github_releases
 theme: agent-mode
@@ -83,8 +82,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2026-01-11 · Claude Code · [[Changes/Claude Code/2026-01-11-added-claude-code-disable-background-tasks-environment-variable-to-disable-all-b|Added CLAUDE_CODE_DISABLE_BACKGROUND_TASKS environment variable to disable all…]]
-- Later: 2026-01-16 · Claude Code · [[Changes/Claude Code/2026-01-16-added-plansdirectory-setting-to-customize-where-plan-files-are-stored|Added plansDirectory setting to customize where plan files are stored]]
+- Earlier: 2026-01-13 · Windsurf · [[Changes/Windsurf/2026-01-13-new-features-and-improvements|New Features and Improvements]]
+- Later: 2026-01-14 · Codex CLI · [[Changes/Codex CLI/2026-01-14-2-agent-mode-changes-in-rust-v0-81-0|2 Agent Mode changes in rust-v0.81.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

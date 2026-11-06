@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 72ef586a0793568c7acd16cf36dd8ddfe323d1fabc193985ccaebc2952632e22
+machine_hash: ac5602447da0e867ab435b1e694fee58ba9294bda6d8aa396dfc8d0926acc842
 product: claude-code
 product_name: Claude Code
 record:
@@ -43,9 +43,10 @@ record:
   title: Changed the `/claude-api` skill to build Managed Agents subagent teams…
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-10-20-agents-as-code|Agents as code]]'
 - '[[Changes/Cursor/2026-10-20-the-agent-sdk-is-available-today-it-allows-you-to-define-an-agent-as-a-folder-of|The
   Agent SDK is available today]]'
+- '[[Changes/OpenHands/2026-10-20-5-agent-mode-changes-in-v1-29-0|5 Agent Mode changes
+  in v1.29.0]]'
 - '[[Changes/Claude Code/2026-10-21-improved-fork-subagents-launched-together-each-is-now-told-which-launch-is-its-o|Improved
   fork subagents launched together]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-10-22-v2-1-309-github-421170674-b2394d99|claude-code-2026-10-22-v2-1-309-github-421170674-b2394d99]]'
@@ -85,7 +86,7 @@ type: change
 ## Nearby in Agent Mode
 
 - Earlier: 2026-10-21 · Claude Code · [[Changes/Claude Code/2026-10-21-improved-fork-subagents-launched-together-each-is-now-told-which-launch-is-its-o|Improved fork subagents launched together]]
-- Later: 2026-10-23 · Claude Code · [[Changes/Claude Code/2026-10-23-2-agent-mode-changes-in-v2-1-310|2 Agent Mode changes in v2.1.310]]
+- Later: 2026-10-22 · OpenHands · [[Changes/OpenHands/2026-10-22-chore-bump-agent-server-to-1-57-0-by-all-hands-bot-in-https-github-com-openhands|chore: bump agent-server to 1.57.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

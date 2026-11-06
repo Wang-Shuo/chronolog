@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 2d8531d3a6e654825159242a4bdc0937084b61447cb46d1b9b821c12527f15e4
+machine_hash: cd10e5fd933c93ba40a963790221189f34d1224f323f9c8ba18f77c666386a75
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,8 +45,8 @@ record:
   title: 2 Pricing Model changes in v2.1.268
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-08-28-added-a-per-session-prompt-cache-line-to-cost-hit-ratio-misses-tokens-re-cached|Added
-  a per-session prompt-cache line to /cost…]]'
+- '[[Changes/Codex CLI/2026-09-03-41944-https-github-com-openai-codex-pull-41944-emit-turn-cost-telemetry-for-chat|♯41944((source
+  link) Emit turn cost telemetry…]]'
 - '[[Changes/ChatGPT/2026-09-09-pro-200-month-unlimited-gpt-live-1-usage|Pro ($200/month):
   Unlimited GPT-Live-1 usage]]'
 - '[[Changes/ChatGPT/2026-09-09-pro-100-month-up-to-15-hours-with-gpt-live-1|Pro ($100/month):

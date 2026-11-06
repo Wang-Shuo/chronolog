@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: ebf5563ff14a316d43c4493df2fc2c508954a3d6e2d5f64f3239ee7791a0c169
+machine_hash: f0514fa8b7acaad6e1c0ae9437f9986952453a323471c37e62172f4caf7be385
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -49,11 +49,11 @@ record:
   title: Opt‑in reminders
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2025-03-18-improved-display-and-faster-streaming-of-conversations-and-message-menu-actions|Improved
-  display and faster streaming of conversations and message menu actions]]'
-- '[[Changes/Cursor/2025-03-23-2-reliability-and-performance-changes-in-0-48-x|2 Reliability
-  and Performance changes in 0.48.x]]'
-- '[[Changes/Cursor/2025-03-23-faster-indexing|Faster indexing]]'
+- '[[Changes/OpenHands/2025-04-10-improve-the-performance-of-event-retrieval-in-openhands-particularly-for-convers|Improve
+  the performance of event retrieval in OpenHands, particularly…]]'
+- '[[Changes/Cline/2025-04-13-big-shoutout-to-samuel871211-for-numerous-code-quality-improvements-refactoring|Big
+  shoutout to @samuel871211 for numerous code quality improvements, refactoring…]]'
+- '[[Changes/Windsurf/2025-04-27-performance-improvements|Performance Improvements]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-05-08-enhanced-memory-in-chatgpt-including-eu-on-plus-pro-b6107d35|chatgpt-2025-05-08-enhanced-memory-in-chatgpt-including-eu-on-plus-pro-b6107d35]]'
 source_type: chatgpt_changelog
 theme: reliability-performance
@@ -83,8 +83,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2025-03-23 · Cursor · [[Changes/Cursor/2025-03-23-faster-indexing|Faster indexing]]
-- Later: 2025-06-04 · Cursor · [[Changes/Cursor/2025-06-04-faster-responses-with-parallel-tool-calls|Faster responses with parallel tool calls]]
+- Earlier: 2025-04-27 · Windsurf · [[Changes/Windsurf/2025-04-27-performance-improvements|Performance Improvements]]
+- Later: 2025-05-15 · Windsurf · [[Changes/Windsurf/2025-05-15-misc|Misc]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

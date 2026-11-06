@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: memory
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 9e9c8629872d374567f2b6654177184d613e1ba0241933322e15f1ae14d72cc6
+machine_hash: 69d5a8ecb6aacecb0fc6ed96edccc62dd62ab9dbb3662e9410e3b55829309267
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -77,12 +77,12 @@ record:
   title: Memory that stays more up to date
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-03-27-memory-filenames-in-the-saved-n-memories-notice-now-highlight-on-hover-and-open|Memory
-  filenames in the "Saved N memories" notice now highlight on hover and open on click]]'
-- '[[Changes/ChatGPT/2026-04-22-sometimes-you-just-want-the-right-answer-as-quickly-as-possible-we-re-rolling-ou|Fast
-  answers in ChatGPT]]'
-- '[[Changes/ChatGPT/2026-05-05-starting-today-we-re-rolling-out-memory-improvements-to-chatgpt-plus-and-pro-use|Memory
-  sources and more personalized responses in ChatGPT]]'
+- '[[Changes/Codex CLI/2026-05-28-8-memory-and-personalization-changes-in-rust-v0-135-0|8
+  Memory and Personalization changes in rust-v0.135.0]]'
+- '[[Changes/GitHub Copilot CLI/2026-05-28-vote-memory-tool-calls-are-throttled-per-response-and-per-interaction-to-prevent|vote_memory
+  tool calls are throttled per response and per interaction to prevent…]]'
+- '[[Changes/Codex CLI/2026-06-01-2-memory-and-personalization-changes-in-rust-v0-136-0|2
+  Memory and Personalization changes in rust-v0.136.0]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-06-04-memory-that-stays-more-up-to-date-8fc83f65|chatgpt-2026-06-04-memory-that-stays-more-up-to-date-8fc83f65]]'
 source_type: chatgpt_changelog
 theme: memory
@@ -109,8 +109,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Memory and Personalization
 
-- Earlier: 2026-05-05 · ChatGPT · [[Changes/ChatGPT/2026-05-05-starting-today-we-re-rolling-out-memory-improvements-to-chatgpt-plus-and-pro-use|Memory sources and more personalized responses in ChatGPT]]
-- Later: 2026-06-12 · ChatGPT · [[Changes/ChatGPT/2026-06-12-you-can-now-delete-the-memories-shown-on-your-memory-summary-page-and-turn-memor-f16782|Additional controls for memory summary]]
+- Earlier: 2026-06-01 · Codex CLI · [[Changes/Codex CLI/2026-06-01-2-memory-and-personalization-changes-in-rust-v0-136-0|2 Memory and Personalization changes in rust-v0.136.0]]
+- Later: 2026-06-09 · Codex CLI · [[Changes/Codex CLI/2026-06-09-26821-codex-exclude-external-tool-output-from-memories-rka-oai|♯26821 codex Exclude external tool output from memories @rka-oai]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

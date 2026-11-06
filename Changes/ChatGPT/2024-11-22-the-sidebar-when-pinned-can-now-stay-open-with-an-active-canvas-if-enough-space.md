@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: b1af8ac9acffc642c7a02c9e70f48fe00c4eef1d08aa69cef224bf5597f51815
+machine_hash: 7bf87d2ad6e5a88eba67317a3001b76877e811b8501e869334e02bf3207e3760
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -57,6 +57,8 @@ related_changes:
   interpreter is now rolling out in beta on web]]'
 - '[[Changes/ChatGPT/2024-05-16-today-we-re-starting-to-roll-out-enhancements-to-data-analysis-6433a3|Today,
   we’re starting to roll out enhancements to data analysis]]'
+- '[[Changes/OpenHands/2024-06-29-2-files-and-data-changes-in-0-7-0|2 Files and Data
+  changes in 0.7.0]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2024-11-22-updates-to-the-chatgpt-web-experience-bf046a2c|chatgpt-2024-11-22-updates-to-the-chatgpt-web-experience-bf046a2c]]'
 source_type: chatgpt_changelog
 theme: file-data
@@ -89,7 +91,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Files and Data
 
-- Earlier: 2024-05-16 · ChatGPT · [[Changes/ChatGPT/2024-05-16-today-we-re-starting-to-roll-out-enhancements-to-data-analysis-6433a3|Today, we’re starting to roll out enhancements to data analysis]]
+- Earlier: 2024-06-29 · OpenHands · [[Changes/OpenHands/2024-06-29-2-files-and-data-changes-in-0-7-0|2 Files and Data changes in 0.7.0]]
 - Later: 2024-12-10 · ChatGPT · [[Changes/ChatGPT/2024-12-10-today-we-made-canvas-available-in-4o-by-default-for-all-users-free-and-paid-addi-5aaec4|Canvas]]
 <!-- chronolog:end -->
 

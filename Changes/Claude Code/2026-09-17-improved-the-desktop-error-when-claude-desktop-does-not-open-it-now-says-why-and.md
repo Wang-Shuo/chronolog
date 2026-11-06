@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 2e34ba42f4cf60bd1275fac72f1c1541d885bc177da5005dc74649a367392c80
+machine_hash: 1d837ecc2411babaa3d8382292351525835bc0db90324b783901d9dc4a6354a7
 product: claude-code
 product_name: Claude Code
 record:
@@ -42,8 +42,7 @@ record:
   title: Improved the `/desktop` error when Claude Desktop does not open
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-15-claude-code-on-the-web-removed-the-full-page-desktop-app-download-screen-that-ne|Claude
-  Code on the web Removed the full-page desktop-app download screen that new…]]'
+- '[[Changes/Windsurf/2026-09-16-devin-desktop|Devin Desktop]]'
 - '[[Changes/ChatGPT/2026-09-17-you-can-now-connect-multiple-accounts-to-plugins-in-chatgpt-expanding-support-be|Connect
   multiple accounts to plugins in ChatGPT]]'
 - '[[Changes/Claude Code/2026-09-17-added-enduser-sub-the-idp-subject-to-the-telemetry-claude-desktop-and-cowork-sen|Added
@@ -88,7 +87,7 @@ type: change
 ## Nearby in Mobile and Desktop
 
 - Earlier: 2026-09-17 · Claude Code · [[Changes/Claude Code/2026-09-17-added-enduser-sub-the-idp-subject-to-the-telemetry-claude-desktop-and-cowork-sen|Added enduser.sub, the IdP subject, to the telemetry Claude Desktop and Cowork…]]
-- Later: 2026-09-18 · Claude Code · [[Changes/Claude Code/2026-09-18-claude-code-on-the-web-changed-the-admin-claude-code-setting-labeled-web-to-clou|Claude Code on the web Changed the admin Claude Code setting labeled…]]
+- Later: 2026-09-17 · Cline · [[Changes/Cline/2026-09-17-on-windows-opening-a-repository-that-contains-a-file-named-rg-exe-git-exe-or-pow|On Windows, opening a repository that contains a file named rg.exe, git.exe…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: memory
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 1e1eb18228d09318096d29c4d0707f9e77dfa8453bdadadf02a5f619ce1d3224
+machine_hash: 348b9f10c53e692821ff4052ecad8eeb30e7f3ed41c753532630d6f62ef393b1
 product: claude-code
 product_name: Claude Code
 record:
@@ -50,12 +50,12 @@ record:
   title: Claude automatically saves useful context to auto-memory
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-02-05-claude-now-automatically-records-and-recalls-memories-as-it-works|Claude
-  now automatically records and recalls memories as it works]]'
-- '[[Changes/Claude Code/2026-02-06-added-memory-frontmatter-field-support-for-agents-enabling-persistent-memory-wit|Added
-  memory frontmatter field support for agents, enabling persistent memory…]]'
-- '[[Changes/ChatGPT/2026-02-09-we-re-beginning-to-roll-out-a-test-for-ads-in-chatgpt-in-the-u-s-for-logged-in-a|Testing
-  ads in ChatGPT (Free, Go)]]'
+- '[[Changes/GitHub Copilot CLI/2026-02-19-2-memory-and-personalization-changes-in-v0-0-412|2
+  Memory and Personalization changes in v0.0.412]]'
+- '[[Changes/Codex CLI/2026-02-25-9-memory-and-personalization-changes-in-rust-v0-105-0|9
+  Memory and Personalization changes in rust-v0.105.0]]'
+- '[[Changes/Gemini CLI/2026-02-25-test-evals-mark-all-save-memory-evals-as-usually-passes-due-to-unreliability-by|test(evals):
+  mark all save_memory evals as USUALLY_PASSES due to unreliability]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-02-26-v2-1-59-github-290659389-9e2d6217|claude-code-2026-02-26-v2-1-59-github-290659389-9e2d6217]]'
 source_type: github_releases
 theme: memory
@@ -87,8 +87,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Memory and Personalization
 
-- Earlier: 2026-02-09 · ChatGPT · [[Changes/ChatGPT/2026-02-09-we-re-beginning-to-roll-out-a-test-for-ads-in-chatgpt-in-the-u-s-for-logged-in-a|Testing ads in ChatGPT (Free, Go)]]
-- Later: 2026-02-28 · Claude Code · [[Changes/Claude Code/2026-02-28-project-configs-auto-memory-now-shared-across-git-worktrees-of-the-same-reposito|Project configs & auto memory now shared across git worktrees of the same repository]]
+- Earlier: 2026-02-25 · Gemini CLI · [[Changes/Gemini CLI/2026-02-25-test-evals-mark-all-save-memory-evals-as-usually-passes-due-to-unreliability-by|test(evals): mark all save_memory evals as USUALLY_PASSES due to unreliability]]
+- Later: 2026-02-26 · Codex CLI · [[Changes/Codex CLI/2026-02-26-3-memory-and-personalization-changes-in-rust-v0-106-0|3 Memory and Personalization changes in rust-v0.106.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

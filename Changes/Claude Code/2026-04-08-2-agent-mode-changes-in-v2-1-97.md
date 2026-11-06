@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: b7e3a2c5bb4ac0a85bfe422743f1faab824711664a8ec554f993471bd38dd26d
+machine_hash: 8d3d4711a97c803ffbcea7a44fba07ae5511c82b5be2824c00678f8f24c3de6c
 product: claude-code
 product_name: Claude Code
 record:
@@ -44,10 +44,12 @@ record:
   title: 2 Agent Mode changes in v2.1.97
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-04-02-4-agent-mode-changes-in-3-0|4 Agent Mode changes in
-  3.0]]'
-- '[[Changes/Cursor/2026-04-02-design-mode|Design Mode]]'
-- '[[Changes/Cursor/2026-04-02-agents-window-da5689|Agents Window]]'
+- '[[Changes/GitHub Copilot CLI/2026-04-06-2-agent-mode-changes-in-v1-0-19|2 Agent
+  Mode changes in v1.0.19]]'
+- '[[Changes/GitHub Copilot CLI/2026-04-07-spinner-no-longer-appears-stuck-when-a-long-running-async-shell-command-is-activ|Spinner
+  no longer appears stuck when a long-running async shell command is active]]'
+- '[[Changes/GitHub Copilot CLI/2026-04-07-spinner-stays-active-until-background-agents-and-shell-commands-finish-and-user|Spinner
+  stays active until background agents and shell commands finish, and user…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-04-08-v2-1-97-github-306811434-0f57bf33|claude-code-2026-04-08-v2-1-97-github-306811434-0f57bf33]]'
 source_type: github_releases
 theme: agent-mode
@@ -85,8 +87,8 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.97
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2026-04-02 · Cursor · [[Changes/Cursor/2026-04-02-agents-window-da5689|Agents Window]]
-- Later: 2026-04-09 · Claude Code · [[Changes/Claude Code/2026-04-09-3-agent-mode-changes-in-v2-1-98|3 Agent Mode changes in v2.1.98]]
+- Earlier: 2026-04-07 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-04-07-spinner-stays-active-until-background-agents-and-shell-commands-finish-and-user|Spinner stays active until background agents and shell commands finish, and user…]]
+- Later: 2026-04-08 · Gemini CLI · [[Changes/Gemini CLI/2026-04-08-11-agent-mode-changes-in-v0-37-0|11 Agent Mode changes in v0.37.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

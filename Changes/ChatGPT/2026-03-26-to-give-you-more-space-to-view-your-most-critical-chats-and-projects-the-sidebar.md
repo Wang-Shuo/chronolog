@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: d35aa1705ed2cd2fe713e205d11261f9fe52dab8b72d19ce2800039b4fd3625a
+machine_hash: 7fc80187475934fe2b45d8fb21e554a9d75da97655f61b87538fa692dae19b70
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -48,10 +48,10 @@ record:
   title: A simplified sidebar on mobile
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-03-18-added-show-turn-duration-toggle-to-the-config-menu|Added
-  "Show turn duration" toggle to the /config menu]]'
-- '[[Changes/Claude Code/2026-03-19-2-interface-experience-changes-in-v2-1-80|2 Interface
-  Experience changes in v2.1.80]]'
+- '[[Changes/Codex CLI/2026-03-19-2-interface-experience-changes-in-rust-v0-116-0|2
+  Interface Experience changes in rust-v0.116.0]]'
+- '[[Changes/Gemini CLI/2026-03-24-docs-cli-add-custom-keybinding-documentation-by-scidomino-in-https-github-com-go|docs(cli):
+  add custom keybinding documentation]]'
 - '[[Changes/Claude Code/2026-03-25-2-interface-experience-changes-in-v2-1-83|2 Interface
   Experience changes in v2.1.83]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-03-26-a-simplified-sidebar-on-mobile-0f580b11|chatgpt-2026-03-26-a-simplified-sidebar-on-mobile-0f580b11]]'

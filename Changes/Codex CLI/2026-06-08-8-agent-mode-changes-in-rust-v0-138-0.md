@@ -1,0 +1,131 @@
+---
+card_id: codex-cli-2026-06-08-e814a6
+date: '2026-06-08'
+description: 'Codex CLI · 2026-06-08 · Agent Mode: 8 changes in 0.138.0 — Workspace
+  instruction loading is more accurate for remote and symlinked workspaces, so the
+  right…'
+diffusion:
+  first_in_tracked: '[[Changes/Cursor/2023-07-06-welcome-to-the-first-nightly-release-it-comes-with-agents-which-we-aren-t-releas|Agents,
+    new docs]]'
+  inference: No adoption, equivalence, or causation claim.
+  lag_days: 1068
+  relation: same-theme-chronology
+  role: later-observed
+  scope: tracked-products-only
+  theme: agent-mode
+  tracked_products_count: 10
+evolves_from: []
+extractor_version: fallback-v5
+impact: incremental
+kind: digest
+machine_hash: 0517d974de670054adf6e4cf6912f184c776605fad81c35ce4f438a3d44ddec5
+product: codex-cli
+product_name: Codex CLI
+record:
+  card_id: codex-cli-2026-06-08-e814a6
+  comparison: ''
+  date: '2026-06-08'
+  description: 'Codex CLI — 0.138.0: 8 Agent Mode changes'
+  evidence:
+  - quote: 'Workspace instruction loading is more accurate for remote and symlinked
+      workspaces, so the right `AGENTS.md` files are picked up consistently. (#26205,
+      #26465)'
+    source_release: https://github.com/openai/codex/releases/tag/rust-v0.138.0
+  - quote: '#26254 feat: catalog multi-agent v2 config @jif-oai'
+    source_release: https://github.com/openai/codex/releases/tag/rust-v0.138.0
+  - quote: '#26291 Bound external agent session detection work @stefanstokic-oai'
+    source_release: https://github.com/openai/codex/releases/tag/rust-v0.138.0
+  - quote: '#26205 Route AGENTS.md loading through environment filesystems @anp-oai'
+    source_release: https://github.com/openai/codex/releases/tag/rust-v0.138.0
+  - quote: '#26465 [codex] Preserve logical paths during AGENTS.md discovery @anp-oai'
+    source_release: https://github.com/openai/codex/releases/tag/rust-v0.138.0
+  - quote: '#26210 Encrypt multi-agent v2 message payloads @jif-oai'
+    source_release: https://github.com/openai/codex/releases/tag/rust-v0.138.0
+  - quote: '#26610 refactor: split agent control modules @jif-oai'
+    source_release: https://github.com/openai/codex/releases/tag/rust-v0.138.0
+  - quote: '#26623 feat: reload v2 agents on delivery @jif-oai'
+    source_release: https://github.com/openai/codex/releases/tag/rust-v0.138.0
+  extractor_version: fallback-v5
+  impact: incremental
+  kind: digest
+  product: codex-cli
+  product_name: Codex CLI
+  slug: 8-agent-mode-changes-in-rust-v0-138-0
+  source_release: codex-cli-2026-06-08-rust-v0-138-0-github-336275797-115d015a
+  source_type: github_releases
+  theme: agent-mode
+  title: 8 Agent Mode changes in rust-v0.138.0
+  type: change
+related_changes:
+- '[[Changes/GitHub Copilot CLI/2026-06-05-2-agent-mode-changes-in-v1-0-60|2 Agent
+  Mode changes in v1.0.60]]'
+- '[[Changes/Claude Code/2026-06-06-claude-agents-typing-a-url-into-the-list-now-filters-to-the-session-whose-first|claude
+  agents: typing a URL into the list now filters to the session whose first…]]'
+- '[[Changes/Claude Code/2026-06-08-2-agent-mode-changes-in-v2-1-169|2 Agent Mode
+  changes in v2.1.169]]'
+source_release: '[[Releases/Codex CLI/codex-cli-2026-06-08-rust-v0-138-0-github-336275797-115d015a|codex-cli-2026-06-08-rust-v0-138-0-github-336275797-115d015a]]'
+source_type: github_releases
+theme: agent-mode
+title: 8 Agent Mode changes in rust-v0.138.0
+type: change
+---
+
+<!-- chronolog:begin region="header" -->
+# 8 Agent Mode changes in rust-v0.138.0
+
+**Codex CLI** · 2026-06-08 · [[Themes/agent-mode|Agent Mode]] · Digest · [Official source](https://github.com/openai/codex/releases/tag/rust-v0.138.0) · from [[Releases/Codex CLI/codex-cli-2026-06-08-rust-v0-138-0-github-336275797-115d015a|0.138.0]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="evidence" -->
+## Changes in this digest
+
+> Workspace instruction loading is more accurate for remote and symlinked workspaces, so the right `AGENTS.md` files are picked up consistently. (#26205, #26465)
+
+> #26254 feat: catalog multi-agent v2 config @jif-oai
+
+> #26291 Bound external agent session detection work @stefanstokic-oai
+
+> #26205 Route AGENTS.md loading through environment filesystems @anp-oai
+
+> #26465 [codex] Preserve logical paths during AGENTS.md discovery @anp-oai
+
+> #26210 Encrypt multi-agent v2 message payloads @jif-oai
+
+> #26610 refactor: split agent control modules @jif-oai
+
+> #26623 feat: reload v2 agents on delivery @jif-oai
+
+Source: https://github.com/openai/codex/releases/tag/rust-v0.138.0
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="context" -->
+## Also in this release
+
+- [[Changes/Codex CLI/2026-06-08-6-safety-and-privacy-changes-in-rust-v0-138-0|6 Safety and Privacy changes in rust-v0.138.0]] · Safety and Privacy
+- [[Changes/Codex CLI/2026-06-08-2-image-generation-changes-in-rust-v0-138-0|2 Image Generation changes in rust-v0.138.0]] · Image Generation
+- [[Changes/Codex CLI/2026-06-08-4-mobile-and-desktop-changes-in-rust-v0-138-0|4 Mobile and Desktop changes in rust-v0.138.0]] · Mobile and Desktop
+- [[Changes/Codex CLI/2026-06-08-2-account-and-access-changes-in-rust-v0-138-0|2 Account and Access changes in rust-v0.138.0]] · Account and Access
+- [[Changes/Codex CLI/2026-06-08-7-developer-workflow-changes-in-rust-v0-138-0|7 Developer Workflow changes in rust-v0.138.0]] · Developer Workflow
+- [[Changes/Codex CLI/2026-06-08-19-apps-and-integrations-changes-in-rust-v0-138-0|19 Apps and Integrations changes in rust-v0.138.0]] · Apps and Integrations
+- [[Changes/Codex CLI/2026-06-08-6-model-support-changes-in-rust-v0-138-0|6 Model Support changes in rust-v0.138.0]] · Model Support
+- [[Changes/Codex CLI/2026-06-08-4-context-window-changes-in-rust-v0-138-0|4 Context Window changes in rust-v0.138.0]] · Context Window
+- [[Changes/Codex CLI/2026-06-08-3-editor-experience-changes-in-rust-v0-138-0|3 Editor Experience changes in rust-v0.138.0]] · Editor Experience
+- [[Changes/Codex CLI/2026-06-08-54-other-changes-in-rust-v0-138-0|54 other changes in rust-v0.138.0]] · Other changes
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="nearby" -->
+## Nearby in Agent Mode
+
+- Earlier: 2026-06-08 · Claude Code · [[Changes/Claude Code/2026-06-08-2-agent-mode-changes-in-v2-1-169|2 Agent Mode changes in v2.1.169]]
+- Later: 2026-06-09 · Codex CLI · [[Changes/Codex CLI/2026-06-09-5-agent-mode-changes-in-rust-v0-139-0|5 Agent Mode changes in rust-v0.139.0]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="relations" -->
+## Related
+
+- Earliest same-theme entry in the tracked set: 2023-07-06 · Cursor · [[Changes/Cursor/2023-07-06-welcome-to-the-first-nightly-release-it-comes-with-agents-which-we-aren-t-releas|Agents, new docs]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="footer" -->
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20codex-cli-2026-06-08-e814a6&body=Card%3A%20Changes%2FCodex%20CLI%2F2026-06-08-8-agent-mode-changes-in-rust-v0-138-0.md%0ACard%20ID%3A%20codex-cli-2026-06-08-e814a6%0ASource%3A%20https%3A%2F%2Fgithub.com%2Fopenai%2Fcodex%2Freleases%2Ftag%2Frust-v0.138.0%0A%0AWhat%20should%20be%20corrected%3F%0A)
+<!-- chronolog:end -->

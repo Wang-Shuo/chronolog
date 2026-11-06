@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: f6ce41c58acae892c4e9aec58335027c03ec9282ffc0000c346894c5f0c82fb7
+machine_hash: 16de3e8bde6f0141e73bff38e2de34680678e87b27eee9b43bbe4359b6fea0bb
 product: claude-code
 product_name: Claude Code
 record:
@@ -50,12 +50,12 @@ record:
   title: 4 Developer Workflow changes in v2.1.119
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-04-16-added-ultrareview-for-running-comprehensive-code-review-in-the-cloud-using-paral|Added
-  /ultrareview for running comprehensive code review in the cloud using…]]'
-- '[[Changes/Claude Code/2026-04-17-3-developer-workflow-changes-in-v2-1-113|3 Developer
-  Workflow changes in v2.1.113]]'
+- '[[Changes/GitHub Copilot CLI/2026-04-20-2-developer-workflow-changes-in-v1-0-33|2
+  Developer Workflow changes in v1.0.33]]'
 - '[[Changes/Claude Code/2026-04-22-2-developer-workflow-changes-in-v2-1-117|2 Developer
   Workflow changes in v2.1.117]]'
+- '[[Changes/Cline/2026-04-22-remove-foreground-terminal-mode-all-task-command-execution-now-defaults-to-backg|Remove
+  foreground terminal mode]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-04-23-v2-1-119-github-312949780-573724e7|claude-code-2026-04-23-v2-1-119-github-312949780-573724e7]]'
 source_type: github_releases
 theme: developer-workflow
@@ -97,7 +97,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.119
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2026-04-22 · Claude Code · [[Changes/Claude Code/2026-04-22-2-developer-workflow-changes-in-v2-1-117|2 Developer Workflow changes in v2.1.117]]
+- Earlier: 2026-04-22 · Cline · [[Changes/Cline/2026-04-22-remove-foreground-terminal-mode-all-task-command-execution-now-defaults-to-backg|Remove foreground terminal mode]]
 - Later: 2026-04-23 · Claude Code · [[Changes/Claude Code/2026-04-23-wsl-on-windows-can-now-inherit-windows-side-managed-settings-via-the-wslinherits|WSL on Windows can now inherit Windows-side managed settings…]]
 <!-- chronolog:end -->
 

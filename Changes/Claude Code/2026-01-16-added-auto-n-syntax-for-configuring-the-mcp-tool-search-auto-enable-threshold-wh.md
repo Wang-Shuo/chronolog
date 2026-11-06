@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: e9eb211ed402ed958698ece045045f83b55cb998290dfc91de7d018122ef32af
+machine_hash: b6ce5b2679984a802fe125adcace1d9e2df39abb9493cb632a1e6369f9041f5e
 product: claude-code
 product_name: Claude Code
 record:
@@ -53,12 +53,12 @@ record:
   title: Added `auto:N` syntax for configuring the MCP tool search auto-enable threshold…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2025-12-19-improved-context-command-visualization-with-grouped-skills-and-agents-by-source|Improved
-  /context command visualization with grouped skills and agents by source…]]'
-- '[[Changes/Claude Code/2026-01-13-added-context-window-used-percentage-and-context-window-remaining-percentage-fie|Added
-  context_window.used_percentage and context_window.remaining_percentage…]]'
+- '[[Changes/GitHub Copilot CLI/2026-01-13-auto-compaction-runs-in-background-without-blocking-the-conversation|Auto-compaction
+  runs in background without blocking the conversation]]'
 - '[[Changes/Claude Code/2026-01-14-enabled-mcp-tool-search-auto-mode-by-default-for-all-users-when-mcp-tool-descrip|Enabled
   MCP tool search auto mode by default for all users]]'
+- '[[Changes/Gemini CLI/2026-01-14-2-context-window-changes-in-v0-24-0|2 Context Window
+  changes in v0.24.0]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-01-16-v2-1-9-github-277250534-9563859d|claude-code-2026-01-16-v2-1-9-github-277250534-9563859d]]'
 source_type: github_releases
 theme: context-window
@@ -91,8 +91,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Context Window
 
-- Earlier: 2026-01-14 · Claude Code · [[Changes/Claude Code/2026-01-14-enabled-mcp-tool-search-auto-mode-by-default-for-all-users-when-mcp-tool-descrip|Enabled MCP tool search auto mode by default for all users]]
-- Later: 2026-01-22 · Cursor · [[Changes/Cursor/2026-01-22-agents-can-now-read-pdfs-which-you-can-attach-in-chats-as-context|Agents can now read PDFs, which you can attach in chats as context]]
+- Earlier: 2026-01-14 · Gemini CLI · [[Changes/Gemini CLI/2026-01-14-2-context-window-changes-in-v0-24-0|2 Context Window changes in v0.24.0]]
+- Later: 2026-01-16 · Codex CLI · [[Changes/Codex CLI/2026-01-16-2-context-window-changes-in-rust-v0-87-0|2 Context Window changes in rust-v0.87.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

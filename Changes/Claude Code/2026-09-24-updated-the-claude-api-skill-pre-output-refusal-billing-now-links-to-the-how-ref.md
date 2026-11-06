@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: policy
-machine_hash: 7099f25d95e7f1a32016a362f343d8e888f57774e6d1d4432b2e681a0eaa19b4
+machine_hash: a01668c104a0d557c51c58baf4709d9ead802eacd96f169b36fbe3458fd0a51d
 product: claude-code
 product_name: Claude Code
 record:
@@ -44,10 +44,10 @@ record:
   title: Updated the `claude-api` skill
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-19-changed-auto-mode-for-claude-api-and-enterprise-users-and-on-bedrock-vertex-foun|Changed
-  auto mode for Claude API and Enterprise users, and on Bedrock, Vertex…]]'
 - '[[Changes/Claude Code/2026-09-22-improved-cost-cache-miss-causes-to-name-thinking-mode-and-thinking-display-chang|Improved
   /cost cache-miss causes to name thinking mode and thinking display changes]]'
+- '[[Changes/Cline/2026-09-22-models-that-advertise-a-large-output-limit-now-get-a-bigger-default-output-budge|Models
+  that advertise a large output limit now get a bigger default output budget]]'
 - '[[Changes/Cursor/2026-09-23-for-the-next-10-days-we-re-including-usage-credits-so-teams-can-try-rollouts-on|For
   the next 10 days, we''re including usage credits so teams can try Rollouts…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-24-v2-1-282-github-395840120-957e42c4|claude-code-2026-09-24-v2-1-282-github-395840120-957e42c4]]'
@@ -86,7 +86,7 @@ type: change
 ## Nearby in Pricing Model
 
 - Earlier: 2026-09-23 · Cursor · [[Changes/Cursor/2026-09-23-for-the-next-10-days-we-re-including-usage-credits-so-teams-can-try-rollouts-on|For the next 10 days, we're including usage credits so teams can try Rollouts…]]
-- Later: 2026-09-28 · Claude Code · [[Changes/Claude Code/2026-09-28-2-pricing-model-changes-in-v2-1-284|2 Pricing Model changes in v2.1.284]]
+- Later: 2026-09-25 · Codex CLI · [[Changes/Codex CLI/2026-09-25-47086-format-analytics-credit-usage-with-consistent-decimal-precision-fcoury-oai|♯47086 Format analytics credit usage with consistent decimal precision @fcoury-oai]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

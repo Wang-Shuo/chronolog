@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: f62ef06c9dd371ab7ae73d33e0cf65e5383b464b0903d4292fa09b6d34daadca
+machine_hash: df962d4ccc0c9b124c96fed746fdad0bbd1803c0cc14138c94acd30319d4387c
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -43,12 +43,12 @@ record:
   title: More clear and private Incognito keyboard for Temporary Chats
   type: change
 related_changes:
-- '[[Changes/Cursor/2023-08-30-api-key-input-box-is-now-a-password-type|API Key input
-  box is now a password type]]'
-- '[[Changes/Cursor/2024-09-17-this-update-fixes-the-following-security-issue-cve-2024-45599|This
-  update fixes the following security issue: CVE-2024-45599]]'
-- '[[Changes/Cursor/2024-10-09-update-0-42-1-0-42-5-fixes-the-following-upstream-security-issue-cve-2024-43601|UPDATE
-  (0.42.1 - 0.42.5): Fixes the following upstream security issue: CVE-2024-43601]]'
+- '[[Changes/OpenHands/2024-12-04-support-custom-sandbox-for-resolver-by-malhotra5-in-https-github-com-all-hands-a|Support
+  custom sandbox for resolver]]'
+- "[[Changes/Cline/2024-12-18-cline-s-most-requested-feature-is-here-you-can-now-let-cline-work-more-autonomou|Cline's
+  most requested feature is here \U0001F389 You can now let Cline work more…]]"
+- '[[Changes/Aider/2025-03-13-added-ignore-permission-denied-option-to-file-watcher-to-prevent-errors-when-acc|Added
+  ignore_permission_denied option to file watcher to prevent errors…]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-03-18-android-app-c47c961b|chatgpt-2025-03-18-android-app-c47c961b]]'
 source_type: chatgpt_changelog
 theme: safety-privacy
@@ -77,7 +77,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Safety and Privacy
 
-- Earlier: 2024-10-09 · Cursor · [[Changes/Cursor/2024-10-09-update-0-42-1-0-42-5-fixes-the-following-upstream-security-issue-cve-2024-43601|UPDATE (0.42.1 - 0.42.5): Fixes the following upstream security issue: CVE-2024-43601]]
+- Earlier: 2025-03-13 · Aider · [[Changes/Aider/2025-03-13-added-ignore-permission-denied-option-to-file-watcher-to-prevent-errors-when-acc|Added ignore_permission_denied option to file watcher to prevent errors…]]
 - Later: 2025-03-18 · ChatGPT · [[Changes/ChatGPT/2025-03-18-new-ui-for-temporary-chats-we-ve-made-accessing-and-viewing-these-private-conver|New UI for Temporary Chats]]
 <!-- chronolog:end -->
 

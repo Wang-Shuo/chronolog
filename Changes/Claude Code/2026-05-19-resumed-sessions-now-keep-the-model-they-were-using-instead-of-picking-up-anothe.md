@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 3173820d2871b1bfb5aaf65ad1c05f805bd12095d5442c18ba1366a96df9f50f
+machine_hash: f3e8a9eae06218ff5bc7475a63742bbb899a7526de06f869e95df0231e5375d0
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,8 +45,8 @@ record:
     another…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-05-15-2-model-support-changes-in-v2-1-143|2 Model Support
-  changes in v2.1.143]]'
+- '[[Changes/Codex CLI/2026-05-18-4-model-support-changes-in-rust-v0-131-0|4 Model
+  Support changes in rust-v0.131.0]]'
 - '[[Changes/Cursor/2026-05-18-composer-2-5-includes-double-usage-for-the-first-week-see-our-model-docs-for-ful|Composer
   2.5 includes double usage for the first week]]'
 - '[[Changes/Cursor/2026-05-18-it-s-a-substantial-improvement-in-intelligence-and-behavior-over-composer-2-it-i|It''s
@@ -90,7 +90,7 @@ type: change
 ## Nearby in Model Support
 
 - Earlier: 2026-05-18 · Cursor · [[Changes/Cursor/2026-05-18-it-s-a-substantial-improvement-in-intelligence-and-behavior-over-composer-2-it-i|It's a substantial improvement in intelligence and behavior over Composer 2]]
-- Later: 2026-05-27 · Claude Code · [[Changes/Claude Code/2026-05-27-2-model-support-changes-in-v2-1-152|2 Model Support changes in v2.1.152]]
+- Later: 2026-05-19 · Cline · [[Changes/Cline/2026-05-19-add-sap-ai-core-support-for-additional-hosted-models|Add SAP AI Core support for additional hosted models]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

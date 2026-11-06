@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 0db0ab068ad9074c1c870f9e3b0759d159d05ee3797b6a5f1b3b5c3204aa1b73
+machine_hash: facc9e0c6a1497e1b1adc6697da475298757b1bdbcec3fcd00737c9bd0ffce7f
 product: claude-code
 product_name: Claude Code
 record:
@@ -88,7 +88,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.172
 ## Nearby in Model Support
 
 - Earlier: 2026-06-10 · ChatGPT · [[Changes/ChatGPT/2026-06-10-pro-standard-pro-plans-only|Pro Standard Pro plans only]]
-- Later: 2026-06-12 · ChatGPT · [[Changes/ChatGPT/2026-06-12-as-of-june-12-2026-gpt-5-2-models-are-no-longer-available-in-chatgpt-this-applie|Retiring GPT-5.2 models]]
+- Later: 2026-06-10 · Gemini CLI · [[Changes/Gemini CLI/2026-06-10-transition-to-flash-ga-model-when-experiment-flag-is-present-by-davidapierce-in|Transition to flash GA model when experiment flag is present]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -1,0 +1,99 @@
+---
+card_id: gemini-cli-2025-08-18-e49a79
+date: '2025-08-18'
+description: 'Gemini CLI · 2025-08-18 · Pricing Model: Update quota-and-pricing.md
+  to clarify billing by @blanca-delgado-parra in…'
+diffusion:
+  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-daily-limit-to-ensure-a-high-quality-experience-for-all-chatgpt-users-we-are-exp|Daily
+    limit: To ensure a high-quality experience for all ChatGPT users, we…]]'
+  inference: No adoption, equivalence, or causation claim.
+  lag_days: 977
+  relation: same-theme-chronology
+  role: later-observed
+  scope: tracked-products-only
+  theme: pricing-model
+  tracked_products_count: 10
+evolves_from: []
+extractor_version: fallback-v5
+impact: paradigm-shift
+kind: policy
+machine_hash: 5fe4f02c94a9382ee0b34612fac0a086d35f935f4c27b52e18a03d14c21b975d
+product: gemini-cli
+product_name: Gemini CLI
+record:
+  ai_generated: true
+  card_id: gemini-cli-2025-08-18-e49a79
+  comparison: ''
+  confidence: low
+  date: '2025-08-18'
+  description: 'Gemini CLI — Release v0.1.22: Update quota-and-pricing.md to clarify
+    billing by @blanca-delgado-parra in https://github.com/google-gemini/gemini-cli/pull/6092'
+  evidence:
+  - quote: Update quota-and-pricing.md to clarify billing by @blanca-delgado-parra
+      in https://github.com/google-gemini/gemini-cli/pull/6092
+    source_release: https://github.com/google-gemini/gemini-cli/releases/tag/v0.1.22
+  extractor_version: fallback-v5
+  impact: paradigm-shift
+  kind: policy
+  product: gemini-cli
+  product_name: Gemini CLI
+  slug: update-quota-and-pricing-md-to-clarify-billing-by-blanca-delgado-parra-in-https
+  source_release: gemini-cli-2025-08-18-v0-1-22-github-240728052-5b8812ab
+  source_type: github_releases
+  theme: pricing-model
+  title: Update quota-and-pricing.md to clarify billing
+  type: change
+related_changes:
+- '[[Changes/Cline/2025-07-31-adding-redirecturl-to-credits-purchasing-experience-by-pashpashpash-in-https-git|adding
+  redirectUrl to credits purchasing experience]]'
+- '[[Changes/Cursor/2025-08-06-usage-and-pricing-visibility|Usage and pricing visibility]]'
+- '[[Changes/ChatGPT/2025-08-18-we-re-launching-chatgpt-go-a-new-low-cost-subscription-plan-this-will-initially-e5f740|ChatGPT
+  launches ChatGPT Go, a new low-cost subscription plan]]'
+source_release: '[[Releases/Gemini CLI/gemini-cli-2025-08-18-v0-1-22-github-240728052-5b8812ab|gemini-cli-2025-08-18-v0-1-22-github-240728052-5b8812ab]]'
+source_type: github_releases
+theme: pricing-model
+title: Update quota-and-pricing.md to clarify billing
+type: change
+---
+
+<!-- chronolog:begin region="header" -->
+# Update quota-and-pricing.md to clarify billing
+
+**Gemini CLI** · 2025-08-18 · [[Themes/pricing-model|Pricing Model]] · Policy · [Official source](https://github.com/google-gemini/gemini-cli/releases/tag/v0.1.22) · from [[Releases/Gemini CLI/gemini-cli-2025-08-18-v0-1-22-github-240728052-5b8812ab|Release v0.1.22]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="evidence" -->
+> Update quota-and-pricing.md to clarify billing by @blanca-delgado-parra in https://github.com/google-gemini/gemini-cli/pull/6092
+>
+> Source: https://github.com/google-gemini/gemini-cli/releases/tag/v0.1.22
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="context" -->
+## Also in this release
+
+- [[Changes/Gemini CLI/2025-08-18-4-developer-workflow-changes-in-v0-1-22|4 Developer Workflow changes in v0.1.22]] · Developer Workflow
+- [[Changes/Gemini CLI/2025-08-18-4-model-support-changes-in-v0-1-22|4 Model Support changes in v0.1.22]] · Model Support
+- [[Changes/Gemini CLI/2025-08-18-4-apps-and-integrations-changes-in-v0-1-22|4 Apps and Integrations changes in v0.1.22]] · Apps and Integrations
+- [[Changes/Gemini CLI/2025-08-18-feat-core-migrate-web-search-write-file-and-discovered-tool-by-joshualitt-in-htt|feat(core): Migrate web-search, write-file, and discovered-tool]] · Search and Browsing
+- [[Changes/Gemini CLI/2025-08-18-9-editor-experience-changes-in-v0-1-22|9 Editor Experience changes in v0.1.22]] · Editor Experience
+- [[Changes/Gemini CLI/2025-08-18-5-context-window-changes-in-v0-1-22|5 Context Window changes in v0.1.22]] · Context Window
+- [[Changes/Gemini CLI/2025-08-18-feat-oauth-make-oauth-client-a-singleton-to-survive-cache-failures-by-mboshernit|feat(oauth): Make oauth client a singleton to survive cache failures]] · Account and Access
+- [[Changes/Gemini CLI/2025-08-18-19-other-changes-in-v0-1-22|19 other changes in v0.1.22]] · Other changes
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="nearby" -->
+## Nearby in Pricing Model
+
+- Earlier: 2025-08-18 · ChatGPT · [[Changes/ChatGPT/2025-08-18-we-re-launching-chatgpt-go-a-new-low-cost-subscription-plan-this-will-initially-e5f740|ChatGPT launches ChatGPT Go, a new low-cost subscription plan]]
+- Later: 2025-09-22 · ChatGPT · [[Changes/ChatGPT/2025-09-22-we-re-launching-chatgpt-go-our-low-cost-subscription-plan-in-indonesia-for-rp-75|ChatGPT launches ChatGPT Go, our low cost subscription plan, in Indonesia]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="relations" -->
+## Related
+
+- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-daily-limit-to-ensure-a-high-quality-experience-for-all-chatgpt-users-we-are-exp|Daily limit: To ensure a high-quality experience for all ChatGPT users, we…]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="footer" -->
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20gemini-cli-2025-08-18-e49a79&body=Card%3A%20Changes%2FGemini%20CLI%2F2025-08-18-update-quota-and-pricing-md-to-clarify-billing-by-blanca-delgado-parra-in-https.md%0ACard%20ID%3A%20gemini-cli-2025-08-18-e49a79%0ASource%3A%20https%3A%2F%2Fgithub.com%2Fgoogle-gemini%2Fgemini-cli%2Freleases%2Ftag%2Fv0.1.22%0A%0AWhat%20should%20be%20corrected%3F%0A)
+<!-- chronolog:end -->

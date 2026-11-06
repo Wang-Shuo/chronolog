@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: dfd6c0c08fa97ca6ee9642fe2e1cafc22cc9f141510abf4152e1a3cdf4e07fa7
+machine_hash: 408ae66d6c19823e10212cf979208d8c7566f927339590d1b914a23ed0beaf2a
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -62,10 +62,10 @@ record:
   title: Generated images will continue to appear in the Images tab
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-04-17-extra-usage-now-works-from-remote-control-mobile-web-clients|/extra-usage
-  now works from Remote Control (mobile/web) clients]]'
-- '[[Changes/Cursor/2026-04-29-the-agents-that-run-in-the-cursor-desktop-app-cli-and-web-app-are-now-accessible|The
-  agents that run in the Cursor desktop app, CLI, and web app are now accessible…]]'
+- '[[Changes/Codex CLI/2026-05-07-3-mobile-and-desktop-changes-in-rust-v0-129-0|3
+  Mobile and Desktop changes in rust-v0.129.0]]'
+- '[[Changes/GitHub Copilot CLI/2026-05-11-fall-back-to-windows-powershell-powershell-exe-when-powershell-7-pwsh-is-not-ava|Fall
+  back to Windows PowerShell (powershell.exe) when PowerShell 7+ (pwsh) is not…]]'
 - '[[Changes/ChatGPT/2026-05-12-free-users-in-chatgpt-will-now-see-more-inline-images-from-the-web-to-help-make|More
   images in answers for Free users]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-05-14-file-library-expands-to-free-and-go-users-with-storage-managemen-94a98ddb|chatgpt-2026-05-14-file-library-expands-to-free-and-go-users-with-storage-managemen-94a98ddb]]'

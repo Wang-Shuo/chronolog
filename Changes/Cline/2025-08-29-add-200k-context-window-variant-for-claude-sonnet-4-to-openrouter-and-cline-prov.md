@@ -1,0 +1,105 @@
+---
+card_id: cline-2025-08-29-b6e1e1
+date: '2025-08-29'
+description: 'Cline · 2025-08-29 · Context Window: Add 200k context window variant
+  for Claude Sonnet 4 to OpenRouter and Cline providers'
+diffusion:
+  first_in_tracked: '[[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2
+    Context Window changes in 0.2.9]]'
+  inference: No adoption, equivalence, or causation claim.
+  lag_days: 848
+  relation: same-theme-chronology
+  role: later-observed
+  scope: tracked-products-only
+  theme: context-window
+  tracked_products_count: 10
+evolves_from: []
+extractor_version: fallback-v5
+impact: paradigm-shift
+kind: change
+machine_hash: a5979c4296f3cfe044a0939f06e3aeb3fc8a943f1bbd6eff8adc8948e717a4b2
+product: cline
+product_name: Cline
+record:
+  ai_generated: true
+  card_id: cline-2025-08-29-b6e1e1
+  comparison: ''
+  confidence: low
+  date: '2025-08-29'
+  description: 'Cline — v3.26.7: Add 200k context window variant for Claude Sonnet
+    4 to OpenRouter and Cline providers'
+  evidence:
+  - quote: Add 200k context window variant for Claude Sonnet 4 to OpenRouter and Cline
+      providers
+    source_release: https://github.com/cline/cline/releases/tag/v3.26.7
+  extractor_version: fallback-v5
+  impact: paradigm-shift
+  kind: change
+  product: cline
+  product_name: Cline
+  slug: add-200k-context-window-variant-for-claude-sonnet-4-to-openrouter-and-cline-prov
+  source_release: cline-2025-08-29-v3-26-7-github-243606037-1d3100d2
+  source_type: github_releases
+  theme: context-window
+  theme_matches:
+  - matched_terms:
+    - context window
+    - context
+    score: 170
+    theme: context-window
+  - matched_terms:
+    - claude sonnet
+    - sonnet
+    score: 110
+    theme: model-support
+  theme_resolution: manual-semantic-rule-v2
+  title: Add 200k context window variant for Claude Sonnet 4 to OpenRouter and Cline
+    providers
+  type: change
+related_changes:
+- '[[Changes/Cline/2025-08-21-next-gen-context-management-method-switch-by-0xtoshii-in-https-github-com-cline|next
+  gen context management method switch]]'
+- '[[Changes/Cursor/2025-08-21-context-usage-is-always-shown-in-the-chat-input|Context
+  usage is always shown in the chat input]]'
+- '[[Changes/Codex CLI/2025-08-27-2-context-window-changes-in-rust-v0-25-0|2 Context
+  Window changes in rust-v0.25.0]]'
+source_release: '[[Releases/Cline/cline-2025-08-29-v3-26-7-github-243606037-1d3100d2|cline-2025-08-29-v3-26-7-github-243606037-1d3100d2]]'
+source_type: github_releases
+theme: context-window
+title: Add 200k context window variant for Claude Sonnet 4 to OpenRouter and Cline
+  providers
+type: change
+---
+
+<!-- chronolog:begin region="header" -->
+# Add 200k context window variant for Claude Sonnet 4 to OpenRouter and Cline providers
+
+**Cline** · 2025-08-29 · [[Themes/context-window|Context Window]] · [Official source](https://github.com/cline/cline/releases/tag/v3.26.7) · from [[Releases/Cline/cline-2025-08-29-v3-26-7-github-243606037-1d3100d2|v3.26.7]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="evidence" -->
+> Add 200k context window variant for Claude Sonnet 4 to OpenRouter and Cline providers
+>
+> Source: https://github.com/cline/cline/releases/tag/v3.26.7
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="context" -->
+
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="nearby" -->
+## Nearby in Context Window
+
+- Earlier: 2025-08-27 · Codex CLI · [[Changes/Codex CLI/2025-08-27-2-context-window-changes-in-rust-v0-25-0|2 Context Window changes in rust-v0.25.0]]
+- Later: 2025-09-04 · Gemini CLI · [[Changes/Gemini CLI/2025-09-04-update-colors-tokens-for-inputer-footer-by-miguelsolorio-in-https-github-com-goo|Update colors tokens for inputer/footer]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="relations" -->
+## Related
+
+- Earliest same-theme entry in the tracked set: 2023-05-04 · Cursor · [[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2 Context Window changes in 0.2.9]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="footer" -->
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20cline-2025-08-29-b6e1e1&body=Card%3A%20Changes%2FCline%2F2025-08-29-add-200k-context-window-variant-for-claude-sonnet-4-to-openrouter-and-cline-prov.md%0ACard%20ID%3A%20cline-2025-08-29-b6e1e1%0ASource%3A%20https%3A%2F%2Fgithub.com%2Fcline%2Fcline%2Freleases%2Ftag%2Fv3.26.7%0A%0AWhat%20should%20be%20corrected%3F%0A)
+<!-- chronolog:end -->

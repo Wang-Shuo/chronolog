@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: memory
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 2ec02c79ab3c5f203dcaf8cf21f8f164ec7406c8f3c43bdb92473ab643718d8b
+machine_hash: 6dbff8f9aa5b5a1ca1569a690a52267390ca563f60a44efc735e995de695fdd0
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -75,12 +75,12 @@ record:
   title: Additional controls for memory summary
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-04-22-sometimes-you-just-want-the-right-answer-as-quickly-as-possible-we-re-rolling-ou|Fast
-  answers in ChatGPT]]'
-- '[[Changes/ChatGPT/2026-05-05-starting-today-we-re-rolling-out-memory-improvements-to-chatgpt-plus-and-pro-use|Memory
-  sources and more personalized responses in ChatGPT]]'
 - '[[Changes/ChatGPT/2026-06-04-we-ve-upgraded-memory-so-chatgpt-can-better-keep-your-context-up-to-date-helping-9a48f3|Memory
   that stays more up to date]]'
+- '[[Changes/Codex CLI/2026-06-09-26821-codex-exclude-external-tool-output-from-memories-rka-oai|♯26821
+  codex Exclude external tool output from memories @rka-oai]]'
+- '[[Changes/GitHub Copilot CLI/2026-06-09-resuming-a-local-session-with-memory-disabled-no-longer-crashes-the-ui-to-a-blan|Resuming
+  a local session with memory disabled no longer crashes the UI to a blank screen]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-06-12-additional-controls-for-memory-summary-37c89b72|chatgpt-2026-06-12-additional-controls-for-memory-summary-37c89b72]]'
 source_type: chatgpt_changelog
 theme: memory
@@ -113,8 +113,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Memory and Personalization
 
-- Earlier: 2026-06-04 · ChatGPT · [[Changes/ChatGPT/2026-06-04-we-ve-upgraded-memory-so-chatgpt-can-better-keep-your-context-up-to-date-helping-9a48f3|Memory that stays more up to date]]
-- Later: 2026-06-17 · Claude Code · [[Changes/Claude Code/2026-06-17-changed-the-improved-n-memories-line-to-no-longer-list-individual-files-outside|Changed the Improved N memories line to no longer list individual files outside…]]
+- Earlier: 2026-06-09 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-06-09-resuming-a-local-session-with-memory-disabled-no-longer-crashes-the-ui-to-a-blan|Resuming a local session with memory disabled no longer crashes the UI to a blank screen]]
+- Later: 2026-06-13 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-06-13-allow-sdk-clients-to-configure-session-memory-through-session-create-and-session|Allow SDK clients to configure session memory through session.create and session.resume]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

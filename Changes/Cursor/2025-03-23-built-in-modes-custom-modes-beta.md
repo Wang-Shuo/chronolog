@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: 2cb3c9716896bda62b14852fe73d6a5c13b7b5dd12ebb42a2336afc3e03af210
+machine_hash: 9d5e0304a0b4ef014680da6c96a0b1f0360ac781901674a1f5437f0d4df5d85e
 product: cursor
 product_name: Cursor
 record:
@@ -62,12 +62,12 @@ record:
   title: Built-in modes & custom modes (beta)
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-01-23-cursor-rules-users-can-write-several-repository-level-rules-to-disk-in-the-curso|.cursor/rules:
-  Users can write several repository-level rules to disk…]]'
-- '[[Changes/Cursor/2025-02-19-agent-is-ready-agent-is-now-the-default-mode-bringing-a-more-powerful-and-unifie|Agent
-  is ready: Agent is now the default mode, bringing a more powerful and unified…]]'
 - '[[Changes/Cursor/2025-02-19-agent-tool-limit-upon-reaching-the-25-tool-call-limit-you-can-press-continue-to|Agent
   tool limit]]'
+- '[[Changes/OpenHands/2025-03-07-3-agent-mode-changes-in-0-28-0|3 Agent Mode changes
+  in 0.28.0]]'
+- '[[Changes/OpenHands/2025-03-10-improve-agent-loop-tracking-by-rbren-in-https-github-com-all-hands-ai-openhands|Improve
+  agent loop tracking]]'
 source_release: '[[Releases/Cursor/cursor-2025-03-23-0-48-x-https-cursor-com-changelog-0-48-x-7b3e771b|cursor-2025-03-23-0-48-x-https-cursor-com-changelog-0-48-x-7b3e771b]]'
 source_type: cursor_changelog
 theme: agent-mode
@@ -116,8 +116,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2025-02-19 · Cursor · [[Changes/Cursor/2025-02-19-agent-tool-limit-upon-reaching-the-25-tool-call-limit-you-can-press-continue-to|Agent tool limit]]
-- Later: 2025-04-15 · Cursor · [[Changes/Cursor/2025-04-15-reviewing-agent-generated-code-is-now-easier-with-a-built-in-diff-view-at-the-en|Making reviews easier]]
+- Earlier: 2025-03-10 · OpenHands · [[Changes/OpenHands/2025-03-10-improve-agent-loop-tracking-by-rbren-in-https-github-com-all-hands-ai-openhands|Improve agent loop tracking]]
+- Later: 2025-04-09 · Cline · [[Changes/Cline/2025-04-09-add-new-create-new-task-tool-to-let-cline-start-a-new-task-autonomously|Add new 'Create New Task' tool to let Cline start a new task autonomously!]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

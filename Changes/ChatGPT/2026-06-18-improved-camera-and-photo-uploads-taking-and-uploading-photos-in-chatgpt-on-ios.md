@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 9c48b5da18153755ec192ad749c44236c3565f132524d50f6ac935b4fdaf907d
+machine_hash: efb172233ed92f798cb822ebd0fc70c21a70988841f567c55df653959fbce8c9
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -55,8 +55,8 @@ record:
   title: Improved camera and photo uploads
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-06-10-disable-mouse-tracking-on-windows-consoles-that-don-t-fully-support-it|Disable
-  mouse tracking on Windows consoles that don''t fully support it]]'
+- '[[Changes/Windsurf/2026-06-16-the-3-2-series-brings-devin-local-enhancements-and-continued-devin-desktop-polis|The
+  3.2 series brings Devin Local enhancements and continued Devin Desktop polish]]'
 - '[[Changes/Claude Code/2026-06-17-2-mobile-and-desktop-changes-in-v2-1-181|2 Mobile
   and Desktop changes in v2.1.181]]'
 - '[[Changes/ChatGPT/2026-06-18-updated-composer-and-tools-menu-the-composer-in-android-now-has-inline-mentions|Updated
@@ -98,7 +98,7 @@ type: change
 ## Nearby in Mobile and Desktop
 
 - Earlier: 2026-06-17 · Claude Code · [[Changes/Claude Code/2026-06-17-2-mobile-and-desktop-changes-in-v2-1-181|2 Mobile and Desktop changes in v2.1.181]]
-- Later: 2026-06-29 · Claude Code · [[Changes/Claude Code/2026-06-29-improved-background-session-reliability-long-running-commands-and-workflows-now|Improved background session reliability]]
+- Later: 2026-06-22 · Codex CLI · [[Changes/Codex CLI/2026-06-22-28791-bazel-refresh-expired-macos-sdk-pin-anp-oai|♯28791 bazel: refresh expired macOS SDK pin @anp-oai]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

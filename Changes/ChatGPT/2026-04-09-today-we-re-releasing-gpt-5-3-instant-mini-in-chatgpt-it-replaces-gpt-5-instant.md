@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: a5952784d629b8149b4a3dbd931d71d415729f03286f475f3577606072fad404
+machine_hash: 12ec6ca73e5dd9cf75d7bec57aef315ecb8404de3e8a95b004d74bdb56ec7fd7
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -65,12 +65,10 @@ record:
   title: GPT-5.3 Instant mini in ChatGPT
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-03-19-added-effort-frontmatter-support-for-skills-and-slash-commands-to-override-the-m|Added
-  effort frontmatter support for skills and slash commands to override…]]'
-- '[[Changes/Claude Code/2026-03-26-added-anthropic-default-opus-sonnet-haiku-model-supports-env-vars-to-override-ef|Added
-  ANTHROPIC_DEFAULT{OPUS,SONNET,HAIKU}MODEL_SUPPORTS env vars to override…]]'
-- '[[Changes/Claude Code/2026-04-01-usage-now-hides-redundant-current-week-sonnet-only-bar-for-pro-and-enterprise-pl|/usage
-  now hides redundant "Current week (Sonnet only)" bar for Pro and Enterprise plans]]'
+- '[[Changes/Windsurf/2026-04-07-adaptive-model-visibility|Adaptive Model Visibility]]'
+- '[[Changes/Gemini CLI/2026-04-08-5-model-support-changes-in-v0-37-0|5 Model Support
+  changes in v0.37.0]]'
+- '[[Changes/Windsurf/2026-04-08-adaptive-fix|Adaptive Fix]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-04-09-gpt-5-3-instant-mini-in-chatgpt-bf5ed7ff|chatgpt-2026-04-09-gpt-5-3-instant-mini-in-chatgpt-bf5ed7ff]]'
 source_type: chatgpt_changelog
 theme: model-support
@@ -97,8 +95,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-04-01 · Claude Code · [[Changes/Claude Code/2026-04-01-usage-now-hides-redundant-current-week-sonnet-only-bar-for-pro-and-enterprise-pl|/usage now hides redundant "Current week (Sonnet only)" bar for Pro and Enterprise plans]]
-- Later: 2026-04-14 · Claude Code · [[Changes/Claude Code/2026-04-14-improved-model-to-warn-before-switching-models-mid-conversation-since-the-next-r|Improved /model to warn before switching models mid-conversation, since the next…]]
+- Earlier: 2026-04-08 · Windsurf · [[Changes/Windsurf/2026-04-08-adaptive-fix|Adaptive Fix]]
+- Later: 2026-04-10 · Codex CLI · [[Changes/Codex CLI/2026-04-10-5-model-support-changes-in-rust-v0-119-0|5 Model Support changes in rust-v0.119.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 68190c57941286370011b60a815132129ad4a2a7a1de593f3f1b1810e73c9c6b
+machine_hash: 8f82af98c16e27d47b708aea1c29b4a3c42e23f67b6490c347c8c5f38301813d
 product: claude-code
 product_name: Claude Code
 record:
@@ -48,12 +48,12 @@ record:
   title: 3 Reliability and Performance changes in v2.1.50
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-02-18-5-reliability-and-performance-changes-in-v2-1-47|5
-  Reliability and Performance changes in v2.1.47]]'
-- '[[Changes/Cursor/2026-02-18-auto-updates-now-run-in-the-background-for-faster-time-to-interactive|Auto-updates
-  now run in the background for faster time-to-interactive]]'
+- '[[Changes/Gemini CLI/2026-02-18-feat-plan-add-positive-test-case-and-update-eval-stability-policy-by-jerop-in-ht|feat(plan):
+  add positive test case and update eval stability policy]]'
 - '[[Changes/Claude Code/2026-02-19-2-reliability-and-performance-changes-in-v2-1-49|2
   Reliability and Performance changes in v2.1.49]]'
+- '[[Changes/GitHub Copilot CLI/2026-02-19-2-reliability-and-performance-changes-in-v0-0-412|2
+  Reliability and Performance changes in v0.0.412]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-02-20-v2-1-50-github-288920711-09694b82|claude-code-2026-02-20-v2-1-50-github-288920711-09694b82]]'
 source_type: github_releases
 theme: reliability-performance
@@ -91,8 +91,8 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.50
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2026-02-19 · Claude Code · [[Changes/Claude Code/2026-02-19-2-reliability-and-performance-changes-in-v2-1-49|2 Reliability and Performance changes in v2.1.49]]
-- Later: 2026-02-26 · Claude Code · [[Changes/Claude Code/2026-02-26-improved-memory-usage-in-multi-agent-sessions-by-releasing-completed-subagent-ta|Improved memory usage in multi-agent sessions by releasing completed subagent task state]]
+- Earlier: 2026-02-19 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-02-19-2-reliability-and-performance-changes-in-v0-0-412|2 Reliability and Performance changes in v0.0.412]]
+- Later: 2026-02-20 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-02-20-improve-code-search-speed-in-large-repos|Improve code search speed in large repos]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

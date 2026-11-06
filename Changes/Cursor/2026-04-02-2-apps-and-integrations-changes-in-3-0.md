@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: c29569be1d651a35aef4498a8c678d3e2cb8498dd439991c62d2e17cc5e90e82
+machine_hash: 00c91952dc818ac9a72c9bead89d370fb3d2ddf1b572ea64f926dc1220dbf053
 product: cursor
 product_name: Cursor
 record:
@@ -43,10 +43,10 @@ record:
   title: 2 Apps and Integrations changes in 3.0
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-04-01-3-apps-and-integrations-changes-in-v2-1-89|3 Apps
-  and Integrations changes in v2.1.89]]'
-- '[[Changes/Claude Code/2026-04-01-2-apps-and-integrations-changes-in-v2-1-90|2 Apps
-  and Integrations changes in v2.1.90]]'
+- '[[Changes/Gemini CLI/2026-04-01-5-apps-and-integrations-changes-in-v0-36-0|5 Apps
+  and Integrations changes in v0.36.0]]'
+- '[[Changes/GitHub Copilot CLI/2026-04-01-5-apps-and-integrations-changes-in-v1-0-15|5
+  Apps and Integrations changes in v1.0.15]]'
 - '[[Changes/Claude Code/2026-04-02-4-apps-and-integrations-changes-in-v2-1-91|4 Apps
   and Integrations changes in v2.1.91]]'
 source_release: '[[Releases/Cursor/cursor-2026-04-02-3-0-https-cursor-com-changelog-3-0-c58cd2ad|cursor-2026-04-02-3-0-https-cursor-com-changelog-3-0-c58cd2ad]]'
@@ -94,7 +94,7 @@ Source: https://cursor.com/changelog/3-0
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-04-02 · Claude Code · [[Changes/Claude Code/2026-04-02-4-apps-and-integrations-changes-in-v2-1-91|4 Apps and Integrations changes in v2.1.91]]
-- Later: 2026-04-04 · Claude Code · [[Changes/Claude Code/2026-04-04-remote-control-session-names-now-use-your-hostname-as-the-default-prefix-e-g-myh|Remote Control session names now use your hostname as the default prefix…]]
+- Later: 2026-04-02 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-04-02-mcp-tool-calls-display-tool-name-and-parameter-summary-in-the-timeline|MCP tool calls display tool name and parameter summary in the timeline]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

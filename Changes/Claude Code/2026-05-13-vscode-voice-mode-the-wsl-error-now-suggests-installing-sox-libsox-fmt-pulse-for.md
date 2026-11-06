@@ -4,20 +4,20 @@ date: '2026-05-13'
 description: 'Claude Code · 2026-05-13 · Voice and Audio: [VSCode] Voice mode: the
   WSL error now suggests installing `sox libsox-fmt-pulse` for WSLg users'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-09-25-you-can-now-use-voice-to-engage-in-a-back-and-forth-conversation-with-your-assis-13666e|Voice
-    (Beta) is now rolling out to Plus users on iOS and Android]]'
+  first_in_tracked: '[[Changes/Aider/2023-08-11-voice-to-code-https-aider-chat-docs-voice-html-support-which-allows-you-to-code|Voice-to-code((source
+    link) support, which allows you…]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 961
+  lag_days: 1006
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 1a4c706cc0153e296ec4202443ec6792c22949834a1555ac0a80282d6603d27e
+machine_hash: f199658977bf11751b39d4a5dd16094d4d17127665f69ae5d250c0b04abefe6f
 product: claude-code
 product_name: Claude Code
 record:
@@ -51,11 +51,12 @@ record:
   title: '[VSCode] Voice mode'
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-04-13-upgraded-voice-input-26be2e|Upgraded voice input]]'
-- '[[Changes/Claude Code/2026-04-28-vscode-voice-dictation-now-respects-the-accessibility-voice-speechlanguage-setti|VSCode
-  Voice dictation now respects the accessibility.voice.speechLanguage…]]'
 - '[[Changes/Claude Code/2026-04-28-voice-mode-keybindings-bound-to-caps-lock-now-show-an-error-since-terminals-don|Voice
   mode: keybindings bound to Caps Lock now show an error since terminals don''t…]]'
+- '[[Changes/Gemini CLI/2026-05-05-feat-voice-implement-real-time-voice-mode-with-cloud-and-local-backends-by-abhij|feat(voice):
+  implement real-time voice mode with cloud and local backends]]'
+- '[[Changes/Gemini CLI/2026-05-12-2-voice-and-audio-changes-in-v0-42-0|2 Voice and
+  Audio changes in v0.42.0]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-05-13-v2-1-141-github-322186176-9f8e2e22|claude-code-2026-05-13-v2-1-141-github-322186176-9f8e2e22]]'
 source_type: github_releases
 theme: voice
@@ -93,14 +94,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Voice and Audio
 
-- Earlier: 2026-04-28 · Claude Code · [[Changes/Claude Code/2026-04-28-voice-mode-keybindings-bound-to-caps-lock-now-show-an-error-since-terminals-don|Voice mode: keybindings bound to Caps Lock now show an error since terminals don't…]]
-- Later: 2026-06-05 · Cursor · [[Changes/Cursor/2026-06-05-narrate-changes-through-the-design-mode-overlay-the-mic-stays-available-while-an|Voice input]]
+- Earlier: 2026-05-12 · Gemini CLI · [[Changes/Gemini CLI/2026-05-12-2-voice-and-audio-changes-in-v0-42-0|2 Voice and Audio changes in v0.42.0]]
+- Later: 2026-06-02 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-06-02-add-the-voice-command-to-dictate-prompts-using-local-speech-to-text-models|Add the /voice command to dictate prompts using local speech-to-text models]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-09-25 · ChatGPT · [[Changes/ChatGPT/2023-09-25-you-can-now-use-voice-to-engage-in-a-back-and-forth-conversation-with-your-assis-13666e|Voice (Beta) is now rolling out to Plus users on iOS and Android]]
+- Earliest same-theme entry in the tracked set: 2023-08-11 · Aider · [[Changes/Aider/2023-08-11-voice-to-code-https-aider-chat-docs-voice-html-support-which-allows-you-to-code|Voice-to-code((source link) support, which allows you…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

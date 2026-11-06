@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: multimodal
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: cf132be8feae9f3f2a215d215505b7a69216e1466197969fb61fa5966bb9a24e
+machine_hash: b09889b30d7866f6ff0afae55073ac22dc2e9ff557e19972da369f870cebc0f2
 product: cursor
 product_name: Cursor
 record:
@@ -79,7 +79,7 @@ type: change
 ## Nearby in Multimodal Input
 
 - Earlier: 2023-09-25 · ChatGPT · [[Changes/ChatGPT/2023-09-25-you-can-now-show-chatgpt-one-or-more-images-troubleshoot-why-your-grill-won-t-st-e42bd6|Image input will be generally available to Plus users on all platforms]]
-- Later: 2024-12-12 · ChatGPT · [[Changes/ChatGPT/2024-12-12-use-the-controls-at-the-bottom-of-the-screen-like-the-camera-button-below-to-get|Use the controls at the bottom of the screen, like the camera button below, to get started]]
+- Later: 2024-04-21 · Aider · [[Changes/Aider/2024-04-21-4-turbo-vision|--4-turbo-vision]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 10ef9a9e81d9e1e1e40666876af23fe91f8ea8225ec2ffb33803939b42b21294
+machine_hash: bc3a5b9c723ab09fd63a573aca0e4838a69a2520ea9a16675f3a2c1462d4da65
 product: cursor
 product_name: Cursor
 record:
@@ -46,12 +46,12 @@ record:
   title: 2 Agent Mode changes in CLI Improvements and Mermaid ASCII…
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-02-17-6-agent-mode-changes-in-2-5|6 Agent Mode changes in
-  2.5]]'
 - '[[Changes/Cursor/2026-02-17-this-release-introduces-plugins-for-extending-cursor-improvements-to-core-agent|Cursor
   introduces plugins for extending Cursor, improvements to core agent…]]'
 - '[[Changes/Claude Code/2026-02-18-2-agent-mode-changes-in-v2-1-47|2 Agent Mode changes
   in v2.1.47]]'
+- '[[Changes/Codex CLI/2026-02-18-protocol-core-now-carry-distinct-approval-ids-for-command-approvals-to-support-m|Protocol/core
+  now carry distinct approval IDs for command approvals to support…]]'
 source_release: '[[Releases/Cursor/cursor-2026-02-18-cli-improvements-and-mermaid-ascii-diagrams-https-cursor-com-cha-a75d36c7|cursor-2026-02-18-cli-improvements-and-mermaid-ascii-diagrams-https-cursor-com-cha-a75d36c7]]'
 source_type: cursor_changelog
 theme: agent-mode
@@ -95,8 +95,8 @@ Source: https://cursor.com/changelog/cli-feb-18-2026
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2026-02-18 · Claude Code · [[Changes/Claude Code/2026-02-18-2-agent-mode-changes-in-v2-1-47|2 Agent Mode changes in v2.1.47]]
-- Later: 2026-02-20 · Claude Code · [[Changes/Claude Code/2026-02-20-2-agent-mode-changes-in-v2-1-50|2 Agent Mode changes in v2.1.50]]
+- Earlier: 2026-02-18 · Codex CLI · [[Changes/Codex CLI/2026-02-18-protocol-core-now-carry-distinct-approval-ids-for-command-approvals-to-support-m|Protocol/core now carry distinct approval IDs for command approvals to support…]]
+- Later: 2026-02-18 · Gemini CLI · [[Changes/Gemini CLI/2026-02-18-8-agent-mode-changes-in-v0-29-0|8 Agent Mode changes in v0.29.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

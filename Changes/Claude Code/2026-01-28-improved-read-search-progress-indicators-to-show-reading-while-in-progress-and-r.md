@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: d3d76506e77793ec0fefd751c52ccc107ccb76965dbb9eb82f0cd4cfd0b9c98f
+machine_hash: d0db86651b4397477d2ceccada062f2e277374aab490c4ac3d52a883b92e6e2a
 product: claude-code
 product_name: Claude Code
 record:
@@ -44,12 +44,12 @@ record:
   title: Improved read/search progress indicators to show "Reading…" while in progress…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-01-20-improved-backspace-to-delete-pasted-text-as-a-single-token-instead-of-one-charac|Improved
-  backspace to delete pasted text as a single token instead of one character…]]'
-- '[[Changes/Cursor/2026-01-22-2-interface-experience-changes-in-2-4|2 Interface Experience
-  changes in 2.4]]'
 - '[[Changes/Claude Code/2026-01-27-2-interface-experience-changes-in-v2-1-20|2 Interface
   Experience changes in v2.1.20]]'
+- '[[Changes/Codex CLI/2026-01-27-3-interface-experience-changes-in-rust-v0-92-0|3
+  Interface Experience changes in rust-v0.92.0]]'
+- '[[Changes/GitHub Copilot CLI/2026-01-27-reorder-model-picker-list-for-better-organization|Reorder
+  model picker list for better organization]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-01-28-v2-1-21-github-280523920-bba74245|claude-code-2026-01-28-v2-1-21-github-280523920-bba74245]]'
 source_type: github_releases
 theme: interface-experience
@@ -80,8 +80,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-01-27 · Claude Code · [[Changes/Claude Code/2026-01-27-2-interface-experience-changes-in-v2-1-20|2 Interface Experience changes in v2.1.20]]
-- Later: 2026-01-29 · Claude Code · [[Changes/Claude Code/2026-01-29-3-interface-experience-changes-in-v2-1-23|3 Interface Experience changes in v2.1.23]]
+- Earlier: 2026-01-27 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-01-27-reorder-model-picker-list-for-better-organization|Reorder model picker list for better organization]]
+- Later: 2026-01-28 · Gemini CLI · [[Changes/Gemini CLI/2026-01-28-remove-missing-sidebar-item-by-chrstnb-in-https-github-com-google-gemini-gemini|Remove missing sidebar item]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

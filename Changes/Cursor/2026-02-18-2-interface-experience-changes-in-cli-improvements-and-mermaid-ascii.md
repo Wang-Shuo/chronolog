@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 54eb681be27c5c86991633e2a0803279cabc399f11c345c01231d7eb7ee87147
+machine_hash: 69de748ad1c456a09e628a032a7279f9b9bbcd74506bd25061bff766c9142952
 product: cursor
 product_name: Cursor
 record:
@@ -45,8 +45,8 @@ record:
   title: 2 Interface Experience changes in CLI Improvements and Mermaid ASCII…
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-02-17-3-interface-experience-changes-in-2-5|3 Interface Experience
-  changes in 2.5]]'
+- '[[Changes/GitHub Copilot CLI/2026-02-17-4-interface-experience-changes-in-v0-0-411|4
+  Interface Experience changes in v0.0.411]]'
 - '[[Changes/Claude Code/2026-02-18-3-interface-experience-changes-in-v2-1-47|3 Interface
   Experience changes in v2.1.47]]'
 - '[[Changes/Cursor/2026-02-18-plan-mode-improvements-in-cli-9a872d|Plan mode improvements
@@ -95,7 +95,7 @@ Source: https://cursor.com/changelog/cli-feb-18-2026
 ## Nearby in Interface Experience
 
 - Earlier: 2026-02-18 · Claude Code · [[Changes/Claude Code/2026-02-18-3-interface-experience-changes-in-v2-1-47|3 Interface Experience changes in v2.1.47]]
-- Later: 2026-02-26 · Claude Code · [[Changes/Claude Code/2026-02-26-improved-ordering-of-short-task-lists|Improved ordering of short task lists]]
+- Later: 2026-02-18 · Gemini CLI · [[Changes/Gemini CLI/2026-02-18-ui-update-subdue-footer-colors-and-animate-progress-indicator-by-keithguerin-in|ui: update & subdue footer colors and animate progress indicator]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

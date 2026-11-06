@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: memory
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: ecc3b3331fc7817aa0cdd9a115b237a882a81ad3ef04cd8107dcb68777bb1eb9
+machine_hash: 967d8792bb896454d09bb3fc8675a09c4d59fbcd0d3e827ad0808d3696c96fa8
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -84,10 +84,10 @@ record:
   title: Testing ads in ChatGPT (Free, Go)
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-01-15-when-reference-chat-history-is-enabled-chatgpt-can-now-more-reliably-find-specif|Improved
-  memory for finding details from past chats (Plus & Pro)]]'
-- '[[Changes/Claude Code/2026-02-05-claude-now-automatically-records-and-recalls-memories-as-it-works|Claude
-  now automatically records and recalls memories as it works]]'
+- '[[Changes/Codex CLI/2026-02-05-4-memory-and-personalization-changes-in-rust-v0-97-0|4
+  Memory and Personalization changes in rust-v0.97.0]]'
+- '[[Changes/Codex CLI/2026-02-05-2-memory-and-personalization-changes-in-rust-v0-98-0|2
+  Memory and Personalization changes in rust-v0.98.0]]'
 - '[[Changes/Claude Code/2026-02-06-added-memory-frontmatter-field-support-for-agents-enabling-persistent-memory-wit|Added
   memory frontmatter field support for agents, enabling persistent memory…]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-02-09-testing-ads-in-chatgpt-free-go-df231623|chatgpt-2026-02-09-testing-ads-in-chatgpt-free-go-df231623]]'
@@ -117,7 +117,7 @@ type: change
 ## Nearby in Memory and Personalization
 
 - Earlier: 2026-02-06 · Claude Code · [[Changes/Claude Code/2026-02-06-added-memory-frontmatter-field-support-for-agents-enabling-persistent-memory-wit|Added memory frontmatter field support for agents, enabling persistent memory…]]
-- Later: 2026-02-26 · Claude Code · [[Changes/Claude Code/2026-02-26-claude-automatically-saves-useful-context-to-auto-memory-manage-with-memory|Claude automatically saves useful context to auto-memory]]
+- Later: 2026-02-11 · Codex CLI · [[Changes/Codex CLI/2026-02-11-7-memory-and-personalization-changes-in-rust-v0-99-0|7 Memory and Personalization changes in rust-v0.99.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 5315d692259ccc0f870e1cf2869ebba2cb25f3a9a5435e1df799328e77e9c2a1
+machine_hash: 284d41e07c0223ced354a84220c78bf89488cd3b7679f41fc152672c520f6068
 product: cursor
 product_name: Cursor
 record:
@@ -53,12 +53,12 @@ record:
   title: Cloud Agents with Computer Use
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-02-18-2-agent-mode-changes-in-v2-1-47|2 Agent Mode changes
-  in v2.1.47]]'
-- '[[Changes/Cursor/2026-02-18-2-agent-mode-changes-in-cli-improvements-and-mermaid-ascii|2
-  Agent Mode changes in CLI Improvements and Mermaid ASCII…]]'
 - '[[Changes/Claude Code/2026-02-20-2-agent-mode-changes-in-v2-1-50|2 Agent Mode changes
   in v2.1.50]]'
+- '[[Changes/GitHub Copilot CLI/2026-02-23-2-agent-mode-changes-in-v0-0-415|2 Agent
+  Mode changes in v0.0.415]]'
+- '[[Changes/Cline/2026-02-24-3-agent-mode-changes-in-v3-67-0|3 Agent Mode changes
+  in v3.67.0]]'
 source_release: '[[Releases/Cursor/cursor-2026-02-24-cloud-agents-with-computer-use-https-cursor-com-changelog-02-24-252fc429|cursor-2026-02-24-cloud-agents-with-computer-use-https-cursor-com-changelog-02-24-252fc429]]'
 source_type: cursor_changelog
 theme: agent-mode
@@ -91,8 +91,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2026-02-20 · Claude Code · [[Changes/Claude Code/2026-02-20-2-agent-mode-changes-in-v2-1-50|2 Agent Mode changes in v2.1.50]]
-- Later: 2026-02-26 · Cursor · [[Changes/Cursor/2026-02-26-autofix-runs-cloud-agents-on-their-own-machines-to-test-changes-and-propose-fixe|Autofix runs cloud agents on their own machines to test changes and propose fixes…]]
+- Earlier: 2026-02-24 · Cline · [[Changes/Cline/2026-02-24-3-agent-mode-changes-in-v3-67-0|3 Agent Mode changes in v3.67.0]]
+- Later: 2026-02-25 · Codex CLI · [[Changes/Codex CLI/2026-02-25-18-agent-mode-changes-in-rust-v0-105-0|18 Agent Mode changes in rust-v0.105.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

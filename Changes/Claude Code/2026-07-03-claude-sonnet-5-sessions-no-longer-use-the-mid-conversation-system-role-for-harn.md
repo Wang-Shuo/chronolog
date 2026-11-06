@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 46b961f0b54be275a2177a039178025fbc53502c045be30184751e55aa43fcaf
+machine_hash: 6aa5b0da75eecaa7f54fdf8b0ddbad5bc741c559a3190ae10ff2c89b440a2f8c
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,12 +45,12 @@ record:
     harness…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-06-29-added-support-for-organization-default-models-admins-set-it-in-the-org-console-i|Added
-  support for organization default models]]'
-- '[[Changes/Claude Code/2026-06-30-introducing-claude-sonnet-5-now-the-default-model-in-claude-code-with-a-native-1|Introducing
-  Claude Sonnet 5]]'
 - '[[Changes/Claude Code/2026-07-01-2-model-support-changes-in-v2-1-198|2 Model Support
   changes in v2.1.198]]'
+- '[[Changes/GitHub Copilot CLI/2026-07-01-add-support-for-the-kimi-k2-7-code-model|Add
+  support for the kimi-k2.7-code model]]'
+- '[[Changes/Cline/2026-07-02-generalize-the-model-capability-warning-so-it-applies-more-broadly|Generalize
+  the model capability warning so it applies more broadly]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-07-03-v2-1-201-github-348791299-ee865ada|claude-code-2026-07-03-v2-1-201-github-348791299-ee865ada]]'
 source_type: github_releases
 theme: model-support
@@ -78,7 +78,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-07-01 · Claude Code · [[Changes/Claude Code/2026-07-01-2-model-support-changes-in-v2-1-198|2 Model Support changes in v2.1.198]]
+- Earlier: 2026-07-02 · Cline · [[Changes/Cline/2026-07-02-generalize-the-model-capability-warning-so-it-applies-more-broadly|Generalize the model capability warning so it applies more broadly]]
 - Later: 2026-07-06 · ChatGPT · [[Changes/ChatGPT/2026-07-06-we-re-rolling-out-gpt-5-5-instant-mini-in-chatgpt-it-replaces-gpt-5-3-instant-mi|GPT-5.5 Instant Mini in ChatGPT]]
 <!-- chronolog:end -->
 

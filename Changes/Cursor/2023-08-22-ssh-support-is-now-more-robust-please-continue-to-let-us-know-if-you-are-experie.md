@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 7625e68b3be197fc77246b81ca296a078a01dfadef1a37a27d058b9d476ca317
+machine_hash: 330d514763dda00985b94f9a5a749eab942b859271a726813f73e24f5388ccc7
 product: cursor
 product_name: Cursor
 record:
@@ -47,8 +47,8 @@ record:
   title: SSH support is now more robust!
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2023-02-13-we-ve-updated-performance-of-the-chatgpt-model-on-our-free-plan-in-order-to-serv|ChatGPT
-  updates performance of the ChatGPT model on our free plan in order to serve…]]'
+- '[[Changes/Aider/2023-07-12-more-robust-handling-of-filepaths-to-avoid-8-3-windows-filenames|More
+  robust handling of filepaths, to avoid 8.3 windows filenames]]'
 - '[[Changes/Cursor/2023-07-26-removes-a-check-in-the-chat-that-slows-the-chat-down-in-certain-cases|Removes
   a check in the chat that slows the chat down in certain cases]]'
 - '[[Changes/Cursor/2023-08-20-ssh-support-is-now-more-robust-please-continue-to-let-us-know-if-you-are-experie|More

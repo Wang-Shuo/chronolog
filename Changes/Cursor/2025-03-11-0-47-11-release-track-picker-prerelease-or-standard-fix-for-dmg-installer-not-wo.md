@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 86b08161a1ed26ea7786a5712bba99a0588f5d4846fae23328a300536c4e6fb7
+machine_hash: 7a00b045aaaa5ed0f9f6e8650bb3a68bafc5376b2eaa688f1b0b7257f9c4ddf1
 product: cursor
 product_name: Cursor
 record:
@@ -44,10 +44,9 @@ record:
     not…'
   type: change
 related_changes:
-- '[[Changes/Cursor/2024-11-24-composer-ui-in-the-sidebar-with-inline-diffs|Composer
-  UI in the sidebar with inline diffs]]'
-- '[[Changes/Cursor/2025-02-19-2-interface-experience-changes-in-0-46-x|2 Interface
-  Experience changes in 0.46.x]]'
+- '[[Changes/OpenHands/2025-02-19-2-interface-experience-changes-in-0-25-0|2 Interface
+  Experience changes in 0.25.0]]'
+- '[[Changes/Aider/2025-03-10-https-aider-chat-history-html|(source link)]]'
 - '[[Changes/Cursor/2025-03-11-keyboard-shortcuts-all-keyboard-shortcuts-are-now-available-in-the-keyboard-shor|Keyboard
   Shortcuts: All keyboard shortcuts are now available in the Keyboard…]]'
 source_release: '[[Releases/Cursor/cursor-2025-03-11-0-47-x-https-cursor-com-changelog-0-47-x-eebf8f2e|cursor-2025-03-11-0-47-x-https-cursor-com-changelog-0-47-x-eebf8f2e]]'
@@ -86,7 +85,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2025-02-19 · Cursor · [[Changes/Cursor/2025-02-19-2-interface-experience-changes-in-0-46-x|2 Interface Experience changes in 0.46.x]]
+- Earlier: 2025-03-10 · Aider · [[Changes/Aider/2025-03-10-https-aider-chat-history-html|(source link)]]
 - Later: 2025-03-18 · ChatGPT · [[Changes/ChatGPT/2025-03-18-added-long-press-on-your-message-to-open-menu-actions-copy-edit|Added long press on your message to open menu actions: Copy, Edit]]
 <!-- chronolog:end -->
 

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 63f9cc87abe65bcbe0ca336e945558e9b7d474e5a81cb35fbefd52fde0d262de
+machine_hash: 51167fbc28b5ddd3a237c33f679e80c2e046ff0216f9b97c561bf077c2bd9eb2
 product: claude-code
 product_name: Claude Code
 record:
@@ -47,8 +47,8 @@ record:
   title: 2 Apps and Integrations changes in v2.1.222
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-08-03-cursor-can-now-read-write-and-act-across-your-google-workspace|Google
-  Workspace Plugins]]'
+- '[[Changes/OpenHands/2026-08-03-chore-bump-openhands-extensions-to-0-13-0-by-hieptl-in-https-github-com-openhand|chore:
+  bump @openhands/extensions to 0.13.0]]'
 - '[[Changes/ChatGPT/2026-08-04-three-new-plugins-for-chatgpt-work-and-codex-help-students-and-educators-work-wi-e7aee9|Three
   new plugins for ChatGPT Work and Codex help students and educators work…]]'
 - '[[Changes/Claude Code/2026-08-04-4-apps-and-integrations-changes-in-v2-1-221|4
@@ -88,7 +88,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.222
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-08-04 · Claude Code · [[Changes/Claude Code/2026-08-04-4-apps-and-integrations-changes-in-v2-1-221|4 Apps and Integrations changes in v2.1.221]]
-- Later: 2026-08-07 · Claude Code · [[Changes/Claude Code/2026-08-07-3-apps-and-integrations-changes-in-v2-1-224|3 Apps and Integrations changes in v2.1.224]]
+- Later: 2026-08-05 · Cline · [[Changes/Cline/2026-08-05-map-reasoning-settings-onto-a-shared-path-across-ai-sdk-providers-so-effort-leve|Map reasoning settings onto a shared path across AI SDK providers, so effort levels…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

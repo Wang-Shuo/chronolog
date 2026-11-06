@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: c0df32628f76b08e65e9586a1a2856aaaae07714581bf66b603af18e88ad2d05
+machine_hash: b255ad384b31cc74105f6e906a1b8b811e00ab780162c988e3117943f5794e61
 product: claude-code
 product_name: Claude Code
 record:
@@ -56,12 +56,12 @@ record:
     sessions…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-08-17-2-context-window-changes-in-v2-1-234|2 Context
-  Window changes in v2.1.234]]'
-- '[[Changes/Claude Code/2026-08-18-improved-the-context-limit-error-to-say-when-auto-compact-is-off-and-point-to-co|Improved
-  the context-limit error to say when auto-compact is off and point…]]'
 - '[[Changes/Claude Code/2026-08-21-improved-the-reminder-shown-after-compaction-so-a-skill-s-original-arguments-are|Improved
   the reminder shown after compaction so a skill''s original arguments are not…]]'
+- '[[Changes/Cline/2026-08-21-only-treat-an-anthropic-invalid-request-error-as-a-context-overflow-when-its-mes|Only
+  treat an Anthropic invalid_request_error as a context-overflow…]]'
+- '[[Changes/Gemini CLI/2026-08-25-ssr-agent-issue-fix-19239-update-clear-command-docs-to-include-context-reset-by|SSR
+  Agent Issue Fix (19239): Update /clear command docs to include context reset]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-08-26-v2-1-247-github-377320078-fc507178|claude-code-2026-08-26-v2-1-247-github-377320078-fc507178]]'
 source_type: github_releases
 theme: context-window
@@ -96,8 +96,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Context Window
 
-- Earlier: 2026-08-21 · Claude Code · [[Changes/Claude Code/2026-08-21-improved-the-reminder-shown-after-compaction-so-a-skill-s-original-arguments-are|Improved the reminder shown after compaction so a skill's original arguments are not…]]
-- Later: 2026-08-27 · Claude Code · [[Changes/Claude Code/2026-08-27-improved-the-workflow-tool-s-prompt-footprint-its-description-is-now-about-1k-to|Improved the Workflow tool's prompt footprint]]
+- Earlier: 2026-08-25 · Gemini CLI · [[Changes/Gemini CLI/2026-08-25-ssr-agent-issue-fix-19239-update-clear-command-docs-to-include-context-reset-by|SSR Agent Issue Fix (19239): Update /clear command docs to include context reset]]
+- Later: 2026-08-26 · Codex CLI · [[Changes/Codex CLI/2026-08-26-14-context-window-changes-in-rust-v0-150-0|14 Context Window changes in rust-v0.150.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

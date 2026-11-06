@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: fc1e8cf11fab0b4db92e2d1da1c6ef66e1a573e062ec0b9291faa76aad86bd7a
+machine_hash: 150784d5e4783b5e24bf869444a40a42054ac9d600b65f043e21fc1267a86500
 product: claude-code
 product_name: Claude Code
 record:
@@ -42,12 +42,12 @@ record:
   title: Added `cache_creation_5m_tokens` and `cache_creation_1h_tokens` to the OpenTelemetry…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-02-changed-autocompact-to-save-the-auto-compact-window-per-model-so-each-model-keep|Changed
-  /autocompact to save the auto-compact window per model, so each model…]]'
-- '[[Changes/Claude Code/2026-10-08-improved-token-counts-behind-a-claude-apps-gateway-on-amazon-bedrock-which-conte|Improved
-  token counts behind a Claude apps gateway on Amazon Bedrock…]]'
 - '[[Changes/Claude Code/2026-10-09-2-context-window-changes-in-v2-1-296|2 Context
   Window changes in v2.1.296]]'
+- '[[Changes/GitHub Copilot CLI/2026-10-09-context-now-applies-to-new-and-resumed-acp-sessions-instead-of-silently-using-th|--context
+  now applies to new and resumed ACP sessions instead of silently using…]]'
+- '[[Changes/Cline/2026-10-13-2-context-window-changes-in-v4-1-24|2 Context Window
+  changes in v4.1.24]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-10-14-v2-1-300-github-412815061-c358fcd0|claude-code-2026-10-14-v2-1-300-github-412815061-c358fcd0]]'
 source_type: github_releases
 theme: context-window
@@ -87,7 +87,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Context Window
 
-- Earlier: 2026-10-09 · Claude Code · [[Changes/Claude Code/2026-10-09-2-context-window-changes-in-v2-1-296|2 Context Window changes in v2.1.296]]
+- Earlier: 2026-10-13 · Cline · [[Changes/Cline/2026-10-13-2-context-window-changes-in-v4-1-24|2 Context Window changes in v4.1.24]]
 - Later: 2026-10-14 · Claude Code · [[Changes/Claude Code/2026-10-14-2-context-window-changes-in-v2-1-299|2 Context Window changes in v2.1.299]]
 <!-- chronolog:end -->
 

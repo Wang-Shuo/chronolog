@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 26fdbf5307c99356f736a72329519dad41ea72f8bcb37bff89c671cdcecb1af7
+machine_hash: 02afd11ccb3d58e99fc791acef22cb93c31586e2803397f5dc7d83123a1a38a7
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -59,12 +59,12 @@ record:
   title: Chat search connectors (Pro)
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2025-06-04-admin-published-connectors-appear-in-the-connector-list-for-all-users|Admin-published
-  connectors appear in the connector list for all users]]'
-- '[[Changes/ChatGPT/2025-06-04-admins-and-users-can-now-build-and-deploy-custom-connectors-to-proprietary-syste|Admins
-  and users can now build and deploy custom connectors to proprietary systems…]]'
-- '[[Changes/Cursor/2025-06-12-agents-understand-context-6b73fc|Agents understand
-  context]]'
+- '[[Changes/OpenHands/2025-06-20-3-apps-and-integrations-changes-in-0-44-0|3 Apps
+  and Integrations changes in 0.44.0]]'
+- '[[Changes/OpenHands/2025-06-20-slack-integration-beta-with-cloud-openhands-malhotra5-in-https-github-com-all-ha|Slack
+  Integration (Beta) with Cloud OpenHands @malhotra5…]]'
+- '[[Changes/OpenHands/2025-06-20-2-apps-and-integrations-changes-in-0-45-0|2 Apps
+  and Integrations changes in 0.45.0]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-06-24-chat-search-connectors-pro-a20d1d1a|chatgpt-2025-06-24-chat-search-connectors-pro-a20d1d1a]]'
 source_type: chatgpt_changelog
 theme: apps-integrations
@@ -91,8 +91,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2025-06-12 · Cursor · [[Changes/Cursor/2025-06-12-agents-understand-context-6b73fc|Agents understand context]]
-- Later: 2025-07-03 · Cursor · [[Changes/Cursor/2025-07-03-2-apps-and-integrations-changes-in-1-2|2 Apps and Integrations changes in 1.2]]
+- Earlier: 2025-06-20 · OpenHands · [[Changes/OpenHands/2025-06-20-2-apps-and-integrations-changes-in-0-45-0|2 Apps and Integrations changes in 0.45.0]]
+- Later: 2025-07-01 · Gemini CLI · [[Changes/Gemini CLI/2025-07-01-feat-add-support-to-remote-mcp-servers-for-custom-http-headers-by-aspiers-in-htt|feat: add support to remote MCP servers for custom HTTP headers]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

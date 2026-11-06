@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: pricing
-machine_hash: 7ed1e66372e3d96395ee08bbe1c8f7916c693875125c3d1dd3074f3edf6c3e9b
+machine_hash: 63283b3bb439db7873bb0a9d0836038977dac9dbdfd9f73d4c9075aaabf130c8
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -51,10 +51,10 @@ record:
   title: API credits for eligible ChatGPT Pro and Business plans
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-09-updated-cost-the-status-line-max-budget-usd-and-the-sdk-s-cost-figures-to-price|Updated
-  /cost, the status line, --max-budget-usd and the SDK''s cost figures…]]'
 - '[[Changes/ChatGPT/2026-10-15-the-rosalind-academic-plan-helps-eligible-academic-labs-use-chatgpt-for-life-sci|The
   Rosalind Academic Plan helps eligible academic labs use ChatGPT for life…]]'
+- '[[Changes/GitHub Copilot CLI/2026-10-19-complete-usage-reporting-no-longer-shows-partial-status-or-phantom-unattributed|Complete
+  usage reporting no longer shows partial status or phantom unattributed…]]'
 - '[[Changes/ChatGPT/2026-10-21-you-can-now-use-momo-to-pay-for-chatgpt-go-plus-and-pro-subscriptions-purchased|MoMo
   payments in Vietnam]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-10-28-api-credits-for-eligible-chatgpt-pro-and-business-plans-a2290f64|chatgpt-2026-10-28-api-credits-for-eligible-chatgpt-pro-and-business-plans-a2290f64]]'
@@ -84,6 +84,7 @@ type: change
 ## Nearby in Pricing Model
 
 - Earlier: 2026-10-21 · ChatGPT · [[Changes/ChatGPT/2026-10-21-you-can-now-use-momo-to-pay-for-chatgpt-go-plus-and-pro-subscriptions-purchased|MoMo payments in Vietnam]]
+- Later: 2026-10-29 · Codex CLI · [[Changes/Codex CLI/2026-10-29-56495-add-paginated-channel-subscription-queries-to-the-local-message-board-feli|♯56495 Add paginated channel subscription queries to the local message board @felixxia-oai]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

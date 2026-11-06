@@ -4,20 +4,20 @@ date: '2026-03-07'
 description: 'Claude Code · 2026-03-07 · Automation and Scheduling: Added cron scheduling
   tools for recurring prompts within a session'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2025-01-14-today-we-re-rolling-out-a-beta-version-of-tasks-a-new-way-to-ask-chatgpt-to-do-t-2d33b6|Scheduled
-    tasks in ChatGPT]]'
+  first_in_tracked: '[[Changes/OpenHands/2024-09-04-better-syntax-error-loop-detection-by-tobitege-in-https-github-com-all-hands-ai|Better
+    syntax error loop detection]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 417
+  lag_days: 549
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 6ec32c962cd125d3f98ddb1715cfbe7216432ffbb5ace7c0f8d73b5c63ef1f1d
+machine_hash: 742d0a2aed07d445972cba5faa6745db55cdd2bb4f1b2a13fcb5b1df08432f4f
 product: claude-code
 product_name: Claude Code
 record:
@@ -41,8 +41,8 @@ record:
   title: Added cron scheduling tools for recurring prompts within a session
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2025-12-17-tasks-let-you-set-up-automated-prompts-that-chatgpt-can-run-for-you-you-can-now-b3f799|Tasks
-  let you set up automated prompts that ChatGPT can run for you]]'
+- '[[Changes/Gemini CLI/2026-02-27-migrate-core-render-util-to-use-xterm-js-as-part-of-the-rendering-loop-by-jacob3|Migrate
+  core render util to use xterm.js as part of the rendering loop]]'
 - '[[Changes/Cursor/2026-03-05-create-automations-at-cursor-com-automations-or-start-from-a-template-read-more|Create
   automations at cursor.com/automations, or start from a template]]'
 - '[[Changes/Cursor/2026-03-05-cursor-now-supports-automations-for-building-always-on-agents-that-run-based-on-fb3c5d|Cursor
@@ -87,7 +87,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2025-01-14 · ChatGPT · [[Changes/ChatGPT/2025-01-14-today-we-re-rolling-out-a-beta-version-of-tasks-a-new-way-to-ask-chatgpt-to-do-t-2d33b6|Scheduled tasks in ChatGPT]]
+- Earliest same-theme entry in the tracked set: 2024-09-04 · OpenHands · [[Changes/OpenHands/2024-09-04-better-syntax-error-loop-detection-by-tobitege-in-https-github-com-all-hands-ai|Better syntax error loop detection]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

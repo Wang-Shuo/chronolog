@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: de9b2051c44fabbd5e1cc1ec082f425f8d57adbfd29d41f4b09780e65f0ff6c9
+machine_hash: 0fbc5065186fa8305d67d3123039737007c3f1eec78e471606a881382ba68bef
 product: claude-code
 product_name: Claude Code
 record:
@@ -73,10 +73,10 @@ record:
   title: 10 Safety and Privacy changes in v2.1.257
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-08-27-4-safety-and-privacy-changes-in-v2-1-248|4 Safety
-  and Privacy changes in v2.1.248]]'
 - '[[Changes/Claude Code/2026-08-28-6-safety-and-privacy-changes-in-v2-1-251|6 Safety
   and Privacy changes in v2.1.251]]'
+- '[[Changes/Codex CLI/2026-08-29-5-safety-and-privacy-changes-in-rust-v0-151-0|5
+  Safety and Privacy changes in rust-v0.151.0]]'
 - '[[Changes/Claude Code/2026-09-01-fixed-remote-and-scheduled-sessions-failing-with-user-messages-must-have-non-emp|Fixed
   remote and scheduled sessions failing…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-01-v2-1-257-github-380686035-b86855a6|claude-code-2026-09-01-v2-1-257-github-380686035-b86855a6]]'
@@ -138,7 +138,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.257
 ## Nearby in Safety and Privacy
 
 - Earlier: 2026-09-01 · Claude Code · [[Changes/Claude Code/2026-09-01-fixed-remote-and-scheduled-sessions-failing-with-user-messages-must-have-non-emp|Fixed remote and scheduled sessions failing…]]
-- Later: 2026-09-02 · Claude Code · [[Changes/Claude Code/2026-09-02-4-safety-and-privacy-changes-in-v2-1-259|4 Safety and Privacy changes in v2.1.259]]
+- Later: 2026-09-01 · Codex CLI · [[Changes/Codex CLI/2026-09-01-41227-use-compatible-powershell-for-elevated-windows-sandbox-commands-copyberry|♯41227 Use compatible PowerShell for elevated Windows sandbox commands @copyberry]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

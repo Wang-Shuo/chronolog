@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: ab186b5f4f67f0f75d2a2f7c180ff6089403a40d94e0d9e61f9db3c8dbc81326
+machine_hash: 9a879149d5052125fbefb9d9ad4ace3e6001757c37c176ad3228399244a117b5
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -41,10 +41,10 @@ record:
   title: Confirmation dialog for logging out (iOS, web)
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2024-11-19-starting-today-we-re-beginning-to-roll-out-advanced-voice-mode-on-web-already-av-3d4db6|Advanced
-  Voice for ChatGPT Web]]'
-- '[[Changes/ChatGPT/2024-11-22-improved-mobile-web-experience|Improved Mobile Web
-  Experience]]'
+- '[[Changes/OpenHands/2024-12-12-make-layout-responsive-for-mobile-devices-by-tofarr-in-https-github-com-all-hand|Make
+  layout responsive for mobile devices]]'
+- '[[Changes/Aider/2024-12-26-improved-environment-variable-setup-messages-on-windows|Improved
+  environment variable setup messages on Windows]]'
 - '[[Changes/ChatGPT/2025-01-17-we-ve-updated-custom-instructions-to-make-it-easier-to-customize-how-chatgpt-res-e42760|More
   personalization in Custom Instructions]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-02-14-set-chatgpt-as-default-search-engine-in-safari-11ec014b|chatgpt-2025-02-14-set-chatgpt-as-default-search-engine-in-safari-11ec014b]]'

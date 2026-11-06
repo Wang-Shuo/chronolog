@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 4dd8dd2f3aa350ed9c4566682994a5f4430127da27d4140049a0e7e16a8be856
+machine_hash: ceacccf8092854c1f32532e2c7c23b6c22b531b930cf8ac6c07a6a18044249b2
 product: cursor
 product_name: Cursor
 record:
@@ -41,11 +41,11 @@ record:
   title: Faster responses with parallel tool calls
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-03-23-2-reliability-and-performance-changes-in-0-48-x|2 Reliability
-  and Performance changes in 0.48.x]]'
-- '[[Changes/Cursor/2025-03-23-faster-indexing|Faster indexing]]'
-- '[[Changes/ChatGPT/2025-05-08-outside-the-european-regions-listed-above-all-plus-and-pro-accounts-that-have-me-507581|Opt‑in
-  reminders]]'
+- '[[Changes/Windsurf/2025-05-15-misc|Misc]]'
+- '[[Changes/Cline/2025-05-28-add-cerebras-as-a-new-api-provider-with-5-high-performance-models-including-reas|Add
+  Cerebras as a new API provider with 5 high-performance models including…]]'
+- '[[Changes/Aider/2025-05-30-improved-openrouter-model-metadata-handling-by-introducing-a-local-cache-increas|Improved
+  OpenRouter model metadata handling by introducing a local cache, increasing…]]'
 source_release: '[[Releases/Cursor/cursor-2025-06-04-1-0-https-cursor-com-changelog-1-0-237767ca|cursor-2025-06-04-1-0-https-cursor-com-changelog-1-0-237767ca]]'
 source_type: cursor_changelog
 theme: reliability-performance
@@ -87,7 +87,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2025-05-08 · ChatGPT · [[Changes/ChatGPT/2025-05-08-outside-the-european-regions-listed-above-all-plus-and-pro-accounts-that-have-me-507581|Opt‑in reminders]]
+- Earlier: 2025-05-30 · Aider · [[Changes/Aider/2025-05-30-improved-openrouter-model-metadata-handling-by-introducing-a-local-cache-increas|Improved OpenRouter model metadata handling by introducing a local cache, increasing…]]
 - Later: 2025-06-12 · Cursor · [[Changes/Cursor/2025-06-12-3-reliability-and-performance-changes-in-1-1|3 Reliability and Performance changes in 1.1]]
 <!-- chronolog:end -->
 

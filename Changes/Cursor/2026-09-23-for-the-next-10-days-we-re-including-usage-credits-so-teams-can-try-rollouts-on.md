@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: pricing
-machine_hash: dabeced72129bd2a51932b4628ae28ad0d626b6bce12d5111bcba08ed2b7d5c0
+machine_hash: 66c9d8b34ed590a93314cca162524e8784129376e2305dbb740116670b55113d
 product: cursor
 product_name: Cursor
 record:
@@ -54,12 +54,12 @@ record:
   title: For the next 10 days, we're including usage credits so teams can try Rollouts…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-18-vscode-added-the-session-s-cost-and-token-usage-to-the-account-usage-dialog-and|VSCode
-  Added the session''s cost and token usage to the Account & usage dialog…]]'
 - '[[Changes/Claude Code/2026-09-19-changed-auto-mode-for-claude-api-and-enterprise-users-and-on-bedrock-vertex-foun|Changed
   auto mode for Claude API and Enterprise users, and on Bedrock, Vertex…]]'
 - '[[Changes/Claude Code/2026-09-22-improved-cost-cache-miss-causes-to-name-thinking-mode-and-thinking-display-chang|Improved
   /cost cache-miss causes to name thinking mode and thinking display changes]]'
+- '[[Changes/Cline/2026-09-22-models-that-advertise-a-large-output-limit-now-get-a-bigger-default-output-budge|Models
+  that advertise a large output limit now get a bigger default output budget]]'
 source_release: '[[Releases/Cursor/cursor-2026-09-23-rollouts-and-security-review-https-cursor-com-changelog-rollouts-b860a5fb|cursor-2026-09-23-rollouts-and-security-review-https-cursor-com-changelog-rollouts-b860a5fb]]'
 source_type: cursor_changelog
 theme: pricing-model
@@ -97,7 +97,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Pricing Model
 
-- Earlier: 2026-09-22 · Claude Code · [[Changes/Claude Code/2026-09-22-improved-cost-cache-miss-causes-to-name-thinking-mode-and-thinking-display-chang|Improved /cost cache-miss causes to name thinking mode and thinking display changes]]
+- Earlier: 2026-09-22 · Cline · [[Changes/Cline/2026-09-22-models-that-advertise-a-large-output-limit-now-get-a-bigger-default-output-budge|Models that advertise a large output limit now get a bigger default output budget]]
 - Later: 2026-09-24 · Claude Code · [[Changes/Claude Code/2026-09-24-updated-the-claude-api-skill-pre-output-refusal-billing-now-links-to-the-how-ref|Updated the claude-api skill]]
 <!-- chronolog:end -->
 

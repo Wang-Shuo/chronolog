@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 1d47ed7161757c383d5bb88d0a76012a99cb9e3383d650bd2f52f1d1fd1bb11b
+machine_hash: 7687092d094ecb076a0de57eaa5b0d2ede2f11e4266c10f2e6f2bdadebbc8a31
 product: claude-code
 product_name: Claude Code
 record:
@@ -43,12 +43,12 @@ record:
     instead…
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-04-13-3-agent-mode-changes-in-3-1|3 Agent Mode changes in
-  3.1]]'
-- '[[Changes/Cursor/2026-04-14-ask-a-quick-side-question-without-derailing-the-agent-s-main-task-btw-allows-you|/btw
-  support in CLI]]'
 - '[[Changes/Claude Code/2026-04-16-auto-mode-no-longer-requires-enable-auto-mode|Auto
   mode no longer requires --enable-auto-mode]]'
+- '[[Changes/GitHub Copilot CLI/2026-04-16-background-agent-completion-notifications-are-not-sent-redundantly-when-read-age|Background
+  agent completion notifications are not sent redundantly when read_agent…]]'
+- '[[Changes/GitHub Copilot CLI/2026-04-16-agent-correctly-identifies-repository-owner-from-git-remote-url-rather-than-loca|Agent
+  correctly identifies repository owner from git remote URL rather than local username]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-04-17-v2-1-113-github-310525785-1b5293ba|claude-code-2026-04-17-v2-1-113-github-310525785-1b5293ba]]'
 source_type: github_releases
 theme: agent-mode
@@ -84,8 +84,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2026-04-16 · Claude Code · [[Changes/Claude Code/2026-04-16-auto-mode-no-longer-requires-enable-auto-mode|Auto mode no longer requires --enable-auto-mode]]
-- Later: 2026-04-20 · Claude Code · [[Changes/Claude Code/2026-04-20-2-agent-mode-changes-in-v2-1-116|2 Agent Mode changes in v2.1.116]]
+- Earlier: 2026-04-16 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-04-16-agent-correctly-identifies-repository-owner-from-git-remote-url-rather-than-loca|Agent correctly identifies repository owner from git remote URL rather than local username]]
+- Later: 2026-04-17 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-04-17-attach-supported-document-files-to-prompts-for-the-agent-to-read-and-reason-abou|Attach supported document files to prompts for the agent to read and reason about]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

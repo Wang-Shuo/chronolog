@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 9c535f6b680eb2f49c3ee32d6bd0cde4b752c79f1f53c6a54305a3b01b246140
+machine_hash: 781a9085cdd6658aa8c06323fc606d026fbfe74e852ea30153f8940d74960eb1
 product: claude-code
 product_name: Claude Code
 record:
@@ -41,12 +41,12 @@ record:
   title: Remote Control clients can now query `@`-file autocomplete suggestions
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-04-13-3-editor-experience-changes-in-3-1|3 Editor Experience
-  changes in 3.1]]'
-- '[[Changes/Claude Code/2026-04-15-2-editor-experience-changes-in-v2-1-110|2 Editor
-  Experience changes in v2.1.110]]'
+- '[[Changes/GitHub Copilot CLI/2026-04-15-show-a-clear-message-when-copilot-pro-trial-is-paused-instead-of-a-generic-polic|Show
+  a clear message when Copilot Pro trial is paused instead of a generic policy error]]'
 - '[[Changes/Claude Code/2026-04-16-transcript-view-footer-now-shows-dump-to-scrollback-and-v-open-in-editor-shortcu|Transcript
   view footer now shows  (dump to scrollback) and v (open in editor)…]]'
+- '[[Changes/GitHub Copilot CLI/2026-04-16-a-clear-error-message-is-displayed-when-the-configured-editor-cannot-be-launched|A
+  clear error message is displayed when the configured editor cannot be launched]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-04-17-v2-1-113-github-310525785-1b5293ba|claude-code-2026-04-17-v2-1-113-github-310525785-1b5293ba]]'
 source_type: github_releases
 theme: editor-experience
@@ -81,7 +81,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2026-04-16 · Claude Code · [[Changes/Claude Code/2026-04-16-transcript-view-footer-now-shows-dump-to-scrollback-and-v-open-in-editor-shortcu|Transcript view footer now shows  (dump to scrollback) and v (open in editor)…]]
+- Earlier: 2026-04-16 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-04-16-a-clear-error-message-is-displayed-when-the-configured-editor-cannot-be-launched|A clear error message is displayed when the configured editor cannot be launched]]
 - Later: 2026-04-20 · Claude Code · [[Changes/Claude Code/2026-04-20-2-editor-experience-changes-in-v2-1-116|2 Editor Experience changes in v2.1.116]]
 <!-- chronolog:end -->
 

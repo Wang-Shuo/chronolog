@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 1a57b540956b148e48724a5f3a4d9ad3cb9c6090d38a1e118bd6f27d782b3e83
+machine_hash: 7ae6a28ee84f5724ea85cbc46c326ea0d1ee983a50bb75696fd37e72b8ac0b0e
 product: claude-code
 product_name: Claude Code
 record:
@@ -46,12 +46,12 @@ record:
     a chat…
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-09-23-when-a-pull-request-opens-rollouts-reads-the-diff-and-the-systems-it-touches-the|Monitoring
-  plans]]'
-- '[[Changes/Claude Code/2026-09-24-changed-windows-wsl-managed-settings-so-an-admin-policy-that-is-present-but-inva|Changed
-  Windows/WSL managed settings so an admin policy that is present but invalid…]]'
+- '[[Changes/Cline/2026-09-24-a-command-that-prints-nothing-no-longer-shows-a-raw-json-blob-like-query-git-add|A
+  command that prints nothing no longer shows a raw JSON blob like…]]'
 - '[[Changes/Claude Code/2026-09-25-3-developer-workflow-changes-in-v2-1-283|3 Developer
   Workflow changes in v2.1.283]]'
+- '[[Changes/Codex CLI/2026-09-25-4-developer-workflow-changes-in-rust-v0-157-0|4
+  Developer Workflow changes in rust-v0.157.0]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-28-v2-1-284-github-398457074-cbb49e49|claude-code-2026-09-28-v2-1-284-github-398457074-cbb49e49]]'
 source_type: github_releases
 theme: developer-workflow
@@ -95,8 +95,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2026-09-25 · Claude Code · [[Changes/Claude Code/2026-09-25-3-developer-workflow-changes-in-v2-1-283|3 Developer Workflow changes in v2.1.283]]
-- Later: 2026-09-29 · Claude Code · [[Changes/Claude Code/2026-09-29-3-developer-workflow-changes-in-v2-1-285|3 Developer Workflow changes in v2.1.285]]
+- Earlier: 2026-09-25 · Codex CLI · [[Changes/Codex CLI/2026-09-25-4-developer-workflow-changes-in-rust-v0-157-0|4 Developer Workflow changes in rust-v0.157.0]]
+- Later: 2026-09-28 · Codex CLI · [[Changes/Codex CLI/2026-09-28-14-developer-workflow-changes-in-rust-v0-158-0|14 Developer Workflow changes in rust-v0.158.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

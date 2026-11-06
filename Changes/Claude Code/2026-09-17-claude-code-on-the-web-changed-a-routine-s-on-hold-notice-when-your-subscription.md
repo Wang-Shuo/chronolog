@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: pricing
-machine_hash: 4ec78b61ef06cd66ac919985bed4e33b65d5140a0e6987c6c1578497f10af637
+machine_hash: ef9aa8fbc86498972520dc7a1a5f754811b92b2d3d058d1354691ed979715975
 product: claude-code
 product_name: Claude Code
 record:
@@ -44,12 +44,12 @@ record:
   title: '[Claude Code on the web] Changed a routine''s on-hold notice'
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-09-09-pro-100-month-up-to-15-hours-with-gpt-live-1|Pro ($100/month):
-  Up to 15 hours with GPT-Live-1]]'
-- '[[Changes/Claude Code/2026-09-10-2-pricing-model-changes-in-v2-1-268|2 Pricing
-  Model changes in v2.1.268]]'
 - '[[Changes/Claude Code/2026-09-14-added-support-for-a-multiplier-above-1-up-to-10-in-the-modelpricing-managed-sett|Added
   support for a multiplier above 1, up to 10, in the modelPricing managed…]]'
+- '[[Changes/GitHub Copilot CLI/2026-09-16-usage-shows-per-model-ai-credit-consumption-in-usage-breakdowns|/usage
+  shows per-model AI Credit consumption in usage breakdowns]]'
+- '[[Changes/OpenHands/2026-09-16-test-strengthen-llm-subscription-normalization-by-aivong-openhands-in-https-gith|test:
+  strengthen LLM subscription normalization]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-17-v2-1-274-github-390317660-0d9c7c5d|claude-code-2026-09-17-v2-1-274-github-390317660-0d9c7c5d]]'
 source_type: github_releases
 theme: pricing-model
@@ -90,8 +90,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Pricing Model
 
-- Earlier: 2026-09-14 · Claude Code · [[Changes/Claude Code/2026-09-14-added-support-for-a-multiplier-above-1-up-to-10-in-the-modelpricing-managed-sett|Added support for a multiplier above 1, up to 10, in the modelPricing managed…]]
-- Later: 2026-09-18 · Claude Code · [[Changes/Claude Code/2026-09-18-vscode-added-the-session-s-cost-and-token-usage-to-the-account-usage-dialog-and|VSCode Added the session's cost and token usage to the Account & usage dialog…]]
+- Earlier: 2026-09-16 · OpenHands · [[Changes/OpenHands/2026-09-16-test-strengthen-llm-subscription-normalization-by-aivong-openhands-in-https-gith|test: strengthen LLM subscription normalization]]
+- Later: 2026-09-17 · Cline · [[Changes/Cline/2026-09-17-cline-pass-now-defaults-to-a-model-from-your-subscription-rather-than-a-free-one|Cline Pass now defaults to a model from your subscription rather than a free one]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 46f4509017f7f253cf0ed9450c794337c1aceaa7855f76a732bce9b01f3c5738
+machine_hash: 4e85f960bd2ea73e821ab30b05e3ea66b14bf1f51783c6626885301d4a5c08ec
 product: cursor
 product_name: Cursor
 record:
@@ -42,7 +42,8 @@ record:
   title: Chat was failing on some non-git folders
   type: change
 related_changes:
-- '[[Changes/Cursor/2023-05-17-in-terminal-debugging-f140b2|In-terminal Debugging]]'
+- '[[Changes/Aider/2023-06-07-added-in-chat-command-clear-to-clear-the-conversation-history|Added
+  in-chat command /clear to clear the conversation history]]'
 - '[[Changes/Cursor/2023-06-14-small-fix-for-a-format-on-save-bug-that-was-introduced-in-the-last-release-some|Small
   improvements]]'
 - '[[Changes/Cursor/2023-06-17-the-ai-linter-now-shows-diffs|Diffs in AI linter feedback]]'

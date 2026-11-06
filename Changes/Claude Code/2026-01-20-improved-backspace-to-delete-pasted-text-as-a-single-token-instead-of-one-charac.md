@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: f8f79f40db20e0a7a265ba2dba9c4509dcd4557969b5c351e1c0fe603212c160
+machine_hash: 6884576e5dafae7549055ab0803a5247a45d834f3c921ac51559bfdbd56ee7da
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,12 +45,12 @@ record:
     character…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-01-13-added-updates-section-to-doctor-showing-auto-update-channel-and-available-npm-ve|Added
-  Updates section to /doctor showing auto-update channel and available npm…]]'
-- '[[Changes/Claude Code/2026-01-14-added-showturnduration-setting-to-hide-turn-duration-messages-e-g-cooked-for-1m|Added
-  showTurnDuration setting to hide turn duration messages (e.g., "Cooked for 1m 6s")]]'
+- '[[Changes/Codex CLI/2026-01-15-extend-the-rust-protocol-types-to-include-additional-metadata-on-text-elements-e|Extend
+  the Rust protocol/types to include additional metadata on text elements…]]'
 - '[[Changes/Cursor/2026-01-16-2-interface-experience-changes-in-cli-agent-modes-and-cloud-handoff|2
   Interface Experience changes in CLI Agent Modes and Cloud Handoff]]'
+- '[[Changes/OpenHands/2026-01-16-adding-a-status-indicator-above-the-chat-until-the-conversation-is-ready-by-heyi|Adding
+  a status indicator above the chat until the conversation is ready]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-01-20-v2-1-14-github-278458927-a7d53111|claude-code-2026-01-20-v2-1-14-github-278458927-a7d53111]]'
 source_type: github_releases
 theme: interface-experience
@@ -81,8 +81,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-01-16 · Cursor · [[Changes/Cursor/2026-01-16-2-interface-experience-changes-in-cli-agent-modes-and-cloud-handoff|2 Interface Experience changes in CLI Agent Modes and Cloud Handoff]]
-- Later: 2026-01-22 · Cursor · [[Changes/Cursor/2026-01-22-2-interface-experience-changes-in-2-4|2 Interface Experience changes in 2.4]]
+- Earlier: 2026-01-16 · OpenHands · [[Changes/OpenHands/2026-01-16-adding-a-status-indicator-above-the-chat-until-the-conversation-is-ready-by-heyi|Adding a status indicator above the chat until the conversation is ready]]
+- Later: 2026-01-21 · Codex CLI · [[Changes/Codex CLI/2026-01-21-3-interface-experience-changes-in-rust-v0-88-0|3 Interface Experience changes in rust-v0.88.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

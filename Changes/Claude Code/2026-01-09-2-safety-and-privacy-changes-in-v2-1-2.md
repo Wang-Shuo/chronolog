@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: bd43bb7dc56f96ed76596bf987a97576e8bb0a19d4d9b98b0209df22f29050f4
+machine_hash: 24371bcdda8a59d70f4a0fae8214c92972f3e889efdbc3660e5b77a861558e9d
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,10 +45,12 @@ record:
   title: 2 Safety and Privacy changes in v2.1.2
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-09-29-sandboxed-terminals|Sandboxed terminals]]'
-- '[[Changes/Cursor/2025-10-29-sandboxed-terminals-ga|Sandboxed Terminals (GA)]]'
 - '[[Changes/Cursor/2025-12-22-improved-stability-around-how-the-agent-respects-auto-run-preferences-to-prevent|Improved
   stability around how the agent respects auto-run preferences to prevent…]]'
+- '[[Changes/Codex CLI/2026-01-06-3-safety-and-privacy-changes-in-rust-v0-78-0|3 Safety
+  and Privacy changes in rust-v0.78.0]]'
+- '[[Changes/Codex CLI/2026-01-07-allow-global-exec-flags-model-json-sandbox-toggles-etc-to-be-passed-after-codex|Allow
+  global exec flags (model/json/sandbox toggles, etc.) to be passed after…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-01-09-v2-1-2-github-275344737-27089666|claude-code-2026-01-09-v2-1-2-github-275344737-27089666]]'
 source_type: github_releases
 theme: safety-privacy
@@ -86,7 +88,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.2
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Safety and Privacy
 
-- Earlier: 2025-12-22 · Cursor · [[Changes/Cursor/2025-12-22-improved-stability-around-how-the-agent-respects-auto-run-preferences-to-prevent|Improved stability around how the agent respects auto-run preferences to prevent…]]
+- Earlier: 2026-01-07 · Codex CLI · [[Changes/Codex CLI/2026-01-07-allow-global-exec-flags-model-json-sandbox-toggles-etc-to-be-passed-after-codex|Allow global exec flags (model/json/sandbox toggles, etc.) to be passed after…]]
 - Later: 2026-01-09 · Claude Code · [[Changes/Claude Code/2026-01-09-2-safety-and-privacy-changes-in-v2-1-3|2 Safety and Privacy changes in v2.1.3]]
 <!-- chronolog:end -->
 

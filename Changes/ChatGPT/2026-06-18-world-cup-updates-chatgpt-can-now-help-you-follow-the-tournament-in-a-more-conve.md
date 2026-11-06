@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 55203e2d17e3eb86617865e372684389302831369848f91be016de17c35e3a14
+machine_hash: c57819d906009f767f16fe719dd6d0ea2c404f2b11221de7a3383e763081fda2
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -46,10 +46,12 @@ record:
   title: World Cup updates
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-06-03-3-collaboration-changes-in-organizations-for-cursor-enterprise|3
-  Collaboration changes in Organizations for Cursor Enterprise]]'
-- '[[Changes/Cursor/2026-06-03-groups-are-a-lightweight-collection-of-users-that-can-sit-across-or-within-teams|Groups]]'
-- '[[Changes/Cursor/2026-06-03-teams|Teams]]'
+- '[[Changes/Codex CLI/2026-06-04-4-collaboration-changes-in-rust-v0-137-0|4 Collaboration
+  changes in rust-v0.137.0]]'
+- '[[Changes/GitHub Copilot CLI/2026-06-05-show-the-mission-control-sharing-status-of-synced-sessions-in-the-session-info-v|Show
+  the Mission Control sharing status of synced sessions in the /session info view]]'
+- '[[Changes/Codex CLI/2026-06-15-27245-image-add-shared-data-url-preparation-utilities-fjord-oai|♯27245
+  image: add shared data URL preparation utilities @fjord-oai]]'
 scope: Web, iOS, and Android
 source_release: '[[Releases/ChatGPT/chatgpt-2026-06-18-chatgpt-app-experience-updates-d15f55c5|chatgpt-2026-06-18-chatgpt-app-experience-updates-d15f55c5]]'
 source_type: chatgpt_changelog
@@ -86,8 +88,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Collaboration
 
-- Earlier: 2026-06-03 · Cursor · [[Changes/Cursor/2026-06-03-teams|Teams]]
-- Later: 2026-06-22 · Cursor · [[Changes/Cursor/2026-06-22-new-team-marketplaces|New Team Marketplaces]]
+- Earlier: 2026-06-15 · Codex CLI · [[Changes/Codex CLI/2026-06-15-27245-image-add-shared-data-url-preparation-utilities-fjord-oai|♯27245 image: add shared data URL preparation utilities @fjord-oai]]
+- Later: 2026-06-22 · Codex CLI · [[Changes/Codex CLI/2026-06-22-26707-pac-2-add-shared-auth-system-proxy-contract-canvrno-oai|♯26707 PAC 2 - Add shared auth system proxy contract @canvrno-oai]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

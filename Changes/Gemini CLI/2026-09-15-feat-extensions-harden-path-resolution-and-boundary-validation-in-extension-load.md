@@ -1,0 +1,96 @@
+---
+card_id: gemini-cli-2026-09-15-869a8a
+date: '2026-09-15'
+description: 'Gemini CLI · 2026-09-15 · Apps and Integrations: feat(extensions): harden
+  path resolution and boundary validation in extension loader by @diegogodinezr in…'
+diffusion:
+  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We
+    are announcing experimental support for AI plugins in ChatGPT]]'
+  inference: No adoption, equivalence, or causation claim.
+  lag_days: 1272
+  relation: same-theme-chronology
+  role: later-observed
+  scope: tracked-products-only
+  theme: apps-integrations
+  tracked_products_count: 10
+evolves_from: []
+extractor_version: fallback-v5
+impact: incremental
+kind: change
+machine_hash: bb39a19b70cfc435f9c4a9a7caa48a330fd590239f4fd4d4660a42d5080661ea
+product: gemini-cli
+product_name: Gemini CLI
+record:
+  card_id: gemini-cli-2026-09-15-869a8a
+  comparison: ''
+  date: '2026-09-15'
+  description: 'Gemini CLI — Release v0.60.0: feat(extensions): harden path resolution
+    and boundary validation in extension loader by @diegogodinezr in https://github.com/google-gemini/gemini-cli/pull/29169'
+  evidence:
+  - quote: 'feat(extensions): harden path resolution and boundary validation in extension
+      loader by @diegogodinezr in https://github.com/google-gemini/gemini-cli/pull/29169'
+    source_release: https://github.com/google-gemini/gemini-cli/releases/tag/v0.60.0
+  extractor_version: fallback-v5
+  impact: incremental
+  kind: change
+  product: gemini-cli
+  product_name: Gemini CLI
+  slug: feat-extensions-harden-path-resolution-and-boundary-validation-in-extension-load
+  source_release: gemini-cli-2026-09-15-v0-60-0-github-389459337-eff73549
+  source_type: github_releases
+  theme: apps-integrations
+  theme_matches: []
+  theme_resolution: manual-semantic-rule-v1
+  title: 'feat(extensions): harden path resolution and boundary validation in extension
+    loader'
+  type: change
+related_changes:
+- '[[Changes/ChatGPT/2026-09-14-you-can-change-your-health-permissions-anytime-in-settings-plugins-health-learn|You
+  can change your Health permissions anytime in Settings → Plugins → Health]]'
+- '[[Changes/Claude Code/2026-09-14-5-apps-and-integrations-changes-in-v2-1-271|5
+  Apps and Integrations changes in v2.1.271]]'
+- '[[Changes/Claude Code/2026-09-15-3-apps-and-integrations-changes-in-v2-1-273|3
+  Apps and Integrations changes in v2.1.273]]'
+source_release: '[[Releases/Gemini CLI/gemini-cli-2026-09-15-v0-60-0-github-389459337-eff73549|gemini-cli-2026-09-15-v0-60-0-github-389459337-eff73549]]'
+source_type: github_releases
+theme: apps-integrations
+title: 'feat(extensions): harden path resolution and boundary validation in extension
+  loader'
+type: change
+---
+
+<!-- chronolog:begin region="header" -->
+# feat(extensions): harden path resolution and boundary validation in extension loader
+
+**Gemini CLI** · 2026-09-15 · [[Themes/apps-integrations|Apps and Integrations]] · [Official source](https://github.com/google-gemini/gemini-cli/releases/tag/v0.60.0) · from [[Releases/Gemini CLI/gemini-cli-2026-09-15-v0-60-0-github-389459337-eff73549|Release v0.60.0]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="evidence" -->
+> feat(extensions): harden path resolution and boundary validation in extension loader by @diegogodinezr in https://github.com/google-gemini/gemini-cli/pull/29169
+>
+> Source: https://github.com/google-gemini/gemini-cli/releases/tag/v0.60.0
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="context" -->
+## Also in this release
+
+- [[Changes/Gemini CLI/2026-09-15-2-safety-and-privacy-changes-in-v0-60-0|2 Safety and Privacy changes in v0.60.0]] · Safety and Privacy
+- [[Changes/Gemini CLI/2026-09-15-3-other-changes-in-v0-60-0|3 other changes in v0.60.0]] · Other changes
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="nearby" -->
+## Nearby in Apps and Integrations
+
+- Earlier: 2026-09-15 · Claude Code · [[Changes/Claude Code/2026-09-15-3-apps-and-integrations-changes-in-v2-1-273|3 Apps and Integrations changes in v2.1.273]]
+- Later: 2026-09-16 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-09-16-20-apps-and-integrations-changes-in-v1-0-85|20 Apps and Integrations changes in v1.0.85]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="relations" -->
+## Related
+
+- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We are announcing experimental support for AI plugins in ChatGPT]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="footer" -->
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20gemini-cli-2026-09-15-869a8a&body=Card%3A%20Changes%2FGemini%20CLI%2F2026-09-15-feat-extensions-harden-path-resolution-and-boundary-validation-in-extension-load.md%0ACard%20ID%3A%20gemini-cli-2026-09-15-869a8a%0ASource%3A%20https%3A%2F%2Fgithub.com%2Fgoogle-gemini%2Fgemini-cli%2Freleases%2Ftag%2Fv0.60.0%0A%0AWhat%20should%20be%20corrected%3F%0A)
+<!-- chronolog:end -->

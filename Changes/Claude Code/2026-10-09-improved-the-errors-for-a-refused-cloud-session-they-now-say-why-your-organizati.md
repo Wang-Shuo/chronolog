@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: f28a9d68968368e5ca374511ea466ad0b8b379f4b192fccf8dbf279fff792af5
+machine_hash: bd97796404233855cb601859601c547ac7c1de6717cfbb6aefc7b8eb31b95180
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,12 +45,12 @@ record:
   title: Improved the errors for a refused cloud session
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-02-added-a-re-authenticate-prompt-when-an-mcp-server-asks-for-more-oauth-scope-duri|Added
-  a re-authenticate prompt when an MCP server asks for more OAuth scope during…]]'
-- '[[Changes/Claude Code/2026-10-05-3-account-and-access-changes-in-v2-1-290|3 Account
-  and Access changes in v2.1.290]]'
+- '[[Changes/GitHub Copilot CLI/2026-10-07-2-account-and-access-changes-in-v1-0-93|2
+  Account and Access changes in v1.0.93]]'
 - '[[Changes/Claude Code/2026-10-08-added-support-for-forceloginmethod-gateway-and-forcelogingatewayurl-in-your-own|Added
   support for forceLoginMethod: "gateway" and forceLoginGatewayUrl…]]'
+- '[[Changes/Codex CLI/2026-10-08-2-account-and-access-changes-in-rust-v0-162-0|2
+  Account and Access changes in rust-v0.162.0]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-10-09-v2-1-296-github-408141042-fd950e7a|claude-code-2026-10-09-v2-1-296-github-408141042-fd950e7a]]'
 source_type: github_releases
 theme: account-access
@@ -89,8 +89,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Account and Access
 
-- Earlier: 2026-10-08 · Claude Code · [[Changes/Claude Code/2026-10-08-added-support-for-forceloginmethod-gateway-and-forcelogingatewayurl-in-your-own|Added support for forceLoginMethod: "gateway" and forceLoginGatewayUrl…]]
-- Later: 2026-10-14 · Claude Code · [[Changes/Claude Code/2026-10-14-improved-the-error-shown-when-a-cloud-session-is-refused-because-your-claude-ai|Improved the error shown when a cloud session is refused because your claude.ai…]]
+- Earlier: 2026-10-08 · Codex CLI · [[Changes/Codex CLI/2026-10-08-2-account-and-access-changes-in-rust-v0-162-0|2 Account and Access changes in rust-v0.162.0]]
+- Later: 2026-10-09 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-10-09-use-native-microsoft-entra-broker-authentication-on-macos-when-available-with-br|Use native Microsoft Entra broker authentication on macOS when available…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: b0a09928199ea88c0e6a76f3e1c6389933c735fb7b9498313952677b5477aa03
+machine_hash: 7a9492a234cb8ec5018d62639606c686c4e74c50d84b9463cae1660b596063eb
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -57,10 +57,10 @@ record:
   title: “Fuzzy” improvements
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2025-03-18-o1-and-o3-mini-now-offer-python-powered-data-analysis-in-chatgpt-you-can-now-ask-bfa530|o1
-  and o3-mini now offer Python-powered data analysis in ChatGPT]]'
-- '[[Changes/Cursor/2025-03-23-2-model-support-changes-in-0-48-x|2 Model Support changes
-  in 0.48.x]]'
+- '[[Changes/Aider/2025-03-25-2-model-support-changes-in-v0-79-0|2 Model Support changes
+  in v0.79.0]]'
+- '[[Changes/Cline/2025-03-26-4-model-support-changes-in-v3-8-3|4 Model Support changes
+  in v3.8.3]]'
 - '[[Changes/ChatGPT/2025-03-27-we-ve-made-improvements-to-gpt-4o-it-now-feels-more-intuitive-creative-and-colla|ChatGPT
   makes improvements to GPT-4o—it now feels more intuitive, creative…]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-03-27-improvements-to-gpt-4o-4bcfc1a7|chatgpt-2025-03-27-improvements-to-gpt-4o-4bcfc1a7]]'
@@ -93,8 +93,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2025-03-23 · Cursor · [[Changes/Cursor/2025-03-23-2-model-support-changes-in-0-48-x|2 Model Support changes in 0.48.x]]
-- Later: 2025-04-10 · ChatGPT · [[Changes/ChatGPT/2025-04-10-effective-april-30-2025-gpt-4-will-be-retired-from-chatgpt-and-fully-replaced-by-d03b3b|Sunsetting GPT‑4 in ChatGPT]]
+- Earlier: 2025-03-26 · Cline · [[Changes/Cline/2025-03-26-4-model-support-changes-in-v3-8-3|4 Model Support changes in v3.8.3]]
+- Later: 2025-03-31 · Aider · [[Changes/Aider/2025-03-31-3-model-support-changes-in-v0-80-0|3 Model Support changes in v0.80.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

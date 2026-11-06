@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: fba2de587dcc78f30515e1f4b1bbe804f4082e4c72dca6d78a740f0ad2a8b796
+machine_hash: 00ed29f219c596913e0504fc2e519b6e95a7726f38139362dcfaece5f6311aba
 product: claude-code
 product_name: Claude Code
 record:
@@ -43,12 +43,12 @@ record:
     first…'
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-06-04-with-canvases-agents-can-create-interactive-artifacts-like-dashboards-reports-an|With
-  canvases, agents can create interactive artifacts like dashboards, reports…]]'
 - '[[Changes/Cursor/2026-06-04-5-agent-mode-changes-in-custom-stores-custom-tools|5
   Agent Mode changes in Custom stores, custom tools…]]'
 - '[[Changes/Cursor/2026-06-05-ask-the-agent-to-make-one-match-the-other-remove-repeated-content-or-adjust-a-gr|Multi-select
   elements]]'
+- '[[Changes/GitHub Copilot CLI/2026-06-05-2-agent-mode-changes-in-v1-0-60|2 Agent
+  Mode changes in v1.0.60]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-06-06-v2-1-166-github-335118845-ef990727|claude-code-2026-06-06-v2-1-166-github-335118845-ef990727]]'
 source_type: github_releases
 theme: agent-mode
@@ -81,7 +81,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2026-06-05 · Cursor · [[Changes/Cursor/2026-06-05-ask-the-agent-to-make-one-match-the-other-remove-repeated-content-or-adjust-a-gr|Multi-select elements]]
+- Earlier: 2026-06-05 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-06-05-2-agent-mode-changes-in-v1-0-60|2 Agent Mode changes in v1.0.60]]
 - Later: 2026-06-08 · Claude Code · [[Changes/Claude Code/2026-06-08-2-agent-mode-changes-in-v2-1-169|2 Agent Mode changes in v2.1.169]]
 <!-- chronolog:end -->
 

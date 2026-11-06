@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: ab3ccc1bbda4c2e23eb7533cacf295e9669bda2a57e46f790a33f5be46a9d0a9
+machine_hash: 537cb7561290ec26415033c73cae4f110b9fb8cc4074504370327d473b5fa105
 product: claude-code
 product_name: Claude Code
 record:
@@ -46,12 +46,12 @@ record:
     the user'
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-07-15-claude-in-chrome-hardened-file-upload-path-validation|Claude
-  in Chrome: hardened file-upload path validation]]'
-- '[[Changes/ChatGPT/2026-07-23-we-re-starting-to-roll-out-a-new-health-experience-in-chatgpt-logged-in-free-go-b62f3b|We’re
-  starting to roll out a new health experience in ChatGPT]]'
-- '[[Changes/ChatGPT/2026-08-07-we-ve-made-it-easier-to-bring-documents-and-saved-files-into-your-conversations|ChatGPT
-  makes it easier to bring documents and saved files into your conversations…]]'
+- '[[Changes/GitHub Copilot CLI/2026-08-27-canvas-windows-open-and-refresh-in-the-background-instead-of-stealing-focus-from|Canvas
+  windows open and refresh in the background instead of stealing focus…]]'
+- '[[Changes/OpenHands/2026-08-27-2-files-and-data-changes-in-v1-16-0|2 Files and
+  Data changes in v1.16.0]]'
+- '[[Changes/OpenHands/2026-09-09-4-files-and-data-changes-in-v1-17-0|4 Files and
+  Data changes in v1.17.0]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-11-v2-1-269-github-387243742-288e9189|claude-code-2026-09-11-v2-1-269-github-387243742-288e9189]]'
 source_type: github_releases
 theme: file-data
@@ -90,8 +90,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Files and Data
 
-- Earlier: 2026-08-07 · ChatGPT · [[Changes/ChatGPT/2026-08-07-we-ve-made-it-easier-to-bring-documents-and-saved-files-into-your-conversations|ChatGPT makes it easier to bring documents and saved files into your conversations…]]
-- Later: 2026-09-14 · Claude Code · [[Changes/Claude Code/2026-09-14-2-files-and-data-changes-in-v2-1-271|2 Files and Data changes in v2.1.271]]
+- Earlier: 2026-09-09 · OpenHands · [[Changes/OpenHands/2026-09-09-4-files-and-data-changes-in-v1-17-0|4 Files and Data changes in v1.17.0]]
+- Later: 2026-09-11 · OpenHands · [[Changes/OpenHands/2026-09-11-2-files-and-data-changes-in-v1-18-0|2 Files and Data changes in v1.18.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

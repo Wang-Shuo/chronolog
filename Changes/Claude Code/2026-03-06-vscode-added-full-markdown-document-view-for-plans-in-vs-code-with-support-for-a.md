@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 49755d88830a5ecfafb58c1aed951d1f52d7183f0292681e1f631fefbc633c50
+machine_hash: 631e44a700573360b4def951958b7e0297e6c6d7f2d5c63ee89c82064d4cbf1b
 product: claude-code
 product_name: Claude Code
 record:
@@ -47,12 +47,12 @@ record:
   title: '[VSCode] Added full markdown document view for plans in VS Code, with support…'
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-02-04-improved-pdf-and-request-size-error-messages-to-show-actual-limits-100-pages-20m|Improved
-  PDF and request size error messages to show actual limits (100 pages, 20MB)]]'
-- '[[Changes/ChatGPT/2026-02-13-expanded-file-type-support-we-now-support-additional-text-and-code-file-formats|Expanded
-  file type support]]'
 - '[[Changes/ChatGPT/2026-02-27-export-visuals-from-code-blocks-flowcharts-diagrams-and-data-visualizations-crea|Export
   visuals from Code Blocks]]'
+- '[[Changes/Codex CLI/2026-03-05-4-files-and-data-changes-in-rust-v0-110-0|4 Files
+  and Data changes in rust-v0.110.0]]'
+- '[[Changes/Codex CLI/2026-03-05-added-sample-skill-documentation-for-artifact-workflows-including-slide-deck-and|Added
+  sample skill documentation for artifact workflows, including slide deck…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-03-06-v2-1-70-github-293754953-afac13c0|claude-code-2026-03-06-v2-1-70-github-293754953-afac13c0]]'
 source_type: github_releases
 theme: file-data
@@ -85,8 +85,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Files and Data
 
-- Earlier: 2026-02-27 · ChatGPT · [[Changes/ChatGPT/2026-02-27-export-visuals-from-code-blocks-flowcharts-diagrams-and-data-visualizations-crea|Export visuals from Code Blocks]]
-- Later: 2026-04-13 · Cursor · [[Changes/Cursor/2026-04-13-plan-tabs-now-get-the-same-document-behaviors-as-files-support-for-reliable-load|Plan tabs now get the same document behaviors as files]]
+- Earlier: 2026-03-05 · Codex CLI · [[Changes/Codex CLI/2026-03-05-added-sample-skill-documentation-for-artifact-workflows-including-slide-deck-and|Added sample skill documentation for artifact workflows, including slide deck…]]
+- Later: 2026-03-09 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-03-09-document-gh-host-http-proxy-https-proxy-no-color-and-no-proxy-environment-variab|Document GH_HOST, HTTP_PROXY, HTTPS_PROXY, NO_COLOR, and NO_PROXY environment…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

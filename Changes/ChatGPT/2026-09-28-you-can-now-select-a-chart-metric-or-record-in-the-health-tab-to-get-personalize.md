@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: fd533607af02e32b7e971c0889389fce523daa275d5fd83236d091cdeef05821
+machine_hash: b5fe468bf203a5ffe8b3426e40ddef8d000555acbcdca5d946d6a4ba625e6eea
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -44,12 +44,12 @@ record:
   title: Explore your health data with personalized summaries
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-17-vscode-added-a-claudecode-lockeditorgroups-setting-to-stop-claude-from-locking-t|VSCode
-  Added a claudeCode.lockEditorGroups setting to stop Claude from locking…]]'
-- '[[Changes/Claude Code/2026-09-18-2-editor-experience-changes-in-v2-1-277|2 Editor
-  Experience changes in v2.1.277]]'
 - '[[Changes/Claude Code/2026-09-22-vscode-changed-open-in-new-tab-to-open-claude-beside-the-editor-group-you-are-wo|VSCode
   Changed "Open in New Tab" to open Claude beside the editor group you…]]'
+- '[[Changes/Codex CLI/2026-09-22-6-editor-experience-changes-in-rust-v0-156-0|6 Editor
+  Experience changes in rust-v0.156.0]]'
+- '[[Changes/GitHub Copilot CLI/2026-09-22-in-the-sessions-tab-rows-you-can-dismiss-now-take-x-then-x-again-to-confirm-a-lo|In
+  the Sessions tab, rows you can dismiss now take x then x again to confirm]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-09-28-explore-your-health-data-with-personalized-summaries-bc04c126|chatgpt-2026-09-28-explore-your-health-data-with-personalized-summaries-bc04c126]]'
 source_type: chatgpt_changelog
 theme: editor-experience
@@ -76,7 +76,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2026-09-22 · Claude Code · [[Changes/Claude Code/2026-09-22-vscode-changed-open-in-new-tab-to-open-claude-beside-the-editor-group-you-are-wo|VSCode Changed "Open in New Tab" to open Claude beside the editor group you…]]
+- Earlier: 2026-09-22 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-09-22-in-the-sessions-tab-rows-you-can-dismiss-now-take-x-then-x-again-to-confirm-a-lo|In the Sessions tab, rows you can dismiss now take x then x again to confirm]]
 - Later: 2026-09-28 · Claude Code · [[Changes/Claude Code/2026-09-28-changed-ultracode-into-its-own-toggle-in-effort-tab-or-effort-ultracode-on-off-i|Changed Ultracode into its own toggle in /effort (Tab, or /effort ultracode on / off)]]
 <!-- chronolog:end -->
 

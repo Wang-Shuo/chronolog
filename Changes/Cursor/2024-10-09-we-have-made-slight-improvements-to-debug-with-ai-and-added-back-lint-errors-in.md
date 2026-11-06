@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 1b58ad11a1b9ddd8e2f22d498106e3631397394242b43c1c3d336e9572608c86
+machine_hash: afb57ba85c68582b2e480ed746ea0dd3f57100908ee056554e9f593b54e8207a
 product: cursor
 product_name: Cursor
 record:
@@ -44,12 +44,12 @@ record:
     in Chat
   type: change
 related_changes:
-- '[[Changes/Cursor/2024-06-08-remote-tunnels-are-now-supported-remote-ssh-support-is-also-more-robust-now-supp|Remote
-  tunnels are now supported!]]'
-- '[[Changes/Cursor/2024-07-03-when-the-chat-suggests-a-code-block-click-apply-to-instantly-see-the-change-to-t|When
-  the chat suggests a code block, click "Apply" to instantly see the change…]]'
-- '[[Changes/Cursor/2024-09-17-we-ve-added-support-for-using-cursor-on-macs-over-remote-ssh|Cursor
-  adds support for using Cursor on Macs over Remote SSH]]'
+- '[[Changes/Cline/2024-09-21-improved-automatic-linter-compiler-debugging-by-only-sending-claude-new-errors-t|Improved
+  automatic linter/compiler debugging by only sending Claude new errors…]]'
+- '[[Changes/OpenHands/2024-09-30-bash-commands-do-not-block-the-main-runtime-by-tofarr-in-https-github-com-all-ha|Bash
+  commands do not block the main runtime]]'
+- '[[Changes/Aider/2024-10-04-3-developer-workflow-changes-in-v0-59-0|3 Developer
+  Workflow changes in v0.59.0]]'
 source_release: '[[Releases/Cursor/cursor-2024-10-09-0-42-x-https-cursor-com-changelog-0-42-x-71ecd9d1|cursor-2024-10-09-0-42-x-https-cursor-com-changelog-0-42-x-71ecd9d1]]'
 source_type: cursor_changelog
 theme: developer-workflow
@@ -83,8 +83,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2024-09-17 · Cursor · [[Changes/Cursor/2024-09-17-we-ve-added-support-for-using-cursor-on-macs-over-remote-ssh|Cursor adds support for using Cursor on Macs over Remote SSH]]
-- Later: 2024-12-17 · Cursor · [[Changes/Cursor/2024-12-17-agent-sees-terminal-exit-codes-can-run-commands-in-the-background-and-commands-a-4f6044|Agent sees terminal exit codes, can run commands in the background, and commands…]]
+- Earlier: 2024-10-04 · Aider · [[Changes/Aider/2024-10-04-3-developer-workflow-changes-in-v0-59-0|3 Developer Workflow changes in v0.59.0]]
+- Later: 2024-10-31 · OpenHands · [[Changes/OpenHands/2024-10-31-split-bash-commands-by-the-new-line-character-by-tofarr-in-https-github-com-all|Split bash commands by the new line character]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

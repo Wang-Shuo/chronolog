@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 50a4c9eaf0094fe1786a76fba85b1aab2584ebff43ac0b8b63161e99efde14d7
+machine_hash: 63e07ca7faeed45680a0e7bd11b1e01036acf3f36d5e46ab54565b99b5e12de6
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -54,12 +54,12 @@ record:
   title: You can learn more about how ChatGPT uses connected apps here
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-10-16-present-or-export-present-directly-from-chatgpt-on-the-web-export-to-powerpoint|Present
-  or export. Present directly from ChatGPT]]'
-- '[[Changes/Claude Code/2026-10-19-windows-improved-git-command-start-up-with-a-standard-git-for-windows-install-by|Windows:
-  Improved git command start-up with a standard Git for Windows install…]]'
-- '[[Changes/Claude Code/2026-10-22-changed-the-dangerous-rm-and-rmdir-prompt-in-bypass-permissions-mode-in-the-desk|Changed
-  the dangerous rm and rmdir prompt in bypass permissions mode…]]'
+- '[[Changes/OpenHands/2026-10-23-the-app-isn-t-signed-with-an-apple-developer-id-yet-so-macos-may-call-a-6f8043|The
+  app isn''t signed with an Apple Developer ID yet, so macOS may call a]]'
+- '[[Changes/Windsurf/2026-10-23-on-windows-wsl-distros-can-be-used-as-remote-agent-hosts-alongside-ssh-hosts-and|On
+  Windows, WSL distros can be used as remote agent hosts alongside SSH hosts…]]'
+- '[[Changes/Windsurf/2026-10-26-on-macos-banners-at-the-top-of-the-window-no-longer-interfere-with-the-window-co|On
+  macOS, banners at the top of the window no longer interfere with the window controls]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-10-27-icloud-mail-and-calendar-plugins-in-chatgpt-216bf9bc|chatgpt-2026-10-27-icloud-mail-and-calendar-plugins-in-chatgpt-216bf9bc]]'
 source_type: chatgpt_changelog
 theme: mobile-desktop
@@ -88,8 +88,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2026-10-22 · Claude Code · [[Changes/Claude Code/2026-10-22-changed-the-dangerous-rm-and-rmdir-prompt-in-bypass-permissions-mode-in-the-desk|Changed the dangerous rm and rmdir prompt in bypass permissions mode…]]
-- Later: 2026-10-30 · Claude Code · [[Changes/Claude Code/2026-10-30-2-mobile-and-desktop-changes-in-v2-1-314|2 Mobile and Desktop changes in v2.1.314]]
+- Earlier: 2026-10-26 · Windsurf · [[Changes/Windsurf/2026-10-26-on-macos-banners-at-the-top-of-the-window-no-longer-interfere-with-the-window-co|On macOS, banners at the top of the window no longer interfere with the window controls]]
+- Later: 2026-10-27 · OpenHands · [[Changes/OpenHands/2026-10-27-the-app-isn-t-signed-with-an-apple-developer-id-yet-so-macos-may-call-a|The app isn't signed with an Apple Developer ID yet, so macOS may call a]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 46292193f6607bbc19e0be0870ff94f699b49cb3414500077ff17a5a94ed4283
+machine_hash: 1b1b3df0626b29f822098d6103858d92fb21274d464b2e4617af3ec25ff25f01
 product: claude-code
 product_name: Claude Code
 record:
@@ -104,12 +104,12 @@ record:
   title: 17 Apps and Integrations changes in v2.1.281
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-17-added-plugin-install-plugin-marketplace-source-which-offers-to-add-the-marketpla|Added
-  /plugin install plugin --marketplace source, which offers to add…]]'
-- '[[Changes/Claude Code/2026-09-18-6-apps-and-integrations-changes-in-v2-1-277|6
-  Apps and Integrations changes in v2.1.277]]'
-- '[[Changes/Claude Code/2026-09-22-8-apps-and-integrations-changes-in-v2-1-280|8
-  Apps and Integrations changes in v2.1.280]]'
+- '[[Changes/GitHub Copilot CLI/2026-09-22-6-apps-and-integrations-changes-in-v1-0-88|6
+  Apps and Integrations changes in v1.0.88]]'
+- '[[Changes/OpenHands/2026-09-22-test-cover-mcp-config-utilities-by-aivong-openhands-in-https-github-com-openhand|test:
+  cover MCP config utilities]]'
+- '[[Changes/OpenHands/2026-09-22-feat-test-remote-mcp-servers-on-cloud-backends-via-the-app-server-by-hieptl-in-h|feat:
+  test remote MCP servers on cloud backends via the app server]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-23-v2-1-281-github-394877414-9173ae95|claude-code-2026-09-23-v2-1-281-github-394877414-9173ae95]]'
 source_type: github_releases
 theme: apps-integrations
@@ -182,7 +182,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.281
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-09-22 · Claude Code · [[Changes/Claude Code/2026-09-22-8-apps-and-integrations-changes-in-v2-1-280|8 Apps and Integrations changes in v2.1.280]]
+- Earlier: 2026-09-22 · OpenHands · [[Changes/OpenHands/2026-09-22-feat-test-remote-mcp-servers-on-cloud-backends-via-the-app-server-by-hieptl-in-h|feat: test remote MCP servers on cloud backends via the app server]]
 - Later: 2026-09-23 · Cursor · [[Changes/Cursor/2026-09-23-integrations|Integrations]]
 <!-- chronolog:end -->
 

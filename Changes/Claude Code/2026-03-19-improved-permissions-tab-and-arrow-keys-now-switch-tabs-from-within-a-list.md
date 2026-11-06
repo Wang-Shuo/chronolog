@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: da20c5bf1635502ee3714d37cf6e69ed53732dbf834972d2cd10b0f760861a2c
+machine_hash: e470b0ff69f4945c4b13df823a90358bfa3f4d52a61bd4334db86d7950534d91
 product: claude-code
 product_name: Claude Code
 record:
@@ -43,12 +43,12 @@ record:
     a list
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-03-04-install-the-cursor-acp-directly-in-your-jetbrains-ide-from-the-acp-registry-and|Install
-  the Cursor ACP directly in your JetBrains IDE from the ACP Registry…]]'
-- '[[Changes/Claude Code/2026-03-10-vscode-added-vscode-anthropic-claude-code-open-uri-handler-to-open-a-new-claude|VSCode:
-  Added vscode://anthropic.claude-code/open URI handler to open a new Claude…]]'
-- '[[Changes/Claude Code/2026-03-17-vscode-improved-plan-preview-tab-titles-to-use-the-plan-s-heading-instead-of-cla|VSCode
-  Improved plan preview tab titles to use the plan''s heading instead…]]'
+- '[[Changes/Gemini CLI/2026-03-17-feat-core-improve-file-autocomplete-to-prioritize-filenames-by-sehoon38-in-https|feat(core):
+  improve @file autocomplete to prioritize filenames]]'
+- '[[Changes/GitHub Copilot CLI/2026-03-17-tab-bar-selected-tab-uses-compact-label-style-with-cleaner-spacing|Tab
+  bar selected tab uses compact label style with cleaner spacing]]'
+- '[[Changes/GitHub Copilot CLI/2026-03-18-mouse-scroll-works-correctly-in-tmux-after-returning-from-an-external-editor|Mouse
+  scroll works correctly in tmux after returning from an external editor]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-03-19-v2-1-80-github-299176707-1bfcfc3a|claude-code-2026-03-19-v2-1-80-github-299176707-1bfcfc3a]]'
 source_type: github_releases
 theme: editor-experience
@@ -81,8 +81,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2026-03-17 · Claude Code · [[Changes/Claude Code/2026-03-17-vscode-improved-plan-preview-tab-titles-to-use-the-plan-s-heading-instead-of-cla|VSCode Improved plan preview tab titles to use the plan's heading instead…]]
-- Later: 2026-03-25 · Claude Code · [[Changes/Claude Code/2026-03-25-3-editor-experience-changes-in-v2-1-83|3 Editor Experience changes in v2.1.83]]
+- Earlier: 2026-03-18 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-03-18-mouse-scroll-works-correctly-in-tmux-after-returning-from-an-external-editor|Mouse scroll works correctly in tmux after returning from an external editor]]
+- Later: 2026-03-20 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-03-20-elicitation-form-shows-shift-tab-hint-for-navigating-between-fields-in-reverse|Elicitation form shows Shift+Tab hint for navigating between fields in reverse]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

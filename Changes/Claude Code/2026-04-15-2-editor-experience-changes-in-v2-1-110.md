@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 8c82c0249bdc0b9234e4cb85349b0a9a4559e0a5b36e0c6f1072dc68a08ad2df
+machine_hash: 16ab8a2d11b8182684c90cce05820d9a9ec023adf28787990538df6b1bc52851
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,12 +45,12 @@ record:
   title: 2 Editor Experience changes in v2.1.110
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-04-08-4-editor-experience-changes-in-v2-1-97|4 Editor
-  Experience changes in v2.1.97]]'
-- '[[Changes/Claude Code/2026-04-09-2-editor-experience-changes-in-v2-1-98|2 Editor
-  Experience changes in v2.1.98]]'
+- '[[Changes/GitHub Copilot CLI/2026-04-10-redesign-exit-screen-with-copilot-mascot-and-cleaner-usage-summary-layout|Redesign
+  exit screen with Copilot mascot and cleaner usage summary layout]]'
 - '[[Changes/Cursor/2026-04-13-3-editor-experience-changes-in-3-1|3 Editor Experience
   changes in 3.1]]'
+- '[[Changes/GitHub Copilot CLI/2026-04-14-2-editor-experience-changes-in-v1-0-26|2
+  Editor Experience changes in v1.0.26]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-04-15-v2-1-110-github-309583669-83ce1e59|claude-code-2026-04-15-v2-1-110-github-309583669-83ce1e59]]'
 source_type: github_releases
 theme: editor-experience
@@ -90,8 +90,8 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.110
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2026-04-13 · Cursor · [[Changes/Cursor/2026-04-13-3-editor-experience-changes-in-3-1|3 Editor Experience changes in 3.1]]
-- Later: 2026-04-16 · Claude Code · [[Changes/Claude Code/2026-04-16-transcript-view-footer-now-shows-dump-to-scrollback-and-v-open-in-editor-shortcu|Transcript view footer now shows  (dump to scrollback) and v (open in editor)…]]
+- Earlier: 2026-04-14 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-04-14-2-editor-experience-changes-in-v1-0-26|2 Editor Experience changes in v1.0.26]]
+- Later: 2026-04-15 · Codex CLI · [[Changes/Codex CLI/2026-04-15-added-realtime-and-app-server-apis-for-output-modality-transcript-completion-eve|Added realtime and app-server APIs for output modality, transcript completion…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

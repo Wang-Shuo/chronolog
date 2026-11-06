@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: policy
-machine_hash: b7b78cb4c4baf7b1ab303b420d7bdbbd818d5ca6573bfb42cf8021d3bf99666c
+machine_hash: 284780c258eaf041364ebd9829bd5146742966ee10f50e6079ff36fc9ac33d84
 product: claude-code
 product_name: Claude Code
 record:
@@ -47,12 +47,12 @@ record:
   title: Added `/usage-credits` for Enterprise organizations billed through AWS Marketplace…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-08-04-changed-fast-mode-to-report-on-the-stream-when-usage-credits-run-out-mid-session|Changed
-  fast mode to report on the stream when usage credits run out mid-session…]]'
-- '[[Changes/Claude Code/2026-08-19-usage-now-shows-the-usage-credits-spend-row-for-team-and-enterprise-members-and|/usage
-  now shows the usage-credits spend row for Team and Enterprise members…]]'
-- '[[Changes/Claude Code/2026-08-21-persistent-retry-mode-claude-code-retry-watchdog-now-fails-immediately-on-organi|Persistent
-  retry mode (CLAUDE_CODE_RETRY_WATCHDOG) now fails immediately…]]'
+- '[[Changes/Cline/2026-08-21-show-the-billed-cost-for-cline-gateway-usage|Show the
+  billed cost for Cline gateway usage]]'
+- '[[Changes/Cline/2026-08-26-cost-estimates-are-no-longer-shown-for-providers-billed-by-a-flat-rate-subscript|Cost
+  estimates are no longer shown for providers billed by a flat-rate subscription…]]'
+- '[[Changes/Codex CLI/2026-08-26-40488-export-turn-cost-as-an-otel-metric-copyberry|♯40488
+  Export turn cost as an OTEL metric @copyberry]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-08-27-v2-1-248-github-378106990-677106e3|claude-code-2026-08-27-v2-1-248-github-378106990-677106e3]]'
 source_type: github_releases
 theme: pricing-model
@@ -88,7 +88,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Pricing Model
 
-- Earlier: 2026-08-21 · Claude Code · [[Changes/Claude Code/2026-08-21-persistent-retry-mode-claude-code-retry-watchdog-now-fails-immediately-on-organi|Persistent retry mode (CLAUDE_CODE_RETRY_WATCHDOG) now fails immediately…]]
+- Earlier: 2026-08-26 · Codex CLI · [[Changes/Codex CLI/2026-08-26-40488-export-turn-cost-as-an-otel-metric-copyberry|♯40488 Export turn cost as an OTEL metric @copyberry]]
 - Later: 2026-08-28 · Claude Code · [[Changes/Claude Code/2026-08-28-added-a-per-session-prompt-cache-line-to-cost-hit-ratio-misses-tokens-re-cached|Added a per-session prompt-cache line to /cost…]]
 <!-- chronolog:end -->
 

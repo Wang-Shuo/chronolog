@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 8b1a908f6df2e75d524b8ed932d696750f03e813744c81f228a5acd10a39b7d8
+machine_hash: f9a68fa792b53c882f67760fe7ff8c90d9072fbb420fc6a6e2bca3e031b27422
 product: cursor
 product_name: Cursor
 record:
@@ -100,7 +100,7 @@ type: change
 ## Nearby in Reliability and Performance
 
 - Earlier: 2026-06-02 · Claude Code · [[Changes/Claude Code/2026-06-02-improved-rendering-performance-for-large-file-writes|Improved rendering performance for large file writes]]
-- Later: 2026-06-10 · Claude Code · [[Changes/Claude Code/2026-06-10-improved-performance-in-long-conversations-by-removing-redundant-message-normali|Improved performance in long conversations by removing redundant message…]]
+- Later: 2026-06-09 · Codex CLI · [[Changes/Codex CLI/2026-06-09-26637-codex-speed-up-external-agent-session-imports-stefanstokic-oai|♯26637 codex Speed up external agent session imports @stefanstokic-oai]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

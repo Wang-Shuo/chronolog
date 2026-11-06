@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: e60aa76ff5a825ecb98e2e69c31af7531af6b5fe93af1829c60e3e4c4da135e0
+machine_hash: 58fe7b36d1d816d062761d299f732569c0483f9f977b1b63b08323ef898c3d5e
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,12 +45,12 @@ record:
   title: Added an announcement when fast mode changes as a result of switching models…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-07-11-changed-bedrock-vertex-and-claude-platform-on-aws-to-default-to-claude-opus-4-8|Changed
-  Bedrock, Vertex, and Claude Platform on AWS to default to Claude Opus 4.8]]'
-- '[[Changes/Claude Code/2026-07-14-improved-the-bash-powershell-tool-message-when-a-command-hits-its-timeout-and-is|Improved
-  the Bash/PowerShell tool message when a command hits its timeout…]]'
-- '[[Changes/Claude Code/2026-07-17-3-model-support-changes-in-v2-1-212|3 Model Support
-  changes in v2.1.212]]'
+- '[[Changes/Codex CLI/2026-07-18-3-model-support-changes-in-rust-v0-144-6|3 Model
+  Support changes in rust-v0.144.6]]'
+- '[[Changes/GitHub Copilot CLI/2026-07-20-preserve-pasted-prompt-content-when-changing-models-through-ctrl-x-model|Preserve
+  pasted prompt content when changing models through Ctrl+X /model]]'
+- '[[Changes/Codex CLI/2026-07-21-22-model-support-changes-in-rust-v0-145-0|22 Model
+  Support changes in rust-v0.145.0]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-07-22-v2-1-218-github-358276841-57d73db4|claude-code-2026-07-22-v2-1-218-github-358276841-57d73db4]]'
 source_type: github_releases
 theme: model-support
@@ -87,7 +87,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-07-17 · Claude Code · [[Changes/Claude Code/2026-07-17-3-model-support-changes-in-v2-1-212|3 Model Support changes in v2.1.212]]
+- Earlier: 2026-07-21 · Codex CLI · [[Changes/Codex CLI/2026-07-21-22-model-support-changes-in-rust-v0-145-0|22 Model Support changes in rust-v0.145.0]]
 - Later: 2026-07-22 · Cursor · [[Changes/Cursor/2026-07-22-cursor-router-is-our-intelligent-model-router-it-analyzes-each-request-and-sends|Cursor Router is our intelligent model router]]
 <!-- chronolog:end -->
 

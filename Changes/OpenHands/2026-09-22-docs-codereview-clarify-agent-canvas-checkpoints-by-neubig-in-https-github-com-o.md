@@ -1,0 +1,107 @@
+---
+card_id: openhands-2026-09-22-a560bb
+date: '2026-09-22'
+description: 'OpenHands · 2026-09-22 · Files and Data: docs(codereview): clarify Agent
+  Canvas checkpoints by @neubig in https://github.com/OpenHands/OpenHands/pull/17523'
+diffusion:
+  first_in_tracked: '[[Changes/ChatGPT/2023-07-06-we-re-rolling-out-code-interpreter-to-all-chatgpt-plus-users-over-the-next-week-66255e|Code
+    interpreter is now rolling out in beta on web]]'
+  inference: No adoption, equivalence, or causation claim.
+  lag_days: 1174
+  relation: same-theme-chronology
+  role: later-observed
+  scope: tracked-products-only
+  theme: file-data
+  tracked_products_count: 10
+evolves_from: []
+extractor_version: fallback-v5
+impact: paradigm-shift
+kind: change
+machine_hash: 271458dd103e7311e79303e534a3fae71cc242ca8835168006a913586b9d639b
+product: openhands
+product_name: OpenHands
+record:
+  ai_generated: true
+  card_id: openhands-2026-09-22-a560bb
+  comparison: ''
+  confidence: low
+  date: '2026-09-22'
+  description: 'OpenHands — v1.21.0: docs(codereview): clarify Agent Canvas checkpoints
+    by @neubig in https://github.com/OpenHands/OpenHands/pull/17523'
+  evidence:
+  - quote: 'docs(codereview): clarify Agent Canvas checkpoints by @neubig in https://github.com/OpenHands/OpenHands/pull/17523'
+    source_release: https://github.com/OpenHands/OpenHands/releases/tag/v1.21.0
+  extractor_version: fallback-v5
+  impact: paradigm-shift
+  kind: change
+  product: openhands
+  product_name: OpenHands
+  slug: docs-codereview-clarify-agent-canvas-checkpoints-by-neubig-in-https-github-com-o
+  source_release: openhands-2026-09-22-v1-21-0-github-393402961-64a1cf92
+  source_type: github_releases
+  theme: file-data
+  theme_matches:
+  - matched_terms:
+    - agent
+    score: 50
+    theme: agent-mode
+  - matched_terms:
+    - canvas
+    score: 50
+    theme: file-data
+  theme_resolution: manual-semantic-rule-v1
+  title: 'docs(codereview): clarify Agent Canvas checkpoints'
+  type: change
+related_changes:
+- '[[Changes/OpenHands/2026-09-16-feat-track-authenticated-canvas-arrivals-by-neubig-in-https-github-com-openhands|feat:
+  track authenticated Canvas arrivals]]'
+- '[[Changes/Claude Code/2026-09-17-claude-tag-removed-the-repeated-guest-attribution-note-claude-appended-to-a-slac|Claude
+  Tag Removed the repeated guest-attribution note Claude appended to a Slack…]]'
+- '[[Changes/Codex CLI/2026-09-22-46027-document-and-test-wildcards-in-network-proxy-domain-patterns-viyatb-oai|♯46027
+  Document and test ? wildcards in network proxy domain patterns @viyatb-oai]]'
+source_release: '[[Releases/OpenHands/openhands-2026-09-22-v1-21-0-github-393402961-64a1cf92|openhands-2026-09-22-v1-21-0-github-393402961-64a1cf92]]'
+source_type: github_releases
+theme: file-data
+title: 'docs(codereview): clarify Agent Canvas checkpoints'
+type: change
+---
+
+<!-- chronolog:begin region="header" -->
+# docs(codereview): clarify Agent Canvas checkpoints
+
+**OpenHands** · 2026-09-22 · [[Themes/file-data|Files and Data]] · [Official source](https://github.com/OpenHands/OpenHands/releases/tag/v1.21.0) · from [[Releases/OpenHands/openhands-2026-09-22-v1-21-0-github-393402961-64a1cf92|v1.21.0]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="evidence" -->
+> docs(codereview): clarify Agent Canvas checkpoints by @neubig in https://github.com/OpenHands/OpenHands/pull/17523
+>
+> Source: https://github.com/OpenHands/OpenHands/releases/tag/v1.21.0
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="context" -->
+## Also in this release
+
+- [[Changes/OpenHands/2026-09-22-docs-refresh-agents-md-guidance-by-all-hands-bot-in-https-github-com-openhands-o|docs: refresh AGENTS.md guidance]] · Agent Mode
+- [[Changes/OpenHands/2026-09-22-test-strengthen-llm-profile-configuration-by-aivong-openhands-in-https-github-co|test: strengthen LLM profile configuration]] · Model Support
+- [[Changes/OpenHands/2026-09-22-test-strengthen-shared-utility-behavior-by-aivong-openhands-in-https-github-com|test: strengthen shared utility behavior]] · Collaboration
+- [[Changes/OpenHands/2026-09-22-2-automation-and-scheduling-changes-in-v1-21-0|2 Automation and Scheduling changes in v1.21.0]] · Automation and Scheduling
+- [[Changes/OpenHands/2026-09-22-test-cover-mcp-config-utilities-by-aivong-openhands-in-https-github-com-openhand|test: cover MCP config utilities]] · Apps and Integrations
+- [[Changes/OpenHands/2026-09-22-4-other-changes-in-v1-21-0|4 other changes in v1.21.0]] · Other changes
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="nearby" -->
+## Nearby in Files and Data
+
+- Earlier: 2026-09-22 · Codex CLI · [[Changes/Codex CLI/2026-09-22-46027-document-and-test-wildcards-in-network-proxy-domain-patterns-viyatb-oai|♯46027 Document and test ? wildcards in network proxy domain patterns @viyatb-oai]]
+- Later: 2026-09-22 · OpenHands · [[Changes/OpenHands/2026-09-22-docs-review-add-repository-and-product-scope-to-the-canvas-review-guide-by-all-h|docs(review): add repository and product scope to the Canvas review guide]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="relations" -->
+## Related
+
+- Earliest same-theme entry in the tracked set: 2023-07-06 · ChatGPT · [[Changes/ChatGPT/2023-07-06-we-re-rolling-out-code-interpreter-to-all-chatgpt-plus-users-over-the-next-week-66255e|Code interpreter is now rolling out in beta on web]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="footer" -->
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20openhands-2026-09-22-a560bb&body=Card%3A%20Changes%2FOpenHands%2F2026-09-22-docs-codereview-clarify-agent-canvas-checkpoints-by-neubig-in-https-github-com-o.md%0ACard%20ID%3A%20openhands-2026-09-22-a560bb%0ASource%3A%20https%3A%2F%2Fgithub.com%2FOpenHands%2FOpenHands%2Freleases%2Ftag%2Fv1.21.0%0A%0AWhat%20should%20be%20corrected%3F%0A)
+<!-- chronolog:end -->

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: e84d799f3f07c3a24248a34b17493e8de4497abc3fba540e8c8dc069396b69f3
+machine_hash: 9c2b118c1dad6ea57577eab10f155d336a8509c750ca1ccaff2478f321a1e0a7
 product: cursor
 product_name: Cursor
 record:
@@ -48,12 +48,12 @@ record:
   title: 3 Interface Experience changes in 2.5
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-02-13-simplified-composer-the-message-composer-has-been-streamlined-to-reduce-visual-c|Simplified
-  composer]]'
 - '[[Changes/Claude Code/2026-02-13-improved-narrow-terminal-layout-for-prompt-footer|Improved
   narrow terminal layout for prompt footer]]'
 - '[[Changes/Claude Code/2026-02-17-added-spinnertipsoverride-setting-to-customize-spinner-tips-configure-tips-with|Added
   spinnerTipsOverride setting to customize spinner tips]]'
+- '[[Changes/Codex CLI/2026-02-17-3-interface-experience-changes-in-rust-v0-102-0|3
+  Interface Experience changes in rust-v0.102.0]]'
 source_release: '[[Releases/Cursor/cursor-2026-02-17-2-5-https-cursor-com-changelog-2-5-82892320|cursor-2026-02-17-2-5-https-cursor-com-changelog-2-5-82892320]]'
 source_type: cursor_changelog
 theme: interface-experience
@@ -98,8 +98,8 @@ Source: https://cursor.com/changelog/2-5
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-02-17 · Claude Code · [[Changes/Claude Code/2026-02-17-added-spinnertipsoverride-setting-to-customize-spinner-tips-configure-tips-with|Added spinnerTipsOverride setting to customize spinner tips]]
-- Later: 2026-02-18 · Claude Code · [[Changes/Claude Code/2026-02-18-3-interface-experience-changes-in-v2-1-47|3 Interface Experience changes in v2.1.47]]
+- Earlier: 2026-02-17 · Codex CLI · [[Changes/Codex CLI/2026-02-17-3-interface-experience-changes-in-rust-v0-102-0|3 Interface Experience changes in rust-v0.102.0]]
+- Later: 2026-02-17 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-02-17-4-interface-experience-changes-in-v0-0-411|4 Interface Experience changes in v0.0.411]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

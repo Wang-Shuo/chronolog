@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: af9b935413b1b1c0a5e6c53e38d79fe30a18f0a31be254c7a344e30c571d78c8
+machine_hash: 80b50693ce5e9ddd2c48434f52eaad5373fc7a846f01b0aef66680a27c844bac
 product: claude-code
 product_name: Claude Code
 record:
@@ -46,10 +46,10 @@ record:
     and no hook…'
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-14-improved-the-error-shown-when-a-cloud-session-is-refused-because-your-claude-ai|Improved
-  the error shown when a cloud session is refused because your claude.ai…]]'
 - '[[Changes/Claude Code/2026-10-16-added-a-notice-to-design-sync-and-design-login-that-standalone-claude-design-cla|Added
   a notice to /design-sync and /design-login that standalone Claude Design…]]'
+- '[[Changes/GitHub Copilot CLI/2026-10-19-3-account-and-access-changes-in-v1-0-100|3
+  Account and Access changes in v1.0.100]]'
 - '[[Changes/ChatGPT/2026-10-20-locked-chats-let-you-keep-selected-conversations-in-your-account-while-hiding-th|Introducing
   locked chats]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-10-20-v2-1-305-github-418781864-90995baa|claude-code-2026-10-20-v2-1-305-github-418781864-90995baa]]'
@@ -88,7 +88,7 @@ type: change
 ## Nearby in Account and Access
 
 - Earlier: 2026-10-20 · ChatGPT · [[Changes/ChatGPT/2026-10-20-locked-chats-let-you-keep-selected-conversations-in-your-account-while-hiding-th|Introducing locked chats]]
-- Later: 2026-10-21 · Claude Code · [[Changes/Claude Code/2026-10-21-2-account-and-access-changes-in-v2-1-307|2 Account and Access changes in v2.1.307]]
+- Later: 2026-10-20 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-10-20-4-account-and-access-changes-in-v1-0-101|4 Account and Access changes in v1.0.101]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

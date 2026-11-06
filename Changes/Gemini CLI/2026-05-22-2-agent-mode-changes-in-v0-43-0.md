@@ -1,0 +1,105 @@
+---
+card_id: gemini-cli-2026-05-22-ce7613
+date: '2026-05-22'
+description: 'Gemini CLI · 2026-05-22 · Agent Mode: 2 changes in Release v0.43.0 —
+  refactor(core): agent session protocol changes by @adamfweidman in…'
+diffusion:
+  first_in_tracked: '[[Changes/Cursor/2023-07-06-welcome-to-the-first-nightly-release-it-comes-with-agents-which-we-aren-t-releas|Agents,
+    new docs]]'
+  inference: No adoption, equivalence, or causation claim.
+  lag_days: 1051
+  relation: same-theme-chronology
+  role: later-observed
+  scope: tracked-products-only
+  theme: agent-mode
+  tracked_products_count: 10
+evolves_from: []
+extractor_version: fallback-v5
+impact: incremental
+kind: digest
+machine_hash: c509572da95202b2c831517c07122c6259c10ea3ca1b1b335bd60f39be620554
+product: gemini-cli
+product_name: Gemini CLI
+record:
+  card_id: gemini-cli-2026-05-22-ce7613
+  comparison: ''
+  date: '2026-05-22'
+  description: 'Gemini CLI — Release v0.43.0: 2 Agent Mode changes'
+  evidence:
+  - quote: 'refactor(core): agent session protocol changes by @adamfweidman in https://github.com/google-gemini/gemini-cli/pull/26661'
+    source_release: https://github.com/google-gemini/gemini-cli/releases/tag/v0.43.0
+  - quote: Incremental refactor repo agent towards skills-based composition by @gundermanc
+      in https://github.com/google-gemini/gemini-cli/pull/26717
+    source_release: https://github.com/google-gemini/gemini-cli/releases/tag/v0.43.0
+  extractor_version: fallback-v5
+  impact: incremental
+  kind: digest
+  product: gemini-cli
+  product_name: Gemini CLI
+  slug: 2-agent-mode-changes-in-v0-43-0
+  source_release: gemini-cli-2026-05-22-v0-43-0-github-327485557-9b4df16a
+  source_type: github_releases
+  theme: agent-mode
+  title: 2 Agent Mode changes in v0.43.0
+  type: change
+related_changes:
+- '[[Changes/GitHub Copilot CLI/2026-05-20-remote-command-can-now-be-used-while-the-agent-is-working|/remote
+  command can now be used while the agent is working]]'
+- '[[Changes/Claude Code/2026-05-21-auto-mode-no-longer-suppresses-askuserquestion-when-the-user-or-a-skill-explicit|Auto
+  mode no longer suppresses AskUserQuestion when the user or a skill explicitly…]]'
+- '[[Changes/Codex CLI/2026-05-21-7-agent-mode-changes-in-rust-v0-133-0|7 Agent Mode
+  changes in rust-v0.133.0]]'
+source_release: '[[Releases/Gemini CLI/gemini-cli-2026-05-22-v0-43-0-github-327485557-9b4df16a|gemini-cli-2026-05-22-v0-43-0-github-327485557-9b4df16a]]'
+source_type: github_releases
+theme: agent-mode
+title: 2 Agent Mode changes in v0.43.0
+type: change
+---
+
+<!-- chronolog:begin region="header" -->
+# 2 Agent Mode changes in v0.43.0
+
+**Gemini CLI** · 2026-05-22 · [[Themes/agent-mode|Agent Mode]] · Digest · [Official source](https://github.com/google-gemini/gemini-cli/releases/tag/v0.43.0) · from [[Releases/Gemini CLI/gemini-cli-2026-05-22-v0-43-0-github-327485557-9b4df16a|Release v0.43.0]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="evidence" -->
+## Changes in this digest
+
+> refactor(core): agent session protocol changes by @adamfweidman in https://github.com/google-gemini/gemini-cli/pull/26661
+
+> Incremental refactor repo agent towards skills-based composition by @gundermanc in https://github.com/google-gemini/gemini-cli/pull/26717
+
+Source: https://github.com/google-gemini/gemini-cli/releases/tag/v0.43.0
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="context" -->
+## Also in this release
+
+- [[Changes/Gemini CLI/2026-05-22-2-interface-experience-changes-in-v0-43-0|2 Interface Experience changes in v0.43.0]] · Interface Experience
+- [[Changes/Gemini CLI/2026-05-22-2-memory-and-personalization-changes-in-v0-43-0|2 Memory and Personalization changes in v0.43.0]] · Memory and Personalization
+- [[Changes/Gemini CLI/2026-05-22-docs-add-vi-mode-shortcuts-and-clarify-mcp-custom-sandbox-setup-by-chrisjcthomas|docs: add vi mode shortcuts and clarify MCP/custom sandbox setup]] · Safety and Privacy
+- [[Changes/Gemini CLI/2026-05-22-ci-implement-codebase-aware-effort-level-triage-by-cocosheng-g-in-https-github-c|ci: implement codebase-aware effort level triage]] · Editor Experience
+- [[Changes/Gemini CLI/2026-05-22-ci-release-build-and-attach-unsigned-macos-binaries-to-releases-by-ruomengz-in-h|ci(release): build and attach unsigned macOS binaries to releases]] · Mobile and Desktop
+- [[Changes/Gemini CLI/2026-05-22-2-model-support-changes-in-v0-43-0|2 Model Support changes in v0.43.0]] · Model Support
+- [[Changes/Gemini CLI/2026-05-22-3-context-window-changes-in-v0-43-0|3 Context Window changes in v0.43.0]] · Context Window
+- [[Changes/Gemini CLI/2026-05-22-feat-evals-add-shell-command-safety-evals-by-akh64bit-in-https-github-com-google|feat(evals): add shell command safety evals]] · Developer Workflow
+- [[Changes/Gemini CLI/2026-05-22-docs-extensions-refactor-releasing-guide-and-add-update-mechanisms-by-ruomengz-i|docs(extensions): refactor releasing guide and add update mechanisms]] · Apps and Integrations
+- [[Changes/Gemini CLI/2026-05-22-14-other-changes-in-v0-43-0|14 other changes in v0.43.0]] · Other changes
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="nearby" -->
+## Nearby in Agent Mode
+
+- Earlier: 2026-05-21 · Codex CLI · [[Changes/Codex CLI/2026-05-21-7-agent-mode-changes-in-rust-v0-133-0|7 Agent Mode changes in rust-v0.133.0]]
+- Later: 2026-05-23 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-05-23-custom-agents-support-opt-in-deferred-tool-loading-via-deferred-tool-loading-in|Custom agents support opt-in deferred tool loading via deferred-tool-loading…]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="relations" -->
+## Related
+
+- Earliest same-theme entry in the tracked set: 2023-07-06 · Cursor · [[Changes/Cursor/2023-07-06-welcome-to-the-first-nightly-release-it-comes-with-agents-which-we-aren-t-releas|Agents, new docs]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="footer" -->
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20gemini-cli-2026-05-22-ce7613&body=Card%3A%20Changes%2FGemini%20CLI%2F2026-05-22-2-agent-mode-changes-in-v0-43-0.md%0ACard%20ID%3A%20gemini-cli-2026-05-22-ce7613%0ASource%3A%20https%3A%2F%2Fgithub.com%2Fgoogle-gemini%2Fgemini-cli%2Freleases%2Ftag%2Fv0.43.0%0A%0AWhat%20should%20be%20corrected%3F%0A)
+<!-- chronolog:end -->

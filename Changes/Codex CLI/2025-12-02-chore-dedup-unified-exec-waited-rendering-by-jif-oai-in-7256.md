@@ -1,0 +1,101 @@
+---
+card_id: codex-cli-2025-12-02-f93156
+date: '2025-12-02'
+description: 'Codex CLI · 2025-12-02 · Interface Experience: chore: dedup unified
+  exec "waited" rendering by @jif-oai in #7256'
+diffusion:
+  first_in_tracked: '[[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop
+    generating: Based on your feedback, we''ve added the ability to stop generating…]]'
+  inference: No adoption, equivalence, or causation claim.
+  lag_days: 1058
+  relation: same-theme-chronology
+  role: later-observed
+  scope: tracked-products-only
+  theme: interface-experience
+  tracked_products_count: 10
+evolves_from: []
+extractor_version: fallback-v5
+impact: incremental
+kind: change
+machine_hash: 6fa1bfec95d8e196ddebf00cd9a99baa1e40dc910ff3440789d53c2105d2d0a3
+product: codex-cli
+product_name: Codex CLI
+record:
+  card_id: codex-cli-2025-12-02-f93156
+  comparison: ''
+  date: '2025-12-02'
+  description: 'Codex CLI — 0.64.0: chore: dedup unified exec "waited" rendering by
+    @jif-oai in #7256'
+  evidence:
+  - quote: 'chore: dedup unified exec "waited" rendering by @jif-oai in #7256'
+    source_release: https://github.com/openai/codex/releases/tag/rust-v0.64.0
+  extractor_version: fallback-v5
+  impact: incremental
+  kind: change
+  product: codex-cli
+  product_name: Codex CLI
+  slug: chore-dedup-unified-exec-waited-rendering-by-jif-oai-in-7256
+  source_release: codex-cli-2025-12-02-rust-v0-64-0-github-266901625-82376886
+  source_type: github_releases
+  theme: interface-experience
+  theme_matches: []
+  theme_resolution: manual-semantic-rule-v1
+  title: 'chore: dedup unified exec "waited" rendering by @jif-oai in #7256'
+  type: change
+related_changes:
+- '[[Changes/GitHub Copilot CLI/2025-11-24-improved-timeline-rendering-of-shell-tool-names|Improved
+  timeline rendering of shell tool names]]'
+- '[[Changes/Gemini CLI/2025-11-26-protect-stdout-and-stderr-so-javascript-code-can-t-accidentally-write-to-stdout|Protect
+  stdout and stderr so JavaScript code can''t accidentally write to stdout…]]'
+- '[[Changes/Cline/2025-12-02-4-interface-experience-changes-in-v3-39-0|4 Interface
+  Experience changes in v3.39.0]]'
+source_release: '[[Releases/Codex CLI/codex-cli-2025-12-02-rust-v0-64-0-github-266901625-82376886|codex-cli-2025-12-02-rust-v0-64-0-github-266901625-82376886]]'
+source_type: github_releases
+theme: interface-experience
+title: 'chore: dedup unified exec "waited" rendering by @jif-oai in ♯7256'
+type: change
+---
+
+<!-- chronolog:begin region="header" -->
+# chore: dedup unified exec "waited" rendering by @jif-oai in #7256
+
+**Codex CLI** · 2025-12-02 · [[Themes/interface-experience|Interface Experience]] · [Official source](https://github.com/openai/codex/releases/tag/rust-v0.64.0) · from [[Releases/Codex CLI/codex-cli-2025-12-02-rust-v0-64-0-github-266901625-82376886|0.64.0]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="evidence" -->
+> chore: dedup unified exec "waited" rendering by @jif-oai in #7256
+>
+> Source: https://github.com/openai/codex/releases/tag/rust-v0.64.0
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="context" -->
+## Also in this release
+
+- [[Changes/Codex CLI/2025-12-02-2-model-support-changes-in-rust-v0-64-0|2 Model Support changes in rust-v0.64.0]] · Model Support
+- [[Changes/Codex CLI/2025-12-02-5-context-window-changes-in-rust-v0-64-0|5 Context Window changes in rust-v0.64.0]] · Context Window
+- [[Changes/Codex CLI/2025-12-02-feat-support-login-as-an-option-on-shell-tool-mcp-by-bolinfest-in-7120|feat: support login as an option on shell-tool-mcp by @bolinfest in ♯7120]] · Account and Access
+- [[Changes/Codex CLI/2025-12-02-3-apps-and-integrations-changes-in-rust-v0-64-0|3 Apps and Integrations changes in rust-v0.64.0]] · Apps and Integrations
+- [[Changes/Codex CLI/2025-12-02-9-safety-and-privacy-changes-in-rust-v0-64-0|9 Safety and Privacy changes in rust-v0.64.0]] · Safety and Privacy
+- [[Changes/Codex CLI/2025-12-02-powershell-apply-patch-parsing-is-corrected-and-apply-patch-tests-now-cover-shel|PowerShell apply_patch parsing is corrected, and apply_patch tests now cover…]] · Agent Mode
+- [[Changes/Codex CLI/2025-12-02-4-developer-workflow-changes-in-rust-v0-64-0|4 Developer Workflow changes in rust-v0.64.0]] · Developer Workflow
+- [[Changes/Codex CLI/2025-12-02-execution-gains-an-experimental-exp-model-unified-exec-pruning-to-limit-session|Execution gains an experimental “exp” model, unified exec pruning to limit session…]] · Mobile and Desktop
+- [[Changes/Codex CLI/2025-12-02-3-editor-experience-changes-in-rust-v0-64-0|3 Editor Experience changes in rust-v0.64.0]] · Editor Experience
+- [[Changes/Codex CLI/2025-12-02-46-other-changes-in-rust-v0-64-0|46 other changes in rust-v0.64.0]] · Other changes
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="nearby" -->
+## Nearby in Interface Experience
+
+- Earlier: 2025-12-02 · Cline · [[Changes/Cline/2025-12-02-4-interface-experience-changes-in-v3-39-0|4 Interface Experience changes in v3.39.0]]
+- Later: 2025-12-04 · Codex CLI · [[Changes/Codex CLI/2025-12-04-3-interface-experience-changes-in-rust-v0-65-0|3 Interface Experience changes in rust-v0.65.0]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="relations" -->
+## Related
+
+- Earliest same-theme entry in the tracked set: 2023-01-09 · ChatGPT · [[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop generating: Based on your feedback, we've added the ability to stop generating…]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="footer" -->
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20codex-cli-2025-12-02-f93156&body=Card%3A%20Changes%2FCodex%20CLI%2F2025-12-02-chore-dedup-unified-exec-waited-rendering-by-jif-oai-in-7256.md%0ACard%20ID%3A%20codex-cli-2025-12-02-f93156%0ASource%3A%20https%3A%2F%2Fgithub.com%2Fopenai%2Fcodex%2Freleases%2Ftag%2Frust-v0.64.0%0A%0AWhat%20should%20be%20corrected%3F%0A)
+<!-- chronolog:end -->

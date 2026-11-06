@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: ff3762364a1ffb0e3d9cc320ce27ed9c942ad57dfba5e08b786b8847291dfa26
+machine_hash: 5f1824e066d119d53aeb3910baf04c2dd0d7e0dc52817fd7762f40f37ffc9e35
 product: claude-code
 product_name: Claude Code
 record:
@@ -42,10 +42,10 @@ record:
   title: Claude no longer runs the `/verify` and `/code-review` skills on its own
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-07-10-4-developer-workflow-changes-in-v2-1-206|4 Developer
-  Workflow changes in v2.1.206]]'
-- '[[Changes/Claude Code/2026-07-14-agent-view-ctrl-x-now-deletes-renamed-branch-worktrees-never-destroys-unpushed-c|Agent
-  view: Ctrl+X now deletes renamed-branch worktrees, never destroys unpushed…]]'
+- '[[Changes/Codex CLI/2026-07-16-2-developer-workflow-changes-in-rust-v0-144-5|2
+  Developer Workflow changes in rust-v0.144.5]]'
+- '[[Changes/GitHub Copilot CLI/2026-07-16-8-developer-workflow-changes-in-v1-0-71|8
+  Developer Workflow changes in v1.0.71]]'
 - '[[Changes/Claude Code/2026-07-17-changed-enterprise-forceloginmethod-to-be-enforced-for-vs-code-extension-sdk-set|Changed
   Enterprise forceLoginMethod to be enforced for VS Code extension, SDK…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-07-19-v2-1-215-github-356226333-6836aad6|claude-code-2026-07-19-v2-1-215-github-356226333-6836aad6]]'

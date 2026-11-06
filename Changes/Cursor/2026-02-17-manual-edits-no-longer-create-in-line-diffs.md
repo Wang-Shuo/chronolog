@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 3056051d8ee36587af7b3bc7efe1ada19ab9746f7a0c9b0ab1e6b2fc3e1a434c
+machine_hash: 0b604724c15f829b7b639f148a19c01022029d2155a42c6f0d01a2c507d7ef57
 product: cursor
 product_name: Cursor
 record:
@@ -43,12 +43,12 @@ record:
   title: Manual edits no longer create in-line diffs
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-01-22-2-editor-experience-changes-in-2-4|2 Editor Experience
-  changes in 2.4]]'
-- '[[Changes/Claude Code/2026-01-27-added-external-editor-shortcut-ctrl-g-to-the-help-menu-for-better-discoverabilit|Added
-  external editor shortcut (Ctrl+G) to the help menu for better discoverability]]'
-- '[[Changes/Claude Code/2026-01-28-improved-claude-to-prefer-file-operation-tools-read-edit-write-over-bash-equival|Improved
-  Claude to prefer file operation tools (Read, Edit, Write) over bash…]]'
+- '[[Changes/GitHub Copilot CLI/2026-02-14-3-editor-experience-changes-in-v0-0-410|3
+  Editor Experience changes in v0.0.410]]'
+- '[[Changes/Cline/2026-02-16-restore-reasoning-trace-visibility-in-chat-and-improve-the-thinking-row-ux-so-re|Restore
+  reasoning trace visibility in chat and improve the thinking row UX…]]'
+- '[[Changes/Cline/2026-02-17-restore-reasoning-trace-visibility-in-chat-and-improve-the-thinking-row-ux-so-re|Restore
+  reasoning trace visibility in chat and improve the thinking row UX…]]'
 source_release: '[[Releases/Cursor/cursor-2026-02-17-2-5-https-cursor-com-changelog-2-5-82892320|cursor-2026-02-17-2-5-https-cursor-com-changelog-2-5-82892320]]'
 source_type: cursor_changelog
 theme: editor-experience
@@ -87,8 +87,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2026-01-28 · Claude Code · [[Changes/Claude Code/2026-01-28-improved-claude-to-prefer-file-operation-tools-read-edit-write-over-bash-equival|Improved Claude to prefer file operation tools (Read, Edit, Write) over bash…]]
-- Later: 2026-02-19 · ChatGPT · [[Changes/ChatGPT/2026-02-19-we-improved-code-blocks-in-chatgpt-to-make-them-more-interactive-you-can-write-e-6b2623|We improved Code Blocks in ChatGPT to make them more interactive]]
+- Earlier: 2026-02-17 · Cline · [[Changes/Cline/2026-02-17-restore-reasoning-trace-visibility-in-chat-and-improve-the-thinking-row-ux-so-re|Restore reasoning trace visibility in chat and improve the thinking row UX…]]
+- Later: 2026-02-17 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-02-17-tab-completion-respects-the-highlighted-slash-command-selection|Tab completion respects the highlighted slash command selection]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

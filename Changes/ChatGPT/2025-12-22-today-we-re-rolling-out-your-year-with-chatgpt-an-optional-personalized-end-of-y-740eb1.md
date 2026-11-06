@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: memory
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: adb643efb3e91b2f1b53131263cd4a16eb2091728ec865c70a6ccce3a85ac541
+machine_hash: 6bd0168a92d502f1fda120448568319cd2716b441cc67717e01d05de28b5fac2
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -65,10 +65,10 @@ record:
   title: Your Year with ChatGPT
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2025-11-07-previously-changes-you-made-to-your-chatgpt-personality-or-custom-instructions-o|Personality
-  and custom instructions now apply to all chats]]'
 - '[[Changes/ChatGPT/2025-11-24-shopping-research-is-a-new-interactive-experience-that-helps-you-find-the-right-0a021d|Shopping
   research in ChatGPT]]'
+- '[[Changes/Gemini CLI/2025-12-16-chore-tests-remove-obsolete-test-for-hierarchical-memory-by-pareshjoshij-in-http|chore(tests):
+  remove obsolete test for hierarchical memory]]'
 - '[[Changes/ChatGPT/2025-12-19-in-addition-to-selecting-a-base-style-and-tone-preset-like-candid-and-friendly-y-21da79|New
   detailed characteristic controls]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-12-22-your-year-with-chatgpt-6dbbef4d|chatgpt-2025-12-22-your-year-with-chatgpt-6dbbef4d]]'

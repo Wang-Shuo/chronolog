@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 2399621ce3f50ab10c581fd5a8ed341a12611827ff8961af3ae2fbfb6c6a1473
+machine_hash: bf39b403922376c9dc1aa3b970813acba84a0016b8b87848798033e5679d1fb4
 product: claude-code
 product_name: Claude Code
 record:
@@ -113,7 +113,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.273
 ## Nearby in Safety and Privacy
 
 - Earlier: 2026-09-14 · Claude Code · [[Changes/Claude Code/2026-09-14-7-safety-and-privacy-changes-in-v2-1-271|7 Safety and Privacy changes in v2.1.271]]
-- Later: 2026-09-17 · Claude Code · [[Changes/Claude Code/2026-09-17-7-safety-and-privacy-changes-in-v2-1-275|7 Safety and Privacy changes in v2.1.275]]
+- Later: 2026-09-15 · Gemini CLI · [[Changes/Gemini CLI/2026-09-15-2-safety-and-privacy-changes-in-v0-60-0|2 Safety and Privacy changes in v0.60.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

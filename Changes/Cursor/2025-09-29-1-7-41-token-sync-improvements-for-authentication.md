@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 409da9486c7decafa6be95e61c86922b199c3649301c363f38e89612c0a9b46a
+machine_hash: da405a57c38022be2e69288c5894f42fe14b0e672ce475505f9a48dbd0c77717
 product: cursor
 product_name: Cursor
 record:
@@ -41,12 +41,12 @@ record:
   title: '1.7.41: Token sync improvements for authentication'
   type: change
 related_changes:
-- '[[Changes/Cursor/2023-09-01-you-should-now-be-able-to-sign-in-with-github-again|You
-  should now be able to sign in with GitHub again]]'
-- '[[Changes/ChatGPT/2024-04-01-we-re-making-it-easier-for-people-to-experience-the-benefits-of-ai-without-needi|Start
-  using ChatGPT instantly]]'
-- '[[Changes/Cursor/2025-06-04-mcp-one-click-install-and-oauth-support|MCP one-click
-  install and OAuth support]]'
+- '[[Changes/Gemini CLI/2025-09-09-feat-oauth-create-hybrid-storage-class-by-shishu314-in-https-github-com-google-g|feat(oauth)
+  - Create hybrid storage class]]'
+- '[[Changes/Codex CLI/2025-09-15-6-account-and-access-changes-in-rust-v0-36-0|6 Account
+  and Access changes in rust-v0.36.0]]'
+- '[[Changes/Gemini CLI/2025-09-17-refactor-authentication-components-and-hooks-by-scidomino-in-https-github-com-go|Refactor
+  Authentication Components and Hooks]]'
 source_release: '[[Releases/Cursor/cursor-2025-09-29-1-7-https-cursor-com-changelog-1-7-0a03c0ae|cursor-2025-09-29-1-7-https-cursor-com-changelog-1-7-0a03c0ae]]'
 source_type: cursor_changelog
 theme: account-access
@@ -93,8 +93,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Account and Access
 
-- Earlier: 2025-06-04 · Cursor · [[Changes/Cursor/2025-06-04-mcp-one-click-install-and-oauth-support|MCP one-click install and OAuth support]]
-- Later: 2025-12-22 · Cursor · [[Changes/Cursor/2025-12-22-2-account-and-access-changes-in-2-3|2 Account and Access changes in 2.3]]
+- Earlier: 2025-09-17 · Gemini CLI · [[Changes/Gemini CLI/2025-09-17-refactor-authentication-components-and-hooks-by-scidomino-in-https-github-com-go|Refactor Authentication Components and Hooks]]
+- Later: 2025-10-03 · Codex CLI · [[Changes/Codex CLI/2025-10-03-4568-fix-hang-on-second-oauth-login-attempt|♯4568 Fix hang on second oauth login attempt]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 86a004d7f4a748d9cac3038b60622ce0c152bc30c56880810dbf5c44e1852490
+machine_hash: 57d7ff761b251730bc597a2d57d67b55594935e960a501ee906300a0667ad9b0
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -89,7 +89,7 @@ type: change
 ## Nearby in Collaboration
 
 - Earlier: 2023-05-24 · ChatGPT · [[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]
-- Later: 2024-08-22 · Cursor · [[Changes/Cursor/2024-08-22-composer-is-now-default-on-and-available-to-all-pro-business-users-by-hitting-cm|Composer is now default-on and available to all Pro/Business users by hitting cmd+I]]
+- Later: 2024-06-04 · OpenHands · [[Changes/OpenHands/2024-06-04-2-collaboration-changes-in-0-6-1|2 Collaboration changes in 0.6.1]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

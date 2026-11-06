@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: db8e139f020863cae67d1f40de62c49c2c54ebb4ebc0dc609af6d1025daab24e
+machine_hash: bb4c48b8b71a2d0a6db58fae8ea0ac114562cbd6b1e6aa283cad63dad8a7870b
 product: claude-code
 product_name: Claude Code
 record:
@@ -41,12 +41,12 @@ record:
   title: Renamed `/simplify` to `/code-review` with an optional effort level…
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-05-13-removed-noisy-in-app-terminal-notifications-and-improved-shortcut-behavior|Removed
-  noisy in-app terminal notifications and improved shortcut behavior]]'
-- '[[Changes/Claude Code/2026-05-15-2-developer-workflow-changes-in-v2-1-143|2 Developer
-  Workflow changes in v2.1.143]]'
-- '[[Changes/Claude Code/2026-05-19-3-developer-workflow-changes-in-v2-1-144|3 Developer
-  Workflow changes in v2.1.144]]'
+- '[[Changes/GitHub Copilot CLI/2026-05-19-2-developer-workflow-changes-in-v1-0-49|2
+  Developer Workflow changes in v1.0.49]]'
+- '[[Changes/Codex CLI/2026-05-20-3-developer-workflow-changes-in-rust-v0-132-0|3
+  Developer Workflow changes in rust-v0.132.0]]'
+- '[[Changes/GitHub Copilot CLI/2026-05-20-4-developer-workflow-changes-in-v1-0-51|4
+  Developer Workflow changes in v1.0.51]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-05-21-v2-1-146-github-326230049-ea612648|claude-code-2026-05-21-v2-1-146-github-326230049-ea612648]]'
 source_type: github_releases
 theme: developer-workflow
@@ -76,7 +76,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2026-05-19 · Claude Code · [[Changes/Claude Code/2026-05-19-3-developer-workflow-changes-in-v2-1-144|3 Developer Workflow changes in v2.1.144]]
+- Earlier: 2026-05-20 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-05-20-4-developer-workflow-changes-in-v1-0-51|4 Developer Workflow changes in v1.0.51]]
 - Later: 2026-05-21 · Claude Code · [[Changes/Claude Code/2026-05-21-renamed-simplify-to-code-review-it-now-reports-correctness-bugs-at-a-chosen-effo|Renamed /simplify to /code-review]]
 <!-- chronolog:end -->
 

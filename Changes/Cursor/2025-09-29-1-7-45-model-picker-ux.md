@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 58d94ef49c3bbfe737b17b8e164473b92d9cc2afb8a2d1a339230c4f4a7dce34
+machine_hash: e092d4dd10322070b2bf1dbff8e65b19498e8e4285489adb016827a12cd62282
 product: cursor
 product_name: Cursor
 record:
@@ -52,12 +52,12 @@ record:
   title: '1.7.45: Model picker UX'
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-07-03-chat-rendering-bugs-resolved-toolcall-display-overflow-issues|Chat
-  rendering bugs resolved (toolcall display, overflow issues)]]'
-- '[[Changes/Cursor/2025-09-12-1-6-27-native-menu-notification-badge|1.6.27: Native
-  menu notification badge]]'
-- '[[Changes/ChatGPT/2025-09-16-formatting-answers-are-better-formatted-for-quick-understanding-without-losing-d|Formatting:
-  Answers are better formatted for quick understanding without losing…]]'
+- '[[Changes/Cline/2025-09-25-2-interface-experience-changes-in-v3-31-0|2 Interface
+  Experience changes in v3.31.0]]'
+- '[[Changes/Codex CLI/2025-09-26-4101-hide-the-status-indicator-when-the-answer-stream-starts-4101|♯4101
+  hide the status indicator when the answer stream starts (♯4101)]]'
+- '[[Changes/Cline/2025-09-28-only-show-the-info-banner-messages-about-the-right-sidebar-in-vscode-by-sjf-in-h|Only
+  show the info banner messages about the right sidebar in VSCode]]'
 source_release: '[[Releases/Cursor/cursor-2025-09-29-1-7-https-cursor-com-changelog-1-7-0a03c0ae|cursor-2025-09-29-1-7-https-cursor-com-changelog-1-7-0a03c0ae]]'
 source_type: cursor_changelog
 theme: interface-experience
@@ -104,8 +104,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2025-09-16 · ChatGPT · [[Changes/ChatGPT/2025-09-16-formatting-answers-are-better-formatted-for-quick-understanding-without-losing-d|Formatting: Answers are better formatted for quick understanding without losing…]]
-- Later: 2025-10-29 · Cursor · [[Changes/Cursor/2025-10-29-optimized-text-parsing-for-chat-rendering|Optimized text parsing for chat rendering]]
+- Earlier: 2025-09-28 · Cline · [[Changes/Cline/2025-09-28-only-show-the-info-banner-messages-about-the-right-sidebar-in-vscode-by-sjf-in-h|Only show the info banner messages about the right sidebar in VSCode]]
+- Later: 2025-09-29 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2025-09-29-model-will-open-a-picker-to-change-the-model|/model will open a picker to change the model]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

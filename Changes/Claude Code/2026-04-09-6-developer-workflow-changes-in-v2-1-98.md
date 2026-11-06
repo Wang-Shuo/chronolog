@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 3eee6a39729dec14d844987f18e67d12f9a9e0385285dcd0c88abd4d37d9dac3
+machine_hash: 2a0a03164b0f316380a5c23a7d242b5339ab2f3ea3259cc63f65cb7f4ca5b988
 product: claude-code
 product_name: Claude Code
 record:
@@ -56,10 +56,11 @@ record:
   title: 6 Developer Workflow changes in v2.1.98
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-04-04-removed-tag-command|Removed /tag command]]'
 - '[[Changes/Claude Code/2026-04-08-3-developer-workflow-changes-in-v2-1-97|3 Developer
   Workflow changes in v2.1.97]]'
 - '[[Changes/Cursor/2026-04-08-bugbot-learned-rules-9e5cac|Bugbot Learned Rules]]'
+- '[[Changes/Gemini CLI/2026-04-08-3-developer-workflow-changes-in-v0-37-0|3 Developer
+  Workflow changes in v0.37.0]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-04-09-v2-1-98-github-307232194-a0774436|claude-code-2026-04-09-v2-1-98-github-307232194-a0774436]]'
 source_type: github_releases
 theme: developer-workflow
@@ -107,8 +108,8 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.98
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2026-04-08 · Cursor · [[Changes/Cursor/2026-04-08-bugbot-learned-rules-9e5cac|Bugbot Learned Rules]]
-- Later: 2026-04-13 · Claude Code · [[Changes/Claude Code/2026-04-13-2-developer-workflow-changes-in-v2-1-105|2 Developer Workflow changes in v2.1.105]]
+- Earlier: 2026-04-08 · Gemini CLI · [[Changes/Gemini CLI/2026-04-08-3-developer-workflow-changes-in-v0-37-0|3 Developer Workflow changes in v0.37.0]]
+- Later: 2026-04-10 · Codex CLI · [[Changes/Codex CLI/2026-04-10-28-developer-workflow-changes-in-rust-v0-119-0|28 Developer Workflow changes in rust-v0.119.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

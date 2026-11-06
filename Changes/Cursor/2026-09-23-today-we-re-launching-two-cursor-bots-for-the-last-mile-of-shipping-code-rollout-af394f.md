@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: a6fb7e5fffaae8f60c7487daf6652ca91a6cc16b80be7cb74ea55d9300879cec
+machine_hash: 4b62ba34c881ce8e2154795552a444ce8db519b1bed98364557282f15e3619ec
 product: cursor
 product_name: Cursor
 record:
@@ -58,8 +58,8 @@ record:
   title: Cursor launches two Cursor bots for the last mile of shipping code
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-22-2-safety-and-privacy-changes-in-v2-1-280|2 Safety
-  and Privacy changes in v2.1.280]]'
+- '[[Changes/GitHub Copilot CLI/2026-09-22-2-safety-and-privacy-changes-in-v1-0-88|2
+  Safety and Privacy changes in v1.0.88]]'
 - '[[Changes/Claude Code/2026-09-23-12-safety-and-privacy-changes-in-v2-1-281|12 Safety
   and Privacy changes in v2.1.281]]'
 - '[[Changes/Cursor/2026-09-23-2-safety-and-privacy-changes-in-rollouts-and-security-review|2

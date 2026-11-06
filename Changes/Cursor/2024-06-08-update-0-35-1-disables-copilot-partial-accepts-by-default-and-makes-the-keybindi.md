@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: dfdc81fdc562656fb9f60d253292ac4429d9060e37ad3e0931029b357265c1e0
+machine_hash: 9f750f7ae1e72ed1b60f1c480cb7741f952c7aa810b404042940a11e9a614ab2
 product: cursor
 product_name: Cursor
 record:
@@ -58,11 +58,11 @@ record:
   title: 'UPDATE (0.35.1): Disables Copilot++ partial accepts by default and makes…'
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2024-05-13-gpt-4o-is-our-newest-flagship-model-that-provides-gpt-4-level-intelligence-that-297427|Introducing
-  GPT-4o]]'
 - '[[Changes/Cursor/2024-05-26-gemini-1-5-flash-is-available-in-long-context-mode|Gemini
   1.5 Flash is available in long-context mode]]'
 - '[[Changes/Cursor/2024-05-26-gpt-4o-in-interpreter-mode|GPT-4o in Interpreter Mode]]'
+- '[[Changes/Aider/2024-06-04-improved-prompts-when-no-files-have-been-added-to-chat-to-solicit-llm-file-sugge|Improved
+  prompts when no files have been added to chat to solicit LLM file suggestions]]'
 source_release: '[[Releases/Cursor/cursor-2024-06-08-0-35-x-https-cursor-com-changelog-0-35-x-b4216e90|cursor-2024-06-08-0-35-x-https-cursor-com-changelog-0-35-x-b4216e90]]'
 source_type: cursor_changelog
 theme: model-support
@@ -93,8 +93,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2024-05-26 · Cursor · [[Changes/Cursor/2024-05-26-gpt-4o-in-interpreter-mode|GPT-4o in Interpreter Mode]]
-- Later: 2024-07-18 · ChatGPT · [[Changes/ChatGPT/2024-07-18-we-re-introducing-gpt-4o-mini-the-most-capable-and-cost-efficient-small-model-av-af297b|Introducing GPT-4o mini]]
+- Earlier: 2024-06-04 · Aider · [[Changes/Aider/2024-06-04-improved-prompts-when-no-files-have-been-added-to-chat-to-solicit-llm-file-sugge|Improved prompts when no files have been added to chat to solicit LLM file suggestions]]
+- Later: 2024-06-20 · Aider · [[Changes/Aider/2024-06-20-2-model-support-changes-in-v0-39-0|2 Model Support changes in v0.39.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

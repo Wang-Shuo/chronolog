@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: fb25fd9b3b228c6a1943320821d3b554236992ff5ed4c6da18c7cbf1ed985986
+machine_hash: 115ffb4b6484a48254bebe0c47ea069de2ae340d8439efabd8ac7bf6b9eb16f3
 product: claude-code
 product_name: Claude Code
 record:
@@ -44,10 +44,11 @@ record:
   title: 2 Apps and Integrations changes in v2.1.191
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-06-22-marketplace-leaderboard-654084|Marketplace leaderboard]]'
 - '[[Changes/Cursor/2026-06-22-plugin-canvases|Plugin canvases]]'
 - '[[Changes/Claude Code/2026-06-23-2-apps-and-integrations-changes-in-v2-1-187|2
   Apps and Integrations changes in v2.1.187]]'
+- '[[Changes/GitHub Copilot CLI/2026-06-23-8-apps-and-integrations-changes-in-v1-0-64|8
+  Apps and Integrations changes in v1.0.64]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-06-24-v2-1-191-github-344307226-67cdfb27|claude-code-2026-06-24-v2-1-191-github-344307226-67cdfb27]]'
 source_type: github_releases
 theme: apps-integrations
@@ -84,8 +85,8 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.191
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-06-23 · Claude Code · [[Changes/Claude Code/2026-06-23-2-apps-and-integrations-changes-in-v2-1-187|2 Apps and Integrations changes in v2.1.187]]
-- Later: 2026-06-25 · Claude Code · [[Changes/Claude Code/2026-06-25-2-apps-and-integrations-changes-in-v2-1-193|2 Apps and Integrations changes in v2.1.193]]
+- Earlier: 2026-06-23 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-06-23-8-apps-and-integrations-changes-in-v1-0-64|8 Apps and Integrations changes in v1.0.64]]
+- Later: 2026-06-24 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-06-24-2-apps-and-integrations-changes-in-v1-0-65|2 Apps and Integrations changes in v1.0.65]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

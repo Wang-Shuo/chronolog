@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 9ce0a454bc9fc458522c0d5d056409e4ecaff60750be832f5a4b4175542ed589
+machine_hash: 7c8bc32ccdd50077199b139e1a618eb0377719e41554b7d9e0a965cc2c9ed3f1
 product: cursor
 product_name: Cursor
 record:
@@ -51,12 +51,12 @@ record:
   title: Summarization triggers
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-07-29-at-the-end-of-a-conversation-you-can-now-see-how-much-of-the-context-window-is-u|View
-  context usage in Chat]]'
-- '[[Changes/Cursor/2025-08-06-admin-api-for-blocklists-block-specific-files-or-directories-from-being-indexed|Admin
-  API for blocklists]]'
-- '[[Changes/Cursor/2025-08-21-context-usage-is-always-shown-in-the-chat-input|Context
-  usage is always shown in the chat input]]'
+- '[[Changes/Codex CLI/2025-09-08-3221-move-token-usage-context-information-to-session-level|♯3221
+  Move token usage/context information to session level]]'
+- '[[Changes/Gemini CLI/2025-09-09-feat-cli-create-base-class-for-handling-tokens-stored-in-files-by-shishu314-in-h|feat(cli)
+  - Create base class for handling tokens stored in files]]'
+- '[[Changes/Cline/2025-09-11-added-per-provider-thinking-tokens-configurability|Added
+  per-provider thinking tokens configurability]]'
 source_release: '[[Releases/Cursor/cursor-2025-09-12-1-6-https-cursor-com-changelog-1-6-f33fb3ea|cursor-2025-09-12-1-6-https-cursor-com-changelog-1-6-f33fb3ea]]'
 source_type: cursor_changelog
 theme: context-window
@@ -94,8 +94,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Context Window
 
-- Earlier: 2025-08-21 · Cursor · [[Changes/Cursor/2025-08-21-context-usage-is-always-shown-in-the-chat-input|Context usage is always shown in the chat input]]
-- Later: 2025-10-29 · Cursor · [[Changes/Cursor/2025-10-29-improved-prompt-ui|Improved Prompt UI]]
+- Earlier: 2025-09-11 · Cline · [[Changes/Cline/2025-09-11-added-per-provider-thinking-tokens-configurability|Added per-provider thinking tokens configurability]]
+- Later: 2025-09-15 · Codex CLI · [[Changes/Codex CLI/2025-09-15-3-context-window-changes-in-rust-v0-36-0|3 Context Window changes in rust-v0.36.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

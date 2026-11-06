@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 6db3d6c34b97b316b9bf104c24bd41d19f7c5a8a50483bee8834135f41df4070
+machine_hash: 74c23e7a2a7a4978858ae900e318f5d5fc006fce08d0345695635f9193abcc6b
 product: cursor
 product_name: Cursor
 record:
@@ -93,7 +93,7 @@ type: change
 ## Nearby in Interface Experience
 
 - Earlier: 2026-02-18 · Claude Code · [[Changes/Claude Code/2026-02-18-3-interface-experience-changes-in-v2-1-47|3 Interface Experience changes in v2.1.47]]
-- Later: 2026-02-26 · Claude Code · [[Changes/Claude Code/2026-02-26-improved-ordering-of-short-task-lists|Improved ordering of short task lists]]
+- Later: 2026-02-18 · Gemini CLI · [[Changes/Gemini CLI/2026-02-18-ui-update-subdue-footer-colors-and-animate-progress-indicator-by-keithguerin-in|ui: update & subdue footer colors and animate progress indicator]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

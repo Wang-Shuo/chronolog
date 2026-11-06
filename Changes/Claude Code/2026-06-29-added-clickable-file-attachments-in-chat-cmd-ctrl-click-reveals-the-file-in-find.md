@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: aa872c84a586b8a277e4c0f622fd9bd19269542ede224e48aa20ef083d229fb1
+machine_hash: 80654954ac76cc430c654185c328ed277e5e1ee7bd601fdcc3fbdb3dd1dfe067
 product: claude-code
 product_name: Claude Code
 record:
@@ -44,10 +44,10 @@ record:
   title: Added clickable file attachments in chat
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-06-08-interactive-charts-in-answers-chatgpt-can-now-turn-some-answers-into-rich-and-in|Interactive
-  charts in answers]]'
-- '[[Changes/ChatGPT/2026-06-08-full-screen-writing-blocks-for-longer-form-work-writing-blocks-now-cover-long-fo|Full-screen
-  writing blocks for longer-form work]]'
+- '[[Changes/Codex CLI/2026-06-22-29086-document-raw-response-item-compatibility-jif-oai|♯29086
+  Document raw response item compatibility @jif-oai]]'
+- '[[Changes/GitHub Copilot CLI/2026-06-23-preserve-open-canvas-instances-across-reconnects-and-restarts|Preserve
+  open canvas instances across reconnects and restarts]]'
 - '[[Changes/ChatGPT/2026-06-26-the-personal-finance-experience-in-chatgpt-is-rolling-out-to-plus-users-in-the-u|Personal
   finance in ChatGPT expands to Plus users and Android]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-06-29-v2-1-196-github-346482381-e21be272|claude-code-2026-06-29-v2-1-196-github-346482381-e21be272]]'
@@ -86,7 +86,7 @@ type: change
 ## Nearby in Files and Data
 
 - Earlier: 2026-06-26 · ChatGPT · [[Changes/ChatGPT/2026-06-26-the-personal-finance-experience-in-chatgpt-is-rolling-out-to-plus-users-in-the-u|Personal finance in ChatGPT expands to Plus users and Android]]
-- Later: 2026-07-15 · Claude Code · [[Changes/Claude Code/2026-07-15-claude-in-chrome-hardened-file-upload-path-validation|Claude in Chrome: hardened file-upload path validation]]
+- Later: 2026-06-30 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-06-30-match-the-terminal-text-color-to-the-github-theme-canvas|Match the terminal text color to the GitHub theme canvas]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

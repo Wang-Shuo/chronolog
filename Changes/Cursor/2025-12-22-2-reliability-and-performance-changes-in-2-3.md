@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 083e5d5467d9f915e142e3256f4b6316f44dfaa803d24f92730f4bf362dcfd44
+machine_hash: 69f8e12b8a915a3eb90b5e6b312598487b553d6c35653240a5d025b9d5ba6b72
 product: cursor
 product_name: Cursor
 record:
@@ -44,9 +44,10 @@ record:
   title: 2 Reliability and Performance changes in 2.3
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-10-29-improved-performance|Improved Performance]]'
-- '[[Changes/Cursor/2025-12-10-2-reliability-and-performance-changes-in-2-2|2 Reliability
-  and Performance changes in 2.2]]'
+- '[[Changes/Codex CLI/2025-12-18-8216-speed-and-reliability-improvements-for-setting-reads-acls|♯8216
+  speed and reliability improvements for setting reads ACLs]]'
+- '[[Changes/Codex CLI/2025-12-21-8295-coalesce-transcript-scroll-redraws-tui2-performance-https-github-com-openai|♯8295
+  Coalesce transcript scroll redraws (TUI2 performance)]]'
 - '[[Changes/Cursor/2025-12-22-for-this-holiday-release-we-ve-focused-entirely-on-fixing-bugs-and-improving-sta|For
   this holiday release, we''ve focused entirely on fixing bugs and improving stability]]'
 source_release: '[[Releases/Cursor/cursor-2025-12-22-2-3-https-cursor-com-changelog-2-3-fe418465|cursor-2025-12-22-2-3-https-cursor-com-changelog-2-3-fe418465]]'
@@ -88,8 +89,8 @@ Source: https://cursor.com/changelog/2-3
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2025-12-10 · Cursor · [[Changes/Cursor/2025-12-10-2-reliability-and-performance-changes-in-2-2|2 Reliability and Performance changes in 2.2]]
-- Later: 2026-01-08 · Cursor · [[Changes/Cursor/2026-01-08-2-reliability-and-performance-changes-in-new-cli-features-and-improved-cli|2 Reliability and Performance changes in New CLI Features and Improved CLI…]]
+- Earlier: 2025-12-21 · Codex CLI · [[Changes/Codex CLI/2025-12-21-8295-coalesce-transcript-scroll-redraws-tui2-performance-https-github-com-openai|♯8295 Coalesce transcript scroll redraws (TUI2 performance)]]
+- Later: 2025-12-24 · Windsurf · [[Changes/Windsurf/2025-12-24-swe-1-5-free|SWE-1.5 Free]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

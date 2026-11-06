@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 4274fe924de8577813dc1b5b809d06cccf3b2bca67c0022cacb83f7c2fd5df83
+machine_hash: ddc50a759f1136263a5fadeeb06f0f830512fef76f8795978613366325362d2f
 product: claude-code
 product_name: Claude Code
 record:
@@ -43,12 +43,12 @@ record:
   title: Added `PostCompact` hook that fires after compaction completes
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-03-05-gpt-5-4-brings-together-the-best-of-our-recent-advances-in-reasoning-coding-and|GPT-5.4
-  Thinking in ChatGPT]]'
-- '[[Changes/Claude Code/2026-03-05-3-context-window-changes-in-v2-1-69|3 Context
-  Window changes in v2.1.69]]'
-- '[[Changes/Claude Code/2026-03-11-improved-the-remote-control-spawn-mode-selection-prompt-with-better-context|Improved
-  the Remote Control spawn mode selection prompt with better context]]'
+- '[[Changes/Gemini CLI/2026-03-11-feat-cli-invert-context-window-display-to-show-usage-by-keithguerin-in-https-git|feat(cli):
+  invert context window display to show usage]]'
+- '[[Changes/GitHub Copilot CLI/2026-03-11-status-line-context-window-percentage-no-longer-inflates-across-turns-by-using-t|Status
+  line context window percentage no longer inflates across turns by using…]]'
+- '[[Changes/GitHub Copilot CLI/2026-03-13-add-precompact-hook-to-run-commands-before-context-compaction-starts|Add
+  preCompact hook to run commands before context compaction starts]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-03-14-v2-1-76-github-296929324-94cd2ffc|claude-code-2026-03-14-v2-1-76-github-296929324-94cd2ffc]]'
 source_type: github_releases
 theme: context-window
@@ -85,8 +85,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Context Window
 
-- Earlier: 2026-03-11 · Claude Code · [[Changes/Claude Code/2026-03-11-improved-the-remote-control-spawn-mode-selection-prompt-with-better-context|Improved the Remote Control spawn mode selection prompt with better context]]
-- Later: 2026-03-20 · Claude Code · [[Changes/Claude Code/2026-03-20-changed-plan-mode-to-hide-the-clear-context-option-by-default-restore-with-showc|Changed plan mode to hide the "clear context" option by default…]]
+- Earlier: 2026-03-13 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-03-13-add-precompact-hook-to-run-commands-before-context-compaction-starts|Add preCompact hook to run commands before context compaction starts]]
+- Later: 2026-03-16 · Codex CLI · [[Changes/Codex CLI/2026-03-16-2-context-window-changes-in-rust-v0-115-0|2 Context Window changes in rust-v0.115.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

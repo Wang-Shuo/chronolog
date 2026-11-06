@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 56496a206abd280eddd94feaa6541598b9f116fd7e67516d19fc033688dc25ed
+machine_hash: ec876c75eee09ec26833109c0cfa000971f709afc4387a45c5597bb73eddb031
 product: claude-code
 product_name: Claude Code
 record:
@@ -43,10 +43,10 @@ record:
   title: Added a cancel-and-confirm step when removing an unavailable paste changes…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-07-22-changed-code-review-to-run-as-a-background-subagent-so-review-work-no-longer-fil|Changed
-  /code-review to run as a background subagent, so review work no longer…]]'
 - '[[Changes/Claude Code/2026-08-04-3-developer-workflow-changes-in-v2-1-221|3 Developer
   Workflow changes in v2.1.221]]'
+- '[[Changes/Cline/2026-08-05-2-developer-workflow-changes-in-v4-1-4|2 Developer Workflow
+  changes in v4.1.4]]'
 - '[[Changes/Claude Code/2026-08-06-2-developer-workflow-changes-in-v2-1-223|2 Developer
   Workflow changes in v2.1.223]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-08-07-v2-1-224-github-366468634-0ab9e64c|claude-code-2026-08-07-v2-1-224-github-366468634-0ab9e64c]]'
@@ -85,7 +85,7 @@ type: change
 ## Nearby in Developer Workflow
 
 - Earlier: 2026-08-06 · Claude Code · [[Changes/Claude Code/2026-08-06-2-developer-workflow-changes-in-v2-1-223|2 Developer Workflow changes in v2.1.223]]
-- Later: 2026-08-12 · Claude Code · [[Changes/Claude Code/2026-08-12-changed-commit-push-pr-so-git-gh-commands-with-dangerous-flags-force-amend-no-ve|Changed /commit-push-pr so git/gh commands with dangerous flags…]]
+- Later: 2026-08-07 · Codex CLI · [[Changes/Codex CLI/2026-08-07-15-developer-workflow-changes-in-rust-v0-147-0|15 Developer Workflow changes in rust-v0.147.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

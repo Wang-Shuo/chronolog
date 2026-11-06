@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 960c9a0a3fcf59eaf693bd3098725fedc5c27d7044a3d17bb15a3d218ee56bae
+machine_hash: 72c2a29f3154b1ad4871cc024377b4d7600a6cd0d584972d4832bc282d00f71a
 product: cursor
 product_name: Cursor
 record:
@@ -44,12 +44,12 @@ record:
     easier…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-06-02-2-interface-experience-changes-in-v2-1-161|2 Interface
-  Experience changes in v2.1.161]]'
 - '[[Changes/Claude Code/2026-06-03-clicking-a-slash-command-in-the-autocomplete-menu-now-fills-it-into-your-prompt|Clicking
   a slash command in the autocomplete menu now fills it into your prompt…]]'
 - '[[Changes/Claude Code/2026-06-04-2-interface-experience-changes-in-v2-1-163|2 Interface
   Experience changes in v2.1.163]]'
+- '[[Changes/Codex CLI/2026-06-04-2-interface-experience-changes-in-rust-v0-137-0|2
+  Interface Experience changes in rust-v0.137.0]]'
 source_release: '[[Releases/Cursor/cursor-2026-06-04-3-7-https-cursor-com-changelog-canvas-improvements-6f42df85|cursor-2026-06-04-3-7-https-cursor-com-changelog-canvas-improvements-6f42df85]]'
 source_type: cursor_changelog
 theme: interface-experience
@@ -84,8 +84,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-06-04 · Claude Code · [[Changes/Claude Code/2026-06-04-2-interface-experience-changes-in-v2-1-163|2 Interface Experience changes in v2.1.163]]
-- Later: 2026-06-08 · ChatGPT · [[Changes/ChatGPT/2026-06-08-improvement-to-charts-table-of-contents-and-full-screen-writing-also-fixes-long|Improvement to charts, table of contents and full screen writing]]
+- Earlier: 2026-06-04 · Codex CLI · [[Changes/Codex CLI/2026-06-04-2-interface-experience-changes-in-rust-v0-137-0|2 Interface Experience changes in rust-v0.137.0]]
+- Later: 2026-06-05 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-06-05-6-interface-experience-changes-in-v1-0-60|6 Interface Experience changes in v1.0.60]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: c508b10a5178b988e98d9f94c00123e6b1e17c0039217cef422ac9ea97af130b
+machine_hash: 19b83e332d75e331db206963b8dfa0d4e2886bb515a58a9caa1397f856838806
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,10 +45,10 @@ record:
     gateway…
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-09-09-chatgpt-voice-can-now-use-gpt-5-6-or-gpt-6-astra-when-it-needs-to-search-or-reas-848954|ChatGPT
-  Voice can now use GPT-5.6 or GPT-6 Astra when it needs to search or reason…]]'
-- '[[Changes/Claude Code/2026-09-09-added-maxeffortlevel-setting-top-level-or-per-model-under-modelsettings-caps-the|Added
-  maxEffortLevel setting (top-level or per model under modelSettings)]]'
+- '[[Changes/Codex CLI/2026-09-09-gpt-6-astra-is-now-available-in-the-model-picker-and-amazon-bedrock-catalogs-428|GPT-6-Astra
+  is now available in the model picker and Amazon Bedrock catalogs]]'
+- '[[Changes/OpenHands/2026-09-09-feat-enable-llm-provider-connections-on-cloud-by-juanmichelini-in-https-github-c|feat:
+  enable LLM provider connections on cloud]]'
 - '[[Changes/Claude Code/2026-09-10-2-model-support-changes-in-v2-1-268|2 Model Support
   changes in v2.1.268]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-11-v2-1-269-github-387243742-288e9189|claude-code-2026-09-11-v2-1-269-github-387243742-288e9189]]'

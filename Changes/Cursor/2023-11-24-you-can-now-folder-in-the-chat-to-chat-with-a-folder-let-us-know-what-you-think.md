@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: cb53797a14d29ee8e7061c18a12dc21b8de70d3ef3ca36c12196f551be4d3522
+machine_hash: 77225ef09a1c337e6003238757d02d7f708cb02c7e3f8bbcaf7b70336debce4f
 product: cursor
 product_name: Cursor
 record:
@@ -44,8 +44,8 @@ record:
   title: '@folder'
   type: change
 related_changes:
-- '[[Changes/Cursor/2023-09-10-ask-a-question-about-an-edit-that-the-model-with-option-enter-or-bring-in-contex|Quick
-  question and @chat in cmd+k]]'
+- '[[Changes/Aider/2023-11-07-2-context-window-changes-in-v0-17-0|2 Context Window
+  changes in v0.17.0]]'
 - '[[Changes/Cursor/2023-11-10-copilot-beta-this-is-an-add-on-to-copilot-that-suggests-diffs-around-your-cursor|Copilot++
   (beta): this is an "add-on" to Copilot that suggests diffs around…]]'
 - '[[Changes/Cursor/2023-11-21-integrates-gpt-v-into-chat-for-the-editor-this-means-you-can-take-screenshots-im|GPT-V

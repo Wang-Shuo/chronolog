@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 939d7df4af872aeb32740c1742576231e11fad0011bba6851372aefc5d324e21
+machine_hash: 721b1771cad0ad65aaea8c4e6aeb6db34eca075d3c80f04cb86022100fb1054a
 product: claude-code
 product_name: Claude Code
 record:
@@ -49,10 +49,10 @@ record:
     tools…
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-01-29-on-february-13-2026-alongside-the-previously-announced-retirement-of-gpt-5-insta|Retiring
-  GPT-4o and other legacy models]]'
 - '[[Changes/Claude Code/2026-02-03-changed-model-to-execute-immediately-instead-of-being-queued|Changed
   /model to execute immediately instead of being queued]]'
+- '[[Changes/GitHub Copilot CLI/2026-02-03-improve-handling-of-chat-history-when-switching-between-model-families|Improve
+  handling of chat history when switching between model families]]'
 - '[[Changes/ChatGPT/2026-02-04-jan-10-2026-we-lowered-the-standard-and-light-thinking-time-as-we-observed-users-e93d5a|Jan
   10, 2026: We lowered the Standard and Light thinking time as we observed users…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-02-04-v2-1-31-github-282782741-04ea99e1|claude-code-2026-02-04-v2-1-31-github-282782741-04ea99e1]]'
@@ -89,7 +89,7 @@ type: change
 ## Nearby in Model Support
 
 - Earlier: 2026-02-04 · ChatGPT · [[Changes/ChatGPT/2026-02-04-jan-10-2026-we-lowered-the-standard-and-light-thinking-time-as-we-observed-users-e93d5a|Jan 10, 2026: We lowered the Standard and Light thinking time as we observed users…]]
-- Later: 2026-02-05 · Claude Code · [[Changes/Claude Code/2026-02-05-claude-opus-4-6-is-now-available|Claude Opus 4.6 is now available!]]
+- Later: 2026-02-04 · Codex CLI · [[Changes/Codex CLI/2026-02-04-added-websocket-side-rate-limit-signaling-via-a-new-codex-rate-limits-event-with|Added websocket-side rate limit signaling via a new codex.rate_limits event…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 5087bb0648e303d9745b833e30d2299097067f6404fb1e2bd7c0dcc9f5318043
+machine_hash: 78773742be830471a00e55f5dcd19ce7adab72783e2c0fb47dbd2c529ab2391c
 product: cursor
 product_name: Cursor
 record:
@@ -41,8 +41,8 @@ record:
   title: Advanced Button
   type: change
 related_changes:
-- '[[Changes/Cursor/2023-07-19-more-control-of-context-building-abilities-for-codebase-wide-chat|More
-  control of context building abilities for codebase-wide chat]]'
+- '[[Changes/Aider/2023-08-08-automatically-summarize-chat-history-to-avoid-exhausting-context-window|Automatically
+  summarize chat history to avoid exhausting context window]]'
 - '[[Changes/Cursor/2023-08-22-follow-up-chat-messages-to-with-codebase-will-keep-the-codebase-context|Follow-up
   chat messages to "with codebase" will keep the codebase context]]'
 - '[[Changes/Cursor/2023-08-22-if-you-reference-a-long-file-that-will-be-cutoff-by-the-context-limit-you-ll-be|If

@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 9f38608b7baae5628e02b3a57bee9878cb436e1625dd7b6aa70927b1318bc038
+machine_hash: 75bd5126b16892b1d71e5b7a97994e6a613ef06551dc52d7f1efb681c33352d8
 product: cursor
 product_name: Cursor
 record:
@@ -40,9 +40,12 @@ record:
   title: Tab now aware of full notebook
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-03-23-chat-tabs|Chat tabs]]'
-- '[[Changes/Cursor/2025-05-15-new-tab-model|New Tab model]]'
-- '[[Changes/Cursor/2025-07-29-active-tab-in-chat|Active Tab in Chat]]'
+- '[[Changes/Cline/2025-08-20-2-editor-experience-changes-in-v3-26-0|2 Editor Experience
+  changes in v3.26.0]]'
+- '[[Changes/Codex CLI/2025-08-20-3-editor-experience-changes-in-rust-v0-23-0|3 Editor
+  Experience changes in rust-v0.23.0]]'
+- '[[Changes/Cline/2025-08-21-add-an-rpc-to-the-host-bridge-to-reveal-a-directory-in-the-ide-file-explorer-by|Add
+  an RPC to the host bridge to reveal a directory in the IDE file explorer]]'
 source_release: '[[Releases/Cursor/cursor-2025-08-21-1-5-https-cursor-com-changelog-1-5-f93efb89|cursor-2025-08-21-1-5-https-cursor-com-changelog-1-5-f93efb89]]'
 source_type: cursor_changelog
 theme: editor-experience
@@ -78,8 +81,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2025-07-29 · Cursor · [[Changes/Cursor/2025-07-29-active-tab-in-chat|Active Tab in Chat]]
-- Later: 2025-09-12 · Cursor · [[Changes/Cursor/2025-09-12-1-6-7-enhanced-git-diff-parsing|1.6.7: Enhanced git diff parsing]]
+- Earlier: 2025-08-21 · Cline · [[Changes/Cline/2025-08-21-add-an-rpc-to-the-host-bridge-to-reveal-a-directory-in-the-ide-file-explorer-by|Add an RPC to the host bridge to reveal a directory in the IDE file explorer]]
+- Later: 2025-08-26 · Codex CLI · [[Changes/Codex CLI/2025-08-26-6-editor-experience-changes-in-rust-v0-24-0|6 Editor Experience changes in rust-v0.24.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

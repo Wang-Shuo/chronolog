@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 62799b9cd812edd9d38deecc171dd7d43794ddc222772147ebce2d8cf79cc216
+machine_hash: 4c926d5749fdb92d39fbe458d0c188b38459eb1a8712c38ed3e8d2b02fc75ebd
 product: cursor
 product_name: Cursor
 record:
@@ -41,8 +41,8 @@ record:
   title: Cmd-k should work better for long diffs (greater than 100 lines of code)
   type: change
 related_changes:
-- '[[Changes/Cursor/2023-06-06-in-order-to-take-full-advantage-navigate-to-settings-top-right-button-then-sync|In
-  order to take full advantage, navigate to Settings (top right button), then…]]'
+- '[[Changes/Aider/2023-06-26-2-editor-experience-changes-in-v0-7-1|2 Editor Experience
+  changes in v0.7.1]]'
 - '[[Changes/Cursor/2023-07-03-long-code-selections-no-longer-brick-the-editor|Long
   code selections no longer brick the editor]]'
 - '[[Changes/Cursor/2023-07-03-cmd-k-s-ui-has-been-changed-it-s-in-editor-sticky-and-symbol-compatible|Cmd+K''s

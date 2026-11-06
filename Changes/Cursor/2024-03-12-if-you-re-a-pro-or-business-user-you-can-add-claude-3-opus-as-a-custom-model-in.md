@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 9a1f6f4fe59762eada46a087043c798041e7ca2ce22a49469be992fb7ceced2e
+machine_hash: 1a5046aaf493c1958175f20402524ffa77f619e7f2b79a809959f43d293ddaff
 product: cursor
 product_name: Cursor
 record:
@@ -48,12 +48,12 @@ record:
   title: Claude Support
   type: change
 related_changes:
-- '[[Changes/Cursor/2024-01-15-cursor-fast-is-a-newly-trained-model-between-gpt-3-5-and-gpt-4-coding-capabiliti-bb4c11|Cursor-Fast
-  is a newly trained model between gpt-3.5 and gpt-4 coding capabilities…]]'
-- '[[Changes/Cursor/2024-01-18-cursor-fast-this-is-a-new-model-available-in-command-k-and-chat-expect-it-to-be|"cursor-fast":
-  This is a new model available in command-k and chat]]'
-- '[[Changes/Cursor/2024-01-25-both-pro-and-api-key-users-can-also-try-out-gpt-4-0125-preview-by-configuring-th|Both
-  pro and API key users can also try out gpt-4-0125-preview by configuring…]]'
+- '[[Changes/Aider/2024-02-03-added-support-for-model-gpt-4-0125-preview-and-openai-s-alias-model-gpt-4-turbo|Added
+  support for --model gpt-4-0125-preview and OpenAI''s alias…]]'
+- '[[Changes/Aider/2024-02-10-default-gpt-3-5-model-is-now-gpt-3-5-turbo-0125|Default
+  GPT 3.5 model is now gpt-3.5-turbo-0125]]'
+- '[[Changes/Aider/2024-03-08-2-model-support-changes-in-v0-26-0|2 Model Support changes
+  in v0.26.0]]'
 source_release: '[[Releases/Cursor/cursor-2024-03-12-claude-support-https-cursor-com-changelog-claude-support-ed1eb90a|cursor-2024-03-12-claude-support-https-cursor-com-changelog-claude-support-ed1eb90a]]'
 source_type: cursor_changelog
 theme: model-support
@@ -80,7 +80,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2024-01-25 · Cursor · [[Changes/Cursor/2024-01-25-both-pro-and-api-key-users-can-also-try-out-gpt-4-0125-preview-by-configuring-th|Both pro and API key users can also try out gpt-4-0125-preview by configuring…]]
+- Earlier: 2024-03-08 · Aider · [[Changes/Aider/2024-03-08-2-model-support-changes-in-v0-26-0|2 Model Support changes in v0.26.0]]
 - Later: 2024-03-20 · Cursor · [[Changes/Cursor/2024-03-20-stable-claude-support-all-the-newest-claude-models-are-available-for-pro-and-api|Stable Claude Support]]
 <!-- chronolog:end -->
 

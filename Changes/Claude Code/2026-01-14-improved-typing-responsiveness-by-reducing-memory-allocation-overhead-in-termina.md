@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 781ed8096b7a06dc69b8de8fe171d263ea3fbb1ba65f79f02be218f52ba13dd4
+machine_hash: ccffcf5dac9da8f108e781244e657ec82b408bfbb260d3bfc61b6b4e420b6901
 product: claude-code
 product_name: Claude Code
 record:
@@ -57,12 +57,12 @@ record:
     terminal…
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-12-22-for-this-holiday-release-we-ve-focused-entirely-on-fixing-bugs-and-improving-sta|For
-  this holiday release, we''ve focused entirely on fixing bugs and improving stability]]'
-- '[[Changes/Cursor/2025-12-22-2-reliability-and-performance-changes-in-2-3|2 Reliability
-  and Performance changes in 2.3]]'
-- '[[Changes/Cursor/2026-01-08-2-reliability-and-performance-changes-in-new-cli-features-and-improved-cli|2
-  Reliability and Performance changes in New CLI Features and Improved CLI…]]'
+- '[[Changes/Codex CLI/2026-01-09-codex-cli-subprocesses-again-inherit-env-vars-like-ld-library-path-dyld-library|Codex
+  CLI subprocesses again inherit env vars like…]]'
+- '[[Changes/GitHub Copilot CLI/2026-01-13-sessions-with-large-conversation-history-load-faster-on-startup|Sessions
+  with large conversation history load faster on startup]]'
+- '[[Changes/Windsurf/2026-01-13-2-reliability-and-performance-changes-in-v1-13-6|2
+  Reliability and Performance changes in v1.13.6]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-01-14-v2-1-7-github-276555327-bf21dc80|claude-code-2026-01-14-v2-1-7-github-276555327-bf21dc80]]'
 source_type: github_releases
 theme: reliability-performance
@@ -95,8 +95,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2026-01-08 · Cursor · [[Changes/Cursor/2026-01-08-2-reliability-and-performance-changes-in-new-cli-features-and-improved-cli|2 Reliability and Performance changes in New CLI Features and Improved CLI…]]
-- Later: 2026-01-16 · Cursor · [[Changes/Cursor/2026-01-16-faster-message-queueing-and-ux|Faster message queueing and UX]]
+- Earlier: 2026-01-13 · Windsurf · [[Changes/Windsurf/2026-01-13-2-reliability-and-performance-changes-in-v1-13-6|2 Reliability and Performance changes in v1.13.6]]
+- Later: 2026-01-14 · Windsurf · [[Changes/Windsurf/2026-01-14-2-reliability-and-performance-changes-in-v1-13-8|2 Reliability and Performance changes in v1.13.8]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

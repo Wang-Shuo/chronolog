@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: b05ab13e82a3f9c3edb8d844e72d8fcd8a9eebb7ac32bb1f05885fa11e799603
+machine_hash: 2e7921bdd633a23bb92f713bfecd28be24f1b674d01f487686471fc0317b8001
 product: cursor
 product_name: Cursor
 record:
@@ -45,12 +45,12 @@ record:
   title: 2 Editor Experience changes in 2.4
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-01-16-this-release-brings-many-of-the-editor-s-most-loved-features-to-the-cursor-cli-a|Cursor
-  brings many of the editor’s most-loved features to the Cursor CLI, along…]]'
-- '[[Changes/Cursor/2026-01-16-use-ask-mode-to-explore-code-without-making-changes-just-like-in-the-editor-star|Ask
-  mode in CLI]]'
+- '[[Changes/GitHub Copilot CLI/2026-01-16-2-editor-experience-changes-in-v0-0-384|2
+  Editor Experience changes in v0.0.384]]'
 - '[[Changes/Claude Code/2026-01-20-added-history-based-autocomplete-in-bash-mode-type-a-partial-command-and-press-t|Added
   history-based autocomplete in bash mode (!) - type a partial command…]]'
+- '[[Changes/Gemini CLI/2026-01-21-4-editor-experience-changes-in-v0-25-0|4 Editor
+  Experience changes in v0.25.0]]'
 source_release: '[[Releases/Cursor/cursor-2026-01-22-2-4-https-cursor-com-changelog-2-4-a10c8f03|cursor-2026-01-22-2-4-https-cursor-com-changelog-2-4-a10c8f03]]'
 source_type: cursor_changelog
 theme: editor-experience
@@ -100,8 +100,8 @@ Source: https://cursor.com/changelog/2-4
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2026-01-20 · Claude Code · [[Changes/Claude Code/2026-01-20-added-history-based-autocomplete-in-bash-mode-type-a-partial-command-and-press-t|Added history-based autocomplete in bash mode (!) - type a partial command…]]
-- Later: 2026-01-27 · Claude Code · [[Changes/Claude Code/2026-01-27-added-external-editor-shortcut-ctrl-g-to-the-help-menu-for-better-discoverabilit|Added external editor shortcut (Ctrl+G) to the help menu for better discoverability]]
+- Earlier: 2026-01-21 · Gemini CLI · [[Changes/Gemini CLI/2026-01-21-4-editor-experience-changes-in-v0-25-0|4 Editor Experience changes in v0.25.0]]
+- Later: 2026-01-22 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-01-22-edit-tool-now-displays-diffs-when-expanded-in-timeline|Edit tool now displays diffs when expanded in timeline]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

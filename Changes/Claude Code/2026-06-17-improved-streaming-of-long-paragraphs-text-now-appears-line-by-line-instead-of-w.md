@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 9953c283c8698fc850f9dc05e6eb33da9695b18c015fb1abefd5a0b15c76648b
+machine_hash: e0014f7b233dc126f6624c46440f84d9c701e43f3ab94978828a5914067dd160
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,10 +45,10 @@ record:
   title: Improved streaming of long paragraphs
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-06-12-added-footerlinksregexes-setting-for-regex-matched-link-badges-in-the-footer-row|Added
-  footerLinksRegexes setting for regex-matched link badges in the footer row…]]'
-- '[[Changes/Claude Code/2026-06-12-added-wheelscrollaccelerationenabled-setting-to-disable-mouse-wheel-scroll-accel|Added
-  wheelScrollAccelerationEnabled setting to disable mouse-wheel scroll…]]'
+- '[[Changes/Codex CLI/2026-06-15-added-import-for-selectively-importing-setup-project-configuration-and-recent-ch|Added
+  /import for selectively importing setup, project configuration, and recent…]]'
+- '[[Changes/Codex CLI/2026-06-15-3-interface-experience-changes-in-rust-v0-140-0|3
+  Interface Experience changes in rust-v0.140.0]]'
 - '[[Changes/ChatGPT/2026-06-17-a-new-scheduled-page-discoverable-in-the-sidebar-gives-users-one-place-to-view-a|A
   new Scheduled page, discoverable in the sidebar, gives users one place to view…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-06-17-v2-1-181-github-340975229-c771c493|claude-code-2026-06-17-v2-1-181-github-340975229-c771c493]]'

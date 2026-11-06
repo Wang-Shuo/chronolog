@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 8362fbbdfa9127d8bb54b1c6da505724f0a2c8f7c22e542596b809094ea4c776
+machine_hash: e34c2ce0324dc5baebeae82920ebaf897d9b81e7ede5e6695d545198bffcb1b4
 product: claude-code
 product_name: Claude Code
 record:
@@ -86,7 +86,7 @@ type: change
 ## Nearby in Developer Workflow
 
 - Earlier: 2026-09-23 · Cursor · [[Changes/Cursor/2026-09-23-when-a-pull-request-opens-rollouts-reads-the-diff-and-the-systems-it-touches-the|Monitoring plans]]
-- Later: 2026-09-25 · Claude Code · [[Changes/Claude Code/2026-09-25-3-developer-workflow-changes-in-v2-1-283|3 Developer Workflow changes in v2.1.283]]
+- Later: 2026-09-24 · Cline · [[Changes/Cline/2026-09-24-a-command-that-prints-nothing-no-longer-shows-a-raw-json-blob-like-query-git-add|A command that prints nothing no longer shows a raw JSON blob like…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

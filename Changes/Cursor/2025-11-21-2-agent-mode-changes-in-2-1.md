@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 78ac726698e8b70d6fdd27af257e46d2b49d4d471749f0bb645dd6cc484217bb
+machine_hash: 323b44e645016c9f86925864ac09a487c2ef52a07df51ddfcec95f822205807f
 product: cursor
 product_name: Cursor
 record:
@@ -44,8 +44,10 @@ record:
   title: 2 Agent Mode changes in 2.1
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-10-29-cloud-agents|Cloud Agents]]'
-- '[[Changes/Cursor/2025-10-29-multi-agents-bb4f56|Multi-Agents]]'
+- '[[Changes/Codex CLI/2025-11-13-6510-feat-shell-command-tool-29364f3a9|♯6510 — feat:
+  shell_command tool (29364f3a9)]]'
+- '[[Changes/Codex CLI/2025-11-19-2-agent-mode-changes-in-rust-v0-59-0|2 Agent Mode
+  changes in rust-v0.59.0]]'
 - '[[Changes/Cursor/2025-11-21-instant-grep-beta|Instant Grep (Beta)]]'
 source_release: '[[Releases/Cursor/cursor-2025-11-21-2-1-https-cursor-com-changelog-2-1-730bb490|cursor-2025-11-21-2-1-https-cursor-com-changelog-2-1-730bb490]]'
 source_type: cursor_changelog
@@ -85,8 +87,8 @@ Source: https://cursor.com/changelog/2-1
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2025-10-29 · Cursor · [[Changes/Cursor/2025-10-29-multi-agents-bb4f56|Multi-Agents]]
-- Later: 2025-12-10 · Cursor · [[Changes/Cursor/2025-12-10-plan-mode-now-supports-inline-mermaid-diagrams-allowing-the-agent-to-automatical|Plan Mode improvements]]
+- Earlier: 2025-11-19 · Codex CLI · [[Changes/Codex CLI/2025-11-19-2-agent-mode-changes-in-rust-v0-59-0|2 Agent Mode changes in rust-v0.59.0]]
+- Later: 2025-12-02 · Codex CLI · [[Changes/Codex CLI/2025-12-02-powershell-apply-patch-parsing-is-corrected-and-apply-patch-tests-now-cover-shel|PowerShell apply_patch parsing is corrected, and apply_patch tests now cover…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

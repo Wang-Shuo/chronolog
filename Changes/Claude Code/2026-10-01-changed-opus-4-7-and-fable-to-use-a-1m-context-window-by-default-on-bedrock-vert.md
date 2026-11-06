@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: f7fbe27c6929e86d311eecca2c781d2c56d61b29f23f3d62ed25de1287ee8adf
+machine_hash: c6cfa4ff27715b12492d84c48796b2984a53e918c3362c7d43cdd20309bb38b8
 product: claude-code
 product_name: Claude Code
 record:
@@ -58,12 +58,12 @@ record:
   title: Changed Opus 4.7+ and Fable to use a 1M context window by default on Bedrock…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-25-2-context-window-changes-in-v2-1-283|2 Context
-  Window changes in v2.1.283]]'
-- '[[Changes/Claude Code/2026-09-29-2-context-window-changes-in-v2-1-285|2 Context
-  Window changes in v2.1.285]]'
 - '[[Changes/Claude Code/2026-09-30-improved-the-model-fallback-notice-and-the-autocompact-thrashing-error-to-say-wh|Improved
   the model fallback notice and the autocompact-thrashing error to say…]]'
+- '[[Changes/Cline/2026-09-30-reasoning-tokens-are-no-longer-counted-twice-in-token-usage-cost-is-unchanged|Reasoning
+  tokens are no longer counted twice in token usage]]'
+- '[[Changes/GitHub Copilot CLI/2026-09-30-compaction-now-returns-a-summary-even-when-instructions-ask-for-tool-use|Compaction
+  now returns a summary even when instructions ask for tool use]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-10-01-v2-1-287-github-401174143-9cfdbb87|claude-code-2026-10-01-v2-1-287-github-401174143-9cfdbb87]]'
 source_type: github_releases
 theme: context-window
@@ -104,8 +104,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Context Window
 
-- Earlier: 2026-09-30 · Claude Code · [[Changes/Claude Code/2026-09-30-improved-the-model-fallback-notice-and-the-autocompact-thrashing-error-to-say-wh|Improved the model fallback notice and the autocompact-thrashing error to say…]]
-- Later: 2026-10-02 · Claude Code · [[Changes/Claude Code/2026-10-02-changed-autocompact-to-save-the-auto-compact-window-per-model-so-each-model-keep|Changed /autocompact to save the auto-compact window per model, so each model…]]
+- Earlier: 2026-09-30 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-09-30-compaction-now-returns-a-summary-even-when-instructions-ask-for-tool-use|Compaction now returns a summary even when instructions ask for tool use]]
+- Later: 2026-10-01 · Codex CLI · [[Changes/Codex CLI/2026-10-01-3-context-window-changes-in-rust-v0-160-0|3 Context Window changes in rust-v0.160.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

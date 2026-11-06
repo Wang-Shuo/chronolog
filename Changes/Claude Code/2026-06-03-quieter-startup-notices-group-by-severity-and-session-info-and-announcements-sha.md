@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: d2d60611c7d5a05d616ec99b457e5a4467b590589d82e2383b9ec2a5e4195ec4
+machine_hash: 440621f7f5c4b34c62628e45c04dace655bd7108582bda46419aa197b937f454
 product: claude-code
 product_name: Claude Code
 record:
@@ -44,8 +44,8 @@ record:
     share…'
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-05-11-cursor-is-now-available-in-microsoft-teams|Cursor is
-  now available in Microsoft Teams]]'
+- '[[Changes/Codex CLI/2026-05-18-3-collaboration-changes-in-rust-v0-131-0|3 Collaboration
+  changes in rust-v0.131.0]]'
 - '[[Changes/Cursor/2026-05-20-shared-canvases-a27a45|Shared canvases]]'
 - '[[Changes/Claude Code/2026-06-02-otel-resource-attributes-values-are-now-included-as-labels-on-metric-datapoints|OTEL_RESOURCE_ATTRIBUTES
   values are now included as labels on metric datapoints…]]'

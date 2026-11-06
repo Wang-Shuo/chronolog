@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 0b1dd0a1adcbf3d63ea8129f64f4e0a5cfde0a9606896f67e44715904803cf8f
+machine_hash: 9037b378524860697926bfba222f545926d43d57f6ac798803480467a03ca07c
 product: cursor
 product_name: Cursor
 record:
@@ -43,12 +43,12 @@ record:
   title: Default-on Cursor Prediction with a new UI
   type: change
 related_changes:
-- '[[Changes/Cursor/2024-04-12-copilot-ux-suggestion-previews-now-have-syntax-highlighting-which-we-find-makes|Copilot++
-  UX: Suggestion previews now have syntax highlighting, which we find makes…]]'
 - '[[Changes/Cursor/2024-05-26-merges-vs-code-1-89-into-cursor-38031f|Merges VS Code
   1.89 into Cursor]]'
 - '[[Changes/Cursor/2024-05-26-accept-partial-completions-with-copilot-ce6049|Accept
   partial completions with Copilot++]]'
+- '[[Changes/Aider/2024-06-04-properly-override-git-editor-env-for-commits-if-it-is-already-set|Properly
+  override GIT_EDITOR env for commits if it is already set]]'
 source_release: '[[Releases/Cursor/cursor-2024-06-08-0-35-x-https-cursor-com-changelog-0-35-x-b4216e90|cursor-2024-06-08-0-35-x-https-cursor-com-changelog-0-35-x-b4216e90]]'
 source_type: cursor_changelog
 theme: editor-experience
@@ -79,8 +79,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2024-05-26 · Cursor · [[Changes/Cursor/2024-05-26-accept-partial-completions-with-copilot-ce6049|Accept partial completions with Copilot++]]
-- Later: 2024-07-13 · Cursor · [[Changes/Cursor/2024-07-13-this-build-comes-with-a-new-experimental-multi-file-editing-feature-to-enable-it|Composer (beta)]]
+- Earlier: 2024-06-04 · Aider · [[Changes/Aider/2024-06-04-properly-override-git-editor-env-for-commits-if-it-is-already-set|Properly override GIT_EDITOR env for commits if it is already set]]
+- Later: 2024-06-29 · OpenHands · [[Changes/OpenHands/2024-06-29-3-editor-experience-changes-in-0-7-0|3 Editor Experience changes in 0.7.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

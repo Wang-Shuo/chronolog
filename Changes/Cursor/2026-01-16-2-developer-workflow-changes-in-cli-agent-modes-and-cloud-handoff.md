@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 676ebbb7eea8c1c5f3024be8b1163030b4bb83819fee7faeb5135096932340a7
+machine_hash: 0c417aaef2fb7c459b82cda0238ec276fa5fd59facf12bc10fae2f08b28ebc77
 product: cursor
 product_name: Cursor
 record:
@@ -44,12 +44,12 @@ record:
   title: 2 Developer Workflow changes in CLI Agent Modes and Cloud Handoff
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-01-12-added-claude-code-tmpdir-environment-variable-to-override-the-temp-directory-use|Added
-  CLAUDE_CODE_TMPDIR environment variable to override the temp directory used…]]'
-- '[[Changes/Claude Code/2026-01-13-3-developer-workflow-changes-in-v2-1-6|3 Developer
-  Workflow changes in v2.1.6]]'
 - '[[Changes/Claude Code/2026-01-16-added-session-url-attribution-to-commits-and-prs-created-from-web-sessions|Added
   session URL attribution to commits and PRs created from web sessions]]'
+- '[[Changes/Codex CLI/2026-01-16-input-prompt-placeholder-styling-is-back-to-non-italic-to-avoid-terminal-renderi|Input
+  prompt placeholder styling is back to non-italic to avoid terminal rendering…]]'
+- '[[Changes/Codex CLI/2026-01-16-user-shell-commands-now-run-under-the-user-snapshot-so-aliases-and-shell-config|User
+  shell commands now run under the user snapshot so aliases and shell config…]]'
 source_release: '[[Releases/Cursor/cursor-2026-01-16-cli-agent-modes-and-cloud-handoff-https-cursor-com-changelog-cli-becd78b5|cursor-2026-01-16-cli-agent-modes-and-cloud-handoff-https-cursor-com-changelog-cli-becd78b5]]'
 source_type: cursor_changelog
 theme: developer-workflow
@@ -93,8 +93,8 @@ Source: https://cursor.com/changelog/cli-jan-16-2026
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2026-01-16 · Claude Code · [[Changes/Claude Code/2026-01-16-added-session-url-attribution-to-commits-and-prs-created-from-web-sessions|Added session URL attribution to commits and PRs created from web sessions]]
-- Later: 2026-01-20 · Claude Code · [[Changes/Claude Code/2026-01-20-vscode-added-usage-command-to-display-current-plan-usage|VSCode Added /usage command to display current plan usage]]
+- Earlier: 2026-01-16 · Codex CLI · [[Changes/Codex CLI/2026-01-16-user-shell-commands-now-run-under-the-user-snapshot-so-aliases-and-shell-config|User shell commands now run under the user snapshot so aliases and shell config…]]
+- Later: 2026-01-16 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-01-16-2-developer-workflow-changes-in-v0-0-384|2 Developer Workflow changes in v0.0.384]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

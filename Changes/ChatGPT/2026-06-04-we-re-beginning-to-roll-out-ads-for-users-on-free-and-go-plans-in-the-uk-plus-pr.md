@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: expansion
-machine_hash: eeb0144380fdee4cfc77a7e4984b638cafd440e1fde838fdfc4c129ff45449fc
+machine_hash: c8e3867bcaef0b44d72952bd142f13c52309aacec71b7f0cc1e13f00ded3838d
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -43,8 +43,8 @@ record:
   title: Rolling out ads in the UK
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-05-13-added-anthropic-workspace-id-environment-variable-for-workload-identity-federati|Added
-  ANTHROPIC_WORKSPACE_ID environment variable for workload identity federation]]'
+- '[[Changes/Codex CLI/2026-05-26-23736-add-new-enterprise-requirement-gate-adams-oai|♯23736
+  Add new enterprise requirement gate @adams-oai]]'
 - '[[Changes/Cursor/2026-06-03-admins-can-move-users-between-teams-through-the-dashboard-api-or-csv|Admins
   can move users between teams through the dashboard, API, or CSV]]'
 - '[[Changes/Cursor/2026-06-03-an-organization-is-the-top-level-container-for-your-company-s-identity-administr|Organizations]]'

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: fa1f54e3ccaee5dc435bc48e76fceb27d35fac148e5919b20cbe5d76e27796db
+machine_hash: db4dd5eeb308b206a386061f5456bdb04eeb1ed0f612554b6ed737e029f9f259
 product: claude-code
 product_name: Claude Code
 record:
@@ -53,12 +53,12 @@ record:
   title: 4 Interface Experience changes in v2.1.286
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-28-added-effortslider-decreaseeffort-increaseeffort-and-toggleultracode-keybinding|Added
-  effortSlider:decreaseEffort, increaseEffort and toggleUltracode…]]'
-- '[[Changes/Claude Code/2026-09-28-added-rate-limit-options-to-help-and-the-command-menu-for-claude-ai-subscribers|Added
-  /rate-limit-options to /help and the command menu for claude.ai…]]'
+- '[[Changes/GitHub Copilot CLI/2026-09-28-4-interface-experience-changes-in-v1-0-89|4
+  Interface Experience changes in v1.0.89]]'
 - '[[Changes/Claude Code/2026-09-29-improved-responsiveness-when-leaving-the-ctrl-o-transcript-view-in-long-sessions|Improved
   responsiveness when leaving the ctrl+o transcript view in long sessions…]]'
+- '[[Changes/Codex CLI/2026-09-29-4-interface-experience-changes-in-rust-v0-159-0|4
+  Interface Experience changes in rust-v0.159.0]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-30-v2-1-286-github-400266224-9fb31eb7|claude-code-2026-09-30-v2-1-286-github-400266224-9fb31eb7]]'
 source_type: github_releases
 theme: interface-experience
@@ -102,8 +102,8 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.286
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-09-29 · Claude Code · [[Changes/Claude Code/2026-09-29-improved-responsiveness-when-leaving-the-ctrl-o-transcript-view-in-long-sessions|Improved responsiveness when leaving the ctrl+o transcript view in long sessions…]]
-- Later: 2026-10-02 · Claude Code · [[Changes/Claude Code/2026-10-02-added-ui-selection-for-mods-returns-the-text-you-last-selected-in-fullscreen-mod|Added $.ui.selection() for mods]]
+- Earlier: 2026-09-29 · Codex CLI · [[Changes/Codex CLI/2026-09-29-4-interface-experience-changes-in-rust-v0-159-0|4 Interface Experience changes in rust-v0.159.0]]
+- Later: 2026-09-30 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-09-30-2-interface-experience-changes-in-v1-0-90|2 Interface Experience changes in v1.0.90]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

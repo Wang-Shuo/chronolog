@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: bd5252ac5c166a99849d4106fcbde42198aeb5171123a349e3b9548311d3dfb2
+machine_hash: 5da1d81351f895ad7fd3cbd6f79308ef40b35a78b1a960cc5d89f8c9b6a33fa6
 product: cursor
 product_name: Cursor
 record:
@@ -58,10 +58,12 @@ record:
     prevent…
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2025-09-29-we-re-rolling-out-parental-controls-globally-in-chatgpt-to-help-families-guide-h-289d0a|ChatGPT
-  rolls out parental controls globally to help families guide how ChatGPT…]]'
-- '[[Changes/Cursor/2025-09-29-sandboxed-terminals|Sandboxed terminals]]'
-- '[[Changes/Cursor/2025-10-29-sandboxed-terminals-ga|Sandboxed Terminals (GA)]]'
+- '[[Changes/Codex CLI/2025-12-19-2-safety-and-privacy-changes-in-rust-v0-76-0|2 Safety
+  and Privacy changes in rust-v0.76.0]]'
+- '[[Changes/GitHub Copilot CLI/2025-12-19-add-url-permission-controls-which-affect-common-shell-commands-which-access-the|Add
+  URL permission controls which affect common shell commands which access the web]]'
+- '[[Changes/Codex CLI/2025-12-21-2-safety-and-privacy-changes-in-rust-v0-77-0|2 Safety
+  and Privacy changes in rust-v0.77.0]]'
 source_release: '[[Releases/Cursor/cursor-2025-12-22-2-3-https-cursor-com-changelog-2-3-fe418465|cursor-2025-12-22-2-3-https-cursor-com-changelog-2-3-fe418465]]'
 source_type: cursor_changelog
 theme: safety-privacy
@@ -97,8 +99,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Safety and Privacy
 
-- Earlier: 2025-10-29 · Cursor · [[Changes/Cursor/2025-10-29-sandboxed-terminals-ga|Sandboxed Terminals (GA)]]
-- Later: 2026-01-09 · Claude Code · [[Changes/Claude Code/2026-01-09-2-safety-and-privacy-changes-in-v2-1-2|2 Safety and Privacy changes in v2.1.2]]
+- Earlier: 2025-12-21 · Codex CLI · [[Changes/Codex CLI/2025-12-21-2-safety-and-privacy-changes-in-rust-v0-77-0|2 Safety and Privacy changes in rust-v0.77.0]]
+- Later: 2026-01-06 · Codex CLI · [[Changes/Codex CLI/2026-01-06-3-safety-and-privacy-changes-in-rust-v0-78-0|3 Safety and Privacy changes in rust-v0.78.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

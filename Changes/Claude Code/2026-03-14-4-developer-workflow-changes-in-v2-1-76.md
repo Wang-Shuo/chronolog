@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: ae5f395930966acb07c872f1b24c574d04d9a34941587048130bb0cadff5727c
+machine_hash: 373534f6fa707e4a4626cbe1ca8af23dc07e5e1d4b5e17cd7ceeb96240edfa24
 product: claude-code
 product_name: Claude Code
 record:
@@ -51,12 +51,12 @@ record:
   title: 4 Developer Workflow changes in v2.1.76
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-03-10-3-developer-workflow-changes-in-v2-1-72|3 Developer
-  Workflow changes in v2.1.72]]'
-- '[[Changes/Claude Code/2026-03-11-deprecated-output-style-command-use-config-instead-output-style-is-now-fixed-at|Deprecated
-  /output-style command — use /config instead]]'
+- '[[Changes/OpenHands/2026-03-11-2-developer-workflow-changes-in-1-5-0|2 Developer
+  Workflow changes in 1.5.0]]'
 - '[[Changes/Claude Code/2026-03-12-vscode-improved-scroll-wheel-responsiveness-in-the-integrated-terminal-with-term|VSCode
   Improved scroll wheel responsiveness in the integrated terminal…]]'
+- '[[Changes/GitHub Copilot CLI/2026-03-13-3-developer-workflow-changes-in-v1-0-5|3
+  Developer Workflow changes in v1.0.5]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-03-14-v2-1-76-github-296929324-94cd2ffc|claude-code-2026-03-14-v2-1-76-github-296929324-94cd2ffc]]'
 source_type: github_releases
 theme: developer-workflow
@@ -101,8 +101,8 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.76
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2026-03-12 · Claude Code · [[Changes/Claude Code/2026-03-12-vscode-improved-scroll-wheel-responsiveness-in-the-integrated-terminal-with-term|VSCode Improved scroll wheel responsiveness in the integrated terminal…]]
-- Later: 2026-03-17 · Claude Code · [[Changes/Claude Code/2026-03-17-background-bash-tasks-are-now-killed-if-output-exceeds-5gb-preventing-runaway-pr|Background bash tasks are now killed if output exceeds 5GB, preventing runaway…]]
+- Earlier: 2026-03-13 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-03-13-3-developer-workflow-changes-in-v1-0-5|3 Developer Workflow changes in v1.0.5]]
+- Later: 2026-03-16 · Codex CLI · [[Changes/Codex CLI/2026-03-16-2-developer-workflow-changes-in-rust-v0-115-0|2 Developer Workflow changes in rust-v0.115.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

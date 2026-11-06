@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 7137467e0eb84dca100fd7f3e824480f4ae84c4a4f0f68e4eda167065f774400
+machine_hash: fff543faf18f62ec13663c2db59a08b6f3891d4465b227f8420935510ca113c1
 product: claude-code
 product_name: Claude Code
 record:
@@ -57,10 +57,10 @@ record:
     policy…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-01-2-mobile-and-desktop-changes-in-v2-1-287|2 Mobile
-  and Desktop changes in v2.1.287]]'
 - '[[Changes/ChatGPT/2026-10-02-finances-in-chatgpt-is-rolling-out-to-free-and-go-users-in-the-u-s-on-web-ios-an|Finances
   expands to Free and Go users]]'
+- '[[Changes/GitHub Copilot CLI/2026-10-05-sandboxed-commands-on-windows-write-temporary-files-to-the-granted-temp-director|Sandboxed
+  commands on Windows write temporary files to the granted temp directory…]]'
 - '[[Changes/Cursor/2026-10-06-to-stop-your-computer-from-sleeping-while-you-re-away-turn-on-keep-this-computer|Keep
   your computer awake]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-10-08-v2-1-295-github-407134589-d5c87510|claude-code-2026-10-08-v2-1-295-github-407134589-d5c87510]]'
@@ -104,7 +104,7 @@ type: change
 ## Nearby in Mobile and Desktop
 
 - Earlier: 2026-10-06 · Cursor · [[Changes/Cursor/2026-10-06-to-stop-your-computer-from-sleeping-while-you-re-away-turn-on-keep-this-computer|Keep your computer awake]]
-- Later: 2026-10-14 · Claude Code · [[Changes/Claude Code/2026-10-14-2-mobile-and-desktop-changes-in-v2-1-300|2 Mobile and Desktop changes in v2.1.300]]
+- Later: 2026-10-08 · Codex CLI · [[Changes/Codex CLI/2026-10-08-50384-allow-opting-into-16-kib-arm64-code-pages-for-macos-signing-chess-oai|♯50384 Allow opting into 16 KiB ARM64 code pages for macOS signing @chess-oai]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

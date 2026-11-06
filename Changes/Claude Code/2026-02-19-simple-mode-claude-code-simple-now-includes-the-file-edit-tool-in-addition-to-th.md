@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 0b2c69c055c83e9c7b53a3cbd274f25661af93eef1152808a19b74dd910eab49
+machine_hash: 3a46d1bc257db0a92c42a2aff678a6321a1631ef4acafb212ca1dd650ea56629
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,10 +45,10 @@ record:
   title: Simple mode (`CLAUDE_CODE_SIMPLE`) now includes the file edit tool in addition…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-01-28-improved-claude-to-prefer-file-operation-tools-read-edit-write-over-bash-equival|Improved
-  Claude to prefer file operation tools (Read, Edit, Write) over bash…]]'
-- '[[Changes/Cursor/2026-02-17-manual-edits-no-longer-create-in-line-diffs|Manual
-  edits no longer create in-line diffs]]'
+- '[[Changes/GitHub Copilot CLI/2026-02-17-tab-completion-respects-the-highlighted-slash-command-selection|Tab
+  completion respects the highlighted slash command selection]]'
+- '[[Changes/Gemini CLI/2026-02-18-2-editor-experience-changes-in-v0-29-0|2 Editor
+  Experience changes in v0.29.0]]'
 - '[[Changes/ChatGPT/2026-02-19-we-improved-code-blocks-in-chatgpt-to-make-them-more-interactive-you-can-write-e-6b2623|We
   improved Code Blocks in ChatGPT to make them more interactive]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-02-19-v2-1-49-github-288498923-7c27a140|claude-code-2026-02-19-v2-1-49-github-288498923-7c27a140]]'
@@ -84,7 +84,7 @@ type: change
 ## Nearby in Editor Experience
 
 - Earlier: 2026-02-19 · ChatGPT · [[Changes/ChatGPT/2026-02-19-we-improved-code-blocks-in-chatgpt-to-make-them-more-interactive-you-can-write-e-6b2623|We improved Code Blocks in ChatGPT to make them more interactive]]
-- Later: 2026-02-27 · ChatGPT · [[Changes/ChatGPT/2026-02-27-edit-messages-with-images-you-can-now-edit-messages-that-include-image-attachmen|Edit messages with images]]
+- Later: 2026-02-19 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-02-19-3-editor-experience-changes-in-v0-0-412|3 Editor Experience changes in v0.0.412]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

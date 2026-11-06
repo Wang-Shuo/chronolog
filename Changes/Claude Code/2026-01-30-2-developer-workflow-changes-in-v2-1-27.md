@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: c41684341118629a4bddf6c8196d6fadd88e4eb4249075606958390d3c406799
+machine_hash: ea8cf30733d13d39185346419bebe7bd0ebd4d7091a733a41b0c3b876850d49f
 product: claude-code
 product_name: Claude Code
 record:
@@ -41,12 +41,12 @@ record:
   title: 2 Developer Workflow changes in v2.1.27
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-01-27-3-developer-workflow-changes-in-v2-1-20|3 Developer
-  Workflow changes in v2.1.20]]'
-- '[[Changes/Claude Code/2026-01-28-vscode-added-automatic-python-virtual-environment-activation-ensuring-python-and|VSCode
-  Added automatic Python virtual environment activation, ensuring python…]]'
+- '[[Changes/GitHub Copilot CLI/2026-01-28-header-layout-adapts-better-to-narrow-terminal-widths|Header
+  layout adapts better to narrow terminal widths]]'
 - '[[Changes/Claude Code/2026-01-29-changed-bash-commands-to-show-timeout-duration-alongside-elapsed-time|Changed
   Bash commands to show timeout duration alongside elapsed time]]'
+- '[[Changes/GitHub Copilot CLI/2026-01-29-add-lsp-language-server-protocol-tool-for-code-intelligence-requires-staff-flag|Add
+  LSP (Language Server Protocol) tool for code intelligence (requires staff flag)]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-01-30-v2-1-27-github-281663155-d003937d|claude-code-2026-01-30-v2-1-27-github-281663155-d003937d]]'
 source_type: github_releases
 theme: developer-workflow
@@ -81,8 +81,8 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.27
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2026-01-29 · Claude Code · [[Changes/Claude Code/2026-01-29-changed-bash-commands-to-show-timeout-duration-alongside-elapsed-time|Changed Bash commands to show timeout duration alongside elapsed time]]
-- Later: 2026-02-03 · Claude Code · [[Changes/Claude Code/2026-02-03-2-developer-workflow-changes-in-v2-1-30|2 Developer Workflow changes in v2.1.30]]
+- Earlier: 2026-01-29 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-01-29-add-lsp-language-server-protocol-tool-for-code-intelligence-requires-staff-flag|Add LSP (Language Server Protocol) tool for code intelligence (requires staff flag)]]
+- Later: 2026-01-30 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-01-30-3-developer-workflow-changes-in-v0-0-400|3 Developer Workflow changes in v0.0.400]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

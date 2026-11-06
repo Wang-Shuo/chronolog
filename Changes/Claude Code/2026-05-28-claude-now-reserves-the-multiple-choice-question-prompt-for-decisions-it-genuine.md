@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: eb3d95d5a59ff794d48feab6435b19869aec7a72d5136b63265e83a12c350740
+machine_hash: b9b8646f9cb4f5e10573bdf1a148b9eb1340eb15ab9e2101d0c8b82afe0f01e7
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,10 +45,10 @@ record:
     genuinely…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-05-19-the-post-survey-follow-up-hint-now-appears-after-every-non-dismiss-survey-respon|The
-  post-survey follow-up hint now appears after every non-dismiss survey response…]]'
-- '[[Changes/Claude Code/2026-05-22-improved-feedback-reports-to-include-the-conversation-that-happened-before-conte|Improved
-  /feedback reports to include the conversation that happened before…]]'
+- '[[Changes/GitHub Copilot CLI/2026-05-23-4-context-window-changes-in-v1-0-52|4 Context
+  Window changes in v1.0.52]]'
+- '[[Changes/Codex CLI/2026-05-26-5-context-window-changes-in-rust-v0-134-0|5 Context
+  Window changes in rust-v0.134.0]]'
 - '[[Changes/Claude Code/2026-05-27-added-pluginsuggestionmarketplaces-managed-setting-admins-can-allowlist-org-mark|Added
   pluginSuggestionMarketplaces managed setting]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-05-28-v2-1-154-github-330944050-782cdfc9|claude-code-2026-05-28-v2-1-154-github-330944050-782cdfc9]]'
@@ -88,7 +88,7 @@ type: change
 ## Nearby in Context Window
 
 - Earlier: 2026-05-27 · Claude Code · [[Changes/Claude Code/2026-05-27-added-pluginsuggestionmarketplaces-managed-setting-admins-can-allowlist-org-mark|Added pluginSuggestionMarketplaces managed setting]]
-- Later: 2026-06-04 · Cursor · [[Changes/Cursor/2026-06-04-this-release-introduces-design-mode-for-faster-canvas-editing-new-ways-to-unders|Cursor introduces Design Mode for faster canvas editing, new ways to understand…]]
+- Later: 2026-05-28 · Cline · [[Changes/Cline/2026-05-28-show-prompt-cache-support-for-qwen-3-7-max-in-the-cline-provider|Show prompt-cache support for Qwen 3.7 Max in the Cline provider]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

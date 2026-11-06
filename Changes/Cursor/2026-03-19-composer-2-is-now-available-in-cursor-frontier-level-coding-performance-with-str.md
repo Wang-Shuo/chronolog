@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: ec7fb2a28ccd210ee554d470cf498b053f6e8513715cebfdd49bb2a0889b5598
+machine_hash: c5b39688c0d2e928b9368e7d11f1ade636b879df9beb78028e499f1f7cba3ccd
 product: cursor
 product_name: Cursor
 record:
@@ -78,7 +78,7 @@ type: change
 ## Nearby in Reliability and Performance
 
 - Earlier: 2026-03-19 · Claude Code · [[Changes/Claude Code/2026-03-19-reduced-memory-usage-on-startup-in-large-repositories-80-mb-saved-on-250k-file-r|Reduced memory usage on startup in large repositories (~80 MB saved on 250k-file repos)]]
-- Later: 2026-03-25 · Claude Code · [[Changes/Claude Code/2026-03-25-3-reliability-and-performance-changes-in-v2-1-83|3 Reliability and Performance changes in v2.1.83]]
+- Later: 2026-03-19 · Windsurf · [[Changes/Windsurf/2026-03-19-various-bug-fixes-and-performance-improvements|Various bug fixes and performance improvements]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

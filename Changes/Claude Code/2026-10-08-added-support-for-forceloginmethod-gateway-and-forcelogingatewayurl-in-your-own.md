@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 8619d90cf2f584bf6cdd51e19cb704a1b10a2496a40468a8a3fc254e1cd982c5
+machine_hash: a8ddeeb89e9c8b070e04aa9c84b13f8da7682e28de2abce33049d4a11b8f9408
 product: claude-code
 product_name: Claude Code
 record:
@@ -46,12 +46,12 @@ record:
   title: 'Added support for `forceLoginMethod: "gateway"` and `forceLoginGatewayUrl`…'
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-01-added-url-prompts-from-mcp-servers-on-the-2025-11-25-protocol-for-example-to-sig|Added
-  URL prompts from MCP servers on the 2025-11-25 protocol, for example to sign in]]'
-- '[[Changes/Claude Code/2026-10-02-added-a-re-authenticate-prompt-when-an-mcp-server-asks-for-more-oauth-scope-duri|Added
-  a re-authenticate prompt when an MCP server asks for more OAuth scope during…]]'
-- '[[Changes/Claude Code/2026-10-05-3-account-and-access-changes-in-v2-1-290|3 Account
-  and Access changes in v2.1.290]]'
+- '[[Changes/GitHub Copilot CLI/2026-10-05-3-account-and-access-changes-in-v1-0-92|3
+  Account and Access changes in v1.0.92]]'
+- '[[Changes/Codex CLI/2026-10-07-10-account-and-access-changes-in-rust-v0-161-0|10
+  Account and Access changes in rust-v0.161.0]]'
+- '[[Changes/GitHub Copilot CLI/2026-10-07-2-account-and-access-changes-in-v1-0-93|2
+  Account and Access changes in v1.0.93]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-10-08-v2-1-295-github-407134589-d5c87510|claude-code-2026-10-08-v2-1-295-github-407134589-d5c87510]]'
 source_type: github_releases
 theme: account-access
@@ -91,8 +91,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Account and Access
 
-- Earlier: 2026-10-05 · Claude Code · [[Changes/Claude Code/2026-10-05-3-account-and-access-changes-in-v2-1-290|3 Account and Access changes in v2.1.290]]
-- Later: 2026-10-09 · Claude Code · [[Changes/Claude Code/2026-10-09-improved-the-errors-for-a-refused-cloud-session-they-now-say-why-your-organizati|Improved the errors for a refused cloud session]]
+- Earlier: 2026-10-07 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-10-07-2-account-and-access-changes-in-v1-0-93|2 Account and Access changes in v1.0.93]]
+- Later: 2026-10-08 · Codex CLI · [[Changes/Codex CLI/2026-10-08-2-account-and-access-changes-in-rust-v0-162-0|2 Account and Access changes in rust-v0.162.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

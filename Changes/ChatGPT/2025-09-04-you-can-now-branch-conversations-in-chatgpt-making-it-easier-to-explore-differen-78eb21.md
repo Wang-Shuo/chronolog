@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: projects-workspaces
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 75626f821aa30c2f0a43eb5c9b100d3d5b892b6a706ecff84ff161ba1608e698
+machine_hash: 5a2afd1d81b6fc782a443144ff4bc7d4c33720f536ac5709c8521671df775183
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -51,12 +51,12 @@ record:
   title: Branch conversations on web
   type: change
 related_changes:
-- '[[Changes/Cursor/2024-09-17-composer-notepads-previously-called-projects-can-now-include-tagged-files-and-be|Composer
-  Notepads (previously called Projects) can now include tagged files…]]'
 - '[[Changes/Cursor/2024-10-09-composer-history-lets-you-access-previous-composer-sessions-after-restart-you-ca|Composer
   history lets you access previous composer sessions after restart]]'
 - '[[Changes/ChatGPT/2025-06-12-starting-a-new-project-directly-from-a-chat|Starting
   a new project directly from a chat]]'
+- '[[Changes/Codex CLI/2025-08-20-2352-https-github-com-openai-codex-pull-2352-tui-skip-identical-consecutive-entr|♯2352((source
+  link) tui: skip identical consecutive…]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-09-04-branch-conversations-on-web-335d0aa3|chatgpt-2025-09-04-branch-conversations-on-web-335d0aa3]]'
 source_type: chatgpt_changelog
 theme: projects-workspaces
@@ -83,8 +83,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Projects and Workspaces
 
-- Earlier: 2025-06-12 · ChatGPT · [[Changes/ChatGPT/2025-06-12-starting-a-new-project-directly-from-a-chat|Starting a new project directly from a chat]]
-- Later: 2025-12-19 · Claude Code · [[Changes/Claude Code/2025-12-19-added-support-for-custom-session-ids-when-forking-sessions-with-session-id-combi|Added support for custom session IDs when forking sessions with --session-id…]]
+- Earlier: 2025-08-20 · Codex CLI · [[Changes/Codex CLI/2025-08-20-2352-https-github-com-openai-codex-pull-2352-tui-skip-identical-consecutive-entr|♯2352((source link) tui: skip identical consecutive…]]
+- Later: 2025-10-03 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2025-10-03-removed-the-on-exit-usage-stats-from-the-persisted-session-history|Removed the on-exit usage stats from the persisted session history]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

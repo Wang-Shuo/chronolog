@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 4d8750b3d8eb40b6b5de88b45c8b14c001557fb3de77a34069144220ba355327
+machine_hash: 3989080fc324ca14878e2e7f1d6ea569b7abd29239a57ff206ef521ccb3a65e0
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -68,10 +68,12 @@ record:
   title: New tone and personalization controls
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-10-29-introducing-our-first-agentic-coding-model-composer-is-a-frontier-model-that-is|Composer]]'
-- '[[Changes/Cursor/2025-10-29-plan-mode-in-background|Plan Mode in Background]]'
-- '[[Changes/ChatGPT/2025-11-05-you-can-now-interrupt-long-running-queries-such-as-deep-research-or-gpt-5-pro-to|Interrupt
-  ChatGPT]]'
+- '[[Changes/Codex CLI/2025-11-07-3-model-support-changes-in-rust-v0-56-0|3 Model
+  Support changes in rust-v0.56.0]]'
+- '[[Changes/Gemini CLI/2025-11-07-4-model-support-changes-in-v0-13-0|4 Model Support
+  changes in v0.13.0]]'
+- '[[Changes/Codex CLI/2025-11-09-6351-promote-shell-config-tool-to-model-family-config|♯6351
+  – Promote shell config tool to model family config]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-11-12-new-tone-and-personalization-controls-8052eeb3|chatgpt-2025-11-12-new-tone-and-personalization-controls-8052eeb3]]'
 source_type: chatgpt_changelog
 theme: model-support
@@ -98,7 +100,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2025-11-05 · ChatGPT · [[Changes/ChatGPT/2025-11-05-you-can-now-interrupt-long-running-queries-such-as-deep-research-or-gpt-5-pro-to|Interrupt ChatGPT]]
+- Earlier: 2025-11-09 · Codex CLI · [[Changes/Codex CLI/2025-11-09-6351-promote-shell-config-tool-to-model-family-config|♯6351 – Promote shell config tool to model family config]]
 - Later: 2025-11-12 · ChatGPT · [[Changes/ChatGPT/2025-11-12-we-re-updating-gpt-5-to-gpt-5-1-instant-and-gpt-5-1-thinking-making-answers-both-d702c4|GPT-5.1 in ChatGPT]]
 <!-- chronolog:end -->
 

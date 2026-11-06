@@ -1,0 +1,502 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e3]:
+    - generic [ref=e4]:
+      - generic [ref=e5]:
+        - heading [level=2] [ref=e6]:
+          - link "ChronoLog" [ref=e7] [cursor=pointer]:
+            - /url: ..
+        - paragraph [ref=e8]: Tracked changes in AI assistants and coding tools
+      - button [ref=e10] [cursor=pointer]:
+        - img "Search" [ref=e11]
+        - paragraph [ref=e15]: Search
+      - button [ref=e16] [cursor=pointer]:
+        - img "Dark mode" [ref=e17]
+      - generic [ref=e19]:
+        - button [expanded] [ref=e20] [cursor=pointer]:
+          - heading "Explorer" [level=2] [ref=e21]
+        - group [ref=e23]:
+          - list [ref=e24]:
+            - listitem [ref=e598]:
+              - generic [ref=e599]:
+                - img [ref=e600] [cursor=pointer]
+                - link "Products" [ref=e602] [cursor=pointer]:
+                  - /url: ../Products/
+              - list [ref=e604]:
+                - listitem [ref=e605]:
+                  - link "Aider" [ref=e606] [cursor=pointer]:
+                    - /url: ../Products/Aider
+                - listitem [ref=e607]:
+                  - link "ChatGPT" [ref=e608] [cursor=pointer]:
+                    - /url: ../Products/ChatGPT
+                - listitem [ref=e609]:
+                  - link "Claude Code" [ref=e610] [cursor=pointer]:
+                    - /url: ../Products/Claude-Code
+                - listitem [ref=e611]:
+                  - link "Cline" [ref=e612] [cursor=pointer]:
+                    - /url: ../Products/Cline
+                - listitem [ref=e613]:
+                  - link "Codex CLI" [ref=e614] [cursor=pointer]:
+                    - /url: ../Products/Codex-CLI
+                - listitem [ref=e615]:
+                  - link "Cursor" [ref=e616] [cursor=pointer]:
+                    - /url: ../Products/Cursor
+                - listitem [ref=e617]:
+                  - link "Gemini CLI" [ref=e618] [cursor=pointer]:
+                    - /url: ../Products/Gemini-CLI
+                - listitem [ref=e619]:
+                  - link "GitHub Copilot CLI" [ref=e620] [cursor=pointer]:
+                    - /url: ../Products/GitHub-Copilot-CLI
+                - listitem [ref=e621]:
+                  - link "OpenHands" [ref=e622] [cursor=pointer]:
+                    - /url: ../Products/OpenHands
+                - listitem [ref=e623]:
+                  - link "Windsurf" [ref=e624] [cursor=pointer]:
+                    - /url: ../Products/Windsurf
+            - listitem [ref=e625]:
+              - generic [ref=e626]:
+                - img [ref=e627] [cursor=pointer]
+                - link "Themes" [ref=e629] [cursor=pointer]:
+                  - /url: ../Themes/
+              - list [ref=e631]:
+                - listitem [ref=e632]:
+                  - link "Accessibility and Localization" [ref=e633] [cursor=pointer]:
+                    - /url: ../Themes/accessibility-localization
+                - listitem [ref=e634]:
+                  - link "Account and Access" [ref=e635] [cursor=pointer]:
+                    - /url: ../Themes/account-access
+                - listitem [ref=e636]:
+                  - link "Agent Mode" [ref=e637] [cursor=pointer]:
+                    - /url: ../Themes/agent-mode
+                - listitem [ref=e638]:
+                  - link "Apps and Integrations" [ref=e639] [cursor=pointer]:
+                    - /url: ../Themes/apps-integrations
+                - listitem [ref=e640]:
+                  - link "Artifact Creation" [ref=e641] [cursor=pointer]:
+                    - /url: ../Themes/artifact-creation
+                - listitem [ref=e642]:
+                  - link "Automation and Scheduling" [ref=e643] [cursor=pointer]:
+                    - /url: ../Themes/automation-scheduling
+                - listitem [ref=e644]:
+                  - link "Collaboration" [ref=e645] [cursor=pointer]:
+                    - /url: ../Themes/collaboration
+                - listitem [ref=e646]:
+                  - link "Context Window" [ref=e647] [cursor=pointer]:
+                    - /url: ../Themes/context-window
+                - listitem [ref=e648]:
+                  - link "Developer Workflow" [ref=e649] [cursor=pointer]:
+                    - /url: ../Themes/developer-workflow
+                - listitem [ref=e650]:
+                  - link "Editor Experience" [ref=e651] [cursor=pointer]:
+                    - /url: ../Themes/editor-experience
+                - listitem [ref=e652]:
+                  - link "Enterprise and Administration" [ref=e653] [cursor=pointer]:
+                    - /url: ../Themes/enterprise-admin
+                - listitem [ref=e654]:
+                  - link "Files and Data" [ref=e655] [cursor=pointer]:
+                    - /url: ../Themes/file-data
+                - listitem [ref=e656]:
+                  - link "Image Generation" [ref=e657] [cursor=pointer]:
+                    - /url: ../Themes/image-generation
+                - listitem [ref=e658]:
+                  - link "Interface Experience" [ref=e659] [cursor=pointer]:
+                    - /url: ../Themes/interface-experience
+                - listitem [ref=e660]:
+                  - link "Learning Tools" [ref=e661] [cursor=pointer]:
+                    - /url: ../Themes/learning-tools
+                - listitem [ref=e662]:
+                  - link "Memory and Personalization" [ref=e663] [cursor=pointer]:
+                    - /url: ../Themes/memory
+                - listitem [ref=e664]:
+                  - link "Mobile and Desktop" [ref=e665] [cursor=pointer]:
+                    - /url: ../Themes/mobile-desktop
+                - listitem [ref=e666]:
+                  - link "Model Support" [ref=e667] [cursor=pointer]:
+                    - /url: ../Themes/model-support
+                - listitem [ref=e668]:
+                  - link "Multimodal Input" [ref=e669] [cursor=pointer]:
+                    - /url: ../Themes/multimodal
+                - listitem [ref=e670]:
+                  - link "Pricing Model" [ref=e671] [cursor=pointer]:
+                    - /url: ../Themes/pricing-model
+                - listitem [ref=e672]:
+                  - link "Projects and Workspaces" [ref=e673] [cursor=pointer]:
+                    - /url: ../Themes/projects-workspaces
+                - listitem [ref=e674]:
+                  - link "Reliability and Performance" [ref=e675] [cursor=pointer]:
+                    - /url: ../Themes/reliability-performance
+                - listitem [ref=e676]:
+                  - link "Safety and Privacy" [ref=e677] [cursor=pointer]:
+                    - /url: ../Themes/safety-privacy
+                - listitem [ref=e678]:
+                  - link "Search and Browsing" [ref=e679] [cursor=pointer]:
+                    - /url: ../Themes/search-browsing
+                - listitem [ref=e680]:
+                  - link "Voice and Audio" [ref=e681] [cursor=pointer]:
+                    - /url: ../Themes/voice
+            - listitem [ref=e682]:
+              - generic [ref=e683]:
+                - img [ref=e684] [cursor=pointer]
+                - link "Archive" [ref=e686] [cursor=pointer]:
+                  - /url: ../Archive/
+              - list [ref=e688]:
+                - listitem [ref=e689]:
+                  - link "November 2026" [ref=e690] [cursor=pointer]:
+                    - /url: ../Archive/2026-11
+                - listitem [ref=e691]:
+                  - link "October 2026" [ref=e692] [cursor=pointer]:
+                    - /url: ../Archive/2026-10
+                - listitem [ref=e693]:
+                  - link "September 2026" [ref=e694] [cursor=pointer]:
+                    - /url: ../Archive/2026-09
+                - listitem [ref=e695]:
+                  - link "August 2026" [ref=e696] [cursor=pointer]:
+                    - /url: ../Archive/2026-08
+                - listitem [ref=e697]:
+                  - link "July 2026" [ref=e698] [cursor=pointer]:
+                    - /url: ../Archive/2026-07
+                - listitem [ref=e699]:
+                  - link "June 2026" [ref=e700] [cursor=pointer]:
+                    - /url: ../Archive/2026-06
+                - listitem [ref=e701]:
+                  - link "May 2026" [ref=e702] [cursor=pointer]:
+                    - /url: ../Archive/2026-05
+                - listitem [ref=e703]:
+                  - link "April 2026" [ref=e704] [cursor=pointer]:
+                    - /url: ../Archive/2026-04
+                - listitem [ref=e705]:
+                  - link "March 2026" [ref=e706] [cursor=pointer]:
+                    - /url: ../Archive/2026-03
+                - listitem [ref=e707]:
+                  - link "February 2026" [ref=e708] [cursor=pointer]:
+                    - /url: ../Archive/2026-02
+                - listitem [ref=e709]:
+                  - link "January 2026" [ref=e710] [cursor=pointer]:
+                    - /url: ../Archive/2026-01
+                - listitem [ref=e711]:
+                  - link "December 2025" [ref=e712] [cursor=pointer]:
+                    - /url: ../Archive/2025-12
+                - listitem [ref=e713]:
+                  - link "November 2025" [ref=e714] [cursor=pointer]:
+                    - /url: ../Archive/2025-11
+                - listitem [ref=e715]:
+                  - link "October 2025" [ref=e716] [cursor=pointer]:
+                    - /url: ../Archive/2025-10
+                - listitem [ref=e717]:
+                  - link "September 2025" [ref=e718] [cursor=pointer]:
+                    - /url: ../Archive/2025-09
+                - listitem [ref=e719]:
+                  - link "August 2025" [ref=e720] [cursor=pointer]:
+                    - /url: ../Archive/2025-08
+                - listitem [ref=e721]:
+                  - link "July 2025" [ref=e722] [cursor=pointer]:
+                    - /url: ../Archive/2025-07
+                - listitem [ref=e723]:
+                  - link "June 2025" [ref=e724] [cursor=pointer]:
+                    - /url: ../Archive/2025-06
+                - listitem [ref=e725]:
+                  - link "May 2025" [ref=e726] [cursor=pointer]:
+                    - /url: ../Archive/2025-05
+                - listitem [ref=e727]:
+                  - link "April 2025" [ref=e728] [cursor=pointer]:
+                    - /url: ../Archive/2025-04
+                - listitem [ref=e729]:
+                  - link "March 2025" [ref=e730] [cursor=pointer]:
+                    - /url: ../Archive/2025-03
+                - listitem [ref=e731]:
+                  - link "February 2025" [ref=e732] [cursor=pointer]:
+                    - /url: ../Archive/2025-02
+                - listitem [ref=e733]:
+                  - link "January 2025" [ref=e734] [cursor=pointer]:
+                    - /url: ../Archive/2025-01
+                - listitem [ref=e735]:
+                  - link "December 2024" [ref=e736] [cursor=pointer]:
+                    - /url: ../Archive/2024-12
+                - listitem [ref=e737]:
+                  - link "November 2024" [ref=e738] [cursor=pointer]:
+                    - /url: ../Archive/2024-11
+                - listitem [ref=e739]:
+                  - link "October 2024" [ref=e740] [cursor=pointer]:
+                    - /url: ../Archive/2024-10
+                - listitem [ref=e741]:
+                  - link "September 2024" [ref=e742] [cursor=pointer]:
+                    - /url: ../Archive/2024-09
+                - listitem [ref=e743]:
+                  - link "August 2024" [ref=e744] [cursor=pointer]:
+                    - /url: ../Archive/2024-08
+                - listitem [ref=e745]:
+                  - link "July 2024" [ref=e746] [cursor=pointer]:
+                    - /url: ../Archive/2024-07
+                - listitem [ref=e747]:
+                  - link "June 2024" [ref=e748] [cursor=pointer]:
+                    - /url: ../Archive/2024-06
+                - listitem [ref=e749]:
+                  - link "May 2024" [ref=e750] [cursor=pointer]:
+                    - /url: ../Archive/2024-05
+                - listitem [ref=e751]:
+                  - link "April 2024" [ref=e752] [cursor=pointer]:
+                    - /url: ../Archive/2024-04
+                - listitem [ref=e753]:
+                  - link "March 2024" [ref=e754] [cursor=pointer]:
+                    - /url: ../Archive/2024-03
+                - listitem [ref=e755]:
+                  - link "February 2024" [ref=e756] [cursor=pointer]:
+                    - /url: ../Archive/2024-02
+                - listitem [ref=e757]:
+                  - link "January 2024" [ref=e758] [cursor=pointer]:
+                    - /url: ../Archive/2024-01
+                - listitem [ref=e759]:
+                  - link "December 2023" [ref=e760] [cursor=pointer]:
+                    - /url: ../Archive/2023-12
+                - listitem [ref=e761]:
+                  - link "November 2023" [ref=e762] [cursor=pointer]:
+                    - /url: ../Archive/2023-11
+                - listitem [ref=e763]:
+                  - link "October 2023" [ref=e764] [cursor=pointer]:
+                    - /url: ../Archive/2023-10
+                - listitem [ref=e765]:
+                  - link "September 2023" [ref=e766] [cursor=pointer]:
+                    - /url: ../Archive/2023-09
+                - listitem [ref=e767]:
+                  - link "August 2023" [ref=e768] [cursor=pointer]:
+                    - /url: ../Archive/2023-08
+                - listitem [ref=e769]:
+                  - link "July 2023" [ref=e770] [cursor=pointer]:
+                    - /url: ../Archive/2023-07
+                - listitem [ref=e771]:
+                  - link "June 2023" [ref=e772] [cursor=pointer]:
+                    - /url: ../Archive/2023-06
+                - listitem [ref=e773]:
+                  - link "May 2023" [ref=e774] [cursor=pointer]:
+                    - /url: ../Archive/2023-05
+                - listitem [ref=e775]:
+                  - link "April 2023" [ref=e776] [cursor=pointer]:
+                    - /url: ../Archive/2023-04
+                - listitem [ref=e777]:
+                  - link "March 2023" [ref=e778] [cursor=pointer]:
+                    - /url: ../Archive/2023-03
+                - listitem [ref=e779]:
+                  - link "February 2023" [ref=e780] [cursor=pointer]:
+                    - /url: ../Archive/2023-02
+                - listitem [ref=e781]:
+                  - link "January 2023" [ref=e782] [cursor=pointer]:
+                    - /url: ../Archive/2023-01
+                - listitem [ref=e783]:
+                  - link "December 2022" [ref=e784] [cursor=pointer]:
+                    - /url: ../Archive/2022-12
+            - listitem [ref=e785]:
+              - link "About the data" [ref=e786] [cursor=pointer]:
+                - /url: ../About
+            - listitem [ref=e25]
+    - generic [ref=e215]:
+      - generic [ref=e217]:
+        - navigation "breadcrumbs" [ref=e218]:
+          - generic [ref=e219]:
+            - link "Home" [ref=e220] [cursor=pointer]:
+              - /url: /
+            - paragraph [ref=e787]: ❯
+          - generic [ref=e788]:
+            - link "Products" [ref=e789] [cursor=pointer]:
+              - /url: /Products/
+            - paragraph [ref=e790]: ❯
+          - link "Codex CLI" [ref=e792] [cursor=pointer]:
+            - /url: /Products/Codex-CLI
+        - paragraph [ref=e221]:
+          - time [ref=e222]: Nov 06, 2026
+        - list [ref=e223]:
+          - listitem [ref=e224]:
+            - link "#product" [ref=e793] [cursor=pointer]:
+              - /url: /tags/product
+      - article [ref=e226]:
+        - heading "Codex CLI" [level=1] [ref=e794]:
+          - text: Codex CLI
+          - link [aria-hidden] [ref=e228] [cursor=pointer]:
+            - /url: "#codex-cli"
+        - paragraph [ref=e232]:
+          - text: OpenAI's terminal coding agent, tracked through stable Codex CLI releases in the official openai/codex repository. · 179 releases · 2025-06-30 → 2026-11-06 ·
+          - link "coverage details" [ref=e795] [cursor=pointer]:
+            - /url: /About
+        - heading "Release cadence" [level=2] [ref=e796]:
+          - text: Release cadence
+          - link [aria-hidden] [ref=e235] [cursor=pointer]:
+            - /url: "#release-cadence"
+        - paragraph [ref=e797]: "Last release 2026-11-06 (the archive date) · 35 releases in the last 90 days · cadence: normal"
+        - paragraph [ref=e798]: "Monthly releases, last 12 months (baseline 10.5 per month):"
+        - list [ref=e246]:
+          - listitem [ref=e247]: 2025-12 ▇▇▇▇▇▇▇▇▇▇▇▇ 11
+          - listitem [ref=e799]: 2026-01 ▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇ 14
+          - listitem [ref=e800]: 2026-02 ▇▇▇▇▇▇▇▇▇▇▇▇▇▇ 13
+          - listitem [ref=e801]: 2026-03 ▇▇▇▇▇▇▇▇▇▇▇ 10
+          - listitem [ref=e802]: 2026-04 ▇▇▇▇▇▇▇▇ 8
+          - listitem [ref=e803]: 2026-05 ▇▇▇▇▇▇▇ 7
+          - listitem [ref=e804]: 2026-06 ▇▇▇▇▇▇▇▇▇▇▇▇ 11
+          - listitem [ref=e805]: 2026-07 ▇▇▇▇▇▇▇▇▇▇▇▇ 11
+          - listitem [ref=e806]: 2026-08 ▇▇▇▇▇▇▇▇ 8
+          - listitem [ref=e807]: 2026-09 ▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇ 19
+          - listitem [ref=e808]: 2026-10 ▇▇▇▇▇▇▇▇▇ 9
+          - listitem [ref=e809]: 2026-11 ▇ 1
+        - heading "Eras" [level=2] [ref=e810]:
+          - text: Eras
+          - link [aria-hidden] [ref=e811] [cursor=pointer]:
+            - /url: "#eras"
+        - paragraph [ref=e815]: The release archive records announced changes; a reviewed phase narrative is not yet available.
+        - paragraph [ref=e816]: No reviewed eras assigned yet. The release archive below is chronological.
+        - heading "Themes" [level=2] [ref=e817]:
+          - text: Themes
+          - link [aria-hidden] [ref=e818] [cursor=pointer]:
+            - /url: "#themes"
+        - list [ref=e822]:
+          - listitem [ref=e823]:
+            - link "Model Support" [ref=e824] [cursor=pointer]:
+              - /url: /Themes/model-support
+            - text: · 128 cards · ████████████
+          - listitem [ref=e825]:
+            - link "Apps and Integrations" [ref=e826] [cursor=pointer]:
+              - /url: /Themes/apps-integrations
+            - text: · 114 cards · ███████████
+          - listitem [ref=e827]:
+            - link "Developer Workflow" [ref=e828] [cursor=pointer]:
+              - /url: /Themes/developer-workflow
+            - text: · 110 cards · ██████████
+          - listitem [ref=e829]:
+            - link "Safety and Privacy" [ref=e830] [cursor=pointer]:
+              - /url: /Themes/safety-privacy
+            - text: · 105 cards · ██████████
+          - listitem [ref=e831]:
+            - link "Agent Mode" [ref=e832] [cursor=pointer]:
+              - /url: /Themes/agent-mode
+            - text: · 90 cards · ████████
+          - listitem [ref=e833]:
+            - link "Context Window" [ref=e834] [cursor=pointer]:
+              - /url: /Themes/context-window
+            - text: · 88 cards · ████████
+          - listitem [ref=e835]:
+            - link "Interface Experience" [ref=e836] [cursor=pointer]:
+              - /url: /Themes/interface-experience
+            - text: · 83 cards · ████████
+          - listitem [ref=e837]:
+            - link "Account and Access" [ref=e838] [cursor=pointer]:
+              - /url: /Themes/account-access
+            - text: · 76 cards · ███████
+          - listitem [ref=e839]: Other changes · 159 cards
+        - heading "Recent releases" [level=2] [ref=e840]:
+          - text: Recent releases
+          - link [aria-hidden] [ref=e841] [cursor=pointer]:
+            - /url: "#recent-releases"
+        - list [ref=e845]:
+          - listitem [ref=e846]:
+            - text: 2026-11-06 ·
+            - link "0.167.0" [ref=e847] [cursor=pointer]:
+              - /url: /Releases/Codex-CLI/codex-cli-2026-11-06-rust-v0-167-0-github-435979892-a2e140bc
+            - text: · 14 cards
+          - listitem [ref=e848]:
+            - text: 2026-10-29 ·
+            - link "0.166.0" [ref=e849] [cursor=pointer]:
+              - /url: /Releases/Codex-CLI/codex-cli-2026-10-29-rust-v0-166-0-github-428320524-44f8c24a
+            - text: · 17 cards
+          - listitem [ref=e850]:
+            - text: 2026-10-27 ·
+            - link "0.165.0" [ref=e851] [cursor=pointer]:
+              - /url: /Releases/Codex-CLI/codex-cli-2026-10-27-rust-v0-165-0-github-425927431-1fa685eb
+            - text: · 10 cards
+          - listitem [ref=e852]:
+            - text: 2026-10-23 ·
+            - link "0.164.0" [ref=e853] [cursor=pointer]:
+              - /url: /Releases/Codex-CLI/codex-cli-2026-10-23-rust-v0-164-0-github-421457270-d867151d
+            - text: · 16 cards
+          - listitem [ref=e854]:
+            - text: 2026-10-15 ·
+            - link "0.163.0" [ref=e855] [cursor=pointer]:
+              - /url: /Releases/Codex-CLI/codex-cli-2026-10-15-rust-v0-163-0-github-414286110-97016fe6
+            - text: · 14 cards
+          - listitem [ref=e856]:
+            - text: 2026-10-09 ·
+            - link "0.162.1" [ref=e857] [cursor=pointer]:
+              - /url: /Releases/Codex-CLI/codex-cli-2026-10-09-rust-v0-162-1-github-408271623-71d43fe8
+            - text: · 0 cards
+          - listitem [ref=e858]:
+            - text: 2026-10-08 ·
+            - link "0.162.0" [ref=e859] [cursor=pointer]:
+              - /url: /Releases/Codex-CLI/codex-cli-2026-10-08-rust-v0-162-0-github-407151970-b80d60db
+            - text: · 15 cards
+          - listitem [ref=e860]:
+            - text: 2026-10-07 ·
+            - link "0.161.0" [ref=e861] [cursor=pointer]:
+              - /url: /Releases/Codex-CLI/codex-cli-2026-10-07-rust-v0-161-0-github-405921402-d1f93f55
+            - text: · 14 cards
+          - listitem [ref=e862]:
+            - text: 2026-10-05 ·
+            - link "0.160.1" [ref=e863] [cursor=pointer]:
+              - /url: /Releases/Codex-CLI/codex-cli-2026-10-05-rust-v0-160-1-github-404001397-23d84515
+            - text: · 1 card
+          - listitem [ref=e864]:
+            - text: 2026-10-01 ·
+            - link "0.160.0" [ref=e865] [cursor=pointer]:
+              - /url: /Releases/Codex-CLI/codex-cli-2026-10-01-rust-v0-160-0-github-401312540-620e0269
+            - text: · 16 cards
+        - heading "Coverage" [level=2] [ref=e866]:
+          - text: Coverage
+          - link [aria-hidden] [ref=e867] [cursor=pointer]:
+            - /url: "#coverage"
+        - paragraph [ref=e871]:
+          - text: 179 releases · 2025-06-30 → 2026-11-06 ·
+          - link "official source" [ref=e872] [cursor=pointer]:
+            - /url: https://github.com/openai/codex/releases
+          - text: · Stable versioned Codex CLI releases only; alpha builds, SDK-only releases, the Codex app and cloud-only announcements are outside this source's scope.
+        - paragraph [ref=e875]:
+          - text: "Acquisition details, how cards are made and known gaps:"
+          - link "About" [ref=e876] [cursor=pointer]:
+            - /url: /About
+          - text: .
+        - group [ref=e877]:
+          - generic "Release archive (179 releases)" [ref=e878] [cursor=pointer]
+        - group [ref=e879]:
+          - generic "All tracked changes (1,386 cards)" [ref=e880] [cursor=pointer]
+      - separator [ref=e547]
+    - generic [ref=e548]:
+      - generic [ref=e549]:
+        - button [expanded] [ref=e550] [cursor=pointer]:
+          - heading "Table of Contents" [level=3] [ref=e551]
+        - list [ref=e554]:
+          - listitem [ref=e555]:
+            - link "Codex CLI" [ref=e881] [cursor=pointer]:
+              - /url: "#codex-cli"
+          - listitem [ref=e557]:
+            - link "Release cadence" [ref=e882] [cursor=pointer]:
+              - /url: "#release-cadence"
+          - listitem [ref=e559]:
+            - link "Eras" [ref=e883] [cursor=pointer]:
+              - /url: "#eras"
+          - listitem [ref=e561]:
+            - link "Themes" [ref=e884] [cursor=pointer]:
+              - /url: "#themes"
+          - listitem [ref=e563]:
+            - link "Recent releases" [ref=e885] [cursor=pointer]:
+              - /url: "#recent-releases"
+          - listitem [ref=e565]:
+            - link "Coverage" [ref=e886] [cursor=pointer]:
+              - /url: "#coverage"
+          - listitem [ref=e567]
+      - generic [ref=e887]:
+        - heading "Backlinks" [level=3] [ref=e888]
+        - list [ref=e889]:
+          - listitem [ref=e890]:
+            - link "ChronoLog" [ref=e891] [cursor=pointer]:
+              - /url: /
+          - listitem [ref=e892]
+    - contentinfo [ref=e588]:
+      - paragraph [ref=e589]:
+        - text: Created with
+        - link "Quartz v0.1.0" [ref=e590] [cursor=pointer]:
+          - /url: https://quartz.jzhao.xyz/
+        - text: © 2026
+      - list [ref=e591]:
+        - listitem [ref=e592]:
+          - link "GitHub" [ref=e593] [cursor=pointer]:
+            - /url: https://github.com/Wang-Shuo/chronolog
+        - listitem [ref=e594]:
+          - link "About" [ref=e595] [cursor=pointer]:
+            - /url: https://wang-shuo.github.io/chronolog/About
+        - listitem [ref=e596]:
+          - link "RSS" [ref=e597] [cursor=pointer]:
+            - /url: https://wang-shuo.github.io/chronolog/index.xml
+  - generic [ref=e893]: Codex CLI

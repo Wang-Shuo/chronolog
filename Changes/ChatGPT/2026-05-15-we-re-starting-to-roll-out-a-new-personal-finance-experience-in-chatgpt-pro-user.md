@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: d7c1daf190c3121fd9c9a6e637dff6f548b4b1f8d1b6ab613e3ca343dae91783
+machine_hash: 022bc3ee0393a1c35bd46ba78fda2271d2b82457d3df6dfb848fcbb0e796735a
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -66,10 +66,10 @@ record:
   title: Personal finances in ChatGPT
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-04-13-plan-tabs-now-get-the-same-document-behaviors-as-files-support-for-reliable-load|Plan
-  tabs now get the same document behaviors as files]]'
-- '[[Changes/Cursor/2026-04-15-cursor-can-now-respond-by-creating-interactive-canvases-c4a1d3|Cursor
-  can now respond by creating interactive canvases]]'
+- '[[Changes/GitHub Copilot CLI/2026-05-05-add-attachment-flag-in-non-interactive-p-prompt-mode-to-attach-files-images-or-n|Add
+  --attachment flag in non-interactive (-p/--prompt) mode to attach files…]]'
+- '[[Changes/Codex CLI/2026-05-07-21379-document-codex-git-commit-attribution-config-henzelmann-oai|♯21379
+  Document Codex git commit attribution config @henzelmann-oai]]'
 - '[[Changes/ChatGPT/2026-05-14-file-library-is-expanding-to-free-and-go-users-including-to-users-in-the-europea-141640|File
   library is expanding to Free and Go users, including to users in the European…]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-05-15-personal-finances-in-chatgpt-028801eb|chatgpt-2026-05-15-personal-finances-in-chatgpt-028801eb]]'
@@ -99,7 +99,7 @@ type: change
 ## Nearby in Files and Data
 
 - Earlier: 2026-05-14 · ChatGPT · [[Changes/ChatGPT/2026-05-14-file-library-is-expanding-to-free-and-go-users-including-to-users-in-the-europea-141640|File library is expanding to Free and Go users, including to users in the European…]]
-- Later: 2026-06-04 · Cursor · [[Changes/Cursor/2026-06-04-design-mode-is-now-available-in-canvases|Design Mode in canvases]]
+- Later: 2026-05-28 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-05-28-canvas-tools-with-optional-object-input-schemas-open-correctly-without-validatio|Canvas tools with optional object input schemas open correctly without validation errors]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

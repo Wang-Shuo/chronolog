@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: 96138d8e77776a733fb0f3fe294b716be9c62852e98fef556bb676705ce625fb
+machine_hash: ec64eccf8663058058405a7e041729dcc618dcec80c59a78a1cd4edaf577d7cc
 product: cursor
 product_name: Cursor
 record:
@@ -61,12 +61,12 @@ record:
   title: Agent can reapply edits with a smarter apply model
   type: change
 related_changes:
-- '[[Changes/Cursor/2024-08-02-cursor-tab-previously-called-copilot-defaults-to-chunked-streaming-this-build-al|Cursor
-  Tab (previously called Copilot++) defaults to chunked streaming]]'
-- '[[Changes/Cursor/2024-09-17-update-0-41-1-0-41-3-improves-onboarding-ux-fixes-a-bug-with-composer-cancellati|UPDATE
-  (0.41.1–0.41.3): Improves onboarding UX, fixes a bug with composer…]]'
-- '[[Changes/Cursor/2024-10-09-vs-code-1-93-1-cursor-is-now-based-on-vs-code-1-93-1-c087f6|VS
-  Code 1.93.1: Cursor is now based on VS Code 1.93.1]]'
+- '[[Changes/Aider/2024-11-21-2-editor-experience-changes-in-v0-64-0|2 Editor Experience
+  changes in v0.64.0]]'
+- '[[Changes/Aider/2024-11-26-editor-returns-and-prefill-the-file-content-into-the-prompt-so-you-can-use-edito|/editor
+  returns and prefill the file content into the prompt, so you can use…]]'
+- '[[Changes/Aider/2024-12-06-2-editor-experience-changes-in-v0-67-0|2 Editor Experience
+  changes in v0.67.0]]'
 source_release: '[[Releases/Cursor/cursor-2024-12-17-0-44-x-https-cursor-com-changelog-0-44-x-b137ff8e|cursor-2024-12-17-0-44-x-https-cursor-com-changelog-0-44-x-b137ff8e]]'
 source_type: cursor_changelog
 theme: editor-experience
@@ -106,8 +106,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2024-10-09 · Cursor · [[Changes/Cursor/2024-10-09-vs-code-1-93-1-cursor-is-now-based-on-vs-code-1-93-1-c087f6|VS Code 1.93.1: Cursor is now based on VS Code 1.93.1]]
-- Later: 2025-02-19 · Cursor · [[Changes/Cursor/2025-02-19-ignore-files-cursorignore-now-blocks-files-from-being-added-in-chat-or-sent-up-f|Ignore files: .cursorignore now blocks files from being added in chat or sent up…]]
+- Earlier: 2024-12-06 · Aider · [[Changes/Aider/2024-12-06-2-editor-experience-changes-in-v0-67-0|2 Editor Experience changes in v0.67.0]]
+- Later: 2024-12-26 · OpenHands · [[Changes/OpenHands/2024-12-26-frontend-hyperlink-in-chat-window-should-open-link-in-a-new-tab-by-openhands-age|Frontend Hyperlink in Chat window should open link in a new tab]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

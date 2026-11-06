@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: ab86b5b3f3d133b788b1d715dc175c901e2ddd18902afade8dd9c3b2151a61bc
+machine_hash: 1e35abf8afc1384078bbb1fdf641c4066893fcbfd6b3d925e34f7087630707dc
 product: cursor
 product_name: Cursor
 record:
@@ -76,7 +76,7 @@ type: change
 ## Nearby in Developer Workflow
 
 - Earlier: 2023-08-03 · Cursor · [[Changes/Cursor/2023-08-03-also-the-linter-is-slightly-improved|In-editor chat is back!]]
-- Later: 2023-08-22 · Cursor · [[Changes/Cursor/2023-08-22-applies-the-patch-from-github-across-all-your-wsl-windows-subsystem-for-linux-di|WSL Fixes]]
+- Later: 2023-08-22 · Aider · [[Changes/Aider/2023-08-22-improved-foo-no-foo-switch-handling-for-command-line-and-yml-config-settings|Improved --foo/--no-foo switch handling for command line and yml config settings]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

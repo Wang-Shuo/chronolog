@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 23233c4939fbd417276843d2726d7a827c65d9c36e135ab9e349d60b86dd63c8
+machine_hash: 22e48b0b4166f796309558d3d377767f591f8709aaccf7bd029a43601fc32e72
 product: claude-code
 product_name: Claude Code
 record:
@@ -44,12 +44,12 @@ record:
   title: Changed `/commit-push-pr` so git/gh commands with dangerous flags…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-08-04-3-developer-workflow-changes-in-v2-1-221|3 Developer
-  Workflow changes in v2.1.221]]'
-- '[[Changes/Claude Code/2026-08-06-2-developer-workflow-changes-in-v2-1-223|2 Developer
-  Workflow changes in v2.1.223]]'
-- '[[Changes/Claude Code/2026-08-07-added-a-cancel-and-confirm-step-when-removing-an-unavailable-paste-changes-a-com|Added
-  a cancel-and-confirm step when removing an unavailable paste changes…]]'
+- '[[Changes/Cline/2026-08-09-include-files-that-were-untracked-when-a-snapshot-was-taken-in-checkpoint-diffs|Include
+  files that were untracked when a snapshot was taken in checkpoint diffs…]]'
+- '[[Changes/GitHub Copilot CLI/2026-08-10-4-developer-workflow-changes-in-v1-0-79|4
+  Developer Workflow changes in v1.0.79]]'
+- '[[Changes/Gemini CLI/2026-08-11-4-developer-workflow-changes-in-v0-55-1|4 Developer
+  Workflow changes in v0.55.1]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-08-12-v2-1-229-github-369475532-b063933d|claude-code-2026-08-12-v2-1-229-github-369475532-b063933d]]'
 source_type: github_releases
 theme: developer-workflow
@@ -85,7 +85,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2026-08-07 · Claude Code · [[Changes/Claude Code/2026-08-07-added-a-cancel-and-confirm-step-when-removing-an-unavailable-paste-changes-a-com|Added a cancel-and-confirm step when removing an unavailable paste changes…]]
+- Earlier: 2026-08-11 · Gemini CLI · [[Changes/Gemini CLI/2026-08-11-4-developer-workflow-changes-in-v0-55-1|4 Developer Workflow changes in v0.55.1]]
 - Later: 2026-08-13 · Claude Code · [[Changes/Claude Code/2026-08-13-remote-control-the-terminal-now-says-whether-a-session-was-taken-over-by-another|Remote Control: the terminal now says whether a session was taken over by another…]]
 <!-- chronolog:end -->
 

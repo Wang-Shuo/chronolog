@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: e3d846d4150c246167fe93f09605e68e33afb62da9c947325235f54a1f05655b
+machine_hash: 52a497a99ad0d0857d75736d13cd246f6eabd2e2e8a7935bdb4bc809dabf81c3
 product: claude-code
 product_name: Claude Code
 record:
@@ -53,11 +53,11 @@ record:
     sessions…'
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-01-13-updated-help-improve-claude-setting-fetch-to-refresh-oauth-and-retry-when-it-fai|Updated
-  "Help improve Claude" setting fetch to refresh OAuth and retry when it fails…]]'
-- '[[Changes/Claude Code/2026-01-14-changed-oauth-and-api-console-urls-from-console-anthropic-com-to-platform-claude|Changed
-  OAuth and API Console URLs from console.anthropic.com to platform.claude.com]]'
 - '[[Changes/Cursor/2026-01-16-one-click-mcp-authentication|One-click MCP authentication]]'
+- '[[Changes/GitHub Copilot CLI/2026-01-16-2-account-and-access-changes-in-v0-0-384|2
+  Account and Access changes in v0.0.384]]'
+- '[[Changes/Gemini CLI/2026-01-21-feat-admin-prompt-user-to-restart-the-cli-if-they-change-auth-to-oauth-mid-sessi|feat(admin):
+  prompt user to restart the CLI if they change auth to oauth mid-session…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-01-22-v2-1-16-github-279146529-0e5b3428|claude-code-2026-01-22-v2-1-16-github-279146529-0e5b3428]]'
 source_type: github_releases
 theme: account-access
@@ -87,7 +87,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Account and Access
 
-- Earlier: 2026-01-16 · Cursor · [[Changes/Cursor/2026-01-16-one-click-mcp-authentication|One-click MCP authentication]]
+- Earlier: 2026-01-21 · Gemini CLI · [[Changes/Gemini CLI/2026-01-21-feat-admin-prompt-user-to-restart-the-cli-if-they-change-auth-to-oauth-mid-sessi|feat(admin): prompt user to restart the CLI if they change auth to oauth mid-session…]]
 - Later: 2026-01-22 · Cursor · [[Changes/Cursor/2026-01-22-browser-can-now-request-local-network-permissions-fixing-authentication-flows-wi|Browser can now request local network permissions, fixing authentication flows…]]
 <!-- chronolog:end -->
 

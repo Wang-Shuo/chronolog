@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 2cac85994c11f0304fd3093ca8eeabe6b607652f13ed455b809faa38081da137
+machine_hash: 1dff65ba58fbb96e8c478fb765e3cee76aff6a29fe730a6e38e2751bbe77834e
 product: claude-code
 product_name: Claude Code
 record:
@@ -54,9 +54,10 @@ record:
     by source…
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-10-29-improved-prompt-ui|Improved Prompt UI]]'
-- '[[Changes/Cursor/2025-11-21-rules-in-home-folder-cursor-rules-will-be-included-in-context|Rules
-  in home folder (~/.cursor/rules) will be included in context]]'
+- '[[Changes/Cline/2025-12-17-added-support-for-dynamic-tool-instructions-that-adapt-based-on-runtime-context|Added
+  support for dynamic tool instructions that adapt based on runtime context…]]'
+- '[[Changes/Codex CLI/2025-12-18-7935-exec-server-additional-context-for-errors|♯7935
+  exec-server: additional context for errors]]'
 - '[[Changes/Cursor/2025-12-18-conversation-insights-2efafc|Conversation insights]]'
 source_release: '[[Releases/Claude Code/claude-code-2025-12-19-v2-0-74-github-271886909-2070ef10|claude-code-2025-12-19-v2-0-74-github-271886909-2070ef10]]'
 source_type: github_releases
@@ -90,7 +91,7 @@ type: change
 ## Nearby in Context Window
 
 - Earlier: 2025-12-18 · Cursor · [[Changes/Cursor/2025-12-18-conversation-insights-2efafc|Conversation insights]]
-- Later: 2026-01-13 · Claude Code · [[Changes/Claude Code/2026-01-13-added-context-window-used-percentage-and-context-window-remaining-percentage-fie|Added context_window.used_percentage and context_window.remaining_percentage…]]
+- Later: 2025-12-19 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2025-12-19-add-context-command-to-visualize-token-usage|Add /context command to visualize token usage]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

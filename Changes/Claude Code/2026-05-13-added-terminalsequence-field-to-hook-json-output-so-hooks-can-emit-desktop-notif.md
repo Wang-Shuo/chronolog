@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 4bdd214b1601d3ab115fbfaae1489287731a84ab72d7350ad3ea11e5331530d1
+machine_hash: 69287b38e6e712e49af28f01ecf47368de23554ebfaa244bb1601edfb65fa855
 product: claude-code
 product_name: Claude Code
 record:
@@ -43,12 +43,12 @@ record:
   title: Added `terminalSequence` field to hook JSON output so hooks can emit desktop…
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-05-07-this-release-introduces-a-new-pr-review-experience-faster-execution-on-plans-thr|Cursor
-  introduces a new PR review experience, faster execution on plans through…]]'
-- '[[Changes/Claude Code/2026-05-08-2-developer-workflow-changes-in-v2-1-136|2 Developer
-  Workflow changes in v2.1.136]]'
-- '[[Changes/Claude Code/2026-05-11-added-hook-args-string-field-exec-form-that-spawns-the-command-directly-without|Added
-  hook args: string field (exec form) that spawns the command directly…]]'
+- '[[Changes/GitHub Copilot CLI/2026-05-11-2-developer-workflow-changes-in-v1-0-45|2
+  Developer Workflow changes in v1.0.45]]'
+- '[[Changes/Gemini CLI/2026-05-12-2-developer-workflow-changes-in-v0-42-0|2 Developer
+  Workflow changes in v0.42.0]]'
+- '[[Changes/GitHub Copilot CLI/2026-05-12-long-lines-in-diff-view-wrap-at-terminal-width-instead-of-being-truncated|Long
+  lines in diff view wrap at terminal width instead of being truncated]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-05-13-v2-1-141-github-322186176-9f8e2e22|claude-code-2026-05-13-v2-1-141-github-322186176-9f8e2e22]]'
 source_type: github_releases
 theme: developer-workflow
@@ -86,7 +86,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2026-05-11 · Claude Code · [[Changes/Claude Code/2026-05-11-added-hook-args-string-field-exec-form-that-spawns-the-command-directly-without|Added hook args: string field (exec form) that spawns the command directly…]]
+- Earlier: 2026-05-12 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-05-12-long-lines-in-diff-view-wrap-at-terminal-width-instead-of-being-truncated|Long lines in diff view wrap at terminal width instead of being truncated]]
 - Later: 2026-05-13 · Cursor · [[Changes/Cursor/2026-05-13-environment-configuration-as-code-827fd1|Environment configuration as code]]
 <!-- chronolog:end -->
 

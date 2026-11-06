@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 2ba86ef820260a4d32b659688b8aaee5c1402f0627522c37c02b6019263ec6e7
+machine_hash: 0d2020fa496268f115fe50600be665fce04ef9c74afbc1dc01caa217c0adce99
 product: claude-code
 product_name: Claude Code
 record:
@@ -42,10 +42,9 @@ record:
   title: 2 Reliability and Performance changes in v2.1.73
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-03-05-9-reliability-and-performance-changes-in-v2-1-69|9
-  Reliability and Performance changes in v2.1.69]]'
 - '[[Changes/Claude Code/2026-03-06-3-reliability-and-performance-changes-in-v2-1-70|3
   Reliability and Performance changes in v2.1.70]]'
+- '[[Changes/Windsurf/2026-03-09-stability-performance|Stability & Performance]]'
 - '[[Changes/Claude Code/2026-03-10-improved-bash-command-parsing-by-switching-to-a-native-module-faster-initializat|Improved
   bash command parsing by switching to a native module]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-03-11-v2-1-73-github-295814700-0abb054f|claude-code-2026-03-11-v2-1-73-github-295814700-0abb054f]]'
@@ -87,7 +86,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.73
 ## Nearby in Reliability and Performance
 
 - Earlier: 2026-03-10 · Claude Code · [[Changes/Claude Code/2026-03-10-improved-bash-command-parsing-by-switching-to-a-native-module-faster-initializat|Improved bash command parsing by switching to a native module]]
-- Later: 2026-03-12 · Claude Code · [[Changes/Claude Code/2026-03-12-added-actionable-suggestions-to-context-command-identifies-context-heavy-tools-m|Added actionable suggestions to /context command]]
+- Later: 2026-03-11 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-03-11-faster-shell-commands-on-windows-by-skipping-powershell-profile-loading|Faster shell commands on Windows by skipping PowerShell profile loading]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

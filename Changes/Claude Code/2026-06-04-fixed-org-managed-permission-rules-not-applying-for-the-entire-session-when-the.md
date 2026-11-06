@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: fix
-machine_hash: 01bb93aa36428497c1d2f5f71f6e72fdefe074b8cce4e28d8751193cb61acb99
+machine_hash: b65b6af1bc011edcd9f3b8dc8b73f092fab05300ba301ca1a21ed7a1c87e8277
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,8 +45,8 @@ record:
   title: Fixed org-managed permission rules not applying for the entire session…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-06-03-4-safety-and-privacy-changes-in-v2-1-162|4 Safety
-  and Privacy changes in v2.1.162]]'
+- '[[Changes/Cline/2026-06-03-update-vs-code-extension-dependencies-to-resolve-security-issues-in-xmldom-xmldo|Update
+  VS Code extension dependencies to resolve security issues…]]'
 - '[[Changes/Cursor/2026-06-03-enterprise-customers-can-now-manage-multiple-cursor-teams-from-one-place-with-di|Enterprise
   customers can now manage multiple Cursor teams from one place…]]'
 - '[[Changes/ChatGPT/2026-06-04-lockdown-mode-is-now-available-to-all-logged-in-users-across-account-types-and-w|Lockdown
@@ -86,7 +86,7 @@ type: change
 ## Nearby in Safety and Privacy
 
 - Earlier: 2026-06-04 · ChatGPT · [[Changes/ChatGPT/2026-06-04-lockdown-mode-is-now-available-to-all-logged-in-users-across-account-types-and-w|Lockdown Mode is now available to all logged-in users]]
-- Later: 2026-06-04 · Cursor · [[Changes/Cursor/2026-06-04-custom-tools-056918|Custom tools]]
+- Later: 2026-06-04 · Codex CLI · [[Changes/Codex CLI/2026-06-04-8-safety-and-privacy-changes-in-rust-v0-137-0|8 Safety and Privacy changes in rust-v0.137.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

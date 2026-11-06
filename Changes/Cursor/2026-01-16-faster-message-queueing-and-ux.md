@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 43c43566bea2cf5cc2727c20a03037d18ac1c85d097d9c587ab2dff072126a19
+machine_hash: 78697da1731a0f1261bfe9498a1099a7b297992ff2a5122814addba157225610
 product: cursor
 product_name: Cursor
 record:
@@ -41,12 +41,12 @@ record:
   title: Faster message queueing and UX
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-12-22-2-reliability-and-performance-changes-in-2-3|2 Reliability
-  and Performance changes in 2.3]]'
-- '[[Changes/Cursor/2026-01-08-2-reliability-and-performance-changes-in-new-cli-features-and-improved-cli|2
-  Reliability and Performance changes in New CLI Features and Improved CLI…]]'
+- '[[Changes/Windsurf/2026-01-13-2-reliability-and-performance-changes-in-v1-13-6|2
+  Reliability and Performance changes in v1.13.6]]'
 - '[[Changes/Claude Code/2026-01-14-improved-typing-responsiveness-by-reducing-memory-allocation-overhead-in-termina|Improved
   typing responsiveness by reducing memory allocation overhead in terminal…]]'
+- '[[Changes/Windsurf/2026-01-14-2-reliability-and-performance-changes-in-v1-13-8|2
+  Reliability and Performance changes in v1.13.8]]'
 source_release: '[[Releases/Cursor/cursor-2026-01-16-cli-agent-modes-and-cloud-handoff-https-cursor-com-changelog-cli-becd78b5|cursor-2026-01-16-cli-agent-modes-and-cloud-handoff-https-cursor-com-changelog-cli-becd78b5]]'
 source_type: cursor_changelog
 theme: reliability-performance
@@ -86,7 +86,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2026-01-14 · Claude Code · [[Changes/Claude Code/2026-01-14-improved-typing-responsiveness-by-reducing-memory-allocation-overhead-in-termina|Improved typing responsiveness by reducing memory allocation overhead in terminal…]]
+- Earlier: 2026-01-14 · Windsurf · [[Changes/Windsurf/2026-01-14-2-reliability-and-performance-changes-in-v1-13-8|2 Reliability and Performance changes in v1.13.8]]
 - Later: 2026-01-21 · Claude Code · [[Changes/Claude Code/2026-01-21-improved-ui-rendering-performance-with-react-compiler|Improved UI rendering performance with React Compiler]]
 <!-- chronolog:end -->
 

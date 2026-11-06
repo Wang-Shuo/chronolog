@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: a7b626a360386bbc433dbafae1d303eb9c96798db8070571db39a31cdb31eb94
+machine_hash: b4aa82d84cf4bacb9f54579646a42735c8734f73b5322de3eabcb35b8532628f
 product: claude-code
 product_name: Claude Code
 record:
@@ -46,10 +46,10 @@ record:
   title: 3 Apps and Integrations changes in v2.1.144
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-05-14-3-apps-and-integrations-changes-in-v2-1-142|3
-  Apps and Integrations changes in v2.1.142]]'
 - '[[Changes/Claude Code/2026-05-15-3-apps-and-integrations-changes-in-v2-1-143|3
   Apps and Integrations changes in v2.1.143]]'
+- '[[Changes/Codex CLI/2026-05-18-56-apps-and-integrations-changes-in-rust-v0-131-0|56
+  Apps and Integrations changes in rust-v0.131.0]]'
 - '[[Changes/Claude Code/2026-05-19-plugin-discover-and-browse-screens-now-show-a-plugin-s-commands-agents-skills-ho|/plugin
   Discover and Browse screens now show a plugin''s commands, agents, skills…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-05-19-v2-1-144-github-324524751-1469637a|claude-code-2026-05-19-v2-1-144-github-324524751-1469637a]]'
@@ -97,7 +97,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.144
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-05-19 · Claude Code · [[Changes/Claude Code/2026-05-19-plugin-discover-and-browse-screens-now-show-a-plugin-s-commands-agents-skills-ho|/plugin Discover and Browse screens now show a plugin's commands, agents, skills…]]
-- Later: 2026-05-19 · Cursor · [[Changes/Cursor/2026-05-19-cursor-is-now-available-in-jira|Cursor is now available in Jira]]
+- Later: 2026-05-19 · Cline · [[Changes/Cline/2026-05-19-disable-the-mcp-restart-server-button-when-a-server-is-toggled-off|Disable the MCP "Restart Server" button when a server is toggled off]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

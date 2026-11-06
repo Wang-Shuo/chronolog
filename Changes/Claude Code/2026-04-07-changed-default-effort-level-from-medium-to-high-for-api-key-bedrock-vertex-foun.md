@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: d0acb5fb3a7638a84ee2af6b1a755bab932cd8f493f80e6c1866458f21feb959
+machine_hash: c150661fe5b34777ec1b4aa62b17e29b3a516390fb1379cd8595f3e5f9acd4d4
 product: claude-code
 product_name: Claude Code
 record:
@@ -53,8 +53,8 @@ record:
   title: Changed default effort level from medium to high for API-key…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-03-26-added-allowedchannelplugins-managed-setting-for-team-enterprise-admins-to-define|Added
-  allowedChannelPlugins managed setting for team/enterprise admins to define…]]'
+- '[[Changes/Codex CLI/2026-03-26-15789-treat-chatgpt-hc-plan-as-enterprise-arnavdugar-openai|♯15789
+  Treat ChatGPT hc plan as Enterprise @arnavdugar-openai]]'
 - '[[Changes/Cursor/2026-04-02-added-an-enterprise-admin-control-for-disabling-made-with-cursor-code-attributio|Added
   an Enterprise Admin control for disabling "Made with Cursor" code attribution…]]'
 - '[[Changes/Claude Code/2026-04-04-added-forceremotesettingsrefresh-policy-setting-when-set-the-cli-blocks-startup|Added
@@ -91,7 +91,7 @@ type: change
 ## Nearby in Enterprise and Administration
 
 - Earlier: 2026-04-04 · Claude Code · [[Changes/Claude Code/2026-04-04-added-forceremotesettingsrefresh-policy-setting-when-set-the-cli-blocks-startup|Added forceRemoteSettingsRefresh policy setting]]
-- Later: 2026-04-10 · Claude Code · [[Changes/Claude Code/2026-04-10-added-os-ca-certificate-store-trust-by-default-so-enterprise-tls-proxies-work-wi|Added OS CA certificate store trust by default, so enterprise TLS proxies work…]]
+- Later: 2026-04-09 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-04-09-show-a-clear-message-to-contact-your-organization-administrator-when-remote-sess|Show a clear message to contact your organization administrator when remote sessions…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

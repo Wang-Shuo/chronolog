@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: policy
-machine_hash: fcca645acfa1c4f0d8a97939d6924f6c730d889960657289286c13e6c221d1c1
+machine_hash: f000c58ad13be87f67cb356c40d59ef61f8f752a70a1d347830c1339d198bca8
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -90,12 +90,12 @@ record:
   title: Retiring Atlas
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-07-01-login-now-opens-the-sign-in-dialog-from-the-claude-agents-view-instead-of-saying|/login
-  now opens the sign-in dialog from the claude agents view instead…]]'
-- '[[Changes/ChatGPT/2026-07-06-chatgpt-for-powerpoint-is-now-generally-available-globally-from-a-sidebar-in-mic|ChatGPT
-  for PowerPoint is now generally available]]'
-- '[[Changes/Claude Code/2026-07-07-added-a-warning-when-your-login-is-about-to-expire-so-you-can-re-authenticate-be|Added
-  a warning when your login is about to expire, so you can re-authenticate…]]'
+- '[[Changes/GitHub Copilot CLI/2026-07-07-6-account-and-access-changes-in-v1-0-69|6
+  Account and Access changes in v1.0.69]]'
+- '[[Changes/Codex CLI/2026-07-08-5-account-and-access-changes-in-rust-v0-143-0|5
+  Account and Access changes in rust-v0.143.0]]'
+- '[[Changes/OpenHands/2026-07-08-feat-track-user-login-timestamps-by-saurya-in-https-github-com-openhands-openhan|feat:
+  track user login timestamps]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-07-09-retiring-atlas-c6a8b965|chatgpt-2026-07-09-retiring-atlas-c6a8b965]]'
 source_type: chatgpt_changelog
 theme: account-access
@@ -122,8 +122,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Account and Access
 
-- Earlier: 2026-07-07 · Claude Code · [[Changes/Claude Code/2026-07-07-added-a-warning-when-your-login-is-about-to-expire-so-you-can-re-authenticate-be|Added a warning when your login is about to expire, so you can re-authenticate…]]
-- Later: 2026-07-10 · Claude Code · [[Changes/Claude Code/2026-07-10-gateway-login-now-supports-anthropic-operated-public-gateway-endpoints|Gateway: /login now supports Anthropic-operated public gateway endpoints]]
+- Earlier: 2026-07-08 · OpenHands · [[Changes/OpenHands/2026-07-08-feat-track-user-login-timestamps-by-saurya-in-https-github-com-openhands-openhan|feat: track user login timestamps]]
+- Later: 2026-07-09 · Codex CLI · [[Changes/Codex CLI/2026-07-09-5-account-and-access-changes-in-rust-v0-144-0|5 Account and Access changes in rust-v0.144.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

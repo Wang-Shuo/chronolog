@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: bcbb6139e9b280933a9218a262d6b325c1956388efb1f6e07d40127c9b2bfa80
+machine_hash: d80729059347170df577e1bab5b7e6ba2784ef56baa5e2a9212701b54bd887fa
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -63,12 +63,12 @@ record:
   title: ChatGPT in Apple CarPlay
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-03-26-users-can-now-choose-to-share-their-device-location-so-chatgpt-can-provide-more-7907ed|Location
-  Sharing]]'
-- '[[Changes/Claude Code/2026-03-26-added-powershell-tool-for-windows-as-an-opt-in-preview-learn-more-at-https-code|Added
-  PowerShell tool for Windows as an opt-in preview]]'
+- '[[Changes/Codex CLI/2026-03-31-7-mobile-and-desktop-changes-in-rust-v0-118-0|7
+  Mobile and Desktop changes in rust-v0.118.0]]'
 - '[[Changes/Claude Code/2026-04-01-powershell-tool-on-windows-external-command-arguments-containing-both-a-double-q|PowerShell
   tool on Windows]]'
+- '[[Changes/Gemini CLI/2026-04-01-feat-core-implement-strict-macos-sandboxing-using-seatbelt-allowlist-by-ehedlund|feat(core):
+  implement strict macOS sandboxing using Seatbelt allowlist]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-04-02-chatgpt-in-apple-carplay-3c2ba8a2|chatgpt-2026-04-02-chatgpt-in-apple-carplay-3c2ba8a2]]'
 source_type: chatgpt_changelog
 theme: mobile-desktop
@@ -95,8 +95,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2026-04-01 · Claude Code · [[Changes/Claude Code/2026-04-01-powershell-tool-on-windows-external-command-arguments-containing-both-a-double-q|PowerShell tool on Windows]]
-- Later: 2026-04-13 · Cursor · [[Changes/Cursor/2026-04-13-on-macos-text-is-now-rendered-with-anti-aliasing-producing-sharper-character-edg|On macOS, text is now rendered with anti-aliasing, producing sharper character edges]]
+- Earlier: 2026-04-01 · Gemini CLI · [[Changes/Gemini CLI/2026-04-01-feat-core-implement-strict-macos-sandboxing-using-seatbelt-allowlist-by-ehedlund|feat(core): implement strict macOS sandboxing using Seatbelt allowlist]]
+- Later: 2026-04-10 · Codex CLI · [[Changes/Codex CLI/2026-04-10-6-mobile-and-desktop-changes-in-rust-v0-119-0|6 Mobile and Desktop changes in rust-v0.119.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

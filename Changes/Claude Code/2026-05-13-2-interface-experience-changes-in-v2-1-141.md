@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 5918b1b24adab0ec17308976870be6c84ddd828df0132f1b85dce51a44f22857
+machine_hash: 70df5a7120042d025fa9e8dd9b3b03a21d999535e7f9b47265c1d46aea0aae90
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,12 +45,12 @@ record:
   title: 2 Interface Experience changes in v2.1.141
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-05-06-3-interface-experience-changes-in-v2-1-129|3 Interface
-  Experience changes in v2.1.129]]'
-- '[[Changes/Claude Code/2026-05-07-improved-focus-mode-behavior|Improved focus mode
-  behavior]]'
+- '[[Changes/GitHub Copilot CLI/2026-05-08-project-info-remains-visible-in-slash-command-picker-when-no-results-match|Project
+  info remains visible in slash command picker when no results match]]'
 - '[[Changes/Claude Code/2026-05-11-added-transcript-view-navigation-for-keyboard-shortcuts-to-jump-between-user-pro|Added
   transcript view navigation]]'
+- '[[Changes/Gemini CLI/2026-05-12-test-evals-add-behavioral-eval-for-file-creation-and-write-file-tool-selection-b|test(evals):
+  add behavioral eval for file creation and write_file tool selection]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-05-13-v2-1-141-github-322186176-9f8e2e22|claude-code-2026-05-13-v2-1-141-github-322186176-9f8e2e22]]'
 source_type: github_releases
 theme: interface-experience
@@ -92,8 +92,8 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.141
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-05-11 · Claude Code · [[Changes/Claude Code/2026-05-11-added-transcript-view-navigation-for-keyboard-shortcuts-to-jump-between-user-pro|Added transcript view navigation]]
-- Later: 2026-05-13 · Cursor · [[Changes/Cursor/2026-05-13-3-interface-experience-changes-in-3-4|3 Interface Experience changes in 3.4]]
+- Earlier: 2026-05-12 · Gemini CLI · [[Changes/Gemini CLI/2026-05-12-test-evals-add-behavioral-eval-for-file-creation-and-write-file-tool-selection-b|test(evals): add behavioral eval for file creation and write_file tool selection]]
+- Later: 2026-05-13 · Cline · [[Changes/Cline/2026-05-13-show-a-clear-searching-state-in-the-mention-file-picker|Show a clear "Searching..." state in the @-mention file picker]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

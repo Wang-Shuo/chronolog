@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: a63464c30c01194854f74ee60fd7edaf9463d00c4347d0f5d0d703bf5f6b17c9
+machine_hash: 302c5d6bc5251c1d7dc1ca6c75063789592fcc599a17da0c80146337bc30fc3c
 product: cursor
 product_name: Cursor
 record:
@@ -60,12 +60,12 @@ record:
   title: 'UI refresh: Phase one of a fresh coat of paint with new default Cursor themes…'
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-01-23-fusion-model-we-ve-trained-a-new-tab-model-that-is-substantially-better-at-jumps|Fusion
-  Model: We''ve trained a new Tab Model that is substantially better at jumps…]]'
-- '[[Changes/Cursor/2025-01-23-summarize-previous-composers-when-conversations-grow-too-long-you-can-start-a-ne|Summarize
-  Previous Composers]]'
-- '[[Changes/Cursor/2025-01-23-optional-long-context-when-tagging-long-files-users-have-the-option-to-request-a|Optional
-  Long Context]]'
+- '[[Changes/Aider/2025-01-31-improved-handling-of-context-window-size-limits-with-better-messaging-and-ollama|Improved
+  handling of context window size limits, with better messaging…]]'
+- '[[Changes/Aider/2025-02-06-dynamically-changes-the-ollama-context-window-to-hold-the-current-chat|Dynamically
+  changes the Ollama context window to hold the current chat]]'
+- '[[Changes/Cline/2025-02-19-new-advanced-setting-to-disable-the-browser-tool-improved-support-for-aws-bedroc|New
+  advanced setting to disable the browser tool, improved support for AWS Bedrock…]]'
 source_release: '[[Releases/Cursor/cursor-2025-02-19-0-46-x-https-cursor-com-changelog-0-46-x-640a0a10|cursor-2025-02-19-0-46-x-https-cursor-com-changelog-0-46-x-640a0a10]]'
 source_type: cursor_changelog
 theme: context-window
@@ -104,8 +104,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Context Window
 
-- Earlier: 2025-01-23 · Cursor · [[Changes/Cursor/2025-01-23-optional-long-context-when-tagging-long-files-users-have-the-option-to-request-a|Optional Long Context]]
-- Later: 2025-03-23 · Cursor · [[Changes/Cursor/2025-03-23-added-input-token-count-for-chat-messages-click-the-three-dots-to-view-we-re-con|Added input token count for chat messages (click the three dots to view)]]
+- Earlier: 2025-02-19 · Cline · [[Changes/Cline/2025-02-19-new-advanced-setting-to-disable-the-browser-tool-improved-support-for-aws-bedroc|New advanced setting to disable the browser tool, improved support for AWS Bedrock…]]
+- Later: 2025-02-24 · OpenHands · [[Changes/OpenHands/2025-02-24-by-default-openhands-truncates-history-by-half-when-it-hits-llm-context-limit-by|By default, OpenHands truncates history by half when it hits LLM context limit]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

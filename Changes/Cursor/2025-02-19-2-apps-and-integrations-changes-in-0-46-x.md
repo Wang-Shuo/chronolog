@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 8bec2186cf15d829989163a38e5b6865eb21f6948dfd5612c074badc134862de
+machine_hash: 64f06149e0453ac7ec8f19e9a9ab5b1d2f540aed56cd9accdbe5ef84e28fc519
 product: cursor
 product_name: Cursor
 record:
@@ -44,12 +44,12 @@ record:
   title: 2 Apps and Integrations changes in 0.46.x
   type: change
 related_changes:
-- '[[Changes/Cursor/2024-01-25-update-0-24-3-0-24-4-adds-ability-to-configure-openai-base-url-fixes-getcursor-c|UPDATE
-  (0.24.3-0.24.4): Adds ability to configure OpenAI base URL, fixes…]]'
-- '[[Changes/ChatGPT/2024-05-16-upload-the-latest-file-versions-directly-from-google-drive-microsoft-onedrive-pe-70f6a3|Upload
-  the latest file versions directly from Google Drive, Microsoft OneDrive…]]'
-- '[[Changes/Cursor/2024-07-03-docs-management-go-to-cursor-settings-features-docs-to-re-index-your-docs|Docs
-  management! Go to Cursor Settings  Features  Docs to re-index your docs]]'
+- '[[Changes/OpenHands/2025-01-29-improved-performance-of-github-api-integration-by-using-modern-async-http-client|Improved
+  performance of GitHub API integration by using modern async HTTP client]]'
+- '[[Changes/Cline/2025-01-30-add-advanced-settings-to-remove-mcp-prompts-from-requests-to-save-tokens-enable|Add
+  Advanced Settings to remove MCP prompts from requests to save tokens…]]'
+- '[[Changes/Cline/2025-02-19-introducing-mcp-marketplace-you-can-now-discover-and-install-the-best-mcp-server|Introducing
+  MCP Marketplace!]]'
 source_release: '[[Releases/Cursor/cursor-2025-02-19-0-46-x-https-cursor-com-changelog-0-46-x-640a0a10|cursor-2025-02-19-0-46-x-https-cursor-com-changelog-0-46-x-640a0a10]]'
 source_type: cursor_changelog
 theme: apps-integrations
@@ -92,8 +92,8 @@ Source: https://cursor.com/changelog/0-46-x
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2024-07-03 · Cursor · [[Changes/Cursor/2024-07-03-docs-management-go-to-cursor-settings-features-docs-to-re-index-your-docs|Docs management! Go to Cursor Settings  Features  Docs to re-index your docs]]
-- Later: 2025-03-11 · Cursor · [[Changes/Cursor/2025-03-11-mcp-added-global-server-configuration-with-cursor-mcp-json-and-support-for-envir|MCP: Added global server configuration with ~/.cursor/mcp.json and support…]]
+- Earlier: 2025-02-19 · Cline · [[Changes/Cline/2025-02-19-introducing-mcp-marketplace-you-can-now-discover-and-install-the-best-mcp-server|Introducing MCP Marketplace!]]
+- Later: 2025-03-01 · Cline · [[Changes/Cline/2025-03-01-2-apps-and-integrations-changes-in-v3-5-0|2 Apps and Integrations changes in v3.5.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

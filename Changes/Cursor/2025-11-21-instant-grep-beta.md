@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: d5d9e57f3a00a4b166c715ccf61da0b00d4267d7a3151f5a89cab30407ba6290
+machine_hash: 55603311e86b6403121526c41861d7cd228681f97a16228ed6cd086486cfcb09
 product: cursor
 product_name: Cursor
 record:
@@ -49,10 +49,12 @@ record:
   title: Instant Grep (Beta)
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-10-29-background-agents-have-been-renamed-to-cloud-agents|Background
-  Agents have been renamed to Cloud Agents]]'
-- '[[Changes/Cursor/2025-10-29-cloud-agents|Cloud Agents]]'
-- '[[Changes/Cursor/2025-10-29-multi-agents-bb4f56|Multi-Agents]]'
+- '[[Changes/Cline/2025-11-13-feat-add-agents-md-support-by-saoudrizwan-in-https-github-com-cline-cline-pull-7|feat:
+  add AGENTS.md support]]'
+- '[[Changes/Codex CLI/2025-11-13-6510-feat-shell-command-tool-29364f3a9|♯6510 — feat:
+  shell_command tool (29364f3a9)]]'
+- '[[Changes/Codex CLI/2025-11-19-2-agent-mode-changes-in-rust-v0-59-0|2 Agent Mode
+  changes in rust-v0.59.0]]'
 source_release: '[[Releases/Cursor/cursor-2025-11-21-2-1-https-cursor-com-changelog-2-1-730bb490|cursor-2025-11-21-2-1-https-cursor-com-changelog-2-1-730bb490]]'
 source_type: cursor_changelog
 theme: agent-mode
@@ -91,8 +93,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2025-10-29 · Cursor · [[Changes/Cursor/2025-10-29-multi-agents-bb4f56|Multi-Agents]]
-- Later: 2025-12-10 · Cursor · [[Changes/Cursor/2025-12-10-plan-mode-now-supports-inline-mermaid-diagrams-allowing-the-agent-to-automatical|Plan Mode improvements]]
+- Earlier: 2025-11-19 · Codex CLI · [[Changes/Codex CLI/2025-11-19-2-agent-mode-changes-in-rust-v0-59-0|2 Agent Mode changes in rust-v0.59.0]]
+- Later: 2025-12-02 · Codex CLI · [[Changes/Codex CLI/2025-12-02-powershell-apply-patch-parsing-is-corrected-and-apply-patch-tests-now-cover-shel|PowerShell apply_patch parsing is corrected, and apply_patch tests now cover…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

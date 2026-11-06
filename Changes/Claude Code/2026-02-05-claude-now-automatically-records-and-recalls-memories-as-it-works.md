@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: memory
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: f970bd05d691b41568043bbe3d954c2a3c3dee1202c7fb6830b0910756a8983f
+machine_hash: 3748d9d8869bc4395317ce820e42444e64c9de9ead5387f01cebd24c4e90b0ec
 product: claude-code
 product_name: Claude Code
 record:
@@ -41,12 +41,12 @@ record:
   title: Claude now automatically records and recalls memories as it works
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2025-12-22-today-we-re-rolling-out-your-year-with-chatgpt-an-optional-personalized-end-of-y-740eb1|Your
-  Year with ChatGPT]]'
-- '[[Changes/ChatGPT/2026-01-07-we-re-starting-to-roll-out-health-a-dedicated-space-in-chatgpt-for-health-and-we|We’re
-  starting to roll out Health, a dedicated space in ChatGPT for health…]]'
-- '[[Changes/ChatGPT/2026-01-15-when-reference-chat-history-is-enabled-chatgpt-can-now-more-reliably-find-specif|Improved
-  memory for finding details from past chats (Plus & Pro)]]'
+- '[[Changes/GitHub Copilot CLI/2026-01-30-better-handle-large-results-from-grep-and-glob-tools-to-avoid-memory-issues|Better
+  handle large results from grep and glob tools to avoid memory issues]]'
+- '[[Changes/Codex CLI/2026-01-31-6-memory-and-personalization-changes-in-rust-v0-93-0|6
+  Memory and Personalization changes in rust-v0.93.0]]'
+- '[[Changes/Codex CLI/2026-02-02-7-memory-and-personalization-changes-in-rust-v0-94-0|7
+  Memory and Personalization changes in rust-v0.94.0]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-02-05-v2-1-32-github-283457817-0910feb0|claude-code-2026-02-05-v2-1-32-github-283457817-0910feb0]]'
 source_type: github_releases
 theme: memory
@@ -80,8 +80,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Memory and Personalization
 
-- Earlier: 2026-01-15 · ChatGPT · [[Changes/ChatGPT/2026-01-15-when-reference-chat-history-is-enabled-chatgpt-can-now-more-reliably-find-specif|Improved memory for finding details from past chats (Plus & Pro)]]
-- Later: 2026-02-06 · Claude Code · [[Changes/Claude Code/2026-02-06-added-memory-frontmatter-field-support-for-agents-enabling-persistent-memory-wit|Added memory frontmatter field support for agents, enabling persistent memory…]]
+- Earlier: 2026-02-02 · Codex CLI · [[Changes/Codex CLI/2026-02-02-7-memory-and-personalization-changes-in-rust-v0-94-0|7 Memory and Personalization changes in rust-v0.94.0]]
+- Later: 2026-02-05 · Codex CLI · [[Changes/Codex CLI/2026-02-05-4-memory-and-personalization-changes-in-rust-v0-97-0|4 Memory and Personalization changes in rust-v0.97.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

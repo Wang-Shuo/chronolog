@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 1252b2eebb5b10caa4df950669b83ab0ba1fefa4535a2eeed82e289d00d80c90
+machine_hash: 55b896464ae2cf9f85b01cd708170cd04e307706a4a3fa05377acd07caee107a
 product: claude-code
 product_name: Claude Code
 record:
@@ -44,10 +44,10 @@ record:
     another…'
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-08-06-2-developer-workflow-changes-in-v2-1-223|2 Developer
-  Workflow changes in v2.1.223]]'
-- '[[Changes/Claude Code/2026-08-07-added-a-cancel-and-confirm-step-when-removing-an-unavailable-paste-changes-a-com|Added
-  a cancel-and-confirm step when removing an unavailable paste changes…]]'
+- '[[Changes/GitHub Copilot CLI/2026-08-10-4-developer-workflow-changes-in-v1-0-79|4
+  Developer Workflow changes in v1.0.79]]'
+- '[[Changes/Gemini CLI/2026-08-11-4-developer-workflow-changes-in-v0-55-1|4 Developer
+  Workflow changes in v0.55.1]]'
 - '[[Changes/Claude Code/2026-08-12-changed-commit-push-pr-so-git-gh-commands-with-dangerous-flags-force-amend-no-ve|Changed
   /commit-push-pr so git/gh commands with dangerous flags…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-08-13-v2-1-232-github-370225682-71e478db|claude-code-2026-08-13-v2-1-232-github-370225682-71e478db]]'

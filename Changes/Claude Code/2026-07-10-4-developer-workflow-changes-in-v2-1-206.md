@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: f18adc46e128e61ba78ebaea8019a517c7752ac0f08c80d55c045359a7500ffe
+machine_hash: b0bdd8db5ee63c74228d180eaab1edfaa159c94238880aeee4f6092c138e4b18
 product: claude-code
 product_name: Claude Code
 record:
@@ -49,12 +49,12 @@ record:
   title: 4 Developer Workflow changes in v2.1.206
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-07-02-claude-agents-session-rows-now-show-pull-request-links-as-bare-n-without-the-red|claude
-  agents session rows now show pull-request links as bare ♯N without…]]'
-- '[[Changes/Claude Code/2026-07-06-changed-review-pr-back-to-a-fast-single-pass-review-use-code-review-level-pr-for|Changed
-  /review pr back to a fast single-pass review]]'
-- '[[Changes/Claude Code/2026-07-07-removed-the-startup-claude-command-missing-or-broken-warnings-they-now-appear-in|Removed
-  the startup "claude command missing or broken" warnings]]'
+- '[[Changes/GitHub Copilot CLI/2026-07-07-7-developer-workflow-changes-in-v1-0-69|7
+  Developer Workflow changes in v1.0.69]]'
+- '[[Changes/Codex CLI/2026-07-08-7-developer-workflow-changes-in-rust-v0-143-0|7
+  Developer Workflow changes in rust-v0.143.0]]'
+- '[[Changes/Codex CLI/2026-07-09-6-developer-workflow-changes-in-rust-v0-144-0|6
+  Developer Workflow changes in rust-v0.144.0]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-07-10-v2-1-206-github-351694341-0226036e|claude-code-2026-07-10-v2-1-206-github-351694341-0226036e]]'
 source_type: github_releases
 theme: developer-workflow
@@ -95,8 +95,8 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.206
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2026-07-07 · Claude Code · [[Changes/Claude Code/2026-07-07-removed-the-startup-claude-command-missing-or-broken-warnings-they-now-appear-in|Removed the startup "claude command missing or broken" warnings]]
-- Later: 2026-07-14 · Claude Code · [[Changes/Claude Code/2026-07-14-agent-view-ctrl-x-now-deletes-renamed-branch-worktrees-never-destroys-unpushed-c|Agent view: Ctrl+X now deletes renamed-branch worktrees, never destroys unpushed…]]
+- Earlier: 2026-07-09 · Codex CLI · [[Changes/Codex CLI/2026-07-09-6-developer-workflow-changes-in-rust-v0-144-0|6 Developer Workflow changes in rust-v0.144.0]]
+- Later: 2026-07-10 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-07-10-3-developer-workflow-changes-in-v1-0-70|3 Developer Workflow changes in v1.0.70]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

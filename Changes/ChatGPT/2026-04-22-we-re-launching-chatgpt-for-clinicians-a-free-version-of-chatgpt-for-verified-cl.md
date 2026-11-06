@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 8eb66bebc8dd8d88f17c9083073cff4f998ceb8275803d5dc476ee8ff0082a32
+machine_hash: 6505adec0d27d0ac7e46e29aed0e34a78ff20429099ef16646ec22bbb7046402
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -71,12 +71,12 @@ record:
   title: ChatGPT for Clinicians
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-03-26-mcp-oauth-now-follows-rfc-9728-protected-resource-metadata-discovery-to-find-the|MCP
-  OAuth now follows RFC 9728 Protected Resource Metadata discovery to find…]]'
-- '[[Changes/Claude Code/2026-04-04-added-interactive-bedrock-setup-wizard-accessible-from-the-login-screen-when-sel|Added
-  interactive Bedrock setup wizard accessible from the login screen…]]'
-- '[[Changes/Claude Code/2026-04-09-added-interactive-google-vertex-ai-setup-wizard-accessible-from-the-login-screen|Added
-  interactive Google Vertex AI setup wizard accessible from the login screen…]]'
+- '[[Changes/Gemini CLI/2026-04-14-docs-update-mcp-server-oauth-redirect-port-documentation-by-adamfweidman-in-http|docs:
+  update MCP server OAuth redirect port documentation]]'
+- '[[Changes/GitHub Copilot CLI/2026-04-14-enterprise-login-accepts-hostnames-without-a-url-scheme-e-g-github-example-com|Enterprise
+  login accepts hostnames without a URL scheme (e.g. ''github.example.com'')]]'
+- '[[Changes/GitHub Copilot CLI/2026-04-17-copilot-login-host-now-correctly-authenticates-with-github-enterprise-cloud-ghe|copilot
+  login --host now correctly authenticates with GitHub Enterprise Cloud (GHE)…]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-04-22-chatgpt-for-clinicians-4ccc54d7|chatgpt-2026-04-22-chatgpt-for-clinicians-4ccc54d7]]'
 source_type: chatgpt_changelog
 theme: account-access
@@ -103,8 +103,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Account and Access
 
-- Earlier: 2026-04-09 · Claude Code · [[Changes/Claude Code/2026-04-09-added-interactive-google-vertex-ai-setup-wizard-accessible-from-the-login-screen|Added interactive Google Vertex AI setup wizard accessible from the login screen…]]
-- Later: 2026-04-28 · Claude Code · [[Changes/Claude Code/2026-04-28-clarified-the-mcp-message-shown-when-an-mcp-server-is-still-unauthorized-after-t|Clarified the /mcp message shown when an MCP server is still unauthorized after…]]
+- Earlier: 2026-04-17 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-04-17-copilot-login-host-now-correctly-authenticates-with-github-enterprise-cloud-ghe|copilot login --host now correctly authenticates with GitHub Enterprise Cloud (GHE)…]]
+- Later: 2026-04-23 · Gemini CLI · [[Changes/Gemini CLI/2026-04-23-docs-correct-documentation-for-enforced-authentication-type-by-cocosheng-g-in-ht|docs: correct documentation for enforced authentication type]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

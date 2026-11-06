@@ -1,0 +1,94 @@
+---
+card_id: aider-2024-05-13-91461a
+date: '2024-05-13'
+description: 'Aider · 2024-05-13 · Editor Experience: Improved reflection feedback
+  to LLMs using the diff edit format.'
+diffusion:
+  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
+    Editor Experience changes in 0.0.37]]'
+  inference: No adoption, equivalence, or causation claim.
+  lag_days: 426
+  relation: same-theme-chronology
+  role: later-observed
+  scope: tracked-products-only
+  theme: editor-experience
+  tracked_products_count: 10
+evolves_from: []
+extractor_version: fallback-v5
+impact: incremental
+kind: change
+machine_hash: 62ac3c3eea6b5de919fdec2781887375da4367a9b62648e53a9a232ab4d418ae
+product: aider
+product_name: Aider
+record:
+  card_id: aider-2024-05-13-91461a
+  comparison: ''
+  date: '2024-05-13'
+  description: 'Aider — v0.35.0: Improved reflection feedback to LLMs using the diff
+    edit format.'
+  evidence:
+  - quote: Improved reflection feedback to LLMs using the diff edit format.
+    source_release: https://github.com/Aider-AI/aider/releases/tag/v0.35.0
+  extractor_version: fallback-v5
+  impact: incremental
+  kind: change
+  product: aider
+  product_name: Aider
+  slug: improved-reflection-feedback-to-llms-using-the-diff-edit-format
+  source_release: aider-2024-05-13-v0-35-0-github-155558453-42e8504a
+  source_type: github_releases
+  theme: editor-experience
+  theme_matches: []
+  theme_resolution: manual-semantic-rule-v1
+  title: Improved reflection feedback to LLMs using the diff edit format
+  type: change
+related_changes:
+- '[[Changes/Aider/2024-04-24-allow-repo-map-for-whole-edit-format|Allow repo map
+  for "whole" edit format]]'
+- '[[Changes/Aider/2024-05-07-support-for-deepseek-v2-via-more-a-flexible-config-of-system-messages-in-the-dif|Support
+  for Deepseek-V2, via more a flexible config of system messages in the diff…]]'
+- '[[Changes/Aider/2024-05-10-refactored-prompting-to-unify-some-phrasing-across-edit-formats|Refactored
+  prompting to unify some phrasing across edit formats]]'
+source_release: '[[Releases/Aider/aider-2024-05-13-v0-35-0-github-155558453-42e8504a|aider-2024-05-13-v0-35-0-github-155558453-42e8504a]]'
+source_type: github_releases
+theme: editor-experience
+title: Improved reflection feedback to LLMs using the diff edit format
+type: change
+---
+
+<!-- chronolog:begin region="header" -->
+# Improved reflection feedback to LLMs using the diff edit format
+
+**Aider** · 2024-05-13 · [[Themes/editor-experience|Editor Experience]] · [Official source](https://github.com/Aider-AI/aider/releases/tag/v0.35.0) · from [[Releases/Aider/aider-2024-05-13-v0-35-0-github-155558453-42e8504a|v0.35.0]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="evidence" -->
+> Improved reflection feedback to LLMs using the diff edit format.
+>
+> Source: https://github.com/Aider-AI/aider/releases/tag/v0.35.0
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="context" -->
+## Also in this release
+
+- [[Changes/Aider/2024-05-13-added-restore-chat-history-to-restore-prior-chat-history-on-launch-so-you-can-co|Added --restore-chat-history to restore prior chat history on launch, so you can…]] · Interface Experience
+- [[Changes/Aider/2024-05-13-3-model-support-changes-in-v0-35-0|3 Model Support changes in v0.35.0]] · Model Support
+- [[Changes/Aider/2024-05-13-improved-retries-on-httpx-errors|Improved retries on httpx errors]] · Other changes
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="nearby" -->
+## Nearby in Editor Experience
+
+- Earlier: 2024-05-10 · Aider · [[Changes/Aider/2024-05-10-refactored-prompting-to-unify-some-phrasing-across-edit-formats|Refactored prompting to unify some phrasing across edit formats]]
+- Later: 2024-05-26 · Cursor · [[Changes/Cursor/2024-05-26-merges-vs-code-1-89-into-cursor-38031f|Merges VS Code 1.89 into Cursor]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="relations" -->
+## Related
+
+- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="footer" -->
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20aider-2024-05-13-91461a&body=Card%3A%20Changes%2FAider%2F2024-05-13-improved-reflection-feedback-to-llms-using-the-diff-edit-format.md%0ACard%20ID%3A%20aider-2024-05-13-91461a%0ASource%3A%20https%3A%2F%2Fgithub.com%2FAider-AI%2Faider%2Freleases%2Ftag%2Fv0.35.0%0A%0AWhat%20should%20be%20corrected%3F%0A)
+<!-- chronolog:end -->

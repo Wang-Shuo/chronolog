@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: ad42b299b81d85d3cfed7b8f53ade3183ae51f791d2a1c7a4fa98ec478959b2d
+machine_hash: a47e4aaa92689335148a1dfbd0707742b5478dd2034b8324db4fd7610d55bd47
 product: claude-code
 product_name: Claude Code
 record:
@@ -47,12 +47,12 @@ record:
     ranges…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-01-14-enabled-mcp-tool-search-auto-mode-by-default-for-all-users-when-mcp-tool-descrip|Enabled
-  MCP tool search auto mode by default for all users]]'
-- '[[Changes/Claude Code/2026-01-16-added-auto-n-syntax-for-configuring-the-mcp-tool-search-auto-enable-threshold-wh|Added
-  auto:N syntax for configuring the MCP tool search auto-enable threshold…]]'
-- '[[Changes/Cursor/2026-01-22-agents-can-now-read-pdfs-which-you-can-attach-in-chats-as-context|Agents
-  can now read PDFs, which you can attach in chats as context]]'
+- '[[Changes/Cline/2026-01-30-new-model-added-kimi-k2-5-model-to-moonshot-provider-262k-context-image-support-9b8adb|_New
+  model: Added Kimi-K2.5 model to Moonshot provider…]]'
+- '[[Changes/Codex CLI/2026-01-31-6-context-window-changes-in-rust-v0-93-0|6 Context
+  Window changes in rust-v0.93.0]]'
+- '[[Changes/Codex CLI/2026-02-02-2-context-window-changes-in-rust-v0-94-0|2 Context
+  Window changes in rust-v0.94.0]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-02-03-v2-1-30-github-282673902-7b2e46f2|claude-code-2026-02-03-v2-1-30-github-282673902-7b2e46f2]]'
 source_type: github_releases
 theme: context-window
@@ -88,8 +88,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Context Window
 
-- Earlier: 2026-01-22 · Cursor · [[Changes/Cursor/2026-01-22-agents-can-now-read-pdfs-which-you-can-attach-in-chats-as-context|Agents can now read PDFs, which you can attach in chats as context]]
-- Later: 2026-02-05 · Claude Code · [[Changes/Claude Code/2026-02-05-2-context-window-changes-in-v2-1-32|2 Context Window changes in v2.1.32]]
+- Earlier: 2026-02-02 · Codex CLI · [[Changes/Codex CLI/2026-02-02-2-context-window-changes-in-rust-v0-94-0|2 Context Window changes in rust-v0.94.0]]
+- Later: 2026-02-04 · Codex CLI · [[Changes/Codex CLI/2026-02-04-2-context-window-changes-in-rust-v0-95-0|2 Context Window changes in rust-v0.95.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

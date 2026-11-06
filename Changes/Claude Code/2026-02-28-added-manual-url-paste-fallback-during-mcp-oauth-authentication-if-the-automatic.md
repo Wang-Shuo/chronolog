@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 219006c7a15cecab9c628ac5a9a905f5212187d902b6d79dab58f49712a2523c
+machine_hash: 35e44ca5b14c40a829cda687cf1ddc6d7ebb353835396fa9b4508c8c0ea5b0ed
 product: claude-code
 product_name: Claude Code
 record:
@@ -54,12 +54,12 @@ record:
   title: Added manual URL paste fallback during MCP OAuth authentication
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-02-06-vscode-added-support-for-remote-sessions-allowing-oauth-users-to-browse-and-resu|VSCode:
-  Added support for remote sessions, allowing OAuth users to browse and resume…]]'
-- '[[Changes/Claude Code/2026-02-13-added-claude-auth-login-claude-auth-status-and-claude-auth-logout-cli-subcommand|Added
-  claude auth login, claude auth status, and claude auth logout CLI subcommands]]'
-- '[[Changes/Claude Code/2026-02-19-improved-performance-by-caching-authentication-failures-for-http-and-sse-mcp-ser|Improved
-  performance by caching authentication failures for HTTP and SSE MCP…]]'
+- '[[Changes/Codex CLI/2026-02-25-3-account-and-access-changes-in-rust-v0-105-0|3
+  Account and Access changes in rust-v0.105.0]]'
+- '[[Changes/Codex CLI/2026-02-26-2-account-and-access-changes-in-rust-v0-106-0|2
+  Account and Access changes in rust-v0.106.0]]'
+- '[[Changes/Gemini CLI/2026-02-27-3-account-and-access-changes-in-v0-31-0|3 Account
+  and Access changes in v0.31.0]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-02-28-v2-1-63-github-291579549-8767ab9c|claude-code-2026-02-28-v2-1-63-github-291579549-8767ab9c]]'
 source_type: github_releases
 theme: account-access
@@ -96,8 +96,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Account and Access
 
-- Earlier: 2026-02-19 · Claude Code · [[Changes/Claude Code/2026-02-19-improved-performance-by-caching-authentication-failures-for-http-and-sse-mcp-ser|Improved performance by caching authentication failures for HTTP and SSE MCP…]]
-- Later: 2026-03-05 · Claude Code · [[Changes/Claude Code/2026-03-05-2-account-and-access-changes-in-v2-1-69|2 Account and Access changes in v2.1.69]]
+- Earlier: 2026-02-27 · Gemini CLI · [[Changes/Gemini CLI/2026-02-27-3-account-and-access-changes-in-v0-31-0|3 Account and Access changes in v0.31.0]]
+- Later: 2026-03-02 · Codex CLI · [[Changes/Codex CLI/2026-03-02-3-account-and-access-changes-in-rust-v0-107-0|3 Account and Access changes in rust-v0.107.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

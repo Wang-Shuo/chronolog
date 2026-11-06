@@ -21,7 +21,7 @@ AMBIGUITY_MARGIN = 25
 GENERIC_HEADING_RE = re.compile(
     r"^(?:#+\s*)?(?:new features?|features?|improvements?|bug fixes?|fixes?|"
     r"other changes?|breaking changes?|what[’']?s (?:new|changed)|coming soon|changelog|"
-    r"release notes?|patches?(?: \(\d+\))?(?:↓↑)?|chores?|how it works|"
+    r"release notes?|patches?(?: \(\d+\))?(?:↓↑)?|chores?|new|added|changed|removed|deprecated|how it works|"
     r"how to use it|key details|known limitations?|plan differences|"
     r"this build includes|cursor start includes)[:.!]?$",
     re.I,
@@ -1426,6 +1426,11 @@ def same_theme_run(lead: dict[str, Any], follower: dict[str, Any]) -> bool:
     )
 
 
+def github_change_text(text: str) -> str:
+    """Visible change text without GitHub's generated author/PR suffix."""
+    return re.sub(r"\s+by\s+@[\w-]+\s+in\s+https://github\.com/\S+\s*$", "", text).strip()
+
+
 class _ReleaseCards:
     """Cards of one release, built section by section in body order."""
 
@@ -1470,7 +1475,15 @@ class _ReleaseCards:
         decision = self.decisions.get(line_id)
         if decision == "skip":
             return None
-        classification = line_classification(text, self.themes, decision, self.release.get("product"))
+        classified_text = text
+        if self.release.get("source_type") == "github_releases":
+            # Repository/author names in GitHub's generated attribution are not
+            # feature evidence (e.g. google-gemini in every PR URL). Keep the
+            # original text for quotes and stable identities.
+            if re.match(r"^\**Full Changelog\**\s*:", text, re.I) or text.startswith("<!--"):
+                return None
+            classified_text = github_change_text(text)
+        classification = line_classification(classified_text, self.themes, decision, self.release.get("product"))
         if classification is None:
             return None
         self.used.add(line_id)
@@ -1621,6 +1634,8 @@ class _ReleaseCards:
     def build(self, sections: list[dict[str, Any]]) -> list[dict[str, Any]]:
         flat_list = self.release.get("source_type") == "github_releases"
         for section in sections:
+            if flat_list and section["heading"].casefold() == "new contributors":
+                continue
             if flat_list or section["kind"] == "generic":
                 self.list_items.extend(
                     item for block in section["blocks"] if (item := self.item(block))
@@ -1695,7 +1710,8 @@ class _ReleaseCards:
             impact = choose_impact(f"{heading}. {body_text}" if body_text else heading)
             description = f"{product_name} — {release['title']}: {primary}"
         else:
-            title = card_title(primary, product_name)
+            title_text = github_change_text(primary) if release.get("source_type") == "github_releases" else primary
+            title = card_title(title_text, product_name)
             slug_source = primary
             kind = card_kind([primary], theme)
             impact = choose_impact(primary)

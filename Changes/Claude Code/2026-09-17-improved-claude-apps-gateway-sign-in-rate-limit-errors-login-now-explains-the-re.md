@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: policy
-machine_hash: 39adf83fa7ee312f4588d3de30ea21b812bc798784e77abce417fd991f6ec85a
+machine_hash: 803b2f6edaddafca39231fe318b732024472858a3afc5efb9cebcc76c8a112ef
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,12 +45,12 @@ record:
   title: Improved Claude apps gateway sign-in rate limit errors
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-10-2-account-and-access-changes-in-v2-1-268|2 Account
-  and Access changes in v2.1.268]]'
-- '[[Changes/Claude Code/2026-09-14-changed-claude-apps-gateway-bedrock-vertex-ai-and-foundry-sessions-so-that-they|Changed
-  Claude apps gateway, Bedrock, Vertex AI, and Foundry sessions so that they…]]'
 - '[[Changes/Claude Code/2026-09-15-4-account-and-access-changes-in-v2-1-273|4 Account
   and Access changes in v2.1.273]]'
+- '[[Changes/GitHub Copilot CLI/2026-09-16-4-account-and-access-changes-in-v1-0-85|4
+  Account and Access changes in v1.0.85]]'
+- '[[Changes/OpenHands/2026-09-16-2-account-and-access-changes-in-v1-19-0|2 Account
+  and Access changes in v1.19.0]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-17-v2-1-274-github-390317660-0d9c7c5d|claude-code-2026-09-17-v2-1-274-github-390317660-0d9c7c5d]]'
 source_type: github_releases
 theme: account-access
@@ -91,7 +91,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Account and Access
 
-- Earlier: 2026-09-15 · Claude Code · [[Changes/Claude Code/2026-09-15-4-account-and-access-changes-in-v2-1-273|4 Account and Access changes in v2.1.273]]
+- Earlier: 2026-09-16 · OpenHands · [[Changes/OpenHands/2026-09-16-2-account-and-access-changes-in-v1-19-0|2 Account and Access changes in v1.19.0]]
 - Later: 2026-09-17 · Claude Code · [[Changes/Claude Code/2026-09-17-added-the-signed-in-account-to-claude-apps-gateway-sign-in-when-the-gateway-name|Added the signed-in account to Claude apps gateway sign-in]]
 <!-- chronolog:end -->
 

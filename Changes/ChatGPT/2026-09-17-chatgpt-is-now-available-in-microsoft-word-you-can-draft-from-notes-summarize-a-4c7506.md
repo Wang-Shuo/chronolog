@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 38118c6d01be3726b7c86d82c0a0dedbdd4c609628a8988e20b6334e9b30eb8a
+machine_hash: 85e52249b5aa0b4e58af3c5d7004eabbe19b90d5f673599b376a808056c5ce4f
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -51,12 +51,12 @@ record:
   title: ChatGPT for Word
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-11-3-interface-experience-changes-in-v2-1-269|3 Interface
-  Experience changes in v2.1.269]]'
-- '[[Changes/Claude Code/2026-09-14-3-interface-experience-changes-in-v2-1-271|3 Interface
-  Experience changes in v2.1.271]]'
 - '[[Changes/Claude Code/2026-09-15-claude-code-on-the-web-improved-the-routine-detail-page-menu-and-rename-in-the-b|Claude
   Code on the web Improved the routine detail page]]'
+- '[[Changes/GitHub Copilot CLI/2026-09-16-3-interface-experience-changes-in-v1-0-85|3
+  Interface Experience changes in v1.0.85]]'
+- '[[Changes/OpenHands/2026-09-16-2-interface-experience-changes-in-v1-19-0|2 Interface
+  Experience changes in v1.19.0]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-09-17-chatgpt-for-word-f072ecd9|chatgpt-2026-09-17-chatgpt-for-word-f072ecd9]]'
 source_type: chatgpt_changelog
 theme: interface-experience
@@ -85,7 +85,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-09-15 · Claude Code · [[Changes/Claude Code/2026-09-15-claude-code-on-the-web-improved-the-routine-detail-page-menu-and-rename-in-the-b|Claude Code on the web Improved the routine detail page]]
+- Earlier: 2026-09-16 · OpenHands · [[Changes/OpenHands/2026-09-16-2-interface-experience-changes-in-v1-19-0|2 Interface Experience changes in v1.19.0]]
 - Later: 2026-09-17 · Claude Code · [[Changes/Claude Code/2026-09-17-improved-the-artifact-tool-s-publish-and-read-results-they-now-say-who-can-open|Improved the Artifact tool's publish and read results]]
 <!-- chronolog:end -->
 

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: e49d796288983c0016446517bc586c9fb12acf7976251188f23b1c259076d664
+machine_hash: 1066eee8310d1860aafffe07aa4170016ddd6862c92fdd7159ac9afd309357d5
 product: claude-code
 product_name: Claude Code
 record:
@@ -127,7 +127,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.69
 ## Nearby in Reliability and Performance
 
 - Earlier: 2026-03-03 · Cursor · [[Changes/Cursor/2026-03-03-modals-load-faster|Modals load faster]]
-- Later: 2026-03-06 · Claude Code · [[Changes/Claude Code/2026-03-06-3-reliability-and-performance-changes-in-v2-1-70|3 Reliability and Performance changes in v2.1.70]]
+- Later: 2026-03-05 · Codex CLI · [[Changes/Codex CLI/2026-03-05-12935-speed-up-subagent-startup-daveaitel-openai|♯12935 Speed up subagent startup @daveaitel-openai]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

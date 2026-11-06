@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: c127a30376107aa0cabddc0dde25a82965df0a9995343575f5fa4678fe8bcf23
+machine_hash: 884e75b96e13237c4616b3e8e39fb9d7e6cd4b7a8e310cd8b89768d414a51177
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -79,7 +79,7 @@ type: change
 ## Nearby in Reliability and Performance
 
 - Earlier: 2023-02-09 · ChatGPT · [[Changes/ChatGPT/2023-02-09-turbo-optimized-for-speed-alpha|Turbo: optimized for speed (alpha)]]
-- Later: 2023-07-26 · Cursor · [[Changes/Cursor/2023-07-26-removes-a-check-in-the-chat-that-slows-the-chat-down-in-certain-cases|Removes a check in the chat that slows the chat down in certain cases]]
+- Later: 2023-07-08 · Aider · [[Changes/Aider/2023-07-08-more-robust-handling-of-filepaths-to-avoid-8-3-windows-filenames|More robust handling of filepaths, to avoid 8.3 windows filenames]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

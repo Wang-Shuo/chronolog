@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: ccfb17c428b35ee267326ea5e26aa2639d8eec0451341404bd9e109915c5abe4
+machine_hash: 2427f661968b8c07e5e063d96d499b7a8aafa594c2219ee6b073a6ef8110245f
 product: cursor
 product_name: Cursor
 record:
@@ -41,12 +41,12 @@ record:
   title: Jupyter CMD-k Context Building
   type: change
 related_changes:
-- '[[Changes/Cursor/2023-07-11-this-update-improves-the-prompt-for-cmd-k-when-you-don-t-have-any-code-selected|0.2.46
-  - Patch for Cmd-k Generates]]'
 - '[[Changes/Cursor/2023-07-12-semantic-search-in-cmd-shift-f-842ecc|Semantic search
   in Cmd-Shift-F]]'
 - '[[Changes/Cursor/2023-07-19-a-better-flow-for-getting-cmd-k-to-produce-code-with-no-linter-errors-you-should-8eb878|A
   better flow for getting CMD-k to produce code with no linter errors…]]'
+- '[[Changes/Aider/2023-07-22-provide-gpt-with-detailed-error-if-it-makes-a-bad-edit-block-ask-for-a-retry|Provide
+  GPT with detailed error if it makes a bad edit block, ask for a retry]]'
 source_release: '[[Releases/Cursor/cursor-2023-07-22-0-3-1-https-cursor-com-changelog-0-3-1-9afe11b9|cursor-2023-07-22-0-3-1-https-cursor-com-changelog-0-3-1-9afe11b9]]'
 source_type: cursor_changelog
 theme: editor-experience
@@ -73,8 +73,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2023-07-19 · Cursor · [[Changes/Cursor/2023-07-19-a-better-flow-for-getting-cmd-k-to-produce-code-with-no-linter-errors-you-should-8eb878|A better flow for getting CMD-k to produce code with no linter errors…]]
-- Later: 2023-07-27 · Cursor · [[Changes/Cursor/2023-07-27-experimental-codebase-support-in-the-chat-and-coming-to-the-cmd-k-soon|Experimental @Codebase support in the chat (and coming to the cmd-k soon!)]]
+- Earlier: 2023-07-22 · Aider · [[Changes/Aider/2023-07-22-provide-gpt-with-detailed-error-if-it-makes-a-bad-edit-block-ask-for-a-retry|Provide GPT with detailed error if it makes a bad edit block, ask for a retry]]
+- Later: 2023-07-24 · Aider · [[Changes/Aider/2023-07-24-provide-gpt-with-detailed-error-if-it-makes-a-bad-edit-block-ask-for-a-retry|Provide GPT with detailed error if it makes a bad edit block, ask for a retry]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

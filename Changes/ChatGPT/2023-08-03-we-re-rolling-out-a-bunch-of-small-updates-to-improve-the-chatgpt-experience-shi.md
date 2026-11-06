@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 3159f1a2a9d40010cc50b3ed07d858ef776e718e80c8b17cebfe011c9829959b
+machine_hash: 1909b4896b8dafca45115e4193af94d46cd9753547dc53363508e7cdf3869022
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -77,11 +77,11 @@ record:
   title: Updates to ChatGPT
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2023-06-22-browsing-plus-users-can-now-use-browsing-to-get-comprehensive-answers-and-curren|Browsing:
-  Plus users can now use Browsing to get comprehensive answers and current…]]'
-- '[[Changes/ChatGPT/2023-07-19-we-re-doubling-the-number-of-messages-chatgpt-plus-customers-can-send-with-gpt-4|Higher
-  message limits for GPT-4]]'
+- '[[Changes/Aider/2023-07-24-benchmarked-https-aider-chat-docs-benchmarks-html-at-64-7-for-gpt-4-diff-no-regr|Benchmarked((source
+  link) at 64.7% for gpt-4/diff…]]'
 - '[[Changes/Cursor/2023-07-28-long-ai-completions-8c21b2|Long AI completions]]'
+- '[[Changes/Aider/2023-08-02-defend-against-gpt-3-5-or-non-openai-models-suggesting-filenames-surrounded-by-a|Defend
+  against GPT-3.5 or non-OpenAI models suggesting filenames surrounded by asterisks]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2023-08-03-updates-to-chatgpt-0d776ee3|chatgpt-2023-08-03-updates-to-chatgpt-0d776ee3]]'
 source_type: chatgpt_changelog
 theme: model-support
@@ -108,8 +108,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2023-07-28 · Cursor · [[Changes/Cursor/2023-07-28-long-ai-completions-8c21b2|Long AI completions]]
-- Later: 2023-09-27 · ChatGPT · [[Changes/ChatGPT/2023-09-27-choose-browse-with-bing-in-the-selector-under-gpt-4|Choose Browse with Bing in the selector under GPT-4]]
+- Earlier: 2023-08-02 · Aider · [[Changes/Aider/2023-08-02-defend-against-gpt-3-5-or-non-openai-models-suggesting-filenames-surrounded-by-a|Defend against GPT-3.5 or non-OpenAI models suggesting filenames surrounded by asterisks]]
+- Later: 2023-08-08 · Aider · [[Changes/Aider/2023-08-08-defend-against-gpt-3-5-or-non-openai-models-suggesting-filenames-surrounded-by-a|Defend against GPT-3.5 or non-OpenAI models suggesting filenames surrounded by asterisks]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

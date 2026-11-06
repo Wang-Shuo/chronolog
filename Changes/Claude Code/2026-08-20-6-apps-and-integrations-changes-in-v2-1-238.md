@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: fa58249872f90c0e2b8d4858d420ab9803a802381e04ea49d6dd6f7a069c0a8e
+machine_hash: e81456b142ec07bfb40178193b2637e219a19c5746af105a4ee5cd372e8d82fa
 product: claude-code
 product_name: Claude Code
 record:
@@ -62,7 +62,8 @@ record:
   title: 6 Apps and Integrations changes in v2.1.238
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-08-17-settings|Settings]]'
+- '[[Changes/Codex CLI/2026-08-18-57-apps-and-integrations-changes-in-rust-v0-148-0|57
+  Apps and Integrations changes in rust-v0.148.0]]'
 - '[[Changes/Claude Code/2026-08-19-sigterm-in-print-sdk-mode-no-longer-records-an-interrupted-turn-or-synthetic-too|SIGTERM
   in print/SDK mode no longer records an interrupted turn or synthetic tool…]]'
 - '[[Changes/ChatGPT/2026-08-20-use-apple-messages-from-codex-and-chatgpt-work-on-apple-silicon-macs-the-apple-m|Use
@@ -114,7 +115,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.238
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-08-20 · ChatGPT · [[Changes/ChatGPT/2026-08-20-use-apple-messages-from-codex-and-chatgpt-work-on-apple-silicon-macs-the-apple-m|Use Apple Messages from Codex and ChatGPT Work]]
-- Later: 2026-08-21 · ChatGPT · [[Changes/ChatGPT/2026-08-21-updated-plugin-recommendations-make-it-easier-to-find-tools-people-continue-to-u|Updated plugin recommendations make it easier to find tools people continue to use]]
+- Later: 2026-08-20 · Codex CLI · [[Changes/Codex CLI/2026-08-20-33-apps-and-integrations-changes-in-rust-v0-149-0|33 Apps and Integrations changes in rust-v0.149.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

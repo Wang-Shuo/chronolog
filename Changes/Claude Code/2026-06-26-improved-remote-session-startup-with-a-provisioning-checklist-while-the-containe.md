@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: projects-workspaces
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 13bfdf4b79b8ce9cd08bed7ef321d259e937d5a3674f2107642385e2d6117f43
+machine_hash: 2c523c522bebb3f044ccb9e2895079601f6d95a32a89e7db4af7690a004e26d8
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,10 +45,10 @@ record:
     starts
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-05-13-feedback-can-now-include-recent-sessions-last-24-hours-or-7-days-for-issues-span|/feedback
-  can now include recent sessions (last 24 hours or 7 days) for issues…]]'
-- '[[Changes/ChatGPT/2026-05-14-codex-is-now-available-in-preview-in-the-chatgpt-mobile-app-so-you-can-stay-conn|Codex
-  remote access from the ChatGPT mobile app]]'
+- '[[Changes/Gemini CLI/2026-06-18-avoid-persisting-empty-resume-sessions-by-sandytao520-in-https-github-com-google|Avoid
+  persisting empty resume sessions]]'
+- '[[Changes/GitHub Copilot CLI/2026-06-23-4-projects-and-workspaces-changes-in-v1-0-64|4
+  Projects and Workspaces changes in v1.0.64]]'
 - '[[Changes/Claude Code/2026-06-24-added-rewind-support-for-resuming-a-conversation-from-before-clear-was-run|Added
   /rewind support for resuming a conversation from before /clear was run]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-06-26-v2-1-195-github-345467919-2d39e460|claude-code-2026-06-26-v2-1-195-github-345467919-2d39e460]]'

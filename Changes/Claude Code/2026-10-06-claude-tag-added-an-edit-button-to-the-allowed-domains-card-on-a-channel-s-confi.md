@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: b22675e3928617b3638717a378adf7aaa610c27fe268f18a229b4b071dabc932
+machine_hash: 7b42ac031c881adaebf5fdeaf8de10dc86cb53fa5581b147c051a8b03530e2ed
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,8 +45,8 @@ record:
   title: '[Claude Tag] Added an Edit button to the Allowed domains card on a channel''s…'
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-18-2-enterprise-and-administration-changes-in-v2-1-277|2
-  Enterprise and Administration changes in v2.1.277]]'
+- '[[Changes/OpenHands/2026-09-22-feat-open-git-sync-to-org-admins-on-cloud-backends-by-hieptl-in-https-github-com|feat:
+  open Git Sync to org admins on cloud backends]]'
 - '[[Changes/Claude Code/2026-09-28-claude-tag-improved-notify-members-now-in-admin-settings-one-press-reaches-every|Claude
   Tag Improved "Notify members now" in admin settings]]'
 - '[[Changes/ChatGPT/2026-09-29-for-the-next-month-dots-usage-won-t-count-toward-eligible-pro-business-and-enter|For

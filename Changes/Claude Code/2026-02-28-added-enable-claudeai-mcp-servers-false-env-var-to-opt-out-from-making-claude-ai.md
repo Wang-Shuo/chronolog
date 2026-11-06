@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: de59274ce652e530410e1320242d3eb983e544b6bf7720435d599025811f156a
+machine_hash: b80e4569891081e348e622a9cdee3878d436cbb096fa51f928aae7a675a48633
 product: claude-code
 product_name: Claude Code
 record:
@@ -43,12 +43,12 @@ record:
     claude.ai…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-02-24-4-apps-and-integrations-changes-in-v2-1-51|4 Apps
-  and Integrations changes in v2.1.51]]'
-- '[[Changes/ChatGPT/2026-02-25-sources-from-apps-paste-a-link-to-a-slack-channel-or-google-drive-file-or-folder|Sources
-  from apps]]'
-- '[[Changes/Claude Code/2026-02-25-expand-remote-control-to-more-users|Expand Remote
-  Control to more users]]'
+- '[[Changes/Gemini CLI/2026-02-27-10-apps-and-integrations-changes-in-v0-31-0|10
+  Apps and Integrations changes in v0.31.0]]'
+- '[[Changes/GitHub Copilot CLI/2026-02-27-plugin-and-marketplace-git-repos-update-correctly-after-force-pushes-and-tag-bas|Plugin
+  and marketplace git repos update correctly after force-pushes and tag-based…]]'
+- '[[Changes/GitHub Copilot CLI/2026-02-27-3-apps-and-integrations-changes-in-v0-0-419|3
+  Apps and Integrations changes in v0.0.419]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-02-28-v2-1-63-github-291579549-8767ab9c|claude-code-2026-02-28-v2-1-63-github-291579549-8767ab9c]]'
 source_type: github_releases
 theme: apps-integrations
@@ -85,8 +85,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-02-25 · Claude Code · [[Changes/Claude Code/2026-02-25-expand-remote-control-to-more-users|Expand Remote Control to more users]]
-- Later: 2026-03-03 · Cursor · [[Changes/Cursor/2026-03-03-3-apps-and-integrations-changes-in-2-6|3 Apps and Integrations changes in 2.6]]
+- Earlier: 2026-02-27 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-02-27-3-apps-and-integrations-changes-in-v0-0-419|3 Apps and Integrations changes in v0.0.419]]
+- Later: 2026-03-02 · Codex CLI · [[Changes/Codex CLI/2026-03-02-3-apps-and-integrations-changes-in-rust-v0-107-0|3 Apps and Integrations changes in rust-v0.107.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

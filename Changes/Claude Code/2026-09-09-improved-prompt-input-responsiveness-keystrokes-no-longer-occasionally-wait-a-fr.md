@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 1f117f6b2e1dc18218fad1774877f197d2c00f73a6bc5d2ccc5297fbff99e2d9
+machine_hash: 591de4cdfc335518a2e77cc6e2f083b3fd92c0ea9cc1be1c541994e5ec3e23ac
 product: claude-code
 product_name: Claude Code
 record:
@@ -43,8 +43,8 @@ record:
   title: Improved prompt input responsiveness
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-08-25-improved-bash-tool-latency-on-bash-shells-by-replaying-snapshot-functions-withou|Improved
-  Bash tool latency on bash shells by replaying snapshot functions without…]]'
+- '[[Changes/GitHub Copilot CLI/2026-08-27-resume-large-sessions-faster-by-showing-recent-history-first-while-older-message|Resume
+  large sessions faster by showing recent history first while older messages load]]'
 - '[[Changes/Claude Code/2026-09-01-improved-prompt-input-responsiveness-by-reducing-per-keystroke-rendering-work|Improved
   prompt input responsiveness by reducing per-keystroke rendering work]]'
 - '[[Changes/Claude Code/2026-09-04-improved-streaming-performance-already-rendered-blocks-are-no-longer-re-checked|Improved

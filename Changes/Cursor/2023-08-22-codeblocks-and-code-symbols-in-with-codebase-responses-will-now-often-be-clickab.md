@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 057f284d91dc60f4a07240c3296090d7ed37c5981974cfe91155518048a2c685
+machine_hash: 2044603b374e3227dfcb598c1bad1341c1fb9a4deb887c01a64385c755b203c1
 product: cursor
 product_name: Cursor
 record:
@@ -45,11 +45,11 @@ record:
     clickable
   type: change
 related_changes:
-- '[[Changes/Cursor/2023-08-10-cmd-k-now-has-a-fast-mode-it-is-about-1-second-faster-and-we-re-working-on-makin|Cmd-K
-  fast mode]]'
 - '[[Changes/Cursor/2023-08-12-the-cmd-k-edits-now-support-followups-this-is-an-early-preview-please-let-us-kno|Followups
   in edits]]'
 - '[[Changes/Cursor/2023-08-13-better-experience-for-long-files|Long-file experience]]'
+- '[[Changes/Aider/2023-08-22-only-git-commit-dirty-files-that-gpt-tries-to-edit-https-aider-chat-docs-faq-htm|Only
+  git commit dirty files that GPT tries…]]'
 source_release: '[[Releases/Cursor/cursor-2023-08-22-0-8-2-https-cursor-com-changelog-0-8-2-866d920f|cursor-2023-08-22-0-8-2-https-cursor-com-changelog-0-8-2-866d920f]]'
 source_type: cursor_changelog
 theme: editor-experience
@@ -83,7 +83,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2023-08-13 · Cursor · [[Changes/Cursor/2023-08-13-better-experience-for-long-files|Long-file experience]]
+- Earlier: 2023-08-22 · Aider · [[Changes/Aider/2023-08-22-only-git-commit-dirty-files-that-gpt-tries-to-edit-https-aider-chat-docs-faq-htm|Only git commit dirty files that GPT tries…]]
 - Later: 2023-09-05 · Cursor · [[Changes/Cursor/2023-09-05-cmd-k-will-no-longer-output-backticks-if-you-do-file|Cmd-K will no longer output backticks if you do @file]]
 <!-- chronolog:end -->
 

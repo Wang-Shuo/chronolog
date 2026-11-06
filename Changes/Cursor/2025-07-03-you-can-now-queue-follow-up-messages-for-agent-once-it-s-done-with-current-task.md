@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: b2e28e4c7cf5e2124257743de00d4b2833a9ce344649b1e40c90ca1a52ca6b45
+machine_hash: a3d99bd6906463d379be150bd6126af7924becb94f2069c753ff72b4ec93e184
 product: cursor
 product_name: Cursor
 record:
@@ -48,8 +48,8 @@ record:
   title: Queued messages
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-06-12-improved-background-agent-reliability|Improved Background
-  Agent reliability]]'
+- '[[Changes/OpenHands/2025-06-20-fixed-incorrect-tracking-for-cost-and-token-usage-for-main-agent-and-delegates-b|Fixed
+  incorrect tracking for cost and token usage for main agent and delegates]]'
 - '[[Changes/Cursor/2025-07-03-let-agent-resolve-merge-conflicts|Let Agent resolve
   merge conflicts]]'
 - '[[Changes/Cursor/2025-07-03-agent-to-dos-3ffa24|Agent To-dos]]'
@@ -92,8 +92,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2025-06-12 · Cursor · [[Changes/Cursor/2025-06-12-improved-background-agent-reliability|Improved Background Agent reliability]]
-- Later: 2025-07-29 · Cursor · [[Changes/Cursor/2025-07-29-agents-can-now-use-your-native-terminal-a-new-terminal-will-be-created-when-need|Share terminal with Agent]]
+- Earlier: 2025-06-20 · OpenHands · [[Changes/OpenHands/2025-06-20-fixed-incorrect-tracking-for-cost-and-token-usage-for-main-agent-and-delegates-b|Fixed incorrect tracking for cost and token usage for main agent and delegates]]
+- Later: 2025-07-19 · Codex CLI · [[Changes/Codex CLI/2025-07-19-https-github-com-openai-codex-pull-1589-changes-ctrl-d-so-it-only-exits-the-tui|(source link) changes ctrl-d so it only exits the TUI…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

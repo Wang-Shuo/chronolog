@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: 86665734664b0c0150fc63df8708070061f698a1d4a9dacdb0fc64aac5a784bc
+machine_hash: 3721b746a065fcfb3dd4b313c8c2854b083a21a8a3823dc4cdddeddd0a6fbda3
 product: cursor
 product_name: Cursor
 record:
@@ -53,11 +53,12 @@ record:
   title: Pinned chats
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-09-29-1-7-45-model-picker-ux|1.7.45: Model picker UX]]'
-- '[[Changes/Cursor/2025-10-29-optimized-text-parsing-for-chat-rendering|Optimized
-  text parsing for chat rendering]]'
-- '[[Changes/Cursor/2025-11-21-set-origin-allowlist-from-dashboard-to-restrict-browser-tools-browser-tools-and|Set
-  origin allowlist from dashboard to restrict browser tools]]'
+- '[[Changes/Codex CLI/2025-12-04-3-interface-experience-changes-in-rust-v0-65-0|3
+  Interface Experience changes in rust-v0.65.0]]'
+- '[[Changes/Codex CLI/2025-12-09-2-interface-experience-changes-in-rust-v0-66-0|2
+  Interface Experience changes in rust-v0.66.0]]'
+- '[[Changes/Codex CLI/2025-12-10-4-interface-experience-changes-in-rust-v0-69-0|4
+  Interface Experience changes in rust-v0.69.0]]'
 source_release: '[[Releases/Cursor/cursor-2025-12-10-2-2-https-cursor-com-changelog-2-2-297c9323|cursor-2025-12-10-2-2-https-cursor-com-changelog-2-2-297c9323]]'
 source_type: cursor_changelog
 theme: interface-experience
@@ -94,8 +95,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2025-11-21 · Cursor · [[Changes/Cursor/2025-11-21-set-origin-allowlist-from-dashboard-to-restrict-browser-tools-browser-tools-and|Set origin allowlist from dashboard to restrict browser tools]]
-- Later: 2025-12-18 · ChatGPT · [[Changes/ChatGPT/2025-12-18-you-can-now-pin-chats-to-the-top-of-your-list-for-quick-access-to-important-conv|Pinned chats in ChatGPT]]
+- Earlier: 2025-12-10 · Codex CLI · [[Changes/Codex CLI/2025-12-10-4-interface-experience-changes-in-rust-v0-69-0|4 Interface Experience changes in rust-v0.69.0]]
+- Later: 2025-12-11 · Cline · [[Changes/Cline/2025-12-11-2-interface-experience-changes-in-v3-41-0|2 Interface Experience changes in v3.41.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

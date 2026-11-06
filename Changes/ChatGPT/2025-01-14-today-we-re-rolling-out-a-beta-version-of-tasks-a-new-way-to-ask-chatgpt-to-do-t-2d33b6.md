@@ -4,20 +4,20 @@ date: '2025-01-14'
 description: 'ChatGPT · 2025-01-14 · Automation and Scheduling: Today we’re rolling
   out a beta version of tasks—a new way to ask ChatGPT to do things for you at a future…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2025-01-14-today-we-re-rolling-out-a-beta-version-of-tasks-a-new-way-to-ask-chatgpt-to-do-t-2d33b6|Scheduled
-    tasks in ChatGPT]]'
+  first_in_tracked: '[[Changes/OpenHands/2024-09-04-better-syntax-error-loop-detection-by-tobitege-in-https-github-com-all-hands-ai|Better
+    syntax error loop detection]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 0
+  lag_days: 132
   relation: same-theme-chronology
-  role: first-observed
+  role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 482f3c261faa2146204889103be562776cfbb11b6d639598ec73bb92d946e7af
+machine_hash: 29a45c20bf3f361f612bf3b4ab821cf443429f8cba4b82a8ccc3e05cbb54662f
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -51,6 +51,11 @@ record:
   theme: automation-scheduling
   title: Scheduled tasks in ChatGPT
   type: change
+related_changes:
+- '[[Changes/OpenHands/2024-09-04-better-syntax-error-loop-detection-by-tobitege-in-https-github-com-all-hands-ai|Better
+  syntax error loop detection]]'
+- '[[Changes/Cline/2025-01-06-there-is-now-a-see-new-changes-button-when-cline-completes-a-task-giving-you-an|There
+  is now a ‘See new changes’ button when Cline completes a task, giving you…]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-01-14-scheduled-tasks-in-chatgpt-b8005b4a|chatgpt-2025-01-14-scheduled-tasks-in-chatgpt-b8005b4a]]'
 source_type: chatgpt_changelog
 theme: automation-scheduling
@@ -77,13 +82,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Automation and Scheduling
 
-- Later: 2025-12-17 · ChatGPT · [[Changes/ChatGPT/2025-12-17-tasks-let-you-set-up-automated-prompts-that-chatgpt-can-run-for-you-you-can-now-b3f799|Tasks let you set up automated prompts that ChatGPT can run for you]]
+- Earlier: 2025-01-06 · Cline · [[Changes/Cline/2025-01-06-there-is-now-a-see-new-changes-button-when-cline-completes-a-task-giving-you-an|There is now a ‘See new changes’ button when Cline completes a task, giving you…]]
+- Later: 2025-05-07 · OpenHands · [[Changes/OpenHands/2025-05-07-made-proactive-conversation-starters-for-cloud-resolver-configurable-on-a-per-us|Made proactive conversation starters for Cloud Resolver configurable on a per-user basis]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry among the 3 tracked products.
+- Earliest same-theme entry in the tracked set: 2024-09-04 · OpenHands · [[Changes/OpenHands/2024-09-04-better-syntax-error-loop-detection-by-tobitege-in-https-github-com-all-hands-ai|Better syntax error loop detection]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

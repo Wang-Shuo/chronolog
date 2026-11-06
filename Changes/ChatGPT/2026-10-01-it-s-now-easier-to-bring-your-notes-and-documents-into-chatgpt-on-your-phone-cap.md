@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 29499b7a72f4c8e4d8f99680033376cd1aa321812a945548e286e32fdc13b82b
+machine_hash: 9f62072bc9a29ae9a5b280f16d895eb6848883733fdce834f686b84c701dfac2
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -46,12 +46,12 @@ record:
   title: Scan notes and documents more easily with ChatGPT camera
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-15-improved-artifact-database-writes-an-update-can-now-remove-a-single-field-instea|Improved
-  artifact database writes]]'
-- '[[Changes/Claude Code/2026-09-17-claude-tag-removed-the-repeated-guest-attribution-note-claude-appended-to-a-slac|Claude
-  Tag Removed the repeated guest-attribution note Claude appended to a Slack…]]'
+- '[[Changes/OpenHands/2026-09-23-feat-tag-agent-canvas-telemetry-by-deployment-kind-oss-13530-by-malhotra5-in-htt|feat:
+  tag Agent Canvas telemetry by deployment kind (OSS-13530)]]'
 - '[[Changes/Claude Code/2026-09-25-improved-prompt-audit-on-claude-code-configuration-stale-paths-stale-commands-an|Improved
   prompt-audit on Claude Code configuration]]'
+- '[[Changes/Codex CLI/2026-09-25-added-retries-for-transient-file-upload-failures-and-increased-the-upload-timeou|Added
+  retries for transient file-upload failures and increased the upload timeout…]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-10-01-scan-notes-and-documents-more-easily-with-chatgpt-camera-29008b79|chatgpt-2026-10-01-scan-notes-and-documents-more-easily-with-chatgpt-camera-29008b79]]'
 source_type: chatgpt_changelog
 theme: file-data
@@ -78,8 +78,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Files and Data
 
-- Earlier: 2026-09-25 · Claude Code · [[Changes/Claude Code/2026-09-25-improved-prompt-audit-on-claude-code-configuration-stale-paths-stale-commands-an|Improved prompt-audit on Claude Code configuration]]
-- Later: 2026-10-14 · Claude Code · [[Changes/Claude Code/2026-10-14-2-files-and-data-changes-in-v2-1-299|2 Files and Data changes in v2.1.299]]
+- Earlier: 2026-09-25 · Codex CLI · [[Changes/Codex CLI/2026-09-25-added-retries-for-transient-file-upload-failures-and-increased-the-upload-timeou|Added retries for transient file-upload failures and increased the upload timeout…]]
+- Later: 2026-10-05 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-10-05-canvas-actions-can-now-return-images-to-the-model-in-invoke-canvas-action|Canvas actions can now return images to the model in invoke_canvas_action]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

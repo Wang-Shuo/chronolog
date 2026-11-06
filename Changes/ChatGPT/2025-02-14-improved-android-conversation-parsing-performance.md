@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 5237a654e8937f6663af382ea27edc4c5a213b55b692220939af085b75e65b3b
+machine_hash: 561a3704c7707b61fb38fe0ac3eb79ac56757908cdec048871aaadf0ee0ef642
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -41,11 +41,12 @@ record:
   title: Improved Android conversation parsing performance
   type: change
 related_changes:
-- '[[Changes/Cursor/2024-12-17-cursor-starts-up-faster|Cursor starts up faster]]'
-- '[[Changes/Cursor/2024-12-17-cheaper-and-faster-bug-finding-model|Cheaper and faster
-  Bug Finding Model]]'
+- '[[Changes/Aider/2025-01-10-2-reliability-and-performance-changes-in-v0-71-0|2 Reliability
+  and Performance changes in v0.71.0]]'
 - '[[Changes/Cursor/2025-01-23-also-adds-mcp-support-team-configurable-blocklists-fixes-composer-stuck-on-gener|Also
   adds MCP support, team-configurable blocklists, fixes Composer stuck…]]'
+- '[[Changes/OpenHands/2025-02-13-optimize-memory-usage-in-fileeditobservation-by-neubig-in-https-github-com-all-h|Optimize
+  memory usage in FileEditObservation]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-02-14-set-chatgpt-as-default-search-engine-in-safari-11ec014b|chatgpt-2025-02-14-set-chatgpt-as-default-search-engine-in-safari-11ec014b]]'
 source_type: chatgpt_changelog
 theme: reliability-performance
@@ -78,7 +79,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2025-01-23 · Cursor · [[Changes/Cursor/2025-01-23-also-adds-mcp-support-team-configurable-blocklists-fixes-composer-stuck-on-gener|Also adds MCP support, team-configurable blocklists, fixes Composer stuck…]]
+- Earlier: 2025-02-13 · OpenHands · [[Changes/OpenHands/2025-02-13-optimize-memory-usage-in-fileeditobservation-by-neubig-in-https-github-com-all-h|Optimize memory usage in FileEditObservation]]
 - Later: 2025-02-19 · Cursor · [[Changes/Cursor/2025-02-19-2-reliability-and-performance-changes-in-0-46-x|2 Reliability and Performance changes in 0.46.x]]
 <!-- chronolog:end -->
 

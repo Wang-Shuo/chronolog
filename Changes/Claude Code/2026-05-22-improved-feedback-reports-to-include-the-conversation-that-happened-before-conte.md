@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 081e938307b7f515176f8f8f12432314f844bd1385e348e79163286e1f0358a7
+machine_hash: 8e47635e59c870e54a5a71bd634903d493e435283927c6722924a7b7bb6c43ae
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,12 +45,12 @@ record:
   title: Improved `/feedback` reports to include the conversation that happened before…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-05-14-improved-reactive-compaction-the-first-summarize-attempt-now-seeds-from-the-orig|Improved
-  reactive compaction]]'
-- '[[Changes/Claude Code/2026-05-19-improved-the-read-tool-to-return-a-truncated-first-page-with-a-partial-view-noti|Improved
-  the Read tool to return a truncated first page with a "PARTIAL view" notice…]]'
-- '[[Changes/Claude Code/2026-05-19-the-post-survey-follow-up-hint-now-appears-after-every-non-dismiss-survey-respon|The
-  post-survey follow-up hint now appears after every non-dismiss survey response…]]'
+- '[[Changes/GitHub Copilot CLI/2026-05-19-document-attachment-paths-are-included-in-context-so-the-agent-can-reference-pas|Document
+  attachment paths are included in context so the agent can reference pasted…]]'
+- '[[Changes/GitHub Copilot CLI/2026-05-20-customizable-status-line-in-the-terminal-footer-displays-session-info-such-as-mo|Customizable
+  status line in the terminal footer displays session info such as model…]]'
+- '[[Changes/Codex CLI/2026-05-21-5-context-window-changes-in-rust-v0-133-0|5 Context
+  Window changes in rust-v0.133.0]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-05-22-v2-1-149-github-328077450-086ee33f|claude-code-2026-05-22-v2-1-149-github-328077450-086ee33f]]'
 source_type: github_releases
 theme: context-window
@@ -82,8 +82,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Context Window
 
-- Earlier: 2026-05-19 · Claude Code · [[Changes/Claude Code/2026-05-19-the-post-survey-follow-up-hint-now-appears-after-every-non-dismiss-survey-respon|The post-survey follow-up hint now appears after every non-dismiss survey response…]]
-- Later: 2026-05-27 · Claude Code · [[Changes/Claude Code/2026-05-27-added-pluginsuggestionmarketplaces-managed-setting-admins-can-allowlist-org-mark|Added pluginSuggestionMarketplaces managed setting]]
+- Earlier: 2026-05-21 · Codex CLI · [[Changes/Codex CLI/2026-05-21-5-context-window-changes-in-rust-v0-133-0|5 Context Window changes in rust-v0.133.0]]
+- Later: 2026-05-22 · Gemini CLI · [[Changes/Gemini CLI/2026-05-22-3-context-window-changes-in-v0-43-0|3 Context Window changes in v0.43.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

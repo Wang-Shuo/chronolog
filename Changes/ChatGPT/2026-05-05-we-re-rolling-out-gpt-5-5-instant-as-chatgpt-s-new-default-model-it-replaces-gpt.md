@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 84a77c8cbe1ae7df01b6e58254ad532939ea2da87403529a90e8951e4e97cfe6
+machine_hash: 6808dcb4929cc361bc1b3a27d5a562e22c51997d454fe6461780f1a67edeef70
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -79,8 +79,8 @@ record:
   title: GPT-5.5 Instant in ChatGPT
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-05-01-2-model-support-changes-in-v2-1-126|2 Model Support
-  changes in v2.1.126]]'
+- '[[Changes/OpenHands/2026-05-01-added-llm-model-on-conversation-cards-and-header-by-sjathin-in-https-github-com|Added
+  LLM model on conversation cards and header]]'
 - '[[Changes/Claude Code/2026-05-04-updated-model-picker-collapsed-duplicate-opus-4-7-entries-and-current-opus-now-s|Updated
   /model picker]]'
 - '[[Changes/Cursor/2026-05-04-model-access-controls-d2ba4f|Model access controls]]'
@@ -111,7 +111,7 @@ type: change
 ## Nearby in Model Support
 
 - Earlier: 2026-05-04 · Cursor · [[Changes/Cursor/2026-05-04-model-access-controls-d2ba4f|Model access controls]]
-- Later: 2026-05-06 · Claude Code · [[Changes/Claude Code/2026-05-06-2-model-support-changes-in-v2-1-129|2 Model Support changes in v2.1.129]]
+- Later: 2026-05-05 · Gemini CLI · [[Changes/Gemini CLI/2026-05-05-3-model-support-changes-in-v0-41-0|3 Model Support changes in v0.41.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

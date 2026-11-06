@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 5b875f78ea75d650993ef6523e34759c3b8c10e2b1aa95bfdb4c90330a297943
+machine_hash: 0048fdc8724f38c1dcd2a2c0c64597ce79d6206fa73509f27ece4b6253561136
 product: claude-code
 product_name: Claude Code
 record:
@@ -43,12 +43,10 @@ record:
   title: Fast mode is now available for Opus 4.6
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-02-04-jan-10-2026-we-lowered-the-standard-and-light-thinking-time-as-we-observed-users-e93d5a|Jan
-  10, 2026: We lowered the Standard and Light thinking time as we observed users…]]'
-- '[[Changes/Claude Code/2026-02-04-improved-system-prompts-to-more-clearly-guide-the-model-toward-using-dedicated-t|Improved
-  system prompts to more clearly guide the model toward using dedicated tools…]]'
-- '[[Changes/Claude Code/2026-02-05-claude-opus-4-6-is-now-available|Claude Opus 4.6
-  is now available!]]'
+- '[[Changes/Windsurf/2026-02-05-released-tab-v2-model-selector-to-all-users|Released
+  Tab v2 model selector to all users]]'
+- '[[Changes/Windsurf/2026-02-05-new-models|New Models]]'
+- '[[Changes/Windsurf/2026-02-05-claude-opus-4-6-fast-mode|Claude Opus 4.6 (fast mode)]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-02-07-v2-1-36-github-284054567-b9b1e9a4|claude-code-2026-02-07-v2-1-36-github-284054567-b9b1e9a4]]'
 source_type: github_releases
 theme: model-support
@@ -75,8 +73,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-02-05 · Claude Code · [[Changes/Claude Code/2026-02-05-claude-opus-4-6-is-now-available|Claude Opus 4.6 is now available!]]
-- Later: 2026-02-10 · ChatGPT · [[Changes/ChatGPT/2026-02-10-we-re-making-an-update-to-gpt-5-2-instant-in-chatgpt-and-the-api-that-improves-r|GPT-5.2 Instant Update]]
+- Earlier: 2026-02-05 · Windsurf · [[Changes/Windsurf/2026-02-05-claude-opus-4-6-fast-mode|Claude Opus 4.6 (fast mode)]]
+- Later: 2026-02-07 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-02-07-add-support-for-claude-opus-4-6-fast-preview|Add support for Claude Opus 4.6 Fast (Preview)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: projects-workspaces
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: b2fb35b3efac4597376380fd8a9691ce50773b88055ad41d325a394e3d5f0c1d
+machine_hash: 96cd90c7c18fc425bb0950c7756e05b498e5564e73f86c907a1a97c50052ef84
 product: claude-code
 product_name: Claude Code
 record:
@@ -53,12 +53,12 @@ record:
     for stats…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2025-12-19-added-support-for-custom-session-ids-when-forking-sessions-with-session-id-combi|Added
-  support for custom session IDs when forking sessions with --session-id…]]'
-- '[[Changes/Claude Code/2026-01-30-added-from-pr-flag-to-resume-sessions-linked-to-a-specific-github-pr-number-or-u|Added
-  --from-pr flag to resume sessions linked to a specific GitHub PR number or URL]]'
 - '[[Changes/Claude Code/2026-02-04-added-session-resume-hint-on-exit-showing-how-to-continue-your-conversation-late|Added
   session resume hint on exit, showing how to continue your conversation later]]'
+- '[[Changes/Gemini CLI/2026-02-10-feat-acp-add-session-resume-support-by-bdmorgan-in-https-github-com-google-gemin|feat(acp):
+  add session resume support]]'
+- '[[Changes/GitHub Copilot CLI/2026-02-14-exit-from-alt-screen-no-longer-replays-full-session-history|Exit
+  from alt-screen no longer replays full session history]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-02-17-v2-1-45-github-287379410-d0651fb6|claude-code-2026-02-17-v2-1-45-github-287379410-d0651fb6]]'
 source_type: github_releases
 theme: projects-workspaces
@@ -93,7 +93,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Projects and Workspaces
 
-- Earlier: 2026-02-04 · Claude Code · [[Changes/Claude Code/2026-02-04-added-session-resume-hint-on-exit-showing-how-to-continue-your-conversation-late|Added session resume hint on exit, showing how to continue your conversation later]]
+- Earlier: 2026-02-14 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-02-14-exit-from-alt-screen-no-longer-replays-full-session-history|Exit from alt-screen no longer replays full session history]]
 - Later: 2026-02-25 · ChatGPT · [[Changes/ChatGPT/2026-02-25-sources-from-chats-save-useful-chatgpt-responses-into-your-project-so-great-outp|Sources from chats]]
 <!-- chronolog:end -->
 

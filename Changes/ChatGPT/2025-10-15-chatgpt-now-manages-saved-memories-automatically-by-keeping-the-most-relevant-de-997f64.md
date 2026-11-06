@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: memory
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 94d52fa584a4c58c3b049264c44ffa8b08bb451ea11ab54ef7fc457739ce7dcb
+machine_hash: 78c3a0395b77bc2818cb13dd380174580b55767bf05c5429863b672b00320a51
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -99,7 +99,7 @@ type: change
 ## Nearby in Memory and Personalization
 
 - Earlier: 2025-10-14 · ChatGPT · [[Changes/ChatGPT/2025-10-14-longer-memory-for-more-personalized-responses-775c35|Longer memory for more personalized responses]]
-- Later: 2025-10-28 · ChatGPT · [[Changes/ChatGPT/2025-10-28-longer-memory-for-more-personalized-responses|Longer memory for more personalized responses]]
+- Later: 2025-10-22 · Gemini CLI · [[Changes/Gemini CLI/2025-10-22-part-4-6-feat-telemetry-add-memory-monitor-with-activity-aware-recording-and-tes|Part 4/6 feat(telemetry): add memory monitor with activity-aware recording and tests]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

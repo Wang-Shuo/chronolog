@@ -10,12 +10,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 62b568b2462a8750a7b6ec17a2842c215fc95bd2342d75f5f3818d206a3f27e1
+machine_hash: aedf6412901acf3b1b737f457b4bbb641bd088fd00c0ae478e1865a14cccbee8
 product: cursor
 product_name: Cursor
 record:
@@ -79,7 +79,7 @@ type: change
 ## Nearby in Developer Workflow
 
 - Earlier: 2023-04-29 · Cursor · [[Changes/Cursor/2023-04-29-working-remote-ssh-support-through-the-openremote-ssh-extension|🌐 Working remote ssh support through the "OpenRemote - SSH" extension]]
-- Later: 2023-06-14 · Cursor · [[Changes/Cursor/2023-06-14-small-fix-for-a-format-on-save-bug-that-was-introduced-in-the-last-release-some|Small improvements]]
+- Later: 2023-06-07 · Aider · [[Changes/Aider/2023-06-07-added-in-chat-command-clear-to-clear-the-conversation-history|Added in-chat command /clear to clear the conversation history]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

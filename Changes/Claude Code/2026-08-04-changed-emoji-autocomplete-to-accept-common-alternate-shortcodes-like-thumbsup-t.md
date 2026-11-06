@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 3
+  tracked_products_count: 10
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 2f8a07ac0d3f117f522aab0db06f80f41f0f3aafb4c3361bb0aaac8bbce1015e
+machine_hash: e2dfb0cb95b4cf9f88256f131bc580faa6a0101316c664acef9c80b33d854b5b
 product: claude-code
 product_name: Claude Code
 record:
@@ -42,12 +42,12 @@ record:
   title: Changed emoji autocomplete to accept common alternate shortcodes like `:thumbsup:`…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-07-14-2-editor-experience-changes-in-v2-1-208|2 Editor
-  Experience changes in v2.1.208]]'
-- '[[Changes/Claude Code/2026-07-20-improved-the-ultrareview-diff-too-large-error-to-show-configured-limits-measured|Improved
-  the /ultrareview diff-too-large error to show configured limits, measured…]]'
-- '[[Changes/Claude Code/2026-07-21-added-emoji-shortcode-autocomplete-in-the-prompt-input-type-heart-to-insert-or-h|Added
-  emoji shortcode autocomplete in the prompt input]]'
+- '[[Changes/Windsurf/2026-08-01-the-edit-write-apply-patch-and-notebook-edit-tools-in-devin-local-now-refuse-to|The
+  edit, write, apply_patch, and notebook_edit tools in Devin Local now…]]'
+- '[[Changes/Cline/2026-08-02-keep-settings-edits-that-are-made-before-the-provider-config-finishes-loading-ba|Keep
+  settings edits that are made before the provider config finishes loading]]'
+- '[[Changes/GitHub Copilot CLI/2026-08-03-2-editor-experience-changes-in-v1-0-78|2
+  Editor Experience changes in v1.0.78]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-08-04-v2-1-221-github-364520051-d6a656ce|claude-code-2026-08-04-v2-1-221-github-364520051-d6a656ce]]'
 source_type: github_releases
 theme: editor-experience
@@ -83,8 +83,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2026-07-21 · Claude Code · [[Changes/Claude Code/2026-07-21-added-emoji-shortcode-autocomplete-in-the-prompt-input-type-heart-to-insert-or-h|Added emoji shortcode autocomplete in the prompt input]]
-- Later: 2026-08-17 · Cursor · [[Changes/Cursor/2026-08-17-origin-repos|Origin Repos]]
+- Earlier: 2026-08-03 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-08-03-2-editor-experience-changes-in-v1-0-78|2 Editor Experience changes in v1.0.78]]
+- Later: 2026-08-05 · OpenHands · [[Changes/OpenHands/2026-08-05-chore-deps-bump-monaco-editor-from-0-55-1-to-0-56-0-in-the-monaco-group-across-1|chore(deps): bump monaco-editor from 0.55.1 to 0.56.0 in the monaco group across 1…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
