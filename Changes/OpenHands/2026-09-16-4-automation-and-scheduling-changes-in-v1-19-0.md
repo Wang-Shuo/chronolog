@@ -4,20 +4,20 @@ date: '2026-09-16'
 description: 'OpenHands · 2026-09-16 · Automation and Scheduling: 4 changes in v1.19.0
   — feat: surface automation disablement reason in the UI by @malhotra5 in…'
 diffusion:
-  first_in_tracked: '[[Changes/OpenHands/2024-09-04-better-syntax-error-loop-detection-by-tobitege-in-https-github-com-all-hands-ai|Better
-    syntax error loop detection]]'
+  first_in_tracked: '[[Changes/Dify/2024-01-02-add-data-clean-schedule-by-johnjyong-in-https-github-com-langgenius-dify-pull-18|Add
+    data clean schedule]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 742
+  lag_days: 988
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: cc83df21f6483f82375685f7ede7192641b0a6c749678c2973b8d5a1a28e48d9
+machine_hash: e936847b556332ff441f1136f67596de2499f28282df8b8ef9e5ef9b9ac4add2
 product: openhands
 product_name: OpenHands
 record:
@@ -47,10 +47,10 @@ record:
   title: 4 Automation and Scheduling changes in v1.19.0
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-09-01-41457-source-proactive-multi-agent-instructions-from-the-model-catalog-copyberry|♯41457
-  Source proactive multi-agent instructions from the model catalog @copyberry]]'
 - '[[Changes/OpenHands/2026-09-09-9-automation-and-scheduling-changes-in-v1-17-0|9
   Automation and Scheduling changes in v1.17.0]]'
+- '[[Changes/Dify/2026-09-10-3-automation-and-scheduling-changes-in-1-17-1|3 Automation
+  and Scheduling changes in 1.17.1]]'
 - '[[Changes/OpenHands/2026-09-11-3-automation-and-scheduling-changes-in-v1-18-0|3
   Automation and Scheduling changes in v1.18.0]]'
 source_release: '[[Releases/OpenHands/openhands-2026-09-16-v1-19-0-github-390206611-a05af427|openhands-2026-09-16-v1-19-0-github-390206611-a05af427]]'
@@ -101,13 +101,13 @@ Source: https://github.com/OpenHands/OpenHands/releases/tag/v1.19.0
 ## Nearby in Automation and Scheduling
 
 - Earlier: 2026-09-11 · OpenHands · [[Changes/OpenHands/2026-09-11-3-automation-and-scheduling-changes-in-v1-18-0|3 Automation and Scheduling changes in v1.18.0]]
-- Later: 2026-09-17 · OpenHands · [[Changes/OpenHands/2026-09-17-feat-automations-select-saved-agent-profiles-by-neubig-in-https-github-com-openh|feat(automations): select saved agent profiles]]
+- Later: 2026-09-17 · Lovable · [[Changes/Lovable/2026-09-17-automate-your-workspace-with-the-lovable-api|Automate your workspace with the Lovable API]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2024-09-04 · OpenHands · [[Changes/OpenHands/2024-09-04-better-syntax-error-loop-detection-by-tobitege-in-https-github-com-all-hands-ai|Better syntax error loop detection]]
+- Earliest same-theme entry in the tracked set: 2024-01-02 · Dify · [[Changes/Dify/2024-01-02-add-data-clean-schedule-by-johnjyong-in-https-github-com-langgenius-dify-pull-18|Add data clean schedule]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

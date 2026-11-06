@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: search-browsing
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 427c1761a283bbac09ae39c336a5a015f987d2f082ab8ba1f7d76acb0ab0becf
+machine_hash: 86f74a5fde831dfd7bf5792bd908811188a2246a3f0cfa8368a009e7c307336b
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -42,12 +42,12 @@ record:
   title: 2 Search and Browsing changes in rust-v0.146.0
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-07-17-3-search-and-browsing-changes-in-v2-1-212|3 Search
-  and Browsing changes in v2.1.212]]'
 - '[[Changes/Codex CLI/2026-07-21-3-search-and-browsing-changes-in-rust-v0-145-0|3
   Search and Browsing changes in rust-v0.145.0]]'
 - '[[Changes/Claude Code/2026-07-22-changed-deep-research-to-start-only-when-invoked-manually-claude-no-longer-launc|Changed
   /deep-research to start only when invoked manually]]'
+- '[[Changes/Open WebUI/2026-07-27-7-search-and-browsing-changes-in-v0-11-0|7 Search
+  and Browsing changes in v0.11.0]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-07-29-rust-v0-146-0-github-361463950-6d491983|codex-cli-2026-07-29-rust-v0-146-0-github-361463950-6d491983]]'
 source_type: github_releases
 theme: search-browsing
@@ -95,7 +95,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.146.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Search and Browsing
 
-- Earlier: 2026-07-22 · Claude Code · [[Changes/Claude Code/2026-07-22-changed-deep-research-to-start-only-when-invoked-manually-claude-no-longer-launc|Changed /deep-research to start only when invoked manually]]
+- Earlier: 2026-07-27 · Open WebUI · [[Changes/Open WebUI/2026-07-27-7-search-and-browsing-changes-in-v0-11-0|7 Search and Browsing changes in v0.11.0]]
 - Later: 2026-08-07 · Codex CLI · [[Changes/Codex CLI/2026-08-07-3-search-and-browsing-changes-in-rust-v0-147-0|3 Search and Browsing changes in rust-v0.147.0]]
 <!-- chronolog:end -->
 

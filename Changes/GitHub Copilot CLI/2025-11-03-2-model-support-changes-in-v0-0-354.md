@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 9c566f8c1ccf71d697ff824b47d90dc2e28671c38c2f4e6dabf978d8848f23a0
+machine_hash: b807e7d3af80ab871899b7dfd4cee8693878adf59c8bfaefc50083d89892def6
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -43,10 +43,10 @@ record:
   title: 2 Model Support changes in v0.0.354
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2025-10-29-5-model-support-changes-in-v0-11-0|5 Model Support
-  changes in v0.11.0]]'
 - '[[Changes/Codex CLI/2025-10-30-5-model-support-changes-in-rust-v0-52-0|5 Model
   Support changes in rust-v0.52.0]]'
+- '[[Changes/Ollama/2025-10-30-ollama-will-now-stop-running-a-model-before-removing-it-via-ollama-rm|Ollama
+  will now stop running a model before removing it via ollama rm]]'
 - '[[Changes/Cline/2025-10-31-4-model-support-changes-in-v3-35-0|4 Model Support changes
   in v3.35.0]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2025-11-03-v0-0-354-github-259401997-a713a92b|github-copilot-cli-2025-11-03-v0-0-354-github-259401997-a713a92b]]'

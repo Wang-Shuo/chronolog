@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: f2e56af56cf707f6aa0665c2db26af6d8fcbf316a5be573cdc2cf6fb20179751
+machine_hash: 477aed2f31717d0f2c4b3a436b87915235346513995ed4788b9b283483788f58
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -42,11 +42,11 @@ record:
   title: '#8047 chore: fix tooltip typos and align tone'
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2025-12-10-4-interface-experience-changes-in-rust-v0-69-0|4
-  Interface Experience changes in rust-v0.69.0]]'
-- '[[Changes/Cursor/2025-12-10-pinned-chats|Pinned chats]]'
+- '[[Changes/Lovable/2025-12-10-a-more-lovable-dashboard|A more Lovable dashboard]]'
 - '[[Changes/Cline/2025-12-11-2-interface-experience-changes-in-v3-41-0|2 Interface
   Experience changes in v3.41.0]]'
+- '[[Changes/Dify/2025-12-11-3-interface-experience-changes-in-1-11-0|3 Interface
+  Experience changes in 1.11.0]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2025-12-15-rust-v0-73-0-github-270562118-b6e8102c|codex-cli-2025-12-15-rust-v0-73-0-github-270562118-b6e8102c]]'
 source_type: github_releases
 theme: interface-experience
@@ -78,7 +78,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2025-12-11 · Cline · [[Changes/Cline/2025-12-11-2-interface-experience-changes-in-v3-41-0|2 Interface Experience changes in v3.41.0]]
+- Earlier: 2025-12-11 · Dify · [[Changes/Dify/2025-12-11-3-interface-experience-changes-in-1-11-0|3 Interface Experience changes in 1.11.0]]
 - Later: 2025-12-16 · Windsurf · [[Changes/Windsurf/2025-12-16-ui-rendering|UI & Rendering]]
 <!-- chronolog:end -->
 

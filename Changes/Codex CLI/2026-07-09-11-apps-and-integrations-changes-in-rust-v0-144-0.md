@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 8270dadb7eb7fab412753378984e2974a6e56ed722b3265c85846a98cacdd28a
+machine_hash: 8ef1a8764180a1f987a9e7ba8d38bc32311f9d4e7a44914403b09a4d337e0db7
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -133,7 +133,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.144.0
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-07-09 · ChatGPT · [[Changes/ChatGPT/2026-07-09-enterprise-and-edu-users-can-find-skills-under-plugins-in-the-sidebar-on-the-ski|Skills are now generally available]]
-- Later: 2026-07-09 · OpenHands · [[Changes/OpenHands/2026-07-09-chore-bump-sdk-packages-to-v1-34-0-by-all-hands-bot-in-https-github-com-openhand|chore: bump SDK packages to v1.34.0]]
+- Later: 2026-07-09 · Lovable · [[Changes/Lovable/2026-07-09-app-connectors-dbt-semantic-layer-and-clickhouse|App connectors: dbt Semantic Layer and ClickHouse]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

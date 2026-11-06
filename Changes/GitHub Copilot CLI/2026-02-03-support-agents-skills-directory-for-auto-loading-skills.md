@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 27fa085450c98d63c89d7ad9eb31c905886d5a381904f17bb4b3f453dae5395b
+machine_hash: 9c959ae9c43c57f976eac6e868b0a6e55dde0b67a3647ac57078ee0725fa42c0
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -43,10 +43,10 @@ record:
   title: Support `.agents/skills` directory for auto-loading skills
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-02-02-2-agent-mode-changes-in-rust-v0-94-0|2 Agent Mode
-  changes in rust-v0.94.0]]'
 - '[[Changes/Claude Code/2026-02-03-added-token-count-tool-uses-and-duration-metrics-to-task-tool-results|Added
   token count, tool uses, and duration metrics to Task tool results]]'
+- '[[Changes/Dify/2026-02-03-9-agent-mode-changes-in-1-12-0|9 Agent Mode changes in
+  1.12.0]]'
 - '[[Changes/GitHub Copilot CLI/2026-02-03-4-agent-mode-changes-in-v0-0-402|4 Agent
   Mode changes in v0.0.402]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-02-03-v0-0-401-github-282605019-24696a01|github-copilot-cli-2026-02-03-v0-0-401-github-282605019-24696a01]]'
@@ -83,7 +83,7 @@ type: change
 ## Nearby in Agent Mode
 
 - Earlier: 2026-02-03 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-02-03-4-agent-mode-changes-in-v0-0-402|4 Agent Mode changes in v0.0.402]]
-- Later: 2026-02-04 · Codex CLI · [[Changes/Codex CLI/2026-02-04-4-agent-mode-changes-in-rust-v0-95-0|4 Agent Mode changes in rust-v0.95.0]]
+- Later: 2026-02-03 · Ollama · [[Changes/Ollama/2026-02-03-ollama-launch-will-now-work-run-subagents-when-using-ollama-launch-claude|ollama launch will now work run subagents when using ollama launch claude]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

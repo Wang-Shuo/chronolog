@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: 34d97d95991546342a812cf30d223e26feab957a468815713d05a09b8baab7ac
+machine_hash: 0fe428c55fbaed8313f9d4ef0aee01c9e5d62350db6f76f2cb29c9d4f834ce67
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -43,12 +43,9 @@ record:
   title: Load local shell configuration in agent sessions
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-01-23-add-support-for-ghe-cloud-ghe-com-remote-custom-agents|Add
-  support for GHE Cloud (\.ghe.com) remote custom agents]]'
-- '[[Changes/Codex CLI/2026-01-25-2-agent-mode-changes-in-rust-v0-91-0|2 Agent Mode
-  changes in rust-v0.91.0]]'
-- '[[Changes/Codex CLI/2026-01-25-2-agent-mode-changes-in-rust-v0-90-0|2 Agent Mode
-  changes in rust-v0.90.0]]'
+- '[[Changes/ElevenLabs/2026-01-26-new-endpoints|New Endpoints]]'
+- '[[Changes/ElevenLabs/2026-01-26-agents-platform-89c04a|Agents Platform]]'
+- '[[Changes/ElevenLabs/2026-01-26-new-schemas|New Schemas]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-01-26-v0-0-395-github-280018620-9ba72686|github-copilot-cli-2026-01-26-v0-0-395-github-280018620-9ba72686]]'
 source_type: github_releases
 theme: agent-mode
@@ -80,7 +77,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2026-01-25 · Codex CLI · [[Changes/Codex CLI/2026-01-25-2-agent-mode-changes-in-rust-v0-90-0|2 Agent Mode changes in rust-v0.90.0]]
+- Earlier: 2026-01-26 · ElevenLabs · [[Changes/ElevenLabs/2026-01-26-new-schemas|New Schemas]]
 - Later: 2026-01-27 · Claude Code · [[Changes/Claude Code/2026-01-27-2-agent-mode-changes-in-v2-1-20|2 Agent Mode changes in v2.1.20]]
 <!-- chronolog:end -->
 

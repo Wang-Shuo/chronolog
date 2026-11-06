@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 470412896c159d13366a1370e292b3fa68fe8eceb98fa2bcd4abf77578a47a9b
+machine_hash: b6f4c83f54d253a8c83728e71dfface4f61c56041c7bec45fe98b5722693b07e
 product: claude-code
 product_name: Claude Code
 record:
@@ -46,12 +46,12 @@ record:
   title: 2 Context Window changes in v2.1.285
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-09-25-6-context-window-changes-in-rust-v0-157-0|6 Context
-  Window changes in rust-v0.157.0]]'
-- '[[Changes/OpenHands/2026-09-25-refactor-remove-test-conversation-id-fallbacks-in-websocket-context-add-state-up|refactor:
-  remove test-conversation-id fallbacks in websocket context + add…]]'
+- '[[Changes/v0/2026-09-25-explore-your-project-in-the-new-lightweight-code-tab-edit-code-manage-files-and|New
+  Code Viewer]]'
 - '[[Changes/Codex CLI/2026-09-28-17-context-window-changes-in-rust-v0-158-0|17 Context
   Window changes in rust-v0.158.0]]'
+- '[[Changes/Ollama/2026-09-28-send-context-and-one-or-more-questions|Send context
+  and one or more questions]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-29-v2-1-285-github-399375132-96b3ffbc|claude-code-2026-09-29-v2-1-285-github-399375132-96b3ffbc]]'
 source_type: github_releases
 theme: context-window
@@ -96,7 +96,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.285
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Context Window
 
-- Earlier: 2026-09-28 · Codex CLI · [[Changes/Codex CLI/2026-09-28-17-context-window-changes-in-rust-v0-158-0|17 Context Window changes in rust-v0.158.0]]
+- Earlier: 2026-09-28 · Ollama · [[Changes/Ollama/2026-09-28-send-context-and-one-or-more-questions|Send context and one or more questions]]
 - Later: 2026-09-29 · Codex CLI · [[Changes/Codex CLI/2026-09-29-4-context-window-changes-in-rust-v0-159-0|4 Context Window changes in rust-v0.159.0]]
 <!-- chronolog:end -->
 

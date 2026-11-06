@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: search-browsing
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 44e64c3d73ae47558efc72fd12b5dd0046f23fe9ad3b86edda9808740eae9dd1
+machine_hash: 453942b0e817c8f5e9184b506587c053fa737ca0a8d299f9bb28467d98c504bd
 product: cursor
 product_name: Cursor
 record:
@@ -51,8 +51,8 @@ record:
   title: '@Link and web search can now parse PDFs and include in context'
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2025-05-15-chatgpt-deep-research-with-dropbox-is-available-globally-to-team-users-it-is-als-eaf8af|Dropbox
-  connector for deep research for Plus/Pro/Team]]'
+- '[[Changes/Open WebUI/2025-05-26-3-search-and-browsing-changes-in-v0-6-11|3 Search
+  and Browsing changes in v0.6.11]]'
 - '[[Changes/ChatGPT/2025-06-04-combines-internal-web-sources-for-synthesis|Combines
   internal + web sources for synthesis]]'
 - '[[Changes/ChatGPT/2025-06-04-chatgpt-team-enterprise-and-edu-customers-globally-can-use-connectors-in-deep-re|ChatGPT
@@ -99,7 +99,7 @@ type: change
 ## Nearby in Search and Browsing
 
 - Earlier: 2025-06-04 · ChatGPT · [[Changes/ChatGPT/2025-06-04-chatgpt-team-enterprise-and-edu-customers-globally-can-use-connectors-in-deep-re|ChatGPT Team, Enterprise, and Edu customers globally can use connectors in deep…]]
-- Later: 2025-06-13 · ChatGPT · [[Changes/ChatGPT/2025-06-13-we-ve-upgraded-chatgpt-search-for-all-users-to-provide-even-more-comprehensive-u|We’ve upgraded ChatGPT search for all users to provide even more comprehensive…]]
+- Later: 2025-06-11 · Dify · [[Changes/Dify/2025-06-11-marketplace-ui-update-easier-browsing-with-improved-sorting-for-app-types-20685|Marketplace UI Update]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

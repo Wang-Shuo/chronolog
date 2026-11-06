@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 6f2d8a9367918666709c9216be6bb745093c6bd722c938b37007976e4dc74c75
+machine_hash: 7fd9499738986bcb40d9b7811402179fc7f315a8cc31540bea8085f329e58579
 product: claude-code
 product_name: Claude Code
 record:
@@ -52,10 +52,10 @@ record:
   title: 4 Apps and Integrations changes in v2.1.85
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-03-25-google-s-file-connectors-in-chatgpt-are-now-unified-under-google-drive-providing|Google
-  Drive app unification]]'
-- '[[Changes/Claude Code/2026-03-25-6-apps-and-integrations-changes-in-v2-1-83|6 Apps
-  and Integrations changes in v2.1.83]]'
+- '[[Changes/Ollama/2026-03-25-openclaw-integration-improvements-for-gateway-checks|OpenClaw
+  integration improvements for gateway checks]]'
+- '[[Changes/Open WebUI/2026-03-25-3-apps-and-integrations-changes-in-v0-8-11|3 Apps
+  and Integrations changes in v0.8.11]]'
 - '[[Changes/Claude Code/2026-03-26-5-apps-and-integrations-changes-in-v2-1-84|5 Apps
   and Integrations changes in v2.1.84]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-03-26-v2-1-85-github-302129484-6eb9dcd7|claude-code-2026-03-26-v2-1-85-github-302129484-6eb9dcd7]]'

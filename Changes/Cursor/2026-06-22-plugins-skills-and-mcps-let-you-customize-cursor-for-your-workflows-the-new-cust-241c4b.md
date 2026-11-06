@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: f6f9a045f5b8fa95acc1ddfcbde6b067dbe6630b036e62858a9554f61b4c2f82
+machine_hash: 548ab897a79bdd4a1be573f98a3098c6ea83551a0ac7b4a6c9b0132bcb3f20c3
 product: cursor
 product_name: Cursor
 record:
@@ -49,8 +49,7 @@ record:
   title: Plugins, skills, and MCPs let you customize Cursor for your workflows
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-06-19-added-attribution-sessionurl-setting-to-omit-the-claude-ai-session-link-from-com|Added
-  attribution.sessionUrl setting to omit the claude.ai session link…]]'
+- '[[Changes/Replit/2026-06-19-use-replit-from-claude|Use Replit from Claude]]'
 - '[[Changes/Claude Code/2026-06-22-2-apps-and-integrations-changes-in-v2-1-186|2
   Apps and Integrations changes in v2.1.186]]'
 - '[[Changes/Codex CLI/2026-06-22-37-apps-and-integrations-changes-in-rust-v0-142-0|37
@@ -88,7 +87,7 @@ type: change
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-06-22 · Codex CLI · [[Changes/Codex CLI/2026-06-22-37-apps-and-integrations-changes-in-rust-v0-142-0|37 Apps and Integrations changes in rust-v0.142.0]]
-- Later: 2026-06-23 · Claude Code · [[Changes/Claude Code/2026-06-23-2-apps-and-integrations-changes-in-v2-1-187|2 Apps and Integrations changes in v2.1.187]]
+- Later: 2026-06-22 · ElevenLabs · [[Changes/ElevenLabs/2026-06-22-python-sdk|Python SDK]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

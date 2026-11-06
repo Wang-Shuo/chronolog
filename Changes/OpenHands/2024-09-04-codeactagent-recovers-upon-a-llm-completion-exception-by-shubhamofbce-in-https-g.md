@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: b744df0487ce490dcd30ceb027c1163ebe6f4412a35c3842636a5b696eb1fecf
+machine_hash: 5da588307fced72585c61c4e568a686a86d61d4e3c374331927d08cbaa5355e4
 product: openhands
 product_name: OpenHands
 record:
@@ -52,12 +52,12 @@ record:
   title: CodeActAgent recovers upon a llm completion exception
   type: change
 related_changes:
-- '[[Changes/Aider/2024-08-23-new-reset-command-to-drop-files-and-clear-chat-history|New
-  /reset command to /drop files and /clear chat history]]'
-- '[[Changes/OpenHands/2024-08-23-correct-list-rendering-for-chat-window-by-sb-git-cloud-in-https-github-com-all-h|Correct
-  list rendering for chat window]]'
+- "[[Changes/Open WebUI/2024-08-27-latex-rendering-issue-addressed-an-issue-that-affected-the-correct-rendering-of|\U0001F527
+  LaTeX Rendering Issue]]"
 - '[[Changes/Aider/2024-08-28-performance-improvements-for-autocomplete-in-large-mono-repos|Performance
   improvements for autocomplete in large/mono repos]]'
+- '[[Changes/Dify/2024-09-03-2-interface-experience-changes-in-0-7-3|2 Interface Experience
+  changes in 0.7.3]]'
 source_release: '[[Releases/OpenHands/openhands-2024-09-04-0-9-2-github-173488185-b7500959|openhands-2024-09-04-0-9-2-github-173488185-b7500959]]'
 source_type: github_releases
 theme: interface-experience
@@ -88,8 +88,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2024-08-28 · Aider · [[Changes/Aider/2024-08-28-performance-improvements-for-autocomplete-in-large-mono-repos|Performance improvements for autocomplete in large/mono repos]]
-- Later: 2024-09-29 · Aider · [[Changes/Aider/2024-09-29-new-settings-for-completion-menu-colors|New settings for completion menu colors]]
+- Earlier: 2024-09-03 · Dify · [[Changes/Dify/2024-09-03-2-interface-experience-changes-in-0-7-3|2 Interface Experience changes in 0.7.3]]
+- Later: 2024-09-05 · Open WebUI · [[Changes/Open WebUI/2024-09-05-ui-styling-refined-the-user-interface-styling-for-enhanced-visual-coherence-and|🎨 UI Styling]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

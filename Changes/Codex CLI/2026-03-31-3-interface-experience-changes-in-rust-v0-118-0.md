@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: b26148175fae1fe0da856dbc4f97a699884d1b8d3b393159b2b0c8e907418b52
+machine_hash: 58763fc0fd534066e0e6615bd9e11e7a4a0abe2c7afe77b81de6ee0ba3933e45
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -44,8 +44,8 @@ record:
   title: 3 Interface Experience changes in rust-v0.118.0
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-03-27-changed-skills-menu-to-sort-alphabetically-for-easier-scanning|Changed
-  /skills menu to sort alphabetically for easier scanning]]'
+- '[[Changes/Dify/2026-03-27-3-interface-experience-changes-in-1-13-3|3 Interface
+  Experience changes in 1.13.3]]'
 - '[[Changes/GitHub Copilot CLI/2026-03-30-2-interface-experience-changes-in-v1-0-13|2
   Interface Experience changes in v1.0.13]]'
 - '[[Changes/OpenHands/2026-03-30-added-the-new-slash-command-to-the-slash-command-menu-by-karanjaxyz-in-https-git|Added

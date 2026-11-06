@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: f9577a80dd7318e8cb427d2a0079fb1b6a05be6cd022686402c676859ee99a68
+machine_hash: 035cc83e588c2a29eab7e4fbb2bef1d027a0130d5044d9a418ceab31cfbbb432
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -41,12 +41,12 @@ record:
   title: 2 Developer Workflow changes in v0.0.380
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-01-09-4-developer-workflow-changes-in-rust-v0-80-0|4 Developer
-  Workflow changes in rust-v0.80.0]]'
 - '[[Changes/Claude Code/2026-01-12-added-claude-code-tmpdir-environment-variable-to-override-the-temp-directory-use|Added
   CLAUDE_CODE_TMPDIR environment variable to override the temp directory used…]]'
 - '[[Changes/Claude Code/2026-01-13-3-developer-workflow-changes-in-v2-1-6|3 Developer
   Workflow changes in v2.1.6]]'
+- '[[Changes/Dify/2026-01-13-5-developer-workflow-changes-in-1-11-3|5 Developer Workflow
+  changes in 1.11.3]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-01-13-v0-0-380-github-276209240-1033f81a|github-copilot-cli-2026-01-13-v0-0-380-github-276209240-1033f81a]]'
 source_type: github_releases
 theme: developer-workflow
@@ -85,7 +85,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v0.0.380
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2026-01-13 · Claude Code · [[Changes/Claude Code/2026-01-13-3-developer-workflow-changes-in-v2-1-6|3 Developer Workflow changes in v2.1.6]]
+- Earlier: 2026-01-13 · Dify · [[Changes/Dify/2026-01-13-5-developer-workflow-changes-in-1-11-3|5 Developer Workflow changes in 1.11.3]]
 - Later: 2026-01-13 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-01-13-add-new-as-an-alias-for-clear-command|Add /new as an alias for /clear command]]
 <!-- chronolog:end -->
 

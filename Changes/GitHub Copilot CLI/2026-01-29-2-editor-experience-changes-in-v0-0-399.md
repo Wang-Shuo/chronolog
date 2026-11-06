@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 4aee46c83b57a5f645ef62c6239faa9f566cd3cccd1d6157f9c32b2cb5610433
+machine_hash: 7e4c9d35372c867747e70eb1163d9f6eab50adc032a9cc9ec4d3c3460dde0c30
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -42,12 +42,12 @@ record:
   title: 2 Editor Experience changes in v0.0.399
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-01-27-3-editor-experience-changes-in-v0-0-396|3
-  Editor Experience changes in v0.0.396]]'
 - '[[Changes/Claude Code/2026-01-28-improved-claude-to-prefer-file-operation-tools-read-edit-write-over-bash-equival|Improved
   Claude to prefer file operation tools (Read, Edit, Write) over bash…]]'
 - '[[Changes/GitHub Copilot CLI/2026-01-28-directories-now-appear-in-mention-autocomplete|Directories
   now appear in @mention autocomplete]]'
+- '[[Changes/v0/2026-01-28-you-can-now-import-any-github-repo-into-v0-and-work-on-your-actual-codebase|Import
+  any GitHub repo into v0]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-01-29-v0-0-399-github-281241103-0dd383a6|github-copilot-cli-2026-01-29-v0-0-399-github-281241103-0dd383a6]]'
 source_type: github_releases
 theme: editor-experience
@@ -84,8 +84,8 @@ Source: https://github.com/github/copilot-cli/releases/tag/v0.0.399
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2026-01-28 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-01-28-directories-now-appear-in-mention-autocomplete|Directories now appear in @mention autocomplete]]
-- Later: 2026-01-30 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-01-30-add-autopilot-mode-for-autonomous-task-completion-experimental|Add autopilot mode for autonomous task completion (experimental)]]
+- Earlier: 2026-01-28 · v0 · [[Changes/v0/2026-01-28-you-can-now-import-any-github-repo-into-v0-and-work-on-your-actual-codebase|Import any GitHub repo into v0]]
+- Later: 2026-01-29 · v0 · [[Changes/v0/2026-01-29-improved-preview-tab-interaction-in-the-vm-panel|Improved preview tab interaction in the VM panel]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

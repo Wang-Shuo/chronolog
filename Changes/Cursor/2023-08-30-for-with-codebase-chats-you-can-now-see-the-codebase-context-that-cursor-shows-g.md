@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 39c56f674e6ae01f82e3d21daf821fc402f143f25f118f985d0b174fc21e5275
+machine_hash: 2483444f1d54cda2929ed23409b54bd0e81919330037aebcc82b1a9e8203132b
 product: cursor
 product_name: Cursor
 record:
@@ -55,10 +55,10 @@ record:
     shows GPT-4
   type: change
 related_changes:
-- '[[Changes/Cursor/2023-08-22-follow-up-chat-messages-to-with-codebase-will-keep-the-codebase-context|Follow-up
-  chat messages to "with codebase" will keep the codebase context]]'
 - '[[Changes/Cursor/2023-08-22-if-you-reference-a-long-file-that-will-be-cutoff-by-the-context-limit-you-ll-be|If
   you @ reference a long file that will be cutoff by the context limit, you''ll…]]'
+- '[[Changes/Dify/2023-08-24-feat-adjust-hf-max-tokens-by-takatost-in-https-github-com-langgenius-dify-pull-9|feat:
+  adjust hf max tokens]]'
 - '[[Changes/Cursor/2023-08-26-have-the-advanced-context-button-show-up-for-non-git-repos|Advanced
   Button]]'
 source_release: '[[Releases/Cursor/cursor-2023-08-30-0-9-0-https-cursor-com-changelog-0-9-0-1c913df4|cursor-2023-08-30-0-9-0-https-cursor-com-changelog-0-9-0-1c913df4]]'

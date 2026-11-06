@@ -5,20 +5,20 @@ description: 'Claude Code · 2026-09-17 · Enterprise and Administration: [Claud
   Improved Claude''s notices in Enterprise Grid channels shared across workspaces:
   they now…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2024-03-20-admin-improvements-team-admins-can-now-mark-themselves-as-unpaid-users-and-can-s|Admin
-    improvements: Team admins can now mark themselves as unpaid users and can see…]]'
+  first_in_tracked: '[[Changes/Gemini/2023-05-05-access-for-google-workspace-accounts|Access
+    for Google Workspace accounts]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 911
+  lag_days: 1231
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 6fff289e9012d220a51d14eeee210b596dac68f54d372d3f86b158a0346ebef5
+machine_hash: a5f14b8af004338dd77aecde044541e76bb303f95a4046a35d209dc6bc2d7357
 product: claude-code
 product_name: Claude Code
 record:
@@ -46,12 +46,12 @@ record:
     across…'
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-08-27-2-enterprise-and-administration-changes-in-v1-0-81|2
-  Enterprise and Administration changes in v1.0.81]]'
-- '[[Changes/GitHub Copilot CLI/2026-09-04-enterprise-admins-can-pin-sign-in-to-approved-github-organizations-with-the-forc|Enterprise
-  admins can pin sign-in to approved GitHub organizations…]]'
-- '[[Changes/ChatGPT/2026-09-10-box-dropbox-and-sharepoint-integrations-are-now-rolling-out-to-go-plus-pro-busin|Box,
-  Dropbox, and SharePoint integrations are now rolling out to Go, Plus, Pro…]]'
+- '[[Changes/Lovable/2026-09-11-lock-workspace-membership-to-your-identity-provider|Lock
+  workspace membership to your identity provider]]'
+- '[[Changes/Lovable/2026-09-11-edit-an-sso-provider-s-connection-settings|Edit an
+  SSO provider''s connection settings]]'
+- '[[Changes/Replit/2026-09-11-retrieve-prompt-text-for-compliance-workflows|Retrieve
+  prompt text for compliance workflows]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-17-v2-1-275-github-391032307-12ccfafd|claude-code-2026-09-17-v2-1-275-github-391032307-12ccfafd]]'
 source_type: github_releases
 theme: enterprise-admin
@@ -91,14 +91,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Enterprise and Administration
 
-- Earlier: 2026-09-10 · ChatGPT · [[Changes/ChatGPT/2026-09-10-box-dropbox-and-sharepoint-integrations-are-now-rolling-out-to-go-plus-pro-busin|Box, Dropbox, and SharePoint integrations are now rolling out to Go, Plus, Pro…]]
+- Earlier: 2026-09-11 · Replit · [[Changes/Replit/2026-09-11-retrieve-prompt-text-for-compliance-workflows|Retrieve prompt text for compliance workflows]]
 - Later: 2026-09-18 · Claude Code · [[Changes/Claude Code/2026-09-18-2-enterprise-and-administration-changes-in-v2-1-277|2 Enterprise and Administration changes in v2.1.277]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2024-03-20 · Cursor · [[Changes/Cursor/2024-03-20-admin-improvements-team-admins-can-now-mark-themselves-as-unpaid-users-and-can-s|Admin improvements: Team admins can now mark themselves as unpaid users and can see…]]
+- Earliest same-theme entry in the tracked set: 2023-05-05 · Gemini · [[Changes/Gemini/2023-05-05-access-for-google-workspace-accounts|Access for Google Workspace accounts]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: cb648dcc793d06425d004fc25c9e916159ff39980f51ea197972a9edef166d2c
+machine_hash: b55de66d6d41d52ed51b7278e46ebb5dc53dabb05ce54fcc3d12e4f388b07811
 product: claude-code
 product_name: Claude Code
 record:
@@ -43,10 +43,9 @@ record:
   title: Added PowerShell tool for Windows as an opt-in preview
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-03-17-resolve-an-edge-case-where-auto-update-could-leave-an-incomplete-package-on-wind|Resolve
-  an edge case where auto-update could leave an incomplete package on Windows]]'
-- '[[Changes/Codex CLI/2026-03-19-14986-temporarily-disable-private-desktop-until-it-works-with-elevated-ipc-path|♯14986
-  temporarily disable private desktop until it works with elevated IPC path…]]'
+- '[[Changes/ElevenLabs/2026-03-23-ios-sdk|iOS SDK]]'
+- '[[Changes/Claude/2026-03-25-interactive-apps-in-claude-for-ios-and-android|Interactive
+  apps in Claude for iOS and Android]]'
 - '[[Changes/ChatGPT/2026-03-26-users-can-now-choose-to-share-their-device-location-so-chatgpt-can-provide-more-7907ed|Location
   Sharing]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-03-26-v2-1-84-github-301540101-d02104aa|claude-code-2026-03-26-v2-1-84-github-301540101-d02104aa]]'

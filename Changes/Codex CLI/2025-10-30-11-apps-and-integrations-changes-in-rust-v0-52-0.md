@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: af8af1f2aff83fdc5c7a2e0c4841a811bfaef5862d9d8dd975debb077e0ccf7c
+machine_hash: 272111a0d1b3333dffe7b54f6ec0bc4adfe740c8028b287ab74f84a595a6d4c3
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -62,8 +62,7 @@ record:
   title: 11 Apps and Integrations changes in rust-v0.52.0
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2025-10-25-3-apps-and-integrations-changes-in-rust-v0-50-0|3
-  Apps and Integrations changes in rust-v0.50.0]]'
+- '[[Changes/ElevenLabs/2025-10-27-javascript-sdk|JavaScript SDK]]'
 - '[[Changes/GitHub Copilot CLI/2025-10-27-improve-handling-of-mcp-tools-containing-slashes|Improve
   handling of MCP tools containing slashes]]'
 - '[[Changes/Gemini CLI/2025-10-29-7-apps-and-integrations-changes-in-v0-11-0|7 Apps

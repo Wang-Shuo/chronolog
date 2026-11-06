@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 57a5bcfd62ff934990c7fc0c27de993621f8354cb0d871ae329f105ad62e85df
+machine_hash: e3bb712736e53a9d0d5358f2b15d3695dc13aab93ceae5534ed995834c568a28
 product: aider
 product_name: Aider
 record:
@@ -43,9 +43,10 @@ record:
     by asterisks
   type: change
 related_changes:
-- '[[Changes/Cursor/2023-07-28-long-ai-completions-8c21b2|Long AI completions]]'
 - '[[Changes/Aider/2023-08-02-defend-against-gpt-3-5-or-non-openai-models-suggesting-filenames-surrounded-by-a|Defend
   against GPT-3.5 or non-OpenAI models suggesting filenames surrounded by asterisks]]'
+- '[[Changes/Ollama/2023-08-02-when-running-ollama-run-the-show-command-can-be-used-to-inspect-the-current-mode|When
+  running ollama run, the /show command can be used to inspect the current model]]'
 - '[[Changes/ChatGPT/2023-08-03-we-re-rolling-out-a-bunch-of-small-updates-to-improve-the-chatgpt-experience-shi|Updates
   to ChatGPT]]'
 source_release: '[[Releases/Aider/aider-2023-08-08-v0-11-1-github-115635796-6f17bbc9|aider-2023-08-08-v0-11-1-github-115635796-6f17bbc9]]'
@@ -79,7 +80,7 @@ type: change
 ## Nearby in Model Support
 
 - Earlier: 2023-08-03 · ChatGPT · [[Changes/ChatGPT/2023-08-03-we-re-rolling-out-a-bunch-of-small-updates-to-improve-the-chatgpt-experience-shi|Updates to ChatGPT]]
-- Later: 2023-08-11 · Aider · [[Changes/Aider/2023-08-11-2-model-support-changes-in-v0-12-0|2 Model Support changes in v0.12.0]]
+- Later: 2023-08-10 · Ollama · [[Changes/Ollama/2023-08-10-3-model-support-changes-in-v0-0-14|3 Model Support changes in v0.0.14]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: e999879a35609b7909566e053a2681fab63b2876a896511122407e1225a03887
+machine_hash: 46c7d786cddd24fe4a981cd55ad4fb0563a17aa0cf8ba94d40148eb4fbb94bbb
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -113,7 +113,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.66
 ## Nearby in Model Support
 
 - Earlier: 2026-06-30 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-06-30-add-claude-sonnet-5-as-a-supported-model|Add Claude Sonnet 5 as a supported model]]
-- Later: 2026-07-01 · Claude Code · [[Changes/Claude Code/2026-07-01-2-model-support-changes-in-v2-1-198|2 Model Support changes in v2.1.198]]
+- Later: 2026-06-30 · Ollama · [[Changes/Ollama/2026-06-30-tightened-gemma-4-moe-model-loading-in-the-mlx-engine|Tightened Gemma 4 MoE model loading in the MLX engine]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

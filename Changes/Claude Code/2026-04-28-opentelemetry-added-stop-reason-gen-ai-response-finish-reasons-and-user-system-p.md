@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: f498c13afc981954958793d90424db32606dc958df864945fef1848738a5da44
+machine_hash: 9074f6ac532a480f4d765b3790a8351b3b2cab6461bff761b5e6561b579b509f
 product: claude-code
 product_name: Claude Code
 record:
@@ -44,8 +44,8 @@ record:
   title: 'OpenTelemetry: added `stop_reason`, `gen_ai.response.finish_reasons`…'
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-04-24-claude-opus-4-6-now-uses-medium-reasoning-effort-by-default|Claude
-  Opus 4.6 now uses medium reasoning effort by default]]'
+- '[[Changes/Replit/2026-04-24-security-agent-reviews-your-whole-codebase|Security
+  Agent reviews your whole codebase]]'
 - '[[Changes/GitHub Copilot CLI/2026-04-27-2-model-support-changes-in-v1-0-37|2 Model
   Support changes in v1.0.37]]'
 - '[[Changes/ChatGPT/2026-04-28-we-re-making-it-easier-to-choose-the-right-model-before-you-send-a-message-model|Easier

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 5b0a0dc9e1d072e8bcc49d71db2847d89b302b0884f18f687e31c19726d29406
+machine_hash: 41092b139b8bd4d1e296798119d131ebc26413f6e6ed92377da45558aec4e17d
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -95,7 +95,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.30.0
 ## Nearby in Agent Mode
 
 - Earlier: 2025-09-04 · Gemini CLI · [[Changes/Gemini CLI/2025-09-04-feat-subagent-enable-incremental-output-streaming-by-allenhutchison-in-https-git|feat(subagent): Enable incremental output streaming]]
-- Later: 2025-09-09 · OpenHands · [[Changes/OpenHands/2025-09-09-2-agent-mode-changes-in-0-56-0|2 Agent Mode changes in 0.56.0]]
+- Later: 2025-09-05 · Replit · [[Changes/Replit/2025-09-05-general-agent|General Agent]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 20db8c7c75b114d43edacd6860f6059b36abe77dbc336c9bd530205a3d6a4424
+machine_hash: ff561fe149c71ea2752468d99ac6ee2de48fa37f03c521844c21ca6487cc56cc
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -62,12 +62,12 @@ record:
   title: 9 Apps and Integrations changes in v1.0.49
   type: change
 related_changes:
-- '[[Changes/Cline/2026-05-19-disable-the-mcp-restart-server-button-when-a-server-is-toggled-off|Disable
-  the MCP "Restart Server" button when a server is toggled off]]'
-- '[[Changes/Cursor/2026-05-19-cursor-is-now-available-in-jira|Cursor is now available
-  in Jira]]'
-- '[[Changes/Cursor/2026-05-19-install-the-integration-from-cursor-integrations-you-need-cursor-admin-access-an|Install
-  the integration from Cursor integrations]]'
+- '[[Changes/Dify/2026-05-19-4-apps-and-integrations-changes-in-1-14-2|4 Apps and
+  Integrations changes in 1.14.2]]'
+- '[[Changes/Gemini/2026-05-19-daily-brief-is-your-personalized-overview-of-what-matters-today|Daily
+  Brief is your personalized overview of what matters today]]'
+- '[[Changes/Gemini/2026-05-19-gemini-can-connect-to-more-apps-starting-with-opentable-canva-and-instacart|Gemini
+  can connect to more apps, starting with OpenTable, Canva, and Instacart]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-05-19-v1-0-49-github-324640083-4bf093b8|github-copilot-cli-2026-05-19-v1-0-49-github-324640083-4bf093b8]]'
 source_type: github_releases
 theme: apps-integrations
@@ -124,7 +124,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.49
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-05-19 · Cursor · [[Changes/Cursor/2026-05-19-install-the-integration-from-cursor-integrations-you-need-cursor-admin-access-an|Install the integration from Cursor integrations]]
+- Earlier: 2026-05-19 · Gemini · [[Changes/Gemini/2026-05-19-gemini-can-connect-to-more-apps-starting-with-opentable-canva-and-instacart|Gemini can connect to more apps, starting with OpenTable, Canva, and Instacart]]
 - Later: 2026-05-20 · Codex CLI · [[Changes/Codex CLI/2026-05-20-9-apps-and-integrations-changes-in-rust-v0-132-0|9 Apps and Integrations changes in rust-v0.132.0]]
 <!-- chronolog:end -->
 

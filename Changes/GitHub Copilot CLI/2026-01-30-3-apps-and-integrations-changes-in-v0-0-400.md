@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 9cea78128d79299f1e8355b4e3c66b42e3e0fed1d70d91052f27c6c6a953fdc4
+machine_hash: 2d8504e366accca798358c8809e325cc8b2239c75bb92ed02169d0f7734fffa4
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -44,11 +44,11 @@ record:
   title: 3 Apps and Integrations changes in v0.0.400
   type: change
 related_changes:
-- '[[Changes/Cline/2026-01-30-hooks-hook-scripts-now-run-from-the-workspace-repository-root-instead-of-filesys|_Hooks:
+- '[[Changes/Cline/2026-01-30-hooks-hook-scripts-now-run-from-the-workspace-repository-root-instead-of-filesys|Hooks:
   Hook scripts now run from the workspace repository root instead…]]'
-- '[[Changes/Cline/2026-01-30-hooks-hook-scripts-now-run-from-the-workspace-repository-root-instead-of-filesys-9eb2c6|_Hooks:
+- '[[Changes/Cline/2026-01-30-hooks-hook-scripts-now-run-from-the-workspace-repository-root-instead-of-filesys-9eb2c6|Hooks:
   Hook scripts now run from the workspace repository root instead…]]'
-- '[[Changes/Cline/2026-01-30-hooks-hook-scripts-now-run-from-the-workspace-repository-root-instead-of-filesys-f43db5|_Hooks:
+- '[[Changes/Cline/2026-01-30-hooks-hook-scripts-now-run-from-the-workspace-repository-root-instead-of-filesys-f43db5|Hooks:
   Hook scripts now run from the workspace repository root instead…]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-01-30-v0-0-400-github-281705336-a0abdb24|github-copilot-cli-2026-01-30-v0-0-400-github-281705336-a0abdb24]]'
 source_type: github_releases
@@ -91,7 +91,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v0.0.400
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-01-30 · Cline · [[Changes/Cline/2026-01-30-hooks-hook-scripts-now-run-from-the-workspace-repository-root-instead-of-filesys-f43db5|_Hooks: Hook scripts now run from the workspace repository root instead…]]
+- Earlier: 2026-01-30 · Cline · [[Changes/Cline/2026-01-30-hooks-hook-scripts-now-run-from-the-workspace-repository-root-instead-of-filesys-f43db5|Hooks: Hook scripts now run from the workspace repository root instead…]]
 - Later: 2026-01-31 · Codex CLI · [[Changes/Codex CLI/2026-01-31-smart-approvals-are-now-enabled-by-default-with-explicit-approval-prompts-for-mc|Smart approvals are now enabled by default, with explicit approval prompts for MCP…]]
 <!-- chronolog:end -->
 

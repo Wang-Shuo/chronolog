@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: c55156d250100b2489cedfb6882ac277141fb9ecb53affff6fe86af8ed373c9c
+machine_hash: 59219c180251f3f872d726c3807ffffffd7873387036ad01f9f687c4bcb7bade
 product: claude-code
 product_name: Claude Code
 record:
@@ -46,10 +46,9 @@ record:
   title: 2 Model Support changes in v2.1.271
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-10-2-model-support-changes-in-v2-1-268|2 Model Support
-  changes in v2.1.268]]'
 - '[[Changes/Claude Code/2026-09-11-added-claude-code-gateway-model-discovery-timeout-ms-to-extend-the-llm-gateway-v|Added
   CLAUDE_CODE_GATEWAY_MODEL_DISCOVERY_TIMEOUT_MS to extend the LLM gateway…]]'
+- '[[Changes/ElevenLabs/2026-09-11-scribe-v2-medical|Scribe v2 Medical]]'
 - '[[Changes/ChatGPT/2026-09-14-we-re-retiring-automatic-switching-from-instant-to-thinking-reasoning-for-chatgp|Changes
   to automatic switching to thinking in ChatGPT (Plus and Pro)]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-14-v2-1-271-github-388664071-570fd44f|claude-code-2026-09-14-v2-1-271-github-388664071-570fd44f]]'
@@ -96,7 +95,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.271
 ## Nearby in Model Support
 
 - Earlier: 2026-09-14 · ChatGPT · [[Changes/ChatGPT/2026-09-14-we-re-retiring-automatic-switching-from-instant-to-thinking-reasoning-for-chatgp|Changes to automatic switching to thinking in ChatGPT (Plus and Pro)]]
-- Later: 2026-09-15 · Claude Code · [[Changes/Claude Code/2026-09-15-changed-bug-and-feedback-reports-to-include-only-model-behavior-params-model-sys|Changed /bug and /feedback reports to include only model-behavior params…]]
+- Later: 2026-09-14 · ElevenLabs · [[Changes/ElevenLabs/2026-09-14-javascript-sdk|JavaScript SDK]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

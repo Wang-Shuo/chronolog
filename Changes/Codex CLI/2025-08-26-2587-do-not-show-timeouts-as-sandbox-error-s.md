@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: c6874215bd4560b3bc82cd51f4dade67494ee9c0f5e0de47097bdbb185760d2c
+machine_hash: d50ffc66376d73907b804371a9cbe86b40894064b6c27d5dfc905d644f8a69b3
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -42,12 +42,11 @@ record:
   title: '#2587 do not show timeouts as "sandbox error"s'
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2025-08-13-ensure-sandbox-build-script-is-cross-platform-by-wldoooon-in-https-github-com-go|ensure
-  sandbox build script is cross-platform]]'
-- '[[Changes/Gemini CLI/2025-08-14-7-safety-and-privacy-changes-in-v0-1-21|7 Safety
-  and Privacy changes in v0.1.21]]'
 - '[[Changes/Codex CLI/2025-08-20-2464-https-github-com-openai-codex-pull-2464-docs-document-writable-roots-for-sa|♯2464((source
   link) docs: document writable_roots…]]'
+- '[[Changes/Open WebUI/2025-08-21-6-safety-and-privacy-changes-in-v0-6-23|6 Safety
+  and Privacy changes in v0.6.23]]'
+- '[[Changes/Replit/2025-08-22-soc-2-type-ii-certification|SOC 2 Type II certification]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2025-08-26-rust-v0-24-0-github-242647588-70fa432e|codex-cli-2025-08-26-rust-v0-24-0-github-242647588-70fa432e]]'
 source_type: github_releases
 theme: safety-privacy
@@ -87,8 +86,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Safety and Privacy
 
-- Earlier: 2025-08-20 · Codex CLI · [[Changes/Codex CLI/2025-08-20-2464-https-github-com-openai-codex-pull-2464-docs-document-writable-roots-for-sa|♯2464((source link) docs: document writable_roots…]]
-- Later: 2025-09-04 · Gemini CLI · [[Changes/Gemini CLI/2025-09-04-2-safety-and-privacy-changes-in-v0-3-0|2 Safety and Privacy changes in v0.3.0]]
+- Earlier: 2025-08-22 · Replit · [[Changes/Replit/2025-08-22-soc-2-type-ii-certification|SOC 2 Type II certification]]
+- Later: 2025-08-27 · Dify · [[Changes/Dify/2025-08-27-7-safety-and-privacy-changes-in-1-8-0|7 Safety and Privacy changes in 1.8.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

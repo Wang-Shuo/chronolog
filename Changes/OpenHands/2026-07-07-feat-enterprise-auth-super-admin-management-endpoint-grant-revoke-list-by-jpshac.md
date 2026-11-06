@@ -4,20 +4,20 @@ date: '2026-07-07'
 description: 'OpenHands · 2026-07-07 · Enterprise and Administration: feat(enterprise/auth):
   super-admin management endpoint (grant/revoke/list) by @jpshackelford in…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2024-03-20-admin-improvements-team-admins-can-now-mark-themselves-as-unpaid-users-and-can-s|Admin
-    improvements: Team admins can now mark themselves as unpaid users and can see…]]'
+  first_in_tracked: '[[Changes/Gemini/2023-05-05-access-for-google-workspace-accounts|Access
+    for Google Workspace accounts]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 839
+  lag_days: 1159
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 67760ec6ee79de75b9fcc4cd176a19d448cb4a8a33ee55aba4c4ab76fcb4e11f
+machine_hash: b1e112327e7e35666df166c7a432018ad8aa6256d3890e1c4549ec2c31930058
 product: openhands
 product_name: OpenHands
 record:
@@ -42,12 +42,12 @@ record:
   title: 'feat(enterprise/auth): super-admin management endpoint (grant/revoke/list)'
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-06-08-send-an-email-directly-from-within-a-chat-if-you-ve-connected-gmail-or-outlook-y|Send
-  an email directly from within a chat]]'
-- '[[Changes/Codex CLI/2026-06-18-tls-connections-now-support-p-521-certificate-signatures-commonly-used-by-enterp|TLS
-  connections now support P-521 certificate signatures commonly used by enterprise…]]'
+- '[[Changes/Lovable/2026-07-03-workspace-admins-and-owners-can-transfer-projects-again|Workspace
+  admins and owners can transfer projects again]]'
 - '[[Changes/OpenHands/2026-07-06-3-enterprise-and-administration-changes-in-1-9-0|3
   Enterprise and Administration changes in 1.9.0]]'
+- '[[Changes/Lovable/2026-07-07-restrict-workspace-access-by-sso-group|Restrict workspace
+  access by SSO group]]'
 source_release: '[[Releases/OpenHands/openhands-2026-07-07-1-9-1-github-350590509-fb4f817d|openhands-2026-07-07-1-9-1-github-350590509-fb4f817d]]'
 source_type: github_releases
 theme: enterprise-admin
@@ -77,14 +77,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Enterprise and Administration
 
-- Earlier: 2026-07-06 · OpenHands · [[Changes/OpenHands/2026-07-06-3-enterprise-and-administration-changes-in-1-9-0|3 Enterprise and Administration changes in 1.9.0]]
-- Later: 2026-07-09 · ChatGPT · [[Changes/ChatGPT/2026-07-09-business-and-enterprise-customers-already-have-access-to-sites-starting-today-th|Business and Enterprise customers already have access to Sites]]
+- Earlier: 2026-07-07 · Lovable · [[Changes/Lovable/2026-07-07-restrict-workspace-access-by-sso-group|Restrict workspace access by SSO group]]
+- Later: 2026-07-08 · Lovable · [[Changes/Lovable/2026-07-08-workspace-insights-now-on-business-plans|Workspace insights now on Business plans]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2024-03-20 · Cursor · [[Changes/Cursor/2024-03-20-admin-improvements-team-admins-can-now-mark-themselves-as-unpaid-users-and-can-s|Admin improvements: Team admins can now mark themselves as unpaid users and can see…]]
+- Earliest same-theme entry in the tracked set: 2023-05-05 · Gemini · [[Changes/Gemini/2023-05-05-access-for-google-workspace-accounts|Access for Google Workspace accounts]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

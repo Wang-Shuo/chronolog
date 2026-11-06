@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: fd50b0014efbd0751b9c87cd575cfc398ff2c0c42ea4ab1337581a698b53af5f
+machine_hash: f1cee4d293a2572dbccef7a37098986e8f8486e15935ee453672ba76c659c05e
 product: cline
 product_name: Cline
 record:
@@ -45,10 +45,10 @@ record:
     state…'
   type: change
 related_changes:
-- '[[Changes/Aider/2024-12-06-2-editor-experience-changes-in-v0-67-0|2 Editor Experience
-  changes in v0.67.0]]'
 - '[[Changes/Cursor/2024-12-17-agent-can-reapply-edits-with-a-smarter-apply-model|Agent
   can reapply edits with a smarter apply model]]'
+- "[[Changes/Open WebUI/2024-12-25-chat-completion-notifications-never-miss-a-completed-response-receive-instant-in|\U0001F514
+  Chat Completion Notifications: Never miss a completed response]]"
 - '[[Changes/OpenHands/2024-12-26-frontend-hyperlink-in-chat-window-should-open-link-in-a-new-tab-by-openhands-age|Frontend
   Hyperlink in Chat window should open link in a new tab]]'
 source_release: '[[Releases/Cline/cline-2025-01-06-v3-1-0-github-193383290-c6ffdbb3|cline-2025-01-06-v3-1-0-github-193383290-c6ffdbb3]]'
@@ -82,7 +82,7 @@ type: change
 ## Nearby in Editor Experience
 
 - Earlier: 2024-12-26 · OpenHands · [[Changes/OpenHands/2024-12-26-frontend-hyperlink-in-chat-window-should-open-link-in-a-new-tab-by-openhands-age|Frontend Hyperlink in Chat window should open link in a new tab]]
-- Later: 2025-01-13 · OpenHands · [[Changes/OpenHands/2025-01-13-added-new-app-tab-which-allows-users-to-interact-with-the-web-app-run-in-openhan|Added new App tab which allows users to interact with the web app run in OpenHands…]]
+- Later: 2025-01-06 · Lovable · [[Changes/Lovable/2025-01-06-edit-with-lovable-badge-enabled-for-all-users|“Edit with Lovable” Badge enabled for all users]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: fdcccfb66a87c2f9634ae6af5eb7aac05098ac57645c2ea0bcc24b37ddca7156
+machine_hash: 47c75a8061a0206f9bbeb0786fd4b687131441057004f3025b91741c826be49f
 product: claude-code
 product_name: Claude Code
 record:
@@ -50,12 +50,12 @@ record:
   title: 3 Account and Access changes in v2.1.247
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-08-20-8-account-and-access-changes-in-rust-v0-149-0|8
-  Account and Access changes in rust-v0.149.0]]'
-- '[[Changes/ChatGPT/2026-08-25-chatgpt-work-s-browser-on-web-and-mobile-can-also-help-you-get-tasks-done-on-som-99be54|ChatGPT
-  Work can now complete tasks on signed-in websites]]'
 - '[[Changes/Claude Code/2026-08-25-improved-attribution-of-usage-telemetry-to-your-organization-for-workload-identi|Improved
   attribution of usage telemetry to your organization for workload identity…]]'
+- '[[Changes/Dify/2026-08-25-13-account-and-access-changes-in-1-17-0|13 Account and
+  Access changes in 1.17.0]]'
+- '[[Changes/Open WebUI/2026-08-25-13-account-and-access-changes-in-v0-11-1|13 Account
+  and Access changes in v0.11.1]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-08-26-v2-1-247-github-377320078-fc507178|claude-code-2026-08-26-v2-1-247-github-377320078-fc507178]]'
 source_type: github_releases
 theme: account-access
@@ -96,7 +96,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.247
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Account and Access
 
-- Earlier: 2026-08-25 · Claude Code · [[Changes/Claude Code/2026-08-25-improved-attribution-of-usage-telemetry-to-your-organization-for-workload-identi|Improved attribution of usage telemetry to your organization for workload identity…]]
+- Earlier: 2026-08-25 · Open WebUI · [[Changes/Open WebUI/2026-08-25-13-account-and-access-changes-in-v0-11-1|13 Account and Access changes in v0.11.1]]
 - Later: 2026-08-26 · Codex CLI · [[Changes/Codex CLI/2026-08-26-2-account-and-access-changes-in-rust-v0-150-0|2 Account and Access changes in rust-v0.150.0]]
 <!-- chronolog:end -->
 

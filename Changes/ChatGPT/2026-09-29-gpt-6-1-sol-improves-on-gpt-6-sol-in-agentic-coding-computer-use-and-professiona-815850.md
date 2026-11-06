@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 3c682aac1ed914a10e0c53f7711767cc82b34f53ed895478fb233689dfcf43dd
+machine_hash: 9a8973eb501b2afc226f44c72c986a09e30cdc796bf1f0bbcf110553ef104563
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -70,12 +70,11 @@ record:
   title: GPT-6.1 Sol in ChatGPT Work and Codex
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-28-6-model-support-changes-in-v2-1-284|6 Model Support
-  changes in v2.1.284]]'
-- '[[Changes/Codex CLI/2026-09-28-7-model-support-changes-in-rust-v0-158-0|7 Model
-  Support changes in rust-v0.158.0]]'
+- '[[Changes/ElevenLabs/2026-09-28-models|Models]]'
 - '[[Changes/GitHub Copilot CLI/2026-09-28-5-model-support-changes-in-v1-0-89|5 Model
   Support changes in v1.0.89]]'
+- '[[Changes/Ollama/2026-09-28-3-model-support-changes-in-v0-35-0|3 Model Support
+  changes in v0.35.0]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-09-29-gpt-6-1-sol-in-chatgpt-work-and-codex-a0e5fef0|chatgpt-2026-09-29-gpt-6-1-sol-in-chatgpt-work-and-codex-a0e5fef0]]'
 source_type: chatgpt_changelog
 theme: model-support
@@ -104,7 +103,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-09-28 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-09-28-5-model-support-changes-in-v1-0-89|5 Model Support changes in v1.0.89]]
+- Earlier: 2026-09-28 · Ollama · [[Changes/Ollama/2026-09-28-3-model-support-changes-in-v0-35-0|3 Model Support changes in v0.35.0]]
 - Later: 2026-09-29 · ChatGPT · [[Changes/ChatGPT/2026-09-29-eligible-plus-and-pro-users-can-authorize-participating-apps-to-use-their-chatgp|Eligible Plus and Pro users can authorize participating apps to use their ChatGPT…]]
 <!-- chronolog:end -->
 

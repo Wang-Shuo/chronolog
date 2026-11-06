@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 08ad450980fc47525cf0ffd076bf59673273d2bfe211f66ae18070c9a1bcb25f
+machine_hash: 181b8b92ed35822f2c63d9d94bc441b63bf2027af949146e9aaddea20ed425f6
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -42,12 +42,11 @@ record:
   title: 'ci(release): build and attach unsigned macOS binaries to releases'
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-05-15-the-powershell-tool-is-now-enabled-by-default-on-windows-for-bedrock-vertex-and|The
-  PowerShell tool is now enabled by default on Windows for Bedrock, Vertex…]]'
-- '[[Changes/Codex CLI/2026-05-18-10-mobile-and-desktop-changes-in-rust-v0-131-0|10
-  Mobile and Desktop changes in rust-v0.131.0]]'
+- '[[Changes/Gemini/2026-05-19-the-next-chapter-of-gemini-live|The next chapter of
+  Gemini Live]]'
 - '[[Changes/GitHub Copilot CLI/2026-05-19-2-mobile-and-desktop-changes-in-v1-0-49|2
   Mobile and Desktop changes in v1.0.49]]'
+- '[[Changes/Lovable/2026-05-21-improvements-and-bug-fixes|Improvements and bug fixes]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2026-05-22-v0-43-0-github-327485557-9b4df16a|gemini-cli-2026-05-22-v0-43-0-github-327485557-9b4df16a]]'
 source_type: github_releases
 theme: mobile-desktop
@@ -85,7 +84,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2026-05-19 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-05-19-2-mobile-and-desktop-changes-in-v1-0-49|2 Mobile and Desktop changes in v1.0.49]]
+- Earlier: 2026-05-21 · Lovable · [[Changes/Lovable/2026-05-21-improvements-and-bug-fixes|Improvements and bug fixes]]
 - Later: 2026-05-23 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-05-23-2-mobile-and-desktop-changes-in-v1-0-52|2 Mobile and Desktop changes in v1.0.52]]
 <!-- chronolog:end -->
 

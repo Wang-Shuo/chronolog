@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 9cf0eefb350f1a75cbf5cc8dc05b36410cacc95beffbb7c887d2f57310c9e924
+machine_hash: b0f6353bd1cbae3e203e6803b93560e688e6c3b9eea1ae746019fca7a470736c
 product: claude-code
 product_name: Claude Code
 record:
@@ -42,12 +42,12 @@ record:
   title: Updated the /claude-api skill
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-10-19-avoid-false-context-exhaustion-and-rollover-refusal-when-tool-definitions-are-de|Avoid
-  false context exhaustion and rollover refusal when tool definitions are deferred]]'
-- '[[Changes/OpenHands/2026-10-19-chore-lint-remove-context-color-spec-bookkeeping-by-enyst-in-https-github-com-op|chore(lint):
-  remove context color spec bookkeeping]]'
+- '[[Changes/v0/2026-10-19-open-mcps-in-the-chat-composer-choose-slack-and-connect-your-workspace-once-conn|Open
+  + → MCPs in the chat composer, choose Slack , and connect your workspace]]'
 - '[[Changes/GitHub Copilot CLI/2026-10-20-switching-only-reasoning-effort-no-longer-forces-compaction-in-over-budget-sessi|Switching
   only reasoning effort no longer forces compaction in over-budget sessions]]'
+- '[[Changes/Ollama/2026-10-21-flint-https-ollama-com-library-flint-brings-recursive-s-coding-model-to-ollama-i|Flint((source
+  link) brings Recursive''s coding model to Ollama]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-10-22-v2-1-309-github-421170674-b2394d99|claude-code-2026-10-22-v2-1-309-github-421170674-b2394d99]]'
 source_type: github_releases
 theme: context-window
@@ -84,8 +84,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Context Window
 
-- Earlier: 2026-10-20 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-10-20-switching-only-reasoning-effort-no-longer-forces-compaction-in-over-budget-sessi|Switching only reasoning effort no longer forces compaction in over-budget sessions]]
-- Later: 2026-10-23 · Codex CLI · [[Changes/Codex CLI/2026-10-23-18-context-window-changes-in-rust-v0-164-0|18 Context Window changes in rust-v0.164.0]]
+- Earlier: 2026-10-21 · Ollama · [[Changes/Ollama/2026-10-21-flint-https-ollama-com-library-flint-brings-recursive-s-coding-model-to-ollama-i|Flint((source link) brings Recursive's coding model to Ollama]]
+- Later: 2026-10-22 · Ollama · [[Changes/Ollama/2026-10-22-ollama-launch-now-passes-cloud-models-context-lengths-and-capabilities-to-coding|ollama launch now passes cloud models' context lengths and capabilities to coding…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 9a1314072d1db273c0e890b074f712368bbe5a88181e541f695c0fce8c9f7340
+machine_hash: 26f2db2933161fb979aabf22143ec8d09b5fd924c2ab2968927ef2523d17d450
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -92,7 +92,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v0.0.335
 ## Nearby in Editor Experience
 
 - Earlier: 2025-10-03 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2025-10-03-2-editor-experience-changes-in-v0-0-334|2 Editor Experience changes in v0.0.334]]
-- Later: 2025-10-07 · Gemini CLI · [[Changes/Gemini CLI/2025-10-07-4-editor-experience-changes-in-v0-8-0|4 Editor Experience changes in v0.8.0]]
+- Later: 2025-10-06 · Lovable · [[Changes/Lovable/2025-10-06-a-smoother-build-experience|A smoother build experience]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

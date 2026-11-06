@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: f95bec17f20739a5ba24b54d4508068b422aa6109e61e616e855f059d3c8e446
+machine_hash: 7baa5606b95952e220f01c7a6fc43c6e240e583c4f02eaaa83bf69af3db893f3
 product: windsurf
 product_name: Windsurf
 record:
@@ -56,12 +56,12 @@ record:
   title: Devin for Terminal
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-04-28-4-developer-workflow-changes-in-v2-1-121|4 Developer
-  Workflow changes in v2.1.121]]'
 - '[[Changes/Gemini CLI/2026-04-28-3-developer-workflow-changes-in-v0-40-0|3 Developer
   Workflow changes in v0.40.0]]'
 - '[[Changes/Cursor/2026-04-29-added-first-class-run-streaming-with-sse-events-reconnect-support-via-last-event|Added
   first-class run streaming with SSE events, reconnect support…]]'
+- '[[Changes/Dify/2026-04-29-2-developer-workflow-changes-in-1-14-0|2 Developer Workflow
+  changes in 1.14.0]]'
 source_release: '[[Releases/Windsurf/windsurf-2026-04-29-v2-1-29-94aaef5d|windsurf-2026-04-29-v2-1-29-94aaef5d]]'
 source_type: windsurf_changelog
 theme: developer-workflow
@@ -98,7 +98,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2026-04-29 · Cursor · [[Changes/Cursor/2026-04-29-added-first-class-run-streaming-with-sse-events-reconnect-support-via-last-event|Added first-class run streaming with SSE events, reconnect support…]]
+- Earlier: 2026-04-29 · Dify · [[Changes/Dify/2026-04-29-2-developer-workflow-changes-in-1-14-0|2 Developer Workflow changes in 1.14.0]]
 - Later: 2026-04-30 · Codex CLI · [[Changes/Codex CLI/2026-04-30-14-developer-workflow-changes-in-rust-v0-128-0|14 Developer Workflow changes in rust-v0.128.0]]
 <!-- chronolog:end -->
 

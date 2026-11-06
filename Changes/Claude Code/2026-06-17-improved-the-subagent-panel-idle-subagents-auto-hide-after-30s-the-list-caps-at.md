@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 93e5e1b0f3e7114e5ae85dac9412201f9ef4002ab12fd8fa38a981f3581659f5
+machine_hash: 4cacea13f15f2135bc89e0e5f0ba1b78538250d75ea96da5efa499d0f1d6ed6f
 product: claude-code
 product_name: Claude Code
 record:
@@ -44,10 +44,9 @@ record:
   title: Improved the subagent panel
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-06-15-2-agent-mode-changes-in-v2-1-178|2 Agent Mode
-  changes in v2.1.178]]'
 - '[[Changes/Codex CLI/2026-06-15-11-agent-mode-changes-in-rust-v0-140-0|11 Agent
   Mode changes in rust-v0.140.0]]'
+- '[[Changes/ElevenLabs/2026-06-15-elevenagents|ElevenAgents]]'
 - '[[Changes/GitHub Copilot CLI/2026-06-16-agent-mode-is-tracked-per-session-so-it-no-longer-carries-over-when-you-create-c|Agent
   mode is tracked per session, so it no longer carries over when you create…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-06-17-v2-1-181-github-340975229-c771c493|claude-code-2026-06-17-v2-1-181-github-340975229-c771c493]]'

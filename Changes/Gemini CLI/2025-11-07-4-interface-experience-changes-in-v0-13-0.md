@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: c11564b09493037dfb1da01b6597faa34ace298d8e473aecfb782306742d4136
+machine_hash: 742ae2f9e2f865c2ef38be72791ee1698380976283ee9cd583aeba2658701073
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -49,10 +49,10 @@ record:
   title: 4 Interface Experience changes in v0.13.0
   type: change
 related_changes:
-- '[[Changes/Cline/2025-10-31-2-interface-experience-changes-in-v3-35-0|2 Interface
-  Experience changes in v3.35.0]]'
 - '[[Changes/Gemini CLI/2025-11-04-change-debug-drawer-keybinding-to-f12-by-scidomino-in-https-github-com-google-ge|Change
   debug drawer keybinding to F12]]'
+- '[[Changes/Open WebUI/2025-11-06-10-interface-experience-changes-in-v0-6-35|10 Interface
+  Experience changes in v0.6.35]]'
 - '[[Changes/Codex CLI/2025-11-07-6249-stop-capturing-r-when-environment-selection-modal-is-open|♯6249
   stop capturing r when environment selection modal is open]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2025-11-07-v0-13-0-github-260462305-15cfa0b7|gemini-cli-2025-11-07-v0-13-0-github-260462305-15cfa0b7]]'

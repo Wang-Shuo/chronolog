@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 627d07e65f36dac64f5077e7ffb6a1405a0b98c39a103112444ad7c272e5e9ae
+machine_hash: 12c44836ad522272afb37c8b40bca456db8ea05f2fbceda8c63f32c92e18ca72
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -96,7 +96,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.60
 ## Nearby in Agent Mode
 
 - Earlier: 2026-06-05 · Cursor · [[Changes/Cursor/2026-06-05-ask-the-agent-to-make-one-match-the-other-remove-repeated-content-or-adjust-a-gr|Multi-select elements]]
-- Later: 2026-06-06 · Claude Code · [[Changes/Claude Code/2026-06-06-claude-agents-typing-a-url-into-the-list-now-filters-to-the-session-whose-first|claude agents: typing a URL into the list now filters to the session whose first…]]
+- Later: 2026-06-05 · Replit · [[Changes/Replit/2026-06-05-agent|Agent]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

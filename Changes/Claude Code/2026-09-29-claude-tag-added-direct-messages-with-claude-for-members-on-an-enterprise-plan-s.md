@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: pricing
-machine_hash: 676b796a4fc06f65b3092946449efa993f6c1e7f8e12da1420ff50540bbb935b
+machine_hash: af32c3dc131f4bc3bd9d538cdf6050251ce3ed3c9bc782d83c21e95c4ed0def9
 product: claude-code
 product_name: Claude Code
 record:
@@ -46,8 +46,7 @@ record:
     plan…'
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-28-2-pricing-model-changes-in-v2-1-284|2 Pricing
-  Model changes in v2.1.284]]'
+- '[[Changes/ElevenLabs/2026-09-28-javascript-sdk|JavaScript SDK]]'
 - '[[Changes/ChatGPT/2026-09-29-pro-200-is-available-for-new-subscriptions-again-at-200-month-5ed430|Pro
   200 subscriptions]]'
 - '[[Changes/ChatGPT/2026-09-29-we-re-introducing-pro-500-a-new-500-month-plan-with-the-highest-included-usage-o-e04989|A
@@ -93,7 +92,7 @@ type: change
 ## Nearby in Pricing Model
 
 - Earlier: 2026-09-29 · ChatGPT · [[Changes/ChatGPT/2026-09-29-we-re-introducing-pro-500-a-new-500-month-plan-with-the-highest-included-usage-o-e04989|A new Pro plan with Astra Ultrafast]]
-- Later: 2026-10-01 · Codex CLI · [[Changes/Codex CLI/2026-10-01-49079-update-and-centralize-tui-subscription-labels-etraut-openai|♯49079 Update and centralize TUI subscription labels @etraut-openai]]
+- Later: 2026-09-29 · v0 · [[Changes/v0/2026-09-29-chatgpt-plus-and-pro-subscribers-can-now-use-their-chatgpt-subscription-to-build|ChatGPT Plus and Pro subscribers can now use their ChatGPT subscription to build in v0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: a803036180925ebca9dbdb51591a0e5f611bf56ffdb9a6ab069a8e0a4b9cd914
+machine_hash: 9f5b77c87b2d938fae7e73cbcfd36d0603c5e3ff45e583bf0fd639bf8b91c078
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -43,8 +43,8 @@ record:
   title: 2 Mobile and Desktop changes in rust-v0.167.0
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-30-2-mobile-and-desktop-changes-in-v2-1-314|2 Mobile
-  and Desktop changes in v2.1.314]]'
+- "[[Changes/Open WebUI/2026-11-03-image-drops-from-photo-apps-images-dropped-into-chats-and-channels-are-now-recog|\U0001F5BC️
+  Image drops from photo apps. Images dropped into chats and channels are now…]]"
 - '[[Changes/OpenHands/2026-11-03-2-mobile-and-desktop-changes-in-v1-35-0|2 Mobile
   and Desktop changes in v1.35.0]]'
 - '[[Changes/OpenHands/2026-11-05-2-mobile-and-desktop-changes-in-v1-36-0|2 Mobile

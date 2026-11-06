@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 4eacee6ee69e579d1ed4dd57ba53981942b89b62cefcbd32534f84a48c1246a0
+machine_hash: 27cb981fba61c46ac9fa11c18d60b4f09d552141d63e0b7247e68de6ff43a7db
 product: cline
 product_name: Cline
 record:
@@ -56,12 +56,11 @@ record:
   title: Add support for Gemini 2.5 Flash Preview 05-20 model to Vertex AI provider…
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-04-15-project-structure-in-context-beta|Project structure
-  in context (Beta)]]'
-- '[[Changes/Aider/2025-05-09-2-context-window-changes-in-v0-83-0|2 Context Window
-  changes in v0.83.0]]'
-- '[[Changes/Cursor/2025-05-15-include-your-entire-codebase-in-context|Include your
-  entire codebase in context]]'
+- '[[Changes/Replit/2025-05-16-replit-time-travel|Replit time travel]]'
+- '[[Changes/Gemini/2025-05-20-introducing-google-ai-ultra-our-plan-to-access-the-best-of-gemini-app-and-google|Introducing
+  Google AI Ultra, our plan to access the best of Gemini app and Google AI]]'
+- '[[Changes/Gemini/2025-05-20-gemini-in-chrome-your-personal-ai-assistant-for-the-web|Gemini
+  in Chrome, your personal AI assistant for the web]]'
 source_release: '[[Releases/Cline/cline-2025-05-21-v3-16-2-github-219934047-f8709d18|cline-2025-05-21-v3-16-2-github-219934047-f8709d18]]'
 source_type: github_releases
 theme: context-window
@@ -91,7 +90,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Context Window
 
-- Earlier: 2025-05-15 · Cursor · [[Changes/Cursor/2025-05-15-include-your-entire-codebase-in-context|Include your entire codebase in context]]
+- Earlier: 2025-05-20 · Gemini · [[Changes/Gemini/2025-05-20-gemini-in-chrome-your-personal-ai-assistant-for-the-web|Gemini in Chrome, your personal AI assistant for the web]]
 - Later: 2025-05-21 · Cline · [[Changes/Cline/2025-05-21-add-support-for-gemini-2-5-flash-preview-05-20-model-to-vertex-ai-provider-with-d2d830|Add support for Gemini 2.5 Flash Preview 05-20 model to Vertex AI provider…]]
 <!-- chronolog:end -->
 

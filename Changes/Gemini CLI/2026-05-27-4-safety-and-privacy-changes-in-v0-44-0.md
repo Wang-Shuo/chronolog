@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 0d284597fcdaa66224c43c9f3864d05d7d7f70a7bd9d8fa9ec7e25c2a6133971
+machine_hash: 0b5e3af8b775adc4be187f088aaa9ecf228b18b5b1a5794834d046cb515e48ec
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -98,7 +98,7 @@ Source: https://github.com/google-gemini/gemini-cli/releases/tag/v0.44.0
 ## Nearby in Safety and Privacy
 
 - Earlier: 2026-05-27 · Claude Code · [[Changes/Claude Code/2026-05-27-2-safety-and-privacy-changes-in-v2-1-152|2 Safety and Privacy changes in v2.1.152]]
-- Later: 2026-05-28 · Claude Code · [[Changes/Claude Code/2026-05-28-2-safety-and-privacy-changes-in-v2-1-153|2 Safety and Privacy changes in v2.1.153]]
+- Later: 2026-05-27 · Lovable · [[Changes/Lovable/2026-05-27-sensitive-data-scanning|Sensitive data scanning]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

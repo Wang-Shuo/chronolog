@@ -4,20 +4,20 @@ date: '2026-07-29'
 description: 'Codex CLI · 2026-07-29 · Image Generation: #34850 Disable image generation
   for Free-plan accounts @copyberry'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2024-08-08-we-re-rolling-out-the-ability-for-chatgpt-free-users-to-create-up-to-two-images-2c505c|DALL·E
-    3 for ChatGPT Free users]]'
+  first_in_tracked: "[[Changes/Open WebUI/2024-03-10-dall-e-integration-introduced-dall-e-integration-for-image-generation-alongside|\U0001F3A8
+    DALL-E Integration]]"
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 720
+  lag_days: 871
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: image-generation
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 368d67f7fcc6d4ebc9db76b05f3c1e6f3eacdad0494b27f86e35fa931dd66e40
+machine_hash: 95de76403bf2683d120e8bb744b22da5067f91c09e4dc1ad40a560ae4f609bc3
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -41,12 +41,12 @@ record:
   title: '#34850 Disable image generation for Free-plan accounts @copyberry'
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-07-08-3-image-generation-changes-in-rust-v0-143-0|3 Image
-  Generation changes in rust-v0.143.0]]'
 - '[[Changes/Codex CLI/2026-07-09-31596-use-the-image-generation-extension-by-default-won-openai|♯31596
   Use the image generation extension by default @won-openai]]'
 - '[[Changes/Codex CLI/2026-07-21-3-image-generation-changes-in-rust-v0-145-0|3 Image
   Generation changes in rust-v0.145.0]]'
+- "[[Changes/Open WebUI/2026-07-27-shared-image-checkpoint-changes-only-administrators-can-now-change-the-instance|\U0001F58C️
+  Shared image checkpoint changes. Only administrators can now change…]]"
 source_release: '[[Releases/Codex CLI/codex-cli-2026-07-29-rust-v0-146-0-github-361463950-6d491983|codex-cli-2026-07-29-rust-v0-146-0-github-361463950-6d491983]]'
 source_type: github_releases
 theme: image-generation
@@ -90,14 +90,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Image Generation
 
-- Earlier: 2026-07-21 · Codex CLI · [[Changes/Codex CLI/2026-07-21-3-image-generation-changes-in-rust-v0-145-0|3 Image Generation changes in rust-v0.145.0]]
+- Earlier: 2026-07-27 · Open WebUI · [[Changes/Open WebUI/2026-07-27-shared-image-checkpoint-changes-only-administrators-can-now-change-the-instance|🖌️ Shared image checkpoint changes. Only administrators can now change…]]
 - Later: 2026-07-31 · ChatGPT · [[Changes/ChatGPT/2026-07-31-on-august-30-2026-we-re-retiring-the-official-dall-e-gpt-in-chatgpt-we-encourage|Retiring the DALL·E GPT]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2024-08-08 · ChatGPT · [[Changes/ChatGPT/2024-08-08-we-re-rolling-out-the-ability-for-chatgpt-free-users-to-create-up-to-two-images-2c505c|DALL·E 3 for ChatGPT Free users]]
+- Earliest same-theme entry in the tracked set: 2024-03-10 · Open WebUI · [[Changes/Open WebUI/2024-03-10-dall-e-integration-introduced-dall-e-integration-for-image-generation-alongside|🎨 DALL-E Integration]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 8a8ab7e7da64a2b6493ac3aed4cbae81124067c09b8847053fccd4073a4c2589
+machine_hash: bd476d8c480dfb8310f544a340f05385fd460b3b23fcbcd5bb350d75090d6de7
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -45,10 +45,10 @@ record:
   title: 2 Reliability and Performance changes in v0.40.0
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-04-23-improve-rendering-performance-when-displaying-large-amounts-of-text-in-the-timel|Improve
-  rendering performance when displaying large amounts of text in the timeline]]'
 - '[[Changes/Cline/2026-04-24-add-periodic-memory-usage-logging|add periodic memory
   usage logging]]'
+- '[[Changes/Open WebUI/2026-04-24-3-reliability-and-performance-changes-in-v0-9-2|3
+  Reliability and Performance changes in v0.9.2]]'
 - '[[Changes/Claude Code/2026-04-28-faster-startup-after-upgrading-removed-the-recent-activity-panel-from-the-releas|Faster
   startup after upgrading]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2026-04-28-v0-40-0-github-314816403-89c506a5|gemini-cli-2026-04-28-v0-40-0-github-314816403-89c506a5]]'
@@ -91,7 +91,7 @@ Source: https://github.com/google-gemini/gemini-cli/releases/tag/v0.40.0
 ## Nearby in Reliability and Performance
 
 - Earlier: 2026-04-28 · Claude Code · [[Changes/Claude Code/2026-04-28-faster-startup-after-upgrading-removed-the-recent-activity-panel-from-the-releas|Faster startup after upgrading]]
-- Later: 2026-05-01 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-05-01-improve-cli-startup-speed-by-loading-custom-ca-certificates-asynchronously|Improve CLI startup speed by loading custom CA certificates asynchronously]]
+- Later: 2026-04-29 · Dify · [[Changes/Dify/2026-04-29-3-reliability-and-performance-changes-in-1-14-0|3 Reliability and Performance changes in 1.14.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 260e21ec1627279c4766ea15e9464f854d35eb3da095789c11bcd2465ac89ce8
+machine_hash: 787b34fd1895607c11c5786e03f5d9c038adf884f89385822fa259e4be57b89f
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -78,7 +78,7 @@ record:
   title: 18 Interface Experience changes in rust-v0.145.0
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-07-17-interaction-improvements-dee44a|Interaction improvements]]'
+- '[[Changes/Replit/2026-07-17-a-faster-task-sidebar|A faster task sidebar]]'
 - '[[Changes/Windsurf/2026-07-17-devin-local|Devin Local]]'
 - '[[Changes/GitHub Copilot CLI/2026-07-20-the-sessions-sidebar-is-now-navigable-with-the-keyboard-and-mouse-arrows-open-an|The
   Sessions sidebar is now navigable with the keyboard and mouse…]]'
@@ -164,7 +164,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.145.0
 ## Nearby in Interface Experience
 
 - Earlier: 2026-07-20 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-07-20-the-sessions-sidebar-is-now-navigable-with-the-keyboard-and-mouse-arrows-open-an|The Sessions sidebar is now navigable with the keyboard and mouse…]]
-- Later: 2026-07-23 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-07-23-add-model-plan-or-model-plan-to-pick-a-model-used-while-in-plan-mode-pass-a-mode|Add /model plan (or /model --plan) to pick a model used while in plan mode]]
+- Later: 2026-07-21 · Lovable · [[Changes/Lovable/2026-07-21-invite-people-outside-your-workspace-to-an-internally-published-app|Invite people outside your workspace to an internally published app]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

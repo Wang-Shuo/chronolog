@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: afc816507682215cecfb978a8ec65bed25c660c263764fa13763e0b1c37ee557
+machine_hash: 3606f4344ca9327a49549099e7716fac31f238bb9c1bc50f7bf116514ba95ed3
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -45,12 +45,10 @@ record:
   title: Extensions are now available as an experimental feature
   type: change
 related_changes:
-- '[[Changes/Cline/2026-03-06-handle-streamable-http-mcp-reconnects-more-reliably-after-disconnects|Handle
-  streamable HTTP MCP reconnects more reliably after disconnects]]'
-- '[[Changes/Claude Code/2026-03-07-3-apps-and-integrations-changes-in-v2-1-71|3 Apps
-  and Integrations changes in v2.1.71]]'
 - '[[Changes/Codex CLI/2026-03-08-2-apps-and-integrations-changes-in-rust-v0-112-0|2
   Apps and Integrations changes in rust-v0.112.0]]'
+- '[[Changes/ElevenLabs/2026-03-09-sdk-releases|SDK Releases]]'
+- '[[Changes/ElevenLabs/2026-03-09-music|Music]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-03-09-v1-0-3-github-294937927-8c143137|github-copilot-cli-2026-03-09-v1-0-3-github-294937927-8c143137]]'
 source_type: github_releases
 theme: apps-integrations
@@ -86,7 +84,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-03-08 · Codex CLI · [[Changes/Codex CLI/2026-03-08-2-apps-and-integrations-changes-in-rust-v0-112-0|2 Apps and Integrations changes in rust-v0.112.0]]
+- Earlier: 2026-03-09 · ElevenLabs · [[Changes/ElevenLabs/2026-03-09-music|Music]]
 - Later: 2026-03-09 · Windsurf · [[Changes/Windsurf/2026-03-09-mcp|MCP]]
 <!-- chronolog:end -->
 

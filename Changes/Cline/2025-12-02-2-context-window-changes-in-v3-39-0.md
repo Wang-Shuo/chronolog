@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 7f2d028ddd6b0c4a6cdefea346bd58671c806d6c05a60a1aee526a006cf54d24
+machine_hash: 2c235a6fdfa0b88ccbecff3cf94ea83fc3c4137b04442fda5560a3e7290e84df
 product: cline
 product_name: Cline
 record:
@@ -43,9 +43,9 @@ record:
   title: 2 Context Window changes in v3.39.0
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-11-21-rules-in-home-folder-cursor-rules-will-be-included-in-context|Rules
-  in home folder (~/.cursor/rules) will be included in context]]'
-- '[[Changes/Windsurf/2025-11-21-fast-context|Fast Context]]'
+- "[[Changes/Open WebUI/2025-11-24-rag-template-query-placeholder-escaping-logic-was-corrected-to-prevent-unintende|\U0001F4DD
+  RAG template query placeholder escaping logic was corrected to prevent unintended…]]"
+- '[[Changes/Lovable/2025-11-26-chat-suggestions|Chat suggestions]]'
 - '[[Changes/Cline/2025-11-27-feat-context-add-context-window-error-detection-for-vercel-ai-gateway-by-shaper|feat(context):
   add context window error detection for vercel ai gateway]]'
 source_release: '[[Releases/Cline/cline-2025-12-02-v3-39-0-github-266733488-92b66311|cline-2025-12-02-v3-39-0-github-266733488-92b66311]]'

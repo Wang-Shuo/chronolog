@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 1c33b04aa214caefa232d4a021413f66fe6214e1d322ae79fe3c82f10a7171c4
+machine_hash: e47fd9d7d660d1f35640e93a892640864e9d4235ddb863d270901ddbc4dc981a
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -52,12 +52,12 @@ record:
   title: 5 Model Support changes in v0.3.0
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2025-09-02-2-model-support-changes-in-rust-v0-28-0|2 Model
-  Support changes in rust-v0.28.0]]'
 - '[[Changes/OpenHands/2025-09-02-added-llm-risk-analyzer-by-xingyaoww-in-https-github-com-all-hands-ai-openhands|Added
   LLM risk analyzer]]'
 - '[[Changes/Codex CLI/2025-09-03-3071-use-experimental-reasoning-summary|♯3071 Use
   experimental reasoning summary]]'
+- '[[Changes/Dify/2025-09-03-5-model-support-changes-in-1-8-1|5 Model Support changes
+  in 1.8.1]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2025-09-04-v0-3-0-github-244870431-556b0abc|gemini-cli-2025-09-04-v0-3-0-github-244870431-556b0abc]]'
 source_type: github_releases
 theme: model-support
@@ -109,7 +109,7 @@ Source: https://github.com/google-gemini/gemini-cli/releases/tag/v0.3.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2025-09-03 · Codex CLI · [[Changes/Codex CLI/2025-09-03-3071-use-experimental-reasoning-summary|♯3071 Use experimental reasoning summary]]
+- Earlier: 2025-09-03 · Dify · [[Changes/Dify/2025-09-03-5-model-support-changes-in-1-8-1|5 Model Support changes in 1.8.1]]
 - Later: 2025-09-05 · Cline · [[Changes/Cline/2025-09-05-add-new-kimi-k2-model-to-groq-and-moonshot-providers|Add new Kimi K2 model to Groq and Moonshot providers]]
 <!-- chronolog:end -->
 

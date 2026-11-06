@@ -4,20 +4,20 @@ date: '2025-10-08'
 description: 'ChatGPT · 2025-10-08 · Image Generation: More messages, larger file
   uploads, and expanded image generation'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2024-08-08-we-re-rolling-out-the-ability-for-chatgpt-free-users-to-create-up-to-two-images-2c505c|DALL·E
-    3 for ChatGPT Free users]]'
+  first_in_tracked: "[[Changes/Open WebUI/2024-03-10-dall-e-integration-introduced-dall-e-integration-for-image-generation-alongside|\U0001F3A8
+    DALL-E Integration]]"
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 426
+  lag_days: 577
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: image-generation
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: f101b75d0508fe6baa5d47c4e8a7a72326e0538cd27c378963fa6be8e58aea7b
+machine_hash: 4eb3723b956866bb59a098e04ce998dffef8c34e181d089294d2cabece1dd6c9
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -43,10 +43,10 @@ record:
   title: More messages, larger file uploads, and expanded image generation
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2025-08-18-more-messages-larger-file-uploads-and-expanded-image-generation|More
-  messages, larger file uploads, and expanded image generation]]'
 - '[[Changes/ChatGPT/2025-09-22-more-messages-larger-file-uploads-and-expanded-image-generation|More
   messages, larger file uploads, and expanded image generation]]'
+- "[[Changes/Open WebUI/2025-09-25-image-generation-model-selection-was-centralized-to-enable-dynamic-model-overrid|\U0001F3A8
+  Image generation model selection was centralized to enable dynamic model override…]]"
 - '[[Changes/ChatGPT/2025-09-29-remove-image-generation-so-chatgpt-won-t-have-the-ability-to-create-or-edit-imag|Remove
   image generation, so ChatGPT won’t have the ability to create or edit images]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-10-08-chatgpt-go-expansion-37d00d9f|chatgpt-2025-10-08-chatgpt-go-expansion-37d00d9f]]'
@@ -85,7 +85,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2024-08-08 · ChatGPT · [[Changes/ChatGPT/2024-08-08-we-re-rolling-out-the-ability-for-chatgpt-free-users-to-create-up-to-two-images-2c505c|DALL·E 3 for ChatGPT Free users]]
+- Earliest same-theme entry in the tracked set: 2024-03-10 · Open WebUI · [[Changes/Open WebUI/2024-03-10-dall-e-integration-introduced-dall-e-integration-for-image-generation-alongside|🎨 DALL-E Integration]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

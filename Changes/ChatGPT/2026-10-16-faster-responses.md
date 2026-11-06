@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: d02257fe39739660f9c5b5c470565cccc25e8ab2fecd5434b22399963b918df1
+machine_hash: 59ec38cbfb134e5aca20ea536a501f2d55c09c14a58124e68ab8b1dd2d8f46d5
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -39,12 +39,12 @@ record:
   title: Faster responses
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-09-improved-transcript-toggle-ctrl-o-responsiveness-in-code-heavy-conversations-by|Improved
-  transcript toggle (ctrl+o) responsiveness in code-heavy conversations…]]'
-- '[[Changes/GitHub Copilot CLI/2026-10-13-emergency-memory-relief-in-long-sessions-can-now-bypass-its-cooldown-before-v8-a|Emergency
-  memory relief in long sessions can now bypass its cooldown before V8…]]'
 - '[[Changes/Claude Code/2026-10-14-improved-memory-and-disk-use-when-pdfs-are-mentioned-their-bytes-are-no-longer-k|Improved
   memory and disk use when PDFs are @-mentioned]]'
+- "[[Changes/Open WebUI/2026-10-14-general-improvements-various-improvements-were-implemented-across-the-applicatio|\U0001F504
+  General improvements. Various improvements were implemented across…]]"
+- '[[Changes/Open WebUI/2026-10-14-2-reliability-and-performance-changes-in-v0-12-1|2
+  Reliability and Performance changes in v0.12.1]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-10-16-updates-to-gpt-6-pro-model-in-chatgpt-6a44f64a|chatgpt-2026-10-16-updates-to-gpt-6-pro-model-in-chatgpt-6a44f64a]]'
 source_type: chatgpt_changelog
 theme: reliability-performance
@@ -75,7 +75,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2026-10-14 · Claude Code · [[Changes/Claude Code/2026-10-14-improved-memory-and-disk-use-when-pdfs-are-mentioned-their-bytes-are-no-longer-k|Improved memory and disk use when PDFs are @-mentioned]]
+- Earlier: 2026-10-14 · Open WebUI · [[Changes/Open WebUI/2026-10-14-2-reliability-and-performance-changes-in-v0-12-1|2 Reliability and Performance changes in v0.12.1]]
 - Later: 2026-10-16 · Cursor · [[Changes/Cursor/2026-10-16-larger-faster-environments|Larger, faster environments]]
 <!-- chronolog:end -->
 

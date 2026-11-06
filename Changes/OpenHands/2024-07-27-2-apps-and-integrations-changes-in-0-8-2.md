@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 5ae25bba71b8f35df58297bcf6de1da76a4f063e41ebb86c9e1487a06476dd89
+machine_hash: 1f96d18e34451364f80f59c0f077539a493c0c62141024a71a3a292ed48148d6
 product: openhands
 product_name: OpenHands
 record:
@@ -44,12 +44,12 @@ record:
   title: 2 Apps and Integrations changes in 0.8.2
   type: change
 related_changes:
-- '[[Changes/OpenHands/2024-07-05-chore-deps-dev-bump-typescript-eslint-eslint-plugin-from-7-14-1-to-7-15-0-in-fro|chore(deps-dev):
-  bump @typescript-eslint/eslint-plugin from 7.14.1 to 7.15.0 in /frontend]]'
-- '[[Changes/OpenHands/2024-07-13-2-apps-and-integrations-changes-in-0-8-0|2 Apps
-  and Integrations changes in 0.8.0]]'
+- '[[Changes/Dify/2024-07-15-2-apps-and-integrations-changes-in-0-6-14|2 Apps and
+  Integrations changes in 0.6.14]]'
 - '[[Changes/OpenHands/2024-07-19-5-apps-and-integrations-changes-in-0-8-1|5 Apps
   and Integrations changes in 0.8.1]]'
+- '[[Changes/Dify/2024-07-23-3-apps-and-integrations-changes-in-0-6-15|3 Apps and
+  Integrations changes in 0.6.15]]'
 source_release: '[[Releases/OpenHands/openhands-2024-07-27-0-8-2-github-167485944-4c47e7ce|openhands-2024-07-27-0-8-2-github-167485944-4c47e7ce]]'
 source_type: github_releases
 theme: apps-integrations
@@ -87,8 +87,8 @@ Source: https://github.com/OpenHands/OpenHands/releases/tag/0.8.2
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2024-07-19 · OpenHands · [[Changes/OpenHands/2024-07-19-5-apps-and-integrations-changes-in-0-8-1|5 Apps and Integrations changes in 0.8.1]]
-- Later: 2024-09-09 · Cline · [[Changes/Cline/2024-09-09-commands-now-run-directly-in-your-terminal-thanks-to-vscode-1-93-s-new-shell-int|Commands now run directly in your terminal thanks to VSCode 1.93's new shell…]]
+- Earlier: 2024-07-23 · Dify · [[Changes/Dify/2024-07-23-3-apps-and-integrations-changes-in-0-6-15|3 Apps and Integrations changes in 0.6.15]]
+- Later: 2024-08-07 · Open WebUI · [[Changes/Open WebUI/2024-08-07-non-streaming-support-for-functions-plugin-fixed-a-functionality-issue-with-the|🔧 Non-Streaming Support for Functions Plugin]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

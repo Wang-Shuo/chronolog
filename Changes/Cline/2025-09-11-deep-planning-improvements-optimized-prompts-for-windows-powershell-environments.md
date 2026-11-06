@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 7c74d717be926c39a57f16cfe809cb6709ed5f85228c819ea1becb1707a0d527
+machine_hash: 1fe9d363dc5f8f0b77d6607fba79e770c3c32d8bbf6f8b844c1c97fee577b3a9
 product: cline
 product_name: Cline
 record:
@@ -44,8 +44,8 @@ record:
   title: Deep Planning Improvements
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2025-09-02-3-mobile-and-desktop-changes-in-rust-v0-28-0|3 Mobile
-  and Desktop changes in rust-v0.28.0]]'
+- '[[Changes/Claude/2025-09-03-location-maps-and-calendar-access-on-claude-for-ios-and-android|Location,
+  maps, and calendar access on Claude for iOS and Android]]'
 - '[[Changes/Codex CLI/2025-09-03-2-mobile-and-desktop-changes-in-rust-v0-29-0|2 Mobile
   and Desktop changes in rust-v0.29.0]]'
 - '[[Changes/Codex CLI/2025-09-08-3211-fixes-image-pasting-from-finder-with-ctrl-v-on-macos|♯3211

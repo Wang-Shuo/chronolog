@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 2de0ea2e4cade273ec1a44703903055be8df7583d99925cc65ea166f7b8dd29b
+machine_hash: 73bc6cd1954d6e5025fa8a455e901fd536d98ea46bf5a9b0d3e3f779ad6c80eb
 product: cline
 product_name: Cline
 record:
@@ -51,12 +51,12 @@ record:
   title: 2 Context Window changes in v4.1.20
   type: change
 related_changes:
-- '[[Changes/OpenHands/2026-09-16-test-cover-conversation-context-menu-by-aivong-openhands-in-https-github-com-ope|test:
-  cover conversation context menu]]'
-- '[[Changes/Cline/2026-09-17-long-tasks-now-compact-when-they-actually-need-to-rather-than-running-out-of-roo|Long
-  tasks now compact when they actually need to rather than running out of room]]'
 - '[[Changes/Codex CLI/2026-09-17-20-context-window-changes-in-rust-v0-155-0|20 Context
   Window changes in rust-v0.155.0]]'
+- '[[Changes/Lovable/2026-09-18-type-or-to-add-context-and-skills-where-you-type|Type
+  @ or / to add context and skills where you type]]'
+- '[[Changes/Open WebUI/2026-09-21-3-context-window-changes-in-v0-11-4|3 Context Window
+  changes in v0.11.4]]'
 source_release: '[[Releases/Cline/cline-2026-09-22-v4-1-20-github-394105689-95df91cb|cline-2026-09-22-v4-1-20-github-394105689-95df91cb]]'
 source_type: github_releases
 theme: context-window
@@ -94,7 +94,7 @@ Source: https://github.com/cline/cline/releases/tag/v4.1.20
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Context Window
 
-- Earlier: 2026-09-17 · Codex CLI · [[Changes/Codex CLI/2026-09-17-20-context-window-changes-in-rust-v0-155-0|20 Context Window changes in rust-v0.155.0]]
+- Earlier: 2026-09-21 · Open WebUI · [[Changes/Open WebUI/2026-09-21-3-context-window-changes-in-v0-11-4|3 Context Window changes in v0.11.4]]
 - Later: 2026-09-22 · Codex CLI · [[Changes/Codex CLI/2026-09-22-17-context-window-changes-in-rust-v0-156-0|17 Context Window changes in rust-v0.156.0]]
 <!-- chronolog:end -->
 

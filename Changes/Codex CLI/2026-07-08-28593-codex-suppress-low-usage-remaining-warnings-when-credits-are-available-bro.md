@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: pricing
-machine_hash: 723bfa4986c7e5d05f5592de310560c685f248fd1c09176ec9bcee69dd74195f
+machine_hash: 9d1009901039af9a967f8ac94debe2827fe639e020618ea7e08e00fef0543e33
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -44,12 +44,11 @@ record:
   title: '#28593 [codex] suppress low usage remaining warnings when credits are available…'
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-06-30-require-session-limits-to-be-at-least-30-ai-credits|Require
-  session limits to be at least 30 AI credits]]'
 - '[[Changes/OpenHands/2026-07-06-refactor-extract-billing-test-fixtures-for-pltf-1269-by-aivong-openhands-in-http|refactor:
   extract billing test fixtures for PLTF-1269]]'
 - '[[Changes/GitHub Copilot CLI/2026-07-07-improve-chronicle-cost-tips-with-more-precise-evidence-backed-recommendations|Improve
   /chronicle cost-tips with more precise evidence-backed recommendations]]'
+- '[[Changes/v0/2026-07-07-deprecations|Deprecations]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-07-08-rust-v0-143-0-github-350650561-9eba805c|codex-cli-2026-07-08-rust-v0-143-0-github-350650561-9eba805c]]'
 source_type: github_releases
 theme: pricing-model
@@ -93,7 +92,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Pricing Model
 
-- Earlier: 2026-07-07 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-07-07-improve-chronicle-cost-tips-with-more-precise-evidence-backed-recommendations|Improve /chronicle cost-tips with more precise evidence-backed recommendations]]
+- Earlier: 2026-07-07 · v0 · [[Changes/v0/2026-07-07-deprecations|Deprecations]]
 - Later: 2026-07-09 · Cline · [[Changes/Cline/2026-07-09-add-a-clinepass-limit-reached-error-with-a-one-click-option-to-switch-to-cline-u|Add a ClinePass limit-reached error with a one-click option to switch to Cline…]]
 <!-- chronolog:end -->
 

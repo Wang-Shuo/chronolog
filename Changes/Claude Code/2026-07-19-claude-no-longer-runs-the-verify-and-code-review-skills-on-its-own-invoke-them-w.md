@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 5f1824e066d119d53aeb3910baf04c2dd0d7e0dc52817fd7762f40f37ffc9e35
+machine_hash: 729a09e0653cdd4a8aab7799fab9737653cd09823f2445c99d812016965f1dbe
 product: claude-code
 product_name: Claude Code
 record:
@@ -42,12 +42,12 @@ record:
   title: Claude no longer runs the `/verify` and `/code-review` skills on its own
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-07-16-2-developer-workflow-changes-in-rust-v0-144-5|2
-  Developer Workflow changes in rust-v0.144.5]]'
 - '[[Changes/GitHub Copilot CLI/2026-07-16-8-developer-workflow-changes-in-v1-0-71|8
   Developer Workflow changes in v1.0.71]]'
 - '[[Changes/Claude Code/2026-07-17-changed-enterprise-forceloginmethod-to-be-enforced-for-vs-code-extension-sdk-set|Changed
   Enterprise forceLoginMethod to be enforced for VS Code extension, SDK…]]'
+- '[[Changes/Dify/2026-07-17-3-developer-workflow-changes-in-1-16-0|3 Developer Workflow
+  changes in 1.16.0]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-07-19-v2-1-215-github-356226333-6836aad6|claude-code-2026-07-19-v2-1-215-github-356226333-6836aad6]]'
 source_type: github_releases
 theme: developer-workflow
@@ -74,7 +74,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2026-07-17 · Claude Code · [[Changes/Claude Code/2026-07-17-changed-enterprise-forceloginmethod-to-be-enforced-for-vs-code-extension-sdk-set|Changed Enterprise forceLoginMethod to be enforced for VS Code extension, SDK…]]
+- Earlier: 2026-07-17 · Dify · [[Changes/Dify/2026-07-17-3-developer-workflow-changes-in-1-16-0|3 Developer Workflow changes in 1.16.0]]
 - Later: 2026-07-20 · Claude Code · [[Changes/Claude Code/2026-07-20-2-developer-workflow-changes-in-v2-1-216|2 Developer Workflow changes in v2.1.216]]
 <!-- chronolog:end -->
 

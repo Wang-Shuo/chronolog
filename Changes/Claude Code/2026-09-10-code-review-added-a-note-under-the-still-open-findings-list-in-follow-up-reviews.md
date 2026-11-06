@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 29185c642ad36fef7af70b9c7a8695629dfd64ce55f1924babb1c146b94c699e
+machine_hash: 1d514719aba57143ea1b8cff2df945e1f314a5a1e304fbeb206b2aa650a08071
 product: claude-code
 product_name: Claude Code
 record:
@@ -90,7 +90,7 @@ type: change
 ## Nearby in Developer Workflow
 
 - Earlier: 2026-09-09 · OpenHands · [[Changes/OpenHands/2026-09-09-2-developer-workflow-changes-in-v1-17-0|2 Developer Workflow changes in v1.17.0]]
-- Later: 2026-09-11 · Claude Code · [[Changes/Claude Code/2026-09-11-added-otel-metrics-include-repository-to-tag-opentelemetry-metrics-and-events-wi|Added OTEL_METRICS_INCLUDE_REPOSITORY to tag OpenTelemetry metrics and events…]]
+- Later: 2026-09-10 · Dify · [[Changes/Dify/2026-09-10-4-developer-workflow-changes-in-1-17-1|4 Developer Workflow changes in 1.17.1]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

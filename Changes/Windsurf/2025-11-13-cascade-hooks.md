@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: df0426ecdc6d71aa22f9458f547fe143d61690857513513890c42819e1d9df93
+machine_hash: 307aa70610b3e47f42ef4c11cd06d8284e28e49c577dbda64520694d37c339b5
 product: windsurf
 product_name: Windsurf
 record:
@@ -49,12 +49,12 @@ record:
   title: Cascade Hooks
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2025-11-09-6353-app-server-add-auth-v2-doc-update-codex-mcp-interface-section|♯6353
-  – App-server: add auth v2 doc & update Codex MCP interface section]]'
 - '[[Changes/Cline/2025-11-13-3-apps-and-integrations-changes-in-v3-37-0|3 Apps and
   Integrations changes in v3.37.0]]'
 - '[[Changes/Codex CLI/2025-11-13-6425-fix-sdk-documentation-replace-file-diffs-with-file-change-notifications-8b8|♯6425
   — Fix SDK documentation]]'
+- '[[Changes/Dify/2025-11-13-7-apps-and-integrations-changes-in-1-10-0|7 Apps and
+  Integrations changes in 1.10.0]]'
 source_release: '[[Releases/Windsurf/windsurf-2025-11-13-v1-12-31-173d695f|windsurf-2025-11-13-v1-12-31-173d695f]]'
 source_type: windsurf_changelog
 theme: apps-integrations
@@ -88,7 +88,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2025-11-13 · Codex CLI · [[Changes/Codex CLI/2025-11-13-6425-fix-sdk-documentation-replace-file-diffs-with-file-change-notifications-8b8|♯6425 — Fix SDK documentation]]
+- Earlier: 2025-11-13 · Dify · [[Changes/Dify/2025-11-13-7-apps-and-integrations-changes-in-1-10-0|7 Apps and Integrations changes in 1.10.0]]
 - Later: 2025-11-14 · Gemini CLI · [[Changes/Gemini CLI/2025-11-14-3-apps-and-integrations-changes-in-v0-15-0|3 Apps and Integrations changes in v0.15.0]]
 <!-- chronolog:end -->
 

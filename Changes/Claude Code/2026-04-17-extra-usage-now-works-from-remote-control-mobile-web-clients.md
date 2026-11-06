@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 5a98f2bda8ef536f43d22c2b5b7c0fbed9f572c0ce05d2221226f48f683b35c0
+machine_hash: f7b574da5abc3148e3d01eca6c23c4a062819693d9d06a922c7d3d10b3538b84
 product: claude-code
 product_name: Claude Code
 record:
@@ -41,12 +41,12 @@ record:
   title: '`/extra-usage` now works from Remote Control (mobile/web) clients'
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-04-15-17414-fix-thread-list-cwd-filtering-for-windows-verbatim-paths-etraut-openai|♯17414
-  Fix thread/list cwd filtering for Windows verbatim paths @etraut-openai]]'
 - '[[Changes/Claude Code/2026-04-16-windows-powershell-tool-is-progressively-rolling-out-opt-in-or-out-with-claude-c|Windows:
   PowerShell tool is progressively rolling out]]'
 - '[[Changes/GitHub Copilot CLI/2026-04-16-prompt-frame-no-longer-causes-rendering-issues-on-windows-and-ubuntu-terminals|Prompt
   frame no longer causes rendering issues on Windows and Ubuntu terminals]]'
+- '[[Changes/Ollama/2026-04-16-fixed-macos-cross-compiles-so-they-no-longer-trigger-generate-which-was-breaking|Fixed
+  macOS cross-compiles so they no longer trigger generate…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-04-17-v2-1-113-github-310525785-1b5293ba|claude-code-2026-04-17-v2-1-113-github-310525785-1b5293ba]]'
 source_type: github_releases
 theme: mobile-desktop
@@ -81,7 +81,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2026-04-16 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-04-16-prompt-frame-no-longer-causes-rendering-issues-on-windows-and-ubuntu-terminals|Prompt frame no longer causes rendering issues on Windows and Ubuntu terminals]]
+- Earlier: 2026-04-16 · Ollama · [[Changes/Ollama/2026-04-16-fixed-macos-cross-compiles-so-they-no-longer-trigger-generate-which-was-breaking|Fixed macOS cross-compiles so they no longer trigger generate…]]
 - Later: 2026-04-20 · Codex CLI · [[Changes/Codex CLI/2026-04-20-2-mobile-and-desktop-changes-in-rust-v0-122-0|2 Mobile and Desktop changes in rust-v0.122.0]]
 <!-- chronolog:end -->
 

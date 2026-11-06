@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: faf33745b8920ef2289229ba0400d1320812595334dbf72b5bf74e35d8dbb451
+machine_hash: 77d967859056c22c802b76d9c6b9eac9221162faf09a664051345fbcf09860ff
 product: aider
 product_name: Aider
 record:
@@ -39,10 +39,10 @@ record:
   title: Improved shell command prompting
   type: change
 related_changes:
-- '[[Changes/OpenHands/2024-08-01-2-agent-mode-changes-in-0-8-3|2 Agent Mode changes
-  in 0.8.3]]'
 - '[[Changes/Cursor/2024-08-02-concurrent-composers-support-composer-control-panel-and-various-bug-fixes-such-a|Concurrent
   composers support, composer control panel, and various bug fixes such…]]'
+- '[[Changes/Dify/2024-08-14-feat-agent-app-support-generate-prompt-by-iamjoel-in-https-github-com-langgenius|feat:
+  agent app support generate prompt]]'
 - '[[Changes/OpenHands/2024-08-23-4-agent-mode-changes-in-0-9-0|4 Agent Mode changes
   in 0.9.0]]'
 source_release: '[[Releases/Aider/aider-2024-08-27-v0-53-0-github-172157209-6d1857f0|aider-2024-08-27-v0-53-0-github-172157209-6d1857f0]]'

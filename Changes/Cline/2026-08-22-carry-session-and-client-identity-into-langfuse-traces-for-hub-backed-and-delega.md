@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: 23218f5b97de874dec79ab8ceca6835b03dbff17ce7526571577fc9a66e99fdc
+machine_hash: 45676e5952bc42b3c35631f187e95d1c91147e8367540e614930e2d74a4d8779
 product: cline
 product_name: Cline
 record:
@@ -46,12 +46,10 @@ record:
   title: Carry session and client identity into Langfuse traces for Hub-backed…
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-08-20-12-agent-mode-changes-in-rust-v0-149-0|12 Agent
-  Mode changes in rust-v0.149.0]]'
-- '[[Changes/Claude Code/2026-08-21-2-agent-mode-changes-in-v2-1-239|2 Agent Mode
-  changes in v2.1.239]]'
 - '[[Changes/OpenHands/2026-08-21-feat-add-llm-provider-connections-ui-local-agent-server-by-juanmichelini-in-http|feat:
   add LLM provider-connections UI (local agent-server)]]'
+- '[[Changes/Replit/2026-08-21-agent|Agent]]'
+- '[[Changes/Replit/2026-08-21-steer-agent-while-working|Steer Agent while working]]'
 source_release: '[[Releases/Cline/cline-2026-08-22-v4-1-13-github-375030518-eeba0b7b|cline-2026-08-22-v4-1-13-github-375030518-eeba0b7b]]'
 source_type: github_releases
 theme: agent-mode
@@ -82,8 +80,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2026-08-21 · OpenHands · [[Changes/OpenHands/2026-08-21-feat-add-llm-provider-connections-ui-local-agent-server-by-juanmichelini-in-http|feat: add LLM provider-connections UI (local agent-server)]]
-- Later: 2026-08-25 · Claude Code · [[Changes/Claude Code/2026-08-25-improved-subagent-results-a-subagent-that-stops-at-its-maxturns-limit-now-return|Improved subagent results]]
+- Earlier: 2026-08-21 · Replit · [[Changes/Replit/2026-08-21-steer-agent-while-working|Steer Agent while working]]
+- Later: 2026-08-24 · ElevenLabs · [[Changes/ElevenLabs/2026-08-24-elevenagents|ElevenAgents]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

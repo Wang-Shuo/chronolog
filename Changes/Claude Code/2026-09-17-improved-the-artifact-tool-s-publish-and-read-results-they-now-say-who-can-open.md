@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: e1778b986a9171704a4903e580f43b24e60ffc2ab31cc2b7eba91748c05f7df4
+machine_hash: 285444895a86f0fb2042928057500efc75d122ca286b5f05924c0a4f9ec63771
 product: claude-code
 product_name: Claude Code
 record:
@@ -44,8 +44,8 @@ record:
   title: Improved the Artifact tool's publish and read results
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-09-16-3-interface-experience-changes-in-v1-0-85|3
-  Interface Experience changes in v1.0.85]]'
+- '[[Changes/Lovable/2026-09-16-updated-chat-actions-menu-in-projects|Updated Chat
+  actions menu in projects]]'
 - '[[Changes/OpenHands/2026-09-16-2-interface-experience-changes-in-v1-19-0|2 Interface
   Experience changes in v1.19.0]]'
 - '[[Changes/ChatGPT/2026-09-17-chatgpt-is-now-available-in-microsoft-word-you-can-draft-from-notes-summarize-a-4c7506|ChatGPT

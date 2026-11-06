@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: f633929134ea8f4ae5b2dafa49b5e9441c33751f74ba712bc1f1bb298ccf7994
+machine_hash: 479d4c80531faf7719bbc6b2777b6e5bf597f19edf31d274d0bddcdf26b975fb
 product: cursor
 product_name: Cursor
 record:
@@ -43,8 +43,8 @@ record:
     specific…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-06-02-claude-agents-rows-now-show-done-total-before-the-detail-when-work-is-fanned-out|claude
-  agents rows now show done/total before the detail when work is fanned out]]'
+- '[[Changes/Ollama/2026-06-03-nemotron-3-ultra-https-ollama-com-library-nemotron-3-ultra-nvidia-nemotron-3-ult|Nemotron-3-Ultra((source
+  link) NVIDIA Nemotron 3…]]'
 - '[[Changes/Claude Code/2026-06-04-2-agent-mode-changes-in-v2-1-163|2 Agent Mode
   changes in v2.1.163]]'
 - '[[Changes/Codex CLI/2026-06-04-12-agent-mode-changes-in-rust-v0-137-0|12 Agent

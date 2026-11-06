@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: b6ec51c8be77de698831ed7f9e7dd7f22c17d58912003d318a5e8c64da96e066
+machine_hash: 423210faa131372f6505c0dcd87a9e3d4e45f7a8c22776f8862986c755a2d3b5
 product: openhands
 product_name: OpenHands
 record:
@@ -41,12 +41,12 @@ record:
   title: Updated initial Sign in with Github modal
   type: change
 related_changes:
-- '[[Changes/Cursor/2023-07-25-you-can-now-chat-with-any-codebase-no-need-to-have-a-github-repo-login-through-g|"with
-  codebase" for all codebases!]]'
-- '[[Changes/Cursor/2023-09-01-you-should-now-be-able-to-sign-in-with-github-again|You
-  should now be able to sign in with GitHub again]]'
-- '[[Changes/ChatGPT/2024-04-01-we-re-making-it-easier-for-people-to-experience-the-benefits-of-ai-without-needi|Start
-  using ChatGPT instantly]]'
+- "[[Changes/Open WebUI/2024-11-23-ldap-profile-image-issue-fixed-an-ldap-integration-bug-related-to-profile-images|\U0001F4F7
+  LDAP Profile Image Issue]]"
+- '[[Changes/Dify/2024-11-25-2-account-and-access-changes-in-0-12-0|2 Account and
+  Access changes in 0.12.0]]'
+- "[[Changes/Open WebUI/2024-11-26-ollama-authentication-corrected-an-issue-with-ollama-s-authorization-headers-gua|\U0001F511
+  Ollama Authentication]]"
 source_release: '[[Releases/OpenHands/openhands-2024-12-06-0-15-1-github-189468969-ea2e2af5|openhands-2024-12-06-0-15-1-github-189468969-ea2e2af5]]'
 source_type: github_releases
 theme: account-access
@@ -76,8 +76,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Account and Access
 
-- Earlier: 2024-04-01 · ChatGPT · [[Changes/ChatGPT/2024-04-01-we-re-making-it-easier-for-people-to-experience-the-benefits-of-ai-without-needi|Start using ChatGPT instantly]]
-- Later: 2024-12-18 · OpenHands · [[Changes/OpenHands/2024-12-18-changes-to-github-authentication-by-malhotra5-in-https-github-com-all-hands-ai-o|Changes to Github Authentication]]
+- Earlier: 2024-11-26 · Open WebUI · [[Changes/Open WebUI/2024-11-26-ollama-authentication-corrected-an-issue-with-ollama-s-authorization-headers-gua|🔑 Ollama Authentication]]
+- Later: 2024-12-18 · Dify · [[Changes/Dify/2024-12-18-make-login-lockout-duration-configurable-by-kazuhisa-wada-in-https-github-com-la|make login lockout duration configurable]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

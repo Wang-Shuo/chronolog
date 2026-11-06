@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 7b5f998c3525dfa40f35b4b078d62cb56846a747f906b6302d7b66b441514176
+machine_hash: 210c6e445533511b8e2620860395c012b0cd4836a2b8f1edba707ae008320b30
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -49,12 +49,10 @@ record:
   title: 4 Apps and Integrations changes in rust-v0.120.0
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-04-10-19-apps-and-integrations-changes-in-rust-v0-119-0|19
-  Apps and Integrations changes in rust-v0.119.0]]'
-- '[[Changes/GitHub Copilot CLI/2026-04-10-pretooluse-hooks-now-respect-modifiedargs-updatedinput-and-additionalcontext-fie|preToolUse
-  hooks now respect modifiedArgs/updatedInput, and additionalContext fields]]'
-- '[[Changes/GitHub Copilot CLI/2026-04-10-migration-notice-for-vscode-mcp-json-now-includes-a-jq-command-to-migrate-your-c|Migration
-  notice for .vscode/mcp.json now includes a jq command to migrate…]]'
+- '[[Changes/Replit/2026-04-10-connectors-available-on-all-paid-plans|Connectors available
+  on all paid plans]]'
+- '[[Changes/Replit/2026-04-10-databricks-apps-integration|Databricks Apps integration]]'
+- '[[Changes/Replit/2026-04-10-integrations|Integrations]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-04-11-rust-v0-120-0-github-307789275-437473b9|codex-cli-2026-04-11-rust-v0-120-0-github-307789275-437473b9]]'
 source_type: github_releases
 theme: apps-integrations
@@ -97,8 +95,8 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.120.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-04-10 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-04-10-migration-notice-for-vscode-mcp-json-now-includes-a-jq-command-to-migrate-your-c|Migration notice for .vscode/mcp.json now includes a jq command to migrate…]]
-- Later: 2026-04-13 · Claude Code · [[Changes/Claude Code/2026-04-13-3-apps-and-integrations-changes-in-v2-1-105|3 Apps and Integrations changes in v2.1.105]]
+- Earlier: 2026-04-10 · Replit · [[Changes/Replit/2026-04-10-integrations|Integrations]]
+- Later: 2026-04-12 · Ollama · [[Changes/Ollama/2026-04-12-hermes-agent-https-docs-ollama-com-integrations-hermes-ollama-integration-guide|Hermes agent((source link) Ollama integration guide…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

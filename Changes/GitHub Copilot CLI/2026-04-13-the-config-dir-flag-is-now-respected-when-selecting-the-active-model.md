@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 54284c7a1727f82fc8925cac7314d17038c5d97b1f499286bfb1fedd00f97f31
+machine_hash: baa9c64ac4ca11e49da08b4b3fc8114564ead183c8af8301f88d485ce627cad9
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -43,12 +43,10 @@ record:
   title: The --config-dir flag is now respected when selecting the active model
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-04-10-5-model-support-changes-in-rust-v0-119-0|5 Model
-  Support changes in rust-v0.119.0]]'
-- '[[Changes/GitHub Copilot CLI/2026-04-10-custom-agent-model-field-now-accepts-display-names-and-vendor-suffixes-from-vs-c|Custom
-  agent model field now accepts display names and vendor suffixes from VS Code…]]'
 - '[[Changes/GitHub Copilot CLI/2026-04-10-display-reasoning-token-usage-in-the-per-model-token-breakdown-when-nonzero|Display
   reasoning token usage in the per-model token breakdown when nonzero]]'
+- '[[Changes/ElevenLabs/2026-04-13-python-sdk|Python SDK]]'
+- '[[Changes/ElevenLabs/2026-04-13-javascript-sdk|JavaScript SDK]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-04-13-v1-0-25-github-308357690-3753e85b|github-copilot-cli-2026-04-13-v1-0-25-github-308357690-3753e85b]]'
 source_type: github_releases
 theme: model-support
@@ -84,7 +82,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-04-10 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-04-10-display-reasoning-token-usage-in-the-per-model-token-breakdown-when-nonzero|Display reasoning token usage in the per-model token breakdown when nonzero]]
+- Earlier: 2026-04-13 · ElevenLabs · [[Changes/ElevenLabs/2026-04-13-javascript-sdk|JavaScript SDK]]
 - Later: 2026-04-14 · Claude Code · [[Changes/Claude Code/2026-04-14-improved-model-to-warn-before-switching-models-mid-conversation-since-the-next-r|Improved /model to warn before switching models mid-conversation, since the next…]]
 <!-- chronolog:end -->
 

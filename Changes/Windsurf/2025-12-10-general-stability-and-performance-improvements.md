@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 306fc78e53824bba0404c7163c9657c2e40a33ae6f59e7b9076b325a1f32ac97
+machine_hash: 346b4ec2d21467a14cd97d1c3da3279bf12153a3792f40f6a206cf28e9001031
 product: windsurf
 product_name: Windsurf
 record:
@@ -40,12 +40,12 @@ record:
   title: General stability and performance improvements
   type: change
 related_changes:
-- '[[Changes/Cline/2025-11-27-feat-update-cerebras-models-and-speed-by-sebastiand-cerebras-in-https-github-com|feat:
-  update Cerebras models and speed]]'
-- '[[Changes/Codex CLI/2025-12-04-2-reliability-and-performance-changes-in-rust-v0-65-0|2
-  Reliability and Performance changes in rust-v0.65.0]]'
 - '[[Changes/Cursor/2025-12-10-2-reliability-and-performance-changes-in-2-2|2 Reliability
   and Performance changes in 2.2]]'
+- '[[Changes/Lovable/2025-12-10-saving-visual-and-code-edits-is-now-20-faster|Saving
+  visual and code edits is now \~20% faster]]'
+- '[[Changes/Lovable/2025-12-10-cloud-instance-upgrade-alerts|Cloud instance upgrade
+  alerts]]'
 source_release: '[[Releases/Windsurf/windsurf-2025-12-10-v1-12-41-fc64d619|windsurf-2025-12-10-v1-12-41-fc64d619]]'
 source_type: windsurf_changelog
 theme: reliability-performance
@@ -77,8 +77,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2025-12-10 · Cursor · [[Changes/Cursor/2025-12-10-2-reliability-and-performance-changes-in-2-2|2 Reliability and Performance changes in 2.2]]
-- Later: 2025-12-11 · Windsurf · [[Changes/Windsurf/2025-12-11-2-reliability-and-performance-changes-in-v1-12-43|2 Reliability and Performance changes in v1.12.43]]
+- Earlier: 2025-12-10 · Lovable · [[Changes/Lovable/2025-12-10-cloud-instance-upgrade-alerts|Cloud instance upgrade alerts]]
+- Later: 2025-12-11 · Dify · [[Changes/Dify/2025-12-11-3-reliability-and-performance-changes-in-1-11-0|3 Reliability and Performance changes in 1.11.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

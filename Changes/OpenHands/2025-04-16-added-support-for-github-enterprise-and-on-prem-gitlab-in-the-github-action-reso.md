@@ -5,20 +5,20 @@ description: 'OpenHands · 2025-04-16 · Enterprise and Administration: Added su
   for GitHub Enterprise and on-prem GitLab in the GitHub Action resolver by @tdeckers
   in…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2024-03-20-admin-improvements-team-admins-can-now-mark-themselves-as-unpaid-users-and-can-s|Admin
-    improvements: Team admins can now mark themselves as unpaid users and can see…]]'
+  first_in_tracked: '[[Changes/Gemini/2023-05-05-access-for-google-workspace-accounts|Access
+    for Google Workspace accounts]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 392
+  lag_days: 712
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 37f9be1549ca2c439bd60b6612d58999d24b0b4cf67079157522ade2ad7e9753
+machine_hash: 844d5dfd74667110b6328a306c58abb67ab782d3abd2d4e83033b8d619b7e6fc
 product: openhands
 product_name: OpenHands
 record:
@@ -46,12 +46,12 @@ record:
     resolver
   type: change
 related_changes:
-- '[[Changes/Cursor/2024-03-20-admin-improvements-team-admins-can-now-mark-themselves-as-unpaid-users-and-can-s|Admin
-  improvements: Team admins can now mark themselves as unpaid users and can see…]]'
-- '[[Changes/Cline/2024-08-31-adds-support-for-reading-pdf-and-docx-files-try-turn-my-business-plan-docx-into|Adds
-  support for reading .pdf and .docx files…]]'
-- '[[Changes/Cursor/2025-03-23-enhanced-visibility-of-auto-run-controls-configured-by-team-admins-clarifying-wh|Enhanced
-  visibility of auto-run controls configured by team admins, clarifying…]]'
+- '[[Changes/Open WebUI/2025-04-01-2-enterprise-and-administration-changes-in-v0-6-0|2
+  Enterprise and Administration changes in v0.6.0]]'
+- '[[Changes/Open WebUI/2025-04-05-2-enterprise-and-administration-changes-in-v0-6-1|2
+  Enterprise and Administration changes in v0.6.1]]'
+- "[[Changes/Open WebUI/2025-04-13-frontend-web-loader-engine-configuration-admins-can-now-set-preferred-web-loader|\U0001F9F0
+  Frontend Web Loader Engine Configuration]]"
 source_release: '[[Releases/OpenHands/openhands-2025-04-16-0-33-0-github-212925112-8094af39|openhands-2025-04-16-0-33-0-github-212925112-8094af39]]'
 source_type: github_releases
 theme: enterprise-admin
@@ -84,14 +84,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Enterprise and Administration
 
-- Earlier: 2025-03-23 · Cursor · [[Changes/Cursor/2025-03-23-enhanced-visibility-of-auto-run-controls-configured-by-team-admins-clarifying-wh|Enhanced visibility of auto-run controls configured by team admins, clarifying…]]
-- Later: 2025-05-12 · OpenHands · [[Changes/OpenHands/2025-05-12-added-self-hosted-gitlab-or-enterprise-github-host-settings-for-local-installati|Added self-hosted gitlab or enterprise github host settings for local installation]]
+- Earlier: 2025-04-13 · Open WebUI · [[Changes/Open WebUI/2025-04-13-frontend-web-loader-engine-configuration-admins-can-now-set-preferred-web-loader|🧰 Frontend Web Loader Engine Configuration]]
+- Later: 2025-04-18 · Replit · [[Changes/Replit/2025-04-18-teams-and-enterprise|Teams and Enterprise]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2024-03-20 · Cursor · [[Changes/Cursor/2024-03-20-admin-improvements-team-admins-can-now-mark-themselves-as-unpaid-users-and-can-s|Admin improvements: Team admins can now mark themselves as unpaid users and can see…]]
+- Earliest same-theme entry in the tracked set: 2023-05-05 · Gemini · [[Changes/Gemini/2023-05-05-access-for-google-workspace-accounts|Access for Google Workspace accounts]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

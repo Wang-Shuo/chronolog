@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 948663eaad7a0c30b162a97e41bcf5e36909da40014515024b4cb8f7f2b41edc
+machine_hash: 76e3a04e3638379e8efc2c48dc40848232f1ed0b52f294e6791ece17e09d03b0
 product: claude-code
 product_name: Claude Code
 record:
@@ -44,12 +44,11 @@ record:
   title: Changed Sonnet 4.5 users on Pro/Max/Team Premium to be automatically migrated…
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-03-03-2-model-support-changes-in-v0-0-421|2 Model
-  Support changes in v0.0.421]]'
 - '[[Changes/Claude Code/2026-03-04-3-model-support-changes-in-v2-1-68|3 Model Support
   changes in v2.1.68]]'
 - '[[Changes/Cline/2026-03-04-2-model-support-changes-in-v3-70-0|2 Model Support changes
   in v3.70.0]]'
+- '[[Changes/v0/2026-03-04-added-auto-model-selection|Added auto model selection]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-03-05-v2-1-69-github-293216328-162b2e44|claude-code-2026-03-05-v2-1-69-github-293216328-162b2e44]]'
 source_type: github_releases
 theme: model-support
@@ -90,7 +89,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-03-04 · Cline · [[Changes/Cline/2026-03-04-2-model-support-changes-in-v3-70-0|2 Model Support changes in v3.70.0]]
+- Earlier: 2026-03-04 · v0 · [[Changes/v0/2026-03-04-added-auto-model-selection|Added auto model selection]]
 - Later: 2026-03-05 · Codex CLI · [[Changes/Codex CLI/2026-03-05-2-model-support-changes-in-rust-v0-110-0|2 Model Support changes in rust-v0.110.0]]
 <!-- chronolog:end -->
 

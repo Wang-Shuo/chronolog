@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: e0f62c415fb3094928b196fe11f75f3d5ed1d4104ecc77de667a5edf29f3adc8
+machine_hash: 86c0ba12791a5cc52ae9c8ba53c0629d3eb20da89e085dfed07c5259b17aef16
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -73,12 +73,12 @@ record:
   title: 15 Apps and Integrations changes in rust-v0.163.0
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-14-7-apps-and-integrations-changes-in-v2-1-300|7
-  Apps and Integrations changes in v2.1.300]]'
-- '[[Changes/Claude Code/2026-10-14-19-apps-and-integrations-changes-in-v2-1-299|19
-  Apps and Integrations changes in v2.1.299]]'
 - '[[Changes/GitHub Copilot CLI/2026-10-14-2-apps-and-integrations-changes-in-v1-0-98|2
   Apps and Integrations changes in v1.0.98]]'
+- '[[Changes/Lovable/2026-10-14-connect-your-app-to-bing-webmaster-tools|Connect your
+  app to Bing Webmaster Tools]]'
+- '[[Changes/Open WebUI/2026-10-14-2-apps-and-integrations-changes-in-v0-12-1|2 Apps
+  and Integrations changes in v0.12.1]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-10-15-rust-v0-163-0-github-414286110-97016fe6|codex-cli-2026-10-15-rust-v0-163-0-github-414286110-97016fe6]]'
 source_type: github_releases
 theme: apps-integrations
@@ -149,7 +149,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.163.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-10-14 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-10-14-2-apps-and-integrations-changes-in-v1-0-98|2 Apps and Integrations changes in v1.0.98]]
+- Earlier: 2026-10-14 · Open WebUI · [[Changes/Open WebUI/2026-10-14-2-apps-and-integrations-changes-in-v0-12-1|2 Apps and Integrations changes in v0.12.1]]
 - Later: 2026-10-16 · ChatGPT · [[Changes/ChatGPT/2026-10-16-improved-use-of-plugins-and-tools-to-carry-out-tasks|Improved use of plugins and tools to carry out tasks]]
 <!-- chronolog:end -->
 

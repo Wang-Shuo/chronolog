@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: 9df79b451f321f9beaf77cfa5bce934b3a153172ed3d3329d4c6040107b06b38
+machine_hash: f1ae26af083e9d4f9d3c9449101548e56822eab544208d06a6652c6497b3dd6b
 product: claude-code
 product_name: Claude Code
 record:
@@ -46,10 +46,9 @@ record:
   title: Improved hook configuration error
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-05-13-cloud-agents-and-automations-now-support-multi-repo-environments-building-off-ou|Multi-repo
-  environments]]'
 - '[[Changes/Cursor/2026-05-13-to-take-engineering-tasks-from-start-to-finish-agents-need-a-development-environ-e47512|To
   take engineering tasks from start to finish, agents need a development…]]'
+- '[[Changes/ElevenLabs/2026-05-13-packages|Packages]]'
 - '[[Changes/GitHub Copilot CLI/2026-05-13-resume-supports-copilot-cloud-agent-sessions-where-the-agent-hasn-t-pushed-any-c|--resume
   supports Copilot cloud agent sessions where the agent hasn''t pushed any…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-05-14-v2-1-142-github-322792825-ffda4d4f|claude-code-2026-05-14-v2-1-142-github-322792825-ffda4d4f]]'
@@ -84,7 +83,7 @@ type: change
 ## Nearby in Agent Mode
 
 - Earlier: 2026-05-13 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-05-13-resume-supports-copilot-cloud-agent-sessions-where-the-agent-hasn-t-pushed-any-c|--resume supports Copilot cloud agent sessions where the agent hasn't pushed any…]]
-- Later: 2026-05-15 · Claude Code · [[Changes/Claude Code/2026-05-15-2-agent-mode-changes-in-v2-1-143|2 Agent Mode changes in v2.1.143]]
+- Later: 2026-05-14 · Ollama · [[Changes/Ollama/2026-05-14-for-difficult-coding-and-agentic-tasks|For difficult coding and agentic tasks]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

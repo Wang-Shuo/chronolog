@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 9646d563f8b90825de9c9606d5935ec46cda6eb97999ec31630dfd4ec8a5be3b
+machine_hash: 99fbc31cc477ada06134b6d4ad7e827f4e2b4446fc14aeff89f70a1bb0151fe2
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -44,12 +44,12 @@ record:
     @owenlin0'
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2026-02-25-enable-in-cli-extension-management-commands-for-team-by-chrstnb-in-https-github|Enable
-  in-CLI extension management commands for team]]'
-- '[[Changes/Codex CLI/2026-02-26-2-collaboration-changes-in-rust-v0-106-0|2 Collaboration
-  changes in rust-v0.106.0]]'
+- "[[Changes/Open WebUI/2026-03-01-individual-user-sharing-control-administrators-can-now-disable-individual-user-s|\U0001F510
+  Individual user sharing control. Administrators can now disable individual…]]"
 - '[[Changes/GitHub Copilot CLI/2026-03-06-block-share-gist-for-emu-and-ghe-cloud-users-with-clear-error-messaging|Block
   /share gist for EMU and GHE Cloud users with clear error messaging]]'
+- "[[Changes/Open WebUI/2026-03-09-teams-webhook-crash-fixed-a-typeerror-crash-in-the-teams-webhook-handler-when-us|\U0001F4E8
+  Teams webhook crash. Fixed a TypeError crash in the Teams webhook handler…]]"
 source_release: '[[Releases/Codex CLI/codex-cli-2026-03-10-rust-v0-113-0-github-294999501-e594ccb6|codex-cli-2026-03-10-rust-v0-113-0-github-294999501-e594ccb6]]'
 source_type: github_releases
 theme: collaboration
@@ -89,7 +89,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Collaboration
 
-- Earlier: 2026-03-06 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-03-06-block-share-gist-for-emu-and-ghe-cloud-users-with-clear-error-messaging|Block /share gist for EMU and GHE Cloud users with clear error messaging]]
+- Earlier: 2026-03-09 · Open WebUI · [[Changes/Open WebUI/2026-03-09-teams-webhook-crash-fixed-a-typeerror-crash-in-the-teams-webhook-handler-when-us|📨 Teams webhook crash. Fixed a TypeError crash in the Teams webhook handler…]]
 - Later: 2026-03-11 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-03-11-session-export-header-renders-each-field-on-its-own-line-in-shared-gists|Session export header renders each field on its own line in shared gists]]
 <!-- chronolog:end -->
 

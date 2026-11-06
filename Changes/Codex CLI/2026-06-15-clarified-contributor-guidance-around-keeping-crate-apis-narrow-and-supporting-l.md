@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: d35924705efc69dc174418c4fd10a64428457477dff6d863e6b71b89862b07b3
+machine_hash: 8771d7b809f164937c1abb329cc434e7e95c970255e2859abfc68d73a0f77752
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -94,7 +94,7 @@ type: change
 ## Nearby in Mobile and Desktop
 
 - Earlier: 2026-06-13 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-06-13-git-commands-no-longer-flash-a-console-window-on-windows|Git commands no longer flash a console window on Windows]]
-- Later: 2026-06-16 · Windsurf · [[Changes/Windsurf/2026-06-16-the-3-2-series-brings-devin-local-enhancements-and-continued-devin-desktop-polis|The 3.2 series brings Devin Local enhancements and continued Devin Desktop polish]]
+- Later: 2026-06-15 · ElevenLabs · [[Changes/ElevenLabs/2026-06-15-ios-sdk|iOS SDK]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 18789ca213d3112954dfcf8b23a5dd6f345df2af40462c28f77f0de96d21cb09
+machine_hash: e3b2aa523451e6f5a31dbce4f8fe3705f7ed40c9debdddd270ea85a857554b21
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -51,10 +51,10 @@ record:
   title: 6 Developer Workflow changes in rust-v0.152.0
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-08-28-3-developer-workflow-changes-in-v2-1-251|3 Developer
-  Workflow changes in v2.1.251]]'
-- '[[Changes/GitHub Copilot CLI/2026-08-29-a-message-typed-while-worktree-or-move-is-preparing-the-worktree-no-longer-break|A
-  message typed while /worktree or /move is preparing the worktree no longer breaks…]]'
+- "[[Changes/Open WebUI/2026-08-31-custom-interface-fonts-reach-more-of-the-app-the-font-chosen-in-interface-settin|\U0001F524
+  Custom interface fonts reach more of the app. The font chosen in interface…]]"
+- '[[Changes/Open WebUI/2026-08-31-9-developer-workflow-changes-in-v0-11-2|9 Developer
+  Workflow changes in v0.11.2]]'
 - '[[Changes/Claude Code/2026-09-01-3-developer-workflow-changes-in-v2-1-257|3 Developer
   Workflow changes in v2.1.257]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-09-01-rust-v0-152-0-github-380164108-cd339544|codex-cli-2026-09-01-rust-v0-152-0-github-380164108-cd339544]]'
@@ -108,7 +108,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.152.0
 ## Nearby in Developer Workflow
 
 - Earlier: 2026-09-01 · Claude Code · [[Changes/Claude Code/2026-09-01-3-developer-workflow-changes-in-v2-1-257|3 Developer Workflow changes in v2.1.257]]
-- Later: 2026-09-02 · Claude Code · [[Changes/Claude Code/2026-09-02-improved-terminal-resize-and-first-render-performance-for-long-responses-by-reus|Improved terminal resize and first-render performance for long responses by reusing…]]
+- Later: 2026-09-01 · v0 · [[Changes/v0/2026-09-01-github-backed-projects-now-have-a-unified-branch-and-publish-flow-in-v0|GitHub-backed projects now have a unified branch-and-Publish flow in v0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

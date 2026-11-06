@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: a523e8cd82670375824b73f23292da9598303e8cfe2ed88f8429126c728c1e15
+machine_hash: c6d13b2e3449194de31765c714690b480b57b1d1ef47d563bb7a757d2fb94d31
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -64,10 +64,9 @@ record:
   title: 13 Context Window changes in rust-v0.148.0
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-08-14-improved-apps-gateway-error-forwarding-400-413-errors-from-vertex-foundry-and-cl|Improved
-  apps gateway error forwarding]]'
-- '[[Changes/Claude Code/2026-08-17-2-context-window-changes-in-v2-1-234|2 Context
-  Window changes in v2.1.234]]'
+- '[[Changes/Lovable/2026-08-17-improved-validation-for-attachment-uploads|Improved
+  validation for attachment uploads]]'
+- '[[Changes/Lovable/2026-08-17-improved-image-viewer|Improved image viewer]]'
 - '[[Changes/Claude Code/2026-08-18-improved-the-context-limit-error-to-say-when-auto-compact-is-off-and-point-to-co|Improved
   the context-limit error to say when auto-compact is off and point…]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-08-18-rust-v0-148-0-github-372686337-4265c0ae|codex-cli-2026-08-18-rust-v0-148-0-github-372686337-4265c0ae]]'
@@ -137,7 +136,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.148.0
 ## Nearby in Context Window
 
 - Earlier: 2026-08-18 · Claude Code · [[Changes/Claude Code/2026-08-18-improved-the-context-limit-error-to-say-when-auto-compact-is-off-and-point-to-co|Improved the context-limit error to say when auto-compact is off and point…]]
-- Later: 2026-08-20 · Codex CLI · [[Changes/Codex CLI/2026-08-20-9-context-window-changes-in-rust-v0-149-0|9 Context Window changes in rust-v0.149.0]]
+- Later: 2026-08-19 · Lovable · [[Changes/Lovable/2026-08-19-design-systems-on-all-paid-plans|Design systems on all paid plans]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -4,20 +4,20 @@ date: '2023-08-11'
 description: 'Aider · 2023-08-11 · Voice and Audio: [Voice-to-code](https://aider.chat/docs/voice.html)
   support, which allows you to code with your voice.'
 diffusion:
-  first_in_tracked: '[[Changes/Aider/2023-08-11-voice-to-code-https-aider-chat-docs-voice-html-support-which-allows-you-to-code|Voice-to-code((source
-    link) support, which allows you…]]'
+  first_in_tracked: '[[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2
+    Voice and Audio changes in 0.3.7]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 0
+  lag_days: 32
   relation: same-theme-chronology
-  role: first-observed
+  role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 627d7e9ba66f083830c0223d6d02be3bcc76e43c696d92d01cb8a0f7d6cf82c4
+machine_hash: a97ea49dd26c7dc5350c5ee4e9b4ddc67d2e719cac5e8f804c0219e2f1d38429
 product: aider
 product_name: Aider
 record:
@@ -44,6 +44,13 @@ record:
   title: '[Voice-to-code](https://aider.chat/docs/voice.html) support, which allows
     you…'
   type: change
+related_changes:
+- '[[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2 Voice and Audio
+  changes in 0.3.7]]'
+- '[[Changes/Dify/2023-07-14-convert-audio-wav-to-mp3-by-zxhlyh-in-https-github-com-langgenius-dify-pull-552|convert
+  audio wav to mp3]]'
+- '[[Changes/Dify/2023-07-27-feat-application-api-add-speech-to-text-by-zxhlyh-in-https-github-com-langgenius|Feat/application
+  api add speech to text]]'
 source_release: '[[Releases/Aider/aider-2023-08-11-v0-12-0-github-116058625-6861e6b4|aider-2023-08-11-v0-12-0-github-116058625-6861e6b4]]'
 source_type: github_releases
 theme: voice
@@ -72,13 +79,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Voice and Audio
 
+- Earlier: 2023-07-27 · Dify · [[Changes/Dify/2023-07-27-feat-application-api-add-speech-to-text-by-zxhlyh-in-https-github-com-langgenius|Feat/application api add speech to text]]
 - Later: 2023-08-22 · Aider · [[Changes/Aider/2023-08-22-2-voice-and-audio-changes-in-v0-13-0|2 Voice and Audio changes in v0.13.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry among the 10 tracked products.
+- Earliest same-theme entry in the tracked set: 2023-07-10 · Dify · [[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2 Voice and Audio changes in 0.3.7]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 414353c82d36097b0f0ef721c518c1191d5b443f9ca6c77085660fb7a8f7c459
+machine_hash: 73f653ef63a8c9931d08de9ae2fcaab0a27ca092b0596071cad6acc5375bfb28
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -49,10 +49,8 @@ record:
   title: 5 Apps and Integrations changes in v0.6.0
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2025-09-17-6-apps-and-integrations-changes-in-v0-5-3|6 Apps
-  and Integrations changes in v0.5.3]]'
-- '[[Changes/Cline/2025-09-20-feat-oca-ui-add-oca-provider-with-model-picker-and-auth-integration-by-nihar-ora|feat(oca-ui):
-  add OCA provider with model picker and auth integration]]'
+- '[[Changes/ElevenLabs/2025-09-22-new-endpoints|New Endpoints]]'
+- '[[Changes/ElevenLabs/2025-09-22-sdk-releases|SDK Releases]]'
 - '[[Changes/Codex CLI/2025-09-23-2-apps-and-integrations-changes-in-rust-v0-40-0|2
   Apps and Integrations changes in rust-v0.40.0]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2025-09-24-v0-6-0-github-249519586-83671b5c|gemini-cli-2025-09-24-v0-6-0-github-249519586-83671b5c]]'

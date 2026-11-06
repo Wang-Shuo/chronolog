@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: d646b1f38abd9c7cc16a2d668dc6adac35cc78d92c29caa993d0e0960cfa3820
+machine_hash: a8ad954a79217a78fb9e1d75f733d4beb722b2f48a8ee7fd5ff7f35e1d71c37a
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -43,12 +43,11 @@ record:
   title: https://github.com/openai/codex/pull/2050 show diff preview for `apply_patch`
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2025-08-05-26-editor-experience-changes-in-v0-1-17|26 Editor
-  Experience changes in v0.1.17]]'
-- '[[Changes/Gemini CLI/2025-08-06-27-editor-experience-changes-in-v0-1-18|27 Editor
-  Experience changes in v0.1.18]]'
-- '[[Changes/Cline/2025-08-07-hostbridge-diff-diagnostics-by-kvyb-in-https-github-com-cline-cline-pull-5368|Hostbridge
-  diff diagnostics]]'
+- '[[Changes/Dify/2025-08-11-you-can-now-easily-find-nodes-in-the-workflow-editor-using-the-new-search-featur|Easily
+  find nodes in the workflow editor using the new search feature by @croatialu…]]'
+- '[[Changes/Lovable/2025-08-11-search-all-files-in-the-code-editor|Search all files
+  in the code editor]]'
+- '[[Changes/Lovable/2025-08-11-upgraded-people-tab|Upgraded people tab]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2025-08-12-rust-v0-21-0-github-239240731-76e29b83|codex-cli-2025-08-12-rust-v0-21-0-github-239240731-76e29b83]]'
 source_type: github_releases
 theme: editor-experience
@@ -81,7 +80,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2025-08-07 · Cline · [[Changes/Cline/2025-08-07-hostbridge-diff-diagnostics-by-kvyb-in-https-github-com-cline-cline-pull-5368|Hostbridge diff diagnostics]]
+- Earlier: 2025-08-11 · Lovable · [[Changes/Lovable/2025-08-11-upgraded-people-tab|Upgraded people tab]]
 - Later: 2025-08-12 · Gemini CLI · [[Changes/Gemini CLI/2025-08-12-7-editor-experience-changes-in-v0-1-19|7 Editor Experience changes in v0.1.19]]
 <!-- chronolog:end -->
 

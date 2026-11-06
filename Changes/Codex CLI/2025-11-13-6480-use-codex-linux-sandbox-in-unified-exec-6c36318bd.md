@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: b042154ce1f292b432a636dd38feebac586311f9e717596e0a22f6120f9a05c5
+machine_hash: 14434d08cf820dcf17aded396560397521f0750c7728fcafcd52e1afc036616f
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -43,8 +43,8 @@ record:
   title: '#6480 — Use codex-linux-sandbox in unified exec (`6c36318bd`)'
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2025-11-04-fix-infra-simplify-cancel-in-progress-and-add-permission-to-set-status-step-by-s|fix(infra)
-  - Simplify cancel in progress and add permission to set status step]]'
+- '[[Changes/Open WebUI/2025-11-06-4-safety-and-privacy-changes-in-v0-6-35|4 Safety
+  and Privacy changes in v0.6.35]]'
 - '[[Changes/Codex CLI/2025-11-07-2-safety-and-privacy-changes-in-rust-v0-56-0|2 Safety
   and Privacy changes in rust-v0.56.0]]'
 - '[[Changes/Gemini CLI/2025-11-07-migrate-console-error-to-coreevents-debugger-for-sandbox-logger-chatrecordingser|migrate
@@ -87,7 +87,7 @@ type: change
 ## Nearby in Safety and Privacy
 
 - Earlier: 2025-11-07 · Gemini CLI · [[Changes/Gemini CLI/2025-11-07-migrate-console-error-to-coreevents-debugger-for-sandbox-logger-chatrecordingser|migrate console.error to coreEvents/debugger for sandbox, logger, chatRecordingService]]
-- Later: 2025-11-17 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2025-11-17-2-safety-and-privacy-changes-in-v0-0-359|2 Safety and Privacy changes in v0.0.359]]
+- Later: 2025-11-13 · Dify · [[Changes/Dify/2025-11-13-2-safety-and-privacy-changes-in-1-10-0|2 Safety and Privacy changes in 1.10.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

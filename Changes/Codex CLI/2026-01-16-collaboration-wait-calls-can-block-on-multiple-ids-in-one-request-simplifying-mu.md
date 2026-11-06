@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 54a2b5b6e715ba5298d821ca8671c4ada44ca913737a36e124b614f001074bc2
+machine_hash: 05ea8fca24ba38492dd7f9b91fddf0802af6116851562fd244c06c7c86084130
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -41,12 +41,12 @@ record:
   title: Collaboration wait calls can block on multiple IDs in one request, simplifying…
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2025-12-18-8221-change-team-to-buisness-and-add-education|♯8221
-  Change “Team” to “Buisness” and add Education]]'
 - '[[Changes/GitHub Copilot CLI/2026-01-07-add-share-and-share-gist-flags-for-session-sharing-in-non-interactive-mode|Add
   --share and --share-gist flags for session sharing in non-interactive mode]]'
 - '[[Changes/Codex CLI/2026-01-15-2-collaboration-changes-in-rust-v0-85-0|2 Collaboration
   changes in rust-v0.85.0]]'
+- '[[Changes/Claude/2026-01-16-claude-code-access-added-to-team-plan-standard-seats|Claude
+  Code access added to Team plan Standard seats]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-01-16-rust-v0-87-0-github-277440557-08f55bf8|codex-cli-2026-01-16-rust-v0-87-0-github-277440557-08f55bf8]]'
 source_type: github_releases
 theme: collaboration
@@ -79,7 +79,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Collaboration
 
-- Earlier: 2026-01-15 · Codex CLI · [[Changes/Codex CLI/2026-01-15-2-collaboration-changes-in-rust-v0-85-0|2 Collaboration changes in rust-v0.85.0]]
+- Earlier: 2026-01-16 · Claude · [[Changes/Claude/2026-01-16-claude-code-access-added-to-team-plan-standard-seats|Claude Code access added to Team plan Standard seats]]
 - Later: 2026-01-21 · Codex CLI · [[Changes/Codex CLI/2026-01-21-9-collaboration-changes-in-rust-v0-88-0|9 Collaboration changes in rust-v0.88.0]]
 <!-- chronolog:end -->
 

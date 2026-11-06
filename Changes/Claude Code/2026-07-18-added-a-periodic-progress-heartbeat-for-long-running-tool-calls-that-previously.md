@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 63be508412587d17c776a2907adfa7c76deaae99ddf8a648e1ff7bddb610e5e4
+machine_hash: 00cc8670fd937c584b5c2e4b64b482a0ad651507d15636b580e2fb1d95b4b834
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,10 +45,10 @@ record:
     went…
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-07-09-responses-websockets-continue-using-the-low-latency-transport-while-respecting-s|Responses
-  WebSockets continue using the low-latency transport while respecting…]]'
 - '[[Changes/Claude Code/2026-07-14-3-reliability-and-performance-changes-in-v2-1-208|3
   Reliability and Performance changes in v2.1.208]]'
+- '[[Changes/Dify/2026-07-17-3-reliability-and-performance-changes-in-1-16-0|3 Reliability
+  and Performance changes in 1.16.0]]'
 - '[[Changes/Windsurf/2026-07-17-devin-cloud|Devin Cloud]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-07-18-v2-1-214-github-355973317-478680c5|claude-code-2026-07-18-v2-1-214-github-355973317-478680c5]]'
 source_type: github_releases

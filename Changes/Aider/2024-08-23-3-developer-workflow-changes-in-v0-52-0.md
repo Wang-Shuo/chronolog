@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 2e26c5f374bfb7ed6bfa220d985cad251adbf8ac9c856895612c2e29a906f1fd
+machine_hash: 9b5847e0559dbc8dbda85a15d0a92b986ae57389dcbe992b19555bfdd5c1c23d
 product: aider
 product_name: Aider
 record:
@@ -43,12 +43,12 @@ record:
   title: 3 Developer Workflow changes in v0.52.0
   type: change
 related_changes:
-- '[[Changes/Aider/2024-07-31-3-developer-workflow-changes-in-v0-47-0|3 Developer
-  Workflow changes in v0.47.0]]'
-- '[[Changes/OpenHands/2024-08-01-4-developer-workflow-changes-in-0-8-3|4 Developer
-  Workflow changes in 0.8.3]]'
 - '[[Changes/Aider/2024-08-10-5-developer-workflow-changes-in-v0-49-0|5 Developer
   Workflow changes in v0.49.0]]'
+- '[[Changes/Dify/2024-08-14-stop-the-service-command-please-execute-in-the-docker-directory|Stop
+  the service，Command, please execute in the docker directory]]'
+- '[[Changes/Dify/2024-08-19-stop-the-service-command-please-execute-in-the-docker-directory|Stop
+  the service，Command, please execute in the docker directory]]'
 source_release: '[[Releases/Aider/aider-2024-08-23-v0-52-0-github-171697898-902b71ba|aider-2024-08-23-v0-52-0-github-171697898-902b71ba]]'
 source_type: github_releases
 theme: developer-workflow
@@ -85,7 +85,7 @@ Source: https://github.com/Aider-AI/aider/releases/tag/v0.52.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2024-08-10 · Aider · [[Changes/Aider/2024-08-10-5-developer-workflow-changes-in-v0-49-0|5 Developer Workflow changes in v0.49.0]]
+- Earlier: 2024-08-19 · Dify · [[Changes/Dify/2024-08-19-stop-the-service-command-please-execute-in-the-docker-directory|Stop the service，Command, please execute in the docker directory]]
 - Later: 2024-08-23 · OpenHands · [[Changes/OpenHands/2024-08-23-allow-easier-copy-paste-into-the-terminal-by-tofarr-in-https-github-com-all-hand|Allow easier copy paste into the terminal]]
 <!-- chronolog:end -->
 

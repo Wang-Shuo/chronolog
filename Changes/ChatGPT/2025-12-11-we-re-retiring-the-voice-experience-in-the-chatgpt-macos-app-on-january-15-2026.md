@@ -4,20 +4,20 @@ date: '2025-12-11'
 description: 'ChatGPT · 2025-12-11 · Voice and Audio: We’re retiring the Voice experience
   in the ChatGPT macOS app on January 15, 2026. This change allows us to focus on…'
 diffusion:
-  first_in_tracked: '[[Changes/Aider/2023-08-11-voice-to-code-https-aider-chat-docs-voice-html-support-which-allows-you-to-code|Voice-to-code((source
-    link) support, which allows you…]]'
+  first_in_tracked: '[[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2
+    Voice and Audio changes in 0.3.7]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 853
+  lag_days: 885
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: policy
-machine_hash: 74891089e62d0931cf0d09510f364f12264eccefb39d56709223d9e71143eff3
+machine_hash: 678cbb156c82fb7246199d8957ef841f4533206a2d289a7c3b0f7c7c2a02786c
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -46,11 +46,9 @@ record:
     2026
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-10-29-voice-mode|Voice Mode]]'
-- '[[Changes/Cline/2025-11-13-2-voice-and-audio-changes-in-v3-37-0|2 Voice and Audio
-  changes in v3.37.0]]'
-- '[[Changes/ChatGPT/2025-11-25-we-re-making-chatgpt-voice-a-seamless-part-of-the-chatgpt-experience-so-you-can-2bc316|We’re
-  making ChatGPT Voice a seamless part of the ChatGPT experience, so you can use…]]'
+- '[[Changes/ElevenLabs/2025-12-08-dubbing|Dubbing]]'
+- '[[Changes/ElevenLabs/2025-12-08-voices-7314a8|Voices]]'
+- '[[Changes/ElevenLabs/2025-12-08-elevencreative-studio|ElevenCreative Studio]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-12-11-voice-on-macos-desktop-app-is-retiring-effective-january-15-2026-189e8580|chatgpt-2025-12-11-voice-on-macos-desktop-app-is-retiring-effective-january-15-2026-189e8580]]'
 source_type: chatgpt_changelog
 theme: voice
@@ -80,14 +78,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Voice and Audio
 
-- Earlier: 2025-11-25 · ChatGPT · [[Changes/ChatGPT/2025-11-25-we-re-making-chatgpt-voice-a-seamless-part-of-the-chatgpt-experience-so-you-can-2bc316|We’re making ChatGPT Voice a seamless part of the ChatGPT experience, so you can use…]]
-- Later: 2026-01-12 · ChatGPT · [[Changes/ChatGPT/2026-01-12-we-re-improving-our-dictation-capabilities-in-chatgpt-for-all-logged-in-users-si|Dictation Updates]]
+- Earlier: 2025-12-08 · ElevenLabs · [[Changes/ElevenLabs/2025-12-08-elevencreative-studio|ElevenCreative Studio]]
+- Later: 2025-12-15 · ElevenLabs · [[Changes/ElevenLabs/2025-12-15-javascript-sdk|JavaScript SDK]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-08-11 · Aider · [[Changes/Aider/2023-08-11-voice-to-code-https-aider-chat-docs-voice-html-support-which-allows-you-to-code|Voice-to-code((source link) support, which allows you…]]
+- Earliest same-theme entry in the tracked set: 2023-07-10 · Dify · [[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2 Voice and Audio changes in 0.3.7]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 7bf9228d1e5f29195e92178c5e7519a1669d739e262cf81c037ed75f93b8a7c0
+machine_hash: 8eb4767aa114decb8564f2250cfc0515d6fabf80f3ab7d01a9a16a9283abb4a8
 product: claude-code
 product_name: Claude Code
 record:
@@ -44,10 +44,10 @@ record:
     to SSL…
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-03-06-mcp-servers-can-now-request-users-to-visit-a-url-for-out-of-band-interactions-su|MCP
-  servers can now request users to visit a URL for out-of-band interactions such…]]'
-- '[[Changes/GitHub Copilot CLI/2026-03-09-login-flow-no-longer-hangs-on-ubuntu-when-system-keyring-is-unresponsive|Login
-  flow no longer hangs on Ubuntu when system keyring is unresponsive]]'
+- '[[Changes/Open WebUI/2026-03-09-2-account-and-access-changes-in-v0-8-10|2 Account
+  and Access changes in v0.8.10]]'
+- '[[Changes/v0/2026-03-09-improved-error-messages-when-project-creation-or-oauth-flows-fail|Improved
+  error messages when project creation or OAuth flows fail]]'
 - '[[Changes/Codex CLI/2026-03-10-2-account-and-access-changes-in-rust-v0-113-0|2
   Account and Access changes in rust-v0.113.0]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-03-11-v2-1-73-github-295814700-0abb054f|claude-code-2026-03-11-v2-1-73-github-295814700-0abb054f]]'

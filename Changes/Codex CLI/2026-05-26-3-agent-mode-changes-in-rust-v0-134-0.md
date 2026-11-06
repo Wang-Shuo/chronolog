@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 2ec9cb37fecc544bd3597b6732d4a5dd9557956e11397ba857b79894ece1c45e
+machine_hash: b66cadd66677647dd622013123a8233caea73a909468c1280a6c63febd55e99e
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -44,12 +44,10 @@ record:
   title: 3 Agent Mode changes in rust-v0.134.0
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-05-21-7-agent-mode-changes-in-rust-v0-133-0|7 Agent Mode
-  changes in rust-v0.133.0]]'
-- '[[Changes/Gemini CLI/2026-05-22-2-agent-mode-changes-in-v0-43-0|2 Agent Mode changes
-  in v0.43.0]]'
+- '[[Changes/Replit/2026-05-22-agent|Agent]]'
 - '[[Changes/GitHub Copilot CLI/2026-05-23-custom-agents-support-opt-in-deferred-tool-loading-via-deferred-tool-loading-in|Custom
   agents support opt-in deferred tool loading via deferred-tool-loading…]]'
+- '[[Changes/ElevenLabs/2026-05-25-elevenagents|ElevenAgents]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-05-26-rust-v0-134-0-github-329640454-7be6059e|codex-cli-2026-05-26-rust-v0-134-0-github-329640454-7be6059e]]'
 source_type: github_releases
 theme: agent-mode
@@ -91,7 +89,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.134.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2026-05-23 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-05-23-custom-agents-support-opt-in-deferred-tool-loading-via-deferred-tool-loading-in|Custom agents support opt-in deferred tool loading via deferred-tool-loading…]]
+- Earlier: 2026-05-25 · ElevenLabs · [[Changes/ElevenLabs/2026-05-25-elevenagents|ElevenAgents]]
 - Later: 2026-05-27 · Claude Code · [[Changes/Claude Code/2026-05-27-2-agent-mode-changes-in-v2-1-152|2 Agent Mode changes in v2.1.152]]
 <!-- chronolog:end -->
 

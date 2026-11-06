@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 1d6d190dbaead679876bab67afb09f247a6a8420dd9d8cc52b35ccf3fe268cd5
+machine_hash: 20b42d06f504356dcfb325e06824e6e155abb86653a3d441d76d5b365e329499
 product: openhands
 product_name: OpenHands
 record:
@@ -54,12 +54,12 @@ record:
   title: 5 Apps and Integrations changes in 0.8.1
   type: change
 related_changes:
-- '[[Changes/Cursor/2024-07-03-docs-management-go-to-cursor-settings-features-docs-to-re-index-your-docs|Docs
-  management! Go to Cursor Settings  Features  Docs to re-index your docs]]'
-- '[[Changes/OpenHands/2024-07-05-chore-deps-dev-bump-typescript-eslint-eslint-plugin-from-7-14-1-to-7-15-0-in-fro|chore(deps-dev):
-  bump @typescript-eslint/eslint-plugin from 7.14.1 to 7.15.0 in /frontend]]'
+- "[[Changes/Open WebUI/2024-07-09-apache-tika-integration-added-support-for-using-apache-tika-as-a-document-loader|\U0001F4C4
+  Apache Tika Integration]]"
 - '[[Changes/OpenHands/2024-07-13-2-apps-and-integrations-changes-in-0-8-0|2 Apps
   and Integrations changes in 0.8.0]]'
+- '[[Changes/Dify/2024-07-15-2-apps-and-integrations-changes-in-0-6-14|2 Apps and
+  Integrations changes in 0.6.14]]'
 source_release: '[[Releases/OpenHands/openhands-2024-07-19-0-8-1-github-166290483-3fde9148|openhands-2024-07-19-0-8-1-github-166290483-3fde9148]]'
 source_type: github_releases
 theme: apps-integrations
@@ -102,8 +102,8 @@ Source: https://github.com/OpenHands/OpenHands/releases/tag/0.8.1
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2024-07-13 · OpenHands · [[Changes/OpenHands/2024-07-13-2-apps-and-integrations-changes-in-0-8-0|2 Apps and Integrations changes in 0.8.0]]
-- Later: 2024-07-27 · OpenHands · [[Changes/OpenHands/2024-07-27-2-apps-and-integrations-changes-in-0-8-2|2 Apps and Integrations changes in 0.8.2]]
+- Earlier: 2024-07-15 · Dify · [[Changes/Dify/2024-07-15-2-apps-and-integrations-changes-in-0-6-14|2 Apps and Integrations changes in 0.6.14]]
+- Later: 2024-07-23 · Dify · [[Changes/Dify/2024-07-23-3-apps-and-integrations-changes-in-0-6-15|3 Apps and Integrations changes in 0.6.15]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

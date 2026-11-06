@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 753fd873d2b1dee751bd4bcf07c7e9da459c281a3b4053d89a77a8fa1942a702
+machine_hash: b6339f4f8fe9ca3f8f96a7ac1eeca4e3be007f315b804105d8a1cfc17d26c52f
 product: claude-code
 product_name: Claude Code
 record:
@@ -44,12 +44,12 @@ record:
   title: Changed `AskUserQuestion` dialogs to no longer auto-continue by default
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-06-30-3-interface-experience-changes-in-v1-0-66|3
-  Interface Experience changes in v1.0.66]]'
 - '[[Changes/Claude Code/2026-07-01-2-interface-experience-changes-in-v2-1-198|2 Interface
   Experience changes in v2.1.198]]'
 - '[[Changes/GitHub Copilot CLI/2026-07-01-2-interface-experience-changes-in-v1-0-68|2
   Interface Experience changes in v1.0.68]]'
+- '[[Changes/Open WebUI/2026-07-01-2-interface-experience-changes-in-v0-10-2|2 Interface
+  Experience changes in v0.10.2]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-07-03-v2-1-200-github-348415228-64d6d68d|claude-code-2026-07-03-v2-1-200-github-348415228-64d6d68d]]'
 source_type: github_releases
 theme: interface-experience
@@ -80,7 +80,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-07-01 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-07-01-2-interface-experience-changes-in-v1-0-68|2 Interface Experience changes in v1.0.68]]
+- Earlier: 2026-07-01 · Open WebUI · [[Changes/Open WebUI/2026-07-01-2-interface-experience-changes-in-v0-10-2|2 Interface Experience changes in v0.10.2]]
 - Later: 2026-07-06 · OpenHands · [[Changes/OpenHands/2026-07-06-feat-jira-dc-email-mode-auto-link-targeted-repo-lookup-and-picker-mentions-by-ak|feat(jira-dc): email-mode auto-link, targeted repo lookup, and picker mentions]]
 <!-- chronolog:end -->
 

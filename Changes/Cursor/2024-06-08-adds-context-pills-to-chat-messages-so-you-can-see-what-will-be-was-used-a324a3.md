@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: c329295721c3f09d2411f16220d35b19864edcccf26fa965210773ab2527accc
+machine_hash: 79bd01e99bf9734016704fbdff4f2536cd4a5a4d20822136061d8404c7f48b23
 product: cursor
 product_name: Cursor
 record:
@@ -43,12 +43,12 @@ record:
   title: Adds context pills to chat messages, so you can see what will be/was used
   type: change
 related_changes:
-- '[[Changes/Cursor/2023-11-30-better-context-chat-in-particular-followups-are-now-smarter|Better
-  context chat: in particular, followups are now smarter!]]'
-- '[[Changes/Cursor/2024-04-01-long-context-chat-beta-this-is-a-new-experimental-feature-that-lets-you-talk-wit|Long
-  Context Chat (Beta)]]'
-- '[[Changes/Cursor/2024-04-12-cursorrules-you-can-write-down-repo-level-rules-for-the-ai-by-creating-a-cursorr|.cursorrules:
-  You can write down repo-level rules for the AI by creating…]]'
+- '[[Changes/Open WebUI/2024-05-08-2-context-window-changes-in-v0-1-124|2 Context
+  Window changes in v0.1.124]]'
+- '[[Changes/Ollama/2024-05-22-phi-3-mini-128k-https-ollama-com-library-phi3-mini-128k-and-phi-3-medium-128k-ht|Phi-3
+  Mini 128K((source link) and Phi-3 Medium…]]'
+- '[[Changes/Dify/2024-05-27-allow-to-config-max-segmentation-tokens-length-for-rag-document-using-environmen|allow
+  to config max segmentation tokens length for RAG document using environment variable]]'
 source_release: '[[Releases/Cursor/cursor-2024-06-08-0-35-x-https-cursor-com-changelog-0-35-x-b4216e90|cursor-2024-06-08-0-35-x-https-cursor-com-changelog-0-35-x-b4216e90]]'
 source_type: cursor_changelog
 theme: context-window
@@ -81,8 +81,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Context Window
 
-- Earlier: 2024-04-12 · Cursor · [[Changes/Cursor/2024-04-12-cursorrules-you-can-write-down-repo-level-rules-for-the-ai-by-creating-a-cursorr|.cursorrules: You can write down repo-level rules for the AI by creating…]]
-- Later: 2024-06-17 · Aider · [[Changes/Aider/2024-06-17-2-context-window-changes-in-v0-38-0|2 Context Window changes in v0.38.0]]
+- Earlier: 2024-05-27 · Dify · [[Changes/Dify/2024-05-27-allow-to-config-max-segmentation-tokens-length-for-rag-document-using-environmen|allow to config max segmentation tokens length for RAG document using environment variable]]
+- Later: 2024-06-10 · Open WebUI · [[Changes/Open WebUI/2024-06-10-rag-implementation-updated-the-rag-retrieval-augmented-generation-implementation|📝 RAG Implementation]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: 3c56fb3a988ee61b876fdf6d9447dd167f75cbab4f4f1f9099d37320e0ab4017
+machine_hash: 2b763b7fc5cc987a525ae162ff8336192465349ca36191a056a65733a1293734
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -56,12 +56,12 @@ record:
     tests'
   type: change
 related_changes:
-- '[[Changes/Cline/2026-08-23-everything-here-lands-through-the-sdk-bundle-so-it-applies-to-windows-running-th|Everything
-  here lands through the SDK bundle, so it applies to windows running that bundle]]'
-- '[[Changes/Cline/2026-08-23-2-apps-and-integrations-changes-in-v4-1-15|2 Apps and
-  Integrations changes in v4.1.15]]'
+- '[[Changes/Lovable/2026-08-24-let-your-app-s-users-connect-their-own-github-account|Let
+  your app''s users connect their own GitHub account]]'
 - '[[Changes/Claude Code/2026-08-25-3-apps-and-integrations-changes-in-v2-1-246|3
   Apps and Integrations changes in v2.1.246]]'
+- '[[Changes/Dify/2026-08-25-28-apps-and-integrations-changes-in-1-17-0|28 Apps and
+  Integrations changes in 1.17.0]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2026-08-25-v0-57-0-github-376624905-82c95bfa|gemini-cli-2026-08-25-v0-57-0-github-376624905-82c95bfa]]'
 source_type: github_releases
 theme: apps-integrations
@@ -96,8 +96,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-08-25 · Claude Code · [[Changes/Claude Code/2026-08-25-3-apps-and-integrations-changes-in-v2-1-246|3 Apps and Integrations changes in v2.1.246]]
-- Later: 2026-08-26 · Claude Code · [[Changes/Claude Code/2026-08-26-2-apps-and-integrations-changes-in-v2-1-247|2 Apps and Integrations changes in v2.1.247]]
+- Earlier: 2026-08-25 · Dify · [[Changes/Dify/2026-08-25-28-apps-and-integrations-changes-in-1-17-0|28 Apps and Integrations changes in 1.17.0]]
+- Later: 2026-08-25 · Open WebUI · [[Changes/Open WebUI/2026-08-25-4-apps-and-integrations-changes-in-v0-11-1|4 Apps and Integrations changes in v0.11.1]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

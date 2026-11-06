@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: pricing
-machine_hash: 82ab199d7d56638b7846605ea3870224f437c449926025882f3ef1358b4a61f0
+machine_hash: 8d02ca2336b48543ed9605aae0dca87b88165a230d1567ac7cdf14f4c9ace656
 product: claude-code
 product_name: Claude Code
 record:
@@ -43,12 +43,11 @@ record:
     slot…
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-05-20-2-pricing-model-changes-in-v1-0-51|2 Pricing
-  Model changes in v1.0.51]]'
-- '[[Changes/GitHub Copilot CLI/2026-05-23-3-pricing-model-changes-in-v1-0-52|3 Pricing
-  Model changes in v1.0.52]]'
 - '[[Changes/GitHub Copilot CLI/2026-05-28-3-pricing-model-changes-in-v1-0-55|3 Pricing
   Model changes in v1.0.55]]'
+- '[[Changes/Replit/2026-05-29-billing|Billing]]'
+- '[[Changes/Replit/2026-05-29-generate-3d-models-with-the-tripo3d-connector|Generate
+  3D models with the Tripo3D connector]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-06-04-v2-1-163-github-334509318-c6b9f988|claude-code-2026-06-04-v2-1-163-github-334509318-c6b9f988]]'
 source_type: github_releases
 theme: pricing-model
@@ -83,7 +82,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Pricing Model
 
-- Earlier: 2026-05-28 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-05-28-3-pricing-model-changes-in-v1-0-55|3 Pricing Model changes in v1.0.55]]
+- Earlier: 2026-05-29 · Replit · [[Changes/Replit/2026-05-29-generate-3d-models-with-the-tripo3d-connector|Generate 3D models with the Tripo3D connector]]
 - Later: 2026-06-05 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-06-05-add-billing-help-topic-with-an-overview-of-ai-credit-usage-features|Add billing help topic with an overview of AI credit usage features]]
 <!-- chronolog:end -->
 

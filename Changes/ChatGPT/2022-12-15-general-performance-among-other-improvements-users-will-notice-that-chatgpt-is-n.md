@@ -12,12 +12,12 @@ diffusion:
   role: first-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: aa092c198f2b747b0e0a00fcfb44c4594225f175d596f2ce3402cc96233e9424
+machine_hash: f470cee2473c8c659e4415b1952e5b95d8fbc16690ac823d1adfa3ee6737366e
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -79,7 +79,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry among the 10 tracked products.
+- Earliest same-theme entry among the 20 tracked products.
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

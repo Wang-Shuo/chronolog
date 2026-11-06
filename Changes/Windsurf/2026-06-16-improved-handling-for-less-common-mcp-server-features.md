@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: cd0b1e4080816799f26815530e1f68e8873fce1eff6819343593fed645736f8c
+machine_hash: 1df3c3d9a05603f1731b6decae0626c6a19de263683c17247eb95789439b2e26
 product: windsurf
 product_name: Windsurf
 record:
@@ -40,10 +40,10 @@ record:
   title: Improved handling for less common MCP server features
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-06-16-improved-plugin-loading-performance-in-remote-sessions|Improved
-  plugin loading performance in remote sessions]]'
-- '[[Changes/GitHub Copilot CLI/2026-06-16-2-apps-and-integrations-changes-in-v1-0-63|2
-  Apps and Integrations changes in v1.0.63]]'
+- '[[Changes/Lovable/2026-06-16-app-connectors-chargebee-gatewayapi-lexware-pipedrive-prestashop-sevdesk-wave-wi|App
+  connectors: Chargebee, GatewayAPI, Lexware, Pipedrive, PrestaShop, Sevdesk…]]'
+- '[[Changes/Lovable/2026-06-16-reference-web-pages-in-a-build-with-url-link|Reference
+  web pages in a "Build with URL" link]]'
 - '[[Changes/Windsurf/2026-06-16-outdated-this-entry-refers-to-the-devin-plugin-command-which-has-since-been-rena|
   Outdated: this entry refers to the devin plugin command, which has since…]]'
 source_release: '[[Releases/Windsurf/windsurf-2026-06-16-v3-2-16-684ac1d4|windsurf-2026-06-16-v3-2-16-684ac1d4]]'
@@ -78,7 +78,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-06-16 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-06-16-2-apps-and-integrations-changes-in-v1-0-63|2 Apps and Integrations changes in v1.0.63]]
+- Earlier: 2026-06-16 · Lovable · [[Changes/Lovable/2026-06-16-reference-web-pages-in-a-build-with-url-link|Reference web pages in a "Build with URL" link]]
 - Later: 2026-06-17 · ChatGPT · [[Changes/ChatGPT/2026-06-17-monitoring-tasks-can-search-the-web-and-check-connected-apps-for-changes-and-not|Monitoring tasks can search the web and check connected apps for changes and notify…]]
 <!-- chronolog:end -->
 

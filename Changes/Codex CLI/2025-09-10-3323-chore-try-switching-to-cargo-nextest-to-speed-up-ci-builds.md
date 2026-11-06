@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 7edb9a7fdcc975ad48660c318bf2f007a3de66e2387eccc8b1993e0ac20e8ede
+machine_hash: 5237dbfcd6dfe2d0ff18d992374c204cd7c8663a06614a8eb6bb65dd0269b655
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -41,12 +41,12 @@ record:
   title: '[#3323] chore: try switching to cargo nextest to speed up CI builds'
   type: change
 related_changes:
-- '[[Changes/OpenHands/2025-09-02-improved-performance-and-user-experience-when-working-with-repositories-that-hav|Improved
-  performance and user experience when working with repositories that have…]]'
-- '[[Changes/Gemini CLI/2025-09-04-chore-remove-cli-flags-all-files-and-show-memory-usage-by-jackwotherspoon-in-htt|chore:
-  remove CLI flags all_files and show_memory_usage]]'
+- '[[Changes/Ollama/2025-09-04-embeddinggemma-https-ollama-com-library-embeddinggemma-a-new-open-embedding-mode|EmbeddingGemma((source
+  link) a new open embedding…]]'
 - '[[Changes/Gemini CLI/2025-09-09-improve-performance-of-shell-commands-with-lots-of-output-by-jakemac53-in-https|improve
   performance of shell commands with lots of output]]'
+- '[[Changes/Open WebUI/2025-09-09-5-reliability-and-performance-changes-in-v0-6-27|5
+  Reliability and Performance changes in v0.6.27]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2025-09-10-rust-v0-32-0-github-246248951-dfa94f54|codex-cli-2025-09-10-rust-v0-32-0-github-246248951-dfa94f54]]'
 source_type: github_releases
 theme: reliability-performance
@@ -79,8 +79,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2025-09-09 · Gemini CLI · [[Changes/Gemini CLI/2025-09-09-improve-performance-of-shell-commands-with-lots-of-output-by-jakemac53-in-https|improve performance of shell commands with lots of output]]
-- Later: 2025-09-12 · Cursor · [[Changes/Cursor/2025-09-12-5-reliability-and-performance-changes-in-1-6|5 Reliability and Performance changes in 1.6]]
+- Earlier: 2025-09-09 · Open WebUI · [[Changes/Open WebUI/2025-09-09-5-reliability-and-performance-changes-in-v0-6-27|5 Reliability and Performance changes in v0.6.27]]
+- Later: 2025-09-10 · Open WebUI · [[Changes/Open WebUI/2025-09-10-various-improvements-were-implemented-across-the-frontend-and-backend-to-enhance|🔄 Various improvements were implemented across the frontend and backend to enhance…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

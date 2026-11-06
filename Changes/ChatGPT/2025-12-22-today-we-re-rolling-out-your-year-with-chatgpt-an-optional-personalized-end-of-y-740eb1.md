@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: memory
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 6bd0168a92d502f1fda120448568319cd2716b441cc67717e01d05de28b5fac2
+machine_hash: f1f8a074766492bef7649b313b52ff7e8d090ee782c1c6b09d0b5ca7ebad1ebd
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -65,12 +65,12 @@ record:
   title: Your Year with ChatGPT
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2025-11-24-shopping-research-is-a-new-interactive-experience-that-helps-you-find-the-right-0a021d|Shopping
-  research in ChatGPT]]'
 - '[[Changes/Gemini CLI/2025-12-16-chore-tests-remove-obsolete-test-for-hierarchical-memory-by-pareshjoshij-in-http|chore(tests):
   remove obsolete test for hierarchical memory]]'
 - '[[Changes/ChatGPT/2025-12-19-in-addition-to-selecting-a-base-style-and-tone-preset-like-candid-and-friendly-y-21da79|New
   detailed characteristic controls]]'
+- "[[Changes/Open WebUI/2025-12-21-channel-image-upload-handling-was-optimized-to-process-and-store-compressed-imag|\U0001F5BC️
+  Channel image upload handling was optimized to process and store compressed…]]"
 source_release: '[[Releases/ChatGPT/chatgpt-2025-12-22-your-year-with-chatgpt-6dbbef4d|chatgpt-2025-12-22-your-year-with-chatgpt-6dbbef4d]]'
 source_type: chatgpt_changelog
 theme: memory
@@ -97,7 +97,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Memory and Personalization
 
-- Earlier: 2025-12-19 · ChatGPT · [[Changes/ChatGPT/2025-12-19-in-addition-to-selecting-a-base-style-and-tone-preset-like-candid-and-friendly-y-21da79|New detailed characteristic controls]]
+- Earlier: 2025-12-21 · Open WebUI · [[Changes/Open WebUI/2025-12-21-channel-image-upload-handling-was-optimized-to-process-and-store-compressed-imag|🖼️ Channel image upload handling was optimized to process and store compressed…]]
 - Later: 2026-01-07 · ChatGPT · [[Changes/ChatGPT/2026-01-07-we-re-starting-to-roll-out-health-a-dedicated-space-in-chatgpt-for-health-and-we|We’re starting to roll out Health, a dedicated space in ChatGPT for health…]]
 <!-- chronolog:end -->
 

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 15496dda3e526e2572b7261e8dc3a7e52b20fb456a7b3f072455243636ea0270
+machine_hash: 723096fb15af355c602155b9ffcbee0e556f29faac4c8eda96d2dbe7e6fae9fb
 product: cursor
 product_name: Cursor
 record:
@@ -60,10 +60,10 @@ record:
     has added…'
   type: change
 related_changes:
-- '[[Changes/Cursor/2023-11-03-chat-scroll-we-got-rid-of-sticky-scroll-to-make-the-chat-easier-to-read|Chat
-  scroll: we got rid of sticky scroll to make the chat easier to read]]'
 - '[[Changes/Cursor/2023-11-03-styling-tweaks-some-buttons-and-hints-should-look-nicer|Styling
   tweaks: some buttons and hints should look nicer!]]'
+- '[[Changes/Dify/2023-11-06-2-interface-experience-changes-in-0-3-29|2 Interface
+  Experience changes in 0.3.29]]'
 - '[[Changes/Cursor/2023-11-10-command-dot-you-can-now-use-the-command-dot-menu-to-have-command-k-fix-lint-erro|Command-dot:
   you can now use the Command-dot menu to have Command-K fix lint errors inline]]'
 source_release: '[[Releases/Cursor/cursor-2023-11-12-0-15-2-0-15-5-https-cursor-com-changelog-0-15-2-0-15-5-7e1aa163|cursor-2023-11-12-0-15-2-0-15-5-https-cursor-com-changelog-0-15-2-0-15-5-7e1aa163]]'
@@ -94,7 +94,7 @@ type: change
 ## Nearby in Interface Experience
 
 - Earlier: 2023-11-10 · Cursor · [[Changes/Cursor/2023-11-10-command-dot-you-can-now-use-the-command-dot-menu-to-have-command-k-fix-lint-erro|Command-dot: you can now use the Command-dot menu to have Command-K fix lint errors inline]]
-- Later: 2023-11-27 · Cursor · [[Changes/Cursor/2023-11-27-copilot-improvements-we-ve-spent-some-time-improving-the-latency-of-copilot-and|Copilot++ Improvements: We've spent some time improving the latency…]]
+- Later: 2023-11-16 · Gemini · [[Changes/Gemini/2023-11-16-bard-is-available-for-more-age-groups|Bard is available for more age groups]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

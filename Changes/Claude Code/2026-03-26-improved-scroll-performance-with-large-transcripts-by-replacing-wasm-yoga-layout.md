@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 49a2b48b66cba7ce8a6d387b650338a27f0dc86fa3836cd6880123440abb8c26
+machine_hash: 256cf6900e4e349ab58621fb5fcae073e9c3e67e26832a267d922ae150a5f298
 product: claude-code
 product_name: Claude Code
 record:
@@ -42,10 +42,10 @@ record:
   title: Improved scroll performance with large transcripts by replacing WASM yoga-layout…
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-03-20-reduced-memory-usage-when-viewing-large-files-in-their-entirety|Reduced
-  memory usage when viewing large files in their entirety]]'
 - '[[Changes/Claude Code/2026-03-25-3-reliability-and-performance-changes-in-v2-1-83|3
   Reliability and Performance changes in v2.1.83]]'
+- '[[Changes/Open WebUI/2026-03-25-5-reliability-and-performance-changes-in-v0-8-11|5
+  Reliability and Performance changes in v0.8.11]]'
 - '[[Changes/Claude Code/2026-03-26-2-reliability-and-performance-changes-in-v2-1-84|2
   Reliability and Performance changes in v2.1.84]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-03-26-v2-1-85-github-302129484-6eb9dcd7|claude-code-2026-03-26-v2-1-85-github-302129484-6eb9dcd7]]'

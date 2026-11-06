@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: ff3633e3c3c8a49780b2c2eb165761c3c2cb636e4e48b52e47cd5823e5465359
+machine_hash: 380220f26f632c7dc94e8c07f7f55b48d9dd435d4931dbba9f82b514334603e5
 product: openhands
 product_name: OpenHands
 record:
@@ -58,10 +58,10 @@ record:
   title: '**Support for dev container networking without host mode** by @llamantino…'
   type: change
 related_changes:
-- '[[Changes/OpenHands/2025-05-12-simplified-workspace-mounting-with-sandbox-volumes-by-xingyaoww-in-https-github|Simplified
-  workspace mounting with SANDBOX_VOLUMES]]'
-- '[[Changes/Cursor/2025-06-04-team-admins-can-now-disable-privacy-mode|Team admins
-  can now disable Privacy Mode]]'
+- '[[Changes/Dify/2025-06-11-2-safety-and-privacy-changes-in-1-4-2|2 Safety and Privacy
+  changes in 1.4.2]]'
+- '[[Changes/Open WebUI/2025-06-16-2-safety-and-privacy-changes-in-v0-6-15|2 Safety
+  and Privacy changes in v0.6.15]]'
 - '[[Changes/OpenHands/2025-06-20-daytona-runtime-sandbox-handling-by-idagelic-in-https-github-com-all-hands-ai-op|Daytona
   Runtime sandbox handling]]'
 source_release: '[[Releases/OpenHands/openhands-2025-06-20-0-44-0-github-226788383-62d9d16f|openhands-2025-06-20-0-44-0-github-226788383-62d9d16f]]'

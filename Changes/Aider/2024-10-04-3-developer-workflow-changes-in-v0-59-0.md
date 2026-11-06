@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: a0f017a6896ae7f190229801ecaefc7b5af4fe6e27c68c3056de4433b805454b
+machine_hash: 7e61871a2caf495fbbf07a7e7d5f723f954815045ab739b6adf8595e9a506422
 product: aider
 product_name: Aider
 record:
@@ -43,10 +43,10 @@ record:
   title: 3 Developer Workflow changes in v0.59.0
   type: change
 related_changes:
-- '[[Changes/Aider/2024-09-21-2-developer-workflow-changes-in-v0-57-0|2 Developer
-  Workflow changes in v0.57.0]]'
-- '[[Changes/Cline/2024-09-21-improved-automatic-linter-compiler-debugging-by-only-sending-claude-new-errors-t|Improved
-  automatic linter/compiler debugging by only sending Claude new errors…]]'
+- '[[Changes/Dify/2024-09-30-2-developer-workflow-changes-in-0-9-0|2 Developer Workflow
+  changes in 0.9.0]]'
+- '[[Changes/Dify/2024-09-30-stop-the-service-command-please-execute-in-the-docker-directory|Stop
+  the service，Command, please execute in the docker directory]]'
 - '[[Changes/OpenHands/2024-09-30-bash-commands-do-not-block-the-main-runtime-by-tofarr-in-https-github-com-all-ha|Bash
   commands do not block the main runtime]]'
 source_release: '[[Releases/Aider/aider-2024-10-04-v0-59-0-github-178490526-875f6306|aider-2024-10-04-v0-59-0-github-178490526-875f6306]]'
@@ -85,7 +85,7 @@ Source: https://github.com/Aider-AI/aider/releases/tag/v0.59.0
 ## Nearby in Developer Workflow
 
 - Earlier: 2024-09-30 · OpenHands · [[Changes/OpenHands/2024-09-30-bash-commands-do-not-block-the-main-runtime-by-tofarr-in-https-github-com-all-ha|Bash commands do not block the main runtime]]
-- Later: 2024-10-09 · Cursor · [[Changes/Cursor/2024-10-09-we-have-made-slight-improvements-to-debug-with-ai-and-added-back-lint-errors-in|We have made slight improvements to Debug with AI and added back @Lint Errors in Chat]]
+- Later: 2024-10-07 · Open WebUI · [[Changes/Open WebUI/2024-10-07-code-block-enhancements-introduced-a-floating-copy-button-in-code-blocks-to-faci|🔧 Code Block Enhancements]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

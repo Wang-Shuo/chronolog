@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: memory
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: b7fa347789cdf23a4fc89b4887a876cd2b01b97718fb812ffc28dee4c631496b
+machine_hash: bd1209ea8623a16d139cd87f28a929a8579859e82ac24e538c9385af73969f66
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -44,9 +44,9 @@ record:
   title: Saved memories and Chat history are offered only to Plus and Pro…
   type: change
 related_changes:
-- '[[Changes/OpenHands/2025-02-24-enable-memory-condensation-from-settings-page-by-csmith49-in-https-github-com-al|Enable
-  memory condensation from settings page]]'
 - '[[Changes/Windsurf/2025-04-02-improvements-to-memories|Improvements to Memories]]'
+- '[[Changes/Dify/2025-04-09-feat-agent-node-add-memory-by-nov1c444-in-https-github-com-langgenius-dify-pull|feat:
+  agent node add memory]]'
 - '[[Changes/ChatGPT/2025-04-16-chatgpt-can-also-use-memories-to-inform-search-queries-when-chatgpt-searches-the|Memory
   with Search]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-05-08-enhanced-memory-in-chatgpt-including-eu-on-plus-pro-b6107d35|chatgpt-2025-05-08-enhanced-memory-in-chatgpt-including-eu-on-plus-pro-b6107d35]]'
@@ -79,7 +79,7 @@ type: change
 ## Nearby in Memory and Personalization
 
 - Earlier: 2025-04-16 · ChatGPT · [[Changes/ChatGPT/2025-04-16-chatgpt-can-also-use-memories-to-inform-search-queries-when-chatgpt-searches-the|Memory with Search]]
-- Later: 2025-06-03 · ChatGPT · [[Changes/ChatGPT/2025-06-03-opt-in-reminders-e08369|Opt‑in reminders]]
+- Later: 2025-05-26 · Open WebUI · [[Changes/Open WebUI/2025-05-26-2-memory-and-personalization-changes-in-v0-6-11|2 Memory and Personalization changes in v0.6.11]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

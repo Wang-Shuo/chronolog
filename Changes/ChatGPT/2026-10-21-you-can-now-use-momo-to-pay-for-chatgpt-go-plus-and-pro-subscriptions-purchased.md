@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: pricing
-machine_hash: bc40f6ff594631f6b75238bf71c3c2e73e916a57f75007597d14599e9224c478
+machine_hash: ce8af00da9b613351b5622f1092835c9277f9a78ccefd45ddf40074aa8f53ce9
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -47,10 +47,10 @@ record:
   title: MoMo payments in Vietnam
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-10-13-show-billed-ai-credits-in-usage-for-token-billed-sessions-including-after-resume|Show
-  billed AI Credits in /usage for token-billed sessions, including after resume]]'
-- '[[Changes/ChatGPT/2026-10-15-the-rosalind-academic-plan-helps-eligible-academic-labs-use-chatgpt-for-life-sci|The
-  Rosalind Academic Plan helps eligible academic labs use ChatGPT for life…]]'
+- '[[Changes/Lovable/2026-10-16-review-publish-requests-and-findings-in-the-action-center|Review
+  publish requests and findings in the Action center]]'
+- '[[Changes/v0/2026-10-16-members-with-a-scheduled-ending-or-cancelled-premium-subscription-keep-their-rem|Members
+  with a scheduled-ending or cancelled Premium subscription keep…]]'
 - '[[Changes/GitHub Copilot CLI/2026-10-19-complete-usage-reporting-no-longer-shows-partial-status-or-phantom-unattributed|Complete
   usage reporting no longer shows partial status or phantom unattributed…]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-10-21-momo-payments-in-vietnam-cb7c2ee9|chatgpt-2026-10-21-momo-payments-in-vietnam-cb7c2ee9]]'
@@ -80,7 +80,7 @@ type: change
 ## Nearby in Pricing Model
 
 - Earlier: 2026-10-19 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-10-19-complete-usage-reporting-no-longer-shows-partial-status-or-phantom-unattributed|Complete usage reporting no longer shows partial status or phantom unattributed…]]
-- Later: 2026-10-28 · ChatGPT · [[Changes/ChatGPT/2026-10-28-eligible-chatgpt-pro-and-business-subscribers-can-activate-promotional-api-credi|API credits for eligible ChatGPT Pro and Business plans]]
+- Later: 2026-10-26 · ElevenLabs · [[Changes/ElevenLabs/2026-10-26-2-pricing-model-changes-in-elevenlabs-updates-2026-10-26|2 Pricing Model changes in ElevenLabs updates — 2026-10-26]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

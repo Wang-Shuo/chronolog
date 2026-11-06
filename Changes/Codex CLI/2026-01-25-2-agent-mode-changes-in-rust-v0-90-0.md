@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: a9af04d10c91fd74a63120399220743cfb8bffa3d9da70341dfee1011f9d88f9
+machine_hash: 58b5a42c17c38f8e68049f5d11ba0d5f0eb8ffa78d63128b8a2bba31cc6bb224
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -42,10 +42,10 @@ record:
   title: 2 Agent Mode changes in rust-v0.90.0
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-01-23-added-env-var-claude-code-enable-tasks-set-to-false-to-keep-the-old-system-tempo|Added
-  env var CLAUDE_CODE_ENABLE_TASKS, set to false to keep the old system…]]'
 - '[[Changes/GitHub Copilot CLI/2026-01-23-add-support-for-ghe-cloud-ghe-com-remote-custom-agents|Add
   support for GHE Cloud (\.ghe.com) remote custom agents]]'
+- '[[Changes/Replit/2026-01-23-rulessync-support-for-replit-md|RulesSync support for
+  replit.md]]'
 - '[[Changes/Codex CLI/2026-01-25-2-agent-mode-changes-in-rust-v0-91-0|2 Agent Mode
   changes in rust-v0.91.0]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-01-25-rust-v0-90-0-github-279750097-d3f5736c|codex-cli-2026-01-25-rust-v0-90-0-github-279750097-d3f5736c]]'
@@ -88,7 +88,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.90.0
 ## Nearby in Agent Mode
 
 - Earlier: 2026-01-25 · Codex CLI · [[Changes/Codex CLI/2026-01-25-2-agent-mode-changes-in-rust-v0-91-0|2 Agent Mode changes in rust-v0.91.0]]
-- Later: 2026-01-26 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-01-26-load-local-shell-configuration-in-agent-sessions|Load local shell configuration in agent sessions]]
+- Later: 2026-01-26 · ElevenLabs · [[Changes/ElevenLabs/2026-01-26-python-sdk|Python SDK]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

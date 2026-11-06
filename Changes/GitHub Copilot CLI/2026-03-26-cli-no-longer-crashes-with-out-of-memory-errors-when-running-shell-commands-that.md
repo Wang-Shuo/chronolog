@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 75a0cd539e98aeb128844a4c2bb88b94b8ea0af7cc9f2f65809f50e1efbed313
+machine_hash: 75acf42a4dd208b29388c54049a68d9bbc8773d621a38f7f1ccaba9a9a131fab
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -44,8 +44,8 @@ record:
   title: CLI no longer crashes with out-of-memory errors when running shell commands…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-03-25-3-reliability-and-performance-changes-in-v2-1-83|3
-  Reliability and Performance changes in v2.1.83]]'
+- '[[Changes/Open WebUI/2026-03-25-5-reliability-and-performance-changes-in-v0-8-11|5
+  Reliability and Performance changes in v0.8.11]]'
 - '[[Changes/Claude Code/2026-03-26-2-reliability-and-performance-changes-in-v2-1-84|2
   Reliability and Performance changes in v2.1.84]]'
 - '[[Changes/Claude Code/2026-03-26-improved-scroll-performance-with-large-transcripts-by-replacing-wasm-yoga-layout|Improved
@@ -86,7 +86,7 @@ type: change
 ## Nearby in Reliability and Performance
 
 - Earlier: 2026-03-26 · Claude Code · [[Changes/Claude Code/2026-03-26-improved-scroll-performance-with-large-transcripts-by-replacing-wasm-yoga-layout|Improved scroll performance with large transcripts by replacing WASM yoga-layout…]]
-- Later: 2026-03-30 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-03-30-2-reliability-and-performance-changes-in-v1-0-13|2 Reliability and Performance changes in v1.0.13]]
+- Later: 2026-03-27 · Dify · [[Changes/Dify/2026-03-27-2-reliability-and-performance-changes-in-1-13-3|2 Reliability and Performance changes in 1.13.3]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

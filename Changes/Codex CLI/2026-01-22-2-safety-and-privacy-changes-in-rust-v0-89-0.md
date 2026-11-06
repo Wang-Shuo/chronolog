@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 7191b402e223718d70eae61d53059667089757a73d22e6a97dffab19dbf58910
+machine_hash: 58480667beddcfd12b1f8882cae062105b41ddd4076baf28e56f148672a989f3
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -42,10 +42,9 @@ record:
   title: 2 Safety and Privacy changes in rust-v0.89.0
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2026-01-14-7-safety-and-privacy-changes-in-v0-24-0|7 Safety
-  and Privacy changes in v0.24.0]]'
-- '[[Changes/Codex CLI/2026-01-15-revert-linux-sandboxing-now-falls-back-to-landlock-only-restrictions-when-user-n|revert
-  Linux sandboxing now falls back to Landlock-only restrictions when user…]]'
+- '[[Changes/Replit/2026-01-16-node-js-security-patch|Node.js security patch]]'
+- '[[Changes/Gemini/2026-01-20-gemini-introduces-personal-intelligence|Gemini introduces
+  Personal Intelligence]]'
 - '[[Changes/Codex CLI/2026-01-21-3-safety-and-privacy-changes-in-rust-v0-88-0|3 Safety
   and Privacy changes in rust-v0.88.0]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-01-22-rust-v0-89-0-github-279171728-1aea28c3|codex-cli-2026-01-22-rust-v0-89-0-github-279171728-1aea28c3]]'

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: b5158cb1f03f81635d88a927f61aa1c51af6cdb8f36cb0c1f8fdf4a1f3daf0d5
+machine_hash: a1f9056228cc44840411ec42d7ba437ee0e184f61fbbbf80a315f87aab1f9b26
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -107,7 +107,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.59.0
 ## Nearby in Model Support
 
 - Earlier: 2025-11-19 · Codex CLI · [[Changes/Codex CLI/2025-11-19-default-model-for-api-users-is-now-gpt-5-1-codex|Default model for API users is now gpt-5.1-codex]]
-- Later: 2025-11-20 · Codex CLI · [[Changes/Codex CLI/2025-11-20-stop-model-migration-screen-after-first-time-6954-aibrahim-oai|stop model migration screen after first time]]
+- Later: 2025-11-19 · Ollama · [[Changes/Ollama/2025-11-19-cogito-v2-1-https-ollama-com-library-cogito-2-1-instruction-tuned-generative-mod|Cogito-V2.1((source link) instruction tuned generative…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

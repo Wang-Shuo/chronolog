@@ -4,20 +4,20 @@ date: '2025-01-10'
 description: 'Aider · 2025-01-10 · Voice and Audio: 2 changes in Aider v0.71.0 — Added
   support for custom voice format and input device settings.'
 diffusion:
-  first_in_tracked: '[[Changes/Aider/2023-08-11-voice-to-code-https-aider-chat-docs-voice-html-support-which-allows-you-to-code|Voice-to-code((source
-    link) support, which allows you…]]'
+  first_in_tracked: '[[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2
+    Voice and Audio changes in 0.3.7]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 518
+  lag_days: 550
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 3610ef6825da0f60e4a5d5149ab89e9abbfe67a595bafb3776fc8b14a5b22c9a
+machine_hash: 545b2ce2864d609b2d5ad713db953ee1b5dc38b1fb046dcebe35fa94ee73f6ae
 product: aider
 product_name: Aider
 record:
@@ -42,12 +42,11 @@ record:
   title: 2 Voice and Audio changes in v0.71.0
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2024-12-12-video-and-screenshare-in-our-latest-mobile-apps-we-are-starting-to-roll-out-real|Video
-  and screenshare]]'
-- '[[Changes/ChatGPT/2024-12-12-today-we-started-rolling-out-two-updates-to-voice-mode-in-chatgpt-8ade79|Today
-  we started rolling out two updates to voice mode in ChatGPT]]'
-- '[[Changes/Aider/2024-12-13-voice-now-lets-you-edit-the-transcribed-text-before-sending|/voice
-  now lets you edit the transcribed text before sending]]'
+- "[[Changes/Open WebUI/2024-12-27-text-to-speech-error-fixed-the-missing-argument-in-eleven-labs-get-available-voi|\U0001F399️
+  Text-to-Speech Error]]"
+- '[[Changes/Replit/2024-12-27-build-notifications|Build notifications]]'
+- "[[Changes/Open WebUI/2025-01-05-audio-input-echo-cancellation-audio-input-now-features-echo-cancellation-enabled|\U0001F3A4
+  Audio Input Echo Cancellation]]"
 source_release: '[[Releases/Aider/aider-2025-01-10-v0-71-0-github-194204140-359c53f2|aider-2025-01-10-v0-71-0-github-194204140-359c53f2]]'
 source_type: github_releases
 theme: voice
@@ -85,14 +84,14 @@ Source: https://github.com/Aider-AI/aider/releases/tag/v0.71.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Voice and Audio
 
-- Earlier: 2024-12-13 · Aider · [[Changes/Aider/2024-12-13-voice-now-lets-you-edit-the-transcribed-text-before-sending|/voice now lets you edit the transcribed text before sending]]
-- Later: 2025-02-14 · ChatGPT · [[Changes/ChatGPT/2025-02-14-whisper-chatgpt-s-voice-to-text-feature-now-shows-a-text-preview-of-dictated-tex|Whisper (ChatGPT's voice-to-text feature) now shows a text preview of dictated text…]]
+- Earlier: 2025-01-05 · Open WebUI · [[Changes/Open WebUI/2025-01-05-audio-input-echo-cancellation-audio-input-now-features-echo-cancellation-enabled|🎤 Audio Input Echo Cancellation]]
+- Later: 2025-02-13 · Open WebUI · [[Changes/Open WebUI/2025-02-13-kokoro-js-tts-support-a-new-on-device-high-quality-text-to-speech-engine-has-bee|🎤 Kokoro-JS TTS Support]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-08-11 · Aider · [[Changes/Aider/2023-08-11-voice-to-code-https-aider-chat-docs-voice-html-support-which-allows-you-to-code|Voice-to-code((source link) support, which allows you…]]
+- Earliest same-theme entry in the tracked set: 2023-07-10 · Dify · [[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2 Voice and Audio changes in 0.3.7]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

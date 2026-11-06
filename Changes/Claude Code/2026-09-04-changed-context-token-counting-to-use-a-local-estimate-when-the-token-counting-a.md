@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 883cf00c3041355ded6696cba4ad8e29466470ce406753e2402b240b68e8a85f
+machine_hash: 18b51eb55c17fdf84ddb5062a261056edcbde2ce43d500f96ec908f2dd302069
 product: claude-code
 product_name: Claude Code
 record:
@@ -56,8 +56,7 @@ record:
   title: Changed `/context` token counting to use a local estimate when the token-counting…
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-09-01-9-context-window-changes-in-rust-v0-152-0|9 Context
-  Window changes in rust-v0.152.0]]'
+- '[[Changes/Ollama/2026-09-02-report-cached-prompt-tokens|Report cached prompt tokens]]'
 - '[[Changes/Claude Code/2026-09-03-3-context-window-changes-in-v2-1-260|3 Context
   Window changes in v2.1.260]]'
 - '[[Changes/Codex CLI/2026-09-03-6-context-window-changes-in-rust-v0-153-0|6 Context

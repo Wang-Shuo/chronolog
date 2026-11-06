@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: d6588fc159b0fbc6812144ed1e67b28e3ec4d03fee666301fb8c47f584902796
+machine_hash: 9917ac29c6d6ee9672e7b9e4734bccf844c28b2d68861fcdee18dc05b9984cd7
 product: aider
 product_name: Aider
 record:
@@ -42,12 +42,12 @@ record:
   title: Improved error info for token limit errors
   type: change
 related_changes:
-- '[[Changes/Cursor/2024-04-12-cursorrules-you-can-write-down-repo-level-rules-for-the-ai-by-creating-a-cursorr|.cursorrules:
-  You can write down repo-level rules for the AI by creating…]]'
-- '[[Changes/Cursor/2024-06-08-adds-context-pills-to-chat-messages-so-you-can-see-what-will-be-was-used-a324a3|Adds
-  context pills to chat messages, so you can see what will be/was used]]'
+- '[[Changes/Ollama/2024-06-15-2-context-window-changes-in-v0-1-45|2 Context Window
+  changes in v0.1.45]]'
 - '[[Changes/Aider/2024-06-17-2-context-window-changes-in-v0-38-0|2 Context Window
   changes in v0.38.0]]'
+- '[[Changes/Gemini/2024-06-18-gemini-advanced-features-available-in-india|Gemini
+  Advanced features available in India]]'
 source_release: '[[Releases/Aider/aider-2024-06-24-v0-40-0-github-162152845-1b3b3617|aider-2024-06-24-v0-40-0-github-162152845-1b3b3617]]'
 source_type: github_releases
 theme: context-window
@@ -77,8 +77,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Context Window
 
-- Earlier: 2024-06-17 · Aider · [[Changes/Aider/2024-06-17-2-context-window-changes-in-v0-38-0|2 Context Window changes in v0.38.0]]
-- Later: 2024-07-27 · OpenHands · [[Changes/OpenHands/2024-07-27-fix-colima-use-a-docker-context-specific-to-runner-prevent-duplicate-start-by-to|(fix) colima: use a docker context specific to runner; prevent duplicate start]]
+- Earlier: 2024-06-18 · Gemini · [[Changes/Gemini/2024-06-18-gemini-advanced-features-available-in-india|Gemini Advanced features available in India]]
+- Later: 2024-07-21 · Ollama · [[Changes/Ollama/2024-07-21-mistral-nemo-https-ollama-com-library-mistral-nemo-a-state-of-the-art-12b-model|Mistral Nemo((source link) A state-of-the-art 12B…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

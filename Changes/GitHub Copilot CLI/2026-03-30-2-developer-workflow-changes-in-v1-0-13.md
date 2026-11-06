@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 5d72e1f21c6e38661573f069a62d0740e8114a08289efe2ef7c03304e5c647c1
+machine_hash: fcf25b996cccc13e4b14feb721fd5f352a5f7fcfd142d78cc0bd86dc720397d1
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -42,12 +42,12 @@ record:
   title: 2 Developer Workflow changes in v1.0.13
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-03-26-19-developer-workflow-changes-in-rust-v0-117-0|19
-  Developer Workflow changes in rust-v0.117.0]]'
 - '[[Changes/GitHub Copilot CLI/2026-03-26-2-developer-workflow-changes-in-v1-0-12|2
   Developer Workflow changes in v1.0.12]]'
 - '[[Changes/Claude Code/2026-03-27-added-x-claude-code-session-id-header-to-api-requests-so-proxies-can-aggregate-r|Added
   X-Claude-Code-Session-Id header to API requests so proxies can aggregate…]]'
+- '[[Changes/Open WebUI/2026-03-27-5-developer-workflow-changes-in-v0-8-12|5 Developer
+  Workflow changes in v0.8.12]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-03-30-v1-0-13-github-303313822-db3397e2|github-copilot-cli-2026-03-30-v1-0-13-github-303313822-db3397e2]]'
 source_type: github_releases
 theme: developer-workflow
@@ -87,7 +87,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.13
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2026-03-27 · Claude Code · [[Changes/Claude Code/2026-03-27-added-x-claude-code-session-id-header-to-api-requests-so-proxies-can-aggregate-r|Added X-Claude-Code-Session-Id header to API requests so proxies can aggregate…]]
+- Earlier: 2026-03-27 · Open WebUI · [[Changes/Open WebUI/2026-03-27-5-developer-workflow-changes-in-v0-8-12|5 Developer Workflow changes in v0.8.12]]
 - Later: 2026-03-31 · Codex CLI · [[Changes/Codex CLI/2026-03-31-3-developer-workflow-changes-in-rust-v0-118-0|3 Developer Workflow changes in rust-v0.118.0]]
 <!-- chronolog:end -->
 

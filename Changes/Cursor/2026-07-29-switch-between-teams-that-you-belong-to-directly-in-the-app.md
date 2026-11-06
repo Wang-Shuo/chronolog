@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: fed3bb2771f4091218a1ef8e086d1bc8b106ac2ab07e8149568c193db61785d5
+machine_hash: 30992a49d4c746786c8ab22f31cd9df97d63f53bf20645029ef9b3b613ab5bb1
 product: cursor
 product_name: Cursor
 record:
@@ -40,10 +40,10 @@ record:
   title: Switch between teams that you belong to directly in the app
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-07-21-4-collaboration-changes-in-rust-v0-145-0|4 Collaboration
-  changes in rust-v0.145.0]]'
-- '[[Changes/Cursor/2026-07-22-admin-controls-per-team-and-per-group-enablement-mode-restrictions-default-mode|Admin
-  controls: per-team and per-group enablement, mode restrictions, default mode…]]'
+- '[[Changes/Open WebUI/2026-07-27-2-collaboration-changes-in-v0-11-0|2 Collaboration
+  changes in v0.11.0]]'
+- '[[Changes/Dify/2026-07-28-3-collaboration-changes-in-1-16-1|3 Collaboration changes
+  in 1.16.1]]'
 - '[[Changes/Codex CLI/2026-07-29-3-collaboration-changes-in-rust-v0-146-0|3 Collaboration
   changes in rust-v0.146.0]]'
 source_release: '[[Releases/Cursor/cursor-2026-07-29-cursor-now-on-ipad-https-cursor-com-changelog-ipad-d2eeee4c|cursor-2026-07-29-cursor-now-on-ipad-https-cursor-com-changelog-ipad-d2eeee4c]]'

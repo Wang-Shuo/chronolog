@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 77e11d24c9f38aaf56e0e5fbecd61834a3ae92ab52378998a7c460fac514f7ef
+machine_hash: 6037255f6e40659caae7fc06f472e46caae9f97fe9f9d1e30328cf473a58c017
 product: openhands
 product_name: OpenHands
 record:
@@ -43,12 +43,11 @@ record:
   title: 'chore: consume Extensions 0.27.0'
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-10-05-2-apps-and-integrations-changes-in-rust-v0-160-1|2
-  Apps and Integrations changes in rust-v0.160.1]]'
-- '[[Changes/GitHub Copilot CLI/2026-10-05-5-apps-and-integrations-changes-in-v1-0-92|5
-  Apps and Integrations changes in v1.0.92]]'
-- '[[Changes/Claude Code/2026-10-06-9-apps-and-integrations-changes-in-v2-1-292|9
-  Apps and Integrations changes in v2.1.292]]'
+- '[[Changes/Lovable/2026-10-06-chat-connectors-excalidraw|Chat connectors: Excalidraw+]]'
+- '[[Changes/Lovable/2026-10-06-connect-to-databricks-with-your-own-account|Connect
+  to Databricks with your own account]]'
+- '[[Changes/Lovable/2026-10-06-redesigned-model-list-for-the-built-in-ai-connector|Redesigned
+  model list for the built-in AI connector]]'
 source_release: '[[Releases/OpenHands/openhands-2026-10-06-v1-25-0-github-404205170-7fe522ed|openhands-2026-10-06-v1-25-0-github-404205170-7fe522ed]]'
 source_type: github_releases
 theme: apps-integrations
@@ -85,7 +84,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-10-06 · Claude Code · [[Changes/Claude Code/2026-10-06-9-apps-and-integrations-changes-in-v2-1-292|9 Apps and Integrations changes in v2.1.292]]
+- Earlier: 2026-10-06 · Lovable · [[Changes/Lovable/2026-10-06-redesigned-model-list-for-the-built-in-ai-connector|Redesigned model list for the built-in AI connector]]
 - Later: 2026-10-07 · Claude Code · [[Changes/Claude Code/2026-10-07-3-apps-and-integrations-changes-in-v2-1-293|3 Apps and Integrations changes in v2.1.293]]
 <!-- chronolog:end -->
 

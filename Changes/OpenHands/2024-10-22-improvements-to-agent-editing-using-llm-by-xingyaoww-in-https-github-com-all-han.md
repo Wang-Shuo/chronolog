@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: 55ebdbe377c7dc2b64ef9c65748dec6e9cbd722dfd12bb122ae11c39697f7fad
+machine_hash: 72b301378ac1569e1b131462eab03cd83bcea0c41792da8571736d401eaffe22
 product: openhands
 product_name: OpenHands
 record:
@@ -53,12 +53,12 @@ record:
   title: Improvements to Agent Editing using LLM
   type: change
 related_changes:
-- '[[Changes/Aider/2024-08-27-improved-shell-command-prompting|Improved shell command
-  prompting]]'
-- '[[Changes/OpenHands/2024-08-29-specialize-codeact-into-micro-agents-by-xingyaoww-in-https-github-com-all-hands|Specialize
-  CodeAct into micro agents]]'
-- '[[Changes/OpenHands/2024-09-04-files-display-updated-content-after-agent-edit-by-amanape-in-https-github-com-al|Files
-  display updated content after agent edit]]'
+- '[[Changes/Dify/2024-09-30-2-agent-mode-changes-in-0-9-0|2 Agent Mode changes in
+  0.9.0]]'
+- '[[Changes/ElevenLabs/2024-10-13-agents-platform-beta-agents-platform-is-now-in-beta|Agents
+  Platform Beta: Agents Platform is now in beta]]'
+- '[[Changes/Dify/2024-10-14-external-knowledge-and-retrievals-addressing-issues-in-agent-retrieval-and-entry|External
+  Knowledge and Retrievals: Addressing issues in agent retrieval…]]'
 source_release: '[[Releases/OpenHands/openhands-2024-10-22-0-11-0-github-181314535-1a10c725|openhands-2024-10-22-0-11-0-github-181314535-1a10c725]]'
 source_type: github_releases
 theme: agent-mode
@@ -87,7 +87,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2024-09-04 · OpenHands · [[Changes/OpenHands/2024-09-04-files-display-updated-content-after-agent-edit-by-amanape-in-https-github-com-al|Files display updated content after agent edit]]
+- Earlier: 2024-10-14 · Dify · [[Changes/Dify/2024-10-14-external-knowledge-and-retrievals-addressing-issues-in-agent-retrieval-and-entry|External Knowledge and Retrievals: Addressing issues in agent retrieval…]]
 - Later: 2024-11-08 · OpenHands · [[Changes/OpenHands/2024-11-08-2-agent-mode-changes-in-0-13-0|2 Agent Mode changes in 0.13.0]]
 <!-- chronolog:end -->
 

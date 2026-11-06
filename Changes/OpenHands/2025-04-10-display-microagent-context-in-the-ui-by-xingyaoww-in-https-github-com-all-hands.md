@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: a37ece67babbe4b900e53368d8c3d09d2930d027885910caf38ff440cb66e0fd
+machine_hash: b253b5a48f3cdd399b03c20da583eadaed4d933a2078edb3132b9dd4e9cea5a8
 product: openhands
 product_name: OpenHands
 record:
@@ -41,10 +41,10 @@ record:
   title: Display microagent context in the UI
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-03-23-added-input-token-count-for-chat-messages-click-the-three-dots-to-view-we-re-con|Added
-  input token count for chat messages (click the three dots to view)]]'
 - '[[Changes/Aider/2025-03-25-added-a-new-context-command-that-automatically-identifies-which-files-need-to-be|Added
   a new /context command that automatically identifies which files need…]]'
+- '[[Changes/Gemini/2025-03-29-our-2-5-pro-experimental-model-is-now-available-to-all-gemini-users-with-canvas|Our
+  2.5 Pro (experimental) model is now available to all Gemini users, with Canvas]]'
 - '[[Changes/Cline/2025-04-08-make-context-shortening-more-intelligent-when-model-hits-context-window-now-old|Make
   context shortening more intelligent when model hits context window–now old file…]]'
 source_release: '[[Releases/OpenHands/openhands-2025-04-10-0-32-0-github-211548474-c44dab94|openhands-2025-04-10-0-32-0-github-211548474-c44dab94]]'

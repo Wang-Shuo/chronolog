@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: adf75eba0bfa4fbc9f6f980afecb66b6427ce9b9def4520195f1be78e0bff542
+machine_hash: e79c3ece032ed93424f47ccb62062039757c69d461dec6c86c4b142b0d7aa93c
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -48,12 +48,12 @@ record:
   title: 4 Interface Experience changes in rust-v0.142.0
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-06-18-easier-pinning-and-sidebar-organization-it-s-now-easier-to-keep-important-work-c|Easier
-  pinning and sidebar organization]]'
 - '[[Changes/Claude Code/2026-06-19-added-config-help-to-list-all-available-shorthand-keys-for-config-key-value|Added
   /config --help to list all available shorthand keys for /config key=value]]'
 - '[[Changes/Claude Code/2026-06-19-changed-config-toggle-behavior-enter-and-space-both-change-the-selected-setting|Changed
   /config toggle behavior]]'
+- '[[Changes/v0/2026-06-19-view-only-members-can-download-a-chat-s-code-as-a-zip-from-the-project-menu|View-only
+  members can download a chat''s code as a ZIP from the project menu]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-06-22-rust-v0-142-0-github-343189954-a218ab4e|codex-cli-2026-06-22-rust-v0-142-0-github-343189954-a218ab4e]]'
 source_type: github_releases
 theme: interface-experience
@@ -106,7 +106,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.142.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-06-19 · Claude Code · [[Changes/Claude Code/2026-06-19-changed-config-toggle-behavior-enter-and-space-both-change-the-selected-setting|Changed /config toggle behavior]]
+- Earlier: 2026-06-19 · v0 · [[Changes/v0/2026-06-19-view-only-members-can-download-a-chat-s-code-as-a-zip-from-the-project-menu|View-only members can download a chat's code as a ZIP from the project menu]]
 - Later: 2026-06-23 · Claude Code · [[Changes/Claude Code/2026-06-23-2-interface-experience-changes-in-v2-1-187|2 Interface Experience changes in v2.1.187]]
 <!-- chronolog:end -->
 

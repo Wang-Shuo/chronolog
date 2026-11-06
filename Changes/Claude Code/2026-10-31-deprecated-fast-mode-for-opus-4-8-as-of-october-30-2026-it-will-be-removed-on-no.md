@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: policy
-machine_hash: ad4cca02e28b9ecf998bb436075379b84df904f10f524ac5013056965cbbfe15
+machine_hash: a29e5a1939df57aea40fb526d17f3eec42627f564b37295049111a201e86c85b
 product: claude-code
 product_name: Claude Code
 record:
@@ -48,12 +48,12 @@ record:
   title: Deprecated fast mode for Opus 4.8 as of October 30, 2026
   type: change
 related_changes:
-- '[[Changes/OpenHands/2026-10-27-refactor-settings-use-existing-model-profile-theme-aliases-by-enyst-in-https-git|refactor(settings):
-  use existing model-profile theme aliases]]'
-- '[[Changes/Codex CLI/2026-10-29-10-model-support-changes-in-rust-v0-166-0|10 Model
-  Support changes in rust-v0.166.0]]'
+- '[[Changes/Open WebUI/2026-10-29-7-model-support-changes-in-v0-12-5|7 Model Support
+  changes in v0.12.5]]'
 - '[[Changes/Claude Code/2026-10-30-2-model-support-changes-in-v2-1-314|2 Model Support
   changes in v2.1.314]]'
+- '[[Changes/Replit/2026-10-30-gpt-6-1-terra-in-the-model-selector|GPT-6.1 Terra in
+  the model selector]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-10-31-v2-1-316-github-429617179-a30f32c9|claude-code-2026-10-31-v2-1-316-github-429617179-a30f32c9]]'
 source_type: github_releases
 theme: model-support
@@ -89,8 +89,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-10-30 · Claude Code · [[Changes/Claude Code/2026-10-30-2-model-support-changes-in-v2-1-314|2 Model Support changes in v2.1.314]]
-- Later: 2026-11-04 · Gemini CLI · [[Changes/Gemini CLI/2026-11-04-feat-cli-add-models-command-and-list-models-flag-for-model-discovery-by-urielefr|feat(cli): add models command and --list-models flag for model discovery]]
+- Earlier: 2026-10-30 · Replit · [[Changes/Replit/2026-10-30-gpt-6-1-terra-in-the-model-selector|GPT-6.1 Terra in the model selector]]
+- Later: 2026-11-02 · ElevenLabs · [[Changes/ElevenLabs/2026-11-02-sfx-v3|SFX v3]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

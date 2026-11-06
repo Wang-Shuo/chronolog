@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: f0273ff985b0ffe2826667f57f346f7e931e9fd58bbde72527f5fbe962439ca9
+machine_hash: 78359119ceeb31c566b18f8a8665c6f8ddbdcdab4f2b0be1d9a95b263e2249ae
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -52,8 +52,8 @@ record:
   title: Adding Notion & Linear synced connectors
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2025-10-07-14-apps-and-integrations-changes-in-v0-8-0|14 Apps
-  and Integrations changes in v0.8.0]]'
+- '[[Changes/Open WebUI/2025-10-07-3-apps-and-integrations-changes-in-v0-6-33|3 Apps
+  and Integrations changes in v0.6.33]]'
 - '[[Changes/Cline/2025-10-08-move-mcp-marketplace-catalog-from-global-state-to-disk-cache-by-celestial-vault|Move
   MCP marketplace catalog from global state to disk cache]]'
 - '[[Changes/GitHub Copilot CLI/2025-10-08-added-validation-for-mcp-server-names-fixes-https-github-com-github-copilot-cli|Added

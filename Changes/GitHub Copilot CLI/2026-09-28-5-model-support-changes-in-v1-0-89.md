@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: a0ffbd5c65746fc3a21dfb71ac284467f52bc84fbf8396b3e24553021a1a14b0
+machine_hash: f8dc8d0f929837b3e1b10622627a02ec45c5e381eafaa49b810dd390a1ef405b
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -53,12 +53,10 @@ record:
   title: 5 Model Support changes in v1.0.89
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-09-25-8-model-support-changes-in-rust-v0-157-0|8 Model
-  Support changes in rust-v0.157.0]]'
-- '[[Changes/Claude Code/2026-09-28-6-model-support-changes-in-v2-1-284|6 Model Support
-  changes in v2.1.284]]'
 - '[[Changes/Codex CLI/2026-09-28-7-model-support-changes-in-rust-v0-158-0|7 Model
   Support changes in rust-v0.158.0]]'
+- '[[Changes/ElevenLabs/2026-09-28-elevenagents-4d99c8|ElevenAgents]]'
+- '[[Changes/ElevenLabs/2026-09-28-models|Models]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-09-28-v1-0-89-github-398551718-87b48178|github-copilot-cli-2026-09-28-v1-0-89-github-398551718-87b48178]]'
 source_type: github_releases
 theme: model-support
@@ -105,8 +103,8 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.89
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-09-28 · Codex CLI · [[Changes/Codex CLI/2026-09-28-7-model-support-changes-in-rust-v0-158-0|7 Model Support changes in rust-v0.158.0]]
-- Later: 2026-09-29 · ChatGPT · [[Changes/ChatGPT/2026-09-29-gpt-6-1-sol-improves-on-gpt-6-sol-in-agentic-coding-computer-use-and-professiona-815850|GPT-6.1 Sol in ChatGPT Work and Codex]]
+- Earlier: 2026-09-28 · ElevenLabs · [[Changes/ElevenLabs/2026-09-28-models|Models]]
+- Later: 2026-09-28 · Ollama · [[Changes/Ollama/2026-09-28-3-model-support-changes-in-v0-35-0|3 Model Support changes in v0.35.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

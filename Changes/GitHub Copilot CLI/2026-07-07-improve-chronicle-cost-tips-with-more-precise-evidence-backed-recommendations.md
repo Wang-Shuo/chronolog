@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: pricing
-machine_hash: 1de03f9ff6579f605d255a3c63cfbf32e2164cfc8f3d13777f352a5d5da52fea
+machine_hash: f3a61fbe72b37ca2ab0938f41d054958439bb594d44f76727ffbf10c692fd976
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -43,10 +43,8 @@ record:
   title: Improve /chronicle cost-tips with more precise evidence-backed recommendations
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-06-30-configure-subagent-concurrency-and-depth-limits-in-settings-usage-based-billing|Configure
-  subagent concurrency and depth limits in /settings (usage-based billing users)]]'
-- '[[Changes/GitHub Copilot CLI/2026-06-30-require-session-limits-to-be-at-least-30-ai-credits|Require
-  session limits to be at least 30 AI credits]]'
+- '[[Changes/ElevenLabs/2026-07-06-python-sdk|Python SDK]]'
+- '[[Changes/ElevenLabs/2026-07-06-javascript-sdk|JavaScript SDK]]'
 - '[[Changes/OpenHands/2026-07-06-refactor-extract-billing-test-fixtures-for-pltf-1269-by-aivong-openhands-in-http|refactor:
   extract billing test fixtures for PLTF-1269]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-07-07-v1-0-69-github-350582031-19558357|github-copilot-cli-2026-07-07-v1-0-69-github-350582031-19558357]]'
@@ -90,7 +88,7 @@ type: change
 ## Nearby in Pricing Model
 
 - Earlier: 2026-07-06 · OpenHands · [[Changes/OpenHands/2026-07-06-refactor-extract-billing-test-fixtures-for-pltf-1269-by-aivong-openhands-in-http|refactor: extract billing test fixtures for PLTF-1269]]
-- Later: 2026-07-08 · Codex CLI · [[Changes/Codex CLI/2026-07-08-28593-codex-suppress-low-usage-remaining-warnings-when-credits-are-available-bro|♯28593 codex suppress low usage remaining warnings when credits are available…]]
+- Later: 2026-07-07 · v0 · [[Changes/v0/2026-07-07-deprecations|Deprecations]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

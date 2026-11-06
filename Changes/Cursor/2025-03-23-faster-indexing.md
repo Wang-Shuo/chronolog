@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: ae343f68c50750d02dc3c51732159fe8664d6bc4265d7e27dc5e940f8becc5b7
+machine_hash: a5bea92fb8c761e7915542afe0c9b97655cb22389ec1df033f2fc694396316d9
 product: cursor
 product_name: Cursor
 record:
@@ -48,8 +48,8 @@ record:
   title: Faster indexing
   type: change
 related_changes:
-- '[[Changes/OpenHands/2025-03-18-improve-the-stability-of-openhands-application-and-evaluation-harness-by-retry-o|Improve
-  the stability of OpenHands application and evaluation harness by retry…]]'
+- '[[Changes/Ollama/2025-03-22-2-reliability-and-performance-changes-in-v0-6-3|2 Reliability
+  and Performance changes in v0.6.3]]'
 - '[[Changes/Cline/2025-03-23-add-sort-underlying-provider-routing-setting-to-cline-openrouter-allowing-you-to|Add
   ''Sort underlying provider routing'' setting to Cline/OpenRouter allowing you…]]'
 - '[[Changes/Cursor/2025-03-23-2-reliability-and-performance-changes-in-0-48-x|2 Reliability
@@ -97,7 +97,7 @@ type: change
 ## Nearby in Reliability and Performance
 
 - Earlier: 2025-03-23 · Cline · [[Changes/Cline/2025-03-23-add-sort-underlying-provider-routing-setting-to-cline-openrouter-allowing-you-to|Add 'Sort underlying provider routing' setting to Cline/OpenRouter allowing you…]]
-- Later: 2025-04-06 · Cline · [[Changes/Cline/2025-04-06-add-improvements-to-file-mention-searching-for-faster-searching|Add improvements to file mention searching for faster searching]]
+- Later: 2025-03-24 · Dify · [[Changes/Dify/2025-03-24-2-reliability-and-performance-changes-in-1-1-3|2 Reliability and Performance changes in 1.1.3]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

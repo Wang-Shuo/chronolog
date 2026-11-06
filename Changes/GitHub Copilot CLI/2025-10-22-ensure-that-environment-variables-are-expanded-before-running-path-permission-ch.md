@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: e94f12e498b7a354f3dee750d2480c5e8312ee1d213b5493e994c92b86e59910
+machine_hash: de96d77c3347d41fdd8a07e9152f114eb888d6f6d74877a94bae9f8a5b9a30ef
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -47,10 +47,9 @@ record:
     checks
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2025-10-07-3-safety-and-privacy-changes-in-v0-8-0|3 Safety
-  and Privacy changes in v0.8.0]]'
-- '[[Changes/Codex CLI/2025-10-17-2-safety-and-privacy-changes-in-rust-v0-47-0|2 Safety
-  and Privacy changes in rust-v0.47.0]]'
+- '[[Changes/ElevenLabs/2025-10-20-elevencreative-studio|ElevenCreative Studio]]'
+- '[[Changes/Dify/2025-10-22-fix-web-app-permission-check-by-douxc-in-https-github-com-langgenius-dify-pull-2|Fix/web
+  app permission check]]'
 - '[[Changes/Gemini CLI/2025-10-22-2-safety-and-privacy-changes-in-v0-10-0|2 Safety
   and Privacy changes in v0.10.0]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2025-10-22-v0-0-349-github-256506800-cc17172c|github-copilot-cli-2025-10-22-v0-0-349-github-256506800-cc17172c]]'

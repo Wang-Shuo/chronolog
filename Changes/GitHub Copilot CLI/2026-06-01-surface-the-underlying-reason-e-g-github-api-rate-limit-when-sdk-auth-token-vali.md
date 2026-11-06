@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: policy
-machine_hash: 1d718ac6945b325f9a9cf5e1d2b75f630e22f0060053a28275a8cbd617d2559b
+machine_hash: 6556694bcc9c5307a284a901481cf1af776dea27231c7363fb13c262c083f6f7
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -87,7 +87,7 @@ type: change
 ## Nearby in Account and Access
 
 - Earlier: 2026-05-26 · Codex CLI · [[Changes/Codex CLI/2026-05-26-2-account-and-access-changes-in-rust-v0-134-0|2 Account and Access changes in rust-v0.134.0]]
-- Later: 2026-06-02 · ChatGPT · [[Changes/ChatGPT/2026-06-02-active-sessions-shows-sessions-known-through-session-management-including-chatgp|Active sessions shows sessions known through session management, including ChatGPT…]]
+- Later: 2026-06-01 · Open WebUI · [[Changes/Open WebUI/2026-06-01-6-account-and-access-changes-in-v0-9-6|6 Account and Access changes in v0.9.6]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

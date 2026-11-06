@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 5337ac8decb6637e6e01199411e2f6fb5d296cd411ebcaeaa7839340096809ae
+machine_hash: 365e78ee185c28306ee3b37ef5856caec3307b56b01164de48ca20a4b7a42ab3
 product: openhands
 product_name: OpenHands
 record:
@@ -51,10 +51,10 @@ record:
   title: Added /clear command for V1 conversations
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-03-26-5-safety-and-privacy-changes-in-rust-v0-117-0|5
-  Safety and Privacy changes in rust-v0.117.0]]'
-- '[[Changes/Claude Code/2026-03-27-fixed-official-marketplace-plugin-scripts-failing-with-permission-denied-on-maco|Fixed
-  official marketplace plugin scripts failing…]]'
+- '[[Changes/Dify/2026-03-27-6-safety-and-privacy-changes-in-1-13-3|6 Safety and Privacy
+  changes in 1.13.3]]'
+- "[[Changes/Open WebUI/2026-03-27-terminal-server-connection-security-terminal-server-verification-and-policy-savi|\U0001F512
+  Terminal server connection security. Terminal server verification and policy…]]"
 - '[[Changes/GitHub Copilot CLI/2026-03-30-mcp-servers-using-microsoft-entra-id-authentication-no-longer-show-the-consent-s|MCP
   servers using Microsoft Entra ID authentication no longer show the consent…]]'
 source_release: '[[Releases/OpenHands/openhands-2026-03-30-1-6-0-github-303268521-e953c7dd|openhands-2026-03-30-1-6-0-github-303268521-e953c7dd]]'

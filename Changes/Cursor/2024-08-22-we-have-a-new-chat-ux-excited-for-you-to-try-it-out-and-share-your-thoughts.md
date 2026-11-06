@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 90409e725554eedf71ea52b5a76e04db4dfef84e2caaceb0f6832b71776d07c5
+machine_hash: da6fd70be0c0913ab8f7fa596ce509611763fe03424158611a45d4f8cc132dbf
 product: cursor
 product_name: Cursor
 record:
@@ -45,12 +45,12 @@ record:
   title: We have a new chat UX!
   type: change
 related_changes:
-- '[[Changes/Aider/2024-06-04-repo-map-is-now-optimized-based-on-text-of-chat-history-as-well-as-files-added-t|Repo
-  map is now optimized based on text of chat history as well as files added to chat]]'
-- '[[Changes/Cursor/2024-07-23-we-ve-also-added-a-file-picker-arrow-key-navigation-and-a-model-toggle-to-compos|Cursor
-  adds a file picker, arrow key navigation, and a model toggle to Composer]]'
-- '[[Changes/Aider/2024-07-31-switching-to-code-and-ask-mode-no-longer-summarizes-the-chat-history|Switching
-  to code and ask mode no longer summarizes the chat history]]'
+- '[[Changes/Dify/2024-08-14-2-interface-experience-changes-in-0-7-0|2 Interface Experience
+  changes in 0.7.0]]'
+- "[[Changes/Open WebUI/2024-08-14-enhanced-markdown-rendering-significant-improvements-in-rendering-markdown-ensur|\U0001F3A8
+  Enhanced Markdown Rendering]]"
+- '[[Changes/Open WebUI/2024-08-21-3-interface-experience-changes-in-v0-3-14|3 Interface
+  Experience changes in v0.3.14]]'
 source_release: '[[Releases/Cursor/cursor-2024-08-22-0-40-x-https-cursor-com-changelog-0-40-x-317cba42|cursor-2024-08-22-0-40-x-https-cursor-com-changelog-0-40-x-317cba42]]'
 source_type: cursor_changelog
 theme: interface-experience
@@ -80,7 +80,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2024-07-31 · Aider · [[Changes/Aider/2024-07-31-switching-to-code-and-ask-mode-no-longer-summarizes-the-chat-history|Switching to code and ask mode no longer summarizes the chat history]]
+- Earlier: 2024-08-21 · Open WebUI · [[Changes/Open WebUI/2024-08-21-3-interface-experience-changes-in-v0-3-14|3 Interface Experience changes in v0.3.14]]
 - Later: 2024-08-23 · Aider · [[Changes/Aider/2024-08-23-new-reset-command-to-drop-files-and-clear-chat-history|New /reset command to /drop files and /clear chat history]]
 <!-- chronolog:end -->
 

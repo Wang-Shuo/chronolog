@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: memory
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 342a6b5523abd8360c9a01b08825ffc00b896247de2fc29454a0d940f35f64d5
+machine_hash: 21b436207c4cc4fa6eac3b1036b3483fdebabbf22f7d6d1ad535644bbcf4965e
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -79,7 +79,7 @@ type: change
 ## Nearby in Memory and Personalization
 
 - Earlier: 2025-09-25 · ChatGPT · [[Changes/ChatGPT/2025-09-25-we-re-launching-an-early-preview-of-chatgpt-pulse-for-pro-users-on-ios-and-andro-cf8064|Introducing ChatGPT Pulse for Pro users]]
-- Later: 2025-10-08 · ChatGPT · [[Changes/ChatGPT/2025-10-08-longer-memory-for-more-personalized-responses-8c6877|Longer memory for more personalized responses]]
+- Later: 2025-10-06 · v0 · [[Changes/v0/2025-10-06-custom-instructions-are-now-available-in-v0-use-preset-instructions-like-be-conc|Custom Instructions]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

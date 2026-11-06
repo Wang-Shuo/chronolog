@@ -4,20 +4,20 @@ date: '2025-05-28'
 description: 'Cline · 2025-05-28 · Files and Data: Add support for uploading various
   file types (XML, JSON, TXT, LOG, MD, DOCX, IPYNB, PDF) alongside images'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-07-06-we-re-rolling-out-code-interpreter-to-all-chatgpt-plus-users-over-the-next-week-66255e|Code
-    interpreter is now rolling out in beta on web]]'
+  first_in_tracked: '[[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2
+    Files and Data changes in 0.2.2]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 692
+  lag_days: 734
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 6682ad8bd179200ebaac4fdf103021f3e1537545dbcdd1ced9df58bca01bc2ea
+machine_hash: af7a271fa30f97ae793083aac47f57b67d35ae6bcf4d375ca993c3586d2b981b
 product: cline
 product_name: Cline
 record:
@@ -46,11 +46,11 @@ record:
   title: Add support for uploading various file types…
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2025-01-15-edit-a-full-model-response-in-canvas|Edit a full model
-  response in Canvas]]'
-- '[[Changes/ChatGPT/2025-01-15-edit-a-code-block-in-canvas|Edit a code block in Canvas]]'
-- '[[Changes/ChatGPT/2025-02-06-users-can-now-share-a-canvas-asset-such-as-rendered-react-html-code-document-or-2f5aff|Canvas
-  sharing]]'
+- '[[Changes/Gemini/2025-05-20-create-with-canvas|Create with Canvas]]'
+- '[[Changes/Open WebUI/2025-05-26-2-files-and-data-changes-in-v0-6-11|2 Files and
+  Data changes in v0.6.11]]'
+- '[[Changes/Dify/2025-05-27-3-files-and-data-changes-in-1-4-1|3 Files and Data changes
+  in 1.4.1]]'
 source_release: '[[Releases/Cline/cline-2025-05-28-v3-17-6-github-221411446-d46f957a|cline-2025-05-28-v3-17-6-github-221411446-d46f957a]]'
 source_type: github_releases
 theme: file-data
@@ -82,14 +82,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Files and Data
 
-- Earlier: 2025-02-06 · ChatGPT · [[Changes/ChatGPT/2025-02-06-users-can-now-share-a-canvas-asset-such-as-rendered-react-html-code-document-or-2f5aff|Canvas sharing]]
-- Later: 2025-06-03 · Cline · [[Changes/Cline/2025-06-03-add-support-for-uploading-csv-and-xlsx-files-for-data-analysis-and-processing|Add support for uploading CSV and XLSX files for data analysis and processing]]
+- Earlier: 2025-05-27 · Dify · [[Changes/Dify/2025-05-27-3-files-and-data-changes-in-1-4-1|3 Files and Data changes in 1.4.1]]
+- Later: 2025-05-28 · Open WebUI · [[Changes/Open WebUI/2025-05-28-datalab-marker-api-content-extraction-support-seamlessly-extract-content-from-fi|🪧 Datalab Marker API Content Extraction Support]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-07-06 · ChatGPT · [[Changes/ChatGPT/2023-07-06-we-re-rolling-out-code-interpreter-to-all-chatgpt-plus-users-over-the-next-week-66255e|Code interpreter is now rolling out in beta on web]]
+- Earliest same-theme entry in the tracked set: 2023-05-25 · Dify · [[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2 Files and Data changes in 0.2.2]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 00287136c712a1941022e773c3d2406da7f5957a56cdbebe79ba2966c53f539f
+machine_hash: 0f4087661d367f5f4f99a201054b2eaa33619aa1e7cdfbc1422f23e3b20bf49d
 product: openhands
 product_name: OpenHands
 record:
@@ -43,12 +43,12 @@ record:
   title: 2 Model Support changes in v1.16.0
   type: change
 related_changes:
-- '[[Changes/Cline/2026-08-26-credentials-embedded-in-git-remote-urls-are-now-redacted-from-the-workspace-info|Credentials
-  embedded in git remote URLs are now redacted from the workspace…]]'
-- '[[Changes/Codex CLI/2026-08-26-10-model-support-changes-in-rust-v0-150-0|10 Model
-  Support changes in rust-v0.150.0]]'
+- '[[Changes/Ollama/2026-08-26-mlxrunner-avoid-metal-gpu-timeouts-when-loading-models-from-slow-storage|mlxrunner:
+  avoid Metal GPU timeouts when loading models from slow storage]]'
 - '[[Changes/GitHub Copilot CLI/2026-08-27-4-model-support-changes-in-v1-0-81|4 Model
   Support changes in v1.0.81]]'
+- '[[Changes/Ollama/2026-08-27-the-claude-desktop-proxy-no-longer-interrupts-in-flight-requests-when-the-model|The
+  Claude Desktop proxy no longer interrupts in-flight requests when the model…]]'
 source_release: '[[Releases/OpenHands/openhands-2026-08-27-v1-16-0-github-378032404-772fe69a|openhands-2026-08-27-v1-16-0-github-378032404-772fe69a]]'
 source_type: github_releases
 theme: model-support
@@ -87,7 +87,7 @@ Source: https://github.com/OpenHands/OpenHands/releases/tag/v1.16.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-08-27 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-08-27-4-model-support-changes-in-v1-0-81|4 Model Support changes in v1.0.81]]
+- Earlier: 2026-08-27 · Ollama · [[Changes/Ollama/2026-08-27-the-claude-desktop-proxy-no-longer-interrupts-in-flight-requests-when-the-model|The Claude Desktop proxy no longer interrupts in-flight requests when the model…]]
 - Later: 2026-08-28 · Claude Code · [[Changes/Claude Code/2026-08-28-5-model-support-changes-in-v2-1-251|5 Model Support changes in v2.1.251]]
 <!-- chronolog:end -->
 

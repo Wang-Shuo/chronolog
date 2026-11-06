@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 39a7326d0abf8f7b7e7a29a53b6e10cf109e848d0593234e8baae0e34dbb9399
+machine_hash: 399fbe211ddc4bce1a8424b46d46d6fd21007ff7290ba70966e199f9f8dd46cb
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -50,10 +50,10 @@ record:
     people…
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2025-10-16-added-debug-logging-when-calls-to-model-result-in-copilot-api-errors-this-should|Added
-  debug logging when calls to /model result in Copilot API errors]]'
 - '[[Changes/GitHub Copilot CLI/2025-10-16-2-model-support-changes-in-v0-0-343|2 Model
   Support changes in v0.0.343]]'
+- '[[Changes/Open WebUI/2025-10-16-2-model-support-changes-in-v0-6-34|2 Model Support
+  changes in v0.6.34]]'
 - '[[Changes/GitHub Copilot CLI/2025-10-18-added-list-of-supported-models-as-part-of-copilot-help-config-text|Added
   list of supported models as part of copilot help config text]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-10-22-we-re-updating-the-model-for-signed-out-users-to-gpt-5-instant-g-0943c46f|chatgpt-2025-10-22-we-re-updating-the-model-for-signed-out-users-to-gpt-5-instant-g-0943c46f]]'
@@ -84,7 +84,7 @@ type: change
 ## Nearby in Model Support
 
 - Earlier: 2025-10-18 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2025-10-18-added-list-of-supported-models-as-part-of-copilot-help-config-text|Added list of supported models as part of copilot help config text]]
-- Later: 2025-10-22 · Gemini CLI · [[Changes/Gemini CLI/2025-10-22-3-model-support-changes-in-v0-10-0|3 Model Support changes in v0.10.0]]
+- Later: 2025-10-22 · Dify · [[Changes/Dify/2025-10-22-8-model-support-changes-in-1-9-2|8 Model Support changes in 1.9.2]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

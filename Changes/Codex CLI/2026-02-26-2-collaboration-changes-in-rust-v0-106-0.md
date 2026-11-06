@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 0bee45bb74364d3c1825c0ea3ee19347d377bd4776cc862e21f863fc8fba95a8
+machine_hash: 7866d6050d66332f9a77582378c87d3aefb86795d2dc88fec26d89594b9758be
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -43,12 +43,12 @@ record:
   title: 2 Collaboration changes in rust-v0.106.0
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-02-13-cleaner-select-all-behavior-cmd-a-cmd-a-now-selects-only-the-conversation-conten|Cleaner
-  “Select All” behavior (Cmd+A)]]'
 - '[[Changes/Codex CLI/2026-02-25-12028-remove-feature-flag-collaboration-modes-aibrahim-oai|♯12028
   remove feature flag collaboration modes @aibrahim-oai]]'
 - '[[Changes/Gemini CLI/2026-02-25-enable-in-cli-extension-management-commands-for-team-by-chrstnb-in-https-github|Enable
   in-CLI extension management commands for team]]'
+- '[[Changes/v0/2026-02-25-added-team-setting-to-allow-v0-to-open-prs-on-behalf-of-members-without-github-a|Added
+  team setting to allow v0 to open PRs on behalf of members without GitHub accounts]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-02-26-rust-v0-106-0-github-291146451-379358db|codex-cli-2026-02-26-rust-v0-106-0-github-291146451-379358db]]'
 source_type: github_releases
 theme: collaboration
@@ -91,8 +91,8 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.106.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Collaboration
 
-- Earlier: 2026-02-25 · Gemini CLI · [[Changes/Gemini CLI/2026-02-25-enable-in-cli-extension-management-commands-for-team-by-chrstnb-in-https-github|Enable in-CLI extension management commands for team]]
-- Later: 2026-03-06 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-03-06-block-share-gist-for-emu-and-ghe-cloud-users-with-clear-error-messaging|Block /share gist for EMU and GHE Cloud users with clear error messaging]]
+- Earlier: 2026-02-25 · v0 · [[Changes/v0/2026-02-25-added-team-setting-to-allow-v0-to-open-prs-on-behalf-of-members-without-github-a|Added team setting to allow v0 to open PRs on behalf of members without GitHub accounts]]
+- Later: 2026-03-01 · Open WebUI · [[Changes/Open WebUI/2026-03-01-individual-user-sharing-control-administrators-can-now-disable-individual-user-s|🔐 Individual user sharing control. Administrators can now disable individual…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

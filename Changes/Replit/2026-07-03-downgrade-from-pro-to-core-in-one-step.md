@@ -1,0 +1,101 @@
+---
+card_id: replit-2026-07-03-0d37a0
+date: '2026-07-03'
+description: 'Replit · 2026-07-03 · Pricing Model: You can now move from Replit Pro
+  to Replit Core directly, without canceling your subscription first. Previously the
+  only…'
+diffusion:
+  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-daily-limit-to-ensure-a-high-quality-experience-for-all-chatgpt-users-we-are-exp|Daily
+    limit: To ensure a high-quality experience for all ChatGPT users, we…]]'
+  inference: No adoption, equivalence, or causation claim.
+  lag_days: 1296
+  relation: same-theme-chronology
+  role: later-observed
+  scope: tracked-products-only
+  theme: pricing-model
+  tracked_products_count: 20
+evolves_from: []
+extractor_version: fallback-v5
+impact: incremental
+kind: pricing
+machine_hash: d26e57529c7fac33d3b5692355d20875725f9da89a3f389b1822f4f86ae87c9c
+product: replit
+product_name: Replit
+record:
+  card_id: replit-2026-07-03-0d37a0
+  comparison: ''
+  date: '2026-07-03'
+  description: 'Replit — Replit updates — 2026-07-03: You can now move from Replit
+    Pro to Replit Core directly, without canceling your subscription first. Previously
+    the only way down was to cancel, which dropped you to the free plan before you
+    could resubscribe. If you start to cancel, Replit now offers to downgrade to Core
+    instead, so you keep a paid plan and your published apps stay running.'
+  evidence:
+  - quote: You can now move from Replit Pro to Replit Core directly, without canceling
+      your subscription first. Previously the only way down was to cancel, which dropped
+      you to the free plan before you could resubscribe. If you start to cancel, Replit
+      now offers to downgrade to Core instead, so you keep a paid plan and your published
+      apps stay running.
+    source_release: https://docs.replit.com/updates/2026/07/03/changelog
+  extractor_version: fallback-v5
+  impact: incremental
+  kind: pricing
+  product: replit
+  product_name: Replit
+  slug: downgrade-from-pro-to-core-in-one-step
+  source_release: replit-2026-07-03-2026-07-03-1318c060
+  source_type: replit_changelog
+  theme: pricing-model
+  title: Downgrade from Pro to Core in one step
+  type: change
+related_changes:
+- '[[Changes/Open WebUI/2026-06-29-2-pricing-model-changes-in-v0-10-0|2 Pricing Model
+  changes in v0.10.0]]'
+- '[[Changes/GitHub Copilot CLI/2026-06-30-configure-subagent-concurrency-and-depth-limits-in-settings-usage-based-billing|Configure
+  subagent concurrency and depth limits in /settings (usage-based billing users)]]'
+- '[[Changes/GitHub Copilot CLI/2026-06-30-require-session-limits-to-be-at-least-30-ai-credits|Require
+  session limits to be at least 30 AI credits]]'
+source_release: '[[Releases/Replit/replit-2026-07-03-2026-07-03-1318c060|replit-2026-07-03-2026-07-03-1318c060]]'
+source_type: replit_changelog
+theme: pricing-model
+title: Downgrade from Pro to Core in one step
+type: change
+---
+
+<!-- chronolog:begin region="header" -->
+# Downgrade from Pro to Core in one step
+
+**Replit** · 2026-07-03 · [[Themes/pricing-model|Pricing Model]] · Pricing · [Official source](https://docs.replit.com/updates/2026/07/03/changelog) · from [[Releases/Replit/replit-2026-07-03-2026-07-03-1318c060|Replit updates — 2026-07-03]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="evidence" -->
+> You can now move from Replit Pro to Replit Core directly, without canceling your subscription first. Previously the only way down was to cancel, which dropped you to the free plan before you could resubscribe. If you start to cancel, Replit now offers to downgrade to Core instead, so you keep a paid plan and your published apps stay running.
+>
+> Source: https://docs.replit.com/updates/2026/07/03/changelog
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="context" -->
+## Also in this release
+
+- [[Changes/Replit/2026-07-03-the-redesigned-replit-desktop-app|The redesigned Replit Desktop App]] · Mobile and Desktop
+- [[Changes/Replit/2026-07-03-billing|Billing]] · Pricing Model
+- [[Changes/Replit/2026-07-03-integrations|Integrations]] · Apps and Integrations
+- [[Changes/Replit/2026-07-03-sell-in-your-app-with-whop|Sell in your app with Whop]] · Agent Mode
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="nearby" -->
+## Nearby in Pricing Model
+
+- Earlier: 2026-06-30 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-06-30-require-session-limits-to-be-at-least-30-ai-credits|Require session limits to be at least 30 AI credits]]
+- Later: 2026-07-06 · ElevenLabs · [[Changes/ElevenLabs/2026-07-06-workspaces|Workspaces]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="relations" -->
+## Related
+
+- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-daily-limit-to-ensure-a-high-quality-experience-for-all-chatgpt-users-we-are-exp|Daily limit: To ensure a high-quality experience for all ChatGPT users, we…]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="footer" -->
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20replit-2026-07-03-0d37a0&body=Card%3A%20Changes%2FReplit%2F2026-07-03-downgrade-from-pro-to-core-in-one-step.md%0ACard%20ID%3A%20replit-2026-07-03-0d37a0%0ASource%3A%20https%3A%2F%2Fdocs.replit.com%2Fupdates%2F2026%2F07%2F03%2Fchangelog%0A%0AWhat%20should%20be%20corrected%3F%0A)
+<!-- chronolog:end -->

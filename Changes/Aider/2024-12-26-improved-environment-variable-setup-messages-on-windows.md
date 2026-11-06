@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: deeee8fef528a7daa2c971bda1f5caffcc8f6ac6d15b46e12de7cb55e5d68d46
+machine_hash: 753198ce449f8c9509ab9757e4e0282e6844a50f236b5ca31343d7cb4ed5cce0
 product: aider
 product_name: Aider
 record:
@@ -81,7 +81,7 @@ type: change
 ## Nearby in Mobile and Desktop
 
 - Earlier: 2024-12-12 · OpenHands · [[Changes/OpenHands/2024-12-12-make-layout-responsive-for-mobile-devices-by-tofarr-in-https-github-com-all-hand|Make layout responsive for mobile devices]]
-- Later: 2025-01-17 · ChatGPT · [[Changes/ChatGPT/2025-01-17-we-ve-updated-custom-instructions-to-make-it-easier-to-customize-how-chatgpt-res-e42760|More personalization in Custom Instructions]]
+- Later: 2025-01-05 · Open WebUI · [[Changes/Open WebUI/2025-01-05-native-notifications-for-channel-messages-stay-informed-with-integrated-desktop|📣 Native Notifications for Channel Messages]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

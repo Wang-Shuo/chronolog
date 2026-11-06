@@ -7,7 +7,7 @@ evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 4a9cd7ee4ea83273a3feafba9aa9534069c738196ab2751bf98a6d265bf08fe2
+machine_hash: fe09ddc42e93749ecdde2164d097b1af046329ca6573558e8a75b5a79b41f467
 product: cline
 product_name: Cline
 record:
@@ -80,10 +80,10 @@ Source: https://github.com/cline/cline/releases/tag/v3.56.1
 <!-- chronolog:begin region="context" -->
 ## Also in this release
 
-- [[Changes/Cline/2026-01-30-new-model-added-kimi-k2-5-model-to-moonshot-provider-262k-context-image-support|_New model: Added Kimi-K2.5 model to Moonshot provider…]] · Context Window
-- [[Changes/Cline/2026-01-30-cli-authentication-added-vercel-ai-gateway-and-cline-api-key-provider-support-fo-4bce9f|_CLI authentication: Added Vercel AI Gateway and Cline API key provider support…]] · Account and Access
-- [[Changes/Cline/2026-01-30-hooks-hook-scripts-now-run-from-the-workspace-repository-root-instead-of-filesys-9eb2c6|_Hooks: Hook scripts now run from the workspace repository root instead…]] · Apps and Integrations
-- [[Changes/Cline/2026-01-30-litellm-fixed-thinking-configuration-not-appearing-for-reasoning-capable-models-cb84ce|_LiteLLM: Fixed thinking configuration not appearing for reasoning-capable models]] · Model Support
+- [[Changes/Cline/2026-01-30-new-model-added-kimi-k2-5-model-to-moonshot-provider-262k-context-image-support|New model: Added Kimi-K2.5 model to Moonshot provider…]] · Context Window
+- [[Changes/Cline/2026-01-30-cli-authentication-added-vercel-ai-gateway-and-cline-api-key-provider-support-fo-4bce9f|CLI authentication: Added Vercel AI Gateway and Cline API key provider support…]] · Account and Access
+- [[Changes/Cline/2026-01-30-hooks-hook-scripts-now-run-from-the-workspace-repository-root-instead-of-filesys-9eb2c6|Hooks: Hook scripts now run from the workspace repository root instead…]] · Apps and Integrations
+- [[Changes/Cline/2026-01-30-litellm-fixed-thinking-configuration-not-appearing-for-reasoning-capable-models-cb84ce|LiteLLM: Fixed thinking configuration not appearing for reasoning-capable models]] · Model Support
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->

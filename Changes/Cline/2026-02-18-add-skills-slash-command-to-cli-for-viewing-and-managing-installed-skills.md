@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 58d4e5c71e53f204e2ab5dc46d116c937d6a8e90330a3152d1eadc9acf7508ff
+machine_hash: c7ba4a6de401ab19a3dc1d331bbbf56b3f2d25fd4cc45997760f9d76d5b7945d
 product: cline
 product_name: Cline
 record:
@@ -42,10 +42,10 @@ record:
   title: Add /skills slash command to CLI for viewing and managing installed skills
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-02-17-2-developer-workflow-changes-in-v0-0-411|2
-  Developer Workflow changes in v0.0.411]]'
 - '[[Changes/GitHub Copilot CLI/2026-02-17-autopilot-mode-and-fleet-command-now-available-to-all-users|Autopilot
   mode and /fleet command now available to all users]]'
+- "[[Changes/Open WebUI/2026-02-17-tool-call-display-improvements-tool-call-results-now-display-arguments-in-a-clea|\U0001F527
+  Tool call display improvements. Tool call results now display arguments…]]"
 - '[[Changes/Claude Code/2026-02-18-the-rename-command-now-updates-the-terminal-tab-title-by-default-anthropics-clau|The
   /rename command now updates the terminal tab title by default…]]'
 source_release: '[[Releases/Cline/cline-2026-02-18-v3-65-0-github-287866977-22d588d3|cline-2026-02-18-v3-65-0-github-287866977-22d588d3]]'

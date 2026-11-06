@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 9b7536e4d9208ce2cb7eb4ac38265b717c15033dcdffc61e894c8e27579c3269
+machine_hash: f1ba7b92ec03bfe338412c4e2e4749e810f6a25e235ea287cf68edac5ae03e77
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -45,12 +45,12 @@ record:
     same…
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-10-15-4-editor-experience-changes-in-rust-v0-163-0|4 Editor
-  Experience changes in rust-v0.163.0]]'
-- '[[Changes/ChatGPT/2026-10-16-create-and-refine-edit-text-images-shapes-and-charts-directly-or-ask-chatgpt-to|Create
-  and refine]]'
-- '[[Changes/ChatGPT/2026-10-16-work-together-invite-teammates-to-edit-the-same-deck-in-real-time-and-leave-shar|Work
-  together]]'
+- '[[Changes/Open WebUI/2026-10-16-2-editor-experience-changes-in-v0-12-3|2 Editor
+  Experience changes in v0.12.3]]'
+- '[[Changes/v0/2026-10-16-large-files-that-cannot-be-previewed-can-be-downloaded-from-the-code-tab-which-s|Large
+  files that cannot be previewed can be downloaded from the Code tab…]]'
+- '[[Changes/Lovable/2026-10-17-request-a-higher-workspace-role|Request a higher workspace
+  role]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-10-19-v1-0-100-github-417622960-9e2e7578|github-copilot-cli-2026-10-19-v1-0-100-github-417622960-9e2e7578]]'
 source_type: github_releases
 theme: editor-experience
@@ -92,7 +92,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2026-10-16 · ChatGPT · [[Changes/ChatGPT/2026-10-16-work-together-invite-teammates-to-edit-the-same-deck-in-real-time-and-leave-shar|Work together]]
+- Earlier: 2026-10-17 · Lovable · [[Changes/Lovable/2026-10-17-request-a-higher-workspace-role|Request a higher workspace role]]
 - Later: 2026-10-19 · OpenHands · [[Changes/OpenHands/2026-10-19-refactor-theme-use-status-classes-for-icons-and-diff-counts-by-enyst-in-https-gi|refactor(theme): use status classes for icons and diff counts]]
 <!-- chronolog:end -->
 

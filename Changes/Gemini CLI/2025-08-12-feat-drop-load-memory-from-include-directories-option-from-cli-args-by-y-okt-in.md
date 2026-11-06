@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: memory
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 30dc432a606939b1e856155cb7e080a47ec03ec6f16eccc14ed07bc7f1c0c151
+machine_hash: e77644d2764ced5efcb8af056ff14d8bef35b03bc2b249266d086644a268cfbe
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -42,12 +42,12 @@ record:
   title: 'feat: drop load-memory-from-include-directories option from cli args'
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2025-08-02-2-memory-and-personalization-changes-in-v0-1-16|2
-  Memory and Personalization changes in v0.1.16]]'
-- '[[Changes/Gemini CLI/2025-08-05-2-memory-and-personalization-changes-in-v0-1-17|2
-  Memory and Personalization changes in v0.1.17]]'
 - '[[Changes/Gemini CLI/2025-08-06-2-memory-and-personalization-changes-in-v0-1-18|2
   Memory and Personalization changes in v0.1.18]]'
+- "[[Changes/Open WebUI/2025-08-09-enhanced-memory-stability-and-security-refactored-memory-update-and-delete-opera|\U0001F9E0
+  Enhanced Memory Stability and Security]]"
+- '[[Changes/Dify/2025-08-11-chore-remove-unused-variable-pruned-memory-by-hyongtao-db-in-https-github-com-la|Chore:
+  remove unused variable pruned_memory]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2025-08-12-v0-1-19-github-239452049-c4d9f679|gemini-cli-2025-08-12-v0-1-19-github-239452049-c4d9f679]]'
 source_type: github_releases
 theme: memory
@@ -87,7 +87,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Memory and Personalization
 
-- Earlier: 2025-08-06 · Gemini CLI · [[Changes/Gemini CLI/2025-08-06-2-memory-and-personalization-changes-in-v0-1-18|2 Memory and Personalization changes in v0.1.18]]
+- Earlier: 2025-08-11 · Dify · [[Changes/Dify/2025-08-11-chore-remove-unused-variable-pruned-memory-by-hyongtao-db-in-https-github-com-la|Chore: remove unused variable pruned_memory]]
 - Later: 2025-08-14 · Gemini CLI · [[Changes/Gemini CLI/2025-08-14-3-memory-and-personalization-changes-in-v0-1-21|3 Memory and Personalization changes in v0.1.21]]
 <!-- chronolog:end -->
 

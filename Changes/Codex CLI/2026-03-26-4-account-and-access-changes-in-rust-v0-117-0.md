@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 2f5365db71ef5e3d4955485774a0a8367855f89a8a1767a65b19fe3c7cf3e86d
+machine_hash: 73ee8ec208f27e4a4b4e0b9e1d7a7a7771d80d6b22242982b27a3ab44756cbe6
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -49,10 +49,10 @@ record:
   title: 4 Account and Access changes in rust-v0.117.0
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-03-23-mcp-oauth-authentication-works-with-mcp-servers-like-the-atlassian-rovo-mcp-serv|MCP
-  OAuth authentication works with MCP servers like the Atlassian Rovo MCP Server…]]'
 - '[[Changes/Gemini CLI/2026-03-24-docs-core-add-authentication-guide-for-remote-subagents-by-adamfweidman-in-https|docs(core):
   add authentication guide for remote subagents]]'
+- '[[Changes/Open WebUI/2026-03-25-11-account-and-access-changes-in-v0-8-11|11 Account
+  and Access changes in v0.8.11]]'
 - '[[Changes/Claude Code/2026-03-26-mcp-oauth-now-follows-rfc-9728-protected-resource-metadata-discovery-to-find-the|MCP
   OAuth now follows RFC 9728 Protected Resource Metadata discovery to find…]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-03-26-rust-v0-117-0-github-302123790-7cb322b6|codex-cli-2026-03-26-rust-v0-117-0-github-302123790-7cb322b6]]'
@@ -109,7 +109,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.117.0
 ## Nearby in Account and Access
 
 - Earlier: 2026-03-26 · Claude Code · [[Changes/Claude Code/2026-03-26-mcp-oauth-now-follows-rfc-9728-protected-resource-metadata-discovery-to-find-the|MCP OAuth now follows RFC 9728 Protected Resource Metadata discovery to find…]]
-- Later: 2026-03-30 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-03-30-mcp-server-oauth-authentication-works-when-the-cli-runs-in-acp-mode|MCP server OAuth authentication works when the CLI runs in ACP mode]]
+- Later: 2026-03-27 · Dify · [[Changes/Dify/2026-03-27-2-account-and-access-changes-in-1-13-3|2 Account and Access changes in 1.13.3]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

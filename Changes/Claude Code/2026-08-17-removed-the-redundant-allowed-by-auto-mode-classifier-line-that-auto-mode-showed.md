@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: 3574560a4b2e068b8fa77596b6318dea3b7aaa9c90118158dfad3b21b8d86762
+machine_hash: f59a5949c624f725117bbe83d4e933a9b926062050cd32f6504ae5b9a36ab318
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,12 +45,11 @@ record:
     showed…
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-08-13-when-a-bad-commit-or-dependency-update-breaks-your-environment-agents-keep-using|More
-  resilient agent runs]]'
-- '[[Changes/OpenHands/2026-08-13-chore-enforce-typed-openhands-typescript-client-for-agent-server-api-calls-no-ad|chore:
-  enforce typed @openhands/typescript-client for agent-server API calls…]]'
-- '[[Changes/Claude Code/2026-08-14-improved-claude-self-hosted-runner-session-start-time-the-session-branch-is-now|Improved
-  claude self-hosted-runner session start time]]'
+- '[[Changes/Ollama/2026-08-14-this-release-adds-the-support-of-qwen-3-8-27b-https-ollama-com-library-qwen3-8-q|Ollama
+  adds the support of Qwen 3.8 27B((source link)]]'
+- '[[Changes/Replit/2026-08-14-ask-for-inline-charts|Ask for inline charts]]'
+- '[[Changes/v0/2026-08-14-the-paused-agent-timeout-card-shows-resuming-and-resumed-states|The
+  paused-agent timeout card shows Resuming and Resumed states]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-08-17-v2-1-234-github-371864218-2ca32673|claude-code-2026-08-17-v2-1-234-github-371864218-2ca32673]]'
 source_type: github_releases
 theme: agent-mode
@@ -88,7 +87,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2026-08-14 · Claude Code · [[Changes/Claude Code/2026-08-14-improved-claude-self-hosted-runner-session-start-time-the-session-branch-is-now|Improved claude self-hosted-runner session start time]]
+- Earlier: 2026-08-14 · v0 · [[Changes/v0/2026-08-14-the-paused-agent-timeout-card-shows-resuming-and-resumed-states|The paused-agent timeout card shows Resuming and Resumed states]]
 - Later: 2026-08-17 · Cursor · [[Changes/Cursor/2026-08-17-agents-in-every-repo|Agents in every repo]]
 <!-- chronolog:end -->
 

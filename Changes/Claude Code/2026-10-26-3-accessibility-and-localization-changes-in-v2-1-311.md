@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: accessibility-localization
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 7dc3ae1ca1762baaf52264cb483fcc81c1c5bcf827b224488b2a012279359464
+machine_hash: 9081dd2abbe8c56dfc01058c812cd6431a731c9e6622516e99ea1dcc1894f87f
 product: claude-code
 product_name: Claude Code
 record:
@@ -48,12 +48,12 @@ record:
   title: 3 Accessibility and Localization changes in v2.1.311
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-05-vscode-added-a-screen-reader-announcement-message-queued-when-you-send-a-message|VSCode
-  Added a screen reader announcement, "Message queued.", when you send…]]'
 - '[[Changes/Claude Code/2026-10-20-vscode-added-a-running-start-up-hooks-spinner-status-with-a-screen-reader-announ|VSCode
   Added a "Running start-up hooks" spinner status, with a screen reader…]]'
 - '[[Changes/Claude Code/2026-10-21-changed-the-axscreenreader-setting-and-claude-ax-screen-reader-in-a-settings-env|Changed
   the axScreenReader setting and CLAUDE_AX_SCREEN_READER in a settings…]]'
+- '[[Changes/Dify/2026-10-23-3-accessibility-and-localization-changes-in-1-18-0|3
+  Accessibility and Localization changes in 1.18.0]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-10-26-v2-1-311-github-424682562-151da26b|claude-code-2026-10-26-v2-1-311-github-424682562-151da26b]]'
 source_type: github_releases
 theme: accessibility-localization
@@ -98,8 +98,8 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.311
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Accessibility and Localization
 
-- Earlier: 2026-10-21 · Claude Code · [[Changes/Claude Code/2026-10-21-changed-the-axscreenreader-setting-and-claude-ax-screen-reader-in-a-settings-env|Changed the axScreenReader setting and CLAUDE_AX_SCREEN_READER in a settings…]]
-- Later: 2026-11-06 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-11-06-8-accessibility-and-localization-changes-in-v1-0-106|8 Accessibility and Localization changes in v1.0.106]]
+- Earlier: 2026-10-23 · Dify · [[Changes/Dify/2026-10-23-3-accessibility-and-localization-changes-in-1-18-0|3 Accessibility and Localization changes in 1.18.0]]
+- Later: 2026-10-29 · Open WebUI · [[Changes/Open WebUI/2026-10-29-improved-ui-accessibility-screen-reader-and-keyboard-users-can-now-move-through|♿ Improved UI accessibility. Screen reader and keyboard users can now move…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

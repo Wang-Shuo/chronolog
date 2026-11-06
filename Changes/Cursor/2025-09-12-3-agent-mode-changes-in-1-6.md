@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: f872accb9ad51f2ffcc0da535b5ac3623d6af906a9c142a6102d3946de1d1d1c
+machine_hash: 8c34cd7150aaf5948eca3254ca956fe07d7883d3d1aafab9cc777447a732068b
 product: cursor
 product_name: Cursor
 record:
@@ -45,8 +45,7 @@ record:
   title: 3 Agent Mode changes in 1.6
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2025-09-05-3-agent-mode-changes-in-rust-v0-30-0|3 Agent Mode
-  changes in rust-v0.30.0]]'
+- '[[Changes/ElevenLabs/2025-09-08-agents-platform|Agents Platform]]'
 - '[[Changes/OpenHands/2025-09-09-2-agent-mode-changes-in-0-56-0|2 Agent Mode changes
   in 0.56.0]]'
 - '[[Changes/Codex CLI/2025-09-10-3436-make-user-agent-optional-3436|♯3436 Make user_agent
@@ -95,7 +94,7 @@ Source: https://cursor.com/changelog/1-6
 ## Nearby in Agent Mode
 
 - Earlier: 2025-09-10 · Codex CLI · [[Changes/Codex CLI/2025-09-10-3436-make-user-agent-optional-3436|♯3436 Make user_agent optional (♯3436)]]
-- Later: 2025-09-17 · Gemini CLI · [[Changes/Gemini CLI/2025-09-17-feat-core-only-summarize-long-tool-output-for-shell-command-by-sandytao520-in-ht|feat(core): Only summarize long tool output for shell command]]
+- Later: 2025-09-12 · Replit · [[Changes/Replit/2025-09-12-agents-automations-beta|Agents & Automations (beta)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

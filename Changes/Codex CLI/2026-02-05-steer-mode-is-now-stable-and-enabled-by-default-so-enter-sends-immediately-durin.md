@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: eb90fa950edbd8eae02e1bb5fe52831fdbf6cd501e3ef35b11f431fff971db1b
+machine_hash: a9a2a4a9fd6f678c149442b5b61a8f7a6d94ec5f9187507f23d8c6a26f6ca9ec
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -87,7 +87,7 @@ type: change
 ## Nearby in Editor Experience
 
 - Earlier: 2026-02-04 · Gemini CLI · [[Changes/Gemini CLI/2026-02-04-4-editor-experience-changes-in-v0-27-0|4 Editor Experience changes in v0.27.0]]
-- Later: 2026-02-10 · Gemini CLI · [[Changes/Gemini CLI/2026-02-10-3-editor-experience-changes-in-v0-28-0|3 Editor Experience changes in v0.28.0]]
+- Later: 2026-02-05 · v0 · [[Changes/v0/2026-02-05-improved-console-icons-and-titles-in-the-editor|Improved console icons and titles in the editor]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

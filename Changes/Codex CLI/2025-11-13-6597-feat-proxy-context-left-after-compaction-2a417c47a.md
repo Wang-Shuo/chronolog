@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 6babcf5e38a80cf06d50f82f0c667108dd07735c2161a98aae0a7e8fca7ff69e
+machine_hash: a580351155618a3a1fa107a2c887b83a9b29d965fca8b0fea219c4a294701c7b
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -41,10 +41,10 @@ record:
   title: '#6597 — feat: proxy context left after compaction (`2a417c47a`)'
   type: change
 related_changes:
-- '[[Changes/Cline/2025-11-06-use-context-aware-task-manager-for-quick-auth-by-canvrno-in-https-github-com-cli|Use
-  context-aware task manager for quick auth]]'
 - '[[Changes/Gemini CLI/2025-11-07-remove-context-percentage-in-footer-by-default-by-abhipatel12-in-https-github-co|Remove
   context percentage in footer by default]]'
+- '[[Changes/Ollama/2025-11-12-2-context-window-changes-in-v0-12-11|2 Context Window
+  changes in v0.12.11]]'
 - '[[Changes/Cline/2025-11-13-reduce-next-gen-model-context-window-anxiety-by-canvrno-in-https-github-com-clin|Reduce
   next-gen model context window anxiety]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2025-11-13-rust-v0-58-0-github-262201496-2a895bfb|codex-cli-2025-11-13-rust-v0-58-0-github-262201496-2a895bfb]]'

@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: b2ca0c4f3f94e13e1043030542f674151d79f75c3fc3c3d39d6d4376ce0313ea
+machine_hash: a1c14db26a32c25663bfeef3efbdc73ffa4c033070f39af8367d440b7a1c6182
 product: cursor
 product_name: Cursor
 record:
@@ -48,10 +48,10 @@ record:
   title: Copilot++ improvements
   type: change
 related_changes:
-- '[[Changes/Aider/2023-10-31-2-editor-experience-changes-in-v0-16-1|2 Editor Experience
-  changes in v0.16.1]]'
 - '[[Changes/Cursor/2023-11-03-cmd-k-diffs-these-now-obey-word-wrap-you-can-also-copy-from-the-red-text|Cmd-K
   diffs: these now obey word-wrap!]]'
+- '[[Changes/Dify/2023-11-06-chore-deps-bump-word-wrap-from-1-2-3-to-1-2-5-in-web-by-dependabot-in-https-gith|chore(deps):
+  bump word-wrap from 1.2.3 to 1.2.5 in /web]]'
 - '[[Changes/Cursor/2023-11-10-apply-chat-suggestions-click-on-the-play-button-on-any-code-block-to-have-the-ai|Apply
   chat suggestions]]'
 source_release: '[[Releases/Cursor/cursor-2023-11-15-0-16-0-https-cursor-com-changelog-0-16-0-5861ed6e|cursor-2023-11-15-0-16-0-https-cursor-com-changelog-0-16-0-5861ed6e]]'

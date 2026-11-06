@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: d0a4afc3ec0c1212e7988e08b0befaf4def9eb95c26b2e1b3c4cb2e3fc9472b8
+machine_hash: ad9f49da4116d6d4715602fe0f42a8514a81c6159975eb50460e5e5a684a1e22
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -63,8 +63,8 @@ record:
   title: 11 Apps and Integrations changes in rust-v0.48.0
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2025-10-18-enabled-github-mcp-server-in-prompt-mode|Enabled
-  GitHub MCP server in prompt mode]]'
+- '[[Changes/Dify/2025-10-22-12-apps-and-integrations-changes-in-1-9-2|12 Apps and
+  Integrations changes in 1.9.2]]'
 - '[[Changes/Gemini CLI/2025-10-22-7-apps-and-integrations-changes-in-v0-10-0|7 Apps
   and Integrations changes in v0.10.0]]'
 - '[[Changes/Cline/2025-10-23-3-apps-and-integrations-changes-in-v3-34-0|3 Apps and

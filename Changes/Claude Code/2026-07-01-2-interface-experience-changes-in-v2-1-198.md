@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 1c672bba482e0db305703ea88c843b7012373c070205832924090c8060462d61
+machine_hash: e372692b191dd6b7a6a8a05f1996beb1202d2c2636d1a204e6586ce17583e025
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,10 +45,10 @@ record:
   title: 2 Interface Experience changes in v2.1.198
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-06-26-added-claude-code-disable-mouse-clicks-to-disable-mouse-click-drag-hover-in-full|Added
-  CLAUDE_CODE_DISABLE_MOUSE_CLICKS to disable mouse click/drag/hover…]]'
 - '[[Changes/Cline/2026-06-29-fully-remove-the-clinepass-feature-flag-so-clinepass-is-available-everywhere-in|Fully
   remove the ClinePass feature flag so ClinePass is available everywhere in the UI]]'
+- '[[Changes/Open WebUI/2026-06-29-14-interface-experience-changes-in-v0-10-0|14 Interface
+  Experience changes in v0.10.0]]'
 - '[[Changes/GitHub Copilot CLI/2026-06-30-3-interface-experience-changes-in-v1-0-66|3
   Interface Experience changes in v1.0.66]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-07-01-v2-1-198-github-347599701-9cec0dab|claude-code-2026-07-01-v2-1-198-github-347599701-9cec0dab]]'

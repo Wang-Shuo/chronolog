@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 36fee65c77a7cb84fadc575179e86883261d28d696c89ca1c83817634ff79c02
+machine_hash: b6d8741eb7f3ee42ccf062328d8afbceaf5fc6432ecb56ce60f4f3da47cef79d
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -59,8 +59,8 @@ record:
   title: 8 Model Support changes in rust-v0.144.0
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-07-07-6-model-support-changes-in-v1-0-69|6 Model
-  Support changes in v1.0.69]]'
+- '[[Changes/Lovable/2026-07-07-nano-banana-2-lite-image-model-for-ai-features-in-your-app|Nano
+  Banana 2 Lite image model for AI features in your app]]'
 - '[[Changes/Codex CLI/2026-07-08-14-model-support-changes-in-rust-v0-143-0|14 Model
   Support changes in rust-v0.143.0]]'
 - '[[Changes/Cline/2026-07-09-allow-selecting-cline-free-models-on-the-clinepass-provider-organized-into-subsc|Allow

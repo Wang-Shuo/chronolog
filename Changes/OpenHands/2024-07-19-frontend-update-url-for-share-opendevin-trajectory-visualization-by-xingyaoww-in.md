@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 9f91d46055eb8c5bc9097a9aec5f708e00c4f2c2e2f16c4e7c2be676df9c2611
+machine_hash: 64f073db8d48104c49fedbbe42a2b95b5b98d796ddd172b06508a10e1fbae254
 product: openhands
 product_name: OpenHands
 record:
@@ -43,8 +43,8 @@ record:
   title: 'frontend: update url for share opendevin trajectory visualization'
   type: change
 related_changes:
-- '[[Changes/OpenHands/2024-06-04-2-collaboration-changes-in-0-6-1|2 Collaboration
-  changes in 0.6.1]]'
+- "[[Changes/Open WebUI/2024-06-27-files-api-compatible-with-openai-this-feature-allows-for-custom-retrieval-augmen|\U0001F4C1
+  Files API: Compatible with OpenAI, this feature allows for custom…]]"
 - '[[Changes/OpenHands/2024-06-29-add-links-to-a-feedback-sharing-site-by-neubig-in-https-github-com-opendevin-ope|Add
   links to a feedback sharing site]]'
 - '[[Changes/OpenHands/2024-07-13-refractor-move-image-agnostic-util-to-shared-runtime-util-by-xingyaoww-in-https|Refractor:
@@ -82,7 +82,7 @@ type: change
 ## Nearby in Collaboration
 
 - Earlier: 2024-07-13 · OpenHands · [[Changes/OpenHands/2024-07-13-refractor-move-image-agnostic-util-to-shared-runtime-util-by-xingyaoww-in-https|Refractor: move image agnostic util to shared runtime util]]
-- Later: 2024-07-27 · OpenHands · [[Changes/OpenHands/2024-07-27-2-collaboration-changes-in-0-8-2|2 Collaboration changes in 0.8.2]]
+- Later: 2024-07-23 · Dify · [[Changes/Dify/2024-07-23-feat-add-email-support-for-pro-and-team-by-crazywoola-in-https-github-com-langge|Feat/add email support for pro and team]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

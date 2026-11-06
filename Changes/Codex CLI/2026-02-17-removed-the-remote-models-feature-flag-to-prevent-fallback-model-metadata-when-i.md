@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: ed461e78d134193bcf7bb00e6d60492b6828d9d6d54e13125383d4d7e2fd417c
+machine_hash: 98a09c7702066cab3874f1a5cd0a662a654c278f87042bf70cd46aaab0008423
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -57,10 +57,10 @@ record:
   title: Removed the `remote_models` feature flag to prevent fallback model metadata…
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-02-13-performance-improvements-we-ve-made-multiple-performance-enhancements-to-improve|Performance
-  improvements]]'
 - '[[Changes/GitHub Copilot CLI/2026-02-14-reduce-memory-usage-from-encoding-streaming-chunks|Reduce
   memory usage from encoding streaming chunks]]'
+- '[[Changes/Open WebUI/2026-02-14-2-reliability-and-performance-changes-in-v0-8-1|2
+  Reliability and Performance changes in v0.8.1]]'
 - '[[Changes/Claude Code/2026-02-17-improved-memory-usage-for-shell-commands-that-produce-large-output-rss-no-longer|Improved
   memory usage for shell commands that produce large output]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-02-17-rust-v0-103-0-github-287457049-69ff7e22|codex-cli-2026-02-17-rust-v0-103-0-github-287457049-69ff7e22]]'

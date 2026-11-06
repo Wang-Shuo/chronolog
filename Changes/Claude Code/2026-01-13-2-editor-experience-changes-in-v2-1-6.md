@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 2706028d598f877594802ee5b9c60ab17588758e722148d4728f5847751a790f
+machine_hash: f4b586eec73d837228c06e118d73146c67c0ebb407feab516969ff163fd80b9c
 product: claude-code
 product_name: Claude Code
 record:
@@ -43,12 +43,12 @@ record:
   title: 2 Editor Experience changes in v2.1.6
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-01-08-added-rules-to-create-new-rules-and-edit-existing-rules|Added
-  /rules to create new rules and edit existing rules]]'
-- '[[Changes/Cursor/2026-01-08-afterfileedit-hook-now-correctly-provides-old-string-with-the-file-s-previous-co|afterFileEdit
-  hook now correctly provides old_string with the file''s previous…]]'
-- '[[Changes/Codex CLI/2026-01-09-8939-chore-move-app-server-tests-from-chat-completion-to-responses-celia-oai|♯8939
-  chore move app server tests from chat completion to responses @celia-oai]]'
+- '[[Changes/Open WebUI/2026-01-09-3-editor-experience-changes-in-v0-7-0|3 Editor
+  Experience changes in v0.7.0]]'
+- '[[Changes/Open WebUI/2026-01-10-2-editor-experience-changes-in-v0-7-2|2 Editor
+  Experience changes in v0.7.2]]'
+- '[[Changes/v0/2026-01-12-blocked-sending-new-messages-when-pending-edits-exist|Blocked
+  sending new messages when pending edits exist]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-01-13-v2-1-6-github-276206295-e2719d9a|claude-code-2026-01-13-v2-1-6-github-276206295-e2719d9a]]'
 source_type: github_releases
 theme: editor-experience
@@ -87,7 +87,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.6
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2026-01-09 · Codex CLI · [[Changes/Codex CLI/2026-01-09-8939-chore-move-app-server-tests-from-chat-completion-to-responses-celia-oai|♯8939 chore move app server tests from chat completion to responses @celia-oai]]
+- Earlier: 2026-01-12 · v0 · [[Changes/v0/2026-01-12-blocked-sending-new-messages-when-pending-edits-exist|Blocked sending new messages when pending edits exist]]
 - Later: 2026-01-13 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-01-13-ghost-text-and-tab-completion-show-correct-alias-when-typing-slash-commands-like|Ghost text and tab completion show correct alias when typing slash commands like…]]
 <!-- chronolog:end -->
 

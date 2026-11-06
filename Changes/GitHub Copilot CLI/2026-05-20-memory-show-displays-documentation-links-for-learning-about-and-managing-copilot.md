@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: memory
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 0c4357151b4a341fedf470c71fe0f7766f30b9ba842881688107230d39abde86
+machine_hash: 4547f6000bc7a41f97912625f2bbb60ac289eabfa5c35e70cfba9423cb9f5de5
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -43,8 +43,8 @@ record:
     Copilot Memory'
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-05-18-4-memory-and-personalization-changes-in-rust-v0-131-0|4
-  Memory and Personalization changes in rust-v0.131.0]]'
+- '[[Changes/Dify/2026-05-19-workflow-execution-reliability-restored-tracing-after-hitl-workflow-resume-impro|Workflow
+  execution reliability]]'
 - '[[Changes/GitHub Copilot CLI/2026-05-19-2-memory-and-personalization-changes-in-v1-0-49|2
   Memory and Personalization changes in v1.0.49]]'
 - '[[Changes/Codex CLI/2026-05-20-2-memory-and-personalization-changes-in-rust-v0-132-0|2

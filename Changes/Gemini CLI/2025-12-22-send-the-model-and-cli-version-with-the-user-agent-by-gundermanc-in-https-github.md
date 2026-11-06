@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: 9ddb89474c56b9f951059aaffde7e97a4232112a74e59736a209ed1a168ee7ec
+machine_hash: 3b9387a1fd8d2f2d7b7d8ecb4136a1e459e58af5186fbadc12f4ff701229438b
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -91,7 +91,7 @@ type: change
 ## Nearby in Agent Mode
 
 - Earlier: 2025-12-22 · Cursor · [[Changes/Cursor/2025-12-22-this-includes-the-core-agent-layout-controls-viewing-code-diffs-and-more-we-will|This includes the core agent, layout controls, viewing code diffs, and more]]
-- Later: 2026-01-02 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-01-02-built-in-subagents-for-exploring-and-managing-tasks|Built-in subagents for exploring and managing tasks]]
+- Later: 2025-12-23 · Lovable · [[Changes/Lovable/2025-12-23-tasks|Tasks]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

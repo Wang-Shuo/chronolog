@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: memory
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 998c82c9a1301cd711879ae3ac4db769283dc6b32430607823bab721923e82a8
+machine_hash: 5e2b64422a25cbcddc73b646850d2085215979b9f9634909b93872642c28786d
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -48,10 +48,10 @@ record:
   title: 4 Memory and Personalization changes in rust-v0.131.0
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2026-05-05-feat-memory-persist-auto-memory-scratchpad-for-skill-extraction-by-sandytao520-i|feat(memory):
-  persist auto-memory scratchpad for skill extraction]]'
 - '[[Changes/Codex CLI/2026-05-07-16-memory-and-personalization-changes-in-rust-v0-129-0|16
   Memory and Personalization changes in rust-v0.129.0]]'
+- '[[Changes/Open WebUI/2026-05-09-faster-memory-query-performance-per-user-memory-lookups-and-deletions-now-run-mu|⚡
+  Faster memory query performance. Per-user memory lookups and deletions now run…]]'
 - '[[Changes/Gemini CLI/2026-05-12-feat-memory-add-auto-memory-inbox-flow-with-canonical-patch-contract-by-sandytao|feat(memory):
   add Auto Memory inbox flow with canonical-patch contract]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-05-18-rust-v0-131-0-github-324452638-5f16ff1d|codex-cli-2026-05-18-rust-v0-131-0-github-324452638-5f16ff1d]]'
@@ -102,7 +102,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.131.0
 ## Nearby in Memory and Personalization
 
 - Earlier: 2026-05-12 · Gemini CLI · [[Changes/Gemini CLI/2026-05-12-feat-memory-add-auto-memory-inbox-flow-with-canonical-patch-contract-by-sandytao|feat(memory): add Auto Memory inbox flow with canonical-patch contract]]
-- Later: 2026-05-19 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-05-19-2-memory-and-personalization-changes-in-v1-0-49|2 Memory and Personalization changes in v1.0.49]]
+- Later: 2026-05-18 · Lovable · [[Changes/Lovable/2026-05-18-security-memory|Security memory]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

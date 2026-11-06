@@ -4,20 +4,20 @@ date: '2026-10-20'
 description: 'Claude Code · 2026-10-20 · Enterprise and Administration: [Claude Tag]
   Added public Slack channels Claude hasn''t joined to the Claude Tag admin Add place…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2024-03-20-admin-improvements-team-admins-can-now-mark-themselves-as-unpaid-users-and-can-s|Admin
-    improvements: Team admins can now mark themselves as unpaid users and can see…]]'
+  first_in_tracked: '[[Changes/Gemini/2023-05-05-access-for-google-workspace-accounts|Access
+    for Google Workspace accounts]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 944
+  lag_days: 1264
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 92990121846c9150d610bd72f7ce9da065c56ced65e5e086011ade38c45e4a7b
+machine_hash: 7728bf76be05e26fa99cc0d124bafd074755e241c507e468b9e79ae9f618ffe7
 product: claude-code
 product_name: Claude Code
 record:
@@ -44,10 +44,8 @@ record:
     Tag…'
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-10-12-keep-allow-all-available-during-startup-while-enterprise-policy-is-still-resolvi|Keep
-  /allow-all available during startup while enterprise policy is still resolving]]'
-- '[[Changes/ChatGPT/2026-10-15-applications-are-now-open-to-labs-at-u-s-universities-if-you-re-a-principal-inve|Applications
-  are now open to labs at U.S. universities]]'
+- '[[Changes/ElevenLabs/2026-10-19-music-and-sound-effects|Music and Sound Effects]]'
+- '[[Changes/ElevenLabs/2026-10-19-realtime-translation|Realtime Translation]]'
 - '[[Changes/GitHub Copilot CLI/2026-10-19-2-enterprise-and-administration-changes-in-v1-0-100|2
   Enterprise and Administration changes in v1.0.100]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-10-20-v2-1-305-github-418781864-90995baa|claude-code-2026-10-20-v2-1-305-github-418781864-90995baa]]'
@@ -91,7 +89,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2024-03-20 · Cursor · [[Changes/Cursor/2024-03-20-admin-improvements-team-admins-can-now-mark-themselves-as-unpaid-users-and-can-s|Admin improvements: Team admins can now mark themselves as unpaid users and can see…]]
+- Earliest same-theme entry in the tracked set: 2023-05-05 · Gemini · [[Changes/Gemini/2023-05-05-access-for-google-workspace-accounts|Access for Google Workspace accounts]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

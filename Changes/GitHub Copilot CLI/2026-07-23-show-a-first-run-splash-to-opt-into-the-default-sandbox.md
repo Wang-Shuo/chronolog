@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 51b82b770fa68965ee1cd04f4c694c8661a2a824164d0f8b6bc49dc5be8cd3a0
+machine_hash: ff415da37859a0f762083947622f6e52fae485a3aab201aea45e8748ae6df15c
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -43,8 +43,8 @@ record:
   title: Show a first-run splash to opt into the default sandbox
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-07-21-17-safety-and-privacy-changes-in-rust-v0-145-0|17
-  Safety and Privacy changes in rust-v0.145.0]]'
+- '[[Changes/v0/2026-07-21-typed-prompts-survive-clarifying-questions-permission-approvals-and-queued-submi|Typed
+  prompts survive clarifying questions, permission approvals, and queued…]]'
 - '[[Changes/Claude Code/2026-07-22-3-safety-and-privacy-changes-in-v2-1-218|3 Safety
   and Privacy changes in v2.1.218]]'
 - '[[Changes/ChatGPT/2026-07-23-health-is-built-with-layered-privacy-and-security-safeguards-connected-medical-r|Health
@@ -84,7 +84,7 @@ type: change
 ## Nearby in Safety and Privacy
 
 - Earlier: 2026-07-23 · ChatGPT · [[Changes/ChatGPT/2026-07-23-health-is-built-with-layered-privacy-and-security-safeguards-connected-medical-r|Health is built with layered privacy and security safeguards]]
-- Later: 2026-07-24 · Claude Code · [[Changes/Claude Code/2026-07-24-2-safety-and-privacy-changes-in-v2-1-219|2 Safety and Privacy changes in v2.1.219]]
+- Later: 2026-07-23 · Lovable · [[Changes/Lovable/2026-07-23-payments-is-always-visible-in-your-project|Payments is always visible in your project]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

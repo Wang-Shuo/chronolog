@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 5581dafd766be9e3ca6b0cc15efa195a4a7023b263a987fa70c43c954c58aef7
+machine_hash: 2163dbcb0a1665ca8df8be6c556aed7f65128a79d3a4b793e4cf8ff30a9f128b
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -93,7 +93,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v0.0.407
 ## Nearby in Interface Experience
 
 - Earlier: 2026-02-11 · Codex CLI · [[Changes/Codex CLI/2026-02-11-8-interface-experience-changes-in-rust-v0-99-0|8 Interface Experience changes in rust-v0.99.0]]
-- Later: 2026-02-12 · Cline · [[Changes/Cline/2026-02-12-2-interface-experience-changes-in-v3-58-0|2 Interface Experience changes in v3.58.0]]
+- Later: 2026-02-11 · v0 · [[Changes/v0/2026-02-11-added-branch-picker-for-vercel-deployments|Added branch picker for Vercel deployments]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

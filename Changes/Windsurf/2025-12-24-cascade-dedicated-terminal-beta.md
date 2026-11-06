@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 2f87d47257e2f452cea419f864088bb8aab9d8ab382ae827af789dfc771fd6df
+machine_hash: 2ea378a7f3f1a7a7f6ae9e1e570dbd334c6e5bd9946a60df3e975728b99d939a
 product: windsurf
 product_name: Windsurf
 record:
@@ -61,10 +61,10 @@ record:
   title: Cascade Dedicated Terminal (Beta)
   type: change
 related_changes:
-- '[[Changes/Cline/2025-12-22-enhanced-background-terminal-execution-with-command-tracking-log-file-output-zom|Enhanced
-  background terminal execution with command tracking, log file output…]]'
 - '[[Changes/Gemini CLI/2025-12-22-feat-a2a-introduce-init-command-for-a2a-server-by-cocosheng-g-in-https-github-co|feat(a2a):
   Introduce /init command for a2a server]]'
+- '[[Changes/Open WebUI/2025-12-22-2-developer-workflow-changes-in-v0-6-43|2 Developer
+  Workflow changes in v0.6.43]]'
 - '[[Changes/Windsurf/2025-12-24-git-worktree-support|Git Worktree Support]]'
 source_release: '[[Releases/Windsurf/windsurf-2025-12-24-v1-13-3-cac9d5c1|windsurf-2025-12-24-v1-13-3-cac9d5c1]]'
 source_type: windsurf_changelog
@@ -104,8 +104,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2025-12-22 · Gemini CLI · [[Changes/Gemini CLI/2025-12-22-feat-a2a-introduce-init-command-for-a2a-server-by-cocosheng-g-in-https-github-co|feat(a2a): Introduce /init command for a2a server]]
-- Later: 2025-12-30 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2025-12-30-kill-command-filtering-now-allows-commands-when-kill-appears-as-an-argument|Kill command filtering now allows commands when 'kill' appears as an argument]]
+- Earlier: 2025-12-22 · Open WebUI · [[Changes/Open WebUI/2025-12-22-2-developer-workflow-changes-in-v0-6-43|2 Developer Workflow changes in v0.6.43]]
+- Later: 2025-12-25 · Dify · [[Changes/Dify/2025-12-25-2-developer-workflow-changes-in-1-11-2|2 Developer Workflow changes in 1.11.2]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

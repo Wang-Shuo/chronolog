@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 5fb654bf088793527b58b002f2f70aa02e252aa3aca640772ec92e36b63309b0
+machine_hash: fd236bf3e062c753bd8adeedecfd7253ccce9ff468a0bba6fe1a62a8f5c319bb
 product: claude-code
 product_name: Claude Code
 record:
@@ -43,7 +43,7 @@ record:
   title: Claude in Chrome
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-08-17-pull-requests|Pull requests]]'
+- '[[Changes/ElevenLabs/2026-08-17-elevencreative|ElevenCreative]]'
 - '[[Changes/Codex CLI/2026-08-18-37828-track-running-unified-exec-processes-at-turn-completion-copyberry|♯37828
   Track running unified exec processes at turn completion @copyberry]]'
 - '[[Changes/Codex CLI/2026-08-20-5-editor-experience-changes-in-rust-v0-149-0|5 Editor

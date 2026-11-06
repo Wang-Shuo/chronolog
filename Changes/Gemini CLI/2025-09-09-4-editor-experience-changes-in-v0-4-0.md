@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 55ce8b64046a45134305a57b48bf0f86169d5a378a4d695d5f7c4ecc57251737
+machine_hash: abc0e80777ab6be478726e0830d9475ef165ba431ce5ef0d4a8ab89de303cf17
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -47,10 +47,8 @@ record:
   title: 4 Editor Experience changes in v0.4.0
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2025-08-27-4-editor-experience-changes-in-rust-v0-25-0|4 Editor
-  Experience changes in rust-v0.25.0]]'
-- '[[Changes/Gemini CLI/2025-08-27-2-editor-experience-changes-in-v0-2-0|2 Editor
-  Experience changes in v0.2.0]]'
+- '[[Changes/Lovable/2025-09-01-track-your-edits-streaks|Track your edits + streaks]]'
+- '[[Changes/Lovable/2025-09-01-workspace-viewer-role-pro|Workspace viewer role (Pro+)]]'
 - '[[Changes/Gemini CLI/2025-09-04-7-editor-experience-changes-in-v0-3-0|7 Editor
   Experience changes in v0.3.0]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2025-09-09-v0-4-0-github-245990585-546fee8b|gemini-cli-2025-09-09-v0-4-0-github-245990585-546fee8b]]'

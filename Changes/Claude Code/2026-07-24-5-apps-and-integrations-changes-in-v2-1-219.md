@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 0df807d881d0dde98d95667042ae35383f71301db91aeac2a904c8f1d54a3463
+machine_hash: 885f60fa6aed715a9ab1fae1010de82659f7913088811c71b0ebc047ae80a07b
 product: claude-code
 product_name: Claude Code
 record:
@@ -55,12 +55,12 @@ record:
   title: 5 Apps and Integrations changes in v2.1.219
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-07-21-44-apps-and-integrations-changes-in-rust-v0-145-0|44
-  Apps and Integrations changes in rust-v0.145.0]]'
-- '[[Changes/Claude Code/2026-07-22-3-apps-and-integrations-changes-in-v2-1-218|3
-  Apps and Integrations changes in v2.1.218]]'
-- '[[Changes/GitHub Copilot CLI/2026-07-23-3-apps-and-integrations-changes-in-v1-0-74|3
-  Apps and Integrations changes in v1.0.74]]'
+- '[[Changes/Lovable/2026-07-23-let-your-app-s-users-connect-their-own-notion|Let
+  your app''s users connect their own Notion]]'
+- '[[Changes/Lovable/2026-07-23-recommended-connectors-in-search|Recommended connectors
+  in search]]'
+- '[[Changes/Ollama/2026-07-23-improved-integrations-restored-claude-code-channels-fixed-anthropic-thinking-str|Improved
+  integrations: restored Claude Code Channels, fixed Anthropic thinking…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-07-24-v2-1-219-github-359412713-6c14d233|claude-code-2026-07-24-v2-1-219-github-359412713-6c14d233]]'
 source_type: github_releases
 theme: apps-integrations
@@ -103,7 +103,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.219
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-07-23 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-07-23-3-apps-and-integrations-changes-in-v1-0-74|3 Apps and Integrations changes in v1.0.74]]
+- Earlier: 2026-07-23 · Ollama · [[Changes/Ollama/2026-07-23-improved-integrations-restored-claude-code-channels-fixed-anthropic-thinking-str|Improved integrations: restored Claude Code Channels, fixed Anthropic thinking…]]
 - Later: 2026-07-24 · Cline · [[Changes/Cline/2026-07-24-include-the-host-plugin-version-in-telemetry-events|Include the host plugin version in telemetry events]]
 <!-- chronolog:end -->
 

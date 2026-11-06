@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 2a6a8cd52a150a27aae8e106180f7427507c857e542a2d8936d095b409b212e2
+machine_hash: 6bd3c547b8db423803bbeb83ef42bed5da6399ce189e10bbe043269653b86678
 product: cline
 product_name: Cline
 record:
@@ -53,12 +53,12 @@ record:
     some models
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-08-changed-tab-stops-to-count-from-where-a-text-starts-instead-of-from-the-screen-s|Changed
-  tab stops to count from where a text starts instead of from the screen''s left edge]]'
-- '[[Changes/Codex CLI/2026-10-08-50216-use-the-shared-text-editor-for-command-center-task-renaming-bc-openai|♯50216
-  Use the shared text editor for command-center task renaming @bc-openai]]'
 - '[[Changes/Claude Code/2026-10-09-3-editor-experience-changes-in-v2-1-296|3 Editor
   Experience changes in v2.1.296]]'
+- '[[Changes/Open WebUI/2026-10-10-21-editor-experience-changes-in-v0-12-0|21 Editor
+  Experience changes in v0.12.0]]'
+- '[[Changes/Lovable/2026-10-12-edit-images-directly-in-the-files-tab|Edit images
+  directly in the Files tab]]'
 source_release: '[[Releases/Cline/cline-2026-10-13-v4-1-24-github-411804449-05899922|cline-2026-10-13-v4-1-24-github-411804449-05899922]]'
 source_type: github_releases
 theme: editor-experience
@@ -93,7 +93,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2026-10-09 · Claude Code · [[Changes/Claude Code/2026-10-09-3-editor-experience-changes-in-v2-1-296|3 Editor Experience changes in v2.1.296]]
+- Earlier: 2026-10-12 · Lovable · [[Changes/Lovable/2026-10-12-edit-images-directly-in-the-files-tab|Edit images directly in the Files tab]]
 - Later: 2026-10-13 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-10-13-synchronous-task-json-output-now-includes-failed-child-error-and-lifecycle-event|Synchronous /task JSON output now includes failed child error and lifecycle events…]]
 <!-- chronolog:end -->
 

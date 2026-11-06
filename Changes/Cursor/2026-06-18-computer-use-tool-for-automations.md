@@ -5,20 +5,20 @@ description: 'Cursor · 2026-06-18 · Automation and Scheduling: Cloud agents ki
   off by automations can now use their own computers to produce demos or artifacts
   of their…'
 diffusion:
-  first_in_tracked: '[[Changes/OpenHands/2024-09-04-better-syntax-error-loop-detection-by-tobitege-in-https-github-com-all-hands-ai|Better
-    syntax error loop detection]]'
+  first_in_tracked: '[[Changes/Dify/2024-01-02-add-data-clean-schedule-by-johnjyong-in-https-github-com-langgenius-dify-pull-18|Add
+    data clean schedule]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 652
+  lag_days: 898
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: f3241f16fd7261bea579e5a9110d8fcf29d5688de627e7d6a6acb79b271a5488
+machine_hash: bbe4a930530ea0cd6ab4d0824303c7000fbf9326b697670e3d0b8c99663f861c
 product: cursor
 product_name: Cursor
 record:
@@ -94,7 +94,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2024-09-04 · OpenHands · [[Changes/OpenHands/2024-09-04-better-syntax-error-loop-detection-by-tobitege-in-https-github-com-all-hands-ai|Better syntax error loop detection]]
+- Earliest same-theme entry in the tracked set: 2024-01-02 · Dify · [[Changes/Dify/2024-01-02-add-data-clean-schedule-by-johnjyong-in-https-github-com-langgenius-dify-pull-18|Add data clean schedule]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

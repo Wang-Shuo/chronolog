@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 92163cc01ecf68e5e0f87bf7d46d415775d4bd4bb0a7f39a8a759f087d434ba4
+machine_hash: 3a6b5a97d09db3b69c8dcd23717fc7831cce2e1f92b87d23d61c78702b38c947
 product: openhands
 product_name: OpenHands
 record:
@@ -41,8 +41,8 @@ record:
   title: Changed terminal truncation to trim middle of long outputs instead of suffix
   type: change
 related_changes:
-- '[[Changes/OpenHands/2025-06-24-introduced-optional-vi-style-keybindings-for-confirmation-prompts-navigating-men|Introduced
-  optional vi-style keybindings for confirmation prompts navigating menus…]]'
+- '[[Changes/Dify/2025-06-25-2-developer-workflow-changes-in-1-5-0|2 Developer Workflow
+  changes in 1.5.0]]'
 - '[[Changes/Aider/2025-06-27-3-developer-workflow-changes-in-v0-85-0|3 Developer
   Workflow changes in v0.85.0]]'
 - '[[Changes/Aider/2025-06-27-co-authored-by-attribution-is-now-enabled-by-default-for-commit-messages|Co-authored-by

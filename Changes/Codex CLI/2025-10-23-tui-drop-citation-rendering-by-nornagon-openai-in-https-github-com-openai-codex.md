@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 82f44096ed527a78556d24250a98be10167195cb7ed8c53c9e2a205f8b6d2294
+machine_hash: 218189bace994c441b3849bd1c14198a99c3bb49b17a7156429163d2167be5cb
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -43,10 +43,10 @@ record:
   title: 'tui: drop citation rendering'
   type: change
 related_changes:
-- '[[Changes/Cline/2025-10-16-4-interface-experience-changes-in-v3-33-0|4 Interface
-  Experience changes in v3.33.0]]'
 - '[[Changes/GitHub Copilot CLI/2025-10-21-improved-line-wrapping-and-alignment-when-rendering-file-diffs|Improved
   line wrapping and alignment when rendering file diffs]]'
+- '[[Changes/Dify/2025-10-22-3-interface-experience-changes-in-1-9-2|3 Interface Experience
+  changes in 1.9.2]]'
 - '[[Changes/Gemini CLI/2025-10-22-2-interface-experience-changes-in-v0-10-0|2 Interface
   Experience changes in v0.10.0]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2025-10-23-rust-v0-48-0-github-256860123-ffacccba|codex-cli-2025-10-23-rust-v0-48-0-github-256860123-ffacccba]]'

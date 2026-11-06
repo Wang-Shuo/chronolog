@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: d422c48b5fb497591a81052fef31553657f6692b5a969f0d2a5c6ef505c0e9eb
+machine_hash: 6b369a8bee2fa26a98d13daeba9766efa80ed8b4318af8f1443ea46786b86cf8
 product: windsurf
 product_name: Windsurf
 record:
@@ -48,10 +48,9 @@ record:
   title: 3 Agent Mode changes in v3.11.212
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-23-2-agent-mode-changes-in-v2-1-310|2 Agent Mode
-  changes in v2.1.310]]'
-- '[[Changes/Codex CLI/2026-10-23-13-agent-mode-changes-in-rust-v0-164-0|13 Agent
-  Mode changes in rust-v0.164.0]]'
+- '[[Changes/Replit/2026-10-23-monitoring-agent|Monitoring Agent]]'
+- '[[Changes/Replit/2026-10-23-create-and-update-skills-with-agent|Create and update
+  skills with Agent]]'
 - '[[Changes/Windsurf/2026-10-23-new-agent-window|New Agent Window]]'
 source_release: '[[Releases/Windsurf/windsurf-2026-10-23-v3-11-212-ce285b20|windsurf-2026-10-23-v3-11-212-ce285b20]]'
 source_type: windsurf_changelog
@@ -94,7 +93,7 @@ Source: https://docs.devin.ai/desktop/changelog#v3-11-212
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2026-10-23 · Codex CLI · [[Changes/Codex CLI/2026-10-23-13-agent-mode-changes-in-rust-v0-164-0|13 Agent Mode changes in rust-v0.164.0]]
+- Earlier: 2026-10-23 · Replit · [[Changes/Replit/2026-10-23-create-and-update-skills-with-agent|Create and update skills with Agent]]
 - Later: 2026-10-26 · Claude Code · [[Changes/Claude Code/2026-10-26-2-agent-mode-changes-in-v2-1-311|2 Agent Mode changes in v2.1.311]]
 <!-- chronolog:end -->
 

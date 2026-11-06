@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: e9a4511d8943707215b7bca67596c19cabf6d97c124193e58eae05a25eef6c6f
+machine_hash: 1ece0bed0bb95e767fbd25fe076802e568c46c6a71aa1d0405c30bdf58e867a1
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -44,11 +44,10 @@ record:
   title: 2 Reliability and Performance changes in v0.1.19
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2025-08-05-2-reliability-and-performance-changes-in-v0-1-17|2
-  Reliability and Performance changes in v0.1.17]]'
-- '[[Changes/Cursor/2025-08-06-1-4-5-improved-performance|1.4.5: Improved performance]]'
-- '[[Changes/Gemini CLI/2025-08-06-4-reliability-and-performance-changes-in-v0-1-18|4
-  Reliability and Performance changes in v0.1.18]]'
+- '[[Changes/Dify/2025-08-11-testcontainers-tests-we-re-serious-about-stability-neatguycoding-and-others-have|Testcontainers
+  Tests: We''re serious about stability!]]'
+- '[[Changes/Lovable/2025-08-11-visual-edits-v2|Visual edits v2]]'
+- '[[Changes/Lovable/2025-08-11-scales-to-large-workspaces|Scales to large workspaces]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2025-08-12-v0-1-19-github-239452049-c4d9f679|gemini-cli-2025-08-12-v0-1-19-github-239452049-c4d9f679]]'
 source_type: github_releases
 theme: reliability-performance
@@ -92,7 +91,7 @@ Source: https://github.com/google-gemini/gemini-cli/releases/tag/v0.1.19
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2025-08-06 · Gemini CLI · [[Changes/Gemini CLI/2025-08-06-4-reliability-and-performance-changes-in-v0-1-18|4 Reliability and Performance changes in v0.1.18]]
+- Earlier: 2025-08-11 · Lovable · [[Changes/Lovable/2025-08-11-scales-to-large-workspaces|Scales to large workspaces]]
 - Later: 2025-08-14 · Gemini CLI · [[Changes/Gemini CLI/2025-08-14-6-reliability-and-performance-changes-in-v0-1-21|6 Reliability and Performance changes in v0.1.21]]
 <!-- chronolog:end -->
 

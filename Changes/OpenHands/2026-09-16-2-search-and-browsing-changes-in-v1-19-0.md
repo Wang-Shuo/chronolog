@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: search-browsing
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 623f3f14857a95b03fdf4431eb83292add02e7def457083f220851f8ac2f96bc
+machine_hash: b66a765ba0c62d3c926b65f24071d7a9593e7859479e5b1f104548f0ae492835
 product: openhands
 product_name: OpenHands
 record:
@@ -42,8 +42,8 @@ record:
   title: 2 Search and Browsing changes in v1.19.0
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-09-09-experimental-worktree-support-lets-you-create-isolated-checkouts-for-new-or-fork|Experimental
-  worktree support lets you create isolated checkouts for new or forked…]]'
+- '[[Changes/Lovable/2026-09-09-compare-and-restore-earlier-versions-of-a-plan|Compare
+  and restore earlier versions of a plan]]'
 - '[[Changes/ChatGPT/2026-09-10-box-dropbox-and-sharepoint-now-join-google-drive-in-chatgpt-library-once-connect|Box,
   Dropbox, and SharePoint now join Google Drive in ChatGPT Library]]'
 - '[[Changes/GitHub Copilot CLI/2026-09-16-add-json-to-copilot-plugin-list-copilot-plugin-marketplace-list-and-copilot-plug|Add

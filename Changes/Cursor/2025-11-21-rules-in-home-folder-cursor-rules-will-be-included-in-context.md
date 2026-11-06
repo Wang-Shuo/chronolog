@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: ea606cbabe5f6c1e6b3593bc292b487ae43469451fc25610806f3fa9797440d0
+machine_hash: e2350664893133a6e54271970c2fb932fd8dc2aec6b1eec3c086ee85eca42066
 product: cursor
 product_name: Cursor
 record:
@@ -82,7 +82,7 @@ type: change
 ## Nearby in Context Window
 
 - Earlier: 2025-11-20 · Codex CLI · [[Changes/Codex CLI/2025-11-20-ux-fixes-corrected-reasoning-display-preserved-review-footer-context-after-revie|UX fixes: corrected reasoning display, preserved review footer context after…]]
-- Later: 2025-11-21 · Windsurf · [[Changes/Windsurf/2025-11-21-fast-context|Fast Context]]
+- Later: 2025-11-21 · ElevenLabs · [[Changes/ElevenLabs/2025-11-21-generate-single-use-token-https-elevenlabs-io-docs-api-reference-tokens-create|Generate single-use token((source link)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

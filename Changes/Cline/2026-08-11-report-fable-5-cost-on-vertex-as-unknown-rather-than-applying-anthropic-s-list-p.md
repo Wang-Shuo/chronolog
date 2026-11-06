@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: pricing
-machine_hash: 1c9ba1d477af7fc271e85c63a3c2c57a5bd4987aa3bb845c21957eddf6bf5ba6
+machine_hash: 6a950a3ead4f872dc52a42b1d1d13940fc86477ceae1e1890da4f1330af209bf
 product: cline
 product_name: Cline
 record:
@@ -46,10 +46,10 @@ record:
     list…
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-07-29-research-rarely-happens-alone-chatgpt-for-academic-researchers-gives-faculty-and|ChatGPT
-  for Academic Researchers]]'
 - '[[Changes/Claude Code/2026-08-04-changed-fast-mode-to-report-on-the-stream-when-usage-credits-run-out-mid-session|Changed
   fast mode to report on the stream when usage credits run out mid-session…]]'
+- '[[Changes/Replit/2026-08-07-move-projects-between-workspaces|Move projects between
+  workspaces]]'
 - '[[Changes/Windsurf/2026-08-10-devin-cloud|Devin Cloud]]'
 source_release: '[[Releases/Cline/cline-2026-08-11-v4-1-8-github-368323449-3edb942e|cline-2026-08-11-v4-1-8-github-368323449-3edb942e]]'
 source_type: github_releases
@@ -84,7 +84,7 @@ type: change
 ## Nearby in Pricing Model
 
 - Earlier: 2026-08-10 · Windsurf · [[Changes/Windsurf/2026-08-10-devin-cloud|Devin Cloud]]
-- Later: 2026-08-18 · Codex CLI · [[Changes/Codex CLI/2026-08-18-38650-canonicalize-default-namespaces-in-grpc-subscription-filters-copyberry|♯38650 Canonicalize default namespaces in gRPC subscription filters @copyberry]]
+- Later: 2026-08-14 · v0 · [[Changes/v0/2026-08-14-billing-and-checkout-show-actionable-payment-errors-scope-appropriate-upgrade-pl|Billing and checkout show actionable payment errors, scope-appropriate upgrade…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

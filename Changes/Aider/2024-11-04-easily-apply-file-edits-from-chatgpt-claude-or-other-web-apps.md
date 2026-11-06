@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 890dd061f8909d609faacf3ea26d8c17b32ae2efc2512fdf70b1516cb4241628
+machine_hash: aac9ce5ab399f9fcbd47d52c44b534030ef162617a0c29a8a09e1d369cc43f60
 product: aider
 product_name: Aider
 record:
@@ -41,12 +41,12 @@ record:
   title: Easily apply file edits from ChatGPT, Claude or other web apps
   type: change
 related_changes:
-- '[[Changes/OpenHands/2024-07-19-5-apps-and-integrations-changes-in-0-8-1|5 Apps
-  and Integrations changes in 0.8.1]]'
-- '[[Changes/OpenHands/2024-07-27-2-apps-and-integrations-changes-in-0-8-2|2 Apps
-  and Integrations changes in 0.8.2]]'
-- '[[Changes/Cline/2024-09-09-commands-now-run-directly-in-your-terminal-thanks-to-vscode-1-93-s-new-shell-int|Commands
-  now run directly in your terminal thanks to VSCode 1.93''s new shell…]]'
+- '[[Changes/Dify/2024-10-23-feat-tools-refactor-the-base-table-plugin-by-hgnulb-in-https-github-com-langgeni|feat(Tools):
+  Refactor the base table plugin]]'
+- "[[Changes/Open WebUI/2024-10-26-feedback-export-enhancements-feedback-history-data-can-now-be-exported-to-json-a|\U0001F527
+  Feedback Export Enhancements]]"
+- '[[Changes/Dify/2024-10-28-text-to-image-with-stable-diffusion-3-5-bring-your-text-to-life-with-the-new-sta|Text-to-Image
+  with Stable-Diffusion 3.5: Bring your text to life with the new…]]'
 source_release: '[[Releases/Aider/aider-2024-11-04-v0-62-0-github-183484302-e3085241|aider-2024-11-04-v0-62-0-github-183484302-e3085241]]'
 source_type: github_releases
 theme: apps-integrations
@@ -77,7 +77,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2024-09-09 · Cline · [[Changes/Cline/2024-09-09-commands-now-run-directly-in-your-terminal-thanks-to-vscode-1-93-s-new-shell-int|Commands now run directly in your terminal thanks to VSCode 1.93's new shell…]]
+- Earlier: 2024-10-28 · Dify · [[Changes/Dify/2024-10-28-text-to-image-with-stable-diffusion-3-5-bring-your-text-to-life-with-the-new-sta|Text-to-Image with Stable-Diffusion 3.5: Bring your text to life with the new…]]
 - Later: 2024-11-04 · OpenHands · [[Changes/OpenHands/2024-11-04-discoverybench-openhands-integration-by-ethan0456-in-https-github-com-all-hands|DiscoveryBench OpenHands Integration]]
 <!-- chronolog:end -->
 

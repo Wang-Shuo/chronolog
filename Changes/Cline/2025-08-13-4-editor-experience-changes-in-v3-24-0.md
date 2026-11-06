@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 9c5d38f6aa5bedefcd31163277c158e344a962078e87c0544e53e1aa92276c74
+machine_hash: 38abe1118a77fabec7be2947f0d5e3899948a32b69baebe1f16293144c9bde68
 product: cline
 product_name: Cline
 record:
@@ -48,8 +48,7 @@ record:
   title: 4 Editor Experience changes in v3.24.0
   type: change
 related_changes:
-- '[[Changes/Cline/2025-08-07-hostbridge-diff-diagnostics-by-kvyb-in-https-github-com-cline-cline-pull-5368|Hostbridge
-  diff diagnostics]]'
+- '[[Changes/Lovable/2025-08-11-upgraded-people-tab|Upgraded people tab]]'
 - '[[Changes/Codex CLI/2025-08-12-https-github-com-openai-codex-pull-2050-show-diff-preview-for-apply-patch|(source
   link) show diff preview for apply_patch]]'
 - '[[Changes/Gemini CLI/2025-08-12-7-editor-experience-changes-in-v0-1-19|7 Editor

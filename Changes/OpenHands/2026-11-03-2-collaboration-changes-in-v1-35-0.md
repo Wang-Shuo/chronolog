@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 11800aaab8719effebe505d2dc585024a15062dd28869cbf2cafad7655be8008
+machine_hash: d49169f08a61c5bc3697687a31f268177eaf37a850083d93c029fb4b376153fc
 product: openhands
 product_name: OpenHands
 record:
@@ -41,12 +41,12 @@ record:
   title: 2 Collaboration changes in v1.35.0
   type: change
 related_changes:
-- '[[Changes/Windsurf/2026-10-26-ide-mode-now-offers-devin-cloud-whenever-your-account-has-cloud-access-the-same|IDE
-  mode now offers Devin Cloud whenever your account has Cloud access, the same…]]'
-- '[[Changes/OpenHands/2026-10-27-feat-conversation-label-the-share-toggle-share-with-org-users-in-team-orgs-ohe-3|feat(conversation):
-  label the share toggle "Share with Org users" in team orgs (OHE-3765)]]'
-- '[[Changes/Codex CLI/2026-10-29-57226-allow-nfs-database-migration-with-shared-file-permissions-dkovalenko-oai|♯57226
-  Allow NFS database migration with shared file permissions @dkovalenko-oai]]'
+- "[[Changes/Open WebUI/2026-10-29-knowledge-base-api-responses-trimmed-adding-updating-or-removing-knowledge-base|\U0001F4C3
+  Knowledge base API responses trimmed. Adding, updating or removing knowledge…]]"
+- '[[Changes/Lovable/2026-10-30-see-progress-and-next-steps-when-you-publish|See progress
+  and next steps when you publish]]'
+- "[[Changes/Open WebUI/2026-11-03-new-chats-stay-in-sync-a-chat-started-from-the-home-page-keeps-syncing-with-the|\U0001F503
+  New chats stay in sync. A chat started from the home page keeps syncing…]]"
 source_release: '[[Releases/OpenHands/openhands-2026-11-03-v1-35-0-github-433088800-6c59b2b0|openhands-2026-11-03-v1-35-0-github-433088800-6c59b2b0]]'
 source_type: github_releases
 theme: collaboration
@@ -87,8 +87,8 @@ Source: https://github.com/OpenHands/OpenHands/releases/tag/v1.35.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Collaboration
 
-- Earlier: 2026-10-29 · Codex CLI · [[Changes/Codex CLI/2026-10-29-57226-allow-nfs-database-migration-with-shared-file-permissions-dkovalenko-oai|♯57226 Allow NFS database migration with shared file permissions @dkovalenko-oai]]
-- Later: 2026-11-06 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-11-06-9-collaboration-changes-in-v1-0-106|9 Collaboration changes in v1.0.106]]
+- Earlier: 2026-11-03 · Open WebUI · [[Changes/Open WebUI/2026-11-03-new-chats-stay-in-sync-a-chat-started-from-the-home-page-keeps-syncing-with-the|🔃 New chats stay in sync. A chat started from the home page keeps syncing…]]
+- Later: 2026-11-04 · Dify · [[Changes/Dify/2026-11-04-4-collaboration-changes-in-1-19-0|4 Collaboration changes in 1.19.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

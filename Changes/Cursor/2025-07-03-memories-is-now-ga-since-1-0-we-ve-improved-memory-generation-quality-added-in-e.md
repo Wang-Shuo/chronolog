@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: memory
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 1f9b52c7fa2388bf8c3daec6f25cad681e79615bb33217b8c80b41f9bc5597e0
+machine_hash: 2cd2bce8be66709bb9bf71be8f808af30f4eb05445be8aee8811c3b7e2fb13fa
 product: cursor
 product_name: Cursor
 record:
@@ -90,7 +90,7 @@ type: change
 ## Nearby in Memory and Personalization
 
 - Earlier: 2025-06-12 · ChatGPT · [[Changes/ChatGPT/2025-06-12-improvements-to-memory-to-reference-past-chats-in-a-project|Improvements to memory to reference past chats in a project]]
-- Later: 2025-07-16 · OpenHands · [[Changes/OpenHands/2025-07-16-introduced-new-memory-ui-feature-by-amanape-in-https-github-com-all-hands-ai-ope|Introduced new Memory UI feature]]
+- Later: 2025-07-14 · ElevenLabs · [[Changes/ElevenLabs/2025-07-14-elevencreative-studio|ElevenCreative Studio]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: fd7e1654fac3681735ac151313e11560e85ace6f4559872764d0f3c6d8286f71
+machine_hash: ffb329c03a665e57b156d57693b7a3c6c025412c2c00306739943949cae61a1b
 product: openhands
 product_name: OpenHands
 record:
@@ -45,10 +45,8 @@ record:
   title: 3 Agent Mode changes in v1.9.0
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-07-30-2-agent-mode-changes-in-v1-0-76|2 Agent
-  Mode changes in v1.0.76]]'
-- '[[Changes/OpenHands/2026-07-30-docs-refresh-agents-md-guidance-by-all-hands-bot-in-https-github-com-openhands-o|docs:
-  refresh AGENTS.md guidance]]'
+- '[[Changes/ElevenLabs/2026-08-03-elevenagents|ElevenAgents]]'
+- '[[Changes/ElevenLabs/2026-08-03-packages|Packages]]'
 - '[[Changes/GitHub Copilot CLI/2026-08-03-a-run-whose-prompt-is-piped-over-stdin-now-treats-its-sessionend-hook-the-same-w|A
   run whose prompt is piped over stdin now treats its sessionEnd hook the same way…]]'
 source_release: '[[Releases/OpenHands/openhands-2026-08-03-v1-9-0-github-364430310-2b7bf9ea|openhands-2026-08-03-v1-9-0-github-364430310-2b7bf9ea]]'

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: e94419b59068a02b500a44317fa7d18a697f759ba32e20edf189d6fc0fd76141
+machine_hash: 2480c9ec83d7bc84904da48bc20693b159208cedb2f8f75cdf416134a0f98c72
 product: claude-code
 product_name: Claude Code
 record:
@@ -60,12 +60,12 @@ record:
   title: Added `x-claude-code-request-class`, `x-claude-code-agent-type`…
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-09-10-you-shouldn-t-have-to-onboard-an-agent-every-time-you-start-a-task-each-project|Shared
-  context]]'
-- '[[Changes/Cursor/2026-09-10-today-we-re-launching-projects-in-cursor-projects-lets-you-take-on-larger-bodies-51d06c|Cursor
-  launches Projects]]'
+- '[[Changes/Lovable/2026-09-11-preview-pdf-attachments-in-chat|Preview PDF attachments
+  in chat]]'
 - '[[Changes/Claude Code/2026-09-14-improved-the-spinner-status-during-long-thinking-it-now-reads-deep-in-thought-af|Improved
   the spinner status during long thinking]]'
+- '[[Changes/Ollama/2026-09-14-runaway-repeat-token-detection-now-requires-100-repeat-tokens-for-reduced-false|Runaway
+  repeat token detection now requires 100 repeat tokens for reduced false…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-15-v2-1-273-github-389362239-6ea37826|claude-code-2026-09-15-v2-1-273-github-389362239-6ea37826]]'
 source_type: github_releases
 theme: context-window
@@ -105,7 +105,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Context Window
 
-- Earlier: 2026-09-14 · Claude Code · [[Changes/Claude Code/2026-09-14-improved-the-spinner-status-during-long-thinking-it-now-reads-deep-in-thought-af|Improved the spinner status during long thinking]]
+- Earlier: 2026-09-14 · Ollama · [[Changes/Ollama/2026-09-14-runaway-repeat-token-detection-now-requires-100-repeat-tokens-for-reduced-false|Runaway repeat token detection now requires 100 repeat tokens for reduced false…]]
 - Later: 2026-09-16 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-09-16-3-context-window-changes-in-v1-0-85|3 Context Window changes in v1.0.85]]
 <!-- chronolog:end -->
 

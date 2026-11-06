@@ -4,20 +4,20 @@ date: '2026-09-22'
 description: 'Codex CLI · 2026-09-22 · Automation and Scheduling: #45849 Preserve
   the app-server shutdown signal future across loop iterations @jgershen-oai'
 diffusion:
-  first_in_tracked: '[[Changes/OpenHands/2024-09-04-better-syntax-error-loop-detection-by-tobitege-in-https-github-com-all-hands-ai|Better
-    syntax error loop detection]]'
+  first_in_tracked: '[[Changes/Dify/2024-01-02-add-data-clean-schedule-by-johnjyong-in-https-github-com-langgenius-dify-pull-18|Add
+    data clean schedule]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 748
+  lag_days: 994
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: c5fac5e421014cc72104c3b70ce496229a74068e1edae47acbb777edbbad99fe
+machine_hash: 95edc7528103ebc1e80a319651d92d7482a2848d3ea936fd907416d5aba4ce25
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -45,12 +45,12 @@ record:
     @jgershen-oai'
   type: change
 related_changes:
-- '[[Changes/OpenHands/2026-09-11-3-automation-and-scheduling-changes-in-v1-18-0|3
-  Automation and Scheduling changes in v1.18.0]]'
-- '[[Changes/OpenHands/2026-09-16-4-automation-and-scheduling-changes-in-v1-19-0|4
-  Automation and Scheduling changes in v1.19.0]]'
+- '[[Changes/Lovable/2026-09-17-automate-your-workspace-with-the-lovable-api|Automate
+  your workspace with the Lovable API]]'
 - '[[Changes/OpenHands/2026-09-17-feat-automations-select-saved-agent-profiles-by-neubig-in-https-github-com-openh|feat(automations):
   select saved agent profiles]]'
+- '[[Changes/Open WebUI/2026-09-21-4-automation-and-scheduling-changes-in-v0-11-4|4
+  Automation and Scheduling changes in v0.11.4]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-09-22-rust-v0-156-0-github-394061815-b23dd5f4|codex-cli-2026-09-22-rust-v0-156-0-github-394061815-b23dd5f4]]'
 source_type: github_releases
 theme: automation-scheduling
@@ -98,14 +98,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Automation and Scheduling
 
-- Earlier: 2026-09-17 · OpenHands · [[Changes/OpenHands/2026-09-17-feat-automations-select-saved-agent-profiles-by-neubig-in-https-github-com-openh|feat(automations): select saved agent profiles]]
+- Earlier: 2026-09-21 · Open WebUI · [[Changes/Open WebUI/2026-09-21-4-automation-and-scheduling-changes-in-v0-11-4|4 Automation and Scheduling changes in v0.11.4]]
 - Later: 2026-09-22 · OpenHands · [[Changes/OpenHands/2026-09-22-chore-consume-sdk-1-49-4-and-automation-1-14-0-by-hieptl-in-https-github-com-ope|chore: consume SDK 1.49.4 and Automation 1.14.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2024-09-04 · OpenHands · [[Changes/OpenHands/2024-09-04-better-syntax-error-loop-detection-by-tobitege-in-https-github-com-all-hands-ai|Better syntax error loop detection]]
+- Earliest same-theme entry in the tracked set: 2024-01-02 · Dify · [[Changes/Dify/2024-01-02-add-data-clean-schedule-by-johnjyong-in-https-github-com-langgenius-dify-pull-18|Add data clean schedule]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 682067c7ee87d92c9a81adec9da685b2985f91022a21fd787912f39ab12c5e44
+machine_hash: 6f959a5865421c13670707c138b0aad03b8757562bb073bbe09c28463698e515
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -85,7 +85,7 @@ type: change
 ## Nearby in Reliability and Performance
 
 - Earlier: 2026-03-20 · Cline · [[Changes/Cline/2026-03-20-latency-improvements-for-remote-workspaces|Latency improvements for remote workspaces]]
-- Later: 2026-03-25 · Claude Code · [[Changes/Claude Code/2026-03-25-3-reliability-and-performance-changes-in-v2-1-83|3 Reliability and Performance changes in v2.1.83]]
+- Later: 2026-03-23 · ElevenLabs · [[Changes/ElevenLabs/2026-03-23-packages-v1-0-0-release-candidate|Packages v1.0.0 Release Candidate]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

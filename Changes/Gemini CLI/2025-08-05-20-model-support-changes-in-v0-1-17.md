@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: fa9630cc5892863fcd30ea3ad1c1cc68c434736dcc055567a89a2cfa0a69281a
+machine_hash: 9b435672b93d6882ad0f1dd0c9db3e00fadef283e479f3b225a1feb0089973b1
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -90,8 +90,7 @@ record:
   title: 20 Model Support changes in v0.1.17
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2025-08-02-20-model-support-changes-in-v0-1-16|20 Model Support
-  changes in v0.1.16]]'
+- '[[Changes/Claude/2025-08-05-claude-opus-4-1|Claude Opus 4.1]]'
 - '[[Changes/Cline/2025-08-05-adding-anthropic-opus-4-1-by-arafatkatze-in-https-github-com-cline-cline-pull-53|Adding
   Anthropic opus 4.1]]'
 - '[[Changes/Codex CLI/2025-08-05-introduces-the-oss-flag-so-codex-cli-can-be-used-with-the-new-open-weight-models|Introduces
@@ -177,7 +176,7 @@ Source: https://github.com/google-gemini/gemini-cli/releases/tag/v0.1.17
 ## Nearby in Model Support
 
 - Earlier: 2025-08-05 · Codex CLI · [[Changes/Codex CLI/2025-08-05-introduces-the-oss-flag-so-codex-cli-can-be-used-with-the-new-open-weight-models|Introduces the --oss flag so Codex CLI can be used with the new open-weight models…]]
-- Later: 2025-08-06 · Cline · [[Changes/Cline/2025-08-06-3-model-support-changes-in-v3-20-11|3 Model Support changes in v3.20.11]]
+- Later: 2025-08-05 · Ollama · [[Changes/Ollama/2025-08-05-3-model-support-changes-in-v0-11-0|3 Model Support changes in v0.11.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

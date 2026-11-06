@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 51832cd7c0d31452336133bfa98b76c8b7494564cce392f99595477f15ca38c4
+machine_hash: 3fed5485e1f4e244595e2905ad67120fee61de823df21c5cc1645c67dde05ea7
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -81,7 +81,7 @@ type: change
 ## Nearby in Editor Experience
 
 - Earlier: 2025-12-02 · Codex CLI · [[Changes/Codex CLI/2025-12-02-3-editor-experience-changes-in-rust-v0-64-0|3 Editor Experience changes in rust-v0.64.0]]
-- Later: 2025-12-04 · Cline · [[Changes/Cline/2025-12-04-set-the-cli-s-ide-version-to-just-the-cli-version-rather-than-being-blank-to-mak|set the cli's 'ide version' to just the cli version rather than being blank, to make…]]
+- Later: 2025-12-02 · Open WebUI · [[Changes/Open WebUI/2025-12-02-the-model-editor-interface-was-refined-with-access-control-settings-moved-to-a-d|🎨 The model editor interface was refined with access control settings moved…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

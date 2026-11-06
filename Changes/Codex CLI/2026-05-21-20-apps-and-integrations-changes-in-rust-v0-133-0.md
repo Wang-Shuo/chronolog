@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: aac2dfe9448e791b9e4f2f7be5dd1f9553190c746039476b46a6848e98e86cda
+machine_hash: 8be50d44389e9ec20153d6c7d2f3b96db5b93ca281663cf2665b94d41afa6e41
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -168,7 +168,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.133.0
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-05-20 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-05-20-4-apps-and-integrations-changes-in-v1-0-51|4 Apps and Integrations changes in v1.0.51]]
-- Later: 2026-05-22 · Claude Code · [[Changes/Claude Code/2026-05-22-2-apps-and-integrations-changes-in-v2-1-149|2 Apps and Integrations changes in v2.1.149]]
+- Later: 2026-05-21 · Lovable · [[Changes/Lovable/2026-05-21-app-connectors-google-maps-platform-semrush-and-tiktok|App connectors: Google Maps Platform, Semrush, and TikTok]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

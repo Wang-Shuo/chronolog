@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 74f55953a6cf211f46e1158ea1dfbb192c5962fa0c280cc1fb2f99349e05b5d4
+machine_hash: fbba149eee62d244c060afbdfe3f5046d9b9e452915aac3eb5527aada832fe6f
 product: cline
 product_name: Cline
 record:
@@ -48,8 +48,8 @@ record:
   title: 2 Account and Access changes in v4.1.17
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-08-29-show-the-specific-authentication-failure-such-as-401-bad-credentials-instead-of|Show
-  the specific authentication failure (such as 401 Bad credentials) instead…]]'
+- "[[Changes/Open WebUI/2026-08-31-disconnect-oauth-only-where-there-is-oauth-the-disconnect-control-on-a-tool-serv|\U0001F50C
+  Disconnect OAuth only where there is OAuth. The disconnect control on a tool…]]"
 - '[[Changes/Claude Code/2026-09-01-2-account-and-access-changes-in-v2-1-257|2 Account
   and Access changes in v2.1.257]]'
 - '[[Changes/Codex CLI/2026-09-01-2-account-and-access-changes-in-rust-v0-152-0|2

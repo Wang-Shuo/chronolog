@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 2c26e7ff1c620b643d35d3871450fd023b6b3a00e3c0850df30ac5973dd3917c
+machine_hash: 9709cd75f34c8540923e8fbe1ae4d2f064fa2873ae4a3eba847fd659002024a6
 product: openhands
 product_name: OpenHands
 record:
@@ -44,10 +44,10 @@ record:
   title: 2 Apps and Integrations changes in 0.50.0
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2025-07-19-12-apps-and-integrations-changes-in-v0-1-13|12
-  Apps and Integrations changes in v0.1.13]]'
 - '[[Changes/Codex CLI/2025-07-23-numerous-fixes-to-codex-mcp|Numerous fixes to codex
   mcp]]'
+- '[[Changes/Dify/2025-07-23-10-apps-and-integrations-changes-in-1-7-0|10 Apps and
+  Integrations changes in 1.7.0]]'
 - '[[Changes/ChatGPT/2025-07-24-pro-users-can-now-utilize-chat-search-with-hubspot-and-custom-connectors-mcp-in-b9b682|Chat
   search for HubSpot and custom connectors (MCP) (Pro)]]'
 source_release: '[[Releases/OpenHands/openhands-2025-07-24-0-50-0-github-234870384-6ce58434|openhands-2025-07-24-0-50-0-github-234870384-6ce58434]]'

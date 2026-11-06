@@ -12,12 +12,12 @@ diffusion:
   role: first-observed
   scope: tracked-products-only
   theme: artifact-creation
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 40a164ddc3facca89b21acf3472ba06865c1b71bb0074972cb664b692bca24db
+machine_hash: c3edb22be2b40c810a08aa085ba79111a9b99899254ae67890ae538404d8965f
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -84,13 +84,15 @@ type: change
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->
+## Nearby in Artifact Creation
 
+- Later: 2026-11-03 · Open WebUI · [[Changes/Open WebUI/2026-11-03-nested-code-previews-preview-now-opens-code-blocks-inside-lists-quotes-and-detai|🧩 Nested code previews. Preview now opens code blocks inside lists, quotes…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry among the 10 tracked products.
+- Earliest same-theme entry among the 20 tracked products.
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

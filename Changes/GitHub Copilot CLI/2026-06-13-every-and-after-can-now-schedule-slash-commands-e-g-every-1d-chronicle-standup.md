@@ -4,20 +4,20 @@ date: '2026-06-13'
 description: 'GitHub Copilot CLI · 2026-06-13 · Automation and Scheduling: /every
   and /after can now schedule slash commands (e.g. /every 1d /chronicle standup)'
 diffusion:
-  first_in_tracked: '[[Changes/OpenHands/2024-09-04-better-syntax-error-loop-detection-by-tobitege-in-https-github-com-all-hands-ai|Better
-    syntax error loop detection]]'
+  first_in_tracked: '[[Changes/Dify/2024-01-02-add-data-clean-schedule-by-johnjyong-in-https-github-com-langgenius-dify-pull-18|Add
+    data clean schedule]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 647
+  lag_days: 893
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 4bfe2329c55f43dccfced7221dbc470e8c4b091d8b567dd427a713e1297c9f62
+machine_hash: 75e6a12c7697c3629c245ffb52c18407663cb28cd5e99d9eeeb352c0250d179d
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -101,7 +101,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2024-09-04 · OpenHands · [[Changes/OpenHands/2024-09-04-better-syntax-error-loop-detection-by-tobitege-in-https-github-com-all-hands-ai|Better syntax error loop detection]]
+- Earliest same-theme entry in the tracked set: 2024-01-02 · Dify · [[Changes/Dify/2024-01-02-add-data-clean-schedule-by-johnjyong-in-https-github-com-langgenius-dify-pull-18|Add data clean schedule]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

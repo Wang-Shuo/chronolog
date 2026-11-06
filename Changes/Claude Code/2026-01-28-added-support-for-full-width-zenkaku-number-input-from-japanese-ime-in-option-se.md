@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: accessibility-localization
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 02c6ba887fc823638508068529d02211396373b80a13dc976c4b5e1961b28d7c
+machine_hash: 0f1805b1bebab30552ddb02986324b14a64360291d0e3aa4bb9e50261c6aa2ed
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,12 +45,12 @@ record:
     option…
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2025-11-07-only-show-screen-reader-notice-once-by-chrstnb-in-https-github-com-google-gemini|Only
-  show screen reader notice once]]'
-- '[[Changes/Cline/2025-12-12-accessibility-screen-reader-support-for-slash-and-context-menus-by-mingxuanzhang|accessibility:
-  screen reader support for slash and context menus]]'
 - '[[Changes/GitHub Copilot CLI/2025-12-18-ensure-animated-or-non-animated-banner-is-displayed-based-on-banner-and-screen-r|Ensure
   animated or non-animated banner is displayed based on banner and screen…]]'
+- '[[Changes/Dify/2025-12-25-chore-add-apptypeselector-tests-and-improve-clear-button-accessibility-by-lyzno1|chore:
+  add AppTypeSelector tests and improve clear button accessibility]]'
+- '[[Changes/Dify/2026-01-13-2-accessibility-and-localization-changes-in-1-11-3|2
+  Accessibility and Localization changes in 1.11.3]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-01-28-v2-1-21-github-280523920-bba74245|claude-code-2026-01-28-v2-1-21-github-280523920-bba74245]]'
 source_type: github_releases
 theme: accessibility-localization
@@ -81,8 +81,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Accessibility and Localization
 
-- Earlier: 2025-12-18 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2025-12-18-ensure-animated-or-non-animated-banner-is-displayed-based-on-banner-and-screen-r|Ensure animated or non-animated banner is displayed based on banner and screen…]]
-- Later: 2026-02-04 · Claude Code · [[Changes/Claude Code/2026-02-04-added-support-for-full-width-zenkaku-space-input-from-japanese-ime-in-checkbox-s|Added support for full-width (zenkaku) space input from Japanese IME in checkbox selection]]
+- Earlier: 2026-01-13 · Dify · [[Changes/Dify/2026-01-13-2-accessibility-and-localization-changes-in-1-11-3|2 Accessibility and Localization changes in 1.11.3]]
+- Later: 2026-02-03 · Dify · [[Changes/Dify/2026-02-03-chore-improve-accessibility-for-learn-more-link-by-khmandarrin-in-https-github-c|chore: improve accessibility for learn more link]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 65b2846da000daa12ce2dc479f840f281f731a9d0bc806ed84c590aa82820a60
+machine_hash: 0e4b181e71fa357b903c337655712015f93fcd9574e59aa545887227182ad567
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -86,7 +86,7 @@ type: change
 ## Nearby in Safety and Privacy
 
 - Earlier: 2026-05-08 · Codex CLI · [[Changes/Codex CLI/2026-05-08-2-safety-and-privacy-changes-in-rust-v0-130-0|2 Safety and Privacy changes in rust-v0.130.0]]
-- Later: 2026-05-11 · Claude Code · [[Changes/Claude Code/2026-05-11-fixed-skill-name-permission-rules-the-wildcard-form-now-works-as-a-prefix-match|Fixed Skill(name ) permission rules]]
+- Later: 2026-05-08 · Replit · [[Changes/Replit/2026-05-08-workspace-security-center-2-0|Workspace Security Center 2.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

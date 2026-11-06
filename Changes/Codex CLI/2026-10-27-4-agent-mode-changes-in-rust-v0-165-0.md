@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 620ada9ba47f8723159de3b309260a00d234c39ed1f879a99d75dc53d4f9985e
+machine_hash: 0f7024cede5c67dfb89cfca8e80c3a9db136d716608e83d68f76df5e35d2fed8
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -49,8 +49,8 @@ record:
   title: 4 Agent Mode changes in rust-v0.165.0
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-26-2-agent-mode-changes-in-v2-1-311|2 Agent Mode
-  changes in v2.1.311]]'
+- '[[Changes/ElevenLabs/2026-10-26-9-agent-mode-changes-in-elevenlabs-updates-2026-10-26|9
+  Agent Mode changes in ElevenLabs updates — 2026-10-26]]'
 - '[[Changes/Windsurf/2026-10-26-the-status-bar-no-longer-disappears-after-you-switch-from-agent-mode-to-ide-mode|The
   status bar no longer disappears after you switch from Agent mode to IDE mode]]'
 - '[[Changes/Claude Code/2026-10-27-2-agent-mode-changes-in-v2-1-312|2 Agent Mode

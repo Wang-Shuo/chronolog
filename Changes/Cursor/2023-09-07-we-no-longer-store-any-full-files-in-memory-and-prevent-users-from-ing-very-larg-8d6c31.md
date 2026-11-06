@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 5905d34fd04a61debc50c8ccebcdc3c5548ece32017d7675a2f4cbaded10f0e5
+machine_hash: 0739be9f2c1ac5d8672950262a4ba6d28003578f5b5144d201a23540bf5c00d1
 product: cursor
 product_name: Cursor
 record:
@@ -46,10 +46,10 @@ record:
   title: Better State Management
   type: change
 related_changes:
-- '[[Changes/Cursor/2023-08-22-ssh-support-is-now-more-robust-please-continue-to-let-us-know-if-you-are-experie|SSH
-  support is now more robust!]]'
 - '[[Changes/Cursor/2023-09-05-updates-to-docs-try-pasting-a-link-in-chat-you-can-delete-edit-docs-you-can-see|Docs
   updates]]'
+- '[[Changes/Ollama/2023-09-06-minor-performance-improvements-to-model-loading-and-generation|Minor
+  performance improvements to model loading and generation]]'
 - '[[Changes/Cursor/2023-09-07-we-release-an-improved-new-ai-project-feature-to-nightly-users-this-is-a-more-ro|We
   release an improved New AI Project feature to nightly users]]'
 source_release: '[[Releases/Cursor/cursor-2023-09-07-0-9-7-nightly-https-cursor-com-changelog-0-9-7-nightly-87d1216f|cursor-2023-09-07-0-9-7-nightly-https-cursor-com-changelog-0-9-7-nightly-87d1216f]]'

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: ce71974c0653a9f0cb262f064173bdf5a6e0f1f551eea1ae330242db31ec9e7b
+machine_hash: 14d5f7fa496c36e1fc598a1483e26e518ad1e2c8a3bd326e08a7593b67970a4e
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -44,12 +44,12 @@ record:
   title: 2 Editor Experience changes in rust-v0.105.0
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-02-19-we-improved-code-blocks-in-chatgpt-to-make-them-more-interactive-you-can-write-e-6b2623|We
-  improved Code Blocks in ChatGPT to make them more interactive]]'
-- '[[Changes/Claude Code/2026-02-19-simple-mode-claude-code-simple-now-includes-the-file-edit-tool-in-addition-to-th|Simple
-  mode (CLAUDE_CODE_SIMPLE) now includes the file edit tool in addition…]]'
-- '[[Changes/GitHub Copilot CLI/2026-02-19-3-editor-experience-changes-in-v0-0-412|3
-  Editor Experience changes in v0.0.412]]'
+- '[[Changes/Open WebUI/2026-02-23-2-editor-experience-changes-in-v0-8-4|2 Editor
+  Experience changes in v0.8.4]]'
+- '[[Changes/v0/2026-02-23-improved-payment-failure-handling-with-automatic-refresh-when-returning-to-the-t|Improved
+  payment failure handling with automatic refresh when returning to the tab]]'
+- '[[Changes/v0/2026-02-23-added-file-deletion-in-the-editor|Added file deletion in
+  the editor]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-02-25-rust-v0-105-0-github-290476287-0c72d1ed|codex-cli-2026-02-25-rust-v0-105-0-github-290476287-0c72d1ed]]'
 source_type: github_releases
 theme: editor-experience
@@ -96,7 +96,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.105.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2026-02-19 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-02-19-3-editor-experience-changes-in-v0-0-412|3 Editor Experience changes in v0.0.412]]
+- Earlier: 2026-02-23 · v0 · [[Changes/v0/2026-02-23-added-file-deletion-in-the-editor|Added file deletion in the editor]]
 - Later: 2026-02-25 · Gemini CLI · [[Changes/Gemini CLI/2026-02-25-feat-plan-hide-plan-write-and-edit-operations-on-plans-in-plan-mode-by-jerop-in|feat(plan): hide plan write and edit operations on plans in Plan Mode]]
 <!-- chronolog:end -->
 

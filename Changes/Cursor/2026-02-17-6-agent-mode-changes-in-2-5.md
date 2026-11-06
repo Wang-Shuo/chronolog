@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 0af4c65aba35da07577265a99125b9faf45bae5c6af804a7c530ce0906d1aeeb
+machine_hash: efdca22843a39a98f9f3dc15a273b547fa3a36798667879ea844728fd8746b0e
 product: cursor
 product_name: Cursor
 record:
@@ -56,8 +56,7 @@ record:
   title: 6 Agent Mode changes in 2.5
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-02-12-subagents-return-complete-responses|Subagents
-  return complete responses]]'
+- '[[Changes/ElevenLabs/2026-02-16-new-endpoints|New Endpoints]]'
 - '[[Changes/Codex CLI/2026-02-17-7-agent-mode-changes-in-rust-v0-102-0|7 Agent Mode
   changes in rust-v0.102.0]]'
 - '[[Changes/Cursor/2026-02-17-async-subagents|Async subagents]]'

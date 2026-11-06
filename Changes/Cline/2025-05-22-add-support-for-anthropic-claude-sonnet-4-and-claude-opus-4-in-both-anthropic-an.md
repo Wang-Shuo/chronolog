@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: bce4b0f23c913985d9afb2be529c9f7d32c64ebca6b9d792403b5c2dfc092f3d
+machine_hash: 7fb784f14a70ccf2b237777a3a831b5e1ddc3c9406bcee9cc0d1db5954fc5b2b
 product: cline
 product_name: Cline
 record:
@@ -46,10 +46,13 @@ record:
   title: Add support for Anthropic Claude Sonnet 4 and Claude Opus 4 in both Anthropic…
   type: change
 related_changes:
-- '[[Changes/Windsurf/2025-05-15-swe-1-lite|SWE-1-lite]]'
-- '[[Changes/Windsurf/2025-05-15-new-family-of-swe-1-models|New Family of SWE-1 Models]]'
-- '[[Changes/Cline/2025-05-18-2-model-support-changes-in-v3-16-1|2 Model Support changes
-  in v3.16.1]]'
+- '[[Changes/Gemini/2025-05-20-create-high-quality-videos-with-sound|Create high-quality
+  videos with sound]]'
+- '[[Changes/Gemini/2025-05-20-students-get-a-free-upgrade-of-gemini-in-select-countries|Students
+  get a free upgrade of Gemini in select countries]]'
+- '[[Changes/Gemini/2025-05-20-add-your-own-files-to-deep-research-and-bring-reports-to-life-in-canvas-all-on-g|Add
+  your own files to Deep Research and bring reports to life in Canvas, all on Gemini
+  2.5]]'
 source_release: '[[Releases/Cline/cline-2025-05-22-v3-17-0-github-220457349-75a64834|cline-2025-05-22-v3-17-0-github-220457349-75a64834]]'
 source_type: github_releases
 theme: model-support
@@ -80,7 +83,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2025-05-18 · Cline · [[Changes/Cline/2025-05-18-2-model-support-changes-in-v3-16-1|2 Model Support changes in v3.16.1]]
+- Earlier: 2025-05-20 · Gemini · [[Changes/Gemini/2025-05-20-add-your-own-files-to-deep-research-and-bring-reports-to-life-in-canvas-all-on-g|Add your own files to Deep Research and bring reports to life in Canvas, all on Gemini 2.5]]
 - Later: 2025-05-22 · Cline · [[Changes/Cline/2025-05-22-add-support-for-claude-4-models-sonnet-4-and-opus-4-in-aws-bedrock-and-vertex-ai|Add support for Claude 4 models (Sonnet 4 and Opus 4) in AWS Bedrock and Vertex AI…]]
 <!-- chronolog:end -->
 

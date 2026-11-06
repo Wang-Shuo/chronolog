@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 256cbf8d120ea7ac654ee6150323ee199ebb0e645fa20537e8327ef00c3e0f3f
+machine_hash: 98d805fdc07847e8d03b2ca79e8954d2299293413c897cb5578473dbb26a8916
 product: cursor
 product_name: Cursor
 record:
@@ -62,12 +62,12 @@ record:
   title: MCP one-click install and OAuth support
   type: change
 related_changes:
-- '[[Changes/Aider/2025-03-31-2-account-and-access-changes-in-v0-80-0|2 Account and
-  Access changes in v0.80.0]]'
-- '[[Changes/Aider/2025-04-04-2-account-and-access-changes-in-v0-81-0|2 Account and
-  Access changes in v0.81.0]]'
-- '[[Changes/OpenHands/2025-04-16-added-support-for-gitlab-api-calling-using-both-oauth-and-pat-tokens-by-malhotra|Added
-  support for GitLab API calling using both OAuth and PAT tokens]]'
+- '[[Changes/Replit/2025-05-16-replit-auth-matching-by-default|Replit Auth matching
+  by default]]'
+- '[[Changes/Open WebUI/2025-05-26-2-account-and-access-changes-in-v0-6-11|2 Account
+  and Access changes in v0.6.11]]'
+- '[[Changes/Dify/2025-05-27-refactor-consolidate-flask-login-authentication-logic-by-laipz8200-in-https-gith|refactor:
+  Consolidate Flask-Login Authentication Logic]]'
 source_release: '[[Releases/Cursor/cursor-2025-06-04-1-0-https-cursor-com-changelog-1-0-237767ca|cursor-2025-06-04-1-0-https-cursor-com-changelog-1-0-237767ca]]'
 source_type: cursor_changelog
 theme: account-access
@@ -113,8 +113,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Account and Access
 
-- Earlier: 2025-04-16 · OpenHands · [[Changes/OpenHands/2025-04-16-added-support-for-gitlab-api-calling-using-both-oauth-and-pat-tokens-by-malhotra|Added support for GitLab API calling using both OAuth and PAT tokens]]
-- Later: 2025-07-01 · Gemini CLI · [[Changes/Gemini CLI/2025-07-01-rename-authtype-login-with-google-personal-login-with-google-by-scidomino-in-htt|Rename AuthType LOGIN_WITH_GOOGLE_PERSONAL - LOGIN_WITH_GOOGLE]]
+- Earlier: 2025-05-27 · Dify · [[Changes/Dify/2025-05-27-refactor-consolidate-flask-login-authentication-logic-by-laipz8200-in-https-gith|refactor: Consolidate Flask-Login Authentication Logic]]
+- Later: 2025-06-11 · Dify · [[Changes/Dify/2025-06-11-email-invitation-fixes-smtp-authentication-errors-resolved-20545-by-anshumansain|Email Invitation Fixes]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

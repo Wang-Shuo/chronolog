@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 1bae5bea6abe66aeb5f445b3d5ce6288bd99e54cdc622cd3965a80725029abd3
+machine_hash: c4be42942acf47ef143f8d4e6779a27561235c52b74dbcd9b5d0cff6db0e8cd9
 product: windsurf
 product_name: Windsurf
 record:
@@ -42,10 +42,10 @@ record:
   title: 2 Reliability and Performance changes in v1.13.6
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-01-08-2-reliability-and-performance-changes-in-new-cli-features-and-improved-cli|2
-  Reliability and Performance changes in New CLI Features and Improved CLI…]]'
-- '[[Changes/Codex CLI/2026-01-09-codex-cli-subprocesses-again-inherit-env-vars-like-ld-library-path-dyld-library|Codex
-  CLI subprocesses again inherit env vars like…]]'
+- "[[Changes/Open WebUI/2026-01-10-the-evaluations-page-now-loads-faster-by-eliminating-duplicate-api-calls-to-the|\U0001F4CA
+  The Evaluations page now loads faster by eliminating duplicate API calls…]]"
+- '[[Changes/Dify/2026-01-13-4-reliability-and-performance-changes-in-1-11-3|4 Reliability
+  and Performance changes in 1.11.3]]'
 - '[[Changes/GitHub Copilot CLI/2026-01-13-sessions-with-large-conversation-history-load-faster-on-startup|Sessions
   with large conversation history load faster on startup]]'
 source_release: '[[Releases/Windsurf/windsurf-2026-01-13-v1-13-6-e1532028|windsurf-2026-01-13-v1-13-6-e1532028]]'

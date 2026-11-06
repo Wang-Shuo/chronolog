@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 7a0f094dd85ef36f15e3f8eddd5486f8b9d76e0383f538b8ccaaee93bcc5f4cc
+machine_hash: 91f03e7fa4582ae0c6c82affab8f74da46a7fdbf599c5f061fe00f244219f0e5
 product: aider
 product_name: Aider
 record:
@@ -50,12 +50,12 @@ record:
   title: 4 Model Support changes in v0.74.0
   type: change
 related_changes:
-- '[[Changes/Cline/2025-01-30-save-last-used-api-model-when-switching-between-plan-and-act-for-users-that-like|Save
-  last used API/model when switching between Plan and Act, for users that like…]]'
-- '[[Changes/Aider/2025-01-31-5-model-support-changes-in-v0-73-0|5 Model Support changes
-  in v0.73.0]]'
-- '[[Changes/OpenHands/2025-02-04-2-model-support-changes-in-0-23-0|2 Model Support
-  changes in 0.23.0]]'
+- '[[Changes/Gemini/2025-02-05-priority-access-with-gemini-advanced-try-our-2-0-pro-experimental-model|Priority
+  access with Gemini Advanced: Try our 2.0 Pro Experimental model]]'
+- "[[Changes/Open WebUI/2025-02-05-think-tag-display-issue-resolved-a-bug-where-the-think-tag-was-not-functioning-c|\U0001F4A1
+  \"Think\" Tag Display Issue]]"
+- "[[Changes/Open WebUI/2025-02-05-max-tokens-issue-fixes-cases-where-max-tokens-were-not-applied-correctly-ensurin|\U0001F527
+  Max Tokens Issue]]"
 source_release: '[[Releases/Aider/aider-2025-02-06-v0-74-0-github-198937852-317852a7|aider-2025-02-06-v0-74-0-github-198937852-317852a7]]'
 source_type: github_releases
 theme: model-support
@@ -94,8 +94,8 @@ Source: https://github.com/Aider-AI/aider/releases/tag/v0.74.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2025-02-04 · OpenHands · [[Changes/OpenHands/2025-02-04-2-model-support-changes-in-0-23-0|2 Model Support changes in 0.23.0]]
-- Later: 2025-02-19 · OpenHands · [[Changes/OpenHands/2025-02-19-better-error-when-llm-settings-do-not-exist-by-amanape-in-https-github-com-all-h|Better error when LLM settings do not exist]]
+- Earlier: 2025-02-05 · Open WebUI · [[Changes/Open WebUI/2025-02-05-max-tokens-issue-fixes-cases-where-max-tokens-were-not-applied-correctly-ensurin|🔧 Max Tokens Issue]]
+- Later: 2025-02-07 · Dify · [[Changes/Dify/2025-02-07-22-model-support-changes-in-0-15-3|22 Model Support changes in 0.15.3]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

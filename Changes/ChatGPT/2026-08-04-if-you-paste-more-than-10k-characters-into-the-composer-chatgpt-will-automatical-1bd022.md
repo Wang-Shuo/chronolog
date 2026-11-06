@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 9ddf2d9487ea5fab0a5a94537e149a016a09315789172ad618ca5d90ab739cbd
+machine_hash: 857e81b97de0941ca5f56b4040c31b924a9ac7f6da7d59dad7f5938094330227
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -54,8 +54,8 @@ record:
   title: If you paste more than 10k characters into the composer, ChatGPT will automatically…
   type: change
 related_changes:
-- '[[Changes/Cline/2026-07-24-add-claude-opus-5-across-the-anthropic-claude-code-bedrock-vertex-cline-and-open|Add
-  Claude Opus 5 across the Anthropic, Claude Code, Bedrock, Vertex, Cline…]]'
+- '[[Changes/Dify/2026-07-28-refactor-agents-simplify-repository-context-by-lyzno1-in-https-github-com-langge|refactor(agents):
+  simplify repository context]]'
 - '[[Changes/Codex CLI/2026-07-29-5-context-window-changes-in-rust-v0-146-0|5 Context
   Window changes in rust-v0.146.0]]'
 - '[[Changes/GitHub Copilot CLI/2026-07-30-restore-the-early-warning-when-unreclaimable-system-and-tool-context-nears-the-l|Restore

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: d6d23350aff6bcec522728ad994a6ba473efeb802e763b4b7eb30c75b7eb5611
+machine_hash: 2f18bca5b2d8fd79e307eb56a53fb2dd0f2622d5da27bfaed96057a83d309b98
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -44,12 +44,11 @@ record:
   title: As of https://github.com/openai/codex/pull/1594, we now stream the response…
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2025-07-11-5-model-support-changes-in-v0-1-10|5 Model Support
-  changes in v0.1.10]]'
 - '[[Changes/Cline/2025-07-15-add-kimi-k2-as-trending-model-by-celestial-vault-in-https-github-com-cline-cline|Add
   kimi-k2 as trending model]]'
 - '[[Changes/OpenHands/2025-07-16-added-openhands-provider-for-llm-through-openhands-cloud-by-xingyaoww-in-https-g|Added
   OpenHands provider for LLM through OpenHands Cloud]]'
+- '[[Changes/Replit/2025-07-18-llm-routing-improvements|LLM routing improvements]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2025-07-19-rust-v0-8-0-github-233643033-2038cb65|codex-cli-2025-07-19-rust-v0-8-0-github-233643033-2038cb65]]'
 source_type: github_releases
 theme: model-support
@@ -82,7 +81,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2025-07-16 · OpenHands · [[Changes/OpenHands/2025-07-16-added-openhands-provider-for-llm-through-openhands-cloud-by-xingyaoww-in-https-g|Added OpenHands provider for LLM through OpenHands Cloud]]
+- Earlier: 2025-07-18 · Replit · [[Changes/Replit/2025-07-18-llm-routing-improvements|LLM routing improvements]]
 - Later: 2025-07-19 · Gemini CLI · [[Changes/Gemini CLI/2025-07-19-4-model-support-changes-in-v0-1-13|4 Model Support changes in v0.1.13]]
 <!-- chronolog:end -->
 

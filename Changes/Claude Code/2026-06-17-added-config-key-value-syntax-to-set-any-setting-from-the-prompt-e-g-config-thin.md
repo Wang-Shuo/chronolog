@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 3fa6897710ce68b975d00cca1327c6c033925d10d00991b85bc709d899b1b9dc
+machine_hash: 7fad1687053965e81aeffc25d8b8a6469d0410605577198bf957c2c47965e427
 product: claude-code
 product_name: Claude Code
 record:
@@ -85,7 +85,7 @@ type: change
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-06-17 · ChatGPT · [[Changes/ChatGPT/2026-06-17-monitoring-tasks-can-search-the-web-and-check-connected-apps-for-changes-and-not|Monitoring tasks can search the web and check connected apps for changes and notify…]]
-- Later: 2026-06-18 · Codex CLI · [[Changes/Codex CLI/2026-06-18-17-apps-and-integrations-changes-in-rust-v0-141-0|17 Apps and Integrations changes in rust-v0.141.0]]
+- Later: 2026-06-17 · Lovable · [[Changes/Lovable/2026-06-17-build-in-lovable-from-claude|Build in Lovable from Claude]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

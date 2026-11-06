@@ -4,20 +4,20 @@ date: '2025-05-07'
 description: 'OpenHands · 2025-05-07 · Automation and Scheduling: Made proactive conversation
   starters for Cloud Resolver configurable on a per-user basis. Can be toggled in…'
 diffusion:
-  first_in_tracked: '[[Changes/OpenHands/2024-09-04-better-syntax-error-loop-detection-by-tobitege-in-https-github-com-all-hands-ai|Better
-    syntax error loop detection]]'
+  first_in_tracked: '[[Changes/Dify/2024-01-02-add-data-clean-schedule-by-johnjyong-in-https-github-com-langgenius-dify-pull-18|Add
+    data clean schedule]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 245
+  lag_days: 491
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 7e33268b5b78f0a428847bcf851a9ed55ece69115944f8ca3b46c6b8f2f67c4d
+machine_hash: 801ea5460d444cf5042d67f9e0ca359382a3bc459013d0dff298ee9f43d989e2
 product: openhands
 product_name: OpenHands
 record:
@@ -47,12 +47,12 @@ record:
     per-user basis
   type: change
 related_changes:
-- '[[Changes/OpenHands/2024-09-04-better-syntax-error-loop-detection-by-tobitege-in-https-github-com-all-hands-ai|Better
-  syntax error loop detection]]'
-- '[[Changes/Cline/2025-01-06-there-is-now-a-see-new-changes-button-when-cline-completes-a-task-giving-you-an|There
-  is now a ‘See new changes’ button when Cline completes a task, giving you…]]'
-- '[[Changes/ChatGPT/2025-01-14-today-we-re-rolling-out-a-beta-version-of-tasks-a-new-way-to-ask-chatgpt-to-do-t-2d33b6|Scheduled
-  tasks in ChatGPT]]'
+- '[[Changes/Dify/2025-04-09-5-automation-and-scheduling-changes-in-1-2-0|5 Automation
+  and Scheduling changes in 1.2.0]]'
+- "[[Changes/Open WebUI/2025-04-13-elixir-code-highlighting-support-elixir-syntax-is-now-beautifully-rendered-in-co|\U0001F9E0
+  Elixir Code Highlighting Support]]"
+- "[[Changes/Open WebUI/2025-05-05-more-robust-action-module-execution-multiple-actions-in-a-module-now-trigger-as|\U0001F6E0️
+  More Robust Action Module Execution]]"
 source_release: '[[Releases/OpenHands/openhands-2025-05-07-0-37-0-github-217110161-eb6d03c5|openhands-2025-05-07-0-37-0-github-217110161-eb6d03c5]]'
 source_type: github_releases
 theme: automation-scheduling
@@ -83,14 +83,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Automation and Scheduling
 
-- Earlier: 2025-01-14 · ChatGPT · [[Changes/ChatGPT/2025-01-14-today-we-re-rolling-out-a-beta-version-of-tasks-a-new-way-to-ask-chatgpt-to-do-t-2d33b6|Scheduled tasks in ChatGPT]]
-- Later: 2025-07-01 · Gemini CLI · [[Changes/Gemini CLI/2025-07-01-refactor-use-for-of-loop-instead-of-traditional-for-loop-by-noritaka1166-in-http|refactor: use for...of loop instead of traditional for loop]]
+- Earlier: 2025-05-05 · Open WebUI · [[Changes/Open WebUI/2025-05-05-more-robust-action-module-execution-multiple-actions-in-a-module-now-trigger-as|🛠️ More Robust Action Module Execution]]
+- Later: 2025-05-15 · Dify · [[Changes/Dify/2025-05-15-refactor-workflow-revamp-logging-module-for-loop-iteration-nodes-by-auxpd-in-htt|refactor(workflow): revamp logging module for loop & iteration nodes]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2024-09-04 · OpenHands · [[Changes/OpenHands/2024-09-04-better-syntax-error-loop-detection-by-tobitege-in-https-github-com-all-hands-ai|Better syntax error loop detection]]
+- Earliest same-theme entry in the tracked set: 2024-01-02 · Dify · [[Changes/Dify/2024-01-02-add-data-clean-schedule-by-johnjyong-in-https-github-com-langgenius-dify-pull-18|Add data clean schedule]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: ca3355c538c8dc4da977d47493110b5baa6915fbc1f78bfb4da83b56c2300855
+machine_hash: 4bbd7330db64f18d1f5c17955bf65d41b381c0ac2ef4424444498d5a5ad5057c
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -42,9 +42,10 @@ record:
   title: 2 Context Window changes in rust-v0.78.0
   type: change
 related_changes:
-- '[[Changes/Windsurf/2025-12-24-context-window-indicator|Context Window Indicator]]'
 - '[[Changes/Windsurf/2025-12-24-multiple-fixes-to-the-model-context-protocol-implementation|Multiple
   fixes to the Model Context Protocol implementation]]'
+- '[[Changes/Dify/2025-12-25-test-add-unit-tests-for-datasetconfig-component-with-comprehensive-coverage-of-r|test:
+  add unit tests for DatasetConfig component with comprehensive coverage…]]'
 - '[[Changes/GitHub Copilot CLI/2026-01-02-add-auto-compaction-at-95-token-limit-and-compact-command|Add
   auto-compaction at 95% token limit and /compact command]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-01-06-rust-v0-78-0-github-274610568-c3df153a|codex-cli-2026-01-06-rust-v0-78-0-github-274610568-c3df153a]]'

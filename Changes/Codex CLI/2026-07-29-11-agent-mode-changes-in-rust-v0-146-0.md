@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: d4a846138ed2890c350a82ada6cd8179d503f849aaafcd0755c8a29b97388310
+machine_hash: 8fbabb185bcecf21d2dc41fb2cd524b894d7742720620721a5287af34eb0b1b4
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -61,10 +61,10 @@ record:
   title: 11 Agent Mode changes in rust-v0.146.0
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-07-24-4-agent-mode-changes-in-v2-1-219|4 Agent Mode
-  changes in v2.1.219]]'
 - '[[Changes/Cursor/2026-07-28-always-on-cloud-agents-that-build-test-and-ship-code-while-you-keep-working-725c7c|Always-on
   cloud agents that build, test, and ship code while you keep working]]'
+- '[[Changes/Dify/2026-07-28-24-agent-mode-changes-in-1-16-1|24 Agent Mode changes
+  in 1.16.1]]'
 - '[[Changes/OpenHands/2026-07-28-this-release-migration-was-performed-by-an-ai-agent-openhands-on-behalf-of-the-u|This
   release migration was performed by an AI agent (OpenHands) on behalf of the user]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-07-29-rust-v0-146-0-github-361463950-6d491983|codex-cli-2026-07-29-rust-v0-146-0-github-361463950-6d491983]]'

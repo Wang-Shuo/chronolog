@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: search-browsing
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: fb99e01316ee37131d59586294e4acc3b402595a4727f498d5061c1b6c29f0c7
+machine_hash: e637b3102b789d6c5d379a40d83a98f990cdd3d128c12d02d7972679594a9e1a
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -101,7 +101,7 @@ type: change
 ## Nearby in Search and Browsing
 
 - Earlier: 2026-04-15 · Codex CLI · [[Changes/Codex CLI/2026-04-15-17684-adjust-default-tool-search-result-caps-malone-oai|♯17684 Adjust default tool search result caps @malone-oai]]
-- Later: 2026-05-01 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-05-01-research-uses-an-orchestrator-subagent-model-for-more-thorough-and-reliable-deep|/research uses an orchestrator/subagent model for more thorough and reliable deep…]]
+- Later: 2026-04-21 · Open WebUI · [[Changes/Open WebUI/2026-04-21-4-search-and-browsing-changes-in-v0-9-0|4 Search and Browsing changes in v0.9.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

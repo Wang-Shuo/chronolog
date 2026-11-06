@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: search-browsing
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: dd0dce81e0a130409562c35bccdba8b9b1b1f2743e86ec13e64ddc80ee6a779a
+machine_hash: 1fbad0ca2293519ff3bfd0b5c4c967e17b1d32f510d83e62085cacf64833df17
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -51,10 +51,10 @@ record:
   title: Add plugins marketplace browse and update commands
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-06-23-add-mcp-registry-installation-for-browsing-and-installing-mcp-servers|Add
-  /mcp registry installation for browsing and installing MCP servers]]'
 - '[[Changes/GitHub Copilot CLI/2026-07-01-browse-resume-and-switch-between-sessions-from-the-agents-screen|Browse,
   resume, and switch between sessions from the agents screen]]'
+- "[[Changes/Open WebUI/2026-07-01-web-search-domain-filtering-domain-allow-and-block-rules-for-web-search-results|\U0001F512
+  Web search domain filtering. Domain allow and block rules for web search…]]"
 - '[[Changes/Codex CLI/2026-07-09-31525-core-migrate-standalone-web-search-to-extension-owned-turn-items-owenlin0|♯31525
   core: migrate standalone web search to extension-owned turn items @owenlin0]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-07-16-v1-0-71-github-354824472-a089f622|github-copilot-cli-2026-07-16-v1-0-71-github-354824472-a089f622]]'

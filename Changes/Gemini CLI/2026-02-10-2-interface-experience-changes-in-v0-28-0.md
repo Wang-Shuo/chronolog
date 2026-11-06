@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: a69acfd073851473db7c7b4134c5b12e2f37819cacbc008bd019885254d973c0
+machine_hash: 6ff0f8bcb9552753db73640b1098a9392daed75a40fa9155bee35c9e1a55d016
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -45,8 +45,8 @@ record:
   title: 2 Interface Experience changes in v0.28.0
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-02-06-2-interface-experience-changes-in-v2-1-33|2 Interface
-  Experience changes in v2.1.33]]'
+- '[[Changes/v0/2026-02-09-improved-sidebar-pagination-to-load-more-items-on-scroll|Improved
+  sidebar pagination to load more items on scroll]]'
 - '[[Changes/ChatGPT/2026-02-10-we-re-introducing-improvements-to-deep-research-in-chatgpt-to-help-produce-more|Updates
   to deep research]]'
 - '[[Changes/Claude Code/2026-02-10-improved-terminal-rendering-performance|Improved

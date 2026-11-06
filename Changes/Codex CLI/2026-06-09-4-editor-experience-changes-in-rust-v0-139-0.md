@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: d8f76b976b4c31f13394c6858851eb0c492bc15b6b8f5a9261c397eefb781657
+machine_hash: 89899194ea267d70e84bf9267b566f8245b7fd5f0f4cc4ff800b9cc90d7537dc
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -49,12 +49,12 @@ record:
   title: 4 Editor Experience changes in rust-v0.139.0
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-06-08-edit-messages-with-attachments-you-can-now-edit-messages-that-include-attachment|Edit
-  messages with attachments]]'
-- '[[Changes/Claude Code/2026-06-08-background-sessions-now-preserve-ide-chrome-bare-remote-control-and-other-flags|Background
-  sessions now preserve --ide, --chrome, --bare, --remote-control…]]'
 - '[[Changes/Codex CLI/2026-06-08-3-editor-experience-changes-in-rust-v0-138-0|3 Editor
   Experience changes in rust-v0.138.0]]'
+- '[[Changes/Lovable/2026-06-08-markdown-preview-in-the-code-editor|Markdown preview
+  in the code editor]]'
+- '[[Changes/v0/2026-06-08-v0-can-now-write-sql-for-you-in-db-studio-describe-the-query-you-want-and-v0-dra|v0
+  can now write SQL for you in DB Studio]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-06-09-rust-v0-139-0-github-336847772-eda0ee6f|codex-cli-2026-06-09-rust-v0-139-0-github-336847772-eda0ee6f]]'
 source_type: github_releases
 theme: editor-experience
@@ -100,7 +100,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.139.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2026-06-08 · Codex CLI · [[Changes/Codex CLI/2026-06-08-3-editor-experience-changes-in-rust-v0-138-0|3 Editor Experience changes in rust-v0.138.0]]
+- Earlier: 2026-06-08 · v0 · [[Changes/v0/2026-06-08-v0-can-now-write-sql-for-you-in-db-studio-describe-the-query-you-want-and-v0-dra|v0 can now write SQL for you in DB Studio]]
 - Later: 2026-06-09 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-06-09-4-editor-experience-changes-in-v1-0-61|4 Editor Experience changes in v1.0.61]]
 <!-- chronolog:end -->
 

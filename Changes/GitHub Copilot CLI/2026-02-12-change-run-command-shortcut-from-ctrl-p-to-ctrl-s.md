@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 32ac30ac91d2348c1a36ab86d975a0fd6930607601a2eb594f6896d4ad656a22
+machine_hash: 51c300d483b8aca7a89bdbe27c7aa61c784b5bac1b523fc552ac95d6a6630878
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -81,7 +81,7 @@ type: change
 ## Nearby in Developer Workflow
 
 - Earlier: 2026-02-12 · Codex CLI · [[Changes/Codex CLI/2026-02-12-11412-tui-show-non-file-layer-content-in-debug-config-bolinfest|♯11412 tui: show non-file layer content in /debug-config @bolinfest]]
-- Later: 2026-02-17 · Codex CLI · [[Changes/Codex CLI/2026-02-17-3-developer-workflow-changes-in-rust-v0-102-0|3 Developer Workflow changes in rust-v0.102.0]]
+- Later: 2026-02-12 · Open WebUI · [[Changes/Open WebUI/2026-02-12-27-developer-workflow-changes-in-v0-8-0|27 Developer Workflow changes in v0.8.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

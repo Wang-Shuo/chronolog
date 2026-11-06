@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 74b64e62dd6b6d9f731a9d0aa850e040b13c8740f4bc3fede47bd2234cd7051c
+machine_hash: 7afebd535bcdaea549185269fa3388e5d0bedb9805fede14b37087f77ec7f1f4
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -39,12 +39,12 @@ record:
   title: '#10404 Cleanup collaboration mode variants @charley-oai'
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-01-25-5-collaboration-changes-in-rust-v0-90-0|5 Collaboration
-  changes in rust-v0.90.0]]'
 - '[[Changes/Codex CLI/2026-01-27-2-collaboration-changes-in-rust-v0-92-0|2 Collaboration
   changes in rust-v0.92.0]]'
 - '[[Changes/Windsurf/2026-01-30-admins-can-now-set-a-default-model-that-applies-to-all-team-members-when-they-fi|Admins
   can now set a default model that applies to all team members when they first…]]'
+- '[[Changes/Ollama/2026-02-03-qwen3-coder-next-https-ollama-com-library-qwen3-coder-next-a-coding-focused-lang|Qwen3-Coder-Next((source
+  link) a coding-focused…]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-02-04-rust-v0-95-0-github-282823276-932b0b6b|codex-cli-2026-02-04-rust-v0-95-0-github-282823276-932b0b6b]]'
 source_type: github_releases
 theme: collaboration
@@ -83,7 +83,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Collaboration
 
-- Earlier: 2026-01-30 · Windsurf · [[Changes/Windsurf/2026-01-30-admins-can-now-set-a-default-model-that-applies-to-all-team-members-when-they-fi|Admins can now set a default model that applies to all team members when they first…]]
+- Earlier: 2026-02-03 · Ollama · [[Changes/Ollama/2026-02-03-qwen3-coder-next-https-ollama-com-library-qwen3-coder-next-a-coding-focused-lang|Qwen3-Coder-Next((source link) a coding-focused…]]
 - Later: 2026-02-05 · Claude Code · [[Changes/Claude Code/2026-02-05-added-research-preview-agent-teams-feature-for-multi-agent-collaboration-token-i|Added research preview agent teams feature for multi-agent collaboration…]]
 <!-- chronolog:end -->
 

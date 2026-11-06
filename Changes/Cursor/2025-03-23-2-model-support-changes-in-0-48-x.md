@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: fde08ef2114e1bfe5fafbe9425293aa80dba911afbabf9e77bf6663622951bae
+machine_hash: a03241edaa89a5c69e62134601f4934e6df3248a04178021a779bfe5f96e53d3
 product: cursor
 product_name: Cursor
 record:
@@ -45,10 +45,10 @@ record:
   title: 2 Model Support changes in 0.48.x
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2025-03-18-o1-and-o3-mini-now-offer-python-powered-data-analysis-in-chatgpt-you-can-now-ask-bfa530|o1
-  and o3-mini now offer Python-powered data analysis in ChatGPT]]'
 - '[[Changes/OpenHands/2025-03-18-make-microagents-available-in-the-event-stream-as-recall-observations-accessible|Make
   microagents available in the event stream as recall observations…]]'
+- '[[Changes/Dify/2025-03-20-2-model-support-changes-in-1-1-1|2 Model Support changes
+  in 1.1.1]]'
 - '[[Changes/Aider/2025-03-21-6-model-support-changes-in-v0-78-0|6 Model Support changes
   in v0.78.0]]'
 source_release: '[[Releases/Cursor/cursor-2025-03-23-0-48-x-https-cursor-com-changelog-0-48-x-7b3e771b|cursor-2025-03-23-0-48-x-https-cursor-com-changelog-0-48-x-7b3e771b]]'
@@ -98,7 +98,7 @@ Source: https://cursor.com/changelog/0-48-x
 ## Nearby in Model Support
 
 - Earlier: 2025-03-21 · Aider · [[Changes/Aider/2025-03-21-6-model-support-changes-in-v0-78-0|6 Model Support changes in v0.78.0]]
-- Later: 2025-03-25 · Aider · [[Changes/Aider/2025-03-25-2-model-support-changes-in-v0-79-0|2 Model Support changes in v0.79.0]]
+- Later: 2025-03-24 · DeepSeek API · [[Changes/DeepSeek API/2025-03-24-deepseek-chat|deepseek-chat]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

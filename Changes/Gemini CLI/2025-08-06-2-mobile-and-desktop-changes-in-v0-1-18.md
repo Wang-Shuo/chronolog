@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: f7131b34296f2ca9f8abebe18e059414c2de1b2b20350fc2ceeff37b708864b0
+machine_hash: fecdff52b8134a782694dcf1e61e85f7536f3e46c66392347bd0dd57f10ec5f4
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -42,12 +42,12 @@ record:
   title: 2 Mobile and Desktop changes in v0.1.18
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2025-07-30-2-mobile-and-desktop-changes-in-v0-1-15|2 Mobile
-  and Desktop changes in v0.1.15]]'
 - '[[Changes/Gemini CLI/2025-08-02-2-mobile-and-desktop-changes-in-v0-1-16|2 Mobile
   and Desktop changes in v0.1.16]]'
 - '[[Changes/Gemini CLI/2025-08-05-2-mobile-and-desktop-changes-in-v0-1-17|2 Mobile
   and Desktop changes in v0.1.17]]'
+- '[[Changes/Gemini/2025-08-06-go-beyond-the-answer-with-step-by-step-guided-learning|Go
+  Beyond the Answer with Step-by-Step Guided Learning]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2025-08-06-v0-1-18-github-237823435-7c1f8990|gemini-cli-2025-08-06-v0-1-18-github-237823435-7c1f8990]]'
 source_type: github_releases
 theme: mobile-desktop
@@ -93,8 +93,8 @@ Source: https://github.com/google-gemini/gemini-cli/releases/tag/v0.1.18
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2025-08-05 · Gemini CLI · [[Changes/Gemini CLI/2025-08-05-2-mobile-and-desktop-changes-in-v0-1-17|2 Mobile and Desktop changes in v0.1.17]]
-- Later: 2025-08-09 · Codex CLI · [[Changes/Codex CLI/2025-08-09-https-github-com-openai-codex-pull-2019-fixes-two-things-for-windows|(source link) fixes two things for Windows]]
+- Earlier: 2025-08-06 · Gemini · [[Changes/Gemini/2025-08-06-go-beyond-the-answer-with-step-by-step-guided-learning|Go Beyond the Answer with Step-by-Step Guided Learning]]
+- Later: 2025-08-06 · Ollama · [[Changes/Ollama/2025-08-06-statically-link-c-libraries-on-windows-for-better-compatibility|Statically link C++ libraries on windows for better compatibility]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

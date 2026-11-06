@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: da0d04284ee72ba6d8d183fda992c60e6815ff59f7cf5961edfd7a2ae8527205
+machine_hash: bcc95e66ccf9617e7ddd67adb2abb2d60b428a2b2a89913f172bffe099d5fd09
 product: aider
 product_name: Aider
 record:
@@ -47,12 +47,12 @@ record:
   title: 4 Developer Workflow changes in v0.36.0
   type: change
 related_changes:
-- '[[Changes/Aider/2024-03-04-prevents-bug-where-subsequent-git-commit-of-those-files-will-fail|Prevents
-  bug where subsequent git commit of those files will fail]]'
-- '[[Changes/Aider/2024-03-08-2-developer-workflow-changes-in-v0-26-0|2 Developer
-  Workflow changes in v0.26.0]]'
+- '[[Changes/Dify/2024-04-08-chore-replace-outdated-config-in-vscode-debug-settings-by-lng2020-in-https-githu|chore:
+  replace outdated config in vscode debug settings]]'
 - '[[Changes/Aider/2024-05-10-2-developer-workflow-changes-in-v0-34-0|2 Developer
   Workflow changes in v0.34.0]]'
+- '[[Changes/Dify/2024-05-13-feat-support-copy-run-text-result-in-debug-panel-in-workflow-by-iamjoel-in-https|feat:
+  support copy run text result in debug panel in workflow]]'
 source_release: '[[Releases/Aider/aider-2024-05-22-v0-36-0-github-156969729-e3ce2281|aider-2024-05-22-v0-36-0-github-156969729-e3ce2281]]'
 source_type: github_releases
 theme: developer-workflow
@@ -90,8 +90,8 @@ Source: https://github.com/Aider-AI/aider/releases/tag/v0.36.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2024-05-10 · Aider · [[Changes/Aider/2024-05-10-2-developer-workflow-changes-in-v0-34-0|2 Developer Workflow changes in v0.34.0]]
-- Later: 2024-06-04 · OpenHands · [[Changes/OpenHands/2024-06-04-windows-doc-extended-with-more-wsl-hints-by-tobitege-in-https-github-com-opendev|Windows doc extended with more WSL hints]]
+- Earlier: 2024-05-13 · Dify · [[Changes/Dify/2024-05-13-feat-support-copy-run-text-result-in-debug-panel-in-workflow-by-iamjoel-in-https|feat: support copy run text result in debug panel in workflow]]
+- Later: 2024-05-22 · Ollama · [[Changes/Ollama/2024-05-22-granite-code-https-ollama-com-library-granite-code-a-family-of-open-foundation-m|Granite code((source link) A family of open foundation…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: search-browsing
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: a45b55e165fa28c161ee221543132ccc409e15ecaa2e5a538dc64076868cbc7d
+machine_hash: 36b31e16221343fd6804bb7bb8f0b282127c07684fdffe80f03e029c08b472af
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -91,7 +91,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.57
 ## Nearby in Search and Browsing
 
 - Earlier: 2026-06-01 · Codex CLI · [[Changes/Codex CLI/2026-06-01-3-search-and-browsing-changes-in-rust-v0-136-0|3 Search and Browsing changes in rust-v0.136.0]]
-- Later: 2026-06-04 · Codex CLI · [[Changes/Codex CLI/2026-06-04-25702-codex-enable-parallel-standalone-web-search-calls-sayan-oai|♯25702 codex enable parallel standalone web search calls @sayan-oai]]
+- Later: 2026-06-01 · Open WebUI · [[Changes/Open WebUI/2026-06-01-9-search-and-browsing-changes-in-v0-9-6|9 Search and Browsing changes in v0.9.6]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

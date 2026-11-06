@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: search-browsing
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 8a80a7269141d4103e842752afe8a7b996a2720161310b51199fbcd170ae0447
+machine_hash: a631e03c7931cc4c04fb51209b19a09f362206eaf1905c7251a85ae453ba7b01
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -43,12 +43,12 @@ record:
   title: '#13538 chore: add web_search_tool_type for image support @sayan-oai'
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2026-02-25-introduce-limits-for-search-results-by-gundermanc-in-https-github-com-google-gem|Introduce
-  limits for search results]]'
 - '[[Changes/GitHub Copilot CLI/2026-02-25-add-research-command-for-deep-research-with-exportable-reports|Add
   /research command for deep research with exportable reports]]'
 - '[[Changes/ChatGPT/2026-02-27-open-search-results-in-a-new-tab-cmd-click-in-the-search-panel-now-opens-results|Open
   search results in a new tab]]'
+- '[[Changes/Open WebUI/2026-03-01-2-search-and-browsing-changes-in-v0-8-6|2 Search
+  and Browsing changes in v0.8.6]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-03-05-rust-v0-111-0-github-293639875-9259bb82|codex-cli-2026-03-05-rust-v0-111-0-github-293639875-9259bb82]]'
 source_type: github_releases
 theme: search-browsing
@@ -85,7 +85,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Search and Browsing
 
-- Earlier: 2026-02-27 · ChatGPT · [[Changes/ChatGPT/2026-02-27-open-search-results-in-a-new-tab-cmd-click-in-the-search-panel-now-opens-results|Open search results in a new tab]]
+- Earlier: 2026-03-01 · Open WebUI · [[Changes/Open WebUI/2026-03-01-2-search-and-browsing-changes-in-v0-8-6|2 Search and Browsing changes in v0.8.6]]
 - Later: 2026-03-06 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-03-06-elicitation-enum-and-boolean-fields-now-require-enter-to-confirm-a-selection-wit|Elicitation enum and boolean fields now require Enter to confirm a selection…]]
 <!-- chronolog:end -->
 

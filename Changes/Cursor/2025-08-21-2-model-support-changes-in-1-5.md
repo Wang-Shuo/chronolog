@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: d13f167746e8a61117595d8a051fde32c9dff22f427254287f34e9f8dcc7a6d6
+machine_hash: 37d92ee7e6aa7b465c2f753bd2f23373529452ac6ed203324c3316cedb274c0f
 product: cursor
 product_name: Cursor
 record:
@@ -90,7 +90,7 @@ Source: https://cursor.com/changelog/1-5
 ## Nearby in Model Support
 
 - Earlier: 2025-08-21 · Cline · [[Changes/Cline/2025-08-21-removing-max-tokens-from-sonic-model-by-pashpashpash-in-https-github-com-cline-c|removing max tokens from sonic model]]
-- Later: 2025-08-26 · Codex CLI · [[Changes/Codex CLI/2025-08-26-5-model-support-changes-in-rust-v0-24-0|5 Model Support changes in rust-v0.24.0]]
+- Later: 2025-08-21 · Open WebUI · [[Changes/Open WebUI/2025-08-21-7-model-support-changes-in-v0-6-23|7 Model Support changes in v0.6.23]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

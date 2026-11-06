@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 0e06bd4acf4176bbb3f1c68a6b1e9e8b6180f9fba8a85af3b93a7c57753a0b4f
+machine_hash: 5cb79a48ddd29b90dded4eb6ac0a5368ce7300eadd282114256608be2a40456d
 product: windsurf
 product_name: Windsurf
 record:
@@ -52,12 +52,12 @@ record:
   title: 5 Apps and Integrations changes in v3.11.212
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-23-2-apps-and-integrations-changes-in-v2-1-310|2
-  Apps and Integrations changes in v2.1.310]]'
-- '[[Changes/Codex CLI/2026-10-23-30-apps-and-integrations-changes-in-rust-v0-164-0|30
-  Apps and Integrations changes in rust-v0.164.0]]'
+- '[[Changes/Dify/2026-10-23-14-apps-and-integrations-changes-in-1-18-0|14 Apps and
+  Integrations changes in 1.18.0]]'
 - '[[Changes/OpenHands/2026-10-23-2-apps-and-integrations-changes-in-v1-32-0|2 Apps
   and Integrations changes in v1.32.0]]'
+- '[[Changes/Replit/2026-10-23-keep-your-apps-running-when-credits-run-out|Keep your
+  apps running when credits run out]]'
 source_release: '[[Releases/Windsurf/windsurf-2026-10-23-v3-11-212-ce285b20|windsurf-2026-10-23-v3-11-212-ce285b20]]'
 source_type: windsurf_changelog
 theme: apps-integrations
@@ -103,8 +103,8 @@ Source: https://docs.devin.ai/desktop/changelog#v3-11-212
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-10-23 · OpenHands · [[Changes/OpenHands/2026-10-23-2-apps-and-integrations-changes-in-v1-32-0|2 Apps and Integrations changes in v1.32.0]]
-- Later: 2026-10-26 · Claude Code · [[Changes/Claude Code/2026-10-26-3-apps-and-integrations-changes-in-v2-1-311|3 Apps and Integrations changes in v2.1.311]]
+- Earlier: 2026-10-23 · Replit · [[Changes/Replit/2026-10-23-keep-your-apps-running-when-credits-run-out|Keep your apps running when credits run out]]
+- Later: 2026-10-25 · Open WebUI · [[Changes/Open WebUI/2026-10-25-5-apps-and-integrations-changes-in-v0-12-4|5 Apps and Integrations changes in v0.12.4]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -1,0 +1,109 @@
+---
+card_id: open-webui-2024-08-07-014902
+date: '2024-08-07'
+description: "Open WebUI · 2024-08-07 · Interface Experience: 3 changes in v0.3.12
+  — **\U0001F504 Sidebar Infinite Scroll**: Added an infinite scroll feature in the
+  sidebar for more…"
+diffusion:
+  first_in_tracked: '[[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop
+    generating: Based on your feedback, we''ve added the ability to stop generating…]]'
+  inference: No adoption, equivalence, or causation claim.
+  lag_days: 576
+  relation: same-theme-chronology
+  role: later-observed
+  scope: tracked-products-only
+  theme: interface-experience
+  tracked_products_count: 20
+evolves_from: []
+extractor_version: fallback-v5
+impact: incremental
+kind: digest
+machine_hash: ff62a9e68322fa527c2f45307694a65a3edeab50754ab9515e60833be30a2718
+product: open-webui
+product_name: Open WebUI
+record:
+  card_id: open-webui-2024-08-07-014902
+  comparison: ''
+  date: '2024-08-07'
+  description: 'Open WebUI — v0.3.12: 3 Interface Experience changes'
+  evidence:
+  - quote: "**\U0001F504 Sidebar Infinite Scroll**: Added an infinite scroll feature
+      in the sidebar for more efficient chat navigation, reducing load times and enhancing
+      user experience."
+    source_release: https://github.com/open-webui/open-webui/releases/tag/v0.3.12
+  - quote: "**\U0001F680 Enhanced Markdown Rendering**: Support for rendering all
+      code blocks and making images clickable for preview; codespan styling is also
+      enhanced to improve readability and user interaction."
+    source_release: https://github.com/open-webui/open-webui/releases/tag/v0.3.12
+  - quote: "**\U0001F4CA Markdown Rendering Issues**: Resolved issues with markdown
+      rendering to ensure consistent and correct display across components."
+    source_release: https://github.com/open-webui/open-webui/releases/tag/v0.3.12
+  extractor_version: fallback-v5
+  impact: incremental
+  kind: digest
+  product: open-webui
+  product_name: Open WebUI
+  slug: 3-interface-experience-changes-in-v0-3-12
+  source_release: open-webui-2024-08-07-v0-3-12-github-169103544-20d8661f
+  source_type: github_releases
+  theme: interface-experience
+  title: 3 Interface Experience changes in v0.3.12
+  type: change
+related_changes:
+- '[[Changes/Aider/2024-07-31-switching-to-code-and-ask-mode-no-longer-summarizes-the-chat-history|Switching
+  to code and ask mode no longer summarizes the chat history]]'
+- '[[Changes/Gemini/2024-08-01-gemini-is-available-to-teens-in-more-countries-and-languages|Gemini
+  is available to teens in more countries and languages]]'
+- '[[Changes/Open WebUI/2024-08-02-3-interface-experience-changes-in-v0-3-11|3 Interface
+  Experience changes in v0.3.11]]'
+source_release: '[[Releases/Open WebUI/open-webui-2024-08-07-v0-3-12-github-169103544-20d8661f|open-webui-2024-08-07-v0-3-12-github-169103544-20d8661f]]'
+source_type: github_releases
+theme: interface-experience
+title: 3 Interface Experience changes in v0.3.12
+type: change
+---
+
+<!-- chronolog:begin region="header" -->
+# 3 Interface Experience changes in v0.3.12
+
+**Open WebUI** · 2024-08-07 · [[Themes/interface-experience|Interface Experience]] · Digest · [Official source](https://github.com/open-webui/open-webui/releases/tag/v0.3.12) · from [[Releases/Open WebUI/open-webui-2024-08-07-v0-3-12-github-169103544-20d8661f|v0.3.12]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="evidence" -->
+## Changes in this digest
+
+> **🔄 Sidebar Infinite Scroll**: Added an infinite scroll feature in the sidebar for more efficient chat navigation, reducing load times and enhancing user experience.
+
+> **🚀 Enhanced Markdown Rendering**: Support for rendering all code blocks and making images clickable for preview; codespan styling is also enhanced to improve readability and user interaction.
+
+> **📊 Markdown Rendering Issues**: Resolved issues with markdown rendering to ensure consistent and correct display across components.
+
+Source: https://github.com/open-webui/open-webui/releases/tag/v0.3.12
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="context" -->
+## Also in this release
+
+- [[Changes/Open WebUI/2024-08-07-modal-handling-fixed-an-issue-where-modals-were-not-closing-correctly-in-various|🗃️ Modal Handling]] · Model Support
+- [[Changes/Open WebUI/2024-08-07-2-safety-and-privacy-changes-in-v0-3-12|2 Safety and Privacy changes in v0.3.12]] · Safety and Privacy
+- [[Changes/Open WebUI/2024-08-07-language-updates-added-malay-bahasa-malaysia-translation-and-updated-catalan-and|🌍 Language Updates]] · Accessibility and Localization
+- [[Changes/Open WebUI/2024-08-07-non-streaming-support-for-functions-plugin-fixed-a-functionality-issue-with-the|🔧 Non-Streaming Support for Functions Plugin]] · Apps and Integrations
+- [[Changes/Open WebUI/2024-08-07-7-other-changes-in-v0-3-12|7 other changes in v0.3.12]] · Other changes
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="nearby" -->
+## Nearby in Interface Experience
+
+- Earlier: 2024-08-02 · Open WebUI · [[Changes/Open WebUI/2024-08-02-3-interface-experience-changes-in-v0-3-11|3 Interface Experience changes in v0.3.11]]
+- Later: 2024-08-14 · Dify · [[Changes/Dify/2024-08-14-2-interface-experience-changes-in-0-7-0|2 Interface Experience changes in 0.7.0]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="relations" -->
+## Related
+
+- Earliest same-theme entry in the tracked set: 2023-01-09 · ChatGPT · [[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop generating: Based on your feedback, we've added the ability to stop generating…]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="footer" -->
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20open-webui-2024-08-07-014902&body=Card%3A%20Changes%2FOpen%20WebUI%2F2024-08-07-3-interface-experience-changes-in-v0-3-12.md%0ACard%20ID%3A%20open-webui-2024-08-07-014902%0ASource%3A%20https%3A%2F%2Fgithub.com%2Fopen-webui%2Fopen-webui%2Freleases%2Ftag%2Fv0.3.12%0A%0AWhat%20should%20be%20corrected%3F%0A)
+<!-- chronolog:end -->

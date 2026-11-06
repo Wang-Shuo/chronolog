@@ -4,20 +4,20 @@ date: '2026-05-07'
 description: 'Codex CLI · 2026-05-07 · Files and Data: #21379 Document Codex git commit
   attribution config @henzelmann-oai'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-07-06-we-re-rolling-out-code-interpreter-to-all-chatgpt-plus-users-over-the-next-week-66255e|Code
-    interpreter is now rolling out in beta on web]]'
+  first_in_tracked: '[[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2
+    Files and Data changes in 0.2.2]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1036
+  lag_days: 1078
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 2df330cde644166d26bfb9b91e21d8408696168eb3dd4db2f89dfe2c44fdd4da
+machine_hash: 1743e1f1a7a8f64ac18a61b77e827d218f497d6ed2225f5d73e473e29b782b17
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -43,10 +43,10 @@ record:
   title: '#21379 Document Codex git commit attribution config @henzelmann-oai'
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-04-15-cursor-can-now-respond-by-creating-interactive-canvases-c4a1d3|Cursor
-  can now respond by creating interactive canvases]]'
-- '[[Changes/Codex CLI/2026-04-23-18423-chore-document-intentional-await-holding-cases-bolinfest|♯18423
-  chore: document intentional await-holding cases @bolinfest]]'
+- "[[Changes/Open WebUI/2026-04-24-paddleocr-vl-document-extraction-administrators-can-now-use-paddleocr-vl-as-a-co|\U0001F9E0
+  PaddleOCR-vl document extraction. Administrators can now use PaddleOCR-vl…]]"
+- '[[Changes/Dify/2026-04-29-13-files-and-data-changes-in-1-14-0|13 Files and Data
+  changes in 1.14.0]]'
 - '[[Changes/GitHub Copilot CLI/2026-05-05-add-attachment-flag-in-non-interactive-p-prompt-mode-to-attach-files-images-or-n|Add
   --attachment flag in non-interactive (-p/--prompt) mode to attach files…]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-05-07-rust-v0-129-0-github-319066904-0c2c638e|codex-cli-2026-05-07-rust-v0-129-0-github-319066904-0c2c638e]]'
@@ -93,13 +93,13 @@ type: change
 ## Nearby in Files and Data
 
 - Earlier: 2026-05-05 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-05-05-add-attachment-flag-in-non-interactive-p-prompt-mode-to-attach-files-images-or-n|Add --attachment flag in non-interactive (-p/--prompt) mode to attach files…]]
-- Later: 2026-05-14 · ChatGPT · [[Changes/ChatGPT/2026-05-14-file-library-is-expanding-to-free-and-go-users-including-to-users-in-the-europea-141640|File library is expanding to Free and Go users, including to users in the European…]]
+- Later: 2026-05-09 · Open WebUI · [[Changes/Open WebUI/2026-05-09-sanitized-spreadsheet-html-previews-spreadsheet-previews-now-sanitize-generated|🛡️ Sanitized spreadsheet HTML previews. Spreadsheet previews now sanitize…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-07-06 · ChatGPT · [[Changes/ChatGPT/2023-07-06-we-re-rolling-out-code-interpreter-to-all-chatgpt-plus-users-over-the-next-week-66255e|Code interpreter is now rolling out in beta on web]]
+- Earliest same-theme entry in the tracked set: 2023-05-25 · Dify · [[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2 Files and Data changes in 0.2.2]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

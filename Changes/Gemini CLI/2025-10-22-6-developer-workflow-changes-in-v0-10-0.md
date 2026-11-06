@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: ea68794004b74be114154fa29a31bf7c5d5bbf0ebc2e223d6318a7b2c96dae39
+machine_hash: a2e9280294ce80ada368612222aa957ccdd724e7403095dd9899c8564d8d2939
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -51,12 +51,12 @@ record:
   title: 6 Developer Workflow changes in v0.10.0
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2025-10-16-enabled-the-kitty-protocol-by-default-multi-line-input-is-now-supported-via-shif|Enabled
-  the Kitty protocol by default]]'
 - '[[Changes/Codex CLI/2025-10-17-add-parsed-command-to-execapprovalrequestevent-5222|Add
   parsed command to ExecApprovalRequestEvent (♯5222)]]'
 - '[[Changes/GitHub Copilot CLI/2025-10-18-2-developer-workflow-changes-in-v0-0-344|2
   Developer Workflow changes in v0.0.344]]'
+- '[[Changes/Dify/2025-10-22-chore-remove-pnpm-build-from-dev-setup-command-by-laipz8200-in-https-github-com|chore:
+  remove pnpm build from dev-setup command]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2025-10-22-v0-10-0-github-256434073-b3dd91c0|gemini-cli-2025-10-22-v0-10-0-github-256434073-b3dd91c0]]'
 source_type: github_releases
 theme: developer-workflow
@@ -108,7 +108,7 @@ Source: https://github.com/google-gemini/gemini-cli/releases/tag/v0.10.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2025-10-18 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2025-10-18-2-developer-workflow-changes-in-v0-0-344|2 Developer Workflow changes in v0.0.344]]
+- Earlier: 2025-10-22 · Dify · [[Changes/Dify/2025-10-22-chore-remove-pnpm-build-from-dev-setup-command-by-laipz8200-in-https-github-com|chore: remove pnpm build from dev-setup command]]
 - Later: 2025-10-22 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2025-10-22-ensured-we-preserve-comments-in-vscode-config-files-when-using-terminal-setup-fi|Ensured we preserve comments in VSCode config files when using /terminal-setup…]]
 <!-- chronolog:end -->
 

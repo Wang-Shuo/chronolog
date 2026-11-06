@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: pricing
-machine_hash: a11eb1d1f29b92fa8782df4ba7d671a738e1394414d5312c49b5ac72a612395e
+machine_hash: c0ad25435579a009771341d8165a5495cadf0564cfb62bc01c09ca5024649af6
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -44,10 +44,10 @@ record:
   title: '#47086 Format analytics credit usage with consistent decimal precision @fcoury-oai'
   type: change
 related_changes:
-- '[[Changes/Cline/2026-09-22-models-that-advertise-a-large-output-limit-now-get-a-bigger-default-output-budge|Models
-  that advertise a large output limit now get a bigger default output budget]]'
-- '[[Changes/Cursor/2026-09-23-for-the-next-10-days-we-re-including-usage-credits-so-teams-can-try-rollouts-on|For
-  the next 10 days, we''re including usage credits so teams can try Rollouts…]]'
+- '[[Changes/Lovable/2026-09-23-image-and-video-generation-now-appear-in-usage-details|Image
+  and video generation now appear in Usage details]]'
+- '[[Changes/Lovable/2026-09-23-see-the-estimated-monthly-cloud-cost-of-each-database-size|See
+  the estimated monthly Cloud cost of each database size]]'
 - '[[Changes/Claude Code/2026-09-24-updated-the-claude-api-skill-pre-output-refusal-billing-now-links-to-the-how-ref|Updated
   the claude-api skill]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-09-25-rust-v0-157-0-github-396234532-e8248ab3|codex-cli-2026-09-25-rust-v0-157-0-github-396234532-e8248ab3]]'

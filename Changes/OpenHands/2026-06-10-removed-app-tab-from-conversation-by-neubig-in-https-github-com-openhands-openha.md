@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 1840f3fb667ca92eb0ee87104462292708f9e8ea35839912f427193dbd180d77
+machine_hash: 08bebc4a938247aadca7935e3ff094f12c61f21f4c03cdd37d42779be0b760d3
 product: openhands
 product_name: OpenHands
 record:
@@ -41,8 +41,8 @@ record:
   title: Removed App tab from conversation
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-06-08-3-editor-experience-changes-in-rust-v0-138-0|3 Editor
-  Experience changes in rust-v0.138.0]]'
+- '[[Changes/v0/2026-06-08-v0-can-now-write-sql-for-you-in-db-studio-describe-the-query-you-want-and-v0-dra|v0
+  can now write SQL for you in DB Studio]]'
 - '[[Changes/Codex CLI/2026-06-09-4-editor-experience-changes-in-rust-v0-139-0|4 Editor
   Experience changes in rust-v0.139.0]]'
 - '[[Changes/GitHub Copilot CLI/2026-06-09-4-editor-experience-changes-in-v1-0-61|4

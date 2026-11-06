@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 00ab186f874fd0ad3c5fd7bb0de4cc7652c18f53491206ae446710d06f31c37b
+machine_hash: 44d73872898ed7b649de8d26a72b0784f6b6cf900cc97448cbbd9ae9ef0b01f7
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -89,7 +89,7 @@ Source: https://github.com/google-gemini/gemini-cli/releases/tag/v0.40.0
 ## Nearby in Model Support
 
 - Earlier: 2026-04-28 · Claude Code · [[Changes/Claude Code/2026-04-28-opentelemetry-added-stop-reason-gen-ai-response-finish-reasons-and-user-system-p|OpenTelemetry: added stop_reason, gen_ai.response.finish_reasons…]]
-- Later: 2026-04-30 · Codex CLI · [[Changes/Codex CLI/2026-04-30-10-model-support-changes-in-rust-v0-128-0|10 Model Support changes in rust-v0.128.0]]
+- Later: 2026-04-28 · Ollama · [[Changes/Ollama/2026-04-28-model-recommendations-are-now-updated-without-updating-ollama|Model recommendations are now updated without updating Ollama]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

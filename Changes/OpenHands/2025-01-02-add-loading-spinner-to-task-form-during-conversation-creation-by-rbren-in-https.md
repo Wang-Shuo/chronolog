@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: c774fd18af395566688e90c70059a819d9214bd127a5461220efc92e49a31b8b
+machine_hash: 6d7631db95b05078b800fcc96e7f2e3c29da674bd9a6d22c4bd628175d9a0a1b
 product: openhands
 product_name: OpenHands
 record:
@@ -44,11 +44,11 @@ record:
   title: Add loading spinner to task form during conversation creation
   type: change
 related_changes:
-- '[[Changes/Aider/2024-12-01-added-ctrl-up-down-keyboard-shortcuts-for-per-message-history-navigation|Added
-  Ctrl-Up/Down keyboard shortcuts for per-message history navigation]]'
-- '[[Changes/Aider/2024-12-06-2-interface-experience-changes-in-v0-67-0|2 Interface
-  Experience changes in v0.67.0]]'
+- "[[Changes/Open WebUI/2024-12-25-quick-screen-capture-button-effortlessly-capture-your-screen-with-a-single-click|\U0001F4F8
+  Quick Screen Capture Button]]"
 - '[[Changes/Aider/2024-12-26-https-aider-chat-history-html|(source link)]]'
+- '[[Changes/Open WebUI/2024-12-31-2-interface-experience-changes-in-v0-5-3|2 Interface
+  Experience changes in v0.5.3]]'
 source_release: '[[Releases/OpenHands/openhands-2025-01-02-0-18-0-github-192952809-1aa435e2|openhands-2025-01-02-0-18-0-github-192952809-1aa435e2]]'
 source_type: github_releases
 theme: interface-experience
@@ -77,8 +77,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2024-12-26 · Aider · [[Changes/Aider/2024-12-26-https-aider-chat-history-html|(source link)]]
-- Later: 2025-01-10 · Aider · [[Changes/Aider/2025-01-10-https-aider-chat-history-html|(source link)]]
+- Earlier: 2024-12-31 · Open WebUI · [[Changes/Open WebUI/2024-12-31-2-interface-experience-changes-in-v0-5-3|2 Interface Experience changes in v0.5.3]]
+- Later: 2025-01-03 · Replit · [[Changes/Replit/2025-01-03-menu-search-feature|Menu search feature]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

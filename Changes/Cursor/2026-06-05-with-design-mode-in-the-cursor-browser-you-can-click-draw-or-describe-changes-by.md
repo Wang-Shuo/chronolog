@@ -5,20 +5,20 @@ description: 'Cursor · 2026-06-05 · Voice and Audio: With Design Mode in the C
   browser, you can click, draw, or describe changes by voice to help agents update
   your UI.'
 diffusion:
-  first_in_tracked: '[[Changes/Aider/2023-08-11-voice-to-code-https-aider-chat-docs-voice-html-support-which-allows-you-to-code|Voice-to-code((source
-    link) support, which allows you…]]'
+  first_in_tracked: '[[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2
+    Voice and Audio changes in 0.3.7]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1029
+  lag_days: 1061
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 01583ce94daef124547df8a5367d12d86849ce97ead9c4fbe3cf430f36144d38
+machine_hash: 3ce7264a5d53a37d616ad8145821ccca213012833de2db4da1b73df81cda6435
 product: cursor
 product_name: Cursor
 record:
@@ -54,8 +54,8 @@ record:
     changes…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-05-13-vscode-voice-mode-the-wsl-error-now-suggests-installing-sox-libsox-fmt-pulse-for|VSCode
-  Voice mode]]'
+- '[[Changes/Open WebUI/2026-06-01-4-voice-and-audio-changes-in-v0-9-6|4 Voice and
+  Audio changes in v0.9.6]]'
 - '[[Changes/GitHub Copilot CLI/2026-06-02-add-the-voice-command-to-dictate-prompts-using-local-speech-to-text-models|Add
   the /voice command to dictate prompts using local speech-to-text models]]'
 - '[[Changes/Cursor/2026-06-05-narrate-changes-through-the-design-mode-overlay-the-mic-stays-available-while-an|Voice
@@ -90,13 +90,13 @@ type: change
 ## Nearby in Voice and Audio
 
 - Earlier: 2026-06-02 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-06-02-add-the-voice-command-to-dictate-prompts-using-local-speech-to-text-models|Add the /voice command to dictate prompts using local speech-to-text models]]
-- Later: 2026-06-13 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-06-13-voice-runtime-download-dialog-no-longer-reopens-in-a-loop-after-an-install-failu|Voice runtime download dialog no longer reopens in a loop after an install failure]]
+- Later: 2026-06-08 · ElevenLabs · [[Changes/ElevenLabs/2026-06-08-speech-to-text|Speech to Text]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-08-11 · Aider · [[Changes/Aider/2023-08-11-voice-to-code-https-aider-chat-docs-voice-html-support-which-allows-you-to-code|Voice-to-code((source link) support, which allows you…]]
+- Earliest same-theme entry in the tracked set: 2023-07-10 · Dify · [[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2 Voice and Audio changes in 0.3.7]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

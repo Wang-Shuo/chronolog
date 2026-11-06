@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 6eae7498987fc648bb167c409e1dcc9bbfa17ccea16504fcceb8ffe5c67cdac0
+machine_hash: 0d3dc401cd46ba4883aec25d76c6ab28b69c5bd137e11b2dad2d1e9a53ddaf0d
 product: windsurf
 product_name: Windsurf
 record:
@@ -41,7 +41,8 @@ record:
   title: New Family of SWE-1 Models
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-05-15-max-mode-for-all-top-models|Max Mode for all top models]]'
+- '[[Changes/Dify/2025-05-15-5-model-support-changes-in-1-4-0|5 Model Support changes
+  in 1.4.0]]'
 - '[[Changes/Windsurf/2025-05-15-swe-1|SWE-1]]'
 - '[[Changes/Windsurf/2025-05-15-swe-1-lite|SWE-1-lite]]'
 source_release: '[[Releases/Windsurf/windsurf-2025-05-15-v1-9-0-1e877714|windsurf-2025-05-15-v1-9-0-1e877714]]'
@@ -75,7 +76,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2025-05-15 · Cursor · [[Changes/Cursor/2025-05-15-max-mode-for-all-top-models|Max Mode for all top models]]
+- Earlier: 2025-05-15 · Dify · [[Changes/Dify/2025-05-15-5-model-support-changes-in-1-4-0|5 Model Support changes in 1.4.0]]
 - Later: 2025-05-18 · Cline · [[Changes/Cline/2025-05-18-2-model-support-changes-in-v3-16-1|2 Model Support changes in v3.16.1]]
 <!-- chronolog:end -->
 

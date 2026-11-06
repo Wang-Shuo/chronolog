@@ -4,20 +4,20 @@ date: '2026-06-23'
 description: 'GitHub Copilot CLI · 2026-06-23 · Multimodal Input: Clear queued tool
   images when vision is disabled'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-09-25-you-can-now-show-chatgpt-one-or-more-images-troubleshoot-why-your-grill-won-t-st-e42bd6|Image
-    input will be generally available to Plus users on all platforms]]'
+  first_in_tracked: '[[Changes/Dify/2023-09-19-add-video-to-cn-readme-by-crazywoola-in-https-github-com-langgenius-dify-pull-11|add
+    video to cn readme]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1002
+  lag_days: 1008
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: multimodal
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 538dccc297962cb67b3258ac82f4c1b53be0f6ce829dae7537466dd030da2ac8
+machine_hash: f2ee33dd4c4c1fd2d13d27ba4fd8570b402f4c632f9185192e2ef7a6417486f8
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -41,12 +41,11 @@ record:
   title: Clear queued tool images when vision is disabled
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-02-11-11336-always-expose-view-image-and-return-unsupported-image-input-error-aibrahim|♯11336
-  Always expose view_image and return unsupported image-input error @aibrahim-oai]]'
-- '[[Changes/Codex CLI/2026-03-02-2-multimodal-input-changes-in-rust-v0-107-0|2 Multimodal
-  Input changes in rust-v0.107.0]]'
-- '[[Changes/Claude Code/2026-05-08-wsl2-image-paste-from-windows-clipboard-now-works-via-a-powershell-fallback-when|WSL2:
-  image paste from Windows clipboard now works via a PowerShell fallback…]]'
+- '[[Changes/ElevenLabs/2026-05-25-music-5f1ccf|Music]]'
+- "[[Changes/Open WebUI/2026-06-01-youtube-short-link-transcripts-pasting-a-youtu-be-short-link-into-a-chat-now-loa|\U0001F4FA
+  YouTube short link transcripts. Pasting a \"youtu.be\" short link into a chat…]]"
+- '[[Changes/Ollama/2026-06-03-gemma-4-12b-https-ollama-com-library-gemma4-12b-high-performance-multimodal-inte|Gemma
+  4 12B((source link)]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-06-23-v1-0-64-github-343650012-6d4aa4bd|github-copilot-cli-2026-06-23-v1-0-64-github-343650012-6d4aa4bd]]'
 source_type: github_releases
 theme: multimodal
@@ -91,14 +90,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Multimodal Input
 
-- Earlier: 2026-05-08 · Claude Code · [[Changes/Claude Code/2026-05-08-wsl2-image-paste-from-windows-clipboard-now-works-via-a-powershell-fallback-when|WSL2: image paste from Windows clipboard now works via a PowerShell fallback…]]
-- Later: 2026-08-05 · OpenHands · [[Changes/OpenHands/2026-08-05-ci-require-frontend-screenshot-video-and-checked-human-tested-box-by-all-hands-b|ci: require frontend screenshot/video and checked human-tested box]]
+- Earlier: 2026-06-03 · Ollama · [[Changes/Ollama/2026-06-03-gemma-4-12b-https-ollama-com-library-gemma4-12b-high-performance-multimodal-inte|Gemma 4 12B((source link)]]
+- Later: 2026-07-27 · Open WebUI · [[Changes/Open WebUI/2026-07-27-media-types-an-extraction-engine-may-handle-administrators-can-now-list-which-im|🖼️ Media types an extraction engine may handle. Administrators can now list…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-09-25 · ChatGPT · [[Changes/ChatGPT/2023-09-25-you-can-now-show-chatgpt-one-or-more-images-troubleshoot-why-your-grill-won-t-st-e42bd6|Image input will be generally available to Plus users on all platforms]]
+- Earliest same-theme entry in the tracked set: 2023-09-19 · Dify · [[Changes/Dify/2023-09-19-add-video-to-cn-readme-by-crazywoola-in-https-github-com-langgenius-dify-pull-11|add video to cn readme]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

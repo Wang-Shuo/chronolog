@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: a29bf94456ee78a3f05b902db8bd4dea5d33743131cb48e225d7f78a9b7aa613
+machine_hash: b0e5fa1cc53fbf8a61909848b69035349808ed88c56f97552a46a8576476daf9
 product: cursor
 product_name: Cursor
 record:
@@ -41,11 +41,11 @@ record:
   title: Composer UI in the sidebar with inline diffs
   type: change
 related_changes:
-- '[[Changes/Aider/2024-11-21-improved-model-settings-configuration-https-aider-chat-docs-config-adv-model-set|Improved
-  model settings…]]'
 - '[[Changes/ChatGPT/2024-11-22-the-new-chat-button-has-been-moved-to-the-left-of-the-model-picker-to-be-easier|The
   new chat button has been moved to the left of the Model Picker to be easier to access]]'
 - '[[Changes/ChatGPT/2024-11-22-sidebar-redesign-e6413a|Sidebar redesign]]'
+- "[[Changes/Open WebUI/2024-11-23-mobile-controls-visibility-resolved-an-issue-where-the-controls-button-was-not-d|\U0001F4F1
+  Mobile Controls Visibility]]"
 source_release: '[[Releases/Cursor/cursor-2024-11-24-0-43-x-https-cursor-com-changelog-0-43-x-18aee492|cursor-2024-11-24-0-43-x-https-cursor-com-changelog-0-43-x-18aee492]]'
 source_type: cursor_changelog
 theme: interface-experience
@@ -75,7 +75,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2024-11-22 · ChatGPT · [[Changes/ChatGPT/2024-11-22-sidebar-redesign-e6413a|Sidebar redesign]]
+- Earlier: 2024-11-23 · Open WebUI · [[Changes/Open WebUI/2024-11-23-mobile-controls-visibility-resolved-an-issue-where-the-controls-button-was-not-d|📱 Mobile Controls Visibility]]
 - Later: 2024-12-01 · Aider · [[Changes/Aider/2024-12-01-added-ctrl-up-down-keyboard-shortcuts-for-per-message-history-navigation|Added Ctrl-Up/Down keyboard shortcuts for per-message history navigation]]
 <!-- chronolog:end -->
 

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: fb2a6436ed2475c6424c626776d04f61a66a835a2ee600cf383e3df1e4fb5a46
+machine_hash: 3b62e150037320e295ad43ae7f7ab87ca4d527f8c529bd40e26315a74514e353
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -165,10 +165,10 @@ record:
   title: 50 Safety and Privacy changes in rust-v0.156.0
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-09-21-privacy-center-is-rolling-out-to-signed-in-chatgpt-free-go-plus-and-pro-users-it-0d2f36|Privacy
-  Center in ChatGPT]]'
-- '[[Changes/GitHub Copilot CLI/2026-09-21-2-safety-and-privacy-changes-in-v1-0-87|2
-  Safety and Privacy changes in v1.0.87]]'
+- '[[Changes/Lovable/2026-09-21-use-your-connected-tools-from-lovable-in-telegram|Use
+  your connected tools from Lovable in Telegram]]'
+- '[[Changes/Open WebUI/2026-09-21-4-safety-and-privacy-changes-in-v0-11-4|4 Safety
+  and Privacy changes in v0.11.4]]'
 - '[[Changes/Claude Code/2026-09-22-2-safety-and-privacy-changes-in-v2-1-280|2 Safety
   and Privacy changes in v2.1.280]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-09-22-rust-v0-156-0-github-394061815-b23dd5f4|codex-cli-2026-09-22-rust-v0-156-0-github-394061815-b23dd5f4]]'

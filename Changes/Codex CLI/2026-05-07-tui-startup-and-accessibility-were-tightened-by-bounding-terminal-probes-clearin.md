@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: accessibility-localization
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 169672d951bc44c068648aa10af4b387b63059b57ab2787924b94e6d44afaf4b
+machine_hash: 7aa99233242d8301ca8818b5ea6d77372d50162e69d0820f7e97ca248b2b01ea
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -56,12 +56,12 @@ record:
     clearing…
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-02-19-improve-quick-help-accessibility-screen-reader-friendly-tab-labels-reordered-lay|Improve
-  quick help accessibility]]'
 - '[[Changes/GitHub Copilot CLI/2026-03-09-table-disables-borders-in-screen-reader-mode-to-prevent-announcing-decorative-ch|Table
   disables borders in screen reader mode to prevent announcing decorative characters]]'
 - '[[Changes/GitHub Copilot CLI/2026-03-17-improve-color-contrast-across-cli-themes-for-better-readability-and-accessibilit|Improve
   color contrast across CLI themes for better readability and accessibility]]'
+- '[[Changes/Dify/2026-04-29-2-accessibility-and-localization-changes-in-1-14-0|2
+  Accessibility and Localization changes in 1.14.0]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-05-07-rust-v0-129-0-github-319066904-0c2c638e|codex-cli-2026-05-07-rust-v0-129-0-github-319066904-0c2c638e]]'
 source_type: github_releases
 theme: accessibility-localization
@@ -105,8 +105,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Accessibility and Localization
 
-- Earlier: 2026-03-17 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-03-17-improve-color-contrast-across-cli-themes-for-better-readability-and-accessibilit|Improve color contrast across CLI themes for better readability and accessibility]]
-- Later: 2026-06-12 · Claude Code · [[Changes/Claude Code/2026-06-12-session-titles-are-now-generated-in-the-language-of-your-conversation-set-the-la|Session titles are now generated in the language of your conversation…]]
+- Earlier: 2026-04-29 · Dify · [[Changes/Dify/2026-04-29-2-accessibility-and-localization-changes-in-1-14-0|2 Accessibility and Localization changes in 1.14.0]]
+- Later: 2026-05-12 · Dify · [[Changes/Dify/2026-05-12-accessibility-and-semantics-improved-web-accessibility-removed-unnecessary-data|Accessibility and semantics]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

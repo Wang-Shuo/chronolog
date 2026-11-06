@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: c3a6ad667b9e6b3dc294e20623aa8fb3cc10db5d2cdcf829b4ef4d95c1fc7f3e
+machine_hash: 2e0f307966ccebfe58542f124c7d8a7538ea16c642ee23c8e700cb0d90c38037
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -44,10 +44,10 @@ record:
   title: 2 Model Support changes in rust-v0.156.1
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-09-22-25-model-support-changes-in-rust-v0-156-0|25 Model
-  Support changes in rust-v0.156.0]]'
 - '[[Changes/OpenHands/2026-09-22-test-strengthen-llm-profile-configuration-by-aivong-openhands-in-https-github-co|test:
   strengthen LLM profile configuration]]'
+- '[[Changes/v0/2026-09-22-the-updated-model-picker-lets-you-browse-and-search-available-ai-gateway-models|More
+  model choices, with Enterprise owner controls]]'
 - '[[Changes/Claude Code/2026-09-23-improved-interactive-startup-time-git-reads-startup-telemetry-and-the-bedrock-ve|Improved
   interactive startup time]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-09-23-rust-v0-156-1-github-394258789-2f4382c2|codex-cli-2026-09-23-rust-v0-156-1-github-394258789-2f4382c2]]'
@@ -81,7 +81,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.156.1
 ## Nearby in Model Support
 
 - Earlier: 2026-09-23 · Claude Code · [[Changes/Claude Code/2026-09-23-improved-interactive-startup-time-git-reads-startup-telemetry-and-the-bedrock-ve|Improved interactive startup time]]
-- Later: 2026-09-24 · Claude Code · [[Changes/Claude Code/2026-09-24-2-model-support-changes-in-v2-1-282|2 Model Support changes in v2.1.282]]
+- Later: 2026-09-23 · ElevenLabs · [[Changes/ElevenLabs/2026-09-23-image-video|Image & Video]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: ab09bd20d88f6f9502dcb470dc848e405acdced1ad8e93cfe986f960199cbbdf
+machine_hash: 6e2ff67f845d0b12534b77f918fd7dbed1e77eabd3a23233855fbb3537aabc70
 product: openhands
 product_name: OpenHands
 record:
@@ -42,12 +42,12 @@ record:
   title: 2 Apps and Integrations changes in v1.15.0
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-08-21-2-apps-and-integrations-changes-in-v2-1-239|2
-  Apps and Integrations changes in v2.1.239]]'
 - '[[Changes/Cline/2026-08-21-2-apps-and-integrations-changes-in-v4-1-12|2 Apps and
   Integrations changes in v4.1.12]]'
 - '[[Changes/Cline/2026-08-21-2-apps-and-integrations-changes-in-v4-1-11|2 Apps and
   Integrations changes in v4.1.11]]'
+- '[[Changes/Lovable/2026-08-21-export-designs-from-figma-with-the-lovable-plugin|Export
+  designs from Figma with the Lovable plugin]]'
 source_release: '[[Releases/OpenHands/openhands-2026-08-21-v1-15-0-github-374444037-909e5dfc|openhands-2026-08-21-v1-15-0-github-374444037-909e5dfc]]'
 source_type: github_releases
 theme: apps-integrations
@@ -85,7 +85,7 @@ Source: https://github.com/OpenHands/OpenHands/releases/tag/v1.15.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-08-21 · Cline · [[Changes/Cline/2026-08-21-2-apps-and-integrations-changes-in-v4-1-11|2 Apps and Integrations changes in v4.1.11]]
+- Earlier: 2026-08-21 · Lovable · [[Changes/Lovable/2026-08-21-export-designs-from-figma-with-the-lovable-plugin|Export designs from Figma with the Lovable plugin]]
 - Later: 2026-08-22 · Cline · [[Changes/Cline/2026-08-22-everything-here-lands-through-the-sdk-bundle-so-it-applies-to-windows-running-th|Everything here lands through the SDK bundle, so it applies to windows running that bundle]]
 <!-- chronolog:end -->
 

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 3f10f9deff746067420f585d1c4dffd34a747153b475292f400b86df46105c1a
+machine_hash: 5de86d60fee27ffa3eea0a2391adea7fb4847aa32ec37e6bf0d14dc37f74ebaf
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -43,12 +43,11 @@ record:
     raises…
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-01-09-4-model-support-changes-in-rust-v0-80-0|4 Model
-  Support changes in rust-v0.80.0]]'
-- '[[Changes/Cline/2026-01-10-removing-minimax-2-1-from-free-model-list-as-the-free-trial-has-ended|Removing
-  Minimax-2.1 from free model list as the free trial has ended]]'
+- '[[Changes/ElevenLabs/2026-01-12-scribe-v2|Scribe v2]]'
 - '[[Changes/Cline/2026-01-13-phase-in-responses-api-usage-instead-of-defaulting-for-every-supported-model|Phase
   in Responses API usage instead of defaulting for every supported model]]'
+- '[[Changes/Dify/2026-01-13-8-model-support-changes-in-1-11-3|8 Model Support changes
+  in 1.11.3]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-01-13-v0-0-380-github-276209240-1033f81a|github-copilot-cli-2026-01-13-v0-0-380-github-276209240-1033f81a]]'
 source_type: github_releases
 theme: model-support
@@ -84,7 +83,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-01-13 · Cline · [[Changes/Cline/2026-01-13-phase-in-responses-api-usage-instead-of-defaulting-for-every-supported-model|Phase in Responses API usage instead of defaulting for every supported model]]
+- Earlier: 2026-01-13 · Dify · [[Changes/Dify/2026-01-13-8-model-support-changes-in-1-11-3|8 Model Support changes in 1.11.3]]
 - Later: 2026-01-14 · Cline · [[Changes/Cline/2026-01-14-add-gpt-5-2-codex-openai-model-support|Add gpt-5.2-codex OpenAI model support]]
 <!-- chronolog:end -->
 

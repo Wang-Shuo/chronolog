@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 8e6264cbde33573f9ccd81b643c171c85427f40b7a33e397ce737f417fbbba7c
+machine_hash: 9224c3659c733d23b07baa4a57c9e3e9932ed69cfdc3436ea2d3e080d81f3e7d
 product: cursor
 product_name: Cursor
 record:
@@ -43,10 +43,8 @@ record:
   title: 2 Agent Mode changes in 1.3
   type: change
 related_changes:
-- '[[Changes/OpenHands/2025-07-24-2-agent-mode-changes-in-0-50-0|2 Agent Mode changes
-  in 0.50.0]]'
-- '[[Changes/Gemini CLI/2025-07-25-5-agent-mode-changes-in-v0-1-14|5 Agent Mode changes
-  in v0.1.14]]'
+- '[[Changes/ElevenLabs/2025-07-28-agents-platform|Agents Platform]]'
+- '[[Changes/ElevenLabs/2025-07-28-agents-platform-504721|Agents Platform]]'
 - '[[Changes/Cursor/2025-07-29-agents-can-now-use-your-native-terminal-a-new-terminal-will-be-created-when-need|Share
   terminal with Agent]]'
 source_release: '[[Releases/Cursor/cursor-2025-07-29-1-3-https-cursor-com-changelog-1-3-d153efc3|cursor-2025-07-29-1-3-https-cursor-com-changelog-1-3-d153efc3]]'
@@ -90,7 +88,7 @@ Source: https://cursor.com/changelog/1-3
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2025-07-25 · Gemini CLI · [[Changes/Gemini CLI/2025-07-25-5-agent-mode-changes-in-v0-1-14|5 Agent Mode changes in v0.1.14]]
+- Earlier: 2025-07-28 · ElevenLabs · [[Changes/ElevenLabs/2025-07-28-agents-platform-504721|Agents Platform]]
 - Later: 2025-07-30 · Gemini CLI · [[Changes/Gemini CLI/2025-07-30-6-agent-mode-changes-in-v0-1-15|6 Agent Mode changes in v0.1.15]]
 <!-- chronolog:end -->
 

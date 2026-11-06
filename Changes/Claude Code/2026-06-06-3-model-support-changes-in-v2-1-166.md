@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: e1b0c0b7fcfc8919f292ef290ff207fe9fc509293c3b01c7e45bca95493c0948
+machine_hash: 38a4f35e318d1c17a50d179d85bdd4920cc85b2f3a8dbc3347a701546217b8a0
 product: claude-code
 product_name: Claude Code
 record:
@@ -95,7 +95,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.166
 ## Nearby in Model Support
 
 - Earlier: 2026-06-05 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-06-05-2-model-support-changes-in-v1-0-60|2 Model Support changes in v1.0.60]]
-- Later: 2026-06-08 · ChatGPT · [[Changes/ChatGPT/2026-06-08-long-press-send-to-choose-a-model-users-on-paid-plans-can-now-long-press-the-sen|Long-press send to choose a model]]
+- Later: 2026-06-07 · Ollama · [[Changes/Ollama/2026-06-07-openai-compatible-api-models-list-now-aligns-with-available-model-tags|OpenAI-compatible API models list now aligns with available model tags]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

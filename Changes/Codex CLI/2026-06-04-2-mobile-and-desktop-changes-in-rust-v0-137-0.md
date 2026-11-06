@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 5653553d3febe5481460592af1d4f4d3f8a52169597d0d21868b9755547ddddb
+machine_hash: 22fe03e2dc40d2cb12b5b333eb20a78d691316760bba247b61f35151d1ee939a
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -42,12 +42,12 @@ record:
   title: 2 Mobile and Desktop changes in rust-v0.137.0
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-05-28-5-mobile-and-desktop-changes-in-rust-v0-135-0|5
-  Mobile and Desktop changes in rust-v0.135.0]]'
-- '[[Changes/GitHub Copilot CLI/2026-05-28-clipboard-correctly-copies-cjk-and-supplementary-plane-unicode-characters-on-win|Clipboard
-  correctly copies CJK and supplementary-plane Unicode characters on Windows]]'
+- "[[Changes/Open WebUI/2026-06-01-startup-on-non-unicode-consoles-open-webui-no-longer-crashes-at-startup-when-the|\U0001F97E
+  Startup on non-Unicode consoles. Open WebUI no longer crashes at startup…]]"
 - '[[Changes/Windsurf/2026-06-02-windsurf-is-now-devin-desktop-https-devin-ai-blog-windsurf-is-now-devin-desktop|Windsurf
   is now Devin Desktop((source link)]]'
+- '[[Changes/Ollama/2026-06-03-added-hermes-desktop-configuration-docs|Added Hermes
+  Desktop configuration docs]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-06-04-rust-v0-137-0-github-334076532-fadfeece|codex-cli-2026-06-04-rust-v0-137-0-github-334076532-fadfeece]]'
 source_type: github_releases
 theme: mobile-desktop
@@ -93,7 +93,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.137.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2026-06-02 · Windsurf · [[Changes/Windsurf/2026-06-02-windsurf-is-now-devin-desktop-https-devin-ai-blog-windsurf-is-now-devin-desktop|Windsurf is now Devin Desktop((source link)]]
+- Earlier: 2026-06-03 · Ollama · [[Changes/Ollama/2026-06-03-added-hermes-desktop-configuration-docs|Added Hermes Desktop configuration docs]]
 - Later: 2026-06-04 · Cursor · [[Changes/Cursor/2026-06-04-bundled-ripgrep-local-shell-runs-use-the-bundled-platform-rg-binary-without-modi|Bundled ripgrep: Local shell runs use the bundled platform rg binary without…]]
 <!-- chronolog:end -->
 

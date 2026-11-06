@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: f0d707b9ebfae27e8b1574bb6dc34a3e5112bcd294081d5f9fd8d72a5010647c
+machine_hash: 13015b8cb39f98903d00e3629900c0aadac3f3f73cc0ac6b3e2b7ca60ba8aef8
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -41,12 +41,9 @@ record:
   title: Improve handling of MCP tools containing slashes
   type: change
 related_changes:
-- '[[Changes/Cline/2025-10-23-3-apps-and-integrations-changes-in-v3-34-0|3 Apps and
-  Integrations changes in v3.34.0]]'
-- '[[Changes/Codex CLI/2025-10-23-11-apps-and-integrations-changes-in-rust-v0-48-0|11
-  Apps and Integrations changes in rust-v0.48.0]]'
-- '[[Changes/Codex CLI/2025-10-25-3-apps-and-integrations-changes-in-rust-v0-50-0|3
-  Apps and Integrations changes in rust-v0.50.0]]'
+- '[[Changes/ElevenLabs/2025-10-27-sdk-releases|SDK Releases]]'
+- '[[Changes/ElevenLabs/2025-10-27-python-sdk|Python SDK]]'
+- '[[Changes/ElevenLabs/2025-10-27-javascript-sdk|JavaScript SDK]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2025-10-27-v0-0-352-github-257631659-752a36ea|github-copilot-cli-2025-10-27-v0-0-352-github-257631659-752a36ea]]'
 source_type: github_releases
 theme: apps-integrations
@@ -75,7 +72,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2025-10-25 · Codex CLI · [[Changes/Codex CLI/2025-10-25-3-apps-and-integrations-changes-in-rust-v0-50-0|3 Apps and Integrations changes in rust-v0.50.0]]
+- Earlier: 2025-10-27 · ElevenLabs · [[Changes/ElevenLabs/2025-10-27-javascript-sdk|JavaScript SDK]]
 - Later: 2025-10-29 · Gemini CLI · [[Changes/Gemini CLI/2025-10-29-7-apps-and-integrations-changes-in-v0-11-0|7 Apps and Integrations changes in v0.11.0]]
 <!-- chronolog:end -->
 

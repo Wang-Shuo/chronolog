@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 024df2a8dd11108f315b016c591bd374f08d907dccf28716be66784dedb9f618
+machine_hash: 84f45b1b7ae1af9c9f164031e43a569705b1e2ebd0f79b417e88aed5a8c23aec
 product: cursor
 product_name: Cursor
 record:
@@ -44,8 +44,7 @@ record:
   title: 2 Reliability and Performance changes in 2.0
   type: change
 related_changes:
-- '[[Changes/Windsurf/2025-10-23-performance-optimizations-and-stability-enhancements|Performance
-  optimizations and stability enhancements]]'
+- '[[Changes/Replit/2025-10-24-plan-mode-improvements|Plan mode improvements]]'
 - '[[Changes/Windsurf/2025-10-26-various-performance-improvements-and-bug-fixes|Various
   performance improvements and bug fixes]]'
 - '[[Changes/Windsurf/2025-10-26-falcon-alpha|Falcon Alpha]]'
@@ -102,7 +101,7 @@ Source: https://cursor.com/changelog/2-0
 ## Nearby in Reliability and Performance
 
 - Earlier: 2025-10-26 · Windsurf · [[Changes/Windsurf/2025-10-26-falcon-alpha|Falcon Alpha]]
-- Later: 2025-10-30 · Codex CLI · [[Changes/Codex CLI/2025-10-30-chore-speed-up-pipeline-in-https-github-com-openai-codex-pull-5812|chore: speed-up pipeline in (source link)]]
+- Later: 2025-10-29 · Ollama · [[Changes/Ollama/2025-10-29-increase-speed-when-scheduling-models|Increase speed when scheduling models]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

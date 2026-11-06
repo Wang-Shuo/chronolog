@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 1041c9d04f0a67cfcd15a683344b200ed3dedc775059fe2ea52c5d953cd5f5af
+machine_hash: f6be1344a01bc2782601e0832e35e83fdd6af944d55eddb7eb87bfe99fc54e01
 product: openhands
 product_name: OpenHands
 record:
@@ -45,12 +45,12 @@ record:
   title: 3 Editor Experience changes in 0.7.0
   type: change
 related_changes:
-- '[[Changes/Cursor/2024-05-26-accept-partial-completions-with-copilot-ce6049|Accept
-  partial completions with Copilot++]]'
-- '[[Changes/Aider/2024-06-04-properly-override-git-editor-env-for-commits-if-it-is-already-set|Properly
-  override GIT_EDITOR env for commits if it is already set]]'
 - '[[Changes/Cursor/2024-06-08-default-on-cursor-prediction-with-a-new-ui|Default-on
   Cursor Prediction with a new UI]]'
+- "[[Changes/Open WebUI/2024-06-10-editable-search-query-prompt-you-can-now-edit-the-search-query-generation-prompt|\U0001F50D
+  Editable Search Query Prompt]]"
+- '[[Changes/Dify/2024-06-28-2-editor-experience-changes-in-0-6-12|2 Editor Experience
+  changes in 0.6.12]]'
 source_release: '[[Releases/OpenHands/openhands-2024-06-29-0-7-0-github-163149742-cace6f1a|openhands-2024-06-29-0-7-0-github-163149742-cace6f1a]]'
 source_type: github_releases
 theme: editor-experience
@@ -94,7 +94,7 @@ Source: https://github.com/OpenHands/OpenHands/releases/tag/0.7.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2024-06-08 · Cursor · [[Changes/Cursor/2024-06-08-default-on-cursor-prediction-with-a-new-ui|Default-on Cursor Prediction with a new UI]]
+- Earlier: 2024-06-28 · Dify · [[Changes/Dify/2024-06-28-2-editor-experience-changes-in-0-6-12|2 Editor Experience changes in 0.6.12]]
 - Later: 2024-07-13 · Cursor · [[Changes/Cursor/2024-07-13-this-build-comes-with-a-new-experimental-multi-file-editing-feature-to-enable-it|Composer (beta)]]
 <!-- chronolog:end -->
 

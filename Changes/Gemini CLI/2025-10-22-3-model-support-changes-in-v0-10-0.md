@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: d5365df8c248f559720ea53c52d974d1f7fc4ceed522301872f91d9be53946c5
+machine_hash: 9b9ca6708b5b9b3e39c1263c36191fd6708a22c2e3e310261b3415a2f3dafd18
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -45,12 +45,12 @@ record:
   title: 3 Model Support changes in v0.10.0
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2025-10-16-2-model-support-changes-in-v0-0-343|2 Model
-  Support changes in v0.0.343]]'
 - '[[Changes/GitHub Copilot CLI/2025-10-18-added-list-of-supported-models-as-part-of-copilot-help-config-text|Added
   list of supported models as part of copilot help config text]]'
 - '[[Changes/ChatGPT/2025-10-22-we-re-updating-the-model-for-signed-out-users-to-gpt-5-instant-giving-more-peopl|We’re
   updating the model for signed-out users to GPT-5 Instant, giving more people…]]'
+- '[[Changes/Dify/2025-10-22-8-model-support-changes-in-1-9-2|8 Model Support changes
+  in 1.9.2]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2025-10-22-v0-10-0-github-256434073-b3dd91c0|gemini-cli-2025-10-22-v0-10-0-github-256434073-b3dd91c0]]'
 source_type: github_releases
 theme: model-support
@@ -96,7 +96,7 @@ Source: https://github.com/google-gemini/gemini-cli/releases/tag/v0.10.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2025-10-22 · ChatGPT · [[Changes/ChatGPT/2025-10-22-we-re-updating-the-model-for-signed-out-users-to-gpt-5-instant-giving-more-peopl|We’re updating the model for signed-out users to GPT-5 Instant, giving more people…]]
+- Earlier: 2025-10-22 · Dify · [[Changes/Dify/2025-10-22-8-model-support-changes-in-1-9-2|8 Model Support changes in 1.9.2]]
 - Later: 2025-10-22 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2025-10-22-2-model-support-changes-in-v0-0-349|2 Model Support changes in v0.0.349]]
 <!-- chronolog:end -->
 

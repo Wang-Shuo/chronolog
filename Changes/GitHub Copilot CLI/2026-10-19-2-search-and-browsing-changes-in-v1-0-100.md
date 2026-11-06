@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: search-browsing
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: a8e801578e68f88410c189f4c303a0f83549c7e211d94293ad7c84e64f1732e5
+machine_hash: 706a4c9e6141ebe2753d64cfafc66049155ac889336bc854e7b94f049b654cf9
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -45,12 +45,12 @@ record:
   title: 2 Search and Browsing changes in v1.0.100
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-10-01-browse-older-tasks-in-the-agent-command-center-with-a-keyboard-accessible-show-m|Browse
-  older tasks in the agent command center with a keyboard-accessible…]]'
-- '[[Changes/Claude Code/2026-10-05-changed-the-interactive-session-s-websearch-budget-to-refill-over-time-100-calls|Changed
-  the interactive session''s WebSearch budget to refill over time (100 calls/hour]]'
-- '[[Changes/Codex CLI/2026-10-07-3-search-and-browsing-changes-in-rust-v0-161-0|3
-  Search and Browsing changes in rust-v0.161.0]]'
+- "[[Changes/Open WebUI/2026-10-16-built-in-tools-with-a-custom-tools-parameter-a-model-with-a-custom-parameter-nam|\U0001F9E9
+  Built-in tools with a custom tools parameter. A model with a custom parameter…]]"
+- '[[Changes/Replit/2026-10-16-find-a-replit-solutions-partner|Find a Replit Solutions
+  Partner]]'
+- '[[Changes/DeepSeek API/2026-10-17-opening-up-the-in-house-search-api|Opening up
+  the in-house search API]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-10-19-v1-0-100-github-417622960-9e2e7578|github-copilot-cli-2026-10-19-v1-0-100-github-417622960-9e2e7578]]'
 source_type: github_releases
 theme: search-browsing
@@ -96,8 +96,8 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.100
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Search and Browsing
 
-- Earlier: 2026-10-07 · Codex CLI · [[Changes/Codex CLI/2026-10-07-3-search-and-browsing-changes-in-rust-v0-161-0|3 Search and Browsing changes in rust-v0.161.0]]
-- Later: 2026-10-29 · Codex CLI · [[Changes/Codex CLI/2026-10-29-57542-add-model-gated-literature-search-to-standalone-web-search-rhan-oai|♯57542 Add model-gated literature search to standalone web search @rhan-oai]]
+- Earlier: 2026-10-17 · DeepSeek API · [[Changes/DeepSeek API/2026-10-17-opening-up-the-in-house-search-api|Opening up the in-house search API]]
+- Later: 2026-10-22 · Ollama · [[Changes/Ollama/2026-10-22-anthropic-compatible-web-search-now-uses-the-model-s-supported-thinking-setting|Anthropic-compatible web search now uses the model's supported thinking setting…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

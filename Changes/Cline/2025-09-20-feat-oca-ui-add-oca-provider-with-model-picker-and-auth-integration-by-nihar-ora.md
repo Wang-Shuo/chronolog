@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 0389115807f418dc0262f1b0002cf7bf975f441c4d0a0f8e0b9c3a6339a005c6
+machine_hash: 26f136e901b77e5b4ea98ec8a6912f31fa926bc5b678bb6cef78bba6e5fd8bde
 product: cline
 product_name: Cline
 record:
@@ -58,11 +58,11 @@ record:
   title: 'feat(oca-ui): add OCA provider with model picker and auth integration'
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-09-12-mcp-resources-support|MCP Resources support]]'
-- '[[Changes/Codex CLI/2025-09-15-5-apps-and-integrations-changes-in-rust-v0-36-0|5
-  Apps and Integrations changes in rust-v0.36.0]]'
-- '[[Changes/Gemini CLI/2025-09-17-6-apps-and-integrations-changes-in-v0-5-3|6 Apps
-  and Integrations changes in v0.5.3]]'
+- '[[Changes/Open WebUI/2025-09-17-2-apps-and-integrations-changes-in-v0-6-29|2 Apps
+  and Integrations changes in v0.6.29]]'
+- '[[Changes/Open WebUI/2025-09-17-onedrive-integration-was-fixed-after-recent-breakage-restoring-reliable-account|☁️
+  OneDrive integration was fixed after recent breakage, restoring reliable account…]]'
+- '[[Changes/Replit/2025-09-19-mobile-connectors-support|Mobile connectors support]]'
 source_release: '[[Releases/Cline/cline-2025-09-20-v3-30-3-github-248753210-713b4a4c|cline-2025-09-20-v3-30-3-github-248753210-713b4a4c]]'
 source_type: github_releases
 theme: apps-integrations
@@ -91,8 +91,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2025-09-17 · Gemini CLI · [[Changes/Gemini CLI/2025-09-17-6-apps-and-integrations-changes-in-v0-5-3|6 Apps and Integrations changes in v0.5.3]]
-- Later: 2025-09-23 · Codex CLI · [[Changes/Codex CLI/2025-09-23-2-apps-and-integrations-changes-in-rust-v0-40-0|2 Apps and Integrations changes in rust-v0.40.0]]
+- Earlier: 2025-09-19 · Replit · [[Changes/Replit/2025-09-19-mobile-connectors-support|Mobile connectors support]]
+- Later: 2025-09-22 · Dify · [[Changes/Dify/2025-09-22-12-apps-and-integrations-changes-in-1-9-0|12 Apps and Integrations changes in 1.9.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

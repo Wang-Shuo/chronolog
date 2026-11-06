@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: b1310d440cc12f0c923276991a1131c3f219eafbb44ca1c5b99fe2d34191b3bb
+machine_hash: 1cab59f241c0777b93eb853c85c33857976c8155c681099b299902a19653b7f3
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,12 +45,11 @@ record:
     cache…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-04-01-changed-hook-output-over-50k-characters-to-be-saved-to-disk-with-a-file-path-pre|Changed
-  hook output over 50K characters to be saved to disk with a file path…]]'
 - '[[Changes/Gemini CLI/2026-04-01-feat-core-cap-jit-context-upward-traversal-at-git-root-by-sandytao520-in-https-g|feat(core):
   cap JIT context upward traversal at git root]]'
 - '[[Changes/Claude Code/2026-04-02-2-context-window-changes-in-v2-1-91|2 Context
   Window changes in v2.1.91]]'
+- '[[Changes/Lovable/2026-04-02-image-tools|Image tools]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-04-04-v2-1-92-github-305189904-2eb020f5|claude-code-2026-04-04-v2-1-92-github-305189904-2eb020f5]]'
 source_type: github_releases
 theme: context-window
@@ -88,7 +87,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Context Window
 
-- Earlier: 2026-04-02 · Claude Code · [[Changes/Claude Code/2026-04-02-2-context-window-changes-in-v2-1-91|2 Context Window changes in v2.1.91]]
+- Earlier: 2026-04-02 · Lovable · [[Changes/Lovable/2026-04-02-image-tools|Image tools]]
 - Later: 2026-04-06 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-04-06-slash-command-timeline-entries-now-include-the-command-name-e-g-review-plan-for|Slash command timeline entries now include the command name (e.g., "Review", "Plan")…]]
 <!-- chronolog:end -->
 

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: b66ff5512cb1002e2dde739625fe6743705bc64c055a76305fc83b474b715736
+machine_hash: f72b7c7b9da594db4f93e1ea769f73c866ff6335530b713e196b268575878a59
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -44,10 +44,8 @@ record:
   title: '#6425 — Fix SDK documentation'
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2025-11-07-9-apps-and-integrations-changes-in-v0-13-0|9 Apps
-  and Integrations changes in v0.13.0]]'
-- '[[Changes/Codex CLI/2025-11-09-6353-app-server-add-auth-v2-doc-update-codex-mcp-interface-section|♯6353
-  – App-server: add auth v2 doc & update Codex MCP interface section]]'
+- '[[Changes/ElevenLabs/2025-11-12-api-integration-triggers|API Integration Triggers]]'
+- '[[Changes/ElevenLabs/2025-11-12-sdk-releases|SDK Releases]]'
 - '[[Changes/Cline/2025-11-13-3-apps-and-integrations-changes-in-v3-37-0|3 Apps and
   Integrations changes in v3.37.0]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2025-11-13-rust-v0-58-0-github-262201496-2a895bfb|codex-cli-2025-11-13-rust-v0-58-0-github-262201496-2a895bfb]]'
@@ -88,7 +86,7 @@ type: change
 ## Nearby in Apps and Integrations
 
 - Earlier: 2025-11-13 · Cline · [[Changes/Cline/2025-11-13-3-apps-and-integrations-changes-in-v3-37-0|3 Apps and Integrations changes in v3.37.0]]
-- Later: 2025-11-13 · Windsurf · [[Changes/Windsurf/2025-11-13-cascade-hooks|Cascade Hooks]]
+- Later: 2025-11-13 · Dify · [[Changes/Dify/2025-11-13-7-apps-and-integrations-changes-in-1-10-0|7 Apps and Integrations changes in 1.10.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

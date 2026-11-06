@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 393b9338539a24c88a1b1950814976342e013c73158275c92a9e1fbc0879ed3a
+machine_hash: f9a23f3ab7f10de622e0a37c05c4a7f5bef886623d5714a03ba6f0a29675cd90
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -49,8 +49,8 @@ record:
   title: 4 Editor Experience changes in v0.27.0
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-01-31-10030-clarify-external-editor-env-var-message-joshka-oai|♯10030
-  Clarify external editor env var message @joshka-oai]]'
+- '[[Changes/Dify/2026-02-03-chore-hide-disable-try-tab-when-not-support-by-iamjoel-in-https-github-com-langg|chore:
+  hide disable try tab when not support]]'
 - '[[Changes/GitHub Copilot CLI/2026-02-03-2-editor-experience-changes-in-v0-0-401|2
   Editor Experience changes in v0.0.401]]'
 - '[[Changes/Codex CLI/2026-02-04-added-thread-compact-to-the-v2-app-server-api-as-an-async-trigger-rpc-so-clients|Added

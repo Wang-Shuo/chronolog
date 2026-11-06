@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: e73547fee2fb5a903d6b82e1eef80cd1b15aee510141bcc371730714a1234b53
+machine_hash: e2e34329c2a23adeb9a5234d443ad141de090492c19a29f2a73136c862521e82
 product: claude-code
 product_name: Claude Code
 record:
@@ -56,10 +56,8 @@ record:
   title: 6 Apps and Integrations changes in v2.1.121
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-04-24-11-apps-and-integrations-changes-in-rust-v0-125-0|11
-  Apps and Integrations changes in rust-v0.125.0]]'
-- '[[Changes/GitHub Copilot CLI/2026-04-24-remote-command-shows-current-status-and-supports-remote-on-and-remote-off-to-tog|/remote
-  command shows current status and supports /remote on and /remote off…]]'
+- '[[Changes/Replit/2026-04-24-plaid-connector-is-live|Plaid connector is live]]'
+- '[[Changes/ElevenLabs/2026-04-27-sdk-releases|SDK Releases]]'
 - '[[Changes/Claude Code/2026-04-28-2-apps-and-integrations-changes-in-v2-1-122|2
   Apps and Integrations changes in v2.1.122]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-04-28-v2-1-121-github-314262096-ff31d5ce|claude-code-2026-04-28-v2-1-121-github-314262096-ff31d5ce]]'

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 9950161d991dd07519fe2ac10ab28133061ed0b01f398ebdac6156feab8d4772
+machine_hash: 8e0bb7d20daf57bdc710b170ee933363d610aac57ce39e2b25d7d8c1ba5ff7d4
 product: claude-code
 product_name: Claude Code
 record:
@@ -53,10 +53,9 @@ record:
     billing)…
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-03-13-2-account-and-access-changes-in-v1-0-5|2
-  Account and Access changes in v1.0.5]]'
 - '[[Changes/Codex CLI/2026-03-16-2-account-and-access-changes-in-rust-v0-115-0|2
   Account and Access changes in rust-v0.115.0]]'
+- '[[Changes/Lovable/2026-03-16-authentication-emails|Authentication emails]]'
 - '[[Changes/Gemini CLI/2026-03-17-refactor-core-extract-shared-oauth-flow-primitives-from-mcpoauthprovider-by-sand|refactor(core):
   extract shared OAuth flow primitives from MCPOAuthProvider]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-03-18-v2-1-79-github-298704791-2ebf4bbd|claude-code-2026-03-18-v2-1-79-github-298704791-2ebf4bbd]]'

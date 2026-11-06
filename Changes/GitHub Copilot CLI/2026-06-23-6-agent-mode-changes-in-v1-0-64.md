@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: f9c41bace41a4245faded2c80a876c803d4070e54d8487f5a74af91782308b67
+machine_hash: ec7ed2fd8eefda44ffff9cd04dba1e1a06d844ca2d562a2a2a06fad7a3b6d171
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -55,12 +55,9 @@ record:
   title: 6 Agent Mode changes in v1.0.64
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-06-19-improved-auto-mode-safety-destructive-git-commands-git-reset-hard-git-checkout-g|Improved
-  auto mode safety]]'
-- '[[Changes/Claude Code/2026-06-22-2-agent-mode-changes-in-v2-1-186|2 Agent Mode
-  changes in v2.1.186]]'
-- '[[Changes/Codex CLI/2026-06-22-14-agent-mode-changes-in-rust-v0-142-0|14 Agent
-  Mode changes in rust-v0.142.0]]'
+- '[[Changes/ElevenLabs/2026-06-22-elevenagents|ElevenAgents]]'
+- '[[Changes/ElevenLabs/2026-06-22-elevenagents-c51c4d|ElevenAgents]]'
+- '[[Changes/ElevenLabs/2026-06-22-elevenagents-ee09f3|ElevenAgents]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-06-23-v1-0-64-github-343650012-6d4aa4bd|github-copilot-cli-2026-06-23-v1-0-64-github-343650012-6d4aa4bd]]'
 source_type: github_releases
 theme: agent-mode
@@ -117,7 +114,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.64
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2026-06-22 · Codex CLI · [[Changes/Codex CLI/2026-06-22-14-agent-mode-changes-in-rust-v0-142-0|14 Agent Mode changes in rust-v0.142.0]]
+- Earlier: 2026-06-22 · ElevenLabs · [[Changes/ElevenLabs/2026-06-22-elevenagents-ee09f3|ElevenAgents]]
 - Later: 2026-06-24 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-06-24-4-agent-mode-changes-in-v1-0-65|4 Agent Mode changes in v1.0.65]]
 <!-- chronolog:end -->
 

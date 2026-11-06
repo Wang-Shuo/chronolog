@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: b01918904c5c83dd809dc354dfc628c201a476da3f8f42cc855766b5ee0772c2
+machine_hash: 15323cba98d934e260dee3f93528491e41545da6f2eefe35d04ed36f742dfdae
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -45,10 +45,10 @@ record:
     your team…
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-10-08-2-collaboration-changes-in-rust-v0-162-0|2 Collaboration
-  changes in rust-v0.162.0]]'
 - '[[Changes/Claude Code/2026-10-14-changed-local-session-transcripts-to-also-record-each-api-request-s-system-promp|Changed
   local session transcripts to also record each API request''s system prompt…]]'
+- "[[Changes/Open WebUI/2026-10-14-save-hidden-on-others-messages-in-a-chat-shared-with-allow-replies-editing-a-mes|\U0001F4BE
+  Save hidden on others' messages. In a chat shared with Allow replies, editing…]]"
 - '[[Changes/Codex CLI/2026-10-15-4-collaboration-changes-in-rust-v0-163-0|4 Collaboration
   changes in rust-v0.163.0]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-10-16-create-and-collaborate-on-slides-in-chatgpt-0e009a16|chatgpt-2026-10-16-create-and-collaborate-on-slides-in-chatgpt-0e009a16]]'
@@ -83,7 +83,7 @@ type: change
 ## Nearby in Collaboration
 
 - Earlier: 2026-10-15 · Codex CLI · [[Changes/Codex CLI/2026-10-15-4-collaboration-changes-in-rust-v0-163-0|4 Collaboration changes in rust-v0.163.0]]
-- Later: 2026-10-19 · Claude Code · [[Changes/Claude Code/2026-10-19-added-a-warning-on-pro-and-max-plans-when-resuming-an-inactive-conversation-woul|Added a warning on Pro and Max plans when resuming an inactive conversation would…]]
+- Later: 2026-10-16 · Open WebUI · [[Changes/Open WebUI/2026-10-16-2-collaboration-changes-in-v0-12-3|2 Collaboration changes in v0.12.3]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

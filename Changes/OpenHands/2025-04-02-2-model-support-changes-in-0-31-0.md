@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: aa7b3122d7894fd5512f2cb688432e0969adc2c5e4de3656c3593e9e13154d43
+machine_hash: a1149c82943de36c154606c2228f0c0b14de684c3365c50428e477e00beefad0
 product: openhands
 product_name: OpenHands
 record:
@@ -43,12 +43,12 @@ record:
   title: 2 Model Support changes in 0.31.0
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2025-03-27-gpt-4o-is-now-more-adept-at-following-detailed-instructions-especially-for-promp|Enhanced
-  instruction-following and formatting accuracy]]'
-- '[[Changes/Aider/2025-03-31-3-model-support-changes-in-v0-80-0|3 Model Support changes
-  in v0.80.0]]'
 - '[[Changes/Cline/2025-04-01-3-model-support-changes-in-v3-8-5|3 Model Support changes
   in v3.8.5]]'
+- '[[Changes/Open WebUI/2025-04-01-3-model-support-changes-in-v0-6-0|3 Model Support
+  changes in v0.6.0]]'
+- '[[Changes/Ollama/2025-04-02-api-show-will-now-include-model-capabilities-such-as-vision|/api/show
+  will now include model capabilities such as vision]]'
 source_release: '[[Releases/OpenHands/openhands-2025-04-02-0-31-0-github-209939505-1b9e3a2d|openhands-2025-04-02-0-31-0-github-209939505-1b9e3a2d]]'
 source_type: github_releases
 theme: model-support
@@ -83,7 +83,7 @@ Source: https://github.com/OpenHands/OpenHands/releases/tag/0.31.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2025-04-01 · Cline · [[Changes/Cline/2025-04-01-3-model-support-changes-in-v3-8-5|3 Model Support changes in v3.8.5]]
+- Earlier: 2025-04-02 · Ollama · [[Changes/Ollama/2025-04-02-api-show-will-now-include-model-capabilities-such-as-vision|/api/show will now include model capabilities such as vision]]
 - Later: 2025-04-04 · Aider · [[Changes/Aider/2025-04-04-4-model-support-changes-in-v0-81-0|4 Model Support changes in v0.81.0]]
 <!-- chronolog:end -->
 

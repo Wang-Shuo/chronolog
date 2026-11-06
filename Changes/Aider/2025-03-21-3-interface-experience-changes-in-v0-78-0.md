@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 9ac87a5a14806c3f772579ba79f7fc5de71f4be7d9a677a0856c07dad70cf885
+machine_hash: aa922a79df93b720284490418b245dcbe8824b4f50db64be51e95a5a193f9bf3
 product: aider
 product_name: Aider
 record:
@@ -46,8 +46,8 @@ record:
   title: 3 Interface Experience changes in v0.78.0
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-03-11-0-47-11-release-track-picker-prerelease-or-standard-fix-for-dmg-installer-not-wo|0.47.11:
-  Release track picker (prerelease or standard), fix for dmg installer not…]]'
+- '[[Changes/Lovable/2025-03-14-we-ve-made-some-improvement-to-lovable-s-project-settings-layout-for-a-more-intu|Lovable
+  makes some improvement to Lovable’s project settings layout for a more…]]'
 - '[[Changes/ChatGPT/2025-03-18-added-long-press-on-your-message-to-open-menu-actions-copy-edit|Added
   long press on your message to open menu actions: Copy, Edit]]'
 - '[[Changes/ChatGPT/2025-03-18-improved-response-display-of-nested-blockquote-content|Improved
@@ -90,7 +90,7 @@ Source: https://github.com/Aider-AI/aider/releases/tag/v0.78.0
 ## Nearby in Interface Experience
 
 - Earlier: 2025-03-18 · ChatGPT · [[Changes/ChatGPT/2025-03-18-improved-response-display-of-nested-blockquote-content|Improved response display of nested blockquote content]]
-- Later: 2025-03-23 · Cline · [[Changes/Cline/2025-03-23-add-documentation-menu-item-to-easily-access-cline-s-docs|Add 'Documentation' menu item to easily access Cline's docs]]
+- Later: 2025-03-21 · Dify · [[Changes/Dify/2025-03-21-this-version-disables-the-svg-rendering-in-the-message-if-you-are-using-our-comm| This version disables the SVG rendering in the message]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

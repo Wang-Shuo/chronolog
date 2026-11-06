@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: caf1568af1fc03f524c4815d007595aeb19e1ed2e91fa3a0147d26b320772a45
+machine_hash: 0e8df89a9c64752a79cce8aee18f993e0261b6e40dcb5d885901dd87f5390f88
 product: claude-code
 product_name: Claude Code
 record:
@@ -42,12 +42,12 @@ record:
   title: '[VSCode] Added `/usage` command to display current plan usage'
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-01-16-2-developer-workflow-changes-in-v0-0-384|2
-  Developer Workflow changes in v0.0.384]]'
 - '[[Changes/GitHub Copilot CLI/2026-01-19-2-developer-workflow-changes-in-v0-0-385|2
   Developer Workflow changes in v0.0.385]]'
 - '[[Changes/GitHub Copilot CLI/2026-01-19-add-resume-command-to-switch-sessions|Add
   /resume command to switch sessions]]'
+- '[[Changes/v0/2026-01-19-improved-pull-request-creation-with-option-to-push-latest-changes|Improved
+  pull request creation with option to push latest changes]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-01-20-v2-1-14-github-278458927-a7d53111|claude-code-2026-01-20-v2-1-14-github-278458927-a7d53111]]'
 source_type: github_releases
 theme: developer-workflow
@@ -78,7 +78,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2026-01-19 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-01-19-add-resume-command-to-switch-sessions|Add /resume command to switch sessions]]
+- Earlier: 2026-01-19 · v0 · [[Changes/v0/2026-01-19-improved-pull-request-creation-with-option-to-push-latest-changes|Improved pull request creation with option to push latest changes]]
 - Later: 2026-01-20 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-01-20-2-developer-workflow-changes-in-v0-0-388|2 Developer Workflow changes in v0.0.388]]
 <!-- chronolog:end -->
 

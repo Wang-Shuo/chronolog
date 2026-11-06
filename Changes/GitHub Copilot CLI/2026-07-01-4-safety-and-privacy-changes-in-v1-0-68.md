@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 9f10f0f9836ca9d748cf17f80f1454a09a7c08082d116170f99997a419ce0052
+machine_hash: 63cdd9a36138083344378e88ae3cc75f9992a186a581b0564c3b0a83eca47992
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -46,8 +46,8 @@ record:
   title: 4 Safety and Privacy changes in v1.0.68
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-06-29-security-claude-mcp-list-get-no-longer-spawn-mcp-json-servers-that-a-repo-self-a|Security:
-  claude mcp list/get no longer spawn .mcp.json servers that a repo…]]'
+- '[[Changes/Open WebUI/2026-06-29-16-safety-and-privacy-changes-in-v0-10-0|16 Safety
+  and Privacy changes in v0.10.0]]'
 - '[[Changes/GitHub Copilot CLI/2026-06-30-disabling-the-sandbox-for-the-rest-of-the-session-now-takes-effect-immediately-s|Disabling
   the sandbox for the rest of the session now takes effect immediately…]]'
 - '[[Changes/GitHub Copilot CLI/2026-06-30-3-safety-and-privacy-changes-in-v1-0-66|3
@@ -97,7 +97,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.68
 ## Nearby in Safety and Privacy
 
 - Earlier: 2026-06-30 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-06-30-3-safety-and-privacy-changes-in-v1-0-66|3 Safety and Privacy changes in v1.0.66]]
-- Later: 2026-07-03 · Claude Code · [[Changes/Claude Code/2026-07-03-changed-the-default-permission-mode-to-manual-across-the-cli-help-vs-code-and-je|Changed the "default" permission mode to "Manual" across the CLI, --help, VS Code…]]
+- Later: 2026-07-01 · Open WebUI · [[Changes/Open WebUI/2026-07-01-3-safety-and-privacy-changes-in-v0-10-2|3 Safety and Privacy changes in v0.10.2]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

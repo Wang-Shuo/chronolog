@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: f3db82a4a4e119d95e6f4a3fda5d4e1965779c49638394adbfb28dbfcd89c069
+machine_hash: 71555ae4b58e7006c2bb2595701ea59984167cca78d1d26ba24f6a268738e3b9
 product: openhands
 product_name: OpenHands
 record:
@@ -44,12 +44,11 @@ record:
   title: Introduced a new Changes tab to show modifications made by OpenHands
   type: change
 related_changes:
-- '[[Changes/Cline/2025-04-12-3-editor-experience-changes-in-v3-12-0|3 Editor Experience
-  changes in v3.12.0]]'
-- '[[Changes/Aider/2025-04-14-added-new-editor-diff-editor-whole-and-editor-diff-fenced-edit-formats|Added
-  new editor-diff, editor-whole, and editor-diff-fenced edit formats]]'
+- '[[Changes/Replit/2025-04-18-dev-preview-url-education|Dev preview URL education]]'
 - '[[Changes/Cline/2025-04-19-add-ability-to-edit-past-messages-with-options-to-restore-your-workspace-back-to|Add
   ability to edit past messages, with options to restore your workspace back…]]'
+- '[[Changes/Dify/2025-04-23-2-editor-experience-changes-in-1-3-0|2 Editor Experience
+  changes in 1.3.0]]'
 source_release: '[[Releases/OpenHands/openhands-2025-04-23-0-34-0-github-214259369-f2d174a1|openhands-2025-04-23-0-34-0-github-214259369-f2d174a1]]'
 source_type: github_releases
 theme: editor-experience
@@ -82,7 +81,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2025-04-19 · Cline · [[Changes/Cline/2025-04-19-add-ability-to-edit-past-messages-with-options-to-restore-your-workspace-back-to|Add ability to edit past messages, with options to restore your workspace back…]]
+- Earlier: 2025-04-23 · Dify · [[Changes/Dify/2025-04-23-2-editor-experience-changes-in-1-3-0|2 Editor Experience changes in 1.3.0]]
 - Later: 2025-04-25 · Windsurf · [[Changes/Windsurf/2025-04-25-updates-ide-marketplace-link-by-mirroring-open-vsx|Updates IDE marketplace link by mirroring Open VSX]]
 <!-- chronolog:end -->
 

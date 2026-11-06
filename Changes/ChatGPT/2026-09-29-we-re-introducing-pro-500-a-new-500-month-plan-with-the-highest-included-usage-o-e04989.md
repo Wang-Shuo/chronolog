@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: f5286b8647bf5e40e1021a819dd5be50add79398a21fd023144e6b483647a54b
+machine_hash: 9a18306c8e7aaa1c650302c7a715319a5e5c584bb48970fe2d955d059c83a03c
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -68,10 +68,8 @@ record:
   title: A new Pro plan with Astra Ultrafast
   type: change
 related_changes:
-- '[[Changes/OpenHands/2026-09-25-feat-scope-openai-subscription-caches-by-backend-by-uczltw6-in-https-github-com|feat:
-  scope OpenAI subscription caches by backend]]'
-- '[[Changes/Claude Code/2026-09-28-2-pricing-model-changes-in-v2-1-284|2 Pricing
-  Model changes in v2.1.284]]'
+- '[[Changes/ElevenLabs/2026-09-28-python-sdk|Python SDK]]'
+- '[[Changes/ElevenLabs/2026-09-28-javascript-sdk|JavaScript SDK]]'
 - '[[Changes/ChatGPT/2026-09-29-pro-200-is-available-for-new-subscriptions-again-at-200-month-5ed430|Pro
   200 subscriptions]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-09-29-a-new-pro-plan-with-astra-ultrafast-f0c84e90|chatgpt-2026-09-29-a-new-pro-plan-with-astra-ultrafast-f0c84e90]]'

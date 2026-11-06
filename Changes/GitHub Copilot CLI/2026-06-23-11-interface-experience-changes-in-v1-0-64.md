@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: c9fafc003b4b4d11b1fd0640dda8e7e6942165e0748b417235e4e563f034309e
+machine_hash: 1e8f6d8d1bc9691c485e195c7e238e13834e6ae61fafaee9806b97de38cad74d
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -64,8 +64,8 @@ record:
   title: 11 Interface Experience changes in v1.0.64
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-06-19-changed-config-toggle-behavior-enter-and-space-both-change-the-selected-setting|Changed
-  /config toggle behavior]]'
+- '[[Changes/v0/2026-06-19-view-only-members-can-download-a-chat-s-code-as-a-zip-from-the-project-menu|View-only
+  members can download a chat''s code as a ZIP from the project menu]]'
 - '[[Changes/Codex CLI/2026-06-22-4-interface-experience-changes-in-rust-v0-142-0|4
   Interface Experience changes in rust-v0.142.0]]'
 - '[[Changes/Claude Code/2026-06-23-2-interface-experience-changes-in-v2-1-187|2 Interface

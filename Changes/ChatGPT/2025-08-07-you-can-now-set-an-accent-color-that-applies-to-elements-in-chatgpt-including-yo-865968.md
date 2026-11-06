@@ -4,20 +4,20 @@ date: '2025-08-07'
 description: 'ChatGPT · 2025-08-07 · Voice and Audio: You can now set an accent color
   that applies to elements in ChatGPT, including your conversation bubbles, the Voice…'
 diffusion:
-  first_in_tracked: '[[Changes/Aider/2023-08-11-voice-to-code-https-aider-chat-docs-voice-html-support-which-allows-you-to-code|Voice-to-code((source
-    link) support, which allows you…]]'
+  first_in_tracked: '[[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2
+    Voice and Audio changes in 0.3.7]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 727
+  lag_days: 759
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 52b5f7842c61abdba49bd8f82bd239e155079a45e65b76ebc2344d32f702ce8f
+machine_hash: d69b2ff2862f66082b07a9032d52e7995c3cedfc7f7f0e1cdfdb6af65413f884
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -63,9 +63,8 @@ record:
   title: Accent Colors
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2025-07-17-the-advanced-voice-upgrades-we-announced-on-june-7th-are-now-rolling-out-to-chat|Updates
-  to Advanced Voice Mode for Free tier users]]'
-- '[[Changes/Windsurf/2025-07-17-voice|Voice]]'
+- '[[Changes/ElevenLabs/2025-07-28-speech-to-text-b64b2f|Speech to Text]]'
+- '[[Changes/ElevenLabs/2025-08-04-voice-management|Voice Management]]'
 - '[[Changes/ChatGPT/2025-08-07-today-we-re-rolling-out-improvements-to-voice-mode-to-make-it-more-accessible-an-055388|ChatGPT
   Voice updates]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-08-07-accent-colors-d6573a1d|chatgpt-2025-08-07-accent-colors-d6573a1d]]'
@@ -101,7 +100,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-08-11 · Aider · [[Changes/Aider/2023-08-11-voice-to-code-https-aider-chat-docs-voice-html-support-which-allows-you-to-code|Voice-to-code((source link) support, which allows you…]]
+- Earliest same-theme entry in the tracked set: 2023-07-10 · Dify · [[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2 Voice and Audio changes in 0.3.7]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

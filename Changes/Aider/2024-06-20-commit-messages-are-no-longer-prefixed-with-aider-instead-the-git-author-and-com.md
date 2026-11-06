@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 543b860ff96ae8108db00d293c63a3536beebae0db9d65f121a4d25f92ca3768
+machine_hash: fa9db33b976d0fbb5faf035bdd2705569805c3128d8c6d3f708c6079d43109c5
 product: aider
 product_name: Aider
 record:
@@ -44,10 +44,10 @@ record:
   title: Commit messages are no longer prefixed with "aider:"
   type: change
 related_changes:
-- '[[Changes/OpenHands/2024-06-04-windows-doc-extended-with-more-wsl-hints-by-tobitege-in-https-github-com-opendev|Windows
-  doc extended with more WSL hints]]'
-- '[[Changes/Cursor/2024-06-08-remote-tunnels-are-now-supported-remote-ssh-support-is-also-more-robust-now-supp|Remote
-  tunnels are now supported!]]'
+- "[[Changes/Open WebUI/2024-06-10-backend-task-management-tasks-like-title-generation-and-search-query-generation|\U0001F527
+  Backend Task Management]]"
+- '[[Changes/Dify/2024-06-14-3-developer-workflow-changes-in-0-6-11|3 Developer Workflow
+  changes in 0.6.11]]'
 - '[[Changes/Aider/2024-06-17-2-developer-workflow-changes-in-v0-38-0|2 Developer
   Workflow changes in v0.38.0]]'
 source_release: '[[Releases/Aider/aider-2024-06-20-v0-39-0-github-161564157-bb86ead6|aider-2024-06-20-v0-39-0-github-161564157-bb86ead6]]'

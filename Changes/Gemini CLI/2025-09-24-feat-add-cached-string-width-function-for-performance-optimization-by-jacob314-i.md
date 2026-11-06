@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 5239a2654e76df7e8f63d228e0ecf1d5479cec89c1a3ca1031448ee875a9aa6f
+machine_hash: 4c8609eaaf342e12a03f83b2003e6ef543e36f6ea53012db2d96750ee48d24a7
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -42,12 +42,12 @@ record:
   title: 'feat: add cached string width function for performance optimization'
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-09-12-5-reliability-and-performance-changes-in-1-6|5 Reliability
-  and Performance changes in 1.6]]'
-- '[[Changes/Windsurf/2025-09-16-various-bug-fixes-and-stability-improvements|Various
-  bug fixes and stability improvements]]'
-- '[[Changes/ChatGPT/2025-09-17-2-reliability-and-performance-changes-in-toggle-thinking-time-in-the-message|2
-  Reliability and Performance changes in Toggle thinking time in the message…]]'
+- '[[Changes/Open WebUI/2025-09-17-8-reliability-and-performance-changes-in-v0-6-29|8
+  Reliability and Performance changes in v0.6.29]]'
+- '[[Changes/Replit/2025-09-19-faster-user-deletion-in-clui|Faster user deletion in
+  CLUI]]'
+- '[[Changes/Dify/2025-09-22-5-reliability-and-performance-changes-in-1-9-0|5 Reliability
+  and Performance changes in 1.9.0]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2025-09-24-v0-6-0-github-249519586-83671b5c|gemini-cli-2025-09-24-v0-6-0-github-249519586-83671b5c]]'
 source_type: github_releases
 theme: reliability-performance
@@ -83,8 +83,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2025-09-17 · ChatGPT · [[Changes/ChatGPT/2025-09-17-2-reliability-and-performance-changes-in-toggle-thinking-time-in-the-message|2 Reliability and Performance changes in Toggle thinking time in the message…]]
-- Later: 2025-09-26 · Codex CLI · [[Changes/Codex CLI/2025-09-26-stability-and-correctness-token-usage-fix-for-compaction-sse-mounting-reliabilit|Stability and correctness]]
+- Earlier: 2025-09-22 · Dify · [[Changes/Dify/2025-09-22-5-reliability-and-performance-changes-in-1-9-0|5 Reliability and Performance changes in 1.9.0]]
+- Later: 2025-09-25 · Open WebUI · [[Changes/Open WebUI/2025-09-25-5-reliability-and-performance-changes-in-v0-6-31|5 Reliability and Performance changes in v0.6.31]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

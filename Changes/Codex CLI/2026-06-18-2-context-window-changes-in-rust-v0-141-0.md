@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 31ec2c1334d103584874afb3ff8be3ca99b94c795e6f8f7a8a7da7680e5d714e
+machine_hash: 231faec3c12737cca81f6d333a06081ae7aedaf5f3e16510db8b778fd6aed725
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -43,12 +43,12 @@ record:
   title: 2 Context Window changes in rust-v0.141.0
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-06-12-vscode-added-usage-attribution-to-the-account-usage-dialog-usage-showing-cache-m|VSCode
-  Added usage attribution to the Account & usage dialog (/usage) showing…]]'
 - '[[Changes/GitHub Copilot CLI/2026-06-13-honor-max-output-tokens-for-byok-responses-providers|Honor
   max_output_tokens for BYOK Responses providers]]'
 - '[[Changes/Codex CLI/2026-06-15-7-context-window-changes-in-rust-v0-140-0|7 Context
   Window changes in rust-v0.140.0]]'
+- '[[Changes/Ollama/2026-06-15-ollama-will-now-return-an-error-if-a-single-message-is-larger-than-the-current-c|Ollama
+  will now return an error if a single message is larger than the current…]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-06-18-rust-v0-141-0-github-341160952-94bdbd75|codex-cli-2026-06-18-rust-v0-141-0-github-341160952-94bdbd75]]'
 source_type: github_releases
 theme: context-window
@@ -89,7 +89,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.141.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Context Window
 
-- Earlier: 2026-06-15 · Codex CLI · [[Changes/Codex CLI/2026-06-15-7-context-window-changes-in-rust-v0-140-0|7 Context Window changes in rust-v0.140.0]]
+- Earlier: 2026-06-15 · Ollama · [[Changes/Ollama/2026-06-15-ollama-will-now-return-an-error-if-a-single-message-is-larger-than-the-current-c|Ollama will now return an error if a single message is larger than the current…]]
 - Later: 2026-06-22 · ChatGPT · [[Changes/ChatGPT/2026-06-22-starting-today-for-chatgpt-free-and-go-users-long-pastes-are-handled-differently|Large pastes are now handled as attachments for more plans]]
 <!-- chronolog:end -->
 

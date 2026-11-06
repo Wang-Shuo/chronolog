@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: d12b2e8e596a21e2a0e3da39b067aa2d8bbf175ba607c5816f2f36912fed095d
+machine_hash: 53df7a4fe52bccab62238b6f0cfdc9a4199838cd52c8ee64d4aa3f8c393787b0
 product: claude-code
 product_name: Claude Code
 record:
@@ -44,12 +44,12 @@ record:
     HTTPS…
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-05-11-opentelemetry-output-aligns-with-genai-semantic-conventions-mcp-tool-calls-now-u|OpenTelemetry
-  output aligns with GenAI semantic conventions]]'
-- '[[Changes/Claude Code/2026-05-12-plugins-now-warn-when-a-default-component-folder-e-g-commands-is-silently-ignore|Plugins
-  now warn when a default component folder (e.g. commands/) is silently…]]'
 - '[[Changes/Gemini CLI/2026-05-12-5-apps-and-integrations-changes-in-v0-42-0|5 Apps
   and Integrations changes in v0.42.0]]'
+- '[[Changes/Ollama/2026-05-12-test-integration-test-hardening-by-dhiltgen-in-https-github-com-ollama-ollama-pu|test:
+  integration test hardening]]'
+- '[[Changes/v0/2026-05-12-custom-auth-headers-for-connected-mcp-servers-no-longer-get-stripped-after-the-f|Custom
+  auth headers for connected MCP servers no longer get stripped after the first…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-05-13-v2-1-141-github-322186176-9f8e2e22|claude-code-2026-05-13-v2-1-141-github-322186176-9f8e2e22]]'
 source_type: github_releases
 theme: apps-integrations
@@ -87,7 +87,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-05-12 · Gemini CLI · [[Changes/Gemini CLI/2026-05-12-5-apps-and-integrations-changes-in-v0-42-0|5 Apps and Integrations changes in v0.42.0]]
+- Earlier: 2026-05-12 · v0 · [[Changes/v0/2026-05-12-custom-auth-headers-for-connected-mcp-servers-no-longer-get-stripped-after-the-f|Custom auth headers for connected MCP servers no longer get stripped after the first…]]
 - Later: 2026-05-13 · Cursor · [[Changes/Cursor/2026-05-13-improved-mcp-auth-token-lifecycle-handling|Improved MCP auth token lifecycle handling]]
 <!-- chronolog:end -->
 

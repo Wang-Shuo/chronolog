@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: cfeb4ddb1594fda4510563fc6080012d125a7596f409332db16e2e8f3a1df532
+machine_hash: b4385429fe22238d2e2073d1f1f14e45e2c5bd47db46b6398959febe5b1772a4
 product: cursor
 product_name: Cursor
 record:
@@ -50,11 +50,11 @@ record:
   title: Better support for remote-ssh
   type: change
 related_changes:
-- '[[Changes/Aider/2023-07-24-added-git-command-to-run-git-from-inside-aider-chats|Added
-  /git command to run git from inside aider chats]]'
 - '[[Changes/Aider/2023-07-24-3-developer-workflow-changes-in-v0-10-1|3 Developer
   Workflow changes in v0.10.1]]'
 - '[[Changes/Cursor/2023-07-27-linter-is-back|Linter is back!]]'
+- '[[Changes/Dify/2023-07-27-add-clean-unused-dataset-command-by-johnjyong-in-https-github-com-langgenius-dif|add
+  clean unused dataset command]]'
 source_release: '[[Releases/Cursor/cursor-2023-07-28-0-6-0-https-cursor-com-changelog-0-6-0-ec91c991|cursor-2023-07-28-0-6-0-https-cursor-com-changelog-0-6-0-ec91c991]]'
 source_type: cursor_changelog
 theme: developer-workflow
@@ -88,7 +88,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2023-07-27 · Cursor · [[Changes/Cursor/2023-07-27-linter-is-back|Linter is back!]]
+- Earlier: 2023-07-27 · Dify · [[Changes/Dify/2023-07-27-add-clean-unused-dataset-command-by-johnjyong-in-https-github-com-langgenius-dif|add clean unused dataset command]]
 - Later: 2023-08-01 · Cursor · [[Changes/Cursor/2023-08-01-improved-linter-please-give-us-feedback-on-the-linter-suggestions-using-the-smil|Improved linter]]
 <!-- chronolog:end -->
 

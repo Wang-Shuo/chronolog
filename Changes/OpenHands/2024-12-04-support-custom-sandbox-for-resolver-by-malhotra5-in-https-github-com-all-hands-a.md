@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 10f5afd8ac0b7241d7a11a26c03c9d2104d554b148dcf18b4dbcaa453d12ab39
+machine_hash: 166b043c6408fdfb5a2d890706780e54393c5627135765075209c49bbc807040
 product: openhands
 product_name: OpenHands
 record:
@@ -45,12 +45,12 @@ record:
   title: Support custom sandbox for resolver
   type: change
 related_changes:
-- '[[Changes/Cursor/2024-09-17-this-update-fixes-the-following-security-issue-cve-2024-45599|This
-  update fixes the following security issue: CVE-2024-45599]]'
-- '[[Changes/Cursor/2024-10-09-update-0-42-1-0-42-5-fixes-the-following-upstream-security-issue-cve-2024-43601|UPDATE
-  (0.42.1 - 0.42.5): Fixes the following upstream security issue: CVE-2024-43601]]'
-- '[[Changes/OpenHands/2024-10-17-add-modal-sandbox-support-as-a-new-runtime-by-pawalt-in-https-github-com-all-han|Add
-  Modal sandbox support as a new runtime]]'
+- '[[Changes/Gemini/2024-11-18-expanding-the-gemini-app-as-a-core-service-with-enterprise-grade-data-protection|Expanding
+  the Gemini app as a core service with enterprise-grade data protection…]]'
+- '[[Changes/Open WebUI/2024-11-19-2-safety-and-privacy-changes-in-v0-4-0|2 Safety
+  and Privacy changes in v0.4.0]]'
+- '[[Changes/Ollama/2024-11-26-strong-typing-throughout-the-library-for-improved-reliability-and-type-safety|Strong
+  typing throughout the library for improved reliability and type safety]]'
 source_release: '[[Releases/OpenHands/openhands-2024-12-04-0-15-0-github-188969871-7d218625|openhands-2024-12-04-0-15-0-github-188969871-7d218625]]'
 source_type: github_releases
 theme: safety-privacy
@@ -80,7 +80,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Safety and Privacy
 
-- Earlier: 2024-10-17 · OpenHands · [[Changes/OpenHands/2024-10-17-add-modal-sandbox-support-as-a-new-runtime-by-pawalt-in-https-github-com-all-han|Add Modal sandbox support as a new runtime]]
+- Earlier: 2024-11-26 · Ollama · [[Changes/Ollama/2024-11-26-strong-typing-throughout-the-library-for-improved-reliability-and-type-safety|Strong typing throughout the library for improved reliability and type safety]]
 - Later: 2024-12-18 · Cline · [[Changes/Cline/2024-12-18-cline-s-most-requested-feature-is-here-you-can-now-let-cline-work-more-autonomou|Cline's most requested feature is here 🎉 You can now let Cline work more…]]
 <!-- chronolog:end -->
 

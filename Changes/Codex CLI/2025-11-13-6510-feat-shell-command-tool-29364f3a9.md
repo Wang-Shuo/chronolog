@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 86568035a5bcfb22c150e0afaa915fb60ebc28bbbf25f835b6a2f11e58ef2e53
+machine_hash: db1b592eb571077b1d1c2eddc27649ab513af6201d39298015391098bb2ad2ad
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -84,7 +84,7 @@ type: change
 ## Nearby in Agent Mode
 
 - Earlier: 2025-11-13 · Cline · [[Changes/Cline/2025-11-13-feat-add-agents-md-support-by-saoudrizwan-in-https-github-com-cline-cline-pull-7|feat: add AGENTS.md support]]
-- Later: 2025-11-19 · Codex CLI · [[Changes/Codex CLI/2025-11-19-2-agent-mode-changes-in-rust-v0-59-0|2 Agent Mode changes in rust-v0.59.0]]
+- Later: 2025-11-13 · Dify · [[Changes/Dify/2025-11-13-these-trigger-features-are-only-available-for-workflows-chatflow-agent-and-basic|These trigger features are only available for Workflows]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

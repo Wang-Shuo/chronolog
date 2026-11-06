@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 8b5632fdae3f2b798787bdd4712118a306348cb894c573dd6dee6a913a18abb1
+machine_hash: 99f378499da9bb8f178ea737b67385d45841cd43eea22f2167d49cc20bfc4077
 product: aider
 product_name: Aider
 record:
@@ -44,12 +44,11 @@ record:
   title: 3 Model Support changes in v0.70.0
   type: change
 related_changes:
-- '[[Changes/Aider/2024-12-10-4-model-support-changes-in-v0-68-0|4 Model Support changes
-  in v0.68.0]]'
-- '[[Changes/Aider/2024-12-13-2-model-support-changes-in-v0-69-0|2 Model Support changes
-  in v0.69.0]]'
-- '[[Changes/ChatGPT/2024-12-13-projects-provide-a-new-way-to-group-files-and-chats-for-personal-use-simplifying|Projects
-  provide a new way to group files and chats for personal use, simplifying…]]'
+- '[[Changes/ElevenLabs/2024-12-19-model|Model]]'
+- '[[Changes/Dify/2024-12-23-7-model-support-changes-in-0-14-2|7 Model Support changes
+  in 0.14.2]]'
+- "[[Changes/Open WebUI/2024-12-25-bypass-model-access-control-fixed-an-issue-where-users-could-see-models-but-coul|\U0001F513
+  BYPASS_MODEL_ACCESS_CONTROL: Fixed an issue where users could see models but…]]"
 source_release: '[[Releases/Aider/aider-2024-12-26-v0-70-0-github-192422417-0fd50011|aider-2024-12-26-v0-70-0-github-192422417-0fd50011]]'
 source_type: github_releases
 theme: model-support
@@ -87,8 +86,8 @@ Source: https://github.com/Aider-AI/aider/releases/tag/v0.70.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2024-12-13 · ChatGPT · [[Changes/ChatGPT/2024-12-13-projects-provide-a-new-way-to-group-files-and-chats-for-personal-use-simplifying|Projects provide a new way to group files and chats for personal use, simplifying…]]
-- Later: 2025-01-10 · Aider · [[Changes/Aider/2025-01-10-2-model-support-changes-in-v0-71-0|2 Model Support changes in v0.71.0]]
+- Earlier: 2024-12-25 · Open WebUI · [[Changes/Open WebUI/2024-12-25-bypass-model-access-control-fixed-an-issue-where-users-could-see-models-but-coul|🔓 BYPASS_MODEL_ACCESS_CONTROL: Fixed an issue where users could see models but…]]
+- Later: 2024-12-26 · DeepSeek API · [[Changes/DeepSeek API/2024-12-26-deepseek-chat|deepseek-chat]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

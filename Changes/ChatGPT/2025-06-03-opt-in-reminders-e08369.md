@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: memory
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: a47bcfd5f503349f6e3158d09273b09ef5de2c9383f6086df5965088cc29f6cd
+machine_hash: 6bd7665e660f9cf5a2762d2757d3ced87c66b2b465664478ca6f55ab68694700
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -51,12 +51,12 @@ record:
   title: Opt‑in reminders
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2025-04-16-chatgpt-can-also-use-memories-to-inform-search-queries-when-chatgpt-searches-the|Memory
-  with Search]]'
-- '[[Changes/ChatGPT/2025-05-08-saved-memories-and-chat-history-are-offered-only-to-plus-and-pro-accounts-free-t|Saved
-  memories and Chat history are offered only to Plus and Pro…]]'
 - '[[Changes/ChatGPT/2025-05-08-enhanced-memory-rolling-out-to-all-plus-and-pro-users-including-the-eu-the-new-m|Enhanced
   memory rolling out to all Plus and Pro users (including the EU)]]'
+- '[[Changes/Open WebUI/2025-05-26-2-memory-and-personalization-changes-in-v0-6-11|2
+  Memory and Personalization changes in v0.6.11]]'
+- "[[Changes/Open WebUI/2025-05-29-refined-memory-error-handling-enhanced-stability-during-memory-related-operation|\U0001F9E0
+  Refined Memory Error Handling]]"
 source_release: '[[Releases/ChatGPT/chatgpt-2025-06-03-memory-is-now-more-comprehensive-for-free-users-32de8dd3|chatgpt-2025-06-03-memory-is-now-more-comprehensive-for-free-users-32de8dd3]]'
 source_type: chatgpt_changelog
 theme: memory
@@ -89,7 +89,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Memory and Personalization
 
-- Earlier: 2025-05-08 · ChatGPT · [[Changes/ChatGPT/2025-05-08-enhanced-memory-rolling-out-to-all-plus-and-pro-users-including-the-eu-the-new-m|Enhanced memory rolling out to all Plus and Pro users (including the EU)]]
+- Earlier: 2025-05-29 · Open WebUI · [[Changes/Open WebUI/2025-05-29-refined-memory-error-handling-enhanced-stability-during-memory-related-operation|🧠 Refined Memory Error Handling]]
 - Later: 2025-06-04 · Cursor · [[Changes/Cursor/2025-06-04-memories|Memories]]
 <!-- chronolog:end -->
 

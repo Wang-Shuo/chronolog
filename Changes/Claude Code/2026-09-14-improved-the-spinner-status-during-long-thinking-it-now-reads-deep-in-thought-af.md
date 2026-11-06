@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 8da6419f92cc393d81ac9b20eeebda261dd6e5460806ab08039487b4cb7b04cc
+machine_hash: cf7ccc84577ee28fa12130079ea59432329673404e8c9a2283a76d5f4a1d8ace
 product: claude-code
 product_name: Claude Code
 record:
@@ -47,12 +47,12 @@ record:
   title: Improved the spinner status during long thinking
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-09-09-17-context-window-changes-in-rust-v0-154-0|17 Context
-  Window changes in rust-v0.154.0]]'
-- '[[Changes/Cursor/2026-09-10-you-shouldn-t-have-to-onboard-an-agent-every-time-you-start-a-task-each-project|Shared
-  context]]'
-- '[[Changes/Cursor/2026-09-10-today-we-re-launching-projects-in-cursor-projects-lets-you-take-on-larger-bodies-51d06c|Cursor
-  launches Projects]]'
+- '[[Changes/Dify/2026-09-10-6-context-window-changes-in-1-17-1|6 Context Window changes
+  in 1.17.1]]'
+- '[[Changes/Lovable/2026-09-10-see-what-is-inside-a-zip-before-lovable-uses-it|See
+  what is inside a ZIP before Lovable uses it]]'
+- '[[Changes/Lovable/2026-09-11-preview-pdf-attachments-in-chat|Preview PDF attachments
+  in chat]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-14-v2-1-271-github-388664071-570fd44f|claude-code-2026-09-14-v2-1-271-github-388664071-570fd44f]]'
 source_type: github_releases
 theme: context-window
@@ -92,8 +92,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Context Window
 
-- Earlier: 2026-09-10 · Cursor · [[Changes/Cursor/2026-09-10-today-we-re-launching-projects-in-cursor-projects-lets-you-take-on-larger-bodies-51d06c|Cursor launches Projects]]
-- Later: 2026-09-15 · Claude Code · [[Changes/Claude Code/2026-09-15-added-x-claude-code-request-class-x-claude-code-agent-type-x-claude-code-prev-to|Added x-claude-code-request-class, x-claude-code-agent-type…]]
+- Earlier: 2026-09-11 · Lovable · [[Changes/Lovable/2026-09-11-preview-pdf-attachments-in-chat|Preview PDF attachments in chat]]
+- Later: 2026-09-14 · Ollama · [[Changes/Ollama/2026-09-14-runaway-repeat-token-detection-now-requires-100-repeat-tokens-for-reduced-false|Runaway repeat token detection now requires 100 repeat tokens for reduced false…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

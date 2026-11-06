@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: abbca9972b5d2262bfce346c03a524b5b10e91d691ff74349472ffa171da2908
+machine_hash: 56eb02125c7cfd98b74b6bec40336a6499411e076a6cd5fdcd0d2b67c91b0a91
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,12 +45,12 @@ record:
   title: 2 Apps and Integrations changes in v2.1.233
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-08-12-3-apps-and-integrations-changes-in-v2-1-229|3
-  Apps and Integrations changes in v2.1.229]]'
 - '[[Changes/Claude Code/2026-08-13-4-apps-and-integrations-changes-in-v2-1-232|4
   Apps and Integrations changes in v2.1.232]]'
 - '[[Changes/Cline/2026-08-13-these-land-through-sdk-v0-0-74-and-therefore-apply-to-windows-running-the-sdk-bu|These
   land through SDK v0.0.74 and therefore apply to windows running the SDK…]]'
+- '[[Changes/Lovable/2026-08-13-build-dashboards-from-your-snowflake-semantic-views|Build
+  dashboards from your Snowflake semantic views]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-08-14-v2-1-233-github-370762090-de6823a9|claude-code-2026-08-14-v2-1-233-github-370762090-de6823a9]]'
 source_type: github_releases
 theme: apps-integrations
@@ -91,7 +91,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.233
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-08-13 · Cline · [[Changes/Cline/2026-08-13-these-land-through-sdk-v0-0-74-and-therefore-apply-to-windows-running-the-sdk-bu|These land through SDK v0.0.74 and therefore apply to windows running the SDK…]]
+- Earlier: 2026-08-13 · Lovable · [[Changes/Lovable/2026-08-13-build-dashboards-from-your-snowflake-semantic-views|Build dashboards from your Snowflake semantic views]]
 - Later: 2026-08-14 · Cline · [[Changes/Cline/2026-08-14-everything-in-this-release-lands-through-the-sdk-bundle-so-it-applies-to-windows|Everything in this release lands through the SDK bundle, so it applies to windows…]]
 <!-- chronolog:end -->
 

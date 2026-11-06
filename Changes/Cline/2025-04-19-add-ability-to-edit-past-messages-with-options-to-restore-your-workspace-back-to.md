@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 395c13ddf39a77210b7bc969775c385cd74d556e3fa2bfe62321e8f96e754cd3
+machine_hash: e0ef14d56789f8d25b235ce5b16c6b53739dd9b357eae0f0c0506db2d584900d
 product: cline
 product_name: Cline
 record:
@@ -45,12 +45,11 @@ record:
     back…
   type: change
 related_changes:
-- '[[Changes/Windsurf/2025-04-07-ability-to-edit-subdomain-on-website-deploy|Ability
-  to edit subdomain on website deploy]]'
 - '[[Changes/Cline/2025-04-12-3-editor-experience-changes-in-v3-12-0|3 Editor Experience
   changes in v3.12.0]]'
 - '[[Changes/Aider/2025-04-14-added-new-editor-diff-editor-whole-and-editor-diff-fenced-edit-formats|Added
   new editor-diff, editor-whole, and editor-diff-fenced edit formats]]'
+- '[[Changes/Replit/2025-04-18-dev-preview-url-education|Dev preview URL education]]'
 source_release: '[[Releases/Cline/cline-2025-04-19-v3-13-0-github-213455478-f5b1cb21|cline-2025-04-19-v3-13-0-github-213455478-f5b1cb21]]'
 source_type: github_releases
 theme: editor-experience
@@ -83,8 +82,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2025-04-14 · Aider · [[Changes/Aider/2025-04-14-added-new-editor-diff-editor-whole-and-editor-diff-fenced-edit-formats|Added new editor-diff, editor-whole, and editor-diff-fenced edit formats]]
-- Later: 2025-04-23 · OpenHands · [[Changes/OpenHands/2025-04-23-introduced-a-new-changes-tab-to-show-modifications-made-by-openhands-by-amanape|Introduced a new Changes tab to show modifications made by OpenHands]]
+- Earlier: 2025-04-18 · Replit · [[Changes/Replit/2025-04-18-dev-preview-url-education|Dev preview URL education]]
+- Later: 2025-04-23 · Dify · [[Changes/Dify/2025-04-23-2-editor-experience-changes-in-1-3-0|2 Editor Experience changes in 1.3.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

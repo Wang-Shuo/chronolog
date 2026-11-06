@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 41dc70b0a890db0c75f251e26039c2f73f1a8bbaa19020bb7e4034fc918c41b0
+machine_hash: 1ad12f3a9d564667798f67e1b0eaddd92c8f167fc330d2a563db4290ae7bd828
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -110,7 +110,7 @@ Source: https://github.com/google-gemini/gemini-cli/releases/tag/v0.25.0
 ## Nearby in Model Support
 
 - Earlier: 2026-01-21 · Codex CLI · [[Changes/Codex CLI/2026-01-21-5-model-support-changes-in-rust-v0-88-0|5 Model Support changes in rust-v0.88.0]]
-- Later: 2026-01-22 · ChatGPT · [[Changes/ChatGPT/2026-01-22-we-re-updating-gpt-5-2-instant-s-default-personality-to-be-more-conversational-a|5.2 Personality System Prompt Update]]
+- Later: 2026-01-21 · Ollama · [[Changes/Ollama/2026-01-21-a-new-ollama-launch-command-to-use-ollama-s-models-with-claude-code-codex-openco|A new ollama launch command to use Ollama's models with Claude Code, Codex…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 3aa603f6e9e58411690545196ce61026bb7d3e75748003e250fcd86409049fe2
+machine_hash: 12ddb399de656edafcfd77e45f51074f1c7e96fc27b1cc3fc858353644728088
 product: windsurf
 product_name: Windsurf
 record:
@@ -61,12 +61,12 @@ record:
   title: Devin features in Windsurf, stability improvements, and a brand new UI
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2025-09-24-feat-add-cached-string-width-function-for-performance-optimization-by-jacob314-i|feat:
-  add cached string width function for performance optimization]]'
 - '[[Changes/Codex CLI/2025-09-26-stability-and-correctness-token-usage-fix-for-compaction-sse-mounting-reliabilit|Stability
   and correctness]]'
 - '[[Changes/Cursor/2025-09-29-8-reliability-and-performance-changes-in-1-7|8 Reliability
   and Performance changes in 1.7]]'
+- '[[Changes/Dify/2025-09-29-3-reliability-and-performance-changes-in-1-9-1|3 Reliability
+  and Performance changes in 1.9.1]]'
 source_release: '[[Releases/Windsurf/windsurf-2025-09-29-v1-12-1-c1918eb7|windsurf-2025-09-29-v1-12-1-c1918eb7]]'
 source_type: windsurf_changelog
 theme: reliability-performance
@@ -107,7 +107,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2025-09-29 · Cursor · [[Changes/Cursor/2025-09-29-8-reliability-and-performance-changes-in-1-7|8 Reliability and Performance changes in 1.7]]
+- Earlier: 2025-09-29 · Dify · [[Changes/Dify/2025-09-29-3-reliability-and-performance-changes-in-1-9-1|3 Reliability and Performance changes in 1.9.1]]
 - Later: 2025-10-01 · Gemini CLI · [[Changes/Gemini CLI/2025-10-01-2-reliability-and-performance-changes-in-v0-7-0|2 Reliability and Performance changes in v0.7.0]]
 <!-- chronolog:end -->
 

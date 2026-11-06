@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 91794193482e65c33aabd1b4c57c2841beadd033c729686ea2b230c5f71da9a8
+machine_hash: ce8ec98bf30780e9aa215db9dd61b935c39eb7b43640aeee861df98e6d694e45
 product: openhands
 product_name: OpenHands
 record:
@@ -43,12 +43,12 @@ record:
   title: 2 Model Support changes in 0.50.0
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2025-07-19-4-model-support-changes-in-v0-1-13|4 Model Support
-  changes in v0.1.13]]'
 - '[[Changes/Cline/2025-07-22-separate-plan-act-model-settings-by-celestial-vault-in-https-github-com-cline-cl|Separate
   plan act model settings]]'
 - '[[Changes/Cline/2025-07-23-adding-support-for-new-models-qwen-3-models-on-qwen-provider-by-arafatkatze-in-h|Adding
   support for new models Qwen 3 models on Qwen provider]]'
+- '[[Changes/Dify/2025-07-23-2-model-support-changes-in-1-7-0|2 Model Support changes
+  in 1.7.0]]'
 source_release: '[[Releases/OpenHands/openhands-2025-07-24-0-50-0-github-234870384-6ce58434|openhands-2025-07-24-0-50-0-github-234870384-6ce58434]]'
 source_type: github_releases
 theme: model-support
@@ -83,7 +83,7 @@ Source: https://github.com/OpenHands/OpenHands/releases/tag/0.50.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2025-07-23 · Cline · [[Changes/Cline/2025-07-23-adding-support-for-new-models-qwen-3-models-on-qwen-provider-by-arafatkatze-in-h|Adding support for new models Qwen 3 models on Qwen provider]]
+- Earlier: 2025-07-23 · Dify · [[Changes/Dify/2025-07-23-2-model-support-changes-in-1-7-0|2 Model Support changes in 1.7.0]]
 - Later: 2025-07-25 · Gemini CLI · [[Changes/Gemini CLI/2025-07-25-11-model-support-changes-in-v0-1-14|11 Model Support changes in v0.1.14]]
 <!-- chronolog:end -->
 

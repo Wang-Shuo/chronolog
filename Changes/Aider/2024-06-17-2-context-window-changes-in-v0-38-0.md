@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 0b294d2a6ed8ed3e85f4147c4b5e16936f26d0805084aed5f8702a33702e1c26
+machine_hash: ed668c8d1ed7df78c65241c405715641d5d4cb42ada54a48196e70855da0706f
 product: aider
 product_name: Aider
 record:
@@ -42,12 +42,12 @@ record:
   title: 2 Context Window changes in v0.38.0
   type: change
 related_changes:
-- '[[Changes/Cursor/2024-04-01-long-context-chat-beta-this-is-a-new-experimental-feature-that-lets-you-talk-wit|Long
-  Context Chat (Beta)]]'
-- '[[Changes/Cursor/2024-04-12-cursorrules-you-can-write-down-repo-level-rules-for-the-ai-by-creating-a-cursorr|.cursorrules:
-  You can write down repo-level rules for the AI by creating…]]'
 - '[[Changes/Cursor/2024-06-08-adds-context-pills-to-chat-messages-so-you-can-see-what-will-be-was-used-a324a3|Adds
   context pills to chat messages, so you can see what will be/was used]]'
+- "[[Changes/Open WebUI/2024-06-10-rag-implementation-updated-the-rag-retrieval-augmented-generation-implementation|\U0001F4DD
+  RAG Implementation]]"
+- '[[Changes/Ollama/2024-06-15-2-context-window-changes-in-v0-1-45|2 Context Window
+  changes in v0.1.45]]'
 source_release: '[[Releases/Aider/aider-2024-06-17-v0-38-0-github-160759747-1e2df2e4|aider-2024-06-17-v0-38-0-github-160759747-1e2df2e4]]'
 source_type: github_releases
 theme: context-window
@@ -81,8 +81,8 @@ Source: https://github.com/Aider-AI/aider/releases/tag/v0.38.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Context Window
 
-- Earlier: 2024-06-08 · Cursor · [[Changes/Cursor/2024-06-08-adds-context-pills-to-chat-messages-so-you-can-see-what-will-be-was-used-a324a3|Adds context pills to chat messages, so you can see what will be/was used]]
-- Later: 2024-06-24 · Aider · [[Changes/Aider/2024-06-24-improved-error-info-for-token-limit-errors|Improved error info for token limit errors]]
+- Earlier: 2024-06-15 · Ollama · [[Changes/Ollama/2024-06-15-2-context-window-changes-in-v0-1-45|2 Context Window changes in v0.1.45]]
+- Later: 2024-06-18 · Gemini · [[Changes/Gemini/2024-06-18-gemini-advanced-features-available-in-india|Gemini Advanced features available in India]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

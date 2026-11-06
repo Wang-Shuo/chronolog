@@ -20,7 +20,7 @@ IMPACT_WORDS = {
 AMBIGUITY_MARGIN = 25
 GENERIC_HEADING_RE = re.compile(
     r"^(?:#+\s*)?(?:new features?|features?|improvements?|bug fixes?|fixes?|"
-    r"other changes?|breaking changes?|what[’']?s (?:new|changed)|coming soon|changelog|"
+    r"other changes?|all changes|misc(?:ellaneous)?|breaking changes?|what[’']?s (?:new|changed)|coming soon|changelog|"
     r"release notes?|patches?(?: \(\d+\))?(?:↓↑)?|chores?|new|added|changed|removed|deprecated|how it works|"
     r"how to use it|key details|known limitations?|plan differences|"
     r"this build includes|cursor start includes)[:.!]?$",
@@ -1346,6 +1346,7 @@ def line_classification(
 
     Returns None when the skip rules reject the line.
     """
+    text = product_classification_text(text, product)
     classification = classify_theme(text, themes)
     if review_decision:
         return {
@@ -1380,6 +1381,8 @@ def feature_classification(
     product: str | None = None,
 ) -> dict[str, Any]:
     """Theme of a feature section: the heading alone when it matches, else heading + text."""
+    heading = product_classification_text(heading, product)
+    first_text = product_classification_text(first_text, product)
     override = semantic_preclassification_override(heading, themes, product)
     heading_only = classify_theme(heading, themes)
     if override:
@@ -1408,6 +1411,15 @@ def feature_classification(
                 "theme_matches": classification.get("theme_matches", []),
             }
     return classification
+
+
+def product_classification_text(text: str, product: str | None) -> str:
+    # In the consumer app's own changelog, a bare Gemini names the app, not a
+    # model change. Versioned names (Gemini 2.5, Gemini 4 Argon) remain signals.
+    # Evidence and card identities always retain the original source text.
+    if product == "gemini":
+        return re.sub(r"\bGemini\b(?![- ]+\d)", "the app", text, flags=re.I)
+    return text
 
 
 def matched_themes(classification: dict[str, Any]) -> set[str]:
@@ -1481,6 +1493,8 @@ class _ReleaseCards:
             # feature evidence (e.g. google-gemini in every PR URL). Keep the
             # original text for quotes and stable identities.
             if re.match(r"^\**Full Changelog\**\s*:", text, re.I) or text.startswith("<!--"):
+                return None
+            if re.fullmatch(r"Automatically created (?:a )?new release[.!]?", text, re.I):
                 return None
             classified_text = github_change_text(text)
         classification = line_classification(classified_text, self.themes, decision, self.release.get("product"))

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 28de40f8180e47e18bc81c0097d1e50c815340f13a1d76fa1b44243e214d4579
+machine_hash: 84854c4154eac80e9187bd972f8a2eb97d493c7845ca28c85f2c73239deb3330
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -63,12 +63,11 @@ record:
   title: 10 Apps and Integrations changes in rust-v0.81.0
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-01-09-2-apps-and-integrations-changes-in-rust-v0-80-0|2
-  Apps and Integrations changes in rust-v0.80.0]]'
-- '[[Changes/Cline/2026-01-10-2-apps-and-integrations-changes-in-v3-49-0|2 Apps and
-  Integrations changes in v3.49.0]]'
+- '[[Changes/ElevenLabs/2026-01-12-sdk-releases|SDK Releases]]'
 - '[[Changes/Claude Code/2026-01-13-2-apps-and-integrations-changes-in-v2-1-6|2 Apps
   and Integrations changes in v2.1.6]]'
+- '[[Changes/Dify/2026-01-13-13-apps-and-integrations-changes-in-1-11-3|13 Apps and
+  Integrations changes in 1.11.3]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-01-14-rust-v0-81-0-github-276819252-cf63dc40|codex-cli-2026-01-14-rust-v0-81-0-github-276819252-cf63dc40]]'
 source_type: github_releases
 theme: apps-integrations
@@ -126,7 +125,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.81.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-01-13 · Claude Code · [[Changes/Claude Code/2026-01-13-2-apps-and-integrations-changes-in-v2-1-6|2 Apps and Integrations changes in v2.1.6]]
+- Earlier: 2026-01-13 · Dify · [[Changes/Dify/2026-01-13-13-apps-and-integrations-changes-in-1-11-3|13 Apps and Integrations changes in 1.11.3]]
 - Later: 2026-01-14 · Gemini CLI · [[Changes/Gemini CLI/2026-01-14-9-apps-and-integrations-changes-in-v0-24-0|9 Apps and Integrations changes in v0.24.0]]
 <!-- chronolog:end -->
 

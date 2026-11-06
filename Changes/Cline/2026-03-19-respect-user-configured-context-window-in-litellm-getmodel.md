@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 78fd93a3ca099846624c1bba37872bf3fef03b394165d7a4e2b2831402189708
+machine_hash: 4521afa153e0ada21ecb0040c4ff410b90afaea23dd1ad578467f9a732658f0a
 product: cline
 product_name: Cline
 record:
@@ -43,10 +43,10 @@ record:
   title: Respect user-configured context window in LiteLLM getModel()
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-03-14-added-postcompact-hook-that-fires-after-compaction-completes|Added
-  PostCompact hook that fires after compaction completes]]'
 - '[[Changes/Codex CLI/2026-03-16-2-context-window-changes-in-rust-v0-115-0|2 Context
   Window changes in rust-v0.115.0]]'
+- '[[Changes/Dify/2026-03-17-9-context-window-changes-in-1-13-1|9 Context Window changes
+  in 1.13.1]]'
 - '[[Changes/GitHub Copilot CLI/2026-03-17-add-subagentstart-hook-that-fires-when-a-subagent-is-spawned-with-support-for-in|Add
   subagentStart hook that fires when a subagent is spawned, with support…]]'
 source_release: '[[Releases/Cline/cline-2026-03-19-v3-74-0-github-298757168-70068641|cline-2026-03-19-v3-74-0-github-298757168-70068641]]'

@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: e77bc935d8b5bc4e4bcb9674a1dc87ddc3a8743f1dc91b9d8d07bef83fe95787
+machine_hash: 1d1ec1ec648fdbc34326b748b9b768f35c81aca9ef5a5d93200858b140ea2fd3
 product: claude-code
 product_name: Claude Code
 record:
@@ -85,7 +85,7 @@ type: change
 ## Nearby in Developer Workflow
 
 - Earlier: 2026-02-27 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-02-27-type-to-reference-github-issues-pull-requests-and-discussions|Type ♯ to reference GitHub issues, pull requests and discussions]]
-- Later: 2026-03-02 · Codex CLI · [[Changes/Codex CLI/2026-03-02-3-developer-workflow-changes-in-rust-v0-107-0|3 Developer Workflow changes in rust-v0.107.0]]
+- Later: 2026-03-01 · Open WebUI · [[Changes/Open WebUI/2026-03-01-9-developer-workflow-changes-in-v0-8-6|9 Developer Workflow changes in v0.8.6]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

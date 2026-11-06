@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: d98c24f2581ddbe08c2cbe5c238b5a57d4ee1e0638c3da1a8b7c6b7956395769
+machine_hash: f2db536965091891ec0257b025c5cde2e917f1dbc22ae2da2bcde7d288042e82
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -48,10 +48,10 @@ record:
   title: 4 Account and Access changes in rust-v0.118.0
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-03-26-mcp-oauth-now-follows-rfc-9728-protected-resource-metadata-discovery-to-find-the|MCP
-  OAuth now follows RFC 9728 Protected Resource Metadata discovery to find…]]'
 - '[[Changes/Codex CLI/2026-03-26-4-account-and-access-changes-in-rust-v0-117-0|4
   Account and Access changes in rust-v0.117.0]]'
+- '[[Changes/Dify/2026-03-27-2-account-and-access-changes-in-1-13-3|2 Account and
+  Access changes in 1.13.3]]'
 - '[[Changes/GitHub Copilot CLI/2026-03-30-mcp-server-oauth-authentication-works-when-the-cli-runs-in-acp-mode|MCP
   server OAuth authentication works when the CLI runs in ACP mode]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-03-31-rust-v0-118-0-github-303805427-02df59b6|codex-cli-2026-03-31-rust-v0-118-0-github-303805427-02df59b6]]'

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 69dae6f5455237bfb0239bd7fd180576987b30661e1ed4b033ac405e57e0c1cb
+machine_hash: 6f65ab0daf9000fc3da47c0069411f72f9598a420b31f920d8f9b17d383c5378
 product: claude-code
 product_name: Claude Code
 record:
@@ -58,12 +58,10 @@ record:
   title: 6 Safety and Privacy changes in v2.1.246
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-08-20-3-safety-and-privacy-changes-in-v2-1-238|3 Safety
-  and Privacy changes in v2.1.238]]'
-- '[[Changes/Codex CLI/2026-08-20-18-safety-and-privacy-changes-in-rust-v0-149-0|18
-  Safety and Privacy changes in rust-v0.149.0]]'
 - '[[Changes/Claude Code/2026-08-21-fixed-fullscreen-mode-answering-a-permission-prompt-or-pressing-a-button-when-yo|Fixed
   fullscreen mode answering a permission prompt or pressing a button when you…]]'
+- '[[Changes/Replit/2026-08-21-run-black-box-pen-tests|Run black-box pen tests]]'
+- '[[Changes/ElevenLabs/2026-08-24-packages|Packages]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-08-25-v2-1-246-github-376644211-dd9805a0|claude-code-2026-08-25-v2-1-246-github-376644211-dd9805a0]]'
 source_type: github_releases
 theme: safety-privacy
@@ -111,8 +109,8 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.246
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Safety and Privacy
 
-- Earlier: 2026-08-21 · Claude Code · [[Changes/Claude Code/2026-08-21-fixed-fullscreen-mode-answering-a-permission-prompt-or-pressing-a-button-when-yo|Fixed fullscreen mode answering a permission prompt or pressing a button when you…]]
-- Later: 2026-08-25 · Gemini CLI · [[Changes/Gemini CLI/2026-08-25-ssr-agent-issue-fix-26120-clarify-privacy-notice-wording-and-selection-options-b|SSR Agent Issue Fix (26120): Clarify privacy notice wording and selection options]]
+- Earlier: 2026-08-24 · ElevenLabs · [[Changes/ElevenLabs/2026-08-24-packages|Packages]]
+- Later: 2026-08-25 · Dify · [[Changes/Dify/2026-08-25-16-safety-and-privacy-changes-in-1-17-0|16 Safety and Privacy changes in 1.17.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

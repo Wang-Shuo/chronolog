@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 379a2312ddc8e46648dfc697a496aeff9997cbd31522bd8fc9c4040fa4b68fb0
+machine_hash: 9b1eec1a3639bf717da1b23c3ab71286415bcc9ea81896db9d3d19c337eaa049
 product: windsurf
 product_name: Windsurf
 record:
@@ -56,7 +56,7 @@ record:
   title: 'Wave 14: Arena Mode'
   type: change
 related_changes:
-- '[[Changes/Cline/2026-01-30-litellm-fixed-thinking-configuration-not-appearing-for-reasoning-capable-models-cb84ce|_LiteLLM:
+- '[[Changes/Cline/2026-01-30-litellm-fixed-thinking-configuration-not-appearing-for-reasoning-capable-models-cb84ce|LiteLLM:
   Fixed thinking configuration not appearing for reasoning-capable models]]'
 - '[[Changes/GitHub Copilot CLI/2026-01-30-acp-server-supports-changing-models-during-a-session|ACP
   server supports changing models during a session]]'

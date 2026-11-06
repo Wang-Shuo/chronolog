@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 41327bf0577e714b50af6490dc17408d747cc29b61625de6069081a5518beae6
+machine_hash: 42a6180a63826cc1de0d5ca63f0779ac29665dd670bab8d329928c7e9746b36e
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -40,8 +40,8 @@ record:
   title: Normal text respects terminal's default foreground color
   type: change
 related_changes:
-- '[[Changes/Cline/2025-12-12-refactor-terminal-module-by-arafatkatze-in-https-github-com-cline-cline-pull-796|Refactor
-  Terminal Module]]'
+- '[[Changes/Dify/2025-12-12-please-use-the-following-command-instead-for-details-please-read-this-https-gith|
+  Please use the following command instead]]'
 - '[[Changes/Gemini CLI/2025-12-16-5-developer-workflow-changes-in-v0-21-0|5 Developer
   Workflow changes in v0.21.0]]'
 - '[[Changes/Codex CLI/2025-12-18-2-developer-workflow-changes-in-rust-v0-74-0|2 Developer

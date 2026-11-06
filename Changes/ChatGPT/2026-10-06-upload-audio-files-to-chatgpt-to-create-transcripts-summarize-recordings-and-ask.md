@@ -5,20 +5,20 @@ description: 'ChatGPT · 2026-10-06 · Voice and Audio: Upload audio files to Ch
   to create transcripts, summarize recordings, and ask questions about their contents.
   You…'
 diffusion:
-  first_in_tracked: '[[Changes/Aider/2023-08-11-voice-to-code-https-aider-chat-docs-voice-html-support-which-allows-you-to-code|Voice-to-code((source
-    link) support, which allows you…]]'
+  first_in_tracked: '[[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2
+    Voice and Audio changes in 0.3.7]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1152
+  lag_days: 1184
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 1bd36528b29aede292e886e1c1f2cb31f12e1a39f514a0d32451ed0b3332e6c5
+machine_hash: 4f24548ad617b16eee12e4b518b387402cdeeaab3c93e551a5cde14186980122
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -71,10 +71,9 @@ record:
   title: Audio uploads in ChatGPT
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-09-30-holding-space-and-ctrl-x-v-explain-when-voice-mode-is-off-or-still-getting-ready|Holding
-  Space and Ctrl+X V explain when voice mode is off or still getting ready]]'
-- '[[Changes/Codex CLI/2026-10-01-49073-surface-realtime-voice-catalog-failures-in-the-tui-etraut-openai|♯49073
-  Surface realtime voice catalog failures in the TUI @etraut-openai]]'
+- '[[Changes/Lovable/2026-10-01-add-live-voice-conversations-to-your-app-with-gpt-live|Add
+  live voice conversations to your app with GPT Live]]'
+- '[[Changes/ElevenLabs/2026-10-05-packages|Packages]]'
 - '[[Changes/GitHub Copilot CLI/2026-10-05-voice-runtime-install-errors-name-why-the-download-from-nuget-org-failed-not-onl|Voice
   runtime install errors name why the download from nuget.org failed, not only…]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-10-06-audio-uploads-in-chatgpt-e9ed5a9f|chatgpt-2026-10-06-audio-uploads-in-chatgpt-e9ed5a9f]]'
@@ -110,7 +109,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-08-11 · Aider · [[Changes/Aider/2023-08-11-voice-to-code-https-aider-chat-docs-voice-html-support-which-allows-you-to-code|Voice-to-code((source link) support, which allows you…]]
+- Earliest same-theme entry in the tracked set: 2023-07-10 · Dify · [[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2 Voice and Audio changes in 0.3.7]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

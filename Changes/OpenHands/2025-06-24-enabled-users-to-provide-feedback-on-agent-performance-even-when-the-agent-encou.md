@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: 088e87842399f4d9a206f4881d15fd3d1ea15b887b0bf563c2158f9d3234960d
+machine_hash: 2ea7c3ecc1ea2b479082f95314aef46d0e9bc4ffb91bf1bf2b87cbf742b83ed4
 product: openhands
 product_name: OpenHands
 record:
@@ -56,12 +56,11 @@ record:
   title: Enabled users to provide feedback on agent performance even when the agent…
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-06-04-faster-responses-with-parallel-tool-calls|Faster responses
-  with parallel tool calls]]'
-- '[[Changes/Cursor/2025-06-12-3-reliability-and-performance-changes-in-1-1|3 Reliability
-  and Performance changes in 1.1]]'
-- '[[Changes/ChatGPT/2025-06-13-improved-search-capability-and-instruction-following-594de0|Improved
-  search capability and instruction following]]'
+- '[[Changes/Replit/2025-06-13-infrastructure-improvements|Infrastructure improvements]]'
+- '[[Changes/Open WebUI/2025-06-16-4-reliability-and-performance-changes-in-v0-6-15|4
+  Reliability and Performance changes in v0.6.15]]'
+- '[[Changes/Replit/2025-06-20-python-run-performance-improvements|Python run performance
+  improvements]]'
 source_release: '[[Releases/OpenHands/openhands-2025-06-24-0-46-0-github-227487806-26e67ef7|openhands-2025-06-24-0-46-0-github-227487806-26e67ef7]]'
 source_type: github_releases
 theme: reliability-performance
@@ -92,7 +91,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2025-06-13 · ChatGPT · [[Changes/ChatGPT/2025-06-13-improved-search-capability-and-instruction-following-594de0|Improved search capability and instruction following]]
+- Earlier: 2025-06-20 · Replit · [[Changes/Replit/2025-06-20-python-run-performance-improvements|Python run performance improvements]]
 - Later: 2025-06-26 · Cline · [[Changes/Cline/2025-06-26-optimized-cline-to-work-with-the-claude-4-family-of-models-resulting-in-improved|Optimized Cline to work with the Claude 4 family of models, resulting in improved…]]
 <!-- chronolog:end -->
 

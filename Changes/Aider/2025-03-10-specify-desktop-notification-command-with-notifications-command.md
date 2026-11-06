@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 414bbc2215ebf72ff29e774c068186477bcad07a14cd4da1e0e767b8529f138b
+machine_hash: c88444509295485209c9593103893f271c7e748cf405c1371c90bb64a3b8ba87
 product: aider
 product_name: Aider
 record:
@@ -40,11 +40,12 @@ record:
   title: Specify desktop notification command with `--notifications-command`
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2025-02-14-updated-launch-animations-and-composer-design-on-android|Updated
-  launch animations and composer design on Android]]'
-- '[[Changes/ChatGPT/2025-02-21-ios-widget-see-below|iOS widget (see below)]]'
-- '[[Changes/ChatGPT/2025-02-28-long-press-to-select-text-on-ios-and-moved-the-message-quick-actions-to-always-b-a40c3f|Long
-  press to select text on iOS and moved the message quick actions to always…]]'
+- '[[Changes/Gemini/2025-03-03-new-extensions-available-in-all-gemini-countries-and-languages|New
+  extensions available in all Gemini countries and languages]]'
+- '[[Changes/Replit/2025-03-07-mobile-app-webview-improvements|Mobile App Webview
+  improvements]]'
+- '[[Changes/Replit/2025-03-07-first-look-at-the-new-mobile-app|First look at the
+  new mobile app]]'
 source_release: '[[Releases/Aider/aider-2025-03-10-v0-76-0-github-204781393-e828f532|aider-2025-03-10-v0-76-0-github-204781393-e828f532]]'
 source_type: github_releases
 theme: mobile-desktop
@@ -76,7 +77,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2025-02-28 · ChatGPT · [[Changes/ChatGPT/2025-02-28-long-press-to-select-text-on-ios-and-moved-the-message-quick-actions-to-always-b-a40c3f|Long press to select text on iOS and moved the message quick actions to always…]]
+- Earlier: 2025-03-07 · Replit · [[Changes/Replit/2025-03-07-first-look-at-the-new-mobile-app|First look at the new mobile app]]
 - Later: 2025-03-18 · ChatGPT · [[Changes/ChatGPT/2025-03-18-improved-table-copying-functionality-out-of-chatgpt-responses-on-ios-and-macos|Improved table-copying functionality out of ChatGPT responses on iOS and macOS]]
 <!-- chronolog:end -->
 

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 5c84d1b1ce3112499bfdd6a0c7824c03405c252056da23cdedad8c8dce44b667
+machine_hash: 05e78a944bebad0c00318e937e98c055a08a34c604b84410a10c2e5908ad634d
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -42,12 +42,12 @@ record:
   title: 2 Agent Mode changes in v0.42.0
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-05-11-mention-cursor-in-any-teams-channel-to-delegate-a-task-to-a-cloud-agent-or-pull-d30c31|Mention
-  @Cursor in any Teams channel to delegate a task to a cloud agent or pull…]]'
 - '[[Changes/GitHub Copilot CLI/2026-05-11-agentstop-hook-now-fires-correctly-when-the-agent-stops-via-task-complete|agentStop
   hook now fires correctly when the agent stops via task_complete]]'
 - '[[Changes/Claude Code/2026-05-12-2-agent-mode-changes-in-v2-1-140|2 Agent Mode
   changes in v2.1.140]]'
+- '[[Changes/Dify/2026-05-12-chore-web-refresh-agent-skills-by-hyoban-in-https-github-com-langgenius-dify-pul|chore(web):
+  refresh agent skills]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2026-05-12-v0-42-0-github-321461714-faa5f8a3|gemini-cli-2026-05-12-v0-42-0-github-321461714-faa5f8a3]]'
 source_type: github_releases
 theme: agent-mode
@@ -88,7 +88,7 @@ Source: https://github.com/google-gemini/gemini-cli/releases/tag/v0.42.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2026-05-12 · Claude Code · [[Changes/Claude Code/2026-05-12-2-agent-mode-changes-in-v2-1-140|2 Agent Mode changes in v2.1.140]]
+- Earlier: 2026-05-12 · Dify · [[Changes/Dify/2026-05-12-chore-web-refresh-agent-skills-by-hyoban-in-https-github-com-langgenius-dify-pul|chore(web): refresh agent skills]]
 - Later: 2026-05-13 · Claude Code · [[Changes/Claude Code/2026-05-13-4-agent-mode-changes-in-v2-1-141|4 Agent Mode changes in v2.1.141]]
 <!-- chronolog:end -->
 

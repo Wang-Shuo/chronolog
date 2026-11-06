@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: cd73209a1488ac1e97f151aa0d6e52cac541a00aff8d81a5109044221d024b5c
+machine_hash: a60054d21f1c1e36c42560b03add6067519cb99e2fc6ca5e2f7adb1db7deb4b0
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -99,10 +99,9 @@ record:
   title: 26 Apps and Integrations changes in v0.1.18
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2025-08-02-21-apps-and-integrations-changes-in-v0-1-16|21
-  Apps and Integrations changes in v0.1.16]]'
 - '[[Changes/Cline/2025-08-04-refactor-use-mcp-icon-in-the-navbar-and-update-styling-by-sjf-in-https-github-co|refactor:
   Use MCP icon in the navbar and update styling]]'
+- '[[Changes/ElevenLabs/2025-08-04-sdk-releases|SDK Releases]]'
 - '[[Changes/Gemini CLI/2025-08-05-24-apps-and-integrations-changes-in-v0-1-17|24
   Apps and Integrations changes in v0.1.17]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2025-08-06-v0-1-18-github-237823435-7c1f8990|gemini-cli-2025-08-06-v0-1-18-github-237823435-7c1f8990]]'
@@ -199,7 +198,7 @@ Source: https://github.com/google-gemini/gemini-cli/releases/tag/v0.1.18
 ## Nearby in Apps and Integrations
 
 - Earlier: 2025-08-05 · Gemini CLI · [[Changes/Gemini CLI/2025-08-05-24-apps-and-integrations-changes-in-v0-1-17|24 Apps and Integrations changes in v0.1.17]]
-- Later: 2025-08-12 · Codex CLI · [[Changes/Codex CLI/2025-08-12-https-github-com-openai-codex-pull-1975-add-json-schema-sanitization-for-mcp-too|(source link) add JSON schema sanitization for MCP tools…]]
+- Later: 2025-08-09 · Open WebUI · [[Changes/Open WebUI/2025-08-09-7-apps-and-integrations-changes-in-v0-6-19|7 Apps and Integrations changes in v0.6.19]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

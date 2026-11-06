@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: accessibility-localization
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 9ccc9ce37ff749848dfb5beb13dd93235427453433f51fecfda192972bda2baf
+machine_hash: 21a5bdde18d99e1a33d79e7bdc9de536cffccaa9c76493787184a51c5e2ce7c0
 product: aider
 product_name: Aider
 record:
@@ -42,8 +42,12 @@ record:
   title: Added support for tree-sitter language pack
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2023-09-11-chatgpt-now-supports-a-limited-selection-of-languages-in-the-interface|ChatGPT
-  now supports a limited selection of languages in the interface]]'
+- "[[Changes/Open WebUI/2025-01-23-enhanced-internationalization-i18n-refined-and-expanded-translations-for-greater|\U0001F30D
+  Enhanced Internationalization (i18n)]]"
+- '[[Changes/Open WebUI/2025-02-05-2-accessibility-and-localization-changes-in-v0-5-8|2
+  Accessibility and Localization changes in v0.5.8]]'
+- "[[Changes/Open WebUI/2025-02-27-updated-translations-refined-multilingual-support-for-better-localization-and-ac|\U0001F30D
+  Updated Translations]]"
 source_release: '[[Releases/Aider/aider-2025-03-04-v0-75-0-github-203695638-0f36bdc9|aider-2025-03-04-v0-75-0-github-203695638-0f36bdc9]]'
 source_type: github_releases
 theme: accessibility-localization
@@ -73,8 +77,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Accessibility and Localization
 
-- Earlier: 2023-09-11 · ChatGPT · [[Changes/ChatGPT/2023-09-11-chatgpt-now-supports-a-limited-selection-of-languages-in-the-interface|ChatGPT now supports a limited selection of languages in the interface]]
-- Later: 2025-03-10 · Aider · [[Changes/Aider/2025-03-10-switch-to-tree-sitter-language-pack-for-tree-sitter-support|Switch to tree-sitter-language-pack for tree sitter support]]
+- Earlier: 2025-02-27 · Open WebUI · [[Changes/Open WebUI/2025-02-27-updated-translations-refined-multilingual-support-for-better-localization-and-ac|🌍 Updated Translations]]
+- Later: 2025-03-05 · Open WebUI · [[Changes/Open WebUI/2025-03-05-updated-translations-refined-multilingual-support-for-better-localization-and-ac|🌍 Updated Translations]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

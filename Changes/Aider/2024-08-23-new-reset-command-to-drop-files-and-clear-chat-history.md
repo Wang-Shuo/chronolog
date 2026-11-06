@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: c893e3eafc01687b2b2bb77083e165f637dd79ee997ad2c4e4dd9e74a82dc466
+machine_hash: 1f511b47a864d4a902214a76181babdaa8fea90e08cc0df794cf542fb6fbc8eb
 product: aider
 product_name: Aider
 record:
@@ -45,10 +45,10 @@ record:
   title: New `/reset` command to `/drop` files and `/clear` chat history
   type: change
 related_changes:
-- '[[Changes/Cursor/2024-07-23-we-ve-also-added-a-file-picker-arrow-key-navigation-and-a-model-toggle-to-compos|Cursor
-  adds a file picker, arrow key navigation, and a model toggle to Composer]]'
-- '[[Changes/Aider/2024-07-31-switching-to-code-and-ask-mode-no-longer-summarizes-the-chat-history|Switching
-  to code and ask mode no longer summarizes the chat history]]'
+- "[[Changes/Open WebUI/2024-08-14-enhanced-markdown-rendering-significant-improvements-in-rendering-markdown-ensur|\U0001F3A8
+  Enhanced Markdown Rendering]]"
+- '[[Changes/Open WebUI/2024-08-21-3-interface-experience-changes-in-v0-3-14|3 Interface
+  Experience changes in v0.3.14]]'
 - '[[Changes/Cursor/2024-08-22-we-have-a-new-chat-ux-excited-for-you-to-try-it-out-and-share-your-thoughts|We
   have a new chat UX!]]'
 source_release: '[[Releases/Aider/aider-2024-08-23-v0-52-0-github-171697898-902b71ba|aider-2024-08-23-v0-52-0-github-171697898-902b71ba]]'

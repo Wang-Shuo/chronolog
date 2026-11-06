@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 94bb3863a937f5256a0153df60c623d6f6538383a272387e8155839c1fca25f3
+machine_hash: e002e2b41984d25cb980e8111d145b506720ffb49aac8fab4ef1898f7c6d4f24
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -98,7 +98,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.142.2
 ## Nearby in Model Support
 
 - Earlier: 2026-06-25 · Claude Code · [[Changes/Claude Code/2026-06-25-added-claude-code-assistant-response-opentelemetry-log-event-containing-the-mode|Added claude_code.assistant_response OpenTelemetry log event containing…]]
-- Later: 2026-06-26 · ChatGPT · [[Changes/ChatGPT/2026-06-26-as-of-june-26-2026-gpt-4-5-is-no-longer-available-in-chatgpt-including-for-custo|Retiring GPT-4.5]]
+- Later: 2026-06-25 · Dify · [[Changes/Dify/2026-06-25-17-model-support-changes-in-1-15-0|17 Model Support changes in 1.15.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

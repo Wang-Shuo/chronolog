@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 0fccd4b1ab597f12f5f1ad3b3e2a558dd97eb4b5de3347ef60248b0609ec5848
+machine_hash: aa55498a2af70fd42beea2de5efd5e4e8d275cbdc67f1ccb01aab6bc5ed622ec
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -77,10 +77,10 @@ record:
   title: 17 Context Window changes in rust-v0.156.0
   type: change
 related_changes:
-- '[[Changes/Cline/2026-09-17-long-tasks-now-compact-when-they-actually-need-to-rather-than-running-out-of-roo|Long
-  tasks now compact when they actually need to rather than running out of room]]'
-- '[[Changes/Codex CLI/2026-09-17-20-context-window-changes-in-rust-v0-155-0|20 Context
-  Window changes in rust-v0.155.0]]'
+- '[[Changes/Lovable/2026-09-18-type-or-to-add-context-and-skills-where-you-type|Type
+  @ or / to add context and skills where you type]]'
+- '[[Changes/Open WebUI/2026-09-21-3-context-window-changes-in-v0-11-4|3 Context Window
+  changes in v0.11.4]]'
 - '[[Changes/Cline/2026-09-22-2-context-window-changes-in-v4-1-20|2 Context Window
   changes in v4.1.20]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-09-22-rust-v0-156-0-github-394061815-b23dd5f4|codex-cli-2026-09-22-rust-v0-156-0-github-394061815-b23dd5f4]]'

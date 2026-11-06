@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 9645ce2405b13a2abae5060f295a5c952930ea1f13c69fb63de45f68db975fbe
+machine_hash: ea608f2de7de01d63e263568f362e857adb8395aadef3f4185b1892018ca9ca0
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -48,8 +48,7 @@ record:
     tasks…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-26-3-apps-and-integrations-changes-in-v2-1-311|3
-  Apps and Integrations changes in v2.1.311]]'
+- '[[Changes/Lovable/2026-10-26-redesigned-connector-pages|Redesigned connector pages]]'
 - '[[Changes/Claude Code/2026-10-27-2-apps-and-integrations-changes-in-v2-1-312|2
   Apps and Integrations changes in v2.1.312]]'
 - '[[Changes/Codex CLI/2026-10-27-10-apps-and-integrations-changes-in-rust-v0-165-0|10
@@ -85,7 +84,7 @@ type: change
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-10-27 · Codex CLI · [[Changes/Codex CLI/2026-10-27-10-apps-and-integrations-changes-in-rust-v0-165-0|10 Apps and Integrations changes in rust-v0.165.0]]
-- Later: 2026-10-27 · OpenHands · [[Changes/OpenHands/2026-10-27-refactor-extensions-name-dialog-viewport-limits-by-enyst-in-https-github-com-ope|refactor(extensions): name dialog viewport limits]]
+- Later: 2026-10-27 · Lovable · [[Changes/Lovable/2026-10-27-connect-your-app-to-scrive|Connect your app to Scrive]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -19,6 +19,13 @@ def test_project_configs_and_fixture_are_present():
         "chatgpt_changelog",
         "cursor_changelog",
         "windsurf_changelog",
+        "claude_changelog",
+        "gemini_changelog",
+        "deepseek_changelog",
+        "v0_changelog",
+        "lovable_changelog",
+        "elevenlabs_changelog",
+        "replit_changelog",
     }
     assert {"agent-mode", "context-window", "pricing-model"} <= {
         theme["slug"] for theme in themes["themes"]

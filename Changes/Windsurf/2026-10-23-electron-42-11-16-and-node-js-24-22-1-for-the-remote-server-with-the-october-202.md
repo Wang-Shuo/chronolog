@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: f5afa68340a7ecf297a48070828e40df73537ea171d587eed8a9b8a5d302fe52
+machine_hash: 726e14f3f4ab55a7f974b633ae5966ab8e6a2f756230df18f24f3b8efd9c119c
 product: windsurf
 product_name: Windsurf
 record:
@@ -43,12 +43,12 @@ record:
     2026…
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-10-22-3-safety-and-privacy-changes-in-v1-0-103|3
-  Safety and Privacy changes in v1.0.103]]'
 - '[[Changes/Claude Code/2026-10-23-4-safety-and-privacy-changes-in-v2-1-310|4 Safety
   and Privacy changes in v2.1.310]]'
 - '[[Changes/Codex CLI/2026-10-23-15-safety-and-privacy-changes-in-rust-v0-164-0|15
   Safety and Privacy changes in rust-v0.164.0]]'
+- '[[Changes/Dify/2026-10-23-11-safety-and-privacy-changes-in-1-18-0|11 Safety and
+  Privacy changes in 1.18.0]]'
 source_release: '[[Releases/Windsurf/windsurf-2026-10-23-v3-11-212-ce285b20|windsurf-2026-10-23-v3-11-212-ce285b20]]'
 source_type: windsurf_changelog
 theme: safety-privacy
@@ -85,8 +85,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Safety and Privacy
 
-- Earlier: 2026-10-23 · Codex CLI · [[Changes/Codex CLI/2026-10-23-15-safety-and-privacy-changes-in-rust-v0-164-0|15 Safety and Privacy changes in rust-v0.164.0]]
-- Later: 2026-10-26 · Claude Code · [[Changes/Claude Code/2026-10-26-changed-startup-warnings-about-permission-rules-in-settings-files-to-show-once-p|Changed startup warnings about permission rules in settings files to show once per…]]
+- Earlier: 2026-10-23 · Dify · [[Changes/Dify/2026-10-23-11-safety-and-privacy-changes-in-1-18-0|11 Safety and Privacy changes in 1.18.0]]
+- Later: 2026-10-25 · Open WebUI · [[Changes/Open WebUI/2026-10-25-10-safety-and-privacy-changes-in-v0-12-4|10 Safety and Privacy changes in v0.12.4]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -5,20 +5,20 @@ description: 'Claude Code · 2026-04-10 · Enterprise and Administration: Added 
   certificate store trust by default, so enterprise TLS proxies work without extra
   setup…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2024-03-20-admin-improvements-team-admins-can-now-mark-themselves-as-unpaid-users-and-can-s|Admin
-    improvements: Team admins can now mark themselves as unpaid users and can see…]]'
+  first_in_tracked: '[[Changes/Gemini/2023-05-05-access-for-google-workspace-accounts|Access
+    for Google Workspace accounts]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 751
+  lag_days: 1071
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 5de5b7ff4dce5b4877fdb8afbe3243f8bc885baf5322bf6696001a6bc084b4c7
+machine_hash: 7472db51e47499e5d1022fe0ed65ccb83d9ba42f938ee59e2bbf5b1d04baa00b
 product: claude-code
 product_name: Claude Code
 record:
@@ -46,10 +46,10 @@ record:
     work…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-04-04-added-forceremotesettingsrefresh-policy-setting-when-set-the-cli-blocks-startup|Added
-  forceRemoteSettingsRefresh policy setting]]'
 - '[[Changes/Claude Code/2026-04-07-changed-default-effort-level-from-medium-to-high-for-api-key-bedrock-vertex-foun|Changed
   default effort level from medium to high for API-key…]]'
+- '[[Changes/Claude/2026-04-09-role-based-access-controls-for-enterprise-plans|Role-based
+  access controls for Enterprise plans]]'
 - '[[Changes/GitHub Copilot CLI/2026-04-09-show-a-clear-message-to-contact-your-organization-administrator-when-remote-sess|Show
   a clear message to contact your organization administrator when remote sessions…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-04-10-v2-1-101-github-307692858-ffcdf642|claude-code-2026-04-10-v2-1-101-github-307692858-ffcdf642]]'
@@ -94,7 +94,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2024-03-20 · Cursor · [[Changes/Cursor/2024-03-20-admin-improvements-team-admins-can-now-mark-themselves-as-unpaid-users-and-can-s|Admin improvements: Team admins can now mark themselves as unpaid users and can see…]]
+- Earliest same-theme entry in the tracked set: 2023-05-05 · Gemini · [[Changes/Gemini/2023-05-05-access-for-google-workspace-accounts|Access for Google Workspace accounts]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

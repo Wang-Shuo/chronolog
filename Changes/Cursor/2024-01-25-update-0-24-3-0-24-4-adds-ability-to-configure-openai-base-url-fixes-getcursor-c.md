@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 34e8315c315945bbdc3f22ba096232b0e0fde5163536fcfecc15b8d7a4413e2a
+machine_hash: e28902111cf2af2801c5d7ba9170694f22690622752f4018fabd1ca0a7f94a3c
 product: cursor
 product_name: Cursor
 record:
@@ -44,12 +44,12 @@ record:
   title: 'UPDATE (0.24.3-0.24.4): Adds ability to configure OpenAI base URL, fixes…'
   type: change
 related_changes:
-- '[[Changes/Cursor/2023-12-16-copilot-we-ve-continued-to-improve-the-copilot-ghost-text-experience-surprisingl|Copilot++:
-  We''ve continued to improve the Copilot++ ghost text experience]]'
-- '[[Changes/ChatGPT/2024-01-10-the-store-features-a-diverse-range-of-gpts-developed-by-our-partners-and-the-com-71db32|Discover
-  what’s trending in the GPT Store]]'
+- '[[Changes/Dify/2024-01-11-2-apps-and-integrations-changes-in-0-4-5|2 Apps and Integrations
+  changes in 0.4.5]]'
 - '[[Changes/Cursor/2024-01-15-supports-newer-version-of-python-extension|Supports
   newer version of python extension]]'
+- '[[Changes/Dify/2024-01-24-5-apps-and-integrations-changes-in-0-5-0|5 Apps and Integrations
+  changes in 0.5.0]]'
 source_release: '[[Releases/Cursor/cursor-2024-01-25-0-24-x-https-cursor-com-changelog-0-24-x-c3b46238|cursor-2024-01-25-0-24-x-https-cursor-com-changelog-0-24-x-c3b46238]]'
 source_type: cursor_changelog
 theme: apps-integrations
@@ -79,8 +79,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2024-01-15 · Cursor · [[Changes/Cursor/2024-01-15-supports-newer-version-of-python-extension|Supports newer version of python extension]]
-- Later: 2024-05-16 · ChatGPT · [[Changes/ChatGPT/2024-05-16-upload-the-latest-file-versions-directly-from-google-drive-microsoft-onedrive-pe-70f6a3|Upload the latest file versions directly from Google Drive, Microsoft OneDrive…]]
+- Earlier: 2024-01-24 · Dify · [[Changes/Dify/2024-01-24-5-apps-and-integrations-changes-in-0-5-0|5 Apps and Integrations changes in 0.5.0]]
+- Later: 2024-02-01 · Dify · [[Changes/Dify/2024-02-01-2-apps-and-integrations-changes-in-0-5-3|2 Apps and Integrations changes in 0.5.3]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

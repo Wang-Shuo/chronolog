@@ -4,20 +4,20 @@ date: '2026-03-14'
 description: 'Claude Code · 2026-03-14 · Enterprise and Administration: Added session
   quality survey — enterprise admins can configure the sample rate via the…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2024-03-20-admin-improvements-team-admins-can-now-mark-themselves-as-unpaid-users-and-can-s|Admin
-    improvements: Team admins can now mark themselves as unpaid users and can see…]]'
+  first_in_tracked: '[[Changes/Gemini/2023-05-05-access-for-google-workspace-accounts|Access
+    for Google Workspace accounts]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 724
+  lag_days: 1044
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 77257660d8dd897599778bdd088b796699e5e2ca7ec16d5344bf47948912f99f
+machine_hash: dfb97ad1529a0997e5de324a7f74bbb05f284e5ae333efa135a836edf9be0c2e
 product: claude-code
 product_name: Claude Code
 record:
@@ -42,12 +42,11 @@ record:
   title: Added session quality survey
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-03-03-clearer-more-consistent-team-and-enterprise-policy-and-access-controls|Clearer,
-  more consistent team and enterprise policy and access controls]]'
 - '[[Changes/Claude Code/2026-03-05-improved-macos-startup-for-claude-ai-enterprise-team-users-by-skipping-an-unnece|Improved
   macOS startup for Claude.ai enterprise/team users by skipping…]]'
 - '[[Changes/Codex CLI/2026-03-05-13388-config-enforce-enterprise-feature-requirements-bolinfest|♯13388
   config: enforce enterprise feature requirements @bolinfest]]'
+- '[[Changes/Replit/2026-03-06-teams-and-enterprise|Teams and Enterprise]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-03-14-v2-1-76-github-296929324-94cd2ffc|claude-code-2026-03-14-v2-1-76-github-296929324-94cd2ffc]]'
 source_type: github_releases
 theme: enterprise-admin
@@ -84,14 +83,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Enterprise and Administration
 
-- Earlier: 2026-03-05 · Codex CLI · [[Changes/Codex CLI/2026-03-05-13388-config-enforce-enterprise-feature-requirements-bolinfest|♯13388 config: enforce enterprise feature requirements @bolinfest]]
-- Later: 2026-03-17 · ChatGPT · [[Changes/ChatGPT/2026-03-17-we-ve-simplified-the-model-picker-to-make-it-easier-to-choose-the-right-level-of-a3fc77|We’ve simplified the model picker to make it easier to choose the right level of reasoning]]
+- Earlier: 2026-03-06 · Replit · [[Changes/Replit/2026-03-06-teams-and-enterprise|Teams and Enterprise]]
+- Later: 2026-03-16 · Lovable · [[Changes/Lovable/2026-03-16-audit-logs|Audit logs]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2024-03-20 · Cursor · [[Changes/Cursor/2024-03-20-admin-improvements-team-admins-can-now-mark-themselves-as-unpaid-users-and-can-s|Admin improvements: Team admins can now mark themselves as unpaid users and can see…]]
+- Earliest same-theme entry in the tracked set: 2023-05-05 · Gemini · [[Changes/Gemini/2023-05-05-access-for-google-workspace-accounts|Access for Google Workspace accounts]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

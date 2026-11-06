@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 6e5081967879999a9bca31ef63ceaae658089a84484b7b028ca590a60d86b10c
+machine_hash: e6c63d60f9785238ef61e7e32b5a12d9801327649720c283b9025a7225609540
 product: cursor
 product_name: Cursor
 record:
@@ -47,12 +47,12 @@ record:
   title: 'Interpreter Mode: We''ve made some big improvements to the backend powering…'
   type: change
 related_changes:
-- '[[Changes/Cursor/2023-07-06-welcome-to-the-first-nightly-release-it-comes-with-agents-which-we-aren-t-releas|Agents,
-  new docs]]'
-- '[[Changes/Cursor/2023-07-10-this-nightly-build-comes-with-experimental-interface-agent-support|This
-  nightly build comes with experimental interface agent support!]]'
-- '[[Changes/Cursor/2023-07-10-the-goal-you-write-an-interface-specification-and-an-agent-writes-both-the-tests|The
-  goal: you write an interface specification, and an agent writes both the tests…]]'
+- '[[Changes/Dify/2024-01-02-expanded-inference-support-xorbit-inference-now-includes-chat-mode-models-and-th|Expanded
+  Inference Support: Xorbit Inference now includes chat mode models…]]'
+- '[[Changes/Dify/2024-01-24-4-agent-mode-changes-in-0-5-0|4 Agent Mode changes in
+  0.5.0]]'
+- '[[Changes/Dify/2024-01-25-feat-create-app-show-agent-type-tip-by-iamjoel-in-https-github-com-langgenius-di|feat:
+  create app show agent type tip]]'
 source_release: '[[Releases/Cursor/cursor-2024-02-15-0-27-x-https-cursor-com-changelog-0-27-x-29975100|cursor-2024-02-15-0-27-x-https-cursor-com-changelog-0-27-x-29975100]]'
 source_type: cursor_changelog
 theme: agent-mode
@@ -81,8 +81,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2023-07-10 · Cursor · [[Changes/Cursor/2023-07-10-the-goal-you-write-an-interface-specification-and-an-agent-writes-both-the-tests|The goal: you write an interface specification, and an agent writes both the tests…]]
-- Later: 2024-06-29 · OpenHands · [[Changes/OpenHands/2024-06-29-3-agent-mode-changes-in-0-7-0|3 Agent Mode changes in 0.7.0]]
+- Earlier: 2024-01-25 · Dify · [[Changes/Dify/2024-01-25-feat-create-app-show-agent-type-tip-by-iamjoel-in-https-github-com-langgenius-di|feat: create app show agent type tip]]
+- Later: 2024-02-28 · Dify · [[Changes/Dify/2024-02-28-2-agent-mode-changes-in-0-5-7|2 Agent Mode changes in 0.5.7]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

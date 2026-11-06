@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: e00fb554d5ee7b4c6f8abae1251909a08407cb8ba12b7c726e60d37ace783c6b
+machine_hash: 036bc4871205a56265b96049f906141a358cda7f6b0d22cb20548890cfea68f0
 product: aider
 product_name: Aider
 record:
@@ -44,9 +44,10 @@ record:
   title: Added support for `gpt-3.5-turbo` and `gpt-4-32k`
   type: change
 related_changes:
-- '[[Changes/Cursor/2023-05-04-gpt-4-support-now-available-for-project-generation|GPT-4
-  support now available for project generation]]'
-- '[[Changes/Cursor/2023-05-20-upgrades-to-gpt-4-e59675|Upgrades to GPT-4]]'
+- '[[Changes/Dify/2023-05-25-feat-gpt4-max-token-set-to-8k-by-iamjoel-in-https-github-com-langgenius-dify-pul|feat:
+  gpt4 max token set to 8k]]'
+- '[[Changes/Dify/2023-05-25-feat-generation-support-gpt4-by-iamjoel-in-https-github-com-langgenius-dify-pull|feat:
+  generation support gpt4]]'
 - '[[Changes/Cursor/2023-06-01-check-out-the-more-tab-to-have-gpt-3-5-or-gpt-4-review-your-code-periodically-fo|AI
   Linting]]'
 source_release: '[[Releases/Aider/aider-2023-06-07-v0-5-0-github-107758471-29563196|aider-2023-06-07-v0-5-0-github-107758471-29563196]]'

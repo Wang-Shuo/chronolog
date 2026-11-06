@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: projects-workspaces
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 1499ce5178c5d0a008a2c19efc43d96836faa5fc58692140907d69ab16a1e7c1
+machine_hash: 93879165e8eb367c6cbe6e325f326e927341c741d6ca61237625f97c5b0538e7
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -47,12 +47,11 @@ record:
   title: A failed session-history load no longer leaves the timeline permanently empty
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-07-16-unified-recents-chat-and-work-conversations-now-appear-together-in-recents-where|Unified
-  Recents: Chat and Work conversations now appear together in Recents, where…]]'
-- '[[Changes/ChatGPT/2026-07-16-projects-in-the-desktop-app-your-existing-chatgpt-projects-now-appear-in-the-app|Projects
-  in the desktop app: Your existing ChatGPT Projects now appear in the app]]'
+- '[[Changes/Ollama/2026-07-16-the-interactive-agent-now-receives-the-current-working-directory-for-better-proj|The
+  interactive agent now receives the current working directory for better project…]]'
 - '[[Changes/Codex CLI/2026-07-21-33201-branch-conversations-when-editing-earlier-tui-prompts-copyberry|♯33201
   Branch conversations when editing earlier TUI prompts @copyberry]]'
+- '[[Changes/Replit/2026-07-31-a-rebuilt-usage-page|A rebuilt usage page]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-08-10-v1-0-79-github-368051224-d4fdfd9a|github-copilot-cli-2026-08-10-v1-0-79-github-368051224-d4fdfd9a]]'
 source_type: github_releases
 theme: projects-workspaces
@@ -92,7 +91,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Projects and Workspaces
 
-- Earlier: 2026-07-21 · Codex CLI · [[Changes/Codex CLI/2026-07-21-33201-branch-conversations-when-editing-earlier-tui-prompts-copyberry|♯33201 Branch conversations when editing earlier TUI prompts @copyberry]]
+- Earlier: 2026-07-31 · Replit · [[Changes/Replit/2026-07-31-a-rebuilt-usage-page|A rebuilt usage page]]
 - Later: 2026-09-03 · Codex CLI · [[Changes/Codex CLI/2026-09-03-42140-https-github-com-openai-codex-pull-42140-add-redo-support-to-vim-composer|♯42140((source link) Add redo support to Vim…]]
 <!-- chronolog:end -->
 

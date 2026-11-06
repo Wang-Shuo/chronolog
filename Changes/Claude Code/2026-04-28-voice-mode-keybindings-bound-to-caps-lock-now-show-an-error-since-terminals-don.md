@@ -5,20 +5,20 @@ description: 'Claude Code · 2026-04-28 · Voice and Audio: Voice mode: keybindi
   bound to Caps Lock now show an error since terminals don''t deliver Caps Lock as
   a key event'
 diffusion:
-  first_in_tracked: '[[Changes/Aider/2023-08-11-voice-to-code-https-aider-chat-docs-voice-html-support-which-allows-you-to-code|Voice-to-code((source
-    link) support, which allows you…]]'
+  first_in_tracked: '[[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2
+    Voice and Audio changes in 0.3.7]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 991
+  lag_days: 1023
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: f4bf5a1d3756a47207954b59d28169d95260d93588893db0557d8427abd4d189
+machine_hash: 26050bc445ff84399490ce8b6d883f92c68d9865386e300af25034d405cf323e
 product: claude-code
 product_name: Claude Code
 record:
@@ -44,9 +44,8 @@ record:
     don''t…'
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-04-13-prompt-buttons-now-stay-in-place-while-voice-input-is-processing|Prompt
-  buttons now stay in place while voice input is processing]]'
-- '[[Changes/Cursor/2026-04-13-upgraded-voice-input-26be2e|Upgraded voice input]]'
+- '[[Changes/ElevenLabs/2026-04-27-speech-to-text|Speech to Text]]'
+- '[[Changes/ElevenLabs/2026-04-27-javascript-sdk|JavaScript SDK]]'
 - '[[Changes/Claude Code/2026-04-28-vscode-voice-dictation-now-respects-the-accessibility-voice-speechlanguage-setti|VSCode
   Voice dictation now respects the accessibility.voice.speechLanguage…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-04-28-v2-1-122-github-314740479-0cc42196|claude-code-2026-04-28-v2-1-122-github-314740479-0cc42196]]'
@@ -82,13 +81,13 @@ type: change
 ## Nearby in Voice and Audio
 
 - Earlier: 2026-04-28 · Claude Code · [[Changes/Claude Code/2026-04-28-vscode-voice-dictation-now-respects-the-accessibility-voice-speechlanguage-setti|VSCode Voice dictation now respects the accessibility.voice.speechLanguage…]]
-- Later: 2026-05-05 · Gemini CLI · [[Changes/Gemini CLI/2026-05-05-feat-voice-implement-real-time-voice-mode-with-cloud-and-local-backends-by-abhij|feat(voice): implement real-time voice mode with cloud and local backends]]
+- Later: 2026-05-04 · ElevenLabs · [[Changes/ElevenLabs/2026-05-04-packages|Packages]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-08-11 · Aider · [[Changes/Aider/2023-08-11-voice-to-code-https-aider-chat-docs-voice-html-support-which-allows-you-to-code|Voice-to-code((source link) support, which allows you…]]
+- Earliest same-theme entry in the tracked set: 2023-07-10 · Dify · [[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2 Voice and Audio changes in 0.3.7]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

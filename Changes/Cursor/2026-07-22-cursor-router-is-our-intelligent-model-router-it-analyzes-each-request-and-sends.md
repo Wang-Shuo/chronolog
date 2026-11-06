@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 9aa2046c9a766c149e48f474cf2690b7cd0f42c7c200754169ba16abe69f20ab
+machine_hash: 85eeb689c8230fa50d3e1fbab9a17ffdcca86a8046905b31a4e57223bf9d98f1
 product: cursor
 product_name: Cursor
 record:
@@ -46,10 +46,10 @@ record:
   title: Cursor Router is our intelligent model router
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-07-20-preserve-pasted-prompt-content-when-changing-models-through-ctrl-x-model|Preserve
-  pasted prompt content when changing models through Ctrl+X /model]]'
-- '[[Changes/Codex CLI/2026-07-21-22-model-support-changes-in-rust-v0-145-0|22 Model
-  Support changes in rust-v0.145.0]]'
+- '[[Changes/Gemini/2026-07-21-3-6-flash-an-upgraded-model-for-your-daily-life|3.6
+  Flash: An upgraded model for your daily life]]'
+- '[[Changes/Lovable/2026-07-21-gemini-3-6-flash-for-your-app-s-ai-features|Gemini
+  3.6 Flash for your app''s AI features]]'
 - '[[Changes/Claude Code/2026-07-22-added-an-announcement-when-fast-mode-changes-as-a-result-of-switching-models-via|Added
   an announcement when fast mode changes as a result of switching models…]]'
 source_release: '[[Releases/Cursor/cursor-2026-07-22-cursor-router-https-cursor-com-changelog-router-af8c2ac4|cursor-2026-07-22-cursor-router-https-cursor-com-changelog-router-af8c2ac4]]'
@@ -87,7 +87,7 @@ type: change
 ## Nearby in Model Support
 
 - Earlier: 2026-07-22 · Claude Code · [[Changes/Claude Code/2026-07-22-added-an-announcement-when-fast-mode-changes-as-a-result-of-switching-models-via|Added an announcement when fast mode changes as a result of switching models…]]
-- Later: 2026-07-23 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-07-23-2-model-support-changes-in-v1-0-74|2 Model Support changes in v1.0.74]]
+- Later: 2026-07-22 · Lovable · [[Changes/Lovable/2026-07-22-gemini-3-6-flash-is-now-the-default-model-for-your-app-s-ai|Gemini 3.6 Flash is now the default model for your app's AI]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

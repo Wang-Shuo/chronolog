@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: pricing
-machine_hash: d71e14155e1e0193a994be9b3b9259395af0bd3eb908272f7ba381f225bee9c3
+machine_hash: d908a2f7406b2085c7c9706611f748dac140c3b26e0959b752fe37e1b37406ef
 product: cursor
 product_name: Cursor
 record:
@@ -86,7 +86,7 @@ type: change
 ## Nearby in Pricing Model
 
 - Earlier: 2023-03-27 · Cursor · [[Changes/Cursor/2023-03-27-adds-an-optional-paid-plan-if-you-d-like-to-avoid-the-server-capacity-rate-limit|Adds an optional paid plan if you'd like to avoid the server capacity rate limits]]
-- Later: 2023-06-25 · Aider · [[Changes/Aider/2023-06-25-enables-display-of-cost-info-based-on-openai-advertised-pricing|Enables display of cost info based on OpenAI advertised pricing]]
+- Later: 2023-06-14 · Dify · [[Changes/Dify/2023-06-14-feat-add-gpt-3-5-turbo-16k-support-and-update-openai-gpt-3-5-turbo-embedding-ada|feat: add gpt-3.5-turbo-16k support and update openai gpt-3.5-turbo & Embedding Ada…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

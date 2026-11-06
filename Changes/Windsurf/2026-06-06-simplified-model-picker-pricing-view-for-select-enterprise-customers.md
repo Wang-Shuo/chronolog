@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: pricing
-machine_hash: ee27eea855c97a98713ef60c59b227ab4b8098f6bf62235819ba3ef8a03284ba
+machine_hash: 173522eb7a7f0428c04b42d646732c21cefccebb30646cb57f04c02311eab882
 product: windsurf
 product_name: Windsurf
 record:
@@ -58,12 +58,11 @@ record:
   title: Simplified model picker pricing view for select enterprise customers
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-05-28-3-pricing-model-changes-in-v1-0-55|3 Pricing
-  Model changes in v1.0.55]]'
 - '[[Changes/Claude Code/2026-06-04-the-subscription-switch-suggestion-now-shows-in-the-startup-announcement-slot-in|The
   subscription-switch suggestion now shows in the startup announcement slot…]]'
 - '[[Changes/GitHub Copilot CLI/2026-06-05-add-billing-help-topic-with-an-overview-of-ai-credit-usage-features|Add
   billing help topic with an overview of AI credit usage features]]'
+- '[[Changes/Replit/2026-06-05-billing|Billing]]'
 scope: Enterprise
 source_release: '[[Releases/Windsurf/windsurf-2026-06-06-v3-0-28-9d5b371b|windsurf-2026-06-06-v3-0-28-9d5b371b]]'
 source_type: windsurf_changelog
@@ -95,7 +94,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Pricing Model
 
-- Earlier: 2026-06-05 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-06-05-add-billing-help-topic-with-an-overview-of-ai-credit-usage-features|Add billing help topic with an overview of AI credit usage features]]
+- Earlier: 2026-06-05 · Replit · [[Changes/Replit/2026-06-05-billing|Billing]]
 - Later: 2026-06-18 · Codex CLI · [[Changes/Codex CLI/2026-06-18-28143-feat-app-server-expose-rate-limit-reset-credits-jayp-oai|♯28143 feat(app-server): expose rate-limit reset credits @jayp-oai]]
 <!-- chronolog:end -->
 

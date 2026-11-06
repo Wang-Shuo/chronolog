@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 61d619ce91db7e5c0057c265410232128a30b42ae8c1e65b5fcd4374af8f62e7
+machine_hash: 726069ae96807d08e6c6ce23846662f47da31a0507470e6c310d0c64073a349f
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -59,12 +59,12 @@ record:
   title: 8 Interface Experience changes in rust-v0.105.0
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2026-02-18-ui-update-subdue-footer-colors-and-animate-progress-indicator-by-keithguerin-in|ui:
-  update & subdue footer colors and animate progress indicator]]'
-- '[[Changes/GitHub Copilot CLI/2026-02-19-6-interface-experience-changes-in-v0-0-412|6
-  Interface Experience changes in v0.0.412]]'
 - '[[Changes/GitHub Copilot CLI/2026-02-20-add-configurable-status-line-support-to-display-dynamic-session-information-via|Add
   configurable status line support to display dynamic session information…]]'
+- '[[Changes/Lovable/2026-02-23-drag-and-drop-reordering-of-pinned-tools-in-the-project-navigation-bar-has-been|Drag
+  and drop reordering of pinned tools in the project navigation bar has been…]]'
+- '[[Changes/Open WebUI/2026-02-23-8-interface-experience-changes-in-v0-8-4|8 Interface
+  Experience changes in v0.8.4]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-02-25-rust-v0-105-0-github-290476287-0c72d1ed|codex-cli-2026-02-25-rust-v0-105-0-github-290476287-0c72d1ed]]'
 source_type: github_releases
 theme: interface-experience
@@ -123,7 +123,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.105.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-02-20 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-02-20-add-configurable-status-line-support-to-display-dynamic-session-information-via|Add configurable status line support to display dynamic session information…]]
+- Earlier: 2026-02-23 · Open WebUI · [[Changes/Open WebUI/2026-02-23-8-interface-experience-changes-in-v0-8-4|8 Interface Experience changes in v0.8.4]]
 - Later: 2026-02-25 · Gemini CLI · [[Changes/Gemini CLI/2026-02-25-perf-ui-optimize-table-rendering-by-memoizing-styled-characters-by-devr0306-in-h|perf(ui): optimize table rendering by memoizing styled characters]]
 <!-- chronolog:end -->
 

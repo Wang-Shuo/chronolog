@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 00e5349f001676c9d29853d15e7c04f6143b436a77b2a96341142de100cd8df9
+machine_hash: 268952be0af5eb7df8cc0415ea564e68b58cefc02dddb0c80304351fb5d7081e
 product: claude-code
 product_name: Claude Code
 record:
@@ -44,12 +44,12 @@ record:
   title: 2 Apps and Integrations changes in v2.1.2
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-01-08-added-mcp-enable-mcp-disable-commands-to-manage-mcp-servers|Added
-  /mcp enable, /mcp disable commands to manage MCP servers]]'
 - '[[Changes/Cursor/2026-01-08-this-release-introduces-new-cli-controls-for-models-mcp-management-rules-and-com|Cursor
   introduces new CLI controls for models, MCP management, rules and commands…]]'
 - '[[Changes/Cursor/2026-01-08-mcp-server-names-with-spaces-are-now-supported-in-all-mcp-commands|MCP
   server names with spaces are now supported in all /mcp commands]]'
+- '[[Changes/v0/2026-01-08-improved-the-error-message-when-an-enterprise-user-adds-an-integration-they-don|Improved
+  the error message when an Enterprise user adds an integration they don''t…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-01-09-v2-1-2-github-275344737-27089666|claude-code-2026-01-09-v2-1-2-github-275344737-27089666]]'
 source_type: github_releases
 theme: apps-integrations
@@ -87,7 +87,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.2
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-01-08 · Cursor · [[Changes/Cursor/2026-01-08-mcp-server-names-with-spaces-are-now-supported-in-all-mcp-commands|MCP server names with spaces are now supported in all /mcp commands]]
+- Earlier: 2026-01-08 · v0 · [[Changes/v0/2026-01-08-improved-the-error-message-when-an-enterprise-user-adds-an-integration-they-don|Improved the error message when an Enterprise user adds an integration they don't…]]
 - Later: 2026-01-09 · Codex CLI · [[Changes/Codex CLI/2026-01-09-2-apps-and-integrations-changes-in-rust-v0-80-0|2 Apps and Integrations changes in rust-v0.80.0]]
 <!-- chronolog:end -->
 

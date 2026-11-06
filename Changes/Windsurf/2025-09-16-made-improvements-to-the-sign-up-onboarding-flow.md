@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 5ca4a0fb5cd27a6a2806a474935cd7cf94c355e5cbf385aba28411f3597a7552
+machine_hash: f7fb7264532f171f67e314233e289808c9de6d7f05305e30a4778eff89db1942
 product: windsurf
 product_name: Windsurf
 record:
@@ -77,7 +77,7 @@ type: change
 ## Nearby in Interface Experience
 
 - Earlier: 2025-09-16 · ChatGPT · [[Changes/ChatGPT/2025-09-16-formatting-answers-are-better-formatted-for-quick-understanding-without-losing-d|Formatting: Answers are better formatted for quick understanding without losing…]]
-- Later: 2025-09-25 · Cline · [[Changes/Cline/2025-09-25-2-interface-experience-changes-in-v3-31-0|2 Interface Experience changes in v3.31.0]]
+- Later: 2025-09-17 · Open WebUI · [[Changes/Open WebUI/2025-09-17-5-interface-experience-changes-in-v0-6-29|5 Interface Experience changes in v0.6.29]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: a2d76ca37888587893be83bea2eff3a089cfc109ef35c80a4b6faafa195c52a9
+machine_hash: 40d2e5e372daf2c3fb7b7092d79fd576edb51e7c6ae7d3057829a8daab5dad52
 product: claude-code
 product_name: Claude Code
 record:
@@ -100,7 +100,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.296
 ## Nearby in Agent Mode
 
 - Earlier: 2026-10-08 · Codex CLI · [[Changes/Codex CLI/2026-10-08-14-agent-mode-changes-in-rust-v0-162-0|14 Agent Mode changes in rust-v0.162.0]]
-- Later: 2026-10-12 · OpenHands · [[Changes/OpenHands/2026-10-12-4-agent-mode-changes-in-v1-27-0|4 Agent Mode changes in v1.27.0]]
+- Later: 2026-10-10 · Open WebUI · [[Changes/Open WebUI/2026-10-10-7-agent-mode-changes-in-v0-12-0|7 Agent Mode changes in v0.12.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

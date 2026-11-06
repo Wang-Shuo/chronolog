@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 1f2dc95d57f05de03fde90092ca8d6b162e26c41bf10a1804b625966d783cae8
+machine_hash: cd9837b23a6544324d5468c1dc6fd2d56f72a58a16a8c6df4c7aa34be3884ead
 product: claude-code
 product_name: Claude Code
 record:
@@ -46,12 +46,12 @@ record:
   title: 2 Model Support changes in v2.1.314
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-10-27-managed-model-fusion-now-starts-sessions-on-auto-and-applies-fusiontier-settings|Managed
-  model "fusion" now starts sessions on Auto and applies fusionTier settings]]'
 - '[[Changes/OpenHands/2026-10-27-refactor-settings-use-existing-model-profile-theme-aliases-by-enyst-in-https-git|refactor(settings):
   use existing model-profile theme aliases]]'
 - '[[Changes/Codex CLI/2026-10-29-10-model-support-changes-in-rust-v0-166-0|10 Model
   Support changes in rust-v0.166.0]]'
+- '[[Changes/Open WebUI/2026-10-29-7-model-support-changes-in-v0-12-5|7 Model Support
+  changes in v0.12.5]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-10-30-v2-1-314-github-428518421-b7ac83d7|claude-code-2026-10-30-v2-1-314-github-428518421-b7ac83d7]]'
 source_type: github_releases
 theme: model-support
@@ -93,8 +93,8 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.314
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-10-29 · Codex CLI · [[Changes/Codex CLI/2026-10-29-10-model-support-changes-in-rust-v0-166-0|10 Model Support changes in rust-v0.166.0]]
-- Later: 2026-10-31 · Claude Code · [[Changes/Claude Code/2026-10-31-deprecated-fast-mode-for-opus-4-8-as-of-october-30-2026-it-will-be-removed-on-no|Deprecated fast mode for Opus 4.8 as of October 30, 2026]]
+- Earlier: 2026-10-29 · Open WebUI · [[Changes/Open WebUI/2026-10-29-7-model-support-changes-in-v0-12-5|7 Model Support changes in v0.12.5]]
+- Later: 2026-10-30 · Replit · [[Changes/Replit/2026-10-30-gpt-6-1-terra-in-the-model-selector|GPT-6.1 Terra in the model selector]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

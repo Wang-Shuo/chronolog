@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 6dfcf6c257b5283d49db7065c92bc43af4f08205d3ba35375368d95e7c7486ae
+machine_hash: 73248e76eb9732986cfbc1275a5e51349c82d0204b31d7ef7375604d67dfb616
 product: openhands
 product_name: OpenHands
 record:
@@ -40,10 +40,10 @@ record:
   title: Allow easier copy paste into the terminal
   type: change
 related_changes:
-- '[[Changes/OpenHands/2024-08-01-4-developer-workflow-changes-in-0-8-3|4 Developer
-  Workflow changes in 0.8.3]]'
-- '[[Changes/Aider/2024-08-10-5-developer-workflow-changes-in-v0-49-0|5 Developer
-  Workflow changes in v0.49.0]]'
+- '[[Changes/Dify/2024-08-14-stop-the-service-command-please-execute-in-the-docker-directory|Stop
+  the service，Command, please execute in the docker directory]]'
+- '[[Changes/Dify/2024-08-19-stop-the-service-command-please-execute-in-the-docker-directory|Stop
+  the service，Command, please execute in the docker directory]]'
 - '[[Changes/Aider/2024-08-23-3-developer-workflow-changes-in-v0-52-0|3 Developer
   Workflow changes in v0.52.0]]'
 source_release: '[[Releases/OpenHands/openhands-2024-08-23-0-9-0-github-171741467-33b5726c|openhands-2024-08-23-0-9-0-github-171741467-33b5726c]]'
@@ -79,7 +79,7 @@ type: change
 ## Nearby in Developer Workflow
 
 - Earlier: 2024-08-23 · Aider · [[Changes/Aider/2024-08-23-3-developer-workflow-changes-in-v0-52-0|3 Developer Workflow changes in v0.52.0]]
-- Later: 2024-08-27 · Aider · [[Changes/Aider/2024-08-27-you-can-now-bulk-accept-reject-a-series-of-add-url-and-run-shell-confirmations|Bulk accept/reject a series of add url and run shell confirmations]]
+- Later: 2024-08-26 · Dify · [[Changes/Dify/2024-08-26-stop-the-service-command-please-execute-in-the-docker-directory|Stop the service，Command, please execute in the docker directory]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

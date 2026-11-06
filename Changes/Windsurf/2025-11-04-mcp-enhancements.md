@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 278730109c57ff7c1139b0c1e298c2774c922bd4faf38646fa3be72bc6e0c605
+machine_hash: c583b63c7a140bf287f05e5ef736912ddca158578b03e7c9afa3f92385d20538
 product: windsurf
 product_name: Windsurf
 record:
@@ -86,7 +86,7 @@ type: change
 ## Nearby in Apps and Integrations
 
 - Earlier: 2025-11-04 · Gemini CLI · [[Changes/Gemini CLI/2025-11-04-2-apps-and-integrations-changes-in-v0-12-0|2 Apps and Integrations changes in v0.12.0]]
-- Later: 2025-11-06 · Cline · [[Changes/Cline/2025-11-06-8-apps-and-integrations-changes-in-v3-36-0|8 Apps and Integrations changes in v3.36.0]]
+- Later: 2025-11-05 · ElevenLabs · [[Changes/ElevenLabs/2025-11-05-twilio-integration|Twilio Integration]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

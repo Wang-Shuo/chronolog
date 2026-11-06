@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: fix
-machine_hash: 3e7e0120771b5b64d55fc0e57db1b7ec3dba373713996e23dc03f789fd4e009d
+machine_hash: 46527e61aee461b76130fddba75ae063c57993171102f82b0f73ba8313f2f5a5
 product: openhands
 product_name: OpenHands
 record:
@@ -43,12 +43,11 @@ record:
   title: 'fix: consume consent-aware website PostHog handoff'
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-10-05-4-safety-and-privacy-changes-in-v1-0-92|4
-  Safety and Privacy changes in v1.0.92]]'
 - '[[Changes/Claude Code/2026-10-06-6-safety-and-privacy-changes-in-v2-1-292|6 Safety
   and Privacy changes in v2.1.292]]'
 - '[[Changes/Claude Code/2026-10-06-fixed-a-regression-in-2-1-290-where-cloud-sessions-could-drop-answers-to-permiss|Fixed
   a regression in 2.1.290 where cloud sessions could drop answers to permission…]]'
+- '[[Changes/Lovable/2026-10-06-connect-your-app-to-klaviyo|Connect your app to Klaviyo]]'
 source_release: '[[Releases/OpenHands/openhands-2026-10-06-v1-25-0-github-404205170-7fe522ed|openhands-2026-10-06-v1-25-0-github-404205170-7fe522ed]]'
 source_type: github_releases
 theme: safety-privacy
@@ -85,7 +84,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Safety and Privacy
 
-- Earlier: 2026-10-06 · Claude Code · [[Changes/Claude Code/2026-10-06-fixed-a-regression-in-2-1-290-where-cloud-sessions-could-drop-answers-to-permiss|Fixed a regression in 2.1.290 where cloud sessions could drop answers to permission…]]
+- Earlier: 2026-10-06 · Lovable · [[Changes/Lovable/2026-10-06-connect-your-app-to-klaviyo|Connect your app to Klaviyo]]
 - Later: 2026-10-07 · Claude Code · [[Changes/Claude Code/2026-10-07-3-safety-and-privacy-changes-in-v2-1-293|3 Safety and Privacy changes in v2.1.293]]
 <!-- chronolog:end -->
 

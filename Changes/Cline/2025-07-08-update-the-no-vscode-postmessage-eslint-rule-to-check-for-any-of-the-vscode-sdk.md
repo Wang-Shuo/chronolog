@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 53750fd4e40d225f4769854c4880952a28e1da32801badd80ca3e52221057304
+machine_hash: 9743ced8517ae28b4896f5542f9b5126ab14e90b63d1c6db44d6647d3d4d4a94
 product: cline
 product_name: Cline
 record:
@@ -45,12 +45,11 @@ record:
     SDK…
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2025-07-02-add-excludedtools-to-extensions-by-scidomino-in-https-github-com-google-gemini-g|Add
-  excludedTools to extensions]]'
 - '[[Changes/OpenHands/2025-07-02-disabled-jupyter-plugin-by-default-in-cli-runtime-by-li-boxuan-in-https-github-c|Disabled
   Jupyter plugin by default in CLI runtime]]'
 - '[[Changes/Cursor/2025-07-03-2-apps-and-integrations-changes-in-1-2|2 Apps and Integrations
   changes in 1.2]]'
+- '[[Changes/ElevenLabs/2025-07-07-conversation-enhancements|Conversation Enhancements]]'
 source_release: '[[Releases/Cline/cline-2025-07-08-v3-18-6-github-230987546-d958ec7e|cline-2025-07-08-v3-18-6-github-230987546-d958ec7e]]'
 source_type: github_releases
 theme: apps-integrations
@@ -80,7 +79,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2025-07-03 · Cursor · [[Changes/Cursor/2025-07-03-2-apps-and-integrations-changes-in-1-2|2 Apps and Integrations changes in 1.2]]
+- Earlier: 2025-07-07 · ElevenLabs · [[Changes/ElevenLabs/2025-07-07-conversation-enhancements|Conversation Enhancements]]
 - Later: 2025-07-08 · Cline · [[Changes/Cline/2025-07-08-migrate-download-mcp-response-to-proto-by-celestial-vault-in-https-github-com-cl|migrate download MCP response to proto]]
 <!-- chronolog:end -->
 

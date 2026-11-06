@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: search-browsing
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 6627d99bc3bd204f12723631ca8581465ea4e054b57bf6e571a5ae0755943ff7
+machine_hash: cbcb39e451d5cd439d0c087efd8730a85d7a200663e6289db4654291ed38b87c
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,8 +45,8 @@ record:
     calls/hour
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-09-25-2-search-and-browsing-changes-in-rust-v0-157-0|2
-  Search and Browsing changes in rust-v0.157.0]]'
+- '[[Changes/Ollama/2026-09-29-models-using-web-search-can-now-perform-up-to-ten-searches-per-response-up-from|Models
+  using web search can now perform up to ten searches per response, up from three]]'
 - '[[Changes/Claude Code/2026-10-01-improved-sdk-sessions-so-a-message-sent-with-priority-now-no-longer-cancels-a-ru|Improved
   SDK sessions so a message sent with priority "now" no longer cancels…]]'
 - '[[Changes/Codex CLI/2026-10-01-browse-older-tasks-in-the-agent-command-center-with-a-keyboard-accessible-show-m|Browse

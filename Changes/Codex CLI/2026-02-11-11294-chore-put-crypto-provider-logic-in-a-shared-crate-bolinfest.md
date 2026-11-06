@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: e936c749bd891ee567e0e79e2c9d13d5c087bb736636b9b37fa3f4356345497c
+machine_hash: daf826e1c97cd3d46334260b2e9eb3a8dd50efab0cb61d47d079b350abc02e37
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -42,12 +42,11 @@ record:
   title: '#11294 chore: put crypto provider logic in a shared crate @bolinfest'
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-02-04-10404-cleanup-collaboration-mode-variants-charley-oai|♯10404
-  Cleanup collaboration mode variants @charley-oai]]'
 - '[[Changes/Claude Code/2026-02-05-added-research-preview-agent-teams-feature-for-multi-agent-collaboration-token-i|Added
   research preview agent teams feature for multi-agent collaboration…]]'
 - '[[Changes/Codex CLI/2026-02-05-2-collaboration-changes-in-rust-v0-98-0|2 Collaboration
   changes in rust-v0.98.0]]'
+- '[[Changes/Replit/2026-02-06-for-teams|For Teams]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-02-11-rust-v0-99-0-github-285424682-f7f48016|codex-cli-2026-02-11-rust-v0-99-0-github-285424682-f7f48016]]'
 source_type: github_releases
 theme: collaboration
@@ -90,7 +89,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Collaboration
 
-- Earlier: 2026-02-05 · Codex CLI · [[Changes/Codex CLI/2026-02-05-2-collaboration-changes-in-rust-v0-98-0|2 Collaboration changes in rust-v0.98.0]]
+- Earlier: 2026-02-06 · Replit · [[Changes/Replit/2026-02-06-for-teams|For Teams]]
 - Later: 2026-02-12 · Cline · [[Changes/Cline/2026-02-12-telemetry-route-posthog-networking-through-proxy-aware-shared-fetch-and-ensure-t|Telemetry: route PostHog networking through proxy-aware shared fetch and ensure…]]
 <!-- chronolog:end -->
 

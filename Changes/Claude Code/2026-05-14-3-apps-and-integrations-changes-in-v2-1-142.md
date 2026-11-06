@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 002e64b2b5c52142cb1de3ce249f10bd0351a27357ff4f8d39deae4f53095279
+machine_hash: 6ffcc5cb9e47f818ace9d98f8c9db168aa7b0065a410a23097942c246baa81a6
 product: claude-code
 product_name: Claude Code
 record:
@@ -46,12 +46,11 @@ record:
   title: 3 Apps and Integrations changes in v2.1.142
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2026-05-12-5-apps-and-integrations-changes-in-v0-42-0|5 Apps
-  and Integrations changes in v0.42.0]]'
 - '[[Changes/Claude Code/2026-05-13-added-claude-code-plugin-prefer-https-to-clone-github-plugin-sources-over-https|Added
   CLAUDE_CODE_PLUGIN_PREFER_HTTPS to clone GitHub plugin sources over HTTPS…]]'
 - '[[Changes/Cursor/2026-05-13-improved-mcp-auth-token-lifecycle-handling|Improved
   MCP auth token lifecycle handling]]'
+- '[[Changes/ElevenLabs/2026-05-13-sdk-releases|SDK Releases]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-05-14-v2-1-142-github-322792825-ffda4d4f|claude-code-2026-05-14-v2-1-142-github-322792825-ffda4d4f]]'
 source_type: github_releases
 theme: apps-integrations
@@ -89,7 +88,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.142
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-05-13 · Cursor · [[Changes/Cursor/2026-05-13-improved-mcp-auth-token-lifecycle-handling|Improved MCP auth token lifecycle handling]]
+- Earlier: 2026-05-13 · ElevenLabs · [[Changes/ElevenLabs/2026-05-13-sdk-releases|SDK Releases]]
 - Later: 2026-05-14 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-05-14-auto-disable-the-built-in-github-mcp-server-in-azure-devops-only-workspaces-when|Auto-disable the built-in github-mcp-server in Azure DevOps-only workspaces…]]
 <!-- chronolog:end -->
 

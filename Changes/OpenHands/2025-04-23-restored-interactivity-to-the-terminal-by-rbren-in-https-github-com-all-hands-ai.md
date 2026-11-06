@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 002a5c483cea900da8cb35bf2fc19b77f55e538a5eaf728652b8b936768bba7e
+machine_hash: 4c7cfef304ca407e2fbcce208cd1159ccfb4c5957879997c996351978b707361
 product: openhands
 product_name: OpenHands
 record:
@@ -40,12 +40,11 @@ record:
   title: Restored interactivity to the terminal
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-04-15-improved-agent-terminal-control|Improved agent terminal
-  control]]'
-- '[[Changes/OpenHands/2025-04-16-converted-the-terminal-panel-from-a-fixed-bottom-panel-to-a-tab-by-rbren-in-http|Converted
-  the Terminal panel from a fixed bottom panel to a tab]]'
+- '[[Changes/Replit/2025-04-18-clearer-checkpoint-titles|Clearer checkpoint titles]]'
 - '[[Changes/Cline/2025-04-19-2-developer-workflow-changes-in-v3-13-0|2 Developer
   Workflow changes in v3.13.0]]'
+- '[[Changes/Dify/2025-04-23-2-developer-workflow-changes-in-1-3-0|2 Developer Workflow
+  changes in 1.3.0]]'
 source_release: '[[Releases/OpenHands/openhands-2025-04-23-0-34-0-github-214259369-f2d174a1|openhands-2025-04-23-0-34-0-github-214259369-f2d174a1]]'
 source_type: github_releases
 theme: developer-workflow
@@ -78,7 +77,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2025-04-19 · Cline · [[Changes/Cline/2025-04-19-2-developer-workflow-changes-in-v3-13-0|2 Developer Workflow changes in v3.13.0]]
+- Earlier: 2025-04-23 · Dify · [[Changes/Dify/2025-04-23-2-developer-workflow-changes-in-1-3-0|2 Developer Workflow changes in 1.3.0]]
 - Later: 2025-04-24 · Cline · [[Changes/Cline/2025-04-24-improve-slash-command-functionality|Improve slash command functionality]]
 <!-- chronolog:end -->
 

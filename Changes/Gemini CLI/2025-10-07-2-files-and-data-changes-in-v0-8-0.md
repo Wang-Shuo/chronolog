@@ -4,20 +4,20 @@ date: '2025-10-07'
 description: 'Gemini CLI · 2025-10-07 · Files and Data: 2 changes in Release v0.8.0
   — Document support for Google AI Pro and AI Ultra by @srithreepo in…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-07-06-we-re-rolling-out-code-interpreter-to-all-chatgpt-plus-users-over-the-next-week-66255e|Code
-    interpreter is now rolling out in beta on web]]'
+  first_in_tracked: '[[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2
+    Files and Data changes in 0.2.2]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 824
+  lag_days: 866
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 74c37eb7791047ca8f13b30e9932f92da02264740b4e132a0503f81fd84bb4dd
+machine_hash: b35f650b23e086ff38387f0dfa983eb8be18f78da0bca03ef57b4d43d78d302c
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -43,12 +43,12 @@ record:
   title: 2 Files and Data changes in v0.8.0
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2025-06-24-projects-can-now-support-40-uploaded-files-up-from-20-for-pro-users|Project
-  file limit increased (Pro)]]'
-- '[[Changes/Gemini CLI/2025-08-14-document-certificate-issue-workaround-by-scidomino-in-https-github-com-google-ge|Document
-  certificate issue workaround]]'
-- '[[Changes/Codex CLI/2025-09-05-3118-codex-document-use-experimental-reasoning-summary-toml-key-config|♯3118
-  codex document use_experimental_reasoning_summary toml key config]]'
+- '[[Changes/Open WebUI/2025-09-17-3-files-and-data-changes-in-v0-6-29|3 Files and
+  Data changes in v0.6.29]]'
+- '[[Changes/Dify/2025-09-22-6-files-and-data-changes-in-1-9-0|6 Files and Data changes
+  in 1.9.0]]'
+- "[[Changes/Open WebUI/2025-09-25-file-upload-handling-was-improved-to-properly-recognize-uploaded-files-even-when|\U0001F4CE
+  File upload handling was improved to properly recognize uploaded files even…]]"
 source_release: '[[Releases/Gemini CLI/gemini-cli-2025-10-07-v0-8-0-github-252858757-2ecdc728|gemini-cli-2025-10-07-v0-8-0-github-252858757-2ecdc728]]'
 source_type: github_releases
 theme: file-data
@@ -91,14 +91,14 @@ Source: https://github.com/google-gemini/gemini-cli/releases/tag/v0.8.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Files and Data
 
-- Earlier: 2025-09-05 · Codex CLI · [[Changes/Codex CLI/2025-09-05-3118-codex-document-use-experimental-reasoning-summary-toml-key-config|♯3118 codex document use_experimental_reasoning_summary toml key config]]
-- Later: 2025-10-22 · Gemini CLI · [[Changes/Gemini CLI/2025-10-22-document-all-settings-with-showindialog-true-by-scidomino-in-https-github-com-go|document all settings with showInDialog: true]]
+- Earlier: 2025-09-25 · Open WebUI · [[Changes/Open WebUI/2025-09-25-file-upload-handling-was-improved-to-properly-recognize-uploaded-files-even-when|📎 File upload handling was improved to properly recognize uploaded files even…]]
+- Later: 2025-10-07 · Open WebUI · [[Changes/Open WebUI/2025-10-07-2-files-and-data-changes-in-v0-6-33|2 Files and Data changes in v0.6.33]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-07-06 · ChatGPT · [[Changes/ChatGPT/2023-07-06-we-re-rolling-out-code-interpreter-to-all-chatgpt-plus-users-over-the-next-week-66255e|Code interpreter is now rolling out in beta on web]]
+- Earliest same-theme entry in the tracked set: 2023-05-25 · Dify · [[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2 Files and Data changes in 0.2.2]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

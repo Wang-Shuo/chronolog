@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 5d7527679c86b13638a0f6385944a4d0ecdf927fec4e6f760260b2fdc84d71f6
+machine_hash: 1df092bcf4ff5d65cf0f56d8df070c6a908ad5eaadf013dabf0ef079ad7b7bcc
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -42,8 +42,8 @@ record:
   title: 'TUI quality-of-life: ctrl-n/p navigation for slash command lists and backtracking…'
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2025-11-04-change-debug-drawer-keybinding-to-f12-by-scidomino-in-https-github-com-google-ge|Change
-  debug drawer keybinding to F12]]'
+- '[[Changes/Open WebUI/2025-11-06-10-interface-experience-changes-in-v0-6-35|10 Interface
+  Experience changes in v0.6.35]]'
 - '[[Changes/Codex CLI/2025-11-07-6249-stop-capturing-r-when-environment-selection-modal-is-open|♯6249
   stop capturing r when environment selection modal is open]]'
 - '[[Changes/Gemini CLI/2025-11-07-4-interface-experience-changes-in-v0-13-0|4 Interface

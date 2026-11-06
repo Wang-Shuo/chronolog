@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: search-browsing
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: 37891a5ca081673cf5f6b91ed3dbb0afd8a6961e427ed384f4c7b84abe0c5ee5
+machine_hash: 47e7b46495abc328085777aedc54afb669aef21894c0d9f0eb18aa0aae74e5b3
 product: openhands
 product_name: OpenHands
 record:
@@ -55,12 +55,12 @@ record:
   title: Allow CodeAct agent to perform web browsing by itself…
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2023-09-27-browsing-is-rolling-out-to-all-plus-users-chatgpt-can-now-browse-the-internet-to-335b58|Browsing
-  is rolling out to all Plus users]]'
-- '[[Changes/Cursor/2024-01-25-using-web-in-chat-will-give-the-ai-the-ability-to-crawl-the-web-the-tools-it-can|Using
-  @Web in chat will give the AI the ability to crawl the web!]]'
-- '[[Changes/OpenHands/2024-06-29-5-search-and-browsing-changes-in-0-7-0|5 Search
-  and Browsing changes in 0.7.0]]'
+- "[[Changes/Open WebUI/2024-09-07-refined-web-search-integration-deprecated-the-search-query-generation-prompt-thr|\U0001F310
+  Refined Web Search Integration]]"
+- "[[Changes/Open WebUI/2024-09-24-web-search-functionality-corrected-an-issue-where-the-web-search-option-was-not|\U0001F50D
+  Web Search Functionality]]"
+- '[[Changes/Dify/2024-09-30-add-zhipuai-web-search-by-aaee86-in-https-github-com-langgenius-dify-pull-8668|add
+  zhipuai web search]]'
 source_release: '[[Releases/OpenHands/openhands-2024-11-04-0-12-2-github-183467199-1f374fc8|openhands-2024-11-04-0-12-2-github-183467199-1f374fc8]]'
 source_type: github_releases
 theme: search-browsing
@@ -90,8 +90,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Search and Browsing
 
-- Earlier: 2024-06-29 · OpenHands · [[Changes/OpenHands/2024-06-29-5-search-and-browsing-changes-in-0-7-0|5 Search and Browsing changes in 0.7.0]]
-- Later: 2024-12-04 · OpenHands · [[Changes/OpenHands/2024-12-04-added-alignment-checker-for-browsing-agent-by-s-aniruddha-in-https-github-com-al|Added Alignment checker for browsing agent]]
+- Earlier: 2024-09-30 · Dify · [[Changes/Dify/2024-09-30-add-zhipuai-web-search-by-aaee86-in-https-github-com-langgenius-dify-pull-8668|add zhipuai web search]]
+- Later: 2024-11-19 · Open WebUI · [[Changes/Open WebUI/2024-11-19-2-search-and-browsing-changes-in-v0-4-0|2 Search and Browsing changes in v0.4.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

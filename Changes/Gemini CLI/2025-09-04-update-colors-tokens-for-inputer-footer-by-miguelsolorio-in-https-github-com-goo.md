@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 888c4e86627df17c7a2c623b9992da28f4b3f5ca5569dc0ecf29769dc3ad5ccd
+machine_hash: f314d711890fcee0b4de6eb4e7f66ddbcca87c5b7072017cd3ab269f2334f001
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -41,10 +41,10 @@ record:
   title: Update colors tokens for inputer/footer
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-08-21-context-usage-is-always-shown-in-the-chat-input|Context
-  usage is always shown in the chat input]]'
 - '[[Changes/Codex CLI/2025-08-27-2-context-window-changes-in-rust-v0-25-0|2 Context
   Window changes in rust-v0.25.0]]'
+- '[[Changes/Open WebUI/2025-08-28-2-context-window-changes-in-v0-6-26|2 Context Window
+  changes in v0.6.26]]'
 - '[[Changes/Cline/2025-08-29-add-200k-context-window-variant-for-claude-sonnet-4-to-openrouter-and-cline-prov|Add
   200k context window variant for Claude Sonnet 4 to OpenRouter and Cline providers]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2025-09-04-v0-3-0-github-244870431-556b0abc|gemini-cli-2025-09-04-v0-3-0-github-244870431-556b0abc]]'

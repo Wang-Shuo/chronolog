@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 90463ef7d6d60b4aa0d5259c92aeab231f93812e216a57ea026bfee5e3beaf18
+machine_hash: 9fb97c9c2b3eab7de4e58ee3a84a4d566c426c2dc853f03c2b8adf295e239824
 product: cursor
 product_name: Cursor
 record:
@@ -90,7 +90,7 @@ type: change
 ## Nearby in Model Support
 
 - Earlier: 2025-03-10 · Cline · [[Changes/Cline/2025-03-10-2-model-support-changes-in-v3-6-9|2 Model Support changes in v3.6.9]]
-- Later: 2025-03-13 · Aider · [[Changes/Aider/2025-03-13-2-model-support-changes-in-v0-77-0|2 Model Support changes in v0.77.0]]
+- Later: 2025-03-11 · Ollama · [[Changes/Ollama/2025-03-11-gemma-3-https-ollama-com-library-gemma3-google-gemma-3-model-is-now-available-in|Gemma 3((source link) Google Gemma 3 model is now available…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

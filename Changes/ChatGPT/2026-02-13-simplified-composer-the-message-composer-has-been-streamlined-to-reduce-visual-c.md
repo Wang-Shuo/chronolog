@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 97e217b60fc8e3675808c5831fb5d0d37b2ec16085768637753ad745365ed640
+machine_hash: 3b06d19a24b7a520c1b3720e8309ea523e0b647e39bbfcf118728f0ca114b7c7
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -47,8 +47,8 @@ record:
   title: Simplified composer
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-02-12-add-mouse-text-selection-in-alt-screen-mode|Add
-  mouse text selection in --alt-screen mode]]'
+- '[[Changes/Open WebUI/2026-02-12-8-interface-experience-changes-in-v0-8-0|8 Interface
+  Experience changes in v0.8.0]]'
 - '[[Changes/Windsurf/2026-02-12-improved-rtl-language-rendering-in-todo-lists|Improved
   RTL language rendering in todo lists]]'
 - '[[Changes/ChatGPT/2026-02-13-quick-tools-in-the-composer-a-new-quick-tools-menu-in-the-message-composer-makes|Quick

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: 86a9191740515a613c3c1f0a20ea9aeebaa921a46641d4c67a555820d22ac84d
+machine_hash: 823cd57b3d9895df5e9965078c3b557c9fd43e66f0dd0398473b3348c56ebf5f
 product: cursor
 product_name: Cursor
 record:
@@ -56,8 +56,8 @@ record:
   title: Context Usage Breakdown
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-04-28-add-compact-context-usage-and-env-slash-commands-for-acp-sessions|Add
-  /compact, /context, /usage, and /env slash commands for ACP sessions]]'
+- '[[Changes/Dify/2026-04-29-3-context-window-changes-in-1-14-0|3 Context Window changes
+  in 1.14.0]]'
 - '[[Changes/Codex CLI/2026-04-30-19805-add-multiagentv2-root-and-subagent-context-hints-jif-oai|♯19805
   Add MultiAgentV2 root and subagent context hints @jif-oai]]'
 - '[[Changes/GitHub Copilot CLI/2026-05-01-remote-session-statusline-shows-the-remote-working-directory-and-branch-instead|Remote

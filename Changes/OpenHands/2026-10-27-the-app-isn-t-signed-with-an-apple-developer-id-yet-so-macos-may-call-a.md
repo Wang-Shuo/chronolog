@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: c7d99d84dea7a3667a1ab8ebb44b151b8ca9345ef2ecc38fe045c6c3415ff413
+machine_hash: 89501ac071bd3b2400332cec1b7f64dfbed64fcb3842cf1be44a43a78986290f
 product: openhands
 product_name: OpenHands
 record:
@@ -42,8 +42,8 @@ record:
   title: The app isn't signed with an Apple Developer ID yet, so macOS may call a
   type: change
 related_changes:
-- '[[Changes/Windsurf/2026-10-23-on-windows-wsl-distros-can-be-used-as-remote-agent-hosts-alongside-ssh-hosts-and|On
-  Windows, WSL distros can be used as remote agent hosts alongside SSH hosts…]]'
+- '[[Changes/ElevenLabs/2026-10-26-2-mobile-and-desktop-changes-in-elevenlabs-updates-2026-10-26|2
+  Mobile and Desktop changes in ElevenLabs updates — 2026-10-26]]'
 - '[[Changes/Windsurf/2026-10-26-on-macos-banners-at-the-top-of-the-window-no-longer-interfere-with-the-window-co|On
   macOS, banners at the top of the window no longer interfere with the window controls]]'
 - '[[Changes/ChatGPT/2026-10-27-you-can-learn-more-about-how-chatgpt-uses-connected-apps-here-available-to-all-c|You

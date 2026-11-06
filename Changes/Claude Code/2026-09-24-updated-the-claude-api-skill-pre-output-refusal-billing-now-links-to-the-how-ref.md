@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: policy
-machine_hash: a01668c104a0d557c51c58baf4709d9ead802eacd96f169b36fbe3458fd0a51d
+machine_hash: 6f592956e47da8fe74bc9525150bb2be27dff28f7e111a5bf1de0e06ae78fb48
 product: claude-code
 product_name: Claude Code
 record:
@@ -44,12 +44,12 @@ record:
   title: Updated the `claude-api` skill
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-22-improved-cost-cache-miss-causes-to-name-thinking-mode-and-thinking-display-chang|Improved
-  /cost cache-miss causes to name thinking mode and thinking display changes]]'
-- '[[Changes/Cline/2026-09-22-models-that-advertise-a-large-output-limit-now-get-a-bigger-default-output-budge|Models
-  that advertise a large output limit now get a bigger default output budget]]'
 - '[[Changes/Cursor/2026-09-23-for-the-next-10-days-we-re-including-usage-credits-so-teams-can-try-rollouts-on|For
   the next 10 days, we''re including usage credits so teams can try Rollouts…]]'
+- '[[Changes/Lovable/2026-09-23-image-and-video-generation-now-appear-in-usage-details|Image
+  and video generation now appear in Usage details]]'
+- '[[Changes/Lovable/2026-09-23-see-the-estimated-monthly-cloud-cost-of-each-database-size|See
+  the estimated monthly Cloud cost of each database size]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-24-v2-1-282-github-395840120-957e42c4|claude-code-2026-09-24-v2-1-282-github-395840120-957e42c4]]'
 source_type: github_releases
 theme: pricing-model
@@ -85,7 +85,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Pricing Model
 
-- Earlier: 2026-09-23 · Cursor · [[Changes/Cursor/2026-09-23-for-the-next-10-days-we-re-including-usage-credits-so-teams-can-try-rollouts-on|For the next 10 days, we're including usage credits so teams can try Rollouts…]]
+- Earlier: 2026-09-23 · Lovable · [[Changes/Lovable/2026-09-23-see-the-estimated-monthly-cloud-cost-of-each-database-size|See the estimated monthly Cloud cost of each database size]]
 - Later: 2026-09-25 · Codex CLI · [[Changes/Codex CLI/2026-09-25-47086-format-analytics-credit-usage-with-consistent-decimal-precision-fcoury-oai|♯47086 Format analytics credit usage with consistent decimal precision @fcoury-oai]]
 <!-- chronolog:end -->
 

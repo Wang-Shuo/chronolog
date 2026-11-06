@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 3917118691d75dbaf08d641f7a4c887249665a507dcd563d3041a13d0df3c9d9
+machine_hash: 599afa9d8fdcab5fb0ec10d06b0cb3ad3c433c40cd28b1f43294d80bd76fee53
 product: cursor
 product_name: Cursor
 record:
@@ -106,7 +106,7 @@ type: change
 ## Nearby in Editor Experience
 
 - Earlier: 2025-05-09 · Aider · [[Changes/Aider/2025-05-09-2-editor-experience-changes-in-v0-83-0|2 Editor Experience changes in v0.83.0]]
-- Later: 2025-05-15 · Windsurf · [[Changes/Windsurf/2025-05-15-swe-1-mini|SWE-1-mini]]
+- Later: 2025-05-15 · Dify · [[Changes/Dify/2025-05-15-ci-add-diff-to-lint-ci-by-yihong0618-in-https-github-com-langgenius-dify-pull-17|ci: add diff to lint ci]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

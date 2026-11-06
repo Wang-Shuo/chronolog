@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: bf062dd99e0b6f7dc32659e2b7a5609383fa29773d08b7d797fbc417cb3f3888
+machine_hash: c07f2b0fb1d465cf8fa523212471388d58525c55d885eb75b35c7527df723b52
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -48,10 +48,10 @@ record:
   title: 4 Safety and Privacy changes in rust-v0.110.0
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-03-03-fixed-team-permission-and-access-control-inconsistencies-across-organization-set|Fixed
-  team permission and access control inconsistencies across organization setups]]'
 - '[[Changes/GitHub Copilot CLI/2026-03-03-autopilot-permission-dialog-appears-on-first-prompt-submission-instead-of-on-mod|Autopilot
   permission dialog appears on first prompt submission instead of on mode switch]]'
+- '[[Changes/v0/2026-03-03-fixed-integration-permission-checks-for-team-roles|Fixed
+  integration permission checks for team roles]]'
 - '[[Changes/Claude Code/2026-03-05-5-safety-and-privacy-changes-in-v2-1-69|5 Safety
   and Privacy changes in v2.1.69]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-03-05-rust-v0-110-0-github-293239637-d5d06302|codex-cli-2026-03-05-rust-v0-110-0-github-293239637-d5d06302]]'

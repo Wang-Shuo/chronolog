@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: pricing
-machine_hash: 28a2c598b221e894a355d5ce2d9442164dd603c3ca0fbb8d370b0580d0c7a804
+machine_hash: 4932e5c0175e1f13c4d03b5636f905c654f123484ff69e700d766cafad0e5522
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -58,9 +58,10 @@ record:
   title: Model picker displays actual token prices instead of dot indicators for token-based…
   type: change
 related_changes:
-- '[[Changes/Windsurf/2026-05-06-devin-review-quick-review|Devin Review & Quick Review]]'
-- '[[Changes/Cursor/2026-05-11-customers-must-be-on-usage-based-billing-for-bugbot-to-customize-effort-levels-l|Customers
-  must be on usage-based billing for Bugbot to customize effort levels]]'
+- '[[Changes/Dify/2026-05-12-refactor-web-migrate-subscription-create-modal-to-dialog-by-lyzno1-in-https-gith|refactor(web):
+  migrate subscription create modal to dialog]]'
+- '[[Changes/v0/2026-05-12-the-v0-credit-redemption-modal-no-longer-hangs-on-verifying-after-submitting-a-u|The
+  v0 credit redemption modal no longer hangs on "Verifying" after submitting…]]'
 - '[[Changes/GitHub Copilot CLI/2026-05-13-copilot-max-subscribers-see-the-correct-models-available-to-their-subscription-t|Copilot
   Max subscribers see the correct models available to their subscription tier]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-05-14-v1-0-48-github-322570462-ca4cae52|github-copilot-cli-2026-05-14-v1-0-48-github-322570462-ca4cae52]]'
@@ -96,7 +97,7 @@ type: change
 ## Nearby in Pricing Model
 
 - Earlier: 2026-05-13 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-05-13-copilot-max-subscribers-see-the-correct-models-available-to-their-subscription-t|Copilot Max subscribers see the correct models available to their subscription tier]]
-- Later: 2026-05-15 · Claude Code · [[Changes/Claude Code/2026-05-15-added-projected-context-cost-per-turn-and-per-invocation-token-estimates-to-the|Added projected context cost (per-turn and per-invocation token estimates)…]]
+- Later: 2026-05-14 · Ollama · [[Changes/Ollama/2026-05-14-for-local-use-without-an-ollama-cloud-subscription|For local use without an Ollama Cloud subscription]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

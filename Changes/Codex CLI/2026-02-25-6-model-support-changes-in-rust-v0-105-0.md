@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: f236f65b710570acaba43d400a51c4edc0a226e28ebb032051291f4554657e5f
+machine_hash: 90a6fa6bca0eac55b7356b48d753689b246311d1ea83be8570ab39df417b379c
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -50,12 +50,12 @@ record:
   title: 6 Model Support changes in rust-v0.105.0
   type: change
 related_changes:
-- '[[Changes/Cline/2026-02-24-added-codex-5-3-model-support|Added Codex 5.3 model
-  support]]'
 - '[[Changes/Cline/2026-02-24-3-model-support-changes-in-v3-67-0|3 Model Support changes
   in v3.67.0]]'
 - '[[Changes/GitHub Copilot CLI/2026-02-24-streaming-response-size-counter-updates-continuously-during-tool-calls-and-reaso|Streaming
   response size counter updates continuously during tool calls…]]'
+- '[[Changes/Ollama/2026-02-24-2-model-support-changes-in-v0-17-1|2 Model Support
+  changes in v0.17.1]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-02-25-rust-v0-105-0-github-290476287-0c72d1ed|codex-cli-2026-02-25-rust-v0-105-0-github-290476287-0c72d1ed]]'
 source_type: github_releases
 theme: model-support
@@ -110,7 +110,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.105.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-02-24 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-02-24-streaming-response-size-counter-updates-continuously-during-tool-calls-and-reaso|Streaming response size counter updates continuously during tool calls…]]
+- Earlier: 2026-02-24 · Ollama · [[Changes/Ollama/2026-02-24-2-model-support-changes-in-v0-17-1|2 Model Support changes in v0.17.1]]
 - Later: 2026-02-25 · Gemini CLI · [[Changes/Gemini CLI/2026-02-25-8-model-support-changes-in-v0-30-0|8 Model Support changes in v0.30.0]]
 <!-- chronolog:end -->
 

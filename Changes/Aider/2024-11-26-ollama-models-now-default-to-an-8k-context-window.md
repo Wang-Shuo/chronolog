@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 5d192f764ea987b14a7499da74e1742bc04000437e90dfc62d9e5531ed981a28
+machine_hash: e4bee418c56541561160ecdc587fb79489e26e94d6c1bdef0497880fc2e4fef2
 product: aider
 product_name: Aider
 record:
@@ -52,12 +52,12 @@ record:
   title: Ollama models now default to an 8k context window
   type: change
 related_changes:
-- '[[Changes/Aider/2024-11-01-save-fname-command-will-make-a-file-of-add-and-read-only-commands-that-recreate|/save
-  fname command will make a file of /add and /read-only commands…]]'
-- '[[Changes/OpenHands/2024-11-15-truncate-agent-history-when-context-window-is-exceeded-by-enyst-in-https-github|Truncate
-  agent history when context window is exceeded]]'
+- '[[Changes/Open WebUI/2024-11-20-tool-descriptions-on-hover-easily-access-tool-descriptions-by-hovering-over-the|ℹ️
+  Tool Descriptions on Hover]]'
 - '[[Changes/Cursor/2024-11-24-early-version-of-an-agent-in-composer-that-can-pick-its-own-context-and-use-the-1228de|Early
   version of an agent in composer that can pick its own context and use the terminal]]'
+- '[[Changes/Dify/2024-11-25-style-refactor-fetch-and-context-by-akarachen-in-https-github-com-langgenius-dif|style:
+  refactor fetch and context]]'
 source_release: '[[Releases/Aider/aider-2024-11-26-v0-65-0-github-187637118-11b15eff|aider-2024-11-26-v0-65-0-github-187637118-11b15eff]]'
 source_type: github_releases
 theme: context-window
@@ -89,8 +89,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Context Window
 
-- Earlier: 2024-11-24 · Cursor · [[Changes/Cursor/2024-11-24-early-version-of-an-agent-in-composer-that-can-pick-its-own-context-and-use-the-1228de|Early version of an agent in composer that can pick its own context and use the terminal]]
-- Later: 2024-12-10 · Aider · [[Changes/Aider/2024-12-10-new-copy-context-command|New /copy-context command]]
+- Earlier: 2024-11-25 · Dify · [[Changes/Dify/2024-11-25-style-refactor-fetch-and-context-by-akarachen-in-https-github-com-langgenius-dif|style: refactor fetch and context]]
+- Later: 2024-12-03 · Dify · [[Changes/Dify/2024-12-03-sync-indexing-max-segmentation-tokens-length-between-api-and-web-by-fujita-h-in|Sync INDEXING_MAX_SEGMENTATION_TOKENS_LENGTH between API and Web]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

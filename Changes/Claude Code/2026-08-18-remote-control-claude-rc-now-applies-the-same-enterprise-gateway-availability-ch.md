@@ -4,20 +4,20 @@ date: '2026-08-18'
 description: 'Claude Code · 2026-08-18 · Enterprise and Administration: Remote Control:
   `claude rc` now applies the same enterprise-gateway availability check as interactive…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2024-03-20-admin-improvements-team-admins-can-now-mark-themselves-as-unpaid-users-and-can-s|Admin
-    improvements: Team admins can now mark themselves as unpaid users and can see…]]'
+  first_in_tracked: '[[Changes/Gemini/2023-05-05-access-for-google-workspace-accounts|Access
+    for Google Workspace accounts]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 881
+  lag_days: 1201
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 5be560f2419742caf836c6cbdba25246f3b6eab14ce47685f1ab0c120ef53420
+machine_hash: 371b5978a3c0e5b15389185290966b5932a185b44ecc42fd39ed51707d1d4ee9
 product: claude-code
 product_name: Claude Code
 record:
@@ -42,12 +42,11 @@ record:
   title: 'Remote Control: `claude rc` now applies the same enterprise-gateway availability…'
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-08-13-computer-history-is-an-optional-feature-in-the-chatgpt-macos-app-that-lets-chatg|Computer
-  History for macOS]]'
-- '[[Changes/Claude Code/2026-08-13-enterprise-policy-a-url-typed-blockedmarketplaces-entry-for-a-bare-repo-url-keep|Enterprise
-  policy: a url-typed blockedMarketplaces entry for a bare repo URL keeps…]]'
-- '[[Changes/Claude Code/2026-08-14-changed-the-github-app-setup-tip-to-no-longer-appear-in-repositories-whose-origi|Changed
-  the GitHub app setup tip to no longer appear in repositories whose origin…]]'
+- '[[Changes/Replit/2026-08-14-teams-and-enterprise|Teams and Enterprise]]'
+- '[[Changes/Lovable/2026-08-16-set-member-credit-limits-in-bulk-with-a-csv|Set member
+  credit limits in bulk with a CSV]]'
+- '[[Changes/Lovable/2026-08-17-trust-center-is-now-disabled-by-default|Trust center
+  is now disabled by default]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-08-18-v2-1-235-github-372521030-3c3fae7f|claude-code-2026-08-18-v2-1-235-github-372521030-3c3fae7f]]'
 source_type: github_releases
 theme: enterprise-admin
@@ -79,14 +78,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Enterprise and Administration
 
-- Earlier: 2026-08-14 · Claude Code · [[Changes/Claude Code/2026-08-14-changed-the-github-app-setup-tip-to-no-longer-appear-in-repositories-whose-origi|Changed the GitHub app setup tip to no longer appear in repositories whose origin…]]
-- Later: 2026-08-27 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-08-27-2-enterprise-and-administration-changes-in-v1-0-81|2 Enterprise and Administration changes in v1.0.81]]
+- Earlier: 2026-08-17 · Lovable · [[Changes/Lovable/2026-08-17-trust-center-is-now-disabled-by-default|Trust center is now disabled by default]]
+- Later: 2026-08-21 · Replit · [[Changes/Replit/2026-08-21-teams-and-enterprise|Teams and Enterprise]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2024-03-20 · Cursor · [[Changes/Cursor/2024-03-20-admin-improvements-team-admins-can-now-mark-themselves-as-unpaid-users-and-can-s|Admin improvements: Team admins can now mark themselves as unpaid users and can see…]]
+- Earliest same-theme entry in the tracked set: 2023-05-05 · Gemini · [[Changes/Gemini/2023-05-05-access-for-google-workspace-accounts|Access for Google Workspace accounts]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

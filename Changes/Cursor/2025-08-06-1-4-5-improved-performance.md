@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 079f47c3dce84bd738a2805508288cba53764d6f52b4688005f7773314d442cc
+machine_hash: c2da31421d74bedf679e02a58ad497b90955191e2109e6c649f75b2bd6948f4b
 product: cursor
 product_name: Cursor
 record:
@@ -40,12 +40,12 @@ record:
   title: '1.4.5: Improved performance'
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2025-07-30-run-model-availability-check-in-the-background-to-speed-up-startup-by-sandytao52|Run
-  model availability check in the background to speed up startup]]'
 - '[[Changes/Gemini CLI/2025-08-02-2-reliability-and-performance-changes-in-v0-1-16|2
   Reliability and Performance changes in v0.1.16]]'
 - '[[Changes/Gemini CLI/2025-08-05-2-reliability-and-performance-changes-in-v0-1-17|2
   Reliability and Performance changes in v0.1.17]]'
+- '[[Changes/Ollama/2025-08-05-2-reliability-and-performance-changes-in-v0-11-0|2
+  Reliability and Performance changes in v0.11.0]]'
 source_release: '[[Releases/Cursor/cursor-2025-08-06-1-4-https-cursor-com-changelog-1-4-5a085889|cursor-2025-08-06-1-4-https-cursor-com-changelog-1-4-5a085889]]'
 source_type: cursor_changelog
 theme: reliability-performance
@@ -83,8 +83,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2025-08-05 · Gemini CLI · [[Changes/Gemini CLI/2025-08-05-2-reliability-and-performance-changes-in-v0-1-17|2 Reliability and Performance changes in v0.1.17]]
-- Later: 2025-08-06 · Gemini CLI · [[Changes/Gemini CLI/2025-08-06-4-reliability-and-performance-changes-in-v0-1-18|4 Reliability and Performance changes in v0.1.18]]
+- Earlier: 2025-08-05 · Ollama · [[Changes/Ollama/2025-08-05-2-reliability-and-performance-changes-in-v0-11-0|2 Reliability and Performance changes in v0.11.0]]
+- Later: 2025-08-06 · Gemini · [[Changes/Gemini/2025-08-06-understand-complex-topics-faster-with-integrated-visuals-and-youtube-videos|Understand Complex Topics Faster with Integrated Visuals and YouTube videos]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

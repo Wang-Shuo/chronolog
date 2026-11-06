@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: fix
-machine_hash: 49f01baabcc2c59c1c67789d325444a5da992a83d9fe043ba97b106464156d81
+machine_hash: f8b0a606793401742ea2f996f3be04e2a0fa2198e3ef2851e939c8fe01f96f3d
 product: claude-code
 product_name: Claude Code
 record:
@@ -78,7 +78,7 @@ type: change
 ## Nearby in Safety and Privacy
 
 - Earlier: 2026-10-06 · Claude Code · [[Changes/Claude Code/2026-10-06-6-safety-and-privacy-changes-in-v2-1-292|6 Safety and Privacy changes in v2.1.292]]
-- Later: 2026-10-06 · OpenHands · [[Changes/OpenHands/2026-10-06-fix-consume-consent-aware-website-posthog-handoff-by-malhotra5-in-https-github-c|fix: consume consent-aware website PostHog handoff]]
+- Later: 2026-10-06 · Lovable · [[Changes/Lovable/2026-10-06-connect-your-app-to-klaviyo|Connect your app to Klaviyo]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

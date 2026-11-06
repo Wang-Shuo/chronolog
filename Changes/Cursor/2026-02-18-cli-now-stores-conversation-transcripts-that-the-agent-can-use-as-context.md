@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: 10e4259333ff37559d2b3e82e9438299f9e317c3ce37dcc7b4b540a8bee20364
+machine_hash: 14f7bc7db627088998cf9900d75fea13d7c48c5722424259ab92ad77a8506e58
 product: cursor
 product_name: Cursor
 record:
@@ -53,10 +53,10 @@ record:
   title: CLI now stores conversation transcripts that the agent can use as context
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-02-17-4-context-window-changes-in-rust-v0-102-0|4 Context
-  Window changes in rust-v0.102.0]]'
 - '[[Changes/Cursor/2026-02-17-agents-can-now-search-past-conversations-and-use-chat-history-as-context|Agents
   can now search past conversations and use chat history as context]]'
+- "[[Changes/Open WebUI/2026-02-17-image-and-file-attachment-handling-fixes-uploaded-images-are-now-correctly-sent|\U0001F5BC️
+  Image and file attachment handling fixes. Uploaded images are now correctly…]]"
 - '[[Changes/Codex CLI/2026-02-18-2-context-window-changes-in-rust-v0-104-0|2 Context
   Window changes in rust-v0.104.0]]'
 source_release: '[[Releases/Cursor/cursor-2026-02-18-cli-improvements-and-mermaid-ascii-diagrams-https-cursor-com-cha-a75d36c7|cursor-2026-02-18-cli-improvements-and-mermaid-ascii-diagrams-https-cursor-com-cha-a75d36c7]]'

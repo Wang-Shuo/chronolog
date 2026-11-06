@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 51fe0b8490e2620d0cc25a4cd84ad5f610aa9b0ef1f10bbca5488a2c689607fe
+machine_hash: e6f9936c2a984528c47854f045eba5f5c62be89776d42839b26ca27db697d3ff
 product: cursor
 product_name: Cursor
 record:
@@ -49,12 +49,12 @@ record:
   title: Stable Claude Support
   type: change
 related_changes:
-- '[[Changes/Aider/2024-02-10-default-gpt-3-5-model-is-now-gpt-3-5-turbo-0125|Default
-  GPT 3.5 model is now gpt-3.5-turbo-0125]]'
-- '[[Changes/Aider/2024-03-08-2-model-support-changes-in-v0-26-0|2 Model Support changes
-  in v0.26.0]]'
 - '[[Changes/Cursor/2024-03-12-if-you-re-a-pro-or-business-user-you-can-add-claude-3-opus-as-a-custom-model-in|Claude
   Support]]'
+- '[[Changes/Dify/2024-03-12-8-model-support-changes-in-0-5-9|8 Model Support changes
+  in 0.5.9]]'
+- '[[Changes/Dify/2024-03-19-16-model-support-changes-in-0-5-10|16 Model Support changes
+  in 0.5.10]]'
 source_release: '[[Releases/Cursor/cursor-2024-03-20-0-30-x-https-cursor-com-changelog-0-30-x-e7e3c53e|cursor-2024-03-20-0-30-x-https-cursor-com-changelog-0-30-x-e7e3c53e]]'
 source_type: cursor_changelog
 theme: model-support
@@ -86,8 +86,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2024-03-12 · Cursor · [[Changes/Cursor/2024-03-12-if-you-re-a-pro-or-business-user-you-can-add-claude-3-opus-as-a-custom-model-in|Claude Support]]
-- Later: 2024-04-09 · Aider · [[Changes/Aider/2024-04-09-4-model-support-changes-in-v0-28-0|4 Model Support changes in v0.28.0]]
+- Earlier: 2024-03-19 · Dify · [[Changes/Dify/2024-03-19-16-model-support-changes-in-0-5-10|16 Model Support changes in 0.5.10]]
+- Later: 2024-03-21 · Open WebUI · [[Changes/Open WebUI/2024-03-21-enhanced-model-filtering-alongside-ollama-openai-proxy-model-whitelisting-we-ve|🛡️ Enhanced Model Filtering]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

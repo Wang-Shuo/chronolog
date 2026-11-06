@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 907c25e6ee67843ab4e515747a9c7be82bb8a3374a119c044bae5d9c15c1ba29
+machine_hash: 4259405ac465785193d9676aa8c4b13b2f006b6e23728f9139a56c56d7cbc43e
 product: aider
 product_name: Aider
 record:
@@ -41,12 +41,12 @@ record:
   title: https://aider.chat/HISTORY.html
   type: change
 related_changes:
-- '[[Changes/Cursor/2024-11-24-composer-ui-in-the-sidebar-with-inline-diffs|Composer
-  UI in the sidebar with inline diffs]]'
-- '[[Changes/Aider/2024-12-01-added-ctrl-up-down-keyboard-shortcuts-for-per-message-history-navigation|Added
-  Ctrl-Up/Down keyboard shortcuts for per-message history navigation]]'
 - '[[Changes/Aider/2024-12-06-2-interface-experience-changes-in-v0-67-0|2 Interface
   Experience changes in v0.67.0]]'
+- '[[Changes/Dify/2024-12-09-4-interface-experience-changes-in-0-13-2|4 Interface
+  Experience changes in 0.13.2]]'
+- "[[Changes/Open WebUI/2024-12-25-quick-screen-capture-button-effortlessly-capture-your-screen-with-a-single-click|\U0001F4F8
+  Quick Screen Capture Button]]"
 source_release: '[[Releases/Aider/aider-2024-12-26-v0-70-0-github-192422417-0fd50011|aider-2024-12-26-v0-70-0-github-192422417-0fd50011]]'
 source_type: github_releases
 theme: interface-experience
@@ -78,8 +78,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2024-12-06 · Aider · [[Changes/Aider/2024-12-06-2-interface-experience-changes-in-v0-67-0|2 Interface Experience changes in v0.67.0]]
-- Later: 2025-01-02 · OpenHands · [[Changes/OpenHands/2025-01-02-add-loading-spinner-to-task-form-during-conversation-creation-by-rbren-in-https|Add loading spinner to task form during conversation creation]]
+- Earlier: 2024-12-25 · Open WebUI · [[Changes/Open WebUI/2024-12-25-quick-screen-capture-button-effortlessly-capture-your-screen-with-a-single-click|📸 Quick Screen Capture Button]]
+- Later: 2024-12-31 · Open WebUI · [[Changes/Open WebUI/2024-12-31-2-interface-experience-changes-in-v0-5-3|2 Interface Experience changes in v0.5.3]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

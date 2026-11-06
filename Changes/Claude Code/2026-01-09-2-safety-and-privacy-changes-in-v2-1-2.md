@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 24371bcdda8a59d70f4a0fae8214c92972f3e889efdbc3660e5b77a861558e9d
+machine_hash: 7c9cd24fad254d714010f8abb2d609e17e438bc507dc3151129a162488ffd8da
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,8 +45,8 @@ record:
   title: 2 Safety and Privacy changes in v2.1.2
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-12-22-improved-stability-around-how-the-agent-respects-auto-run-preferences-to-prevent|Improved
-  stability around how the agent respects auto-run preferences to prevent…]]'
+- '[[Changes/Replit/2025-12-26-security-center-for-enterprise|Security Center for
+  Enterprise]]'
 - '[[Changes/Codex CLI/2026-01-06-3-safety-and-privacy-changes-in-rust-v0-78-0|3 Safety
   and Privacy changes in rust-v0.78.0]]'
 - '[[Changes/Codex CLI/2026-01-07-allow-global-exec-flags-model-json-sandbox-toggles-etc-to-be-passed-after-codex|Allow

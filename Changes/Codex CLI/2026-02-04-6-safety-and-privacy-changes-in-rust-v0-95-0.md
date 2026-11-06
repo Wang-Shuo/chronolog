@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 372073c5e302b4e11d1d715e10f659fb06da4475578808bf28c463fa280ff461
+machine_hash: 5b1b7dc23693b7b8cd74c6f5bb959432579a98d5acdd2721787bc2bf82cce187
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -53,12 +53,12 @@ record:
   title: 6 Safety and Privacy changes in rust-v0.95.0
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-01-31-4-safety-and-privacy-changes-in-rust-v0-93-0|4 Safety
-  and Privacy changes in rust-v0.93.0]]'
 - '[[Changes/OpenHands/2026-02-02-2-safety-and-privacy-changes-in-1-3-0|2 Safety and
   Privacy changes in 1.3.0]]'
 - '[[Changes/Claude Code/2026-02-03-fixed-permission-dialogs-stealing-focus-while-actively-typing|Fixed
   permission dialogs stealing focus while actively typing]]'
+- '[[Changes/Dify/2026-02-03-9-safety-and-privacy-changes-in-1-12-0|9 Safety and Privacy
+  changes in 1.12.0]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-02-04-rust-v0-95-0-github-282823276-932b0b6b|codex-cli-2026-02-04-rust-v0-95-0-github-282823276-932b0b6b]]'
 source_type: github_releases
 theme: safety-privacy
@@ -109,7 +109,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.95.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Safety and Privacy
 
-- Earlier: 2026-02-03 · Claude Code · [[Changes/Claude Code/2026-02-03-fixed-permission-dialogs-stealing-focus-while-actively-typing|Fixed permission dialogs stealing focus while actively typing]]
+- Earlier: 2026-02-03 · Dify · [[Changes/Dify/2026-02-03-9-safety-and-privacy-changes-in-1-12-0|9 Safety and Privacy changes in 1.12.0]]
 - Later: 2026-02-04 · Gemini CLI · [[Changes/Gemini CLI/2026-02-04-security-hooks-wrap-hook-injected-context-in-distinct-xml-tags-by-yunaseoul-in-h|security(hooks): Wrap hook-injected context in distinct XML tags]]
 <!-- chronolog:end -->
 

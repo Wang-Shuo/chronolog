@@ -4,20 +4,20 @@ date: '2026-07-16'
 description: 'GitHub Copilot CLI · 2026-07-16 · Files and Data: Add canvas support
   in the CLI for extension-driven interactions'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-07-06-we-re-rolling-out-code-interpreter-to-all-chatgpt-plus-users-over-the-next-week-66255e|Code
-    interpreter is now rolling out in beta on web]]'
+  first_in_tracked: '[[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2
+    Files and Data changes in 0.2.2]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1106
+  lag_days: 1148
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 8261638c515a4b1cfb6ee2ad19c64fbef0452a9086d6cd568f792c3ce6ef1c21
+machine_hash: d0c50b8a613b2d6325017e198f59a23a4c473ca95f83977a6325d5e04f82f0e3
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -92,13 +92,13 @@ type: change
 ## Nearby in Files and Data
 
 - Earlier: 2026-07-15 · Claude Code · [[Changes/Claude Code/2026-07-15-claude-in-chrome-hardened-file-upload-path-validation|Claude in Chrome: hardened file-upload path validation]]
-- Later: 2026-07-21 · Codex CLI · [[Changes/Codex CLI/2026-07-21-33167-document-the-windows-exec-yield-time-range-copyberry|♯33167 Document the Windows exec yield time range @copyberry]]
+- Later: 2026-07-17 · Dify · [[Changes/Dify/2026-07-17-2-files-and-data-changes-in-1-16-0|2 Files and Data changes in 1.16.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-07-06 · ChatGPT · [[Changes/ChatGPT/2023-07-06-we-re-rolling-out-code-interpreter-to-all-chatgpt-plus-users-over-the-next-week-66255e|Code interpreter is now rolling out in beta on web]]
+- Earliest same-theme entry in the tracked set: 2023-05-25 · Dify · [[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2 Files and Data changes in 0.2.2]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

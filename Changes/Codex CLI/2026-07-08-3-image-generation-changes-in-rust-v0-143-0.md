@@ -4,20 +4,20 @@ date: '2026-07-08'
 description: 'Codex CLI · 2026-07-08 · Image Generation: 3 changes in 0.143.0 — #29513
   [codex] allow image generation with provider auth @richardopenai'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2024-08-08-we-re-rolling-out-the-ability-for-chatgpt-free-users-to-create-up-to-two-images-2c505c|DALL·E
-    3 for ChatGPT Free users]]'
+  first_in_tracked: "[[Changes/Open WebUI/2024-03-10-dall-e-integration-introduced-dall-e-integration-for-image-generation-alongside|\U0001F3A8
+    DALL-E Integration]]"
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 699
+  lag_days: 850
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: image-generation
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: d24603ad38aae9f4e2f55a57a1b880cd4defd1ef8f27a73095adb28e04275e5d
+machine_hash: 1b638e06ac59d075e6a70eafc92e37f9962e93a5ea7171fe6e42867cb04d6c97
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -45,12 +45,12 @@ record:
   title: 3 Image Generation changes in rust-v0.143.0
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-06-04-3-image-generation-changes-in-rust-v0-137-0|3 Image
-  Generation changes in rust-v0.137.0]]'
-- '[[Changes/Codex CLI/2026-06-08-2-image-generation-changes-in-rust-v0-138-0|2 Image
-  Generation changes in rust-v0.138.0]]'
 - '[[Changes/Codex CLI/2026-06-15-27920-handle-standalone-image-generation-failures-as-terminal-items-won-openai|♯27920
   Handle standalone image generation failures as terminal items @won-openai]]'
+- '[[Changes/Lovable/2026-06-22-better-standard-image-generation-while-building|Better
+  standard image generation while building]]'
+- "[[Changes/Open WebUI/2026-06-29-usable-chat-input-on-mobile-with-many-tools-when-skills-tools-terminal-web-searc|\U0001F4F1
+  Usable chat input on mobile with many tools. When skills, tools, terminal, web…]]"
 source_release: '[[Releases/Codex CLI/codex-cli-2026-07-08-rust-v0-143-0-github-350650561-9eba805c|codex-cli-2026-07-08-rust-v0-143-0-github-350650561-9eba805c]]'
 source_type: github_releases
 theme: image-generation
@@ -100,14 +100,14 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.143.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Image Generation
 
-- Earlier: 2026-06-15 · Codex CLI · [[Changes/Codex CLI/2026-06-15-27920-handle-standalone-image-generation-failures-as-terminal-items-won-openai|♯27920 Handle standalone image generation failures as terminal items @won-openai]]
-- Later: 2026-07-09 · Codex CLI · [[Changes/Codex CLI/2026-07-09-31596-use-the-image-generation-extension-by-default-won-openai|♯31596 Use the image generation extension by default @won-openai]]
+- Earlier: 2026-06-29 · Open WebUI · [[Changes/Open WebUI/2026-06-29-usable-chat-input-on-mobile-with-many-tools-when-skills-tools-terminal-web-searc|📱 Usable chat input on mobile with many tools. When skills, tools, terminal, web…]]
+- Later: 2026-07-08 · Lovable · [[Changes/Lovable/2026-07-08-images-lovable-generates-are-labeled-as-ai-generated|Images Lovable generates are labeled as AI-generated]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2024-08-08 · ChatGPT · [[Changes/ChatGPT/2024-08-08-we-re-rolling-out-the-ability-for-chatgpt-free-users-to-create-up-to-two-images-2c505c|DALL·E 3 for ChatGPT Free users]]
+- Earliest same-theme entry in the tracked set: 2024-03-10 · Open WebUI · [[Changes/Open WebUI/2024-03-10-dall-e-integration-introduced-dall-e-integration-for-image-generation-alongside|🎨 DALL-E Integration]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

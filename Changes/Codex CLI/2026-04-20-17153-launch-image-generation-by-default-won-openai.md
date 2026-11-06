@@ -4,20 +4,20 @@ date: '2026-04-20'
 description: 'Codex CLI · 2026-04-20 · Image Generation: #17153 Launch image generation
   by default @won-openai'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2024-08-08-we-re-rolling-out-the-ability-for-chatgpt-free-users-to-create-up-to-two-images-2c505c|DALL·E
-    3 for ChatGPT Free users]]'
+  first_in_tracked: "[[Changes/Open WebUI/2024-03-10-dall-e-integration-introduced-dall-e-integration-for-image-generation-alongside|\U0001F3A8
+    DALL-E Integration]]"
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 620
+  lag_days: 771
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: image-generation
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: fbf807cf0752df3faaf037f464c423918b8b8b7b540f9dbca4a74796369dd774
+machine_hash: d8ef1925060fb131b845e4f8ff4c9ed80149c186bfa8a5c486b9311b4414054f
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -40,10 +40,10 @@ record:
   title: '#17153 Launch image generation by default @won-openai'
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-03-10-image-generation-now-saves-output-files-into-the-current-working-directory-13607|Image
-  generation now saves output files into the current working directory]]'
 - '[[Changes/Codex CLI/2026-03-26-2-image-generation-changes-in-rust-v0-117-0|2 Image
   Generation changes in rust-v0.117.0]]'
+- '[[Changes/Replit/2026-04-03-stock-and-ai-generated-images-in-library|Stock and
+  AI-generated images in Library]]'
 - '[[Changes/Codex CLI/2026-04-20-tool-discovery-and-image-generation-are-now-enabled-by-default-with-higher-detai|Tool
   discovery and image generation are now enabled by default, with higher-detail…]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-04-20-rust-v0-122-0-github-311361536-9a010c0e|codex-cli-2026-04-20-rust-v0-122-0-github-311361536-9a010c0e]]'
@@ -86,14 +86,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Image Generation
 
-- Earlier: 2026-03-26 · Codex CLI · [[Changes/Codex CLI/2026-03-26-2-image-generation-changes-in-rust-v0-117-0|2 Image Generation changes in rust-v0.117.0]]
+- Earlier: 2026-04-03 · Replit · [[Changes/Replit/2026-04-03-stock-and-ai-generated-images-in-library|Stock and AI-generated images in Library]]
 - Later: 2026-04-21 · ChatGPT · [[Changes/ChatGPT/2026-04-21-we-re-introducing-chatgpt-images-2-0-our-new-image-generation-model-in-chatgpt-c|ChatGPT Images 2.0 in ChatGPT]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2024-08-08 · ChatGPT · [[Changes/ChatGPT/2024-08-08-we-re-rolling-out-the-ability-for-chatgpt-free-users-to-create-up-to-two-images-2c505c|DALL·E 3 for ChatGPT Free users]]
+- Earliest same-theme entry in the tracked set: 2024-03-10 · Open WebUI · [[Changes/Open WebUI/2024-03-10-dall-e-integration-introduced-dall-e-integration-for-image-generation-alongside|🎨 DALL-E Integration]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

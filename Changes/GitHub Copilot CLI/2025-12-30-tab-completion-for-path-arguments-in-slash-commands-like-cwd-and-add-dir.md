@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 5c342a4b7579d395a1db9e4b15d78eb43d5f7d0ef978aa19bb17de877f006928
+machine_hash: fe6d33e344cbd40d6274d4654950ae4289c04a6f3d16cb6eb6f3d59e8cab550a
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -41,10 +41,10 @@ record:
   title: Tab completion for path arguments in slash commands like `/cwd` and `/add-dir`
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2025-12-22-4-editor-experience-changes-in-v0-22-0|4 Editor
-  Experience changes in v0.22.0]]'
 - '[[Changes/Windsurf/2025-12-24-2-editor-experience-changes-in-v1-13-3|2 Editor Experience
   changes in v1.13.3]]'
+- '[[Changes/Dify/2025-12-25-2-editor-experience-changes-in-1-11-2|2 Editor Experience
+  changes in 1.11.2]]'
 - '[[Changes/Windsurf/2025-12-27-tab-fixes-and-improvements|Tab fixes and improvements]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2025-12-30-v0-0-373-github-273424977-1bfbdae6|github-copilot-cli-2025-12-30-v0-0-373-github-273424977-1bfbdae6]]'
 source_type: github_releases

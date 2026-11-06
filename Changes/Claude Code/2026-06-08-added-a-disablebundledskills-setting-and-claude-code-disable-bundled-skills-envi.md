@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: a569e90f0e090fd6f3651e05909843c737caded436b89f56fe8f9686357d4c49
+machine_hash: 18b7370cb5cafa6e4481fa3467707a8aa634965ce7b975888cf42404ef2ed7f3
 product: claude-code
 product_name: Claude Code
 record:
@@ -46,10 +46,10 @@ record:
   title: Added a `disableBundledSkills` setting and `CLAUDE_CODE_DISABLE_BUNDLED_SKILLS`…
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-06-05-2-model-support-changes-in-v1-0-60|2 Model
-  Support changes in v1.0.60]]'
 - '[[Changes/Claude Code/2026-06-06-3-model-support-changes-in-v2-1-166|3 Model Support
   changes in v2.1.166]]'
+- '[[Changes/Ollama/2026-06-07-openai-compatible-api-models-list-now-aligns-with-available-model-tags|OpenAI-compatible
+  API models list now aligns with available model tags]]'
 - '[[Changes/ChatGPT/2026-06-08-long-press-send-to-choose-a-model-users-on-paid-plans-can-now-long-press-the-sen|Long-press
   send to choose a model]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-06-08-v2-1-169-github-336158564-d513d69d|claude-code-2026-06-08-v2-1-169-github-336158564-d513d69d]]'

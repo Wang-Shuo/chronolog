@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 8358647dc1765aedb59bd0e10aed2ac1da2e6ebddd0927e10d343b2df429f782
+machine_hash: 655e72898526419168f822e86c7a0453fd58a045087eb1d282d91d2eb2ba7bcd
 product: openhands
 product_name: OpenHands
 record:
@@ -55,12 +55,11 @@ record:
     client
   type: change
 related_changes:
-- '[[Changes/Cline/2024-12-12-3-apps-and-integrations-changes-in-v2-2-0|3 Apps and
-  Integrations changes in v2.2.0]]'
-- '[[Changes/Cline/2024-12-18-enable-or-disable-for-reading-files-directories-editing-files-executing-terminal|Enable
-  or disable for]]'
 - '[[Changes/Cline/2025-01-21-add-on-off-toggle-for-mcp-servers-to-disable-them-when-not-in-use-and-auto-appro|Add
   on/off toggle for MCP servers to disable them when not in use, and auto-approve…]]'
+- '[[Changes/Replit/2025-01-24-assistant-workflows|Assistant + Workflows]]'
+- '[[Changes/Lovable/2025-01-28-support-for-resend-has-improved-with-the-transition-to-the-node-sdk|Support
+  for Resend has improved with the transition to the Node SDK]]'
 source_release: '[[Releases/OpenHands/openhands-2025-01-29-0-22-0-github-197443017-47ca858b|openhands-2025-01-29-0-22-0-github-197443017-47ca858b]]'
 source_type: github_releases
 theme: apps-integrations
@@ -89,7 +88,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2025-01-21 · Cline · [[Changes/Cline/2025-01-21-add-on-off-toggle-for-mcp-servers-to-disable-them-when-not-in-use-and-auto-appro|Add on/off toggle for MCP servers to disable them when not in use, and auto-approve…]]
+- Earlier: 2025-01-28 · Lovable · [[Changes/Lovable/2025-01-28-support-for-resend-has-improved-with-the-transition-to-the-node-sdk|Support for Resend has improved with the transition to the Node SDK]]
 - Later: 2025-01-30 · Cline · [[Changes/Cline/2025-01-30-add-advanced-settings-to-remove-mcp-prompts-from-requests-to-save-tokens-enable|Add Advanced Settings to remove MCP prompts from requests to save tokens…]]
 <!-- chronolog:end -->
 

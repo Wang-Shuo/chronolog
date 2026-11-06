@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 43f05f5412a70f6821035ab46d94eaaabfa0336e073eec95feebb7f36467b141
+machine_hash: 0ea34f5d1578f9961075e8612b00798ab12ab518c7ebae286f77ed3e50e70ed3
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -52,12 +52,10 @@ record:
   title: 5 Apps and Integrations changes in v0.0.415
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-02-20-claude-code-simple-mode-now-also-disables-mcp-tools-attachments-hooks-and-claude|CLAUDE_CODE_SIMPLE
-  mode now also disables MCP tools, attachments, hooks…]]'
-- '[[Changes/GitHub Copilot CLI/2026-02-20-support-remote-plugin-sources-github-repos-and-git-urls-in-marketplace-json-plug|Support
-  remote plugin sources (GitHub repos and git URLs) in marketplace.json plugin…]]'
 - '[[Changes/GitHub Copilot CLI/2026-02-21-explore-agent-can-now-use-github-mcp-tools-when-available|Explore
   agent can now use GitHub MCP tools when available]]'
+- '[[Changes/ElevenLabs/2026-02-23-sdk-releases|SDK Releases]]'
+- '[[Changes/ElevenLabs/2026-02-23-python-sdk|Python SDK]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-02-23-v0-0-415-github-289607575-3b8d8d7c|github-copilot-cli-2026-02-23-v0-0-415-github-289607575-3b8d8d7c]]'
 source_type: github_releases
 theme: apps-integrations
@@ -99,8 +97,8 @@ Source: https://github.com/github/copilot-cli/releases/tag/v0.0.415
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-02-21 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-02-21-explore-agent-can-now-use-github-mcp-tools-when-available|Explore agent can now use GitHub MCP tools when available]]
-- Later: 2026-02-24 · Claude Code · [[Changes/Claude Code/2026-02-24-4-apps-and-integrations-changes-in-v2-1-51|4 Apps and Integrations changes in v2.1.51]]
+- Earlier: 2026-02-23 · ElevenLabs · [[Changes/ElevenLabs/2026-02-23-python-sdk|Python SDK]]
+- Later: 2026-02-23 · Lovable · [[Changes/Lovable/2026-02-23-amplitude-mcp-available-as-a-chat-connector|Amplitude MCP available as a chat connector]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

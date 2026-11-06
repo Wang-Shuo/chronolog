@@ -4,20 +4,20 @@ date: '2025-03-23'
 description: 'Cursor · 2025-03-23 · Enterprise and Administration: Enhanced visibility
   of auto-run controls configured by team admins, clarifying when they are active'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2024-03-20-admin-improvements-team-admins-can-now-mark-themselves-as-unpaid-users-and-can-s|Admin
-    improvements: Team admins can now mark themselves as unpaid users and can see…]]'
+  first_in_tracked: '[[Changes/Gemini/2023-05-05-access-for-google-workspace-accounts|Access
+    for Google Workspace accounts]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 368
+  lag_days: 688
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: a2f99d79fb36cc42ae23d0c19ed228bc1ed0577822b08dedfc664cefc5e2049a
+machine_hash: c21c3d859488c43313c2b118c955404677f5dba350504c2f27cab642dc9f4015
 product: cursor
 product_name: Cursor
 record:
@@ -42,10 +42,11 @@ record:
   title: Enhanced visibility of auto-run controls configured by team admins, clarifying…
   type: change
 related_changes:
-- '[[Changes/Cursor/2024-03-20-admin-improvements-team-admins-can-now-mark-themselves-as-unpaid-users-and-can-s|Admin
-  improvements: Team admins can now mark themselves as unpaid users and can see…]]'
-- '[[Changes/Cline/2024-08-31-adds-support-for-reading-pdf-and-docx-files-try-turn-my-business-plan-docx-into|Adds
-  support for reading .pdf and .docx files…]]'
+- "[[Changes/Open WebUI/2025-01-22-chat-controls-permissions-admins-can-now-disable-chat-controls-access-for-users|\U0001F512
+  Chat Controls Permissions]]"
+- '[[Changes/ElevenLabs/2025-03-17-elevencreative-studio|ElevenCreative Studio]]'
+- '[[Changes/Dify/2025-03-18-ci-deploy-enterprise-by-garearc-in-https-github-com-langgenius-dify-pull-15699|Ci/deploy
+  enterprise]]'
 source_release: '[[Releases/Cursor/cursor-2025-03-23-0-48-x-https-cursor-com-changelog-0-48-x-7b3e771b|cursor-2025-03-23-0-48-x-https-cursor-com-changelog-0-48-x-7b3e771b]]'
 source_type: cursor_changelog
 theme: enterprise-admin
@@ -88,14 +89,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Enterprise and Administration
 
-- Earlier: 2024-08-31 · Cline · [[Changes/Cline/2024-08-31-adds-support-for-reading-pdf-and-docx-files-try-turn-my-business-plan-docx-into|Adds support for reading .pdf and .docx files…]]
-- Later: 2025-04-16 · OpenHands · [[Changes/OpenHands/2025-04-16-added-support-for-github-enterprise-and-on-prem-gitlab-in-the-github-action-reso|Added support for GitHub Enterprise and on-prem GitLab in the GitHub Action resolver]]
+- Earlier: 2025-03-18 · Dify · [[Changes/Dify/2025-03-18-ci-deploy-enterprise-by-garearc-in-https-github-com-langgenius-dify-pull-15699|Ci/deploy enterprise]]
+- Later: 2025-04-01 · Open WebUI · [[Changes/Open WebUI/2025-04-01-2-enterprise-and-administration-changes-in-v0-6-0|2 Enterprise and Administration changes in v0.6.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2024-03-20 · Cursor · [[Changes/Cursor/2024-03-20-admin-improvements-team-admins-can-now-mark-themselves-as-unpaid-users-and-can-s|Admin improvements: Team admins can now mark themselves as unpaid users and can see…]]
+- Earliest same-theme entry in the tracked set: 2023-05-05 · Gemini · [[Changes/Gemini/2023-05-05-access-for-google-workspace-accounts|Access for Google Workspace accounts]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: ebf56f551eb6d3f7a657eceb06d64b033ac95f7aa81739210e6e26feba5c5091
+machine_hash: 5eb3ad0407e6941a32712737faf0392193f947e3e16716582c02ef81fbdf3ff3
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -52,10 +52,10 @@ record:
   title: 4 Mobile and Desktop changes in v1.0.85
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-14-improved-mobile-to-show-a-single-qr-code-for-claude-ai-mobile-which-opens-the-ri|Improved
-  /mobile to show a single QR code for claude.ai/mobile, which opens…]]'
-- '[[Changes/Claude Code/2026-09-15-claude-code-on-the-web-removed-the-full-page-desktop-app-download-screen-that-ne|Claude
-  Code on the web Removed the full-page desktop-app download screen that new…]]'
+- '[[Changes/Lovable/2026-09-15-connect-your-app-to-whatsapp-business|Connect your
+  app to WhatsApp Business]]'
+- '[[Changes/Ollama/2026-09-15-added-ollama-apps-to-open-the-desktop-app-s-apps-page-directly-on-macos-and-wind|Added
+  ollama://apps to open the desktop app’s Apps page directly on macOS and Windows]]'
 - '[[Changes/Windsurf/2026-09-15-devin-desktop|Devin Desktop]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-09-16-v1-0-85-github-389603482-889a46d9|github-copilot-cli-2026-09-16-v1-0-85-github-389603482-889a46d9]]'
 source_type: github_releases

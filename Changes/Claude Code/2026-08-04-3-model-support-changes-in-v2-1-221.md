@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: c3fad1dc40cfd19c39ebb89d82c6c2eafb67099eec34d7ff78715aa600b4868b
+machine_hash: 5e69b95a913f072d2345e6717acf5e0a00e324278aeb76ad03ef425612756660
 product: claude-code
 product_name: Claude Code
 record:
@@ -47,8 +47,8 @@ record:
   title: 3 Model Support changes in v2.1.221
   type: change
 related_changes:
-- '[[Changes/Cline/2026-07-31-legacy-bundle-legacy-extension-3fdc186f1-4-0-12-free-model-button-wording|Legacy
-  bundle: legacy-extension @ 3fdc186f1 (4.0.12 + free-model button wording)]]'
+- '[[Changes/v0/2026-07-31-3-model-support-changes-in-claude-opus-5-direct-figma-inspection|3
+  Model Support changes in Claude Opus 5, direct Figma inspection…]]'
 - '[[Changes/Cline/2026-08-02-4-model-support-changes-in-v4-1-3|4 Model Support changes
   in v4.1.3]]'
 - '[[Changes/GitHub Copilot CLI/2026-08-03-the-allow-all-auto-safety-judge-model-is-no-longer-user-configurable-the-judge-m|The

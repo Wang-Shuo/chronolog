@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 621bfeba437f923542f26a1c3c8ef39b1d197e9ea64cbe1c3afe25599b290248
+machine_hash: 53e2a8ec0b23b18eaaf3b17401f623278721b02a19d433e6c7e26ad11980ee1b
 product: cline
 product_name: Cline
 record:
@@ -57,12 +57,12 @@ record:
   title: Add support for free Cline models, shown as "(free)" in the model picker…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-07-24-3-model-support-changes-in-v2-1-219|3 Model Support
-  changes in v2.1.219]]'
-- '[[Changes/Cline/2026-07-24-2-model-support-changes-in-v4-0-11|2 Model Support changes
-  in v4.0.11]]'
 - '[[Changes/GitHub Copilot CLI/2026-07-24-add-support-for-claude-opus-5|Add support
   for Claude Opus 5]]'
+- '[[Changes/Ollama/2026-07-25-quantize-draft-model-output-heads-at-the-requested-type-when-creating-speculativ|Quantize
+  draft-model output heads at the requested type when creating…]]'
+- '[[Changes/Open WebUI/2026-07-27-39-model-support-changes-in-v0-11-0|39 Model Support
+  changes in v0.11.0]]'
 source_release: '[[Releases/Cline/cline-2026-07-28-v4-0-12-github-361420812-64b2a6e4|cline-2026-07-28-v4-0-12-github-361420812-64b2a6e4]]'
 source_type: github_releases
 theme: model-support
@@ -91,8 +91,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-07-24 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-07-24-add-support-for-claude-opus-5|Add support for Claude Opus 5]]
-- Later: 2026-07-28 · Gemini CLI · [[Changes/Gemini CLI/2026-07-28-2-model-support-changes-in-v0-53-0|2 Model Support changes in v0.53.0]]
+- Earlier: 2026-07-27 · Open WebUI · [[Changes/Open WebUI/2026-07-27-39-model-support-changes-in-v0-11-0|39 Model Support changes in v0.11.0]]
+- Later: 2026-07-28 · Dify · [[Changes/Dify/2026-07-28-6-model-support-changes-in-1-16-1|6 Model Support changes in 1.16.1]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

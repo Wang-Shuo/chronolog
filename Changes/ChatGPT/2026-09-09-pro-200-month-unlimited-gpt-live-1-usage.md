@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: pricing
-machine_hash: 01abb10253fe2cd2dface6c88575829e2c7db80ecf7a6df69f0828983b7eb5ee
+machine_hash: cf0755c146e83ab355b24bd3bf49f6f14f0549c1b24e98ab05728e1e48498568
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -43,12 +43,12 @@ record:
   title: 'Pro ($200/month): Unlimited GPT-Live-1 usage'
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-09-01-rate-limit-banners-offer-actions-for-checking-usage-managing-credits-resetting-l|Rate-limit
-  banners offer actions for checking usage, managing credits, resetting…]]'
 - '[[Changes/Cline/2026-09-02-cost-estimates-no-longer-appear-in-task-history-for-subscription-billed-tasks-cl|Cost
   estimates no longer appear in task history for subscription-billed tasks…]]'
 - '[[Changes/Codex CLI/2026-09-03-41944-https-github-com-openai-codex-pull-41944-emit-turn-cost-telemetry-for-chat|♯41944((source
   link) Emit turn cost telemetry…]]'
+- '[[Changes/Lovable/2026-09-07-transfer-primary-ownership-of-your-workspace|Transfer
+  primary ownership of your workspace]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-09-09-updated-models-and-usage-limits-in-chatgpt-voice-03e6b03f|chatgpt-2026-09-09-updated-models-and-usage-limits-in-chatgpt-voice-03e6b03f]]'
 source_type: chatgpt_changelog
 theme: pricing-model
@@ -78,7 +78,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Pricing Model
 
-- Earlier: 2026-09-03 · Codex CLI · [[Changes/Codex CLI/2026-09-03-41944-https-github-com-openai-codex-pull-41944-emit-turn-cost-telemetry-for-chat|♯41944((source link) Emit turn cost telemetry…]]
+- Earlier: 2026-09-07 · Lovable · [[Changes/Lovable/2026-09-07-transfer-primary-ownership-of-your-workspace|Transfer primary ownership of your workspace]]
 - Later: 2026-09-10 · Claude Code · [[Changes/Claude Code/2026-09-10-2-pricing-model-changes-in-v2-1-268|2 Pricing Model changes in v2.1.268]]
 <!-- chronolog:end -->
 

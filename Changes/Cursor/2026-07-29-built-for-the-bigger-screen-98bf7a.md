@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: f82c7762b8c7ee9df0e9e0224df521e4147e1d8fe7550d19d0daf25a7d5aaa13
+machine_hash: 9a4e025b8727e5e550b2b3d354452d2b01e99c2c747356717bfe5eafaa640137
 product: cursor
 product_name: Cursor
 record:
@@ -59,9 +59,10 @@ record:
   title: Built for the bigger screen
   type: change
 related_changes:
-- '[[Changes/Windsurf/2026-07-17-devin-desktop|Devin Desktop]]'
-- '[[Changes/Codex CLI/2026-07-21-3-mobile-and-desktop-changes-in-rust-v0-145-0|3
-  Mobile and Desktop changes in rust-v0.145.0]]'
+- '[[Changes/Lovable/2026-07-24-open-projects-in-background-tabs-on-desktop|Open projects
+  in background tabs on desktop]]'
+- '[[Changes/Open WebUI/2026-07-27-2-mobile-and-desktop-changes-in-v0-11-0|2 Mobile
+  and Desktop changes in v0.11.0]]'
 - '[[Changes/Codex CLI/2026-07-29-2-mobile-and-desktop-changes-in-rust-v0-146-0|2
   Mobile and Desktop changes in rust-v0.146.0]]'
 source_release: '[[Releases/Cursor/cursor-2026-07-29-cursor-now-on-ipad-https-cursor-com-changelog-ipad-d2eeee4c|cursor-2026-07-29-cursor-now-on-ipad-https-cursor-com-changelog-ipad-d2eeee4c]]'

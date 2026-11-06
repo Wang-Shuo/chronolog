@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: 67ec498e3e4b2b9efa2dc981e61d4eec2fe1c3b77847384692850e3fa1ca3147
+machine_hash: c412b603882ac7fe47d4218a5a843100e78f8533a900042ebb3870fb4f799ab2
 product: cline
 product_name: Cline
 record:
@@ -42,10 +42,10 @@ record:
   title: Add Skills system for reusable, on-demand agent instructions
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-01-08-new-agent-command-is-now-the-primary-cli-entrypoint-cursor-agent-remains-as-a-ba|New
-  agent command is now the primary CLI entrypoint. cursor-agent remains…]]'
 - '[[Changes/GitHub Copilot CLI/2026-01-08-task-tool-subagents-can-now-process-images|Task
   tool subagents can now process images]]'
+- '[[Changes/v0/2026-01-08-improved-how-large-inputs-are-stored-in-the-agent-s-filesystem-for-better-recall|Improved
+  how large inputs are stored in the agent''s filesystem for better recall]]'
 - '[[Changes/Claude Code/2026-01-09-added-agent-type-to-sessionstart-hook-input-populated-if-agent-is-specified|Added
   agent_type to SessionStart hook input, populated if --agent is specified]]'
 source_release: '[[Releases/Cline/cline-2026-01-09-v3-48-0-github-275594973-5b3ea2b9|cline-2026-01-09-v3-48-0-github-275594973-5b3ea2b9]]'

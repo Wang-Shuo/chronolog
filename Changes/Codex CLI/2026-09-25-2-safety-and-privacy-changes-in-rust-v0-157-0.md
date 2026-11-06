@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 808e58a82d15c19157cb156f69c2fd642165dab8beb048c9cf04c52362e169d7
+machine_hash: e00338560cfb003cbb74b646d414a61cd3c7b3b74cbc85acfc174a80c02ec513
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -95,7 +95,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.157.0
 ## Nearby in Safety and Privacy
 
 - Earlier: 2026-09-25 · Claude Code · [[Changes/Claude Code/2026-09-25-3-safety-and-privacy-changes-in-v2-1-283|3 Safety and Privacy changes in v2.1.283]]
-- Later: 2026-09-25 · OpenHands · [[Changes/OpenHands/2026-09-25-fix-mcp-keep-oauth-credentials-on-cloud-saves-and-skip-consent-when-tokens-still|fix(mcp): keep OAuth credentials on cloud saves and skip consent when tokens still work]]
+- Later: 2026-09-25 · Lovable · [[Changes/Lovable/2026-09-25-account-settings-have-moved-to-their-own-dialog|Account settings have moved to their own dialog]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

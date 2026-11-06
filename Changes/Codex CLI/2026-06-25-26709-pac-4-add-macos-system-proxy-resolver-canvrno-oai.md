@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 0c173c647ae26c21f6127bcea3377053779b965c462d3d25b6d25cb2841bcd2b
+machine_hash: cd8816c61ee85384260ae585a9f6f581a735a6a204be94b41f6ea7c86b50efac
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -41,8 +41,8 @@ record:
   title: '#26709 PAC 4 - Add macOS system proxy resolver @canvrno-oai'
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-06-18-chatgpt-now-has-more-ways-to-help-with-common-questions-from-pronunciation-guida|ChatGPT
-  now has more ways to help with common questions, from pronunciation guidance…]]'
+- '[[Changes/v0/2026-06-19-on-mobile-an-expired-session-while-sending-opens-the-re-authenticate-flow-instea|On
+  mobile, an expired session while sending opens the re-authenticate flow instead…]]'
 - '[[Changes/Codex CLI/2026-06-22-28791-bazel-refresh-expired-macos-sdk-pin-anp-oai|♯28791
   bazel: refresh expired macOS SDK pin @anp-oai]]'
 - '[[Changes/Windsurf/2026-06-23-devin-desktop|Devin Desktop]]'
@@ -81,7 +81,7 @@ type: change
 ## Nearby in Mobile and Desktop
 
 - Earlier: 2026-06-23 · Windsurf · [[Changes/Windsurf/2026-06-23-devin-desktop|Devin Desktop]]
-- Later: 2026-06-29 · Claude Code · [[Changes/Claude Code/2026-06-29-improved-background-session-reliability-long-running-commands-and-workflows-now|Improved background session reliability]]
+- Later: 2026-06-25 · Dify · [[Changes/Dify/2026-06-25-install-it-on-any-platform-macos-linux-windows-with-a-single-command-and-no-acce|Install it on any platform (macOS, Linux, Windows) with a single command and no…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

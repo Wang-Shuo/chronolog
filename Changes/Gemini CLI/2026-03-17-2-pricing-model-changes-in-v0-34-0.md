@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: bc1b7cb56033ec9833115b92338bd4ba92e73fde1d960b204d3821e30fb5c075
+machine_hash: ffef359aea9a71a86a8bc4306bc422febd5dee7fd90abfcfa696c3fec1d9fa79
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -43,12 +43,12 @@ record:
   title: 2 Pricing Model changes in v0.34.0
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2026-03-03-feat-billing-implement-g1-ai-credits-overage-flow-with-billing-telemetry-by-gsqu|feat(billing):
-  implement G1 AI credits overage flow with billing telemetry]]'
-- '[[Changes/Cline/2026-03-04-token-cost-updates-now-happen-immediately-as-usage-chunks-arrive-not-after-tool|Token/cost
-  updates now happen immediately as usage chunks arrive, not after tool execution]]'
 - '[[Changes/ChatGPT/2026-03-10-eligible-chatgpt-plus-and-pro-users-can-now-turn-on-auto-top-up-for-credits-used-5e9d54|Auto
   top-up for flexible usage credits]]'
+- '[[Changes/v0/2026-03-11-improved-billing-page-with-credit-expiration-dates-after-coupon-redemption|Improved
+  billing page with credit expiration dates after coupon redemption]]'
+- '[[Changes/Dify/2026-03-17-test-add-comprehensive-unit-and-integration-tests-for-billing-components-by-codi|test:
+  add comprehensive unit and integration tests for billing components]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2026-03-17-v0-34-0-github-298158994-68230a41|gemini-cli-2026-03-17-v0-34-0-github-298158994-68230a41]]'
 source_type: github_releases
 theme: pricing-model
@@ -94,7 +94,7 @@ Source: https://github.com/google-gemini/gemini-cli/releases/tag/v0.34.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Pricing Model
 
-- Earlier: 2026-03-10 · ChatGPT · [[Changes/ChatGPT/2026-03-10-eligible-chatgpt-plus-and-pro-users-can-now-turn-on-auto-top-up-for-credits-used-5e9d54|Auto top-up for flexible usage credits]]
+- Earlier: 2026-03-17 · Dify · [[Changes/Dify/2026-03-17-test-add-comprehensive-unit-and-integration-tests-for-billing-components-by-codi|test: add comprehensive unit and integration tests for billing components]]
 - Later: 2026-03-19 · Cline · [[Changes/Cline/2026-03-19-add-missing-fireworks-serverless-models-and-pricing|Add missing Fireworks serverless models and pricing]]
 <!-- chronolog:end -->
 

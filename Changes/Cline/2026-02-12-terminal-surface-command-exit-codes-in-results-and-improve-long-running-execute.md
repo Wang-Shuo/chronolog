@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 1fa186d2afef0b389457553bc361b86d24bc3254c170e1095112449e2e0e6071
+machine_hash: 0af80353491d2c36f28910427e02a540b9befd8e25ee33924b7f04af24a452fd
 product: cline
 product_name: Cline
 record:
@@ -41,10 +41,10 @@ record:
   title: 'Terminal: surface command exit codes in results and improve long-running…'
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2026-02-10-6-developer-workflow-changes-in-v0-28-0|6 Developer
-  Workflow changes in v0.28.0]]'
 - '[[Changes/Codex CLI/2026-02-11-9-developer-workflow-changes-in-rust-v0-99-0|9 Developer
   Workflow changes in rust-v0.99.0]]'
+- '[[Changes/Dify/2026-02-11-please-use-the-following-command-instead-for-details-please-read-this-https-gith|
+  Please use the following command instead]]'
 - '[[Changes/GitHub Copilot CLI/2026-02-11-3-developer-workflow-changes-in-v0-0-407|3
   Developer Workflow changes in v0.0.407]]'
 source_release: '[[Releases/Cline/cline-2026-02-12-v3-58-0-github-285499006-63eb7b5c|cline-2026-02-12-v3-58-0-github-285499006-63eb7b5c]]'

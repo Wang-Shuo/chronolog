@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 26d761a956798c782ebf1e4e5eea9027ce782aeb596eeb712fdf8c397c6a0790
+machine_hash: 3ad03ba01b70440dc88378ecafbd7f95f7f6d40bafb5526a939d2927a106f1ea
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -47,10 +47,10 @@ record:
   title: 3 Interface Experience changes in v1.0.81
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-08-26-changed-the-prompt-footer-pr-badge-to-skip-its-github-re-check-on-terminal-refoc|Changed
-  the prompt-footer PR badge to skip its GitHub re-check on terminal refocus…]]'
 - '[[Changes/Codex CLI/2026-08-26-6-interface-experience-changes-in-rust-v0-150-0|6
   Interface Experience changes in rust-v0.150.0]]'
+- '[[Changes/Lovable/2026-08-26-resources-removed-from-the-dashboard-sidebar|Resources
+  removed from the dashboard sidebar]]'
 - '[[Changes/Claude Code/2026-08-27-2-interface-experience-changes-in-v2-1-248|2 Interface
   Experience changes in v2.1.248]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-08-27-v1-0-81-github-377993714-523d567a|github-copilot-cli-2026-08-27-v1-0-81-github-377993714-523d567a]]'

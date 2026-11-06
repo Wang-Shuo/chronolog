@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: c8b375df9c2a3d2ee9c4f545b4a1785bcb3bfc326b1cbaac326fdf19f8aec257
+machine_hash: 3ca56a48401a365a34c8fba9fd7e9498102eed2c4e8e5f37eee186098efa09cd
 product: windsurf
 product_name: Windsurf
 record:
@@ -44,12 +44,12 @@ record:
   title: 1.13.8 GPT-5.2 Codex model changelog banner
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-01-14-8-model-support-changes-in-rust-v0-81-0|8 Model
-  Support changes in rust-v0.81.0]]'
 - '[[Changes/Gemini CLI/2026-01-14-6-model-support-changes-in-v0-24-0|6 Model Support
   changes in v0.24.0]]'
 - '[[Changes/GitHub Copilot CLI/2026-01-14-add-support-for-gpt-5-2-codex-model|Add
   support for GPT-5.2-Codex model]]'
+- '[[Changes/Ollama/2026-01-14-2-model-support-changes-in-v0-14-1|2 Model Support
+  changes in v0.14.1]]'
 source_release: '[[Releases/Windsurf/windsurf-2026-01-14-v1-13-8-54ec1e09|windsurf-2026-01-14-v1-13-8-54ec1e09]]'
 source_type: windsurf_changelog
 theme: model-support
@@ -79,7 +79,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-01-14 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-01-14-add-support-for-gpt-5-2-codex-model|Add support for GPT-5.2-Codex model]]
+- Earlier: 2026-01-14 · Ollama · [[Changes/Ollama/2026-01-14-2-model-support-changes-in-v0-14-1|2 Model Support changes in v0.14.1]]
 - Later: 2026-01-15 · Cline · [[Changes/Cline/2026-01-15-adding-openai-gpt-5-2-codex-model-to-the-model-picker|Adding OpenAI gpt-5.2-codex model to the model picker]]
 <!-- chronolog:end -->
 

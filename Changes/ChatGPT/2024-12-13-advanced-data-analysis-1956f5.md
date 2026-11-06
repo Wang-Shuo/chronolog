@@ -3,20 +3,20 @@ card_id: chatgpt-2024-12-13-1956f5
 date: '2024-12-13'
 description: 'ChatGPT · 2024-12-13 · Files and Data: Advanced data analysis'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-07-06-we-re-rolling-out-code-interpreter-to-all-chatgpt-plus-users-over-the-next-week-66255e|Code
-    interpreter is now rolling out in beta on web]]'
+  first_in_tracked: '[[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2
+    Files and Data changes in 0.2.2]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 526
+  lag_days: 568
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 6d89e04d2f8a05eb995ebc131543a2dcec4f86837afeca6f9d1cb2e94c2c980d
+machine_hash: 2ac4aab64c83af4e61071245fb289ddaf9c0ad1f8c4bb8edbbbe4a5951e1787b
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -41,10 +41,10 @@ record:
   title: Advanced data analysis
   type: change
 related_changes:
-- '[[Changes/OpenHands/2024-06-29-2-files-and-data-changes-in-0-7-0|2 Files and Data
-  changes in 0.7.0]]'
-- '[[Changes/ChatGPT/2024-11-22-the-sidebar-when-pinned-can-now-stay-open-with-an-active-canvas-if-enough-space|The
-  sidebar when pinned can now stay open with an active Canvas if enough space…]]'
+- '[[Changes/Dify/2024-12-03-2-files-and-data-changes-in-0-13-0|2 Files and Data changes
+  in 0.13.0]]'
+- '[[Changes/Dify/2024-12-09-document-extractor-handles-pptx-files-full-support-for-pptx-file-types-is-back-a|Document
+  Extractor Handles PPTX Files]]'
 - '[[Changes/ChatGPT/2024-12-10-today-we-made-canvas-available-in-4o-by-default-for-all-users-free-and-paid-addi-5aaec4|Canvas]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2024-12-13-projects-in-chatgpt-01b98e1c|chatgpt-2024-12-13-projects-in-chatgpt-01b98e1c]]'
 source_type: chatgpt_changelog
@@ -77,13 +77,13 @@ type: change
 ## Nearby in Files and Data
 
 - Earlier: 2024-12-10 · ChatGPT · [[Changes/ChatGPT/2024-12-10-today-we-made-canvas-available-in-4o-by-default-for-all-users-free-and-paid-addi-5aaec4|Canvas]]
-- Later: 2025-01-15 · ChatGPT · [[Changes/ChatGPT/2025-01-15-edit-a-full-model-response-in-canvas|Edit a full model response in Canvas]]
+- Later: 2025-01-07 · Dify · [[Changes/Dify/2025-01-07-3-files-and-data-changes-in-0-15-0|3 Files and Data changes in 0.15.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-07-06 · ChatGPT · [[Changes/ChatGPT/2023-07-06-we-re-rolling-out-code-interpreter-to-all-chatgpt-plus-users-over-the-next-week-66255e|Code interpreter is now rolling out in beta on web]]
+- Earliest same-theme entry in the tracked set: 2023-05-25 · Dify · [[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2 Files and Data changes in 0.2.2]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

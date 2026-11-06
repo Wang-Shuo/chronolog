@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: 785c534ab6af717724ca13a3ad9759ef536227e423ead7ff6be7877ebf10289f
+machine_hash: a908713d84241f661697a421b80c2bd02ab98b2dca0ccdea3c2cef26a8ba38fd
 product: claude-code
 product_name: Claude Code
 record:
@@ -54,12 +54,11 @@ record:
   title: Improved background agent behavior
   type: change
 related_changes:
-- '[[Changes/OpenHands/2026-03-11-2-agent-mode-changes-in-1-5-0|2 Agent Mode changes
-  in 1.5.0]]'
-- '[[Changes/Cline/2026-03-12-added-github-copilot-instructions-md-for-coding-agents|Added
-  .github/copilot-instructions.md for coding agents]]'
 - '[[Changes/GitHub Copilot CLI/2026-03-13-send-follow-up-messages-to-background-agents-with-the-write-agent-tool-for-multi|Send
   follow-up messages to background agents with the write_agent tool…]]'
+- '[[Changes/Replit/2026-03-13-agent|Agent]]'
+- '[[Changes/Replit/2026-03-13-introducing-replit-agent-4|Introducing Replit Agent
+  4]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-03-14-v2-1-76-github-296929324-94cd2ffc|claude-code-2026-03-14-v2-1-76-github-296929324-94cd2ffc]]'
 source_type: github_releases
 theme: agent-mode
@@ -96,7 +95,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2026-03-13 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-03-13-send-follow-up-messages-to-background-agents-with-the-write-agent-tool-for-multi|Send follow-up messages to background agents with the write_agent tool…]]
+- Earlier: 2026-03-13 · Replit · [[Changes/Replit/2026-03-13-introducing-replit-agent-4|Introducing Replit Agent 4]]
 - Later: 2026-03-16 · Codex CLI · [[Changes/Codex CLI/2026-03-16-16-agent-mode-changes-in-rust-v0-115-0|16 Agent Mode changes in rust-v0.115.0]]
 <!-- chronolog:end -->
 

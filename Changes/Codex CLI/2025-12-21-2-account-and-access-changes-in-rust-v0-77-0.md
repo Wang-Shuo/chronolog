@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 5129034f885c4ef24053611aab8535518d9ebee2652b9f479c66305970d398e2
+machine_hash: 97446487645ef401b36d08801b58296060f4b69453a6460a781080707fc431d9
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -44,8 +44,8 @@ record:
   title: 2 Account and Access changes in rust-v0.77.0
   type: change
 related_changes:
-- '[[Changes/Cline/2025-12-11-add-loaders-to-login-buttons-by-barreirot-in-https-github-com-cline-cline-pull-7|Add
-  loaders to login buttons]]'
+- '[[Changes/Dify/2025-12-11-feat-unify-environment-variables-for-database-connection-and-authentication-by-b|feat:
+  Unify environment variables for database connection and authentication]]'
 - '[[Changes/Windsurf/2025-12-12-request-all-supported-scopes-if-no-scopes-are-provided-in-mcp-oauth-config|Request
   all supported scopes if no scopes are provided in MCP OAuth config]]'
 - '[[Changes/Gemini CLI/2025-12-16-allow-telemetry-exporters-to-gcp-to-utilize-user-s-login-credentials-if-requeste|Allow
@@ -86,7 +86,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.77.0
 ## Nearby in Account and Access
 
 - Earlier: 2025-12-16 · Gemini CLI · [[Changes/Gemini CLI/2025-12-16-allow-telemetry-exporters-to-gcp-to-utilize-user-s-login-credentials-if-requeste|Allow telemetry exporters to GCP to utilize user's login credentials, if requested]]
-- Later: 2025-12-22 · Cursor · [[Changes/Cursor/2025-12-22-2-account-and-access-changes-in-2-3|2 Account and Access changes in 2.3]]
+- Later: 2025-12-21 · Open WebUI · [[Changes/Open WebUI/2025-12-21-4-account-and-access-changes-in-v0-6-42|4 Account and Access changes in v0.6.42]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

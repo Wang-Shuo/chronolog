@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 4cb569b727fea6764ac69cece39285b49b3fff8bbf732a980e1232782a9df82d
+machine_hash: 244b7dad51ff2aa5e5587f7e48711df46a704ee08f7dc60367ea7ea29f70d165
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -43,12 +43,11 @@ record:
   title: Add support for GITHUB_ASKPASS environment variable for authentication
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2025-11-13-6419-support-exiting-from-the-login-menu-b46012e48|♯6419
-  — Support exiting from the login menu (b46012e48)]]'
-- '[[Changes/Cline/2025-11-18-retire-firebase-authentication-by-tseglevskiy-in-https-github-com-cline-cline-pu|Retire
-  firebase authentication]]'
+- '[[Changes/v0/2025-11-18-the-v0-ios-app-now-supports-sign-in-with-apple|Sign in
+  with Apple]]'
 - '[[Changes/Codex CLI/2025-11-19-bug-fix-rmcp-client-refresh-oauth-tokens-using-expires-at-6574-laelluo|:bug:
   fix(rmcp-client): refresh OAuth tokens using expires_at (♯6574) — @LaelLuo]]'
+- '[[Changes/Replit/2025-11-21-replit-auth-ui-improvements|Replit Auth UI improvements]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2025-11-24-v0-0-363-github-264932270-d93c3cfb|github-copilot-cli-2025-11-24-v0-0-363-github-264932270-d93c3cfb]]'
 source_type: github_releases
 theme: account-access
@@ -80,8 +79,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Account and Access
 
-- Earlier: 2025-11-19 · Codex CLI · [[Changes/Codex CLI/2025-11-19-bug-fix-rmcp-client-refresh-oauth-tokens-using-expires-at-6574-laelluo|:bug: fix(rmcp-client): refresh OAuth tokens using expires_at (♯6574) — @LaelLuo]]
-- Later: 2025-12-02 · Codex CLI · [[Changes/Codex CLI/2025-12-02-feat-support-login-as-an-option-on-shell-tool-mcp-by-bolinfest-in-7120|feat: support login as an option on shell-tool-mcp by @bolinfest in ♯7120]]
+- Earlier: 2025-11-21 · Replit · [[Changes/Replit/2025-11-21-replit-auth-ui-improvements|Replit Auth UI improvements]]
+- Later: 2025-11-24 · Open WebUI · [[Changes/Open WebUI/2025-11-24-7-account-and-access-changes-in-v0-6-37|7 Account and Access changes in v0.6.37]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

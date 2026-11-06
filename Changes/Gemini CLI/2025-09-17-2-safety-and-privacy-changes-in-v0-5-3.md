@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 719d74fd934f97d273c7b896519b392645b0aa93e97f89999e020542a20361cc
+machine_hash: 9c42ca77fd3cb864420c0472cab7588df5cd768643fed1e6c447d5dcb62c0084
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -43,8 +43,8 @@ record:
   title: 2 Safety and Privacy changes in v0.5.3
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2025-09-09-2-safety-and-privacy-changes-in-v0-4-0|2 Safety
-  and Privacy changes in v0.4.0]]'
+- '[[Changes/Open WebUI/2025-09-09-4-safety-and-privacy-changes-in-v0-6-27|4 Safety
+  and Privacy changes in v0.6.27]]'
 - '[[Changes/Codex CLI/2025-09-10-ci-build-faster-tests-with-nextest-add-shear-minor-macos-permission-adjustment|CI/Build:
   faster tests with nextest, add shear; minor macOS permission adjustment]]'
 - '[[Changes/Codex CLI/2025-09-15-3-safety-and-privacy-changes-in-rust-v0-36-0|3 Safety
@@ -88,7 +88,7 @@ Source: https://github.com/google-gemini/gemini-cli/releases/tag/v0.5.3
 ## Nearby in Safety and Privacy
 
 - Earlier: 2025-09-15 · Codex CLI · [[Changes/Codex CLI/2025-09-15-3-safety-and-privacy-changes-in-rust-v0-36-0|3 Safety and Privacy changes in rust-v0.36.0]]
-- Later: 2025-09-23 · Codex CLI · [[Changes/Codex CLI/2025-09-23-3880-add-non-sandbox-test-helper-3880|♯3880 Add non_sandbox_test helper (♯3880)]]
+- Later: 2025-09-17 · Open WebUI · [[Changes/Open WebUI/2025-09-17-microsoft-entra-id-authentication-type-support-was-added-for-azure-openai-connec|🔑 Microsoft Entra ID authentication type support was added for Azure OpenAI…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

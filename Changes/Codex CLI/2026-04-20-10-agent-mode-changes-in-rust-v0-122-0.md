@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: cf38bbb104c7bf236200f61dde3065f436d716e8c091e4c6b6372a5046310bce
+machine_hash: 4121d36db4980ca978cee374a08df702781c9a5642dc940f6786df9325604301
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -60,10 +60,9 @@ record:
   title: 10 Agent Mode changes in rust-v0.122.0
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-04-17-subagents-that-stall-mid-stream-now-fail-with-a-clear-error-after-10-minutes-ins|Subagents
-  that stall mid-stream now fail with a clear error after 10 minutes instead…]]'
-- '[[Changes/GitHub Copilot CLI/2026-04-17-attach-supported-document-files-to-prompts-for-the-agent-to-read-and-reason-abou|Attach
-  supported document files to prompts for the agent to read and reason about]]'
+- '[[Changes/Replit/2026-04-17-new-agent-modes-dropdown|New Agent modes dropdown]]'
+- '[[Changes/Replit/2026-04-17-replit-agent-on-google-cloud-marketplace|Replit Agent
+  on Google Cloud Marketplace]]'
 - '[[Changes/Claude Code/2026-04-20-2-agent-mode-changes-in-v2-1-116|2 Agent Mode
   changes in v2.1.116]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-04-20-rust-v0-122-0-github-311361536-9a010c0e|codex-cli-2026-04-20-rust-v0-122-0-github-311361536-9a010c0e]]'
@@ -127,7 +126,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.122.0
 ## Nearby in Agent Mode
 
 - Earlier: 2026-04-20 · Claude Code · [[Changes/Claude Code/2026-04-20-2-agent-mode-changes-in-v2-1-116|2 Agent Mode changes in v2.1.116]]
-- Later: 2026-04-20 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-04-20-2-agent-mode-changes-in-v1-0-33|2 Agent Mode changes in v1.0.33]]
+- Later: 2026-04-20 · ElevenLabs · [[Changes/ElevenLabs/2026-04-20-elevenagents|ElevenAgents]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

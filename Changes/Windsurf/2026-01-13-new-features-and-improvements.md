@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: bd6dbb2775ebd78945456cf93122864d5905d725d4fe0f85f2006cbf127b59ab
+machine_hash: 63f55e2de93a268426a364ea80a21a765012c4c8165f0d7e94f684fdf96dc1d8
 product: windsurf
 product_name: Windsurf
 record:
@@ -44,10 +44,9 @@ record:
   title: New Features and Improvements
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-01-09-2-agent-mode-changes-in-rust-v0-80-0|2 Agent Mode
-  changes in rust-v0.80.0]]'
-- '[[Changes/Claude Code/2026-01-11-added-claude-code-disable-background-tasks-environment-variable-to-disable-all-b|Added
-  CLAUDE_CODE_DISABLE_BACKGROUND_TASKS environment variable to disable all…]]'
+- '[[Changes/ElevenLabs/2026-01-12-agents-platform-dbe011|Agents Platform]]'
+- '[[Changes/Dify/2026-01-13-3-agent-mode-changes-in-1-11-3|3 Agent Mode changes in
+  1.11.3]]'
 - '[[Changes/GitHub Copilot CLI/2026-01-13-3-agent-mode-changes-in-v0-0-380|3 Agent
   Mode changes in v0.0.380]]'
 source_release: '[[Releases/Windsurf/windsurf-2026-01-13-v1-13-6-e1532028|windsurf-2026-01-13-v1-13-6-e1532028]]'

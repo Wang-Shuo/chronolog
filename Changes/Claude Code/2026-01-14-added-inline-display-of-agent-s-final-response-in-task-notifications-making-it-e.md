@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: 83d31fd66db012114d9cc1d033066b2b28dc1109257efa98b8247fd4cc03f3a6
+machine_hash: ad4fa193a2e8479bd9a605eb987d754fcadd4639b23c6d6ec4766b75686d500a
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,8 +45,8 @@ record:
   title: Added inline display of agent's final response in task notifications, making…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-01-11-added-claude-code-disable-background-tasks-environment-variable-to-disable-all-b|Added
-  CLAUDE_CODE_DISABLE_BACKGROUND_TASKS environment variable to disable all…]]'
+- '[[Changes/Dify/2026-01-13-3-agent-mode-changes-in-1-11-3|3 Agent Mode changes in
+  1.11.3]]'
 - '[[Changes/GitHub Copilot CLI/2026-01-13-3-agent-mode-changes-in-v0-0-380|3 Agent
   Mode changes in v0.0.380]]'
 - '[[Changes/Windsurf/2026-01-13-new-features-and-improvements|New Features and Improvements]]'

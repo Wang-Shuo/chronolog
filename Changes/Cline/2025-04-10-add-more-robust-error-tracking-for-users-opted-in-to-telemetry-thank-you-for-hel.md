@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: fcbb3b21debc7b62aea461e53d2f00a07267a59ea6144ad24f8a732bd89f4a18
+machine_hash: fbfba1a146654bec69b9a4a03b6c85dc537591585571edb5aa9ab36af2bcdbc0
 product: cline
 product_name: Cline
 record:
@@ -44,11 +44,12 @@ record:
   title: Add more robust error tracking for users opted in to telemetry…
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-03-23-2-reliability-and-performance-changes-in-0-48-x|2 Reliability
-  and Performance changes in 0.48.x]]'
-- '[[Changes/Cursor/2025-03-23-faster-indexing|Faster indexing]]'
 - '[[Changes/Cline/2025-04-06-add-improvements-to-file-mention-searching-for-faster-searching|Add
   improvements to file mention searching for faster searching]]'
+- "[[Changes/Open WebUI/2025-04-07-general-backend-refactoring-multiple-behind-the-scenes-improvements-streamline-b|\U0001F9F0
+  General Backend Refactoring]]"
+- '[[Changes/Dify/2025-04-09-2-reliability-and-performance-changes-in-1-2-0|2 Reliability
+  and Performance changes in 1.2.0]]'
 source_release: '[[Releases/Cline/cline-2025-04-10-v3-11-0-github-211490526-e01be860|cline-2025-04-10-v3-11-0-github-211490526-e01be860]]'
 source_type: github_releases
 theme: reliability-performance
@@ -78,7 +79,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2025-04-06 · Cline · [[Changes/Cline/2025-04-06-add-improvements-to-file-mention-searching-for-faster-searching|Add improvements to file mention searching for faster searching]]
+- Earlier: 2025-04-09 · Dify · [[Changes/Dify/2025-04-09-2-reliability-and-performance-changes-in-1-2-0|2 Reliability and Performance changes in 1.2.0]]
 - Later: 2025-04-10 · OpenHands · [[Changes/OpenHands/2025-04-10-improve-the-performance-of-event-retrieval-in-openhands-particularly-for-convers|Improve the performance of event retrieval in OpenHands, particularly…]]
 <!-- chronolog:end -->
 

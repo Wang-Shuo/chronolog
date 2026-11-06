@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 1d8f8c6ff302845277829531f024b0126d87dd54c67f67aaadad0d15905311df
+machine_hash: 095eff2044f571ceb701799969aed5a4a78436301015b309f479ac844727e15a
 product: claude-code
 product_name: Claude Code
 record:
@@ -44,12 +44,12 @@ record:
   title: 2 Agent Mode changes in v2.1.163
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-06-01-canceling-a-running-shell-command-ctrl-c-on-a-command-or-aborting-an-agent-comma|Canceling
-  a running shell command (Ctrl+C on a !command, or aborting an agent command]]'
 - '[[Changes/Claude Code/2026-06-02-improved-performance-of-opening-recently-inactive-background-agent-sessions-in-c|Improved
   performance of opening recently-inactive background agent sessions…]]'
 - '[[Changes/Claude Code/2026-06-02-claude-agents-rows-now-show-done-total-before-the-detail-when-work-is-fanned-out|claude
   agents rows now show done/total before the detail when work is fanned out]]'
+- '[[Changes/Ollama/2026-06-03-nemotron-3-ultra-https-ollama-com-library-nemotron-3-ultra-nvidia-nemotron-3-ult|Nemotron-3-Ultra((source
+  link) NVIDIA Nemotron 3…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-06-04-v2-1-163-github-334509318-c6b9f988|claude-code-2026-06-04-v2-1-163-github-334509318-c6b9f988]]'
 source_type: github_releases
 theme: agent-mode
@@ -88,7 +88,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.163
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2026-06-02 · Claude Code · [[Changes/Claude Code/2026-06-02-claude-agents-rows-now-show-done-total-before-the-detail-when-work-is-fanned-out|claude agents rows now show done/total before the detail when work is fanned out]]
+- Earlier: 2026-06-03 · Ollama · [[Changes/Ollama/2026-06-03-nemotron-3-ultra-https-ollama-com-library-nemotron-3-ultra-nvidia-nemotron-3-ult|Nemotron-3-Ultra((source link) NVIDIA Nemotron 3…]]
 - Later: 2026-06-04 · Codex CLI · [[Changes/Codex CLI/2026-06-04-12-agent-mode-changes-in-rust-v0-137-0|12 Agent Mode changes in rust-v0.137.0]]
 <!-- chronolog:end -->
 

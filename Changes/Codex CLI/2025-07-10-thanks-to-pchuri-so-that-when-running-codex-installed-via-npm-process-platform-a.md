@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 2b0fe150e4e0f6c84beabd45e7ade391d43ac62e7d25a5dcc428f4a118914795
+machine_hash: 14980b802f0978b3aad2b3e07db013ba8f30bb319cb1c25583f0a3171ad4e75b
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -43,12 +43,11 @@ record:
   title: Thanks to @pchuri so that when running Codex installed via `npm`…
   type: change
 related_changes:
-- '[[Changes/OpenHands/2025-04-23-addressed-failure-of-docker-containers-to-start-on-windows-by-happyherp-in-https|Addressed
-  failure of Docker containers to start on Windows]]'
-- '[[Changes/Windsurf/2025-04-29-reduced-errors-for-edit-tool-calls-for-windows|Reduced
-  errors for edit tool calls for Windows]]'
-- '[[Changes/OpenHands/2025-05-05-made-small-tweaks-for-mobile-styles-by-rbren-in-https-github-com-all-hands-ai-op|Made
-  small tweaks for mobile styles]]'
+- '[[Changes/Replit/2025-06-27-new-app-store-screenshots|New App Store screenshots]]'
+- '[[Changes/Ollama/2025-07-02-a-new-version-of-ollama-s-macos-and-windows-applications-are-now-available-new-i|A
+  new version of Ollama''s macOS and Windows applications are now available]]'
+- '[[Changes/Ollama/2025-07-02-3-mobile-and-desktop-changes-in-v0-9-5|3 Mobile and
+  Desktop changes in v0.9.5]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2025-07-10-rust-v0-5-0-github-231616219-d14c9211|codex-cli-2025-07-10-rust-v0-5-0-github-231616219-d14c9211]]'
 source_type: github_releases
 theme: mobile-desktop
@@ -78,7 +77,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2025-05-05 · OpenHands · [[Changes/OpenHands/2025-05-05-made-small-tweaks-for-mobile-styles-by-rbren-in-https-github-com-all-hands-ai-op|Made small tweaks for mobile styles]]
+- Earlier: 2025-07-02 · Ollama · [[Changes/Ollama/2025-07-02-3-mobile-and-desktop-changes-in-v0-9-5|3 Mobile and Desktop changes in v0.9.5]]
 - Later: 2025-07-11 · Gemini CLI · [[Changes/Gemini CLI/2025-07-11-don-t-enforce-leading-slash-since-that-s-not-true-on-windows-by-scidomino-in-htt|Don't enforce leading slash since that's not true on Windows]]
 <!-- chronolog:end -->
 

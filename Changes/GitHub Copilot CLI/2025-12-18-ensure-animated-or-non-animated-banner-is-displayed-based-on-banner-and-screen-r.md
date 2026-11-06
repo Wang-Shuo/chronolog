@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: accessibility-localization
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: f0cd5374b94e8b4f8858a6c9414a3f4202b1cee82903830281e69386e3d69c7d
+machine_hash: de813dfec92334aa5ef933feef907eb25b58f6d1c196f258012537abfb60aadb
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -42,10 +42,10 @@ record:
   title: Ensure animated or non-animated banner is displayed based on banner and screen…
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2025-11-04-cherry-pick-screen-reader-nudge-changes-by-chrstnb-in-https-github-com-google-ge|Cherry
-  pick screen reader nudge changes]]'
-- '[[Changes/Gemini CLI/2025-11-07-only-show-screen-reader-notice-once-by-chrstnb-in-https-github-com-google-gemini|Only
-  show screen reader notice once]]'
+- "[[Changes/Open WebUI/2025-11-24-ui-scale-adjustment-is-now-available-in-interface-settings-allowing-users-to-inc|\U0001F3A8
+  UI scale adjustment is now available in interface settings, allowing users…]]"
+- "[[Changes/Open WebUI/2025-11-25-localization-improvements-were-made-for-german-de-de-and-portuguese-brazil-trans|\U0001F310
+  Localization improvements were made for German (de-DE) and Portuguese (Brazil)…]]"
 - '[[Changes/Cline/2025-12-12-accessibility-screen-reader-support-for-slash-and-context-menus-by-mingxuanzhang|accessibility:
   screen reader support for slash and context menus]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2025-12-18-v0-0-370-github-271488760-c35693f4|github-copilot-cli-2025-12-18-v0-0-370-github-271488760-c35693f4]]'
@@ -82,7 +82,7 @@ type: change
 ## Nearby in Accessibility and Localization
 
 - Earlier: 2025-12-12 · Cline · [[Changes/Cline/2025-12-12-accessibility-screen-reader-support-for-slash-and-context-menus-by-mingxuanzhang|accessibility: screen reader support for slash and context menus]]
-- Later: 2026-01-28 · Claude Code · [[Changes/Claude Code/2026-01-28-added-support-for-full-width-zenkaku-number-input-from-japanese-ime-in-option-se|Added support for full-width (zenkaku) number input from Japanese IME in option…]]
+- Later: 2025-12-25 · Dify · [[Changes/Dify/2025-12-25-chore-add-apptypeselector-tests-and-improve-clear-button-accessibility-by-lyzno1|chore: add AppTypeSelector tests and improve clear button accessibility]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

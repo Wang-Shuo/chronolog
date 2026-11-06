@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 259489d41e08c2cd0734d0d62e2ec8f7c4c05db1d4da87af7fea8709144b439b
+machine_hash: 0af94c608ee68ff36b07436e64036599342f1dffacbe340cd0b36a8423992a68
 product: claude-code
 product_name: Claude Code
 record:
@@ -51,8 +51,7 @@ record:
   title: 4 Apps and Integrations changes in v2.1.91
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-04-01-2-apps-and-integrations-changes-in-v2-1-90|2 Apps
-  and Integrations changes in v2.1.90]]'
+- '[[Changes/ElevenLabs/2026-04-01-sdk-releases|SDK Releases]]'
 - '[[Changes/Gemini CLI/2026-04-01-5-apps-and-integrations-changes-in-v0-36-0|5 Apps
   and Integrations changes in v0.36.0]]'
 - '[[Changes/GitHub Copilot CLI/2026-04-01-5-apps-and-integrations-changes-in-v1-0-15|5

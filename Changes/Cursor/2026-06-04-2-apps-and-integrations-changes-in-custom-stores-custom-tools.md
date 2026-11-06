@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 0701d58df46f267e13a5646dd7e90cb5767ba1344a4c846ffda2d6b8256693ca
+machine_hash: 09d63a1eed282d82d42ba102bdb80eee04e8262b9f2037a8b8faaad23d03fb29
 product: cursor
 product_name: Cursor
 record:
@@ -99,7 +99,7 @@ Source: https://cursor.com/changelog/sdk-updates-jun-2026
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-06-04 · Codex CLI · [[Changes/Codex CLI/2026-06-04-19-apps-and-integrations-changes-in-rust-v0-137-0|19 Apps and Integrations changes in rust-v0.137.0]]
-- Later: 2026-06-05 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-06-05-mcp-tools-added-or-removed-by-a-server-mid-turn-are-now-available-immediately-in|MCP tools added or removed by a server mid-turn are now available immediately…]]
+- Later: 2026-06-04 · Ollama · [[Changes/Ollama/2026-06-04-added-cline-cli-integration-docs|Added Cline CLI integration docs]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: c42d9e5d9d1282157319c772c4f7c33c8b29182e79de428758ecfb894a212e33
+machine_hash: 09f212bd021b264d1963fecca7dc6af533d70d210cf5c2352b5932522dbe7262
 product: claude-code
 product_name: Claude Code
 record:
@@ -42,12 +42,12 @@ record:
     during…
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-01-31-6-developer-workflow-changes-in-rust-v0-93-0|6 Developer
-  Workflow changes in rust-v0.93.0]]'
 - '[[Changes/Claude Code/2026-02-03-2-developer-workflow-changes-in-v2-1-30|2 Developer
   Workflow changes in v2.1.30]]'
 - '[[Changes/Claude Code/2026-02-03-added-debug-for-claude-to-help-troubleshoot-the-current-session|Added
   /debug for Claude to help troubleshoot the current session]]'
+- '[[Changes/Dify/2026-02-03-2-developer-workflow-changes-in-1-12-0|2 Developer Workflow
+  changes in 1.12.0]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-02-04-v2-1-31-github-282782741-04ea99e1|claude-code-2026-02-04-v2-1-31-github-282782741-04ea99e1]]'
 source_type: github_releases
 theme: developer-workflow
@@ -81,7 +81,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2026-02-03 · Claude Code · [[Changes/Claude Code/2026-02-03-added-debug-for-claude-to-help-troubleshoot-the-current-session|Added /debug for Claude to help troubleshoot the current session]]
+- Earlier: 2026-02-03 · Dify · [[Changes/Dify/2026-02-03-2-developer-workflow-changes-in-1-12-0|2 Developer Workflow changes in 1.12.0]]
 - Later: 2026-02-04 · Codex CLI · [[Changes/Codex CLI/2026-02-04-10-developer-workflow-changes-in-rust-v0-95-0|10 Developer Workflow changes in rust-v0.95.0]]
 <!-- chronolog:end -->
 

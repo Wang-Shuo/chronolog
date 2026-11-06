@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: d8b5e3f28766c7ae615af35326263b3d4d62c05ed1aa468be82e11cebdbd0976
+machine_hash: bd2e6b0c4732d10c7ed6f7d2e4c280aac619912bf1cad44ba57e57c703a3645c
 product: aider
 product_name: Aider
 record:
@@ -43,10 +43,10 @@ record:
   title: Refactored prompting to unify some phrasing across edit formats
   type: change
 related_changes:
-- '[[Changes/Cursor/2024-04-12-copilot-ux-suggestion-previews-now-have-syntax-highlighting-which-we-find-makes|Copilot++
-  UX: Suggestion previews now have syntax highlighting, which we find makes…]]'
-- '[[Changes/Aider/2024-04-24-allow-repo-map-for-whole-edit-format|Allow repo map
-  for "whole" edit format]]'
+- '[[Changes/Dify/2024-05-02-3-editor-experience-changes-in-0-6-6|3 Editor Experience
+  changes in 0.6.6]]'
+- '[[Changes/Open WebUI/2024-05-02-edit-button-styling-fixed-styling-inconsistency-with-edit-buttons|✏️
+  Edit Button Styling: Fixed styling inconsistency with edit buttons]]'
 - '[[Changes/Aider/2024-05-07-support-for-deepseek-v2-via-more-a-flexible-config-of-system-messages-in-the-dif|Support
   for Deepseek-V2, via more a flexible config of system messages in the diff…]]'
 source_release: '[[Releases/Aider/aider-2024-05-10-v0-34-0-github-155287564-5b4274fa|aider-2024-05-10-v0-34-0-github-155287564-5b4274fa]]'

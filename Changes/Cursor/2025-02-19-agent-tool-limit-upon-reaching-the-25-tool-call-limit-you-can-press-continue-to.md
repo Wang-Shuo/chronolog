@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: f0af2eb8c428df8ca8dc1ad3870f4c70250e5ad13ebfd03205bec6a5a154c449
+machine_hash: 4e74b7282ab8219cb0d44ea406d0c85eab15554e61fa890f7b8db7f72103e240
 product: cursor
 product_name: Cursor
 record:
@@ -44,10 +44,8 @@ record:
   title: Agent tool limit
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-01-23-agent-sees-recent-changes-the-agent-can-use-a-tool-to-see-your-recent-changes-it|Agent
-  sees recent changes: The agent can use a tool to see your recent changes]]'
-- '[[Changes/Cursor/2025-01-23-cursor-rules-users-can-write-several-repository-level-rules-to-disk-in-the-curso|.cursor/rules:
-  Users can write several repository-level rules to disk…]]'
+- '[[Changes/ElevenLabs/2025-02-17-agents-platform|Agents Platform]]'
+- '[[Changes/ElevenLabs/2025-02-17-api|API]]'
 - '[[Changes/Cursor/2025-02-19-agent-is-ready-agent-is-now-the-default-mode-bringing-a-more-powerful-and-unifie|Agent
   is ready: Agent is now the default mode, bringing a more powerful and unified…]]'
 source_release: '[[Releases/Cursor/cursor-2025-02-19-0-46-x-https-cursor-com-changelog-0-46-x-640a0a10|cursor-2025-02-19-0-46-x-https-cursor-com-changelog-0-46-x-640a0a10]]'
@@ -88,8 +86,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2025-01-23 · Cursor · [[Changes/Cursor/2025-01-23-cursor-rules-users-can-write-several-repository-level-rules-to-disk-in-the-curso|.cursor/rules: Users can write several repository-level rules to disk…]]
-- Later: 2025-03-07 · OpenHands · [[Changes/OpenHands/2025-03-07-3-agent-mode-changes-in-0-28-0|3 Agent Mode changes in 0.28.0]]
+- Earlier: 2025-02-17 · ElevenLabs · [[Changes/ElevenLabs/2025-02-17-api|API]]
+- Later: 2025-02-21 · Replit · [[Changes/Replit/2025-02-21-improved-international-character-support-in-screenshots|Improved international character support in screenshots]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

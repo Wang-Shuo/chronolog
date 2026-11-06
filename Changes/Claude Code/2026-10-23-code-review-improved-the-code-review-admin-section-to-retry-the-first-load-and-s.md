@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: bcea50c71a931de4ae2c3f26e15afd64b450090aeff8879a0d28e59092cc2012
+machine_hash: 6dab9fd1e3e237118a8432b7451c3fa0edb98829ae1a60a13caf3f3ba4ccc1d4
 product: claude-code
 product_name: Claude Code
 record:
@@ -43,8 +43,8 @@ record:
     load…'
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-21-2-developer-workflow-changes-in-v2-1-307|2 Developer
-  Workflow changes in v2.1.307]]'
+- '[[Changes/Ollama/2026-10-21-flint-is-an-apache-2-0-licensed-40b-parameter-mixture-of-experts-model-with-appr|Flint
+  is an Apache 2.0-licensed, 40B-parameter mixture-of-experts model…]]'
 - '[[Changes/Claude Code/2026-10-22-improved-disk-full-handling-a-bash-command-cut-off-by-a-full-disk-now-says-so-an|Improved
   disk-full handling]]'
 - '[[Changes/GitHub Copilot CLI/2026-10-22-clicking-a-completed-response-code-block-copies-its-original-code-when-enabled|Clicking

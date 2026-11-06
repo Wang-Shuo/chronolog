@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 7dc05f833fa019732ae6173beb6a222302e54571d8104f3548318c8f8bda841c
+machine_hash: 31db3b9ff7bce3d0a7f53b9a5b7e17827afb1b36bf155b925dfdc946fc5271e2
 product: windsurf
 product_name: Windsurf
 record:
@@ -50,11 +50,11 @@ record:
   title: Increased stability around MCP SSE connections
   type: change
 related_changes:
-- '[[Changes/Cline/2025-04-01-3-apps-and-integrations-changes-in-v3-8-5|3 Apps and
-  Integrations changes in v3.8.5]]'
-- '[[Changes/Windsurf/2025-04-02-misc|Misc]]'
 - '[[Changes/Cline/2025-04-04-add-a-tab-for-configuring-local-mcp-servers|Add a tab
   for configuring local MCP Servers]]'
+- '[[Changes/Lovable/2025-04-04-upgraded-the-stripe-integration-https-docs-lovable-dev-integrations-stripe-md|Upgraded
+  the Stripe integration((source link)]]'
+- '[[Changes/ElevenLabs/2025-04-07-text-to-speech|Text to speech]]'
 source_release: '[[Releases/Windsurf/windsurf-2025-04-07-v1-6-3-00e74246|windsurf-2025-04-07-v1-6-3-00e74246]]'
 source_type: windsurf_changelog
 theme: apps-integrations
@@ -84,7 +84,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2025-04-04 · Cline · [[Changes/Cline/2025-04-04-add-a-tab-for-configuring-local-mcp-servers|Add a tab for configuring local MCP Servers]]
+- Earlier: 2025-04-07 · ElevenLabs · [[Changes/ElevenLabs/2025-04-07-text-to-speech|Text to speech]]
 - Later: 2025-04-08 · Cline · [[Changes/Cline/2025-04-08-add-modal-in-the-chat-area-to-more-easily-enable-or-disable-mcp-servers|Add modal in the chat area to more easily enable or disable MCP servers]]
 <!-- chronolog:end -->
 

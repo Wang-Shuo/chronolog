@@ -1,0 +1,100 @@
+---
+card_id: replit-2025-10-03-9a352f
+date: '2025-10-03'
+description: 'Replit · 2025-10-03 · Apps and Integrations: Enterprise customers get
+  advanced connector management with role-based access controls for shared API keys
+  and…'
+diffusion:
+  first_in_tracked: '[[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We
+    are announcing experimental support for AI plugins in ChatGPT]]'
+  inference: No adoption, equivalence, or causation claim.
+  lag_days: 925
+  relation: same-theme-chronology
+  role: later-observed
+  scope: tracked-products-only
+  theme: apps-integrations
+  tracked_products_count: 20
+evolves_from: []
+extractor_version: fallback-v5
+impact: incremental
+kind: launch
+machine_hash: 37b263dc75023e3174701d6badc739593bbf9c1cb50db5f483ca665efde5a48a
+product: replit
+product_name: Replit
+record:
+  card_id: replit-2025-10-03-9a352f
+  comparison: ''
+  date: '2025-10-03'
+  description: 'Replit — Replit updates — 2025-10-03: Enterprise customers get advanced
+    connector management with role-based access controls for shared API keys and fully-custom
+    OAuth client configuration. Connectors are opt-in at the organization level, giving
+    admins complete control over which integrations are available to team members.
+    See [Managing your connectors](https://docs.replit.com/replitai/managing-connectors.md).'
+  evidence:
+  - quote: Enterprise customers get advanced connector management with role-based
+      access controls for shared API keys and fully-custom OAuth client configuration.
+      Connectors are opt-in at the organization level, giving admins complete control
+      over which integrations are available to team members. See [Managing your connectors](https://docs.replit.com/replitai/managing-connectors.md).
+    source_release: https://docs.replit.com/updates/2025/10/03/changelog
+  extractor_version: fallback-v5
+  impact: incremental
+  kind: launch
+  product: replit
+  product_name: Replit
+  slug: connectors-admin-management
+  source_release: replit-2025-10-03-2025-10-03-65f6bedb
+  source_type: replit_changelog
+  theme: apps-integrations
+  title: Connectors admin management
+  type: change
+related_changes:
+- '[[Changes/Codex CLI/2025-10-03-17-apps-and-integrations-changes-in-rust-v0-44-0|17
+  Apps and Integrations changes in rust-v0.44.0]]'
+- '[[Changes/Replit/2025-10-03-connectors-platform-launch|Connectors platform launch]]'
+- '[[Changes/Replit/2025-10-03-git-source-control-enhancements|Git source control
+  enhancements]]'
+source_release: '[[Releases/Replit/replit-2025-10-03-2025-10-03-65f6bedb|replit-2025-10-03-2025-10-03-65f6bedb]]'
+source_type: replit_changelog
+theme: apps-integrations
+title: Connectors admin management
+type: change
+---
+
+<!-- chronolog:begin region="header" -->
+# Connectors admin management
+
+**Replit** · 2025-10-03 · [[Themes/apps-integrations|Apps and Integrations]] · Launch · [Official source](https://docs.replit.com/updates/2025/10/03/changelog) · from [[Releases/Replit/replit-2025-10-03-2025-10-03-65f6bedb|Replit updates — 2025-10-03]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="evidence" -->
+> Enterprise customers get advanced connector management with role-based access controls for shared API keys and fully-custom OAuth client configuration. Connectors are opt-in at the organization level, giving admins complete control over which integrations are available to team members. See [Managing your connectors](https://docs.replit.com/replitai/managing-connectors.md).
+>
+> Source: https://docs.replit.com/updates/2025/10/03/changelog
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="context" -->
+## Also in this release
+
+- [[Changes/Replit/2025-10-03-connectors-platform-launch|Connectors platform launch]] · Apps and Integrations
+- [[Changes/Replit/2025-10-03-git-source-control-enhancements|Git source control enhancements]] · Apps and Integrations
+- [[Changes/Replit/2025-10-03-teams-and-enterprise|Teams and Enterprise]] · Enterprise and Administration
+- [[Changes/Replit/2025-10-03-vercel-import-integration|Vercel import integration]] · Apps and Integrations
+- [[Changes/Replit/2025-10-03-app-themes-font-improvements|App Themes font improvements]] · Search and Browsing
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="nearby" -->
+## Nearby in Apps and Integrations
+
+- Earlier: 2025-10-03 · Codex CLI · [[Changes/Codex CLI/2025-10-03-17-apps-and-integrations-changes-in-rust-v0-44-0|17 Apps and Integrations changes in rust-v0.44.0]]
+- Later: 2025-10-06 · Lovable · [[Changes/Lovable/2025-10-06-turn-your-files-into-apps|Turn your files into apps]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="relations" -->
+## Related
+
+- Earliest same-theme entry in the tracked set: 2023-03-23 · ChatGPT · [[Changes/ChatGPT/2023-03-23-we-are-announcing-experimental-support-for-ai-plugins-in-chatgpt-tools-designed-6b2581|We are announcing experimental support for AI plugins in ChatGPT]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="footer" -->
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20replit-2025-10-03-9a352f&body=Card%3A%20Changes%2FReplit%2F2025-10-03-connectors-admin-management.md%0ACard%20ID%3A%20replit-2025-10-03-9a352f%0ASource%3A%20https%3A%2F%2Fdocs.replit.com%2Fupdates%2F2025%2F10%2F03%2Fchangelog%0A%0AWhat%20should%20be%20corrected%3F%0A)
+<!-- chronolog:end -->

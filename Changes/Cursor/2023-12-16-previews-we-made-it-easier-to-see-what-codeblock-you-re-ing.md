@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 46a9727a5447899e0d84b4f1487ea8df338e929c5cb4d78aec202cf9192dd6e8
+machine_hash: e7b5905a219a7a0138830172a3ed8e2515654847b10b676f04547c014b27ed61
 product: cursor
 product_name: Cursor
 record:
@@ -43,8 +43,8 @@ record:
   title: '@ previews: We made it easier to see what codeblock you''re @''ing'
   type: change
 related_changes:
-- '[[Changes/Cursor/2023-11-12-copilot-improvements-includes-green-highlights-to-see-what-copilot-has-added-the|Copilot++
-  improvements: Includes green highlights to see what Copilot++ has added…]]'
+- '[[Changes/Gemini/2023-11-16-bard-is-available-for-more-age-groups|Bard is available
+  for more age groups]]'
 - '[[Changes/Cursor/2023-11-27-copilot-improvements-we-ve-spent-some-time-improving-the-latency-of-copilot-and|Copilot++
   Improvements: We''ve spent some time improving the latency…]]'
 - '[[Changes/Cursor/2023-12-06-minor-onboarding-changes-19f3e5|Onboarding & Feedback]]'
@@ -79,7 +79,7 @@ type: change
 ## Nearby in Interface Experience
 
 - Earlier: 2023-12-06 · Cursor · [[Changes/Cursor/2023-12-06-minor-onboarding-changes-19f3e5|Onboarding & Feedback]]
-- Later: 2024-02-02 · Cursor · [[Changes/Cursor/2024-02-02-you-can-now-drag-images-into-the-command-k-prompt-bar|Drag images into the Command-K prompt bar!]]
+- Later: 2024-01-12 · Dify · [[Changes/Dify/2024-01-12-feat-app-sidebar-support-collapse-by-zxhlyh-in-https-github-com-langgenius-dify|feat: app sidebar support collapse]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

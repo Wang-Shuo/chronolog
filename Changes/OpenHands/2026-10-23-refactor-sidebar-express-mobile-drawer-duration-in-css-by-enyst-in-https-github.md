@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 3e37f19cc460524052a876c3ffc408c5dbc160c28064934704221df6b78be32b
+machine_hash: 91162e896d7a975a0d803b9c104d76c0bd81eacd0d3a4e7ddecf8490faa269b0
 product: openhands
 product_name: OpenHands
 record:
@@ -42,12 +42,12 @@ record:
   title: 'refactor(sidebar): express mobile drawer duration in CSS'
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-20-improved-a-mod-s-image-to-draw-its-picture-in-iterm2-3-5-and-later-with-fullscre|Improved
-  a mod''s Image to draw its picture in iTerm2 3.5 and later with fullscreen…]]'
 - '[[Changes/Claude Code/2026-10-23-improved-a-mod-s-image-to-draw-inside-tmux-with-allow-passthrough-and-focus-even|Improved
   a mod''s Image to draw inside tmux with allow-passthrough…]]'
 - '[[Changes/Codex CLI/2026-10-23-9-interface-experience-changes-in-rust-v0-164-0|9
   Interface Experience changes in rust-v0.164.0]]'
+- '[[Changes/Dify/2026-10-23-2-interface-experience-changes-in-1-18-0|2 Interface
+  Experience changes in 1.18.0]]'
 source_release: '[[Releases/OpenHands/openhands-2026-10-23-v1-33-0-github-421895037-4944fa1e|openhands-2026-10-23-v1-33-0-github-421895037-4944fa1e]]'
 source_type: github_releases
 theme: interface-experience
@@ -79,7 +79,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-10-23 · Codex CLI · [[Changes/Codex CLI/2026-10-23-9-interface-experience-changes-in-rust-v0-164-0|9 Interface Experience changes in rust-v0.164.0]]
+- Earlier: 2026-10-23 · Dify · [[Changes/Dify/2026-10-23-2-interface-experience-changes-in-1-18-0|2 Interface Experience changes in 1.18.0]]
 - Later: 2026-10-23 · Windsurf · [[Changes/Windsurf/2026-10-23-2-interface-experience-changes-in-v3-11-212|2 Interface Experience changes in v3.11.212]]
 <!-- chronolog:end -->
 

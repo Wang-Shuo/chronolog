@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: accessibility-localization
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: c32ed5a793105d31fba36d3813e5175e7f44f266fd18d0ae85171a273828fb17
+machine_hash: 8dbadf2b1be580cb1a53ddffad97e229b274be360129a96ccef1dbc41be0597c
 product: claude-code
 product_name: Claude Code
 record:
@@ -44,12 +44,12 @@ record:
   title: Improved screen-reader output
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-06-12-session-titles-are-now-generated-in-the-language-of-your-conversation-set-the-la|Session
-  titles are now generated in the language of your conversation…]]'
-- '[[Changes/GitHub Copilot CLI/2026-06-13-improve-color-contrast-in-github-themes-to-meet-wcag-aa-accessibility-standards|Improve
-  color contrast in GitHub themes to meet WCAG AA accessibility standards]]'
 - '[[Changes/Codex CLI/2026-06-22-28770-connectors-ignore-synthetic-links-for-app-accessibility-adaley-openai|♯28770
   connectors Ignore synthetic links for app accessibility @adaley-openai]]'
+- '[[Changes/Dify/2026-06-25-numerous-web-ui-and-accessibility-focus-ring-polish-fixes|Numerous
+  web UI and accessibility/focus-ring polish fixes]]'
+- '[[Changes/Open WebUI/2026-06-29-better-screen-reader-labels-on-toggles-integration-and-switch-toggles-now-expose|♿
+  Better screen-reader labels on toggles. Integration and switch toggles now…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-07-03-v2-1-200-github-348415228-64d6d68d|claude-code-2026-07-03-v2-1-200-github-348415228-64d6d68d]]'
 source_type: github_releases
 theme: accessibility-localization
@@ -80,7 +80,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Accessibility and Localization
 
-- Earlier: 2026-06-22 · Codex CLI · [[Changes/Codex CLI/2026-06-22-28770-connectors-ignore-synthetic-links-for-app-accessibility-adaley-openai|♯28770 connectors Ignore synthetic links for app accessibility @adaley-openai]]
+- Earlier: 2026-06-29 · Open WebUI · [[Changes/Open WebUI/2026-06-29-better-screen-reader-labels-on-toggles-integration-and-switch-toggles-now-expose|♿ Better screen-reader labels on toggles. Integration and switch toggles now…]]
 - Later: 2026-07-14 · Claude Code · [[Changes/Claude Code/2026-07-14-added-screen-reader-mode-opt-in-plain-text-rendering-for-screen-reader-users-run|Added screen reader mode: opt-in plain-text rendering for screen reader users]]
 <!-- chronolog:end -->
 

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 22a545269b86adf595fc7751da291bd8f9419f0b7a7a6ad0ab9b05d9a024f345
+machine_hash: 07a39e2e946520c443051a7a72ea8c7c7364059f778c1b9ebf4536555526feb9
 product: claude-code
 product_name: Claude Code
 record:
@@ -85,7 +85,7 @@ type: change
 ## Nearby in Interface Experience
 
 - Earlier: 2026-03-05 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-03-05-text-selection-persists-after-copying-to-clipboard-in-alt-screen|Text selection persists after copying to clipboard in alt screen]]
-- Later: 2026-03-08 · Codex CLI · [[Changes/Codex CLI/2026-03-08-added-a-new-model-selection-surface-update-so-the-latest-model-catalog-changes-a|Added a new model-selection surface update so the latest model catalog changes…]]
+- Later: 2026-03-06 · Replit · [[Changes/Replit/2026-03-06-ai-chat-message-truncation|AI Chat message truncation]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

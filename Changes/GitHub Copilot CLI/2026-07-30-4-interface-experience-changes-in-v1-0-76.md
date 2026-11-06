@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 40f319899d27ede765a2999495f6264ba5d85fea13a9186f2d87a20ccecfff45
+machine_hash: 81c7393d9bf267a513445eac828e9efb6ccc3316a945f807ef97affc67606b09
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -51,10 +51,10 @@ record:
   title: 4 Interface Experience changes in v1.0.76
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-07-24-2-interface-experience-changes-in-v2-1-219|2 Interface
-  Experience changes in v2.1.219]]'
 - '[[Changes/Cursor/2026-07-28-existing-free-users-in-india-can-upgrade-their-plan-from-the-dashboard-new-users-aeb811|Existing
   Free users in India can upgrade their plan from the dashboard]]'
+- '[[Changes/Dify/2026-07-28-10-interface-experience-changes-in-1-16-1|10 Interface
+  Experience changes in 1.16.1]]'
 - '[[Changes/Codex CLI/2026-07-29-8-interface-experience-changes-in-rust-v0-146-0|8
   Interface Experience changes in rust-v0.146.0]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-07-30-v1-0-76-github-362129864-0932fe29|github-copilot-cli-2026-07-30-v1-0-76-github-362129864-0932fe29]]'
@@ -104,7 +104,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.76
 ## Nearby in Interface Experience
 
 - Earlier: 2026-07-29 · Codex CLI · [[Changes/Codex CLI/2026-07-29-8-interface-experience-changes-in-rust-v0-146-0|8 Interface Experience changes in rust-v0.146.0]]
-- Later: 2026-08-03 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-08-03-2-interface-experience-changes-in-v1-0-78|2 Interface Experience changes in v1.0.78]]
+- Later: 2026-07-31 · v0 · [[Changes/v0/2026-07-31-3-interface-experience-changes-in-claude-opus-5-direct-figma-inspection|3 Interface Experience changes in Claude Opus 5, direct Figma inspection…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

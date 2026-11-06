@@ -4,20 +4,20 @@ date: '2026-03-05'
 description: 'Cursor · 2026-03-05 · Automation and Scheduling: Create automations
   at cursor.com/automations, or start from a template. Read more in our announcement.'
 diffusion:
-  first_in_tracked: '[[Changes/OpenHands/2024-09-04-better-syntax-error-loop-detection-by-tobitege-in-https-github-com-all-hands-ai|Better
-    syntax error loop detection]]'
+  first_in_tracked: '[[Changes/Dify/2024-01-02-add-data-clean-schedule-by-johnjyong-in-https-github-com-langgenius-dify-pull-18|Add
+    data clean schedule]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 547
+  lag_days: 793
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: e2660ea517158624f524831406a24fd84e53b01e3872e5e5f1516b7ccebded91
+machine_hash: 3203fbfd8c68f64dac1174a7186588b354a2ee05773cae22233b7d23df881b29
 product: cursor
 product_name: Cursor
 record:
@@ -42,10 +42,9 @@ record:
   title: Create automations at cursor.com/automations, or start from a template
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2026-02-04-3-automation-and-scheduling-changes-in-v0-27-0|3
-  Automation and Scheduling changes in v0.27.0]]'
-- '[[Changes/Gemini CLI/2026-02-10-feat-core-add-setting-to-disable-loop-detection-by-sandytao520-in-https-github-c|feat(core):
-  add setting to disable loop detection]]'
+- "[[Changes/Open WebUI/2026-02-12-async-pipeline-operations-pipeline-operations-now-run-asynchronously-instead-of|\U0001F527
+  Async pipeline operations. Pipeline operations now run asynchronously instead…]]"
+- '[[Changes/Claude/2026-02-25-scheduled-tasks-in-cowork|Scheduled tasks in Cowork]]'
 - '[[Changes/Gemini CLI/2026-02-27-migrate-core-render-util-to-use-xterm-js-as-part-of-the-rendering-loop-by-jacob3|Migrate
   core render util to use xterm.js as part of the rendering loop]]'
 source_release: '[[Releases/Cursor/cursor-2026-03-05-automations-https-cursor-com-changelog-03-05-26-be367422|cursor-2026-03-05-automations-https-cursor-com-changelog-03-05-26-be367422]]'
@@ -84,7 +83,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2024-09-04 · OpenHands · [[Changes/OpenHands/2024-09-04-better-syntax-error-loop-detection-by-tobitege-in-https-github-com-all-hands-ai|Better syntax error loop detection]]
+- Earliest same-theme entry in the tracked set: 2024-01-02 · Dify · [[Changes/Dify/2024-01-02-add-data-clean-schedule-by-johnjyong-in-https-github-com-langgenius-dify-pull-18|Add data clean schedule]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

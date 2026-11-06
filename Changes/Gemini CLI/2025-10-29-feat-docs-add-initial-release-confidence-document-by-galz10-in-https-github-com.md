@@ -4,20 +4,20 @@ date: '2025-10-29'
 description: 'Gemini CLI · 2025-10-29 · Files and Data: feat(docs): add initial release
   confidence document by @galz10 in…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-07-06-we-re-rolling-out-code-interpreter-to-all-chatgpt-plus-users-over-the-next-week-66255e|Code
-    interpreter is now rolling out in beta on web]]'
+  first_in_tracked: '[[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2
+    Files and Data changes in 0.2.2]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 846
+  lag_days: 888
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: f92ebe74e28a18ff571a9879b25350080e43c4b6bdacb2fc49448d2dd90e0ecb
+machine_hash: a665a1b292a89b5028a295dd79c578229c9135485bf8dff2b4039ae99fd45f5e
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -43,8 +43,8 @@ record:
   title: 'feat(docs): add initial release confidence document'
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2025-10-07-2-files-and-data-changes-in-v0-8-0|2 Files and
-  Data changes in v0.8.0]]'
+- '[[Changes/Open WebUI/2025-10-16-2-files-and-data-changes-in-v0-6-34|2 Files and
+  Data changes in v0.6.34]]'
 - '[[Changes/Gemini CLI/2025-10-22-document-all-settings-with-showindialog-true-by-scidomino-in-https-github-com-go|document
   all settings with showInDialog: true]]'
 - '[[Changes/Codex CLI/2025-10-23-docs-document-exec-json-events-by-tibo-openai-in-https-github-com-openai-codex-p|docs:
@@ -93,7 +93,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-07-06 · ChatGPT · [[Changes/ChatGPT/2023-07-06-we-re-rolling-out-code-interpreter-to-all-chatgpt-plus-users-over-the-next-week-66255e|Code interpreter is now rolling out in beta on web]]
+- Earliest same-theme entry in the tracked set: 2023-05-25 · Dify · [[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2 Files and Data changes in 0.2.2]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

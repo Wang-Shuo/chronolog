@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: b6cc27f1a1d3667e3a4ad1df305a929bbb7ab495e519a2bee078f62537828260
+machine_hash: aa2d4f1609706667ed00e7a8f0ae4d76302985c0a8b4eab3e8863bba49a7a226
 product: claude-code
 product_name: Claude Code
 record:
@@ -42,10 +42,9 @@ record:
   title: Added `/plugin list` command to list installed plugins…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-06-02-removed-the-jetbrains-plugin-install-suggestion-from-startup|Removed
-  the JetBrains plugin install suggestion from startup]]'
-- '[[Changes/Claude Code/2026-06-03-remote-control-now-shows-as-a-persistent-footer-pill-with-a-link-to-the-session|Remote
-  Control now shows as a persistent footer pill (with a link to the session)…]]'
+- '[[Changes/Lovable/2026-06-03-connector-sidebar|Connector sidebar]]'
+- '[[Changes/Lovable/2026-06-03-lovable-mcp-server-now-available-on-all-plans|Lovable
+  MCP server now available on all plans]]'
 - '[[Changes/Claude Code/2026-06-04-2-apps-and-integrations-changes-in-v2-1-163|2
   Apps and Integrations changes in v2.1.163]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-06-04-v2-1-163-github-334509318-c6b9f988|claude-code-2026-06-04-v2-1-163-github-334509318-c6b9f988]]'
@@ -82,7 +81,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-06-03 · Claude Code · [[Changes/Claude Code/2026-06-03-remote-control-now-shows-as-a-persistent-footer-pill-with-a-link-to-the-session|Remote Control now shows as a persistent footer pill (with a link to the session)…]]
+- Earlier: 2026-06-03 · Lovable · [[Changes/Lovable/2026-06-03-lovable-mcp-server-now-available-on-all-plans|Lovable MCP server now available on all plans]]
 - Later: 2026-06-04 · Codex CLI · [[Changes/Codex CLI/2026-06-04-19-apps-and-integrations-changes-in-rust-v0-137-0|19 Apps and Integrations changes in rust-v0.137.0]]
 <!-- chronolog:end -->
 

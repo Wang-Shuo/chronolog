@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: f98f9255f893433fb75364024de57d374d71b76497281aaab5fe11e2c2278eb1
+machine_hash: e210dd0f95da878c58d0274aa82bfca27c4e66a7e393b520b934bed2407cad99
 product: aider
 product_name: Aider
 record:
@@ -45,12 +45,12 @@ record:
   title: 3 Editor Experience changes in v0.58.0
   type: change
 related_changes:
-- '[[Changes/Cline/2024-08-31-you-can-now-edit-claude-s-changes-before-accepting-when-he-edits-or-creates-a-fi|You
-  can now edit Claude''s changes before accepting! When he edits or creates…]]'
-- '[[Changes/Cline/2024-09-05-claude-s-changes-now-appear-in-your-file-s-timeline-allowing-you-to-easily-view|Claude''s
-  changes now appear in your file''s Timeline, allowing you to easily view…]]'
 - '[[Changes/Cursor/2024-09-17-update-0-41-1-0-41-3-improves-onboarding-ux-fixes-a-bug-with-composer-cancellati|UPDATE
   (0.41.1–0.41.3): Improves onboarding UX, fixes a bug with composer…]]'
+- "[[Changes/Open WebUI/2024-09-19-enhanced-error-messaging-system-now-displays-helpful-error-messages-directly-to|\U0001F9E0
+  Enhanced Error Messaging]]"
+- "[[Changes/Open WebUI/2024-09-26-chat-rename-tab-update-fixed-the-functionality-to-change-the-web-browser-s-tab-t|\U0001F3F7️
+  Chat Rename Tab Update]]"
 source_release: '[[Releases/Aider/aider-2024-09-29-v0-58-0-github-177475417-38cf7d0f|aider-2024-09-29-v0-58-0-github-177475417-38cf7d0f]]'
 source_type: github_releases
 theme: editor-experience
@@ -88,7 +88,7 @@ Source: https://github.com/Aider-AI/aider/releases/tag/v0.58.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2024-09-17 · Cursor · [[Changes/Cursor/2024-09-17-update-0-41-1-0-41-3-improves-onboarding-ux-fixes-a-bug-with-composer-cancellati|UPDATE (0.41.1–0.41.3): Improves onboarding UX, fixes a bug with composer…]]
+- Earlier: 2024-09-26 · Open WebUI · [[Changes/Open WebUI/2024-09-26-chat-rename-tab-update-fixed-the-functionality-to-change-the-web-browser-s-tab-t|🏷️ Chat Rename Tab Update]]
 - Later: 2024-10-09 · Cline · [[Changes/Cline/2024-10-09-no-more-staring-at-loading-spinners-responses-are-now-streamed-into-the-editor-a|No more staring at loading spinners: Responses are now streamed into the editor…]]
 <!-- chronolog:end -->
 

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: accessibility-localization
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: f10808bde82c8c807bce45f8e17944ced23636752c499977d676437ad8a9ee7f
+machine_hash: 80591c3ebebdfb27a510b504b6cbafb307c77fddde314d5b1b1f9727ac4a6117
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -42,8 +42,8 @@ record:
   title: 'Reapply "feat(accessibility): implement centralized screen reader layout'
   type: change
 related_changes:
-- '[[Changes/Cline/2025-09-17-accessibility-improvements-to-screen-readers-in-mcp-cline-rules-workflows-and-hi|Accessibility:
-  Improvements to screen readers in MCP, Cline Rules, workflows…]]'
+- '[[Changes/Open WebUI/2025-09-25-enhanced-user-interface-accessibility-through-the-addition-of-unique-element-ids|♿
+  Enhanced user interface accessibility through the addition of unique element IDs…]]'
 - '[[Changes/Gemini CLI/2025-10-01-2-accessibility-and-localization-changes-in-v0-7-0|2
   Accessibility and Localization changes in v0.7.0]]'
 - '[[Changes/GitHub Copilot CLI/2025-10-02-improved-screen-reader-mode-by-replacing-icons-in-the-timeline-with-informative|Improved

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 72c2a29f3154b1ad4871cc024377b4d7600a6cd0d584972d4832bc282d00f71a
+machine_hash: ab48dba26485e7b3ab4da1a7b9df7d9402cf35ee71f95ada9a5942e16619c622
 product: cursor
 product_name: Cursor
 record:
@@ -85,7 +85,7 @@ type: change
 ## Nearby in Interface Experience
 
 - Earlier: 2026-06-04 · Codex CLI · [[Changes/Codex CLI/2026-06-04-2-interface-experience-changes-in-rust-v0-137-0|2 Interface Experience changes in rust-v0.137.0]]
-- Later: 2026-06-05 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-06-05-6-interface-experience-changes-in-v1-0-60|6 Interface Experience changes in v1.0.60]]
+- Later: 2026-06-04 · Lovable · [[Changes/Lovable/2026-06-04-transfer-a-domain-out-to-another-registrar|Transfer a domain out to another registrar]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

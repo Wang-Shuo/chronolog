@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 5aa356d7791df2f9550a86640dbb4d21c5c3cdf8b4520613d0a088e12dcb26bf
+machine_hash: 594e6d5523735e45f362d44851ccfcfed54d052b29856fbf2b001b79ea106982
 product: claude-code
 product_name: Claude Code
 record:
@@ -42,8 +42,8 @@ record:
   title: Claude in Chrome is now generally available
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-06-29-remote-control-is-now-disabled-when-anthropic-base-url-points-at-a-non-anthropic|Remote
-  Control is now disabled when ANTHROPIC_BASE_URL points at a non-Anthropic…]]'
+- '[[Changes/Open WebUI/2026-06-29-7-apps-and-integrations-changes-in-v0-10-0|7 Apps
+  and Integrations changes in v0.10.0]]'
 - '[[Changes/GitHub Copilot CLI/2026-06-30-9-apps-and-integrations-changes-in-v1-0-66|9
   Apps and Integrations changes in v1.0.66]]'
 - '[[Changes/GitHub Copilot CLI/2026-06-30-allow-tool-calls-to-continue-when-hooks-time-out|Allow

@@ -4,20 +4,20 @@ date: '2026-04-13'
 description: 'Cursor · 2026-04-13 · Files and Data: Plan tabs now get the same document
   behaviors as files: support for reliable loading, dirty tracking, reload on plan…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-07-06-we-re-rolling-out-code-interpreter-to-all-chatgpt-plus-users-over-the-next-week-66255e|Code
-    interpreter is now rolling out in beta on web]]'
+  first_in_tracked: '[[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2
+    Files and Data changes in 0.2.2]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1012
+  lag_days: 1054
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: e8831f5dcd68842a7b709c17f0f61ac14b99399fc27e83e891f0ab515ee49622
+machine_hash: 8dc8c4bbc18a000d6a64af3d1716b205f1d0ba14fec15d6da2d8420fd82da875
 product: cursor
 product_name: Cursor
 record:
@@ -49,12 +49,12 @@ record:
   title: Plan tabs now get the same document behaviors as files
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-03-09-document-gh-host-http-proxy-https-proxy-no-color-and-no-proxy-environment-variab|Document
-  GH_HOST, HTTP_PROXY, HTTPS_PROXY, NO_COLOR, and NO_PROXY environment…]]'
-- '[[Changes/Gemini CLI/2026-03-17-docs-document-planning-workflows-with-conductor-example-by-jerop-in-https-github|docs:
-  document planning workflows with Conductor example]]'
-- '[[Changes/Gemini CLI/2026-03-24-docs-document-npm-deprecation-warnings-as-safe-to-ignore-by-h30s-in-https-github|docs:
-  document npm deprecation warnings as safe to ignore]]'
+- '[[Changes/Open WebUI/2026-03-25-2-files-and-data-changes-in-v0-8-11|2 Files and
+  Data changes in v0.8.11]]'
+- '[[Changes/Dify/2026-03-27-4-files-and-data-changes-in-1-13-3|4 Files and Data changes
+  in 1.13.3]]'
+- '[[Changes/Lovable/2026-04-02-generate-files-and-analyze-data|Generate files and
+  analyze data]]'
 source_release: '[[Releases/Cursor/cursor-2026-04-13-3-1-https-cursor-com-changelog-3-1-27a51313|cursor-2026-04-13-3-1-https-cursor-com-changelog-3-1-27a51313]]'
 source_type: cursor_changelog
 theme: file-data
@@ -93,14 +93,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Files and Data
 
-- Earlier: 2026-03-24 · Gemini CLI · [[Changes/Gemini CLI/2026-03-24-docs-document-npm-deprecation-warnings-as-safe-to-ignore-by-h30s-in-https-github|docs: document npm deprecation warnings as safe to ignore]]
+- Earlier: 2026-04-02 · Lovable · [[Changes/Lovable/2026-04-02-generate-files-and-analyze-data|Generate files and analyze data]]
 - Later: 2026-04-15 · Cursor · [[Changes/Cursor/2026-04-15-cursor-can-now-respond-by-creating-interactive-canvases-c4a1d3|Cursor can now respond by creating interactive canvases]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-07-06 · ChatGPT · [[Changes/ChatGPT/2023-07-06-we-re-rolling-out-code-interpreter-to-all-chatgpt-plus-users-over-the-next-week-66255e|Code interpreter is now rolling out in beta on web]]
+- Earliest same-theme entry in the tracked set: 2023-05-25 · Dify · [[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2 Files and Data changes in 0.2.2]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

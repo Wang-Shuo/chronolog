@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: 2b6cf3ed046afac6ebb9eab310d4327404bfb25b515f82386da620099cd4591a
+machine_hash: 774d4e94b8e9ffe98650c0c20f0149dd5d087c39d887e3e2c34a1b285b7f0830
 product: cursor
 product_name: Cursor
 record:
@@ -64,10 +64,10 @@ record:
   title: Compact chat responses
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-05-08-2-context-window-changes-in-rust-v0-130-0|2 Context
-  Window changes in rust-v0.130.0]]'
 - '[[Changes/Claude Code/2026-05-11-context-all-per-skill-token-estimates-now-account-for-the-model-s-tokenizer-and|/context
   all per-skill token estimates now account for the model''s tokenizer…]]'
+- '[[Changes/Dify/2026-05-12-refactor-web-migrate-workflow-panel-context-menu-primitive-by-lyzno1-in-https-gi|refactor(web):
+  migrate workflow panel context menu primitive]]'
 - '[[Changes/Claude Code/2026-05-13-rewind-menu-added-summarize-up-to-here-to-compress-earlier-context-while-keeping|Rewind
   menu: added "Summarize up to here" to compress earlier context while keeping…]]'
 source_release: '[[Releases/Cursor/cursor-2026-05-13-3-4-https-cursor-com-changelog-3-4-7fe50a9d|cursor-2026-05-13-3-4-https-cursor-com-changelog-3-4-7fe50a9d]]'

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 8c50fad5b8460beee5fa3957bf1cb2a8cef497bcd1dcf3dbc2a841629fe48993
+machine_hash: dfe1e6d0099810e3db8e2928018d14bd8cb05c010f720419e567cb10d531cd77
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -41,11 +41,10 @@ record:
   title: 'feat(core): add telemetry for subagent execution'
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2025-10-15-3-agent-mode-changes-in-v0-9-0|3 Agent Mode changes
-  in v0.9.0]]'
-- '[[Changes/Cline/2025-10-16-2-agent-mode-changes-in-v3-33-0|2 Agent Mode changes
-  in v3.33.0]]'
-- '[[Changes/Codex CLI/2025-10-17-agent-override-file-5215|Agent override file (♯5215)]]'
+- '[[Changes/ElevenLabs/2025-10-20-javascript-sdk|JavaScript SDK]]'
+- '[[Changes/ElevenLabs/2025-10-20-python-sdk|Python SDK]]'
+- '[[Changes/Dify/2025-10-22-4-agent-mode-changes-in-1-9-2|4 Agent Mode changes in
+  1.9.2]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2025-10-22-v0-10-0-github-256434073-b3dd91c0|gemini-cli-2025-10-22-v0-10-0-github-256434073-b3dd91c0]]'
 source_type: github_releases
 theme: agent-mode
@@ -85,7 +84,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2025-10-17 · Codex CLI · [[Changes/Codex CLI/2025-10-17-agent-override-file-5215|Agent override file (♯5215)]]
+- Earlier: 2025-10-22 · Dify · [[Changes/Dify/2025-10-22-4-agent-mode-changes-in-1-9-2|4 Agent Mode changes in 1.9.2]]
 - Later: 2025-10-23 · Codex CLI · [[Changes/Codex CLI/2025-10-23-2-agent-mode-changes-in-rust-v0-48-0|2 Agent Mode changes in rust-v0.48.0]]
 <!-- chronolog:end -->
 

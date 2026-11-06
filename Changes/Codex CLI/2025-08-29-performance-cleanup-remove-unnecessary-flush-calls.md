@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 9d8c373678679070496967d867f264b1f9d9a024893a67b62d99cca2b107c1d7
+machine_hash: b5c2fae387fbbc03b59bf253aabef3c6e0497435383cabbdbe06a8a7203ad1f6
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -41,12 +41,12 @@ record:
   title: '**Performance/cleanup**: remove unnecessary flush() calls'
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2025-08-14-6-reliability-and-performance-changes-in-v0-1-21|6
-  Reliability and Performance changes in v0.1.21]]'
-- '[[Changes/Cursor/2025-08-21-1-5-5-general-stability-improvements-and-bug-fixes-to-enhance-overall-applicatio|1.5.5:
-  General stability improvements and bug fixes to enhance overall application…]]'
 - '[[Changes/Codex CLI/2025-08-26-2-reliability-and-performance-changes-in-rust-v0-24-0|2
   Reliability and Performance changes in rust-v0.24.0]]'
+- '[[Changes/Dify/2025-08-27-6-reliability-and-performance-changes-in-1-8-0|6 Reliability
+  and Performance changes in 1.8.0]]'
+- '[[Changes/Open WebUI/2025-08-28-2-reliability-and-performance-changes-in-v0-6-26|2
+  Reliability and Performance changes in v0.6.26]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2025-08-29-rust-v0-27-0-github-243379671-3b3ef708|codex-cli-2025-08-29-rust-v0-27-0-github-243379671-3b3ef708]]'
 source_type: github_releases
 theme: reliability-performance
@@ -77,8 +77,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2025-08-26 · Codex CLI · [[Changes/Codex CLI/2025-08-26-2-reliability-and-performance-changes-in-rust-v0-24-0|2 Reliability and Performance changes in rust-v0.24.0]]
-- Later: 2025-09-02 · Codex CLI · [[Changes/Codex CLI/2025-09-02-2-reliability-and-performance-changes-in-rust-v0-28-0|2 Reliability and Performance changes in rust-v0.28.0]]
+- Earlier: 2025-08-28 · Open WebUI · [[Changes/Open WebUI/2025-08-28-2-reliability-and-performance-changes-in-v0-6-26|2 Reliability and Performance changes in v0.6.26]]
+- Later: 2025-09-01 · Lovable · [[Changes/Lovable/2025-09-01-clearer-error-feedback|Clearer error feedback]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 1dc67d9bc79f56d4872dd94c8170a4cef806ffc2e4562f2bc6dad36ba2b11ca4
+machine_hash: 1f638beb5da96bbe4040cf390ebc27ee442bea937d9c43c86d9b9abd6d315ab9
 product: windsurf
 product_name: Windsurf
 record:
@@ -89,7 +89,7 @@ type: change
 ## Nearby in Model Support
 
 - Earlier: 2026-02-05 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-02-05-2-model-support-changes-in-v0-0-403|2 Model Support changes in v0.0.403]]
-- Later: 2026-02-07 · Claude Code · [[Changes/Claude Code/2026-02-07-fast-mode-is-now-available-for-opus-4-6-learn-more-at-https-code-claude-com-docs|Fast mode is now available for Opus 4.6]]
+- Later: 2026-02-06 · Replit · [[Changes/Replit/2026-02-06-custom-openai-key-support|Custom OpenAI key support]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

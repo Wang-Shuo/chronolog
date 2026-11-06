@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 842e10d7c356c6444dff0edcc5586b10b6e705a5fe54e0b1fff9d4acacaa72dd
+machine_hash: 56e9db570835cc22108064c273f0ba92d9967efd29f8799d40bb3eb0fefdceeb
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -40,8 +40,7 @@ record:
   title: '#11699 chore: rm remote models fflag @sayan-oai'
   type: change
 related_changes:
-- '[[Changes/Cline/2026-02-13-ui-ux-fixes-with-minimax-model-family|UI/UX fixes with
-  minimax model family]]'
+- '[[Changes/Claude/2026-02-17-claude-sonnet-4-6-launch|Claude Sonnet 4.6 launch]]'
 - '[[Changes/Claude Code/2026-02-17-added-support-for-claude-sonnet-4-6|Added support
   for Claude Sonnet 4.6]]'
 - '[[Changes/Codex CLI/2026-02-17-11-model-support-changes-in-rust-v0-102-0|11 Model

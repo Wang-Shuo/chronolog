@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 437c7351fe496b781a709d8ff81b3c85a161fe61df77799633089a4624f1e9e7
+machine_hash: e395e7e47ae55ef4025fdebdcd9b60ae6581a038af5e67e2bb79ef3fb40c29fd
 product: aider
 product_name: Aider
 record:
@@ -50,10 +50,10 @@ record:
   title: 6 Model Support changes in v0.58.0
   type: change
 related_changes:
-- '[[Changes/OpenHands/2024-09-20-reduced-safety-thresholds-for-gemini-by-tobitege-in-https-github-com-all-hands-a|Reduced
-  safety thresholds for Gemini]]'
-- '[[Changes/Aider/2024-09-21-6-model-support-changes-in-v0-57-0|6 Model Support changes
-  in v0.57.0]]'
+- '[[Changes/Open WebUI/2024-09-24-3-model-support-changes-in-v0-3-24|3 Model Support
+  changes in v0.3.24]]'
+- "[[Changes/Open WebUI/2024-09-26-o1-max-completion-tokens-issue-resolved-compatibility-issues-with-openai-s-o1-mo|\U0001F527
+  O1 Max Completion Tokens Issue]]"
 - '[[Changes/OpenHands/2024-09-26-display-full-model-name-in-settings-ui-3900-by-iaavas-in-https-github-com-all-ha|Display
   full model name in Settings UI (♯3900)]]'
 source_release: '[[Releases/Aider/aider-2024-09-29-v0-58-0-github-177475417-38cf7d0f|aider-2024-09-29-v0-58-0-github-177475417-38cf7d0f]]'
@@ -100,7 +100,7 @@ Source: https://github.com/Aider-AI/aider/releases/tag/v0.58.0
 ## Nearby in Model Support
 
 - Earlier: 2024-09-26 · OpenHands · [[Changes/OpenHands/2024-09-26-display-full-model-name-in-settings-ui-3900-by-iaavas-in-https-github-com-all-ha|Display full model name in Settings UI (♯3900)]]
-- Later: 2024-10-04 · Aider · [[Changes/Aider/2024-10-04-sanity-checks-the-editor-model-on-launch-now-same-as-main-and-weak-models|Sanity checks the --editor-model on launch now, same as main and weak models]]
+- Later: 2024-09-30 · Dify · [[Changes/Dify/2024-09-30-36-model-support-changes-in-0-9-0|36 Model Support changes in 0.9.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

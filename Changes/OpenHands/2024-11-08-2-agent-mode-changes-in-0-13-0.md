@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 4575a718a20fc018a8b284ce8a5a2d18921c1bc35e38d82e167729d39eaa302e
+machine_hash: f072ada9109d177a40061f55e3135ec7adcd1216bb854c32e12a51f190b01105
 product: openhands
 product_name: OpenHands
 record:
@@ -44,10 +44,10 @@ record:
   title: 2 Agent Mode changes in 0.13.0
   type: change
 related_changes:
-- '[[Changes/OpenHands/2024-08-29-specialize-codeact-into-micro-agents-by-xingyaoww-in-https-github-com-all-hands|Specialize
-  CodeAct into micro agents]]'
-- '[[Changes/OpenHands/2024-09-04-files-display-updated-content-after-agent-edit-by-amanape-in-https-github-com-al|Files
-  display updated content after agent edit]]'
+- '[[Changes/ElevenLabs/2024-10-13-agents-platform-beta-agents-platform-is-now-in-beta|Agents
+  Platform Beta: Agents Platform is now in beta]]'
+- '[[Changes/Dify/2024-10-14-external-knowledge-and-retrievals-addressing-issues-in-agent-retrieval-and-entry|External
+  Knowledge and Retrievals: Addressing issues in agent retrieval…]]'
 - '[[Changes/OpenHands/2024-10-22-improvements-to-agent-editing-using-llm-by-xingyaoww-in-https-github-com-all-han|Improvements
   to Agent Editing using LLM]]'
 source_release: '[[Releases/OpenHands/openhands-2024-11-08-0-13-0-github-184456237-3af6f414|openhands-2024-11-08-0-13-0-github-184456237-3af6f414]]'
@@ -83,7 +83,7 @@ Source: https://github.com/OpenHands/OpenHands/releases/tag/0.13.0
 ## Nearby in Agent Mode
 
 - Earlier: 2024-10-22 · OpenHands · [[Changes/OpenHands/2024-10-22-improvements-to-agent-editing-using-llm-by-xingyaoww-in-https-github-com-all-han|Improvements to Agent Editing using LLM]]
-- Later: 2024-12-06 · OpenHands · [[Changes/OpenHands/2024-12-06-2-agent-mode-changes-in-0-15-1|2 Agent Mode changes in 0.15.1]]
+- Later: 2024-11-19 · Open WebUI · [[Changes/Open WebUI/2024-11-19-agentic-retrieval-improve-rag-accuracy-via-smart-pre-processing-of-chat-history|🗂️ Agentic Retrieval]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

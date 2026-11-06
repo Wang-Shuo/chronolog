@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: ea5b872a3f2ee6d84bc0d5f9594eaf9d1d1accd416ef47310864f897b82226a2
+machine_hash: 55f68748b77529571907fd419c858e077ec4ba70969a8060aabe932a7774118b
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -42,10 +42,9 @@ record:
   title: 'feat(core): enhance shell command validation and add core tools allowlist'
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-04-30-19-agent-mode-changes-in-rust-v0-128-0|19 Agent
-  Mode changes in rust-v0.128.0]]'
-- '[[Changes/GitHub Copilot CLI/2026-05-01-3-agent-mode-changes-in-v1-0-40|3 Agent
-  Mode changes in v1.0.40]]'
+- '[[Changes/Replit/2026-05-01-create-full-slide-decks-with-agent|Create full Slide
+  Decks with Agent]]'
+- '[[Changes/Replit/2026-05-01-agent|Agent]]'
 - '[[Changes/Claude Code/2026-05-04-auto-mode-when-the-classifier-can-t-evaluate-an-action-the-error-now-includes-a|Auto
   mode: when the classifier can''t evaluate an action, the error now includes…]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2026-05-05-v0-41-0-github-318058458-3befafe6|gemini-cli-2026-05-05-v0-41-0-github-318058458-3befafe6]]'

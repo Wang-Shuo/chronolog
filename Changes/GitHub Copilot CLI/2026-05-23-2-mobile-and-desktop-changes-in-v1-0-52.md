@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: cd8109b0a1200efaafcc50a071ae75a2b876e57567078d89a493f8b8951fc824
+machine_hash: d4a113219c72309cbe4de7c7f92469fddffba9dc1ecc2aecb71d7194d3251d92
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -44,10 +44,9 @@ record:
   title: 2 Mobile and Desktop changes in v1.0.52
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-05-18-10-mobile-and-desktop-changes-in-rust-v0-131-0|10
-  Mobile and Desktop changes in rust-v0.131.0]]'
 - '[[Changes/GitHub Copilot CLI/2026-05-19-2-mobile-and-desktop-changes-in-v1-0-49|2
   Mobile and Desktop changes in v1.0.49]]'
+- '[[Changes/Lovable/2026-05-21-improvements-and-bug-fixes|Improvements and bug fixes]]'
 - '[[Changes/Gemini CLI/2026-05-22-ci-release-build-and-attach-unsigned-macos-binaries-to-releases-by-ruomengz-in-h|ci(release):
   build and attach unsigned macOS binaries to releases]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-05-23-v1-0-52-github-328402909-801444d4|github-copilot-cli-2026-05-23-v1-0-52-github-328402909-801444d4]]'

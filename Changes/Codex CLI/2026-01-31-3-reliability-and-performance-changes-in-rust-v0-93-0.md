@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: fa3bc57604e1d7c99cbc3bdcf803426c3c116e7eb14f4b356c8d686cb8d81b20
+machine_hash: aa5f4470e27ef4f936ef4b0ede73851b6044c387a41cddc98fe4bd3061f546de
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -45,8 +45,8 @@ record:
   title: 3 Reliability and Performance changes in rust-v0.93.0
   type: change
 related_changes:
-- '[[Changes/Windsurf/2026-01-23-improved-overall-stability-and-reliability|Improved
-  overall stability and reliability]]'
+- '[[Changes/Ollama/2026-01-24-glm-4-7-flash-performance-and-correctness-improvements-fixing-repetitive-answers|GLM-4.7-Flash
+  performance and correctness improvements, fixing repetitive answers…]]'
 - '[[Changes/Cline/2026-01-27-throttle-diff-view-updates-during-streaming-to-reduce-ui-flickering-and-improve|Throttle
   diff view updates during streaming to reduce UI flickering and improve…]]'
 - '[[Changes/Windsurf/2026-01-30-various-bug-fixes-and-performance-improvements|Various
@@ -100,7 +100,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.93.0
 ## Nearby in Reliability and Performance
 
 - Earlier: 2026-01-30 · Windsurf · [[Changes/Windsurf/2026-01-30-various-bug-fixes-and-performance-improvements|Various bug fixes and performance improvements]]
-- Later: 2026-02-03 · Claude Code · [[Changes/Claude Code/2026-02-03-improved-memory-usage-for-resume-68-reduction-for-users-with-many-sessions-by-re|Improved memory usage for --resume (68% reduction for users with many sessions)…]]
+- Later: 2026-02-02 · ElevenLabs · [[Changes/ElevenLabs/2026-02-02-eleven-v3|Eleven v3]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

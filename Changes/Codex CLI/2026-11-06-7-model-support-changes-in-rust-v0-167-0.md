@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 1e2105932ec4e5b1c5a03813da85b360704c4e7fdeec2a6f1f0a80c00704e6a7
+machine_hash: f070baa9220d4999c4c4de72fb3487b0096a703d9822ea1c2cf463f9dc7d5eda
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -58,10 +58,10 @@ record:
   title: 7 Model Support changes in rust-v0.167.0
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-30-2-model-support-changes-in-v2-1-314|2 Model Support
-  changes in v2.1.314]]'
-- '[[Changes/Claude Code/2026-10-31-deprecated-fast-mode-for-opus-4-8-as-of-october-30-2026-it-will-be-removed-on-no|Deprecated
-  fast mode for Opus 4.8 as of October 30, 2026]]'
+- '[[Changes/Open WebUI/2026-11-03-4-model-support-changes-in-v0-13-0|4 Model Support
+  changes in v0.13.0]]'
+- '[[Changes/Dify/2026-11-04-4-model-support-changes-in-1-19-0|4 Model Support changes
+  in 1.19.0]]'
 - '[[Changes/Gemini CLI/2026-11-04-feat-cli-add-models-command-and-list-models-flag-for-model-discovery-by-urielefr|feat(cli):
   add models command and --list-models flag for model discovery]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-11-06-rust-v0-167-0-github-435979892-a2e140bc|codex-cli-2026-11-06-rust-v0-167-0-github-435979892-a2e140bc]]'

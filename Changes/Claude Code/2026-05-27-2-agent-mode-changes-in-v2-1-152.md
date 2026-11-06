@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 797d5b585a9efdb6928e88429986a1da3f939e150a2142d4ca3dc27cdf78f5fe
+machine_hash: d45af95a8d5ed65d514b042404d1afbcd83c8c7510fd3df81685063d396b5f4e
 product: claude-code
 product_name: Claude Code
 record:
@@ -46,10 +46,9 @@ record:
   title: 2 Agent Mode changes in v2.1.152
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2026-05-22-2-agent-mode-changes-in-v0-43-0|2 Agent Mode changes
-  in v0.43.0]]'
 - '[[Changes/GitHub Copilot CLI/2026-05-23-custom-agents-support-opt-in-deferred-tool-loading-via-deferred-tool-loading-in|Custom
   agents support opt-in deferred tool loading via deferred-tool-loading…]]'
+- '[[Changes/ElevenLabs/2026-05-25-elevenagents|ElevenAgents]]'
 - '[[Changes/Codex CLI/2026-05-26-3-agent-mode-changes-in-rust-v0-134-0|3 Agent Mode
   changes in rust-v0.134.0]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-05-27-v2-1-152-github-329718732-e62ea850|claude-code-2026-05-27-v2-1-152-github-329718732-e62ea850]]'

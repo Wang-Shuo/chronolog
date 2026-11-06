@@ -4,20 +4,20 @@ date: '2026-03-09'
 description: 'GitHub Copilot CLI · 2026-03-09 · Files and Data: Document GH_HOST,
   HTTP_PROXY, HTTPS_PROXY, NO_COLOR, and NO_PROXY environment variables in help'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-07-06-we-re-rolling-out-code-interpreter-to-all-chatgpt-plus-users-over-the-next-week-66255e|Code
-    interpreter is now rolling out in beta on web]]'
+  first_in_tracked: '[[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2
+    Files and Data changes in 0.2.2]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 977
+  lag_days: 1019
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 2d614b30cdd58062023f1a9a92500c1f8af77ff8a881c18f6b8a9a37cc3c1f63
+machine_hash: 568cee5d3eb04f379c682e79d2f2d9d2c099cceb8307b1cee8bdd585b30f76f3
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -44,12 +44,12 @@ record:
   title: Document GH_HOST, HTTP_PROXY, HTTPS_PROXY, NO_COLOR, and NO_PROXY environment…
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-03-05-4-files-and-data-changes-in-rust-v0-110-0|4 Files
-  and Data changes in rust-v0.110.0]]'
 - '[[Changes/Codex CLI/2026-03-05-added-sample-skill-documentation-for-artifact-workflows-including-slide-deck-and|Added
   sample skill documentation for artifact workflows, including slide deck…]]'
 - '[[Changes/Claude Code/2026-03-06-vscode-added-full-markdown-document-view-for-plans-in-vs-code-with-support-for-a|VSCode
   Added full markdown document view for plans in VS Code, with support…]]'
+- "[[Changes/Open WebUI/2026-03-08-android-photo-capture-fixed-an-issue-where-the-first-photo-taken-in-chat-appeare|\U0001F4F7
+  Android photo capture. Fixed an issue where the first photo taken in chat…]]"
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-03-09-v1-0-3-github-294937927-8c143137|github-copilot-cli-2026-03-09-v1-0-3-github-294937927-8c143137]]'
 source_type: github_releases
 theme: file-data
@@ -85,14 +85,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Files and Data
 
-- Earlier: 2026-03-06 · Claude Code · [[Changes/Claude Code/2026-03-06-vscode-added-full-markdown-document-view-for-plans-in-vs-code-with-support-for-a|VSCode Added full markdown document view for plans in VS Code, with support…]]
-- Later: 2026-03-17 · Gemini CLI · [[Changes/Gemini CLI/2026-03-17-docs-document-planning-workflows-with-conductor-example-by-jerop-in-https-github|docs: document planning workflows with Conductor example]]
+- Earlier: 2026-03-08 · Open WebUI · [[Changes/Open WebUI/2026-03-08-android-photo-capture-fixed-an-issue-where-the-first-photo-taken-in-chat-appeare|📷 Android photo capture. Fixed an issue where the first photo taken in chat…]]
+- Later: 2026-03-17 · Dify · [[Changes/Dify/2026-03-17-16-files-and-data-changes-in-1-13-1|16 Files and Data changes in 1.13.1]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-07-06 · ChatGPT · [[Changes/ChatGPT/2023-07-06-we-re-rolling-out-code-interpreter-to-all-chatgpt-plus-users-over-the-next-week-66255e|Code interpreter is now rolling out in beta on web]]
+- Earliest same-theme entry in the tracked set: 2023-05-25 · Dify · [[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2 Files and Data changes in 0.2.2]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

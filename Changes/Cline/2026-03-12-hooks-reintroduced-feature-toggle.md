@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: ad7d35f6d39754273a0cd3d2319a273f28ea696882cae475524035f8c3f4ae50
+machine_hash: 25bd6b84843c3a853757e2a8f9b7a73ac4c1de3b03eb47634fda36ff34ac97a3
 product: cline
 product_name: Cline
 record:
@@ -42,10 +42,10 @@ record:
   title: 'Hooks: reintroduced feature toggle'
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2026-03-11-4-apps-and-integrations-changes-in-v0-33-0|4 Apps
-  and Integrations changes in v0.33.0]]'
 - '[[Changes/GitHub Copilot CLI/2026-03-11-4-apps-and-integrations-changes-in-v1-0-4|4
   Apps and Integrations changes in v1.0.4]]'
+- '[[Changes/v0/2026-03-11-added-one-click-marketplace-integration-installation-for-ios-app|Added
+  one-click marketplace integration installation for iOS app]]'
 - '[[Changes/Claude Code/2026-03-12-changed-plugin-dir-so-local-dev-copies-now-override-installed-marketplace-plugin|Changed
   --plugin-dir so local dev copies now override installed marketplace…]]'
 source_release: '[[Releases/Cline/cline-2026-03-12-v3-72-0-github-295933113-abe1d1e7|cline-2026-03-12-v3-72-0-github-295933113-abe1d1e7]]'

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 5fd879311f025d7738ed4f666b63ffd8088ea89ceaf289f166a35d0cd50cc260
+machine_hash: 72b64821064e4687b576ac3bb6e513eaeea4e7d746006aa1f26970505f06a2d9
 product: claude-code
 product_name: Claude Code
 record:
@@ -95,7 +95,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.86
 ## Nearby in Context Window
 
 - Earlier: 2026-03-26 · Codex CLI · [[Changes/Codex CLI/2026-03-26-5-context-window-changes-in-rust-v0-117-0|5 Context Window changes in rust-v0.117.0]]
-- Later: 2026-03-31 · Codex CLI · [[Changes/Codex CLI/2026-03-31-16286-auth-generalize-external-auth-tokens-for-bearer-only-sources-bolinfest|♯16286 auth: generalize external auth tokens for bearer-only sources @bolinfest]]
+- Later: 2026-03-27 · Dify · [[Changes/Dify/2026-03-27-feat-workflow-add-selection-context-menu-helpers-and-integrate-with-context-menu|feat(workflow): add selection context menu helpers and integrate with context menu…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

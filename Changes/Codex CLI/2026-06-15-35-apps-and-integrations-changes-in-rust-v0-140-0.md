@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 3258a0612ecc798305f7be20356c043dbd30c48d17b3a1f56c877f1b682fff0e
+machine_hash: b33cc3ec7597c6b64578f4b2b3d8070433756ec3204264c9222268cbd6ff6ce3
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -110,8 +110,8 @@ record:
   title: 35 Apps and Integrations changes in rust-v0.140.0
   type: change
 related_changes:
-- '[[Changes/Cline/2026-06-11-restore-the-anthropic-provider-on-vs-code-1-123-and-later-where-the-updated-node|Restore
-  the Anthropic provider on VS Code 1.123 and later, where the updated Node 24…]]'
+- '[[Changes/Claude/2026-06-12-edit-claude-s-drafts-in-place|Edit Claude’s drafts
+  in place]]'
 - '[[Changes/GitHub Copilot CLI/2026-06-13-8-apps-and-integrations-changes-in-v1-0-62|8
   Apps and Integrations changes in v1.0.62]]'
 - '[[Changes/Claude Code/2026-06-15-2-apps-and-integrations-changes-in-v2-1-178|2
@@ -232,7 +232,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.140.0
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-06-15 · Claude Code · [[Changes/Claude Code/2026-06-15-2-apps-and-integrations-changes-in-v2-1-178|2 Apps and Integrations changes in v2.1.178]]
-- Later: 2026-06-16 · Claude Code · [[Changes/Claude Code/2026-06-16-improved-plugin-loading-performance-in-remote-sessions|Improved plugin loading performance in remote sessions]]
+- Later: 2026-06-15 · ElevenLabs · [[Changes/ElevenLabs/2026-06-15-sdk-releases|SDK Releases]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: c3c53c589697d907dd1c6706128bf76924e695330696d871383942ab5865ad30
+machine_hash: 44542da81d4545e650ffec89201cbcf7cb2ff820bbf8a29d9d922cbd82c81ede
 product: windsurf
 product_name: Windsurf
 record:
@@ -42,12 +42,11 @@ record:
   title: Improved diagnostics for third party extensions
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2025-10-13-3-apps-and-integrations-changes-in-v0-0-340|3
-  Apps and Integrations changes in v0.0.340]]'
-- '[[Changes/Gemini CLI/2025-10-15-3-apps-and-integrations-changes-in-v0-9-0|3 Apps
-  and Integrations changes in v0.9.0]]'
 - '[[Changes/Cline/2025-10-16-9-apps-and-integrations-changes-in-v3-33-0|9 Apps and
   Integrations changes in v3.33.0]]'
+- '[[Changes/Replit/2025-10-17-build-mode-redesign-for-react-apps|Build mode redesign
+  for React apps]]'
+- '[[Changes/Replit/2025-10-17-clickup-integration|ClickUp integration]]'
 source_release: '[[Releases/Windsurf/windsurf-2025-10-17-v1-12-21-0eba0fbe|windsurf-2025-10-17-v1-12-21-0eba0fbe]]'
 source_type: windsurf_changelog
 theme: apps-integrations
@@ -74,7 +73,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2025-10-16 · Cline · [[Changes/Cline/2025-10-16-9-apps-and-integrations-changes-in-v3-33-0|9 Apps and Integrations changes in v3.33.0]]
+- Earlier: 2025-10-17 · Replit · [[Changes/Replit/2025-10-17-clickup-integration|ClickUp integration]]
 - Later: 2025-10-18 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2025-10-18-enabled-github-mcp-server-in-prompt-mode|Enabled GitHub MCP server in prompt mode]]
 <!-- chronolog:end -->
 

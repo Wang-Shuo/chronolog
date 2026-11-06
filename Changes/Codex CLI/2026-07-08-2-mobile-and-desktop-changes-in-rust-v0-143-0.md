@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 570fdf3334eb602d0ce66092c6aaad4216b27c9bdad3fad52dcd80366254f906
+machine_hash: 71b43d49c5b3557da9962772ed20f7fa89e54ffaabbb96776a60b2e40f6e7127
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -42,11 +42,12 @@ record:
   title: 2 Mobile and Desktop changes in rust-v0.143.0
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-06-30-2-mobile-and-desktop-changes-in-v1-0-66|2
-  Mobile and Desktop changes in v1.0.66]]'
-- '[[Changes/Windsurf/2026-07-04-devin-desktop|Devin Desktop]]'
+- '[[Changes/Claude/2026-07-07-claude-cowork-on-web-and-mobile|Claude Cowork on web
+  and mobile]]'
 - '[[Changes/GitHub Copilot CLI/2026-07-07-3-mobile-and-desktop-changes-in-v1-0-69|3
   Mobile and Desktop changes in v1.0.69]]'
+- '[[Changes/Lovable/2026-07-07-find-in-page-clipboard-and-location-in-the-desktop-app|Find
+  in page, clipboard, and location in the desktop app]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-07-08-rust-v0-143-0-github-350650561-9eba805c|codex-cli-2026-07-08-rust-v0-143-0-github-350650561-9eba805c]]'
 source_type: github_releases
 theme: mobile-desktop
@@ -94,7 +95,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.143.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2026-07-07 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-07-07-3-mobile-and-desktop-changes-in-v1-0-69|3 Mobile and Desktop changes in v1.0.69]]
+- Earlier: 2026-07-07 · Lovable · [[Changes/Lovable/2026-07-07-find-in-page-clipboard-and-location-in-the-desktop-app|Find in page, clipboard, and location in the desktop app]]
 - Later: 2026-07-09 · ChatGPT · [[Changes/ChatGPT/2026-07-09-to-create-a-site-start-in-chatgpt-work-on-the-web-or-in-work-or-codex-in-the-cha|To create a Site, start in ChatGPT Work on the web or in Work or Codex…]]
 <!-- chronolog:end -->
 

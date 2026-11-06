@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 410459b858abdf0690fe7a3512055350674c60a964639173f6ed011acc5ee8fe
+machine_hash: 8399951a2fe9e75b90e2496e9868cbfad0e79a37afa7980ae7c4ca40345c56e5
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -88,7 +88,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.125.0
 ## Nearby in Context Window
 
 - Earlier: 2026-04-23 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-04-23-2-context-window-changes-in-v1-0-35|2 Context Window changes in v1.0.35]]
-- Later: 2026-04-28 · Claude Code · [[Changes/Claude Code/2026-04-28-vscode-context-now-opens-a-native-token-usage-dialog|VSCode /context now opens a native token usage dialog]]
+- Later: 2026-04-24 · Lovable · [[Changes/Lovable/2026-04-24-chat-history-search|Chat history search]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

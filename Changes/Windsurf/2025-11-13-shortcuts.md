@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 2b86713af28b0347ca1923e1b15efe3e289e9155d475a1b21443c42e30a36bc7
+machine_hash: 907f88525e2dde440e5ac9bb9ca32ba6898ca09cca8c34042542e0c4535be7d6
 product: windsurf
 product_name: Windsurf
 record:
@@ -45,12 +45,11 @@ record:
   title: Shortcuts
   type: change
 related_changes:
-- '[[Changes/Cline/2025-11-06-2-editor-experience-changes-in-v3-36-0|2 Editor Experience
-  changes in v3.36.0]]'
-- '[[Changes/Gemini CLI/2025-11-07-enable-codebase-investigator-by-default-for-preview-by-silviojr-in-https-github|enable
-  codebase investigator by default for preview]]'
 - '[[Changes/GitHub Copilot CLI/2025-11-12-3-editor-experience-changes-in-v0-0-355|3
   Editor Experience changes in v0.0.355]]'
+- '[[Changes/Ollama/2025-11-12-autocomplete|Autocomplete]]'
+- '[[Changes/Dify/2025-11-13-refactor-web-reuse-the-same-edit-custom-collection-modal-component-and-fix-the-p|refactor(web):
+  reuse the same edit-custom-collection-modal component, and fix…]]'
 source_release: '[[Releases/Windsurf/windsurf-2025-11-13-v1-12-31-173d695f|windsurf-2025-11-13-v1-12-31-173d695f]]'
 source_type: windsurf_changelog
 theme: editor-experience
@@ -82,7 +81,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2025-11-12 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2025-11-12-3-editor-experience-changes-in-v0-0-355|3 Editor Experience changes in v0.0.355]]
+- Earlier: 2025-11-13 · Dify · [[Changes/Dify/2025-11-13-refactor-web-reuse-the-same-edit-custom-collection-modal-component-and-fix-the-p|refactor(web): reuse the same edit-custom-collection-modal component, and fix…]]
 - Later: 2025-11-14 · Gemini CLI · [[Changes/Gemini CLI/2025-11-14-add-expected-replacements-to-smart-edit-tool-by-scidomino-in-https-github-com-go|Add expected_replacements to smart-edit tool]]
 <!-- chronolog:end -->
 

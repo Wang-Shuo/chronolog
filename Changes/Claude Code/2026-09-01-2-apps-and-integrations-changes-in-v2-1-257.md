@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 41940093584f6ffa28f5fb3bca6ac8b7ac92c0e144c721c5541162c49a851f05
+machine_hash: b65394977116ffadf536381b9019e01a70fcef3aa484ace84cd1803d7446d694
 product: claude-code
 product_name: Claude Code
 record:
@@ -46,10 +46,9 @@ record:
   title: 2 Apps and Integrations changes in v2.1.257
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-08-28-4-apps-and-integrations-changes-in-v2-1-251|4
-  Apps and Integrations changes in v2.1.251]]'
-- '[[Changes/Codex CLI/2026-08-29-11-apps-and-integrations-changes-in-rust-v0-151-0|11
-  Apps and Integrations changes in rust-v0.151.0]]'
+- '[[Changes/ElevenLabs/2026-08-31-javascript-sdk|JavaScript SDK]]'
+- '[[Changes/Lovable/2026-08-31-create-a-connector-for-any-api|Create a connector
+  for any API]]'
 - '[[Changes/ChatGPT/2026-09-01-eligible-chatgpt-for-clinicians-users-in-the-united-states-can-now-use-healthcar|Healthcare
   Public Data in ChatGPT for Clinicians]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-01-v2-1-257-github-380686035-b86855a6|claude-code-2026-09-01-v2-1-257-github-380686035-b86855a6]]'

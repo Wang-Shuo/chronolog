@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 1a0939b27dcccf021376042c50cafd6e6db22571b4aea6ef0afce8faab90a240
+machine_hash: a8ac1c1344eadc8601ffec664ef9f4eef06718d623e09684b0f19dba7b3f5194
 product: claude-code
 product_name: Claude Code
 record:
@@ -43,10 +43,10 @@ record:
   title: 2 Context Window changes in v2.1.84
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2026-03-24-2-context-window-changes-in-v0-35-0|2 Context Window
-  changes in v0.35.0]]'
 - '[[Changes/ChatGPT/2026-03-25-starting-today-for-chatgpt-plus-pro-and-business-users-long-pastes-are-handled-d|Large
   pastes are now handled as attachments]]'
+- '[[Changes/Open WebUI/2026-03-25-3-context-window-changes-in-v0-8-11|3 Context Window
+  changes in v0.8.11]]'
 - '[[Changes/Claude Code/2026-03-26-reduced-ui-stutter-when-compaction-triggers-on-large-sessions|Reduced
   UI stutter when compaction triggers on large sessions]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-03-26-v2-1-84-github-301540101-d02104aa|claude-code-2026-03-26-v2-1-84-github-301540101-d02104aa]]'

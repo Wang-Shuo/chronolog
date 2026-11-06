@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: fd0aa7f4094a8be3a7de85e7fef1c67137beef502ecf6a4c5b8ed801b93e7ba9
+machine_hash: e2754855e71b6ed75e7545dd7f486f2321d3c62a5d25ffe80d4e66364e750550
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -89,10 +89,9 @@ record:
   title: 22 Apps and Integrations changes in rust-v0.166.0
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-10-27-10-apps-and-integrations-changes-in-rust-v0-165-0|10
-  Apps and Integrations changes in rust-v0.165.0]]'
 - '[[Changes/GitHub Copilot CLI/2026-10-27-interactive-and-sdk-autopilot-sessions-keep-waiting-for-attached-background-task|Interactive
   and SDK Autopilot sessions keep waiting for attached background tasks…]]'
+- '[[Changes/Lovable/2026-10-27-connect-your-app-to-scrive|Connect your app to Scrive]]'
 - '[[Changes/OpenHands/2026-10-27-refactor-extensions-name-dialog-viewport-limits-by-enyst-in-https-github-com-ope|refactor(extensions):
   name dialog viewport limits]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-10-29-rust-v0-166-0-github-428320524-44f8c24a|codex-cli-2026-10-29-rust-v0-166-0-github-428320524-44f8c24a]]'
@@ -183,7 +182,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.166.0
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-10-27 · OpenHands · [[Changes/OpenHands/2026-10-27-refactor-extensions-name-dialog-viewport-limits-by-enyst-in-https-github-com-ope|refactor(extensions): name dialog viewport limits]]
-- Later: 2026-10-30 · Claude Code · [[Changes/Claude Code/2026-10-30-3-apps-and-integrations-changes-in-v2-1-314|3 Apps and Integrations changes in v2.1.314]]
+- Later: 2026-10-29 · Open WebUI · [[Changes/Open WebUI/2026-10-29-2-apps-and-integrations-changes-in-v0-12-5|2 Apps and Integrations changes in v0.12.5]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

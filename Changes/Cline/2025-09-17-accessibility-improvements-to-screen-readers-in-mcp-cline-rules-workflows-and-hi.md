@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: accessibility-localization
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 08f05a15030d6335a1306e4edea8ef929ec069b4772062e5c6e892238794584b
+machine_hash: 3ef1f1f96aef8b5a2c96b605865ea2c2ed72362ddf8e553c32b8d1047f6aeeaf
 product: cline
 product_name: Cline
 record:
@@ -52,8 +52,8 @@ record:
   title: 'Accessibility: Improvements to screen readers in MCP, Cline Rules, workflows…'
   type: change
 related_changes:
-- '[[Changes/Cline/2025-06-20-2-accessibility-and-localization-changes-in-v3-17-15|2
-  Accessibility and Localization changes in v3.17.15]]'
+- '[[Changes/Open WebUI/2025-08-28-2-accessibility-and-localization-changes-in-v0-6-26|2
+  Accessibility and Localization changes in v0.6.26]]'
 - '[[Changes/Gemini CLI/2025-09-04-introduce-initial-screen-reader-mode-handling-and-flag-by-chrstnb-in-https-githu|Introduce
   initial screen reader mode handling and flag]]'
 - '[[Changes/Gemini CLI/2025-09-09-screen-reader-updates-by-chrstnb-in-https-github-com-google-gemini-gemini-cli-pu|Screen
@@ -87,7 +87,7 @@ type: change
 ## Nearby in Accessibility and Localization
 
 - Earlier: 2025-09-09 · Gemini CLI · [[Changes/Gemini CLI/2025-09-09-screen-reader-updates-by-chrstnb-in-https-github-com-google-gemini-gemini-cli-pu|Screen reader updates]]
-- Later: 2025-10-01 · Gemini CLI · [[Changes/Gemini CLI/2025-10-01-2-accessibility-and-localization-changes-in-v0-7-0|2 Accessibility and Localization changes in v0.7.0]]
+- Later: 2025-09-17 · Open WebUI · [[Changes/Open WebUI/2025-09-17-3-accessibility-and-localization-changes-in-v0-6-29|3 Accessibility and Localization changes in v0.6.29]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

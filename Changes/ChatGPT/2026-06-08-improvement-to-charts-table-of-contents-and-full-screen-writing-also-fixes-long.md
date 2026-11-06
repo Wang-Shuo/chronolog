@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: e6ec762a0b5f98f9c444ff4c96e63df91e518dc6e075278464c5ed8532771638
+machine_hash: 0e2705bddb5e4172a8bc0a286c1097bc4bb4c35020df79e14354e00471be6bff
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -45,10 +45,10 @@ record:
   title: Improvement to charts, table of contents and full screen writing
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-06-04-2-interface-experience-changes-in-rust-v0-137-0|2
-  Interface Experience changes in rust-v0.137.0]]'
 - '[[Changes/Cursor/2026-06-04-shared-canvases-can-now-be-opened-full-screen-in-the-browser-making-them-easier|Shared
   canvases can now be opened full-screen in the browser, making them easier…]]'
+- '[[Changes/Lovable/2026-06-04-transfer-a-domain-out-to-another-registrar|Transfer
+  a domain out to another registrar]]'
 - '[[Changes/GitHub Copilot CLI/2026-06-05-6-interface-experience-changes-in-v1-0-60|6
   Interface Experience changes in v1.0.60]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-06-08-chatgpt-app-experience-updates-d15f55c5|chatgpt-2026-06-08-chatgpt-app-experience-updates-d15f55c5]]'

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: b35c7eca11a80ec901f3e40abab54c488ef9226338cebd4f8fe09df6cfb222f3
+machine_hash: 7673453246a77f5b3f0473cc03cad9e74b657d8c64785a616b5b84ac50c90f63
 product: windsurf
 product_name: Windsurf
 record:
@@ -51,12 +51,12 @@ record:
   title: Devin Cloud
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-07-18-added-a-periodic-progress-heartbeat-for-long-running-tool-calls-that-previously|Added
-  a periodic progress heartbeat for long-running tool calls that previously went…]]'
-- '[[Changes/Claude Code/2026-07-21-added-warnings-when-transcript-writes-are-failing-e-g-disk-full-or-when-session|Added
-  warnings when transcript writes are failing (e.g. disk full) or when session…]]'
-- '[[Changes/Codex CLI/2026-07-21-3-reliability-and-performance-changes-in-rust-v0-145-0|3
-  Reliability and Performance changes in rust-v0.145.0]]'
+- '[[Changes/Ollama/2026-07-23-expanded-gpu-support-with-cuda-on-windows-arm64-b200-support-through-cuda-12-and|Expanded
+  GPU support with CUDA on Windows ARM64, B200 support through CUDA 12…]]'
+- '[[Changes/Open WebUI/2026-07-27-12-reliability-and-performance-changes-in-v0-11-0|12
+  Reliability and Performance changes in v0.11.0]]'
+- '[[Changes/Dify/2026-07-28-lightweight-recent-apps-endpoint-new-get-console-api-apps-recent-endpoint-reduce|Lightweight
+  recent apps endpoint]]'
 source_release: '[[Releases/Windsurf/windsurf-2026-07-29-v3-6-21-93635c87|windsurf-2026-07-29-v3-6-21-93635c87]]'
 source_type: windsurf_changelog
 theme: reliability-performance
@@ -94,7 +94,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2026-07-21 · Codex CLI · [[Changes/Codex CLI/2026-07-21-3-reliability-and-performance-changes-in-rust-v0-145-0|3 Reliability and Performance changes in rust-v0.145.0]]
+- Earlier: 2026-07-28 · Dify · [[Changes/Dify/2026-07-28-lightweight-recent-apps-endpoint-new-get-console-api-apps-recent-endpoint-reduce|Lightweight recent apps endpoint]]
 - Later: 2026-07-30 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-07-30-diff-scrolls-and-syntax-highlights-large-multi-file-diffs-faster|/diff scrolls and syntax-highlights large multi-file diffs faster]]
 <!-- chronolog:end -->
 

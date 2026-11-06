@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 1df4e7f2f812f2627c4e338f5ca83b64d1e79a4eb9c6fa9aab9631dc72b9fe7d
+machine_hash: b573c512edfa9794cb1c574789951627c0674009d4776d127cf452cb6ad932b1
 product: claude-code
 product_name: Claude Code
 record:
@@ -47,12 +47,12 @@ record:
   title: Added `spinnerTipsOverride` setting to customize spinner tips
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-02-13-quick-tools-in-the-composer-a-new-quick-tools-menu-in-the-message-composer-makes|Quick
-  tools in the composer]]'
-- '[[Changes/ChatGPT/2026-02-13-simplified-composer-the-message-composer-has-been-streamlined-to-reduce-visual-c|Simplified
-  composer]]'
 - '[[Changes/Claude Code/2026-02-13-improved-narrow-terminal-layout-for-prompt-footer|Improved
   narrow terminal layout for prompt footer]]'
+- '[[Changes/Open WebUI/2026-02-14-2-interface-experience-changes-in-v0-8-1|2 Interface
+  Experience changes in v0.8.1]]'
+- '[[Changes/Open WebUI/2026-02-16-strikethrough-shortcut-conflict-fix-pressing-ctrl-shift-s-to-toggle-the-sidebar|⌨️
+  Strikethrough shortcut conflict fix. Pressing Ctrl+Shift+S to toggle…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-02-17-v2-1-45-github-287379410-d0651fb6|claude-code-2026-02-17-v2-1-45-github-287379410-d0651fb6]]'
 source_type: github_releases
 theme: interface-experience
@@ -86,7 +86,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-02-13 · Claude Code · [[Changes/Claude Code/2026-02-13-improved-narrow-terminal-layout-for-prompt-footer|Improved narrow terminal layout for prompt footer]]
+- Earlier: 2026-02-16 · Open WebUI · [[Changes/Open WebUI/2026-02-16-strikethrough-shortcut-conflict-fix-pressing-ctrl-shift-s-to-toggle-the-sidebar|⌨️ Strikethrough shortcut conflict fix. Pressing Ctrl+Shift+S to toggle…]]
 - Later: 2026-02-17 · Codex CLI · [[Changes/Codex CLI/2026-02-17-3-interface-experience-changes-in-rust-v0-102-0|3 Interface Experience changes in rust-v0.102.0]]
 <!-- chronolog:end -->
 

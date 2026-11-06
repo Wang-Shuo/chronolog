@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: a95a5fe62ad0375d98e9d3db4aca7b90cacb44c8cdbcd2d52064825990611121
+machine_hash: 261da8a02de90223153bd43cb528fc333b6a5f2d74ca1bf741835f6a3f4e3cf8
 product: windsurf
 product_name: Windsurf
 record:
@@ -41,9 +41,8 @@ record:
   title: Agents & Tool Execution
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-12-10-multi-agent-judging|Multi-agent judging]]'
-- '[[Changes/Cursor/2025-12-10-agent-plans-are-now-files-that-can-be-edited-with-normal-tools|Agent
-  plans are now files that can be edited with normal tools]]'
+- '[[Changes/ElevenLabs/2025-12-15-agents-platform|Agents Platform]]'
+- '[[Changes/ElevenLabs/2025-12-15-agents-platform-ef857c|Agents Platform]]'
 - '[[Changes/OpenHands/2025-12-16-new-openhands-1-0-0-using-the-new-software-agent-sdk-https-github-com-openhands|New
   OpenHands 1.0.0 using the new…]]'
 source_release: '[[Releases/Windsurf/windsurf-2025-12-16-v1-12-47-ba92e48b|windsurf-2025-12-16-v1-12-47-ba92e48b]]'
@@ -77,7 +76,7 @@ type: change
 ## Nearby in Agent Mode
 
 - Earlier: 2025-12-16 · OpenHands · [[Changes/OpenHands/2025-12-16-new-openhands-1-0-0-using-the-new-software-agent-sdk-https-github-com-openhands|New OpenHands 1.0.0 using the new…]]
-- Later: 2025-12-18 · Codex CLI · [[Changes/Codex CLI/2025-12-18-3-agent-mode-changes-in-rust-v0-74-0|3 Agent Mode changes in rust-v0.74.0]]
+- Later: 2025-12-18 · Claude · [[Changes/Claude/2025-12-18-skills-for-organizations-partners-and-the-ecosystem|Skills for organizations, partners, and the ecosystem]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

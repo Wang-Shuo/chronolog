@@ -4,20 +4,20 @@ date: '2023-08-22'
 description: 'Aider · 2023-08-22 · Voice and Audio: 2 changes in v0.13.0 — Send chat
   history as prompt/context for Whisper voice transcription'
 diffusion:
-  first_in_tracked: '[[Changes/Aider/2023-08-11-voice-to-code-https-aider-chat-docs-voice-html-support-which-allows-you-to-code|Voice-to-code((source
-    link) support, which allows you…]]'
+  first_in_tracked: '[[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2
+    Voice and Audio changes in 0.3.7]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 11
+  lag_days: 43
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: dad696b3735b92624f784f4e545dbb72bceafa8e63cf187100ef6d994c55ecba
+machine_hash: b6468bfd796e10c2d24cfec18e3043f9c0bf90e36835dcb927759087f1720cb6
 product: aider
 product_name: Aider
 record:
@@ -43,6 +43,10 @@ record:
   title: 2 Voice and Audio changes in v0.13.0
   type: change
 related_changes:
+- '[[Changes/Dify/2023-07-14-convert-audio-wav-to-mp3-by-zxhlyh-in-https-github-com-langgenius-dify-pull-552|convert
+  audio wav to mp3]]'
+- '[[Changes/Dify/2023-07-27-feat-application-api-add-speech-to-text-by-zxhlyh-in-https-github-com-langgenius|Feat/application
+  api add speech to text]]'
 - '[[Changes/Aider/2023-08-11-voice-to-code-https-aider-chat-docs-voice-html-support-which-allows-you-to-code|Voice-to-code((source
   link) support, which allows you…]]'
 source_release: '[[Releases/Aider/aider-2023-08-22-v0-13-0-github-118225054-d6d92e9a|aider-2023-08-22-v0-13-0-github-118225054-d6d92e9a]]'
@@ -86,7 +90,7 @@ Source: https://github.com/Aider-AI/aider/releases/tag/v0.13.0
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-08-11 · Aider · [[Changes/Aider/2023-08-11-voice-to-code-https-aider-chat-docs-voice-html-support-which-allows-you-to-code|Voice-to-code((source link) support, which allows you…]]
+- Earliest same-theme entry in the tracked set: 2023-07-10 · Dify · [[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2 Voice and Audio changes in 0.3.7]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

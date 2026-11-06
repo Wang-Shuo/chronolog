@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 4561b1230657d21add56a663f01752677552a5a84b3017c0dce26d7c7e4baf46
+machine_hash: fe293175b2b8eb6ae2beb50fb1d5ac2394600b6736df1b83ca12428785f83ffe
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -42,12 +42,12 @@ record:
   title: 2 Mobile and Desktop changes in rust-v0.24.0
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2025-08-14-2-mobile-and-desktop-changes-in-v0-1-21|2 Mobile
-  and Desktop changes in v0.1.21]]'
-- '[[Changes/Codex CLI/2025-08-20-2-mobile-and-desktop-changes-in-rust-v0-23-0|2 Mobile
-  and Desktop changes in rust-v0.23.0]]'
+- '[[Changes/Open WebUI/2025-08-21-3-mobile-and-desktop-changes-in-v0-6-23|3 Mobile
+  and Desktop changes in v0.6.23]]'
 - '[[Changes/ChatGPT/2025-08-22-this-feature-will-initially-only-be-available-on-the-chatgpt-website-and-windows|This
   feature will initially only be available on the ChatGPT website and Windows app]]'
+- '[[Changes/Ollama/2025-08-25-download-ollama-for-macos-or-windows|Download Ollama
+  for macOS or Windows]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2025-08-26-rust-v0-24-0-github-242647588-70fa432e|codex-cli-2025-08-26-rust-v0-24-0-github-242647588-70fa432e]]'
 source_type: github_releases
 theme: mobile-desktop
@@ -91,7 +91,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.24.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2025-08-22 · ChatGPT · [[Changes/ChatGPT/2025-08-22-this-feature-will-initially-only-be-available-on-the-chatgpt-website-and-windows|This feature will initially only be available on the ChatGPT website and Windows app]]
+- Earlier: 2025-08-25 · Ollama · [[Changes/Ollama/2025-08-25-download-ollama-for-macos-or-windows|Download Ollama for macOS or Windows]]
 - Later: 2025-09-02 · Codex CLI · [[Changes/Codex CLI/2025-09-02-3-mobile-and-desktop-changes-in-rust-v0-28-0|3 Mobile and Desktop changes in rust-v0.28.0]]
 <!-- chronolog:end -->
 

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 0b47c9dcb8e488f22f884715d26c6d8f82ba72938a2176da3c48b635252090dd
+machine_hash: 9fd42261b892558b85d877fa0814db68336a660a779a7b0662229c4e4bac327b
 product: openhands
 product_name: OpenHands
 record:
@@ -49,12 +49,10 @@ record:
   title: 4 Agent Mode changes in v1.27.0
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-08-4-agent-mode-changes-in-v2-1-295|4 Agent Mode
-  changes in v2.1.295]]'
-- '[[Changes/Codex CLI/2026-10-08-14-agent-mode-changes-in-rust-v0-162-0|14 Agent
-  Mode changes in rust-v0.162.0]]'
-- '[[Changes/Claude Code/2026-10-09-3-agent-mode-changes-in-v2-1-296|3 Agent Mode
-  changes in v2.1.296]]'
+- '[[Changes/Open WebUI/2026-10-10-7-agent-mode-changes-in-v0-12-0|7 Agent Mode changes
+  in v0.12.0]]'
+- '[[Changes/ElevenLabs/2026-10-12-elevenagents|ElevenAgents]]'
+- '[[Changes/ElevenLabs/2026-10-12-elevenagents-545be2|ElevenAgents]]'
 source_release: '[[Releases/OpenHands/openhands-2026-10-12-v1-27-0-github-410728945-cac9a43e|openhands-2026-10-12-v1-27-0-github-410728945-cac9a43e]]'
 source_type: github_releases
 theme: agent-mode
@@ -96,7 +94,7 @@ Source: https://github.com/OpenHands/OpenHands/releases/tag/v1.27.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2026-10-09 · Claude Code · [[Changes/Claude Code/2026-10-09-3-agent-mode-changes-in-v2-1-296|3 Agent Mode changes in v2.1.296]]
+- Earlier: 2026-10-12 · ElevenLabs · [[Changes/ElevenLabs/2026-10-12-elevenagents-545be2|ElevenAgents]]
 - Later: 2026-10-13 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-10-13-3-agent-mode-changes-in-v1-0-97|3 Agent Mode changes in v1.0.97]]
 <!-- chronolog:end -->
 

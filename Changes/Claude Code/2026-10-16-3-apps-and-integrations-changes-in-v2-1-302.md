@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 0c764d3b8a453ba56e942d210495674e7a73099bf4bf1eaef4bfb5d85b2a3a25
+machine_hash: 5a68f77b14d5fd3a9cabb3126c6226cf1c82fe9e62feb1d23ec03d438e14e0f7
 product: claude-code
 product_name: Claude Code
 record:
@@ -49,8 +49,8 @@ record:
   title: 3 Apps and Integrations changes in v2.1.302
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-10-14-2-apps-and-integrations-changes-in-v1-0-98|2
-  Apps and Integrations changes in v1.0.98]]'
+- '[[Changes/Open WebUI/2026-10-14-2-apps-and-integrations-changes-in-v0-12-1|2 Apps
+  and Integrations changes in v0.12.1]]'
 - '[[Changes/Codex CLI/2026-10-15-15-apps-and-integrations-changes-in-rust-v0-163-0|15
   Apps and Integrations changes in rust-v0.163.0]]'
 - '[[Changes/ChatGPT/2026-10-16-improved-use-of-plugins-and-tools-to-carry-out-tasks|Improved
@@ -95,7 +95,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.302
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-10-16 · ChatGPT · [[Changes/ChatGPT/2026-10-16-improved-use-of-plugins-and-tools-to-carry-out-tasks|Improved use of plugins and tools to carry out tasks]]
-- Later: 2026-10-19 · Claude Code · [[Changes/Claude Code/2026-10-19-8-apps-and-integrations-changes-in-v2-1-304|8 Apps and Integrations changes in v2.1.304]]
+- Later: 2026-10-16 · Lovable · [[Changes/Lovable/2026-10-16-connect-your-app-to-pledge|Connect your app to Pledge]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

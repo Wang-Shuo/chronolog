@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 63ade31d3ebf50c5878bd14ff5f591fb803d8cafe284226daaf57739ae1d22f0
+machine_hash: 63e5992020b92c9a483dfe675fc864709ae81c089fb4d29bdc906cb7a607198b
 product: cline
 product_name: Cline
 record:
@@ -91,7 +91,7 @@ Source: https://github.com/cline/cline/releases/tag/v4.1.7
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-08-08 · Claude Code · [[Changes/Claude Code/2026-08-08-3-apps-and-integrations-changes-in-v2-1-225|3 Apps and Integrations changes in v2.1.225]]
-- Later: 2026-08-10 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-08-10-3-apps-and-integrations-changes-in-v1-0-79|3 Apps and Integrations changes in v1.0.79]]
+- Later: 2026-08-10 · ElevenLabs · [[Changes/ElevenLabs/2026-08-10-sdk-releases|SDK Releases]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

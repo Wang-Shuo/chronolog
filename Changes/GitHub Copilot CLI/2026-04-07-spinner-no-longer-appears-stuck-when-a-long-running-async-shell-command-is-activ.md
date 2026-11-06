@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 334db5a8cc7e92df7947a28038f70271509676d868f42ca3aa9d09edf6b5b5d6
+machine_hash: 3f1c6662a3ad49986bb26df69a5f351a72f1d011305c502b54e74bbb778eabe0
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -43,11 +43,9 @@ record:
     active
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-04-02-agents-window-da5689|Agents Window]]'
-- '[[Changes/GitHub Copilot CLI/2026-04-03-built-in-skills-are-now-included-with-the-cli-starting-with-a-guide-for-customiz|Built-in
-  skills are now included with the CLI, starting with a guide for customizing…]]'
-- '[[Changes/GitHub Copilot CLI/2026-04-06-2-agent-mode-changes-in-v1-0-19|2 Agent
-  Mode changes in v1.0.19]]'
+- '[[Changes/ElevenLabs/2026-04-07-new-endpoints|New Endpoints]]'
+- '[[Changes/ElevenLabs/2026-04-07-elevenagents|ElevenAgents]]'
+- '[[Changes/ElevenLabs/2026-04-07-elevenagents-e46dc6|ElevenAgents]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-04-07-v1-0-21-github-306305696-a61f8576|github-copilot-cli-2026-04-07-v1-0-21-github-306305696-a61f8576]]'
 source_type: github_releases
 theme: agent-mode
@@ -82,7 +80,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2026-04-06 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-04-06-2-agent-mode-changes-in-v1-0-19|2 Agent Mode changes in v1.0.19]]
+- Earlier: 2026-04-07 · ElevenLabs · [[Changes/ElevenLabs/2026-04-07-elevenagents-e46dc6|ElevenAgents]]
 - Later: 2026-04-07 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-04-07-spinner-stays-active-until-background-agents-and-shell-commands-finish-and-user|Spinner stays active until background agents and shell commands finish, and user…]]
 <!-- chronolog:end -->
 

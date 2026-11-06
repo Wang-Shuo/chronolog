@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: c24c54f95d87d650a3210b9cb3ef4fbf552f2d35397edf538d72cbdd71764bbc
+machine_hash: 003b443a3216c6ce33109c41f0ca4dff07dd415d2f3b0b6191f2b5a3b3774f3c
 product: aider
 product_name: Aider
 record:
@@ -51,12 +51,12 @@ record:
   title: Add images to the chat to automatically use GPT-4 Vision, by @joshuavial
   type: change
 related_changes:
-- '[[Changes/Aider/2023-11-17-3-model-support-changes-in-v0-18-0|3 Model Support changes
-  in v0.18.0]]'
-- '[[Changes/Cursor/2023-12-16-ai-review-beta-this-is-a-new-experimental-feature-that-let-s-gpt-4-scan-your-git|AI
-  Review (beta)]]'
 - '[[Changes/Aider/2023-12-20-3-model-support-changes-in-v0-19-0|3 Model Support changes
   in v0.19.0]]'
+- '[[Changes/Dify/2024-01-02-11-model-support-changes-in-0-4-0|11 Model Support changes
+  in 0.4.0]]'
+- '[[Changes/Ollama/2024-01-03-5-model-support-changes-in-v0-1-18|5 Model Support
+  changes in v0.1.18]]'
 source_release: '[[Releases/Aider/aider-2024-01-04-v0-20-0-github-135845423-1a95dda2|aider-2024-01-04-v0-20-0-github-135845423-1a95dda2]]'
 source_type: github_releases
 theme: model-support
@@ -86,8 +86,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2023-12-20 · Aider · [[Changes/Aider/2023-12-20-3-model-support-changes-in-v0-19-0|3 Model Support changes in v0.19.0]]
-- Later: 2024-01-15 · Cursor · [[Changes/Cursor/2024-01-15-cursor-fast-is-a-newly-trained-model-between-gpt-3-5-and-gpt-4-coding-capabiliti-bb4c11|Cursor-Fast is a newly trained model between gpt-3.5 and gpt-4 coding capabilities…]]
+- Earlier: 2024-01-03 · Ollama · [[Changes/Ollama/2024-01-03-5-model-support-changes-in-v0-1-18|5 Model Support changes in v0.1.18]]
+- Later: 2024-01-04 · Dify · [[Changes/Dify/2024-01-04-feat-model-parameter-prefefined-by-zxhlyh-in-https-github-com-langgenius-dify-pu|feat: model parameter prefefined]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

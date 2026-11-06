@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: ae238385f01102c41393e7f346985b8c276765f45079b2b488a545335698ef98
+machine_hash: 5269c15289e5ba53ade0a1834728f33d07cc242f13f2f2a06be802ca7ad08561
 product: cursor
 product_name: Cursor
 record:
@@ -40,8 +40,8 @@ record:
   title: '1.7.24: Team deeplinks and hooks improvements'
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2025-09-23-3878-move-responses-mocking-helpers-to-a-shared-lib-3878|♯3878
-  Move responses mocking helpers to a shared lib (♯3878)]]'
+- '[[Changes/Open WebUI/2025-09-25-editor-collaboration-functionality-was-refactored-to-reduce-package-size-by-390k|⚡
+  Editor collaboration functionality was refactored to reduce package size by 390KB…]]'
 - '[[Changes/Cursor/2025-09-29-share-prompts-with-deeplinks-beta|Share prompts with
   deeplinks (beta)]]'
 - '[[Changes/Cursor/2025-09-29-team-rules|Team rules]]'
@@ -91,7 +91,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Collaboration
 
-- Earlier: 2025-09-23 · Codex CLI · [[Changes/Codex CLI/2025-09-23-3878-move-responses-mocking-helpers-to-a-shared-lib-3878|♯3878 Move responses mocking helpers to a shared lib (♯3878)]]
+- Earlier: 2025-09-25 · Open WebUI · [[Changes/Open WebUI/2025-09-25-editor-collaboration-functionality-was-refactored-to-reduce-package-size-by-390k|⚡ Editor collaboration functionality was refactored to reduce package size by 390KB…]]
 - Later: 2025-10-01 · Gemini CLI · [[Changes/Gemini CLI/2025-10-01-support-rendering-function-calls-and-responses-when-sharing-chat-to-markdown-by|Support rendering function calls and responses when sharing chat to markdown]]
 <!-- chronolog:end -->
 

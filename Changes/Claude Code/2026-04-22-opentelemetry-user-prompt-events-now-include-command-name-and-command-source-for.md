@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: pricing
-machine_hash: 79b82db4949ef53b684f895b84248589d1f4cdbd08d59c92f5c7aacf248406c3
+machine_hash: 3e7e69264d93414563782e663647485d08e198c94c9b91b023e479cfc96fd519
 product: claude-code
 product_name: Claude Code
 record:
@@ -59,12 +59,10 @@ record:
   title: 'OpenTelemetry: `user_prompt` events now include `command_name` and `command_source`…'
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-04-09-plus-20-month-plus-remains-best-for-steady-day-to-day-use-as-the-temporary-codex|Plus
-  ($20/month): Plus remains best for steady, day-to-day use]]'
-- '[[Changes/ChatGPT/2026-04-09-pro-200-month-our-highest-usage-option-remains-available-and-continues-on-its-cu|Pro
-  ($200/month): Our highest-usage option remains available and continues…]]'
-- '[[Changes/ChatGPT/2026-04-09-you-can-upgrade-switch-or-cancel-your-plan-from-settings-my-plan-or-from-the-pri|You
-  can upgrade, switch, or cancel your plan from Settings  My Plan or…]]'
+- '[[Changes/Replit/2026-04-10-past-invoices-in-usage-page|Past invoices in usage
+  page]]'
+- '[[Changes/Replit/2026-04-10-razorpay-payments-for-india|Razorpay payments for India]]'
+- '[[Changes/ElevenLabs/2026-04-20-workspaces|Workspaces]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-04-22-v2-1-117-github-311984967-1d917373|claude-code-2026-04-22-v2-1-117-github-311984967-1d917373]]'
 source_type: github_releases
 theme: pricing-model
@@ -98,8 +96,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Pricing Model
 
-- Earlier: 2026-04-09 · ChatGPT · [[Changes/ChatGPT/2026-04-09-you-can-upgrade-switch-or-cancel-your-plan-from-settings-my-plan-or-from-the-pri|You can upgrade, switch, or cancel your plan from Settings  My Plan or…]]
-- Later: 2026-05-06 · Windsurf · [[Changes/Windsurf/2026-05-06-devin-review-quick-review|Devin Review & Quick Review]]
+- Earlier: 2026-04-20 · ElevenLabs · [[Changes/ElevenLabs/2026-04-20-workspaces|Workspaces]]
+- Later: 2026-04-24 · Lovable · [[Changes/Lovable/2026-04-24-add-payments-to-your-app|Add payments to your app]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

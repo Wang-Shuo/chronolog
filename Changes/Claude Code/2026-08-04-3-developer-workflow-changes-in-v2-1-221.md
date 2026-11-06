@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: dc0a16d0783a150e63a3db809ec0cefde7fa6954d6938de4f0eb36f840f5c22b
+machine_hash: b0df428cdf27e1d9c3c6b53620941f3c6e8b18b2c5ad6e84cdb523512f852a86
 product: claude-code
 product_name: Claude Code
 record:
@@ -50,8 +50,8 @@ record:
   title: 3 Developer Workflow changes in v2.1.221
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-07-30-2-developer-workflow-changes-in-v1-0-76|2
-  Developer Workflow changes in v1.0.76]]'
+- '[[Changes/v0/2026-07-31-duplicating-a-git-backed-chat-produces-a-working-copy-instead-of-one-that-fails|Duplicating
+  a Git-backed chat produces a working copy instead of one that fails to render]]'
 - '[[Changes/Cline/2026-08-02-2-developer-workflow-changes-in-v4-1-3|2 Developer Workflow
   changes in v4.1.3]]'
 - '[[Changes/GitHub Copilot CLI/2026-08-03-2-developer-workflow-changes-in-v1-0-78|2

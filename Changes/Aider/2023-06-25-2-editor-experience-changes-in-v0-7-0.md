@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 0bbd66d6d0cebfa84b19815431b38c62ef6106dfc5149d97bfc704748f010bb2
+machine_hash: e91c2bd5c4e4e67b5378c977911bebf2290707331964173fb986c7054e272a72
 product: aider
 product_name: Aider
 record:
@@ -44,11 +44,11 @@ record:
   title: 2 Editor Experience changes in v0.7.0
   type: change
 related_changes:
-- '[[Changes/Cursor/2023-05-06-rarely-pressing-enter-in-the-editor-does-nothing|Rarely,
-  pressing Enter in the editor does nothing]]'
 - '[[Changes/Cursor/2023-05-17-diff-generate-improvements|Diff/Generate improvements]]'
 - '[[Changes/Cursor/2023-06-06-in-order-to-take-full-advantage-navigate-to-settings-top-right-button-then-sync|In
   order to take full advantage, navigate to Settings (top right button), then…]]'
+- "[[Changes/Dify/2023-06-21-dataset-supports-multi-file-uploads|\U0001F4C1 dataset
+  supports multi-file uploads]]"
 source_release: '[[Releases/Aider/aider-2023-06-25-v0-7-0-github-109821323-5656ee24|aider-2023-06-25-v0-7-0-github-109821323-5656ee24]]'
 source_type: github_releases
 theme: editor-experience
@@ -83,7 +83,7 @@ Source: https://github.com/Aider-AI/aider/releases/tag/v0.7.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2023-06-06 · Cursor · [[Changes/Cursor/2023-06-06-in-order-to-take-full-advantage-navigate-to-settings-top-right-button-then-sync|In order to take full advantage, navigate to Settings (top right button), then…]]
+- Earlier: 2023-06-21 · Dify · [[Changes/Dify/2023-06-21-dataset-supports-multi-file-uploads|📁 dataset supports multi-file uploads]]
 - Later: 2023-06-26 · Aider · [[Changes/Aider/2023-06-26-2-editor-experience-changes-in-v0-7-2|2 Editor Experience changes in v0.7.2]]
 <!-- chronolog:end -->
 

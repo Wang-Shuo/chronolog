@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: ccc5f2911d1084c1a9eca466c13f2d3595b074191c7e25bd17acfa5eec347ff2
+machine_hash: 2f94ed294638343367798e2912643b8fb46408ae2f75a0709e70e86078866761
 product: windsurf
 product_name: Windsurf
 record:
@@ -93,12 +93,10 @@ record:
   title: New Agent Window
   type: change
 related_changes:
-- '[[Changes/OpenHands/2026-10-22-chore-bump-agent-server-to-1-57-0-by-all-hands-bot-in-https-github-com-openhands|chore:
-  bump agent-server to 1.57.0]]'
-- '[[Changes/Claude Code/2026-10-23-2-agent-mode-changes-in-v2-1-310|2 Agent Mode
-  changes in v2.1.310]]'
-- '[[Changes/Codex CLI/2026-10-23-13-agent-mode-changes-in-rust-v0-164-0|13 Agent
-  Mode changes in rust-v0.164.0]]'
+- '[[Changes/Replit/2026-10-23-stripe-atlas-on-replit|Stripe Atlas on Replit]]'
+- '[[Changes/Replit/2026-10-23-monitoring-agent|Monitoring Agent]]'
+- '[[Changes/Replit/2026-10-23-create-and-update-skills-with-agent|Create and update
+  skills with Agent]]'
 source_release: '[[Releases/Windsurf/windsurf-2026-10-23-v3-11-212-ce285b20|windsurf-2026-10-23-v3-11-212-ce285b20]]'
 source_type: windsurf_changelog
 theme: agent-mode
@@ -168,7 +166,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2026-10-23 · Codex CLI · [[Changes/Codex CLI/2026-10-23-13-agent-mode-changes-in-rust-v0-164-0|13 Agent Mode changes in rust-v0.164.0]]
+- Earlier: 2026-10-23 · Replit · [[Changes/Replit/2026-10-23-create-and-update-skills-with-agent|Create and update skills with Agent]]
 - Later: 2026-10-26 · Claude Code · [[Changes/Claude Code/2026-10-26-2-agent-mode-changes-in-v2-1-311|2 Agent Mode changes in v2.1.311]]
 <!-- chronolog:end -->
 

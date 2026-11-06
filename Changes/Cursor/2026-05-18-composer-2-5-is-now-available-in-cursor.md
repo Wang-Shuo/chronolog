@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: a30889fff7b3f3499a58ebfd1dd05f201a51b094ba61c5bf770054db41210fe1
+machine_hash: 05df24419b9237bffcf28b8593bcdc665455c4bf41d3833aa52fdc8b6ed5f121
 product: cursor
 product_name: Cursor
 record:
@@ -41,10 +41,9 @@ record:
   title: Composer 2.5 is now available in Cursor
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-05-14-improved-hook-configuration-error-configuring-a-prompt-or-agent-type-hook-for-se|Improved
-  hook configuration error]]'
-- '[[Changes/Claude Code/2026-05-15-2-agent-mode-changes-in-v2-1-143|2 Agent Mode
-  changes in v2.1.143]]'
+- '[[Changes/Replit/2026-05-15-agent|Agent]]'
+- '[[Changes/v0/2026-05-15-2-agent-mode-changes-in-claude-opus-4-7-fast-agent-browser|2
+  Agent Mode changes in Claude Opus 4.7 Fast, agent browser…]]'
 - '[[Changes/Codex CLI/2026-05-18-9-agent-mode-changes-in-rust-v0-131-0|9 Agent Mode
   changes in rust-v0.131.0]]'
 source_release: '[[Releases/Cursor/cursor-2026-05-18-composer-2-5-https-cursor-com-changelog-composer-2-5-1dffe5a1|cursor-2026-05-18-composer-2-5-https-cursor-com-changelog-composer-2-5-1dffe5a1]]'
@@ -79,7 +78,7 @@ type: change
 ## Nearby in Agent Mode
 
 - Earlier: 2026-05-18 · Codex CLI · [[Changes/Codex CLI/2026-05-18-9-agent-mode-changes-in-rust-v0-131-0|9 Agent Mode changes in rust-v0.131.0]]
-- Later: 2026-05-19 · Claude Code · [[Changes/Claude Code/2026-05-19-added-resume-support-for-background-sessions-sessions-started-via-claude-bg-or-a|Added /resume support for background sessions]]
+- Later: 2026-05-18 · ElevenLabs · [[Changes/ElevenLabs/2026-05-18-elevenagents|ElevenAgents]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: d71853b94aa220defa09cbf26b5feeb00aef9aade1cb801a54fcdf71905780cc
+machine_hash: 6766adea2b59dbcfce37c0790f4a403676f948c38a518145229bc1d048e17f6e
 product: claude-code
 product_name: Claude Code
 record:
@@ -43,8 +43,8 @@ record:
   title: Added a `dir` prop on a mod's `Text` for right-to-left text
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-10-12-interactive-sessions-in-git-repositories-reach-the-input-prompt-sooner|Interactive
-  sessions in git repositories reach the input prompt sooner]]'
+- '[[Changes/Ollama/2026-10-12-decision-models-can-now-be-used-directly-from-the-terminal-with-ollama-run-ask-y|Decision
+  models can now be used directly from the terminal with ollama run]]'
 - '[[Changes/Cline/2026-10-13-deleting-a-slash-command-from-the-input-keeps-the-spacing-of-the-text-around-it|Deleting
   a slash command from the input keeps the spacing of the text around it]]'
 - '[[Changes/GitHub Copilot CLI/2026-10-13-background-shell-wait-status-no-longer-animates-when-no-foreground-work-is-runni|Background-shell

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: f850c1a793b2221674b39f5b3b124b367db454c41ee97b4969ea7aa16ae3d092
+machine_hash: fde567208c63cddf663bd5f6b621dd734565cb40b04ef276c369e160baab2895
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -47,12 +47,12 @@ record:
     on Windows…
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2025-07-10-thanks-to-pchuri-so-that-when-running-codex-installed-via-npm-process-platform-a|Thanks
-  to @pchuri so that when running Codex installed via npm…]]'
-- '[[Changes/Gemini CLI/2025-07-11-don-t-enforce-leading-slash-since-that-s-not-true-on-windows-by-scidomino-in-htt|Don''t
-  enforce leading slash since that''s not true on Windows]]'
 - '[[Changes/ChatGPT/2025-07-16-record-mode-is-now-available-to-chatgpt-plus-users-globally-in-the-macos-desktop|Record
   mode is now available to ChatGPT Plus users globally in the macOS desktop app]]'
+- '[[Changes/Ollama/2025-07-18-ollama-s-new-app-is-available-for-macos-and-windows-download-ollama-https-ollama|Ollama''s
+  new app is available for macOS and Windows]]'
+- '[[Changes/Replit/2025-07-18-mobile-push-notifications-for-usage-alerts|Mobile push
+  notifications for usage alerts]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2025-07-19-rust-v0-8-0-github-233643033-2038cb65|codex-cli-2025-07-19-rust-v0-8-0-github-233643033-2038cb65]]'
 source_type: github_releases
 theme: mobile-desktop
@@ -85,7 +85,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2025-07-16 · ChatGPT · [[Changes/ChatGPT/2025-07-16-record-mode-is-now-available-to-chatgpt-plus-users-globally-in-the-macos-desktop|Record mode is now available to ChatGPT Plus users globally in the macOS desktop app]]
+- Earlier: 2025-07-18 · Replit · [[Changes/Replit/2025-07-18-mobile-push-notifications-for-usage-alerts|Mobile push notifications for usage alerts]]
 - Later: 2025-07-25 · Gemini CLI · [[Changes/Gemini CLI/2025-07-25-2-mobile-and-desktop-changes-in-v0-1-14|2 Mobile and Desktop changes in v0.1.14]]
 <!-- chronolog:end -->
 

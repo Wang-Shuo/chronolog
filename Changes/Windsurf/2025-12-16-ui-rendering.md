@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 317b8f7bf554cfc6a52dd840be9a5f54708deb570fb05bf8f661780208717a80
+machine_hash: bee8f1640fff8ce45d68388b2317293a46d83814e25c9effb840f126d89ace27
 product: windsurf
 product_name: Windsurf
 record:
@@ -53,9 +53,10 @@ record:
   title: UI & Rendering
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-12-10-pinned-chats|Pinned chats]]'
 - '[[Changes/Cline/2025-12-11-2-interface-experience-changes-in-v3-41-0|2 Interface
   Experience changes in v3.41.0]]'
+- '[[Changes/Dify/2025-12-11-3-interface-experience-changes-in-1-11-0|3 Interface
+  Experience changes in 1.11.0]]'
 - '[[Changes/Codex CLI/2025-12-15-8047-chore-fix-tooltip-typos-and-align-tone|♯8047
   chore: fix tooltip typos and align tone]]'
 source_release: '[[Releases/Windsurf/windsurf-2025-12-16-v1-12-47-ba92e48b|windsurf-2025-12-16-v1-12-47-ba92e48b]]'

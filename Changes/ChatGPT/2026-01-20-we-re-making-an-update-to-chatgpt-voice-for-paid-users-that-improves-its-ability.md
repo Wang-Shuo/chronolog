@@ -4,20 +4,20 @@ date: '2026-01-20'
 description: 'ChatGPT · 2026-01-20 · Voice and Audio: We’re making an update to ChatGPT
   Voice for paid users that improves its ability to follow user instructions, as well…'
 diffusion:
-  first_in_tracked: '[[Changes/Aider/2023-08-11-voice-to-code-https-aider-chat-docs-voice-html-support-which-allows-you-to-code|Voice-to-code((source
-    link) support, which allows you…]]'
+  first_in_tracked: '[[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2
+    Voice and Audio changes in 0.3.7]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 893
+  lag_days: 925
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: adf4c251166d9f92b32e44e8e64feaa36aee31402afb1602b21f689717d322df
+machine_hash: cd84426d1f4439a5429f3e68609096766e524287b1a55c9346c9a109ceff18ed
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -53,12 +53,9 @@ record:
   title: Voice Updates
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2025-12-11-we-re-retiring-the-voice-experience-in-the-chatgpt-macos-app-on-january-15-2026|We’re
-  retiring the Voice experience in the ChatGPT macOS app on January 15, 2026]]'
-- '[[Changes/ChatGPT/2025-12-11-voice-will-continue-to-be-available-on-chatgpt-com-ios-android-and-windows-app|Voice
-  will continue to be available on chatgpt.com, iOS, Android, and Windows app]]'
-- '[[Changes/ChatGPT/2026-01-12-we-re-improving-our-dictation-capabilities-in-chatgpt-for-all-logged-in-users-si|Dictation
-  Updates]]'
+- '[[Changes/ElevenLabs/2026-01-19-speech-to-text|Speech to Text]]'
+- '[[Changes/ElevenLabs/2026-01-19-audio-generation|Audio Generation]]'
+- '[[Changes/ElevenLabs/2026-01-19-javascript-sdk|JavaScript SDK]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-01-20-voice-updates-432d340b|chatgpt-2026-01-20-voice-updates-432d340b]]'
 source_type: chatgpt_changelog
 theme: voice
@@ -85,14 +82,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Voice and Audio
 
-- Earlier: 2026-01-12 · ChatGPT · [[Changes/ChatGPT/2026-01-12-we-re-improving-our-dictation-capabilities-in-chatgpt-for-all-logged-in-users-si|Dictation Updates]]
-- Later: 2026-01-26 · ChatGPT · [[Changes/ChatGPT/2026-01-26-we-ve-improved-search-responses-in-chatgpt-voice-to-deliver-more-complete-up-to|Improvements to search response quality in Voice]]
+- Earlier: 2026-01-19 · ElevenLabs · [[Changes/ElevenLabs/2026-01-19-javascript-sdk|JavaScript SDK]]
+- Later: 2026-01-23 · Replit · [[Changes/Replit/2026-01-23-audio-support-in-ai-integrations|Audio support in AI integrations]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-08-11 · Aider · [[Changes/Aider/2023-08-11-voice-to-code-https-aider-chat-docs-voice-html-support-which-allows-you-to-code|Voice-to-code((source link) support, which allows you…]]
+- Earliest same-theme entry in the tracked set: 2023-07-10 · Dify · [[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2 Voice and Audio changes in 0.3.7]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

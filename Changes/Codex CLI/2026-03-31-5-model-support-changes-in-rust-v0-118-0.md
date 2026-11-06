@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 3426ee9e4674e75d8c10427ccd60fedae0dccdda7b7ac6bb1ed12f1f786fb100
+machine_hash: a72c59751c015dcb63aaa7c96ce57bd292a166323ec1da638222d5fbf69ff142
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -51,10 +51,10 @@ record:
   title: 5 Model Support changes in rust-v0.118.0
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-03-26-3-model-support-changes-in-rust-v0-117-0|3 Model
-  Support changes in rust-v0.117.0]]'
-- '[[Changes/GitHub Copilot CLI/2026-03-26-model-display-header-shows-the-active-reasoning-effort-level-e-g-high-next-to-th|Model
-  display header shows the active reasoning effort level (e.g. "(high)") next…]]'
+- '[[Changes/Ollama/2026-03-27-ollama-s-app-will-now-no-longer-incorrectly-show-model-is-out-of-date|Ollama''s
+  app will now no longer incorrectly show "model is out of date"]]'
+- "[[Changes/Open WebUI/2026-03-27-admin-model-visibility-administrators-can-now-see-models-even-when-no-access-con|\U0001F451
+  Admin model visibility. Administrators can now see models even when no access…]]"
 - '[[Changes/GitHub Copilot CLI/2026-03-30-2-model-support-changes-in-v1-0-13|2 Model
   Support changes in v1.0.13]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-03-31-rust-v0-118-0-github-303805427-02df59b6|codex-cli-2026-03-31-rust-v0-118-0-github-303805427-02df59b6]]'

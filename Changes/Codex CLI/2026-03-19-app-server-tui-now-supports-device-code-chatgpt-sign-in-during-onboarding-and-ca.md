@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 0bf3439594a246df3063571b91f8fa81e41e8d8e6fd76e858851090d34f3bddf
+machine_hash: f77e28345455505b36a04be77b3e1030ba0546fab271d6089d6a6370b3b9ff35
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -53,8 +53,7 @@ record:
     and can…
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-03-16-2-account-and-access-changes-in-rust-v0-115-0|2
-  Account and Access changes in rust-v0.115.0]]'
+- '[[Changes/Lovable/2026-03-16-authentication-emails|Authentication emails]]'
 - '[[Changes/Gemini CLI/2026-03-17-refactor-core-extract-shared-oauth-flow-primitives-from-mcpoauthprovider-by-sand|refactor(core):
   extract shared OAuth flow primitives from MCPOAuthProvider]]'
 - '[[Changes/Claude Code/2026-03-18-added-console-flag-to-claude-auth-login-for-anthropic-console-api-billing-authen|Added

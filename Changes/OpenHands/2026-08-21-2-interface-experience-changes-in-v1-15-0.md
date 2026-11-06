@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: cac64d07f5735883ba676b1ee78c7419e1b4deb0acb989061ef668380f5c09ea
+machine_hash: 477dd2763e3b012ce8309cb1e9f5f02daa03e454c233d517bcda86b51e6d1037
 product: openhands
 product_name: OpenHands
 record:
@@ -44,12 +44,12 @@ record:
   title: 2 Interface Experience changes in v1.15.0
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-08-21-keep-recent-chats-easier-to-browse-your-sidebar-now-shows-up-to-eight-recent-con|Keep
-  recent chats easier to browse]]'
 - '[[Changes/ChatGPT/2026-08-21-generated-images-are-easier-to-view-and-your-recent-conversations-are-easier-to|Generated
   images are easier to view, and your recent conversations are easier to browse]]'
 - '[[Changes/Claude Code/2026-08-21-3-interface-experience-changes-in-v2-1-239|3 Interface
   Experience changes in v2.1.239]]'
+- '[[Changes/Lovable/2026-08-21-project-details-when-you-hover-the-sidebar|Project
+  details when you hover the sidebar]]'
 source_release: '[[Releases/OpenHands/openhands-2026-08-21-v1-15-0-github-374444037-909e5dfc|openhands-2026-08-21-v1-15-0-github-374444037-909e5dfc]]'
 source_type: github_releases
 theme: interface-experience
@@ -87,7 +87,7 @@ Source: https://github.com/OpenHands/OpenHands/releases/tag/v1.15.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-08-21 · Claude Code · [[Changes/Claude Code/2026-08-21-3-interface-experience-changes-in-v2-1-239|3 Interface Experience changes in v2.1.239]]
+- Earlier: 2026-08-21 · Lovable · [[Changes/Lovable/2026-08-21-project-details-when-you-hover-the-sidebar|Project details when you hover the sidebar]]
 - Later: 2026-08-21 · Windsurf · [[Changes/Windsurf/2026-08-21-devin-cloud|Devin Cloud]]
 <!-- chronolog:end -->
 

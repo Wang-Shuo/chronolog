@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: a0d004bef6d684ab29ab5542262f4758f7cee888b7b421f1bf0ada6dc61dd5aa
+machine_hash: ddb62e9048816fa04fce6a8c7715aa4d98a69e6972d97ceb23d7d1d526310785
 product: claude-code
 product_name: Claude Code
 record:
@@ -43,9 +43,10 @@ record:
     background'
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-08-13-faster-starts|Faster starts]]'
 - '[[Changes/Claude Code/2026-08-14-added-opt-in-memory-cgroup-support-for-bash-tool-commands-on-linux-claude-code-t|Added
   opt-in memory cgroup support for Bash tool commands on Linux…]]'
+- '[[Changes/Ollama/2026-08-14-for-apple-silicon-devices-ollama-has-in-particular-optimized-for-maximum-perform|For
+  Apple Silicon devices, Ollama has in particular optimized for maximum…]]'
 - '[[Changes/Claude Code/2026-08-18-2-reliability-and-performance-changes-in-v2-1-235|2
   Reliability and Performance changes in v2.1.235]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-08-19-v2-1-236-github-373272539-bbbacf79|claude-code-2026-08-19-v2-1-236-github-373272539-bbbacf79]]'
@@ -85,7 +86,7 @@ type: change
 ## Nearby in Reliability and Performance
 
 - Earlier: 2026-08-18 · Claude Code · [[Changes/Claude Code/2026-08-18-2-reliability-and-performance-changes-in-v2-1-235|2 Reliability and Performance changes in v2.1.235]]
-- Later: 2026-08-20 · Claude Code · [[Changes/Claude Code/2026-08-20-improved-startup-responsiveness-the-automatic-update-check-now-runs-about-10-sec|Improved startup responsiveness]]
+- Later: 2026-08-19 · Lovable · [[Changes/Lovable/2026-08-19-faster-preview-loading|Faster preview loading]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

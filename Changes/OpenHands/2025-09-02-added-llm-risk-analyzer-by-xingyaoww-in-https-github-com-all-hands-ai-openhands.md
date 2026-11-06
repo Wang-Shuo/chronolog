@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 10c1a83d5245f2f543dffa7dc9805f53e7e3d6c236be9eac2ec74da9197e85df
+machine_hash: f9fda8b585504b6797bf33304e32c220379344f4d7e6e1de9a49fe927013f2f0
 product: openhands
 product_name: OpenHands
 record:
@@ -40,10 +40,10 @@ record:
   title: Added LLM risk analyzer
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2025-08-26-5-model-support-changes-in-rust-v0-24-0|5 Model
-  Support changes in rust-v0.24.0]]'
 - '[[Changes/Cline/2025-08-28-2-model-support-changes-in-v3-26-6|2 Model Support changes
   in v3.26.6]]'
+- '[[Changes/Open WebUI/2025-08-28-2-model-support-changes-in-v0-6-26|2 Model Support
+  changes in v0.6.26]]'
 - '[[Changes/Codex CLI/2025-09-02-2-model-support-changes-in-rust-v0-28-0|2 Model
   Support changes in rust-v0.28.0]]'
 source_release: '[[Releases/OpenHands/openhands-2025-09-02-0-55-0-github-244207227-058913b0|openhands-2025-09-02-0-55-0-github-244207227-058913b0]]'

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 2043a19e8509554cc3a847e69830c7e7694980a91f7bab9118609d78d02e1a9c
+machine_hash: 782013f028b0a4873f977e20919b8ea4c8c76254d1c629c6a10b785b49894e2a
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -62,8 +62,8 @@ record:
     because…
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-07-21-3-reliability-and-performance-changes-in-rust-v0-145-0|3
-  Reliability and Performance changes in rust-v0.145.0]]'
+- '[[Changes/Dify/2026-07-28-lightweight-recent-apps-endpoint-new-get-console-api-apps-recent-endpoint-reduce|Lightweight
+  recent apps endpoint]]'
 - '[[Changes/Windsurf/2026-07-29-devin-cloud|Devin Cloud]]'
 - '[[Changes/GitHub Copilot CLI/2026-07-30-diff-scrolls-and-syntax-highlights-large-multi-file-diffs-faster|/diff
   scrolls and syntax-highlights large multi-file diffs faster]]'
@@ -104,7 +104,7 @@ type: change
 ## Nearby in Reliability and Performance
 
 - Earlier: 2026-07-30 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-07-30-diff-scrolls-and-syntax-highlights-large-multi-file-diffs-faster|/diff scrolls and syntax-highlights large multi-file diffs faster]]
-- Later: 2026-08-10 · Claude Code · [[Changes/Claude Code/2026-08-10-improved-performance-fewer-event-loop-stalls-on-file-not-found-suggestions-and-a|Improved performance: fewer event-loop stalls on file-not-found suggestions…]]
+- Later: 2026-08-04 · Ollama · [[Changes/Ollama/2026-08-04-qwen3-5-is-faster-on-apple-gpus-the-mlx-engine-now-uses-the-model-s-mtp-head-for|Qwen3.5 is faster on Apple GPUs]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

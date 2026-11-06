@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: expansion
-machine_hash: c65bd96d2cd20e9c057d3d5d671a7fa0d0854a3cf4a2d73e9911533a03ec3306
+machine_hash: 88674fcc7a1a59ee396ae889023c0788673306f525c01e47abe47ce016538af6
 product: claude-code
 product_name: Claude Code
 record:
@@ -44,10 +44,9 @@ record:
     on Bedrock…
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-07-10-this-release-makes-it-easier-to-stay-in-flow-with-side-chats-that-run-alongside|Cursor
-  makes it easier to stay in flow with side chats that run alongside your main…]]'
-- '[[Changes/GitHub Copilot CLI/2026-07-10-3-agent-mode-changes-in-v1-0-70|3 Agent
-  Mode changes in v1.0.70]]'
+- '[[Changes/Replit/2026-07-10-connect-excalidraw-to-agent|Connect Excalidraw to Agent]]'
+- '[[Changes/Replit/2026-07-10-editors-can-answer-agent-s-questions|Editors can answer
+  Agent''s questions]]'
 - '[[Changes/Claude Code/2026-07-11-2-agent-mode-changes-in-v2-1-207|2 Agent Mode
   changes in v2.1.207]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-07-11-v2-1-207-github-352355755-d77b8e91|claude-code-2026-07-11-v2-1-207-github-352355755-d77b8e91]]'
@@ -82,8 +81,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2026-07-10 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-07-10-3-agent-mode-changes-in-v1-0-70|3 Agent Mode changes in v1.0.70]]
-- Later: 2026-07-13 · Codex CLI · [[Changes/Codex CLI/2026-07-13-2-agent-mode-changes-in-rust-v0-144-2|2 Agent Mode changes in rust-v0.144.2]]
+- Earlier: 2026-07-10 · Replit · [[Changes/Replit/2026-07-10-editors-can-answer-agent-s-questions|Editors can answer Agent's questions]]
+- Later: 2026-07-11 · Ollama · [[Changes/Ollama/2026-07-11-2-agent-mode-changes-in-v0-32-0|2 Agent Mode changes in v0.32.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

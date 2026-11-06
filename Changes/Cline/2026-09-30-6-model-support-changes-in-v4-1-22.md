@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 203bb273ce341d6d2663d873ec3def086eb2394b671b246708c670d5a0a4f1cb
+machine_hash: f830252d3f5c6b39040ebc43c084bc0004856c898592bfc6d8460338a2981eb3
 product: cline
 product_name: Cline
 record:
@@ -68,10 +68,10 @@ record:
   title: 6 Model Support changes in v4.1.22
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-09-29-2-model-support-changes-in-rust-v0-159-1|2 Model
-  Support changes in rust-v0.159.1]]'
-- '[[Changes/Gemini CLI/2026-09-29-feat-gemini-3-8-flash-3-5-flash-lite-by-davidapierce-in-https-github-com-google|Feat/gemini
-  3.8 flash 3.5 flash lite]]'
+- '[[Changes/v0/2026-09-29-what-counts-towards-chatgpt-usage|What counts towards ChatGPT
+  usage?]]'
+- '[[Changes/v0/2026-09-29-supported-models-currently-include-gpt-6-astra-gpt-5-6-sol-and-gpt-5-6-luna-use|Supported
+  models currently include GPT-6 Astra, GPT-5.6 Sol, and GPT-5.6 Luna]]'
 - '[[Changes/Claude Code/2026-09-30-changed-how-failed-api-requests-are-retried-one-limit-now-covers-a-whole-model-c|Changed
   how failed API requests are retried]]'
 source_release: '[[Releases/Cline/cline-2026-09-30-v4-1-22-github-399711754-cf15d339|cline-2026-09-30-v4-1-22-github-399711754-cf15d339]]'

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: e1c1ccfeb5fa5f631dbfb1ff0e7375b276e1765fe2323d3c0992740d9a0988ad
+machine_hash: d7fee2870ce0077e3e0486c6eb6ccd98b9f5b973344693089153bcdcddb422cb
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,10 +45,10 @@ record:
   title: 2 Model Support changes in v2.1.162
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-06-01-5-model-support-changes-in-rust-v0-136-0|5 Model
-  Support changes in rust-v0.136.0]]'
 - '[[Changes/GitHub Copilot CLI/2026-06-01-new-reasoning-after-tool-calls-appears-at-the-bottom-of-the-timeline-instead-of|New
   reasoning after tool calls appears at the bottom of the timeline instead…]]'
+- '[[Changes/Open WebUI/2026-06-01-12-model-support-changes-in-v0-9-6|12 Model Support
+  changes in v0.9.6]]'
 - '[[Changes/Claude Code/2026-06-02-removed-claude-code-opus-4-6-fast-mode-override-the-environment-variable-is-now|Removed
   CLAUDE_CODE_OPUS_4_6_FAST_MODE_OVERRIDE; the environment variable is now a no-op]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-06-03-v2-1-162-github-333906405-cdc7c67c|claude-code-2026-06-03-v2-1-162-github-333906405-cdc7c67c]]'

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 496658ac50e64852237c72906edfa7d000b2b11c6bf89d0e0152b9626d69e1d1
+machine_hash: 58e218e9d85e0fea6b78a18fb8c7964327dd9ddf55b2aa52f9054ed3dde7da56
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -46,10 +46,10 @@ record:
   title: 3 Account and Access changes in rust-v0.30.0
   type: change
 related_changes:
-- '[[Changes/Cline/2025-08-28-feature-qwen-code-cli-api-support-with-oauth-by-evinelias-in-https-github-com-cl|Feature/Qwen
-  Code CLI API Support with OAuth]]'
 - '[[Changes/Codex CLI/2025-08-29-2737-changed-oauth-success-screen-to-use-the-string-codex-rather-than-codex-cli|♯2737
   Changed OAuth success screen to use the string "Codex" rather than "Codex CLI"]]'
+- '[[Changes/Dify/2025-09-03-2-account-and-access-changes-in-1-8-1|2 Account and Access
+  changes in 1.8.1]]'
 - '[[Changes/Gemini CLI/2025-09-04-feat-mcp-add-odic-fallback-to-oauth-metadata-look-up-by-xiaoheh-in-https-github|feat(mcp):
   Add ODIC fallback to OAuth metadata look up]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2025-09-05-rust-v0-30-0-github-245199079-dedb4e90|codex-cli-2025-09-05-rust-v0-30-0-github-245199079-dedb4e90]]'

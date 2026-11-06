@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: fde0b23bc0893dc96d6f45e7993ceb92863e0f4824cb613ea3a5f417c688740d
+machine_hash: dbc5faa508e7d6dc5265ce2d9e80f369d118e5d5dcc3e1d9b6f2f6a81d10bd95
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -50,8 +50,8 @@ record:
   title: 4 Safety and Privacy changes in v1.0.72
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-07-17-3-safety-and-privacy-changes-in-v2-1-212|3 Safety
-  and Privacy changes in v2.1.212]]'
+- '[[Changes/Dify/2026-07-17-agent-app-enters-open-beta-and-is-now-enabled-by-default-for-all-users-it-introd|Agent
+  App enters open beta and is now enabled by default for all users]]'
 - '[[Changes/Claude Code/2026-07-18-9-safety-and-privacy-changes-in-v2-1-214|9 Safety
   and Privacy changes in v2.1.214]]'
 - '[[Changes/Claude Code/2026-07-20-5-safety-and-privacy-changes-in-v2-1-216|5 Safety

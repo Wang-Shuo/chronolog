@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: a87ee87d1ed8346d0c620cd1e1f5124a3e4c49f65325aac61823bf5a1d3870f3
+machine_hash: 8eb5e124e8aa27d74f80de09725d8b535156c095d0c87fa7c3d64106da0c8b10
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -50,8 +50,8 @@ record:
   title: 4 Developer Workflow changes in rust-v0.64.0
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2025-11-21-app-server-feat-add-declined-status-for-command-exec-by-owenlin0-in-https-github|app-server
-  feat: add Declined status for command exec]]'
+- '[[Changes/Dify/2025-11-26-3-developer-workflow-changes-in-1-10-1|3 Developer Workflow
+  changes in 1.10.1]]'
 - '[[Changes/Gemini CLI/2025-11-26-feat-add-click-to-focus-support-for-interactive-shell-by-galz10-in-https-github|feat:
   add click-to-focus support for interactive shell]]'
 - '[[Changes/Cline/2025-12-02-2-developer-workflow-changes-in-v3-39-0|2 Developer

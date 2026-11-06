@@ -4,20 +4,20 @@ date: '2026-03-10'
 description: 'Claude Code · 2026-03-10 · Automation and Scheduling: Added `CLAUDE_CODE_DISABLE_CRON`
   environment variable to immediately stop scheduled cron jobs mid-session'
 diffusion:
-  first_in_tracked: '[[Changes/OpenHands/2024-09-04-better-syntax-error-loop-detection-by-tobitege-in-https-github-com-all-hands-ai|Better
-    syntax error loop detection]]'
+  first_in_tracked: '[[Changes/Dify/2024-01-02-add-data-clean-schedule-by-johnjyong-in-https-github-com-langgenius-dify-pull-18|Add
+    data clean schedule]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 552
+  lag_days: 798
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 6678e95bbcab1d94ca756de4db4e422a16922ed85593c0de25b23fac786bebb5
+machine_hash: c1f8f768f86261d0ae151b06ad2c99d2ea4acb46b597152c34d20c7e74616673
 product: claude-code
 product_name: Claude Code
 record:
@@ -43,12 +43,12 @@ record:
     scheduled…
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-03-05-cursor-now-supports-automations-for-building-always-on-agents-that-run-based-on-fb3c5d|Cursor
-  now supports automations for building always-on agents that run based…]]'
 - '[[Changes/Claude Code/2026-03-07-added-cron-scheduling-tools-for-recurring-prompts-within-a-session|Added
   cron scheduling tools for recurring prompts within a session]]'
 - '[[Changes/Claude Code/2026-03-07-added-loop-command-to-run-a-prompt-or-slash-command-on-a-recurring-interval-e-g|Added
   /loop command to run a prompt or slash command on a recurring interval…]]'
+- '[[Changes/Open WebUI/2026-03-08-artifacts-reactive-loop-fix-fixed-an-infinite-reactive-loop-in-chat-when-artifac|♾️
+  Artifacts reactive loop fix. Fixed an infinite reactive loop in chat…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-03-10-v2-1-72-github-294951528-18ee0f48|claude-code-2026-03-10-v2-1-72-github-294951528-18ee0f48]]'
 source_type: github_releases
 theme: automation-scheduling
@@ -85,14 +85,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Automation and Scheduling
 
-- Earlier: 2026-03-07 · Claude Code · [[Changes/Claude Code/2026-03-07-added-loop-command-to-run-a-prompt-or-slash-command-on-a-recurring-interval-e-g|Added /loop command to run a prompt or slash command on a recurring interval…]]
+- Earlier: 2026-03-08 · Open WebUI · [[Changes/Open WebUI/2026-03-08-artifacts-reactive-loop-fix-fixed-an-infinite-reactive-loop-in-chat-when-artifac|♾️ Artifacts reactive loop fix. Fixed an infinite reactive loop in chat…]]
 - Later: 2026-03-10 · Codex CLI · [[Changes/Codex CLI/2026-03-10-2-automation-and-scheduling-changes-in-rust-v0-113-0|2 Automation and Scheduling changes in rust-v0.113.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2024-09-04 · OpenHands · [[Changes/OpenHands/2024-09-04-better-syntax-error-loop-detection-by-tobitege-in-https-github-com-all-hands-ai|Better syntax error loop detection]]
+- Earliest same-theme entry in the tracked set: 2024-01-02 · Dify · [[Changes/Dify/2024-01-02-add-data-clean-schedule-by-johnjyong-in-https-github-com-langgenius-dify-pull-18|Add data clean schedule]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

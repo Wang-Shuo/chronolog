@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: pricing
-machine_hash: be485ea8d756d76a0e70f0011c4f936f97f7f389904197953d4ac3fe6815015d
+machine_hash: 1e076ee958571aaa462c8d02511379cd05c4bc878c038d905cf1d3ce57e1b2d7
 product: openhands
 product_name: OpenHands
 record:
@@ -41,8 +41,8 @@ record:
   title: 'feat: scope OpenAI subscription caches by backend'
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-09-23-for-the-next-10-days-we-re-including-usage-credits-so-teams-can-try-rollouts-on|For
-  the next 10 days, we''re including usage credits so teams can try Rollouts…]]'
+- '[[Changes/Lovable/2026-09-23-see-the-estimated-monthly-cloud-cost-of-each-database-size|See
+  the estimated monthly Cloud cost of each database size]]'
 - '[[Changes/Claude Code/2026-09-24-updated-the-claude-api-skill-pre-output-refusal-billing-now-links-to-the-how-ref|Updated
   the claude-api skill]]'
 - '[[Changes/Codex CLI/2026-09-25-47086-format-analytics-credit-usage-with-consistent-decimal-precision-fcoury-oai|♯47086

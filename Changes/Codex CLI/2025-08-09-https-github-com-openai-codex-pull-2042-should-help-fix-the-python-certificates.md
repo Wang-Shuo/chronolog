@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: f12b4d59090feda0a83e09de7c87c9fad9b9bf5da3644755b540687ca1cd3fad
+machine_hash: 40c7357e531b85379ac0e5f15b170d61faa950b37d4a92cb2794e6a2ce9b8856
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -42,12 +42,12 @@ record:
   title: https://github.com/openai/codex/pull/2042 should help/fix the Python certificates…
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2025-08-02-6-account-and-access-changes-in-v0-1-16|6 Account
-  and Access changes in v0.1.16]]'
 - '[[Changes/Gemini CLI/2025-08-05-6-account-and-access-changes-in-v0-1-17|6 Account
   and Access changes in v0.1.17]]'
 - '[[Changes/Gemini CLI/2025-08-06-6-account-and-access-changes-in-v0-1-18|6 Account
   and Access changes in v0.1.18]]'
+- '[[Changes/Replit/2025-08-08-object-storage-agent-integration|Object Storage Agent
+  integration]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2025-08-09-rust-v0-20-0-github-238728877-a4b77eef|codex-cli-2025-08-09-rust-v0-20-0-github-238728877-a4b77eef]]'
 source_type: github_releases
 theme: account-access
@@ -77,8 +77,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Account and Access
 
-- Earlier: 2025-08-06 · Gemini CLI · [[Changes/Gemini CLI/2025-08-06-6-account-and-access-changes-in-v0-1-18|6 Account and Access changes in v0.1.18]]
-- Later: 2025-08-12 · Gemini CLI · [[Changes/Gemini CLI/2025-08-12-feat-cli-allow-exiting-authentication-menu-with-ctrl-c-sigint-by-dizzydroid-in-h|feat(cli): Allow Exiting Authentication Menu with CTRL+C (SIGINT)]]
+- Earlier: 2025-08-08 · Replit · [[Changes/Replit/2025-08-08-object-storage-agent-integration|Object Storage Agent integration]]
+- Later: 2025-08-09 · Open WebUI · [[Changes/Open WebUI/2025-08-09-4-account-and-access-changes-in-v0-6-19|4 Account and Access changes in v0.6.19]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 3d632407fc01128a203dd7fd1d3c6fad8356e30682fb6fb9fa931bb260d2713e
+machine_hash: faf39a15810126633ebeabb634509e2c2e37fb5e7db67ca92f0095c1325ba038
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -44,8 +44,8 @@ record:
   title: Find more useful plugins
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-08-20-33-apps-and-integrations-changes-in-rust-v0-149-0|33
-  Apps and Integrations changes in rust-v0.149.0]]'
+- '[[Changes/Lovable/2026-08-20-sort-connectors-and-add-an-mcp-server-from-the-catalog-header|Sort
+  connectors and add an MCP server from the catalog header]]'
 - '[[Changes/ChatGPT/2026-08-21-updated-plugin-recommendations-make-it-easier-to-find-tools-people-continue-to-u|Updated
   plugin recommendations make it easier to find tools people continue to use]]'
 - '[[Changes/ChatGPT/2026-08-21-plugin-availability-depends-on-your-plan-region-and-workspace-settings-desktop-i|Plugin
@@ -79,7 +79,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-08-20 · Codex CLI · [[Changes/Codex CLI/2026-08-20-33-apps-and-integrations-changes-in-rust-v0-149-0|33 Apps and Integrations changes in rust-v0.149.0]]
+- Earlier: 2026-08-20 · Lovable · [[Changes/Lovable/2026-08-20-sort-connectors-and-add-an-mcp-server-from-the-catalog-header|Sort connectors and add an MCP server from the catalog header]]
 - Later: 2026-08-21 · Claude Code · [[Changes/Claude Code/2026-08-21-2-apps-and-integrations-changes-in-v2-1-239|2 Apps and Integrations changes in v2.1.239]]
 <!-- chronolog:end -->
 

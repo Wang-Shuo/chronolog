@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: search-browsing
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 7c8c877a5dd2623166f4dd61256f42435798dd74041cb420780287014325d234
+machine_hash: 8cb1ba33b3f2db1c03fa77a0bb8194c0fb886714138faff00c1e7578604ab9c7
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -51,8 +51,8 @@ record:
   title: 5 Search and Browsing changes in rust-v0.92.0
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-01-07-4-search-and-browsing-changes-in-rust-v0-79-0|4
-  Search and Browsing changes in rust-v0.79.0]]'
+- '[[Changes/Open WebUI/2026-01-09-4-search-and-browsing-changes-in-v0-7-0|4 Search
+  and Browsing changes in v0.7.0]]'
 - '[[Changes/Codex CLI/2026-01-16-2-search-and-browsing-changes-in-rust-v0-86-0|2
   Search and Browsing changes in rust-v0.86.0]]'
 - '[[Changes/Cursor/2026-01-16-added-webfetch-websearch-tools-approval-options-for-granular-controls-over-web-s|Added
@@ -105,7 +105,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.92.0
 ## Nearby in Search and Browsing
 
 - Earlier: 2026-01-16 · Cursor · [[Changes/Cursor/2026-01-16-added-webfetch-websearch-tools-approval-options-for-granular-controls-over-web-s|Added WebFetch, WebSearch tools, & approval options for granular controls over web…]]
-- Later: 2026-01-31 · Codex CLI · [[Changes/Codex CLI/2026-01-31-3-search-and-browsing-changes-in-rust-v0-93-0|3 Search and Browsing changes in rust-v0.93.0]]
+- Later: 2026-01-28 · Gemini · [[Changes/Gemini/2026-01-28-meet-your-new-ai-browsing-assistant-gemini-in-chrome|Meet your new AI browsing assistant: Gemini in Chrome]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

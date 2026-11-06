@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: c0e100fb78f4ac83cbf561ac717bf69a97187aa61b35b31471cf342f222e1712
+machine_hash: d5ff7f902290f6f0025e7091ed030c3aa4a93aeb0b2a0f19802590b4dd0cb4f5
 product: claude-code
 product_name: Claude Code
 record:
@@ -46,10 +46,10 @@ record:
   title: 2 Model Support changes in v2.1.260
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-09-01-guardian-approval-review-now-honors-node-repl-policies-provided-through-model-me|Guardian
-  approval review now honors Node REPL policies provided through model metadata]]'
 - '[[Changes/Cline/2026-09-02-3-model-support-changes-in-v4-1-17|3 Model Support changes
   in v4.1.17]]'
+- '[[Changes/Ollama/2026-09-02-honor-gguf-model-defined-default-parameters|Honor GGUF
+  model defined default parameters]]'
 - '[[Changes/ChatGPT/2026-09-03-today-we-re-introducing-gpt-6-astra-with-improvements-in-coding-research-compute-069f67|Introducing
   GPT-6 Astra]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-03-v2-1-260-github-382367470-ac2ba1fc|claude-code-2026-09-03-v2-1-260-github-382367470-ac2ba1fc]]'

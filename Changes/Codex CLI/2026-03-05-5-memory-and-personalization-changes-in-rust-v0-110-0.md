@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: memory
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 6ff53c7ba36646b4a73ccc4e53a71d36c9fb349d46fba1164ca1521d9685a769
+machine_hash: b10f360d87efff1a6a7b3494a7447d216db3ccf9b67c1d6175dd628f37be149e
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -50,10 +50,9 @@ record:
   title: 5 Memory and Personalization changes in rust-v0.110.0
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-02-26-3-memory-and-personalization-changes-in-rust-v0-106-0|3
-  Memory and Personalization changes in rust-v0.106.0]]'
 - '[[Changes/Claude Code/2026-02-28-project-configs-auto-memory-now-shared-across-git-worktrees-of-the-same-reposito|Project
   configs & auto memory now shared across git worktrees of the same repository]]'
+- '[[Changes/Claude/2026-03-02-memory-for-free-users|Memory for free users]]'
 - '[[Changes/Codex CLI/2026-03-02-6-memory-and-personalization-changes-in-rust-v0-107-0|6
   Memory and Personalization changes in rust-v0.107.0]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-03-05-rust-v0-110-0-github-293239637-d5d06302|codex-cli-2026-03-05-rust-v0-110-0-github-293239637-d5d06302]]'
@@ -107,7 +106,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.110.0
 ## Nearby in Memory and Personalization
 
 - Earlier: 2026-03-02 · Codex CLI · [[Changes/Codex CLI/2026-03-02-6-memory-and-personalization-changes-in-rust-v0-107-0|6 Memory and Personalization changes in rust-v0.107.0]]
-- Later: 2026-03-10 · Codex CLI · [[Changes/Codex CLI/2026-03-10-13734-feat-prune-old-memories-in-db-jif-oai|♯13734 feat: prune old memories in DB @jif-oai]]
+- Later: 2026-03-08 · Open WebUI · [[Changes/Open WebUI/2026-03-08-system-metrics-via-opentelemetry-administrators-can-now-monitor-python-runtime-a|📡 System metrics via OpenTelemetry. Administrators can now monitor Python…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

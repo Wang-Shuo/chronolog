@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: policy
-machine_hash: 47be7b2c692d63c8446f17bf36c01c60135b4cfedcef5bdda0402524928b1013
+machine_hash: 6659680a9cba179c5fea4af16e1d47957d03dd73ba23a3954a3766261f7beccb
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -70,12 +70,12 @@ record:
   title: Sunsetting GPT‑4 in ChatGPT
   type: change
 related_changes:
-- '[[Changes/Aider/2025-04-04-4-model-support-changes-in-v0-81-0|4 Model Support changes
-  in v0.81.0]]'
-- '[[Changes/Cline/2025-04-04-add-gemini-2-5-pro-preview-03-25-to-google-provider|Add
-  Gemini 2.5 Pro Preview 03-25 to Google Provider]]'
-- '[[Changes/Cline/2025-04-06-add-recommended-models-for-cline-provider|Add recommended
-  models for Cline provider]]'
+- '[[Changes/Ollama/2025-04-06-2-model-support-changes-in-v0-6-5|2 Model Support changes
+  in v0.6.5]]'
+- "[[Changes/Open WebUI/2025-04-07-accurate-tool-descriptions-from-openapi-servers-external-tools-now-use-full-endp|\U0001F6E0️
+  Accurate Tool Descriptions from OpenAPI Servers]]"
+- '[[Changes/Dify/2025-04-09-6-model-support-changes-in-1-2-0|6 Model Support changes
+  in 1.2.0]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-04-10-sunsetting-gpt-4-in-chatgpt-fe1e4ad7|chatgpt-2025-04-10-sunsetting-gpt-4-in-chatgpt-fe1e4ad7]]'
 source_type: chatgpt_changelog
 theme: model-support
@@ -102,7 +102,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2025-04-06 · Cline · [[Changes/Cline/2025-04-06-add-recommended-models-for-cline-provider|Add recommended models for Cline provider]]
+- Earlier: 2025-04-09 · Dify · [[Changes/Dify/2025-04-09-6-model-support-changes-in-1-2-0|6 Model Support changes in 1.2.0]]
 - Later: 2025-04-10 · Cline · [[Changes/Cline/2025-04-10-add-support-for-xai-s-provider-s-grok-3-models|Add support for xAI's provider's Grok 3 models]]
 <!-- chronolog:end -->
 

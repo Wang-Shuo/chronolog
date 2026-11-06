@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: memory
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: f34e189dd27600db7cc7cb9ffcb65902ed6f08ea0631f3bc38a34901f916c224
+machine_hash: a4189ea51052a5105f42ee2f2a4c338f60b955f31b104f02faaf077105f63d7f
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -42,12 +42,12 @@ record:
   title: 2 Memory and Personalization changes in rust-v0.143.0
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-06-18-3-memory-and-personalization-changes-in-rust-v0-141-0|3
-  Memory and Personalization changes in rust-v0.141.0]]'
-- '[[Changes/Cursor/2026-06-18-you-can-now-delete-memory-files-in-the-ui-or-prompt-your-automation-to-delete-ou|Delete
-  memory files in the UI, or prompt your automation to delete outdated memories…]]'
-- '[[Changes/Claude Code/2026-06-22-improved-memory-the-agent-is-now-reminded-to-compact-its-memory-md-index-when-ne|Improved
-  memory: the agent is now reminded to compact its MEMORY.md index…]]'
+- '[[Changes/Open WebUI/2026-06-29-5-memory-and-personalization-changes-in-v0-10-0|5
+  Memory and Personalization changes in v0.10.0]]'
+- '[[Changes/Open WebUI/2026-07-01-2-memory-and-personalization-changes-in-v0-10-2|2
+  Memory and Personalization changes in v0.10.2]]'
+- '[[Changes/v0/2026-07-07-team-members-with-v0-edit-access-can-manage-team-skills-and-memories-without-a-v|Team
+  members with v0 edit access can manage team skills and memories without…]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-07-08-rust-v0-143-0-github-350650561-9eba805c|codex-cli-2026-07-08-rust-v0-143-0-github-350650561-9eba805c]]'
 source_type: github_releases
 theme: memory
@@ -95,8 +95,8 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.143.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Memory and Personalization
 
-- Earlier: 2026-06-22 · Claude Code · [[Changes/Claude Code/2026-06-22-improved-memory-the-agent-is-now-reminded-to-compact-its-memory-md-index-when-ne|Improved memory: the agent is now reminded to compact its MEMORY.md index…]]
-- Later: 2026-07-14 · Claude Code · [[Changes/Claude Code/2026-07-14-memory-writes-that-leave-a-memory-md-index-over-its-read-limit-now-produce-an-ex|Memory writes that leave a MEMORY.md index over its read limit now produce…]]
+- Earlier: 2026-07-07 · v0 · [[Changes/v0/2026-07-07-team-members-with-v0-edit-access-can-manage-team-skills-and-memories-without-a-v|Team members with v0 edit access can manage team skills and memories without…]]
+- Later: 2026-07-09 · Claude · [[Changes/Claude/2026-07-09-a-new-way-to-reflect-with-claude|A new way to reflect with Claude]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

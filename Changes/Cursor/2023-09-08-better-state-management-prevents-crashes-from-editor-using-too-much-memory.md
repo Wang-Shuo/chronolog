@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: be8524b7541d46c15f3787acae234683467b21323210d65e1fa3739d9b7e546a
+machine_hash: abe9dde2a77a9ed707265c1792cbb80894d8dc221294bae1bd56b574ce04ce58
 product: cursor
 product_name: Cursor
 record:
@@ -51,8 +51,8 @@ record:
   title: Better state management - prevents crashes from editor using too much memory
   type: change
 related_changes:
-- '[[Changes/Cursor/2023-09-05-updates-to-docs-try-pasting-a-link-in-chat-you-can-delete-edit-docs-you-can-see|Docs
-  updates]]'
+- '[[Changes/Ollama/2023-09-06-minor-performance-improvements-to-model-loading-and-generation|Minor
+  performance improvements to model loading and generation]]'
 - '[[Changes/Cursor/2023-09-07-we-release-an-improved-new-ai-project-feature-to-nightly-users-this-is-a-more-ro|We
   release an improved New AI Project feature to nightly users]]'
 - '[[Changes/Cursor/2023-09-07-we-no-longer-store-any-full-files-in-memory-and-prevent-users-from-ing-very-larg-8d6c31|Better

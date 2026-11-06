@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: cfc9c73acbfe57e508a08092eb3082a7beab3597b65b5fe1ef3ab1286b3aa301
+machine_hash: cf2f308ac7d0d2c244860609204aaddbd526a5476e3715b5e42c357949397fcc
 product: cursor
 product_name: Cursor
 record:
@@ -41,10 +41,10 @@ record:
   title: '1.6.27: Native menu notification badge'
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2025-09-04-2-interface-experience-changes-in-v0-3-0|2 Interface
-  Experience changes in v0.3.0]]'
 - '[[Changes/Codex CLI/2025-09-05-3135-tui-add-session-resume-picker-resume-and-quick-resume-continue|♯3135
   TUI: Add session resume picker (--resume) and quick resume (--continue)]]'
+- "[[Changes/Open WebUI/2025-09-09-follow-up-tooltip-duplication-is-removed-streamlining-the-user-interface-and-pre|\U0001F4AC
+  Follow-up tooltip duplication is removed, streamlining the user interface…]]"
 - '[[Changes/Cline/2025-09-11-2-interface-experience-changes-in-v3-28-0|2 Interface
   Experience changes in v3.28.0]]'
 source_release: '[[Releases/Cursor/cursor-2025-09-12-1-6-https-cursor-com-changelog-1-6-f33fb3ea|cursor-2025-09-12-1-6-https-cursor-com-changelog-1-6-f33fb3ea]]'

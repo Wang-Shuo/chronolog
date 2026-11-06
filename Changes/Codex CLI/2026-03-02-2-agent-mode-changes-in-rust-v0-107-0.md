@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: b719c90c32bcd4c4f5f852886020bf5fdee2af135c402a98400feee330733d25
+machine_hash: 9590ae4d4e3121867f1e08e09d0bb7fe8e319e97a7e4bd43301315e3f47995a1
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -92,7 +92,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.107.0
 ## Nearby in Agent Mode
 
 - Earlier: 2026-02-28 · Claude Code · [[Changes/Claude Code/2026-02-28-added-http-hooks-which-can-post-json-to-a-url-and-receive-json-instead-of-runnin|Added HTTP hooks, which can POST JSON to a URL and receive JSON instead of running…]]
-- Later: 2026-03-03 · Cline · [[Changes/Cline/2026-03-03-add-user-agent-header-to-requests-sent-to-the-cline-backend|Add User-Agent header to requests sent to the Cline backend]]
+- Later: 2026-03-02 · ElevenLabs · [[Changes/ElevenLabs/2026-03-02-new-schemas|New Schemas]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

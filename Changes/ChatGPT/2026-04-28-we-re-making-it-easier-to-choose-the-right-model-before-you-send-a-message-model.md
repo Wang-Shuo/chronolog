@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: e62159e3c81438868e8cf1da4d294886c68455d79fe5369087d3cd19569b5e0b
+machine_hash: 3cae0225189b4bc290f3fcd917c3bba06329e869381df78e633aa0cb7f406a92
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -63,10 +63,10 @@ record:
   title: Easier model selection in ChatGPT
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-04-24-5-model-support-changes-in-rust-v0-125-0|5 Model
-  Support changes in rust-v0.125.0]]'
-- '[[Changes/GitHub Copilot CLI/2026-04-24-claude-opus-4-6-now-uses-medium-reasoning-effort-by-default|Claude
-  Opus 4.6 now uses medium reasoning effort by default]]'
+- '[[Changes/Open WebUI/2026-04-24-4-model-support-changes-in-v0-9-2|4 Model Support
+  changes in v0.9.2]]'
+- '[[Changes/Replit/2026-04-24-security-agent-reviews-your-whole-codebase|Security
+  Agent reviews your whole codebase]]'
 - '[[Changes/GitHub Copilot CLI/2026-04-27-2-model-support-changes-in-v1-0-37|2 Model
   Support changes in v1.0.37]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-04-28-easier-model-selection-in-chatgpt-f4badb6d|chatgpt-2026-04-28-easier-model-selection-in-chatgpt-f4badb6d]]'

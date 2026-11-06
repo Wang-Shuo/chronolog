@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: d8705d0b847b82f3dd021afd75cd0230507dea23b4362de4d53a9186b00d9018
+machine_hash: 77d13d4f8e6b2deced59a85300745bbdf4b67bf0be7ddad2acb5b2b72b05b145
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -57,8 +57,8 @@ record:
   title: 8 Agent Mode changes in rust-v0.123.0
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-04-22-2-agent-mode-changes-in-v2-1-117|2 Agent Mode
-  changes in v2.1.117]]'
+- '[[Changes/Ollama/2026-04-22-kimi-cli-with-kimi-k2-6-excels-at-long-horizon-agentic-execution-tasks-through-a|Kimi
+  CLI with Kimi K2.6 excels at long horizon agentic execution tasks through…]]'
 - '[[Changes/Claude Code/2026-04-23-2-agent-mode-changes-in-v2-1-118|2 Agent Mode
   changes in v2.1.118]]'
 - '[[Changes/Claude Code/2026-04-23-2-agent-mode-changes-in-v2-1-119|2 Agent Mode

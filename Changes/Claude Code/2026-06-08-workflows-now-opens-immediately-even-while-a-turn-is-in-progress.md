@@ -4,20 +4,20 @@ date: '2026-06-08'
 description: 'Claude Code · 2026-06-08 · Automation and Scheduling: `/workflows` now
   opens immediately even while a turn is in progress'
 diffusion:
-  first_in_tracked: '[[Changes/OpenHands/2024-09-04-better-syntax-error-loop-detection-by-tobitege-in-https-github-com-all-hands-ai|Better
-    syntax error loop detection]]'
+  first_in_tracked: '[[Changes/Dify/2024-01-02-add-data-clean-schedule-by-johnjyong-in-https-github-com-langgenius-dify-pull-18|Add
+    data clean schedule]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 642
+  lag_days: 888
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: f0c93eac20f4ff312ec8d3d4503d0131a15a45199a333cfd4629540e187498db
+machine_hash: beb7c717dc22fc7e6f1bc28002de3916dd41588ee0e45d3f8a44ad7bd29bf8c2
 product: claude-code
 product_name: Claude Code
 record:
@@ -43,8 +43,8 @@ record:
   title: '`/workflows` now opens immediately even while a turn is in progress'
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-05-28-schedule-manager-hint-bar-text-no-longer-wraps-over-dialog-borders-when-entries|Schedule
-  manager hint bar text no longer wraps over dialog borders when entries are added]]'
+- "[[Changes/Open WebUI/2026-06-01-bulk-enable-or-disable-automations-automations-can-now-be-enabled-or-disabled-in|\U0001F518
+  Bulk enable or disable automations. Automations can now be enabled or disabled…]]"
 - '[[Changes/GitHub Copilot CLI/2026-06-02-experimental-schedule-prompts-with-every-and-after|/experimental
   schedule prompts with /every and /after]]'
 - '[[Changes/Cursor/2026-06-04-reliable-wait-on-local-runs-local-runs-no-longer-resolve-wait-before-the-termina|Reliable
@@ -94,7 +94,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2024-09-04 · OpenHands · [[Changes/OpenHands/2024-09-04-better-syntax-error-loop-detection-by-tobitege-in-https-github-com-all-hands-ai|Better syntax error loop detection]]
+- Earliest same-theme entry in the tracked set: 2024-01-02 · Dify · [[Changes/Dify/2024-01-02-add-data-clean-schedule-by-johnjyong-in-https-github-com-langgenius-dify-pull-18|Add data clean schedule]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

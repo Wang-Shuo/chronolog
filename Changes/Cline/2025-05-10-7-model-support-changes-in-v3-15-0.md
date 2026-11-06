@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: e6212e9ad1d2f739021bc49895fdf03001e1ba84598ef0702e517eaa9d213538
+machine_hash: 4201d990d4efc7728af7d0beebbd993d5ef4ec8adbfc5b417f633ba11c53176c
 product: cline
 product_name: Cline
 record:
@@ -53,8 +53,8 @@ record:
   title: 7 Model Support changes in v3.15.0
   type: change
 related_changes:
-- '[[Changes/Cline/2025-05-03-5-model-support-changes-in-v3-14-0|5 Model Support changes
-  in v3.14.0]]'
+- "[[Changes/Open WebUI/2025-05-06-automatic1111-image-model-setting-applied-properly-fixed-an-issue-where-switchin|\U0001F3A8
+  Automatic1111 Image Model Setting Applied Properly]]"
 - '[[Changes/Windsurf/2025-05-07-cascade-ux-improvements|Cascade UX Improvements]]'
 - '[[Changes/Aider/2025-05-09-12-model-support-changes-in-v0-83-0|12 Model Support
   changes in v0.83.0]]'
@@ -103,7 +103,7 @@ Source: https://github.com/cline/cline/releases/tag/v3.15.0
 ## Nearby in Model Support
 
 - Earlier: 2025-05-09 · Aider · [[Changes/Aider/2025-05-09-12-model-support-changes-in-v0-83-0|12 Model Support changes in v0.83.0]]
-- Later: 2025-05-12 · Cline · [[Changes/Cline/2025-05-12-update-gemini-in-openrouter-cline-providers-to-use-implicit-caching|Update Gemini in OpenRouter/Cline providers to use implicit caching]]
+- Later: 2025-05-10 · Open WebUI · [[Changes/Open WebUI/2025-05-10-clear-alerts-for-private-task-models-when-interacting-with-private-task-models-t|🚨 Clear Alerts for Private Task Models]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

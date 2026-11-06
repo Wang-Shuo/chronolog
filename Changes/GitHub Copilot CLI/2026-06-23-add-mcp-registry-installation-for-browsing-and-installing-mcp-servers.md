@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: search-browsing
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 50e9e32129fc626563de006718a26f099acbced216edc20f3b5ccb305b359505
+machine_hash: 7fb791f0d3480b32253d801df2fdf332550aad0d09a162a382460d1007cd7ecb
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -102,7 +102,7 @@ type: change
 ## Nearby in Search and Browsing
 
 - Earlier: 2026-06-22 · Codex CLI · [[Changes/Codex CLI/2026-06-22-2-search-and-browsing-changes-in-rust-v0-142-0|2 Search and Browsing changes in rust-v0.142.0]]
-- Later: 2026-07-01 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-07-01-browse-resume-and-switch-between-sessions-from-the-agents-screen|Browse, resume, and switch between sessions from the agents screen]]
+- Later: 2026-06-29 · Open WebUI · [[Changes/Open WebUI/2026-06-29-8-search-and-browsing-changes-in-v0-10-0|8 Search and Browsing changes in v0.10.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

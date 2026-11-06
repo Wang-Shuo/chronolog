@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 105409ebcf6970060739df0241a85e672949ff267b038fd53c6c3203a45e22c8
+machine_hash: 3f984f5d6aff8bd404cef6c51abee1f4b96f7620c64e855d33547b8f561bc7e6
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -81,7 +81,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.53
 ## Nearby in Interface Experience
 
 - Earlier: 2026-05-23 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-05-23-6-interface-experience-changes-in-v1-0-52|6 Interface Experience changes in v1.0.52]]
-- Later: 2026-05-27 · Claude Code · [[Changes/Claude Code/2026-05-27-in-fullscreen-mode-the-thinking-for-ns-indicator-now-counts-up-live-while-the-mo|In fullscreen mode, the "Thinking for Ns" indicator now counts up live…]]
+- Later: 2026-05-26 · Lovable · [[Changes/Lovable/2026-05-26-project-toolbar-navigation-improvements|Project toolbar navigation improvements]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

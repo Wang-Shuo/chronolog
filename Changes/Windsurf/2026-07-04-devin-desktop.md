@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: f9e5915c0c8fe0b18990fc204b4acdfa6a6f335c7c27c5728692997a318dbbd3
+machine_hash: 39060bb71a3c321867db5f3ad7de48df67985d3a8d693b0e51eb668215560ec0
 product: windsurf
 product_name: Windsurf
 record:
@@ -61,12 +61,12 @@ record:
   title: Devin Desktop
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-06-25-26709-pac-4-add-macos-system-proxy-resolver-canvrno-oai|♯26709
-  PAC 4 - Add macOS system proxy resolver @canvrno-oai]]'
-- '[[Changes/Claude Code/2026-06-29-improved-background-session-reliability-long-running-commands-and-workflows-now|Improved
-  background session reliability]]'
+- '[[Changes/Gemini/2026-06-30-hand-off-the-heavy-lifting-to-gemini-spark-now-available-in-the-macos-app|Hand
+  off the heavy lifting to Gemini Spark, now available in the macOS app]]'
 - '[[Changes/GitHub Copilot CLI/2026-06-30-2-mobile-and-desktop-changes-in-v1-0-66|2
   Mobile and Desktop changes in v1.0.66]]'
+- '[[Changes/Replit/2026-07-03-the-redesigned-replit-desktop-app|The redesigned Replit
+  Desktop App]]'
 source_release: '[[Releases/Windsurf/windsurf-2026-07-04-v3-4-22-cbfcfc79|windsurf-2026-07-04-v3-4-22-cbfcfc79]]'
 source_type: windsurf_changelog
 theme: mobile-desktop
@@ -109,8 +109,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2026-06-30 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-06-30-2-mobile-and-desktop-changes-in-v1-0-66|2 Mobile and Desktop changes in v1.0.66]]
-- Later: 2026-07-07 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-07-07-3-mobile-and-desktop-changes-in-v1-0-69|3 Mobile and Desktop changes in v1.0.69]]
+- Earlier: 2026-07-03 · Replit · [[Changes/Replit/2026-07-03-the-redesigned-replit-desktop-app|The redesigned Replit Desktop App]]
+- Later: 2026-07-06 · Lovable · [[Changes/Lovable/2026-07-06-lovable-desktop-app-is-now-on-windows|Lovable Desktop app is now on Windows]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

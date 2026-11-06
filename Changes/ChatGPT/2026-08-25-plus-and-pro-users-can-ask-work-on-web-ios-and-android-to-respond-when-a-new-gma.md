@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: dc7de3587a132c869d41f8c35d88993817116e7e445cb0e7665417737008ad01
+machine_hash: a6f752d589ee65922c40779abf70fe5be2139b30ef516f1dd7cb5618642d6204
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -52,12 +52,12 @@ record:
   title: Create webhook-triggered tasks
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-08-20-2-developer-workflow-changes-in-v2-1-238|2 Developer
-  Workflow changes in v2.1.238]]'
 - '[[Changes/Codex CLI/2026-08-20-18-developer-workflow-changes-in-rust-v0-149-0|18
   Developer Workflow changes in rust-v0.149.0]]'
 - '[[Changes/Claude Code/2026-08-21-2-developer-workflow-changes-in-v2-1-239|2 Developer
   Workflow changes in v2.1.239]]'
+- '[[Changes/Ollama/2026-08-21-deepseek-harness-launcher-now-falls-back-to-npx-when-the-global-npm-install-fail|DeepSeek
+  Harness launcher now falls back to npx when the global npm install fails…]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-08-25-scheduled-tasks-can-respond-to-app-updates-and-be-shared-63a6aae4|chatgpt-2026-08-25-scheduled-tasks-can-respond-to-app-updates-and-be-shared-63a6aae4]]'
 source_type: chatgpt_changelog
 theme: developer-workflow
@@ -88,7 +88,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2026-08-21 · Claude Code · [[Changes/Claude Code/2026-08-21-2-developer-workflow-changes-in-v2-1-239|2 Developer Workflow changes in v2.1.239]]
+- Earlier: 2026-08-21 · Ollama · [[Changes/Ollama/2026-08-21-deepseek-harness-launcher-now-falls-back-to-npx-when-the-global-npm-install-fail|DeepSeek Harness launcher now falls back to npx when the global npm install fails…]]
 - Later: 2026-08-25 · Claude Code · [[Changes/Claude Code/2026-08-25-2-developer-workflow-changes-in-v2-1-246|2 Developer Workflow changes in v2.1.246]]
 <!-- chronolog:end -->
 

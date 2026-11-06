@@ -4,20 +4,20 @@ date: '2025-08-14'
 description: 'Gemini CLI · 2025-08-14 · Files and Data: Document certificate issue
   workaround by @scidomino in https://github.com/google-gemini/gemini-cli/pull/6157'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-07-06-we-re-rolling-out-code-interpreter-to-all-chatgpt-plus-users-over-the-next-week-66255e|Code
-    interpreter is now rolling out in beta on web]]'
+  first_in_tracked: '[[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2
+    Files and Data changes in 0.2.2]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 770
+  lag_days: 812
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 6ba00c17576617388e66a4a7b29830a36928475a123f470e9bafba4548e75fe6
+machine_hash: 4e22f032c5c737fbbf2097d7064a93f8034dcfd28636bcc33d7995a537b40b4a
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -43,12 +43,12 @@ record:
   title: Document certificate issue workaround
   type: change
 related_changes:
-- '[[Changes/Cline/2025-05-28-add-support-for-uploading-various-file-types-xml-json-txt-log-md-docx-ipynb-pdf|Add
-  support for uploading various file types…]]'
-- '[[Changes/Cline/2025-06-03-add-support-for-uploading-csv-and-xlsx-files-for-data-analysis-and-processing|Add
-  support for uploading CSV and XLSX files for data analysis and processing]]'
-- '[[Changes/ChatGPT/2025-06-24-projects-can-now-support-40-uploaded-files-up-from-20-for-pro-users|Project
-  file limit increased (Pro)]]'
+- '[[Changes/Dify/2025-07-28-2-files-and-data-changes-in-1-7-1|2 Files and Data changes
+  in 1.7.1]]'
+- '[[Changes/Open WebUI/2025-08-09-2-files-and-data-changes-in-v0-6-19|2 Files and
+  Data changes in v0.6.19]]'
+- '[[Changes/Dify/2025-08-11-minor-fix-wrong-position-of-retry-document-indexing-task-time-elapsed-by-neatguy|minor
+  fix: wrong position of retry_document_indexing_task time elapsed]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2025-08-14-v0-1-21-github-239867721-f576cbaa|gemini-cli-2025-08-14-v0-1-21-github-239867721-f576cbaa]]'
 source_type: github_releases
 theme: file-data
@@ -91,14 +91,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Files and Data
 
-- Earlier: 2025-06-24 · ChatGPT · [[Changes/ChatGPT/2025-06-24-projects-can-now-support-40-uploaded-files-up-from-20-for-pro-users|Project file limit increased (Pro)]]
-- Later: 2025-09-05 · Codex CLI · [[Changes/Codex CLI/2025-09-05-3118-codex-document-use-experimental-reasoning-summary-toml-key-config|♯3118 codex document use_experimental_reasoning_summary toml key config]]
+- Earlier: 2025-08-11 · Dify · [[Changes/Dify/2025-08-11-minor-fix-wrong-position-of-retry-document-indexing-task-time-elapsed-by-neatguy|minor fix: wrong position of retry_document_indexing_task time elapsed]]
+- Later: 2025-08-21 · Open WebUI · [[Changes/Open WebUI/2025-08-21-resolved-silently-dropped-streaming-response-chunks-fixed-an-issue-where-the-fin|💬 Resolved Silently Dropped Streaming Response Chunks]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-07-06 · ChatGPT · [[Changes/ChatGPT/2023-07-06-we-re-rolling-out-code-interpreter-to-all-chatgpt-plus-users-over-the-next-week-66255e|Code interpreter is now rolling out in beta on web]]
+- Earliest same-theme entry in the tracked set: 2023-05-25 · Dify · [[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2 Files and Data changes in 0.2.2]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

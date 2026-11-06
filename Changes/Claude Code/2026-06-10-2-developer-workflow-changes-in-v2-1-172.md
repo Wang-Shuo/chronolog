@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 5ab1357fa09df3575b6bbc02fe9c3c4bb9fd25b5335daba5820625622f3e17f6
+machine_hash: c286ef445cff3dd46a91decbcd61889d181bf5dc2a203500579003063de55db5
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,8 +45,8 @@ record:
   title: 2 Developer Workflow changes in v2.1.172
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-06-08-7-developer-workflow-changes-in-rust-v0-138-0|7
-  Developer Workflow changes in rust-v0.138.0]]'
+- '[[Changes/v0/2026-06-08-pull-requests-opened-from-a-new-branch-chat-are-no-longer-titled-initialize-proj|Pull
+  requests opened from a new-branch chat are no longer titled…]]'
 - '[[Changes/Codex CLI/2026-06-09-release-builds-once-again-publish-separate-symbol-archives-with-line-tables-impr|Release
   builds once again publish separate symbol archives with line tables…]]'
 - '[[Changes/GitHub Copilot CLI/2026-06-09-6-developer-workflow-changes-in-v1-0-61|6

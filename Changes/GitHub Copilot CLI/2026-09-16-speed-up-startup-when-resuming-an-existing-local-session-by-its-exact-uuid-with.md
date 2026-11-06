@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 38b134b5624320795ef9e3791a64182753901b05239672edf6d6cfc5a3fd91f5
+machine_hash: e36ddec58c55c4d8316b313587c3ae97bb14ff027864959d39e8868c033bafbd
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -43,10 +43,10 @@ record:
     with `--resume`
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-11-improved-responsiveness-in-long-sessions-transcript-updates-no-longer-re-process|Improved
-  responsiveness in long sessions]]'
 - '[[Changes/Claude Code/2026-09-14-improved-terminal-rendering-performance-large-diffs-and-long-transcripts-render|Improved
   terminal rendering performance]]'
+- '[[Changes/Ollama/2026-09-14-2-reliability-and-performance-changes-in-v0-34-1|2
+  Reliability and Performance changes in v0.34.1]]'
 - '[[Changes/Claude Code/2026-09-15-improved-responsiveness-in-long-sessions-hook-progress-and-sub-agent-activity-no|Improved
   responsiveness in long sessions]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-09-16-v1-0-85-github-389603482-889a46d9|github-copilot-cli-2026-09-16-v1-0-85-github-389603482-889a46d9]]'

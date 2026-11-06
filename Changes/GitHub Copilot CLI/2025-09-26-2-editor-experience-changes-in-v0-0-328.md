@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 62b464c8affae8be9688e3fea15b4e26ae9cc6551c897f6d604eff162f067853
+machine_hash: 6247b09112598874fc03c4580fda6543514d46b153b86ec1eb8522da01439707
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -43,11 +43,11 @@ record:
   title: 2 Editor Experience changes in v0.0.328
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-09-12-1-6-7-enhanced-git-diff-parsing|1.6.7: Enhanced git
-  diff parsing]]'
-- '[[Changes/Codex CLI/2025-09-15-add-readme-ide-3494|add(readme): IDE (♯3494)]]'
+- '[[Changes/Replit/2025-09-19-soc-2-pentest-completion|SOC 2 pentest completion]]'
 - '[[Changes/Gemini CLI/2025-09-24-8-editor-experience-changes-in-v0-6-0|8 Editor
   Experience changes in v0.6.0]]'
+- '[[Changes/Open WebUI/2025-09-25-2-editor-experience-changes-in-v0-6-31|2 Editor
+  Experience changes in v0.6.31]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2025-09-26-v0-0-328-github-250426078-8d17da88|github-copilot-cli-2025-09-26-v0-0-328-github-250426078-8d17da88]]'
 source_type: github_releases
 theme: editor-experience
@@ -82,7 +82,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v0.0.328
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2025-09-24 · Gemini CLI · [[Changes/Gemini CLI/2025-09-24-8-editor-experience-changes-in-v0-6-0|8 Editor Experience changes in v0.6.0]]
+- Earlier: 2025-09-25 · Open WebUI · [[Changes/Open WebUI/2025-09-25-2-editor-experience-changes-in-v0-6-31|2 Editor Experience changes in v0.6.31]]
 - Later: 2025-09-29 · Cursor · [[Changes/Cursor/2025-09-29-when-writing-prompts-autocomplete-suggestions-will-appear-based-on-recent-change|Autocomplete for Agent]]
 <!-- chronolog:end -->
 

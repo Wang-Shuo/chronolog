@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 8d3effb8f4ef69346b3a04946aa28e5371d34487b85c1f799605db0a4fa34e2a
+machine_hash: 5727a04dba9bfbe837bad50a7deba59b7b396444d98c36228fa606e2c46b8ca7
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -48,11 +48,11 @@ record:
   title: 4 Safety and Privacy changes in v0.7.0
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2025-09-26-improved-the-error-message-received-when-using-a-pat-that-is-missing-the-copilot|Improved
-  the error message received when using a PAT that is missing…]]'
-- '[[Changes/ChatGPT/2025-09-29-we-re-rolling-out-parental-controls-globally-in-chatgpt-to-help-families-guide-h-289d0a|ChatGPT
-  rolls out parental controls globally to help families guide how ChatGPT…]]'
 - '[[Changes/Cursor/2025-09-29-sandboxed-terminals|Sandboxed terminals]]'
+- '[[Changes/Dify/2025-09-29-3-safety-and-privacy-changes-in-1-9-1|3 Safety and Privacy
+  changes in 1.9.1]]'
+- '[[Changes/Open WebUI/2025-09-29-2-safety-and-privacy-changes-in-v0-6-32|2 Safety
+  and Privacy changes in v0.6.32]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2025-10-01-v0-7-0-github-251548156-78585420|gemini-cli-2025-10-01-v0-7-0-github-251548156-78585420]]'
 source_type: github_releases
 theme: safety-privacy
@@ -96,7 +96,7 @@ Source: https://github.com/google-gemini/gemini-cli/releases/tag/v0.7.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Safety and Privacy
 
-- Earlier: 2025-09-29 · Cursor · [[Changes/Cursor/2025-09-29-sandboxed-terminals|Sandboxed terminals]]
+- Earlier: 2025-09-29 · Open WebUI · [[Changes/Open WebUI/2025-09-29-2-safety-and-privacy-changes-in-v0-6-32|2 Safety and Privacy changes in v0.6.32]]
 - Later: 2025-10-01 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2025-10-01-improved-how-we-extract-paths-from-shell-commands-for-permission-handling-might|Improved how we extract paths from shell commands for permission handling…]]
 <!-- chronolog:end -->
 

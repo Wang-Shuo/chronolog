@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 72759256ebf9c69ac1104059fd7ac1dca77aed7cf2dd2a803fda1a4c5767dbc7
+machine_hash: 39bf1ed15b6e17ad2816b7cd7fec800affc8b6b1932eb0d61d53af8dd8b27fdf
 product: openhands
 product_name: OpenHands
 record:
@@ -45,12 +45,12 @@ record:
   title: 4 Developer Workflow changes in 0.7.0
   type: change
 related_changes:
-- '[[Changes/Aider/2024-06-17-2-developer-workflow-changes-in-v0-38-0|2 Developer
-  Workflow changes in v0.38.0]]'
 - '[[Changes/Aider/2024-06-20-commit-messages-are-no-longer-prefixed-with-aider-instead-the-git-author-and-com|Commit
   messages are no longer prefixed with "aider:"]]'
 - '[[Changes/Aider/2024-06-24-2-developer-workflow-changes-in-v0-40-0|2 Developer
   Workflow changes in v0.40.0]]'
+- '[[Changes/Dify/2024-06-28-3-developer-workflow-changes-in-0-6-12|3 Developer Workflow
+  changes in 0.6.12]]'
 source_release: '[[Releases/OpenHands/openhands-2024-06-29-0-7-0-github-163149742-cace6f1a|openhands-2024-06-29-0-7-0-github-163149742-cace6f1a]]'
 source_type: github_releases
 theme: developer-workflow
@@ -96,7 +96,7 @@ Source: https://github.com/OpenHands/OpenHands/releases/tag/0.7.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2024-06-24 · Aider · [[Changes/Aider/2024-06-24-2-developer-workflow-changes-in-v0-40-0|2 Developer Workflow changes in v0.40.0]]
+- Earlier: 2024-06-28 · Dify · [[Changes/Dify/2024-06-28-3-developer-workflow-changes-in-0-6-12|3 Developer Workflow changes in 0.6.12]]
 - Later: 2024-07-01 · Aider · [[Changes/Aider/2024-07-01-added-attribute-commit-message-to-prefix-aider-s-commit-messages-with-aider|Added --attribute-commit-message to prefix aider's commit messages with "aider:"]]
 <!-- chronolog:end -->
 

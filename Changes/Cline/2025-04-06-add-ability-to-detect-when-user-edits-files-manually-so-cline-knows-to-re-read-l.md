@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 02d7f8eabd3d0513df300f52dcc550e37359852b9ea860477f7a7ed32db6313c
+machine_hash: 6a378719c51a94e4ee3282104bf4e16d6c691a6c29f77f525f0760481653079f
 product: cline
 product_name: Cline
 record:
@@ -44,12 +44,12 @@ record:
   title: Add ability to detect when user edits files manually so Cline knows to re-read…
   type: change
 related_changes:
-- '[[Changes/Aider/2025-03-25-added-edit-as-an-alias-for-the-editor-command|Added
-  /edit as an alias for the /editor command]]'
-- '[[Changes/Cline/2025-04-01-2-editor-experience-changes-in-v3-8-5|2 Editor Experience
-  changes in v3.8.5]]'
-- '[[Changes/Windsurf/2025-04-02-improvements-to-windsurf-tab|Improvements to Windsurf
-  Tab]]'
+- '[[Changes/Lovable/2025-04-04-refactor-of-diff-creation-which-handles-multiple-edits-to-the-same-file|Refactor
+  of diff creation which handles multiple edits to the same file]]'
+- '[[Changes/Lovable/2025-04-04-new-ui-updated-the-editor-nav-bar-design-which-moves-pages-dropdown-and-related|New
+  UI: Updated the editor nav bar design, which moves pages dropdown…]]'
+- '[[Changes/Lovable/2025-04-04-lovable-now-has-a-dev-mode-enabling-dev-mode-lets-you-not-only-read-your-project|Lovable
+  now has a Dev Mode]]'
 source_release: '[[Releases/Cline/cline-2025-04-06-v3-9-2-github-210579054-7c606c67|cline-2025-04-06-v3-9-2-github-210579054-7c606c67]]'
 source_type: github_releases
 theme: editor-experience
@@ -80,7 +80,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2025-04-02 · Windsurf · [[Changes/Windsurf/2025-04-02-improvements-to-windsurf-tab|Improvements to Windsurf Tab]]
+- Earlier: 2025-04-04 · Lovable · [[Changes/Lovable/2025-04-04-lovable-now-has-a-dev-mode-enabling-dev-mode-lets-you-not-only-read-your-project|Lovable now has a Dev Mode]]
 - Later: 2025-04-07 · Windsurf · [[Changes/Windsurf/2025-04-07-ability-to-edit-subdomain-on-website-deploy|Ability to edit subdomain on website deploy]]
 <!-- chronolog:end -->
 

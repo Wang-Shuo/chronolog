@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 06205737217a41445b822b4548a6b1aaa08617332ff1f6753697302f632844ef
+machine_hash: 7b7723378d62d84b0be5fd4c111792421c02fa4899922a5c384434853f252616
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -72,8 +72,8 @@ record:
   title: 17 Apps and Integrations changes in rust-v0.44.0
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-09-29-4-apps-and-integrations-changes-in-1-7|4 Apps and Integrations
-  changes in 1.7]]'
+- '[[Changes/Open WebUI/2025-09-29-3-apps-and-integrations-changes-in-v0-6-32|3 Apps
+  and Integrations changes in v0.6.32]]'
 - '[[Changes/Gemini CLI/2025-10-01-11-apps-and-integrations-changes-in-v0-7-0|11 Apps
   and Integrations changes in v0.7.0]]'
 - '[[Changes/OpenHands/2025-10-01-added-configurable-timeout-settings-for-shttp-mcp-servers-to-prevent-tool-calls|Added
@@ -151,7 +151,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.44.0
 ## Nearby in Apps and Integrations
 
 - Earlier: 2025-10-01 · OpenHands · [[Changes/OpenHands/2025-10-01-added-configurable-timeout-settings-for-shttp-mcp-servers-to-prevent-tool-calls|Added configurable timeout settings for SHTTP MCP servers to prevent tool calls…]]
-- Later: 2025-10-07 · Gemini CLI · [[Changes/Gemini CLI/2025-10-07-14-apps-and-integrations-changes-in-v0-8-0|14 Apps and Integrations changes in v0.8.0]]
+- Later: 2025-10-03 · Replit · [[Changes/Replit/2025-10-03-connectors-platform-launch|Connectors platform launch]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

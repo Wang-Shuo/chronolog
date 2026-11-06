@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: e80ccee989e00ba5a65b37ec8c1950b3d74e99b39924d1ef7fb0a99a2cd5a83e
+machine_hash: 877e9665656e2b820a1808fb33dff42054d5171d320a9d543b7501a3196a7193
 product: cline
 product_name: Cline
 record:
@@ -43,8 +43,9 @@ record:
     mode
   type: change
 related_changes:
-- '[[Changes/Aider/2025-01-10-https-aider-chat-history-html|(source link)]]'
 - '[[Changes/Aider/2025-01-31-https-aider-chat-history-html|(source link)]]'
+- "[[Changes/Open WebUI/2025-02-05-redesigned-chat-input-ui-enjoy-a-sleeker-and-more-intuitive-message-input-with-i|\U0001F4AC
+  Redesigned Chat Input UI]]"
 - '[[Changes/Aider/2025-02-06-https-aider-chat-history-html|(source link)]]'
 source_release: '[[Releases/Cline/cline-2025-02-09-v3-3-0-github-199221780-3903ef76|cline-2025-02-09-v3-3-0-github-199221780-3903ef76]]'
 source_type: github_releases

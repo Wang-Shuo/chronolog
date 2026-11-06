@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: memory
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 91e88363d909217323b658116a45c47f964843ce8bb5c693b867443735421e52
+machine_hash: ee2e242bf795e6657cc259145b522e71df520a897a52c97c00d1076d999ed1e0
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -43,10 +43,10 @@ record:
   title: 'feat: Implement slash command handling in ACP for `/memory`,`/init`,`/extensions`…'
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-03-02-6-memory-and-personalization-changes-in-rust-v0-107-0|6
-  Memory and Personalization changes in rust-v0.107.0]]'
 - '[[Changes/Codex CLI/2026-03-05-5-memory-and-personalization-changes-in-rust-v0-110-0|5
   Memory and Personalization changes in rust-v0.110.0]]'
+- "[[Changes/Open WebUI/2026-03-08-system-metrics-via-opentelemetry-administrators-can-now-monitor-python-runtime-a|\U0001F4E1
+  System metrics via OpenTelemetry. Administrators can now monitor Python…]]"
 - '[[Changes/Codex CLI/2026-03-10-13734-feat-prune-old-memories-in-db-jif-oai|♯13734
   feat: prune old memories in DB @jif-oai]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2026-03-11-v0-33-0-github-295447024-03392937|gemini-cli-2026-03-11-v0-33-0-github-295447024-03392937]]'

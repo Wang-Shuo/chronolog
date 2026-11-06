@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: bc557b4cfb8412eca1692dc8583b748d5b08ef46d928f571ff69f2a0aa514477
+machine_hash: 00bab50e12b8e6ef7ff1bf7fa2c39fa5791ab763d8681d6b523b4fa71f2b579d
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -44,8 +44,8 @@ record:
   title: 'docs: add vi mode shortcuts and clarify MCP/custom sandbox setup'
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-05-20-add-security-review-slash-command-to-review-code-changes-for-security-vulnerabil|Add
-  /security-review slash command to review code changes for security…]]'
+- '[[Changes/Claude/2026-05-21-claude-now-works-with-more-security-and-compliance-tools|Claude
+  now works with more security and compliance tools]]'
 - '[[Changes/Codex CLI/2026-05-21-17-safety-and-privacy-changes-in-rust-v0-133-0|17
   Safety and Privacy changes in rust-v0.133.0]]'
 - '[[Changes/Claude Code/2026-05-22-2-safety-and-privacy-changes-in-v2-1-149|2 Safety

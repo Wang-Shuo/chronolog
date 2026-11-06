@@ -4,20 +4,20 @@ date: '2026-10-06'
 description: 'OpenHands · 2026-10-06 · Files and Data: 6 changes in v1.25.0 — feat(canvas):
   retire streaming slots by event id and delete the text-matching reconciler by…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-07-06-we-re-rolling-out-code-interpreter-to-all-chatgpt-plus-users-over-the-next-week-66255e|Code
-    interpreter is now rolling out in beta on web]]'
+  first_in_tracked: '[[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2
+    Files and Data changes in 0.2.2]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1188
+  lag_days: 1230
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: b0a7fb707fcb183da5f69b50aa216f4fb6394f46ce2824ac8c3d217573010ded
+machine_hash: ca23fcd602be5e3fffa795dad9cd18c65db8ade6725831518bebfd88ac50ca47
 product: openhands
 product_name: OpenHands
 record:
@@ -117,7 +117,7 @@ Source: https://github.com/OpenHands/OpenHands/releases/tag/v1.25.0
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-07-06 · ChatGPT · [[Changes/ChatGPT/2023-07-06-we-re-rolling-out-code-interpreter-to-all-chatgpt-plus-users-over-the-next-week-66255e|Code interpreter is now rolling out in beta on web]]
+- Earliest same-theme entry in the tracked set: 2023-05-25 · Dify · [[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2 Files and Data changes in 0.2.2]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

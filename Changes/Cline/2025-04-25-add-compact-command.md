@@ -10,12 +10,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 2dea7397f998a597879050a16806b8292fdb0786feb3d67ca07885e16820f1f1
+machine_hash: 42ed22024e0a1c230ea0098f2ccccae3e534151a09cb70795399537ad5b3c0e1
 product: cline
 product_name: Cline
 record:
@@ -40,8 +40,8 @@ record:
   title: Add `/compact` command
   type: change
 related_changes:
-- '[[Changes/Cline/2025-04-19-2-developer-workflow-changes-in-v3-13-0|2 Developer
-  Workflow changes in v3.13.0]]'
+- '[[Changes/Dify/2025-04-23-2-developer-workflow-changes-in-1-3-0|2 Developer Workflow
+  changes in 1.3.0]]'
 - '[[Changes/OpenHands/2025-04-23-restored-interactivity-to-the-terminal-by-rbren-in-https-github-com-all-hands-ai|Restored
   interactivity to the terminal]]'
 - '[[Changes/Cline/2025-04-24-improve-slash-command-functionality|Improve slash command

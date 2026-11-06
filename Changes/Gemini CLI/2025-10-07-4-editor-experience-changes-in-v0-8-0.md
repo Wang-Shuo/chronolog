@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 606884f4d20beec1863c217320c91a153aa06f16fb3ec024f8e809b76d2720da
+machine_hash: 6da69e63a2be0d34ea13d0bf92c17972823ea619b25f2c6a6172107b8557948d
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -49,12 +49,11 @@ record:
   title: 4 Editor Experience changes in v0.8.0
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2025-10-03-2-editor-experience-changes-in-rust-v0-44-0|2 Editor
-  Experience changes in rust-v0.44.0]]'
 - '[[Changes/GitHub Copilot CLI/2025-10-03-2-editor-experience-changes-in-v0-0-334|2
   Editor Experience changes in v0.0.334]]'
 - '[[Changes/GitHub Copilot CLI/2025-10-06-3-editor-experience-changes-in-v0-0-335|3
   Editor Experience changes in v0.0.335]]'
+- '[[Changes/Lovable/2025-10-06-a-smoother-build-experience|A smoother build experience]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2025-10-07-v0-8-0-github-252858757-2ecdc728|gemini-cli-2025-10-07-v0-8-0-github-252858757-2ecdc728]]'
 source_type: github_releases
 theme: editor-experience
@@ -101,7 +100,7 @@ Source: https://github.com/google-gemini/gemini-cli/releases/tag/v0.8.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2025-10-06 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2025-10-06-3-editor-experience-changes-in-v0-0-335|3 Editor Experience changes in v0.0.335]]
+- Earlier: 2025-10-06 · Lovable · [[Changes/Lovable/2025-10-06-a-smoother-build-experience|A smoother build experience]]
 - Later: 2025-10-07 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2025-10-07-3-editor-experience-changes-in-v0-0-336|3 Editor Experience changes in v0.0.336]]
 <!-- chronolog:end -->
 

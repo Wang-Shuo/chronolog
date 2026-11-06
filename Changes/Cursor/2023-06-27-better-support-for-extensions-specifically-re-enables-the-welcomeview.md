@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 1711d86db47d2234deb4808addc56f40209c69cc87dd8476d89eb54341860411
+machine_hash: 5c7191211974c1f1200af4317882b5d4e1cf5a4a05bfa13a44fc2570c2880f5a
 product: cursor
 product_name: Cursor
 record:
@@ -45,10 +45,10 @@ record:
   title: Better support for extensions (specifically re-enables the welcomeView)
   type: change
 related_changes:
-- '[[Changes/Cursor/2023-06-09-you-can-now-have-the-ai-read-documentation-on-your-behalf-this-will-improve-it-s|Show
-  the AI documentation]]'
 - '[[Changes/Cursor/2023-06-16-we-ve-added-support-for-using-your-azure-openai-credentials-also-small-improveme|Azure
   Support]]'
+- "[[Changes/Dify/2023-06-19-dataset-support-integration-with-notion|\U0001F4C3 Dataset
+  support integration with Notion]]"
 - '[[Changes/Cursor/2023-06-27-cursor-deep-linking-works-now-so-you-should-be-able-to-log-in-to-extensions|cursor://
   deep linking works now, so you should be able to log in to extensions]]'
 source_release: '[[Releases/Cursor/cursor-2023-06-27-0-2-37-https-cursor-com-changelog-0-2-37-335b554a|cursor-2023-06-27-0-2-37-https-cursor-com-changelog-0-2-37-335b554a]]'

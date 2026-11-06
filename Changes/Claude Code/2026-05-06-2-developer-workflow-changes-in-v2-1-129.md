@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: b3364b32d2e0802404bc5fe6d7a223c2aa7a7f4f64748f96302e3fcd8ac0e785
+machine_hash: 67c3c3f4fb645aa8698503ed53a6053e77c599f8d7fe64cd84a22c50e6ab695c
 product: claude-code
 product_name: Claude Code
 record:
@@ -44,10 +44,10 @@ record:
   title: 2 Developer Workflow changes in v2.1.129
   type: change
 related_changes:
-- '[[Changes/Cline/2026-05-01-restore-vs-code-foreground-terminal-support-and-settings|Restore
-  VS Code foreground terminal support and settings]]'
 - '[[Changes/GitHub Copilot CLI/2026-05-01-slash-command-suggestions-rank-prefix-matches-above-fuzzy-matches|Slash
   command suggestions rank prefix matches above fuzzy matches]]'
+- '[[Changes/Ollama/2026-05-03-claude-code-on-the-terminal-can-still-be-accessed-through-the-cli-with|Claude
+  Code on the terminal can still be accessed through the CLI with]]'
 - '[[Changes/Gemini CLI/2026-05-05-3-developer-workflow-changes-in-v0-41-0|3 Developer
   Workflow changes in v0.41.0]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-05-06-v2-1-129-github-317982632-ec56fc0f|claude-code-2026-05-06-v2-1-129-github-317982632-ec56fc0f]]'

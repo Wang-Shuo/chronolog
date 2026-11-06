@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 8ee3b9d279fffde66d0a6c38f03338b88368d9378534fd68150800748ca9fe37
+machine_hash: 4ab772b26b8442bc87aa8571fe319108552df5af576b7902a14ce0db2418a4b8
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -43,12 +43,11 @@ record:
   title: 2 Apps and Integrations changes in v1.0.52
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-05-21-20-apps-and-integrations-changes-in-rust-v0-133-0|20
-  Apps and Integrations changes in rust-v0.133.0]]'
-- '[[Changes/Claude Code/2026-05-22-2-apps-and-integrations-changes-in-v2-1-149|2
-  Apps and Integrations changes in v2.1.149]]'
 - '[[Changes/Gemini CLI/2026-05-22-docs-extensions-refactor-releasing-guide-and-add-update-mechanisms-by-ruomengz-i|docs(extensions):
   refactor releasing guide and add update mechanisms]]'
+- '[[Changes/Replit/2026-05-22-integrations|Integrations]]'
+- '[[Changes/Replit/2026-05-22-two-new-connectors-quiver-ai-and-browserbase|Two new
+  connectors: Quiver AI and Browserbase]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-05-23-v1-0-52-github-328402909-801444d4|github-copilot-cli-2026-05-23-v1-0-52-github-328402909-801444d4]]'
 source_type: github_releases
 theme: apps-integrations
@@ -90,7 +89,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.52
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-05-22 · Gemini CLI · [[Changes/Gemini CLI/2026-05-22-docs-extensions-refactor-releasing-guide-and-add-update-mechanisms-by-ruomengz-i|docs(extensions): refactor releasing guide and add update mechanisms]]
+- Earlier: 2026-05-22 · Replit · [[Changes/Replit/2026-05-22-two-new-connectors-quiver-ai-and-browserbase|Two new connectors: Quiver AI and Browserbase]]
 - Later: 2026-05-25 · Cline · [[Changes/Cline/2026-05-25-add-lg-task-uri-webhook-integration-for-lg-dashboard-flows|Add /lg-task URI webhook integration for LG dashboard flows]]
 <!-- chronolog:end -->
 

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: pricing
-machine_hash: 1c34483e6cc39116daf573a52c6cc36254d8fef514ac6cc06ed8d137ba28dd11
+machine_hash: 1b4b764f7beff6c1d7a0e98fd161dae885bdb9617b5d1823a3b9cb39f940e8f7
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -42,8 +42,8 @@ record:
   title: Ability to buy credits for more usage
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2025-10-14-we-re-excited-to-announce-that-chatgpt-go-our-low-cost-subscription-plan-is-now-d58cbb|ChatGPT
-  Go, our low cost subscription plan, is now available in 71 additional…]]'
+- '[[Changes/v0/2025-10-27-referrals-are-now-live-in-v0-invite-a-new-user-to-subscribe-to-v0-with-your-link|Referrals
+  Program]]'
 - '[[Changes/ChatGPT/2025-10-28-we-re-launching-chatgpt-go-our-low-cost-subscription-plan-in-brazil-chatgpt-go-p|ChatGPT
   launches ChatGPT Go, our low cost subscription plan, in Brazil]]'
 - '[[Changes/ChatGPT/2025-10-30-we-re-excited-to-announce-that-chatgpt-go-our-low-cost-subscription-plan-is-now-44be9d|ChatGPT
@@ -87,7 +87,7 @@ type: change
 ## Nearby in Pricing Model
 
 - Earlier: 2025-10-30 · ChatGPT · [[Changes/ChatGPT/2025-10-30-we-re-excited-to-announce-that-chatgpt-go-our-low-cost-subscription-plan-is-now-44be9d|ChatGPT Go, our low cost subscription plan, is now available in 8 additional…]]
-- Later: 2025-11-03 · ChatGPT · [[Changes/ChatGPT/2025-11-03-eligible-customers-in-india-can-now-get-12-months-of-chatgpt-go-at-no-cost-new-u|ChatGPT Go Promo - India]]
+- Later: 2025-10-31 · v0 · [[Changes/v0/2025-10-31-we-launched-a-new-plan-business|Business Plan]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: adb3a1771d523f7baedde11e189bb05a02dfe34f3968abbe16d9b20d7ad47e9c
+machine_hash: 48cd00c5b95a22f0fee8e1234b2def532d83ef1c3c1f4ad1fcb67e5eb5672e9e
 product: cline
 product_name: Cline
 record:
@@ -42,11 +42,10 @@ record:
   title: 2 Interface Experience changes in v3.41.0
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2025-12-09-2-interface-experience-changes-in-rust-v0-66-0|2
-  Interface Experience changes in rust-v0.66.0]]'
 - '[[Changes/Codex CLI/2025-12-10-4-interface-experience-changes-in-rust-v0-69-0|4
   Interface Experience changes in rust-v0.69.0]]'
 - '[[Changes/Cursor/2025-12-10-pinned-chats|Pinned chats]]'
+- '[[Changes/Lovable/2025-12-10-a-more-lovable-dashboard|A more Lovable dashboard]]'
 source_release: '[[Releases/Cline/cline-2025-12-11-v3-41-0-github-269664920-dcb387db|cline-2025-12-11-v3-41-0-github-269664920-dcb387db]]'
 source_type: github_releases
 theme: interface-experience
@@ -86,8 +85,8 @@ Source: https://github.com/cline/cline/releases/tag/v3.41.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2025-12-10 · Cursor · [[Changes/Cursor/2025-12-10-pinned-chats|Pinned chats]]
-- Later: 2025-12-15 · Codex CLI · [[Changes/Codex CLI/2025-12-15-8047-chore-fix-tooltip-typos-and-align-tone|♯8047 chore: fix tooltip typos and align tone]]
+- Earlier: 2025-12-10 · Lovable · [[Changes/Lovable/2025-12-10-a-more-lovable-dashboard|A more Lovable dashboard]]
+- Later: 2025-12-11 · Dify · [[Changes/Dify/2025-12-11-3-interface-experience-changes-in-1-11-0|3 Interface Experience changes in 1.11.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

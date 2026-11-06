@@ -5,20 +5,20 @@ description: 'GitHub Copilot CLI · 2026-11-06 · Voice and Audio: 4 changes in 
   — Keep the highlighted microphone selected in /voice devices when refreshing the
   device…'
 diffusion:
-  first_in_tracked: '[[Changes/Aider/2023-08-11-voice-to-code-https-aider-chat-docs-voice-html-support-which-allows-you-to-code|Voice-to-code((source
-    link) support, which allows you…]]'
+  first_in_tracked: '[[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2
+    Voice and Audio changes in 0.3.7]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1183
+  lag_days: 1215
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 2da190b08f305627cba82938dd909b90ffec7d8b3ad853dbd789c3c0e4430546
+machine_hash: 8527c278dfd469335afc2ed37031a700a78b6557a468a449829053983aadcd85
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -49,10 +49,10 @@ record:
   title: 4 Voice and Audio changes in v1.0.106
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-22-vscode-added-a-log-warning-that-says-what-to-do-when-dictation-or-the-extension|VSCode
-  Added a log warning that says what to do when dictation or the extension''s…]]'
-- '[[Changes/Codex CLI/2026-10-23-3-voice-and-audio-changes-in-rust-v0-164-0|3 Voice
-  and Audio changes in rust-v0.164.0]]'
+- '[[Changes/Open WebUI/2026-11-03-4-voice-and-audio-changes-in-v0-13-0|4 Voice and
+  Audio changes in v0.13.0]]'
+- '[[Changes/Dify/2026-11-04-2-voice-and-audio-changes-in-1-19-0|2 Voice and Audio
+  changes in 1.19.0]]'
 - '[[Changes/Codex CLI/2026-11-06-4-voice-and-audio-changes-in-rust-v0-167-0|4 Voice
   and Audio changes in rust-v0.167.0]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-11-06-v1-0-106-github-435988160-ec5b15d4|github-copilot-cli-2026-11-06-v1-0-106-github-435988160-ec5b15d4]]'
@@ -116,7 +116,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.106
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-08-11 · Aider · [[Changes/Aider/2023-08-11-voice-to-code-https-aider-chat-docs-voice-html-support-which-allows-you-to-code|Voice-to-code((source link) support, which allows you…]]
+- Earliest same-theme entry in the tracked set: 2023-07-10 · Dify · [[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2 Voice and Audio changes in 0.3.7]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

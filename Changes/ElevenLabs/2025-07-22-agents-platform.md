@@ -1,0 +1,104 @@
+---
+card_id: elevenlabs-2025-07-22-2e7877
+date: '2025-07-22'
+description: 'ElevenLabs · 2025-07-22 · Agent Mode: **Agent workspace overrides**:
+  Enhanced agent configuration with workspace-level overrides for better enterprise…'
+diffusion:
+  first_in_tracked: '[[Changes/Cursor/2023-07-06-welcome-to-the-first-nightly-release-it-comes-with-agents-which-we-aren-t-releas|Agents,
+    new docs]]'
+  inference: No adoption, equivalence, or causation claim.
+  lag_days: 747
+  relation: same-theme-chronology
+  role: later-observed
+  scope: tracked-products-only
+  theme: agent-mode
+  tracked_products_count: 20
+evolves_from: []
+extractor_version: fallback-v5
+impact: paradigm-shift
+kind: launch
+machine_hash: e4020bc6f3cc4ddbd9156dd00dc92a8281f4fa775be103f1e7f5df90ac4f2df9
+product: elevenlabs
+product_name: ElevenLabs
+record:
+  ai_generated: true
+  card_id: elevenlabs-2025-07-22-2e7877
+  comparison: ''
+  confidence: low
+  date: '2025-07-22'
+  description: 'ElevenLabs — ElevenLabs updates — 2025-07-22: **Agent workspace overrides**:
+    Enhanced agent configuration with workspace-level overrides for better enterprise
+    management and customization.'
+  evidence:
+  - quote: '**Agent workspace overrides**: Enhanced agent configuration with workspace-level
+      overrides for better enterprise management and customization.'
+    source_release: https://elevenlabs.io/docs/changelog/2025/7/22
+  - quote: '**Agent API improvements**: Updated agent creation and modification endpoints
+      with enhanced configuration options, though these changes may break backward
+      compatibility.'
+    source_release: https://elevenlabs.io/docs/changelog/2025/7/22
+  extractor_version: fallback-v5
+  impact: paradigm-shift
+  kind: launch
+  product: elevenlabs
+  product_name: ElevenLabs
+  slug: agents-platform
+  source_release: elevenlabs-2025-07-22-2025-07-22-af98330b
+  source_type: elevenlabs_changelog
+  theme: agent-mode
+  title: Agents Platform
+  type: change
+related_changes:
+- '[[Changes/ElevenLabs/2025-07-14-agents-platform-d9d1f0|Agents Platform]]'
+- '[[Changes/Codex CLI/2025-07-19-https-github-com-openai-codex-pull-1589-changes-ctrl-d-so-it-only-exits-the-tui|(source
+  link) changes ctrl-d so it only exits the TUI…]]'
+- '[[Changes/Gemini CLI/2025-07-19-3-agent-mode-changes-in-v0-1-13|3 Agent Mode changes
+  in v0.1.13]]'
+source_release: '[[Releases/ElevenLabs/elevenlabs-2025-07-22-2025-07-22-af98330b|elevenlabs-2025-07-22-2025-07-22-af98330b]]'
+source_type: elevenlabs_changelog
+theme: agent-mode
+title: Agents Platform
+type: change
+---
+
+<!-- chronolog:begin region="header" -->
+# Agents Platform
+
+**ElevenLabs** · 2025-07-22 · [[Themes/agent-mode|Agent Mode]] · Launch · [Official source](https://elevenlabs.io/docs/changelog/2025/7/22) · from [[Releases/ElevenLabs/elevenlabs-2025-07-22-2025-07-22-af98330b|ElevenLabs updates — 2025-07-22]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="evidence" -->
+> **Agent workspace overrides**: Enhanced agent configuration with workspace-level overrides for better enterprise management and customization.
+>
+> **Agent API improvements**: Updated agent creation and modification endpoints with enhanced configuration options, though these changes may break backward compatibility.
+>
+> Source: https://elevenlabs.io/docs/changelog/2025/7/22
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="context" -->
+## Also in this release
+
+- [[Changes/ElevenLabs/2025-07-22-agents-platform-32a4c5|Agents Platform]] · Agent Mode
+- [[Changes/ElevenLabs/2025-07-22-voice-management|Voice Management]] · Voice and Audio
+- [[Changes/ElevenLabs/2025-07-22-speech-to-text|Speech to Text]] · Voice and Audio
+- [[Changes/ElevenLabs/2025-07-22-2-agent-mode-changes-in-elevenlabs-updates-2025-07-22|2 Agent Mode changes in ElevenLabs updates — 2025-07-22]] · Agent Mode
+- [[Changes/ElevenLabs/2025-07-22-voice-creation|Voice Creation]] · Voice and Audio
+- [[Changes/ElevenLabs/2025-07-22-get-conversation-https-elevenlabs-io-docs-api-reference-conversations-get-enhanc|Get conversation((source link)]] · Other changes
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="nearby" -->
+## Nearby in Agent Mode
+
+- Earlier: 2025-07-19 · Gemini CLI · [[Changes/Gemini CLI/2025-07-19-3-agent-mode-changes-in-v0-1-13|3 Agent Mode changes in v0.1.13]]
+- Later: 2025-07-23 · Dify · [[Changes/Dify/2025-07-23-2-agent-mode-changes-in-1-7-0|2 Agent Mode changes in 1.7.0]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="relations" -->
+## Related
+
+- Earliest same-theme entry in the tracked set: 2023-07-06 · Cursor · [[Changes/Cursor/2023-07-06-welcome-to-the-first-nightly-release-it-comes-with-agents-which-we-aren-t-releas|Agents, new docs]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="footer" -->
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20elevenlabs-2025-07-22-2e7877&body=Card%3A%20Changes%2FElevenLabs%2F2025-07-22-agents-platform.md%0ACard%20ID%3A%20elevenlabs-2025-07-22-2e7877%0ASource%3A%20https%3A%2F%2Felevenlabs.io%2Fdocs%2Fchangelog%2F2025%2F7%2F22%0A%0AWhat%20should%20be%20corrected%3F%0A)
+<!-- chronolog:end -->

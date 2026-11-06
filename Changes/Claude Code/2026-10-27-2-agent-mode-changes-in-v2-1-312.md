@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 3fab5b27952e8c784be7cc95bceed2dee990c5e4c13369917d3b31814c226502
+machine_hash: 2e6e7548566293eb21bdd4eea92c97e5b3329e5a583296fe50f9eba7c61907da
 product: claude-code
 product_name: Claude Code
 record:
@@ -47,10 +47,9 @@ record:
   title: 2 Agent Mode changes in v2.1.312
   type: change
 related_changes:
-- '[[Changes/Windsurf/2026-10-23-3-agent-mode-changes-in-v3-11-212|3 Agent Mode changes
-  in v3.11.212]]'
-- '[[Changes/Claude Code/2026-10-26-2-agent-mode-changes-in-v2-1-311|2 Agent Mode
-  changes in v2.1.311]]'
+- '[[Changes/ElevenLabs/2026-10-26-elevenagents|ElevenAgents]]'
+- '[[Changes/ElevenLabs/2026-10-26-9-agent-mode-changes-in-elevenlabs-updates-2026-10-26|9
+  Agent Mode changes in ElevenLabs updates — 2026-10-26]]'
 - '[[Changes/Windsurf/2026-10-26-the-status-bar-no-longer-disappears-after-you-switch-from-agent-mode-to-ide-mode|The
   status bar no longer disappears after you switch from Agent mode to IDE mode]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-10-27-v2-1-312-github-425846009-439d063a|claude-code-2026-10-27-v2-1-312-github-425846009-439d063a]]'

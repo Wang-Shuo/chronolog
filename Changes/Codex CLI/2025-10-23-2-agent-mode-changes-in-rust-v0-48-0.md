@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: efc259c642919edaa6ffb5daaccd56fa569bf8d0e04726bd73d0a1ec5cfacda2
+machine_hash: f14493881a103c5622da3ca2d790b253a06990e29e82cf5c8696456867fff37a
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -42,9 +42,9 @@ record:
   title: 2 Agent Mode changes in rust-v0.48.0
   type: change
 related_changes:
-- '[[Changes/Cline/2025-10-16-2-agent-mode-changes-in-v3-33-0|2 Agent Mode changes
-  in v3.33.0]]'
-- '[[Changes/Codex CLI/2025-10-17-agent-override-file-5215|Agent override file (♯5215)]]'
+- '[[Changes/ElevenLabs/2025-10-20-python-sdk|Python SDK]]'
+- '[[Changes/Dify/2025-10-22-4-agent-mode-changes-in-1-9-2|4 Agent Mode changes in
+  1.9.2]]'
 - '[[Changes/Gemini CLI/2025-10-22-feat-core-add-telemetry-for-subagent-execution-by-abhipatel12-in-https-github-co|feat(core):
   add telemetry for subagent execution]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2025-10-23-rust-v0-48-0-github-256860123-ffacccba|codex-cli-2025-10-23-rust-v0-48-0-github-256860123-ffacccba]]'

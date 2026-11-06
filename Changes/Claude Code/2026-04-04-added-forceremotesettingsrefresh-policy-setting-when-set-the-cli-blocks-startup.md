@@ -4,20 +4,20 @@ date: '2026-04-04'
 description: 'Claude Code · 2026-04-04 · Enterprise and Administration: Added `forceRemoteSettingsRefresh`
   policy setting: when set, the CLI blocks startup until remote…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2024-03-20-admin-improvements-team-admins-can-now-mark-themselves-as-unpaid-users-and-can-s|Admin
-    improvements: Team admins can now mark themselves as unpaid users and can see…]]'
+  first_in_tracked: '[[Changes/Gemini/2023-05-05-access-for-google-workspace-accounts|Access
+    for Google Workspace accounts]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 745
+  lag_days: 1065
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: d8163c80bcdc6eec205d7a5f57123b14486af83becd02f1feda6371215e2f75e
+machine_hash: 62a61891f3c310faa2db43fc7321fbd76e83dd80227cdb3d2a43ecff9493efd3
 product: claude-code
 product_name: Claude Code
 record:
@@ -46,10 +46,10 @@ record:
   title: Added `forceRemoteSettingsRefresh` policy setting
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-03-26-added-allowedchannelplugins-managed-setting-for-team-enterprise-admins-to-define|Added
-  allowedChannelPlugins managed setting for team/enterprise admins to define…]]'
 - '[[Changes/Codex CLI/2026-03-26-15789-treat-chatgpt-hc-plan-as-enterprise-arnavdugar-openai|♯15789
   Treat ChatGPT hc plan as Enterprise @arnavdugar-openai]]'
+- '[[Changes/Dify/2026-03-27-refactor-workspace-optimize-workspaces-plan-resolution-for-saas-and-enterprise-w|refactor(workspace):
+  optimize /workspaces plan resolution for SaaS and enterprise…]]'
 - '[[Changes/Cursor/2026-04-02-added-an-enterprise-admin-control-for-disabling-made-with-cursor-code-attributio|Added
   an Enterprise Admin control for disabling "Made with Cursor" code attribution…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-04-04-v2-1-92-github-305189904-2eb020f5|claude-code-2026-04-04-v2-1-92-github-305189904-2eb020f5]]'
@@ -95,7 +95,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2024-03-20 · Cursor · [[Changes/Cursor/2024-03-20-admin-improvements-team-admins-can-now-mark-themselves-as-unpaid-users-and-can-s|Admin improvements: Team admins can now mark themselves as unpaid users and can see…]]
+- Earliest same-theme entry in the tracked set: 2023-05-05 · Gemini · [[Changes/Gemini/2023-05-05-access-for-google-workspace-accounts|Access for Google Workspace accounts]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

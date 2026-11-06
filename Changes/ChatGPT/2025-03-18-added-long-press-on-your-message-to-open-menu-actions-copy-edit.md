@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: b0d55123391373497237f40a378500de8ead421f68284031acc723706f85d4dd
+machine_hash: 05bc5ad30383ac9e61980b8714838fc0a53dc58f568a0613e4b7a2bb2ef8e3db
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -41,11 +41,12 @@ record:
   title: 'Added long press on your message to open menu actions: Copy, Edit'
   type: change
 related_changes:
-- '[[Changes/Aider/2025-03-10-https-aider-chat-history-html|(source link)]]'
-- '[[Changes/Cursor/2025-03-11-keyboard-shortcuts-all-keyboard-shortcuts-are-now-available-in-the-keyboard-shor|Keyboard
-  Shortcuts: All keyboard shortcuts are now available in the Keyboard…]]'
 - '[[Changes/Cursor/2025-03-11-0-47-11-release-track-picker-prerelease-or-standard-fix-for-dmg-installer-not-wo|0.47.11:
   Release track picker (prerelease or standard), fix for dmg installer not…]]'
+- '[[Changes/Dify/2025-03-11-2-interface-experience-changes-in-1-0-1|2 Interface Experience
+  changes in 1.0.1]]'
+- '[[Changes/Lovable/2025-03-14-we-ve-made-some-improvement-to-lovable-s-project-settings-layout-for-a-more-intu|Lovable
+  makes some improvement to Lovable’s project settings layout for a more…]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-03-18-ios-app-6a42bb0f|chatgpt-2025-03-18-ios-app-6a42bb0f]]'
 source_type: chatgpt_changelog
 theme: interface-experience
@@ -76,7 +77,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2025-03-11 · Cursor · [[Changes/Cursor/2025-03-11-0-47-11-release-track-picker-prerelease-or-standard-fix-for-dmg-installer-not-wo|0.47.11: Release track picker (prerelease or standard), fix for dmg installer not…]]
+- Earlier: 2025-03-14 · Lovable · [[Changes/Lovable/2025-03-14-we-ve-made-some-improvement-to-lovable-s-project-settings-layout-for-a-more-intu|Lovable makes some improvement to Lovable’s project settings layout for a more…]]
 - Later: 2025-03-21 · Aider · [[Changes/Aider/2025-03-21-3-interface-experience-changes-in-v0-78-0|3 Interface Experience changes in v0.78.0]]
 <!-- chronolog:end -->
 

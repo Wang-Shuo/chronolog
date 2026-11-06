@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 97600f2f686398bd8eb313378fee6576b05dbf37610582f8ea63aaa83320e5c6
+machine_hash: 6d9e0d585c7455d433885957064c2f88458ea03c0715e6a87f03a584f3e6b20c
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -44,8 +44,8 @@ record:
   title: 2 Mobile and Desktop changes in rust-v0.95.0
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-01-28-homebrew-tools-work-correctly-on-macos-with-zsh-as-default-shell|Homebrew
-  tools work correctly on macOS with zsh as default shell]]'
+- '[[Changes/v0/2026-01-28-improved-git-workflow-ui-on-mobile-devices|Improved Git
+  workflow UI on mobile devices]]'
 - '[[Changes/GitHub Copilot CLI/2026-01-29-skills-load-correctly-on-windows|Skills
   load correctly on Windows]]'
 - '[[Changes/Codex CLI/2026-01-31-10011-really-fix-pwd-for-windows-codex-zip-iceweasel-oai|♯10011

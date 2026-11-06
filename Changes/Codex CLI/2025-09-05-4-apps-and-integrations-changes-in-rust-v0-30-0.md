@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: dc96e7efb6e3d06cef35a536968474dfd7aa2938957d7b2ef137ed0353e74b0c
+machine_hash: 27eec9fcd6ec814014932ab14d8bf3f3c7aea0822b1150db92dfce5ba59bb7de
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -47,10 +47,9 @@ record:
   title: 4 Apps and Integrations changes in rust-v0.30.0
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2025-08-29-3-apps-and-integrations-changes-in-rust-v0-26-0|3
-  Apps and Integrations changes in rust-v0.26.0]]'
-- '[[Changes/Codex CLI/2025-08-29-mcp-stability-drop-mutexes-earlier-and-avoid-lock-ordering-pitfalls|MCP
-  stability: drop mutexes earlier and avoid lock ordering pitfalls]]'
+- '[[Changes/Lovable/2025-09-01-smarter-seo-for-new-apps|Smarter SEO for new apps]]'
+- '[[Changes/Dify/2025-09-03-4-apps-and-integrations-changes-in-1-8-1|4 Apps and Integrations
+  changes in 1.8.1]]'
 - '[[Changes/Gemini CLI/2025-09-04-17-apps-and-integrations-changes-in-v0-3-0|17 Apps
   and Integrations changes in v0.3.0]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2025-09-05-rust-v0-30-0-github-245199079-dedb4e90|codex-cli-2025-09-05-rust-v0-30-0-github-245199079-dedb4e90]]'
@@ -98,7 +97,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.30.0
 ## Nearby in Apps and Integrations
 
 - Earlier: 2025-09-04 · Gemini CLI · [[Changes/Gemini CLI/2025-09-04-17-apps-and-integrations-changes-in-v0-3-0|17 Apps and Integrations changes in v0.3.0]]
-- Later: 2025-09-08 · Codex CLI · [[Changes/Codex CLI/2025-09-08-4-apps-and-integrations-changes-in-rust-v0-31-0|4 Apps and Integrations changes in rust-v0.31.0]]
+- Later: 2025-09-05 · Replit · [[Changes/Replit/2025-09-05-gcp-marketplace-integration|GCP Marketplace integration]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

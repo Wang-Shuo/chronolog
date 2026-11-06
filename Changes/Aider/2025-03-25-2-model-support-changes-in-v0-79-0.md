@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 52c5d488e5b52eb3e93ab0a3f70a06b76cf35b7cb88295e91e5bf824aab0975f
+machine_hash: c320c1706a7a34bd694ac6fcc6596630156a68241a3023700cad97ffecd25082
 product: aider
 product_name: Aider
 record:
@@ -43,12 +43,11 @@ record:
   title: 2 Model Support changes in v0.79.0
   type: change
 related_changes:
-- '[[Changes/OpenHands/2025-03-18-make-microagents-available-in-the-event-stream-as-recall-observations-accessible|Make
-  microagents available in the event stream as recall observations…]]'
 - '[[Changes/Aider/2025-03-21-6-model-support-changes-in-v0-78-0|6 Model Support changes
   in v0.78.0]]'
 - '[[Changes/Cursor/2025-03-23-2-model-support-changes-in-0-48-x|2 Model Support changes
   in 0.48.x]]'
+- '[[Changes/DeepSeek API/2025-03-24-deepseek-chat|deepseek-chat]]'
 source_release: '[[Releases/Aider/aider-2025-03-25-v0-79-0-github-208244032-7b6bcea7|aider-2025-03-25-v0-79-0-github-208244032-7b6bcea7]]'
 source_type: github_releases
 theme: model-support
@@ -83,8 +82,8 @@ Source: https://github.com/Aider-AI/aider/releases/tag/v0.79.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2025-03-23 · Cursor · [[Changes/Cursor/2025-03-23-2-model-support-changes-in-0-48-x|2 Model Support changes in 0.48.x]]
-- Later: 2025-03-26 · Cline · [[Changes/Cline/2025-03-26-4-model-support-changes-in-v3-8-3|4 Model Support changes in v3.8.3]]
+- Earlier: 2025-03-24 · DeepSeek API · [[Changes/DeepSeek API/2025-03-24-deepseek-chat|deepseek-chat]]
+- Later: 2025-03-25 · Gemini · [[Changes/Gemini/2025-03-25-priority-access-with-gemini-advanced-try-our-latest-2-5-pro-experimental-model|Priority access with Gemini Advanced: Try our latest 2.5 Pro (experimental) model]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

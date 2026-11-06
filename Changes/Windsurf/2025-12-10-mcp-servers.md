@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: e5c0a304707bb6df97c3b2f01721a7cab5befdcf201979f113f2e15a46b7afc1
+machine_hash: 9e653dd9095f4c09d0b1bd3eaed62cdcfae09e654a9a4cb093ded2ed4b37ff55
 product: windsurf
 product_name: Windsurf
 record:
@@ -48,12 +48,12 @@ record:
   title: MCP Servers
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2025-12-09-8-apps-and-integrations-changes-in-v0-20-0|8 Apps
-  and Integrations changes in v0.20.0]]'
-- '[[Changes/Codex CLI/2025-12-10-7817-fix-upgrade-modelcontextprotocol-sdk-to-1-24-0|♯7817
-  fix: Upgrade @modelcontextprotocol/sdk to ^1.24.0]]'
-- '[[Changes/Cursor/2025-12-10-system-notification-actions-for-terminal-and-mcp-approval-rejection|System
-  notification actions for terminal and MCP approval/rejection]]'
+- '[[Changes/Lovable/2025-12-10-support-for-unauthenticated-mcp-servers|Support for
+  unauthenticated MCP servers]]'
+- '[[Changes/Lovable/2025-12-10-manage-tool-permissions-for-chat-connectors|Manage
+  tool permissions for chat connectors]]'
+- '[[Changes/Lovable/2025-12-10-connectors-hub-formerly-integrations|Connectors hub
+  (formerly Integrations)]]'
 source_release: '[[Releases/Windsurf/windsurf-2025-12-10-v1-12-41-fc64d619|windsurf-2025-12-10-v1-12-41-fc64d619]]'
 source_type: windsurf_changelog
 theme: apps-integrations
@@ -91,7 +91,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2025-12-10 · Cursor · [[Changes/Cursor/2025-12-10-system-notification-actions-for-terminal-and-mcp-approval-rejection|System notification actions for terminal and MCP approval/rejection]]
+- Earlier: 2025-12-10 · Lovable · [[Changes/Lovable/2025-12-10-connectors-hub-formerly-integrations|Connectors hub (formerly Integrations)]]
 - Later: 2025-12-11 · Cline · [[Changes/Cline/2025-12-11-7-apps-and-integrations-changes-in-v3-41-0|7 Apps and Integrations changes in v3.41.0]]
 <!-- chronolog:end -->
 

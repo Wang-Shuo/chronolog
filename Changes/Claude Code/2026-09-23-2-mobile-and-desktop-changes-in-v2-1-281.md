@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 2cb94bd36ae01101d72b1117bb3af013ed64076413f3b5a246d7b9a66cef6f89
+machine_hash: b816552678fd617426008b4c6e3ff5c2d2e01a311e5eaf72e5865768fe81b97d
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,8 +45,8 @@ record:
   title: 2 Mobile and Desktop changes in v2.1.281
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-09-21-you-can-now-track-your-credit-score-in-chatgpt-securely-connect-your-experian-cr|Credit
-  scores in Finances]]'
+- "[[Changes/Open WebUI/2026-09-21-apple-device-replies-an-assistant-reply-no-longer-comes-up-blank-in-a-home-scree|\U0001F4F1
+  Apple device replies. An assistant reply no longer comes up blank in a home…]]"
 - '[[Changes/Cline/2026-09-22-rules-are-found-and-shown-consistently-the-rules-panel-listed-only-clinerules-an|Rules
   are found and shown consistently]]'
 - '[[Changes/Codex CLI/2026-09-22-11-mobile-and-desktop-changes-in-rust-v0-156-0|11

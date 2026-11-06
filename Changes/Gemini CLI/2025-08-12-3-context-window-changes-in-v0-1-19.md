@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: c22d1730b53d8891287e724e3ea9acb752f9f29f73ea709898ad2a3a01ee80f5
+machine_hash: 49d46883f958a3f24b39b81d305f41a865484eaa486f1f490e3f44c47abc1ca7
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -48,10 +48,9 @@ record:
   title: 3 Context Window changes in v0.1.19
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-08-06-admin-api-for-blocklists-block-specific-files-or-directories-from-being-indexed|Admin
-  API for blocklists]]'
-- '[[Changes/Gemini CLI/2025-08-06-3-context-window-changes-in-v0-1-18|3 Context Window
-  changes in v0.1.18]]'
+- '[[Changes/Lovable/2025-08-11-reconnecting-orgs-with-invalid-tokens-is-now-seamless|Reconnecting
+  orgs with invalid tokens is now seamless]]'
+- '[[Changes/Claude/2025-08-12-1m-token-context-window|1M token context window]]'
 - '[[Changes/Codex CLI/2025-08-12-https-github-com-openai-codex-pull-2200-send-prompt-cache-key-for-better-caching|(source
   link) send prompt cache key for better caching…]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2025-08-12-v0-1-19-github-239452049-c4d9f679|gemini-cli-2025-08-12-v0-1-19-github-239452049-c4d9f679]]'

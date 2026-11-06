@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: c081faeb957e576a96c179b5b360b6c0c28477a0f2149745edd5996ad0c84de6
+machine_hash: f4aa62bff592a977779507d1f01b010a6bd3d8736ab7e74bc69241c0992e1fc4
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -96,7 +96,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.121.0
 ## Nearby in Model Support
 
 - Earlier: 2026-04-14 · Cursor · [[Changes/Cursor/2026-04-14-trigger-the-model-picker-from-anywhere-to-switch-models-without-clearing-your-pr|Trigger the model picker from anywhere to switch models without clearing your prompt first]]
-- Later: 2026-04-16 · Claude Code · [[Changes/Claude Code/2026-04-16-3-model-support-changes-in-v2-1-111|3 Model Support changes in v2.1.111]]
+- Later: 2026-04-16 · Claude · [[Changes/Claude/2026-04-16-claude-opus-4-7-launch|Claude Opus 4.7 launch]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

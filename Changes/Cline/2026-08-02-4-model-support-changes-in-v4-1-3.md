@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: b385a7f323c62b83102ea15f5be4b6d0c43e6da438fcd6926420f3bd75462b01
+machine_hash: a74a5282128b4f7489144f2a897c63720c4d55d38ff1fe5b7d1870b7e3074faa
 product: cline
 product_name: Cline
 record:
@@ -51,12 +51,11 @@ record:
   title: 4 Model Support changes in v4.1.3
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-07-30-allow-reasoning-effort-to-be-omitted-so-the-server-can-select-the-default|Allow
-  reasoning effort to be omitted so the server can select the default]]'
-- '[[Changes/GitHub Copilot CLI/2026-07-30-2-model-support-changes-in-v1-0-76|2 Model
-  Support changes in v1.0.76]]'
-- '[[Changes/Cline/2026-07-31-legacy-bundle-legacy-extension-3fdc186f1-4-0-12-free-model-button-wording|Legacy
-  bundle: legacy-extension @ 3fdc186f1 (4.0.12 + free-model button wording)]]'
+- '[[Changes/Lovable/2026-07-31-opt-out-of-ai-model-training|Opt out of AI model training]]'
+- '[[Changes/Replit/2026-07-31-choose-agent-s-primary-model|Choose Agent''s primary
+  model]]'
+- '[[Changes/v0/2026-07-31-3-model-support-changes-in-claude-opus-5-direct-figma-inspection|3
+  Model Support changes in Claude Opus 5, direct Figma inspection…]]'
 source_release: '[[Releases/Cline/cline-2026-08-02-v4-1-3-github-363709138-84b1555e|cline-2026-08-02-v4-1-3-github-363709138-84b1555e]]'
 source_type: github_releases
 theme: model-support
@@ -96,7 +95,7 @@ Source: https://github.com/cline/cline/releases/tag/v4.1.3
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-07-31 · Cline · [[Changes/Cline/2026-07-31-legacy-bundle-legacy-extension-3fdc186f1-4-0-12-free-model-button-wording|Legacy bundle: legacy-extension @ 3fdc186f1 (4.0.12 + free-model button wording)]]
+- Earlier: 2026-07-31 · v0 · [[Changes/v0/2026-07-31-3-model-support-changes-in-claude-opus-5-direct-figma-inspection|3 Model Support changes in Claude Opus 5, direct Figma inspection…]]
 - Later: 2026-08-03 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-08-03-the-allow-all-auto-safety-judge-model-is-no-longer-user-configurable-the-judge-m|The /allow-all auto safety-judge model is no longer user-configurable]]
 <!-- chronolog:end -->
 

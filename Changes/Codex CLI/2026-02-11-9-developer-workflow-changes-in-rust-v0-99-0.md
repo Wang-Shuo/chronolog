@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 2a67cdcd72d5cdd86fff474ebe86fe4a34bb9b0033d75d7425bd3f07b4d11d17
+machine_hash: f24fae00ef13663817e4f05bfbb1c0ea93444cbdae96fc36daab7517bde0f4f8
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -58,12 +58,12 @@ record:
   title: 9 Developer Workflow changes in rust-v0.99.0
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-02-07-add-changelog-command-to-view-release-notes|Add
-  /changelog command to view release notes]]'
 - '[[Changes/Claude Code/2026-02-10-improved-heredoc-delimiter-parsing-to-prevent-command-smuggling|Improved
   heredoc delimiter parsing to prevent command smuggling]]'
 - '[[Changes/Gemini CLI/2026-02-10-6-developer-workflow-changes-in-v0-28-0|6 Developer
   Workflow changes in v0.28.0]]'
+- '[[Changes/v0/2026-02-10-added-support-for-nuxt-and-additional-frameworks-in-git-imports|Added
+  support for Nuxt and additional frameworks in Git imports]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-02-11-rust-v0-99-0-github-285424682-f7f48016|codex-cli-2026-02-11-rust-v0-99-0-github-285424682-f7f48016]]'
 source_type: github_releases
 theme: developer-workflow
@@ -124,8 +124,8 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.99.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2026-02-10 · Gemini CLI · [[Changes/Gemini CLI/2026-02-10-6-developer-workflow-changes-in-v0-28-0|6 Developer Workflow changes in v0.28.0]]
-- Later: 2026-02-11 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-02-11-3-developer-workflow-changes-in-v0-0-407|3 Developer Workflow changes in v0.0.407]]
+- Earlier: 2026-02-10 · v0 · [[Changes/v0/2026-02-10-added-support-for-nuxt-and-additional-frameworks-in-git-imports|Added support for Nuxt and additional frameworks in Git imports]]
+- Later: 2026-02-11 · Dify · [[Changes/Dify/2026-02-11-please-use-the-following-command-instead-for-details-please-read-this-https-gith| Please use the following command instead]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

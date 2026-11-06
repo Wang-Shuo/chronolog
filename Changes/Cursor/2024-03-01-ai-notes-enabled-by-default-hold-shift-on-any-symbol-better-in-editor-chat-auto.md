@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 4801d62641a85bb49bcd23ec219533ae059ef5a9f07b3fcf8250915dd9a2856c
+machine_hash: 7c61003ecc28ee55be1d458c1e8736bdce71dca9a5078d325e2c67f45e2bd335
 product: cursor
 product_name: Cursor
 record:
@@ -54,12 +54,12 @@ record:
   title: Polish
   type: change
 related_changes:
-- '[[Changes/Cursor/2024-02-02-you-can-now-drag-images-into-the-command-k-prompt-bar|Drag
-  images into the Command-K prompt bar!]]'
 - '[[Changes/Cursor/2024-02-09-smoother-onboarding-fix-windows-settings-import-option-to-import-folder-window-s|Smoother
   onboarding (fix Windows settings import, option to import folder/window state)]]'
 - '[[Changes/Cursor/2024-02-09-fine-grained-chat-replies-start-by-hovering-over-the-area-of-the-response-you-wa|Fine-grained
   chat replies…]]'
+- '[[Changes/Gemini/2024-02-20-exclusive-to-gemini-advanced-edit-and-run-python-code|Exclusive
+  to Gemini Advanced: Edit and run Python code]]'
 source_release: '[[Releases/Cursor/cursor-2024-03-01-0-29-x-https-cursor-com-changelog-0-29-x-259e5626|cursor-2024-03-01-0-29-x-https-cursor-com-changelog-0-29-x-259e5626]]'
 source_type: cursor_changelog
 theme: interface-experience
@@ -86,8 +86,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2024-02-09 · Cursor · [[Changes/Cursor/2024-02-09-fine-grained-chat-replies-start-by-hovering-over-the-area-of-the-response-you-wa|Fine-grained chat replies…]]
-- Later: 2024-03-20 · Cursor · [[Changes/Cursor/2024-03-20-new-settings-we-moved-all-our-settings-to-be-accessible-by-the-gear-in-the-top-r|New Settings: We moved all our settings to be accessible by the gear in the top right]]
+- Earlier: 2024-02-20 · Gemini · [[Changes/Gemini/2024-02-20-exclusive-to-gemini-advanced-edit-and-run-python-code|Exclusive to Gemini Advanced: Edit and run Python code]]
+- Later: 2024-03-18 · Open WebUI · [[Changes/Open WebUI/2024-03-18-sidebar-ui-update-updated-sidebar-ui-to-feature-a-chat-menu-dropdown-replacing-t|🔄 Sidebar UI Update]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: aca34d2895639741b4633f06bec3a0298740b3f5dc6b60feffd2c6d66049ab2d
+machine_hash: a4141bc427215a8a3dda8fa2663289936f2bb063bbd573c8ad5885fbae40ca1d
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -44,9 +44,9 @@ record:
   title: 2 Context Window changes in v1.0.72
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-07-16-2-context-window-changes-in-v1-0-71|2 Context
-  Window changes in v1.0.71]]'
 - '[[Changes/Cursor/2026-07-17-cross-channel-workflows|Cross-channel workflows]]'
+- '[[Changes/Dify/2026-07-17-16-context-window-changes-in-1-16-0|16 Context Window
+  changes in 1.16.0]]'
 - '[[Changes/Claude Code/2026-07-20-context-now-shows-an-explicit-warning-when-the-conversation-exceeds-the-context|/context
   now shows an explicit warning when the conversation exceeds the context…]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-07-20-v1-0-72-github-356903706-84b07b91|github-copilot-cli-2026-07-20-v1-0-72-github-356903706-84b07b91]]'

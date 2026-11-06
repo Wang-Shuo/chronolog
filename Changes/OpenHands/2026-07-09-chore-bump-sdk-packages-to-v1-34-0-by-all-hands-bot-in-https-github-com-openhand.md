@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 730201839ee8ab6024e0aa01ccfd9508b34d6578d30a63cd48cc52256249a21b
+machine_hash: b5d9fd5a75a934768c6cebfa1820bce8f710cc0bd60222995f20fe78b9879878
 product: openhands
 product_name: OpenHands
 record:
@@ -43,12 +43,12 @@ record:
   title: 'chore: bump SDK packages to v1.34.0'
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-07-09-we-re-also-replacing-the-app-directory-with-the-plugin-directory-existing-app-co|We’re
-  also replacing the App Directory with the Plugin Directory]]'
-- '[[Changes/ChatGPT/2026-07-09-enterprise-and-edu-users-can-find-skills-under-plugins-in-the-sidebar-on-the-ski|Skills
-  are now generally available]]'
-- '[[Changes/Codex CLI/2026-07-09-11-apps-and-integrations-changes-in-rust-v0-144-0|11
-  Apps and Integrations changes in rust-v0.144.0]]'
+- '[[Changes/Lovable/2026-07-09-app-connectors-dbt-semantic-layer-and-clickhouse|App
+  connectors: dbt Semantic Layer and ClickHouse]]'
+- '[[Changes/Lovable/2026-07-09-approve-connector-actions-before-they-run|Approve
+  connector actions before they run]]'
+- '[[Changes/Lovable/2026-07-09-connect-bigquery-with-your-google-account|Connect
+  BigQuery with your Google account]]'
 source_release: '[[Releases/OpenHands/openhands-2026-07-09-1-11-0-github-351744742-75df1161|openhands-2026-07-09-1-11-0-github-351744742-75df1161]]'
 source_type: github_releases
 theme: apps-integrations
@@ -78,7 +78,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-07-09 · Codex CLI · [[Changes/Codex CLI/2026-07-09-11-apps-and-integrations-changes-in-rust-v0-144-0|11 Apps and Integrations changes in rust-v0.144.0]]
+- Earlier: 2026-07-09 · Lovable · [[Changes/Lovable/2026-07-09-connect-bigquery-with-your-google-account|Connect BigQuery with your Google account]]
 - Later: 2026-07-10 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-07-10-9-apps-and-integrations-changes-in-v1-0-70|9 Apps and Integrations changes in v1.0.70]]
 <!-- chronolog:end -->
 

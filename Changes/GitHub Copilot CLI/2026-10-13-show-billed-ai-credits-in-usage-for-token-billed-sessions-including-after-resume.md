@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: pricing
-machine_hash: caaa1abda097710f4309eb133a198d9d33086c14824c8306cbe2f727a3b3bcd4
+machine_hash: 1fa79ab5e41141cb3863029508d6e0bb3e653fc8173271b84d49f9d1f697a536
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -45,12 +45,12 @@ record:
     resume
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-02-improved-the-usage-credits-message-shown-to-team-and-enterprise-members-whose-or|Improved
-  the /usage-credits message shown to Team and Enterprise members whose…]]'
-- '[[Changes/GitHub Copilot CLI/2026-10-05-plan-usage-reflects-the-current-billing-period-after-quota-resets|Plan
-  usage reflects the current billing period after quota resets]]'
-- '[[Changes/Claude Code/2026-10-09-updated-cost-the-status-line-max-budget-usd-and-the-sdk-s-cost-figures-to-price|Updated
-  /cost, the status line, --max-budget-usd and the SDK''s cost figures…]]'
+- '[[Changes/Lovable/2026-10-09-get-a-warning-before-your-credits-run-out|Get a warning
+  before your credits run out]]'
+- '[[Changes/Lovable/2026-10-12-see-how-much-usage-your-free-allowances-cover|See
+  how much usage your free allowances cover]]'
+- '[[Changes/Ollama/2026-10-12-ollama-launch-can-now-be-used-with-usage-credits-without-upgrading-to-a-paid-pla|ollama
+  launch can now be used with usage credits without upgrading to a paid plan]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-10-13-v1-0-97-github-411990782-ee7b7038|github-copilot-cli-2026-10-13-v1-0-97-github-411990782-ee7b7038]]'
 source_type: github_releases
 theme: pricing-model
@@ -87,8 +87,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Pricing Model
 
-- Earlier: 2026-10-09 · Claude Code · [[Changes/Claude Code/2026-10-09-updated-cost-the-status-line-max-budget-usd-and-the-sdk-s-cost-figures-to-price|Updated /cost, the status line, --max-budget-usd and the SDK's cost figures…]]
-- Later: 2026-10-15 · ChatGPT · [[Changes/ChatGPT/2026-10-15-the-rosalind-academic-plan-helps-eligible-academic-labs-use-chatgpt-for-life-sci|The Rosalind Academic Plan helps eligible academic labs use ChatGPT for life…]]
+- Earlier: 2026-10-12 · Ollama · [[Changes/Ollama/2026-10-12-ollama-launch-can-now-be-used-with-usage-credits-without-upgrading-to-a-paid-pla|ollama launch can now be used with usage credits without upgrading to a paid plan]]
+- Later: 2026-10-14 · Lovable · [[Changes/Lovable/2026-10-14-ask-lovable-what-drives-your-run-credit-usage|Ask Lovable what drives your run credit usage]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

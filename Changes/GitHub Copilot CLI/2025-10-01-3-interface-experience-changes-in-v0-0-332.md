@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 58f5db84b1729405ca03bb184cc56f3855319a1ef7c16f762946838cd1e65f9e
+machine_hash: 5460352f7adc12581fff1e5bd6fa445c7f74c5c8bd4ee59145ccc8cd8815ac65
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -49,9 +49,9 @@ record:
   title: 3 Interface Experience changes in v0.0.332
   type: change
 related_changes:
-- '[[Changes/Cline/2025-09-28-only-show-the-info-banner-messages-about-the-right-sidebar-in-vscode-by-sjf-in-h|Only
-  show the info banner messages about the right sidebar in VSCode]]'
 - '[[Changes/Cursor/2025-09-29-1-7-45-model-picker-ux|1.7.45: Model picker UX]]'
+- '[[Changes/Dify/2025-09-29-oceanbase-parser-selection-explanation-clarified-by-longbingljw-in-26071|OceanBase
+  parser selection explanation clarified by @longbingljw in ♯26071]]'
 - '[[Changes/GitHub Copilot CLI/2025-09-29-model-will-open-a-picker-to-change-the-model|/model
   will open a picker to change the model]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2025-10-01-v0-0-332-github-251578896-6e8ac1df|github-copilot-cli-2025-10-01-v0-0-332-github-251578896-6e8ac1df]]'

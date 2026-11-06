@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 4cb416132c51ce5c6baec066c38bad21ef9ef98af06e586014ca3fab828d12a0
+machine_hash: 2dfa3e5333d45f13f50b85431fa87f7feb9b709222ee7e2a60c527ebdcf2c18c
 product: cline
 product_name: Cline
 record:
@@ -43,12 +43,12 @@ record:
   title: Feature/Qwen Code CLI API Support with OAuth
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2025-08-18-feat-oauth-make-oauth-client-a-singleton-to-survive-cache-failures-by-mboshernit|feat(oauth):
-  Make oauth client a singleton to survive cache failures]]'
-- '[[Changes/Codex CLI/2025-08-20-9-account-and-access-changes-in-rust-v0-23-0|9 Account
-  and Access changes in rust-v0.23.0]]'
+- "[[Changes/Open WebUI/2025-08-22-redis-user-session-reliability-fixed-a-problem-affecting-the-saving-of-user-sess|\U0001F6E1️
+  Redis User Session Reliability]]"
 - '[[Changes/Codex CLI/2025-08-26-2528-fix-login-for-internal-employees|♯2528 Fix
   login for internal employees]]'
+- '[[Changes/Dify/2025-08-27-7-account-and-access-changes-in-1-8-0|7 Account and Access
+  changes in 1.8.0]]'
 source_release: '[[Releases/Cline/cline-2025-08-28-v3-26-6-github-243281594-0003162a|cline-2025-08-28-v3-26-6-github-243281594-0003162a]]'
 source_type: github_releases
 theme: account-access
@@ -78,8 +78,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Account and Access
 
-- Earlier: 2025-08-26 · Codex CLI · [[Changes/Codex CLI/2025-08-26-2528-fix-login-for-internal-employees|♯2528 Fix login for internal employees]]
-- Later: 2025-08-29 · Codex CLI · [[Changes/Codex CLI/2025-08-29-2737-changed-oauth-success-screen-to-use-the-string-codex-rather-than-codex-cli|♯2737 Changed OAuth success screen to use the string "Codex" rather than "Codex CLI"]]
+- Earlier: 2025-08-27 · Dify · [[Changes/Dify/2025-08-27-7-account-and-access-changes-in-1-8-0|7 Account and Access changes in 1.8.0]]
+- Later: 2025-08-28 · Open WebUI · [[Changes/Open WebUI/2025-08-28-2-account-and-access-changes-in-v0-6-26|2 Account and Access changes in v0.6.26]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

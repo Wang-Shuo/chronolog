@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 899c2b40d774a44c76213c7572804de3c821799d60993b163a77f28d8dd6c629
+machine_hash: 9e06409cf53f2bf2adacfe01977880e0291f87da2a4e4c1c91a45b7b346d99e4
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -47,7 +47,8 @@ record:
     list, add…
   type: change
 related_changes:
-- '[[Changes/Windsurf/2026-06-16-agent-and-editor-modes|Agent and Editor modes]]'
+- '[[Changes/v0/2026-06-19-inspect-on-vercel-and-analytics-stay-disabled-until-a-deployment-has-an-inspecto|Inspect
+  on Vercel and Analytics stay disabled until a deployment has an inspector…]]'
 - '[[Changes/Codex CLI/2026-06-22-29289-code-mode-preserve-initial-yield-at-completion-cconger|♯29289
   code-mode: preserve initial yield at completion @cconger]]'
 - '[[Changes/GitHub Copilot CLI/2026-06-23-9-editor-experience-changes-in-v1-0-64|9
@@ -89,7 +90,7 @@ type: change
 ## Nearby in Editor Experience
 
 - Earlier: 2026-06-23 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-06-23-9-editor-experience-changes-in-v1-0-64|9 Editor Experience changes in v1.0.64]]
-- Later: 2026-06-25 · Claude Code · [[Changes/Claude Code/2026-06-25-added-live-file-path-autocomplete-to-bash-mode|Added live file path autocomplete to bash mode (!)]]
+- Later: 2026-06-24 · Lovable · [[Changes/Lovable/2026-06-24-manage-scheduled-jobs-in-lovable-cloud|Manage scheduled jobs in Lovable Cloud]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

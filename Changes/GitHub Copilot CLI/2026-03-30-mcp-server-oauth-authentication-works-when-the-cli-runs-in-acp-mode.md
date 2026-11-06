@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: a565da15aa91201c34c35f6329e8f99e7f088918cffd73b529b9b61ec05f96e3
+machine_hash: 66a67d6fc9de34a4eae36e528db4f75de561f4643e014a090e38d607496d6155
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -51,12 +51,12 @@ record:
   title: MCP server OAuth authentication works when the CLI runs in ACP mode
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2026-03-24-docs-core-add-authentication-guide-for-remote-subagents-by-adamfweidman-in-https|docs(core):
-  add authentication guide for remote subagents]]'
 - '[[Changes/Claude Code/2026-03-26-mcp-oauth-now-follows-rfc-9728-protected-resource-metadata-discovery-to-find-the|MCP
   OAuth now follows RFC 9728 Protected Resource Metadata discovery to find…]]'
 - '[[Changes/Codex CLI/2026-03-26-4-account-and-access-changes-in-rust-v0-117-0|4
   Account and Access changes in rust-v0.117.0]]'
+- '[[Changes/Dify/2026-03-27-2-account-and-access-changes-in-1-13-3|2 Account and
+  Access changes in 1.13.3]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-03-30-v1-0-13-github-303313822-db3397e2|github-copilot-cli-2026-03-30-v1-0-13-github-303313822-db3397e2]]'
 source_type: github_releases
 theme: account-access
@@ -92,7 +92,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Account and Access
 
-- Earlier: 2026-03-26 · Codex CLI · [[Changes/Codex CLI/2026-03-26-4-account-and-access-changes-in-rust-v0-117-0|4 Account and Access changes in rust-v0.117.0]]
+- Earlier: 2026-03-27 · Dify · [[Changes/Dify/2026-03-27-2-account-and-access-changes-in-1-13-3|2 Account and Access changes in 1.13.3]]
 - Later: 2026-03-31 · Codex CLI · [[Changes/Codex CLI/2026-03-31-4-account-and-access-changes-in-rust-v0-118-0|4 Account and Access changes in rust-v0.118.0]]
 <!-- chronolog:end -->
 

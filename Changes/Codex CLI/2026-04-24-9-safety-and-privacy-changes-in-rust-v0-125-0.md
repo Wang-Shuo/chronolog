@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: ad87d3930bc49d699a6d6716e4e60bb94bef50818b2b394e0d0230c354526e0a
+machine_hash: 65600dc1eeb877ca7c56dd66f32229b6f4a106bc5d5c7f48debadcefe41176a2
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -124,7 +124,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.125.0
 ## Nearby in Safety and Privacy
 
 - Earlier: 2026-04-23 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-04-23-permission-prompts-appear-correctly-in-remote-sessions-for-the-cli-tui|Permission prompts appear correctly in remote sessions for the CLI TUI]]
-- Later: 2026-04-27 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-04-27-location-based-permission-persistence-is-now-enabled-by-default-so-approvals-car|Location-based permission persistence is now enabled by default, so approvals carry…]]
+- Later: 2026-04-24 · Lovable · [[Changes/Lovable/2026-04-24-security-updates|Security updates]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

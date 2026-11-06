@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 9ad36992c8acc7af26b6ad1d84e6c75edd817e10738e9e3f9c15505805895160
+machine_hash: 6004af188227eb559bb42270c95b847f77259876d55f1841f6542cec8ffd3f2b
 product: aider
 product_name: Aider
 record:
@@ -77,7 +77,7 @@ type: change
 ## Nearby in Model Support
 
 - Earlier: 2023-07-12 · Aider · [[Changes/Aider/2023-07-12-3-model-support-changes-in-v0-8-3|3 Model Support changes in v0.8.3]]
-- Later: 2023-07-19 · ChatGPT · [[Changes/ChatGPT/2023-07-19-we-re-doubling-the-number-of-messages-chatgpt-plus-customers-can-send-with-gpt-4|Higher message limits for GPT-4]]
+- Later: 2023-07-17 · Dify · [[Changes/Dify/2023-07-17-we-supported-the-latest-anthropic-claude-2-llm|We supported the latest Anthropic Claude-2 LLM!]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

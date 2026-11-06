@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: memory
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: ddc93ec700f005814f667494aa73d331db067a1b42467ef7680aa189903ea180
+machine_hash: 8bd296acf2b62438e4e371fa190a1ee13f37c324eabfe18324b57267fb615309
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -53,8 +53,8 @@ record:
   title: '#18858 Stabilize debug clear memories integration test @jif-oai'
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-04-20-4-memory-and-personalization-changes-in-rust-v0-122-0|4
-  Memory and Personalization changes in rust-v0.122.0]]'
+- '[[Changes/Open WebUI/2026-04-21-7-memory-and-personalization-changes-in-v0-9-0|7
+  Memory and Personalization changes in v0.9.0]]'
 - '[[Changes/ChatGPT/2026-04-22-sometimes-you-just-want-the-right-answer-as-quickly-as-possible-we-re-rolling-ou|Fast
   answers in ChatGPT]]'
 - '[[Changes/Codex CLI/2026-04-23-18973-chore-prep-memories-for-ab-jif-oai|♯18973

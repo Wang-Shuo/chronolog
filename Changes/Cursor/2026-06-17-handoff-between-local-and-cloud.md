@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: 8482f49abb7a541435e652f3fa4d07a3379853af2c145a63dbdd4155f83c8e3d
+machine_hash: e57cf0fb069c5083a5c6703478853e65fe4c510efe9619594c4b3eee413d2112
 product: cursor
 product_name: Cursor
 record:
@@ -49,8 +49,7 @@ record:
   title: Handoff between local and cloud
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-06-15-11-agent-mode-changes-in-rust-v0-140-0|11 Agent
-  Mode changes in rust-v0.140.0]]'
+- '[[Changes/ElevenLabs/2026-06-15-elevenagents|ElevenAgents]]'
 - '[[Changes/GitHub Copilot CLI/2026-06-16-agent-mode-is-tracked-per-session-so-it-no-longer-carries-over-when-you-create-c|Agent
   mode is tracked per session, so it no longer carries over when you create…]]'
 - '[[Changes/Claude Code/2026-06-17-improved-the-subagent-panel-idle-subagents-auto-hide-after-30s-the-list-caps-at|Improved

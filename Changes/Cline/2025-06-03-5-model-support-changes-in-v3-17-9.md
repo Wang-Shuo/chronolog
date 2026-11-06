@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 4d4566c2908c99d35f1e64171f604e080edaa1ea2f891934de9e4774646f335a
+machine_hash: 9c655a6aa6d3be575100cd62d79ea5e2c164621443189b6c6727ac64410b89e3
 product: cline
 product_name: Cline
 record:
@@ -52,9 +52,10 @@ record:
   title: 5 Model Support changes in v3.17.9
   type: change
 related_changes:
-- '[[Changes/Windsurf/2025-05-22-byok-anthropic-key|BYOK (Anthropic Key)]]'
-- '[[Changes/Cline/2025-05-28-2-model-support-changes-in-v3-17-6|2 Model Support changes
-  in v3.17.6]]'
+- '[[Changes/Ollama/2025-05-29-7-model-support-changes-in-v0-9-0|7 Model Support changes
+  in v0.9.0]]'
+- '[[Changes/Open WebUI/2025-05-29-2-model-support-changes-in-v0-6-13|2 Model Support
+  changes in v0.6.13]]'
 - '[[Changes/Aider/2025-05-30-6-model-support-changes-in-v0-84-0|6 Model Support changes
   in v0.84.0]]'
 source_release: '[[Releases/Cline/cline-2025-06-03-v3-17-9-github-222580795-63fc22f6|cline-2025-06-03-v3-17-9-github-222580795-63fc22f6]]'

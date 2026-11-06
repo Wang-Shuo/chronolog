@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 492eff459c9c2c9c81eadd00689afba0a0cc1d2df061e8053929beb591852655
+machine_hash: 670f8e6a4794fa46911e9cc530cb08388e238eb05fb0370ba75680fb9c825a26
 product: claude-code
 product_name: Claude Code
 record:
@@ -44,8 +44,8 @@ record:
   title: 2 Developer Workflow changes in v2.1.305
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-10-15-15-developer-workflow-changes-in-rust-v0-163-0|15
-  Developer Workflow changes in rust-v0.163.0]]'
+- '[[Changes/Open WebUI/2026-10-16-20-developer-workflow-changes-in-v0-12-3|20 Developer
+  Workflow changes in v0.12.3]]'
 - '[[Changes/Claude Code/2026-10-19-3-developer-workflow-changes-in-v2-1-304|3 Developer
   Workflow changes in v2.1.304]]'
 - '[[Changes/GitHub Copilot CLI/2026-10-19-2-developer-workflow-changes-in-v1-0-100|2

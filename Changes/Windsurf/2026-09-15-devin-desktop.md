@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: f57e7331295d84cb1cfd788d92b094ae31ed6e9749f21b1e503803f1cc2d0091
+machine_hash: 382a65e18c48b774b1a38910262f8ac3dc9c4057eb982d1a2b93fdac28a65dbf
 product: windsurf
 product_name: Windsurf
 record:
@@ -51,12 +51,12 @@ record:
   title: Devin Desktop
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-11-changed-skills-synced-from-claude-ai-in-cloud-sessions-to-be-named-anthropic-ski|Changed
-  skills synced from claude.ai in cloud sessions to be named…]]'
-- '[[Changes/Claude Code/2026-09-14-improved-mobile-to-show-a-single-qr-code-for-claude-ai-mobile-which-opens-the-ri|Improved
-  /mobile to show a single QR code for claude.ai/mobile, which opens…]]'
 - '[[Changes/Claude Code/2026-09-15-claude-code-on-the-web-removed-the-full-page-desktop-app-download-screen-that-ne|Claude
   Code on the web Removed the full-page desktop-app download screen that new…]]'
+- '[[Changes/Lovable/2026-09-15-connect-your-app-to-whatsapp-business|Connect your
+  app to WhatsApp Business]]'
+- '[[Changes/Ollama/2026-09-15-added-ollama-apps-to-open-the-desktop-app-s-apps-page-directly-on-macos-and-wind|Added
+  ollama://apps to open the desktop app’s Apps page directly on macOS and Windows]]'
 source_release: '[[Releases/Windsurf/windsurf-2026-09-15-v3-10-27-d0bdaafe|windsurf-2026-09-15-v3-10-27-d0bdaafe]]'
 source_type: windsurf_changelog
 theme: mobile-desktop
@@ -87,7 +87,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2026-09-15 · Claude Code · [[Changes/Claude Code/2026-09-15-claude-code-on-the-web-removed-the-full-page-desktop-app-download-screen-that-ne|Claude Code on the web Removed the full-page desktop-app download screen that new…]]
+- Earlier: 2026-09-15 · Ollama · [[Changes/Ollama/2026-09-15-added-ollama-apps-to-open-the-desktop-app-s-apps-page-directly-on-macos-and-wind|Added ollama://apps to open the desktop app’s Apps page directly on macOS and Windows]]
 - Later: 2026-09-16 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-09-16-4-mobile-and-desktop-changes-in-v1-0-85|4 Mobile and Desktop changes in v1.0.85]]
 <!-- chronolog:end -->
 

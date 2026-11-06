@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 497aa759c03e7b9eaa4ba0493552fcd43b514425048bc0859332aa43756682db
+machine_hash: 68e95348cfb0cd42a011609cacc0f24d37b2599969d6aae10acb13dc948b4373
 product: cursor
 product_name: Cursor
 record:
@@ -46,12 +46,12 @@ record:
   title: Cmd-I to Heal
   type: change
 related_changes:
-- '[[Changes/Cursor/2024-01-18-apply-button-we-ve-added-some-polish-to-the-apply-codeblock-experience-in-chat|Apply
-  button: We''ve added some polish to the "apply codeblock" experience in chat]]'
-- '[[Changes/Cursor/2024-01-18-chat-lints-if-the-ai-suggests-a-code-change-in-chat-that-involves-a-made-up-code|Chat
-  lints: If the AI suggests a code change in chat that involves a made up code…]]'
+- '[[Changes/Dify/2024-01-19-add-feature-request-copilot-by-guchenhe-in-https-github-com-langgenius-dify-pull|add
+  feature request copilot]]'
 - '[[Changes/Aider/2024-01-23-3-editor-experience-changes-in-v0-22-0|3 Editor Experience
   changes in v0.22.0]]'
+- '[[Changes/Dify/2024-02-01-feat-prompt-ide-support-change-height-by-iamjoel-in-https-github-com-langgenius|feat:
+  prompt IDE support change height]]'
 source_release: '[[Releases/Cursor/cursor-2024-02-02-0-25-0-nightly-https-cursor-com-changelog-0-25-0-nightly-8ca356c1|cursor-2024-02-02-0-25-0-nightly-https-cursor-com-changelog-0-25-0-nightly-8ca356c1]]'
 source_type: cursor_changelog
 theme: editor-experience
@@ -78,7 +78,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2024-01-23 · Aider · [[Changes/Aider/2024-01-23-3-editor-experience-changes-in-v0-22-0|3 Editor Experience changes in v0.22.0]]
+- Earlier: 2024-02-01 · Dify · [[Changes/Dify/2024-02-01-feat-prompt-ide-support-change-height-by-iamjoel-in-https-github-com-langgenius|feat: prompt IDE support change height]]
 - Later: 2024-02-09 · Cursor · [[Changes/Cursor/2024-02-09-copilot-quality-of-life-improvements-show-ghost-text-more-often-toggle-on-off-on|Copilot++ quality of life improvements…]]
 <!-- chronolog:end -->
 

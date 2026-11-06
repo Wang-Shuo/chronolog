@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: b604354f701f67b62e7cc1aa02191976c1a5205742e68381ff0b004c3cb7c45d
+machine_hash: cd7ca7d88ce50a03f9c5eef3a3f292d033277227a675809394316bb9a80e1862
 product: cursor
 product_name: Cursor
 record:
@@ -45,12 +45,12 @@ record:
   title: 'Faster Copilot++: a few hundred milliseconds faster, through various networking…'
   type: change
 related_changes:
-- '[[Changes/Cursor/2023-09-22-stable-version-of-indexing-this-should-be-much-more-stable-than-previous-version|Stable
-  Indexing v0.1]]'
-- '[[Changes/Cursor/2023-10-01-indexing-should-now-be-faster-more-stable-and-use-less-of-your-system-resources-c870a3|Indexing
-  should now be faster, more stable, and use less of your system resources]]'
 - '[[Changes/Cursor/2023-11-03-shipped-better-error-logging-which-should-help-us-improve-stability|Shipped
   better error logging, which should help us improve stability]]'
+- '[[Changes/Ollama/2023-11-04-ollama-push-is-now-much-faster-7b-models-will-push-up-to-100mb-s-and-large-model|ollama
+  push is now much faster]]'
+- '[[Changes/Ollama/2023-11-20-minor-performance-improvements-on-intel-macs|Minor
+  performance improvements on Intel Macs]]'
 source_release: '[[Releases/Cursor/cursor-2023-11-30-0-18-0-https-cursor-com-changelog-0-18-0-f0874043|cursor-2023-11-30-0-18-0-https-cursor-com-changelog-0-18-0-f0874043]]'
 source_type: cursor_changelog
 theme: reliability-performance
@@ -80,8 +80,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2023-11-03 · Cursor · [[Changes/Cursor/2023-11-03-shipped-better-error-logging-which-should-help-us-improve-stability|Shipped better error logging, which should help us improve stability]]
-- Later: 2024-02-02 · Cursor · [[Changes/Cursor/2024-02-02-0-25-2-copilot-performance-improvements|0.25.2: Copilot++ performance improvements]]
+- Earlier: 2023-11-20 · Ollama · [[Changes/Ollama/2023-11-20-minor-performance-improvements-on-intel-macs|Minor performance improvements on Intel Macs]]
+- Later: 2023-11-30 · Ollama · [[Changes/Ollama/2023-11-30-improved-progress-bar-when-running-ollama-pull-with-a-simpler-design-that-displa|Improved progress bar when running ollama pull with a simpler design that displays…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

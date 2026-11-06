@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 9aa8f15919c38a6c33e74d7b922d1a77d0cbd4354dc92ceb71b58bea9185029f
+machine_hash: c62fdf8cafd0c941152cb9616faf840313bee757196e3b6dd8632c5793f6bf9d
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -53,12 +53,11 @@ record:
     session histories
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-04-01-4-interface-experience-changes-in-v1-0-15|4
-  Interface Experience changes in v1.0.15]]'
-- '[[Changes/Claude Code/2026-04-02-feedback-now-explains-why-it-s-unavailable-instead-of-disappearing-from-the-slas|/feedback
-  now explains why it''s unavailable instead of disappearing from the slash menu]]'
 - '[[Changes/Cursor/2026-04-02-deprecated-the-previous-worktree-and-best-of-n-selection-from-the-editor|Deprecated
   the previous worktree and best-of-n selection from the Editor]]'
+- '[[Changes/Lovable/2026-04-02-workspace-onboarding-and-discovery|Workspace onboarding
+  and discovery]]'
+- '[[Changes/Lovable/2026-04-02-command-palette|Command palette]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-04-03-v1-0-17-github-304907611-d6837ced|github-copilot-cli-2026-04-03-v1-0-17-github-304907611-d6837ced]]'
 source_type: github_releases
 theme: interface-experience
@@ -89,7 +88,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-04-02 · Cursor · [[Changes/Cursor/2026-04-02-deprecated-the-previous-worktree-and-best-of-n-selection-from-the-editor|Deprecated the previous worktree and best-of-n selection from the Editor]]
+- Earlier: 2026-04-02 · Lovable · [[Changes/Lovable/2026-04-02-command-palette|Command palette]]
 - Later: 2026-04-04 · Claude Code · [[Changes/Claude Code/2026-04-04-release-notes-is-now-an-interactive-version-picker|/release-notes is now an interactive version picker]]
 <!-- chronolog:end -->
 

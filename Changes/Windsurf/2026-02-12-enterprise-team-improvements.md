@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: ff9100a4459a02561ad586580c021cb2a7bed5e72f09945adc5474dee91ea136
+machine_hash: f77f5e2495b71266013d1b7db5bbf4091e4eeab541459b4b0a3bc26571baa91c
 product: windsurf
 product_name: Windsurf
 record:
@@ -53,12 +53,12 @@ record:
   title: Enterprise & Team Improvements
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-02-05-2-collaboration-changes-in-rust-v0-98-0|2 Collaboration
-  changes in rust-v0.98.0]]'
 - '[[Changes/Codex CLI/2026-02-11-11294-chore-put-crypto-provider-logic-in-a-shared-crate-bolinfest|♯11294
   chore: put crypto provider logic in a shared crate @bolinfest]]'
 - '[[Changes/Cline/2026-02-12-telemetry-route-posthog-networking-through-proxy-aware-shared-fetch-and-ensure-t|Telemetry:
   route PostHog networking through proxy-aware shared fetch and ensure…]]'
+- '[[Changes/Open WebUI/2026-02-12-2-collaboration-changes-in-v0-8-0|2 Collaboration
+  changes in v0.8.0]]'
 source_release: '[[Releases/Windsurf/windsurf-2026-02-12-v1-9552-21-a7b8c5ab|windsurf-2026-02-12-v1-9552-21-a7b8c5ab]]'
 source_type: windsurf_changelog
 theme: collaboration
@@ -90,7 +90,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Collaboration
 
-- Earlier: 2026-02-12 · Cline · [[Changes/Cline/2026-02-12-telemetry-route-posthog-networking-through-proxy-aware-shared-fetch-and-ensure-t|Telemetry: route PostHog networking through proxy-aware shared fetch and ensure…]]
+- Earlier: 2026-02-12 · Open WebUI · [[Changes/Open WebUI/2026-02-12-2-collaboration-changes-in-v0-8-0|2 Collaboration changes in v0.8.0]]
 - Later: 2026-02-13 · ChatGPT · [[Changes/ChatGPT/2026-02-13-cleaner-select-all-behavior-cmd-a-cmd-a-now-selects-only-the-conversation-conten|Cleaner “Select All” behavior (Cmd+A)]]
 <!-- chronolog:end -->
 

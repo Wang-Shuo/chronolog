@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: a3e5e10cc91d1719cc1d74c9b1caed9b0def70a6b6996d99fb5ca35ae869d39f
+machine_hash: 0e99489cd7bc0c97af6a92e538dd1930f70d3dd0a12492a4634aad3bb848ee9d
 product: windsurf
 product_name: Windsurf
 record:
@@ -61,10 +61,9 @@ record:
   title: Falcon Alpha
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2025-10-23-chore-ci-speed-up-macos-builds-by-using-larger-runner-by-javisoto-in-https-githu|chore(ci):
-  Speed up macOS builds by using larger runner]]'
 - '[[Changes/Windsurf/2025-10-23-performance-optimizations-and-stability-enhancements|Performance
   optimizations and stability enhancements]]'
+- '[[Changes/Replit/2025-10-24-plan-mode-improvements|Plan mode improvements]]'
 - '[[Changes/Windsurf/2025-10-26-various-performance-improvements-and-bug-fixes|Various
   performance improvements and bug fixes]]'
 source_release: '[[Releases/Windsurf/windsurf-2025-10-26-v1-12-27-8261ea06|windsurf-2025-10-26-v1-12-27-8261ea06]]'
@@ -95,7 +94,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2025-10-23 · Windsurf · [[Changes/Windsurf/2025-10-23-performance-optimizations-and-stability-enhancements|Performance optimizations and stability enhancements]]
+- Earlier: 2025-10-24 · Replit · [[Changes/Replit/2025-10-24-plan-mode-improvements|Plan mode improvements]]
 - Later: 2025-10-29 · Cursor · [[Changes/Cursor/2025-10-29-2-reliability-and-performance-changes-in-2-0|2 Reliability and Performance changes in 2.0]]
 <!-- chronolog:end -->
 

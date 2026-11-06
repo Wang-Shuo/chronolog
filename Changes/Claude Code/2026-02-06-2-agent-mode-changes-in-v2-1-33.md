@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 8ed7a3ab870a3fe63810969b3dee800244778ea151f456b463f993bc9708190b
+machine_hash: 90fac8e0cbcf933884db5c12896d164244b87fc22e5c17ead3e5411715190571
 product: claude-code
 product_name: Claude Code
 record:
@@ -43,12 +43,10 @@ record:
   title: 2 Agent Mode changes in v2.1.33
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-02-05-10649-fix-test-shell-command-interruption-flake-gt-oai|♯10649
-  Fix test_shell_command_interruption flake @gt-oai]]'
-- '[[Changes/GitHub Copilot CLI/2026-02-05-support-comma-separated-tools-in-custom-agent-frontmatter|Support
-  comma-separated tools in custom agent frontmatter]]'
-- '[[Changes/GitHub Copilot CLI/2026-02-05-2-agent-mode-changes-in-v0-0-404|2 Agent
-  Mode changes in v0.0.404]]'
+- '[[Changes/Lovable/2026-02-05-extended-processing-time-per-request-for-the-lovable-agent-up-to-15-minutes-supp|Extended
+  processing time per request for the Lovable agent, up to 15 minutes…]]'
+- '[[Changes/Lovable/2026-02-05-disconnect-shopify-stores|Disconnect Shopify stores]]'
+- '[[Changes/Lovable/2026-02-05-new-agent-and-chat-ui|New agent and chat UI]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-02-06-v2-1-33-github-283581096-0f5b01a0|claude-code-2026-02-06-v2-1-33-github-283581096-0f5b01a0]]'
 source_type: github_releases
 theme: agent-mode
@@ -85,8 +83,8 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.33
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2026-02-05 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-02-05-2-agent-mode-changes-in-v0-0-404|2 Agent Mode changes in v0.0.404]]
-- Later: 2026-02-10 · Gemini CLI · [[Changes/Gemini CLI/2026-02-10-4-agent-mode-changes-in-v0-28-0|4 Agent Mode changes in v0.28.0]]
+- Earlier: 2026-02-05 · Lovable · [[Changes/Lovable/2026-02-05-new-agent-and-chat-ui|New agent and chat UI]]
+- Later: 2026-02-06 · Replit · [[Changes/Replit/2026-02-06-agent-inbox|Agent Inbox]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

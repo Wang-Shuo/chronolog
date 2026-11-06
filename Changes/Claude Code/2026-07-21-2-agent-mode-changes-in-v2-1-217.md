@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 7916eeeaedd5bd143908273a7bfb16c4d6e17dba4a1f1a2dd4603ee4d5afc42f
+machine_hash: e5583d01216a39fabe6c03b9fbcc7aca7dc6b1f3ade61b8fbca0f275e455116f
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,10 +45,8 @@ record:
   title: 2 Agent Mode changes in v2.1.217
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-07-17-7-agent-mode-changes-in-v2-1-212|7 Agent Mode
-  changes in v2.1.212]]'
-- '[[Changes/Claude Code/2026-07-18-added-reasoning-effort-to-the-subagentstatusline-payload-so-custom-agent-rows-ca|Added
-  reasoning effort to the subagentStatusLine payload, so custom agent rows can…]]'
+- '[[Changes/ElevenLabs/2026-07-20-cli|CLI]]'
+- '[[Changes/ElevenLabs/2026-07-20-elevenagents|ElevenAgents]]'
 - '[[Changes/GitHub Copilot CLI/2026-07-20-3-agent-mode-changes-in-v1-0-72|3 Agent
   Mode changes in v1.0.72]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-07-21-v2-1-217-github-357601516-b5c19f5d|claude-code-2026-07-21-v2-1-217-github-357601516-b5c19f5d]]'

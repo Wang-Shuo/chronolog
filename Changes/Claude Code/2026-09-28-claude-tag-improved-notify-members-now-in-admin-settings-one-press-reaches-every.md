@@ -5,20 +5,20 @@ description: 'Claude Code · 2026-09-28 · Enterprise and Administration: [Claud
   Improved "Notify members now" in admin settings: one press reaches every workspace
   your…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2024-03-20-admin-improvements-team-admins-can-now-mark-themselves-as-unpaid-users-and-can-s|Admin
-    improvements: Team admins can now mark themselves as unpaid users and can see…]]'
+  first_in_tracked: '[[Changes/Gemini/2023-05-05-access-for-google-workspace-accounts|Access
+    for Google Workspace accounts]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 922
+  lag_days: 1242
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: ca453286aaeca9769aae24f7ad8a3de3e1c4c08cd1409006379951f640dfa32e
+machine_hash: ef8dd88859a5438ce3ac268315a1439231749b345c0ae24f70368a2f51a0c988
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,12 +45,12 @@ record:
   title: '[Claude Tag] Improved "Notify members now" in admin settings'
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-17-claude-tag-improved-claude-s-notices-in-enterprise-grid-channels-shared-across-w|Claude
-  Tag Improved Claude''s notices in Enterprise Grid channels shared across…]]'
-- '[[Changes/Claude Code/2026-09-18-2-enterprise-and-administration-changes-in-v2-1-277|2
-  Enterprise and Administration changes in v2.1.277]]'
+- '[[Changes/Open WebUI/2026-09-21-5-enterprise-and-administration-changes-in-v0-11-4|5
+  Enterprise and Administration changes in v0.11.4]]'
 - '[[Changes/OpenHands/2026-09-22-feat-open-git-sync-to-org-admins-on-cloud-backends-by-hieptl-in-https-github-com|feat:
   open Git Sync to org admins on cloud backends]]'
+- '[[Changes/Lovable/2026-09-24-see-which-credit-limit-applies-to-each-member-in-the-people-export|See
+  which credit limit applies to each member in the People export]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-28-v2-1-284-github-398457074-cbb49e49|claude-code-2026-09-28-v2-1-284-github-398457074-cbb49e49]]'
 source_type: github_releases
 theme: enterprise-admin
@@ -93,14 +93,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Enterprise and Administration
 
-- Earlier: 2026-09-22 · OpenHands · [[Changes/OpenHands/2026-09-22-feat-open-git-sync-to-org-admins-on-cloud-backends-by-hieptl-in-https-github-com|feat: open Git Sync to org admins on cloud backends]]
+- Earlier: 2026-09-24 · Lovable · [[Changes/Lovable/2026-09-24-see-which-credit-limit-applies-to-each-member-in-the-people-export|See which credit limit applies to each member in the People export]]
 - Later: 2026-09-29 · ChatGPT · [[Changes/ChatGPT/2026-09-29-for-the-next-month-dots-usage-won-t-count-toward-eligible-pro-business-and-enter|For the next month, dots usage won’t count toward eligible Pro, Business…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2024-03-20 · Cursor · [[Changes/Cursor/2024-03-20-admin-improvements-team-admins-can-now-mark-themselves-as-unpaid-users-and-can-s|Admin improvements: Team admins can now mark themselves as unpaid users and can see…]]
+- Earliest same-theme entry in the tracked set: 2023-05-05 · Gemini · [[Changes/Gemini/2023-05-05-access-for-google-workspace-accounts|Access for Google Workspace accounts]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

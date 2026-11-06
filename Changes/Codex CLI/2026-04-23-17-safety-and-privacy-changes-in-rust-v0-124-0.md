@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 3a6c838a84b505110c638ae6c8304a71126b2eb9a9be0c70e35a9f580777ae73
+machine_hash: 083cdf5a211724332211c4f4cd824849732f2376e9330a3de67c920ab3216a78
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -75,8 +75,8 @@ record:
   title: 17 Safety and Privacy changes in rust-v0.124.0
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-04-20-9-safety-and-privacy-changes-in-rust-v0-122-0|9
-  Safety and Privacy changes in rust-v0.122.0]]'
+- '[[Changes/Ollama/2026-04-22-better-mlx-thread-safety-for-array-management|Better
+  MLX thread safety for array management]]'
 - '[[Changes/Claude Code/2026-04-23-fixed-mcp-step-up-authorization-silently-refreshing-instead-of-prompting-for-re|Fixed
   MCP step-up authorization silently refreshing instead of prompting…]]'
 - '[[Changes/Claude Code/2026-04-23-4-safety-and-privacy-changes-in-v2-1-119|4 Safety

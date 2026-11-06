@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 2d9c0fe9eada265fcad975208bc77160f4f8d678b869a6630bed51cce014b748
+machine_hash: 6936097e40821ca119f641f04cd92467d59dbfbb37981a35b66d1e5c26337d24
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -84,7 +84,7 @@ type: change
 ## Nearby in Developer Workflow
 
 - Earlier: 2026-06-23 · Windsurf · [[Changes/Windsurf/2026-06-23-cli-and-devin-local|CLI and Devin Local]]
-- Later: 2026-06-25 · Gemini CLI · [[Changes/Gemini CLI/2026-06-25-feat-add-eval-inventory-cli-command-and-reporting-logic-by-ved015-in-https-githu|feat: add eval:inventory CLI command and reporting logic]]
+- Later: 2026-06-25 · Dify · [[Changes/Dify/2026-06-25-9-developer-workflow-changes-in-1-15-0|9 Developer Workflow changes in 1.15.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

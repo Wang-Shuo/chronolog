@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: e7dda34121989d0733be7d3813f3496a94a29ec82cfcc5b0e4069d0272a482ee
+machine_hash: 9a5cc86a0d53a4776571a952aae483c04e92b7cd11cd880c308adf8772e65ccf
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -42,10 +42,10 @@ record:
   title: Restore the early warning when unreclaimable system and tool context nears…
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2026-07-22-refactor-exclude-transient-ci-configuration-files-from-workspace-context-by-davi|Refactor:
-  exclude transient CI configuration files from workspace context]]'
-- '[[Changes/Cline/2026-07-24-add-claude-opus-5-across-the-anthropic-claude-code-bedrock-vertex-cline-and-open|Add
-  Claude Opus 5 across the Anthropic, Claude Code, Bedrock, Vertex, Cline…]]'
+- '[[Changes/Open WebUI/2026-07-27-9-context-window-changes-in-v0-11-0|9 Context Window
+  changes in v0.11.0]]'
+- '[[Changes/Dify/2026-07-28-refactor-agents-simplify-repository-context-by-lyzno1-in-https-github-com-langge|refactor(agents):
+  simplify repository context]]'
 - '[[Changes/Codex CLI/2026-07-29-5-context-window-changes-in-rust-v0-146-0|5 Context
   Window changes in rust-v0.146.0]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-07-30-v1-0-76-github-362129864-0932fe29|github-copilot-cli-2026-07-30-v1-0-76-github-362129864-0932fe29]]'

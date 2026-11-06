@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 26f86bd7561dcb67ebd9ed27a6f46f13e098300282cc61df5100678820ecea3e
+machine_hash: 5d5717bb33f8897ba7ce066034ed25ec779eaa4f838d8ebc1a63f38a266485d1
 product: cline
 product_name: Cline
 record:
@@ -42,8 +42,8 @@ record:
     task…
   type: change
 related_changes:
-- '[[Changes/Cline/2025-05-10-add-ability-to-generate-commit-message-via-cline-thanks-zapp88|Add
-  ability to generate commit message via cline (Thanks zapp88!)]]'
+- '[[Changes/Dify/2025-05-27-2-developer-workflow-changes-in-1-4-1|2 Developer Workflow
+  changes in 1.4.1]]'
 - '[[Changes/OpenHands/2025-06-01-added-a-dev-container-setup-for-development-by-kentyman23-in-https-github-com-al|Added
   a dev container setup for development]]'
 - '[[Changes/Cursor/2025-06-04-automatic-code-review-with-bugbot-19b552|Automatic

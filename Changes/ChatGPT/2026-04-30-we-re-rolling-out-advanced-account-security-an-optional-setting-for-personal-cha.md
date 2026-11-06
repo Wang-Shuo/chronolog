@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 4ae69dfb3565fae447507c34bc28e2f6602277479c3d97a260f48dff9cabc363
+machine_hash: 225dfe5e3b263095be0113477450884e0a922e9b17db5ae75cb70635f04474c3
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -74,12 +74,12 @@ record:
   title: Advanced Account Security in ChatGPT
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-04-23-2-account-and-access-changes-in-v1-0-35|2
-  Account and Access changes in v1.0.35]]'
 - '[[Changes/Claude Code/2026-04-28-clarified-the-mcp-message-shown-when-an-mcp-server-is-still-unauthorized-after-t|Clarified
   the /mcp message shown when an MCP server is still unauthorized after…]]'
 - '[[Changes/Gemini CLI/2026-04-28-docs-migrate-installation-and-authentication-to-mdx-with-tabbed-layouts-by-g-sam|docs:
   migrate installation and authentication to mdx with tabbed layouts]]'
+- '[[Changes/Dify/2026-04-29-8-account-and-access-changes-in-1-14-0|8 Account and
+  Access changes in 1.14.0]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-04-30-advanced-account-security-in-chatgpt-d81bf569|chatgpt-2026-04-30-advanced-account-security-in-chatgpt-d81bf569]]'
 source_type: chatgpt_changelog
 theme: account-access
@@ -106,7 +106,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Account and Access
 
-- Earlier: 2026-04-28 · Gemini CLI · [[Changes/Gemini CLI/2026-04-28-docs-migrate-installation-and-authentication-to-mdx-with-tabbed-layouts-by-g-sam|docs: migrate installation and authentication to mdx with tabbed layouts]]
+- Earlier: 2026-04-29 · Dify · [[Changes/Dify/2026-04-29-8-account-and-access-changes-in-1-14-0|8 Account and Access changes in 1.14.0]]
 - Later: 2026-04-30 · Codex CLI · [[Changes/Codex CLI/2026-04-30-3-account-and-access-changes-in-rust-v0-128-0|3 Account and Access changes in rust-v0.128.0]]
 <!-- chronolog:end -->
 

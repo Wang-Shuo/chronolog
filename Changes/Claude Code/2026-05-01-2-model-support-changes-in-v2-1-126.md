@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: a769703345dd37901a802e98e86e36f8236031552815fbae6b136ff53b664a33
+machine_hash: 44b8739a77bb4eb927131a31ee8f3d388766cee82d78a0b5fb33c5f19a10993f
 product: claude-code
 product_name: Claude Code
 record:
@@ -44,10 +44,10 @@ record:
   title: 2 Model Support changes in v2.1.126
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-04-28-opentelemetry-added-stop-reason-gen-ai-response-finish-reasons-and-user-system-p|OpenTelemetry:
-  added stop_reason, gen_ai.response.finish_reasons…]]'
-- '[[Changes/Gemini CLI/2026-04-28-2-model-support-changes-in-v0-40-0|2 Model Support
-  changes in v0.40.0]]'
+- '[[Changes/Ollama/2026-04-28-poolside-s-first-open-weight-coding-model-laguna-xs-2-https-ollama-com-library-l|Poolside''s
+  first open-weight coding model - Laguna…]]'
+- '[[Changes/Dify/2026-04-29-27-model-support-changes-in-1-14-0|27 Model Support changes
+  in 1.14.0]]'
 - '[[Changes/Codex CLI/2026-04-30-10-model-support-changes-in-rust-v0-128-0|10 Model
   Support changes in rust-v0.128.0]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-05-01-v2-1-126-github-316244540-de18d9bb|claude-code-2026-05-01-v2-1-126-github-316244540-de18d9bb]]'

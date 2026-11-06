@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 0dee7f0cd0926703794793d9e4391a071a45bb93b1e70389041eac29bbe22af4
+machine_hash: 3dc9063f186f0ec8e033d681dc888fa287c04f74db5288edfa3bb202ed0fe0e9
 product: cursor
 product_name: Cursor
 record:
@@ -45,10 +45,9 @@ record:
   title: Agents in every repo
   type: change
 related_changes:
-- '[[Changes/OpenHands/2026-08-13-chore-enforce-typed-openhands-typescript-client-for-agent-server-api-calls-no-ad|chore:
-  enforce typed @openhands/typescript-client for agent-server API calls…]]'
-- '[[Changes/Claude Code/2026-08-14-improved-claude-self-hosted-runner-session-start-time-the-session-branch-is-now|Improved
-  claude self-hosted-runner session start time]]'
+- '[[Changes/Replit/2026-08-14-ask-for-inline-charts|Ask for inline charts]]'
+- '[[Changes/v0/2026-08-14-the-paused-agent-timeout-card-shows-resuming-and-resumed-states|The
+  paused-agent timeout card shows Resuming and Resumed states]]'
 - '[[Changes/Claude Code/2026-08-17-removed-the-redundant-allowed-by-auto-mode-classifier-line-that-auto-mode-showed|Removed
   the redundant "Allowed by auto mode classifier" line that auto mode showed…]]'
 source_release: '[[Releases/Cursor/cursor-2026-08-17-origin-code-hosting-https-cursor-com-changelog-origin-code-hosti-ed3a9195|cursor-2026-08-17-origin-code-hosting-https-cursor-com-changelog-origin-code-hosti-ed3a9195]]'
@@ -84,7 +83,7 @@ type: change
 ## Nearby in Agent Mode
 
 - Earlier: 2026-08-17 · Claude Code · [[Changes/Claude Code/2026-08-17-removed-the-redundant-allowed-by-auto-mode-classifier-line-that-auto-mode-showed|Removed the redundant "Allowed by auto mode classifier" line that auto mode showed…]]
-- Later: 2026-08-17 · OpenHands · [[Changes/OpenHands/2026-08-17-docs-agents-add-a-repository-map-clarifying-what-belongs-where-by-smolpaws-in-ht|docs(agents): add a repository map clarifying what belongs where]]
+- Later: 2026-08-17 · ElevenLabs · [[Changes/ElevenLabs/2026-08-17-elevenagents|ElevenAgents]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

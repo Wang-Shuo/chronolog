@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: bc1fd1ac24752f393eda043f73a8095f28665abce9380b6a93fe581aaafeee6d
+machine_hash: c102535b440d8a328ecfa6c5e88f6db589119345deda30e8749a674a314b7a3b
 product: claude-code
 product_name: Claude Code
 record:
@@ -46,8 +46,8 @@ record:
   title: 2 Interface Experience changes in v2.1.153
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-05-24-2-interface-experience-changes-in-v1-0-53|2
-  Interface Experience changes in v1.0.53]]'
+- '[[Changes/Lovable/2026-05-26-project-view-pins-project-views-can-no-longer-be-customized-with-pins-the-toolba|Project
+  view pins. Project views can no longer be customized with pins]]'
 - '[[Changes/Claude Code/2026-05-27-in-fullscreen-mode-the-thinking-for-ns-indicator-now-counts-up-live-while-the-mo|In
   fullscreen mode, the "Thinking for Ns" indicator now counts up live…]]'
 - '[[Changes/Claude Code/2026-05-28-vscode-auto-mode-no-longer-requires-the-bypass-permissions-setting-to-appear-in|VSCode

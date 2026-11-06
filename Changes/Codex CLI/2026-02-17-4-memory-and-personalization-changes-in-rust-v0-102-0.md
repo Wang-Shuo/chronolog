@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: memory
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 369c0dac68df5b9d95413a83ff75de16baf0e543971d33b620b083cca07a14b1
+machine_hash: 0227ec4a5a047db05c85d329e19e51f233739a2f78a32bf7f8698caf0d6f390b
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -46,10 +46,10 @@ record:
   title: 4 Memory and Personalization changes in rust-v0.102.0
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-02-12-11-memory-and-personalization-changes-in-rust-v0-100-0|11
-  Memory and Personalization changes in rust-v0.100.0]]'
 - '[[Changes/Codex CLI/2026-02-12-6-memory-and-personalization-changes-in-rust-v0-101-0|6
   Memory and Personalization changes in rust-v0.101.0]]'
+- '[[Changes/Open WebUI/2026-02-12-2-memory-and-personalization-changes-in-v0-8-0|2
+  Memory and Personalization changes in v0.8.0]]'
 - '[[Changes/GitHub Copilot CLI/2026-02-14-reduced-memory-growth-in-long-sessions-by-evicting-transient-events-after-compac|Reduced
   memory growth in long sessions by evicting transient events after compaction]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-02-17-rust-v0-102-0-github-287401154-1bf3dbd0|codex-cli-2026-02-17-rust-v0-102-0-github-287401154-1bf3dbd0]]'

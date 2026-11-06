@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: c0c53d4be2c539c6699c814af8db322dace34cad539390055a0a4162f57a517c
+machine_hash: 69fce297563db32654311422867bd4f71e690c4548f5663d881fdf39008a99c8
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -81,7 +81,7 @@ type: change
 ## Nearby in Editor Experience
 
 - Earlier: 2026-02-12 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-02-12-add-substring-matching-to-slash-command-autocomplete|Add substring matching to slash command autocomplete]]
-- Later: 2026-02-14 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-02-14-3-editor-experience-changes-in-v0-0-410|3 Editor Experience changes in v0.0.410]]
+- Later: 2026-02-12 · Ollama · [[Changes/Ollama/2026-02-12-ctrl-g-will-now-allow-for-editing-text-prompts-in-a-text-editor-when-running-a-m|Ctrl+G will now allow for editing text prompts in a text editor when running a model]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

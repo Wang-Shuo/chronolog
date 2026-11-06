@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: c5c0ed09b151ea364ca1441601c3b874fe3e2027ab7b001d16aaabe56a95d671
+machine_hash: e2ebf36478e7c4b50e3eb9185e61b814aa3f508a9074b6ccff55b857dc3596b5
 product: cline
 product_name: Cline
 record:
@@ -53,8 +53,8 @@ record:
   title: When Cline needs to make targeted edits to large files, he now uses a search…
   type: change
 related_changes:
-- '[[Changes/Cursor/2024-11-24-several-performance-improvements|Several performance
-  improvements]]'
+- '[[Changes/Dify/2024-12-16-this-enhancement-by-hjlarry-and-wangiii-found-in-11570-https-github-com-langgeni|This
+  enhancement by @hjlarry and @wangiii, found…]]'
 - '[[Changes/Cursor/2024-12-17-cursor-starts-up-faster|Cursor starts up faster]]'
 - '[[Changes/Cursor/2024-12-17-cheaper-and-faster-bug-finding-model|Cheaper and faster
   Bug Finding Model]]'
@@ -90,7 +90,7 @@ type: change
 ## Nearby in Reliability and Performance
 
 - Earlier: 2024-12-17 · Cursor · [[Changes/Cursor/2024-12-17-cheaper-and-faster-bug-finding-model|Cheaper and faster Bug Finding Model]]
-- Later: 2025-01-07 · OpenHands · [[Changes/OpenHands/2025-01-07-performance-improvement-of-ui-during-long-sessions-by-amanape-in-https-github-co|Performance improvement of UI during long sessions]]
+- Later: 2024-12-18 · Dify · [[Changes/Dify/2024-12-18-4-reliability-and-performance-changes-in-0-14-1|4 Reliability and Performance changes in 0.14.1]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

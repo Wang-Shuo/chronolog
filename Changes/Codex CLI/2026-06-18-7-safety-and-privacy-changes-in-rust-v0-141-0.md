@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 9083e844ec4bf86d36db35454612873745b5068182d7c68528866756e72021e2
+machine_hash: de84a3418503f49963d0b5cb3310bd9601ee830f519f3fcc39d3921e500381f4
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -114,7 +114,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.141.0
 ## Nearby in Safety and Privacy
 
 - Earlier: 2026-06-18 · ChatGPT · [[Changes/ChatGPT/2026-06-18-app-permission-controls-you-can-now-choose-when-chatgpt-asks-before-using-connec|App permission controls: You can now choose when ChatGPT asks before using connected apps]]
-- Later: 2026-06-22 · Claude Code · [[Changes/Claude Code/2026-06-22-2-safety-and-privacy-changes-in-v2-1-186|2 Safety and Privacy changes in v2.1.186]]
+- Later: 2026-06-19 · v0 · [[Changes/v0/2026-06-19-responding-to-an-agent-prompt-for-an-environment-variable-permission-question-or|Responding to an agent prompt for an environment variable, permission, question…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: f61cb3d09fb4af9f0efab291be1c314aa36fd97419f3f9b934be91f8769872f0
+machine_hash: 708936e82c882f9ea947ba0b5294e84f67239c2bbd327ebaa4dc410058d13e3e
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -53,12 +53,12 @@ record:
     (@gpeal)'
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2025-10-17-prompt-mcp-login-when-adding-a-streamable-http-server-that-supports-oauth-5193|Prompt
-  mcp login when adding a streamable HTTP server that supports oauth (♯5193)]]'
 - '[[Changes/GitHub Copilot CLI/2025-10-22-added-debug-logging-to-authentication-status-changes-to-get-to-the-bottom-of-htt|Added
   debug logging to authentication status changes to get to the bottom…]]'
 - '[[Changes/Codex CLI/2025-10-23-3-account-and-access-changes-in-rust-v0-48-0|3 Account
   and Access changes in rust-v0.48.0]]'
+- '[[Changes/Replit/2025-10-24-sso-support-for-replit-auth-in-enterprise-apps|SSO
+  support for Replit Auth in Enterprise apps]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2025-10-25-rust-v0-50-0-github-257258103-01bc610d|codex-cli-2025-10-25-rust-v0-50-0-github-257258103-01bc610d]]'
 source_type: github_releases
 theme: account-access
@@ -90,7 +90,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Account and Access
 
-- Earlier: 2025-10-23 · Codex CLI · [[Changes/Codex CLI/2025-10-23-3-account-and-access-changes-in-rust-v0-48-0|3 Account and Access changes in rust-v0.48.0]]
+- Earlier: 2025-10-24 · Replit · [[Changes/Replit/2025-10-24-sso-support-for-replit-auth-in-enterprise-apps|SSO support for Replit Auth in Enterprise apps]]
 - Later: 2025-10-30 · Codex CLI · [[Changes/Codex CLI/2025-10-30-2-account-and-access-changes-in-rust-v0-52-0|2 Account and Access changes in rust-v0.52.0]]
 <!-- chronolog:end -->
 

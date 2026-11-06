@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: search-browsing
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 27fd8e2e148a99b76bc5cf5313b74e2426174c7a2222eb46b201420cac021038
+machine_hash: 2074aae4c4ac2d3a11ecbda1ba4a74323b5b6481f873bfa9808d4e6b9307665a
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -101,7 +101,7 @@ type: change
 ## Nearby in Search and Browsing
 
 - Earlier: 2026-08-10 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-08-10-improve-teleported-subagent-tasks-navigation-with-nested-tree-browsing-current-a|Improve teleported subagent /tasks navigation with nested tree browsing, current/all…]]
-- Later: 2026-08-17 · Cursor · [[Changes/Cursor/2026-08-17-cursor-can-now-host-your-code|Cursor can now host your code]]
+- Later: 2026-08-14 · Ollama · [[Changes/Ollama/2026-08-14-the-openai-compatible-responses-api-now-supports-web-search|The OpenAI-compatible Responses API now supports web search]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

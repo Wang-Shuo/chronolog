@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: a0b978e8c2af43c3ee863013d3204127aa1bc1b49b81c85e2885623efb4ad126
+machine_hash: 8cb6bff8259aec5a17205032baa781d964b38a754ca46f82f633b0fdb8f9aa21
 product: cline
 product_name: Cline
 record:
@@ -42,10 +42,10 @@ record:
   title: '[disk.ts] Replace uses of context.globalStorageUri…'
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2025-09-24-2-context-window-changes-in-v0-6-0|2 Context Window
-  changes in v0.6.0]]'
 - '[[Changes/Cline/2025-09-25-replace-vscode-context-globalstoragepath-with-hostprovider-globalstoragefspath-b|Replace
   vscode context.globalStoragePath with HostProvider.globalStorageFsPath]]'
+- "[[Changes/Open WebUI/2025-09-25-rag-query-generation-is-now-skipped-when-all-attached-files-are-set-to-full-cont|\U0001F50D
+  RAG query generation is now skipped when all attached files are set to full…]]"
 - '[[Changes/Cline/2025-09-28-tasks-directory-replace-uses-of-context-globalstorageuri-with-hostprovider-get-g|Tasks
   directory Replace uses of context.globalStorageUri…]]'
 source_release: '[[Releases/Cline/cline-2025-09-29-v3-32-2-github-250891897-c4382ca3|cline-2025-09-29-v3-32-2-github-250891897-c4382ca3]]'
@@ -78,7 +78,7 @@ type: change
 ## Nearby in Context Window
 
 - Earlier: 2025-09-28 · Cline · [[Changes/Cline/2025-09-28-tasks-directory-replace-uses-of-context-globalstorageuri-with-hostprovider-get-g|Tasks directory Replace uses of context.globalStorageUri…]]
-- Later: 2025-10-03 · Codex CLI · [[Changes/Codex CLI/2025-10-03-2-context-window-changes-in-rust-v0-44-0|2 Context Window changes in rust-v0.44.0]]
+- Later: 2025-09-29 · Dify · [[Changes/Dify/2025-09-29-synced-fileuploader-context-with-props-to-fix-inconsistent-file-parameters-in-ca|Synced FileUploader context with props to fix inconsistent file parameters in cached…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

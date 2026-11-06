@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: ddd4d236a98f74b642f1958874cb5842d46f515a4a0d6d959cb5faf84a6370f2
+machine_hash: 85c60e9c2fcf73ffd3b3076d497b368f94def88df7a5959e01b8ee8ae98ebf2c
 product: claude-code
 product_name: Claude Code
 record:
@@ -99,7 +99,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.239
 ## Nearby in Interface Experience
 
 - Earlier: 2026-08-21 · ChatGPT · [[Changes/ChatGPT/2026-08-21-generated-images-are-easier-to-view-and-your-recent-conversations-are-easier-to|Generated images are easier to view, and your recent conversations are easier to browse]]
-- Later: 2026-08-21 · OpenHands · [[Changes/OpenHands/2026-08-21-2-interface-experience-changes-in-v1-15-0|2 Interface Experience changes in v1.15.0]]
+- Later: 2026-08-21 · Lovable · [[Changes/Lovable/2026-08-21-project-details-when-you-hover-the-sidebar|Project details when you hover the sidebar]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

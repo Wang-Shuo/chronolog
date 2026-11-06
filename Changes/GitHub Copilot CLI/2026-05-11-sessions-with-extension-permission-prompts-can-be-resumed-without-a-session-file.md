@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 9405e4336f689342a70dabb6d58985c6db1c704f78675dd0774f5c1cebbf4c69
+machine_hash: 710957a4add135eafdb83febe68de110d4eab1be33be6ab466bcd3f7af680c0d
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -45,10 +45,10 @@ record:
   title: Sessions with extension permission prompts can be resumed without…
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-05-08-2-safety-and-privacy-changes-in-rust-v0-130-0|2
-  Safety and Privacy changes in rust-v0.130.0]]'
-- '[[Changes/GitHub Copilot CLI/2026-05-08-pressing-ctrl-c-while-a-permission-prompt-is-pending-no-longer-causes-the-cli-to|Pressing
-  Ctrl+C while a permission prompt is pending no longer causes the CLI to hang]]'
+- '[[Changes/Open WebUI/2026-05-09-3-safety-and-privacy-changes-in-v0-9-3|3 Safety
+  and Privacy changes in v0.9.3]]'
+- '[[Changes/Open WebUI/2026-05-10-6-safety-and-privacy-changes-in-v0-9-5|6 Safety
+  and Privacy changes in v0.9.5]]'
 - '[[Changes/Claude Code/2026-05-11-fixed-skill-name-permission-rules-the-wildcard-form-now-works-as-a-prefix-match|Fixed
   Skill(name ) permission rules]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-05-11-v1-0-45-github-320681555-97d8cd0a|github-copilot-cli-2026-05-11-v1-0-45-github-320681555-97d8cd0a]]'
@@ -84,7 +84,7 @@ type: change
 ## Nearby in Safety and Privacy
 
 - Earlier: 2026-05-11 · Claude Code · [[Changes/Claude Code/2026-05-11-fixed-skill-name-permission-rules-the-wildcard-form-now-works-as-a-prefix-match|Fixed Skill(name ) permission rules]]
-- Later: 2026-05-12 · Gemini CLI · [[Changes/Gemini CLI/2026-05-12-3-safety-and-privacy-changes-in-v0-42-0|3 Safety and Privacy changes in v0.42.0]]
+- Later: 2026-05-12 · Dify · [[Changes/Dify/2026-05-12-3-safety-and-privacy-changes-in-1-14-1|3 Safety and Privacy changes in 1.14.1]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

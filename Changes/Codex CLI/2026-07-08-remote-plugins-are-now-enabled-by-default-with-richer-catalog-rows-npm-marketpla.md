@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 4a6f1b6e88b562e36e8b2b2110963e4f8114286e223db656431fa42e98533f2d
+machine_hash: aa44ed48351426dfa06269dbeb298d52dcc04dafcb66c6c3063088f7befdfeef
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -45,8 +45,8 @@ record:
     marketplace…
   type: change
 related_changes:
-- '[[Changes/OpenHands/2026-07-07-2-apps-and-integrations-changes-in-1-9-1|2 Apps
-  and Integrations changes in 1.9.1]]'
+- '[[Changes/v0/2026-07-07-3-apps-and-integrations-changes-in-grouped-tool-approvals-richer-mcp|3
+  Apps and Integrations changes in Grouped tool approvals, richer MCP…]]'
 - '[[Changes/Claude Code/2026-07-08-reserved-the-claude-browser-mcp-server-name-alongside-claude-preview-ahead-of-th|Reserved
   the "Claude Browser" MCP server name (alongside "Claude Preview") ahead…]]'
 - '[[Changes/Codex CLI/2026-07-08-66-apps-and-integrations-changes-in-rust-v0-143-0|66
@@ -95,7 +95,7 @@ type: change
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-07-08 · Claude Code · [[Changes/Claude Code/2026-07-08-reserved-the-claude-browser-mcp-server-name-alongside-claude-preview-ahead-of-th|Reserved the "Claude Browser" MCP server name (alongside "Claude Preview") ahead…]]
-- Later: 2026-07-08 · OpenHands · [[Changes/OpenHands/2026-07-08-chore-bump-sdk-packages-to-v1-33-0-by-all-hands-bot-in-https-github-com-openhand|chore: bump SDK packages to v1.33.0]]
+- Later: 2026-07-08 · Lovable · [[Changes/Lovable/2026-07-08-reference-a-connector-in-chat|Reference a connector in chat]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

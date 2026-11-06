@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: f27720ac397dcd65798ae9e3a0ff50cbb94f76d9596de0b9c02e26e98cb900dd
+machine_hash: d6a47ee92e9f268595e6b85b7f503e1784fe88a1a98ed2b358436a6c87a8fabe
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -44,12 +44,11 @@ record:
   title: 3 Agent Mode changes in rust-v0.136.0
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-05-29-claude-agents-the-agent-field-in-settings-json-is-now-honored-for-dispatched-ses|claude
-  agents: the agent field in settings.json is now honored for dispatched…]]'
-- '[[Changes/Cursor/2026-05-29-auto-review-is-a-new-run-mode-that-allows-cursor-to-work-for-longer-with-fewer-a-61df08|Auto-review
-  Run Mode]]'
 - '[[Changes/GitHub Copilot CLI/2026-05-29-add-builtinagents-rubberduck-setting-to-enable-or-disable-the-rubber-duck-agent|Add
   builtInAgents.rubberDuck setting to enable or disable the rubber duck agent…]]'
+- '[[Changes/Replit/2026-05-29-agent|Agent]]'
+- '[[Changes/Replit/2026-05-29-agent-can-generate-music-sound-effects-and-speech|Agent
+  can generate music, sound effects, and speech]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-06-01-rust-v0-136-0-github-332669350-976b06b6|codex-cli-2026-06-01-rust-v0-136-0-github-332669350-976b06b6]]'
 source_type: github_releases
 theme: agent-mode
@@ -95,7 +94,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.136.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2026-05-29 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-05-29-add-builtinagents-rubberduck-setting-to-enable-or-disable-the-rubber-duck-agent|Add builtInAgents.rubberDuck setting to enable or disable the rubber duck agent…]]
+- Earlier: 2026-05-29 · Replit · [[Changes/Replit/2026-05-29-agent-can-generate-music-sound-effects-and-speech|Agent can generate music, sound effects, and speech]]
 - Later: 2026-06-01 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-06-01-canceling-a-running-shell-command-ctrl-c-on-a-command-or-aborting-an-agent-comma|Canceling a running shell command (Ctrl+C on a !command, or aborting an agent command]]
 <!-- chronolog:end -->
 

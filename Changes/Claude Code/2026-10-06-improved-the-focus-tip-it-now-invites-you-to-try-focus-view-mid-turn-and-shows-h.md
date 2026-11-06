@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 570df3ab9c1339baffa7ee1e7109022ed080a21a3d10ffaf5aa4d1bccaffe156
+machine_hash: 0a97c1a7aadecff2bfd7d62596c1b4236e32cf41f7f40d6ec31237f977b91838
 product: claude-code
 product_name: Claude Code
 record:
@@ -44,10 +44,9 @@ record:
   title: Improved the /focus tip
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-10-01-footer-text-selection-stays-on-the-same-visible-line-when-the-footer-grows-or-sh|Footer
-  text selection stays on the same visible line when the footer grows or shrinks]]'
 - '[[Changes/Claude Code/2026-10-02-added-ui-selection-for-mods-returns-the-text-you-last-selected-in-fullscreen-mod|Added
   $.ui.selection() for mods]]'
+- '[[Changes/Replit/2026-10-02-new-settings-page|New Settings page]]'
 - '[[Changes/GitHub Copilot CLI/2026-10-05-add-a-pre-conversation-ctrl-e-environment-picker-to-switch-between-local-and-clo|Add
   a pre-conversation Ctrl+E environment picker to switch between local and cloud runs]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-10-06-v2-1-292-github-404958910-b2fd21ab|claude-code-2026-10-06-v2-1-292-github-404958910-b2fd21ab]]'

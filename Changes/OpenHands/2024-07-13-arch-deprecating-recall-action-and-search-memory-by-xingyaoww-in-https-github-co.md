@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: memory
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: policy
-machine_hash: ccf2b4a29d2b1504d82a7715aba5d233c5aa9af7762f4aaa768432df6fe24baa
+machine_hash: c5bd1f5e733c33f4d2cea5232c0a2dd7b31c69e2256eb02988646b7181990420
 product: openhands
 product_name: OpenHands
 record:
@@ -41,12 +41,12 @@ record:
   title: 'arch: deprecating recall action and `search_memory`'
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2024-02-13-we-re-testing-memory-with-chatgpt-remembering-things-you-discuss-across-all-chat-9872c8|Memory
-  and new controls for ChatGPT]]'
-- '[[Changes/ChatGPT/2024-04-29-memory-is-now-available-to-all-chatgpt-plus-users-except-in-europe-korea-where-w-4db29a|Memory
-  is now available to Plus users]]'
+- "[[Changes/Open WebUI/2024-06-17-editable-memories-adds-the-capability-to-modify-memories|\U0001F9E0
+  Editable Memories: Adds the capability to modify memories]]"
 - '[[Changes/OpenHands/2024-07-05-ci-for-colima-modify-cpu-count-and-memory-by-smartmanoj-in-https-github-com-open|CI:
   For colima, modify CPU count and memory]]'
+- '[[Changes/Dify/2024-07-08-2-memory-and-personalization-changes-in-0-6-13|2 Memory
+  and Personalization changes in 0.6.13]]'
 source_release: '[[Releases/OpenHands/openhands-2024-07-13-0-8-0-github-165308599-8532f458|openhands-2024-07-13-0-8-0-github-165308599-8532f458]]'
 source_type: github_releases
 theme: memory
@@ -80,7 +80,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Memory and Personalization
 
-- Earlier: 2024-07-05 · OpenHands · [[Changes/OpenHands/2024-07-05-ci-for-colima-modify-cpu-count-and-memory-by-smartmanoj-in-https-github-com-open|CI: For colima, modify CPU count and memory]]
+- Earlier: 2024-07-08 · Dify · [[Changes/Dify/2024-07-08-2-memory-and-personalization-changes-in-0-6-13|2 Memory and Personalization changes in 0.6.13]]
 - Later: 2024-07-28 · Cline · [[Changes/Cline/2024-07-28-quality-of-life-improvements-like-markdown-rendering-memory-optimizations-better|Quality of life improvements like markdown rendering, memory optimizations, better…]]
 <!-- chronolog:end -->
 

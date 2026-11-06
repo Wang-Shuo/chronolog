@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: ecfab88e2a8c34764c63a6cbaca1604e0036ba968130c26344759da3eff1bee5
+machine_hash: bea526d1f8d74ad31cadcf8460f3a5b7ca7f340eec461d2cc2067e8639a91a12
 product: windsurf
 product_name: Windsurf
 record:
@@ -56,12 +56,11 @@ record:
     same…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-19-added-a-warning-on-pro-and-max-plans-when-resuming-an-inactive-conversation-woul|Added
-  a warning on Pro and Max plans when resuming an inactive conversation would…]]'
-- '[[Changes/OpenHands/2026-10-19-feat-verify-openhands-adopt-the-shared-known-bug-contract-by-enyst-in-https-gith|feat(verify-openhands):
-  adopt the shared known-bug contract]]'
 - '[[Changes/Codex CLI/2026-10-23-8-collaboration-changes-in-rust-v0-164-0|8 Collaboration
   changes in rust-v0.164.0]]'
+- '[[Changes/Dify/2026-10-23-5-collaboration-changes-in-1-18-0|5 Collaboration changes
+  in 1.18.0]]'
+- '[[Changes/Replit/2026-10-23-chat-and-asset-sharing|Chat and asset sharing]]'
 source_release: '[[Releases/Windsurf/windsurf-2026-10-26-v3-11-228-40b60cc1|windsurf-2026-10-26-v3-11-228-40b60cc1]]'
 source_type: windsurf_changelog
 theme: collaboration
@@ -95,7 +94,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Collaboration
 
-- Earlier: 2026-10-23 · Codex CLI · [[Changes/Codex CLI/2026-10-23-8-collaboration-changes-in-rust-v0-164-0|8 Collaboration changes in rust-v0.164.0]]
+- Earlier: 2026-10-23 · Replit · [[Changes/Replit/2026-10-23-chat-and-asset-sharing|Chat and asset sharing]]
 - Later: 2026-10-27 · OpenHands · [[Changes/OpenHands/2026-10-27-feat-conversation-label-the-share-toggle-share-with-org-users-in-team-orgs-ohe-3|feat(conversation): label the share toggle "Share with Org users" in team orgs (OHE-3765)]]
 <!-- chronolog:end -->
 

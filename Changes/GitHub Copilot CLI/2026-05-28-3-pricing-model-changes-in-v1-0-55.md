@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: c0b3f7a014bb1f34697e58f5ad943668a1108b5ba79bde29dfedbe93208124a5
+machine_hash: fc439a684d8c88bcdf5e6a47681cd265d327d7413346076b657da76f98879605
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -45,8 +45,8 @@ record:
   title: 3 Pricing Model changes in v1.0.55
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-05-19-renamed-extra-usage-to-usage-credits-across-cli-copy-extra-usage-is-now-usage-cr|Renamed
-  "extra usage" to "usage credits" across CLI copy]]'
+- '[[Changes/Gemini/2026-05-19-introducing-a-new-100-google-ai-ultra-plan|Introducing
+  a new $100 Google AI Ultra plan]]'
 - '[[Changes/GitHub Copilot CLI/2026-05-20-2-pricing-model-changes-in-v1-0-51|2 Pricing
   Model changes in v1.0.51]]'
 - '[[Changes/GitHub Copilot CLI/2026-05-23-3-pricing-model-changes-in-v1-0-52|3 Pricing
@@ -97,7 +97,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.55
 ## Nearby in Pricing Model
 
 - Earlier: 2026-05-23 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-05-23-3-pricing-model-changes-in-v1-0-52|3 Pricing Model changes in v1.0.52]]
-- Later: 2026-06-04 · Claude Code · [[Changes/Claude Code/2026-06-04-the-subscription-switch-suggestion-now-shows-in-the-startup-announcement-slot-in|The subscription-switch suggestion now shows in the startup announcement slot…]]
+- Later: 2026-05-29 · Replit · [[Changes/Replit/2026-05-29-billing|Billing]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

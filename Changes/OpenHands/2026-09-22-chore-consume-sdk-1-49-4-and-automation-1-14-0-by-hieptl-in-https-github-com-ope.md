@@ -4,20 +4,20 @@ date: '2026-09-22'
 description: 'OpenHands · 2026-09-22 · Automation and Scheduling: chore: consume SDK
   1.49.4 and Automation 1.14.0 by @hieptl in…'
 diffusion:
-  first_in_tracked: '[[Changes/OpenHands/2024-09-04-better-syntax-error-loop-detection-by-tobitege-in-https-github-com-all-hands-ai|Better
-    syntax error loop detection]]'
+  first_in_tracked: '[[Changes/Dify/2024-01-02-add-data-clean-schedule-by-johnjyong-in-https-github-com-langgenius-dify-pull-18|Add
+    data clean schedule]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 748
+  lag_days: 994
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 67f6f7f52ab5ef3e4bb2a7562d42d49665fa9fa3c3fd2ac24b1b143282a38f64
+machine_hash: c3aaff83dde4ffb402b53d44a2ab8435a30df215420a3a576deab1e78f5366a0
 product: openhands
 product_name: OpenHands
 record:
@@ -41,10 +41,10 @@ record:
   title: 'chore: consume SDK 1.49.4 and Automation 1.14.0'
   type: change
 related_changes:
-- '[[Changes/OpenHands/2026-09-16-4-automation-and-scheduling-changes-in-v1-19-0|4
-  Automation and Scheduling changes in v1.19.0]]'
 - '[[Changes/OpenHands/2026-09-17-feat-automations-select-saved-agent-profiles-by-neubig-in-https-github-com-openh|feat(automations):
   select saved agent profiles]]'
+- '[[Changes/Open WebUI/2026-09-21-4-automation-and-scheduling-changes-in-v0-11-4|4
+  Automation and Scheduling changes in v0.11.4]]'
 - '[[Changes/Codex CLI/2026-09-22-45849-preserve-the-app-server-shutdown-signal-future-across-loop-iterations-jger|♯45849
   Preserve the app-server shutdown signal future across loop iterations @jgershen-oai]]'
 source_release: '[[Releases/OpenHands/openhands-2026-09-22-v1-22-0-github-393931062-937a5827|openhands-2026-09-22-v1-22-0-github-393931062-937a5827]]'
@@ -85,7 +85,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2024-09-04 · OpenHands · [[Changes/OpenHands/2024-09-04-better-syntax-error-loop-detection-by-tobitege-in-https-github-com-all-hands-ai|Better syntax error loop detection]]
+- Earliest same-theme entry in the tracked set: 2024-01-02 · Dify · [[Changes/Dify/2024-01-02-add-data-clean-schedule-by-johnjyong-in-https-github-com-langgenius-dify-pull-18|Add data clean schedule]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

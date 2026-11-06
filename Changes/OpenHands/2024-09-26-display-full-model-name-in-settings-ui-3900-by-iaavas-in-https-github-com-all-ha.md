@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 573d51717eb2fce1d8661a43664cf7d997f0d8fe99d902238b094b0bd64471b6
+machine_hash: 5bc9ebd12c069513efbdf614ac112c20e26c505557fcc5203469937b94eef03f
 product: openhands
 product_name: OpenHands
 record:
@@ -43,12 +43,12 @@ record:
   title: Display full model name in Settings UI (#3900)
   type: change
 related_changes:
-- '[[Changes/Cline/2024-09-14-update-this-feature-is-now-opt-in-in-v1-8-0-use-problems-in-the-textarea-automat|Update:
-  This feature is now opt-in in v1.8.0 (use @problems in the textarea)]]'
-- '[[Changes/OpenHands/2024-09-20-reduced-safety-thresholds-for-gemini-by-tobitege-in-https-github-com-all-hands-a|Reduced
-  safety thresholds for Gemini]]'
-- '[[Changes/Aider/2024-09-21-6-model-support-changes-in-v0-57-0|6 Model Support changes
-  in v0.57.0]]'
+- '[[Changes/Ollama/2024-09-23-2-model-support-changes-in-v0-3-12|2 Model Support
+  changes in v0.3.12]]'
+- '[[Changes/Open WebUI/2024-09-24-3-model-support-changes-in-v0-3-24|3 Model Support
+  changes in v0.3.24]]'
+- "[[Changes/Open WebUI/2024-09-26-o1-max-completion-tokens-issue-resolved-compatibility-issues-with-openai-s-o1-mo|\U0001F527
+  O1 Max Completion Tokens Issue]]"
 source_release: '[[Releases/OpenHands/openhands-2024-09-26-0-9-5-github-177061912-4573dec1|openhands-2024-09-26-0-9-5-github-177061912-4573dec1]]'
 source_type: github_releases
 theme: model-support
@@ -77,7 +77,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2024-09-21 · Aider · [[Changes/Aider/2024-09-21-6-model-support-changes-in-v0-57-0|6 Model Support changes in v0.57.0]]
+- Earlier: 2024-09-26 · Open WebUI · [[Changes/Open WebUI/2024-09-26-o1-max-completion-tokens-issue-resolved-compatibility-issues-with-openai-s-o1-mo|🔧 O1 Max Completion Tokens Issue]]
 - Later: 2024-09-29 · Aider · [[Changes/Aider/2024-09-29-6-model-support-changes-in-v0-58-0|6 Model Support changes in v0.58.0]]
 <!-- chronolog:end -->
 

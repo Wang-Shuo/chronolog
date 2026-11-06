@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: da65ce696ba52ab0544cb11b7f1bd2c91a58356ea1a8adb9924262d1ba30cd2c
+machine_hash: b69b6c1ecb4d000229b8d1d96b3959fe869e2b3589d048c6261598fc81699f7c
 product: claude-code
 product_name: Claude Code
 record:
@@ -53,12 +53,12 @@ record:
   title: 5 Apps and Integrations changes in v2.1.84
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2026-03-24-5-apps-and-integrations-changes-in-v0-35-0|5 Apps
-  and Integrations changes in v0.35.0]]'
-- '[[Changes/ChatGPT/2026-03-25-google-s-file-connectors-in-chatgpt-are-now-unified-under-google-drive-providing|Google
-  Drive app unification]]'
 - '[[Changes/Claude Code/2026-03-25-6-apps-and-integrations-changes-in-v2-1-83|6 Apps
   and Integrations changes in v2.1.83]]'
+- '[[Changes/Ollama/2026-03-25-openclaw-integration-improvements-for-gateway-checks|OpenClaw
+  integration improvements for gateway checks]]'
+- '[[Changes/Open WebUI/2026-03-25-3-apps-and-integrations-changes-in-v0-8-11|3 Apps
+  and Integrations changes in v0.8.11]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-03-26-v2-1-84-github-301540101-d02104aa|claude-code-2026-03-26-v2-1-84-github-301540101-d02104aa]]'
 source_type: github_releases
 theme: apps-integrations
@@ -106,7 +106,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.84
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-03-25 · Claude Code · [[Changes/Claude Code/2026-03-25-6-apps-and-integrations-changes-in-v2-1-83|6 Apps and Integrations changes in v2.1.83]]
+- Earlier: 2026-03-25 · Open WebUI · [[Changes/Open WebUI/2026-03-25-3-apps-and-integrations-changes-in-v0-8-11|3 Apps and Integrations changes in v0.8.11]]
 - Later: 2026-03-26 · Claude Code · [[Changes/Claude Code/2026-03-26-4-apps-and-integrations-changes-in-v2-1-85|4 Apps and Integrations changes in v2.1.85]]
 <!-- chronolog:end -->
 

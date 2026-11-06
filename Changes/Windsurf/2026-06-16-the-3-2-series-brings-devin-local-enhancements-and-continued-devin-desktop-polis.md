@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: de1edbb0d94405cdfb0fe5cca2772a8449eaa7267490dde76dfe74fac92c32dd
+machine_hash: 3b939730de9ca36e78cd5774165d59534f8031397d7010a9d5832ee42824fbcf
 product: windsurf
 product_name: Windsurf
 record:
@@ -43,12 +43,11 @@ record:
     polish
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-06-10-disable-mouse-tracking-on-windows-consoles-that-don-t-fully-support-it|Disable
-  mouse tracking on Windows consoles that don''t fully support it]]'
 - '[[Changes/GitHub Copilot CLI/2026-06-13-git-commands-no-longer-flash-a-console-window-on-windows|Git
   commands no longer flash a console window on Windows]]'
 - '[[Changes/Codex CLI/2026-06-15-clarified-contributor-guidance-around-keeping-crate-apis-narrow-and-supporting-l|Clarified
   contributor guidance around keeping crate APIs narrow and supporting…]]'
+- '[[Changes/ElevenLabs/2026-06-15-ios-sdk|iOS SDK]]'
 source_release: '[[Releases/Windsurf/windsurf-2026-06-16-v3-2-16-684ac1d4|windsurf-2026-06-16-v3-2-16-684ac1d4]]'
 source_type: windsurf_changelog
 theme: mobile-desktop
@@ -82,7 +81,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2026-06-15 · Codex CLI · [[Changes/Codex CLI/2026-06-15-clarified-contributor-guidance-around-keeping-crate-apis-narrow-and-supporting-l|Clarified contributor guidance around keeping crate APIs narrow and supporting…]]
+- Earlier: 2026-06-15 · ElevenLabs · [[Changes/ElevenLabs/2026-06-15-ios-sdk|iOS SDK]]
 - Later: 2026-06-17 · Claude Code · [[Changes/Claude Code/2026-06-17-2-mobile-and-desktop-changes-in-v2-1-181|2 Mobile and Desktop changes in v2.1.181]]
 <!-- chronolog:end -->
 

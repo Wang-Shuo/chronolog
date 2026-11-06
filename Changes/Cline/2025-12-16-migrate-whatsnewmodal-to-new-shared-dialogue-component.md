@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 3f0f1d862336a32ed97a6b8ff56c496fb13dd35245b2e5dae7efffc1f6776b09
+machine_hash: 09c5392a9c3e5ad51ff7c0e8767f793bac923b3bd10d437da9a7960c67b81df2
 product: cline
 product_name: Cline
 record:
@@ -43,12 +43,12 @@ record:
   title: Migrate WhatsNewModal to new shared dialogue component
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2025-11-19-promote-shared-helpers-for-suite-tests-6460-aibrahim|Promote
-  shared helpers for suite tests (♯6460) — @aibrahim]]'
-- '[[Changes/ChatGPT/2025-11-25-share-photos-to-discuss-them-out-loud|Share photos
-  to discuss them out loud]]'
+- "[[Changes/Open WebUI/2025-12-02-group-channels-were-introduced-as-a-new-channel-type-enabling-membership-based-c|\U0001F465
+  Group channels were introduced as a new channel type enabling membership-based…]]"
 - '[[Changes/Codex CLI/2025-12-09-7547-use-shared-check-sandboxing-pakrym-oai|♯7547
   Use shared check sandboxing @pakrym-oai]]'
+- '[[Changes/v0/2025-12-10-added-default-design-systems-for-teams|Added default design
+  systems for Teams]]'
 source_release: '[[Releases/Cline/cline-2025-12-16-v3-43-1-github-270900389-93b6e94c|cline-2025-12-16-v3-43-1-github-270900389-93b6e94c]]'
 source_type: github_releases
 theme: collaboration
@@ -78,8 +78,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Collaboration
 
-- Earlier: 2025-12-09 · Codex CLI · [[Changes/Codex CLI/2025-12-09-7547-use-shared-check-sandboxing-pakrym-oai|♯7547 Use shared check sandboxing @pakrym-oai]]
-- Later: 2025-12-18 · Codex CLI · [[Changes/Codex CLI/2025-12-18-8221-change-team-to-buisness-and-add-education|♯8221 Change “Team” to “Buisness” and add Education]]
+- Earlier: 2025-12-10 · v0 · [[Changes/v0/2025-12-10-added-default-design-systems-for-teams|Added default design systems for Teams]]
+- Later: 2025-12-16 · v0 · [[Changes/v0/2025-12-16-pull-in-info-from-your-projects-teams-and-users|Pull in info from your projects, teams, and users]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

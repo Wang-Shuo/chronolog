@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 9cf1dd674ac2171a366908093f48b5c15e910599f6d30418917db8616396cf51
+machine_hash: 2a29f841cffb4eef38d02c11e70e5f0cd9fe8767cd53daf49d474964127c8382
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -45,10 +45,10 @@ record:
   title: 3 Developer Workflow changes in rust-v0.118.0
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-03-26-2-developer-workflow-changes-in-v1-0-12|2
-  Developer Workflow changes in v1.0.12]]'
 - '[[Changes/Claude Code/2026-03-27-added-x-claude-code-session-id-header-to-api-requests-so-proxies-can-aggregate-r|Added
   X-Claude-Code-Session-Id header to API requests so proxies can aggregate…]]'
+- '[[Changes/Open WebUI/2026-03-27-5-developer-workflow-changes-in-v0-8-12|5 Developer
+  Workflow changes in v0.8.12]]'
 - '[[Changes/GitHub Copilot CLI/2026-03-30-2-developer-workflow-changes-in-v1-0-13|2
   Developer Workflow changes in v1.0.13]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-03-31-rust-v0-118-0-github-303805427-02df59b6|codex-cli-2026-03-31-rust-v0-118-0-github-303805427-02df59b6]]'

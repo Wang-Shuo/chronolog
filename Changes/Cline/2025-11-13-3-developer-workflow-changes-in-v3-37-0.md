@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 955a198e8e0f0ce7ff0ee7887f5df84a9e0d33864ed1c867e7fe2be9fc4511d2
+machine_hash: bac7d759192463fd7f3df47a2f168811a6cbb5f62551a4ad08397e0ddb7dcb3c
 product: cline
 product_name: Cline
 record:
@@ -46,12 +46,12 @@ record:
   title: 3 Developer Workflow changes in v3.37.0
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2025-11-09-4-developer-workflow-changes-in-rust-v0-57-0|4 Developer
-  Workflow changes in rust-v0.57.0]]'
 - '[[Changes/Gemini CLI/2025-11-12-extension-reloading-update-custom-commands-add-enable-disable-command-by-jakemac|Extension
   Reloading: Update custom commands, add enable/disable command]]'
 - '[[Changes/GitHub Copilot CLI/2025-11-12-3-developer-workflow-changes-in-v0-0-355|3
   Developer Workflow changes in v0.0.355]]'
+- '[[Changes/Ollama/2025-11-12-for-issues-or-feedback-on-using-vulkan-with-ollama-create-an-issue-labelled-vulk|For
+  issues or feedback on using Vulkan with Ollama, create an issue labelled…]]'
 source_release: '[[Releases/Cline/cline-2025-11-13-v3-37-0-github-262246065-f6c1ac93|cline-2025-11-13-v3-37-0-github-262246065-f6c1ac93]]'
 source_type: github_releases
 theme: developer-workflow
@@ -93,7 +93,7 @@ Source: https://github.com/cline/cline/releases/tag/v3.37.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2025-11-12 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2025-11-12-3-developer-workflow-changes-in-v0-0-355|3 Developer Workflow changes in v0.0.355]]
+- Earlier: 2025-11-12 · Ollama · [[Changes/Ollama/2025-11-12-for-issues-or-feedback-on-using-vulkan-with-ollama-create-an-issue-labelled-vulk|For issues or feedback on using Vulkan with Ollama, create an issue labelled…]]
 - Later: 2025-11-13 · Codex CLI · [[Changes/Codex CLI/2025-11-13-7-developer-workflow-changes-in-rust-v0-58-0|7 Developer Workflow changes in rust-v0.58.0]]
 <!-- chronolog:end -->
 

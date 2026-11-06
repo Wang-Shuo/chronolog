@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 5e12997bd81393018fc21b675585e8192cb91744e33cce9e5484a2464b71f6bb
+machine_hash: 1b95ec77a6c6bc049c214be1413e8e717472bea1766905c92549c027ca0a5239
 product: cline
 product_name: Cline
 record:
@@ -41,9 +41,9 @@ record:
   title: Add modal in the chat area to more easily enable or disable MCP servers
   type: change
 related_changes:
-- '[[Changes/Windsurf/2025-04-02-misc|Misc]]'
-- '[[Changes/Cline/2025-04-04-add-a-tab-for-configuring-local-mcp-servers|Add a tab
-  for configuring local MCP Servers]]'
+- '[[Changes/Lovable/2025-04-04-upgraded-the-stripe-integration-https-docs-lovable-dev-integrations-stripe-md|Upgraded
+  the Stripe integration((source link)]]'
+- '[[Changes/ElevenLabs/2025-04-07-text-to-speech|Text to speech]]'
 - '[[Changes/Windsurf/2025-04-07-increased-stability-around-mcp-sse-connections|Increased
   stability around MCP SSE connections]]'
 source_release: '[[Releases/Cline/cline-2025-04-08-v3-10-0-github-211156875-766b3847|cline-2025-04-08-v3-10-0-github-211156875-766b3847]]'
@@ -77,7 +77,7 @@ type: change
 ## Nearby in Apps and Integrations
 
 - Earlier: 2025-04-07 · Windsurf · [[Changes/Windsurf/2025-04-07-increased-stability-around-mcp-sse-connections|Increased stability around MCP SSE connections]]
-- Later: 2025-04-12 · Cline · [[Changes/Cline/2025-04-12-add-settings-button-to-mcp-popover-to-easily-modify-installed-servers|Add settings button to MCP popover to easily modify installed servers]]
+- Later: 2025-04-09 · Dify · [[Changes/Dify/2025-04-09-6-apps-and-integrations-changes-in-1-2-0|6 Apps and Integrations changes in 1.2.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

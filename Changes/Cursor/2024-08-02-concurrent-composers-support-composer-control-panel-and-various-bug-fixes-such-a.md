@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 84ffdc272b62b92158667fd95a1e53809a68f8c12fea51810a9dde733b5cf514
+machine_hash: 5f39ddda6143b53b559114d76da46d45480312bc9bd3b089ec18d1634cf1ab02
 product: cursor
 product_name: Cursor
 record:
@@ -85,7 +85,7 @@ type: change
 ## Nearby in Agent Mode
 
 - Earlier: 2024-08-01 · OpenHands · [[Changes/OpenHands/2024-08-01-2-agent-mode-changes-in-0-8-3|2 Agent Mode changes in 0.8.3]]
-- Later: 2024-08-23 · OpenHands · [[Changes/OpenHands/2024-08-23-4-agent-mode-changes-in-0-9-0|4 Agent Mode changes in 0.9.0]]
+- Later: 2024-08-14 · Dify · [[Changes/Dify/2024-08-14-feat-agent-app-support-generate-prompt-by-iamjoel-in-https-github-com-langgenius|feat: agent app support generate prompt]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

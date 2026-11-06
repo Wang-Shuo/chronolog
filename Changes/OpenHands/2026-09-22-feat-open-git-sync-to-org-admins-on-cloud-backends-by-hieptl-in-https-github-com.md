@@ -4,20 +4,20 @@ date: '2026-09-22'
 description: 'OpenHands · 2026-09-22 · Enterprise and Administration: feat: open Git
   Sync to org admins on cloud backends by @hieptl in…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2024-03-20-admin-improvements-team-admins-can-now-mark-themselves-as-unpaid-users-and-can-s|Admin
-    improvements: Team admins can now mark themselves as unpaid users and can see…]]'
+  first_in_tracked: '[[Changes/Gemini/2023-05-05-access-for-google-workspace-accounts|Access
+    for Google Workspace accounts]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 916
+  lag_days: 1236
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 04f9a3f8393ccd056245d6a09665ac23dfffe81e3dd969d95fff8e531416f9ed
+machine_hash: f7f576671d0c7d7f4870bc8d337cb73c3b4d1671e27a8727b3ec302e8690a936
 product: openhands
 product_name: OpenHands
 record:
@@ -41,12 +41,12 @@ record:
   title: 'feat: open Git Sync to org admins on cloud backends'
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-09-10-box-dropbox-and-sharepoint-integrations-are-now-rolling-out-to-go-plus-pro-busin|Box,
-  Dropbox, and SharePoint integrations are now rolling out to Go, Plus, Pro…]]'
-- '[[Changes/Claude Code/2026-09-17-claude-tag-improved-claude-s-notices-in-enterprise-grid-channels-shared-across-w|Claude
-  Tag Improved Claude''s notices in Enterprise Grid channels shared across…]]'
 - '[[Changes/Claude Code/2026-09-18-2-enterprise-and-administration-changes-in-v2-1-277|2
   Enterprise and Administration changes in v2.1.277]]'
+- '[[Changes/Lovable/2026-09-21-set-a-default-design-system-for-each-group|Set a default
+  design system for each group]]'
+- '[[Changes/Open WebUI/2026-09-21-5-enterprise-and-administration-changes-in-v0-11-4|5
+  Enterprise and Administration changes in v0.11.4]]'
 source_release: '[[Releases/OpenHands/openhands-2026-09-22-v1-22-0-github-393931062-937a5827|openhands-2026-09-22-v1-22-0-github-393931062-937a5827]]'
 source_type: github_releases
 theme: enterprise-admin
@@ -78,14 +78,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Enterprise and Administration
 
-- Earlier: 2026-09-18 · Claude Code · [[Changes/Claude Code/2026-09-18-2-enterprise-and-administration-changes-in-v2-1-277|2 Enterprise and Administration changes in v2.1.277]]
-- Later: 2026-09-28 · Claude Code · [[Changes/Claude Code/2026-09-28-claude-tag-improved-notify-members-now-in-admin-settings-one-press-reaches-every|Claude Tag Improved "Notify members now" in admin settings]]
+- Earlier: 2026-09-21 · Open WebUI · [[Changes/Open WebUI/2026-09-21-5-enterprise-and-administration-changes-in-v0-11-4|5 Enterprise and Administration changes in v0.11.4]]
+- Later: 2026-09-24 · Lovable · [[Changes/Lovable/2026-09-24-see-which-credit-limit-applies-to-each-member-in-the-people-export|See which credit limit applies to each member in the People export]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2024-03-20 · Cursor · [[Changes/Cursor/2024-03-20-admin-improvements-team-admins-can-now-mark-themselves-as-unpaid-users-and-can-s|Admin improvements: Team admins can now mark themselves as unpaid users and can see…]]
+- Earliest same-theme entry in the tracked set: 2023-05-05 · Gemini · [[Changes/Gemini/2023-05-05-access-for-google-workspace-accounts|Access for Google Workspace accounts]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

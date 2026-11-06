@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: search-browsing
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: f5f2c51a1526b493b4ba39a73be5a1d9a59638ba47e2bf21589f491fe9a36870
+machine_hash: 5ee62cc920e04f8dddaf2964e3d8044184b51eb0287f445dcea2e3c74e20fc60
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -43,12 +43,12 @@ record:
   title: 2 Search and Browsing changes in rust-v0.113.0
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-02-27-open-search-results-in-a-new-tab-cmd-click-in-the-search-panel-now-opens-results|Open
-  search results in a new tab]]'
-- '[[Changes/Codex CLI/2026-03-05-13538-chore-add-web-search-tool-type-for-image-support-sayan-oai|♯13538
-  chore: add web_search_tool_type for image support @sayan-oai]]'
 - '[[Changes/GitHub Copilot CLI/2026-03-06-elicitation-enum-and-boolean-fields-now-require-enter-to-confirm-a-selection-wit|Elicitation
   enum and boolean fields now require Enter to confirm a selection…]]'
+- '[[Changes/Open WebUI/2026-03-08-2-search-and-browsing-changes-in-v0-8-9|2 Search
+  and Browsing changes in v0.8.9]]'
+- '[[Changes/Open WebUI/2026-03-09-2-search-and-browsing-changes-in-v0-8-10|2 Search
+  and Browsing changes in v0.8.10]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-03-10-rust-v0-113-0-github-294999501-e594ccb6|codex-cli-2026-03-10-rust-v0-113-0-github-294999501-e594ccb6]]'
 source_type: github_releases
 theme: search-browsing
@@ -92,7 +92,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.113.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Search and Browsing
 
-- Earlier: 2026-03-06 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-03-06-elicitation-enum-and-boolean-fields-now-require-enter-to-confirm-a-selection-wit|Elicitation enum and boolean fields now require Enter to confirm a selection…]]
+- Earlier: 2026-03-09 · Open WebUI · [[Changes/Open WebUI/2026-03-09-2-search-and-browsing-changes-in-v0-8-10|2 Search and Browsing changes in v0.8.10]]
 - Later: 2026-03-11 · Codex CLI · [[Changes/Codex CLI/2026-03-11-14136-fix-core-use-dedicated-types-for-responsesapi-web-search-tool-config-owenl|♯14136 fix(core): use dedicated types for responsesapi web search tool config @owenlin0]]
 <!-- chronolog:end -->
 

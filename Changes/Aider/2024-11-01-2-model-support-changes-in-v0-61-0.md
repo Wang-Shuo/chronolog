@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 5727ed34d18a4dd2efccce61f315445c5e0a560994d9656fc0362b25ea380a99
+machine_hash: 5746da1ba492daa1f0401e9128f342caa2ec3b1418f2af57a422978c7d1f285c
 product: aider
 product_name: Aider
 record:
@@ -42,10 +42,10 @@ record:
   title: 2 Model Support changes in v0.61.0
   type: change
 related_changes:
-- '[[Changes/Aider/2024-10-22-5-model-support-changes-in-v0-60-0|5 Model Support changes
-  in v0.60.0]]'
-- '[[Changes/Cline/2024-10-28-cline-now-uses-anthropic-s-new-computer-use-https-www-anthropic-com-news-3-5-mod|Cline
-  now uses Anthropic''s new…]]'
+- '[[Changes/Dify/2024-10-28-4-model-support-changes-in-0-10-2|4 Model Support changes
+  in 0.10.2]]'
+- '[[Changes/Gemini/2024-10-31-update-to-gemini-1-5-pro-in-gemini-advanced|Update
+  to Gemini 1.5 Pro in Gemini Advanced]]'
 - '[[Changes/OpenHands/2024-10-31-support-prompt-caching-on-the-latest-claude-3-5-sonnet-20241022-by-xingyaoww-in|Support
   prompt caching on the latest claude-3-5-sonnet-20241022]]'
 source_release: '[[Releases/Aider/aider-2024-11-01-v0-61-0-github-183132939-fbce404d|aider-2024-11-01-v0-61-0-github-183132939-fbce404d]]'

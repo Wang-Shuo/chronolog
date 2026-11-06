@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 89734dd93aab5867b2ce2eabc680d714f975e2044b5eac4fabd93d5f474971fc
+machine_hash: f71f15582d915213a9e59b701a52637318e9aaf832bdbc4e35054eb34ae0b9f0
 product: cline
 product_name: Cline
 record:
@@ -47,12 +47,12 @@ record:
     per minute!)
   type: change
 related_changes:
-- '[[Changes/Aider/2024-09-04-3-model-support-changes-in-v0-55-0|3 Model Support changes
-  in v0.55.0]]'
-- '[[Changes/OpenHands/2024-09-04-2-model-support-changes-in-0-9-2|2 Model Support
-  changes in 0.9.2]]'
+- '[[Changes/DeepSeek API/2024-09-05-deepseek-coder-deepseek-chat-upgraded-to-deepseek-v2-5-model|deepseek-coder
+  & deepseek-chat Upgraded to DeepSeek V2.5 Model]]'
 - '[[Changes/Aider/2024-09-09-3-model-support-changes-in-v0-56-0|3 Model Support changes
   in v0.56.0]]'
+- '[[Changes/Dify/2024-09-10-11-model-support-changes-in-0-8-0|11 Model Support changes
+  in 0.8.0]]'
 source_release: '[[Releases/Cline/cline-2024-09-12-v1-6-5-github-174813626-863c9e42|cline-2024-09-12-v1-6-5-github-174813626-863c9e42]]'
 source_type: github_releases
 theme: model-support
@@ -83,8 +83,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2024-09-09 · Aider · [[Changes/Aider/2024-09-09-3-model-support-changes-in-v0-56-0|3 Model Support changes in v0.56.0]]
-- Later: 2024-09-14 · Cline · [[Changes/Cline/2024-09-14-update-this-feature-is-now-opt-in-in-v1-8-0-use-problems-in-the-textarea-automat|Update: This feature is now opt-in in v1.8.0 (use @problems in the textarea)]]
+- Earlier: 2024-09-10 · Dify · [[Changes/Dify/2024-09-10-11-model-support-changes-in-0-8-0|11 Model Support changes in 0.8.0]]
+- Later: 2024-09-12 · Dify · [[Changes/Dify/2024-09-12-6-model-support-changes-in-0-8-1|6 Model Support changes in 0.8.1]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

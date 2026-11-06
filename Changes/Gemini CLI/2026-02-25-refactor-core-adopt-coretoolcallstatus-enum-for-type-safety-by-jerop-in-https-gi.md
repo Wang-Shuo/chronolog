@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: aa87b8738c9c17d32d982135770afc491481ce15fa972b32fbe69239eb791887
+machine_hash: d10d78e5023cf8c9c8946630fd902153467907311aaed9e8781f49bcded8d10d
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -42,8 +42,8 @@ record:
   title: 'refactor(core): adopt `CoreToolCallStatus` enum for type safety'
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-02-21-show-permission-elevation-dialog-when-accepting-a-plan-with-autopilot-to-prevent|Show
-  permission elevation dialog when accepting a plan with autopilot to prevent…]]'
+- '[[Changes/Open WebUI/2026-02-23-3-safety-and-privacy-changes-in-v0-8-4|3 Safety
+  and Privacy changes in v0.8.4]]'
 - '[[Changes/Claude Code/2026-02-24-3-safety-and-privacy-changes-in-v2-1-51|3 Safety
   and Privacy changes in v2.1.51]]'
 - '[[Changes/Codex CLI/2026-02-25-9-safety-and-privacy-changes-in-rust-v0-105-0|9

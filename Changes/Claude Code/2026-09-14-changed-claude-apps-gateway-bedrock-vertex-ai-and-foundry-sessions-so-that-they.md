@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: b004f937bfb4e2d5a954762924101df737a2f4ee9e710902a8f8fa52f42b5b3d
+machine_hash: 543304b41853ea1761311cf87ddf52d16a9127b3508c9cadd8a6120beaf735ef
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,12 +45,12 @@ record:
     that they…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-08-2-account-and-access-changes-in-v2-1-265|2 Account
-  and Access changes in v2.1.265]]'
-- '[[Changes/Codex CLI/2026-09-09-5-account-and-access-changes-in-rust-v0-154-0|5
-  Account and Access changes in rust-v0.154.0]]'
 - '[[Changes/Claude Code/2026-09-10-2-account-and-access-changes-in-v2-1-268|2 Account
   and Access changes in v2.1.268]]'
+- '[[Changes/Dify/2026-09-10-6-account-and-access-changes-in-1-17-1|6 Account and
+  Access changes in 1.17.1]]'
+- '[[Changes/Lovable/2026-09-11-require-two-factor-authentication-for-your-workspace|Require
+  two-factor authentication for your workspace]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-14-v2-1-271-github-388664071-570fd44f|claude-code-2026-09-14-v2-1-271-github-388664071-570fd44f]]'
 source_type: github_releases
 theme: account-access
@@ -91,7 +91,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Account and Access
 
-- Earlier: 2026-09-10 · Claude Code · [[Changes/Claude Code/2026-09-10-2-account-and-access-changes-in-v2-1-268|2 Account and Access changes in v2.1.268]]
+- Earlier: 2026-09-11 · Lovable · [[Changes/Lovable/2026-09-11-require-two-factor-authentication-for-your-workspace|Require two-factor authentication for your workspace]]
 - Later: 2026-09-15 · Claude Code · [[Changes/Claude Code/2026-09-15-4-account-and-access-changes-in-v2-1-273|4 Account and Access changes in v2.1.273]]
 <!-- chronolog:end -->
 

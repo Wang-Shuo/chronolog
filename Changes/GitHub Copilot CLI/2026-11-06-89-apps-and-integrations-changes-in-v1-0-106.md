@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 56469e6a9b7ebdf02b77d7bdff3d96c03ed406d0d0a9e5f361fa1b969fc72665
+machine_hash: e88318d216a0e49d72606ecedb78f730cc92c956470dd2d88bc5bb68919fec08
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -319,8 +319,8 @@ record:
   title: 89 Apps and Integrations changes in v1.0.106
   type: change
 related_changes:
-- '[[Changes/OpenHands/2026-11-03-3-apps-and-integrations-changes-in-v1-35-0|3 Apps
-  and Integrations changes in v1.35.0]]'
+- '[[Changes/Dify/2026-11-04-15-apps-and-integrations-changes-in-1-19-0|15 Apps and
+  Integrations changes in 1.19.0]]'
 - '[[Changes/OpenHands/2026-11-05-3-apps-and-integrations-changes-in-v1-36-0|3 Apps
   and Integrations changes in v1.36.0]]'
 - '[[Changes/Codex CLI/2026-11-06-12-apps-and-integrations-changes-in-rust-v0-167-0|12

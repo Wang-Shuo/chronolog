@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: e134d923a80ca4ae1ca0d16c34aac900a8b5d3a24d1f2efff708922ee151a5ad
+machine_hash: baa4a1d0b615e0f786cf15de946e72fe2c421d82e45445b3303034f01f6430ed
 product: windsurf
 product_name: Windsurf
 record:
@@ -53,12 +53,12 @@ record:
     own…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-21-2-account-and-access-changes-in-v2-1-307|2 Account
-  and Access changes in v2.1.307]]'
 - '[[Changes/Codex CLI/2026-10-23-24-account-and-access-changes-in-rust-v0-164-0|24
   Account and Access changes in rust-v0.164.0]]'
 - '[[Changes/Codex CLI/2026-10-23-the-amazon-bedrock-setup-wizard-is-now-enabled-by-default-with-api-key-entry-gro|The
   Amazon Bedrock setup wizard is now enabled by default, with API key entry…]]'
+- '[[Changes/Dify/2026-10-23-6-account-and-access-changes-in-1-18-0|6 Account and
+  Access changes in 1.18.0]]'
 source_release: '[[Releases/Windsurf/windsurf-2026-10-24-v3-11-216-5e8fa8fb|windsurf-2026-10-24-v3-11-216-5e8fa8fb]]'
 source_type: windsurf_changelog
 theme: account-access
@@ -89,8 +89,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Account and Access
 
-- Earlier: 2026-10-23 · Codex CLI · [[Changes/Codex CLI/2026-10-23-the-amazon-bedrock-setup-wizard-is-now-enabled-by-default-with-api-key-entry-gro|The Amazon Bedrock setup wizard is now enabled by default, with API key entry…]]
-- Later: 2026-10-26 · Claude Code · [[Changes/Claude Code/2026-10-26-improved-the-message-shown-when-a-pasted-sign-in-code-is-refused-it-now-says-the|Improved the message shown when a pasted sign-in code is refused]]
+- Earlier: 2026-10-23 · Dify · [[Changes/Dify/2026-10-23-6-account-and-access-changes-in-1-18-0|6 Account and Access changes in 1.18.0]]
+- Later: 2026-10-25 · Open WebUI · [[Changes/Open WebUI/2026-10-25-5-account-and-access-changes-in-v0-12-4|5 Account and Access changes in v0.12.4]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: cb64e3ba5b520210d9e017f0fa9a33e01edbd219e4520d4723bf096e73ff7fe6
+machine_hash: 47ef27d7f43689319749aad16c1f4cfdd8d1b110743edb2d6adfe7795ddde212
 product: cline
 product_name: Cline
 record:
@@ -47,10 +47,10 @@ record:
     the editor…'
   type: change
 related_changes:
-- '[[Changes/Cline/2024-09-05-claude-s-changes-now-appear-in-your-file-s-timeline-allowing-you-to-easily-view|Claude''s
-  changes now appear in your file''s Timeline, allowing you to easily view…]]'
-- '[[Changes/Cursor/2024-09-17-update-0-41-1-0-41-3-improves-onboarding-ux-fixes-a-bug-with-composer-cancellati|UPDATE
-  (0.41.1–0.41.3): Improves onboarding UX, fixes a bug with composer…]]'
+- "[[Changes/Open WebUI/2024-09-19-enhanced-error-messaging-system-now-displays-helpful-error-messages-directly-to|\U0001F9E0
+  Enhanced Error Messaging]]"
+- "[[Changes/Open WebUI/2024-09-26-chat-rename-tab-update-fixed-the-functionality-to-change-the-web-browser-s-tab-t|\U0001F3F7️
+  Chat Rename Tab Update]]"
 - '[[Changes/Aider/2024-09-29-3-editor-experience-changes-in-v0-58-0|3 Editor Experience
   changes in v0.58.0]]'
 source_release: '[[Releases/Cline/cline-2024-10-09-v2-0-0-github-179063623-cccde13e|cline-2024-10-09-v2-0-0-github-179063623-cccde13e]]'

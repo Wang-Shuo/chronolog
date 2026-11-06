@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 2918d20df2ebf55878157c74b5e4c08ffaeb42e73fc4d398bf483ce90abaa224
+machine_hash: dffb90db671ec341653c6764f1fe69d3198846767547aea4dd8597f3fc4671bf
 product: openhands
 product_name: OpenHands
 record:
@@ -43,10 +43,10 @@ record:
   title: 2 Account and Access changes in v1.19.0
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-14-changed-claude-apps-gateway-bedrock-vertex-ai-and-foundry-sessions-so-that-they|Changed
-  Claude apps gateway, Bedrock, Vertex AI, and Foundry sessions so that they…]]'
 - '[[Changes/Claude Code/2026-09-15-4-account-and-access-changes-in-v2-1-273|4 Account
   and Access changes in v2.1.273]]'
+- '[[Changes/Ollama/2026-09-15-added-first-run-setup-when-running-ollama-with-options-to-sign-in-or-continue-lo|Added
+  first-run setup when running ollama, with options to sign in or continue locally]]'
 - '[[Changes/GitHub Copilot CLI/2026-09-16-4-account-and-access-changes-in-v1-0-85|4
   Account and Access changes in v1.0.85]]'
 source_release: '[[Releases/OpenHands/openhands-2026-09-16-v1-19-0-github-390206611-a05af427|openhands-2026-09-16-v1-19-0-github-390206611-a05af427]]'

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 1398429d08407ce1f329a670ea175d0f9a754418fe51c8dc8008704a28ed98d0
+machine_hash: 606b2feb479ccbb12587b3fd46edae6b0f8f1244507d921aea8eae476a32cf97
 product: cline
 product_name: Cline
 record:
@@ -49,10 +49,10 @@ record:
   title: 4 Model Support changes in v3.20.3
   type: change
 related_changes:
-- '[[Changes/OpenHands/2025-07-24-2-model-support-changes-in-0-50-0|2 Model Support
-  changes in 0.50.0]]'
 - '[[Changes/Gemini CLI/2025-07-25-11-model-support-changes-in-v0-1-14|11 Model Support
   changes in v0.1.14]]'
+- '[[Changes/Dify/2025-07-28-2-model-support-changes-in-1-7-1|2 Model Support changes
+  in 1.7.1]]'
 - '[[Changes/Gemini CLI/2025-07-30-11-model-support-changes-in-v0-1-15|11 Model Support
   changes in v0.1.15]]'
 source_release: '[[Releases/Cline/cline-2025-07-31-v3-20-3-github-236462952-0ca11a50|cline-2025-07-31-v3-20-3-github-236462952-0ca11a50]]'

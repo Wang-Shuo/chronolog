@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 6e61f4f02558131a8479a14443e842af1a61d27336d7c1772b5bcb84651b1fd4
+machine_hash: 4d28d6e6f797a2d8f325aa8e7bfe04662d011835ca1226c3689111c686913f35
 product: claude-code
 product_name: Claude Code
 record:
@@ -86,7 +86,7 @@ type: change
 ## Nearby in Model Support
 
 - Earlier: 2026-07-11 · Cline · [[Changes/Cline/2026-07-11-add-more-models-to-the-gcp-vertex-provider-plus-a-free-form-entry-option-in-the|Add more models to the GCP Vertex provider, plus a free-form entry option…]]
-- Later: 2026-07-16 · Cline · [[Changes/Cline/2026-07-16-add-gpt-5-6-chatgpt-subscription-models|Add GPT-5.6 ChatGPT subscription models]]
+- Later: 2026-07-15 · Lovable · [[Changes/Lovable/2026-07-15-gpt-5-6-and-gemini-text-to-speech-models-for-your-app-s-ai-features|GPT-5.6 and Gemini text-to-speech models for your app's AI features]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

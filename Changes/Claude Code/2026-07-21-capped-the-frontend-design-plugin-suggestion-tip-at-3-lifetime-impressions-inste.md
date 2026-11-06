@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 3a0adb7934a8c02ee5e47c45aa51da93f190f39f9a0963c6d653afc77e041e96
+machine_hash: 0bc3c3fb67ffe68df447b545681831a27807179c70ce2dd1d3fc524aa2106ad4
 product: claude-code
 product_name: Claude Code
 record:
@@ -43,10 +43,9 @@ record:
     instead…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-07-18-changed-sessionstart-hooks-to-report-source-fork-when-a-session-begins-as-a-fork|Changed
-  SessionStart hooks to report source "fork" when a session begins as a fork…]]'
 - '[[Changes/Claude Code/2026-07-20-background-sessions-mcp-and-install-github-app-now-park-a-needs-input-request-in|Background
   sessions: /mcp and /install-github-app now park…]]'
+- '[[Changes/ElevenLabs/2026-07-20-sdk-releases|SDK Releases]]'
 - '[[Changes/GitHub Copilot CLI/2026-07-20-10-apps-and-integrations-changes-in-v1-0-72|10
   Apps and Integrations changes in v1.0.72]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-07-21-v2-1-217-github-357601516-b5c19f5d|claude-code-2026-07-21-v2-1-217-github-357601516-b5c19f5d]]'

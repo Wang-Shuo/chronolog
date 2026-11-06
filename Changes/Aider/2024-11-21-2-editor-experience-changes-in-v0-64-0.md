@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 14ca78907d41702389c9289357c3c95795825c715bee9c87e407b83a70b133df
+machine_hash: 52ecb61837a7239896da28f7f30216b9d7832954c214af7155104097a488034f
 product: aider
 product_name: Aider
 record:
@@ -44,12 +44,12 @@ record:
   title: 2 Editor Experience changes in v0.64.0
   type: change
 related_changes:
-- '[[Changes/Cursor/2024-10-09-vs-code-1-93-1-cursor-is-now-based-on-vs-code-1-93-1-c087f6|VS
-  Code 1.93.1: Cursor is now based on VS Code 1.93.1]]'
-- '[[Changes/Aider/2024-10-22-2-editor-experience-changes-in-v0-60-0|2 Editor Experience
-  changes in v0.60.0]]'
-- '[[Changes/Aider/2024-11-04-run-aider-apply-clipboard-edits-file-to-edit-js|Run
-  aider --apply-clipboard-edits file-to-edit.js]]'
+- '[[Changes/Gemini/2024-11-19-priority-access-with-gemini-advanced-ask-gemini-to-remember-the-things-you-care|Priority
+  access with Gemini Advanced]]'
+- "[[Changes/Open WebUI/2024-11-19-auto-selected-tools-in-model-editor-tools-enabled-through-the-model-editor-are-n|\U0001F527
+  Auto-Selected Tools in Model Editor]]"
+- "[[Changes/Open WebUI/2024-11-20-usage-capability-selector-fixed-the-broken-usage-capabilities-selector-in-the-mo|\U0001F527
+  Usage Capability Selector]]"
 source_release: '[[Releases/Aider/aider-2024-11-21-v0-64-0-github-186737977-90b8b4cc|aider-2024-11-21-v0-64-0-github-186737977-90b8b4cc]]'
 source_type: github_releases
 theme: editor-experience
@@ -85,8 +85,8 @@ Source: https://github.com/Aider-AI/aider/releases/tag/v0.64.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2024-11-04 · Aider · [[Changes/Aider/2024-11-04-run-aider-apply-clipboard-edits-file-to-edit-js|Run aider --apply-clipboard-edits file-to-edit.js]]
-- Later: 2024-11-26 · Aider · [[Changes/Aider/2024-11-26-editor-returns-and-prefill-the-file-content-into-the-prompt-so-you-can-use-edito|/editor returns and prefill the file content into the prompt, so you can use…]]
+- Earlier: 2024-11-20 · Open WebUI · [[Changes/Open WebUI/2024-11-20-usage-capability-selector-fixed-the-broken-usage-capabilities-selector-in-the-mo|🔧 Usage Capability Selector]]
+- Later: 2024-11-25 · Dify · [[Changes/Dify/2024-11-25-feat-add-japanese-translations-for-api-documentation-chat-advanced-chat-completi|feat : Add Japanese translations for API documentation: chat, advanced-chat…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

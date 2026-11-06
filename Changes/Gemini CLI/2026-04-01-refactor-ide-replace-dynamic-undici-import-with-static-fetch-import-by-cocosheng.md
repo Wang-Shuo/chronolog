@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: e6cab505c35a721f1598b96c5173b0cb0bf18c52f74acb5d5ffc1338422057a0
+machine_hash: 3527703a4c71b6793e37c4e8c2c32ce5efb48652719b939090e859cb76911d36
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -42,8 +42,8 @@ record:
   title: 'refactor(ide): replace dynamic undici import with static fetch import'
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-03-27-added-jj-and-sl-to-vcs-directory-exclusion-lists-so-grep-and-file-autocomplete-d|Added
-  .jj and .sl to VCS directory exclusion lists so Grep and file autocomplete…]]'
+- '[[Changes/Dify/2026-03-27-2-editor-experience-changes-in-1-13-3|2 Editor Experience
+  changes in 1.13.3]]'
 - '[[Changes/Codex CLI/2026-03-31-16021-fix-copy-regression-in-tui-app-server-turn-completion-etraut-openai|♯16021
   Fix /copy regression in tui_app_server turn completion @etraut-openai]]'
 - '[[Changes/Claude Code/2026-04-01-changed-edit-to-work-on-files-viewed-via-bash-with-sed-n-or-cat-without-requirin|Changed

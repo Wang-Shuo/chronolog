@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 7c2de5925935c77342a0efd6de34127c314a1aeeae6f7b6c6eeeb7b881ed50ca
+machine_hash: 329afe5d8a84ff71f4974a93d862682439388cf76b5a5b45a8688026a36340f7
 product: windsurf
 product_name: Windsurf
 record:
@@ -46,10 +46,10 @@ record:
   title: GPT-5.1-Codex Max
   type: change
 related_changes:
-- '[[Changes/Cline/2025-12-04-feat-set-default-thinking-level-for-gemini-3-pro-models-by-abeatrix-in-https-git|feat:
-  set default thinking level for Gemini 3 Pro models]]'
 - '[[Changes/Codex CLI/2025-12-04-6-model-support-changes-in-rust-v0-65-0|6 Model
   Support changes in rust-v0.65.0]]'
+- '[[Changes/Gemini/2025-12-04-solve-even-more-complex-problems-with-gemini-3-deep-think|Solve
+  even more complex problems with Gemini 3 Deep Think]]'
 - '[[Changes/Windsurf/2025-12-04-1-12-39-gpt-5-1-codex-max-changelog-banner|1.12.39
   GPT-5.1 Codex Max changelog banner]]'
 source_release: '[[Releases/Windsurf/windsurf-2025-12-04-v1-12-39-ea6f49db|windsurf-2025-12-04-v1-12-39-ea6f49db]]'
@@ -80,7 +80,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2025-12-04 · Codex CLI · [[Changes/Codex CLI/2025-12-04-6-model-support-changes-in-rust-v0-65-0|6 Model Support changes in rust-v0.65.0]]
+- Earlier: 2025-12-04 · Gemini · [[Changes/Gemini/2025-12-04-solve-even-more-complex-problems-with-gemini-3-deep-think|Solve even more complex problems with Gemini 3 Deep Think]]
 - Later: 2025-12-05 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2025-12-05-gpt-5-1-codex-max-is-now-available-in-github-copilot-cli|GPT-5.1-Codex-Max is now available in GitHub Copilot CLI]]
 <!-- chronolog:end -->
 

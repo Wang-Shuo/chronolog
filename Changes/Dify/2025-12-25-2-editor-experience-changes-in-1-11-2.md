@@ -1,0 +1,108 @@
+---
+card_id: dify-2025-12-25-c94aba
+date: '2025-12-25'
+description: 'Dify · 2025-12-25 · Editor Experience: 2 changes in v1.11.2 — refactor:
+  split changes for api/controllers/web/completion.py by @asukaminato0721 in…'
+diffusion:
+  first_in_tracked: '[[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3
+    Editor Experience changes in 0.0.37]]'
+  inference: No adoption, equivalence, or causation claim.
+  lag_days: 1017
+  relation: same-theme-chronology
+  role: later-observed
+  scope: tracked-products-only
+  theme: editor-experience
+  tracked_products_count: 20
+evolves_from: []
+extractor_version: fallback-v5
+impact: incremental
+kind: digest
+machine_hash: 69ca6ffa26ed77954c84788843d1378b87eb63e885100dcf3a06dc1268067581
+product: dify
+product_name: Dify
+record:
+  card_id: dify-2025-12-25-c94aba
+  comparison: ''
+  date: '2025-12-25'
+  description: 'Dify — v1.11.2: 2 Editor Experience changes'
+  evidence:
+  - quote: 'refactor: split changes for api/controllers/web/completion.py by @asukaminato0721
+      in https://github.com/langgenius/dify/pull/29855'
+    source_release: https://github.com/langgenius/dify/releases/tag/1.11.2
+  - quote: 'feat: allow user close the tab to sync the draft by @fatelei in https://github.com/langgenius/dify/pull/30034'
+    source_release: https://github.com/langgenius/dify/releases/tag/1.11.2
+  extractor_version: fallback-v5
+  impact: incremental
+  kind: digest
+  product: dify
+  product_name: Dify
+  slug: 2-editor-experience-changes-in-1-11-2
+  source_release: dify-2025-12-25-1-11-2-github-272776889-1d40e2fa
+  source_type: github_releases
+  theme: editor-experience
+  title: 2 Editor Experience changes in 1.11.2
+  type: change
+related_changes:
+- '[[Changes/Gemini CLI/2025-12-22-4-editor-experience-changes-in-v0-22-0|4 Editor
+  Experience changes in v0.22.0]]'
+- '[[Changes/Lovable/2025-12-23-mention-code-files-in-chat|Mention code files in chat]]'
+- '[[Changes/Windsurf/2025-12-24-2-editor-experience-changes-in-v1-13-3|2 Editor Experience
+  changes in v1.13.3]]'
+source_release: '[[Releases/Dify/dify-2025-12-25-1-11-2-github-272776889-1d40e2fa|dify-2025-12-25-1-11-2-github-272776889-1d40e2fa]]'
+source_type: github_releases
+theme: editor-experience
+title: 2 Editor Experience changes in 1.11.2
+type: change
+---
+
+<!-- chronolog:begin region="header" -->
+# 2 Editor Experience changes in 1.11.2
+
+**Dify** · 2025-12-25 · [[Themes/editor-experience|Editor Experience]] · Digest · [Official source](https://github.com/langgenius/dify/releases/tag/1.11.2) · from [[Releases/Dify/dify-2025-12-25-1-11-2-github-272776889-1d40e2fa|v1.11.2]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="evidence" -->
+## Changes in this digest
+
+> refactor: split changes for api/controllers/web/completion.py by @asukaminato0721 in https://github.com/langgenius/dify/pull/29855
+
+> feat: allow user close the tab to sync the draft by @fatelei in https://github.com/langgenius/dify/pull/30034
+
+Source: https://github.com/langgenius/dify/releases/tag/1.11.2
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="context" -->
+## Also in this release
+
+- [[Changes/Dify/2025-12-25-feat-show-generate-speed-in-chatbot-by-leslie2046-in-https-github-com-langgenius|feat: show generate speed in chatbot]] · Reliability and Performance
+- [[Changes/Dify/2025-12-25-test-add-unit-tests-for-datasetconfig-component-with-comprehensive-coverage-of-r|test: add unit tests for DatasetConfig component with comprehensive coverage…]] · Context Window
+- [[Changes/Dify/2025-12-25-2-agent-mode-changes-in-1-11-2|2 Agent Mode changes in 1.11.2]] · Agent Mode
+- [[Changes/Dify/2025-12-25-chore-add-apptypeselector-tests-and-improve-clear-button-accessibility-by-lyzno1|chore: add AppTypeSelector tests and improve clear button accessibility]] · Accessibility and Localization
+- [[Changes/Dify/2025-12-25-12-apps-and-integrations-changes-in-1-11-2|12 Apps and Integrations changes in 1.11.2]] · Apps and Integrations
+- [[Changes/Dify/2025-12-25-3-pricing-model-changes-in-1-11-2|3 Pricing Model changes in 1.11.2]] · Pricing Model
+- [[Changes/Dify/2025-12-25-refactor-create-shared-react-i18next-mock-to-reduce-duplication-by-lyzno1-in-htt|refactor: create shared react-i18next mock to reduce duplication]] · Collaboration
+- [[Changes/Dify/2025-12-25-2-developer-workflow-changes-in-1-11-2|2 Developer Workflow changes in 1.11.2]] · Developer Workflow
+- [[Changes/Dify/2025-12-25-refactor-split-changes-for-api-controllers-web-audio-py-by-asukaminato0721-in-ht|refactor: split changes for api/controllers/web/audio.py]] · Voice and Audio
+- [[Changes/Dify/2025-12-25-add-file-upload-enabled-check-and-new-i18n-message-by-halogen22-in-https-github|Add file upload enabled check and new i18n message]] · Files and Data
+- [[Changes/Dify/2025-12-25-feat-add-type-field-to-pipelinerecommendedplugin-model-add-query-param-type-to-r|feat: Add "type" field to PipelineRecommendedPlugin model]] · Model Support
+- [[Changes/Dify/2025-12-25-chore-remove-unused-login-call-from-activation-flow-by-hjlarry-in-https-github-c|chore: remove unused login call from activation flow]] · Account and Access
+- [[Changes/Dify/2025-12-25-3-safety-and-privacy-changes-in-1-11-2|3 Safety and Privacy changes in 1.11.2]] · Safety and Privacy
+- [[Changes/Dify/2025-12-25-137-other-changes-in-1-11-2|137 other changes in 1.11.2]] · Other changes
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="nearby" -->
+## Nearby in Editor Experience
+
+- Earlier: 2025-12-24 · Windsurf · [[Changes/Windsurf/2025-12-24-2-editor-experience-changes-in-v1-13-3|2 Editor Experience changes in v1.13.3]]
+- Later: 2025-12-27 · Windsurf · [[Changes/Windsurf/2025-12-27-tab-fixes-and-improvements|Tab fixes and improvements]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="relations" -->
+## Related
+
+- Earliest same-theme entry in the tracked set: 2023-03-14 · Cursor · [[Changes/Cursor/2023-03-14-3-editor-experience-changes-in-0-0-37|3 Editor Experience changes in 0.0.37]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="footer" -->
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20dify-2025-12-25-c94aba&body=Card%3A%20Changes%2FDify%2F2025-12-25-2-editor-experience-changes-in-1-11-2.md%0ACard%20ID%3A%20dify-2025-12-25-c94aba%0ASource%3A%20https%3A%2F%2Fgithub.com%2Flanggenius%2Fdify%2Freleases%2Ftag%2F1.11.2%0A%0AWhat%20should%20be%20corrected%3F%0A)
+<!-- chronolog:end -->

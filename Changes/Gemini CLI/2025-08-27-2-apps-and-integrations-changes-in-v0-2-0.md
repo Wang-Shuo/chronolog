@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 8f772c34ee59b6770809d2929cb52db3f9dfd03b46c9c200f9e325ba64d2590b
+machine_hash: e56594fd301d471b9f4e568021d747fbb4b0015a33b6e11c6a438523838f4704
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -42,12 +42,12 @@ record:
   title: 2 Apps and Integrations changes in v0.2.0
   type: change
 related_changes:
-- '[[Changes/Cline/2025-08-21-feat-telemetry-add-mcp-tool-usage-tracking-by-nighttrek-in-https-github-com-clin|feat(telemetry):
-  Add MCP tool usage tracking]]'
-- '[[Changes/Cursor/2025-08-21-cursor-now-supports-mcp-elicitation-a-new-feature-in-the-mcp-spec-that-allows-se|Support
-  for MCP elicitation]]'
+- "[[Changes/Open WebUI/2025-08-22-tool-server-loading-and-visibility-restored-resolved-an-issue-where-connected-to|\U0001F6E0️
+  Tool Server Loading and Visibility Restored]]"
 - '[[Changes/Codex CLI/2025-08-26-5-apps-and-integrations-changes-in-rust-v0-24-0|5
   Apps and Integrations changes in rust-v0.24.0]]'
+- '[[Changes/Dify/2025-08-27-11-apps-and-integrations-changes-in-1-8-0|11 Apps and
+  Integrations changes in 1.8.0]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2025-08-27-v0-2-0-github-242746793-f18a717d|gemini-cli-2025-08-27-v0-2-0-github-242746793-f18a717d]]'
 source_type: github_releases
 theme: apps-integrations
@@ -82,8 +82,8 @@ Source: https://github.com/google-gemini/gemini-cli/releases/tag/v0.2.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2025-08-26 · Codex CLI · [[Changes/Codex CLI/2025-08-26-5-apps-and-integrations-changes-in-rust-v0-24-0|5 Apps and Integrations changes in rust-v0.24.0]]
-- Later: 2025-08-29 · Codex CLI · [[Changes/Codex CLI/2025-08-29-3-apps-and-integrations-changes-in-rust-v0-26-0|3 Apps and Integrations changes in rust-v0.26.0]]
+- Earlier: 2025-08-27 · Dify · [[Changes/Dify/2025-08-27-11-apps-and-integrations-changes-in-1-8-0|11 Apps and Integrations changes in 1.8.0]]
+- Later: 2025-08-28 · Open WebUI · [[Changes/Open WebUI/2025-08-28-configurable-file-upload-processing-mode-added-process-in-background-query-param|📁 Configurable File Upload Processing Mode]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

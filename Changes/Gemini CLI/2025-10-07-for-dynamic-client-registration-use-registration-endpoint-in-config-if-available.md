@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: e9d8ef1e30bb04b36d5b9757c71cbfd90c61250d88f560197c2acf3bddf8963a
+machine_hash: 6e94d139d86166af7eef5a14211deac478d7fce24c0ec8d35be0466be3fda863
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -44,12 +44,11 @@ record:
     available…
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-09-29-1-7-41-token-sync-improvements-for-authentication|1.7.41:
-  Token sync improvements for authentication]]'
 - '[[Changes/Codex CLI/2025-10-03-4568-fix-hang-on-second-oauth-login-attempt|♯4568
   Fix hang on second oauth login attempt]]'
 - '[[Changes/Codex CLI/2025-10-06-3-account-and-access-changes-in-rust-v0-45-0|3 Account
   and Access changes in rust-v0.45.0]]'
+- '[[Changes/Lovable/2025-10-06-lovable-cloud|Lovable Cloud]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2025-10-07-v0-8-0-github-252858757-2ecdc728|gemini-cli-2025-10-07-v0-8-0-github-252858757-2ecdc728]]'
 source_type: github_releases
 theme: account-access
@@ -88,8 +87,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Account and Access
 
-- Earlier: 2025-10-06 · Codex CLI · [[Changes/Codex CLI/2025-10-06-3-account-and-access-changes-in-rust-v0-45-0|3 Account and Access changes in rust-v0.45.0]]
-- Later: 2025-10-08 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2025-10-08-updated-the-oauth-login-ui-to-begin-polling-as-soon-as-the-device-code-is-genera|Updated the OAuth login UI to begin polling as soon as the device code is generated…]]
+- Earlier: 2025-10-06 · Lovable · [[Changes/Lovable/2025-10-06-lovable-cloud|Lovable Cloud]]
+- Later: 2025-10-07 · Open WebUI · [[Changes/Open WebUI/2025-10-07-10-account-and-access-changes-in-v0-6-33|10 Account and Access changes in v0.6.33]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

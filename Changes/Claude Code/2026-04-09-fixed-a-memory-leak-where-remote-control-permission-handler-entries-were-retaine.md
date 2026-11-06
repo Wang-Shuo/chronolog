@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: fix
-machine_hash: 260db60f3af365d09db146443e5cfd4126d5c736cd152a451a59a0711987e845
+machine_hash: eca6bd52b92f17934b4941ec16687b3c6208d6add4c58cc5e122c36cade57338
 product: claude-code
 product_name: Claude Code
 record:
@@ -46,12 +46,12 @@ record:
     retained…
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-04-02-large-file-diff-rendering-is-now-much-faster-smoother-and-less-memory-heavy|Large-file
-  diff rendering is now much faster, smoother, and less memory-heavy]]'
 - '[[Changes/Claude Code/2026-04-04-improved-write-tool-diff-computation-speed-for-large-files-60-faster-on-files-wi|Improved
   Write tool diff computation speed for large files…]]'
 - '[[Changes/GitHub Copilot CLI/2026-04-07-reduce-memory-usage-by-automatically-shutting-down-shell-sessions-that-are-no-lo|Reduce
   memory usage by automatically shutting down shell sessions that are no longer…]]'
+- '[[Changes/Ollama/2026-04-07-mlx-improve-m5-performance-with-nax|mlx: Improve M5
+  performance with NAX]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-04-09-v2-1-98-github-307232194-a0774436|claude-code-2026-04-09-v2-1-98-github-307232194-a0774436]]'
 source_type: github_releases
 theme: reliability-performance
@@ -87,7 +87,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2026-04-07 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-04-07-reduce-memory-usage-by-automatically-shutting-down-shell-sessions-that-are-no-lo|Reduce memory usage by automatically shutting down shell sessions that are no longer…]]
+- Earlier: 2026-04-07 · Ollama · [[Changes/Ollama/2026-04-07-mlx-improve-m5-performance-with-nax|mlx: Improve M5 performance with NAX]]
 - Later: 2026-04-09 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-04-09-improved-rendering-performance-with-a-new-simplified-inline-renderer|Improved rendering performance with a new simplified inline renderer]]
 <!-- chronolog:end -->
 

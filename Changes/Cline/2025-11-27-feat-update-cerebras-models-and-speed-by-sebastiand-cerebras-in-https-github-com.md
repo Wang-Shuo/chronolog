@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 445404f562ddef03e0c6e7ebde6a3a170d6709bb2b4a9af8b2941063d808bb48
+machine_hash: c3273b9aad9c9a233e8c1a052d65db7887c63ecf717c3c493fb58de783942fa4
 product: cline
 product_name: Cline
 record:
@@ -51,11 +51,12 @@ record:
   title: 'feat: update Cerebras models and speed'
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2025-11-17-improve-ctrl-c-performance|Improve Ctrl+C
-  performance]]'
-- '[[Changes/Codex CLI/2025-11-19-native-compaction-support-added-first-class-support-for-compaction-improving-per|Native
-  Compaction Support]]'
-- '[[Changes/Windsurf/2025-11-21-general-improvements|General Improvements]]'
+- "[[Changes/Open WebUI/2025-11-25-various-improvements-were-implemented-across-the-frontend-and-backend-to-enhance|\U0001F504
+  Various improvements were implemented across the frontend and backend to enhance…]]"
+- "[[Changes/Open WebUI/2025-11-25-a-critical-postgresql-user-listing-performance-issue-was-resolved-by-removing-a|\U0001F5C4️
+  A critical PostgreSQL user listing performance issue was resolved by removing…]]"
+- '[[Changes/Dify/2025-11-26-4-reliability-and-performance-changes-in-1-10-1|4 Reliability
+  and Performance changes in 1.10.1]]'
 source_release: '[[Releases/Cline/cline-2025-11-27-v3-38-3-github-265611552-4d743450|cline-2025-11-27-v3-38-3-github-265611552-4d743450]]'
 source_type: github_releases
 theme: reliability-performance
@@ -91,8 +92,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2025-11-21 · Windsurf · [[Changes/Windsurf/2025-11-21-general-improvements|General Improvements]]
-- Later: 2025-12-04 · Codex CLI · [[Changes/Codex CLI/2025-12-04-2-reliability-and-performance-changes-in-rust-v0-65-0|2 Reliability and Performance changes in rust-v0.65.0]]
+- Earlier: 2025-11-26 · Dify · [[Changes/Dify/2025-11-26-4-reliability-and-performance-changes-in-1-10-1|4 Reliability and Performance changes in 1.10.1]]
+- Later: 2025-12-02 · Open WebUI · [[Changes/Open WebUI/2025-12-02-4-reliability-and-performance-changes-in-v0-6-41|4 Reliability and Performance changes in v0.6.41]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

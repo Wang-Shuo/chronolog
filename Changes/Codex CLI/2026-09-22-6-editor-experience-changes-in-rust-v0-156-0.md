@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 375ba69898c5676117077ddb71f564bac13da6416fcc248ed804207a51006e02
+machine_hash: a1c0bc4f7516ee22f381a1bb4cd4f9dbe76209f510196e634ba8f438f63d4fc1
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -52,10 +52,10 @@ record:
   title: 6 Editor Experience changes in rust-v0.156.0
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-09-17-2-editor-experience-changes-in-v1-0-86|2
-  Editor Experience changes in v1.0.86]]'
-- '[[Changes/Claude Code/2026-09-18-2-editor-experience-changes-in-v2-1-277|2 Editor
-  Experience changes in v2.1.277]]'
+- '[[Changes/Lovable/2026-09-20-organize-project-files-into-collections|Organize project
+  files into collections]]'
+- '[[Changes/Open WebUI/2026-09-21-21-editor-experience-changes-in-v0-11-4|21 Editor
+  Experience changes in v0.11.4]]'
 - '[[Changes/Claude Code/2026-09-22-vscode-changed-open-in-new-tab-to-open-claude-beside-the-editor-group-you-are-wo|VSCode
   Changed "Open in New Tab" to open Claude beside the editor group you…]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-09-22-rust-v0-156-0-github-394061815-b23dd5f4|codex-cli-2026-09-22-rust-v0-156-0-github-394061815-b23dd5f4]]'

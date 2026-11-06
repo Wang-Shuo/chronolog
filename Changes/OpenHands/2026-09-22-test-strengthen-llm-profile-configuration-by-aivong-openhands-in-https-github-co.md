@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: cbb73cc9b936a00637bdf32e9fba4207a611caf0914f927585eaedd94f5b09f5
+machine_hash: bfbb19f3b23c36002370d623cbdb52368845a1bc73e9781c4192d629045b8288
 product: openhands
 product_name: OpenHands
 record:
@@ -81,7 +81,7 @@ type: change
 ## Nearby in Model Support
 
 - Earlier: 2026-09-22 · Codex CLI · [[Changes/Codex CLI/2026-09-22-25-model-support-changes-in-rust-v0-156-0|25 Model Support changes in rust-v0.156.0]]
-- Later: 2026-09-23 · Claude Code · [[Changes/Claude Code/2026-09-23-improved-interactive-startup-time-git-reads-startup-telemetry-and-the-bedrock-ve|Improved interactive startup time]]
+- Later: 2026-09-22 · v0 · [[Changes/v0/2026-09-22-the-updated-model-picker-lets-you-browse-and-search-available-ai-gateway-models|More model choices, with Enterprise owner controls]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

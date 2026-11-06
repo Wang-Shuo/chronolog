@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: cd10e5fd933c93ba40a963790221189f34d1224f323f9c8ba18f77c666386a75
+machine_hash: c7bc2559de862e4a9b67259e1a261c1c359bf63106a81c9af93fd8320b56dc1b
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,8 +45,8 @@ record:
   title: 2 Pricing Model changes in v2.1.268
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-09-03-41944-https-github-com-openai-codex-pull-41944-emit-turn-cost-telemetry-for-chat|♯41944((source
-  link) Emit turn cost telemetry…]]'
+- '[[Changes/Lovable/2026-09-07-transfer-primary-ownership-of-your-workspace|Transfer
+  primary ownership of your workspace]]'
 - '[[Changes/ChatGPT/2026-09-09-pro-200-month-unlimited-gpt-live-1-usage|Pro ($200/month):
   Unlimited GPT-Live-1 usage]]'
 - '[[Changes/ChatGPT/2026-09-09-pro-100-month-up-to-15-hours-with-gpt-live-1|Pro ($100/month):
@@ -95,7 +95,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.268
 ## Nearby in Pricing Model
 
 - Earlier: 2026-09-09 · ChatGPT · [[Changes/ChatGPT/2026-09-09-pro-100-month-up-to-15-hours-with-gpt-live-1|Pro ($100/month): Up to 15 hours with GPT-Live-1]]
-- Later: 2026-09-14 · Claude Code · [[Changes/Claude Code/2026-09-14-added-support-for-a-multiplier-above-1-up-to-10-in-the-modelpricing-managed-sett|Added support for a multiplier above 1, up to 10, in the modelPricing managed…]]
+- Later: 2026-09-10 · Dify · [[Changes/Dify/2026-09-10-4-pricing-model-changes-in-1-17-1|4 Pricing Model changes in 1.17.1]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

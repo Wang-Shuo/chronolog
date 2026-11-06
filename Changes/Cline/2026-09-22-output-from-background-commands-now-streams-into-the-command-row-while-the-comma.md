@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 22a90e1a8c3048812156296f727cf896e7463de11170fde4f6d9e9e89bd67878
+machine_hash: d75e9c440250560b3a7b466cc1c2427abbdb72d871f817436a2505f23a718d97
 product: cline
 product_name: Cline
 record:
@@ -44,10 +44,10 @@ record:
     command…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-18-improved-ultrareview-when-there-s-nothing-to-review-messages-say-which-case-you|Improved
-  /ultrareview when there''s nothing to review]]'
 - '[[Changes/GitHub Copilot CLI/2026-09-21-5-developer-workflow-changes-in-v1-0-87|5
   Developer Workflow changes in v1.0.87]]'
+- '[[Changes/Open WebUI/2026-09-21-39-developer-workflow-changes-in-v0-11-4|39 Developer
+  Workflow changes in v0.11.4]]'
 - '[[Changes/Claude Code/2026-09-22-3-developer-workflow-changes-in-v2-1-280|3 Developer
   Workflow changes in v2.1.280]]'
 source_release: '[[Releases/Cline/cline-2026-09-22-v4-1-20-github-394105689-95df91cb|cline-2026-09-22-v4-1-20-github-394105689-95df91cb]]'

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: fa27c4f3b559f15e8828b869408a69001923c4cf5a571ab234806ff827bad91b
+machine_hash: 227d24b819e2e3d17ef4c4bc02d1d4b33eb36336852e1dc552997e7fca17d120
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -97,7 +97,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.107.0
 ## Nearby in Editor Experience
 
 - Earlier: 2026-02-27 · Gemini CLI · [[Changes/Gemini CLI/2026-02-27-feat-cli-include-dir-add-directories-in-autocomplete-suggestions-by-jasmeetsb-in|feat(cli): include /dir add directories in @ autocomplete suggestions]]
-- Later: 2026-03-03 · Cline · [[Changes/Cline/2026-03-03-prevent-chinese-filename-escaping-in-diff-view|Prevent Chinese filename escaping in diff view]]
+- Later: 2026-03-02 · Open WebUI · [[Changes/Open WebUI/2026-03-02-chatcontrols-reactivity-fix-fixed-a-svelte-reactivity-issue-where-the-active-tab|⚡ ChatControls reactivity fix. Fixed a Svelte reactivity issue where the active…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

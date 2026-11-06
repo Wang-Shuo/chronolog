@@ -4,20 +4,20 @@ date: '2025-07-16'
 description: 'ChatGPT · 2025-07-16 · Voice and Audio: Record live conversations like
   team meetings or voice notes, and turn those into an editable summary in canvas.'
 diffusion:
-  first_in_tracked: '[[Changes/Aider/2023-08-11-voice-to-code-https-aider-chat-docs-voice-html-support-which-allows-you-to-code|Voice-to-code((source
-    link) support, which allows you…]]'
+  first_in_tracked: '[[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2
+    Voice and Audio changes in 0.3.7]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 705
+  lag_days: 737
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 79d2b4f0027b857bb66b16adae0b225e477ce870ba51e9fe5b9c31b1567709ed
+machine_hash: 867884e057685d29d89622ea87b651bb7e947bf5b03b7cd4f7510f13f1f79309
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -52,12 +52,10 @@ record:
   title: Record live conversations like team meetings or voice notes, and turn those…
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2025-06-18-chatgpt-will-transcribe-summarize-and-turn-them-into-helpful-outputs-like-follow|ChatGPT
-  will transcribe, summarize, and turn them into helpful outputs like…]]'
-- '[[Changes/ChatGPT/2025-06-18-capture-meetings-brainstorms-or-voice-notes-launching-today-for-pro-enterprise-a|Capture
-  meetings, brainstorms, or voice notes]]'
-- '[[Changes/Gemini CLI/2025-07-01-feat-add-audio-and-video-support-to-read-file-by-santhoshkumarcodes-in-https-git|feat:
-  add audio and video support to read_file]]'
+- '[[Changes/ElevenLabs/2025-07-14-voices|Voices]]'
+- '[[Changes/ElevenLabs/2025-07-14-text-to-voice-f4167d|Text to Voice]]'
+- "[[Changes/Open WebUI/2025-07-14-audio-mime-type-registration-issues-with-audio-file-content-types-have-been-reso|\U0001F504
+  Audio MIME Type Registration]]"
 source_release: '[[Releases/ChatGPT/chatgpt-2025-07-16-record-mode-in-chatgpt-macos-desktop-app-plus-3cdaccb1|chatgpt-2025-07-16-record-mode-in-chatgpt-macos-desktop-app-plus-3cdaccb1]]'
 source_type: chatgpt_changelog
 theme: voice
@@ -86,14 +84,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Voice and Audio
 
-- Earlier: 2025-07-01 · Gemini CLI · [[Changes/Gemini CLI/2025-07-01-feat-add-audio-and-video-support-to-read-file-by-santhoshkumarcodes-in-https-git|feat: add audio and video support to read_file]]
+- Earlier: 2025-07-14 · Open WebUI · [[Changes/Open WebUI/2025-07-14-audio-mime-type-registration-issues-with-audio-file-content-types-have-been-reso|🔄 Audio MIME Type Registration]]
 - Later: 2025-07-17 · ChatGPT · [[Changes/ChatGPT/2025-07-17-the-advanced-voice-upgrades-we-announced-on-june-7th-are-now-rolling-out-to-chat|Updates to Advanced Voice Mode for Free tier users]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-08-11 · Aider · [[Changes/Aider/2023-08-11-voice-to-code-https-aider-chat-docs-voice-html-support-which-allows-you-to-code|Voice-to-code((source link) support, which allows you…]]
+- Earliest same-theme entry in the tracked set: 2023-07-10 · Dify · [[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2 Voice and Audio changes in 0.3.7]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

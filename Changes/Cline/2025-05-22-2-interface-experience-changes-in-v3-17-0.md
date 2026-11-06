@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 4342b7e4c67684d0ed0aa3309a98b25dd86d3d620550b941092c7d87a9d2a2e8
+machine_hash: aba85b73a239edb39093a58d669768385ec4e513b194ffe7d22d6952d70c0f94
 product: cline
 product_name: Cline
 record:
@@ -44,8 +44,8 @@ record:
   title: 2 Interface Experience changes in v3.17.0
   type: change
 related_changes:
-- '[[Changes/Cline/2025-05-18-update-ui-styling-for-auto-approve-menu-items-to-conserve-space|Update
-  UI styling for auto-approve menu items to conserve space]]'
+- "[[Changes/Open WebUI/2025-05-19-customizable-pending-user-overlay-you-can-now-tailor-the-overlay-title-and-conte|\U0001F9D1\U0001F4BC
+  Customizable Pending User Overlay]]"
 - '[[Changes/Cline/2025-05-21-add-keyboard-shortcut-cmd-to-quickly-focus-cline-from-anywhere-in-vs-code|Add
   keyboard shortcut (Cmd+'') to quickly focus Cline from anywhere in VS Code]]'
 - '[[Changes/Cline/2025-05-21-add-keyboard-shortcut-cmd-to-quickly-focus-cline-from-anywhere-in-vs-code-d699eb|Add
@@ -85,7 +85,7 @@ Source: https://github.com/cline/cline/releases/tag/v3.17.0
 ## Nearby in Interface Experience
 
 - Earlier: 2025-05-21 · Cline · [[Changes/Cline/2025-05-21-add-keyboard-shortcut-cmd-to-quickly-focus-cline-from-anywhere-in-vs-code-d699eb|Add keyboard shortcut (Cmd+') to quickly focus Cline from anywhere in VS Code]]
-- Later: 2025-05-28 · Cline · [[Changes/Cline/2025-05-28-add-improved-onboarding-experience-for-new-users-with-guided-setup|Add improved onboarding experience for new users with guided setup]]
+- Later: 2025-05-24 · Lovable · [[Changes/Lovable/2025-05-24-improvements|Improvements]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

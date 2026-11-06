@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: policy
-machine_hash: e86b4ca60a6988bde589caa2e5752b5521560717687967d7173b678a4323e547
+machine_hash: 9d7f57a9cef77cc440decac255b3afbb25c2394b02f2506083c6ed29733fa4da
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -49,12 +49,12 @@ record:
   title: Retiring GPT-4.5
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-06-24-2-model-support-changes-in-v1-0-65|2 Model
-  Support changes in v1.0.65]]'
-- '[[Changes/Claude Code/2026-06-25-added-claude-code-assistant-response-opentelemetry-log-event-containing-the-mode|Added
-  claude_code.assistant_response OpenTelemetry log event containing…]]'
 - '[[Changes/Codex CLI/2026-06-25-4-model-support-changes-in-rust-v0-142-2|4 Model
   Support changes in rust-v0.142.2]]'
+- '[[Changes/Dify/2026-06-25-17-model-support-changes-in-1-15-0|17 Model Support changes
+  in 1.15.0]]'
+- '[[Changes/Ollama/2026-06-25-3-model-support-changes-in-v0-30-11|3 Model Support
+  changes in v0.30.11]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-06-26-retiring-gpt-4-5-41879baf|chatgpt-2026-06-26-retiring-gpt-4-5-41879baf]]'
 source_type: chatgpt_changelog
 theme: model-support
@@ -81,7 +81,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-06-25 · Codex CLI · [[Changes/Codex CLI/2026-06-25-4-model-support-changes-in-rust-v0-142-2|4 Model Support changes in rust-v0.142.2]]
+- Earlier: 2026-06-25 · Ollama · [[Changes/Ollama/2026-06-25-3-model-support-changes-in-v0-30-11|3 Model Support changes in v0.30.11]]
 - Later: 2026-06-26 · Cline · [[Changes/Cline/2026-06-26-2-model-support-changes-in-v4-0-0|2 Model Support changes in v4.0.0]]
 <!-- chronolog:end -->
 

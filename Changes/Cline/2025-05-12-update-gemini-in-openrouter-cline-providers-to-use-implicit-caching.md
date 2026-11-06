@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 2d86e19097611e694d8a556c3c03204217779aa814f93d35b444fe0ac47ea44f
+machine_hash: 3d08c4f4518c2cfff2d0f74957722a30bea13b7dcabf39ae64b8603ebe5322c6
 product: cline
 product_name: Cline
 record:
@@ -43,11 +43,12 @@ record:
   title: Update Gemini in OpenRouter/Cline providers to use implicit caching
   type: change
 related_changes:
-- '[[Changes/Windsurf/2025-05-07-cascade-ux-improvements|Cascade UX Improvements]]'
 - '[[Changes/Aider/2025-05-09-12-model-support-changes-in-v0-83-0|12 Model Support
   changes in v0.83.0]]'
 - '[[Changes/Cline/2025-05-10-7-model-support-changes-in-v3-15-0|7 Model Support changes
   in v3.15.0]]'
+- "[[Changes/Open WebUI/2025-05-10-clear-alerts-for-private-task-models-when-interacting-with-private-task-models-t|\U0001F6A8
+  Clear Alerts for Private Task Models]]"
 source_release: '[[Releases/Cline/cline-2025-05-12-v3-15-2-github-218118569-e8f21de0|cline-2025-05-12-v3-15-2-github-218118569-e8f21de0]]'
 source_type: github_releases
 theme: model-support
@@ -77,7 +78,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2025-05-10 · Cline · [[Changes/Cline/2025-05-10-7-model-support-changes-in-v3-15-0|7 Model Support changes in v3.15.0]]
+- Earlier: 2025-05-10 · Open WebUI · [[Changes/Open WebUI/2025-05-10-clear-alerts-for-private-task-models-when-interacting-with-private-task-models-t|🚨 Clear Alerts for Private Task Models]]
 - Later: 2025-05-12 · OpenHands · [[Changes/OpenHands/2025-05-12-enabled-prompt-caching-for-claude-3-7-sonnet-model-through-openrouter-by-polly20|Enabled prompt caching for claude-3.7-sonnet model through OpenRouter]]
 <!-- chronolog:end -->
 

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: expansion
-machine_hash: a55326adff5367f2c5300ee5e77b5afad4108e230da26d67417f0dafb8f9e5c5
+machine_hash: 56cf44a3d460e32812db54db887c2834fe49423ade55efb1c1505d257cfc540a
 product: claude-code
 product_name: Claude Code
 record:
@@ -51,10 +51,9 @@ record:
   title: Auto mode is now available for Max subscribers when using Opus 4.7
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-04-14-trigger-the-model-picker-from-anywhere-to-switch-models-without-clearing-your-pr|Trigger
-  the model picker from anywhere to switch models without clearing your prompt first]]'
 - '[[Changes/Codex CLI/2026-04-15-3-model-support-changes-in-rust-v0-121-0|3 Model
   Support changes in rust-v0.121.0]]'
+- '[[Changes/Claude/2026-04-16-claude-opus-4-7-launch|Claude Opus 4.7 launch]]'
 - '[[Changes/Claude Code/2026-04-16-3-model-support-changes-in-v2-1-111|3 Model Support
   changes in v2.1.111]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-04-16-v2-1-111-github-309911692-a3025e78|claude-code-2026-04-16-v2-1-111-github-309911692-a3025e78]]'
@@ -95,7 +94,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-04-15 · Codex CLI · [[Changes/Codex CLI/2026-04-15-3-model-support-changes-in-rust-v0-121-0|3 Model Support changes in rust-v0.121.0]]
+- Earlier: 2026-04-16 · Claude · [[Changes/Claude/2026-04-16-claude-opus-4-7-launch|Claude Opus 4.7 launch]]
 - Later: 2026-04-16 · Cline · [[Changes/Cline/2026-04-16-add-claude-opus-4-7-model-support|Add Claude Opus 4.7 model support]]
 <!-- chronolog:end -->
 

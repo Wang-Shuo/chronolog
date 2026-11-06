@@ -4,20 +4,20 @@ date: '2025-12-11'
 description: 'Cline · 2025-12-11 · Enterprise and Administration: Enterprise docs
   by @jl-codes in https://github.com/cline/cline/pull/7714'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2024-03-20-admin-improvements-team-admins-can-now-mark-themselves-as-unpaid-users-and-can-s|Admin
-    improvements: Team admins can now mark themselves as unpaid users and can see…]]'
+  first_in_tracked: '[[Changes/Gemini/2023-05-05-access-for-google-workspace-accounts|Access
+    for Google Workspace accounts]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 631
+  lag_days: 951
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 6935cd4bdc390eaa3a487001a020d33dec07dbd2c938a407311648a1975f8d69
+machine_hash: 183a55447b5e6e52ab9b07a3c4bf31261ced9d80f87591920ab34183f5283412
 product: cline
 product_name: Cline
 record:
@@ -40,12 +40,12 @@ record:
   title: Enterprise docs
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-11-21-3-enterprise-and-administration-changes-in-2-1|3 Enterprise
-  and Administration changes in 2.1]]'
-- '[[Changes/Cline/2025-11-27-creates-and-refactor-enterprise-docs-by-juanpflores-in-https-github-com-cline-cl|Creates
-  and Refactor Enterprise Docs]]'
 - '[[Changes/Cline/2025-12-02-add-enterprise-to-readme-by-reneehuang1-in-https-github-com-cline-cline-pull-758|add
   enterprise to readme]]'
+- '[[Changes/Open WebUI/2025-12-02-2-enterprise-and-administration-changes-in-v0-6-41|2
+  Enterprise and Administration changes in v0.6.41]]'
+- '[[Changes/Lovable/2025-12-10-control-who-can-publish-externally|Control who can
+  publish externally]]'
 source_release: '[[Releases/Cline/cline-2025-12-11-v3-41-0-github-269664920-dcb387db|cline-2025-12-11-v3-41-0-github-269664920-dcb387db]]'
 source_type: github_releases
 theme: enterprise-admin
@@ -81,14 +81,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Enterprise and Administration
 
-- Earlier: 2025-12-02 · Cline · [[Changes/Cline/2025-12-02-add-enterprise-to-readme-by-reneehuang1-in-https-github-com-cline-cline-pull-758|add enterprise to readme]]
-- Later: 2025-12-16 · Gemini CLI · [[Changes/Gemini CLI/2025-12-16-add-new-enterprise-instructions-by-chrstnb-in-https-github-com-google-gemini-gem|Add new enterprise instructions]]
+- Earlier: 2025-12-10 · Lovable · [[Changes/Lovable/2025-12-10-control-who-can-publish-externally|Control who can publish externally]]
+- Later: 2025-12-12 · Replit · [[Changes/Replit/2025-12-12-teams-and-enterprise|Teams and Enterprise]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2024-03-20 · Cursor · [[Changes/Cursor/2024-03-20-admin-improvements-team-admins-can-now-mark-themselves-as-unpaid-users-and-can-s|Admin improvements: Team admins can now mark themselves as unpaid users and can see…]]
+- Earliest same-theme entry in the tracked set: 2023-05-05 · Gemini · [[Changes/Gemini/2023-05-05-access-for-google-workspace-accounts|Access for Google Workspace accounts]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

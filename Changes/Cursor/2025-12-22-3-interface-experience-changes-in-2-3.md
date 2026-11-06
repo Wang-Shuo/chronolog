@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 44247219639c8125d64f0a59b46bf1877e811d13b6f2aa3eb50e17b4ec1f3ee5
+machine_hash: 4d937917c5ccdbfce1e99e0b0e0dfc5b40a3794b0b888f43bf07cc6483754a17
 product: cursor
 product_name: Cursor
 record:
@@ -46,10 +46,9 @@ record:
   title: 3 Interface Experience changes in 2.3
   type: change
 related_changes:
-- '[[Changes/Claude Code/2025-12-19-2-interface-experience-changes-in-v2-0-74|2 Interface
-  Experience changes in v2.0.74]]'
-- '[[Changes/Codex CLI/2025-12-19-2-interface-experience-changes-in-rust-v0-76-0|2
-  Interface Experience changes in rust-v0.76.0]]'
+- '[[Changes/Replit/2025-12-19-status-dot-design-update|Status Dot Design Update]]'
+- '[[Changes/Open WebUI/2025-12-21-8-interface-experience-changes-in-v0-6-42|8 Interface
+  Experience changes in v0.6.42]]'
 - '[[Changes/Cline/2025-12-22-model-picker-favorites-ordering-star-toggle-and-keyboard-navigation-for-openrout|Model
   picker favorites ordering, star toggle, and keyboard navigation for OpenRouter…]]'
 source_release: '[[Releases/Cursor/cursor-2025-12-22-2-3-https-cursor-com-changelog-2-3-fe418465|cursor-2025-12-22-2-3-https-cursor-com-changelog-2-3-fe418465]]'

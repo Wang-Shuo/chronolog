@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: 90a541e7dff4c14d09eb48dff668f6f8f34840b04d51866e2ac320917b516d21
+machine_hash: fd40b8c9d83845b871085ed0fbecc026edc70a6d22fb16c8cba3927eb3e95c61
 product: cursor
 product_name: Cursor
 record:
@@ -59,8 +59,8 @@ record:
   title: Conversation insights
   type: change
 related_changes:
-- '[[Changes/Cline/2025-12-11-2-context-window-changes-in-v3-41-0|2 Context Window
-  changes in v3.41.0]]'
+- '[[Changes/v0/2025-12-16-you-can-now-securely-connect-v0-to-your-notion-workspace-to-build-using-your-tea|Build
+  with Notion via MCP]]'
 - '[[Changes/Cline/2025-12-17-added-support-for-dynamic-tool-instructions-that-adapt-based-on-runtime-context|Added
   support for dynamic tool instructions that adapt based on runtime context…]]'
 - '[[Changes/Codex CLI/2025-12-18-7935-exec-server-additional-context-for-errors|♯7935

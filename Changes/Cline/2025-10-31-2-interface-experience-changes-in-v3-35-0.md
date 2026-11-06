@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 50734b08ba37ac569acac736ad0f38a80c74d65bddee9abd8e1bca3a7818f7af
+machine_hash: 977580271f78328159dc4e7dd8f0a149a54d04ee43c6e328d221dcb59f9e27c4
 product: cline
 product_name: Cline
 record:
@@ -43,11 +43,12 @@ record:
   title: 2 Interface Experience changes in v3.35.0
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2025-10-24-code-repo-navigation|Code & Repo navigation]]'
 - '[[Changes/Cursor/2025-10-29-optimized-text-parsing-for-chat-rendering|Optimized
   text parsing for chat rendering]]'
 - '[[Changes/Gemini CLI/2025-10-29-improve-rendering-of-todo-lists-by-scidomino-in-https-github-com-google-gemini-g|Improve
   rendering of ToDo lists]]'
+- '[[Changes/v0/2025-10-30-we-redesigned-the-chat-sidebar-with-better-organization-faster-navigation-and-a|Redesigned
+  Chat Sidebar]]'
 source_release: '[[Releases/Cline/cline-2025-10-31-v3-35-0-github-258670330-1bba90ed|cline-2025-10-31-v3-35-0-github-258670330-1bba90ed]]'
 source_type: github_releases
 theme: interface-experience
@@ -84,7 +85,7 @@ Source: https://github.com/cline/cline/releases/tag/v3.35.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2025-10-29 · Gemini CLI · [[Changes/Gemini CLI/2025-10-29-improve-rendering-of-todo-lists-by-scidomino-in-https-github-com-google-gemini-g|Improve rendering of ToDo lists]]
+- Earlier: 2025-10-30 · v0 · [[Changes/v0/2025-10-30-we-redesigned-the-chat-sidebar-with-better-organization-faster-navigation-and-a|Redesigned Chat Sidebar]]
 - Later: 2025-11-04 · Gemini CLI · [[Changes/Gemini CLI/2025-11-04-change-debug-drawer-keybinding-to-f12-by-scidomino-in-https-github-com-google-ge|Change debug drawer keybinding to F12]]
 <!-- chronolog:end -->
 

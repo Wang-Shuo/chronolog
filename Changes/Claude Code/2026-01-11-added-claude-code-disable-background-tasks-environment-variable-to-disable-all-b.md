@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 296901126b21aa04990ee32ba244967876eff7714fcbec5c9365471c46fd389c
+machine_hash: 690079bb81bd0944964823a113f23b3cdf43ec42aa8a0417d799f79173aeb6b2
 product: claude-code
 product_name: Claude Code
 record:
@@ -47,12 +47,11 @@ record:
     all…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-01-09-added-agent-type-to-sessionstart-hook-input-populated-if-agent-is-specified|Added
-  agent_type to SessionStart hook input, populated if --agent is specified]]'
-- '[[Changes/Cline/2026-01-09-add-skills-system-for-reusable-on-demand-agent-instructions|Add
-  Skills system for reusable, on-demand agent instructions]]'
 - '[[Changes/Codex CLI/2026-01-09-2-agent-mode-changes-in-rust-v0-80-0|2 Agent Mode
   changes in rust-v0.80.0]]'
+- '[[Changes/Replit/2026-01-09-ai-command-in-shell|AI command in Shell]]'
+- '[[Changes/Ollama/2026-01-10-ollama-run-experimental-cli-will-now-open-a-new-ollama-cli-that-includes-an-agen|ollama
+  run --experimental CLI will now open a new Ollama CLI that includes…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-01-11-v2-1-4-github-275760368-28c923f9|claude-code-2026-01-11-v2-1-4-github-275760368-28c923f9]]'
 source_type: github_releases
 theme: agent-mode
@@ -80,8 +79,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2026-01-09 · Codex CLI · [[Changes/Codex CLI/2026-01-09-2-agent-mode-changes-in-rust-v0-80-0|2 Agent Mode changes in rust-v0.80.0]]
-- Later: 2026-01-13 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-01-13-3-agent-mode-changes-in-v0-0-380|3 Agent Mode changes in v0.0.380]]
+- Earlier: 2026-01-10 · Ollama · [[Changes/Ollama/2026-01-10-ollama-run-experimental-cli-will-now-open-a-new-ollama-cli-that-includes-an-agen|ollama run --experimental CLI will now open a new Ollama CLI that includes…]]
+- Later: 2026-01-12 · ElevenLabs · [[Changes/ElevenLabs/2026-01-12-agents-platform|Agents Platform]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

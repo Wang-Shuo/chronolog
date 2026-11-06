@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 78773742be830471a00e55f5dcd19ce7adab72783e2c0fb47dbd2c529ab2391c
+machine_hash: a06e5ca17737df0150dfd8d49fde9e2c5b83e864a754c71726053875edf78e8c
 product: cursor
 product_name: Cursor
 record:
@@ -41,12 +41,12 @@ record:
   title: Advanced Button
   type: change
 related_changes:
-- '[[Changes/Aider/2023-08-08-automatically-summarize-chat-history-to-avoid-exhausting-context-window|Automatically
-  summarize chat history to avoid exhausting context window]]'
 - '[[Changes/Cursor/2023-08-22-follow-up-chat-messages-to-with-codebase-will-keep-the-codebase-context|Follow-up
   chat messages to "with codebase" will keep the codebase context]]'
 - '[[Changes/Cursor/2023-08-22-if-you-reference-a-long-file-that-will-be-cutoff-by-the-context-limit-you-ll-be|If
   you @ reference a long file that will be cutoff by the context limit, you''ll…]]'
+- '[[Changes/Dify/2023-08-24-feat-adjust-hf-max-tokens-by-takatost-in-https-github-com-langgenius-dify-pull-9|feat:
+  adjust hf max tokens]]'
 source_release: '[[Releases/Cursor/cursor-2023-08-26-0-8-5-https-cursor-com-changelog-0-8-5-057abd19|cursor-2023-08-26-0-8-5-https-cursor-com-changelog-0-8-5-057abd19]]'
 source_type: cursor_changelog
 theme: context-window
@@ -73,7 +73,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Context Window
 
-- Earlier: 2023-08-22 · Cursor · [[Changes/Cursor/2023-08-22-if-you-reference-a-long-file-that-will-be-cutoff-by-the-context-limit-you-ll-be|If you @ reference a long file that will be cutoff by the context limit, you'll…]]
+- Earlier: 2023-08-24 · Dify · [[Changes/Dify/2023-08-24-feat-adjust-hf-max-tokens-by-takatost-in-https-github-com-langgenius-dify-pull-9|feat: adjust hf max tokens]]
 - Later: 2023-08-30 · Cursor · [[Changes/Cursor/2023-08-30-for-with-codebase-chats-you-can-now-see-the-codebase-context-that-cursor-shows-g|For "with codebase" chats, you can now see the codebase context that Cursor shows GPT-4]]
 <!-- chronolog:end -->
 

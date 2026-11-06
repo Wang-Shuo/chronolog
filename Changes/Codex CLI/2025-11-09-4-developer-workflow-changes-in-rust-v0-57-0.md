@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: b14132bbf84b3664107015c52e9bf1fe98a96907b00843641a02dc3d7d439f3a
+machine_hash: 52c647ac550d052cdb365efad1718100aa7442ce15f413171b064c72983beaf6
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -46,9 +46,10 @@ record:
   title: 4 Developer Workflow changes in rust-v0.57.0
   type: change
 related_changes:
-- '[[Changes/Windsurf/2025-11-04-terminal-fixes|Terminal Fixes]]'
-- '[[Changes/OpenHands/2025-11-05-made-terminal-tab-read-only-by-amanape-in-https-github-com-openhands-openhands-p|Made
-  terminal tab read-only]]'
+- "[[Changes/Open WebUI/2025-11-06-socket-io-cors-warning-is-resolved-by-properly-configuring-cors-origins-for-sock|\U0001F50C
+  Socket.IO CORS warning is resolved by properly configuring CORS origins for Socket]]"
+- '[[Changes/Open WebUI/2025-11-06-3-developer-workflow-changes-in-v0-6-35|3 Developer
+  Workflow changes in v0.6.35]]'
 - '[[Changes/Gemini CLI/2025-11-07-5-developer-workflow-changes-in-v0-13-0|5 Developer
   Workflow changes in v0.13.0]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2025-11-09-rust-v0-57-0-github-260963239-baa7573b|codex-cli-2025-11-09-rust-v0-57-0-github-260963239-baa7573b]]'

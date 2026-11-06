@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: 8b88b69b03aa1d035b07ecb5bad557dd92cefacf2ae49a75ffcfe3e8eb86a532
+machine_hash: cb18ae4ee6e2ca6e46fc164dcae0837640a6c51eb9d3933ab671af7cb0056182
 product: cursor
 product_name: Cursor
 record:
@@ -62,8 +62,8 @@ record:
   title: Sandbox network access controls
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-02-13-2-safety-and-privacy-changes-in-v2-1-41|2 Safety
-  and Privacy changes in v2.1.41]]'
+- "[[Changes/Open WebUI/2026-02-14-public-sharing-security-fix-fixed-a-security-issue-where-users-with-write-access|\U0001F6E1️
+  Public sharing security fix. Fixed a security issue where users with write…]]"
 - '[[Changes/Claude Code/2026-02-17-vscode-improved-permission-destination-choice-project-user-session-to-persist-ac|VSCode
   Improved permission destination choice (project/user/session) to persist…]]'
 - '[[Changes/Codex CLI/2026-02-17-9-safety-and-privacy-changes-in-rust-v0-102-0|9

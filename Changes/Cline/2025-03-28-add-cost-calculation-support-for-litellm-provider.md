@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: pricing
-machine_hash: 787d4889932cabc4e6174cdfb8bb87eec960c35d1b29909da0a736b29b18e95b
+machine_hash: ee185c88d303785c701a33028b10c07fd29eda64ccd594301fe13c02591c970f
 product: cline
 product_name: Cline
 record:
@@ -78,7 +78,7 @@ type: change
 ## Nearby in Pricing Model
 
 - Earlier: 2025-03-25 · OpenHands · [[Changes/OpenHands/2025-03-25-display-api-cost-and-token-usage-in-frontend-by-autoltx-in-https-github-com-all|Display API cost and token usage in frontend]]
-- Later: 2025-03-31 · Aider · [[Changes/Aider/2025-03-31-warn-at-startup-if-stream-and-cache-prompts-are-used-together-as-cost-estimates|Warn at startup if --stream and --cache-prompts are used together, as cost…]]
+- Later: 2025-03-28 · Replit · [[Changes/Replit/2025-03-28-invoice-threshold-update|Invoice threshold update]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

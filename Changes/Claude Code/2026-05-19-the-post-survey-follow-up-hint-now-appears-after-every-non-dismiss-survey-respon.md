@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: b72020a6b99a098088ce2c5f39ba90735faacca37da6dae656abb9083e1f8966
+machine_hash: 27cf7efbb6f903aa3b0d62dd1cd43dd8ee81c0d56e02e406dae5a744560e2eac
 product: claude-code
 product_name: Claude Code
 record:
@@ -46,10 +46,9 @@ record:
     response…
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-05-14-context-shows-correct-token-limits-for-all-models-instead-of-always-showing-128k|/context
-  shows correct token limits for all models instead of always showing 128k]]'
 - '[[Changes/Codex CLI/2026-05-18-7-context-window-changes-in-rust-v0-131-0|7 Context
   Window changes in rust-v0.131.0]]'
+- '[[Changes/Lovable/2026-05-18-draw-on-images|Draw on images]]'
 - '[[Changes/Claude Code/2026-05-19-improved-the-read-tool-to-return-a-truncated-first-page-with-a-partial-view-noti|Improved
   the Read tool to return a truncated first page with a "PARTIAL view" notice…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-05-19-v2-1-144-github-324524751-1469637a|claude-code-2026-05-19-v2-1-144-github-324524751-1469637a]]'

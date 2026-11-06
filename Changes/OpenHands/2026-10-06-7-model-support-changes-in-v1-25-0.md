@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 180dc99c8bbc26deffc2f9afb0c840e6cc76fada6a2ff7dfcec8a359879dae4f
+machine_hash: 24f18c7e0f14935c3de1448e8f41cf1e5ab3d939820f75f9d7319af8c5fe2bc4
 product: openhands
 product_name: OpenHands
 record:
@@ -57,12 +57,12 @@ record:
   title: 7 Model Support changes in v1.25.0
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-05-2-model-support-changes-in-v2-1-290|2 Model Support
-  changes in v2.1.290]]'
-- '[[Changes/GitHub Copilot CLI/2026-10-05-2-model-support-changes-in-v1-0-92|2 Model
-  Support changes in v1.0.92]]'
+- '[[Changes/Lovable/2026-10-05-lyria-3-music-models-for-your-app-s-ai-features|Lyria
+  3 music models for your app''s AI features]]'
 - '[[Changes/Claude Code/2026-10-06-added-prompt-caching-to-model-complete-for-mods-prompt-and-system-take-blocks-of|Added
   prompt caching to $.model.complete for mods]]'
+- '[[Changes/Lovable/2026-10-06-gemini-3-6-flash-is-deprecated-for-your-app-s-ai-features|Gemini
+  3.6 Flash is deprecated for your app''s AI features]]'
 source_release: '[[Releases/OpenHands/openhands-2026-10-06-v1-25-0-github-404205170-7fe522ed|openhands-2026-10-06-v1-25-0-github-404205170-7fe522ed]]'
 source_type: github_releases
 theme: model-support
@@ -113,7 +113,7 @@ Source: https://github.com/OpenHands/OpenHands/releases/tag/v1.25.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-10-06 · Claude Code · [[Changes/Claude Code/2026-10-06-added-prompt-caching-to-model-complete-for-mods-prompt-and-system-take-blocks-of|Added prompt caching to $.model.complete for mods]]
+- Earlier: 2026-10-06 · Lovable · [[Changes/Lovable/2026-10-06-gemini-3-6-flash-is-deprecated-for-your-app-s-ai-features|Gemini 3.6 Flash is deprecated for your app's AI features]]
 - Later: 2026-10-07 · ChatGPT · [[Changes/ChatGPT/2026-10-07-we-re-introducing-gpt-6-with-intelligent-ui-in-chatgpt-chatgpt-can-now-combine-t|GPT-6 and Intelligent UI in ChatGPT]]
 <!-- chronolog:end -->
 

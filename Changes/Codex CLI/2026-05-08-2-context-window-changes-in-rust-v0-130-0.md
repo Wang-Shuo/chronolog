@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 9ac6bb18512cfe7c707e1e5b59b03e0948400d34cef7129e3551827cababe035
+machine_hash: d518762e9693ba1164c18099c38d128975cd90d42b29967ab3e1a55803d06981
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -89,7 +89,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.130.0
 ## Nearby in Context Window
 
 - Earlier: 2026-05-07 · Codex CLI · [[Changes/Codex CLI/2026-05-07-7-context-window-changes-in-rust-v0-129-0|7 Context Window changes in rust-v0.129.0]]
-- Later: 2026-05-11 · Claude Code · [[Changes/Claude Code/2026-05-11-context-all-per-skill-token-estimates-now-account-for-the-model-s-tokenizer-and|/context all per-skill token estimates now account for the model's tokenizer…]]
+- Later: 2026-05-08 · Replit · [[Changes/Replit/2026-05-08-external-access-tokens-for-private-deployments|External access tokens for Private Deployments]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

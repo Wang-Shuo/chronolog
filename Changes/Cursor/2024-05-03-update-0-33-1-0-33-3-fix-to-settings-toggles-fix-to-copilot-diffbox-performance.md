@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: eb68347412a36d4f99a06609c6e91b2d48e8fc4290a0830775a387775d87fe97
+machine_hash: 6675413feefba1a1bc4e0e6c61278084a76c052aa27e43ad4e8e42c4883e65ee
 product: cursor
 product_name: Cursor
 record:
@@ -42,12 +42,12 @@ record:
   title: 'UPDATE (0.33.1–0.33.3): Fix to settings toggles, fix to Copilot++ diffbox…'
   type: change
 related_changes:
-- '[[Changes/Cursor/2024-02-02-0-25-2-copilot-performance-improvements|0.25.2: Copilot++
-  performance improvements]]'
-- '[[Changes/Cursor/2024-02-02-apply-diffs-from-chat-should-be-a-bit-faster|"Apply
-  Diffs" from chat should be a bit faster]]'
-- '[[Changes/Cursor/2024-03-20-faster-copilot-we-ve-made-copilot-2x-faster-this-speed-bump-comes-from-a-new-mod|Faster
-  Copilot++: We''ve made Copilot++ ~2x faster!]]'
+- '[[Changes/Ollama/2024-04-28-qwen-110b-https-ollama-com-library-qwen-110b-the-first-qwen-model-over-100b-para|Qwen
+  110B((source link) The first Qwen model over 100B…]]'
+- '[[Changes/Open WebUI/2024-04-28-2-reliability-and-performance-changes-in-v0-1-122|2
+  Reliability and Performance changes in v0.1.122]]'
+- '[[Changes/Dify/2024-05-02-this-update-primarily-focuses-on-enhancing-system-stability-and-improving-user-e|This
+  update primarily focuses on enhancing system stability and improving user experience]]'
 source_release: '[[Releases/Cursor/cursor-2024-05-03-0-33-x-https-cursor-com-changelog-0-33-x-f8df9c65|cursor-2024-05-03-0-33-x-https-cursor-com-changelog-0-33-x-f8df9c65]]'
 source_type: cursor_changelog
 theme: reliability-performance
@@ -77,8 +77,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2024-03-20 · Cursor · [[Changes/Cursor/2024-03-20-faster-copilot-we-ve-made-copilot-2x-faster-this-speed-bump-comes-from-a-new-mod|Faster Copilot++: We've made Copilot++ ~2x faster!]]
-- Later: 2024-06-04 · Aider · [[Changes/Aider/2024-06-04-performance-improvements-the-repo-map-especially-in-large-repos|Performance improvements the repo map, especially in large repos]]
+- Earlier: 2024-05-02 · Dify · [[Changes/Dify/2024-05-02-this-update-primarily-focuses-on-enhancing-system-stability-and-improving-user-e|This update primarily focuses on enhancing system stability and improving user experience]]
+- Later: 2024-05-07 · Ollama · [[Changes/Ollama/2024-05-07-stablelm2-12b-https-ollama-com-library-stablelm2-12b-a-new-12b-version-of-the-st|StableLM2 12B((source link) A new 12B version…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

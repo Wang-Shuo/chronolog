@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: a1366da43421626d778836b7a7ad1647c9330fb58734142751eded0c767d2b3d
+machine_hash: a4271378d6d7cf4db6490c8f3a84268785fdf202956d0912049df46b3f226798
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -44,9 +44,9 @@ record:
     for MCP…
   type: change
 related_changes:
-- '[[Changes/Cline/2026-01-30-hooks-hook-scripts-now-run-from-the-workspace-repository-root-instead-of-filesys-9eb2c6|_Hooks:
+- '[[Changes/Cline/2026-01-30-hooks-hook-scripts-now-run-from-the-workspace-repository-root-instead-of-filesys-9eb2c6|Hooks:
   Hook scripts now run from the workspace repository root instead…]]'
-- '[[Changes/Cline/2026-01-30-hooks-hook-scripts-now-run-from-the-workspace-repository-root-instead-of-filesys-f43db5|_Hooks:
+- '[[Changes/Cline/2026-01-30-hooks-hook-scripts-now-run-from-the-workspace-repository-root-instead-of-filesys-f43db5|Hooks:
   Hook scripts now run from the workspace repository root instead…]]'
 - '[[Changes/GitHub Copilot CLI/2026-01-30-3-apps-and-integrations-changes-in-v0-0-400|3
   Apps and Integrations changes in v0.0.400]]'
@@ -94,7 +94,7 @@ type: change
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-01-30 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-01-30-3-apps-and-integrations-changes-in-v0-0-400|3 Apps and Integrations changes in v0.0.400]]
-- Later: 2026-02-03 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-02-03-3-apps-and-integrations-changes-in-v0-0-401|3 Apps and Integrations changes in v0.0.401]]
+- Later: 2026-02-02 · ElevenLabs · [[Changes/ElevenLabs/2026-02-02-sdk-releases|SDK Releases]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

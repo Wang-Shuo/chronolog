@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: acb2a85024a919890a6235bdd002f5ea9e3a5f52b5e93ca151413d1ca61c8b28
+machine_hash: bf06d6a2e0e103766acd4fb4255128143d85d3ba5dc824f388cfd708e9656a4e
 product: cursor
 product_name: Cursor
 record:
@@ -41,10 +41,9 @@ record:
   title: 0.48.2 - Allows users to accept/reject file edited in another chat tab
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-03-11-0-47-2-cursor-tab-accepts-work-with-single-line-selections|0.47.2:
-  Cursor Tab accepts work with single-line selections]]'
 - '[[Changes/Aider/2025-03-21-added-commands-to-switch-between-model-types-editor-model-for-editor-model-and-w|Added
   commands to switch between model types]]'
+- '[[Changes/Replit/2025-03-21-visual-editor|Visual Editor]]'
 - '[[Changes/Cline/2025-03-23-add-fix-with-cline-code-action-when-you-see-a-lightbulb-icon-in-your-editor-you|Add
   Fix with Cline code action - when you see a lightbulb icon in your editor, you…]]'
 source_release: '[[Releases/Cursor/cursor-2025-03-23-0-48-x-https-cursor-com-changelog-0-48-x-7b3e771b|cursor-2025-03-23-0-48-x-https-cursor-com-changelog-0-48-x-7b3e771b]]'

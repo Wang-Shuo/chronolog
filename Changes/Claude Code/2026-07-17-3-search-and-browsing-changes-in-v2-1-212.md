@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: search-browsing
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 5ef0ac62a3d0facd9e9b85258d3092d8c3d041d84c685225a805d05c9229f113
+machine_hash: bd2e386780120bfee4484633f78b20364d5e17293506b5f145b3fce5ee9b6766
 product: claude-code
 product_name: Claude Code
 record:
@@ -47,8 +47,8 @@ record:
   title: 3 Search and Browsing changes in v2.1.212
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-07-01-browse-resume-and-switch-between-sessions-from-the-agents-screen|Browse,
-  resume, and switch between sessions from the agents screen]]'
+- "[[Changes/Open WebUI/2026-07-01-web-search-domain-filtering-domain-allow-and-block-rules-for-web-search-results|\U0001F512
+  Web search domain filtering. Domain allow and block rules for web search…]]"
 - '[[Changes/Codex CLI/2026-07-09-31525-core-migrate-standalone-web-search-to-extension-owned-turn-items-owenlin0|♯31525
   core: migrate standalone web search to extension-owned turn items @owenlin0]]'
 - '[[Changes/GitHub Copilot CLI/2026-07-16-add-plugins-marketplace-browse-and-update-commands|Add

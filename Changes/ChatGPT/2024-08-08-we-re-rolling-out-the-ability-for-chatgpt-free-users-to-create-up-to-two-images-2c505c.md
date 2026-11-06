@@ -5,20 +5,20 @@ description: 'ChatGPT · 2024-08-08 · Image Generation: We’re rolling out the
   for ChatGPT Free users to create up to two images per day with DALL·E 3.Just ask
   ChatGPT…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2024-08-08-we-re-rolling-out-the-ability-for-chatgpt-free-users-to-create-up-to-two-images-2c505c|DALL·E
-    3 for ChatGPT Free users]]'
+  first_in_tracked: "[[Changes/Open WebUI/2024-03-10-dall-e-integration-introduced-dall-e-integration-for-image-generation-alongside|\U0001F3A8
+    DALL-E Integration]]"
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 0
+  lag_days: 151
   relation: same-theme-chronology
-  role: first-observed
+  role: later-observed
   scope: tracked-products-only
   theme: image-generation
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 7a31d1edf04b2f7a7de7c728c443fb847e7b356d45e3f8bf1836d72a366f2048
+machine_hash: 7d72bd9f8794852626f0351342cf02f4fccaeb642f4d7c91d50fb7c8092c076a
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -45,6 +45,13 @@ record:
   theme: image-generation
   title: DALL·E 3 for ChatGPT Free users
   type: change
+related_changes:
+- "[[Changes/Open WebUI/2024-05-02-image-generation-compatibility-issue-rectified-image-generation-compatibility-is|\U0001F310
+  Image Generation Compatibility Issue]]"
+- '[[Changes/Dify/2024-06-28-2-image-generation-changes-in-0-6-12|2 Image Generation
+  changes in 0.6.12]]'
+- "[[Changes/Open WebUI/2024-08-02-comfyui-flux-image-generation-added-support-for-the-new-flux-image-gen-model-int|\U0001F579️
+  ComfyUI Flux Image Generation]]"
 source_release: '[[Releases/ChatGPT/chatgpt-2024-08-08-dall-e-3-for-chatgpt-free-users-379feaa2|chatgpt-2024-08-08-dall-e-3-for-chatgpt-free-users-379feaa2]]'
 source_type: chatgpt_changelog
 theme: image-generation
@@ -71,13 +78,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Image Generation
 
-- Later: 2024-11-22 · ChatGPT · [[Changes/ChatGPT/2024-11-22-dall-e-focused-view-has-an-updated-layout|DALL-E focused view has an updated layout]]
+- Earlier: 2024-08-02 · Open WebUI · [[Changes/Open WebUI/2024-08-02-comfyui-flux-image-generation-added-support-for-the-new-flux-image-gen-model-int|🕹️ ComfyUI Flux Image Generation]]
+- Later: 2024-08-14 · Open WebUI · [[Changes/Open WebUI/2024-08-14-comfyui-performance-improvement-addressed-an-issue-causing-fastapi-to-stall-when|🛠️ ComfyUI Performance Improvement]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry among the 10 tracked products.
+- Earliest same-theme entry in the tracked set: 2024-03-10 · Open WebUI · [[Changes/Open WebUI/2024-03-10-dall-e-integration-introduced-dall-e-integration-for-image-generation-alongside|🎨 DALL-E Integration]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

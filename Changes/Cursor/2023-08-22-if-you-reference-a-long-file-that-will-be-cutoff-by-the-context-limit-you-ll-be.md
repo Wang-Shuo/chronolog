@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 62c3fa98ec8709cb5e642e1ed13417f81c4ff9b0d43ec560970bb6ef492318f8
+machine_hash: b51fa997cc289cba61f62a7a9d747d52db299ae2081cc82a6cbaf585238eee01
 product: cursor
 product_name: Cursor
 record:
@@ -45,10 +45,10 @@ record:
     you'll…
   type: change
 related_changes:
-- '[[Changes/Aider/2023-08-02-automatically-summarize-chat-history-to-avoid-exhausting-context-window|Automatically
-  summarize chat history to avoid exhausting context window]]'
 - '[[Changes/Aider/2023-08-08-automatically-summarize-chat-history-to-avoid-exhausting-context-window|Automatically
   summarize chat history to avoid exhausting context window]]'
+- '[[Changes/Ollama/2023-08-18-add-context-to-api-documentation-for-api-generate|Add
+  context to api documentation for /api/generate]]'
 - '[[Changes/Cursor/2023-08-22-follow-up-chat-messages-to-with-codebase-will-keep-the-codebase-context|Follow-up
   chat messages to "with codebase" will keep the codebase context]]'
 source_release: '[[Releases/Cursor/cursor-2023-08-22-0-8-2-https-cursor-com-changelog-0-8-2-866d920f|cursor-2023-08-22-0-8-2-https-cursor-com-changelog-0-8-2-866d920f]]'
@@ -83,8 +83,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Context Window
 
-- Earlier: 2023-08-08 · Aider · [[Changes/Aider/2023-08-08-automatically-summarize-chat-history-to-avoid-exhausting-context-window|Automatically summarize chat history to avoid exhausting context window]]
-- Later: 2023-08-26 · Cursor · [[Changes/Cursor/2023-08-26-have-the-advanced-context-button-show-up-for-non-git-repos|Advanced Button]]
+- Earlier: 2023-08-18 · Ollama · [[Changes/Ollama/2023-08-18-add-context-to-api-documentation-for-api-generate|Add context to api documentation for /api/generate]]
+- Later: 2023-08-24 · Dify · [[Changes/Dify/2023-08-24-feat-adjust-hf-max-tokens-by-takatost-in-https-github-com-langgenius-dify-pull-9|feat: adjust hf max tokens]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

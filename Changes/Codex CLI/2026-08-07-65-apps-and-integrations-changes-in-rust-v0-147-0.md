@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 014f255f685ffcfaf3d623fd3fe28e08a2eb952d0b4fa74c2a7fa9c263f2200d
+machine_hash: 62c8e9b888504257082c562461ca92fb66fbca74ec8d4648a830c746acb26bff
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -175,10 +175,10 @@ record:
   title: 65 Apps and Integrations changes in rust-v0.147.0
   type: change
 related_changes:
-- '[[Changes/Cline/2026-08-05-2-apps-and-integrations-changes-in-v4-1-4|2 Apps and
-  Integrations changes in v4.1.4]]'
 - '[[Changes/OpenHands/2026-08-05-chore-bump-openhands-extensions-to-0-16-0-by-hieptl-in-https-github-com-openhand|chore:
   bump @openhands/extensions to 0.16.0]]'
+- '[[Changes/Claude/2026-08-06-skill-and-plugin-security-scanning-beta|Skill and plugin
+  security scanning (beta)]]'
 - '[[Changes/Claude Code/2026-08-07-3-apps-and-integrations-changes-in-v2-1-224|3
   Apps and Integrations changes in v2.1.224]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-08-07-rust-v0-147-0-github-366471016-f6cfdee2|codex-cli-2026-08-07-rust-v0-147-0-github-366471016-f6cfdee2]]'

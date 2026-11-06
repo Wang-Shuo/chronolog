@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 7292485098fbfbd93163f63e98a22c162e7e7498f6c50883ab0253dd000e4a28
+machine_hash: e0c0e5d0e9591d2c13c2a3a3bbace99c43fc34bbf1233b3d89c7d4af346a0434
 product: claude-code
 product_name: Claude Code
 record:
@@ -77,12 +77,12 @@ record:
   title: 11 Apps and Integrations changes in v2.1.286
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-29-14-apps-and-integrations-changes-in-v2-1-285|14
-  Apps and Integrations changes in v2.1.285]]'
 - '[[Changes/Codex CLI/2026-09-29-8-apps-and-integrations-changes-in-rust-v0-159-0|8
   Apps and Integrations changes in rust-v0.159.0]]'
 - '[[Changes/Gemini CLI/2026-09-29-2-apps-and-integrations-changes-in-v0-62-0|2 Apps
   and Integrations changes in v0.62.0]]'
+- '[[Changes/Lovable/2026-09-29-lovable-mcp-now-works-with-muse-by-meta|Lovable MCP
+  now works with Muse by Meta]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-30-v2-1-286-github-400266224-9fb31eb7|claude-code-2026-09-30-v2-1-286-github-400266224-9fb31eb7]]'
 source_type: github_releases
 theme: apps-integrations
@@ -140,7 +140,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.286
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-09-29 · Gemini CLI · [[Changes/Gemini CLI/2026-09-29-2-apps-and-integrations-changes-in-v0-62-0|2 Apps and Integrations changes in v0.62.0]]
+- Earlier: 2026-09-29 · Lovable · [[Changes/Lovable/2026-09-29-lovable-mcp-now-works-with-muse-by-meta|Lovable MCP now works with Muse by Meta]]
 - Later: 2026-09-30 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-09-30-3-apps-and-integrations-changes-in-v1-0-90|3 Apps and Integrations changes in v1.0.90]]
 <!-- chronolog:end -->
 

@@ -4,20 +4,20 @@ date: '2026-10-30'
 description: 'Windsurf · 2026-10-30 · Enterprise and Administration: Members an enterprise
   admin has listed for Anthropic''s Cyber Verification Program can now switch the…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2024-03-20-admin-improvements-team-admins-can-now-mark-themselves-as-unpaid-users-and-can-s|Admin
-    improvements: Team admins can now mark themselves as unpaid users and can see…]]'
+  first_in_tracked: '[[Changes/Gemini/2023-05-05-access-for-google-workspace-accounts|Access
+    for Google Workspace accounts]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 954
+  lag_days: 1274
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: c121f8a6a1d1e4bc7bbd41d042bc04134b14f7211d179a20f88d8c785df4fc16
+machine_hash: 889ed3e77f974fffa9c14d8b14c22ee49082f548165586566e2ac303174347d6
 product: windsurf
 product_name: Windsurf
 record:
@@ -63,10 +63,10 @@ record:
     Program…
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-10-20-model-picker-marks-your-administrator-managed-model-as-the-default-when-it-is-av|Model
-  picker marks your administrator-managed model as the default when it is available]]'
-- '[[Changes/Claude Code/2026-10-23-cloud-sessions-added-claude-code-cloud-sessions-and-remote-control-permissions-t|Cloud
-  sessions Added Claude Code cloud sessions and Remote Control permissions…]]'
+- '[[Changes/Lovable/2026-10-29-move-sso-to-a-new-identity-provider|Move SSO to a
+  new identity provider]]'
+- "[[Changes/Open WebUI/2026-10-29-admins-manage-user-api-keys-administrators-can-now-rotate-or-delete-a-user-s-api|\U0001F5DD️
+  Admins manage user API keys. Administrators can now rotate or delete a user's…]]"
 - '[[Changes/Claude Code/2026-10-30-3-enterprise-and-administration-changes-in-v2-1-314|3
   Enterprise and Administration changes in v2.1.314]]'
 source_release: '[[Releases/Windsurf/windsurf-2026-10-30-v3-11-238-024f2435|windsurf-2026-10-30-v3-11-238-024f2435]]'
@@ -102,7 +102,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2024-03-20 · Cursor · [[Changes/Cursor/2024-03-20-admin-improvements-team-admins-can-now-mark-themselves-as-unpaid-users-and-can-s|Admin improvements: Team admins can now mark themselves as unpaid users and can see…]]
+- Earliest same-theme entry in the tracked set: 2023-05-05 · Gemini · [[Changes/Gemini/2023-05-05-access-for-google-workspace-accounts|Access for Google Workspace accounts]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

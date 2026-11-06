@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 42e199bee76dbb5f7bcb91861c851cafc8891642b2c824f9807f3f284acce6ae
+machine_hash: e515bae86c886ec6de12ca99732a3e28abcc8599fbb49eafd297708a268d29ac
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -45,12 +45,12 @@ record:
   title: 2 Model Support changes in v1.0.49
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-05-18-it-s-a-substantial-improvement-in-intelligence-and-behavior-over-composer-2-it-i|It''s
-  a substantial improvement in intelligence and behavior over Composer 2]]'
-- '[[Changes/Claude Code/2026-05-19-resumed-sessions-now-keep-the-model-they-were-using-instead-of-picking-up-anothe|Resumed
-  sessions now keep the model they were using instead of picking up another…]]'
-- '[[Changes/Cline/2026-05-19-add-sap-ai-core-support-for-additional-hosted-models|Add
-  SAP AI Core support for additional hosted models]]'
+- '[[Changes/Dify/2026-05-19-3-model-support-changes-in-1-14-2|3 Model Support changes
+  in 1.14.2]]'
+- '[[Changes/Gemini/2026-05-19-3-5-flash-delivers-frontier-level-intelligence-for-your-daily-life|3.5
+  Flash delivers frontier-level intelligence for your daily life]]'
+- '[[Changes/Gemini/2026-05-19-gemini-responses-are-now-even-richer-more-dynamic-and-interactive|Gemini
+  responses are now even richer, more dynamic, and interactive]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-05-19-v1-0-49-github-324640083-4bf093b8|github-copilot-cli-2026-05-19-v1-0-49-github-324640083-4bf093b8]]'
 source_type: github_releases
 theme: model-support
@@ -93,7 +93,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.49
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-05-19 · Cline · [[Changes/Cline/2026-05-19-add-sap-ai-core-support-for-additional-hosted-models|Add SAP AI Core support for additional hosted models]]
+- Earlier: 2026-05-19 · Gemini · [[Changes/Gemini/2026-05-19-gemini-responses-are-now-even-richer-more-dynamic-and-interactive|Gemini responses are now even richer, more dynamic, and interactive]]
 - Later: 2026-05-20 · Codex CLI · [[Changes/Codex CLI/2026-05-20-23069-multiagent-trim-model-visible-description-cap-to-5-models-sayan-oai|♯23069 multiagent: trim model-visible description, cap to 5 models @sayan-oai]]
 <!-- chronolog:end -->
 

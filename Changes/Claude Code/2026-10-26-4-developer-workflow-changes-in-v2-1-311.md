@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: fba275fbb0185dfd943cecbb1a309adb649e33003189c6a068bfc845eec69bcb
+machine_hash: 819fd85e064c878113de47b0d528d8044b0c4c9b8fa25c7df45a882ed23bb3be
 product: claude-code
 product_name: Claude Code
 record:
@@ -52,12 +52,12 @@ record:
   title: 4 Developer Workflow changes in v2.1.311
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-10-23-14-developer-workflow-changes-in-rust-v0-164-0|14
-  Developer Workflow changes in rust-v0.164.0]]'
 - '[[Changes/Windsurf/2026-10-23-4-developer-workflow-changes-in-v3-11-212|4 Developer
   Workflow changes in v3.11.212]]'
 - '[[Changes/Windsurf/2026-10-24-2-developer-workflow-changes-in-v3-11-216|2 Developer
   Workflow changes in v3.11.216]]'
+- '[[Changes/Open WebUI/2026-10-25-49-developer-workflow-changes-in-v0-12-4|49 Developer
+  Workflow changes in v0.12.4]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-10-26-v2-1-311-github-424682562-151da26b|claude-code-2026-10-26-v2-1-311-github-424682562-151da26b]]'
 source_type: github_releases
 theme: developer-workflow
@@ -104,7 +104,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.311
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2026-10-24 · Windsurf · [[Changes/Windsurf/2026-10-24-2-developer-workflow-changes-in-v3-11-216|2 Developer Workflow changes in v3.11.216]]
+- Earlier: 2026-10-25 · Open WebUI · [[Changes/Open WebUI/2026-10-25-49-developer-workflow-changes-in-v0-12-4|49 Developer Workflow changes in v0.12.4]]
 - Later: 2026-10-26 · Cline · [[Changes/Cline/2026-10-26-starting-a-command-no-longer-moves-keyboard-focus-into-the-terminal-so-text-you|Starting a command no longer moves keyboard focus into the terminal, so text you're…]]
 <!-- chronolog:end -->
 

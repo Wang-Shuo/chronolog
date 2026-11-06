@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: a0d90ece157f3a0836b2afb0e4e773e2afbb2101be12d5bd10dcd7317f8c4a15
+machine_hash: a41a14b9f6f287361f26fe6ec1e54edab5796f8e52c6a136c8fca06fa6f4648b
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -55,8 +55,8 @@ record:
   title: 6 Model Support changes in rust-v0.138.0
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-06-06-3-model-support-changes-in-v2-1-166|3 Model Support
-  changes in v2.1.166]]'
+- '[[Changes/Ollama/2026-06-07-openai-compatible-api-models-list-now-aligns-with-available-model-tags|OpenAI-compatible
+  API models list now aligns with available model tags]]'
 - '[[Changes/ChatGPT/2026-06-08-long-press-send-to-choose-a-model-users-on-paid-plans-can-now-long-press-the-sen|Long-press
   send to choose a model]]'
 - '[[Changes/Claude Code/2026-06-08-added-a-disablebundledskills-setting-and-claude-code-disable-bundled-skills-envi|Added
@@ -111,7 +111,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.138.0
 ## Nearby in Model Support
 
 - Earlier: 2026-06-08 · Claude Code · [[Changes/Claude Code/2026-06-08-added-a-disablebundledskills-setting-and-claude-code-disable-bundled-skills-envi|Added a disableBundledSkills setting and CLAUDE_CODE_DISABLE_BUNDLED_SKILLS…]]
-- Later: 2026-06-09 · Claude Code · [[Changes/Claude Code/2026-06-09-introducing-claude-fable-5-a-mythos-class-model-that-we-ve-made-safe-for-general|Introducing Claude Fable 5: a Mythos-class model that we’ve made safe for general use]]
+- Later: 2026-06-08 · ElevenLabs · [[Changes/ElevenLabs/2026-06-08-python-sdk|Python SDK]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 98026734154083a4117f2eea5af0e16679a908b34a04b08cbb8f308494a4be89
+machine_hash: 5c46ca844d7778bc065a9771db1100883d33e45df5b90381d77de9a95b77d530
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -46,12 +46,12 @@ record:
   title: 3 Apps and Integrations changes in v1.0.74
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-07-21-capped-the-frontend-design-plugin-suggestion-tip-at-3-lifetime-impressions-inste|Capped
-  the frontend-design plugin suggestion tip at 3 lifetime impressions instead…]]'
-- '[[Changes/Codex CLI/2026-07-21-44-apps-and-integrations-changes-in-rust-v0-145-0|44
-  Apps and Integrations changes in rust-v0.145.0]]'
 - '[[Changes/Claude Code/2026-07-22-3-apps-and-integrations-changes-in-v2-1-218|3
   Apps and Integrations changes in v2.1.218]]'
+- '[[Changes/Lovable/2026-07-22-bulk-edit-your-shopify-catalog-in-one-approval|Bulk-edit
+  your Shopify catalog in one approval]]'
+- '[[Changes/Lovable/2026-07-22-lovable-mcp-is-now-a-codex-plugin|Lovable MCP is now
+  a Codex plugin]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-07-23-v1-0-74-github-358979195-44813cc5|github-copilot-cli-2026-07-23-v1-0-74-github-358979195-44813cc5]]'
 source_type: github_releases
 theme: apps-integrations
@@ -92,8 +92,8 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.74
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-07-22 · Claude Code · [[Changes/Claude Code/2026-07-22-3-apps-and-integrations-changes-in-v2-1-218|3 Apps and Integrations changes in v2.1.218]]
-- Later: 2026-07-24 · Claude Code · [[Changes/Claude Code/2026-07-24-5-apps-and-integrations-changes-in-v2-1-219|5 Apps and Integrations changes in v2.1.219]]
+- Earlier: 2026-07-22 · Lovable · [[Changes/Lovable/2026-07-22-lovable-mcp-is-now-a-codex-plugin|Lovable MCP is now a Codex plugin]]
+- Later: 2026-07-23 · Lovable · [[Changes/Lovable/2026-07-23-let-your-app-s-users-connect-their-own-notion|Let your app's users connect their own Notion]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

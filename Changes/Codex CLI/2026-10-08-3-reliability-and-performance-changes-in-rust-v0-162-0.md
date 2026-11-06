@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 86f9f83e6a863e4ba7f66aedae742b921bac0f38adfe00ce6a56019578dde093
+machine_hash: 9a5593a3295319fa238c18d55007598bc6baeb9c7b7887019a945dd5a47c9c7b
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -46,12 +46,11 @@ record:
   title: 3 Reliability and Performance changes in rust-v0.162.0
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-01-3-reliability-and-performance-changes-in-v2-1-287|3
-  Reliability and Performance changes in v2.1.287]]'
 - '[[Changes/Claude Code/2026-10-05-2-reliability-and-performance-changes-in-v2-1-290|2
   Reliability and Performance changes in v2.1.290]]'
 - '[[Changes/Claude Code/2026-10-06-improved-rendering-speed-of-long-bulleted-or-numbered-replies-they-stream-resize|Improved
   rendering speed of long bulleted or numbered replies]]'
+- '[[Changes/Lovable/2026-10-07-faster-inline-text-edits|Faster inline text edits]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-10-08-rust-v0-162-0-github-407151970-b80d60db|codex-cli-2026-10-08-rust-v0-162-0-github-407151970-b80d60db]]'
 source_type: github_releases
 theme: reliability-performance
@@ -99,8 +98,8 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.162.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2026-10-06 · Claude Code · [[Changes/Claude Code/2026-10-06-improved-rendering-speed-of-long-bulleted-or-numbered-replies-they-stream-resize|Improved rendering speed of long bulleted or numbered replies]]
-- Later: 2026-10-09 · Claude Code · [[Changes/Claude Code/2026-10-09-improved-transcript-toggle-ctrl-o-responsiveness-in-code-heavy-conversations-by|Improved transcript toggle (ctrl+o) responsiveness in code-heavy conversations…]]
+- Earlier: 2026-10-07 · Lovable · [[Changes/Lovable/2026-10-07-faster-inline-text-edits|Faster inline text edits]]
+- Later: 2026-10-08 · Ollama · [[Changes/Ollama/2026-10-08-models-downloaded-with-earlier-versions-of-ollama-are-upgraded-in-the-background|Models downloaded with earlier versions of Ollama are upgraded in the background…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

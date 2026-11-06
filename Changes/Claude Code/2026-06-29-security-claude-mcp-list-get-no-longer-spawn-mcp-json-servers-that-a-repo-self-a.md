@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: fb856b0b5029b7a53a89f4aa4cf846da17014847c291bfa546b09aad3c49b9b9
+machine_hash: 50e48d25f4889e97cb14e5031e8ab7fbbc1d6a240512a85958b9b11d0b16bd19
 product: claude-code
 product_name: Claude Code
 record:
@@ -56,10 +56,10 @@ record:
     a repo…'
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-06-24-commands-with-slash-prefixed-string-arguments-e-g-body-azp-run-no-longer-trigger|Commands
-  with slash-prefixed string arguments (e.g. --body "/azp run") no longer…]]'
 - '[[Changes/Codex CLI/2026-06-25-2-safety-and-privacy-changes-in-rust-v0-142-2|2
   Safety and Privacy changes in rust-v0.142.2]]'
+- '[[Changes/Dify/2026-06-25-14-safety-and-privacy-changes-in-1-15-0|14 Safety and
+  Privacy changes in 1.15.0]]'
 - '[[Changes/Claude Code/2026-06-26-fixed-external-plugins-enabled-only-by-project-claude-settings-json-not-requirin|Fixed
   external plugins enabled only by project .claude/settings.json not requiring…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-06-29-v2-1-196-github-346482381-e21be272|claude-code-2026-06-29-v2-1-196-github-346482381-e21be272]]'
@@ -98,7 +98,7 @@ type: change
 ## Nearby in Safety and Privacy
 
 - Earlier: 2026-06-26 · Claude Code · [[Changes/Claude Code/2026-06-26-fixed-external-plugins-enabled-only-by-project-claude-settings-json-not-requirin|Fixed external plugins enabled only by project .claude/settings.json not requiring…]]
-- Later: 2026-06-30 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-06-30-disabling-the-sandbox-for-the-rest-of-the-session-now-takes-effect-immediately-s|Disabling the sandbox for the rest of the session now takes effect immediately…]]
+- Later: 2026-06-29 · Lovable · [[Changes/Lovable/2026-06-29-set-a-default-data-hosting-region-for-new-projects|Set a default data hosting region for new projects]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: b143b03858a92d2c1de212e5cc0aac67da3cbf827da3395b8a085f3c7209531e
+machine_hash: e4ce34d79036635eef761ae2a1aafa91935a7b81e647053fcbe781aca3da4a65
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,8 +45,8 @@ record:
   title: '`!` bash commands now trigger Claude to respond to the output automatically'
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-06-15-7-context-window-changes-in-rust-v0-140-0|7 Context
-  Window changes in rust-v0.140.0]]'
+- '[[Changes/Ollama/2026-06-15-ollama-will-now-return-an-error-if-a-single-message-is-larger-than-the-current-c|Ollama
+  will now return an error if a single message is larger than the current…]]'
 - '[[Changes/Codex CLI/2026-06-18-2-context-window-changes-in-rust-v0-141-0|2 Context
   Window changes in rust-v0.141.0]]'
 - '[[Changes/ChatGPT/2026-06-22-starting-today-for-chatgpt-free-and-go-users-long-pastes-are-handled-differently|Large

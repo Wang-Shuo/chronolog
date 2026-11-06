@@ -4,20 +4,20 @@ date: '2026-08-27'
 description: 'GitHub Copilot CLI · 2026-08-27 · Automation and Scheduling: Use x to
   remove scheduled /every and /after prompts in Schedule Manager'
 diffusion:
-  first_in_tracked: '[[Changes/OpenHands/2024-09-04-better-syntax-error-loop-detection-by-tobitege-in-https-github-com-all-hands-ai|Better
-    syntax error loop detection]]'
+  first_in_tracked: '[[Changes/Dify/2024-01-02-add-data-clean-schedule-by-johnjyong-in-https-github-com-langgenius-dify-pull-18|Add
+    data clean schedule]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 722
+  lag_days: 968
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 02cbefa3f3ba64b833054f56c93a8a7206e6356428d10a1295bfdcfb9c22c3b2
+machine_hash: 9786c77d12890c72d6c009f55ea858dfac9dd2f8fbe2ec53b0ae2d5432f84ed5
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -43,8 +43,8 @@ record:
   title: Use x to remove scheduled /every and /after prompts in Schedule Manager
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-08-25-free-users-can-create-up-to-three-active-scheduled-tasks-tasks-can-run-once-or-r|Scheduled
-  tasks for Free users]]'
+- '[[Changes/Open WebUI/2026-08-25-11-automation-and-scheduling-changes-in-v0-11-1|11
+  Automation and Scheduling changes in v0.11.1]]'
 - '[[Changes/Codex CLI/2026-08-26-40436-add-a-managed-gate-for-in-app-local-automation-copyberry|♯40436
   Add a managed gate for in-app local automation @copyberry]]'
 - '[[Changes/Claude Code/2026-08-27-changed-loop-self-paced-dynamic-mode-and-the-no-prompt-autonomous-default-are-no|Changed
@@ -99,7 +99,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2024-09-04 · OpenHands · [[Changes/OpenHands/2024-09-04-better-syntax-error-loop-detection-by-tobitege-in-https-github-com-all-hands-ai|Better syntax error loop detection]]
+- Earliest same-theme entry in the tracked set: 2024-01-02 · Dify · [[Changes/Dify/2024-01-02-add-data-clean-schedule-by-johnjyong-in-https-github-com-langgenius-dify-pull-18|Add data clean schedule]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

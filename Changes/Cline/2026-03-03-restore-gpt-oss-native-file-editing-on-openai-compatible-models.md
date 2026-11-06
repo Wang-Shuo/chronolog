@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 39d9b5bd04a0250516cb65d675821ba1c15dba91b076e0dbc04bcb2b2a8a1faf
+machine_hash: 6da18ac1b3307c18391a97a06d98d22fd564289b0bd6a625a7de5021bb836424
 product: cline
 product_name: Cline
 record:
@@ -41,10 +41,10 @@ record:
   title: Restore GPT-OSS native file editing on OpenAI-compatible models
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2026-02-27-11-model-support-changes-in-v0-31-0|11 Model Support
-  changes in v0.31.0]]'
-- '[[Changes/Codex CLI/2026-03-02-4-model-support-changes-in-rust-v0-107-0|4 Model
-  Support changes in rust-v0.107.0]]'
+- '[[Changes/Ollama/2026-03-02-qwen3-5-https-ollama-com-library-qwen3-5-the-small-qwen-3-5-model-series-is-now|Qwen3.5((source
+  link) the small Qwen 3.5 model series…]]'
+- "[[Changes/Open WebUI/2026-03-02-temporary-chat-params-preservation-model-parameters-are-now-correctly-saved-when|\U0001F4BE
+  Temporary chat params preservation. Model parameters are now correctly saved…]]"
 - '[[Changes/ChatGPT/2026-03-03-gpt-5-3-instant-delivers-more-accurate-answers-richer-and-better-contextualized|GPT-5.3
   Instant Update]]'
 source_release: '[[Releases/Cline/cline-2026-03-03-v3-69-0-github-292321177-f95c432e|cline-2026-03-03-v3-69-0-github-292321177-f95c432e]]'

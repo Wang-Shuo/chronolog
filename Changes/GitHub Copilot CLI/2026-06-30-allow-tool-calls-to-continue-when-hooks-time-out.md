@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: e5fbf199625a79816020df91b82a9893855a30bf54cb42f860fecb4d604ac7bd
+machine_hash: 635b0741b843ecead5ecb3623f66637334c2b5310de07fd77c2c34e124279bb8
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -43,10 +43,9 @@ record:
   title: Allow tool calls to continue when hooks time out
   type: change
 related_changes:
-- '[[Changes/Cline/2026-06-28-roll-the-stable-vs-code-extension-back-to-the-pre-sdk-migration-codebase-to-reso|Roll
-  the stable VS Code extension back to the pre-SDK-migration codebase to resolve…]]'
-- '[[Changes/Claude Code/2026-06-29-remote-control-is-now-disabled-when-anthropic-base-url-points-at-a-non-anthropic|Remote
-  Control is now disabled when ANTHROPIC_BASE_URL points at a non-Anthropic…]]'
+- '[[Changes/Lovable/2026-06-29-app-connector-x|App connector: X]]'
+- '[[Changes/Open WebUI/2026-06-29-7-apps-and-integrations-changes-in-v0-10-0|7 Apps
+  and Integrations changes in v0.10.0]]'
 - '[[Changes/GitHub Copilot CLI/2026-06-30-9-apps-and-integrations-changes-in-v1-0-66|9
   Apps and Integrations changes in v1.0.66]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-06-30-v1-0-67-github-347129452-cdc0d10f|github-copilot-cli-2026-06-30-v1-0-67-github-347129452-cdc0d10f]]'

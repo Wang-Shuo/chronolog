@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 3bd169a019d38a72efb0a4a3218e6e787f70568768ec30f06348884ebc25164a
+machine_hash: e66d241383ec4f0133bd196848aa5bfa55243da5695f6430600c94de8004a02e
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -43,12 +43,12 @@ record:
   title: 2 Editor Experience changes in v0.0.337
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2025-10-06-3-editor-experience-changes-in-v0-0-335|3
-  Editor Experience changes in v0.0.335]]'
 - '[[Changes/Gemini CLI/2025-10-07-4-editor-experience-changes-in-v0-8-0|4 Editor
   Experience changes in v0.8.0]]'
 - '[[Changes/GitHub Copilot CLI/2025-10-07-3-editor-experience-changes-in-v0-0-336|3
   Editor Experience changes in v0.0.336]]'
+- '[[Changes/Open WebUI/2025-10-07-tab-characters-are-now-preserved-when-pasting-code-or-formatted-text-into-the-ch|⌨️
+  Tab characters are now preserved when pasting code or formatted text…]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2025-10-08-v0-0-337-github-253168640-7d65819d|github-copilot-cli-2025-10-08-v0-0-337-github-253168640-7d65819d]]'
 source_type: github_releases
 theme: editor-experience
@@ -83,7 +83,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v0.0.337
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2025-10-07 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2025-10-07-3-editor-experience-changes-in-v0-0-336|3 Editor Experience changes in v0.0.336]]
+- Earlier: 2025-10-07 · Open WebUI · [[Changes/Open WebUI/2025-10-07-tab-characters-are-now-preserved-when-pasting-code-or-formatted-text-into-the-ch|⌨️ Tab characters are now preserved when pasting code or formatted text…]]
 - Later: 2025-10-09 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2025-10-09-2-editor-experience-changes-in-v0-0-338|2 Editor Experience changes in v0.0.338]]
 <!-- chronolog:end -->
 

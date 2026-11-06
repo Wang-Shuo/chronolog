@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 3bcb8b2ff5f90bde138ed2cb2b03796d6baf4e35bf77c6d6597c6dde17d578f0
+machine_hash: 1ab3aef444f44f841f9d5c655bfc0cd32c36514698d26178f7c663632e5a4959
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -61,10 +61,9 @@ record:
   title: 9 Model Support changes in rust-v0.165.0
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-26-5-model-support-changes-in-v2-1-311|5 Model Support
-  changes in v2.1.311]]'
-- '[[Changes/Cline/2026-10-26-10-model-support-changes-in-v4-1-26|10 Model Support
-  changes in v4.1.26]]'
+- '[[Changes/ElevenLabs/2026-10-26-fast-llm-service-tier|Fast LLM service tier]]'
+- '[[Changes/ElevenLabs/2026-10-26-3-model-support-changes-in-elevenlabs-updates-2026-10-26|3
+  Model Support changes in ElevenLabs updates — 2026-10-26]]'
 - '[[Changes/Claude Code/2026-10-27-3-model-support-changes-in-v2-1-312|3 Model Support
   changes in v2.1.312]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-10-27-rust-v0-165-0-github-425927431-1fa685eb|codex-cli-2026-10-27-rust-v0-165-0-github-425927431-1fa685eb]]'

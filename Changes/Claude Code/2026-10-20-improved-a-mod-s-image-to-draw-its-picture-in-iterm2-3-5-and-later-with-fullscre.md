@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: a25d4ba503b154eff9dc5b1bb9cb6823a6b1992450c2f8dbae6b0fc4fa2d9ae7
+machine_hash: e60d35e17dae44bc0b123483bc2e11a6a039bdb94cc5431a9feb01b091f755da
 product: claude-code
 product_name: Claude Code
 record:
@@ -44,8 +44,8 @@ record:
     fullscreen…
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-10-15-8-interface-experience-changes-in-rust-v0-163-0|8
-  Interface Experience changes in rust-v0.163.0]]'
+- '[[Changes/v0/2026-10-16-2-interface-experience-changes-in-downloads-in-the-code-tab-new-ios|2
+  Interface Experience changes in Downloads in the Code tab, new iOS…]]'
 - '[[Changes/GitHub Copilot CLI/2026-10-19-2-interface-experience-changes-in-v1-0-100|2
   Interface Experience changes in v1.0.100]]'
 - '[[Changes/OpenHands/2026-10-19-test-e2e-bound-and-diagnose-sidebar-modified-click-tab-waits-by-enyst-in-https-g|test(e2e):
@@ -85,7 +85,7 @@ type: change
 ## Nearby in Interface Experience
 
 - Earlier: 2026-10-19 · OpenHands · [[Changes/OpenHands/2026-10-19-test-e2e-bound-and-diagnose-sidebar-modified-click-tab-waits-by-enyst-in-https-g|test(e2e): bound and diagnose sidebar modified-click tab waits]]
-- Later: 2026-10-23 · Claude Code · [[Changes/Claude Code/2026-10-23-improved-a-mod-s-image-to-draw-inside-tmux-with-allow-passthrough-and-focus-even|Improved a mod's Image to draw inside tmux with allow-passthrough…]]
+- Later: 2026-10-20 · Lovable · [[Changes/Lovable/2026-10-20-redesigned-more-menu|Redesigned More menu]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: b78fef665e58fb6ca39a92fb8921af95ccd8c85364421a124ce72941d31133cc
+machine_hash: f9c56d87a4da59efec2ff8c2a6180cdb5287c9302c004431caa1e5b51e705b31
 product: claude-code
 product_name: Claude Code
 record:
@@ -44,8 +44,8 @@ record:
   title: 2 Model Support changes in v2.1.143
   type: change
 related_changes:
-- '[[Changes/Cline/2026-05-13-enable-openrouter-prompt-cache-control-for-qwen-models|Enable
-  OpenRouter prompt cache control for Qwen models]]'
+- '[[Changes/Ollama/2026-05-13-nomic-embed-text-now-converts-inputs-to-lowercase-per-the-model-card-where-prior|nomic-embed-text
+  now converts inputs to lowercase per the model card where prior…]]'
 - '[[Changes/Claude Code/2026-05-14-2-model-support-changes-in-v2-1-142|2 Model Support
   changes in v2.1.142]]'
 - '[[Changes/GitHub Copilot CLI/2026-05-14-2-model-support-changes-in-v1-0-48|2 Model
@@ -90,7 +90,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.143
 ## Nearby in Model Support
 
 - Earlier: 2026-05-14 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-05-14-2-model-support-changes-in-v1-0-48|2 Model Support changes in v1.0.48]]
-- Later: 2026-05-18 · Codex CLI · [[Changes/Codex CLI/2026-05-18-4-model-support-changes-in-rust-v0-131-0|4 Model Support changes in rust-v0.131.0]]
+- Later: 2026-05-15 · v0 · [[Changes/v0/2026-05-15-claude-opus-4-7-fast-is-available-as-a-new-model-option-under-more-models-with-2|Claude Opus 4.7 Fast is available as a new model option under…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

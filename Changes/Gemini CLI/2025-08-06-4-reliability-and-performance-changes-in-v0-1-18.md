@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: cc11cb121200b8306bcc3a260ad84071c2aca68bc0440ea01a3d0885aedf097f
+machine_hash: 4ee57f3af7736cdf64c38f04fac3d9812fa6808f648dc6ff945be80a95870c18
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -51,11 +51,11 @@ record:
   title: 4 Reliability and Performance changes in v0.1.18
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2025-08-02-2-reliability-and-performance-changes-in-v0-1-16|2
-  Reliability and Performance changes in v0.1.16]]'
-- '[[Changes/Gemini CLI/2025-08-05-2-reliability-and-performance-changes-in-v0-1-17|2
-  Reliability and Performance changes in v0.1.17]]'
+- '[[Changes/Ollama/2025-08-05-2-reliability-and-performance-changes-in-v0-11-0|2
+  Reliability and Performance changes in v0.11.0]]'
 - '[[Changes/Cursor/2025-08-06-1-4-5-improved-performance|1.4.5: Improved performance]]'
+- '[[Changes/Gemini/2025-08-06-understand-complex-topics-faster-with-integrated-visuals-and-youtube-videos|Understand
+  Complex Topics Faster with Integrated Visuals and YouTube videos]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2025-08-06-v0-1-18-github-237823435-7c1f8990|gemini-cli-2025-08-06-v0-1-18-github-237823435-7c1f8990]]'
 source_type: github_releases
 theme: reliability-performance
@@ -105,8 +105,8 @@ Source: https://github.com/google-gemini/gemini-cli/releases/tag/v0.1.18
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2025-08-06 · Cursor · [[Changes/Cursor/2025-08-06-1-4-5-improved-performance|1.4.5: Improved performance]]
-- Later: 2025-08-12 · Gemini CLI · [[Changes/Gemini CLI/2025-08-12-2-reliability-and-performance-changes-in-v0-1-19|2 Reliability and Performance changes in v0.1.19]]
+- Earlier: 2025-08-06 · Gemini · [[Changes/Gemini/2025-08-06-understand-complex-topics-faster-with-integrated-visuals-and-youtube-videos|Understand Complex Topics Faster with Integrated Visuals and YouTube videos]]
+- Later: 2025-08-09 · Open WebUI · [[Changes/Open WebUI/2025-08-09-15-reliability-and-performance-changes-in-v0-6-19|15 Reliability and Performance changes in v0.6.19]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 636409c1b71e9ba827440d024d9078e50d49ed2e69ce1c8e664f7fecbb4ddd84
+machine_hash: e279adbfd345b8f76b6e15874f1f571f7c8c97f9eb1583072a39bff43d25f283
 product: claude-code
 product_name: Claude Code
 record:
@@ -44,12 +44,12 @@ record:
   title: Added transcript view navigation
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-05-07-20065-feat-tui-redesign-session-picker-fcoury-oai|♯20065
-  feat(tui): redesign session picker @fcoury-oai]]'
-- '[[Changes/Codex CLI/2026-05-08-20665-make-environment-providers-own-default-selection-starr-openai|♯20665
-  Make environment providers own default selection @starr-openai]]'
 - '[[Changes/GitHub Copilot CLI/2026-05-08-project-info-remains-visible-in-slash-command-picker-when-no-results-match|Project
   info remains visible in slash command picker when no results match]]'
+- '[[Changes/Open WebUI/2026-05-09-8-interface-experience-changes-in-v0-9-3|8 Interface
+  Experience changes in v0.9.3]]'
+- '[[Changes/Open WebUI/2026-05-10-2-interface-experience-changes-in-v0-9-5|2 Interface
+  Experience changes in v0.9.5]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-05-11-v2-1-139-github-320692766-5e65de7d|claude-code-2026-05-11-v2-1-139-github-320692766-5e65de7d]]'
 source_type: github_releases
 theme: interface-experience
@@ -87,8 +87,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-05-08 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-05-08-project-info-remains-visible-in-slash-command-picker-when-no-results-match|Project info remains visible in slash command picker when no results match]]
-- Later: 2026-05-12 · Gemini CLI · [[Changes/Gemini CLI/2026-05-12-test-evals-add-behavioral-eval-for-file-creation-and-write-file-tool-selection-b|test(evals): add behavioral eval for file creation and write_file tool selection]]
+- Earlier: 2026-05-10 · Open WebUI · [[Changes/Open WebUI/2026-05-10-2-interface-experience-changes-in-v0-9-5|2 Interface Experience changes in v0.9.5]]
+- Later: 2026-05-12 · Dify · [[Changes/Dify/2026-05-12-8-interface-experience-changes-in-1-14-1|8 Interface Experience changes in 1.14.1]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

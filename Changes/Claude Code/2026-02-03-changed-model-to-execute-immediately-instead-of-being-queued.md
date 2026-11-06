@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: ad371da34053f96638bb23826f2991917e2f3aab62f64424fc142da4824c91e3
+machine_hash: 2e0e93c93c9e97f8b732636f39c467192e94124938e61b8a4c9a79b2529d98e8
 product: claude-code
 product_name: Claude Code
 record:
@@ -43,11 +43,10 @@ record:
   title: Changed `/model` to execute immediately instead of being queued
   type: change
 related_changes:
-- '[[Changes/Windsurf/2026-01-30-wave-14-arena-mode|Wave 14: Arena Mode]]'
-- '[[Changes/Codex CLI/2026-01-31-10118-codex-cli-show-model-capacity-guidance-on-429-ccy-oai|♯10118
-  CodexCLI Show model-capacity guidance on 429 @ccy-oai]]'
 - '[[Changes/Codex CLI/2026-02-02-10373-chore-core-gpt-5-2-codex-personality-template-dylan-hurd-oai|♯10373
   chore(core) gpt-5.2-codex personality template @dylan-hurd-oai]]'
+- '[[Changes/ElevenLabs/2026-02-02-text-to-dialogue|Text-to-Dialogue]]'
+- '[[Changes/ElevenLabs/2026-02-02-user|User]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-02-03-v2-1-30-github-282673902-7b2e46f2|claude-code-2026-02-03-v2-1-30-github-282673902-7b2e46f2]]'
 source_type: github_releases
 theme: model-support
@@ -83,8 +82,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-02-02 · Codex CLI · [[Changes/Codex CLI/2026-02-02-10373-chore-core-gpt-5-2-codex-personality-template-dylan-hurd-oai|♯10373 chore(core) gpt-5.2-codex personality template @dylan-hurd-oai]]
-- Later: 2026-02-03 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-02-03-improve-handling-of-chat-history-when-switching-between-model-families|Improve handling of chat history when switching between model families]]
+- Earlier: 2026-02-02 · ElevenLabs · [[Changes/ElevenLabs/2026-02-02-user|User]]
+- Later: 2026-02-03 · Dify · [[Changes/Dify/2026-02-03-5-model-support-changes-in-1-12-0|5 Model Support changes in 1.12.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 6a2cda8ae2684a512314416a157472f018035a09fdd5eb5d7eaa81e8f7f65d7b
+machine_hash: b66ac8ebcc57f45563270b6318e187f63660da8c6fedd2001e963e8fea7e584f
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -47,8 +47,7 @@ record:
   title: 3 Safety and Privacy changes in v0.26.0
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-01-25-4-safety-and-privacy-changes-in-rust-v0-90-0|4 Safety
-  and Privacy changes in rust-v0.90.0]]'
+- '[[Changes/ElevenLabs/2026-01-26-workspaces|Workspaces]]'
 - '[[Changes/Claude Code/2026-01-27-2-safety-and-privacy-changes-in-v2-1-20|2 Safety
   and Privacy changes in v2.1.20]]'
 - '[[Changes/Codex CLI/2026-01-27-2-safety-and-privacy-changes-in-rust-v0-92-0|2 Safety

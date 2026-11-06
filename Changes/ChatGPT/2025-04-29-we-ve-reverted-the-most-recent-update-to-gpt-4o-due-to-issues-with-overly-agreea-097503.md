@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 99c889be4bf936ab7e20f5df6a2c54b01164cc8c4b50e7a9a597db2c1ca3708c
+machine_hash: 500988a7dae9ff9e125e31499f1fb5a715d2bda4fb4527872b4e12d7c6ed9a90
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -51,11 +51,11 @@ record:
   title: Updates to GPT-4o
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2025-04-25-we-re-making-additional-improvements-to-gpt-4o-optimizing-when-it-saves-memories|Improvements
-  to GPT-4o]]'
-- '[[Changes/Cline/2025-04-25-add-prompt-caching-to-gemini-models-in-cline-openrouter-providers|Add
-  prompt caching to gemini models in cline / openrouter providers]]'
+- '[[Changes/Ollama/2025-04-26-4-model-support-changes-in-v0-6-7|4 Model Support changes
+  in v0.6.7]]'
 - '[[Changes/Windsurf/2025-04-27-misc|Misc]]'
+- '[[Changes/Dify/2025-04-28-chore-disabled-struct-output-not-show-model-not-support-warning-by-iamjoel-in-ht|chore:
+  disabled struct output not show model not support warning]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-04-29-updates-to-gpt-4o-3c847c95|chatgpt-2025-04-29-updates-to-gpt-4o-3c847c95]]'
 source_type: chatgpt_changelog
 theme: model-support
@@ -82,7 +82,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2025-04-27 · Windsurf · [[Changes/Windsurf/2025-04-27-misc|Misc]]
+- Earlier: 2025-04-28 · Dify · [[Changes/Dify/2025-04-28-chore-disabled-struct-output-not-show-model-not-support-warning-by-iamjoel-in-ht|chore: disabled struct output not show model not support warning]]
 - Later: 2025-05-03 · Cline · [[Changes/Cline/2025-05-03-5-model-support-changes-in-v3-14-0|5 Model Support changes in v3.14.0]]
 <!-- chronolog:end -->
 

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: b438eb1a70aeb8e34a2d09a10cac395d4f89b1942ce33a9b4191332971410703
+machine_hash: 6881561889c26725d4728e44444b1c7f879340c1f1b6dc8afef4ae3ed2265c46
 product: claude-code
 product_name: Claude Code
 record:
@@ -79,7 +79,7 @@ type: change
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-05-11 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-05-11-opentelemetry-output-aligns-with-genai-semantic-conventions-mcp-tool-calls-now-u|OpenTelemetry output aligns with GenAI semantic conventions]]
-- Later: 2026-05-12 · Gemini CLI · [[Changes/Gemini CLI/2026-05-12-5-apps-and-integrations-changes-in-v0-42-0|5 Apps and Integrations changes in v0.42.0]]
+- Later: 2026-05-12 · Dify · [[Changes/Dify/2026-05-12-4-apps-and-integrations-changes-in-1-14-1|4 Apps and Integrations changes in 1.14.1]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

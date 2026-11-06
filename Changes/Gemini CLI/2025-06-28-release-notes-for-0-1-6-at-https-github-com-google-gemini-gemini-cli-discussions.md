@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: bef18234041ec73a20f5c27a85cbfba7d4ea62953355fd438f5ca4b125f33df6
+machine_hash: 2bf040f48a64235f0237de1b856fb6adb3b721ab228dcc07aef4e84b648f198f
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -42,10 +42,10 @@ record:
   title: Release Notes for 0.1.6 at https://github.com/google-gemini/gemini-cli/discussions/2301
   type: change
 related_changes:
-- '[[Changes/Cline/2025-06-26-3-model-support-changes-in-v3-18-0|3 Model Support changes
-  in v3.18.0]]'
 - '[[Changes/Aider/2025-06-27-5-model-support-changes-in-v0-85-0|5 Model Support changes
   in v0.85.0]]'
+- '[[Changes/Ollama/2025-06-27-the-directory-in-which-models-are-stored-can-now-be-modified-this-allows-models|The
+  directory in which models are stored can now be modified!]]'
 - '[[Changes/Gemini CLI/2025-06-28-release-notes-at-https-github-com-google-gemini-gemini-cli-discussions-2301|Release
   notes at: (source link)]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2025-06-28-v0-1-7-github-228497873-22c77233|gemini-cli-2025-06-28-v0-1-7-github-228497873-22c77233]]'

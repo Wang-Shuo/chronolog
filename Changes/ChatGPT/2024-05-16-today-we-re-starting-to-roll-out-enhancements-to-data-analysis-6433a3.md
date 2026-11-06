@@ -4,20 +4,20 @@ date: '2024-05-16'
 description: 'ChatGPT · 2024-05-16 · Files and Data: Today, we’re starting to roll
   out enhancements to data analysis:'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-07-06-we-re-rolling-out-code-interpreter-to-all-chatgpt-plus-users-over-the-next-week-66255e|Code
-    interpreter is now rolling out in beta on web]]'
+  first_in_tracked: '[[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2
+    Files and Data changes in 0.2.2]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 315
+  lag_days: 357
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 5f53fc0a969e5503da02193f959edbd9711c1b13dca69fa8ab3b360d2755aa33
+machine_hash: 5e665d4a4ddb8c94a6117d98912e4ac80da95db0feb2555d64a155bf338f700b
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -45,8 +45,12 @@ record:
   title: Today, we’re starting to roll out enhancements to data analysis
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2023-07-06-we-re-rolling-out-code-interpreter-to-all-chatgpt-plus-users-over-the-next-week-66255e|Code
-  interpreter is now rolling out in beta on web]]'
+- '[[Changes/Dify/2024-04-25-2-files-and-data-changes-in-0-6-5|2 Files and Data changes
+  in 0.6.5]]'
+- '[[Changes/Dify/2024-05-02-optimize-the-knowledge-failed-documents-query-by-charli117-in-https-github-com-l|optimize
+  the knowledge failed documents query]]'
+- '[[Changes/Gemini/2024-05-14-exclusive-to-gemini-advanced-document-upload|Exclusive
+  to Gemini Advanced: Document Upload]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2024-05-16-improvements-to-data-analysis-in-chatgpt-a2e63572|chatgpt-2024-05-16-improvements-to-data-analysis-in-chatgpt-a2e63572]]'
 source_type: chatgpt_changelog
 theme: file-data
@@ -79,14 +83,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Files and Data
 
-- Earlier: 2023-07-06 · ChatGPT · [[Changes/ChatGPT/2023-07-06-we-re-rolling-out-code-interpreter-to-all-chatgpt-plus-users-over-the-next-week-66255e|Code interpreter is now rolling out in beta on web]]
-- Later: 2024-06-29 · OpenHands · [[Changes/OpenHands/2024-06-29-2-files-and-data-changes-in-0-7-0|2 Files and Data changes in 0.7.0]]
+- Earlier: 2024-05-14 · Gemini · [[Changes/Gemini/2024-05-14-exclusive-to-gemini-advanced-document-upload|Exclusive to Gemini Advanced: Document Upload]]
+- Later: 2024-05-19 · Open WebUI · [[Changes/Open WebUI/2024-05-19-powerpoint-support-rag-pipeline-now-supports-powerpoint-documents|🖥️ PowerPoint Support: RAG pipeline now supports PowerPoint documents]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-07-06 · ChatGPT · [[Changes/ChatGPT/2023-07-06-we-re-rolling-out-code-interpreter-to-all-chatgpt-plus-users-over-the-next-week-66255e|Code interpreter is now rolling out in beta on web]]
+- Earliest same-theme entry in the tracked set: 2023-05-25 · Dify · [[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2 Files and Data changes in 0.2.2]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

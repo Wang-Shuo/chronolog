@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: expansion
-machine_hash: c1f9c6a005a4fab829768ce43f608d798c51b16a39a8bd84768148e8c726907e
+machine_hash: 844e87a0d7d53111a71e5aacc4a0d9be2732811274732a46dad26302bdf0c812
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -52,10 +52,10 @@ record:
   title: ChatGPT Go, our low cost subscription plan, is now available in 8 additional…
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2025-10-08-we-re-excited-to-announce-that-chatgpt-go-our-low-cost-subscription-plan-is-now|ChatGPT
-  Go, our low cost subscription plan, is now available in 16 additional countries]]'
-- '[[Changes/ChatGPT/2025-10-14-we-re-excited-to-announce-that-chatgpt-go-our-low-cost-subscription-plan-is-now-d58cbb|ChatGPT
-  Go, our low cost subscription plan, is now available in 71 additional…]]'
+- '[[Changes/Dify/2025-10-22-3-pricing-model-changes-in-1-9-2|3 Pricing Model changes
+  in 1.9.2]]'
+- '[[Changes/v0/2025-10-27-referrals-are-now-live-in-v0-invite-a-new-user-to-subscribe-to-v0-with-your-link|Referrals
+  Program]]'
 - '[[Changes/ChatGPT/2025-10-28-we-re-launching-chatgpt-go-our-low-cost-subscription-plan-in-brazil-chatgpt-go-p|ChatGPT
   launches ChatGPT Go, our low cost subscription plan, in Brazil]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-10-30-chatgpt-go-expansion-37d00d9f|chatgpt-2025-10-30-chatgpt-go-expansion-37d00d9f]]'

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 7214e32314515bc1f16d5cd54cc527107c3c7645a7278447a7f3eea14fd689a2
+machine_hash: 2a504b2d3e90bd9c79125245b147cb20506cd1665e14da8d229a2096f862a2cb
 product: windsurf
 product_name: Windsurf
 record:
@@ -42,10 +42,10 @@ record:
   title: Ability to edit subdomain on website deploy
   type: change
 related_changes:
-- '[[Changes/Cline/2025-04-01-2-editor-experience-changes-in-v3-8-5|2 Editor Experience
-  changes in v3.8.5]]'
-- '[[Changes/Windsurf/2025-04-02-improvements-to-windsurf-tab|Improvements to Windsurf
-  Tab]]'
+- '[[Changes/Lovable/2025-04-04-new-ui-updated-the-editor-nav-bar-design-which-moves-pages-dropdown-and-related|New
+  UI: Updated the editor nav bar design, which moves pages dropdown…]]'
+- '[[Changes/Lovable/2025-04-04-lovable-now-has-a-dev-mode-enabling-dev-mode-lets-you-not-only-read-your-project|Lovable
+  now has a Dev Mode]]'
 - '[[Changes/Cline/2025-04-06-add-ability-to-detect-when-user-edits-files-manually-so-cline-knows-to-re-read-l|Add
   ability to detect when user edits files manually so Cline knows to re-read…]]'
 source_release: '[[Releases/Windsurf/windsurf-2025-04-07-v1-6-3-00e74246|windsurf-2025-04-07-v1-6-3-00e74246]]'
@@ -78,7 +78,7 @@ type: change
 ## Nearby in Editor Experience
 
 - Earlier: 2025-04-06 · Cline · [[Changes/Cline/2025-04-06-add-ability-to-detect-when-user-edits-files-manually-so-cline-knows-to-re-read-l|Add ability to detect when user edits files manually so Cline knows to re-read…]]
-- Later: 2025-04-12 · Cline · [[Changes/Cline/2025-04-12-3-editor-experience-changes-in-v3-12-0|3 Editor Experience changes in v3.12.0]]
+- Later: 2025-04-09 · Dify · [[Changes/Dify/2025-04-09-chore-slider-fix-the-slider-lint-error-by-nov1c444-in-https-github-com-langgeniu|chore(slider): fix the slider lint error]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

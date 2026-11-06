@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: df444769dfd71e23384bdf72df56ed2b18e6515708c934e53fc16d587102fe07
+machine_hash: 4eea7ccff2357f71103ed6764d2c174a8729f38f06d33a6680c4ca31c6332b1e
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -47,11 +47,9 @@ record:
   title: 2 Agent Mode changes in v1.0.100
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-10-16-canvases-from-cloud-agents|Canvases from cloud agents]]'
-- '[[Changes/Claude Code/2026-10-19-2-agent-mode-changes-in-v2-1-304|2 Agent Mode
-  changes in v2.1.304]]'
-- '[[Changes/Claude Code/2026-10-19-added-claude-api-managed-agents-secure-which-compares-a-managed-agents-agent-s-s|Added
-  /claude-api managed-agents-secure, which compares a Managed Agents agent''s…]]'
+- '[[Changes/ElevenLabs/2026-10-19-javascript-sdk|JavaScript SDK]]'
+- '[[Changes/ElevenLabs/2026-10-19-elevenagents-b18b24|ElevenAgents]]'
+- '[[Changes/ElevenLabs/2026-10-19-elevenagents-ee74ab|ElevenAgents]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-10-19-v1-0-100-github-417622960-9e2e7578|github-copilot-cli-2026-10-19-v1-0-100-github-417622960-9e2e7578]]'
 source_type: github_releases
 theme: agent-mode
@@ -97,7 +95,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.100
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2026-10-19 · Claude Code · [[Changes/Claude Code/2026-10-19-added-claude-api-managed-agents-secure-which-compares-a-managed-agents-agent-s-s|Added /claude-api managed-agents-secure, which compares a Managed Agents agent's…]]
+- Earlier: 2026-10-19 · ElevenLabs · [[Changes/ElevenLabs/2026-10-19-elevenagents-ee74ab|ElevenAgents]]
 - Later: 2026-10-19 · OpenHands · [[Changes/OpenHands/2026-10-19-3-agent-mode-changes-in-v1-28-0|3 Agent Mode changes in v1.28.0]]
 <!-- chronolog:end -->
 

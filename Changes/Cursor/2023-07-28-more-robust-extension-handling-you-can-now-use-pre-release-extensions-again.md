@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: faf9c2dbecbb47bc3d8830efe0d04a111575b123c3cf881f282b42090feb5b06
+machine_hash: c6a611b33aa5dc72c52a368758b541185b21306adf7e05b3c297f802d9133859
 product: cursor
 product_name: Cursor
 record:
@@ -44,12 +44,12 @@ record:
   title: More robust extension handling
   type: change
 related_changes:
-- '[[Changes/Cursor/2023-07-07-makes-it-clearer-which-docs-are-being-looked-at-by-the-ai-c07254|Makes
-  it clearer which docs are being looked at by the AI]]'
-- '[[Changes/Cursor/2023-07-07-importing-vs-code-extensions-now-takes-into-account-enabled-disabled|Importing
-  VS Code extensions now takes into account enabled/disabled]]'
 - '[[Changes/Aider/2023-07-12-install-docs-link-to-neovim-plugin-https-github-com-joshuavial-aider-nvim-by-jos|Install
   docs link to NeoVim plugin((source link)]]'
+- "[[Changes/Dify/2023-07-14-chat-apps-can-be-embedded-into-webpages|Chat apps can
+  be embedded into webpages \U0001F4BB]]"
+- '[[Changes/Dify/2023-07-18-feat-add-ruby-sdk-by-crazywoola-in-https-github-com-langgenius-dify-pull-583|Feat/add
+  ruby sdk]]'
 source_release: '[[Releases/Cursor/cursor-2023-07-28-0-5-1-nightly-https-cursor-com-changelog-0-5-1-nightly-a748d118|cursor-2023-07-28-0-5-1-nightly-https-cursor-com-changelog-0-5-1-nightly-a748d118]]'
 source_type: cursor_changelog
 theme: apps-integrations
@@ -76,8 +76,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2023-07-12 · Aider · [[Changes/Aider/2023-07-12-install-docs-link-to-neovim-plugin-https-github-com-joshuavial-aider-nvim-by-jos|Install docs link to NeoVim plugin((source link)]]
-- Later: 2023-09-11 · Cursor · [[Changes/Cursor/2023-09-11-we-serve-extensions-now-using-cursor-s-extension-marketplace|Cursor Marketplace]]
+- Earlier: 2023-07-18 · Dify · [[Changes/Dify/2023-07-18-feat-add-ruby-sdk-by-crazywoola-in-https-github-com-langgenius-dify-pull-583|Feat/add ruby sdk]]
+- Later: 2023-08-10 · Ollama · [[Changes/Ollama/2023-08-10-ollama-langchain-integration-https-python-langchain-com-docs-integrations-llms-o|Ollama 🦜️🔗 LangChain…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

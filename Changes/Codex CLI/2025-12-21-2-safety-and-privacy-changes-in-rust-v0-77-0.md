@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 143548e01ce6a2a1278892305e1019bb59caf631da41bc7242ef9af1064fd61e
+machine_hash: 64c5c779e5e28524ea735df518029c87008ba580b3194fb5d59f8036cefe4d5f
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -86,7 +86,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.77.0
 ## Nearby in Safety and Privacy
 
 - Earlier: 2025-12-19 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2025-12-19-add-url-permission-controls-which-affect-common-shell-commands-which-access-the|Add URL permission controls which affect common shell commands which access the web]]
-- Later: 2025-12-22 · Cursor · [[Changes/Cursor/2025-12-22-improved-stability-around-how-the-agent-respects-auto-run-preferences-to-prevent|Improved stability around how the agent respects auto-run preferences to prevent…]]
+- Later: 2025-12-21 · Open WebUI · [[Changes/Open WebUI/2025-12-21-6-safety-and-privacy-changes-in-v0-6-42|6 Safety and Privacy changes in v0.6.42]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

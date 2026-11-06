@@ -4,20 +4,20 @@ date: '2026-03-14'
 description: 'Claude Code · 2026-03-14 · Voice and Audio: Improved `/voice` to show
   your dictation language on enable and warn when your `language` setting isn''t supported…'
 diffusion:
-  first_in_tracked: '[[Changes/Aider/2023-08-11-voice-to-code-https-aider-chat-docs-voice-html-support-which-allows-you-to-code|Voice-to-code((source
-    link) support, which allows you…]]'
+  first_in_tracked: '[[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2
+    Voice and Audio changes in 0.3.7]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 946
+  lag_days: 978
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 3e07ea9ae9b91eeed07dd0d1ff90c468446a84dc25e40b72d772c94ff1f31691
+machine_hash: e9b0310f63e7c204b1612fc7b8792bc63eb06d9be543715c8815e1d1c5d70e35
 product: claude-code
 product_name: Claude Code
 record:
@@ -42,8 +42,8 @@ record:
   title: Improved `/voice` to show your dictation language on enable and warn…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-03-07-added-voice-pushtotalk-keybinding-to-make-the-voice-activation-key-rebindable-in|Added
-  voice:pushToTalk keybinding to make the voice activation key rebindable…]]'
+- "[[Changes/Open WebUI/2026-03-09-azure-speech-transcription-errors-improved-azure-ai-speech-error-handling-to-dis|\U0001F3A4
+  Azure speech transcription errors. Improved Azure AI Speech error handling…]]"
 - '[[Changes/Claude Code/2026-03-10-improved-voice-input-transcription-accuracy-for-repo-names-and-common-dev-terms|Improved
   voice input transcription accuracy for repo names and common dev terms…]]'
 - '[[Changes/Claude Code/2026-03-11-improved-voice-mode-to-automatically-retry-transient-connection-failures-during|Improved
@@ -91,7 +91,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-08-11 · Aider · [[Changes/Aider/2023-08-11-voice-to-code-https-aider-chat-docs-voice-html-support-which-allows-you-to-code|Voice-to-code((source link) support, which allows you…]]
+- Earliest same-theme entry in the tracked set: 2023-07-10 · Dify · [[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2 Voice and Audio changes in 0.3.7]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

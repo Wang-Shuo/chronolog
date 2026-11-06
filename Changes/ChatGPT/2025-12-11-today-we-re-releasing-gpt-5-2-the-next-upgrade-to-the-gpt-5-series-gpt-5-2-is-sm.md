@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: 4730b2103deb0f0530bacfc9bf89146758dead2c83d2df263bb260059e69a7db
+machine_hash: 34a44410ef8f5038b9767262d15c8a5210c9962151805aa19cb0a1e15473f982
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -129,12 +129,11 @@ record:
   title: Today, we’re releasing GPT-5.2, the next upgrade to the GPT-5 series
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2025-12-09-7-model-support-changes-in-v0-20-0|7 Model Support
-  changes in v0.20.0]]'
 - '[[Changes/Codex CLI/2025-12-10-3-model-support-changes-in-rust-v0-69-0|3 Model
   Support changes in rust-v0.69.0]]'
 - '[[Changes/GitHub Copilot CLI/2025-12-10-add-grep-tool-codex-models|Add grep tool
   Codex models]]'
+- '[[Changes/Lovable/2025-12-10-opus-4-5-as-a-core-model|Opus 4.5 as a core model]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-12-11-today-we-re-releasing-gpt-5-2-the-next-upgrade-to-the-gpt-5-seri-2d708645|chatgpt-2025-12-11-today-we-re-releasing-gpt-5-2-the-next-upgrade-to-the-gpt-5-seri-2d708645]]'
 source_type: chatgpt_changelog
 theme: model-support
@@ -161,7 +160,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2025-12-10 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2025-12-10-add-grep-tool-codex-models|Add grep tool Codex models]]
+- Earlier: 2025-12-10 · Lovable · [[Changes/Lovable/2025-12-10-opus-4-5-as-a-core-model|Opus 4.5 as a core model]]
 - Later: 2025-12-11 · Cline · [[Changes/Cline/2025-12-11-11-model-support-changes-in-v3-41-0|11 Model Support changes in v3.41.0]]
 <!-- chronolog:end -->
 

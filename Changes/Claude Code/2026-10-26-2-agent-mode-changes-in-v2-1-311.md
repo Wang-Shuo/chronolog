@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: e068764ce483feb79f0285d72b5ef67760aceee330d7a4e0e5251689c0f02037
+machine_hash: 33912691b7fd2ffd5f4d6cddd547cf1c47738c2f3ddd12cd7be7cc66b0deb804
 product: claude-code
 product_name: Claude Code
 record:
@@ -46,8 +46,8 @@ record:
   title: 2 Agent Mode changes in v2.1.311
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-10-23-13-agent-mode-changes-in-rust-v0-164-0|13 Agent
-  Mode changes in rust-v0.164.0]]'
+- '[[Changes/Replit/2026-10-23-create-and-update-skills-with-agent|Create and update
+  skills with Agent]]'
 - '[[Changes/Windsurf/2026-10-23-new-agent-window|New Agent Window]]'
 - '[[Changes/Windsurf/2026-10-23-3-agent-mode-changes-in-v3-11-212|3 Agent Mode changes
   in v3.11.212]]'
@@ -94,7 +94,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.311
 ## Nearby in Agent Mode
 
 - Earlier: 2026-10-23 · Windsurf · [[Changes/Windsurf/2026-10-23-3-agent-mode-changes-in-v3-11-212|3 Agent Mode changes in v3.11.212]]
-- Later: 2026-10-26 · Windsurf · [[Changes/Windsurf/2026-10-26-the-status-bar-no-longer-disappears-after-you-switch-from-agent-mode-to-ide-mode|The status bar no longer disappears after you switch from Agent mode to IDE mode]]
+- Later: 2026-10-26 · ElevenLabs · [[Changes/ElevenLabs/2026-10-26-knowledge-base-crawl-exclusions|Knowledge base crawl exclusions]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: eaa19357f53d40857a13de9c01b2429e7bc37b11f283c00b7b4b9a416db23936
+machine_hash: 9ca546f7824cb2def30c3a0be0ac5637cce7e1b80f328e82c1691bbb039ad8d6
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -42,10 +42,10 @@ record:
   title: 2 Apps and Integrations changes in rust-v0.89.0
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-01-21-3-apps-and-integrations-changes-in-rust-v0-88-0|3
-  Apps and Integrations changes in rust-v0.88.0]]'
 - '[[Changes/Gemini CLI/2026-01-21-10-apps-and-integrations-changes-in-v0-25-0|10
   Apps and Integrations changes in v0.25.0]]'
+- '[[Changes/v0/2026-01-21-improved-integration-card-design-with-less-prominent-skip-button|Improved
+  integration card design with less prominent skip button]]'
 - '[[Changes/Claude Code/2026-01-22-vscode-added-native-plugin-management-support|VSCode
   Added native plugin management support]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-01-22-rust-v0-89-0-github-279171728-1aea28c3|codex-cli-2026-01-22-rust-v0-89-0-github-279171728-1aea28c3]]'

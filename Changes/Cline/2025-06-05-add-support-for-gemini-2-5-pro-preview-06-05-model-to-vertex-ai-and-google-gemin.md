@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 728c90f71f6330f16a95eb8692f227936d1550d5bb7835aa6ad2847156263bd1
+machine_hash: e7c76a966774e4c60463b808664b3b92f724c9ba727db17560c61057faaf2445
 product: cline
 product_name: Cline
 record:
@@ -81,7 +81,7 @@ type: change
 ## Nearby in Model Support
 
 - Earlier: 2025-06-05 · Cline · [[Changes/Cline/2025-06-05-3-model-support-changes-in-v3-17-10|3 Model Support changes in v3.17.10]]
-- Later: 2025-06-10 · ChatGPT · [[Changes/ChatGPT/2025-06-10-like-o1-pro-o3-pro-is-a-version-of-our-most-intelligent-model-o3-designed-to-thi-32668a|ChatGPT launches OpenAI o3-pro—available now for Pro users and in our API]]
+- Later: 2025-06-08 · ElevenLabs · [[Changes/ElevenLabs/2025-06-08-text-to-speech|Text to Speech]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

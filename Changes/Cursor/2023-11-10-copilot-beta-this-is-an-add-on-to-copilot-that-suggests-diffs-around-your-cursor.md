@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: bc950b58601eed6e5232b2c486e52ea958e64e347159ad0f146cfc02b9aaf911
+machine_hash: 35fbe21c8dcddc8966924c2cb54966222c45996f6bb54fe60e832818c0f01ba3
 product: cursor
 product_name: Cursor
 record:
@@ -56,9 +56,10 @@ record:
   title: 'Copilot++ (beta): this is an "add-on" to Copilot that suggests diffs around…'
   type: change
 related_changes:
-- '[[Changes/Cursor/2023-09-08-long-files-in-chat|Long files in chat]]'
-- '[[Changes/Cursor/2023-09-10-ask-a-question-about-an-edit-that-the-model-with-option-enter-or-bring-in-contex|Quick
-  question and @chat in cmd+k]]'
+- '[[Changes/Ollama/2023-11-04-3-context-window-changes-in-v0-1-8|3 Context Window
+  changes in v0.1.8]]'
+- '[[Changes/Dify/2023-11-06-feat-add-context-missing-warning-by-iamjoel-in-https-github-com-langgenius-dify|feat:
+  add context missing warning]]'
 - '[[Changes/Aider/2023-11-07-2-context-window-changes-in-v0-17-0|2 Context Window
   changes in v0.17.0]]'
 source_release: '[[Releases/Cursor/cursor-2023-11-10-0-15-0-0-15-1-https-cursor-com-changelog-0-15-0-0-15-1-9dc9cadb|cursor-2023-11-10-0-15-0-0-15-1-https-cursor-com-changelog-0-15-0-0-15-1-9dc9cadb]]'

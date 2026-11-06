@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 3a52b088864585ededd9acb41babe8e9f2e3a58cf13b194d1990bc56f2d793b9
+machine_hash: 73576f8acd99c5e46f4b026e2c96156fb95691b0f611c5d6a477ccb2a4a3f5eb
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,8 +45,8 @@ record:
   title: Prompt history no longer records consecutive duplicate entries
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-05-19-model-now-changes-the-model-for-the-current-session-only-press-d-in-the-model-pi|/model
-  now changes the model for the current session only]]'
+- '[[Changes/Dify/2026-05-19-app-creation-and-onboarding-tracked-app-creation-source-and-template-id-initiali|App
+  creation and onboarding]]'
 - '[[Changes/GitHub Copilot CLI/2026-05-19-3-interface-experience-changes-in-v1-0-49|3
   Interface Experience changes in v1.0.49]]'
 - '[[Changes/Codex CLI/2026-05-20-3-interface-experience-changes-in-rust-v0-132-0|3

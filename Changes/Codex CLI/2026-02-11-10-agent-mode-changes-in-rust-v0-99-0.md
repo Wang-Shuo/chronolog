@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 9a889fb6af1e1bdbc727f26ab85b0781a1553f91e8b76e25c6f0d26f2057cbec
+machine_hash: d66a1c5be2f5352e07a66fe6579027b4ad9f9f33e6e947de1b698bc0f933a173
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -63,10 +63,8 @@ record:
   title: 10 Agent Mode changes in rust-v0.99.0
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-02-05-2-agent-mode-changes-in-v0-0-404|2 Agent
-  Mode changes in v0.0.404]]'
-- '[[Changes/Claude Code/2026-02-06-2-agent-mode-changes-in-v2-1-33|2 Agent Mode changes
-  in v2.1.33]]'
+- '[[Changes/ElevenLabs/2026-02-09-agents-platform|Agents Platform]]'
+- '[[Changes/ElevenLabs/2026-02-09-agents-platform-7f0c0d|Agents Platform]]'
 - '[[Changes/Gemini CLI/2026-02-10-4-agent-mode-changes-in-v0-28-0|4 Agent Mode changes
   in v0.28.0]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-02-11-rust-v0-99-0-github-285424682-f7f48016|codex-cli-2026-02-11-rust-v0-99-0-github-285424682-f7f48016]]'
@@ -132,7 +130,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.99.0
 ## Nearby in Agent Mode
 
 - Earlier: 2026-02-10 · Gemini CLI · [[Changes/Gemini CLI/2026-02-10-4-agent-mode-changes-in-v0-28-0|4 Agent Mode changes in v0.28.0]]
-- Later: 2026-02-11 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-02-11-3-agent-mode-changes-in-v0-0-407|3 Agent Mode changes in v0.0.407]]
+- Later: 2026-02-11 · Dify · [[Changes/Dify/2026-02-11-flexible-delivery-methods-human-input-forms-can-be-delivered-via-webapp-or-email|Flexible Delivery Methods: Human input forms can be delivered…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

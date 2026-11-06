@@ -4,20 +4,20 @@ date: '2026-09-09'
 description: 'OpenHands · 2026-09-09 · Files and Data: 4 changes in v1.17.0 — feat:
   unified cloud settings entrypoint for Agent Canvas by @jpelletier1 in…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-07-06-we-re-rolling-out-code-interpreter-to-all-chatgpt-plus-users-over-the-next-week-66255e|Code
-    interpreter is now rolling out in beta on web]]'
+  first_in_tracked: '[[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2
+    Files and Data changes in 0.2.2]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1161
+  lag_days: 1203
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 16709f70f9d0113992689b735559d2a5caff0875e1b32e4d9c9180d9f5deda92
+machine_hash: 1afa6ebe4ff995d3d5f70bbc48b04925b3d4200c9447e984c18996b8dbf86002
 product: openhands
 product_name: OpenHands
 record:
@@ -47,12 +47,11 @@ record:
   title: 4 Files and Data changes in v1.17.0
   type: change
 related_changes:
-- '[[Changes/OpenHands/2026-08-21-ci-bump-agent-canvas-chart-image-tag-on-release-by-aivong-openhands-in-https-git|ci:
-  bump agent-canvas chart image tag on release]]'
-- '[[Changes/GitHub Copilot CLI/2026-08-27-canvas-windows-open-and-refresh-in-the-background-instead-of-stealing-focus-from|Canvas
-  windows open and refresh in the background instead of stealing focus…]]'
 - '[[Changes/OpenHands/2026-08-27-2-files-and-data-changes-in-v1-16-0|2 Files and
   Data changes in v1.16.0]]'
+- '[[Changes/ElevenLabs/2026-08-31-dubbing|Dubbing]]'
+- '[[Changes/Open WebUI/2026-08-31-2-files-and-data-changes-in-v0-11-2|2 Files and
+  Data changes in v0.11.2]]'
 source_release: '[[Releases/OpenHands/openhands-2026-09-09-v1-17-0-github-385787922-b4569793|openhands-2026-09-09-v1-17-0-github-385787922-b4569793]]'
 source_type: github_releases
 theme: file-data
@@ -93,14 +92,14 @@ Source: https://github.com/OpenHands/OpenHands/releases/tag/v1.17.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Files and Data
 
-- Earlier: 2026-08-27 · OpenHands · [[Changes/OpenHands/2026-08-27-2-files-and-data-changes-in-v1-16-0|2 Files and Data changes in v1.16.0]]
-- Later: 2026-09-11 · Claude Code · [[Changes/Claude Code/2026-09-11-vscode-improved-documents-and-messages-written-for-someone-other-than-the-user-c|VSCode Improved documents and messages written for someone other than the user]]
+- Earlier: 2026-08-31 · Open WebUI · [[Changes/Open WebUI/2026-08-31-2-files-and-data-changes-in-v0-11-2|2 Files and Data changes in v0.11.2]]
+- Later: 2026-09-10 · Dify · [[Changes/Dify/2026-09-10-13-files-and-data-changes-in-1-17-1|13 Files and Data changes in 1.17.1]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-07-06 · ChatGPT · [[Changes/ChatGPT/2023-07-06-we-re-rolling-out-code-interpreter-to-all-chatgpt-plus-users-over-the-next-week-66255e|Code interpreter is now rolling out in beta on web]]
+- Earliest same-theme entry in the tracked set: 2023-05-25 · Dify · [[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2 Files and Data changes in 0.2.2]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

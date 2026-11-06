@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: ea4b910618d395a7e69a0aaf5a8eff3eed91dc9bd9abcb9f084ea9ed65161d51
+machine_hash: 52211980184320187c94cb772895117a8de26adcbea76b80a8163b01dcf825cf
 product: aider
 product_name: Aider
 record:
@@ -39,10 +39,9 @@ record:
   title: Updated shell command prompt
   type: change
 related_changes:
-- '[[Changes/OpenHands/2024-10-22-improvements-to-agent-editing-using-llm-by-xingyaoww-in-https-github-com-all-han|Improvements
-  to Agent Editing using LLM]]'
-- '[[Changes/OpenHands/2024-11-08-2-agent-mode-changes-in-0-13-0|2 Agent Mode changes
-  in 0.13.0]]'
+- '[[Changes/Dify/2024-11-25-for-instance-you-can-upload-a-pdf-report-and-let-the-agent-automatically-analyze|For
+  instance, you can upload a PDF report and let the Agent automatically analyze…]]'
+- '[[Changes/ElevenLabs/2024-11-29-api|API]]'
 - '[[Changes/OpenHands/2024-12-06-2-agent-mode-changes-in-0-15-1|2 Agent Mode changes
   in 0.15.1]]'
 source_release: '[[Releases/Aider/aider-2024-12-10-v0-68-0-github-190004650-ac51bb4e|aider-2024-12-10-v0-68-0-github-190004650-ac51bb4e]]'
@@ -77,7 +76,7 @@ type: change
 ## Nearby in Agent Mode
 
 - Earlier: 2024-12-06 · OpenHands · [[Changes/OpenHands/2024-12-06-2-agent-mode-changes-in-0-15-1|2 Agent Mode changes in 0.15.1]]
-- Later: 2024-12-17 · OpenHands · [[Changes/OpenHands/2024-12-17-let-user-continue-when-the-agent-gets-stuck-in-a-loop-ui-only-by-enyst-in-https|Let user continue when the agent gets stuck in a loop (UI-only)]]
+- Later: 2024-12-13 · Replit · [[Changes/Replit/2024-12-13-2-agent-mode-changes-in-replit-updates-2024-12-13|2 Agent Mode changes in Replit updates — 2024-12-13]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

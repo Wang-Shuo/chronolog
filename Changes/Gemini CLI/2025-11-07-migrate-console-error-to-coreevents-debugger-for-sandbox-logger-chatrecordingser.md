@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 2a74281f6d892a0c93a95f31fe7ce6363df05bb1559a3b264e177ab6452d2deb
+machine_hash: 46348ac3f48a6536eaf0a68b0d57389a2fbb26f099f585e41a9c0f02aa034467
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -44,10 +44,9 @@ record:
   title: migrate console.error to coreEvents/debugger for sandbox, logger, chatRecordingService
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2025-11-04-3-safety-and-privacy-changes-in-rust-v0-54-0|3 Safety
-  and Privacy changes in rust-v0.54.0]]'
-- '[[Changes/Gemini CLI/2025-11-04-fix-infra-simplify-cancel-in-progress-and-add-permission-to-set-status-step-by-s|fix(infra)
-  - Simplify cancel in progress and add permission to set status step]]'
+- '[[Changes/ElevenLabs/2025-11-05-security|Security]]'
+- '[[Changes/Open WebUI/2025-11-06-4-safety-and-privacy-changes-in-v0-6-35|4 Safety
+  and Privacy changes in v0.6.35]]'
 - '[[Changes/Codex CLI/2025-11-07-2-safety-and-privacy-changes-in-rust-v0-56-0|2 Safety
   and Privacy changes in rust-v0.56.0]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2025-11-07-v0-13-0-github-260462305-15cfa0b7|gemini-cli-2025-11-07-v0-13-0-github-260462305-15cfa0b7]]'

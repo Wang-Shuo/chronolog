@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 2f068c39443cc827d0ab59b9c31149363d2367b6fc203e3eba67624b80f16385
+machine_hash: 218de2a1a260a8f8013883b9a7ed3e343a5acf4b56ffd064d98ada8237ef5adc
 product: cursor
 product_name: Cursor
 record:
@@ -45,8 +45,8 @@ record:
     accepted…
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-02-12-change-run-command-shortcut-from-ctrl-p-to-ctrl-s|Change
-  run command shortcut from ctrl+p to ctrl+s]]'
+- '[[Changes/Open WebUI/2026-02-16-4-developer-workflow-changes-in-v0-8-2|4 Developer
+  Workflow changes in v0.8.2]]'
 - '[[Changes/Codex CLI/2026-02-17-3-developer-workflow-changes-in-rust-v0-102-0|3
   Developer Workflow changes in rust-v0.102.0]]'
 - '[[Changes/Codex CLI/2026-02-17-commit-co-author-attribution-now-uses-a-codex-managed-prepare-commit-msg-hook-wi|Commit

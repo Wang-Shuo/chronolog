@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 3aad1144a6e1aae32ebf12012bbc48566324fd094ee172b7e8024c75b6d7c196
+machine_hash: 4a0bc4219ade54717e4ff3c4f37518747207c5d70e786d16855eb09cce8de918
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -40,10 +40,8 @@ record:
   title: MCP servers work in `--prompt` mode
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2025-11-20-3-apps-and-integrations-changes-in-v0-17-0|3 Apps
-  and Integrations changes in v0.17.0]]'
-- '[[Changes/Cursor/2025-11-21-project-level-hooks-are-now-supported|Project level
-  hooks are now supported]]'
+- '[[Changes/Replit/2025-11-21-enhanced-atlassian-connectors|Enhanced Atlassian connectors]]'
+- '[[Changes/Replit/2025-11-21-new-connector-todoist|New connector: Todoist]]'
 - '[[Changes/Windsurf/2025-11-21-mcp-servers|MCP Servers]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2025-11-24-v0-0-363-github-264932270-d93c3cfb|github-copilot-cli-2025-11-24-v0-0-363-github-264932270-d93c3cfb]]'
 source_type: github_releases
@@ -77,7 +75,7 @@ type: change
 ## Nearby in Apps and Integrations
 
 - Earlier: 2025-11-21 · Windsurf · [[Changes/Windsurf/2025-11-21-mcp-servers|MCP Servers]]
-- Later: 2025-11-26 · Gemini CLI · [[Changes/Gemini CLI/2025-11-26-feat-zed-integration-use-default-model-routing-for-zed-integration-by-benbrandt|feat(zed-integration): Use default model routing for Zed integration]]
+- Later: 2025-11-24 · Open WebUI · [[Changes/Open WebUI/2025-11-24-4-apps-and-integrations-changes-in-v0-6-37|4 Apps and Integrations changes in v0.6.37]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

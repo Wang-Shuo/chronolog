@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 4dfe1e253eb491158b3d17928580ee19e2f19414ef6ddc8551b30d68f650919c
+machine_hash: 2cd6226eb9b80fa30c4699aabe2dc426069fc574837ee1cc02f49523cb677ce2
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -49,12 +49,9 @@ record:
   title: 4 Agent Mode changes in v0.28.0
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-02-05-support-comma-separated-tools-in-custom-agent-frontmatter|Support
-  comma-separated tools in custom agent frontmatter]]'
-- '[[Changes/GitHub Copilot CLI/2026-02-05-2-agent-mode-changes-in-v0-0-404|2 Agent
-  Mode changes in v0.0.404]]'
-- '[[Changes/Claude Code/2026-02-06-2-agent-mode-changes-in-v2-1-33|2 Agent Mode changes
-  in v2.1.33]]'
+- '[[Changes/Replit/2026-02-06-agent-inbox|Agent Inbox]]'
+- '[[Changes/ElevenLabs/2026-02-09-agents-platform|Agents Platform]]'
+- '[[Changes/ElevenLabs/2026-02-09-agents-platform-7f0c0d|Agents Platform]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2026-02-10-v0-28-0-github-285023966-1bd56186|gemini-cli-2026-02-10-v0-28-0-github-285023966-1bd56186]]'
 source_type: github_releases
 theme: agent-mode
@@ -101,7 +98,7 @@ Source: https://github.com/google-gemini/gemini-cli/releases/tag/v0.28.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2026-02-06 · Claude Code · [[Changes/Claude Code/2026-02-06-2-agent-mode-changes-in-v2-1-33|2 Agent Mode changes in v2.1.33]]
+- Earlier: 2026-02-09 · ElevenLabs · [[Changes/ElevenLabs/2026-02-09-agents-platform-7f0c0d|Agents Platform]]
 - Later: 2026-02-11 · Codex CLI · [[Changes/Codex CLI/2026-02-11-10-agent-mode-changes-in-rust-v0-99-0|10 Agent Mode changes in rust-v0.99.0]]
 <!-- chronolog:end -->
 

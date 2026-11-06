@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: memory
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: ff469a8f09285b1bfcf0101d189c61b79f6dd8956e17a9fadc6733e2ce1fe7e3
+machine_hash: 0d648e64288b12f8d4b0cac621ab49f509c7e379970d9dd9c6d0021eb0bc4f2d
 product: windsurf
 product_name: Windsurf
 record:
@@ -39,12 +39,12 @@ record:
   title: Memory improvements
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2025-08-14-3-memory-and-personalization-changes-in-v0-1-21|3
-  Memory and Personalization changes in v0.1.21]]'
 - '[[Changes/ChatGPT/2025-08-18-longer-memory-for-more-personalized-responses-4644fd|Longer
   memory for more personalized responses]]'
 - '[[Changes/ChatGPT/2025-08-22-an-improvement-to-projects-is-now-available-when-creating-a-project-users-have-t-87f79a|An
   improvement to projects is now available]]'
+- "[[Changes/Open WebUI/2025-08-28-pdf-export-content-mismatch-fixed-resolved-an-issue-where-exporting-a-pdf-of-one|\U0001F4C4
+  PDF Export Content Mismatch Fixed]]"
 source_release: '[[Releases/Windsurf/windsurf-2025-08-28-v1-12-3-4b69ca31|windsurf-2025-08-28-v1-12-3-4b69ca31]]'
 source_type: windsurf_changelog
 theme: memory
@@ -71,7 +71,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Memory and Personalization
 
-- Earlier: 2025-08-22 · ChatGPT · [[Changes/ChatGPT/2025-08-22-an-improvement-to-projects-is-now-available-when-creating-a-project-users-have-t-87f79a|An improvement to projects is now available]]
+- Earlier: 2025-08-28 · Open WebUI · [[Changes/Open WebUI/2025-08-28-pdf-export-content-mismatch-fixed-resolved-an-issue-where-exporting-a-pdf-of-one|📄 PDF Export Content Mismatch Fixed]]
 - Later: 2025-09-04 · Gemini CLI · [[Changes/Gemini CLI/2025-09-04-2-memory-and-personalization-changes-in-v0-3-0|2 Memory and Personalization changes in v0.3.0]]
 <!-- chronolog:end -->
 

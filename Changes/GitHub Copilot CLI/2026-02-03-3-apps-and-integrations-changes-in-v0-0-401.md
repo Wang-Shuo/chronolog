@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 986ee36a86fab427b956f8805aff5735aa33a55e831d9b4b29290113e4a86b1d
+machine_hash: a1699fc6c79866a108cc28bd334161dd45dda9d141fb81793d83fe53e3f5e96d
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -44,12 +44,11 @@ record:
   title: 3 Apps and Integrations changes in v0.0.401
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-01-31-smart-approvals-are-now-enabled-by-default-with-explicit-approval-prompts-for-mc|Smart
-  approvals are now enabled by default, with explicit approval prompts for MCP…]]'
-- '[[Changes/Codex CLI/2026-01-31-14-apps-and-integrations-changes-in-rust-v0-93-0|14
-  Apps and Integrations changes in rust-v0.93.0]]'
 - '[[Changes/Codex CLI/2026-01-31-added-apps-to-browse-connectors-in-tui-and-insertion-for-app-prompts-9728|Added
   /apps to browse connectors in TUI and $ insertion for app prompts]]'
+- '[[Changes/ElevenLabs/2026-02-02-sdk-releases|SDK Releases]]'
+- '[[Changes/Dify/2026-02-03-14-apps-and-integrations-changes-in-1-12-0|14 Apps and
+  Integrations changes in 1.12.0]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-02-03-v0-0-401-github-282605019-24696a01|github-copilot-cli-2026-02-03-v0-0-401-github-282605019-24696a01]]'
 source_type: github_releases
 theme: apps-integrations
@@ -89,7 +88,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v0.0.401
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-01-31 · Codex CLI · [[Changes/Codex CLI/2026-01-31-added-apps-to-browse-connectors-in-tui-and-insertion-for-app-prompts-9728|Added /apps to browse connectors in TUI and $ insertion for app prompts]]
+- Earlier: 2026-02-03 · Dify · [[Changes/Dify/2026-02-03-14-apps-and-integrations-changes-in-1-12-0|14 Apps and Integrations changes in 1.12.0]]
 - Later: 2026-02-03 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-02-03-4-apps-and-integrations-changes-in-v0-0-402|4 Apps and Integrations changes in v0.0.402]]
 <!-- chronolog:end -->
 

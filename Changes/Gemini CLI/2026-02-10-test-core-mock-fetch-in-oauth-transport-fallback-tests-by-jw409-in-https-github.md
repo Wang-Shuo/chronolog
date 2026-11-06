@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 20207d883bec55f49ecbeb1edb1308f2d208f6d06658be374f1c9183c404c6c0
+machine_hash: 39480085ffd3a206c12dd0a613ce7a9091429cc166984b20ffa7d2024b5b4226
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -42,10 +42,10 @@ record:
   title: 'test(core): mock fetch in OAuth transport fallback tests'
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-02-03-2-account-and-access-changes-in-v0-0-401|2
-  Account and Access changes in v0.0.401]]'
-- '[[Changes/Codex CLI/2026-02-05-2-account-and-access-changes-in-rust-v0-98-0|2 Account
-  and Access changes in rust-v0.98.0]]'
+- '[[Changes/Lovable/2026-02-05-seamless-google-and-apple-authentication|Seamless
+  Google and Apple authentication]]'
+- '[[Changes/Lovable/2026-02-05-a-new-banner-encouraging-email-and-password-users-to-enable-two-factor-authentic|A
+  new banner encouraging email and password users to enable two-factor…]]'
 - '[[Changes/Claude Code/2026-02-06-vscode-added-support-for-remote-sessions-allowing-oauth-users-to-browse-and-resu|VSCode:
   Added support for remote sessions, allowing OAuth users to browse and resume…]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2026-02-10-v0-28-0-github-285023966-1bd56186|gemini-cli-2026-02-10-v0-28-0-github-285023966-1bd56186]]'

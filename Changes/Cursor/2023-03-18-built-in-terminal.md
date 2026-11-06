@@ -10,12 +10,12 @@ diffusion:
   role: first-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 2a263d0c25a08be0a4cecdd280781d16feb523c0db5ad87fd40f0cd0c592d38b
+machine_hash: 54e2332e5ef80163d98f9425087adbf0915bc923e783b3099b44fdd8e521b920
 product: cursor
 product_name: Cursor
 record:
@@ -72,7 +72,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry among the 10 tracked products.
+- Earliest same-theme entry among the 20 tracked products.
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

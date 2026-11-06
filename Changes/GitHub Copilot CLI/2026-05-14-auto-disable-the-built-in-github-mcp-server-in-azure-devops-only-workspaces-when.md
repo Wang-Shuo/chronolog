@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 0e631b21dd153d56009a91571f91b4b6b9fad54919b19f4d9494580eaffd18c5
+machine_hash: ded2cb44777eac6f63bfb7817172277cb04a4fddfea743cbf1b1298a5929fdb5
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -43,10 +43,9 @@ record:
   title: Auto-disable the built-in github-mcp-server in Azure DevOps-only workspaces…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-05-13-added-claude-code-plugin-prefer-https-to-clone-github-plugin-sources-over-https|Added
-  CLAUDE_CODE_PLUGIN_PREFER_HTTPS to clone GitHub plugin sources over HTTPS…]]'
 - '[[Changes/Cursor/2026-05-13-improved-mcp-auth-token-lifecycle-handling|Improved
   MCP auth token lifecycle handling]]'
+- '[[Changes/ElevenLabs/2026-05-13-sdk-releases|SDK Releases]]'
 - '[[Changes/Claude Code/2026-05-14-3-apps-and-integrations-changes-in-v2-1-142|3
   Apps and Integrations changes in v2.1.142]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-05-14-v1-0-48-github-322570462-ca4cae52|github-copilot-cli-2026-05-14-v1-0-48-github-322570462-ca4cae52]]'

@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: fb081af05f6a628ed9a770cb8020640d70f68f7bab9044e86c96f6b9977a2019
+machine_hash: 5035ea9650ddeb784d8f37b341fd24e4370f3b2d28ce47f45c25e92c9c30d505
 product: cline
 product_name: Cline
 record:
@@ -46,10 +46,11 @@ record:
     workspaces…
   type: change
 related_changes:
-- '[[Changes/Windsurf/2025-05-06-teams-features|Teams Features]]'
-- '[[Changes/Windsurf/2025-05-06-teams-conversation-sharing|Teams: Conversation Sharing]]'
 - '[[Changes/Cline/2025-05-16-add-collapsible-recent-task-list-allowing-users-to-hide-their-task-history-when|Add
   collapsible recent task list, allowing users to hide their task history…]]'
+- '[[Changes/Replit/2025-05-16-viewer-seats-for-replit-teams|Viewer seats for Replit
+  Teams]]'
+- '[[Changes/ElevenLabs/2025-05-19-voices|Voices]]'
 source_release: '[[Releases/Cline/cline-2025-05-22-v3-17-2-github-220508945-79432c34|cline-2025-05-22-v3-17-2-github-220508945-79432c34]]'
 source_type: github_releases
 theme: collaboration
@@ -78,8 +79,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Collaboration
 
-- Earlier: 2025-05-16 · Cline · [[Changes/Cline/2025-05-16-add-collapsible-recent-task-list-allowing-users-to-hide-their-task-history-when|Add collapsible recent task list, allowing users to hide their task history…]]
-- Later: 2025-06-04 · Cursor · [[Changes/Cursor/2025-06-04-admin-api-for-teams-to-access-usage-metrics-and-spend-data|Admin API for teams to access usage metrics and spend data]]
+- Earlier: 2025-05-19 · ElevenLabs · [[Changes/ElevenLabs/2025-05-19-voices|Voices]]
+- Later: 2025-05-23 · Replit · [[Changes/Replit/2025-05-23-team-member-app-transfers|Team member app transfers]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

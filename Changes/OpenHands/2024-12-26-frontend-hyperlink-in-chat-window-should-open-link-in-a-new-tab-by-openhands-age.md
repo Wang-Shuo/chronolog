@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: af1c8899107d662fe30848650066358272bd4699bacb88da50b30f318d92daf6
+machine_hash: b3cbf207e8b439f377aa1579cc9550703e7c6271f6df3f4dacaee47bbead09b8
 product: openhands
 product_name: OpenHands
 record:
@@ -44,12 +44,12 @@ record:
   title: Frontend Hyperlink in Chat window should open link in a new tab
   type: change
 related_changes:
-- '[[Changes/Aider/2024-11-26-editor-returns-and-prefill-the-file-content-into-the-prompt-so-you-can-use-edito|/editor
-  returns and prefill the file content into the prompt, so you can use…]]'
-- '[[Changes/Aider/2024-12-06-2-editor-experience-changes-in-v0-67-0|2 Editor Experience
-  changes in v0.67.0]]'
+- '[[Changes/Replit/2024-12-13-3-editor-experience-changes-in-replit-updates-2024-12-13|3
+  Editor Experience changes in Replit updates — 2024-12-13]]'
 - '[[Changes/Cursor/2024-12-17-agent-can-reapply-edits-with-a-smarter-apply-model|Agent
   can reapply edits with a smarter apply model]]'
+- "[[Changes/Open WebUI/2024-12-25-chat-completion-notifications-never-miss-a-completed-response-receive-instant-in|\U0001F514
+  Chat Completion Notifications: Never miss a completed response]]"
 source_release: '[[Releases/OpenHands/openhands-2024-12-26-0-17-0-github-192396805-42950216|openhands-2024-12-26-0-17-0-github-192396805-42950216]]'
 source_type: github_releases
 theme: editor-experience
@@ -78,7 +78,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2024-12-17 · Cursor · [[Changes/Cursor/2024-12-17-agent-can-reapply-edits-with-a-smarter-apply-model|Agent can reapply edits with a smarter apply model]]
+- Earlier: 2024-12-25 · Open WebUI · [[Changes/Open WebUI/2024-12-25-chat-completion-notifications-never-miss-a-completed-response-receive-instant-in|🔔 Chat Completion Notifications: Never miss a completed response]]
 - Later: 2025-01-06 · Cline · [[Changes/Cline/2025-01-06-compare-lets-you-see-a-diff-overview-between-the-snapshot-and-the-current-state|Compare lets you see a diff overview between the snapshot and the current state…]]
 <!-- chronolog:end -->
 

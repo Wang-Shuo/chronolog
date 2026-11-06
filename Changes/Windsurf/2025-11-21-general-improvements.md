@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 37bdd4af8764a8413ff188e09cc772cd3a82fd823b30f8a669025e94fa770504
+machine_hash: acffff2d8af8e1ef511a73cc368e0798c49102ef34ec107a0fa7a4373b56275e
 product: windsurf
 product_name: Windsurf
 record:
@@ -40,12 +40,12 @@ record:
   title: General Improvements
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2025-11-07-refactor-todo-improve-performance-and-readability-of-todo-component-by-miguelsol|refactor(todo):
-  improve performance and readability of todo component]]'
-- '[[Changes/GitHub Copilot CLI/2025-11-17-improve-ctrl-c-performance|Improve Ctrl+C
-  performance]]'
 - '[[Changes/Codex CLI/2025-11-19-native-compaction-support-added-first-class-support-for-compaction-improving-per|Native
   Compaction Support]]'
+- '[[Changes/Ollama/2025-11-19-3-reliability-and-performance-changes-in-v0-13-0|3
+  Reliability and Performance changes in v0.13.0]]'
+- '[[Changes/Replit/2025-11-21-fast-mode-now-available-to-everyone|Fast Mode now available
+  to everyone]]'
 source_release: '[[Releases/Windsurf/windsurf-2025-11-21-v1-12-35-8e2bec15|windsurf-2025-11-21-v1-12-35-8e2bec15]]'
 source_type: windsurf_changelog
 theme: reliability-performance
@@ -80,8 +80,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2025-11-19 · Codex CLI · [[Changes/Codex CLI/2025-11-19-native-compaction-support-added-first-class-support-for-compaction-improving-per|Native Compaction Support]]
-- Later: 2025-11-27 · Cline · [[Changes/Cline/2025-11-27-feat-update-cerebras-models-and-speed-by-sebastiand-cerebras-in-https-github-com|feat: update Cerebras models and speed]]
+- Earlier: 2025-11-21 · Replit · [[Changes/Replit/2025-11-21-fast-mode-now-available-to-everyone|Fast Mode now available to everyone]]
+- Later: 2025-11-24 · Claude · [[Changes/Claude/2025-11-24-claude-for-excel-beta-release|Claude for Excel beta release]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

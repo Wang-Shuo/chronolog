@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 3633065af86f23cf5dc6d58c5cc94c99db567f29694776c2f556c76bd7b3c99f
+machine_hash: 7e27bac7bee9ac4c265921519cb7dc814acd2f777c98c7f6f4d1a1b4bc0ce212
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -89,10 +89,10 @@ record:
     users…'
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-02-02-10373-chore-core-gpt-5-2-codex-personality-template-dylan-hurd-oai|♯10373
-  chore(core) gpt-5.2-codex personality template @dylan-hurd-oai]]'
 - '[[Changes/Claude Code/2026-02-03-changed-model-to-execute-immediately-instead-of-being-queued|Changed
   /model to execute immediately instead of being queued]]'
+- '[[Changes/Dify/2026-02-03-5-model-support-changes-in-1-12-0|5 Model Support changes
+  in 1.12.0]]'
 - '[[Changes/GitHub Copilot CLI/2026-02-03-improve-handling-of-chat-history-when-switching-between-model-families|Improve
   handling of chat history when switching between model families]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-02-04-update-on-thinking-time-settings-for-gpt-5-2-thinking-in-chatgpt-6e7ea431|chatgpt-2026-02-04-update-on-thinking-time-settings-for-gpt-5-2-thinking-in-chatgpt-6e7ea431]]'

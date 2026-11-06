@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: e0597a3b275533b255efaf6e10ca8769fee242b95af88e541de3a296ee3342b7
+machine_hash: 1060eb64dd3012a89726970d142d20c94a9b8602595a9815ac4f80fffe86d03a
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,12 +45,12 @@ record:
   title: 2 Agent Mode changes in v2.1.211
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-07-13-2-agent-mode-changes-in-rust-v0-144-2|2 Agent Mode
-  changes in rust-v0.144.2]]'
 - '[[Changes/Claude Code/2026-07-14-4-agent-mode-changes-in-v2-1-208|4 Agent Mode
   changes in v2.1.208]]'
 - '[[Changes/Claude Code/2026-07-14-3-agent-mode-changes-in-v2-1-210|3 Agent Mode
   changes in v2.1.210]]'
+- '[[Changes/Lovable/2026-07-14-see-images-videos-and-files-the-agent-works-with-in-chat|See
+  images, videos, and files the agent works with in chat]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-07-15-v2-1-211-github-354658856-71e66e57|claude-code-2026-07-15-v2-1-211-github-354658856-71e66e57]]'
 source_type: github_releases
 theme: agent-mode
@@ -89,8 +89,8 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.211
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2026-07-14 · Claude Code · [[Changes/Claude Code/2026-07-14-3-agent-mode-changes-in-v2-1-210|3 Agent Mode changes in v2.1.210]]
-- Later: 2026-07-16 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-07-16-8-agent-mode-changes-in-v1-0-71|8 Agent Mode changes in v1.0.71]]
+- Earlier: 2026-07-14 · Lovable · [[Changes/Lovable/2026-07-14-see-images-videos-and-files-the-agent-works-with-in-chat|See images, videos, and files the agent works with in chat]]
+- Later: 2026-07-15 · Lovable · [[Changes/Lovable/2026-07-15-let-ai-assistants-use-your-published-app|Let AI assistants use your published app]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

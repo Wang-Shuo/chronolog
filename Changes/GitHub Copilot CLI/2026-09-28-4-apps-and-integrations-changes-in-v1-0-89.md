@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 4d6762d77e060eb2b761fb896d4f0b073e88f7f8cfeabcf41544824cc9b538fc
+machine_hash: d57dfbce37f95c198e464da796ddbcb3989e9f5be622c1f193df462bbd7630c7
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -51,12 +51,11 @@ record:
   title: 4 Apps and Integrations changes in v1.0.89
   type: change
 related_changes:
-- '[[Changes/OpenHands/2026-09-25-chore-deps-bump-openhands-extensions-to-0-24-0-by-devinvinson-in-https-github-co|chore(deps):
-  bump @openhands/extensions to 0.24.0]]'
 - '[[Changes/Claude Code/2026-09-28-8-apps-and-integrations-changes-in-v2-1-284|8
   Apps and Integrations changes in v2.1.284]]'
 - '[[Changes/Codex CLI/2026-09-28-13-apps-and-integrations-changes-in-rust-v0-158-0|13
   Apps and Integrations changes in rust-v0.158.0]]'
+- '[[Changes/ElevenLabs/2026-09-28-sdk-releases|SDK releases]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-09-28-v1-0-89-github-398551718-87b48178|github-copilot-cli-2026-09-28-v1-0-89-github-398551718-87b48178]]'
 source_type: github_releases
 theme: apps-integrations
@@ -101,7 +100,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.89
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-09-28 · Codex CLI · [[Changes/Codex CLI/2026-09-28-13-apps-and-integrations-changes-in-rust-v0-158-0|13 Apps and Integrations changes in rust-v0.158.0]]
+- Earlier: 2026-09-28 · ElevenLabs · [[Changes/ElevenLabs/2026-09-28-sdk-releases|SDK releases]]
 - Later: 2026-09-29 · ChatGPT · [[Changes/ChatGPT/2026-09-29-this-is-a-limited-preview-with-participating-integrations-using-purchased-credit|This is a limited preview with participating integrations]]
 <!-- chronolog:end -->
 

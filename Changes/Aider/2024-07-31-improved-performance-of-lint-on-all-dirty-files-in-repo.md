@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 744bd6e34101e0a313c165c8f8251fd46f84b9e323e872bf5c09ddd012374cdd
+machine_hash: 2d158b986a63cc449910122aa5196d07180eccd9d0f57795b18306e8864609fe
 product: aider
 product_name: Aider
 record:
@@ -41,12 +41,12 @@ record:
   title: Improved performance of `--lint` on all dirty files in repo
   type: change
 related_changes:
-- '[[Changes/Aider/2024-06-04-performance-improvements-the-repo-map-especially-in-large-repos|Performance
-  improvements the repo map, especially in large repos]]'
-- '[[Changes/Aider/2024-07-04-3-reliability-and-performance-changes-in-v0-42-0|3 Reliability
-  and Performance changes in v0.42.0]]'
+- '[[Changes/Ollama/2024-07-13-ollama-will-no-longer-error-if-loading-models-larger-than-system-memory-if-disk|Ollama
+  will no longer error if loading models larger than system memory if disk…]]'
 - '[[Changes/Cursor/2024-07-23-copilot-now-has-chunked-streaming-currently-in-beta-it-will-surface-edits-faster|Copilot++
   now has chunked streaming (currently in Beta)!]]'
+- '[[Changes/Ollama/2024-07-30-performance-and-reliability-improvements-when-downloading-models-using-ollama-pu|Performance
+  and reliability improvements when downloading models using ollama pull]]'
 source_release: '[[Releases/Aider/aider-2024-07-31-v0-47-0-github-168059187-28da6242|aider-2024-07-31-v0-47-0-github-168059187-28da6242]]'
 source_type: github_releases
 theme: reliability-performance
@@ -80,7 +80,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2024-07-23 · Cursor · [[Changes/Cursor/2024-07-23-copilot-now-has-chunked-streaming-currently-in-beta-it-will-surface-edits-faster|Copilot++ now has chunked streaming (currently in Beta)!]]
+- Earlier: 2024-07-30 · Ollama · [[Changes/Ollama/2024-07-30-performance-and-reliability-improvements-when-downloading-models-using-ollama-pu|Performance and reliability improvements when downloading models using ollama pull]]
 - Later: 2024-08-01 · OpenHands · [[Changes/OpenHands/2024-08-01-runtime-reduce-dependency-to-speed-up-ci-and-reduce-image-size-by-xingyaoww-in-h|Runtime Reduce dependency to speed up CI and reduce image size]]
 <!-- chronolog:end -->
 

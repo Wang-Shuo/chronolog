@@ -4,20 +4,20 @@ date: '2026-10-12'
 description: 'OpenHands · 2026-10-12 · Automation and Scheduling: 4 changes in v1.27.0
   — feat: add automate setup split panel by @malhotra5 in…'
 diffusion:
-  first_in_tracked: '[[Changes/OpenHands/2024-09-04-better-syntax-error-loop-detection-by-tobitege-in-https-github-com-all-hands-ai|Better
-    syntax error loop detection]]'
+  first_in_tracked: '[[Changes/Dify/2024-01-02-add-data-clean-schedule-by-johnjyong-in-https-github-com-langgenius-dify-pull-18|Add
+    data clean schedule]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 768
+  lag_days: 1014
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: f5d9374b6f598542eaca9f5a6b6bbb0dcff122b32ff2131bfbac0976544e297c
+machine_hash: e5c48fd7a7f18c59eef134770b1c4da4391929ec5916793ce07717e06166fb07
 product: openhands
 product_name: OpenHands
 record:
@@ -46,12 +46,12 @@ record:
   title: 4 Automation and Scheduling changes in v1.27.0
   type: change
 related_changes:
-- '[[Changes/OpenHands/2026-10-06-5-automation-and-scheduling-changes-in-v1-25-0|5
-  Automation and Scheduling changes in v1.25.0]]'
-- '[[Changes/Claude Code/2026-10-08-changed-ctrl-c-at-the-idle-prompt-of-an-attached-background-session-to-leave-a-p|Changed
-  Ctrl+C at the idle prompt of an attached background session to leave…]]'
 - '[[Changes/OpenHands/2026-10-08-2-automation-and-scheduling-changes-in-v1-26-0|2
   Automation and Scheduling changes in v1.26.0]]'
+- '[[Changes/Replit/2026-10-09-create-and-manage-tiktok-ads|Create and manage TikTok
+  Ads]]'
+- '[[Changes/Open WebUI/2026-10-10-10-automation-and-scheduling-changes-in-v0-12-0|10
+  Automation and Scheduling changes in v0.12.0]]'
 source_release: '[[Releases/OpenHands/openhands-2026-10-12-v1-27-0-github-410728945-cac9a43e|openhands-2026-10-12-v1-27-0-github-410728945-cac9a43e]]'
 source_type: github_releases
 theme: automation-scheduling
@@ -93,14 +93,14 @@ Source: https://github.com/OpenHands/OpenHands/releases/tag/v1.27.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Automation and Scheduling
 
-- Earlier: 2026-10-08 · OpenHands · [[Changes/OpenHands/2026-10-08-2-automation-and-scheduling-changes-in-v1-26-0|2 Automation and Scheduling changes in v1.26.0]]
-- Later: 2026-10-19 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-10-19-reasoning-only-max-token-responses-no-longer-loop-indefinitely-and-now-end-with|Reasoning-only max-token responses no longer loop indefinitely and now end…]]
+- Earlier: 2026-10-10 · Open WebUI · [[Changes/Open WebUI/2026-10-10-10-automation-and-scheduling-changes-in-v0-12-0|10 Automation and Scheduling changes in v0.12.0]]
+- Later: 2026-10-13 · Lovable · [[Changes/Lovable/2026-10-13-supported-postgresql-extensions-on-lovable-cloud|Supported PostgreSQL extensions on Lovable Cloud]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2024-09-04 · OpenHands · [[Changes/OpenHands/2024-09-04-better-syntax-error-loop-detection-by-tobitege-in-https-github-com-all-hands-ai|Better syntax error loop detection]]
+- Earliest same-theme entry in the tracked set: 2024-01-02 · Dify · [[Changes/Dify/2024-01-02-add-data-clean-schedule-by-johnjyong-in-https-github-com-langgenius-dify-pull-18|Add data clean schedule]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

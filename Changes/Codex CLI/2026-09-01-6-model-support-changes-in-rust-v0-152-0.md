@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 1e50997587eb061fea4d6b91a4f6e3368a5b5764dd1349a114b788273d0c17a8
+machine_hash: 5de9a27d0af28d049af629e9858d68d2df12101daf4191c9d08334963160ef56
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -51,10 +51,10 @@ record:
   title: 6 Model Support changes in rust-v0.152.0
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-08-29-3-model-support-changes-in-rust-v0-151-0|3 Model
-  Support changes in rust-v0.151.0]]'
-- '[[Changes/ChatGPT/2026-08-31-site-tools-use-webmcp-and-require-a-supported-account-model-and-webpage-they-are|Site
-  tools use WebMCP and require a supported account, model, and webpage]]'
+- '[[Changes/Open WebUI/2026-08-31-10-model-support-changes-in-v0-11-2|10 Model Support
+  changes in v0.11.2]]'
+- '[[Changes/Claude/2026-09-01-claude-fable-5-1-and-claude-mythos-5-1-launch|Claude
+  Fable 5.1 and Claude Mythos 5.1 launch]]'
 - '[[Changes/Claude Code/2026-09-01-6-model-support-changes-in-v2-1-257|6 Model Support
   changes in v2.1.257]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-09-01-rust-v0-152-0-github-380164108-cd339544|codex-cli-2026-09-01-rust-v0-152-0-github-380164108-cd339544]]'

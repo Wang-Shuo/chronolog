@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: c0f10463632e07d631a8f4f5d3f20acb9b7270aa127f8fb35a62ed579a9e6088
+machine_hash: 72f2fbb13fd4087630d2e3a10122530a7ece09eba3cb54b691ef1eb980c6af67
 product: cursor
 product_name: Cursor
 record:
@@ -44,12 +44,12 @@ record:
   title: 2 Account and Access changes in 2.3
   type: change
 related_changes:
-- '[[Changes/Windsurf/2025-12-12-request-all-supported-scopes-if-no-scopes-are-provided-in-mcp-oauth-config|Request
-  all supported scopes if no scopes are provided in MCP OAuth config]]'
 - '[[Changes/Gemini CLI/2025-12-16-allow-telemetry-exporters-to-gcp-to-utilize-user-s-login-credentials-if-requeste|Allow
   telemetry exporters to GCP to utilize user''s login credentials, if requested]]'
 - '[[Changes/Codex CLI/2025-12-21-2-account-and-access-changes-in-rust-v0-77-0|2 Account
   and Access changes in rust-v0.77.0]]'
+- '[[Changes/Open WebUI/2025-12-21-4-account-and-access-changes-in-v0-6-42|4 Account
+  and Access changes in v0.6.42]]'
 source_release: '[[Releases/Cursor/cursor-2025-12-22-2-3-https-cursor-com-changelog-2-3-fe418465|cursor-2025-12-22-2-3-https-cursor-com-changelog-2-3-fe418465]]'
 source_type: cursor_changelog
 theme: account-access
@@ -89,8 +89,8 @@ Source: https://cursor.com/changelog/2-3
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Account and Access
 
-- Earlier: 2025-12-21 · Codex CLI · [[Changes/Codex CLI/2025-12-21-2-account-and-access-changes-in-rust-v0-77-0|2 Account and Access changes in rust-v0.77.0]]
-- Later: 2025-12-30 · OpenHands · [[Changes/OpenHands/2025-12-30-added-oauth-2-0-device-flow-for-cli-authentication-by-malhotra5-in-https-github|Added OAuth 2.0 Device Flow for CLI authentication]]
+- Earlier: 2025-12-21 · Open WebUI · [[Changes/Open WebUI/2025-12-21-4-account-and-access-changes-in-v0-6-42|4 Account and Access changes in v0.6.42]]
+- Later: 2025-12-25 · Dify · [[Changes/Dify/2025-12-25-chore-remove-unused-login-call-from-activation-flow-by-hjlarry-in-https-github-c|chore: remove unused login call from activation flow]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

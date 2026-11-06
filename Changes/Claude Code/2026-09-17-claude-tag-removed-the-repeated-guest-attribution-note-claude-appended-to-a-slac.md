@@ -5,20 +5,20 @@ description: 'Claude Code · 2026-09-17 · Files and Data: [Claude Tag] Removed 
   repeated guest-attribution note Claude appended to a Slack canvas each time it edited
   one…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-07-06-we-re-rolling-out-code-interpreter-to-all-chatgpt-plus-users-over-the-next-week-66255e|Code
-    interpreter is now rolling out in beta on web]]'
+  first_in_tracked: '[[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2
+    Files and Data changes in 0.2.2]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1169
+  lag_days: 1211
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 6ed0dc13c788ebb7e0767ae4467aa552803a4de9b2a7f869e0c31c0047a57230
+machine_hash: 0a00b0be02d3ea811e1738cd31e2a9c07a8cac7faac54305348411006a0923c0
 product: claude-code
 product_name: Claude Code
 record:
@@ -46,10 +46,10 @@ record:
     to a Slack…'
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-14-2-files-and-data-changes-in-v2-1-271|2 Files and
-  Data changes in v2.1.271]]'
 - '[[Changes/Claude Code/2026-09-15-improved-artifact-database-writes-an-update-can-now-remove-a-single-field-instea|Improved
   artifact database writes]]'
+- '[[Changes/Claude/2026-09-16-create-designs-decks-and-docs-in-any-conversation|Create
+  designs, decks, and docs in any conversation]]'
 - '[[Changes/OpenHands/2026-09-16-feat-track-authenticated-canvas-arrivals-by-neubig-in-https-github-com-openhands|feat:
   track authenticated Canvas arrivals]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-17-v2-1-274-github-390317660-0d9c7c5d|claude-code-2026-09-17-v2-1-274-github-390317660-0d9c7c5d]]'
@@ -94,13 +94,13 @@ type: change
 ## Nearby in Files and Data
 
 - Earlier: 2026-09-16 · OpenHands · [[Changes/OpenHands/2026-09-16-feat-track-authenticated-canvas-arrivals-by-neubig-in-https-github-com-openhands|feat: track authenticated Canvas arrivals]]
-- Later: 2026-09-22 · Codex CLI · [[Changes/Codex CLI/2026-09-22-46027-document-and-test-wildcards-in-network-proxy-domain-patterns-viyatb-oai|♯46027 Document and test ? wildcards in network proxy domain patterns @viyatb-oai]]
+- Later: 2026-09-21 · Open WebUI · [[Changes/Open WebUI/2026-09-21-10-files-and-data-changes-in-v0-11-4|10 Files and Data changes in v0.11.4]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-07-06 · ChatGPT · [[Changes/ChatGPT/2023-07-06-we-re-rolling-out-code-interpreter-to-all-chatgpt-plus-users-over-the-next-week-66255e|Code interpreter is now rolling out in beta on web]]
+- Earliest same-theme entry in the tracked set: 2023-05-25 · Dify · [[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2 Files and Data changes in 0.2.2]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

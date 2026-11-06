@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 6dc905796ee18eed5eaeecfa3fc256b4fa1f36e0a6697d37c81e4fc59ba5183b
+machine_hash: 3d8c3d8f4f3187e4dbed48e9493dfde37abedd3eced49d54599b3226d790bf55
 product: claude-code
 product_name: Claude Code
 record:
@@ -62,8 +62,9 @@ record:
   title: Added new `claude agents` flags
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2026-05-12-3-safety-and-privacy-changes-in-v0-42-0|3 Safety
-  and Privacy changes in v0.42.0]]'
+- '[[Changes/v0/2026-05-12-v0-can-now-run-terminal-commands-in-your-chats-with-a-permission-prompt-before-e|v0
+  can now run terminal commands in your chats, with a permission prompt before each
+  one]]'
 - '[[Changes/Claude Code/2026-05-13-5-safety-and-privacy-changes-in-v2-1-141|5 Safety
   and Privacy changes in v2.1.141]]'
 - '[[Changes/Cursor/2026-05-13-environment-governance-and-security-controls|Environment

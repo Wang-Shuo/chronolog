@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: d38b84161f0d9e144adfcfb33f29d94dd30b7c4eb43464b877544563bec294cd
+machine_hash: 3ba32d20819b1fabf30a0644a9ebded97c53a0d53b1da0cde96a9285f7ba6364
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -71,10 +71,9 @@ record:
   title: 15 Developer Workflow changes in rust-v0.59.0
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2025-11-13-7-developer-workflow-changes-in-rust-v0-58-0|7 Developer
-  Workflow changes in rust-v0.58.0]]'
 - '[[Changes/Gemini CLI/2025-11-14-trivial-yaml-fixes-for-linter-by-joshualitt-in-https-github-com-google-gemini-ge|Trivial
   yaml fixes for linter]]'
+- '[[Changes/Replit/2025-11-16-gitlab-and-bitbucket-support|GitLab and Bitbucket support]]'
 - '[[Changes/GitHub Copilot CLI/2025-11-17-add-share-command-to-save-session-as-markdown-file-or-github-gist|Add
   /share command to save session as markdown file or GitHub gist]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2025-11-19-rust-v0-59-0-github-263735550-757042e7|codex-cli-2025-11-19-rust-v0-59-0-github-263735550-757042e7]]'

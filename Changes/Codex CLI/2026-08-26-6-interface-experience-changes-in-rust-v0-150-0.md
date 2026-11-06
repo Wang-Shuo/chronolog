@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: d8f07ced1428b0b1a4d32f4ac93f31f3b60524071bc0a46f908379b98c1cffa4
+machine_hash: fad3335e4592cddfdbd15598dd32de656283706adf39596b8f6ef3a700ab930f
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -51,9 +51,10 @@ record:
   title: 6 Interface Experience changes in rust-v0.150.0
   type: change
 related_changes:
-- '[[Changes/Windsurf/2026-08-21-devin-cloud|Devin Cloud]]'
-- '[[Changes/Gemini CLI/2026-08-25-ssr-agent-issue-fix-23954-add-trailing-space-to-autocomplete-suggestions-by-jone|SSR
-  Agent Issue Fix (23954): Add trailing space to autocomplete suggestions]]'
+- '[[Changes/Lovable/2026-08-25-see-time-and-cost-while-lovable-works|See time and
+  cost while Lovable works]]'
+- '[[Changes/Open WebUI/2026-08-25-24-interface-experience-changes-in-v0-11-1|24 Interface
+  Experience changes in v0.11.1]]'
 - '[[Changes/Claude Code/2026-08-26-changed-the-prompt-footer-pr-badge-to-skip-its-github-re-check-on-terminal-refoc|Changed
   the prompt-footer PR badge to skip its GitHub re-check on terminal refocus…]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-08-26-rust-v0-150-0-github-377374683-d950f84c|codex-cli-2026-08-26-rust-v0-150-0-github-377374683-d950f84c]]'
@@ -110,7 +111,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.150.0
 ## Nearby in Interface Experience
 
 - Earlier: 2026-08-26 · Claude Code · [[Changes/Claude Code/2026-08-26-changed-the-prompt-footer-pr-badge-to-skip-its-github-re-check-on-terminal-refoc|Changed the prompt-footer PR badge to skip its GitHub re-check on terminal refocus…]]
-- Later: 2026-08-27 · Claude Code · [[Changes/Claude Code/2026-08-27-2-interface-experience-changes-in-v2-1-248|2 Interface Experience changes in v2.1.248]]
+- Later: 2026-08-26 · Lovable · [[Changes/Lovable/2026-08-26-resources-removed-from-the-dashboard-sidebar|Resources removed from the dashboard sidebar]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 6c4be920ba831ba7aaca068419ff8925897bc8e6584b2b9ad0d5c8978096ea0a
+machine_hash: 12acdcea022e2c07eac92c85a7b3218ca4cda19a23ee26dcb98a86e6ab5e17ca
 product: openhands
 product_name: OpenHands
 record:
@@ -41,8 +41,8 @@ record:
   title: Make layout responsive for mobile devices
   type: change
 related_changes:
-- '[[Changes/Aider/2024-09-21-on-windows-run-correctly-uses-powershell-or-cmd-exe|On
-  Windows, /run correctly uses PowerShell or cmd.exe]]'
+- '[[Changes/Gemini/2024-11-14-try-the-new-gemini-app-on-your-iphone|Try the new Gemini
+  app on your iPhone]]'
 - '[[Changes/ChatGPT/2024-11-19-starting-today-we-re-beginning-to-roll-out-advanced-voice-mode-on-web-already-av-3d4db6|Advanced
   Voice for ChatGPT Web]]'
 - '[[Changes/ChatGPT/2024-11-22-improved-mobile-web-experience|Improved Mobile Web

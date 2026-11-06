@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 8894f84df3d4a065238384d065773fc06ed7bc0a2fcf8ec4026a8d3acc1f67d8
+machine_hash: eb347f45bc926df88a2dfe7a46dd59d6468fea021195cfc4220524e8807de19a
 product: cline
 product_name: Cline
 record:
@@ -44,11 +44,12 @@ record:
     shared…
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-06-22-26707-pac-2-add-shared-auth-system-proxy-contract-canvrno-oai|♯26707
-  PAC 2 - Add shared auth system proxy contract @canvrno-oai]]'
-- '[[Changes/Cursor/2026-06-22-new-team-marketplaces|New Team Marketplaces]]'
 - '[[Changes/GitHub Copilot CLI/2026-06-23-preserve-markdown-blockquotes-in-share-exports|Preserve
   Markdown blockquotes in /share exports]]'
+- '[[Changes/Lovable/2026-06-23-a-more-compact-show-toolbar-button|A more compact
+  Show toolbar button]]'
+- '[[Changes/Dify/2026-06-25-6-collaboration-changes-in-1-15-0|6 Collaboration changes
+  in 1.15.0]]'
 source_release: '[[Releases/Cline/cline-2026-06-26-v4-0-0-github-345514931-9953949f|cline-2026-06-26-v4-0-0-github-345514931-9953949f]]'
 source_type: github_releases
 theme: collaboration
@@ -84,8 +85,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Collaboration
 
-- Earlier: 2026-06-23 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-06-23-preserve-markdown-blockquotes-in-share-exports|Preserve Markdown blockquotes in /share exports]]
-- Later: 2026-06-30 · Cursor · [[Changes/Cursor/2026-06-30-team-mcps-in-team-marketplaces-27f9ef|Team MCPs in team marketplaces]]
+- Earlier: 2026-06-25 · Dify · [[Changes/Dify/2026-06-25-6-collaboration-changes-in-1-15-0|6 Collaboration changes in 1.15.0]]
+- Later: 2026-06-26 · Lovable · [[Changes/Lovable/2026-06-26-comments-in-shared-app-previews|Comments in shared app previews]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

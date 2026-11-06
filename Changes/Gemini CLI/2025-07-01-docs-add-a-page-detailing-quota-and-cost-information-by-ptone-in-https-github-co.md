@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: policy
-machine_hash: f6038a3a231f8f5010ba9dcbc5a845102a8339971e1929e14461c6994c7fa571
+machine_hash: 7d87f80fea64954e407bacec80cf6eb181d43019af6d9f2f81bd70350f30716f
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -43,10 +43,11 @@ record:
   title: 'Docs: Add a page detailing quota and cost information'
   type: change
 related_changes:
-- '[[Changes/Windsurf/2025-04-20-existing-plans|Existing Plans]]'
-- '[[Changes/Cursor/2025-05-15-simpler-unified-pricing-6a915c|Simpler, unified pricing]]'
-- '[[Changes/Cursor/2025-05-15-introducing-unified-request-based-pricing-max-mode-for-all-top-models-and-backgr|Introducing
-  unified request-based pricing, Max Mode for all top models…]]'
+- '[[Changes/Gemini/2025-05-20-get-more-from-the-gemini-app-with-the-google-ai-pro-subscription|Get
+  more from the Gemini app with the Google AI Pro subscription]]'
+- '[[Changes/ElevenLabs/2025-06-17-subscription-management|Subscription Management]]'
+- '[[Changes/Replit/2025-06-27-organization-suspension-from-ubb-services|Organization
+  suspension from UBB services]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2025-07-01-v0-1-8-github-229252035-f46324ec|gemini-cli-2025-07-01-v0-1-8-github-229252035-f46324ec]]'
 source_type: github_releases
 theme: pricing-model
@@ -84,8 +85,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Pricing Model
 
-- Earlier: 2025-05-15 · Cursor · [[Changes/Cursor/2025-05-15-introducing-unified-request-based-pricing-max-mode-for-all-top-models-and-backgr|Introducing unified request-based pricing, Max Mode for all top models…]]
-- Later: 2025-07-09 · Cline · [[Changes/Cline/2025-07-09-remove-incorrect-pricing-display-for-sap-ai-core-provider-since-it-uses-non-usd|Remove incorrect pricing display for SAP AI Core provider since it uses non-USD…]]
+- Earlier: 2025-06-27 · Replit · [[Changes/Replit/2025-06-27-organization-suspension-from-ubb-services|Organization suspension from UBB services]]
+- Later: 2025-07-04 · Replit · [[Changes/Replit/2025-07-04-effort-based-billing|Effort-based billing]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

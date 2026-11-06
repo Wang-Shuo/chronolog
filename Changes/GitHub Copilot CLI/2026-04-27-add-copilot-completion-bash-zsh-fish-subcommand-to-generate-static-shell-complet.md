@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 48ef400be0a1513cfdbbc44eecc306772fc7e17588240123ce00fc0d09ce32ae
+machine_hash: c5aa2f01f1af9fd8af15125adaa4e9a05ffbab1ddefef34ac39e3abafe909556
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -43,12 +43,12 @@ record:
   title: Add `copilot completion <bash|zsh|fish>` subcommand to generate static shell…
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2026-04-23-chore-core-increase-codebase-investigator-turn-limits-to-50-by-abhipatel12-in-ht|chore(core):
-  increase codebase investigator turn limits to 50]]'
-- '[[Changes/GitHub Copilot CLI/2026-04-23-6-editor-experience-changes-in-v1-0-35|6
-  Editor Experience changes in v1.0.35]]'
 - '[[Changes/GitHub Copilot CLI/2026-04-24-2-editor-experience-changes-in-v1-0-36|2
   Editor Experience changes in v1.0.36]]'
+- '[[Changes/Lovable/2026-04-24-labs-tab-the-labs-tab-has-been-removed-from-settings-github-branch-switching-is|Labs
+  tab. The Labs tab has been removed from settings]]'
+- '[[Changes/Open WebUI/2026-04-24-2-editor-experience-changes-in-v0-9-2|2 Editor
+  Experience changes in v0.9.2]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-04-27-v1-0-37-github-314304065-a4bb7d0c|github-copilot-cli-2026-04-27-v1-0-37-github-314304065-a4bb7d0c]]'
 source_type: github_releases
 theme: editor-experience
@@ -80,8 +80,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2026-04-24 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-04-24-2-editor-experience-changes-in-v1-0-36|2 Editor Experience changes in v1.0.36]]
-- Later: 2026-04-30 · Codex CLI · [[Changes/Codex CLI/2026-04-30-20045-fix-plan-mode-nudge-test-after-task-completion-signature-change-canvrno-oa|♯20045 Fix plan mode nudge test after task completion signature change @canvrno-oai]]
+- Earlier: 2026-04-24 · Open WebUI · [[Changes/Open WebUI/2026-04-24-2-editor-experience-changes-in-v0-9-2|2 Editor Experience changes in v0.9.2]]
+- Later: 2026-04-29 · Dify · [[Changes/Dify/2026-04-29-6-editor-experience-changes-in-1-14-0|6 Editor Experience changes in 1.14.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

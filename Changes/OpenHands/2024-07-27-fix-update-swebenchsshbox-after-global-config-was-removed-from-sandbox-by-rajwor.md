@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 2007c71a7adcfb8d026d7daf53d895556d2c33eb044ad1e4b4c5a27f69ace4d3
+machine_hash: 3419238e3c05e918baf653bebf5c1248bfbae65583d018714c22c1472232b6ef
 product: openhands
 product_name: OpenHands
 record:
@@ -44,8 +44,8 @@ record:
   title: '[FIX] Update SWEBenchSSHBox after global config was removed…'
   type: change
 related_changes:
-- '[[Changes/OpenHands/2024-07-05-2-safety-and-privacy-changes-in-0-7-1|2 Safety and
-  Privacy changes in 0.7.1]]'
+- '[[Changes/Dify/2024-07-08-2-safety-and-privacy-changes-in-0-6-13|2 Safety and Privacy
+  changes in 0.6.13]]'
 - '[[Changes/OpenHands/2024-07-13-6-safety-and-privacy-changes-in-0-8-0|6 Safety and
   Privacy changes in 0.8.0]]'
 - '[[Changes/OpenHands/2024-07-19-2-safety-and-privacy-changes-in-0-8-1|2 Safety and

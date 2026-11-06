@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 952720d90c8dd1c05c98e61baa0b98b1d0b68f026f7a047fd0737f1dbdc81865
+machine_hash: be1738c7581979129ef384e8b88862a6719ea0700bafad2ccb4241f0cb2c39d7
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -71,10 +71,10 @@ record:
   title: 16 Context Window changes in rust-v0.163.0
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-14-2-context-window-changes-in-v2-1-299|2 Context
-  Window changes in v2.1.299]]'
-- '[[Changes/Claude Code/2026-10-14-added-usage-warnings-for-max-effort-workflows-always-on-context-and-large-tool-r|Added
-  /usage warnings for max effort, workflows, always-on context and large tool…]]'
+- '[[Changes/Open WebUI/2026-10-14-2-context-window-changes-in-v0-12-1|2 Context Window
+  changes in v0.12.1]]'
+- "[[Changes/Open WebUI/2026-10-14-per-chat-terminal-file-actions-with-the-open-terminal-chat-context-set-to-per-ch|\U0001F5A5️
+  Per chat terminal file actions. With the Open Terminal chat context set…]]"
 - '[[Changes/Claude Code/2026-10-15-improved-switching-to-a-model-with-a-smaller-context-window-a-conversation-too-l|Improved
   switching to a model with a smaller context window]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-10-15-rust-v0-163-0-github-414286110-97016fe6|codex-cli-2026-10-15-rust-v0-163-0-github-414286110-97016fe6]]'

@@ -5,20 +5,20 @@ description: 'Claude Code · 2026-03-17 · Automation and Scheduling: Show a not
   when `apiKeyHelper` takes longer than 10s, preventing it from blocking the main
   loop'
 diffusion:
-  first_in_tracked: '[[Changes/OpenHands/2024-09-04-better-syntax-error-loop-detection-by-tobitege-in-https-github-com-all-hands-ai|Better
-    syntax error loop detection]]'
+  first_in_tracked: '[[Changes/Dify/2024-01-02-add-data-clean-schedule-by-johnjyong-in-https-github-com-langgenius-dify-pull-18|Add
+    data clean schedule]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 559
+  lag_days: 805
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 68d52c34947341b129c348b62e1cfad22ae71c172ba2697c9d85b36fbbccda23
+machine_hash: 8b26210aeced68196cad8cafe07372cc95bfe75831e6d6008f0a8ab42ea42fca
 product: claude-code
 product_name: Claude Code
 record:
@@ -46,8 +46,8 @@ record:
     blocking…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-03-07-added-loop-command-to-run-a-prompt-or-slash-command-on-a-recurring-interval-e-g|Added
-  /loop command to run a prompt or slash command on a recurring interval…]]'
+- '[[Changes/Open WebUI/2026-03-08-artifacts-reactive-loop-fix-fixed-an-infinite-reactive-loop-in-chat-when-artifac|♾️
+  Artifacts reactive loop fix. Fixed an infinite reactive loop in chat…]]'
 - '[[Changes/Claude Code/2026-03-10-added-claude-code-disable-cron-environment-variable-to-immediately-stop-schedule|Added
   CLAUDE_CODE_DISABLE_CRON environment variable to immediately stop scheduled…]]'
 - '[[Changes/Codex CLI/2026-03-10-2-automation-and-scheduling-changes-in-rust-v0-113-0|2
@@ -90,13 +90,13 @@ type: change
 ## Nearby in Automation and Scheduling
 
 - Earlier: 2026-03-10 · Codex CLI · [[Changes/Codex CLI/2026-03-10-2-automation-and-scheduling-changes-in-rust-v0-113-0|2 Automation and Scheduling changes in rust-v0.113.0]]
-- Later: 2026-03-17 · Gemini CLI · [[Changes/Gemini CLI/2026-03-17-2-automation-and-scheduling-changes-in-v0-34-0|2 Automation and Scheduling changes in v0.34.0]]
+- Later: 2026-03-17 · Dify · [[Changes/Dify/2026-03-17-ci-add-weekly-schedule-for-pip-and-uv-ecosystems-by-asukaminato0721-in-https-git|ci: Add weekly schedule for pip and uv ecosystems]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2024-09-04 · OpenHands · [[Changes/OpenHands/2024-09-04-better-syntax-error-loop-detection-by-tobitege-in-https-github-com-all-hands-ai|Better syntax error loop detection]]
+- Earliest same-theme entry in the tracked set: 2024-01-02 · Dify · [[Changes/Dify/2024-01-02-add-data-clean-schedule-by-johnjyong-in-https-github-com-langgenius-dify-pull-18|Add data clean schedule]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

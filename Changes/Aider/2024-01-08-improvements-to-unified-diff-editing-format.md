@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 340cb2bfdec50196310024948940239b91ad93acbeccfbca9a80fb83b8741316
+machine_hash: 8c4a9054769dd4093669ff2098c805ff01d3246792bdae6498a5b8a28a4677a5
 product: aider
 product_name: Aider
 record:
@@ -42,8 +42,8 @@ record:
   title: Improvements to unified diff editing format
   type: change
 related_changes:
-- '[[Changes/Cursor/2023-12-31-you-can-now-use-chat-and-cmd-k-in-the-aux-window-without-too-many-problems|Aux
-  Window Fixes]]'
+- '[[Changes/Dify/2024-01-02-gpt-2-tokenizer-files-now-cached-within-dify-s-codebase-making-builds-quicker-an|GPT-2
+  Tokenizer Files: Now cached within Dify''s codebase, making builds quicker…]]'
 - '[[Changes/Cursor/2024-01-03-hold-down-command-press-and-release-shift-and-continue-holding-down-command-this|Early
   Preview: Hold-cmd-tap-shift to Trigger AI Rewrite]]'
 - '[[Changes/Cursor/2024-01-06-upgrades-cursor-to-vs-code-1-85-which-comes-with-support-for-dragging-out-tabs-i|Upgrades

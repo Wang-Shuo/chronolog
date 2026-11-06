@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 5d8de589a478328c8fa0f77baa7befa234d4e80a944450349a7b2e07ca79ee80
+machine_hash: 98594ecdf5dd6aa3987e90cfb3b34dc0aa233538eeb59b32d9cdc3fcf6f7178d
 product: claude-code
 product_name: Claude Code
 record:
@@ -43,10 +43,9 @@ record:
   title: 2 Agent Mode changes in v2.1.117
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-04-20-2-agent-mode-changes-in-v2-1-116|2 Agent Mode
-  changes in v2.1.116]]'
 - '[[Changes/Codex CLI/2026-04-20-10-agent-mode-changes-in-rust-v0-122-0|10 Agent
   Mode changes in rust-v0.122.0]]'
+- '[[Changes/ElevenLabs/2026-04-20-elevenagents|ElevenAgents]]'
 - '[[Changes/GitHub Copilot CLI/2026-04-20-2-agent-mode-changes-in-v1-0-33|2 Agent
   Mode changes in v1.0.33]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-04-22-v2-1-117-github-311984967-1d917373|claude-code-2026-04-22-v2-1-117-github-311984967-1d917373]]'
@@ -87,7 +86,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.117
 ## Nearby in Agent Mode
 
 - Earlier: 2026-04-20 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-04-20-2-agent-mode-changes-in-v1-0-33|2 Agent Mode changes in v1.0.33]]
-- Later: 2026-04-23 · Claude Code · [[Changes/Claude Code/2026-04-23-2-agent-mode-changes-in-v2-1-118|2 Agent Mode changes in v2.1.118]]
+- Later: 2026-04-22 · Ollama · [[Changes/Ollama/2026-04-22-kimi-cli-with-kimi-k2-6-excels-at-long-horizon-agentic-execution-tasks-through-a|Kimi CLI with Kimi K2.6 excels at long horizon agentic execution tasks through…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

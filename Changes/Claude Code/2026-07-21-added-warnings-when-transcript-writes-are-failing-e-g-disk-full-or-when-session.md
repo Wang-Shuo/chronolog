@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 1e44c7b3b0cc8e1f2e9776cca0dc724f904cd11f532ebeb8f27181fd6df7c955
+machine_hash: a25abc1d3367fcdf8cebe0b441bc805d2cbab1952fc66394fec1483fa0776ea1
 product: claude-code
 product_name: Claude Code
 record:
@@ -48,8 +48,8 @@ record:
     session…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-07-14-3-reliability-and-performance-changes-in-v2-1-208|3
-  Reliability and Performance changes in v2.1.208]]'
+- '[[Changes/Dify/2026-07-17-3-reliability-and-performance-changes-in-1-16-0|3 Reliability
+  and Performance changes in 1.16.0]]'
 - '[[Changes/Windsurf/2026-07-17-devin-cloud|Devin Cloud]]'
 - '[[Changes/Claude Code/2026-07-18-added-a-periodic-progress-heartbeat-for-long-running-tool-calls-that-previously|Added
   a periodic progress heartbeat for long-running tool calls that previously went…]]'

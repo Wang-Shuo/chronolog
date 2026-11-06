@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 8417b750b2e89e8b4a940fde53ff874dc8e3894638db1262c3fafe672633b364
+machine_hash: 59c2976dbbeb73442a02b2293ceb04459d1d0ae33a8cdba277dc36a4eb2fa72e
 product: cursor
 product_name: Cursor
 record:
@@ -52,12 +52,12 @@ record:
   title: Both pro and API key users can also try out gpt-4-0125-preview by configuring…
   type: change
 related_changes:
-- '[[Changes/Aider/2024-01-04-add-images-to-the-chat-to-automatically-use-gpt-4-vision-by-joshuavial|Add
-  images to the chat to automatically use GPT-4 Vision, by @joshuavial]]'
-- '[[Changes/Cursor/2024-01-15-cursor-fast-is-a-newly-trained-model-between-gpt-3-5-and-gpt-4-coding-capabiliti-bb4c11|Cursor-Fast
-  is a newly trained model between gpt-3.5 and gpt-4 coding capabilities…]]'
-- '[[Changes/Cursor/2024-01-18-cursor-fast-this-is-a-new-model-available-in-command-k-and-chat-expect-it-to-be|"cursor-fast":
-  This is a new model available in command-k and chat]]'
+- '[[Changes/Dify/2024-01-19-add-jina-embeddings-v2-base-de-model-configuration-by-joshua20231026-in-https-gi|Add
+  jina-embeddings-v2-base-de model configuration]]'
+- '[[Changes/Ollama/2024-01-20-8-model-support-changes-in-v0-1-21|8 Model Support
+  changes in v0.1.21]]'
+- '[[Changes/Dify/2024-01-24-4-model-support-changes-in-0-5-0|4 Model Support changes
+  in 0.5.0]]'
 source_release: '[[Releases/Cursor/cursor-2024-01-25-0-24-x-https-cursor-com-changelog-0-24-x-c3b46238|cursor-2024-01-25-0-24-x-https-cursor-com-changelog-0-24-x-c3b46238]]'
 source_type: cursor_changelog
 theme: model-support
@@ -87,8 +87,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2024-01-18 · Cursor · [[Changes/Cursor/2024-01-18-cursor-fast-this-is-a-new-model-available-in-command-k-and-chat-expect-it-to-be|"cursor-fast": This is a new model available in command-k and chat]]
-- Later: 2024-02-03 · Aider · [[Changes/Aider/2024-02-03-added-support-for-model-gpt-4-0125-preview-and-openai-s-alias-model-gpt-4-turbo|Added support for --model gpt-4-0125-preview and OpenAI's alias…]]
+- Earlier: 2024-01-24 · Dify · [[Changes/Dify/2024-01-24-4-model-support-changes-in-0-5-0|4 Model Support changes in 0.5.0]]
+- Later: 2024-01-25 · Dify · [[Changes/Dify/2024-01-25-3-model-support-changes-in-0-5-1|3 Model Support changes in 0.5.1]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

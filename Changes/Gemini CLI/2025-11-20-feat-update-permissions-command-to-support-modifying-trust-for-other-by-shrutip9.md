@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 8f476a6920d8b03c7b69fe41c1be1911fbdb1f7255f5fb6927c8263e21e4faa0
+machine_hash: 749514e6c347e3df1123ae82fe036d65d8a4fe8a13c022f69b173878bbf96e79
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -45,8 +45,7 @@ record:
   title: 'feat: Update permissions command to support modifying trust for other…'
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2025-11-14-trivial-yaml-fixes-for-linter-by-joshualitt-in-https-github-com-google-gemini-ge|Trivial
-  yaml fixes for linter]]'
+- '[[Changes/Replit/2025-11-16-gitlab-and-bitbucket-support|GitLab and Bitbucket support]]'
 - '[[Changes/GitHub Copilot CLI/2025-11-17-add-share-command-to-save-session-as-markdown-file-or-github-gist|Add
   /share command to save session as markdown file or GitHub gist]]'
 - '[[Changes/Codex CLI/2025-11-19-15-developer-workflow-changes-in-rust-v0-59-0|15

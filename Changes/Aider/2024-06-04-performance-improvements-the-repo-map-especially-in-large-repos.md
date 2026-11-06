@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 9fc12dd888c145e3aba94f4d578e6a78134445e204b493edb40b486c8405d16f
+machine_hash: 1e7dd5b54ca4c9288d044a664ae9b37af2de1274173cf4ec87ef7be7b4b5e0b1
 product: aider
 product_name: Aider
 record:
@@ -41,12 +41,12 @@ record:
   title: Performance improvements the repo map, especially in large repos
   type: change
 related_changes:
-- '[[Changes/Cursor/2024-03-20-faster-copilot-we-ve-made-copilot-2x-faster-this-speed-bump-comes-from-a-new-mod|Faster
-  Copilot++: We''ve made Copilot++ ~2x faster!]]'
-- '[[Changes/Cursor/2024-05-03-update-0-33-1-0-33-3-fix-to-settings-toggles-fix-to-copilot-diffbox-performance|UPDATE
-  (0.33.1–0.33.3): Fix to settings toggles, fix to Copilot++ diffbox…]]'
-- '[[Changes/Cursor/2024-05-03-stability-this-build-fixes-a-connection-error-problem-that-was-consistently-affe|Stability:
-  This build fixes a connection error problem that was consistently…]]'
+- '[[Changes/Ollama/2024-05-22-new-experimental-ollama-flash-attention-1-flag-for-ollama-serve-that-improves-to|New
+  experimental OLLAMA_FLASH_ATTENTION=1 flag for ollama serve that improves…]]'
+- '[[Changes/Dify/2024-05-27-general-fixes-various-bug-fixes-and-improvements-to-enhance-stability-and-perfor|General
+  Fixes: Various bug fixes and improvements to enhance stability and performance]]'
+- "[[Changes/Open WebUI/2024-06-03-batch-multiple-embeddings-introduced-rag-embedding-openai-batch-size-to-process|\U0001F9E9
+  Batch Multiple Embeddings]]"
 source_release: '[[Releases/Aider/aider-2024-06-04-v0-37-0-github-158850149-b4830675|aider-2024-06-04-v0-37-0-github-158850149-b4830675]]'
 source_type: github_releases
 theme: reliability-performance
@@ -79,8 +79,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2024-05-03 · Cursor · [[Changes/Cursor/2024-05-03-stability-this-build-fixes-a-connection-error-problem-that-was-consistently-affe|Stability: This build fixes a connection error problem that was consistently…]]
-- Later: 2024-07-04 · Aider · [[Changes/Aider/2024-07-04-3-reliability-and-performance-changes-in-v0-42-0|3 Reliability and Performance changes in v0.42.0]]
+- Earlier: 2024-06-03 · Open WebUI · [[Changes/Open WebUI/2024-06-03-batch-multiple-embeddings-introduced-rag-embedding-openai-batch-size-to-process|🧩 Batch Multiple Embeddings]]
+- Later: 2024-06-04 · Dify · [[Changes/Dify/2024-06-04-2-reliability-and-performance-changes-in-0-6-10|2 Reliability and Performance changes in 0.6.10]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

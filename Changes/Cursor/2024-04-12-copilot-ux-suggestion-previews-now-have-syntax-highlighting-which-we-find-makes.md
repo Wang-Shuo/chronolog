@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 2489af89dafb5fddd706778aa58bc7103941b78228ad55b95e430e289bd9eea7
+machine_hash: f31cb364088d6ef3357be5dc8e40f88055e3c30737cc3b458b7c19e8017fe3fc
 product: cursor
 product_name: Cursor
 record:
@@ -46,12 +46,12 @@ record:
     find makes…'
   type: change
 related_changes:
-- '[[Changes/Cursor/2024-02-23-cursor-is-now-based-on-vs-code-1-86-2-among-other-things-this-adds-sticky-scroll|VS
-  Code 1.86.2]]'
-- '[[Changes/Aider/2024-03-04-show-the-user-a-faq-link-if-edits-fail-to-apply|Show
-  the user a FAQ link if edits fail to apply]]'
 - '[[Changes/Cursor/2024-03-20-team-invites-we-made-it-a-bit-easier-for-you-to-invite-your-colleagues-to-your-c|Team
   invites: We made it a bit easier for you to invite your colleagues…]]'
+- "[[Changes/Open WebUI/2024-03-31-tag-autocomplete-dropdown-feature-added-for-effortless-chat-tagging|\U0001F3F7️
+  Tag Autocomplete: Dropdown feature added for effortless chat tagging]]"
+- '[[Changes/Dify/2024-04-09-2-editor-experience-changes-in-0-6-1|2 Editor Experience
+  changes in 0.6.1]]'
 source_release: '[[Releases/Cursor/cursor-2024-04-12-0-32-x-https-cursor-com-changelog-0-32-x-ce3690fc|cursor-2024-04-12-0-32-x-https-cursor-com-changelog-0-32-x-ce3690fc]]'
 source_type: cursor_changelog
 theme: editor-experience
@@ -83,8 +83,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2024-03-20 · Cursor · [[Changes/Cursor/2024-03-20-team-invites-we-made-it-a-bit-easier-for-you-to-invite-your-colleagues-to-your-c|Team invites: We made it a bit easier for you to invite your colleagues…]]
-- Later: 2024-04-24 · Aider · [[Changes/Aider/2024-04-24-allow-repo-map-for-whole-edit-format|Allow repo map for "whole" edit format]]
+- Earlier: 2024-04-09 · Dify · [[Changes/Dify/2024-04-09-2-editor-experience-changes-in-0-6-1|2 Editor Experience changes in 0.6.1]]
+- Later: 2024-04-16 · Dify · [[Changes/Dify/2024-04-16-3-editor-experience-changes-in-0-6-3|3 Editor Experience changes in 0.6.3]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

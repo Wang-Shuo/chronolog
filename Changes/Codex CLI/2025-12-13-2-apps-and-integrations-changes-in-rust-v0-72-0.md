@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: d78fd73fd3268609d84c1b8e49d7627fcfc98d08ff9728bd8b7787782a709467
+machine_hash: 27378f12363df17b68dedaaac450d4e0df111059083764f398ac9661b1f507ee
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -44,11 +44,12 @@ record:
   title: 2 Apps and Integrations changes in rust-v0.72.0
   type: change
 related_changes:
-- '[[Changes/Windsurf/2025-12-10-mcp-servers|MCP Servers]]'
-- '[[Changes/Windsurf/2025-12-10-cascade-hooks-on-user-prompts|Cascade Hooks on User
-  Prompts]]'
-- '[[Changes/Cline/2025-12-11-7-apps-and-integrations-changes-in-v3-41-0|7 Apps and
-  Integrations changes in v3.41.0]]'
+- '[[Changes/Dify/2025-12-12-6-apps-and-integrations-changes-in-1-11-1|6 Apps and
+  Integrations changes in 1.11.1]]'
+- '[[Changes/Replit/2025-12-12-agent-now-supports-custom-mcp-servers|Agent now supports
+  custom MCP servers]]'
+- '[[Changes/Replit/2025-12-12-plaid-connector-for-enterprise|Plaid Connector for
+  Enterprise]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2025-12-13-rust-v0-72-0-github-270052666-cf6fbee8|codex-cli-2025-12-13-rust-v0-72-0-github-270052666-cf6fbee8]]'
 source_type: github_releases
 theme: apps-integrations
@@ -84,7 +85,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.72.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2025-12-11 · Cline · [[Changes/Cline/2025-12-11-7-apps-and-integrations-changes-in-v3-41-0|7 Apps and Integrations changes in v3.41.0]]
+- Earlier: 2025-12-12 · Replit · [[Changes/Replit/2025-12-12-plaid-connector-for-enterprise|Plaid Connector for Enterprise]]
 - Later: 2025-12-15 · Codex CLI · [[Changes/Codex CLI/2025-12-15-7962-docs-update-the-docs-for-openai-codex-shell-tool-mcp|♯7962 docs: update the docs for @openai/codex-shell-tool-mcp]]
 <!-- chronolog:end -->
 

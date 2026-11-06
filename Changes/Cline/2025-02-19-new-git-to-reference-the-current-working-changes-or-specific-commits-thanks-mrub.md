@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 3c7d7f5b89fbba7e1b36a66360bc65d4df78b8640a2d90423cbb4de009f5f993
+machine_hash: 3c7092e74adfa3ecf0187778a28e5d5f53ef8cf485c017c143ae6bbfb897c35f
 product: cline
 product_name: Cline
 record:
@@ -46,10 +46,10 @@ record:
   title: New `@git` to reference the current working changes or specific commits…
   type: change
 related_changes:
-- '[[Changes/OpenHands/2025-01-13-2-developer-workflow-changes-in-0-20-0|2 Developer
-  Workflow changes in 0.20.0]]'
 - '[[Changes/Cursor/2025-01-23-update-0-45-12-13-update-infrastructure-improvements-the-f1-check-for-updates-co|UPDATE
   (0.45.12-13): Update infrastructure improvements]]'
+- '[[Changes/Dify/2025-02-07-stop-the-service-command-please-execute-in-the-docker-directory|Stop
+  the service，Command, please execute in the docker directory]]'
 - '[[Changes/OpenHands/2025-02-13-limit-resource-usage-of-command-to-avoid-oom-runtime-kill-by-xingyaoww-in-https|Limit
   resource usage of command to avoid OOM Runtime Kill]]'
 source_release: '[[Releases/Cline/cline-2025-02-19-v3-4-0-github-201249725-2b8f1358|cline-2025-02-19-v3-4-0-github-201249725-2b8f1358]]'
@@ -83,7 +83,7 @@ type: change
 ## Nearby in Developer Workflow
 
 - Earlier: 2025-02-13 · OpenHands · [[Changes/OpenHands/2025-02-13-limit-resource-usage-of-command-to-avoid-oom-runtime-kill-by-xingyaoww-in-https|Limit resource usage of command to avoid OOM Runtime Kill]]
-- Later: 2025-03-13 · Aider · [[Changes/Aider/2025-03-13-2-developer-workflow-changes-in-v0-77-0|2 Developer Workflow changes in v0.77.0]]
+- Later: 2025-02-27 · Open WebUI · [[Changes/Open WebUI/2025-02-27-enhanced-logging-with-loguru-backend-logging-has-been-improved-with-loguru-makin|📈 Enhanced Logging with Loguru]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

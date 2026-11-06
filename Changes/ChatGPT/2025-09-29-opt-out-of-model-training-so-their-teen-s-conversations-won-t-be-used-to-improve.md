@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: policy
-machine_hash: 37095bb7a05fec5768677df8150b0e3dc7afe82d64d907e5d8db5507b473f5ce
+machine_hash: ec7d474f6899b1ac3ec80dc3783cbbcbbf8e20ccd6399eefecdb772b974587df
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -46,10 +46,10 @@ record:
     improve…
   type: change
 related_changes:
-- '[[Changes/OpenHands/2025-09-25-set-claude-sonnet-output-token-limit|Set Claude
-  Sonnet output token limit]]'
 - '[[Changes/Codex CLI/2025-09-26-4195-send-text-parameter-for-non-gpt-5-models-4195|♯4195
   Send text parameter for non-gpt-5 models (♯4195)]]'
+- '[[Changes/Ollama/2025-09-26-2-model-support-changes-in-v0-12-3|2 Model Support
+  changes in v0.12.3]]'
 - '[[Changes/Cline/2025-09-28-2-model-support-changes-in-v3-32-1|2 Model Support changes
   in v3.32.1]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-09-29-parental-controls-8b95b69a|chatgpt-2025-09-29-parental-controls-8b95b69a]]'
@@ -84,7 +84,7 @@ type: change
 ## Nearby in Model Support
 
 - Earlier: 2025-09-28 · Cline · [[Changes/Cline/2025-09-28-2-model-support-changes-in-v3-32-1|2 Model Support changes in v3.32.1]]
-- Later: 2025-09-29 · Cline · [[Changes/Cline/2025-09-29-add-claude-sonnet-4-5-by-saoudrizwan-in-https-github-com-cline-cline-pull-6544|Add Claude Sonnet 4.5]]
+- Later: 2025-09-29 · Claude · [[Changes/Claude/2025-09-29-claude-sonnet-4-5-launch|Claude Sonnet 4.5 launch]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

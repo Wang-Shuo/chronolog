@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 1b2bc07bc5ea3397873281ccdd59ca9c22b531b67fca613dfe031d3524106e61
+machine_hash: 40bfbb2e12116047e439606e7a2e40fbe5fb5b7a198c307f4cd3a94c8bd88fad
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -87,7 +87,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.94.0
 ## Nearby in Agent Mode
 
 - Earlier: 2026-01-29 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-01-29-2-agent-mode-changes-in-v0-0-399|2 Agent Mode changes in v0.0.399]]
-- Later: 2026-02-03 · Claude Code · [[Changes/Claude Code/2026-02-03-added-token-count-tool-uses-and-duration-metrics-to-task-tool-results|Added token count, tool uses, and duration metrics to Task tool results]]
+- Later: 2026-02-02 · ElevenLabs · [[Changes/ElevenLabs/2026-02-02-python-sdk|Python SDK]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

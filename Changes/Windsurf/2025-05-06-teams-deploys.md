@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 175859d2f96d96b0005b45940254bf17bed2f5a264d4d1bce605f976f52391e7
+machine_hash: a93b8830be23132077bbb113085b102e93314fdf197d0bcfc7ab9aeec95cce1f
 product: windsurf
 product_name: Windsurf
 record:
@@ -47,10 +47,10 @@ record:
   title: Teams Deploys
   type: change
 related_changes:
-- '[[Changes/Aider/2024-11-26-skip-suggesting-files-that-share-names-with-files-already-in-chat|Skip
-  suggesting files that share names with files already in chat]]'
-- '[[Changes/Cursor/2025-03-23-improved-indexing-performance-for-teams-sharing-codebases|Improved
-  indexing performance for teams sharing codebases]]'
+- '[[Changes/Open WebUI/2025-05-05-5-collaboration-changes-in-v0-6-6|5 Collaboration
+  changes in v0.6.6]]'
+- "[[Changes/Open WebUI/2025-05-06-notes-feature-access-fixed-for-non-admins-fixed-an-issue-preventing-non-admin-us|\U0001F4DD
+  Notes Feature Access Fixed for Non-Admins]]"
 - '[[Changes/Windsurf/2025-05-06-teams-knowledge|Teams: Knowledge]]'
 source_release: '[[Releases/Windsurf/windsurf-2025-05-06-v1-8-0-8970184c|windsurf-2025-05-06-v1-8-0-8970184c]]'
 source_type: windsurf_changelog
@@ -90,8 +90,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Collaboration
 
-- Earlier: 2025-03-23 · Cursor · [[Changes/Cursor/2025-03-23-improved-indexing-performance-for-teams-sharing-codebases|Improved indexing performance for teams sharing codebases]]
-- Later: 2025-05-16 · Cline · [[Changes/Cline/2025-05-16-add-collapsible-recent-task-list-allowing-users-to-hide-their-task-history-when|Add collapsible recent task list, allowing users to hide their task history…]]
+- Earlier: 2025-05-06 · Open WebUI · [[Changes/Open WebUI/2025-05-06-notes-feature-access-fixed-for-non-admins-fixed-an-issue-preventing-non-admin-us|📝 Notes Feature Access Fixed for Non-Admins]]
+- Later: 2025-05-09 · Lovable · [[Changes/Lovable/2025-05-09-project-visibility-settings-have-returned-to-team-workspaces-but-will-be-disable|Project visibility settings have returned to team workspaces, but will be disabled for now]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

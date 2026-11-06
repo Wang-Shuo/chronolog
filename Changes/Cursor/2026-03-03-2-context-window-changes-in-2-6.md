@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 78fa515ff8baa923286e905798b7caf0e845c8bdf761042db581d2c95829f42b
+machine_hash: f3a52a5c69fe3e24a105f9d6d8963be6353f8a916ab52d7c916546b4237f0ba1
 product: cursor
 product_name: Cursor
 record:
@@ -45,8 +45,8 @@ record:
   title: 2 Context Window changes in 2.6
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2026-02-27-feat-telemetry-add-context-breakdown-to-api-response-event-by-sandytao520-in-htt|feat(telemetry):
-  Add context breakdown to API response event]]'
+- "[[Changes/Open WebUI/2026-03-01-oauth-session-token-decryption-oauth-sessions-are-now-properly-detached-from-the|\U0001F513
+  OAuth session token decryption. OAuth sessions are now properly detached…]]"
 - '[[Changes/Codex CLI/2026-03-02-12947-feat-add-local-date-timezone-to-turn-environment-context-celia-oai|♯12947
   feat: add local date/timezone to turn environment context @celia-oai]]'
 - '[[Changes/Cline/2026-03-03-trigger-auto-compaction-on-openrouter-context-overflow-errors|Trigger

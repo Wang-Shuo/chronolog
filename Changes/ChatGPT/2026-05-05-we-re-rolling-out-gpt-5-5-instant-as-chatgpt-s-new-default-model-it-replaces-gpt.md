@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 6808dcb4929cc361bc1b3a27d5a562e22c51997d454fe6461780f1a67edeef70
+machine_hash: 3ce820e5c653253f6f7797a30aa92db599c4a76e60452235d12c51ab805869f0
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -79,8 +79,8 @@ record:
   title: GPT-5.5 Instant in ChatGPT
   type: change
 related_changes:
-- '[[Changes/OpenHands/2026-05-01-added-llm-model-on-conversation-cards-and-header-by-sjathin-in-https-github-com|Added
-  LLM model on conversation cards and header]]'
+- '[[Changes/Ollama/2026-05-03-the-ollama-app-now-surfaces-featured-models-from-server-driven-recommendations|The
+  Ollama app now surfaces featured models from server-driven recommendations]]'
 - '[[Changes/Claude Code/2026-05-04-updated-model-picker-collapsed-duplicate-opus-4-7-entries-and-current-opus-now-s|Updated
   /model picker]]'
 - '[[Changes/Cursor/2026-05-04-model-access-controls-d2ba4f|Model access controls]]'

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 805117799b0ec8e6a0ad6838e781117583edfba0fe2d5eeac3823bb774260717
+machine_hash: 2c03c3c1969e0471afac4780007e0d01a89032c9df419e866c45525f703610c4
 product: openhands
 product_name: OpenHands
 record:
@@ -43,12 +43,12 @@ record:
     across 1…'
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-10-29-8-account-and-access-changes-in-rust-v0-166-0|8
-  Account and Access changes in rust-v0.166.0]]'
-- '[[Changes/Claude Code/2026-10-30-improved-the-cloud-session-error-shown-while-a-request-refused-for-your-claude-a|Improved
-  the cloud session error shown while a request refused for your claude.ai…]]'
 - '[[Changes/Claude Code/2026-10-31-vscode-added-sign-in-to-a-claude-apps-gateway-from-the-chat-panel-with-no-termin|VSCode
   Added sign-in to a Claude apps gateway from the chat panel, with no…]]'
+- '[[Changes/ElevenLabs/2026-11-02-fixes-oauth-discovery-names-the-host-the-client-connected-to-so-mcp-clients-such|Fixes:
+  OAuth discovery names the host the client connected to, so MCP clients…]]'
+- "[[Changes/Open WebUI/2026-11-03-saved-oauth-provider-settings-oauth-providers-now-load-their-saved-connection-se|\U0001F511
+  Saved OAuth provider settings. OAuth providers now load their saved connection…]]"
 source_release: '[[Releases/OpenHands/openhands-2026-11-03-v1-35-0-github-433088800-6c59b2b0|openhands-2026-11-03-v1-35-0-github-433088800-6c59b2b0]]'
 source_type: github_releases
 theme: account-access
@@ -86,8 +86,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Account and Access
 
-- Earlier: 2026-10-31 · Claude Code · [[Changes/Claude Code/2026-10-31-vscode-added-sign-in-to-a-claude-apps-gateway-from-the-chat-panel-with-no-termin|VSCode Added sign-in to a Claude apps gateway from the chat panel, with no…]]
-- Later: 2026-11-06 · Codex CLI · [[Changes/Codex CLI/2026-11-06-5-account-and-access-changes-in-rust-v0-167-0|5 Account and Access changes in rust-v0.167.0]]
+- Earlier: 2026-11-03 · Open WebUI · [[Changes/Open WebUI/2026-11-03-saved-oauth-provider-settings-oauth-providers-now-load-their-saved-connection-se|🔑 Saved OAuth provider settings. OAuth providers now load their saved connection…]]
+- Later: 2026-11-04 · Dify · [[Changes/Dify/2026-11-04-2-account-and-access-changes-in-1-19-0|2 Account and Access changes in 1.19.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

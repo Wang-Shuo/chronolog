@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: d45d65138b3dc48fdbbe791efe1a53b10773006c541ce5db88d886f4731fe444
+machine_hash: 9d1fea9619110ff4f1b8c8e7b40d66e6bb8442b3e87957eee40ea02e5665584f
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -42,12 +42,12 @@ record:
   title: 2 Account and Access changes in v0.0.401
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-01-30-improve-compatibility-with-remote-mcp-servers-that-use-oauth|Improve
-  compatibility with remote MCP servers that use OAuth]]'
 - '[[Changes/Codex CLI/2026-01-31-9654-show-oauth-error-descriptions-in-callback-responses-blevy-oai|♯9654
   Show OAuth error descriptions in callback responses @blevy-oai]]'
 - '[[Changes/Claude Code/2026-02-03-added-pre-configured-oauth-client-credentials-for-mcp-servers-that-don-t-support|Added
   pre-configured OAuth client credentials for MCP servers that don''t support…]]'
+- '[[Changes/Dify/2026-02-03-3-account-and-access-changes-in-1-12-0|3 Account and
+  Access changes in 1.12.0]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-02-03-v0-0-401-github-282605019-24696a01|github-copilot-cli-2026-02-03-v0-0-401-github-282605019-24696a01]]'
 source_type: github_releases
 theme: account-access
@@ -85,7 +85,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v0.0.401
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Account and Access
 
-- Earlier: 2026-02-03 · Claude Code · [[Changes/Claude Code/2026-02-03-added-pre-configured-oauth-client-credentials-for-mcp-servers-that-don-t-support|Added pre-configured OAuth client credentials for MCP servers that don't support…]]
+- Earlier: 2026-02-03 · Dify · [[Changes/Dify/2026-02-03-3-account-and-access-changes-in-1-12-0|3 Account and Access changes in 1.12.0]]
 - Later: 2026-02-05 · Codex CLI · [[Changes/Codex CLI/2026-02-05-2-account-and-access-changes-in-rust-v0-98-0|2 Account and Access changes in rust-v0.98.0]]
 <!-- chronolog:end -->
 

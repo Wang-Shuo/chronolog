@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: b8939d13bd5f655d11e45b64e7f8548148d3a923d6912008c994e53888496044
+machine_hash: 1e50ed738a804bcae3f9af5e392d1704f3a6aea7d4e4cced43a7ccb2deb00afd
 product: aider
 product_name: Aider
 record:
@@ -42,12 +42,12 @@ record:
   title: 2 Model Support changes in v0.71.0
   type: change
 related_changes:
-- '[[Changes/Aider/2024-12-13-2-model-support-changes-in-v0-69-0|2 Model Support changes
-  in v0.69.0]]'
-- '[[Changes/ChatGPT/2024-12-13-projects-provide-a-new-way-to-group-files-and-chats-for-personal-use-simplifying|Projects
-  provide a new way to group files and chats for personal use, simplifying…]]'
-- '[[Changes/Aider/2024-12-26-3-model-support-changes-in-v0-70-0|3 Model Support changes
-  in v0.70.0]]'
+- "[[Changes/Open WebUI/2024-12-31-ollama-parameters-respected-resolved-an-issue-where-input-parameters-for-ollama|\U0001F6E0️
+  Ollama Parameters Respected]]"
+- '[[Changes/Dify/2025-01-07-7-model-support-changes-in-0-15-0|7 Model Support changes
+  in 0.15.0]]'
+- '[[Changes/Ollama/2025-01-08-5-model-support-changes-in-v0-5-5|5 Model Support changes
+  in v0.5.5]]'
 source_release: '[[Releases/Aider/aider-2025-01-10-v0-71-0-github-194204140-359c53f2|aider-2025-01-10-v0-71-0-github-194204140-359c53f2]]'
 source_type: github_releases
 theme: model-support
@@ -85,8 +85,8 @@ Source: https://github.com/Aider-AI/aider/releases/tag/v0.71.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2024-12-26 · Aider · [[Changes/Aider/2024-12-26-3-model-support-changes-in-v0-70-0|3 Model Support changes in v0.70.0]]
-- Later: 2025-01-20 · Aider · [[Changes/Aider/2025-01-20-4-model-support-changes-in-v0-72-0|4 Model Support changes in v0.72.0]]
+- Earlier: 2025-01-08 · Ollama · [[Changes/Ollama/2025-01-08-5-model-support-changes-in-v0-5-5|5 Model Support changes in v0.5.5]]
+- Later: 2025-01-13 · Dify · [[Changes/Dify/2025-01-13-2-model-support-changes-in-0-15-1|2 Model Support changes in 0.15.1]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

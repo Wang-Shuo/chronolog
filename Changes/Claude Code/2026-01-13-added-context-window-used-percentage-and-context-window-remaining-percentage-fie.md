@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 1de58a816c971a02d67381554b5eccf5768183c0d30556ab268f12d0b9b80a9b
+machine_hash: 3c5c57ffc2197683f8fed7e7e9b2b3939e7df03f6f74729d4f246777917a5466
 product: claude-code
 product_name: Claude Code
 record:
@@ -53,12 +53,12 @@ record:
   title: Added `context_window.used_percentage` and `context_window.remaining_percentage`…
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-01-02-add-auto-compaction-at-95-token-limit-and-compact-command|Add
-  auto-compaction at 95% token limit and /compact command]]'
 - '[[Changes/Codex CLI/2026-01-06-2-context-window-changes-in-rust-v0-78-0|2 Context
   Window changes in rust-v0.78.0]]'
 - '[[Changes/Gemini CLI/2026-01-07-add-core-tool-that-adds-all-context-from-the-core-package-by-jacob314-in-https-g|Add
   core tool that adds all context from the core package]]'
+- '[[Changes/Open WebUI/2026-01-09-3-context-window-changes-in-v0-7-0|3 Context Window
+  changes in v0.7.0]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-01-13-v2-1-6-github-276206295-e2719d9a|claude-code-2026-01-13-v2-1-6-github-276206295-e2719d9a]]'
 source_type: github_releases
 theme: context-window
@@ -93,7 +93,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Context Window
 
-- Earlier: 2026-01-07 · Gemini CLI · [[Changes/Gemini CLI/2026-01-07-add-core-tool-that-adds-all-context-from-the-core-package-by-jacob314-in-https-g|Add core tool that adds all context from the core package]]
+- Earlier: 2026-01-09 · Open WebUI · [[Changes/Open WebUI/2026-01-09-3-context-window-changes-in-v0-7-0|3 Context Window changes in v0.7.0]]
 - Later: 2026-01-13 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-01-13-auto-compaction-runs-in-background-without-blocking-the-conversation|Auto-compaction runs in background without blocking the conversation]]
 <!-- chronolog:end -->
 

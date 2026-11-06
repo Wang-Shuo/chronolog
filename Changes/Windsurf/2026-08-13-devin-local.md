@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: b8206e9f4a4bb31d419f34509042773dd0dc01f07f6ecaca3908ed1e16333fb0
+machine_hash: 7144442a613853fad967f8e5f67a4a6ed559a068baf98cba52c30b1dc567c883
 product: windsurf
 product_name: Windsurf
 record:
@@ -82,7 +82,7 @@ type: change
 ## Nearby in Collaboration
 
 - Earlier: 2026-08-13 · Claude Code · [[Changes/Claude Code/2026-08-13-hardened-the-auto-generated-cross-session-messaging-socket-directory-on-shared-t|Hardened the auto-generated cross-session messaging socket directory on shared /tmp]]
-- Later: 2026-08-17 · Claude Code · [[Changes/Claude Code/2026-08-17-removed-the-default-teammate-model-setting-from-config-agent-team-teammates-now|Removed the "Default teammate model" setting from /config]]
+- Later: 2026-08-14 · v0 · [[Changes/v0/2026-08-14-4-collaboration-changes-in-a-redesigned-sidebar-a-richer|4 Collaboration changes in A redesigned sidebar, a richer…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

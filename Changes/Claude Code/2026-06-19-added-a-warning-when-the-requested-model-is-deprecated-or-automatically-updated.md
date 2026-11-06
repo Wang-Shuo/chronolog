@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: policy
-machine_hash: 0537d231a1bf3236680e9bd01d7be763610956abfc0a29eb1f5c5e6524f1f721
+machine_hash: 1324f015d914962065fdf0e8f275485a20538b4793b0bf0d081f23bd0b3762e3
 product: claude-code
 product_name: Claude Code
 record:
@@ -56,8 +56,8 @@ record:
   title: Added a warning when the requested model is deprecated or automatically updated…
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-06-15-4-model-support-changes-in-rust-v0-140-0|4 Model
-  Support changes in rust-v0.140.0]]'
+- '[[Changes/Ollama/2026-06-17-command-a-and-north-family-models-now-run-on-apple-silicon-with-the-mlx-engine|Command
+  A and North family models now run on Apple Silicon with the MLX engine]]'
 - '[[Changes/ChatGPT/2026-06-18-long-press-send-to-choose-a-model-android-users-on-paid-plans-can-now-long-press|Long-press
   send to choose a model]]'
 - '[[Changes/Gemini CLI/2026-06-18-vertex-ai-model-mapping-fix-by-davidapierce-in-https-github-com-google-gemini-ge|Vertex
@@ -95,7 +95,7 @@ type: change
 ## Nearby in Model Support
 
 - Earlier: 2026-06-18 · Gemini CLI · [[Changes/Gemini CLI/2026-06-18-vertex-ai-model-mapping-fix-by-davidapierce-in-https-github-com-google-gemini-ge|Vertex ai model mapping fix]]
-- Later: 2026-06-22 · Codex CLI · [[Changes/Codex CLI/2026-06-22-3-model-support-changes-in-rust-v0-142-0|3 Model Support changes in rust-v0.142.0]]
+- Later: 2026-06-19 · v0 · [[Changes/v0/2026-06-19-removed-the-enhance-prompt-button-from-the-composer-since-the-models-ask-clarify|Removed the Enhance Prompt button from the composer, since the models ask clarifying…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

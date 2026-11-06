@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 0a0e2e2c731bc9a88cce0db5ed0a697ae5e6b4ab5dcdbcb4b3e2e93f9da22814
+machine_hash: 952455fa119233c5036813935113c6524c58ec914ae06116a5f7d79e10740aac
 product: claude-code
 product_name: Claude Code
 record:
@@ -48,12 +48,12 @@ record:
   title: 3 Developer Workflow changes in v2.1.280
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-09-17-the-status-row-now-says-it-is-waiting-for-background-shells-instead-of-working-w|The
-  status row now says it is waiting for background shells, instead…]]'
 - '[[Changes/Claude Code/2026-09-18-improved-ultrareview-when-there-s-nothing-to-review-messages-say-which-case-you|Improved
   /ultrareview when there''s nothing to review]]'
 - '[[Changes/GitHub Copilot CLI/2026-09-21-5-developer-workflow-changes-in-v1-0-87|5
   Developer Workflow changes in v1.0.87]]'
+- '[[Changes/Open WebUI/2026-09-21-39-developer-workflow-changes-in-v0-11-4|39 Developer
+  Workflow changes in v0.11.4]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-22-v2-1-280-github-393879189-1cf5db2b|claude-code-2026-09-22-v2-1-280-github-393879189-1cf5db2b]]'
 source_type: github_releases
 theme: developer-workflow
@@ -96,7 +96,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.280
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2026-09-21 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-09-21-5-developer-workflow-changes-in-v1-0-87|5 Developer Workflow changes in v1.0.87]]
+- Earlier: 2026-09-21 · Open WebUI · [[Changes/Open WebUI/2026-09-21-39-developer-workflow-changes-in-v0-11-4|39 Developer Workflow changes in v0.11.4]]
 - Later: 2026-09-22 · Cline · [[Changes/Cline/2026-09-22-output-from-background-commands-now-streams-into-the-command-row-while-the-comma|Output from background commands now streams into the command row while the command…]]
 <!-- chronolog:end -->
 

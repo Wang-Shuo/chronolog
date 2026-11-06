@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: d7cd68f3b5987babdea857c3f430c5db92cc82caa449f3e7d2194c296186e315
+machine_hash: 21187caee156748cfe86685584d75461b6a952d4c4433019bf0a9c601aeffffe
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -75,10 +75,10 @@ record:
   title: 17 Safety and Privacy changes in rust-v0.148.0
   type: change
 related_changes:
-- '[[Changes/Cline/2026-08-14-reclaim-idle-plugin-sandbox-processes-instead-of-leaving-them-running-for-the-li|Reclaim
-  idle plugin sandbox processes instead of leaving them running for the life…]]'
 - '[[Changes/Claude Code/2026-08-17-8-safety-and-privacy-changes-in-v2-1-234|8 Safety
   and Privacy changes in v2.1.234]]'
+- '[[Changes/Lovable/2026-08-17-workspace-insights-is-now-security-insights|Workspace
+  insights is now Security insights]]'
 - '[[Changes/Claude Code/2026-08-18-2-safety-and-privacy-changes-in-v2-1-235|2 Safety
   and Privacy changes in v2.1.235]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-08-18-rust-v0-148-0-github-372686337-4265c0ae|codex-cli-2026-08-18-rust-v0-148-0-github-372686337-4265c0ae]]'

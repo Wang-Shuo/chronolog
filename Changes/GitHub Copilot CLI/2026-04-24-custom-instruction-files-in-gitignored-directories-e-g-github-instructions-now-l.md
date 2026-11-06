@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: memory
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 19a60e5e5ae738589943ba6f76cc41a70ec703dc54ee66da67b33dc2f3b4977d
+machine_hash: 4d8436331bd4102b3c4aba004095db56f13b8685955bf473a4a3287e9a49e9d0
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -85,7 +85,7 @@ type: change
 ## Nearby in Memory and Personalization
 
 - Earlier: 2026-04-24 · Cline · [[Changes/Cline/2026-04-24-improve-cline-core-memory-diagnostics-used-by-the-extension-runtime|Improve cline-core memory diagnostics used by the extension runtime]]
-- Later: 2026-04-28 · Gemini CLI · [[Changes/Gemini CLI/2026-04-28-refactor-memory-replace-memorymanageragent-with-prompt-driven-memory-editing-acr|refactor(memory): replace MemoryManagerAgent with prompt-driven memory editing…]]
+- Later: 2026-04-24 · Open WebUI · [[Changes/Open WebUI/2026-04-24-2-memory-and-personalization-changes-in-v0-9-2|2 Memory and Personalization changes in v0.9.2]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -4,20 +4,20 @@ date: '2026-06-16'
 description: 'GitHub Copilot CLI · 2026-06-16 · Files and Data: Recover from unreadable
   native document attachments by falling back to file-path uploads'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-07-06-we-re-rolling-out-code-interpreter-to-all-chatgpt-plus-users-over-the-next-week-66255e|Code
-    interpreter is now rolling out in beta on web]]'
+  first_in_tracked: '[[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2
+    Files and Data changes in 0.2.2]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1076
+  lag_days: 1118
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: f7353220ea34a3b56dea17f70556a1e151c9f24a6635cce56a3456c92be0b0d6
+machine_hash: 42977cb6700e4f04d9723d96963579b7e479e9a9acdd2fc9ff4c5531de39d06d
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -45,12 +45,12 @@ record:
     uploads
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-06-04-0-1-6-release-and-analytics-cursor-sdk-0-1-6-documents-the-buildkite-release-pat|0.1.6
-  release and analytics]]'
 - '[[Changes/ChatGPT/2026-06-08-interactive-charts-in-answers-chatgpt-can-now-turn-some-answers-into-rich-and-in|Interactive
   charts in answers]]'
 - '[[Changes/ChatGPT/2026-06-08-full-screen-writing-blocks-for-longer-form-work-writing-blocks-now-cover-long-fo|Full-screen
   writing blocks for longer-form work]]'
+- '[[Changes/Replit/2026-06-12-add-visual-references-when-you-generate-media-on-canvas|Add
+  visual references when you generate media on Canvas]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-06-16-v1-0-63-github-339856552-a4891c49|github-copilot-cli-2026-06-16-v1-0-63-github-339856552-a4891c49]]'
 source_type: github_releases
 theme: file-data
@@ -85,14 +85,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Files and Data
 
-- Earlier: 2026-06-08 · ChatGPT · [[Changes/ChatGPT/2026-06-08-full-screen-writing-blocks-for-longer-form-work-writing-blocks-now-cover-long-fo|Full-screen writing blocks for longer-form work]]
+- Earlier: 2026-06-12 · Replit · [[Changes/Replit/2026-06-12-add-visual-references-when-you-generate-media-on-canvas|Add visual references when you generate media on Canvas]]
 - Later: 2026-06-22 · Codex CLI · [[Changes/Codex CLI/2026-06-22-29086-document-raw-response-item-compatibility-jif-oai|♯29086 Document raw response item compatibility @jif-oai]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-07-06 · ChatGPT · [[Changes/ChatGPT/2023-07-06-we-re-rolling-out-code-interpreter-to-all-chatgpt-plus-users-over-the-next-week-66255e|Code interpreter is now rolling out in beta on web]]
+- Earliest same-theme entry in the tracked set: 2023-05-25 · Dify · [[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2 Files and Data changes in 0.2.2]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

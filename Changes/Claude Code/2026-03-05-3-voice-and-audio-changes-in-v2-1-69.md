@@ -4,20 +4,20 @@ date: '2026-03-05'
 description: 'Claude Code · 2026-03-05 · Voice and Audio: 3 changes in v2.1.69 — Added
   Voice STT support for 10 new languages (20 total) — Russian, Polish, Turkish, Dutch…'
 diffusion:
-  first_in_tracked: '[[Changes/Aider/2023-08-11-voice-to-code-https-aider-chat-docs-voice-html-support-which-allows-you-to-code|Voice-to-code((source
-    link) support, which allows you…]]'
+  first_in_tracked: '[[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2
+    Voice and Audio changes in 0.3.7]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 937
+  lag_days: 969
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 2eaa63c8ff28367a17c51e6cf85188ed063522ed688b0dc113dd005e99f2dfbf
+machine_hash: 1c03cfc51439a68dfbb8198d080eb213252c8d7bd78791ec04c4aa0f73b3b3b2
 product: claude-code
 product_name: Claude Code
 record:
@@ -49,12 +49,9 @@ record:
   title: 3 Voice and Audio changes in v2.1.69
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-02-25-2-voice-and-audio-changes-in-rust-v0-105-0|2 Voice
-  and Audio changes in rust-v0.105.0]]'
-- '[[Changes/ChatGPT/2026-02-27-improved-dictation-visuals-dictation-now-has-a-clearer-more-streamlined-interfac|Improved
-  dictation visuals]]'
-- '[[Changes/Codex CLI/2026-03-02-5-voice-and-audio-changes-in-rust-v0-107-0|5 Voice
-  and Audio changes in rust-v0.107.0]]'
+- '[[Changes/ElevenLabs/2026-03-02-audio-native|Audio Native]]'
+- '[[Changes/ElevenLabs/2026-03-02-voices-cb334d|Voices]]'
+- '[[Changes/ElevenLabs/2026-03-02-music|Music]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-03-05-v2-1-69-github-293216328-162b2e44|claude-code-2026-03-05-v2-1-69-github-293216328-162b2e44]]'
 source_type: github_releases
 theme: voice
@@ -101,14 +98,14 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.69
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Voice and Audio
 
-- Earlier: 2026-03-02 · Codex CLI · [[Changes/Codex CLI/2026-03-02-5-voice-and-audio-changes-in-rust-v0-107-0|5 Voice and Audio changes in rust-v0.107.0]]
+- Earlier: 2026-03-02 · ElevenLabs · [[Changes/ElevenLabs/2026-03-02-music|Music]]
 - Later: 2026-03-05 · Codex CLI · [[Changes/Codex CLI/2026-03-05-2-voice-and-audio-changes-in-rust-v0-111-0|2 Voice and Audio changes in rust-v0.111.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-08-11 · Aider · [[Changes/Aider/2023-08-11-voice-to-code-https-aider-chat-docs-voice-html-support-which-allows-you-to-code|Voice-to-code((source link) support, which allows you…]]
+- Earliest same-theme entry in the tracked set: 2023-07-10 · Dify · [[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2 Voice and Audio changes in 0.3.7]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

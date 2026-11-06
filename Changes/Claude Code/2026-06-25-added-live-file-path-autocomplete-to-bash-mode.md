@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 3b1e299629a94fc95569dd7977a09f87893937c6380270e3b6ede882755caa84
+machine_hash: 0ee60753983eaac04b611bb741a51cdfcd3586af4a160a80b0f33a460691b3b6
 product: claude-code
 product_name: Claude Code
 record:
@@ -41,12 +41,12 @@ record:
   title: Added live file path autocomplete to bash mode (`!`)
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-06-22-29289-code-mode-preserve-initial-yield-at-completion-cconger|♯29289
-  code-mode: preserve initial yield at completion @cconger]]'
 - '[[Changes/GitHub Copilot CLI/2026-06-23-9-editor-experience-changes-in-v1-0-64|9
   Editor Experience changes in v1.0.64]]'
 - '[[Changes/GitHub Copilot CLI/2026-06-24-add-a-copilot-skill-subcommand-and-a-skill-alias-for-skills-to-list-add-and-remo|Add
   a copilot skill subcommand (and a /skill alias for /skills) to list, add…]]'
+- '[[Changes/Lovable/2026-06-24-manage-scheduled-jobs-in-lovable-cloud|Manage scheduled
+  jobs in Lovable Cloud]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-06-25-v2-1-193-github-344922230-0655000d|claude-code-2026-06-25-v2-1-193-github-344922230-0655000d]]'
 source_type: github_releases
 theme: editor-experience
@@ -80,8 +80,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2026-06-24 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-06-24-add-a-copilot-skill-subcommand-and-a-skill-alias-for-skills-to-list-add-and-remo|Add a copilot skill subcommand (and a /skill alias for /skills) to list, add…]]
-- Later: 2026-06-26 · Cline · [[Changes/Cline/2026-06-26-add-edit-and-regenerate-support-for-previous-user-messages-with-clearer-reset-ch|Add edit-and-regenerate support for previous user messages, with clearer Reset Chat…]]
+- Earlier: 2026-06-24 · Lovable · [[Changes/Lovable/2026-06-24-manage-scheduled-jobs-in-lovable-cloud|Manage scheduled jobs in Lovable Cloud]]
+- Later: 2026-06-25 · Dify · [[Changes/Dify/2026-06-25-3-editor-experience-changes-in-1-15-0|3 Editor Experience changes in 1.15.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

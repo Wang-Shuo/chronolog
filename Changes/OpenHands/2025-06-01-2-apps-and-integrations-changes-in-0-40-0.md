@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 03155118c0c3c1231abc48cee40f592ded4c8f4d6cbc9f47381132b970258f6e
+machine_hash: 476e93cce11ae2e2e7633f042ad95d2dce91366e7dadb36bc96c38c72e0ed597
 product: openhands
 product_name: OpenHands
 record:
@@ -44,12 +44,11 @@ record:
   title: 2 Apps and Integrations changes in 0.40.0
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-05-15-refreshed-inline-edit-cmd-ctrl-k-with-agent-integration|Refreshed
-  Inline Edit (Cmd/Ctrl+K) with Agent integration]]'
-- '[[Changes/Cline/2025-05-16-add-tailwind-css-intellisense-to-the-recommended-extensions-list|Add
-  Tailwind CSS IntelliSense to the recommended extensions list]]'
-- '[[Changes/Cline/2025-05-22-add-integration-with-nebius-ai-studio-as-a-new-provider-thanks-aktsvigun|Add
-  integration with Nebius AI Studio as a new provider (Thanks @Aktsvigun!)]]'
+- '[[Changes/Dify/2025-05-27-5-apps-and-integrations-changes-in-1-4-1|5 Apps and Integrations
+  changes in 1.4.1]]'
+- "[[Changes/Open WebUI/2025-05-29-azure-openai-embedding-support-you-can-now-select-azure-openai-endpoints-for-tex|\U0001F7E6
+  Azure OpenAI Embedding Support]]"
+- '[[Changes/Replit/2025-05-30-stripe-checkout-release|Stripe Checkout release]]'
 source_release: '[[Releases/OpenHands/openhands-2025-06-01-0-40-0-github-222298073-991c1bbb|openhands-2025-06-01-0-40-0-github-222298073-991c1bbb]]'
 source_type: github_releases
 theme: apps-integrations
@@ -83,7 +82,7 @@ Source: https://github.com/OpenHands/OpenHands/releases/tag/0.40.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2025-05-22 · Cline · [[Changes/Cline/2025-05-22-add-integration-with-nebius-ai-studio-as-a-new-provider-thanks-aktsvigun|Add integration with Nebius AI Studio as a new provider (Thanks @Aktsvigun!)]]
+- Earlier: 2025-05-30 · Replit · [[Changes/Replit/2025-05-30-stripe-checkout-release|Stripe Checkout release]]
 - Later: 2025-06-04 · ChatGPT · [[Changes/ChatGPT/2025-06-04-supported-connectors-google-drive-sharepoint-dropbox-box-outlook-gmail-google-ca|Supported connectors: Google Drive, SharePoint, Dropbox, Box, Outlook, Gmail, Google…]]
 <!-- chronolog:end -->
 

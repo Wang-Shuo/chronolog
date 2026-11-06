@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 4e105bc97f05559cd3865a2cebfb708cdbc4eb14f6ac52dcb303f2b3f2ce3276
+machine_hash: 5179eb97118a24efe19abb05348c6c9f08aa7456155d1fa7c3590ec9847fe1eb
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -44,10 +44,10 @@ record:
   title: /diff view correctly renders all lines when intra-line highlighting is present
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-03-20-elicitation-form-shows-shift-tab-hint-for-navigating-between-fields-in-reverse|Elicitation
-  form shows Shift+Tab hint for navigating between fields in reverse]]'
-- '[[Changes/Claude Code/2026-03-25-3-editor-experience-changes-in-v2-1-83|3 Editor
-  Experience changes in v2.1.83]]'
+- '[[Changes/Ollama/2026-03-25-microsoft-visual-studio-code-now-directly-integrates-with-ollama-via-github-copi|Microsoft
+  Visual Studio Code now directly integrates with Ollama via GitHub Copilot]]'
+- '[[Changes/Open WebUI/2026-03-25-4-editor-experience-changes-in-v0-8-11|4 Editor
+  Experience changes in v0.8.11]]'
 - '[[Changes/Codex CLI/2026-03-26-15480-use-shift-left-to-edit-queued-messages-in-tmux-charley-oai|♯15480
   Use Shift+Left to edit queued messages in tmux @charley-oai]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-03-26-v1-0-12-github-302121824-04d76a7e|github-copilot-cli-2026-03-26-v1-0-12-github-302121824-04d76a7e]]'

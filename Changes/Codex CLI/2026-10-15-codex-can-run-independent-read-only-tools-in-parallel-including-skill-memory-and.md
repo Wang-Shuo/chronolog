@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: memory
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 50ed3c0767feb80f9da3cdeaa70c492cd2a1341671c6a7924a4bddebaf98d820
+machine_hash: a875783e2c34f471924f35a33ee70cb262b051c8bdcf6f7cb903c3c2ff1bfa15
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -42,12 +42,12 @@ record:
   title: Codex can run independent read-only tools in parallel, including skill, memory…
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-10-01-49000-isolate-the-memory-startup-metadata-test-from-git-enrichment-jif-oai|♯49000
-  Isolate the memory startup metadata test from Git enrichment @jif-oai]]'
-- '[[Changes/Codex CLI/2026-10-07-49876-remove-personality-plumbing-from-the-tui-etraut-openai|♯49876
-  Remove personality plumbing from the TUI @etraut-openai]]'
-- '[[Changes/Codex CLI/2026-10-08-51223-remove-legacy-personality-template-metadata-rhan-oai|♯51223
-  Remove legacy personality template metadata @rhan-oai]]'
+- '[[Changes/Open WebUI/2026-10-10-2-memory-and-personalization-changes-in-v0-12-0|2
+  Memory and Personalization changes in v0.12.0]]'
+- "[[Changes/Open WebUI/2026-10-14-memory-in-automations-automations-now-get-the-memory-tools-when-the-user-has-mem|\U0001F9E0
+  Memory in automations. Automations now get the memory tools when the user has…]]"
+- "[[Changes/Open WebUI/2026-10-14-memory-reindex-rate-limits-reindexing-memories-from-the-admin-reindex-knowledge|\U0001F9EE
+  Memory reindex rate limits. Reindexing memories, from the admin Reindex…]]"
 source_release: '[[Releases/Codex CLI/codex-cli-2026-10-15-rust-v0-163-0-github-414286110-97016fe6|codex-cli-2026-10-15-rust-v0-163-0-github-414286110-97016fe6]]'
 source_type: github_releases
 theme: memory
@@ -88,8 +88,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Memory and Personalization
 
-- Earlier: 2026-10-08 · Codex CLI · [[Changes/Codex CLI/2026-10-08-51223-remove-legacy-personality-template-metadata-rhan-oai|♯51223 Remove legacy personality template metadata @rhan-oai]]
-- Later: 2026-10-23 · Codex CLI · [[Changes/Codex CLI/2026-10-23-4-memory-and-personalization-changes-in-rust-v0-164-0|4 Memory and Personalization changes in rust-v0.164.0]]
+- Earlier: 2026-10-14 · Open WebUI · [[Changes/Open WebUI/2026-10-14-memory-reindex-rate-limits-reindexing-memories-from-the-admin-reindex-knowledge|🧮 Memory reindex rate limits. Reindexing memories, from the admin Reindex…]]
+- Later: 2026-10-16 · Open WebUI · [[Changes/Open WebUI/2026-10-16-built-in-tools-turned-back-on-stay-on-a-built-in-tool-such-as-memory-that-is-off|🧰 Built-in tools turned back on stay on. A built-in tool such as Memory…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

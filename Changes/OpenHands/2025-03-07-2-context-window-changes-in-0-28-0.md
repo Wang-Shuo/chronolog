@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 9e4db6fb3d0d229e091f8c668b9b99805910d9fb423d512e789e84846ab55bfe
+machine_hash: ce2abd1e3a7e8ce8d8a911b3db6cd598dd8fd2aca9b11b924b720986d395956f
 product: openhands
 product_name: OpenHands
 record:
@@ -43,12 +43,12 @@ record:
   title: 2 Context Window changes in 0.28.0
   type: change
 related_changes:
-- '[[Changes/Cline/2025-02-19-new-advanced-setting-to-disable-the-browser-tool-improved-support-for-aws-bedroc|New
-  advanced setting to disable the browser tool, improved support for AWS Bedrock…]]'
-- '[[Changes/Cursor/2025-02-19-ui-refresh-phase-one-of-a-fresh-coat-of-paint-with-new-default-cursor-themes-des|UI
-  refresh: Phase one of a fresh coat of paint with new default Cursor themes…]]'
-- '[[Changes/OpenHands/2025-02-24-by-default-openhands-truncates-history-by-half-when-it-hits-llm-context-limit-by|By
-  default, OpenHands truncates history by half when it hits LLM context limit]]'
+- '[[Changes/Ollama/2025-02-27-the-default-context-length-can-now-be-set-with-a-new-ollama-context-length-envir|The
+  default context length can now be set with a new OLLAMA_CONTEXT_LENGTH…]]'
+- "[[Changes/Open WebUI/2025-02-27-instant-document-upload-with-bypass-embedding-retrieval-admins-can-now-enable-by|\U0001F680
+  Instant Document Upload with Bypass Embedding & Retrieval]]"
+- "[[Changes/Open WebUI/2025-02-27-open-webui-now-works-over-lan-in-insecure-context-resolved-an-issue-preventing-o|\U0001F310
+  Open WebUI Now Works Over LAN in Insecure Context]]"
 source_release: '[[Releases/OpenHands/openhands-2025-03-07-0-28-0-github-204383834-ab2a02bd|openhands-2025-03-07-0-28-0-github-204383834-ab2a02bd]]'
 source_type: github_releases
 theme: context-window
@@ -83,7 +83,7 @@ Source: https://github.com/OpenHands/OpenHands/releases/tag/0.28.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Context Window
 
-- Earlier: 2025-02-24 · OpenHands · [[Changes/OpenHands/2025-02-24-by-default-openhands-truncates-history-by-half-when-it-hits-llm-context-limit-by|By default, OpenHands truncates history by half when it hits LLM context limit]]
+- Earlier: 2025-02-27 · Open WebUI · [[Changes/Open WebUI/2025-02-27-open-webui-now-works-over-lan-in-insecure-context-resolved-an-issue-preventing-o|🌐 Open WebUI Now Works Over LAN in Insecure Context]]
 - Later: 2025-03-13 · Aider · [[Changes/Aider/2025-03-13-added-think-tokens-command-to-set-thinking-token-budget-with-support-for-human-r|Added /think-tokens command to set thinking token budget with support…]]
 <!-- chronolog:end -->
 

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: a41e14dc0eb617cd296dc8d7cb3cf3d834c107448e4e58b43a866f5aa9d4bc43
+machine_hash: 279c008c834a68128b728da06b46c0545dd38374abda1ce919a8f77f84f81eae
 product: claude-code
 product_name: Claude Code
 record:
@@ -47,12 +47,12 @@ record:
     API spend…
   type: change
 related_changes:
-- '[[Changes/OpenHands/2026-08-21-perf-batch-streamingdeltaevents-so-the-ui-keeps-up-with-fast-models-by-vascosch9|perf:
-  batch StreamingDeltaEvents so the UI keeps up with fast models]]'
-- '[[Changes/Cline/2026-08-22-restore-tool-calling-for-custom-openai-compatible-models-whose-capability-list-w|Restore
-  tool calling for custom OpenAI-Compatible models whose capability list…]]'
-- '[[Changes/Cline/2026-08-23-refresh-the-built-in-model-catalog-new-entries-include-claude-fable-5-grok-4-6-o|Refresh
-  the built-in model catalog]]'
+- '[[Changes/Lovable/2026-08-24-chat-latest-for-your-app-s-ai-features|Chat Latest
+  for your app''s AI features]]'
+- '[[Changes/Dify/2026-08-25-93-model-support-changes-in-1-17-0|93 Model Support changes
+  in 1.17.0]]'
+- '[[Changes/Open WebUI/2026-08-25-56-model-support-changes-in-v0-11-1|56 Model Support
+  changes in v0.11.1]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-08-26-v2-1-247-github-377320078-fc507178|claude-code-2026-08-26-v2-1-247-github-377320078-fc507178]]'
 source_type: github_releases
 theme: model-support
@@ -88,7 +88,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-08-23 · Cline · [[Changes/Cline/2026-08-23-refresh-the-built-in-model-catalog-new-entries-include-claude-fable-5-grok-4-6-o|Refresh the built-in model catalog]]
+- Earlier: 2026-08-25 · Open WebUI · [[Changes/Open WebUI/2026-08-25-56-model-support-changes-in-v0-11-1|56 Model Support changes in v0.11.1]]
 - Later: 2026-08-26 · Cline · [[Changes/Cline/2026-08-26-credentials-embedded-in-git-remote-urls-are-now-redacted-from-the-workspace-info|Credentials embedded in git remote URLs are now redacted from the workspace…]]
 <!-- chronolog:end -->
 

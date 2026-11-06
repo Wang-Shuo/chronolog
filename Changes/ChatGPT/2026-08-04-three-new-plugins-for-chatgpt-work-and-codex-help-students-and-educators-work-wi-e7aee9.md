@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: d9378dd2f87c83f22fee6cbf9bf635560daa654018a18109c6cfa95698ab20e7
+machine_hash: 563dc2035e7cc59324543e7bb88cac5bd36a4283891d850171cd6027c94a91a2
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -51,8 +51,7 @@ record:
     work…
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-08-03-cursor-can-now-read-write-and-act-across-your-google-workspace|Google
-  Workspace Plugins]]'
+- '[[Changes/ElevenLabs/2026-08-03-sdk-releases|SDK Releases]]'
 - '[[Changes/GitHub Copilot CLI/2026-08-03-4-apps-and-integrations-changes-in-v1-0-78|4
   Apps and Integrations changes in v1.0.78]]'
 - '[[Changes/OpenHands/2026-08-03-chore-bump-openhands-extensions-to-0-13-0-by-hieptl-in-https-github-com-openhand|chore:

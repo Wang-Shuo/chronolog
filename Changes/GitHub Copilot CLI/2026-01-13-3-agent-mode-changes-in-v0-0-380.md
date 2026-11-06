@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 2805b0969ddf8301204be407929df1a317883da85902c730d4a1d6033f60ea91
+machine_hash: 0053ea3a3a19e46a64f438f157b6a18fda7baf0ad5da0bbf4aac163559a2a1ed
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -45,12 +45,10 @@ record:
   title: 3 Agent Mode changes in v0.0.380
   type: change
 related_changes:
-- '[[Changes/Cline/2026-01-09-add-skills-system-for-reusable-on-demand-agent-instructions|Add
-  Skills system for reusable, on-demand agent instructions]]'
-- '[[Changes/Codex CLI/2026-01-09-2-agent-mode-changes-in-rust-v0-80-0|2 Agent Mode
-  changes in rust-v0.80.0]]'
-- '[[Changes/Claude Code/2026-01-11-added-claude-code-disable-background-tasks-environment-variable-to-disable-all-b|Added
-  CLAUDE_CODE_DISABLE_BACKGROUND_TASKS environment variable to disable all…]]'
+- '[[Changes/ElevenLabs/2026-01-12-agents-platform|Agents Platform]]'
+- '[[Changes/ElevenLabs/2026-01-12-agents-platform-dbe011|Agents Platform]]'
+- '[[Changes/Dify/2026-01-13-3-agent-mode-changes-in-1-11-3|3 Agent Mode changes in
+  1.11.3]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-01-13-v0-0-380-github-276209240-1033f81a|github-copilot-cli-2026-01-13-v0-0-380-github-276209240-1033f81a]]'
 source_type: github_releases
 theme: agent-mode
@@ -91,7 +89,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v0.0.380
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2026-01-11 · Claude Code · [[Changes/Claude Code/2026-01-11-added-claude-code-disable-background-tasks-environment-variable-to-disable-all-b|Added CLAUDE_CODE_DISABLE_BACKGROUND_TASKS environment variable to disable all…]]
+- Earlier: 2026-01-13 · Dify · [[Changes/Dify/2026-01-13-3-agent-mode-changes-in-1-11-3|3 Agent Mode changes in 1.11.3]]
 - Later: 2026-01-13 · Windsurf · [[Changes/Windsurf/2026-01-13-new-features-and-improvements|New Features and Improvements]]
 <!-- chronolog:end -->
 

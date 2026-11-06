@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 5ad280b2f52e76ced04f74e99f80cbc6032bb3565c5e85820f529fcb60341653
+machine_hash: 4e2447604b4c06c20efc6014cfffead4c1db918026ab4f7bc28f33d107f3b0ca
 product: claude-code
 product_name: Claude Code
 record:
@@ -62,8 +62,8 @@ record:
   title: 6 Agent Mode changes in v2.1.302
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-14-3-agent-mode-changes-in-v2-1-300|3 Agent Mode
-  changes in v2.1.300]]'
+- '[[Changes/Ollama/2026-10-14-a-compact-sibling-nemotron-3-5-bolt-https-ollama-com-library-nemotron-3-5-bolt-d|A
+  compact sibling, Nemotron 3.5…]]'
 - '[[Changes/Codex CLI/2026-10-15-14-agent-mode-changes-in-rust-v0-163-0|14 Agent
   Mode changes in rust-v0.163.0]]'
 - '[[Changes/ChatGPT/2026-10-16-multiple-agents-that-can-work-on-different-parts-of-a-task-in-parallel-you-can-f|Multiple

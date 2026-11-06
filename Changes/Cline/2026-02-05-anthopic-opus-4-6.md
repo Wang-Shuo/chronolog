@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: d6281f120410de3923e98afb7d3049971ac8da95bf732a6355e727fbb5415c58
+machine_hash: a71107e7abbd69a609dd35321c594ba033f5ee50eac448c63a68323b614e62dd
 product: cline
 product_name: Cline
 record:
@@ -41,10 +41,8 @@ record:
   title: Anthopic Opus 4.6
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-02-04-2-model-support-changes-in-rust-v0-95-0|2 Model
-  Support changes in rust-v0.95.0]]'
-- '[[Changes/Gemini CLI/2026-02-04-6-model-support-changes-in-v0-27-0|6 Model Support
-  changes in v0.27.0]]'
+- '[[Changes/Claude/2026-02-05-claude-opus-4-6-launch|Claude Opus 4.6 launch]]'
+- '[[Changes/Claude/2026-02-05-claude-for-excel-improvements|Claude for Excel improvements]]'
 - '[[Changes/Claude Code/2026-02-05-claude-opus-4-6-is-now-available|Claude Opus 4.6
   is now available!]]'
 source_release: '[[Releases/Cline/cline-2026-02-05-v3-57-0-github-283519671-3f414ec4|cline-2026-02-05-v3-57-0-github-283519671-3f414ec4]]'

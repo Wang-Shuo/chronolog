@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 201dda8f0109023bdb283a793dce1dfa225832f1a991773c19b0ef13020abc96
+machine_hash: 73d8c630c7a23a6fa8a13c65c0094e67cf5b30db2aee21a1790487b9f123f6dc
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -94,7 +94,7 @@ type: change
 ## Nearby in Account and Access
 
 - Earlier: 2026-03-06 · Claude Code · [[Changes/Claude Code/2026-03-06-vscode-added-native-mcp-server-management-dialog-use-mcp-in-the-chat-panel-to-en|VSCode Added native MCP server management dialog]]
-- Later: 2026-03-09 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-03-09-login-flow-no-longer-hangs-on-ubuntu-when-system-keyring-is-unresponsive|Login flow no longer hangs on Ubuntu when system keyring is unresponsive]]
+- Later: 2026-03-08 · Open WebUI · [[Changes/Open WebUI/2026-03-08-microsoft-oauth-refresh-token-fix-fixed-a-bug-where-microsoft-oauth-refresh-toke|🔐 Microsoft OAuth refresh token fix. Fixed a bug where Microsoft OAuth refresh…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

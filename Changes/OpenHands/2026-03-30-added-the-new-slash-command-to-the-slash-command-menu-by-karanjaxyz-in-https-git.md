@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: a8659d207d20897797a60b9d1f0a2b7cfddc936ea69c34352b8e1d96eccbab51
+machine_hash: 1fc0ed48d8cb7f45e454094dd1a676f1023c94c1553b8c4073a388ff2ba48500
 product: openhands
 product_name: OpenHands
 record:
@@ -44,10 +44,10 @@ record:
   title: Added the `/new` slash command to the slash command menu
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-03-26-3-interface-experience-changes-in-v1-0-12|3
-  Interface Experience changes in v1.0.12]]'
 - '[[Changes/Claude Code/2026-03-27-changed-skills-menu-to-sort-alphabetically-for-easier-scanning|Changed
   /skills menu to sort alphabetically for easier scanning]]'
+- '[[Changes/Dify/2026-03-27-3-interface-experience-changes-in-1-13-3|3 Interface
+  Experience changes in 1.13.3]]'
 - '[[Changes/GitHub Copilot CLI/2026-03-30-2-interface-experience-changes-in-v1-0-13|2
   Interface Experience changes in v1.0.13]]'
 source_release: '[[Releases/OpenHands/openhands-2026-03-30-1-6-0-github-303268521-e953c7dd|openhands-2026-03-30-1-6-0-github-303268521-e953c7dd]]'

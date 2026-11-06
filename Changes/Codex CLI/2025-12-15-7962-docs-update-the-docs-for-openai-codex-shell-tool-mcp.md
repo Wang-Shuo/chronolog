@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: c8f4781212359522255487ceee28ddc53a5a83e5a5e450f089ae9cbe5abd3bc1
+machine_hash: f1661b41f84909bbc68cd21665775db68852a156ff2fb4cb7ec91aeafec9a476
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -40,10 +40,10 @@ record:
   title: '#7962 docs: update the docs for @openai/codex-shell-tool-mcp'
   type: change
 related_changes:
-- '[[Changes/Windsurf/2025-12-10-cascade-hooks-on-user-prompts|Cascade Hooks on User
-  Prompts]]'
-- '[[Changes/Cline/2025-12-11-7-apps-and-integrations-changes-in-v3-41-0|7 Apps and
-  Integrations changes in v3.41.0]]'
+- '[[Changes/Replit/2025-12-12-agent-now-supports-custom-mcp-servers|Agent now supports
+  custom MCP servers]]'
+- '[[Changes/Replit/2025-12-12-plaid-connector-for-enterprise|Plaid Connector for
+  Enterprise]]'
 - '[[Changes/Codex CLI/2025-12-13-2-apps-and-integrations-changes-in-rust-v0-72-0|2
   Apps and Integrations changes in rust-v0.72.0]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2025-12-15-rust-v0-73-0-github-270562118-b6e8102c|codex-cli-2025-12-15-rust-v0-73-0-github-270562118-b6e8102c]]'
@@ -78,7 +78,7 @@ type: change
 ## Nearby in Apps and Integrations
 
 - Earlier: 2025-12-13 · Codex CLI · [[Changes/Codex CLI/2025-12-13-2-apps-and-integrations-changes-in-rust-v0-72-0|2 Apps and Integrations changes in rust-v0.72.0]]
-- Later: 2025-12-16 · Gemini CLI · [[Changes/Gemini CLI/2025-12-16-9-apps-and-integrations-changes-in-v0-21-0|9 Apps and Integrations changes in v0.21.0]]
+- Later: 2025-12-15 · ElevenLabs · [[Changes/ElevenLabs/2025-12-15-sdk-releases|SDK Releases]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

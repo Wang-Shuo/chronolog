@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: e638db05fc701eab8492f77317702104db2179b1d0c04736873c21224c303fd7
+machine_hash: b9dcd4277f9266466262d8cfff18e27db9e154063c0f0fdd11aee80913b79899
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -48,8 +48,8 @@ record:
   title: Table of contents in longer conversations
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-06-04-shared-canvases-can-now-be-opened-full-screen-in-the-browser-making-them-easier|Shared
-  canvases can now be opened full-screen in the browser, making them easier…]]'
+- '[[Changes/Lovable/2026-06-04-transfer-a-domain-out-to-another-registrar|Transfer
+  a domain out to another registrar]]'
 - '[[Changes/GitHub Copilot CLI/2026-06-05-6-interface-experience-changes-in-v1-0-60|6
   Interface Experience changes in v1.0.60]]'
 - '[[Changes/ChatGPT/2026-06-08-improvement-to-charts-table-of-contents-and-full-screen-writing-also-fixes-long|Improvement

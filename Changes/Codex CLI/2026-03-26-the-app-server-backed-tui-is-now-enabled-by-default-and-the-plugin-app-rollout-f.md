@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: fa26c4d0a8f3f04140fbb08468ae02b0485af514d2b9f177532480e06aac627a
+machine_hash: 07d88c6659baea73b97388ab5ce99baa0279df0b8cec6ceafa8bb0121cf12b17
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -45,8 +45,8 @@ record:
   title: The app-server-backed TUI is now enabled by default, and the plugin/app rollout…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-03-25-6-apps-and-integrations-changes-in-v2-1-83|6 Apps
-  and Integrations changes in v2.1.83]]'
+- '[[Changes/Open WebUI/2026-03-25-3-apps-and-integrations-changes-in-v0-8-11|3 Apps
+  and Integrations changes in v0.8.11]]'
 - '[[Changes/Claude Code/2026-03-26-5-apps-and-integrations-changes-in-v2-1-84|5 Apps
   and Integrations changes in v2.1.84]]'
 - '[[Changes/Claude Code/2026-03-26-4-apps-and-integrations-changes-in-v2-1-85|4 Apps

@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 4e85f960bd2ea73e821ab30b05e3ea66b14bf1f51783c6626885301d4a5c08ec
+machine_hash: efa1b103b64972e45ae0ffcf6adf0e487c55fcb6485798355656f12ce1697904
 product: cursor
 product_name: Cursor
 record:
@@ -42,8 +42,8 @@ record:
   title: Chat was failing on some non-git folders
   type: change
 related_changes:
-- '[[Changes/Aider/2023-06-07-added-in-chat-command-clear-to-clear-the-conversation-history|Added
-  in-chat command /clear to clear the conversation history]]'
+- '[[Changes/Dify/2023-06-09-delete-segment-not-commit-by-johnjyong-in-https-github-com-langgenius-dify-pull|delete
+  segment not commit]]'
 - '[[Changes/Cursor/2023-06-14-small-fix-for-a-format-on-save-bug-that-was-introduced-in-the-last-release-some|Small
   improvements]]'
 - '[[Changes/Cursor/2023-06-17-the-ai-linter-now-shows-diffs|Diffs in AI linter feedback]]'

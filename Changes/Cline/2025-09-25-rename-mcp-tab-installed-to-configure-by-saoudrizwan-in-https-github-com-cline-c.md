@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: d3b44dfb4e9e26ede1381bc764984735b3c59d1335449cbd7da508b72b329cb0
+machine_hash: 60d3877cf0c8d184b03f9af40f6bb889d33861b9bc4a3e2087ae7ef5fe9eae95
 product: cline
 product_name: Cline
 record:
@@ -51,8 +51,7 @@ record:
   title: Rename MCP tab 'Installed' to 'Configure'
   type: change
 related_changes:
-- '[[Changes/Cline/2025-09-20-feat-oca-ui-add-oca-provider-with-model-picker-and-auth-integration-by-nihar-ora|feat(oca-ui):
-  add OCA provider with model picker and auth integration]]'
+- '[[Changes/ElevenLabs/2025-09-22-sdk-releases|SDK Releases]]'
 - '[[Changes/Codex CLI/2025-09-23-2-apps-and-integrations-changes-in-rust-v0-40-0|2
   Apps and Integrations changes in rust-v0.40.0]]'
 - '[[Changes/Gemini CLI/2025-09-24-5-apps-and-integrations-changes-in-v0-6-0|5 Apps
@@ -86,7 +85,7 @@ type: change
 ## Nearby in Apps and Integrations
 
 - Earlier: 2025-09-24 · Gemini CLI · [[Changes/Gemini CLI/2025-09-24-5-apps-and-integrations-changes-in-v0-6-0|5 Apps and Integrations changes in v0.6.0]]
-- Later: 2025-09-26 · Codex CLI · [[Changes/Codex CLI/2025-09-26-4-apps-and-integrations-changes-in-rust-v0-42-0|4 Apps and Integrations changes in rust-v0.42.0]]
+- Later: 2025-09-25 · Open WebUI · [[Changes/Open WebUI/2025-09-25-4-apps-and-integrations-changes-in-v0-6-31|4 Apps and Integrations changes in v0.6.31]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: d900ca48b9e9a759abe48244b35bd9fe03d3fe9a58faa64328bf6a2a9c3919ed
+machine_hash: 2de3eefcf9428b7c68649202d8594e0d13cf2c70dd1fe36feb6d558a194d2947
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -49,10 +49,8 @@ record:
   title: 5 Agent Mode changes in rust-v0.44.0
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-09-29-6-agent-mode-changes-in-1-7|6 Agent Mode changes in
-  1.7]]'
-- '[[Changes/Cursor/2025-09-29-image-file-support-for-agent|Image file support for
-  Agent]]'
+- '[[Changes/ElevenLabs/2025-09-29-agents-platform|Agents Platform]]'
+- '[[Changes/ElevenLabs/2025-09-29-agents-platform-7144f6|Agents Platform]]'
 - '[[Changes/GitHub Copilot CLI/2025-10-01-improved-the-experience-of-writing-prompts-while-the-agent-is-running-up-down-ar|Improved
   the experience of writing prompts while the agent is running -- up/down…]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2025-10-03-rust-v0-44-0-github-252055554-66c49f37|codex-cli-2025-10-03-rust-v0-44-0-github-252055554-66c49f37]]'
@@ -104,7 +102,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.44.0
 ## Nearby in Agent Mode
 
 - Earlier: 2025-10-01 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2025-10-01-improved-the-experience-of-writing-prompts-while-the-agent-is-running-up-down-ar|Improved the experience of writing prompts while the agent is running -- up/down…]]
-- Later: 2025-10-07 · Gemini CLI · [[Changes/Gemini CLI/2025-10-07-2-agent-mode-changes-in-v0-8-0|2 Agent Mode changes in v0.8.0]]
+- Later: 2025-10-07 · ElevenLabs · [[Changes/ElevenLabs/2025-10-07-agents-platform|Agents Platform]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

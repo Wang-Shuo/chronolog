@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: b60746873c9ffd641aaa336d9198e7e4087e7d160a099334182c39dd0d4864b4
+machine_hash: b9840cd42db4be48f0574ed84ca8659c3bbd99826443c3791a2cefc0c0d04fb9
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -53,12 +53,9 @@ record:
   title: MCP server management when swapping between custom agents with /agent
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-01-16-use-plan-mode-to-design-your-approach-before-coding-cursor-will-ask-clarifying-q|Plan
-  mode in CLI]]'
-- '[[Changes/Cursor/2026-01-16-added-hooks-for-session-start-end-prompt-and-stop-for-customizing-agent-lifecycl|Added
-  hooks for session start/end, prompt, and stop for customizing agent lifecycle events]]'
-- '[[Changes/GitHub Copilot CLI/2026-01-16-2-agent-mode-changes-in-v0-0-384|2 Agent
-  Mode changes in v0.0.384]]'
+- '[[Changes/ElevenLabs/2026-01-19-agents-platform|Agents Platform]]'
+- '[[Changes/ElevenLabs/2026-01-19-new-endpoints|New Endpoints]]'
+- '[[Changes/ElevenLabs/2026-01-19-agents-platform-97d485|Agents Platform]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-01-19-v0-0-385-github-278028953-d0ad2806|github-copilot-cli-2026-01-19-v0-0-385-github-278028953-d0ad2806]]'
 source_type: github_releases
 theme: agent-mode
@@ -91,7 +88,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2026-01-16 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-01-16-2-agent-mode-changes-in-v0-0-384|2 Agent Mode changes in v0.0.384]]
+- Earlier: 2026-01-19 · ElevenLabs · [[Changes/ElevenLabs/2026-01-19-agents-platform-97d485|Agents Platform]]
 - Later: 2026-01-21 · Codex CLI · [[Changes/Codex CLI/2026-01-21-2-agent-mode-changes-in-rust-v0-88-0|2 Agent Mode changes in rust-v0.88.0]]
 <!-- chronolog:end -->
 

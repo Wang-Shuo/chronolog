@@ -4,20 +4,20 @@ date: '2026-05-05'
 description: 'Gemini CLI · 2026-05-05 · Voice and Audio: feat(voice): implement real-time
   voice mode with cloud and local backends by @Abhijit-2592 in…'
 diffusion:
-  first_in_tracked: '[[Changes/Aider/2023-08-11-voice-to-code-https-aider-chat-docs-voice-html-support-which-allows-you-to-code|Voice-to-code((source
-    link) support, which allows you…]]'
+  first_in_tracked: '[[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2
+    Voice and Audio changes in 0.3.7]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 998
+  lag_days: 1030
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 4ec765a1700787daf6484dd7aed36f221d4801d81e53fb0eed6682b0adacde7c
+machine_hash: 7edd91bed2c95fb5aa9f047cf97fd4d1fb3759e9c957916b1efb6e0aad3a116c
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -42,11 +42,11 @@ record:
   title: 'feat(voice): implement real-time voice mode with cloud and local backends'
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-04-13-upgraded-voice-input-26be2e|Upgraded voice input]]'
 - '[[Changes/Claude Code/2026-04-28-vscode-voice-dictation-now-respects-the-accessibility-voice-speechlanguage-setti|VSCode
   Voice dictation now respects the accessibility.voice.speechLanguage…]]'
 - '[[Changes/Claude Code/2026-04-28-voice-mode-keybindings-bound-to-caps-lock-now-show-an-error-since-terminals-don|Voice
   mode: keybindings bound to Caps Lock now show an error since terminals don''t…]]'
+- '[[Changes/ElevenLabs/2026-05-04-packages|Packages]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2026-05-05-v0-41-0-github-318058458-3befafe6|gemini-cli-2026-05-05-v0-41-0-github-318058458-3befafe6]]'
 source_type: github_releases
 theme: voice
@@ -80,14 +80,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Voice and Audio
 
-- Earlier: 2026-04-28 · Claude Code · [[Changes/Claude Code/2026-04-28-voice-mode-keybindings-bound-to-caps-lock-now-show-an-error-since-terminals-don|Voice mode: keybindings bound to Caps Lock now show an error since terminals don't…]]
-- Later: 2026-05-12 · Gemini CLI · [[Changes/Gemini CLI/2026-05-12-2-voice-and-audio-changes-in-v0-42-0|2 Voice and Audio changes in v0.42.0]]
+- Earlier: 2026-05-04 · ElevenLabs · [[Changes/ElevenLabs/2026-05-04-packages|Packages]]
+- Later: 2026-05-09 · Open WebUI · [[Changes/Open WebUI/2026-05-09-10-voice-and-audio-changes-in-v0-9-3|10 Voice and Audio changes in v0.9.3]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-08-11 · Aider · [[Changes/Aider/2023-08-11-voice-to-code-https-aider-chat-docs-voice-html-support-which-allows-you-to-code|Voice-to-code((source link) support, which allows you…]]
+- Earliest same-theme entry in the tracked set: 2023-07-10 · Dify · [[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2 Voice and Audio changes in 0.3.7]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

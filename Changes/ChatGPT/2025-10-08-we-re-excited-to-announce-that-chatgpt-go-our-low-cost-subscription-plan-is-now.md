@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: expansion
-machine_hash: ce3f679ca0f1c08ad353adde0c082415bb552321db0c6c0bb023322980924655
+machine_hash: dd2beee1de6c448eb96a84cef477869096c905961aa819335ada8d015905448a
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -46,12 +46,12 @@ record:
     countries
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2025-08-18-update-quota-and-pricing-md-to-clarify-billing-by-blanca-delgado-parra-in-https|Update
-  quota-and-pricing.md to clarify billing]]'
 - '[[Changes/ChatGPT/2025-09-22-we-re-launching-chatgpt-go-our-low-cost-subscription-plan-in-indonesia-for-rp-75|ChatGPT
   launches ChatGPT Go, our low cost subscription plan, in Indonesia]]'
 - '[[Changes/GitHub Copilot CLI/2025-10-01-switched-to-using-per-subscription-copilot-api-endpoints-in-accordance-with-gith|Switched
   to using per-subscription Copilot API endpoints in accordance…]]'
+- '[[Changes/v0/2025-10-01-it-no-longer-costs-credits-to-use-fix-with-v0-when-v0-makes-an-error|It
+  no longer costs credits to use "Fix with v0" when v0 makes an error]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-10-08-chatgpt-go-expansion-37d00d9f|chatgpt-2025-10-08-chatgpt-go-expansion-37d00d9f]]'
 source_type: chatgpt_changelog
 theme: pricing-model
@@ -82,7 +82,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Pricing Model
 
-- Earlier: 2025-10-01 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2025-10-01-switched-to-using-per-subscription-copilot-api-endpoints-in-accordance-with-gith|Switched to using per-subscription Copilot API endpoints in accordance…]]
+- Earlier: 2025-10-01 · v0 · [[Changes/v0/2025-10-01-it-no-longer-costs-credits-to-use-fix-with-v0-when-v0-makes-an-error|It no longer costs credits to use "Fix with v0" when v0 makes an error]]
 - Later: 2025-10-14 · ChatGPT · [[Changes/ChatGPT/2025-10-14-we-re-excited-to-announce-that-chatgpt-go-our-low-cost-subscription-plan-is-now-d58cbb|ChatGPT Go, our low cost subscription plan, is now available in 71 additional…]]
 <!-- chronolog:end -->
 

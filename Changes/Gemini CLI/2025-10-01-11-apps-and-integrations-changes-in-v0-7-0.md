@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: f17e7675ed86426e87650b1fcb95f2575629e6de2f0b71d897f1c577dc85d590
+machine_hash: 135a0962f30331a57396d780312eae2393291720366c86d0166d19104ddecf8b
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -69,12 +69,10 @@ record:
   title: 11 Apps and Integrations changes in v0.7.0
   type: change
 related_changes:
-- '[[Changes/Cline/2025-09-25-rename-mcp-tab-installed-to-configure-by-saoudrizwan-in-https-github-com-cline-c|Rename
-  MCP tab ''Installed'' to ''Configure'']]'
-- '[[Changes/Codex CLI/2025-09-26-4-apps-and-integrations-changes-in-rust-v0-42-0|4
-  Apps and Integrations changes in rust-v0.42.0]]'
-- '[[Changes/Cursor/2025-09-29-4-apps-and-integrations-changes-in-1-7|4 Apps and Integrations
-  changes in 1.7]]'
+- '[[Changes/ElevenLabs/2025-09-29-packages|Packages]]'
+- '[[Changes/ElevenLabs/2025-09-29-sdk-releases|SDK Releases]]'
+- '[[Changes/Open WebUI/2025-09-29-3-apps-and-integrations-changes-in-v0-6-32|3 Apps
+  and Integrations changes in v0.6.32]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2025-10-01-v0-7-0-github-251548156-78585420|gemini-cli-2025-10-01-v0-7-0-github-251548156-78585420]]'
 source_type: github_releases
 theme: apps-integrations
@@ -132,7 +130,7 @@ Source: https://github.com/google-gemini/gemini-cli/releases/tag/v0.7.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2025-09-29 · Cursor · [[Changes/Cursor/2025-09-29-4-apps-and-integrations-changes-in-1-7|4 Apps and Integrations changes in 1.7]]
+- Earlier: 2025-09-29 · Open WebUI · [[Changes/Open WebUI/2025-09-29-3-apps-and-integrations-changes-in-v0-6-32|3 Apps and Integrations changes in v0.6.32]]
 - Later: 2025-10-01 · OpenHands · [[Changes/OpenHands/2025-10-01-added-configurable-timeout-settings-for-shttp-mcp-servers-to-prevent-tool-calls|Added configurable timeout settings for SHTTP MCP servers to prevent tool calls…]]
 <!-- chronolog:end -->
 

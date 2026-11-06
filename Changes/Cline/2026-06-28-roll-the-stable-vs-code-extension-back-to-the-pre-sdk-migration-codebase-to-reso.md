@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: ef98edc2fca7a7663d2d9a0de86d7c0c6176dacfe664960f7a4807e683eb7e23
+machine_hash: 40cc9782bdf04ffff510764ef8902d6a4972e6b2cab945c6d0ae5c24462eaa64
 product: cline
 product_name: Cline
 record:
@@ -50,12 +50,10 @@ record:
     to resolve…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-06-25-2-apps-and-integrations-changes-in-v2-1-193|2
-  Apps and Integrations changes in v2.1.193]]'
-- '[[Changes/Codex CLI/2026-06-25-9-apps-and-integrations-changes-in-rust-v0-142-2|9
-  Apps and Integrations changes in rust-v0.142.2]]'
-- '[[Changes/Cline/2026-06-26-13-apps-and-integrations-changes-in-v4-0-0|13 Apps and
-  Integrations changes in v4.0.0]]'
+- '[[Changes/Replit/2026-06-26-a-new-integrations-experience|A new Integrations experience]]'
+- '[[Changes/Replit/2026-06-26-use-replit-from-slack|Use Replit from Slack]]'
+- '[[Changes/v0/2026-06-26-the-v0-mcp-server-adds-tools-to-create-find-and-read-chats-fetch-a-preview-and-s|The
+  v0 MCP server adds tools to create, find, and read chats, fetch a preview…]]'
 source_release: '[[Releases/Cline/cline-2026-06-28-v4-0-1-github-345826106-b1e0b289|cline-2026-06-28-v4-0-1-github-345826106-b1e0b289]]'
 source_type: github_releases
 theme: apps-integrations
@@ -83,7 +81,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-06-26 · Cline · [[Changes/Cline/2026-06-26-13-apps-and-integrations-changes-in-v4-0-0|13 Apps and Integrations changes in v4.0.0]]
+- Earlier: 2026-06-26 · v0 · [[Changes/v0/2026-06-26-the-v0-mcp-server-adds-tools-to-create-find-and-read-chats-fetch-a-preview-and-s|The v0 MCP server adds tools to create, find, and read chats, fetch a preview…]]
 - Later: 2026-06-29 · Claude Code · [[Changes/Claude Code/2026-06-29-remote-control-is-now-disabled-when-anthropic-base-url-points-at-a-non-anthropic|Remote Control is now disabled when ANTHROPIC_BASE_URL points at a non-Anthropic…]]
 <!-- chronolog:end -->
 

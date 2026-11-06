@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: caff6b36555579579ac1324fae2ab118e34df02e1fbea3f0ae53bca73ac9b284
+machine_hash: e4ac55217f5b4bb1a6110e6b5fab8d9f0c9f538d77857ca5117bbe51182f7006
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -46,10 +46,10 @@ record:
   title: Cleaner “Select All” behavior (Cmd+A)
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-02-11-11294-chore-put-crypto-provider-logic-in-a-shared-crate-bolinfest|♯11294
-  chore: put crypto provider logic in a shared crate @bolinfest]]'
 - '[[Changes/Cline/2026-02-12-telemetry-route-posthog-networking-through-proxy-aware-shared-fetch-and-ensure-t|Telemetry:
   route PostHog networking through proxy-aware shared fetch and ensure…]]'
+- '[[Changes/Open WebUI/2026-02-12-2-collaboration-changes-in-v0-8-0|2 Collaboration
+  changes in v0.8.0]]'
 - '[[Changes/Windsurf/2026-02-12-enterprise-team-improvements|Enterprise & Team Improvements]]'
 scope: Web
 source_release: '[[Releases/ChatGPT/chatgpt-2026-02-13-chatgpt-updates-better-file-uploads-easier-copying-and-more-reli-e2c69aa0|chatgpt-2026-02-13-chatgpt-updates-better-file-uploads-easier-copying-and-more-reli-e2c69aa0]]'
@@ -85,7 +85,7 @@ type: change
 ## Nearby in Collaboration
 
 - Earlier: 2026-02-12 · Windsurf · [[Changes/Windsurf/2026-02-12-enterprise-team-improvements|Enterprise & Team Improvements]]
-- Later: 2026-02-25 · Codex CLI · [[Changes/Codex CLI/2026-02-25-12028-remove-feature-flag-collaboration-modes-aibrahim-oai|♯12028 remove feature flag collaboration modes @aibrahim-oai]]
+- Later: 2026-02-14 · Open WebUI · [[Changes/Open WebUI/2026-02-14-sync-modal-unexpected-appearance-fixed-an-issue-where-the-sync-modal-would-appea|🐛 Sync modal unexpected appearance. Fixed an issue where the Sync Modal would…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

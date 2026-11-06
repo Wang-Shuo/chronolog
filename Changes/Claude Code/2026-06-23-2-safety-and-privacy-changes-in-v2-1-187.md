@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 8d974b7c0322f17a3a2cbe4810b7e50a59abf956a9770a0408f75f1810384342
+machine_hash: 0a2ff8b011df2b3cb192ab41cc5ed124eb9c1c2d47ba18e9d117e270039ecd27
 product: claude-code
 product_name: Claude Code
 record:
@@ -44,8 +44,8 @@ record:
   title: 2 Safety and Privacy changes in v2.1.187
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-06-18-7-safety-and-privacy-changes-in-rust-v0-141-0|7
-  Safety and Privacy changes in rust-v0.141.0]]'
+- '[[Changes/v0/2026-06-19-responding-to-an-agent-prompt-for-an-environment-variable-permission-question-or|Responding
+  to an agent prompt for an environment variable, permission, question…]]'
 - '[[Changes/Claude Code/2026-06-22-2-safety-and-privacy-changes-in-v2-1-186|2 Safety
   and Privacy changes in v2.1.186]]'
 - '[[Changes/Codex CLI/2026-06-22-12-safety-and-privacy-changes-in-rust-v0-142-0|12

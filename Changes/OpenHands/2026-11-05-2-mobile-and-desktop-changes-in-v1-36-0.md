@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 6e5e20283b083531f86c11a13ce806110988d0ce29f59b1aec97b00a968eccea
+machine_hash: 309036cdf2aba790a8efef529cb449bfa303c19db4edee27beb211b539785128
 product: openhands
 product_name: OpenHands
 record:
@@ -44,10 +44,9 @@ record:
   title: 2 Mobile and Desktop changes in v1.36.0
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-10-29-57503-fix-macos-standalone-release-pruning-etraut-openai|♯57503
-  Fix macOS standalone release pruning @etraut-openai]]'
-- '[[Changes/Claude Code/2026-10-30-2-mobile-and-desktop-changes-in-v2-1-314|2 Mobile
-  and Desktop changes in v2.1.314]]'
+- '[[Changes/ElevenLabs/2026-11-02-android-sdk|Android SDK]]'
+- "[[Changes/Open WebUI/2026-11-03-image-drops-from-photo-apps-images-dropped-into-chats-and-channels-are-now-recog|\U0001F5BC️
+  Image drops from photo apps. Images dropped into chats and channels are now…]]"
 - '[[Changes/OpenHands/2026-11-03-2-mobile-and-desktop-changes-in-v1-35-0|2 Mobile
   and Desktop changes in v1.35.0]]'
 source_release: '[[Releases/OpenHands/openhands-2026-11-05-v1-36-0-github-435773936-3d3cf53c|openhands-2026-11-05-v1-36-0-github-435773936-3d3cf53c]]'

@@ -4,20 +4,20 @@ date: '2025-02-14'
 description: 'ChatGPT · 2025-02-14 · Voice and Audio: Whisper (ChatGPT''s voice-to-text
   feature) now shows a text preview of dictated text after recording:'
 diffusion:
-  first_in_tracked: '[[Changes/Aider/2023-08-11-voice-to-code-https-aider-chat-docs-voice-html-support-which-allows-you-to-code|Voice-to-code((source
-    link) support, which allows you…]]'
+  first_in_tracked: '[[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2
+    Voice and Audio changes in 0.3.7]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 553
+  lag_days: 585
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 2cadaba6140e2b6eebc6f61c21b8752665dac42beb26d7e0c085345d530bb53f
+machine_hash: 36d581fac7ba80274eae6eb3d4c97929a47a288e413e04abdfb93475aa13d6c9
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -44,12 +44,12 @@ record:
     text…
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2024-12-12-today-we-started-rolling-out-two-updates-to-voice-mode-in-chatgpt-8ade79|Today
-  we started rolling out two updates to voice mode in ChatGPT]]'
-- '[[Changes/Aider/2024-12-13-voice-now-lets-you-edit-the-transcribed-text-before-sending|/voice
-  now lets you edit the transcribed text before sending]]'
+- "[[Changes/Open WebUI/2025-01-05-audio-input-echo-cancellation-audio-input-now-features-echo-cancellation-enabled|\U0001F3A4
+  Audio Input Echo Cancellation]]"
 - '[[Changes/Aider/2025-01-10-2-voice-and-audio-changes-in-v0-71-0|2 Voice and Audio
   changes in v0.71.0]]'
+- "[[Changes/Open WebUI/2025-02-13-kokoro-js-tts-support-a-new-on-device-high-quality-text-to-speech-engine-has-bee|\U0001F3A4
+  Kokoro-JS TTS Support]]"
 source_release: '[[Releases/ChatGPT/chatgpt-2025-02-14-set-chatgpt-as-default-search-engine-in-safari-11ec014b|chatgpt-2025-02-14-set-chatgpt-as-default-search-engine-in-safari-11ec014b]]'
 source_type: chatgpt_changelog
 theme: voice
@@ -83,14 +83,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Voice and Audio
 
-- Earlier: 2025-01-10 · Aider · [[Changes/Aider/2025-01-10-2-voice-and-audio-changes-in-v0-71-0|2 Voice and Audio changes in v0.71.0]]
-- Later: 2025-05-01 · ChatGPT · [[Changes/ChatGPT/2025-05-01-launched-on-april-1-as-a-one-month-surprise-our-monday-personality-available-in|Sunsetting Monday GPT]]
+- Earlier: 2025-02-13 · Open WebUI · [[Changes/Open WebUI/2025-02-13-kokoro-js-tts-support-a-new-on-device-high-quality-text-to-speech-engine-has-bee|🎤 Kokoro-JS TTS Support]]
+- Later: 2025-02-17 · ElevenLabs · [[Changes/ElevenLabs/2025-02-17-voice-isolator|Voice Isolator]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-08-11 · Aider · [[Changes/Aider/2023-08-11-voice-to-code-https-aider-chat-docs-voice-html-support-which-allows-you-to-code|Voice-to-code((source link) support, which allows you…]]
+- Earliest same-theme entry in the tracked set: 2023-07-10 · Dify · [[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2 Voice and Audio changes in 0.3.7]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

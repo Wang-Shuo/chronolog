@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: e617c7975807f267a65e40dbeb4dc46bdf2632dba3fda029833f9b60f21565ec
+machine_hash: 80ca2299b8bb85831ba8f6831cabf067897427fe8641906b26ccc407c63f3375
 product: claude-code
 product_name: Claude Code
 record:
@@ -49,8 +49,8 @@ record:
   title: 3 Model Support changes in v2.1.285
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-09-28-5-model-support-changes-in-v1-0-89|5 Model
-  Support changes in v1.0.89]]'
+- '[[Changes/Ollama/2026-09-28-3-model-support-changes-in-v0-35-0|3 Model Support
+  changes in v0.35.0]]'
 - '[[Changes/ChatGPT/2026-09-29-gpt-6-1-sol-improves-on-gpt-6-sol-in-agentic-coding-computer-use-and-professiona-815850|GPT-6.1
   Sol in ChatGPT Work and Codex]]'
 - '[[Changes/ChatGPT/2026-09-29-eligible-plus-and-pro-users-can-authorize-participating-apps-to-use-their-chatgp|Eligible

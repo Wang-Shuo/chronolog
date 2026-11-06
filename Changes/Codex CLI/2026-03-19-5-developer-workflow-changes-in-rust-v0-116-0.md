@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 79a7258503f4e7940f975d7394bf22bb22eeb519e7466159af838234572b730e
+machine_hash: 9edfad156b9249a6090389e3c88c3e3cfaecd38cbed5abb6726399cbdd7fecaa
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -47,12 +47,12 @@ record:
   title: 5 Developer Workflow changes in rust-v0.116.0
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2026-03-17-9-developer-workflow-changes-in-v0-34-0|9 Developer
-  Workflow changes in v0.34.0]]'
 - '[[Changes/GitHub Copilot CLI/2026-03-18-alternate-screen-buffer-is-now-enabled-by-default-for-a-cleaner-terminal-experie|Alternate
   screen buffer is now enabled by default for a cleaner terminal experience]]'
 - '[[Changes/GitHub Copilot CLI/2026-03-18-scroll-works-correctly-in-macos-terminal-app-and-other-terminals-that-don-t-supp|Scroll
   works correctly in macOS Terminal.app and other terminals that don''t support…]]'
+- '[[Changes/Ollama/2026-03-18-add-extra-check-to-ensure-npm-and-git-are-installed-before-installing-openclaw|Add
+  extra check to ensure npm and git are installed before installing OpenClaw]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-03-19-rust-v0-116-0-github-299083035-eb74e2fd|codex-cli-2026-03-19-rust-v0-116-0-github-299083035-eb74e2fd]]'
 source_type: github_releases
 theme: developer-workflow
@@ -101,7 +101,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.116.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2026-03-18 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-03-18-scroll-works-correctly-in-macos-terminal-app-and-other-terminals-that-don-t-supp|Scroll works correctly in macOS Terminal.app and other terminals that don't support…]]
+- Earlier: 2026-03-18 · Ollama · [[Changes/Ollama/2026-03-18-add-extra-check-to-ensure-npm-and-git-are-installed-before-installing-openclaw|Add extra check to ensure npm and git are installed before installing OpenClaw]]
 - Later: 2026-03-19 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-03-19-2-developer-workflow-changes-in-v1-0-9|2 Developer Workflow changes in v1.0.9]]
 <!-- chronolog:end -->
 

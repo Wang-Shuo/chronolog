@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: memory
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: efdcada8dafee0ead93302e11ac1f10c2bde38d6aa22ba7209ec0b650861b950
+machine_hash: 8e2c144d5b98ca6133cf3929ad95ced19473ad70fcbe9fae9bee82dc3160bc8a
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -46,10 +46,10 @@ record:
   title: Longer memory for more personalized responses
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2025-09-25-we-re-launching-an-early-preview-of-chatgpt-pulse-for-pro-users-on-ios-and-andro-cf8064|Introducing
-  ChatGPT Pulse for Pro users]]'
 - '[[Changes/ChatGPT/2025-09-29-turn-off-memory-so-chatgpt-won-t-save-and-use-memories-when-responding|Turn
   off memory, so ChatGPT won’t save and use memories when responding]]'
+- '[[Changes/v0/2025-10-06-custom-instructions-are-now-available-in-v0-use-preset-instructions-like-be-conc|Custom
+  Instructions]]'
 - '[[Changes/ChatGPT/2025-10-08-longer-memory-for-more-personalized-responses-8c6877|Longer
   memory for more personalized responses]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-10-14-chatgpt-go-expansion-37d00d9f|chatgpt-2025-10-14-chatgpt-go-expansion-37d00d9f]]'

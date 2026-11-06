@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: pricing
-machine_hash: ee9709ed655d367f920ef98086c5d3eec4e3e1c32069d3b14cd60e2dce862cff
+machine_hash: 97e0d858b06dcb5457bcdd741e4bbd8b0b38560130471694c553d7d4dc3ee552
 product: aider
 product_name: Aider
 record:
@@ -43,11 +43,11 @@ record:
   title: Enables display of cost info based on OpenAI advertised pricing
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2023-02-13-we-rolled-out-the-ability-to-purchase-chatgpt-plus-internationally|We
-  rolled out the ability to purchase ChatGPT Plus internationally]]'
 - '[[Changes/Cursor/2023-03-27-adds-an-optional-paid-plan-if-you-d-like-to-avoid-the-server-capacity-rate-limit|Adds
   an optional paid plan if you''d like to avoid the server capacity rate limits]]'
 - '[[Changes/Cursor/2023-04-19-150k-gpt-4-tokens-included|150k GPT-4 tokens included]]'
+- '[[Changes/Dify/2023-06-14-feat-add-gpt-3-5-turbo-16k-support-and-update-openai-gpt-3-5-turbo-embedding-ada|feat:
+  add gpt-3.5-turbo-16k support and update openai gpt-3.5-turbo & Embedding Ada…]]'
 source_release: '[[Releases/Aider/aider-2023-06-25-v0-7-0-github-109821323-5656ee24|aider-2023-06-25-v0-7-0-github-109821323-5656ee24]]'
 source_type: github_releases
 theme: pricing-model
@@ -78,7 +78,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Pricing Model
 
-- Earlier: 2023-04-19 · Cursor · [[Changes/Cursor/2023-04-19-150k-gpt-4-tokens-included|150k GPT-4 tokens included]]
+- Earlier: 2023-06-14 · Dify · [[Changes/Dify/2023-06-14-feat-add-gpt-3-5-turbo-16k-support-and-update-openai-gpt-3-5-turbo-embedding-ada|feat: add gpt-3.5-turbo-16k support and update openai gpt-3.5-turbo & Embedding Ada…]]
 - Later: 2023-06-26 · Aider · [[Changes/Aider/2023-06-26-enables-display-of-cost-info-based-on-openai-advertised-pricing|Enables display of cost info based on OpenAI advertised pricing]]
 <!-- chronolog:end -->
 

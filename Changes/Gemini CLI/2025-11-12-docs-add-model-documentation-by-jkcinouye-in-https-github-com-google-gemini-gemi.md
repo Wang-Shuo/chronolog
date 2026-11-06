@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 227712d836e3bab234e50c12d014150ccae4e1d02ed70861b4ac9a03f35114de
+machine_hash: cd67ecf2531cabffa3e016be78c454f8117a701383ffb33ba3faa040fe288908
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -43,12 +43,10 @@ record:
   title: 'Docs: Add /model documentation'
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2025-11-09-6351-promote-shell-config-tool-to-model-family-config|♯6351
-  – Promote shell config tool to model family config]]'
-- '[[Changes/ChatGPT/2025-11-12-we-re-updating-chatgpt-s-tone-controls-so-it-s-easier-to-make-responses-sound-th-d3a253|New
-  tone and personalization controls]]'
 - '[[Changes/ChatGPT/2025-11-12-we-re-updating-gpt-5-to-gpt-5-1-instant-and-gpt-5-1-thinking-making-answers-both-d702c4|GPT-5.1
   in ChatGPT]]'
+- '[[Changes/ElevenLabs/2025-11-12-scribe-v2-realtime|Scribe v2 Realtime]]'
+- '[[Changes/ElevenLabs/2025-11-12-language-presets|Language Presets]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2025-11-12-v0-14-0-github-261593844-1781244e|gemini-cli-2025-11-12-v0-14-0-github-261593844-1781244e]]'
 source_type: github_releases
 theme: model-support
@@ -79,8 +77,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2025-11-12 · ChatGPT · [[Changes/ChatGPT/2025-11-12-we-re-updating-gpt-5-to-gpt-5-1-instant-and-gpt-5-1-thinking-making-answers-both-d702c4|GPT-5.1 in ChatGPT]]
-- Later: 2025-11-13 · Cline · [[Changes/Cline/2025-11-13-8-model-support-changes-in-v3-37-0|8 Model Support changes in v3.37.0]]
+- Earlier: 2025-11-12 · ElevenLabs · [[Changes/ElevenLabs/2025-11-12-language-presets|Language Presets]]
+- Later: 2025-11-12 · Ollama · [[Changes/Ollama/2025-11-12-ollama-will-now-prefer-dedicated-gpus-over-igpus-when-scheduling-models|Ollama will now prefer dedicated GPUs over iGPUs when scheduling models]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

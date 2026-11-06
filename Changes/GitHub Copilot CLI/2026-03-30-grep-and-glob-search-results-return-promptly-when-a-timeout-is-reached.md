@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: search-browsing
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 86d43b5f525b661417745b2c63262cd3f497fd27f9c07854201d5f818cdb584b
+machine_hash: 6099493b691b80edbcc308ec4fff1636727e9e950980268a8471aa08a69a3f24
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -41,12 +41,12 @@ record:
   title: Grep and glob search results return promptly when a timeout is reached
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-03-23-now-it-s-easier-to-find-reuse-and-build-on-your-files-over-time-when-you-upload|File
-  Library in ChatGPT]]'
-- '[[Changes/ChatGPT/2026-03-24-we-ve-improved-shopping-in-chatgpt-to-make-it-easier-to-discover-compare-and-dec|Shopping
-  updates in ChatGPT]]'
+- '[[Changes/Open WebUI/2026-03-25-2-search-and-browsing-changes-in-v0-8-11|2 Search
+  and Browsing changes in v0.8.11]]'
 - '[[Changes/Codex CLI/2026-03-26-plugins-are-now-a-first-class-workflow-codex-can-sync-product-scoped-plugins-at|Plugins
   are now a first-class workflow]]'
+- '[[Changes/Ollama/2026-03-27-ollama-launch-pi-now-includes-web-search-plugin-that-uses-ollama-s-web-search|ollama
+  launch pi now includes web search plugin that uses Ollama''s web search]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-03-30-v1-0-13-github-303313822-db3397e2|github-copilot-cli-2026-03-30-v1-0-13-github-303313822-db3397e2]]'
 source_type: github_releases
 theme: search-browsing
@@ -82,7 +82,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Search and Browsing
 
-- Earlier: 2026-03-26 · Codex CLI · [[Changes/Codex CLI/2026-03-26-plugins-are-now-a-first-class-workflow-codex-can-sync-product-scoped-plugins-at|Plugins are now a first-class workflow]]
+- Earlier: 2026-03-27 · Ollama · [[Changes/Ollama/2026-03-27-ollama-launch-pi-now-includes-web-search-plugin-that-uses-ollama-s-web-search|ollama launch pi now includes web search plugin that uses Ollama's web search]]
 - Later: 2026-03-31 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-03-31-grep-and-glob-search-results-return-promptly-when-a-timeout-is-reached|Grep and glob search results return promptly when a timeout is reached]]
 <!-- chronolog:end -->
 

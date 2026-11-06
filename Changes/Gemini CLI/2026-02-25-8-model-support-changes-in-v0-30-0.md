@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 95fd7a8af6f4d72aa97dbf5c5bbb970bf2f04cef33dffd4a7736beab5ab87055
+machine_hash: e6fb00b0ddeabbb1277c6e5d6a81a732889e3739b1e62d8bc18e015da53d3a00
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -61,10 +61,10 @@ record:
   title: 8 Model Support changes in v0.30.0
   type: change
 related_changes:
-- '[[Changes/Cline/2026-02-24-3-model-support-changes-in-v3-67-0|3 Model Support changes
-  in v3.67.0]]'
 - '[[Changes/GitHub Copilot CLI/2026-02-24-streaming-response-size-counter-updates-continuously-during-tool-calls-and-reaso|Streaming
   response size counter updates continuously during tool calls…]]'
+- '[[Changes/Ollama/2026-02-24-2-model-support-changes-in-v0-17-1|2 Model Support
+  changes in v0.17.1]]'
 - '[[Changes/Codex CLI/2026-02-25-6-model-support-changes-in-rust-v0-105-0|6 Model
   Support changes in rust-v0.105.0]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2026-02-25-v0-30-0-github-290144121-620926b3|gemini-cli-2026-02-25-v0-30-0-github-290144121-620926b3]]'

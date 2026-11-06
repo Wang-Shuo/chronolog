@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: f0b1d4c7a47c0d78d944421dd81280f698b594f558d167e2260f582cf0a82291
+machine_hash: efd0805a05e10ed3114159367c5788f7d8fd46cec6c3472713619a648a7b55d2
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -43,10 +43,10 @@ record:
   title: 2 Account and Access changes in rust-v0.98.0
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-01-31-9654-show-oauth-error-descriptions-in-callback-responses-blevy-oai|♯9654
-  Show OAuth error descriptions in callback responses @blevy-oai]]'
 - '[[Changes/Claude Code/2026-02-03-added-pre-configured-oauth-client-credentials-for-mcp-servers-that-don-t-support|Added
   pre-configured OAuth client credentials for MCP servers that don''t support…]]'
+- '[[Changes/Dify/2026-02-03-3-account-and-access-changes-in-1-12-0|3 Account and
+  Access changes in 1.12.0]]'
 - '[[Changes/GitHub Copilot CLI/2026-02-03-2-account-and-access-changes-in-v0-0-401|2
   Account and Access changes in v0.0.401]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-02-05-rust-v0-98-0-github-283440153-81972c92|codex-cli-2026-02-05-rust-v0-98-0-github-283440153-81972c92]]'
@@ -88,7 +88,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.98.0
 ## Nearby in Account and Access
 
 - Earlier: 2026-02-03 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-02-03-2-account-and-access-changes-in-v0-0-401|2 Account and Access changes in v0.0.401]]
-- Later: 2026-02-06 · Claude Code · [[Changes/Claude Code/2026-02-06-vscode-added-support-for-remote-sessions-allowing-oauth-users-to-browse-and-resu|VSCode: Added support for remote sessions, allowing OAuth users to browse and resume…]]
+- Later: 2026-02-05 · Lovable · [[Changes/Lovable/2026-02-05-seamless-google-and-apple-authentication|Seamless Google and Apple authentication]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

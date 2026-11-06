@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 4f01e3b81e90e63d18ee46d23499214ffdaad76b77d8417286badf38bd2df402
+machine_hash: c800c5485d2e3455fd4272c045c8cb68aaa2d70da3888ce63e9a2687ddd8207c
 product: openhands
 product_name: OpenHands
 record:
@@ -44,10 +44,10 @@ record:
   title: 'feat: allow overwriting a secret value from the edit form'
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-07-21-4-editor-experience-changes-in-rust-v0-145-0|4 Editor
-  Experience changes in rust-v0.145.0]]'
-- '[[Changes/GitHub Copilot CLI/2026-07-23-show-tab-in-settings-footer-to-switch-scope-tabs|Show
-  Tab in /settings footer to switch scope tabs]]'
+- '[[Changes/Open WebUI/2026-07-27-7-editor-experience-changes-in-v0-11-0|7 Editor
+  Experience changes in v0.11.0]]'
+- '[[Changes/Dify/2026-07-28-feat-web-locate-workflow-nodes-by-node-id-in-the-workflow-editor-by-ruanimal-in|feat(web):
+  locate workflow nodes by node_id in the workflow editor]]'
 - '[[Changes/Codex CLI/2026-07-29-3-editor-experience-changes-in-rust-v0-146-0|3 Editor
   Experience changes in rust-v0.146.0]]'
 source_release: '[[Releases/OpenHands/openhands-2026-07-29-v1-7-0-github-362088149-8fdb1e1c|openhands-2026-07-29-v1-7-0-github-362088149-8fdb1e1c]]'

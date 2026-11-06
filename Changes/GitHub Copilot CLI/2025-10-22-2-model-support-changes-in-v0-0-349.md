@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: be6d23baa0a720d86176715994ed029bf16f1d399511d22f551f76e82919b9ad
+machine_hash: d5b5f7e145c987bc1bd03215932ce3c4f1859985ec73dd3b4972318bef375236
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -46,10 +46,10 @@ record:
   title: 2 Model Support changes in v0.0.349
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2025-10-18-added-list-of-supported-models-as-part-of-copilot-help-config-text|Added
-  list of supported models as part of copilot help config text]]'
 - '[[Changes/ChatGPT/2025-10-22-we-re-updating-the-model-for-signed-out-users-to-gpt-5-instant-giving-more-peopl|We’re
   updating the model for signed-out users to GPT-5 Instant, giving more people…]]'
+- '[[Changes/Dify/2025-10-22-8-model-support-changes-in-1-9-2|8 Model Support changes
+  in 1.9.2]]'
 - '[[Changes/Gemini CLI/2025-10-22-3-model-support-changes-in-v0-10-0|3 Model Support
   changes in v0.10.0]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2025-10-22-v0-0-349-github-256506800-cc17172c|github-copilot-cli-2025-10-22-v0-0-349-github-256506800-cc17172c]]'

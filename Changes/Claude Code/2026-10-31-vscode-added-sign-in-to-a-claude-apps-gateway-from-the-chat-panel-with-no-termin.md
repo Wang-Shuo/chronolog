@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 695e3f442921e7d1e30016ad390e26b951c04c8612a2fde3218889e57ff2b4d6
+machine_hash: 6b0e6c05730b27d032a03365e53645feba577513545d06828eb8dc0c0a188d79
 product: claude-code
 product_name: Claude Code
 record:
@@ -53,10 +53,10 @@ record:
     no…'
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-10-27-3-account-and-access-changes-in-rust-v0-165-0|3
-  Account and Access changes in rust-v0.165.0]]'
 - '[[Changes/Codex CLI/2026-10-29-8-account-and-access-changes-in-rust-v0-166-0|8
   Account and Access changes in rust-v0.166.0]]'
+- '[[Changes/Lovable/2026-10-29-log-in-with-one-click-using-google|Log in with one
+  click using Google]]'
 - '[[Changes/Claude Code/2026-10-30-improved-the-cloud-session-error-shown-while-a-request-refused-for-your-claude-a|Improved
   the cloud session error shown while a request refused for your claude.ai…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-10-31-v2-1-316-github-429617179-a30f32c9|claude-code-2026-10-31-v2-1-316-github-429617179-a30f32c9]]'
@@ -95,7 +95,7 @@ type: change
 ## Nearby in Account and Access
 
 - Earlier: 2026-10-30 · Claude Code · [[Changes/Claude Code/2026-10-30-improved-the-cloud-session-error-shown-while-a-request-refused-for-your-claude-a|Improved the cloud session error shown while a request refused for your claude.ai…]]
-- Later: 2026-11-03 · OpenHands · [[Changes/OpenHands/2026-11-03-ci-deps-bump-docker-login-action-from-4-6-0-to-4-7-0-in-the-actions-group-across|ci(deps): bump docker/login-action from 4.6.0 to 4.7.0 in the actions group across 1…]]
+- Later: 2026-11-02 · ElevenLabs · [[Changes/ElevenLabs/2026-11-02-fixes-oauth-discovery-names-the-host-the-client-connected-to-so-mcp-clients-such|Fixes: OAuth discovery names the host the client connected to, so MCP clients…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: memory
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 942df0ffa7da3838b725ff0f8def9fd5da1982e3a2034ee928dac05422384593
+machine_hash: 80d35c62932968ac2d488ee720aa64c7e8db7e5930700363c903887e5174115d
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -55,12 +55,12 @@ record:
   title: Memory and new controls for ChatGPT
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2023-07-20-we-re-starting-to-roll-out-custom-instructions-giving-you-more-control-over-chat-37833c|Custom
-  instructions are rolling out in beta]]'
 - '[[Changes/ChatGPT/2023-08-09-custom-instructions-are-now-available-to-chatgpt-users-on-the-free-plan-except-f-963d1e|Custom
   instructions are now available to free users]]'
 - '[[Changes/ChatGPT/2023-08-21-custom-instructions-are-now-available-to-users-in-the-european-union-united-king-cfc1d5|Custom
   instructions are now available to users in the EU & UK]]'
+- '[[Changes/Dify/2024-01-05-feat-optimize-memory-invoke-error-output-by-takatost-in-https-github-com-langgen|feat:
+  optimize memory & invoke error output]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2024-02-13-memory-and-new-controls-for-chatgpt-2fd43ded|chatgpt-2024-02-13-memory-and-new-controls-for-chatgpt-2fd43ded]]'
 source_type: chatgpt_changelog
 theme: memory
@@ -87,8 +87,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Memory and Personalization
 
-- Earlier: 2023-08-21 · ChatGPT · [[Changes/ChatGPT/2023-08-21-custom-instructions-are-now-available-to-users-in-the-european-union-united-king-cfc1d5|Custom instructions are now available to users in the EU & UK]]
-- Later: 2024-04-29 · ChatGPT · [[Changes/ChatGPT/2024-04-29-memory-is-now-available-to-all-chatgpt-plus-users-except-in-europe-korea-where-w-4db29a|Memory is now available to Plus users]]
+- Earlier: 2024-01-05 · Dify · [[Changes/Dify/2024-01-05-feat-optimize-memory-invoke-error-output-by-takatost-in-https-github-com-langgen|feat: optimize memory & invoke error output]]
+- Later: 2024-04-08 · Dify · [[Changes/Dify/2024-04-08-compared-to-the-regular-workflow-app-type-chatflow-adds-chat-specific-features-s|Compared to the regular Workflow app type, Chatflow adds chat-specific features such…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

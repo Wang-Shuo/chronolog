@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: dd4ece146b60c5ac74fd0c9742e5d1f4b85f4800197213a1a5a9d1698b908715
+machine_hash: 4b09c4a5a484408d165584d283c10a89829885c6358abc662f1fc62d7ff7fffd
 product: cursor
 product_name: Cursor
 record:
@@ -43,12 +43,12 @@ record:
   title: cursor:// deep linking works now, so you should be able to log in to extensions
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2023-05-24-browse-with-bing-we-ve-integrated-the-browsing-feature-currently-in-beta-for-pai|Bing
-  Plugin]]'
-- '[[Changes/Cursor/2023-06-09-you-can-now-have-the-ai-read-documentation-on-your-behalf-this-will-improve-it-s|Show
-  the AI documentation]]'
+- '[[Changes/Dify/2023-06-09-feat-npm-sdk-to-2-0-to-fix-steaming-problem-by-iamjoel-in-https-github-com-langg|feat:
+  npm sdk to 2.0 to fix steaming problem]]'
 - '[[Changes/Cursor/2023-06-16-we-ve-added-support-for-using-your-azure-openai-credentials-also-small-improveme|Azure
   Support]]'
+- "[[Changes/Dify/2023-06-19-dataset-support-integration-with-notion|\U0001F4C3 Dataset
+  support integration with Notion]]"
 source_release: '[[Releases/Cursor/cursor-2023-06-27-0-2-36-https-cursor-com-changelog-0-2-36-fa4e4f8d|cursor-2023-06-27-0-2-36-https-cursor-com-changelog-0-2-36-fa4e4f8d]]'
 source_type: cursor_changelog
 theme: apps-integrations
@@ -79,7 +79,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2023-06-16 · Cursor · [[Changes/Cursor/2023-06-16-we-ve-added-support-for-using-your-azure-openai-credentials-also-small-improveme|Azure Support]]
+- Earlier: 2023-06-19 · Dify · [[Changes/Dify/2023-06-19-dataset-support-integration-with-notion|📃 Dataset support integration with Notion]]
 - Later: 2023-06-27 · Cursor · [[Changes/Cursor/2023-06-27-better-support-for-extensions-specifically-re-enables-the-welcomeview|Better support for extensions (specifically re-enables the welcomeView)]]
 <!-- chronolog:end -->
 

@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: b5f424e191d16720aaec01d030c74df4a3fec50c976ddf0dc0d978f5d2d3279b
+machine_hash: 2266cd35ff435847ad7d95e75ec49399007e0dda069da141619272b2ce0747e9
 product: openhands
 product_name: OpenHands
 record:
@@ -42,11 +42,11 @@ record:
   title: '**Git Ownership Errors** in containers'
   type: change
 related_changes:
-- '[[Changes/OpenHands/2025-06-05-added-support-on-windows-without-wsl-by-neubig-in-https-github-com-all-hands-ai|Added
-  support on windows without WSL]]'
-- '[[Changes/Windsurf/2025-06-10-theme-aware-codeblocks-with-refreshed-design|Theme-aware
-  codeblocks with refreshed design]]'
 - '[[Changes/Windsurf/2025-06-10-terminal-improvements|Terminal Improvements]]'
+- '[[Changes/Dify/2025-06-11-improved-housekeeping-command-now-preserves-avatar-images-and-app-icons-correctl|Improved
+  Housekeeping Command]]'
+- '[[Changes/Dify/2025-06-16-keep-those-pull-requests-coming-as-we-aim-to-make-your-user-experience-as-seamle|Keep
+  those pull requests coming as we aim to make your user experience as seamless…]]'
 source_release: '[[Releases/OpenHands/openhands-2025-06-20-0-45-0-github-226789367-b83ab16d|openhands-2025-06-20-0-45-0-github-226789367-b83ab16d]]'
 source_type: github_releases
 theme: developer-workflow
@@ -78,7 +78,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2025-06-10 · Windsurf · [[Changes/Windsurf/2025-06-10-terminal-improvements|Terminal Improvements]]
+- Earlier: 2025-06-16 · Dify · [[Changes/Dify/2025-06-16-keep-those-pull-requests-coming-as-we-aim-to-make-your-user-experience-as-seamle|Keep those pull requests coming as we aim to make your user experience as seamless…]]
 - Later: 2025-06-20 · OpenHands · [[Changes/OpenHands/2025-06-20-2-developer-workflow-changes-in-0-44-0|2 Developer Workflow changes in 0.44.0]]
 <!-- chronolog:end -->
 

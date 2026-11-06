@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 6a9e6acf3b0a97a82ecb8594bbfa0e2d6e73ad23f38a087f9f784d4b6950aa96
+machine_hash: 180ee97e69134160d6fd7023a6d60b83e79cfaf34fc363fc8ad250b245fdf2a1
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -46,8 +46,7 @@ record:
   title: Introducing gpt-5.2 our latest frontier model with improvements across knowledge…
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2025-12-10-add-grep-tool-codex-models|Add grep tool
-  Codex models]]'
+- '[[Changes/Lovable/2025-12-10-opus-4-5-as-a-core-model|Opus 4.5 as a core model]]'
 - '[[Changes/ChatGPT/2025-12-11-today-we-re-releasing-gpt-5-2-the-next-upgrade-to-the-gpt-5-series-gpt-5-2-is-sm|Today,
   we’re releasing GPT-5.2, the next upgrade to the GPT-5 series]]'
 - '[[Changes/Cline/2025-12-11-11-model-support-changes-in-v3-41-0|11 Model Support
@@ -79,7 +78,7 @@ type: change
 ## Nearby in Model Support
 
 - Earlier: 2025-12-11 · Cline · [[Changes/Cline/2025-12-11-11-model-support-changes-in-v3-41-0|11 Model Support changes in v3.41.0]]
-- Later: 2025-12-11 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2025-12-11-add-support-for-gpt-5-2|Add support for GPT-5.2]]
+- Later: 2025-12-11 · Dify · [[Changes/Dify/2025-12-11-9-model-support-changes-in-1-11-0|9 Model Support changes in 1.11.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

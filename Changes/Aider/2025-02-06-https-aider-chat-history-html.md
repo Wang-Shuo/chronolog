@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 2768955116aae19e6d847bdecfeae3599201ac3d4c24aa45b2acb536f47bfe5d
+machine_hash: a8b5e725e9db21010c06d02616639cf0c5c4f6188dbf422def799893fe8e4b2f
 product: aider
 product_name: Aider
 record:
@@ -41,10 +41,11 @@ record:
   title: https://aider.chat/HISTORY.html
   type: change
 related_changes:
-- '[[Changes/OpenHands/2025-01-02-add-loading-spinner-to-task-form-during-conversation-creation-by-rbren-in-https|Add
-  loading spinner to task form during conversation creation]]'
-- '[[Changes/Aider/2025-01-10-https-aider-chat-history-html|(source link)]]'
+- '[[Changes/Open WebUI/2025-01-22-general-ui-ux-refinements-numerous-tweaks-across-the-webui-make-navigation-and-u|✨
+  General UI/UX Refinements]]'
 - '[[Changes/Aider/2025-01-31-https-aider-chat-history-html|(source link)]]'
+- "[[Changes/Open WebUI/2025-02-05-redesigned-chat-input-ui-enjoy-a-sleeker-and-more-intuitive-message-input-with-i|\U0001F4AC
+  Redesigned Chat Input UI]]"
 source_release: '[[Releases/Aider/aider-2025-02-06-v0-74-0-github-198937852-317852a7|aider-2025-02-06-v0-74-0-github-198937852-317852a7]]'
 source_type: github_releases
 theme: interface-experience
@@ -75,7 +76,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2025-01-31 · Aider · [[Changes/Aider/2025-01-31-https-aider-chat-history-html|(source link)]]
+- Earlier: 2025-02-05 · Open WebUI · [[Changes/Open WebUI/2025-02-05-redesigned-chat-input-ui-enjoy-a-sleeker-and-more-intuitive-message-input-with-i|💬 Redesigned Chat Input UI]]
 - Later: 2025-02-09 · Cline · [[Changes/Cline/2025-02-09-adds-keyboard-shortcut-cmd-shift-a-to-easily-switch-between-plan-act-mode|Adds keyboard shortcut (CMD + Shift + A) to easily switch between Plan/Act mode]]
 <!-- chronolog:end -->
 

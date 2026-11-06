@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 1fe35ff4152834402824552a2257d4818277fcbed000e1a62c501af74598e3fb
+machine_hash: 04382d03659c79844e452f8c2ca2aabffb3b7295b9ad5b067d9e36ea79cd8564
 product: claude-code
 product_name: Claude Code
 record:
@@ -100,7 +100,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.219
 ## Nearby in Agent Mode
 
 - Earlier: 2026-07-23 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-07-23-3-agent-mode-changes-in-v1-0-74|3 Agent Mode changes in v1.0.74]]
-- Later: 2026-07-28 · Cursor · [[Changes/Cursor/2026-07-28-always-on-cloud-agents-that-build-test-and-ship-code-while-you-keep-working-725c7c|Always-on cloud agents that build, test, and ship code while you keep working]]
+- Later: 2026-07-27 · ElevenLabs · [[Changes/ElevenLabs/2026-07-27-elevenagents|ElevenAgents]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 00c1eb481373c58d647fa52008bee22d63954fbaf81602afce70bf4de9fa1ca0
+machine_hash: b3c3de5af9ba3ac2461d6faccabcb7af7139c2a8e6b7db218bdf06ee193104b2
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -43,12 +43,11 @@ record:
   title: Add excludedTools to extensions
   type: change
 related_changes:
-- '[[Changes/OpenHands/2025-06-20-2-apps-and-integrations-changes-in-0-45-0|2 Apps
-  and Integrations changes in 0.45.0]]'
-- '[[Changes/ChatGPT/2025-06-24-pro-users-are-now-able-to-use-chat-search-connectors-in-addition-to-deep-researc-9d5a85|Chat
-  search connectors (Pro)]]'
+- '[[Changes/ElevenLabs/2025-06-30-sdks|SDKs]]'
 - '[[Changes/Gemini CLI/2025-07-01-feat-add-support-to-remote-mcp-servers-for-custom-http-headers-by-aspiers-in-htt|feat:
   add support to remote MCP servers for custom HTTP headers]]'
+- '[[Changes/Dify/2025-07-02-7-apps-and-integrations-changes-in-1-5-1|7 Apps and Integrations
+  changes in 1.5.1]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2025-07-02-v0-1-9-github-229261098-c313e569|gemini-cli-2025-07-02-v0-1-9-github-229261098-c313e569]]'
 source_type: github_releases
 theme: apps-integrations
@@ -79,8 +78,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2025-07-01 · Gemini CLI · [[Changes/Gemini CLI/2025-07-01-feat-add-support-to-remote-mcp-servers-for-custom-http-headers-by-aspiers-in-htt|feat: add support to remote MCP servers for custom HTTP headers]]
-- Later: 2025-07-02 · OpenHands · [[Changes/OpenHands/2025-07-02-disabled-jupyter-plugin-by-default-in-cli-runtime-by-li-boxuan-in-https-github-c|Disabled Jupyter plugin by default in CLI runtime]]
+- Earlier: 2025-07-02 · Dify · [[Changes/Dify/2025-07-02-7-apps-and-integrations-changes-in-1-5-1|7 Apps and Integrations changes in 1.5.1]]
+- Later: 2025-07-02 · Ollama · [[Changes/Ollama/2025-07-02-add-nativemind-to-community-integrations-by-xukecheng-in-https-github-com-ollama|Add NativeMind to Community Integrations]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

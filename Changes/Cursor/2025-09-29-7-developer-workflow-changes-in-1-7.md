@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: b720313691ae5c0210b3727fdc15d19290ffb680fe970055f8a613fdae26915c
+machine_hash: f5b8d433dfaa21036fc91d40725096826007d0c91d43f4c03022bf0f54d82da9
 product: cursor
 product_name: Cursor
 record:
@@ -53,8 +53,8 @@ record:
   title: 7 Developer Workflow changes in 1.7
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2025-09-24-10-developer-workflow-changes-in-v0-6-0|10 Developer
-  Workflow changes in v0.6.0]]'
+- '[[Changes/Open WebUI/2025-09-25-2-developer-workflow-changes-in-v0-6-31|2 Developer
+  Workflow changes in v0.6.31]]'
 - '[[Changes/Codex CLI/2025-09-26-3-developer-workflow-changes-in-rust-v0-42-0|3 Developer
   Workflow changes in rust-v0.42.0]]'
 - '[[Changes/GitHub Copilot CLI/2025-09-26-improved-powershell-parsing-of-foreach-object-and-detection-of-command-name-expr|Improved
@@ -120,7 +120,7 @@ Source: https://cursor.com/changelog/1-7
 ## Nearby in Developer Workflow
 
 - Earlier: 2025-09-26 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2025-09-26-improved-powershell-parsing-of-foreach-object-and-detection-of-command-name-expr|Improved PowerShell parsing of ForEach-Object and detection of command name…]]
-- Later: 2025-09-29 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2025-09-29-added-glob-matching-to-shell-rules-when-using-allow-tool-and-deny-tool-you-can-n|Added glob matching to shell rules]]
+- Later: 2025-09-29 · Dify · [[Changes/Dify/2025-09-29-debugging-logging|Debugging & Logging]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

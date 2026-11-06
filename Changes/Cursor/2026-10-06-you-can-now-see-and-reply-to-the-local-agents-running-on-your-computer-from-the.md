@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: a64f4fb551b4d06e3c2e718946898825c4ebcf59f48f428849e56080a0b6436c
+machine_hash: a2020649ee6d12834f7e3b17522fb4d6ed38ca285824b9b81af6ce3c0e33d0b5
 product: cursor
 product_name: Cursor
 record:
@@ -43,8 +43,7 @@ record:
     iOS app
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-05-4-agent-mode-changes-in-v2-1-290|4 Agent Mode
-  changes in v2.1.290]]'
+- '[[Changes/ElevenLabs/2026-10-05-elevenagents-ceeb34|ElevenAgents]]'
 - '[[Changes/GitHub Copilot CLI/2026-10-05-5-agent-mode-changes-in-v1-0-92|5 Agent
   Mode changes in v1.0.92]]'
 - '[[Changes/Claude Code/2026-10-06-3-agent-mode-changes-in-v2-1-292|3 Agent Mode

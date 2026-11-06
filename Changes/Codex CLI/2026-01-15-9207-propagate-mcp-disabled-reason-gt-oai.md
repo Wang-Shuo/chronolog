@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 52c2e775f2478aa605978788892aa97b26d4a75c43de98eed5af7172b45e06c7
+machine_hash: ddba84f0055a3f097c8dbe98d1edcccac8a22cecdfb17160abf0a74f2838920b
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -40,8 +40,8 @@ record:
   title: '#9207 Propagate MCP disabled reason @gt-oai'
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-01-13-2-apps-and-integrations-changes-in-v2-1-6|2 Apps
-  and Integrations changes in v2.1.6]]'
+- '[[Changes/Dify/2026-01-13-13-apps-and-integrations-changes-in-1-11-3|13 Apps and
+  Integrations changes in 1.11.3]]'
 - '[[Changes/Codex CLI/2026-01-14-10-apps-and-integrations-changes-in-rust-v0-81-0|10
   Apps and Integrations changes in rust-v0.81.0]]'
 - '[[Changes/Gemini CLI/2026-01-14-9-apps-and-integrations-changes-in-v0-24-0|9 Apps
@@ -79,7 +79,7 @@ type: change
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-01-14 · Gemini CLI · [[Changes/Gemini CLI/2026-01-14-9-apps-and-integrations-changes-in-v0-24-0|9 Apps and Integrations changes in v0.24.0]]
-- Later: 2026-01-16 · Codex CLI · [[Changes/Codex CLI/2026-01-16-accepting-an-mcp-elicitation-now-sends-an-empty-json-payload-instead-of-null-to|Accepting an MCP elicitation now sends an empty JSON payload instead of null…]]
+- Later: 2026-01-15 · Dify · [[Changes/Dify/2026-01-15-4-apps-and-integrations-changes-in-1-11-4|4 Apps and Integrations changes in 1.11.4]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

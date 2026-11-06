@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 27283b3b7b3d55c7ab5a1b79f06876c200a4044c831aca6ed24d298a711daf54
+machine_hash: d990072fb6f5722cc5290f3885a05469e4290600785640f303d2bbd176cc4816
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -43,10 +43,9 @@ record:
   title: 2 Apps and Integrations changes in v1.0.63
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-06-15-2-apps-and-integrations-changes-in-v2-1-178|2
-  Apps and Integrations changes in v2.1.178]]'
-- '[[Changes/Codex CLI/2026-06-15-35-apps-and-integrations-changes-in-rust-v0-140-0|35
-  Apps and Integrations changes in rust-v0.140.0]]'
+- '[[Changes/ElevenLabs/2026-06-15-packages|Packages]]'
+- '[[Changes/Lovable/2026-06-15-app-connectors-aws-athena-and-replicate|App connectors:
+  AWS Athena and Replicate]]'
 - '[[Changes/Claude Code/2026-06-16-improved-plugin-loading-performance-in-remote-sessions|Improved
   plugin loading performance in remote sessions]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-06-16-v1-0-63-github-339856552-a4891c49|github-copilot-cli-2026-06-16-v1-0-63-github-339856552-a4891c49]]'
@@ -87,7 +86,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.63
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-06-16 · Claude Code · [[Changes/Claude Code/2026-06-16-improved-plugin-loading-performance-in-remote-sessions|Improved plugin loading performance in remote sessions]]
-- Later: 2026-06-16 · Windsurf · [[Changes/Windsurf/2026-06-16-outdated-this-entry-refers-to-the-devin-plugin-command-which-has-since-been-rena| Outdated: this entry refers to the devin plugin command, which has since…]]
+- Later: 2026-06-16 · Lovable · [[Changes/Lovable/2026-06-16-app-connectors-chargebee-gatewayapi-lexware-pipedrive-prestashop-sevdesk-wave-wi|App connectors: Chargebee, GatewayAPI, Lexware, Pipedrive, PrestaShop, Sevdesk…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

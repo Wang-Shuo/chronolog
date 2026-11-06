@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: a088d10f5f1fda3782eeeedda8ded4ca2abb58e9f6a64ed101dbaee20cdd2478
+machine_hash: 957fe5105e42a5c84daff5ae72a0049654a7bf7145da74579ff56eff8cbd90ee
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -52,10 +52,11 @@ record:
   title: '#10373 chore(core) gpt-5.2-codex personality template @dylan-hurd-oai'
   type: change
 related_changes:
-- '[[Changes/Windsurf/2026-01-30-arena-mode|Arena Mode]]'
 - '[[Changes/Windsurf/2026-01-30-wave-14-arena-mode|Wave 14: Arena Mode]]'
 - '[[Changes/Codex CLI/2026-01-31-10118-codex-cli-show-model-capacity-guidance-on-429-ccy-oai|♯10118
   CodexCLI Show model-capacity guidance on 429 @ccy-oai]]'
+- '[[Changes/Ollama/2026-02-01-improved-tool-calling-for-ministral-models|Improved
+  tool calling for Ministral models]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-02-02-rust-v0-94-0-github-282298678-d5cec340|codex-cli-2026-02-02-rust-v0-94-0-github-282298678-d5cec340]]'
 source_type: github_releases
 theme: model-support
@@ -89,8 +90,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-01-31 · Codex CLI · [[Changes/Codex CLI/2026-01-31-10118-codex-cli-show-model-capacity-guidance-on-429-ccy-oai|♯10118 CodexCLI Show model-capacity guidance on 429 @ccy-oai]]
-- Later: 2026-02-03 · Claude Code · [[Changes/Claude Code/2026-02-03-changed-model-to-execute-immediately-instead-of-being-queued|Changed /model to execute immediately instead of being queued]]
+- Earlier: 2026-02-01 · Ollama · [[Changes/Ollama/2026-02-01-improved-tool-calling-for-ministral-models|Improved tool calling for Ministral models]]
+- Later: 2026-02-02 · ElevenLabs · [[Changes/ElevenLabs/2026-02-02-text-to-dialogue|Text-to-Dialogue]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

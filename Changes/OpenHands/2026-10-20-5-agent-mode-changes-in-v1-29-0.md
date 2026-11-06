@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 9afee8ea41b649076d9ecd38c63289db655413f33405436ec0e2c85ae685dfd3
+machine_hash: 4f521efcc77bc44ba52a7762ac27ffc039e46f0db68d115c66fedde543befff3
 product: openhands
 product_name: OpenHands
 record:
@@ -98,7 +98,7 @@ Source: https://github.com/OpenHands/OpenHands/releases/tag/v1.29.0
 ## Nearby in Agent Mode
 
 - Earlier: 2026-10-20 · Cursor · [[Changes/Cursor/2026-10-20-the-agent-sdk-is-available-today-it-allows-you-to-define-an-agent-as-a-folder-of|The Agent SDK is available today]]
-- Later: 2026-10-21 · Claude Code · [[Changes/Claude Code/2026-10-21-improved-fork-subagents-launched-together-each-is-now-told-which-launch-is-its-o|Improved fork subagents launched together]]
+- Later: 2026-10-21 · Claude · [[Changes/Claude/2026-10-21-claude-duet-research-preview-for-pro-and-max-plans|Claude Duet research preview for Pro and Max plans]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

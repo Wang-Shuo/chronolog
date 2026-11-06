@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 211eb1386478e60538ba2cc416f7b4f03c28734868ee17b31e2da07d428e98f6
+machine_hash: 989d221040dd2ef5debbf82ed3aab0c79986f15c05875395e5f0f208d7944bd6
 product: claude-code
 product_name: Claude Code
 record:
@@ -46,12 +46,12 @@ record:
     tracking
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-01-21-added-deprecation-notification-for-npm-installations-run-claude-install-or-see-h|Added
-  deprecation notification for npm installations - run claude install or see…]]'
 - '[[Changes/Codex CLI/2026-01-21-9-developer-workflow-changes-in-rust-v0-88-0|9 Developer
   Workflow changes in rust-v0.88.0]]'
 - '[[Changes/Gemini CLI/2026-01-21-7-developer-workflow-changes-in-v0-25-0|7 Developer
   Workflow changes in v0.25.0]]'
+- '[[Changes/Ollama/2026-01-21-new-ollama-launch-command-for-claude-code-codex-opencode-and-droid|New
+  ollama launch command for Claude Code, Codex, OpenCode, and Droid]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-01-22-v2-1-16-github-279146529-0e5b3428|claude-code-2026-01-22-v2-1-16-github-279146529-0e5b3428]]'
 source_type: github_releases
 theme: developer-workflow
@@ -82,7 +82,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2026-01-21 · Gemini CLI · [[Changes/Gemini CLI/2026-01-21-7-developer-workflow-changes-in-v0-25-0|7 Developer Workflow changes in v0.25.0]]
+- Earlier: 2026-01-21 · Ollama · [[Changes/Ollama/2026-01-21-new-ollama-launch-command-for-claude-code-codex-opencode-and-droid|New ollama launch command for Claude Code, Codex, OpenCode, and Droid]]
 - Later: 2026-01-22 · Codex CLI · [[Changes/Codex CLI/2026-01-22-4-developer-workflow-changes-in-rust-v0-89-0|4 Developer Workflow changes in rust-v0.89.0]]
 <!-- chronolog:end -->
 

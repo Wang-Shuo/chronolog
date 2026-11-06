@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 49c5e95c7e02389ab0ba348fc8a94ac62d39f435b9e152cfeae5bb9cbc511e2d
+machine_hash: b0ce89c79d321939edc298b64310f5cbd7a2f70dfdf486a45ec013fbe96b0cfc
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -40,11 +40,12 @@ record:
   title: Numerous fixes to `codex mcp`
   type: change
 related_changes:
-- '[[Changes/Windsurf/2025-07-17-deeper-browser-integration|Deeper Browser integration]]'
 - '[[Changes/Codex CLI/2025-07-19-https-github-com-openai-codex-pull-1571-fixes-a-longstanding-issue-where-we-fail|(source
   link) fixes a longstanding issue where we failed…]]'
 - '[[Changes/Gemini CLI/2025-07-19-12-apps-and-integrations-changes-in-v0-1-13|12
   Apps and Integrations changes in v0.1.13]]'
+- "[[Changes/Open WebUI/2025-07-19-cleaner-database-credentials-database-connection-no-longer-duplicates-in-credent|\U0001F9F9
+  Cleaner Database Credentials]]"
 source_release: '[[Releases/Codex CLI/codex-cli-2025-07-23-rust-v0-9-0-github-234402892-04b1f79c|codex-cli-2025-07-23-rust-v0-9-0-github-234402892-04b1f79c]]'
 source_type: github_releases
 theme: apps-integrations
@@ -74,8 +75,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2025-07-19 · Gemini CLI · [[Changes/Gemini CLI/2025-07-19-12-apps-and-integrations-changes-in-v0-1-13|12 Apps and Integrations changes in v0.1.13]]
-- Later: 2025-07-24 · ChatGPT · [[Changes/ChatGPT/2025-07-24-pro-users-can-now-utilize-chat-search-with-hubspot-and-custom-connectors-mcp-in-b9b682|Chat search for HubSpot and custom connectors (MCP) (Pro)]]
+- Earlier: 2025-07-19 · Open WebUI · [[Changes/Open WebUI/2025-07-19-cleaner-database-credentials-database-connection-no-longer-duplicates-in-credent|🧹 Cleaner Database Credentials]]
+- Later: 2025-07-23 · Dify · [[Changes/Dify/2025-07-23-10-apps-and-integrations-changes-in-1-7-0|10 Apps and Integrations changes in 1.7.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

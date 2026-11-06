@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 268ef020868bb4d9157cef5302f29a392d4a8db84079870fdb3180baf217dc09
+machine_hash: 700629eb56aed9747ef6826f50ff4a7a9f26b37b3577b416cf663bf04badebaf
 product: cursor
 product_name: Cursor
 record:
@@ -77,7 +77,7 @@ type: change
 ## Nearby in Reliability and Performance
 
 - Earlier: 2023-09-20 · Cursor · [[Changes/Cursor/2023-09-20-we-ship-a-new-version-of-indexing-which-should-be-significantly-more-stable-than|More Stable Codebase Indexing]]
-- Later: 2023-10-01 · Cursor · [[Changes/Cursor/2023-10-01-indexing-should-now-be-faster-more-stable-and-use-less-of-your-system-resources-c870a3|Indexing should now be faster, more stable, and use less of your system resources]]
+- Later: 2023-09-22 · Ollama · [[Changes/Ollama/2023-09-22-models-will-now-be-loaded-immediately-making-even-the-first-prompt-much-faster|Models will now be loaded immediately making even the first prompt much faster]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

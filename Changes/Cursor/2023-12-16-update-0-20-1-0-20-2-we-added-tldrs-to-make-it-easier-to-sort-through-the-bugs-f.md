@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 4dc3a29d42f9558b1e0e9d989da207f736aa92b1a0fb3cdc1fab94cd88496409
+machine_hash: d5bb8e0642159785d3aebd2b311ad2c999de76e3d43a6af4c17266860308f5ff
 product: cursor
 product_name: Cursor
 record:
@@ -47,10 +47,10 @@ record:
     the bugs…'
   type: change
 related_changes:
-- '[[Changes/Cursor/2023-11-30-more-reliable-copilot-changes-less-flashing-better-highlighting-of-what-s-new|More
-  reliable Copilot++ changes: less flashing, better highlighting of what''s new]]'
 - '[[Changes/Cursor/2023-12-02-running-cmd-enter-on-followups-should-result-in-much-better-codebase-results|Smarter
   Followups]]'
+- '[[Changes/Dify/2023-12-08-chore-deps-bump-word-wrap-from-1-2-3-to-1-2-5-in-web-by-dependabot-in-https-gith|chore(deps):
+  bump word-wrap from 1.2.3 to 1.2.5 in /web]]'
 - '[[Changes/Cursor/2023-12-14-we-made-copilot-faster-smarter-more-constrained-and-switched-to-a-ghost-text-hit|Copilot++
   Improvements]]'
 source_release: '[[Releases/Cursor/cursor-2023-12-16-0-20-0-https-cursor-com-changelog-0-20-0-fecb080e|cursor-2023-12-16-0-20-0-https-cursor-com-changelog-0-20-0-fecb080e]]'

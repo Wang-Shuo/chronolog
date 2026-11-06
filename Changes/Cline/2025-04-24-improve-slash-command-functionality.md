@@ -10,12 +10,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 223f4ee5aca258818ffe0cc1cb119215aa023f06f83833af7209e6ac8bbc12b9
+machine_hash: bd25fe21a375a7baec8f3324b336715a651502bd902c32ac5ac096f58e498a5a
 product: cline
 product_name: Cline
 record:
@@ -40,10 +40,10 @@ record:
   title: Improve slash command functionality
   type: change
 related_changes:
-- '[[Changes/OpenHands/2025-04-16-converted-the-terminal-panel-from-a-fixed-bottom-panel-to-a-tab-by-rbren-in-http|Converted
-  the Terminal panel from a fixed bottom panel to a tab]]'
 - '[[Changes/Cline/2025-04-19-2-developer-workflow-changes-in-v3-13-0|2 Developer
   Workflow changes in v3.13.0]]'
+- '[[Changes/Dify/2025-04-23-2-developer-workflow-changes-in-1-3-0|2 Developer Workflow
+  changes in 1.3.0]]'
 - '[[Changes/OpenHands/2025-04-23-restored-interactivity-to-the-terminal-by-rbren-in-https-github-com-all-hands-ai|Restored
   interactivity to the terminal]]'
 source_release: '[[Releases/Cline/cline-2025-04-24-v3-13-2-github-214623274-8a6a3c52|cline-2025-04-24-v3-13-2-github-214623274-8a6a3c52]]'

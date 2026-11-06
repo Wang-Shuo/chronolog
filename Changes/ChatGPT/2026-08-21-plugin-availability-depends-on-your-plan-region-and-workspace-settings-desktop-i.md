@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 75a333de974deef60c914b8b77668e1018721b580b361bc0033e66d941ea838c
+machine_hash: 42454a6b12b87cf1acc0b205e944ff40c2f1745e1b7eeeac25acea837050ad80
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -43,10 +43,10 @@ record:
   title: Plugin availability depends on your plan, region, and workspace settings
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-08-20-6-apps-and-integrations-changes-in-v2-1-238|6
-  Apps and Integrations changes in v2.1.238]]'
 - '[[Changes/Codex CLI/2026-08-20-33-apps-and-integrations-changes-in-rust-v0-149-0|33
   Apps and Integrations changes in rust-v0.149.0]]'
+- '[[Changes/Lovable/2026-08-20-sort-connectors-and-add-an-mcp-server-from-the-catalog-header|Sort
+  connectors and add an MCP server from the catalog header]]'
 - '[[Changes/ChatGPT/2026-08-21-updated-plugin-recommendations-make-it-easier-to-find-tools-people-continue-to-u|Updated
   plugin recommendations make it easier to find tools people continue to use]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-08-21-improved-plugin-discovery-on-web-and-mobile-4a2c9c9b|chatgpt-2026-08-21-improved-plugin-discovery-on-web-and-mobile-4a2c9c9b]]'
@@ -78,7 +78,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-08-20 · Codex CLI · [[Changes/Codex CLI/2026-08-20-33-apps-and-integrations-changes-in-rust-v0-149-0|33 Apps and Integrations changes in rust-v0.149.0]]
+- Earlier: 2026-08-20 · Lovable · [[Changes/Lovable/2026-08-20-sort-connectors-and-add-an-mcp-server-from-the-catalog-header|Sort connectors and add an MCP server from the catalog header]]
 - Later: 2026-08-21 · Claude Code · [[Changes/Claude Code/2026-08-21-2-apps-and-integrations-changes-in-v2-1-239|2 Apps and Integrations changes in v2.1.239]]
 <!-- chronolog:end -->
 

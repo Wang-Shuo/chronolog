@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: e8cdb2f6da0335567e5e71796e3662679dc8c4c1e3c86941bdf27495e6ef5237
+machine_hash: 6cb4c6bf4feb8bae5edc3ae63f57b23b99dad92ecea1536502c6dedb51ecf0e7
 product: cline
 product_name: Cline
 record:
@@ -48,8 +48,8 @@ record:
   title: 4 Interface Experience changes in v3.33.0
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2025-10-07-improved-the-alignment-of-tables-where-the-scrollbar-is-present|Improved
-  the alignment of tables where the scrollbar is present]]'
+- '[[Changes/Open WebUI/2025-10-07-8-interface-experience-changes-in-v0-6-33|8 Interface
+  Experience changes in v0.6.33]]'
 - '[[Changes/Codex CLI/2025-10-09-tui-breathing-spinner-on-true-color-terms-by-nornagon-openai-in-https-github-com|TUI
   Breathing spinner on true-color terms]]'
 - '[[Changes/Windsurf/2025-10-10-codemaps|Codemaps]]'
@@ -96,7 +96,7 @@ Source: https://github.com/cline/cline/releases/tag/v3.33.0
 ## Nearby in Interface Experience
 
 - Earlier: 2025-10-10 · Windsurf · [[Changes/Windsurf/2025-10-10-codemaps|Codemaps]]
-- Later: 2025-10-21 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2025-10-21-improved-line-wrapping-and-alignment-when-rendering-file-diffs|Improved line wrapping and alignment when rendering file diffs]]
+- Later: 2025-10-16 · Open WebUI · [[Changes/Open WebUI/2025-10-16-3-interface-experience-changes-in-v0-6-34|3 Interface Experience changes in v0.6.34]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

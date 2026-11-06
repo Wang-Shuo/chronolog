@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 7550eb4b60485a388e5f528ca2b281facd69140cdbffdace67ffcfed78fcc9a7
+machine_hash: 96b8812bf93cdb42bff2e39d6afff8d42b92e937c8bd14f98f78f66df9868efa
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -50,10 +50,11 @@ record:
   title: 5 Model Support changes in rust-v0.52.0
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-10-29-introducing-our-first-agentic-coding-model-composer-is-a-frontier-model-that-is|Composer]]'
 - '[[Changes/Cursor/2025-10-29-plan-mode-in-background|Plan Mode in Background]]'
 - '[[Changes/Gemini CLI/2025-10-29-5-model-support-changes-in-v0-11-0|5 Model Support
   changes in v0.11.0]]'
+- '[[Changes/Ollama/2025-10-29-4-model-support-changes-in-v0-12-7|4 Model Support
+  changes in v0.12.7]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2025-10-30-rust-v0-52-0-github-258584762-83f2b559|codex-cli-2025-10-30-rust-v0-52-0-github-258584762-83f2b559]]'
 source_type: github_releases
 theme: model-support
@@ -102,8 +103,8 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.52.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2025-10-29 · Gemini CLI · [[Changes/Gemini CLI/2025-10-29-5-model-support-changes-in-v0-11-0|5 Model Support changes in v0.11.0]]
-- Later: 2025-10-31 · Cline · [[Changes/Cline/2025-10-31-4-model-support-changes-in-v3-35-0|4 Model Support changes in v3.35.0]]
+- Earlier: 2025-10-29 · Ollama · [[Changes/Ollama/2025-10-29-4-model-support-changes-in-v0-12-7|4 Model Support changes in v0.12.7]]
+- Later: 2025-10-30 · Ollama · [[Changes/Ollama/2025-10-30-ollama-will-now-stop-running-a-model-before-removing-it-via-ollama-rm|Ollama will now stop running a model before removing it via ollama rm]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: pricing
-machine_hash: dadabc082ccf4689df7f7f4acd4b27c24337d6cbe6d9fa98b7e6b5c47b863898
+machine_hash: b3b0f7f696601abbc3f562af030b44f5ca74d6a3009e5a71892c0db5ab4aa44b
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -49,12 +49,12 @@ record:
   title: The Rosalind Academic Plan helps eligible academic labs use ChatGPT for life…
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-10-05-plan-usage-reflects-the-current-billing-period-after-quota-resets|Plan
-  usage reflects the current billing period after quota resets]]'
-- '[[Changes/Claude Code/2026-10-09-updated-cost-the-status-line-max-budget-usd-and-the-sdk-s-cost-figures-to-price|Updated
-  /cost, the status line, --max-budget-usd and the SDK''s cost figures…]]'
 - '[[Changes/GitHub Copilot CLI/2026-10-13-show-billed-ai-credits-in-usage-for-token-billed-sessions-including-after-resume|Show
   billed AI Credits in /usage for token-billed sessions, including after resume]]'
+- '[[Changes/Lovable/2026-10-14-ask-lovable-what-drives-your-run-credit-usage|Ask
+  Lovable what drives your run credit usage]]'
+- '[[Changes/Lovable/2026-10-14-restore-a-deleted-workspace-yourself|Restore a deleted
+  workspace yourself]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-10-15-applications-for-the-rosalind-academic-plan-b85717ef|chatgpt-2026-10-15-applications-for-the-rosalind-academic-plan-b85717ef]]'
 source_type: chatgpt_changelog
 theme: pricing-model
@@ -83,8 +83,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Pricing Model
 
-- Earlier: 2026-10-13 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-10-13-show-billed-ai-credits-in-usage-for-token-billed-sessions-including-after-resume|Show billed AI Credits in /usage for token-billed sessions, including after resume]]
-- Later: 2026-10-19 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-10-19-complete-usage-reporting-no-longer-shows-partial-status-or-phantom-unattributed|Complete usage reporting no longer shows partial status or phantom unattributed…]]
+- Earlier: 2026-10-14 · Lovable · [[Changes/Lovable/2026-10-14-restore-a-deleted-workspace-yourself|Restore a deleted workspace yourself]]
+- Later: 2026-10-16 · Lovable · [[Changes/Lovable/2026-10-16-review-publish-requests-and-findings-in-the-action-center|Review publish requests and findings in the Action center]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

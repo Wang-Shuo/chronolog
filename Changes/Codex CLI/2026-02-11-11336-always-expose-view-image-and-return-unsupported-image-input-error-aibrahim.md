@@ -4,20 +4,20 @@ date: '2026-02-11'
 description: 'Codex CLI · 2026-02-11 · Multimodal Input: #11336 Always expose view_image
   and return unsupported image-input error @aibrahim-oai'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-09-25-you-can-now-show-chatgpt-one-or-more-images-troubleshoot-why-your-grill-won-t-st-e42bd6|Image
-    input will be generally available to Plus users on all platforms]]'
+  first_in_tracked: '[[Changes/Dify/2023-09-19-add-video-to-cn-readme-by-crazywoola-in-https-github-com-langgenius-dify-pull-11|add
+    video to cn readme]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 870
+  lag_days: 876
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: multimodal
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: b6c1a0ac95813919a92f21dd92f107b29aa86a58ca724ad100672790da1ed5c2
+machine_hash: ad0c6279a0e1d5b6bb81d4d7b6fd8a8485abe9d77d5e73efc72209f5fd540ee6
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -43,10 +43,10 @@ record:
     @aibrahim-oai'
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2025-08-14-feat-core-parse-multimodal-mcp-tool-responses-by-luccasparoni-in-https-github-co|feat(core):
-  Parse Multimodal MCP Tool responses]]'
-- '[[Changes/Claude Code/2025-12-19-added-clickable-image-n-links-that-open-attached-images-in-the-default-viewer|Added
-  clickable Image ♯N links that open attached images in the default viewer]]'
+- '[[Changes/Dify/2026-02-03-3-multimodal-input-changes-in-1-12-0|3 Multimodal Input
+  changes in 1.12.0]]'
+- '[[Changes/Ollama/2026-02-03-glm-ocr-https-ollama-com-library-glm-ocr-glm-ocr-is-a-multimodal-ocr-model-for-c|GLM-OCR((source
+  link) GLM-OCR is a multimodal OCR model…]]'
 - '[[Changes/Gemini CLI/2026-02-10-perf-core-optimize-token-calculation-and-add-support-for-multimodal-tool-respons|perf(core):
   optimize token calculation and add support for multimodal tool responses]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-02-11-rust-v0-99-0-github-285424682-f7f48016|codex-cli-2026-02-11-rust-v0-99-0-github-285424682-f7f48016]]'
@@ -92,13 +92,13 @@ type: change
 ## Nearby in Multimodal Input
 
 - Earlier: 2026-02-10 · Gemini CLI · [[Changes/Gemini CLI/2026-02-10-perf-core-optimize-token-calculation-and-add-support-for-multimodal-tool-respons|perf(core): optimize token calculation and add support for multimodal tool responses]]
-- Later: 2026-03-02 · Codex CLI · [[Changes/Codex CLI/2026-03-02-2-multimodal-input-changes-in-rust-v0-107-0|2 Multimodal Input changes in rust-v0.107.0]]
+- Later: 2026-02-23 · Open WebUI · [[Changes/Open WebUI/2026-02-23-text-file-type-detection-fix-typescript-and-other-text-files-that-were-mis-detec|📄 Text file type detection fix. TypeScript and other text files…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-09-25 · ChatGPT · [[Changes/ChatGPT/2023-09-25-you-can-now-show-chatgpt-one-or-more-images-troubleshoot-why-your-grill-won-t-st-e42bd6|Image input will be generally available to Plus users on all platforms]]
+- Earliest same-theme entry in the tracked set: 2023-09-19 · Dify · [[Changes/Dify/2023-09-19-add-video-to-cn-readme-by-crazywoola-in-https-github-com-langgenius-dify-pull-11|add video to cn readme]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

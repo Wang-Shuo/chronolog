@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 3f11a120eef9ac34a1a1ab3a11c3ad9429326f6e3f2d345226aa7b5514ecce80
+machine_hash: 1bf1dd4e13d4b5f069e62e1941d5b96b22451df9c697162b0aa813c8069f1a91
 product: claude-code
 product_name: Claude Code
 record:
@@ -46,12 +46,12 @@ record:
     prompt…
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-10-01-49130-move-content-filter-guidance-into-the-shared-responses-retry-handler-won-o|♯49130
-  Move content-filter guidance into the shared Responses retry handler @won-openai]]'
 - '[[Changes/Codex CLI/2026-10-07-2-collaboration-changes-in-rust-v0-161-0|2 Collaboration
   changes in rust-v0.161.0]]'
 - '[[Changes/Codex CLI/2026-10-08-2-collaboration-changes-in-rust-v0-162-0|2 Collaboration
   changes in rust-v0.162.0]]'
+- '[[Changes/Open WebUI/2026-10-10-13-collaboration-changes-in-v0-12-0|13 Collaboration
+  changes in v0.12.0]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-10-14-v2-1-300-github-412815061-c358fcd0|claude-code-2026-10-14-v2-1-300-github-412815061-c358fcd0]]'
 source_type: github_releases
 theme: collaboration
@@ -92,8 +92,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Collaboration
 
-- Earlier: 2026-10-08 · Codex CLI · [[Changes/Codex CLI/2026-10-08-2-collaboration-changes-in-rust-v0-162-0|2 Collaboration changes in rust-v0.162.0]]
-- Later: 2026-10-15 · Codex CLI · [[Changes/Codex CLI/2026-10-15-4-collaboration-changes-in-rust-v0-163-0|4 Collaboration changes in rust-v0.163.0]]
+- Earlier: 2026-10-10 · Open WebUI · [[Changes/Open WebUI/2026-10-10-13-collaboration-changes-in-v0-12-0|13 Collaboration changes in v0.12.0]]
+- Later: 2026-10-14 · Open WebUI · [[Changes/Open WebUI/2026-10-14-save-hidden-on-others-messages-in-a-chat-shared-with-allow-replies-editing-a-mes|💾 Save hidden on others' messages. In a chat shared with Allow replies, editing…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

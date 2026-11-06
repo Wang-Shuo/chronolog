@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 8f51503628105248d9c87618b12d6b820c34cb44c318dd5b2575590b6fa1593e
+machine_hash: 18713b16bdff41eb43e9da348c7779493aabb4d2ab76857af62f1267bd3b6d95
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -42,8 +42,7 @@ record:
   title: 'feat(subagent): Enable incremental output streaming'
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2025-08-29-2-agent-mode-changes-in-rust-v0-27-0|2 Agent Mode
-  changes in rust-v0.27.0]]'
+- '[[Changes/ElevenLabs/2025-09-01-agents-platform-e79cb5|Agents Platform]]'
 - '[[Changes/Codex CLI/2025-09-02-4-agent-mode-changes-in-rust-v0-28-0|4 Agent Mode
   changes in rust-v0.28.0]]'
 - '[[Changes/Codex CLI/2025-09-03-3089-docs-update-link-to-https-agents-md|♯3089 Docs:

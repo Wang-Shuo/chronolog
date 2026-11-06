@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 0d4280b643d80d3f28124d81a1195f4c2be8f68236e2b16d06285c8248c9c54a
+machine_hash: bff1a443b7831eefeb873a06edeab8361def52cc7082956fa7cecff076c901df
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -53,8 +53,7 @@ record:
   title: 6 Agent Mode changes in v0.1.15
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2025-07-25-5-agent-mode-changes-in-v0-1-14|5 Agent Mode changes
-  in v0.1.14]]'
+- '[[Changes/ElevenLabs/2025-07-28-agents-platform-504721|Agents Platform]]'
 - '[[Changes/Cursor/2025-07-29-agents-can-now-use-your-native-terminal-a-new-terminal-will-be-created-when-need|Share
   terminal with Agent]]'
 - '[[Changes/Cursor/2025-07-29-2-agent-mode-changes-in-1-3|2 Agent Mode changes in

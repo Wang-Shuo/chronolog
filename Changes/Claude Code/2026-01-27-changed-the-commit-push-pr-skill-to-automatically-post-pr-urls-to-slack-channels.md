@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 66f1e10e1dd2f405d85ec907310ca6aa3bf0db419be84f556455dcee2de907ed
+machine_hash: 71e888d1eeba6e9710297c15549a16257a6e9884b6d81762a01ac1b61d910358
 product: claude-code
 product_name: Claude Code
 record:
@@ -43,10 +43,9 @@ record:
     channels…
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-01-24-plugin-skills-work-in-agent-responses|Plugin
-  skills work in agent responses]]'
 - '[[Changes/Codex CLI/2026-01-25-3-apps-and-integrations-changes-in-rust-v0-90-0|3
   Apps and Integrations changes in rust-v0.90.0]]'
+- '[[Changes/ElevenLabs/2026-01-26-sdk-releases|SDK Releases]]'
 - '[[Changes/GitHub Copilot CLI/2026-01-26-3-apps-and-integrations-changes-in-v0-0-395|3
   Apps and Integrations changes in v0.0.395]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-01-27-v2-1-20-github-280123443-38431f59|claude-code-2026-01-27-v2-1-20-github-280123443-38431f59]]'

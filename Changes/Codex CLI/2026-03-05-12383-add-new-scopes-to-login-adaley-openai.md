@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 90ac74c8d177c64d6de6a529250d474f962cfc0074ffd04803439a36d498fc80
+machine_hash: d5a7ae862d401186a028c34a590b7ab57e4a01a690698f1056df4f96475fd7ce
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -42,10 +42,10 @@ record:
   title: '#12383 add new scopes to login @adaley-openai'
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-02-28-added-manual-url-paste-fallback-during-mcp-oauth-authentication-if-the-automatic|Added
-  manual URL paste fallback during MCP OAuth authentication]]'
 - '[[Changes/Codex CLI/2026-03-02-3-account-and-access-changes-in-rust-v0-107-0|3
   Account and Access changes in rust-v0.107.0]]'
+- '[[Changes/v0/2026-03-04-added-sign-in-dialog-on-public-chats-for-logged-out-users|Added
+  sign-in dialog on public chats for logged-out users]]'
 - '[[Changes/Claude Code/2026-03-05-2-account-and-access-changes-in-v2-1-69|2 Account
   and Access changes in v2.1.69]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-03-05-rust-v0-110-0-github-293239637-d5d06302|codex-cli-2026-03-05-rust-v0-110-0-github-293239637-d5d06302]]'

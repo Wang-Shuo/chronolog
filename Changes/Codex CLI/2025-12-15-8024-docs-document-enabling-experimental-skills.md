@@ -4,20 +4,20 @@ date: '2025-12-15'
 description: 'Codex CLI · 2025-12-15 · Files and Data: #8024 docs: document enabling
   experimental skills'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-07-06-we-re-rolling-out-code-interpreter-to-all-chatgpt-plus-users-over-the-next-week-66255e|Code
-    interpreter is now rolling out in beta on web]]'
+  first_in_tracked: '[[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2
+    Files and Data changes in 0.2.2]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 893
+  lag_days: 935
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 08863bb95a3bd452309a6d56d02c56761e0afb030f1655a58f3e95bef0756ef5
+machine_hash: 7f0c61c4bfa8b04efa3101d42956adfd844435fa296911db4c0919f53b67d598
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -42,12 +42,12 @@ record:
   title: '#8024 docs: document enabling experimental skills'
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2025-10-29-feat-docs-add-initial-release-confidence-document-by-galz10-in-https-github-com|feat(docs):
-  add initial release confidence document]]'
-- '[[Changes/Gemini CLI/2025-11-04-document-todo-tool-by-scidomino-in-https-github-com-google-gemini-gemini-cli-pul|Document
-  todo tool]]'
-- '[[Changes/Cline/2025-11-27-docs-document-proxy-settings-by-dominiccooney-in-https-github-com-cline-cline-pu|docs:
-  Document proxy settings]]'
+- "[[Changes/Open WebUI/2025-12-02-sentencetransformers-embedding-initialization-was-fixed-by-updating-the-transfor|\U0001F40D
+  SentenceTransformers embedding initialization was fixed by updating…]]"
+- '[[Changes/Dify/2025-12-11-5-files-and-data-changes-in-1-11-0|5 Files and Data changes
+  in 1.11.0]]'
+- '[[Changes/Dify/2025-12-12-perf-optimize-save-document-with-dataset-id-by-fatelei-in-https-github-com-langg|perf:
+  optimize save_document_with_dataset_id]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2025-12-15-rust-v0-73-0-github-270562118-b6e8102c|codex-cli-2025-12-15-rust-v0-73-0-github-270562118-b6e8102c]]'
 source_type: github_releases
 theme: file-data
@@ -79,14 +79,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Files and Data
 
-- Earlier: 2025-11-27 · Cline · [[Changes/Cline/2025-11-27-docs-document-proxy-settings-by-dominiccooney-in-https-github-com-cline-cline-pu|docs: Document proxy settings]]
-- Later: 2026-01-09 · Cline · [[Changes/Cline/2026-01-09-revert-8341-due-to-regressions-in-diff-view-document-truncation-see-8423-8429|Revert ♯8341 due to regressions in diff view/document truncation (see ♯8423, ♯8429)]]
+- Earlier: 2025-12-12 · Dify · [[Changes/Dify/2025-12-12-perf-optimize-save-document-with-dataset-id-by-fatelei-in-https-github-com-langg|perf: optimize save_document_with_dataset_id]]
+- Later: 2025-12-15 · ElevenLabs · [[Changes/ElevenLabs/2025-12-15-knowledge-base|Knowledge Base]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-07-06 · ChatGPT · [[Changes/ChatGPT/2023-07-06-we-re-rolling-out-code-interpreter-to-all-chatgpt-plus-users-over-the-next-week-66255e|Code interpreter is now rolling out in beta on web]]
+- Earliest same-theme entry in the tracked set: 2023-05-25 · Dify · [[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2 Files and Data changes in 0.2.2]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

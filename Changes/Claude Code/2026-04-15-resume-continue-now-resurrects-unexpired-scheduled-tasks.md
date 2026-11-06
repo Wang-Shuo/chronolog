@@ -4,20 +4,20 @@ date: '2026-04-15'
 description: 'Claude Code · 2026-04-15 · Automation and Scheduling: `--resume`/`--continue`
   now resurrects unexpired scheduled tasks'
 diffusion:
-  first_in_tracked: '[[Changes/OpenHands/2024-09-04-better-syntax-error-loop-detection-by-tobitege-in-https-github-com-all-hands-ai|Better
-    syntax error loop detection]]'
+  first_in_tracked: '[[Changes/Dify/2024-01-02-add-data-clean-schedule-by-johnjyong-in-https-github-com-langgenius-dify-pull-18|Add
+    data clean schedule]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 588
+  lag_days: 834
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 7e877ecbfcd4a4f38763ceda0c3a80f25c4dca454ee8cf0893b1bf23c5004957
+machine_hash: d2220d151f1889ba17ab6b2f1ea979c574375c9fd1e7031dc3bf342f314c765e
 product: claude-code
 product_name: Claude Code
 record:
@@ -41,10 +41,9 @@ record:
   title: '`--resume`/`--continue` now resurrects unexpired scheduled tasks'
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2026-04-01-test-core-migrate-hook-tests-to-scheduler-by-abhipatel12-in-https-github-com-goo|test(core):
-  migrate hook tests to scheduler]]'
 - '[[Changes/Cursor/2026-04-02-reduced-the-browser-automation-tool-surface-and-tightened-the-subagent-to-use-br|Reduced
   the browser automation tool surface and tightened the subagent to use…]]'
+- '[[Changes/Lovable/2026-04-02-project-comments|Project comments]]'
 - '[[Changes/Claude Code/2026-04-13-proactive-is-now-an-alias-for-loop|/proactive
   is now an alias for /loop]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-04-15-v2-1-110-github-309583669-83ce1e59|claude-code-2026-04-15-v2-1-110-github-309583669-83ce1e59]]'
@@ -89,7 +88,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2024-09-04 · OpenHands · [[Changes/OpenHands/2024-09-04-better-syntax-error-loop-detection-by-tobitege-in-https-github-com-all-hands-ai|Better syntax error loop detection]]
+- Earliest same-theme entry in the tracked set: 2024-01-02 · Dify · [[Changes/Dify/2024-01-02-add-data-clean-schedule-by-johnjyong-in-https-github-com-langgenius-dify-pull-18|Add data clean schedule]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 3550607c786f2ce5fd873871e7e414f0ec0e10e7d0f9c6ad0f3693eaa32793cc
+machine_hash: a2de5b60e3777654ecd009b1b52804529937783f7d0dc4b78b219943aaf05777
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -43,11 +43,11 @@ record:
   title: Improved line wrapping and alignment when rendering file diffs
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2025-10-09-tui-breathing-spinner-on-true-color-terms-by-nornagon-openai-in-https-github-com|TUI
-  Breathing spinner on true-color terms]]'
 - '[[Changes/Windsurf/2025-10-10-codemaps|Codemaps]]'
 - '[[Changes/Cline/2025-10-16-4-interface-experience-changes-in-v3-33-0|4 Interface
   Experience changes in v3.33.0]]'
+- '[[Changes/Open WebUI/2025-10-16-3-interface-experience-changes-in-v0-6-34|3 Interface
+  Experience changes in v0.6.34]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2025-10-21-v0-0-347-github-255876346-cb290074|github-copilot-cli-2025-10-21-v0-0-347-github-255876346-cb290074]]'
 source_type: github_releases
 theme: interface-experience
@@ -76,8 +76,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2025-10-16 · Cline · [[Changes/Cline/2025-10-16-4-interface-experience-changes-in-v3-33-0|4 Interface Experience changes in v3.33.0]]
-- Later: 2025-10-22 · Gemini CLI · [[Changes/Gemini CLI/2025-10-22-2-interface-experience-changes-in-v0-10-0|2 Interface Experience changes in v0.10.0]]
+- Earlier: 2025-10-16 · Open WebUI · [[Changes/Open WebUI/2025-10-16-3-interface-experience-changes-in-v0-6-34|3 Interface Experience changes in v0.6.34]]
+- Later: 2025-10-22 · Dify · [[Changes/Dify/2025-10-22-3-interface-experience-changes-in-1-9-2|3 Interface Experience changes in 1.9.2]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

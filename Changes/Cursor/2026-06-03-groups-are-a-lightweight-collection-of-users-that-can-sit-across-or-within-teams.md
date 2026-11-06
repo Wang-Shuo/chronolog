@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: 82ece8d017f39ec1cf95d7e911326ab5d840cbce8bf71f48edd71caca7b93bde
+machine_hash: 792276014ebda6681408c4554162a9b3f39e0d191a64d628905f4d8f9249d6a2
 product: cursor
 product_name: Cursor
 record:
@@ -58,8 +58,8 @@ record:
   title: Groups
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-06-02-otel-resource-attributes-values-are-now-included-as-labels-on-metric-datapoints|OTEL_RESOURCE_ATTRIBUTES
-  values are now included as labels on metric datapoints…]]'
+- '[[Changes/Lovable/2026-06-02-move-projects-to-folders-from-chat|Move projects to
+  folders from chat]]'
 - '[[Changes/Claude Code/2026-06-03-quieter-startup-notices-group-by-severity-and-session-info-and-announcements-sha|Quieter
   startup: notices group by severity, and session info and announcements share…]]'
 - '[[Changes/Cursor/2026-06-03-3-collaboration-changes-in-organizations-for-cursor-enterprise|3

@@ -4,20 +4,20 @@ date: '2026-03-07'
 description: 'Claude Code · 2026-03-07 · Voice and Audio: Added `voice:pushToTalk`
   keybinding to make the voice activation key rebindable in `keybindings.json` (default…'
 diffusion:
-  first_in_tracked: '[[Changes/Aider/2023-08-11-voice-to-code-https-aider-chat-docs-voice-html-support-which-allows-you-to-code|Voice-to-code((source
-    link) support, which allows you…]]'
+  first_in_tracked: '[[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2
+    Voice and Audio changes in 0.3.7]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 939
+  lag_days: 971
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 999338c480d536b9588af72cd28649e29f75053cc64d6574e0661498e02e219c
+machine_hash: 0dacba2ebc08f8c061222e0e6f92118bf3872e867a6405f2e1bcdbf6fdea2d5e
 product: claude-code
 product_name: Claude Code
 record:
@@ -53,8 +53,7 @@ record:
   title: Added `voice:pushToTalk` keybinding to make the voice activation key rebindable…
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-03-02-5-voice-and-audio-changes-in-rust-v0-107-0|5 Voice
-  and Audio changes in rust-v0.107.0]]'
+- '[[Changes/ElevenLabs/2026-03-02-music|Music]]'
 - '[[Changes/Claude Code/2026-03-05-3-voice-and-audio-changes-in-v2-1-69|3 Voice and
   Audio changes in v2.1.69]]'
 - '[[Changes/Codex CLI/2026-03-05-2-voice-and-audio-changes-in-rust-v0-111-0|2 Voice
@@ -93,13 +92,13 @@ type: change
 ## Nearby in Voice and Audio
 
 - Earlier: 2026-03-05 · Codex CLI · [[Changes/Codex CLI/2026-03-05-2-voice-and-audio-changes-in-rust-v0-111-0|2 Voice and Audio changes in rust-v0.111.0]]
-- Later: 2026-03-10 · Claude Code · [[Changes/Claude Code/2026-03-10-improved-voice-input-transcription-accuracy-for-repo-names-and-common-dev-terms|Improved voice input transcription accuracy for repo names and common dev terms…]]
+- Later: 2026-03-08 · Open WebUI · [[Changes/Open WebUI/2026-03-08-2-voice-and-audio-changes-in-v0-8-9|2 Voice and Audio changes in v0.8.9]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-08-11 · Aider · [[Changes/Aider/2023-08-11-voice-to-code-https-aider-chat-docs-voice-html-support-which-allows-you-to-code|Voice-to-code((source link) support, which allows you…]]
+- Earliest same-theme entry in the tracked set: 2023-07-10 · Dify · [[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2 Voice and Audio changes in 0.3.7]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

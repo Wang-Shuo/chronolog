@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: bd0b9112c57b53535639f68dc0b4bdb698fa6ed440e314ca1b9872a3e1769c40
+machine_hash: 94e75e3f9668bfa39bde0509b341c93ecf1bbbecd8cfa55dee09e97a9cbed62c
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -93,7 +93,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.138.0
 ## Nearby in Account and Access
 
 - Earlier: 2026-06-08 · Claude Code · [[Changes/Claude Code/2026-06-08-improved-the-error-message-shown-when-your-organization-has-disabled-api-key-aut|Improved the error message shown when your organization has disabled API key…]]
-- Later: 2026-06-09 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-06-09-mcp-oauth-re-authentication-correctly-uses-the-saved-oauth-client-id-for-remote|MCP OAuth re-authentication correctly uses the saved OAuth client ID for remote servers]]
+- Later: 2026-06-08 · v0 · [[Changes/v0/2026-06-08-2-account-and-access-changes-in-changelog-update|2 Account and Access changes in Changelog update]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

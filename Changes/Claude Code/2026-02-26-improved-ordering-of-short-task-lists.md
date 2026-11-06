@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 17dfdeddf66232afb1a7112ae00d597c587c98bc8c59f2143a2a683c2e504595
+machine_hash: 8b4e043ba5abe9689d3f52f0d081d3354f9bd144fac6833e7a511d28019258cf
 product: claude-code
 product_name: Claude Code
 record:
@@ -42,8 +42,8 @@ record:
   title: Improved ordering of short task lists
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-02-20-add-configurable-status-line-support-to-display-dynamic-session-information-via|Add
-  configurable status line support to display dynamic session information…]]'
+- '[[Changes/Open WebUI/2026-02-23-8-interface-experience-changes-in-v0-8-4|8 Interface
+  Experience changes in v0.8.4]]'
 - '[[Changes/Codex CLI/2026-02-25-8-interface-experience-changes-in-rust-v0-105-0|8
   Interface Experience changes in rust-v0.105.0]]'
 - '[[Changes/Gemini CLI/2026-02-25-perf-ui-optimize-table-rendering-by-memoizing-styled-characters-by-devr0306-in-h|perf(ui):

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 4312d1c4e76178d04685338435e23e6f8d07b44e0a4e9757d77120973a904265
+machine_hash: 4f2652c16ce84cf4e252108adcb119685628cf61307cc9c7524baa5a9e6a0c36
 product: cursor
 product_name: Cursor
 record:
@@ -41,12 +41,12 @@ record:
   title: '0.47.2: Cursor Tab accepts work with single-line selections'
   type: change
 related_changes:
-- '[[Changes/OpenHands/2025-02-13-add-success-failure-indicators-for-file-read-edit-operations-by-neubig-in-https|Add
-  success/failure indicators for file read/edit operations]]'
-- '[[Changes/Cursor/2025-02-19-ignore-files-cursorignore-now-blocks-files-from-being-added-in-chat-or-sent-up-f|Ignore
-  files: .cursorignore now blocks files from being added in chat or sent up…]]'
-- '[[Changes/Cursor/2025-02-19-tab-rebinding-tab-suggestions-can-now-be-rebound-to-a-different-keybinding-using|Tab
-  rebinding: Tab suggestions can now be rebound to a different keybinding using…]]'
+- '[[Changes/Lovable/2025-02-28-edit-mode-auto-close-after-editing-an-element|''Edit''
+  mode auto close after editing an element]]'
+- '[[Changes/Lovable/2025-02-28-introducing-code-viewer-to-lovable-https-x-com-lovable-dev-status-18955001518897|Introducing
+  Code viewer to Lovable((source link)]]'
+- '[[Changes/Lovable/2025-03-07-dev-mode-https-x-com-lovable-dev-status-1897693825767768542-easily-edit-any-code|Dev
+  Mode:((source link) Easily edit any…]]'
 source_release: '[[Releases/Cursor/cursor-2025-03-11-0-47-x-https-cursor-com-changelog-0-47-x-eebf8f2e|cursor-2025-03-11-0-47-x-https-cursor-com-changelog-0-47-x-eebf8f2e]]'
 source_type: cursor_changelog
 theme: editor-experience
@@ -82,8 +82,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2025-02-19 · Cursor · [[Changes/Cursor/2025-02-19-tab-rebinding-tab-suggestions-can-now-be-rebound-to-a-different-keybinding-using|Tab rebinding: Tab suggestions can now be rebound to a different keybinding using…]]
-- Later: 2025-03-21 · Aider · [[Changes/Aider/2025-03-21-added-commands-to-switch-between-model-types-editor-model-for-editor-model-and-w|Added commands to switch between model types]]
+- Earlier: 2025-03-07 · Lovable · [[Changes/Lovable/2025-03-07-dev-mode-https-x-com-lovable-dev-status-1897693825767768542-easily-edit-any-code|Dev Mode:((source link) Easily edit any…]]
+- Later: 2025-03-13 · Gemini · [[Changes/Gemini/2025-03-13-ask-gemini-to-remember-the-things-you-care-about-now-rolling-out-to-more-users-a|Ask Gemini to remember the things you care about]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

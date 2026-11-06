@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: bd01e23795fc685e5dd62442a71c2fb459364f1107621bfa40fb3abb99733f79
+machine_hash: 352bd028bc0a1211e2b8f5eb3d8cfef10e4778a2dd358fc8f60eae0db6e4ede2
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -43,9 +43,10 @@ record:
   title: Gemini 3 Pro is now available in GitHub Copilot CLI
   type: change
 related_changes:
-- '[[Changes/Windsurf/2025-11-14-gpt-5-1-priority-mode|GPT-5.1 Priority Mode]]'
-- '[[Changes/Cline/2025-11-18-6-model-support-changes-in-v3-38-0|6 Model Support changes
-  in v3.38.0]]'
+- '[[Changes/Gemini/2025-11-18-gemini-3-our-most-intelligent-model-yet-is-available-to-everyone-in-the-app|Gemini
+  3, our most intelligent model yet, is available to everyone in the app]]'
+- '[[Changes/Gemini/2025-11-18-introducing-visual-layout-and-dynamic-view-in-gemini-labs|Introducing
+  visual layout and dynamic view in Gemini Labs]]'
 - "[[Changes/Gemini CLI/2025-11-18-feat-launch-gemini-3-in-gemini-cli-by-skeshive-in-https-github-com-google-gemini|feat:
   launch Gemini 3 in Gemini CLI \U0001F680\U0001F680\U0001F680]]"
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2025-11-18-v0-0-361-github-263361181-db4c53c1|github-copilot-cli-2025-11-18-v0-0-361-github-263361181-db4c53c1]]'

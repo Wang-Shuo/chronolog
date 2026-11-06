@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: d323d11435f948698fc1c318f3dfa8d1b68367631b601898fc8640955d42663c
+machine_hash: 2752b08044c6fc045d9717abeece6f5f77e1e6364c6c49b7ba5e20618dfb73d3
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -44,12 +44,12 @@ record:
   title: 2 Context Window changes in v0.10.0
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2025-10-09-make-context-line-permanent-by-dedrisian-oai-in-https-github-com-openai-codex-pu|Make
-  context line permanent]]'
-- '[[Changes/Cline/2025-10-16-fixing-issue-where-checkpoint-restore-doesn-t-work-with-auto-compact-by-0xtoshii|fixing
-  issue where checkpoint restore doesn''t work with auto-compact]]'
+- "[[Changes/Open WebUI/2025-10-16-focused-retrieval-mode-now-works-correctly-preventing-the-system-from-forcing-fu|\U0001F4DA
+  Focused retrieval mode now works correctly, preventing the system from forcing…]]"
 - '[[Changes/Windsurf/2025-10-16-fast-context-introduced-fast-context-subagent-powered-by-swe-grep-enabling-agent|Fast
   Context: Introduced Fast Context subagent powered by SWE-grep, enabling…]]'
+- '[[Changes/Dify/2025-10-22-3-context-window-changes-in-1-9-2|3 Context Window changes
+  in 1.9.2]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2025-10-22-v0-10-0-github-256434073-b3dd91c0|gemini-cli-2025-10-22-v0-10-0-github-256434073-b3dd91c0]]'
 source_type: github_releases
 theme: context-window
@@ -93,7 +93,7 @@ Source: https://github.com/google-gemini/gemini-cli/releases/tag/v0.10.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Context Window
 
-- Earlier: 2025-10-16 · Windsurf · [[Changes/Windsurf/2025-10-16-fast-context-introduced-fast-context-subagent-powered-by-swe-grep-enabling-agent|Fast Context: Introduced Fast Context subagent powered by SWE-grep, enabling…]]
+- Earlier: 2025-10-22 · Dify · [[Changes/Dify/2025-10-22-3-context-window-changes-in-1-9-2|3 Context Window changes in 1.9.2]]
 - Later: 2025-10-23 · Cline · [[Changes/Cline/2025-10-23-auto-compact-updates-by-0xtoshii-in-https-github-com-cline-cline-pull-6909|auto compact updates]]
 <!-- chronolog:end -->
 

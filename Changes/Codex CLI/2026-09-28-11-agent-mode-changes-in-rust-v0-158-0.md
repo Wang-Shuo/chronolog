@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 4de71cfa73c9ee29a1d69b4bd3c43ce7ba2b4e10b16beb1d7975011ca9695e49
+machine_hash: 72e395f6994986af7eaa3319aaea7818e89cd817f6abfa26d4ac1792ae88b908
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -135,7 +135,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.158.0
 ## Nearby in Agent Mode
 
 - Earlier: 2026-09-28 · Claude Code · [[Changes/Claude Code/2026-09-28-added-a-yes-but-ask-again-next-time-answer-to-auto-mode-s-prompt-before-a-read-o|Added a "Yes, but ask again next time" answer to auto mode's prompt before a read…]]
-- Later: 2026-09-28 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-09-28-queue-exit-commands-while-an-agent-response-is-still-running|Queue exit commands while an agent response is still running]]
+- Later: 2026-09-28 · ElevenLabs · [[Changes/ElevenLabs/2026-09-28-elevenagents|ElevenAgents]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

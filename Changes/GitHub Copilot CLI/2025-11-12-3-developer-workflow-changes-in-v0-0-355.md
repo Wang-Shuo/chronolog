@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 9db9328c24fb2158a4c2f91164777ac296489dce471d8050251b4bfd95afd397
+machine_hash: 16ec01e8bf3f8b4f44cfe422ad2afa8237bca1ea3025b704cb3fbf79f99cdc95
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -90,7 +90,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v0.0.355
 ## Nearby in Developer Workflow
 
 - Earlier: 2025-11-12 · Gemini CLI · [[Changes/Gemini CLI/2025-11-12-extension-reloading-update-custom-commands-add-enable-disable-command-by-jakemac|Extension Reloading: Update custom commands, add enable/disable command]]
-- Later: 2025-11-13 · Cline · [[Changes/Cline/2025-11-13-3-developer-workflow-changes-in-v3-37-0|3 Developer Workflow changes in v3.37.0]]
+- Later: 2025-11-12 · Ollama · [[Changes/Ollama/2025-11-12-for-issues-or-feedback-on-using-vulkan-with-ollama-create-an-issue-labelled-vulk|For issues or feedback on using Vulkan with Ollama, create an issue labelled…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

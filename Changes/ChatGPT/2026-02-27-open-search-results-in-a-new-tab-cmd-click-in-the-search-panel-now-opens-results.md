@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: search-browsing
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: b31698bbac3562cfa13597b637acd3d314a361cde7177cb5d99460be1c7cba11
+machine_hash: 3c24b8a121c7ab0d6871adb492f78aa0aa32a0cc4ad6564174cd6a367604a28a
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -58,8 +58,8 @@ record:
   title: Open search results in a new tab
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-02-17-11224-chore-clarify-web-search-deprecation-notices-and-consolidate-tests-sayan-o|♯11224
-  chore: clarify web_search deprecation notices and consolidate tests @sayan-oai]]'
+- '[[Changes/Ollama/2026-02-24-ollama-s-app-will-now-allow-models-that-support-tools-to-use-web-search-capabili|Ollama''s
+  app will now allow models that support tools to use web search capabilities]]'
 - '[[Changes/Gemini CLI/2026-02-25-introduce-limits-for-search-results-by-gundermanc-in-https-github-com-google-gem|Introduce
   limits for search results]]'
 - '[[Changes/GitHub Copilot CLI/2026-02-25-add-research-command-for-deep-research-with-exportable-reports|Add
@@ -100,7 +100,7 @@ type: change
 ## Nearby in Search and Browsing
 
 - Earlier: 2026-02-25 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-02-25-add-research-command-for-deep-research-with-exportable-reports|Add /research command for deep research with exportable reports]]
-- Later: 2026-03-05 · Codex CLI · [[Changes/Codex CLI/2026-03-05-13538-chore-add-web-search-tool-type-for-image-support-sayan-oai|♯13538 chore: add web_search_tool_type for image support @sayan-oai]]
+- Later: 2026-03-01 · Open WebUI · [[Changes/Open WebUI/2026-03-01-2-search-and-browsing-changes-in-v0-8-6|2 Search and Browsing changes in v0.8.6]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: search-browsing
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 7988feb1364647c3bc31a31274579297ddec8cb6331ca825149de4265edac63b
+machine_hash: 3ad7e00fb7e2469c65008170a7cebf7eddac6bee062dda2da9d4353c808e729e
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -101,7 +101,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.161.0
 ## Nearby in Search and Browsing
 
 - Earlier: 2026-10-05 · Claude Code · [[Changes/Claude Code/2026-10-05-changed-the-interactive-session-s-websearch-budget-to-refill-over-time-100-calls|Changed the interactive session's WebSearch budget to refill over time (100 calls/hour]]
-- Later: 2026-10-19 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-10-19-2-search-and-browsing-changes-in-v1-0-100|2 Search and Browsing changes in v1.0.100]]
+- Later: 2026-10-10 · Open WebUI · [[Changes/Open WebUI/2026-10-10-4-search-and-browsing-changes-in-v0-12-0|4 Search and Browsing changes in v0.12.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

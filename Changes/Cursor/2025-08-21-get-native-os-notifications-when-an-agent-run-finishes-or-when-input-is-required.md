@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: 322a0d583c957da0164e64eef92afea666349bfcc16967d2e3a65fad35d9511a
+machine_hash: 716c083f7f8b5be47768afebdcccc382b0269d5208bf9a8ae293b0f46cef3092
 product: cursor
 product_name: Cursor
 record:
@@ -89,7 +89,7 @@ type: change
 ## Nearby in Agent Mode
 
 - Earlier: 2025-08-21 · Cline · [[Changes/Cline/2025-08-21-adding-task-progress-param-to-the-summarize-task-tool-call-by-0xtoshii-in-https|adding task_progress param to the summarize task tool call]]
-- Later: 2025-08-26 · Codex CLI · [[Changes/Codex CLI/2025-08-26-5-agent-mode-changes-in-rust-v0-24-0|5 Agent Mode changes in rust-v0.24.0]]
+- Later: 2025-08-25 · ElevenLabs · [[Changes/ElevenLabs/2025-08-25-sdk-releases|SDK Releases]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

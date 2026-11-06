@@ -4,20 +4,20 @@ date: '2025-08-07'
 description: 'ChatGPT · 2025-08-07 · Voice and Audio: Today we’re rolling out improvements
   to Voice Mode to make it more accessible and useful for everyone. It also now…'
 diffusion:
-  first_in_tracked: '[[Changes/Aider/2023-08-11-voice-to-code-https-aider-chat-docs-voice-html-support-which-allows-you-to-code|Voice-to-code((source
-    link) support, which allows you…]]'
+  first_in_tracked: '[[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2
+    Voice and Audio changes in 0.3.7]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 727
+  lag_days: 759
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 601d256636d6b38bffb50832d40937e93cb76af088d579d36674f7ece58af69b
+machine_hash: bd547f66cf715613463accdbb0d4419d16d0dd70d6be20d79d016c46cae532ad
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -61,11 +61,9 @@ record:
   title: ChatGPT Voice updates
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2025-07-16-record-live-conversations-like-team-meetings-or-voice-notes-and-turn-those-into|Record
-  live conversations like team meetings or voice notes, and turn those…]]'
-- '[[Changes/ChatGPT/2025-07-17-the-advanced-voice-upgrades-we-announced-on-june-7th-are-now-rolling-out-to-chat|Updates
-  to Advanced Voice Mode for Free tier users]]'
-- '[[Changes/Windsurf/2025-07-17-voice|Voice]]'
+- '[[Changes/ElevenLabs/2025-07-28-text-to-voice|Text to Voice]]'
+- '[[Changes/ElevenLabs/2025-07-28-speech-to-text-b64b2f|Speech to Text]]'
+- '[[Changes/ElevenLabs/2025-08-04-voice-management|Voice Management]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-08-07-chatgpt-voice-updates-1159fad7|chatgpt-2025-08-07-chatgpt-voice-updates-1159fad7]]'
 source_type: chatgpt_changelog
 theme: voice
@@ -92,14 +90,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Voice and Audio
 
-- Earlier: 2025-07-17 · Windsurf · [[Changes/Windsurf/2025-07-17-voice|Voice]]
+- Earlier: 2025-08-04 · ElevenLabs · [[Changes/ElevenLabs/2025-08-04-voice-management|Voice Management]]
 - Later: 2025-08-07 · ChatGPT · [[Changes/ChatGPT/2025-08-07-you-can-now-set-an-accent-color-that-applies-to-elements-in-chatgpt-including-yo-865968|Accent Colors]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-08-11 · Aider · [[Changes/Aider/2023-08-11-voice-to-code-https-aider-chat-docs-voice-html-support-which-allows-you-to-code|Voice-to-code((source link) support, which allows you…]]
+- Earliest same-theme entry in the tracked set: 2023-07-10 · Dify · [[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2 Voice and Audio changes in 0.3.7]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

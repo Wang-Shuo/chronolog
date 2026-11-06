@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: b7cab923e012f6409dc7e5a84a5e5e87a023713b8ce04bc935e699528b2de4f3
+machine_hash: 46ebc887da0ac3434a61caf9fbe678ed7a1b5c9903defdb187dc4abf3cd4ba04
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -41,12 +41,12 @@ record:
   title: '#16021 Fix /copy regression in tui_app_server turn completion @etraut-openai'
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-03-26-15480-use-shift-left-to-edit-queued-messages-in-tmux-charley-oai|♯15480
-  Use Shift+Left to edit queued messages in tmux @charley-oai]]'
 - '[[Changes/GitHub Copilot CLI/2026-03-26-diff-view-correctly-renders-all-lines-when-intra-line-highlighting-is-present|/diff
   view correctly renders all lines when intra-line highlighting is present]]'
 - '[[Changes/Claude Code/2026-03-27-added-jj-and-sl-to-vcs-directory-exclusion-lists-so-grep-and-file-autocomplete-d|Added
   .jj and .sl to VCS directory exclusion lists so Grep and file autocomplete…]]'
+- '[[Changes/Dify/2026-03-27-2-editor-experience-changes-in-1-13-3|2 Editor Experience
+  changes in 1.13.3]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-03-31-rust-v0-118-0-github-303805427-02df59b6|codex-cli-2026-03-31-rust-v0-118-0-github-303805427-02df59b6]]'
 source_type: github_releases
 theme: editor-experience
@@ -87,7 +87,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2026-03-27 · Claude Code · [[Changes/Claude Code/2026-03-27-added-jj-and-sl-to-vcs-directory-exclusion-lists-so-grep-and-file-autocomplete-d|Added .jj and .sl to VCS directory exclusion lists so Grep and file autocomplete…]]
+- Earlier: 2026-03-27 · Dify · [[Changes/Dify/2026-03-27-2-editor-experience-changes-in-1-13-3|2 Editor Experience changes in 1.13.3]]
 - Later: 2026-04-01 · Claude Code · [[Changes/Claude Code/2026-04-01-changed-edit-to-work-on-files-viewed-via-bash-with-sed-n-or-cat-without-requirin|Changed Edit to work on files viewed via Bash with sed -n or cat, without…]]
 <!-- chronolog:end -->
 

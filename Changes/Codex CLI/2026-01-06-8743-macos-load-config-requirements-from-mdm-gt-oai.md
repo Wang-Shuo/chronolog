@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 12d40b8083d8c6ca10280418af036b62ccf3eb6455c127ce6937ecb35de75cce
+machine_hash: 098b79968d3d270886e8804b0bcb7e8d91bc8baa6d49ee0171ebcfdf4f92e63e
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -41,8 +41,7 @@ record:
   title: '#8743 (MacOS) Load config requirements from MDM @gt-oai'
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2025-12-13-2-mobile-and-desktop-changes-in-rust-v0-72-0|2 Mobile
-  and Desktop changes in rust-v0.72.0]]'
+- '[[Changes/ElevenLabs/2025-12-15-android-sdk|Android SDK]]'
 - '[[Changes/Codex CLI/2025-12-18-8084-chore-ci-drop-homebrew-origin-main-workaround-for-macos-runners|♯8084
   chore(ci): drop Homebrew origin/main workaround for macOS runners]]'
 - '[[Changes/Codex CLI/2025-12-19-4-mobile-and-desktop-changes-in-rust-v0-76-0|4 Mobile

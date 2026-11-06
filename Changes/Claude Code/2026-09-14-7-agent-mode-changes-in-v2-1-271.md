@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: f26083e9145eedabbd9c6afa71adee883f4fe5856a8ea72ea63410f2775b0888
+machine_hash: 9281b72e22bf0010e35ccd30136d7d88b6caeb24c1281a51e4bc0d312ffc5487
 product: claude-code
 product_name: Claude Code
 record:
@@ -64,9 +64,9 @@ record:
   title: 7 Agent Mode changes in v2.1.271
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-09-10-a-project-runs-on-its-own-computer-in-the-cloud-so-closing-your-laptop-doesn-t-s|Powered
-  by Cloud Agents]]'
 - '[[Changes/Cursor/2026-09-10-subscriptions|Subscriptions]]'
+- '[[Changes/Dify/2026-09-10-42-agent-mode-changes-in-1-17-1|42 Agent Mode changes
+  in 1.17.1]]'
 - '[[Changes/Claude Code/2026-09-11-2-agent-mode-changes-in-v2-1-269|2 Agent Mode
   changes in v2.1.269]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-14-v2-1-271-github-388664071-570fd44f|claude-code-2026-09-14-v2-1-271-github-388664071-570fd44f]]'
@@ -123,7 +123,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.271
 ## Nearby in Agent Mode
 
 - Earlier: 2026-09-11 · Claude Code · [[Changes/Claude Code/2026-09-11-2-agent-mode-changes-in-v2-1-269|2 Agent Mode changes in v2.1.269]]
-- Later: 2026-09-15 · Claude Code · [[Changes/Claude Code/2026-09-15-changed-auto-mode-on-bedrock-vertex-and-foundry-to-use-the-local-classifier-by-d|Changed auto mode on Bedrock, Vertex and Foundry to use the local classifier…]]
+- Later: 2026-09-14 · ElevenLabs · [[Changes/ElevenLabs/2026-09-14-elevenagents|ElevenAgents]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

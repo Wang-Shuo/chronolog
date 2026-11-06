@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 1f9b37fed397bd1dfa32342520248789768b57fdd795349a0371800e40147191
+machine_hash: aa4a927f5ccdf53e2c8c2d84e80c19d7e9b7bfb6d66f07671b8476801651fbaa
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -97,12 +97,11 @@ record:
   title: ChatGPT launches OpenAI o3-pro—available now for Pro users and in our API
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-06-04-max-mode-is-now-available-for-gemini-2-5-flash|Max
-  mode is now available for Gemini 2.5 Flash]]'
-- '[[Changes/Cline/2025-06-05-3-model-support-changes-in-v3-17-10|3 Model Support
-  changes in v3.17.10]]'
 - '[[Changes/Cline/2025-06-05-add-support-for-gemini-2-5-pro-preview-06-05-model-to-vertex-ai-and-google-gemin|Add
   support for Gemini 2.5 Pro Preview 06-05 model to Vertex AI and Google Gemini…]]'
+- '[[Changes/ElevenLabs/2025-06-08-text-to-speech|Text to Speech]]'
+- '[[Changes/Ollama/2025-06-09-6-model-support-changes-in-v0-9-1|6 Model Support changes
+  in v0.9.1]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-06-10-today-we-re-launching-openai-o3-pro-available-now-for-pro-users-43fd47c2|chatgpt-2025-06-10-today-we-re-launching-openai-o3-pro-available-now-for-pro-users-43fd47c2]]'
 source_type: chatgpt_changelog
 theme: model-support
@@ -135,7 +134,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2025-06-05 · Cline · [[Changes/Cline/2025-06-05-add-support-for-gemini-2-5-pro-preview-06-05-model-to-vertex-ai-and-google-gemin|Add support for Gemini 2.5 Pro Preview 06-05 model to Vertex AI and Google Gemini…]]
+- Earlier: 2025-06-09 · Ollama · [[Changes/Ollama/2025-06-09-6-model-support-changes-in-v0-9-1|6 Model Support changes in v0.9.1]]
 - Later: 2025-06-10 · Cline · [[Changes/Cline/2025-06-10-free-grok-model-available-access-grok-3-completely-free-through-the-cline-provid|Free Grok Model Available! Access Grok 3 completely free through the Cline provider]]
 <!-- chronolog:end -->
 

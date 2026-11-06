@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 18aff3883d7fc3ae08d98beb9cf75afa1e703e0f705785f1cfc1e3aa2544c7c3
+machine_hash: 5a936ccc93b9168003d5056ee23c06cdb6dd1a85328a97a4d6bf2ac6e0c258b2
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -92,7 +92,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.5
 ## Nearby in Account and Access
 
 - Earlier: 2026-03-11 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-03-11-3-account-and-access-changes-in-v1-0-4|3 Account and Access changes in v1.0.4]]
-- Later: 2026-03-16 · Codex CLI · [[Changes/Codex CLI/2026-03-16-2-account-and-access-changes-in-rust-v0-115-0|2 Account and Access changes in rust-v0.115.0]]
+- Later: 2026-03-13 · v0 · [[Changes/v0/2026-03-13-added-saml-specific-re-authentication-link-in-repository-connection-dialog|Added SAML-specific re-authentication link in repository connection dialog]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

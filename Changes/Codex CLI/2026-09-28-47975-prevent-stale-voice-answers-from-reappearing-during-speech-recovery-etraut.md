@@ -4,20 +4,20 @@ date: '2026-09-28'
 description: 'Codex CLI · 2026-09-28 · Voice and Audio: #47975 Prevent stale voice
   answers from reappearing during speech recovery @etraut-openai'
 diffusion:
-  first_in_tracked: '[[Changes/Aider/2023-08-11-voice-to-code-https-aider-chat-docs-voice-html-support-which-allows-you-to-code|Voice-to-code((source
-    link) support, which allows you…]]'
+  first_in_tracked: '[[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2
+    Voice and Audio changes in 0.3.7]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1144
+  lag_days: 1176
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: d53c470ca7a86d64464e13958de662eeed57adedbdfe7fca51e76d0a758a37ca
+machine_hash: b1cf57e21c2f30a9c100d60c0258ba648738211b19b29da0c51134c1a371c34c
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -93,13 +93,13 @@ type: change
 ## Nearby in Voice and Audio
 
 - Earlier: 2026-09-25 · Codex CLI · [[Changes/Codex CLI/2026-09-25-5-voice-and-audio-changes-in-rust-v0-157-0|5 Voice and Audio changes in rust-v0.157.0]]
-- Later: 2026-09-29 · ChatGPT · [[Changes/ChatGPT/2026-09-29-audio-is-deleted-once-your-notes-are-ready-and-can-t-be-accessed-or-replayed-ava|Audio is deleted once your notes are ready and can’t be accessed or replayed]]
+- Later: 2026-09-28 · ElevenLabs · [[Changes/ElevenLabs/2026-09-28-speech-to-text|Speech to Text]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-08-11 · Aider · [[Changes/Aider/2023-08-11-voice-to-code-https-aider-chat-docs-voice-html-support-which-allows-you-to-code|Voice-to-code((source link) support, which allows you…]]
+- Earliest same-theme entry in the tracked set: 2023-07-10 · Dify · [[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2 Voice and Audio changes in 0.3.7]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: memory
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 521d4cc974ec362b39a88ad27ee77d482a8b1527926befa0a87e2b8771426e9d
+machine_hash: 32472005bd3c6689f9a357ca20e884d3dd41a11fe1e994c13214e5587a8d345c
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -46,10 +46,10 @@ record:
   title: 4 Memory and Personalization changes in rust-v0.116.0
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-03-16-custom-instruction-file-paths-load-correctly-when-using-copilot-custom-instructi|Custom
-  instruction file paths load correctly when using COPILOT_CUSTOM_INSTRUCTIONS_DIRS]]'
 - '[[Changes/ChatGPT/2026-03-17-we-re-sunsetting-the-preset-nerdy-base-style-to-simplify-options-and-improve-res|Sunsetting
   the “Nerdy” base style]]'
+- '[[Changes/Dify/2026-03-17-4-memory-and-personalization-changes-in-1-13-1|4 Memory
+  and Personalization changes in 1.13.1]]'
 - '[[Changes/Gemini CLI/2026-03-17-docs-document-tool-exclusion-from-memory-via-deny-policy-by-abhijit-2592-in-http|docs:
   document tool exclusion from memory via deny policy]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-03-19-rust-v0-116-0-github-299083035-eb74e2fd|codex-cli-2026-03-19-rust-v0-116-0-github-299083035-eb74e2fd]]'

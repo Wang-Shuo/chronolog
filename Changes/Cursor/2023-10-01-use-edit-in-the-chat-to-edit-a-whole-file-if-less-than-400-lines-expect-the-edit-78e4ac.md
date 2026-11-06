@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 10755ab550d813799a94d9ccaf7dcb7ec164c5c6c65956428085de8ce909ba2b
+machine_hash: 4f3ea1b5c8fdb9785780d216b031677208e8700487b1f381811da90acb806554
 product: cursor
 product_name: Cursor
 record:
@@ -52,8 +52,8 @@ record:
   title: Use /edit in the chat to edit a whole file (if less than 400 lines)
   type: change
 related_changes:
-- '[[Changes/Aider/2023-08-11-2-model-support-changes-in-v0-12-0|2 Model Support changes
-  in v0.12.0]]'
+- '[[Changes/Ollama/2023-09-22-2-model-support-changes-in-v0-0-20|2 Model Support
+  changes in v0.0.20]]'
 - '[[Changes/ChatGPT/2023-09-27-choose-browse-with-bing-in-the-selector-under-gpt-4|Choose
   Browse with Bing in the selector under GPT-4]]'
 - '[[Changes/Aider/2023-09-30-show-models-supported-by-api-key-if-requested-model-isn-t-available|Show
@@ -90,7 +90,7 @@ type: change
 ## Nearby in Model Support
 
 - Earlier: 2023-09-30 · Aider · [[Changes/Aider/2023-09-30-show-models-supported-by-api-key-if-requested-model-isn-t-available|Show models supported by api/key if requested model isn't available]]
-- Later: 2023-10-16 · ChatGPT · [[Changes/ChatGPT/2023-10-16-we-ve-integrated-dall-e-3-with-chatgpt-allowing-it-to-respond-to-your-requests-w-ad3caf|DALL·E 3 is now rolling out in beta]]
+- Later: 2023-10-02 · Ollama · [[Changes/Ollama/2023-10-02-ollama-will-now-clean-up-subdirectories-in-ollama-models|Ollama will now clean up subdirectories in ~/.ollama/models]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

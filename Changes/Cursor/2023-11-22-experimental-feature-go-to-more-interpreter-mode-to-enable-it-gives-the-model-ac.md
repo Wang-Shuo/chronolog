@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 1015fcbd03c7f7693d5c12fe1d021b48f7e642e4dd5f28fa64bfac759a159f5b
+machine_hash: 936f148ec02eed0aa598f860c97f43038d5fc522704cc6b61004ece062b76fed
 product: cursor
 product_name: Cursor
 record:
@@ -58,8 +58,8 @@ record:
   title: 'Experimental feature: go to "More" > "Interpreter Mode" to enable it'
   type: change
 related_changes:
-- '[[Changes/Cursor/2023-11-03-cmd-k-diffs-these-now-obey-word-wrap-you-can-also-copy-from-the-red-text|Cmd-K
-  diffs: these now obey word-wrap!]]'
+- '[[Changes/Dify/2023-11-06-chore-deps-bump-word-wrap-from-1-2-3-to-1-2-5-in-web-by-dependabot-in-https-gith|chore(deps):
+  bump word-wrap from 1.2.3 to 1.2.5 in /web]]'
 - '[[Changes/Cursor/2023-11-10-apply-chat-suggestions-click-on-the-play-button-on-any-code-block-to-have-the-ai|Apply
   chat suggestions]]'
 - '[[Changes/Cursor/2023-11-15-copilot-improvements-2d35f8|Copilot++ improvements]]'

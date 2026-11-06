@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 75bd5126b16892b1d71e5b7a97994e6a613ef06551dc52d7f1efb681c33352d8
+machine_hash: 2071641ab28151be418a43b8f2fa4ca54a87bc70c5696791f6cbce8f082bdefc
 product: cursor
 product_name: Cursor
 record:
@@ -82,7 +82,7 @@ type: change
 ## Nearby in Editor Experience
 
 - Earlier: 2025-08-21 · Cline · [[Changes/Cline/2025-08-21-add-an-rpc-to-the-host-bridge-to-reveal-a-directory-in-the-ide-file-explorer-by|Add an RPC to the host bridge to reveal a directory in the IDE file explorer]]
-- Later: 2025-08-26 · Codex CLI · [[Changes/Codex CLI/2025-08-26-6-editor-experience-changes-in-rust-v0-24-0|6 Editor Experience changes in rust-v0.24.0]]
+- Later: 2025-08-21 · Open WebUI · [[Changes/Open WebUI/2025-08-21-restored-message-toolbar-icons-for-empty-messages-with-files-fixed-an-issue-wher|🐛 Restored Message Toolbar Icons for Empty Messages with Files]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

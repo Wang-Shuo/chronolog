@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: aef9036e424f805c9a5a123a4c491615575fc63596224a96e33f7c6156b52bcb
+machine_hash: 2831de65efcd9f0a803c13e4b0af70a61b95dea1a73c7880fd3247318446d163
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -46,11 +46,11 @@ record:
     mid-session…'
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-01-14-2-account-and-access-changes-in-rust-v0-81-0|2 Account
-  and Access changes in rust-v0.81.0]]'
 - '[[Changes/Cursor/2026-01-16-one-click-mcp-authentication|One-click MCP authentication]]'
 - '[[Changes/GitHub Copilot CLI/2026-01-16-2-account-and-access-changes-in-v0-0-384|2
   Account and Access changes in v0.0.384]]'
+- '[[Changes/Lovable/2026-01-16-two-factor-authentication-2fa|Two-factor authentication
+  (2FA)]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2026-01-21-v0-25-0-github-278507155-65088397|gemini-cli-2026-01-21-v0-25-0-github-278507155-65088397]]'
 source_type: github_releases
 theme: account-access
@@ -88,7 +88,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Account and Access
 
-- Earlier: 2026-01-16 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-01-16-2-account-and-access-changes-in-v0-0-384|2 Account and Access changes in v0.0.384]]
+- Earlier: 2026-01-16 · Lovable · [[Changes/Lovable/2026-01-16-two-factor-authentication-2fa|Two-factor authentication (2FA)]]
 - Later: 2026-01-22 · Claude Code · [[Changes/Claude Code/2026-01-22-vscode-added-ability-for-oauth-users-to-browse-and-resume-remote-claude-sessions|VSCode Added ability for OAuth users to browse and resume remote Claude sessions…]]
 <!-- chronolog:end -->
 

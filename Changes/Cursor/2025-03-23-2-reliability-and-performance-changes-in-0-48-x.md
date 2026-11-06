@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 4058fd88111f3d30c0908c490824be634b0069ddb5babd42c91ef1631a48bb38
+machine_hash: 5228c4ee53b94f8dfdad9e624dbb3cb4eddafa465dcf2e67f2908d97ed655773
 product: cursor
 product_name: Cursor
 record:
@@ -43,10 +43,10 @@ record:
   title: 2 Reliability and Performance changes in 0.48.x
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2025-03-18-improved-display-and-faster-streaming-of-conversations-and-message-menu-actions|Improved
-  display and faster streaming of conversations and message menu actions]]'
-- '[[Changes/OpenHands/2025-03-18-improve-the-stability-of-openhands-application-and-evaluation-harness-by-retry-o|Improve
-  the stability of OpenHands application and evaluation harness by retry…]]'
+- '[[Changes/Lovable/2025-03-21-shipped-memory-leak-fixes-to-prevent-backend-crashes-during-user-requests-includ|Shipped
+  memory leak fixes to prevent backend crashes during user requests including…]]'
+- '[[Changes/Ollama/2025-03-22-2-reliability-and-performance-changes-in-v0-6-3|2 Reliability
+  and Performance changes in v0.6.3]]'
 - '[[Changes/Cline/2025-03-23-add-sort-underlying-provider-routing-setting-to-cline-openrouter-allowing-you-to|Add
   ''Sort underlying provider routing'' setting to Cline/OpenRouter allowing you…]]'
 source_release: '[[Releases/Cursor/cursor-2025-03-23-0-48-x-https-cursor-com-changelog-0-48-x-7b3e771b|cursor-2025-03-23-0-48-x-https-cursor-com-changelog-0-48-x-7b3e771b]]'
@@ -96,7 +96,7 @@ Source: https://cursor.com/changelog/0-48-x
 ## Nearby in Reliability and Performance
 
 - Earlier: 2025-03-23 · Cline · [[Changes/Cline/2025-03-23-add-sort-underlying-provider-routing-setting-to-cline-openrouter-allowing-you-to|Add 'Sort underlying provider routing' setting to Cline/OpenRouter allowing you…]]
-- Later: 2025-04-06 · Cline · [[Changes/Cline/2025-04-06-add-improvements-to-file-mention-searching-for-faster-searching|Add improvements to file mention searching for faster searching]]
+- Later: 2025-03-24 · Dify · [[Changes/Dify/2025-03-24-2-reliability-and-performance-changes-in-1-1-3|2 Reliability and Performance changes in 1.1.3]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

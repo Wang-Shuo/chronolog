@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: 3749510e04c2ca5699d472baf30de2eb94552016d39e043591324b40d344b8a2
+machine_hash: 8f2d180966c6f4b58d349b7bce6cb585185456554b3daa725f1f64cc2cd2aae5
 product: cursor
 product_name: Cursor
 record:
@@ -55,10 +55,8 @@ record:
   title: Async subagents
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-02-12-cursor-can-now-work-autonomously-over-longer-horizons-to-complete-larger-more-co-48843c|Long-running
-  Agents in Research Preview]]'
-- '[[Changes/GitHub Copilot CLI/2026-02-12-subagents-return-complete-responses|Subagents
-  return complete responses]]'
+- '[[Changes/ElevenLabs/2026-02-16-elevenagents-31304c|ElevenAgents]]'
+- '[[Changes/ElevenLabs/2026-02-16-new-endpoints|New Endpoints]]'
 - '[[Changes/Codex CLI/2026-02-17-7-agent-mode-changes-in-rust-v0-102-0|7 Agent Mode
   changes in rust-v0.102.0]]'
 source_release: '[[Releases/Cursor/cursor-2026-02-17-2-5-https-cursor-com-changelog-2-5-82892320|cursor-2026-02-17-2-5-https-cursor-com-changelog-2-5-82892320]]'

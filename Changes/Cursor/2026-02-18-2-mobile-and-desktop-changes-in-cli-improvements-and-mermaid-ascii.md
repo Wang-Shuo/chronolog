@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 77604a2a4b161981e6e2b0a8cb30d28e2a06b9007a75d9f1a8a31c869b5e20ab
+machine_hash: 1abc47a67a2131028c3070eb1114d214241be5e422534eb4961a61cad3b5edb5
 product: cursor
 product_name: Cursor
 record:
@@ -44,8 +44,8 @@ record:
   title: 2 Mobile and Desktop changes in CLI Improvements and Mermaid ASCII…
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-02-12-4-mobile-and-desktop-changes-in-rust-v0-100-0|4
-  Mobile and Desktop changes in rust-v0.100.0]]'
+- "[[Changes/Open WebUI/2026-02-12-gboard-multi-line-paste-fix-multi-line-text-pasted-from-gboard-on-android-now-in|\U0001F4F1
+  Gboard multi-line paste fix. Multi-line text pasted from Gboard on Android now…]]"
 - '[[Changes/Claude Code/2026-02-13-added-windows-arm64-win32-arm64-native-binary-support|Added
   Windows ARM64 (win32-arm64) native binary support]]'
 - '[[Changes/Codex CLI/2026-02-17-2-mobile-and-desktop-changes-in-rust-v0-102-0|2

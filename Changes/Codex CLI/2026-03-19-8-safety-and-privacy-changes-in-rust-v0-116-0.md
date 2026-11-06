@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: f5faa9ff5c8cb314b0ad765d1dd547294cddf5f9bcbe5b0cd04db97c4c81175d
+machine_hash: ee9d2b4d9972f1cfcd3a3c0a0670e542b00b610ea682508f8caa0944f1dac584
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -59,10 +59,10 @@ record:
   title: 8 Safety and Privacy changes in rust-v0.116.0
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-03-17-3-safety-and-privacy-changes-in-v2-1-77|3 Safety
-  and Privacy changes in v2.1.77]]'
 - '[[Changes/Gemini CLI/2026-03-17-3-safety-and-privacy-changes-in-v0-34-0|3 Safety
   and Privacy changes in v0.34.0]]'
+- '[[Changes/Ollama/2026-03-17-ci-cd-generate-code-reviews-security-checks-and-other-tasks-within-your-ci|CI/CD:
+  Generate code reviews, security checks, and other tasks within your CI]]'
 - '[[Changes/Claude Code/2026-03-18-fixed-custom-status-line-showing-nothing-when-workspace-trust-is-blocking-it|Fixed
   custom status line showing nothing when workspace trust is blocking it]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-03-19-rust-v0-116-0-github-299083035-eb74e2fd|codex-cli-2026-03-19-rust-v0-116-0-github-299083035-eb74e2fd]]'

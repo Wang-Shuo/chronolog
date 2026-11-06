@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 02afd11ccb3d58e99fc791acef22cb93c31586e2803397f5dc7d83123a1a38a7
+machine_hash: 48ccce2cb74254ff84fa1897101edec7fea0f3f1bb3c3b3582c41f44945b12e6
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -92,7 +92,7 @@ type: change
 ## Nearby in Apps and Integrations
 
 - Earlier: 2025-06-20 · OpenHands · [[Changes/OpenHands/2025-06-20-2-apps-and-integrations-changes-in-0-45-0|2 Apps and Integrations changes in 0.45.0]]
-- Later: 2025-07-01 · Gemini CLI · [[Changes/Gemini CLI/2025-07-01-feat-add-support-to-remote-mcp-servers-for-custom-http-headers-by-aspiers-in-htt|feat: add support to remote MCP servers for custom HTTP headers]]
+- Later: 2025-06-25 · Dify · [[Changes/Dify/2025-06-25-11-apps-and-integrations-changes-in-1-5-0|11 Apps and Integrations changes in 1.5.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: c06d4915fa9ecaa9bcaf0db9ca5ad211d4c56414d2d338770ffc8a1b07436f8b
+machine_hash: 984eba0c65e2c29c9dca3a1beca471b49eee9eb3ed95ecb38faa33b697d0b95b
 product: claude-code
 product_name: Claude Code
 record:
@@ -89,7 +89,7 @@ type: change
 ## Nearby in Agent Mode
 
 - Earlier: 2026-08-13 · OpenHands · [[Changes/OpenHands/2026-08-13-chore-enforce-typed-openhands-typescript-client-for-agent-server-api-calls-no-ad|chore: enforce typed @openhands/typescript-client for agent-server API calls…]]
-- Later: 2026-08-17 · Claude Code · [[Changes/Claude Code/2026-08-17-removed-the-redundant-allowed-by-auto-mode-classifier-line-that-auto-mode-showed|Removed the redundant "Allowed by auto mode classifier" line that auto mode showed…]]
+- Later: 2026-08-14 · Ollama · [[Changes/Ollama/2026-08-14-2-agent-mode-changes-in-v0-32-11|2 Agent Mode changes in v0.32.11]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

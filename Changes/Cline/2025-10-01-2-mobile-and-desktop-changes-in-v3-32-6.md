@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: df0bde3c219ffa2556d33ad0957cf89b995b1c9663bf09eb8ecfe297cf1306ae
+machine_hash: e9ef4bb40c3d72dda520e36fbc403d971fdfd674a85c3273bd8b3500ee74d971
 product: cline
 product_name: Cline
 record:
@@ -42,12 +42,12 @@ record:
   title: 2 Mobile and Desktop changes in v3.32.6
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2025-09-08-3211-fixes-image-pasting-from-finder-with-ctrl-v-on-macos|♯3211
-  fixes image pasting from Finder with ctrl+v on macOS]]'
 - '[[Changes/Cline/2025-09-11-deep-planning-improvements-optimized-prompts-for-windows-powershell-environments|Deep
   Planning Improvements]]'
 - '[[Changes/ChatGPT/2025-09-17-the-thinking-time-toggle-is-live-today-on-chatgpt-com-settings-you-choose-on-the|The
   thinking-time toggle is live today on chatgpt.com]]'
+- '[[Changes/Claude/2025-09-29-creating-and-editing-files-with-claude-for-pro-plans-and-mobile|Creating
+  and editing files with Claude for Pro plans and mobile]]'
 source_release: '[[Releases/Cline/cline-2025-10-01-v3-32-6-github-251594849-7d74d052|cline-2025-10-01-v3-32-6-github-251594849-7d74d052]]'
 source_type: github_releases
 theme: mobile-desktop
@@ -81,7 +81,7 @@ Source: https://github.com/cline/cline/releases/tag/v3.32.6
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2025-09-17 · ChatGPT · [[Changes/ChatGPT/2025-09-17-the-thinking-time-toggle-is-live-today-on-chatgpt-com-settings-you-choose-on-the|The thinking-time toggle is live today on chatgpt.com]]
+- Earlier: 2025-09-29 · Claude · [[Changes/Claude/2025-09-29-creating-and-editing-files-with-claude-for-pro-plans-and-mobile|Creating and editing files with Claude for Pro plans and mobile]]
 - Later: 2025-10-03 · Codex CLI · [[Changes/Codex CLI/2025-10-03-experimental-reduce-repetitive-approval-for-read-only-commands-on-windows-4269|(experimental) Reduce repetitive approval for read-only commands on Windows (♯4269)]]
 <!-- chronolog:end -->
 

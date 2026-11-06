@@ -10,12 +10,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 7455520a6a2824383b0ad4545167eed73dbcd0c36fd67b4b36aa49e19a6b2b81
+machine_hash: 7be43c3af7317e87fc4b11623568864afd7fab0f00703dcba21f47353c7308e2
 product: cline
 product_name: Cline
 record:
@@ -40,10 +40,10 @@ record:
   title: Add /q command to quit CLI
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-02-20-3-developer-workflow-changes-in-v2-1-50|3 Developer
-  Workflow changes in v2.1.50]]'
 - '[[Changes/GitHub Copilot CLI/2026-02-20-increase-lsp-request-timeout-from-30s-to-90s-to-reduce-timeout-failures|Increase
   LSP request timeout from 30s to 90s to reduce timeout failures]]'
+- '[[Changes/Open WebUI/2026-02-23-12-developer-workflow-changes-in-v0-8-4|12 Developer
+  Workflow changes in v0.8.4]]'
 - '[[Changes/Claude Code/2026-02-24-bashtool-now-skips-login-shell-l-flag-by-default-when-a-shell-snapshot-is-availa|BashTool
   now skips login shell (-l flag) by default when a shell snapshot…]]'
 source_release: '[[Releases/Cline/cline-2026-02-24-v3-67-0-github-289672223-0705057f|cline-2026-02-24-v3-67-0-github-289672223-0705057f]]'

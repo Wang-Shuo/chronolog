@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: e8c7e9c50da28586ffa669d8fc37a6ffb4b64c6d59847bad714a8d8a73113d38
+machine_hash: cfbf6e9bdce8891e5a722c1d00812604b1158fd11b3409a87af04a8f829a2ca8
 product: claude-code
 product_name: Claude Code
 record:
@@ -48,12 +48,12 @@ record:
   title: 3 Mobile and Desktop changes in v2.1.260
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-08-31-share-your-stickers-in-messaging-apps-download-your-pack-or-add-it-to-imessage-o|Share
-  your stickers in messaging apps]]'
-- '[[Changes/ChatGPT/2026-08-31-chatgpt-work-and-codex-can-now-use-tools-that-supported-websites-provide-directl|ChatGPT
-  Work and Codex can now use tools that supported websites provide directly…]]'
+- "[[Changes/Open WebUI/2026-08-31-code-interpreter-starts-on-windows-the-built-in-code-interpreter-now-serves-its|\U0001F40D
+  Code interpreter starts on Windows. The built-in code interpreter now serves…]]"
 - '[[Changes/Claude Code/2026-09-01-changed-add-dir-add-dir-and-additionaldirectories-to-refuse-network-paths-unc-sh|Changed
   --add-dir, /add-dir, and additionalDirectories to refuse network paths…]]'
+- '[[Changes/Lovable/2026-09-02-download-the-mobile-app-from-your-settings|Download
+  the mobile app from your settings]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-03-v2-1-260-github-382367470-ac2ba1fc|claude-code-2026-09-03-v2-1-260-github-382367470-ac2ba1fc]]'
 source_type: github_releases
 theme: mobile-desktop
@@ -97,7 +97,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.260
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2026-09-01 · Claude Code · [[Changes/Claude Code/2026-09-01-changed-add-dir-add-dir-and-additionaldirectories-to-refuse-network-paths-unc-sh|Changed --add-dir, /add-dir, and additionalDirectories to refuse network paths…]]
+- Earlier: 2026-09-02 · Lovable · [[Changes/Lovable/2026-09-02-download-the-mobile-app-from-your-settings|Download the mobile app from your settings]]
 - Later: 2026-09-03 · Codex CLI · [[Changes/Codex CLI/2026-09-03-42068-https-github-com-openai-codex-pull-42068-detect-standalone-installs-from-t|♯42068((source link) Detect standalone installs…]]
 <!-- chronolog:end -->
 

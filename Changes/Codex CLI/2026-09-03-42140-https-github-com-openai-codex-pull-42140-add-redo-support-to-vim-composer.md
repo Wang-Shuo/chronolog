@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: projects-workspaces
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: f3c9be9791e9bd8780f7d53c45f607639460342c95acb84b5a8dae1baff4a19f
+machine_hash: 4d3ce53a0e3aa243d62cd290c681671716057a1943cb7c3fa6682e609ed453c2
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -47,10 +47,9 @@ record:
     Vim…'
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-07-16-projects-in-the-desktop-app-your-existing-chatgpt-projects-now-appear-in-the-app|Projects
-  in the desktop app: Your existing ChatGPT Projects now appear in the app]]'
 - '[[Changes/Codex CLI/2026-07-21-33201-branch-conversations-when-editing-earlier-tui-prompts-copyberry|♯33201
   Branch conversations when editing earlier TUI prompts @copyberry]]'
+- '[[Changes/Replit/2026-07-31-a-rebuilt-usage-page|A rebuilt usage page]]'
 - '[[Changes/GitHub Copilot CLI/2026-08-10-a-failed-session-history-load-no-longer-leaves-the-timeline-permanently-empty-th|A
   failed session-history load no longer leaves the timeline permanently empty]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-09-03-rust-v0-153-0-github-381669913-72d3437f|codex-cli-2026-09-03-rust-v0-153-0-github-381669913-72d3437f]]'

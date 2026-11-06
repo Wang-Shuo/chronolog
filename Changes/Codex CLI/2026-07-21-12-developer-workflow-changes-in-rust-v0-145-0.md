@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 3386875012a56d6c91800a3d6cfdd1e5d9d200103d0b840f24eec7c4016ca358
+machine_hash: fddd535246026e12a3f8255fa1a78c96e6cee4a0480da21a3567d32b1218cc4a
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -139,7 +139,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.145.0
 ## Nearby in Developer Workflow
 
 - Earlier: 2026-07-21 · Claude Code · [[Changes/Claude Code/2026-07-21-improved-footer-pr-badge-links-to-be-clickable-hyperlinks-even-when-terminal-sup|Improved footer PR badge links to be clickable hyperlinks even when terminal support…]]
-- Later: 2026-07-22 · Claude Code · [[Changes/Claude Code/2026-07-22-changed-code-review-to-run-as-a-background-subagent-so-review-work-no-longer-fil|Changed /code-review to run as a background subagent, so review work no longer…]]
+- Later: 2026-07-21 · v0 · [[Changes/v0/2026-07-21-2-developer-workflow-changes-in-slash-commands-the-shopify|2 Developer Workflow changes in Slash commands, the Shopify…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

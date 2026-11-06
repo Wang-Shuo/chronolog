@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: e3572ac56efe72f340cf6bf489788d73d438867978cd451db6f767852716e76b
+machine_hash: 8ef2b7ad451af308157e3143ca0325015dad75123d287a046ab293f8b20354fb
 product: claude-code
 product_name: Claude Code
 record:
@@ -47,10 +47,10 @@ record:
   title: 2 Apps and Integrations changes in v2.1.178
   type: change
 related_changes:
-- '[[Changes/Cline/2026-06-11-2-apps-and-integrations-changes-in-v3-89-2|2 Apps and
-  Integrations changes in v3.89.2]]'
 - '[[Changes/Cline/2026-06-11-restore-the-anthropic-provider-on-vs-code-1-123-and-later-where-the-updated-node|Restore
   the Anthropic provider on VS Code 1.123 and later, where the updated Node 24…]]'
+- '[[Changes/Claude/2026-06-12-edit-claude-s-drafts-in-place|Edit Claude’s drafts
+  in place]]'
 - '[[Changes/GitHub Copilot CLI/2026-06-13-8-apps-and-integrations-changes-in-v1-0-62|8
   Apps and Integrations changes in v1.0.62]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-06-15-v2-1-178-github-339741361-902bc427|claude-code-2026-06-15-v2-1-178-github-339741361-902bc427]]'

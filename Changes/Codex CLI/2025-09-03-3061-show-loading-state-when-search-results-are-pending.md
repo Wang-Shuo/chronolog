@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: search-browsing
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 4f2c7660ba14d7c1fec666aa069d42f812e8b1fab216acc40e2543d632cd2ec3
+machine_hash: e0de13a87c9cfb79cdfeecde15d52fdbf7b75a9d1cbafcd270f802a3334fd421
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -41,12 +41,12 @@ record:
   title: '[#3061] Show loading state when @ search results are pending'
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2025-08-11-now-connect-even-more-tools-in-chatgpt-for-useful-relevant-responses-in-chat-the|Now
-  connect even more tools in ChatGPT for useful, relevant responses in chat]]'
-- '[[Changes/Gemini CLI/2025-08-18-feat-core-migrate-web-search-write-file-and-discovered-tool-by-joshualitt-in-htt|feat(core):
-  Migrate web-search, write-file, and discovered-tool]]'
+- '[[Changes/Open WebUI/2025-08-21-3-search-and-browsing-changes-in-v0-6-23|3 Search
+  and Browsing changes in v0.6.23]]'
 - '[[Changes/Codex CLI/2025-08-26-2-search-and-browsing-changes-in-rust-v0-24-0|2
   Search and Browsing changes in rust-v0.24.0]]'
+- '[[Changes/Open WebUI/2025-08-28-2-search-and-browsing-changes-in-v0-6-26|2 Search
+  and Browsing changes in v0.6.26]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2025-09-03-rust-v0-29-0-github-244361437-fe9adbc1|codex-cli-2025-09-03-rust-v0-29-0-github-244361437-fe9adbc1]]'
 source_type: github_releases
 theme: search-browsing
@@ -78,8 +78,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Search and Browsing
 
-- Earlier: 2025-08-26 · Codex CLI · [[Changes/Codex CLI/2025-08-26-2-search-and-browsing-changes-in-rust-v0-24-0|2 Search and Browsing changes in rust-v0.24.0]]
-- Later: 2025-09-16 · ChatGPT · [[Changes/ChatGPT/2025-09-16-we-ve-made-further-improvements-to-search-in-chatgpt-making-results-more-accurat|ChatGPT makes further improvements to search, making results more accurate…]]
+- Earlier: 2025-08-28 · Open WebUI · [[Changes/Open WebUI/2025-08-28-2-search-and-browsing-changes-in-v0-6-26|2 Search and Browsing changes in v0.6.26]]
+- Later: 2025-09-09 · Open WebUI · [[Changes/Open WebUI/2025-09-09-web-search-result-display-was-enhanced-to-include-titles-and-favicons-providing|💬 Web search result display was enhanced to include titles and favicons, providing…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

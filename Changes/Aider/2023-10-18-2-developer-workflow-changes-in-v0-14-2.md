@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 25afd9ab26f5795cb9072abe1ae3bf2303448128b56f8687f1f423f0627484de
+machine_hash: 677e2f6299eab1113f772cf620e2fc9a5b3a5f49444bfbad1d425d5d4d7d3e5b
 product: aider
 product_name: Aider
 record:
@@ -42,8 +42,8 @@ record:
   title: 2 Developer Workflow changes in v0.14.2
   type: change
 related_changes:
-- '[[Changes/Cursor/2023-09-23-never-lets-your-root-directory-be-in-the-gitignore|gitignore
-  and search hotfix]]'
+- "[[Changes/Ollama/2023-09-23-ollama-will-run-on-wsl-2-with-gpu-support|\U0001F916
+  Ollama will run on WSL 2 with GPU support]]"
 - '[[Changes/Aider/2023-09-30-2-developer-workflow-changes-in-v0-14-1|2 Developer
   Workflow changes in v0.14.1]]'
 - '[[Changes/Cursor/2023-10-01-ask-about-git-commits-and-prs-using-git-in-chat|Ask

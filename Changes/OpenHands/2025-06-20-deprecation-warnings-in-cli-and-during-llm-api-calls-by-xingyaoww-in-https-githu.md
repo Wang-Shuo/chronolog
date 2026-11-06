@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: policy
-machine_hash: be87c1a40430acb5d93e54f80ad6101b82fe43519883ef337e12b3bcfde5dccc
+machine_hash: 93c36f960aa43baacdad4794d28da8526b057c5924911a0f8a41badbb583c535
 product: openhands
 product_name: OpenHands
 record:
@@ -43,11 +43,10 @@ record:
   title: '**Deprecation Warnings** in CLI and during LLM API calls by @xingyaoww…'
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2025-06-13-in-some-cases-a-chain-of-thought-reasoning-will-show-up-unexpectedly-for-simple|In
-  some cases, a “chain of thought” reasoning will show up unexpectedly for simple
-  queries]]'
-- '[[Changes/ChatGPT/2025-06-16-enterprise-and-edu-users-can-also-now-choose-from-the-full-set-of-chatgpt-models-1ea372|Expanded
-  Model Support for Custom GPTs]]'
+- '[[Changes/Dify/2025-06-16-3-model-support-changes-in-1-4-3|3 Model Support changes
+  in 1.4.3]]'
+- '[[Changes/Open WebUI/2025-06-16-2-model-support-changes-in-v0-6-15|2 Model Support
+  changes in v0.6.15]]'
 - '[[Changes/OpenHands/2025-06-20-fixed-cli-displaying-incorrect-default-model-for-anthropic-provider-by-neubig-in|Fixed
   CLI displaying incorrect default model for Anthropic provider by @neubig…]]'
 source_release: '[[Releases/OpenHands/openhands-2025-06-20-0-45-0-github-226789367-b83ab16d|openhands-2025-06-20-0-45-0-github-226789367-b83ab16d]]'

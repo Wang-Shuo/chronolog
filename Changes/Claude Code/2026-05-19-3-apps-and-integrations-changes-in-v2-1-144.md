@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: b4aa82d84cf4bacb9f54579646a42735c8734f73b5322de3eabcb35b8532628f
+machine_hash: 1a338c94ddcf88fdd63977f4f26d141d045b5d56ebd8e5b5d936a90f7c875dd9
 product: claude-code
 product_name: Claude Code
 record:
@@ -46,10 +46,9 @@ record:
   title: 3 Apps and Integrations changes in v2.1.144
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-05-15-3-apps-and-integrations-changes-in-v2-1-143|3
-  Apps and Integrations changes in v2.1.143]]'
-- '[[Changes/Codex CLI/2026-05-18-56-apps-and-integrations-changes-in-rust-v0-131-0|56
-  Apps and Integrations changes in rust-v0.131.0]]'
+- '[[Changes/Lovable/2026-05-18-improved-github-integration|Improved GitHub integration]]'
+- '[[Changes/Lovable/2026-05-18-chat-with-lovable-in-telegram|Chat with Lovable in
+  Telegram]]'
 - '[[Changes/Claude Code/2026-05-19-plugin-discover-and-browse-screens-now-show-a-plugin-s-commands-agents-skills-ho|/plugin
   Discover and Browse screens now show a plugin''s commands, agents, skills…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-05-19-v2-1-144-github-324524751-1469637a|claude-code-2026-05-19-v2-1-144-github-324524751-1469637a]]'

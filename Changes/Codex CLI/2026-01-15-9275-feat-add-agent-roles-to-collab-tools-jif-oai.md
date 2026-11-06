@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: d1f0f3f9a5b2ade9798c597d37d09a909779c55361b26f92fb11b8e0c71f3df7
+machine_hash: 80cc47787a27653fc194ae28bcfc46f606d55c9827cc6f3dca6661165987c745
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -42,12 +42,11 @@ record:
   title: '#9275 feat: add agent roles to collab tools @jif-oai'
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-01-14-added-inline-display-of-agent-s-final-response-in-task-notifications-making-it-e|Added
-  inline display of agent''s final response in task notifications, making…]]'
 - '[[Changes/Codex CLI/2026-01-14-2-agent-mode-changes-in-rust-v0-81-0|2 Agent Mode
   changes in rust-v0.81.0]]'
 - '[[Changes/Gemini CLI/2026-01-14-10-agent-mode-changes-in-v0-24-0|10 Agent Mode
   changes in v0.24.0]]'
+- '[[Changes/v0/2026-01-14-improved-agent-error-handling|Improved agent error handling]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-01-15-rust-v0-85-0-github-277157618-2b62da73|codex-cli-2026-01-15-rust-v0-85-0-github-277157618-2b62da73]]'
 source_type: github_releases
 theme: agent-mode
@@ -80,7 +79,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2026-01-14 · Gemini CLI · [[Changes/Gemini CLI/2026-01-14-10-agent-mode-changes-in-v0-24-0|10 Agent Mode changes in v0.24.0]]
+- Earlier: 2026-01-14 · v0 · [[Changes/v0/2026-01-14-improved-agent-error-handling|Improved agent error handling]]
 - Later: 2026-01-16 · Claude Code · [[Changes/Claude Code/2026-01-16-added-plansdirectory-setting-to-customize-where-plan-files-are-stored|Added plansDirectory setting to customize where plan files are stored]]
 <!-- chronolog:end -->
 

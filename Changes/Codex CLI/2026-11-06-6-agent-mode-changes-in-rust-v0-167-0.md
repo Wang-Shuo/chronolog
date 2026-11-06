@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 6bb338e82477a64b1b2d8ad41f78f315508041f6776ddff221f29d0439e5529d
+machine_hash: 6256608bf35366d57b5a339b013f9fe83a15aed18348fd8c308315e2f632ac47
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -51,10 +51,10 @@ record:
   title: 6 Agent Mode changes in rust-v0.167.0
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-31-2-agent-mode-changes-in-v2-1-316|2 Agent Mode
-  changes in v2.1.316]]'
 - '[[Changes/OpenHands/2026-11-03-3-agent-mode-changes-in-v1-35-0|3 Agent Mode changes
   in v1.35.0]]'
+- '[[Changes/Dify/2026-11-04-14-agent-mode-changes-in-1-19-0|14 Agent Mode changes
+  in 1.19.0]]'
 - '[[Changes/OpenHands/2026-11-05-2-agent-mode-changes-in-v1-36-0|2 Agent Mode changes
   in v1.36.0]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-11-06-rust-v0-167-0-github-435979892-a2e140bc|codex-cli-2026-11-06-rust-v0-167-0-github-435979892-a2e140bc]]'

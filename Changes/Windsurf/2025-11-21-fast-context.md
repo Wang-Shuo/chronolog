@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 3e9b127254753ee304f44108557330e1fe8eeeb230cda29bde0e981393554c6a
+machine_hash: 86e2651f29a646485a4f35f3c5112b45eb044c2c8e7c8f2063a432e2b9313bcd
 product: windsurf
 product_name: Windsurf
 record:
@@ -43,12 +43,12 @@ record:
   title: Fast Context
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2025-11-19-6-context-window-changes-in-rust-v0-59-0|6 Context
-  Window changes in rust-v0.59.0]]'
 - '[[Changes/Codex CLI/2025-11-20-ux-fixes-corrected-reasoning-display-preserved-review-footer-context-after-revie|UX
   fixes: corrected reasoning display, preserved review footer context after…]]'
 - '[[Changes/Cursor/2025-11-21-rules-in-home-folder-cursor-rules-will-be-included-in-context|Rules
   in home folder (~/.cursor/rules) will be included in context]]'
+- '[[Changes/ElevenLabs/2025-11-21-generate-single-use-token-https-elevenlabs-io-docs-api-reference-tokens-create|Generate
+  single-use token((source link)]]'
 source_release: '[[Releases/Windsurf/windsurf-2025-11-21-v1-12-35-8e2bec15|windsurf-2025-11-21-v1-12-35-8e2bec15]]'
 source_type: windsurf_changelog
 theme: context-window
@@ -83,8 +83,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Context Window
 
-- Earlier: 2025-11-21 · Cursor · [[Changes/Cursor/2025-11-21-rules-in-home-folder-cursor-rules-will-be-included-in-context|Rules in home folder (~/.cursor/rules) will be included in context]]
-- Later: 2025-11-27 · Cline · [[Changes/Cline/2025-11-27-feat-context-add-context-window-error-detection-for-vercel-ai-gateway-by-shaper|feat(context): add context window error detection for vercel ai gateway]]
+- Earlier: 2025-11-21 · ElevenLabs · [[Changes/ElevenLabs/2025-11-21-generate-single-use-token-https-elevenlabs-io-docs-api-reference-tokens-create|Generate single-use token((source link)]]
+- Later: 2025-11-24 · Claude · [[Changes/Claude/2025-11-24-context-window-compaction|Context window compaction]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

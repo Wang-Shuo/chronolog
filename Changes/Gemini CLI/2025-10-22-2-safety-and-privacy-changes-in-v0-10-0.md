@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: ef7796909372215134de3da8ec6f8d6ee77c2307caa92e39816bafdd90f960cb
+machine_hash: 1e1fe1828cd570b2ddc4c2bb02d54ed5e7307b5d3755dc21637c2f8d3f3178c1
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -43,12 +43,11 @@ record:
   title: 2 Safety and Privacy changes in v0.10.0
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2025-10-06-codex-login-api-key-was-replaced-with-codex-login-with-api-key-that-reads-the-ke|codex
-  login --api-key was replaced with codex login --with-api-key that reads…]]'
-- '[[Changes/Gemini CLI/2025-10-07-3-safety-and-privacy-changes-in-v0-8-0|3 Safety
-  and Privacy changes in v0.8.0]]'
 - '[[Changes/Codex CLI/2025-10-17-2-safety-and-privacy-changes-in-rust-v0-47-0|2 Safety
   and Privacy changes in rust-v0.47.0]]'
+- '[[Changes/ElevenLabs/2025-10-20-elevencreative-studio|ElevenCreative Studio]]'
+- '[[Changes/Dify/2025-10-22-fix-web-app-permission-check-by-douxc-in-https-github-com-langgenius-dify-pull-2|Fix/web
+  app permission check]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2025-10-22-v0-10-0-github-256434073-b3dd91c0|gemini-cli-2025-10-22-v0-10-0-github-256434073-b3dd91c0]]'
 source_type: github_releases
 theme: safety-privacy
@@ -92,7 +91,7 @@ Source: https://github.com/google-gemini/gemini-cli/releases/tag/v0.10.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Safety and Privacy
 
-- Earlier: 2025-10-17 · Codex CLI · [[Changes/Codex CLI/2025-10-17-2-safety-and-privacy-changes-in-rust-v0-47-0|2 Safety and Privacy changes in rust-v0.47.0]]
+- Earlier: 2025-10-22 · Dify · [[Changes/Dify/2025-10-22-fix-web-app-permission-check-by-douxc-in-https-github-com-langgenius-dify-pull-2|Fix/web app permission check]]
 - Later: 2025-10-22 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2025-10-22-ensure-that-environment-variables-are-expanded-before-running-path-permission-ch|Ensure that environment variables are expanded before running path permission checks]]
 <!-- chronolog:end -->
 

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 7a71ed8f017ee3165045bfb75adab5234eed5e417dd92803cd1d9b6871d12799
+machine_hash: e1d1ce8532e12b1e047f0908aa24b2988a8ffe3c6a26382b0eae9940cee38c79
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -84,7 +84,7 @@ type: change
 ## Nearby in Model Support
 
 - Earlier: 2026-05-20 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-05-20-shell-tool-calls-succeed-even-when-the-model-omits-the-description-parameter|Shell tool calls succeed even when the model omits the description parameter]]
-- Later: 2026-05-22 · Gemini CLI · [[Changes/Gemini CLI/2026-05-22-2-model-support-changes-in-v0-43-0|2 Model Support changes in v0.43.0]]
+- Later: 2026-05-21 · Lovable · [[Changes/Lovable/2026-05-21-gemini-3-5-flash-for-ai-features-in-your-app|Gemini 3.5 Flash for AI features in your app]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

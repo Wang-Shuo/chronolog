@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 9a84a1a76ed56db1e2d3d65d9c59ecfe500b05b82049093ee8ccb5547504d7ec
+machine_hash: a708f85e4ac5b0bb0922f47a0ceba7e29b14fe2f7126ddbc038dfde9aa12fd0d
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -90,12 +90,12 @@ record:
   title: 20 Model Support changes in v0.1.16
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2025-07-30-11-model-support-changes-in-v0-1-15|11 Model Support
-  changes in v0.1.15]]'
 - '[[Changes/Cline/2025-07-31-4-model-support-changes-in-v3-20-3|4 Model Support changes
   in v3.20.3]]'
 - '[[Changes/Cline/2025-08-01-update-cerebras-models-by-arafatkatze-in-https-github-com-cline-cline-pull-5282|Update
   Cerebras models]]'
+- '[[Changes/Gemini/2025-08-01-solve-your-most-complex-problems-with-gemini-2-5-deep-think|Solve
+  your most complex problems with Gemini 2.5 Deep Think]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2025-08-02-v0-1-16-github-237037864-b4f734b7|gemini-cli-2025-08-02-v0-1-16-github-237037864-b4f734b7]]'
 source_type: github_releases
 theme: model-support
@@ -176,8 +176,8 @@ Source: https://github.com/google-gemini/gemini-cli/releases/tag/v0.1.16
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2025-08-01 · Cline · [[Changes/Cline/2025-08-01-update-cerebras-models-by-arafatkatze-in-https-github-com-cline-cline-pull-5282|Update Cerebras models]]
-- Later: 2025-08-05 · Cline · [[Changes/Cline/2025-08-05-adding-anthropic-opus-4-1-by-arafatkatze-in-https-github-com-cline-cline-pull-53|Adding Anthropic opus 4.1]]
+- Earlier: 2025-08-01 · Gemini · [[Changes/Gemini/2025-08-01-solve-your-most-complex-problems-with-gemini-2-5-deep-think|Solve your most complex problems with Gemini 2.5 Deep Think]]
+- Later: 2025-08-05 · Claude · [[Changes/Claude/2025-08-05-claude-opus-4-1|Claude Opus 4.1]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

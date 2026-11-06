@@ -5,20 +5,20 @@ description: 'ChatGPT · 2026-06-08 · Files and Data: Full-screen writing block
   longer-form work: Writing blocks now cover long-form writing use cases, including
   essays…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-07-06-we-re-rolling-out-code-interpreter-to-all-chatgpt-plus-users-over-the-next-week-66255e|Code
-    interpreter is now rolling out in beta on web]]'
+  first_in_tracked: '[[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2
+    Files and Data changes in 0.2.2]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1068
+  lag_days: 1110
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 5c8d3ae168b4157dcbfd9d2884222d029f46993066364b258fc78e445446a6d5
+machine_hash: f0e9a435369350597ccdefee1e86b0a1ae751f3a7050f445bd27250b5a48e5e6
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -115,13 +115,13 @@ type: change
 ## Nearby in Files and Data
 
 - Earlier: 2026-06-04 · Cursor · [[Changes/Cursor/2026-06-04-0-1-6-release-and-analytics-cursor-sdk-0-1-6-documents-the-buildkite-release-pat|0.1.6 release and analytics]]
-- Later: 2026-06-16 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-06-16-recover-from-unreadable-native-document-attachments-by-falling-back-to-file-path|Recover from unreadable native document attachments by falling back to file-path uploads]]
+- Later: 2026-06-12 · Replit · [[Changes/Replit/2026-06-12-add-visual-references-when-you-generate-media-on-canvas|Add visual references when you generate media on Canvas]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-07-06 · ChatGPT · [[Changes/ChatGPT/2023-07-06-we-re-rolling-out-code-interpreter-to-all-chatgpt-plus-users-over-the-next-week-66255e|Code interpreter is now rolling out in beta on web]]
+- Earliest same-theme entry in the tracked set: 2023-05-25 · Dify · [[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2 Files and Data changes in 0.2.2]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

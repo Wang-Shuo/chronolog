@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 514aea685963dd245b05e6f171cf46466d6c1864a1abe8921d9f808518f45dbb
+machine_hash: 8c1f53933d34837990096323af609c5d97a4d93f681957d3e791f5d2acf36a18
 product: cline
 product_name: Cline
 record:
@@ -42,11 +42,10 @@ record:
   title: Optimize provider switching performance with batched storage operations
   type: change
 related_changes:
-- '[[Changes/Cline/2025-07-03-2-reliability-and-performance-changes-in-v3-18-3|2 Reliability
-  and Performance changes in v3.18.3]]'
 - '[[Changes/Cursor/2025-07-03-faster-tab|Faster Tab]]'
 - '[[Changes/Cursor/2025-07-03-4-reliability-and-performance-changes-in-1-2|4 Reliability
   and Performance changes in 1.2]]'
+- '[[Changes/Replit/2025-07-04-improved-icons|Improved icons]]'
 source_release: '[[Releases/Cline/cline-2025-07-08-v3-18-5-github-230641133-4832c382|cline-2025-07-08-v3-18-5-github-230641133-4832c382]]'
 source_type: github_releases
 theme: reliability-performance
@@ -77,8 +76,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2025-07-03 · Cursor · [[Changes/Cursor/2025-07-03-4-reliability-and-performance-changes-in-1-2|4 Reliability and Performance changes in 1.2]]
-- Later: 2025-07-19 · Codex CLI · [[Changes/Codex CLI/2025-07-19-as-a-heads-up-https-github-com-openai-codex-pull-1596-changes-the-organization-o|As a heads up, (source link) changes the organization…]]
+- Earlier: 2025-07-04 · Replit · [[Changes/Replit/2025-07-04-improved-icons|Improved icons]]
+- Later: 2025-07-10 · Dify · [[Changes/Dify/2025-07-10-optimize-the-memory-usage-of-tencent-vector-database-by-wlleiiwang-in-https-gith|Optimize the memory usage of Tencent Vector Database]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

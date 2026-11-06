@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: fix
-machine_hash: ade98c26340b610f9ee27fcf48030ae6b2e9b3b0913655b604da7c8643110d99
+machine_hash: 496690c5afa5ffd65b4b76cfd32057137e343da8c4a9ba463a36b74da0bc2b00
 product: claude-code
 product_name: Claude Code
 record:
@@ -86,7 +86,7 @@ type: change
 ## Nearby in Safety and Privacy
 
 - Earlier: 2026-02-27 · Gemini CLI · [[Changes/Gemini CLI/2026-02-27-6-safety-and-privacy-changes-in-v0-31-0|6 Safety and Privacy changes in v0.31.0]]
-- Later: 2026-03-02 · Codex CLI · [[Changes/Codex CLI/2026-03-02-8-safety-and-privacy-changes-in-rust-v0-107-0|8 Safety and Privacy changes in rust-v0.107.0]]
+- Later: 2026-03-01 · Open WebUI · [[Changes/Open WebUI/2026-03-01-4-safety-and-privacy-changes-in-v0-8-6|4 Safety and Privacy changes in v0.8.6]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

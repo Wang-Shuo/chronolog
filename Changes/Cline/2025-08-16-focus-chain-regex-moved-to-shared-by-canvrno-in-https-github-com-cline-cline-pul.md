@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 59efe15e9f42c88b25a1e2bf18440a3fb658bd8bff2d6398f6aa07b16d324169
+machine_hash: 265f91ea3ac1122efb7122dc1143e1569868395808efd45528dac076a4e64606
 product: cline
 product_name: Cline
 record:
@@ -42,12 +42,11 @@ record:
   title: Focus Chain regex moved to /shared
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-08-06-ai-code-tracking-api-get-commit-level-visibility-into-ai-usage-and-accepted-chan|AI
-  code tracking API]]'
 - '[[Changes/ChatGPT/2025-08-11-pro-microsoft-teams-and-github|Pro: Microsoft Teams
   and GitHub]]'
 - '[[Changes/ChatGPT/2025-08-11-plus-box-canva-dropbox-hubspot-notion-microsoft-sharepoint-and-microsoft-teams|Plus:
   Box, Canva, Dropbox, HubSpot, Notion, Microsoft SharePoint, and Microsoft Teams]]'
+- '[[Changes/Lovable/2025-08-11-project-invites-workflow|Project invites workflow]]'
 source_release: '[[Releases/Cline/cline-2025-08-16-v3-25-3-github-240406878-320ae97e|cline-2025-08-16-v3-25-3-github-240406878-320ae97e]]'
 source_type: github_releases
 theme: collaboration
@@ -79,8 +78,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Collaboration
 
-- Earlier: 2025-08-11 · ChatGPT · [[Changes/ChatGPT/2025-08-11-plus-box-canva-dropbox-hubspot-notion-microsoft-sharepoint-and-microsoft-teams|Plus: Box, Canva, Dropbox, HubSpot, Notion, Microsoft SharePoint, and Microsoft Teams]]
-- Later: 2025-09-04 · Gemini CLI · [[Changes/Gemini CLI/2025-09-04-2-collaboration-changes-in-v0-3-0|2 Collaboration changes in v0.3.0]]
+- Earlier: 2025-08-11 · Lovable · [[Changes/Lovable/2025-08-11-project-invites-workflow|Project invites workflow]]
+- Later: 2025-08-21 · Claude · [[Changes/Claude/2025-08-21-making-shared-artifacts-embeddable|Making shared artifacts embeddable]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

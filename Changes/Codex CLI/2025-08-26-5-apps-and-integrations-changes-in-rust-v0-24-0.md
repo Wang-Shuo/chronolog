@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 2b70e303605cf826d111a9f020d5e4d8b269106a84f8d33c721317c05f06d0be
+machine_hash: 83019231270230a1497da97e8873919f4027787cb3f95c24b9ffddde59e63bf8
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -49,12 +49,12 @@ record:
   title: 5 Apps and Integrations changes in rust-v0.24.0
   type: change
 related_changes:
-- '[[Changes/OpenHands/2025-08-20-2-apps-and-integrations-changes-in-0-54-0|2 Apps
-  and Integrations changes in 0.54.0]]'
-- '[[Changes/Cline/2025-08-21-feat-telemetry-add-mcp-tool-usage-tracking-by-nighttrek-in-https-github-com-clin|feat(telemetry):
-  Add MCP tool usage tracking]]'
 - '[[Changes/Cursor/2025-08-21-cursor-now-supports-mcp-elicitation-a-new-feature-in-the-mcp-spec-that-allows-se|Support
   for MCP elicitation]]'
+- '[[Changes/Open WebUI/2025-08-21-5-apps-and-integrations-changes-in-v0-6-23|5 Apps
+  and Integrations changes in v0.6.23]]'
+- "[[Changes/Open WebUI/2025-08-22-tool-server-loading-and-visibility-restored-resolved-an-issue-where-connected-to|\U0001F6E0️
+  Tool Server Loading and Visibility Restored]]"
 source_release: '[[Releases/Codex CLI/codex-cli-2025-08-26-rust-v0-24-0-github-242647588-70fa432e|codex-cli-2025-08-26-rust-v0-24-0-github-242647588-70fa432e]]'
 source_type: github_releases
 theme: apps-integrations
@@ -104,8 +104,8 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.24.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2025-08-21 · Cursor · [[Changes/Cursor/2025-08-21-cursor-now-supports-mcp-elicitation-a-new-feature-in-the-mcp-spec-that-allows-se|Support for MCP elicitation]]
-- Later: 2025-08-27 · Gemini CLI · [[Changes/Gemini CLI/2025-08-27-2-apps-and-integrations-changes-in-v0-2-0|2 Apps and Integrations changes in v0.2.0]]
+- Earlier: 2025-08-22 · Open WebUI · [[Changes/Open WebUI/2025-08-22-tool-server-loading-and-visibility-restored-resolved-an-issue-where-connected-to|🛠️ Tool Server Loading and Visibility Restored]]
+- Later: 2025-08-27 · Dify · [[Changes/Dify/2025-08-27-11-apps-and-integrations-changes-in-1-8-0|11 Apps and Integrations changes in 1.8.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

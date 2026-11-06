@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 646857f0d3017acb20e2b00c945728cc2545f319e7f216827553f0cd3aceae6c
+machine_hash: b1b47cf26fde4b714f10769852ead78e0ac5404f32d102953020e520911febc3
 product: claude-code
 product_name: Claude Code
 record:
@@ -46,10 +46,10 @@ record:
   title: 2 Developer Workflow changes in v2.1.246
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-08-20-18-developer-workflow-changes-in-rust-v0-149-0|18
-  Developer Workflow changes in rust-v0.149.0]]'
 - '[[Changes/Claude Code/2026-08-21-2-developer-workflow-changes-in-v2-1-239|2 Developer
   Workflow changes in v2.1.239]]'
+- '[[Changes/Ollama/2026-08-21-deepseek-harness-launcher-now-falls-back-to-npx-when-the-global-npm-install-fail|DeepSeek
+  Harness launcher now falls back to npx when the global npm install fails…]]'
 - '[[Changes/ChatGPT/2026-08-25-plus-and-pro-users-can-ask-work-on-web-ios-and-android-to-respond-when-a-new-gma|Create
   webhook-triggered tasks]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-08-25-v2-1-246-github-376644211-dd9805a0|claude-code-2026-08-25-v2-1-246-github-376644211-dd9805a0]]'
@@ -92,7 +92,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.246
 ## Nearby in Developer Workflow
 
 - Earlier: 2026-08-25 · ChatGPT · [[Changes/ChatGPT/2026-08-25-plus-and-pro-users-can-ask-work-on-web-ios-and-android-to-respond-when-a-new-gma|Create webhook-triggered tasks]]
-- Later: 2026-08-25 · Gemini CLI · [[Changes/Gemini CLI/2026-08-25-ssr-agent-issue-fix-24935-force-terminal-buffer-rerender-after-exiting-external|SSR Agent Issue Fix (24935)]]
+- Later: 2026-08-25 · Dify · [[Changes/Dify/2026-08-25-4-developer-workflow-changes-in-1-17-0|4 Developer Workflow changes in 1.17.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

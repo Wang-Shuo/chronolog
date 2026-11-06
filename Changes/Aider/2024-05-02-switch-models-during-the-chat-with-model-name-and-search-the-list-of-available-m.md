@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 9a162cb723af934b52c8bc1d27e2a6628e1a648d4315ce85e8dc4ff8edee1f02
+machine_hash: 0b78377e27f23d57d9cd4fb73ff52619645bb78b669afb5e82f10478a0c9fbc7
 product: aider
 product_name: Aider
 record:
@@ -45,12 +45,12 @@ record:
     available…
   type: change
 related_changes:
-- '[[Changes/Cursor/2024-04-12-new-gpt-4-model-as-of-a-couple-of-days-ago-you-can-try-out-gpt-4-turbo-2024-04-0|New
-  GPT-4 model: As of a couple of days ago, you can try out gpt-4-turbo-2024-04-09…]]'
-- '[[Changes/Aider/2024-04-21-4-model-support-changes-in-v0-29-0|4 Model Support changes
-  in v0.29.0]]'
 - '[[Changes/Aider/2024-04-24-5-model-support-changes-in-v0-30-0|5 Model Support changes
   in v0.30.0]]'
+- '[[Changes/Dify/2024-04-25-6-model-support-changes-in-0-6-5|6 Model Support changes
+  in 0.6.5]]'
+- '[[Changes/Ollama/2024-04-28-6-model-support-changes-in-v0-1-33|6 Model Support
+  changes in v0.1.33]]'
 source_release: '[[Releases/Aider/aider-2024-05-02-v0-31-0-github-153874269-a8e4f7f5|aider-2024-05-02-v0-31-0-github-153874269-a8e4f7f5]]'
 source_type: github_releases
 theme: model-support
@@ -79,8 +79,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2024-04-24 · Aider · [[Changes/Aider/2024-04-24-5-model-support-changes-in-v0-30-0|5 Model Support changes in v0.30.0]]
-- Later: 2024-05-07 · Aider · [[Changes/Aider/2024-05-07-4-model-support-changes-in-v0-32-0|4 Model Support changes in v0.32.0]]
+- Earlier: 2024-04-28 · Ollama · [[Changes/Ollama/2024-04-28-6-model-support-changes-in-v0-1-33|6 Model Support changes in v0.1.33]]
+- Later: 2024-05-02 · Dify · [[Changes/Dify/2024-05-02-5-model-support-changes-in-0-6-6|5 Model Support changes in 0.6.6]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 323add3340211456cd1f8e4fda2720bddcc8623aed354e60cd94747610312cdb
+machine_hash: 5913a043dffee640c345df8c77d3f231a4a682ea93d1dc1e00cfca2977d0820e
 product: aider
 product_name: Aider
 record:
@@ -41,12 +41,11 @@ record:
   title: 2 Developer Workflow changes in v0.70.0
   type: change
 related_changes:
-- '[[Changes/Aider/2024-12-13-new-multiline-flag-and-multiline-mode-command-https-aider-chat-docs-usage-comman|New
-  --multiline flag and /multiline-mode…]]'
-- '[[Changes/Cursor/2024-12-17-agent-sees-terminal-exit-codes-can-run-commands-in-the-background-and-commands-a-4f6044|Agent
-  sees terminal exit codes, can run commands in the background, and commands…]]'
-- '[[Changes/OpenHands/2024-12-17-add-color-to-the-line-next-to-ran-a-command-based-on-return-value-by-openhands-a|Add
-  color to the line next to Ran a Command based on return value]]'
+- '[[Changes/Dify/2024-12-18-stop-the-service-command-please-execute-in-the-docker-directory|Stop
+  the service，Command, please execute in the docker directory]]'
+- '[[Changes/Replit/2024-12-20-workflows|Workflows]]'
+- '[[Changes/Dify/2024-12-23-stop-the-service-command-please-execute-in-the-docker-directory|Stop
+  the service，Command, please execute in the docker directory]]'
 source_release: '[[Releases/Aider/aider-2024-12-26-v0-70-0-github-192422417-0fd50011|aider-2024-12-26-v0-70-0-github-192422417-0fd50011]]'
 source_type: github_releases
 theme: developer-workflow
@@ -82,8 +81,8 @@ Source: https://github.com/Aider-AI/aider/releases/tag/v0.70.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2024-12-17 · OpenHands · [[Changes/OpenHands/2024-12-17-add-color-to-the-line-next-to-ran-a-command-based-on-return-value-by-openhands-a|Add color to the line next to Ran a Command based on return value]]
-- Later: 2025-01-06 · Cline · [[Changes/Cline/2025-01-06-under-the-hood-the-extension-uses-git-to-efficiently-track-changes-which-uses-ad|Under the hood, the extension uses git to efficiently track changes, which uses…]]
+- Earlier: 2024-12-23 · Dify · [[Changes/Dify/2024-12-23-stop-the-service-command-please-execute-in-the-docker-directory|Stop the service，Command, please execute in the docker directory]]
+- Later: 2025-01-05 · Open WebUI · [[Changes/Open WebUI/2025-01-05-proper-exception-handling-enhanced-error-feedback-by-ensuring-exceptions-are-rai|❌ Proper Exception Handling]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

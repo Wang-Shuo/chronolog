@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 34ef30d9e44dbe71e9eb97e655e44b96aa317a03ea482275d20ca8d9798c1cbc
+machine_hash: ab4732d2b0d356b9e55a4b6963a2061aa786fe5983cd41216fed87aa735edef5
 product: cursor
 product_name: Cursor
 record:
@@ -53,12 +53,11 @@ record:
   title: Cursor Tab now auto-imports symbols in Python files!
   type: change
 related_changes:
-- '[[Changes/Aider/2024-08-10-performance-improvements-for-repo-map-calculation|Performance
-  improvements for repo map calculation]]'
-- '[[Changes/Aider/2024-08-13-web-scraper-is-more-robust-if-page-never-idles|Web scraper
-  is more robust if page never idles]]'
-- '[[Changes/Aider/2024-08-20-improved-editing-performance-on-jupyter-notebook-ipynb-files|Improved
-  editing performance on Jupyter Notebook .ipynb files]]'
+- '[[Changes/Dify/2024-09-10-nodes-can-now-be-executed-in-parallel-within-a-workflow-greatly-increasing-the-e|Nodes
+  can now be executed in parallel within a workflow, greatly increasing…]]'
+- '[[Changes/Dify/2024-09-12-if-else-node-stability|IF-ELSE Node Stability]]'
+- '[[Changes/Dify/2024-09-13-score-threshold-fix-addressed-an-issue-where-the-score-threshold-was-set-to-none|Score
+  Threshold Fix]]'
 source_release: '[[Releases/Cursor/cursor-2024-09-17-0-41-x-https-cursor-com-changelog-0-41-x-a8b13ea8|cursor-2024-09-17-0-41-x-https-cursor-com-changelog-0-41-x-a8b13ea8]]'
 source_type: cursor_changelog
 theme: reliability-performance
@@ -91,8 +90,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2024-08-20 · Aider · [[Changes/Aider/2024-08-20-improved-editing-performance-on-jupyter-notebook-ipynb-files|Improved editing performance on Jupyter Notebook .ipynb files]]
-- Later: 2024-09-19 · Cline · [[Changes/Cline/2024-09-19-folder-adds-folder-s-files-all-at-once-to-speed-up-your-workflow-even-more|@folder: Adds folder's files all at once to speed up your workflow even more]]
+- Earlier: 2024-09-13 · Dify · [[Changes/Dify/2024-09-13-score-threshold-fix-addressed-an-issue-where-the-score-threshold-was-set-to-none|Score Threshold Fix]]
+- Later: 2024-09-17 · Ollama · [[Changes/Ollama/2024-09-17-the-ollama-ollama-container-image-will-now-start-running-almost-immediately-lead|The ollama/ollama container image will now start running almost immediately…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

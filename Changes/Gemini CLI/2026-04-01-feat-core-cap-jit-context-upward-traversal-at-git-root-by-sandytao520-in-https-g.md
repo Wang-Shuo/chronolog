@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 0ed65a8bec9bd5b9869dfb15e69e510069d8b486ec3ec09d223de060c14e2195
+machine_hash: 8ebd24490023064b5b85f94538ba50071ab9312c008f25d2d1bd5812727a970b
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -42,8 +42,8 @@ record:
   title: 'feat(core): cap JIT context upward traversal at git root'
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-03-27-3-context-window-changes-in-v2-1-86|3 Context
-  Window changes in v2.1.86]]'
+- '[[Changes/Dify/2026-03-27-feat-workflow-add-selection-context-menu-helpers-and-integrate-with-context-menu|feat(workflow):
+  add selection context menu helpers and integrate with context menu…]]'
 - '[[Changes/Codex CLI/2026-03-31-16286-auth-generalize-external-auth-tokens-for-bearer-only-sources-bolinfest|♯16286
   auth: generalize external auth tokens for bearer-only sources @bolinfest]]'
 - '[[Changes/Claude Code/2026-04-01-changed-hook-output-over-50k-characters-to-be-saved-to-disk-with-a-file-path-pre|Changed

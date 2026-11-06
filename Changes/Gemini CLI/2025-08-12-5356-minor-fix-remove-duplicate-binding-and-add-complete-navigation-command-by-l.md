@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 5c1462504320ae6b6dd47da1d06b2fcb46d90e0f503b322f9f96b7a11eac6089
+machine_hash: 59363e9bbd7ef021a117933151257dd1e0477dfbebd28bae8ad95eb3c0a6d564
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -43,12 +43,12 @@ record:
     command'
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2025-08-05-2-interface-experience-changes-in-v0-1-17|2 Interface
-  Experience changes in v0.1.17]]'
-- '[[Changes/Gemini CLI/2025-08-06-2-interface-experience-changes-in-v0-1-18|2 Interface
-  Experience changes in v0.1.18]]'
-- '[[Changes/Aider/2025-08-09-clear-now-prints-all-chat-history-cleared-so-you-know-it-worked-by-zexin-yuan|/clear
-  now prints “All chat history cleared.” so you know it worked, by Zexin Yuan]]'
+- '[[Changes/Open WebUI/2025-08-09-13-interface-experience-changes-in-v0-6-19|13 Interface
+  Experience changes in v0.6.19]]'
+- '[[Changes/Dify/2025-08-11-4-interface-experience-changes-in-1-7-2|4 Interface Experience
+  changes in 1.7.2]]'
+- '[[Changes/Open WebUI/2025-08-11-general-ui-ux-enhancements-implemented-various-user-interface-and-experience-imp|✨
+  General UI/UX Enhancements]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2025-08-12-v0-1-19-github-239452049-c4d9f679|gemini-cli-2025-08-12-v0-1-19-github-239452049-c4d9f679]]'
 source_type: github_releases
 theme: interface-experience
@@ -88,7 +88,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2025-08-09 · Aider · [[Changes/Aider/2025-08-09-clear-now-prints-all-chat-history-cleared-so-you-know-it-worked-by-zexin-yuan|/clear now prints “All chat history cleared.” so you know it worked, by Zexin Yuan]]
+- Earlier: 2025-08-11 · Open WebUI · [[Changes/Open WebUI/2025-08-11-general-ui-ux-enhancements-implemented-various-user-interface-and-experience-imp|✨ General UI/UX Enhancements]]
 - Later: 2025-08-13 · Cline · [[Changes/Cline/2025-08-13-move-browser-settings-menu-to-tailwind-by-celestial-vault-in-https-github-com-cl|move browser settings menu to tailwind]]
 <!-- chronolog:end -->
 

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 43b7d1d9f57918f86276ab72aa3b67700b94a496390ab22b947c20ad3552d9c7
+machine_hash: f40e76874413cb5542f19998a3a0318fe7842fa018d45bd70dc047def0962182
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -41,12 +41,11 @@ record:
   title: '#2848 chore: try to make it easier to debug the flakiness…'
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-08-21-you-can-now-start-background-agents-directly-from-linear-delegate-tasks-to-curso|Run
-  Agents in Linear]]'
-- '[[Changes/Cursor/2025-08-21-get-native-os-notifications-when-an-agent-run-finishes-or-when-input-is-required|OS
-  notifications from Agent]]'
+- '[[Changes/ElevenLabs/2025-08-25-agents-platform|Agents Platform]]'
 - '[[Changes/Codex CLI/2025-08-26-5-agent-mode-changes-in-rust-v0-24-0|5 Agent Mode
   changes in rust-v0.24.0]]'
+- '[[Changes/Dify/2025-08-27-5-agent-mode-changes-in-1-8-0|5 Agent Mode changes in
+  1.8.0]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2025-08-29-rust-v0-26-0-github-243361170-3db0d38c|codex-cli-2025-08-29-rust-v0-26-0-github-243361170-3db0d38c]]'
 source_type: github_releases
 theme: agent-mode
@@ -79,7 +78,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2025-08-26 · Codex CLI · [[Changes/Codex CLI/2025-08-26-5-agent-mode-changes-in-rust-v0-24-0|5 Agent Mode changes in rust-v0.24.0]]
+- Earlier: 2025-08-27 · Dify · [[Changes/Dify/2025-08-27-5-agent-mode-changes-in-1-8-0|5 Agent Mode changes in 1.8.0]]
 - Later: 2025-08-29 · Codex CLI · [[Changes/Codex CLI/2025-08-29-2-agent-mode-changes-in-rust-v0-27-0|2 Agent Mode changes in rust-v0.27.0]]
 <!-- chronolog:end -->
 

@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 8ac7397c49ff34a71c0ef5dd960395e38bc764e25458f82aa15c97a9fa020764
+machine_hash: 6e93564dfa704edaf147f6767bc287bd41e46908e5b32c9d60175ae4a3ddd4ea
 product: openhands
 product_name: OpenHands
 record:
@@ -42,12 +42,12 @@ record:
   title: 2 Developer Workflow changes in 0.8.1
   type: change
 related_changes:
-- '[[Changes/OpenHands/2024-07-05-3-developer-workflow-changes-in-0-7-1|3 Developer
-  Workflow changes in 0.7.1]]'
-- '[[Changes/Aider/2024-07-07-all-config-env-yml-json-files-now-load-from-home-git-root-cwd-and-named-command|All
-  config/env/yml/json files now load from home, git root, cwd and named command…]]'
 - '[[Changes/OpenHands/2024-07-13-feat-implement-user-confirmation-mode-request-confirmation-when-running-bash-pyt|feat:
   Implement user confirmation mode, request confirmation when running…]]'
+- '[[Changes/Dify/2024-07-15-2-developer-workflow-changes-in-0-6-14|2 Developer Workflow
+  changes in 0.6.14]]'
+- "[[Changes/Open WebUI/2024-07-17-debug-logs-fixed-an-issue-where-debug-logs-were-not-being-logged-properly|\U0001FAB2
+  Debug Logs: Fixed an issue where debug logs were not being logged properly]]"
 source_release: '[[Releases/OpenHands/openhands-2024-07-19-0-8-1-github-166290483-3fde9148|openhands-2024-07-19-0-8-1-github-166290483-3fde9148]]'
 source_type: github_releases
 theme: developer-workflow
@@ -84,8 +84,8 @@ Source: https://github.com/OpenHands/OpenHands/releases/tag/0.8.1
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2024-07-13 · OpenHands · [[Changes/OpenHands/2024-07-13-feat-implement-user-confirmation-mode-request-confirmation-when-running-bash-pyt|feat: Implement user confirmation mode, request confirmation when running…]]
-- Later: 2024-07-28 · Cline · [[Changes/Cline/2024-07-28-provide-feedback-to-tool-use-like-terminal-commands-and-file-edits|Provide feedback to tool use like terminal commands and file edits]]
+- Earlier: 2024-07-17 · Open WebUI · [[Changes/Open WebUI/2024-07-17-debug-logs-fixed-an-issue-where-debug-logs-were-not-being-logged-properly|🪲 Debug Logs: Fixed an issue where debug logs were not being logged properly]]
+- Later: 2024-07-23 · Dify · [[Changes/Dify/2024-07-23-stop-the-service-command-please-execute-in-the-docker-directory|Stop the service，Command, please execute in the docker directory]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

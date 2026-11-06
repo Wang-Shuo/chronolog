@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 88aa0171b5faa903c9eafd901c7326ae1efb5fc9096cf1484409082c5742f3ee
+machine_hash: 2b6555914941bafa325233ff0d12d1a33798d1aabb729435d8df7452cc640fc6
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -131,7 +131,7 @@ Source: https://github.com/google-gemini/gemini-cli/releases/tag/v0.1.13
 ## Nearby in Developer Workflow
 
 - Earlier: 2025-07-18 · Cline · [[Changes/Cline/2025-07-18-standalone-terminal-manager-remove-other-vscode-impls-now-covered-by-host-bridge|Standalone Terminal Manager & remove other vscode-impls (now covered by host bridge)]]
-- Later: 2025-07-22 · Cline · [[Changes/Cline/2025-07-22-refactor-git-commit-message-generation-as-a-module-by-abeatrix-in-https-github-c|Refactor: Git commit message generation as a module]]
+- Later: 2025-07-19 · Open WebUI · [[Changes/Open WebUI/2025-07-19-enhanced-reasoning-tag-processing-improved-and-expanded-reasoning-tag-parsing-to|🧠 Enhanced Reasoning Tag Processing]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

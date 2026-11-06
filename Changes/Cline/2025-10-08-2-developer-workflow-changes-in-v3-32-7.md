@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: c50d5a08ed1001e90a53aadceb79da949ea33dfa5db0b9402c1beb30e442509b
+machine_hash: f18db88e4924c509c3b9a09677df0148f78fffa7de7ab03574d3ddf2f4fed023
 product: cline
 product_name: Cline
 record:
@@ -41,12 +41,12 @@ record:
   title: 2 Developer Workflow changes in v3.32.7
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2025-10-06-4673-fix-colors-when-refocusing-the-terminal-after-a-system-theme-update|♯4673
-  Fix colors when refocusing the terminal after a system theme update]]'
 - '[[Changes/GitHub Copilot CLI/2025-10-06-improved-slash-command-input-by-showing-argument-hints-in-the-input-box|Improved
   slash command input by showing argument hints in the input box]]'
 - '[[Changes/Gemini CLI/2025-10-07-delete-shell-service-test-ts-and-change-other-tests-to-cover-the-same-features-b|Delete
   shell-service.test.ts and change other tests to cover the same features]]'
+- '[[Changes/Open WebUI/2025-10-07-3-developer-workflow-changes-in-v0-6-33|3 Developer
+  Workflow changes in v0.6.33]]'
 source_release: '[[Releases/Cline/cline-2025-10-08-v3-32-7-github-253184994-00247f69|cline-2025-10-08-v3-32-7-github-253184994-00247f69]]'
 source_type: github_releases
 theme: developer-workflow
@@ -81,7 +81,7 @@ Source: https://github.com/cline/cline/releases/tag/v3.32.7
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2025-10-07 · Gemini CLI · [[Changes/Gemini CLI/2025-10-07-delete-shell-service-test-ts-and-change-other-tests-to-cover-the-same-features-b|Delete shell-service.test.ts and change other tests to cover the same features]]
+- Earlier: 2025-10-07 · Open WebUI · [[Changes/Open WebUI/2025-10-07-3-developer-workflow-changes-in-v0-6-33|3 Developer Workflow changes in v0.6.33]]
 - Later: 2025-10-08 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2025-10-08-added-support-for-multi-line-input-for-terminals-that-support-the-kitty-protocol|Added support for multi-line input for terminals that support the Kitty…]]
 <!-- chronolog:end -->
 

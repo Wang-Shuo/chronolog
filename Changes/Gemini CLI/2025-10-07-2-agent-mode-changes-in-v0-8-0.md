@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: cb45d7671d421601cf1d207c57e501d3628cbd6f526bcb8b654aabd1a8b18841
+machine_hash: b8854c8288ba457360b5c2c1bc6665617bf2dbdb01e6ee3466ddd3f83b924719
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -45,12 +45,9 @@ record:
   title: 2 Agent Mode changes in v0.8.0
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-09-29-image-file-support-for-agent|Image file support for
-  Agent]]'
-- '[[Changes/GitHub Copilot CLI/2025-10-01-improved-the-experience-of-writing-prompts-while-the-agent-is-running-up-down-ar|Improved
-  the experience of writing prompts while the agent is running -- up/down…]]'
-- '[[Changes/Codex CLI/2025-10-03-5-agent-mode-changes-in-rust-v0-44-0|5 Agent Mode
-  changes in rust-v0.44.0]]'
+- '[[Changes/ElevenLabs/2025-10-07-agents-platform-821aa5|Agents Platform]]'
+- '[[Changes/ElevenLabs/2025-10-07-agents-platform-f78196|Agents Platform]]'
+- '[[Changes/ElevenLabs/2025-10-07-websocket-events|WebSocket Events]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2025-10-07-v0-8-0-github-252858757-2ecdc728|gemini-cli-2025-10-07-v0-8-0-github-252858757-2ecdc728]]'
 source_type: github_releases
 theme: agent-mode
@@ -93,8 +90,8 @@ Source: https://github.com/google-gemini/gemini-cli/releases/tag/v0.8.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2025-10-03 · Codex CLI · [[Changes/Codex CLI/2025-10-03-5-agent-mode-changes-in-rust-v0-44-0|5 Agent Mode changes in rust-v0.44.0]]
-- Later: 2025-10-15 · Gemini CLI · [[Changes/Gemini CLI/2025-10-15-3-agent-mode-changes-in-v0-9-0|3 Agent Mode changes in v0.9.0]]
+- Earlier: 2025-10-07 · ElevenLabs · [[Changes/ElevenLabs/2025-10-07-websocket-events|WebSocket Events]]
+- Later: 2025-10-10 · Replit · [[Changes/Replit/2025-10-10-webview-logging-experience|Webview logging experience]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

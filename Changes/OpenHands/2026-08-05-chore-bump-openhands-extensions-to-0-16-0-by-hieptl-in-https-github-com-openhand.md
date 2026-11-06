@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 690e23f55aae9821198946f052418c38e8fc975f058180928e54ec0e8320867b
+machine_hash: 8c28397caad4ee4856a872e163b9e8ed4ca5df1c306d0d3c6f4056889a69014a
 product: openhands
 product_name: OpenHands
 record:
@@ -82,7 +82,7 @@ type: change
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-08-05 · Cline · [[Changes/Cline/2026-08-05-2-apps-and-integrations-changes-in-v4-1-4|2 Apps and Integrations changes in v4.1.4]]
-- Later: 2026-08-07 · Claude Code · [[Changes/Claude Code/2026-08-07-3-apps-and-integrations-changes-in-v2-1-224|3 Apps and Integrations changes in v2.1.224]]
+- Later: 2026-08-06 · Claude · [[Changes/Claude/2026-08-06-skill-and-plugin-security-scanning-beta|Skill and plugin security scanning (beta)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

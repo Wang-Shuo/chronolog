@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 9179e23b36ba7ec731b3f621c6ca179357437b0f3e0a6efe13499c0322743061
+machine_hash: dbae51384d3c55d20aa680f60227ca0b9ed4a4715a7303bd1bf8d667e6abc7ca
 product: cursor
 product_name: Cursor
 record:
@@ -45,10 +45,10 @@ record:
     provider…
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2026-08-25-8-agent-mode-changes-in-v0-57-0|8 Agent Mode changes
-  in v0.57.0]]'
 - '[[Changes/Codex CLI/2026-08-26-14-agent-mode-changes-in-rust-v0-150-0|14 Agent
   Mode changes in rust-v0.150.0]]'
+- '[[Changes/Lovable/2026-08-26-add-your-app-to-slack-as-an-agent|Add your app to
+  Slack as an agent]]'
 - '[[Changes/Claude Code/2026-08-27-3-agent-mode-changes-in-v2-1-248|3 Agent Mode
   changes in v2.1.248]]'
 source_release: '[[Releases/Cursor/cursor-2026-08-27-start-from-scratch-without-a-repo-https-cursor-com-changelog-sta-d75d62ae|cursor-2026-08-27-start-from-scratch-without-a-repo-https-cursor-com-changelog-sta-d75d62ae]]'

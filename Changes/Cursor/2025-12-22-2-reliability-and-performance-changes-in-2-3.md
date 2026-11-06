@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 69f8e12b8a915a3eb90b5e6b312598487b553d6c35653240a5d025b9d5ba6b72
+machine_hash: cf2472031381c66a3126a5a1e1adabd151d4ae853005b13c19966539fa3548d7
 product: cursor
 product_name: Cursor
 record:
@@ -44,10 +44,10 @@ record:
   title: 2 Reliability and Performance changes in 2.3
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2025-12-18-8216-speed-and-reliability-improvements-for-setting-reads-acls|♯8216
-  speed and reliability improvements for setting reads ACLs]]'
 - '[[Changes/Codex CLI/2025-12-21-8295-coalesce-transcript-scroll-redraws-tui2-performance-https-github-com-openai|♯8295
   Coalesce transcript scroll redraws (TUI2 performance)]]'
+- '[[Changes/Open WebUI/2025-12-21-7-reliability-and-performance-changes-in-v0-6-42|7
+  Reliability and Performance changes in v0.6.42]]'
 - '[[Changes/Cursor/2025-12-22-for-this-holiday-release-we-ve-focused-entirely-on-fixing-bugs-and-improving-sta|For
   this holiday release, we''ve focused entirely on fixing bugs and improving stability]]'
 source_release: '[[Releases/Cursor/cursor-2025-12-22-2-3-https-cursor-com-changelog-2-3-fe418465|cursor-2025-12-22-2-3-https-cursor-com-changelog-2-3-fe418465]]'
@@ -89,7 +89,7 @@ Source: https://cursor.com/changelog/2-3
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2025-12-21 · Codex CLI · [[Changes/Codex CLI/2025-12-21-8295-coalesce-transcript-scroll-redraws-tui2-performance-https-github-com-openai|♯8295 Coalesce transcript scroll redraws (TUI2 performance)]]
+- Earlier: 2025-12-21 · Open WebUI · [[Changes/Open WebUI/2025-12-21-7-reliability-and-performance-changes-in-v0-6-42|7 Reliability and Performance changes in v0.6.42]]
 - Later: 2025-12-24 · Windsurf · [[Changes/Windsurf/2025-12-24-swe-1-5-free|SWE-1.5 Free]]
 <!-- chronolog:end -->
 

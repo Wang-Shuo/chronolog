@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 793cd47dcccb08651d331c8d87eacc4b0d1c715544929a6d183d3cea713919ec
+machine_hash: 565f6ede93863af938409643bf3d6f9d1a67b7c5c27c3730438181491482a2f1
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -63,12 +63,11 @@ record:
   title: 8 Agent Mode changes in v0.57.0
   type: change
 related_changes:
-- '[[Changes/OpenHands/2026-08-21-feat-add-llm-provider-connections-ui-local-agent-server-by-juanmichelini-in-http|feat:
-  add LLM provider-connections UI (local agent-server)]]'
-- '[[Changes/Cline/2026-08-22-carry-session-and-client-identity-into-langfuse-traces-for-hub-backed-and-delega|Carry
-  session and client identity into Langfuse traces for Hub-backed…]]'
+- '[[Changes/ElevenLabs/2026-08-24-procedures|Procedures]]'
 - '[[Changes/Claude Code/2026-08-25-improved-subagent-results-a-subagent-that-stops-at-its-maxturns-limit-now-return|Improved
   subagent results]]'
+- '[[Changes/Dify/2026-08-25-53-agent-mode-changes-in-1-17-0|53 Agent Mode changes
+  in 1.17.0]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2026-08-25-v0-57-0-github-376624905-82c95bfa|gemini-cli-2026-08-25-v0-57-0-github-376624905-82c95bfa]]'
 source_type: github_releases
 theme: agent-mode
@@ -118,8 +117,8 @@ Source: https://github.com/google-gemini/gemini-cli/releases/tag/v0.57.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2026-08-25 · Claude Code · [[Changes/Claude Code/2026-08-25-improved-subagent-results-a-subagent-that-stops-at-its-maxturns-limit-now-return|Improved subagent results]]
-- Later: 2026-08-26 · Codex CLI · [[Changes/Codex CLI/2026-08-26-14-agent-mode-changes-in-rust-v0-150-0|14 Agent Mode changes in rust-v0.150.0]]
+- Earlier: 2026-08-25 · Dify · [[Changes/Dify/2026-08-25-53-agent-mode-changes-in-1-17-0|53 Agent Mode changes in 1.17.0]]
+- Later: 2026-08-25 · Open WebUI · [[Changes/Open WebUI/2026-08-25-files-for-delegated-tasks-a-task-handed-to-a-sub-agent-can-now-carry-the-attachm|🤝 Files for delegated tasks. A task handed to a sub-agent can now carry…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

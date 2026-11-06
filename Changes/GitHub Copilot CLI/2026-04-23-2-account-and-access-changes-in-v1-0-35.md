@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 63c508d14cb35d306480a35065b4a6cd10012fa630b52640b75871f817724491
+machine_hash: 34ae2cfe2a92d1409a2d8a8660c8f2958052db68a8d9a90707d97f7b3eaf7ec0
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -43,8 +43,8 @@ record:
   title: 2 Account and Access changes in v1.0.35
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-04-17-copilot-login-host-now-correctly-authenticates-with-github-enterprise-cloud-ghe|copilot
-  login --host now correctly authenticates with GitHub Enterprise Cloud (GHE)…]]'
+- '[[Changes/Open WebUI/2026-04-21-17-account-and-access-changes-in-v0-9-0|17 Account
+  and Access changes in v0.9.0]]'
 - '[[Changes/ChatGPT/2026-04-22-we-re-launching-chatgpt-for-clinicians-a-free-version-of-chatgpt-for-verified-cl|ChatGPT
   for Clinicians]]'
 - '[[Changes/Gemini CLI/2026-04-23-docs-correct-documentation-for-enforced-authentication-type-by-cocosheng-g-in-ht|docs:
@@ -92,7 +92,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.35
 ## Nearby in Account and Access
 
 - Earlier: 2026-04-23 · Gemini CLI · [[Changes/Gemini CLI/2026-04-23-docs-correct-documentation-for-enforced-authentication-type-by-cocosheng-g-in-ht|docs: correct documentation for enforced authentication type]]
-- Later: 2026-04-28 · Claude Code · [[Changes/Claude Code/2026-04-28-clarified-the-mcp-message-shown-when-an-mcp-server-is-still-unauthorized-after-t|Clarified the /mcp message shown when an MCP server is still unauthorized after…]]
+- Later: 2026-04-24 · Open WebUI · [[Changes/Open WebUI/2026-04-24-3-account-and-access-changes-in-v0-9-2|3 Account and Access changes in v0.9.2]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

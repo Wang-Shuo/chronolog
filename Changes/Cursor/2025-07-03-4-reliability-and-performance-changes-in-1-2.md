@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 0156b2dd74aef01f7bd2c6e1cf64e3e7bcbb7e429949f3a9465a50fe2b0829a1
+machine_hash: bc870c979e5fd9fd2d4cb676a61987cb0767508d1495446e0753ec91cc8750fa
 product: cursor
 product_name: Cursor
 record:
@@ -48,8 +48,8 @@ record:
   title: 4 Reliability and Performance changes in 1.2
   type: change
 related_changes:
-- '[[Changes/Aider/2025-06-27-3-reliability-and-performance-changes-in-v0-85-0|3 Reliability
-  and Performance changes in v0.85.0]]'
+- '[[Changes/Ollama/2025-07-02-the-macos-app-is-now-a-native-application-and-starts-much-faster-while-requiring|The
+  macOS app is now a native application and starts much faster while requiring…]]'
 - '[[Changes/Cline/2025-07-03-2-reliability-and-performance-changes-in-v3-18-3|2 Reliability
   and Performance changes in v3.18.3]]'
 - '[[Changes/Cursor/2025-07-03-faster-tab|Faster Tab]]'
@@ -101,7 +101,7 @@ Source: https://cursor.com/changelog/1-2
 ## Nearby in Reliability and Performance
 
 - Earlier: 2025-07-03 · Cline · [[Changes/Cline/2025-07-03-2-reliability-and-performance-changes-in-v3-18-3|2 Reliability and Performance changes in v3.18.3]]
-- Later: 2025-07-08 · Cline · [[Changes/Cline/2025-07-08-optimize-provider-switching-performance-with-batched-storage-operations-by-arafa|Optimize provider switching performance with batched storage operations]]
+- Later: 2025-07-04 · Replit · [[Changes/Replit/2025-07-04-improved-icons|Improved icons]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 7235063266c3cf7e53195216b699b7a805f27b0d4b1c702d4f3ccc47b2b29f46
+machine_hash: 0666e3e03e0b21a651a55cf34d875f6ce70fd3525ccf0cd2590a5eabd28c2a0d
 product: claude-code
 product_name: Claude Code
 record:
@@ -46,10 +46,10 @@ record:
     check…'
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-04-16-2-safety-and-privacy-changes-in-v1-0-28|2
-  Safety and Privacy changes in v1.0.28]]'
 - '[[Changes/Claude Code/2026-04-17-6-safety-and-privacy-changes-in-v2-1-113|6 Safety
   and Privacy changes in v2.1.113]]'
+- '[[Changes/Replit/2026-04-17-custom-groups-for-scim-organizations|Custom groups
+  for SCIM organizations]]'
 - '[[Changes/Claude Code/2026-04-18-fixed-a-crash-in-the-permission-dialog-when-an-agent-teams-teammate-requested-to|Fixed
   a crash in the permission dialog when an agent teams teammate requested tool…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-04-20-v2-1-116-github-311446114-3b24dc7e|claude-code-2026-04-20-v2-1-116-github-311446114-3b24dc7e]]'

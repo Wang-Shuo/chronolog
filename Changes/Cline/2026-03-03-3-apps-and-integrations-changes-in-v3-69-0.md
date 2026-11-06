@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 00b0888ffc92e3a618d4367aedbaa9e8b3e480ad392ea8a978e30e3168c15279
+machine_hash: f038b817582860909e7327214c588d4dfbaffa01fe154e346506d4073a4008f6
 product: cline
 product_name: Cline
 record:
@@ -44,12 +44,10 @@ record:
   title: 3 Apps and Integrations changes in v3.69.0
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-02-27-3-apps-and-integrations-changes-in-v0-0-419|3
-  Apps and Integrations changes in v0.0.419]]'
-- '[[Changes/Claude Code/2026-02-28-added-enable-claudeai-mcp-servers-false-env-var-to-opt-out-from-making-claude-ai|Added
-  ENABLE_CLAUDEAI_MCP_SERVERS=false env var to opt out from making claude.ai…]]'
-- '[[Changes/Codex CLI/2026-03-02-3-apps-and-integrations-changes-in-rust-v0-107-0|3
-  Apps and Integrations changes in rust-v0.107.0]]'
+- '[[Changes/ElevenLabs/2026-03-02-python-sdk|Python SDK]]'
+- '[[Changes/ElevenLabs/2026-03-02-sdk-releases|SDK Releases]]'
+- '[[Changes/v0/2026-03-02-2-apps-and-integrations-changes-in-bug-fixes-and-improvements-for-mar-2nd|2
+  Apps and Integrations changes in Bug fixes and improvements for Mar 2nd]]'
 source_release: '[[Releases/Cline/cline-2026-03-03-v3-69-0-github-292321177-f95c432e|cline-2026-03-03-v3-69-0-github-292321177-f95c432e]]'
 source_type: github_releases
 theme: apps-integrations
@@ -89,7 +87,7 @@ Source: https://github.com/cline/cline/releases/tag/v3.69.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-03-02 · Codex CLI · [[Changes/Codex CLI/2026-03-02-3-apps-and-integrations-changes-in-rust-v0-107-0|3 Apps and Integrations changes in rust-v0.107.0]]
+- Earlier: 2026-03-02 · v0 · [[Changes/v0/2026-03-02-2-apps-and-integrations-changes-in-bug-fixes-and-improvements-for-mar-2nd|2 Apps and Integrations changes in Bug fixes and improvements for Mar 2nd]]
 - Later: 2026-03-03 · Cursor · [[Changes/Cursor/2026-03-03-3-apps-and-integrations-changes-in-2-6|3 Apps and Integrations changes in 2.6]]
 <!-- chronolog:end -->
 

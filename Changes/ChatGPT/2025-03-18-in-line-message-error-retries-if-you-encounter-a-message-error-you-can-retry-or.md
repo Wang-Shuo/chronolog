@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: c9bfe137eaed116ed855812a10d813b9082e4054c9efe1834171eeaea38a4249
+machine_hash: 43070fef516fd0b53a9f4a09eae796e2110b9873162a9fd573e561cab327cf98
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -46,8 +46,8 @@ record:
   title: In-line message error retries
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-03-11-this-release-focuses-mainly-on-stability-and-performance-improvements-to-make-ex|This
-  release focuses mainly on stability and performance improvements to make…]]'
+- '[[Changes/Replit/2025-03-14-web-view-performance-improvements|Web View performance
+  improvements]]'
 - '[[Changes/Cline/2025-03-15-improve-checkpoints-loading-performance-and-display-warning-for-large-projects-n|Improve
   checkpoints loading performance and display warning for large projects not…]]'
 - '[[Changes/ChatGPT/2025-03-18-we-have-been-working-on-a-variety-of-usability-and-performance-improvements-and|We

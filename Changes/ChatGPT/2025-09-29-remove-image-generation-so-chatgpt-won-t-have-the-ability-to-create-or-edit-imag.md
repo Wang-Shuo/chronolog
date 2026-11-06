@@ -4,20 +4,20 @@ date: '2025-09-29'
 description: 'ChatGPT · 2025-09-29 · Image Generation: Remove image generation, so
   ChatGPT won’t have the ability to create or edit images.'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2024-08-08-we-re-rolling-out-the-ability-for-chatgpt-free-users-to-create-up-to-two-images-2c505c|DALL·E
-    3 for ChatGPT Free users]]'
+  first_in_tracked: "[[Changes/Open WebUI/2024-03-10-dall-e-integration-introduced-dall-e-integration-for-image-generation-alongside|\U0001F3A8
+    DALL-E Integration]]"
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 417
+  lag_days: 568
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: image-generation
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: db304ef861255f2fa0223d0185d117e3d05bc0c2e99789e1763598b4ad1f029c
+machine_hash: dc6761e727066346585c89dc96e656d721a70961717ed7875b48bf14a235daff
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -43,12 +43,12 @@ record:
     images
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2025-08-08-we-re-rolling-out-a-small-update-to-image-generation-for-chatgpt-free-tier-users|Image
-  generation update to ChatGPT Free]]'
-- '[[Changes/ChatGPT/2025-08-18-more-messages-larger-file-uploads-and-expanded-image-generation|More
-  messages, larger file uploads, and expanded image generation]]'
+- '[[Changes/Open WebUI/2025-09-17-models-can-now-be-configured-with-default-features-web-search-image-generation-a|⚙️
+  Models can now be configured with default features (Web Search, Image Generation)…]]'
 - '[[Changes/ChatGPT/2025-09-22-more-messages-larger-file-uploads-and-expanded-image-generation|More
   messages, larger file uploads, and expanded image generation]]'
+- "[[Changes/Open WebUI/2025-09-25-image-generation-model-selection-was-centralized-to-enable-dynamic-model-overrid|\U0001F3A8
+  Image generation model selection was centralized to enable dynamic model override…]]"
 source_release: '[[Releases/ChatGPT/chatgpt-2025-09-29-parental-controls-8b95b69a|chatgpt-2025-09-29-parental-controls-8b95b69a]]'
 source_type: chatgpt_changelog
 theme: image-generation
@@ -81,14 +81,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Image Generation
 
-- Earlier: 2025-09-22 · ChatGPT · [[Changes/ChatGPT/2025-09-22-more-messages-larger-file-uploads-and-expanded-image-generation|More messages, larger file uploads, and expanded image generation]]
+- Earlier: 2025-09-25 · Open WebUI · [[Changes/Open WebUI/2025-09-25-image-generation-model-selection-was-centralized-to-enable-dynamic-model-overrid|🎨 Image generation model selection was centralized to enable dynamic model override…]]
 - Later: 2025-10-08 · ChatGPT · [[Changes/ChatGPT/2025-10-08-more-messages-larger-file-uploads-and-expanded-image-generation|More messages, larger file uploads, and expanded image generation]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2024-08-08 · ChatGPT · [[Changes/ChatGPT/2024-08-08-we-re-rolling-out-the-ability-for-chatgpt-free-users-to-create-up-to-two-images-2c505c|DALL·E 3 for ChatGPT Free users]]
+- Earliest same-theme entry in the tracked set: 2024-03-10 · Open WebUI · [[Changes/Open WebUI/2024-03-10-dall-e-integration-introduced-dall-e-integration-for-image-generation-alongside|🎨 DALL-E Integration]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 6884576e5dafae7549055ab0803a5247a45d834f3c921ac51559bfdbd56ee7da
+machine_hash: 8445ee6cfde41b41c8477f396255174ba945a40c0787e9cb031859c9bee957da
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,12 +45,12 @@ record:
     character…
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-01-15-extend-the-rust-protocol-types-to-include-additional-metadata-on-text-elements-e|Extend
-  the Rust protocol/types to include additional metadata on text elements…]]'
-- '[[Changes/Cursor/2026-01-16-2-interface-experience-changes-in-cli-agent-modes-and-cloud-handoff|2
-  Interface Experience changes in CLI Agent Modes and Cloud Handoff]]'
+- '[[Changes/Lovable/2026-01-16-lovable-now-offers-a-more-native-mobile-experience-across-the-app-with-sheets-re|Lovable
+  now offers a more native mobile experience across the app, with sheets…]]'
 - '[[Changes/OpenHands/2026-01-16-adding-a-status-indicator-above-the-chat-until-the-conversation-is-ready-by-heyi|Adding
   a status indicator above the chat until the conversation is ready]]'
+- '[[Changes/v0/2026-01-16-added-searchable-version-selector-for-easier-navigation|Added
+  searchable version selector for easier navigation]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-01-20-v2-1-14-github-278458927-a7d53111|claude-code-2026-01-20-v2-1-14-github-278458927-a7d53111]]'
 source_type: github_releases
 theme: interface-experience
@@ -81,7 +81,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-01-16 · OpenHands · [[Changes/OpenHands/2026-01-16-adding-a-status-indicator-above-the-chat-until-the-conversation-is-ready-by-heyi|Adding a status indicator above the chat until the conversation is ready]]
+- Earlier: 2026-01-16 · v0 · [[Changes/v0/2026-01-16-added-searchable-version-selector-for-easier-navigation|Added searchable version selector for easier navigation]]
 - Later: 2026-01-21 · Codex CLI · [[Changes/Codex CLI/2026-01-21-3-interface-experience-changes-in-rust-v0-88-0|3 Interface Experience changes in rust-v0.88.0]]
 <!-- chronolog:end -->
 

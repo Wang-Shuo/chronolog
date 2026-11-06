@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: d3963c30cf8fdfac24b8cad38c5dff794e4c07ac5476e553686d84161f49f5b4
+machine_hash: 72cd41552fe85602bde878ff4da2f4966fd303fec5b95cd50292344d590884bc
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -46,8 +46,7 @@ record:
   title: 3 Account and Access changes in rust-v0.159.0
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-09-28-8-account-and-access-changes-in-rust-v0-158-0|8
-  Account and Access changes in rust-v0.158.0]]'
+- '[[Changes/ElevenLabs/2026-09-28-elevenlabs-cli|ElevenLabs CLI]]'
 - '[[Changes/GitHub Copilot CLI/2026-09-28-2-account-and-access-changes-in-v1-0-89|2
   Account and Access changes in v1.0.89]]'
 - '[[Changes/Claude Code/2026-09-29-changed-team-and-enterprise-sessions-and-sessions-whose-sign-in-plan-claude-code|Changed

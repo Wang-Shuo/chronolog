@@ -5,20 +5,20 @@ description: 'OpenHands · 2026-07-06 · Automation and Scheduling: 2 changes in
   — feat: route unclaimed automation events to the default org on single-org installs
   by…'
 diffusion:
-  first_in_tracked: '[[Changes/OpenHands/2024-09-04-better-syntax-error-loop-detection-by-tobitege-in-https-github-com-all-hands-ai|Better
-    syntax error loop detection]]'
+  first_in_tracked: '[[Changes/Dify/2024-01-02-add-data-clean-schedule-by-johnjyong-in-https-github-com-langgenius-dify-pull-18|Add
+    data clean schedule]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 670
+  lag_days: 916
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 854d4eb18a833779eb243b415c901cd58d2b03ab1816051cdacbe9516a438b8d
+machine_hash: 06fa935385f69d10b81cb449e577af6e7f6db1dd8432e85c0ac496f8b1329508
 product: openhands
 product_name: OpenHands
 record:
@@ -45,12 +45,12 @@ record:
   title: 2 Automation and Scheduling changes in 1.9.0
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-06-23-add-loop-alias-for-the-every-command|Add
-  /loop alias for the /every command]]'
-- '[[Changes/GitHub Copilot CLI/2026-06-24-handle-wakeup-misfires-with-a-graceful-message-when-no-self-paced-schedule-is-ac|Handle
-  wakeup misfires with a graceful message when no self-paced schedule is active]]'
+- '[[Changes/Open WebUI/2026-06-29-6-automation-and-scheduling-changes-in-v0-10-0|6
+  Automation and Scheduling changes in v0.10.0]]'
 - '[[Changes/GitHub Copilot CLI/2026-06-30-pr-auto-now-starts-a-self-paced-loop-that-fixes-one-thing-per-run-and-paces-itse|/pr
   auto now starts a self-paced loop that fixes one thing per run and paces itself…]]'
+- "[[Changes/Open WebUI/2026-07-01-models-with-null-capabilities-chatting-with-a-model-whose-capabilities-are-unset|\U0001F916
+  Models with null capabilities. Chatting with a model whose capabilities…]]"
 source_release: '[[Releases/OpenHands/openhands-2026-07-06-1-9-0-github-349633843-8010776a|openhands-2026-07-06-1-9-0-github-349633843-8010776a]]'
 source_type: github_releases
 theme: automation-scheduling
@@ -94,14 +94,14 @@ Source: https://github.com/OpenHands/OpenHands/releases/tag/1.9.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Automation and Scheduling
 
-- Earlier: 2026-06-30 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-06-30-pr-auto-now-starts-a-self-paced-loop-that-fixes-one-thing-per-run-and-paces-itse|/pr auto now starts a self-paced loop that fixes one thing per run and paces itself…]]
+- Earlier: 2026-07-01 · Open WebUI · [[Changes/Open WebUI/2026-07-01-models-with-null-capabilities-chatting-with-a-model-whose-capabilities-are-unset|🤖 Models with null capabilities. Chatting with a model whose capabilities…]]
 - Later: 2026-07-08 · Codex CLI · [[Changes/Codex CLI/2026-07-08-30508-revert-make-auto-review-on-request-prompt-more-proactive-dylan-hurd-oai|♯30508 Revert "Make auto-review on-request prompt more proactive" @dylan-hurd-oai]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2024-09-04 · OpenHands · [[Changes/OpenHands/2024-09-04-better-syntax-error-loop-detection-by-tobitege-in-https-github-com-all-hands-ai|Better syntax error loop detection]]
+- Earliest same-theme entry in the tracked set: 2024-01-02 · Dify · [[Changes/Dify/2024-01-02-add-data-clean-schedule-by-johnjyong-in-https-github-com-langgenius-dify-pull-18|Add data clean schedule]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

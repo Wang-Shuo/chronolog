@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: fd72d63e284a643af91a51e55610329f9522a098a065602321cf1b87a5cd7c49
+machine_hash: 5a958289ad66d1884583379097fc090d4d0d669d0d99b80ec9fe9ce8b853cf5f
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -94,7 +94,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v0.0.412
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-02-19 · Claude Code · [[Changes/Claude Code/2026-02-19-2-apps-and-integrations-changes-in-v2-1-49|2 Apps and Integrations changes in v2.1.49]]
-- Later: 2026-02-20 · Claude Code · [[Changes/Claude Code/2026-02-20-claude-code-simple-mode-now-also-disables-mcp-tools-attachments-hooks-and-claude|CLAUDE_CODE_SIMPLE mode now also disables MCP tools, attachments, hooks…]]
+- Later: 2026-02-19 · Ollama · [[Changes/Ollama/2026-02-19-ollama-launch-integration-will-now-always-show-the-model-picker|ollama launch integration will now always show the model picker]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

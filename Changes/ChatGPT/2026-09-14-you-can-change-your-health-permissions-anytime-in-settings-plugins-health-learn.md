@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 448c26e17f4858c7e8e5cc2effabc45696fea2cc0e6c048b6bb3086c317c4649
+machine_hash: f782be80e1646d15713d9cebb3a83e196ff59c0054d808912c72c39dddcb74c2
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -43,10 +43,10 @@ record:
   title: You can change your Health permissions anytime in Settings → Plugins → Health
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-11-5-apps-and-integrations-changes-in-v2-1-269|5
-  Apps and Integrations changes in v2.1.269]]'
-- '[[Changes/Claude Code/2026-09-11-added-output-style-name-to-list-and-switch-output-styles-including-over-remote-c|Added
-  /output-style name to list and switch output styles, including over Remote…]]'
+- '[[Changes/Replit/2026-09-11-use-managed-postgresql-in-databricks-apps|Use managed
+  PostgreSQL in Databricks Apps]]'
+- '[[Changes/Replit/2026-09-11-use-replit-from-desktop-mcp-clients|Use Replit from
+  desktop MCP clients]]'
 - '[[Changes/ChatGPT/2026-09-14-for-new-health-plugin-connections-chatgpt-will-now-default-to-each-user-s-global|For
   new Health plugin connections, ChatGPT will now default to each user’s global…]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-09-14-updated-permissions-for-new-health-connections-8bc634b7|chatgpt-2026-09-14-updated-permissions-for-new-health-connections-8bc634b7]]'
@@ -78,7 +78,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-09-11 · Claude Code · [[Changes/Claude Code/2026-09-11-added-output-style-name-to-list-and-switch-output-styles-including-over-remote-c|Added /output-style name to list and switch output styles, including over Remote…]]
+- Earlier: 2026-09-11 · Replit · [[Changes/Replit/2026-09-11-use-replit-from-desktop-mcp-clients|Use Replit from desktop MCP clients]]
 - Later: 2026-09-14 · Claude Code · [[Changes/Claude Code/2026-09-14-5-apps-and-integrations-changes-in-v2-1-271|5 Apps and Integrations changes in v2.1.271]]
 <!-- chronolog:end -->
 

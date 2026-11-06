@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 4649bd24eab300422f0d944c7bd76d96e71f4aa643de822513c422bde3da565a
+machine_hash: ae5bec64fa0e1a8fb3765f75d4b203536753f6c0afd96525fc09d52e10dd26b7
 product: cline
 product_name: Cline
 record:
@@ -82,7 +82,7 @@ Source: https://github.com/cline/cline/releases/tag/v3.45.0
 ## Nearby in Model Support
 
 - Earlier: 2025-12-17 · Cline · [[Changes/Cline/2025-12-17-polished-the-model-picker-ui-with-checkmarks-for-selected-models-tooltips-on-pla|Polished the model picker UI with checkmarks for selected models, tooltips…]]
-- Later: 2025-12-18 · Codex CLI · [[Changes/Codex CLI/2025-12-18-6-model-support-changes-in-rust-v0-74-0|6 Model Support changes in rust-v0.74.0]]
+- Later: 2025-12-17 · Gemini · [[Changes/Gemini/2025-12-17-introducing-gemini-3-flash-a-major-upgrade-to-your-everyday-ai|Introducing Gemini 3 Flash, a major upgrade to your everyday AI]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

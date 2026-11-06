@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: pricing
-machine_hash: 1a2b34a04d7af9976e1b42d63acd52f73324f33f1bb1576a2efaf545f4d5c791
+machine_hash: 0ec42e119a32ac40ff1206a1675c3c2605a1f6978008adf0346648d4750021f7
 product: windsurf
 product_name: Windsurf
 record:
@@ -56,12 +56,12 @@ record:
   title: Devin Cloud
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-07-28-we-re-introducing-cursor-start-a-new-649-monthly-plan-for-developers-in-india-ma|Cursor
-  introduces Cursor Start, a new ₹649 monthly plan for developers in India…]]'
-- '[[Changes/ChatGPT/2026-07-29-research-rarely-happens-alone-chatgpt-for-academic-researchers-gives-faculty-and|ChatGPT
-  for Academic Researchers]]'
+- '[[Changes/v0/2026-07-31-3-pricing-model-changes-in-claude-opus-5-direct-figma-inspection|3
+  Pricing Model changes in Claude Opus 5, direct Figma inspection…]]'
 - '[[Changes/Claude Code/2026-08-04-changed-fast-mode-to-report-on-the-stream-when-usage-credits-run-out-mid-session|Changed
   fast mode to report on the stream when usage credits run out mid-session…]]'
+- '[[Changes/Replit/2026-08-07-move-projects-between-workspaces|Move projects between
+  workspaces]]'
 source_release: '[[Releases/Windsurf/windsurf-2026-08-10-v3-7-16-bb404410|windsurf-2026-08-10-v3-7-16-bb404410]]'
 source_type: windsurf_changelog
 theme: pricing-model
@@ -99,7 +99,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Pricing Model
 
-- Earlier: 2026-08-04 · Claude Code · [[Changes/Claude Code/2026-08-04-changed-fast-mode-to-report-on-the-stream-when-usage-credits-run-out-mid-session|Changed fast mode to report on the stream when usage credits run out mid-session…]]
+- Earlier: 2026-08-07 · Replit · [[Changes/Replit/2026-08-07-move-projects-between-workspaces|Move projects between workspaces]]
 - Later: 2026-08-11 · Cline · [[Changes/Cline/2026-08-11-report-fable-5-cost-on-vertex-as-unknown-rather-than-applying-anthropic-s-list-p|Report Fable 5 cost on Vertex as unknown rather than applying Anthropic's list…]]
 <!-- chronolog:end -->
 

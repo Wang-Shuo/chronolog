@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: a645f40065bdc16328b3e601ed1e53e42eae1afa3762c13712aa7443ef07bffd
+machine_hash: e066ba010207ce7b89b9cbc278d82d959909f4cd7513053f6cbd65468b8e2389
 product: windsurf
 product_name: Windsurf
 record:
@@ -45,8 +45,8 @@ record:
   title: 2 Developer Workflow changes in v3.11.228
   type: change
 related_changes:
-- '[[Changes/Windsurf/2026-10-24-2-developer-workflow-changes-in-v3-11-216|2 Developer
-  Workflow changes in v3.11.216]]'
+- '[[Changes/Open WebUI/2026-10-25-49-developer-workflow-changes-in-v0-12-4|49 Developer
+  Workflow changes in v0.12.4]]'
 - '[[Changes/Claude Code/2026-10-26-4-developer-workflow-changes-in-v2-1-311|4 Developer
   Workflow changes in v2.1.311]]'
 - '[[Changes/Cline/2026-10-26-starting-a-command-no-longer-moves-keyboard-focus-into-the-terminal-so-text-you|Starting

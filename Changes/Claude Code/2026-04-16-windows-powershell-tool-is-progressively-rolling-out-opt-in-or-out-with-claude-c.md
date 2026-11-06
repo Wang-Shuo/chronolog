@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: ca27133b0ac29868a17dcc1ecd57039ff5d612b2fde0ebe02ff153af26d6d67e
+machine_hash: 496397ff8969f99bdc123d93015b77548a33bb2ee61b4777148cf5d456665c8a
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,12 +45,12 @@ record:
   title: 'Windows: PowerShell tool is progressively rolling out'
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-04-13-on-macos-text-is-now-rendered-with-anti-aliasing-producing-sharper-character-edg|On
-  macOS, text is now rendered with anti-aliasing, producing sharper character edges]]'
 - '[[Changes/Claude Code/2026-04-15-added-push-notification-tool-claude-can-send-mobile-push-notifications-when-remo|Added
   push notification tool]]'
 - '[[Changes/Codex CLI/2026-04-15-17414-fix-thread-list-cwd-filtering-for-windows-verbatim-paths-etraut-openai|♯17414
   Fix thread/list cwd filtering for Windows verbatim paths @etraut-openai]]'
+- '[[Changes/Gemini/2026-04-15-meet-your-new-desktop-assistant-gemini-for-mac|Meet
+  your new desktop assistant: Gemini for Mac]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-04-16-v2-1-111-github-309911692-a3025e78|claude-code-2026-04-16-v2-1-111-github-309911692-a3025e78]]'
 source_type: github_releases
 theme: mobile-desktop
@@ -89,7 +89,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2026-04-15 · Codex CLI · [[Changes/Codex CLI/2026-04-15-17414-fix-thread-list-cwd-filtering-for-windows-verbatim-paths-etraut-openai|♯17414 Fix thread/list cwd filtering for Windows verbatim paths @etraut-openai]]
+- Earlier: 2026-04-15 · Gemini · [[Changes/Gemini/2026-04-15-meet-your-new-desktop-assistant-gemini-for-mac|Meet your new desktop assistant: Gemini for Mac]]
 - Later: 2026-04-16 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-04-16-prompt-frame-no-longer-causes-rendering-issues-on-windows-and-ubuntu-terminals|Prompt frame no longer causes rendering issues on Windows and Ubuntu terminals]]
 <!-- chronolog:end -->
 

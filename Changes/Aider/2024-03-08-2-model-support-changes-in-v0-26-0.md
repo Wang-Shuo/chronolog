@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 7de5a4f15882c9177359247bc7bce78797324dbc154a71274b37f1d048918489
+machine_hash: c0580fd90cb4fb07f2cb1de11dc3bcfbd37458f2d1002410b78140d998f78e6b
 product: aider
 product_name: Aider
 record:
@@ -42,12 +42,12 @@ record:
   title: 2 Model Support changes in v0.26.0
   type: change
 related_changes:
-- '[[Changes/Cursor/2024-01-25-both-pro-and-api-key-users-can-also-try-out-gpt-4-0125-preview-by-configuring-th|Both
-  pro and API key users can also try out gpt-4-0125-preview by configuring…]]'
-- '[[Changes/Aider/2024-02-03-added-support-for-model-gpt-4-0125-preview-and-openai-s-alias-model-gpt-4-turbo|Added
-  support for --model gpt-4-0125-preview and OpenAI''s alias…]]'
-- '[[Changes/Aider/2024-02-10-default-gpt-3-5-model-is-now-gpt-3-5-turbo-0125|Default
-  GPT 3.5 model is now gpt-3.5-turbo-0125]]'
+- '[[Changes/Dify/2024-02-28-3-model-support-changes-in-0-5-7|3 Model Support changes
+  in 0.5.7]]'
+- '[[Changes/Ollama/2024-03-01-2-model-support-changes-in-v0-1-28|2 Model Support
+  changes in v0.1.28]]'
+- '[[Changes/Dify/2024-03-04-3-model-support-changes-in-0-5-8|3 Model Support changes
+  in 0.5.8]]'
 source_release: '[[Releases/Aider/aider-2024-03-08-v0-26-0-github-145564820-b17e657f|aider-2024-03-08-v0-26-0-github-145564820-b17e657f]]'
 source_type: github_releases
 theme: model-support
@@ -80,8 +80,8 @@ Source: https://github.com/Aider-AI/aider/releases/tag/v0.26.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2024-02-10 · Aider · [[Changes/Aider/2024-02-10-default-gpt-3-5-model-is-now-gpt-3-5-turbo-0125|Default GPT 3.5 model is now gpt-3.5-turbo-0125]]
-- Later: 2024-03-12 · Cursor · [[Changes/Cursor/2024-03-12-if-you-re-a-pro-or-business-user-you-can-add-claude-3-opus-as-a-custom-model-in|Claude Support]]
+- Earlier: 2024-03-04 · Dify · [[Changes/Dify/2024-03-04-3-model-support-changes-in-0-5-8|3 Model Support changes in 0.5.8]]
+- Later: 2024-03-10 · Ollama · [[Changes/Ollama/2024-03-10-experimental-support-for-importing-safetensors-models-using-the-from-directory-w|Experimental support for importing Safetensors models using…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: ed7f31595319ddbc525109e762ececab5855d571be166eb2b214f7d7d30a3501
+machine_hash: a00a689030c45eac634983553614c8520446f2ec98911ae047033a71180ba00e
 product: cursor
 product_name: Cursor
 record:
@@ -55,10 +55,10 @@ record:
   title: Cursor Security Review is now in beta on Teams and Enterprise plans
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2026-04-28-feat-sandbox-resolve-custom-seatbelt-profiles-from-home-gemini-first-by-mvanhorn|feat(sandbox):
-  resolve custom seatbelt profiles from $HOME/.gemini first]]'
 - '[[Changes/GitHub Copilot CLI/2026-04-28-allow-acp-clients-to-toggle-allow-all-permission-mode-via-session-configuration|Allow
   ACP clients to toggle allow-all permission mode via session configuration]]'
+- '[[Changes/Dify/2026-04-29-7-safety-and-privacy-changes-in-1-14-0|7 Safety and Privacy
+  changes in 1.14.0]]'
 - '[[Changes/Codex CLI/2026-04-30-21-safety-and-privacy-changes-in-rust-v0-128-0|21
   Safety and Privacy changes in rust-v0.128.0]]'
 source_release: '[[Releases/Cursor/cursor-2026-04-30-cursor-security-review-https-cursor-com-changelog-04-30-26-640898b1|cursor-2026-04-30-cursor-security-review-https-cursor-com-changelog-04-30-26-640898b1]]'

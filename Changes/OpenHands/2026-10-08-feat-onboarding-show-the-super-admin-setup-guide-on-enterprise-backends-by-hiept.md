@@ -4,20 +4,20 @@ date: '2026-10-08'
 description: 'OpenHands · 2026-10-08 · Enterprise and Administration: feat(onboarding):
   show the Super Admin setup guide on enterprise backends by @hieptl in…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2024-03-20-admin-improvements-team-admins-can-now-mark-themselves-as-unpaid-users-and-can-s|Admin
-    improvements: Team admins can now mark themselves as unpaid users and can see…]]'
+  first_in_tracked: '[[Changes/Gemini/2023-05-05-access-for-google-workspace-accounts|Access
+    for Google Workspace accounts]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 932
+  lag_days: 1252
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 2a2702024711a84de3a12f9939c5a18807883291eaea7d751b9faef9db4a2c0f
+machine_hash: 44172562a754db2083e1147f3a2481070b2603ff44aa1112ed5a9370c87b8239
 product: openhands
 product_name: OpenHands
 record:
@@ -42,12 +42,12 @@ record:
   title: 'feat(onboarding): show the Super Admin setup guide on enterprise backends'
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-10-07-49473-use-the-rmcp-sdk-for-enterprise-managed-token-exchanges-nicksteele-oai|♯49473
-  Use the rmcp SDK for enterprise-managed token exchanges @nicksteele-oai]]'
 - '[[Changes/GitHub Copilot CLI/2026-10-07-add-enterprise-permissions-limitto-to-enforce-managed-domain-boundaries-for-netw|Add
   enterprise permissions.limitTo to enforce managed domain boundaries for network…]]'
 - '[[Changes/Claude Code/2026-10-08-claude-tag-changed-claude-s-notice-that-a-channel-shared-across-enterprise-grid|Claude
   Tag Changed Claude''s notice that a channel shared across Enterprise Grid…]]'
+- '[[Changes/Lovable/2026-10-08-publish-to-invited-people-only-on-free-and-pro-plans|Publish
+  to invited people only on Free and Pro plans]]'
 source_release: '[[Releases/OpenHands/openhands-2026-10-08-v1-26-0-github-407241649-7e646875|openhands-2026-10-08-v1-26-0-github-407241649-7e646875]]'
 source_type: github_releases
 theme: enterprise-admin
@@ -81,14 +81,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Enterprise and Administration
 
-- Earlier: 2026-10-08 · Claude Code · [[Changes/Claude Code/2026-10-08-claude-tag-changed-claude-s-notice-that-a-channel-shared-across-enterprise-grid|Claude Tag Changed Claude's notice that a channel shared across Enterprise Grid…]]
-- Later: 2026-10-12 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-10-12-keep-allow-all-available-during-startup-while-enterprise-policy-is-still-resolvi|Keep /allow-all available during startup while enterprise policy is still resolving]]
+- Earlier: 2026-10-08 · Lovable · [[Changes/Lovable/2026-10-08-publish-to-invited-people-only-on-free-and-pro-plans|Publish to invited people only on Free and Pro plans]]
+- Later: 2026-10-09 · Lovable · [[Changes/Lovable/2026-10-09-enterprise-credit-balances-now-appear-as-numbers|Enterprise credit balances now appear as numbers]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2024-03-20 · Cursor · [[Changes/Cursor/2024-03-20-admin-improvements-team-admins-can-now-mark-themselves-as-unpaid-users-and-can-s|Admin improvements: Team admins can now mark themselves as unpaid users and can see…]]
+- Earliest same-theme entry in the tracked set: 2023-05-05 · Gemini · [[Changes/Gemini/2023-05-05-access-for-google-workspace-accounts|Access for Google Workspace accounts]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: de856af8931addd31042851bdef1133577f351ea5419938cd6e7fb79244e1c47
+machine_hash: 0c2646e430c03eba57273da6a4feb9dc55da186edd1461aaff33af4dfa6a5f6c
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -46,10 +46,10 @@ record:
   title: New UI for Temporary Chats
   type: change
 related_changes:
-- "[[Changes/Cline/2024-12-18-cline-s-most-requested-feature-is-here-you-can-now-let-cline-work-more-autonomou|Cline's
-  most requested feature is here \U0001F389 You can now let Cline work more…]]"
 - '[[Changes/Aider/2025-03-13-added-ignore-permission-denied-option-to-file-watcher-to-prevent-errors-when-acc|Added
   ignore_permission_denied option to file watcher to prevent errors…]]'
+- '[[Changes/Gemini/2025-03-13-gemini-gets-personal-with-tailored-help-based-on-your-search-history|Gemini
+  gets personal, with tailored help based on your Search history]]'
 - '[[Changes/ChatGPT/2025-03-18-more-clear-and-private-incognito-keyboard-for-temporary-chats|More
   clear and private Incognito keyboard for Temporary Chats]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-03-18-web-and-the-windows-desktop-app-ef646255|chatgpt-2025-03-18-web-and-the-windows-desktop-app-ef646255]]'
@@ -83,7 +83,7 @@ type: change
 ## Nearby in Safety and Privacy
 
 - Earlier: 2025-03-18 · ChatGPT · [[Changes/ChatGPT/2025-03-18-more-clear-and-private-incognito-keyboard-for-temporary-chats|More clear and private Incognito keyboard for Temporary Chats]]
-- Later: 2025-03-19 · OpenHands · [[Changes/OpenHands/2025-03-19-feat-microagents-add-security-microagent-by-h55nick-in-https-github-com-all-hand|feat(microagents): Add security microagent]]
+- Later: 2025-03-18 · Dify · [[Changes/Dify/2025-03-18-this-release-aims-to-strengthen-our-platform-s-reliability-security-and-usabilit|This release aims to strengthen our platform's reliability, security, and usability…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

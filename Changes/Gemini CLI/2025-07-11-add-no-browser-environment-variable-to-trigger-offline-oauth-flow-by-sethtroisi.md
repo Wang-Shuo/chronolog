@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: f43c53f451ec45ca1ba6c53c5fb93398af47a8e1f6c0c32f93fc59b4364961fb
+machine_hash: 62a179024ec249bbd5be6ea8e7ac587e628d7f4b13668c58912f42e308dce1a9
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -42,10 +42,10 @@ record:
   title: Add NO_BROWSER environment variable to trigger offline oauth flow
   type: change
 related_changes:
-- '[[Changes/OpenHands/2025-04-16-added-support-for-gitlab-api-calling-using-both-oauth-and-pat-tokens-by-malhotra|Added
-  support for GitLab API calling using both OAuth and PAT tokens]]'
-- '[[Changes/Cursor/2025-06-04-mcp-one-click-install-and-oauth-support|MCP one-click
-  install and OAuth support]]'
+- '[[Changes/Open WebUI/2025-06-16-2-account-and-access-changes-in-v0-6-15|2 Account
+  and Access changes in v0.6.15]]'
+- '[[Changes/Dify/2025-06-25-3-account-and-access-changes-in-1-5-0|3 Account and Access
+  changes in 1.5.0]]'
 - '[[Changes/Gemini CLI/2025-07-01-rename-authtype-login-with-google-personal-login-with-google-by-scidomino-in-htt|Rename
   AuthType LOGIN_WITH_GOOGLE_PERSONAL - LOGIN_WITH_GOOGLE]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2025-07-11-v0-1-11-github-231693324-44669df4|gemini-cli-2025-07-11-v0-1-11-github-231693324-44669df4]]'
@@ -77,7 +77,7 @@ type: change
 ## Nearby in Account and Access
 
 - Earlier: 2025-07-01 · Gemini CLI · [[Changes/Gemini CLI/2025-07-01-rename-authtype-login-with-google-personal-login-with-google-by-scidomino-in-htt|Rename AuthType LOGIN_WITH_GOOGLE_PERSONAL - LOGIN_WITH_GOOGLE]]
-- Later: 2025-07-17 · Windsurf · [[Changes/Windsurf/2025-07-17-support-for-more-mcp-servers-with-easier-and-more-secure-authentication-by-integ|Support for more MCP servers with easier and more secure authentication…]]
+- Later: 2025-07-14 · Open WebUI · [[Changes/Open WebUI/2025-07-14-3-account-and-access-changes-in-v0-6-16|3 Account and Access changes in v0.6.16]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

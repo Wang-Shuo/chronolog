@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 322b2f5d5d5bf7c002281e8fd419be1d9d033db9571da26abb66a9c6fe7a5520
+machine_hash: e510dd6f86b5538a27f0258399865c433046f58d5414a1165666b347fc49a407
 product: windsurf
 product_name: Windsurf
 record:
@@ -66,10 +66,9 @@ record:
   title: Devin Desktop
   type: change
 related_changes:
-- '[[Changes/Cline/2026-08-09-fall-back-to-the-session-cwd-or-desktop-for-mention-file-search-in-empty-windows|Fall
-  back to the session cwd or Desktop for @-mention file search in empty windows]]'
 - '[[Changes/ChatGPT/2026-08-10-chatgpt-can-now-help-you-find-available-restaurant-reservations-with-opentable-r|Restaurant
   reservations in ChatGPT]]'
+- '[[Changes/ElevenLabs/2026-08-10-android-sdk|Android SDK]]'
 - '[[Changes/GitHub Copilot CLI/2026-08-10-2-mobile-and-desktop-changes-in-v1-0-79|2
   Mobile and Desktop changes in v1.0.79]]'
 source_release: '[[Releases/Windsurf/windsurf-2026-08-10-v3-7-16-bb404410|windsurf-2026-08-10-v3-7-16-bb404410]]'

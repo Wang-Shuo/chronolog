@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: b214f10e5893a55e528501ad069618b5bf867f83b0b42cfb0e725ef20edc3cc6
+machine_hash: 4a16fa4689274047ebdba68d1f92e04a557b70413bbdc6d052a4e634fe8916ec
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -43,10 +43,10 @@ record:
   title: 'Improve emoji rendering: proper spacing and ⌨️ emoji variant (#2735, #2728)'
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2025-08-14-3-interface-experience-changes-in-v0-1-21|3 Interface
-  Experience changes in v0.1.21]]'
-- '[[Changes/Codex CLI/2025-08-20-2-interface-experience-changes-in-rust-v0-23-0|2
-  Interface Experience changes in rust-v0.23.0]]'
+- '[[Changes/Gemini/2025-08-21-revisit-your-conversations-you-can-now-search-your-gemini-chat-history|Revisit
+  your conversations: You can now search your Gemini chat history]]'
+- '[[Changes/Open WebUI/2025-08-21-8-interface-experience-changes-in-v0-6-23|8 Interface
+  Experience changes in v0.6.23]]'
 - '[[Changes/Codex CLI/2025-08-26-3-interface-experience-changes-in-rust-v0-24-0|3
   Interface Experience changes in rust-v0.24.0]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2025-08-27-rust-v0-25-0-github-242803749-ad836b6a|codex-cli-2025-08-27-rust-v0-25-0-github-242803749-ad836b6a]]'
@@ -80,7 +80,7 @@ type: change
 ## Nearby in Interface Experience
 
 - Earlier: 2025-08-26 · Codex CLI · [[Changes/Codex CLI/2025-08-26-3-interface-experience-changes-in-rust-v0-24-0|3 Interface Experience changes in rust-v0.24.0]]
-- Later: 2025-08-29 · Codex CLI · [[Changes/Codex CLI/2025-08-29-major-readme-docs-refactor-and-navigation-2724|Major README/docs refactor and navigation (♯2724)]]
+- Later: 2025-08-27 · Dify · [[Changes/Dify/2025-08-27-5-interface-experience-changes-in-1-8-0|5 Interface Experience changes in 1.8.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

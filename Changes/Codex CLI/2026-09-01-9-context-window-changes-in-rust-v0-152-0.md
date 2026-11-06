@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: e3e746c06cc04791add9b120fb3180a121955b2accf93122f544edcc627ec265
+machine_hash: 71bb0144e2623e2a28a2fafd3bff3f0a289a8fd4ff68b1dddd61a5bd4640b67d
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -120,7 +120,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.152.0
 ## Nearby in Context Window
 
 - Earlier: 2026-08-31 · ChatGPT · [[Changes/ChatGPT/2026-08-31-bring-your-browser-into-work-and-codex-mention-open-tabs-to-use-them-as-context-af2c3a|Bring your browser into Work and Codex]]
-- Later: 2026-09-03 · Claude Code · [[Changes/Claude Code/2026-09-03-3-context-window-changes-in-v2-1-260|3 Context Window changes in v2.1.260]]
+- Later: 2026-09-02 · Ollama · [[Changes/Ollama/2026-09-02-report-cached-prompt-tokens|Report cached prompt tokens]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

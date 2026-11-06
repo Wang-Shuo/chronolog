@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: ed2d371c953d01da14d29a681a276478fcee15df140ff71ed6603806204323b1
+machine_hash: 7a0e5c04e7a986e35588008d5239d095c528c776e0ea10a013b384b97346f9b3
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -43,10 +43,10 @@ record:
   title: 2 Apps and Integrations changes in v1.0.19
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-04-02-2-apps-and-integrations-changes-in-3-0|2 Apps and Integrations
-  changes in 3.0]]'
-- '[[Changes/GitHub Copilot CLI/2026-04-02-mcp-tool-calls-display-tool-name-and-parameter-summary-in-the-timeline|MCP
-  tool calls display tool name and parameter summary in the timeline]]'
+- '[[Changes/Lovable/2026-04-02-app-connectors-aikido-gitlab-and-aws-s3|App connectors:
+  Aikido, GitLab, and AWS S3]]'
+- '[[Changes/Lovable/2026-04-02-chat-connectors-hex-confidence-and-posthog|Chat connectors:
+  Hex, Confidence, and PostHog]]'
 - '[[Changes/Claude Code/2026-04-04-remote-control-session-names-now-use-your-hostname-as-the-default-prefix-e-g-myh|Remote
   Control session names now use your hostname as the default prefix…]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-04-06-v1-0-19-github-305837484-a9d8ae9e|github-copilot-cli-2026-04-06-v1-0-19-github-305837484-a9d8ae9e]]'

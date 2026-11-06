@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: 143f13192524def899c0d81c557fa12302cce65542ec084a5e169788c4b9c377
+machine_hash: 1846c588b0c6f310dd544c6d365545b104e1b12c1512715a312f44510a00fd40
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -86,7 +86,7 @@ type: change
 ## Nearby in Agent Mode
 
 - Earlier: 2026-05-29 · Cursor · [[Changes/Cursor/2026-05-29-auto-review-is-a-new-run-mode-that-allows-cursor-to-work-for-longer-with-fewer-a-61df08|Auto-review Run Mode]]
-- Later: 2026-06-01 · Codex CLI · [[Changes/Codex CLI/2026-06-01-3-agent-mode-changes-in-rust-v0-136-0|3 Agent Mode changes in rust-v0.136.0]]
+- Later: 2026-05-29 · Replit · [[Changes/Replit/2026-05-29-agent|Agent]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

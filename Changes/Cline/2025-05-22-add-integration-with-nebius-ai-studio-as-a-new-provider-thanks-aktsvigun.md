@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: c3f8a049d46bc046ef76161f8b5431d1df3680af542e459b700a97e9ae3616f2
+machine_hash: f83aa0291502156816de1738b4b5bf7f42cb47147dcf216b01d25a33d7b8b906
 product: cline
 product_name: Cline
 record:
@@ -43,12 +43,12 @@ record:
   title: Add integration with Nebius AI Studio as a new provider (Thanks @Aktsvigun!)
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2025-05-15-the-github-connector-is-now-available-globally-to-plus-pro-team-users-including|GitHub
-  connector for deep research]]'
-- '[[Changes/Cursor/2025-05-15-refreshed-inline-edit-cmd-ctrl-k-with-agent-integration|Refreshed
-  Inline Edit (Cmd/Ctrl+K) with Agent integration]]'
+- '[[Changes/Dify/2025-05-15-5-apps-and-integrations-changes-in-1-4-0|5 Apps and Integrations
+  changes in 1.4.0]]'
 - '[[Changes/Cline/2025-05-16-add-tailwind-css-intellisense-to-the-recommended-extensions-list|Add
   Tailwind CSS IntelliSense to the recommended extensions list]]'
+- '[[Changes/Open WebUI/2025-05-19-2-apps-and-integrations-changes-in-v0-6-10|2 Apps
+  and Integrations changes in v0.6.10]]'
 source_release: '[[Releases/Cline/cline-2025-05-22-v3-17-0-github-220457349-75a64834|cline-2025-05-22-v3-17-0-github-220457349-75a64834]]'
 source_type: github_releases
 theme: apps-integrations
@@ -79,8 +79,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2025-05-16 · Cline · [[Changes/Cline/2025-05-16-add-tailwind-css-intellisense-to-the-recommended-extensions-list|Add Tailwind CSS IntelliSense to the recommended extensions list]]
-- Later: 2025-06-01 · OpenHands · [[Changes/OpenHands/2025-06-01-2-apps-and-integrations-changes-in-0-40-0|2 Apps and Integrations changes in 0.40.0]]
+- Earlier: 2025-05-19 · Open WebUI · [[Changes/Open WebUI/2025-05-19-2-apps-and-integrations-changes-in-v0-6-10|2 Apps and Integrations changes in v0.6.10]]
+- Later: 2025-05-26 · Open WebUI · [[Changes/Open WebUI/2025-05-26-4-apps-and-integrations-changes-in-v0-6-11|4 Apps and Integrations changes in v0.6.11]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

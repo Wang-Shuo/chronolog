@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 4f64f3ff81fb12e19a93c1b8e945a91f82ed93e4a737de7e9057b0122fb3c2a4
+machine_hash: 80f6c585f129b94ed769f9250543cdaed4b4523b3db8212b49cbbf5337d946c9
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -42,10 +42,10 @@ record:
   title: 'docs: correct documentation for enforced authentication type'
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-04-14-enterprise-login-accepts-hostnames-without-a-url-scheme-e-g-github-example-com|Enterprise
-  login accepts hostnames without a URL scheme (e.g. ''github.example.com'')]]'
 - '[[Changes/GitHub Copilot CLI/2026-04-17-copilot-login-host-now-correctly-authenticates-with-github-enterprise-cloud-ghe|copilot
   login --host now correctly authenticates with GitHub Enterprise Cloud (GHE)…]]'
+- '[[Changes/Open WebUI/2026-04-21-17-account-and-access-changes-in-v0-9-0|17 Account
+  and Access changes in v0.9.0]]'
 - '[[Changes/ChatGPT/2026-04-22-we-re-launching-chatgpt-for-clinicians-a-free-version-of-chatgpt-for-verified-cl|ChatGPT
   for Clinicians]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2026-04-23-v0-39-0-github-312542426-bb57739c|gemini-cli-2026-04-23-v0-39-0-github-312542426-bb57739c]]'

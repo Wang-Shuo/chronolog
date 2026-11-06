@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 6da649e500ba3266252db1aaa3045506ec56124542721077f57b6bfe63f26169
+machine_hash: 818db75d913b545f6db87bde6c43120d5a50375c44977a4225f473d1fb17422e
 product: cursor
 product_name: Cursor
 record:
@@ -45,7 +45,8 @@ record:
   title: 'MCP: Added global server configuration with ~/.cursor/mcp.json and support…'
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-02-19-mcp-improvements|MCP improvements]]'
+- '[[Changes/Dify/2025-02-28-9-apps-and-integrations-changes-in-1-0-0|9 Apps and Integrations
+  changes in 1.0.0]]'
 - '[[Changes/Cline/2025-03-01-2-apps-and-integrations-changes-in-v3-5-0|2 Apps and
   Integrations changes in v3.5.0]]'
 - '[[Changes/Cline/2025-03-03-add-timeout-option-to-mcp-servers|Add timeout option
@@ -86,7 +87,7 @@ type: change
 ## Nearby in Apps and Integrations
 
 - Earlier: 2025-03-03 · Cline · [[Changes/Cline/2025-03-03-add-timeout-option-to-mcp-servers|Add timeout option to MCP servers]]
-- Later: 2025-03-21 · Aider · [[Changes/Aider/2025-03-21-added-git-commit-verify-flag-default-false-to-control-whether-git-commit-hooks-a|Added --git-commit-verify flag (default]]
+- Later: 2025-03-11 · Dify · [[Changes/Dify/2025-03-11-8-apps-and-integrations-changes-in-1-0-1|8 Apps and Integrations changes in 1.0.1]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

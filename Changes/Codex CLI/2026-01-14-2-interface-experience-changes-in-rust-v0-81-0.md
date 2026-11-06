@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: d089b304d46327c1f1abe26f25ed3afa4c8b6bb222405c3c30487397e75ba533
+machine_hash: 35b10cc54ba9a371d6366d44dfde9646fdcb83667bbf65e60a989e0931869449
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -43,10 +43,10 @@ record:
   title: 2 Interface Experience changes in rust-v0.81.0
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-01-13-added-updates-section-to-doctor-showing-auto-update-channel-and-available-npm-ve|Added
-  Updates section to /doctor showing auto-update channel and available npm…]]'
 - '[[Changes/GitHub Copilot CLI/2026-01-13-shell-mode-history-navigation-now-filters-by-prefix-typing-git-and-pressing-up-a|Shell
   mode history navigation now filters by prefix - typing !git and pressing up…]]'
+- '[[Changes/v0/2026-01-13-added-credits-display-in-the-user-menu|Added credits display
+  in the user menu]]'
 - '[[Changes/Claude Code/2026-01-14-added-showturnduration-setting-to-hide-turn-duration-messages-e-g-cooked-for-1m|Added
   showTurnDuration setting to hide turn duration messages (e.g., "Cooked for 1m 6s")]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-01-14-rust-v0-81-0-github-276819252-cf63dc40|codex-cli-2026-01-14-rust-v0-81-0-github-276819252-cf63dc40]]'

@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 59f1e606dc799669ffa375c88c6314e431eaefdee8491326eaecb2ac885f264c
+machine_hash: dab9d611e9a86e9d67583cced792dce4ef02d742fbefddd5ab74dbfae6f7a91f
 product: cursor
 product_name: Cursor
 record:
@@ -39,12 +39,12 @@ record:
   title: Modals load faster
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-02-26-2-reliability-and-performance-changes-in-rust-v0-106-0|2
-  Reliability and Performance changes in rust-v0.106.0]]'
-- '[[Changes/ChatGPT/2026-02-27-faster-sharing-sharing-chats-is-now-easier-and-faster-with-a-quicker-loading-sha|Faster
-  sharing. Sharing chats is now easier and faster, with a quicker-loading share menu]]'
-- '[[Changes/Claude Code/2026-02-28-improved-memory-usage-in-long-sessions-with-subagents-by-stripping-heavy-progres|Improved
-  memory usage in long sessions with subagents by stripping heavy progress…]]'
+- '[[Changes/Ollama/2026-03-02-ollama-run-verbose-will-now-show-peak-memory-usage-when-using-ollama-s-mlx-engin|ollama
+  run --verbose will now show peak memory usage when using Ollama''s MLX engine]]'
+- "[[Changes/Open WebUI/2026-03-02-chatcontrols-memory-leak-the-chatcontrols-panel-no-longer-leaks-event-listeners|\U0001F9E0
+  ChatControls memory leak. The ChatControls panel no longer leaks event…]]"
+- "[[Changes/Open WebUI/2026-03-02-general-improvements-various-improvements-were-implemented-across-the-applicatio|\U0001F504
+  General improvements. Various improvements were implemented across…]]"
 source_release: '[[Releases/Cursor/cursor-2026-03-03-2-6-https-cursor-com-changelog-2-6-0fa7f1a3|cursor-2026-03-03-2-6-https-cursor-com-changelog-2-6-0fa7f1a3]]'
 source_type: cursor_changelog
 theme: reliability-performance
@@ -84,7 +84,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2026-02-28 · Claude Code · [[Changes/Claude Code/2026-02-28-improved-memory-usage-in-long-sessions-with-subagents-by-stripping-heavy-progres|Improved memory usage in long sessions with subagents by stripping heavy progress…]]
+- Earlier: 2026-03-02 · Open WebUI · [[Changes/Open WebUI/2026-03-02-general-improvements-various-improvements-were-implemented-across-the-applicatio|🔄 General improvements. Various improvements were implemented across…]]
 - Later: 2026-03-05 · Claude Code · [[Changes/Claude Code/2026-03-05-9-reliability-and-performance-changes-in-v2-1-69|9 Reliability and Performance changes in v2.1.69]]
 <!-- chronolog:end -->
 

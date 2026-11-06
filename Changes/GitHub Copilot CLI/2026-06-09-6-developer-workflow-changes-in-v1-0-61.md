@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 0f769d92a228ff17693203ba72d84d1412e6fa39291d9791bbc446ee8d938e92
+machine_hash: 2dd61ad1af09785037d607fc2010f30af2aed27251a9ea432c176ef7c4595693
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -55,10 +55,10 @@ record:
   title: 6 Developer Workflow changes in v1.0.61
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-06-08-background-sessions-are-now-told-that-shared-checkout-edits-are-blocked-until-th|Background
-  sessions are now told that shared-checkout edits are blocked until they…]]'
 - '[[Changes/Codex CLI/2026-06-08-7-developer-workflow-changes-in-rust-v0-138-0|7
   Developer Workflow changes in rust-v0.138.0]]'
+- '[[Changes/v0/2026-06-08-pull-requests-opened-from-a-new-branch-chat-are-no-longer-titled-initialize-proj|Pull
+  requests opened from a new-branch chat are no longer titled…]]'
 - '[[Changes/Codex CLI/2026-06-09-release-builds-once-again-publish-separate-symbol-archives-with-line-tables-impr|Release
   builds once again publish separate symbol archives with line tables…]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-06-09-v1-0-61-github-336905979-4d0a69f2|github-copilot-cli-2026-06-09-v1-0-61-github-336905979-4d0a69f2]]'

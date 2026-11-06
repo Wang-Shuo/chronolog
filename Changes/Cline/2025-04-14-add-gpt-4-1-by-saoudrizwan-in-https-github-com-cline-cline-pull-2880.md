@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 1a92fd6d36df404523ca5929546438cbf5332cf3b228ed39d7eb14a203994598
+machine_hash: d24234322cc5f43f47f70df5978becb30a321df74a7887db5a18d8cdb4234930
 product: cline
 product_name: Cline
 record:
@@ -41,10 +41,10 @@ record:
   title: Add gpt-4.1
   type: change
 related_changes:
-- '[[Changes/Cline/2025-04-10-add-support-for-xai-s-provider-s-grok-3-models|Add support
-  for xAI''s provider''s Grok 3 models]]'
 - '[[Changes/Cline/2025-04-12-2-model-support-changes-in-v3-12-0|2 Model Support changes
   in v3.12.0]]'
+- '[[Changes/Open WebUI/2025-04-13-2-model-support-changes-in-v0-6-3|2 Model Support
+  changes in v0.6.3]]'
 - '[[Changes/Aider/2025-04-14-6-model-support-changes-in-v0-82-0|6 Model Support changes
   in v0.82.0]]'
 source_release: '[[Releases/Cline/cline-2025-04-14-v3-12-2-github-212280531-42f1983b|cline-2025-04-14-v3-12-2-github-212280531-42f1983b]]'

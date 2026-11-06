@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: f6f46fd5f1dd57c1c44febd788264c8ae23cf33de5d3948c238f8c9f86832fd4
+machine_hash: d1419c4ae8829f645fda331dc9047538037aefcd250d2d7227d862fe81b5a311
 product: openhands
 product_name: OpenHands
 record:
@@ -43,10 +43,10 @@ record:
   title: Enhance the LLM class with async support
   type: change
 related_changes:
-- '[[Changes/Cline/2024-08-15-adds-support-for-prompt-caching-https-www-anthropic-com-news-prompt-caching-to-r|Adds
-  support for Prompt Caching((source link)]]'
-- '[[Changes/Aider/2024-08-20-prompt-caching-for-anthropic-models-with-cache-prompts|Prompt
-  caching for Anthropic models with --cache-prompts]]'
+- '[[Changes/Open WebUI/2024-08-21-2-model-support-changes-in-v0-3-15|2 Model Support
+  changes in v0.3.15]]'
+- '[[Changes/Open WebUI/2024-08-21-3-model-support-changes-in-v0-3-14|3 Model Support
+  changes in v0.3.14]]'
 - '[[Changes/Aider/2024-08-23-default-openai-model-is-now-gpt-4o-2024-08-06|Default
   OpenAI model is now gpt-4o-2024-08-06]]'
 source_release: '[[Releases/OpenHands/openhands-2024-08-23-0-9-0-github-171741467-33b5726c|openhands-2024-08-23-0-9-0-github-171741467-33b5726c]]'
@@ -82,7 +82,7 @@ type: change
 ## Nearby in Model Support
 
 - Earlier: 2024-08-23 · Aider · [[Changes/Aider/2024-08-23-default-openai-model-is-now-gpt-4o-2024-08-06|Default OpenAI model is now gpt-4o-2024-08-06]]
-- Later: 2024-08-27 · Aider · [[Changes/Aider/2024-08-27-4-model-support-changes-in-v0-53-0|4 Model Support changes in v0.53.0]]
+- Later: 2024-08-26 · Dify · [[Changes/Dify/2024-08-26-11-model-support-changes-in-0-7-2|11 Model Support changes in 0.7.2]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

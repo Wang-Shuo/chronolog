@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 25597578e23823a4dc86da20f1e94fe2b39689ee85974e84e7b803d6311b58d3
+machine_hash: 6fa156372c3939f9e4d88addf358fb75f6b314f458639cd5ec165a4fcca7a96e
 product: openhands
 product_name: OpenHands
 record:
@@ -47,12 +47,11 @@ record:
   title: 2 Safety and Privacy changes in 1.3.0
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-01-30-permissions-now-respect-content-level-ask-over-tool-level-allow-previously-allow|Permissions
-  now respect content-level ask over tool-level allow]]'
 - '[[Changes/GitHub Copilot CLI/2026-01-30-acp-server-support-permission-flags-yolo-allow-all-etc-and-permissions-config|ACP
   server support permission flags: --yolo, --allow-all, etc. and permissions config]]'
 - '[[Changes/Codex CLI/2026-01-31-4-safety-and-privacy-changes-in-rust-v0-93-0|4 Safety
   and Privacy changes in rust-v0.93.0]]'
+- '[[Changes/ElevenLabs/2026-02-02-workspaces|Workspaces]]'
 source_release: '[[Releases/OpenHands/openhands-2026-02-02-1-3-0-github-282330882-2979c249|openhands-2026-02-02-1-3-0-github-282330882-2979c249]]'
 source_type: github_releases
 theme: safety-privacy
@@ -83,7 +82,7 @@ Source: https://github.com/OpenHands/OpenHands/releases/tag/1.3.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Safety and Privacy
 
-- Earlier: 2026-01-31 · Codex CLI · [[Changes/Codex CLI/2026-01-31-4-safety-and-privacy-changes-in-rust-v0-93-0|4 Safety and Privacy changes in rust-v0.93.0]]
+- Earlier: 2026-02-02 · ElevenLabs · [[Changes/ElevenLabs/2026-02-02-workspaces|Workspaces]]
 - Later: 2026-02-03 · Claude Code · [[Changes/Claude Code/2026-02-03-fixed-permission-dialogs-stealing-focus-while-actively-typing|Fixed permission dialogs stealing focus while actively typing]]
 <!-- chronolog:end -->
 

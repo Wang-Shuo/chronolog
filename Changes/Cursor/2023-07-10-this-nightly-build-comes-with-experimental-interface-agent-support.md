@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: e43f3c0b86e10461e13afa9b50b397bfdb226b01f23acf0111877adcee9ab429
+machine_hash: 4ecfe372a33bb99c1f9d9e3489a0e0d53ca29bc0a3bf91bce7d829d7a5ecd4cb
 product: cursor
 product_name: Cursor
 record:
@@ -74,7 +74,7 @@ type: change
 ## Nearby in Agent Mode
 
 - Earlier: 2023-07-06 · Cursor · [[Changes/Cursor/2023-07-06-welcome-to-the-first-nightly-release-it-comes-with-agents-which-we-aren-t-releas|Agents, new docs]]
-- Later: 2024-02-15 · Cursor · [[Changes/Cursor/2024-02-15-interpreter-mode-we-ve-made-some-big-improvements-to-the-backend-powering-interp|Interpreter Mode: We've made some big improvements to the backend powering…]]
+- Later: 2023-07-18 · Dify · [[Changes/Dify/2023-07-18-feat-hide-password-setting-and-invitation-link-in-cloud-version-by-jzongkvo-in-h|Feat: hide password setting and invitation link in cloud version]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

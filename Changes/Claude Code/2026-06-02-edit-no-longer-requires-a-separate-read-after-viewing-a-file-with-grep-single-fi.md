@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 60ee95799b615cf46146e128d51f920cdd99aaca223edcfeb53a1b9f80fee73f
+machine_hash: 8c448879f34c98aa791c89f365c3bc1aea99a1c2eedbb0e8ba6ec4ef21bc8a8b
 product: claude-code
 product_name: Claude Code
 record:
@@ -46,12 +46,12 @@ record:
   title: Edit no longer requires a separate Read after viewing a file with `grep`
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-05-29-2-editor-experience-changes-in-v1-0-56|2
-  Editor Experience changes in v1.0.56]]'
 - '[[Changes/Codex CLI/2026-06-01-2-editor-experience-changes-in-rust-v0-136-0|2 Editor
   Experience changes in rust-v0.136.0]]'
 - '[[Changes/GitHub Copilot CLI/2026-06-01-9-editor-experience-changes-in-v1-0-57|9
   Editor Experience changes in v1.0.57]]'
+- '[[Changes/Open WebUI/2026-06-01-4-editor-experience-changes-in-v0-9-6|4 Editor
+  Experience changes in v0.9.6]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-06-02-v2-1-160-github-332740156-03dd8b5a|claude-code-2026-06-02-v2-1-160-github-332740156-03dd8b5a]]'
 source_type: github_releases
 theme: editor-experience
@@ -86,7 +86,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2026-06-01 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-06-01-9-editor-experience-changes-in-v1-0-57|9 Editor Experience changes in v1.0.57]]
+- Earlier: 2026-06-01 · Open WebUI · [[Changes/Open WebUI/2026-06-01-4-editor-experience-changes-in-v0-9-6|4 Editor Experience changes in v0.9.6]]
 - Later: 2026-06-03 · Claude Code · [[Changes/Claude Code/2026-06-03-renamed-windsurf-to-devin-desktop-in-the-ide-menu-terminal-setup-and-scroll-spee|Renamed Windsurf to Devin Desktop in the /ide menu, /terminal-setup…]]
 <!-- chronolog:end -->
 

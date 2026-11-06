@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 66cf8e2d30ecf8ca40a307dca426d6848f79ced366b415f81ac703acdc9c1f51
+machine_hash: 06f57bfb11dd5ea5c4d2550f9fdd54013bedf777e65d7e66cc1edb351e9c2da2
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -43,10 +43,10 @@ record:
   title: 2 Account and Access changes in rust-v0.52.0
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2025-10-22-added-debug-logging-to-authentication-status-changes-to-get-to-the-bottom-of-htt|Added
-  debug logging to authentication status changes to get to the bottom…]]'
 - '[[Changes/Codex CLI/2025-10-23-3-account-and-access-changes-in-rust-v0-48-0|3 Account
   and Access changes in rust-v0.48.0]]'
+- '[[Changes/Replit/2025-10-24-sso-support-for-replit-auth-in-enterprise-apps|SSO
+  support for Replit Auth in Enterprise apps]]'
 - '[[Changes/Codex CLI/2025-10-25-5653-mcp-properly-gate-login-after-mcp-add-with-experimental-use-rmcp-client-gpe|♯5653
   — MCP Properly gate login after mcp add with experimental_use_rmcp_client (@gpeal)]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2025-10-30-rust-v0-52-0-github-258584762-83f2b559|codex-cli-2025-10-30-rust-v0-52-0-github-258584762-83f2b559]]'

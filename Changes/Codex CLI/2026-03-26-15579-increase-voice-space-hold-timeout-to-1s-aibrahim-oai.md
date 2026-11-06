@@ -4,20 +4,20 @@ date: '2026-03-26'
 description: 'Codex CLI · 2026-03-26 · Voice and Audio: #15579 Increase voice space
   hold timeout to 1s @aibrahim-oai'
 diffusion:
-  first_in_tracked: '[[Changes/Aider/2023-08-11-voice-to-code-https-aider-chat-docs-voice-html-support-which-allows-you-to-code|Voice-to-code((source
-    link) support, which allows you…]]'
+  first_in_tracked: '[[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2
+    Voice and Audio changes in 0.3.7]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 958
+  lag_days: 990
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: c8ce528f524dbdeb0eb9e21d7c9aad8c8b21255b816e4c3367a6706b5813afb0
+machine_hash: db4ba47a54f2c4472d4ce9a8ec39bfbe6986e82999a005e19d4b3005f3b91954
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -41,10 +41,9 @@ record:
   title: '#15579 Increase voice space hold timeout to 1s @aibrahim-oai'
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2026-03-17-feat-voice-implement-speech-friendly-response-formatter-by-ayush31010-in-https-g|feat(voice):
-  implement speech-friendly response formatter]]'
 - '[[Changes/Codex CLI/2026-03-19-2-voice-and-audio-changes-in-rust-v0-116-0|2 Voice
   and Audio changes in rust-v0.116.0]]'
+- '[[Changes/ElevenLabs/2026-03-23-speech-to-text|Speech to Text]]'
 - '[[Changes/Claude Code/2026-03-26-slash-commands-unavailable-for-the-current-auth-setup-voice-mobile-chrome-upgrad|Slash
   commands unavailable for the current auth setup…]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-03-26-rust-v0-117-0-github-302123790-7cb322b6|codex-cli-2026-03-26-rust-v0-117-0-github-302123790-7cb322b6]]'
@@ -99,7 +98,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-08-11 · Aider · [[Changes/Aider/2023-08-11-voice-to-code-https-aider-chat-docs-voice-html-support-which-allows-you-to-code|Voice-to-code((source link) support, which allows you…]]
+- Earliest same-theme entry in the tracked set: 2023-07-10 · Dify · [[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2 Voice and Audio changes in 0.3.7]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

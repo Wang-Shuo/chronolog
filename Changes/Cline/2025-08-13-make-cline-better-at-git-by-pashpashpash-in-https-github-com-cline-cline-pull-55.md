@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 3901666563080c080870598d21c95cebf2014c1b1d0a99ab7ece9b18974b7810
+machine_hash: 6464e5b48aadde38cf5ae46bda2cec06ba1ab0861b670d87fe6b73b5c2af63fc
 product: cline
 product_name: Cline
 record:
@@ -41,8 +41,8 @@ record:
   title: make cline better at git
   type: change
 related_changes:
-- '[[Changes/Cline/2025-08-09-revert-unnecessary-terminal-command-issue-workarounds-by-saoudrizwan-in-https-gi|Revert
-  unnecessary terminal command issue workarounds]]'
+- '[[Changes/Dify/2025-08-11-4-developer-workflow-changes-in-1-7-2|4 Developer Workflow
+  changes in 1.7.2]]'
 - '[[Changes/Codex CLI/2025-08-12-2-developer-workflow-changes-in-rust-v0-21-0|2 Developer
   Workflow changes in rust-v0.21.0]]'
 - '[[Changes/Gemini CLI/2025-08-12-4-developer-workflow-changes-in-v0-1-19|4 Developer

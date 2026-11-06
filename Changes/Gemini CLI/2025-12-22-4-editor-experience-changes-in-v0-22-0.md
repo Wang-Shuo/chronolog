@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 83bda0285a11656621bb9c18563d63ed19721755d69e0f0e04e0f9c2c92070a1
+machine_hash: b46479950c4c573254edefec5472a9cfa232da47eccb08d88d3db705f322594b
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -50,10 +50,10 @@ record:
   title: 4 Editor Experience changes in v0.22.0
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2025-12-18-update-skills-help-text-to-reference-correct-copilot-skills-directory|Update
-  skills help text to reference correct ~/.copilot/skills/ directory]]'
 - '[[Changes/Claude Code/2025-12-19-vscode-added-tab-icon-badges-showing-pending-permissions-blue-and-unread-complet|VSCode
   Added tab icon badges showing pending permissions (blue) and unread…]]'
+- '[[Changes/Open WebUI/2025-12-21-3-editor-experience-changes-in-v0-6-42|3 Editor
+  Experience changes in v0.6.42]]'
 - '[[Changes/Cline/2025-12-22-duplicate-error-messages-during-streaming-for-diff-edit-tool-when-parallel-tool|Duplicate
   error messages during streaming for Diff Edit tool when Parallel Tool…]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2025-12-22-v0-22-0-github-272264073-a982fd82|gemini-cli-2025-12-22-v0-22-0-github-272264073-a982fd82]]'
@@ -97,7 +97,7 @@ Source: https://github.com/google-gemini/gemini-cli/releases/tag/v0.22.0
 ## Nearby in Editor Experience
 
 - Earlier: 2025-12-22 · Cline · [[Changes/Cline/2025-12-22-duplicate-error-messages-during-streaming-for-diff-edit-tool-when-parallel-tool|Duplicate error messages during streaming for Diff Edit tool when Parallel Tool…]]
-- Later: 2025-12-24 · Windsurf · [[Changes/Windsurf/2025-12-24-2-editor-experience-changes-in-v1-13-3|2 Editor Experience changes in v1.13.3]]
+- Later: 2025-12-23 · Lovable · [[Changes/Lovable/2025-12-23-mention-code-files-in-chat|Mention code files in chat]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

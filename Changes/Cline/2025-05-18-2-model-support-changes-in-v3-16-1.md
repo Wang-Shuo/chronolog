@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 2439e6153cb2ca6b370f7444adbda8a6b7c7f4f72c750b6af66ffcfd0086503c
+machine_hash: 013ef7c1131c3b9f43982d4d13c384ad07e723dd6f13150382a243551e0edb72
 product: cline
 product_name: Cline
 record:
@@ -80,7 +80,7 @@ Source: https://github.com/cline/cline/releases/tag/v3.16.1
 ## Nearby in Model Support
 
 - Earlier: 2025-05-15 · Windsurf · [[Changes/Windsurf/2025-05-15-new-family-of-swe-1-models|New Family of SWE-1 Models]]
-- Later: 2025-05-22 · Cline · [[Changes/Cline/2025-05-22-add-support-for-anthropic-claude-sonnet-4-and-claude-opus-4-in-both-anthropic-an|Add support for Anthropic Claude Sonnet 4 and Claude Opus 4 in both Anthropic…]]
+- Later: 2025-05-19 · ElevenLabs · [[Changes/ElevenLabs/2025-05-19-text-to-speech|Text To Speech]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 602e3713f1c290d1b604db1c711e5a8f1b103b86e9fcfd09a4a799274026a234
+machine_hash: 567d489b7378d1d052159e52e43737f66448ce84ffba57cf6fb3b25e4d8c730e
 product: claude-code
 product_name: Claude Code
 record:
@@ -90,7 +90,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.30
 ## Nearby in Developer Workflow
 
 - Earlier: 2026-01-31 · Codex CLI · [[Changes/Codex CLI/2026-01-31-6-developer-workflow-changes-in-rust-v0-93-0|6 Developer Workflow changes in rust-v0.93.0]]
-- Later: 2026-02-04 · Claude Code · [[Changes/Claude Code/2026-02-04-reduced-layout-jitter-in-the-terminal-when-the-spinner-appears-and-disappears-du|Reduced layout jitter in the terminal when the spinner appears and disappears during…]]
+- Later: 2026-02-03 · Dify · [[Changes/Dify/2026-02-03-2-developer-workflow-changes-in-1-12-0|2 Developer Workflow changes in 1.12.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: accessibility-localization
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: e6d529de59c3fa99978d13014487f54896b3a04609100f3638a44d5f2d793886
+machine_hash: a75e4c7669997f70277f4c33aad108ad3ded9fd8eac9172b7ff7c6aaf48a45d5
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -41,12 +41,12 @@ record:
   title: Theme preview appears above theme list in screen reader mode
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2025-12-18-ensure-animated-or-non-animated-banner-is-displayed-based-on-banner-and-screen-r|Ensure
-  animated or non-animated banner is displayed based on banner and screen…]]'
-- '[[Changes/Claude Code/2026-01-28-added-support-for-full-width-zenkaku-number-input-from-japanese-ime-in-option-se|Added
-  support for full-width (zenkaku) number input from Japanese IME in option…]]'
+- '[[Changes/Dify/2026-02-03-chore-improve-accessibility-for-learn-more-link-by-khmandarrin-in-https-github-c|chore:
+  improve accessibility for learn more link]]'
 - '[[Changes/Claude Code/2026-02-04-added-support-for-full-width-zenkaku-space-input-from-japanese-ime-in-checkbox-s|Added
   support for full-width (zenkaku) space input from Japanese IME in checkbox selection]]'
+- '[[Changes/Dify/2026-02-11-added-dutch-nl-nl-language-support-across-backend-language-mapping-and-web-local|Added
+  Dutch (nl-NL) language support across backend language mapping and web…]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-02-12-v0-0-409-github-285888661-2d549ab0|github-copilot-cli-2026-02-12-v0-0-409-github-285888661-2d549ab0]]'
 source_type: github_releases
 theme: accessibility-localization
@@ -80,8 +80,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Accessibility and Localization
 
-- Earlier: 2026-02-04 · Claude Code · [[Changes/Claude Code/2026-02-04-added-support-for-full-width-zenkaku-space-input-from-japanese-ime-in-checkbox-s|Added support for full-width (zenkaku) space input from Japanese IME in checkbox selection]]
-- Later: 2026-02-17 · Codex CLI · [[Changes/Codex CLI/2026-02-17-11860-fixed-screen-reader-regression-in-cli-etraut-openai|♯11860 Fixed screen reader regression in CLI @etraut-openai]]
+- Earlier: 2026-02-11 · Dify · [[Changes/Dify/2026-02-11-added-dutch-nl-nl-language-support-across-backend-language-mapping-and-web-local|Added Dutch (nl-NL) language support across backend language mapping and web…]]
+- Later: 2026-02-12 · Open WebUI · [[Changes/Open WebUI/2026-02-12-screen-reader-accessibility-screen-reader-users-now-hear-the-password-field-labe|♿ Screen reader accessibility. Screen reader users now hear the password field…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 235a1e2d760c459684347a40b610369fe8a7ca7400eb80548210ee9da2ea036a
+machine_hash: 85b25c8212326fc6aced692accb9335139480ca60fa65c7513166a17a78fa593
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -52,10 +52,10 @@ record:
   title: Share Sites with people outside your workspace
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-08-20-share-a-read-only-snapshot-of-a-codex-chat-personal-share-links-can-be-opened-by|Share
-  a read-only snapshot of a Codex chat]]'
-- '[[Changes/Codex CLI/2026-08-20-2-collaboration-changes-in-rust-v0-149-0|2 Collaboration
-  changes in rust-v0.149.0]]'
+- '[[Changes/v0/2026-08-28-4-collaboration-changes-in-gpt-5-6-sol-sign-in-inside-previews|4
+  Collaboration changes in GPT-5.6 Sol, sign-in inside previews…]]'
+- '[[Changes/Open WebUI/2026-08-31-2-collaboration-changes-in-v0-11-2|2 Collaboration
+  changes in v0.11.2]]'
 - '[[Changes/Codex CLI/2026-09-01-5-collaboration-changes-in-rust-v0-152-0|5 Collaboration
   changes in rust-v0.152.0]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-09-03-share-sites-with-people-outside-your-workspace-88fde38a|chatgpt-2026-09-03-share-sites-with-people-outside-your-workspace-88fde38a]]'

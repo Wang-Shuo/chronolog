@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: memory
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: c99ec55c813c761d511fdf35084ace4282e87e83a134ec878cd16d238596cab8
+machine_hash: 6e61a745b4e8c5a0a6050c96a544e3f4ef3ab672d61afb0d20ef2419e9787582
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -92,7 +92,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.136.0
 ## Nearby in Memory and Personalization
 
 - Earlier: 2026-05-28 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-05-28-vote-memory-tool-calls-are-throttled-per-response-and-per-interaction-to-prevent|vote_memory tool calls are throttled per response and per interaction to prevent…]]
-- Later: 2026-06-04 · ChatGPT · [[Changes/ChatGPT/2026-06-04-we-ve-upgraded-memory-so-chatgpt-can-better-keep-your-context-up-to-date-helping-9a48f3|Memory that stays more up to date]]
+- Later: 2026-06-01 · Open WebUI · [[Changes/Open WebUI/2026-06-01-2-memory-and-personalization-changes-in-v0-9-6|2 Memory and Personalization changes in v0.9.6]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

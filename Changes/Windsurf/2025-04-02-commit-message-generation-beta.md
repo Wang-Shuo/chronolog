@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: de99032d6af4d04fdf7094aa1e304e20384c41114d5d14d4a40793152eb77f1d
+machine_hash: 07552d4ce1ea22aaac28ad46128a407a748cbec3f99dc1f0f700b3854cc965a7
 product: windsurf
 product_name: Windsurf
 record:
@@ -42,10 +42,10 @@ record:
   title: Commit Message Generation (Beta)
   type: change
 related_changes:
-- '[[Changes/OpenHands/2025-03-25-reduce-bash-soft-timeout-from-30-to-10-seconds-by-xingyaoww-in-https-github-com|Reduce
-  bash SOFT timeout from 30 to 10 seconds]]'
 - '[[Changes/Aider/2025-03-31-2-developer-workflow-changes-in-v0-80-0|2 Developer
   Workflow changes in v0.80.0]]'
+- "[[Changes/Open WebUI/2025-04-01-improved-error-handling-from-pipelines-pipelines-now-show-the-actual-returned-er|\U0001F4DA
+  Improved Error Handling from Pipelines]]"
 - '[[Changes/OpenHands/2025-04-02-prevent-openhands-from-creating-additional-pull-requests-unless-explicitly-instr|Prevent
   OpenHands from creating additional pull requests unless explicitly instructed]]'
 source_release: '[[Releases/Windsurf/windsurf-2025-04-02-v1-6-1-9d892c6f|windsurf-2025-04-02-v1-6-1-9d892c6f]]'
@@ -79,7 +79,7 @@ type: change
 ## Nearby in Developer Workflow
 
 - Earlier: 2025-04-02 · OpenHands · [[Changes/OpenHands/2025-04-02-prevent-openhands-from-creating-additional-pull-requests-unless-explicitly-instr|Prevent OpenHands from creating additional pull requests unless explicitly instructed]]
-- Later: 2025-04-15 · Cursor · [[Changes/Cursor/2025-04-15-improved-agent-terminal-control|Improved agent terminal control]]
+- Later: 2025-04-09 · Dify · [[Changes/Dify/2025-04-09-2-developer-workflow-changes-in-1-2-0|2 Developer Workflow changes in 1.2.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

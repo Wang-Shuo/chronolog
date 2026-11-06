@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 13839611597caff3cb4a841b6b86ba0b3891c2057ce953c6b174ffd2e31d6816
+machine_hash: 703a5e3bc4f5124c14e8e6b7048cc2e90fbe4729463fc216b27bd3c3ec5b899a
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -49,7 +49,8 @@ record:
   title: Share a read-only snapshot of a Codex chat
   type: change
 related_changes:
-- '[[Changes/Windsurf/2026-08-13-devin-local|Devin Local]]'
+- '[[Changes/v0/2026-08-14-4-collaboration-changes-in-a-redesigned-sidebar-a-richer|4
+  Collaboration changes in A redesigned sidebar, a richer…]]'
 - '[[Changes/Claude Code/2026-08-17-removed-the-default-teammate-model-setting-from-config-agent-team-teammates-now|Removed
   the "Default teammate model" setting from /config]]'
 - '[[Changes/Codex CLI/2026-08-18-5-collaboration-changes-in-rust-v0-148-0|5 Collaboration

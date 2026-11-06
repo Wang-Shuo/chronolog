@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 08cd6ff3805c22776e17dc48abc619a957b500a1e9b5591116c593b7bd5bd5f5
+machine_hash: ea2d099d14b4c2b74dc44262cb7004fb2b75c13ffebe6b7215709bf46bc4535b
 product: cursor
 product_name: Cursor
 record:
@@ -98,7 +98,7 @@ type: change
 ## Nearby in Reliability and Performance
 
 - Earlier: 2026-04-02 · Claude Code · [[Changes/Claude Code/2026-04-02-improved-performance-faster-stripansi-on-bun-by-routing-through-bun-stripansi|Improved performance: faster stripAnsi on Bun by routing through Bun.stripANSI]]
-- Later: 2026-04-04 · Claude Code · [[Changes/Claude Code/2026-04-04-improved-write-tool-diff-computation-speed-for-large-files-60-faster-on-files-wi|Improved Write tool diff computation speed for large files…]]
+- Later: 2026-04-02 · Lovable · [[Changes/Lovable/2026-04-02-improvements-and-bug-fixes|Improvements and bug fixes]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: a28a3d5139e341b0dd06a6fa8908099f33072056d0293a3b738227c89d997b6e
+machine_hash: 5ecb66d1e41db73ede878173242b98994d66bc9ff8bcbf6bea560a8bd4b40a5f
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -44,8 +44,8 @@ record:
   title: 2 Context Window changes in rust-v0.30.0
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2025-08-27-2-context-window-changes-in-rust-v0-25-0|2 Context
-  Window changes in rust-v0.25.0]]'
+- '[[Changes/Open WebUI/2025-08-28-2-context-window-changes-in-v0-6-26|2 Context Window
+  changes in v0.6.26]]'
 - '[[Changes/Cline/2025-08-29-add-200k-context-window-variant-for-claude-sonnet-4-to-openrouter-and-cline-prov|Add
   200k context window variant for Claude Sonnet 4 to OpenRouter and Cline providers]]'
 - '[[Changes/Gemini CLI/2025-09-04-update-colors-tokens-for-inputer-footer-by-miguelsolorio-in-https-github-com-goo|Update

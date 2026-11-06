@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 762662118ed6500d3d92e6521bb2ec34424c46bb61eab37ea69a8f6979098a7c
+machine_hash: f19b74b986946cea2a5053c46c11537da5cdce439ee1e74d73d63e02cfb49166
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -43,10 +43,10 @@ record:
   title: '[#4195] Send text parameter for non-gpt-5 models (#4195)'
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2025-09-24-6-model-support-changes-in-v0-6-0|6 Model Support
-  changes in v0.6.0]]'
-- '[[Changes/Cline/2025-09-25-refactor-append-stealth-models-on-readopenroutermodels-refreshopenroutermodels-b|refactor:
-  append stealth models on readOpenRouterModels & refreshOpenRouterModels]]'
+- '[[Changes/Gemini/2025-09-25-update-to-2-5-flash-in-gemini|Update to 2.5 Flash in
+  Gemini]]'
+- '[[Changes/Open WebUI/2025-09-25-4-model-support-changes-in-v0-6-31|4 Model Support
+  changes in v0.6.31]]'
 - '[[Changes/OpenHands/2025-09-25-set-claude-sonnet-output-token-limit|Set Claude
   Sonnet output token limit]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2025-09-26-rust-v0-42-0-github-250387883-27046aff|codex-cli-2025-09-26-rust-v0-42-0-github-250387883-27046aff]]'
@@ -83,7 +83,7 @@ type: change
 ## Nearby in Model Support
 
 - Earlier: 2025-09-25 · OpenHands · [[Changes/OpenHands/2025-09-25-set-claude-sonnet-output-token-limit|Set Claude Sonnet output token limit]]
-- Later: 2025-09-28 · Cline · [[Changes/Cline/2025-09-28-2-model-support-changes-in-v3-32-1|2 Model Support changes in v3.32.1]]
+- Later: 2025-09-26 · Ollama · [[Changes/Ollama/2025-09-26-2-model-support-changes-in-v0-12-3|2 Model Support changes in v0.12.3]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

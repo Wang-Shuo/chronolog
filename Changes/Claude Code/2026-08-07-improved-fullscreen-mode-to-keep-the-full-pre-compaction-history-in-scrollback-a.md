@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 5426248c035f8f6d8cc349f36975a39eda82506469c2038e46864424b8681297
+machine_hash: 98922063715f73c872e2f8ebc5ed5bb59c238208154caa3fa40ff4a4b0d3a202
 product: claude-code
 product_name: Claude Code
 record:
@@ -43,8 +43,8 @@ record:
   title: Improved fullscreen mode to keep the full pre-compaction history in scrollback…
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-08-03-2-interface-experience-changes-in-v1-0-78|2
-  Interface Experience changes in v1.0.78]]'
+- '[[Changes/Lovable/2026-08-03-revise-a-plan-by-highlighting-the-part-you-want-changed|Revise
+  a plan by highlighting the part you want changed]]'
 - '[[Changes/Claude Code/2026-08-04-vscode-added-focus-view-a-chat-menu-toggle-that-hides-tool-activity-behind-an-ex|VSCode
   Added Focus view]]'
 - '[[Changes/Cline/2026-08-05-3-interface-experience-changes-in-v4-1-4|3 Interface

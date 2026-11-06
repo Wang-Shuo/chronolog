@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 24a4b497fc896923978cc0fabeeeb4837d5011f8d297b9f40a502320650d1279
+machine_hash: 5e3628af47494a37f717cba8c1b6ca38cc795a51512b54b85bfc0acbda3fec60
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -44,10 +44,10 @@ record:
     directly…
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-08-27-sandboxed-builds-on-windows-create-their-scratch-caches-on-first-run-so-cargo-go|Sandboxed
-  builds on Windows create their scratch caches on first run, so cargo, go…]]'
 - '[[Changes/OpenHands/2026-08-27-feat-add-linux-desktop-installer-build-ci-deb-maintainer-fix-by-georgeglarson-in|feat:
   add linux desktop installer build (CI + deb maintainer fix)]]'
+- '[[Changes/v0/2026-08-28-the-native-mobile-app-gained-message-queuing-tappable-links-shared-chat-author-a|The
+  native mobile app gained message queuing, tappable links, shared-chat author…]]'
 - '[[Changes/ChatGPT/2026-08-31-share-your-stickers-in-messaging-apps-download-your-pack-or-add-it-to-imessage-o|Share
   your stickers in messaging apps]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-08-31-use-website-tools-in-the-desktop-browser-6c07f08a|chatgpt-2026-08-31-use-website-tools-in-the-desktop-browser-6c07f08a]]'
@@ -79,7 +79,7 @@ type: change
 ## Nearby in Mobile and Desktop
 
 - Earlier: 2026-08-31 · ChatGPT · [[Changes/ChatGPT/2026-08-31-share-your-stickers-in-messaging-apps-download-your-pack-or-add-it-to-imessage-o|Share your stickers in messaging apps]]
-- Later: 2026-09-01 · Claude Code · [[Changes/Claude Code/2026-09-01-changed-add-dir-add-dir-and-additionaldirectories-to-refuse-network-paths-unc-sh|Changed --add-dir, /add-dir, and additionalDirectories to refuse network paths…]]
+- Later: 2026-08-31 · ElevenLabs · [[Changes/ElevenLabs/2026-08-31-android-sdk|Android SDK]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

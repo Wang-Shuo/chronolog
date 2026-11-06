@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 236ebf3f77233474ec098421dd7f26a2e0fde439586c660813598b6f5e735fb5
+machine_hash: e39302c2b09466d5477db614e1b4bcad49afdb1749a9e2c50f30c9544f9ea944
 product: cursor
 product_name: Cursor
 record:
@@ -45,8 +45,8 @@ record:
   title: Multiple Command-K, Copilot++ UI
   type: change
 related_changes:
-- '[[Changes/Cursor/2023-12-02-running-cmd-enter-on-followups-should-result-in-much-better-codebase-results|Smarter
-  Followups]]'
+- '[[Changes/Dify/2023-12-08-chore-deps-bump-word-wrap-from-1-2-3-to-1-2-5-in-web-by-dependabot-in-https-gith|chore(deps):
+  bump word-wrap from 1.2.3 to 1.2.5 in /web]]'
 - '[[Changes/Cursor/2023-12-14-we-made-copilot-faster-smarter-more-constrained-and-switched-to-a-ghost-text-hit|Copilot++
   Improvements]]'
 - '[[Changes/Cursor/2023-12-16-update-0-20-1-0-20-2-we-added-tldrs-to-make-it-easier-to-sort-through-the-bugs-f|UPDATE

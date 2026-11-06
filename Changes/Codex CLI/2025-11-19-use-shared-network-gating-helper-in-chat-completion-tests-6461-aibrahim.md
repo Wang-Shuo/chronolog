@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: d4975f11692f88f85f2bca61dec99114aa85dc2735bc0406162d77d3cf629fbd
+machine_hash: a1bf65ffd6df8b0c90ac605bf3d48e454c01c141f6545514164ce4900b86e88a
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -41,8 +41,8 @@ record:
   title: Use shared network gating helper in chat completion tests (#6461) — @aibrahim
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2025-11-12-3-editor-experience-changes-in-v0-0-355|3
-  Editor Experience changes in v0.0.355]]'
+- '[[Changes/Dify/2025-11-13-refactor-web-reuse-the-same-edit-custom-collection-modal-component-and-fix-the-p|refactor(web):
+  reuse the same edit-custom-collection-modal component, and fix…]]'
 - '[[Changes/Windsurf/2025-11-13-shortcuts|Shortcuts]]'
 - '[[Changes/Gemini CLI/2025-11-14-add-expected-replacements-to-smart-edit-tool-by-scidomino-in-https-github-com-go|Add
   expected_replacements to smart-edit tool]]'

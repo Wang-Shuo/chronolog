@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 7e78c5de361401837e357ea8af27d3abedf719347a2d9f11368e301598df8899
+machine_hash: 409e0bced4414ba916c37722b121d084971368366d382bc0a7115af6727593b1
 product: cline
 product_name: Cline
 record:
@@ -59,12 +59,12 @@ record:
   title: Commands now run directly in your terminal thanks to VSCode 1.93's new shell…
   type: change
 related_changes:
-- '[[Changes/OpenHands/2024-07-13-2-apps-and-integrations-changes-in-0-8-0|2 Apps
-  and Integrations changes in 0.8.0]]'
-- '[[Changes/OpenHands/2024-07-19-5-apps-and-integrations-changes-in-0-8-1|5 Apps
-  and Integrations changes in 0.8.1]]'
-- '[[Changes/OpenHands/2024-07-27-2-apps-and-integrations-changes-in-0-8-2|2 Apps
-  and Integrations changes in 0.8.2]]'
+- '[[Changes/Dify/2024-08-19-custom-app-icons-personalize-your-apps-with-custom-icons-by-xuzuodong-in-7196-ht|Custom
+  App Icons]]'
+- '[[Changes/Dify/2024-09-03-4-apps-and-integrations-changes-in-0-7-3|4 Apps and Integrations
+  changes in 0.7.3]]'
+- "[[Changes/Open WebUI/2024-09-04-automatic-rewrite-of-import-statements-in-tools-functions-tool-and-function-scri|\U0001F504
+  Automatic Rewrite of Import Statements in Tools & Functions]]"
 source_release: '[[Releases/Cline/cline-2024-09-09-v1-6-0-github-174213894-f9d0fda4|cline-2024-09-09-v1-6-0-github-174213894-f9d0fda4]]'
 source_type: github_releases
 theme: apps-integrations
@@ -93,8 +93,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2024-07-27 · OpenHands · [[Changes/OpenHands/2024-07-27-2-apps-and-integrations-changes-in-0-8-2|2 Apps and Integrations changes in 0.8.2]]
-- Later: 2024-11-04 · Aider · [[Changes/Aider/2024-11-04-easily-apply-file-edits-from-chatgpt-claude-or-other-web-apps|Easily apply file edits from ChatGPT, Claude or other web apps]]
+- Earlier: 2024-09-04 · Open WebUI · [[Changes/Open WebUI/2024-09-04-automatic-rewrite-of-import-statements-in-tools-functions-tool-and-function-scri|🔄 Automatic Rewrite of Import Statements in Tools & Functions]]
+- Later: 2024-09-12 · Dify · [[Changes/Dify/2024-09-12-2-apps-and-integrations-changes-in-0-8-1|2 Apps and Integrations changes in 0.8.1]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

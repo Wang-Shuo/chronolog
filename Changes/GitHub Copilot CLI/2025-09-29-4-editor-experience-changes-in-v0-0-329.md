@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 7c4ae0201c86c6389339e178ab723f6f2972ee57c6a59b9b5c652c8e5f69f365
+machine_hash: 46453d5f8f11253f42c3983bf28cad2c222187b7ae558a0935a00b3aecffc2e0
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -50,11 +50,11 @@ record:
   title: 4 Editor Experience changes in v0.0.329
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-09-29-when-writing-prompts-autocomplete-suggestions-will-appear-based-on-recent-change|Autocomplete
-  for Agent]]'
 - '[[Changes/Cursor/2025-09-29-1-7-4-shift-tab-shortcut-improvements|1.7.4: Shift+Tab
   shortcut improvements]]'
 - '[[Changes/Cursor/2025-09-29-pr-summaries-from-bugbot|PR summaries from Bugbot]]'
+- '[[Changes/Dify/2025-09-29-2-editor-experience-changes-in-1-9-1|2 Editor Experience
+  changes in 1.9.1]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2025-09-29-v0-0-329-github-250905427-a727dae6|github-copilot-cli-2025-09-29-v0-0-329-github-250905427-a727dae6]]'
 source_type: github_releases
 theme: editor-experience
@@ -95,7 +95,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v0.0.329
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2025-09-29 · Cursor · [[Changes/Cursor/2025-09-29-pr-summaries-from-bugbot|PR summaries from Bugbot]]
+- Earlier: 2025-09-29 · Dify · [[Changes/Dify/2025-09-29-2-editor-experience-changes-in-1-9-1|2 Editor Experience changes in 1.9.1]]
 - Later: 2025-09-29 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2025-09-29-this-is-our-second-release-today-be-sure-to-check-out-the-list-of-changes-in-0-0|This is our second release today -- be sure to check out the list of changes…]]
 <!-- chronolog:end -->
 

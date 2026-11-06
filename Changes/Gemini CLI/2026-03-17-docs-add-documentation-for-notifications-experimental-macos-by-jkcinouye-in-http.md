@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 46727cc1564001bcd342b41342eda41b2982f81b47c0ce9fcb774292580043b3
+machine_hash: fbfee95203e3a35116d30e9e533bba03b919c0e43dd40877cccecbaf0bd5a1ea
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -42,8 +42,7 @@ record:
   title: 'Docs: Add documentation for notifications (experimental)(macOS)'
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-03-16-2-mobile-and-desktop-changes-in-rust-v0-115-0|2
-  Mobile and Desktop changes in rust-v0.115.0]]'
+- '[[Changes/ElevenLabs/2026-03-16-ios-sdk|iOS SDK]]'
 - '[[Changes/GitHub Copilot CLI/2026-03-16-3-mobile-and-desktop-changes-in-v1-0-6|3
   Mobile and Desktop changes in v1.0.6]]'
 - '[[Changes/Claude Code/2026-03-17-vscode-when-option-click-doesn-t-trigger-native-selection-on-macos-the-footer-no|VSCode

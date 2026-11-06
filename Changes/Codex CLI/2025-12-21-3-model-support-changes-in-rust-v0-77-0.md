@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 78727d9579c37c31e2aaa2cec5f65a212d2766e57d462b7c16199cc1f9bfef5f
+machine_hash: 0dabf64285d5845fa266dd2d074232e8c9d01a52d957556617a167174d2d20ff
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -45,8 +45,8 @@ record:
   title: 3 Model Support changes in rust-v0.77.0
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2025-12-18-2-model-support-changes-in-v0-0-370|2 Model
-  Support changes in v0.0.370]]'
+- '[[Changes/Ollama/2025-12-18-2-model-support-changes-in-v0-13-5|2 Model Support
+  changes in v0.13.5]]'
 - '[[Changes/Codex CLI/2025-12-19-2-model-support-changes-in-rust-v0-76-0|2 Model
   Support changes in rust-v0.76.0]]'
 - '[[Changes/GitHub Copilot CLI/2025-12-19-enable-disabled-models-directly-in-cli-when-selecting-or-specifying-them|Enable
@@ -89,7 +89,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.77.0
 ## Nearby in Model Support
 
 - Earlier: 2025-12-19 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2025-12-19-enable-disabled-models-directly-in-cli-when-selecting-or-specifying-them|Enable disabled models directly in CLI when selecting or specifying them]]
-- Later: 2025-12-22 · Cline · [[Changes/Cline/2025-12-22-remove-glm-4-6-from-free-models|Remove GLM 4.6 from free models]]
+- Later: 2025-12-21 · Open WebUI · [[Changes/Open WebUI/2025-12-21-11-model-support-changes-in-v0-6-42|11 Model Support changes in v0.6.42]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

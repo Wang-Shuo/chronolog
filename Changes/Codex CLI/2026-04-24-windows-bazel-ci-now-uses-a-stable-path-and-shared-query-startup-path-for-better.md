@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: c59ad43cd6b2f077190c845341a8fa556bece3731c831f959c44eede9922a88a
+machine_hash: 5477b40873da309ac237d28d972c88ba119b4ad54c41f6e746a565df64bbcb31
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -44,10 +44,10 @@ record:
     better…
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-04-15-17717-codex-refactor-marketplace-add-into-shared-core-flow-xli-oai|♯17717
-  codex Refactor marketplace add into shared core flow @xli-oai]]'
 - '[[Changes/Codex CLI/2026-04-20-18398-refactor-use-cloneable-async-channels-for-shared-receivers-bolinfest|♯18398
   refactor: use cloneable async channels for shared receivers @bolinfest]]'
+- "[[Changes/Open WebUI/2026-04-21-shared-chat-access-controls-you-can-now-control-who-has-access-to-a-shared-chat|\U0001F517
+  Shared chat access controls. You can now control who has access to a shared…]]"
 - '[[Changes/Codex CLI/2026-04-23-2-collaboration-changes-in-rust-v0-123-0|2 Collaboration
   changes in rust-v0.123.0]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-04-24-rust-v0-125-0-github-313349252-d42d093c|codex-cli-2026-04-24-rust-v0-125-0-github-313349252-d42d093c]]'
@@ -86,7 +86,7 @@ type: change
 ## Nearby in Collaboration
 
 - Earlier: 2026-04-23 · Codex CLI · [[Changes/Codex CLI/2026-04-23-2-collaboration-changes-in-rust-v0-123-0|2 Collaboration changes in rust-v0.123.0]]
-- Later: 2026-04-30 · Codex CLI · [[Changes/Codex CLI/2026-04-30-20149-reduce-the-surface-of-collaboration-modes-pakrym-oai|♯20149 Reduce the surface of collaboration modes @pakrym-oai]]
+- Later: 2026-04-27 · ElevenLabs · [[Changes/ElevenLabs/2026-04-27-other|Other]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 94c5e30c12cfc0ec9ab0f065c33820726bf7b2825162b246e16bd15898ec1009
+machine_hash: 804ec9448cc30b57eec6a1bf4d6f2b40da52f501b83b3f3e4ece7d4904598ee8
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -54,12 +54,9 @@ record:
   title: 5 Model Support changes in v0.8.0
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2025-10-03-we-re-updating-gpt-5-instant-to-better-recognize-and-support-people-in-moments-o-ea32fc|Updating
-  GPT-5]]'
-- '[[Changes/Codex CLI/2025-10-03-6-model-support-changes-in-rust-v0-44-0|6 Model
-  Support changes in rust-v0.44.0]]'
-- '[[Changes/Codex CLI/2025-10-06-2-model-support-changes-in-rust-v0-45-0|2 Model
-  Support changes in rust-v0.45.0]]'
+- '[[Changes/Lovable/2025-10-06-sonnet-4-5|Sonnet 4.5]]'
+- '[[Changes/Lovable/2025-10-06-lovable-ai|Lovable AI]]'
+- '[[Changes/ElevenLabs/2025-10-07-new-llm-models|New LLM Models]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2025-10-07-v0-8-0-github-252858757-2ecdc728|gemini-cli-2025-10-07-v0-8-0-github-252858757-2ecdc728]]'
 source_type: github_releases
 theme: model-support
@@ -108,8 +105,8 @@ Source: https://github.com/google-gemini/gemini-cli/releases/tag/v0.8.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2025-10-06 · Codex CLI · [[Changes/Codex CLI/2025-10-06-2-model-support-changes-in-rust-v0-45-0|2 Model Support changes in rust-v0.45.0]]
-- Later: 2025-10-08 · Cline · [[Changes/Cline/2025-10-08-update-local-models-docs-remove-emojis-from-docs-by-nickbaumann98-in-https-githu|Update local models docs & remove emojis from Docs]]
+- Earlier: 2025-10-07 · ElevenLabs · [[Changes/ElevenLabs/2025-10-07-new-llm-models|New LLM Models]]
+- Later: 2025-10-07 · Open WebUI · [[Changes/Open WebUI/2025-10-07-8-model-support-changes-in-v0-6-33|8 Model Support changes in v0.6.33]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

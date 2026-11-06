@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: b0b74ad4c06193332b3bbe145d938d2105d4710d7e92472fa9e2d4984d7f6537
+machine_hash: 3df9f9a91eb15db2ed74b5b300c20f1f225be28ca9e661c7fb974f757edeee95
 product: cline
 product_name: Cline
 record:
@@ -40,8 +40,8 @@ record:
   title: Update Cerebras models
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2025-07-25-11-model-support-changes-in-v0-1-14|11 Model Support
-  changes in v0.1.14]]'
+- '[[Changes/Dify/2025-07-28-2-model-support-changes-in-1-7-1|2 Model Support changes
+  in 1.7.1]]'
 - '[[Changes/Gemini CLI/2025-07-30-11-model-support-changes-in-v0-1-15|11 Model Support
   changes in v0.1.15]]'
 - '[[Changes/Cline/2025-07-31-4-model-support-changes-in-v3-20-3|4 Model Support changes
@@ -75,7 +75,7 @@ type: change
 ## Nearby in Model Support
 
 - Earlier: 2025-07-31 · Cline · [[Changes/Cline/2025-07-31-4-model-support-changes-in-v3-20-3|4 Model Support changes in v3.20.3]]
-- Later: 2025-08-02 · Gemini CLI · [[Changes/Gemini CLI/2025-08-02-20-model-support-changes-in-v0-1-16|20 Model Support changes in v0.1.16]]
+- Later: 2025-08-01 · Gemini · [[Changes/Gemini/2025-08-01-solve-your-most-complex-problems-with-gemini-2-5-deep-think|Solve your most complex problems with Gemini 2.5 Deep Think]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -5,20 +5,20 @@ description: 'Claude Code · 2026-10-06 · Enterprise and Administration: [Claud
   Added an Edit button to the Allowed domains card on a channel''s Configure page,
   so…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2024-03-20-admin-improvements-team-admins-can-now-mark-themselves-as-unpaid-users-and-can-s|Admin
-    improvements: Team admins can now mark themselves as unpaid users and can see…]]'
+  first_in_tracked: '[[Changes/Gemini/2023-05-05-access-for-google-workspace-accounts|Access
+    for Google Workspace accounts]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 930
+  lag_days: 1250
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 7b42ac031c881adaebf5fdeaf8de10dc86cb53fa5581b147c051a8b03530e2ed
+machine_hash: 2d8cb2c410d2cb1dcce5afd40d89b49b4afa4b85ab1a1025eb5207f67c3f7055
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,12 +45,11 @@ record:
   title: '[Claude Tag] Added an Edit button to the Allowed domains card on a channel''s…'
   type: change
 related_changes:
-- '[[Changes/OpenHands/2026-09-22-feat-open-git-sync-to-org-admins-on-cloud-backends-by-hieptl-in-https-github-com|feat:
-  open Git Sync to org admins on cloud backends]]'
-- '[[Changes/Claude Code/2026-09-28-claude-tag-improved-notify-members-now-in-admin-settings-one-press-reaches-every|Claude
-  Tag Improved "Notify members now" in admin settings]]'
-- '[[Changes/ChatGPT/2026-09-29-for-the-next-month-dots-usage-won-t-count-toward-eligible-pro-business-and-enter|For
-  the next month, dots usage won’t count toward eligible Pro, Business…]]'
+- '[[Changes/Lovable/2026-10-01-restrict-an-api-key-to-approved-ip-addresses|Restrict
+  an API key to approved IP addresses]]'
+- '[[Changes/Lovable/2026-10-02-show-an-announcement-banner-to-everyone-in-your-workspace|Show
+  an announcement banner to everyone in your workspace]]'
+- '[[Changes/Replit/2026-10-02-workspace-settings|Workspace settings]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-10-06-v2-1-292-github-404958910-b2fd21ab|claude-code-2026-10-06-v2-1-292-github-404958910-b2fd21ab]]'
 source_type: github_releases
 theme: enterprise-admin
@@ -87,14 +86,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Enterprise and Administration
 
-- Earlier: 2026-09-29 · ChatGPT · [[Changes/ChatGPT/2026-09-29-for-the-next-month-dots-usage-won-t-count-toward-eligible-pro-business-and-enter|For the next month, dots usage won’t count toward eligible Pro, Business…]]
+- Earlier: 2026-10-02 · Replit · [[Changes/Replit/2026-10-02-workspace-settings|Workspace settings]]
 - Later: 2026-10-06 · Cursor · [[Changes/Cursor/2026-10-06-remote-control-is-on-by-default-for-everyone-except-enterprise-organizations|Remote Control is on by default for everyone except Enterprise organizations]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2024-03-20 · Cursor · [[Changes/Cursor/2024-03-20-admin-improvements-team-admins-can-now-mark-themselves-as-unpaid-users-and-can-s|Admin improvements: Team admins can now mark themselves as unpaid users and can see…]]
+- Earliest same-theme entry in the tracked set: 2023-05-05 · Gemini · [[Changes/Gemini/2023-05-05-access-for-google-workspace-accounts|Access for Google Workspace accounts]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

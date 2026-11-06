@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 991fc782dc0170a7eb8f332feb4d0ea141118ce343d38c30471ec2e805a745d3
+machine_hash: 2e2751d887ed1b154a029dd6264bdd4295ac9edf4c852f1b4535c029617c107a
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -73,10 +73,10 @@ record:
   title: Introducing GPT-4o
   type: change
 related_changes:
-- '[[Changes/Aider/2024-05-08-added-native-support-for-deepseek-models-https-aider-chat-docs-llms-html-deepsee|Added
-  native support for Deepseek…]]'
 - '[[Changes/Aider/2024-05-10-added-explicit-model-settings-for-openrouter-anthropic-claude-3-opus-gpt-3-5-tur|Added
   explicit model settings for openrouter/anthropic/claude-3-opus, gpt-3.5-turbo]]'
+- '[[Changes/Ollama/2024-05-10-5-model-support-changes-in-v0-1-35|5 Model Support
+  changes in v0.1.35]]'
 - '[[Changes/Aider/2024-05-13-3-model-support-changes-in-v0-35-0|3 Model Support changes
   in v0.35.0]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2024-05-13-introducing-gpt-4o-0a0709f8|chatgpt-2024-05-13-introducing-gpt-4o-0a0709f8]]'
@@ -106,7 +106,7 @@ type: change
 ## Nearby in Model Support
 
 - Earlier: 2024-05-13 · Aider · [[Changes/Aider/2024-05-13-3-model-support-changes-in-v0-35-0|3 Model Support changes in v0.35.0]]
-- Later: 2024-05-22 · Aider · [[Changes/Aider/2024-05-22-aider-automatically-lints-and-fixes-after-every-llm-edit|Aider automatically lints and fixes after every LLM edit]]
+- Later: 2024-05-13 · Dify · [[Changes/Dify/2024-05-13-12-model-support-changes-in-0-6-8|12 Model Support changes in 0.6.8]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

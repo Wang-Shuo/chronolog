@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: c8177cd56727404d16e1f4cbfac3810a61ce89943106f324c2a7051fc1436bcd
+machine_hash: 3c91535f959cf4023b97bbb675d7a24ea29ecd2815db752f67c0c5f6a018d5ce
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -53,11 +53,11 @@ record:
   title: '`/model` will open a picker to change the model'
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2025-09-26-4101-hide-the-status-indicator-when-the-answer-stream-starts-4101|♯4101
-  hide the status indicator when the answer stream starts (♯4101)]]'
 - '[[Changes/Cline/2025-09-28-only-show-the-info-banner-messages-about-the-right-sidebar-in-vscode-by-sjf-in-h|Only
   show the info banner messages about the right sidebar in VSCode]]'
 - '[[Changes/Cursor/2025-09-29-1-7-45-model-picker-ux|1.7.45: Model picker UX]]'
+- '[[Changes/Dify/2025-09-29-oceanbase-parser-selection-explanation-clarified-by-longbingljw-in-26071|OceanBase
+  parser selection explanation clarified by @longbingljw in ♯26071]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2025-09-29-v0-0-329-github-250905427-a727dae6|github-copilot-cli-2025-09-29-v0-0-329-github-250905427-a727dae6]]'
 source_type: github_releases
 theme: interface-experience
@@ -90,7 +90,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2025-09-29 · Cursor · [[Changes/Cursor/2025-09-29-1-7-45-model-picker-ux|1.7.45: Model picker UX]]
+- Earlier: 2025-09-29 · Dify · [[Changes/Dify/2025-09-29-oceanbase-parser-selection-explanation-clarified-by-longbingljw-in-26071|OceanBase parser selection explanation clarified by @longbingljw in ♯26071]]
 - Later: 2025-10-01 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2025-10-01-3-interface-experience-changes-in-v0-0-332|3 Interface Experience changes in v0.0.332]]
 <!-- chronolog:end -->
 

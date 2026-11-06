@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 6aed1cd681a362091e2331c70186bffd85ee41b870a3d5dbdc2e9e6231ade23e
+machine_hash: 57f4b5cbbb447e8bff3ed0673733d895129a6d5c2dce971693d6ab7aecb1ff5a
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,12 +45,10 @@ record:
   title: 2 Agent Mode changes in v2.1.116
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-04-16-agent-correctly-identifies-repository-owner-from-git-remote-url-rather-than-loca|Agent
-  correctly identifies repository owner from git remote URL rather than local username]]'
-- '[[Changes/Claude Code/2026-04-17-subagents-that-stall-mid-stream-now-fail-with-a-clear-error-after-10-minutes-ins|Subagents
-  that stall mid-stream now fail with a clear error after 10 minutes instead…]]'
-- '[[Changes/GitHub Copilot CLI/2026-04-17-attach-supported-document-files-to-prompts-for-the-agent-to-read-and-reason-abou|Attach
-  supported document files to prompts for the agent to read and reason about]]'
+- '[[Changes/Replit/2026-04-17-agent|Agent]]'
+- '[[Changes/Replit/2026-04-17-new-agent-modes-dropdown|New Agent modes dropdown]]'
+- '[[Changes/Replit/2026-04-17-replit-agent-on-google-cloud-marketplace|Replit Agent
+  on Google Cloud Marketplace]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-04-20-v2-1-116-github-311446114-3b24dc7e|claude-code-2026-04-20-v2-1-116-github-311446114-3b24dc7e]]'
 source_type: github_releases
 theme: agent-mode
@@ -88,7 +86,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.116
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2026-04-17 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-04-17-attach-supported-document-files-to-prompts-for-the-agent-to-read-and-reason-abou|Attach supported document files to prompts for the agent to read and reason about]]
+- Earlier: 2026-04-17 · Replit · [[Changes/Replit/2026-04-17-replit-agent-on-google-cloud-marketplace|Replit Agent on Google Cloud Marketplace]]
 - Later: 2026-04-20 · Codex CLI · [[Changes/Codex CLI/2026-04-20-10-agent-mode-changes-in-rust-v0-122-0|10 Agent Mode changes in rust-v0.122.0]]
 <!-- chronolog:end -->
 

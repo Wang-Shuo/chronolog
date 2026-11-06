@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: memory
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 7904cd914092f6c5b2ce5a280f5394626833af96d755bce6eba7a59b6d11fbe7
+machine_hash: 658040e5156df293300cd316c3f0cd220aae3519d3e08cccd262fcecb532eca7
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -41,11 +41,12 @@ record:
   title: Longer memory for more personalized responses
   type: change
 related_changes:
-- '[[Changes/Windsurf/2025-08-28-memory-improvements|Memory improvements]]'
-- '[[Changes/Gemini CLI/2025-09-04-2-memory-and-personalization-changes-in-v0-3-0|2
-  Memory and Personalization changes in v0.3.0]]'
+- '[[Changes/Claude/2025-09-11-claude-s-memory-on-team-plans-and-incognito-chats-for-free-pro-max-and-team-plan|Claude’s
+  memory on Team plans and incognito chats for free, Pro, Max, and Team plans]]'
 - '[[Changes/ChatGPT/2025-09-15-personalization-no-longer-opens-in-a-separate-modal-you-can-manage-personalizati|Personalization
   settings are now in Settings]]'
+- '[[Changes/Claude/2025-09-18-claude-s-memory-on-enterprise-plans|Claude’s memory
+  on Enterprise plans]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-09-22-chatgpt-go-now-available-in-indonesia-27c365a7|chatgpt-2025-09-22-chatgpt-go-now-available-in-indonesia-27c365a7]]'
 source_type: chatgpt_changelog
 theme: memory
@@ -75,7 +76,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Memory and Personalization
 
-- Earlier: 2025-09-15 · ChatGPT · [[Changes/ChatGPT/2025-09-15-personalization-no-longer-opens-in-a-separate-modal-you-can-manage-personalizati|Personalization settings are now in Settings]]
+- Earlier: 2025-09-18 · Claude · [[Changes/Claude/2025-09-18-claude-s-memory-on-enterprise-plans|Claude’s memory on Enterprise plans]]
 - Later: 2025-09-23 · Codex CLI · [[Changes/Codex CLI/2025-09-23-new-review-commands-review-specific-commit-against-a-base-branch-or-custom-instr|New /review commands…]]
 <!-- chronolog:end -->
 

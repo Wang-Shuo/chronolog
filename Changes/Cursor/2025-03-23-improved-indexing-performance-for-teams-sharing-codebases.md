@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: d16350ef61e2b82fdd313968e845fc1832a4302d29c12fc59f0ab0f0675d2e1b
+machine_hash: 85c3967f9b4d3935178fed557b4e9bb0f50c2842e249c88f2e995fd8e73206d7
 product: cursor
 product_name: Cursor
 record:
@@ -50,12 +50,12 @@ record:
   title: Improved indexing performance for teams sharing codebases
   type: change
 related_changes:
-- '[[Changes/Cline/2024-10-09-new-readme-and-got-a-cool-domain-for-the-project-https-cline-bot-wip-on-a-final|New
-  README and got a cool domain for the project (source link) (wip)]]'
-- '[[Changes/Aider/2024-11-01-anonymous-opt-in-analytics-https-aider-chat-docs-more-analytics-html-with-no-per|Anonymous,
-  opt-in analytics((source link) with no…]]'
-- '[[Changes/Aider/2024-11-26-skip-suggesting-files-that-share-names-with-files-already-in-chat|Skip
-  suggesting files that share names with files already in chat]]'
+- '[[Changes/Dify/2025-02-28-we-are-glad-to-share-that-we-re-launching-dify-v1-0-0|We
+  are glad to share that we''re launching Dify v1.0.0]]'
+- '[[Changes/Gemini/2025-03-13-gems-your-custom-ai-experts-are-now-available-to-more-gemini-users-at-no-cost|Gems,
+  your custom AI experts, are now available to more Gemini users at no cost]]'
+- '[[Changes/Lovable/2025-03-21-we-heard-the-issues-you-ve-shared-with-us-and-we-re-working-hard-to-fix-them-all|We
+  heard the issues you''ve shared with us and we''re working hard to fix them all]]'
 source_release: '[[Releases/Cursor/cursor-2025-03-23-0-48-x-https-cursor-com-changelog-0-48-x-7b3e771b|cursor-2025-03-23-0-48-x-https-cursor-com-changelog-0-48-x-7b3e771b]]'
 source_type: cursor_changelog
 theme: collaboration
@@ -98,8 +98,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Collaboration
 
-- Earlier: 2024-11-26 · Aider · [[Changes/Aider/2024-11-26-skip-suggesting-files-that-share-names-with-files-already-in-chat|Skip suggesting files that share names with files already in chat]]
-- Later: 2025-05-06 · Windsurf · [[Changes/Windsurf/2025-05-06-teams-knowledge|Teams: Knowledge]]
+- Earlier: 2025-03-21 · Lovable · [[Changes/Lovable/2025-03-21-we-heard-the-issues-you-ve-shared-with-us-and-we-re-working-hard-to-fix-them-all|We heard the issues you've shared with us and we're working hard to fix them all]]
+- Later: 2025-04-09 · Dify · [[Changes/Dify/2025-04-09-hello-community-we-re-excited-to-share-our-v1-2-0-update-with-you-it-s-packed-wi|Hello community!]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

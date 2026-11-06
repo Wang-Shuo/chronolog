@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 898f074bafc1ae260a9c319651925a6740505003514ed8f473d2361293ec634a
+machine_hash: 68297b17f25d5a02632f3c45a3c83fb2a6803f32c2d032a1e648dc2eeff2a01f
 product: aider
 product_name: Aider
 record:
@@ -43,12 +43,12 @@ record:
   title: 2 Reliability and Performance changes in v0.71.0
   type: change
 related_changes:
-- '[[Changes/Cursor/2024-12-17-cheaper-and-faster-bug-finding-model|Cheaper and faster
-  Bug Finding Model]]'
-- '[[Changes/Cline/2024-12-18-when-cline-needs-to-make-targeted-edits-to-large-files-he-now-uses-a-search-repl|When
-  Cline needs to make targeted edits to large files, he now uses a search…]]'
+- '[[Changes/Open WebUI/2025-01-05-3-reliability-and-performance-changes-in-v0-5-4|3
+  Reliability and Performance changes in v0.5.4]]'
 - '[[Changes/OpenHands/2025-01-07-performance-improvement-of-ui-during-long-sessions-by-amanape-in-https-github-co|Performance
   improvement of UI during long sessions]]'
+- '[[Changes/Ollama/2025-01-08-granite-3-1-dense-https-ollama-com-library-granite3-1-dense-2b-and-8b-text-only|Granite
+  3.1 Dense((source link)]]'
 source_release: '[[Releases/Aider/aider-2025-01-10-v0-71-0-github-194204140-359c53f2|aider-2025-01-10-v0-71-0-github-194204140-359c53f2]]'
 source_type: github_releases
 theme: reliability-performance
@@ -86,8 +86,8 @@ Source: https://github.com/Aider-AI/aider/releases/tag/v0.71.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2025-01-07 · OpenHands · [[Changes/OpenHands/2025-01-07-performance-improvement-of-ui-during-long-sessions-by-amanape-in-https-github-co|Performance improvement of UI during long sessions]]
-- Later: 2025-01-23 · Cursor · [[Changes/Cursor/2025-01-23-also-adds-mcp-support-team-configurable-blocklists-fixes-composer-stuck-on-gener|Also adds MCP support, team-configurable blocklists, fixes Composer stuck…]]
+- Earlier: 2025-01-08 · Ollama · [[Changes/Ollama/2025-01-08-granite-3-1-dense-https-ollama-com-library-granite3-1-dense-2b-and-8b-text-only|Granite 3.1 Dense((source link)]]
+- Later: 2025-01-13 · Dify · [[Changes/Dify/2025-01-13-these-numerous-bug-fixes-and-enhancements-make-v0-15-1-more-robust-efficient-and|These numerous bug fixes and enhancements make v0.15.1 more robust, efficient…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

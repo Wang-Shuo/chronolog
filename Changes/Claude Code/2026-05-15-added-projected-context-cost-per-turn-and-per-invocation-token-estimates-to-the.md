@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: pricing
-machine_hash: 08dc44a45397d33290e7502fbfb6d54d3639fc8502d3c9ef61a80957d3aba477
+machine_hash: 3b280e0f56b0b9e5256f27adcffb13fea27ff20aac314f66c8e678f8e42c41be
 product: claude-code
 product_name: Claude Code
 record:
@@ -57,12 +57,12 @@ record:
   title: Added projected context cost (per-turn and per-invocation token estimates)…
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-05-11-customers-must-be-on-usage-based-billing-for-bugbot-to-customize-effort-levels-l|Customers
-  must be on usage-based billing for Bugbot to customize effort levels]]'
 - '[[Changes/GitHub Copilot CLI/2026-05-13-copilot-max-subscribers-see-the-correct-models-available-to-their-subscription-t|Copilot
   Max subscribers see the correct models available to their subscription tier]]'
 - '[[Changes/GitHub Copilot CLI/2026-05-14-model-picker-displays-actual-token-prices-instead-of-dot-indicators-for-token-ba|Model
   picker displays actual token prices instead of dot indicators for token-based…]]'
+- '[[Changes/Ollama/2026-05-14-for-local-use-without-an-ollama-cloud-subscription|For
+  local use without an Ollama Cloud subscription]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-05-15-v2-1-143-github-323423445-53eb447c|claude-code-2026-05-15-v2-1-143-github-323423445-53eb447c]]'
 source_type: github_releases
 theme: pricing-model
@@ -98,7 +98,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Pricing Model
 
-- Earlier: 2026-05-14 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-05-14-model-picker-displays-actual-token-prices-instead-of-dot-indicators-for-token-ba|Model picker displays actual token prices instead of dot indicators for token-based…]]
+- Earlier: 2026-05-14 · Ollama · [[Changes/Ollama/2026-05-14-for-local-use-without-an-ollama-cloud-subscription|For local use without an Ollama Cloud subscription]]
 - Later: 2026-05-18 · Cursor · [[Changes/Cursor/2026-05-18-fast-default-3-00-m-input-15-00-m-output-tokens|Fast (default): $3.00/M input, $15.00/M output tokens]]
 <!-- chronolog:end -->
 

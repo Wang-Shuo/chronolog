@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: d7edd6e53195f89d7cd351034df6991b292e3233a8c99ba22e641fe7cb96550a
+machine_hash: a4b638e7b85b868056a2cadecfd277f1e4f96d9394492da3ed82bb19fed5b2a3
 product: windsurf
 product_name: Windsurf
 record:
@@ -40,10 +40,10 @@ record:
   title: Devin Desktop
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-06-18-improved-camera-and-photo-uploads-taking-and-uploading-photos-in-chatgpt-on-ios|Improved
-  camera and photo uploads]]'
 - '[[Changes/ChatGPT/2026-06-18-chatgpt-now-has-more-ways-to-help-with-common-questions-from-pronunciation-guida|ChatGPT
   now has more ways to help with common questions, from pronunciation guidance…]]'
+- '[[Changes/v0/2026-06-19-on-mobile-an-expired-session-while-sending-opens-the-re-authenticate-flow-instea|On
+  mobile, an expired session while sending opens the re-authenticate flow instead…]]'
 - '[[Changes/Codex CLI/2026-06-22-28791-bazel-refresh-expired-macos-sdk-pin-anp-oai|♯28791
   bazel: refresh expired macOS SDK pin @anp-oai]]'
 source_release: '[[Releases/Windsurf/windsurf-2026-06-23-v3-3-18-b3edad75|windsurf-2026-06-23-v3-3-18-b3edad75]]'

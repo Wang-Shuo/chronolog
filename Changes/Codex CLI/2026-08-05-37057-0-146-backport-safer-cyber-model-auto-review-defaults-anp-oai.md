@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 20f8b81dbe5b103a6a956984c5673672f99a6766a72052768346119db42aea90
+machine_hash: 72aa6d9511ca2d3d788cbba487499ba1fdec6a262310e51729b292be48062007
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -43,8 +43,8 @@ record:
   title: '#37057 [0.146] Backport safer cyber-model auto-review defaults @anp-oai'
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-08-04-improved-the-refusal-when-claude-tries-to-invoke-a-skill-with-disable-model-invo|Improved
-  the refusal when Claude tries to invoke a skill with disable-model-invocation]]'
+- '[[Changes/Ollama/2026-08-04-ollama-run-kimi-k3-now-offers-kimi-k3-cloud-for-cloud-only-models-that-publish-n|ollama
+  run kimi-k3 now offers kimi-k3:cloud for cloud-only models that publish…]]'
 - '[[Changes/Cline/2026-08-05-5-model-support-changes-in-v4-1-4|5 Model Support changes
   in v4.1.4]]'
 - '[[Changes/Cline/2026-08-05-explain-when-a-free-model-promotion-ends-requests-to-a-retired-free-model-now-sh|Explain

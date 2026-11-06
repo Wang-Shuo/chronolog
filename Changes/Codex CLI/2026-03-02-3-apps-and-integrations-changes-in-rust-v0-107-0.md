@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 18b6aa819f7ea74d37329f1b09a8c8068bab7a39d5ee41c8b029150e558b5231
+machine_hash: 3d278e3652aacb16970f2ba5b9fa591d2fb6ae295001c8dbf8cf5ee66eb69b71
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -98,7 +98,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.107.0
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-02-28 · Claude Code · [[Changes/Claude Code/2026-02-28-added-enable-claudeai-mcp-servers-false-env-var-to-opt-out-from-making-claude-ai|Added ENABLE_CLAUDEAI_MCP_SERVERS=false env var to opt out from making claude.ai…]]
-- Later: 2026-03-03 · Cline · [[Changes/Cline/2026-03-03-3-apps-and-integrations-changes-in-v3-69-0|3 Apps and Integrations changes in v3.69.0]]
+- Later: 2026-03-02 · ElevenLabs · [[Changes/ElevenLabs/2026-03-02-javascript-sdk|JavaScript SDK]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

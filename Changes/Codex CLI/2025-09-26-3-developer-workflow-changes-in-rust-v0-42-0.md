@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 430b29d02d87205d5f05ac6f9b1bddd6ffda6b286975481424ae8c2329e4067e
+machine_hash: 146b7cf76f0071c784160f5432bbfb08a86e5a999b2e585fac613accfd8c4330
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -44,12 +44,12 @@ record:
   title: 3 Developer Workflow changes in rust-v0.42.0
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2025-09-18-new-review-command-introduced-in-3774|new /review
-  command introduced in ♯3774]]'
 - '[[Changes/Codex CLI/2025-09-23-2-developer-workflow-changes-in-rust-v0-40-0|2 Developer
   Workflow changes in rust-v0.40.0]]'
 - '[[Changes/Gemini CLI/2025-09-24-10-developer-workflow-changes-in-v0-6-0|10 Developer
   Workflow changes in v0.6.0]]'
+- '[[Changes/Open WebUI/2025-09-25-2-developer-workflow-changes-in-v0-6-31|2 Developer
+  Workflow changes in v0.6.31]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2025-09-26-rust-v0-42-0-github-250387883-27046aff|codex-cli-2025-09-26-rust-v0-42-0-github-250387883-27046aff]]'
 source_type: github_releases
 theme: developer-workflow
@@ -89,7 +89,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.42.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2025-09-24 · Gemini CLI · [[Changes/Gemini CLI/2025-09-24-10-developer-workflow-changes-in-v0-6-0|10 Developer Workflow changes in v0.6.0]]
+- Earlier: 2025-09-25 · Open WebUI · [[Changes/Open WebUI/2025-09-25-2-developer-workflow-changes-in-v0-6-31|2 Developer Workflow changes in v0.6.31]]
 - Later: 2025-09-26 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2025-09-26-improved-powershell-parsing-of-foreach-object-and-detection-of-command-name-expr|Improved PowerShell parsing of ForEach-Object and detection of command name…]]
 <!-- chronolog:end -->
 

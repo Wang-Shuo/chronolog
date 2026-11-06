@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: search-browsing
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 7dfd7305d9a7e61ff4fab47b52e1455668ddfacc05a9d103910ddd2b0809f687
+machine_hash: c9ced2cd6412dc7f17f2a9d956fccc86845e3c6e589bbcba2c76865bafd8a8da
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -43,8 +43,8 @@ record:
   title: /changelog supports `last <N>`, `since <version>`, and `summarize` to browse…
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-03-06-elicitation-enum-and-boolean-fields-now-require-enter-to-confirm-a-selection-wit|Elicitation
-  enum and boolean fields now require Enter to confirm a selection…]]'
+- '[[Changes/Open WebUI/2026-03-09-2-search-and-browsing-changes-in-v0-8-10|2 Search
+  and Browsing changes in v0.8.10]]'
 - '[[Changes/Codex CLI/2026-03-10-2-search-and-browsing-changes-in-rust-v0-113-0|2
   Search and Browsing changes in rust-v0.113.0]]'
 - '[[Changes/Codex CLI/2026-03-11-14136-fix-core-use-dedicated-types-for-responsesapi-web-search-tool-config-owenl|♯14136
@@ -88,7 +88,7 @@ type: change
 ## Nearby in Search and Browsing
 
 - Earlier: 2026-03-11 · Codex CLI · [[Changes/Codex CLI/2026-03-11-14136-fix-core-use-dedicated-types-for-responsesapi-web-search-tool-config-owenl|♯14136 fix(core): use dedicated types for responsesapi web search tool config @owenlin0]]
-- Later: 2026-03-19 · ChatGPT · [[Changes/ChatGPT/2026-03-19-the-legacy-deep-research-mode-will-be-removed-on-thursday-march-26-2026-this-cha|Legacy deep research mode deprecation notice]]
+- Later: 2026-03-17 · Dify · [[Changes/Dify/2026-03-17-test-add-integration-tests-for-app-card-operations-list-browsing-and-create-app|test: add integration tests for app card operations, list browsing, and create app flows]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

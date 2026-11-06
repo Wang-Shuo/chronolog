@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 701d06525ab683a7f3bbe15125d5b1a111fbe4d054b2f2e44f119052f681f2bc
+machine_hash: bb57da6b73caea20ab25eeb0b8eec506e1f80f89bbd18769cae3f159591e9626
 product: claude-code
 product_name: Claude Code
 record:
@@ -47,12 +47,11 @@ record:
   title: 3 Apps and Integrations changes in v2.1.273
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-09-14-for-new-health-plugin-connections-chatgpt-will-now-default-to-each-user-s-global|For
-  new Health plugin connections, ChatGPT will now default to each user’s global…]]'
-- '[[Changes/ChatGPT/2026-09-14-you-can-change-your-health-permissions-anytime-in-settings-plugins-health-learn|You
-  can change your Health permissions anytime in Settings → Plugins → Health]]'
 - '[[Changes/Claude Code/2026-09-14-5-apps-and-integrations-changes-in-v2-1-271|5
   Apps and Integrations changes in v2.1.271]]'
+- '[[Changes/ElevenLabs/2026-09-14-sdk-releases|SDK releases]]'
+- '[[Changes/Claude/2026-09-15-launching-salesforce-in-claude-beta|Launching Salesforce
+  in Claude (beta)]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-15-v2-1-273-github-389362239-6ea37826|claude-code-2026-09-15-v2-1-273-github-389362239-6ea37826]]'
 source_type: github_releases
 theme: apps-integrations
@@ -98,7 +97,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.273
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-09-14 · Claude Code · [[Changes/Claude Code/2026-09-14-5-apps-and-integrations-changes-in-v2-1-271|5 Apps and Integrations changes in v2.1.271]]
+- Earlier: 2026-09-15 · Claude · [[Changes/Claude/2026-09-15-launching-salesforce-in-claude-beta|Launching Salesforce in Claude (beta)]]
 - Later: 2026-09-15 · Gemini CLI · [[Changes/Gemini CLI/2026-09-15-feat-extensions-harden-path-resolution-and-boundary-validation-in-extension-load|feat(extensions): harden path resolution and boundary validation in extension loader]]
 <!-- chronolog:end -->
 

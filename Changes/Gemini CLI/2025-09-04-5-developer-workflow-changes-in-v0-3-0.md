@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 299133c0595f40b8c308cf7772738807ab326ca6ad9a458682019ac5fa229f3f
+machine_hash: 5a43f1412b0b00f534aec24519a41b3ec1d1db0d767926c0d5d6218846e8c4e1
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -50,12 +50,12 @@ record:
   title: 5 Developer Workflow changes in v0.3.0
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2025-08-27-feat-core-refactor-shell-execution-to-use-node-pty-by-galz10-in-https-github-com|feat(core):
-  refactor shell execution to use node-pty]]'
 - '[[Changes/Codex CLI/2025-08-29-2852-following-up-on-2371-post-commit-feedback|♯2852
   Following up on ♯2371 post commit feedback]]'
 - '[[Changes/Codex CLI/2025-09-02-2-developer-workflow-changes-in-rust-v0-28-0|2 Developer
   Workflow changes in rust-v0.28.0]]'
+- '[[Changes/Dify/2025-09-03-2-developer-workflow-changes-in-1-8-1|2 Developer Workflow
+  changes in 1.8.1]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2025-09-04-v0-3-0-github-244870431-556b0abc|gemini-cli-2025-09-04-v0-3-0-github-244870431-556b0abc]]'
 source_type: github_releases
 theme: developer-workflow
@@ -107,7 +107,7 @@ Source: https://github.com/google-gemini/gemini-cli/releases/tag/v0.3.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2025-09-02 · Codex CLI · [[Changes/Codex CLI/2025-09-02-2-developer-workflow-changes-in-rust-v0-28-0|2 Developer Workflow changes in rust-v0.28.0]]
+- Earlier: 2025-09-03 · Dify · [[Changes/Dify/2025-09-03-2-developer-workflow-changes-in-1-8-1|2 Developer Workflow changes in 1.8.1]]
 - Later: 2025-09-05 · Codex CLI · [[Changes/Codex CLI/2025-09-05-3-developer-workflow-changes-in-rust-v0-30-0|3 Developer Workflow changes in rust-v0.30.0]]
 <!-- chronolog:end -->
 

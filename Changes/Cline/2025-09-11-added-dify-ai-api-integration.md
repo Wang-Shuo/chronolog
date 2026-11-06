@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: afa877edfdd9864473a04c367c5be3a57fb9449b0587b7caf273245315b45bee
+machine_hash: 3bc10eeaa2449957dcbca677be000639c0648ae37a06b7e6c7310069f60c8fea
 product: cline
 product_name: Cline
 record:
@@ -41,8 +41,8 @@ record:
   title: Added Dify.ai API Integration
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2025-09-09-5-apps-and-integrations-changes-in-v0-4-0|5 Apps
-  and Integrations changes in v0.4.0]]'
+- '[[Changes/Open WebUI/2025-09-09-a-provider-toggle-in-connection-settings-now-allows-users-to-manually-specify-az|☁️
+  A provider toggle in connection settings now allows users to manually specify…]]'
 - '[[Changes/Codex CLI/2025-09-10-2-apps-and-integrations-changes-in-rust-v0-32-0|2
   Apps and Integrations changes in rust-v0.32.0]]'
 - '[[Changes/Codex CLI/2025-09-10-3395-set-a-user-agent-suffix-when-used-as-a-mcp-server-3395|♯3395

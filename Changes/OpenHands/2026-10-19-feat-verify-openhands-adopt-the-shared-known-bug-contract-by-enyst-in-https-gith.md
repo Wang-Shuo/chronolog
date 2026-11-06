@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 8c49ff5d9daa164138f316d56ed34afa68bb3519e8ee93a481f37f1403e1f88d
+machine_hash: 39fa536c995cae76a7595e9973e8f3d081d247fdab1a7e555fbd89aabf3ac165
 product: openhands
 product_name: OpenHands
 record:
@@ -43,10 +43,10 @@ record:
   title: 'feat(verify-openhands): adopt the shared known-bug contract'
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-10-15-4-collaboration-changes-in-rust-v0-163-0|4 Collaboration
-  changes in rust-v0.163.0]]'
-- '[[Changes/ChatGPT/2026-10-16-chatgpt-slides-lets-you-create-presentations-and-keep-working-on-them-with-your|ChatGPT
-  Slides lets you create presentations and keep working on them with your team…]]'
+- '[[Changes/Open WebUI/2026-10-16-2-collaboration-changes-in-v0-12-3|2 Collaboration
+  changes in v0.12.3]]'
+- '[[Changes/v0/2026-10-16-team-avatar-changes-show-immediately-in-the-scope-switcher-instead-of-a-cached-i|Team
+  avatar changes show immediately in the scope switcher instead of a cached image]]'
 - '[[Changes/Claude Code/2026-10-19-added-a-warning-on-pro-and-max-plans-when-resuming-an-inactive-conversation-woul|Added
   a warning on Pro and Max plans when resuming an inactive conversation would…]]'
 source_release: '[[Releases/OpenHands/openhands-2026-10-19-v1-28-0-github-417391290-d3015a14|openhands-2026-10-19-v1-28-0-github-417391290-d3015a14]]'

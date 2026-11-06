@@ -5,20 +5,20 @@ description: 'GitHub Copilot CLI · 2026-06-30 · Automation and Scheduling: /pr
   now starts a self-paced loop that fixes one thing per run and paces itself around
   CI to…'
 diffusion:
-  first_in_tracked: '[[Changes/OpenHands/2024-09-04-better-syntax-error-loop-detection-by-tobitege-in-https-github-com-all-hands-ai|Better
-    syntax error loop detection]]'
+  first_in_tracked: '[[Changes/Dify/2024-01-02-add-data-clean-schedule-by-johnjyong-in-https-github-com-langgenius-dify-pull-18|Add
+    data clean schedule]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 664
+  lag_days: 910
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: a01ea5bd41f20b404cb0438c37c66ea26d30993f951447084a53374d921a96b4
+machine_hash: 5bd656246d03f28f161a7d2d8acd5f8e311a4757b9c6e78096ac308899408a5c
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -49,12 +49,12 @@ record:
     itself…
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-06-22-26496-make-auto-review-on-request-prompt-more-proactive-maja-openai|♯26496
-  Make auto-review on-request prompt more proactive @maja-openai]]'
-- '[[Changes/GitHub Copilot CLI/2026-06-23-add-loop-alias-for-the-every-command|Add
-  /loop alias for the /every command]]'
 - '[[Changes/GitHub Copilot CLI/2026-06-24-handle-wakeup-misfires-with-a-graceful-message-when-no-self-paced-schedule-is-ac|Handle
   wakeup misfires with a graceful message when no self-paced schedule is active]]'
+- '[[Changes/Dify/2026-06-25-2-automation-and-scheduling-changes-in-1-15-0|2 Automation
+  and Scheduling changes in 1.15.0]]'
+- '[[Changes/Open WebUI/2026-06-29-6-automation-and-scheduling-changes-in-v0-10-0|6
+  Automation and Scheduling changes in v0.10.0]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-06-30-v1-0-66-github-346845066-af776740|github-copilot-cli-2026-06-30-v1-0-66-github-346845066-af776740]]'
 source_type: github_releases
 theme: automation-scheduling
@@ -100,14 +100,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Automation and Scheduling
 
-- Earlier: 2026-06-24 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-06-24-handle-wakeup-misfires-with-a-graceful-message-when-no-self-paced-schedule-is-ac|Handle wakeup misfires with a graceful message when no self-paced schedule is active]]
-- Later: 2026-07-06 · OpenHands · [[Changes/OpenHands/2026-07-06-2-automation-and-scheduling-changes-in-1-9-0|2 Automation and Scheduling changes in 1.9.0]]
+- Earlier: 2026-06-29 · Open WebUI · [[Changes/Open WebUI/2026-06-29-6-automation-and-scheduling-changes-in-v0-10-0|6 Automation and Scheduling changes in v0.10.0]]
+- Later: 2026-07-01 · Open WebUI · [[Changes/Open WebUI/2026-07-01-models-with-null-capabilities-chatting-with-a-model-whose-capabilities-are-unset|🤖 Models with null capabilities. Chatting with a model whose capabilities…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2024-09-04 · OpenHands · [[Changes/OpenHands/2024-09-04-better-syntax-error-loop-detection-by-tobitege-in-https-github-com-all-hands-ai|Better syntax error loop detection]]
+- Earliest same-theme entry in the tracked set: 2024-01-02 · Dify · [[Changes/Dify/2024-01-02-add-data-clean-schedule-by-johnjyong-in-https-github-com-langgenius-dify-pull-18|Add data clean schedule]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

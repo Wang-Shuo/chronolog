@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: 2de3db32030c876ba0724aebd0fbb173cce21573aaebc0c940b117709e9edab5
+machine_hash: 7299690f4ed2e2bad347232c3b363772269bee8b8a882176df961cedf4f50d5b
 product: openhands
 product_name: OpenHands
 record:
@@ -46,12 +46,11 @@ record:
   title: When connecting to a GitHub repo, the agent now explicitly knows which repo…
   type: change
 related_changes:
-- '[[Changes/OpenHands/2024-12-17-let-user-continue-when-the-agent-gets-stuck-in-a-loop-ui-only-by-enyst-in-https|Let
-  user continue when the agent gets stuck in a loop (UI-only)]]'
-- '[[Changes/OpenHands/2024-12-19-agent-gets-stuck-in-closing-and-server-won-t-die-by-tofarr-in-https-github-com-a|Agent
-  gets stuck in closing and server won''t die]]'
-- '[[Changes/OpenHands/2025-01-07-added-ratelimiterror-status-on-ui-and-agent-state-by-rkat7-in-https-github-com-a|Added
-  RateLimitError status on UI and Agent state]]'
+- '[[Changes/Replit/2025-01-10-agent-and-assistant-improvements|Agent and Assistant
+  improvements]]'
+- '[[Changes/ElevenLabs/2025-01-16-agents-platform|Agents Platform]]'
+- '[[Changes/Dify/2025-01-22-agent-log-formatting-tweaked-deepseek-s-api-response-handling-to-fix-format-issu|Agent
+  Log Formatting]]'
 source_release: '[[Releases/OpenHands/openhands-2025-01-22-0-21-0-github-196131705-25b6d08c|openhands-2025-01-22-0-21-0-github-196131705-25b6d08c]]'
 source_type: github_releases
 theme: agent-mode
@@ -82,7 +81,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2025-01-07 · OpenHands · [[Changes/OpenHands/2025-01-07-added-ratelimiterror-status-on-ui-and-agent-state-by-rkat7-in-https-github-com-a|Added RateLimitError status on UI and Agent state]]
+- Earlier: 2025-01-22 · Dify · [[Changes/Dify/2025-01-22-agent-log-formatting-tweaked-deepseek-s-api-response-handling-to-fix-format-issu|Agent Log Formatting]]
 - Later: 2025-01-23 · Cursor · [[Changes/Cursor/2025-01-23-agent-sees-recent-changes-the-agent-can-use-a-tool-to-see-your-recent-changes-it|Agent sees recent changes: The agent can use a tool to see your recent changes]]
 <!-- chronolog:end -->
 

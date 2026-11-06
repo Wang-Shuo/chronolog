@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 78fd9a7257c7b4af061d76fa2fd59c21255e75388a32f1f2acb2c3f381e3b973
+machine_hash: cdc6cac9c01e24a256d5ba7fa9a4fef368f47f5e033e11b32a1099b50619350f
 product: cursor
 product_name: Cursor
 record:
@@ -43,10 +43,10 @@ record:
   title: Cursor adds support for using Cursor on Macs over Remote SSH
   type: change
 related_changes:
-- '[[Changes/Aider/2024-09-04-6-developer-workflow-changes-in-v0-55-0|6 Developer
-  Workflow changes in v0.55.0]]'
-- '[[Changes/Aider/2024-09-09-2-developer-workflow-changes-in-v0-56-0|2 Developer
-  Workflow changes in v0.56.0]]'
+- '[[Changes/Dify/2024-09-12-5-developer-workflow-changes-in-0-8-1|5 Developer Workflow
+  changes in 0.8.1]]'
+- '[[Changes/Dify/2024-09-13-stop-the-service-command-please-execute-in-the-docker-directory|Stop
+  the service，Command, please execute in the docker directory]]'
 - '[[Changes/Cline/2024-09-14-2-developer-workflow-changes-in-v1-7-0|2 Developer Workflow
   changes in v1.7.0]]'
 source_release: '[[Releases/Cursor/cursor-2024-09-17-0-41-x-https-cursor-com-changelog-0-41-x-a8b13ea8|cursor-2024-09-17-0-41-x-https-cursor-com-changelog-0-41-x-a8b13ea8]]'

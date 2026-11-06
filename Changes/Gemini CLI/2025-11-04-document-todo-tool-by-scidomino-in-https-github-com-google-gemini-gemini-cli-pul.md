@@ -4,20 +4,20 @@ date: '2025-11-04'
 description: 'Gemini CLI · 2025-11-04 · Files and Data: Document todo tool by @scidomino
   in https://github.com/google-gemini/gemini-cli/pull/11695'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-07-06-we-re-rolling-out-code-interpreter-to-all-chatgpt-plus-users-over-the-next-week-66255e|Code
-    interpreter is now rolling out in beta on web]]'
+  first_in_tracked: '[[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2
+    Files and Data changes in 0.2.2]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 852
+  lag_days: 894
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 6f6ed78fe0d3fb78623291d8feb757cef8930b0b005d271a33469d8f81b5f420
+machine_hash: b9189ca30ae99930304974be1e76249b3dbfaf7946875688ffe57e7a4003fd8b
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -88,13 +88,13 @@ type: change
 ## Nearby in Files and Data
 
 - Earlier: 2025-10-29 · Gemini CLI · [[Changes/Gemini CLI/2025-10-29-feat-docs-add-initial-release-confidence-document-by-galz10-in-https-github-com|feat(docs): add initial release confidence document]]
-- Later: 2025-11-27 · Cline · [[Changes/Cline/2025-11-27-docs-document-proxy-settings-by-dominiccooney-in-https-github-com-cline-cline-pu|docs: Document proxy settings]]
+- Later: 2025-11-06 · Open WebUI · [[Changes/Open WebUI/2025-11-06-3-files-and-data-changes-in-v0-6-35|3 Files and Data changes in v0.6.35]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-07-06 · ChatGPT · [[Changes/ChatGPT/2023-07-06-we-re-rolling-out-code-interpreter-to-all-chatgpt-plus-users-over-the-next-week-66255e|Code interpreter is now rolling out in beta on web]]
+- Earliest same-theme entry in the tracked set: 2023-05-25 · Dify · [[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2 Files and Data changes in 0.2.2]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

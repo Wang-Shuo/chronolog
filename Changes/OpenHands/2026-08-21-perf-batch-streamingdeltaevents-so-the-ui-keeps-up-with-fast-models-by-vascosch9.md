@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 457a67f4d4bd33df5882f93ef772d95b97dca4384ac06594225e65916d65b6c4
+machine_hash: e3818554478a59708464c0cc2c96c6a668f083395a571716e346d43f5f9b0ecb
 product: openhands
 product_name: OpenHands
 record:
@@ -42,8 +42,8 @@ record:
   title: 'perf: batch StreamingDeltaEvents so the UI keeps up with fast models'
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-08-20-6-model-support-changes-in-rust-v0-149-0|6 Model
-  Support changes in rust-v0.149.0]]'
+- '[[Changes/Lovable/2026-08-20-gemini-embedding-2-is-the-default-for-search-and-recommendations|Gemini
+  Embedding 2 is the default for search and recommendations]]'
 - '[[Changes/Cline/2026-08-21-restore-tool-calling-for-custom-openai-compatible-models-whose-stored-capability|Restore
   tool calling for custom OpenAI-Compatible models whose stored capability…]]'
 - '[[Changes/Cline/2026-08-21-3-model-support-changes-in-v4-1-11|3 Model Support changes

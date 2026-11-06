@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: e4e54beb2669fe116886587e0c2f695bb8666cb3474a6cb5c0a091eb8afc2aeb
+machine_hash: 67245e00ed3ea1198ea08f825c335207c6c8283400fa42b118756d78e3650713
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -43,10 +43,10 @@ record:
   title: 2 Account and Access changes in rust-v0.150.0
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-08-25-chatgpt-work-s-browser-on-web-and-mobile-can-also-help-you-get-tasks-done-on-som-99be54|ChatGPT
-  Work can now complete tasks on signed-in websites]]'
-- '[[Changes/Claude Code/2026-08-25-improved-attribution-of-usage-telemetry-to-your-organization-for-workload-identi|Improved
-  attribution of usage telemetry to your organization for workload identity…]]'
+- '[[Changes/Dify/2026-08-25-13-account-and-access-changes-in-1-17-0|13 Account and
+  Access changes in 1.17.0]]'
+- '[[Changes/Open WebUI/2026-08-25-13-account-and-access-changes-in-v0-11-1|13 Account
+  and Access changes in v0.11.1]]'
 - '[[Changes/Claude Code/2026-08-26-3-account-and-access-changes-in-v2-1-247|3 Account
   and Access changes in v2.1.247]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-08-26-rust-v0-150-0-github-377374683-d950f84c|codex-cli-2026-08-26-rust-v0-150-0-github-377374683-d950f84c]]'

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 0837adfaddeb4129b392d5deccc73e2445882f5d09c811f08fddfe039cb55c62
+machine_hash: 56a656c02b76c8196ea2bcda88499cf6dd87919e7cfcce43230d7e692498947b
 product: windsurf
 product_name: Windsurf
 record:
@@ -40,8 +40,8 @@ record:
   title: Various bug fixes and performance improvements
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-03-18-2-reliability-and-performance-changes-in-v2-1-79|2
-  Reliability and Performance changes in v2.1.79]]'
+- '[[Changes/Ollama/2026-03-18-claude-code-will-now-be-faster-when-run-locally-due-to-preventing-cache-breakage|Claude
+  Code will now be faster when run locally, due to preventing cache breakages]]'
 - '[[Changes/Claude Code/2026-03-19-reduced-memory-usage-on-startup-in-large-repositories-80-mb-saved-on-250k-file-r|Reduced
   memory usage on startup in large repositories (~80 MB saved on 250k-file repos)]]'
 - '[[Changes/Cursor/2026-03-19-composer-2-is-now-available-in-cursor-frontier-level-coding-performance-with-str|Composer

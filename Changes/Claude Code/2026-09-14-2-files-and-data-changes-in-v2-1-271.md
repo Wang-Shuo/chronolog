@@ -4,20 +4,20 @@ date: '2026-09-14'
 description: 'Claude Code · 2026-09-14 · Files and Data: 2 changes in v2.1.271 — Improved
   Markdown files published as artifacts: they now render as styled document pages…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-07-06-we-re-rolling-out-code-interpreter-to-all-chatgpt-plus-users-over-the-next-week-66255e|Code
-    interpreter is now rolling out in beta on web]]'
+  first_in_tracked: '[[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2
+    Files and Data changes in 0.2.2]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1166
+  lag_days: 1208
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 6d3c40590dfc680ff32c196380e45ed9293d10bf9516bd0d5ac05e9ac9f0d868
+machine_hash: 9f361919e1a062448d3094d0b529b557a067026ab1a7f91422c360e28b68b9f0
 product: claude-code
 product_name: Claude Code
 record:
@@ -44,8 +44,8 @@ record:
   title: 2 Files and Data changes in v2.1.271
   type: change
 related_changes:
-- '[[Changes/OpenHands/2026-09-09-4-files-and-data-changes-in-v1-17-0|4 Files and
-  Data changes in v1.17.0]]'
+- '[[Changes/Gemini/2026-09-10-bring-google-gemini-to-your-pc-with-the-new-windows-app|Bring
+  Google Gemini to your PC with the new Windows app]]'
 - '[[Changes/Claude Code/2026-09-11-vscode-improved-documents-and-messages-written-for-someone-other-than-the-user-c|VSCode
   Improved documents and messages written for someone other than the user]]'
 - '[[Changes/OpenHands/2026-09-11-2-files-and-data-changes-in-v1-18-0|2 Files and
@@ -100,7 +100,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.271
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-07-06 · ChatGPT · [[Changes/ChatGPT/2023-07-06-we-re-rolling-out-code-interpreter-to-all-chatgpt-plus-users-over-the-next-week-66255e|Code interpreter is now rolling out in beta on web]]
+- Earliest same-theme entry in the tracked set: 2023-05-25 · Dify · [[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2 Files and Data changes in 0.2.2]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

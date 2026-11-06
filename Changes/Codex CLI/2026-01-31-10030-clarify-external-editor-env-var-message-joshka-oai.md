@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 11f47179936d10a69a69fc03ab1e29672cad2683a5ae6f979583de74688fd17f
+machine_hash: fcf9fb0bc76aa862982e427a0086af9c1fc1cc909ffc4045e75ee0c2e43b4767
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -41,10 +41,10 @@ record:
   title: '#10030 Clarify external editor env var message @joshka-oai'
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-01-28-directories-now-appear-in-mention-autocomplete|Directories
-  now appear in @mention autocomplete]]'
 - '[[Changes/GitHub Copilot CLI/2026-01-29-2-editor-experience-changes-in-v0-0-399|2
   Editor Experience changes in v0.0.399]]'
+- '[[Changes/v0/2026-01-29-improved-preview-tab-interaction-in-the-vm-panel|Improved
+  preview tab interaction in the VM panel]]'
 - '[[Changes/GitHub Copilot CLI/2026-01-30-add-autopilot-mode-for-autonomous-task-completion-experimental|Add
   autopilot mode for autonomous task completion (experimental)]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-01-31-rust-v0-93-0-github-281755443-684a63d8|codex-cli-2026-01-31-rust-v0-93-0-github-281755443-684a63d8]]'
@@ -90,7 +90,7 @@ type: change
 ## Nearby in Editor Experience
 
 - Earlier: 2026-01-30 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-01-30-add-autopilot-mode-for-autonomous-task-completion-experimental|Add autopilot mode for autonomous task completion (experimental)]]
-- Later: 2026-02-03 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-02-03-2-editor-experience-changes-in-v0-0-401|2 Editor Experience changes in v0.0.401]]
+- Later: 2026-02-03 · Dify · [[Changes/Dify/2026-02-03-chore-hide-disable-try-tab-when-not-support-by-iamjoel-in-https-github-com-langg|chore: hide disable try tab when not support]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 97eaa029906c471ed12e455b4f2c56107a6b513ae9921fdefc0f897986a47850
+machine_hash: b77a74b3a9d0a1ae3a13c9473e492d8df02f10928fec8e2a66a5b922dc0e10cb
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -45,10 +45,10 @@ record:
   title: 3 Account and Access changes in rust-v0.48.0
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2025-10-16-enabled-non-interactive-ghe-logins-by-respecting-the-gh-host-environment-variabl|Enabled
-  non-interactive GHE logins by respecting the GH_HOST environment variable…]]'
 - '[[Changes/Codex CLI/2025-10-17-prompt-mcp-login-when-adding-a-streamable-http-server-that-supports-oauth-5193|Prompt
   mcp login when adding a streamable HTTP server that supports oauth (♯5193)]]'
+- '[[Changes/Dify/2025-10-22-4-account-and-access-changes-in-1-9-2|4 Account and Access
+  changes in 1.9.2]]'
 - '[[Changes/GitHub Copilot CLI/2025-10-22-added-debug-logging-to-authentication-status-changes-to-get-to-the-bottom-of-htt|Added
   debug logging to authentication status changes to get to the bottom…]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2025-10-23-rust-v0-48-0-github-256860123-ffacccba|codex-cli-2025-10-23-rust-v0-48-0-github-256860123-ffacccba]]'
@@ -95,7 +95,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.48.0
 ## Nearby in Account and Access
 
 - Earlier: 2025-10-22 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2025-10-22-added-debug-logging-to-authentication-status-changes-to-get-to-the-bottom-of-htt|Added debug logging to authentication status changes to get to the bottom…]]
-- Later: 2025-10-25 · Codex CLI · [[Changes/Codex CLI/2025-10-25-5653-mcp-properly-gate-login-after-mcp-add-with-experimental-use-rmcp-client-gpe|♯5653 — MCP Properly gate login after mcp add with experimental_use_rmcp_client (@gpeal)]]
+- Later: 2025-10-24 · Replit · [[Changes/Replit/2025-10-24-sso-support-for-replit-auth-in-enterprise-apps|SSO support for Replit Auth in Enterprise apps]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

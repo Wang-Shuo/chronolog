@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 68317e0c8dc004c2343bb86318397eb37728067d07388783d6a8a7ccb8b8532f
+machine_hash: 9c9ea7d08cfa261d107b16eb429f40394456d055a8bf58f93af17917f55afc38
 product: claude-code
 product_name: Claude Code
 record:
@@ -43,8 +43,8 @@ record:
   title: Bare `/color` (no args) now picks a random session color
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-04-28-2-interface-experience-changes-in-v1-0-39|2
-  Interface Experience changes in v1.0.39]]'
+- '[[Changes/Dify/2026-04-29-10-interface-experience-changes-in-1-14-0|10 Interface
+  Experience changes in 1.14.0]]'
 - '[[Changes/Codex CLI/2026-04-30-2-interface-experience-changes-in-rust-v0-128-0|2
   Interface Experience changes in rust-v0.128.0]]'
 - '[[Changes/GitHub Copilot CLI/2026-05-01-3-interface-experience-changes-in-v1-0-40|3

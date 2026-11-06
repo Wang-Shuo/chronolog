@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 53e757ff67b68776fecf7df28d6205a6204fd0c5103dd3e011ee59f4ed66b339
+machine_hash: 2dc0aaa22452546c06203e65b4edc631939cce80a0c55192dc228f40a223dd14
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -43,12 +43,11 @@ record:
   title: '#8590 fix(core): require approval for force delete on Windows @hdcodedev'
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-01-09-2-mobile-and-desktop-changes-in-rust-v0-80-0|2 Mobile
-  and Desktop changes in rust-v0.80.0]]'
-- '[[Changes/Codex CLI/2026-01-14-2-mobile-and-desktop-changes-in-rust-v0-81-0|2 Mobile
-  and Desktop changes in rust-v0.81.0]]'
 - '[[Changes/Codex CLI/2026-01-15-reduce-flaky-rust-release-pipelines-notably-on-windows-by-increasing-the-release|Reduce
   flaky Rust release pipelines (notably on Windows) by increasing the release…]]'
+- '[[Changes/Claude/2026-01-16-cowork-research-preview-expanded-to-pro-plans|Cowork
+  research preview expanded to Pro plans]]'
+- '[[Changes/Replit/2026-01-16-mobile-apps-on-replit|Mobile Apps on Replit]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-01-21-rust-v0-88-0-github-278754265-4d0aa1b4|codex-cli-2026-01-21-rust-v0-88-0-github-278754265-4d0aa1b4]]'
 source_type: github_releases
 theme: mobile-desktop
@@ -86,7 +85,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2026-01-15 · Codex CLI · [[Changes/Codex CLI/2026-01-15-reduce-flaky-rust-release-pipelines-notably-on-windows-by-increasing-the-release|Reduce flaky Rust release pipelines (notably on Windows) by increasing the release…]]
+- Earlier: 2026-01-16 · Replit · [[Changes/Replit/2026-01-16-mobile-apps-on-replit|Mobile Apps on Replit]]
 - Later: 2026-01-22 · Cursor · [[Changes/Cursor/2026-01-22-windows-notifications-now-have-accept-reject-buttons-like-macos|Windows notifications now have accept/reject buttons like MacOS]]
 <!-- chronolog:end -->
 

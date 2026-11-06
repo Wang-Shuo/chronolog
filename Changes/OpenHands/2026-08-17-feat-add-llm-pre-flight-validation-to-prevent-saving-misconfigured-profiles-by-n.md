@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: b2903b37c05d7787963bea3cc7b742b9999c4a1211738c2f9f560c266cfc7e37
+machine_hash: 045534f05da951780537c53de6f1887e15ccd6cc0aeca6c8867e1515b59fe4ee
 product: openhands
 product_name: OpenHands
 record:
@@ -42,12 +42,12 @@ record:
   title: 'feat: add LLM pre-flight validation to prevent saving misconfigured profiles'
   type: change
 related_changes:
-- '[[Changes/Cline/2026-08-14-2-model-support-changes-in-v4-1-10|2 Model Support changes
-  in v4.1.10]]'
-- '[[Changes/GitHub Copilot CLI/2026-08-14-update-model-configurations|Update model
-  configurations]]'
+- '[[Changes/Ollama/2026-08-15-llm-transcode-webp-images-for-llama-server|llm: transcode
+  WebP images for llama-server]]'
 - '[[Changes/Claude Code/2026-08-17-2-model-support-changes-in-v2-1-234|2 Model Support
   changes in v2.1.234]]'
+- '[[Changes/Lovable/2026-08-17-gemini-3-7-flash-for-your-app-s-ai-features|Gemini
+  3.7 Flash for your app''s AI features]]'
 source_release: '[[Releases/OpenHands/openhands-2026-08-17-v1-14-0-github-371966965-402951e4|openhands-2026-08-17-v1-14-0-github-371966965-402951e4]]'
 source_type: github_releases
 theme: model-support
@@ -79,7 +79,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-08-17 · Claude Code · [[Changes/Claude Code/2026-08-17-2-model-support-changes-in-v2-1-234|2 Model Support changes in v2.1.234]]
+- Earlier: 2026-08-17 · Lovable · [[Changes/Lovable/2026-08-17-gemini-3-7-flash-for-your-app-s-ai-features|Gemini 3.7 Flash for your app's AI features]]
 - Later: 2026-08-18 · Codex CLI · [[Changes/Codex CLI/2026-08-18-18-model-support-changes-in-rust-v0-148-0|18 Model Support changes in rust-v0.148.0]]
 <!-- chronolog:end -->
 

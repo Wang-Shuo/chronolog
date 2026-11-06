@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: af88793de5ae56dd33e131c42c50926622cbb078d084d6f51290bb7754ebf468
+machine_hash: 2da0cc12220fd06785aa0f20e94d1c088873dc07c90cfe870d0ee038549385dd
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -43,8 +43,8 @@ record:
   title: 2 Account and Access changes in v1.0.64
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-06-18-28257-support-staging-oauth-client-id-overrides-apanasenko-oai|♯28257
-  Support staging OAuth client ID overrides @apanasenko-oai]]'
+- '[[Changes/v0/2026-06-19-anonymous-users-opening-a-shared-or-public-chat-are-no-longer-redirected-to-sign|Anonymous
+  users opening a shared or public chat are no longer redirected to sign…]]'
 - '[[Changes/Claude Code/2026-06-22-2-account-and-access-changes-in-v2-1-186|2 Account
   and Access changes in v2.1.186]]'
 - '[[Changes/Codex CLI/2026-06-22-29022-codex-support-protected-resource-oauth-discovery-xl-openai|♯29022

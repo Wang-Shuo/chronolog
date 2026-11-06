@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 94c020e324ad9fc0025b4aed0dfb9aed01cdc91f13924ec7fdff6c6ee24e872e
+machine_hash: 7b74ed94664c16aa203e493ce950157112d8cf45442c09a1e55488996fb42a64
 product: windsurf
 product_name: Windsurf
 record:
@@ -41,8 +41,8 @@ record:
   title: 2 Developer Workflow changes in v1.13.3
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2025-12-22-feat-a2a-introduce-init-command-for-a2a-server-by-cocosheng-g-in-https-github-co|feat(a2a):
-  Introduce /init command for a2a server]]'
+- '[[Changes/Open WebUI/2025-12-22-2-developer-workflow-changes-in-v0-6-43|2 Developer
+  Workflow changes in v0.6.43]]'
 - '[[Changes/Windsurf/2025-12-24-git-worktree-support|Git Worktree Support]]'
 - '[[Changes/Windsurf/2025-12-24-cascade-dedicated-terminal-beta|Cascade Dedicated
   Terminal (Beta)]]'
@@ -86,8 +86,8 @@ Source: https://docs.devin.ai/desktop/changelog#v1-13-3
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2025-12-22 · Gemini CLI · [[Changes/Gemini CLI/2025-12-22-feat-a2a-introduce-init-command-for-a2a-server-by-cocosheng-g-in-https-github-co|feat(a2a): Introduce /init command for a2a server]]
-- Later: 2025-12-30 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2025-12-30-kill-command-filtering-now-allows-commands-when-kill-appears-as-an-argument|Kill command filtering now allows commands when 'kill' appears as an argument]]
+- Earlier: 2025-12-22 · Open WebUI · [[Changes/Open WebUI/2025-12-22-2-developer-workflow-changes-in-v0-6-43|2 Developer Workflow changes in v0.6.43]]
+- Later: 2025-12-25 · Dify · [[Changes/Dify/2025-12-25-2-developer-workflow-changes-in-1-11-2|2 Developer Workflow changes in 1.11.2]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

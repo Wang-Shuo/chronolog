@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 075645383529c4bc4ca16c0216be6d563af4b2b39ddc24ea33281e2d226cbbe2
+machine_hash: 53ca65abed2727ea7cb031392bd1f83755afc4c5293f088e18bdfd5e8499c67e
 product: cursor
 product_name: Cursor
 record:
@@ -44,12 +44,12 @@ record:
   title: 'UPDATE (0.45.12-13): Update infrastructure improvements'
   type: change
 related_changes:
-- '[[Changes/Cline/2025-01-06-under-the-hood-the-extension-uses-git-to-efficiently-track-changes-which-uses-ad|Under
-  the hood, the extension uses git to efficiently track changes, which uses…]]'
-- '[[Changes/Aider/2025-01-10-5-developer-workflow-changes-in-v0-71-0|5 Developer
-  Workflow changes in v0.71.0]]'
-- '[[Changes/OpenHands/2025-01-13-2-developer-workflow-changes-in-0-20-0|2 Developer
-  Workflow changes in 0.20.0]]'
+- '[[Changes/Ollama/2025-01-16-support-importing-command-r-and-command-r-architectures-from-safetensors|Support
+  importing Command R and Command R+ architectures from safetensors]]'
+- '[[Changes/Replit/2025-01-17-assistant-inline-shell-commands|Assistant inline shell
+  commands]]'
+- '[[Changes/Dify/2025-01-22-stop-the-service-command-please-execute-in-the-docker-directory|Stop
+  the service，Command, please execute in the docker directory]]'
 source_release: '[[Releases/Cursor/cursor-2025-01-23-0-45-x-https-cursor-com-changelog-0-45-x-c162d228|cursor-2025-01-23-0-45-x-https-cursor-com-changelog-0-45-x-c162d228]]'
 source_type: cursor_changelog
 theme: developer-workflow
@@ -85,8 +85,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2025-01-13 · OpenHands · [[Changes/OpenHands/2025-01-13-2-developer-workflow-changes-in-0-20-0|2 Developer Workflow changes in 0.20.0]]
-- Later: 2025-02-13 · OpenHands · [[Changes/OpenHands/2025-02-13-limit-resource-usage-of-command-to-avoid-oom-runtime-kill-by-xingyaoww-in-https|Limit resource usage of command to avoid OOM Runtime Kill]]
+- Earlier: 2025-01-22 · Dify · [[Changes/Dify/2025-01-22-stop-the-service-command-please-execute-in-the-docker-directory|Stop the service，Command, please execute in the docker directory]]
+- Later: 2025-02-07 · Dify · [[Changes/Dify/2025-02-07-stop-the-service-command-please-execute-in-the-docker-directory|Stop the service，Command, please execute in the docker directory]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

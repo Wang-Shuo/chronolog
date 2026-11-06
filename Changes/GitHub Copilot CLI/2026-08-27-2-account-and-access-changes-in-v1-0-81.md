@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 256aba3c7049ba608895e99896e222b4f362db7cd356773aa239cb1c2df0c5dc
+machine_hash: a776d0f12f14a5ffbc7851c5ae70f8028faa1970931b3864604e95971e0bde80
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -45,8 +45,8 @@ record:
   title: 2 Account and Access changes in v1.0.81
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-08-25-improved-attribution-of-usage-telemetry-to-your-organization-for-workload-identi|Improved
-  attribution of usage telemetry to your organization for workload identity…]]'
+- '[[Changes/Open WebUI/2026-08-25-13-account-and-access-changes-in-v0-11-1|13 Account
+  and Access changes in v0.11.1]]'
 - '[[Changes/Claude Code/2026-08-26-3-account-and-access-changes-in-v2-1-247|3 Account
   and Access changes in v2.1.247]]'
 - '[[Changes/Codex CLI/2026-08-26-2-account-and-access-changes-in-rust-v0-150-0|2

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 915f01ff34449f4b48b18912e23461e3eeb68eb9fad734e1aeee1c5b83df7123
+machine_hash: 2eb7b6f84896d8c299f77834125cef18bc3a83ecb2f84d71272bbc3ddc8233ab
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -45,8 +45,8 @@ record:
   title: 2 Reliability and Performance changes in Toggle thinking time in the message…
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2025-09-10-3323-chore-try-switching-to-cargo-nextest-to-speed-up-ci-builds|♯3323
-  chore: try switching to cargo nextest to speed up CI builds]]'
+- '[[Changes/Ollama/2025-09-11-3-reliability-and-performance-changes-in-v0-11-11|3
+  Reliability and Performance changes in v0.11.11]]'
 - '[[Changes/Cursor/2025-09-12-5-reliability-and-performance-changes-in-1-6|5 Reliability
   and Performance changes in 1.6]]'
 - '[[Changes/Windsurf/2025-09-16-various-bug-fixes-and-stability-improvements|Various
@@ -86,7 +86,7 @@ Source: https://help.openai.com/en/articles/6825453-chatgpt-release-notes#toggle
 ## Nearby in Reliability and Performance
 
 - Earlier: 2025-09-16 · Windsurf · [[Changes/Windsurf/2025-09-16-various-bug-fixes-and-stability-improvements|Various bug fixes and stability improvements]]
-- Later: 2025-09-24 · Gemini CLI · [[Changes/Gemini CLI/2025-09-24-feat-add-cached-string-width-function-for-performance-optimization-by-jacob314-i|feat: add cached string width function for performance optimization]]
+- Later: 2025-09-17 · Open WebUI · [[Changes/Open WebUI/2025-09-17-8-reliability-and-performance-changes-in-v0-6-29|8 Reliability and Performance changes in v0.6.29]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

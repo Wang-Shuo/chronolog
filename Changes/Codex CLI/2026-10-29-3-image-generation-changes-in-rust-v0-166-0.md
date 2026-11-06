@@ -4,20 +4,20 @@ date: '2026-10-29'
 description: 'Codex CLI · 2026-10-29 · Image Generation: 3 changes in 0.166.0 — #57275
   Preserve image generation failure metadata for premium usage limits @jimxie-oai'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2024-08-08-we-re-rolling-out-the-ability-for-chatgpt-free-users-to-create-up-to-two-images-2c505c|DALL·E
-    3 for ChatGPT Free users]]'
+  first_in_tracked: "[[Changes/Open WebUI/2024-03-10-dall-e-integration-introduced-dall-e-integration-for-image-generation-alongside|\U0001F3A8
+    DALL-E Integration]]"
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 812
+  lag_days: 963
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: image-generation
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: d16f2f183e6c16c8eb2eae63da9f7baa7ff16e4a3158ba1e7cf133fa90daad15
+machine_hash: d95b931ebc6da81580431a9d421cd2db8883a74a18a888c4f2915473f5f969fe
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -45,12 +45,12 @@ record:
   title: 3 Image Generation changes in rust-v0.166.0
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-09-25-47327-preserve-image-generation-request-ids-on-failure-chrisdong-oai|♯47327
-  Preserve image generation request IDs on failure @chrisdong-oai]]'
-- '[[Changes/Codex CLI/2026-09-28-3-image-generation-changes-in-rust-v0-158-0|3 Image
-  Generation changes in rust-v0.158.0]]'
+- "[[Changes/Open WebUI/2026-10-16-clear-input-selections-shortcut-clearing-the-model-override-selected-tools-and-f|\U0001F9F9
+  Clear Input Selections shortcut. Clearing the model override, selected tools…]]"
 - '[[Changes/Codex CLI/2026-10-23-2-image-generation-changes-in-rust-v0-164-0|2 Image
   Generation changes in rust-v0.164.0]]'
+- "[[Changes/Open WebUI/2026-10-25-images-settings-save-admins-can-now-save-images-settings-while-image-generation|\U0001F58C️
+  Images settings save. Admins can now save Images settings while Image…]]"
 source_release: '[[Releases/Codex CLI/codex-cli-2026-10-29-rust-v0-166-0-github-428320524-44f8c24a|codex-cli-2026-10-29-rust-v0-166-0-github-428320524-44f8c24a]]'
 source_type: github_releases
 theme: image-generation
@@ -100,14 +100,14 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.166.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Image Generation
 
-- Earlier: 2026-10-23 · Codex CLI · [[Changes/Codex CLI/2026-10-23-2-image-generation-changes-in-rust-v0-164-0|2 Image Generation changes in rust-v0.164.0]]
-- Later: 2026-11-06 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-11-06-2-image-generation-changes-in-v1-0-106|2 Image Generation changes in v1.0.106]]
+- Earlier: 2026-10-25 · Open WebUI · [[Changes/Open WebUI/2026-10-25-images-settings-save-admins-can-now-save-images-settings-while-image-generation|🖌️ Images settings save. Admins can now save Images settings while Image…]]
+- Later: 2026-10-29 · Open WebUI · [[Changes/Open WebUI/2026-10-29-2-image-generation-changes-in-v0-12-5|2 Image Generation changes in v0.12.5]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2024-08-08 · ChatGPT · [[Changes/ChatGPT/2024-08-08-we-re-rolling-out-the-ability-for-chatgpt-free-users-to-create-up-to-two-images-2c505c|DALL·E 3 for ChatGPT Free users]]
+- Earliest same-theme entry in the tracked set: 2024-03-10 · Open WebUI · [[Changes/Open WebUI/2024-03-10-dall-e-integration-introduced-dall-e-integration-for-image-generation-alongside|🎨 DALL-E Integration]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

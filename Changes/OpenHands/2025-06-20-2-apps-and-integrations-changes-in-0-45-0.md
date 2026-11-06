@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 33a846f289459a5e4c391547ddc19929b417a2ee363ed6b77a86f69821ad1498
+machine_hash: db04e07913076a3270588115aaa7414fefd18d5d7f08784bdd4a0409c470fb77
 product: openhands
 product_name: OpenHands
 record:
@@ -42,8 +42,8 @@ record:
   title: 2 Apps and Integrations changes in 0.45.0
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-06-12-agents-understand-context-6b73fc|Agents understand
-  context]]'
+- '[[Changes/ElevenLabs/2025-06-17-agents-platform-mcp-servers|Agents Platform - MCP
+  Servers]]'
 - '[[Changes/OpenHands/2025-06-20-3-apps-and-integrations-changes-in-0-44-0|3 Apps
   and Integrations changes in 0.44.0]]'
 - '[[Changes/OpenHands/2025-06-20-slack-integration-beta-with-cloud-openhands-malhotra5-in-https-github-com-all-ha|Slack

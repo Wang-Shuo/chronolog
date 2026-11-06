@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 6839af600f63a2a8cc78df988e4464c42d323bf98d7206f40da9760cde92a8f1
+machine_hash: 0f03de0b4ce32700a7d98f7a29704456fa19b8bec3e0cb4c25d2344283b73384
 product: windsurf
 product_name: Windsurf
 record:
@@ -89,7 +89,7 @@ type: change
 ## Nearby in Model Support
 
 - Earlier: 2025-05-22 · Cline · [[Changes/Cline/2025-05-22-2-model-support-changes-in-v3-17-1|2 Model Support changes in v3.17.1]]
-- Later: 2025-05-28 · Cline · [[Changes/Cline/2025-05-28-2-model-support-changes-in-v3-17-6|2 Model Support changes in v3.17.6]]
+- Later: 2025-05-23 · Replit · [[Changes/Replit/2025-05-23-sonnet-4-in-agent|Sonnet 4 in Agent]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

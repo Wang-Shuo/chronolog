@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 8d3250a3ba73c43d9737e6f03989021254c6f68bad3501974434cf3d880ce1b6
+machine_hash: d51f71205d674d5d9a487b58ac09b304d2afed9daf9291a23ab7958084ce3cf5
 product: cline
 product_name: Cline
 record:
@@ -76,7 +76,7 @@ type: change
 ## Nearby in Apps and Integrations
 
 - Earlier: 2025-08-02 · Gemini CLI · [[Changes/Gemini CLI/2025-08-02-21-apps-and-integrations-changes-in-v0-1-16|21 Apps and Integrations changes in v0.1.16]]
-- Later: 2025-08-05 · Gemini CLI · [[Changes/Gemini CLI/2025-08-05-24-apps-and-integrations-changes-in-v0-1-17|24 Apps and Integrations changes in v0.1.17]]
+- Later: 2025-08-04 · ElevenLabs · [[Changes/ElevenLabs/2025-08-04-sdk-releases|SDK Releases]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

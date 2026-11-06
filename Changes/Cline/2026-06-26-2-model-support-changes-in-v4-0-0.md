@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 511c3ec0a5c52084763f640501f0139a24ead36ae1ab825fc8eb4c0105d443ca
+machine_hash: 471c7422e3c8d271001125087dbc2724921adeaade604da7a4c9d4bd056156b5
 product: cline
 product_name: Cline
 record:
@@ -49,10 +49,10 @@ record:
   title: 2 Model Support changes in v4.0.0
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-06-25-added-claude-code-assistant-response-opentelemetry-log-event-containing-the-mode|Added
-  claude_code.assistant_response OpenTelemetry log event containing…]]'
-- '[[Changes/Codex CLI/2026-06-25-4-model-support-changes-in-rust-v0-142-2|4 Model
-  Support changes in rust-v0.142.2]]'
+- '[[Changes/Dify/2026-06-25-17-model-support-changes-in-1-15-0|17 Model Support changes
+  in 1.15.0]]'
+- '[[Changes/Ollama/2026-06-25-3-model-support-changes-in-v0-30-11|3 Model Support
+  changes in v0.30.11]]'
 - '[[Changes/ChatGPT/2026-06-26-as-of-june-26-2026-gpt-4-5-is-no-longer-available-in-chatgpt-including-for-custo|Retiring
   GPT-4.5]]'
 source_release: '[[Releases/Cline/cline-2026-06-26-v4-0-0-github-345514931-9953949f|cline-2026-06-26-v4-0-0-github-345514931-9953949f]]'
@@ -94,7 +94,7 @@ Source: https://github.com/cline/cline/releases/tag/v4.0.0
 ## Nearby in Model Support
 
 - Earlier: 2026-06-26 · ChatGPT · [[Changes/ChatGPT/2026-06-26-as-of-june-26-2026-gpt-4-5-is-no-longer-available-in-chatgpt-including-for-custo|Retiring GPT-4.5]]
-- Later: 2026-06-29 · Claude Code · [[Changes/Claude Code/2026-06-29-added-support-for-organization-default-models-admins-set-it-in-the-org-console-i|Added support for organization default models]]
+- Later: 2026-06-26 · v0 · [[Changes/v0/2026-06-26-a-saved-model-selection-no-longer-briefly-flips-to-a-default-while-the-page-load|A saved model selection no longer briefly flips to a default while the page loads]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

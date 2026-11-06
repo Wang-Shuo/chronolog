@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: memory
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: ccf35b40410ff661f252b9a1b16a8b8060df37939b74f861f71d0e219f363976
+machine_hash: ad8d3e47b3101089f89c1e0f784993e0f900b55ec75aa6eb3a4d1540a5be6114
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -41,8 +41,8 @@ record:
   title: Improvements to memory to reference past chats in a project*
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2025-05-08-enhanced-memory-rolling-out-to-all-plus-and-pro-users-including-the-eu-the-new-m|Enhanced
-  memory rolling out to all Plus and Pro users (including the EU)]]'
+- "[[Changes/Open WebUI/2025-05-29-refined-memory-error-handling-enhanced-stability-during-memory-related-operation|\U0001F9E0
+  Refined Memory Error Handling]]"
 - '[[Changes/ChatGPT/2025-06-03-opt-in-reminders-e08369|Opt‑in reminders]]'
 - '[[Changes/Cursor/2025-06-04-memories|Memories]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-06-12-adding-more-capabilities-to-projects-a384b6f8|chatgpt-2025-06-12-adding-more-capabilities-to-projects-a384b6f8]]'

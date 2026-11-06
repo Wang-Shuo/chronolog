@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: c1ee991bbffe5f80b9b097c3532e4466a48d14cfeee2fef01b096abc71bfea6a
+machine_hash: b00130e16702290b356151481c399f2f4d0eb9e972e0790e365e79b8e15ea516
 product: claude-code
 product_name: Claude Code
 record:
@@ -47,8 +47,9 @@ record:
   title: 2 Reliability and Performance changes in v2.1.309
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-10-16-faster-responses|Faster responses]]'
 - '[[Changes/Cursor/2026-10-16-larger-faster-environments|Larger, faster environments]]'
+- "[[Changes/Open WebUI/2026-10-16-general-improvements-various-improvements-were-implemented-across-the-applicatio|\U0001F504
+  General improvements. Various improvements were implemented across…]]"
 - '[[Changes/Claude Code/2026-10-19-2-reliability-and-performance-changes-in-v2-1-304|2
   Reliability and Performance changes in v2.1.304]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-10-22-v2-1-309-github-421170674-b2394d99|claude-code-2026-10-22-v2-1-309-github-421170674-b2394d99]]'

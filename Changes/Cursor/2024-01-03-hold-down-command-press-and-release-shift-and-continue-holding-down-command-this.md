@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 2332a31d6983d4398ed66bbf77846c2c505993b07240b1512136f018edc94b36
+machine_hash: 7fc55ea0780db3cfe1392fb50009e18bf9889484ba35b0a7f878a8e8cfd0b25c
 product: cursor
 product_name: Cursor
 record:
@@ -51,12 +51,12 @@ record:
   title: 'Early Preview: Hold-cmd-tap-shift to Trigger AI Rewrite'
   type: change
 related_changes:
-- '[[Changes/Cursor/2023-12-29-you-can-now-run-multiple-command-k-s-in-parallel-also-it-should-now-be-easier-to|Multiple
-  Command-K, Copilot++ UI]]'
 - '[[Changes/Cursor/2023-12-30-cursor-is-now-based-on-vs-code-1-85-1-which-among-other-things-includes-floating|VS
   Code 1.85.1]]'
 - '[[Changes/Cursor/2023-12-31-you-can-now-use-chat-and-cmd-k-in-the-aux-window-without-too-many-problems|Aux
   Window Fixes]]'
+- '[[Changes/Dify/2024-01-02-gpt-2-tokenizer-files-now-cached-within-dify-s-codebase-making-builds-quicker-an|GPT-2
+  Tokenizer Files: Now cached within Dify''s codebase, making builds quicker…]]'
 source_release: '[[Releases/Cursor/cursor-2024-01-03-0-21-5-nightly-https-cursor-com-changelog-0-21-5-nightly-3b0a9ab7|cursor-2024-01-03-0-21-5-nightly-https-cursor-com-changelog-0-21-5-nightly-3b0a9ab7]]'
 source_type: cursor_changelog
 theme: editor-experience
@@ -83,7 +83,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2023-12-31 · Cursor · [[Changes/Cursor/2023-12-31-you-can-now-use-chat-and-cmd-k-in-the-aux-window-without-too-many-problems|Aux Window Fixes]]
+- Earlier: 2024-01-02 · Dify · [[Changes/Dify/2024-01-02-gpt-2-tokenizer-files-now-cached-within-dify-s-codebase-making-builds-quicker-an|GPT-2 Tokenizer Files: Now cached within Dify's codebase, making builds quicker…]]
 - Later: 2024-01-06 · Cursor · [[Changes/Cursor/2024-01-06-upgrades-cursor-to-vs-code-1-85-which-comes-with-support-for-dragging-out-tabs-i|Upgrades Cursor to VS Code 1.85, which comes with support for dragging out tabs…]]
 <!-- chronolog:end -->
 

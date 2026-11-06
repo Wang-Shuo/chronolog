@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: e7605a0c1bb5a41bcd30979fee3556043e597c8a9cec7cf65aba9e2e39eaadf4
+machine_hash: 10e92a26cfb5a760f12b2fd454054637b83db26492db8a1a954441ee7b672d2a
 product: claude-code
 product_name: Claude Code
 record:
@@ -49,8 +49,7 @@ record:
   title: 3 Agent Mode changes in v2.1.193
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-06-22-14-agent-mode-changes-in-rust-v0-142-0|14 Agent
-  Mode changes in rust-v0.142.0]]'
+- '[[Changes/ElevenLabs/2026-06-22-elevenagents-ee09f3|ElevenAgents]]'
 - '[[Changes/GitHub Copilot CLI/2026-06-23-6-agent-mode-changes-in-v1-0-64|6 Agent
   Mode changes in v1.0.64]]'
 - '[[Changes/GitHub Copilot CLI/2026-06-24-4-agent-mode-changes-in-v1-0-65|4 Agent
@@ -95,7 +94,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.193
 ## Nearby in Agent Mode
 
 - Earlier: 2026-06-24 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-06-24-4-agent-mode-changes-in-v1-0-65|4 Agent Mode changes in v1.0.65]]
-- Later: 2026-06-26 · Claude Code · [[Changes/Claude Code/2026-06-26-improved-claude-agents-completed-list-to-fill-available-vertical-space-on-short|Improved claude agents completed list to fill available vertical space]]
+- Later: 2026-06-25 · Dify · [[Changes/Dify/2026-06-25-38-agent-mode-changes-in-1-15-0|38 Agent Mode changes in 1.15.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

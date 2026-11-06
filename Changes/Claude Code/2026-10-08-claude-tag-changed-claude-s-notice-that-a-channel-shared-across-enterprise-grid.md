@@ -5,20 +5,20 @@ description: 'Claude Code · 2026-10-08 · Enterprise and Administration: [Claud
   Changed Claude''s notice that a channel shared across Enterprise Grid workspaces
   uses…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2024-03-20-admin-improvements-team-admins-can-now-mark-themselves-as-unpaid-users-and-can-s|Admin
-    improvements: Team admins can now mark themselves as unpaid users and can see…]]'
+  first_in_tracked: '[[Changes/Gemini/2023-05-05-access-for-google-workspace-accounts|Access
+    for Google Workspace accounts]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 932
+  lag_days: 1252
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: b57dae1a53ade200c80d07d887a2f4707c4efab86a4852a8c19916af4c9f204f
+machine_hash: af2138da2dd67bb5175a008555aac297a0c7fd0c1f0c079b59eb545d9e89d23f
 product: claude-code
 product_name: Claude Code
 record:
@@ -93,13 +93,13 @@ type: change
 ## Nearby in Enterprise and Administration
 
 - Earlier: 2026-10-07 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-10-07-add-enterprise-permissions-limitto-to-enforce-managed-domain-boundaries-for-netw|Add enterprise permissions.limitTo to enforce managed domain boundaries for network…]]
-- Later: 2026-10-08 · OpenHands · [[Changes/OpenHands/2026-10-08-feat-onboarding-show-the-super-admin-setup-guide-on-enterprise-backends-by-hiept|feat(onboarding): show the Super Admin setup guide on enterprise backends]]
+- Later: 2026-10-08 · Lovable · [[Changes/Lovable/2026-10-08-publish-to-invited-people-only-on-free-and-pro-plans|Publish to invited people only on Free and Pro plans]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2024-03-20 · Cursor · [[Changes/Cursor/2024-03-20-admin-improvements-team-admins-can-now-mark-themselves-as-unpaid-users-and-can-s|Admin improvements: Team admins can now mark themselves as unpaid users and can see…]]
+- Earliest same-theme entry in the tracked set: 2023-05-05 · Gemini · [[Changes/Gemini/2023-05-05-access-for-google-workspace-accounts|Access for Google Workspace accounts]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

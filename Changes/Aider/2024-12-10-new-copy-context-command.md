@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: d481d695df803baada8389d61ed159b79d45bcc45a79eb6c79a80456b00a5db7
+machine_hash: 384c53b4b4ba3e46b5b9058ab1f9dfdf4d3080e1c54a53614cc245744bf7c39c
 product: aider
 product_name: Aider
 record:
@@ -41,12 +41,12 @@ record:
   title: New `/copy-context` command
   type: change
 related_changes:
-- '[[Changes/OpenHands/2024-11-15-truncate-agent-history-when-context-window-is-exceeded-by-enyst-in-https-github|Truncate
-  agent history when context window is exceeded]]'
-- '[[Changes/Cursor/2024-11-24-early-version-of-an-agent-in-composer-that-can-pick-its-own-context-and-use-the-1228de|Early
-  version of an agent in composer that can pick its own context and use the terminal]]'
 - '[[Changes/Aider/2024-11-26-ollama-models-now-default-to-an-8k-context-window|Ollama
   models now default to an 8k context window]]'
+- '[[Changes/Dify/2024-12-03-sync-indexing-max-segmentation-tokens-length-between-api-and-web-by-fujita-h-in|Sync
+  INDEXING_MAX_SEGMENTATION_TOKENS_LENGTH between API and Web]]'
+- '[[Changes/Ollama/2024-12-04-experimental-new-flag-to-set-kv-cache-quantization-to-4-bit-q4-0-8-bit-q8-0-or-1|Experimental:
+  new flag to set KV cache quantization to 4-bit (q4_0), 8-bit…]]'
 source_release: '[[Releases/Aider/aider-2024-12-10-v0-68-0-github-190004650-ac51bb4e|aider-2024-12-10-v0-68-0-github-190004650-ac51bb4e]]'
 source_type: github_releases
 theme: context-window
@@ -78,7 +78,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Context Window
 
-- Earlier: 2024-11-26 · Aider · [[Changes/Aider/2024-11-26-ollama-models-now-default-to-an-8k-context-window|Ollama models now default to an 8k context window]]
+- Earlier: 2024-12-04 · Ollama · [[Changes/Ollama/2024-12-04-experimental-new-flag-to-set-kv-cache-quantization-to-4-bit-q4-0-8-bit-q8-0-or-1|Experimental: new flag to set KV cache quantization to 4-bit (q4_0), 8-bit…]]
 - Later: 2024-12-13 · Aider · [[Changes/Aider/2024-12-13-copy-context-instructions-now-takes-optional-instructions-when-copying-code-cont|/copy-context instructions now takes optional "instructions" when copying code…]]
 <!-- chronolog:end -->
 

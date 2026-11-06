@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: c6661b747c35394dc4f36ad435d47cbcffb8868618338fa24528703e913ee8e0
+machine_hash: d316a9f44824a5124e8bdc5e1b55839bbd4464f6b8c7c7dac5fde898b80d42aa
 product: cline
 product_name: Cline
 record:
@@ -41,10 +41,11 @@ record:
   title: Share provider information
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-10-29-audit-log|Audit Log]]'
 - '[[Changes/Cursor/2025-10-29-team-commands|Team Commands]]'
 - '[[Changes/Gemini CLI/2025-10-29-refactor-logging-centralize-all-console-messaging-to-a-shared-logger-part-1-by-a|refactor(logging):
   Centralize all console messaging to a shared logger (part 1)]]'
+- '[[Changes/Lovable/2025-11-05-request-access-to-private-projects|Request access
+  to private projects]]'
 source_release: '[[Releases/Cline/cline-2025-11-07-v3-36-1-github-260470182-789b6594|cline-2025-11-07-v3-36-1-github-260470182-789b6594]]'
 source_type: github_releases
 theme: collaboration
@@ -74,7 +75,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Collaboration
 
-- Earlier: 2025-10-29 · Gemini CLI · [[Changes/Gemini CLI/2025-10-29-refactor-logging-centralize-all-console-messaging-to-a-shared-logger-part-1-by-a|refactor(logging): Centralize all console messaging to a shared logger (part 1)]]
+- Earlier: 2025-11-05 · Lovable · [[Changes/Lovable/2025-11-05-request-access-to-private-projects|Request access to private projects]]
 - Later: 2025-11-19 · Codex CLI · [[Changes/Codex CLI/2025-11-19-promote-shared-helpers-for-suite-tests-6460-aibrahim|Promote shared helpers for suite tests (♯6460) — @aibrahim]]
 <!-- chronolog:end -->
 

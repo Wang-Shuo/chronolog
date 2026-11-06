@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 939e5ca986f45ede79e5bdfdd80d0bc360bb44cd50d71cf85d6e0d14ccc6fd4f
+machine_hash: a0a4a766876540de937582c24ea1871f24ceb0324da3672939c944b081dc0f0b
 product: claude-code
 product_name: Claude Code
 record:
@@ -91,7 +91,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.169
 ## Nearby in Interface Experience
 
 - Earlier: 2026-06-08 · ChatGPT · [[Changes/ChatGPT/2026-06-08-cleaned-up-logged-out-mobile-web-experience-logged-out-users-now-see-a-composer|Cleaned up logged-out mobile web experience]]
-- Later: 2026-06-09 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-06-09-2-interface-experience-changes-in-v1-0-61|2 Interface Experience changes in v1.0.61]]
+- Later: 2026-06-08 · v0 · [[Changes/v0/2026-06-08-3-interface-experience-changes-in-changelog-update|3 Interface Experience changes in Changelog update]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

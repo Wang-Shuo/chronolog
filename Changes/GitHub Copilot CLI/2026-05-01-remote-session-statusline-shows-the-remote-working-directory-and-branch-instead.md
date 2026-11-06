@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: ddec96512ba10c18465f2483c827ce1d793d667e6bcc5fc3aad4cbc7c6990a83
+machine_hash: 64cc4dfb6526543b53eeaaea0fbf198cc13533954cf68500909062f4bfee7c0f
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -42,10 +42,10 @@ record:
   title: Remote session statusline shows the remote working directory and branch instead…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-04-28-vscode-context-now-opens-a-native-token-usage-dialog|VSCode
-  /context now opens a native token usage dialog]]'
 - '[[Changes/GitHub Copilot CLI/2026-04-28-add-compact-context-usage-and-env-slash-commands-for-acp-sessions|Add
   /compact, /context, /usage, and /env slash commands for ACP sessions]]'
+- '[[Changes/Dify/2026-04-29-3-context-window-changes-in-1-14-0|3 Context Window changes
+  in 1.14.0]]'
 - '[[Changes/Codex CLI/2026-04-30-19805-add-multiagentv2-root-and-subagent-context-hints-jif-oai|♯19805
   Add MultiAgentV2 root and subagent context hints @jif-oai]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-05-01-v1-0-40-github-316385532-9c4aec71|github-copilot-cli-2026-05-01-v1-0-40-github-316385532-9c4aec71]]'

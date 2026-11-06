@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 10c856ffc5be71a92adaaec4ed7f61d350c0a9eb88a76d682f9542d7ae50086a
+machine_hash: 9d0e9cc950c3bbe9177412d6b7846ea77a92d7de9792ab3c636b6bacabe1575d
 product: claude-code
 product_name: Claude Code
 record:
@@ -53,10 +53,10 @@ record:
   title: Subagents and context compaction now inherit the session's extended thinking…
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-06-23-3-context-window-changes-in-v1-0-64|3 Context
-  Window changes in v1.0.64]]'
-- '[[Changes/Codex CLI/2026-06-25-2-context-window-changes-in-rust-v0-142-2|2 Context
-  Window changes in rust-v0.142.2]]'
+- '[[Changes/Dify/2026-06-25-3-context-window-changes-in-1-15-0|3 Context Window changes
+  in 1.15.0]]'
+- '[[Changes/Open WebUI/2026-06-29-3-context-window-changes-in-v0-10-0|3 Context Window
+  changes in v0.10.0]]'
 - '[[Changes/GitHub Copilot CLI/2026-06-30-keep-session-store-searches-and-context-lookups-responsive|Keep
   session-store searches and context lookups responsive]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-07-01-v2-1-198-github-347599701-9cec0dab|claude-code-2026-07-01-v2-1-198-github-347599701-9cec0dab]]'

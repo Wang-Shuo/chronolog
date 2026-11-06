@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: pricing
-machine_hash: b4812db8e821a267172a226390521b77146ffb67da20c71eafce9c6b1e9e7dfd
+machine_hash: 97fea0ae900499a2938d8ba4f2db9ce2e334f5bf834bb7fb258ad0c90cd69817
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -46,12 +46,10 @@ record:
   title: 'persisting credits if new snapshot does not contain credit info #7490 @[zhao-oai]'
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2025-11-03-eligible-customers-in-india-can-now-get-12-months-of-chatgpt-go-at-no-cost-new-u|ChatGPT
-  Go Promo - India]]'
-- '[[Changes/Gemini CLI/2025-11-07-fixing-minor-formatting-issues-in-quota-and-pricing-md-by-hyangah-in-https-githu|fixing
-  minor formatting issues in quota-and-pricing.md]]'
-- '[[Changes/Codex CLI/2025-11-19-credits-are-now-visible-in-status|Credits are now
-  visible in /status]]'
+- '[[Changes/Replit/2025-11-26-stripe-integrated-payments-for-core-users|Stripe Integrated
+  Payments for Core Users]]'
+- '[[Changes/ElevenLabs/2025-11-27-workspaces|Workspaces]]'
+- '[[Changes/DeepSeek API/2025-12-01-deepseek-v3-2-speciale|DeepSeek-V3.2-Speciale]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2025-12-04-rust-v0-65-0-github-267537191-959c7b4d|codex-cli-2025-12-04-rust-v0-65-0-github-267537191-959c7b4d]]'
 source_type: github_releases
 theme: pricing-model
@@ -86,8 +84,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Pricing Model
 
-- Earlier: 2025-11-19 · Codex CLI · [[Changes/Codex CLI/2025-11-19-credits-are-now-visible-in-status|Credits are now visible in /status]]
-- Later: 2025-12-18 · Cursor · [[Changes/Cursor/2025-12-18-billing-groups|Billing groups]]
+- Earlier: 2025-12-01 · DeepSeek API · [[Changes/DeepSeek API/2025-12-01-deepseek-v3-2-speciale|DeepSeek-V3.2-Speciale]]
+- Later: 2025-12-08 · ElevenLabs · [[Changes/ElevenLabs/2025-12-08-billing|Billing]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

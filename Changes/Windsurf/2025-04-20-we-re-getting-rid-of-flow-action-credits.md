@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: pricing
-machine_hash: afc97eed325a53448d590c957be0178d8e8afc5aac56f33d7b8d2e9183f52482
+machine_hash: 666cfcc1e88371f73245dddb6a02cc1bc1b772eefe12a49da890414cae875400
 product: windsurf
 product_name: Windsurf
 record:
@@ -57,10 +57,9 @@ record:
   title: We're getting rid of Flow Action Credits
   type: change
 related_changes:
-- '[[Changes/Aider/2025-03-31-warn-at-startup-if-stream-and-cache-prompts-are-used-together-as-cost-estimates|Warn
-  at startup if --stream and --cache-prompts are used together, as cost…]]'
 - '[[Changes/Aider/2025-04-04-prevent-retrying-api-calls-when-the-provider-reports-insufficient-credits|Prevent
   retrying API calls when the provider reports insufficient credits]]'
+- '[[Changes/ElevenLabs/2025-04-07-user-subscription|User Subscription]]'
 - '[[Changes/Cline/2025-04-15-eng-435-xai-provider-cost-issue-by-canvrno-in-https-github-com-cline-cline-pull|ENG-435/xAI
   provider cost issue]]'
 source_release: '[[Releases/Windsurf/windsurf-2025-04-20-v1-7-0-55878bca|windsurf-2025-04-20-v1-7-0-55878bca]]'
@@ -98,7 +97,7 @@ type: change
 ## Nearby in Pricing Model
 
 - Earlier: 2025-04-15 · Cline · [[Changes/Cline/2025-04-15-eng-435-xai-provider-cost-issue-by-canvrno-in-https-github-com-cline-cline-pull|ENG-435/xAI provider cost issue]]
-- Later: 2025-05-15 · Cursor · [[Changes/Cursor/2025-05-15-simpler-unified-pricing-6a915c|Simpler, unified pricing]]
+- Later: 2025-05-02 · Lovable · [[Changes/Lovable/2025-05-02-improvements|Improvements]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 3c9106ea37406be3ee3f4c6f350ffb99103625a712f2f869af7e3b7075d21342
+machine_hash: d0ed18bebf0456f2473571a1648b9aed3d0be3621b4a8b8193c275013eb6afa2
 product: cline
 product_name: Cline
 record:
@@ -42,8 +42,8 @@ record:
   title: Add repeated tool call loop detection to prevent infinite loops wasting tokens
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-03-25-starting-today-for-chatgpt-plus-pro-and-business-users-long-pastes-are-handled-d|Large
-  pastes are now handled as attachments]]'
+- '[[Changes/Open WebUI/2026-03-25-3-context-window-changes-in-v0-8-11|3 Context Window
+  changes in v0.8.11]]'
 - '[[Changes/Claude Code/2026-03-26-reduced-ui-stutter-when-compaction-triggers-on-large-sessions|Reduced
   UI stutter when compaction triggers on large sessions]]'
 - '[[Changes/Claude Code/2026-03-26-2-context-window-changes-in-v2-1-84|2 Context

@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 10f883fd9f8a76f19aa24f9922e2e8798172070bbc8ecd3424ace4824550e0a6
+machine_hash: 50e76ca6575ca97a8017248add5415b3ab7f2cbcddb39cdd9067a9350ac14e34
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -42,8 +42,8 @@ record:
   title: 2 Developer Workflow changes in rust-v0.31.0
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2025-09-02-2-developer-workflow-changes-in-rust-v0-28-0|2 Developer
-  Workflow changes in rust-v0.28.0]]'
+- '[[Changes/Dify/2025-09-03-2-developer-workflow-changes-in-1-8-1|2 Developer Workflow
+  changes in 1.8.1]]'
 - '[[Changes/Gemini CLI/2025-09-04-5-developer-workflow-changes-in-v0-3-0|5 Developer
   Workflow changes in v0.3.0]]'
 - '[[Changes/Codex CLI/2025-09-05-3-developer-workflow-changes-in-rust-v0-30-0|3 Developer

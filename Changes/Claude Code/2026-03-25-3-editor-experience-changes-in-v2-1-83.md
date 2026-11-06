@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: dfa4b3b7b0a0b99452f2df65fb9bc710cb995fc6cd35c29499cdbbc5799a8c3a
+machine_hash: d4df483b0a4ae3a9039d744a7abfddb4f32f3766c0868abfdf92da0d8bc5d305
 product: claude-code
 product_name: Claude Code
 record:
@@ -93,7 +93,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.83
 ## Nearby in Editor Experience
 
 - Earlier: 2026-03-20 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-03-20-elicitation-form-shows-shift-tab-hint-for-navigating-between-fields-in-reverse|Elicitation form shows Shift+Tab hint for navigating between fields in reverse]]
-- Later: 2026-03-26 · Codex CLI · [[Changes/Codex CLI/2026-03-26-15480-use-shift-left-to-edit-queued-messages-in-tmux-charley-oai|♯15480 Use Shift+Left to edit queued messages in tmux @charley-oai]]
+- Later: 2026-03-25 · Ollama · [[Changes/Ollama/2026-03-25-microsoft-visual-studio-code-now-directly-integrates-with-ollama-via-github-copi|Microsoft Visual Studio Code now directly integrates with Ollama via GitHub Copilot]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

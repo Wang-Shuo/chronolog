@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: f83fe113cc74048bed66ca3ea31da567e734c1aafb269fccf28639ec62c3eb78
+machine_hash: 7204355fcee6abd63df19dbcf21848311cd95e627626d03128805694941355c3
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -53,8 +53,8 @@ record:
   title: Zendesk & OneNote Plugins in ChatGPT and Codex [Beta]
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-09-01-16-apps-and-integrations-changes-in-rust-v0-152-0|16
-  Apps and Integrations changes in rust-v0.152.0]]'
+- '[[Changes/Lovable/2026-09-01-connect-a-tool-from-a-pasted-api-key|Connect a tool
+  from a pasted API key]]'
 - '[[Changes/Claude Code/2026-09-02-5-apps-and-integrations-changes-in-v2-1-259|5
   Apps and Integrations changes in v2.1.259]]'
 - '[[Changes/Cline/2026-09-02-2-apps-and-integrations-changes-in-v4-1-17|2 Apps and

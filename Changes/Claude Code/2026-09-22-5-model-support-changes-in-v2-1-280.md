@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: cfd925b4bd941f3b3bde4f4ecfe854dbc0bd5677848704ba5c3af343cd2dbc7e
+machine_hash: abf185a168614a4d901845767f504187d93040550501309805522f951c2fea15
 product: claude-code
 product_name: Claude Code
 record:
@@ -55,12 +55,11 @@ record:
   title: 5 Model Support changes in v2.1.280
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-18-changed-fable-to-always-appear-in-model-on-the-anthropic-api-it-is-greyed-out-on|Changed
-  Fable to always appear in /model on the Anthropic API]]'
-- '[[Changes/Codex CLI/2026-09-18-2-model-support-changes-in-rust-v0-155-1|2 Model
-  Support changes in rust-v0.155.1]]'
-- '[[Changes/GitHub Copilot CLI/2026-09-21-enable-the-rubber-duck-agent-for-every-model-family-and-for-low-cost-tier-sessio|Enable
-  the rubber-duck agent for every model family and for low-cost-tier session models]]'
+- '[[Changes/Lovable/2026-09-21-jev-for-typed-decisions-in-your-app-s-ai-features|Jev
+  for typed decisions in your app''s AI features]]'
+- '[[Changes/Open WebUI/2026-09-21-41-model-support-changes-in-v0-11-4|41 Model Support
+  changes in v0.11.4]]'
+- '[[Changes/Claude/2026-09-22-claude-opus-5-5-launch|Claude Opus 5.5 launch]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-22-v2-1-280-github-393879189-1cf5db2b|claude-code-2026-09-22-v2-1-280-github-393879189-1cf5db2b]]'
 source_type: github_releases
 theme: model-support
@@ -107,7 +106,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.280
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-09-21 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-09-21-enable-the-rubber-duck-agent-for-every-model-family-and-for-low-cost-tier-sessio|Enable the rubber-duck agent for every model family and for low-cost-tier session models]]
+- Earlier: 2026-09-22 · Claude · [[Changes/Claude/2026-09-22-claude-opus-5-5-launch|Claude Opus 5.5 launch]]
 - Later: 2026-09-22 · Cline · [[Changes/Cline/2026-09-22-3-model-support-changes-in-v4-1-20|3 Model Support changes in v4.1.20]]
 <!-- chronolog:end -->
 

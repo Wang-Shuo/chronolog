@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: memory
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: ab2836e5c0ce0788f8bd4a8dd369fc4098e446531cb15f9454cf77066a4f9095
+machine_hash: 6e1f9c739e7f6695ccb5ff589070b8f8aeb54d6d11c41f7c9267bcfca11edb65
 product: windsurf
 product_name: Windsurf
 record:
@@ -102,7 +102,7 @@ type: change
 ## Nearby in Memory and Personalization
 
 - Earlier: 2025-02-24 · OpenHands · [[Changes/OpenHands/2025-02-24-enable-memory-condensation-from-settings-page-by-csmith49-in-https-github-com-al|Enable memory condensation from settings page]]
-- Later: 2025-04-16 · ChatGPT · [[Changes/ChatGPT/2025-04-16-chatgpt-can-also-use-memories-to-inform-search-queries-when-chatgpt-searches-the|Memory with Search]]
+- Later: 2025-04-09 · Dify · [[Changes/Dify/2025-04-09-feat-agent-node-add-memory-by-nov1c444-in-https-github-com-langgenius-dify-pull|feat: agent node add memory]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 2264bb252f54561e9deeb1585917863cd7fe50913610a3ec6692df5ea12bb9b4
+machine_hash: c7b5e25489ce9903793941ebc12d9e8133e8159b0ae78ae8280ef5947e54a814
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -51,8 +51,8 @@ record:
   title: 4 Apps and Integrations changes in v1.0.51
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-05-19-install-the-integration-from-cursor-integrations-you-need-cursor-admin-access-an|Install
-  the integration from Cursor integrations]]'
+- '[[Changes/Gemini/2026-05-19-gemini-can-connect-to-more-apps-starting-with-opentable-canva-and-instacart|Gemini
+  can connect to more apps, starting with OpenTable, Canva, and Instacart]]'
 - '[[Changes/GitHub Copilot CLI/2026-05-19-9-apps-and-integrations-changes-in-v1-0-49|9
   Apps and Integrations changes in v1.0.49]]'
 - '[[Changes/Codex CLI/2026-05-20-9-apps-and-integrations-changes-in-rust-v0-132-0|9

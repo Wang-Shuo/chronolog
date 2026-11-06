@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 7a9807f05b46f685db2ebe6f99b9087d5b89a47a91887cd51a6b77f7376c0520
+machine_hash: 2fd21f0c3fb73a2632d086bcba754910898328caf609b2553cece85dc6988cc7
 product: aider
 product_name: Aider
 record:
@@ -42,10 +42,10 @@ record:
   title: Co-authored-by attribution is now enabled by default for commit messages
   type: change
 related_changes:
-- '[[Changes/OpenHands/2025-06-20-example-code-review-microagent-by-jpelletier1-in-https-github-com-all-hands-ai-o|Example
-  code review microagent]]'
 - '[[Changes/OpenHands/2025-06-24-introduced-optional-vi-style-keybindings-for-confirmation-prompts-navigating-men|Introduced
   optional vi-style keybindings for confirmation prompts navigating menus…]]'
+- '[[Changes/Dify/2025-06-25-2-developer-workflow-changes-in-1-5-0|2 Developer Workflow
+  changes in 1.5.0]]'
 - '[[Changes/Aider/2025-06-27-3-developer-workflow-changes-in-v0-85-0|3 Developer
   Workflow changes in v0.85.0]]'
 source_release: '[[Releases/Aider/aider-2025-06-27-v0-85-0-github-228491827-20a4ecc7|aider-2025-06-27-v0-85-0-github-228491827-20a4ecc7]]'
@@ -82,7 +82,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2025-06-24 · OpenHands · [[Changes/OpenHands/2025-06-24-introduced-optional-vi-style-keybindings-for-confirmation-prompts-navigating-men|Introduced optional vi-style keybindings for confirmation prompts navigating menus…]]
+- Earlier: 2025-06-25 · Dify · [[Changes/Dify/2025-06-25-2-developer-workflow-changes-in-1-5-0|2 Developer Workflow changes in 1.5.0]]
 - Later: 2025-06-27 · OpenHands · [[Changes/OpenHands/2025-06-27-changed-terminal-truncation-to-trim-middle-of-long-outputs-instead-of-suffix-by|Changed terminal truncation to trim middle of long outputs instead of suffix]]
 <!-- chronolog:end -->
 

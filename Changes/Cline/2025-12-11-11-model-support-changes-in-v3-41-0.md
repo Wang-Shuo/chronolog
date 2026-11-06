@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 8dcfd2f6b794ebc109d4a4dbe95f92e22753fd1e81d43034df1f83c0a2cbeb7b
+machine_hash: 56f762b1fd74d90129630bfb33fc31f9c249cb710e52a4a5ee72319932b5388f
 product: cline
 product_name: Cline
 record:
@@ -68,10 +68,9 @@ record:
   title: 11 Model Support changes in v3.41.0
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2025-12-10-3-model-support-changes-in-rust-v0-69-0|3 Model
-  Support changes in rust-v0.69.0]]'
 - '[[Changes/GitHub Copilot CLI/2025-12-10-add-grep-tool-codex-models|Add grep tool
   Codex models]]'
+- '[[Changes/Lovable/2025-12-10-opus-4-5-as-a-core-model|Opus 4.5 as a core model]]'
 - '[[Changes/ChatGPT/2025-12-11-today-we-re-releasing-gpt-5-2-the-next-upgrade-to-the-gpt-5-series-gpt-5-2-is-sm|Today,
   we’re releasing GPT-5.2, the next upgrade to the GPT-5 series]]'
 source_release: '[[Releases/Cline/cline-2025-12-11-v3-41-0-github-269664920-dcb387db|cline-2025-12-11-v3-41-0-github-269664920-dcb387db]]'

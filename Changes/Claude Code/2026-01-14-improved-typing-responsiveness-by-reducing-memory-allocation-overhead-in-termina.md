@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: ccffcf5dac9da8f108e781244e657ec82b408bfbb260d3bfc61b6b4e420b6901
+machine_hash: a2632bf21119233c9ddedcc3ee1ff9e6652b07817615c87119967a0e676ec1a3
 product: claude-code
 product_name: Claude Code
 record:
@@ -57,8 +57,8 @@ record:
     terminal…
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-01-09-codex-cli-subprocesses-again-inherit-env-vars-like-ld-library-path-dyld-library|Codex
-  CLI subprocesses again inherit env vars like…]]'
+- '[[Changes/Dify/2026-01-13-4-reliability-and-performance-changes-in-1-11-3|4 Reliability
+  and Performance changes in 1.11.3]]'
 - '[[Changes/GitHub Copilot CLI/2026-01-13-sessions-with-large-conversation-history-load-faster-on-startup|Sessions
   with large conversation history load faster on startup]]'
 - '[[Changes/Windsurf/2026-01-13-2-reliability-and-performance-changes-in-v1-13-6|2

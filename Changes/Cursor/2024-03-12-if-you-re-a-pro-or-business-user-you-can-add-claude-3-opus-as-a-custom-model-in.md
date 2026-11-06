@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 1a5046aaf493c1958175f20402524ffa77f619e7f2b79a809959f43d293ddaff
+machine_hash: 200f56858b7340ff384dae0af3f4741ec87a4fea528e8063b5bbde6953aedeaa
 product: cursor
 product_name: Cursor
 record:
@@ -48,12 +48,12 @@ record:
   title: Claude Support
   type: change
 related_changes:
-- '[[Changes/Aider/2024-02-03-added-support-for-model-gpt-4-0125-preview-and-openai-s-alias-model-gpt-4-turbo|Added
-  support for --model gpt-4-0125-preview and OpenAI''s alias…]]'
-- '[[Changes/Aider/2024-02-10-default-gpt-3-5-model-is-now-gpt-3-5-turbo-0125|Default
-  GPT 3.5 model is now gpt-3.5-turbo-0125]]'
 - '[[Changes/Aider/2024-03-08-2-model-support-changes-in-v0-26-0|2 Model Support changes
   in v0.26.0]]'
+- '[[Changes/Ollama/2024-03-10-experimental-support-for-importing-safetensors-models-using-the-from-directory-w|Experimental
+  support for importing Safetensors models using…]]'
+- '[[Changes/Open WebUI/2024-03-10-4-model-support-changes-in-v0-1-111|4 Model Support
+  changes in v0.1.111]]'
 source_release: '[[Releases/Cursor/cursor-2024-03-12-claude-support-https-cursor-com-changelog-claude-support-ed1eb90a|cursor-2024-03-12-claude-support-https-cursor-com-changelog-claude-support-ed1eb90a]]'
 source_type: cursor_changelog
 theme: model-support
@@ -80,8 +80,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2024-03-08 · Aider · [[Changes/Aider/2024-03-08-2-model-support-changes-in-v0-26-0|2 Model Support changes in v0.26.0]]
-- Later: 2024-03-20 · Cursor · [[Changes/Cursor/2024-03-20-stable-claude-support-all-the-newest-claude-models-are-available-for-pro-and-api|Stable Claude Support]]
+- Earlier: 2024-03-10 · Open WebUI · [[Changes/Open WebUI/2024-03-10-4-model-support-changes-in-v0-1-111|4 Model Support changes in v0.1.111]]
+- Later: 2024-03-12 · Dify · [[Changes/Dify/2024-03-12-8-model-support-changes-in-0-5-9|8 Model Support changes in 0.5.9]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

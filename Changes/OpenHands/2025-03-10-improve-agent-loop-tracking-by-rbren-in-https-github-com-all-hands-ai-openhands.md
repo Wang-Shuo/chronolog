@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: 3a49677300afc458c13476b748e33ab4bb1a04106f442c7e93cae2276b02f345
+machine_hash: 77481adac4d6b190116586f385bc564f6cf6ef0cbb1308b85e5fd7563d49317e
 product: openhands
 product_name: OpenHands
 record:
@@ -43,12 +43,9 @@ record:
   title: Improve agent loop tracking
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-02-19-agent-is-ready-agent-is-now-the-default-mode-bringing-a-more-powerful-and-unifie|Agent
-  is ready: Agent is now the default mode, bringing a more powerful and unified…]]'
-- '[[Changes/Cursor/2025-02-19-agent-tool-limit-upon-reaching-the-25-tool-call-limit-you-can-press-continue-to|Agent
-  tool limit]]'
-- '[[Changes/OpenHands/2025-03-07-3-agent-mode-changes-in-0-28-0|3 Agent Mode changes
-  in 0.28.0]]'
+- '[[Changes/ElevenLabs/2025-03-10-agents-platform|Agents Platform]]'
+- '[[Changes/ElevenLabs/2025-03-10-agents-platform-c12c49|Agents Platform]]'
+- '[[Changes/ElevenLabs/2025-03-10-removed-endpoints|Removed Endpoints]]'
 source_release: '[[Releases/OpenHands/openhands-2025-03-10-0-28-1-github-204800001-8d43d7fe|openhands-2025-03-10-0-28-1-github-204800001-8d43d7fe]]'
 source_type: github_releases
 theme: agent-mode
@@ -77,8 +74,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2025-03-07 · OpenHands · [[Changes/OpenHands/2025-03-07-3-agent-mode-changes-in-0-28-0|3 Agent Mode changes in 0.28.0]]
-- Later: 2025-03-23 · Cursor · [[Changes/Cursor/2025-03-23-built-in-modes-custom-modes-beta|Built-in modes & custom modes (beta)]]
+- Earlier: 2025-03-10 · ElevenLabs · [[Changes/ElevenLabs/2025-03-10-removed-endpoints|Removed Endpoints]]
+- Later: 2025-03-17 · ElevenLabs · [[Changes/ElevenLabs/2025-03-17-agents-platform|Agents Platform]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

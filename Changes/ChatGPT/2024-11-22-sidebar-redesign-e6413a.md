@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: ae55318121989218585295b9364af9b3d01ecf280fd476a6b81e7593359c9499
+machine_hash: e41de043e1558ce2f7c2005f6ad618c9d3562daf5a91dee06b0c27706999fb01
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -53,8 +53,8 @@ record:
   title: Sidebar redesign
   type: change
 related_changes:
-- '[[Changes/Aider/2024-09-29-new-settings-for-completion-menu-colors|New settings
-  for completion menu colors]]'
+- "[[Changes/Open WebUI/2024-11-19-user-settings-search-quickly-search-for-settings-fields-improving-ease-of-use-an|\U0001F50D
+  User Settings Search]]"
 - '[[Changes/Aider/2024-11-21-improved-model-settings-configuration-https-aider-chat-docs-config-adv-model-set|Improved
   model settings…]]'
 - '[[Changes/ChatGPT/2024-11-22-the-new-chat-button-has-been-moved-to-the-left-of-the-model-picker-to-be-easier|The
@@ -100,7 +100,7 @@ type: change
 ## Nearby in Interface Experience
 
 - Earlier: 2024-11-21 · Aider · [[Changes/Aider/2024-11-21-improved-model-settings-configuration-https-aider-chat-docs-config-adv-model-set|Improved model settings…]]
-- Later: 2024-11-24 · Cursor · [[Changes/Cursor/2024-11-24-composer-ui-in-the-sidebar-with-inline-diffs|Composer UI in the sidebar with inline diffs]]
+- Later: 2024-11-23 · Open WebUI · [[Changes/Open WebUI/2024-11-23-mobile-controls-visibility-resolved-an-issue-where-the-controls-button-was-not-d|📱 Mobile Controls Visibility]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

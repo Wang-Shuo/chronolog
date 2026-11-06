@@ -5,20 +5,20 @@ description: 'Claude Code · 2026-04-28 · Enterprise and Administration: Pastin
   PR URL into the `/resume` search box now finds the session that created that PR
   (GitHub…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2024-03-20-admin-improvements-team-admins-can-now-mark-themselves-as-unpaid-users-and-can-s|Admin
-    improvements: Team admins can now mark themselves as unpaid users and can see…]]'
+  first_in_tracked: '[[Changes/Gemini/2023-05-05-access-for-google-workspace-accounts|Access
+    for Google Workspace accounts]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 769
+  lag_days: 1089
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: cdf4db6dc207a5b4a409502a18567af13607d021b158622b04100a83a3196e8d
+machine_hash: 28a7887033a8f75f45dc8b41ed769510bbbe2667d86cdefdddec3b34eb89d0e5
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,12 +45,10 @@ record:
     created…
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-04-10-the-readme-now-uses-the-current-chatgpt-business-plan-name-16348|The
-  README now uses the current ChatGPT Business plan name (♯16348)]]'
-- '[[Changes/ChatGPT/2026-04-16-we-re-beginning-to-roll-out-ads-for-users-on-free-and-go-plans-in-australia-new|Rolling
-  out ads in Australia, New Zealand, and Canada]]'
-- '[[Changes/Claude Code/2026-04-23-added-disable-updates-env-var-to-completely-block-all-update-paths-including-man|Added
-  DISABLE_UPDATES env var to completely block all update paths including…]]'
+- '[[Changes/Lovable/2026-04-24-improvements-and-bug-fixes|Improvements and bug fixes]]'
+- '[[Changes/Lovable/2026-04-24-group-based-access-and-granular-publishing|Group-based
+  access and granular publishing]]'
+- '[[Changes/Lovable/2026-04-24-workspace-provisioning|Workspace provisioning]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-04-28-v2-1-122-github-314740479-0cc42196|claude-code-2026-04-28-v2-1-122-github-314740479-0cc42196]]'
 source_type: github_releases
 theme: enterprise-admin
@@ -82,14 +80,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Enterprise and Administration
 
-- Earlier: 2026-04-23 · Claude Code · [[Changes/Claude Code/2026-04-23-added-disable-updates-env-var-to-completely-block-all-update-paths-including-man|Added DISABLE_UPDATES env var to completely block all update paths including…]]
-- Later: 2026-05-04 · Cursor · [[Changes/Cursor/2026-05-04-this-release-introduces-updates-for-enterprise-admins-a-new-system-for-model-con|Cursor introduces updates for Enterprise admins]]
+- Earlier: 2026-04-24 · Lovable · [[Changes/Lovable/2026-04-24-workspace-provisioning|Workspace provisioning]]
+- Later: 2026-04-29 · Dify · [[Changes/Dify/2026-04-29-2-enterprise-and-administration-changes-in-1-14-0|2 Enterprise and Administration changes in 1.14.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2024-03-20 · Cursor · [[Changes/Cursor/2024-03-20-admin-improvements-team-admins-can-now-mark-themselves-as-unpaid-users-and-can-s|Admin improvements: Team admins can now mark themselves as unpaid users and can see…]]
+- Earliest same-theme entry in the tracked set: 2023-05-05 · Gemini · [[Changes/Gemini/2023-05-05-access-for-google-workspace-accounts|Access for Google Workspace accounts]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

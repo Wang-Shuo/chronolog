@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: e7e55f76fd77d6597c1125602c06f3436b755dae2c182c907919a7e488e617c8
+machine_hash: 16e108898dad4802095e17c5e1abd3df92419942ab4617f5960ad1288bd31e57
 product: claude-code
 product_name: Claude Code
 record:
@@ -54,12 +54,12 @@ record:
   title: '`/context all` per-skill token estimates now account for the model''s tokenizer…'
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-05-06-you-can-now-see-a-breakdown-of-your-agent-s-context-usage-e005b2|Context
-  Usage Breakdown]]'
-- '[[Changes/Codex CLI/2026-05-07-7-context-window-changes-in-rust-v0-129-0|7 Context
-  Window changes in rust-v0.129.0]]'
-- '[[Changes/Codex CLI/2026-05-08-2-context-window-changes-in-rust-v0-130-0|2 Context
-  Window changes in rust-v0.130.0]]'
+- '[[Changes/Replit/2026-05-08-external-access-tokens-for-private-deployments|External
+  access tokens for Private Deployments]]'
+- '[[Changes/Open WebUI/2026-05-09-4-context-window-changes-in-v0-9-3|4 Context Window
+  changes in v0.9.3]]'
+- "[[Changes/Open WebUI/2026-05-10-file-ownership-in-folder-and-knowledge-attachments-attaching-files-to-folders-or|\U0001F510
+  File ownership in folder and knowledge attachments. Attaching files to folders…]]"
 source_release: '[[Releases/Claude Code/claude-code-2026-05-11-v2-1-139-github-320692766-5e65de7d|claude-code-2026-05-11-v2-1-139-github-320692766-5e65de7d]]'
 source_type: github_releases
 theme: context-window
@@ -97,8 +97,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Context Window
 
-- Earlier: 2026-05-08 · Codex CLI · [[Changes/Codex CLI/2026-05-08-2-context-window-changes-in-rust-v0-130-0|2 Context Window changes in rust-v0.130.0]]
-- Later: 2026-05-13 · Claude Code · [[Changes/Claude Code/2026-05-13-rewind-menu-added-summarize-up-to-here-to-compress-earlier-context-while-keeping|Rewind menu: added "Summarize up to here" to compress earlier context while keeping…]]
+- Earlier: 2026-05-10 · Open WebUI · [[Changes/Open WebUI/2026-05-10-file-ownership-in-folder-and-knowledge-attachments-attaching-files-to-folders-or|🔐 File ownership in folder and knowledge attachments. Attaching files to folders…]]
+- Later: 2026-05-12 · Dify · [[Changes/Dify/2026-05-12-refactor-web-migrate-workflow-panel-context-menu-primitive-by-lyzno1-in-https-gi|refactor(web): migrate workflow panel context menu primitive]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

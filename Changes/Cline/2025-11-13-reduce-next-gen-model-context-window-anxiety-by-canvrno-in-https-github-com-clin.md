@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 17503bfbe3862d86e6000daea64c60ff9a7be04d0d0a760d9ce16f2583b0cce9
+machine_hash: 9d18ddf1280cf80f319203255c946d3f70c471700ffafd42578765c4ecb644f1
 product: cline
 product_name: Cline
 record:
@@ -54,11 +54,12 @@ record:
   title: Reduce next-gen model context window anxiety
   type: change
 related_changes:
-- '[[Changes/Windsurf/2025-11-04-cascade-summarization-fix|Cascade Summarization Fix]]'
-- '[[Changes/Cline/2025-11-06-use-context-aware-task-manager-for-quick-auth-by-canvrno-in-https-github-com-cli|Use
-  context-aware task manager for quick auth]]'
+- '[[Changes/Open WebUI/2025-11-06-3-context-window-changes-in-v0-6-35|3 Context Window
+  changes in v0.6.35]]'
 - '[[Changes/Gemini CLI/2025-11-07-remove-context-percentage-in-footer-by-default-by-abhipatel12-in-https-github-co|Remove
   context percentage in footer by default]]'
+- '[[Changes/Ollama/2025-11-12-2-context-window-changes-in-v0-12-11|2 Context Window
+  changes in v0.12.11]]'
 source_release: '[[Releases/Cline/cline-2025-11-13-v3-37-0-github-262246065-f6c1ac93|cline-2025-11-13-v3-37-0-github-262246065-f6c1ac93]]'
 source_type: github_releases
 theme: context-window
@@ -94,7 +95,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Context Window
 
-- Earlier: 2025-11-07 · Gemini CLI · [[Changes/Gemini CLI/2025-11-07-remove-context-percentage-in-footer-by-default-by-abhipatel12-in-https-github-co|Remove context percentage in footer by default]]
+- Earlier: 2025-11-12 · Ollama · [[Changes/Ollama/2025-11-12-2-context-window-changes-in-v0-12-11|2 Context Window changes in v0.12.11]]
 - Later: 2025-11-13 · Codex CLI · [[Changes/Codex CLI/2025-11-13-6597-feat-proxy-context-left-after-compaction-2a417c47a|♯6597 — feat: proxy context left after compaction (2a417c47a)]]
 <!-- chronolog:end -->
 

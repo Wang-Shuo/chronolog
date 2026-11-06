@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 9460dfb42680f48d61d0b64018dd2f9e8a466978878646653abfd87120dbab5a
+machine_hash: 9fd712b36ce800e433d1770bfa674359bfe036e9e1f0ccb215091da757ffea18
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -40,11 +40,12 @@ record:
   title: Improve `Ctrl+C` performance
   type: change
 related_changes:
-- '[[Changes/Cline/2025-10-31-refactor-ui-improve-tooltip-and-task-header-responsiveness-by-abeatrix-in-https|refactor(ui):
-  improve tooltip and task header responsiveness]]'
-- '[[Changes/Windsurf/2025-11-04-performance-improvements|Performance Improvements]]'
+- '[[Changes/Open WebUI/2025-11-06-3-reliability-and-performance-changes-in-v0-6-35|3
+  Reliability and Performance changes in v0.6.35]]'
 - '[[Changes/Gemini CLI/2025-11-07-refactor-todo-improve-performance-and-readability-of-todo-component-by-miguelsol|refactor(todo):
   improve performance and readability of todo component]]'
+- '[[Changes/Ollama/2025-11-12-improved-rendering-performance-in-ollama-s-new-app-especially-when-rendering-cod|Improved
+  rendering performance in Ollama''s new app, especially when rendering code]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2025-11-17-v0-0-359-github-263127541-a6162e30|github-copilot-cli-2025-11-17-v0-0-359-github-263127541-a6162e30]]'
 source_type: github_releases
 theme: reliability-performance
@@ -76,7 +77,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2025-11-07 · Gemini CLI · [[Changes/Gemini CLI/2025-11-07-refactor-todo-improve-performance-and-readability-of-todo-component-by-miguelsol|refactor(todo): improve performance and readability of todo component]]
+- Earlier: 2025-11-12 · Ollama · [[Changes/Ollama/2025-11-12-improved-rendering-performance-in-ollama-s-new-app-especially-when-rendering-cod|Improved rendering performance in Ollama's new app, especially when rendering code]]
 - Later: 2025-11-19 · Codex CLI · [[Changes/Codex CLI/2025-11-19-native-compaction-support-added-first-class-support-for-compaction-improving-per|Native Compaction Support]]
 <!-- chronolog:end -->
 

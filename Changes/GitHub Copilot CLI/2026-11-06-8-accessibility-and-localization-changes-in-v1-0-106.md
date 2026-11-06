@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: accessibility-localization
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 533d92a9e07a7c63e409d26106b6b2e62474ef3e5817077597c17d83c46f60ab
+machine_hash: afb3b8795b53ef40f71532cb2bdb2da005245e106dd7acb298378a940b5f1e62
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -68,12 +68,12 @@ record:
   title: 8 Accessibility and Localization changes in v1.0.106
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-20-vscode-added-a-running-start-up-hooks-spinner-status-with-a-screen-reader-announ|VSCode
-  Added a "Running start-up hooks" spinner status, with a screen reader…]]'
-- '[[Changes/Claude Code/2026-10-21-changed-the-axscreenreader-setting-and-claude-ax-screen-reader-in-a-settings-env|Changed
-  the axScreenReader setting and CLAUDE_AX_SCREEN_READER in a settings…]]'
-- '[[Changes/Claude Code/2026-10-26-3-accessibility-and-localization-changes-in-v2-1-311|3
-  Accessibility and Localization changes in v2.1.311]]'
+- '[[Changes/Open WebUI/2026-10-29-improved-ui-accessibility-screen-reader-and-keyboard-users-can-now-move-through|♿
+  Improved UI accessibility. Screen reader and keyboard users can now move…]]'
+- '[[Changes/Open WebUI/2026-11-03-accessibility-improvements-screen-reader-users-now-hear-a-name-for-every-window|♿
+  Accessibility improvements. Screen reader users now hear a name for every…]]'
+- '[[Changes/Dify/2026-11-04-summary-strong-improvements-editing-accessibility-performance-and-operations-str|summarystrongImprovements
+  · editing, accessibility, performance…]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-11-06-v1-0-106-github-435988160-ec5b15d4|github-copilot-cli-2026-11-06-v1-0-106-github-435988160-ec5b15d4]]'
 source_type: github_releases
 theme: accessibility-localization
@@ -137,7 +137,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.106
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Accessibility and Localization
 
-- Earlier: 2026-10-26 · Claude Code · [[Changes/Claude Code/2026-10-26-3-accessibility-and-localization-changes-in-v2-1-311|3 Accessibility and Localization changes in v2.1.311]]
+- Earlier: 2026-11-04 · Dify · [[Changes/Dify/2026-11-04-summary-strong-improvements-editing-accessibility-performance-and-operations-str|summarystrongImprovements · editing, accessibility, performance…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

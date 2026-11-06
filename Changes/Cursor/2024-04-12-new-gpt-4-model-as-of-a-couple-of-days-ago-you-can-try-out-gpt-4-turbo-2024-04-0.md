@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: ef390d62b82ce91ea5b1f93e943f0691309b7b509b0872274d8d8361ae61242e
+machine_hash: ba3b9f4b48b073bcba4386ce0107b82c1d077027caa1e0edb94fde520756e8f7
 product: cursor
 product_name: Cursor
 record:
@@ -48,12 +48,12 @@ record:
   title: 'New GPT-4 model: As of a couple of days ago, you can try out gpt-4-turbo-2024-04-09…'
   type: change
 related_changes:
-- '[[Changes/Cursor/2024-03-12-if-you-re-a-pro-or-business-user-you-can-add-claude-3-opus-as-a-custom-model-in|Claude
-  Support]]'
-- '[[Changes/Cursor/2024-03-20-stable-claude-support-all-the-newest-claude-models-are-available-for-pro-and-api|Stable
-  Claude Support]]'
-- '[[Changes/Aider/2024-04-09-4-model-support-changes-in-v0-28-0|4 Model Support changes
-  in v0.28.0]]'
+- '[[Changes/Ollama/2024-04-10-6-model-support-changes-in-v0-1-32|6 Model Support
+  changes in v0.1.32]]'
+- "[[Changes/Open WebUI/2024-04-10-update-rag-embedding-model-customize-rag-embedding-model-directly-in-document-se|\U0001F50D
+  Update RAG Embedding Model]]"
+- '[[Changes/Dify/2024-04-11-9-model-support-changes-in-0-6-2|9 Model Support changes
+  in 0.6.2]]'
 source_release: '[[Releases/Cursor/cursor-2024-04-12-0-32-x-https-cursor-com-changelog-0-32-x-ce3690fc|cursor-2024-04-12-0-32-x-https-cursor-com-changelog-0-32-x-ce3690fc]]'
 source_type: cursor_changelog
 theme: model-support
@@ -84,8 +84,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2024-04-09 · Aider · [[Changes/Aider/2024-04-09-4-model-support-changes-in-v0-28-0|4 Model Support changes in v0.28.0]]
-- Later: 2024-04-21 · Aider · [[Changes/Aider/2024-04-21-4-model-support-changes-in-v0-29-0|4 Model Support changes in v0.29.0]]
+- Earlier: 2024-04-11 · Dify · [[Changes/Dify/2024-04-11-9-model-support-changes-in-0-6-2|9 Model Support changes in 0.6.2]]
+- Later: 2024-04-16 · Dify · [[Changes/Dify/2024-04-16-7-model-support-changes-in-0-6-3|7 Model Support changes in 0.6.3]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

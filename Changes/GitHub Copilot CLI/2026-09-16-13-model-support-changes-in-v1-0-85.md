@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 10716b03ccd7012e341283d0f8fa46a77652f93065c7db23c8c3898aaebaea96
+machine_hash: 7f6b400ef53022af30d6b4ee9ba62aa4413c11ccb8f4dd5b1cfe5a67b288f09d
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -76,12 +76,12 @@ record:
   title: 13 Model Support changes in v1.0.85
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-09-14-we-re-retiring-automatic-switching-from-instant-to-thinking-reasoning-for-chatgp|Changes
-  to automatic switching to thinking in ChatGPT (Plus and Pro)]]'
-- '[[Changes/Claude Code/2026-09-14-2-model-support-changes-in-v2-1-271|2 Model Support
-  changes in v2.1.271]]'
+- '[[Changes/Ollama/2026-09-14-2-model-support-changes-in-v0-34-1|2 Model Support
+  changes in v0.34.1]]'
 - '[[Changes/Claude Code/2026-09-15-changed-bug-and-feedback-reports-to-include-only-model-behavior-params-model-sys|Changed
   /bug and /feedback reports to include only model-behavior params…]]'
+- '[[Changes/Lovable/2026-09-15-removed-workspace-level-ai-model-training-setting|Removed:
+  workspace-level AI model training setting]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-09-16-v1-0-85-github-389603482-889a46d9|github-copilot-cli-2026-09-16-v1-0-85-github-389603482-889a46d9]]'
 source_type: github_releases
 theme: model-support
@@ -152,7 +152,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.85
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-09-15 · Claude Code · [[Changes/Claude Code/2026-09-15-changed-bug-and-feedback-reports-to-include-only-model-behavior-params-model-sys|Changed /bug and /feedback reports to include only model-behavior params…]]
+- Earlier: 2026-09-15 · Lovable · [[Changes/Lovable/2026-09-15-removed-workspace-level-ai-model-training-setting|Removed: workspace-level AI model training setting]]
 - Later: 2026-09-16 · OpenHands · [[Changes/OpenHands/2026-09-16-feat-add-gpt-6-astra-model-support-by-neubig-in-https-github-com-openhands-openh|feat: add GPT-6 Astra model support]]
 <!-- chronolog:end -->
 

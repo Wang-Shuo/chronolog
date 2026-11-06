@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 85f41ef804c87fa4a997487da485ee8708ef52373728b188868e5e86c533fda8
+machine_hash: ead0594d07740b616c355592dba223b2c8d474f50def5cebb4eebce78cf4b349
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,12 +45,12 @@ record:
   title: Added Windows ARM64 (win32-arm64) native binary support
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-02-05-detached-shell-processes-work-on-vanilla-macos-installations|Detached
-  shell processes work on vanilla macOS installations]]'
-- '[[Changes/Codex CLI/2026-02-11-4-mobile-and-desktop-changes-in-rust-v0-99-0|4 Mobile
-  and Desktop changes in rust-v0.99.0]]'
 - '[[Changes/Codex CLI/2026-02-12-4-mobile-and-desktop-changes-in-rust-v0-100-0|4
   Mobile and Desktop changes in rust-v0.100.0]]'
+- '[[Changes/Ollama/2026-02-12-installing-ollama-via-the-curl-install-script-on-macos-will-now-only-prompt-for|Installing
+  Ollama via the curl install script on macOS will now only prompt…]]'
+- "[[Changes/Open WebUI/2026-02-12-gboard-multi-line-paste-fix-multi-line-text-pasted-from-gboard-on-android-now-in|\U0001F4F1
+  Gboard multi-line paste fix. Multi-line text pasted from Gboard on Android now…]]"
 source_release: '[[Releases/Claude Code/claude-code-2026-02-13-v2-1-41-github-285970764-07a64ba8|claude-code-2026-02-13-v2-1-41-github-285970764-07a64ba8]]'
 source_type: github_releases
 theme: mobile-desktop
@@ -82,7 +82,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2026-02-12 · Codex CLI · [[Changes/Codex CLI/2026-02-12-4-mobile-and-desktop-changes-in-rust-v0-100-0|4 Mobile and Desktop changes in rust-v0.100.0]]
+- Earlier: 2026-02-12 · Open WebUI · [[Changes/Open WebUI/2026-02-12-gboard-multi-line-paste-fix-multi-line-text-pasted-from-gboard-on-android-now-in|📱 Gboard multi-line paste fix. Multi-line text pasted from Gboard on Android now…]]
 - Later: 2026-02-17 · Codex CLI · [[Changes/Codex CLI/2026-02-17-2-mobile-and-desktop-changes-in-rust-v0-102-0|2 Mobile and Desktop changes in rust-v0.102.0]]
 <!-- chronolog:end -->
 

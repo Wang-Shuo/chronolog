@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: d56d701ba25fa543b3170330223a84f23e0eac1d614f6c860103815874ec57f7
+machine_hash: 3e43eff6ee07b2c1b1a90aaa3a5eb9ecb3c5c514eb6aab7093f9decf0039ffe0
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -83,7 +83,7 @@ type: change
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-04-10 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-04-10-pretooluse-hooks-now-respect-modifiedargs-updatedinput-and-additionalcontext-fie|preToolUse hooks now respect modifiedArgs/updatedInput, and additionalContext fields]]
-- Later: 2026-04-11 · Codex CLI · [[Changes/Codex CLI/2026-04-11-4-apps-and-integrations-changes-in-rust-v0-120-0|4 Apps and Integrations changes in rust-v0.120.0]]
+- Later: 2026-04-10 · Replit · [[Changes/Replit/2026-04-10-revenuecat-app-store-connect-sync|RevenueCat App Store Connect sync]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

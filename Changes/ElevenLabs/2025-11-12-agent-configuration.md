@@ -1,0 +1,130 @@
+---
+card_id: elevenlabs-2025-11-12-c673b7
+date: '2025-11-12'
+description: 'ElevenLabs · 2025-11-12 · Agent Mode: [Get agent widget](https://elevenlabs.io/docs/api-reference/widget/get)'
+diffusion:
+  first_in_tracked: '[[Changes/Cursor/2023-07-06-welcome-to-the-first-nightly-release-it-comes-with-agents-which-we-aren-t-releas|Agents,
+    new docs]]'
+  inference: No adoption, equivalence, or causation claim.
+  lag_days: 860
+  relation: same-theme-chronology
+  role: later-observed
+  scope: tracked-products-only
+  theme: agent-mode
+  tracked_products_count: 20
+evolves_from: []
+extractor_version: fallback-v5
+impact: paradigm-shift
+kind: launch
+machine_hash: 5b7cb0aa8acfe2ea2c7744f73e8ba5f472ec8bcd2d9027a531b246b5c78e69da
+product: elevenlabs
+product_name: ElevenLabs
+record:
+  ai_generated: true
+  card_id: elevenlabs-2025-11-12-c673b7
+  comparison: ''
+  confidence: low
+  date: '2025-11-12'
+  description: 'ElevenLabs — ElevenLabs updates — 2025-11-12: [Get agent widget](https://elevenlabs.io/docs/api-reference/widget/get)'
+  evidence:
+  - quote: '[Get agent widget](https://elevenlabs.io/docs/api-reference/widget/get)'
+    source_release: https://elevenlabs.io/docs/changelog/2025/11/12
+  - quote: Added `end_feedback` field with `WidgetEndFeedbackConfig` for configuring
+      end-of-call feedback collection
+    source_release: https://elevenlabs.io/docs/changelog/2025/11/12
+  - quote: Supports optional rating and comment fields in feedback forms
+    source_release: https://elevenlabs.io/docs/changelog/2025/11/12
+  - quote: '[Get agent](https://elevenlabs.io/docs/api-reference/agents/get) & [Update
+      agent](https://elevenlabs.io/docs/api-reference/agents/update)'
+    source_release: https://elevenlabs.io/docs/changelog/2025/11/12
+  - quote: Response schema updated to include new platform configuration options
+    source_release: https://elevenlabs.io/docs/changelog/2025/11/12
+  - quote: Request schema enhanced with additional settings fields
+    source_release: https://elevenlabs.io/docs/changelog/2025/11/12
+  extractor_version: fallback-v5
+  impact: paradigm-shift
+  kind: launch
+  product: elevenlabs
+  product_name: ElevenLabs
+  slug: agent-configuration
+  source_release: elevenlabs-2025-11-12-2025-11-12-b02f262e
+  source_type: elevenlabs_changelog
+  theme: agent-mode
+  title: Agent Configuration
+  type: change
+related_changes:
+- '[[Changes/Replit/2025-11-07-at-symbol-filename-support-in-agent|At symbol filename
+  support in Agent]]'
+- '[[Changes/Replit/2025-11-07-agent-tools-dropdown-in-planning-flow|Agent tools dropdown
+  in planning flow]]'
+- '[[Changes/ElevenLabs/2025-11-12-turn-and-conversation-configuration|Turn and Conversation
+  Configuration]]'
+source_release: '[[Releases/ElevenLabs/elevenlabs-2025-11-12-2025-11-12-b02f262e|elevenlabs-2025-11-12-2025-11-12-b02f262e]]'
+source_type: elevenlabs_changelog
+theme: agent-mode
+title: Agent Configuration
+type: change
+---
+
+<!-- chronolog:begin region="header" -->
+# Agent Configuration
+
+**ElevenLabs** · 2025-11-12 · [[Themes/agent-mode|Agent Mode]] · Launch · [Official source](https://elevenlabs.io/docs/changelog/2025/11/12) · from [[Releases/ElevenLabs/elevenlabs-2025-11-12-2025-11-12-b02f262e|ElevenLabs updates — 2025-11-12]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="evidence" -->
+> [Get agent widget](https://elevenlabs.io/docs/api-reference/widget/get)
+>
+> Added `end_feedback` field with `WidgetEndFeedbackConfig` for configuring end-of-call feedback collection
+>
+> Supports optional rating and comment fields in feedback forms
+>
+> [Get agent](https://elevenlabs.io/docs/api-reference/agents/get) & [Update agent](https://elevenlabs.io/docs/api-reference/agents/update)
+>
+> Response schema updated to include new platform configuration options
+>
+> Request schema enhanced with additional settings fields
+>
+> Source: https://elevenlabs.io/docs/changelog/2025/11/12
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="context" -->
+## Also in this release
+
+- [[Changes/ElevenLabs/2025-11-12-voice-management|Voice Management]] · Voice and Audio
+- [[Changes/ElevenLabs/2025-11-12-javascript-sdk|JavaScript SDK]] · Voice and Audio
+- [[Changes/ElevenLabs/2025-11-12-speech-to-text|Speech to Text]] · Voice and Audio
+- [[Changes/ElevenLabs/2025-11-12-billing|Billing]] · Pricing Model
+- [[Changes/ElevenLabs/2025-11-12-api-integration-triggers|API Integration Triggers]] · Apps and Integrations
+- [[Changes/ElevenLabs/2025-11-12-android-sdk|Android SDK]] · Mobile and Desktop
+- [[Changes/ElevenLabs/2025-11-12-billing-47b5b4|Billing]] · Pricing Model
+- [[Changes/ElevenLabs/2025-11-12-turn-and-conversation-configuration|Turn and Conversation Configuration]] · Agent Mode
+- [[Changes/ElevenLabs/2025-11-12-scribe-v2-realtime|Scribe v2 Realtime]] · Model Support
+- [[Changes/ElevenLabs/2025-11-12-professional-voice-cloning-pvc|Professional Voice Cloning (PVC)]] · Voice and Audio
+- [[Changes/ElevenLabs/2025-11-12-sdk-releases|SDK Releases]] · Apps and Integrations
+- [[Changes/ElevenLabs/2025-11-12-music-api|Music API]] · Voice and Audio
+- [[Changes/ElevenLabs/2025-11-12-elevencreative-studio|ElevenCreative Studio]] · Voice and Audio
+- [[Changes/ElevenLabs/2025-11-12-testing|Testing]] · Agent Mode
+- [[Changes/ElevenLabs/2025-11-12-agents-platform|Agents Platform]] · Agent Mode
+- [[Changes/ElevenLabs/2025-11-12-agents-platform-e67d7a|Agents Platform]] · Agent Mode
+- [[Changes/ElevenLabs/2025-11-12-language-presets|Language Presets]] · Model Support
+- [[Changes/ElevenLabs/2025-11-12-python-sdk|Python SDK]] · Voice and Audio
+- [[Changes/ElevenLabs/2025-11-12-agents-packages|Agents Packages]] · Agent Mode
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="nearby" -->
+## Nearby in Agent Mode
+
+- Earlier: 2025-11-07 · Replit · [[Changes/Replit/2025-11-07-agent-tools-dropdown-in-planning-flow|Agent tools dropdown in planning flow]]
+- Later: 2025-11-12 · Gemini CLI · [[Changes/Gemini CLI/2025-11-12-2-agent-mode-changes-in-v0-14-0|2 Agent Mode changes in v0.14.0]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="relations" -->
+## Related
+
+- Earliest same-theme entry in the tracked set: 2023-07-06 · Cursor · [[Changes/Cursor/2023-07-06-welcome-to-the-first-nightly-release-it-comes-with-agents-which-we-aren-t-releas|Agents, new docs]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="footer" -->
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20elevenlabs-2025-11-12-c673b7&body=Card%3A%20Changes%2FElevenLabs%2F2025-11-12-agent-configuration.md%0ACard%20ID%3A%20elevenlabs-2025-11-12-c673b7%0ASource%3A%20https%3A%2F%2Felevenlabs.io%2Fdocs%2Fchangelog%2F2025%2F11%2F12%0A%0AWhat%20should%20be%20corrected%3F%0A)
+<!-- chronolog:end -->

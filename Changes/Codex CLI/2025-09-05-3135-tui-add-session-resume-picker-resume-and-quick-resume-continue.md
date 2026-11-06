@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 9266277618a4ce6449521bbdbacf960af751653791b4c04f7fb3358dfabf96a7
+machine_hash: 2d4cdbf41b1c95c799dea566485fa9d1deff2ea372df681342f5b61692555575
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -41,8 +41,8 @@ record:
   title: '[#3135] TUI: Add session resume picker (--resume) and quick resume (--continue)'
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2025-08-27-improve-emoji-rendering-proper-spacing-and-emoji-variant-2735-2728|Improve
-  emoji rendering: proper spacing and ⌨️ emoji variant (♯2735, ♯2728)]]'
+- '[[Changes/Open WebUI/2025-08-28-2-interface-experience-changes-in-v0-6-26|2 Interface
+  Experience changes in v0.6.26]]'
 - '[[Changes/Codex CLI/2025-08-29-major-readme-docs-refactor-and-navigation-2724|Major
   README/docs refactor and navigation (♯2724)]]'
 - '[[Changes/Gemini CLI/2025-09-04-2-interface-experience-changes-in-v0-3-0|2 Interface
@@ -84,7 +84,7 @@ type: change
 ## Nearby in Interface Experience
 
 - Earlier: 2025-09-04 · Gemini CLI · [[Changes/Gemini CLI/2025-09-04-2-interface-experience-changes-in-v0-3-0|2 Interface Experience changes in v0.3.0]]
-- Later: 2025-09-11 · Cline · [[Changes/Cline/2025-09-11-2-interface-experience-changes-in-v3-28-0|2 Interface Experience changes in v3.28.0]]
+- Later: 2025-09-09 · Open WebUI · [[Changes/Open WebUI/2025-09-09-follow-up-tooltip-duplication-is-removed-streamlining-the-user-interface-and-pre|💬 Follow-up tooltip duplication is removed, streamlining the user interface…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

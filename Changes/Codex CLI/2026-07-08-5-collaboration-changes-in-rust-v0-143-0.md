@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: dfdb23691c5bafc10fdddef487ddbdb088eca13b2b3868ce2fd6f9cad071e913
+machine_hash: 43a24ae3796e06217b2cfeb3ef57a7fe9cafa8a82b3a741c46ca66b4b7554e89
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -47,12 +47,12 @@ record:
   title: 5 Collaboration changes in rust-v0.143.0
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-06-30-marketplace-access-by-organization-group-a2cf9b|Marketplace
-  access by organization group]]'
-- '[[Changes/Cursor/2026-06-30-we-ve-expanded-team-marketplaces-to-support-team-mcps-and-organization-groups|Cursor
-  expands team marketplaces to support Team MCPs and organization groups]]'
 - '[[Changes/GitHub Copilot CLI/2026-06-30-2-collaboration-changes-in-v1-0-66|2 Collaboration
   changes in v1.0.66]]'
+- '[[Changes/Lovable/2026-07-07-the-last-owner-cannot-leave-a-shared-folder|The last
+  owner cannot leave a shared folder]]'
+- '[[Changes/v0/2026-07-07-3-collaboration-changes-in-grouped-tool-approvals-richer-mcp|3
+  Collaboration changes in Grouped tool approvals, richer MCP…]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-07-08-rust-v0-143-0-github-350650561-9eba805c|codex-cli-2026-07-08-rust-v0-143-0-github-350650561-9eba805c]]'
 source_type: github_releases
 theme: collaboration
@@ -106,7 +106,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.143.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Collaboration
 
-- Earlier: 2026-06-30 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-06-30-2-collaboration-changes-in-v1-0-66|2 Collaboration changes in v1.0.66]]
+- Earlier: 2026-07-07 · v0 · [[Changes/v0/2026-07-07-3-collaboration-changes-in-grouped-tool-approvals-richer-mcp|3 Collaboration changes in Grouped tool approvals, richer MCP…]]
 - Later: 2026-07-09 · ChatGPT · [[Changes/ChatGPT/2026-07-09-existing-group-chats-will-remain-available-and-can-continue-to-be-used-for-now-w|Existing group chats will remain available and can continue to be used for now]]
 <!-- chronolog:end -->
 

@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 79115a6ca670cf27a7ff713a64fb9d0c0e4c6ae28cb8e90c7ae256b2bd1f12b1
+machine_hash: 6fa5ab3da551a5ccedafe782bc48b95e99cef56e4288be5227da9ef519db573c
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -88,7 +88,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v0.0.411
 ## Nearby in Developer Workflow
 
 - Earlier: 2026-02-17 · Cursor · [[Changes/Cursor/2026-02-17-removed-auto-accept-on-commit-setting-so-pending-diffs-are-automatically-accepte|Removed Auto-Accept on Commit setting so pending diffs are automatically accepted…]]
-- Later: 2026-02-18 · Claude Code · [[Changes/Claude Code/2026-02-18-the-rename-command-now-updates-the-terminal-tab-title-by-default-anthropics-clau|The /rename command now updates the terminal tab title by default…]]
+- Later: 2026-02-17 · Open WebUI · [[Changes/Open WebUI/2026-02-17-tool-call-display-improvements-tool-call-results-now-display-arguments-in-a-clea|🔧 Tool call display improvements. Tool call results now display arguments…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

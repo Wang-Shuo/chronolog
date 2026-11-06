@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 6a9f20f63fc0c489ea723b96fc118db4b65e1134d9b585809aa39ec33db1b279
+machine_hash: 09f3735d28e93df29603cf448ba81bee17140e48605f41b37cac2823a9a6377a
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -42,12 +42,12 @@ record:
   title: 2 Mobile and Desktop changes in rust-v0.29.0
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2025-08-22-this-feature-will-initially-only-be-available-on-the-chatgpt-website-and-windows|This
-  feature will initially only be available on the ChatGPT website and Windows app]]'
 - '[[Changes/Codex CLI/2025-08-26-2-mobile-and-desktop-changes-in-rust-v0-24-0|2 Mobile
   and Desktop changes in rust-v0.24.0]]'
 - '[[Changes/Codex CLI/2025-09-02-3-mobile-and-desktop-changes-in-rust-v0-28-0|3 Mobile
   and Desktop changes in rust-v0.28.0]]'
+- '[[Changes/Claude/2025-09-03-location-maps-and-calendar-access-on-claude-for-ios-and-android|Location,
+  maps, and calendar access on Claude for iOS and Android]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2025-09-03-rust-v0-29-0-github-244361437-fe9adbc1|codex-cli-2025-09-03-rust-v0-29-0-github-244361437-fe9adbc1]]'
 source_type: github_releases
 theme: mobile-desktop
@@ -83,7 +83,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.29.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2025-09-02 · Codex CLI · [[Changes/Codex CLI/2025-09-02-3-mobile-and-desktop-changes-in-rust-v0-28-0|3 Mobile and Desktop changes in rust-v0.28.0]]
+- Earlier: 2025-09-03 · Claude · [[Changes/Claude/2025-09-03-location-maps-and-calendar-access-on-claude-for-ios-and-android|Location, maps, and calendar access on Claude for iOS and Android]]
 - Later: 2025-09-08 · Codex CLI · [[Changes/Codex CLI/2025-09-08-3211-fixes-image-pasting-from-finder-with-ctrl-v-on-macos|♯3211 fixes image pasting from Finder with ctrl+v on macOS]]
 <!-- chronolog:end -->
 

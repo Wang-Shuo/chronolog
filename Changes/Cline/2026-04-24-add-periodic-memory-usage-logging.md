@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 91d9ec2f1fd3e72b7eca25c7c2b4acee9ff1c386199eac5f3133c28e7575f7bc
+machine_hash: 9ccd95faa36ff8f90943e35aba3c0d91d451070e9d145cfda82b116135a93e60
 product: cline
 product_name: Cline
 record:
@@ -80,7 +80,7 @@ type: change
 ## Nearby in Reliability and Performance
 
 - Earlier: 2026-04-23 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-04-23-improve-rendering-performance-when-displaying-large-amounts-of-text-in-the-timel|Improve rendering performance when displaying large amounts of text in the timeline]]
-- Later: 2026-04-28 · Claude Code · [[Changes/Claude Code/2026-04-28-faster-startup-after-upgrading-removed-the-recent-activity-panel-from-the-releas|Faster startup after upgrading]]
+- Later: 2026-04-24 · Open WebUI · [[Changes/Open WebUI/2026-04-24-3-reliability-and-performance-changes-in-v0-9-2|3 Reliability and Performance changes in v0.9.2]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

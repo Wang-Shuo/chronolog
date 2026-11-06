@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: a9088aa76f39573266fb4d425166a2958fe298d5343e2c4fea5d7a37feb81ab7
+machine_hash: 4b369547b5536a1ed24340c9609bebee7dc649fb815e2a4eb1f140dc011b5a89
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -45,10 +45,10 @@ record:
     on mode switch
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-02-28-fixed-listener-leak-in-interactive-permission-handler-during-auto-approvals|Fixed
-  listener leak in interactive permission handler during auto-approvals]]'
 - '[[Changes/Codex CLI/2026-03-02-8-safety-and-privacy-changes-in-rust-v0-107-0|8
   Safety and Privacy changes in rust-v0.107.0]]'
+- "[[Changes/Open WebUI/2026-03-02-connection-access-control-privacy-tool-server-and-terminal-connections-without-e|\U0001F512
+  Connection access control privacy. Tool server and terminal connections…]]"
 - '[[Changes/Cursor/2026-03-03-fixed-team-permission-and-access-control-inconsistencies-across-organization-set|Fixed
   team permission and access control inconsistencies across organization setups]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-03-03-v0-0-421-github-292666876-368c942d|github-copilot-cli-2026-03-03-v0-0-421-github-292666876-368c942d]]'
@@ -88,7 +88,7 @@ type: change
 ## Nearby in Safety and Privacy
 
 - Earlier: 2026-03-03 · Cursor · [[Changes/Cursor/2026-03-03-fixed-team-permission-and-access-control-inconsistencies-across-organization-set|Fixed team permission and access control inconsistencies across organization setups]]
-- Later: 2026-03-05 · Claude Code · [[Changes/Claude Code/2026-03-05-5-safety-and-privacy-changes-in-v2-1-69|5 Safety and Privacy changes in v2.1.69]]
+- Later: 2026-03-03 · v0 · [[Changes/v0/2026-03-03-fixed-integration-permission-checks-for-team-roles|Fixed integration permission checks for team roles]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

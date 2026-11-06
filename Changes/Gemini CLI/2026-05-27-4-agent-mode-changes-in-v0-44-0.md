@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 7f10a4b669d2c926d2a0e71ab8513975c7b6f33cd05ccb5d2ac24ecdb365e92b
+machine_hash: dda97469c43ac239a1721cdc325b0efa0d34b0531c126be50854e11baba786d4
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -50,8 +50,7 @@ record:
   title: 4 Agent Mode changes in v0.44.0
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-05-23-custom-agents-support-opt-in-deferred-tool-loading-via-deferred-tool-loading-in|Custom
-  agents support opt-in deferred tool loading via deferred-tool-loading…]]'
+- '[[Changes/ElevenLabs/2026-05-25-elevenagents|ElevenAgents]]'
 - '[[Changes/Codex CLI/2026-05-26-3-agent-mode-changes-in-rust-v0-134-0|3 Agent Mode
   changes in rust-v0.134.0]]'
 - '[[Changes/Claude Code/2026-05-27-2-agent-mode-changes-in-v2-1-152|2 Agent Mode
@@ -99,7 +98,7 @@ Source: https://github.com/google-gemini/gemini-cli/releases/tag/v0.44.0
 ## Nearby in Agent Mode
 
 - Earlier: 2026-05-27 · Claude Code · [[Changes/Claude Code/2026-05-27-2-agent-mode-changes-in-v2-1-152|2 Agent Mode changes in v2.1.152]]
-- Later: 2026-05-27 · Windsurf · [[Changes/Windsurf/2026-05-27-devin-local|Devin Local]]
+- Later: 2026-05-27 · Lovable · [[Changes/Lovable/2026-05-27-subagents|Subagents]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

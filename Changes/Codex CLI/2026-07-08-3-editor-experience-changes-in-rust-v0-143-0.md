@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 421bc0a9575aecbe9c38804195314e94f4c1aabf2b4c4709ad219173be91d9b2
+machine_hash: f7f11710c8ce721db0db9b49468b6e6b60ad2e3ed703478eba509d4e8666eafe
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -99,7 +99,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.143.0
 ## Nearby in Editor Experience
 
 - Earlier: 2026-07-07 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-07-07-2-editor-experience-changes-in-v1-0-69|2 Editor Experience changes in v1.0.69]]
-- Later: 2026-07-09 · Codex CLI · [[Changes/Codex CLI/2026-07-09-31191-handle-completion-separators-and-popup-dismissal-charliemarsh-oai|♯31191 Handle completion separators and popup dismissal @charliemarsh-oai]]
+- Later: 2026-07-08 · Lovable · [[Changes/Lovable/2026-07-08-pause-a-lovable-cloud-project|Pause a Lovable Cloud project]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

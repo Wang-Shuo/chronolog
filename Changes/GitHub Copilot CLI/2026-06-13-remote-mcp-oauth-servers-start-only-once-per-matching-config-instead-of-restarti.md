@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 943e61c38af66a96ab759c9297ae8da38fb20f87fc72a1e48420b59aa5eb1083
+machine_hash: 1315eef514b2033f27bd6647398042da3c92691e3af81a86e1153bc3cb0af7b8
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -56,10 +56,10 @@ record:
   title: Remote MCP OAuth servers start only once per matching config instead of restarting…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-06-08-improved-the-error-message-shown-when-your-organization-has-disabled-api-key-aut|Improved
-  the error message shown when your organization has disabled API key…]]'
 - '[[Changes/Codex CLI/2026-06-08-2-account-and-access-changes-in-rust-v0-138-0|2
   Account and Access changes in rust-v0.138.0]]'
+- '[[Changes/v0/2026-06-08-2-account-and-access-changes-in-changelog-update|2 Account
+  and Access changes in Changelog update]]'
 - '[[Changes/GitHub Copilot CLI/2026-06-09-mcp-oauth-re-authentication-correctly-uses-the-saved-oauth-client-id-for-remote|MCP
   OAuth re-authentication correctly uses the saved OAuth client ID for remote servers]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-06-13-v1-0-62-github-339039020-f6ff7e5e|github-copilot-cli-2026-06-13-v1-0-62-github-339039020-f6ff7e5e]]'

@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: fbd6db8e09ec64f6a8bbd0e4a5e6c765ee63c3b07df4ca2a41d95600dd482163
+machine_hash: 69fbe1e8d752089aedc229ce246d1cde8d1b62a02734d2c3c3a4d61808b26e8c
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -41,10 +41,10 @@ record:
   title: 2 Developer Workflow changes in v0.0.388
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-01-19-2-developer-workflow-changes-in-v0-0-385|2
-  Developer Workflow changes in v0.0.385]]'
 - '[[Changes/GitHub Copilot CLI/2026-01-19-add-resume-command-to-switch-sessions|Add
   /resume command to switch sessions]]'
+- '[[Changes/v0/2026-01-19-improved-pull-request-creation-with-option-to-push-latest-changes|Improved
+  pull request creation with option to push latest changes]]'
 - '[[Changes/Claude Code/2026-01-20-vscode-added-usage-command-to-display-current-plan-usage|VSCode
   Added /usage command to display current plan usage]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-01-20-v0-0-388-github-278408057-d1caf6ed|github-copilot-cli-2026-01-20-v0-0-388-github-278408057-d1caf6ed]]'

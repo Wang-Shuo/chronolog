@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 741fcbf64f39c8ccb246fa99ab30121981bd741708b1585a9e2b755657bbfa54
+machine_hash: 07b5c39b4e515f572d4476ae5bf55bec1075377695ac753cb63378819c89522c
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -45,12 +45,12 @@ record:
   title: 2 Editor Experience changes in rust-v0.99.0
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2026-02-04-4-editor-experience-changes-in-v0-27-0|4 Editor
-  Experience changes in v0.27.0]]'
-- '[[Changes/Codex CLI/2026-02-05-steer-mode-is-now-stable-and-enabled-by-default-so-enter-sends-immediately-durin|Steer
-  mode is now stable and enabled by default, so Enter sends immediately during…]]'
 - '[[Changes/Gemini CLI/2026-02-10-3-editor-experience-changes-in-v0-28-0|3 Editor
   Experience changes in v0.28.0]]'
+- '[[Changes/v0/2026-02-10-improved-file-diff-view-to-show-lines-changed|Improved
+  file diff view to show lines changed]]'
+- '[[Changes/v0/2026-02-10-improved-vs-code-editor-layout-with-activity-bar-at-top-by-default|Improved
+  VS Code editor layout with activity bar at top by default]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-02-11-rust-v0-99-0-github-285424682-f7f48016|codex-cli-2026-02-11-rust-v0-99-0-github-285424682-f7f48016]]'
 source_type: github_releases
 theme: editor-experience
@@ -97,8 +97,8 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.99.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2026-02-10 · Gemini CLI · [[Changes/Gemini CLI/2026-02-10-3-editor-experience-changes-in-v0-28-0|3 Editor Experience changes in v0.28.0]]
-- Later: 2026-02-11 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-02-11-3-editor-experience-changes-in-v0-0-407|3 Editor Experience changes in v0.0.407]]
+- Earlier: 2026-02-10 · v0 · [[Changes/v0/2026-02-10-improved-vs-code-editor-layout-with-activity-bar-at-top-by-default|Improved VS Code editor layout with activity bar at top by default]]
+- Later: 2026-02-11 · Dify · [[Changes/Dify/2026-02-11-review-edit-the-node-generates-a-ui-where-humans-can-review-ai-outputs-and-modif|Review & Edit: The node generates a UI where humans can review AI outputs…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

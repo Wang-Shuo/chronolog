@@ -4,20 +4,20 @@ date: '2026-10-19'
 description: 'GitHub Copilot CLI · 2026-10-19 · Automation and Scheduling: Reasoning-only
   max-token responses no longer loop indefinitely and now end with a clear error when…'
 diffusion:
-  first_in_tracked: '[[Changes/OpenHands/2024-09-04-better-syntax-error-loop-detection-by-tobitege-in-https-github-com-all-hands-ai|Better
-    syntax error loop detection]]'
+  first_in_tracked: '[[Changes/Dify/2024-01-02-add-data-clean-schedule-by-johnjyong-in-https-github-com-langgenius-dify-pull-18|Add
+    data clean schedule]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 775
+  lag_days: 1021
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 2fa99e559394029f2314551634c09c4f52e1d7f159606d06df56c4acf5a12c7a
+machine_hash: ede34246d2bc89f2521aed0e3962437322f1ba86fbca83d5b5839bf6ebe4e442
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -44,12 +44,12 @@ record:
   title: Reasoning-only max-token responses no longer loop indefinitely and now end…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-08-changed-ctrl-c-at-the-idle-prompt-of-an-attached-background-session-to-leave-a-p|Changed
-  Ctrl+C at the idle prompt of an attached background session to leave…]]'
-- '[[Changes/OpenHands/2026-10-08-2-automation-and-scheduling-changes-in-v1-26-0|2
-  Automation and Scheduling changes in v1.26.0]]'
-- '[[Changes/OpenHands/2026-10-12-4-automation-and-scheduling-changes-in-v1-27-0|4
-  Automation and Scheduling changes in v1.27.0]]'
+- '[[Changes/Lovable/2026-10-13-supported-postgresql-extensions-on-lovable-cloud|Supported
+  PostgreSQL extensions on Lovable Cloud]]'
+- '[[Changes/Open WebUI/2026-10-14-automation-run-results-an-automation-run-is-now-recorded-as-successful-only-afte|⏰
+  Automation run results. An automation run is now recorded as successful only…]]'
+- "[[Changes/Open WebUI/2026-10-14-recurring-automations-run-once-automations-set-with-the-daily-weekly-or-monthly|\U0001F4C5
+  Recurring automations run once. Automations set with the Daily, Weekly…]]"
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-10-19-v1-0-100-github-417622960-9e2e7578|github-copilot-cli-2026-10-19-v1-0-100-github-417622960-9e2e7578]]'
 source_type: github_releases
 theme: automation-scheduling
@@ -91,14 +91,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Automation and Scheduling
 
-- Earlier: 2026-10-12 · OpenHands · [[Changes/OpenHands/2026-10-12-4-automation-and-scheduling-changes-in-v1-27-0|4 Automation and Scheduling changes in v1.27.0]]
+- Earlier: 2026-10-14 · Open WebUI · [[Changes/Open WebUI/2026-10-14-recurring-automations-run-once-automations-set-with-the-daily-weekly-or-monthly|📅 Recurring automations run once. Automations set with the Daily, Weekly…]]
 - Later: 2026-10-19 · OpenHands · [[Changes/OpenHands/2026-10-19-3-automation-and-scheduling-changes-in-v1-28-0|3 Automation and Scheduling changes in v1.28.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2024-09-04 · OpenHands · [[Changes/OpenHands/2024-09-04-better-syntax-error-loop-detection-by-tobitege-in-https-github-com-all-hands-ai|Better syntax error loop detection]]
+- Earliest same-theme entry in the tracked set: 2024-01-02 · Dify · [[Changes/Dify/2024-01-02-add-data-clean-schedule-by-johnjyong-in-https-github-com-langgenius-dify-pull-18|Add data clean schedule]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

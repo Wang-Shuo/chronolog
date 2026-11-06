@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: da44282cfcb24d4b2f64dc18453d2a56e0c7d2f028d02c0d2b7d941ce0f15bd1
+machine_hash: 30f4563ff23d72c9aee17e32bda229beb5324610d644b52606b210cd89978caa
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -78,7 +78,7 @@ type: change
 ## Nearby in Agent Mode
 
 - Earlier: 2026-01-08 · Cursor · [[Changes/Cursor/2026-01-08-new-agent-command-is-now-the-primary-cli-entrypoint-cursor-agent-remains-as-a-ba|New agent command is now the primary CLI entrypoint. cursor-agent remains…]]
-- Later: 2026-01-09 · Claude Code · [[Changes/Claude Code/2026-01-09-added-agent-type-to-sessionstart-hook-input-populated-if-agent-is-specified|Added agent_type to SessionStart hook input, populated if --agent is specified]]
+- Later: 2026-01-08 · v0 · [[Changes/v0/2026-01-08-improved-how-large-inputs-are-stored-in-the-agent-s-filesystem-for-better-recall|Improved how large inputs are stored in the agent's filesystem for better recall]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

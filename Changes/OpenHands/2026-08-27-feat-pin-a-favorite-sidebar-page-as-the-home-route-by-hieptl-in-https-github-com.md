@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: bde798f588a73a316d9d6aa57e9c745bf7497aedb33d9f85bda4990965111fdb
+machine_hash: ecac6860f9be2981c1d4532f9a23c8c6eca973a3f3ca7e0a407fef19cced6eb4
 product: openhands
 product_name: OpenHands
 record:
@@ -41,8 +41,8 @@ record:
   title: 'feat: pin a favorite sidebar page as the home route'
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-08-26-6-interface-experience-changes-in-rust-v0-150-0|6
-  Interface Experience changes in rust-v0.150.0]]'
+- '[[Changes/Lovable/2026-08-26-resources-removed-from-the-dashboard-sidebar|Resources
+  removed from the dashboard sidebar]]'
 - '[[Changes/Claude Code/2026-08-27-2-interface-experience-changes-in-v2-1-248|2 Interface
   Experience changes in v2.1.248]]'
 - '[[Changes/GitHub Copilot CLI/2026-08-27-3-interface-experience-changes-in-v1-0-81|3

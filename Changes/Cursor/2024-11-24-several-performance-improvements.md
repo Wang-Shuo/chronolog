@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: bb16a326dc628a3b97563e6e5ce3bbd4de69b0068e5799bf473f72b93d8b6d3f
+machine_hash: 8649886943ce582ae528de7a79e7fc5af14a85f2c31bc2516f873178cd151547
 product: cursor
 product_name: Cursor
 record:
@@ -41,12 +41,12 @@ record:
   title: Several performance improvements
   type: change
 related_changes:
-- '[[Changes/Cline/2024-09-19-folder-adds-folder-s-files-all-at-once-to-speed-up-your-workflow-even-more|@folder:
-  Adds folder''s files all at once to speed up your workflow even more]]'
-- '[[Changes/OpenHands/2024-10-03-improve-the-docker-runtime-build-speed-fix-issues-in-build-by-xingyaoww-in-https|Improve
-  the docker runtime build speed & fix issues in build]]'
-- '[[Changes/Cline/2024-10-09-2-reliability-and-performance-changes-in-v2-0-0|2 Reliability
-  and Performance changes in v2.0.0]]'
+- '[[Changes/Ollama/2024-11-20-improved-performance-issues-that-occurred-in-ollama-versions-0-4-0-0-4-2|Improved
+  performance issues that occurred in Ollama versions 0.4.0-0.4.2]]'
+- '[[Changes/Open WebUI/2024-11-22-faster-model-retrieval-implemented-caching-optimizations-for-faster-model-loadin|⚡
+  Faster Model Retrieval]]'
+- '[[Changes/Open WebUI/2024-11-23-rag-query-generation-issue-addressed-a-significant-problem-where-rag-query-gener|⏳
+  RAG Query Generation Issue]]'
 source_release: '[[Releases/Cursor/cursor-2024-11-24-0-43-x-https-cursor-com-changelog-0-43-x-18aee492|cursor-2024-11-24-0-43-x-https-cursor-com-changelog-0-43-x-18aee492]]'
 source_type: cursor_changelog
 theme: reliability-performance
@@ -76,8 +76,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2024-10-09 · Cline · [[Changes/Cline/2024-10-09-2-reliability-and-performance-changes-in-v2-0-0|2 Reliability and Performance changes in v2.0.0]]
-- Later: 2024-12-17 · Cursor · [[Changes/Cursor/2024-12-17-cursor-starts-up-faster|Cursor starts up faster]]
+- Earlier: 2024-11-23 · Open WebUI · [[Changes/Open WebUI/2024-11-23-rag-query-generation-issue-addressed-a-significant-problem-where-rag-query-gener|⏳ RAG Query Generation Issue]]
+- Later: 2024-11-25 · Dify · [[Changes/Dify/2024-11-25-performance-optimization-the-weightrerankrunner-logic-has-been-optimized-to-achi|Performance Optimization: The WeightRerankRunner logic has been optimized…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

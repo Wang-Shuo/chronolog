@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 5a131236288e27bb05b9684a673dfc7abf3da36ae4ef659e6ea6ace429b3625d
+machine_hash: 3ddaf7e617036e4f7142a9527a4a34c534260bda9b8f08510f742361a096d365
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -67,8 +67,8 @@ record:
   title: 11 Model Support changes in v0.29.0
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-02-17-2-model-support-changes-in-v0-0-411|2 Model
-  Support changes in v0.0.411]]'
+- '[[Changes/Open WebUI/2026-02-17-4-model-support-changes-in-v0-8-3|4 Model Support
+  changes in v0.8.3]]'
 - '[[Changes/Codex CLI/2026-02-18-2-model-support-changes-in-rust-v0-104-0|2 Model
   Support changes in rust-v0.104.0]]'
 - '[[Changes/Cursor/2026-02-18-2-model-support-changes-in-cli-improvements-and-mermaid-ascii|2

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: bbdb268146b10c6a8d360fdc110e12c1960dd8ae5b1bf8b049d94bfe95ba320a
+machine_hash: 9e369040c4d4ab7e4b76abfe674ca0225cb0f6e475d23d3822cb4483413bb98c
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -42,12 +42,9 @@ record:
   title: 2 Agent Mode changes in v0.14.0
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2025-11-03-custom-agents-with-special-characters-in-filenames-no-longer-fail|Custom
-  agents with special characters in filenames no longer fail]]'
-- '[[Changes/Gemini CLI/2025-11-04-add-regression-tests-for-shell-command-parsing-by-cornmander-in-https-github-com|Add
-  regression tests for shell command parsing]]'
-- '[[Changes/Gemini CLI/2025-11-07-3-agent-mode-changes-in-v0-13-0|3 Agent Mode changes
-  in v0.13.0]]'
+- '[[Changes/ElevenLabs/2025-11-12-agents-platform|Agents Platform]]'
+- '[[Changes/ElevenLabs/2025-11-12-agents-platform-e67d7a|Agents Platform]]'
+- '[[Changes/ElevenLabs/2025-11-12-agents-packages|Agents Packages]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2025-11-12-v0-14-0-github-261593844-1781244e|gemini-cli-2025-11-12-v0-14-0-github-261593844-1781244e]]'
 source_type: github_releases
 theme: agent-mode
@@ -82,7 +79,7 @@ Source: https://github.com/google-gemini/gemini-cli/releases/tag/v0.14.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2025-11-07 · Gemini CLI · [[Changes/Gemini CLI/2025-11-07-3-agent-mode-changes-in-v0-13-0|3 Agent Mode changes in v0.13.0]]
+- Earlier: 2025-11-12 · ElevenLabs · [[Changes/ElevenLabs/2025-11-12-agents-packages|Agents Packages]]
 - Later: 2025-11-12 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2025-11-12-3-agent-mode-changes-in-v0-0-355|3 Agent Mode changes in v0.0.355]]
 <!-- chronolog:end -->
 

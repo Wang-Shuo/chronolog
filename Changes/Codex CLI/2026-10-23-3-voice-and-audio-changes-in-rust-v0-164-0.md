@@ -4,20 +4,20 @@ date: '2026-10-23'
 description: 'Codex CLI · 2026-10-23 · Voice and Audio: 3 changes in 0.164.0 — #53784
   Forward client voice session IDs in realtime requests @chrisdong-oai'
 diffusion:
-  first_in_tracked: '[[Changes/Aider/2023-08-11-voice-to-code-https-aider-chat-docs-voice-html-support-which-allows-you-to-code|Voice-to-code((source
-    link) support, which allows you…]]'
+  first_in_tracked: '[[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2
+    Voice and Audio changes in 0.3.7]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1169
+  lag_days: 1201
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 2dd021e99ef2fc6ed213e5dfeed8295d08740d5c4dd64899f1122ed9ba5562fc
+machine_hash: 1863d679b8dfd80d0d9acc3b094656fbc45adf3ea83459fcbff53c56d48792b3
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -44,8 +44,7 @@ record:
   title: 3 Voice and Audio changes in rust-v0.164.0
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-10-19-voice-dictation-no-longer-inserts-language-markers-like-en-us-into-transcript-te|Voice
-  dictation no longer inserts language markers like en-US into transcript text]]'
+- '[[Changes/Lovable/2026-10-19-faster-dictation|Faster dictation]]'
 - '[[Changes/Claude Code/2026-10-21-2-voice-and-audio-changes-in-v2-1-307|2 Voice
   and Audio changes in v2.1.307]]'
 - '[[Changes/Claude Code/2026-10-22-vscode-added-a-log-warning-that-says-what-to-do-when-dictation-or-the-extension|VSCode
@@ -99,13 +98,13 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.164.0
 ## Nearby in Voice and Audio
 
 - Earlier: 2026-10-22 · Claude Code · [[Changes/Claude Code/2026-10-22-vscode-added-a-log-warning-that-says-what-to-do-when-dictation-or-the-extension|VSCode Added a log warning that says what to do when dictation or the extension's…]]
-- Later: 2026-11-06 · Codex CLI · [[Changes/Codex CLI/2026-11-06-4-voice-and-audio-changes-in-rust-v0-167-0|4 Voice and Audio changes in rust-v0.167.0]]
+- Later: 2026-10-24 · Ollama · [[Changes/Ollama/2026-10-24-ollama-can-now-generate-speech-https-docs-ollama-com-capabilities-speech-on-maco|Ollama can now generate speech((source link) on macOS]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-08-11 · Aider · [[Changes/Aider/2023-08-11-voice-to-code-https-aider-chat-docs-voice-html-support-which-allows-you-to-code|Voice-to-code((source link) support, which allows you…]]
+- Earliest same-theme entry in the tracked set: 2023-07-10 · Dify · [[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2 Voice and Audio changes in 0.3.7]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

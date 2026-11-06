@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 7f4edb521c073ae50d1a4ada95b1f9713c321f9fdca683ce811ae933641a5b74
+machine_hash: ef11a16c8b6660a14763fd65442b192be21fd87cda0b2ef5c11889874b0ef5d6
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -43,8 +43,8 @@ record:
   title: 2 Safety and Privacy changes in v0.21.0
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2025-12-10-5-safety-and-privacy-changes-in-rust-v0-69-0|5 Safety
-  and Privacy changes in rust-v0.69.0]]'
+- '[[Changes/v0/2025-12-12-cve-2025-55183-source-code-disclosure-vulnerability|CVE-2025-55183
+  : Source code disclosure vulnerability]]'
 - '[[Changes/Codex CLI/2025-12-13-3-safety-and-privacy-changes-in-rust-v0-72-0|3 Safety
   and Privacy changes in rust-v0.72.0]]'
 - '[[Changes/Codex CLI/2025-12-15-3-safety-and-privacy-changes-in-rust-v0-73-0|3 Safety

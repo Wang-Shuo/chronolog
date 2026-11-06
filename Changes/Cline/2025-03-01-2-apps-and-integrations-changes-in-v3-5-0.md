@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: d4e78d91c2c198d9cb0cb2b35e774c699df52043702262909d0bafb2d40095bd
+machine_hash: 50cca183c9fb2cbf6c6e160ecdd11e4f255bcfbbb0036d4e92d962536b168f54
 product: cline
 product_name: Cline
 record:
@@ -44,11 +44,11 @@ record:
   title: 2 Apps and Integrations changes in v3.5.0
   type: change
 related_changes:
-- '[[Changes/Cline/2025-02-19-introducing-mcp-marketplace-you-can-now-discover-and-install-the-best-mcp-server|Introducing
-  MCP Marketplace!]]'
-- '[[Changes/Cursor/2025-02-19-2-apps-and-integrations-changes-in-0-46-x|2 Apps and
-  Integrations changes in 0.46.x]]'
-- '[[Changes/Cursor/2025-02-19-mcp-improvements|MCP improvements]]'
+- "[[Changes/Replit/2025-02-21-replit-grok|Replit \U0001F91D Grok]]"
+- '[[Changes/Open WebUI/2025-02-27-2-apps-and-integrations-changes-in-v0-5-17|2 Apps
+  and Integrations changes in v0.5.17]]'
+- '[[Changes/Dify/2025-02-28-9-apps-and-integrations-changes-in-1-0-0|9 Apps and Integrations
+  changes in 1.0.0]]'
 source_release: '[[Releases/Cline/cline-2025-03-01-v3-5-0-github-203165377-15dc26a5|cline-2025-03-01-v3-5-0-github-203165377-15dc26a5]]'
 source_type: github_releases
 theme: apps-integrations
@@ -82,7 +82,7 @@ Source: https://github.com/cline/cline/releases/tag/v3.5.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2025-02-19 · Cursor · [[Changes/Cursor/2025-02-19-mcp-improvements|MCP improvements]]
+- Earlier: 2025-02-28 · Dify · [[Changes/Dify/2025-02-28-9-apps-and-integrations-changes-in-1-0-0|9 Apps and Integrations changes in 1.0.0]]
 - Later: 2025-03-03 · Cline · [[Changes/Cline/2025-03-03-add-timeout-option-to-mcp-servers|Add timeout option to MCP servers]]
 <!-- chronolog:end -->
 

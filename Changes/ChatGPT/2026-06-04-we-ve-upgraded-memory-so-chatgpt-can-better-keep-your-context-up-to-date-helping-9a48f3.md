@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: memory
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 69d5a8ecb6aacecb0fc6ed96edccc62dd62ab9dbb3662e9410e3b55829309267
+machine_hash: 336fee2eb50ab9ad773ec0c3864666fef82ab6dfc6522d795829da6eb8c1ac46
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -77,12 +77,12 @@ record:
   title: Memory that stays more up to date
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-05-28-8-memory-and-personalization-changes-in-rust-v0-135-0|8
-  Memory and Personalization changes in rust-v0.135.0]]'
 - '[[Changes/GitHub Copilot CLI/2026-05-28-vote-memory-tool-calls-are-throttled-per-response-and-per-interaction-to-prevent|vote_memory
   tool calls are throttled per response and per interaction to prevent…]]'
 - '[[Changes/Codex CLI/2026-06-01-2-memory-and-personalization-changes-in-rust-v0-136-0|2
   Memory and Personalization changes in rust-v0.136.0]]'
+- '[[Changes/Open WebUI/2026-06-01-2-memory-and-personalization-changes-in-v0-9-6|2
+  Memory and Personalization changes in v0.9.6]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-06-04-memory-that-stays-more-up-to-date-8fc83f65|chatgpt-2026-06-04-memory-that-stays-more-up-to-date-8fc83f65]]'
 source_type: chatgpt_changelog
 theme: memory
@@ -109,8 +109,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Memory and Personalization
 
-- Earlier: 2026-06-01 · Codex CLI · [[Changes/Codex CLI/2026-06-01-2-memory-and-personalization-changes-in-rust-v0-136-0|2 Memory and Personalization changes in rust-v0.136.0]]
-- Later: 2026-06-09 · Codex CLI · [[Changes/Codex CLI/2026-06-09-26821-codex-exclude-external-tool-output-from-memories-rka-oai|♯26821 codex Exclude external tool output from memories @rka-oai]]
+- Earlier: 2026-06-01 · Open WebUI · [[Changes/Open WebUI/2026-06-01-2-memory-and-personalization-changes-in-v0-9-6|2 Memory and Personalization changes in v0.9.6]]
+- Later: 2026-06-08 · v0 · [[Changes/v0/2026-06-08-team-plan-members-can-set-custom-instructions|Team plan members can set custom instructions]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

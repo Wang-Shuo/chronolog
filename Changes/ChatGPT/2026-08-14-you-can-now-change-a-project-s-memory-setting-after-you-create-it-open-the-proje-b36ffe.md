@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: memory
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 07fa4a5a8bdebc5159f3d86ccf5811989fef820c6b1538a022a230a710af4e23
+machine_hash: 9f702dabab321970a96e59d7f8cdcd503e7bd0a9f08a03ec050e8716798ee301
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -100,7 +100,7 @@ type: change
 ## Nearby in Memory and Personalization
 
 - Earlier: 2026-08-14 · ChatGPT · [[Changes/ChatGPT/2026-08-14-we-ve-made-it-easier-to-study-with-interactive-quizzes-manage-project-memory-and|ChatGPT makes it easier to study with interactive quizzes, manage project memory…]]
-- Later: 2026-08-20 · ChatGPT · [[Changes/ChatGPT/2026-08-20-use-computer-history-in-more-regions-computer-history-is-now-available-in-the-ee|Use Computer History in more regions]]
+- Later: 2026-08-14 · v0 · [[Changes/v0/2026-08-14-reduced-the-web-client-s-memory-use-by-clearing-preview-iframes-blob-and-audio-u|Reduced the web client's memory use by clearing preview iframes, blob and audio…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

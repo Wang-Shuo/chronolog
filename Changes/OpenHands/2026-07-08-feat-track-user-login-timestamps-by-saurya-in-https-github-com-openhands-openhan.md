@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 46c9276e3d42d621ce81cd4ad838f13037e0a1293902606fb759a412bc360ee4
+machine_hash: 3a9e029237e7ce2f4f24426d1568123a94171c61ac02c654dd1b48ecd24e3879
 product: openhands
 product_name: OpenHands
 record:
@@ -41,12 +41,12 @@ record:
   title: 'feat: track user login timestamps'
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-07-07-added-a-warning-when-your-login-is-about-to-expire-so-you-can-re-authenticate-be|Added
-  a warning when your login is about to expire, so you can re-authenticate…]]'
-- '[[Changes/GitHub Copilot CLI/2026-07-07-6-account-and-access-changes-in-v1-0-69|6
-  Account and Access changes in v1.0.69]]'
+- '[[Changes/Lovable/2026-07-07-sign-in-with-sso-using-your-company-domain-or-provider-id|Sign
+  in with SSO using your company domain or provider ID]]'
 - '[[Changes/Codex CLI/2026-07-08-5-account-and-access-changes-in-rust-v0-143-0|5
   Account and Access changes in rust-v0.143.0]]'
+- '[[Changes/Lovable/2026-07-08-configure-sso-just-in-time-provisioning-from-settings|Configure
+  SSO Just-in-Time provisioning from settings]]'
 source_release: '[[Releases/OpenHands/openhands-2026-07-08-1-10-0-github-351145222-cec9515b|openhands-2026-07-08-1-10-0-github-351145222-cec9515b]]'
 source_type: github_releases
 theme: account-access
@@ -75,7 +75,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Account and Access
 
-- Earlier: 2026-07-08 · Codex CLI · [[Changes/Codex CLI/2026-07-08-5-account-and-access-changes-in-rust-v0-143-0|5 Account and Access changes in rust-v0.143.0]]
+- Earlier: 2026-07-08 · Lovable · [[Changes/Lovable/2026-07-08-configure-sso-just-in-time-provisioning-from-settings|Configure SSO Just-in-Time provisioning from settings]]
 - Later: 2026-07-09 · ChatGPT · [[Changes/ChatGPT/2026-07-09-we-re-deprecating-atlas-as-we-bring-browser-based-agentic-capabilities-into-chat|Retiring Atlas]]
 <!-- chronolog:end -->
 

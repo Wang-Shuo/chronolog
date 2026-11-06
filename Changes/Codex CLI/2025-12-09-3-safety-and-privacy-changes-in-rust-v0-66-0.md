@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 10acc11b713a8526860f18f2fbfef6647a228ea552944d3b8835fd9c43a9a686
+machine_hash: eab0ff09eecfbc96ef2a84467eec0c11c469aad85c847c81369909dc4a88b25e
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -47,12 +47,12 @@ record:
   title: 3 Safety and Privacy changes in rust-v0.66.0
   type: change
 related_changes:
-- '[[Changes/Cline/2025-11-27-maint-npm-audit-fix-for-glob-package-vulnerability-by-canvrno-in-https-github-co|maint:
-  npm audit fix for glob package vulnerability]]'
 - '[[Changes/Codex CLI/2025-12-02-9-safety-and-privacy-changes-in-rust-v0-64-0|9 Safety
   and Privacy changes in rust-v0.64.0]]'
 - '[[Changes/Gemini CLI/2025-12-02-improve-code-coverage-for-cli-src-ui-privacy-package-by-megha1188-in-https-githu|Improve
   code coverage for cli/src/ui/privacy package]]'
+- '[[Changes/Open WebUI/2025-12-02-2-safety-and-privacy-changes-in-v0-6-41|2 Safety
+  and Privacy changes in v0.6.41]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2025-12-09-rust-v0-66-0-github-268559734-698ec8f9|codex-cli-2025-12-09-rust-v0-66-0-github-268559734-698ec8f9]]'
 source_type: github_releases
 theme: safety-privacy
@@ -97,7 +97,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.66.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Safety and Privacy
 
-- Earlier: 2025-12-02 · Gemini CLI · [[Changes/Gemini CLI/2025-12-02-improve-code-coverage-for-cli-src-ui-privacy-package-by-megha1188-in-https-githu|Improve code coverage for cli/src/ui/privacy package]]
+- Earlier: 2025-12-02 · Open WebUI · [[Changes/Open WebUI/2025-12-02-2-safety-and-privacy-changes-in-v0-6-41|2 Safety and Privacy changes in v0.6.41]]
 - Later: 2025-12-09 · Gemini CLI · [[Changes/Gemini CLI/2025-12-09-add-consent-flag-to-link-command-by-kevinjwang1-in-https-github-com-google-gemin|Add consent flag to Link command]]
 <!-- chronolog:end -->
 

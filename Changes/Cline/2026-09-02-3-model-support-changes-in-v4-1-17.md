@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: c3928394139193412949d7ca623ac7a5712c31b8c5423b508b83b7e5ecbdc7ba
+machine_hash: 955b2835d6a5bef32a56e09304b7098ba061cdb0edd67b4c9a51b4c73482bac4
 product: cline
 product_name: Cline
 record:
@@ -100,7 +100,7 @@ Source: https://github.com/cline/cline/releases/tag/v4.1.17
 ## Nearby in Model Support
 
 - Earlier: 2026-09-01 · Codex CLI · [[Changes/Codex CLI/2026-09-01-guardian-approval-review-now-honors-node-repl-policies-provided-through-model-me|Guardian approval review now honors Node REPL policies provided through model metadata]]
-- Later: 2026-09-03 · ChatGPT · [[Changes/ChatGPT/2026-09-03-today-we-re-introducing-gpt-6-astra-with-improvements-in-coding-research-compute-069f67|Introducing GPT-6 Astra]]
+- Later: 2026-09-02 · Ollama · [[Changes/Ollama/2026-09-02-honor-gguf-model-defined-default-parameters|Honor GGUF model defined default parameters]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

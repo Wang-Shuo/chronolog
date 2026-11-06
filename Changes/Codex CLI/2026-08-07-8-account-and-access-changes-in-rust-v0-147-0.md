@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 0d566e1c61f6f74a09802a7a4b9be8ceea2ab141285ce08ac546b932c4c69b88
+machine_hash: 6d4bd61dda7da147ab52d773ff5048f64ce4a071d4bfae83781d173a035d058f
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -120,7 +120,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.147.0
 ## Nearby in Account and Access
 
 - Earlier: 2026-08-07 · Claude Code · [[Changes/Claude Code/2026-08-07-changed-managed-settings-the-approval-prompt-no-longer-re-appears-after-re-login|Changed managed settings]]
-- Later: 2026-08-09 · Cline · [[Changes/Cline/2026-08-09-2-account-and-access-changes-in-v4-1-7|2 Account and Access changes in v4.1.7]]
+- Later: 2026-08-07 · Replit · [[Changes/Replit/2026-08-07-build-with-sso|Build with SSO]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

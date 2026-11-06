@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 57fc7d4bc3aa511eda7b208ea41763b780bc2696b7fc3100a88b42f0a0e9be26
+machine_hash: 86606aa41dcddceaaddd6c7d2c7d2efcc19517f3b918f4d15beeb0ac1da3ae17
 product: claude-code
 product_name: Claude Code
 record:
@@ -85,7 +85,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.50
 ## Nearby in Context Window
 
 - Earlier: 2026-02-20 · ChatGPT · [[Changes/ChatGPT/2026-02-20-chatgpt-now-has-a-total-context-window-length-of-256k-tokens-128k-input-and-128k|Expanded context window for Thinking]]
-- Later: 2026-02-24 · Claude Code · [[Changes/Claude Code/2026-02-24-tool-results-larger-than-50k-characters-are-now-persisted-to-disk-previously-100|Tool results larger than 50K characters are now persisted to disk (previously 100K)]]
+- Later: 2026-02-21 · Ollama · [[Changes/Ollama/2026-02-21-ollama-s-macos-and-windows-apps-will-now-default-to-a-context-length-based-on-av|Ollama's macOS and Windows apps will now default to a context length based…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

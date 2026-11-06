@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 04945625a813438ee195d22c880196c6189a4435077168a405a6f01874f94332
+machine_hash: ae480580f67c410f95c6b97594297e1258f0326358420601bd13c9e9150bb3dc
 product: cline
 product_name: Cline
 record:
@@ -45,10 +45,10 @@ record:
     provider…
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2025-12-21-2-account-and-access-changes-in-rust-v0-77-0|2 Account
-  and Access changes in rust-v0.77.0]]'
 - '[[Changes/Cursor/2025-12-22-2-account-and-access-changes-in-2-3|2 Account and Access
   changes in 2.3]]'
+- '[[Changes/Dify/2025-12-25-chore-remove-unused-login-call-from-activation-flow-by-hjlarry-in-https-github-c|chore:
+  remove unused login call from activation flow]]'
 - '[[Changes/OpenHands/2025-12-30-added-oauth-2-0-device-flow-for-cli-authentication-by-malhotra5-in-https-github|Added
   OAuth 2.0 Device Flow for CLI authentication]]'
 source_release: '[[Releases/Cline/cline-2026-01-06-v3-47-0-github-274645512-af25fb1a|cline-2026-01-06-v3-47-0-github-274645512-af25fb1a]]'

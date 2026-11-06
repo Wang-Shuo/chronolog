@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 42a7b2c880443d535b24beb1fb3d0dab9086ff802bdefbd5cc794a6c34b33161
+machine_hash: 305971caae4113dbb3ea408eadb4633bcfb767563f8a3ade073925e6c942df77
 product: claude-code
 product_name: Claude Code
 record:
@@ -43,8 +43,8 @@ record:
     Remote…'
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2026-05-22-ci-implement-codebase-aware-effort-level-triage-by-cocosheng-g-in-https-github-c|ci:
-  implement codebase-aware effort level triage]]'
+- '[[Changes/Replit/2026-05-22-layout-controls-in-the-visual-editor|Layout controls
+  in the Visual Editor]]'
 - '[[Changes/GitHub Copilot CLI/2026-05-23-automatically-prune-old-process-log-files-from-copilot-logs-at-startup-to-preven|Automatically
   prune old process log files from ~/.copilot/logs/ at startup…]]'
 - '[[Changes/Cline/2026-05-25-update-diff-and-protobufjs-dependencies|Update diff

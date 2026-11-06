@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 32ba6805a124f15ed34c988947c5ea1878d0aae1dfe3fa9cd9452ed2ae1091da
+machine_hash: 0bac701a3d1281e431d7eddc0e3f8cd878c6d7ac731b27c9d2d6da4ec81b8eb3
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -44,12 +44,12 @@ record:
   title: 'fix(a2a-server): enforce workspace trust and task isolation to prevent RCE'
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-07-23-health-is-built-with-layered-privacy-and-security-safeguards-connected-medical-r|Health
-  is built with layered privacy and security safeguards]]'
-- '[[Changes/GitHub Copilot CLI/2026-07-23-show-a-first-run-splash-to-opt-into-the-default-sandbox|Show
-  a first-run splash to opt into the default sandbox]]'
 - '[[Changes/Claude Code/2026-07-24-2-safety-and-privacy-changes-in-v2-1-219|2 Safety
   and Privacy changes in v2.1.219]]'
+- '[[Changes/Open WebUI/2026-07-27-13-safety-and-privacy-changes-in-v0-11-0|13 Safety
+  and Privacy changes in v0.11.0]]'
+- '[[Changes/Dify/2026-07-28-11-safety-and-privacy-changes-in-1-16-1|11 Safety and
+  Privacy changes in 1.16.1]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2026-07-28-v0-53-0-github-361395136-ca91763a|gemini-cli-2026-07-28-v0-53-0-github-361395136-ca91763a]]'
 source_type: github_releases
 theme: safety-privacy
@@ -79,7 +79,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Safety and Privacy
 
-- Earlier: 2026-07-24 · Claude Code · [[Changes/Claude Code/2026-07-24-2-safety-and-privacy-changes-in-v2-1-219|2 Safety and Privacy changes in v2.1.219]]
+- Earlier: 2026-07-28 · Dify · [[Changes/Dify/2026-07-28-11-safety-and-privacy-changes-in-1-16-1|11 Safety and Privacy changes in 1.16.1]]
 - Later: 2026-07-29 · Codex CLI · [[Changes/Codex CLI/2026-07-29-6-safety-and-privacy-changes-in-rust-v0-146-0|6 Safety and Privacy changes in rust-v0.146.0]]
 <!-- chronolog:end -->
 

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 1cfbc47a3767fbaec4d408ad2d54a238d992f09d46fd79f9ce574aa526321082
+machine_hash: 29266ca5914213466552df2338869362a6388f746b229eedd168a84729601984
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -95,7 +95,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.100.0
 ## Nearby in Context Window
 
 - Earlier: 2026-02-11 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-02-11-expose-session-context-in-session-list-sdk-response|Expose session context in session.list SDK response]]
-- Later: 2026-02-13 · ChatGPT · [[Changes/ChatGPT/2026-02-13-attach-up-to-20-files-in-a-single-message-you-can-now-upload-up-to-20-files-at-o|Attach up to 20 files in a single message]]
+- Later: 2026-02-12 · Open WebUI · [[Changes/Open WebUI/2026-02-12-5-context-window-changes-in-v0-8-0|5 Context Window changes in v0.8.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

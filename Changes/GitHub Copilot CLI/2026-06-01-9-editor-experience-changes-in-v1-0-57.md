@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 94fe60397416011b67fd63278b641349d1c92868de5ffb34a89e2cb084ac6b87
+machine_hash: 2951279d05193250a2d6232977528e772e8083b91c7a99b0bfd943dc39fa34d3
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -121,7 +121,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.57
 ## Nearby in Editor Experience
 
 - Earlier: 2026-06-01 · Codex CLI · [[Changes/Codex CLI/2026-06-01-2-editor-experience-changes-in-rust-v0-136-0|2 Editor Experience changes in rust-v0.136.0]]
-- Later: 2026-06-02 · Claude Code · [[Changes/Claude Code/2026-06-02-edit-no-longer-requires-a-separate-read-after-viewing-a-file-with-grep-single-fi|Edit no longer requires a separate Read after viewing a file with grep]]
+- Later: 2026-06-01 · Open WebUI · [[Changes/Open WebUI/2026-06-01-4-editor-experience-changes-in-v0-9-6|4 Editor Experience changes in v0.9.6]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -1,0 +1,103 @@
+---
+card_id: dify-2025-05-15-315e11
+date: '2025-05-15'
+description: 'Dify · 2025-05-15 · Multimodal Input: feat(api): Add image multimodal
+  support for LLMNode by @QuantumGhost in https://github.com/langgenius/dify/pull/17372'
+diffusion:
+  first_in_tracked: '[[Changes/Dify/2023-09-19-add-video-to-cn-readme-by-crazywoola-in-https-github-com-langgenius-dify-pull-11|add
+    video to cn readme]]'
+  inference: No adoption, equivalence, or causation claim.
+  lag_days: 604
+  relation: same-theme-chronology
+  role: later-observed
+  scope: tracked-products-only
+  theme: multimodal
+  tracked_products_count: 20
+evolves_from: []
+extractor_version: fallback-v5
+impact: significant
+kind: change
+machine_hash: 7f25a96a068fc7673987e83cb1d4eaa46895313dd78ae89d339db81fa856ccdc
+product: dify
+product_name: Dify
+record:
+  ai_generated: true
+  card_id: dify-2025-05-15-315e11
+  comparison: ''
+  confidence: low
+  date: '2025-05-15'
+  description: 'Dify — v1.4.0: feat(api): Add image multimodal support for LLMNode
+    by @QuantumGhost in https://github.com/langgenius/dify/pull/17372'
+  evidence:
+  - quote: 'feat(api): Add image multimodal support for LLMNode by @QuantumGhost in
+      https://github.com/langgenius/dify/pull/17372'
+    source_release: https://github.com/langgenius/dify/releases/tag/1.4.0
+  extractor_version: fallback-v5
+  impact: significant
+  kind: change
+  product: dify
+  product_name: Dify
+  slug: feat-api-add-image-multimodal-support-for-llmnode-by-quantumghost-in-https-githu
+  source_release: dify-2025-05-15-1-4-0-github-218877198-a895b1ee
+  source_type: github_releases
+  theme: multimodal
+  title: 'feat(api): Add image multimodal support for LLMNode'
+  type: change
+related_changes:
+- '[[Changes/Replit/2025-03-28-deeplearningai-course-launch|DeepLearningAI course
+  launch]]'
+- '[[Changes/Ollama/2025-04-26-add-support-for-meta-s-llama-4-https-ollama-com-library-llama4-multimodal-models|Add
+  support for Meta''s Llama 4((source link) multimodal models]]'
+- '[[Changes/Ollama/2025-05-13-2-multimodal-input-changes-in-v0-7-0|2 Multimodal Input
+  changes in v0.7.0]]'
+source_release: '[[Releases/Dify/dify-2025-05-15-1-4-0-github-218877198-a895b1ee|dify-2025-05-15-1-4-0-github-218877198-a895b1ee]]'
+source_type: github_releases
+theme: multimodal
+title: 'feat(api): Add image multimodal support for LLMNode'
+type: change
+---
+
+<!-- chronolog:begin region="header" -->
+# feat(api): Add image multimodal support for LLMNode
+
+**Dify** · 2025-05-15 · [[Themes/multimodal|Multimodal Input]] · [Official source](https://github.com/langgenius/dify/releases/tag/1.4.0) · from [[Releases/Dify/dify-2025-05-15-1-4-0-github-218877198-a895b1ee|v1.4.0]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="evidence" -->
+> feat(api): Add image multimodal support for LLMNode by @QuantumGhost in https://github.com/langgenius/dify/pull/17372
+>
+> Source: https://github.com/langgenius/dify/releases/tag/1.4.0
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="context" -->
+## Also in this release
+
+- [[Changes/Dify/2025-05-15-2-interface-experience-changes-in-1-4-0|2 Interface Experience changes in 1.4.0]] · Interface Experience
+- [[Changes/Dify/2025-05-15-add-accept-ranges-header-for-audio-video-files-by-sondin-in-https-github-com-lan|add Accept-Ranges header for audio/video files]] · Voice and Audio
+- [[Changes/Dify/2025-05-15-chore-upgrade-package-version-to-fix-security-issue-by-iamjoel-in-https-github-c|chore: upgrade package version to fix security issue]] · Safety and Privacy
+- [[Changes/Dify/2025-05-15-chore-avoid-repeated-type-ignore-noqa-by-adding-flask-restful-and-flask-login-in|chore: avoid repeated type ignore noqa by adding flask_restful and flask_login…]] · Account and Access
+- [[Changes/Dify/2025-05-15-ci-add-diff-to-lint-ci-by-yihong0618-in-https-github-com-langgenius-dify-pull-17|ci: add diff to lint ci]] · Editor Experience
+- [[Changes/Dify/2025-05-15-imagine-if-every-idea-could-become-an-ai-agent-with-dify-if-you-can-ask-it-you-c|Imagine if every idea could become an AI agent]] · Agent Mode
+- [[Changes/Dify/2025-05-15-5-model-support-changes-in-1-4-0|5 Model Support changes in 1.4.0]] · Model Support
+- [[Changes/Dify/2025-05-15-3-reliability-and-performance-changes-in-1-4-0|3 Reliability and Performance changes in 1.4.0]] · Reliability and Performance
+- [[Changes/Dify/2025-05-15-5-apps-and-integrations-changes-in-1-4-0|5 Apps and Integrations changes in 1.4.0]] · Apps and Integrations
+- [[Changes/Dify/2025-05-15-refactor-workflow-revamp-logging-module-for-loop-iteration-nodes-by-auxpd-in-htt|refactor(workflow): revamp logging module for loop & iteration nodes]] · Automation and Scheduling
+- [[Changes/Dify/2025-05-15-72-other-changes-in-1-4-0|72 other changes in 1.4.0]] · Other changes
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="nearby" -->
+## Nearby in Multimodal Input
+
+- Earlier: 2025-05-13 · Ollama · [[Changes/Ollama/2025-05-13-2-multimodal-input-changes-in-v0-7-0|2 Multimodal Input changes in v0.7.0]]
+- Later: 2025-05-21 · Ollama · [[Changes/Ollama/2025-05-21-support-for-alibaba-s-qwen-3-and-qwen-2-architectures-in-ollama-s-new-multimodal|Support for Alibaba's Qwen 3 and Qwen 2 architectures in Ollama's new multimodal…]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="relations" -->
+## Related
+
+- Earliest same-theme entry in the tracked set: 2023-09-19 · Dify · [[Changes/Dify/2023-09-19-add-video-to-cn-readme-by-crazywoola-in-https-github-com-langgenius-dify-pull-11|add video to cn readme]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="footer" -->
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20dify-2025-05-15-315e11&body=Card%3A%20Changes%2FDify%2F2025-05-15-feat-api-add-image-multimodal-support-for-llmnode-by-quantumghost-in-https-githu.md%0ACard%20ID%3A%20dify-2025-05-15-315e11%0ASource%3A%20https%3A%2F%2Fgithub.com%2Flanggenius%2Fdify%2Freleases%2Ftag%2F1.4.0%0A%0AWhat%20should%20be%20corrected%3F%0A)
+<!-- chronolog:end -->

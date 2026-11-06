@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: cf29a2178bd1b1f062d4e1b96ce9cb757ac3c220ea3448038b43139340900ae1
+machine_hash: 8e22626bcba99a931a9c4540d0657c86fc5d8202741c4bb88bf76da2629dc547
 product: openhands
 product_name: OpenHands
 record:
@@ -42,12 +42,12 @@ record:
   title: 'chore(verify-openhands): time network responses and order them by completion'
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-22-2-editor-experience-changes-in-v2-1-309|2 Editor
-  Experience changes in v2.1.309]]'
 - '[[Changes/OpenHands/2026-10-22-refactor-diff-express-the-markdown-preview-cap-in-css-by-enyst-in-https-github-c|refactor(diff):
   express the Markdown preview cap in CSS]]'
 - '[[Changes/Claude Code/2026-10-23-cloud-sessions-changed-the-cloud-environment-dialog-to-open-network-access-setup|Cloud
   sessions Changed the cloud environment dialog to open network access, setup…]]'
+- '[[Changes/Dify/2026-10-23-3-editor-experience-changes-in-1-18-0|3 Editor Experience
+  changes in 1.18.0]]'
 source_release: '[[Releases/OpenHands/openhands-2026-10-23-v1-33-0-github-421895037-4944fa1e|openhands-2026-10-23-v1-33-0-github-421895037-4944fa1e]]'
 source_type: github_releases
 theme: editor-experience
@@ -79,7 +79,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2026-10-23 · Claude Code · [[Changes/Claude Code/2026-10-23-cloud-sessions-changed-the-cloud-environment-dialog-to-open-network-access-setup|Cloud sessions Changed the cloud environment dialog to open network access, setup…]]
+- Earlier: 2026-10-23 · Dify · [[Changes/Dify/2026-10-23-3-editor-experience-changes-in-1-18-0|3 Editor Experience changes in 1.18.0]]
 - Later: 2026-10-23 · Windsurf · [[Changes/Windsurf/2026-10-23-in-ide-mode-a-chat-tab-whose-agent-could-not-start-a-session-says-why-and-offers|In IDE mode, a chat tab whose agent could not start a session says why and offers…]]
 <!-- chronolog:end -->
 

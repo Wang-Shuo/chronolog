@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: ac746904bf4629dc8873e24edb31c1254b5cda376c2109b7c61e6466598492e5
+machine_hash: a97b12e2da8e2b45f9f1e99330638a7122391240eda17241fe037e39cae32373
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -55,8 +55,8 @@ record:
   title: 7 Safety and Privacy changes in rust-v0.118.0
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-03-27-fixed-official-marketplace-plugin-scripts-failing-with-permission-denied-on-maco|Fixed
-  official marketplace plugin scripts failing…]]'
+- "[[Changes/Open WebUI/2026-03-27-terminal-server-connection-security-terminal-server-verification-and-policy-savi|\U0001F512
+  Terminal server connection security. Terminal server verification and policy…]]"
 - '[[Changes/GitHub Copilot CLI/2026-03-30-mcp-servers-using-microsoft-entra-id-authentication-no-longer-show-the-consent-s|MCP
   servers using Microsoft Entra ID authentication no longer show the consent…]]'
 - '[[Changes/OpenHands/2026-03-30-added-clear-command-for-v1-conversations-typing-clear-in-the-chat-creates-a-new|Added

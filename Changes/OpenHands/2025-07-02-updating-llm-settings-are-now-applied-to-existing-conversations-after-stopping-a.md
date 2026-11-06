@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: a352535f86e90a6084b8031b923036aa9a5abded9414a97b23254a87b9b6b193
+machine_hash: 8c7f2f4b48bff451a8bff1c735a9ea22eac1183b43ece2c26532e79e8ad266c0
 product: openhands
 product_name: OpenHands
 record:
@@ -43,12 +43,12 @@ record:
   title: Updating LLM settings are now applied to existing conversations after stopping…
   type: change
 related_changes:
-- '[[Changes/Cline/2025-06-29-2-model-support-changes-in-v3-18-1|2 Model Support changes
-  in v3.18.1]]'
-- '[[Changes/Gemini CLI/2025-07-01-5-model-support-changes-in-v0-1-8|5 Model Support
-  changes in v0.1.8]]'
+- '[[Changes/Dify/2025-07-02-4-model-support-changes-in-1-5-1|4 Model Support changes
+  in 1.5.1]]'
 - '[[Changes/Gemini CLI/2025-07-02-2-model-support-changes-in-v0-1-9|2 Model Support
   changes in v0.1.9]]'
+- '[[Changes/Ollama/2025-07-02-the-directory-in-which-models-are-stored-can-now-be-modified-this-allows-models|The
+  directory in which models are stored can now be modified!]]'
 source_release: '[[Releases/OpenHands/openhands-2025-07-02-0-48-0-github-229531654-8c83a404|openhands-2025-07-02-0-48-0-github-229531654-8c83a404]]'
 source_type: github_releases
 theme: model-support
@@ -79,7 +79,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2025-07-02 · Gemini CLI · [[Changes/Gemini CLI/2025-07-02-2-model-support-changes-in-v0-1-9|2 Model Support changes in v0.1.9]]
+- Earlier: 2025-07-02 · Ollama · [[Changes/Ollama/2025-07-02-the-directory-in-which-models-are-stored-can-now-be-modified-this-allows-models|The directory in which models are stored can now be modified!]]
 - Later: 2025-07-03 · Cline · [[Changes/Cline/2025-07-03-add-support-for-claude-sonnet-4-and-opus-4-model-in-sap-ai-core-provider-thanks|Add support for Claude Sonnet 4 and Opus 4 model in SAP AI Core provider…]]
 <!-- chronolog:end -->
 

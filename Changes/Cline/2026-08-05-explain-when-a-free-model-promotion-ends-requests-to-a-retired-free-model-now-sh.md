@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: d11442da5696c2776cbc3c489a478e8ca95f79ec77c28ed3fb3d5e39a4e21660
+machine_hash: ac8b52091927e43e6032ac55479ea6299e6efa4ecde8228c827abc24f99c3ee8
 product: cline
 product_name: Cline
 record:
@@ -47,10 +47,10 @@ record:
   title: Explain when a free model promotion ends
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-08-04-3-model-support-changes-in-v2-1-221|3 Model Support
-  changes in v2.1.221]]'
 - '[[Changes/Claude Code/2026-08-04-improved-the-refusal-when-claude-tries-to-invoke-a-skill-with-disable-model-invo|Improved
   the refusal when Claude tries to invoke a skill with disable-model-invocation]]'
+- '[[Changes/Ollama/2026-08-04-ollama-run-kimi-k3-now-offers-kimi-k3-cloud-for-cloud-only-models-that-publish-n|ollama
+  run kimi-k3 now offers kimi-k3:cloud for cloud-only models that publish…]]'
 - '[[Changes/Cline/2026-08-05-5-model-support-changes-in-v4-1-4|5 Model Support changes
   in v4.1.4]]'
 source_release: '[[Releases/Cline/cline-2026-08-05-v4-1-5-github-365842086-760e9ead|cline-2026-08-05-v4-1-5-github-365842086-760e9ead]]'

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 169c3cc0bdc7cb5174b7b47a9380195c9ec878e16828c9e06512ffcf09b8c57f
+machine_hash: 51f21e36b955142f8a3f94604400c60ae1b2a77036c60a044d1363b29c43c355
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -50,8 +50,8 @@ record:
   title: 5 Safety and Privacy changes in rust-v0.69.0
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2025-12-02-improve-code-coverage-for-cli-src-ui-privacy-package-by-megha1188-in-https-githu|Improve
-  code coverage for cli/src/ui/privacy package]]'
+- '[[Changes/Open WebUI/2025-12-02-2-safety-and-privacy-changes-in-v0-6-41|2 Safety
+  and Privacy changes in v0.6.41]]'
 - '[[Changes/Codex CLI/2025-12-09-3-safety-and-privacy-changes-in-rust-v0-66-0|3 Safety
   and Privacy changes in rust-v0.66.0]]'
 - '[[Changes/Gemini CLI/2025-12-09-add-consent-flag-to-link-command-by-kevinjwang1-in-https-github-com-google-gemin|Add
@@ -100,7 +100,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.69.0
 ## Nearby in Safety and Privacy
 
 - Earlier: 2025-12-09 · Gemini CLI · [[Changes/Gemini CLI/2025-12-09-add-consent-flag-to-link-command-by-kevinjwang1-in-https-github-com-google-gemin|Add consent flag to Link command]]
-- Later: 2025-12-13 · Codex CLI · [[Changes/Codex CLI/2025-12-13-3-safety-and-privacy-changes-in-rust-v0-72-0|3 Safety and Privacy changes in rust-v0.72.0]]
+- Later: 2025-12-11 · Dify · [[Changes/Dify/2025-12-11-2-safety-and-privacy-changes-in-1-11-0|2 Safety and Privacy changes in 1.11.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

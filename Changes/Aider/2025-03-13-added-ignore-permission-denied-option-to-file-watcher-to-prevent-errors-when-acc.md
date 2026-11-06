@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: d556c76c28c1e65535eec585280452e558c7d831ecfbdff0d420a466f83b1bc4
+machine_hash: 10831bf0c1fce8d322cb08819e3d729ac4b63a7c07a343948c358419d12e7c5c
 product: aider
 product_name: Aider
 record:
@@ -44,12 +44,12 @@ record:
   title: Added ignore_permission_denied option to file watcher to prevent errors…
   type: change
 related_changes:
-- '[[Changes/OpenHands/2024-10-17-add-modal-sandbox-support-as-a-new-runtime-by-pawalt-in-https-github-com-all-han|Add
-  Modal sandbox support as a new runtime]]'
-- '[[Changes/OpenHands/2024-12-04-support-custom-sandbox-for-resolver-by-malhotra5-in-https-github-com-all-hands-a|Support
-  custom sandbox for resolver]]'
-- "[[Changes/Cline/2024-12-18-cline-s-most-requested-feature-is-here-you-can-now-let-cline-work-more-autonomou|Cline's
-  most requested feature is here \U0001F389 You can now let Cline work more…]]"
+- '[[Changes/Lovable/2025-02-21-no-more-stuck-on-saving-changes-for-messages-that-produces-code-and-don-t-result|No
+  more stuck on saving changes... for messages that produces code and don''t…]]'
+- '[[Changes/Ollama/2025-02-27-fixed-a-series-of-permission-denied-issues-when-installing-ollama-on-linux|Fixed
+  a series of permission denied issues when installing Ollama on Linux]]'
+- '[[Changes/Dify/2025-03-11-2-safety-and-privacy-changes-in-1-0-1|2 Safety and Privacy
+  changes in 1.0.1]]'
 source_release: '[[Releases/Aider/aider-2025-03-13-v0-77-0-github-205707771-facc801d|aider-2025-03-13-v0-77-0-github-205707771-facc801d]]'
 source_type: github_releases
 theme: safety-privacy
@@ -84,8 +84,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Safety and Privacy
 
-- Earlier: 2024-12-18 · Cline · [[Changes/Cline/2024-12-18-cline-s-most-requested-feature-is-here-you-can-now-let-cline-work-more-autonomou|Cline's most requested feature is here 🎉 You can now let Cline work more…]]
-- Later: 2025-03-18 · ChatGPT · [[Changes/ChatGPT/2025-03-18-more-clear-and-private-incognito-keyboard-for-temporary-chats|More clear and private Incognito keyboard for Temporary Chats]]
+- Earlier: 2025-03-11 · Dify · [[Changes/Dify/2025-03-11-2-safety-and-privacy-changes-in-1-0-1|2 Safety and Privacy changes in 1.0.1]]
+- Later: 2025-03-13 · Gemini · [[Changes/Gemini/2025-03-13-gemini-gets-personal-with-tailored-help-based-on-your-search-history|Gemini gets personal, with tailored help based on your Search history]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

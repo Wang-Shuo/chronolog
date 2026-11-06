@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 64f06149e0453ac7ec8f19e9a9ab5b1d2f540aed56cd9accdbe5ef84e28fc519
+machine_hash: b6c4083e0fcacdfb275da66f3a3bb7d8a2b61e2e5593472845970c1d789e3e15
 product: cursor
 product_name: Cursor
 record:
@@ -44,10 +44,10 @@ record:
   title: 2 Apps and Integrations changes in 0.46.x
   type: change
 related_changes:
-- '[[Changes/OpenHands/2025-01-29-improved-performance-of-github-api-integration-by-using-modern-async-http-client|Improved
-  performance of GitHub API integration by using modern async HTTP client]]'
-- '[[Changes/Cline/2025-01-30-add-advanced-settings-to-remove-mcp-prompts-from-requests-to-save-tokens-enable|Add
-  Advanced Settings to remove MCP prompts from requests to save tokens…]]'
+- '[[Changes/Gemini/2025-02-12-priority-access-with-gemini-advanced-ask-gemini-to-look-back-at-past-chats-for-m|Priority
+  access with Gemini Advanced]]'
+- '[[Changes/Lovable/2025-02-12-3-apps-and-integrations-changes-in-lovable-updates-2025-02-12|3
+  Apps and Integrations changes in Lovable updates — 2025-02-12]]'
 - '[[Changes/Cline/2025-02-19-introducing-mcp-marketplace-you-can-now-discover-and-install-the-best-mcp-server|Introducing
   MCP Marketplace!]]'
 source_release: '[[Releases/Cursor/cursor-2025-02-19-0-46-x-https-cursor-com-changelog-0-46-x-640a0a10|cursor-2025-02-19-0-46-x-https-cursor-com-changelog-0-46-x-640a0a10]]'
@@ -93,7 +93,7 @@ Source: https://cursor.com/changelog/0-46-x
 ## Nearby in Apps and Integrations
 
 - Earlier: 2025-02-19 · Cline · [[Changes/Cline/2025-02-19-introducing-mcp-marketplace-you-can-now-discover-and-install-the-best-mcp-server|Introducing MCP Marketplace!]]
-- Later: 2025-03-01 · Cline · [[Changes/Cline/2025-03-01-2-apps-and-integrations-changes-in-v3-5-0|2 Apps and Integrations changes in v3.5.0]]
+- Later: 2025-02-21 · Replit · [[Changes/Replit/2025-02-21-one-click-deploy-for-assistant|One-click deploy for Assistant]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

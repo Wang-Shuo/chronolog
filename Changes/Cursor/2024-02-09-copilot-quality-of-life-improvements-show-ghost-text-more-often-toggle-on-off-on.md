@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 313994bbcffddab10c336eedc66032420259379dc3571cb8cd6f3810c052db38
+machine_hash: f692830872ce452f7c73f16bb7e93b6b0e4bea341668b4d3ecfafeffb7a6e51a
 product: cursor
 product_name: Cursor
 record:
@@ -45,10 +45,10 @@ record:
   title: Copilot++ quality of life improvements…
   type: change
 related_changes:
-- '[[Changes/Cursor/2024-01-18-chat-lints-if-the-ai-suggests-a-code-change-in-chat-that-involves-a-made-up-code|Chat
-  lints: If the AI suggests a code change in chat that involves a made up code…]]'
 - '[[Changes/Aider/2024-01-23-3-editor-experience-changes-in-v0-22-0|3 Editor Experience
   changes in v0.22.0]]'
+- '[[Changes/Dify/2024-02-01-feat-prompt-ide-support-change-height-by-iamjoel-in-https-github-com-langgenius|feat:
+  prompt IDE support change height]]'
 - '[[Changes/Cursor/2024-02-02-hold-down-cmd-i-over-a-selection-to-heal-the-code-with-gpt-4-useful-for-writing|Cmd-I
   to Heal]]'
 source_release: '[[Releases/Cursor/cursor-2024-02-09-0-26-https-cursor-com-changelog-0-26-9569782c|cursor-2024-02-09-0-26-https-cursor-com-changelog-0-26-9569782c]]'

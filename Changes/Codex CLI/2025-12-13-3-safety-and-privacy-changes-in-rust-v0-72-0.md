@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 87abdd670a8b1986c0cca7747a4278a10d8c594d29c9da1ef7fc72386920b1cf
+machine_hash: 7e773a509a10ca4ec84d23ad758ba7ef39569acb727621a56ec91b8febc15cd1
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -45,12 +45,12 @@ record:
   title: 3 Safety and Privacy changes in rust-v0.72.0
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2025-12-09-3-safety-and-privacy-changes-in-rust-v0-66-0|3 Safety
-  and Privacy changes in rust-v0.66.0]]'
-- '[[Changes/Gemini CLI/2025-12-09-add-consent-flag-to-link-command-by-kevinjwang1-in-https-github-com-google-gemin|Add
-  consent flag to Link command]]'
-- '[[Changes/Codex CLI/2025-12-10-5-safety-and-privacy-changes-in-rust-v0-69-0|5 Safety
-  and Privacy changes in rust-v0.69.0]]'
+- '[[Changes/Dify/2025-12-12-3-safety-and-privacy-changes-in-1-11-1|3 Safety and Privacy
+  changes in 1.11.1]]'
+- '[[Changes/v0/2025-12-12-cve-2025-55184-denial-of-service-dos-vulnerability|CVE-2025-55184
+  : Denial of Service (DoS) vulnerability]]'
+- '[[Changes/v0/2025-12-12-cve-2025-55183-source-code-disclosure-vulnerability|CVE-2025-55183
+  : Source code disclosure vulnerability]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2025-12-13-rust-v0-72-0-github-270052666-cf6fbee8|codex-cli-2025-12-13-rust-v0-72-0-github-270052666-cf6fbee8]]'
 source_type: github_releases
 theme: safety-privacy
@@ -88,7 +88,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.72.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Safety and Privacy
 
-- Earlier: 2025-12-10 · Codex CLI · [[Changes/Codex CLI/2025-12-10-5-safety-and-privacy-changes-in-rust-v0-69-0|5 Safety and Privacy changes in rust-v0.69.0]]
+- Earlier: 2025-12-12 · v0 · [[Changes/v0/2025-12-12-cve-2025-55183-source-code-disclosure-vulnerability|CVE-2025-55183 : Source code disclosure vulnerability]]
 - Later: 2025-12-15 · Codex CLI · [[Changes/Codex CLI/2025-12-15-3-safety-and-privacy-changes-in-rust-v0-73-0|3 Safety and Privacy changes in rust-v0.73.0]]
 <!-- chronolog:end -->
 

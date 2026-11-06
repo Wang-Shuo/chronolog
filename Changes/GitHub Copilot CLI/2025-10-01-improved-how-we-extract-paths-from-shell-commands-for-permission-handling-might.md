@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 9880d6d9b4bc293155a73a8084ebe5551473b2067f8cf4e1c4173f4f05f11835
+machine_hash: 1ba0ed86c7d277eb9245f4af387ca3d92a354b8e77211cd34eba3390644aa331
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -45,9 +45,10 @@ record:
   title: Improved how we extract paths from shell commands for permission handling…
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2025-09-29-we-re-rolling-out-parental-controls-globally-in-chatgpt-to-help-families-guide-h-289d0a|ChatGPT
-  rolls out parental controls globally to help families guide how ChatGPT…]]'
-- '[[Changes/Cursor/2025-09-29-sandboxed-terminals|Sandboxed terminals]]'
+- '[[Changes/Dify/2025-09-29-3-safety-and-privacy-changes-in-1-9-1|3 Safety and Privacy
+  changes in 1.9.1]]'
+- '[[Changes/Open WebUI/2025-09-29-2-safety-and-privacy-changes-in-v0-6-32|2 Safety
+  and Privacy changes in v0.6.32]]'
 - '[[Changes/Gemini CLI/2025-10-01-4-safety-and-privacy-changes-in-v0-7-0|4 Safety
   and Privacy changes in v0.7.0]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2025-10-01-v0-0-332-github-251578896-6e8ac1df|github-copilot-cli-2025-10-01-v0-0-332-github-251578896-6e8ac1df]]'

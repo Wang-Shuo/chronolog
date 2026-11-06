@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: e1bb1ec0828e209e8f37e751f9f8c51153ebe401fbdbd01c360eb3f99e7acd0a
+machine_hash: 2fcc138e9523149e6765881b38114160c200b69d91f354cb916f6380fa1cb2df
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -89,7 +89,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.65
 ## Nearby in Interface Experience
 
 - Earlier: 2026-06-23 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-06-23-11-interface-experience-changes-in-v1-0-64|11 Interface Experience changes in v1.0.64]]
-- Later: 2026-06-26 · Claude Code · [[Changes/Claude Code/2026-06-26-added-claude-code-disable-mouse-clicks-to-disable-mouse-click-drag-hover-in-full|Added CLAUDE_CODE_DISABLE_MOUSE_CLICKS to disable mouse click/drag/hover…]]
+- Later: 2026-06-25 · Dify · [[Changes/Dify/2026-06-25-6-interface-experience-changes-in-1-15-0|6 Interface Experience changes in 1.15.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

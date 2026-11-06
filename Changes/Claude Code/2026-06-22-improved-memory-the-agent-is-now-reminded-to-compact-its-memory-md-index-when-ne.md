@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: memory
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: f278767cfb1dbea16ee383c0fa610ea06457ae2af1b8f5569eb4191fa5b330ec
+machine_hash: a4ef761ef7c48e5bd24054434fbe39687ac95f25c32c3c3b1d2c73e7d9a2481e
 product: claude-code
 product_name: Claude Code
 record:
@@ -95,7 +95,7 @@ type: change
 ## Nearby in Memory and Personalization
 
 - Earlier: 2026-06-18 · Cursor · [[Changes/Cursor/2026-06-18-you-can-now-delete-memory-files-in-the-ui-or-prompt-your-automation-to-delete-ou|Delete memory files in the UI, or prompt your automation to delete outdated memories…]]
-- Later: 2026-07-08 · Codex CLI · [[Changes/Codex CLI/2026-07-08-2-memory-and-personalization-changes-in-rust-v0-143-0|2 Memory and Personalization changes in rust-v0.143.0]]
+- Later: 2026-06-29 · Open WebUI · [[Changes/Open WebUI/2026-06-29-5-memory-and-personalization-changes-in-v0-10-0|5 Memory and Personalization changes in v0.10.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

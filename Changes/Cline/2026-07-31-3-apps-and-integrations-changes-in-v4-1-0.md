@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 0b00da63da0a82f4e51fdda72acb6708d05f6d3dcb7f95052a462dcd9acbba90
+machine_hash: 4874e04422f0787bce2be1359edf01e9b35a667c2a7725684b36ffbf48cb4b94
 product: cline
 product_name: Cline
 record:
@@ -51,8 +51,8 @@ record:
   title: 3 Apps and Integrations changes in v4.1.0
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-07-29-47-apps-and-integrations-changes-in-rust-v0-146-0|47
-  Apps and Integrations changes in rust-v0.146.0]]'
+- '[[Changes/Lovable/2026-07-29-app-chat-connectors-amazon-redshift-and-microsoft-fabric|App
+  + chat connectors: Amazon Redshift and Microsoft Fabric]]'
 - '[[Changes/GitHub Copilot CLI/2026-07-30-2-apps-and-integrations-changes-in-v1-0-76|2
   Apps and Integrations changes in v1.0.76]]'
 - '[[Changes/OpenHands/2026-07-30-feat-enable-disable-an-installed-mcp-server-from-its-card-by-hieptl-in-https-git|feat:
@@ -93,7 +93,7 @@ Source: https://github.com/cline/cline/releases/tag/v4.1.0
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-07-30 · OpenHands · [[Changes/OpenHands/2026-07-30-feat-enable-disable-an-installed-mcp-server-from-its-card-by-hieptl-in-https-git|feat: enable/disable an installed MCP server from its card]]
-- Later: 2026-08-03 · Cursor · [[Changes/Cursor/2026-08-03-cursor-can-now-read-write-and-act-across-your-google-workspace|Google Workspace Plugins]]
+- Later: 2026-07-31 · Lovable · [[Changes/Lovable/2026-07-31-lovable-mcp-updates|Lovable MCP updates]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

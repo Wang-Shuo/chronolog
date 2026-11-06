@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: be2d3fd46a232a6245ef1a5d9f79dae917f49eab803690c8ee8a4a7756ab0e90
+machine_hash: 499914e6590fe436df6309316c9e22b46899c1e60f28af4d98bf9aea993971f4
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,8 +45,8 @@ record:
     memory…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-14-improved-terminal-rendering-performance-large-diffs-and-long-transcripts-render|Improved
-  terminal rendering performance]]'
+- '[[Changes/Ollama/2026-09-14-2-reliability-and-performance-changes-in-v0-34-1|2
+  Reliability and Performance changes in v0.34.1]]'
 - '[[Changes/Claude Code/2026-09-15-improved-responsiveness-in-long-sessions-hook-progress-and-sub-agent-activity-no|Improved
   responsiveness in long sessions]]'
 - '[[Changes/GitHub Copilot CLI/2026-09-16-speed-up-startup-when-resuming-an-existing-local-session-by-its-exact-uuid-with|Speed
@@ -92,7 +92,7 @@ type: change
 ## Nearby in Reliability and Performance
 
 - Earlier: 2026-09-16 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-09-16-speed-up-startup-when-resuming-an-existing-local-session-by-its-exact-uuid-with|Speed up startup when resuming an existing local session by its exact UUID with --resume]]
-- Later: 2026-09-22 · Codex CLI · [[Changes/Codex CLI/2026-09-22-45960-tag-memory-usage-telemetry-with-the-memory-version-jif-oai|♯45960 Tag memory usage telemetry with the memory version @jif-oai]]
+- Later: 2026-09-21 · Open WebUI · [[Changes/Open WebUI/2026-09-21-general-improvements-various-improvements-were-implemented-across-the-applicatio|🔄 General improvements. Various improvements were implemented across…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

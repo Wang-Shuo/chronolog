@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 259ad5ba980cd1178fc91db192f7e9d82ebec8581fa719404435b5cc61b6153c
+machine_hash: 9d58975b096ff24a9f086df61d05e2dd90c660dcc94f69f0b72ec24d971466be
 product: claude-code
 product_name: Claude Code
 record:
@@ -43,12 +43,12 @@ record:
   title: Reduced UI stutter when compaction triggers on large sessions
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-03-20-changed-plan-mode-to-hide-the-clear-context-option-by-default-restore-with-showc|Changed
-  plan mode to hide the "clear context" option by default…]]'
 - '[[Changes/Gemini CLI/2026-03-24-2-context-window-changes-in-v0-35-0|2 Context Window
   changes in v0.35.0]]'
 - '[[Changes/ChatGPT/2026-03-25-starting-today-for-chatgpt-plus-pro-and-business-users-long-pastes-are-handled-d|Large
   pastes are now handled as attachments]]'
+- '[[Changes/Open WebUI/2026-03-25-3-context-window-changes-in-v0-8-11|3 Context Window
+  changes in v0.8.11]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-03-26-v2-1-85-github-302129484-6eb9dcd7|claude-code-2026-03-26-v2-1-85-github-302129484-6eb9dcd7]]'
 source_type: github_releases
 theme: context-window
@@ -84,7 +84,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Context Window
 
-- Earlier: 2026-03-25 · ChatGPT · [[Changes/ChatGPT/2026-03-25-starting-today-for-chatgpt-plus-pro-and-business-users-long-pastes-are-handled-d|Large pastes are now handled as attachments]]
+- Earlier: 2026-03-25 · Open WebUI · [[Changes/Open WebUI/2026-03-25-3-context-window-changes-in-v0-8-11|3 Context Window changes in v0.8.11]]
 - Later: 2026-03-26 · Claude Code · [[Changes/Claude Code/2026-03-26-2-context-window-changes-in-v2-1-84|2 Context Window changes in v2.1.84]]
 <!-- chronolog:end -->
 

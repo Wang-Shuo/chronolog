@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: c05b583aee1cf3412daefbb77832dadff32dd63753eea937f8b4589c9834ed5e
+machine_hash: 3d351a276a56f943a504070bff636e0952775ba35a6954d37d30bf24f0a17b55
 product: openhands
 product_name: OpenHands
 record:
@@ -44,12 +44,12 @@ record:
   title: 'test(e2e): launch the same-model profile test from the BETA profile'
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-08-3-model-support-changes-in-v2-1-295|3 Model Support
-  changes in v2.1.295]]'
 - '[[Changes/Codex CLI/2026-10-08-11-model-support-changes-in-rust-v0-162-0|11 Model
   Support changes in rust-v0.162.0]]'
 - '[[Changes/GitHub Copilot CLI/2026-10-08-add-claude-haiku-5-5-to-model-selection-and-model-completions|Add
   Claude Haiku 5.5 to model selection and --model completions]]'
+- '[[Changes/Ollama/2026-10-08-4-model-support-changes-in-v0-40-2|4 Model Support
+  changes in v0.40.2]]'
 source_release: '[[Releases/OpenHands/openhands-2026-10-08-v1-26-0-github-407241649-7e646875|openhands-2026-10-08-v1-26-0-github-407241649-7e646875]]'
 source_type: github_releases
 theme: model-support
@@ -83,7 +83,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-10-08 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-10-08-add-claude-haiku-5-5-to-model-selection-and-model-completions|Add Claude Haiku 5.5 to model selection and --model completions]]
+- Earlier: 2026-10-08 · Ollama · [[Changes/Ollama/2026-10-08-4-model-support-changes-in-v0-40-2|4 Model Support changes in v0.40.2]]
 - Later: 2026-10-09 · Claude Code · [[Changes/Claude Code/2026-10-09-claude-tag-changed-claude-in-slack-to-show-the-footer-with-the-session-link-mode|Claude Tag Changed Claude in Slack to show the footer with the session link, model…]]
 <!-- chronolog:end -->
 

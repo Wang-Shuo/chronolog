@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 2415ec0e5fbeec07902620f127f377f7b32520f06e2b0d69d74ff5513d64d70f
+machine_hash: 7b73e63f632d3c33dfef5b70e478618c9eb216331579ef8b50b64e79895e6715
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -53,11 +53,9 @@ record:
   title: 6 Apps and Integrations changes in v0.5.3
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-09-12-2-apps-and-integrations-changes-in-1-6|2 Apps and Integrations
-  changes in 1.6]]'
-- '[[Changes/Cursor/2025-09-12-mcp-resources-support|MCP Resources support]]'
-- '[[Changes/Codex CLI/2025-09-15-5-apps-and-integrations-changes-in-rust-v0-36-0|5
-  Apps and Integrations changes in rust-v0.36.0]]'
+- '[[Changes/ElevenLabs/2025-09-15-packages|Packages]]'
+- '[[Changes/ElevenLabs/2025-09-15-mcp-server|MCP Server]]'
+- '[[Changes/ElevenLabs/2025-09-15-sdk-releases|SDK Releases]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2025-09-17-v0-5-3-github-248106224-41cde85c|gemini-cli-2025-09-17-v0-5-3-github-248106224-41cde85c]]'
 source_type: github_releases
 theme: apps-integrations
@@ -104,8 +102,8 @@ Source: https://github.com/google-gemini/gemini-cli/releases/tag/v0.5.3
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2025-09-15 · Codex CLI · [[Changes/Codex CLI/2025-09-15-5-apps-and-integrations-changes-in-rust-v0-36-0|5 Apps and Integrations changes in rust-v0.36.0]]
-- Later: 2025-09-20 · Cline · [[Changes/Cline/2025-09-20-feat-oca-ui-add-oca-provider-with-model-picker-and-auth-integration-by-nihar-ora|feat(oca-ui): add OCA provider with model picker and auth integration]]
+- Earlier: 2025-09-15 · ElevenLabs · [[Changes/ElevenLabs/2025-09-15-sdk-releases|SDK Releases]]
+- Later: 2025-09-17 · Open WebUI · [[Changes/Open WebUI/2025-09-17-2-apps-and-integrations-changes-in-v0-6-29|2 Apps and Integrations changes in v0.6.29]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

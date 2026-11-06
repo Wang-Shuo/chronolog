@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 3bf57e29966cb6103d473135501198b00e055cc12671aba593ffbebfea225084
+machine_hash: 4d939c9c8a60f2feaf8344556e9a8b5062db724c0b9a1bae97227bcc0893fd7b
 product: claude-code
 product_name: Claude Code
 record:
@@ -94,7 +94,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.314
 ## Nearby in Mobile and Desktop
 
 - Earlier: 2026-10-29 · Codex CLI · [[Changes/Codex CLI/2026-10-29-57503-fix-macos-standalone-release-pruning-etraut-openai|♯57503 Fix macOS standalone release pruning @etraut-openai]]
-- Later: 2026-11-03 · OpenHands · [[Changes/OpenHands/2026-11-03-2-mobile-and-desktop-changes-in-v1-35-0|2 Mobile and Desktop changes in v1.35.0]]
+- Later: 2026-11-02 · ElevenLabs · [[Changes/ElevenLabs/2026-11-02-android-sdk|Android SDK]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

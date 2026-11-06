@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 64f6b5988d00f9da0d3c6b43db593b31c094d38191449e1b2c46e09e994e1c90
+machine_hash: 183805879b3f354c89881bfec6f977975cdb13b2d197f329d7f351305a92405a
 product: cursor
 product_name: Cursor
 record:
@@ -49,10 +49,10 @@ record:
   title: 5 Developer Workflow changes in 1.6
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2025-09-09-3-developer-workflow-changes-in-v0-4-0|3 Developer
-  Workflow changes in v0.4.0]]'
 - '[[Changes/Codex CLI/2025-09-10-2-developer-workflow-changes-in-rust-v0-32-0|2 Developer
   Workflow changes in rust-v0.32.0]]'
+- '[[Changes/Open WebUI/2025-09-10-4-developer-workflow-changes-in-v0-6-28|4 Developer
+  Workflow changes in v0.6.28]]'
 - '[[Changes/Cursor/2025-09-12-improved-terminal-for-agent|Improved terminal for Agent]]'
 source_release: '[[Releases/Cursor/cursor-2025-09-12-1-6-https-cursor-com-changelog-1-6-f33fb3ea|cursor-2025-09-12-1-6-https-cursor-com-changelog-1-6-f33fb3ea]]'
 source_type: cursor_changelog
@@ -101,7 +101,7 @@ Source: https://cursor.com/changelog/1-6
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2025-09-10 · Codex CLI · [[Changes/Codex CLI/2025-09-10-2-developer-workflow-changes-in-rust-v0-32-0|2 Developer Workflow changes in rust-v0.32.0]]
+- Earlier: 2025-09-10 · Open WebUI · [[Changes/Open WebUI/2025-09-10-4-developer-workflow-changes-in-v0-6-28|4 Developer Workflow changes in v0.6.28]]
 - Later: 2025-09-13 · Cline · [[Changes/Cline/2025-09-13-feature-to-generate-commit-message-for-staged-changes-with-unstaged-as-fallback|Feature to generate commit message for staged changes, with unstaged as fallback]]
 <!-- chronolog:end -->
 

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 2a0b067570e0e03131ea5d34ee93c758cf870f7a9ea7e3257d9d84f84ee969d1
+machine_hash: 123c7ad912dd047126616b647fc9d6a5afc697378ad496ecd2d5a5d1770c04c1
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -63,8 +63,7 @@ record:
   title: 11 Agent Mode changes in rust-v0.140.0
   type: change
 related_changes:
-- '[[Changes/OpenHands/2026-06-10-2-agent-mode-changes-in-1-8-0|2 Agent Mode changes
-  in 1.8.0]]'
+- '[[Changes/Replit/2026-06-12-agent|Agent]]'
 - '[[Changes/GitHub Copilot CLI/2026-06-13-4-agent-mode-changes-in-v1-0-62|4 Agent
   Mode changes in v1.0.62]]'
 - '[[Changes/Claude Code/2026-06-15-2-agent-mode-changes-in-v2-1-178|2 Agent Mode
@@ -137,7 +136,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.140.0
 ## Nearby in Agent Mode
 
 - Earlier: 2026-06-15 · Claude Code · [[Changes/Claude Code/2026-06-15-2-agent-mode-changes-in-v2-1-178|2 Agent Mode changes in v2.1.178]]
-- Later: 2026-06-16 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-06-16-agent-mode-is-tracked-per-session-so-it-no-longer-carries-over-when-you-create-c|Agent mode is tracked per session, so it no longer carries over when you create…]]
+- Later: 2026-06-15 · ElevenLabs · [[Changes/ElevenLabs/2026-06-15-elevenagents|ElevenAgents]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

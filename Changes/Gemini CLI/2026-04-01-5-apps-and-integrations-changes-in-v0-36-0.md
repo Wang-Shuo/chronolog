@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: eb480ba8ffb3e1ab48ca24d693054a096bf39a6cbcf3f2931c76e22362d51182
+machine_hash: b728aa98098140447fed4691f861c0b8351b90ceece5e52458cd8d5fb163f1da
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -52,12 +52,10 @@ record:
   title: 5 Apps and Integrations changes in v0.36.0
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-03-31-5-apps-and-integrations-changes-in-v1-0-14|5
-  Apps and Integrations changes in v1.0.14]]'
-- '[[Changes/Claude Code/2026-04-01-3-apps-and-integrations-changes-in-v2-1-89|3 Apps
-  and Integrations changes in v2.1.89]]'
 - '[[Changes/Claude Code/2026-04-01-2-apps-and-integrations-changes-in-v2-1-90|2 Apps
   and Integrations changes in v2.1.90]]'
+- '[[Changes/ElevenLabs/2026-04-01-elevenagents-2b20f8|ElevenAgents]]'
+- '[[Changes/ElevenLabs/2026-04-01-sdk-releases|SDK Releases]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2026-04-01-v0-36-0-github-304395807-bc719eb1|gemini-cli-2026-04-01-v0-36-0-github-304395807-bc719eb1]]'
 source_type: github_releases
 theme: apps-integrations
@@ -108,7 +106,7 @@ Source: https://github.com/google-gemini/gemini-cli/releases/tag/v0.36.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-04-01 · Claude Code · [[Changes/Claude Code/2026-04-01-2-apps-and-integrations-changes-in-v2-1-90|2 Apps and Integrations changes in v2.1.90]]
+- Earlier: 2026-04-01 · ElevenLabs · [[Changes/ElevenLabs/2026-04-01-sdk-releases|SDK Releases]]
 - Later: 2026-04-01 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-04-01-5-apps-and-integrations-changes-in-v1-0-15|5 Apps and Integrations changes in v1.0.15]]
 <!-- chronolog:end -->
 

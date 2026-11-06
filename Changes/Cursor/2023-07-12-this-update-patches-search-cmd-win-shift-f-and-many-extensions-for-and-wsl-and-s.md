@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 4c3f2ce355e22b213cc89d34ceb5a5fa9164b5f0564b228a19eb9ca7faa852b1
+machine_hash: cd54daac7ef3de0484378c59d80cb6118418765942d2ad81093f1216660c1c15
 product: cursor
 product_name: Cursor
 record:
@@ -76,7 +76,7 @@ type: change
 ## Nearby in Developer Workflow
 
 - Earlier: 2023-07-12 · Aider · [[Changes/Aider/2023-07-12-2-developer-workflow-changes-in-v0-8-3|2 Developer Workflow changes in v0.8.3]]
-- Later: 2023-07-22 · Aider · [[Changes/Aider/2023-07-22-2-developer-workflow-changes-in-v0-10-0|2 Developer Workflow changes in v0.10.0]]
+- Later: 2023-07-18 · Dify · [[Changes/Dify/2023-07-18-feat-add-bash-before-entrypoint-sh-in-dockerfile-by-takatost-in-https-github-com|feat: add bash before entrypoint.sh in Dockerfile]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

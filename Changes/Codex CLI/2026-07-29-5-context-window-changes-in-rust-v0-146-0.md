@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 67c331e58581117fe3a3e552fe1a102abc2753598296ad0d8e76fb72283e0fb4
+machine_hash: 7249162742c41d7c17ff57cf27add991974ffe123e5225d47f7d3325309e59aa
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -50,12 +50,12 @@ record:
   title: 5 Context Window changes in rust-v0.146.0
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-07-22-changed-skills-with-context-fork-to-run-in-the-background-by-default-opt-out-per|Changed
-  skills with context: fork to run in the background by default]]'
-- '[[Changes/Gemini CLI/2026-07-22-refactor-exclude-transient-ci-configuration-files-from-workspace-context-by-davi|Refactor:
-  exclude transient CI configuration files from workspace context]]'
-- '[[Changes/Cline/2026-07-24-add-claude-opus-5-across-the-anthropic-claude-code-bedrock-vertex-cline-and-open|Add
-  Claude Opus 5 across the Anthropic, Claude Code, Bedrock, Vertex, Cline…]]'
+- '[[Changes/Lovable/2026-07-25-leaked-api-keys-are-revoked-automatically|Leaked API
+  keys are revoked automatically]]'
+- '[[Changes/Open WebUI/2026-07-27-9-context-window-changes-in-v0-11-0|9 Context Window
+  changes in v0.11.0]]'
+- '[[Changes/Dify/2026-07-28-refactor-agents-simplify-repository-context-by-lyzno1-in-https-github-com-langge|refactor(agents):
+  simplify repository context]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-07-29-rust-v0-146-0-github-361463950-6d491983|codex-cli-2026-07-29-rust-v0-146-0-github-361463950-6d491983]]'
 source_type: github_releases
 theme: context-window
@@ -109,7 +109,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.146.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Context Window
 
-- Earlier: 2026-07-24 · Cline · [[Changes/Cline/2026-07-24-add-claude-opus-5-across-the-anthropic-claude-code-bedrock-vertex-cline-and-open|Add Claude Opus 5 across the Anthropic, Claude Code, Bedrock, Vertex, Cline…]]
+- Earlier: 2026-07-28 · Dify · [[Changes/Dify/2026-07-28-refactor-agents-simplify-repository-context-by-lyzno1-in-https-github-com-langge|refactor(agents): simplify repository context]]
 - Later: 2026-07-30 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-07-30-restore-the-early-warning-when-unreclaimable-system-and-tool-context-nears-the-l|Restore the early warning when unreclaimable system and tool context nears…]]
 <!-- chronolog:end -->
 

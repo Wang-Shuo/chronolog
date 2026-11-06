@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: c355e1341a677ab778ed13e46ed2374428710274e985099c7908ebb186fd9143
+machine_hash: c0dce803506cc7bd22b4700bc31bbdc98467fe2dbba50db6ade1fbb725389591
 product: openhands
 product_name: OpenHands
 record:
@@ -43,8 +43,8 @@ record:
   title: 2 Model Support changes in 0.46.0
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2025-06-16-enterprise-and-edu-users-can-also-now-choose-from-the-full-set-of-chatgpt-models-1ea372|Expanded
-  Model Support for Custom GPTs]]'
+- '[[Changes/Open WebUI/2025-06-16-2-model-support-changes-in-v0-6-15|2 Model Support
+  changes in v0.6.15]]'
 - '[[Changes/OpenHands/2025-06-20-fixed-cli-displaying-incorrect-default-model-for-anthropic-provider-by-neubig-in|Fixed
   CLI displaying incorrect default model for Anthropic provider by @neubig…]]'
 - '[[Changes/OpenHands/2025-06-20-deprecation-warnings-in-cli-and-during-llm-api-calls-by-xingyaoww-in-https-githu|Deprecation
@@ -84,7 +84,7 @@ Source: https://github.com/OpenHands/OpenHands/releases/tag/0.46.0
 ## Nearby in Model Support
 
 - Earlier: 2025-06-20 · OpenHands · [[Changes/OpenHands/2025-06-20-deprecation-warnings-in-cli-and-during-llm-api-calls-by-xingyaoww-in-https-githu|Deprecation Warnings in CLI and during LLM API calls by @xingyaoww…]]
-- Later: 2025-06-26 · Cline · [[Changes/Cline/2025-06-26-3-model-support-changes-in-v3-18-0|3 Model Support changes in v3.18.0]]
+- Later: 2025-06-25 · Dify · [[Changes/Dify/2025-06-25-2-model-support-changes-in-1-5-0|2 Model Support changes in 1.5.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

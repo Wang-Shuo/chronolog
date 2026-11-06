@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 81c34979d2aa3cc758c86c0e06fafc5fe2118ce3f33e51cbc4a91138b2229b7a
+machine_hash: 1fdb4bc193b0ab69a78484be1aed5b9fb187e5da855b20a5e7b5bec2b87e8fc1
 product: cline
 product_name: Cline
 record:
@@ -40,10 +40,10 @@ record:
   title: Add MCP enterprise configuration details
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-02-21-explore-agent-can-now-use-github-mcp-tools-when-available|Explore
-  agent can now use GitHub MCP tools when available]]'
-- '[[Changes/GitHub Copilot CLI/2026-02-23-5-apps-and-integrations-changes-in-v0-0-415|5
-  Apps and Integrations changes in v0.0.415]]'
+- "[[Changes/Open WebUI/2026-02-23-mcp-ssl-verification-fix-mcp-tool-connections-now-properly-respect-the-aiohttp-c|\U0001F513
+  MCP SSL verification fix. MCP tool connections now properly respect…]]"
+- '[[Changes/Claude/2026-02-24-cowork-plugins-and-admin-controls|Cowork plugins and
+  admin controls]]'
 - '[[Changes/Claude Code/2026-02-24-4-apps-and-integrations-changes-in-v2-1-51|4 Apps
   and Integrations changes in v2.1.51]]'
 source_release: '[[Releases/Cline/cline-2026-02-24-v3-67-0-github-289672223-0705057f|cline-2026-02-24-v3-67-0-github-289672223-0705057f]]'

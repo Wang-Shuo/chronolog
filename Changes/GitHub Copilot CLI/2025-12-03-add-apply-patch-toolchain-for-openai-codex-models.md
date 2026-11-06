@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 9ee6752961323a71169747a344c2e3b19b84202a5358086fd37241dbef227952
+machine_hash: 91fa6140eaa229eaa4a62359023f0574e1fe7ca1bcd6318f88cdd9946871dc5a
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -41,12 +41,12 @@ record:
   title: Add apply_patch toolchain for OpenAI Codex models
   type: change
 related_changes:
-- '[[Changes/Cline/2025-12-02-skip-reasoning-details-on-microwave-model-by-canvrno-in-https-github-com-cline-c|Skip
-  reasoning_details on microwave model]]'
 - '[[Changes/Codex CLI/2025-12-02-2-model-support-changes-in-rust-v0-64-0|2 Model
   Support changes in rust-v0.64.0]]'
 - '[[Changes/Gemini CLI/2025-12-02-5-model-support-changes-in-v0-19-0|5 Model Support
   changes in v0.19.0]]'
+- '[[Changes/Open WebUI/2025-12-02-9-model-support-changes-in-v0-6-41|9 Model Support
+  changes in v0.6.41]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2025-12-03-v0-0-366-github-267255475-d2d2ee8e|github-copilot-cli-2025-12-03-v0-0-366-github-267255475-d2d2ee8e]]'
 source_type: github_releases
 theme: model-support
@@ -76,7 +76,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2025-12-02 · Gemini CLI · [[Changes/Gemini CLI/2025-12-02-5-model-support-changes-in-v0-19-0|5 Model Support changes in v0.19.0]]
+- Earlier: 2025-12-02 · Open WebUI · [[Changes/Open WebUI/2025-12-02-9-model-support-changes-in-v0-6-41|9 Model Support changes in v0.6.41]]
 - Later: 2025-12-04 · Cline · [[Changes/Cline/2025-12-04-feat-set-default-thinking-level-for-gemini-3-pro-models-by-abeatrix-in-https-git|feat: set default thinking level for Gemini 3 Pro models]]
 <!-- chronolog:end -->
 

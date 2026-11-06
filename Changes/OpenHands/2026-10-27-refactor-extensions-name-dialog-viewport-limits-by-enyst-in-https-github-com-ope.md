@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 373a6e6191a6929b7a4965fa283ef5b58c2151c88fdc394b571fb4cf5a21faf7
+machine_hash: 6366406121c4b6ded2768ab077822fab8e776720204acb8572c3d88a5335a9ea
 product: openhands
 product_name: OpenHands
 record:
@@ -43,12 +43,11 @@ record:
   title: 'refactor(extensions): name dialog viewport limits'
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-27-2-apps-and-integrations-changes-in-v2-1-312|2
-  Apps and Integrations changes in v2.1.312]]'
 - '[[Changes/Codex CLI/2026-10-27-10-apps-and-integrations-changes-in-rust-v0-165-0|10
   Apps and Integrations changes in rust-v0.165.0]]'
 - '[[Changes/GitHub Copilot CLI/2026-10-27-interactive-and-sdk-autopilot-sessions-keep-waiting-for-attached-background-task|Interactive
   and SDK Autopilot sessions keep waiting for attached background tasks…]]'
+- '[[Changes/Lovable/2026-10-27-connect-your-app-to-scrive|Connect your app to Scrive]]'
 source_release: '[[Releases/OpenHands/openhands-2026-10-27-v1-34-0-github-425575573-3f638892|openhands-2026-10-27-v1-34-0-github-425575573-3f638892]]'
 source_type: github_releases
 theme: apps-integrations
@@ -86,7 +85,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-10-27 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-10-27-interactive-and-sdk-autopilot-sessions-keep-waiting-for-attached-background-task|Interactive and SDK Autopilot sessions keep waiting for attached background tasks…]]
+- Earlier: 2026-10-27 · Lovable · [[Changes/Lovable/2026-10-27-connect-your-app-to-scrive|Connect your app to Scrive]]
 - Later: 2026-10-29 · Codex CLI · [[Changes/Codex CLI/2026-10-29-22-apps-and-integrations-changes-in-rust-v0-166-0|22 Apps and Integrations changes in rust-v0.166.0]]
 <!-- chronolog:end -->
 

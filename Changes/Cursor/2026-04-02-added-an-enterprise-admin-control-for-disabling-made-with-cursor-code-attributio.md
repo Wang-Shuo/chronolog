@@ -4,20 +4,20 @@ date: '2026-04-02'
 description: 'Cursor · 2026-04-02 · Enterprise and Administration: Added an Enterprise
   Admin control for disabling "Made with Cursor" code attribution for the entire team…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2024-03-20-admin-improvements-team-admins-can-now-mark-themselves-as-unpaid-users-and-can-s|Admin
-    improvements: Team admins can now mark themselves as unpaid users and can see…]]'
+  first_in_tracked: '[[Changes/Gemini/2023-05-05-access-for-google-workspace-accounts|Access
+    for Google Workspace accounts]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 743
+  lag_days: 1063
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: 62dc65a46725d6d73ee3b80677e5d34513c3c145e34de05bc8a4702cf0de6171
+machine_hash: 3b42e42526b6550383e5b9fa245f42d205c0979aebdf2d5c82c752756c6f5ce2
 product: cursor
 product_name: Cursor
 record:
@@ -56,12 +56,12 @@ record:
   title: Added an Enterprise Admin control for disabling "Made with Cursor" code attribution…
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-03-17-we-ve-simplified-the-model-picker-to-make-it-easier-to-choose-the-right-level-of-a3fc77|We’ve
-  simplified the model picker to make it easier to choose the right level of reasoning]]'
 - '[[Changes/Claude Code/2026-03-26-added-allowedchannelplugins-managed-setting-for-team-enterprise-admins-to-define|Added
   allowedChannelPlugins managed setting for team/enterprise admins to define…]]'
 - '[[Changes/Codex CLI/2026-03-26-15789-treat-chatgpt-hc-plan-as-enterprise-arnavdugar-openai|♯15789
   Treat ChatGPT hc plan as Enterprise @arnavdugar-openai]]'
+- '[[Changes/Dify/2026-03-27-refactor-workspace-optimize-workspaces-plan-resolution-for-saas-and-enterprise-w|refactor(workspace):
+  optimize /workspaces plan resolution for SaaS and enterprise…]]'
 source_release: '[[Releases/Cursor/cursor-2026-04-02-3-0-https-cursor-com-changelog-3-0-c58cd2ad|cursor-2026-04-02-3-0-https-cursor-com-changelog-3-0-c58cd2ad]]'
 source_type: cursor_changelog
 theme: enterprise-admin
@@ -102,14 +102,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Enterprise and Administration
 
-- Earlier: 2026-03-26 · Codex CLI · [[Changes/Codex CLI/2026-03-26-15789-treat-chatgpt-hc-plan-as-enterprise-arnavdugar-openai|♯15789 Treat ChatGPT hc plan as Enterprise @arnavdugar-openai]]
+- Earlier: 2026-03-27 · Dify · [[Changes/Dify/2026-03-27-refactor-workspace-optimize-workspaces-plan-resolution-for-saas-and-enterprise-w|refactor(workspace): optimize /workspaces plan resolution for SaaS and enterprise…]]
 - Later: 2026-04-04 · Claude Code · [[Changes/Claude Code/2026-04-04-added-forceremotesettingsrefresh-policy-setting-when-set-the-cli-blocks-startup|Added forceRemoteSettingsRefresh policy setting]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2024-03-20 · Cursor · [[Changes/Cursor/2024-03-20-admin-improvements-team-admins-can-now-mark-themselves-as-unpaid-users-and-can-s|Admin improvements: Team admins can now mark themselves as unpaid users and can see…]]
+- Earliest same-theme entry in the tracked set: 2023-05-05 · Gemini · [[Changes/Gemini/2023-05-05-access-for-google-workspace-accounts|Access for Google Workspace accounts]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

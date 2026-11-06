@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 4d0d651270d4759bd9f6fbc7a186ce84ba1457131c67f8a773e2d62ddc8410ab
+machine_hash: 3abbdc08d832ef433f6b7183e62cad2fbc793ec17cfb6eca119a5b3bb824f51e
 product: openhands
 product_name: OpenHands
 record:
@@ -41,12 +41,12 @@ record:
   title: 'feat: add compact section navigation on tablets'
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-10-08-clicking-a-sessions-sidebar-row-now-reliably-switches-sessions-during-split-view|Clicking
-  a Sessions sidebar row now reliably switches sessions during split-view…]]'
 - '[[Changes/OpenHands/2026-10-08-test-e2e-open-commits-from-the-tabs-pane-s-own-menu-by-enyst-in-https-github-com|test(e2e):
   open Commits from the tabs pane''s own menu]]'
 - '[[Changes/Claude Code/2026-10-09-improved-fullscreen-mode-the-link-under-the-mouse-pointer-is-now-underlined-to-s|Improved
   fullscreen mode]]'
+- '[[Changes/Open WebUI/2026-10-10-18-interface-experience-changes-in-v0-12-0|18 Interface
+  Experience changes in v0.12.0]]'
 source_release: '[[Releases/OpenHands/openhands-2026-10-12-v1-27-0-github-410728945-cac9a43e|openhands-2026-10-12-v1-27-0-github-410728945-cac9a43e]]'
 source_type: github_releases
 theme: interface-experience
@@ -80,8 +80,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-10-09 · Claude Code · [[Changes/Claude Code/2026-10-09-improved-fullscreen-mode-the-link-under-the-mouse-pointer-is-now-underlined-to-s|Improved fullscreen mode]]
-- Later: 2026-10-14 · Claude Code · [[Changes/Claude Code/2026-10-14-changed-exit-to-force-kill-background-commands-still-running-1-5-seconds-after-b|Changed exit to force-kill background commands still running 1.5 seconds after being…]]
+- Earlier: 2026-10-10 · Open WebUI · [[Changes/Open WebUI/2026-10-10-18-interface-experience-changes-in-v0-12-0|18 Interface Experience changes in v0.12.0]]
+- Later: 2026-10-13 · Lovable · [[Changes/Lovable/2026-10-13-search-for-individual-settings|Search for individual settings]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

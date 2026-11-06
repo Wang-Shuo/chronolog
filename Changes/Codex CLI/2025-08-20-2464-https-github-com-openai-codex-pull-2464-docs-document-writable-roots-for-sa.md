@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: f509fc408d9b96bd590dab85810f871a5998cc886f8ebc7203b8483f3d709985
+machine_hash: 524c0a7b73928cfb4db6f4eeb3f3760de9a7fca1453b49952bf2919ac42225f0
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -88,7 +88,7 @@ type: change
 ## Nearby in Safety and Privacy
 
 - Earlier: 2025-08-14 · Gemini CLI · [[Changes/Gemini CLI/2025-08-14-7-safety-and-privacy-changes-in-v0-1-21|7 Safety and Privacy changes in v0.1.21]]
-- Later: 2025-08-26 · Codex CLI · [[Changes/Codex CLI/2025-08-26-2587-do-not-show-timeouts-as-sandbox-error-s|♯2587 do not show timeouts as "sandbox error"s]]
+- Later: 2025-08-21 · Open WebUI · [[Changes/Open WebUI/2025-08-21-6-safety-and-privacy-changes-in-v0-6-23|6 Safety and Privacy changes in v0.6.23]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

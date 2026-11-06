@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 283e341af62b4a0a3e66abd1aa4786fc023960eb2e824b8cb59c59b5b287bbf8
+machine_hash: edd24000c2f684ff79e373623107e6d0c5fe1d580e5e1ca20b66b2f0fa069902
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -43,12 +43,11 @@ record:
   title: Number-key selection in the question dialog works for choices 10 and beyond
   type: change
 related_changes:
-- '[[Changes/Cline/2026-09-17-cline-s-logo-and-icons-have-been-refreshed-throughout-the-extension-including-th|Cline''s
-  logo and icons have been refreshed throughout the extension, including…]]'
 - '[[Changes/Codex CLI/2026-09-17-43846-include-completed-commentary-in-the-copy-picker-copyberry|♯43846
   Include completed commentary in the /copy picker @copyberry]]'
 - '[[Changes/Claude Code/2026-09-18-vscode-added-a-sign-out-row-to-the-panel-menu-with-logout-in-the-typed-command-m|VSCode
   Added a Sign out row to the panel menu, with /logout in the typed command menu]]'
+- '[[Changes/Lovable/2026-09-18-redesigned-project-cards|Redesigned project cards]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-09-21-v1-0-87-github-393077593-9fe949ec|github-copilot-cli-2026-09-21-v1-0-87-github-393077593-9fe949ec]]'
 source_type: github_releases
 theme: interface-experience
@@ -85,8 +84,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-09-18 · Claude Code · [[Changes/Claude Code/2026-09-18-vscode-added-a-sign-out-row-to-the-panel-menu-with-logout-in-the-typed-command-m|VSCode Added a Sign out row to the panel menu, with /logout in the typed command menu]]
-- Later: 2026-09-22 · Claude Code · [[Changes/Claude Code/2026-09-22-5-interface-experience-changes-in-v2-1-280|5 Interface Experience changes in v2.1.280]]
+- Earlier: 2026-09-18 · Lovable · [[Changes/Lovable/2026-09-18-redesigned-project-cards|Redesigned project cards]]
+- Later: 2026-09-21 · Open WebUI · [[Changes/Open WebUI/2026-09-21-13-interface-experience-changes-in-v0-11-4|13 Interface Experience changes in v0.11.4]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: pricing
-machine_hash: dd48987aa59063cc881e69b670e088b591fe4be1e2c059a8ea4a97917ae0742c
+machine_hash: 2f0bcb418ff9aa7254a7f36ca5df73219749cc5e620c166668863e74b2e7833b
 product: cursor
 product_name: Cursor
 record:
@@ -45,12 +45,11 @@ record:
     card
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-07-16-3-pricing-model-changes-in-v1-0-71|3 Pricing
-  Model changes in v1.0.71]]'
-- '[[Changes/Claude Code/2026-07-22-changed-server-managed-settings-so-benign-feature-and-cost-toggles-no-longer-tri|Changed
-  server-managed settings so benign feature and cost toggles no longer trigger…]]'
-- '[[Changes/Cursor/2026-07-22-2-pricing-model-changes-in-cursor-router|2 Pricing
-  Model changes in Cursor Router]]'
+- '[[Changes/Replit/2026-07-24-billing|Billing]]'
+- '[[Changes/Replit/2026-07-24-more-flexibility-when-changing-your-pro-plan|More flexibility
+  when changing your Pro plan]]'
+- '[[Changes/Open WebUI/2026-07-27-2-pricing-model-changes-in-v0-11-0|2 Pricing Model
+  changes in v0.11.0]]'
 source_release: '[[Releases/Cursor/cursor-2026-07-28-cursor-start-https-cursor-com-changelog-cursor-start-386914df|cursor-2026-07-28-cursor-start-https-cursor-com-changelog-cursor-start-386914df]]'
 source_type: cursor_changelog
 theme: pricing-model
@@ -82,8 +81,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Pricing Model
 
-- Earlier: 2026-07-22 · Cursor · [[Changes/Cursor/2026-07-22-2-pricing-model-changes-in-cursor-router|2 Pricing Model changes in Cursor Router]]
-- Later: 2026-07-29 · ChatGPT · [[Changes/ChatGPT/2026-07-29-research-rarely-happens-alone-chatgpt-for-academic-researchers-gives-faculty-and|ChatGPT for Academic Researchers]]
+- Earlier: 2026-07-27 · Open WebUI · [[Changes/Open WebUI/2026-07-27-2-pricing-model-changes-in-v0-11-0|2 Pricing Model changes in v0.11.0]]
+- Later: 2026-07-28 · Dify · [[Changes/Dify/2026-07-28-2-pricing-model-changes-in-1-16-1|2 Pricing Model changes in 1.16.1]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

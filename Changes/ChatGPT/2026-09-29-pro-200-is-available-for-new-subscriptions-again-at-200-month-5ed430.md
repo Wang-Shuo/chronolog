@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: pricing
-machine_hash: 95592070c8d138d3fe144a359c936c8b19fc1f927547baf2c77d64dd2f17bf39
+machine_hash: 4ca05d393a6a91aad251f45d312ca03825719854109b331379d31c9c3466c8b9
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -48,12 +48,10 @@ record:
   title: Pro 200 subscriptions
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-09-25-47086-format-analytics-credit-usage-with-consistent-decimal-precision-fcoury-oai|♯47086
-  Format analytics credit usage with consistent decimal precision @fcoury-oai]]'
-- '[[Changes/OpenHands/2026-09-25-feat-scope-openai-subscription-caches-by-backend-by-uczltw6-in-https-github-com|feat:
-  scope OpenAI subscription caches by backend]]'
 - '[[Changes/Claude Code/2026-09-28-2-pricing-model-changes-in-v2-1-284|2 Pricing
   Model changes in v2.1.284]]'
+- '[[Changes/ElevenLabs/2026-09-28-python-sdk|Python SDK]]'
+- '[[Changes/ElevenLabs/2026-09-28-javascript-sdk|JavaScript SDK]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-09-29-pro-200-subscriptions-a351b7b9|chatgpt-2026-09-29-pro-200-subscriptions-a351b7b9]]'
 source_type: chatgpt_changelog
 theme: pricing-model
@@ -82,7 +80,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Pricing Model
 
-- Earlier: 2026-09-28 · Claude Code · [[Changes/Claude Code/2026-09-28-2-pricing-model-changes-in-v2-1-284|2 Pricing Model changes in v2.1.284]]
+- Earlier: 2026-09-28 · ElevenLabs · [[Changes/ElevenLabs/2026-09-28-javascript-sdk|JavaScript SDK]]
 - Later: 2026-09-29 · ChatGPT · [[Changes/ChatGPT/2026-09-29-we-re-introducing-pro-500-a-new-500-month-plan-with-the-highest-included-usage-o-e04989|A new Pro plan with Astra Ultrafast]]
 <!-- chronolog:end -->
 

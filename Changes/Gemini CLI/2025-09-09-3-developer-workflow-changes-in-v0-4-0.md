@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 616bbc6d76d03fc8bb031678f7241fdd7e0173bad7bc4ef37c717af0b3991f63
+machine_hash: 59e0141106cdffa259521619cadbdc4dc598c16acb6a07326f05533c5bf3f0b6
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -92,7 +92,7 @@ Source: https://github.com/google-gemini/gemini-cli/releases/tag/v0.4.0
 ## Nearby in Developer Workflow
 
 - Earlier: 2025-09-08 · Codex CLI · [[Changes/Codex CLI/2025-09-08-2-developer-workflow-changes-in-rust-v0-31-0|2 Developer Workflow changes in rust-v0.31.0]]
-- Later: 2025-09-10 · Codex CLI · [[Changes/Codex CLI/2025-09-10-2-developer-workflow-changes-in-rust-v0-32-0|2 Developer Workflow changes in rust-v0.32.0]]
+- Later: 2025-09-09 · Open WebUI · [[Changes/Open WebUI/2025-09-09-14-developer-workflow-changes-in-v0-6-27|14 Developer Workflow changes in v0.6.27]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

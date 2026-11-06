@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 95e076bde83cf44f4d7926e81ef754adfb436a972a595d1cc81ca0b034596354
+machine_hash: da470ca35a3f577f134caccced0182f376a18e7dc14b148dd044c1584bd9745a
 product: openhands
 product_name: OpenHands
 record:
@@ -42,10 +42,10 @@ record:
   title: 'feat(conversation): give the drawer tab strip real tab semantics'
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-10-01-49082-skip-remote-git-discovery-for-guardian-diff-paths-jif-oai|♯49082
-  Skip remote Git discovery for Guardian diff paths @jif-oai]]'
 - '[[Changes/GitHub Copilot CLI/2026-10-05-2-editor-experience-changes-in-v1-0-92|2
   Editor Experience changes in v1.0.92]]'
+- '[[Changes/Lovable/2026-10-05-restore-lovable-work-after-a-push-to-your-git-repository-replaces-it|Restore
+  Lovable work after a push to your Git repository replaces it]]'
 - '[[Changes/Claude Code/2026-10-06-added-prompt-autocomplete-an-event-a-mod-hooks-to-add-its-own-rows-to-the-prompt|Added
   prompt.autocomplete, an event a mod hooks to add its own rows to the prompt…]]'
 source_release: '[[Releases/OpenHands/openhands-2026-10-06-v1-25-0-github-404205170-7fe522ed|openhands-2026-10-06-v1-25-0-github-404205170-7fe522ed]]'

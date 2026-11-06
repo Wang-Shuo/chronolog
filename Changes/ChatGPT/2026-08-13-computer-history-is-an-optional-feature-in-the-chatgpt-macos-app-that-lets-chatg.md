@@ -4,20 +4,20 @@ date: '2026-08-13'
 description: 'ChatGPT · 2026-08-13 · Enterprise and Administration: Computer History
   is an optional feature in the ChatGPT macOS app that lets ChatGPT and Codex reference…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2024-03-20-admin-improvements-team-admins-can-now-mark-themselves-as-unpaid-users-and-can-s|Admin
-    improvements: Team admins can now mark themselves as unpaid users and can see…]]'
+  first_in_tracked: '[[Changes/Gemini/2023-05-05-access-for-google-workspace-accounts|Access
+    for Google Workspace accounts]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 876
+  lag_days: 1196
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 0a58549199bf31f2595fcb347b8125c2ba6dd439b31ea88305dc01431e45c2f1
+machine_hash: 616e5acae58599581c4fca12b460b3d8547e2cdeb601075637e0bb01109ee524
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -71,10 +71,9 @@ record:
   title: Computer History for macOS
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-07-29-2-enterprise-and-administration-changes-in-rust-v0-146-0|2
-  Enterprise and Administration changes in rust-v0.146.0]]'
-- '[[Changes/ChatGPT/2026-08-04-starting-today-for-chatgpt-enterprise-and-education-users-long-pastes-are-handle|Starting
-  today for ChatGPT Enterprise and Education users, long pastes are handled…]]'
+- '[[Changes/Lovable/2026-08-07-unlimited-email-invites-on-paid-plans|Unlimited email
+  invites on paid plans]]'
+- '[[Changes/Replit/2026-08-07-teams-and-enterprise|Teams and Enterprise]]'
 - '[[Changes/GitHub Copilot CLI/2026-08-10-2-enterprise-and-administration-changes-in-v1-0-79|2
   Enterprise and Administration changes in v1.0.79]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-08-13-computer-history-for-macos-4b03e9a3|chatgpt-2026-08-13-computer-history-for-macos-4b03e9a3]]'
@@ -110,7 +109,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2024-03-20 · Cursor · [[Changes/Cursor/2024-03-20-admin-improvements-team-admins-can-now-mark-themselves-as-unpaid-users-and-can-s|Admin improvements: Team admins can now mark themselves as unpaid users and can see…]]
+- Earliest same-theme entry in the tracked set: 2023-05-05 · Gemini · [[Changes/Gemini/2023-05-05-access-for-google-workspace-accounts|Access for Google Workspace accounts]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 44a50f6f4629ac14cb7e7aa45d7a2fa3882c5bd58aeb4b7484b8e94f3c4c7188
+machine_hash: 6c93c710fa5219defff4b339aa119e37460bf9f3dc4eeaf9262e212321492de6
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -40,8 +40,8 @@ record:
   title: '#19167 ci: add macOS keychain entitlements @euroelessar'
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-04-20-2-mobile-and-desktop-changes-in-rust-v0-122-0|2
-  Mobile and Desktop changes in rust-v0.122.0]]'
+- '[[Changes/Ollama/2026-04-22-fixed-model-picker-showing-stale-model-after-switching-chats-in-the-macos-app|Fixed
+  model picker showing stale model after switching chats in the macOS app]]'
 - '[[Changes/Gemini CLI/2026-04-23-use-macos-latest-large-runner-where-applicable-by-scidomino-in-https-github-com|use
   macos-latest-large runner where applicable]]'
 - '[[Changes/GitHub Copilot CLI/2026-04-23-tool-availability-detection-works-correctly-on-windows|Tool
@@ -82,7 +82,7 @@ type: change
 ## Nearby in Mobile and Desktop
 
 - Earlier: 2026-04-23 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-04-23-tool-availability-detection-works-correctly-on-windows|Tool availability detection works correctly on Windows]]
-- Later: 2026-04-29 · Cursor · [[Changes/Cursor/2026-04-29-the-agents-that-run-in-the-cursor-desktop-app-cli-and-web-app-are-now-accessible|The agents that run in the Cursor desktop app, CLI, and web app are now accessible…]]
+- Later: 2026-04-24 · Lovable · [[Changes/Lovable/2026-04-24-lovable-desktop-app|Lovable desktop app]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

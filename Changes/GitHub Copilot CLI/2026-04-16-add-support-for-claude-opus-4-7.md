@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: b5e5449641dbeb2cdd8c62ef9396e997644008c2f6d31a0bedb293c06a21516b
+machine_hash: 39793f05d7221d04f667348310aa2501f5cb3a5b35c3d0ff5d94f4a7ee3abfdc
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -82,7 +82,7 @@ type: change
 ## Nearby in Model Support
 
 - Earlier: 2026-04-16 · Cline · [[Changes/Cline/2026-04-16-add-claude-opus-4-7-model-support|Add Claude Opus 4.7 model support]]
-- Later: 2026-04-20 · Codex CLI · [[Changes/Codex CLI/2026-04-20-6-model-support-changes-in-rust-v0-122-0|6 Model Support changes in rust-v0.122.0]]
+- Later: 2026-04-16 · Ollama · [[Changes/Ollama/2026-04-16-gemma-4-on-mlx-added-support-for-running-gemma-4-via-mlx-on-apple-silicon-includ|Gemma 4 on MLX. Added support for running Gemma 4 via MLX on Apple Silicon…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

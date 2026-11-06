@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: a507dde5be58679ff51346135e1c40d3dda9ac67a88638f885ebe72e7c649454
+machine_hash: 7e54b26d6c3500a5431a3e3762fcc3ec52ae89c7b2149aa0dc3db03ada005250
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -43,8 +43,7 @@ record:
   title: 2 Model Support changes in v1.0.65
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-06-22-3-model-support-changes-in-rust-v0-142-0|3 Model
-  Support changes in rust-v0.142.0]]'
+- '[[Changes/ElevenLabs/2026-06-22-dubbing|Dubbing]]'
 - '[[Changes/GitHub Copilot CLI/2026-06-23-7-model-support-changes-in-v1-0-64|7 Model
   Support changes in v1.0.64]]'
 - '[[Changes/ChatGPT/2026-06-24-we-re-updating-gpt-5-5-instant-our-most-used-model-in-chatgpt-to-improve-convers|GPT-5.5

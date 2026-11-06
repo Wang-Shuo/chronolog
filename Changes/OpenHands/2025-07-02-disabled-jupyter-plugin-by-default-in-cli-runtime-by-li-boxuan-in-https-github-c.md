@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 181aa8ed97bf163c1efcd113828902bf34c5138402834b380329036dfcef0f3b
+machine_hash: 2b461ee072beba3c731271ca1dfb65cd998632e4dbffaf96caaf63093f0fe866
 product: openhands
 product_name: OpenHands
 record:
@@ -41,12 +41,12 @@ record:
   title: Disabled Jupyter plugin by default in CLI runtime
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2025-06-24-pro-users-are-now-able-to-use-chat-search-connectors-in-addition-to-deep-researc-9d5a85|Chat
-  search connectors (Pro)]]'
-- '[[Changes/Gemini CLI/2025-07-01-feat-add-support-to-remote-mcp-servers-for-custom-http-headers-by-aspiers-in-htt|feat:
-  add support to remote MCP servers for custom HTTP headers]]'
+- '[[Changes/Dify/2025-07-02-7-apps-and-integrations-changes-in-1-5-1|7 Apps and Integrations
+  changes in 1.5.1]]'
 - '[[Changes/Gemini CLI/2025-07-02-add-excludedtools-to-extensions-by-scidomino-in-https-github-com-google-gemini-g|Add
   excludedTools to extensions]]'
+- '[[Changes/Ollama/2025-07-02-add-nativemind-to-community-integrations-by-xukecheng-in-https-github-com-ollama|Add
+  NativeMind to Community Integrations]]'
 source_release: '[[Releases/OpenHands/openhands-2025-07-02-0-48-0-github-229531654-8c83a404|openhands-2025-07-02-0-48-0-github-229531654-8c83a404]]'
 source_type: github_releases
 theme: apps-integrations
@@ -77,7 +77,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2025-07-02 · Gemini CLI · [[Changes/Gemini CLI/2025-07-02-add-excludedtools-to-extensions-by-scidomino-in-https-github-com-google-gemini-g|Add excludedTools to extensions]]
+- Earlier: 2025-07-02 · Ollama · [[Changes/Ollama/2025-07-02-add-nativemind-to-community-integrations-by-xukecheng-in-https-github-com-ollama|Add NativeMind to Community Integrations]]
 - Later: 2025-07-03 · Cursor · [[Changes/Cursor/2025-07-03-2-apps-and-integrations-changes-in-1-2|2 Apps and Integrations changes in 1.2]]
 <!-- chronolog:end -->
 

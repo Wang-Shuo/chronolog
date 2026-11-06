@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 2d59769dda9022c908569b990fb533da60ec209b0cf24dbf25f1e687bab2e798
+machine_hash: a7e6994022c93c8cb820753827c3a27e8beef44c84f59ef56ed10e37cbb07e6f
 product: cursor
 product_name: Cursor
 record:
@@ -54,12 +54,12 @@ record:
   title: Inline Chat
   type: change
 related_changes:
-- '[[Changes/Cursor/2023-08-22-codeblocks-and-code-symbols-in-with-codebase-responses-will-now-often-be-clickab|Codeblocks
-  and code symbols in "with codebase" responses will now often be clickable]]'
 - '[[Changes/Cursor/2023-08-22-you-can-now-reply-to-cmd-k-outputs-making-it-much-easier-to-have-the-model-revis|Reply
   to Cmd-K outputs, making it much easier to have the model revise its work]]'
 - '[[Changes/Cursor/2023-09-05-cmd-k-will-no-longer-output-backticks-if-you-do-file|Cmd-K
   will no longer output backticks if you do @file]]'
+- '[[Changes/Dify/2023-09-10-the-query-parameter-in-the-post-v1-completion-messages-endpoint-of-the-app-opena|The
+  query parameter in the POST /v1/completion-messages endpoint of the App…]]'
 source_release: '[[Releases/Cursor/cursor-2023-09-19-0-11-0-https-cursor-com-changelog-0-11-0-93d42f83|cursor-2023-09-19-0-11-0-https-cursor-com-changelog-0-11-0-93d42f83]]'
 source_type: cursor_changelog
 theme: editor-experience
@@ -86,7 +86,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2023-09-05 · Cursor · [[Changes/Cursor/2023-09-05-cmd-k-will-no-longer-output-backticks-if-you-do-file|Cmd-K will no longer output backticks if you do @file]]
+- Earlier: 2023-09-10 · Dify · [[Changes/Dify/2023-09-10-the-query-parameter-in-the-post-v1-completion-messages-endpoint-of-the-app-opena|The query parameter in the POST /v1/completion-messages endpoint of the App…]]
 - Later: 2023-09-21 · Cursor · [[Changes/Cursor/2023-09-21-hacky-first-version-of-cmd-k-in-the-terminal-let-us-know-what-you-think|Cmd-K in the terminal!]]
 <!-- chronolog:end -->
 

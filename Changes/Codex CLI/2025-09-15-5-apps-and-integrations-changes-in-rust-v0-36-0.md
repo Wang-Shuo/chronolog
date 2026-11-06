@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 3abdfd7188f0e45582105f5a4e7f22f37aafa625150439e382d34c7cfda48a80
+machine_hash: e8fb4c06432402cd5e0f786030fefed33f36fee2af582891959a03f13d208ffd
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -51,10 +51,11 @@ record:
   title: 5 Apps and Integrations changes in rust-v0.36.0
   type: change
 related_changes:
-- '[[Changes/Cline/2025-09-11-added-dify-ai-api-integration|Added Dify.ai API Integration]]'
 - '[[Changes/Cursor/2025-09-12-2-apps-and-integrations-changes-in-1-6|2 Apps and Integrations
   changes in 1.6]]'
 - '[[Changes/Cursor/2025-09-12-mcp-resources-support|MCP Resources support]]'
+- '[[Changes/Replit/2025-09-12-app-connectors-and-integrations|App connectors and
+  integrations]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2025-09-15-rust-v0-36-0-github-247381260-0ebd05e2|codex-cli-2025-09-15-rust-v0-36-0-github-247381260-0ebd05e2]]'
 source_type: github_releases
 theme: apps-integrations
@@ -100,8 +101,8 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.36.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2025-09-12 · Cursor · [[Changes/Cursor/2025-09-12-mcp-resources-support|MCP Resources support]]
-- Later: 2025-09-17 · Gemini CLI · [[Changes/Gemini CLI/2025-09-17-6-apps-and-integrations-changes-in-v0-5-3|6 Apps and Integrations changes in v0.5.3]]
+- Earlier: 2025-09-12 · Replit · [[Changes/Replit/2025-09-12-app-connectors-and-integrations|App connectors and integrations]]
+- Later: 2025-09-15 · ElevenLabs · [[Changes/ElevenLabs/2025-09-15-packages|Packages]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

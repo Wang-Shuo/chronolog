@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: f366fa3abb4706ddc807de626d2a68f0e2d2718ff7f07ff36751ccac95d5b746
+machine_hash: 8ec1c31614aee85438b726f32bdf5cb3f8e5b4f521c8ec79da7333c12aed20f8
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -43,10 +43,8 @@ record:
     user…
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-04-03-built-in-skills-are-now-included-with-the-cli-starting-with-a-guide-for-customiz|Built-in
-  skills are now included with the CLI, starting with a guide for customizing…]]'
-- '[[Changes/GitHub Copilot CLI/2026-04-06-2-agent-mode-changes-in-v1-0-19|2 Agent
-  Mode changes in v1.0.19]]'
+- '[[Changes/ElevenLabs/2026-04-07-elevenagents|ElevenAgents]]'
+- '[[Changes/ElevenLabs/2026-04-07-elevenagents-e46dc6|ElevenAgents]]'
 - '[[Changes/GitHub Copilot CLI/2026-04-07-spinner-no-longer-appears-stuck-when-a-long-running-async-shell-command-is-activ|Spinner
   no longer appears stuck when a long-running async shell command is active]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-04-07-v1-0-20-github-306069199-98f9e272|github-copilot-cli-2026-04-07-v1-0-20-github-306069199-98f9e272]]'

@@ -5,20 +5,20 @@ description: 'Claude Code · 2026-06-26 · Voice and Audio: Improved voice mode 
   now distinguishes "no microphone" from "SoX not installed" when SoX is present but
   no…'
 diffusion:
-  first_in_tracked: '[[Changes/Aider/2023-08-11-voice-to-code-https-aider-chat-docs-voice-html-support-which-allows-you-to-code|Voice-to-code((source
-    link) support, which allows you…]]'
+  first_in_tracked: '[[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2
+    Voice and Audio changes in 0.3.7]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1050
+  lag_days: 1082
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 8fc0e93e2d0e835d26d061b5189449c8d9afb0ff3dd0807f9f3d0baef9e669b1
+machine_hash: 01f11d614d2653b952378e5b7c64754074aa1e372af9f91be4fac60441470a92
 product: claude-code
 product_name: Claude Code
 record:
@@ -44,10 +44,9 @@ record:
   title: Improved voice mode on Linux
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-06-15-2-voice-and-audio-changes-in-rust-v0-140-0|2 Voice
-  and Audio changes in rust-v0.140.0]]'
-- '[[Changes/ChatGPT/2026-06-18-help-with-pronunciations-chatgpt-can-now-include-text-and-audio-pronunciation-gu|Help
-  with pronunciations]]'
+- '[[Changes/Replit/2026-06-19-voice-mode|Voice Mode]]'
+- '[[Changes/Dify/2026-06-25-refactor-inject-session-into-audio-tts-by-myshkin451-in-https-github-com-langgen|refactor:
+  inject session into audio TTS]]'
 - '[[Changes/ChatGPT/2026-06-26-we-re-rolling-out-a-new-speech-to-text-model-for-dictation-in-chatgpt-across-all|Improved
   dictation in ChatGPT]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-06-26-v2-1-195-github-345467919-2d39e460|claude-code-2026-06-26-v2-1-195-github-345467919-2d39e460]]'
@@ -82,13 +81,13 @@ type: change
 ## Nearby in Voice and Audio
 
 - Earlier: 2026-06-26 · ChatGPT · [[Changes/ChatGPT/2026-06-26-we-re-rolling-out-a-new-speech-to-text-model-for-dictation-in-chatgpt-across-all|Improved dictation in ChatGPT]]
-- Later: 2026-06-30 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-06-30-voice-mode-turns-itself-off-when-the-engine-fails-to-start-at-boot|Voice mode turns itself off when the engine fails to start at boot]]
+- Later: 2026-06-29 · ElevenLabs · [[Changes/ElevenLabs/2026-06-29-speech-to-text|Speech to Text]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-08-11 · Aider · [[Changes/Aider/2023-08-11-voice-to-code-https-aider-chat-docs-voice-html-support-which-allows-you-to-code|Voice-to-code((source link) support, which allows you…]]
+- Earliest same-theme entry in the tracked set: 2023-07-10 · Dify · [[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2 Voice and Audio changes in 0.3.7]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

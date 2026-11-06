@@ -5,20 +5,20 @@ description: 'Cursor · 2026-05-04 · Enterprise and Administration: Admins can 
   set soft limits instead of hard limits to avoid blocking users. Cursor can also
   monitor…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2024-03-20-admin-improvements-team-admins-can-now-mark-themselves-as-unpaid-users-and-can-s|Admin
-    improvements: Team admins can now mark themselves as unpaid users and can see…]]'
+  first_in_tracked: '[[Changes/Gemini/2023-05-05-access-for-google-workspace-accounts|Access
+    for Google Workspace accounts]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 775
+  lag_days: 1095
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: fd0a9fadbdf31979fb0e84ba58508b0bccd9d45812eac903263a824abc012876
+machine_hash: 52243b898950ecf29b617f20949d184c76f8729ac728fbdb31ba4ddc97cb10cd
 product: cursor
 product_name: Cursor
 record:
@@ -49,10 +49,10 @@ record:
   title: Soft spend limits and intelligent alerts
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-04-23-added-disable-updates-env-var-to-completely-block-all-update-paths-including-man|Added
-  DISABLE_UPDATES env var to completely block all update paths including…]]'
 - '[[Changes/Claude Code/2026-04-28-pasting-a-pr-url-into-the-resume-search-box-now-finds-the-session-that-created-t|Pasting
   a PR URL into the /resume search box now finds the session that created…]]'
+- '[[Changes/Dify/2026-04-29-2-enterprise-and-administration-changes-in-1-14-0|2 Enterprise
+  and Administration changes in 1.14.0]]'
 - '[[Changes/Cursor/2026-05-04-this-release-introduces-updates-for-enterprise-admins-a-new-system-for-model-con|Cursor
   introduces updates for Enterprise admins]]'
 source_release: '[[Releases/Cursor/cursor-2026-05-04-model-controls-spend-management-and-usage-analytics-https-cursor-1ab41047|cursor-2026-05-04-model-controls-spend-management-and-usage-analytics-https-cursor-1ab41047]]'
@@ -87,14 +87,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Enterprise and Administration
 
-- Earlier: 2026-04-28 · Claude Code · [[Changes/Claude Code/2026-04-28-pasting-a-pr-url-into-the-resume-search-box-now-finds-the-session-that-created-t|Pasting a PR URL into the /resume search box now finds the session that created…]]
+- Earlier: 2026-04-29 · Dify · [[Changes/Dify/2026-04-29-2-enterprise-and-administration-changes-in-1-14-0|2 Enterprise and Administration changes in 1.14.0]]
 - Later: 2026-05-07 · Claude Code · [[Changes/Claude Code/2026-05-07-added-parentsettingsbehavior-admin-tier-key-first-wins-merge-to-let-admins-opt-s|Added parentSettingsBehavior admin-tier key ('first-wins'  /  'merge') to let…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2024-03-20 · Cursor · [[Changes/Cursor/2024-03-20-admin-improvements-team-admins-can-now-mark-themselves-as-unpaid-users-and-can-s|Admin improvements: Team admins can now mark themselves as unpaid users and can see…]]
+- Earliest same-theme entry in the tracked set: 2023-05-05 · Gemini · [[Changes/Gemini/2023-05-05-access-for-google-workspace-accounts|Access for Google Workspace accounts]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

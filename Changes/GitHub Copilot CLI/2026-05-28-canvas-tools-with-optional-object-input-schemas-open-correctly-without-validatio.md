@@ -4,20 +4,20 @@ date: '2026-05-28'
 description: 'GitHub Copilot CLI · 2026-05-28 · Files and Data: Canvas tools with
   optional object input schemas open correctly without validation errors'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-07-06-we-re-rolling-out-code-interpreter-to-all-chatgpt-plus-users-over-the-next-week-66255e|Code
-    interpreter is now rolling out in beta on web]]'
+  first_in_tracked: '[[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2
+    Files and Data changes in 0.2.2]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1057
+  lag_days: 1099
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: baa42aba13b07edbb917b0c56416025b681a8e4839e220af8095becc2c2050c7
+machine_hash: f7549d8fe1719a61033a33c59ee327edc778fbe7ce9d3dcd29dc6b07228b51f3
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -43,12 +43,12 @@ record:
     errors
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-05-07-21379-document-codex-git-commit-attribution-config-henzelmann-oai|♯21379
-  Document Codex git commit attribution config @henzelmann-oai]]'
 - '[[Changes/ChatGPT/2026-05-14-file-library-is-expanding-to-free-and-go-users-including-to-users-in-the-europea-141640|File
   library is expanding to Free and Go users, including to users in the European…]]'
 - '[[Changes/ChatGPT/2026-05-15-we-re-starting-to-roll-out-a-new-personal-finance-experience-in-chatgpt-pro-user|Personal
   finances in ChatGPT]]'
+- '[[Changes/Replit/2026-05-15-export-canvas-frames-as-pngs|Export Canvas frames as
+  PNGs]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-05-28-v1-0-55-github-331104258-cce42856|github-copilot-cli-2026-05-28-v1-0-55-github-331104258-cce42856]]'
 source_type: github_releases
 theme: file-data
@@ -89,14 +89,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Files and Data
 
-- Earlier: 2026-05-15 · ChatGPT · [[Changes/ChatGPT/2026-05-15-we-re-starting-to-roll-out-a-new-personal-finance-experience-in-chatgpt-pro-user|Personal finances in ChatGPT]]
-- Later: 2026-06-01 · Codex CLI · [[Changes/Codex CLI/2026-06-01-25110-move-config-document-helpers-into-their-own-module-jif-oai|♯25110 Move config document helpers into their own module @jif-oai]]
+- Earlier: 2026-05-15 · Replit · [[Changes/Replit/2026-05-15-export-canvas-frames-as-pngs|Export Canvas frames as PNGs]]
+- Later: 2026-05-29 · Replit · [[Changes/Replit/2026-05-29-generate-media-right-on-canvas|Generate media right on Canvas]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-07-06 · ChatGPT · [[Changes/ChatGPT/2023-07-06-we-re-rolling-out-code-interpreter-to-all-chatgpt-plus-users-over-the-next-week-66255e|Code interpreter is now rolling out in beta on web]]
+- Earliest same-theme entry in the tracked set: 2023-05-25 · Dify · [[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2 Files and Data changes in 0.2.2]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 57d7ff761b251730bc597a2d57d67b55594935e960a501ee906300a0667ad9b0
+machine_hash: 4e6d191337f5c17e0ac44654d14786c1623733ed77d68c89639a9128b36688d2
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -59,7 +59,11 @@ record:
   title: Use ChatGPT alongside your team
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]'
+- '[[Changes/Dify/2023-10-10-application-share-qrcode-by-charli117-in-https-github-com-langgenius-dify-pull-1|Application
+  share qrcode]]'
+- '[[Changes/Gemini/2023-10-23-your-shared-conversations-now-support-uploaded-images|Your
+  shared conversations now support uploaded images]]'
+- "[[Changes/Dify/2024-01-02-the-dify-team|The Dify Team \U0001F6E0️]]"
 source_release: '[[Releases/ChatGPT/chatgpt-2024-01-10-introducing-the-gpt-store-and-chatgpt-team-plan-7f1ed4cd|chatgpt-2024-01-10-introducing-the-gpt-store-and-chatgpt-team-plan-7f1ed4cd]]'
 source_type: chatgpt_changelog
 theme: collaboration
@@ -88,8 +92,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Collaboration
 
-- Earlier: 2023-05-24 · ChatGPT · [[Changes/ChatGPT/2023-05-24-shared-links|Shared Links]]
-- Later: 2024-06-04 · OpenHands · [[Changes/OpenHands/2024-06-04-2-collaboration-changes-in-0-6-1|2 Collaboration changes in 0.6.1]]
+- Earlier: 2024-01-02 · Dify · [[Changes/Dify/2024-01-02-the-dify-team|The Dify Team 🛠️]]
+- Later: 2024-03-31 · Open WebUI · [[Changes/Open WebUI/2024-03-31-webhook-support-now-compatible-with-google-chat-and-microsoft-teams|💬 Webhook Support: Now compatible with Google Chat and Microsoft Teams]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

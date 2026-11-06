@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: f117507a7e66a7ff622d0a1f62a538ac40ed745741b6e778a7a903753513e01c
+machine_hash: a5eaf54557941dbff6ab61aad723d6f684f42a964240c84def8ffe833f2bd3a3
 product: cursor
 product_name: Cursor
 record:
@@ -46,12 +46,12 @@ record:
   title: 'New Default Model: We''ve made Claude 3.5 Sonnet the default model for users'
   type: change
 related_changes:
-- '[[Changes/Aider/2024-07-18-gpt-4o-mini-scores-like-the-original-gpt-3-5-on-aider-s-code-editing-benchmark-u|GPT
-  4o mini scores like the original GPT 3.5 on aider''s code editing benchmark…]]'
-- '[[Changes/ChatGPT/2024-07-18-we-re-introducing-gpt-4o-mini-the-most-capable-and-cost-efficient-small-model-av-af297b|Introducing
-  GPT-4o mini]]'
+- '[[Changes/Ollama/2024-07-18-mathstral-https-ollama-com-library-mathstral-math-tral-is-a-7b-model-designed-fo|Mathstral((source
+  link) MathΣtral is a 7B model designed…]]'
 - '[[Changes/OpenHands/2024-07-19-4-model-support-changes-in-0-8-1|4 Model Support
   changes in 0.8.1]]'
+- '[[Changes/Ollama/2024-07-21-nuextract-https-ollama-com-library-nuextract-a-3-8b-model-fine-tuned-on-a-privat|NuExtract((source
+  link) A 3.8B model fine-tuned…]]'
 source_release: '[[Releases/Cursor/cursor-2024-07-23-0-38-x-https-cursor-com-changelog-0-38-x-e6d087df|cursor-2024-07-23-0-38-x-https-cursor-com-changelog-0-38-x-e6d087df]]'
 source_type: cursor_changelog
 theme: model-support
@@ -82,8 +82,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2024-07-19 · OpenHands · [[Changes/OpenHands/2024-07-19-4-model-support-changes-in-0-8-1|4 Model Support changes in 0.8.1]]
-- Later: 2024-07-29 · Aider · [[Changes/Aider/2024-07-29-fall-back-to-main-model-if-weak-model-is-unable-to-generate-a-commit-message|Fall back to main model if weak model is unable to generate a commit message]]
+- Earlier: 2024-07-21 · Ollama · [[Changes/Ollama/2024-07-21-nuextract-https-ollama-com-library-nuextract-a-3-8b-model-fine-tuned-on-a-privat|NuExtract((source link) A 3.8B model fine-tuned…]]
+- Later: 2024-07-23 · Dify · [[Changes/Dify/2024-07-23-openai-gpt-4o-mini-support-now-available-by-takatost-in-6442|OpenAI GPT-4o-mini Support: Now available, by @takatost in ♯6442]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

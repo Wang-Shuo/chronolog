@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: d1bc365deb98a7a40521e7520cba4ab9f8cf82a9b0790220896f8ab9e7e56316
+machine_hash: e383231acaefec9dec2970c2d4d51dbf3ecd799ad42deaa77165570f6186b6ae
 product: claude-code
 product_name: Claude Code
 record:
@@ -43,12 +43,12 @@ record:
     5
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-07-10-2-account-and-access-changes-in-v1-0-70|2
-  Account and Access changes in v1.0.70]]'
-- '[[Changes/GitHub Copilot CLI/2026-07-16-server-mode-reconnects-oauth-mcp-servers-from-cached-tokens|Server
-  mode reconnects OAuth MCP servers from cached tokens]]'
 - '[[Changes/Claude Code/2026-07-17-updated-the-auth-status-panel-title-from-cloud-authentication-to-authentication|Updated
   the auth status panel title from "Cloud authentication" to "Authentication"]]'
+- '[[Changes/Dify/2026-07-17-8-account-and-access-changes-in-1-16-0|8 Account and
+  Access changes in 1.16.0]]'
+- '[[Changes/Replit/2026-07-17-agent-suggests-connectors-when-several-fit|Agent suggests
+  connectors when several fit]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-07-21-v2-1-217-github-357601516-b5c19f5d|claude-code-2026-07-21-v2-1-217-github-357601516-b5c19f5d]]'
 source_type: github_releases
 theme: account-access
@@ -83,7 +83,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Account and Access
 
-- Earlier: 2026-07-17 · Claude Code · [[Changes/Claude Code/2026-07-17-updated-the-auth-status-panel-title-from-cloud-authentication-to-authentication|Updated the auth status panel title from "Cloud authentication" to "Authentication"]]
+- Earlier: 2026-07-17 · Replit · [[Changes/Replit/2026-07-17-agent-suggests-connectors-when-several-fit|Agent suggests connectors when several fit]]
 - Later: 2026-07-21 · Codex CLI · [[Changes/Codex CLI/2026-07-21-9-account-and-access-changes-in-rust-v0-145-0|9 Account and Access changes in rust-v0.145.0]]
 <!-- chronolog:end -->
 

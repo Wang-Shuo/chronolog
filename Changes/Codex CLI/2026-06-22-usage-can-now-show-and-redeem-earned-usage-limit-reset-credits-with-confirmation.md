@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: pricing
-machine_hash: d65c755fe62a52738bacf926e24af973a50369cb348ad55f3b0cd19465b5095a
+machine_hash: 546eafc79067ea75fd8e1705c1cf8ec249bb4d296f36b8bf50b5564886c8ab14
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -45,12 +45,12 @@ record:
   title: '`/usage` can now show and redeem earned usage-limit reset credits…'
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-06-05-add-billing-help-topic-with-an-overview-of-ai-credit-usage-features|Add
-  billing help topic with an overview of AI credit usage features]]'
-- '[[Changes/Windsurf/2026-06-06-simplified-model-picker-pricing-view-for-select-enterprise-customers|Simplified
-  model picker pricing view for select enterprise customers]]'
 - '[[Changes/Codex CLI/2026-06-18-28143-feat-app-server-expose-rate-limit-reset-credits-jayp-oai|♯28143
   feat(app-server): expose rate-limit reset credits @jayp-oai]]'
+- '[[Changes/Lovable/2026-06-18-one-credit-balance-and-clearer-usage-insights|One
+  credit balance and clearer usage insights]]'
+- '[[Changes/Lovable/2026-06-18-ask-lovable-about-your-workspace-s-credit-usage|Ask
+  Lovable about your workspace’s credit usage]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-06-22-rust-v0-142-0-github-343189954-a218ab4e|codex-cli-2026-06-22-rust-v0-142-0-github-343189954-a218ab4e]]'
 source_type: github_releases
 theme: pricing-model
@@ -95,7 +95,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Pricing Model
 
-- Earlier: 2026-06-18 · Codex CLI · [[Changes/Codex CLI/2026-06-18-28143-feat-app-server-expose-rate-limit-reset-credits-jayp-oai|♯28143 feat(app-server): expose rate-limit reset credits @jayp-oai]]
+- Earlier: 2026-06-18 · Lovable · [[Changes/Lovable/2026-06-18-ask-lovable-about-your-workspace-s-credit-usage|Ask Lovable about your workspace’s credit usage]]
 - Later: 2026-06-23 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-06-23-display-cache-write-pricing-for-models-that-omit-it|Display cache-write pricing for models that omit it]]
 <!-- chronolog:end -->
 

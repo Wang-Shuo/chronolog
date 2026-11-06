@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: memory
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: ae9a74ed0825c354be276baeca7b201b64ebf4d1390c3ff319a5f1dfef30530f
+machine_hash: d8ac05d956ce59c23f423b5d2bb5f1910431a6405066b061df3b84fa621f9cd9
 product: claude-code
 product_name: Claude Code
 record:
@@ -43,12 +43,11 @@ record:
   title: Memory writes that leave a MEMORY.md index over its read limit now produce…
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-06-18-you-can-now-delete-memory-files-in-the-ui-or-prompt-your-automation-to-delete-ou|Delete
-  memory files in the UI, or prompt your automation to delete outdated memories…]]'
-- '[[Changes/Claude Code/2026-06-22-improved-memory-the-agent-is-now-reminded-to-compact-its-memory-md-index-when-ne|Improved
-  memory: the agent is now reminded to compact its MEMORY.md index…]]'
 - '[[Changes/Codex CLI/2026-07-08-2-memory-and-personalization-changes-in-rust-v0-143-0|2
   Memory and Personalization changes in rust-v0.143.0]]'
+- '[[Changes/Claude/2026-07-09-a-new-way-to-reflect-with-claude|A new way to reflect
+  with Claude]]'
+- '[[Changes/Claude/2026-07-10-updated-memory-for-claude|Updated memory for Claude]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-07-14-v2-1-210-github-354034085-7eba9ec7|claude-code-2026-07-14-v2-1-210-github-354034085-7eba9ec7]]'
 source_type: github_releases
 theme: memory
@@ -81,7 +80,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Memory and Personalization
 
-- Earlier: 2026-07-08 · Codex CLI · [[Changes/Codex CLI/2026-07-08-2-memory-and-personalization-changes-in-rust-v0-143-0|2 Memory and Personalization changes in rust-v0.143.0]]
+- Earlier: 2026-07-10 · Claude · [[Changes/Claude/2026-07-10-updated-memory-for-claude|Updated memory for Claude]]
 - Later: 2026-07-15 · ChatGPT · [[Changes/ChatGPT/2026-07-15-we-re-increasing-the-character-limit-for-custom-instructions-in-chatgpt-plus-pro|Increased custom instructions limit]]
 <!-- chronolog:end -->
 

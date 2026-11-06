@@ -1,0 +1,2250 @@
+[
+  {
+    "url": "https://support.claude.com/en/articles/12138966-release-notes",
+    "response_url": "https://support.claude.com/en/articles/12138966-release-notes",
+    "status": 200,
+    "acquired_at": "2026-11-06T13:12:59Z",
+    "sha256": "cf918fa2d2c3c571923c3c9d61997bdf4a2ccdf1b58fb494d5966d7240b01299",
+    "file": "90f4749affde3a32587ec3cf60d3b27457928ad7154940d83f390c7995c2316a.gz"
+  },
+  {
+    "url": "https://gemini.google/us/release-notes/?hl=en",
+    "response_url": "https://gemini.google/us/release-notes/?hl=en",
+    "status": 200,
+    "acquired_at": "2026-11-06T13:13:00Z",
+    "sha256": "1981070b97288e14822332872c93edf778b1065be83045d5563d64385ad877ea",
+    "file": "96b0a45cbc2294ee3393daf7a9eb17e4624f411c76bb93ae85b832dc53087f67.gz"
+  },
+  {
+    "url": "https://api-docs.deepseek.com/updates/",
+    "response_url": "https://api-docs.deepseek.com/updates/",
+    "status": 200,
+    "acquired_at": "2026-11-06T13:13:00Z",
+    "sha256": "87d5db6ef89f2d4e0e193954cb70bf027525c06f20d54d9a29aa0a61d99e6efa",
+    "file": "e547d0d8cbe359a0512323969db53e31cf3a620be6d38f8518e502a1b538d6d1.gz"
+  },
+  {
+    "url": "https://elevenlabs.io/docs/changelog/llms.txt",
+    "response_url": "https://elevenlabs.io/docs/changelog/llms.txt",
+    "status": 200,
+    "acquired_at": "2026-11-06T13:13:00Z",
+    "sha256": "5f67a5b6ff43bb2b60513d4829fdab4d9929244dcd5fff55ab765ca9272e0b71",
+    "file": "a39f37f44723a7ec34a3a39ca3245eb3fee413ecc1a97ce6cb6b84258525aba2.gz"
+  },
+  {
+    "url": "https://elevenlabs.io/docs/changelog/2026/10/26.md",
+    "response_url": "https://elevenlabs.io/docs/changelog/2026/10/26.md",
+    "status": 200,
+    "acquired_at": "2026-11-06T13:13:01Z",
+    "sha256": "3b601248027cb67378eeec7c5f2c89cdeaf8c993cd3239355dafda0d69da44e7",
+    "file": "f8bd695281540843553619c8cb280602f4a0e024ea42abac5ac3bbf3fb12f503.gz"
+  },
+  {
+    "url": "https://elevenlabs.io/docs/changelog/2026/10/12.md",
+    "response_url": "https://elevenlabs.io/docs/changelog/2026/10/12.md",
+    "status": 200,
+    "acquired_at": "2026-11-06T13:13:01Z",
+    "sha256": "ba956ee01ed87bd1ad880861eb9b6468241df659965ccf856dc6f32b0393ac23",
+    "file": "e3cb1b99dca008de5cc56800897d657c083064e4e5fc67239d89d629510862d0.gz"
+  },
+  {
+    "url": "https://elevenlabs.io/docs/changelog/2026/11/2.md",
+    "response_url": "https://elevenlabs.io/docs/changelog/2026/11/2.md",
+    "status": 200,
+    "acquired_at": "2026-11-06T13:13:01Z",
+    "sha256": "5dd73cfd6f8e4516e8966720eb2f8265f2e1779447841ed771c1b29f847e532a",
+    "file": "15922d824d83c68645f557db8b1ede7f43b8b74305bca77d57f79330ee7a347d.gz"
+  },
+  {
+    "url": "https://elevenlabs.io/docs/changelog/2026/9/28.md",
+    "response_url": "https://elevenlabs.io/docs/changelog/2026/9/28.md",
+    "status": 200,
+    "acquired_at": "2026-11-06T13:13:01Z",
+    "sha256": "fd3b6b799385b05e5b203688267c36c087e27c62d7b2ceaac01fe95de2f532b9",
+    "file": "511d43c183ef2a4d1c189eb24f9236cad9952364416568818efbbedce61ab344.gz"
+  },
+  {
+    "url": "https://elevenlabs.io/docs/changelog/2026/10/5.md",
+    "response_url": "https://elevenlabs.io/docs/changelog/2026/10/5.md",
+    "status": 200,
+    "acquired_at": "2026-11-06T13:13:01Z",
+    "sha256": "06e721ef601fd04a2b35ceea0843e825aaa9263b3d8e02483a61974e195b3f38",
+    "file": "9fd7024fba839e21a1d271c57de2acd1c55f4d0cdda9098a487e3759f6475c54.gz"
+  },
+  {
+    "url": "https://elevenlabs.io/docs/changelog/2026/9/23.md",
+    "response_url": "https://elevenlabs.io/docs/changelog/2026/9/23.md",
+    "status": 200,
+    "acquired_at": "2026-11-06T13:13:01Z",
+    "sha256": "562c6b80b27fa02757b6c179dfa2f9ea36b9b11de68837d5e78e287ba2b5d665",
+    "file": "7dd0e77b6c35d59a6c55ab8845089d20512317a8418df90c8a2b15bc57ee67fe.gz"
+  },
+  {
+    "url": "https://elevenlabs.io/docs/changelog/2026/9/21.md",
+    "response_url": "https://elevenlabs.io/docs/changelog/2026/9/21.md",
+    "status": 200,
+    "acquired_at": "2026-11-06T13:13:02Z",
+    "sha256": "1d93f9f1d2e9f1865cb91bab23d4dbb54b03d2d6a7cad97b8cb92b02049d3483",
+    "file": "2fc692482a8d96e8b91de5c4bd93ffec5f43ef9cb17d51334351b58cbde3cc50.gz"
+  },
+  {
+    "url": "https://elevenlabs.io/docs/changelog/2026/9/11.md",
+    "response_url": "https://elevenlabs.io/docs/changelog/2026/9/11.md",
+    "status": 200,
+    "acquired_at": "2026-11-06T13:13:02Z",
+    "sha256": "63c02165d0088aea600780a6b69287252f39e63b32d5d3d2046e3a769b1f8b66",
+    "file": "6bdf767e942ab2a53abeea3bec930cdd4802e5d67e31ef8326d6a94a9920aa21.gz"
+  },
+  {
+    "url": "https://elevenlabs.io/docs/changelog/2026/9/7.md",
+    "response_url": "https://elevenlabs.io/docs/changelog/2026/9/7.md",
+    "status": 200,
+    "acquired_at": "2026-11-06T13:13:02Z",
+    "sha256": "863dfa888cee5cbdac5ab07f4fc99eb9cce7231723b86c504e70fb7487b3d97e",
+    "file": "73ca533cd341824f59e8d7979b18a73a6a0e3451af4e53c3877500412e116dd5.gz"
+  },
+  {
+    "url": "https://elevenlabs.io/docs/changelog/2026/9/14.md",
+    "response_url": "https://elevenlabs.io/docs/changelog/2026/9/14.md",
+    "status": 200,
+    "acquired_at": "2026-11-06T13:13:02Z",
+    "sha256": "00b34f8e27417b5648932b0a0d2863649bfda2638a392ab622b7e8a0ce5717e5",
+    "file": "d3674ec5ecd2045a6209e5a3e8bc03872672a1a8f45569f58c65c387a8a6539d.gz"
+  },
+  {
+    "url": "https://elevenlabs.io/docs/changelog/2026/8/31.md",
+    "response_url": "https://elevenlabs.io/docs/changelog/2026/8/31.md",
+    "status": 200,
+    "acquired_at": "2026-11-06T13:13:02Z",
+    "sha256": "6bb9d2ca2aaac5c533e0ccd748c9e1c32f24d0df4cd50e7956ef85fa2684e61c",
+    "file": "659542db6eaffbffb2f5135e63994a515def3df31c6e116d4110dd01f767a41d.gz"
+  },
+  {
+    "url": "https://elevenlabs.io/docs/changelog/2026/10/19.md",
+    "response_url": "https://elevenlabs.io/docs/changelog/2026/10/19.md",
+    "status": 200,
+    "acquired_at": "2026-11-06T13:13:03Z",
+    "sha256": "4830f1a2aa3f2e9c076c2489bdfa2f136179f85dac698fe2138e6a2fdaa371f9",
+    "file": "e4926f62e6c424eb1f36f4ca2cf1c0db2dee3315fa28b10f136521f0ca39d5ba.gz"
+  },
+  {
+    "url": "https://elevenlabs.io/docs/changelog/2026/8/22.md",
+    "response_url": "https://elevenlabs.io/docs/changelog/2026/8/22.md",
+    "status": 200,
+    "acquired_at": "2026-11-06T13:13:03Z",
+    "sha256": "60f6d409609e2466ce57326d95de9bcb939d9805da38296899e74cca1b4d3faa",
+    "file": "3712bfd65db31cac9c9b35bcd727649cb9aa65795e0a0c2a648b6a4f664f39a3.gz"
+  },
+  {
+    "url": "https://elevenlabs.io/docs/changelog/2026/8/17.md",
+    "response_url": "https://elevenlabs.io/docs/changelog/2026/8/17.md",
+    "status": 200,
+    "acquired_at": "2026-11-06T13:13:03Z",
+    "sha256": "4a41ded1ddeeab2ed1d2b3c0d7128991d42ddce24815161728cedd61479b5291",
+    "file": "349555c3376cb51c171bce0829fa78549ee3bee89ced3f24d32e5adcc237d82b.gz"
+  },
+  {
+    "url": "https://elevenlabs.io/docs/changelog/2026/8/10.md",
+    "response_url": "https://elevenlabs.io/docs/changelog/2026/8/10.md",
+    "status": 200,
+    "acquired_at": "2026-11-06T13:13:03Z",
+    "sha256": "9cd7c83a2731ae5370a5d0c25c3d8798e45e168b6b7c0605ff1e11313141eb7d",
+    "file": "905de2c51542778aa656d18060f9af5c99bbbf152c01130cfdfa46ebbcecd9d8.gz"
+  },
+  {
+    "url": "https://elevenlabs.io/docs/changelog/2026/8/3.md",
+    "response_url": "https://elevenlabs.io/docs/changelog/2026/8/3.md",
+    "status": 200,
+    "acquired_at": "2026-11-06T13:13:04Z",
+    "sha256": "7fd7b479588fc07f78caf2f979f3ad82310517fcd9d28b2d6b7a35700cb9426c",
+    "file": "83206b57c634dfe6cd973dcc0c88491de2db5d0a78f6929b083968a374fc3a65.gz"
+  },
+  {
+    "url": "https://elevenlabs.io/docs/changelog/2026/7/27.md",
+    "response_url": "https://elevenlabs.io/docs/changelog/2026/7/27.md",
+    "status": 200,
+    "acquired_at": "2026-11-06T13:13:04Z",
+    "sha256": "a6a67c447de5f0f9f90b83941d562e236a0b527a2488d25135a537354f944834",
+    "file": "9db8fdf2e3cc6ea1cd85926d5a46ea7d009832db9e81ed78b5fd9a9fd81cdd30.gz"
+  },
+  {
+    "url": "https://elevenlabs.io/docs/changelog/2026/7/20.md",
+    "response_url": "https://elevenlabs.io/docs/changelog/2026/7/20.md",
+    "status": 200,
+    "acquired_at": "2026-11-06T13:13:04Z",
+    "sha256": "b364b5460d6192d225ca328d723c81a6141f147efe21c34a707d74d13a873c5d",
+    "file": "2e60c09329e3872597ae55c122eff208db8f3207659151642123083e3f4c4b52.gz"
+  },
+  {
+    "url": "https://elevenlabs.io/docs/changelog/2026/7/13.md",
+    "response_url": "https://elevenlabs.io/docs/changelog/2026/7/13.md",
+    "status": 200,
+    "acquired_at": "2026-11-06T13:13:04Z",
+    "sha256": "da26d47312fad3774b8751b37ca4786aaa5a86f4766cf8cd8787b9133748324b",
+    "file": "a5eeee719a9f1db41f37e51b582eb8087196c6fd8ee50047db6cae8de9f0ee41.gz"
+  },
+  {
+    "url": "https://elevenlabs.io/docs/changelog/2026/7/6.md",
+    "response_url": "https://elevenlabs.io/docs/changelog/2026/7/6.md",
+    "status": 200,
+    "acquired_at": "2026-11-06T13:13:05Z",
+    "sha256": "24d80f82945d0be2bc7c0d8731a7022cf1cc84d3e577b591d3ae25f11a734040",
+    "file": "4a1c5b67e2451274cbf658a74ee757edfb4e180b786589ab3a0c3895b45e6a65.gz"
+  },
+  {
+    "url": "https://elevenlabs.io/docs/changelog/2026/6/29.md",
+    "response_url": "https://elevenlabs.io/docs/changelog/2026/6/29.md",
+    "status": 200,
+    "acquired_at": "2026-11-06T13:13:05Z",
+    "sha256": "1afc67cae32393198484615de50597d0f0b97c816aa50b95198eb3da8f8e5435",
+    "file": "1d298d35b906475bf31039c57fc664d76840fb14e858493a0d8314843dc65fee.gz"
+  },
+  {
+    "url": "https://elevenlabs.io/docs/changelog/2026/6/22.md",
+    "response_url": "https://elevenlabs.io/docs/changelog/2026/6/22.md",
+    "status": 200,
+    "acquired_at": "2026-11-06T13:13:05Z",
+    "sha256": "1501bbcc36ce3bca74ba82b02b39cd7ee68b472b6929e88bdaa4f8d5fe9a7670",
+    "file": "bd7e4d0073304843103b0d65ca8b8d764793cbd9866425d399cc8477ff1ebc0a.gz"
+  },
+  {
+    "url": "https://elevenlabs.io/docs/changelog/2026/6/15.md",
+    "response_url": "https://elevenlabs.io/docs/changelog/2026/6/15.md",
+    "status": 200,
+    "acquired_at": "2026-11-06T13:13:05Z",
+    "sha256": "cc268b34be2c967e66e69e4b15c36d386eb5401fa6bbaf394d6b7f943c443d51",
+    "file": "a2652d398df7277f271f7a3539f28b1e31497c43a793d4e37891ab6e0362bb4e.gz"
+  },
+  {
+    "url": "https://elevenlabs.io/docs/changelog/2026/6/8.md",
+    "response_url": "https://elevenlabs.io/docs/changelog/2026/6/8.md",
+    "status": 200,
+    "acquired_at": "2026-11-06T13:13:05Z",
+    "sha256": "ec2300e18a08ce554d123c2369f2788d53553a47211a584ada2fb0db001ec865",
+    "file": "dcce6e26a0d2be4e004922e553fcd08074264df273bf5be8f99991ad2d0d9c4d.gz"
+  },
+  {
+    "url": "https://elevenlabs.io/docs/changelog/2026/6/1.md",
+    "response_url": "https://elevenlabs.io/docs/changelog/2026/6/1.md",
+    "status": 200,
+    "acquired_at": "2026-11-06T13:13:05Z",
+    "sha256": "b9c5fc23635390bc535378f134f5b9a478e8329a71c1edb2e118973c726bf12f",
+    "file": "d7d39bcf19a33b1a1a208bd5edf12d5dc57ec8267da39eb7b33e56c92c3cf371.gz"
+  },
+  {
+    "url": "https://elevenlabs.io/docs/changelog/2026/5/18.md",
+    "response_url": "https://elevenlabs.io/docs/changelog/2026/5/18.md",
+    "status": 200,
+    "acquired_at": "2026-11-06T13:13:06Z",
+    "sha256": "2f56eb231f5d8c075d4a4d346498f93e466e88b72f93a751b53736780c4eec6b",
+    "file": "01556bcb27f352d4ed6926b25dc45ba117546436dbe74449a02c6c0a9ae92941.gz"
+  },
+  {
+    "url": "https://elevenlabs.io/docs/changelog/2026/5/13.md",
+    "response_url": "https://elevenlabs.io/docs/changelog/2026/5/13.md",
+    "status": 200,
+    "acquired_at": "2026-11-06T13:13:06Z",
+    "sha256": "aa150aba1350beb06a6cd210145cd641e51c4983248045438df1c180a34f16ff",
+    "file": "0abd5ece0fab8492436c21dda72feb5cbd2dde21a8bafb440c00621820abca89.gz"
+  },
+  {
+    "url": "https://elevenlabs.io/docs/changelog/2026/8/24.md",
+    "response_url": "https://elevenlabs.io/docs/changelog/2026/8/24.md",
+    "status": 200,
+    "acquired_at": "2026-11-06T13:13:06Z",
+    "sha256": "8985390e4310f09141492f48bfa581495c8874031d176a344d5b6384544a1926",
+    "file": "e5363d0716eb1a9953f69f9d7d1ab6f05f27a48c307d664c74fc3d36cac4ea13.gz"
+  },
+  {
+    "url": "https://elevenlabs.io/docs/changelog/2026/5/25.md",
+    "response_url": "https://elevenlabs.io/docs/changelog/2026/5/25.md",
+    "status": 200,
+    "acquired_at": "2026-11-06T13:13:06Z",
+    "sha256": "b70d47fadd6280fc6ae5480fb8540087b71ac727ec65ae62d6f4141071b838ac",
+    "file": "da670024daa81728eb53b306b2bfd7431cd987af1eeac7dddc1f5b0956c400bd.gz"
+  },
+  {
+    "url": "https://elevenlabs.io/docs/changelog/2026/5/4.md",
+    "response_url": "https://elevenlabs.io/docs/changelog/2026/5/4.md",
+    "status": 200,
+    "acquired_at": "2026-11-06T13:13:06Z",
+    "sha256": "d3db8c6183a76b0495680738556bc0a8025770215652ffac75134a127cf5763d",
+    "file": "928c534d8e15081dcdc486e96b0d15a9a466836e398a746d0487f42ffbc5e170.gz"
+  },
+  {
+    "url": "https://elevenlabs.io/docs/changelog/2026/4/20.md",
+    "response_url": "https://elevenlabs.io/docs/changelog/2026/4/20.md",
+    "status": 200,
+    "acquired_at": "2026-11-06T13:13:06Z",
+    "sha256": "9feb79d0c77704bf7f62d1d2c5e70248425e45adefdaf02267e7140ee5b791a1",
+    "file": "e4b99f3868438eb282d86688379b8816bf505137bae4b97e6338a2c5c3186876.gz"
+  },
+  {
+    "url": "https://elevenlabs.io/docs/changelog/2026/4/27.md",
+    "response_url": "https://elevenlabs.io/docs/changelog/2026/4/27.md",
+    "status": 200,
+    "acquired_at": "2026-11-06T13:13:06Z",
+    "sha256": "ed4dc61a820b428e2ea06927f4374f7294a898b5f4644c1a7133a4c348fa1b40",
+    "file": "97184ba4d90a0172fde49fbfa5952a797a7068b437e9b83e576d16e68a471a61.gz"
+  },
+  {
+    "url": "https://elevenlabs.io/docs/changelog/2026/4/7.md",
+    "response_url": "https://elevenlabs.io/docs/changelog/2026/4/7.md",
+    "status": 200,
+    "acquired_at": "2026-11-06T13:13:07Z",
+    "sha256": "626787e2c243cdc401a42b6f076f6e56b6e6d61c910708618d6637aa1bd2bd71",
+    "file": "aec381bf554e7d9b38536106b699082cc176fb0f1dde952afb8cde0d9dbc02f3.gz"
+  },
+  {
+    "url": "https://elevenlabs.io/docs/changelog/2026/3/25.md",
+    "response_url": "https://elevenlabs.io/docs/changelog/2026/3/25.md",
+    "status": 200,
+    "acquired_at": "2026-11-06T13:13:07Z",
+    "sha256": "2e16112fb5a5fb01e31680e971ccc70331662d86c812705055eca5a40158cc6d",
+    "file": "890010275bf5ef382073d3233490a7b5aedc393a03fb0f9134c299492e810642.gz"
+  },
+  {
+    "url": "https://elevenlabs.io/docs/changelog/2026/4/13.md",
+    "response_url": "https://elevenlabs.io/docs/changelog/2026/4/13.md",
+    "status": 200,
+    "acquired_at": "2026-11-06T13:13:07Z",
+    "sha256": "0fe36349c1c679ac2324018bc49ec506112e5c097737c179c9fd31daf32322ca",
+    "file": "32f4fef24231e8b9c830f127b8ded000992219806ac7b7993b414f3770e1b9a4.gz"
+  },
+  {
+    "url": "https://elevenlabs.io/docs/changelog/2026/3/23.md",
+    "response_url": "https://elevenlabs.io/docs/changelog/2026/3/23.md",
+    "status": 200,
+    "acquired_at": "2026-11-06T13:13:07Z",
+    "sha256": "b8cf396fbd36010f8e5610fc6c9bb5541b317bf7353872e135e9dd9424557096",
+    "file": "ea7592884871448fd4338f4890119c05e0f3564c65f00afc5bf43f82f9d7ecd9.gz"
+  },
+  {
+    "url": "https://elevenlabs.io/docs/changelog/2026/3/16.md",
+    "response_url": "https://elevenlabs.io/docs/changelog/2026/3/16.md",
+    "status": 200,
+    "acquired_at": "2026-11-06T13:13:08Z",
+    "sha256": "3dffe7b45947173564711e7ed81b7b04c46a45fed0658ca54e89eea599acb667",
+    "file": "3a93d3093e1579059dde4fdcfb9fabd51023c9533abe653c280ed381f5872a3b.gz"
+  },
+  {
+    "url": "https://elevenlabs.io/docs/changelog/2026/4/1.md",
+    "response_url": "https://elevenlabs.io/docs/changelog/2026/4/1.md",
+    "status": 200,
+    "acquired_at": "2026-11-06T13:13:08Z",
+    "sha256": "eda6391acd9a70303cc7ec13e567abc36c55d1483236b0524a196ac9bb01f30e",
+    "file": "93c1847bdaac2b6afbfd28573b540dc9bb8aca3ef1b83a24172244a60a8eecea.gz"
+  },
+  {
+    "url": "https://elevenlabs.io/docs/changelog/2026/3/9.md",
+    "response_url": "https://elevenlabs.io/docs/changelog/2026/3/9.md",
+    "status": 200,
+    "acquired_at": "2026-11-06T13:13:08Z",
+    "sha256": "751387816834eec77eca8b9a154b4952c2c336796e7143ca5de4dbaab227ba4d",
+    "file": "4bab3d37d742d544045749d3b8b9b9a3ef782a62e5500f24f46f227b4bed862a.gz"
+  },
+  {
+    "url": "https://elevenlabs.io/docs/changelog/2026/3/2.md",
+    "response_url": "https://elevenlabs.io/docs/changelog/2026/3/2.md",
+    "status": 200,
+    "acquired_at": "2026-11-06T13:13:08Z",
+    "sha256": "7b661b2480abdec8d6175341bd19574b6ef303b72fed63b9a096de63cc45a8f6",
+    "file": "02e98952b5bbd4d2b92f9e4466edfcb876b1a60e1c8c149fc481dd30b08c5501.gz"
+  },
+  {
+    "url": "https://elevenlabs.io/docs/changelog/2026/2/23.md",
+    "response_url": "https://elevenlabs.io/docs/changelog/2026/2/23.md",
+    "status": 200,
+    "acquired_at": "2026-11-06T13:13:08Z",
+    "sha256": "44582358342eb784327758153c7246216507ead115179a9f11a44f0ad5a08ca9",
+    "file": "e730779d526dd48840658a903d6b171627f8d41efe09a4576e87d0844efe485b.gz"
+  },
+  {
+    "url": "https://elevenlabs.io/docs/changelog/2026/2/16.md",
+    "response_url": "https://elevenlabs.io/docs/changelog/2026/2/16.md",
+    "status": 200,
+    "acquired_at": "2026-11-06T13:13:08Z",
+    "sha256": "8c3a1c49695d9c1b807de379b7c636da7ff699a3cf7331556f5334278de65979",
+    "file": "d7055d9ebc158030f5033e50eb08a7cf558440e589350daad7c45c7fb3f68973.gz"
+  },
+  {
+    "url": "https://elevenlabs.io/docs/changelog/2026/2/9.md",
+    "response_url": "https://elevenlabs.io/docs/changelog/2026/2/9.md",
+    "status": 200,
+    "acquired_at": "2026-11-06T13:13:08Z",
+    "sha256": "fa47ca02bf877eb7a6aada3ef1e2b972ddb2ffabc9c273494c88b7f46e472e0d",
+    "file": "89c84912453799e4ffe14b2a8636733e7da507d6121337f936ee072f7f679783.gz"
+  },
+  {
+    "url": "https://elevenlabs.io/docs/changelog/2026/2/2.md",
+    "response_url": "https://elevenlabs.io/docs/changelog/2026/2/2.md",
+    "status": 200,
+    "acquired_at": "2026-11-06T13:13:08Z",
+    "sha256": "7fa90f397b3b2fbad328abbbfed2a5e85e236b06eaad84454964080fd114fd78",
+    "file": "f725dacfab5ecfa9aa4198a94b6db8b8089a7b50e3fad0e07288d7dab112c3f8.gz"
+  },
+  {
+    "url": "https://elevenlabs.io/docs/changelog/2026/1/19.md",
+    "response_url": "https://elevenlabs.io/docs/changelog/2026/1/19.md",
+    "status": 200,
+    "acquired_at": "2026-11-06T13:13:09Z",
+    "sha256": "f729e60ed9998726de9f31216050044ad0a04238607fb87352b543c3793ea1ad",
+    "file": "a7a9e3ace8a2fba567ef146ee8ebffb3e23ae4a2b8ab824c70d00a67366ac145.gz"
+  },
+  {
+    "url": "https://elevenlabs.io/docs/changelog/2026/1/5.md",
+    "response_url": "https://elevenlabs.io/docs/changelog/2026/1/5.md",
+    "status": 200,
+    "acquired_at": "2026-11-06T13:13:09Z",
+    "sha256": "d43c8e4daa9e3a57bfb7dc55faba02a61152e9a3946ff7d3b4d302dada232660",
+    "file": "039d7107ac02a84c89d24c1f5332bd177240f514667a843f90d2ef2e2ee61604.gz"
+  },
+  {
+    "url": "https://elevenlabs.io/docs/changelog/2026/1/12.md",
+    "response_url": "https://elevenlabs.io/docs/changelog/2026/1/12.md",
+    "status": 200,
+    "acquired_at": "2026-11-06T13:13:09Z",
+    "sha256": "a42f2a954eccf801904bd131b39588c843be03b94d464658f915d686326f2bb7",
+    "file": "0d48954283cf474429db4a090e6a619322d2eb1a8758238fcbeab44ce5cb3829.gz"
+  },
+  {
+    "url": "https://elevenlabs.io/docs/changelog/2026/1/26.md",
+    "response_url": "https://elevenlabs.io/docs/changelog/2026/1/26.md",
+    "status": 200,
+    "acquired_at": "2026-11-06T13:13:09Z",
+    "sha256": "e54581f33aa6e1413e69c540c3140b5f968f2f613acf6a17f2375384476a7e9a",
+    "file": "8554f42c1321b85e6cec24c72a900ac711739334ee84ffbc6d24a8f6ff6b2b16.gz"
+  },
+  {
+    "url": "https://elevenlabs.io/docs/changelog/2025/12/15.md",
+    "response_url": "https://elevenlabs.io/docs/changelog/2025/12/15.md",
+    "status": 200,
+    "acquired_at": "2026-11-06T13:13:09Z",
+    "sha256": "89a54e707121982b1faf244c93470b2061404d58af67010e3eec83d2aedbb186",
+    "file": "6aea903beba317dff1de8fca9d1cebcff4907c09b8d4afd065ce74ce3198fde5.gz"
+  },
+  {
+    "url": "https://elevenlabs.io/docs/changelog/2025/11/27.md",
+    "response_url": "https://elevenlabs.io/docs/changelog/2025/11/27.md",
+    "status": 200,
+    "acquired_at": "2026-11-06T13:13:10Z",
+    "sha256": "cb53df757a20f89ac85dfa9fde06f38b36084ec82edd8063fc3714a11f1fd400",
+    "file": "5353735b22bc82b3c2e101b8d219aed5cb0ced1f23c78039b5c0ae7aab2fb388.gz"
+  },
+  {
+    "url": "https://elevenlabs.io/docs/changelog/2025/11/21.md",
+    "response_url": "https://elevenlabs.io/docs/changelog/2025/11/21.md",
+    "status": 200,
+    "acquired_at": "2026-11-06T13:13:10Z",
+    "sha256": "90037a86da67c2d0fe395a6f34564ea6a341b22f3b38e589474d6f526bf9de5d",
+    "file": "4bca549579fbe1d67df77fbb3502987fbac038239ef3748e9c1c090149c463ca.gz"
+  },
+  {
+    "url": "https://elevenlabs.io/docs/changelog/2025/12/8.md",
+    "response_url": "https://elevenlabs.io/docs/changelog/2025/12/8.md",
+    "status": 200,
+    "acquired_at": "2026-11-06T13:13:10Z",
+    "sha256": "9e1c56f73f3b6a9890dbc1c0b3c3b5b386c2a7c1252a7303d2950580e0d1556e",
+    "file": "a55187ebc6b479261a1d4c8089eaf38b15530cd15efd7f4f810b041f68a15fb7.gz"
+  },
+  {
+    "url": "https://elevenlabs.io/docs/changelog/2025/10/27.md",
+    "response_url": "https://elevenlabs.io/docs/changelog/2025/10/27.md",
+    "status": 200,
+    "acquired_at": "2026-11-06T13:13:10Z",
+    "sha256": "7e0ba2127f8dcbf5f194505c9f5bfa3bbd454bdb1be98beeb67f7ef34d784fdc",
+    "file": "513249580e0a6a8583dfe9b0b7449e201c79445993a2594f1946a6c5bd90a887.gz"
+  },
+  {
+    "url": "https://elevenlabs.io/docs/changelog/2025/11/5.md",
+    "response_url": "https://elevenlabs.io/docs/changelog/2025/11/5.md",
+    "status": 200,
+    "acquired_at": "2026-11-06T13:13:10Z",
+    "sha256": "71277bc282402ee8d6c39436ffa8adea054e08ae214db658a5df0bd70ff97751",
+    "file": "f72cb1a30193feb34e9e0ca0c71bec88de7486518b42e557d748ad33ebd786a1.gz"
+  },
+  {
+    "url": "https://elevenlabs.io/docs/changelog/2025/11/12.md",
+    "response_url": "https://elevenlabs.io/docs/changelog/2025/11/12.md",
+    "status": 200,
+    "acquired_at": "2026-11-06T13:13:10Z",
+    "sha256": "6b9fc3862915dc777f07e610de21d94c5321f9861b0d9a49c658bac066d9f4ca",
+    "file": "24efe1574355020cb606fe58cad21c2e75ac4d126e022b38b8c8cefa72a1cfd9.gz"
+  },
+  {
+    "url": "https://elevenlabs.io/docs/changelog/2025/10/20.md",
+    "response_url": "https://elevenlabs.io/docs/changelog/2025/10/20.md",
+    "status": 200,
+    "acquired_at": "2026-11-06T13:13:11Z",
+    "sha256": "fa4140fc0fa108110c9b3f441827c492d89b5f1e1ca4ecc9dcb528c2e53df8b1",
+    "file": "e6d236e425ea2e0d6bb561dce628e49f30f2de2ed103c453eb61c5d6234b2356.gz"
+  },
+  {
+    "url": "https://elevenlabs.io/docs/changelog/2025/10/14.md",
+    "response_url": "https://elevenlabs.io/docs/changelog/2025/10/14.md",
+    "status": 200,
+    "acquired_at": "2026-11-06T13:13:11Z",
+    "sha256": "bada9d1e9e038d3237dbc66d6f186a41d37e223fe5193cf2f0c41becabbc10f6",
+    "file": "768f911b6a3415847636def3d6610d0832ad22a7933e5f3fef7e0ccc5fff3b3f.gz"
+  },
+  {
+    "url": "https://elevenlabs.io/docs/changelog/2025/10/7.md",
+    "response_url": "https://elevenlabs.io/docs/changelog/2025/10/7.md",
+    "status": 200,
+    "acquired_at": "2026-11-06T13:13:11Z",
+    "sha256": "1bda9f526d29504c6bfd9c55aea61dfd37a7836c932f905f7a5e8068d5a2222e",
+    "file": "cb812d5ec6a38053ed8ba33513cc099714189552a695389859ae9bed392b66fc.gz"
+  },
+  {
+    "url": "https://elevenlabs.io/docs/changelog/2025/9/29.md",
+    "response_url": "https://elevenlabs.io/docs/changelog/2025/9/29.md",
+    "status": 200,
+    "acquired_at": "2026-11-06T13:13:11Z",
+    "sha256": "6be3d3372a3124e05b08b18f94a479ddeeb8bfcfac467401038f40870e2042ea",
+    "file": "4506ee6525366386ea6ce6cdd6aa23d8d610793217c5665d5d9178620ab003cc.gz"
+  },
+  {
+    "url": "https://elevenlabs.io/docs/changelog/2025/9/8.md",
+    "response_url": "https://elevenlabs.io/docs/changelog/2025/9/8.md",
+    "status": 200,
+    "acquired_at": "2026-11-06T13:13:11Z",
+    "sha256": "7484568feff7c59a0fe0b87af595e829beb7c091f4b74d36737e2448cbc6cd41",
+    "file": "1d0c2ba9cd8ace7c14637e0b5c805043d0b2b00b6953c893f126d775c67262ec.gz"
+  },
+  {
+    "url": "https://elevenlabs.io/docs/changelog/2025/9/15.md",
+    "response_url": "https://elevenlabs.io/docs/changelog/2025/9/15.md",
+    "status": 200,
+    "acquired_at": "2026-11-06T13:13:11Z",
+    "sha256": "a9f8656916f050ba96b80a8dd71ea3e73ff99a17775897bd3e5ce1ebc9c16132",
+    "file": "5955bad64f1b73cd451da1ef5252f043a5054ba9f72a59b3141b120c8dbca9aa.gz"
+  },
+  {
+    "url": "https://elevenlabs.io/docs/changelog/2025/9/22.md",
+    "response_url": "https://elevenlabs.io/docs/changelog/2025/9/22.md",
+    "status": 200,
+    "acquired_at": "2026-11-06T13:13:12Z",
+    "sha256": "4c908f9cfbb8ec9da4e5f1bc58f4f3fef58d5be1943c46f4634eb2c789a6ad2a",
+    "file": "90172bb1eaaaef0672cc3999be6450c701606b422779962d76330960bbd21287.gz"
+  },
+  {
+    "url": "https://elevenlabs.io/docs/changelog/2025/8/11.md",
+    "response_url": "https://elevenlabs.io/docs/changelog/2025/8/11.md",
+    "status": 200,
+    "acquired_at": "2026-11-06T13:13:12Z",
+    "sha256": "c2a01cdbdec5100490e5c6a54335a15840cac99f3988b7004bb2f46ee309b8fb",
+    "file": "8f78d85bc6e4ec71eba0bc04657b5916a65f5203b33e9fa472a0d02e8cfd518c.gz"
+  },
+  {
+    "url": "https://elevenlabs.io/docs/changelog/2025/8/25.md",
+    "response_url": "https://elevenlabs.io/docs/changelog/2025/8/25.md",
+    "status": 200,
+    "acquired_at": "2026-11-06T13:13:12Z",
+    "sha256": "a713ca83f461310e5de81a9f556644ee231dfce19cd874452e0e0de89e237054",
+    "file": "e6ec480de3491297a157c82eb36f72ef1c6b0c34093b6c6be8a0e8ba61b517c5.gz"
+  },
+  {
+    "url": "https://elevenlabs.io/docs/changelog/2025/8/20.md",
+    "response_url": "https://elevenlabs.io/docs/changelog/2025/8/20.md",
+    "status": 200,
+    "acquired_at": "2026-11-06T13:13:12Z",
+    "sha256": "385177a9599be64f4974d18c0154c8c846e59291404e20d1f1f9bb964e28928d",
+    "file": "daff40da875250f1b3f7bf44886775aac9a320bb7ca3dcbb7c6b49fd15956046.gz"
+  },
+  {
+    "url": "https://elevenlabs.io/docs/changelog/2025/9/1.md",
+    "response_url": "https://elevenlabs.io/docs/changelog/2025/9/1.md",
+    "status": 200,
+    "acquired_at": "2026-11-06T13:13:12Z",
+    "sha256": "5337eb07abffeb87b1120221d2e7a4cb3c1de1b4f03fc0991fe4a125046df8f9",
+    "file": "7ed2c99bb7ec214d5d6a4df07cc41a29197a52b337ac786ead11ebd87e1c272a.gz"
+  },
+  {
+    "url": "https://elevenlabs.io/docs/changelog/2025/7/28.md",
+    "response_url": "https://elevenlabs.io/docs/changelog/2025/7/28.md",
+    "status": 200,
+    "acquired_at": "2026-11-06T13:13:12Z",
+    "sha256": "9d75a6a19c9d9bdc7e4f47c79e07a71cec0dfc95c28d71b88d76b570b48b4d7d",
+    "file": "c27ac4a20dd717abde9d442a9bddf8bf6d88745740b3d771d9f544be0087d9ef.gz"
+  },
+  {
+    "url": "https://elevenlabs.io/docs/changelog/2025/7/22.md",
+    "response_url": "https://elevenlabs.io/docs/changelog/2025/7/22.md",
+    "status": 200,
+    "acquired_at": "2026-11-06T13:13:13Z",
+    "sha256": "51ffaf7747e437eeb7180862e73d3f511fe7d8dc80dc63c4891d78619cf1b9da",
+    "file": "89361f38ebc908ed53fb5d2506568c3a7283cdf307dfd45344dc3a3acdad7e64.gz"
+  },
+  {
+    "url": "https://elevenlabs.io/docs/changelog/2025/8/4.md",
+    "response_url": "https://elevenlabs.io/docs/changelog/2025/8/4.md",
+    "status": 200,
+    "acquired_at": "2026-11-06T13:13:13Z",
+    "sha256": "6f401ef5d36468b950ff6e21bcfee1573147db6e93afe437f5b416ae1eaa439b",
+    "file": "57a15f4469a718d25ad3171ae949382ffcf0233c3d37fcf4dc0c671e853776d4.gz"
+  },
+  {
+    "url": "https://elevenlabs.io/docs/changelog/2025/7/14.md",
+    "response_url": "https://elevenlabs.io/docs/changelog/2025/7/14.md",
+    "status": 200,
+    "acquired_at": "2026-11-06T13:13:13Z",
+    "sha256": "e49b2c67e1f85a41a061c4053defbe88efe4cdd39119141032cd64af2d987b3c",
+    "file": "138887bda0d404f46036770b067be62a74593d40b9c5c098cfc9c0e2a451ef81.gz"
+  },
+  {
+    "url": "https://elevenlabs.io/docs/changelog/2025/7/7.md",
+    "response_url": "https://elevenlabs.io/docs/changelog/2025/7/7.md",
+    "status": 200,
+    "acquired_at": "2026-11-06T13:13:13Z",
+    "sha256": "6122b3e5b8c13c7f080456e1bf7f4df5687b5a10fdeba32d8909d76121dcdae9",
+    "file": "f636f9dcef49b606fc512b5abd49b55fa367c9e1f1a143cb319e654005138087.gz"
+  },
+  {
+    "url": "https://elevenlabs.io/docs/changelog/2025/6/23.md",
+    "response_url": "https://elevenlabs.io/docs/changelog/2025/6/23.md",
+    "status": 200,
+    "acquired_at": "2026-11-06T13:13:13Z",
+    "sha256": "1939e14e541897d9988e5f5545d6063821fd1bcb5af07e494a1f580acecd92b6",
+    "file": "012f4521f8ad36b2f6c5dffcf0f1858132057e50eac730e9ba09f34dd282dd9b.gz"
+  },
+  {
+    "url": "https://elevenlabs.io/docs/changelog/2025/6/30.md",
+    "response_url": "https://elevenlabs.io/docs/changelog/2025/6/30.md",
+    "status": 200,
+    "acquired_at": "2026-11-06T13:13:13Z",
+    "sha256": "05dd8f60ecbbac85c0b546bab8ceef1e9323d6243c0d79d198e0522937d3b431",
+    "file": "8e20732bb7cb431a6fb02110837abead6a6d33d24b1b5f0e15111d3364333ac7.gz"
+  },
+  {
+    "url": "https://elevenlabs.io/docs/changelog/2025/6/17.md",
+    "response_url": "https://elevenlabs.io/docs/changelog/2025/6/17.md",
+    "status": 200,
+    "acquired_at": "2026-11-06T13:13:13Z",
+    "sha256": "4d107a4ba247de7accc4fa842646d4d248652e650d1b7b6abccb4b97177eeca0",
+    "file": "9533e2f56be4c5e1d3c2ad4fe8c8f67c2b176a537445ad1035fe56b049bf96ef.gz"
+  },
+  {
+    "url": "https://elevenlabs.io/docs/changelog/2025/6/8.md",
+    "response_url": "https://elevenlabs.io/docs/changelog/2025/6/8.md",
+    "status": 200,
+    "acquired_at": "2026-11-06T13:13:14Z",
+    "sha256": "e21fd22247afb65e392ddbe6a65deb685f8d0c109a50f29465887064298a665f",
+    "file": "b2bf5cb584c2f1823445e64a07fb67453ca7784524f567d168dd72d74ccce14e.gz"
+  },
+  {
+    "url": "https://elevenlabs.io/docs/changelog/2025/6/1.md",
+    "response_url": "https://elevenlabs.io/docs/changelog/2025/6/1.md",
+    "status": 200,
+    "acquired_at": "2026-11-06T13:13:14Z",
+    "sha256": "0535b0ea8a27bc9eee68ef373de16a23351cf0c4198b6a8789511189e3d2b274",
+    "file": "fd572a71df4cf699d7cd3bd906d0b75535dc79054f5600c5252d724782f16b50.gz"
+  },
+  {
+    "url": "https://elevenlabs.io/docs/changelog/2025/5/26.md",
+    "response_url": "https://elevenlabs.io/docs/changelog/2025/5/26.md",
+    "status": 200,
+    "acquired_at": "2026-11-06T13:13:14Z",
+    "sha256": "3fa4357aa4a8507729e64b55e6618d99ba3d85c307553b48208e8ccae1ac490d",
+    "file": "ab34709071b032e2092369eb303aa9bd4a79178fc69ed48136932b14c7fed609.gz"
+  },
+  {
+    "url": "https://elevenlabs.io/docs/changelog/2025/5/19.md",
+    "response_url": "https://elevenlabs.io/docs/changelog/2025/5/19.md",
+    "status": 200,
+    "acquired_at": "2026-11-06T13:13:14Z",
+    "sha256": "9e5b5576a721f682397434dd60a9cf8b531f0fb579b69648a05775f4573da9f4",
+    "file": "79c48194cd2ab53ea4ea0e662223d12a9ae8c29594dfe68b05c6cc4b8d996e1a.gz"
+  },
+  {
+    "url": "https://elevenlabs.io/docs/changelog/2025/5/5.md",
+    "response_url": "https://elevenlabs.io/docs/changelog/2025/5/5.md",
+    "status": 200,
+    "acquired_at": "2026-11-06T13:13:14Z",
+    "sha256": "ab188cf17b68ccabae72d83ffd2ff853377565061d364fc78602fd6862b963cb",
+    "file": "274d1c1ea112049bbe914a906c5b13114c29e6d81df7dd56cbdb80c74e59f65e.gz"
+  },
+  {
+    "url": "https://elevenlabs.io/docs/changelog/2025/5/12.md",
+    "response_url": "https://elevenlabs.io/docs/changelog/2025/5/12.md",
+    "status": 200,
+    "acquired_at": "2026-11-06T13:13:14Z",
+    "sha256": "2a57ca216d8acf8b07d5d4d86333d8c71dc33c98fba6667dfc9dd430626d165c",
+    "file": "139312d965165a08846ec6796860d2784490ca056e7631e33b6b281d654e8575.gz"
+  },
+  {
+    "url": "https://elevenlabs.io/docs/changelog/2025/4/21.md",
+    "response_url": "https://elevenlabs.io/docs/changelog/2025/4/21.md",
+    "status": 200,
+    "acquired_at": "2026-11-06T13:13:14Z",
+    "sha256": "bcd6186575c95c3e3dd9c1dac0933fd6dc825f25994bbb7c95533b4225635fd0",
+    "file": "51393feaafe968d45f46421b66f18f8c1fdd5c99eec83e06ac0b37beea369b34.gz"
+  },
+  {
+    "url": "https://elevenlabs.io/docs/changelog/2025/4/14.md",
+    "response_url": "https://elevenlabs.io/docs/changelog/2025/4/14.md",
+    "status": 200,
+    "acquired_at": "2026-11-06T13:13:15Z",
+    "sha256": "6ecbf1ff2633ded190a697df704884b28e104504f125f479c57b5774cd300fa5",
+    "file": "65e2e3e430096619832fa52fb9cf10a166f9a3d10b0576ee9ea0921687dc12c8.gz"
+  },
+  {
+    "url": "https://elevenlabs.io/docs/changelog/2025/3/31.md",
+    "response_url": "https://elevenlabs.io/docs/changelog/2025/3/31.md",
+    "status": 200,
+    "acquired_at": "2026-11-06T13:13:15Z",
+    "sha256": "1c86a2651f598ebf29fee1c728c0e78898d72f2525df456edf36ce6d5b696723",
+    "file": "0128c43597a8a1880acfe1eb738ea81ae2d25e7a367aebb40c31eef7488014ca.gz"
+  },
+  {
+    "url": "https://elevenlabs.io/docs/changelog/2025/4/28.md",
+    "response_url": "https://elevenlabs.io/docs/changelog/2025/4/28.md",
+    "status": 200,
+    "acquired_at": "2026-11-06T13:13:15Z",
+    "sha256": "2270198bd8e8866a7d18d7383d16f1a46df5b07739ad39b136ba04f154c1de83",
+    "file": "326b32d9c30b7ed52c5626940d470197b0eebfa55fe158d4534893327f6622ef.gz"
+  },
+  {
+    "url": "https://elevenlabs.io/docs/changelog/2025/3/24.md",
+    "response_url": "https://elevenlabs.io/docs/changelog/2025/3/24.md",
+    "status": 200,
+    "acquired_at": "2026-11-06T13:13:15Z",
+    "sha256": "8e95ad0b47c1e6eab9569d4009d80f91901795a1f2bd600a318bc7c5f39cc4c4",
+    "file": "4a4b0c70b14c5769f6f5b76f6b217148e2a0bba1fcf12fff52127350ffb4740b.gz"
+  },
+  {
+    "url": "https://elevenlabs.io/docs/changelog/2025/3/17.md",
+    "response_url": "https://elevenlabs.io/docs/changelog/2025/3/17.md",
+    "status": 200,
+    "acquired_at": "2026-11-06T13:13:16Z",
+    "sha256": "f08ecd96c80ca4b97ea55c30146e9349eb0c9b74905ec45bf709d573a6f54e83",
+    "file": "6dccb8ff9f787c587b3d9490c89b931809b3dceb1e6e4a71baa9b8b53e20e1cf.gz"
+  },
+  {
+    "url": "https://elevenlabs.io/docs/changelog/2025/4/7.md",
+    "response_url": "https://elevenlabs.io/docs/changelog/2025/4/7.md",
+    "status": 200,
+    "acquired_at": "2026-11-06T13:13:16Z",
+    "sha256": "0ec69b388cb342405e99783f1fe71ac4902aae360385b394621147fda4d4f6c7",
+    "file": "d89d6dd5097a81c4e6086bc5f7b7df4be222ef5afb3fffe59cf4f97fc84338ee.gz"
+  },
+  {
+    "url": "https://elevenlabs.io/docs/changelog/2025/3/3.md",
+    "response_url": "https://elevenlabs.io/docs/changelog/2025/3/3.md",
+    "status": 200,
+    "acquired_at": "2026-11-06T13:13:16Z",
+    "sha256": "a22e47f1f6b90fd75ac7b280ddb8429e53f4fad6a471af8d3a08343d5c1e224c",
+    "file": "c1596d3e78d3b1cdacd06c4c1a2f50d848596909d116b521fdc7845a1f99b031.gz"
+  },
+  {
+    "url": "https://elevenlabs.io/docs/changelog/2025/3/10.md",
+    "response_url": "https://elevenlabs.io/docs/changelog/2025/3/10.md",
+    "status": 200,
+    "acquired_at": "2026-11-06T13:13:16Z",
+    "sha256": "11a636e805a2e418519eec906b7c29285ff4d3f8ff9342f342d6a9cfc64fdae3",
+    "file": "1bedad77f602fde522ec2b4980974a0edf2473c607c9a0c6384b8dc50a96215e.gz"
+  },
+  {
+    "url": "https://elevenlabs.io/docs/changelog/2025/2/25.md",
+    "response_url": "https://elevenlabs.io/docs/changelog/2025/2/25.md",
+    "status": 200,
+    "acquired_at": "2026-11-06T13:13:16Z",
+    "sha256": "b4d8d7e86323fcb1b4c85bf2c5d2405773f7003c25cf0eeea68a3cf0c722f2ab",
+    "file": "488ea5d1f88cc4e47c261f60b0d0f529558084d6a377416a2676f6da2d97ebd2.gz"
+  },
+  {
+    "url": "https://elevenlabs.io/docs/changelog/2025/2/10.md",
+    "response_url": "https://elevenlabs.io/docs/changelog/2025/2/10.md",
+    "status": 200,
+    "acquired_at": "2026-11-06T13:13:17Z",
+    "sha256": "7c52c51a4a46c168500c9f8af5c3174ae7b2fb2896fc95b9afd8fcd14b2a0e3d",
+    "file": "7bcea5aec50bc9ce26cf9c0038329c24e8ae1eedef8dcbbef51eda76a6aa606a.gz"
+  },
+  {
+    "url": "https://elevenlabs.io/docs/changelog/2025/2/17.md",
+    "response_url": "https://elevenlabs.io/docs/changelog/2025/2/17.md",
+    "status": 200,
+    "acquired_at": "2026-11-06T13:13:17Z",
+    "sha256": "3586b114f1a70f43a6482375af050ac87321a4e34a5a091707f1d90e40ce1f13",
+    "file": "f5636a7e984b8f8aa17b13c0af4f08344bf1abc4c8cd897902d4fe6efebe5834.gz"
+  },
+  {
+    "url": "https://elevenlabs.io/docs/changelog/2025/2/4.md",
+    "response_url": "https://elevenlabs.io/docs/changelog/2025/2/4.md",
+    "status": 200,
+    "acquired_at": "2026-11-06T13:13:17Z",
+    "sha256": "7c1eae7bed85a0c40a26ddf8b8b350b38fc21761fb5c4fa5a6bd03c922d1dd69",
+    "file": "8dce042d9c84c02c12d271009e0bab44ac7efe58af26780dcbd034afc6ab9c6f.gz"
+  },
+  {
+    "url": "https://elevenlabs.io/docs/changelog/2025/1/27.md",
+    "response_url": "https://elevenlabs.io/docs/changelog/2025/1/27.md",
+    "status": 200,
+    "acquired_at": "2026-11-06T13:13:17Z",
+    "sha256": "d56af806ce0f903835545173f345cc355e7112719904ccaee98064433c641b9c",
+    "file": "69711cff61571cb93734b565cb22ab8e7d698c409f9c2885570a46613409175a.gz"
+  },
+  {
+    "url": "https://elevenlabs.io/docs/changelog/2025/1/16.md",
+    "response_url": "https://elevenlabs.io/docs/changelog/2025/1/16.md",
+    "status": 200,
+    "acquired_at": "2026-11-06T13:13:17Z",
+    "sha256": "ca85a92d9a2a0ab2eaa316d012fbf3b73375c59bc70ee5125e7af55e52e52665",
+    "file": "e0ee2eec8435464806eeb7772fe7f510b952eaf7368249f34358efe0d463dded.gz"
+  },
+  {
+    "url": "https://elevenlabs.io/docs/changelog/2024/12/6.md",
+    "response_url": "https://elevenlabs.io/docs/changelog/2024/12/6.md",
+    "status": 200,
+    "acquired_at": "2026-11-06T13:13:17Z",
+    "sha256": "fb46a9e875e6d600971bbb2b1feed0c3a21a9db25e598e115e1b87f9fb82741b",
+    "file": "cda87b88ce949793c9aa3996394790d72672557c0d693de5bc72df26edddcbf1.gz"
+  },
+  {
+    "url": "https://elevenlabs.io/docs/changelog/2025/1/2.md",
+    "response_url": "https://elevenlabs.io/docs/changelog/2025/1/2.md",
+    "status": 200,
+    "acquired_at": "2026-11-06T13:13:17Z",
+    "sha256": "e8d8ea80b8b18b663892e35b7349888e275bf8a8a1ba47d0b30cb0a4387ee56e",
+    "file": "ca0a06401ab7e26567d69a7e21beca5903416c4062dbe61a59ca1bb7adc4411b.gz"
+  },
+  {
+    "url": "https://elevenlabs.io/docs/changelog/2024/12/19.md",
+    "response_url": "https://elevenlabs.io/docs/changelog/2024/12/19.md",
+    "status": 200,
+    "acquired_at": "2026-11-06T13:13:17Z",
+    "sha256": "9cd929d7a466f61bf1ca37120e62721f3bb9e87145ad75cf52ad73aa986a3e4b",
+    "file": "196665fe575c4a14eb4f5ccedf36dbbf05fb70c43ce5c53c3d44821694821fde.gz"
+  },
+  {
+    "url": "https://elevenlabs.io/docs/changelog/2024/11/29.md",
+    "response_url": "https://elevenlabs.io/docs/changelog/2024/11/29.md",
+    "status": 200,
+    "acquired_at": "2026-11-06T13:13:18Z",
+    "sha256": "f6503d0a31b3360c1f5648c6e771b2ec6059e0060139541fd3acdec79ba6be4a",
+    "file": "940bfc72a571526bb8d45230dd4f7203f34e349fff421dbb1e7ca6133a8951c4.gz"
+  },
+  {
+    "url": "https://elevenlabs.io/docs/changelog/2024/10/20.md",
+    "response_url": "https://elevenlabs.io/docs/changelog/2024/10/20.md",
+    "status": 200,
+    "acquired_at": "2026-11-06T13:13:18Z",
+    "sha256": "1f75cc8d96b8589735785730ba47b32f2d191f101ac9889114471e7466b1e41a",
+    "file": "fdd5c88220215e342cd38276f9c50c8ded1d5d5d4121478f04b955020feae440.gz"
+  },
+  {
+    "url": "https://elevenlabs.io/docs/changelog/2024/12/3.md",
+    "response_url": "https://elevenlabs.io/docs/changelog/2024/12/3.md",
+    "status": 200,
+    "acquired_at": "2026-11-06T13:13:18Z",
+    "sha256": "e5382f04e3faf30150eaa122c4756440bbf375e45f29ebd19d9f0d9d0f260eff",
+    "file": "048451ec1e3e3e9dd25bae83222159896548a0eb90d24a94cf080c2803c98609.gz"
+  },
+  {
+    "url": "https://elevenlabs.io/docs/changelog/2024/10/27.md",
+    "response_url": "https://elevenlabs.io/docs/changelog/2024/10/27.md",
+    "status": 200,
+    "acquired_at": "2026-11-06T13:13:18Z",
+    "sha256": "4f3786a215c6073f63190938e5492e72436c555da96cac652819c07ad614e9a0",
+    "file": "2e8dcffb7463cd712fe11ba4ba372d578684f8eb83d009d60d8fa91bb7622190.gz"
+  },
+  {
+    "url": "https://elevenlabs.io/docs/changelog/2024/10/13.md",
+    "response_url": "https://elevenlabs.io/docs/changelog/2024/10/13.md",
+    "status": 200,
+    "acquired_at": "2026-11-06T13:13:19Z",
+    "sha256": "6969a24a7adc2e186059fdea6c26409074a610af6096373539048b2b98f7af2c",
+    "file": "8f82deda650e9291af255e8a94d5b852bd7465973ebc3530f703f471a7b1781f.gz"
+  },
+  {
+    "url": "https://docs.lovable.dev/changelog.md",
+    "response_url": "https://docs.lovable.dev/changelog.md",
+    "status": 200,
+    "acquired_at": "2026-11-06T13:13:19Z",
+    "sha256": "d4c3397eb17b2059e34bbceec5c8ef0fed8b6a18e740dec3375c8adac7fb20e8",
+    "file": "f455abd20b9e106fb6ca684c7b211c30d6da2cd62453deb97dc73d032d5d26a4.gz"
+  },
+  {
+    "url": "https://v0.app/changelog",
+    "response_url": "https://v0.app/changelog",
+    "status": 200,
+    "acquired_at": "2026-11-06T13:13:20Z",
+    "sha256": "1785164c22161f25ea09f55bf1850c536e1c488046d89e9823d7e3a7f9a30b98",
+    "file": "593855b6ce17906adf52001f90542f5a70bac493812f1b02beed0d088a702f2a.gz"
+  },
+  {
+    "url": "https://docs.replit.com/sitemap.xml",
+    "response_url": "https://docs.replit.com/sitemap.xml",
+    "status": 200,
+    "acquired_at": "2026-11-06T13:13:20Z",
+    "sha256": "bb7983535679c6ed1d49b6b43da1166782e7f4999b63d57da913e5531d955753",
+    "file": "1a3d4900f3c6e5042c56c3ad546c8698a29d11af40e39a612cbe2420a2dfaf06.gz"
+  },
+  {
+    "url": "https://docs.replit.com/updates/2026/10/30/changelog.md",
+    "response_url": "https://docs.replit.com/updates/2026/10/30/changelog.md",
+    "status": 200,
+    "acquired_at": "2026-11-06T13:13:21Z",
+    "sha256": "1a4e649e78c167b1693a027becb8819625973f3bedfd81de9fd394e62e8b8daf",
+    "file": "5b58865b42094feaaba3135dd9732904df6ed5be09ffde0a8b62d12524c1e362.gz"
+  },
+  {
+    "url": "https://docs.replit.com/updates/2026/10/23/changelog.md",
+    "response_url": "https://docs.replit.com/updates/2026/10/23/changelog.md",
+    "status": 200,
+    "acquired_at": "2026-11-06T13:13:21Z",
+    "sha256": "04bd22fba58385d12e0c99aab6bab2bd52123f2a30e129813e2d5cc0a168215d",
+    "file": "769a91105f0eefb32ce0aa750fc1a7361c4e6008fcdbcfdb753ff0a2068689c3.gz"
+  },
+  {
+    "url": "https://docs.replit.com/updates/2026/10/09/changelog.md",
+    "response_url": "https://docs.replit.com/updates/2026/10/09/changelog.md",
+    "status": 200,
+    "acquired_at": "2026-11-06T13:13:21Z",
+    "sha256": "7b2f50b8c849067c450a7d767453f86672411bf4bf5dfc762241ea5a51851791",
+    "file": "27883112c8b8112fb776782722f5ad0cc6bec8b073c7f3692a6c071bd3c156ee.gz"
+  },
+  {
+    "url": "https://docs.replit.com/updates/2026/10/16/changelog.md",
+    "response_url": "https://docs.replit.com/updates/2026/10/16/changelog.md",
+    "status": 200,
+    "acquired_at": "2026-11-06T13:13:21Z",
+    "sha256": "ec4d713ade7ba5e9dc54ef3fab485716e20b2b706e9dfa4cc448d85bd2a614fe",
+    "file": "c956199106f9805358e06fc07de0b83390e01cf6885723120e995af3703e504f.gz"
+  },
+  {
+    "url": "https://docs.replit.com/updates/2026/09/25/changelog.md",
+    "response_url": "https://docs.replit.com/updates/2026/09/25/changelog.md",
+    "status": 200,
+    "acquired_at": "2026-11-06T13:13:21Z",
+    "sha256": "79baeacb66b6395688eca98be8f29f4b2c86ac843434fa9d3fa0f38364759d56",
+    "file": "6b18484f12e1cf5c6cf162ba427e86419e60fc90d7ad163035a99fd8f0bd3bd3.gz"
+  },
+  {
+    "url": "https://docs.replit.com/updates/2026/10/02/changelog.md",
+    "response_url": "https://docs.replit.com/updates/2026/10/02/changelog.md",
+    "status": 200,
+    "acquired_at": "2026-11-06T13:13:21Z",
+    "sha256": "be50c69093be0fb097b6043198f30a59ae929d8753dd690748e921a1cb8c6b96",
+    "file": "22bd4aa5bdd0f6ce666d8829aebf2e1b84ca5a853a03f3d2e7487b476179eec7.gz"
+  },
+  {
+    "url": "https://docs.replit.com/updates/2026/09/18/changelog.md",
+    "response_url": "https://docs.replit.com/updates/2026/09/18/changelog.md",
+    "status": 200,
+    "acquired_at": "2026-11-06T13:13:21Z",
+    "sha256": "324a55fd6a3dcf7468a6e62a14e274f7327eb8de8766ebb62fef2a009d9717f4",
+    "file": "f752d9a0e77716d98f0c47313e36bc92bf4d0188314da1eb177fa6c7f918015f.gz"
+  },
+  {
+    "url": "https://docs.replit.com/updates/2026/09/11/changelog.md",
+    "response_url": "https://docs.replit.com/updates/2026/09/11/changelog.md",
+    "status": 200,
+    "acquired_at": "2026-11-06T13:13:21Z",
+    "sha256": "4be291f1c9a590925b9440b055f672ad3219a41d1e79b4a22a845c1f258caadb",
+    "file": "a544909b42403a7ddf060b3f27e6290bf2610e0040100ac3874a8220da07b17f.gz"
+  },
+  {
+    "url": "https://docs.replit.com/updates/2026/09/04/changelog.md",
+    "response_url": "https://docs.replit.com/updates/2026/09/04/changelog.md",
+    "status": 200,
+    "acquired_at": "2026-11-06T13:13:21Z",
+    "sha256": "27cda29c4a8ecf4372b83c3ef9a0468d187f3fbc7e26d984b448fa4210cb5475",
+    "file": "8a503dc66e9fd9604ba5bd1dc5c960b7d3424c2fe02c23d059f29a28cd818c2c.gz"
+  },
+  {
+    "url": "https://docs.replit.com/updates/2026/08/21/changelog.md",
+    "response_url": "https://docs.replit.com/updates/2026/08/21/changelog.md",
+    "status": 200,
+    "acquired_at": "2026-11-06T13:13:21Z",
+    "sha256": "9d82c9ceb1c0f2d11d1d72905f078ac114987db49f1e33a77f9008c58625f600",
+    "file": "b7137af1af31c9dd8033cbe5d05fe46ccf93ea96b598288162fc318af8575583.gz"
+  },
+  {
+    "url": "https://docs.replit.com/updates/2026/08/28/changelog.md",
+    "response_url": "https://docs.replit.com/updates/2026/08/28/changelog.md",
+    "status": 200,
+    "acquired_at": "2026-11-06T13:13:22Z",
+    "sha256": "138b4930701cca8e217ca7a9d80d59943adbc1bf5e244ea9bc96eeee08b3636a",
+    "file": "4616b6f999041cb78118a7ade68200d43500e870678903d9962719b564ddeb9e.gz"
+  },
+  {
+    "url": "https://docs.replit.com/updates/2026/08/14/changelog.md",
+    "response_url": "https://docs.replit.com/updates/2026/08/14/changelog.md",
+    "status": 200,
+    "acquired_at": "2026-11-06T13:13:22Z",
+    "sha256": "1e5163fe832f7717bd20f80db8e3705ca09b47ca57e60d5a66e18c17d3863dc5",
+    "file": "b455a94ed7c3aa4e07c90cc074b49a1ae9146ba0bb7552df46e1f18e2ad34f72.gz"
+  },
+  {
+    "url": "https://docs.replit.com/updates/2026/07/31/changelog.md",
+    "response_url": "https://docs.replit.com/updates/2026/07/31/changelog.md",
+    "status": 200,
+    "acquired_at": "2026-11-06T13:13:22Z",
+    "sha256": "d3c058cd9eb719faef465cf3ca0d63c3c4f7fa90c48e5b7b9b5caeef6a8d53ed",
+    "file": "71e8d2f2840566adb44aff0c26a53c4fb84015ddaa6563f97980db017e436613.gz"
+  },
+  {
+    "url": "https://docs.replit.com/updates/2026/08/07/changelog.md",
+    "response_url": "https://docs.replit.com/updates/2026/08/07/changelog.md",
+    "status": 200,
+    "acquired_at": "2026-11-06T13:13:22Z",
+    "sha256": "d69d39df45b807b08ee0c2bf9369a6d70a16e08d1d04a7a5be2fe8f6a670073d",
+    "file": "7c731e6644c9ac649ea33f2ff4effcd5a17c3dce79edf578a7058ce40563a762.gz"
+  },
+  {
+    "url": "https://docs.replit.com/updates/2026/07/24/changelog.md",
+    "response_url": "https://docs.replit.com/updates/2026/07/24/changelog.md",
+    "status": 200,
+    "acquired_at": "2026-11-06T13:13:22Z",
+    "sha256": "c9e4b31b0f1cca3dd41704964801961bb1b7edc781cec69e4861d26e95dc24b9",
+    "file": "ee19bd270ab47c1f5592ff11e8f34ef61ee8c713fedd07fbbc7fc3246d4dc4d8.gz"
+  },
+  {
+    "url": "https://docs.replit.com/updates/2026/07/17/changelog.md",
+    "response_url": "https://docs.replit.com/updates/2026/07/17/changelog.md",
+    "status": 200,
+    "acquired_at": "2026-11-06T13:13:22Z",
+    "sha256": "7013cb5e092bf502b46fa15eaa2be9334522d693c90c95612f4bb098ce0f7a0a",
+    "file": "e1285d1ee79ce7c0e70ee9bf2e3c9d8bf8e6bebd6036c955689286e98cf36df1.gz"
+  },
+  {
+    "url": "https://docs.replit.com/updates/2026/06/26/changelog.md",
+    "response_url": "https://docs.replit.com/updates/2026/06/26/changelog.md",
+    "status": 200,
+    "acquired_at": "2026-11-06T13:13:22Z",
+    "sha256": "564f9283db2f13cfb50c3e8ae32f3e05a9ca0d7bc20e159d3eddb42120b6bf56",
+    "file": "feb2563a80a9d110ccc22f3bd4dbb62b05bcbfb4e0dc816b1de599614fc50d13.gz"
+  },
+  {
+    "url": "https://docs.replit.com/updates/2026/07/10/changelog.md",
+    "response_url": "https://docs.replit.com/updates/2026/07/10/changelog.md",
+    "status": 200,
+    "acquired_at": "2026-11-06T13:13:22Z",
+    "sha256": "2ca6413b33b6763112a4faaa6e188437f5e71424ef4e0e7b2f3a1bf3cb23bf0c",
+    "file": "bc5cae25ba4297078a21e4feef31383b38e8c8db7e3157ab8276c85300b90ecc.gz"
+  },
+  {
+    "url": "https://docs.replit.com/updates/2026/07/03/changelog.md",
+    "response_url": "https://docs.replit.com/updates/2026/07/03/changelog.md",
+    "status": 200,
+    "acquired_at": "2026-11-06T13:13:22Z",
+    "sha256": "36cd16f0c082cde5fdadbfa7bbdb3d1e6cffcf3b0555e5c969554098c72b7f54",
+    "file": "c1be6d22469a913c7d0ee84ead0c46811c0f47ead6e35d77457801c8221a9d30.gz"
+  },
+  {
+    "url": "https://docs.replit.com/updates/2026/05/29/changelog.md",
+    "response_url": "https://docs.replit.com/updates/2026/05/29/changelog.md",
+    "status": 200,
+    "acquired_at": "2026-11-06T13:13:23Z",
+    "sha256": "5ad9d1503f17c3d824ddaa5486eb9fc5cd4776db1ec2d40c223c4346fc31f365",
+    "file": "65d67e4a508ce33af1b94242bfc55ca49972d807980f42d691d5b2fff27a5328.gz"
+  },
+  {
+    "url": "https://docs.replit.com/updates/2026/06/19/changelog.md",
+    "response_url": "https://docs.replit.com/updates/2026/06/19/changelog.md",
+    "status": 200,
+    "acquired_at": "2026-11-06T13:13:23Z",
+    "sha256": "dd11d445f04ceecdccf8d0f15b852aadbd337cfa45cfe31e2e0d271570f843a9",
+    "file": "df5038aa280c4b532305c76911753d9a896485d916424dd62b3a74c28d3acdbc.gz"
+  },
+  {
+    "url": "https://docs.replit.com/updates/2026/06/12/changelog.md",
+    "response_url": "https://docs.replit.com/updates/2026/06/12/changelog.md",
+    "status": 200,
+    "acquired_at": "2026-11-06T13:13:23Z",
+    "sha256": "b4d0bba6228caddb0e22fdee627258455dd80fe97fecb8e4e596148f5edeb940",
+    "file": "fd8cb37ea38a25071737b7f59ce361614935768acfd459db30186045c247c44c.gz"
+  },
+  {
+    "url": "https://docs.replit.com/updates/2026/06/05/changelog.md",
+    "response_url": "https://docs.replit.com/updates/2026/06/05/changelog.md",
+    "status": 200,
+    "acquired_at": "2026-11-06T13:13:23Z",
+    "sha256": "efad878eeb6f70909d31608f057a491e45b2965e14db36af603219b4da0bf18e",
+    "file": "27834f4793de6bfe6adbdb8252b6c9ba2e153866f32f67ef44952f49dadc7fa4.gz"
+  },
+  {
+    "url": "https://docs.replit.com/updates/2026/05/22/changelog.md",
+    "response_url": "https://docs.replit.com/updates/2026/05/22/changelog.md",
+    "status": 200,
+    "acquired_at": "2026-11-06T13:13:23Z",
+    "sha256": "be4c8dfa824cc05f5b69525db74ddfebda3d8a667f4739acf4e3b0c3c6ddde92",
+    "file": "6095a6fbc0d6b7f0f29fe8925ef69f705ab27f1cbe35141785e136b42d58fab1.gz"
+  },
+  {
+    "url": "https://docs.replit.com/updates/2026/05/15/changelog.md",
+    "response_url": "https://docs.replit.com/updates/2026/05/15/changelog.md",
+    "status": 200,
+    "acquired_at": "2026-11-06T13:13:23Z",
+    "sha256": "5ff185ee2494e3638e04f1322fd3e4df7c00649acce2091b993fcaa813f2d766",
+    "file": "39984205d670b8fef5e6e80fa84fd028587f4274005fd76d9a248cf6be7c9e5d.gz"
+  },
+  {
+    "url": "https://docs.replit.com/updates/2026/05/08/changelog.md",
+    "response_url": "https://docs.replit.com/updates/2026/05/08/changelog.md",
+    "status": 200,
+    "acquired_at": "2026-11-06T13:13:23Z",
+    "sha256": "77714d3c2551879ae5241738597502f10d415e95b6f810aae24b463b1ba5eb43",
+    "file": "a344b87c0704dae2f29016219fad0437846fc7d11457831c7de280af4f99184c.gz"
+  },
+  {
+    "url": "https://docs.replit.com/updates/2026/05/01/changelog.md",
+    "response_url": "https://docs.replit.com/updates/2026/05/01/changelog.md",
+    "status": 200,
+    "acquired_at": "2026-11-06T13:13:23Z",
+    "sha256": "484202d55eff67d929a8d7e3d0944c9df5a1554b76676eb3c78c96ebd184e4c1",
+    "file": "ca7fdc443e13fbf577aae8ed08511496d259ebb2cbb97268d1a19d606dea7453.gz"
+  },
+  {
+    "url": "https://docs.replit.com/updates/2026/04/24/changelog.md",
+    "response_url": "https://docs.replit.com/updates/2026/04/24/changelog.md",
+    "status": 200,
+    "acquired_at": "2026-11-06T13:13:24Z",
+    "sha256": "e16e1088cba68e753de83a5dc263039429bd53da04fb3b34524244bff3bed8f7",
+    "file": "748684d0029090c1205c40fd48f5c1e971214e1492ae18fffada85f18a27ed57.gz"
+  },
+  {
+    "url": "https://docs.replit.com/updates/2026/04/17/changelog.md",
+    "response_url": "https://docs.replit.com/updates/2026/04/17/changelog.md",
+    "status": 200,
+    "acquired_at": "2026-11-06T13:13:24Z",
+    "sha256": "190f2ebe41ea46301ced1a1400459285bd3ff9a03bd28f1eb611c4d6e6ce6c54",
+    "file": "337a8df8a249e44ac430ac299564338f545bdaa49f4dceaa27e939357044c1bf.gz"
+  },
+  {
+    "url": "https://docs.replit.com/updates/2026/04/10/changelog.md",
+    "response_url": "https://docs.replit.com/updates/2026/04/10/changelog.md",
+    "status": 200,
+    "acquired_at": "2026-11-06T13:13:24Z",
+    "sha256": "27f60b5910231a096d06336fae1c7a9f45b5cb53efe229d7fbcff25f21118f88",
+    "file": "0237faff1695ced3b5e13cb3326cfed4f7295af32e731b022716a7035c5a0d87.gz"
+  },
+  {
+    "url": "https://docs.replit.com/updates/2026/04/03/changelog.md",
+    "response_url": "https://docs.replit.com/updates/2026/04/03/changelog.md",
+    "status": 200,
+    "acquired_at": "2026-11-06T13:13:24Z",
+    "sha256": "210cb77aa323e46b54d5ca9f39da91a343816736c153b49972d70ae1184f4a5a",
+    "file": "a19fadd07e8ffbeb1b93f6685687bc8837d764f3c0d9afd2a7509979c24d6b60.gz"
+  },
+  {
+    "url": "https://docs.replit.com/updates/2026/03/13/changelog.md",
+    "response_url": "https://docs.replit.com/updates/2026/03/13/changelog.md",
+    "status": 200,
+    "acquired_at": "2026-11-06T13:13:24Z",
+    "sha256": "2b17ff823c5417a1e0319c3cbbc32ad6671ad6cd52905f9cea1be7f3c705739c",
+    "file": "908dedb5d38b846473537468c2c9231663778f2d1fb58878a44b212a37972e32.gz"
+  },
+  {
+    "url": "https://docs.replit.com/updates/2026/03/20/changelog.md",
+    "response_url": "https://docs.replit.com/updates/2026/03/20/changelog.md",
+    "status": 200,
+    "acquired_at": "2026-11-06T13:13:24Z",
+    "sha256": "f02511681d3f8cebbed3fdcecabffe4baff07cb1a45241cb5e39ceeea01a53ee",
+    "file": "0001971c01ff6f711cb5ca77aaf092c65dd9ab45c42d3f27f96df770d8f96770.gz"
+  },
+  {
+    "url": "https://docs.replit.com/updates/2026/03/27/changelog.md",
+    "response_url": "https://docs.replit.com/updates/2026/03/27/changelog.md",
+    "status": 200,
+    "acquired_at": "2026-11-06T13:13:24Z",
+    "sha256": "d105cdd5128e9b60de51db73166ffa9314bc043508ea216db7ccc18fc689d035",
+    "file": "5a649b9beb0c99a4b4ab6d870938bee4dda8ce6a6a637deabd1cb9e2b5391c0b.gz"
+  },
+  {
+    "url": "https://docs.replit.com/updates/2026/03/06/changelog.md",
+    "response_url": "https://docs.replit.com/updates/2026/03/06/changelog.md",
+    "status": 200,
+    "acquired_at": "2026-11-06T13:13:24Z",
+    "sha256": "604da7d909529a1208064d743b00bb48b878df8346d99ec9fbc9c28cec0eeea3",
+    "file": "5ea34bd13e64f76daae172437b83f687be435902816fb253eed527ce8a7fb4a4.gz"
+  },
+  {
+    "url": "https://docs.replit.com/updates/2026/02/27/changelog.md",
+    "response_url": "https://docs.replit.com/updates/2026/02/27/changelog.md",
+    "status": 200,
+    "acquired_at": "2026-11-06T13:13:25Z",
+    "sha256": "ff5445f94bfc916cd97c113fcd0f7e237469f582227c30eb57ba0dc80f4b8894",
+    "file": "4c81487d213efe27d5460f0a96ea02deba99caf9047d7cc71ab9ad394d2bb473.gz"
+  },
+  {
+    "url": "https://docs.replit.com/updates/2026/02/20/changelog.md",
+    "response_url": "https://docs.replit.com/updates/2026/02/20/changelog.md",
+    "status": 200,
+    "acquired_at": "2026-11-06T13:13:25Z",
+    "sha256": "74523b395c91b806fbf6303ebb110aec5d0c59639afe9e1fcce4dc1011a40b62",
+    "file": "b7ab9c583f46d736a53e697d0629efb2c932641122b4d3121a7dac2812ee0683.gz"
+  },
+  {
+    "url": "https://docs.replit.com/updates/2026/02/13/changelog.md",
+    "response_url": "https://docs.replit.com/updates/2026/02/13/changelog.md",
+    "status": 200,
+    "acquired_at": "2026-11-06T13:13:25Z",
+    "sha256": "5bba5a01ed8c905aecff1d26d2503205bd6dba9a9ac93c1fa4b259bc40c4b65c",
+    "file": "0d244fbb5dbedd38e43c5deab76ca0566d0f3a6a57eea944c51509f60c3744aa.gz"
+  },
+  {
+    "url": "https://docs.replit.com/updates/2026/02/06/changelog.md",
+    "response_url": "https://docs.replit.com/updates/2026/02/06/changelog.md",
+    "status": 200,
+    "acquired_at": "2026-11-06T13:13:25Z",
+    "sha256": "38fde0a00622ffc24bbe3a39be322437c85c00af4b7ef18b64cbed763c16beef",
+    "file": "c40dfdc3f10bb0d4f5c2ffc38e89da810bd75388fcb8f439de2ae01b0b11ec7e.gz"
+  },
+  {
+    "url": "https://docs.replit.com/updates/2026/01/30/changelog.md",
+    "response_url": "https://docs.replit.com/updates/2026/01/30/changelog.md",
+    "status": 200,
+    "acquired_at": "2026-11-06T13:13:25Z",
+    "sha256": "86ad4c81e081b8f2ce22e8e8a7dd0bced70cf90f96811bcb1327b1ca7fcc610f",
+    "file": "bac93843bb222afee6d148481adafe6d760c0d02a4291ffc55d99d57aabd8487.gz"
+  },
+  {
+    "url": "https://docs.replit.com/updates/2026/01/23/changelog.md",
+    "response_url": "https://docs.replit.com/updates/2026/01/23/changelog.md",
+    "status": 200,
+    "acquired_at": "2026-11-06T13:13:25Z",
+    "sha256": "6bd8f97dc1fa80953d609f026c275f2bc423f4091f6e1bfa0463bec3c708132d",
+    "file": "070a4dca1a2a5d282a170dd43acc441d162c12e8f0b46455bb3e26d5106e1634.gz"
+  },
+  {
+    "url": "https://docs.replit.com/updates/2026/01/16/changelog.md",
+    "response_url": "https://docs.replit.com/updates/2026/01/16/changelog.md",
+    "status": 200,
+    "acquired_at": "2026-11-06T13:13:25Z",
+    "sha256": "d6b8d111c81ec80ed3ff7aa179c9c33f230a622e00c872fef1b334fc1466e8ff",
+    "file": "cd3add006cb59b8ca1af11ac1793e6ccad61d600ae87d8ab0247e7fd81c22626.gz"
+  },
+  {
+    "url": "https://docs.replit.com/updates/2026/01/09/changelog.md",
+    "response_url": "https://docs.replit.com/updates/2026/01/09/changelog.md",
+    "status": 200,
+    "acquired_at": "2026-11-06T13:13:25Z",
+    "sha256": "b71200204fe742586e1a5fcd270657bad3aa4725483ce970303838c815e0d669",
+    "file": "8476986f0e5e45dfeb02461b5e45bf09aceaa1acccdfa6616051d7f91bbc1839.gz"
+  },
+  {
+    "url": "https://docs.replit.com/updates/2025/12/26/changelog.md",
+    "response_url": "https://docs.replit.com/updates/2025/12/26/changelog.md",
+    "status": 200,
+    "acquired_at": "2026-11-06T13:13:25Z",
+    "sha256": "2432d978c48a6a625f1ff94748ae25891d8dad6028a48322143e2acbe54e557d",
+    "file": "d55f0f3bcfad5b62a9b6b40fab2a4e4e60bc7a9f8fd0a8bfefe7d05a57cfc025.gz"
+  },
+  {
+    "url": "https://docs.replit.com/updates/2026/01/02/changelog.md",
+    "response_url": "https://docs.replit.com/updates/2026/01/02/changelog.md",
+    "status": 200,
+    "acquired_at": "2026-11-06T13:13:26Z",
+    "sha256": "65d930642cdfca2874bc88ca86a49365272e25cf57e9508d4c139ee01fbe08c4",
+    "file": "391ccbb563a0eb2290508bd4d12557f13188b187a33953c4f7a848a99733184c.gz"
+  },
+  {
+    "url": "https://docs.replit.com/updates/2025/12/19/changelog.md",
+    "response_url": "https://docs.replit.com/updates/2025/12/19/changelog.md",
+    "status": 200,
+    "acquired_at": "2026-11-06T13:13:26Z",
+    "sha256": "cc2312ca66be40ba5b6a6bfb54ce7bf6109b30addb0923756f37f26af9ec996e",
+    "file": "2ddba5df617a4365790019baed0f6206e7477f47b7685208d72c270dfcfcbe46.gz"
+  },
+  {
+    "url": "https://docs.replit.com/updates/2025/12/12/changelog.md",
+    "response_url": "https://docs.replit.com/updates/2025/12/12/changelog.md",
+    "status": 200,
+    "acquired_at": "2026-11-06T13:13:26Z",
+    "sha256": "f6e4f822cac70dfba9e22a2378b6b3a9789b5e2986e769c4a3bd3f5f422480f2",
+    "file": "0486c031f772ccc5057e30f98855fd89a5994c1adf1b1346a6087ddedeca184a.gz"
+  },
+  {
+    "url": "https://docs.replit.com/updates/2025/11/26/changelog.md",
+    "response_url": "https://docs.replit.com/updates/2025/11/26/changelog.md",
+    "status": 200,
+    "acquired_at": "2026-11-06T13:13:26Z",
+    "sha256": "fc7d899a4b51b3a54fd79e5e0db8302d3ac7933999f70b4a02931751930d15a4",
+    "file": "e9c8c690fb0daaaf44225d9e2cbaa044134075f36386a1915c6495de7d047d4c.gz"
+  },
+  {
+    "url": "https://docs.replit.com/updates/2025/12/05/changelog.md",
+    "response_url": "https://docs.replit.com/updates/2025/12/05/changelog.md",
+    "status": 200,
+    "acquired_at": "2026-11-06T13:13:26Z",
+    "sha256": "ff2696e38e3b914888455c147d7d10dd434e2555c44eb2313875d059bdedf5b0",
+    "file": "4ea67902581d8e8ba89e3ceabe4dcf712d8a2d759f0b491df1b1740b25dfff4e.gz"
+  },
+  {
+    "url": "https://api.github.com/repos/ollama/ollama/releases?per_page=30&page=1",
+    "response_url": "https://api.github.com/repos/ollama/ollama/releases?per_page=30&page=1",
+    "status": 200,
+    "acquired_at": "2026-11-06T13:13:27Z",
+    "sha256": "1d1c6246301203c4b48e16965c237832919e2454af9fd003843aee1cde1ac6a4",
+    "file": "40baa44cbdfc673e553eda030e948bac3b847e6b51fb7725cb56eb8ee0a76874.gz"
+  },
+  {
+    "url": "https://api.github.com/repos/ollama/ollama/releases?per_page=30&page=2",
+    "response_url": "https://api.github.com/repos/ollama/ollama/releases?per_page=30&page=2",
+    "status": 200,
+    "acquired_at": "2026-11-06T13:13:29Z",
+    "sha256": "47cdf0ca218635f6be654611aefc4e97dd6b9b7ef8cb879b8001868b8a8fb31e",
+    "file": "f402310e16a08eca3c85e3962bc9fc7c9e7196e9d1819ec51f6abc08263a2124.gz"
+  },
+  {
+    "url": "https://api.github.com/repos/ollama/ollama/releases?per_page=30&page=3",
+    "response_url": "https://api.github.com/repos/ollama/ollama/releases?per_page=30&page=3",
+    "status": 200,
+    "acquired_at": "2026-11-06T13:13:30Z",
+    "sha256": "4aa73d84dba901eb9acf4091b4bce13752b2b71db4c2da1a461bde13ef5dfcb0",
+    "file": "a7cf7cea394e06349cd85f04f828874f607e951b43d521c0540df9e82b4b47e6.gz"
+  },
+  {
+    "url": "https://api.github.com/repos/ollama/ollama/releases?per_page=30&page=4",
+    "response_url": "https://api.github.com/repos/ollama/ollama/releases?per_page=30&page=4",
+    "status": 200,
+    "acquired_at": "2026-11-06T13:13:31Z",
+    "sha256": "1955835d6848ee6b58e23341ec53424a957b40b79bf263d2964bb1d5d4e1761b",
+    "file": "60e2a8b6814684893a408e2ad4c8c3cbc9246d805264ec0b49be13c01bb20c01.gz"
+  },
+  {
+    "url": "https://api.github.com/repos/ollama/ollama/releases?per_page=30&page=5",
+    "response_url": "https://api.github.com/repos/ollama/ollama/releases?per_page=30&page=5",
+    "status": 200,
+    "acquired_at": "2026-11-06T13:13:32Z",
+    "sha256": "bde09416783b27791d10ecea95fcfe4ed61d02c350269ab2fcf3adc9dd1c3047",
+    "file": "28c0bc5e07c3b4830ff9c3521bbd56108dc0649c9a03844edb53a1e9d3cd0477.gz"
+  },
+  {
+    "url": "https://api.github.com/repos/ollama/ollama/releases?per_page=30&page=6",
+    "response_url": "https://api.github.com/repos/ollama/ollama/releases?per_page=30&page=6",
+    "status": 200,
+    "acquired_at": "2026-11-06T13:13:34Z",
+    "sha256": "e463f9e236e5dd970d5587f2b25a7eee2b549b12056e73838ef722092209aa63",
+    "file": "928a682721bee7099343f136d2a6603a0e0a4221dc95addc8376e3877736d30c.gz"
+  },
+  {
+    "url": "https://api.github.com/repos/ollama/ollama/releases?per_page=30&page=7",
+    "response_url": "https://api.github.com/repos/ollama/ollama/releases?per_page=30&page=7",
+    "status": 200,
+    "acquired_at": "2026-11-06T13:13:35Z",
+    "sha256": "0e9662b618c1b17bac6b7aeee1f719dadbd7b565427ef0cab92a2d3081826cf5",
+    "file": "0c961fd1df7427f79310cc240b97b1fb0710ceb3addb8d58bed8a88e8918b544.gz"
+  },
+  {
+    "url": "https://api.github.com/repos/ollama/ollama/releases?per_page=30&page=8",
+    "response_url": "https://api.github.com/repos/ollama/ollama/releases?per_page=30&page=8",
+    "status": 200,
+    "acquired_at": "2026-11-06T13:13:36Z",
+    "sha256": "e32e8c6b280974b66c0dc76cf5a4137b2e83799e135ce304cb4b3a27c89abad7",
+    "file": "ea62a4bd331c1a248684c0e41ff15fa7306ebda9d37e4996817abea49908e344.gz"
+  },
+  {
+    "url": "https://api.github.com/repos/ollama/ollama/releases?per_page=30&page=9",
+    "response_url": "https://api.github.com/repos/ollama/ollama/releases?per_page=30&page=9",
+    "status": 200,
+    "acquired_at": "2026-11-06T13:13:37Z",
+    "sha256": "388e40a46dec99babfaeda31cfbb403abc81fb9684e4c3776396bf68fe0dbd69",
+    "file": "9472fcf8d20bdcd1b85b9871830dcd5ec377c4125090420a944123ea98ce3b32.gz"
+  },
+  {
+    "url": "https://api.github.com/repos/ollama/ollama/releases?per_page=30&page=10",
+    "response_url": "https://api.github.com/repos/ollama/ollama/releases?per_page=30&page=10",
+    "status": 200,
+    "acquired_at": "2026-11-06T13:13:38Z",
+    "sha256": "ed83196d8834495adc90b23ea61a092b34bd551bee946ba98d964d3707fe14fe",
+    "file": "75b1e4fc2189b4dd8f432e6a914f79fd31198a8ae4179905785d9a12ca4f5a05.gz"
+  },
+  {
+    "url": "https://api.github.com/repos/langgenius/dify/releases?per_page=30&page=1",
+    "response_url": "https://api.github.com/repos/langgenius/dify/releases?per_page=30&page=1",
+    "status": 200,
+    "acquired_at": "2026-11-06T13:13:39Z",
+    "sha256": "65ef0dc3597fb15083f0a12b168f0a5b3cb350b779e623a0ade2f84063efee5b",
+    "file": "94429259959fdc29abcbbf3846ed2b1063343ec00f0b3fd87bccc1219e2e91c9.gz"
+  },
+  {
+    "url": "https://api.github.com/repos/langgenius/dify/releases?per_page=30&page=2",
+    "response_url": "https://api.github.com/repos/langgenius/dify/releases?per_page=30&page=2",
+    "status": 200,
+    "acquired_at": "2026-11-06T13:13:41Z",
+    "sha256": "2125fa51830472b910fde1e99b3f4dc40a5812bffef3a285e90e001e3cdf1def",
+    "file": "57a96307f8588a85c15de715deed0aef0ce26a28a3067dfcc9d8e99d7f7599b4.gz"
+  },
+  {
+    "url": "https://api.github.com/repos/langgenius/dify/releases?per_page=30&page=3",
+    "response_url": "https://api.github.com/repos/langgenius/dify/releases?per_page=30&page=3",
+    "status": 200,
+    "acquired_at": "2026-11-06T13:13:42Z",
+    "sha256": "bfbeb28fc0bf8b4df26a3d16b2e16d55b7c500ebb206617f63132cbf56b805d8",
+    "file": "c681e5c4fa277b34a80b3e4235421df31c9e3b7e86ce5ed0f0d61b8d8f99e98e.gz"
+  },
+  {
+    "url": "https://api.github.com/repos/langgenius/dify/releases?per_page=30&page=4",
+    "response_url": "https://api.github.com/repos/langgenius/dify/releases?per_page=30&page=4",
+    "status": 200,
+    "acquired_at": "2026-11-06T13:13:43Z",
+    "sha256": "974a47ea670e8ebbb46a6dec9e3e5576a359409bc11823ed0a7bdba645e59990",
+    "file": "17df09e1c0e1c89872ff951fe3b7da0c3788f30fe96f257b614cdc1bf4fe7d59.gz"
+  },
+  {
+    "url": "https://api.github.com/repos/langgenius/dify/releases?per_page=30&page=5",
+    "response_url": "https://api.github.com/repos/langgenius/dify/releases?per_page=30&page=5",
+    "status": 200,
+    "acquired_at": "2026-11-06T13:13:44Z",
+    "sha256": "df87c608e01a5e6998b1fd32bf0e8e34748c869097bbed3da09628bd4bf6ecf3",
+    "file": "450df73023e2c1353b4d3694dad4cf9c8d23fbcb02111c476e0d3a3a2b0881bc.gz"
+  },
+  {
+    "url": "https://api.github.com/repos/langgenius/dify/releases?per_page=30&page=6",
+    "response_url": "https://api.github.com/repos/langgenius/dify/releases?per_page=30&page=6",
+    "status": 200,
+    "acquired_at": "2026-11-06T13:13:44Z",
+    "sha256": "af6070b40078b45fd2c12499c9a5de2d75a93bf6dfccaab7cb7c259e2051f270",
+    "file": "383bfe2d9885ca495bd0642a449cf7cc9ca9a0f80b5d01cc26885732b5e4271b.gz"
+  },
+  {
+    "url": "https://api.github.com/repos/open-webui/open-webui/releases?per_page=30&page=1",
+    "response_url": "https://api.github.com/repos/open-webui/open-webui/releases?per_page=30&page=1",
+    "status": 200,
+    "acquired_at": "2026-11-06T13:13:46Z",
+    "sha256": "62e329e4cf4ad4c1b14a42d9b7313954a73cf997e7ae3ff377a9071e58048e7e",
+    "file": "02f93d1bdc429a85b9783df2cd5af1f5a85ad399f7c92ea25f098bd5514f11c4.gz"
+  },
+  {
+    "url": "https://api.github.com/repos/open-webui/open-webui/releases?per_page=30&page=2",
+    "response_url": "https://api.github.com/repos/open-webui/open-webui/releases?per_page=30&page=2",
+    "status": 200,
+    "acquired_at": "2026-11-06T13:13:47Z",
+    "sha256": "f8b5acec75565b19f832ae0c8779ea5646b4c7a1caef4fa9f2a025fcf4a00e9e",
+    "file": "0db7c7576bd2b766d2ee30b43b31a5e295b13aed08c7f30a3d43a05da0e5156f.gz"
+  },
+  {
+    "url": "https://api.github.com/repos/open-webui/open-webui/releases?per_page=30&page=3",
+    "response_url": "https://api.github.com/repos/open-webui/open-webui/releases?per_page=30&page=3",
+    "status": 200,
+    "acquired_at": "2026-11-06T13:13:48Z",
+    "sha256": "bd41eff83ab12e9d6dba6e7631fd4ff1172145fc600fe720b804b63a58e8059e",
+    "file": "d1b0e0f86fe4f62df75c5f6944db269bc499f94983ebdb7a997b5ef2843e9c1e.gz"
+  },
+  {
+    "url": "https://api.github.com/repos/open-webui/open-webui/releases?per_page=30&page=4",
+    "response_url": "https://api.github.com/repos/open-webui/open-webui/releases?per_page=30&page=4",
+    "status": 200,
+    "acquired_at": "2026-11-06T13:13:49Z",
+    "sha256": "04f7b09754e61796d90d2332be4a0914a3b64c1700050b423ba889a470925920",
+    "file": "da9618a03b0501bf2e1487824b03c1efb7706a914076ab9b1b331c52a3ea70b5.gz"
+  },
+  {
+    "url": "https://api.github.com/repos/open-webui/open-webui/releases?per_page=30&page=5",
+    "response_url": "https://api.github.com/repos/open-webui/open-webui/releases?per_page=30&page=5",
+    "status": 200,
+    "acquired_at": "2026-11-06T13:13:50Z",
+    "sha256": "6255416de8ba91872ec3f779149bd90bc0783c4b4a8c12124761c31ded8801c8",
+    "file": "aefd58f4995f33946fc8ac7f78a4e46651d2a020bafc02f3f29760c3b497a2a9.gz"
+  },
+  {
+    "url": "https://api.github.com/repos/open-webui/open-webui/releases?per_page=30&page=6",
+    "response_url": "https://api.github.com/repos/open-webui/open-webui/releases?per_page=30&page=6",
+    "status": 200,
+    "acquired_at": "2026-11-06T13:13:51Z",
+    "sha256": "9ee657a5699611c1474a6afdebce1d2fe0376e8829a3c1e74c00aa1ddb2824ad",
+    "file": "753e4758bdb7175d0f44d43e97c5401f73c4b2add670aebb47204d41c3827362.gz"
+  },
+  {
+    "url": "https://docs.replit.com/sitemap.xml",
+    "response_url": "https://docs.replit.com/sitemap.xml",
+    "status": 200,
+    "acquired_at": "2026-11-06T13:14:59Z",
+    "sha256": "bb7983535679c6ed1d49b6b43da1166782e7f4999b63d57da913e5531d955753",
+    "file": "3b32baaa85bcbcdf74ba096b3675c5fc1e68d6796c6fe65df1ee7d8ec53629a5.gz"
+  },
+  {
+    "url": "https://docs.replit.com/updates/2026/10/09/changelog.md",
+    "response_url": "https://docs.replit.com/updates/2026/10/09/changelog.md",
+    "status": 200,
+    "acquired_at": "2026-11-06T13:14:59Z",
+    "sha256": "7b2f50b8c849067c450a7d767453f86672411bf4bf5dfc762241ea5a51851791",
+    "file": "8e9f51a7ee31ec659e73730ce9d43aee2a4ad825756e62906cd906cac064e4c6.gz"
+  },
+  {
+    "url": "https://docs.replit.com/updates/2026/10/16/changelog.md",
+    "response_url": "https://docs.replit.com/updates/2026/10/16/changelog.md",
+    "status": 200,
+    "acquired_at": "2026-11-06T13:14:59Z",
+    "sha256": "ec4d713ade7ba5e9dc54ef3fab485716e20b2b706e9dfa4cc448d85bd2a614fe",
+    "file": "3128246adb03c14a4820413b84532e5853998a6bd38524a6ba331c0aa215d09b.gz"
+  },
+  {
+    "url": "https://docs.replit.com/updates/2026/10/30/changelog.md",
+    "response_url": "https://docs.replit.com/updates/2026/10/30/changelog.md",
+    "status": 200,
+    "acquired_at": "2026-11-06T13:14:59Z",
+    "sha256": "1a4e649e78c167b1693a027becb8819625973f3bedfd81de9fd394e62e8b8daf",
+    "file": "efb7791fd510defd5c3ca05818b05329aae9088a78af07055e2efa56c7e658ec.gz"
+  },
+  {
+    "url": "https://docs.replit.com/updates/2026/10/23/changelog.md",
+    "response_url": "https://docs.replit.com/updates/2026/10/23/changelog.md",
+    "status": 200,
+    "acquired_at": "2026-11-06T13:14:59Z",
+    "sha256": "04bd22fba58385d12e0c99aab6bab2bd52123f2a30e129813e2d5cc0a168215d",
+    "file": "d4aa08274c3d36f57ac117222dc5b6ddb920d8e3969199059100884d36cc7dc1.gz"
+  },
+  {
+    "url": "https://docs.replit.com/updates/2026/09/25/changelog.md",
+    "response_url": "https://docs.replit.com/updates/2026/09/25/changelog.md",
+    "status": 200,
+    "acquired_at": "2026-11-06T13:14:59Z",
+    "sha256": "79baeacb66b6395688eca98be8f29f4b2c86ac843434fa9d3fa0f38364759d56",
+    "file": "939e753f097313a8f9d59a819c2a19d53980605100d5ebb805f8ffc8598dc934.gz"
+  },
+  {
+    "url": "https://docs.replit.com/updates/2026/10/02/changelog.md",
+    "response_url": "https://docs.replit.com/updates/2026/10/02/changelog.md",
+    "status": 200,
+    "acquired_at": "2026-11-06T13:15:00Z",
+    "sha256": "be50c69093be0fb097b6043198f30a59ae929d8753dd690748e921a1cb8c6b96",
+    "file": "d9d0af7d0535b623a85601402908280f5c999482994a78ff1a9b273e8ee89e13.gz"
+  },
+  {
+    "url": "https://docs.replit.com/updates/2026/09/18/changelog.md",
+    "response_url": "https://docs.replit.com/updates/2026/09/18/changelog.md",
+    "status": 200,
+    "acquired_at": "2026-11-06T13:15:00Z",
+    "sha256": "324a55fd6a3dcf7468a6e62a14e274f7327eb8de8766ebb62fef2a009d9717f4",
+    "file": "f693c434194efb31efe7dd3580cdbaf844f241d3776eb679d4d44591b8a2bf0c.gz"
+  },
+  {
+    "url": "https://docs.replit.com/updates/2026/09/11/changelog.md",
+    "response_url": "https://docs.replit.com/updates/2026/09/11/changelog.md",
+    "status": 200,
+    "acquired_at": "2026-11-06T13:15:00Z",
+    "sha256": "4be291f1c9a590925b9440b055f672ad3219a41d1e79b4a22a845c1f258caadb",
+    "file": "f40166ff60be6bcf96f81c3e1c3c20f741a1a5d4ecac79576c90f86403739126.gz"
+  },
+  {
+    "url": "https://docs.replit.com/updates/2026/08/28/changelog.md",
+    "response_url": "https://docs.replit.com/updates/2026/08/28/changelog.md",
+    "status": 200,
+    "acquired_at": "2026-11-06T13:15:00Z",
+    "sha256": "138b4930701cca8e217ca7a9d80d59943adbc1bf5e244ea9bc96eeee08b3636a",
+    "file": "0b3a0e3c8352a144c8ea3b167238e2b81ef079f900531fb7e2050bb82053c5fc.gz"
+  },
+  {
+    "url": "https://docs.replit.com/updates/2026/08/21/changelog.md",
+    "response_url": "https://docs.replit.com/updates/2026/08/21/changelog.md",
+    "status": 200,
+    "acquired_at": "2026-11-06T13:15:00Z",
+    "sha256": "9d82c9ceb1c0f2d11d1d72905f078ac114987db49f1e33a77f9008c58625f600",
+    "file": "eb609b809fa86f10c392ccb835bfdaf81ddfeb24f87f2a561b388bd66370c0f5.gz"
+  },
+  {
+    "url": "https://docs.replit.com/updates/2026/08/14/changelog.md",
+    "response_url": "https://docs.replit.com/updates/2026/08/14/changelog.md",
+    "status": 200,
+    "acquired_at": "2026-11-06T13:15:00Z",
+    "sha256": "1e5163fe832f7717bd20f80db8e3705ca09b47ca57e60d5a66e18c17d3863dc5",
+    "file": "c8b34a0b5ac8bd98a29fa2afc1d9b12ab0a6d40c530021bbf3ce6e187aea53b9.gz"
+  },
+  {
+    "url": "https://docs.replit.com/updates/2026/09/04/changelog.md",
+    "response_url": "https://docs.replit.com/updates/2026/09/04/changelog.md",
+    "status": 200,
+    "acquired_at": "2026-11-06T13:15:00Z",
+    "sha256": "27cda29c4a8ecf4372b83c3ef9a0468d187f3fbc7e26d984b448fa4210cb5475",
+    "file": "f11b7b486f48b61d920d6fec9c9949366d1e9f3bbf14316cfc9537fc5f122649.gz"
+  },
+  {
+    "url": "https://docs.replit.com/updates/2026/08/07/changelog.md",
+    "response_url": "https://docs.replit.com/updates/2026/08/07/changelog.md",
+    "status": 200,
+    "acquired_at": "2026-11-06T13:15:00Z",
+    "sha256": "d69d39df45b807b08ee0c2bf9369a6d70a16e08d1d04a7a5be2fe8f6a670073d",
+    "file": "e44684b10aca77c99affac38ff8b941c06ea278e592c4787a37ec576e906780d.gz"
+  },
+  {
+    "url": "https://docs.replit.com/updates/2026/07/31/changelog.md",
+    "response_url": "https://docs.replit.com/updates/2026/07/31/changelog.md",
+    "status": 200,
+    "acquired_at": "2026-11-06T13:15:00Z",
+    "sha256": "d3c058cd9eb719faef465cf3ca0d63c3c4f7fa90c48e5b7b9b5caeef6a8d53ed",
+    "file": "e2d312d5532f133ec2ea47c9108d3ac358f0005f0f65beafa2e998244eecc73f.gz"
+  },
+  {
+    "url": "https://docs.replit.com/updates/2026/07/24/changelog.md",
+    "response_url": "https://docs.replit.com/updates/2026/07/24/changelog.md",
+    "status": 200,
+    "acquired_at": "2026-11-06T13:15:00Z",
+    "sha256": "c9e4b31b0f1cca3dd41704964801961bb1b7edc781cec69e4861d26e95dc24b9",
+    "file": "aa396f1aaec85fad939c5df5c110a4a20c295acc24d7861c52d393d2e41b031d.gz"
+  },
+  {
+    "url": "https://docs.replit.com/updates/2026/07/17/changelog.md",
+    "response_url": "https://docs.replit.com/updates/2026/07/17/changelog.md",
+    "status": 200,
+    "acquired_at": "2026-11-06T13:15:00Z",
+    "sha256": "7013cb5e092bf502b46fa15eaa2be9334522d693c90c95612f4bb098ce0f7a0a",
+    "file": "3fbb2a09d2b7d944d484267801915b7f769d64b99c21ff10a9f31b9471182891.gz"
+  },
+  {
+    "url": "https://docs.replit.com/updates/2026/07/10/changelog.md",
+    "response_url": "https://docs.replit.com/updates/2026/07/10/changelog.md",
+    "status": 200,
+    "acquired_at": "2026-11-06T13:15:00Z",
+    "sha256": "2ca6413b33b6763112a4faaa6e188437f5e71424ef4e0e7b2f3a1bf3cb23bf0c",
+    "file": "cfc2f5f2574509150a5a7d2a96891b835f5d9a1a5ad2f1c85836596820c5789a.gz"
+  },
+  {
+    "url": "https://docs.replit.com/updates/2026/06/26/changelog.md",
+    "response_url": "https://docs.replit.com/updates/2026/06/26/changelog.md",
+    "status": 200,
+    "acquired_at": "2026-11-06T13:15:01Z",
+    "sha256": "564f9283db2f13cfb50c3e8ae32f3e05a9ca0d7bc20e159d3eddb42120b6bf56",
+    "file": "5b2f4651583cb418634126b6f2eee28dd23e4afd84c9ec7a8e31ba5f3c5db7bb.gz"
+  },
+  {
+    "url": "https://docs.replit.com/updates/2026/07/03/changelog.md",
+    "response_url": "https://docs.replit.com/updates/2026/07/03/changelog.md",
+    "status": 200,
+    "acquired_at": "2026-11-06T13:15:01Z",
+    "sha256": "36cd16f0c082cde5fdadbfa7bbdb3d1e6cffcf3b0555e5c969554098c72b7f54",
+    "file": "5803c07e0b241fea48ed20fb9fa1e826e6e921ec6252db37f90dbf9286e4668c.gz"
+  },
+  {
+    "url": "https://docs.replit.com/updates/2026/06/19/changelog.md",
+    "response_url": "https://docs.replit.com/updates/2026/06/19/changelog.md",
+    "status": 200,
+    "acquired_at": "2026-11-06T13:15:01Z",
+    "sha256": "dd11d445f04ceecdccf8d0f15b852aadbd337cfa45cfe31e2e0d271570f843a9",
+    "file": "4335b3a7a7fa3d69cc197d682198dbd074311df969196040702c0b31a7027af4.gz"
+  },
+  {
+    "url": "https://docs.replit.com/updates/2026/06/12/changelog.md",
+    "response_url": "https://docs.replit.com/updates/2026/06/12/changelog.md",
+    "status": 200,
+    "acquired_at": "2026-11-06T13:15:01Z",
+    "sha256": "b4d0bba6228caddb0e22fdee627258455dd80fe97fecb8e4e596148f5edeb940",
+    "file": "411d0560940d53b17cbf6e748f1b6973aa054cd65279ec6c95b5a7f063059dd6.gz"
+  },
+  {
+    "url": "https://docs.replit.com/updates/2026/06/05/changelog.md",
+    "response_url": "https://docs.replit.com/updates/2026/06/05/changelog.md",
+    "status": 200,
+    "acquired_at": "2026-11-06T13:15:01Z",
+    "sha256": "efad878eeb6f70909d31608f057a491e45b2965e14db36af603219b4da0bf18e",
+    "file": "2152751edcc297e68160f9f95e6a240cd4485528725e67b6e0de07f020c5e3f7.gz"
+  },
+  {
+    "url": "https://docs.replit.com/updates/2026/05/29/changelog.md",
+    "response_url": "https://docs.replit.com/updates/2026/05/29/changelog.md",
+    "status": 200,
+    "acquired_at": "2026-11-06T13:15:01Z",
+    "sha256": "5ad9d1503f17c3d824ddaa5486eb9fc5cd4776db1ec2d40c223c4346fc31f365",
+    "file": "9389cd334b1f02a0fb1941c6aec4fc1705bb82d2a046a9769e917e703f9a141f.gz"
+  },
+  {
+    "url": "https://docs.replit.com/updates/2026/05/22/changelog.md",
+    "response_url": "https://docs.replit.com/updates/2026/05/22/changelog.md",
+    "status": 200,
+    "acquired_at": "2026-11-06T13:15:01Z",
+    "sha256": "be4c8dfa824cc05f5b69525db74ddfebda3d8a667f4739acf4e3b0c3c6ddde92",
+    "file": "d5d1ae4b3bc93cafb47128f3458e6d5a0c0bc480803fcd96d5a5b659c6e71891.gz"
+  },
+  {
+    "url": "https://docs.replit.com/updates/2026/05/15/changelog.md",
+    "response_url": "https://docs.replit.com/updates/2026/05/15/changelog.md",
+    "status": 200,
+    "acquired_at": "2026-11-06T13:15:01Z",
+    "sha256": "5ff185ee2494e3638e04f1322fd3e4df7c00649acce2091b993fcaa813f2d766",
+    "file": "5e366f648cdd21ab2f8aa8ef26ef97b9b6b2ae89aa7e334fa16766a3b8b61c67.gz"
+  },
+  {
+    "url": "https://docs.replit.com/updates/2026/05/01/changelog.md",
+    "response_url": "https://docs.replit.com/updates/2026/05/01/changelog.md",
+    "status": 200,
+    "acquired_at": "2026-11-06T13:15:01Z",
+    "sha256": "484202d55eff67d929a8d7e3d0944c9df5a1554b76676eb3c78c96ebd184e4c1",
+    "file": "4ff1229558ce48d7d2d688b686457fd64b95b1f0646b01879f6862c3576a667a.gz"
+  },
+  {
+    "url": "https://docs.replit.com/updates/2026/05/08/changelog.md",
+    "response_url": "https://docs.replit.com/updates/2026/05/08/changelog.md",
+    "status": 200,
+    "acquired_at": "2026-11-06T13:15:01Z",
+    "sha256": "77714d3c2551879ae5241738597502f10d415e95b6f810aae24b463b1ba5eb43",
+    "file": "8287cc37861512657fadf811afc02075f73e7d482784f44504ed518b0d5791d4.gz"
+  },
+  {
+    "url": "https://docs.replit.com/updates/2026/04/24/changelog.md",
+    "response_url": "https://docs.replit.com/updates/2026/04/24/changelog.md",
+    "status": 200,
+    "acquired_at": "2026-11-06T13:15:01Z",
+    "sha256": "e16e1088cba68e753de83a5dc263039429bd53da04fb3b34524244bff3bed8f7",
+    "file": "0c18cde1cdbda885de58a6bafe61d5415678301c02e63f3a35d54987a6f095c2.gz"
+  },
+  {
+    "url": "https://docs.replit.com/updates/2026/04/17/changelog.md",
+    "response_url": "https://docs.replit.com/updates/2026/04/17/changelog.md",
+    "status": 200,
+    "acquired_at": "2026-11-06T13:15:01Z",
+    "sha256": "190f2ebe41ea46301ced1a1400459285bd3ff9a03bd28f1eb611c4d6e6ce6c54",
+    "file": "5d7592cd04c564974bc690c8ba687206d13059c10f2926efb38c962e2b94d8cb.gz"
+  },
+  {
+    "url": "https://docs.replit.com/updates/2026/04/10/changelog.md",
+    "response_url": "https://docs.replit.com/updates/2026/04/10/changelog.md",
+    "status": 200,
+    "acquired_at": "2026-11-06T13:15:01Z",
+    "sha256": "27f60b5910231a096d06336fae1c7a9f45b5cb53efe229d7fbcff25f21118f88",
+    "file": "8ef25dc5fefa9edcb621edb69327c04ea5af4094651625640bdce7d45b0f5fde.gz"
+  },
+  {
+    "url": "https://docs.replit.com/updates/2026/03/27/changelog.md",
+    "response_url": "https://docs.replit.com/updates/2026/03/27/changelog.md",
+    "status": 200,
+    "acquired_at": "2026-11-06T13:15:02Z",
+    "sha256": "d105cdd5128e9b60de51db73166ffa9314bc043508ea216db7ccc18fc689d035",
+    "file": "66b38616d95bcb433e709e5cf333b874ff412ecf77b37bab8b58036e8d08cbf4.gz"
+  },
+  {
+    "url": "https://docs.replit.com/updates/2026/04/03/changelog.md",
+    "response_url": "https://docs.replit.com/updates/2026/04/03/changelog.md",
+    "status": 200,
+    "acquired_at": "2026-11-06T13:15:02Z",
+    "sha256": "210cb77aa323e46b54d5ca9f39da91a343816736c153b49972d70ae1184f4a5a",
+    "file": "e7af11cfe085735b7bcf246e25cc6ffbc89cb1ad6a1a6591ec588b1219184ff6.gz"
+  },
+  {
+    "url": "https://docs.replit.com/updates/2026/03/20/changelog.md",
+    "response_url": "https://docs.replit.com/updates/2026/03/20/changelog.md",
+    "status": 200,
+    "acquired_at": "2026-11-06T13:15:02Z",
+    "sha256": "f02511681d3f8cebbed3fdcecabffe4baff07cb1a45241cb5e39ceeea01a53ee",
+    "file": "6dbf517ca923dedab98084d3633284f9fb7a4a8244395cd92bafa58d63f4a7c7.gz"
+  },
+  {
+    "url": "https://docs.replit.com/updates/2026/03/13/changelog.md",
+    "response_url": "https://docs.replit.com/updates/2026/03/13/changelog.md",
+    "status": 200,
+    "acquired_at": "2026-11-06T13:15:02Z",
+    "sha256": "2b17ff823c5417a1e0319c3cbbc32ad6671ad6cd52905f9cea1be7f3c705739c",
+    "file": "2ee2f0c2a2368c7cb6fffbbb8392720decac58a28bc55587d27d003ae52f273d.gz"
+  },
+  {
+    "url": "https://docs.replit.com/updates/2026/03/06/changelog.md",
+    "response_url": "https://docs.replit.com/updates/2026/03/06/changelog.md",
+    "status": 200,
+    "acquired_at": "2026-11-06T13:15:02Z",
+    "sha256": "604da7d909529a1208064d743b00bb48b878df8346d99ec9fbc9c28cec0eeea3",
+    "file": "869eb27bc460174af05520b40c7591fa4466e666a284f34b914aedaf485c6040.gz"
+  },
+  {
+    "url": "https://docs.replit.com/updates/2026/02/27/changelog.md",
+    "response_url": "https://docs.replit.com/updates/2026/02/27/changelog.md",
+    "status": 200,
+    "acquired_at": "2026-11-06T13:15:02Z",
+    "sha256": "ff5445f94bfc916cd97c113fcd0f7e237469f582227c30eb57ba0dc80f4b8894",
+    "file": "0e93295afe083019cbea594dea8bb2f5ff14437dc6ea256ec6f6c6d4569a9226.gz"
+  },
+  {
+    "url": "https://docs.replit.com/updates/2026/02/20/changelog.md",
+    "response_url": "https://docs.replit.com/updates/2026/02/20/changelog.md",
+    "status": 200,
+    "acquired_at": "2026-11-06T13:15:02Z",
+    "sha256": "74523b395c91b806fbf6303ebb110aec5d0c59639afe9e1fcce4dc1011a40b62",
+    "file": "8ac1b32c8432767cee9a5ea0956d144b3b9759679ba2606d466562348fe69bd8.gz"
+  },
+  {
+    "url": "https://docs.replit.com/updates/2026/02/13/changelog.md",
+    "response_url": "https://docs.replit.com/updates/2026/02/13/changelog.md",
+    "status": 200,
+    "acquired_at": "2026-11-06T13:15:02Z",
+    "sha256": "5bba5a01ed8c905aecff1d26d2503205bd6dba9a9ac93c1fa4b259bc40c4b65c",
+    "file": "c19bdc51083bde006185a77c0a0fb14073269ee06f8f1ceb98d3804249aa7c02.gz"
+  },
+  {
+    "url": "https://docs.replit.com/updates/2026/02/06/changelog.md",
+    "response_url": "https://docs.replit.com/updates/2026/02/06/changelog.md",
+    "status": 200,
+    "acquired_at": "2026-11-06T13:15:02Z",
+    "sha256": "38fde0a00622ffc24bbe3a39be322437c85c00af4b7ef18b64cbed763c16beef",
+    "file": "2391d5e8dc951285b24d0b0dc93020e4b14398e98722c39aa640a767efa346f0.gz"
+  },
+  {
+    "url": "https://docs.replit.com/updates/2026/01/30/changelog.md",
+    "response_url": "https://docs.replit.com/updates/2026/01/30/changelog.md",
+    "status": 200,
+    "acquired_at": "2026-11-06T13:15:02Z",
+    "sha256": "86ad4c81e081b8f2ce22e8e8a7dd0bced70cf90f96811bcb1327b1ca7fcc610f",
+    "file": "a7ebbb915f863542429782b03d553898859b455b5aa58df7d0cb4ffe70a22192.gz"
+  },
+  {
+    "url": "https://docs.replit.com/updates/2026/01/16/changelog.md",
+    "response_url": "https://docs.replit.com/updates/2026/01/16/changelog.md",
+    "status": 200,
+    "acquired_at": "2026-11-06T13:15:02Z",
+    "sha256": "d6b8d111c81ec80ed3ff7aa179c9c33f230a622e00c872fef1b334fc1466e8ff",
+    "file": "f443db1d47cf215756a6403d814e9cddf12c96191602eb618e019ed3dc15ee95.gz"
+  },
+  {
+    "url": "https://docs.replit.com/updates/2026/01/23/changelog.md",
+    "response_url": "https://docs.replit.com/updates/2026/01/23/changelog.md",
+    "status": 200,
+    "acquired_at": "2026-11-06T13:15:02Z",
+    "sha256": "6bd8f97dc1fa80953d609f026c275f2bc423f4091f6e1bfa0463bec3c708132d",
+    "file": "c9b5c2b89f1d11a903c557595a7e478d85b75bf4c5beb1744efb046b57da5a10.gz"
+  },
+  {
+    "url": "https://docs.replit.com/updates/2026/01/09/changelog.md",
+    "response_url": "https://docs.replit.com/updates/2026/01/09/changelog.md",
+    "status": 200,
+    "acquired_at": "2026-11-06T13:15:02Z",
+    "sha256": "b71200204fe742586e1a5fcd270657bad3aa4725483ce970303838c815e0d669",
+    "file": "b73e1e423f61cbc9e3dfece1f1d15ecc0b1e898945e7039e4da9ef021da82ae8.gz"
+  },
+  {
+    "url": "https://docs.replit.com/updates/2026/01/02/changelog.md",
+    "response_url": "https://docs.replit.com/updates/2026/01/02/changelog.md",
+    "status": 200,
+    "acquired_at": "2026-11-06T13:15:02Z",
+    "sha256": "65d930642cdfca2874bc88ca86a49365272e25cf57e9508d4c139ee01fbe08c4",
+    "file": "e36b6ce63b1c00f0f74ff0789dc99d551c17b46723ec7de80d3645d09457bf51.gz"
+  },
+  {
+    "url": "https://docs.replit.com/updates/2025/12/26/changelog.md",
+    "response_url": "https://docs.replit.com/updates/2025/12/26/changelog.md",
+    "status": 200,
+    "acquired_at": "2026-11-06T13:15:03Z",
+    "sha256": "2432d978c48a6a625f1ff94748ae25891d8dad6028a48322143e2acbe54e557d",
+    "file": "f0cd839f417f0c02cc887dffbd01bd2f0516a9ab0d5bb8da6ae2ac4796eef6d9.gz"
+  },
+  {
+    "url": "https://docs.replit.com/updates/2025/12/19/changelog.md",
+    "response_url": "https://docs.replit.com/updates/2025/12/19/changelog.md",
+    "status": 200,
+    "acquired_at": "2026-11-06T13:15:03Z",
+    "sha256": "cc2312ca66be40ba5b6a6bfb54ce7bf6109b30addb0923756f37f26af9ec996e",
+    "file": "50e2c6c9c35ab6505de6181ff6817a112dc53cf49ee7496b43b558c3a82af6e4.gz"
+  },
+  {
+    "url": "https://docs.replit.com/updates/2025/12/12/changelog.md",
+    "response_url": "https://docs.replit.com/updates/2025/12/12/changelog.md",
+    "status": 200,
+    "acquired_at": "2026-11-06T13:15:03Z",
+    "sha256": "f6e4f822cac70dfba9e22a2378b6b3a9789b5e2986e769c4a3bd3f5f422480f2",
+    "file": "031308be3e2df63baca76e1ccb9e2eefcd6c3715a30d28045288b07996f9e529.gz"
+  },
+  {
+    "url": "https://docs.replit.com/updates/2025/12/05/changelog.md",
+    "response_url": "https://docs.replit.com/updates/2025/12/05/changelog.md",
+    "status": 200,
+    "acquired_at": "2026-11-06T13:15:03Z",
+    "sha256": "ff2696e38e3b914888455c147d7d10dd434e2555c44eb2313875d059bdedf5b0",
+    "file": "f32aee5e4378e739677f7c4362087124555890018e548f26316c3b26e6b57e17.gz"
+  },
+  {
+    "url": "https://docs.replit.com/updates/2025/11/26/changelog.md",
+    "response_url": "https://docs.replit.com/updates/2025/11/26/changelog.md",
+    "status": 200,
+    "acquired_at": "2026-11-06T13:15:03Z",
+    "sha256": "fc7d899a4b51b3a54fd79e5e0db8302d3ac7933999f70b4a02931751930d15a4",
+    "file": "cf84d92b10809849363b3924fb1072d4eeee55c73cb73cd458a4a30c237daa35.gz"
+  },
+  {
+    "url": "https://docs.replit.com/updates/2025/10/31/changelog.md",
+    "response_url": "https://docs.replit.com/updates/2025/10/31/changelog.md",
+    "status": 200,
+    "acquired_at": "2026-11-06T13:15:03Z",
+    "sha256": "864d5640f378df961a3d472e765d7843db69374d435d7fa7181bee7f18d55072",
+    "file": "f2746ecb6ede665660a79b4d362721e5183b24e5ec7c157f3a1a3a79ccdd256a.gz"
+  },
+  {
+    "url": "https://docs.replit.com/updates/2025/11/07/changelog.md",
+    "response_url": "https://docs.replit.com/updates/2025/11/07/changelog.md",
+    "status": 200,
+    "acquired_at": "2026-11-06T13:15:03Z",
+    "sha256": "117709650763e22f2749ea36a98dc59a1ddce2b9f5e8fe330b2aab36de3eeae3",
+    "file": "c0101eebd46fe31bb32a8a0dcb4cece67c93a9247d26e4dac785e4e316c6b70a.gz"
+  },
+  {
+    "url": "https://docs.replit.com/updates/2025/11/16/changelog.md",
+    "response_url": "https://docs.replit.com/updates/2025/11/16/changelog.md",
+    "status": 200,
+    "acquired_at": "2026-11-06T13:15:03Z",
+    "sha256": "23979cd84bbed61e52da87168b06a27ef4801b8b298d60b125af83f26146ddcf",
+    "file": "6d40b8d9fecd6b6615621245998d64ca9287890b4210d99002fcd256c2d83367.gz"
+  },
+  {
+    "url": "https://docs.replit.com/updates/2025/11/21/changelog.md",
+    "response_url": "https://docs.replit.com/updates/2025/11/21/changelog.md",
+    "status": 200,
+    "acquired_at": "2026-11-06T13:15:03Z",
+    "sha256": "d0ebc3c59b4ff248bc8043bdda9db617abdbd4d035cc3a48fcde170bbed6749e",
+    "file": "dc3bc42c675ddf3116074642e92759697295017f81248dbfd8c5155db916ab2e.gz"
+  },
+  {
+    "url": "https://docs.replit.com/updates/2025/10/03/changelog.md",
+    "response_url": "https://docs.replit.com/updates/2025/10/03/changelog.md",
+    "status": 200,
+    "acquired_at": "2026-11-06T13:15:04Z",
+    "sha256": "0971a0b1ff409091f76ca0a574a4029c7fbd1137fb79b05f8cc527637b7e85c7",
+    "file": "efdf5a715854515d1b45b031fe6416a9cdd43a55d679544aff85a7512a8edc11.gz"
+  },
+  {
+    "url": "https://docs.replit.com/updates/2025/10/24/changelog.md",
+    "response_url": "https://docs.replit.com/updates/2025/10/24/changelog.md",
+    "status": 200,
+    "acquired_at": "2026-11-06T13:15:04Z",
+    "sha256": "b3435f32f9a65d2fa056e4501011ecd21619756d10ce6eea6680c10ebcff890e",
+    "file": "b6ab555912834a7c7904bc42a676a84f94ca86cb231d0e6a2aa2d1351010b4eb.gz"
+  },
+  {
+    "url": "https://docs.replit.com/updates/2025/10/10/changelog.md",
+    "response_url": "https://docs.replit.com/updates/2025/10/10/changelog.md",
+    "status": 200,
+    "acquired_at": "2026-11-06T13:15:04Z",
+    "sha256": "c04cd94179027f29bc2fac3f9e517c7a264a20a0c20e07062fa675170b35f9e7",
+    "file": "0dd58470d48b07a10b1d98b57620957969bb6945af86a0004d57322a01f86c56.gz"
+  },
+  {
+    "url": "https://docs.replit.com/updates/2025/10/17/changelog.md",
+    "response_url": "https://docs.replit.com/updates/2025/10/17/changelog.md",
+    "status": 200,
+    "acquired_at": "2026-11-06T13:15:04Z",
+    "sha256": "ebc1d6848c6c62b49bb99cb1badfe0e30c28c944f531983028cf2e76c5161439",
+    "file": "503f70b3427559350fa7f3e6b1966e35ce50e95bdf762eb2d18a1f7fd5f477d9.gz"
+  },
+  {
+    "url": "https://docs.replit.com/updates/2025/09/26/changelog.md",
+    "response_url": "https://docs.replit.com/updates/2025/09/26/changelog.md",
+    "status": 200,
+    "acquired_at": "2026-11-06T13:15:04Z",
+    "sha256": "cadba276fc2132464c47fc6a9fcd2d2233653a1d40ceecf489925b5bdb32bb86",
+    "file": "b564ce7c31da4c5b52f43aec0e3e14989785bc7001d240223deb687c95130c58.gz"
+  },
+  {
+    "url": "https://docs.replit.com/updates/2025/09/19/changelog.md",
+    "response_url": "https://docs.replit.com/updates/2025/09/19/changelog.md",
+    "status": 200,
+    "acquired_at": "2026-11-06T13:15:04Z",
+    "sha256": "d176c300eca5ae4c27dcea16fedf62fe36a185c3c2e23606fc1358367d2ec28e",
+    "file": "ea620c971649e8ad0e8f126b8bc86a71165f97649597240c396274e2b027db1d.gz"
+  },
+  {
+    "url": "https://docs.replit.com/updates/2025/09/05/changelog.md",
+    "response_url": "https://docs.replit.com/updates/2025/09/05/changelog.md",
+    "status": 200,
+    "acquired_at": "2026-11-06T13:15:04Z",
+    "sha256": "926ed0916c3d024d3e630c8c0574ca0868e4bedb1da048277f52bf6f84248c30",
+    "file": "64e2d02b40d4ffafac48a8b7889b0bb7c4758c7dd95cadf76777e0aadc03fa98.gz"
+  },
+  {
+    "url": "https://docs.replit.com/updates/2025/09/12/changelog.md",
+    "response_url": "https://docs.replit.com/updates/2025/09/12/changelog.md",
+    "status": 200,
+    "acquired_at": "2026-11-06T13:15:04Z",
+    "sha256": "6cee73ce0829f3d305102e7fb68bc31ce3f551690d75a2841544022cf62499ea",
+    "file": "ea1476175b6ff2a3e2b76dc5ea8c4c56bff76ee6a93bad5c17afbc346d2c32fc.gz"
+  },
+  {
+    "url": "https://docs.replit.com/updates/2025/08/29/changelog.md",
+    "response_url": "https://docs.replit.com/updates/2025/08/29/changelog.md",
+    "status": 200,
+    "acquired_at": "2026-11-06T13:15:04Z",
+    "sha256": "5a4d062771c70b0f0a0144df7c7fad3fc8fad709d95d6f732debe6f31a868820",
+    "file": "e251a15fec8fd4399763b298d38c49389e7f6aad8c110f4de8e4523c57cef8f7.gz"
+  },
+  {
+    "url": "https://docs.replit.com/updates/2025/08/22/changelog.md",
+    "response_url": "https://docs.replit.com/updates/2025/08/22/changelog.md",
+    "status": 200,
+    "acquired_at": "2026-11-06T13:15:04Z",
+    "sha256": "a827e24d0d376eac41fadc9a0bf7319c8f8162597f46b7d1cc2faad5cf36b4a3",
+    "file": "aee450c603d1bd6896583dbb656f16dae3a60874a26e5c5ecd21e2d41ee9fab7.gz"
+  },
+  {
+    "url": "https://docs.replit.com/updates/2025/08/08/changelog.md",
+    "response_url": "https://docs.replit.com/updates/2025/08/08/changelog.md",
+    "status": 200,
+    "acquired_at": "2026-11-06T13:15:05Z",
+    "sha256": "100df2bcc27e3d409c8e36201ff3c10378f0b39b06d9cf0920c0059156bd3a26",
+    "file": "027522842cf3d811700c312d56ffde139ca9f950c8a5a49afb6406b26e264372.gz"
+  },
+  {
+    "url": "https://docs.replit.com/updates/2025/07/25/changelog.md",
+    "response_url": "https://docs.replit.com/updates/2025/07/25/changelog.md",
+    "status": 200,
+    "acquired_at": "2026-11-06T13:15:05Z",
+    "sha256": "479e1c68e6f6ac5ddba3e603792aedc912d8e43b5de3e6425e06945752a32cd2",
+    "file": "f047d8c26bf8392b6603ed05ffeaf9929328f464c528d67f161775e9c3c435b8.gz"
+  },
+  {
+    "url": "https://docs.replit.com/updates/2025/08/15/changelog.md",
+    "response_url": "https://docs.replit.com/updates/2025/08/15/changelog.md",
+    "status": 200,
+    "acquired_at": "2026-11-06T13:15:05Z",
+    "sha256": "01fef4f5dcd84c6bd3112ab06f79faac203df9d91c9e358cc79215ee2b2c40e9",
+    "file": "b04c3c4e9b20847c4ac1ca1d57f7b66c0f09b86b17bab26d76f6314ab7f97e78.gz"
+  },
+  {
+    "url": "https://docs.replit.com/updates/2025/08/01/changelog.md",
+    "response_url": "https://docs.replit.com/updates/2025/08/01/changelog.md",
+    "status": 200,
+    "acquired_at": "2026-11-06T13:15:05Z",
+    "sha256": "89d4dbc89a1ce82461c60d883d52ec1f9a103c3b5cec1a156046ad22af0b13f2",
+    "file": "8c88ad255785bb1a7f0489726d0c6b3a03e2182fded878ae37fbd45ebd3535d7.gz"
+  },
+  {
+    "url": "https://docs.replit.com/updates/2025/06/27/changelog.md",
+    "response_url": "https://docs.replit.com/updates/2025/06/27/changelog.md",
+    "status": 200,
+    "acquired_at": "2026-11-06T13:15:05Z",
+    "sha256": "84011a179395aca5f091c2dee6771d8f0b69e49648e72eeb23316ad6fe354e70",
+    "file": "b919533cf5df3d3645000e21436af4620951fc26206b47be1474787dd1c66df4.gz"
+  },
+  {
+    "url": "https://docs.replit.com/updates/2025/07/04/changelog.md",
+    "response_url": "https://docs.replit.com/updates/2025/07/04/changelog.md",
+    "status": 200,
+    "acquired_at": "2026-11-06T13:15:05Z",
+    "sha256": "2cd4c16af21d4a740cda7afdd03a75bbe247ce5c64298af6bd1e8a804bac514a",
+    "file": "6525eaf3fb7e542c00f7c3b5c8d441f1bc05ea330b41f77fb18d889971ef29b7.gz"
+  },
+  {
+    "url": "https://docs.replit.com/updates/2025/07/18/changelog.md",
+    "response_url": "https://docs.replit.com/updates/2025/07/18/changelog.md",
+    "status": 200,
+    "acquired_at": "2026-11-06T13:15:05Z",
+    "sha256": "fd9264392c394276f3721001fd33b113fa7f8169814f5b5fcd4f6a16ebcb6c06",
+    "file": "812038df7a2914cb3f8961297c6da43fefc03c645b37f1ae70e14eb3f122e998.gz"
+  },
+  {
+    "url": "https://docs.replit.com/updates/2025/07/11/changelog.md",
+    "response_url": "https://docs.replit.com/updates/2025/07/11/changelog.md",
+    "status": 200,
+    "acquired_at": "2026-11-06T13:15:06Z",
+    "sha256": "c80c64b22965fcee913f37e0b0c1550f4ba1ed03c71108c1910ed1fbfb916622",
+    "file": "4f0bf89dc24f9510dc4a187764ab6277fa39a64b4659b0e9a1fc8831a33dc5c6.gz"
+  },
+  {
+    "url": "https://docs.replit.com/updates/2025/06/13/changelog.md",
+    "response_url": "https://docs.replit.com/updates/2025/06/13/changelog.md",
+    "status": 200,
+    "acquired_at": "2026-11-06T13:15:06Z",
+    "sha256": "eeac7501c3b474cc9d6926a1e30b2da7dac0f3de2553db869806ea371e633cf0",
+    "file": "07082d7b13bcc750a49c7427ead91a6da4e4a6caad76d2cead73c84f62452912.gz"
+  },
+  {
+    "url": "https://docs.replit.com/updates/2025/06/20/changelog.md",
+    "response_url": "https://docs.replit.com/updates/2025/06/20/changelog.md",
+    "status": 200,
+    "acquired_at": "2026-11-06T13:15:06Z",
+    "sha256": "cdab57665a1aa5ae6b09ab78617354a49dde43043ef24da1a966fe15efeadb26",
+    "file": "80b007e1467a967772a66796c7376387b0288a05575a74147edd2609b9e6c252.gz"
+  },
+  {
+    "url": "https://docs.replit.com/updates/2025/05/30/changelog.md",
+    "response_url": "https://docs.replit.com/updates/2025/05/30/changelog.md",
+    "status": 200,
+    "acquired_at": "2026-11-06T13:15:06Z",
+    "sha256": "76d2aee8e288c69309265581fb469cca37c882e52bd489676459326418136797",
+    "file": "237a2c2439492c25def63883f5bef988965073fb24553c3aa7bfdbd1765a0c25.gz"
+  },
+  {
+    "url": "https://docs.replit.com/updates/2025/06/06/changelog.md",
+    "response_url": "https://docs.replit.com/updates/2025/06/06/changelog.md",
+    "status": 200,
+    "acquired_at": "2026-11-06T13:15:06Z",
+    "sha256": "17b6d9de72e04250dd99900ace2dfcdb3f555bebc22228362a2a8ff459aaa756",
+    "file": "2608b890a0eeece68f7a7b5cd2a3d135cf64142cceeca8e63a53363cbbcc1864.gz"
+  },
+  {
+    "url": "https://docs.replit.com/updates/2025/05/23/changelog.md",
+    "response_url": "https://docs.replit.com/updates/2025/05/23/changelog.md",
+    "status": 200,
+    "acquired_at": "2026-11-06T13:15:06Z",
+    "sha256": "55349eb91f1739f59c55d4b18b1faf7027528baa2e1971a2780b96463a299ea0",
+    "file": "a99dd98a616af757fceaae2bbcfba11504fb75971fd2b4bbd0a42badc7fc4534.gz"
+  },
+  {
+    "url": "https://docs.replit.com/updates/2025/05/16/changelog.md",
+    "response_url": "https://docs.replit.com/updates/2025/05/16/changelog.md",
+    "status": 200,
+    "acquired_at": "2026-11-06T13:15:06Z",
+    "sha256": "934038bc1bfab15691a77a684feca25f8ddc0e201f7f1e985c5019a1d8e31344",
+    "file": "fa2a970eec5ac7253f5140ddca67f6555ff8abcff4dbacc4d4712495cde91196.gz"
+  },
+  {
+    "url": "https://docs.replit.com/updates/2025/05/09/changelog.md",
+    "response_url": "https://docs.replit.com/updates/2025/05/09/changelog.md",
+    "status": 200,
+    "acquired_at": "2026-11-06T13:15:06Z",
+    "sha256": "0b4280f8a5b12dbfa1e6b45fb01846ece47b32abfc719cb597840ee996447ac8",
+    "file": "9ce85fc5c52bbcd2139adeee8b96348bce85f130ddffbfa81cc160a26016b30f.gz"
+  },
+  {
+    "url": "https://docs.replit.com/updates/2025/05/02/changelog.md",
+    "response_url": "https://docs.replit.com/updates/2025/05/02/changelog.md",
+    "status": 200,
+    "acquired_at": "2026-11-06T13:15:06Z",
+    "sha256": "b899a544a29c683b881ec01455f60a5fb72cd3b28a9a60bead72d98c146690be",
+    "file": "e6c91b8b3f388bb9fbf5fff5462d6c53e9ce6a6d32559f9b55d52b701658b007.gz"
+  },
+  {
+    "url": "https://docs.replit.com/updates/2025/04/25/changelog.md",
+    "response_url": "https://docs.replit.com/updates/2025/04/25/changelog.md",
+    "status": 200,
+    "acquired_at": "2026-11-06T13:15:07Z",
+    "sha256": "e9e453bef3e3e7c277396e4eb653751a1251443ac6a30d7635c9fd4846e92285",
+    "file": "e08a6bd65088dbe82d112668ade38909aa7a6702913b14353193f10267b49ab6.gz"
+  },
+  {
+    "url": "https://docs.replit.com/updates/2025/04/11/changelog.md",
+    "response_url": "https://docs.replit.com/updates/2025/04/11/changelog.md",
+    "status": 200,
+    "acquired_at": "2026-11-06T13:15:07Z",
+    "sha256": "5c7bfaf1c090f7504a19a8332a594a0bf4117a73a720c2ceead3bd833f7c173d",
+    "file": "4085e4bb7eb0ca143e114b9ca0001261cdedbe657a05562fb840cfd15a23d53c.gz"
+  },
+  {
+    "url": "https://docs.replit.com/updates/2025/03/28/changelog.md",
+    "response_url": "https://docs.replit.com/updates/2025/03/28/changelog.md",
+    "status": 200,
+    "acquired_at": "2026-11-06T13:15:07Z",
+    "sha256": "ebb5ff334de95c2ba113231b57fb6cbf2474500d4364b6303fa42a7548374f98",
+    "file": "af843f1b817a8b7cc996d2fee0806c8f2f7594c9c173d5c05e4f99177fb17374.gz"
+  },
+  {
+    "url": "https://docs.replit.com/updates/2025/04/18/changelog.md",
+    "response_url": "https://docs.replit.com/updates/2025/04/18/changelog.md",
+    "status": 200,
+    "acquired_at": "2026-11-06T13:15:07Z",
+    "sha256": "b132fc9918495cde2fc431635355a63578671c12ef4311da9863a89a092966cb",
+    "file": "9d150dbdeb8d297da6df990d01ffaed1f6e3034ef02ab01df27e970562536df4.gz"
+  },
+  {
+    "url": "https://docs.replit.com/updates/2025/04/04/changelog.md",
+    "response_url": "https://docs.replit.com/updates/2025/04/04/changelog.md",
+    "status": 200,
+    "acquired_at": "2026-11-06T13:15:07Z",
+    "sha256": "8b2088583b8ba314c6a55bf83e72627fde2e6bd9b0ea505d5322643fad258c9e",
+    "file": "14f1f4b88e87cb16ee360946cec71c6f06c093d753261d70c3cea9d78b1bbd4b.gz"
+  },
+  {
+    "url": "https://docs.replit.com/updates/2025/03/07/changelog.md",
+    "response_url": "https://docs.replit.com/updates/2025/03/07/changelog.md",
+    "status": 200,
+    "acquired_at": "2026-11-06T13:15:07Z",
+    "sha256": "cdb1c75e3a8fd37d0118d191c60d30e0f5366976588c250916843eb0142ebce4",
+    "file": "e10cb071b2672b44f397524474e11045018d2781440a4ab95618dc9f29ba35f0.gz"
+  },
+  {
+    "url": "https://docs.replit.com/updates/2025/03/21/changelog.md",
+    "response_url": "https://docs.replit.com/updates/2025/03/21/changelog.md",
+    "status": 200,
+    "acquired_at": "2026-11-06T13:15:07Z",
+    "sha256": "d4defa9898f4051dc9b46debd9a5a9f5aa2d5fe55a2bed0b142be0e68e1145c1",
+    "file": "b31a77c4cc07db111e83d150067947638c5335da2565bd5a5a7a128f1f1e4d14.gz"
+  },
+  {
+    "url": "https://docs.replit.com/updates/2025/03/14/changelog.md",
+    "response_url": "https://docs.replit.com/updates/2025/03/14/changelog.md",
+    "status": 200,
+    "acquired_at": "2026-11-06T13:15:07Z",
+    "sha256": "f4f602d872228a7ccbb0ea9d682ee123496200d42ec268ed46c5867df5ff80e7",
+    "file": "373c187fb4e014dee7ff0ec78bd4fc2dad35937f11f38c792ade4a56c3d9218e.gz"
+  },
+  {
+    "url": "https://docs.replit.com/updates/2025/02/28/changelog.md",
+    "response_url": "https://docs.replit.com/updates/2025/02/28/changelog.md",
+    "status": 200,
+    "acquired_at": "2026-11-06T13:15:07Z",
+    "sha256": "bca01f403b9abe43df78c26a111a483509e28a9d718b1f25a8bb4870f3fa6ced",
+    "file": "686336d872c7d92353b5b2bc478cb1231d0d6b6d3e2b34d7ba910faaf81e36a9.gz"
+  },
+  {
+    "url": "https://docs.replit.com/updates/2025/01/31/changelog.md",
+    "response_url": "https://docs.replit.com/updates/2025/01/31/changelog.md",
+    "status": 200,
+    "acquired_at": "2026-11-06T13:15:08Z",
+    "sha256": "c5159eb262dcef2f0b900e1027d3fe44c2a1e597cfdd0aba58457b4677e5349b",
+    "file": "965eceb867d45d16feae13ff59eef00bb0a1415031557f71a49886222ff742e0.gz"
+  },
+  {
+    "url": "https://docs.replit.com/updates/2025/02/21/changelog.md",
+    "response_url": "https://docs.replit.com/updates/2025/02/21/changelog.md",
+    "status": 200,
+    "acquired_at": "2026-11-06T13:15:08Z",
+    "sha256": "1add32a450a2ad56f7be43b23dd322ef5dee6bab8a3e05723d56be30698d79ba",
+    "file": "a71fc4bcfb69f8de6ba3eae7d8544cf2069daa35e288fb3549226cc53e4e8a1f.gz"
+  },
+  {
+    "url": "https://docs.replit.com/updates/2025/02/14/changelog.md",
+    "response_url": "https://docs.replit.com/updates/2025/02/14/changelog.md",
+    "status": 200,
+    "acquired_at": "2026-11-06T13:15:08Z",
+    "sha256": "145aa8b8c800ab31c8a296bd82879e8baacf0b7f60a054cc61e35197df0725f5",
+    "file": "1ee639f1a74a4eed5c8fcc7d8eef9dc76cda225f6e3772f705a75653f4c8a639.gz"
+  },
+  {
+    "url": "https://docs.replit.com/updates/2025/02/07/changelog.md",
+    "response_url": "https://docs.replit.com/updates/2025/02/07/changelog.md",
+    "status": 200,
+    "acquired_at": "2026-11-06T13:15:08Z",
+    "sha256": "50808edd5de3fc74c5f561f90aea00356856ebab3208ce1793c3f662338dd1bd",
+    "file": "c84c974079fa33dc457eabd3ff267b6fc036725724f6e088e6fd7f2858eb0d5a.gz"
+  },
+  {
+    "url": "https://docs.replit.com/updates/2025/01/03/changelog.md",
+    "response_url": "https://docs.replit.com/updates/2025/01/03/changelog.md",
+    "status": 200,
+    "acquired_at": "2026-11-06T13:15:08Z",
+    "sha256": "cc9081182292603d0d6ade4bdb47c0def59fdd8e4ce52c0d435e9bdde52cf37a",
+    "file": "e47f0d3459132dfac4a7d314547a345ac0c85d56bf90b5f193af67bd0ae8eebc.gz"
+  },
+  {
+    "url": "https://docs.replit.com/updates/2025/01/24/changelog.md",
+    "response_url": "https://docs.replit.com/updates/2025/01/24/changelog.md",
+    "status": 200,
+    "acquired_at": "2026-11-06T13:15:08Z",
+    "sha256": "1e77770177f8d9f0da2cb270d512258ad03847ec9eb5b704e3a4cd686fb98818",
+    "file": "d390c8ad5d735254f35b3f9071353545b9b27cdbebb53f2cb58a513043c04019.gz"
+  },
+  {
+    "url": "https://docs.replit.com/updates/2025/01/10/changelog.md",
+    "response_url": "https://docs.replit.com/updates/2025/01/10/changelog.md",
+    "status": 200,
+    "acquired_at": "2026-11-06T13:15:08Z",
+    "sha256": "76cb0a08cc78ec8ab6e4c9822c55d44a23c9f9e7472b840cc5e603dc9cdfb5b4",
+    "file": "6a3ad526dd12114552bd163835ba1e10854000118272a0726e04f4fb818d324d.gz"
+  },
+  {
+    "url": "https://docs.replit.com/updates/2025/01/17/changelog.md",
+    "response_url": "https://docs.replit.com/updates/2025/01/17/changelog.md",
+    "status": 200,
+    "acquired_at": "2026-11-06T13:15:08Z",
+    "sha256": "f8e1ec2293761a062c10aaf4d4d319b82e881b0fc784932ea473da52ec1f60bf",
+    "file": "1d5480ae10aefc5047a96976017295f4a76dfeb79d9703e943f3551322a643b3.gz"
+  },
+  {
+    "url": "https://docs.replit.com/updates/2024/12/27/changelog.md",
+    "response_url": "https://docs.replit.com/updates/2024/12/27/changelog.md",
+    "status": 200,
+    "acquired_at": "2026-11-06T13:15:09Z",
+    "sha256": "b28914e4fa7b374bc098032932aa61db2b49e4c7456a22e9830a32bf23da42b7",
+    "file": "21b87c2a3fd9557d9f6a975609b956388bcc65b84f24b273744c7965034e69dd.gz"
+  },
+  {
+    "url": "https://docs.replit.com/updates/2024/12/20/changelog.md",
+    "response_url": "https://docs.replit.com/updates/2024/12/20/changelog.md",
+    "status": 200,
+    "acquired_at": "2026-11-06T13:15:09Z",
+    "sha256": "7388e98c9101915adf06ecf1fe2952d62b46b0087169add8821282aab9bb0380",
+    "file": "ab174dc3c066ece1ecc41231d8eb2a295605d4edca390e523ac2c9ae1dbfe39a.gz"
+  },
+  {
+    "url": "https://docs.replit.com/updates/2024/12/13/changelog.md",
+    "response_url": "https://docs.replit.com/updates/2024/12/13/changelog.md",
+    "status": 200,
+    "acquired_at": "2026-11-06T13:15:09Z",
+    "sha256": "d84f8a5db68803d31740a211fd8f4b9d0948df1b34d0af23a4717d1ce43d0869",
+    "file": "48c0d5c274a7fd8c124612e7f62850788312da6a10bf780398e8ac72ffe96d38.gz"
+  }
+]

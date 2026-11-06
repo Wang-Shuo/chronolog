@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 22a699ca87c338dc8154a2187188b73c8929a8fbb0121bdac5fff483393dca1a
+machine_hash: b703e72ba67a58ae224f529a4c28cbee7e8a3c2ab428b369bd580b426c449296
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -48,10 +48,9 @@ record:
   title: 4 Model Support changes in v0.1.13
   type: change
 related_changes:
-- '[[Changes/Cline/2025-07-15-add-kimi-k2-as-trending-model-by-celestial-vault-in-https-github-com-cline-cline|Add
-  kimi-k2 as trending model]]'
 - '[[Changes/OpenHands/2025-07-16-added-openhands-provider-for-llm-through-openhands-cloud-by-xingyaoww-in-https-g|Added
   OpenHands provider for LLM through OpenHands Cloud]]'
+- '[[Changes/Replit/2025-07-18-llm-routing-improvements|LLM routing improvements]]'
 - '[[Changes/Codex CLI/2025-07-19-as-of-https-github-com-openai-codex-pull-1594-we-now-stream-the-response-from-th|As
   of (source link) we now stream the response…]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2025-07-19-v0-1-13-github-233708271-319aa8dd|gemini-cli-2025-07-19-v0-1-13-github-233708271-319aa8dd]]'
@@ -101,7 +100,7 @@ Source: https://github.com/google-gemini/gemini-cli/releases/tag/v0.1.13
 ## Nearby in Model Support
 
 - Earlier: 2025-07-19 · Codex CLI · [[Changes/Codex CLI/2025-07-19-as-of-https-github-com-openai-codex-pull-1594-we-now-stream-the-response-from-th|As of (source link) we now stream the response…]]
-- Later: 2025-07-22 · Cline · [[Changes/Cline/2025-07-22-separate-plan-act-model-settings-by-celestial-vault-in-https-github-com-cline-cl|Separate plan act model settings]]
+- Later: 2025-07-19 · Open WebUI · [[Changes/Open WebUI/2025-07-19-chat-id-header-forwarding-ollama-and-openai-router-requests-now-include-the-chat|📡 Chat ID Header Forwarding]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

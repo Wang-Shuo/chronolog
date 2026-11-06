@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: 155f6385f602a74f7facffa81c3790eb14ef69de09fe8b87f425c08a4f7bb2db
+machine_hash: aedc0fe7571d299416282cd06952dcecd7347f7f66ce783fcb41b2ad37008823
 product: cursor
 product_name: Cursor
 record:
@@ -53,10 +53,10 @@ record:
   title: Faster starts
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-07-30-diff-scrolls-and-syntax-highlights-large-multi-file-diffs-faster|/diff
-  scrolls and syntax-highlights large multi-file diffs faster]]'
 - '[[Changes/GitHub Copilot CLI/2026-08-03-resuming-a-long-session-is-dramatically-faster-and-far-lighter-on-memory-because|Resuming
   a long session is dramatically faster and far lighter on memory, because…]]'
+- '[[Changes/Ollama/2026-08-04-qwen3-5-is-faster-on-apple-gpus-the-mlx-engine-now-uses-the-model-s-mtp-head-for|Qwen3.5
+  is faster on Apple GPUs]]'
 - '[[Changes/Claude Code/2026-08-10-improved-performance-fewer-event-loop-stalls-on-file-not-found-suggestions-and-a|Improved
   performance: fewer event-loop stalls on file-not-found suggestions…]]'
 source_release: '[[Releases/Cursor/cursor-2026-08-13-cloud-agents-start-3x-faster-with-builds-https-cursor-com-change-f8f503a3|cursor-2026-08-13-cloud-agents-start-3x-faster-with-builds-https-cursor-com-change-f8f503a3]]'

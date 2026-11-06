@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 23c521d2920e1d42093f9133c1aa028849bf12cc6b7a3c5fad97217e3d5eca37
+machine_hash: 7b01ef6bf32134607698363d5e9289a3a5689ccc896ec39e01d61c4c2f904e9c
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -43,8 +43,8 @@ record:
   title: Run `npm install -g @github/copilot@latest` to update!
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2025-10-07-3-editor-experience-changes-in-v0-0-336|3
-  Editor Experience changes in v0.0.336]]'
+- '[[Changes/Open WebUI/2025-10-07-tab-characters-are-now-preserved-when-pasting-code-or-formatted-text-into-the-ch|⌨️
+  Tab characters are now preserved when pasting code or formatted text…]]'
 - '[[Changes/GitHub Copilot CLI/2025-10-08-2-editor-experience-changes-in-v0-0-337|2
   Editor Experience changes in v0.0.337]]'
 - '[[Changes/GitHub Copilot CLI/2025-10-09-2-editor-experience-changes-in-v0-0-338|2
@@ -79,7 +79,7 @@ type: change
 ## Nearby in Editor Experience
 
 - Earlier: 2025-10-09 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2025-10-09-2-editor-experience-changes-in-v0-0-338|2 Editor Experience changes in v0.0.338]]
-- Later: 2025-10-13 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2025-10-13-2-editor-experience-changes-in-v0-0-340|2 Editor Experience changes in v0.0.340]]
+- Later: 2025-10-10 · Replit · [[Changes/Replit/2025-10-10-escape-key-for-visual-select-edit-mode|Escape key for Visual Select/Edit mode]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

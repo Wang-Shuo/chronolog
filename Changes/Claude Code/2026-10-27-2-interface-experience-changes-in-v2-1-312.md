@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 35841fe467df0b4eeaad88167cadd5bbc31b3c781343d819fe7444badb30edcd
+machine_hash: 9fadf9a0367306f16791440c15d075a8f266de1188fa972a5d2dd056abf59bab
 product: claude-code
 product_name: Claude Code
 record:
@@ -44,12 +44,12 @@ record:
   title: 2 Interface Experience changes in v2.1.312
   type: change
 related_changes:
-- '[[Changes/OpenHands/2026-10-23-refactor-sidebar-express-mobile-drawer-duration-in-css-by-enyst-in-https-github|refactor(sidebar):
-  express mobile drawer duration in CSS]]'
-- '[[Changes/Windsurf/2026-10-23-2-interface-experience-changes-in-v3-11-212|2 Interface
-  Experience changes in v3.11.212]]'
+- '[[Changes/Open WebUI/2026-10-25-13-interface-experience-changes-in-v0-12-4|13 Interface
+  Experience changes in v0.12.4]]'
 - '[[Changes/Claude Code/2026-10-26-changed-clicks-on-scrollbar-arrows-and-bars-in-fullscreen-lists-to-act-when-the|Changed
   clicks on scrollbar arrows and bars in fullscreen lists to act…]]'
+- '[[Changes/ElevenLabs/2026-10-26-transcript-downloads-the-dubbing-project-menu-can-download-target-language-trans|Transcript
+  downloads: The dubbing project menu can download target language…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-10-27-v2-1-312-github-425846009-439d063a|claude-code-2026-10-27-v2-1-312-github-425846009-439d063a]]'
 source_type: github_releases
 theme: interface-experience
@@ -88,7 +88,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.312
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-10-26 · Claude Code · [[Changes/Claude Code/2026-10-26-changed-clicks-on-scrollbar-arrows-and-bars-in-fullscreen-lists-to-act-when-the|Changed clicks on scrollbar arrows and bars in fullscreen lists to act…]]
+- Earlier: 2026-10-26 · ElevenLabs · [[Changes/ElevenLabs/2026-10-26-transcript-downloads-the-dubbing-project-menu-can-download-target-language-trans|Transcript downloads: The dubbing project menu can download target language…]]
 - Later: 2026-10-27 · Codex CLI · [[Changes/Codex CLI/2026-10-27-added-a-repository-filter-to-the-session-picker-and-directory-grouping-to-the-ag|Added a repository filter to the session picker and directory grouping to the agent…]]
 <!-- chronolog:end -->
 

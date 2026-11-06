@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 685e27efc8b56f3c8dfd63e3741888246ee99bbe550edc5aaeac6e83b0f4eef7
+machine_hash: 1068ff3bac03bd9ed078eddc86a3a78cbed0fc0c20fb6144bc01f0a60455c279
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -41,10 +41,9 @@ record:
   title: document node limitation for shift+tab
   type: change
 related_changes:
-- '[[Changes/Cline/2026-03-06-hooks-added-a-notification-hook-for-attention-and-completion-boundaries|Hooks:
-  Added a Notification hook for attention and completion boundaries]]'
-- '[[Changes/GitHub Copilot CLI/2026-03-06-to-commemorate-github-copilot-cli-reaching-general-availability-last-week-we-re|To
-  commemorate GitHub Copilot CLI reaching general availability last week, we''re…]]'
+- '[[Changes/ElevenLabs/2026-03-09-elevencreative-studio-cd704d|ElevenCreative Studio]]'
+- '[[Changes/v0/2026-03-09-improved-the-custom-design-system-editor-interface|Improved
+  the Custom Design System editor interface]]'
 - '[[Changes/Claude Code/2026-03-10-vscode-added-vscode-anthropic-claude-code-open-uri-handler-to-open-a-new-claude|VSCode:
   Added vscode://anthropic.claude-code/open URI handler to open a new Claude…]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2026-03-11-v0-33-0-github-295447024-03392937|gemini-cli-2026-03-11-v0-33-0-github-295447024-03392937]]'

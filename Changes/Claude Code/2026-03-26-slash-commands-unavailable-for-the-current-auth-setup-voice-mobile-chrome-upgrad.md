@@ -5,20 +5,20 @@ description: 'Claude Code · 2026-03-26 · Voice and Audio: Slash commands unava
   for the current auth setup (`/voice`, `/mobile`, `/chrome`, `/upgrade`, etc.) are
   now…'
 diffusion:
-  first_in_tracked: '[[Changes/Aider/2023-08-11-voice-to-code-https-aider-chat-docs-voice-html-support-which-allows-you-to-code|Voice-to-code((source
-    link) support, which allows you…]]'
+  first_in_tracked: '[[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2
+    Voice and Audio changes in 0.3.7]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 958
+  lag_days: 990
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 6bafd33f1f9881633bdb91414abc1d70e6ad4a559544cf044f1c478ab9c82ea4
+machine_hash: 4e38f09b5c380780796ca516f94324ca51af5197807461e5e48d5e8a5b40f93a
 product: claude-code
 product_name: Claude Code
 record:
@@ -44,12 +44,11 @@ record:
   title: Slash commands unavailable for the current auth setup…
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-03-16-4-voice-and-audio-changes-in-rust-v0-115-0|4 Voice
-  and Audio changes in rust-v0.115.0]]'
 - '[[Changes/Gemini CLI/2026-03-17-feat-voice-implement-speech-friendly-response-formatter-by-ayush31010-in-https-g|feat(voice):
   implement speech-friendly response formatter]]'
 - '[[Changes/Codex CLI/2026-03-19-2-voice-and-audio-changes-in-rust-v0-116-0|2 Voice
   and Audio changes in rust-v0.116.0]]'
+- '[[Changes/ElevenLabs/2026-03-23-speech-to-text|Speech to Text]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-03-26-v2-1-84-github-301540101-d02104aa|claude-code-2026-03-26-v2-1-84-github-301540101-d02104aa]]'
 source_type: github_releases
 theme: voice
@@ -87,14 +86,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Voice and Audio
 
-- Earlier: 2026-03-19 · Codex CLI · [[Changes/Codex CLI/2026-03-19-2-voice-and-audio-changes-in-rust-v0-116-0|2 Voice and Audio changes in rust-v0.116.0]]
+- Earlier: 2026-03-23 · ElevenLabs · [[Changes/ElevenLabs/2026-03-23-speech-to-text|Speech to Text]]
 - Later: 2026-03-26 · Codex CLI · [[Changes/Codex CLI/2026-03-26-15579-increase-voice-space-hold-timeout-to-1s-aibrahim-oai|♯15579 Increase voice space hold timeout to 1s @aibrahim-oai]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-08-11 · Aider · [[Changes/Aider/2023-08-11-voice-to-code-https-aider-chat-docs-voice-html-support-which-allows-you-to-code|Voice-to-code((source link) support, which allows you…]]
+- Earliest same-theme entry in the tracked set: 2023-07-10 · Dify · [[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2 Voice and Audio changes in 0.3.7]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

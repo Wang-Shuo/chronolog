@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 4cb6255de163fb64002eed116115bec360f9e79a0a1c55c62ce8ab2fc7fdeae0
+machine_hash: 8208579f6be388bc8ca6cece9c06c3db76818c9a8760d7c6b33b8834049dc0e9
 product: aider
 product_name: Aider
 record:
@@ -83,7 +83,7 @@ type: change
 ## Nearby in Interface Experience
 
 - Earlier: 2025-08-06 · Gemini CLI · [[Changes/Gemini CLI/2025-08-06-2-interface-experience-changes-in-v0-1-18|2 Interface Experience changes in v0.1.18]]
-- Later: 2025-08-12 · Gemini CLI · [[Changes/Gemini CLI/2025-08-12-5356-minor-fix-remove-duplicate-binding-and-add-complete-navigation-command-by-l|♯5356 Minor fix: Remove duplicate binding and add complete navigation command]]
+- Later: 2025-08-09 · Open WebUI · [[Changes/Open WebUI/2025-08-09-13-interface-experience-changes-in-v0-6-19|13 Interface Experience changes in v0.6.19]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

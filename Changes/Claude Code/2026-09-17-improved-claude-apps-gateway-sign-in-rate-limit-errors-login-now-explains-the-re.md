@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: policy
-machine_hash: 803b2f6edaddafca39231fe318b732024472858a3afc5efb9cebcc76c8a112ef
+machine_hash: 7ee2553afc3b398b5da6056709d67358ef55458a5bad5c0a8ba2dabc4f4e7084
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,8 +45,8 @@ record:
   title: Improved Claude apps gateway sign-in rate limit errors
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-15-4-account-and-access-changes-in-v2-1-273|4 Account
-  and Access changes in v2.1.273]]'
+- '[[Changes/Ollama/2026-09-15-added-first-run-setup-when-running-ollama-with-options-to-sign-in-or-continue-lo|Added
+  first-run setup when running ollama, with options to sign in or continue locally]]'
 - '[[Changes/GitHub Copilot CLI/2026-09-16-4-account-and-access-changes-in-v1-0-85|4
   Account and Access changes in v1.0.85]]'
 - '[[Changes/OpenHands/2026-09-16-2-account-and-access-changes-in-v1-19-0|2 Account

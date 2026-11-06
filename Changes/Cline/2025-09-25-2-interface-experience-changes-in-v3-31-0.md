@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: f143530508315d07ad927641e21865c8c8aee1cf930715ce1906c92e28867212
+machine_hash: 427904d18b1c24f9daac0baae2b518415cb26effcf168f49fdad2c0fbeb98489
 product: cline
 product_name: Cline
 record:
@@ -42,12 +42,12 @@ record:
   title: 2 Interface Experience changes in v3.31.0
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2025-09-15-5-interface-experience-changes-in-rust-v0-36-0|5
-  Interface Experience changes in rust-v0.36.0]]'
-- '[[Changes/ChatGPT/2025-09-16-formatting-answers-are-better-formatted-for-quick-understanding-without-losing-d|Formatting:
-  Answers are better formatted for quick understanding without losing…]]'
 - '[[Changes/Windsurf/2025-09-16-made-improvements-to-the-sign-up-onboarding-flow|Made
   improvements to the sign up onboarding flow]]'
+- '[[Changes/Open WebUI/2025-09-17-5-interface-experience-changes-in-v0-6-29|5 Interface
+  Experience changes in v0.6.29]]'
+- '[[Changes/Dify/2025-09-22-feat-add-circular-scrolling-to-gotoanything-command-menu-by-lyzno1-in-https-gith|feat:
+  add circular scrolling to GotoAnything command menu]]'
 source_release: '[[Releases/Cline/cline-2025-09-25-v3-31-0-github-249851716-699f2598|cline-2025-09-25-v3-31-0-github-249851716-699f2598]]'
 source_type: github_releases
 theme: interface-experience
@@ -83,8 +83,8 @@ Source: https://github.com/cline/cline/releases/tag/v3.31.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2025-09-16 · Windsurf · [[Changes/Windsurf/2025-09-16-made-improvements-to-the-sign-up-onboarding-flow|Made improvements to the sign up onboarding flow]]
-- Later: 2025-09-26 · Codex CLI · [[Changes/Codex CLI/2025-09-26-4101-hide-the-status-indicator-when-the-answer-stream-starts-4101|♯4101 hide the status indicator when the answer stream starts (♯4101)]]
+- Earlier: 2025-09-22 · Dify · [[Changes/Dify/2025-09-22-feat-add-circular-scrolling-to-gotoanything-command-menu-by-lyzno1-in-https-gith|feat: add circular scrolling to GotoAnything command menu]]
+- Later: 2025-09-25 · Open WebUI · [[Changes/Open WebUI/2025-09-25-4-interface-experience-changes-in-v0-6-31|4 Interface Experience changes in v0.6.31]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

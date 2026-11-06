@@ -4,20 +4,20 @@ date: '2026-02-25'
 description: 'Gemini CLI · 2026-02-25 · Files and Data: feat(plan): document and validate
   Plan Mode policy overrides by @jerop in…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-07-06-we-re-rolling-out-code-interpreter-to-all-chatgpt-plus-users-over-the-next-week-66255e|Code
-    interpreter is now rolling out in beta on web]]'
+  first_in_tracked: '[[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2
+    Files and Data changes in 0.2.2]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 965
+  lag_days: 1007
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: ea0a278af936bbc8e30c54e007e010b041b3abfe4a5e8b97f9615dcb8c011d6c
+machine_hash: 283ecb560aad8a69192e7feb252a3a96851f3f02fbc261e3a05f1c90ff72048d
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -44,12 +44,10 @@ record:
   title: 'feat(plan): document and validate Plan Mode policy overrides'
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-02-04-improved-pdf-and-request-size-error-messages-to-show-actual-limits-100-pages-20m|Improved
-  PDF and request size error messages to show actual limits (100 pages, 20MB)]]'
-- '[[Changes/Codex CLI/2026-02-05-10667-chore-app-server-document-experimental-api-opt-in-owenlin0|♯10667
-  chore(app-server): document experimental API opt-in @owenlin0]]'
-- '[[Changes/ChatGPT/2026-02-13-expanded-file-type-support-we-now-support-additional-text-and-code-file-formats|Expanded
-  file type support]]'
+- '[[Changes/ElevenLabs/2026-02-16-knowledge-base|Knowledge Base]]'
+- '[[Changes/ElevenLabs/2026-02-16-knowledge-base-d4f24c|Knowledge Base]]'
+- '[[Changes/Open WebUI/2026-02-16-long-content-truncation-in-preview-modals-citation-and-file-content-modals-now-t|⚡
+  Long content truncation in preview modals. Citation and file content modals…]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2026-02-25-v0-30-0-github-290144121-620926b3|gemini-cli-2026-02-25-v0-30-0-github-290144121-620926b3]]'
 source_type: github_releases
 theme: file-data
@@ -91,14 +89,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Files and Data
 
-- Earlier: 2026-02-13 · ChatGPT · [[Changes/ChatGPT/2026-02-13-expanded-file-type-support-we-now-support-additional-text-and-code-file-formats|Expanded file type support]]
+- Earlier: 2026-02-16 · Open WebUI · [[Changes/Open WebUI/2026-02-16-long-content-truncation-in-preview-modals-citation-and-file-content-modals-now-t|⚡ Long content truncation in preview modals. Citation and file content modals…]]
 - Later: 2026-02-27 · ChatGPT · [[Changes/ChatGPT/2026-02-27-export-visuals-from-code-blocks-flowcharts-diagrams-and-data-visualizations-crea|Export visuals from Code Blocks]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-07-06 · ChatGPT · [[Changes/ChatGPT/2023-07-06-we-re-rolling-out-code-interpreter-to-all-chatgpt-plus-users-over-the-next-week-66255e|Code interpreter is now rolling out in beta on web]]
+- Earliest same-theme entry in the tracked set: 2023-05-25 · Dify · [[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2 Files and Data changes in 0.2.2]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

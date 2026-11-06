@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: fe3475c80414b9374569f01ec2605af4913a90634d9bd0500aa6120c71fa4f35
+machine_hash: a1fcf831fd94efd828e9d897d06f8253d4df432e7e55eb48cfa1182066225033
 product: claude-code
 product_name: Claude Code
 record:
@@ -48,12 +48,12 @@ record:
   title: 3 Safety and Privacy changes in v2.1.218
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-07-20-4-safety-and-privacy-changes-in-v1-0-72|4
-  Safety and Privacy changes in v1.0.72]]'
 - '[[Changes/Claude Code/2026-07-21-fixed-remote-control-sessions-not-showing-a-pending-permission-prompt-or-dialog|Fixed
   Remote Control sessions not showing a pending permission prompt or dialog…]]'
 - '[[Changes/Codex CLI/2026-07-21-17-safety-and-privacy-changes-in-rust-v0-145-0|17
   Safety and Privacy changes in rust-v0.145.0]]'
+- '[[Changes/v0/2026-07-21-typed-prompts-survive-clarifying-questions-permission-approvals-and-queued-submi|Typed
+  prompts survive clarifying questions, permission approvals, and queued…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-07-22-v2-1-218-github-358276841-57d73db4|claude-code-2026-07-22-v2-1-218-github-358276841-57d73db4]]'
 source_type: github_releases
 theme: safety-privacy
@@ -96,7 +96,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.218
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Safety and Privacy
 
-- Earlier: 2026-07-21 · Codex CLI · [[Changes/Codex CLI/2026-07-21-17-safety-and-privacy-changes-in-rust-v0-145-0|17 Safety and Privacy changes in rust-v0.145.0]]
+- Earlier: 2026-07-21 · v0 · [[Changes/v0/2026-07-21-typed-prompts-survive-clarifying-questions-permission-approvals-and-queued-submi|Typed prompts survive clarifying questions, permission approvals, and queued…]]
 - Later: 2026-07-23 · ChatGPT · [[Changes/ChatGPT/2026-07-23-health-is-built-with-layered-privacy-and-security-safeguards-connected-medical-r|Health is built with layered privacy and security safeguards]]
 <!-- chronolog:end -->
 

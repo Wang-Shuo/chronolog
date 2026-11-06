@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: 908d3b79a608289acad0e4a1ef147672c9057d801903346fa81246f7615395ee
+machine_hash: 0ee1621b02714b70438f308075bd69ff41f4d777c18bf6c80e52e80a478b1f02
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -43,8 +43,7 @@ record:
   title: agentStop hook now fires correctly when the agent stops via task_complete
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-05-07-added-the-ability-to-control-explore-subagent-behavior-from-settings-choose-a-sp|Added
-  the ability to control Explore subagent behavior from settings]]'
+- '[[Changes/Replit/2026-05-08-agent-accepts-svg-uploads|Agent accepts SVG uploads]]'
 - '[[Changes/Claude Code/2026-05-11-2-agent-mode-changes-in-v2-1-139|2 Agent Mode
   changes in v2.1.139]]'
 - '[[Changes/Cursor/2026-05-11-mention-cursor-in-any-teams-channel-to-delegate-a-task-to-a-cloud-agent-or-pull-d30c31|Mention

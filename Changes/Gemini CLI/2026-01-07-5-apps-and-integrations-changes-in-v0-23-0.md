@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: cfd78da49d7818740b57aa2248fc81bd47efd6d51bc787477666c2360cdd3670
+machine_hash: e62a36f417fc316eb250b1da5b67d7bd6b7f287e2b3a3a7f2fef8df458a769b9
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -53,8 +53,7 @@ record:
   title: 5 Apps and Integrations changes in v0.23.0
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-01-02-mcp-server-type-help-text-displays-correct-options|MCP
-  server type help text displays correct options]]'
+- '[[Changes/ElevenLabs/2026-01-05-sdk-releases|SDK Releases]]'
 - '[[Changes/Cline/2026-01-06-exclude-binary-files-without-extensions-from-diffs|Exclude
   binary files without extensions from diffs]]'
 - '[[Changes/Codex CLI/2026-01-06-8694-mcp-sanitize-mcp-tool-names-to-ensure-they-are-compatible-with-the-response|♯8694

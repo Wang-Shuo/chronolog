@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 25dbc4a6770f9e77115cc6d0d091ed982ced754e289106b8ed4a6d1ff8ca9538
+machine_hash: a974399cde613d6b2bb4ba65776a86f5445db89c24bf207e14d7c97c9931e8f3
 product: claude-code
 product_name: Claude Code
 record:
@@ -49,12 +49,11 @@ record:
   title: 3 Context Window changes in v2.1.260
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-08-28-improved-retry-when-the-model-s-tool-call-is-malformed-the-broken-output-is-now|Improved
-  retry when the model''s tool call is malformed]]'
 - '[[Changes/ChatGPT/2026-08-31-bring-your-browser-into-work-and-codex-mention-open-tabs-to-use-them-as-context-af2c3a|Bring
   your browser into Work and Codex]]'
 - '[[Changes/Codex CLI/2026-09-01-9-context-window-changes-in-rust-v0-152-0|9 Context
   Window changes in rust-v0.152.0]]'
+- '[[Changes/Ollama/2026-09-02-report-cached-prompt-tokens|Report cached prompt tokens]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-03-v2-1-260-github-382367470-ac2ba1fc|claude-code-2026-09-03-v2-1-260-github-382367470-ac2ba1fc]]'
 source_type: github_releases
 theme: context-window
@@ -98,7 +97,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.260
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Context Window
 
-- Earlier: 2026-09-01 · Codex CLI · [[Changes/Codex CLI/2026-09-01-9-context-window-changes-in-rust-v0-152-0|9 Context Window changes in rust-v0.152.0]]
+- Earlier: 2026-09-02 · Ollama · [[Changes/Ollama/2026-09-02-report-cached-prompt-tokens|Report cached prompt tokens]]
 - Later: 2026-09-03 · Codex CLI · [[Changes/Codex CLI/2026-09-03-6-context-window-changes-in-rust-v0-153-0|6 Context Window changes in rust-v0.153.0]]
 <!-- chronolog:end -->
 

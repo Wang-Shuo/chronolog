@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 6388805953746c04cd4ba5f2943ad484f4347d1ed2fd2fd5b22c80712c90af28
+machine_hash: 98554670d97aadf023a864b8b8aac51a333ce6bb32586f19f0f6fc85fbbae2f9
 product: windsurf
 product_name: Windsurf
 record:
@@ -52,10 +52,10 @@ record:
   title: MCP Improvements
   type: change
 related_changes:
-- '[[Changes/Cline/2025-11-13-3-apps-and-integrations-changes-in-v3-37-0|3 Apps and
-  Integrations changes in v3.37.0]]'
 - '[[Changes/Codex CLI/2025-11-13-6425-fix-sdk-documentation-replace-file-diffs-with-file-change-notifications-8b8|♯6425
   — Fix SDK documentation]]'
+- '[[Changes/Dify/2025-11-13-7-apps-and-integrations-changes-in-1-10-0|7 Apps and
+  Integrations changes in 1.10.0]]'
 - '[[Changes/Windsurf/2025-11-13-cascade-hooks|Cascade Hooks]]'
 source_release: '[[Releases/Windsurf/windsurf-2025-11-13-v1-12-31-173d695f|windsurf-2025-11-13-v1-12-31-173d695f]]'
 source_type: windsurf_changelog
@@ -94,7 +94,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2025-11-13 · Codex CLI · [[Changes/Codex CLI/2025-11-13-6425-fix-sdk-documentation-replace-file-diffs-with-file-change-notifications-8b8|♯6425 — Fix SDK documentation]]
+- Earlier: 2025-11-13 · Dify · [[Changes/Dify/2025-11-13-7-apps-and-integrations-changes-in-1-10-0|7 Apps and Integrations changes in 1.10.0]]
 - Later: 2025-11-14 · Gemini CLI · [[Changes/Gemini CLI/2025-11-14-3-apps-and-integrations-changes-in-v0-15-0|3 Apps and Integrations changes in v0.15.0]]
 <!-- chronolog:end -->
 

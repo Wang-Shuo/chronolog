@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: a558fefd73b6fde12b6219e23483145e6201da2b51c1f33612456a1faf36c51f
+machine_hash: cc42ad7f8d39153c804fd923cea5862b0be7b03682d99c4773888483cb70274b
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -92,7 +92,7 @@ type: change
 ## Nearby in Interface Experience
 
 - Earlier: 2026-10-06 · OpenHands · [[Changes/OpenHands/2026-10-06-feat-outline-the-back-navigation-control-on-settings-sub-pages-by-errmakov-in-ht|feat: outline the back navigation control on settings sub-pages]]
-- Later: 2026-10-08 · Claude Code · [[Changes/Claude Code/2026-10-08-2-interface-experience-changes-in-v2-1-295|2 Interface Experience changes in v2.1.295]]
+- Later: 2026-10-07 · Ollama · [[Changes/Ollama/2026-10-07-cmd-remove-account-step-from-cli-onboarding-by-hoyyeva-in-https-github-com-ollam|cmd: remove account step from CLI onboarding]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

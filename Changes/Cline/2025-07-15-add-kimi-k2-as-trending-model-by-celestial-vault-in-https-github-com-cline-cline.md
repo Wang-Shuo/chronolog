@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 03823c0f85ac04fc934e0dbf3069cc080be44a02c40cfa08ba80b613271680b3
+machine_hash: 432cafd3d8882c0cb5e7c6b8bdb84c01d189493fedd2ef0a6bf1c0415742a6c7
 product: cline
 product_name: Cline
 record:
@@ -43,12 +43,12 @@ record:
   title: Add kimi-k2 as trending model
   type: change
 related_changes:
-- '[[Changes/Cline/2025-07-10-adding-thinking-token-config-to-gemini-2-5-pro-model-and-adding-gemini-2-5-flash|Adding
-  Thinking Token Config to Gemini 2.5 pro model and adding gemini 2.5 flash preview]]'
-- '[[Changes/Codex CLI/2025-07-10-added-new-config-option-model-supports-reasoning-summaries-https-github-com-open|Added
-  new config option]]'
+- '[[Changes/Dify/2025-07-10-4-model-support-changes-in-1-6-0|4 Model Support changes
+  in 1.6.0]]'
 - '[[Changes/Gemini CLI/2025-07-11-5-model-support-changes-in-v0-1-10|5 Model Support
   changes in v0.1.10]]'
+- '[[Changes/Open WebUI/2025-07-14-6-model-support-changes-in-v0-6-16|6 Model Support
+  changes in v0.6.16]]'
 source_release: '[[Releases/Cline/cline-2025-07-15-v3-18-15-github-232396752-aa5b28a8|cline-2025-07-15-v3-18-15-github-232396752-aa5b28a8]]'
 source_type: github_releases
 theme: model-support
@@ -80,7 +80,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2025-07-11 · Gemini CLI · [[Changes/Gemini CLI/2025-07-11-5-model-support-changes-in-v0-1-10|5 Model Support changes in v0.1.10]]
+- Earlier: 2025-07-14 · Open WebUI · [[Changes/Open WebUI/2025-07-14-6-model-support-changes-in-v0-6-16|6 Model Support changes in v0.6.16]]
 - Later: 2025-07-16 · OpenHands · [[Changes/OpenHands/2025-07-16-added-openhands-provider-for-llm-through-openhands-cloud-by-xingyaoww-in-https-g|Added OpenHands provider for LLM through OpenHands Cloud]]
 <!-- chronolog:end -->
 

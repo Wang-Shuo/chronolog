@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 0e754d3b48c576f3d3b2afc38f0f6482034ea544f7b0caad9c2720a482ebfee3
+machine_hash: 8d7abb60e6a4c6b62d32c98c9bd0ecb040c822d56f4e25587a6a79a0de05f0d1
 product: cline
 product_name: Cline
 record:
@@ -43,12 +43,12 @@ record:
   title: Add code-supernova stealth model
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2025-09-17-3680-update-azure-model-provider-example-3680|♯3680
-  Update azure model provider example (♯3680)]]'
-- '[[Changes/Gemini CLI/2025-09-17-refactor-centralize-and-improve-model-fallback-handling-by-abhipatel12-in-https|refactor:
-  Centralize and improve model fallback handling]]'
+- '[[Changes/Open WebUI/2025-09-17-3-model-support-changes-in-v0-6-29|3 Model Support
+  changes in v0.6.29]]'
 - '[[Changes/ChatGPT/2025-09-18-we-re-improving-the-quality-and-latency-of-responses-of-the-version-of-advanced|Voice
   Updates]]'
+- '[[Changes/Ollama/2025-09-18-6-model-support-changes-in-v0-12-0|6 Model Support
+  changes in v0.12.0]]'
 source_release: '[[Releases/Cline/cline-2025-09-19-v3-30-0-github-248707045-13def0a7|cline-2025-09-19-v3-30-0-github-248707045-13def0a7]]'
 source_type: github_releases
 theme: model-support
@@ -77,8 +77,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2025-09-18 · ChatGPT · [[Changes/ChatGPT/2025-09-18-we-re-improving-the-quality-and-latency-of-responses-of-the-version-of-advanced|Voice Updates]]
-- Later: 2025-09-23 · Codex CLI · [[Changes/Codex CLI/2025-09-23-2-model-support-changes-in-rust-v0-40-0|2 Model Support changes in rust-v0.40.0]]
+- Earlier: 2025-09-18 · Ollama · [[Changes/Ollama/2025-09-18-6-model-support-changes-in-v0-12-0|6 Model Support changes in v0.12.0]]
+- Later: 2025-09-21 · Ollama · [[Changes/Ollama/2025-09-21-2-model-support-changes-in-v0-12-1|2 Model Support changes in v0.12.1]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

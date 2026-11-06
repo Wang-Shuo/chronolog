@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 11967319ed0a23a3f8384a01941e4087144aed1a3fc92e304d8aa1f4ee209796
+machine_hash: f183742fc87034a02dc9f78cfb20a32d6eb84101e24789dccc6e16973807127e
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -62,7 +62,8 @@ record:
   title: 12 Context Window changes in rust-v0.145.0
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-07-17-cross-channel-workflows|Cross-channel workflows]]'
+- '[[Changes/Dify/2026-07-17-16-context-window-changes-in-1-16-0|16 Context Window
+  changes in 1.16.0]]'
 - '[[Changes/Claude Code/2026-07-20-context-now-shows-an-explicit-warning-when-the-conversation-exceeds-the-context|/context
   now shows an explicit warning when the conversation exceeds the context…]]'
 - '[[Changes/GitHub Copilot CLI/2026-07-20-2-context-window-changes-in-v1-0-72|2 Context

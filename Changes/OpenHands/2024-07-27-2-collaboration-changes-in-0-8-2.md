@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 41edbf6b557e53d1574e8031772cdef604682e1e595b26eeeb891fc5b9fd1716
+machine_hash: 4d83815f33cc9dc26dc3d8cb2e78acd70239337593c996486983abe5a00ad224
 product: openhands
 product_name: OpenHands
 record:
@@ -43,12 +43,12 @@ record:
   title: 2 Collaboration changes in 0.8.2
   type: change
 related_changes:
-- '[[Changes/OpenHands/2024-06-29-add-links-to-a-feedback-sharing-site-by-neubig-in-https-github-com-opendevin-ope|Add
-  links to a feedback sharing site]]'
 - '[[Changes/OpenHands/2024-07-13-refractor-move-image-agnostic-util-to-shared-runtime-util-by-xingyaoww-in-https|Refractor:
   move image agnostic util to shared runtime util]]'
 - '[[Changes/OpenHands/2024-07-19-frontend-update-url-for-share-opendevin-trajectory-visualization-by-xingyaoww-in|frontend:
   update url for share opendevin trajectory visualization]]'
+- '[[Changes/Dify/2024-07-23-feat-add-email-support-for-pro-and-team-by-crazywoola-in-https-github-com-langge|Feat/add
+  email support for pro and team]]'
 source_release: '[[Releases/OpenHands/openhands-2024-07-27-0-8-2-github-167485944-4c47e7ce|openhands-2024-07-27-0-8-2-github-167485944-4c47e7ce]]'
 source_type: github_releases
 theme: collaboration
@@ -86,7 +86,7 @@ Source: https://github.com/OpenHands/OpenHands/releases/tag/0.8.2
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Collaboration
 
-- Earlier: 2024-07-19 · OpenHands · [[Changes/OpenHands/2024-07-19-frontend-update-url-for-share-opendevin-trajectory-visualization-by-xingyaoww-in|frontend: update url for share opendevin trajectory visualization]]
+- Earlier: 2024-07-23 · Dify · [[Changes/Dify/2024-07-23-feat-add-email-support-for-pro-and-team-by-crazywoola-in-https-github-com-langge|Feat/add email support for pro and team]]
 - Later: 2024-08-22 · Cursor · [[Changes/Cursor/2024-08-22-composer-is-now-default-on-and-available-to-all-pro-business-users-by-hitting-cm|Composer is now default-on and available to all Pro/Business users by hitting cmd+I]]
 <!-- chronolog:end -->
 

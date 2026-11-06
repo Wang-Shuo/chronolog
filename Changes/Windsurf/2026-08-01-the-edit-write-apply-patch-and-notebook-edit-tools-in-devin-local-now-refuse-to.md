@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: fe4445d5b8ccb8aaeeff5a73293e7f97626517f355f0d72a6753e4f733938228
+machine_hash: 0bf124a615b48f13dad7ab5e77b0f57535f50dd03034291bc8dfb7f98fe3a414
 product: windsurf
 product_name: Windsurf
 record:
@@ -47,12 +47,12 @@ record:
     now…
   type: change
 related_changes:
-- '[[Changes/OpenHands/2026-07-29-feat-allow-overwriting-a-secret-value-from-the-edit-form-by-hieptl-in-https-gith|feat:
-  allow overwriting a secret value from the edit form]]'
 - '[[Changes/GitHub Copilot CLI/2026-07-30-ctrl-g-opens-your-editor-to-edit-ask-user-freeform-answers-without-closing-the-p|Ctrl+G
   opens your editor to edit ask_user freeform answers without closing the prompt]]'
 - '[[Changes/GitHub Copilot CLI/2026-07-30-2-editor-experience-changes-in-v1-0-76|2
   Editor Experience changes in v1.0.76]]'
+- '[[Changes/Lovable/2026-07-30-change-the-owner-of-several-projects-at-once|Change
+  the owner of several projects at once]]'
 source_release: '[[Releases/Windsurf/windsurf-2026-08-01-v3-6-27-9624899b|windsurf-2026-08-01-v3-6-27-9624899b]]'
 source_type: windsurf_changelog
 theme: editor-experience
@@ -81,7 +81,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2026-07-30 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-07-30-2-editor-experience-changes-in-v1-0-76|2 Editor Experience changes in v1.0.76]]
+- Earlier: 2026-07-30 · Lovable · [[Changes/Lovable/2026-07-30-change-the-owner-of-several-projects-at-once|Change the owner of several projects at once]]
 - Later: 2026-08-02 · Cline · [[Changes/Cline/2026-08-02-keep-settings-edits-that-are-made-before-the-provider-config-finishes-loading-ba|Keep settings edits that are made before the provider config finishes loading]]
 <!-- chronolog:end -->
 

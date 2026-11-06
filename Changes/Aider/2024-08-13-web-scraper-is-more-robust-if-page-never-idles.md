@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 235c54e2ea08f81dfad0ab5ace3821de4038d0947a4e16f787616585db941674
+machine_hash: 4942e75194fde1f11af324d34d889906acad9c9c479e88fc91aed84bac264fa1
 product: aider
 product_name: Aider
 record:
@@ -42,11 +42,12 @@ record:
   title: Web scraper is more robust if page never idles
   type: change
 related_changes:
-- '[[Changes/Cursor/2024-08-02-faster-cursor-tab-suggestions|Faster Cursor Tab Suggestions!]]'
-- '[[Changes/Aider/2024-08-06-2-reliability-and-performance-changes-in-v0-48-0|2 Reliability
-  and Performance changes in v0.48.0]]'
+- '[[Changes/Ollama/2024-08-06-numa-support-will-now-be-autodetected-by-ollama-to-improve-performance|NUMA
+  support will now be autodetected by Ollama to improve performance]]'
 - '[[Changes/Aider/2024-08-10-performance-improvements-for-repo-map-calculation|Performance
   improvements for repo map calculation]]'
+- '[[Changes/Ollama/2024-08-11-ollama-will-now-provide-an-error-instead-of-crashing-on-windows-when-running-mod|Ollama
+  will now provide an error instead of crashing on Windows when running models…]]'
 source_release: '[[Releases/Aider/aider-2024-08-13-v0-50-0-github-170044522-4391dc3d|aider-2024-08-13-v0-50-0-github-170044522-4391dc3d]]'
 source_type: github_releases
 theme: reliability-performance
@@ -79,8 +80,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2024-08-10 · Aider · [[Changes/Aider/2024-08-10-performance-improvements-for-repo-map-calculation|Performance improvements for repo map calculation]]
-- Later: 2024-08-20 · Aider · [[Changes/Aider/2024-08-20-improved-editing-performance-on-jupyter-notebook-ipynb-files|Improved editing performance on Jupyter Notebook .ipynb files]]
+- Earlier: 2024-08-11 · Ollama · [[Changes/Ollama/2024-08-11-ollama-will-now-provide-an-error-instead-of-crashing-on-windows-when-running-mod|Ollama will now provide an error instead of crashing on Windows when running models…]]
+- Later: 2024-08-13 · Ollama · [[Changes/Ollama/2024-08-13-ollama-will-now-import-gguf-files-faster-by-minimizing-file-copies|Ollama will now import GGUF files faster by minimizing file copies]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

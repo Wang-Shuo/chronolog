@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 0ae58df8ca5729cc49a33e7b0d1a5fae34358d77788c77ab2b15fc044b6a1b11
+machine_hash: bbdbfb1986581cf17a7499bcd8cd14f30402864f43a62a81b57f8770d645e186
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,10 +45,9 @@ record:
   title: 2 Interface Experience changes in v2.1.283
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-09-22-32-interface-experience-changes-in-rust-v0-156-0|32
-  Interface Experience changes in rust-v0.156.0]]'
-- '[[Changes/Claude Code/2026-09-23-4-interface-experience-changes-in-v2-1-281|4 Interface
-  Experience changes in v2.1.281]]'
+- '[[Changes/Lovable/2026-09-23-one-project-menu-on-your-phone|One project menu on
+  your phone]]'
+- '[[Changes/Lovable/2026-09-23-redesigned-projects-page|Redesigned Projects page]]'
 - '[[Changes/Claude Code/2026-09-24-4-interface-experience-changes-in-v2-1-282|4 Interface
   Experience changes in v2.1.282]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-25-v2-1-283-github-396845205-9a5a07f8|claude-code-2026-09-25-v2-1-283-github-396845205-9a5a07f8]]'

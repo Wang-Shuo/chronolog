@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: policy
-machine_hash: fa4843635636f8e6e96d1e60258d0565227dd7ac86b54a7e25c4d92280993350
+machine_hash: 8ac08d0dcd25264e5d0fed9de231c9d890cf7b9da2807aab33cd452b7d95cfce
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -68,8 +68,8 @@ record:
   title: Rolling out age prediction
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-01-16-3-model-support-changes-in-v0-0-384|3 Model
-  Support changes in v0.0.384]]'
+- '[[Changes/Ollama/2026-01-16-translategemma-https-ollama-com-library-translategemma-a-new-collection-of-open|TranslateGemma((source
+  link) A new collection…]]'
 - '[[Changes/Windsurf/2026-01-16-improvements-to-gpt-5-2-codex-harness|Improvements
   to GPT-5.2-Codex harness]]'
 - '[[Changes/GitHub Copilot CLI/2026-01-19-model-switching-from-codex-to-opus-preserves-conversation-history-correctly|Model

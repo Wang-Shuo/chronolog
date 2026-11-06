@@ -5,20 +5,20 @@ description: 'Cursor · 2025-12-18 · Enterprise and Administration: Many of the
   software companies in the world have adopted Cursor for Enterprise. Here are some
   of…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2024-03-20-admin-improvements-team-admins-can-now-mark-themselves-as-unpaid-users-and-can-s|Admin
-    improvements: Team admins can now mark themselves as unpaid users and can see…]]'
+  first_in_tracked: '[[Changes/Gemini/2023-05-05-access-for-google-workspace-accounts|Access
+    for Google Workspace accounts]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 638
+  lag_days: 958
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 0151fd4f35861a376a6750e0dd13562d8623cad6fb6001ef94083ab8210c0152
+machine_hash: 257087922cec29f26af789140b4b3d694dcd6a863d0efcc0f18f4f4038284321
 product: cursor
 product_name: Cursor
 record:
@@ -48,12 +48,10 @@ record:
     Enterprise
   type: change
 related_changes:
-- '[[Changes/Cline/2025-12-02-add-enterprise-to-readme-by-reneehuang1-in-https-github-com-cline-cline-pull-758|add
-  enterprise to readme]]'
-- '[[Changes/Cline/2025-12-11-enterprise-docs-by-jl-codes-in-https-github-com-cline-cline-pull-7714|Enterprise
-  docs]]'
+- '[[Changes/Replit/2025-12-12-teams-and-enterprise|Teams and Enterprise]]'
 - '[[Changes/Gemini CLI/2025-12-16-add-new-enterprise-instructions-by-chrstnb-in-https-github-com-google-gemini-gem|Add
   new enterprise instructions]]'
+- '[[Changes/Claude/2025-12-18-claude-in-chrome-updates|Claude in Chrome updates]]'
 source_release: '[[Releases/Cursor/cursor-2025-12-18-enterprise-insights-billing-groups-service-accounts-and-improved-23eccccb|cursor-2025-12-18-enterprise-insights-billing-groups-service-accounts-and-improved-23eccccb]]'
 source_type: cursor_changelog
 theme: enterprise-admin
@@ -87,14 +85,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Enterprise and Administration
 
-- Earlier: 2025-12-16 · Gemini CLI · [[Changes/Gemini CLI/2025-12-16-add-new-enterprise-instructions-by-chrstnb-in-https-github-com-google-gemini-gem|Add new enterprise instructions]]
-- Later: 2026-01-06 · Codex CLI · [[Changes/Codex CLI/2026-01-06-support-enterprise-managed-configuration-requirements-on-macos-via-an-mdm-provid|Support enterprise-managed configuration requirements on macOS via an MDM-provided…]]
+- Earlier: 2025-12-18 · Claude · [[Changes/Claude/2025-12-18-claude-in-chrome-updates|Claude in Chrome updates]]
+- Later: 2025-12-21 · Open WebUI · [[Changes/Open WebUI/2025-12-21-looking-for-an-enterprise-plan-https-docs-openwebui-com-enterprise-speak-with-ou| Looking for an Enterprise Plan((source link)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2024-03-20 · Cursor · [[Changes/Cursor/2024-03-20-admin-improvements-team-admins-can-now-mark-themselves-as-unpaid-users-and-can-s|Admin improvements: Team admins can now mark themselves as unpaid users and can see…]]
+- Earliest same-theme entry in the tracked set: 2023-05-05 · Gemini · [[Changes/Gemini/2023-05-05-access-for-google-workspace-accounts|Access for Google Workspace accounts]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

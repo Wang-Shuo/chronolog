@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 4db3c7e8ad986c3f11ddf78ceee8514990b6793b46fa2b1670f044099466f4de
+machine_hash: 6df5964bfd07e0c035f4f9b9400f12059fe30854916b89e408ca5d6b74ec5cb8
 product: windsurf
 product_name: Windsurf
 record:
@@ -43,8 +43,8 @@ record:
   title: Teams Analytics
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-03-23-improved-indexing-performance-for-teams-sharing-codebases|Improved
-  indexing performance for teams sharing codebases]]'
+- "[[Changes/Open WebUI/2025-05-06-notes-feature-access-fixed-for-non-admins-fixed-an-issue-preventing-non-admin-us|\U0001F4DD
+  Notes Feature Access Fixed for Non-Admins]]"
 - '[[Changes/Windsurf/2025-05-06-teams-knowledge|Teams: Knowledge]]'
 - '[[Changes/Windsurf/2025-05-06-teams-deploys|Teams Deploys]]'
 source_release: '[[Releases/Windsurf/windsurf-2025-05-06-v1-8-0-8970184c|windsurf-2025-05-06-v1-8-0-8970184c]]'
@@ -81,8 +81,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Collaboration
 
-- Earlier: 2025-03-23 · Cursor · [[Changes/Cursor/2025-03-23-improved-indexing-performance-for-teams-sharing-codebases|Improved indexing performance for teams sharing codebases]]
-- Later: 2025-05-16 · Cline · [[Changes/Cline/2025-05-16-add-collapsible-recent-task-list-allowing-users-to-hide-their-task-history-when|Add collapsible recent task list, allowing users to hide their task history…]]
+- Earlier: 2025-05-06 · Open WebUI · [[Changes/Open WebUI/2025-05-06-notes-feature-access-fixed-for-non-admins-fixed-an-issue-preventing-non-admin-us|📝 Notes Feature Access Fixed for Non-Admins]]
+- Later: 2025-05-09 · Lovable · [[Changes/Lovable/2025-05-09-project-visibility-settings-have-returned-to-team-workspaces-but-will-be-disable|Project visibility settings have returned to team workspaces, but will be disabled for now]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

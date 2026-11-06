@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 3ede1fa130bfe00d979a3195deff47b97abdb06facbda3f9c73a19494fc7732b
+machine_hash: dac9d4bc48ffdb8edf0e383b5951bcf652784ff6f5f79d25c565c62c05f193e8
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -43,10 +43,10 @@ record:
   title: 2 Account and Access changes in v1.0.70
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-07-09-we-re-deprecating-atlas-as-we-bring-browser-based-agentic-capabilities-into-chat|Retiring
-  Atlas]]'
 - '[[Changes/Codex CLI/2026-07-09-5-account-and-access-changes-in-rust-v0-144-0|5
   Account and Access changes in rust-v0.144.0]]'
+- '[[Changes/Lovable/2026-07-09-workspace-invitations-expire-after-30-days|Workspace
+  invitations expire after 30 days]]'
 - '[[Changes/Claude Code/2026-07-10-gateway-login-now-supports-anthropic-operated-public-gateway-endpoints|Gateway:
   /login now supports Anthropic-operated public gateway endpoints]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-07-10-v1-0-70-github-351853788-0192ae35|github-copilot-cli-2026-07-10-v1-0-70-github-351853788-0192ae35]]'
@@ -91,7 +91,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.70
 ## Nearby in Account and Access
 
 - Earlier: 2026-07-10 · Claude Code · [[Changes/Claude Code/2026-07-10-gateway-login-now-supports-anthropic-operated-public-gateway-endpoints|Gateway: /login now supports Anthropic-operated public gateway endpoints]]
-- Later: 2026-07-16 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-07-16-server-mode-reconnects-oauth-mcp-servers-from-cached-tokens|Server mode reconnects OAuth MCP servers from cached tokens]]
+- Later: 2026-07-10 · Lovable · [[Changes/Lovable/2026-07-10-sign-in-to-lovable-from-your-identity-provider-s-portal|Sign in to Lovable from your identity provider's portal]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

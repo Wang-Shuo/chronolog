@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 5e489a117199d0be4712b2b8a51a3e6e9231d20e4c8c50c222c421c2821cd238
+machine_hash: 8a64ebaca107669ef43ba6049659186c88f3f7619796cd9d4fa430eab8f44e2b
 product: openhands
 product_name: OpenHands
 record:
@@ -69,12 +69,12 @@ record:
   title: 12 Interface Experience changes in v1.35.0
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-10-27-added-a-repository-filter-to-the-session-picker-and-directory-grouping-to-the-ag|Added
-  a repository filter to the session picker and directory grouping to the agent…]]'
-- '[[Changes/OpenHands/2026-10-27-3-interface-experience-changes-in-v1-34-0|3 Interface
-  Experience changes in v1.34.0]]'
-- '[[Changes/Codex CLI/2026-10-29-12-interface-experience-changes-in-rust-v0-166-0|12
-  Interface Experience changes in rust-v0.166.0]]'
+- '[[Changes/ElevenLabs/2026-11-02-2-interface-experience-changes-in-elevenlabs-updates-2026-11-02|2
+  Interface Experience changes in ElevenLabs updates — 2026-11-02]]'
+- '[[Changes/Ollama/2026-11-03-picker-shows-ollama-s-actual-model-names|picker shows
+  Ollama''s actual model names]]'
+- '[[Changes/Open WebUI/2026-11-03-4-interface-experience-changes-in-v0-13-0|4 Interface
+  Experience changes in v0.13.0]]'
 source_release: '[[Releases/OpenHands/openhands-2026-11-03-v1-35-0-github-433088800-6c59b2b0|openhands-2026-11-03-v1-35-0-github-433088800-6c59b2b0]]'
 source_type: github_releases
 theme: interface-experience
@@ -135,8 +135,8 @@ Source: https://github.com/OpenHands/OpenHands/releases/tag/v1.35.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-10-29 · Codex CLI · [[Changes/Codex CLI/2026-10-29-12-interface-experience-changes-in-rust-v0-166-0|12 Interface Experience changes in rust-v0.166.0]]
-- Later: 2026-11-06 · Codex CLI · [[Changes/Codex CLI/2026-11-06-13-interface-experience-changes-in-rust-v0-167-0|13 Interface Experience changes in rust-v0.167.0]]
+- Earlier: 2026-11-03 · Open WebUI · [[Changes/Open WebUI/2026-11-03-4-interface-experience-changes-in-v0-13-0|4 Interface Experience changes in v0.13.0]]
+- Later: 2026-11-04 · Dify · [[Changes/Dify/2026-11-04-2-interface-experience-changes-in-1-19-0|2 Interface Experience changes in 1.19.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

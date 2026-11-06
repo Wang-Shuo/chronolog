@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 4ed261cfaf08ba90592fca1ac560cae866ccf7ad2501b22416c9c76b2a699234
+machine_hash: f808a39433801437b7704cf02b321241dfe7bc3b255ec6c41a62ea47def7fe08
 product: aider
 product_name: Aider
 record:
@@ -42,12 +42,12 @@ record:
   title: 2 Model Support changes in v0.17.0
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2023-10-16-we-ve-integrated-dall-e-3-with-chatgpt-allowing-it-to-respond-to-your-requests-w-ad3caf|DALL·E
-  3 is now rolling out in beta]]'
-- '[[Changes/ChatGPT/2023-10-17-browsing-which-we-re-launched-a-few-weeks-ago-is-moving-out-of-beta-plus-and-ent|Browsing
-  is now out of beta]]'
-- '[[Changes/Aider/2023-10-18-show-models-supported-by-api-key-if-requested-model-isn-t-available|Show
-  models supported by api/key if requested model isn''t available]]'
+- '[[Changes/Ollama/2023-10-27-5-model-support-changes-in-v0-1-6|5 Model Support changes
+  in v0.1.6]]'
+- '[[Changes/Ollama/2023-11-04-3-model-support-changes-in-v0-1-8|3 Model Support changes
+  in v0.1.8]]'
+- '[[Changes/Dify/2023-11-06-3-model-support-changes-in-0-3-29|3 Model Support changes
+  in 0.3.29]]'
 source_release: '[[Releases/Aider/aider-2023-11-07-v0-17-0-github-128252784-6710dfec|aider-2023-11-07-v0-17-0-github-128252784-6710dfec]]'
 source_type: github_releases
 theme: model-support
@@ -81,7 +81,7 @@ Source: https://github.com/Aider-AI/aider/releases/tag/v0.17.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2023-10-18 · Aider · [[Changes/Aider/2023-10-18-show-models-supported-by-api-key-if-requested-model-isn-t-available|Show models supported by api/key if requested model isn't available]]
+- Earlier: 2023-11-06 · Dify · [[Changes/Dify/2023-11-06-3-model-support-changes-in-0-3-29|3 Model Support changes in 0.3.29]]
 - Later: 2023-11-10 · Cursor · [[Changes/Cursor/2023-11-10-new-models-you-can-plug-in-your-api-key-to-try-out-the-newest-gpt-4-and-gpt-3-tu|New models: you can plug in your API key to try out the newest gpt-4 and gpt-3 turbo…]]
 <!-- chronolog:end -->
 

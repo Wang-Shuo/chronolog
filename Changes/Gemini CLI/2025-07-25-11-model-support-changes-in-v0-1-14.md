@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 4c19b7a5d7660daab1fc4b186084ad70733be39600fc297b47a7eefe55b89257
+machine_hash: b39de7322a08b886d3da06d5757b0c2e6ddabdaeb98ae74ef54949b267b8094c
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -66,10 +66,10 @@ record:
   title: 11 Model Support changes in v0.1.14
   type: change
 related_changes:
-- '[[Changes/Cline/2025-07-22-separate-plan-act-model-settings-by-celestial-vault-in-https-github-com-cline-cl|Separate
-  plan act model settings]]'
 - '[[Changes/Cline/2025-07-23-adding-support-for-new-models-qwen-3-models-on-qwen-provider-by-arafatkatze-in-h|Adding
   support for new models Qwen 3 models on Qwen provider]]'
+- '[[Changes/Dify/2025-07-23-2-model-support-changes-in-1-7-0|2 Model Support changes
+  in 1.7.0]]'
 - '[[Changes/OpenHands/2025-07-24-2-model-support-changes-in-0-50-0|2 Model Support
   changes in 0.50.0]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2025-07-25-v0-1-14-github-235287807-631ef7fa|gemini-cli-2025-07-25-v0-1-14-github-235287807-631ef7fa]]'
@@ -135,7 +135,7 @@ Source: https://github.com/google-gemini/gemini-cli/releases/tag/v0.1.14
 ## Nearby in Model Support
 
 - Earlier: 2025-07-24 · OpenHands · [[Changes/OpenHands/2025-07-24-2-model-support-changes-in-0-50-0|2 Model Support changes in 0.50.0]]
-- Later: 2025-07-30 · Gemini CLI · [[Changes/Gemini CLI/2025-07-30-11-model-support-changes-in-v0-1-15|11 Model Support changes in v0.1.15]]
+- Later: 2025-07-28 · Dify · [[Changes/Dify/2025-07-28-2-model-support-changes-in-1-7-1|2 Model Support changes in 1.7.1]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

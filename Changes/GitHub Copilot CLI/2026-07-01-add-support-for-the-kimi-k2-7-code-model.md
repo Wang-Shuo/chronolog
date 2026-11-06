@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 21e1c52b3b1e63546d7b8c78a6bff3c7bc0235119eff555a3d5097ce31a308b4
+machine_hash: 7c01ed465553cf038c1144a09ddcde5a494c7cfb8da33b5420dc797405900abb
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -42,10 +42,10 @@ record:
   title: Add support for the kimi-k2.7-code model
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-06-30-add-claude-sonnet-5-as-a-supported-model|Add
-  Claude Sonnet 5 as a supported model]]'
-- '[[Changes/GitHub Copilot CLI/2026-06-30-5-model-support-changes-in-v1-0-66|5 Model
-  Support changes in v1.0.66]]'
+- '[[Changes/Ollama/2026-06-30-tightened-gemma-4-moe-model-loading-in-the-mlx-engine|Tightened
+  Gemma 4 MoE model loading in the MLX engine]]'
+- '[[Changes/Claude/2026-07-01-model-entitlements-for-enterprise-plans-beta|Model
+  entitlements for Enterprise plans (beta)]]'
 - '[[Changes/Claude Code/2026-07-01-2-model-support-changes-in-v2-1-198|2 Model Support
   changes in v2.1.198]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-07-01-v1-0-68-github-347721762-7219d583|github-copilot-cli-2026-07-01-v1-0-68-github-347721762-7219d583]]'
@@ -85,7 +85,7 @@ type: change
 ## Nearby in Model Support
 
 - Earlier: 2026-07-01 · Claude Code · [[Changes/Claude Code/2026-07-01-2-model-support-changes-in-v2-1-198|2 Model Support changes in v2.1.198]]
-- Later: 2026-07-02 · Cline · [[Changes/Cline/2026-07-02-generalize-the-model-capability-warning-so-it-applies-more-broadly|Generalize the model capability warning so it applies more broadly]]
+- Later: 2026-07-01 · Open WebUI · [[Changes/Open WebUI/2026-07-01-5-model-support-changes-in-v0-10-2|5 Model Support changes in v0.10.2]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

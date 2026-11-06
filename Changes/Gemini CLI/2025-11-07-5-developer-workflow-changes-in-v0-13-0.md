@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: ee20db849e4346b13520235b1023a78a4812e736f8f22b9cbca36f35e7a84bcd
+machine_hash: a8ce8c2854c095d927edda778403cb885b0e8a2705a0e209d2b04ec439fdbb7e
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -49,11 +49,12 @@ record:
   title: 5 Developer Workflow changes in v0.13.0
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2025-11-04-docs-github-revamp-pull-request-template-by-jerop-in-https-github-com-google-gem|docs(github):
-  revamp pull request template]]'
-- '[[Changes/Windsurf/2025-11-04-terminal-fixes|Terminal Fixes]]'
 - '[[Changes/OpenHands/2025-11-05-made-terminal-tab-read-only-by-amanape-in-https-github-com-openhands-openhands-p|Made
   terminal tab read-only]]'
+- "[[Changes/Open WebUI/2025-11-06-socket-io-cors-warning-is-resolved-by-properly-configuring-cors-origins-for-sock|\U0001F50C
+  Socket.IO CORS warning is resolved by properly configuring CORS origins for Socket]]"
+- '[[Changes/Open WebUI/2025-11-06-3-developer-workflow-changes-in-v0-6-35|3 Developer
+  Workflow changes in v0.6.35]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2025-11-07-v0-13-0-github-260462305-15cfa0b7|gemini-cli-2025-11-07-v0-13-0-github-260462305-15cfa0b7]]'
 source_type: github_releases
 theme: developer-workflow
@@ -105,7 +106,7 @@ Source: https://github.com/google-gemini/gemini-cli/releases/tag/v0.13.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2025-11-05 · OpenHands · [[Changes/OpenHands/2025-11-05-made-terminal-tab-read-only-by-amanape-in-https-github-com-openhands-openhands-p|Made terminal tab read-only]]
+- Earlier: 2025-11-06 · Open WebUI · [[Changes/Open WebUI/2025-11-06-3-developer-workflow-changes-in-v0-6-35|3 Developer Workflow changes in v0.6.35]]
 - Later: 2025-11-09 · Codex CLI · [[Changes/Codex CLI/2025-11-09-4-developer-workflow-changes-in-rust-v0-57-0|4 Developer Workflow changes in rust-v0.57.0]]
 <!-- chronolog:end -->
 

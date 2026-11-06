@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 05ddec2d567ba54b48f293252fef1effea42ccc0f46484f92c3ce7cac96df091
+machine_hash: 3def318af875d2eea9ba235a13ec20322e791ad562f4ae416831f07b8fd7d0d7
 product: cursor
 product_name: Cursor
 record:
@@ -52,12 +52,12 @@ record:
   title: Gemini 1.5 Flash is available in long-context mode
   type: change
 related_changes:
-- '[[Changes/Aider/2024-05-13-3-model-support-changes-in-v0-35-0|3 Model Support changes
-  in v0.35.0]]'
-- '[[Changes/ChatGPT/2024-05-13-gpt-4o-is-our-newest-flagship-model-that-provides-gpt-4-level-intelligence-that-297427|Introducing
-  GPT-4o]]'
+- "[[Changes/Open WebUI/2024-05-19-improved-many-model-interaction-all-responses-now-displayed-simultaneously-for-a|\U0001F680
+  Improved Many Model Interaction]]"
 - '[[Changes/Aider/2024-05-22-aider-automatically-lints-and-fixes-after-every-llm-edit|Aider
   automatically lints and fixes after every LLM edit]]'
+- '[[Changes/Ollama/2024-05-22-5-model-support-changes-in-v0-1-39|5 Model Support
+  changes in v0.1.39]]'
 source_release: '[[Releases/Cursor/cursor-2024-05-26-0-34-x-https-cursor-com-changelog-0-34-x-a468f0bc|cursor-2024-05-26-0-34-x-https-cursor-com-changelog-0-34-x-a468f0bc]]'
 source_type: cursor_changelog
 theme: model-support
@@ -88,8 +88,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2024-05-22 · Aider · [[Changes/Aider/2024-05-22-aider-automatically-lints-and-fixes-after-every-llm-edit|Aider automatically lints and fixes after every LLM edit]]
-- Later: 2024-06-04 · Aider · [[Changes/Aider/2024-06-04-improved-prompts-when-no-files-have-been-added-to-chat-to-solicit-llm-file-sugge|Improved prompts when no files have been added to chat to solicit LLM file suggestions]]
+- Earlier: 2024-05-22 · Ollama · [[Changes/Ollama/2024-05-22-5-model-support-changes-in-v0-1-39|5 Model Support changes in v0.1.39]]
+- Later: 2024-05-27 · Dify · [[Changes/Dify/2024-05-27-13-model-support-changes-in-0-6-9|13 Model Support changes in 0.6.9]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 02c5e0f33734564f26b2d6fd526ce8aa1d014383bd8a1b0a3e4b71c0cadd02b2
+machine_hash: ae6986e21ecf26c4bee07900811097d02df08f80f2fc2fe140972ba342459df5
 product: claude-code
 product_name: Claude Code
 record:
@@ -43,12 +43,12 @@ record:
   title: 2 Agent Mode changes in v2.1.143
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-05-13-to-take-engineering-tasks-from-start-to-finish-agents-need-a-development-environ-e47512|To
-  take engineering tasks from start to finish, agents need a development…]]'
 - '[[Changes/GitHub Copilot CLI/2026-05-13-resume-supports-copilot-cloud-agent-sessions-where-the-agent-hasn-t-pushed-any-c|--resume
   supports Copilot cloud agent sessions where the agent hasn''t pushed any…]]'
 - '[[Changes/Claude Code/2026-05-14-improved-hook-configuration-error-configuring-a-prompt-or-agent-type-hook-for-se|Improved
   hook configuration error]]'
+- '[[Changes/Ollama/2026-05-14-for-difficult-coding-and-agentic-tasks|For difficult
+  coding and agentic tasks]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-05-15-v2-1-143-github-323423445-53eb447c|claude-code-2026-05-15-v2-1-143-github-323423445-53eb447c]]'
 source_type: github_releases
 theme: agent-mode
@@ -88,8 +88,8 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.143
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2026-05-14 · Claude Code · [[Changes/Claude Code/2026-05-14-improved-hook-configuration-error-configuring-a-prompt-or-agent-type-hook-for-se|Improved hook configuration error]]
-- Later: 2026-05-18 · Codex CLI · [[Changes/Codex CLI/2026-05-18-9-agent-mode-changes-in-rust-v0-131-0|9 Agent Mode changes in rust-v0.131.0]]
+- Earlier: 2026-05-14 · Ollama · [[Changes/Ollama/2026-05-14-for-difficult-coding-and-agentic-tasks|For difficult coding and agentic tasks]]
+- Later: 2026-05-15 · Replit · [[Changes/Replit/2026-05-15-agent|Agent]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

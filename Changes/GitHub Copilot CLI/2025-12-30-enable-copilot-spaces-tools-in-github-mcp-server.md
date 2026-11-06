@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 24fb9f137275a4dd3dba6c8379de4b2a9e29f7140d4224be0d876a22bed9bb70
+machine_hash: 8bbe97648fc8ea71d17a90ecf52374ac33b590c918e549f869da964fd884613e
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -41,12 +41,10 @@ record:
   title: Enable Copilot Spaces tools in GitHub MCP Server
   type: change
 related_changes:
-- '[[Changes/Claude Code/2025-12-19-2-apps-and-integrations-changes-in-v2-0-73|2 Apps
-  and Integrations changes in v2.0.73]]'
-- '[[Changes/Cursor/2025-12-22-2-apps-and-integrations-changes-in-2-3|2 Apps and Integrations
-  changes in 2.3]]'
-- '[[Changes/Gemini CLI/2025-12-22-3-apps-and-integrations-changes-in-v0-22-0|3 Apps
-  and Integrations changes in v0.22.0]]'
+- '[[Changes/Dify/2025-12-25-12-apps-and-integrations-changes-in-1-11-2|12 Apps and
+  Integrations changes in 1.11.2]]'
+- '[[Changes/Replit/2025-12-26-replit-rewind-2025|Replit Rewind 2025]]'
+- '[[Changes/Replit/2025-12-26-replit-chatgpt-app|Replit ChatGPT App]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2025-12-30-v0-0-373-github-273424977-1bfbdae6|github-copilot-cli-2025-12-30-v0-0-373-github-273424977-1bfbdae6]]'
 source_type: github_releases
 theme: apps-integrations
@@ -77,7 +75,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2025-12-22 · Gemini CLI · [[Changes/Gemini CLI/2025-12-22-3-apps-and-integrations-changes-in-v0-22-0|3 Apps and Integrations changes in v0.22.0]]
+- Earlier: 2025-12-26 · Replit · [[Changes/Replit/2025-12-26-replit-chatgpt-app|Replit ChatGPT App]]
 - Later: 2025-12-30 · OpenHands · [[Changes/OpenHands/2025-12-30-added-forgejo-integration-by-johba37-in-https-github-com-openhands-openhands-pul|Added Forgejo integration]]
 <!-- chronolog:end -->
 

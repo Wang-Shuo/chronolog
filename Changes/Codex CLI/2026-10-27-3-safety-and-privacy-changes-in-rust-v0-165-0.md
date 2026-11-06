@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 8f3ca4adbdb74350777f371bdd35f71a9e23086afcb017d30f6dc6e3bd84b0bc
+machine_hash: 0193d329fa6575a9292cebdfb78938dc80f0cc89b04ba946984fc60716c74448
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -45,10 +45,10 @@ record:
   title: 3 Safety and Privacy changes in rust-v0.165.0
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-26-changed-startup-warnings-about-permission-rules-in-settings-files-to-show-once-p|Changed
-  startup warnings about permission rules in settings files to show once per…]]'
 - '[[Changes/Cline/2026-10-26-starting-or-resuming-a-cloud-sandbox-shows-a-progress-card-with-the-repo-branch|Starting
   or resuming a cloud sandbox shows a progress card with the repo, branch…]]'
+- '[[Changes/ElevenLabs/2026-10-26-voice-cloning-permissions-members-without-the-create-instant-voice-clone-or-crea|Voice
+  cloning permissions]]'
 - '[[Changes/Claude Code/2026-10-27-changed-claude-code-to-stop-sending-the-claude-code-safety-event-opentelemetry-e|Changed
   Claude Code to stop sending the claude_code.safety_event OpenTelemetry event]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-10-27-rust-v0-165-0-github-425927431-1fa685eb|codex-cli-2026-10-27-rust-v0-165-0-github-425927431-1fa685eb]]'

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: bce7c4642e6d604dd57b4f0b7780e56bea3d5ce5bb7dd9498ac7ad75a2a9a929
+machine_hash: a4725e3ea699c0d103f5eb417b89b79779054dfa6009c10654c463a8063c69b9
 product: openhands
 product_name: OpenHands
 record:
@@ -43,12 +43,12 @@ record:
   title: Add a general utility that automatically converts function-calling LLM requests…
   type: change
 related_changes:
-- '[[Changes/Aider/2024-11-01-2-model-support-changes-in-v0-61-0|2 Model Support changes
-  in v0.61.0]]'
-- '[[Changes/Aider/2024-11-04-4-model-support-changes-in-v0-62-0|4 Model Support changes
-  in v0.62.0]]'
+- '[[Changes/Dify/2024-11-11-6-model-support-changes-in-0-11-1|6 Model Support changes
+  in 0.11.1]]'
 - '[[Changes/Aider/2024-11-13-web-command-just-adds-the-page-to-the-chat-without-triggering-an-llm-response|/web
   command just adds the page to the chat, without triggering an LLM response]]'
+- '[[Changes/Ollama/2024-11-15-2-model-support-changes-in-v0-4-2|2 Model Support changes
+  in v0.4.2]]'
 source_release: '[[Releases/OpenHands/openhands-2024-11-15-0-14-0-github-185663564-a321b3fb|openhands-2024-11-15-0-14-0-github-185663564-a321b3fb]]'
 source_type: github_releases
 theme: model-support
@@ -78,8 +78,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2024-11-13 · Aider · [[Changes/Aider/2024-11-13-web-command-just-adds-the-page-to-the-chat-without-triggering-an-llm-response|/web command just adds the page to the chat, without triggering an LLM response]]
-- Later: 2024-11-21 · Aider · [[Changes/Aider/2024-11-21-7-model-support-changes-in-v0-64-0|7 Model Support changes in v0.64.0]]
+- Earlier: 2024-11-15 · Ollama · [[Changes/Ollama/2024-11-15-2-model-support-changes-in-v0-4-2|2 Model Support changes in v0.4.2]]
+- Later: 2024-11-18 · Dify · [[Changes/Dify/2024-11-18-10-model-support-changes-in-0-11-2|10 Model Support changes in 0.11.2]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

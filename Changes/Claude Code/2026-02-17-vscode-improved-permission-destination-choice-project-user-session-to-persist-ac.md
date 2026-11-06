@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: b343e774e0a8178a11ba06eed123da25445344267fd333540e5a7744386d0a5e
+machine_hash: 6be5e71e0246dabdc88f424a37d759194a65d3feeb7fd82b1e035e4d7a4cabe4
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,12 +45,12 @@ record:
     persist…'
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-02-12-5-safety-and-privacy-changes-in-rust-v0-100-0|5
-  Safety and Privacy changes in rust-v0.100.0]]'
-- '[[Changes/GitHub Copilot CLI/2026-02-12-permission-prompts-with-long-diffs-are-scrollable-in-alt-screen-mode|Permission
-  prompts with long diffs are scrollable in alt-screen mode]]'
+- '[[Changes/Open WebUI/2026-02-12-5-safety-and-privacy-changes-in-v0-8-0|5 Safety
+  and Privacy changes in v0.8.0]]'
 - '[[Changes/Claude Code/2026-02-13-2-safety-and-privacy-changes-in-v2-1-41|2 Safety
   and Privacy changes in v2.1.41]]'
+- "[[Changes/Open WebUI/2026-02-14-public-sharing-security-fix-fixed-a-security-issue-where-users-with-write-access|\U0001F6E1️
+  Public sharing security fix. Fixed a security issue where users with write…]]"
 source_release: '[[Releases/Claude Code/claude-code-2026-02-17-v2-1-45-github-287379410-d0651fb6|claude-code-2026-02-17-v2-1-45-github-287379410-d0651fb6]]'
 source_type: github_releases
 theme: safety-privacy
@@ -84,7 +84,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Safety and Privacy
 
-- Earlier: 2026-02-13 · Claude Code · [[Changes/Claude Code/2026-02-13-2-safety-and-privacy-changes-in-v2-1-41|2 Safety and Privacy changes in v2.1.41]]
+- Earlier: 2026-02-14 · Open WebUI · [[Changes/Open WebUI/2026-02-14-public-sharing-security-fix-fixed-a-security-issue-where-users-with-write-access|🛡️ Public sharing security fix. Fixed a security issue where users with write…]]
 - Later: 2026-02-17 · Codex CLI · [[Changes/Codex CLI/2026-02-17-9-safety-and-privacy-changes-in-rust-v0-102-0|9 Safety and Privacy changes in rust-v0.102.0]]
 <!-- chronolog:end -->
 

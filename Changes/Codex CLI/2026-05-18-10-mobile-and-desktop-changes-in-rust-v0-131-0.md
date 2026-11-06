@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: adf6eb481c1f69744746b6c0ac89cf98488ed73b4e3ebcbbacf7dd9836472c7f
+machine_hash: 49c1e2d9eb83c48e38adf2222164b309f802eff23e1191e388ef08efc5834986
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -61,12 +61,12 @@ record:
   title: 10 Mobile and Desktop changes in rust-v0.131.0
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-05-12-free-users-in-chatgpt-will-now-see-more-inline-images-from-the-web-to-help-make|More
-  images in answers for Free users]]'
 - '[[Changes/ChatGPT/2026-05-14-generated-images-will-continue-to-appear-in-the-images-tab-storage-management-is|Generated
   images will continue to appear in the Images tab]]'
 - '[[Changes/Claude Code/2026-05-15-the-powershell-tool-is-now-enabled-by-default-on-windows-for-bedrock-vertex-and|The
   PowerShell tool is now enabled by default on Windows for Bedrock, Vertex…]]'
+- '[[Changes/v0/2026-05-15-3-mobile-and-desktop-changes-in-claude-opus-4-7-fast-agent-browser|3
+  Mobile and Desktop changes in Claude Opus 4.7 Fast, agent browser…]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-05-18-rust-v0-131-0-github-324452638-5f16ff1d|codex-cli-2026-05-18-rust-v0-131-0-github-324452638-5f16ff1d]]'
 source_type: github_releases
 theme: mobile-desktop
@@ -126,8 +126,8 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.131.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2026-05-15 · Claude Code · [[Changes/Claude Code/2026-05-15-the-powershell-tool-is-now-enabled-by-default-on-windows-for-bedrock-vertex-and|The PowerShell tool is now enabled by default on Windows for Bedrock, Vertex…]]
-- Later: 2026-05-19 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-05-19-2-mobile-and-desktop-changes-in-v1-0-49|2 Mobile and Desktop changes in v1.0.49]]
+- Earlier: 2026-05-15 · v0 · [[Changes/v0/2026-05-15-3-mobile-and-desktop-changes-in-claude-opus-4-7-fast-agent-browser|3 Mobile and Desktop changes in Claude Opus 4.7 Fast, agent browser…]]
+- Later: 2026-05-18 · ElevenLabs · [[Changes/ElevenLabs/2026-05-18-ios-sdk|iOS SDK]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

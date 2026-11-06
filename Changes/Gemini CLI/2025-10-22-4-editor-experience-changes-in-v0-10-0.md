@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 438f178846d72c242832678c22d98702572873ddce9bc9af2078cb43013bcd48
+machine_hash: 26e87feb89ed9cbb73462a88ccd4bf21f8e49a2f188cb8881fa5ae938856fc81
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -48,12 +48,12 @@ record:
   title: 4 Editor Experience changes in v0.10.0
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2025-10-17-diff-mode-wraps-long-lines-4891|/diff mode wraps
-  long lines (♯4891)]]'
-- '[[Changes/GitHub Copilot CLI/2025-10-19-for-more-information-see-https-github-com-github-copilot-cli-issues-351-issuecom|For
-  more information, see…]]'
 - '[[Changes/GitHub Copilot CLI/2025-10-21-for-more-information-see-https-github-com-github-copilot-cli-issues-351-issuecom|For
   more information, see…]]'
+- '[[Changes/v0/2025-10-21-you-can-now-preview-markdown-and-svgs-inside-v0-s-editor|Markdown
+  and SVG Preview]]'
+- '[[Changes/Dify/2025-10-22-improve-explicitly-delete-task-redis-key-on-completion-in-appqueuemanager-by-bla|improve:
+  Explicitly delete task Redis key on completion in AppQueueManager]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2025-10-22-v0-10-0-github-256434073-b3dd91c0|gemini-cli-2025-10-22-v0-10-0-github-256434073-b3dd91c0]]'
 source_type: github_releases
 theme: editor-experience
@@ -101,7 +101,7 @@ Source: https://github.com/google-gemini/gemini-cli/releases/tag/v0.10.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2025-10-21 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2025-10-21-for-more-information-see-https-github-com-github-copilot-cli-issues-351-issuecom|For more information, see…]]
+- Earlier: 2025-10-22 · Dify · [[Changes/Dify/2025-10-22-improve-explicitly-delete-task-redis-key-on-completion-in-appqueuemanager-by-bla|improve: Explicitly delete task Redis key on completion in AppQueueManager]]
 - Later: 2025-10-22 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2025-10-22-run-npm-install-g-github-copilot-latest-to-update|Run npm install -g @github/copilot@latest to update!]]
 <!-- chronolog:end -->
 

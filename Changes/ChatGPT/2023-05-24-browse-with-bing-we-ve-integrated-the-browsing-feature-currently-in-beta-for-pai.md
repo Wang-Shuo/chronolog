@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 28d5ba69533be85cab1e4ea92aa82e6709985eb8ea0774f81cb09e31f5357ed9
+machine_hash: 3a440e7064c0c11831a6c5efd70b96fd71d7159e6ccaa24f43502e891a2ee8c8
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -86,7 +86,7 @@ type: change
 ## Nearby in Apps and Integrations
 
 - Earlier: 2023-05-17 · Cursor · [[Changes/Cursor/2023-05-17-you-can-pin-custom-extensions-to-your-activity-bar-in-the-top-left|Activity Bar pinning]]
-- Later: 2023-06-09 · Cursor · [[Changes/Cursor/2023-06-09-you-can-now-have-the-ai-read-documentation-on-your-behalf-this-will-improve-it-s|Show the AI documentation]]
+- Later: 2023-05-25 · Dify · [[Changes/Dify/2023-05-25-3-apps-and-integrations-changes-in-0-2-2|3 Apps and Integrations changes in 0.2.2]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

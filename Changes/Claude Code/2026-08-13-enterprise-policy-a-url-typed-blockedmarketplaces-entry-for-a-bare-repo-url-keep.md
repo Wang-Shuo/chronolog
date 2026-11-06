@@ -5,20 +5,20 @@ description: 'Claude Code · 2026-08-13 · Enterprise and Administration: Enterp
   policy: a url-typed `blockedMarketplaces` entry for a bare repo URL keeps blocking
   that…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2024-03-20-admin-improvements-team-admins-can-now-mark-themselves-as-unpaid-users-and-can-s|Admin
-    improvements: Team admins can now mark themselves as unpaid users and can see…]]'
+  first_in_tracked: '[[Changes/Gemini/2023-05-05-access-for-google-workspace-accounts|Access
+    for Google Workspace accounts]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 876
+  lag_days: 1196
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: f52cba7a3df9f3bed4c4b27608fdeabc459a5918df98f124a3354801f07b3846
+machine_hash: 9969ee07705b05fcc1ace10f7ee9cfeda4d3ea75205c960b51a80670c6d30b61
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,8 +45,7 @@ record:
     URL keeps…'
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-08-04-starting-today-for-chatgpt-enterprise-and-education-users-long-pastes-are-handle|Starting
-  today for ChatGPT Enterprise and Education users, long pastes are handled…]]'
+- '[[Changes/Replit/2026-08-07-teams-and-enterprise|Teams and Enterprise]]'
 - '[[Changes/GitHub Copilot CLI/2026-08-10-2-enterprise-and-administration-changes-in-v1-0-79|2
   Enterprise and Administration changes in v1.0.79]]'
 - '[[Changes/ChatGPT/2026-08-13-computer-history-is-an-optional-feature-in-the-chatgpt-macos-app-that-lets-chatg|Computer
@@ -99,7 +98,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2024-03-20 · Cursor · [[Changes/Cursor/2024-03-20-admin-improvements-team-admins-can-now-mark-themselves-as-unpaid-users-and-can-s|Admin improvements: Team admins can now mark themselves as unpaid users and can see…]]
+- Earliest same-theme entry in the tracked set: 2023-05-05 · Gemini · [[Changes/Gemini/2023-05-05-access-for-google-workspace-accounts|Access for Google Workspace accounts]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 3cd8cc6f60b333cea4a124b7bf871b820f34194e78756f045faa354e9fe79287
+machine_hash: dc336760189d5d81ec37fe8b5d5c3c235d1e22cb203ac385c151e4d8b1b0e570
 product: claude-code
 product_name: Claude Code
 record:
@@ -50,10 +50,9 @@ record:
   title: 4 Apps and Integrations changes in v2.1.152
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-05-23-2-apps-and-integrations-changes-in-v1-0-52|2
-  Apps and Integrations changes in v1.0.52]]'
-- '[[Changes/Cline/2026-05-25-add-lg-task-uri-webhook-integration-for-lg-dashboard-flows|Add
-  /lg-task URI webhook integration for LG dashboard flows]]'
+- '[[Changes/ElevenLabs/2026-05-25-sdk-releases|SDK Releases]]'
+- '[[Changes/Lovable/2026-05-25-custom-mcp-servers-available-on-all-plans|Custom MCP
+  servers available on all plans]]'
 - '[[Changes/Codex CLI/2026-05-26-11-apps-and-integrations-changes-in-rust-v0-134-0|11
   Apps and Integrations changes in rust-v0.134.0]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-05-27-v2-1-152-github-329718732-e62ea850|claude-code-2026-05-27-v2-1-152-github-329718732-e62ea850]]'

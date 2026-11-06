@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: ef91ae310c71218f6dd7d190b5edceec664dd0152b0c4248252323474885e17b
+machine_hash: f1cf84fc412509b642f70a4cfb174aae447e74d94071316d538f8a4087102eed
 product: openhands
 product_name: OpenHands
 record:
@@ -82,7 +82,7 @@ Source: https://github.com/OpenHands/OpenHands/releases/tag/0.41.0
 ## Nearby in Apps and Integrations
 
 - Earlier: 2025-06-05 · Cline · [[Changes/Cline/2025-06-05-add-support-for-streamable-mcp-servers|Add support for streamable MCP servers]]
-- Later: 2025-06-10 · Cline · [[Changes/Cline/2025-06-10-add-collapsible-mcp-response-panels-to-keep-conversations-focused-on-the-main-ai|Add collapsible MCP response panels to keep conversations focused on the main AI…]]
+- Later: 2025-06-08 · ElevenLabs · [[Changes/ElevenLabs/2025-06-08-sdks|SDKs]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

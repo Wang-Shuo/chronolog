@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: pricing
-machine_hash: 9d53a3ddca4f093209de362250e5a5c7d0b6020006d02a10c9f6466cda0b66fb
+machine_hash: 270fa2ba1911ac67cd6f96bf406fcdb853e7b5a06ffdc04d67dd0899ac753bf9
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -41,9 +41,9 @@ record:
   title: '#10274 Add credits tooltip @pakrym-oai'
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2025-12-04-persisting-credits-if-new-snapshot-does-not-contain-credit-info-7490-zhao-oai|persisting
-  credits if new snapshot does not contain credit info ♯7490 @zhao-oai]]'
-- '[[Changes/Cursor/2025-12-18-billing-groups|Billing groups]]'
+- '[[Changes/v0/2026-01-27-updated-token-pricing|Updated token pricing]]'
+- '[[Changes/Dify/2026-02-03-refactor-contract-restructure-console-contracts-with-nested-billing-module-by-ly|refactor(contract):
+  restructure console contracts with nested billing module]]'
 - '[[Changes/Claude Code/2026-02-04-removed-misleading-anthropic-api-pricing-from-model-selector-for-third-party-pro|Removed
   misleading Anthropic API pricing from model selector for third-party…]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-02-04-rust-v0-95-0-github-282823276-932b0b6b|codex-cli-2026-02-04-rust-v0-95-0-github-282823276-932b0b6b]]'

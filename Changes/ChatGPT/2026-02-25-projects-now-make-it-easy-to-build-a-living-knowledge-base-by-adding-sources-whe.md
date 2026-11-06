@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: e9a3383fb51fc81df486e043c6545917b4636306debe0ee60f928035e046d2f7
+machine_hash: 5406dcd94202e42b082de029f75e5d2611d293a91082c633a9ce07695868c2d3
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -45,8 +45,8 @@ record:
   title: Projects now make it easy to build a living knowledge base by adding sources…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-02-20-2-context-window-changes-in-v2-1-50|2 Context
-  Window changes in v2.1.50]]'
+- '[[Changes/Ollama/2026-02-21-ollama-s-macos-and-windows-apps-will-now-default-to-a-context-length-based-on-av|Ollama''s
+  macOS and Windows apps will now default to a context length based…]]'
 - '[[Changes/Claude Code/2026-02-24-tool-results-larger-than-50k-characters-are-now-persisted-to-disk-previously-100|Tool
   results larger than 50K characters are now persisted to disk (previously 100K)]]'
 - '[[Changes/ChatGPT/2026-02-25-ad-hoc-text-sources-paste-notes-briefs-or-reference-material-directly-to-capture|Ad-hoc

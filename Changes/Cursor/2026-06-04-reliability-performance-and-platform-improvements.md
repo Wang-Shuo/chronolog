@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 87dcd885cadddaa00b801ba15ba9e3aa17284296a1f9278a198b95e8d31433e7
+machine_hash: 9bfc24f3e6329ec55a7b37dfa9539b825eb5f095e0d68a36c4d953b30e9abcbb
 product: cursor
 product_name: Cursor
 record:
@@ -42,8 +42,8 @@ record:
   title: Reliability, performance, and platform improvements
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-05-29-improved-performance-of-long-and-resumed-conversations-by-eliminating-redundant|Improved
-  performance of long and resumed conversations by eliminating redundant…]]'
+- '[[Changes/Open WebUI/2026-06-01-5-reliability-and-performance-changes-in-v0-9-6|5
+  Reliability and Performance changes in v0.9.6]]'
 - '[[Changes/Claude Code/2026-06-02-improved-auto-mode-classifier-latency-by-reducing-reasoning-on-routine-actions-l|Improved
   auto mode classifier latency by reducing reasoning on routine actions…]]'
 - '[[Changes/Claude Code/2026-06-02-improved-rendering-performance-for-large-file-writes|Improved
@@ -88,7 +88,7 @@ type: change
 ## Nearby in Reliability and Performance
 
 - Earlier: 2026-06-02 · Claude Code · [[Changes/Claude Code/2026-06-02-improved-rendering-performance-for-large-file-writes|Improved rendering performance for large file writes]]
-- Later: 2026-06-09 · Codex CLI · [[Changes/Codex CLI/2026-06-09-26637-codex-speed-up-external-agent-session-imports-stefanstokic-oai|♯26637 codex Speed up external agent session imports @stefanstokic-oai]]
+- Later: 2026-06-05 · Ollama · [[Changes/Ollama/2026-06-05-gemma-4-qat-weights-https-ollama-com-library-gemma4-the-gemma-4-family-is-now-op|Gemma 4 QAT weights((source link)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 47c8d977bcda3dac2499a68d2cb44d4b4de28d30f161a4215bb51ffa74a43e21
+machine_hash: c3efb0388a7cbc27ea23f99762781b777ab1b039ced553787f109de67b3ca112
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -99,7 +99,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.4
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-03-11 · Gemini CLI · [[Changes/Gemini CLI/2026-03-11-4-apps-and-integrations-changes-in-v0-33-0|4 Apps and Integrations changes in v0.33.0]]
-- Later: 2026-03-12 · Claude Code · [[Changes/Claude Code/2026-03-12-changed-plugin-dir-so-local-dev-copies-now-override-installed-marketplace-plugin|Changed --plugin-dir so local dev copies now override installed marketplace…]]
+- Later: 2026-03-11 · v0 · [[Changes/v0/2026-03-11-added-one-click-marketplace-integration-installation-for-ios-app|Added one-click marketplace integration installation for iOS app]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: pricing
-machine_hash: 7798736cbd276144957a1379b1e7d34c007aa464b924c8f533ef1742ecd837c6
+machine_hash: 074cb1d3ef4c3ddcdd640c35b59ee480464af8835553abf0bcd55b16d44b9043
 product: claude-code
 product_name: Claude Code
 record:
@@ -53,11 +53,12 @@ record:
   title: '`/usage` now shows the usage-credits spend row for Team and Enterprise members…'
   type: change
 related_changes:
-- '[[Changes/Windsurf/2026-08-10-devin-cloud|Devin Cloud]]'
-- '[[Changes/Cline/2026-08-11-report-fable-5-cost-on-vertex-as-unknown-rather-than-applying-anthropic-s-list-p|Report
-  Fable 5 cost on Vertex as unknown rather than applying Anthropic''s list…]]'
+- '[[Changes/Lovable/2026-08-17-credit-check-ins-for-long-running-messages-beta|Credit
+  check-ins for long-running messages (beta)]]'
 - '[[Changes/Codex CLI/2026-08-18-38650-canonicalize-default-namespaces-in-grpc-subscription-filters-copyberry|♯38650
   Canonicalize default namespaces in gRPC subscription filters @copyberry]]'
+- '[[Changes/Lovable/2026-08-18-running-out-of-credits-mid-message-now-pauses-your-work|Running
+  out of credits mid-message now pauses your work]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-08-19-v2-1-236-github-373272539-bbbacf79|claude-code-2026-08-19-v2-1-236-github-373272539-bbbacf79]]'
 source_type: github_releases
 theme: pricing-model
@@ -94,7 +95,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Pricing Model
 
-- Earlier: 2026-08-18 · Codex CLI · [[Changes/Codex CLI/2026-08-18-38650-canonicalize-default-namespaces-in-grpc-subscription-filters-copyberry|♯38650 Canonicalize default namespaces in gRPC subscription filters @copyberry]]
+- Earlier: 2026-08-18 · Lovable · [[Changes/Lovable/2026-08-18-running-out-of-credits-mid-message-now-pauses-your-work|Running out of credits mid-message now pauses your work]]
 - Later: 2026-08-20 · Codex CLI · [[Changes/Codex CLI/2026-08-20-39006-emit-api-key-turn-cost-telemetry-from-app-server-copyberry|♯39006 Emit API-key turn cost telemetry from app-server @copyberry]]
 <!-- chronolog:end -->
 

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 92649f4e373770d15e64b424a6c31d0180a0ed542836bf4582fc2e19cd700589
+machine_hash: 2f0e37603e2fe3b23a5861c165e90433d67342d0677648604075e358eecd33f8
 product: claude-code
 product_name: Claude Code
 record:
@@ -91,7 +91,7 @@ type: change
 ## Nearby in Account and Access
 
 - Earlier: 2026-08-12 · Claude Code · [[Changes/Claude Code/2026-08-12-updated-login-to-repeat-the-claude-code-oauth-token-override-warning-after-a-suc|Updated /login to repeat the CLAUDE_CODE_OAUTH_TOKEN override warning after…]]
-- Later: 2026-08-13 · OpenHands · [[Changes/OpenHands/2026-08-13-ci-deps-bump-docker-login-action-from-4-5-2-to-4-6-0-in-the-actions-group-by-dep|ci(deps): bump docker/login-action from 4.5.2 to 4.6.0 in the actions group…]]
+- Later: 2026-08-13 · Lovable · [[Changes/Lovable/2026-08-13-microsoft-sign-in-for-your-app|Microsoft sign-in for your app]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

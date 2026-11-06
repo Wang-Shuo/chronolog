@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 6bc1c716919b185c572b89cbeb4a3ae9242557bad0af8d19e439999997173e9c
+machine_hash: 7dffcd80723de012e10e08ffadc6f25bee5e2c135f782cc64ea8e77d51195ca3
 product: aider
 product_name: Aider
 record:
@@ -54,12 +54,12 @@ record:
   title: Sanity checks the `--editor-model` on launch now, same as main and weak models
   type: change
 related_changes:
-- '[[Changes/Aider/2024-09-21-6-model-support-changes-in-v0-57-0|6 Model Support changes
-  in v0.57.0]]'
-- '[[Changes/OpenHands/2024-09-26-display-full-model-name-in-settings-ui-3900-by-iaavas-in-https-github-com-all-ha|Display
-  full model name in Settings UI (♯3900)]]'
-- '[[Changes/Aider/2024-09-29-6-model-support-changes-in-v0-58-0|6 Model Support changes
-  in v0.58.0]]'
+- '[[Changes/Dify/2024-09-30-36-model-support-changes-in-0-9-0|36 Model Support changes
+  in 0.9.0]]'
+- '[[Changes/Dify/2024-09-30-stream-for-gemini-now-available-aaee86-in-8678-https-github-com-langgenius-dify|Stream
+  for Gemini now available…]]'
+- '[[Changes/Gemini/2024-10-02-gemini-1-5-pro-in-gemini-advanced-just-became-more-capable|Gemini
+  1.5 Pro in Gemini Advanced just became more capable]]'
 source_release: '[[Releases/Aider/aider-2024-10-04-v0-59-0-github-178490526-875f6306|aider-2024-10-04-v0-59-0-github-178490526-875f6306]]'
 source_type: github_releases
 theme: model-support
@@ -89,8 +89,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2024-09-29 · Aider · [[Changes/Aider/2024-09-29-6-model-support-changes-in-v0-58-0|6 Model Support changes in v0.58.0]]
-- Later: 2024-10-09 · Cline · [[Changes/Cline/2024-10-09-4-model-support-changes-in-v2-0-0|4 Model Support changes in v2.0.0]]
+- Earlier: 2024-10-02 · Gemini · [[Changes/Gemini/2024-10-02-gemini-1-5-pro-in-gemini-advanced-just-became-more-capable|Gemini 1.5 Pro in Gemini Advanced just became more capable]]
+- Later: 2024-10-07 · Open WebUI · [[Changes/Open WebUI/2024-10-07-3-model-support-changes-in-v0-3-31|3 Model Support changes in v0.3.31]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

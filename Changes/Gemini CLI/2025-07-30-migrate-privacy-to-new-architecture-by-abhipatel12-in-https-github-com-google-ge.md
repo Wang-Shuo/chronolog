@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: f116693f12b2f0b359afd1bc4c4a456750d785423928b87343c5bacfe17328ab
+machine_hash: 80aa87bb3e2ae2a673d45da81198c209845f907434900b95f8c1e3341c16d656
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -45,8 +45,8 @@ record:
   title: Migrate /privacy to new architecture
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2025-07-19-migrate-privacy-to-new-architecture-by-abhipatel12-in-https-github-com-google-ge|Migrate
-  /privacy to new architecture]]'
+- '[[Changes/Dify/2025-07-23-2-safety-and-privacy-changes-in-1-7-0|2 Safety and Privacy
+  changes in 1.7.0]]'
 - '[[Changes/Gemini CLI/2025-07-25-migrate-privacy-to-new-architecture-by-abhipatel12-in-https-github-com-google-ge|Migrate
   /privacy to new architecture]]'
 - '[[Changes/Cursor/2025-07-29-2-safety-and-privacy-changes-in-1-3|2 Safety and Privacy

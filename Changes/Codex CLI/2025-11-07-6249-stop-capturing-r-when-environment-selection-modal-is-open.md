@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: f5d843d4a510978eb1aff79786b283eb71e7cd6b613b1e81402c5072bb942c55
+machine_hash: 601e3f8d49cdb3fa9a580f8f1ceb42642f15a3d095ad5dd2f667cfbefc6bcc23
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -43,12 +43,12 @@ record:
   title: '#6249 stop capturing r when environment selection modal is open'
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2025-10-29-improve-rendering-of-todo-lists-by-scidomino-in-https-github-com-google-gemini-g|Improve
-  rendering of ToDo lists]]'
 - '[[Changes/Cline/2025-10-31-2-interface-experience-changes-in-v3-35-0|2 Interface
   Experience changes in v3.35.0]]'
 - '[[Changes/Gemini CLI/2025-11-04-change-debug-drawer-keybinding-to-f12-by-scidomino-in-https-github-com-google-ge|Change
   debug drawer keybinding to F12]]'
+- '[[Changes/Open WebUI/2025-11-06-10-interface-experience-changes-in-v0-6-35|10 Interface
+  Experience changes in v0.6.35]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2025-11-07-rust-v0-56-0-github-260721835-230209f8|codex-cli-2025-11-07-rust-v0-56-0-github-260721835-230209f8]]'
 source_type: github_releases
 theme: interface-experience
@@ -82,7 +82,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2025-11-04 · Gemini CLI · [[Changes/Gemini CLI/2025-11-04-change-debug-drawer-keybinding-to-f12-by-scidomino-in-https-github-com-google-ge|Change debug drawer keybinding to F12]]
+- Earlier: 2025-11-06 · Open WebUI · [[Changes/Open WebUI/2025-11-06-10-interface-experience-changes-in-v0-6-35|10 Interface Experience changes in v0.6.35]]
 - Later: 2025-11-07 · Gemini CLI · [[Changes/Gemini CLI/2025-11-07-4-interface-experience-changes-in-v0-13-0|4 Interface Experience changes in v0.13.0]]
 <!-- chronolog:end -->
 

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: search-browsing
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: policy
-machine_hash: 95ae86be5b78e1815d0a13c1f8c3b1c0ae150b624ff72218788f5eac04670457
+machine_hash: b51f5b8ee748cef9365f312f3330c0b6456742371d9a517d301ea618feafab2d
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -43,12 +43,12 @@ record:
     @sayan-oai'
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-01-31-3-search-and-browsing-changes-in-rust-v0-93-0|3
-  Search and Browsing changes in rust-v0.93.0]]'
-- '[[Changes/Codex CLI/2026-02-04-2-search-and-browsing-changes-in-rust-v0-95-0|2
-  Search and Browsing changes in rust-v0.95.0]]'
 - '[[Changes/Codex CLI/2026-02-11-3-search-and-browsing-changes-in-rust-v0-99-0|3
   Search and Browsing changes in rust-v0.99.0]]'
+- '[[Changes/Open WebUI/2026-02-12-5-search-and-browsing-changes-in-v0-8-0|5 Search
+  and Browsing changes in v0.8.0]]'
+- "[[Changes/Open WebUI/2026-02-14-web-search-result-count-the-built-in-search-web-tool-now-respects-the-admin-conf|\U0001F50D
+  Web search result count. The built-in search_web tool now respects…]]"
 source_release: '[[Releases/Codex CLI/codex-cli-2026-02-17-rust-v0-102-0-github-287401154-1bf3dbd0|codex-cli-2026-02-17-rust-v0-102-0-github-287401154-1bf3dbd0]]'
 source_type: github_releases
 theme: search-browsing
@@ -88,8 +88,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Search and Browsing
 
-- Earlier: 2026-02-11 · Codex CLI · [[Changes/Codex CLI/2026-02-11-3-search-and-browsing-changes-in-rust-v0-99-0|3 Search and Browsing changes in rust-v0.99.0]]
-- Later: 2026-02-25 · Gemini CLI · [[Changes/Gemini CLI/2026-02-25-introduce-limits-for-search-results-by-gundermanc-in-https-github-com-google-gem|Introduce limits for search results]]
+- Earlier: 2026-02-14 · Open WebUI · [[Changes/Open WebUI/2026-02-14-web-search-result-count-the-built-in-search-web-tool-now-respects-the-admin-conf|🔍 Web search result count. The built-in search_web tool now respects…]]
+- Later: 2026-02-20 · Replit · [[Changes/Replit/2026-02-20-skills-search|Skills Search]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

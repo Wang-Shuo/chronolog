@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: pricing
-machine_hash: 0a033c155534e9f2017c37199e1f2b86a9fde5661e89f5505a0150d98414fd18
+machine_hash: fa79a251a6247996c44eb63f564b4df8629811ffab87a5ff182b2933512cc8ac
 product: cursor
 product_name: Cursor
 record:
@@ -42,8 +42,7 @@ record:
   title: Usage-based cost visibility
   type: change
 related_changes:
-- '[[Changes/Cline/2024-09-12-openrouter-now-supports-prompt-caching-they-re-still-working-on-reporting-cache|OpenRouter
-  now supports prompt caching!]]'
+- '[[Changes/Replit/2025-03-14-neon-db-history-retention|Neon DB history retention]]'
 - '[[Changes/Cline/2025-03-23-2-pricing-model-changes-in-v3-8-0|2 Pricing Model changes
   in v3.8.0]]'
 - '[[Changes/Cursor/2025-03-23-chat-will-now-display-a-notification-about-usage-based-pricing-when-approaching|Chat

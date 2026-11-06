@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 25552a95021ad77041d22da7f3230bb5833a0e51b400d4ad45fb358b1ec3dfba
+machine_hash: c64eb9e6cd424d05aa07a1c056351fbe5ca73a110df2e629c2cf802a6cefde33
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -87,7 +87,7 @@ type: change
 ## Nearby in Editor Experience
 
 - Earlier: 2026-05-22 · Claude Code · [[Changes/Claude Code/2026-05-22-diff-detail-view-can-now-be-scrolled-with-the-keyboard-arrows-j-k-pgup-pgdn-spac|/diff detail view can now be scrolled with the keyboard…]]
-- Later: 2026-05-23 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-05-23-automatically-prune-old-process-log-files-from-copilot-logs-at-startup-to-preven|Automatically prune old process log files from ~/.copilot/logs/ at startup…]]
+- Later: 2026-05-22 · Replit · [[Changes/Replit/2026-05-22-layout-controls-in-the-visual-editor|Layout controls in the Visual Editor]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

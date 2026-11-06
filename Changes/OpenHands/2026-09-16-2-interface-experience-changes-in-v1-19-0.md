@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 92e5bba4eb62591749003102a377f1e6a76a80eb153bc9d9fc20ed619660151f
+machine_hash: fe71e024259f761c3bbb24576e21adc98834d08d2eee876d78191d7806cfa4e0
 product: openhands
 product_name: OpenHands
 record:
@@ -42,12 +42,12 @@ record:
   title: 2 Interface Experience changes in v1.19.0
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-14-3-interface-experience-changes-in-v2-1-271|3 Interface
-  Experience changes in v2.1.271]]'
 - '[[Changes/Claude Code/2026-09-15-claude-code-on-the-web-improved-the-routine-detail-page-menu-and-rename-in-the-b|Claude
   Code on the web Improved the routine detail page]]'
 - '[[Changes/GitHub Copilot CLI/2026-09-16-3-interface-experience-changes-in-v1-0-85|3
   Interface Experience changes in v1.0.85]]'
+- '[[Changes/Lovable/2026-09-16-updated-chat-actions-menu-in-projects|Updated Chat
+  actions menu in projects]]'
 source_release: '[[Releases/OpenHands/openhands-2026-09-16-v1-19-0-github-390206611-a05af427|openhands-2026-09-16-v1-19-0-github-390206611-a05af427]]'
 source_type: github_releases
 theme: interface-experience
@@ -91,7 +91,7 @@ Source: https://github.com/OpenHands/OpenHands/releases/tag/v1.19.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-09-16 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-09-16-3-interface-experience-changes-in-v1-0-85|3 Interface Experience changes in v1.0.85]]
+- Earlier: 2026-09-16 · Lovable · [[Changes/Lovable/2026-09-16-updated-chat-actions-menu-in-projects|Updated Chat actions menu in projects]]
 - Later: 2026-09-17 · ChatGPT · [[Changes/ChatGPT/2026-09-17-chatgpt-is-now-available-in-microsoft-word-you-can-draft-from-notes-summarize-a-4c7506|ChatGPT for Word]]
 <!-- chronolog:end -->
 

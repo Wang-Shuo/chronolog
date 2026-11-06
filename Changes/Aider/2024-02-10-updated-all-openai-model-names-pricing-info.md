@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: pricing
-machine_hash: b1af42a46445519603bcf65dddb0f4e4118845f5303da84714719ce62dc5513d
+machine_hash: e1c74c15c3cd1bf11582d66ae063078e44dcc87f7d0e93c7e1549ef959d7680f
 product: aider
 product_name: Aider
 record:
@@ -52,12 +52,12 @@ record:
   title: Updated all OpenAI model names, pricing info
   type: change
 related_changes:
-- '[[Changes/Aider/2023-06-26-enables-display-of-cost-info-based-on-openai-advertised-pricing|Enables
-  display of cost info based on OpenAI advertised pricing]]'
-- '[[Changes/Aider/2023-06-26-enables-display-of-cost-info-based-on-openai-advertised-pricing-5f5b32|Enables
-  display of cost info based on OpenAI advertised pricing]]'
-- '[[Changes/Cursor/2023-11-03-pro-plan-if-you-hit-your-fast-request-limit-and-prefer-to-purchase-more-you-now|Pro++
-  plan: if you hit your fast request limit and prefer to purchase more, you now can]]'
+- '[[Changes/Dify/2024-01-02-feat-add-billing-switch-by-garfielddai-in-https-github-com-langgenius-dify-pull|feat:
+  add billing switch]]'
+- '[[Changes/Dify/2024-01-24-chore-enchance-view-billing-text-by-iamjoel-in-https-github-com-langgenius-dify|chore:
+  enchance view billing text]]'
+- '[[Changes/Dify/2024-02-01-3-pricing-model-changes-in-0-5-3|3 Pricing Model changes
+  in 0.5.3]]'
 source_release: '[[Releases/Aider/aider-2024-02-10-v0-24-0-github-141383144-b580d44c|aider-2024-02-10-v0-24-0-github-141383144-b580d44c]]'
 source_type: github_releases
 theme: pricing-model
@@ -87,8 +87,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Pricing Model
 
-- Earlier: 2023-11-03 · Cursor · [[Changes/Cursor/2023-11-03-pro-plan-if-you-hit-your-fast-request-limit-and-prefer-to-purchase-more-you-now|Pro++ plan: if you hit your fast request limit and prefer to purchase more, you now can]]
-- Later: 2024-06-04 · OpenHands · [[Changes/OpenHands/2024-06-04-add-cost-metrics-to-evaluation-outputs-for-all-benchmarks-by-ryanhoangt-in-https|Add cost metrics to evaluation outputs for all benchmarks]]
+- Earlier: 2024-02-01 · Dify · [[Changes/Dify/2024-02-01-3-pricing-model-changes-in-0-5-3|3 Pricing Model changes in 0.5.3]]
+- Later: 2024-04-08 · Dify · [[Changes/Dify/2024-04-08-add-segment-function-billing-check-for-saas-env-by-johnjyong-in-https-github-com|add segment function billing check for SAAS env]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

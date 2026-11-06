@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: pricing
-machine_hash: 03d043de4da1c1e3eca85fddfe91fd64e2d7c4ed52fe2f5acb53ed64f84589c9
+machine_hash: e2d5ada79d7edf27d611369210e61990f16b098db2d8c692c3e97020e2e4e8d0
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -43,10 +43,10 @@ record:
   title: 'Pro ($100/month): Up to 15 hours with GPT-Live-1'
   type: change
 related_changes:
-- '[[Changes/Cline/2026-09-02-cost-estimates-no-longer-appear-in-task-history-for-subscription-billed-tasks-cl|Cost
-  estimates no longer appear in task history for subscription-billed tasks…]]'
 - '[[Changes/Codex CLI/2026-09-03-41944-https-github-com-openai-codex-pull-41944-emit-turn-cost-telemetry-for-chat|♯41944((source
   link) Emit turn cost telemetry…]]'
+- '[[Changes/Lovable/2026-09-07-transfer-primary-ownership-of-your-workspace|Transfer
+  primary ownership of your workspace]]'
 - '[[Changes/ChatGPT/2026-09-09-pro-200-month-unlimited-gpt-live-1-usage|Pro ($200/month):
   Unlimited GPT-Live-1 usage]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-09-09-updated-models-and-usage-limits-in-chatgpt-voice-03e6b03f|chatgpt-2026-09-09-updated-models-and-usage-limits-in-chatgpt-voice-03e6b03f]]'
@@ -78,7 +78,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Pricing Model
 
-- Earlier: 2026-09-03 · Codex CLI · [[Changes/Codex CLI/2026-09-03-41944-https-github-com-openai-codex-pull-41944-emit-turn-cost-telemetry-for-chat|♯41944((source link) Emit turn cost telemetry…]]
+- Earlier: 2026-09-07 · Lovable · [[Changes/Lovable/2026-09-07-transfer-primary-ownership-of-your-workspace|Transfer primary ownership of your workspace]]
 - Later: 2026-09-10 · Claude Code · [[Changes/Claude Code/2026-09-10-2-pricing-model-changes-in-v2-1-268|2 Pricing Model changes in v2.1.268]]
 <!-- chronolog:end -->
 

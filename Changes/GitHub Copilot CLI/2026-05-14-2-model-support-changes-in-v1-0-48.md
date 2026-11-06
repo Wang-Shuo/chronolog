@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: b676eea00fe1c99f722dc3dfbc2c4552e758173a813afab560a7b3b548bfb7e5
+machine_hash: aaafc540c4bdb0e93b8369b9dc8ee7994a46eed6d129b10afc259f17e27d7a61
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -43,10 +43,10 @@ record:
   title: 2 Model Support changes in v1.0.48
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-05-12-display-a-warning-when-the-cli-version-is-deprecated-and-premium-model-access-ma|Display
-  a warning when the CLI version is deprecated and premium model access may be lost]]'
 - '[[Changes/Cline/2026-05-13-enable-openrouter-prompt-cache-control-for-qwen-models|Enable
   OpenRouter prompt cache control for Qwen models]]'
+- '[[Changes/Ollama/2026-05-13-nomic-embed-text-now-converts-inputs-to-lowercase-per-the-model-card-where-prior|nomic-embed-text
+  now converts inputs to lowercase per the model card where prior…]]'
 - '[[Changes/Claude Code/2026-05-14-2-model-support-changes-in-v2-1-142|2 Model Support
   changes in v2.1.142]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-05-14-v1-0-48-github-322570462-ca4cae52|github-copilot-cli-2026-05-14-v1-0-48-github-322570462-ca4cae52]]'

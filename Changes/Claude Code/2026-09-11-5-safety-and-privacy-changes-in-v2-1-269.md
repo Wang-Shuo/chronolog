@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: db4ef67514a1821381ffa0371b1e2933b8c52d82e6b3f66c1a533dce68ac2b49
+machine_hash: 81f52cc5ef1c76fbf5509dd94b751e1ad67627bbb34188f399296a69a3b516ea
 product: claude-code
 product_name: Claude Code
 record:
@@ -57,10 +57,10 @@ record:
   title: 5 Safety and Privacy changes in v2.1.269
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-09-09-25-safety-and-privacy-changes-in-rust-v0-154-0|25
-  Safety and Privacy changes in rust-v0.154.0]]'
 - '[[Changes/Claude Code/2026-09-10-8-safety-and-privacy-changes-in-v2-1-268|8 Safety
   and Privacy changes in v2.1.268]]'
+- '[[Changes/Dify/2026-09-10-16-safety-and-privacy-changes-in-1-17-1|16 Safety and
+  Privacy changes in 1.17.1]]'
 - '[[Changes/Windsurf/2026-09-10-devin-cloud|Devin Cloud]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-11-v2-1-269-github-387243742-288e9189|claude-code-2026-09-11-v2-1-269-github-387243742-288e9189]]'
 source_type: github_releases

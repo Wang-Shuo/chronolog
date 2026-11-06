@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: a90509a147ae1ed8015e179f8d9b88488b812999a1079c03cce700a7bce74623
+machine_hash: bd2c84f1b902c5a4058120536eb5928c816b9d619273a7bdd82a0473c5f5f456
 product: aider
 product_name: Aider
 record:
@@ -39,12 +39,12 @@ record:
   title: Simplified output of `--models`
   type: change
 related_changes:
-- '[[Changes/Aider/2024-07-01-4-model-support-changes-in-v0-41-0|4 Model Support changes
-  in v0.41.0]]'
-- '[[Changes/OpenHands/2024-07-05-3-model-support-changes-in-0-7-1|3 Model Support
-  changes in 0.7.1]]'
 - '[[Changes/Aider/2024-07-07-2-model-support-changes-in-v0-43-0|2 Model Support changes
   in v0.43.0]]'
+- '[[Changes/Dify/2024-07-08-4-model-support-changes-in-0-6-13|4 Model Support changes
+  in 0.6.13]]'
+- '[[Changes/Dify/2024-07-15-update-model-provider-configuration-for-triton-inference-server-and-x-by-benjami|Update
+  model provider configuration for Triton Inference Server and X…]]'
 source_release: '[[Releases/Aider/aider-2024-07-16-v0-44-0-github-165669366-b5564367|aider-2024-07-16-v0-44-0-github-165669366-b5564367]]'
 source_type: github_releases
 theme: model-support
@@ -73,8 +73,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2024-07-07 · Aider · [[Changes/Aider/2024-07-07-2-model-support-changes-in-v0-43-0|2 Model Support changes in v0.43.0]]
-- Later: 2024-07-18 · Aider · [[Changes/Aider/2024-07-18-gpt-4o-mini-scores-like-the-original-gpt-3-5-on-aider-s-code-editing-benchmark-u|GPT 4o mini scores like the original GPT 3.5 on aider's code editing benchmark…]]
+- Earlier: 2024-07-15 · Dify · [[Changes/Dify/2024-07-15-update-model-provider-configuration-for-triton-inference-server-and-x-by-benjami|Update model provider configuration for Triton Inference Server and X…]]
+- Later: 2024-07-17 · Open WebUI · [[Changes/Open WebUI/2024-07-17-2-model-support-changes-in-v0-3-9|2 Model Support changes in v0.3.9]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

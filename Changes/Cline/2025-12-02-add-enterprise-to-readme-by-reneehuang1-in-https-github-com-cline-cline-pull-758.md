@@ -4,20 +4,20 @@ date: '2025-12-02'
 description: 'Cline · 2025-12-02 · Enterprise and Administration: add enterprise to
   readme by @reneehuang1 in https://github.com/cline/cline/pull/7589'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2024-03-20-admin-improvements-team-admins-can-now-mark-themselves-as-unpaid-users-and-can-s|Admin
-    improvements: Team admins can now mark themselves as unpaid users and can see…]]'
+  first_in_tracked: '[[Changes/Gemini/2023-05-05-access-for-google-workspace-accounts|Access
+    for Google Workspace accounts]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 622
+  lag_days: 942
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 38d3854d931e8b43cfadc96d5178347687b413d053fc46ae4b48c698568fdf76
+machine_hash: 75a9dcd7e22cbe7315466196a812886cdebe41a25d8953dfa03f222cd96cc759
 product: cline
 product_name: Cline
 record:
@@ -40,10 +40,9 @@ record:
   title: add enterprise to readme
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-10-29-sandboxed-terminals-admin-controls|Sandboxed Terminals:
-  Admin Controls]]'
-- '[[Changes/Cursor/2025-11-21-3-enterprise-and-administration-changes-in-2-1|3 Enterprise
-  and Administration changes in 2.1]]'
+- '[[Changes/Replit/2025-11-21-teams-and-enterprise|Teams and Enterprise]]'
+- '[[Changes/Open WebUI/2025-11-24-looking-for-an-enterprise-plan-https-docs-openwebui-com-enterprise-speak-with-ou|
+  Looking for an Enterprise Plan((source link)]]'
 - '[[Changes/Cline/2025-11-27-creates-and-refactor-enterprise-docs-by-juanpflores-in-https-github-com-cline-cl|Creates
   and Refactor Enterprise Docs]]'
 source_release: '[[Releases/Cline/cline-2025-12-02-v3-39-0-github-266733488-92b66311|cline-2025-12-02-v3-39-0-github-266733488-92b66311]]'
@@ -80,13 +79,13 @@ type: change
 ## Nearby in Enterprise and Administration
 
 - Earlier: 2025-11-27 · Cline · [[Changes/Cline/2025-11-27-creates-and-refactor-enterprise-docs-by-juanpflores-in-https-github-com-cline-cl|Creates and Refactor Enterprise Docs]]
-- Later: 2025-12-11 · Cline · [[Changes/Cline/2025-12-11-enterprise-docs-by-jl-codes-in-https-github-com-cline-cline-pull-7714|Enterprise docs]]
+- Later: 2025-12-02 · Open WebUI · [[Changes/Open WebUI/2025-12-02-2-enterprise-and-administration-changes-in-v0-6-41|2 Enterprise and Administration changes in v0.6.41]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2024-03-20 · Cursor · [[Changes/Cursor/2024-03-20-admin-improvements-team-admins-can-now-mark-themselves-as-unpaid-users-and-can-s|Admin improvements: Team admins can now mark themselves as unpaid users and can see…]]
+- Earliest same-theme entry in the tracked set: 2023-05-05 · Gemini · [[Changes/Gemini/2023-05-05-access-for-google-workspace-accounts|Access for Google Workspace accounts]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

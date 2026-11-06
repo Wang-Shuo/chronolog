@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 6997dde11fa715b1df9ad6f7a6433ea923cad3abf510ba75f0e1291e5a5357e9
+machine_hash: 1bbaa0230f3bfe5c2ba0a864d703a6a4d21efac7cd49352c1255d3103088cbaf
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -84,7 +84,7 @@ type: change
 ## Nearby in Mobile and Desktop
 
 - Earlier: 2026-08-13 · Windsurf · [[Changes/Windsurf/2026-08-13-devin-desktop|Devin Desktop]]
-- Later: 2026-08-18 · Codex CLI · [[Changes/Codex CLI/2026-08-18-3-mobile-and-desktop-changes-in-rust-v0-148-0|3 Mobile and Desktop changes in rust-v0.148.0]]
+- Later: 2026-08-16 · Lovable · [[Changes/Lovable/2026-08-16-attach-a-figma-file-in-chat|Attach a Figma file in chat]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

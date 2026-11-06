@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: e952c949c8459c10b8a52af63eba3d9919350148b84db783a6713827141ccae2
+machine_hash: 4da07e8d01950b1c54e46effceab104fc8929b2e8257e07024e9da75bd910734
 product: cursor
 product_name: Cursor
 record:
@@ -43,11 +43,12 @@ record:
   title: Drag images into the Command-K prompt bar!
   type: change
 related_changes:
-- '[[Changes/Cursor/2023-11-27-copilot-improvements-we-ve-spent-some-time-improving-the-latency-of-copilot-and|Copilot++
-  Improvements: We''ve spent some time improving the latency…]]'
-- '[[Changes/Cursor/2023-12-06-minor-onboarding-changes-19f3e5|Onboarding & Feedback]]'
 - '[[Changes/Cursor/2023-12-16-previews-we-made-it-easier-to-see-what-codeblock-you-re-ing|@
   previews: We made it easier to see what codeblock you''re @''ing]]'
+- '[[Changes/Dify/2024-01-12-feat-app-sidebar-support-collapse-by-zxhlyh-in-https-github-com-langgenius-dify|feat:
+  app sidebar support collapse]]'
+- '[[Changes/Dify/2024-01-24-for-ease-of-use-tools-has-been-relocated-to-the-main-product-menu-centralizing-c|For
+  ease of use, "Tools" has been relocated to the main product menu, centralizing…]]'
 source_release: '[[Releases/Cursor/cursor-2024-02-02-0-25-x-https-cursor-com-changelog-0-25-x-29976ab7|cursor-2024-02-02-0-25-x-https-cursor-com-changelog-0-25-x-29976ab7]]'
 source_type: cursor_changelog
 theme: interface-experience
@@ -78,8 +79,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2023-12-16 · Cursor · [[Changes/Cursor/2023-12-16-previews-we-made-it-easier-to-see-what-codeblock-you-re-ing|@ previews: We made it easier to see what codeblock you're @'ing]]
-- Later: 2024-02-09 · Cursor · [[Changes/Cursor/2024-02-09-smoother-onboarding-fix-windows-settings-import-option-to-import-folder-window-s|Smoother onboarding (fix Windows settings import, option to import folder/window state)]]
+- Earlier: 2024-01-24 · Dify · [[Changes/Dify/2024-01-24-for-ease-of-use-tools-has-been-relocated-to-the-main-product-menu-centralizing-c|For ease of use, "Tools" has been relocated to the main product menu, centralizing…]]
+- Later: 2024-02-08 · Gemini · [[Changes/Gemini/2024-02-08-bard-is-now-gemini|Bard is now Gemini]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

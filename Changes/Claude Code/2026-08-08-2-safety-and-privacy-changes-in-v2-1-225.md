@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: ca749fc40b6a0cc0caeef7cdfb73a1b9eec7bfe0e150c3e4665d107106cad1ef
+machine_hash: e48ebaca9202dcb246c3f0f12f4912b080cba0265d61037bae3d1e9294ff6397
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,12 +45,12 @@ record:
   title: 2 Safety and Privacy changes in v2.1.225
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-08-06-3-safety-and-privacy-changes-in-v2-1-223|3 Safety
-  and Privacy changes in v2.1.223]]'
-- '[[Changes/Claude Code/2026-08-07-2-safety-and-privacy-changes-in-v2-1-224|2 Safety
-  and Privacy changes in v2.1.224]]'
 - '[[Changes/Codex CLI/2026-08-07-9-safety-and-privacy-changes-in-rust-v0-147-0|9
   Safety and Privacy changes in rust-v0.147.0]]'
+- '[[Changes/Lovable/2026-08-07-trust-center-for-your-published-app|Trust Center for
+  your published app]]'
+- '[[Changes/Replit/2026-08-07-security-scan-while-you-build|Security scan while you
+  build]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-08-08-v2-1-225-github-367046190-ccb40049|claude-code-2026-08-08-v2-1-225-github-367046190-ccb40049]]'
 source_type: github_releases
 theme: safety-privacy
@@ -85,7 +85,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.225
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Safety and Privacy
 
-- Earlier: 2026-08-07 · Codex CLI · [[Changes/Codex CLI/2026-08-07-9-safety-and-privacy-changes-in-rust-v0-147-0|9 Safety and Privacy changes in rust-v0.147.0]]
+- Earlier: 2026-08-07 · Replit · [[Changes/Replit/2026-08-07-security-scan-while-you-build|Security scan while you build]]
 - Later: 2026-08-09 · Cline · [[Changes/Cline/2026-08-09-never-run-a-foreign-compiled-plugin-sandbox-bootstrap-for-a-source-host|Never run a foreign compiled plugin-sandbox bootstrap for a source host]]
 <!-- chronolog:end -->
 

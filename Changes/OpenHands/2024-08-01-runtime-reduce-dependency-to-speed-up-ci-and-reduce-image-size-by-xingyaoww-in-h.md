@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 7da61399ea4c54d50bf323c89fbe429eac4677875ce5abb95aa3033315070539
+machine_hash: 33314168fe457d41bae15c2367d50a599aa94335ec1b7dd1e39eb05a75e4c012
 product: openhands
 product_name: OpenHands
 record:
@@ -42,10 +42,10 @@ record:
   title: '[Runtime] Reduce dependency to speed up CI and reduce image size'
   type: change
 related_changes:
-- '[[Changes/Aider/2024-07-04-3-reliability-and-performance-changes-in-v0-42-0|3 Reliability
-  and Performance changes in v0.42.0]]'
 - '[[Changes/Cursor/2024-07-23-copilot-now-has-chunked-streaming-currently-in-beta-it-will-surface-edits-faster|Copilot++
   now has chunked streaming (currently in Beta)!]]'
+- '[[Changes/Ollama/2024-07-30-performance-and-reliability-improvements-when-downloading-models-using-ollama-pu|Performance
+  and reliability improvements when downloading models using ollama pull]]'
 - '[[Changes/Aider/2024-07-31-improved-performance-of-lint-on-all-dirty-files-in-repo|Improved
   performance of --lint on all dirty files in repo]]'
 source_release: '[[Releases/OpenHands/openhands-2024-08-01-0-8-3-github-168304067-dfbe22ff|openhands-2024-08-01-0-8-3-github-168304067-dfbe22ff]]'

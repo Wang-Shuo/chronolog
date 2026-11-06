@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 7e37210861e64c40154fded2e40be500aa6be3bc47ff950b93e1e38d26ed7a4e
+machine_hash: 8fa0fe5039e56571326e3e37340a87c252086fe9205ea4ec73515ae081e9af30
 product: claude-code
 product_name: Claude Code
 record:
@@ -54,12 +54,12 @@ record:
     after…
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-04-22-we-re-launching-chatgpt-for-clinicians-a-free-version-of-chatgpt-for-verified-cl|ChatGPT
-  for Clinicians]]'
 - '[[Changes/Gemini CLI/2026-04-23-docs-correct-documentation-for-enforced-authentication-type-by-cocosheng-g-in-ht|docs:
   correct documentation for enforced authentication type]]'
 - '[[Changes/GitHub Copilot CLI/2026-04-23-2-account-and-access-changes-in-v1-0-35|2
   Account and Access changes in v1.0.35]]'
+- '[[Changes/Open WebUI/2026-04-24-3-account-and-access-changes-in-v0-9-2|3 Account
+  and Access changes in v0.9.2]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-04-28-v2-1-122-github-314740479-0cc42196|claude-code-2026-04-28-v2-1-122-github-314740479-0cc42196]]'
 source_type: github_releases
 theme: account-access
@@ -91,7 +91,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Account and Access
 
-- Earlier: 2026-04-23 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-04-23-2-account-and-access-changes-in-v1-0-35|2 Account and Access changes in v1.0.35]]
+- Earlier: 2026-04-24 · Open WebUI · [[Changes/Open WebUI/2026-04-24-3-account-and-access-changes-in-v0-9-2|3 Account and Access changes in v0.9.2]]
 - Later: 2026-04-28 · Gemini CLI · [[Changes/Gemini CLI/2026-04-28-docs-migrate-installation-and-authentication-to-mdx-with-tabbed-layouts-by-g-sam|docs: migrate installation and authentication to mdx with tabbed layouts]]
 <!-- chronolog:end -->
 

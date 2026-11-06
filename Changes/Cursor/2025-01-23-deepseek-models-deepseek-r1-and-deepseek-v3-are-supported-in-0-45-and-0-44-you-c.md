@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: a84691941103626a66a5c3d29c5e0a12fd5c4f1d43f694b78fc49fb6f372d709
+machine_hash: 957d15ada6109d3510ac66f9aaad79baf046ab190ffcb5a4bdfb34832dee3af2
 product: cursor
 product_name: Cursor
 record:
@@ -45,10 +45,10 @@ record:
   title: 'Deepseek models: Deepseek R1 and Deepseek v3 are supported in 0.45 and 0.44'
   type: change
 related_changes:
-- '[[Changes/Aider/2025-01-20-4-model-support-changes-in-v0-72-0|4 Model Support changes
-  in v0.72.0]]'
-- '[[Changes/Cline/2025-01-21-add-vs-code-lm-api-provider-to-run-models-provided-by-other-vs-code-extensions-e|Add
-  VS Code LM API provider to run models provided by other VS Code extensions…]]'
+- '[[Changes/Open WebUI/2025-01-22-2-model-support-changes-in-v0-5-6|2 Model Support
+  changes in v0.5.6]]'
+- '[[Changes/Open WebUI/2025-01-22-2-model-support-changes-in-v0-5-5|2 Model Support
+  changes in v0.5.5]]'
 - '[[Changes/OpenHands/2025-01-22-2-model-support-changes-in-0-21-0|2 Model Support
   changes in 0.21.0]]'
 source_release: '[[Releases/Cursor/cursor-2025-01-23-0-45-x-https-cursor-com-changelog-0-45-x-c162d228|cursor-2025-01-23-0-45-x-https-cursor-com-changelog-0-45-x-c162d228]]'
@@ -87,7 +87,7 @@ type: change
 ## Nearby in Model Support
 
 - Earlier: 2025-01-22 · OpenHands · [[Changes/OpenHands/2025-01-22-2-model-support-changes-in-0-21-0|2 Model Support changes in 0.21.0]]
-- Later: 2025-01-30 · Cline · [[Changes/Cline/2025-01-30-save-last-used-api-model-when-switching-between-plan-and-act-for-users-that-like|Save last used API/model when switching between Plan and Act, for users that like…]]
+- Later: 2025-01-23 · Open WebUI · [[Changes/Open WebUI/2025-01-23-2-model-support-changes-in-v0-5-7|2 Model Support changes in v0.5.7]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

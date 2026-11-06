@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 048fc940de3eba728fc96dba7faee958d5ac2a9bcadc073b0289d87bf6353cc9
+machine_hash: f400645a94ea9d6fcd87bbafedd33215e47187b5822bacddd5fb278ebf00e5fe
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -46,12 +46,12 @@ record:
     don't have…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-01-09-2-safety-and-privacy-changes-in-v2-1-3|2 Safety
-  and Privacy changes in v2.1.3]]'
-- '[[Changes/Codex CLI/2026-01-09-2-safety-and-privacy-changes-in-rust-v0-80-0|2 Safety
-  and Privacy changes in rust-v0.80.0]]'
+- '[[Changes/Open WebUI/2026-01-09-6-safety-and-privacy-changes-in-v0-7-0|6 Safety
+  and Privacy changes in v0.7.0]]'
 - '[[Changes/Claude Code/2026-01-13-fixed-permission-bypass-via-shell-line-continuation-that-could-allow-blocked-com|Fixed
   permission bypass via shell line continuation that could allow blocked…]]'
+- '[[Changes/Dify/2026-01-13-5-safety-and-privacy-changes-in-1-11-3|5 Safety and Privacy
+  changes in 1.11.3]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-01-13-v0-0-380-github-276209240-1033f81a|github-copilot-cli-2026-01-13-v0-0-380-github-276209240-1033f81a]]'
 source_type: github_releases
 theme: safety-privacy
@@ -87,7 +87,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Safety and Privacy
 
-- Earlier: 2026-01-13 · Claude Code · [[Changes/Claude Code/2026-01-13-fixed-permission-bypass-via-shell-line-continuation-that-could-allow-blocked-com|Fixed permission bypass via shell line continuation that could allow blocked…]]
+- Earlier: 2026-01-13 · Dify · [[Changes/Dify/2026-01-13-5-safety-and-privacy-changes-in-1-11-3|5 Safety and Privacy changes in 1.11.3]]
 - Later: 2026-01-14 · Claude Code · [[Changes/Claude Code/2026-01-14-2-safety-and-privacy-changes-in-v2-1-7|2 Safety and Privacy changes in v2.1.7]]
 <!-- chronolog:end -->
 

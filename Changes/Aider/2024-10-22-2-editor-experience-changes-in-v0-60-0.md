@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 01ce769ed27f51ffbe555e2eba85f867a35a944fabdb6f83a791cf9ac41dc266
+machine_hash: 29a80ac0443111bc1cc2c43fed98277cf2aca54ad3e86543d7a56145cb31732a
 product: aider
 product_name: Aider
 record:
@@ -42,12 +42,12 @@ record:
   title: 2 Editor Experience changes in v0.60.0
   type: change
 related_changes:
-- '[[Changes/Aider/2024-09-29-3-editor-experience-changes-in-v0-58-0|3 Editor Experience
-  changes in v0.58.0]]'
 - '[[Changes/Cline/2024-10-09-no-more-staring-at-loading-spinners-responses-are-now-streamed-into-the-editor-a|No
   more staring at loading spinners: Responses are now streamed into the editor…]]'
 - '[[Changes/Cursor/2024-10-09-vs-code-1-93-1-cursor-is-now-based-on-vs-code-1-93-1-c087f6|VS
   Code 1.93.1: Cursor is now based on VS Code 1.93.1]]'
+- '[[Changes/Dify/2024-10-14-prompt-editor-optimization-clearer-and-more-efficient-prompt-editing-with-reset|Prompt
+  Editor Optimization: Clearer and more efficient prompt editing with reset…]]'
 source_release: '[[Releases/Aider/aider-2024-10-22-v0-60-0-github-181319954-34f01211|aider-2024-10-22-v0-60-0-github-181319954-34f01211]]'
 source_type: github_releases
 theme: editor-experience
@@ -81,7 +81,7 @@ Source: https://github.com/Aider-AI/aider/releases/tag/v0.60.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2024-10-09 · Cursor · [[Changes/Cursor/2024-10-09-vs-code-1-93-1-cursor-is-now-based-on-vs-code-1-93-1-c087f6|VS Code 1.93.1: Cursor is now based on VS Code 1.93.1]]
+- Earlier: 2024-10-14 · Dify · [[Changes/Dify/2024-10-14-prompt-editor-optimization-clearer-and-more-efficient-prompt-editing-with-reset|Prompt Editor Optimization: Clearer and more efficient prompt editing with reset…]]
 - Later: 2024-11-04 · Aider · [[Changes/Aider/2024-11-04-run-aider-apply-clipboard-edits-file-to-edit-js|Run aider --apply-clipboard-edits file-to-edit.js]]
 <!-- chronolog:end -->
 

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 20fa766315b344a1af53d17d4b57bc6a97613266c65634bbf59fba268d593569
+machine_hash: 9e6b495e2038afe795d36e509e829d6f00717d4760f8d42c6a51d2e3fad68bf0
 product: windsurf
 product_name: Windsurf
 record:
@@ -47,12 +47,12 @@ record:
   title: Gemini 3 Pro Preview
   type: change
 related_changes:
-- '[[Changes/Cline/2025-11-18-6-model-support-changes-in-v3-38-0|6 Model Support changes
-  in v3.38.0]]'
 - "[[Changes/Gemini CLI/2025-11-18-feat-launch-gemini-3-in-gemini-cli-by-skeshive-in-https-github-com-google-gemini|feat:
   launch Gemini 3 in Gemini CLI \U0001F680\U0001F680\U0001F680]]"
 - '[[Changes/GitHub Copilot CLI/2025-11-18-gemini-3-pro-is-now-available-in-github-copilot-cli|Gemini
   3 Pro is now available in GitHub Copilot CLI]]'
+- '[[Changes/v0/2025-11-18-all-users-can-now-try-v0-with-gemini-3-pro-preview-for-one-week|Gemini
+  3 Pro Preview]]'
 source_release: '[[Releases/Windsurf/windsurf-2025-11-18-v1-12-33-b10e8669|windsurf-2025-11-18-v1-12-33-b10e8669]]'
 source_type: windsurf_changelog
 theme: model-support
@@ -80,7 +80,7 @@ type: change
 ## Nearby in Model Support
 
 - Earlier: 2025-11-18 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2025-11-18-gemini-3-pro-is-now-available-in-github-copilot-cli|Gemini 3 Pro is now available in GitHub Copilot CLI]]
-- Later: 2025-11-19 · ChatGPT · [[Changes/ChatGPT/2025-11-19-today-we-re-updating-gpt-5-pro-to-gpt-5-1-pro-in-early-testing-users-consistentl-191826|GPT-5.1 Pro: Clearer, more capable answers for complex work]]
+- Later: 2025-11-18 · v0 · [[Changes/v0/2025-11-18-all-users-can-now-try-v0-with-gemini-3-pro-preview-for-one-week|Gemini 3 Pro Preview]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

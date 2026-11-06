@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: af10c62ebbc97079463b8fc1ecc0cbc2688c78eaf01df95ebf76894fc9ef54db
+machine_hash: afaa8eeae43b0197a816e19073fdc7e73934738383662375da0d2ddab5b57092
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -45,8 +45,7 @@ record:
     working…'
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2025-11-04-2-mobile-and-desktop-changes-in-v0-12-0|2 Mobile
-  and Desktop changes in v0.12.0]]'
+- '[[Changes/ElevenLabs/2025-11-12-android-sdk|Android SDK]]'
 - '[[Changes/GitHub Copilot CLI/2025-11-12-ensure-commands-on-windows-use-powershell-when-available-fixes-https-github-com|Ensure
   ! commands on Windows use PowerShell when available…]]'
 - '[[Changes/ChatGPT/2025-11-13-we-re-piloting-group-chats-so-you-can-bring-people-and-chatgpt-into-the-same-con-21fa05|Group

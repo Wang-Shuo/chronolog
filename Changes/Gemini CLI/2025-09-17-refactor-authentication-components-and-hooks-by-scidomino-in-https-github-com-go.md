@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 9eb685b121298dfdcdc5055d849c10de70fded76de476db1310e09ba71cee23d
+machine_hash: 0b03c1c41cc43c217b38a708c94ecc1aabc0b418480e8e2ef0cfd0d5a3c1d391
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -41,12 +41,11 @@ record:
   title: Refactor Authentication Components and Hooks
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2025-09-08-3217-added-logic-to-cancel-pending-oauth-login-to-free-up-localhost-port|♯3217
-  Added logic to cancel pending oauth login to free up localhost port]]'
-- '[[Changes/Gemini CLI/2025-09-09-feat-oauth-create-hybrid-storage-class-by-shishu314-in-https-github-com-google-g|feat(oauth)
-  - Create hybrid storage class]]'
+- '[[Changes/Open WebUI/2025-09-09-6-account-and-access-changes-in-v0-6-27|6 Account
+  and Access changes in v0.6.27]]'
 - '[[Changes/Codex CLI/2025-09-15-6-account-and-access-changes-in-rust-v0-36-0|6 Account
   and Access changes in rust-v0.36.0]]'
+- '[[Changes/ElevenLabs/2025-09-15-python-sdk|Python SDK]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2025-09-17-v0-5-3-github-248106224-41cde85c|gemini-cli-2025-09-17-v0-5-3-github-248106224-41cde85c]]'
 source_type: github_releases
 theme: account-access
@@ -81,8 +80,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Account and Access
 
-- Earlier: 2025-09-15 · Codex CLI · [[Changes/Codex CLI/2025-09-15-6-account-and-access-changes-in-rust-v0-36-0|6 Account and Access changes in rust-v0.36.0]]
-- Later: 2025-09-29 · Cursor · [[Changes/Cursor/2025-09-29-1-7-41-token-sync-improvements-for-authentication|1.7.41: Token sync improvements for authentication]]
+- Earlier: 2025-09-15 · ElevenLabs · [[Changes/ElevenLabs/2025-09-15-python-sdk|Python SDK]]
+- Later: 2025-09-17 · Open WebUI · [[Changes/Open WebUI/2025-09-17-oauth-token-retrieval-logic-was-refactored-improving-the-reliability-and-consist|🔒 OAuth token retrieval logic was refactored, improving the reliability…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

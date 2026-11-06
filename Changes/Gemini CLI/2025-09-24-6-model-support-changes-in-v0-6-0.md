@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 235f1497044f8d1a8dc56a6eaeee01a1181c489495f16ad05fd9b9912dab640d
+machine_hash: 82a2874e5a80be051df6f3c0605058adba252be30702e67120c9d239c83f57d9
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -56,8 +56,8 @@ record:
   title: 6 Model Support changes in v0.6.0
   type: change
 related_changes:
-- '[[Changes/Cline/2025-09-19-add-code-supernova-stealth-model-by-saoudrizwan-in-https-github-com-cline-cline|Add
-  code-supernova stealth model]]'
+- '[[Changes/Dify/2025-09-22-5-model-support-changes-in-1-9-0|5 Model Support changes
+  in 1.9.0]]'
 - '[[Changes/Codex CLI/2025-09-23-2-model-support-changes-in-rust-v0-40-0|2 Model
   Support changes in rust-v0.40.0]]'
 - '[[Changes/Windsurf/2025-09-23-gpt-5-codex-is-now-in-windsurf|GPT-5-Codex is now
@@ -110,7 +110,7 @@ Source: https://github.com/google-gemini/gemini-cli/releases/tag/v0.6.0
 ## Nearby in Model Support
 
 - Earlier: 2025-09-23 · Windsurf · [[Changes/Windsurf/2025-09-23-gpt-5-codex-is-now-in-windsurf|GPT-5-Codex is now in Windsurf!]]
-- Later: 2025-09-25 · Cline · [[Changes/Cline/2025-09-25-refactor-append-stealth-models-on-readopenroutermodels-refreshopenroutermodels-b|refactor: append stealth models on readOpenRouterModels & refreshOpenRouterModels]]
+- Later: 2025-09-24 · Ollama · [[Changes/Ollama/2025-09-24-models-with-qwen3-s-architecture-including-moe-now-run-in-ollama-s-new-engine|Models with Qwen3's architecture including MoE now run in Ollama's new engine]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

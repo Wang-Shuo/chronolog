@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 587a91ef697341ab43775373b1b784963456ff3b384b47a42224264c91858f8c
+machine_hash: c09fb619bf0e082c6ddca653a5ece386a310d934fadc9deadfa0372f5a992873
 product: cline
 product_name: Cline
 record:
@@ -45,12 +45,11 @@ record:
   title: Add improved onboarding experience for new users with guided setup
   type: change
 related_changes:
-- '[[Changes/Cline/2025-05-21-add-keyboard-shortcut-cmd-to-quickly-focus-cline-from-anywhere-in-vs-code|Add
-  keyboard shortcut (Cmd+'') to quickly focus Cline from anywhere in VS Code]]'
-- '[[Changes/Cline/2025-05-21-add-keyboard-shortcut-cmd-to-quickly-focus-cline-from-anywhere-in-vs-code-d699eb|Add
-  keyboard shortcut (Cmd+'') to quickly focus Cline from anywhere in VS Code]]'
-- '[[Changes/Cline/2025-05-22-2-interface-experience-changes-in-v3-17-0|2 Interface
-  Experience changes in v3.17.0]]'
+- '[[Changes/Lovable/2025-05-24-improvements|Improvements]]'
+- '[[Changes/Open WebUI/2025-05-26-2-interface-experience-changes-in-v0-6-11|2 Interface
+  Experience changes in v0.6.11]]'
+- '[[Changes/Dify/2025-05-27-feat-workflow-add-variable-node-jump-navigation-and-persist-node-dimensions-posi|feat(workflow):
+  Add variable node jump navigation and persist node dimensions/position]]'
 source_release: '[[Releases/Cline/cline-2025-05-28-v3-17-6-github-221411446-d46f957a|cline-2025-05-28-v3-17-6-github-221411446-d46f957a]]'
 source_type: github_releases
 theme: interface-experience
@@ -82,8 +81,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2025-05-22 · Cline · [[Changes/Cline/2025-05-22-2-interface-experience-changes-in-v3-17-0|2 Interface Experience changes in v3.17.0]]
-- Later: 2025-06-03 · ChatGPT · [[Changes/ChatGPT/2025-06-03-memory-improvements-are-starting-to-roll-out-to-free-users-in-addition-to-the-sa-a02494|Memory improvements are starting to roll out to Free users]]
+- Earlier: 2025-05-27 · Dify · [[Changes/Dify/2025-05-27-feat-workflow-add-variable-node-jump-navigation-and-persist-node-dimensions-posi|feat(workflow): Add variable node jump navigation and persist node dimensions/position]]
+- Later: 2025-05-29 · Open WebUI · [[Changes/Open WebUI/2025-05-29-localization-upgrades-experience-highly-improved-user-interface-translations-and|🌏 Localization Upgrades]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

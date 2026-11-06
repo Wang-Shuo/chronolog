@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: dbf59ef4d3f4ce71c1bf769e95c1d13b594a777cd80a5fcd165409aac9ba31fb
+machine_hash: 037597201eb5f3bdd2c1b2a8bbad4ddcfb11171918f9909ace3253e4f382c1bf
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -54,12 +54,12 @@ record:
   title: 5 Apps and Integrations changes in v0.42.0
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-05-11-get-started-by-installing-the-integration-in-the-cursor-dashboard-learn-more-in|Get
-  started by installing the integration in the Cursor dashboard]]'
 - '[[Changes/GitHub Copilot CLI/2026-05-11-opentelemetry-output-aligns-with-genai-semantic-conventions-mcp-tool-calls-now-u|OpenTelemetry
   output aligns with GenAI semantic conventions]]'
 - '[[Changes/Claude Code/2026-05-12-plugins-now-warn-when-a-default-component-folder-e-g-commands-is-silently-ignore|Plugins
   now warn when a default component folder (e.g. commands/) is silently…]]'
+- '[[Changes/Dify/2026-05-12-4-apps-and-integrations-changes-in-1-14-1|4 Apps and
+  Integrations changes in 1.14.1]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2026-05-12-v0-42-0-github-321461714-faa5f8a3|gemini-cli-2026-05-12-v0-42-0-github-321461714-faa5f8a3]]'
 source_type: github_releases
 theme: apps-integrations
@@ -106,8 +106,8 @@ Source: https://github.com/google-gemini/gemini-cli/releases/tag/v0.42.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-05-12 · Claude Code · [[Changes/Claude Code/2026-05-12-plugins-now-warn-when-a-default-component-folder-e-g-commands-is-silently-ignore|Plugins now warn when a default component folder (e.g. commands/) is silently…]]
-- Later: 2026-05-13 · Claude Code · [[Changes/Claude Code/2026-05-13-added-claude-code-plugin-prefer-https-to-clone-github-plugin-sources-over-https|Added CLAUDE_CODE_PLUGIN_PREFER_HTTPS to clone GitHub plugin sources over HTTPS…]]
+- Earlier: 2026-05-12 · Dify · [[Changes/Dify/2026-05-12-4-apps-and-integrations-changes-in-1-14-1|4 Apps and Integrations changes in 1.14.1]]
+- Later: 2026-05-12 · Ollama · [[Changes/Ollama/2026-05-12-test-integration-test-hardening-by-dhiltgen-in-https-github-com-ollama-ollama-pu|test: integration test hardening]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

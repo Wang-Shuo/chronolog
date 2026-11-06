@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: d2ba80eb99b54bf971112328104fd1f658daf2d7daf52b151e8d1a96d9150c45
+machine_hash: 76d9b1fa29bfabae8a23bc51af7ea00a0cb4776ff42c0ff59886bc184ca858bc
 product: cursor
 product_name: Cursor
 record:
@@ -117,8 +117,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2025-06-20 · OpenHands · [[Changes/OpenHands/2025-06-20-fixed-incorrect-tracking-for-cost-and-token-usage-for-main-agent-and-delegates-b|Fixed incorrect tracking for cost and token usage for main agent and delegates]]
-- Later: 2025-07-19 · Codex CLI · [[Changes/Codex CLI/2025-07-19-https-github-com-openai-codex-pull-1589-changes-ctrl-d-so-it-only-exits-the-tui|(source link) changes ctrl-d so it only exits the TUI…]]
+- Earlier: 2025-06-27 · Replit · [[Changes/Replit/2025-06-27-new-app-creation-experience|New app creation experience]]
+- Later: 2025-07-04 · Replit · [[Changes/Replit/2025-07-04-custom-agent-instructions|Custom Agent Instructions]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

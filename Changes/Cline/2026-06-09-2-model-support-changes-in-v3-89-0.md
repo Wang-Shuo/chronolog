@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 343cdde41d083441824114a406ecad32c529b654a292f42e62b5b13735de23e5
+machine_hash: fbb2a2c36fbb131a9b16f3172c3910357e9034ae55a8f4b9eb6aa910aa98cfc4
 product: cline
 product_name: Cline
 record:
@@ -42,10 +42,9 @@ record:
   title: 2 Model Support changes in v3.89.0
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-06-08-added-a-disablebundledskills-setting-and-claude-code-disable-bundled-skills-envi|Added
-  a disableBundledSkills setting and CLAUDE_CODE_DISABLE_BUNDLED_SKILLS…]]'
-- '[[Changes/Codex CLI/2026-06-08-6-model-support-changes-in-rust-v0-138-0|6 Model
-  Support changes in rust-v0.138.0]]'
+- '[[Changes/v0/2026-06-08-v0-max-now-runs-on-claude-opus-4-8-and-max-fast-on-opus-4-8-fast-at-about-a-thir|v0
+  Max now runs on Claude Opus 4.8, and Max Fast on Opus 4.8 Fast at about a third…]]'
+- '[[Changes/Claude/2026-06-09-claude-fable-5-launch|Claude Fable 5 launch]]'
 - '[[Changes/Claude Code/2026-06-09-introducing-claude-fable-5-a-mythos-class-model-that-we-ve-made-safe-for-general|Introducing
   Claude Fable 5: a Mythos-class model that we’ve made safe for general use]]'
 source_release: '[[Releases/Cline/cline-2026-06-09-v3-89-0-github-336819080-a8a33db2|cline-2026-06-09-v3-89-0-github-336819080-a8a33db2]]'

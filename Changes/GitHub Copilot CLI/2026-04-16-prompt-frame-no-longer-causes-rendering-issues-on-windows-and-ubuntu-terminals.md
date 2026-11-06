@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: ab38735c8ed009ac5a0c566391a91ec18cb473978e11a6fb5d87d86077a4298c
+machine_hash: d44df092f13feae92af1a9e70eb9b988a79bdbb64397e5970c7dc766d98a9ed5
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -43,10 +43,10 @@ record:
   title: Prompt frame no longer causes rendering issues on Windows and Ubuntu terminals
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-04-15-added-push-notification-tool-claude-can-send-mobile-push-notifications-when-remo|Added
-  push notification tool]]'
 - '[[Changes/Codex CLI/2026-04-15-17414-fix-thread-list-cwd-filtering-for-windows-verbatim-paths-etraut-openai|♯17414
   Fix thread/list cwd filtering for Windows verbatim paths @etraut-openai]]'
+- '[[Changes/Gemini/2026-04-15-meet-your-new-desktop-assistant-gemini-for-mac|Meet
+  your new desktop assistant: Gemini for Mac]]'
 - '[[Changes/Claude Code/2026-04-16-windows-powershell-tool-is-progressively-rolling-out-opt-in-or-out-with-claude-c|Windows:
   PowerShell tool is progressively rolling out]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-04-16-v1-0-31-github-310072149-bbc5ddf4|github-copilot-cli-2026-04-16-v1-0-31-github-310072149-bbc5ddf4]]'
@@ -76,7 +76,7 @@ type: change
 ## Nearby in Mobile and Desktop
 
 - Earlier: 2026-04-16 · Claude Code · [[Changes/Claude Code/2026-04-16-windows-powershell-tool-is-progressively-rolling-out-opt-in-or-out-with-claude-c|Windows: PowerShell tool is progressively rolling out]]
-- Later: 2026-04-17 · Claude Code · [[Changes/Claude Code/2026-04-17-extra-usage-now-works-from-remote-control-mobile-web-clients|/extra-usage now works from Remote Control (mobile/web) clients]]
+- Later: 2026-04-16 · Ollama · [[Changes/Ollama/2026-04-16-fixed-macos-cross-compiles-so-they-no-longer-trigger-generate-which-was-breaking|Fixed macOS cross-compiles so they no longer trigger generate…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

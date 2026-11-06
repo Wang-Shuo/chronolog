@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 43d3329d43ec3a2f0e93fb1a1ed9646969b84c98ddbaf72187b5727e08ef75c6
+machine_hash: 4b0a5b8b0f5f2e9e799801c5b4e1fb9136d41eee51f671f1c7093ea6faf538c1
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,10 +45,10 @@ record:
     has no…
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-10-14-add-support-for-gemini-4-argon|Add support
-  for Gemini 4 Argon]]'
 - '[[Changes/Codex CLI/2026-10-15-6-model-support-changes-in-rust-v0-163-0|6 Model
   Support changes in rust-v0.163.0]]'
+- '[[Changes/Lovable/2026-10-15-gpt-6-1-sol-for-your-app-s-ai-features|GPT-6.1 Sol
+  for your app''s AI features]]'
 - '[[Changes/ChatGPT/2026-10-16-gpt-6-pro-in-the-chat-tab-now-offers|GPT-6 Pro in
   the chat tab now offers]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-10-16-v2-1-302-github-415177347-763faf43|claude-code-2026-10-16-v2-1-302-github-415177347-763faf43]]'

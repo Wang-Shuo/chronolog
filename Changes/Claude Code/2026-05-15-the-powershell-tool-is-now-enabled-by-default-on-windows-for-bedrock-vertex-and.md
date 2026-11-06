@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 68fc316021fca394384d816d6cc311eb3dacdc8ba7eb72198e01f5c8d7570ade
+machine_hash: d1e10db1d862a5e6b29a87ea7243e6014ba72bdd1ef04f866832e7af130adf4b
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,10 +45,10 @@ record:
   title: The PowerShell tool is now enabled by default on Windows for Bedrock, Vertex…
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-05-11-fall-back-to-windows-powershell-powershell-exe-when-powershell-7-pwsh-is-not-ava|Fall
-  back to Windows PowerShell (powershell.exe) when PowerShell 7+ (pwsh) is not…]]'
 - '[[Changes/ChatGPT/2026-05-12-free-users-in-chatgpt-will-now-see-more-inline-images-from-the-web-to-help-make|More
   images in answers for Free users]]'
+- '[[Changes/Ollama/2026-05-13-laguna-xs-2-is-not-yet-supported-on-windows-linux|laguna-xs.2
+  is not yet supported on Windows/Linux]]'
 - '[[Changes/ChatGPT/2026-05-14-generated-images-will-continue-to-appear-in-the-images-tab-storage-management-is|Generated
   images will continue to appear in the Images tab]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-05-15-v2-1-143-github-323423445-53eb447c|claude-code-2026-05-15-v2-1-143-github-323423445-53eb447c]]'
@@ -87,7 +87,7 @@ type: change
 ## Nearby in Mobile and Desktop
 
 - Earlier: 2026-05-14 · ChatGPT · [[Changes/ChatGPT/2026-05-14-generated-images-will-continue-to-appear-in-the-images-tab-storage-management-is|Generated images will continue to appear in the Images tab]]
-- Later: 2026-05-18 · Codex CLI · [[Changes/Codex CLI/2026-05-18-10-mobile-and-desktop-changes-in-rust-v0-131-0|10 Mobile and Desktop changes in rust-v0.131.0]]
+- Later: 2026-05-15 · v0 · [[Changes/v0/2026-05-15-3-mobile-and-desktop-changes-in-claude-opus-4-7-fast-agent-browser|3 Mobile and Desktop changes in Claude Opus 4.7 Fast, agent browser…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

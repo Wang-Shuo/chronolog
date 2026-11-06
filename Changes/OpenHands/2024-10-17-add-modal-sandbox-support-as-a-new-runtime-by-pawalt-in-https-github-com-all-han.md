@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 32ebdfa0d87962d2a898d1553122ec66095bf100c2ecc05d6cd1dd18d79237f8
+machine_hash: b1c90bedbf6818c28b12181b66b6c7dcef1b49665c15c9accf440ffba8c8a0cf
 product: openhands
 product_name: OpenHands
 record:
@@ -45,12 +45,12 @@ record:
   title: Add Modal sandbox support as a new runtime
   type: change
 related_changes:
-- '[[Changes/OpenHands/2024-08-23-3-safety-and-privacy-changes-in-0-9-0|3 Safety and
-  Privacy changes in 0.9.0]]'
-- '[[Changes/Cursor/2024-09-17-this-update-fixes-the-following-security-issue-cve-2024-45599|This
-  update fixes the following security issue: CVE-2024-45599]]'
+- '[[Changes/Open WebUI/2024-09-24-2-safety-and-privacy-changes-in-v0-3-24|2 Safety
+  and Privacy changes in v0.3.24]]'
 - '[[Changes/Cursor/2024-10-09-update-0-42-1-0-42-5-fixes-the-following-upstream-security-issue-cve-2024-43601|UPDATE
   (0.42.1 - 0.42.5): Fixes the following upstream security issue: CVE-2024-43601]]'
+- '[[Changes/Dify/2024-10-14-2-safety-and-privacy-changes-in-0-9-2|2 Safety and Privacy
+  changes in 0.9.2]]'
 source_release: '[[Releases/OpenHands/openhands-2024-10-17-0-10-0-github-180549988-5d32de10|openhands-2024-10-17-0-10-0-github-180549988-5d32de10]]'
 source_type: github_releases
 theme: safety-privacy
@@ -80,8 +80,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Safety and Privacy
 
-- Earlier: 2024-10-09 · Cursor · [[Changes/Cursor/2024-10-09-update-0-42-1-0-42-5-fixes-the-following-upstream-security-issue-cve-2024-43601|UPDATE (0.42.1 - 0.42.5): Fixes the following upstream security issue: CVE-2024-43601]]
-- Later: 2024-12-04 · OpenHands · [[Changes/OpenHands/2024-12-04-support-custom-sandbox-for-resolver-by-malhotra5-in-https-github-com-all-hands-a|Support custom sandbox for resolver]]
+- Earlier: 2024-10-14 · Dify · [[Changes/Dify/2024-10-14-2-safety-and-privacy-changes-in-0-9-2|2 Safety and Privacy changes in 0.9.2]]
+- Later: 2024-10-21 · Dify · [[Changes/Dify/2024-10-21-update-dify-sandbox-version-to-0-2-10-by-hexian2001-in-https-github-com-langgeni|Update dify-sandbox version to 0.2.10]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 97c6c754af13a80925563434f11f5a144ed953832c0bf934052f1699df06e602
+machine_hash: e1b754aea6a07cba43e70b48c6dd8ebff5b8b66a17f6e929c1a728981cb06645
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -48,8 +48,8 @@ record:
   title: 3 Interface Experience changes in v0.25.0
   type: change
 related_changes:
-- '[[Changes/OpenHands/2026-01-16-adding-a-status-indicator-above-the-chat-until-the-conversation-is-ready-by-heyi|Adding
-  a status indicator above the chat until the conversation is ready]]'
+- '[[Changes/v0/2026-01-16-added-searchable-version-selector-for-easier-navigation|Added
+  searchable version selector for easier navigation]]'
 - '[[Changes/Claude Code/2026-01-20-improved-backspace-to-delete-pasted-text-as-a-single-token-instead-of-one-charac|Improved
   backspace to delete pasted text as a single token instead of one character…]]'
 - '[[Changes/Codex CLI/2026-01-21-3-interface-experience-changes-in-rust-v0-88-0|3

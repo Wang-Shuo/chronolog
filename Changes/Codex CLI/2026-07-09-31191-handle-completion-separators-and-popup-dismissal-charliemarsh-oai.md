@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: e617a8382a6ee3b47452e74df9cb7f00a0485cbc6ea0a4400da0044afac5f143
+machine_hash: cc46dec7af4db0a7604d701e240f6ef1b1d9f285f705a9e0fc7dd45d03483263
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -41,12 +41,12 @@ record:
   title: '#31191 Handle completion separators and popup dismissal @charliemarsh-oai'
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-07-07-changed-left-arrow-to-no-longer-close-the-background-tasks-diff-and-workflow-det|Changed
-  left arrow to no longer close the background tasks, diff, and workflow…]]'
 - '[[Changes/GitHub Copilot CLI/2026-07-07-2-editor-experience-changes-in-v1-0-69|2
   Editor Experience changes in v1.0.69]]'
 - '[[Changes/Codex CLI/2026-07-08-3-editor-experience-changes-in-rust-v0-143-0|3 Editor
   Experience changes in rust-v0.143.0]]'
+- '[[Changes/Lovable/2026-07-08-pause-a-lovable-cloud-project|Pause a Lovable Cloud
+  project]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-07-09-rust-v0-144-0-github-351657410-407edb96|codex-cli-2026-07-09-rust-v0-144-0-github-351657410-407edb96]]'
 source_type: github_releases
 theme: editor-experience
@@ -89,8 +89,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2026-07-08 · Codex CLI · [[Changes/Codex CLI/2026-07-08-3-editor-experience-changes-in-rust-v0-143-0|3 Editor Experience changes in rust-v0.143.0]]
-- Later: 2026-07-10 · Claude Code · [[Changes/Claude Code/2026-07-10-added-a-doctor-check-that-proposes-trimming-checked-in-claude-md-files-by-cuttin|Added a /doctor check that proposes trimming checked-in CLAUDE.md files…]]
+- Earlier: 2026-07-08 · Lovable · [[Changes/Lovable/2026-07-08-pause-a-lovable-cloud-project|Pause a Lovable Cloud project]]
+- Later: 2026-07-09 · Lovable · [[Changes/Lovable/2026-07-09-improved-image-gallery-in-the-files-tab|Improved image gallery in the Files tab]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: c788bd4815bb00fa9ad633c634bb898ed89388744a88636aa4d7d80f2a0aace5
+machine_hash: b041acaeb7709071dbb1d9c0f8a9e42f58009b0d526a8f9b943960d8cf81ded1
 product: claude-code
 product_name: Claude Code
 record:
@@ -42,12 +42,9 @@ record:
   title: Improved Write tool diff computation speed for large files…
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-04-01-improved-performance-of-expand-collapse-ctrl-e-ctrl-o-in-alt-screen-mode-for-lon|Improved
-  performance of expand/collapse (ctrl+e, ctrl+o) in alt-screen mode for long…]]'
-- '[[Changes/Claude Code/2026-04-02-improved-performance-faster-stripansi-on-bun-by-routing-through-bun-stripansi|Improved
-  performance: faster stripAnsi on Bun by routing through Bun.stripANSI]]'
-- '[[Changes/Cursor/2026-04-02-large-file-diff-rendering-is-now-much-faster-smoother-and-less-memory-heavy|Large-file
-  diff rendering is now much faster, smoother, and less memory-heavy]]'
+- '[[Changes/Lovable/2026-04-02-improvements-and-bug-fixes|Improvements and bug fixes]]'
+- '[[Changes/Lovable/2026-04-02-browser-performance-tools|Browser performance tools]]'
+- '[[Changes/Lovable/2026-04-02-redesigned-domain-purchasing|Redesigned domain purchasing]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-04-04-v2-1-92-github-305189904-2eb020f5|claude-code-2026-04-04-v2-1-92-github-305189904-2eb020f5]]'
 source_type: github_releases
 theme: reliability-performance
@@ -84,7 +81,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2026-04-02 · Cursor · [[Changes/Cursor/2026-04-02-large-file-diff-rendering-is-now-much-faster-smoother-and-less-memory-heavy|Large-file diff rendering is now much faster, smoother, and less memory-heavy]]
+- Earlier: 2026-04-02 · Lovable · [[Changes/Lovable/2026-04-02-redesigned-domain-purchasing|Redesigned domain purchasing]]
 - Later: 2026-04-07 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-04-07-reduce-memory-usage-by-automatically-shutting-down-shell-sessions-that-are-no-lo|Reduce memory usage by automatically shutting down shell sessions that are no longer…]]
 <!-- chronolog:end -->
 

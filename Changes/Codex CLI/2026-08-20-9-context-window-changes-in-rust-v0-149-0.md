@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 2f5a541756bc965fabb01bfddcadcecdc00498d5b893e2be048f7867d00ddb66
+machine_hash: d5f6a42db39f7f3ba05b3256e40c994d4c78c59d00bd5f9088da599cfa698ce6
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -56,12 +56,12 @@ record:
   title: 9 Context Window changes in rust-v0.149.0
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-08-17-2-context-window-changes-in-v2-1-234|2 Context
-  Window changes in v2.1.234]]'
 - '[[Changes/Claude Code/2026-08-18-improved-the-context-limit-error-to-say-when-auto-compact-is-off-and-point-to-co|Improved
   the context-limit error to say when auto-compact is off and point…]]'
 - '[[Changes/Codex CLI/2026-08-18-13-context-window-changes-in-rust-v0-148-0|13 Context
   Window changes in rust-v0.148.0]]'
+- '[[Changes/Lovable/2026-08-19-design-systems-on-all-paid-plans|Design systems on
+  all paid plans]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-08-20-rust-v0-149-0-github-374028976-829da944|codex-cli-2026-08-20-rust-v0-149-0-github-374028976-829da944]]'
 source_type: github_releases
 theme: context-window
@@ -124,7 +124,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.149.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Context Window
 
-- Earlier: 2026-08-18 · Codex CLI · [[Changes/Codex CLI/2026-08-18-13-context-window-changes-in-rust-v0-148-0|13 Context Window changes in rust-v0.148.0]]
+- Earlier: 2026-08-19 · Lovable · [[Changes/Lovable/2026-08-19-design-systems-on-all-paid-plans|Design systems on all paid plans]]
 - Later: 2026-08-21 · Claude Code · [[Changes/Claude Code/2026-08-21-improved-the-reminder-shown-after-compaction-so-a-skill-s-original-arguments-are|Improved the reminder shown after compaction so a skill's original arguments are not…]]
 <!-- chronolog:end -->
 

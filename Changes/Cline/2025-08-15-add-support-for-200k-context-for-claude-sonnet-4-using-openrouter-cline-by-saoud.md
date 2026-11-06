@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: 7c360935b5957974de3d28a11472d27035ba7042ef96fbd58fee70f03ae9ba99
+machine_hash: 32f15b084ffc82df7cc86e9730d3161d0f20c7a92b63984e1ebee819e949025a
 product: cline
 product_name: Cline
 record:
@@ -91,7 +91,7 @@ type: change
 ## Nearby in Model Support
 
 - Earlier: 2025-08-15 · ChatGPT · [[Changes/ChatGPT/2025-08-15-we-re-making-gpt-5-s-default-personality-warmer-and-more-familiar-this-is-in-res-19a03e|GPT-5 Updates]]
-- Later: 2025-08-18 · Gemini CLI · [[Changes/Gemini CLI/2025-08-18-4-model-support-changes-in-v0-1-22|4 Model Support changes in v0.1.22]]
+- Later: 2025-08-15 · Ollama · [[Changes/Ollama/2025-08-15-ollama-flash-attention-1-will-also-enable-flash-attention-for-pure-cpu-models|OLLAMA_FLASH_ATTENTION=1 will also enable flash attention for pure-CPU models]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

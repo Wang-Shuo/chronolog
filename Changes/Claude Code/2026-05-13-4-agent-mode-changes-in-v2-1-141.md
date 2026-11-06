@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 7ed24cfc8c7b3b2d187be7f260315c9cfc5bea1798573cc743fdee17aa20a9a4
+machine_hash: 640c563813bf810ff338f1d8bc16d1bbf98f3bfd68faf07ff05465921d37c4fd
 product: claude-code
 product_name: Claude Code
 record:
@@ -50,10 +50,10 @@ record:
   title: 4 Agent Mode changes in v2.1.141
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-05-11-agentstop-hook-now-fires-correctly-when-the-agent-stops-via-task-complete|agentStop
-  hook now fires correctly when the agent stops via task_complete]]'
 - '[[Changes/Claude Code/2026-05-12-2-agent-mode-changes-in-v2-1-140|2 Agent Mode
   changes in v2.1.140]]'
+- '[[Changes/Dify/2026-05-12-chore-web-refresh-agent-skills-by-hyoban-in-https-github-com-langgenius-dify-pul|chore(web):
+  refresh agent skills]]'
 - '[[Changes/Gemini CLI/2026-05-12-2-agent-mode-changes-in-v0-42-0|2 Agent Mode changes
   in v0.42.0]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-05-13-v2-1-141-github-322186176-9f8e2e22|claude-code-2026-05-13-v2-1-141-github-322186176-9f8e2e22]]'

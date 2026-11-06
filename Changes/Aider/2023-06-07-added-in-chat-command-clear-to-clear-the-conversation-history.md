@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: d245e9c94337c200f426409c22c2eae54c3c76ed57015357285cc92bbd9d9067
+machine_hash: babe37c4667c0b9fc77aa957ba4752429b3b75183f198a0f3773a3826ebd8479
 product: aider
 product_name: Aider
 record:
@@ -77,7 +77,7 @@ type: change
 ## Nearby in Developer Workflow
 
 - Earlier: 2023-05-17 · Cursor · [[Changes/Cursor/2023-05-17-in-terminal-debugging-f140b2|In-terminal Debugging]]
-- Later: 2023-06-14 · Cursor · [[Changes/Cursor/2023-06-14-small-fix-for-a-format-on-save-bug-that-was-introduced-in-the-last-release-some|Small improvements]]
+- Later: 2023-06-09 · Dify · [[Changes/Dify/2023-06-09-delete-segment-not-commit-by-johnjyong-in-https-github-com-langgenius-dify-pull|delete segment not commit]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 023b38afd9b444389f0434c0980a336aef67533146a6eba18138881c58ca27e2
+machine_hash: 6f461fbd5f1b5602ba76d7a83dcb078952a28ec208838b6a02a5fc52936597ab
 product: cline
 product_name: Cline
 record:
@@ -42,12 +42,11 @@ record:
   title: Exclude binary files without extensions from diffs
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2025-12-30-enable-copilot-spaces-tools-in-github-mcp-server|Enable
-  Copilot Spaces tools in GitHub MCP Server]]'
 - '[[Changes/OpenHands/2025-12-30-added-forgejo-integration-by-johba37-in-https-github-com-openhands-openhands-pul|Added
   Forgejo integration]]'
 - '[[Changes/GitHub Copilot CLI/2026-01-02-mcp-server-type-help-text-displays-correct-options|MCP
   server type help text displays correct options]]'
+- '[[Changes/ElevenLabs/2026-01-05-sdk-releases|SDK Releases]]'
 source_release: '[[Releases/Cline/cline-2026-01-06-v3-47-0-github-274645512-af25fb1a|cline-2026-01-06-v3-47-0-github-274645512-af25fb1a]]'
 source_type: github_releases
 theme: apps-integrations
@@ -80,7 +79,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-01-02 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-01-02-mcp-server-type-help-text-displays-correct-options|MCP server type help text displays correct options]]
+- Earlier: 2026-01-05 · ElevenLabs · [[Changes/ElevenLabs/2026-01-05-sdk-releases|SDK Releases]]
 - Later: 2026-01-06 · Codex CLI · [[Changes/Codex CLI/2026-01-06-8694-mcp-sanitize-mcp-tool-names-to-ensure-they-are-compatible-with-the-response|♯8694 MCP Sanitize MCP tool names to ensure they are compatible with the Responses…]]
 <!-- chronolog:end -->
 

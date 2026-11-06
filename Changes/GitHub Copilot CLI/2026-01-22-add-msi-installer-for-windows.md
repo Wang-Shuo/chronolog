@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: e09b5d38218f8b3c9e0accf1c65e79dc16df1cda4280e15779aaa7c01ef38268
+machine_hash: e173f6b4b5b6419b373a53de8c16cdee014bf18b6f567a057023df6366423c25
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -42,8 +42,7 @@ record:
   title: Add MSI installer for Windows
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-01-15-reduce-flaky-rust-release-pipelines-notably-on-windows-by-increasing-the-release|Reduce
-  flaky Rust release pipelines (notably on Windows) by increasing the release…]]'
+- '[[Changes/Replit/2026-01-16-mobile-apps-on-replit|Mobile Apps on Replit]]'
 - '[[Changes/Codex CLI/2026-01-21-8590-fix-core-require-approval-for-force-delete-on-windows-hdcodedev|♯8590
   fix(core): require approval for force delete on Windows @hdcodedev]]'
 - '[[Changes/Cursor/2026-01-22-windows-notifications-now-have-accept-reject-buttons-like-macos|Windows

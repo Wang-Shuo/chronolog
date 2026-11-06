@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: c202144efb69f4db2a2474ca848ef5bc58499359e9271f208fd0db0a4ca2b8ff
+machine_hash: b4ed157267efb05f2170712cc30082878bdf030c6b44096657103fcb70dcd180
 product: cline
 product_name: Cline
 record:
@@ -43,10 +43,10 @@ record:
   title: Add prompt caching for Opus 4.1
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2025-08-05-introduces-the-oss-flag-so-codex-cli-can-be-used-with-the-new-open-weight-models|Introduces
-  the --oss flag so Codex CLI can be used with the new open-weight models…]]'
 - '[[Changes/Gemini CLI/2025-08-05-20-model-support-changes-in-v0-1-17|20 Model Support
   changes in v0.1.17]]'
+- '[[Changes/Ollama/2025-08-05-3-model-support-changes-in-v0-11-0|3 Model Support
+  changes in v0.11.0]]'
 - '[[Changes/Cline/2025-08-06-3-model-support-changes-in-v3-20-11|3 Model Support
   changes in v3.20.11]]'
 source_release: '[[Releases/Cline/cline-2025-08-06-v3-20-13-github-237870976-880626fb|cline-2025-08-06-v3-20-13-github-237870976-880626fb]]'

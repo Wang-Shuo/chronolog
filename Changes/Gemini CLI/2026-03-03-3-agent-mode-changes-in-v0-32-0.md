@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 4f3d754a9ed41ebfaa0099afdbc3e41820376c9e5afa0c0e1a79e21fa06fc504
+machine_hash: 78edec50fb92dd2a7861c5850bc8938346768619e3245ea9f5e875bec28f639a
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -46,8 +46,7 @@ record:
   title: 3 Agent Mode changes in v0.32.0
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-03-02-2-agent-mode-changes-in-rust-v0-107-0|2 Agent Mode
-  changes in rust-v0.107.0]]'
+- '[[Changes/ElevenLabs/2026-03-02-elevenagents-bb56b9|ElevenAgents]]'
 - '[[Changes/Cline/2026-03-03-add-user-agent-header-to-requests-sent-to-the-cline-backend|Add
   User-Agent header to requests sent to the Cline backend]]'
 - '[[Changes/Cursor/2026-03-03-improved-reliability-for-longer-running-agent-sessions|Improved

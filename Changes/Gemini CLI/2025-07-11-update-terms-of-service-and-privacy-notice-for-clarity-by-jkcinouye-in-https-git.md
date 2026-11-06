@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: a725a33d158e4c2924cf1628daed7cde955fc0461faa5e79b52d3f977eabc9b5
+machine_hash: d6b0660b190b523666bdd2ba0db7040c8f02022b23d80705dc3621b6b2bc8e4d
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -44,10 +44,10 @@ record:
   title: Update Terms of Service and Privacy Notice for clarity
   type: change
 related_changes:
-- '[[Changes/OpenHands/2025-06-20-enhanced-security-by-ensuring-redirect-uri-is-https-unless-it-is-for-localhost-b|Enhanced
-  security by ensuring redirect URI is HTTPS unless it is for localhost]]'
 - '[[Changes/Gemini CLI/2025-07-01-esc-to-exit-privacy-screen-in-error-state-by-scidomino-in-https-github-com-googl|Esc
   to exit privacy screen in error state]]'
+- '[[Changes/Dify/2025-07-02-chore-upgrade-package-versions-for-security-reason-by-iamjoel-in-https-github-co|chore:
+  upgrade package versions for security reason]]'
 - '[[Changes/Codex CLI/2025-07-08-adds-support-for-a-sandbox-flag-and-makes-some-breaking-changes-to-config-toml-a|Adds
   support for a --sandbox flag and makes some breaking changes to config.toml…]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2025-07-11-v0-1-10-github-231320517-434b29eb|gemini-cli-2025-07-11-v0-1-10-github-231320517-434b29eb]]'
@@ -86,7 +86,7 @@ type: change
 ## Nearby in Safety and Privacy
 
 - Earlier: 2025-07-08 · Codex CLI · [[Changes/Codex CLI/2025-07-08-adds-support-for-a-sandbox-flag-and-makes-some-breaking-changes-to-config-toml-a|Adds support for a --sandbox flag and makes some breaking changes to config.toml…]]
-- Later: 2025-07-19 · Gemini CLI · [[Changes/Gemini CLI/2025-07-19-migrate-privacy-to-new-architecture-by-abhipatel12-in-https-github-com-google-ge|Migrate /privacy to new architecture]]
+- Later: 2025-07-11 · Replit · [[Changes/Replit/2025-07-11-deployment-privacy-indicators|Deployment privacy indicators]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

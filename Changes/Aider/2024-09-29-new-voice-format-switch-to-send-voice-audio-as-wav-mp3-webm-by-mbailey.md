@@ -4,20 +4,20 @@ date: '2024-09-29'
 description: 'Aider · 2024-09-29 · Voice and Audio: New `--voice-format` switch to
   send voice audio as wav/mp3/webm, by @mbailey.'
 diffusion:
-  first_in_tracked: '[[Changes/Aider/2023-08-11-voice-to-code-https-aider-chat-docs-voice-html-support-which-allows-you-to-code|Voice-to-code((source
-    link) support, which allows you…]]'
+  first_in_tracked: '[[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2
+    Voice and Audio changes in 0.3.7]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 415
+  lag_days: 447
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 8ff16aad6b63dfeee11d2570604fb29f777ce8f25679e786e89515b772ca543b
+machine_hash: 50923e750e0ca9c24b07601207cdaaf65ad38db260410b95241a54bf0ba9b6a7
 product: aider
 product_name: Aider
 record:
@@ -43,12 +43,12 @@ record:
   title: New `--voice-format` switch to send voice audio as wav/mp3/webm, by @mbailey
   type: change
 related_changes:
-- '[[Changes/Aider/2024-06-04-detect-supported-audio-sample-rates-for-voice|Detect
-  supported audio sample rates for /voice]]'
-- '[[Changes/Aider/2024-09-04-catch-voice-transcription-exceptions-show-the-wav-file-so-the-user-can-recover-i|Catch
-  /voice transcription exceptions, show the WAV file so the user can recover it]]'
-- '[[Changes/Aider/2024-09-09-new-chat-language-switch-to-set-the-spoken-language|New
-  --chat-language switch to set the spoken language]]'
+- "[[Changes/Open WebUI/2024-09-19-customizable-playback-speed-playback-speed-control-is-now-available-in-call-mode|\U0001F39A️
+  Customizable Playback Speed]]"
+- "[[Changes/Open WebUI/2024-09-24-enhanced-audio-support-now-includes-support-for-audio-x-m4a-files-broadening-com|\U0001F3B5
+  Enhanced Audio Support]]"
+- "[[Changes/Open WebUI/2024-09-25-call-url-parameter-fix-corrected-functionality-for-call-url-search-parameter-ens|\U0001F4DE
+  'Call' URL Parameter Fix]]"
 source_release: '[[Releases/Aider/aider-2024-09-29-v0-58-0-github-177475417-38cf7d0f|aider-2024-09-29-v0-58-0-github-177475417-38cf7d0f]]'
 source_type: github_releases
 theme: voice
@@ -80,14 +80,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Voice and Audio
 
-- Earlier: 2024-09-09 · Aider · [[Changes/Aider/2024-09-09-new-chat-language-switch-to-set-the-spoken-language|New --chat-language switch to set the spoken language]]
-- Later: 2024-12-01 · Aider · [[Changes/Aider/2024-12-01-added-voice-input-device-to-select-audio-input-device-for-voice-recording-by-pre|Added --voice-input-device to select audio input device for voice recording, by @preynal]]
+- Earlier: 2024-09-25 · Open WebUI · [[Changes/Open WebUI/2024-09-25-call-url-parameter-fix-corrected-functionality-for-call-url-search-parameter-ens|📞 'Call' URL Parameter Fix]]
+- Later: 2024-10-07 · Open WebUI · [[Changes/Open WebUI/2024-10-07-2-voice-and-audio-changes-in-v0-3-31|2 Voice and Audio changes in v0.3.31]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-08-11 · Aider · [[Changes/Aider/2023-08-11-voice-to-code-https-aider-chat-docs-voice-html-support-which-allows-you-to-code|Voice-to-code((source link) support, which allows you…]]
+- Earliest same-theme entry in the tracked set: 2023-07-10 · Dify · [[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2 Voice and Audio changes in 0.3.7]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

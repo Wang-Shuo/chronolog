@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: search-browsing
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: f61c20e8a331ef521ec803a863664805646edb6dd9747e8d7ab40051ca4cabeb
+machine_hash: 2234b96d3eda2930619a87d504633d4d8adf002888e6ad491800214191a4c20c
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -45,10 +45,10 @@ record:
   title: 3 Search and Browsing changes in rust-v0.139.0
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-06-01-3-search-and-browsing-changes-in-rust-v0-136-0|3
-  Search and Browsing changes in rust-v0.136.0]]'
-- '[[Changes/GitHub Copilot CLI/2026-06-01-2-search-and-browsing-changes-in-v1-0-57|2
-  Search and Browsing changes in v1.0.57]]'
+- '[[Changes/Open WebUI/2026-06-01-9-search-and-browsing-changes-in-v0-9-6|9 Search
+  and Browsing changes in v0.9.6]]'
+- '[[Changes/Ollama/2026-06-03-pi-web-search-setup-now-updates-only-when-a-newer-package-is-available|Pi
+  web search setup now updates only when a newer package is available]]'
 - '[[Changes/Codex CLI/2026-06-04-25702-codex-enable-parallel-standalone-web-search-calls-sayan-oai|♯25702
   codex enable parallel standalone web search calls @sayan-oai]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-06-09-rust-v0-139-0-github-336847772-eda0ee6f|codex-cli-2026-06-09-rust-v0-139-0-github-336847772-eda0ee6f]]'

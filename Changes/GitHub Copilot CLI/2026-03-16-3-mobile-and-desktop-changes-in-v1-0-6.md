@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 937dfee41897c063e5e4dfcdcb5e3a08e5ef319773299bb6b1634e5bd79084d7
+machine_hash: f4bad5e13187a21f87923e7f04cb1bb503495a87d28faef1d829edc04171ea62
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -46,12 +46,11 @@ record:
   title: 3 Mobile and Desktop changes in v1.0.6
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-03-11-14003-stabilize-split-pty-output-on-windows-aibrahim-oai|♯14003
-  Stabilize split PTY output on Windows @aibrahim-oai]]'
 - '[[Changes/GitHub Copilot CLI/2026-03-13-2-mobile-and-desktop-changes-in-v1-0-5|2
   Mobile and Desktop changes in v1.0.5]]'
 - '[[Changes/Codex CLI/2026-03-16-2-mobile-and-desktop-changes-in-rust-v0-115-0|2
   Mobile and Desktop changes in rust-v0.115.0]]'
+- '[[Changes/ElevenLabs/2026-03-16-ios-sdk|iOS SDK]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-03-16-v1-0-6-github-297705118-b80b4107|github-copilot-cli-2026-03-16-v1-0-6-github-297705118-b80b4107]]'
 source_type: github_releases
 theme: mobile-desktop
@@ -95,7 +94,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.6
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2026-03-16 · Codex CLI · [[Changes/Codex CLI/2026-03-16-2-mobile-and-desktop-changes-in-rust-v0-115-0|2 Mobile and Desktop changes in rust-v0.115.0]]
+- Earlier: 2026-03-16 · ElevenLabs · [[Changes/ElevenLabs/2026-03-16-ios-sdk|iOS SDK]]
 - Later: 2026-03-17 · Claude Code · [[Changes/Claude Code/2026-03-17-vscode-when-option-click-doesn-t-trigger-native-selection-on-macos-the-footer-no|VSCode When option+click doesn't trigger native selection on macOS, the footer now…]]
 <!-- chronolog:end -->
 

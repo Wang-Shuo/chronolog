@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 571b4a1c6c79ae11da71adfedde5ed7c45fc885895d0dc69aaa8f82d985d58ca
+machine_hash: 83323437907a75eb4fdc3d171dffed866bb415c578084fea920b7a9a37a8b940
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -102,7 +102,7 @@ type: change
 ## Nearby in Reliability and Performance
 
 - Earlier: 2026-02-26 · Codex CLI · [[Changes/Codex CLI/2026-02-26-2-reliability-and-performance-changes-in-rust-v0-106-0|2 Reliability and Performance changes in rust-v0.106.0]]
-- Later: 2026-02-28 · Claude Code · [[Changes/Claude Code/2026-02-28-improved-memory-usage-in-long-sessions-with-subagents-by-stripping-heavy-progres|Improved memory usage in long sessions with subagents by stripping heavy progress…]]
+- Later: 2026-02-27 · Replit · [[Changes/Replit/2026-02-27-agent-performance-improvements|Agent performance improvements]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

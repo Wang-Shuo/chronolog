@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: memory
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: f9886e1a538e48035425060a6b581b3454d0c6fc7e682b3f089eaf1f2e8b2ffc
+machine_hash: e56f6fdddcef6bbeca6ae80f67dd1a2e1a0cce3f562fa364c87d63547163df7f
 product: openhands
 product_name: OpenHands
 record:
@@ -41,12 +41,12 @@ record:
   title: 'CI: For colima, modify CPU count and memory'
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2023-08-21-custom-instructions-are-now-available-to-users-in-the-european-union-united-king-cfc1d5|Custom
-  instructions are now available to users in the EU & UK]]'
-- '[[Changes/ChatGPT/2024-02-13-we-re-testing-memory-with-chatgpt-remembering-things-you-discuss-across-all-chat-9872c8|Memory
-  and new controls for ChatGPT]]'
-- '[[Changes/ChatGPT/2024-04-29-memory-is-now-available-to-all-chatgpt-plus-users-except-in-europe-korea-where-w-4db29a|Memory
-  is now available to Plus users]]'
+- "[[Changes/Open WebUI/2024-05-19-experimental-memory-feature-manually-input-personal-information-you-want-llms-to|\U0001F9E0
+  Experimental Memory Feature]]"
+- '[[Changes/Dify/2024-06-14-2-memory-and-personalization-changes-in-0-6-11|2 Memory
+  and Personalization changes in 0.6.11]]'
+- "[[Changes/Open WebUI/2024-06-17-editable-memories-adds-the-capability-to-modify-memories|\U0001F9E0
+  Editable Memories: Adds the capability to modify memories]]"
 source_release: '[[Releases/OpenHands/openhands-2024-07-05-0-7-1-github-164186278-78b5a72a|openhands-2024-07-05-0-7-1-github-164186278-78b5a72a]]'
 source_type: github_releases
 theme: memory
@@ -80,8 +80,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Memory and Personalization
 
-- Earlier: 2024-04-29 · ChatGPT · [[Changes/ChatGPT/2024-04-29-memory-is-now-available-to-all-chatgpt-plus-users-except-in-europe-korea-where-w-4db29a|Memory is now available to Plus users]]
-- Later: 2024-07-13 · OpenHands · [[Changes/OpenHands/2024-07-13-arch-deprecating-recall-action-and-search-memory-by-xingyaoww-in-https-github-co|arch: deprecating recall action and search_memory]]
+- Earlier: 2024-06-17 · Open WebUI · [[Changes/Open WebUI/2024-06-17-editable-memories-adds-the-capability-to-modify-memories|🧠 Editable Memories: Adds the capability to modify memories]]
+- Later: 2024-07-08 · Dify · [[Changes/Dify/2024-07-08-2-memory-and-personalization-changes-in-0-6-13|2 Memory and Personalization changes in 0.6.13]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

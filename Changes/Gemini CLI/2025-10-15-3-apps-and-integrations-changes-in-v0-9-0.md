@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 0461e39981da36f91c4fb22f5a55307f586c1f5267c1a689eb0587ece52588f0
+machine_hash: c8a6e0f46f5db6d49d23c14349dac48a7c30dcafc0babd95d32bd25a2d9c0b11
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -47,12 +47,11 @@ record:
   title: 3 Apps and Integrations changes in v0.9.0
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2025-10-10-improved-argument-input-to-mcp-servers-in-mcp-add-previously-users-had-to-use-co|Improved
-  argument input to MCP servers in /mcp add -- previously, users had to use…]]'
 - '[[Changes/ChatGPT/2025-10-13-we-re-rolling-out-two-new-ways-to-bring-slack-and-chatgpt-together-a-connector-t-be2213|Slack
   connector and app]]'
 - '[[Changes/GitHub Copilot CLI/2025-10-13-3-apps-and-integrations-changes-in-v0-0-340|3
   Apps and Integrations changes in v0.0.340]]'
+- '[[Changes/ElevenLabs/2025-10-14-sdk-releases|SDK Releases]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2025-10-15-v0-9-0-github-254729703-41b9b488|gemini-cli-2025-10-15-v0-9-0-github-254729703-41b9b488]]'
 source_type: github_releases
 theme: apps-integrations
@@ -92,8 +91,8 @@ Source: https://github.com/google-gemini/gemini-cli/releases/tag/v0.9.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2025-10-13 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2025-10-13-3-apps-and-integrations-changes-in-v0-0-340|3 Apps and Integrations changes in v0.0.340]]
-- Later: 2025-10-16 · Cline · [[Changes/Cline/2025-10-16-9-apps-and-integrations-changes-in-v3-33-0|9 Apps and Integrations changes in v3.33.0]]
+- Earlier: 2025-10-14 · ElevenLabs · [[Changes/ElevenLabs/2025-10-14-sdk-releases|SDK Releases]]
+- Later: 2025-10-15 · Ollama · [[Changes/Ollama/2025-10-15-experimental-support-for-vulkan-is-now-available-when-you-build-locally-from-sou|Experimental support for Vulkan is now available when you build locally from source]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

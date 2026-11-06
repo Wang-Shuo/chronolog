@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: b86d9c524cf14c107912506fe6cde5457a28390d2463a8bb37adc9e9204bd0fd
+machine_hash: 80391d0eaafa4c80df798f46f745306066fdad6fd2196896086b40303ef19ba1
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -53,12 +53,10 @@ record:
   title: Explore agent can now use GitHub MCP tools when available
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-02-19-3-apps-and-integrations-changes-in-v0-0-412|3
-  Apps and Integrations changes in v0.0.412]]'
-- '[[Changes/Claude Code/2026-02-20-claude-code-simple-mode-now-also-disables-mcp-tools-attachments-hooks-and-claude|CLAUDE_CODE_SIMPLE
-  mode now also disables MCP tools, attachments, hooks…]]'
 - '[[Changes/GitHub Copilot CLI/2026-02-20-support-remote-plugin-sources-github-repos-and-git-urls-in-marketplace-json-plug|Support
   remote plugin sources (GitHub repos and git URLs) in marketplace.json plugin…]]'
+- '[[Changes/Replit/2026-02-20-razorpay-mcp-integration|Razorpay MCP integration]]'
+- '[[Changes/Replit/2026-02-20-expanded-default-mcp-list|Expanded default MCP list]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-02-21-v0-0-414-github-288928471-d3403112|github-copilot-cli-2026-02-21-v0-0-414-github-288928471-d3403112]]'
 source_type: github_releases
 theme: apps-integrations
@@ -87,8 +85,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-02-20 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-02-20-support-remote-plugin-sources-github-repos-and-git-urls-in-marketplace-json-plug|Support remote plugin sources (GitHub repos and git URLs) in marketplace.json plugin…]]
-- Later: 2026-02-23 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-02-23-5-apps-and-integrations-changes-in-v0-0-415|5 Apps and Integrations changes in v0.0.415]]
+- Earlier: 2026-02-20 · Replit · [[Changes/Replit/2026-02-20-expanded-default-mcp-list|Expanded default MCP list]]
+- Later: 2026-02-23 · ElevenLabs · [[Changes/ElevenLabs/2026-02-23-sdk-releases|SDK Releases]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

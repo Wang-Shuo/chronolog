@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 25188e31fe48fc7f7bfff83db2447b8cdae01fef29e076c9a37e4e6ecd57b37f
+machine_hash: edb87971ba4403269bdf459283da0df67dab1906dd229d5ee9cd098277b09841
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -82,7 +82,7 @@ type: change
 ## Nearby in Editor Experience
 
 - Earlier: 2026-07-21 · Codex CLI · [[Changes/Codex CLI/2026-07-21-4-editor-experience-changes-in-rust-v0-145-0|4 Editor Experience changes in rust-v0.145.0]]
-- Later: 2026-07-29 · Codex CLI · [[Changes/Codex CLI/2026-07-29-3-editor-experience-changes-in-rust-v0-146-0|3 Editor Experience changes in rust-v0.146.0]]
+- Later: 2026-07-27 · Open WebUI · [[Changes/Open WebUI/2026-07-27-7-editor-experience-changes-in-v0-11-0|7 Editor Experience changes in v0.11.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: search-browsing
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 5145aa54fdc5c9b2e8e1efa21b8728187664c3e126356819579423322f569881
+machine_hash: af093fcb0aafbb60f4dd091b55d5d7e01ffd8602b3d3c0c655c4b76e85e1c5c0
 product: claude-code
 product_name: Claude Code
 record:
@@ -44,10 +44,10 @@ record:
     unused…
   type: change
 related_changes:
-- '[[Changes/Cline/2026-09-17-web-search-is-now-enabled-by-default-on-models-that-support-it-outside-yolo-mode|Web
-  search is now enabled by default on models that support it, outside YOLO mode]]'
 - '[[Changes/GitHub Copilot CLI/2026-09-21-consecutive-steering-prompts-in-the-same-mode-combine-into-one-pending-message-p|Consecutive
   steering prompts in the same mode combine into one pending message]]'
+- '[[Changes/Open WebUI/2026-09-21-6-search-and-browsing-changes-in-v0-11-4|6 Search
+  and Browsing changes in v0.11.4]]'
 - '[[Changes/Codex CLI/2026-09-22-2-search-and-browsing-changes-in-rust-v0-156-0|2
   Search and Browsing changes in rust-v0.156.0]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-23-v2-1-281-github-394877414-9173ae95|claude-code-2026-09-23-v2-1-281-github-394877414-9173ae95]]'

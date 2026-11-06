@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: fb401a83f45cbf8f11d51a916578421332dab92d9b0fcea3afe69dc94c64d13b
+machine_hash: 9fd8e8c608cd3d6c851c044463163490ad1dbfc99a4777044c2f130a54fb61c5
 product: windsurf
 product_name: Windsurf
 record:
@@ -41,12 +41,12 @@ record:
   title: Diff Zones
   type: change
 related_changes:
-- '[[Changes/Cline/2025-12-04-set-the-cli-s-ide-version-to-just-the-cli-version-rather-than-being-blank-to-mak|set
-  the cli''s ''ide version'' to just the cli version rather than being blank, to make…]]'
-- '[[Changes/Codex CLI/2025-12-09-3-editor-experience-changes-in-rust-v0-66-0|3 Editor
-  Experience changes in rust-v0.66.0]]'
 - '[[Changes/Cursor/2025-12-10-browser-layout-and-style-editor-c9ae9c|Browser layout
   and style editor]]'
+- '[[Changes/v0/2025-12-10-v0-s-editor-just-got-a-major-upgrade-you-can-now|v0''s
+  editor just got a major upgrade]]'
+- '[[Changes/v0/2025-12-10-added-previews-for-svg-and-md-files-to-the-new-editor|Added
+  previews for svg and md files to the new editor]]'
 source_release: '[[Releases/Windsurf/windsurf-2025-12-10-v1-12-41-fc64d619|windsurf-2025-12-10-v1-12-41-fc64d619]]'
 source_type: windsurf_changelog
 theme: editor-experience
@@ -79,7 +79,7 @@ type: change
 ## Nearby in Editor Experience
 
 - Earlier: 2025-12-10 · Cursor · [[Changes/Cursor/2025-12-10-browser-layout-and-style-editor-c9ae9c|Browser layout and style editor]]
-- Later: 2025-12-11 · Cline · [[Changes/Cline/2025-12-11-display-completion-messages-in-processstateupdate-by-maxpaulus43-in-https-github|display completion messages in processStateUpdate]]
+- Later: 2025-12-10 · v0 · [[Changes/v0/2025-12-10-v0-s-editor-just-got-a-major-upgrade-you-can-now|v0's editor just got a major upgrade]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 900897cdef60a5f5420f2133114326891fb0d8d8b89cdeaaad6ab7d298716e5a
+machine_hash: b63d8113487c873aca40758d92d93efdb79a55d7b4dc8d8c43c176158ed9d7bd
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -111,7 +111,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.138.0
 ## Nearby in Developer Workflow
 
 - Earlier: 2026-06-08 · Claude Code · [[Changes/Claude Code/2026-06-08-background-sessions-are-now-told-that-shared-checkout-edits-are-blocked-until-th|Background sessions are now told that shared-checkout edits are blocked until they…]]
-- Later: 2026-06-09 · Codex CLI · [[Changes/Codex CLI/2026-06-09-release-builds-once-again-publish-separate-symbol-archives-with-line-tables-impr|Release builds once again publish separate symbol archives with line tables…]]
+- Later: 2026-06-08 · v0 · [[Changes/v0/2026-06-08-pull-requests-opened-from-a-new-branch-chat-are-no-longer-titled-initialize-proj|Pull requests opened from a new-branch chat are no longer titled…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

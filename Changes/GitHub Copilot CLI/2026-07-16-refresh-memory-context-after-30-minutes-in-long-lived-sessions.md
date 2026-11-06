@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: memory
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 516054b9100305ebf83d04c4f962f157a4266bcd94664e65a5d5f6f2d6482066
+machine_hash: 1751e8a8fc393ceefd031b6c6b2c59042e6240e9cf71a5bde9dde7daa1aa9332
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -99,7 +99,7 @@ type: change
 ## Nearby in Memory and Personalization
 
 - Earlier: 2026-07-15 · Claude Code · [[Changes/Claude Code/2026-07-15-improved-the-memory-index-over-limit-warning-to-measure-only-loaded-content-excl|Improved the memory index over-limit warning to measure only loaded content…]]
-- Later: 2026-07-18 · Claude Code · [[Changes/Claude Code/2026-07-18-added-an-iso-modified-timestamp-to-memory-file-frontmatter|Added an ISO modified timestamp to memory file frontmatter]]
+- Later: 2026-07-17 · Dify · [[Changes/Dify/2026-07-17-perf-memory-batch-load-message-files-in-tokenbuffermemory-to-remove-n-1-queries|perf(memory): batch-load message files in TokenBufferMemory to remove N+1 queries]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

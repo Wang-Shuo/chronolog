@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: b2b4add034a9d742e251a2b6519c1401fb8ff0ae05772c5b56839f630183124c
+machine_hash: b7e80f6d40f128c55085d6450deb0a21fb7baa2d0fb050b721207612dc80a0e5
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -46,12 +46,12 @@ record:
   title: Attach up to 20 files in a single message
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-02-11-6-context-window-changes-in-rust-v0-99-0|6 Context
-  Window changes in rust-v0.99.0]]'
 - '[[Changes/GitHub Copilot CLI/2026-02-11-expose-session-context-in-session-list-sdk-response|Expose
   session context in session.list SDK response]]'
 - '[[Changes/Codex CLI/2026-02-12-3-context-window-changes-in-rust-v0-100-0|3 Context
   Window changes in rust-v0.100.0]]'
+- '[[Changes/Open WebUI/2026-02-12-5-context-window-changes-in-v0-8-0|5 Context Window
+  changes in v0.8.0]]'
 scope: Web
 source_release: '[[Releases/ChatGPT/chatgpt-2026-02-13-chatgpt-updates-better-file-uploads-easier-copying-and-more-reli-e2c69aa0|chatgpt-2026-02-13-chatgpt-updates-better-file-uploads-easier-copying-and-more-reli-e2c69aa0]]'
 source_type: chatgpt_changelog
@@ -85,7 +85,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Context Window
 
-- Earlier: 2026-02-12 · Codex CLI · [[Changes/Codex CLI/2026-02-12-3-context-window-changes-in-rust-v0-100-0|3 Context Window changes in rust-v0.100.0]]
+- Earlier: 2026-02-12 · Open WebUI · [[Changes/Open WebUI/2026-02-12-5-context-window-changes-in-v0-8-0|5 Context Window changes in v0.8.0]]
 - Later: 2026-02-13 · Claude Code · [[Changes/Claude Code/2026-02-13-improved-rename-to-auto-generate-session-name-from-conversation-context-when-cal|Improved /rename to auto-generate session name from conversation context…]]
 <!-- chronolog:end -->
 

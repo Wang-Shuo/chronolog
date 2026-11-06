@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: a44e19e5c9c16b15e3571a8251f8354cf1858d8a3a0cbcdf9c5639f079f09600
+machine_hash: 972c4f3386fa22d7c8e08336b61ddbe453f363ed934163d55a5636680ba10987
 product: cline
 product_name: Cline
 record:
@@ -45,12 +45,9 @@ record:
   title: 3 Apps and Integrations changes in v3.37.0
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2025-11-07-6237-add-modelreasoningeffort-option-to-typescript-sdk|♯6237
-  Add modelReasoningEffort option to TypeScript SDK]]'
-- '[[Changes/Gemini CLI/2025-11-07-9-apps-and-integrations-changes-in-v0-13-0|9 Apps
-  and Integrations changes in v0.13.0]]'
-- '[[Changes/Codex CLI/2025-11-09-6353-app-server-add-auth-v2-doc-update-codex-mcp-interface-section|♯6353
-  – App-server: add auth v2 doc & update Codex MCP interface section]]'
+- '[[Changes/v0/2025-11-10-stripe-is-now-a-native-integration-in-v0|Stripe Integration]]'
+- '[[Changes/ElevenLabs/2025-11-12-api-integration-triggers|API Integration Triggers]]'
+- '[[Changes/ElevenLabs/2025-11-12-sdk-releases|SDK Releases]]'
 source_release: '[[Releases/Cline/cline-2025-11-13-v3-37-0-github-262246065-f6c1ac93|cline-2025-11-13-v3-37-0-github-262246065-f6c1ac93]]'
 source_type: github_releases
 theme: apps-integrations
@@ -92,7 +89,7 @@ Source: https://github.com/cline/cline/releases/tag/v3.37.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2025-11-09 · Codex CLI · [[Changes/Codex CLI/2025-11-09-6353-app-server-add-auth-v2-doc-update-codex-mcp-interface-section|♯6353 – App-server: add auth v2 doc & update Codex MCP interface section]]
+- Earlier: 2025-11-12 · ElevenLabs · [[Changes/ElevenLabs/2025-11-12-sdk-releases|SDK Releases]]
 - Later: 2025-11-13 · Codex CLI · [[Changes/Codex CLI/2025-11-13-6425-fix-sdk-documentation-replace-file-diffs-with-file-change-notifications-8b8|♯6425 — Fix SDK documentation]]
 <!-- chronolog:end -->
 

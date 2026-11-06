@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 6188a488f4d3a46a0d7d74662e673b01842e10db581d1c0734b4eeb433e43532
+machine_hash: 377b040ac029e7a0ccfdb6ef96bd87a9f1f201cce9749e832a8169d35fda5bdd
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -101,7 +101,7 @@ type: change
 ## Nearby in Model Support
 
 - Earlier: 2025-11-04 · Gemini CLI · [[Changes/Gemini CLI/2025-11-04-2-model-support-changes-in-v0-12-0|2 Model Support changes in v0.12.0]]
-- Later: 2025-11-06 · Cline · [[Changes/Cline/2025-11-06-complete-telemetry-attribution-for-model-provider-tracking-by-nickbaumann98-in-h|Complete telemetry attribution for model/provider tracking]]
+- Later: 2025-11-05 · Ollama · [[Changes/Ollama/2025-11-05-2-model-support-changes-in-v0-12-10|2 Model Support changes in v0.12.10]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

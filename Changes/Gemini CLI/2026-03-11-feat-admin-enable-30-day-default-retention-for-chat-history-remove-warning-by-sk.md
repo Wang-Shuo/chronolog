@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: a076483a7278a472e92b596e480c87b5ae8d16f7a872b10e1d6bcb8fcaf73fbc
+machine_hash: 2bf45be8531e31733183f12ab7fa3cbbd51d3ec09e941e4d1ae2d0fa836cb1d0
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -44,10 +44,10 @@ record:
   title: 'feat(admin): enable 30 day default retention for chat history & remove warning'
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-03-10-added-w-key-in-copy-to-write-the-focused-selection-directly-to-a-file-bypassing|Added
-  w key in /copy to write the focused selection directly to a file…]]'
 - '[[Changes/Codex CLI/2026-03-10-4-interface-experience-changes-in-rust-v0-113-0|4
   Interface Experience changes in rust-v0.113.0]]'
+- '[[Changes/v0/2026-03-10-added-tooltip-to-disabled-new-chat-button|Added tooltip
+  to disabled New Chat button]]'
 - '[[Changes/Claude Code/2026-03-11-2-interface-experience-changes-in-v2-1-73|2 Interface
   Experience changes in v2.1.73]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2026-03-11-v0-33-0-github-295447024-03392937|gemini-cli-2026-03-11-v0-33-0-github-295447024-03392937]]'

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 2a69bbaf860490cc461dc5e0f72ee21a54e93b4909bb65f8fc21fa8f85efff2e
+machine_hash: 5d99c62e14e78321a3dd370e4ede6bd20e331b963bc1ed86963b8260b308bb7d
 product: aider
 product_name: Aider
 record:
@@ -43,12 +43,12 @@ record:
     response'
   type: change
 related_changes:
-- '[[Changes/OpenHands/2024-10-31-support-prompt-caching-on-the-latest-claude-3-5-sonnet-20241022-by-xingyaoww-in|Support
-  prompt caching on the latest claude-3-5-sonnet-20241022]]'
-- '[[Changes/Aider/2024-11-01-2-model-support-changes-in-v0-61-0|2 Model Support changes
-  in v0.61.0]]'
 - '[[Changes/Aider/2024-11-04-4-model-support-changes-in-v0-62-0|4 Model Support changes
   in v0.62.0]]'
+- '[[Changes/Dify/2024-11-05-17-model-support-changes-in-0-11-0|17 Model Support changes
+  in 0.11.0]]'
+- '[[Changes/Dify/2024-11-11-6-model-support-changes-in-0-11-1|6 Model Support changes
+  in 0.11.1]]'
 source_release: '[[Releases/Aider/aider-2024-11-13-v0-63-0-github-185299564-5c703ef1|aider-2024-11-13-v0-63-0-github-185299564-5c703ef1]]'
 source_type: github_releases
 theme: model-support
@@ -77,8 +77,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2024-11-04 · Aider · [[Changes/Aider/2024-11-04-4-model-support-changes-in-v0-62-0|4 Model Support changes in v0.62.0]]
-- Later: 2024-11-15 · OpenHands · [[Changes/OpenHands/2024-11-15-add-a-general-utility-that-automatically-converts-function-calling-llm-requests|Add a general utility that automatically converts function-calling LLM requests…]]
+- Earlier: 2024-11-11 · Dify · [[Changes/Dify/2024-11-11-6-model-support-changes-in-0-11-1|6 Model Support changes in 0.11.1]]
+- Later: 2024-11-15 · Ollama · [[Changes/Ollama/2024-11-15-2-model-support-changes-in-v0-4-2|2 Model Support changes in v0.4.2]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

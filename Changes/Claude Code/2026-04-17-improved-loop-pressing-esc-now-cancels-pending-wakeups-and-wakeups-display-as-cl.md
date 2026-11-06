@@ -5,20 +5,20 @@ description: 'Claude Code · 2026-04-17 · Automation and Scheduling: Improved `
   pressing Esc now cancels pending wakeups, and wakeups display as "Claude resuming
   /loop…'
 diffusion:
-  first_in_tracked: '[[Changes/OpenHands/2024-09-04-better-syntax-error-loop-detection-by-tobitege-in-https-github-com-all-hands-ai|Better
-    syntax error loop detection]]'
+  first_in_tracked: '[[Changes/Dify/2024-01-02-add-data-clean-schedule-by-johnjyong-in-https-github-com-langgenius-dify-pull-18|Add
+    data clean schedule]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 590
+  lag_days: 836
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: a95a853eca18d91eb16a85d9c140f91ffc81016cec23f895b6b41583caa0b29d
+machine_hash: b7437eac3b5d3641a31e21f74cc0fe8c8b2339c3d29459789b6ad80ba7a925c1
 product: claude-code
 product_name: Claude Code
 record:
@@ -46,8 +46,7 @@ record:
     display…'
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-04-02-reduced-the-browser-automation-tool-surface-and-tightened-the-subagent-to-use-br|Reduced
-  the browser automation tool surface and tightened the subagent to use…]]'
+- '[[Changes/Lovable/2026-04-02-project-comments|Project comments]]'
 - '[[Changes/Claude Code/2026-04-13-proactive-is-now-an-alias-for-loop|/proactive
   is now an alias for /loop]]'
 - '[[Changes/Claude Code/2026-04-15-resume-continue-now-resurrects-unexpired-scheduled-tasks|--resume/--continue
@@ -87,13 +86,13 @@ type: change
 ## Nearby in Automation and Scheduling
 
 - Earlier: 2026-04-15 · Claude Code · [[Changes/Claude Code/2026-04-15-resume-continue-now-resurrects-unexpired-scheduled-tasks|--resume/--continue now resurrects unexpired scheduled tasks]]
-- Later: 2026-04-23 · Gemini CLI · [[Changes/Gemini CLI/2026-04-23-feat-cli-extract-quotacontext-and-resolve-infinite-render-loop-by-adib234-in-htt|feat(cli): extract QuotaContext and resolve infinite render loop]]
+- Later: 2026-04-21 · Open WebUI · [[Changes/Open WebUI/2026-04-21-8-automation-and-scheduling-changes-in-v0-9-0|8 Automation and Scheduling changes in v0.9.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2024-09-04 · OpenHands · [[Changes/OpenHands/2024-09-04-better-syntax-error-loop-detection-by-tobitege-in-https-github-com-all-hands-ai|Better syntax error loop detection]]
+- Earliest same-theme entry in the tracked set: 2024-01-02 · Dify · [[Changes/Dify/2024-01-02-add-data-clean-schedule-by-johnjyong-in-https-github-com-langgenius-dify-pull-18|Add data clean schedule]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

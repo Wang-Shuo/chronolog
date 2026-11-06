@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: eabd915f33784142dd9691ce302eb794b48218410963ced5ccd1a72cb618407b
+machine_hash: 0b251950577ee85f5d90a0036ef2c41372e1ef0223d6e3d78d1477601fd570ed
 product: cursor
 product_name: Cursor
 record:
@@ -42,8 +42,8 @@ record:
   title: 'Cmd-K diffs: these now obey word-wrap!'
   type: change
 related_changes:
-- '[[Changes/Cursor/2023-09-27-you-can-now-use-an-early-preview-of-edit-in-the-chat-it-s-significantly-faster-a|/edit
-  in chat]]'
+- '[[Changes/Dify/2023-10-14-remove-the-suggested-api-for-completion-app-by-crazywoola-in-https-github-com-la|remove
+  the suggested api for completion app]]'
 - '[[Changes/Aider/2023-10-29-2-editor-experience-changes-in-v0-16-0|2 Editor Experience
   changes in v0.16.0]]'
 - '[[Changes/Aider/2023-10-31-2-editor-experience-changes-in-v0-16-1|2 Editor Experience
@@ -80,7 +80,7 @@ type: change
 ## Nearby in Editor Experience
 
 - Earlier: 2023-10-31 · Aider · [[Changes/Aider/2023-10-31-2-editor-experience-changes-in-v0-16-1|2 Editor Experience changes in v0.16.1]]
-- Later: 2023-11-10 · Cursor · [[Changes/Cursor/2023-11-10-apply-chat-suggestions-click-on-the-play-button-on-any-code-block-to-have-the-ai|Apply chat suggestions]]
+- Later: 2023-11-06 · Dify · [[Changes/Dify/2023-11-06-chore-deps-bump-word-wrap-from-1-2-3-to-1-2-5-in-web-by-dependabot-in-https-gith|chore(deps): bump word-wrap from 1.2.3 to 1.2.5 in /web]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

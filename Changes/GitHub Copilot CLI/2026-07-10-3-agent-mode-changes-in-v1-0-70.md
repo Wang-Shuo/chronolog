@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: bd67d23670b986963cea1cf2a7ed2d1102aef5fcdbaa622eaa9b4aedecb991da
+machine_hash: e8f2323b5c21534fa1aa0fc5790a187aadac2496909b148c977f081a29a59a1b
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -94,7 +94,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.70
 ## Nearby in Agent Mode
 
 - Earlier: 2026-07-10 · Cursor · [[Changes/Cursor/2026-07-10-this-release-makes-it-easier-to-stay-in-flow-with-side-chats-that-run-alongside|Cursor makes it easier to stay in flow with side chats that run alongside your main…]]
-- Later: 2026-07-11 · Claude Code · [[Changes/Claude Code/2026-07-11-2-agent-mode-changes-in-v2-1-207|2 Agent Mode changes in v2.1.207]]
+- Later: 2026-07-10 · Replit · [[Changes/Replit/2026-07-10-connect-excalidraw-to-agent|Connect Excalidraw to Agent]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

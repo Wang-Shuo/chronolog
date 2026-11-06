@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: d72ae40cff82b815ef08e921f7443e2877d833c8851c957dc500d7866e4a2332
+machine_hash: 5036d3eaefeeb93bfa5f5119196a186202ccd5ba35a44b47c9dce38d9991356c
 product: claude-code
 product_name: Claude Code
 record:
@@ -53,10 +53,10 @@ record:
   title: Added research preview agent teams feature for multi-agent collaboration…
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-01-27-2-collaboration-changes-in-rust-v0-92-0|2 Collaboration
-  changes in rust-v0.92.0]]'
 - '[[Changes/Windsurf/2026-01-30-admins-can-now-set-a-default-model-that-applies-to-all-team-members-when-they-fi|Admins
   can now set a default model that applies to all team members when they first…]]'
+- '[[Changes/Ollama/2026-02-03-qwen3-coder-next-https-ollama-com-library-qwen3-coder-next-a-coding-focused-lang|Qwen3-Coder-Next((source
+  link) a coding-focused…]]'
 - '[[Changes/Codex CLI/2026-02-04-10404-cleanup-collaboration-mode-variants-charley-oai|♯10404
   Cleanup collaboration mode variants @charley-oai]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-02-05-v2-1-32-github-283457817-0910feb0|claude-code-2026-02-05-v2-1-32-github-283457817-0910feb0]]'

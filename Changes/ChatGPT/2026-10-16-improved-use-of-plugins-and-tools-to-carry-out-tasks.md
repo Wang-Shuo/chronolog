@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 282ea46cb45073e4c14c6db35980333130dc35df236dc74cd7452a302a7ef04d
+machine_hash: ff45706927a2c78c8a82517385ce1879650e8470fa6fd978ecd041c8b3fc85b2
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -41,10 +41,10 @@ record:
   title: Improved use of plugins and tools to carry out tasks
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-14-19-apps-and-integrations-changes-in-v2-1-299|19
-  Apps and Integrations changes in v2.1.299]]'
-- '[[Changes/GitHub Copilot CLI/2026-10-14-2-apps-and-integrations-changes-in-v1-0-98|2
-  Apps and Integrations changes in v1.0.98]]'
+- '[[Changes/Lovable/2026-10-14-connect-your-app-to-bing-webmaster-tools|Connect your
+  app to Bing Webmaster Tools]]'
+- '[[Changes/Open WebUI/2026-10-14-2-apps-and-integrations-changes-in-v0-12-1|2 Apps
+  and Integrations changes in v0.12.1]]'
 - '[[Changes/Codex CLI/2026-10-15-15-apps-and-integrations-changes-in-rust-v0-163-0|15
   Apps and Integrations changes in rust-v0.163.0]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-10-16-updates-to-gpt-6-pro-model-in-chatgpt-6a44f64a|chatgpt-2026-10-16-updates-to-gpt-6-pro-model-in-chatgpt-6a44f64a]]'

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: b868e3f2dbdc229308ea492f48d129a6eecee77120a0a979c545b024c5ac4139
+machine_hash: bb803bf657f5cdb9249f156a73358176b3d12b5afca517b1cc4ce1df6c0da1e4
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -41,8 +41,8 @@ record:
   title: '#14829 [stack 3/4] Add current thread context to realtime startup @aibrahim-oai'
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-03-16-2-context-window-changes-in-rust-v0-115-0|2 Context
-  Window changes in rust-v0.115.0]]'
+- '[[Changes/Dify/2026-03-17-9-context-window-changes-in-1-13-1|9 Context Window changes
+  in 1.13.1]]'
 - '[[Changes/GitHub Copilot CLI/2026-03-17-add-subagentstart-hook-that-fires-when-a-subagent-is-spawned-with-support-for-in|Add
   subagentStart hook that fires when a subagent is spawned, with support…]]'
 - '[[Changes/Cline/2026-03-19-respect-user-configured-context-window-in-litellm-getmodel|Respect

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: pricing
-machine_hash: 63283b3bb439db7873bb0a9d0836038977dac9dbdfd9f73d4c9075aaabf130c8
+machine_hash: 22e723215f99ec3d0d3277474254757007a1aae32878c17062d7259568f078e1
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -51,12 +51,12 @@ record:
   title: API credits for eligible ChatGPT Pro and Business plans
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-10-15-the-rosalind-academic-plan-helps-eligible-academic-labs-use-chatgpt-for-life-sci|The
-  Rosalind Academic Plan helps eligible academic labs use ChatGPT for life…]]'
 - '[[Changes/GitHub Copilot CLI/2026-10-19-complete-usage-reporting-no-longer-shows-partial-status-or-phantom-unattributed|Complete
   usage reporting no longer shows partial status or phantom unattributed…]]'
 - '[[Changes/ChatGPT/2026-10-21-you-can-now-use-momo-to-pay-for-chatgpt-go-plus-and-pro-subscriptions-purchased|MoMo
   payments in Vietnam]]'
+- '[[Changes/ElevenLabs/2026-10-26-2-pricing-model-changes-in-elevenlabs-updates-2026-10-26|2
+  Pricing Model changes in ElevenLabs updates — 2026-10-26]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-10-28-api-credits-for-eligible-chatgpt-pro-and-business-plans-a2290f64|chatgpt-2026-10-28-api-credits-for-eligible-chatgpt-pro-and-business-plans-a2290f64]]'
 source_type: chatgpt_changelog
 theme: pricing-model
@@ -83,8 +83,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Pricing Model
 
-- Earlier: 2026-10-21 · ChatGPT · [[Changes/ChatGPT/2026-10-21-you-can-now-use-momo-to-pay-for-chatgpt-go-plus-and-pro-subscriptions-purchased|MoMo payments in Vietnam]]
-- Later: 2026-10-29 · Codex CLI · [[Changes/Codex CLI/2026-10-29-56495-add-paginated-channel-subscription-queries-to-the-local-message-board-feli|♯56495 Add paginated channel subscription queries to the local message board @felixxia-oai]]
+- Earlier: 2026-10-26 · ElevenLabs · [[Changes/ElevenLabs/2026-10-26-2-pricing-model-changes-in-elevenlabs-updates-2026-10-26|2 Pricing Model changes in ElevenLabs updates — 2026-10-26]]
+- Later: 2026-10-28 · Lovable · [[Changes/Lovable/2026-10-28-get-an-email-before-your-credits-run-out|Get an email before your credits run out]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -4,20 +4,20 @@ date: '2026-06-18'
 description: 'Codex CLI · 2026-06-18 · Enterprise and Administration: TLS connections
   now support P-521 certificate signatures commonly used by enterprise proxies. (#27706)'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2024-03-20-admin-improvements-team-admins-can-now-mark-themselves-as-unpaid-users-and-can-s|Admin
-    improvements: Team admins can now mark themselves as unpaid users and can see…]]'
+  first_in_tracked: '[[Changes/Gemini/2023-05-05-access-for-google-workspace-accounts|Access
+    for Google Workspace accounts]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 820
+  lag_days: 1140
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 7eb04037e2e982716157aa75fcd28a6e46117dec47ea6cdfacc063a8d6e80f14
+machine_hash: 93396761d39458e8787fed623c32ff31d7a270f92bdd6ddcce4de90d869ea58f
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -45,12 +45,11 @@ record:
     enterprise…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-06-04-added-requiredminimumversion-and-requiredmaximumversion-managed-settings-claude|Added
-  requiredMinimumVersion and requiredMaximumVersion managed settings]]'
-- '[[Changes/Codex CLI/2026-06-04-2-enterprise-and-administration-changes-in-rust-v0-137-0|2
-  Enterprise and Administration changes in rust-v0.137.0]]'
-- '[[Changes/ChatGPT/2026-06-08-send-an-email-directly-from-within-a-chat-if-you-ve-connected-gmail-or-outlook-y|Send
-  an email directly from within a chat]]'
+- '[[Changes/ElevenLabs/2026-06-08-text-to-dialogue|Text to Dialogue]]'
+- '[[Changes/Lovable/2026-06-08-transfer-a-domain-to-lovable|Transfer a domain to
+  Lovable]]'
+- '[[Changes/Lovable/2026-06-10-user-insights-for-workspace-members|User insights
+  for workspace members]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-06-18-rust-v0-141-0-github-341160952-94bdbd75|codex-cli-2026-06-18-rust-v0-141-0-github-341160952-94bdbd75]]'
 source_type: github_releases
 theme: enterprise-admin
@@ -87,14 +86,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Enterprise and Administration
 
-- Earlier: 2026-06-08 · ChatGPT · [[Changes/ChatGPT/2026-06-08-send-an-email-directly-from-within-a-chat-if-you-ve-connected-gmail-or-outlook-y|Send an email directly from within a chat]]
-- Later: 2026-07-06 · OpenHands · [[Changes/OpenHands/2026-07-06-3-enterprise-and-administration-changes-in-1-9-0|3 Enterprise and Administration changes in 1.9.0]]
+- Earlier: 2026-06-10 · Lovable · [[Changes/Lovable/2026-06-10-user-insights-for-workspace-members|User insights for workspace members]]
+- Later: 2026-06-18 · Lovable · [[Changes/Lovable/2026-06-18-clearer-personal-folder-access-management|Clearer personal folder access management]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2024-03-20 · Cursor · [[Changes/Cursor/2024-03-20-admin-improvements-team-admins-can-now-mark-themselves-as-unpaid-users-and-can-s|Admin improvements: Team admins can now mark themselves as unpaid users and can see…]]
+- Earliest same-theme entry in the tracked set: 2023-05-05 · Gemini · [[Changes/Gemini/2023-05-05-access-for-google-workspace-accounts|Access for Google Workspace accounts]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

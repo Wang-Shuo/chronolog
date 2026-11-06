@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 8fc8009a15eee9164567b18bc2b374f3a99b1200b1ec6fa2bac31e0da86c8f9f
+machine_hash: c7fd96c9c084d82901aaa975a1a244a6e735acbf50f012adb54ee8db5caad80c
 product: claude-code
 product_name: Claude Code
 record:
@@ -70,10 +70,9 @@ record:
   title: 9 Safety and Privacy changes in v2.1.232
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-08-10-11-safety-and-privacy-changes-in-v1-0-79|11
-  Safety and Privacy changes in v1.0.79]]'
 - '[[Changes/Gemini CLI/2026-08-11-fix-a2a-server-enforce-workspace-trust-and-task-isolation-to-prevent-rce-by-luis|fix(a2a-server):
   enforce workspace trust and task isolation to prevent RCE]]'
+- '[[Changes/Lovable/2026-08-11-limit-on-free-fixes|Limit on free fixes]]'
 - '[[Changes/Claude Code/2026-08-12-improved-sandbox-ipv6-literals-in-network-domain-lists-are-now-bracketed-1-443-a|Improved
   sandbox: IPv6 literals in network domain lists are now bracketed…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-08-13-v2-1-232-github-370225682-71e478db|claude-code-2026-08-13-v2-1-232-github-370225682-71e478db]]'

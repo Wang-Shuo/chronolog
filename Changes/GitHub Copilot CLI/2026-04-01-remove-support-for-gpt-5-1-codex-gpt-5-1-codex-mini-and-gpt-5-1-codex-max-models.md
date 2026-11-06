@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: f305f4458551d9a98a1199f310928fea0a2310cfd4d473c51d3617c943e24135
+machine_hash: e270da5af41fccb6856d7fb92d3fff046618d4b7851755e061f6efba22ddeb37
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -89,7 +89,7 @@ type: change
 ## Nearby in Model Support
 
 - Earlier: 2026-04-01 · Gemini CLI · [[Changes/Gemini CLI/2026-04-01-7-model-support-changes-in-v0-36-0|7 Model Support changes in v0.36.0]]
-- Later: 2026-04-04 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-04-04-new-critic-agent-automatically-reviews-plans-and-complex-implementations-using-a|New Critic agent automatically reviews plans and complex implementations using…]]
+- Later: 2026-04-02 · Ollama · [[Changes/Ollama/2026-04-02-26b-mixture-of-experts-model-with-4b-active-parameters|26B (Mixture of Experts model with 4B active parameters)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

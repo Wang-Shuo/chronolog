@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: dbcc09fe8dc7b78b7c9425603b92a316c96d4b71ccea4c65e8236cd1573c4457
+machine_hash: 118550b9f01749a6d3a850c53bfb57a6a48e8598539414cf6732b397c612a0d2
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -54,8 +54,8 @@ record:
   title: 8 Account and Access changes in rust-v0.149.0
   type: change
 related_changes:
-- '[[Changes/OpenHands/2026-08-13-ci-deps-bump-docker-login-action-from-4-5-2-to-4-6-0-in-the-actions-group-by-dep|ci(deps):
-  bump docker/login-action from 4.5.2 to 4.6.0 in the actions group…]]'
+- '[[Changes/v0/2026-08-14-expired-sessions-recover-instead-of-dropping-you-into-a-personal-only-or-logged|Expired
+  sessions recover instead of dropping you into a personal-only or logged-out…]]'
 - '[[Changes/Claude Code/2026-08-17-2-account-and-access-changes-in-v2-1-234|2 Account
   and Access changes in v2.1.234]]'
 - '[[Changes/Codex CLI/2026-08-18-16-account-and-access-changes-in-rust-v0-148-0|16

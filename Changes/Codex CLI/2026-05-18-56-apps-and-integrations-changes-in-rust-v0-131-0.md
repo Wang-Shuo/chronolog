@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 7279510d2fd815159a33c921e54d36069da5226a9c7e75d7924e5984ef683cb2
+machine_hash: 73cdd29ce06c747d8ebd7d288935baf03bca82920279c8cc6df47721cc9ccb7e
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -166,12 +166,12 @@ record:
   title: 56 Apps and Integrations changes in rust-v0.131.0
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-05-14-3-apps-and-integrations-changes-in-v2-1-142|3
-  Apps and Integrations changes in v2.1.142]]'
-- '[[Changes/GitHub Copilot CLI/2026-05-14-auto-disable-the-built-in-github-mcp-server-in-azure-devops-only-workspaces-when|Auto-disable
-  the built-in github-mcp-server in Azure DevOps-only workspaces…]]'
-- '[[Changes/Claude Code/2026-05-15-3-apps-and-integrations-changes-in-v2-1-143|3
-  Apps and Integrations changes in v2.1.143]]'
+- '[[Changes/Replit/2026-05-15-nine-new-connectors-ready-to-use-out-of-the-box|Nine
+  new connectors ready to use out of the box]]'
+- '[[Changes/Replit/2026-05-15-four-new-mcp-servers-in-the-directory|Four new MCP
+  servers in the directory]]'
+- '[[Changes/v0/2026-05-15-the-built-with-v0-badge-respects-branding-settings-on-deployed-apps-and-the-prev|The
+  "built with v0" badge respects branding settings on deployed apps…]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-05-18-rust-v0-131-0-github-324452638-5f16ff1d|codex-cli-2026-05-18-rust-v0-131-0-github-324452638-5f16ff1d]]'
 source_type: github_releases
 theme: apps-integrations
@@ -323,8 +323,8 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.131.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-05-15 · Claude Code · [[Changes/Claude Code/2026-05-15-3-apps-and-integrations-changes-in-v2-1-143|3 Apps and Integrations changes in v2.1.143]]
-- Later: 2026-05-19 · Claude Code · [[Changes/Claude Code/2026-05-19-plugin-discover-and-browse-screens-now-show-a-plugin-s-commands-agents-skills-ho|/plugin Discover and Browse screens now show a plugin's commands, agents, skills…]]
+- Earlier: 2026-05-15 · v0 · [[Changes/v0/2026-05-15-the-built-with-v0-badge-respects-branding-settings-on-deployed-apps-and-the-prev|The "built with v0" badge respects branding settings on deployed apps…]]
+- Later: 2026-05-18 · ElevenLabs · [[Changes/ElevenLabs/2026-05-18-sdk-releases|SDK Releases]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

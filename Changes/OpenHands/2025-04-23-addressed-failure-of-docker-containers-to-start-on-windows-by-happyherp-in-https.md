@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 9d582a42d934bc36ebe86393d30bc340d02f2ffd6e5137a0afd27c962ebb4c9d
+machine_hash: 505db5ae0f47167f27841078124682ae7bb10367ddc86591c34ae64d2c91e8d3
 product: openhands
 product_name: OpenHands
 record:
@@ -44,12 +44,12 @@ record:
   title: Addressed failure of Docker containers to start on Windows
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2025-02-28-long-press-to-select-text-on-ios-and-moved-the-message-quick-actions-to-always-b-a40c3f|Long
-  press to select text on iOS and moved the message quick actions to always…]]'
-- '[[Changes/Aider/2025-03-10-specify-desktop-notification-command-with-notifications-command|Specify
-  desktop notification command with --notifications-command]]'
-- '[[Changes/ChatGPT/2025-03-18-improved-table-copying-functionality-out-of-chatgpt-responses-on-ios-and-macos|Improved
-  table-copying functionality out of ChatGPT responses on iOS and macOS]]'
+- '[[Changes/Dify/2025-03-24-inputs-on-ios-devices-squashed-bugs-causing-errors-when-passing-inputs-on-ios-by|Inputs
+  on iOS Devices]]'
+- '[[Changes/ElevenLabs/2025-03-24-core-app-signup-added-signup-endpoints-for-the-new-core-mobile-app|Core
+  app signup: Added signup endpoints for the new Core mobile app]]'
+- '[[Changes/Dify/2025-04-09-ui-ux-improvements-whether-it-s-fixing-layout-issues-on-mobile-thanks-leeeeeem-i|UI/UX
+  Improvements: Whether it’s fixing layout issues on mobile…]]'
 source_release: '[[Releases/OpenHands/openhands-2025-04-23-0-34-0-github-214259369-f2d174a1|openhands-2025-04-23-0-34-0-github-214259369-f2d174a1]]'
 source_type: github_releases
 theme: mobile-desktop
@@ -82,7 +82,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2025-03-18 · ChatGPT · [[Changes/ChatGPT/2025-03-18-improved-table-copying-functionality-out-of-chatgpt-responses-on-ios-and-macos|Improved table-copying functionality out of ChatGPT responses on iOS and macOS]]
+- Earlier: 2025-04-09 · Dify · [[Changes/Dify/2025-04-09-ui-ux-improvements-whether-it-s-fixing-layout-issues-on-mobile-thanks-leeeeeem-i|UI/UX Improvements: Whether it’s fixing layout issues on mobile…]]
 - Later: 2025-04-29 · Windsurf · [[Changes/Windsurf/2025-04-29-reduced-errors-for-edit-tool-calls-for-windows|Reduced errors for edit tool calls for Windows]]
 <!-- chronolog:end -->
 

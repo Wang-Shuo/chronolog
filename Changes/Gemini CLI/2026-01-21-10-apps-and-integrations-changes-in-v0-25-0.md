@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 4f5631eb3cbf38b36f2bdafca2bce03ce72c66641ddc5da91331c16fb5b8879e
+machine_hash: 7bd0927e5310680a1a096fbe2101cf3098ead3dc0f1f8059349e44fd2a99107d
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -127,7 +127,7 @@ Source: https://github.com/google-gemini/gemini-cli/releases/tag/v0.25.0
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-01-21 · Codex CLI · [[Changes/Codex CLI/2026-01-21-3-apps-and-integrations-changes-in-rust-v0-88-0|3 Apps and Integrations changes in rust-v0.88.0]]
-- Later: 2026-01-22 · Claude Code · [[Changes/Claude Code/2026-01-22-vscode-added-native-plugin-management-support|VSCode Added native plugin management support]]
+- Later: 2026-01-21 · v0 · [[Changes/v0/2026-01-21-improved-integration-card-design-with-less-prominent-skip-button|Improved integration card design with less prominent skip button]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

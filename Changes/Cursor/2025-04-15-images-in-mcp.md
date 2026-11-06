@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 2d544966bb4a203e200677915cfdf8dce058e47908db321abebaca9ce422e34c
+machine_hash: 33cc9f32e44b2cab84ea462236f8262de52115c1907df11a79dbfa394c498e2d
 product: cursor
 product_name: Cursor
 record:
@@ -45,12 +45,12 @@ record:
   title: Images in MCP
   type: change
 related_changes:
-- '[[Changes/Windsurf/2025-04-07-increased-stability-around-mcp-sse-connections|Increased
-  stability around MCP SSE connections]]'
-- '[[Changes/Cline/2025-04-08-add-modal-in-the-chat-area-to-more-easily-enable-or-disable-mcp-servers|Add
-  modal in the chat area to more easily enable or disable MCP servers]]'
+- '[[Changes/Replit/2025-04-11-app-idea-generator-for-logged-out-visitors|App idea
+  generator for logged-out visitors]]'
 - '[[Changes/Cline/2025-04-12-add-settings-button-to-mcp-popover-to-easily-modify-installed-servers|Add
   settings button to MCP popover to easily modify installed servers]]'
+- "[[Changes/Open WebUI/2025-04-13-openapi-yaml-format-support-external-tools-can-now-use-yaml-format-openapi-specs|\U0001F4C4
+  OpenAPI YAML Format Support]]"
 source_release: '[[Releases/Cursor/cursor-2025-04-15-0-49-https-cursor-com-changelog-0-49-3e16488f|cursor-2025-04-15-0-49-https-cursor-com-changelog-0-49-3e16488f]]'
 source_type: cursor_changelog
 theme: apps-integrations
@@ -84,7 +84,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2025-04-12 · Cline · [[Changes/Cline/2025-04-12-add-settings-button-to-mcp-popover-to-easily-modify-installed-servers|Add settings button to MCP popover to easily modify installed servers]]
+- Earlier: 2025-04-13 · Open WebUI · [[Changes/Open WebUI/2025-04-13-openapi-yaml-format-support-external-tools-can-now-use-yaml-format-openapi-specs|📄 OpenAPI YAML Format Support]]
 - Later: 2025-04-16 · OpenHands · [[Changes/OpenHands/2025-04-16-added-support-for-mcp-servers-natively-via-codeactagent-by-ducphamle2-in-https-g|Added support for MCP servers natively via CodeActAgent]]
 <!-- chronolog:end -->
 

@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: c051c74dcbc4d371d62bd0dfdf561700afb29f4c501eb84c4703279f9f91195f
+machine_hash: 590fa88b94dc27aa0a3ac2675bf17f74bc1b7436918ca968eed2f3b33fde2c89
 product: cline
 product_name: Cline
 record:
@@ -41,9 +41,10 @@ record:
   title: Add collapsible recent task list, allowing users to hide their task history…
   type: change
 related_changes:
-- '[[Changes/Windsurf/2025-05-06-teams-windsurf-reviews|Teams: Windsurf Reviews]]'
 - '[[Changes/Windsurf/2025-05-06-teams-features|Teams Features]]'
 - '[[Changes/Windsurf/2025-05-06-teams-conversation-sharing|Teams: Conversation Sharing]]'
+- '[[Changes/Lovable/2025-05-09-project-visibility-settings-have-returned-to-team-workspaces-but-will-be-disable|Project
+  visibility settings have returned to team workspaces, but will be disabled for now]]'
 source_release: '[[Releases/Cline/cline-2025-05-16-v3-16-0-github-219219393-255497c4|cline-2025-05-16-v3-16-0-github-219219393-255497c4]]'
 source_type: github_releases
 theme: collaboration
@@ -73,8 +74,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Collaboration
 
-- Earlier: 2025-05-06 · Windsurf · [[Changes/Windsurf/2025-05-06-teams-conversation-sharing|Teams: Conversation Sharing]]
-- Later: 2025-05-22 · Cline · [[Changes/Cline/2025-05-22-add-support-for-global-workflows-allowing-workflows-to-be-shared-across-workspac|Add support for global workflows, allowing workflows to be shared across workspaces…]]
+- Earlier: 2025-05-09 · Lovable · [[Changes/Lovable/2025-05-09-project-visibility-settings-have-returned-to-team-workspaces-but-will-be-disable|Project visibility settings have returned to team workspaces, but will be disabled for now]]
+- Later: 2025-05-16 · Replit · [[Changes/Replit/2025-05-16-viewer-seats-for-replit-teams|Viewer seats for Replit Teams]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

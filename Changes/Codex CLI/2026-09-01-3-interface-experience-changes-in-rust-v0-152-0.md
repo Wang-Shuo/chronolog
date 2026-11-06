@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 25a3cdf1fdd9a1a201e6e26f21410db1cb814f02a003be189172fc645917084a
+machine_hash: c90c9ab0efb27f1aa0f38efa06e8110302c096a13f4d60424f5a33aaa48feffd
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -46,10 +46,10 @@ record:
   title: 3 Interface Experience changes in rust-v0.152.0
   type: change
 related_changes:
-- '[[Changes/OpenHands/2026-08-27-feat-pin-a-favorite-sidebar-page-as-the-home-route-by-hieptl-in-https-github-com|feat:
-  pin a favorite sidebar page as the home route]]'
-- '[[Changes/Claude Code/2026-08-28-added-a-spend-limit-bar-to-usage-and-a-rate-limits-spend-limit-status-line-field|Added
-  a Spend limit bar to /usage and a rate_limits.spend_limit status line…]]'
+- '[[Changes/Open WebUI/2026-08-31-accessibility-mode-reaches-the-menus-accessibility-mode-now-marks-the-menu-entry|♿
+  Accessibility mode reaches the menus. Accessibility mode now marks the menu…]]'
+- '[[Changes/Open WebUI/2026-08-31-3-interface-experience-changes-in-v0-11-2|3 Interface
+  Experience changes in v0.11.2]]'
 - '[[Changes/Claude Code/2026-09-01-2-interface-experience-changes-in-v2-1-257|2 Interface
   Experience changes in v2.1.257]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-09-01-rust-v0-152-0-github-380164108-cd339544|codex-cli-2026-09-01-rust-v0-152-0-github-380164108-cd339544]]'
@@ -97,7 +97,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.152.0
 ## Nearby in Interface Experience
 
 - Earlier: 2026-09-01 · Claude Code · [[Changes/Claude Code/2026-09-01-2-interface-experience-changes-in-v2-1-257|2 Interface Experience changes in v2.1.257]]
-- Later: 2026-09-02 · Claude Code · [[Changes/Claude Code/2026-09-02-vscode-added-an-active-quick-filter-and-a-status-filter-menu-needs-input-working|VSCode Added an Active quick filter and a status filter menu…]]
+- Later: 2026-09-01 · Lovable · [[Changes/Lovable/2026-09-01-empty-project-groups-no-longer-show-in-the-sidebar|Empty project groups no longer show in the sidebar]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 63e4bfd8b295c524e462b3a5222562c83f8d0ee4ff43688a698e65ddc03d5608
+machine_hash: 2c5b962aece8bdbf4e72821c1348bca6fe0fd26062a0f497f6b2454d46c505e3
 product: cursor
 product_name: Cursor
 record:
@@ -43,12 +43,12 @@ record:
   title: Cursor Marketplace
   type: change
 related_changes:
-- '[[Changes/Cursor/2023-07-07-importing-vs-code-extensions-now-takes-into-account-enabled-disabled|Importing
-  VS Code extensions now takes into account enabled/disabled]]'
-- '[[Changes/Aider/2023-07-12-install-docs-link-to-neovim-plugin-https-github-com-joshuavial-aider-nvim-by-jos|Install
-  docs link to NeoVim plugin((source link)]]'
-- '[[Changes/Cursor/2023-07-28-more-robust-extension-handling-you-can-now-use-pre-release-extensions-again|More
-  robust extension handling]]'
+- "[[Changes/Ollama/2023-08-10-ollama-langchain-integration-https-python-langchain-com-docs-integrations-llms-o|Ollama
+  \U0001F99C️\U0001F517 LangChain…]]"
+- '[[Changes/Dify/2023-08-14-add-ruby-s-sdk-implement-code-by-benjaminx-in-https-github-com-langgenius-dify-p|Add
+  Ruby''s SDK implement code]]'
+- '[[Changes/Dify/2023-09-09-chore-handle-workspace-apps-scrollbar-by-iamjoel-in-https-github-com-langgenius|chore:
+  handle workspace apps scrollbar]]'
 source_release: '[[Releases/Cursor/cursor-2023-09-11-0-10-6-nightly-https-cursor-com-changelog-0-10-6-nightly-5ca60ed6|cursor-2023-09-11-0-10-6-nightly-https-cursor-com-changelog-0-10-6-nightly-5ca60ed6]]'
 source_type: cursor_changelog
 theme: apps-integrations
@@ -75,7 +75,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2023-07-28 · Cursor · [[Changes/Cursor/2023-07-28-more-robust-extension-handling-you-can-now-use-pre-release-extensions-again|More robust extension handling]]
+- Earlier: 2023-09-09 · Dify · [[Changes/Dify/2023-09-09-chore-handle-workspace-apps-scrollbar-by-iamjoel-in-https-github-com-langgenius|chore: handle workspace apps scrollbar]]
 - Later: 2023-09-17 · Cursor · [[Changes/Cursor/2023-09-17-we-point-to-a-different-marketplace-for-downloading-extensions-and-use-a-fork-of|Cursor Python and Cursor Marketplace]]
 <!-- chronolog:end -->
 

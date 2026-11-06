@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: memory
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: eca88c87d57ef82aab82251a069ff3afefd3beafa654e42b45e47e7aeaf6e0dd
+machine_hash: 10ca387e55625277f7c228e69921968e57233ddb65b7437d1466941dcf2ef95d
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -47,12 +47,12 @@ record:
   title: 3 Memory and Personalization changes in v1.0.85
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-09-04-long-running-sessions-on-linux-return-freed-memory-to-the-system-instead-of-hold|Long-running
-  sessions on Linux return freed memory to the system instead of holding…]]'
 - '[[Changes/Codex CLI/2026-09-09-2-memory-and-personalization-changes-in-rust-v0-154-0|2
   Memory and Personalization changes in rust-v0.154.0]]'
 - '[[Changes/Claude Code/2026-09-10-2-memory-and-personalization-changes-in-v2-1-268|2
   Memory and Personalization changes in v2.1.268]]'
+- '[[Changes/Dify/2026-09-10-2-memory-and-personalization-changes-in-1-17-1|2 Memory
+  and Personalization changes in 1.17.1]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-09-16-v1-0-85-github-389603482-889a46d9|github-copilot-cli-2026-09-16-v1-0-85-github-389603482-889a46d9]]'
 source_type: github_releases
 theme: memory
@@ -103,7 +103,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.85
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Memory and Personalization
 
-- Earlier: 2026-09-10 · Claude Code · [[Changes/Claude Code/2026-09-10-2-memory-and-personalization-changes-in-v2-1-268|2 Memory and Personalization changes in v2.1.268]]
+- Earlier: 2026-09-10 · Dify · [[Changes/Dify/2026-09-10-2-memory-and-personalization-changes-in-1-17-1|2 Memory and Personalization changes in 1.17.1]]
 - Later: 2026-09-17 · Claude Code · [[Changes/Claude Code/2026-09-17-vscode-added-viewing-editing-and-deleting-a-saved-memory-inside-the-memory-dialo|VSCode Added viewing, editing and deleting a saved memory inside the Memory dialog]]
 <!-- chronolog:end -->
 

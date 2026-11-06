@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 05a0204af42009699ab97cd8727afce223171ed24cfb7e99c1c8140d54749147
+machine_hash: e837d4b72c254b760e40fc3dc972afbcc29c0827fd18586f73ff64d6c3c0a814
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -109,7 +109,7 @@ Source: https://github.com/google-gemini/gemini-cli/releases/tag/v0.28.0
 ## Nearby in Developer Workflow
 
 - Earlier: 2026-02-10 · Claude Code · [[Changes/Claude Code/2026-02-10-improved-heredoc-delimiter-parsing-to-prevent-command-smuggling|Improved heredoc delimiter parsing to prevent command smuggling]]
-- Later: 2026-02-11 · Codex CLI · [[Changes/Codex CLI/2026-02-11-9-developer-workflow-changes-in-rust-v0-99-0|9 Developer Workflow changes in rust-v0.99.0]]
+- Later: 2026-02-10 · v0 · [[Changes/v0/2026-02-10-added-support-for-nuxt-and-additional-frameworks-in-git-imports|Added support for Nuxt and additional frameworks in Git imports]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: be6654fb14f83c9376780739e901092ea6ba67e65db007e256186e5dc7010545
+machine_hash: 8de7363e84020ab9f1b8d723dccb7c4b64e4af9276353689460a3afc5e3c9d4b
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -46,10 +46,9 @@ record:
   title: 3 Agent Mode changes in v1.0.61
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-06-08-2-agent-mode-changes-in-v2-1-169|2 Agent Mode
-  changes in v2.1.169]]'
-- '[[Changes/Codex CLI/2026-06-08-8-agent-mode-changes-in-rust-v0-138-0|8 Agent Mode
-  changes in rust-v0.138.0]]'
+- '[[Changes/ElevenLabs/2026-06-08-elevenagents|ElevenAgents]]'
+- '[[Changes/v0/2026-06-08-2-agent-mode-changes-in-changelog-update|2 Agent Mode changes
+  in Changelog update]]'
 - '[[Changes/Codex CLI/2026-06-09-5-agent-mode-changes-in-rust-v0-139-0|5 Agent Mode
   changes in rust-v0.139.0]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-06-09-v1-0-61-github-336905979-4d0a69f2|github-copilot-cli-2026-06-09-v1-0-61-github-336905979-4d0a69f2]]'
@@ -98,7 +97,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.61
 ## Nearby in Agent Mode
 
 - Earlier: 2026-06-09 · Codex CLI · [[Changes/Codex CLI/2026-06-09-5-agent-mode-changes-in-rust-v0-139-0|5 Agent Mode changes in rust-v0.139.0]]
-- Later: 2026-06-10 · Claude Code · [[Changes/Claude Code/2026-06-10-sub-agents-can-now-spawn-their-own-sub-agents-up-to-5-levels-deep|Sub-agents can now spawn their own sub-agents (up to 5 levels deep)]]
+- Later: 2026-06-09 · Lovable · [[Changes/Lovable/2026-06-09-publish-from-chat|Publish from chat]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

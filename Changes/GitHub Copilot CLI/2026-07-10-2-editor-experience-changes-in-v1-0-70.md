@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 4672b8f2332f8e8f579bae3c29865fc2bb65e0c0177dc0778f5aeea0aa66039d
+machine_hash: 0b578dea95a9c262b26c48f018e2a5df4bcdb1d886272eed6a6c5765c6123157
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -44,10 +44,10 @@ record:
   title: 2 Editor Experience changes in v1.0.70
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-07-08-3-editor-experience-changes-in-rust-v0-143-0|3 Editor
-  Experience changes in rust-v0.143.0]]'
 - '[[Changes/Codex CLI/2026-07-09-31191-handle-completion-separators-and-popup-dismissal-charliemarsh-oai|♯31191
   Handle completion separators and popup dismissal @charliemarsh-oai]]'
+- '[[Changes/Lovable/2026-07-09-improved-image-gallery-in-the-files-tab|Improved image
+  gallery in the Files tab]]'
 - '[[Changes/Claude Code/2026-07-10-added-a-doctor-check-that-proposes-trimming-checked-in-claude-md-files-by-cuttin|Added
   a /doctor check that proposes trimming checked-in CLAUDE.md files…]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-07-10-v1-0-70-github-351853788-0192ae35|github-copilot-cli-2026-07-10-v1-0-70-github-351853788-0192ae35]]'
@@ -92,7 +92,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.70
 ## Nearby in Editor Experience
 
 - Earlier: 2026-07-10 · Claude Code · [[Changes/Claude Code/2026-07-10-added-a-doctor-check-that-proposes-trimming-checked-in-claude-md-files-by-cuttin|Added a /doctor check that proposes trimming checked-in CLAUDE.md files…]]
-- Later: 2026-07-14 · Claude Code · [[Changes/Claude Code/2026-07-14-2-editor-experience-changes-in-v2-1-208|2 Editor Experience changes in v2.1.208]]
+- Later: 2026-07-10 · Lovable · [[Changes/Lovable/2026-07-10-see-project-status-in-your-browser-tab|See project status in your browser tab]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

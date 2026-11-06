@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 44ea10d36363273cc505968f9d8085bc33bb65c59e4ca772f64f2539efef3f80
+machine_hash: db10b042f7206d1ffc3d46c1cc981ebd24fde76e4bcf32e8dadff5edc8d888be
 product: claude-code
 product_name: Claude Code
 record:
@@ -87,7 +87,7 @@ type: change
 ## Nearby in Editor Experience
 
 - Earlier: 2026-10-22 · OpenHands · [[Changes/OpenHands/2026-10-22-refactor-diff-express-the-markdown-preview-cap-in-css-by-enyst-in-https-github-c|refactor(diff): express the Markdown preview cap in CSS]]
-- Later: 2026-10-23 · OpenHands · [[Changes/OpenHands/2026-10-23-chore-verify-openhands-time-network-responses-and-order-them-by-completion-by-en|chore(verify-openhands): time network responses and order them by completion]]
+- Later: 2026-10-23 · Dify · [[Changes/Dify/2026-10-23-3-editor-experience-changes-in-1-18-0|3 Editor Experience changes in 1.18.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

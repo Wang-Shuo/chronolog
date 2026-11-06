@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: d2f4c0af3c7fde9ea06c38aca85c88c7dc2292d5c3793a748eb496948e61f2b7
+machine_hash: be1cf220cfb1f086f6d687037c38e3f59c956cdec6097e6fb3a524ce6f5c7f81
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -43,8 +43,8 @@ record:
   title: 2 Agent Mode changes in rust-v0.80.0
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-01-08-task-tool-subagents-can-now-process-images|Task
-  tool subagents can now process images]]'
+- '[[Changes/v0/2026-01-08-improved-how-large-inputs-are-stored-in-the-agent-s-filesystem-for-better-recall|Improved
+  how large inputs are stored in the agent''s filesystem for better recall]]'
 - '[[Changes/Claude Code/2026-01-09-added-agent-type-to-sessionstart-hook-input-populated-if-agent-is-specified|Added
   agent_type to SessionStart hook input, populated if --agent is specified]]'
 - '[[Changes/Cline/2026-01-09-add-skills-system-for-reusable-on-demand-agent-instructions|Add
@@ -91,7 +91,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.80.0
 ## Nearby in Agent Mode
 
 - Earlier: 2026-01-09 · Cline · [[Changes/Cline/2026-01-09-add-skills-system-for-reusable-on-demand-agent-instructions|Add Skills system for reusable, on-demand agent instructions]]
-- Later: 2026-01-11 · Claude Code · [[Changes/Claude Code/2026-01-11-added-claude-code-disable-background-tasks-environment-variable-to-disable-all-b|Added CLAUDE_CODE_DISABLE_BACKGROUND_TASKS environment variable to disable all…]]
+- Later: 2026-01-09 · Replit · [[Changes/Replit/2026-01-09-ai-command-in-shell|AI command in Shell]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

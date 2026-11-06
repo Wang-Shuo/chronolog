@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 011935815f1f7b8651f6c5975009309629f84687c5f4601449e704febfc87d54
+machine_hash: c48d5ce7c80dbccb7d2ee12b0b63358ef6f636d02c96ba5896900ca1b421b734
 product: cline
 product_name: Cline
 record:
@@ -46,8 +46,7 @@ record:
     now…
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-09-29-3-account-and-access-changes-in-rust-v0-159-0|3
-  Account and Access changes in rust-v0.159.0]]'
+- '[[Changes/v0/2026-09-29-connect-your-chatgpt-account|Connect your ChatGPT account]]'
 - '[[Changes/Windsurf/2026-09-29-sign-in-with-chatgpt|Sign in with ChatGPT]]'
 - '[[Changes/Windsurf/2026-09-29-sign-in-with-chatgpt-cf599d|Sign in with ChatGPT]]'
 source_release: '[[Releases/Cline/cline-2026-09-30-v4-1-22-github-399711754-cf15d339|cline-2026-09-30-v4-1-22-github-399711754-cf15d339]]'
@@ -81,7 +80,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Account and Access
 
-- Earlier: 2026-09-29 · Windsurf · [[Changes/Windsurf/2026-09-29-sign-in-with-chatgpt-cf599d|Sign in with ChatGPT]]
+- Earlier: 2026-09-29 · v0 · [[Changes/v0/2026-09-29-connect-your-chatgpt-account|Connect your ChatGPT account]]
 - Later: 2026-09-30 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-09-30-mcp-oauth-sign-in-to-servers-such-as-datadog-reuses-a-still-valid-cached-token|MCP OAuth sign-in to servers such as Datadog reuses a still-valid cached token]]
 <!-- chronolog:end -->
 

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 0053a95ddddddf207dfe659de96d891a8bc0a5e141a4ea23307621a7451107c2
+machine_hash: 7dcf92496d40141f6dde38c64259c52a9faaf5014e0327dad5afe863f3f101dc
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,10 +45,10 @@ record:
   title: Changed left arrow to no longer close the background tasks, diff, and workflow…
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-06-30-ctrl-q-now-enqueues-the-highlighted-slash-command-argument-completion|Ctrl+Q
-  now enqueues the highlighted slash-command argument completion]]'
 - '[[Changes/GitHub Copilot CLI/2026-07-01-2-editor-experience-changes-in-v1-0-68|2
   Editor Experience changes in v1.0.68]]'
+- '[[Changes/Open WebUI/2026-07-01-2-editor-experience-changes-in-v0-10-2|2 Editor
+  Experience changes in v0.10.2]]'
 - '[[Changes/Windsurf/2026-07-04-devin-local|Devin Local]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-07-07-v2-1-203-github-350481879-29776bbc|claude-code-2026-07-07-v2-1-203-github-350481879-29776bbc]]'
 source_type: github_releases

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 25ec8f0f5ba68c411609326785b7dc1cbf78cfe477ca062ac59c73006210321e
+machine_hash: 2ccece6b8a30827d001bda5e4776900b3c2d576164bbeb1d5b4f9e2f641708f1
 product: aider
 product_name: Aider
 record:
@@ -83,7 +83,7 @@ type: change
 ## Nearby in Context Window
 
 - Earlier: 2024-08-26 · Cline · [[Changes/Cline/2024-08-26-implement-sliding-window-context-management-to-keep-tasks-going-past-200k-tokens|Implement sliding window context management to keep tasks going past 200k tokens]]
-- Later: 2024-09-19 · Cline · [[Changes/Cline/2024-09-19-you-can-now-use-in-the-textarea-to-add-context|Use @ in the textarea to add context!]]
+- Later: 2024-09-17 · Ollama · [[Changes/Ollama/2024-09-17-qwen-2-5-https-ollama-com-library-qwen2-5-new-multilingual-qwen-models-pretraine|Qwen 2.5((source link) new multilingual Qwen models…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: c282987161ab8b920d1610c71bf70d95be1f41fd8f1b8628123f31ae94e07671
+machine_hash: b8fd60c2640335a23a2910eb22b10be8470017040e35e139088f06fb7d3b436a
 product: openhands
 product_name: OpenHands
 record:
@@ -42,12 +42,12 @@ record:
   title: 2 Agent Mode changes in v1.36.0
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-30-3-agent-mode-changes-in-v2-1-314|3 Agent Mode
-  changes in v2.1.314]]'
-- '[[Changes/Claude Code/2026-10-31-2-agent-mode-changes-in-v2-1-316|2 Agent Mode
-  changes in v2.1.316]]'
+- "[[Changes/Open WebUI/2026-11-03-no-sub-agent-limits-by-default-the-sub-agent-limits-in-admin-settings-and-throug|\U0001F513
+  No sub-agent limits by default. The sub-agent limits in Admin Settings…]]"
 - '[[Changes/OpenHands/2026-11-03-3-agent-mode-changes-in-v1-35-0|3 Agent Mode changes
   in v1.35.0]]'
+- '[[Changes/Dify/2026-11-04-14-agent-mode-changes-in-1-19-0|14 Agent Mode changes
+  in 1.19.0]]'
 source_release: '[[Releases/OpenHands/openhands-2026-11-05-v1-36-0-github-435773936-3d3cf53c|openhands-2026-11-05-v1-36-0-github-435773936-3d3cf53c]]'
 source_type: github_releases
 theme: agent-mode
@@ -84,7 +84,7 @@ Source: https://github.com/OpenHands/OpenHands/releases/tag/v1.36.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2026-11-03 · OpenHands · [[Changes/OpenHands/2026-11-03-3-agent-mode-changes-in-v1-35-0|3 Agent Mode changes in v1.35.0]]
+- Earlier: 2026-11-04 · Dify · [[Changes/Dify/2026-11-04-14-agent-mode-changes-in-1-19-0|14 Agent Mode changes in 1.19.0]]
 - Later: 2026-11-06 · Codex CLI · [[Changes/Codex CLI/2026-11-06-6-agent-mode-changes-in-rust-v0-167-0|6 Agent Mode changes in rust-v0.167.0]]
 <!-- chronolog:end -->
 

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: cc2eaf5f8689ad5f948a75be6c64ad4ebf1396e9f0156349800d3cf846d755aa
+machine_hash: 0486d3e058e47519bf0e92ee95cc0f43ebbffda0ac8e690700b7de1d0bd67b48
 product: cline
 product_name: Cline
 record:
@@ -44,10 +44,10 @@ record:
   title: Allow selecting Cline free models on the ClinePass provider, organized…
   type: change
 related_changes:
-- '[[Changes/OpenHands/2026-07-06-4-model-support-changes-in-1-9-0|4 Model Support
-  changes in 1.9.0]]'
 - '[[Changes/GitHub Copilot CLI/2026-07-07-6-model-support-changes-in-v1-0-69|6 Model
   Support changes in v1.0.69]]'
+- '[[Changes/Lovable/2026-07-07-nano-banana-2-lite-image-model-for-ai-features-in-your-app|Nano
+  Banana 2 Lite image model for AI features in your app]]'
 - '[[Changes/Codex CLI/2026-07-08-14-model-support-changes-in-rust-v0-143-0|14 Model
   Support changes in rust-v0.143.0]]'
 source_release: '[[Releases/Cline/cline-2026-07-09-v4-0-7-github-351278875-29c28c0c|cline-2026-07-09-v4-0-7-github-351278875-29c28c0c]]'

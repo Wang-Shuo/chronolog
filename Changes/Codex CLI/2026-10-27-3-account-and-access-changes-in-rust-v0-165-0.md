@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 05ee49cf443e1de9de58411096210bec6bdb36b05db6b0154ee3e0a12aa82b8d
+machine_hash: 3a210c80e5c7c69a24400167ea259757ec736e1a1dac6d3066777c363789fbae
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -45,10 +45,9 @@ record:
   title: 3 Account and Access changes in rust-v0.165.0
   type: change
 related_changes:
-- '[[Changes/Windsurf/2026-10-24-a-saved-sign-in-keeps-working-after-updating-on-machines-where-the-editor-s-own|A
-  saved sign-in keeps working after updating on machines where the editor''s own…]]'
-- '[[Changes/Claude Code/2026-10-26-improved-the-message-shown-when-a-pasted-sign-in-code-is-refused-it-now-says-the|Improved
-  the message shown when a pasted sign-in code is refused]]'
+- '[[Changes/ElevenLabs/2026-10-26-elevenlabs-cli|ElevenLabs CLI]]'
+- '[[Changes/ElevenLabs/2026-10-26-oauth-scope-oauth-clients-can-request-the-realtime-translation-scope|OAuth
+  scope: OAuth clients can request the realtime_translation scope]]'
 - '[[Changes/Windsurf/2026-10-26-a-dropped-connection-during-sign-in-no-longer-signs-you-out-devin-desktop-retrie|A
   dropped connection during sign-in no longer signs you out]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-10-27-rust-v0-165-0-github-425927431-1fa685eb|codex-cli-2026-10-27-rust-v0-165-0-github-425927431-1fa685eb]]'
@@ -94,7 +93,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.165.0
 ## Nearby in Account and Access
 
 - Earlier: 2026-10-26 · Windsurf · [[Changes/Windsurf/2026-10-26-a-dropped-connection-during-sign-in-no-longer-signs-you-out-devin-desktop-retrie|A dropped connection during sign-in no longer signs you out]]
-- Later: 2026-10-29 · Codex CLI · [[Changes/Codex CLI/2026-10-29-8-account-and-access-changes-in-rust-v0-166-0|8 Account and Access changes in rust-v0.166.0]]
+- Later: 2026-10-28 · Lovable · [[Changes/Lovable/2026-10-28-set-up-two-factor-authentication-from-the-dashboard-banner|Set up two-factor authentication from the dashboard banner]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

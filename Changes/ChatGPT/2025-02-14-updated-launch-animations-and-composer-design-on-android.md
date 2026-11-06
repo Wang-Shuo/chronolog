@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 7db826cd21b98b7f46681f0da9c15ce0ac8d27935df272b7e965599e78e6a4ff
+machine_hash: 31ac4973801fc0c9632b0179eaed85747ea728e5f35454a68ec3adc6a8674e75
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -41,10 +41,9 @@ record:
   title: Updated launch animations and composer design on Android
   type: change
 related_changes:
-- '[[Changes/Aider/2024-12-26-improved-environment-variable-setup-messages-on-windows|Improved
-  environment variable setup messages on Windows]]'
-- '[[Changes/ChatGPT/2025-01-17-we-ve-updated-custom-instructions-to-make-it-easier-to-customize-how-chatgpt-res-e42760|More
-  personalization in Custom Instructions]]'
+- '[[Changes/Ollama/2025-02-05-new-ollama-darwin-tgz-package-for-macos-that-replaces-the-previous-ollama-darwin|New
+  ollama-darwin.tgz package for macOS that replaces the previous ollama-darwin…]]'
+- '[[Changes/Replit/2025-02-07-replit-mobile|Replit Mobile]]'
 - '[[Changes/ChatGPT/2025-02-14-confirmation-dialog-for-logging-out-ios-web|Confirmation
   dialog for logging out (iOS, web)]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-02-14-set-chatgpt-as-default-search-engine-in-safari-11ec014b|chatgpt-2025-02-14-set-chatgpt-as-default-search-engine-in-safari-11ec014b]]'
@@ -79,8 +78,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2025-01-17 · ChatGPT · [[Changes/ChatGPT/2025-01-17-we-ve-updated-custom-instructions-to-make-it-easier-to-customize-how-chatgpt-res-e42760|More personalization in Custom Instructions]]
-- Later: 2025-02-21 · ChatGPT · [[Changes/ChatGPT/2025-02-21-ios-widget-see-below|iOS widget (see below)]]
+- Earlier: 2025-02-07 · Replit · [[Changes/Replit/2025-02-07-replit-mobile|Replit Mobile]]
+- Later: 2025-02-14 · Replit · [[Changes/Replit/2025-02-14-mobile-development|Mobile development]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

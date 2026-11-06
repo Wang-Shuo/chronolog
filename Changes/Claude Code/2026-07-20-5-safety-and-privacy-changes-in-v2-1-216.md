@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: de4e75258b2609f0ec96b63ec03db67102fae3d479c62fc9f0eb2e50552aa459
+machine_hash: 9fd0f10107c772cae459c8bcea504747e501a2e0ceea8bc946ddd7356e56bcf1
 product: claude-code
 product_name: Claude Code
 record:
@@ -55,10 +55,10 @@ record:
   title: 5 Safety and Privacy changes in v2.1.216
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-07-16-2-safety-and-privacy-changes-in-v1-0-71|2
-  Safety and Privacy changes in v1.0.71]]'
-- '[[Changes/Claude Code/2026-07-17-3-safety-and-privacy-changes-in-v2-1-212|3 Safety
-  and Privacy changes in v2.1.212]]'
+- '[[Changes/Dify/2026-07-17-20-safety-and-privacy-changes-in-1-16-0|20 Safety and
+  Privacy changes in 1.16.0]]'
+- '[[Changes/Dify/2026-07-17-agent-app-enters-open-beta-and-is-now-enabled-by-default-for-all-users-it-introd|Agent
+  App enters open beta and is now enabled by default for all users]]'
 - '[[Changes/Claude Code/2026-07-18-9-safety-and-privacy-changes-in-v2-1-214|9 Safety
   and Privacy changes in v2.1.214]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-07-20-v2-1-216-github-356972381-87e422ae|claude-code-2026-07-20-v2-1-216-github-356972381-87e422ae]]'

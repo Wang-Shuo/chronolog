@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: aa9114c3d20891aa472baee57ea840ef086a89147a46065927cf3ec803f0676a
+machine_hash: 9d069e554c3e4390ee902d0f409c0d2a1f9ebc0c5dfe7643aa756501f1992e39
 product: claude-code
 product_name: Claude Code
 record:
@@ -84,7 +84,7 @@ type: change
 ## Nearby in Interface Experience
 
 - Earlier: 2026-06-18 · ChatGPT · [[Changes/ChatGPT/2026-06-18-easier-pinning-and-sidebar-organization-it-s-now-easier-to-keep-important-work-c|Easier pinning and sidebar organization]]
-- Later: 2026-06-22 · Codex CLI · [[Changes/Codex CLI/2026-06-22-4-interface-experience-changes-in-rust-v0-142-0|4 Interface Experience changes in rust-v0.142.0]]
+- Later: 2026-06-19 · v0 · [[Changes/v0/2026-06-19-view-only-members-can-download-a-chat-s-code-as-a-zip-from-the-project-menu|View-only members can download a chat's code as a ZIP from the project menu]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

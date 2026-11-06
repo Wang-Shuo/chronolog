@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: a28cd14b6fcb6a7c58204a57324efc2501e8f99785c4fc8e4eada82ad3265d38
+machine_hash: 2362f8dceb117d7172684b1b6c8c758be6442d9993c127dc61f575d6b6648d21
 product: cline
 product_name: Cline
 record:
@@ -44,12 +44,12 @@ record:
   title: 3 Agent Mode changes in v3.67.0
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-02-19-3-agent-mode-changes-in-v0-0-412|3 Agent
-  Mode changes in v0.0.412]]'
-- '[[Changes/Claude Code/2026-02-20-2-agent-mode-changes-in-v2-1-50|2 Agent Mode changes
-  in v2.1.50]]'
 - '[[Changes/GitHub Copilot CLI/2026-02-23-2-agent-mode-changes-in-v0-0-415|2 Agent
   Mode changes in v0.0.415]]'
+- '[[Changes/Lovable/2026-02-23-file-edits-now-persist-when-stopping-the-agent-so-you-can-resume-work-without-lo|File
+  edits now persist when stopping the agent, so you can resume work without…]]'
+- "[[Changes/Open WebUI/2026-02-23-api-tools-fix-the-api-v1-chat-completions-endpoint-now-properly-respects-caller|\U0001F6E0️
+  API tools fix. The /api/v1/chat/completions endpoint now properly respects…]]"
 source_release: '[[Releases/Cline/cline-2026-02-24-v3-67-0-github-289672223-0705057f|cline-2026-02-24-v3-67-0-github-289672223-0705057f]]'
 source_type: github_releases
 theme: agent-mode
@@ -88,7 +88,7 @@ Source: https://github.com/cline/cline/releases/tag/v3.67.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2026-02-23 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-02-23-2-agent-mode-changes-in-v0-0-415|2 Agent Mode changes in v0.0.415]]
+- Earlier: 2026-02-23 · Open WebUI · [[Changes/Open WebUI/2026-02-23-api-tools-fix-the-api-v1-chat-completions-endpoint-now-properly-respects-caller|🛠️ API tools fix. The /api/v1/chat/completions endpoint now properly respects…]]
 - Later: 2026-02-24 · Cursor · [[Changes/Cursor/2026-02-24-cloud-agents-can-now-use-the-software-they-create-to-test-changes-and-demo-their-c922e9|Cloud Agents with Computer Use]]
 <!-- chronolog:end -->
 

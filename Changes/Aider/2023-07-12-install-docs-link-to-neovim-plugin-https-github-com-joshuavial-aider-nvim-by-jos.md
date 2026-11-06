@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 8eac4dbc3c0e727cf8656d3ad597778470d6655d8609d3e93f436e07e3cd1683
+machine_hash: da1804218ca66e36677b19f656eab4711749026cae692555cb010b8eefeacaac
 product: aider
 product_name: Aider
 record:
@@ -81,7 +81,7 @@ type: change
 ## Nearby in Apps and Integrations
 
 - Earlier: 2023-07-07 · Cursor · [[Changes/Cursor/2023-07-07-importing-vs-code-extensions-now-takes-into-account-enabled-disabled|Importing VS Code extensions now takes into account enabled/disabled]]
-- Later: 2023-07-28 · Cursor · [[Changes/Cursor/2023-07-28-more-robust-extension-handling-you-can-now-use-pre-release-extensions-again|More robust extension handling]]
+- Later: 2023-07-14 · Dify · [[Changes/Dify/2023-07-14-chat-apps-can-be-embedded-into-webpages|Chat apps can be embedded into webpages 💻]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

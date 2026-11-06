@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 47794411b4d76699b4087df8d54fc332d0b991082ca07324df54eb28d88ba903
+machine_hash: 8c8d4454372f34da61e4c97b5be2f45238e0375e731101bdc44628e03c89ff03
 product: cursor
 product_name: Cursor
 record:
@@ -83,7 +83,7 @@ type: change
 ## Nearby in Editor Experience
 
 - Earlier: 2024-01-08 · Aider · [[Changes/Aider/2024-01-08-improvements-to-unified-diff-editing-format|Improvements to unified diff editing format]]
-- Later: 2024-01-23 · Aider · [[Changes/Aider/2024-01-23-3-editor-experience-changes-in-v0-22-0|3 Editor Experience changes in v0.22.0]]
+- Later: 2024-01-19 · Dify · [[Changes/Dify/2024-01-19-add-feature-request-copilot-by-guchenhe-in-https-github-com-langgenius-dify-pull|add feature request copilot]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

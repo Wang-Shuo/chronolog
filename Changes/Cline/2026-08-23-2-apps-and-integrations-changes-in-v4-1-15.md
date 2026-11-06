@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: fcde066069fe090d2b3e89dd737087f27c050583e96c47ca4fae131e7af7e8d4
+machine_hash: a10e2d9b4bdcc7a7c38b3b27e29856ef6cdb6dc238e905bb68ab3db0235edd76
 product: cline
 product_name: Cline
 record:
@@ -46,10 +46,9 @@ record:
   title: 2 Apps and Integrations changes in v4.1.15
   type: change
 related_changes:
-- '[[Changes/OpenHands/2026-08-21-2-apps-and-integrations-changes-in-v1-15-0|2 Apps
-  and Integrations changes in v1.15.0]]'
 - '[[Changes/Cline/2026-08-22-everything-here-lands-through-the-sdk-bundle-so-it-applies-to-windows-running-th|Everything
   here lands through the SDK bundle, so it applies to windows running that bundle]]'
+- '[[Changes/ElevenLabs/2026-08-22-mcp-server|MCP server]]'
 - '[[Changes/Cline/2026-08-23-everything-here-lands-through-the-sdk-bundle-so-it-applies-to-windows-running-th|Everything
   here lands through the SDK bundle, so it applies to windows running that bundle]]'
 source_release: '[[Releases/Cline/cline-2026-08-23-v4-1-15-github-375310930-efd1432f|cline-2026-08-23-v4-1-15-github-375310930-efd1432f]]'
@@ -83,7 +82,7 @@ Source: https://github.com/cline/cline/releases/tag/v4.1.15
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-08-23 · Cline · [[Changes/Cline/2026-08-23-everything-here-lands-through-the-sdk-bundle-so-it-applies-to-windows-running-th|Everything here lands through the SDK bundle, so it applies to windows running that bundle]]
-- Later: 2026-08-25 · Claude Code · [[Changes/Claude Code/2026-08-25-3-apps-and-integrations-changes-in-v2-1-246|3 Apps and Integrations changes in v2.1.246]]
+- Later: 2026-08-24 · ElevenLabs · [[Changes/ElevenLabs/2026-08-24-sdk-releases|SDK Releases]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

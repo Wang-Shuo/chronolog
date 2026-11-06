@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 03bcededdf4a64185569ad1e40db0ea26aded2f3c24c1e04a620f82023f6bdb7
+machine_hash: 040054542a3d0333fac1128a0252e48136c497a4fc905fc750e4e0d6ccf0c995
 product: cursor
 product_name: Cursor
 record:
@@ -47,12 +47,12 @@ record:
   title: 'Command-K Autoselect: We''ve also added automatic selection for Command-K!'
   type: change
 related_changes:
-- '[[Changes/Cursor/2024-03-20-new-settings-we-moved-all-our-settings-to-be-accessible-by-the-gear-in-the-top-r|New
-  Settings: We moved all our settings to be accessible by the gear in the top right]]'
-- '[[Changes/Cursor/2024-04-01-update-0-31-1-0-31-3-adds-back-in-ai-review-alpha-fixes-the-cursor-settings-menu|UPDATE
-  (0.31.1–0.31.3): Adds back in AI Review (alpha), fixes…]]'
-- '[[Changes/Cursor/2024-04-12-cursor-help-pane-beta-you-can-also-ask-cursor-about-cursor-the-cursor-help-pane|Cursor
-  Help Pane (Beta): You can also ask Cursor about Cursor!]]'
+- "[[Changes/Open WebUI/2024-04-21-archive-chat-feature-easily-archive-chats-with-a-new-sidebar-button-and-access-a|\U0001F4E6
+  Archive Chat Feature]]"
+- "[[Changes/Open WebUI/2024-04-24-archived-chat-styling-fixed-styling-issues-in-archived-chat|\U0001F4E6
+  Archived Chat Styling: Fixed styling issues in archived chat]]"
+- "[[Changes/Open WebUI/2024-05-02-scroll-gesture-bug-adjusted-gesture-sensitivity-to-prevent-accidental-activation|\U0001F50D
+  Scroll Gesture Bug]]"
 source_release: '[[Releases/Cursor/cursor-2024-05-03-0-33-x-https-cursor-com-changelog-0-33-x-f8df9c65|cursor-2024-05-03-0-33-x-https-cursor-com-changelog-0-33-x-f8df9c65]]'
 source_type: cursor_changelog
 theme: interface-experience
@@ -82,8 +82,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2024-04-12 · Cursor · [[Changes/Cursor/2024-04-12-cursor-help-pane-beta-you-can-also-ask-cursor-about-cursor-the-cursor-help-pane|Cursor Help Pane (Beta): You can also ask Cursor about Cursor!]]
-- Later: 2024-05-13 · Aider · [[Changes/Aider/2024-05-13-added-restore-chat-history-to-restore-prior-chat-history-on-launch-so-you-can-co|Added --restore-chat-history to restore prior chat history on launch, so you can…]]
+- Earlier: 2024-05-02 · Open WebUI · [[Changes/Open WebUI/2024-05-02-scroll-gesture-bug-adjusted-gesture-sensitivity-to-prevent-accidental-activation|🔍 Scroll Gesture Bug]]
+- Later: 2024-05-08 · Open WebUI · [[Changes/Open WebUI/2024-05-08-improved-chat-sidebar-now-conveniently-displays-time-ranges-and-organizes-chats|🖼️ Improved Chat Sidebar]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

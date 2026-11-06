@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 2dae381e2e0056c36914a1732ecc5e4669f833f0ce585ed1d38b8b9460f79b15
+machine_hash: 09d8881e531870ec78beab2cdd53098bdce539eb0f4361320a0b11769bc72e69
 product: aider
 product_name: Aider
 record:
@@ -42,11 +42,11 @@ record:
   title: 2 Reliability and Performance changes in v0.48.0
   type: change
 related_changes:
-- '[[Changes/Aider/2024-07-31-improved-performance-of-lint-on-all-dirty-files-in-repo|Improved
-  performance of --lint on all dirty files in repo]]'
 - '[[Changes/OpenHands/2024-08-01-runtime-reduce-dependency-to-speed-up-ci-and-reduce-image-size-by-xingyaoww-in-h|Runtime
   Reduce dependency to speed up CI and reduce image size]]'
 - '[[Changes/Cursor/2024-08-02-faster-cursor-tab-suggestions|Faster Cursor Tab Suggestions!]]'
+- '[[Changes/Open WebUI/2024-08-02-2-reliability-and-performance-changes-in-v0-3-11|2
+  Reliability and Performance changes in v0.3.11]]'
 source_release: '[[Releases/Aider/aider-2024-08-06-v0-48-0-github-168916125-f20efdec|aider-2024-08-06-v0-48-0-github-168916125-f20efdec]]'
 source_type: github_releases
 theme: reliability-performance
@@ -80,8 +80,8 @@ Source: https://github.com/Aider-AI/aider/releases/tag/v0.48.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2024-08-02 · Cursor · [[Changes/Cursor/2024-08-02-faster-cursor-tab-suggestions|Faster Cursor Tab Suggestions!]]
-- Later: 2024-08-10 · Aider · [[Changes/Aider/2024-08-10-performance-improvements-for-repo-map-calculation|Performance improvements for repo map calculation]]
+- Earlier: 2024-08-02 · Open WebUI · [[Changes/Open WebUI/2024-08-02-2-reliability-and-performance-changes-in-v0-3-11|2 Reliability and Performance changes in v0.3.11]]
+- Later: 2024-08-06 · Dify · [[Changes/Dify/2024-08-06-2-reliability-and-performance-changes-in-0-6-16|2 Reliability and Performance changes in 0.6.16]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

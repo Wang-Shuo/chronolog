@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 3f80a52221733d2c6995f8a1782e88aeb48794e24c30671b6096e9d25a9bd98b
+machine_hash: ebe206a7ccd72018789ebe9a4de12d282e69a38ba7b9494d460e4bbaddde2838
 product: cursor
 product_name: Cursor
 record:
@@ -45,8 +45,8 @@ record:
   title: Nicer error messages in the chat!
   type: change
 related_changes:
-- '[[Changes/Cursor/2023-07-27-c-and-f-now-properly-render-in-the-chat|C♯ and F♯ now
-  properly render in the chat]]'
+- '[[Changes/Ollama/2023-08-02-more-seamless-updates-ollama-will-now-show-a-subtle-hint-that-an-update-is-ready|More
+  seamless updates]]'
 - '[[Changes/Cursor/2023-08-17-keychords-now-use-cmd-r-ctrl-r|Keychords now use Cmd+R/Ctrl+R]]'
 - '[[Changes/Cursor/2023-08-21-nicer-error-messages-in-the-chat-fewer-annoying-popups-782655|Nicer
   error messages in the chat!]]'

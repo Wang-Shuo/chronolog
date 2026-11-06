@@ -4,20 +4,20 @@ date: '2026-05-20'
 description: 'Codex CLI · 2026-05-20 · Automation and Scheduling: `codex exec resume`
   now accepts `--output-schema`, so resumed automations can keep session context while…'
 diffusion:
-  first_in_tracked: '[[Changes/OpenHands/2024-09-04-better-syntax-error-loop-detection-by-tobitege-in-https-github-com-all-hands-ai|Better
-    syntax error loop detection]]'
+  first_in_tracked: '[[Changes/Dify/2024-01-02-add-data-clean-schedule-by-johnjyong-in-https-github-com-langgenius-dify-pull-18|Add
+    data clean schedule]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 623
+  lag_days: 869
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: efedd5ffa513aadb750661467aefce5998ebde62df39f714a15b2c2cd26c1568
+machine_hash: 07bcb934dd33901b6c094e9fef4fbbead9912ee6db6c07d0ef3b067dd4d688cf
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -54,12 +54,12 @@ record:
     can keep…'
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-04-17-improved-loop-pressing-esc-now-cancels-pending-wakeups-and-wakeups-display-as-cl|Improved
-  /loop: pressing Esc now cancels pending wakeups, and wakeups display…]]'
-- '[[Changes/Gemini CLI/2026-04-23-feat-cli-extract-quotacontext-and-resolve-infinite-render-loop-by-adib234-in-htt|feat(cli):
-  extract QuotaContext and resolve infinite render loop]]'
 - '[[Changes/Claude Code/2026-05-01-claude-code-skill-activated-opentelemetry-event-now-fires-for-user-typed-slash-c|claude_code.skill_activated
   OpenTelemetry event now fires for user-typed slash…]]'
+- '[[Changes/Open WebUI/2026-05-09-2-automation-and-scheduling-changes-in-v0-9-3|2
+  Automation and Scheduling changes in v0.9.3]]'
+- '[[Changes/Dify/2026-05-12-human-input-exposed-selected-action-values-for-human-in-the-loop-flows-thanks-bl|Human
+  input — exposed selected action values for Human-in-the-loop flows]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-05-20-rust-v0-132-0-github-325545332-3345c1c4|codex-cli-2026-05-20-rust-v0-132-0-github-325545332-3345c1c4]]'
 source_type: github_releases
 theme: automation-scheduling
@@ -98,14 +98,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Automation and Scheduling
 
-- Earlier: 2026-05-01 · Claude Code · [[Changes/Claude Code/2026-05-01-claude-code-skill-activated-opentelemetry-event-now-fires-for-user-typed-slash-c|claude_code.skill_activated OpenTelemetry event now fires for user-typed slash…]]
+- Earlier: 2026-05-12 · Dify · [[Changes/Dify/2026-05-12-human-input-exposed-selected-action-values-for-human-in-the-loop-flows-thanks-bl|Human input — exposed selected action values for Human-in-the-loop flows]]
 - Later: 2026-05-20 · Cursor · [[Changes/Cursor/2026-05-20-no-repo-automations|No-repo automations]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2024-09-04 · OpenHands · [[Changes/OpenHands/2024-09-04-better-syntax-error-loop-detection-by-tobitege-in-https-github-com-all-hands-ai|Better syntax error loop detection]]
+- Earliest same-theme entry in the tracked set: 2024-01-02 · Dify · [[Changes/Dify/2024-01-02-add-data-clean-schedule-by-johnjyong-in-https-github-com-langgenius-dify-pull-18|Add data clean schedule]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

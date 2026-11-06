@@ -4,20 +4,20 @@ date: '2026-08-07'
 description: 'Codex CLI · 2026-08-07 · Voice and Audio: #36807 Extract audio preparation
   into a utility crate @copyberry'
 diffusion:
-  first_in_tracked: '[[Changes/Aider/2023-08-11-voice-to-code-https-aider-chat-docs-voice-html-support-which-allows-you-to-code|Voice-to-code((source
-    link) support, which allows you…]]'
+  first_in_tracked: '[[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2
+    Voice and Audio changes in 0.3.7]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1092
+  lag_days: 1124
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 9ecec366dd907f727dbe8445cdf3ab4a346a1ab64dfac392970cb0e0ad1fbbab
+machine_hash: c0006cfed5817cc01961b3370e4e490695452465baa9da5a7352eaf6b278824c
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -90,13 +90,13 @@ type: change
 ## Nearby in Voice and Audio
 
 - Earlier: 2026-08-07 · ChatGPT · [[Changes/ChatGPT/2026-08-07-dictate-with-fewer-interruptions-if-dictation-fails-because-of-a-connection-issu|Dictate with fewer interruptions]]
-- Later: 2026-08-14 · ChatGPT · [[Changes/ChatGPT/2026-08-14-switch-between-typing-and-dictation-the-dictation-button-stays-available-after-y|Switch between typing and dictation]]
+- Later: 2026-08-10 · ElevenLabs · [[Changes/ElevenLabs/2026-08-10-python-sdk|Python SDK]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-08-11 · Aider · [[Changes/Aider/2023-08-11-voice-to-code-https-aider-chat-docs-voice-html-support-which-allows-you-to-code|Voice-to-code((source link) support, which allows you…]]
+- Earliest same-theme entry in the tracked set: 2023-07-10 · Dify · [[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2 Voice and Audio changes in 0.3.7]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

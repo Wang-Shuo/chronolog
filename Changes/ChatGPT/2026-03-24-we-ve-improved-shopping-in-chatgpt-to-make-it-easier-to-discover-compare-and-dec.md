@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: search-browsing
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 9ce7b4353228a744f68de9f31982b58c2463f72d62e93ee0482e39ed57615b5f
+machine_hash: f205c09cd9cd6d88d188164415a5512011deb7165aa0dd6617f3054f5430b424
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -74,8 +74,8 @@ record:
   title: Shopping updates in ChatGPT
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-03-13-changelog-supports-last-n-since-version-and-summarize-to-browse-and-summarize-mu|/changelog
-  supports last N, since version, and summarize to browse…]]'
+- '[[Changes/Ollama/2026-03-17-3-search-and-browsing-changes-in-v0-18-1|3 Search and
+  Browsing changes in v0.18.1]]'
 - '[[Changes/ChatGPT/2026-03-19-the-legacy-deep-research-mode-will-be-removed-on-thursday-march-26-2026-this-cha|Legacy
   deep research mode deprecation notice]]'
 - '[[Changes/ChatGPT/2026-03-23-now-it-s-easier-to-find-reuse-and-build-on-your-files-over-time-when-you-upload|File
@@ -107,7 +107,7 @@ type: change
 ## Nearby in Search and Browsing
 
 - Earlier: 2026-03-23 · ChatGPT · [[Changes/ChatGPT/2026-03-23-now-it-s-easier-to-find-reuse-and-build-on-your-files-over-time-when-you-upload|File Library in ChatGPT]]
-- Later: 2026-03-26 · Codex CLI · [[Changes/Codex CLI/2026-03-26-plugins-are-now-a-first-class-workflow-codex-can-sync-product-scoped-plugins-at|Plugins are now a first-class workflow]]
+- Later: 2026-03-25 · Open WebUI · [[Changes/Open WebUI/2026-03-25-2-search-and-browsing-changes-in-v0-8-11|2 Search and Browsing changes in v0.8.11]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

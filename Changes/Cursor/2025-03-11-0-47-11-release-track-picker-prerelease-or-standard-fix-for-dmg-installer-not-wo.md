@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 7a00b045aaaa5ed0f9f6e8650bb3a68bafc5376b2eaa688f1b0b7257f9c4ddf1
+machine_hash: 67ad7700eac9721d9aa1a42e12bace9c307fcedf45c2754561da64b55888c84f
 product: cursor
 product_name: Cursor
 record:
@@ -44,8 +44,8 @@ record:
     not…'
   type: change
 related_changes:
-- '[[Changes/OpenHands/2025-02-19-2-interface-experience-changes-in-0-25-0|2 Interface
-  Experience changes in 0.25.0]]'
+- "[[Changes/Open WebUI/2025-02-20-translation-updates-various-international-translation-refinements-ensure-better|\U0001F30D
+  Translation Updates]]"
 - '[[Changes/Aider/2025-03-10-https-aider-chat-history-html|(source link)]]'
 - '[[Changes/Cursor/2025-03-11-keyboard-shortcuts-all-keyboard-shortcuts-are-now-available-in-the-keyboard-shor|Keyboard
   Shortcuts: All keyboard shortcuts are now available in the Keyboard…]]'
@@ -86,7 +86,7 @@ type: change
 ## Nearby in Interface Experience
 
 - Earlier: 2025-03-10 · Aider · [[Changes/Aider/2025-03-10-https-aider-chat-history-html|(source link)]]
-- Later: 2025-03-18 · ChatGPT · [[Changes/ChatGPT/2025-03-18-added-long-press-on-your-message-to-open-menu-actions-copy-edit|Added long press on your message to open menu actions: Copy, Edit]]
+- Later: 2025-03-11 · Dify · [[Changes/Dify/2025-03-11-2-interface-experience-changes-in-1-0-1|2 Interface Experience changes in 1.0.1]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 0b8cb87b40ffe83cdc24addd89787e558c0f06ef9247e622f74e63d0d6db9685
+machine_hash: 53a7a01a194dba081c5a68cd17c3b1415e82fadc6fdec66d2585eaf133ce3faf
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -43,8 +43,8 @@ record:
   title: 2 Developer Workflow changes in rust-v0.104.0
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-02-17-autopilot-mode-and-fleet-command-now-available-to-all-users|Autopilot
-  mode and /fleet command now available to all users]]'
+- "[[Changes/Open WebUI/2026-02-17-tool-call-display-improvements-tool-call-results-now-display-arguments-in-a-clea|\U0001F527
+  Tool call display improvements. Tool call results now display arguments…]]"
 - '[[Changes/Claude Code/2026-02-18-the-rename-command-now-updates-the-terminal-tab-title-by-default-anthropics-clau|The
   /rename command now updates the terminal tab title by default…]]'
 - '[[Changes/Cline/2026-02-18-add-skills-slash-command-to-cli-for-viewing-and-managing-installed-skills|Add

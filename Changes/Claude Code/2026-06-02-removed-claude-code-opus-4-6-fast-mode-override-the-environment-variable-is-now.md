@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: ad435bdca24a2fa67ddf9c48c282dace69e3e3a1f0712920fd5c93f0463ba405
+machine_hash: cd6d0e1cc34c99a75ebf6d7a38baa689d88d573199aa054c3b3c1389360d1e6f
 product: claude-code
 product_name: Claude Code
 record:
@@ -43,12 +43,11 @@ record:
     is now a no-op
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-05-30-auto-mode-is-now-available-on-bedrock-vertex-and-foundry-for-opus-4-7-and-opus-4|Auto
-  mode is now available on Bedrock, Vertex, and Foundry for Opus 4.7 and Opus 4.8]]'
-- '[[Changes/Codex CLI/2026-06-01-5-model-support-changes-in-rust-v0-136-0|5 Model
-  Support changes in rust-v0.136.0]]'
+- '[[Changes/ElevenLabs/2026-06-01-workspaces|Workspaces]]'
 - '[[Changes/GitHub Copilot CLI/2026-06-01-new-reasoning-after-tool-calls-appears-at-the-bottom-of-the-timeline-instead-of|New
   reasoning after tool calls appears at the bottom of the timeline instead…]]'
+- '[[Changes/Open WebUI/2026-06-01-12-model-support-changes-in-v0-9-6|12 Model Support
+  changes in v0.9.6]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-06-02-v2-1-160-github-332740156-03dd8b5a|claude-code-2026-06-02-v2-1-160-github-332740156-03dd8b5a]]'
 source_type: github_releases
 theme: model-support
@@ -84,7 +83,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-06-01 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-06-01-new-reasoning-after-tool-calls-appears-at-the-bottom-of-the-timeline-instead-of|New reasoning after tool calls appears at the bottom of the timeline instead…]]
+- Earlier: 2026-06-01 · Open WebUI · [[Changes/Open WebUI/2026-06-01-12-model-support-changes-in-v0-9-6|12 Model Support changes in v0.9.6]]
 - Later: 2026-06-03 · Claude Code · [[Changes/Claude Code/2026-06-03-2-model-support-changes-in-v2-1-162|2 Model Support changes in v2.1.162]]
 <!-- chronolog:end -->
 

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 0feaf5713ee0b1360cda172e9fb15aba9716e2745f32afb37e6ae3fafdc39bbc
+machine_hash: c7939f4399590ba7f284933489e1f277945494905b4c9c15b627ad7f9d271133
 product: aider
 product_name: Aider
 record:
@@ -43,11 +43,12 @@ record:
     suggestions
   type: change
 related_changes:
-- '[[Changes/Aider/2024-05-22-aider-automatically-lints-and-fixes-after-every-llm-edit|Aider
-  automatically lints and fixes after every LLM edit]]'
-- '[[Changes/Cursor/2024-05-26-gemini-1-5-flash-is-available-in-long-context-mode|Gemini
-  1.5 Flash is available in long-context mode]]'
-- '[[Changes/Cursor/2024-05-26-gpt-4o-in-interpreter-mode|GPT-4o in Interpreter Mode]]'
+- '[[Changes/Ollama/2024-05-31-3-model-support-changes-in-v0-1-40|3 Model Support
+  changes in v0.1.40]]'
+- '[[Changes/Open WebUI/2024-06-02-6-model-support-changes-in-v0-2-0|6 Model Support
+  changes in v0.2.0]]'
+- '[[Changes/Open WebUI/2024-06-02-2-model-support-changes-in-v0-2-1|2 Model Support
+  changes in v0.2.1]]'
 source_release: '[[Releases/Aider/aider-2024-06-04-v0-37-0-github-158850149-b4830675|aider-2024-06-04-v0-37-0-github-158850149-b4830675]]'
 source_type: github_releases
 theme: model-support
@@ -81,8 +82,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2024-05-26 · Cursor · [[Changes/Cursor/2024-05-26-gpt-4o-in-interpreter-mode|GPT-4o in Interpreter Mode]]
-- Later: 2024-06-08 · Cursor · [[Changes/Cursor/2024-06-08-update-0-35-1-disables-copilot-partial-accepts-by-default-and-makes-the-keybindi|UPDATE (0.35.1): Disables Copilot++ partial accepts by default and makes…]]
+- Earlier: 2024-06-02 · Open WebUI · [[Changes/Open WebUI/2024-06-02-2-model-support-changes-in-v0-2-1|2 Model Support changes in v0.2.1]]
+- Later: 2024-06-04 · Dify · [[Changes/Dify/2024-06-04-9-model-support-changes-in-0-6-10|9 Model Support changes in 0.6.10]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

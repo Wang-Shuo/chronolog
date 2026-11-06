@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: b2bcaaca8a3a31d252bbc1d658463f8cde53c594eeb17c552649f5e383a8cb14
+machine_hash: 957e66bb6bbc607c388a8492ea14df32e14831da4454b88818a2ffbd97e68ed3
 product: cline
 product_name: Cline
 record:
@@ -42,12 +42,12 @@ record:
   title: 2 Apps and Integrations changes in v3.8.0
   type: change
 related_changes:
-- '[[Changes/Cline/2025-03-03-add-timeout-option-to-mcp-servers|Add timeout option
-  to MCP servers]]'
-- '[[Changes/Cursor/2025-03-11-mcp-added-global-server-configuration-with-cursor-mcp-json-and-support-for-envir|MCP:
-  Added global server configuration with ~/.cursor/mcp.json and support…]]'
+- '[[Changes/Dify/2025-03-18-enhanced-integration-of-pg-bigm-for-keyword-search-in-pgvector-by-utsumi-fj-in-1|Enhanced
+  Integration of pg_bigm for Keyword Search in pgvector by @utsumi-fj in ♯13876]]'
 - '[[Changes/Aider/2025-03-21-added-git-commit-verify-flag-default-false-to-control-whether-git-commit-hooks-a|Added
   --git-commit-verify flag (default]]'
+- '[[Changes/Dify/2025-03-21-github-plugin-installation-resolved-an-import-dsl-issue-that-blocked-the-install|GitHub
+  Plugin Installation]]'
 source_release: '[[Releases/Cline/cline-2025-03-23-v3-8-0-github-207655603-f6979596|cline-2025-03-23-v3-8-0-github-207655603-f6979596]]'
 source_type: github_releases
 theme: apps-integrations
@@ -85,7 +85,7 @@ Source: https://github.com/cline/cline/releases/tag/v3.8.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2025-03-21 · Aider · [[Changes/Aider/2025-03-21-added-git-commit-verify-flag-default-false-to-control-whether-git-commit-hooks-a|Added --git-commit-verify flag (default]]
+- Earlier: 2025-03-21 · Dify · [[Changes/Dify/2025-03-21-github-plugin-installation-resolved-an-import-dsl-issue-that-blocked-the-install|GitHub Plugin Installation]]
 - Later: 2025-03-23 · Cursor · [[Changes/Cursor/2025-03-23-3-apps-and-integrations-changes-in-0-48-x|3 Apps and Integrations changes in 0.48.x]]
 <!-- chronolog:end -->
 

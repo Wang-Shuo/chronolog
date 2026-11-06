@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 620a88b3a1a5539a906cc339f9f58fa9124353fa42616bce1bb83d2fc74319b3
+machine_hash: 5aaa6bf34dd73ab801c2acf181ddd80d4a2a0ece43571ffb3a920e216277946e
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -47,12 +47,12 @@ record:
   title: GPT-5.3 Instant update
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-03-13-setting-claude-sonnet-4-6-as-the-default-model-is-now-preserved-correctly|Setting
-  claude-sonnet-4.6 as the default model is now preserved correctly]]'
 - '[[Changes/Claude Code/2026-03-14-added-effort-slash-command-to-set-model-effort-level|Added
   /effort slash command to set model effort level]]'
 - '[[Changes/Claude Code/2026-03-14-improved-model-fallback-notifications-now-always-visible-instead-of-hidden-behin|Improved
   model fallback notifications]]'
+- '[[Changes/Ollama/2026-03-14-3-model-support-changes-in-v0-18-0|3 Model Support
+  changes in v0.18.0]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-03-16-gpt-5-3-instant-update-a32de9bf|chatgpt-2026-03-16-gpt-5-3-instant-update-a32de9bf]]'
 source_type: chatgpt_changelog
 theme: model-support
@@ -79,7 +79,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-03-14 · Claude Code · [[Changes/Claude Code/2026-03-14-improved-model-fallback-notifications-now-always-visible-instead-of-hidden-behin|Improved model fallback notifications]]
+- Earlier: 2026-03-14 · Ollama · [[Changes/Ollama/2026-03-14-3-model-support-changes-in-v0-18-0|3 Model Support changes in v0.18.0]]
 - Later: 2026-03-16 · Cline · [[Changes/Cline/2026-03-16-added-w-b-inference-by-coreweave-as-a-new-api-provider-with-17-models|Added W&B Inference by CoreWeave as a new API provider with 17 models]]
 <!-- chronolog:end -->
 

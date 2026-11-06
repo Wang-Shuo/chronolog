@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 21623de9d46ce8b5acb7e5946159421675c446d6a369c408bd1acd3795723bfc
+machine_hash: 23996cbf0512d6cb965609de2a80b907ed9de64f55982ef6552b180b616d07db
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -73,10 +73,10 @@ record:
   title: 14 Developer Workflow changes in rust-v0.128.0
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2026-04-28-3-developer-workflow-changes-in-v0-40-0|3 Developer
-  Workflow changes in v0.40.0]]'
 - '[[Changes/Cursor/2026-04-29-added-first-class-run-streaming-with-sse-events-reconnect-support-via-last-event|Added
   first-class run streaming with SSE events, reconnect support…]]'
+- '[[Changes/Dify/2026-04-29-2-developer-workflow-changes-in-1-14-0|2 Developer Workflow
+  changes in 1.14.0]]'
 - '[[Changes/Windsurf/2026-04-29-devin-for-terminal|Devin for Terminal]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-04-30-rust-v0-128-0-github-315916672-1708ab89|codex-cli-2026-04-30-rust-v0-128-0-github-315916672-1708ab89]]'
 source_type: github_releases

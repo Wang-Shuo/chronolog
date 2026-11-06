@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: memory
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 0f5fbf12258dc52076b6b0587ee79c2b2948fcfd3e52c77ebe5d78e7e9543dbe
+machine_hash: 9f5d0912186c950f9bd8ffaba6a5834b83b7d99f993e22c72058e015b292cb7e
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -42,12 +42,12 @@ record:
   title: 'feat(memory): add Auto Memory inbox flow with canonical-patch contract'
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-05-05-starting-today-we-re-rolling-out-memory-improvements-to-chatgpt-plus-and-pro-use|Memory
-  sources and more personalized responses in ChatGPT]]'
 - '[[Changes/Gemini CLI/2026-05-05-feat-memory-persist-auto-memory-scratchpad-for-skill-extraction-by-sandytao520-i|feat(memory):
   persist auto-memory scratchpad for skill extraction]]'
 - '[[Changes/Codex CLI/2026-05-07-16-memory-and-personalization-changes-in-rust-v0-129-0|16
   Memory and Personalization changes in rust-v0.129.0]]'
+- '[[Changes/Open WebUI/2026-05-09-faster-memory-query-performance-per-user-memory-lookups-and-deletions-now-run-mu|⚡
+  Faster memory query performance. Per-user memory lookups and deletions now run…]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2026-05-12-v0-42-0-github-321461714-faa5f8a3|gemini-cli-2026-05-12-v0-42-0-github-321461714-faa5f8a3]]'
 source_type: github_releases
 theme: memory
@@ -84,7 +84,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Memory and Personalization
 
-- Earlier: 2026-05-07 · Codex CLI · [[Changes/Codex CLI/2026-05-07-16-memory-and-personalization-changes-in-rust-v0-129-0|16 Memory and Personalization changes in rust-v0.129.0]]
+- Earlier: 2026-05-09 · Open WebUI · [[Changes/Open WebUI/2026-05-09-faster-memory-query-performance-per-user-memory-lookups-and-deletions-now-run-mu|⚡ Faster memory query performance. Per-user memory lookups and deletions now run…]]
 - Later: 2026-05-18 · Codex CLI · [[Changes/Codex CLI/2026-05-18-4-memory-and-personalization-changes-in-rust-v0-131-0|4 Memory and Personalization changes in rust-v0.131.0]]
 <!-- chronolog:end -->
 

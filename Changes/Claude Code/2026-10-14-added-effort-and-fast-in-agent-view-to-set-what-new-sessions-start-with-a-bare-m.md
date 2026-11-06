@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: d5b627acb7e1859d2d9f2d05849259b0f0de1d8bed5bf335915e9b68a65018f7
+machine_hash: 8cb9e47571b08a050d5e1d7b051420a7295a0e2583646a4af6431257dc0c639e
 product: claude-code
 product_name: Claude Code
 record:
@@ -61,10 +61,10 @@ record:
     with
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-09-improved-fullscreen-mode-the-link-under-the-mouse-pointer-is-now-underlined-to-s|Improved
-  fullscreen mode]]'
 - '[[Changes/OpenHands/2026-10-12-feat-add-compact-section-navigation-on-tablets-by-enyst-in-https-github-com-open|feat:
   add compact section navigation on tablets]]'
+- '[[Changes/Lovable/2026-10-13-search-for-individual-settings|Search for individual
+  settings]]'
 - '[[Changes/Claude Code/2026-10-14-changed-exit-to-force-kill-background-commands-still-running-1-5-seconds-after-b|Changed
   exit to force-kill background commands still running 1.5 seconds after being…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-10-14-v2-1-299-github-412217284-623d9162|claude-code-2026-10-14-v2-1-299-github-412217284-623d9162]]'
@@ -108,7 +108,7 @@ type: change
 ## Nearby in Interface Experience
 
 - Earlier: 2026-10-14 · Claude Code · [[Changes/Claude Code/2026-10-14-changed-exit-to-force-kill-background-commands-still-running-1-5-seconds-after-b|Changed exit to force-kill background commands still running 1.5 seconds after being…]]
-- Later: 2026-10-15 · Claude Code · [[Changes/Claude Code/2026-10-15-2-interface-experience-changes-in-v2-1-301|2 Interface Experience changes in v2.1.301]]
+- Later: 2026-10-14 · Lovable · [[Changes/Lovable/2026-10-14-restore-a-deleted-project-yourself|Restore a deleted project yourself]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

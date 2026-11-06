@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: c84bab038845a77df8bc389a4efc8f3e6e1ee4a81d9bdd200ecdb4a2bf33fa3a
+machine_hash: c74143aa274ed8335b9ddfcdc4a962b3444ed9e5a53bdfe8e32e844b4c4bccd6
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -43,10 +43,10 @@ record:
   title: '#23147 Make multi-agent v2 tool namespace configurable @jif-oai'
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-05-19-3-agent-mode-changes-in-v2-1-145|3 Agent Mode
-  changes in v2.1.145]]'
-- '[[Changes/Cursor/2026-05-19-assign-work-items-to-cursor-or-mention-cursor-in-a-comment-to-kick-off-a-cloud-a-1c05f0|Assign
-  work items to Cursor, or mention @Cursor in a comment to kick off a cloud agent]]'
+- '[[Changes/Dify/2026-05-19-3-agent-mode-changes-in-1-14-2|3 Agent Mode changes in
+  1.14.2]]'
+- '[[Changes/Gemini/2026-05-19-gemini-spark-is-your-24-7-personal-ai-agent|Gemini
+  Spark is your 24/7 personal AI agent]]'
 - '[[Changes/GitHub Copilot CLI/2026-05-19-4-agent-mode-changes-in-v1-0-49|4 Agent
   Mode changes in v1.0.49]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-05-20-rust-v0-132-0-github-325545332-3345c1c4|codex-cli-2026-05-20-rust-v0-132-0-github-325545332-3345c1c4]]'

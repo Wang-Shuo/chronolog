@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 16aa3550a40d1b744adaeed0d5e56f1b6baa614044bc55f129051a223e814992
+machine_hash: 585e50c4b8ebf5fccff4516dc67c4fcc06a68916dc8d6528330d32200cee773d
 product: cursor
 product_name: Cursor
 record:
@@ -74,7 +74,7 @@ type: change
 ## Nearby in Editor Experience
 
 - Earlier: 2023-08-22 · Cursor · [[Changes/Cursor/2023-08-22-you-can-now-reply-to-cmd-k-outputs-making-it-much-easier-to-have-the-model-revis|Reply to Cmd-K outputs, making it much easier to have the model revise its work]]
-- Later: 2023-09-19 · Cursor · [[Changes/Cursor/2023-09-19-you-can-now-alternate-between-diffs-and-texts-responses-in-cmd-k-this-can-be-hel|Inline Chat]]
+- Later: 2023-09-10 · Dify · [[Changes/Dify/2023-09-10-the-query-parameter-in-the-post-v1-completion-messages-endpoint-of-the-app-opena|The query parameter in the POST /v1/completion-messages endpoint of the App…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

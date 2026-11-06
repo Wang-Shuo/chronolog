@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: policy
-machine_hash: ee4f77dee7fe45cb9a77a0f1f877cff7ef88a2c859f5be53db7a0b79b1025c1c
+machine_hash: ccce676be90605f37faa96440e8942d35a9cff1d8ff708c978b015b5e654b1b9
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -45,10 +45,10 @@ record:
     may be lost
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-05-11-high-bugbot-spends-more-time-reasoning-reviews-are-more-expensive-and-take-longe|High:
-  Bugbot spends more time reasoning]]'
 - '[[Changes/Cursor/2026-05-11-custom-describe-in-natural-language-when-bugbot-should-use-default-or-high-effor|Custom:
   Describe in natural language when Bugbot should use default or high effort]]'
+- '[[Changes/Dify/2026-05-12-2-model-support-changes-in-1-14-1|2 Model Support changes
+  in 1.14.1]]'
 - '[[Changes/Gemini CLI/2026-05-12-5-model-support-changes-in-v0-42-0|5 Model Support
   changes in v0.42.0]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-05-12-v1-0-46-github-321427031-1da5ecd0|github-copilot-cli-2026-05-12-v1-0-46-github-321427031-1da5ecd0]]'
@@ -83,7 +83,7 @@ type: change
 ## Nearby in Model Support
 
 - Earlier: 2026-05-12 · Gemini CLI · [[Changes/Gemini CLI/2026-05-12-5-model-support-changes-in-v0-42-0|5 Model Support changes in v0.42.0]]
-- Later: 2026-05-13 · Cline · [[Changes/Cline/2026-05-13-enable-openrouter-prompt-cache-control-for-qwen-models|Enable OpenRouter prompt cache control for Qwen models]]
+- Later: 2026-05-12 · Ollama · [[Changes/Ollama/2026-05-12-mlx-refined-model-push-behavior-by-dhiltgen-in-https-github-com-ollama-ollama-pu|mlx: refined model push behavior]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

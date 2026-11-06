@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 1362cffb294595081c768d19fd3e5ef04caeb3cdf1da32b6532d299e83524c0e
+machine_hash: 32009c5b143028932b275d2950aee645c2297f668b331498dd7874182c33ac46
 product: claude-code
 product_name: Claude Code
 record:
@@ -46,10 +46,8 @@ record:
     the next…
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-04-10-custom-agent-model-field-now-accepts-display-names-and-vendor-suffixes-from-vs-c|Custom
-  agent model field now accepts display names and vendor suffixes from VS Code…]]'
-- '[[Changes/GitHub Copilot CLI/2026-04-10-display-reasoning-token-usage-in-the-per-model-token-breakdown-when-nonzero|Display
-  reasoning token usage in the per-model token breakdown when nonzero]]'
+- '[[Changes/ElevenLabs/2026-04-13-python-sdk|Python SDK]]'
+- '[[Changes/ElevenLabs/2026-04-13-javascript-sdk|JavaScript SDK]]'
 - '[[Changes/GitHub Copilot CLI/2026-04-13-the-config-dir-flag-is-now-respected-when-selecting-the-active-model|The
   --config-dir flag is now respected when selecting the active model]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-04-14-v2-1-108-github-309009167-35123bd5|claude-code-2026-04-14-v2-1-108-github-309009167-35123bd5]]'

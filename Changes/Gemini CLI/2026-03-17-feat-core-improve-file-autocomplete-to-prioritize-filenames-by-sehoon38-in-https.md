@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 7e1ba1dd71373d528b4984426bbd79057937a0a3e9bf0433126b913ec6f8dc20
+machine_hash: c700c4bd9c979a7cd0ded3b257cfe9053e44265b9ad824e211aa4dec75d11d02
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -42,12 +42,12 @@ record:
   title: 'feat(core): improve @file autocomplete to prioritize filenames'
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-03-13-syntax-highlighting-in-diff-with-support-for-17-programming-languages|Syntax
-  highlighting in /diff with support for 17 programming languages]]'
-- '[[Changes/GitHub Copilot CLI/2026-03-16-remaining-requests-widget-no-longer-shows-inaccurate-quota-data-for-copilot-free|Remaining
-  requests widget no longer shows inaccurate quota data for Copilot Free users]]'
+- '[[Changes/v0/2026-03-16-improved-diff-statistics-formatting-with-locale-specific-number-separators|Improved
+  diff statistics formatting with locale-specific number separators]]'
 - '[[Changes/Claude Code/2026-03-17-vscode-improved-plan-preview-tab-titles-to-use-the-plan-s-heading-instead-of-cla|VSCode
   Improved plan preview tab titles to use the plan''s heading instead…]]'
+- '[[Changes/Dify/2026-03-17-8-editor-experience-changes-in-1-13-1|8 Editor Experience
+  changes in 1.13.1]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2026-03-17-v0-34-0-github-298158994-68230a41|gemini-cli-2026-03-17-v0-34-0-github-298158994-68230a41]]'
 source_type: github_releases
 theme: editor-experience
@@ -89,7 +89,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2026-03-17 · Claude Code · [[Changes/Claude Code/2026-03-17-vscode-improved-plan-preview-tab-titles-to-use-the-plan-s-heading-instead-of-cla|VSCode Improved plan preview tab titles to use the plan's heading instead…]]
+- Earlier: 2026-03-17 · Dify · [[Changes/Dify/2026-03-17-8-editor-experience-changes-in-1-13-1|8 Editor Experience changes in 1.13.1]]
 - Later: 2026-03-17 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-03-17-tab-bar-selected-tab-uses-compact-label-style-with-cleaner-spacing|Tab bar selected tab uses compact label style with cleaner spacing]]
 <!-- chronolog:end -->
 

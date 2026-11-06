@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: df90e4f827bf4f523b74370f5edbc3f61850d6515fed32261ffa3373f0e4009f
+machine_hash: 5428a01240f90859b971c461e9ea50a2c9b18a7af86a114a44b8aa8a4807cf85
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -73,10 +73,9 @@ record:
   title: 16 Account and Access changes in rust-v0.148.0
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-08-13-remote-control-resuming-a-conversation-whose-session-was-deleted-from-claude-ai|Remote
-  Control: resuming a conversation whose session was deleted from claude.ai…]]'
-- '[[Changes/OpenHands/2026-08-13-ci-deps-bump-docker-login-action-from-4-5-2-to-4-6-0-in-the-actions-group-by-dep|ci(deps):
-  bump docker/login-action from 4.5.2 to 4.6.0 in the actions group…]]'
+- '[[Changes/Replit/2026-08-14-migrate-to-clerk-auth|Migrate to Clerk Auth]]'
+- '[[Changes/v0/2026-08-14-expired-sessions-recover-instead-of-dropping-you-into-a-personal-only-or-logged|Expired
+  sessions recover instead of dropping you into a personal-only or logged-out…]]'
 - '[[Changes/Claude Code/2026-08-17-2-account-and-access-changes-in-v2-1-234|2 Account
   and Access changes in v2.1.234]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-08-18-rust-v0-148-0-github-372686337-4265c0ae|codex-cli-2026-08-18-rust-v0-148-0-github-372686337-4265c0ae]]'

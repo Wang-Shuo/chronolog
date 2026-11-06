@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: pricing
-machine_hash: 98379b728468e4b3ce3deef2789cd58d7a1f21d7d26e869ff9e88f94d9126aeb
+machine_hash: 148ef6aacf2f436b0fea260d5cf23e93046e09bef6e3b3afaa0a5c18c49bda06
 product: aider
 product_name: Aider
 record:
@@ -43,10 +43,9 @@ record:
   title: Prevent retrying API calls when the provider reports insufficient credits
   type: change
 related_changes:
-- '[[Changes/OpenHands/2025-03-25-display-api-cost-and-token-usage-in-frontend-by-autoltx-in-https-github-com-all|Display
-  API cost and token usage in frontend]]'
 - '[[Changes/Cline/2025-03-28-add-cost-calculation-support-for-litellm-provider|Add
   cost calculation support for LiteLLM provider]]'
+- '[[Changes/Replit/2025-03-28-invoice-threshold-update|Invoice threshold update]]'
 - '[[Changes/Aider/2025-03-31-warn-at-startup-if-stream-and-cache-prompts-are-used-together-as-cost-estimates|Warn
   at startup if --stream and --cache-prompts are used together, as cost…]]'
 source_release: '[[Releases/Aider/aider-2025-04-04-v0-81-0-github-210314163-f0912302|aider-2025-04-04-v0-81-0-github-210314163-f0912302]]'
@@ -81,7 +80,7 @@ type: change
 ## Nearby in Pricing Model
 
 - Earlier: 2025-03-31 · Aider · [[Changes/Aider/2025-03-31-warn-at-startup-if-stream-and-cache-prompts-are-used-together-as-cost-estimates|Warn at startup if --stream and --cache-prompts are used together, as cost…]]
-- Later: 2025-04-15 · Cline · [[Changes/Cline/2025-04-15-eng-435-xai-provider-cost-issue-by-canvrno-in-https-github-com-cline-cline-pull|ENG-435/xAI provider cost issue]]
+- Later: 2025-04-07 · ElevenLabs · [[Changes/ElevenLabs/2025-04-07-user-subscription|User Subscription]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

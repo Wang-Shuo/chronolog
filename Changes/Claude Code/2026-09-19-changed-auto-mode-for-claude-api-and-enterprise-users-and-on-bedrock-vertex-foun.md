@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: pricing
-machine_hash: 4c923272373b749e535194a43b6615dce1bdd61ad19683771b3b4b79e410998b
+machine_hash: b4cfec11963feb6e398fc173690f50d24de53681a4c48734879784d10da5a227
 product: claude-code
 product_name: Claude Code
 record:
@@ -59,12 +59,12 @@ record:
   title: Changed auto mode for Claude API and Enterprise users, and on Bedrock, Vertex…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-17-claude-code-on-the-web-changed-a-routine-s-on-hold-notice-when-your-subscription|Claude
-  Code on the web Changed a routine''s on-hold notice]]'
 - '[[Changes/Cline/2026-09-17-cline-pass-now-defaults-to-a-model-from-your-subscription-rather-than-a-free-one|Cline
   Pass now defaults to a model from your subscription rather than a free one]]'
 - '[[Changes/Claude Code/2026-09-18-vscode-added-the-session-s-cost-and-token-usage-to-the-account-usage-dialog-and|VSCode
   Added the session''s cost and token usage to the Account & usage dialog…]]'
+- '[[Changes/Lovable/2026-09-18-use-firecrawl-without-a-firecrawl-account|Use Firecrawl
+  without a Firecrawl account]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-19-v2-1-278-github-391877760-2958ad0a|claude-code-2026-09-19-v2-1-278-github-391877760-2958ad0a]]'
 source_type: github_releases
 theme: pricing-model
@@ -93,8 +93,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Pricing Model
 
-- Earlier: 2026-09-18 · Claude Code · [[Changes/Claude Code/2026-09-18-vscode-added-the-session-s-cost-and-token-usage-to-the-account-usage-dialog-and|VSCode Added the session's cost and token usage to the Account & usage dialog…]]
-- Later: 2026-09-22 · Claude Code · [[Changes/Claude Code/2026-09-22-improved-cost-cache-miss-causes-to-name-thinking-mode-and-thinking-display-chang|Improved /cost cache-miss causes to name thinking mode and thinking display changes]]
+- Earlier: 2026-09-18 · Lovable · [[Changes/Lovable/2026-09-18-use-firecrawl-without-a-firecrawl-account|Use Firecrawl without a Firecrawl account]]
+- Later: 2026-09-21 · ElevenLabs · [[Changes/ElevenLabs/2026-09-21-user|User]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

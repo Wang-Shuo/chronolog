@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 9381debbf67fd7b880adb03d8e287cd8925853a1926de0c03524cf5b6aba30a1
+machine_hash: 87a440f4613f76e3fe2e246ced7cd759ac4191af2537f1b9ca84d82aac72ae58
 product: openhands
 product_name: OpenHands
 record:
@@ -41,12 +41,12 @@ record:
   title: Added branch picker for repository on homepage
   type: change
 related_changes:
-- '[[Changes/Cline/2025-04-25-add-tooltips-to-bottom-row-menu|Add tooltips to bottom
-  row menu]]'
 - '[[Changes/Cline/2025-05-03-add-support-for-latex-rendering|Add support for LaTeX
   rendering]]'
 - '[[Changes/ChatGPT/2025-05-06-we-ve-removed-the-row-of-individual-tool-icons-from-the-mobile-composer-and-repl-a35dd7|Mobile
   UI (iOS/Android) changing on Free/Plus/Pro plans]]'
+- "[[Changes/Open WebUI/2025-05-06-multiple-xml-tags-in-messages-now-parsed-correctly-fixed-parsing-issues-when-mes|\U0001F3F7️
+  Multiple XML Tags in Messages Now Parsed Correctly]]"
 source_release: '[[Releases/OpenHands/openhands-2025-05-07-0-37-0-github-217110161-eb6d03c5|openhands-2025-05-07-0-37-0-github-217110161-eb6d03c5]]'
 source_type: github_releases
 theme: interface-experience
@@ -76,7 +76,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2025-05-06 · ChatGPT · [[Changes/ChatGPT/2025-05-06-we-ve-removed-the-row-of-individual-tool-icons-from-the-mobile-composer-and-repl-a35dd7|Mobile UI (iOS/Android) changing on Free/Plus/Pro plans]]
+- Earlier: 2025-05-06 · Open WebUI · [[Changes/Open WebUI/2025-05-06-multiple-xml-tags-in-messages-now-parsed-correctly-fixed-parsing-issues-when-mes|🏷️ Multiple XML Tags in Messages Now Parsed Correctly]]
 - Later: 2025-05-09 · Aider · [[Changes/Aider/2025-05-09-3-interface-experience-changes-in-v0-83-0|3 Interface Experience changes in v0.83.0]]
 <!-- chronolog:end -->
 

@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 05df2d3fef08340f90de64d969cc3f8e92d89c6c044dcfd143efe6194a3aa5a5
+machine_hash: 31fc3a085f8471d33272a32cc05e78f25966519f1285cb180ab8f5ebb55b75bf
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -96,7 +96,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.66
 ## Nearby in Collaboration
 
 - Earlier: 2026-06-30 · Cursor · [[Changes/Cursor/2026-06-30-we-ve-expanded-team-marketplaces-to-support-team-mcps-and-organization-groups|Cursor expands team marketplaces to support Team MCPs and organization groups]]
-- Later: 2026-07-08 · Codex CLI · [[Changes/Codex CLI/2026-07-08-5-collaboration-changes-in-rust-v0-143-0|5 Collaboration changes in rust-v0.143.0]]
+- Later: 2026-07-07 · Lovable · [[Changes/Lovable/2026-07-07-the-last-owner-cannot-leave-a-shared-folder|The last owner cannot leave a shared folder]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

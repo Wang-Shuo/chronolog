@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 02d04e1d647f4fa1fcb1ed3bbe4c06ac350c2e30b56bcdb2a6d897eedec2d621
+machine_hash: 1cd48fc7280ef79b34026722ed642e16a8875b335d31fda2811b21d6b0b92ca2
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -43,8 +43,7 @@ record:
   title: 2 Apps and Integrations changes in v0.40.0
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-04-24-remote-command-shows-current-status-and-supports-remote-on-and-remote-off-to-tog|/remote
-  command shows current status and supports /remote on and /remote off…]]'
+- '[[Changes/ElevenLabs/2026-04-27-sdk-releases|SDK Releases]]'
 - '[[Changes/Claude Code/2026-04-28-2-apps-and-integrations-changes-in-v2-1-122|2
   Apps and Integrations changes in v2.1.122]]'
 - '[[Changes/Claude Code/2026-04-28-6-apps-and-integrations-changes-in-v2-1-121|6
@@ -89,7 +88,7 @@ Source: https://github.com/google-gemini/gemini-cli/releases/tag/v0.40.0
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-04-28 · Claude Code · [[Changes/Claude Code/2026-04-28-6-apps-and-integrations-changes-in-v2-1-121|6 Apps and Integrations changes in v2.1.121]]
-- Later: 2026-04-29 · Cursor · [[Changes/Cursor/2026-04-29-we-re-introducing-the-cursor-sdk-so-you-can-build-agents-with-the-same-runtime-h|Cursor introduces the Cursor SDK so you can build agents with the same runtime…]]
+- Later: 2026-04-28 · Ollama · [[Changes/Ollama/2026-04-28-aligned-the-desktop-app-s-launch-page-with-ollama-launch-integrations|Aligned the desktop app's launch page with ollama launch integrations]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: faa6345681773382967c408cafad5e1f68d0dc92e8162d928dfda6213cc79804
+machine_hash: 98637adf8ad423d3901695f972f5a3d7ae3afb1cca3ee05790a5c53241cb231b
 product: aider
 product_name: Aider
 record:
@@ -42,10 +42,10 @@ record:
   title: Run `aider --apply-clipboard-edits file-to-edit.js`
   type: change
 related_changes:
-- '[[Changes/Cline/2024-10-09-no-more-staring-at-loading-spinners-responses-are-now-streamed-into-the-editor-a|No
-  more staring at loading spinners: Responses are now streamed into the editor…]]'
 - '[[Changes/Cursor/2024-10-09-vs-code-1-93-1-cursor-is-now-based-on-vs-code-1-93-1-c087f6|VS
   Code 1.93.1: Cursor is now based on VS Code 1.93.1]]'
+- '[[Changes/Dify/2024-10-14-prompt-editor-optimization-clearer-and-more-efficient-prompt-editing-with-reset|Prompt
+  Editor Optimization: Clearer and more efficient prompt editing with reset…]]'
 - '[[Changes/Aider/2024-10-22-2-editor-experience-changes-in-v0-60-0|2 Editor Experience
   changes in v0.60.0]]'
 source_release: '[[Releases/Aider/aider-2024-11-04-v0-62-0-github-183484302-e3085241|aider-2024-11-04-v0-62-0-github-183484302-e3085241]]'
@@ -79,7 +79,7 @@ type: change
 ## Nearby in Editor Experience
 
 - Earlier: 2024-10-22 · Aider · [[Changes/Aider/2024-10-22-2-editor-experience-changes-in-v0-60-0|2 Editor Experience changes in v0.60.0]]
-- Later: 2024-11-21 · Aider · [[Changes/Aider/2024-11-21-2-editor-experience-changes-in-v0-64-0|2 Editor Experience changes in v0.64.0]]
+- Later: 2024-11-05 · Dify · [[Changes/Dify/2024-11-05-chore-update-type-definition-to-resolve-lint-error-in-base-usage-at-text-editor|chore: update type definition to resolve lint error in Base usage at text-editor.tsx]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

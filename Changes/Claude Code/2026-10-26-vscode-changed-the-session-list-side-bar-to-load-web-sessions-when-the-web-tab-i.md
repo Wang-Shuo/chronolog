@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 90477244f9f70026ed44e51d826108b8c25ab141ac75a4661e5d08b6d9729bee
+machine_hash: 610338233c8789b2759985da847daa724a5d5fc3a2cac599ef084b1f71059ccd
 product: claude-code
 product_name: Claude Code
 record:
@@ -43,12 +43,12 @@ record:
     Web tab…'
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-23-cloud-sessions-changed-the-cloud-environment-dialog-to-open-network-access-setup|Cloud
-  sessions Changed the cloud environment dialog to open network access, setup…]]'
 - '[[Changes/OpenHands/2026-10-23-chore-verify-openhands-time-network-responses-and-order-them-by-completion-by-en|chore(verify-openhands):
   time network responses and order them by completion]]'
 - '[[Changes/Windsurf/2026-10-23-in-ide-mode-a-chat-tab-whose-agent-could-not-start-a-session-says-why-and-offers|In
   IDE mode, a chat tab whose agent could not start a session says why and offers…]]'
+- '[[Changes/Open WebUI/2026-10-25-4-editor-experience-changes-in-v0-12-4|4 Editor
+  Experience changes in v0.12.4]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-10-26-v2-1-311-github-424682562-151da26b|claude-code-2026-10-26-v2-1-311-github-424682562-151da26b]]'
 source_type: github_releases
 theme: editor-experience
@@ -88,8 +88,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2026-10-23 · Windsurf · [[Changes/Windsurf/2026-10-23-in-ide-mode-a-chat-tab-whose-agent-could-not-start-a-session-says-why-and-offers|In IDE mode, a chat tab whose agent could not start a session says why and offers…]]
-- Later: 2026-10-27 · Claude Code · [[Changes/Claude Code/2026-10-27-cloud-sessions-added-a-bash-editor-with-colors-line-numbers-and-a-copy-button-to|Cloud sessions Added a Bash editor with colors, line numbers and a Copy button…]]
+- Earlier: 2026-10-25 · Open WebUI · [[Changes/Open WebUI/2026-10-25-4-editor-experience-changes-in-v0-12-4|4 Editor Experience changes in v0.12.4]]
+- Later: 2026-10-26 · ElevenLabs · [[Changes/ElevenLabs/2026-10-26-2-editor-experience-changes-in-elevenlabs-updates-2026-10-26|2 Editor Experience changes in ElevenLabs updates — 2026-10-26]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

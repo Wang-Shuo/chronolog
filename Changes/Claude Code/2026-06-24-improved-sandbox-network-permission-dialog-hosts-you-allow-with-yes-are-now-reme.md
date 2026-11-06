@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 04466298d54b80ed9b9eed9fdd63c912cd9cc7b1d926301891b7ba302529606c
+machine_hash: 4fa1da0f08766144f07a0d7ec2510961dc6d39a4494421ccf35bba4d8051e8c2
 product: claude-code
 product_name: Claude Code
 record:
@@ -47,12 +47,12 @@ record:
   title: Improved sandbox network permission dialog
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-06-22-12-safety-and-privacy-changes-in-rust-v0-142-0|12
-  Safety and Privacy changes in rust-v0.142.0]]'
 - '[[Changes/Claude Code/2026-06-23-2-safety-and-privacy-changes-in-v2-1-187|2 Safety
   and Privacy changes in v2.1.187]]'
 - '[[Changes/GitHub Copilot CLI/2026-06-23-6-safety-and-privacy-changes-in-v1-0-64|6
   Safety and Privacy changes in v1.0.64]]'
+- '[[Changes/Lovable/2026-06-23-restrict-external-collaborators-without-enforcing-sso|Restrict
+  external collaborators without enforcing SSO]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-06-24-v2-1-191-github-344307226-67cdfb27|claude-code-2026-06-24-v2-1-191-github-344307226-67cdfb27]]'
 source_type: github_releases
 theme: safety-privacy
@@ -85,7 +85,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Safety and Privacy
 
-- Earlier: 2026-06-23 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-06-23-6-safety-and-privacy-changes-in-v1-0-64|6 Safety and Privacy changes in v1.0.64]]
+- Earlier: 2026-06-23 · Lovable · [[Changes/Lovable/2026-06-23-restrict-external-collaborators-without-enforcing-sso|Restrict external collaborators without enforcing SSO]]
 - Later: 2026-06-24 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-06-24-commands-with-slash-prefixed-string-arguments-e-g-body-azp-run-no-longer-trigger|Commands with slash-prefixed string arguments (e.g. --body "/azp run") no longer…]]
 <!-- chronolog:end -->
 

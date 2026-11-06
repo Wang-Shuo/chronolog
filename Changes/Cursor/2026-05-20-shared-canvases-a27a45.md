@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: baf3a8079daa0d43156fd5e7b00676a0b8798330f235192e4f853f33346ad558
+machine_hash: 4c8a3c53a4340a190b5e8287f5123696bda5aabca80d1c7db2328be951f2ae65
 product: cursor
 product_name: Cursor
 record:
@@ -51,8 +51,8 @@ record:
   title: Shared canvases
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-05-11-cursor-is-now-available-in-microsoft-teams|Cursor is
-  now available in Microsoft Teams]]'
+- '[[Changes/v0/2026-05-15-snowflake-teams-with-multiple-accounts-can-pick-which-account-a-chat-connects-to|Snowflake
+  teams with multiple accounts can pick which account a chat connects…]]'
 - '[[Changes/Windsurf/2026-05-16-restored-conversation-sharing|Restored conversation
   sharing]]'
 - '[[Changes/Codex CLI/2026-05-18-3-collaboration-changes-in-rust-v0-131-0|3 Collaboration
@@ -90,7 +90,7 @@ type: change
 ## Nearby in Collaboration
 
 - Earlier: 2026-05-18 · Codex CLI · [[Changes/Codex CLI/2026-05-18-3-collaboration-changes-in-rust-v0-131-0|3 Collaboration changes in rust-v0.131.0]]
-- Later: 2026-06-02 · Claude Code · [[Changes/Claude Code/2026-06-02-otel-resource-attributes-values-are-now-included-as-labels-on-metric-datapoints|OTEL_RESOURCE_ATTRIBUTES values are now included as labels on metric datapoints…]]
+- Later: 2026-05-29 · Lovable · [[Changes/Lovable/2026-05-29-more-consistent-project-action-buttons|More consistent project action buttons]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

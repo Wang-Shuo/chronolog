@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 4f48ee9205fcacfc76b89f537f541cfef9b4bede24bb22d70b3ba1e47812779a
+machine_hash: 462fe78b20187cb8390ad8dd247314198f27a2bbd0c1eee80dd8be51814f372b
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -134,7 +134,7 @@ Source: https://github.com/google-gemini/gemini-cli/releases/tag/v0.31.0
 ## Nearby in Model Support
 
 - Earlier: 2026-02-27 · Cline · [[Changes/Cline/2026-02-27-4-model-support-changes-in-v3-68-0|4 Model Support changes in v3.68.0]]
-- Later: 2026-03-02 · Codex CLI · [[Changes/Codex CLI/2026-03-02-4-model-support-changes-in-rust-v0-107-0|4 Model Support changes in rust-v0.107.0]]
+- Later: 2026-02-27 · Ollama · [[Changes/Ollama/2026-02-27-lfm-2-https-ollama-com-library-lfm2-lfm2-is-a-family-of-hybrid-models-designed-f|LFM 2((source link) LFM2 is a family of hybrid models designed…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

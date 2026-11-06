@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 7fcba8ffaaa99c280c50d66be723e7b218137fe7abc73b70aae8311248938f69
+machine_hash: 06c8aa1fee0be86308f92e9a962e4041d5f84a0ad4cbb1455b14d599b4431310
 product: openhands
 product_name: OpenHands
 record:
@@ -43,8 +43,8 @@ record:
   title: Correct list rendering for chat window
   type: change
 related_changes:
-- '[[Changes/Aider/2024-07-31-switching-to-code-and-ask-mode-no-longer-summarizes-the-chat-history|Switching
-  to code and ask mode no longer summarizes the chat history]]'
+- '[[Changes/Open WebUI/2024-08-21-3-interface-experience-changes-in-v0-3-14|3 Interface
+  Experience changes in v0.3.14]]'
 - '[[Changes/Cursor/2024-08-22-we-have-a-new-chat-ux-excited-for-you-to-try-it-out-and-share-your-thoughts|We
   have a new chat UX!]]'
 - '[[Changes/Aider/2024-08-23-new-reset-command-to-drop-files-and-clear-chat-history|New
@@ -82,7 +82,7 @@ type: change
 ## Nearby in Interface Experience
 
 - Earlier: 2024-08-23 · Aider · [[Changes/Aider/2024-08-23-new-reset-command-to-drop-files-and-clear-chat-history|New /reset command to /drop files and /clear chat history]]
-- Later: 2024-08-28 · Aider · [[Changes/Aider/2024-08-28-performance-improvements-for-autocomplete-in-large-mono-repos|Performance improvements for autocomplete in large/mono repos]]
+- Later: 2024-08-26 · Dify · [[Changes/Dify/2024-08-26-4-interface-experience-changes-in-0-7-2|4 Interface Experience changes in 0.7.2]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

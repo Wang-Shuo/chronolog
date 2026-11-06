@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 535203ee1c9283564ca5db58367c77bd2e6bf1680da4806e0be0f302f469ba3d
+machine_hash: 5741da300cc6576611d4397a66867a04a19cb6aa5a8bee6c0ba23794983bb811
 product: claude-code
 product_name: Claude Code
 record:
@@ -57,12 +57,11 @@ record:
     progress…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-02-26-improved-memory-usage-in-multi-agent-sessions-by-releasing-completed-subagent-ta|Improved
-  memory usage in multi-agent sessions by releasing completed subagent task state]]'
 - '[[Changes/Codex CLI/2026-02-26-2-reliability-and-performance-changes-in-rust-v0-106-0|2
   Reliability and Performance changes in rust-v0.106.0]]'
 - '[[Changes/ChatGPT/2026-02-27-faster-sharing-sharing-chats-is-now-easier-and-faster-with-a-quicker-loading-sha|Faster
   sharing. Sharing chats is now easier and faster, with a quicker-loading share menu]]'
+- '[[Changes/Replit/2026-02-27-agent-performance-improvements|Agent performance improvements]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-02-28-v2-1-63-github-291579549-8767ab9c|claude-code-2026-02-28-v2-1-63-github-291579549-8767ab9c]]'
 source_type: github_releases
 theme: reliability-performance
@@ -99,8 +98,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2026-02-27 · ChatGPT · [[Changes/ChatGPT/2026-02-27-faster-sharing-sharing-chats-is-now-easier-and-faster-with-a-quicker-loading-sha|Faster sharing. Sharing chats is now easier and faster, with a quicker-loading share menu]]
-- Later: 2026-03-03 · Cursor · [[Changes/Cursor/2026-03-03-modals-load-faster|Modals load faster]]
+- Earlier: 2026-02-27 · Replit · [[Changes/Replit/2026-02-27-agent-performance-improvements|Agent performance improvements]]
+- Later: 2026-03-01 · Open WebUI · [[Changes/Open WebUI/2026-03-01-21-reliability-and-performance-changes-in-v0-8-6|21 Reliability and Performance changes in v0.8.6]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

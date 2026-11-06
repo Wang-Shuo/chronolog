@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: pricing
-machine_hash: d629fc76bb8075c7626e250989f084d9f7e7ac08b97814f93cb21d1ec741bf89
+machine_hash: 03f3b76cf3abe2532edb48b8ad20203693fa30788c5039f0c21a56f2d5f568fe
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -53,11 +53,12 @@ record:
     tier
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-04-22-opentelemetry-user-prompt-events-now-include-command-name-and-command-source-for|OpenTelemetry:
-  user_prompt events now include command_name and command_source…]]'
-- '[[Changes/Windsurf/2026-05-06-devin-review-quick-review|Devin Review & Quick Review]]'
 - '[[Changes/Cursor/2026-05-11-customers-must-be-on-usage-based-billing-for-bugbot-to-customize-effort-levels-l|Customers
   must be on usage-based billing for Bugbot to customize effort levels]]'
+- '[[Changes/Dify/2026-05-12-refactor-web-migrate-subscription-create-modal-to-dialog-by-lyzno1-in-https-gith|refactor(web):
+  migrate subscription create modal to dialog]]'
+- '[[Changes/v0/2026-05-12-the-v0-credit-redemption-modal-no-longer-hangs-on-verifying-after-submitting-a-u|The
+  v0 credit redemption modal no longer hangs on "Verifying" after submitting…]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-05-13-v1-0-47-github-321925216-3af3f9d3|github-copilot-cli-2026-05-13-v1-0-47-github-321925216-3af3f9d3]]'
 source_type: github_releases
 theme: pricing-model
@@ -89,7 +90,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Pricing Model
 
-- Earlier: 2026-05-11 · Cursor · [[Changes/Cursor/2026-05-11-customers-must-be-on-usage-based-billing-for-bugbot-to-customize-effort-levels-l|Customers must be on usage-based billing for Bugbot to customize effort levels]]
+- Earlier: 2026-05-12 · v0 · [[Changes/v0/2026-05-12-the-v0-credit-redemption-modal-no-longer-hangs-on-verifying-after-submitting-a-u|The v0 credit redemption modal no longer hangs on "Verifying" after submitting…]]
 - Later: 2026-05-14 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-05-14-model-picker-displays-actual-token-prices-instead-of-dot-indicators-for-token-ba|Model picker displays actual token prices instead of dot indicators for token-based…]]
 <!-- chronolog:end -->
 

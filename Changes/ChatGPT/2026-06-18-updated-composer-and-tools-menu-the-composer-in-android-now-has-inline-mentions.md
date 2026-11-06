@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 2412bdb9f975c6ff0b7bbc31592ad28b6594dacede2d7f239fad3b90cc781ffa
+machine_hash: 4c3c8130c3a2f820cfbb83df0fddb6af8416cbc508aa64ba0468929fbe681167
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -54,8 +54,7 @@ record:
   title: Updated composer and tools menu
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-06-15-clarified-contributor-guidance-around-keeping-crate-apis-narrow-and-supporting-l|Clarified
-  contributor guidance around keeping crate APIs narrow and supporting…]]'
+- '[[Changes/ElevenLabs/2026-06-15-ios-sdk|iOS SDK]]'
 - '[[Changes/Windsurf/2026-06-16-the-3-2-series-brings-devin-local-enhancements-and-continued-devin-desktop-polis|The
   3.2 series brings Devin Local enhancements and continued Devin Desktop polish]]'
 - '[[Changes/Claude Code/2026-06-17-2-mobile-and-desktop-changes-in-v2-1-181|2 Mobile
@@ -97,7 +96,7 @@ type: change
 ## Nearby in Mobile and Desktop
 
 - Earlier: 2026-06-17 · Claude Code · [[Changes/Claude Code/2026-06-17-2-mobile-and-desktop-changes-in-v2-1-181|2 Mobile and Desktop changes in v2.1.181]]
-- Later: 2026-06-22 · Codex CLI · [[Changes/Codex CLI/2026-06-22-28791-bazel-refresh-expired-macos-sdk-pin-anp-oai|♯28791 bazel: refresh expired macOS SDK pin @anp-oai]]
+- Later: 2026-06-19 · v0 · [[Changes/v0/2026-06-19-on-mobile-an-expired-session-while-sending-opens-the-re-authenticate-flow-instea|On mobile, an expired session while sending opens the re-authenticate flow instead…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

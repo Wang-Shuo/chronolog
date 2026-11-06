@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: e9115eaec0190552c4ae05bb4a132d027443fa8d1b0e4673ca2c03d8f45875e1
+machine_hash: 94b08aebb8169b32f2b52eb8e175e461a8f48ed0d13c7945b2f8186683ecbc55
 product: cursor
 product_name: Cursor
 record:
@@ -62,12 +62,12 @@ record:
   title: 'Copilot++ Improvements: We''ve spent some time improving the latency…'
   type: change
 related_changes:
-- '[[Changes/Cursor/2023-11-03-styling-tweaks-some-buttons-and-hints-should-look-nicer|Styling
-  tweaks: some buttons and hints should look nicer!]]'
 - '[[Changes/Cursor/2023-11-10-command-dot-you-can-now-use-the-command-dot-menu-to-have-command-k-fix-lint-erro|Command-dot:
   you can now use the Command-dot menu to have Command-K fix lint errors inline]]'
 - '[[Changes/Cursor/2023-11-12-copilot-improvements-includes-green-highlights-to-see-what-copilot-has-added-the|Copilot++
   improvements: Includes green highlights to see what Copilot++ has added…]]'
+- '[[Changes/Gemini/2023-11-16-bard-is-available-for-more-age-groups|Bard is available
+  for more age groups]]'
 source_release: '[[Releases/Cursor/cursor-2023-11-27-0-17-0-https-cursor-com-changelog-0-17-0-871d6ce3|cursor-2023-11-27-0-17-0-https-cursor-com-changelog-0-17-0-871d6ce3]]'
 source_type: cursor_changelog
 theme: interface-experience
@@ -98,7 +98,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2023-11-12 · Cursor · [[Changes/Cursor/2023-11-12-copilot-improvements-includes-green-highlights-to-see-what-copilot-has-added-the|Copilot++ improvements: Includes green highlights to see what Copilot++ has added…]]
+- Earlier: 2023-11-16 · Gemini · [[Changes/Gemini/2023-11-16-bard-is-available-for-more-age-groups|Bard is available for more age groups]]
 - Later: 2023-12-06 · Cursor · [[Changes/Cursor/2023-12-06-minor-onboarding-changes-19f3e5|Onboarding & Feedback]]
 <!-- chronolog:end -->
 

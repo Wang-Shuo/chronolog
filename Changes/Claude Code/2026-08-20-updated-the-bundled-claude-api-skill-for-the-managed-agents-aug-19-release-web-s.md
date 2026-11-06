@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: memory
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 7bd48f54f293cc8407c49af16e9774ced1e38f04fc8d3d7d0dbec1eb3e849048
+machine_hash: b709eae3e39a9e07d34f5a5c7b78f4c4e1b76353146c8109fc7d572704148b9e
 product: claude-code
 product_name: Claude Code
 record:
@@ -56,10 +56,10 @@ record:
   title: Updated the bundled `claude-api` skill for the Managed Agents Aug 19 release
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-08-14-we-ve-made-it-easier-to-study-with-interactive-quizzes-manage-project-memory-and|ChatGPT
-  makes it easier to study with interactive quizzes, manage project memory…]]'
 - '[[Changes/ChatGPT/2026-08-14-you-can-now-change-a-project-s-memory-setting-after-you-create-it-open-the-proje-b36ffe|Edit
   memory settings for existing projects]]'
+- '[[Changes/v0/2026-08-14-reduced-the-web-client-s-memory-use-by-clearing-preview-iframes-blob-and-audio-u|Reduced
+  the web client''s memory use by clearing preview iframes, blob and audio…]]'
 - '[[Changes/ChatGPT/2026-08-20-use-computer-history-in-more-regions-computer-history-is-now-available-in-the-ee|Use
   Computer History in more regions]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-08-20-v2-1-238-github-373927029-c96744e2|claude-code-2026-08-20-v2-1-238-github-373927029-c96744e2]]'

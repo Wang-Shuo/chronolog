@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: a1ed1ebe21f01f600bc861c92fbba0c9583d1fdc3ff659f33844f16245f4820a
+machine_hash: eaf0aaba22140f37e86610245cfd6e22089cf08a2b8caec342a76babb1751e54
 product: aider
 product_name: Aider
 record:
@@ -45,12 +45,12 @@ record:
     use…'
   type: change
 related_changes:
-- '[[Changes/Aider/2024-10-22-2-editor-experience-changes-in-v0-60-0|2 Editor Experience
-  changes in v0.60.0]]'
-- '[[Changes/Aider/2024-11-04-run-aider-apply-clipboard-edits-file-to-edit-js|Run
-  aider --apply-clipboard-edits file-to-edit.js]]'
+- "[[Changes/Open WebUI/2024-11-20-usage-capability-selector-fixed-the-broken-usage-capabilities-selector-in-the-mo|\U0001F527
+  Usage Capability Selector]]"
 - '[[Changes/Aider/2024-11-21-2-editor-experience-changes-in-v0-64-0|2 Editor Experience
   changes in v0.64.0]]'
+- '[[Changes/Dify/2024-11-25-feat-add-japanese-translations-for-api-documentation-chat-advanced-chat-completi|feat
+  : Add Japanese translations for API documentation: chat, advanced-chat…]]'
 source_release: '[[Releases/Aider/aider-2024-11-26-v0-65-0-github-187637118-11b15eff|aider-2024-11-26-v0-65-0-github-187637118-11b15eff]]'
 source_type: github_releases
 theme: editor-experience
@@ -82,8 +82,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2024-11-21 · Aider · [[Changes/Aider/2024-11-21-2-editor-experience-changes-in-v0-64-0|2 Editor Experience changes in v0.64.0]]
-- Later: 2024-12-06 · Aider · [[Changes/Aider/2024-12-06-2-editor-experience-changes-in-v0-67-0|2 Editor Experience changes in v0.67.0]]
+- Earlier: 2024-11-25 · Dify · [[Changes/Dify/2024-11-25-feat-add-japanese-translations-for-api-documentation-chat-advanced-chat-completi|feat : Add Japanese translations for API documentation: chat, advanced-chat…]]
+- Later: 2024-12-01 · Open WebUI · [[Changes/Open WebUI/2024-12-01-2-editor-experience-changes-in-v0-4-7|2 Editor Experience changes in v0.4.7]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: 0e294dedc97be4f88544cf7385c481c6a51e23f1d399831ecd2d687daa31f86d
+machine_hash: c63443bd4fe9769a56cb15422d09bef07e0bf02e8e55670873641727f4f34f8e
 product: cursor
 product_name: Cursor
 record:
@@ -57,12 +57,11 @@ record:
     as you…
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2026-02-27-2-interface-experience-changes-in-v0-31-0|2 Interface
-  Experience changes in v0.31.0]]'
-- '[[Changes/GitHub Copilot CLI/2026-02-27-add-ctrl-g-keyboard-shortcut-for-editing-prompts-in-external-editor-and-dismissi|Add
-  Ctrl+G keyboard shortcut for editing prompts in external editor and dismissing…]]'
-- '[[Changes/Claude Code/2026-02-28-added-always-copy-full-response-option-to-the-copy-picker-when-selected-future-c|Added
-  "Always copy full response" option to the /copy picker]]'
+- '[[Changes/ElevenLabs/2026-03-02-elevenagents|ElevenAgents]]'
+- "[[Changes/Open WebUI/2026-03-02-chat-history-pagination-fixed-an-issue-where-older-messages-in-long-chats-were-n|\U0001F4DC
+  Chat history pagination. Fixed an issue where older messages in long chats…]]"
+- '[[Changes/v0/2026-03-02-removed-tabs-from-chat-sidebar-and-reorganized-settings|Removed
+  tabs from chat sidebar and reorganized settings]]'
 source_release: '[[Releases/Cursor/cursor-2026-03-03-2-6-https-cursor-com-changelog-2-6-0fa7f1a3|cursor-2026-03-03-2-6-https-cursor-com-changelog-2-6-0fa7f1a3]]'
 source_type: cursor_changelog
 theme: interface-experience
@@ -103,7 +102,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-02-28 · Claude Code · [[Changes/Claude Code/2026-02-28-added-always-copy-full-response-option-to-the-copy-picker-when-selected-future-c|Added "Always copy full response" option to the /copy picker]]
+- Earlier: 2026-03-02 · v0 · [[Changes/v0/2026-03-02-removed-tabs-from-chat-sidebar-and-reorganized-settings|Removed tabs from chat sidebar and reorganized settings]]
 - Later: 2026-03-03 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-03-03-2-interface-experience-changes-in-v0-0-421|2 Interface Experience changes in v0.0.421]]
 <!-- chronolog:end -->
 

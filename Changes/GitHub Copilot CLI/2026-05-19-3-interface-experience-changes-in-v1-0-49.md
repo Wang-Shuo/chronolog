@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: c946cafa6a71ef84d90c7105075fa08e41ff38808489baed7d2b0eb80fd2736f
+machine_hash: f7fbc317e03657b0e213d87db7aafb2ad8aad4638c322b7ff38bedd4d60a1ad5
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -48,12 +48,12 @@ record:
   title: 3 Interface Experience changes in v1.0.49
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-05-18-5-interface-experience-changes-in-rust-v0-131-0|5
-  Interface Experience changes in rust-v0.131.0]]'
 - '[[Changes/Claude Code/2026-05-19-2-interface-experience-changes-in-v2-1-145|2 Interface
   Experience changes in v2.1.145]]'
 - '[[Changes/Claude Code/2026-05-19-model-now-changes-the-model-for-the-current-session-only-press-d-in-the-model-pi|/model
   now changes the model for the current session only]]'
+- '[[Changes/Dify/2026-05-19-app-creation-and-onboarding-tracked-app-creation-source-and-template-id-initiali|App
+  creation and onboarding]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-05-19-v1-0-49-github-324640083-4bf093b8|github-copilot-cli-2026-05-19-v1-0-49-github-324640083-4bf093b8]]'
 source_type: github_releases
 theme: interface-experience
@@ -98,7 +98,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.49
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-05-19 · Claude Code · [[Changes/Claude Code/2026-05-19-model-now-changes-the-model-for-the-current-session-only-press-d-in-the-model-pi|/model now changes the model for the current session only]]
+- Earlier: 2026-05-19 · Dify · [[Changes/Dify/2026-05-19-app-creation-and-onboarding-tracked-app-creation-source-and-template-id-initiali|App creation and onboarding]]
 - Later: 2026-05-20 · Codex CLI · [[Changes/Codex CLI/2026-05-20-3-interface-experience-changes-in-rust-v0-132-0|3 Interface Experience changes in rust-v0.132.0]]
 <!-- chronolog:end -->
 

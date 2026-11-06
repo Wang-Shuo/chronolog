@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: memory
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 58bb71b873d8b5503c76b679c392f1fc9aea882fb79f42bb611d1a4cd8e25e62
+machine_hash: 0ced98ec3e8d1c83a5fa5a54a81b79a61b8f6427fff4a071dbaae87755c6e7b3
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -76,8 +76,8 @@ record:
   title: Introducing ChatGPT Pulse for Pro users
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2025-09-15-personalization-no-longer-opens-in-a-separate-modal-you-can-manage-personalizati|Personalization
-  settings are now in Settings]]'
+- '[[Changes/Claude/2025-09-18-claude-s-memory-on-enterprise-plans|Claude’s memory
+  on Enterprise plans]]'
 - '[[Changes/ChatGPT/2025-09-22-longer-memory-for-more-personalized-responses|Longer
   memory for more personalized responses]]'
 - '[[Changes/Codex CLI/2025-09-23-new-review-commands-review-specific-commit-against-a-base-branch-or-custom-instr|New

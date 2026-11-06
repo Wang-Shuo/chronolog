@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 756571a7745c29efee978304ac05058c7ba0af70c79eb7fe4f05903f3e479d4c
+machine_hash: 7ee842a0b65fad1c1029532617629cbcff06d3165531c4c3df00a6fc0e6ed015
 product: cursor
 product_name: Cursor
 record:
@@ -50,8 +50,8 @@ record:
   title: Browser layout and style editor
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2025-12-02-restore-bracketed-paste-mode-after-external-editor-exit-by-scidomino-in-https-gi|Restore
-  bracketed paste mode after external editor exit]]'
+- "[[Changes/Open WebUI/2025-12-02-the-model-editor-interface-was-refined-with-access-control-settings-moved-to-a-d|\U0001F3A8
+  The model editor interface was refined with access control settings moved…]]"
 - '[[Changes/Cline/2025-12-04-set-the-cli-s-ide-version-to-just-the-cli-version-rather-than-being-blank-to-mak|set
   the cli''s ''ide version'' to just the cli version rather than being blank, to make…]]'
 - '[[Changes/Codex CLI/2025-12-09-3-editor-experience-changes-in-rust-v0-66-0|3 Editor

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: b425bee6c8b035b37d335e139b74ff8217c9686f4ce40392a2661caccf884a4d
+machine_hash: 782ddbb5756631fd0de33f69123f6f830917e0c7ac68c1c33e7103dc0dabb3e6
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -47,10 +47,8 @@ record:
   title: 3 Agent Mode changes in v0.0.355
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2025-11-04-add-regression-tests-for-shell-command-parsing-by-cornmander-in-https-github-com|Add
-  regression tests for shell command parsing]]'
-- '[[Changes/Gemini CLI/2025-11-07-3-agent-mode-changes-in-v0-13-0|3 Agent Mode changes
-  in v0.13.0]]'
+- '[[Changes/ElevenLabs/2025-11-12-agents-platform-e67d7a|Agents Platform]]'
+- '[[Changes/ElevenLabs/2025-11-12-agents-packages|Agents Packages]]'
 - '[[Changes/Gemini CLI/2025-11-12-2-agent-mode-changes-in-v0-14-0|2 Agent Mode changes
   in v0.14.0]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2025-11-12-v0-0-355-github-261915723-3452a587|github-copilot-cli-2025-11-12-v0-0-355-github-261915723-3452a587]]'

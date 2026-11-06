@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: ac13d2a135d19062fb7fcf16c34566d37739f936fd52e6425712bb4122993165
+machine_hash: 5908686783b6e1b5a1953db707b0aa19d417788ed6edc01a58262883e543fa98
 product: aider
 product_name: Aider
 record:
@@ -46,10 +46,10 @@ record:
   title: 2 Editor Experience changes in v0.16.1
   type: change
 related_changes:
-- '[[Changes/Cursor/2023-09-21-hacky-first-version-of-cmd-k-in-the-terminal-let-us-know-what-you-think|Cmd-K
-  in the terminal!]]'
 - '[[Changes/Cursor/2023-09-27-you-can-now-use-an-early-preview-of-edit-in-the-chat-it-s-significantly-faster-a|/edit
   in chat]]'
+- '[[Changes/Dify/2023-10-14-remove-the-suggested-api-for-completion-app-by-crazywoola-in-https-github-com-la|remove
+  the suggested api for completion app]]'
 - '[[Changes/Aider/2023-10-29-2-editor-experience-changes-in-v0-16-0|2 Editor Experience
   changes in v0.16.0]]'
 source_release: '[[Releases/Aider/aider-2023-10-31-v0-16-1-github-127439332-25a9853c|aider-2023-10-31-v0-16-1-github-127439332-25a9853c]]'

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: d128ac9a1082f086b9210a49e63284c66a673e7ea722e9e5ca371905b557866e
+machine_hash: cc88c927ee02256ecba0fbbeaff0803ed37029e0473aad5127602a72245624e1
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -41,11 +41,11 @@ record:
   title: ACP server supports changing models during a session
   type: change
 related_changes:
-- '[[Changes/Cline/2026-01-30-litellm-fixed-thinking-configuration-not-appearing-for-reasoning-capable-models|_LiteLLM:
+- '[[Changes/Cline/2026-01-30-litellm-fixed-thinking-configuration-not-appearing-for-reasoning-capable-models|LiteLLM:
   Fixed thinking configuration not appearing for reasoning-capable models]]'
-- '[[Changes/Cline/2026-01-30-litellm-fixed-thinking-configuration-not-appearing-for-reasoning-capable-models-c6cd73|_LiteLLM:
+- '[[Changes/Cline/2026-01-30-litellm-fixed-thinking-configuration-not-appearing-for-reasoning-capable-models-c6cd73|LiteLLM:
   Fixed thinking configuration not appearing for reasoning-capable models]]'
-- '[[Changes/Cline/2026-01-30-litellm-fixed-thinking-configuration-not-appearing-for-reasoning-capable-models-cb84ce|_LiteLLM:
+- '[[Changes/Cline/2026-01-30-litellm-fixed-thinking-configuration-not-appearing-for-reasoning-capable-models-cb84ce|LiteLLM:
   Fixed thinking configuration not appearing for reasoning-capable models]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-01-30-v0-0-400-github-281705336-a0abdb24|github-copilot-cli-2026-01-30-v0-0-400-github-281705336-a0abdb24]]'
 source_type: github_releases
@@ -82,7 +82,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-01-30 · Cline · [[Changes/Cline/2026-01-30-litellm-fixed-thinking-configuration-not-appearing-for-reasoning-capable-models-cb84ce|_LiteLLM: Fixed thinking configuration not appearing for reasoning-capable models]]
+- Earlier: 2026-01-30 · Cline · [[Changes/Cline/2026-01-30-litellm-fixed-thinking-configuration-not-appearing-for-reasoning-capable-models-cb84ce|LiteLLM: Fixed thinking configuration not appearing for reasoning-capable models]]
 - Later: 2026-01-30 · Windsurf · [[Changes/Windsurf/2026-01-30-arena-mode|Arena Mode]]
 <!-- chronolog:end -->
 

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 8f9b28f742d50a849b96e4c2baa68017dbd21b7196f8eda9c5c37167e26deab0
+machine_hash: 7535a58f98498de412ca35a6141918f9709ddc6525f77bb9791d71b532e531f5
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -43,12 +43,11 @@ record:
   title: '#14123 pass on save info to model + ui tweaks @won-openai'
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-03-05-add-support-for-gpt-5-4-model|Add support
-  for GPT-5.4 model]]'
-- '[[Changes/Cline/2026-03-06-added-gpt-5-4-models-for-chatgpt-subscription-users|Added
-  GPT-5.4 models for ChatGPT subscription users]]'
-- '[[Changes/Codex CLI/2026-03-08-13617-update-models-json-aibrahim-oai|♯13617 Update
-  models.json @aibrahim-oai]]'
+- '[[Changes/Open WebUI/2026-03-08-9-model-support-changes-in-v0-8-9|9 Model Support
+  changes in v0.8.9]]'
+- '[[Changes/ElevenLabs/2026-03-09-elevenagents|ElevenAgents]]'
+- '[[Changes/Open WebUI/2026-03-09-3-model-support-changes-in-v0-8-10|3 Model Support
+  changes in v0.8.10]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-03-10-rust-v0-113-0-github-294999501-e594ccb6|codex-cli-2026-03-10-rust-v0-113-0-github-294999501-e594ccb6]]'
 source_type: github_releases
 theme: model-support
@@ -88,8 +87,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-03-08 · Codex CLI · [[Changes/Codex CLI/2026-03-08-13617-update-models-json-aibrahim-oai|♯13617 Update models.json @aibrahim-oai]]
-- Later: 2026-03-11 · ChatGPT · [[Changes/ChatGPT/2026-03-11-as-of-march-11-2026-gpt-5-1-models-are-no-longer-available-in-chatgpt-this-appli|Retiring GPT-5.1 models]]
+- Earlier: 2026-03-09 · Open WebUI · [[Changes/Open WebUI/2026-03-09-3-model-support-changes-in-v0-8-10|3 Model Support changes in v0.8.10]]
+- Later: 2026-03-10 · v0 · [[Changes/v0/2026-03-10-updated-auto-model-icon-to-new-radial-design|Updated auto model icon to new radial design]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

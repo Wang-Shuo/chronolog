@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 74f2619c6d2302ae06f2b93a37200bf2acef34cd36eab45eb5d452ad37094665
+machine_hash: 45cefe21f58ded3377c6d4355442ce452eb60fd67b1672c84d7da8987be1b8e5
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,12 +45,12 @@ record:
   title: 2 Safety and Privacy changes in v2.1.219
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-07-22-3-safety-and-privacy-changes-in-v2-1-218|3 Safety
-  and Privacy changes in v2.1.218]]'
 - '[[Changes/ChatGPT/2026-07-23-health-is-built-with-layered-privacy-and-security-safeguards-connected-medical-r|Health
   is built with layered privacy and security safeguards]]'
 - '[[Changes/GitHub Copilot CLI/2026-07-23-show-a-first-run-splash-to-opt-into-the-default-sandbox|Show
   a first-run splash to opt into the default sandbox]]'
+- '[[Changes/Lovable/2026-07-23-payments-is-always-visible-in-your-project|Payments
+  is always visible in your project]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-07-24-v2-1-219-github-359412713-6c14d233|claude-code-2026-07-24-v2-1-219-github-359412713-6c14d233]]'
 source_type: github_releases
 theme: safety-privacy
@@ -87,8 +87,8 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.219
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Safety and Privacy
 
-- Earlier: 2026-07-23 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-07-23-show-a-first-run-splash-to-opt-into-the-default-sandbox|Show a first-run splash to opt into the default sandbox]]
-- Later: 2026-07-28 · Gemini CLI · [[Changes/Gemini CLI/2026-07-28-fix-a2a-server-enforce-workspace-trust-and-task-isolation-to-prevent-rce-by-luis|fix(a2a-server): enforce workspace trust and task isolation to prevent RCE]]
+- Earlier: 2026-07-23 · Lovable · [[Changes/Lovable/2026-07-23-payments-is-always-visible-in-your-project|Payments is always visible in your project]]
+- Later: 2026-07-27 · Open WebUI · [[Changes/Open WebUI/2026-07-27-13-safety-and-privacy-changes-in-v0-11-0|13 Safety and Privacy changes in v0.11.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 56e9231c23b05e99f915c3b95257a10f85004f45f7b1f190cde5556fef6d369b
+machine_hash: c0438b6252cee38ae9e54c13fb08342424bbd9f301d98ef441a4461176d2c5c6
 product: windsurf
 product_name: Windsurf
 record:
@@ -84,7 +84,7 @@ type: change
 ## Nearby in Context Window
 
 - Earlier: 2025-11-04 · Codex CLI · [[Changes/Codex CLI/2025-11-04-6161-include-reasoning-tokens-in-the-context-window-calculation-6161|♯6161 Include reasoning tokens in the context window calculation (♯6161)]]
-- Later: 2025-11-06 · Cline · [[Changes/Cline/2025-11-06-use-context-aware-task-manager-for-quick-auth-by-canvrno-in-https-github-com-cli|Use context-aware task manager for quick auth]]
+- Later: 2025-11-05 · ElevenLabs · [[Changes/ElevenLabs/2025-11-05-tokens|Tokens]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: d717dc8ca3e5886319a50ce459fdb7eace1f257a7d891ae2f87c1828f42cd51a
+machine_hash: 6604a5c2971970f8c0663495aa12deee7478c74980fda13ee1be447699c4bdf9
 product: cline
 product_name: Cline
 record:
@@ -88,7 +88,7 @@ Source: https://github.com/cline/cline/releases/tag/v3.41.0
 ## Nearby in Context Window
 
 - Earlier: 2025-12-09 · Gemini CLI · [[Changes/Gemini CLI/2025-12-09-feat-core-implement-jit-context-manager-and-setting-by-sandytao520-in-https-gith|feat(core): Implement JIT context manager and setting]]
-- Later: 2025-12-17 · Cline · [[Changes/Cline/2025-12-17-added-support-for-dynamic-tool-instructions-that-adapt-based-on-runtime-context|Added support for dynamic tool instructions that adapt based on runtime context…]]
+- Later: 2025-12-11 · Dify · [[Changes/Dify/2025-12-11-2-context-window-changes-in-1-11-0|2 Context Window changes in 1.11.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

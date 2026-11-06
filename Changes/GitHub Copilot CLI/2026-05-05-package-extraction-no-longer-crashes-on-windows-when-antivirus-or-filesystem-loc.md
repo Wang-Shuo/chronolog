@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 13a507a252a812037606dbc2df54b6982224a81735790497c4406b9422277a5c
+machine_hash: a66855f955c9bd245d2842a8c822013972983ec17a803e239ec06f0f9fd22f68
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -46,12 +46,11 @@ record:
     locks…
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-04-24-19167-ci-add-macos-keychain-entitlements-euroelessar|♯19167
-  ci: add macOS keychain entitlements @euroelessar]]'
-- '[[Changes/Cursor/2026-04-29-the-agents-that-run-in-the-cursor-desktop-app-cli-and-web-app-are-now-accessible|The
-  agents that run in the Cursor desktop app, CLI, and web app are now accessible…]]'
 - '[[Changes/Codex CLI/2026-04-30-3-mobile-and-desktop-changes-in-rust-v0-128-0|3
   Mobile and Desktop changes in rust-v0.128.0]]'
+- '[[Changes/Ollama/2026-05-03-3-mobile-and-desktop-changes-in-v0-23-0|3 Mobile and
+  Desktop changes in v0.23.0]]'
+- '[[Changes/ElevenLabs/2026-05-04-android-sdk|Android SDK]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-05-05-v1-0-41-github-318057614-7319e863|github-copilot-cli-2026-05-05-v1-0-41-github-318057614-7319e863]]'
 source_type: github_releases
 theme: mobile-desktop
@@ -89,7 +88,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2026-04-30 · Codex CLI · [[Changes/Codex CLI/2026-04-30-3-mobile-and-desktop-changes-in-rust-v0-128-0|3 Mobile and Desktop changes in rust-v0.128.0]]
+- Earlier: 2026-05-04 · ElevenLabs · [[Changes/ElevenLabs/2026-05-04-android-sdk|Android SDK]]
 - Later: 2026-05-06 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-05-06-cli-updates-on-windows-no-longer-fail-with-enoent-when-a-transient-eperm-occurs|CLI updates on Windows no longer fail with ENOENT when a transient EPERM occurs…]]
 <!-- chronolog:end -->
 

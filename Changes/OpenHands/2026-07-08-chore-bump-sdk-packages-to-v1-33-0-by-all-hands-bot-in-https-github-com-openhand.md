@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: beb7000a7a77e81e1633bcf2a776607a6556003f4de258de8c87acb99984e441
+machine_hash: ff784ed17899c50dd28be054d44495708ce1900bdf23b1482a12642cecdfebb9
 product: openhands
 product_name: OpenHands
 record:
@@ -43,12 +43,12 @@ record:
   title: 'chore: bump SDK packages to v1.33.0'
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-07-08-reserved-the-claude-browser-mcp-server-name-alongside-claude-preview-ahead-of-th|Reserved
-  the "Claude Browser" MCP server name (alongside "Claude Preview") ahead…]]'
 - '[[Changes/Codex CLI/2026-07-08-66-apps-and-integrations-changes-in-rust-v0-143-0|66
   Apps and Integrations changes in rust-v0.143.0]]'
 - '[[Changes/Codex CLI/2026-07-08-remote-plugins-are-now-enabled-by-default-with-richer-catalog-rows-npm-marketpla|Remote
   plugins are now enabled by default, with richer catalog rows, npm marketplace…]]'
+- '[[Changes/Lovable/2026-07-08-reference-a-connector-in-chat|Reference a connector
+  in chat]]'
 source_release: '[[Releases/OpenHands/openhands-2026-07-08-1-9-3-github-351062336-b4fcf108|openhands-2026-07-08-1-9-3-github-351062336-b4fcf108]]'
 source_type: github_releases
 theme: apps-integrations
@@ -77,7 +77,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-07-08 · Codex CLI · [[Changes/Codex CLI/2026-07-08-remote-plugins-are-now-enabled-by-default-with-richer-catalog-rows-npm-marketpla|Remote plugins are now enabled by default, with richer catalog rows, npm marketplace…]]
+- Earlier: 2026-07-08 · Lovable · [[Changes/Lovable/2026-07-08-reference-a-connector-in-chat|Reference a connector in chat]]
 - Later: 2026-07-09 · ChatGPT · [[Changes/ChatGPT/2026-07-09-we-re-also-replacing-the-app-directory-with-the-plugin-directory-existing-app-co|We’re also replacing the App Directory with the Plugin Directory]]
 <!-- chronolog:end -->
 

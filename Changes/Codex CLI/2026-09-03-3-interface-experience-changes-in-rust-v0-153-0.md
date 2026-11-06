@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 1c3c84f562f06479ebb51019a881ea22a2496a1bc10c794a39835b5cc00eeddd
+machine_hash: 5f6450914abcb8617d09420cc05b6721ce91d877aa4cefbff060c656dffed5bd
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -48,8 +48,8 @@ record:
   title: 3 Interface Experience changes in rust-v0.153.0
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-09-01-3-interface-experience-changes-in-rust-v0-152-0|3
-  Interface Experience changes in rust-v0.152.0]]'
+- '[[Changes/v0/2026-09-01-if-you-prefer-the-typical-git-workflow-you-can-still-create-and-merge-pull-reque|If
+  you prefer the typical Git workflow, you can still create and merge pull requests…]]'
 - '[[Changes/Claude Code/2026-09-02-vscode-added-an-active-quick-filter-and-a-status-filter-menu-needs-input-working|VSCode
   Added an Active quick filter and a status filter menu…]]'
 - '[[Changes/Claude Code/2026-09-03-4-interface-experience-changes-in-v2-1-260|4 Interface
@@ -101,7 +101,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.153.0
 ## Nearby in Interface Experience
 
 - Earlier: 2026-09-03 · Claude Code · [[Changes/Claude Code/2026-09-03-4-interface-experience-changes-in-v2-1-260|4 Interface Experience changes in v2.1.260]]
-- Later: 2026-09-04 · Claude Code · [[Changes/Claude Code/2026-09-04-3-interface-experience-changes-in-v2-1-261|3 Interface Experience changes in v2.1.261]]
+- Later: 2026-09-03 · Lovable · [[Changes/Lovable/2026-09-03-open-the-dashboard-sidebar-from-inside-the-editor|Open the dashboard sidebar from inside the editor]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

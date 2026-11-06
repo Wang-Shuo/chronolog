@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 1ccb1802cd96bdeb218d069f6ea03b77b9a783f497a8999716481ac15c4f81e4
+machine_hash: 6eb3e2f28a50f60cf80c32b260158a58cd520ade228e7c5e6f8fc593025bb749
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,12 +45,11 @@ record:
     as a fork…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-07-17-mcp-tool-calls-running-longer-than-2-minutes-now-move-to-the-background-automati|MCP
-  tool calls running longer than 2 minutes now move to the background…]]'
-- '[[Changes/Cursor/2026-07-17-cursor-in-slack-now-shares-a-plan-before-it-starts-runs-in-multi-repo-environmen|Cursor
-  in Slack now shares a plan before it starts, runs in multi-repo environments…]]'
 - '[[Changes/Cursor/2026-07-17-multi-repo-environment-support-4b706e|Multi-repo environment
   support]]'
+- '[[Changes/Dify/2026-07-17-24-apps-and-integrations-changes-in-1-16-0|24 Apps and
+  Integrations changes in 1.16.0]]'
+- '[[Changes/Replit/2026-07-17-integrations|Integrations]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-07-18-v2-1-214-github-355973317-478680c5|claude-code-2026-07-18-v2-1-214-github-355973317-478680c5]]'
 source_type: github_releases
 theme: apps-integrations
@@ -84,7 +83,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-07-17 · Cursor · [[Changes/Cursor/2026-07-17-multi-repo-environment-support-4b706e|Multi-repo environment support]]
+- Earlier: 2026-07-17 · Replit · [[Changes/Replit/2026-07-17-integrations|Integrations]]
 - Later: 2026-07-20 · Claude Code · [[Changes/Claude Code/2026-07-20-background-sessions-mcp-and-install-github-app-now-park-a-needs-input-request-in|Background sessions: /mcp and /install-github-app now park…]]
 <!-- chronolog:end -->
 

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 8fb231d54a7b5a19e4f365b9f1388ec9639beaf7928e589233e2ea94eed14171
+machine_hash: ce4f0425a0f03d94bbfe6e2fae204adcc3e151875a848821807833c16ea28bcb
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -43,8 +43,7 @@ record:
   title: Allow ACP clients to toggle allow-all permission mode via session configuration
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-04-24-9-safety-and-privacy-changes-in-rust-v0-125-0|9
-  Safety and Privacy changes in rust-v0.125.0]]'
+- '[[Changes/Lovable/2026-04-24-security-updates|Security updates]]'
 - '[[Changes/GitHub Copilot CLI/2026-04-27-location-based-permission-persistence-is-now-enabled-by-default-so-approvals-car|Location-based
   permission persistence is now enabled by default, so approvals carry…]]'
 - '[[Changes/Gemini CLI/2026-04-28-feat-sandbox-resolve-custom-seatbelt-profiles-from-home-gemini-first-by-mvanhorn|feat(sandbox):
@@ -81,7 +80,7 @@ type: change
 ## Nearby in Safety and Privacy
 
 - Earlier: 2026-04-28 · Gemini CLI · [[Changes/Gemini CLI/2026-04-28-feat-sandbox-resolve-custom-seatbelt-profiles-from-home-gemini-first-by-mvanhorn|feat(sandbox): resolve custom seatbelt profiles from $HOME/.gemini first]]
-- Later: 2026-04-30 · Codex CLI · [[Changes/Codex CLI/2026-04-30-21-safety-and-privacy-changes-in-rust-v0-128-0|21 Safety and Privacy changes in rust-v0.128.0]]
+- Later: 2026-04-29 · Dify · [[Changes/Dify/2026-04-29-7-safety-and-privacy-changes-in-1-14-0|7 Safety and Privacy changes in 1.14.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

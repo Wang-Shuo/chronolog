@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: search-browsing
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 3222018ebcd07e35e2fe567654ad81798ac484169d9d7d307e84ac12bbdf5ff2
+machine_hash: 85c8fb5ebb0ab907302b6ff1fa4ef6bb1980aab7ef171a179fb9bf04d33722ab
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -52,12 +52,12 @@ record:
   title: Consecutive steering prompts in the same mode combine into one pending message
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-09-16-add-json-to-copilot-plugin-list-copilot-plugin-marketplace-list-and-copilot-plug|Add
-  --json to copilot plugin list, copilot plugin marketplace list…]]'
-- '[[Changes/OpenHands/2026-09-16-2-search-and-browsing-changes-in-v1-19-0|2 Search
-  and Browsing changes in v1.19.0]]'
 - '[[Changes/Cline/2026-09-17-web-search-is-now-enabled-by-default-on-models-that-support-it-outside-yolo-mode|Web
   search is now enabled by default on models that support it, outside YOLO mode]]'
+- '[[Changes/Lovable/2026-09-17-perplexity-web-search-without-your-own-api-key|Perplexity
+  web search without your own API key]]'
+- '[[Changes/Lovable/2026-09-18-try-the-lovable-api-in-postman|Try the Lovable API
+  in Postman]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-09-21-v1-0-87-github-393077593-9fe949ec|github-copilot-cli-2026-09-21-v1-0-87-github-393077593-9fe949ec]]'
 source_type: github_releases
 theme: search-browsing
@@ -94,8 +94,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Search and Browsing
 
-- Earlier: 2026-09-17 · Cline · [[Changes/Cline/2026-09-17-web-search-is-now-enabled-by-default-on-models-that-support-it-outside-yolo-mode|Web search is now enabled by default on models that support it, outside YOLO mode]]
-- Later: 2026-09-22 · Codex CLI · [[Changes/Codex CLI/2026-09-22-2-search-and-browsing-changes-in-rust-v0-156-0|2 Search and Browsing changes in rust-v0.156.0]]
+- Earlier: 2026-09-18 · Lovable · [[Changes/Lovable/2026-09-18-try-the-lovable-api-in-postman|Try the Lovable API in Postman]]
+- Later: 2026-09-21 · Open WebUI · [[Changes/Open WebUI/2026-09-21-6-search-and-browsing-changes-in-v0-11-4|6 Search and Browsing changes in v0.11.4]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 6344aa91ee809020240f1fae596a50e993604f6a2e64d8c5623819bfe2cbf677
+machine_hash: 47310116a94a88faa18cd8d84bd363dd818961477173095e84ddea24b01d5ce5
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -148,8 +148,8 @@ record:
   title: 34 Agent Mode changes in v1.0.106
   type: change
 related_changes:
-- '[[Changes/OpenHands/2026-11-03-3-agent-mode-changes-in-v1-35-0|3 Agent Mode changes
-  in v1.35.0]]'
+- '[[Changes/Dify/2026-11-04-14-agent-mode-changes-in-1-19-0|14 Agent Mode changes
+  in 1.19.0]]'
 - '[[Changes/OpenHands/2026-11-05-2-agent-mode-changes-in-v1-36-0|2 Agent Mode changes
   in v1.36.0]]'
 - '[[Changes/Codex CLI/2026-11-06-6-agent-mode-changes-in-rust-v0-167-0|6 Agent Mode

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 4a782b8a7baf2dfbb24d005d9f8a02dbda0e3f171d1a08bc9137cf4cccb1ff08
+machine_hash: d36b2ebf8f7c84ed47f226a2fc7fa16a11bc1d0831c18d75afd77c6d56270b51
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -53,8 +53,8 @@ record:
   title: More images in answers
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2025-11-19-5-model-support-changes-in-rust-v0-59-0|5 Model
-  Support changes in rust-v0.59.0]]'
+- '[[Changes/Ollama/2025-11-19-cogito-v2-1-https-ollama-com-library-cogito-2-1-instruction-tuned-generative-mod|Cogito-V2.1((source
+  link) instruction tuned generative…]]'
 - '[[Changes/Codex CLI/2025-11-20-stop-model-migration-screen-after-first-time-6954-aibrahim-oai|stop
   model migration screen after first time]]'
 - '[[Changes/Gemini CLI/2025-11-20-3-model-support-changes-in-v0-17-0|3 Model Support

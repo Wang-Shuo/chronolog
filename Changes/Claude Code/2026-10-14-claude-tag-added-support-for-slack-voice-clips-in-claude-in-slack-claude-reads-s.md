@@ -5,20 +5,20 @@ description: 'Claude Code · 2026-10-14 · Voice and Audio: [Claude Tag] Added s
   for Slack voice clips in Claude in Slack: Claude reads Slack''s transcript of a
   clip when…'
 diffusion:
-  first_in_tracked: '[[Changes/Aider/2023-08-11-voice-to-code-https-aider-chat-docs-voice-html-support-which-allows-you-to-code|Voice-to-code((source
-    link) support, which allows you…]]'
+  first_in_tracked: '[[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2
+    Voice and Audio changes in 0.3.7]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1160
+  lag_days: 1192
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 8f9471b7c82ed6539650a9c4f3905319ebcb6f2c6a114c3dfe88195062aa7719
+machine_hash: cf28b3ac4fa6b7338ab1dca47ac718e446da5f5ee1ec7ac9c92c8ab4f82ea5c6
 product: claude-code
 product_name: Claude Code
 record:
@@ -46,12 +46,9 @@ record:
   title: '[Claude Tag] Added support for Slack voice clips in Claude in Slack'
   type: change
 related_changes:
-- '[[Changes/OpenHands/2026-10-06-feat-chat-add-optional-voice-dictation-to-the-chat-input-by-vascosch92-in-https|feat(chat):
-  add optional voice dictation to the chat input]]'
-- '[[Changes/Codex CLI/2026-10-07-4-voice-and-audio-changes-in-rust-v0-161-0|4 Voice
-  and Audio changes in rust-v0.161.0]]'
-- '[[Changes/Codex CLI/2026-10-08-2-voice-and-audio-changes-in-rust-v0-162-0|2 Voice
-  and Audio changes in rust-v0.162.0]]'
+- '[[Changes/ElevenLabs/2026-10-12-audio-effects|Audio effects]]'
+- '[[Changes/ElevenLabs/2026-10-12-voices-e71bd5|Voices]]'
+- '[[Changes/ElevenLabs/2026-10-12-speech-to-text-f7d11e|Speech to Text]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-10-14-v2-1-300-github-412815061-c358fcd0|claude-code-2026-10-14-v2-1-300-github-412815061-c358fcd0]]'
 source_type: github_releases
 theme: voice
@@ -91,14 +88,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Voice and Audio
 
-- Earlier: 2026-10-08 · Codex CLI · [[Changes/Codex CLI/2026-10-08-2-voice-and-audio-changes-in-rust-v0-162-0|2 Voice and Audio changes in rust-v0.162.0]]
-- Later: 2026-10-15 · ChatGPT · [[Changes/ChatGPT/2026-10-15-for-more-information-see-chatgpt-voice|For more information, see: ChatGPT Voice]]
+- Earlier: 2026-10-12 · ElevenLabs · [[Changes/ElevenLabs/2026-10-12-speech-to-text-f7d11e|Speech to Text]]
+- Later: 2026-10-14 · Open WebUI · [[Changes/Open WebUI/2026-10-14-voice-on-android-chrome-voice-calls-and-dictation-on-android-chrome-no-longer-go|📱 Voice on Android Chrome. Voice calls and dictation on Android Chrome no longer…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-08-11 · Aider · [[Changes/Aider/2023-08-11-voice-to-code-https-aider-chat-docs-voice-html-support-which-allows-you-to-code|Voice-to-code((source link) support, which allows you…]]
+- Earliest same-theme entry in the tracked set: 2023-07-10 · Dify · [[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2 Voice and Audio changes in 0.3.7]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

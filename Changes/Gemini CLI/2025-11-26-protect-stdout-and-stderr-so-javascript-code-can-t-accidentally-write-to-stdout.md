@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 348bc45991c8193c9e3fa6867bf9a2c23c0516a0ae7e126815e31db4dca89b72
+machine_hash: 8ddb345459e927f3bedbdac4cb24803e2f90229f69960d8bfa4c4f4edbc64eed
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -47,12 +47,12 @@ record:
     stdout…
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2025-11-20-bug-ui-make-it-clear-when-users-need-to-enter-selection-mode-and-fix-clear-issue|bug(ui)
-  make it clear when users need to enter selection mode and fix clear issue]]'
-- '[[Changes/Cursor/2025-11-21-set-origin-allowlist-from-dashboard-to-restrict-browser-tools-browser-tools-and|Set
-  origin allowlist from dashboard to restrict browser tools]]'
-- '[[Changes/GitHub Copilot CLI/2025-11-24-improved-timeline-rendering-of-shell-tool-names|Improved
-  timeline rendering of shell tool names]]'
+- '[[Changes/Open WebUI/2025-11-24-5-interface-experience-changes-in-v0-6-37|5 Interface
+  Experience changes in v0.6.37]]'
+- '[[Changes/Open WebUI/2025-11-25-2-interface-experience-changes-in-v0-6-39|2 Interface
+  Experience changes in v0.6.39]]'
+- '[[Changes/Dify/2025-11-26-4-interface-experience-changes-in-1-10-1|4 Interface
+  Experience changes in 1.10.1]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2025-11-26-v0-18-0-github-265323405-bd13d891|gemini-cli-2025-11-26-v0-18-0-github-265323405-bd13d891]]'
 source_type: github_releases
 theme: interface-experience
@@ -86,8 +86,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2025-11-24 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2025-11-24-improved-timeline-rendering-of-shell-tool-names|Improved timeline rendering of shell tool names]]
-- Later: 2025-12-02 · Cline · [[Changes/Cline/2025-12-02-4-interface-experience-changes-in-v3-39-0|4 Interface Experience changes in v3.39.0]]
+- Earlier: 2025-11-26 · Dify · [[Changes/Dify/2025-11-26-4-interface-experience-changes-in-1-10-1|4 Interface Experience changes in 1.10.1]]
+- Later: 2025-11-26 · Lovable · [[Changes/Lovable/2025-11-26-better-reverts-and-ability-to-edit-and-revert-your-messages|Better reverts and ability to edit and revert your messages]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 11fd1f0eef11e739a141e1fcaf1fc7d843cc5fd3e8f6b92bf84ff80a4473bb07
+machine_hash: 793431d3d4188a10d5ff06d8e2853953b3864c42149893ee8939bf0537db6eb3
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -40,11 +40,11 @@ record:
   title: '#12028 remove feature flag collaboration modes @aibrahim-oai'
   type: change
 related_changes:
-- '[[Changes/Cline/2026-02-12-telemetry-route-posthog-networking-through-proxy-aware-shared-fetch-and-ensure-t|Telemetry:
-  route PostHog networking through proxy-aware shared fetch and ensure…]]'
-- '[[Changes/Windsurf/2026-02-12-enterprise-team-improvements|Enterprise & Team Improvements]]'
-- '[[Changes/ChatGPT/2026-02-13-cleaner-select-all-behavior-cmd-a-cmd-a-now-selects-only-the-conversation-conten|Cleaner
-  “Select All” behavior (Cmd+A)]]'
+- "[[Changes/Open WebUI/2026-02-16-skills-sharing-permissions-administrators-can-now-control-skills-sharing-and-pub|\U0001F510
+  Skills sharing permissions. Administrators can now control skills sharing…]]"
+- '[[Changes/ElevenLabs/2026-02-23-music|Music]]'
+- '[[Changes/Lovable/2026-02-23-external-collaborator-visibility|External collaborator
+  visibility]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-02-25-rust-v0-105-0-github-290476287-0c72d1ed|codex-cli-2026-02-25-rust-v0-105-0-github-290476287-0c72d1ed]]'
 source_type: github_releases
 theme: collaboration
@@ -87,7 +87,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Collaboration
 
-- Earlier: 2026-02-13 · ChatGPT · [[Changes/ChatGPT/2026-02-13-cleaner-select-all-behavior-cmd-a-cmd-a-now-selects-only-the-conversation-conten|Cleaner “Select All” behavior (Cmd+A)]]
+- Earlier: 2026-02-23 · Lovable · [[Changes/Lovable/2026-02-23-external-collaborator-visibility|External collaborator visibility]]
 - Later: 2026-02-25 · Gemini CLI · [[Changes/Gemini CLI/2026-02-25-enable-in-cli-extension-management-commands-for-team-by-chrstnb-in-https-github|Enable in-CLI extension management commands for team]]
 <!-- chronolog:end -->
 

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 258500e530caa79811663f4720190cbaf9041eeb7152b3a1699cecf61389c037
+machine_hash: 49e46fc2088631c87262a7d7f08334f5f7fe1f9c871054da6b575206d6570bb9
 product: aider
 product_name: Aider
 record:
@@ -40,11 +40,12 @@ record:
   title: Performance improvements for repo map calculation
   type: change
 related_changes:
-- '[[Changes/OpenHands/2024-08-01-runtime-reduce-dependency-to-speed-up-ci-and-reduce-image-size-by-xingyaoww-in-h|Runtime
-  Reduce dependency to speed up CI and reduce image size]]'
-- '[[Changes/Cursor/2024-08-02-faster-cursor-tab-suggestions|Faster Cursor Tab Suggestions!]]'
 - '[[Changes/Aider/2024-08-06-2-reliability-and-performance-changes-in-v0-48-0|2 Reliability
   and Performance changes in v0.48.0]]'
+- '[[Changes/Dify/2024-08-06-2-reliability-and-performance-changes-in-0-6-16|2 Reliability
+  and Performance changes in 0.6.16]]'
+- '[[Changes/Ollama/2024-08-06-numa-support-will-now-be-autodetected-by-ollama-to-improve-performance|NUMA
+  support will now be autodetected by Ollama to improve performance]]'
 source_release: '[[Releases/Aider/aider-2024-08-10-v0-49-0-github-169642017-dab576d9|aider-2024-08-10-v0-49-0-github-169642017-dab576d9]]'
 source_type: github_releases
 theme: reliability-performance
@@ -77,8 +78,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2024-08-06 · Aider · [[Changes/Aider/2024-08-06-2-reliability-and-performance-changes-in-v0-48-0|2 Reliability and Performance changes in v0.48.0]]
-- Later: 2024-08-13 · Aider · [[Changes/Aider/2024-08-13-web-scraper-is-more-robust-if-page-never-idles|Web scraper is more robust if page never idles]]
+- Earlier: 2024-08-06 · Ollama · [[Changes/Ollama/2024-08-06-numa-support-will-now-be-autodetected-by-ollama-to-improve-performance|NUMA support will now be autodetected by Ollama to improve performance]]
+- Later: 2024-08-11 · Ollama · [[Changes/Ollama/2024-08-11-ollama-will-now-provide-an-error-instead-of-crashing-on-windows-when-running-mod|Ollama will now provide an error instead of crashing on Windows when running models…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

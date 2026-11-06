@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: facd8a5b6d4dbfad78feec6c6d8630629b3b16bfacf12ccbaea6a608d4102627
+machine_hash: 6e958936f4513e8f2901cd534d1230baba57db8637c29cccbeeed36bae7bf7cf
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -43,8 +43,8 @@ record:
     timeline
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-04-22-2-reliability-and-performance-changes-in-v2-1-117|2
-  Reliability and Performance changes in v2.1.117]]'
+- '[[Changes/Ollama/2026-04-22-2-reliability-and-performance-changes-in-v0-21-1|2
+  Reliability and Performance changes in v0.21.1]]'
 - '[[Changes/Codex CLI/2026-04-23-18662-feat-add-metric-to-track-the-number-of-turns-with-memory-usage-jif-oai|♯18662
   feat: add metric to track the number of turns with memory usage @jif-oai]]'
 - '[[Changes/Gemini CLI/2026-04-23-2-reliability-and-performance-changes-in-v0-39-0|2

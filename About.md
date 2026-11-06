@@ -3,7 +3,7 @@ created: '2022-12-15'
 date: '2026-11-06'
 description: Where ChronoLog's data comes from, how official release notes become
   reviewed Change Cards, what is grouped or skipped, and how to report a problem.
-machine_hash: 3a991390d842cddaafcbbeb41e7f73b49bebbc3d12006ea9a0b98ebbf8545b7d
+machine_hash: 4af970830ce5e8b3ca93c20a82993b0a2c806817841f4419c1fdbe40c08e2c83
 modified: '2026-11-06'
 publication: active
 tags:
@@ -14,7 +14,7 @@ title: About the data
 # About the data
 
 <!-- chronolog:begin region="intro" -->
-ChronoLog tracks announced changes in ten products: Aider, ChatGPT, Claude Code, Cline, Codex CLI, Cursor, Gemini CLI, GitHub Copilot CLI, OpenHands and Windsurf. It reads official release notes only, turns each release into dated Change Cards and groups them by theme. Every record is reviewed before it is published.
+ChronoLog tracks announced changes in 20 products: Aider, ChatGPT, Claude, Claude Code, Cline, Codex CLI, Cursor, DeepSeek API, Dify, ElevenLabs, Gemini, Gemini CLI, GitHub Copilot CLI, Lovable, Ollama, Open WebUI, OpenHands, Replit, Windsurf and v0. It reads official release notes only, turns each release into dated Change Cards and groups them by theme. Every record is reviewed before it is published.
 <!-- chronolog:end -->
 
 ## Sources and coverage
@@ -30,6 +30,12 @@ ChronoLog tracks announced changes in ten products: Aider, ChatGPT, Claude Code,
 - Archived releases: 304, dated 2022-12-15 → 2026-10-30
 - Official browser snapshot captured: 2026-10-31T04:08:55Z. Imported snapshot; this is not a successful automatic HTTP fetch.
 - Known gaps: Official changelog entries only; Codex-only entries excluded. Rollout dates are not universal availability dates.
+
+### Claude
+- Official source: [Claude release notes](https://support.claude.com/en/articles/12138966-release-notes)
+- Archived releases: 63, dated 2025-08-01 → 2026-11-05
+- Last successful fetch: 2026-11-06T13:12:59Z.
+- Known gaps: The dated entries currently available in the official Claude app release notes, including model and plan announcements listed there. This endpoint currently starts in August 2025; it is not Claude's launch date. Claude Code has a separate history.
 
 ### Claude Code
 - Official source: [Claude Code GitHub releases](https://github.com/anthropics/claude-code/releases)
@@ -55,6 +61,30 @@ ChronoLog tracks announced changes in ten products: Aider, ChatGPT, Claude Code,
 - Last successful fetch: 2026-10-31T04:08:46Z.
 - Known gaps: Official paginated changelog only; unannounced changes are outside scope.
 
+### DeepSeek API
+- Official source: [DeepSeek API release notes](https://api-docs.deepseek.com/updates/)
+- Archived releases: 22, dated 2024-05-17 → 2026-10-17
+- Last successful fetch: 2026-11-06T13:13:00Z.
+- Known gaps: The official DeepSeek API change log, including model availability, API behavior and pricing. Web and mobile changes appear only when explicitly included in the API announcement; this is not a complete consumer-app history. Benchmark tables and code examples are excluded.
+
+### Dify
+- Official source: [Dify GitHub releases](https://github.com/langgenius/dify/releases)
+- Archived releases: 154, dated 2023-05-15 → 2026-11-04
+- Last successful fetch: 2026-11-06T13:13:44Z.
+- Known gaps: Stable versioned releases of Dify's open-source platform. Cloud-only changes, separately versioned plugins and prereleases have separate histories.
+
+### ElevenLabs
+- Official source: [ElevenLabs changelog](https://elevenlabs.io/docs/changelog)
+- Archived releases: 103, dated 2024-10-13 → 2026-11-02
+- Last successful fetch: 2026-11-06T13:13:19Z.
+- Known gaps: Every dated entry listed in the official changelog index, including voice, audio, agent and API updates. The default Markdown page contains only a recent window, so collection traverses the complete index. Documentation widgets and code examples are excluded.
+
+### Gemini
+- Official source: [Gemini release notes](https://gemini.google/us/release-notes/?hl=en)
+- Archived releases: 96, dated 2023-04-10 → 2026-10-13
+- Last successful fetch: 2026-11-06T13:13:00Z.
+- Known gaps: English US Gemini Apps release notes available from the official page, including its historical Bard entries. Regional availability can differ. Gemini CLI and the developer API have separate release histories.
+
 ### Gemini CLI
 - Official source: [Gemini CLI GitHub releases](https://github.com/google-gemini/gemini-cli/releases)
 - Archived releases: 160, dated 2025-06-28 → 2026-11-04
@@ -67,17 +97,47 @@ ChronoLog tracks announced changes in ten products: Aider, ChatGPT, Claude Code,
 - Last successful fetch: 2026-11-06T10:43:36Z.
 - Known gaps: Stable versioned GitHub Copilot CLI releases only; prereleases are excluded. Copilot's IDE, web and other product surfaces have separate release histories.
 
+### Lovable
+- Official source: [Lovable changelog](https://docs.lovable.dev/changelog)
+- Archived releases: 156, dated 2024-12-03 → 2026-11-04
+- Last successful fetch: 2026-11-06T13:13:19Z.
+- Known gaps: Dated entries available in Lovable's official product changelog. Undated help articles, hosting widgets and code examples are excluded; endpoint coverage is not proof of lifetime coverage.
+
+### Ollama
+- Official source: [Ollama GitHub releases](https://github.com/ollama/ollama/releases)
+- Archived releases: 266, dated 2023-07-08 → 2026-11-03
+- Last successful fetch: 2026-11-06T13:13:38Z.
+- Known gaps: Stable versioned releases of the Ollama application and runtime. Prereleases and model-library updates without a corresponding application release are excluded.
+
+### Open WebUI
+- Official source: [Open WebUI GitHub releases](https://github.com/open-webui/open-webui/releases)
+- Archived releases: 178, dated 2024-02-23 → 2026-11-03
+- Last successful fetch: 2026-11-06T13:13:51Z.
+- Known gaps: Stable versioned Open WebUI releases from the official repository. Development builds, prereleases and external model-provider updates are excluded.
+
 ### OpenHands
 - Official source: [OpenHands GitHub releases](https://github.com/OpenHands/OpenHands/releases)
 - Archived releases: 137, dated 2024-06-04 → 2026-11-05
 - Last successful fetch: 2026-11-06T10:46:32Z.
 - Known gaps: Stable versioned releases of the OpenHands application available from its current repository. SDK releases, preview builds and temporary PR evidence uploads are excluded; endpoint coverage does not establish the product's launch date.
 
+### Replit
+- Official source: [Replit release notes](https://docs.replit.com/updates)
+- Archived releases: 99, dated 2024-12-13 → 2026-10-30
+- Last successful fetch: 2026-11-06T13:15:09Z.
+- Known gaps: Dated weekly Replit changelog pages listed in the official sitemap, covering Agent and related development-platform features. This includes non-AI platform changes announced alongside Agent. Unindexed historical announcements are outside this source's scope.
+
 ### Windsurf
 - Official source: [Windsurf changelog](https://docs.devin.ai/desktop/changelog)
 - Archived releases: 121, dated 2025-04-02 → 2026-10-30
 - Last successful fetch: 2026-11-06T10:43:34Z.
 - Known gaps: Windsurf's official changelog now continues as Devin Desktop. Only the stable desktop changelog is tracked, from the earliest entry still on the page; Next previews, Windsurf plugins and Devin Cloud have separate histories.
+
+### v0
+- Official source: [v0 changelog](https://v0.app/changelog)
+- Archived releases: 92, dated 2025-10-01 → 2026-10-19
+- Last successful fetch: 2026-11-06T13:13:20Z.
+- Known gaps: Dated v0 product announcements available on the official changelog. This does not include the wider Vercel platform's changelog or undated documentation updates.
 <!-- chronolog:end -->
 
 ## How cards are made
@@ -97,7 +157,7 @@ ChronoLog tracks announced changes in ten products: Aider, ChatGPT, Claude Code,
 
 ## Review status
 <!-- chronolog:begin region="status" -->
-10 products · 1,998 archived releases · 7,829 tracked changes · 25 themes. Pending theme review: 111. Silence alerts: 1. Every generated batch is reviewed in a pull request before it is published.
+20 products · 3,227 archived releases · 13,248 tracked changes · 25 themes. Pending theme review: 1,055. Silence alerts: 0. Every generated batch is reviewed in a pull request before it is published.
 <!-- chronolog:end -->
 
 ## Glossary

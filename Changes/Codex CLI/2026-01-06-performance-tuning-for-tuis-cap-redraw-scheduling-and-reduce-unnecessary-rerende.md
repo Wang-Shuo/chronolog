@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 7e4b0d4c6d166d542746d1601b0a1a065e550c1be4fc725c901a6c9069c8f343
+machine_hash: ae05327f52563528f130937e6be65d56b27d05303b424356582c235faacdc0ca
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -44,9 +44,9 @@ record:
   title: Performance tuning for TUIs
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-12-22-2-reliability-and-performance-changes-in-2-3|2 Reliability
-  and Performance changes in 2.3]]'
-- '[[Changes/Windsurf/2025-12-24-swe-1-5-free|SWE-1.5 Free]]'
+- '[[Changes/Dify/2025-12-25-feat-show-generate-speed-in-chatbot-by-leslie2046-in-https-github-com-langgenius|feat:
+  show generate speed in chatbot]]'
+- '[[Changes/Replit/2025-12-26-fast-build|Fast Build]]'
 - '[[Changes/Windsurf/2025-12-27-various-bug-fixes-and-performance-improvements|Various
   bug fixes and performance improvements]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-01-06-rust-v0-78-0-github-274610568-c3df153a|codex-cli-2026-01-06-rust-v0-78-0-github-274610568-c3df153a]]'

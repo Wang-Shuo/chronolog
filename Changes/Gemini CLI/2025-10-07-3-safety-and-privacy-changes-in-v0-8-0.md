@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: aaabcf77896dc14d55435cb2b7c6e8822f3aa8820799ed650c67b314e9ececed
+machine_hash: 826fd4948f6fa8a9e9bd0b0da18e15373b6130dd9a3fb57bad1c3c591d99a93e
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -47,12 +47,11 @@ record:
   title: 3 Safety and Privacy changes in v0.8.0
   type: change
 related_changes:
-- '[[Changes/OpenHands/2025-10-01-significantly-improved-the-security-of-the-openhands-enterprise-docker-image-by|Significantly
-  improved the security of the OpenHands enterprise Docker image…]]'
 - '[[Changes/Codex CLI/2025-10-03-3-safety-and-privacy-changes-in-rust-v0-44-0|3 Safety
   and Privacy changes in rust-v0.44.0]]'
 - '[[Changes/Codex CLI/2025-10-06-codex-login-api-key-was-replaced-with-codex-login-with-api-key-that-reads-the-ke|codex
   login --api-key was replaced with codex login --with-api-key that reads…]]'
+- '[[Changes/Lovable/2025-10-06-better-workspace-management|Better workspace management]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2025-10-07-v0-8-0-github-252858757-2ecdc728|gemini-cli-2025-10-07-v0-8-0-github-252858757-2ecdc728]]'
 source_type: github_releases
 theme: safety-privacy
@@ -97,8 +96,8 @@ Source: https://github.com/google-gemini/gemini-cli/releases/tag/v0.8.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Safety and Privacy
 
-- Earlier: 2025-10-06 · Codex CLI · [[Changes/Codex CLI/2025-10-06-codex-login-api-key-was-replaced-with-codex-login-with-api-key-that-reads-the-ke|codex login --api-key was replaced with codex login --with-api-key that reads…]]
-- Later: 2025-10-17 · Codex CLI · [[Changes/Codex CLI/2025-10-17-2-safety-and-privacy-changes-in-rust-v0-47-0|2 Safety and Privacy changes in rust-v0.47.0]]
+- Earlier: 2025-10-06 · Lovable · [[Changes/Lovable/2025-10-06-better-workspace-management|Better workspace management]]
+- Later: 2025-10-10 · Replit · [[Changes/Replit/2025-10-10-dependency-vulnerability-scanning|Dependency vulnerability scanning]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

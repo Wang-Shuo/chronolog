@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: f0514fa8b7acaad6e1c0ae9437f9986952453a323471c37e62172f4caf7be385
+machine_hash: dfdf0158ab7527096af02705379c3bbc7517e20c04b623253b6e53b06fe9d7de
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -49,11 +49,12 @@ record:
   title: Opt‑in reminders
   type: change
 related_changes:
-- '[[Changes/OpenHands/2025-04-10-improve-the-performance-of-event-retrieval-in-openhands-particularly-for-convers|Improve
-  the performance of event retrieval in OpenHands, particularly…]]'
-- '[[Changes/Cline/2025-04-13-big-shoutout-to-samuel871211-for-numerous-code-quality-improvements-refactoring|Big
-  shoutout to @samuel871211 for numerous code quality improvements, refactoring…]]'
-- '[[Changes/Windsurf/2025-04-27-performance-improvements|Performance Improvements]]'
+- '[[Changes/Ollama/2025-05-03-2-reliability-and-performance-changes-in-v0-6-8|2 Reliability
+  and Performance changes in v0.6.8]]'
+- '[[Changes/Open WebUI/2025-05-05-2-reliability-and-performance-changes-in-v0-6-6|2
+  Reliability and Performance changes in v0.6.6]]'
+- '[[Changes/Open WebUI/2025-05-06-2-reliability-and-performance-changes-in-v0-6-7|2
+  Reliability and Performance changes in v0.6.7]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-05-08-enhanced-memory-in-chatgpt-including-eu-on-plus-pro-b6107d35|chatgpt-2025-05-08-enhanced-memory-in-chatgpt-including-eu-on-plus-pro-b6107d35]]'
 source_type: chatgpt_changelog
 theme: reliability-performance
@@ -83,8 +84,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2025-04-27 · Windsurf · [[Changes/Windsurf/2025-04-27-performance-improvements|Performance Improvements]]
-- Later: 2025-05-15 · Windsurf · [[Changes/Windsurf/2025-05-15-misc|Misc]]
+- Earlier: 2025-05-06 · Open WebUI · [[Changes/Open WebUI/2025-05-06-2-reliability-and-performance-changes-in-v0-6-7|2 Reliability and Performance changes in v0.6.7]]
+- Later: 2025-05-10 · Open WebUI · [[Changes/Open WebUI/2025-05-10-4-reliability-and-performance-changes-in-v0-6-8|4 Reliability and Performance changes in v0.6.8]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

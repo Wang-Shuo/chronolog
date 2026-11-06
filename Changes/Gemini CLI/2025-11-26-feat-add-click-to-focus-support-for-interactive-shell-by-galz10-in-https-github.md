@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: ea41ccca89d18e7cd080c2a3af6eccee00f701512f532d8e1164496ae8b12387
+machine_hash: 01d7ecef063d25cfa9e81bbb8b2be93e5e7fd966d09db7c442eef4391c844866
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -44,12 +44,12 @@ record:
   title: 'feat: add click-to-focus support for interactive shell'
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2025-11-20-feat-update-permissions-command-to-support-modifying-trust-for-other-by-shrutip9|feat:
-  Update permissions command to support modifying trust for other…]]'
-- '[[Changes/GitHub Copilot CLI/2025-11-20-shell-commands-are-no-longer-included-in-bash-and-powershell-history-files|Shell
-  commands are no longer included in Bash and PowerShell history files]]'
-- '[[Changes/Codex CLI/2025-11-21-app-server-feat-add-declined-status-for-command-exec-by-owenlin0-in-https-github|app-server
-  feat: add Declined status for command exec]]'
+- "[[Changes/Open WebUI/2025-11-24-websocket-and-redis-configuration-options-are-now-available-including-debug-logg|\U0001F527
+  WebSocket and Redis configuration options are now available including debug…]]"
+- "[[Changes/Open WebUI/2025-11-25-a-user-list-modal-was-added-to-channels-displaying-all-users-with-access-and-fea|\U0001F4AC
+  A user list modal was added to channels, displaying all users with access…]]"
+- '[[Changes/Dify/2025-11-26-3-developer-workflow-changes-in-1-10-1|3 Developer Workflow
+  changes in 1.10.1]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2025-11-26-v0-18-0-github-265323405-bd13d891|gemini-cli-2025-11-26-v0-18-0-github-265323405-bd13d891]]'
 source_type: github_releases
 theme: developer-workflow
@@ -83,7 +83,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2025-11-21 · Codex CLI · [[Changes/Codex CLI/2025-11-21-app-server-feat-add-declined-status-for-command-exec-by-owenlin0-in-https-github|app-server feat: add Declined status for command exec]]
+- Earlier: 2025-11-26 · Dify · [[Changes/Dify/2025-11-26-3-developer-workflow-changes-in-1-10-1|3 Developer Workflow changes in 1.10.1]]
 - Later: 2025-12-02 · Cline · [[Changes/Cline/2025-12-02-2-developer-workflow-changes-in-v3-39-0|2 Developer Workflow changes in v3.39.0]]
 <!-- chronolog:end -->
 

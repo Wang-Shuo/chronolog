@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: e7f420b4335a0d032e7503ee7254af4af435ba62a7c2bf19a2542c457ca2d102
+machine_hash: b804e1cebb67d2791bccb44570b59c469bfceb7b2d2a7aece8cca2ced9be6916
 product: cline
 product_name: Cline
 record:
@@ -45,10 +45,9 @@ record:
     Cline provider'
   type: change
 related_changes:
-- '[[Changes/Cline/2025-06-05-3-model-support-changes-in-v3-17-10|3 Model Support
-  changes in v3.17.10]]'
-- '[[Changes/Cline/2025-06-05-add-support-for-gemini-2-5-pro-preview-06-05-model-to-vertex-ai-and-google-gemin|Add
-  support for Gemini 2.5 Pro Preview 06-05 model to Vertex AI and Google Gemini…]]'
+- '[[Changes/ElevenLabs/2025-06-08-text-to-speech|Text to Speech]]'
+- '[[Changes/Ollama/2025-06-09-6-model-support-changes-in-v0-9-1|6 Model Support changes
+  in v0.9.1]]'
 - '[[Changes/ChatGPT/2025-06-10-like-o1-pro-o3-pro-is-a-version-of-our-most-intelligent-model-o3-designed-to-thi-32668a|ChatGPT
   launches OpenAI o3-pro—available now for Pro users and in our API]]'
 source_release: '[[Releases/Cline/cline-2025-06-10-v3-17-12-github-224397391-8b81633a|cline-2025-06-10-v3-17-12-github-224397391-8b81633a]]'
@@ -82,7 +81,7 @@ type: change
 ## Nearby in Model Support
 
 - Earlier: 2025-06-10 · ChatGPT · [[Changes/ChatGPT/2025-06-10-like-o1-pro-o3-pro-is-a-version-of-our-most-intelligent-model-o3-designed-to-thi-32668a|ChatGPT launches OpenAI o3-pro—available now for Pro users and in our API]]
-- Later: 2025-06-10 · OpenHands · [[Changes/OpenHands/2025-06-10-prevented-llm-settings-reset-when-page-loses-focus-during-initial-setup-by-llama|Prevented LLM settings reset when page loses focus during initial setup]]
+- Later: 2025-06-10 · Open WebUI · [[Changes/Open WebUI/2025-06-10-3-model-support-changes-in-v0-6-14|3 Model Support changes in v0.6.14]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

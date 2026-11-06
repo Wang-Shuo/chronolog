@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: search-browsing
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 090bd9b9a66e2899f8695f13ba00e36fa6238f92bedb2bf5a2e2ae3f4a2c1fde
+machine_hash: 7d9ce61c3cca02d727c1c12753a3ad50a317b51f0f9be9bb5a6b48cacc0bbaa5
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -43,12 +43,12 @@ record:
     SDK'
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-09-29-1-7-20-web-search-auto-accept-setting|1.7.20: Web search
-  auto-accept setting]]'
-- '[[Changes/Codex CLI/2025-10-03-4511-wire-up-web-search-item|♯4511 Wire up web search
-  item]]'
+- '[[Changes/Open WebUI/2025-10-07-2-search-and-browsing-changes-in-v0-6-33|2 Search
+  and Browsing changes in v0.6.33]]'
 - '[[Changes/Gemini CLI/2025-10-22-refactor-core-migrate-web-search-tool-to-tool-names-by-abhipatel12-in-https-gith|refactor(core):
   migrate web search tool to tool-names]]'
+- '[[Changes/Open WebUI/2025-11-06-4-search-and-browsing-changes-in-v0-6-35|4 Search
+  and Browsing changes in v0.6.35]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2025-11-09-rust-v0-57-0-github-260963239-baa7573b|codex-cli-2025-11-09-rust-v0-57-0-github-260963239-baa7573b]]'
 source_type: github_releases
 theme: search-browsing
@@ -81,7 +81,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Search and Browsing
 
-- Earlier: 2025-10-22 · Gemini CLI · [[Changes/Gemini CLI/2025-10-22-refactor-core-migrate-web-search-tool-to-tool-names-by-abhipatel12-in-https-gith|refactor(core): migrate web search tool to tool-names]]
+- Earlier: 2025-11-06 · Open WebUI · [[Changes/Open WebUI/2025-11-06-4-search-and-browsing-changes-in-v0-6-35|4 Search and Browsing changes in v0.6.35]]
 - Later: 2025-11-13 · Codex CLI · [[Changes/Codex CLI/2025-11-13-2-search-and-browsing-changes-in-rust-v0-58-0|2 Search and Browsing changes in rust-v0.58.0]]
 <!-- chronolog:end -->
 

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: 91915b3c7247b157b506f70f48cd08403eac9b320f7148420d0916dc027beaf7
+machine_hash: fb46dcb149eb7bf81cc5408872233c46cc4d426ce456ded8db6f78bd1e5fe15d
 product: cursor
 product_name: Cursor
 record:
@@ -78,8 +78,8 @@ record:
   title: Introducing unified request-based pricing, Max Mode for all top models…
   type: change
 related_changes:
-- '[[Changes/Windsurf/2025-04-20-user-prompt-credits|User Prompt Credits]]'
-- '[[Changes/Windsurf/2025-04-20-existing-plans|Existing Plans]]'
+- '[[Changes/ElevenLabs/2025-05-05-billing|Billing]]'
+- '[[Changes/ElevenLabs/2025-05-12-billing|Billing]]'
 - '[[Changes/Cursor/2025-05-15-simpler-unified-pricing-6a915c|Simpler, unified pricing]]'
 source_release: '[[Releases/Cursor/cursor-2025-05-15-0-50-https-cursor-com-changelog-0-50-dc290998|cursor-2025-05-15-0-50-https-cursor-com-changelog-0-50-dc290998]]'
 source_type: cursor_changelog
@@ -116,8 +116,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Pricing Model
 
-- Earlier: 2025-04-20 · Windsurf · [[Changes/Windsurf/2025-04-20-existing-plans|Existing Plans]]
-- Later: 2025-07-01 · Gemini CLI · [[Changes/Gemini CLI/2025-07-01-docs-add-a-page-detailing-quota-and-cost-information-by-ptone-in-https-github-co|Docs: Add a page detailing quota and cost information]]
+- Earlier: 2025-05-12 · ElevenLabs · [[Changes/ElevenLabs/2025-05-12-billing|Billing]]
+- Later: 2025-05-19 · ElevenLabs · [[Changes/ElevenLabs/2025-05-19-billing|Billing]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

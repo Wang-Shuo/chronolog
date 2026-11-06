@@ -4,20 +4,20 @@ date: '2026-07-08'
 description: 'Codex CLI · 2026-07-08 · Files and Data: #27714 app-server: document
   thread and turn IDs are UUID7 @owenlin0'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-07-06-we-re-rolling-out-code-interpreter-to-all-chatgpt-plus-users-over-the-next-week-66255e|Code
-    interpreter is now rolling out in beta on web]]'
+  first_in_tracked: '[[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2
+    Files and Data changes in 0.2.2]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1098
+  lag_days: 1140
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: a4ab132aa35dd6dada5a62ab3ae53f5a1e01a5e4bf351626ba66b33c5a521da3
+machine_hash: a1d3d77fd1a6fdb6f00bce08cbfc93acb3a965ca04ae1bf13e23343a7a219f05
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -43,8 +43,8 @@ record:
   title: '#27714 app-server: document thread and turn IDs are UUID7 @owenlin0'
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-06-29-added-clickable-file-attachments-in-chat-cmd-ctrl-click-reveals-the-file-in-find|Added
-  clickable file attachments in chat]]'
+- '[[Changes/Open WebUI/2026-06-29-5-files-and-data-changes-in-v0-10-0|5 Files and
+  Data changes in v0.10.0]]'
 - '[[Changes/GitHub Copilot CLI/2026-06-30-match-the-terminal-text-color-to-the-github-theme-canvas|Match
   the terminal text color to the GitHub theme canvas]]'
 - '[[Changes/OpenHands/2026-07-06-docs-bring-readme-md-over-from-agent-canvas-by-rbren-in-https-github-com-openhan|docs:
@@ -99,7 +99,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-07-06 · ChatGPT · [[Changes/ChatGPT/2023-07-06-we-re-rolling-out-code-interpreter-to-all-chatgpt-plus-users-over-the-next-week-66255e|Code interpreter is now rolling out in beta on web]]
+- Earliest same-theme entry in the tracked set: 2023-05-25 · Dify · [[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2 Files and Data changes in 0.2.2]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

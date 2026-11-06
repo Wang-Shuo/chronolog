@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 75a5d89d51ae50848d01f84cffe884e662d6a0e9b4d65e2872e25e9d039b24cd
+machine_hash: 1ab15700fc1d29eef7c9a8a054621833b5dbc228c8f6d7462ffc9b981ca26700
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -48,8 +48,8 @@ record:
   title: 3 Context Window changes in v0.29.0
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-02-17-agents-can-now-search-past-conversations-and-use-chat-history-as-context|Agents
-  can now search past conversations and use chat history as context]]'
+- "[[Changes/Open WebUI/2026-02-17-image-and-file-attachment-handling-fixes-uploaded-images-are-now-correctly-sent|\U0001F5BC️
+  Image and file attachment handling fixes. Uploaded images are now correctly…]]"
 - '[[Changes/Codex CLI/2026-02-18-2-context-window-changes-in-rust-v0-104-0|2 Context
   Window changes in rust-v0.104.0]]'
 - '[[Changes/Cursor/2026-02-18-cli-now-stores-conversation-transcripts-that-the-agent-can-use-as-context|CLI

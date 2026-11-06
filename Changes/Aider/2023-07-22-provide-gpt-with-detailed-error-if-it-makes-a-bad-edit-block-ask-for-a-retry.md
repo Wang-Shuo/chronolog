@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 242812acab9723f40f09b780243a3b9071543f8a2d11c4b4a907c5c300de635d
+machine_hash: 648b76b8afddcaf3bdd182a07047b2aa953159ad3d9090d627dee3156439ebc5
 product: aider
 product_name: Aider
 record:
@@ -44,10 +44,10 @@ record:
   title: Provide GPT with detailed error if it makes a bad edit block, ask for a retry
   type: change
 related_changes:
-- '[[Changes/Cursor/2023-07-11-this-update-improves-the-prompt-for-cmd-k-when-you-don-t-have-any-code-selected|0.2.46
-  - Patch for Cmd-k Generates]]'
 - '[[Changes/Cursor/2023-07-12-semantic-search-in-cmd-shift-f-842ecc|Semantic search
   in Cmd-Shift-F]]'
+- "[[Changes/Dify/2023-07-14-completion-apps-can-batch-generate-results-and-export-them-as-files|Completion
+  apps can batch generate results and export them as files \U0001F4C1]]"
 - '[[Changes/Cursor/2023-07-19-a-better-flow-for-getting-cmd-k-to-produce-code-with-no-linter-errors-you-should-8eb878|A
   better flow for getting CMD-k to produce code with no linter errors…]]'
 source_release: '[[Releases/Aider/aider-2023-07-22-v0-10-0-github-113187659-b0aea783|aider-2023-07-22-v0-10-0-github-113187659-b0aea783]]'

@@ -4,20 +4,20 @@ date: '2026-10-27'
 description: 'OpenHands · 2026-10-27 · Automation and Scheduling: 6 changes in v1.34.0
   — feat(automations): filter and edit automation tags by @VascoSch92 in…'
 diffusion:
-  first_in_tracked: '[[Changes/OpenHands/2024-09-04-better-syntax-error-loop-detection-by-tobitege-in-https-github-com-all-hands-ai|Better
-    syntax error loop detection]]'
+  first_in_tracked: '[[Changes/Dify/2024-01-02-add-data-clean-schedule-by-johnjyong-in-https-github-com-langgenius-dify-pull-18|Add
+    data clean schedule]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 783
+  lag_days: 1029
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 9b1b91f2b9add8f289f983c6cc085d8afbe8f8b65aa79653aed003ebd57c1c22
+machine_hash: c76a5332aba0b593eea9eb9971281003b9135aa7ce30991194a61f1ea3caf59c
 product: openhands
 product_name: OpenHands
 record:
@@ -109,13 +109,13 @@ Source: https://github.com/OpenHands/OpenHands/releases/tag/v1.34.0
 ## Nearby in Automation and Scheduling
 
 - Earlier: 2026-10-27 · Gemini CLI · [[Changes/Gemini CLI/2026-10-27-refactor-core-cli-emit-tool-call-groups-from-the-scheduler-and-drop-the-ui-looka|refactor(core,cli): emit tool call groups from the scheduler and drop the UI lookahead]]
-- Later: 2026-10-31 · Claude Code · [[Changes/Claude Code/2026-10-31-2-automation-and-scheduling-changes-in-v2-1-316|2 Automation and Scheduling changes in v2.1.316]]
+- Later: 2026-10-29 · Open WebUI · [[Changes/Open WebUI/2026-10-29-2-automation-and-scheduling-changes-in-v0-12-5|2 Automation and Scheduling changes in v0.12.5]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2024-09-04 · OpenHands · [[Changes/OpenHands/2024-09-04-better-syntax-error-loop-detection-by-tobitege-in-https-github-com-all-hands-ai|Better syntax error loop detection]]
+- Earliest same-theme entry in the tracked set: 2024-01-02 · Dify · [[Changes/Dify/2024-01-02-add-data-clean-schedule-by-johnjyong-in-https-github-com-langgenius-dify-pull-18|Add data clean schedule]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 93a2ab699f797d9a56138623b53662f7c25f1fddc70d64109c5a8ec96315bf70
+machine_hash: 777cc8567b0ac0c9bed60c503a53cf5867fd9905ba3a9487191a5e7d6bda18a4
 product: claude-code
 product_name: Claude Code
 record:
@@ -46,10 +46,9 @@ record:
   title: 2 Safety and Privacy changes in v2.1.178
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-06-10-run-bugbot-before-you-push-3e5964|Run Bugbot before
-  you push]]'
-- '[[Changes/OpenHands/2026-06-10-users-can-select-the-sandbox-grouping-strategy-by-tofarr-in-https-github-com-ope|Users
-  can select the sandbox grouping strategy]]'
+- '[[Changes/Replit/2026-06-12-choose-which-production-alerts-reach-your-inbox|Choose
+  which production alerts reach your inbox]]'
+- '[[Changes/Replit/2026-06-12-security|Security]]'
 - '[[Changes/GitHub Copilot CLI/2026-06-13-2-safety-and-privacy-changes-in-v1-0-62|2
   Safety and Privacy changes in v1.0.62]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-06-15-v2-1-178-github-339741361-902bc427|claude-code-2026-06-15-v2-1-178-github-339741361-902bc427]]'

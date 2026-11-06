@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: 9d5e0304a0b4ef014680da6c96a0b1f0360ac781901674a1f5437f0d4df5d85e
+machine_hash: d6c9f5f1fca9754951a8a137640a912ef1840b294bb61bf200c99087eeacb370
 product: cursor
 product_name: Cursor
 record:
@@ -62,12 +62,10 @@ record:
   title: Built-in modes & custom modes (beta)
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-02-19-agent-tool-limit-upon-reaching-the-25-tool-call-limit-you-can-press-continue-to|Agent
-  tool limit]]'
-- '[[Changes/OpenHands/2025-03-07-3-agent-mode-changes-in-0-28-0|3 Agent Mode changes
-  in 0.28.0]]'
-- '[[Changes/OpenHands/2025-03-10-improve-agent-loop-tracking-by-rbren-in-https-github-com-all-hands-ai-openhands|Improve
-  agent loop tracking]]'
+- '[[Changes/ElevenLabs/2025-03-17-agents-platform-4355e7|Agents Platform]]'
+- '[[Changes/Dify/2025-03-18-feat-add-click-away-and-mounting-logic-to-agent-setting-component-by-fdb02983rhy|feat:
+  add click-away and mounting logic to agent setting component]]'
+- '[[Changes/Replit/2025-03-21-agent-timeline-messages|Agent timeline messages]]'
 source_release: '[[Releases/Cursor/cursor-2025-03-23-0-48-x-https-cursor-com-changelog-0-48-x-7b3e771b|cursor-2025-03-23-0-48-x-https-cursor-com-changelog-0-48-x-7b3e771b]]'
 source_type: cursor_changelog
 theme: agent-mode
@@ -116,8 +114,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2025-03-10 · OpenHands · [[Changes/OpenHands/2025-03-10-improve-agent-loop-tracking-by-rbren-in-https-github-com-all-hands-ai-openhands|Improve agent loop tracking]]
-- Later: 2025-04-09 · Cline · [[Changes/Cline/2025-04-09-add-new-create-new-task-tool-to-let-cline-start-a-new-task-autonomously|Add new 'Create New Task' tool to let Cline start a new task autonomously!]]
+- Earlier: 2025-03-21 · Replit · [[Changes/Replit/2025-03-21-agent-timeline-messages|Agent timeline messages]]
+- Later: 2025-03-24 · ElevenLabs · [[Changes/ElevenLabs/2025-03-24-agents-platform|Agents Platform]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: ff4001790e8aab7fdd74d315ff534b58966802006c7b94a1cdca16a2baf6e71f
+machine_hash: 48bf1857a607200aa0455cc504b321d2b833d612338eb353489d7861619cc95c
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,12 +45,9 @@ record:
   title: 2 Apps and Integrations changes in v2.1.122
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-04-23-3-apps-and-integrations-changes-in-v1-0-35|3
-  Apps and Integrations changes in v1.0.35]]'
-- '[[Changes/Codex CLI/2026-04-24-11-apps-and-integrations-changes-in-rust-v0-125-0|11
-  Apps and Integrations changes in rust-v0.125.0]]'
-- '[[Changes/GitHub Copilot CLI/2026-04-24-remote-command-shows-current-status-and-supports-remote-on-and-remote-off-to-tog|/remote
-  command shows current status and supports /remote on and /remote off…]]'
+- '[[Changes/Replit/2026-04-24-integrations|Integrations]]'
+- '[[Changes/Replit/2026-04-24-plaid-connector-is-live|Plaid connector is live]]'
+- '[[Changes/ElevenLabs/2026-04-27-sdk-releases|SDK Releases]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-04-28-v2-1-122-github-314740479-0cc42196|claude-code-2026-04-28-v2-1-122-github-314740479-0cc42196]]'
 source_type: github_releases
 theme: apps-integrations
@@ -86,7 +83,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.122
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-04-24 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-04-24-remote-command-shows-current-status-and-supports-remote-on-and-remote-off-to-tog|/remote command shows current status and supports /remote on and /remote off…]]
+- Earlier: 2026-04-27 · ElevenLabs · [[Changes/ElevenLabs/2026-04-27-sdk-releases|SDK Releases]]
 - Later: 2026-04-28 · Claude Code · [[Changes/Claude Code/2026-04-28-6-apps-and-integrations-changes-in-v2-1-121|6 Apps and Integrations changes in v2.1.121]]
 <!-- chronolog:end -->
 

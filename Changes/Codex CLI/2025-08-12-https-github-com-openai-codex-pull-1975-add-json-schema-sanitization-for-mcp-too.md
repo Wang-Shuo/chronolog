@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: fdc4478e9350b45d4b814c269c484d07669a067ed89fb984a522aaf6e4dfdf1f
+machine_hash: 66802db9d757b9a4b60225c881032042f0697cf4e5b37ef529eea618df0422d7
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -45,12 +45,11 @@ record:
     MCP tools…
   type: change
 related_changes:
-- '[[Changes/Cline/2025-08-04-refactor-use-mcp-icon-in-the-navbar-and-update-styling-by-sjf-in-https-github-co|refactor:
-  Use MCP icon in the navbar and update styling]]'
-- '[[Changes/Gemini CLI/2025-08-05-24-apps-and-integrations-changes-in-v0-1-17|24
-  Apps and Integrations changes in v0.1.17]]'
-- '[[Changes/Gemini CLI/2025-08-06-26-apps-and-integrations-changes-in-v0-1-18|26
-  Apps and Integrations changes in v0.1.18]]'
+- '[[Changes/Dify/2025-08-11-6-apps-and-integrations-changes-in-1-7-2|6 Apps and Integrations
+  changes in 1.7.2]]'
+- '[[Changes/ElevenLabs/2025-08-11-sdks|SDKs]]'
+- '[[Changes/Lovable/2025-08-11-real-time-analytics-on-your-lovable-apps|Real-time
+  analytics on your Lovable apps]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2025-08-12-rust-v0-21-0-github-239240731-76e29b83|codex-cli-2025-08-12-rust-v0-21-0-github-239240731-76e29b83]]'
 source_type: github_releases
 theme: apps-integrations
@@ -83,7 +82,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2025-08-06 · Gemini CLI · [[Changes/Gemini CLI/2025-08-06-26-apps-and-integrations-changes-in-v0-1-18|26 Apps and Integrations changes in v0.1.18]]
+- Earlier: 2025-08-11 · Lovable · [[Changes/Lovable/2025-08-11-real-time-analytics-on-your-lovable-apps|Real-time analytics on your Lovable apps]]
 - Later: 2025-08-12 · Gemini CLI · [[Changes/Gemini CLI/2025-08-12-10-apps-and-integrations-changes-in-v0-1-19|10 Apps and Integrations changes in v0.1.19]]
 <!-- chronolog:end -->
 

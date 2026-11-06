@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: e0e25d16e6ccdc9fb94a4d82db6851201ac0cb194d99ced7d3d65c0b66410e1f
+machine_hash: f46256be469cd495b676b6ca138c62bc9586f746b2253182671028419278aa11
 product: claude-code
 product_name: Claude Code
 record:
@@ -83,7 +83,7 @@ type: change
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-07-01 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-07-01-2-apps-and-integrations-changes-in-v1-0-68|2 Apps and Integrations changes in v1.0.68]]
-- Later: 2026-07-06 · Claude Code · [[Changes/Claude Code/2026-07-06-improved-mcp-error-messages-clearer-error-when-a-server-config-has-url-but-no-ty|Improved MCP error messages]]
+- Later: 2026-07-02 · Lovable · [[Changes/Lovable/2026-07-02-connectors-page-in-projects|Connectors page in projects]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

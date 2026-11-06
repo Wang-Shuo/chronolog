@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: c39419c62804cee78a9906b9c55227bbccc933b61ce5cedef84e27d864f9a976
+machine_hash: cdfed9593ceadde2e5a5428e2d2a4c5f7e3ddaba421d969c7ecbc0d6b510f15b
 product: cline
 product_name: Cline
 record:
@@ -94,7 +94,7 @@ type: change
 ## Nearby in Model Support
 
 - Earlier: 2026-08-22 · Cline · [[Changes/Cline/2026-08-22-restore-tool-calling-for-custom-openai-compatible-models-whose-capability-list-w|Restore tool calling for custom OpenAI-Compatible models whose capability list…]]
-- Later: 2026-08-26 · Claude Code · [[Changes/Claude Code/2026-08-26-added-claude-api-cost-optimize-to-profile-an-existing-project-s-claude-api-spend|Added /claude-api cost-optimize to profile an existing project's Claude API spend…]]
+- Later: 2026-08-24 · Lovable · [[Changes/Lovable/2026-08-24-chat-latest-for-your-app-s-ai-features|Chat Latest for your app's AI features]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

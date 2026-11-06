@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: ebc4956f0dad35064819fc3877ff55a600be4b9c99663f3251bb205d415b0ca4
+machine_hash: 4e446af81423e866c8b3ae61ad50e857e1a41807eb60c751dc7aaffd17e7dc47
 product: claude-code
 product_name: Claude Code
 record:
@@ -41,10 +41,10 @@ record:
   title: 'Improved startup: bare `claude` starts sooner on macOS'
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-08-18-3-mobile-and-desktop-changes-in-rust-v0-148-0|3
-  Mobile and Desktop changes in rust-v0.148.0]]'
-- '[[Changes/Claude Code/2026-08-19-added-notify-when-idle-to-cross-session-sendmessage-ask-another-claude-code-sess|Added
-  notify_when_idle to cross-session SendMessage]]'
+- '[[Changes/Gemini/2026-08-19-a-new-dedicated-student-hub-study-notebooks-on-mobile-one-year-of-google-ai-pro|A
+  new dedicated student hub, study notebooks on mobile, one year of Google AI Pro…]]'
+- '[[Changes/Ollama/2026-08-19-new-desktop-onboarding-flow-on-first-launch|New desktop
+  onboarding flow on first launch]]'
 - '[[Changes/ChatGPT/2026-08-20-keep-pinned-chats-in-sync-pinned-chats-now-stay-in-sync-between-the-chatgpt-desk|Keep
   pinned chats in sync]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-08-20-v2-1-238-github-373927029-c96744e2|claude-code-2026-08-20-v2-1-238-github-373927029-c96744e2]]'

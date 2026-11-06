@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 4b92eaf09b0c505583b9063784035ffb81379d82e04cd2743c2aa91b9791b7f6
+machine_hash: bd2f01fb5c24f4b2f7d665e7ec3530e14ad898acef1fa595ee05a6bc95a85db1
 product: windsurf
 product_name: Windsurf
 record:
@@ -43,12 +43,10 @@ record:
   title: MCP Servers
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2025-11-20-3-apps-and-integrations-changes-in-rust-v0-61-0|3
-  Apps and Integrations changes in rust-v0.61.0]]'
-- '[[Changes/Gemini CLI/2025-11-20-3-apps-and-integrations-changes-in-v0-17-0|3 Apps
-  and Integrations changes in v0.17.0]]'
-- '[[Changes/Cursor/2025-11-21-project-level-hooks-are-now-supported|Project level
-  hooks are now supported]]'
+- '[[Changes/Replit/2025-11-21-enterprise-data-warehouse-connectors|Enterprise data
+  warehouse connectors]]'
+- '[[Changes/Replit/2025-11-21-enhanced-atlassian-connectors|Enhanced Atlassian connectors]]'
+- '[[Changes/Replit/2025-11-21-new-connector-todoist|New connector: Todoist]]'
 source_release: '[[Releases/Windsurf/windsurf-2025-11-21-v1-12-35-8e2bec15|windsurf-2025-11-21-v1-12-35-8e2bec15]]'
 source_type: windsurf_changelog
 theme: apps-integrations
@@ -83,7 +81,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2025-11-21 · Cursor · [[Changes/Cursor/2025-11-21-project-level-hooks-are-now-supported|Project level hooks are now supported]]
+- Earlier: 2025-11-21 · Replit · [[Changes/Replit/2025-11-21-new-connector-todoist|New connector: Todoist]]
 - Later: 2025-11-24 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2025-11-24-mcp-servers-work-in-prompt-mode|MCP servers work in --prompt mode]]
 <!-- chronolog:end -->
 

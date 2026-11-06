@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 7e4f708a3c08cdeb57532d5edd97876348116be1ef1024461f745367b682cd2a
+machine_hash: 24c7263325ca0468a42c63493d5c127453eb9f1da0b9ce2ef22a9ae5e6c91c83
 product: cline
 product_name: Cline
 record:
@@ -45,10 +45,10 @@ record:
     SDK…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-08-11-2-apps-and-integrations-changes-in-v2-1-228|2
-  Apps and Integrations changes in v2.1.228]]'
 - '[[Changes/Claude Code/2026-08-12-3-apps-and-integrations-changes-in-v2-1-229|3
   Apps and Integrations changes in v2.1.229]]'
+- '[[Changes/Lovable/2026-08-12-unpublish-several-projects-at-once|Unpublish several
+  projects at once]]'
 - '[[Changes/Claude Code/2026-08-13-4-apps-and-integrations-changes-in-v2-1-232|4
   Apps and Integrations changes in v2.1.232]]'
 source_release: '[[Releases/Cline/cline-2026-08-13-v4-1-9-github-369742457-b48c0c59|cline-2026-08-13-v4-1-9-github-369742457-b48c0c59]]'
@@ -82,7 +82,7 @@ type: change
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-08-13 · Claude Code · [[Changes/Claude Code/2026-08-13-4-apps-and-integrations-changes-in-v2-1-232|4 Apps and Integrations changes in v2.1.232]]
-- Later: 2026-08-14 · Claude Code · [[Changes/Claude Code/2026-08-14-2-apps-and-integrations-changes-in-v2-1-233|2 Apps and Integrations changes in v2.1.233]]
+- Later: 2026-08-13 · Lovable · [[Changes/Lovable/2026-08-13-build-dashboards-from-your-snowflake-semantic-views|Build dashboards from your Snowflake semantic views]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

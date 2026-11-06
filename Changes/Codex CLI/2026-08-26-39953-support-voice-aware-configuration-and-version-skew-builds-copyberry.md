@@ -4,20 +4,20 @@ date: '2026-08-26'
 description: 'Codex CLI · 2026-08-26 · Voice and Audio: #39953 Support voice-aware
   configuration and version-skew builds @copyberry'
 diffusion:
-  first_in_tracked: '[[Changes/Aider/2023-08-11-voice-to-code-https-aider-chat-docs-voice-html-support-which-allows-you-to-code|Voice-to-code((source
-    link) support, which allows you…]]'
+  first_in_tracked: '[[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2
+    Voice and Audio changes in 0.3.7]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1111
+  lag_days: 1143
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: f71445f74a3f27bb74ad123f5eee697dc719bc4ccf1077b2423590071d68f6d8
+machine_hash: a063e49dc1098aafe2a37051ccfcd9a4ab2159d5ef5d7654635a8a32a3c7e3f7
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -43,12 +43,11 @@ record:
   title: '#39953 Support voice-aware configuration and version-skew builds @copyberry'
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-08-20-39045-add-managed-gates-for-in-app-chat-and-dictation-copyberry|♯39045
-  Add managed gates for in-app chat and dictation @copyberry]]'
-- '[[Changes/Claude Code/2026-08-21-alpine-musl-builds-native-image-paste-clipboard-and-audio-capture-add-ons-now-lo|Alpine/musl
-  builds: native image paste, clipboard, and audio-capture add-ons now…]]'
-- '[[Changes/Cline/2026-08-21-stop-offering-image-voice-and-other-non-chat-models-in-chat-model-pickers|Stop
-  offering image, voice, and other non-chat models in chat model pickers]]'
+- '[[Changes/ElevenLabs/2026-08-24-python-sdk|Python SDK]]'
+- '[[Changes/Dify/2026-08-25-audio-asr-now-accepts-audio-x-m4a-and-audio-mime-types-are-validated-more-accura|Audio
+  ASR now accepts audio/x-m4a, and audio MIME types are validated more…]]'
+- '[[Changes/Open WebUI/2026-08-25-4-voice-and-audio-changes-in-v0-11-1|4 Voice and
+  Audio changes in v0.11.1]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-08-26-rust-v0-150-0-github-377374683-d950f84c|codex-cli-2026-08-26-rust-v0-150-0-github-377374683-d950f84c]]'
 source_type: github_releases
 theme: voice
@@ -90,14 +89,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Voice and Audio
 
-- Earlier: 2026-08-21 · Cline · [[Changes/Cline/2026-08-21-stop-offering-image-voice-and-other-non-chat-models-in-chat-model-pickers|Stop offering image, voice, and other non-chat models in chat model pickers]]
+- Earlier: 2026-08-25 · Open WebUI · [[Changes/Open WebUI/2026-08-25-4-voice-and-audio-changes-in-v0-11-1|4 Voice and Audio changes in v0.11.1]]
 - Later: 2026-08-27 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-08-27-use-ctrl-space-to-toggle-voice-dictation|Use Ctrl+Space to toggle voice dictation]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-08-11 · Aider · [[Changes/Aider/2023-08-11-voice-to-code-https-aider-chat-docs-voice-html-support-which-allows-you-to-code|Voice-to-code((source link) support, which allows you…]]
+- Earliest same-theme entry in the tracked set: 2023-07-10 · Dify · [[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2 Voice and Audio changes in 0.3.7]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

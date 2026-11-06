@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: ec5d9b3eb14b6e2a925cd534035904a6213d2f83ce388eb46d251a1fb2c8d32f
+machine_hash: 6bdb0a0b94a29ce3ec08dd17906faf6d0530fce2bab3624e7384b8f4def0958a
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -54,12 +54,11 @@ record:
   title: 7 Apps and Integrations changes in v0.10.0
   type: change
 related_changes:
-- '[[Changes/Cline/2025-10-16-9-apps-and-integrations-changes-in-v3-33-0|9 Apps and
-  Integrations changes in v3.33.0]]'
-- '[[Changes/Windsurf/2025-10-17-improved-diagnostics-for-third-party-extensions|Improved
-  diagnostics for third party extensions]]'
 - '[[Changes/GitHub Copilot CLI/2025-10-18-enabled-github-mcp-server-in-prompt-mode|Enabled
   GitHub MCP server in prompt mode]]'
+- '[[Changes/ElevenLabs/2025-10-20-sdk-releases|SDK Releases]]'
+- '[[Changes/Dify/2025-10-22-12-apps-and-integrations-changes-in-1-9-2|12 Apps and
+  Integrations changes in 1.9.2]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2025-10-22-v0-10-0-github-256434073-b3dd91c0|gemini-cli-2025-10-22-v0-10-0-github-256434073-b3dd91c0]]'
 source_type: github_releases
 theme: apps-integrations
@@ -113,7 +112,7 @@ Source: https://github.com/google-gemini/gemini-cli/releases/tag/v0.10.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2025-10-18 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2025-10-18-enabled-github-mcp-server-in-prompt-mode|Enabled GitHub MCP server in prompt mode]]
+- Earlier: 2025-10-22 · Dify · [[Changes/Dify/2025-10-22-12-apps-and-integrations-changes-in-1-9-2|12 Apps and Integrations changes in 1.9.2]]
 - Later: 2025-10-23 · Cline · [[Changes/Cline/2025-10-23-3-apps-and-integrations-changes-in-v3-34-0|3 Apps and Integrations changes in v3.34.0]]
 <!-- chronolog:end -->
 

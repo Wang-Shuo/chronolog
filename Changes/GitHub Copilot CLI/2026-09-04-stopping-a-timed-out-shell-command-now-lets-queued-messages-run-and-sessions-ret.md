@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 207201239c5c0258610b26be825aa346b42fe5d1a82aeccd00f66dd576e23e0b
+machine_hash: 5b423d33e6501d890c25aae18f5c26a7b80d6f31d10c97932432217b3c4db374
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -89,7 +89,7 @@ type: change
 ## Nearby in Agent Mode
 
 - Earlier: 2026-09-04 · Claude Code · [[Changes/Claude Code/2026-09-04-2-agent-mode-changes-in-v2-1-261|2 Agent Mode changes in v2.1.261]]
-- Later: 2026-09-08 · Claude Code · [[Changes/Claude Code/2026-09-08-improved-workflows-agent-detail-tool-calls-are-marked-running-failed-or-done-the|Improved /workflows agent detail]]
+- Later: 2026-09-04 · Replit · [[Changes/Replit/2026-09-04-understand-app-usage-with-project-analytics|Understand app usage with Project Analytics]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 31cef0f314b6b1cf1e66b1e3be892532165922eac4cd2c32c9017465841320b3
+machine_hash: 9e6a7c3da2b6b380b9463d703562f3ade11b2b4f7cb6b050e28e4328193d6828
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -43,8 +43,7 @@ record:
   title: '#27490 Remove TUI legacy Windows sandbox dependency @etraut-openai'
   type: change
 related_changes:
-- '[[Changes/OpenHands/2026-06-10-users-can-select-the-sandbox-grouping-strategy-by-tofarr-in-https-github-com-ope|Users
-  can select the sandbox grouping strategy]]'
+- '[[Changes/Replit/2026-06-12-security|Security]]'
 - '[[Changes/GitHub Copilot CLI/2026-06-13-2-safety-and-privacy-changes-in-v1-0-62|2
   Safety and Privacy changes in v1.0.62]]'
 - '[[Changes/Claude Code/2026-06-15-2-safety-and-privacy-changes-in-v2-1-178|2 Safety

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: memory
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 0bd3e3e878f4cf0a8587bb8a77c2b42fd4cdc4bd019df31dcc1a622576c9f435
+machine_hash: 038760b4c750c9b77ffb23abefa5d394f5f367018ca62881a2e8a15b0349d433
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -46,10 +46,9 @@ record:
   title: Increased custom instructions limit
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-06-22-improved-memory-the-agent-is-now-reminded-to-compact-its-memory-md-index-when-ne|Improved
-  memory: the agent is now reminded to compact its MEMORY.md index…]]'
-- '[[Changes/Codex CLI/2026-07-08-2-memory-and-personalization-changes-in-rust-v0-143-0|2
-  Memory and Personalization changes in rust-v0.143.0]]'
+- '[[Changes/Claude/2026-07-09-a-new-way-to-reflect-with-claude|A new way to reflect
+  with Claude]]'
+- '[[Changes/Claude/2026-07-10-updated-memory-for-claude|Updated memory for Claude]]'
 - '[[Changes/Claude Code/2026-07-14-memory-writes-that-leave-a-memory-md-index-over-its-read-limit-now-produce-an-ex|Memory
   writes that leave a MEMORY.md index over its read limit now produce…]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-07-15-increased-custom-instructions-limit-dcba82c8|chatgpt-2026-07-15-increased-custom-instructions-limit-dcba82c8]]'

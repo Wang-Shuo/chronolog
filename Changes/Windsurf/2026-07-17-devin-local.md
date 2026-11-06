@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 7057c492117426a5a7f29934451fcaa447f417536ed4548cfcd403352e78ece3
+machine_hash: 9d8ee5585323076aadee047757b33fa12ec6cc4991a9f2055f45133b9d870713
 product: windsurf
 product_name: Windsurf
 record:
@@ -52,11 +52,10 @@ record:
   title: Devin Local
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-07-16-5-interface-experience-changes-in-v1-0-71|5
-  Interface Experience changes in v1.0.71]]'
-- '[[Changes/Claude Code/2026-07-17-typing-resume-in-the-agent-view-now-opens-a-picker-of-past-sessions-including-se|Typing
-  /resume in the agent view now opens a picker of past sessions]]'
-- '[[Changes/Cursor/2026-07-17-interaction-improvements-dee44a|Interaction improvements]]'
+- '[[Changes/Dify/2026-07-17-2-interface-experience-changes-in-1-16-0|2 Interface
+  Experience changes in 1.16.0]]'
+- '[[Changes/Lovable/2026-07-17-redesigned-workspace-menu|Redesigned workspace menu]]'
+- '[[Changes/Replit/2026-07-17-a-faster-task-sidebar|A faster task sidebar]]'
 source_release: '[[Releases/Windsurf/windsurf-2026-07-17-v3-5-17-c6033639|windsurf-2026-07-17-v3-5-17-c6033639]]'
 source_type: windsurf_changelog
 theme: interface-experience
@@ -94,7 +93,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-07-17 · Cursor · [[Changes/Cursor/2026-07-17-interaction-improvements-dee44a|Interaction improvements]]
+- Earlier: 2026-07-17 · Replit · [[Changes/Replit/2026-07-17-a-faster-task-sidebar|A faster task sidebar]]
 - Later: 2026-07-20 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-07-20-the-sessions-sidebar-is-now-navigable-with-the-keyboard-and-mouse-arrows-open-an|The Sessions sidebar is now navigable with the keyboard and mouse…]]
 <!-- chronolog:end -->
 

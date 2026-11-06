@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 8d3d4711a97c803ffbcea7a44fba07ae5511c82b5be2824c00678f8f24c3de6c
+machine_hash: 97478ac0bcff4d699496868af6455c3cf94b76978f72d8f7e372fa03a536109e
 product: claude-code
 product_name: Claude Code
 record:
@@ -44,8 +44,7 @@ record:
   title: 2 Agent Mode changes in v2.1.97
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-04-06-2-agent-mode-changes-in-v1-0-19|2 Agent
-  Mode changes in v1.0.19]]'
+- '[[Changes/ElevenLabs/2026-04-07-elevenagents-e46dc6|ElevenAgents]]'
 - '[[Changes/GitHub Copilot CLI/2026-04-07-spinner-no-longer-appears-stuck-when-a-long-running-async-shell-command-is-activ|Spinner
   no longer appears stuck when a long-running async shell command is active]]'
 - '[[Changes/GitHub Copilot CLI/2026-04-07-spinner-stays-active-until-background-agents-and-shell-commands-finish-and-user|Spinner

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: abe3021f85f0b36dc5f4f13e55d6a25e1e9b66977bb8a1df5f0ae372ba06bd73
+machine_hash: 579b69b4cdce4a0ffd5e37a931a69c26369d657097895cacfc3a169365369e6d
 product: claude-code
 product_name: Claude Code
 record:
@@ -44,11 +44,12 @@ record:
   title: Improved fork subagents launched together
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-10-20-agents-as-code|Agents as code]]'
 - '[[Changes/Cursor/2026-10-20-the-agent-sdk-is-available-today-it-allows-you-to-define-an-agent-as-a-folder-of|The
   Agent SDK is available today]]'
 - '[[Changes/OpenHands/2026-10-20-5-agent-mode-changes-in-v1-29-0|5 Agent Mode changes
   in v1.29.0]]'
+- '[[Changes/Claude/2026-10-21-claude-duet-research-preview-for-pro-and-max-plans|Claude
+  Duet research preview for Pro and Max plans]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-10-21-v2-1-307-github-420041378-ab2f5a8d|claude-code-2026-10-21-v2-1-307-github-420041378-ab2f5a8d]]'
 source_type: github_releases
 theme: agent-mode
@@ -84,7 +85,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2026-10-20 · OpenHands · [[Changes/OpenHands/2026-10-20-5-agent-mode-changes-in-v1-29-0|5 Agent Mode changes in v1.29.0]]
+- Earlier: 2026-10-21 · Claude · [[Changes/Claude/2026-10-21-claude-duet-research-preview-for-pro-and-max-plans|Claude Duet research preview for Pro and Max plans]]
 - Later: 2026-10-22 · Claude Code · [[Changes/Claude Code/2026-10-22-changed-the-claude-api-skill-to-build-managed-agents-subagent-teams-on-multiagen|Changed the /claude-api skill to build Managed Agents subagent teams…]]
 <!-- chronolog:end -->
 

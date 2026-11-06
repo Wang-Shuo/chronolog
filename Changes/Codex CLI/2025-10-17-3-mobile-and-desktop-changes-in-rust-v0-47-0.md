@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 81e8fe4722ae0421342dc03e3896d3a964add7d2c7a52e85e18679324b43620f
+machine_hash: 8fd9ee7c2daefa9112aa7bf96a559994fcf88aa1ec7207faafd7285b284e89bd
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -44,10 +44,10 @@ record:
   title: 3 Mobile and Desktop changes in rust-v0.47.0
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2025-10-03-experimental-reduce-repetitive-approval-for-read-only-commands-on-windows-4269|(experimental)
-  Reduce repetitive approval for read-only commands on Windows (♯4269)]]'
 - '[[Changes/GitHub Copilot CLI/2025-10-07-improved-file-write-performances-especially-on-windows-by-not-relying-on-the-she|Improved
   file write performances (especially on Windows) by not relying on the shell…]]'
+- '[[Changes/Ollama/2025-10-10-macos-12-monterey-and-macos-13-ventura-are-no-longer-supported|macOS
+  12 Monterey and macOS 13 Ventura are no longer supported]]'
 - '[[Changes/GitHub Copilot CLI/2025-10-13-removed-the-windows-support-is-experimental-warning-we-ve-made-some-big-strides|Removed
   the "Windows support is experimental" warning -- we''ve made some big strides…]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2025-10-17-rust-v0-47-0-github-255378266-cdca7c8a|codex-cli-2025-10-17-rust-v0-47-0-github-255378266-cdca7c8a]]'

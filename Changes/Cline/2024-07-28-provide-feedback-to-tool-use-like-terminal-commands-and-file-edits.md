@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 878f868de8ab1ec11559335d2473ddd02524b0ec0087a1069c324f10bc32bae8
+machine_hash: 23a6877f4f724ea017b34034574c3e11cc6e9bb7dd218fc19297f1f8521ebe26
 product: cline
 product_name: Cline
 record:
@@ -40,12 +40,12 @@ record:
   title: Provide feedback to tool use like terminal commands and file edits
   type: change
 related_changes:
-- '[[Changes/Aider/2024-07-07-all-config-env-yml-json-files-now-load-from-home-git-root-cwd-and-named-command|All
-  config/env/yml/json files now load from home, git root, cwd and named command…]]'
-- '[[Changes/OpenHands/2024-07-13-feat-implement-user-confirmation-mode-request-confirmation-when-running-bash-pyt|feat:
-  Implement user confirmation mode, request confirmation when running…]]'
+- "[[Changes/Open WebUI/2024-07-17-debug-logs-fixed-an-issue-where-debug-logs-were-not-being-logged-properly|\U0001FAB2
+  Debug Logs: Fixed an issue where debug logs were not being logged properly]]"
 - '[[Changes/OpenHands/2024-07-19-2-developer-workflow-changes-in-0-8-1|2 Developer
   Workflow changes in 0.8.1]]'
+- '[[Changes/Dify/2024-07-23-stop-the-service-command-please-execute-in-the-docker-directory|Stop
+  the service，Command, please execute in the docker directory]]'
 source_release: '[[Releases/Cline/cline-2024-07-28-v1-0-4-github-167496281-a4c8079a|cline-2024-07-28-v1-0-4-github-167496281-a4c8079a]]'
 source_type: github_releases
 theme: developer-workflow
@@ -77,7 +77,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2024-07-19 · OpenHands · [[Changes/OpenHands/2024-07-19-2-developer-workflow-changes-in-0-8-1|2 Developer Workflow changes in 0.8.1]]
+- Earlier: 2024-07-23 · Dify · [[Changes/Dify/2024-07-23-stop-the-service-command-please-execute-in-the-docker-directory|Stop the service，Command, please execute in the docker directory]]
 - Later: 2024-07-29 · Aider · [[Changes/Aider/2024-07-29-4-developer-workflow-changes-in-v0-46-0|4 Developer Workflow changes in v0.46.0]]
 <!-- chronolog:end -->
 

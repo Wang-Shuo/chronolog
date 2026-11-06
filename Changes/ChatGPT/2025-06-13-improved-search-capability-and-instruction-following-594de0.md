@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: c90a0762cd7a63ddf6d7be94559be6a2250ab6315bf880874dffadca9680505a
+machine_hash: fec8dc25459c6b18cb10c5081fa4c6141ec725e55efcae2b37f4beccbcd6704b
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -50,10 +50,10 @@ record:
   title: Improved search capability and instruction following
   type: change
 related_changes:
-- '[[Changes/Aider/2025-05-30-improved-openrouter-model-metadata-handling-by-introducing-a-local-cache-increas|Improved
-  OpenRouter model metadata handling by introducing a local cache, increasing…]]'
-- '[[Changes/Cursor/2025-06-04-faster-responses-with-parallel-tool-calls|Faster responses
-  with parallel tool calls]]'
+- "[[Changes/Open WebUI/2025-06-10-pinecone-vector-search-optimizations-applied-latest-best-practices-from-pinecone|\U0001F680
+  Pinecone & Vector Search Optimizations]]"
+- '[[Changes/Dify/2025-06-11-5-reliability-and-performance-changes-in-1-4-2|5 Reliability
+  and Performance changes in 1.4.2]]'
 - '[[Changes/Cursor/2025-06-12-3-reliability-and-performance-changes-in-1-1|3 Reliability
   and Performance changes in 1.1]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-06-13-improvements-to-the-chatgpt-search-response-quality-2791e464|chatgpt-2025-06-13-improvements-to-the-chatgpt-search-response-quality-2791e464]]'
@@ -91,7 +91,7 @@ type: change
 ## Nearby in Reliability and Performance
 
 - Earlier: 2025-06-12 · Cursor · [[Changes/Cursor/2025-06-12-3-reliability-and-performance-changes-in-1-1|3 Reliability and Performance changes in 1.1]]
-- Later: 2025-06-24 · OpenHands · [[Changes/OpenHands/2025-06-24-enabled-users-to-provide-feedback-on-agent-performance-even-when-the-agent-encou|Enabled users to provide feedback on agent performance even when the agent…]]
+- Later: 2025-06-13 · Replit · [[Changes/Replit/2025-06-13-infrastructure-improvements|Infrastructure improvements]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

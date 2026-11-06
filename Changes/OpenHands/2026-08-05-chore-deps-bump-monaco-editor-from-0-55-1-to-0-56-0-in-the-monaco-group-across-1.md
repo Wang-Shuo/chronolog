@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: f0cbaeb29586e326e6575f926d5a1eb90f8e26c6e24229a58b418bbfade60f6a
+machine_hash: 809778c1d6d600475e750d79c1c4912ddd07f44a5ce54dc493639c7b5ab05165
 product: openhands
 product_name: OpenHands
 record:
@@ -44,12 +44,12 @@ record:
     across 1…'
   type: change
 related_changes:
-- '[[Changes/Cline/2026-08-02-keep-settings-edits-that-are-made-before-the-provider-config-finishes-loading-ba|Keep
-  settings edits that are made before the provider config finishes loading]]'
 - '[[Changes/GitHub Copilot CLI/2026-08-03-2-editor-experience-changes-in-v1-0-78|2
   Editor Experience changes in v1.0.78]]'
 - '[[Changes/Claude Code/2026-08-04-changed-emoji-autocomplete-to-accept-common-alternate-shortcodes-like-thumbsup-t|Changed
   emoji autocomplete to accept common alternate shortcodes like :thumbsup:…]]'
+- '[[Changes/Ollama/2026-08-04-tui-fixes-pipe-delimited-prose-no-longer-renders-as-a-table-enter-accepts-the-hi|TUI
+  fixes: pipe-delimited prose no longer renders as a table, Enter accepts…]]'
 source_release: '[[Releases/OpenHands/openhands-2026-08-05-v1-10-0-github-365644892-3a7bd834|openhands-2026-08-05-v1-10-0-github-365644892-3a7bd834]]'
 source_type: github_releases
 theme: editor-experience
@@ -83,7 +83,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2026-08-04 · Claude Code · [[Changes/Claude Code/2026-08-04-changed-emoji-autocomplete-to-accept-common-alternate-shortcodes-like-thumbsup-t|Changed emoji autocomplete to accept common alternate shortcodes like :thumbsup:…]]
+- Earlier: 2026-08-04 · Ollama · [[Changes/Ollama/2026-08-04-tui-fixes-pipe-delimited-prose-no-longer-renders-as-a-table-enter-accepts-the-hi|TUI fixes: pipe-delimited prose no longer renders as a table, Enter accepts…]]
 - Later: 2026-08-09 · Cline · [[Changes/Cline/2026-08-09-restore-the-view-changes-button-on-completion-rows-backed-by-sdk-checkpoints-so|Restore the "View Changes" button on completion rows, backed by SDK checkpoints…]]
 <!-- chronolog:end -->
 

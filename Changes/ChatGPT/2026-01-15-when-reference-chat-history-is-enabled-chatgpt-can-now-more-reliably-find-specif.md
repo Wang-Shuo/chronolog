@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: memory
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: d9726ac85f19f4516d6cf28812bf41eadbb54ad4eafa37c3a5acf2577b9eafa1
+machine_hash: 98341e45b83259c71ed5cc36a921cd0242c4df0818ed6de1ce7f5d0c0cef520f
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -57,12 +57,12 @@ record:
   title: Improved memory for finding details from past chats (Plus & Pro)
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2025-12-22-today-we-re-rolling-out-your-year-with-chatgpt-an-optional-personalized-end-of-y-740eb1|Your
-  Year with ChatGPT]]'
 - '[[Changes/ChatGPT/2026-01-07-we-re-starting-to-roll-out-health-a-dedicated-space-in-chatgpt-for-health-and-we|We’re
   starting to roll out Health, a dedicated space in ChatGPT for health…]]'
 - '[[Changes/Gemini CLI/2026-01-07-feat-core-implement-jit-context-memory-loading-and-ui-sync-by-sandytao520-in-htt|feat(core):
   Implement JIT context memory loading and UI sync]]'
+- '[[Changes/Open WebUI/2026-01-09-2-memory-and-personalization-changes-in-v0-7-0|2
+  Memory and Personalization changes in v0.7.0]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-01-15-improved-memory-for-finding-details-from-past-chats-plus-pro-7ff26748|chatgpt-2026-01-15-improved-memory-for-finding-details-from-past-chats-plus-pro-7ff26748]]'
 source_type: chatgpt_changelog
 theme: memory
@@ -89,7 +89,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Memory and Personalization
 
-- Earlier: 2026-01-07 · Gemini CLI · [[Changes/Gemini CLI/2026-01-07-feat-core-implement-jit-context-memory-loading-and-ui-sync-by-sandytao520-in-htt|feat(core): Implement JIT context memory loading and UI sync]]
+- Earlier: 2026-01-09 · Open WebUI · [[Changes/Open WebUI/2026-01-09-2-memory-and-personalization-changes-in-v0-7-0|2 Memory and Personalization changes in v0.7.0]]
 - Later: 2026-01-16 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-01-16-inject-repo-memories-in-the-prompt-and-add-memory-storage-tool-to-remember-facts|Inject repo memories in the prompt and add memory storage tool to remember facts…]]
 <!-- chronolog:end -->
 

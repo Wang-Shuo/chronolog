@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: memory
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: b9fe66eeb96f4f129816790844a0d26a78f92e4a45dbf2f65248918edb1a208e
+machine_hash: cf34b5d5ce88bd0018870f62bfffa116a509353717191822dc30eaba814b872e
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -57,8 +57,8 @@ record:
   title: 'refactor(core): align JIT memory placement with tiered context model'
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-03-17-we-re-sunsetting-the-preset-nerdy-base-style-to-simplify-options-and-improve-res|Sunsetting
-  the “Nerdy” base style]]'
+- '[[Changes/Dify/2026-03-17-4-memory-and-personalization-changes-in-1-13-1|4 Memory
+  and Personalization changes in 1.13.1]]'
 - '[[Changes/Gemini CLI/2026-03-17-docs-document-tool-exclusion-from-memory-via-deny-policy-by-abhijit-2592-in-http|docs:
   document tool exclusion from memory via deny policy]]'
 - '[[Changes/Codex CLI/2026-03-19-4-memory-and-personalization-changes-in-rust-v0-116-0|4
@@ -103,7 +103,7 @@ type: change
 ## Nearby in Memory and Personalization
 
 - Earlier: 2026-03-19 · Codex CLI · [[Changes/Codex CLI/2026-03-19-4-memory-and-personalization-changes-in-rust-v0-116-0|4 Memory and Personalization changes in rust-v0.116.0]]
-- Later: 2026-03-26 · Codex CLI · [[Changes/Codex CLI/2026-03-26-15175-chore-morpheus-does-not-generate-memories-jif-oai|♯15175 chore: morpheus does not generate memories @jif-oai]]
+- Later: 2026-03-25 · Open WebUI · [[Changes/Open WebUI/2026-03-25-4-memory-and-personalization-changes-in-v0-8-11|4 Memory and Personalization changes in v0.8.11]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

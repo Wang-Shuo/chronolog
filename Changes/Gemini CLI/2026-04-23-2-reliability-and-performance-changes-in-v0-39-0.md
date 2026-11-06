@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 050f734e620584fef3d2e94c5657e08ae7f5e885d0287acb7feb06c7efd62334
+machine_hash: 719114fb3e3328bc3c7de039ffb4cd6a3b7c34bb79978df67f03df98de77846e
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -45,10 +45,10 @@ record:
   title: 2 Reliability and Performance changes in v0.39.0
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-04-20-resume-on-large-sessions-is-significantly-faster-up-to-67-on-40mb-sessions-and-h|/resume
-  on large sessions is significantly faster (up to 67% on 40MB+ sessions)…]]'
 - '[[Changes/Claude Code/2026-04-22-2-reliability-and-performance-changes-in-v2-1-117|2
   Reliability and Performance changes in v2.1.117]]'
+- '[[Changes/Ollama/2026-04-22-2-reliability-and-performance-changes-in-v0-21-1|2
+  Reliability and Performance changes in v0.21.1]]'
 - '[[Changes/Codex CLI/2026-04-23-18662-feat-add-metric-to-track-the-number-of-turns-with-memory-usage-jif-oai|♯18662
   feat: add metric to track the number of turns with memory usage @jif-oai]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2026-04-23-v0-39-0-github-312542426-bb57739c|gemini-cli-2026-04-23-v0-39-0-github-312542426-bb57739c]]'

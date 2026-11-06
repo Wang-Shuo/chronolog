@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: search-browsing
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 666f48519b8f7fbcc202fe0fc482dcc8e1a7f1f332e214cf348ea8dbbae20efb
+machine_hash: e5433b1dfb816be152902e8b28cfee828bf13597f267b326fa02c36891ce75f4
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -53,10 +53,10 @@ record:
     search
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-05-01-research-uses-an-orchestrator-subagent-model-for-more-thorough-and-reliable-deep|/research
-  uses an orchestrator/subagent model for more thorough and reliable deep…]]'
 - '[[Changes/Codex CLI/2026-05-07-21054-rollout-store-web-search-and-mcp-tool-calls-owenlin0|♯21054
   rollout: store web search and mcp tool calls @owenlin0]]'
+- '[[Changes/Open WebUI/2026-05-09-5-search-and-browsing-changes-in-v0-9-3|5 Search
+  and Browsing changes in v0.9.3]]'
 - '[[Changes/Claude Code/2026-05-19-the-plugin-browse-and-discover-panes-now-show-when-a-plugin-was-last-updated|The
   /plugin browse and discover panes now show when a plugin was last updated]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-05-20-v1-0-51-github-326293635-21098fc1|github-copilot-cli-2026-05-20-v1-0-51-github-326293635-21098fc1]]'

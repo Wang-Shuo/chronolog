@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: b7a3175144c73f0569fdf96534c88609016b2fea3b425c61b1eb87f08b35ee32
+machine_hash: 7d56589ce58e10dc96e5588e6d2d7f2adaa4eee3d9ed46bd1ff4ec10b2aa7268
 product: cline
 product_name: Cline
 record:
@@ -45,10 +45,9 @@ record:
   title: 3 Apps and Integrations changes in v3.35.1
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2025-10-30-11-apps-and-integrations-changes-in-rust-v0-52-0|11
-  Apps and Integrations changes in rust-v0.52.0]]'
-- '[[Changes/Cline/2025-10-31-5-apps-and-integrations-changes-in-v3-35-0|5 Apps and
-  Integrations changes in v3.35.0]]'
+- '[[Changes/Replit/2025-10-31-agentmail-connector|Agentmail connector]]'
+- '[[Changes/v0/2025-10-31-we-launched-a-new-integration-wizard-for-connecting-integrations-and-running-scr|Integration
+  Wizard]]'
 - '[[Changes/GitHub Copilot CLI/2025-11-03-2-apps-and-integrations-changes-in-v0-0-354|2
   Apps and Integrations changes in v0.0.354]]'
 source_release: '[[Releases/Cline/cline-2025-11-04-v3-35-1-github-259444613-fa15e807|cline-2025-11-04-v3-35-1-github-259444613-fa15e807]]'

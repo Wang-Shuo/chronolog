@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 4945cf84a982d29ff0628e25e0bbe1e08fe0f5e02da895159e385b6b68bbfb8f
+machine_hash: 84ecd55791f407ff642cc5856685bcce79537d6e418e858d95652884082d1e3e
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -70,10 +70,10 @@ record:
   title: 9 Safety and Privacy changes in rust-v0.64.0
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2025-11-20-shell-reliability-and-sandbox-warnings-fallback-shell-selection-is-hardened-and|Shell
-  reliability and sandbox warnings]]'
-- '[[Changes/Gemini CLI/2025-11-20-docs-remove-references-to-deprecated-flags-checkpointing-sandbox-image-by-nayong|docs:
-  remove references to deprecated flags (--checkpointing, --sandbox-image)]]'
+- '[[Changes/Lovable/2025-11-26-improved-share-invite-experience|Improved share &
+  invite experience]]'
+- '[[Changes/Lovable/2025-11-26-private-projects-for-everyone|Private projects for
+  everyone]]'
 - '[[Changes/Cline/2025-11-27-maint-npm-audit-fix-for-glob-package-vulnerability-by-canvrno-in-https-github-co|maint:
   npm audit fix for glob package vulnerability]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2025-12-02-rust-v0-64-0-github-266901625-82376886|codex-cli-2025-12-02-rust-v0-64-0-github-266901625-82376886]]'

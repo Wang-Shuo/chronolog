@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: d4ac7879db3679c1e3dae22e0d48a33a53993a9962000b27e57f6de106f9a5e4
+machine_hash: e12f360b88afebc672c53844e96aa1428e11cf4d3bcdf088f6c5daed7a02d19f
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -97,7 +97,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v0.0.340
 ## Nearby in Apps and Integrations
 
 - Earlier: 2025-10-13 · ChatGPT · [[Changes/ChatGPT/2025-10-13-we-re-rolling-out-two-new-ways-to-bring-slack-and-chatgpt-together-a-connector-t-be2213|Slack connector and app]]
-- Later: 2025-10-15 · Gemini CLI · [[Changes/Gemini CLI/2025-10-15-3-apps-and-integrations-changes-in-v0-9-0|3 Apps and Integrations changes in v0.9.0]]
+- Later: 2025-10-14 · ElevenLabs · [[Changes/ElevenLabs/2025-10-14-sdk-releases|SDK Releases]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

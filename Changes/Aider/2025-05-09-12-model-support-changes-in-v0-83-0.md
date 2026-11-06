@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 678cd15f2e2849b87229a0428700fd29aa6deffee42c002d2d82cd497aacd312
+machine_hash: b2dfa9f64009cdc5e6be7c9a46053af2da802bddd2705c0fbb607e73e7605532
 product: aider
 product_name: Aider
 record:
@@ -68,10 +68,10 @@ record:
   title: 12 Model Support changes in v0.83.0
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2025-04-29-we-ve-reverted-the-most-recent-update-to-gpt-4o-due-to-issues-with-overly-agreea-097503|Updates
-  to GPT-4o]]'
-- '[[Changes/Cline/2025-05-03-5-model-support-changes-in-v3-14-0|5 Model Support changes
-  in v3.14.0]]'
+- '[[Changes/Gemini/2025-05-06-2-5-pro-experimental-got-a-major-upgrade-for-coding|2.5
+  Pro (experimental) got a major upgrade for coding]]'
+- "[[Changes/Open WebUI/2025-05-06-automatic1111-image-model-setting-applied-properly-fixed-an-issue-where-switchin|\U0001F3A8
+  Automatic1111 Image Model Setting Applied Properly]]"
 - '[[Changes/Windsurf/2025-05-07-cascade-ux-improvements|Cascade UX Improvements]]'
 source_release: '[[Releases/Aider/aider-2025-05-09-v0-83-0-github-217725361-c9b2b84c|aider-2025-05-09-v0-83-0-github-217725361-c9b2b84c]]'
 source_type: github_releases

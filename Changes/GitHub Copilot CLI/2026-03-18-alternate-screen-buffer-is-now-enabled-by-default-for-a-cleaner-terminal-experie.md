@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: e1e31bd69a88ce675ab6600fefa2552eec539868bf07d3d04fb8713f27d769ed
+machine_hash: b20002cc41cc422340beced941cc8ab0d09348051eaad8bca614ba5197209c6f
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -42,12 +42,12 @@ record:
     experience
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-03-17-background-bash-tasks-are-now-killed-if-output-exceeds-5gb-preventing-runaway-pr|Background
-  bash tasks are now killed if output exceeds 5GB, preventing runaway…]]'
-- '[[Changes/Claude Code/2026-03-17-terminal-notifications-iterm2-kitty-ghostty-popups-progress-bar-now-reach-the-ou|Terminal
-  notifications (iTerm2/Kitty/Ghostty popups, progress bar) now reach…]]'
+- '[[Changes/Dify/2026-03-17-8-developer-workflow-changes-in-1-13-1|8 Developer Workflow
+  changes in 1.13.1]]'
 - '[[Changes/Gemini CLI/2026-03-17-9-developer-workflow-changes-in-v0-34-0|9 Developer
   Workflow changes in v0.34.0]]'
+- '[[Changes/Dify/2026-03-18-please-use-the-following-command-instead-for-details-please-read-this-https-gith|
+  Please use the following command instead]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-03-18-v1-0-8-github-298648607-10ad7512|github-copilot-cli-2026-03-18-v1-0-8-github-298648607-10ad7512]]'
 source_type: github_releases
 theme: developer-workflow
@@ -81,8 +81,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2026-03-17 · Gemini CLI · [[Changes/Gemini CLI/2026-03-17-9-developer-workflow-changes-in-v0-34-0|9 Developer Workflow changes in v0.34.0]]
-- Later: 2026-03-19 · Codex CLI · [[Changes/Codex CLI/2026-03-19-5-developer-workflow-changes-in-rust-v0-116-0|5 Developer Workflow changes in rust-v0.116.0]]
+- Earlier: 2026-03-18 · Dify · [[Changes/Dify/2026-03-18-please-use-the-following-command-instead-for-details-please-read-this-https-gith| Please use the following command instead]]
+- Later: 2026-03-18 · Ollama · [[Changes/Ollama/2026-03-18-add-extra-check-to-ensure-npm-and-git-are-installed-before-installing-openclaw|Add extra check to ensure npm and git are installed before installing OpenClaw]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 6c58b43e3c63368db9bff3ca096f104c00db13d25c7f4dee8d7f95b08acc922c
+machine_hash: 8dda71bd405814566057d594a42c29ff1707d64e18af60b14c553cf81f4cc319
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,11 +45,11 @@ record:
   title: 2 Agent Mode changes in v2.1.207
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-07-10-new-cloud-agent-hooks|New cloud agent hooks]]'
-- '[[Changes/Cursor/2026-07-10-this-release-makes-it-easier-to-stay-in-flow-with-side-chats-that-run-alongside|Cursor
-  makes it easier to stay in flow with side chats that run alongside your main…]]'
 - '[[Changes/GitHub Copilot CLI/2026-07-10-3-agent-mode-changes-in-v1-0-70|3 Agent
   Mode changes in v1.0.70]]'
+- '[[Changes/Replit/2026-07-10-connect-excalidraw-to-agent|Connect Excalidraw to Agent]]'
+- '[[Changes/Replit/2026-07-10-editors-can-answer-agent-s-questions|Editors can answer
+  Agent''s questions]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-07-11-v2-1-207-github-352355755-d77b8e91|claude-code-2026-07-11-v2-1-207-github-352355755-d77b8e91]]'
 source_type: github_releases
 theme: agent-mode
@@ -86,8 +86,8 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.207
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2026-07-10 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-07-10-3-agent-mode-changes-in-v1-0-70|3 Agent Mode changes in v1.0.70]]
-- Later: 2026-07-13 · Codex CLI · [[Changes/Codex CLI/2026-07-13-2-agent-mode-changes-in-rust-v0-144-2|2 Agent Mode changes in rust-v0.144.2]]
+- Earlier: 2026-07-10 · Replit · [[Changes/Replit/2026-07-10-editors-can-answer-agent-s-questions|Editors can answer Agent's questions]]
+- Later: 2026-07-11 · Ollama · [[Changes/Ollama/2026-07-11-2-agent-mode-changes-in-v0-32-0|2 Agent Mode changes in v0.32.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

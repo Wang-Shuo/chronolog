@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: a2deac11c1dd5b4bdd8ded08efe18f45389991dc69de0e10ba233161a8843be9
+machine_hash: cbb0a71debe49188ade75bcd84d39293f25c51ae5abd48c6e82939e976362224
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -42,10 +42,10 @@ record:
   title: 2 Agent Mode changes in rust-v0.27.0
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-08-21-get-native-os-notifications-when-an-agent-run-finishes-or-when-input-is-required|OS
-  notifications from Agent]]'
 - '[[Changes/Codex CLI/2025-08-26-5-agent-mode-changes-in-rust-v0-24-0|5 Agent Mode
   changes in rust-v0.24.0]]'
+- '[[Changes/Dify/2025-08-27-5-agent-mode-changes-in-1-8-0|5 Agent Mode changes in
+  1.8.0]]'
 - '[[Changes/Codex CLI/2025-08-29-2848-chore-try-to-make-it-easier-to-debug-the-flakiness-of-test-shell-command-ap|♯2848
   chore: try to make it easier to debug the flakiness…]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2025-08-29-rust-v0-27-0-github-243379671-3b3ef708|codex-cli-2025-08-29-rust-v0-27-0-github-243379671-3b3ef708]]'
@@ -83,7 +83,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.27.0
 ## Nearby in Agent Mode
 
 - Earlier: 2025-08-29 · Codex CLI · [[Changes/Codex CLI/2025-08-29-2848-chore-try-to-make-it-easier-to-debug-the-flakiness-of-test-shell-command-ap|♯2848 chore: try to make it easier to debug the flakiness…]]
-- Later: 2025-09-02 · Codex CLI · [[Changes/Codex CLI/2025-09-02-4-agent-mode-changes-in-rust-v0-28-0|4 Agent Mode changes in rust-v0.28.0]]
+- Later: 2025-08-29 · Replit · [[Changes/Replit/2025-08-29-agent-infrastructure-upgrades|Agent infrastructure upgrades]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

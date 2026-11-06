@@ -5,20 +5,20 @@ description: 'Codex CLI · 2026-02-25 · Voice and Audio: You can now dictate pr
   by holding the spacebar to record and transcribe voice input directly in the TUI.
   This…'
 diffusion:
-  first_in_tracked: '[[Changes/Aider/2023-08-11-voice-to-code-https-aider-chat-docs-voice-html-support-which-allows-you-to-code|Voice-to-code((source
-    link) support, which allows you…]]'
+  first_in_tracked: '[[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2
+    Voice and Audio changes in 0.3.7]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 929
+  lag_days: 961
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 307de2552b97f4eb884e5a76381297a068405733cec05f20e11988e1af093e31
+machine_hash: 6bf59759a7dc1541baba2558eb6a3ec25af5e439016d4b0ef21962471c49bec4
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -46,12 +46,10 @@ record:
   title: Dictate prompts by holding the spacebar to record and transcribe voice input…
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-01-20-we-re-making-an-update-to-chatgpt-voice-for-paid-users-that-improves-its-ability|Voice
-  Updates]]'
-- '[[Changes/ChatGPT/2026-01-26-we-ve-improved-search-responses-in-chatgpt-voice-to-deliver-more-complete-up-to|Improvements
-  to search response quality in Voice]]'
-- '[[Changes/ChatGPT/2026-02-12-we-re-making-an-update-to-chatgpt-voice-that-improves-its-ability-to-follow-user|ChatGPT
-  Voice Update]]'
+- '[[Changes/ElevenLabs/2026-02-23-removed-endpoints|Removed Endpoints]]'
+- '[[Changes/ElevenLabs/2026-02-23-voices|Voices]]'
+- '[[Changes/Open WebUI/2026-02-23-voice-dictation-shortcut-users-can-now-toggle-voice-dictation-using-cmd-shift-l|⌨️
+  Voice dictation shortcut. Users can now toggle voice dictation using…]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-02-25-rust-v0-105-0-github-290476287-0c72d1ed|codex-cli-2026-02-25-rust-v0-105-0-github-290476287-0c72d1ed]]'
 source_type: github_releases
 theme: voice
@@ -94,14 +92,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Voice and Audio
 
-- Earlier: 2026-02-12 · ChatGPT · [[Changes/ChatGPT/2026-02-12-we-re-making-an-update-to-chatgpt-voice-that-improves-its-ability-to-follow-user|ChatGPT Voice Update]]
+- Earlier: 2026-02-23 · Open WebUI · [[Changes/Open WebUI/2026-02-23-voice-dictation-shortcut-users-can-now-toggle-voice-dictation-using-cmd-shift-l|⌨️ Voice dictation shortcut. Users can now toggle voice dictation using…]]
 - Later: 2026-02-27 · ChatGPT · [[Changes/ChatGPT/2026-02-27-improved-dictation-visuals-dictation-now-has-a-clearer-more-streamlined-interfac|Improved dictation visuals]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-08-11 · Aider · [[Changes/Aider/2023-08-11-voice-to-code-https-aider-chat-docs-voice-html-support-which-allows-you-to-code|Voice-to-code((source link) support, which allows you…]]
+- Earliest same-theme entry in the tracked set: 2023-07-10 · Dify · [[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2 Voice and Audio changes in 0.3.7]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: accessibility-localization
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 83740c1ca4e4c8fadd7e00e080c172a7bde27c3da33fc7ad61c81d95806ca294
+machine_hash: 6a0ea8271c8d52a77b63c31a7118c8ac0fc77933efccec8ef9efe2883cd88bb9
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -51,8 +51,8 @@ record:
   title: '#28770 [connectors] Ignore synthetic links for app accessibility @adaley-openai'
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-05-07-tui-startup-and-accessibility-were-tightened-by-bounding-terminal-probes-clearin|TUI
-  startup and accessibility were tightened by bounding terminal probes, clearing…]]'
+- '[[Changes/Open WebUI/2026-06-01-keyboard-and-screen-reader-access-to-menus-the-integrations-more-options-and-use|♿
+  Keyboard and screen reader access to menus. The integrations, more-options…]]'
 - '[[Changes/Claude Code/2026-06-12-session-titles-are-now-generated-in-the-language-of-your-conversation-set-the-la|Session
   titles are now generated in the language of your conversation…]]'
 - '[[Changes/GitHub Copilot CLI/2026-06-13-improve-color-contrast-in-github-themes-to-meet-wcag-aa-accessibility-standards|Improve
@@ -102,7 +102,7 @@ type: change
 ## Nearby in Accessibility and Localization
 
 - Earlier: 2026-06-13 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-06-13-improve-color-contrast-in-github-themes-to-meet-wcag-aa-accessibility-standards|Improve color contrast in GitHub themes to meet WCAG AA accessibility standards]]
-- Later: 2026-07-03 · Claude Code · [[Changes/Claude Code/2026-07-03-improved-screen-reader-output-decorative-glyphs-are-now-hidden-transcript-symbol|Improved screen-reader output]]
+- Later: 2026-06-25 · Dify · [[Changes/Dify/2026-06-25-numerous-web-ui-and-accessibility-focus-ring-polish-fixes|Numerous web UI and accessibility/focus-ring polish fixes]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

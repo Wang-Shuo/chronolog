@@ -4,20 +4,20 @@ date: '2026-09-23'
 description: 'ChatGPT · 2026-09-23 · Voice and Audio: Live now supports plugins on
   web, iOS, and Android. You can use the plugins and connected apps available to your…'
 diffusion:
-  first_in_tracked: '[[Changes/Aider/2023-08-11-voice-to-code-https-aider-chat-docs-voice-html-support-which-allows-you-to-code|Voice-to-code((source
-    link) support, which allows you…]]'
+  first_in_tracked: '[[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2
+    Voice and Audio changes in 0.3.7]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1139
+  lag_days: 1171
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: eac669ae34d231b91ebcb67e259ea697ad4492b87696f4746a62ce8ffa1fb7ab
+machine_hash: c995a14eaf8f7d92f1b343fd73f972b86e2064e1c3b7b963c7d0f709de7c12ae
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -64,10 +64,9 @@ record:
   title: Use plugins in Voice and get work done by speaking
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-09-09-20-voice-and-audio-changes-in-rust-v0-154-0|20 Voice
-  and Audio changes in rust-v0.154.0]]'
-- '[[Changes/Codex CLI/2026-09-17-20-voice-and-audio-changes-in-rust-v0-155-0|20 Voice
-  and Audio changes in rust-v0.155.0]]'
+- '[[Changes/ElevenLabs/2026-09-21-text-to-speech|Text to Speech]]'
+- '[[Changes/Open WebUI/2026-09-21-5-voice-and-audio-changes-in-v0-11-4|5 Voice and
+  Audio changes in v0.11.4]]'
 - '[[Changes/Codex CLI/2026-09-22-17-voice-and-audio-changes-in-rust-v0-156-0|17 Voice
   and Audio changes in rust-v0.156.0]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-09-23-use-plugins-in-voice-and-get-work-done-by-speaking-fa63def1|chatgpt-2026-09-23-use-plugins-in-voice-and-get-work-done-by-speaking-fa63def1]]'
@@ -107,7 +106,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-08-11 · Aider · [[Changes/Aider/2023-08-11-voice-to-code-https-aider-chat-docs-voice-html-support-which-allows-you-to-code|Voice-to-code((source link) support, which allows you…]]
+- Earliest same-theme entry in the tracked set: 2023-07-10 · Dify · [[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2 Voice and Audio changes in 0.3.7]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: b409716a08fe87c59a0db51f9ae8bdc0cf1746adb63862e379ba171b5089539d
+machine_hash: cf79f6628573539409f5393866ea12aeb23a964c570ea3b3357e704b9d7d477a
 product: openhands
 product_name: OpenHands
 record:
@@ -43,12 +43,11 @@ record:
   title: Optimize memory usage in FileEditObservation
   type: change
 related_changes:
-- '[[Changes/OpenHands/2025-01-07-performance-improvement-of-ui-during-long-sessions-by-amanape-in-https-github-co|Performance
-  improvement of UI during long sessions]]'
-- '[[Changes/Aider/2025-01-10-2-reliability-and-performance-changes-in-v0-71-0|2 Reliability
-  and Performance changes in v0.71.0]]'
-- '[[Changes/Cursor/2025-01-23-also-adds-mcp-support-team-configurable-blocklists-fixes-composer-stuck-on-gener|Also
-  adds MCP support, team-configurable blocklists, fixes Composer stuck…]]'
+- '[[Changes/Lovable/2025-02-07-from-python-to-go-https-lovable-dev-blog-from-python-to-go-for-stability-respons|From
+  Python to Go((source link) for stability…]]'
+- '[[Changes/Replit/2025-02-07-improved-database-viewer|Improved database viewer]]'
+- "[[Changes/Open WebUI/2025-02-13-connection-settings-stability-addressed-connection-settings-issues-that-were-cau|\U0001F511
+  Connection Settings Stability]]"
 source_release: '[[Releases/OpenHands/openhands-2025-02-13-0-24-0-github-200146983-89f4a101|openhands-2025-02-13-0-24-0-github-200146983-89f4a101]]'
 source_type: github_releases
 theme: reliability-performance
@@ -79,7 +78,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2025-01-23 · Cursor · [[Changes/Cursor/2025-01-23-also-adds-mcp-support-team-configurable-blocklists-fixes-composer-stuck-on-gener|Also adds MCP support, team-configurable blocklists, fixes Composer stuck…]]
+- Earlier: 2025-02-13 · Open WebUI · [[Changes/Open WebUI/2025-02-13-connection-settings-stability-addressed-connection-settings-issues-that-were-cau|🔑 Connection Settings Stability]]
 - Later: 2025-02-14 · ChatGPT · [[Changes/ChatGPT/2025-02-14-improved-android-conversation-parsing-performance|Improved Android conversation parsing performance]]
 <!-- chronolog:end -->
 

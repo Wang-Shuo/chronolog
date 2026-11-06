@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: d75ef305f7cce0ddd5f96d190be0f7a2a11ddd3fd4f51ced9084f7a8c82a30e6
+machine_hash: 8d85076bdc8b00ad7378bbd7eab37b80c6c3ec6d08f51634180994e950883df9
 product: cline
 product_name: Cline
 record:
@@ -42,8 +42,9 @@ record:
   title: 2 Model Support changes in v3.17.1
   type: change
 related_changes:
-- '[[Changes/Cline/2025-05-18-2-model-support-changes-in-v3-16-1|2 Model Support changes
-  in v3.16.1]]'
+- '[[Changes/Gemini/2025-05-20-add-your-own-files-to-deep-research-and-bring-reports-to-life-in-canvas-all-on-g|Add
+  your own files to Deep Research and bring reports to life in Canvas, all on Gemini
+  2.5]]'
 - '[[Changes/Cline/2025-05-22-add-support-for-anthropic-claude-sonnet-4-and-claude-opus-4-in-both-anthropic-an|Add
   support for Anthropic Claude Sonnet 4 and Claude Opus 4 in both Anthropic…]]'
 - '[[Changes/Cline/2025-05-22-add-support-for-claude-4-models-sonnet-4-and-opus-4-in-aws-bedrock-and-vertex-ai|Add

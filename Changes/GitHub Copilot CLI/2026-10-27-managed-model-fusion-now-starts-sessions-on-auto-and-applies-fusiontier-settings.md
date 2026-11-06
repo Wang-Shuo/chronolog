@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: f8bdb428b9612341eb9509c8d84508eb882bb8dd676e2bd87d1a9f18eb6da0db
+machine_hash: eaa52a2653f406b0b625ff55e034c5f6b4f584fe416a3e2d4e1e855b893f5666
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -81,7 +81,7 @@ type: change
 ## Nearby in Model Support
 
 - Earlier: 2026-10-27 · Gemini CLI · [[Changes/Gemini CLI/2026-10-27-add-banner-about-gemini-cli-not-being-optimized-for-gemini-4-by-srithreepo-in-ht|Add Banner about Gemini CLI not being optimized for Gemini 4]]
-- Later: 2026-10-27 · OpenHands · [[Changes/OpenHands/2026-10-27-refactor-settings-use-existing-model-profile-theme-aliases-by-enyst-in-https-git|refactor(settings): use existing model-profile theme aliases]]
+- Later: 2026-10-27 · Ollama · [[Changes/Ollama/2026-10-27-speculative-decoding-now-supports-dflash2-draft-models-on-mlx|Speculative decoding now supports DFlash2 draft models on MLX]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 7f82fdda36073970294df19c8d58f84b886b85ffdc40390404c68f3977d7f8e5
+machine_hash: 3bdd11b8a2244b1be2834c31bc4adbd6d83c27890c89e855d6e6c39affad232d
 product: cursor
 product_name: Cursor
 record:
@@ -76,7 +76,7 @@ type: change
 ## Nearby in Editor Experience
 
 - Earlier: 2023-11-30 · Cursor · [[Changes/Cursor/2023-11-30-more-reliable-copilot-changes-less-flashing-better-highlighting-of-what-s-new|More reliable Copilot++ changes: less flashing, better highlighting of what's new]]
-- Later: 2023-12-14 · Cursor · [[Changes/Cursor/2023-12-14-we-made-copilot-faster-smarter-more-constrained-and-switched-to-a-ghost-text-hit|Copilot++ Improvements]]
+- Later: 2023-12-08 · Dify · [[Changes/Dify/2023-12-08-chore-deps-bump-word-wrap-from-1-2-3-to-1-2-5-in-web-by-dependabot-in-https-gith|chore(deps): bump word-wrap from 1.2.3 to 1.2.5 in /web]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

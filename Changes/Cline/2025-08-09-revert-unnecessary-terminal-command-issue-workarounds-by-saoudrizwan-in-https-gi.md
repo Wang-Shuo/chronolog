@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 343e6673366fd0ce01c147be7a3cabe725994736ddfadd844f5daaed95fd9a7a
+machine_hash: 616fab263e35a514969782e370a3bde3b585da364c7196b3fea46889e0c50527
 product: cline
 product_name: Cline
 record:
@@ -41,8 +41,8 @@ record:
   title: Revert unnecessary terminal command issue workarounds
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2025-08-05-30-developer-workflow-changes-in-v0-1-17|30 Developer
-  Workflow changes in v0.1.17]]'
+- '[[Changes/Ollama/2025-08-05-the-model-can-be-downloaded-directly-in-ollama-s-new-app-or-via-the-terminal|The
+  model can be downloaded directly in Ollama’s new app or via the terminal]]'
 - '[[Changes/Gemini CLI/2025-08-06-31-developer-workflow-changes-in-v0-1-18|31 Developer
   Workflow changes in v0.1.18]]'
 - '[[Changes/Aider/2025-08-09-undo-output-now-shows-only-the-first-line-of-each-commit-message-making-it-easie|/undo
@@ -76,7 +76,7 @@ type: change
 ## Nearby in Developer Workflow
 
 - Earlier: 2025-08-09 · Aider · [[Changes/Aider/2025-08-09-undo-output-now-shows-only-the-first-line-of-each-commit-message-making-it-easie|/undo output now shows only the first line of each commit message, making…]]
-- Later: 2025-08-12 · Codex CLI · [[Changes/Codex CLI/2025-08-12-2-developer-workflow-changes-in-rust-v0-21-0|2 Developer Workflow changes in rust-v0.21.0]]
+- Later: 2025-08-09 · Open WebUI · [[Changes/Open WebUI/2025-08-09-2-developer-workflow-changes-in-v0-6-19|2 Developer Workflow changes in v0.6.19]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

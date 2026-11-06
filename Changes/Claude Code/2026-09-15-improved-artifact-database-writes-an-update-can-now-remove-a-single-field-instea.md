@@ -4,20 +4,20 @@ date: '2026-09-15'
 description: 'Claude Code · 2026-09-15 · Files and Data: Improved artifact database
   writes: an update can now remove a single field instead of rewriting the whole document'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-07-06-we-re-rolling-out-code-interpreter-to-all-chatgpt-plus-users-over-the-next-week-66255e|Code
-    interpreter is now rolling out in beta on web]]'
+  first_in_tracked: '[[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2
+    Files and Data changes in 0.2.2]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1167
+  lag_days: 1209
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: ca668cc2139fc23788e0371b506a1c895b237edab0a6610099e970e66c104e7e
+machine_hash: 509437f314c423c77f370a86f55c2351cea6a42b1073f57ed112b43fa93378b6
 product: claude-code
 product_name: Claude Code
 record:
@@ -90,13 +90,13 @@ type: change
 ## Nearby in Files and Data
 
 - Earlier: 2026-09-14 · Claude Code · [[Changes/Claude Code/2026-09-14-2-files-and-data-changes-in-v2-1-271|2 Files and Data changes in v2.1.271]]
-- Later: 2026-09-16 · OpenHands · [[Changes/OpenHands/2026-09-16-feat-track-authenticated-canvas-arrivals-by-neubig-in-https-github-com-openhands|feat: track authenticated Canvas arrivals]]
+- Later: 2026-09-16 · Claude · [[Changes/Claude/2026-09-16-create-designs-decks-and-docs-in-any-conversation|Create designs, decks, and docs in any conversation]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-07-06 · ChatGPT · [[Changes/ChatGPT/2023-07-06-we-re-rolling-out-code-interpreter-to-all-chatgpt-plus-users-over-the-next-week-66255e|Code interpreter is now rolling out in beta on web]]
+- Earliest same-theme entry in the tracked set: 2023-05-25 · Dify · [[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2 Files and Data changes in 0.2.2]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

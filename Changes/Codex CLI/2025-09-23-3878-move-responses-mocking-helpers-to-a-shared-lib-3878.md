@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 0ec0e4a41205bd2659d30e356a353011156604ef67f935b7f1d44d144b2f7be5
+machine_hash: b1eacdefeb03fce611f05c09ae81ad1aaee650aec81faf1a88f42625fc8e6c1c
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -42,12 +42,11 @@ record:
   title: '[#3878] Move responses mocking helpers to a shared lib (#3878)'
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2025-08-11-plus-box-canva-dropbox-hubspot-notion-microsoft-sharepoint-and-microsoft-teams|Plus:
-  Box, Canva, Dropbox, HubSpot, Notion, Microsoft SharePoint, and Microsoft Teams]]'
-- '[[Changes/Cline/2025-08-16-focus-chain-regex-moved-to-shared-by-canvrno-in-https-github-com-cline-cline-pul|Focus
-  Chain regex moved to /shared]]'
-- '[[Changes/Gemini CLI/2025-09-04-2-collaboration-changes-in-v0-3-0|2 Collaboration
-  changes in v0.3.0]]'
+- '[[Changes/Replit/2025-09-19-email-copying-from-members-page|Email copying from
+  members page]]'
+- '[[Changes/Replit/2025-09-19-deploy-is-now-publish|''Deploy'' is now ''Publish'']]'
+- "[[Changes/Dify/2025-09-22-customize-and-share-pipelines-by-importing-exporting-via-dsl-for-easier-reusabil|\U0001F504
+  Customize and share pipelines by importing/exporting via DSL for easier…]]"
 source_release: '[[Releases/Codex CLI/codex-cli-2025-09-23-rust-v0-40-0-github-249412506-64037925|codex-cli-2025-09-23-rust-v0-40-0-github-249412506-64037925]]'
 source_type: github_releases
 theme: collaboration
@@ -82,8 +81,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Collaboration
 
-- Earlier: 2025-09-04 · Gemini CLI · [[Changes/Gemini CLI/2025-09-04-2-collaboration-changes-in-v0-3-0|2 Collaboration changes in v0.3.0]]
-- Later: 2025-09-29 · Cursor · [[Changes/Cursor/2025-09-29-share-prompts-with-deeplinks-beta|Share prompts with deeplinks (beta)]]
+- Earlier: 2025-09-22 · Dify · [[Changes/Dify/2025-09-22-customize-and-share-pipelines-by-importing-exporting-via-dsl-for-easier-reusabil|🔄 Customize and share pipelines by importing/exporting via DSL for easier…]]
+- Later: 2025-09-25 · Open WebUI · [[Changes/Open WebUI/2025-09-25-editor-collaboration-functionality-was-refactored-to-reduce-package-size-by-390k|⚡ Editor collaboration functionality was refactored to reduce package size by 390KB…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

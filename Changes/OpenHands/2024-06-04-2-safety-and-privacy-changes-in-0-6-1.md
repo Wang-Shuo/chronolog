@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 256105c9972107ffd5a97d864af465165574caf9a82d8d19d0750fd807478330
+machine_hash: 1734d8f9f3e018b4d6b280b9d98229c3c052e7a684262cb9796b0574be0e6f50
 product: openhands
 product_name: OpenHands
 record:
@@ -43,12 +43,12 @@ record:
   title: 2 Safety and Privacy changes in 0.6.1
   type: change
 related_changes:
-- '[[Changes/Aider/2023-07-24-encourage-gpt-to-use-language-like-add-files-to-the-chat-to-ask-users-for-permis|Encourage
-  GPT to use language like "add files to the chat" to ask users…]]'
-- '[[Changes/ChatGPT/2023-08-28-today-we-re-launching-chatgpt-enterprise-which-offers-enterprise-grade-security-4958cf|Introducing
-  ChatGPT Enterprise]]'
-- '[[Changes/Cursor/2023-08-30-api-key-input-box-is-now-a-password-type|API Key input
-  box is now a password type]]'
+- '[[Changes/Dify/2024-05-09-2-safety-and-privacy-changes-in-0-6-7|2 Safety and Privacy
+  changes in 0.6.7]]'
+- '[[Changes/Dify/2024-05-13-and-we-also-removed-the-need-for-sys-admin-permission-for-the-sandbox-service|And
+  we also removed the need for SYS_ADMIN permission for the sandbox service]]'
+- '[[Changes/Dify/2024-06-04-chore-upgrade-sandbox-by-yeuoly-in-https-github-com-langgenius-dify-pull-4839|chore:
+  upgrade sandbox]]'
 source_release: '[[Releases/OpenHands/openhands-2024-06-04-0-6-1-github-158811079-9345253b|openhands-2024-06-04-0-6-1-github-158811079-9345253b]]'
 source_type: github_releases
 theme: safety-privacy
@@ -85,8 +85,8 @@ Source: https://github.com/OpenHands/OpenHands/releases/tag/0.6.1
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Safety and Privacy
 
-- Earlier: 2023-08-30 · Cursor · [[Changes/Cursor/2023-08-30-api-key-input-box-is-now-a-password-type|API Key input box is now a password type]]
-- Later: 2024-06-29 · OpenHands · [[Changes/OpenHands/2024-06-29-12-safety-and-privacy-changes-in-0-7-0|12 Safety and Privacy changes in 0.7.0]]
+- Earlier: 2024-06-04 · Dify · [[Changes/Dify/2024-06-04-chore-upgrade-sandbox-by-yeuoly-in-https-github-com-langgenius-dify-pull-4839|chore: upgrade sandbox]]
+- Later: 2024-06-12 · Open WebUI · [[Changes/Open WebUI/2024-06-12-mixed-content-with-https-issue-resolved-a-problem-where-mixed-content-http-and-h|🔒 Mixed Content with HTTPS Issue]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 0c8f29059f31442983baa942c2d2308d130a16c1bfe2e8b64d77fa01a34b3940
+machine_hash: 9b1dc26a73488a5e0a85175e4b3bc048258c5eb4630c7c63b9da24ae81c863da
 product: claude-code
 product_name: Claude Code
 record:
@@ -44,12 +44,11 @@ record:
   title: Improved the context-limit error to say when auto-compact is off and point…
   type: change
 related_changes:
-- '[[Changes/OpenHands/2026-08-13-feat-context-window-usage-meter-usage-drawer-and-manual-compaction-by-georgeglar|feat:
-  context window usage meter, usage drawer, and manual compaction]]'
-- '[[Changes/Claude Code/2026-08-14-improved-apps-gateway-error-forwarding-400-413-errors-from-vertex-foundry-and-cl|Improved
-  apps gateway error forwarding]]'
 - '[[Changes/Claude Code/2026-08-17-2-context-window-changes-in-v2-1-234|2 Context
   Window changes in v2.1.234]]'
+- '[[Changes/Lovable/2026-08-17-improved-validation-for-attachment-uploads|Improved
+  validation for attachment uploads]]'
+- '[[Changes/Lovable/2026-08-17-improved-image-viewer|Improved image viewer]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-08-18-v2-1-235-github-372521030-3c3fae7f|claude-code-2026-08-18-v2-1-235-github-372521030-3c3fae7f]]'
 source_type: github_releases
 theme: context-window
@@ -81,7 +80,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Context Window
 
-- Earlier: 2026-08-17 · Claude Code · [[Changes/Claude Code/2026-08-17-2-context-window-changes-in-v2-1-234|2 Context Window changes in v2.1.234]]
+- Earlier: 2026-08-17 · Lovable · [[Changes/Lovable/2026-08-17-improved-image-viewer|Improved image viewer]]
 - Later: 2026-08-18 · Codex CLI · [[Changes/Codex CLI/2026-08-18-13-context-window-changes-in-rust-v0-148-0|13 Context Window changes in rust-v0.148.0]]
 <!-- chronolog:end -->
 

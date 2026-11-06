@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 8fc1451dc21913cabd8e45425330523f97dce371fd3a66e86070b80a33cf3d41
+machine_hash: d9fca995037df87926815f9fd37bd8a2a0b201a2bfabd45e504e8ad92f5e79f0
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -42,10 +42,8 @@ record:
   title: 2 Agent Mode changes in rust-v0.39.0
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2025-09-10-3436-make-user-agent-optional-3436|♯3436 Make user_agent
-  optional (♯3436)]]'
-- '[[Changes/Cursor/2025-09-12-3-agent-mode-changes-in-1-6|3 Agent Mode changes in
-  1.6]]'
+- '[[Changes/Replit/2025-09-12-agent-3-launch|Agent 3 Launch]]'
+- '[[Changes/ElevenLabs/2025-09-15-agents-platform|Agents Platform]]'
 - '[[Changes/Gemini CLI/2025-09-17-feat-core-only-summarize-long-tool-output-for-shell-command-by-sandytao520-in-ht|feat(core):
   Only summarize long tool output for shell command]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2025-09-18-rust-v0-39-0-github-248440234-e03f419b|codex-cli-2025-09-18-rust-v0-39-0-github-248440234-e03f419b]]'
@@ -83,7 +81,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.39.0
 ## Nearby in Agent Mode
 
 - Earlier: 2025-09-17 · Gemini CLI · [[Changes/Gemini CLI/2025-09-17-feat-core-only-summarize-long-tool-output-for-shell-command-by-sandytao520-in-ht|feat(core): Only summarize long tool output for shell command]]
-- Later: 2025-09-29 · ChatGPT · [[Changes/ChatGPT/2025-09-29-we-re-introducing-instant-checkout-in-chatgpt-and-the-agentic-commerce-protocol-8cbf19|ChatGPT introduces Instant Checkout and the Agentic Commerce Protocol that powers…]]
+- Later: 2025-09-19 · Replit · [[Changes/Replit/2025-09-19-autonomy-level-control-for-agent|Autonomy level control for Agent]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

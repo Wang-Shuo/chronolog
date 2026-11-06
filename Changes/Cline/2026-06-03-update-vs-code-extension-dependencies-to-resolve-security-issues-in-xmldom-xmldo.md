@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 4789104c2ffc5b90c4e3908fdbb4997e8a1a8b9948c3ece6134fbc94d22c3745
+machine_hash: de1d3e1356b6e79329007b5ca522befe4726c2a90e859cfda4a067d78fea34a0
 product: cline
 product_name: Cline
 record:
@@ -43,8 +43,8 @@ record:
   title: Update VS Code extension dependencies to resolve security issues…
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-06-01-11-safety-and-privacy-changes-in-rust-v0-136-0|11
-  Safety and Privacy changes in rust-v0.136.0]]'
+- '[[Changes/Open WebUI/2026-06-01-7-safety-and-privacy-changes-in-v0-9-6|7 Safety
+  and Privacy changes in v0.9.6]]'
 - '[[Changes/ChatGPT/2026-06-02-we-re-rolling-out-active-sessions-a-new-security-feature-in-chatgpt-that-helps-u-51e977|ChatGPT
   rolls out Active sessions, a new security feature that helps users review…]]'
 - '[[Changes/Claude Code/2026-06-03-4-safety-and-privacy-changes-in-v2-1-162|4 Safety

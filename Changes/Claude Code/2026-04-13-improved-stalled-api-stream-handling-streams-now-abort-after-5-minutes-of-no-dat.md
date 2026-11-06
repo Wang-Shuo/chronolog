@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: a6bf161aa200d6b9fde3f7927c69fa09d8b502f28c716475666ec9ccda73acc7
+machine_hash: 93890d15109e3cb754d11eaf5fe9c0441d23b26c60cf464336a3bf6ad04cdeca
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,12 +45,12 @@ record:
   title: Improved stalled API stream handling
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-04-09-improved-rendering-performance-with-a-new-simplified-inline-renderer|Improved
-  rendering performance with a new simplified inline renderer]]'
 - '[[Changes/Claude Code/2026-04-10-improved-brief-mode-to-retry-once-when-claude-responds-with-plain-text-instead-o|Improved
   brief mode to retry once when Claude responds with plain text instead…]]'
 - '[[Changes/Codex CLI/2026-04-10-2-reliability-and-performance-changes-in-rust-v0-119-0|2
   Reliability and Performance changes in rust-v0.119.0]]'
+- '[[Changes/Replit/2026-04-10-choose-where-your-app-runs-with-publishing-geography|Choose
+  where your app runs with publishing geography]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-04-13-v2-1-105-github-308569432-65a12cd3|claude-code-2026-04-13-v2-1-105-github-308569432-65a12cd3]]'
 source_type: github_releases
 theme: reliability-performance
@@ -84,7 +84,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2026-04-10 · Codex CLI · [[Changes/Codex CLI/2026-04-10-2-reliability-and-performance-changes-in-rust-v0-119-0|2 Reliability and Performance changes in rust-v0.119.0]]
+- Earlier: 2026-04-10 · Replit · [[Changes/Replit/2026-04-10-choose-where-your-app-runs-with-publishing-geography|Choose where your app runs with publishing geography]]
 - Later: 2026-04-13 · Cursor · [[Changes/Cursor/2026-04-13-closing-tabs-is-now-less-likely-to-glitch-the-file-tree-and-recovery-is-faster|Closing tabs is now less likely to glitch the file tree, and recovery is faster]]
 <!-- chronolog:end -->
 

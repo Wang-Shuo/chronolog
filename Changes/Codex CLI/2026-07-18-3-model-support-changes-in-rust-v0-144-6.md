@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: a8360e573b083e1a6cd2f5312c491f5dfb0f7a28a23adabce57e434dd7a9cbff
+machine_hash: cd05b230775191e1ab29e2b533428d4404e616e1ac16fea074b5c6ee25683285
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -45,12 +45,12 @@ record:
   title: 3 Model Support changes in rust-v0.144.6
   type: change
 related_changes:
-- '[[Changes/Cline/2026-07-16-add-gpt-5-6-chatgpt-subscription-models|Add GPT-5.6
-  ChatGPT subscription models]]'
-- '[[Changes/GitHub Copilot CLI/2026-07-16-3-model-support-changes-in-v1-0-71|3 Model
-  Support changes in v1.0.71]]'
+- '[[Changes/Ollama/2026-07-16-2-model-support-changes-in-v0-32-1|2 Model Support
+  changes in v0.32.1]]'
 - '[[Changes/Claude Code/2026-07-17-3-model-support-changes-in-v2-1-212|3 Model Support
   changes in v2.1.212]]'
+- '[[Changes/Dify/2026-07-17-12-model-support-changes-in-1-16-0|12 Model Support changes
+  in 1.16.0]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-07-18-rust-v0-144-6-github-356112050-c82eee79|codex-cli-2026-07-18-rust-v0-144-6-github-356112050-c82eee79]]'
 source_type: github_releases
 theme: model-support
@@ -83,7 +83,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.144.6
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-07-17 · Claude Code · [[Changes/Claude Code/2026-07-17-3-model-support-changes-in-v2-1-212|3 Model Support changes in v2.1.212]]
+- Earlier: 2026-07-17 · Dify · [[Changes/Dify/2026-07-17-12-model-support-changes-in-1-16-0|12 Model Support changes in 1.16.0]]
 - Later: 2026-07-20 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-07-20-preserve-pasted-prompt-content-when-changing-models-through-ctrl-x-model|Preserve pasted prompt content when changing models through Ctrl+X /model]]
 <!-- chronolog:end -->
 

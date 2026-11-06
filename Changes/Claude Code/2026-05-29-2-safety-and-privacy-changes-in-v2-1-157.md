@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: a9f7fa470826b22f4ae31fda219e66445f59958321c6ff1cd618d2bd75e0642a
+machine_hash: 813744d7353ca79295c7df9b526637ca7336f5ed2cf62b5bb1c039006aa2a644
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,8 +45,7 @@ record:
   title: 2 Safety and Privacy changes in v2.1.157
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2026-05-27-4-safety-and-privacy-changes-in-v0-44-0|4 Safety
-  and Privacy changes in v0.44.0]]'
+- '[[Changes/Lovable/2026-05-27-sensitive-data-scanning|Sensitive data scanning]]'
 - '[[Changes/Claude Code/2026-05-28-2-safety-and-privacy-changes-in-v2-1-153|2 Safety
   and Privacy changes in v2.1.153]]'
 - '[[Changes/Codex CLI/2026-05-28-7-safety-and-privacy-changes-in-rust-v0-135-0|7

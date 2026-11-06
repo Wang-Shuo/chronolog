@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: f11ef057692eea1f292a384bca66c4ae7f8d8709f5307dc377bd9603dba602f1
+machine_hash: 3d210e57e9b51f553e12d155cee317beace11320b898397df9cbd09bd4277d8b
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -40,10 +40,10 @@ record:
   title: Add grep tool Codex models
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2025-12-09-8-model-support-changes-in-rust-v0-66-0|8 Model
-  Support changes in rust-v0.66.0]]'
 - '[[Changes/Gemini CLI/2025-12-09-7-model-support-changes-in-v0-20-0|7 Model Support
   changes in v0.20.0]]'
+- '[[Changes/Ollama/2025-12-09-4-model-support-changes-in-v0-13-3|4 Model Support
+  changes in v0.13.3]]'
 - '[[Changes/Codex CLI/2025-12-10-3-model-support-changes-in-rust-v0-69-0|3 Model
   Support changes in rust-v0.69.0]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2025-12-10-v0-0-368-github-269286124-e11dbdcf|github-copilot-cli-2025-12-10-v0-0-368-github-269286124-e11dbdcf]]'
@@ -75,7 +75,7 @@ type: change
 ## Nearby in Model Support
 
 - Earlier: 2025-12-10 · Codex CLI · [[Changes/Codex CLI/2025-12-10-3-model-support-changes-in-rust-v0-69-0|3 Model Support changes in rust-v0.69.0]]
-- Later: 2025-12-11 · ChatGPT · [[Changes/ChatGPT/2025-12-11-today-we-re-releasing-gpt-5-2-the-next-upgrade-to-the-gpt-5-series-gpt-5-2-is-sm|Today, we’re releasing GPT-5.2, the next upgrade to the GPT-5 series]]
+- Later: 2025-12-10 · Lovable · [[Changes/Lovable/2025-12-10-opus-4-5-as-a-core-model|Opus 4.5 as a core model]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 4d606e03a634802eecae57d86f12f89c098c12c5355dd5a1180e91e5ec330bb0
+machine_hash: 84436275c56d53229d56ee8b0b38df40134f36b0eb3d4b2a9ba1fe95c0d37412
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -42,12 +42,12 @@ record:
   title: 2 Interface Experience changes in v0.1.14
   type: change
 related_changes:
-- '[[Changes/OpenHands/2025-07-02-added-tooltip-for-suggested-tasks-by-hieptl-in-https-github-com-all-hands-ai-ope|Added
-  tooltip for suggested tasks]]'
-- '[[Changes/Cursor/2025-07-03-chat-rendering-bugs-resolved-toolcall-display-overflow-issues|Chat
-  rendering bugs resolved (toolcall display, overflow issues)]]'
 - '[[Changes/Gemini CLI/2025-07-19-add-numbers-to-selection-list-by-miguelsolorio-in-https-github-com-google-gemini|Add
   numbers to selection list]]'
+- '[[Changes/Open WebUI/2025-07-19-3-interface-experience-changes-in-v0-6-17|3 Interface
+  Experience changes in v0.6.17]]'
+- '[[Changes/Dify/2025-07-23-3-interface-experience-changes-in-1-7-0|3 Interface Experience
+  changes in 1.7.0]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2025-07-25-v0-1-14-github-235287807-631ef7fa|gemini-cli-2025-07-25-v0-1-14-github-235287807-631ef7fa]]'
 source_type: github_releases
 theme: interface-experience
@@ -92,8 +92,8 @@ Source: https://github.com/google-gemini/gemini-cli/releases/tag/v0.1.14
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2025-07-19 · Gemini CLI · [[Changes/Gemini CLI/2025-07-19-add-numbers-to-selection-list-by-miguelsolorio-in-https-github-com-google-gemini|Add numbers to selection list]]
-- Later: 2025-07-30 · Gemini CLI · [[Changes/Gemini CLI/2025-07-30-2-interface-experience-changes-in-v0-1-15|2 Interface Experience changes in v0.1.15]]
+- Earlier: 2025-07-23 · Dify · [[Changes/Dify/2025-07-23-3-interface-experience-changes-in-1-7-0|3 Interface Experience changes in 1.7.0]]
+- Later: 2025-07-28 · Dify · [[Changes/Dify/2025-07-28-3-interface-experience-changes-in-1-7-1|3 Interface Experience changes in 1.7.1]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

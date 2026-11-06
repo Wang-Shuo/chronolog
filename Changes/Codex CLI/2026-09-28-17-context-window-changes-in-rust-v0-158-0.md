@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: bc2bcb44fe5f9082ba31ecba8b12601ea0cb82c1118b0aac9a7bc8ab8c7fe89b
+machine_hash: 65da4c6f264fd05fbf94417b80d2ea481e5e685c28d2bcd8a4633c7faf9769de
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -76,12 +76,12 @@ record:
   title: 17 Context Window changes in rust-v0.158.0
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-25-2-context-window-changes-in-v2-1-283|2 Context
-  Window changes in v2.1.283]]'
 - '[[Changes/Codex CLI/2026-09-25-6-context-window-changes-in-rust-v0-157-0|6 Context
   Window changes in rust-v0.157.0]]'
 - '[[Changes/OpenHands/2026-09-25-refactor-remove-test-conversation-id-fallbacks-in-websocket-context-add-state-up|refactor:
   remove test-conversation-id fallbacks in websocket context + add…]]'
+- '[[Changes/v0/2026-09-25-explore-your-project-in-the-new-lightweight-code-tab-edit-code-manage-files-and|New
+  Code Viewer]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-09-28-rust-v0-158-0-github-397962047-f52f49e7|codex-cli-2026-09-28-rust-v0-158-0-github-397962047-f52f49e7]]'
 source_type: github_releases
 theme: context-window
@@ -158,8 +158,8 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.158.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Context Window
 
-- Earlier: 2026-09-25 · OpenHands · [[Changes/OpenHands/2026-09-25-refactor-remove-test-conversation-id-fallbacks-in-websocket-context-add-state-up|refactor: remove test-conversation-id fallbacks in websocket context + add…]]
-- Later: 2026-09-29 · Claude Code · [[Changes/Claude Code/2026-09-29-2-context-window-changes-in-v2-1-285|2 Context Window changes in v2.1.285]]
+- Earlier: 2026-09-25 · v0 · [[Changes/v0/2026-09-25-explore-your-project-in-the-new-lightweight-code-tab-edit-code-manage-files-and|New Code Viewer]]
+- Later: 2026-09-28 · Ollama · [[Changes/Ollama/2026-09-28-send-context-and-one-or-more-questions|Send context and one or more questions]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

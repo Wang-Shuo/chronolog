@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 6b4f7e8a6f2bee466d9338442e4d9c2252e65a7a1f904215dbe00755ccf1564c
+machine_hash: f5ec8d77fe09ed6b955420177179321f8ad2f965482a8a4614e6131e6be6475c
 product: claude-code
 product_name: Claude Code
 record:
@@ -43,10 +43,10 @@ record:
   title: Improved memory usage and startup time when resuming large sessions
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-03-12-added-actionable-suggestions-to-context-command-identifies-context-heavy-tools-m|Added
-  actionable suggestions to /context command]]'
 - '[[Changes/GitHub Copilot CLI/2026-03-16-3-reliability-and-performance-changes-in-v1-0-6|3
   Reliability and Performance changes in v1.0.6]]'
+- '[[Changes/Lovable/2026-03-16-themes-have-been-removed-from-the-design-view-due-to-low-usage-and-performance-i|Themes
+  have been removed from the Design view due to low usage and performance issues]]'
 - '[[Changes/Claude Code/2026-03-17-2-reliability-and-performance-changes-in-v2-1-77|2
   Reliability and Performance changes in v2.1.77]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-03-17-v2-1-78-github-298204446-1f2c1721|claude-code-2026-03-17-v2-1-78-github-298204446-1f2c1721]]'
@@ -81,7 +81,7 @@ type: change
 ## Nearby in Reliability and Performance
 
 - Earlier: 2026-03-17 · Claude Code · [[Changes/Claude Code/2026-03-17-2-reliability-and-performance-changes-in-v2-1-77|2 Reliability and Performance changes in v2.1.77]]
-- Later: 2026-03-18 · Claude Code · [[Changes/Claude Code/2026-03-18-2-reliability-and-performance-changes-in-v2-1-79|2 Reliability and Performance changes in v2.1.79]]
+- Later: 2026-03-17 · Dify · [[Changes/Dify/2026-03-17-2-reliability-and-performance-changes-in-1-13-1|2 Reliability and Performance changes in 1.13.1]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

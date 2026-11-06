@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: d91fa7b63d3248b682c8a18f513a2e82f684a8b26b222042aefae93dfd0ff5bb
+machine_hash: 1f96e5688a3682f46467c6ac39588618c4437da456941f9afd368057cd2cbbd9
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -42,12 +42,12 @@ record:
   title: '#20045 Fix plan mode nudge test after task completion signature change @canvrno-oai'
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-04-23-6-editor-experience-changes-in-v1-0-35|6
-  Editor Experience changes in v1.0.35]]'
-- '[[Changes/GitHub Copilot CLI/2026-04-24-2-editor-experience-changes-in-v1-0-36|2
-  Editor Experience changes in v1.0.36]]'
+- '[[Changes/Open WebUI/2026-04-24-2-editor-experience-changes-in-v0-9-2|2 Editor
+  Experience changes in v0.9.2]]'
 - '[[Changes/GitHub Copilot CLI/2026-04-27-add-copilot-completion-bash-zsh-fish-subcommand-to-generate-static-shell-complet|Add
   copilot completion bash / zsh / fish subcommand to generate static shell…]]'
+- '[[Changes/Dify/2026-04-29-6-editor-experience-changes-in-1-14-0|6 Editor Experience
+  changes in 1.14.0]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-04-30-rust-v0-128-0-github-315916672-1708ab89|codex-cli-2026-04-30-rust-v0-128-0-github-315916672-1708ab89]]'
 source_type: github_releases
 theme: editor-experience
@@ -88,7 +88,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2026-04-27 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-04-27-add-copilot-completion-bash-zsh-fish-subcommand-to-generate-static-shell-complet|Add copilot completion bash / zsh / fish subcommand to generate static shell…]]
+- Earlier: 2026-04-29 · Dify · [[Changes/Dify/2026-04-29-6-editor-experience-changes-in-1-14-0|6 Editor Experience changes in 1.14.0]]
 - Later: 2026-05-01 · Claude Code · [[Changes/Claude Code/2026-05-01-powershell-tool-bare-e-g-git-diff-file-is-no-longer-mis-flagged-as-the-stop-pars|PowerShell tool: bare -- (e.g. git diff -- file) is no longer mis-flagged…]]
 <!-- chronolog:end -->
 

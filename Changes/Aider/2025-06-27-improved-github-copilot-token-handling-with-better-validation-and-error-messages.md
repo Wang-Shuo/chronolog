@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: d6164fab0cce4af935b622839993ddfed7c369c7cdf77b505e1f538dfbf90146
+machine_hash: 250e16df329db6e3e192f1c3f04f4ecd7ad6c4ea7b9a7662f1a59a141b87c56f
 product: aider
 product_name: Aider
 record:
@@ -44,11 +44,11 @@ record:
   title: Improved GitHub Copilot token handling with better validation and error messages…
   type: change
 related_changes:
-- '[[Changes/Aider/2025-05-30-2-editor-experience-changes-in-v0-84-0|2 Editor Experience
-  changes in v0.84.0]]'
 - '[[Changes/OpenHands/2025-06-10-added-feature-flag-vscode-in-new-tab-for-opening-vscode-in-a-new-tab-by-tofarr-i|Added
   feature flag VSCODE_IN_NEW_TAB for opening vscode in a new tab]]'
 - '[[Changes/Windsurf/2025-06-10-planning-mode|Planning Mode]]'
+- '[[Changes/Dify/2025-06-16-dead-code-cleanup-we-ve-removed-some-obsolete-code-utilizing-vulture-keeping-our|Dead
+  Code Cleanup]]'
 source_release: '[[Releases/Aider/aider-2025-06-27-v0-85-0-github-228491827-20a4ecc7|aider-2025-06-27-v0-85-0-github-228491827-20a4ecc7]]'
 source_type: github_releases
 theme: editor-experience
@@ -83,7 +83,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2025-06-10 · Windsurf · [[Changes/Windsurf/2025-06-10-planning-mode|Planning Mode]]
+- Earlier: 2025-06-16 · Dify · [[Changes/Dify/2025-06-16-dead-code-cleanup-we-ve-removed-some-obsolete-code-utilizing-vulture-keeping-our|Dead Code Cleanup]]
 - Later: 2025-07-01 · Gemini CLI · [[Changes/Gemini CLI/2025-07-01-2-editor-experience-changes-in-v0-1-8|2 Editor Experience changes in v0.1.8]]
 <!-- chronolog:end -->
 

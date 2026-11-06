@@ -4,20 +4,20 @@ date: '2026-06-26'
 description: 'ChatGPT · 2026-06-26 · Files and Data: The personal finance experience
   in ChatGPT is rolling out to Plus users in the U.S. on web and iOS. It is also now…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-07-06-we-re-rolling-out-code-interpreter-to-all-chatgpt-plus-users-over-the-next-week-66255e|Code
-    interpreter is now rolling out in beta on web]]'
+  first_in_tracked: '[[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2
+    Files and Data changes in 0.2.2]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1086
+  lag_days: 1128
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 7f4ae1439502ed83aad51ba7ce9bca2a58c2be2217fcdab2f4dfe4d5aee39cd8
+machine_hash: 0f45ceb4d3701b1962fe216b35f48f5c3024e65b5e3c7bfeee0f4375ce31d8bf
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -51,12 +51,12 @@ record:
   title: Personal finance in ChatGPT expands to Plus users and Android
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-06-16-recover-from-unreadable-native-document-attachments-by-falling-back-to-file-path|Recover
-  from unreadable native document attachments by falling back to file-path uploads]]'
-- '[[Changes/Codex CLI/2026-06-22-29086-document-raw-response-item-compatibility-jif-oai|♯29086
-  Document raw response item compatibility @jif-oai]]'
 - '[[Changes/GitHub Copilot CLI/2026-06-23-preserve-open-canvas-instances-across-reconnects-and-restarts|Preserve
   open canvas instances across reconnects and restarts]]'
+- '[[Changes/Dify/2026-06-25-6-files-and-data-changes-in-1-15-0|6 Files and Data changes
+  in 1.15.0]]'
+- '[[Changes/Ollama/2026-06-25-docs-document-max-think-level-by-parthsareen-in-https-github-com-ollama-ollama-p|docs:
+  document max think level]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-06-26-personal-finance-in-chatgpt-expands-to-plus-users-and-android-e1f9ce56|chatgpt-2026-06-26-personal-finance-in-chatgpt-expands-to-plus-users-and-android-e1f9ce56]]'
 source_type: chatgpt_changelog
 theme: file-data
@@ -83,14 +83,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Files and Data
 
-- Earlier: 2026-06-23 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-06-23-preserve-open-canvas-instances-across-reconnects-and-restarts|Preserve open canvas instances across reconnects and restarts]]
+- Earlier: 2026-06-25 · Ollama · [[Changes/Ollama/2026-06-25-docs-document-max-think-level-by-parthsareen-in-https-github-com-ollama-ollama-p|docs: document max think level]]
 - Later: 2026-06-29 · Claude Code · [[Changes/Claude Code/2026-06-29-added-clickable-file-attachments-in-chat-cmd-ctrl-click-reveals-the-file-in-find|Added clickable file attachments in chat]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-07-06 · ChatGPT · [[Changes/ChatGPT/2023-07-06-we-re-rolling-out-code-interpreter-to-all-chatgpt-plus-users-over-the-next-week-66255e|Code interpreter is now rolling out in beta on web]]
+- Earliest same-theme entry in the tracked set: 2023-05-25 · Dify · [[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2 Files and Data changes in 0.2.2]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

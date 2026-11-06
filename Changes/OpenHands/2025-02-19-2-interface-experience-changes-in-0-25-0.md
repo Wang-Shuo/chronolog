@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: e3f73ef8e43e68de87c0ba9c7fb4abb27320334bcb532e6de790659f256ad903
+machine_hash: 755b794b79636c4468195c99a1cde8ed2ea3a4b6f4d1a44f019f3f93ebe85ffa
 product: openhands
 product_name: OpenHands
 record:
@@ -82,7 +82,7 @@ Source: https://github.com/OpenHands/OpenHands/releases/tag/0.25.0
 ## Nearby in Interface Experience
 
 - Earlier: 2025-02-19 · Cursor · [[Changes/Cursor/2025-02-19-2-interface-experience-changes-in-0-46-x|2 Interface Experience changes in 0.46.x]]
-- Later: 2025-03-10 · Aider · [[Changes/Aider/2025-03-10-https-aider-chat-history-html|(source link)]]
+- Later: 2025-02-20 · Open WebUI · [[Changes/Open WebUI/2025-02-20-translation-updates-various-international-translation-refinements-ensure-better|🌍 Translation Updates]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

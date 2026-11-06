@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: aa7249fdf375bc5addc6154068549ab399a2f80310101a27d0c6b4819ca5aef4
+machine_hash: f547c347f899fa13a07380bd03a04db2000b9d80b7e47e8b9245a680ef6a7c77
 product: windsurf
 product_name: Windsurf
 record:
@@ -77,7 +77,7 @@ type: change
 ## Nearby in Reliability and Performance
 
 - Earlier: 2025-10-23 · Codex CLI · [[Changes/Codex CLI/2025-10-23-chore-ci-speed-up-macos-builds-by-using-larger-runner-by-javisoto-in-https-githu|chore(ci): Speed up macOS builds by using larger runner]]
-- Later: 2025-10-26 · Windsurf · [[Changes/Windsurf/2025-10-26-various-performance-improvements-and-bug-fixes|Various performance improvements and bug fixes]]
+- Later: 2025-10-24 · Replit · [[Changes/Replit/2025-10-24-plan-mode-improvements|Plan mode improvements]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

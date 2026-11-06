@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: b47200f466b2ad31b1bb5381123246dc7f99b59dcc7be3314d0d3d30172c1f50
+machine_hash: 979aee867ccd3177f098bc95cf10758c274063c5dec0fd720b73703db1242253
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -54,12 +54,12 @@ record:
   title: Run model availability check in the background to speed up startup
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2025-07-19-as-a-heads-up-https-github-com-openai-codex-pull-1596-changes-the-organization-o|As
-  a heads up, (source link) changes the organization…]]'
-- '[[Changes/Gemini CLI/2025-07-19-run-model-availability-check-in-the-background-to-speed-up-startup-by-sandytao52|Run
-  model availability check in the background to speed up startup]]'
+- '[[Changes/Open WebUI/2025-07-19-2-reliability-and-performance-changes-in-v0-6-17|2
+  Reliability and Performance changes in v0.6.17]]'
 - '[[Changes/Cline/2025-07-22-speed-up-e2e-tests-by-celestial-vault-in-https-github-com-cline-cline-pull-5045|Speed
   up E2E tests]]'
+- '[[Changes/Dify/2025-07-23-5-reliability-and-performance-changes-in-1-7-0|5 Reliability
+  and Performance changes in 1.7.0]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2025-07-25-v0-1-14-github-235287807-631ef7fa|gemini-cli-2025-07-25-v0-1-14-github-235287807-631ef7fa]]'
 source_type: github_releases
 theme: reliability-performance
@@ -100,7 +100,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2025-07-22 · Cline · [[Changes/Cline/2025-07-22-speed-up-e2e-tests-by-celestial-vault-in-https-github-com-cline-cline-pull-5045|Speed up E2E tests]]
+- Earlier: 2025-07-23 · Dify · [[Changes/Dify/2025-07-23-5-reliability-and-performance-changes-in-1-7-0|5 Reliability and Performance changes in 1.7.0]]
 - Later: 2025-07-29 · Cursor · [[Changes/Cursor/2025-07-29-agent-edits-are-now-faster-by-lazy-loading-linter-errors-search-replace-edit-lat|Faster edits]]
 <!-- chronolog:end -->
 

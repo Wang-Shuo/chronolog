@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 375a34476f097e527b49b9e400f7aa7c2ac46b041c0adf85dac1c540f54f05fd
+machine_hash: 0a62d2b3d7e875aef06a4600fbd1905a15f336af693c4543443ed44be9ca7816
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -66,10 +66,10 @@ record:
   title: 13 Model Support changes in rust-v0.147.0
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-08-06-plus-and-pro-users-can-now-use-an-updated-gpt-5-6-sol-in-chatgpt-with-more-relia-397840|Updates
-  to GPT‑5.6 in ChatGPT]]'
 - '[[Changes/Cline/2026-08-06-2-model-support-changes-in-v4-1-6|2 Model Support changes
   in v4.1.6]]'
+- '[[Changes/Lovable/2026-08-06-show-the-ai-s-thinking-in-your-app|Show the AI''s
+  thinking in your app]]'
 - '[[Changes/Claude Code/2026-08-07-changed-the-bash-tool-description-to-always-note-that-command-output-is-displaye|Changed
   the Bash tool description to always note that command output is displayed…]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-08-07-rust-v0-147-0-github-366471016-f6cfdee2|codex-cli-2026-08-07-rust-v0-147-0-github-366471016-f6cfdee2]]'
@@ -141,7 +141,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.147.0
 ## Nearby in Model Support
 
 - Earlier: 2026-08-07 · Claude Code · [[Changes/Claude Code/2026-08-07-changed-the-bash-tool-description-to-always-note-that-command-output-is-displaye|Changed the Bash tool description to always note that command output is displayed…]]
-- Later: 2026-08-07 · OpenHands · [[Changes/OpenHands/2026-08-07-feat-clarify-free-openhands-model-endpoints-by-juanmichelini-in-https-github-com|feat: clarify free OpenHands model endpoints]]
+- Later: 2026-08-07 · Lovable · [[Changes/Lovable/2026-08-07-reworked-ai-model-training-settings|Reworked AI model training settings]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

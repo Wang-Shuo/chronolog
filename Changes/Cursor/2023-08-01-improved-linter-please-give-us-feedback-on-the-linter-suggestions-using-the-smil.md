@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: d020fe3d939f5a49896a77e35206c2794003d4d007210a6e96a73a4825e8dd0b
+machine_hash: ae8e04c231253cd3a0b41c2406d3173b916cdd28f99df759acdac425db2f5494
 product: cursor
 product_name: Cursor
 record:
@@ -56,7 +56,8 @@ record:
   title: Improved linter
   type: change
 related_changes:
-- '[[Changes/Cursor/2023-07-27-linter-is-back|Linter is back!]]'
+- '[[Changes/Dify/2023-07-27-add-clean-unused-dataset-command-by-johnjyong-in-https-github-com-langgenius-dif|add
+  clean unused dataset command]]'
 - '[[Changes/Cursor/2023-07-28-better-support-for-remote-ssh|Better support for remote-ssh]]'
 - '[[Changes/Cursor/2023-07-28-ai-linter|AI linter]]'
 source_release: '[[Releases/Cursor/cursor-2023-08-01-0-6-1-nightly-0-6-2-nightly-https-cursor-com-changelog-0-6-1-nig-1e98131d|cursor-2023-08-01-0-6-1-nightly-0-6-2-nightly-https-cursor-com-changelog-0-6-1-nig-1e98131d]]'

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 71da676db4745af3fa241f496d6cf8535d783404ac8926a3dbb4af4fa2e3301f
+machine_hash: 2e9b0f4f0116a53d99a6052477339a474c1c3e7331f70b8430e62b65998d8ad5
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -42,10 +42,8 @@ record:
   title: 'docs: document GEMINI_CLI_HOME environment variable'
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-02-07-fast-mode-is-now-available-for-opus-4-6-learn-more-at-https-code-claude-com-docs|Fast
-  mode is now available for Opus 4.6]]'
-- '[[Changes/GitHub Copilot CLI/2026-02-07-add-support-for-claude-opus-4-6-fast-preview|Add
-  support for Claude Opus 4.6 Fast (Preview)]]'
+- '[[Changes/ElevenLabs/2026-02-09-javascript-sdk|JavaScript SDK]]'
+- '[[Changes/ElevenLabs/2026-02-09-python-sdk|Python SDK]]'
 - '[[Changes/ChatGPT/2026-02-10-we-re-making-an-update-to-gpt-5-2-instant-in-chatgpt-and-the-api-that-improves-r|GPT-5.2
   Instant Update]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2026-02-10-v0-28-0-github-285023966-1bd56186|gemini-cli-2026-02-10-v0-28-0-github-285023966-1bd56186]]'

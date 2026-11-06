@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 52344960bd7e2cfa17ea11f4c986d0edffa81441b7a1530c5b1d13c447a55c30
+machine_hash: ffce136890466a217ae5a5fc71da682eb6be0a3eabef0f85ddcbadd24da5694f
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -58,11 +58,12 @@ record:
     mode
   type: change
 related_changes:
-- '[[Changes/Windsurf/2026-07-17-devin-local|Devin Local]]'
-- '[[Changes/GitHub Copilot CLI/2026-07-20-the-sessions-sidebar-is-now-navigable-with-the-keyboard-and-mouse-arrows-open-an|The
-  Sessions sidebar is now navigable with the keyboard and mouse…]]'
 - '[[Changes/Codex CLI/2026-07-21-18-interface-experience-changes-in-rust-v0-145-0|18
   Interface Experience changes in rust-v0.145.0]]'
+- '[[Changes/Lovable/2026-07-21-invite-people-outside-your-workspace-to-an-internally-published-app|Invite
+  people outside your workspace to an internally published app]]'
+- '[[Changes/v0/2026-07-21-2-interface-experience-changes-in-slash-commands-the-shopify|2
+  Interface Experience changes in Slash commands, the Shopify…]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-07-23-v1-0-74-github-358979195-44813cc5|github-copilot-cli-2026-07-23-v1-0-74-github-358979195-44813cc5]]'
 source_type: github_releases
 theme: interface-experience
@@ -97,7 +98,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-07-21 · Codex CLI · [[Changes/Codex CLI/2026-07-21-18-interface-experience-changes-in-rust-v0-145-0|18 Interface Experience changes in rust-v0.145.0]]
+- Earlier: 2026-07-21 · v0 · [[Changes/v0/2026-07-21-2-interface-experience-changes-in-slash-commands-the-shopify|2 Interface Experience changes in Slash commands, the Shopify…]]
 - Later: 2026-07-24 · Claude Code · [[Changes/Claude Code/2026-07-24-2-interface-experience-changes-in-v2-1-219|2 Interface Experience changes in v2.1.219]]
 <!-- chronolog:end -->
 

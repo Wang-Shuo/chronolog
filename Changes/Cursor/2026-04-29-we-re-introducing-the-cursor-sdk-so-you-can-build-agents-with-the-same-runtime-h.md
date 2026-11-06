@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: b01b15aac9f3d35ba0d05f7b15db039e24c8790e03c5a4dc607e67cba051be5b
+machine_hash: 370489dd7bdc1818adeda15a34b78e47383eab544a5e0060d6e8ed967c0fbeea
 product: cursor
 product_name: Cursor
 record:
@@ -54,12 +54,12 @@ record:
   title: Cursor introduces the Cursor SDK so you can build agents with the same runtime…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-04-28-2-apps-and-integrations-changes-in-v2-1-122|2
-  Apps and Integrations changes in v2.1.122]]'
 - '[[Changes/Claude Code/2026-04-28-6-apps-and-integrations-changes-in-v2-1-121|6
   Apps and Integrations changes in v2.1.121]]'
 - '[[Changes/Gemini CLI/2026-04-28-2-apps-and-integrations-changes-in-v0-40-0|2 Apps
   and Integrations changes in v0.40.0]]'
+- '[[Changes/Ollama/2026-04-28-aligned-the-desktop-app-s-launch-page-with-ollama-launch-integrations|Aligned
+  the desktop app''s launch page with ollama launch integrations]]'
 source_release: '[[Releases/Cursor/cursor-2026-04-29-build-programmatic-agents-with-the-cursor-sdk-https-cursor-com-c-b4665fa3|cursor-2026-04-29-build-programmatic-agents-with-the-cursor-sdk-https-cursor-com-c-b4665fa3]]'
 source_type: cursor_changelog
 theme: apps-integrations
@@ -91,8 +91,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-04-28 · Gemini CLI · [[Changes/Gemini CLI/2026-04-28-2-apps-and-integrations-changes-in-v0-40-0|2 Apps and Integrations changes in v0.40.0]]
-- Later: 2026-04-30 · Codex CLI · [[Changes/Codex CLI/2026-04-30-37-apps-and-integrations-changes-in-rust-v0-128-0|37 Apps and Integrations changes in rust-v0.128.0]]
+- Earlier: 2026-04-28 · Ollama · [[Changes/Ollama/2026-04-28-aligned-the-desktop-app-s-launch-page-with-ollama-launch-integrations|Aligned the desktop app's launch page with ollama launch integrations]]
+- Later: 2026-04-29 · Dify · [[Changes/Dify/2026-04-29-48-apps-and-integrations-changes-in-1-14-0|48 Apps and Integrations changes in 1.14.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

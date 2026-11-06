@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 0c58354fda0af5768723494c686f50c4d9dc3905391fa0ea256554958c0e9876
+machine_hash: e3ecafc063310fd62cab081d286b27ffe90c590b3bb3c38ccc8ebd6901290544
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -97,7 +97,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.59.0
 ## Nearby in Mobile and Desktop
 
 - Earlier: 2025-11-13 · Codex CLI · [[Changes/Codex CLI/2025-11-13-6387-for-npm-upgrade-on-windows-go-through-cmd-exe-to-get-path-traversal-working|♯6387 — For npm upgrade on Windows, go through cmd.exe to get path traversal working…]]
-- Later: 2025-11-26 · Gemini CLI · [[Changes/Gemini CLI/2025-11-26-improve-pty-resize-error-handling-for-windows-by-galz10-in-https-github-com-goog|Improve pty resize error handling for Windows]]
+- Later: 2025-11-20 · Gemini · [[Changes/Gemini/2025-11-20-drive-with-gemini-in-android-auto|Drive with Gemini in Android Auto]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

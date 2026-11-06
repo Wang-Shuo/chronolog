@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 5c677d0d0e069b72d109920572804b5440b72d6ca02689abb7c2eaea6510d6ab
+machine_hash: 788fb2e2aa134cc9f63479881a23b6af60bb171da6d668a4415594dd9db31195
 product: claude-code
 product_name: Claude Code
 record:
@@ -48,8 +48,8 @@ record:
   title: 3 Developer Workflow changes in v2.1.126
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-04-29-added-first-class-run-streaming-with-sse-events-reconnect-support-via-last-event|Added
-  first-class run streaming with SSE events, reconnect support…]]'
+- '[[Changes/Dify/2026-04-29-2-developer-workflow-changes-in-1-14-0|2 Developer Workflow
+  changes in 1.14.0]]'
 - '[[Changes/Windsurf/2026-04-29-devin-for-terminal|Devin for Terminal]]'
 - '[[Changes/Codex CLI/2026-04-30-14-developer-workflow-changes-in-rust-v0-128-0|14
   Developer Workflow changes in rust-v0.128.0]]'

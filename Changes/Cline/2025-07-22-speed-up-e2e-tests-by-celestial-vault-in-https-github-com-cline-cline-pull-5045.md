@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 530597906b48df91ed361176f85315e9d95d76228716b52d0401f6e4717b155e
+machine_hash: 2384c412d4a4ad329161c4bf6111210a57605662137de50455d053b1504280bd
 product: cline
 product_name: Cline
 record:
@@ -40,12 +40,12 @@ record:
   title: Speed up E2E tests
   type: change
 related_changes:
-- '[[Changes/Cline/2025-07-08-optimize-provider-switching-performance-with-batched-storage-operations-by-arafa|Optimize
-  provider switching performance with batched storage operations]]'
 - '[[Changes/Codex CLI/2025-07-19-as-a-heads-up-https-github-com-openai-codex-pull-1596-changes-the-organization-o|As
   a heads up, (source link) changes the organization…]]'
 - '[[Changes/Gemini CLI/2025-07-19-run-model-availability-check-in-the-background-to-speed-up-startup-by-sandytao52|Run
   model availability check in the background to speed up startup]]'
+- '[[Changes/Open WebUI/2025-07-19-2-reliability-and-performance-changes-in-v0-6-17|2
+  Reliability and Performance changes in v0.6.17]]'
 source_release: '[[Releases/Cline/cline-2025-07-22-v3-19-8-github-234341731-78a40b25|cline-2025-07-22-v3-19-8-github-234341731-78a40b25]]'
 source_type: github_releases
 theme: reliability-performance
@@ -80,8 +80,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2025-07-19 · Gemini CLI · [[Changes/Gemini CLI/2025-07-19-run-model-availability-check-in-the-background-to-speed-up-startup-by-sandytao52|Run model availability check in the background to speed up startup]]
-- Later: 2025-07-25 · Gemini CLI · [[Changes/Gemini CLI/2025-07-25-run-model-availability-check-in-the-background-to-speed-up-startup-by-sandytao52|Run model availability check in the background to speed up startup]]
+- Earlier: 2025-07-19 · Open WebUI · [[Changes/Open WebUI/2025-07-19-2-reliability-and-performance-changes-in-v0-6-17|2 Reliability and Performance changes in v0.6.17]]
+- Later: 2025-07-23 · Dify · [[Changes/Dify/2025-07-23-5-reliability-and-performance-changes-in-1-7-0|5 Reliability and Performance changes in 1.7.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

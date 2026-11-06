@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: efa9194149672092dd84c9f70908e5a49bcf4eb314dc00167588034a08f177a2
+machine_hash: 7dc17dd785584757c89ab7135063eb0ccdfb5f533af6cb67d4306ad7cb373860
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -49,10 +49,10 @@ record:
   title: 3 Interface Experience changes in rust-v0.132.0
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-05-19-2-interface-experience-changes-in-v2-1-145|2 Interface
-  Experience changes in v2.1.145]]'
 - '[[Changes/Claude Code/2026-05-19-model-now-changes-the-model-for-the-current-session-only-press-d-in-the-model-pi|/model
   now changes the model for the current session only]]'
+- '[[Changes/Dify/2026-05-19-app-creation-and-onboarding-tracked-app-creation-source-and-template-id-initiali|App
+  creation and onboarding]]'
 - '[[Changes/GitHub Copilot CLI/2026-05-19-3-interface-experience-changes-in-v1-0-49|3
   Interface Experience changes in v1.0.49]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-05-20-rust-v0-132-0-github-325545332-3345c1c4|codex-cli-2026-05-20-rust-v0-132-0-github-325545332-3345c1c4]]'

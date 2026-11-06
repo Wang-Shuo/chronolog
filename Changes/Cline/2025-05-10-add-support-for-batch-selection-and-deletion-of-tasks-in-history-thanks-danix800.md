@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: a2890e745d5d696f15420d9661c94c27d3ddfd72390ae3f998c516b4f5e708b1
+machine_hash: a212cccdad5618e2fd750fd279939136c28fbe1c1b10d84f4535dd0e8c4f222d
 product: cline
 product_name: Cline
 record:
@@ -47,8 +47,8 @@ record:
     danix800!)
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2025-05-06-we-ve-removed-the-row-of-individual-tool-icons-from-the-mobile-composer-and-repl-a35dd7|Mobile
-  UI (iOS/Android) changing on Free/Plus/Pro plans]]'
+- "[[Changes/Open WebUI/2025-05-06-multiple-xml-tags-in-messages-now-parsed-correctly-fixed-parsing-issues-when-mes|\U0001F3F7️
+  Multiple XML Tags in Messages Now Parsed Correctly]]"
 - '[[Changes/OpenHands/2025-05-07-added-branch-picker-for-repository-on-homepage-by-rbren-in-https-github-com-all|Added
   branch picker for repository on homepage]]'
 - '[[Changes/Aider/2025-05-09-3-interface-experience-changes-in-v0-83-0|3 Interface
@@ -84,7 +84,7 @@ type: change
 ## Nearby in Interface Experience
 
 - Earlier: 2025-05-09 · Aider · [[Changes/Aider/2025-05-09-3-interface-experience-changes-in-v0-83-0|3 Interface Experience changes in v0.83.0]]
-- Later: 2025-05-12 · Cline · [[Changes/Cline/2025-05-12-added-details-to-auto-approve-menu-and-more-sensible-default-controls|Added details to auto approve menu and more sensible default controls]]
+- Later: 2025-05-10 · Open WebUI · [[Changes/Open WebUI/2025-05-10-3-interface-experience-changes-in-v0-6-8|3 Interface Experience changes in v0.6.8]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

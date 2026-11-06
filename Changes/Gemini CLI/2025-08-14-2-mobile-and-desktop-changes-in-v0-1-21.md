@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 9537803f99c3f3283edb05c5e19b5690f2e72c4bb83164dea57d0e3bf1a70421
+machine_hash: 55af92ec0171b3f5fcaef39929ffc9eb1795170715be1a8b7baca96fb0ea84f1
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -42,12 +42,11 @@ record:
   title: 2 Mobile and Desktop changes in v0.1.21
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2025-08-05-2-mobile-and-desktop-changes-in-v0-1-17|2 Mobile
-  and Desktop changes in v0.1.17]]'
-- '[[Changes/Gemini CLI/2025-08-06-2-mobile-and-desktop-changes-in-v0-1-18|2 Mobile
-  and Desktop changes in v0.1.18]]'
+- '[[Changes/Replit/2025-08-08-live-activities-on-ios|Live activities on iOS]]'
 - '[[Changes/Codex CLI/2025-08-09-https-github-com-openai-codex-pull-2019-fixes-two-things-for-windows|(source
   link) fixes two things for Windows]]'
+- '[[Changes/Open WebUI/2025-08-09-2-mobile-and-desktop-changes-in-v0-6-19|2 Mobile
+  and Desktop changes in v0.6.19]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2025-08-14-v0-1-21-github-239867721-f576cbaa|gemini-cli-2025-08-14-v0-1-21-github-239867721-f576cbaa]]'
 source_type: github_releases
 theme: mobile-desktop
@@ -94,8 +93,8 @@ Source: https://github.com/google-gemini/gemini-cli/releases/tag/v0.1.21
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2025-08-09 · Codex CLI · [[Changes/Codex CLI/2025-08-09-https-github-com-openai-codex-pull-2019-fixes-two-things-for-windows|(source link) fixes two things for Windows]]
-- Later: 2025-08-20 · Codex CLI · [[Changes/Codex CLI/2025-08-20-2-mobile-and-desktop-changes-in-rust-v0-23-0|2 Mobile and Desktop changes in rust-v0.23.0]]
+- Earlier: 2025-08-09 · Open WebUI · [[Changes/Open WebUI/2025-08-09-2-mobile-and-desktop-changes-in-v0-6-19|2 Mobile and Desktop changes in v0.6.19]]
+- Later: 2025-08-15 · Ollama · [[Changes/Ollama/2025-08-15-reduced-size-of-installation-on-windows-and-linux|Reduced size of installation on Windows and Linux]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

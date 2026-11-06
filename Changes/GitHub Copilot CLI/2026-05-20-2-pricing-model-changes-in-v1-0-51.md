@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 568aa0684e7fac05509fd1350ee8e8e581903c2fe021ec67a115892f6e235cba
+machine_hash: 8e274b08114a88548ac3bfe8f2691d39d9b47318e8a77634b117df28a00d9292
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -43,12 +43,12 @@ record:
   title: 2 Pricing Model changes in v1.0.51
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-05-18-fast-default-3-00-m-input-15-00-m-output-tokens|Fast
-  (default): $3.00/M input, $15.00/M output tokens]]'
 - '[[Changes/Cursor/2026-05-18-standard-0-50-m-input-2-50-m-output-tokens|Standard:
   $0.50/M input, $2.50/M output tokens]]'
 - '[[Changes/Claude Code/2026-05-19-renamed-extra-usage-to-usage-credits-across-cli-copy-extra-usage-is-now-usage-cr|Renamed
   "extra usage" to "usage credits" across CLI copy]]'
+- '[[Changes/Gemini/2026-05-19-introducing-a-new-100-google-ai-ultra-plan|Introducing
+  a new $100 Google AI Ultra plan]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-05-20-v1-0-51-github-326293635-21098fc1|github-copilot-cli-2026-05-20-v1-0-51-github-326293635-21098fc1]]'
 source_type: github_releases
 theme: pricing-model
@@ -91,7 +91,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.51
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Pricing Model
 
-- Earlier: 2026-05-19 · Claude Code · [[Changes/Claude Code/2026-05-19-renamed-extra-usage-to-usage-credits-across-cli-copy-extra-usage-is-now-usage-cr|Renamed "extra usage" to "usage credits" across CLI copy]]
+- Earlier: 2026-05-19 · Gemini · [[Changes/Gemini/2026-05-19-introducing-a-new-100-google-ai-ultra-plan|Introducing a new $100 Google AI Ultra plan]]
 - Later: 2026-05-23 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-05-23-3-pricing-model-changes-in-v1-0-52|3 Pricing Model changes in v1.0.52]]
 <!-- chronolog:end -->
 

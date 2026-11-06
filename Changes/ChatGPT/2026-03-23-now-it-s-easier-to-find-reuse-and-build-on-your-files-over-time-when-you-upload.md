@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: search-browsing
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: f98b9a42d9a3592fd9c92ee5fb69d21fef237b8f4e2eb0aa93da525424777c32
+machine_hash: 3cb1c18554ee26b292f3edec04ec83b16fa27c59525154fbbfd1d64733bfb1c8
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -81,10 +81,10 @@ record:
   title: File Library in ChatGPT
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-03-11-14136-fix-core-use-dedicated-types-for-responsesapi-web-search-tool-config-owenl|♯14136
-  fix(core): use dedicated types for responsesapi web search tool config @owenlin0]]'
-- '[[Changes/GitHub Copilot CLI/2026-03-13-changelog-supports-last-n-since-version-and-summarize-to-browse-and-summarize-mu|/changelog
-  supports last N, since version, and summarize to browse…]]'
+- '[[Changes/Dify/2026-03-17-test-add-integration-tests-for-app-card-operations-list-browsing-and-create-app|test:
+  add integration tests for app card operations, list browsing, and create app flows]]'
+- '[[Changes/Ollama/2026-03-17-3-search-and-browsing-changes-in-v0-18-1|3 Search and
+  Browsing changes in v0.18.1]]'
 - '[[Changes/ChatGPT/2026-03-19-the-legacy-deep-research-mode-will-be-removed-on-thursday-march-26-2026-this-cha|Legacy
   deep research mode deprecation notice]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-03-23-file-library-in-chatgpt-7107c619|chatgpt-2026-03-23-file-library-in-chatgpt-7107c619]]'

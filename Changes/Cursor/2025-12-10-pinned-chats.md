@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: 3721b746a065fcfb3dd4b313c8c2854b083a21a8a3823dc4cdddeddd0a6fbda3
+machine_hash: e5a423fb96b7616dbcf19ce0010be04ada8c1c9b5d13cd598b94a61409d036f7
 product: cursor
 product_name: Cursor
 record:
@@ -53,8 +53,8 @@ record:
   title: Pinned chats
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2025-12-04-3-interface-experience-changes-in-rust-v0-65-0|3
-  Interface Experience changes in rust-v0.65.0]]'
+- '[[Changes/v0/2025-12-04-you-can-now-easily-purchase-and-add-custom-domains-to-your-v0-projects-directly|Buy
+  Custom Domains]]'
 - '[[Changes/Codex CLI/2025-12-09-2-interface-experience-changes-in-rust-v0-66-0|2
   Interface Experience changes in rust-v0.66.0]]'
 - '[[Changes/Codex CLI/2025-12-10-4-interface-experience-changes-in-rust-v0-69-0|4
@@ -96,7 +96,7 @@ type: change
 ## Nearby in Interface Experience
 
 - Earlier: 2025-12-10 · Codex CLI · [[Changes/Codex CLI/2025-12-10-4-interface-experience-changes-in-rust-v0-69-0|4 Interface Experience changes in rust-v0.69.0]]
-- Later: 2025-12-11 · Cline · [[Changes/Cline/2025-12-11-2-interface-experience-changes-in-v3-41-0|2 Interface Experience changes in v3.41.0]]
+- Later: 2025-12-10 · Lovable · [[Changes/Lovable/2025-12-10-a-more-lovable-dashboard|A more Lovable dashboard]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

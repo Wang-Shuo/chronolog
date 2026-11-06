@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: dc5e96352d52e65c95a3c50e4ffdd05ab9fc0918380ed4363acf08d1e0e5c2e4
+machine_hash: 467da290e226a382134f6f97f440489a03f1e2435e148ac0e548ff8bf33d808d
 product: cline
 product_name: Cline
 record:
@@ -45,12 +45,12 @@ record:
     Tool…
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2025-12-18-diff-display-uses-your-configured-git-pager-delta-diff-so-fancy|Diff
-  display uses your configured git pager (delta, diff-so-fancy)]]'
-- '[[Changes/GitHub Copilot CLI/2025-12-18-update-skills-help-text-to-reference-correct-copilot-skills-directory|Update
-  skills help text to reference correct ~/.copilot/skills/ directory]]'
+- '[[Changes/v0/2025-12-18-you-can-now-use-keyboard-shortcuts-in-v0-s-design-mode|Keyboard
+  shortcuts in Design Mode]]'
 - '[[Changes/Claude Code/2025-12-19-vscode-added-tab-icon-badges-showing-pending-permissions-blue-and-unread-complet|VSCode
   Added tab icon badges showing pending permissions (blue) and unread…]]'
+- '[[Changes/Open WebUI/2025-12-21-3-editor-experience-changes-in-v0-6-42|3 Editor
+  Experience changes in v0.6.42]]'
 source_release: '[[Releases/Cline/cline-2025-12-22-v3-46-0-github-272325612-60808136|cline-2025-12-22-v3-46-0-github-272325612-60808136]]'
 source_type: github_releases
 theme: editor-experience
@@ -83,7 +83,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2025-12-19 · Claude Code · [[Changes/Claude Code/2025-12-19-vscode-added-tab-icon-badges-showing-pending-permissions-blue-and-unread-complet|VSCode Added tab icon badges showing pending permissions (blue) and unread…]]
+- Earlier: 2025-12-21 · Open WebUI · [[Changes/Open WebUI/2025-12-21-3-editor-experience-changes-in-v0-6-42|3 Editor Experience changes in v0.6.42]]
 - Later: 2025-12-22 · Gemini CLI · [[Changes/Gemini CLI/2025-12-22-4-editor-experience-changes-in-v0-22-0|4 Editor Experience changes in v0.22.0]]
 <!-- chronolog:end -->
 

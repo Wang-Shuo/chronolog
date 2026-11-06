@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 74b566d212c186e91fe27e169adfb836ab5cb8499e63e8927c2f6a247046bd38
+machine_hash: 3f930ac6fb7e00c6a57448f4b42da0d99752588fe0c08eb309d9a14dc66d67ce
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -43,10 +43,10 @@ record:
   title: Run `npm install -g @github/copilot@latest` to update!
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2025-10-19-for-more-information-see-https-github-com-github-copilot-cli-issues-351-issuecom|For
-  more information, see…]]'
-- '[[Changes/GitHub Copilot CLI/2025-10-21-for-more-information-see-https-github-com-github-copilot-cli-issues-351-issuecom|For
-  more information, see…]]'
+- '[[Changes/v0/2025-10-21-you-can-now-preview-markdown-and-svgs-inside-v0-s-editor|Markdown
+  and SVG Preview]]'
+- '[[Changes/Dify/2025-10-22-improve-explicitly-delete-task-redis-key-on-completion-in-appqueuemanager-by-bla|improve:
+  Explicitly delete task Redis key on completion in AppQueueManager]]'
 - '[[Changes/Gemini CLI/2025-10-22-4-editor-experience-changes-in-v0-10-0|4 Editor
   Experience changes in v0.10.0]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2025-10-22-v0-0-349-github-256506800-cc17172c|github-copilot-cli-2025-10-22-v0-0-349-github-256506800-cc17172c]]'

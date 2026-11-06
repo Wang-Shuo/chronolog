@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: 0a63db2994d99ae46a59f832bc5a6d4d3b77d69e7e61abb2d2bce4c92de79b80
+machine_hash: 55be2f504439e162308e0cb6652d839e0c0738dab1adb9f27ac4fff9998b3827
 product: cursor
 product_name: Cursor
 record:
@@ -54,10 +54,9 @@ record:
   title: Fast edits for long files with Agent
   type: change
 related_changes:
-- '[[Changes/Cline/2025-04-24-improve-prompting-for-new-task-tool|Improve prompting
-  for new task tool]]'
 - '[[Changes/OpenHands/2025-05-01-added-support-for-agent-pause-and-resume-functionality-in-the-cli-by-pandukamudi|Added
   support for agent pause and resume functionality in the CLI]]'
+- '[[Changes/ElevenLabs/2025-05-12-agents-platform|Agents Platform]]'
 - '[[Changes/OpenHands/2025-05-12-added-the-ability-for-the-agent-to-save-browser-screenshots-as-image-files-by-xi|Added
   the ability for the agent to save browser screenshots as image files]]'
 source_release: '[[Releases/Cursor/cursor-2025-05-15-0-50-https-cursor-com-changelog-0-50-dc290998|cursor-2025-05-15-0-50-https-cursor-com-changelog-0-50-dc290998]]'
@@ -96,7 +95,7 @@ type: change
 ## Nearby in Agent Mode
 
 - Earlier: 2025-05-12 · OpenHands · [[Changes/OpenHands/2025-05-12-added-the-ability-for-the-agent-to-save-browser-screenshots-as-image-files-by-xi|Added the ability for the agent to save browser screenshots as image files]]
-- Later: 2025-05-20 · OpenHands · [[Changes/OpenHands/2025-05-20-2-agent-mode-changes-in-0-39-0|2 Agent Mode changes in 0.39.0]]
+- Later: 2025-05-15 · Dify · [[Changes/Dify/2025-05-15-imagine-if-every-idea-could-become-an-ai-agent-with-dify-if-you-can-ask-it-you-c|Imagine if every idea could become an AI agent]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

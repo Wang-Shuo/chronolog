@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: f8eb31a69aa5ffd3c3e7bba8ded3370417883881134fb0df6c55128665251845
+machine_hash: 761b41ddd5ad5f0f2cab05c8aa21ab6cd7c85d08c40c703594a278002879e117
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -57,8 +57,8 @@ record:
   title: Skills are now generally available
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-07-08-remote-plugins-are-now-enabled-by-default-with-richer-catalog-rows-npm-marketpla|Remote
-  plugins are now enabled by default, with richer catalog rows, npm marketplace…]]'
+- '[[Changes/Lovable/2026-07-08-reference-a-connector-in-chat|Reference a connector
+  in chat]]'
 - '[[Changes/OpenHands/2026-07-08-chore-bump-sdk-packages-to-v1-33-0-by-all-hands-bot-in-https-github-com-openhand|chore:
   bump SDK packages to v1.33.0]]'
 - '[[Changes/ChatGPT/2026-07-09-we-re-also-replacing-the-app-directory-with-the-plugin-directory-existing-app-co|We’re

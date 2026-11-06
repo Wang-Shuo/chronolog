@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 88772cc3191c937b2cf95ef15242b839bb0892b8c0c1c136149e53f6d5abc9fb
+machine_hash: e36f4af64cf1556d453d2a776f73e665d5f4458518383b453de32a67a7e1e27a
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -41,8 +41,7 @@ record:
   title: MCP server type help text displays correct options
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2025-12-22-3-apps-and-integrations-changes-in-v0-22-0|3 Apps
-  and Integrations changes in v0.22.0]]'
+- '[[Changes/Replit/2025-12-26-replit-chatgpt-app|Replit ChatGPT App]]'
 - '[[Changes/GitHub Copilot CLI/2025-12-30-enable-copilot-spaces-tools-in-github-mcp-server|Enable
   Copilot Spaces tools in GitHub MCP Server]]'
 - '[[Changes/OpenHands/2025-12-30-added-forgejo-integration-by-johba37-in-https-github-com-openhands-openhands-pul|Added
@@ -79,7 +78,7 @@ type: change
 ## Nearby in Apps and Integrations
 
 - Earlier: 2025-12-30 · OpenHands · [[Changes/OpenHands/2025-12-30-added-forgejo-integration-by-johba37-in-https-github-com-openhands-openhands-pul|Added Forgejo integration]]
-- Later: 2026-01-06 · Cline · [[Changes/Cline/2026-01-06-exclude-binary-files-without-extensions-from-diffs|Exclude binary files without extensions from diffs]]
+- Later: 2026-01-05 · ElevenLabs · [[Changes/ElevenLabs/2026-01-05-sdk-releases|SDK Releases]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

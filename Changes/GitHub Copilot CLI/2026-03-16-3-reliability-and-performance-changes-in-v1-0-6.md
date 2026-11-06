@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: d11acd468d3c9cf31e59d38b234fd1a9b74a06619b603becc7624d8e86bb7d75
+machine_hash: fd90cb29fa86e402eec4cb09fee634b4d8eb4a93322ebec50457882654efe71e
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -47,12 +47,12 @@ record:
   title: 3 Reliability and Performance changes in v1.0.6
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-03-11-2-reliability-and-performance-changes-in-v2-1-73|2
-  Reliability and Performance changes in v2.1.73]]'
-- '[[Changes/GitHub Copilot CLI/2026-03-11-faster-shell-commands-on-windows-by-skipping-powershell-profile-loading|Faster
-  shell commands on Windows by skipping PowerShell profile loading]]'
 - '[[Changes/Claude Code/2026-03-12-added-actionable-suggestions-to-context-command-identifies-context-heavy-tools-m|Added
   actionable suggestions to /context command]]'
+- '[[Changes/v0/2026-03-12-improved-code-server-loading-speed-for-fresh-vms|Improved
+  code-server loading speed for fresh VMs]]'
+- '[[Changes/Ollama/2026-03-14-4-reliability-and-performance-changes-in-v0-18-0|4
+  Reliability and Performance changes in v0.18.0]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-03-16-v1-0-6-github-297705118-b80b4107|github-copilot-cli-2026-03-16-v1-0-6-github-297705118-b80b4107]]'
 source_type: github_releases
 theme: reliability-performance
@@ -96,8 +96,8 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.6
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2026-03-12 · Claude Code · [[Changes/Claude Code/2026-03-12-added-actionable-suggestions-to-context-command-identifies-context-heavy-tools-m|Added actionable suggestions to /context command]]
-- Later: 2026-03-17 · Claude Code · [[Changes/Claude Code/2026-03-17-2-reliability-and-performance-changes-in-v2-1-77|2 Reliability and Performance changes in v2.1.77]]
+- Earlier: 2026-03-14 · Ollama · [[Changes/Ollama/2026-03-14-4-reliability-and-performance-changes-in-v0-18-0|4 Reliability and Performance changes in v0.18.0]]
+- Later: 2026-03-16 · Lovable · [[Changes/Lovable/2026-03-16-themes-have-been-removed-from-the-design-view-due-to-low-usage-and-performance-i|Themes have been removed from the Design view due to low usage and performance issues]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 119ffef033d14e958e1fb2933ddd95f733715d3510b01e819b78564e85a78a5b
+machine_hash: 5fc364546f891c49c30d6d1901cdc6d63b625e1c38fe1a92b7b80f906688eee3
 product: cline
 product_name: Cline
 record:
@@ -58,8 +58,8 @@ record:
   title: Long replies on local models (llama.cpp, Ollama, LM Studio) that hit…
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-09-17-20-context-window-changes-in-rust-v0-155-0|20 Context
-  Window changes in rust-v0.155.0]]'
+- '[[Changes/Open WebUI/2026-09-21-3-context-window-changes-in-v0-11-4|3 Context Window
+  changes in v0.11.4]]'
 - '[[Changes/Cline/2026-09-22-2-context-window-changes-in-v4-1-20|2 Context Window
   changes in v4.1.20]]'
 - '[[Changes/Codex CLI/2026-09-22-17-context-window-changes-in-rust-v0-156-0|17 Context

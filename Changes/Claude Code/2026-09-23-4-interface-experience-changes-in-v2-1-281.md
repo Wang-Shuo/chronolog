@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 5d5b40ec3d5361fe80995b777e6320552ea1609cd9d1cb9cd63007892ebfe021
+machine_hash: 123871fe01fee6328b68397263025dd8d01bb6feb0b4feff2504f877ba0a46a1
 product: claude-code
 product_name: Claude Code
 record:
@@ -51,8 +51,8 @@ record:
   title: 4 Interface Experience changes in v2.1.281
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-09-21-number-key-selection-in-the-question-dialog-works-for-choices-10-and-beyond|Number-key
-  selection in the question dialog works for choices 10 and beyond]]'
+- '[[Changes/Open WebUI/2026-09-21-13-interface-experience-changes-in-v0-11-4|13 Interface
+  Experience changes in v0.11.4]]'
 - '[[Changes/Claude Code/2026-09-22-5-interface-experience-changes-in-v2-1-280|5 Interface
   Experience changes in v2.1.280]]'
 - '[[Changes/Codex CLI/2026-09-22-32-interface-experience-changes-in-rust-v0-156-0|32
@@ -104,7 +104,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.281
 ## Nearby in Interface Experience
 
 - Earlier: 2026-09-22 · Codex CLI · [[Changes/Codex CLI/2026-09-22-32-interface-experience-changes-in-rust-v0-156-0|32 Interface Experience changes in rust-v0.156.0]]
-- Later: 2026-09-24 · Claude Code · [[Changes/Claude Code/2026-09-24-4-interface-experience-changes-in-v2-1-282|4 Interface Experience changes in v2.1.282]]
+- Later: 2026-09-23 · Lovable · [[Changes/Lovable/2026-09-23-one-project-menu-on-your-phone|One project menu on your phone]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

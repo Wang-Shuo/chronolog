@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 715a69167baa9dd7e1315158b710922d284c23e4144c9ba01b26936ac46a5d74
+machine_hash: 0a71a1af217654c07cc9dbdd622dafbc43cf62db9a63abb7d2538adc2cebdbb2
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -46,8 +46,8 @@ record:
   title: 3 Account and Access changes in v1.0.49
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-05-08-2-account-and-access-changes-in-rust-v0-130-0|2
-  Account and Access changes in rust-v0.130.0]]'
+- '[[Changes/v0/2026-05-12-added-support-for-oauth-authorized-mcp-servers-in-the-platform-api-with-referenc|Added
+  support for OAuth-authorized MCP servers in the platform API, with reference…]]'
 - '[[Changes/Claude Code/2026-05-13-bedrock-awscredentialexport-now-always-runs-when-configured-instead-of-being-ski|Bedrock:
   awsCredentialExport now always runs when configured instead of being…]]'
 - '[[Changes/Codex CLI/2026-05-18-5-account-and-access-changes-in-rust-v0-131-0|5

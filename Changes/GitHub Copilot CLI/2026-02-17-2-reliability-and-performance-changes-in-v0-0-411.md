@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 50d951cfbf4e718c784a4c1698b42e8d85baf275f1ef7c8e3af4013f07e60c17
+machine_hash: 3136623ad96badfcbf0588e7f363545699e5bda1489e624ffd86efff2916b37e
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -88,7 +88,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v0.0.411
 ## Nearby in Reliability and Performance
 
 - Earlier: 2026-02-17 · Cursor · [[Changes/Cursor/2026-02-17-2-reliability-and-performance-changes-in-2-5|2 Reliability and Performance changes in 2.5]]
-- Later: 2026-02-18 · Claude Code · [[Changes/Claude Code/2026-02-18-5-reliability-and-performance-changes-in-v2-1-47|5 Reliability and Performance changes in v2.1.47]]
+- Later: 2026-02-17 · Open WebUI · [[Changes/Open WebUI/2026-02-17-general-improvements-various-improvements-were-implemented-across-the-applicatio|🔄 General improvements. Various improvements were implemented across…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

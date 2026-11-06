@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: e704c3c8c65e3010aa357ee453024076e7a9d1d087bb8c4dcb902824f9d6e9bc
+machine_hash: a5c47854fdd93e29d4049319cb700d41bdd1243b7ea3cf2afe771aa3acc8b4be
 product: cursor
 product_name: Cursor
 record:
@@ -47,10 +47,10 @@ record:
   title: 3 Apps and Integrations changes in 0.48.x
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-03-11-mcp-added-global-server-configuration-with-cursor-mcp-json-and-support-for-envir|MCP:
-  Added global server configuration with ~/.cursor/mcp.json and support…]]'
 - '[[Changes/Aider/2025-03-21-added-git-commit-verify-flag-default-false-to-control-whether-git-commit-hooks-a|Added
   --git-commit-verify flag (default]]'
+- '[[Changes/Dify/2025-03-21-github-plugin-installation-resolved-an-import-dsl-issue-that-blocked-the-install|GitHub
+  Plugin Installation]]'
 - '[[Changes/Cline/2025-03-23-2-apps-and-integrations-changes-in-v3-8-0|2 Apps and
   Integrations changes in v3.8.0]]'
 source_release: '[[Releases/Cursor/cursor-2025-03-23-0-48-x-https-cursor-com-changelog-0-48-x-7b3e771b|cursor-2025-03-23-0-48-x-https-cursor-com-changelog-0-48-x-7b3e771b]]'

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: a44421d8f73ed0992bfd329d4948bff9bf921f18b262c1b73bbb64f9c76eba6b
+machine_hash: 347666f692b2b0730d72fb162da0a0545439bd24156c1c712be3ca0906a28318
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -51,12 +51,11 @@ record:
   title: 4 Editor Experience changes in v1.0.63
   type: change
 related_changes:
-- '[[Changes/Windsurf/2026-06-10-the-3-1-series-builds-on-the-devin-desktop-rebrand-with-a-smoother-agent-editor|The
-  3.1 series builds on the Devin Desktop rebrand with a smoother Agent/Editor…]]'
 - '[[Changes/GitHub Copilot CLI/2026-06-13-2-editor-experience-changes-in-v1-0-62|2
   Editor Experience changes in v1.0.62]]'
 - '[[Changes/Codex CLI/2026-06-15-2-editor-experience-changes-in-rust-v0-140-0|2 Editor
   Experience changes in rust-v0.140.0]]'
+- '[[Changes/ElevenLabs/2026-06-15-workspaces|Workspaces]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-06-16-v1-0-63-github-339856552-a4891c49|github-copilot-cli-2026-06-16-v1-0-63-github-339856552-a4891c49]]'
 source_type: github_releases
 theme: editor-experience
@@ -98,8 +97,8 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.63
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2026-06-15 · Codex CLI · [[Changes/Codex CLI/2026-06-15-2-editor-experience-changes-in-rust-v0-140-0|2 Editor Experience changes in rust-v0.140.0]]
-- Later: 2026-06-16 · Windsurf · [[Changes/Windsurf/2026-06-16-removed-the-explain-sparkle-button-from-the-editor-breadcrumbs|Removed the Explain sparkle button from the editor breadcrumbs]]
+- Earlier: 2026-06-15 · ElevenLabs · [[Changes/ElevenLabs/2026-06-15-workspaces|Workspaces]]
+- Later: 2026-06-16 · Lovable · [[Changes/Lovable/2026-06-16-see-when-you-have-unpublished-changes|See when you have unpublished changes]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

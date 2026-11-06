@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 9af0f7a0d0070714307a76e6e824896b7732f920253c51b52518651633dcc212
+machine_hash: d5f7dee25189d034873db7602efe7c697fdac9a7900a86f62b16dc5593128f43
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -85,7 +85,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.76.0
 ## Nearby in Interface Experience
 
 - Earlier: 2025-12-19 · Claude Code · [[Changes/Claude Code/2025-12-19-2-interface-experience-changes-in-v2-0-74|2 Interface Experience changes in v2.0.74]]
-- Later: 2025-12-22 · Cline · [[Changes/Cline/2025-12-22-model-picker-favorites-ordering-star-toggle-and-keyboard-navigation-for-openrout|Model picker favorites ordering, star toggle, and keyboard navigation for OpenRouter…]]
+- Later: 2025-12-19 · Replit · [[Changes/Replit/2025-12-19-status-dot-design-update|Status Dot Design Update]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

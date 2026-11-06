@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: b3cc6d9125566fdd7fdbef3ccfee3e948c9923df83e0c11674e69b49948a69c2
+machine_hash: 7d43620d7a108634f31625b21c8200f48d89d0f9be4588ccda671db35304faf2
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -40,8 +40,8 @@ record:
   title: '#9583 Add collaboration_mode to TurnContextItem @charley-oai'
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-01-15-2-collaboration-changes-in-rust-v0-85-0|2 Collaboration
-  changes in rust-v0.85.0]]'
+- '[[Changes/Claude/2026-01-16-claude-code-access-added-to-team-plan-standard-seats|Claude
+  Code access added to Team plan Standard seats]]'
 - '[[Changes/Codex CLI/2026-01-16-collaboration-wait-calls-can-block-on-multiple-ids-in-one-request-simplifying-mu|Collaboration
   wait calls can block on multiple IDs in one request, simplifying…]]'
 - '[[Changes/Codex CLI/2026-01-21-9-collaboration-changes-in-rust-v0-88-0|9 Collaboration

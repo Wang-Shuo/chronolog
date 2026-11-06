@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 06b0929e8b17be2db1ad35d9d69d11c0980844727ecec040b1d21fc945ce029b
+machine_hash: 4cf5d655371a6ac6aa9b1d6ed65983d3e252de65f11f7de8eed1f34761c5a55f
 product: cline
 product_name: Cline
 record:
@@ -47,12 +47,12 @@ record:
   title: 3 Apps and Integrations changes in v2.2.0
   type: change
 related_changes:
-- '[[Changes/Cline/2024-09-09-commands-now-run-directly-in-your-terminal-thanks-to-vscode-1-93-s-new-shell-int|Commands
-  now run directly in your terminal thanks to VSCode 1.93''s new shell…]]'
-- '[[Changes/Aider/2024-11-04-easily-apply-file-edits-from-chatgpt-claude-or-other-web-apps|Easily
-  apply file edits from ChatGPT, Claude or other web apps]]'
-- '[[Changes/OpenHands/2024-11-04-discoverybench-openhands-integration-by-ethan0456-in-https-github-com-all-hands|DiscoveryBench
-  OpenHands Integration]]'
+- '[[Changes/Dify/2024-12-03-you-can-now-use-github-com-links-directly-for-dsls-instead-of-relying-on-raw-git|Use
+  github.com links directly for DSLs instead of relying on raw.githubusercontent.com]]'
+- '[[Changes/Lovable/2024-12-03-introducing-feedback-lovable-dev-for-feature-and-integration-request|Introducing
+  feedback.lovable.dev for feature and integration request]]'
+- '[[Changes/Dify/2024-12-09-2-apps-and-integrations-changes-in-0-13-2|2 Apps and
+  Integrations changes in 0.13.2]]'
 source_release: '[[Releases/Cline/cline-2024-12-12-v2-2-0-github-190497394-033cbd45|cline-2024-12-12-v2-2-0-github-190497394-033cbd45]]'
 source_type: github_releases
 theme: apps-integrations
@@ -88,8 +88,8 @@ Source: https://github.com/cline/cline/releases/tag/v2.2.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2024-11-04 · OpenHands · [[Changes/OpenHands/2024-11-04-discoverybench-openhands-integration-by-ethan0456-in-https-github-com-all-hands|DiscoveryBench OpenHands Integration]]
-- Later: 2024-12-18 · Cline · [[Changes/Cline/2024-12-18-enable-or-disable-for-reading-files-directories-editing-files-executing-terminal|Enable or disable for]]
+- Earlier: 2024-12-09 · Dify · [[Changes/Dify/2024-12-09-2-apps-and-integrations-changes-in-0-13-2|2 Apps and Integrations changes in 0.13.2]]
+- Later: 2024-12-13 · Replit · [[Changes/Replit/2024-12-13-more-beautiful-apps-improved-support-for-responsive-react-apps-allows-you-to-cre|More Beautiful Apps: Improved support for responsive React apps allows you…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

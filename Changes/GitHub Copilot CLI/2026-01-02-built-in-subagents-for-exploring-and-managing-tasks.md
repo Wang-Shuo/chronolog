@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 23999d7f506d1b2c68d9d5dcdef1b8c9bf1ef755f994d28ccc67880abe1fcb6f
+machine_hash: 5055bf9a11d412b8ef3272f9cbfd6f41217362ea834a1f128be3db20bc62faad
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -41,12 +41,11 @@ record:
   title: Built-in subagents for exploring and managing tasks
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-12-22-2-agent-mode-changes-in-2-3|2 Agent Mode changes in
-  2.3]]'
-- '[[Changes/Cursor/2025-12-22-this-includes-the-core-agent-layout-controls-viewing-code-diffs-and-more-we-will|This
-  includes the core agent, layout controls, viewing code diffs, and more]]'
 - '[[Changes/Gemini CLI/2025-12-22-send-the-model-and-cli-version-with-the-user-agent-by-gundermanc-in-https-github|Send
   the model and CLI version with the user agent]]'
+- '[[Changes/Lovable/2025-12-23-tasks|Tasks]]'
+- '[[Changes/Dify/2025-12-25-2-agent-mode-changes-in-1-11-2|2 Agent Mode changes in
+  1.11.2]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-01-02-v0-0-374-github-273878901-f6c465a2|github-copilot-cli-2026-01-02-v0-0-374-github-273878901-f6c465a2]]'
 source_type: github_releases
 theme: agent-mode
@@ -78,8 +77,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2025-12-22 · Gemini CLI · [[Changes/Gemini CLI/2025-12-22-send-the-model-and-cli-version-with-the-user-agent-by-gundermanc-in-https-github|Send the model and CLI version with the user agent]]
-- Later: 2026-01-07 · Codex CLI · [[Changes/Codex CLI/2026-01-07-4-agent-mode-changes-in-rust-v0-79-0|4 Agent Mode changes in rust-v0.79.0]]
+- Earlier: 2025-12-25 · Dify · [[Changes/Dify/2025-12-25-2-agent-mode-changes-in-1-11-2|2 Agent Mode changes in 1.11.2]]
+- Later: 2026-01-05 · ElevenLabs · [[Changes/ElevenLabs/2026-01-05-agents-platform|Agents Platform]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

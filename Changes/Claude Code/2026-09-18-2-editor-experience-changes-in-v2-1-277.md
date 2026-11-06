@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: b1b89ab615fdc9033afb4688703475cfe286515ee46d3d086ae82d347d76a136
+machine_hash: 738c6532998f5a556229a9459346abb932ac7a86f6cca0578aefa1ac8b7c5d4a
 product: claude-code
 product_name: Claude Code
 record:
@@ -95,7 +95,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.277
 ## Nearby in Editor Experience
 
 - Earlier: 2026-09-17 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-09-17-2-editor-experience-changes-in-v1-0-86|2 Editor Experience changes in v1.0.86]]
-- Later: 2026-09-22 · Claude Code · [[Changes/Claude Code/2026-09-22-vscode-changed-open-in-new-tab-to-open-claude-beside-the-editor-group-you-are-wo|VSCode Changed "Open in New Tab" to open Claude beside the editor group you…]]
+- Later: 2026-09-20 · Lovable · [[Changes/Lovable/2026-09-20-organize-project-files-into-collections|Organize project files into collections]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

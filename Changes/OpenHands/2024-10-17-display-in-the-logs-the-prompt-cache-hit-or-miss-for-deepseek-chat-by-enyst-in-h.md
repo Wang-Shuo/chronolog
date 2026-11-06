@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: efe4392ab056b447275ea08c8a93010ab763a46626b0933654c4f5271ecd66fa
+machine_hash: d312bdbfb2ba97aedafe0575329ffad82057cf3734e388bb8e2a3819f90071b3
 product: openhands
 product_name: OpenHands
 record:
@@ -44,12 +44,11 @@ record:
   title: Display in the logs the prompt cache hit or miss for Deepseek Chat
   type: change
 related_changes:
-- '[[Changes/Cline/2024-09-19-you-can-now-use-in-the-textarea-to-add-context|Use @
-  in the textarea to add context!]]'
-- '[[Changes/Aider/2024-09-21-improvements-to-prompt-cache-chunking-strategy|Improvements
-  to prompt cache chunking strategy]]'
+- '[[Changes/Gemini/2024-09-30-priority-access-with-gemini-advanced-upload-your-code-files|Priority
+  access with Gemini Advanced: Upload your code files]]'
 - '[[Changes/Cursor/2024-10-09-composer-now-only-applies-files-that-are-in-context-to-prevent-hallucinations|Composer
   now only applies files that are in context to prevent hallucinations]]'
+- '[[Changes/Dify/2024-10-14-feat-implement-refresh-tokens-by-laipz8200-in-https-github-com-langgenius-dify-p|Feat/implement-refresh-tokens]]'
 source_release: '[[Releases/OpenHands/openhands-2024-10-17-0-10-0-github-180549988-5d32de10|openhands-2024-10-17-0-10-0-github-180549988-5d32de10]]'
 source_type: github_releases
 theme: context-window
@@ -79,7 +78,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Context Window
 
-- Earlier: 2024-10-09 · Cursor · [[Changes/Cursor/2024-10-09-composer-now-only-applies-files-that-are-in-context-to-prevent-hallucinations|Composer now only applies files that are in context to prevent hallucinations]]
+- Earlier: 2024-10-14 · Dify · [[Changes/Dify/2024-10-14-feat-implement-refresh-tokens-by-laipz8200-in-https-github-com-langgenius-dify-p|Feat/implement-refresh-tokens]]
 - Later: 2024-11-01 · Aider · [[Changes/Aider/2024-11-01-save-fname-command-will-make-a-file-of-add-and-read-only-commands-that-recreate|/save fname command will make a file of /add and /read-only commands…]]
 <!-- chronolog:end -->
 

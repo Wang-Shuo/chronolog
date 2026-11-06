@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 958fff880dc69bc39412b0bfb1081e3e243b821be8c6d82526be09fac2b77526
+machine_hash: 3238f30586a70b02cb320719eecba25760f2d169ddf23c75a95e44607c4cceea
 product: claude-code
 product_name: Claude Code
 record:
@@ -46,8 +46,7 @@ record:
   title: 2 Agent Mode changes in v2.1.259
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-08-29-2-agent-mode-changes-in-rust-v0-151-0|2 Agent Mode
-  changes in rust-v0.151.0]]'
+- '[[Changes/ElevenLabs/2026-08-31-elevenagents|ElevenAgents]]'
 - '[[Changes/Claude Code/2026-09-01-5-agent-mode-changes-in-v2-1-257|5 Agent Mode
   changes in v2.1.257]]'
 - '[[Changes/Codex CLI/2026-09-01-4-agent-mode-changes-in-rust-v0-152-0|4 Agent Mode

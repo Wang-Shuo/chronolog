@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 6c4908c04f6431a15dfbaab3dcc4579bde7425a47ee882c5aa49ec907e6abc4d
+machine_hash: 58393b6545dbeecf0012d98ac74f6d2f6f9934772d41da5d5461faf45520a518
 product: openhands
 product_name: OpenHands
 record:
@@ -46,12 +46,11 @@ record:
   title: 3 Interface Experience changes in v1.34.0
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-26-changed-clicks-on-scrollbar-arrows-and-bars-in-fullscreen-lists-to-act-when-the|Changed
-  clicks on scrollbar arrows and bars in fullscreen lists to act…]]'
 - '[[Changes/Claude Code/2026-10-27-2-interface-experience-changes-in-v2-1-312|2 Interface
   Experience changes in v2.1.312]]'
 - '[[Changes/Codex CLI/2026-10-27-added-a-repository-filter-to-the-session-picker-and-directory-grouping-to-the-ag|Added
   a repository filter to the session picker and directory grouping to the agent…]]'
+- '[[Changes/Lovable/2026-10-27-redesigned-sidebar|Redesigned sidebar]]'
 source_release: '[[Releases/OpenHands/openhands-2026-10-27-v1-34-0-github-425575573-3f638892|openhands-2026-10-27-v1-34-0-github-425575573-3f638892]]'
 source_type: github_releases
 theme: interface-experience
@@ -95,8 +94,8 @@ Source: https://github.com/OpenHands/OpenHands/releases/tag/v1.34.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-10-27 · Codex CLI · [[Changes/Codex CLI/2026-10-27-added-a-repository-filter-to-the-session-picker-and-directory-grouping-to-the-ag|Added a repository filter to the session picker and directory grouping to the agent…]]
-- Later: 2026-10-29 · Codex CLI · [[Changes/Codex CLI/2026-10-29-12-interface-experience-changes-in-rust-v0-166-0|12 Interface Experience changes in rust-v0.166.0]]
+- Earlier: 2026-10-27 · Lovable · [[Changes/Lovable/2026-10-27-redesigned-sidebar|Redesigned sidebar]]
+- Later: 2026-10-28 · Lovable · [[Changes/Lovable/2026-10-28-redesigned-share-menu|Redesigned Share menu]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

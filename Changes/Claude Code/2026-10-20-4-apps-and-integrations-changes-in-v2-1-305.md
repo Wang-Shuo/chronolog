@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 9bd3654591f54cad74fe6e8bd51b61e55aebaf3e3d051094e41dfdc80552a3b7
+machine_hash: 4c2873892b5926ede995800adc1a026281905a1cf8439e0f9e3a1804ecc1108e
 product: claude-code
 product_name: Claude Code
 record:
@@ -53,12 +53,11 @@ record:
   title: 4 Apps and Integrations changes in v2.1.305
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-16-3-apps-and-integrations-changes-in-v2-1-302|3
-  Apps and Integrations changes in v2.1.302]]'
-- '[[Changes/Claude Code/2026-10-19-8-apps-and-integrations-changes-in-v2-1-304|8
-  Apps and Integrations changes in v2.1.304]]'
 - '[[Changes/GitHub Copilot CLI/2026-10-19-10-apps-and-integrations-changes-in-v1-0-100|10
   Apps and Integrations changes in v1.0.100]]'
+- '[[Changes/Lovable/2026-10-19-connect-your-app-to-cube|Connect your app to Cube]]'
+- '[[Changes/v0/2026-10-19-connect-your-slack-workspace-to-v0-to-bring-team-conversations-into-your-work-wi|Connect
+  your Slack workspace to v0 to bring team conversations into your work]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-10-20-v2-1-305-github-418781864-90995baa|claude-code-2026-10-20-v2-1-305-github-418781864-90995baa]]'
 source_type: github_releases
 theme: apps-integrations
@@ -101,7 +100,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.305
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-10-19 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-10-19-10-apps-and-integrations-changes-in-v1-0-100|10 Apps and Integrations changes in v1.0.100]]
+- Earlier: 2026-10-19 · v0 · [[Changes/v0/2026-10-19-connect-your-slack-workspace-to-v0-to-bring-team-conversations-into-your-work-wi|Connect your Slack workspace to v0 to bring team conversations into your work]]
 - Later: 2026-10-20 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-10-20-4-apps-and-integrations-changes-in-v1-0-101|4 Apps and Integrations changes in v1.0.101]]
 <!-- chronolog:end -->
 

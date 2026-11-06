@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: eef4a25c8571b94fcae5940db413dca784631432d1692664ff7439a82635780b
+machine_hash: 49db05b914450e539056069076c62740a46583786183e2761002a55fd407c5f4
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -61,12 +61,12 @@ record:
   title: Advanced Voice for ChatGPT Web
   type: change
 related_changes:
-- '[[Changes/Aider/2024-07-18-aider-is-better-at-offering-to-add-files-to-the-chat-on-windows|Aider
-  is better at offering to add files to the chat on Windows]]'
-- '[[Changes/Aider/2024-09-04-only-print-the-pip-command-when-self-updating-on-windows-without-running-it|Only
-  print the pip command when self updating on Windows, without running it]]'
-- '[[Changes/Aider/2024-09-21-on-windows-run-correctly-uses-powershell-or-cmd-exe|On
-  Windows, /run correctly uses PowerShell or cmd.exe]]'
+- '[[Changes/Dify/2024-09-30-2-mobile-and-desktop-changes-in-0-9-0|2 Mobile and Desktop
+  changes in 0.9.0]]'
+- "[[Changes/Open WebUI/2024-10-07-apple-touch-icon-support-optimizes-the-display-of-icons-for-web-bookmarks-on-app|\U0001F34F
+  Apple Touch Icon Support]]"
+- '[[Changes/Gemini/2024-11-14-try-the-new-gemini-app-on-your-iphone|Try the new Gemini
+  app on your iPhone]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2024-11-19-advanced-voice-for-chatgpt-web-e7868264|chatgpt-2024-11-19-advanced-voice-for-chatgpt-web-e7868264]]'
 source_type: chatgpt_changelog
 theme: mobile-desktop
@@ -93,7 +93,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2024-09-21 · Aider · [[Changes/Aider/2024-09-21-on-windows-run-correctly-uses-powershell-or-cmd-exe|On Windows, /run correctly uses PowerShell or cmd.exe]]
+- Earlier: 2024-11-14 · Gemini · [[Changes/Gemini/2024-11-14-try-the-new-gemini-app-on-your-iphone|Try the new Gemini app on your iPhone]]
 - Later: 2024-11-22 · ChatGPT · [[Changes/ChatGPT/2024-11-22-improved-mobile-web-experience|Improved Mobile Web Experience]]
 <!-- chronolog:end -->
 

@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 625ce1edb637bfd6855fcd3dff4e6a787e3769b843e961ebfd2487f2fe1c789d
+machine_hash: 651a70397988f6dc733d7db5706bd06326119176ab6216ee12548b14e2674448
 product: cline
 product_name: Cline
 record:
@@ -42,8 +42,8 @@ record:
     more…'
   type: change
 related_changes:
-- '[[Changes/Aider/2024-09-09-2-developer-workflow-changes-in-v0-56-0|2 Developer
-  Workflow changes in v0.56.0]]'
+- '[[Changes/Dify/2024-09-13-stop-the-service-command-please-execute-in-the-docker-directory|Stop
+  the service，Command, please execute in the docker directory]]'
 - '[[Changes/Cline/2024-09-14-2-developer-workflow-changes-in-v1-7-0|2 Developer Workflow
   changes in v1.7.0]]'
 - '[[Changes/Cursor/2024-09-17-we-ve-added-support-for-using-cursor-on-macs-over-remote-ssh|Cursor
@@ -79,7 +79,7 @@ type: change
 ## Nearby in Developer Workflow
 
 - Earlier: 2024-09-17 · Cursor · [[Changes/Cursor/2024-09-17-we-ve-added-support-for-using-cursor-on-macs-over-remote-ssh|Cursor adds support for using Cursor on Macs over Remote SSH]]
-- Later: 2024-09-21 · Aider · [[Changes/Aider/2024-09-21-2-developer-workflow-changes-in-v0-57-0|2 Developer Workflow changes in v0.57.0]]
+- Later: 2024-09-20 · Dify · [[Changes/Dify/2024-09-20-3-developer-workflow-changes-in-0-8-3|3 Developer Workflow changes in 0.8.3]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

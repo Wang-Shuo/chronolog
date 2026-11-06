@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 2c9c748f676168ddf5ac03464abb32655136405ee42d980cf09996ed760b179a
+machine_hash: 1b28c4012c9f336590e5391f294a3255dbe378948f0061d34d6c98987d1ff263
 product: cursor
 product_name: Cursor
 record:
@@ -58,10 +58,10 @@ record:
     security…
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-10-09-copilot-config-supports-sandbox-credential-injecthosts-keys-with-key-completion|copilot
-  config supports sandbox credential injectHosts keys, with key completion…]]'
 - '[[Changes/GitHub Copilot CLI/2026-10-12-3-safety-and-privacy-changes-in-v1-0-96|3
   Safety and Privacy changes in v1.0.96]]'
+- '[[Changes/Ollama/2026-10-12-updated-readme-and-documentation-with-clearer-privacy-and-cloud-services-wording|Updated
+  README and documentation with clearer privacy and cloud-services wording]]'
 - '[[Changes/OpenHands/2026-10-12-fix-telemetry-retry-automation-consent-sync-by-enyst-in-https-github-com-openhan|fix(telemetry):
   retry automation consent sync]]'
 source_release: '[[Releases/Cursor/cursor-2026-10-13-origin-app-marketplace-https-cursor-com-changelog-origin-app-mar-54aa7e2c|cursor-2026-10-13-origin-app-marketplace-https-cursor-com-changelog-origin-app-mar-54aa7e2c]]'

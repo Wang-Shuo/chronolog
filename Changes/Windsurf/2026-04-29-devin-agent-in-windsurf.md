@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: c72147b7cc6e960a32991737ba6665eff91eac5a08498f5f79275c5a4c7886e6
+machine_hash: 1cc214c4543ef601fd72a8ca3e0b8a17315bc7d4f59a6a50c5e6076d04812b13
 product: windsurf
 product_name: Windsurf
 record:
@@ -50,12 +50,12 @@ record:
   title: Devin Agent in Windsurf
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2026-04-28-3-agent-mode-changes-in-v0-40-0|3 Agent Mode changes
-  in v0.40.0]]'
 - '[[Changes/GitHub Copilot CLI/2026-04-28-press-ctrl-x-b-to-move-the-current-running-task-or-shell-command-to-the-backgrou|Press
   ctrl+x → b to move the current running task or shell command to the background]]'
 - '[[Changes/Cursor/2026-04-29-3-agent-mode-changes-in-build-programmatic-agents|3
   Agent Mode changes in Build programmatic agents…]]'
+- '[[Changes/Dify/2026-04-29-2-agent-mode-changes-in-1-14-0|2 Agent Mode changes in
+  1.14.0]]'
 source_release: '[[Releases/Windsurf/windsurf-2026-04-29-v2-1-29-94aaef5d|windsurf-2026-04-29-v2-1-29-94aaef5d]]'
 source_type: windsurf_changelog
 theme: agent-mode
@@ -86,7 +86,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2026-04-29 · Cursor · [[Changes/Cursor/2026-04-29-3-agent-mode-changes-in-build-programmatic-agents|3 Agent Mode changes in Build programmatic agents…]]
+- Earlier: 2026-04-29 · Dify · [[Changes/Dify/2026-04-29-2-agent-mode-changes-in-1-14-0|2 Agent Mode changes in 1.14.0]]
 - Later: 2026-04-30 · Codex CLI · [[Changes/Codex CLI/2026-04-30-19-agent-mode-changes-in-rust-v0-128-0|19 Agent Mode changes in rust-v0.128.0]]
 <!-- chronolog:end -->
 

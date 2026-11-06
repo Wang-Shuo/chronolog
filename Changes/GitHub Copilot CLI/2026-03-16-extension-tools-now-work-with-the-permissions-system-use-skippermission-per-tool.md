@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: fa6d1ed706b965a212dc6fc47cb25405b5158f4092afc1cc50d5721d0cca1274
+machine_hash: 7e69532d28f7513613e067ac37d365775763a29fd272bd1bc2e84d99aad059c1
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -45,8 +45,8 @@ record:
     per-tool…
   type: change
 related_changes:
-- '[[Changes/Cline/2026-03-12-markdown-image-loading-now-requires-user-consent|Markdown
-  image loading now requires user consent]]'
+- '[[Changes/v0/2026-03-12-improved-snowflake-deployment-error-messages-for-permission-issues|Improved
+  Snowflake deployment error messages for permission issues]]'
 - '[[Changes/Claude Code/2026-03-14-3-safety-and-privacy-changes-in-v2-1-76|3 Safety
   and Privacy changes in v2.1.76]]'
 - '[[Changes/Codex CLI/2026-03-16-9-safety-and-privacy-changes-in-rust-v0-115-0|9

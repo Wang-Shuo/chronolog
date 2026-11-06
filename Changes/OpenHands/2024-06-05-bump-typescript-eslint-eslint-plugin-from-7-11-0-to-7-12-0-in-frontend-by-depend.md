@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: f0059858a4ab6c87966032628c1ffe925e9966f4577044f4d40c3f349e0bdacf
+machine_hash: c67c3f2a91d1657ba7096309b351a00e4ef0c6c71fc82faccc427649e0ecb5ad
 product: openhands
 product_name: OpenHands
 record:
@@ -42,10 +42,10 @@ record:
   title: Bump @typescript-eslint/eslint-plugin from 7.11.0 to 7.12.0 in /frontend
   type: change
 related_changes:
-- '[[Changes/Cursor/2024-01-25-update-0-24-3-0-24-4-adds-ability-to-configure-openai-base-url-fixes-getcursor-c|UPDATE
-  (0.24.3-0.24.4): Adds ability to configure OpenAI base URL, fixes…]]'
-- '[[Changes/ChatGPT/2024-05-16-upload-the-latest-file-versions-directly-from-google-drive-microsoft-onedrive-pe-70f6a3|Upload
-  the latest file versions directly from Google Drive, Microsoft OneDrive…]]'
+- '[[Changes/Dify/2024-05-27-you-can-now-publish-your-ai-workflow-in-dify-as-a-reusable-tool-this-allows-for|Publish
+  your AI workflow in Dify as a reusable tool]]'
+- "[[Changes/Open WebUI/2024-06-02-usage-monitoring-with-langfuse-track-and-analyze-usage-statistics-with-langfuse|\U0001F4CA
+  Usage Monitoring with Langfuse]]"
 - '[[Changes/OpenHands/2024-06-04-2-apps-and-integrations-changes-in-0-6-1|2 Apps
   and Integrations changes in 0.6.1]]'
 source_release: '[[Releases/OpenHands/openhands-2024-06-05-0-6-2-github-159053013-a6a6d3e7|openhands-2024-06-05-0-6-2-github-159053013-a6a6d3e7]]'
@@ -77,7 +77,7 @@ type: change
 ## Nearby in Apps and Integrations
 
 - Earlier: 2024-06-04 · OpenHands · [[Changes/OpenHands/2024-06-04-2-apps-and-integrations-changes-in-0-6-1|2 Apps and Integrations changes in 0.6.1]]
-- Later: 2024-06-29 · OpenHands · [[Changes/OpenHands/2024-06-29-10-apps-and-integrations-changes-in-0-7-0|10 Apps and Integrations changes in 0.7.0]]
+- Later: 2024-06-07 · Ollama · [[Changes/Ollama/2024-06-07-ollama-can-now-be-accessed-from-local-apps-built-with-electron-and-tauri-as-well|Ollama can now be accessed from local apps built with Electron and Tauri, as well…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

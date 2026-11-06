@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 3517771f343cd373c97f1d88916d6491f455f3917c7645ac7d61c4776a1964d8
+machine_hash: 426426b3acfd09f4ed2c41cfde4929fdc8783bb9f33675ec2521df0a831aa2d2
 product: cline
 product_name: Cline
 record:
@@ -41,12 +41,12 @@ record:
   title: 'docs: remove Advanced Patterns and Testing & Debugging from Hooks docs'
   type: change
 related_changes:
-- '[[Changes/Cline/2025-12-02-2-developer-workflow-changes-in-v3-39-0|2 Developer
-  Workflow changes in v3.39.0]]'
 - '[[Changes/Codex CLI/2025-12-02-4-developer-workflow-changes-in-rust-v0-64-0|4 Developer
   Workflow changes in rust-v0.64.0]]'
 - '[[Changes/Gemini CLI/2025-12-02-4-developer-workflow-changes-in-v0-19-0|4 Developer
   Workflow changes in v0.19.0]]'
+- '[[Changes/Open WebUI/2025-12-02-13-developer-workflow-changes-in-v0-6-41|13 Developer
+  Workflow changes in v0.6.41]]'
 source_release: '[[Releases/Cline/cline-2025-12-04-v3-40-0-github-267309290-aef9a8dc|cline-2025-12-04-v3-40-0-github-267309290-aef9a8dc]]'
 source_type: github_releases
 theme: developer-workflow
@@ -79,7 +79,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2025-12-02 · Gemini CLI · [[Changes/Gemini CLI/2025-12-02-4-developer-workflow-changes-in-v0-19-0|4 Developer Workflow changes in v0.19.0]]
+- Earlier: 2025-12-02 · Open WebUI · [[Changes/Open WebUI/2025-12-02-13-developer-workflow-changes-in-v0-6-41|13 Developer Workflow changes in v0.6.41]]
 - Later: 2025-12-04 · Codex CLI · [[Changes/Codex CLI/2025-12-04-chore-make-create-approval-requirement-for-command-an-async-fn-7501-michael-boli|chore: make create_approval_requirement_for_command an async fn ♯7501 @Michael Bolin]]
 <!-- chronolog:end -->
 

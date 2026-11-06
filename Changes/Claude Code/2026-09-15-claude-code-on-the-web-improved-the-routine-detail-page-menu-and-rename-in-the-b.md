@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: f2950332c24914c203833195922269c39b894707dc3bdf32ab59c5bc852f74f2
+machine_hash: 1aea3e4b3c4c04ff94248fbb28284722a4f8aedf4a15a4b8bbaa31aab7b7605c
 product: claude-code
 product_name: Claude Code
 record:
@@ -44,10 +44,10 @@ record:
   title: '[Claude Code on the web] Improved the routine detail page'
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-10-2-interface-experience-changes-in-v2-1-268|2 Interface
-  Experience changes in v2.1.268]]'
 - '[[Changes/Claude Code/2026-09-11-3-interface-experience-changes-in-v2-1-269|3 Interface
   Experience changes in v2.1.269]]'
+- '[[Changes/Lovable/2026-09-11-preview-a-remixable-project-without-signing-in|Preview
+  a remixable project without signing in]]'
 - '[[Changes/Claude Code/2026-09-14-3-interface-experience-changes-in-v2-1-271|3 Interface
   Experience changes in v2.1.271]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-15-v2-1-273-github-389362239-6ea37826|claude-code-2026-09-15-v2-1-273-github-389362239-6ea37826]]'

@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: edf9f0421727361184b99a659f09eeb5360ff8d1cd107f94142fed517d3f01ee
+machine_hash: 1a2fde6dd91a3ce76327038436b07c1e283edd58fcf34cb8b5cb1aaa78cf815e
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -41,12 +41,12 @@ record:
   title: 2 Collaboration changes in rust-v0.123.0
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-04-13-2-collaboration-changes-in-v1-0-25|2 Collaboration
-  changes in v1.0.25]]'
 - '[[Changes/Codex CLI/2026-04-15-17717-codex-refactor-marketplace-add-into-shared-core-flow-xli-oai|♯17717
   codex Refactor marketplace add into shared core flow @xli-oai]]'
 - '[[Changes/Codex CLI/2026-04-20-18398-refactor-use-cloneable-async-channels-for-shared-receivers-bolinfest|♯18398
   refactor: use cloneable async channels for shared receivers @bolinfest]]'
+- "[[Changes/Open WebUI/2026-04-21-shared-chat-access-controls-you-can-now-control-who-has-access-to-a-shared-chat|\U0001F517
+  Shared chat access controls. You can now control who has access to a shared…]]"
 source_release: '[[Releases/Codex CLI/codex-cli-2026-04-23-rust-v0-123-0-github-312509536-cebe4f18|codex-cli-2026-04-23-rust-v0-123-0-github-312509536-cebe4f18]]'
 source_type: github_releases
 theme: collaboration
@@ -90,7 +90,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.123.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Collaboration
 
-- Earlier: 2026-04-20 · Codex CLI · [[Changes/Codex CLI/2026-04-20-18398-refactor-use-cloneable-async-channels-for-shared-receivers-bolinfest|♯18398 refactor: use cloneable async channels for shared receivers @bolinfest]]
+- Earlier: 2026-04-21 · Open WebUI · [[Changes/Open WebUI/2026-04-21-shared-chat-access-controls-you-can-now-control-who-has-access-to-a-shared-chat|🔗 Shared chat access controls. You can now control who has access to a shared…]]
 - Later: 2026-04-24 · Codex CLI · [[Changes/Codex CLI/2026-04-24-windows-bazel-ci-now-uses-a-stable-path-and-shared-query-startup-path-for-better|Windows Bazel CI now uses a stable PATH and shared query startup path for better…]]
 <!-- chronolog:end -->
 

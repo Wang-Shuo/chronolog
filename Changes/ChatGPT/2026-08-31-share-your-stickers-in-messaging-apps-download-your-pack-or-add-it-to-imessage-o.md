@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 0aeca7c294dd4e003b0f6375741f1f9fc44763c7a69af9fef797236538a73695
+machine_hash: 10e4b0160ecbe4eabf2c37ffd17be076dbfcbda1f9040a181fff1481f914ff41
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -43,12 +43,12 @@ record:
   title: Share your stickers in messaging apps
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-08-26-39811-restrict-macos-preference-reads-to-full-disk-policies-copyberry|♯39811
-  Restrict macOS preference reads to full-disk policies @copyberry]]'
 - '[[Changes/GitHub Copilot CLI/2026-08-27-sandboxed-builds-on-windows-create-their-scratch-caches-on-first-run-so-cargo-go|Sandboxed
   builds on Windows create their scratch caches on first run, so cargo, go…]]'
 - '[[Changes/OpenHands/2026-08-27-feat-add-linux-desktop-installer-build-ci-deb-maintainer-fix-by-georgeglarson-in|feat:
   add linux desktop installer build (CI + deb maintainer fix)]]'
+- '[[Changes/v0/2026-08-28-the-native-mobile-app-gained-message-queuing-tappable-links-shared-chat-author-a|The
+  native mobile app gained message queuing, tappable links, shared-chat author…]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-08-31-create-and-share-personalized-sticker-packs-120616f6|chatgpt-2026-08-31-create-and-share-personalized-sticker-packs-120616f6]]'
 source_type: chatgpt_changelog
 theme: mobile-desktop
@@ -75,7 +75,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2026-08-27 · OpenHands · [[Changes/OpenHands/2026-08-27-feat-add-linux-desktop-installer-build-ci-deb-maintainer-fix-by-georgeglarson-in|feat: add linux desktop installer build (CI + deb maintainer fix)]]
+- Earlier: 2026-08-28 · v0 · [[Changes/v0/2026-08-28-the-native-mobile-app-gained-message-queuing-tappable-links-shared-chat-author-a|The native mobile app gained message queuing, tappable links, shared-chat author…]]
 - Later: 2026-08-31 · ChatGPT · [[Changes/ChatGPT/2026-08-31-chatgpt-work-and-codex-can-now-use-tools-that-supported-websites-provide-directl|ChatGPT Work and Codex can now use tools that supported websites provide directly…]]
 <!-- chronolog:end -->
 

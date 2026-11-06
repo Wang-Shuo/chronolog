@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: f4656c5f51f64f9ada6518b9c8ca58449d8d0090011f06ae7af632f1bcb052e4
+machine_hash: 96eb2d247f7a2e2ac85ff7fa92194c7d0ec96007d51e81a166699bc97925bbc6
 product: openhands
 product_name: OpenHands
 record:
@@ -45,7 +45,8 @@ record:
   title: Significantly improved the security of the OpenHands enterprise Docker image…
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-09-29-sandboxed-terminals|Sandboxed terminals]]'
+- '[[Changes/Open WebUI/2025-09-29-2-safety-and-privacy-changes-in-v0-6-32|2 Safety
+  and Privacy changes in v0.6.32]]'
 - '[[Changes/Gemini CLI/2025-10-01-4-safety-and-privacy-changes-in-v0-7-0|4 Safety
   and Privacy changes in v0.7.0]]'
 - '[[Changes/GitHub Copilot CLI/2025-10-01-improved-how-we-extract-paths-from-shell-commands-for-permission-handling-might|Improved

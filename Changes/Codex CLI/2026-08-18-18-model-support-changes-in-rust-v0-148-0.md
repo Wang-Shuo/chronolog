@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 663dc1b1137909493b01915116eb65edb0da20f9ad8f97e83ec1d0f5bd668442
+machine_hash: c9bd9406dbce16da449bbacc22502609023df732d9ed340cf2b925a579fb2b51
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -77,10 +77,10 @@ record:
   title: 18 Model Support changes in rust-v0.148.0
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-08-14-update-model-configurations|Update model
-  configurations]]'
 - '[[Changes/Claude Code/2026-08-17-2-model-support-changes-in-v2-1-234|2 Model Support
   changes in v2.1.234]]'
+- '[[Changes/Lovable/2026-08-17-gemini-3-7-flash-for-your-app-s-ai-features|Gemini
+  3.7 Flash for your app''s AI features]]'
 - '[[Changes/OpenHands/2026-08-17-feat-add-llm-pre-flight-validation-to-prevent-saving-misconfigured-profiles-by-n|feat:
   add LLM pre-flight validation to prevent saving misconfigured profiles]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-08-18-rust-v0-148-0-github-372686337-4265c0ae|codex-cli-2026-08-18-rust-v0-148-0-github-372686337-4265c0ae]]'
@@ -160,7 +160,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.148.0
 ## Nearby in Model Support
 
 - Earlier: 2026-08-17 · OpenHands · [[Changes/OpenHands/2026-08-17-feat-add-llm-pre-flight-validation-to-prevent-saving-misconfigured-profiles-by-n|feat: add LLM pre-flight validation to prevent saving misconfigured profiles]]
-- Later: 2026-08-19 · Claude Code · [[Changes/Claude Code/2026-08-19-added-anthropic-default-model-environment-variable-sets-the-model-new-sessions-s|Added ANTHROPIC_DEFAULT_MODEL environment variable]]
+- Later: 2026-08-18 · Lovable · [[Changes/Lovable/2026-08-18-gemini-3-7-flash-is-now-the-default-model-for-your-app-s-ai-features|Gemini 3.7 Flash is now the default model for your app's AI features]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

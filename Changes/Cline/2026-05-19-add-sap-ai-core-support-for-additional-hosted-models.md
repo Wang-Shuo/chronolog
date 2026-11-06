@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 4a30b8a18b13f1a61b382fd523b57cfb6d6f518e73f5b642f4fdbebe980ff25a
+machine_hash: b15200cec3054d037b3159d7c4a411d79df5a524c5c6699ea8dc0c2c728307e8
 product: cline
 product_name: Cline
 record:
@@ -42,10 +42,10 @@ record:
   title: Add SAP AI Core support for additional hosted models
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-05-18-composer-2-5-includes-double-usage-for-the-first-week-see-our-model-docs-for-ful|Composer
-  2.5 includes double usage for the first week]]'
 - '[[Changes/Cursor/2026-05-18-it-s-a-substantial-improvement-in-intelligence-and-behavior-over-composer-2-it-i|It''s
   a substantial improvement in intelligence and behavior over Composer 2]]'
+- '[[Changes/Lovable/2026-05-18-lovable-ai-models-for-app-features|Lovable AI models
+  for app features]]'
 - '[[Changes/Claude Code/2026-05-19-resumed-sessions-now-keep-the-model-they-were-using-instead-of-picking-up-anothe|Resumed
   sessions now keep the model they were using instead of picking up another…]]'
 source_release: '[[Releases/Cline/cline-2026-05-19-v3-84-0-github-325191933-76f45c64|cline-2026-05-19-v3-84-0-github-325191933-76f45c64]]'
@@ -78,7 +78,7 @@ type: change
 ## Nearby in Model Support
 
 - Earlier: 2026-05-19 · Claude Code · [[Changes/Claude Code/2026-05-19-resumed-sessions-now-keep-the-model-they-were-using-instead-of-picking-up-anothe|Resumed sessions now keep the model they were using instead of picking up another…]]
-- Later: 2026-05-19 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-05-19-2-model-support-changes-in-v1-0-49|2 Model Support changes in v1.0.49]]
+- Later: 2026-05-19 · Dify · [[Changes/Dify/2026-05-19-3-model-support-changes-in-1-14-2|3 Model Support changes in 1.14.2]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

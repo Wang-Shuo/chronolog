@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: bc2805aa89ca6162f0cfadc8634961fef3c271f73e4dcc38a5ead6bbeb9600e5
+machine_hash: 0dfd8b7dd728d6fb18cacae5667d3dc5e850d776593ddf04e7baf07c86af56f8
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -47,10 +47,9 @@ record:
   title: 4 Apps and Integrations changes in v1.0.61
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-06-06-added-glob-pattern-support-in-deny-rule-tool-name-position-denies-all-tools-allo|Added
-  glob pattern support in deny rule tool-name position ("" denies all tools)]]'
-- '[[Changes/Codex CLI/2026-06-08-19-apps-and-integrations-changes-in-rust-v0-138-0|19
-  Apps and Integrations changes in rust-v0.138.0]]'
+- '[[Changes/ElevenLabs/2026-06-08-sdk-releases|SDK Releases]]'
+- '[[Changes/v0/2026-06-08-4-apps-and-integrations-changes-in-changelog-update|4 Apps
+  and Integrations changes in Changelog update]]'
 - '[[Changes/Codex CLI/2026-06-09-8-apps-and-integrations-changes-in-rust-v0-139-0|8
   Apps and Integrations changes in rust-v0.139.0]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-06-09-v1-0-61-github-336905979-4d0a69f2|github-copilot-cli-2026-06-09-v1-0-61-github-336905979-4d0a69f2]]'

@@ -1,0 +1,95 @@
+---
+card_id: replit-2025-06-27-0076f0
+date: '2025-06-27'
+description: 'Replit · 2025-06-27 · Pricing Model: Enhanced billing protection ensures
+  sustainable service for all users by preventing abuse of unpaid services in enterprise…'
+diffusion:
+  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-daily-limit-to-ensure-a-high-quality-experience-for-all-chatgpt-users-we-are-exp|Daily
+    limit: To ensure a high-quality experience for all ChatGPT users, we…]]'
+  inference: No adoption, equivalence, or causation claim.
+  lag_days: 925
+  relation: same-theme-chronology
+  role: later-observed
+  scope: tracked-products-only
+  theme: pricing-model
+  tracked_products_count: 20
+evolves_from: []
+extractor_version: fallback-v5
+impact: incremental
+kind: pricing
+machine_hash: 95c2dc70001585c058c8498320b03b9055d236a62707d3fa7c518ead7d4e540a
+product: replit
+product_name: Replit
+record:
+  card_id: replit-2025-06-27-0076f0
+  comparison: ''
+  date: '2025-06-27'
+  description: 'Replit — Replit updates — 2025-06-27: Enhanced billing protection
+    ensures sustainable service for all users by preventing abuse of unpaid services
+    in enterprise accounts.'
+  evidence:
+  - quote: Enhanced billing protection ensures sustainable service for all users by
+      preventing abuse of unpaid services in enterprise accounts.
+    source_release: https://docs.replit.com/updates/2025/06/27/changelog
+  extractor_version: fallback-v5
+  impact: incremental
+  kind: pricing
+  product: replit
+  product_name: Replit
+  slug: organization-suspension-from-ubb-services
+  source_release: replit-2025-06-27-2025-06-27-b39448c0
+  source_type: replit_changelog
+  theme: pricing-model
+  title: Organization suspension from UBB services
+  type: change
+related_changes:
+- '[[Changes/ElevenLabs/2025-05-19-billing|Billing]]'
+- '[[Changes/Gemini/2025-05-20-get-more-from-the-gemini-app-with-the-google-ai-pro-subscription|Get
+  more from the Gemini app with the Google AI Pro subscription]]'
+- '[[Changes/ElevenLabs/2025-06-17-subscription-management|Subscription Management]]'
+source_release: '[[Releases/Replit/replit-2025-06-27-2025-06-27-b39448c0|replit-2025-06-27-2025-06-27-b39448c0]]'
+source_type: replit_changelog
+theme: pricing-model
+title: Organization suspension from UBB services
+type: change
+---
+
+<!-- chronolog:begin region="header" -->
+# Organization suspension from UBB services
+
+**Replit** · 2025-06-27 · [[Themes/pricing-model|Pricing Model]] · Pricing · [Official source](https://docs.replit.com/updates/2025/06/27/changelog) · from [[Releases/Replit/replit-2025-06-27-2025-06-27-b39448c0|Replit updates — 2025-06-27]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="evidence" -->
+> Enhanced billing protection ensures sustainable service for all users by preventing abuse of unpaid services in enterprise accounts.
+>
+> Source: https://docs.replit.com/updates/2025/06/27/changelog
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="context" -->
+## Also in this release
+
+- [[Changes/Replit/2025-06-27-teams-and-enterprise|Teams and Enterprise]] · Enterprise and Administration
+- [[Changes/Replit/2025-06-27-new-landing-page-for-viewer-seats|New landing page for viewer seats]] · Apps and Integrations
+- [[Changes/Replit/2025-06-27-new-app-store-screenshots|New App Store screenshots]] · Mobile and Desktop
+- [[Changes/Replit/2025-06-27-agent-system-prompt-optimization|Agent system prompt optimization]] · Agent Mode
+- [[Changes/Replit/2025-06-27-new-app-creation-experience|New app creation experience]] · Agent Mode
+- [[Changes/Replit/2025-06-27-security-scanner-updates|Security scanner updates]] · Safety and Privacy
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="nearby" -->
+## Nearby in Pricing Model
+
+- Earlier: 2025-06-17 · ElevenLabs · [[Changes/ElevenLabs/2025-06-17-subscription-management|Subscription Management]]
+- Later: 2025-07-01 · Gemini CLI · [[Changes/Gemini CLI/2025-07-01-docs-add-a-page-detailing-quota-and-cost-information-by-ptone-in-https-github-co|Docs: Add a page detailing quota and cost information]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="relations" -->
+## Related
+
+- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-daily-limit-to-ensure-a-high-quality-experience-for-all-chatgpt-users-we-are-exp|Daily limit: To ensure a high-quality experience for all ChatGPT users, we…]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="footer" -->
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20replit-2025-06-27-0076f0&body=Card%3A%20Changes%2FReplit%2F2025-06-27-organization-suspension-from-ubb-services.md%0ACard%20ID%3A%20replit-2025-06-27-0076f0%0ASource%3A%20https%3A%2F%2Fdocs.replit.com%2Fupdates%2F2025%2F06%2F27%2Fchangelog%0A%0AWhat%20should%20be%20corrected%3F%0A)
+<!-- chronolog:end -->

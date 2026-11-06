@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 9307a0777aa33a6230b5518f570ad5c9ece4bef056d0bc28e6fc84897881f216
+machine_hash: 98f9d78d0bdf091270b9e121aa4b71994800a88220b4a7dce3a1cc0e7f4761cc
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -57,10 +57,9 @@ record:
   title: 5 Safety and Privacy changes in v1.0.81
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-08-26-2-safety-and-privacy-changes-in-v2-1-247|2 Safety
-  and Privacy changes in v2.1.247]]'
 - '[[Changes/Codex CLI/2026-08-26-12-safety-and-privacy-changes-in-rust-v0-150-0|12
   Safety and Privacy changes in rust-v0.150.0]]'
+- '[[Changes/Lovable/2026-08-26-log-out-everywhere|Log out everywhere]]'
 - '[[Changes/Claude Code/2026-08-27-4-safety-and-privacy-changes-in-v2-1-248|4 Safety
   and Privacy changes in v2.1.248]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-08-27-v1-0-81-github-377993714-523d567a|github-copilot-cli-2026-08-27-v1-0-81-github-377993714-523d567a]]'
@@ -117,7 +116,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.81
 ## Nearby in Safety and Privacy
 
 - Earlier: 2026-08-27 · Claude Code · [[Changes/Claude Code/2026-08-27-4-safety-and-privacy-changes-in-v2-1-248|4 Safety and Privacy changes in v2.1.248]]
-- Later: 2026-08-28 · Claude Code · [[Changes/Claude Code/2026-08-28-6-safety-and-privacy-changes-in-v2-1-251|6 Safety and Privacy changes in v2.1.251]]
+- Later: 2026-08-27 · Lovable · [[Changes/Lovable/2026-08-27-restrict-external-invites-to-verified-email-domains|Restrict external invites to verified email domains]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

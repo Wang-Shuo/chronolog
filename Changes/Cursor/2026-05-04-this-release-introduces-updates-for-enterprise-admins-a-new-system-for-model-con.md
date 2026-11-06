@@ -4,20 +4,20 @@ date: '2026-05-04'
 description: 'Cursor · 2026-05-04 · Enterprise and Administration: This release introduces
   updates for Enterprise admins: a new system for model controls, updated spend…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2024-03-20-admin-improvements-team-admins-can-now-mark-themselves-as-unpaid-users-and-can-s|Admin
-    improvements: Team admins can now mark themselves as unpaid users and can see…]]'
+  first_in_tracked: '[[Changes/Gemini/2023-05-05-access-for-google-workspace-accounts|Access
+    for Google Workspace accounts]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 775
+  lag_days: 1095
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 73d69f92b884db38aef6a7591dc86bde091031022c7bb7ef941a5a19e4b0ce07
+machine_hash: b42b58d7757c8abe824b4047d5a120b9da1164770a7a75aece71db0bfa762ba8
 product: cursor
 product_name: Cursor
 record:
@@ -55,12 +55,11 @@ record:
   title: Cursor introduces updates for Enterprise admins
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-04-16-we-re-beginning-to-roll-out-ads-for-users-on-free-and-go-plans-in-australia-new|Rolling
-  out ads in Australia, New Zealand, and Canada]]'
-- '[[Changes/Claude Code/2026-04-23-added-disable-updates-env-var-to-completely-block-all-update-paths-including-man|Added
-  DISABLE_UPDATES env var to completely block all update paths including…]]'
+- '[[Changes/Lovable/2026-04-24-workspace-provisioning|Workspace provisioning]]'
 - '[[Changes/Claude Code/2026-04-28-pasting-a-pr-url-into-the-resume-search-box-now-finds-the-session-that-created-t|Pasting
   a PR URL into the /resume search box now finds the session that created…]]'
+- '[[Changes/Dify/2026-04-29-2-enterprise-and-administration-changes-in-1-14-0|2 Enterprise
+  and Administration changes in 1.14.0]]'
 source_release: '[[Releases/Cursor/cursor-2026-05-04-model-controls-spend-management-and-usage-analytics-https-cursor-1ab41047|cursor-2026-05-04-model-controls-spend-management-and-usage-analytics-https-cursor-1ab41047]]'
 source_type: cursor_changelog
 theme: enterprise-admin
@@ -91,14 +90,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Enterprise and Administration
 
-- Earlier: 2026-04-28 · Claude Code · [[Changes/Claude Code/2026-04-28-pasting-a-pr-url-into-the-resume-search-box-now-finds-the-session-that-created-t|Pasting a PR URL into the /resume search box now finds the session that created…]]
+- Earlier: 2026-04-29 · Dify · [[Changes/Dify/2026-04-29-2-enterprise-and-administration-changes-in-1-14-0|2 Enterprise and Administration changes in 1.14.0]]
 - Later: 2026-05-07 · Claude Code · [[Changes/Claude Code/2026-05-07-added-parentsettingsbehavior-admin-tier-key-first-wins-merge-to-let-admins-opt-s|Added parentSettingsBehavior admin-tier key ('first-wins'  /  'merge') to let…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2024-03-20 · Cursor · [[Changes/Cursor/2024-03-20-admin-improvements-team-admins-can-now-mark-themselves-as-unpaid-users-and-can-s|Admin improvements: Team admins can now mark themselves as unpaid users and can see…]]
+- Earliest same-theme entry in the tracked set: 2023-05-05 · Gemini · [[Changes/Gemini/2023-05-05-access-for-google-workspace-accounts|Access for Google Workspace accounts]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

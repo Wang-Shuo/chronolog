@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 5fa5e399db1c7e6a49de95369f41e569194d4010012f2011a5bbe9f27bcc34d2
+machine_hash: d6a9c80977f2ced289f685bf8ed7b6d42d5918b99abdf87c8208f1cc577f734b
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -44,12 +44,12 @@ record:
   title: 3 Interface Experience changes in rust-v0.24.0
   type: change
 related_changes:
-- '[[Changes/Cline/2025-08-13-move-browser-settings-menu-to-tailwind-by-celestial-vault-in-https-github-com-cl|move
-  browser settings menu to tailwind]]'
-- '[[Changes/Gemini CLI/2025-08-14-3-interface-experience-changes-in-v0-1-21|3 Interface
-  Experience changes in v0.1.21]]'
 - '[[Changes/Codex CLI/2025-08-20-2-interface-experience-changes-in-rust-v0-23-0|2
   Interface Experience changes in rust-v0.23.0]]'
+- '[[Changes/Gemini/2025-08-21-revisit-your-conversations-you-can-now-search-your-gemini-chat-history|Revisit
+  your conversations: You can now search your Gemini chat history]]'
+- '[[Changes/Open WebUI/2025-08-21-8-interface-experience-changes-in-v0-6-23|8 Interface
+  Experience changes in v0.6.23]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2025-08-26-rust-v0-24-0-github-242647588-70fa432e|codex-cli-2025-08-26-rust-v0-24-0-github-242647588-70fa432e]]'
 source_type: github_releases
 theme: interface-experience
@@ -95,7 +95,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.24.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2025-08-20 · Codex CLI · [[Changes/Codex CLI/2025-08-20-2-interface-experience-changes-in-rust-v0-23-0|2 Interface Experience changes in rust-v0.23.0]]
+- Earlier: 2025-08-21 · Open WebUI · [[Changes/Open WebUI/2025-08-21-8-interface-experience-changes-in-v0-6-23|8 Interface Experience changes in v0.6.23]]
 - Later: 2025-08-27 · Codex CLI · [[Changes/Codex CLI/2025-08-27-improve-emoji-rendering-proper-spacing-and-emoji-variant-2735-2728|Improve emoji rendering: proper spacing and ⌨️ emoji variant (♯2735, ♯2728)]]
 <!-- chronolog:end -->
 

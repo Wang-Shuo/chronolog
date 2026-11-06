@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: accessibility-localization
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: f077958c0d8534df4c39f62c6b89d707f6636b528d46040cebaa3be952bb4dc4
+machine_hash: eb236b30fb7f656a119f9b9a9186e2331c423b76cdcb8b7f4fb9629a428bf107
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -41,10 +41,10 @@ record:
   title: '#46040 Default TUI animations off when a screen reader is detected @etraut-openai'
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-08-14-improved-screen-reader-mode-the-effort-selector-renders-as-a-numbered-list-with|Improved
-  screen reader mode]]'
 - '[[Changes/Claude Code/2026-09-10-vscode-added-a-claude-code-focus-last-message-command-that-moves-keyboard-focus|VSCode
   Added a "Claude Code]]'
+- '[[Changes/Dify/2026-09-10-3-accessibility-and-localization-changes-in-1-17-1|3
+  Accessibility and Localization changes in 1.17.1]]'
 - '[[Changes/Claude Code/2026-09-17-vscode-improved-screen-reader-navigation-of-the-conversation-each-message-is-ann|VSCode
   Improved screen reader navigation of the conversation]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-09-22-rust-v0-156-0-github-394061815-b23dd5f4|codex-cli-2026-09-22-rust-v0-156-0-github-394061815-b23dd5f4]]'

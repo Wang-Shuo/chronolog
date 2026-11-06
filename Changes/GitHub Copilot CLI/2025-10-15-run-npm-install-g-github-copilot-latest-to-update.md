@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 63e39a8481f5ed60263ba808c0194a811f7aacce5a8355a4c5ed318cfc4a03fc
+machine_hash: 02fc5aca403a05876a1b96822667fb5631b1208198cbb2d3760a87ab3064460c
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -43,8 +43,8 @@ record:
   title: Run `npm install -g @github/copilot@latest` to update!
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2025-10-10-run-npm-install-g-github-copilot-latest-to-update|Run
-  npm install -g @github/copilot@latest to update!]]'
+- '[[Changes/Replit/2025-10-10-escape-key-for-visual-select-edit-mode|Escape key for
+  Visual Select/Edit mode]]'
 - '[[Changes/GitHub Copilot CLI/2025-10-13-2-editor-experience-changes-in-v0-0-340|2
   Editor Experience changes in v0.0.340]]'
 - '[[Changes/Gemini CLI/2025-10-15-4-editor-experience-changes-in-v0-9-0|4 Editor

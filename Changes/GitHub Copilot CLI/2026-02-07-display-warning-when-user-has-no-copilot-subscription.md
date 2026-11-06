@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: pricing
-machine_hash: 03ff5ae01ffa86708a92a305e457e291ef03e9553acd328327ac1441d3018051
+machine_hash: a0f57d8193b28739f955f7dceac02513e75cf087285510e26491d4ed2b4477ef
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -79,7 +79,7 @@ type: change
 ## Nearby in Pricing Model
 
 - Earlier: 2026-02-05 · Cline · [[Changes/Cline/2026-02-05-codex-5-3-through-chatgpt-subscription|Codex-5.3 through ChatGPT subscription]]
-- Later: 2026-03-03 · Gemini CLI · [[Changes/Gemini CLI/2026-03-03-feat-billing-implement-g1-ai-credits-overage-flow-with-billing-telemetry-by-gsqu|feat(billing): implement G1 AI credits overage flow with billing telemetry]]
+- Later: 2026-02-11 · Dify · [[Changes/Dify/2026-02-11-to-support-the-stateful-pause-resume-mechanism-required-by-hitl-and-provide-even|To support the stateful pause/resume mechanism required by HITL and provide…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

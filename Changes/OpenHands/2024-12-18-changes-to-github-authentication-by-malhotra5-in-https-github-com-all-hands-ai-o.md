@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 38d0ca57b0eca0ddd4d0f1e63e96baa846772be7e92124cccc8757adfab302dc
+machine_hash: da917c36a0e557b18677bc7e57a1dcccabd3f313873ddb91b101fab36e6549ae
 product: openhands
 product_name: OpenHands
 record:
@@ -41,12 +41,12 @@ record:
   title: Changes to Github Authentication
   type: change
 related_changes:
-- '[[Changes/Cursor/2023-09-01-you-should-now-be-able-to-sign-in-with-github-again|You
-  should now be able to sign in with GitHub again]]'
-- '[[Changes/ChatGPT/2024-04-01-we-re-making-it-easier-for-people-to-experience-the-benefits-of-ai-without-needi|Start
-  using ChatGPT instantly]]'
+- "[[Changes/Open WebUI/2024-11-26-ollama-authentication-corrected-an-issue-with-ollama-s-authorization-headers-gua|\U0001F511
+  Ollama Authentication]]"
 - '[[Changes/OpenHands/2024-12-06-updated-initial-sign-in-with-github-modal-by-amanape-in-https-github-com-all-han|Updated
   initial Sign in with Github modal]]'
+- '[[Changes/Dify/2024-12-18-make-login-lockout-duration-configurable-by-kazuhisa-wada-in-https-github-com-la|make
+  login lockout duration configurable]]'
 source_release: '[[Releases/OpenHands/openhands-2024-12-18-0-16-0-github-191542164-e194bcbc|openhands-2024-12-18-0-16-0-github-191542164-e194bcbc]]'
 source_type: github_releases
 theme: account-access
@@ -73,8 +73,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Account and Access
 
-- Earlier: 2024-12-06 · OpenHands · [[Changes/OpenHands/2024-12-06-updated-initial-sign-in-with-github-modal-by-amanape-in-https-github-com-all-han|Updated initial Sign in with Github modal]]
-- Later: 2025-03-31 · Aider · [[Changes/Aider/2025-03-31-2-account-and-access-changes-in-v0-80-0|2 Account and Access changes in v0.80.0]]
+- Earlier: 2024-12-18 · Dify · [[Changes/Dify/2024-12-18-make-login-lockout-duration-configurable-by-kazuhisa-wada-in-https-github-com-la|make login lockout duration configurable]]
+- Later: 2024-12-25 · Open WebUI · [[Changes/Open WebUI/2024-12-25-oauth-management-for-user-groups-enable-group-level-management-via-oauth-integra|🛠️ OAuth Management for User Groups]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

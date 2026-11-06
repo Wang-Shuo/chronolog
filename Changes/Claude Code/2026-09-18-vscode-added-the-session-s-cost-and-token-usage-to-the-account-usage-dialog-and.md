@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: pricing
-machine_hash: f8726f8cb4b3c253597b440cb73b6dc7928f28652cd820ce05d9b2068c99f1ad
+machine_hash: 5437903c982a45928dd1cbbaf540b9e8865d918573602e661f68e49c46e0dafe
 product: claude-code
 product_name: Claude Code
 record:
@@ -93,7 +93,7 @@ type: change
 ## Nearby in Pricing Model
 
 - Earlier: 2026-09-17 · Cline · [[Changes/Cline/2026-09-17-cline-pass-now-defaults-to-a-model-from-your-subscription-rather-than-a-free-one|Cline Pass now defaults to a model from your subscription rather than a free one]]
-- Later: 2026-09-19 · Claude Code · [[Changes/Claude Code/2026-09-19-changed-auto-mode-for-claude-api-and-enterprise-users-and-on-bedrock-vertex-foun|Changed auto mode for Claude API and Enterprise users, and on Bedrock, Vertex…]]
+- Later: 2026-09-18 · Lovable · [[Changes/Lovable/2026-09-18-use-firecrawl-without-a-firecrawl-account|Use Firecrawl without a Firecrawl account]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

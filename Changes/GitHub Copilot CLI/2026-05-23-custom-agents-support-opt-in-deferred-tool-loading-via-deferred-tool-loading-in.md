@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: 1934b323eeed497a73806bce09c5a9fefe9e2cebe45174a98ae61f1a4a55a411
+machine_hash: a238cabad056fc9dff7b4a7c44bb1916978f97f8e35dbdd8a42a8351f8838142
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -46,12 +46,11 @@ record:
   title: Custom agents support opt-in deferred tool loading via `deferred-tool-loading`…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-05-21-auto-mode-no-longer-suppresses-askuserquestion-when-the-user-or-a-skill-explicit|Auto
-  mode no longer suppresses AskUserQuestion when the user or a skill explicitly…]]'
-- '[[Changes/Codex CLI/2026-05-21-7-agent-mode-changes-in-rust-v0-133-0|7 Agent Mode
-  changes in rust-v0.133.0]]'
-- '[[Changes/Gemini CLI/2026-05-22-2-agent-mode-changes-in-v0-43-0|2 Agent Mode changes
-  in v0.43.0]]'
+- '[[Changes/Replit/2026-05-22-agent-suggests-power-mode-when-you-re-stuck|Agent suggests
+  Power Mode when you''re stuck]]'
+- '[[Changes/Replit/2026-05-22-agent-settings-stay-yours-in-shared-projects|Agent
+  settings stay yours in shared projects]]'
+- '[[Changes/Replit/2026-05-22-agent|Agent]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-05-23-v1-0-52-github-328402909-801444d4|github-copilot-cli-2026-05-23-v1-0-52-github-328402909-801444d4]]'
 source_type: github_releases
 theme: agent-mode
@@ -89,8 +88,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2026-05-22 · Gemini CLI · [[Changes/Gemini CLI/2026-05-22-2-agent-mode-changes-in-v0-43-0|2 Agent Mode changes in v0.43.0]]
-- Later: 2026-05-26 · Codex CLI · [[Changes/Codex CLI/2026-05-26-3-agent-mode-changes-in-rust-v0-134-0|3 Agent Mode changes in rust-v0.134.0]]
+- Earlier: 2026-05-22 · Replit · [[Changes/Replit/2026-05-22-agent|Agent]]
+- Later: 2026-05-25 · ElevenLabs · [[Changes/ElevenLabs/2026-05-25-elevenagents|ElevenAgents]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

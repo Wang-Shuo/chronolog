@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 353f61ee0dafd27e77814ecb258a39c0695add24629327f477af6a6f54ead641
+machine_hash: ab38f5e6bdae0f8eebc2e6dff363446bd8cf6b4aced830346060322cbda131f1
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -90,8 +90,8 @@ record:
   title: 22 Developer Workflow changes in rust-v0.156.0
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-09-21-5-developer-workflow-changes-in-v1-0-87|5
-  Developer Workflow changes in v1.0.87]]'
+- '[[Changes/Open WebUI/2026-09-21-39-developer-workflow-changes-in-v0-11-4|39 Developer
+  Workflow changes in v0.11.4]]'
 - '[[Changes/Claude Code/2026-09-22-3-developer-workflow-changes-in-v2-1-280|3 Developer
   Workflow changes in v2.1.280]]'
 - '[[Changes/Cline/2026-09-22-output-from-background-commands-now-streams-into-the-command-row-while-the-comma|Output

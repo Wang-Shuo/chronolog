@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 43f411c18d0281cdfc2fc09e040bc251d3b021586c17e874f86d7151d6c4c186
+machine_hash: 79788641d7f614b607064c233f54fe35e20d8e0b09de77ec3d2acd102b40d7ab
 product: cursor
 product_name: Cursor
 record:
@@ -84,7 +84,7 @@ type: change
 ## Nearby in Editor Experience
 
 - Earlier: 2024-05-13 · Aider · [[Changes/Aider/2024-05-13-improved-reflection-feedback-to-llms-using-the-diff-edit-format|Improved reflection feedback to LLMs using the diff edit format]]
-- Later: 2024-06-04 · Aider · [[Changes/Aider/2024-06-04-properly-override-git-editor-env-for-commits-if-it-is-already-set|Properly override GIT_EDITOR env for commits if it is already set]]
+- Later: 2024-06-03 · Open WebUI · [[Changes/Open WebUI/2024-06-03-edit-titles-with-double-click-double-click-on-titles-to-rename-them-quickly-and|✏️ Edit Titles with Double Click]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

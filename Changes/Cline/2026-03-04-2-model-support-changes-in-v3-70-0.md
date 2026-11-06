@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: b6a23dfca673852f0ef5448ee6a04f5a7d8066a4fd9abdd4ec3444d5761a9274
+machine_hash: a6bc4316d4ee8b0c154c4f59f2377c51bf3212cd5ac9cbb8ab1403a8dd333998
 product: cline
 product_name: Cline
 record:
@@ -43,10 +43,10 @@ record:
   title: 2 Model Support changes in v3.70.0
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2026-03-03-3-model-support-changes-in-v0-32-0|3 Model Support
-  changes in v0.32.0]]'
 - '[[Changes/GitHub Copilot CLI/2026-03-03-2-model-support-changes-in-v0-0-421|2 Model
   Support changes in v0.0.421]]'
+- '[[Changes/v0/2026-03-03-added-model-selection-when-retrying-messages|Added model
+  selection when retrying messages]]'
 - '[[Changes/Claude Code/2026-03-04-3-model-support-changes-in-v2-1-68|3 Model Support
   changes in v2.1.68]]'
 source_release: '[[Releases/Cline/cline-2026-03-04-v3-70-0-github-293184978-91bc11b0|cline-2026-03-04-v3-70-0-github-293184978-91bc11b0]]'
@@ -86,7 +86,7 @@ Source: https://github.com/cline/cline/releases/tag/v3.70.0
 ## Nearby in Model Support
 
 - Earlier: 2026-03-04 · Claude Code · [[Changes/Claude Code/2026-03-04-3-model-support-changes-in-v2-1-68|3 Model Support changes in v2.1.68]]
-- Later: 2026-03-05 · Claude Code · [[Changes/Claude Code/2026-03-05-changed-sonnet-4-5-users-on-pro-max-team-premium-to-be-automatically-migrated-to|Changed Sonnet 4.5 users on Pro/Max/Team Premium to be automatically migrated…]]
+- Later: 2026-03-04 · v0 · [[Changes/v0/2026-03-04-added-auto-model-selection|Added auto model selection]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

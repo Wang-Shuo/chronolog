@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: pricing
-machine_hash: 007fc3b5af8f6071a55a29c6eed17f6e76ce22c898165739e9b8352b1d39ae6d
+machine_hash: 8d9cd27ea0529a171c28072bea5043018b1cc1eae1b79afd4060975779ab25bb
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -56,12 +56,12 @@ record:
   title: Auto top-up for flexible usage credits
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-02-07-display-warning-when-user-has-no-copilot-subscription|Display
-  warning when user has no Copilot subscription]]'
-- '[[Changes/Gemini CLI/2026-03-03-feat-billing-implement-g1-ai-credits-overage-flow-with-billing-telemetry-by-gsqu|feat(billing):
-  implement G1 AI credits overage flow with billing telemetry]]'
 - '[[Changes/Cline/2026-03-04-token-cost-updates-now-happen-immediately-as-usage-chunks-arrive-not-after-tool|Token/cost
   updates now happen immediately as usage chunks arrive, not after tool execution]]'
+- '[[Changes/v0/2026-03-04-added-low-credits-warning-and-auto-recharge-opt-in-to-improve-out-of-credits-flo|Added
+  low-credits warning and auto-recharge opt-in to improve out-of-credits flow]]'
+- '[[Changes/v0/2026-03-09-updated-the-usage-page-to-show-all-token-cost-types-in-tooltips|Updated
+  the Usage page to show all token cost types in tooltips]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-03-10-auto-top-up-for-flexible-usage-credits-462c6ddf|chatgpt-2026-03-10-auto-top-up-for-flexible-usage-credits-462c6ddf]]'
 source_type: chatgpt_changelog
 theme: pricing-model
@@ -90,8 +90,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Pricing Model
 
-- Earlier: 2026-03-04 · Cline · [[Changes/Cline/2026-03-04-token-cost-updates-now-happen-immediately-as-usage-chunks-arrive-not-after-tool|Token/cost updates now happen immediately as usage chunks arrive, not after tool execution]]
-- Later: 2026-03-17 · Gemini CLI · [[Changes/Gemini CLI/2026-03-17-2-pricing-model-changes-in-v0-34-0|2 Pricing Model changes in v0.34.0]]
+- Earlier: 2026-03-09 · v0 · [[Changes/v0/2026-03-09-updated-the-usage-page-to-show-all-token-cost-types-in-tooltips|Updated the Usage page to show all token cost types in tooltips]]
+- Later: 2026-03-11 · v0 · [[Changes/v0/2026-03-11-improved-billing-page-with-credit-expiration-dates-after-coupon-redemption|Improved billing page with credit expiration dates after coupon redemption]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: c45260da1dc91a63fb3245c396180493a2fa05bbe7fd00b061bb3b4d1865c433
+machine_hash: a3d27bdde6acb594469a66ea588e4f0d67a4bc6c913f1348e12c7140dda3e412
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -42,10 +42,10 @@ record:
   title: '#44354 Extract shared footer hint wrapping in the TUI @copyberry'
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-09-09-library-sharing-lets-you-share-files-and-folders-in-chatgpt-choose-who-can-acces|Library
-  sharing lets you share files and folders in ChatGPT, choose who can access…]]'
-- '[[Changes/Codex CLI/2026-09-09-6-collaboration-changes-in-rust-v0-154-0|6 Collaboration
-  changes in rust-v0.154.0]]'
+- '[[Changes/v0/2026-09-10-new-chats-created-in-a-team-workspace-are-now-visible-to-the-team-by-default-mak|Team
+  chats are easier to discover and collaborate on]]'
+- '[[Changes/Lovable/2026-09-11-clearer-sharing-settings-for-connections|Clearer sharing
+  settings for connections]]'
 - '[[Changes/GitHub Copilot CLI/2026-09-16-share-notes-md-now-writes-the-exported-session-to-your-home-directory-instead-of|--share=~/notes.md
   now writes the exported session to your home directory instead…]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-09-17-rust-v0-155-0-github-391114314-ca085512|codex-cli-2026-09-17-rust-v0-155-0-github-391114314-ca085512]]'

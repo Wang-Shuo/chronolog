@@ -4,20 +4,20 @@ date: '2026-07-21'
 description: 'Codex CLI · 2026-07-21 · Image Generation: 3 changes in 0.145.0 — #32866
   Allow responses after image generation @copyberry'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2024-08-08-we-re-rolling-out-the-ability-for-chatgpt-free-users-to-create-up-to-two-images-2c505c|DALL·E
-    3 for ChatGPT Free users]]'
+  first_in_tracked: "[[Changes/Open WebUI/2024-03-10-dall-e-integration-introduced-dall-e-integration-for-image-generation-alongside|\U0001F3A8
+    DALL-E Integration]]"
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 712
+  lag_days: 863
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: image-generation
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 6318971a5dd5e79f104fde375db98a247d260f5a1cbfb988ed0d8768e2e8be7b
+machine_hash: d1596d3aa0a132fb625d45172ddb3fe83ec09e1bb4041cd5efd99c4bee257b19
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -44,10 +44,10 @@ record:
   title: 3 Image Generation changes in rust-v0.145.0
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-06-15-27920-handle-standalone-image-generation-failures-as-terminal-items-won-openai|♯27920
-  Handle standalone image generation failures as terminal items @won-openai]]'
 - '[[Changes/Codex CLI/2026-07-08-3-image-generation-changes-in-rust-v0-143-0|3 Image
   Generation changes in rust-v0.143.0]]'
+- '[[Changes/Lovable/2026-07-08-images-lovable-generates-are-labeled-as-ai-generated|Images
+  Lovable generates are labeled as AI-generated]]'
 - '[[Changes/Codex CLI/2026-07-09-31596-use-the-image-generation-extension-by-default-won-openai|♯31596
   Use the image generation extension by default @won-openai]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-07-21-rust-v0-145-0-github-357545274-7be4454f|codex-cli-2026-07-21-rust-v0-145-0-github-357545274-7be4454f]]'
@@ -102,13 +102,13 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.145.0
 ## Nearby in Image Generation
 
 - Earlier: 2026-07-09 · Codex CLI · [[Changes/Codex CLI/2026-07-09-31596-use-the-image-generation-extension-by-default-won-openai|♯31596 Use the image generation extension by default @won-openai]]
-- Later: 2026-07-29 · Codex CLI · [[Changes/Codex CLI/2026-07-29-34850-disable-image-generation-for-free-plan-accounts-copyberry|♯34850 Disable image generation for Free-plan accounts @copyberry]]
+- Later: 2026-07-27 · Open WebUI · [[Changes/Open WebUI/2026-07-27-shared-image-checkpoint-changes-only-administrators-can-now-change-the-instance|🖌️ Shared image checkpoint changes. Only administrators can now change…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2024-08-08 · ChatGPT · [[Changes/ChatGPT/2024-08-08-we-re-rolling-out-the-ability-for-chatgpt-free-users-to-create-up-to-two-images-2c505c|DALL·E 3 for ChatGPT Free users]]
+- Earliest same-theme entry in the tracked set: 2024-03-10 · Open WebUI · [[Changes/Open WebUI/2024-03-10-dall-e-integration-introduced-dall-e-integration-for-image-generation-alongside|🎨 DALL-E Integration]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

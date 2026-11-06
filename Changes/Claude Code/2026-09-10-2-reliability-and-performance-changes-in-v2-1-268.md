@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 55266f3900ce27e3a42ee0aca13a9cd05f7ae936b98d9088582df078d2228c15
+machine_hash: 8ec2e158246e8d707a1e8586de5a525f15e0ef68ea00084c22a8c8b8c8629e6d
 product: claude-code
 product_name: Claude Code
 record:
@@ -46,10 +46,9 @@ record:
   title: 2 Reliability and Performance changes in v2.1.268
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-01-improved-prompt-input-responsiveness-by-reducing-per-keystroke-rendering-work|Improved
-  prompt input responsiveness by reducing per-keystroke rendering work]]'
-- '[[Changes/Claude Code/2026-09-04-improved-streaming-performance-already-rendered-blocks-are-no-longer-re-checked|Improved
-  streaming performance]]'
+- '[[Changes/Lovable/2026-09-07-faster-payments-dashboard|Faster payments dashboard]]'
+- '[[Changes/Lovable/2026-09-07-redesigned-cloud-advanced-settings-show-when-your-database-is-under-pressure|Redesigned
+  Cloud Advanced settings show when your database is under pressure]]'
 - '[[Changes/Claude Code/2026-09-09-improved-prompt-input-responsiveness-keystrokes-no-longer-occasionally-wait-a-fr|Improved
   prompt input responsiveness]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-10-v2-1-268-github-386532237-baa1a848|claude-code-2026-09-10-v2-1-268-github-386532237-baa1a848]]'
@@ -96,7 +95,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.268
 ## Nearby in Reliability and Performance
 
 - Earlier: 2026-09-09 · Claude Code · [[Changes/Claude Code/2026-09-09-improved-prompt-input-responsiveness-keystrokes-no-longer-occasionally-wait-a-fr|Improved prompt input responsiveness]]
-- Later: 2026-09-11 · Claude Code · [[Changes/Claude Code/2026-09-11-improved-responsiveness-in-long-sessions-transcript-updates-no-longer-re-process|Improved responsiveness in long sessions]]
+- Later: 2026-09-10 · Dify · [[Changes/Dify/2026-09-10-a-plugin-could-exhaust-worker-memory-with-one-declared-number-the-blob-chunk-mer|A plugin could exhaust worker memory with one declared number. The blob chunk…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

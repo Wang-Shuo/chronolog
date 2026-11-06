@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: f2148adae901fe76bd18144a65913c00956204cdab63239feecee43b1171c68d
+machine_hash: 1e43fcdd299ac090505b500f510173a5367f0df372098979cec2ccf9d36538ef
 product: cline
 product_name: Cline
 record:
@@ -43,10 +43,10 @@ record:
   title: Skip reasoning_details on microwave model
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2025-11-26-6-model-support-changes-in-v0-18-0|6 Model Support
-  changes in v0.18.0]]'
 - '[[Changes/Cline/2025-11-27-12-model-support-changes-in-v3-38-3|12 Model Support
   changes in v3.38.3]]'
+- '[[Changes/ElevenLabs/2025-11-27-4-model-support-changes-in-elevenlabs-updates-2025-11-27|4
+  Model Support changes in ElevenLabs updates — 2025-11-27]]'
 - '[[Changes/Cline/2025-12-02-4-model-support-changes-in-v3-39-0|4 Model Support changes
   in v3.39.0]]'
 source_release: '[[Releases/Cline/cline-2025-12-02-v3-39-2-github-266849692-f9610102|cline-2025-12-02-v3-39-2-github-266849692-f9610102]]'

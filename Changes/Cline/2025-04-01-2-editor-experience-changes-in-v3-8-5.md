@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: b55253163e34089a15f03199a141e15653d14d2fafb74ab5633bff4f513ae687
+machine_hash: c8ff5d9d87c9aec3cbea1bd15d262e6835820e237f6702782ec3bd6546d92752
 product: cline
 product_name: Cline
 record:
@@ -42,11 +42,11 @@ record:
   title: 2 Editor Experience changes in v3.8.5
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-03-23-0-48-2-allows-users-to-accept-reject-file-edited-in-another-chat-tab|0.48.2
-  - Allows users to accept/reject file edited in another chat tab]]'
 - '[[Changes/Cursor/2025-03-23-chat-tabs|Chat tabs]]'
 - '[[Changes/Aider/2025-03-25-added-edit-as-an-alias-for-the-editor-command|Added
   /edit as an alias for the /editor command]]'
+- '[[Changes/Lovable/2025-03-28-supabase-functions-now-get-deployed-when-updated-in-code-editor-also-supabase-fu|Supabase
+  functions now get deployed when updated in code editor]]'
 source_release: '[[Releases/Cline/cline-2025-04-01-v3-8-5-github-209483266-bf57367b|cline-2025-04-01-v3-8-5-github-209483266-bf57367b]]'
 source_type: github_releases
 theme: editor-experience
@@ -81,8 +81,8 @@ Source: https://github.com/cline/cline/releases/tag/v3.8.5
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2025-03-25 · Aider · [[Changes/Aider/2025-03-25-added-edit-as-an-alias-for-the-editor-command|Added /edit as an alias for the /editor command]]
-- Later: 2025-04-02 · Windsurf · [[Changes/Windsurf/2025-04-02-improvements-to-windsurf-tab|Improvements to Windsurf Tab]]
+- Earlier: 2025-03-28 · Lovable · [[Changes/Lovable/2025-03-28-supabase-functions-now-get-deployed-when-updated-in-code-editor-also-supabase-fu|Supabase functions now get deployed when updated in code editor]]
+- Later: 2025-04-01 · Open WebUI · [[Changes/Open WebUI/2025-04-01-prompt-autocompletion-disabled-by-default-autocomplete-suggestions-while-typing|🧠 Prompt Autocompletion Disabled By Default]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

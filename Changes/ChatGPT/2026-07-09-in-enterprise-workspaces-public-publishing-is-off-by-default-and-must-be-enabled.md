@@ -5,20 +5,20 @@ description: 'ChatGPT · 2026-07-09 · Enterprise and Administration: In Enterpr
   workspaces, public publishing is off by default and must be enabled by an admin.
   Sites is…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2024-03-20-admin-improvements-team-admins-can-now-mark-themselves-as-unpaid-users-and-can-s|Admin
-    improvements: Team admins can now mark themselves as unpaid users and can see…]]'
+  first_in_tracked: '[[Changes/Gemini/2023-05-05-access-for-google-workspace-accounts|Access
+    for Google Workspace accounts]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 841
+  lag_days: 1161
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 44a0c341cb493751281265abc9f3696392007e851d53d3ad690439da86e724c2
+machine_hash: dc6bb5f746cb91686f64dbc65b2eaa74d2486c659c76170ab6d9fd3c92749c1c
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -53,8 +53,8 @@ record:
     enabled…
   type: change
 related_changes:
-- '[[Changes/OpenHands/2026-07-07-feat-enterprise-auth-super-admin-management-endpoint-grant-revoke-list-by-jpshac|feat(enterprise/auth):
-  super-admin management endpoint (grant/revoke/list)]]'
+- '[[Changes/Lovable/2026-07-08-workspace-insights-now-on-business-plans|Workspace
+  insights now on Business plans]]'
 - '[[Changes/ChatGPT/2026-07-09-business-and-enterprise-customers-already-have-access-to-sites-starting-today-th|Business
   and Enterprise customers already have access to Sites]]'
 - '[[Changes/ChatGPT/2026-07-09-on-web-and-mobile-enterprise-and-edu-workspaces-have-a-two-week-preview-period-w|On
@@ -90,13 +90,13 @@ type: change
 ## Nearby in Enterprise and Administration
 
 - Earlier: 2026-07-09 · ChatGPT · [[Changes/ChatGPT/2026-07-09-on-web-and-mobile-enterprise-and-edu-workspaces-have-a-two-week-preview-period-w|On web and mobile, Enterprise and Edu workspaces have a two-week preview period]]
-- Later: 2026-07-10 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-07-10-long-running-sessions-refresh-enterprise-managed-settings-hourly|Long-running sessions refresh enterprise managed settings hourly]]
+- Later: 2026-07-09 · Lovable · [[Changes/Lovable/2026-07-09-enterprise-member-profiles-are-now-private-by-default|Enterprise member profiles are now private by default]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2024-03-20 · Cursor · [[Changes/Cursor/2024-03-20-admin-improvements-team-admins-can-now-mark-themselves-as-unpaid-users-and-can-s|Admin improvements: Team admins can now mark themselves as unpaid users and can see…]]
+- Earliest same-theme entry in the tracked set: 2023-05-05 · Gemini · [[Changes/Gemini/2023-05-05-access-for-google-workspace-accounts|Access for Google Workspace accounts]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

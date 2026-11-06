@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 194e20d1098b5a7b6b5d7ce5aef019958b0b239b71833381490f782bee21a82c
+machine_hash: 8aa0a29d8cdfeff05512dc206707c31acd1907b1fe85ae1037ceffeb3b0649d9
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -42,12 +42,12 @@ record:
   title: MCP tools added or removed by a server mid-turn are now available immediately…
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-06-04-19-apps-and-integrations-changes-in-rust-v0-137-0|19
-  Apps and Integrations changes in rust-v0.137.0]]'
 - '[[Changes/Cursor/2026-06-04-we-ve-shipped-a-batch-of-new-functionality-across-the-typescript-and-python-sdks|We''ve
   shipped a batch of new functionality across the TypeScript and Python SDKs]]'
 - '[[Changes/Cursor/2026-06-04-2-apps-and-integrations-changes-in-custom-stores-custom-tools|2
   Apps and Integrations changes in Custom stores, custom tools…]]'
+- '[[Changes/Ollama/2026-06-04-added-cline-cli-integration-docs|Added Cline CLI integration
+  docs]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-06-05-v1-0-60-github-335046279-6a5628d4|github-copilot-cli-2026-06-05-v1-0-60-github-335046279-6a5628d4]]'
 source_type: github_releases
 theme: apps-integrations
@@ -88,8 +88,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-06-04 · Cursor · [[Changes/Cursor/2026-06-04-2-apps-and-integrations-changes-in-custom-stores-custom-tools|2 Apps and Integrations changes in Custom stores, custom tools…]]
-- Later: 2026-06-06 · Claude Code · [[Changes/Claude Code/2026-06-06-added-glob-pattern-support-in-deny-rule-tool-name-position-denies-all-tools-allo|Added glob pattern support in deny rule tool-name position ("" denies all tools)]]
+- Earlier: 2026-06-04 · Ollama · [[Changes/Ollama/2026-06-04-added-cline-cli-integration-docs|Added Cline CLI integration docs]]
+- Later: 2026-06-05 · Ollama · [[Changes/Ollama/2026-06-05-ollama-launch-omp-now-integrates-with-oh-my-pi-https-omp-sh-an-ai-coding-agent-w|ollama launch omp now integrates with Oh My Pi((source link) an AI coding…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

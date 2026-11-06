@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 934ff0f064c26569bd3ba2b64b646e947385743fe6dd59a32d4a27d64baf107a
+machine_hash: 9458828a4aea627f87bf2b720ad2b1a047eeac303b968b371729b5bf7696c050
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -93,7 +93,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.76
 ## Nearby in Editor Experience
 
 - Earlier: 2026-07-30 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-07-30-ctrl-g-opens-your-editor-to-edit-ask-user-freeform-answers-without-closing-the-p|Ctrl+G opens your editor to edit ask_user freeform answers without closing the prompt]]
-- Later: 2026-08-01 · Windsurf · [[Changes/Windsurf/2026-08-01-the-edit-write-apply-patch-and-notebook-edit-tools-in-devin-local-now-refuse-to|The edit, write, apply_patch, and notebook_edit tools in Devin Local now…]]
+- Later: 2026-07-30 · Lovable · [[Changes/Lovable/2026-07-30-change-the-owner-of-several-projects-at-once|Change the owner of several projects at once]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

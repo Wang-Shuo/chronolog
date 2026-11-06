@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 555c904056cc0e2d46d36326e22127065175c839cd573f2f432435e812720b65
+machine_hash: 42b43c3fd36698b4face874514dff2f7013f1bc93af11b8b6573ed16114864f4
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -45,8 +45,8 @@ record:
   title: 3 Interface Experience changes in v1.0.85
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-11-3-interface-experience-changes-in-v2-1-269|3 Interface
-  Experience changes in v2.1.269]]'
+- '[[Changes/Lovable/2026-09-11-preview-a-remixable-project-without-signing-in|Preview
+  a remixable project without signing in]]'
 - '[[Changes/Claude Code/2026-09-14-3-interface-experience-changes-in-v2-1-271|3 Interface
   Experience changes in v2.1.271]]'
 - '[[Changes/Claude Code/2026-09-15-claude-code-on-the-web-improved-the-routine-detail-page-menu-and-rename-in-the-b|Claude
@@ -102,7 +102,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.85
 ## Nearby in Interface Experience
 
 - Earlier: 2026-09-15 · Claude Code · [[Changes/Claude Code/2026-09-15-claude-code-on-the-web-improved-the-routine-detail-page-menu-and-rename-in-the-b|Claude Code on the web Improved the routine detail page]]
-- Later: 2026-09-16 · OpenHands · [[Changes/OpenHands/2026-09-16-2-interface-experience-changes-in-v1-19-0|2 Interface Experience changes in v1.19.0]]
+- Later: 2026-09-16 · Lovable · [[Changes/Lovable/2026-09-16-updated-chat-actions-menu-in-projects|Updated Chat actions menu in projects]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

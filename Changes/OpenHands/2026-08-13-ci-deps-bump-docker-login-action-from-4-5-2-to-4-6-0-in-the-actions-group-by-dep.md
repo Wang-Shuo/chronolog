@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: a81d6d8edfa297bd919b6d455eff1ceab8ae995c5625f55f47a5b38bcd8e281d
+machine_hash: a0f97994baa7c2b1b80452c4ecae7f33e9335d21bdf27a7c1b50572736c2d26f
 product: openhands
 product_name: OpenHands
 record:
@@ -42,12 +42,12 @@ record:
   title: 'ci(deps): bump docker/login-action from 4.5.2 to 4.6.0 in the actions group…'
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-08-10-login-links-are-clickable-during-web-and-device-code-sign-in|Login
-  links are clickable during web and device-code sign-in]]'
 - '[[Changes/Claude Code/2026-08-12-updated-login-to-repeat-the-claude-code-oauth-token-override-warning-after-a-suc|Updated
   /login to repeat the CLAUDE_CODE_OAUTH_TOKEN override warning after…]]'
 - '[[Changes/Claude Code/2026-08-13-remote-control-resuming-a-conversation-whose-session-was-deleted-from-claude-ai|Remote
   Control: resuming a conversation whose session was deleted from claude.ai…]]'
+- '[[Changes/Lovable/2026-08-13-microsoft-sign-in-for-your-app|Microsoft sign-in for
+  your app]]'
 source_release: '[[Releases/OpenHands/openhands-2026-08-13-v1-13-0-github-369624211-7e45f0bf|openhands-2026-08-13-v1-13-0-github-369624211-7e45f0bf]]'
 source_type: github_releases
 theme: account-access
@@ -79,8 +79,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Account and Access
 
-- Earlier: 2026-08-13 · Claude Code · [[Changes/Claude Code/2026-08-13-remote-control-resuming-a-conversation-whose-session-was-deleted-from-claude-ai|Remote Control: resuming a conversation whose session was deleted from claude.ai…]]
-- Later: 2026-08-17 · Claude Code · [[Changes/Claude Code/2026-08-17-2-account-and-access-changes-in-v2-1-234|2 Account and Access changes in v2.1.234]]
+- Earlier: 2026-08-13 · Lovable · [[Changes/Lovable/2026-08-13-microsoft-sign-in-for-your-app|Microsoft sign-in for your app]]
+- Later: 2026-08-14 · Replit · [[Changes/Replit/2026-08-14-migrate-to-clerk-auth|Migrate to Clerk Auth]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

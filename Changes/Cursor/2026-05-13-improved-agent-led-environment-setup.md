@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: 0cab09687a9e07f2b3e2fc8666b2cae3d5dd7fa04830be40e9fe7c2a80e59574
+machine_hash: 82ae723d2f8efa56f05dba4f9432d3ae73d6e31cd491790bece9344daadb4db1
 product: cursor
 product_name: Cursor
 record:
@@ -50,8 +50,8 @@ record:
   title: Improved agent-led environment setup
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-05-12-2-agent-mode-changes-in-v2-1-140|2 Agent Mode
-  changes in v2.1.140]]'
+- '[[Changes/Dify/2026-05-12-chore-web-refresh-agent-skills-by-hyoban-in-https-github-com-langgenius-dify-pul|chore(web):
+  refresh agent skills]]'
 - '[[Changes/Gemini CLI/2026-05-12-2-agent-mode-changes-in-v0-42-0|2 Agent Mode changes
   in v0.42.0]]'
 - '[[Changes/Claude Code/2026-05-13-4-agent-mode-changes-in-v2-1-141|4 Agent Mode

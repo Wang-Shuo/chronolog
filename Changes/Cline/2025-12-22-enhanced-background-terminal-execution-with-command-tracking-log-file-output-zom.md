@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 708925d8f0fb3ad1cd29d501d791fb53f27689725d1a945e024fd9d451fb27d7
+machine_hash: 1ef694ec59dfb646c99100857be847ba8035f3454256afe9b7fd8767cdae7617
 product: cline
 product_name: Cline
 record:
@@ -43,12 +43,12 @@ record:
   title: Enhanced background terminal execution with command tracking, log file output…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2025-12-19-added-terminal-setup-support-for-kitty-alacritty-zed-and-warp-terminals|Added
-  /terminal-setup support for Kitty, Alacritty, Zed, and Warp terminals]]'
 - '[[Changes/Claude Code/2025-12-19-2-developer-workflow-changes-in-v2-0-74|2 Developer
   Workflow changes in v2.0.74]]'
 - '[[Changes/Codex CLI/2025-12-19-6-developer-workflow-changes-in-rust-v0-76-0|6 Developer
   Workflow changes in rust-v0.76.0]]'
+- '[[Changes/Open WebUI/2025-12-21-11-developer-workflow-changes-in-v0-6-42|11 Developer
+  Workflow changes in v0.6.42]]'
 source_release: '[[Releases/Cline/cline-2025-12-22-v3-46-0-github-272325612-60808136|cline-2025-12-22-v3-46-0-github-272325612-60808136]]'
 source_type: github_releases
 theme: developer-workflow
@@ -80,7 +80,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2025-12-19 · Codex CLI · [[Changes/Codex CLI/2025-12-19-6-developer-workflow-changes-in-rust-v0-76-0|6 Developer Workflow changes in rust-v0.76.0]]
+- Earlier: 2025-12-21 · Open WebUI · [[Changes/Open WebUI/2025-12-21-11-developer-workflow-changes-in-v0-6-42|11 Developer Workflow changes in v0.6.42]]
 - Later: 2025-12-22 · Gemini CLI · [[Changes/Gemini CLI/2025-12-22-feat-a2a-introduce-init-command-for-a2a-server-by-cocosheng-g-in-https-github-co|feat(a2a): Introduce /init command for a2a server]]
 <!-- chronolog:end -->
 

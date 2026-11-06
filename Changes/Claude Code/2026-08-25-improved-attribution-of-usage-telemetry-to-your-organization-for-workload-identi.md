@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 72cfea7ef9135781832517e89641b4cd969d6bae7d3e2335b507cf766d0e63c9
+machine_hash: f0d43d668759c094876837663a5c4b896ec361f529214b648f16b78f7a7b5473
 product: claude-code
 product_name: Claude Code
 record:
@@ -88,7 +88,7 @@ type: change
 ## Nearby in Account and Access
 
 - Earlier: 2026-08-25 · ChatGPT · [[Changes/ChatGPT/2026-08-25-chatgpt-work-s-browser-on-web-and-mobile-can-also-help-you-get-tasks-done-on-som-99be54|ChatGPT Work can now complete tasks on signed-in websites]]
-- Later: 2026-08-26 · Claude Code · [[Changes/Claude Code/2026-08-26-3-account-and-access-changes-in-v2-1-247|3 Account and Access changes in v2.1.247]]
+- Later: 2026-08-25 · Dify · [[Changes/Dify/2026-08-25-13-account-and-access-changes-in-1-17-0|13 Account and Access changes in 1.17.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

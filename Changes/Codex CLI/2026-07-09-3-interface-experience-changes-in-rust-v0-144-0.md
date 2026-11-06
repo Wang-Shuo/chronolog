@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 069567a1f0670440a259e3cd8fa076e2870f38a856b304c5c5041cf4d89d0f09
+machine_hash: 6fa2d6c521b455aca6d40fda3e891f67a82fbfc4e10c63e8ad61da21ce40d42e
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -46,10 +46,9 @@ record:
   title: 3 Interface Experience changes in rust-v0.144.0
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-07-07-removed-a-redundant-navigation-hint-from-the-claude-agents-footer|Removed
-  a redundant navigation hint from the claude agents footer]]'
-- '[[Changes/GitHub Copilot CLI/2026-07-07-5-interface-experience-changes-in-v1-0-69|5
-  Interface Experience changes in v1.0.69]]'
+- '[[Changes/Lovable/2026-07-08-search-your-settings|Search your settings]]'
+- '[[Changes/Lovable/2026-07-08-resize-your-cloud-instance-from-chat|Resize your Cloud
+  instance from chat]]'
 - '[[Changes/Cline/2026-07-09-2-interface-experience-changes-in-v4-0-7|2 Interface
   Experience changes in v4.0.7]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-07-09-rust-v0-144-0-github-351657410-407edb96|codex-cli-2026-07-09-rust-v0-144-0-github-351657410-407edb96]]'

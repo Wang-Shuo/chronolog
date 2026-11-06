@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: e37997b81db2f456344882a4fc0b0fa0edcbccec900ff9100f065f970b8c4897
+machine_hash: 7bb01640a3291368186226dd8863827149a626b3317738fe9e502fb6c6bec7da
 product: cursor
 product_name: Cursor
 record:
@@ -79,7 +79,7 @@ type: change
 ## Nearby in Interface Experience
 
 - Earlier: 2023-07-07 · Cursor · [[Changes/Cursor/2023-07-07-chat-edit-tooltip-blocks-less-code-3a1e6b|Chat/Edit tooltip blocks less code]]
-- Later: 2023-08-17 · Cursor · [[Changes/Cursor/2023-08-17-keychords-now-use-cmd-r-ctrl-r|Keychords now use Cmd+R/Ctrl+R]]
+- Later: 2023-08-02 · Ollama · [[Changes/Ollama/2023-08-02-more-seamless-updates-ollama-will-now-show-a-subtle-hint-that-an-update-is-ready|More seamless updates]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

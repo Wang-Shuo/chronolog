@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 1953b1e63231542c68410447c03cfd726b7c79f1c8976ee4f856b03ea76b29d2
+machine_hash: 2eafea35357d371e6bade9af7f3e1f7ab819595a5b4246cff265b626846840ff
 product: cline
 product_name: Cline
 record:
@@ -55,12 +55,11 @@ record:
     OpenRouter…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2025-12-19-3-interface-experience-changes-in-v2-0-73|3 Interface
-  Experience changes in v2.0.73]]'
-- '[[Changes/Claude Code/2025-12-19-2-interface-experience-changes-in-v2-0-74|2 Interface
-  Experience changes in v2.0.74]]'
 - '[[Changes/Codex CLI/2025-12-19-2-interface-experience-changes-in-rust-v0-76-0|2
   Interface Experience changes in rust-v0.76.0]]'
+- '[[Changes/Replit/2025-12-19-status-dot-design-update|Status Dot Design Update]]'
+- '[[Changes/Open WebUI/2025-12-21-8-interface-experience-changes-in-v0-6-42|8 Interface
+  Experience changes in v0.6.42]]'
 source_release: '[[Releases/Cline/cline-2025-12-22-v3-46-0-github-272325612-60808136|cline-2025-12-22-v3-46-0-github-272325612-60808136]]'
 source_type: github_releases
 theme: interface-experience
@@ -92,7 +91,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2025-12-19 · Codex CLI · [[Changes/Codex CLI/2025-12-19-2-interface-experience-changes-in-rust-v0-76-0|2 Interface Experience changes in rust-v0.76.0]]
+- Earlier: 2025-12-21 · Open WebUI · [[Changes/Open WebUI/2025-12-21-8-interface-experience-changes-in-v0-6-42|8 Interface Experience changes in v0.6.42]]
 - Later: 2025-12-22 · Cursor · [[Changes/Cursor/2025-12-22-3-interface-experience-changes-in-2-3|3 Interface Experience changes in 2.3]]
 <!-- chronolog:end -->
 

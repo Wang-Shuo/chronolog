@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: f479e3f9fa6589f0728d14f8415b309fc1deae3e149d7d6dfbe0a0563418796d
+machine_hash: 5387db5523c60d3b3b5459f7aa5315de483a5827b5b1f108b08aae0193a90a6b
 product: aider
 product_name: Aider
 record:
@@ -41,12 +41,12 @@ record:
   title: 2 Developer Workflow changes in v0.68.0
   type: change
 related_changes:
-- '[[Changes/OpenHands/2024-10-31-split-bash-commands-by-the-new-line-character-by-tofarr-in-https-github-com-all|Split
-  bash commands by the new line character]]'
-- '[[Changes/Aider/2024-11-21-2-developer-workflow-changes-in-v0-64-0|2 Developer
-  Workflow changes in v0.64.0]]'
-- '[[Changes/Aider/2024-12-01-2-developer-workflow-changes-in-v0-66-0|2 Developer
-  Workflow changes in v0.66.0]]'
+- '[[Changes/Dify/2024-12-03-2-developer-workflow-changes-in-0-13-0|2 Developer Workflow
+  changes in 0.13.0]]'
+- '[[Changes/Dify/2024-12-05-stop-the-service-command-please-execute-in-the-docker-directory|Stop
+  the service，Command, please execute in the docker directory]]'
+- '[[Changes/Dify/2024-12-09-stop-the-service-command-please-execute-in-the-docker-directory|Stop
+  the service，Command, please execute in the docker directory]]'
 source_release: '[[Releases/Aider/aider-2024-12-10-v0-68-0-github-190004650-ac51bb4e|aider-2024-12-10-v0-68-0-github-190004650-ac51bb4e]]'
 source_type: github_releases
 theme: developer-workflow
@@ -82,7 +82,7 @@ Source: https://github.com/Aider-AI/aider/releases/tag/v0.68.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2024-12-01 · Aider · [[Changes/Aider/2024-12-01-2-developer-workflow-changes-in-v0-66-0|2 Developer Workflow changes in v0.66.0]]
+- Earlier: 2024-12-09 · Dify · [[Changes/Dify/2024-12-09-stop-the-service-command-please-execute-in-the-docker-directory|Stop the service，Command, please execute in the docker directory]]
 - Later: 2024-12-12 · OpenHands · [[Changes/OpenHands/2024-12-12-request-code-review-from-the-person-who-initiated-the-resolver-by-openhands-agen|Request code review from the person who initiated the resolver]]
 <!-- chronolog:end -->
 

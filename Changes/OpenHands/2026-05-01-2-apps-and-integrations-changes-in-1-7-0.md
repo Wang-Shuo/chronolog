@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 9938f4d0f045ad924b427677bab9675e178d6f8d46c566b3376532fb394c8849
+machine_hash: 6474c66a3b299a087a674788604103d38318eddf73afac0b2e4fac6585f1e1d6
 product: openhands
 product_name: OpenHands
 record:
@@ -42,8 +42,8 @@ record:
   title: 2 Apps and Integrations changes in 1.7.0
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-04-29-run-npm-install-cursor-sdk-to-get-started-you-can-also-use-cursor-s-native-sdk-s-76fb76|Run
-  npm install @cursor/sdk to get started]]'
+- '[[Changes/Dify/2026-04-29-48-apps-and-integrations-changes-in-1-14-0|48 Apps and
+  Integrations changes in 1.14.0]]'
 - '[[Changes/Codex CLI/2026-04-30-37-apps-and-integrations-changes-in-rust-v0-128-0|37
   Apps and Integrations changes in rust-v0.128.0]]'
 - '[[Changes/GitHub Copilot CLI/2026-05-01-6-apps-and-integrations-changes-in-v1-0-40|6
@@ -82,7 +82,7 @@ Source: https://github.com/OpenHands/OpenHands/releases/tag/1.7.0
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-05-01 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-05-01-6-apps-and-integrations-changes-in-v1-0-40|6 Apps and Integrations changes in v1.0.40]]
-- Later: 2026-05-04 · Claude Code · [[Changes/Claude Code/2026-05-04-6-apps-and-integrations-changes-in-v2-1-128|6 Apps and Integrations changes in v2.1.128]]
+- Later: 2026-05-01 · Replit · [[Changes/Replit/2026-05-01-replit-app-monitoring-keeps-an-eye-on-your-published-apps|Replit App Monitoring keeps an eye on your published apps]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

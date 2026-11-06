@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 204b59efdc2ad929236c97c84e3c003cbb039097196449742fbfc6d1f1cb7145
+machine_hash: 222682185b081a583db71ea046112c7eefe9be66a20accd4ed05d6bb7b288dbd
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -55,12 +55,10 @@ record:
   title: 6 Apps and Integrations changes in v1.0.11
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-03-20-3-apps-and-integrations-changes-in-v2-1-81|3 Apps
-  and Integrations changes in v2.1.81]]'
-- '[[Changes/Cline/2026-03-20-2-apps-and-integrations-changes-in-v3-75-0|2 Apps and
-  Integrations changes in v3.75.0]]'
 - '[[Changes/GitHub Copilot CLI/2026-03-20-6-apps-and-integrations-changes-in-v1-0-10|6
   Apps and Integrations changes in v1.0.10]]'
+- '[[Changes/ElevenLabs/2026-03-23-workspaces|Workspaces]]'
+- '[[Changes/ElevenLabs/2026-03-23-sdk-releases|SDK Releases]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-03-23-v1-0-11-github-300392949-b4741619|github-copilot-cli-2026-03-23-v1-0-11-github-300392949-b4741619]]'
 source_type: github_releases
 theme: apps-integrations
@@ -105,7 +103,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.11
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-03-20 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-03-20-6-apps-and-integrations-changes-in-v1-0-10|6 Apps and Integrations changes in v1.0.10]]
+- Earlier: 2026-03-23 · ElevenLabs · [[Changes/ElevenLabs/2026-03-23-sdk-releases|SDK Releases]]
 - Later: 2026-03-24 · Gemini CLI · [[Changes/Gemini CLI/2026-03-24-5-apps-and-integrations-changes-in-v0-35-0|5 Apps and Integrations changes in v0.35.0]]
 <!-- chronolog:end -->
 

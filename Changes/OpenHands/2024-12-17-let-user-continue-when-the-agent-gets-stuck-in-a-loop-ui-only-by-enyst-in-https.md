@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: 9e0e93235c0261e14c2918df307e5be609fd2bcd0d619cce5766232b9259ffcf
+machine_hash: 958404a4997f3473a6f4e7bd019ad0dc275be1f49f93ce69535b35e12578e60e
 product: openhands
 product_name: OpenHands
 record:
@@ -44,11 +44,10 @@ record:
   title: Let user continue when the agent gets stuck in a loop (UI-only)
   type: change
 related_changes:
-- '[[Changes/OpenHands/2024-11-08-2-agent-mode-changes-in-0-13-0|2 Agent Mode changes
-  in 0.13.0]]'
-- '[[Changes/OpenHands/2024-12-06-2-agent-mode-changes-in-0-15-1|2 Agent Mode changes
-  in 0.15.1]]'
-- '[[Changes/Aider/2024-12-10-updated-shell-command-prompt|Updated shell command prompt]]'
+- '[[Changes/Replit/2024-12-13-2-agent-mode-changes-in-replit-updates-2024-12-13|2
+  Agent Mode changes in Replit updates — 2024-12-13]]'
+- '[[Changes/Replit/2024-12-13-usage-updates-you-ll-love|Usage Updates You’ll Love]]'
+- '[[Changes/Replit/2024-12-13-rapid-scraping-screenshots|Rapid Scraping / Screenshots]]'
 source_release: '[[Releases/OpenHands/openhands-2024-12-17-0-15-3-github-191250077-384de52c|openhands-2024-12-17-0-15-3-github-191250077-384de52c]]'
 source_type: github_releases
 theme: agent-mode
@@ -78,7 +77,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2024-12-10 · Aider · [[Changes/Aider/2024-12-10-updated-shell-command-prompt|Updated shell command prompt]]
+- Earlier: 2024-12-13 · Replit · [[Changes/Replit/2024-12-13-rapid-scraping-screenshots|Rapid Scraping / Screenshots]]
 - Later: 2024-12-19 · OpenHands · [[Changes/OpenHands/2024-12-19-agent-gets-stuck-in-closing-and-server-won-t-die-by-tofarr-in-https-github-com-a|Agent gets stuck in closing and server won't die]]
 <!-- chronolog:end -->
 

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 710fa95b95ac10f2a2928cc82cc6b621b7368b092ddfba4b747239a96ed80d95
+machine_hash: 281be7f26a3dec176f9f954fbafc5741ff0c3fedfa4b42af9588a081ee51ea02
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -42,12 +42,11 @@ record:
   title: 2 Account and Access changes in v1.0.89
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-28-added-mcp-reconnect-all-in-the-interactive-terminal-to-retry-every-mcp-server-th|Added
-  /mcp reconnect all in the interactive terminal to retry every MCP server…]]'
 - '[[Changes/Claude Code/2026-09-28-4-account-and-access-changes-in-v2-1-284|4 Account
   and Access changes in v2.1.284]]'
 - '[[Changes/Codex CLI/2026-09-28-8-account-and-access-changes-in-rust-v0-158-0|8
   Account and Access changes in rust-v0.158.0]]'
+- '[[Changes/ElevenLabs/2026-09-28-elevenlabs-cli|ElevenLabs CLI]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-09-28-v1-0-89-github-398551718-87b48178|github-copilot-cli-2026-09-28-v1-0-89-github-398551718-87b48178]]'
 source_type: github_releases
 theme: account-access
@@ -88,7 +87,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.89
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Account and Access
 
-- Earlier: 2026-09-28 · Codex CLI · [[Changes/Codex CLI/2026-09-28-8-account-and-access-changes-in-rust-v0-158-0|8 Account and Access changes in rust-v0.158.0]]
+- Earlier: 2026-09-28 · ElevenLabs · [[Changes/ElevenLabs/2026-09-28-elevenlabs-cli|ElevenLabs CLI]]
 - Later: 2026-09-29 · Claude Code · [[Changes/Claude Code/2026-09-29-changed-team-and-enterprise-sessions-and-sessions-whose-sign-in-plan-claude-code|Changed Team and Enterprise sessions, and sessions whose sign-in plan Claude Code…]]
 <!-- chronolog:end -->
 

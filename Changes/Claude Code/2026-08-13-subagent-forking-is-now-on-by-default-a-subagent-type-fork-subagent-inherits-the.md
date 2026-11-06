@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: ec33195c6980cf27525f704e6ba68c75abfeaaf7dcd1f8ef8933f77f0bcc17e3
+machine_hash: 06bd3879bbec228969148b44d511bc6143ce4846b2d52372d48275a03715fb60
 product: claude-code
 product_name: Claude Code
 record:
@@ -46,8 +46,8 @@ record:
   title: Subagent forking is now on by default
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2026-08-11-2-agent-mode-changes-in-v0-55-1|2 Agent Mode changes
-  in v0.55.1]]'
+- '[[Changes/Ollama/2026-08-11-nvidia-nemotron-3-5-lightning-https-ollama-com-library-nemotron-3-5-lightning-is|NVIDIA
+  Nemotron 3.5 Lightning((source link)]]'
 - '[[Changes/Claude Code/2026-08-12-improved-workflow-fan-outs-to-stagger-same-prefix-sibling-agents-so-subsequent-a|Improved
   workflow fan-outs to stagger same-prefix sibling agents so subsequent…]]'
 - '[[Changes/Claude Code/2026-08-13-4-agent-mode-changes-in-v2-1-232|4 Agent Mode

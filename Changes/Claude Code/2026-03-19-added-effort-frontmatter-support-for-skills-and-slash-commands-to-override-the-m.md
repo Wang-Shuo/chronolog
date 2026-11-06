@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 543aa4efe239451f4bd99139e58dd21def0042b577d4460d7bd1e000da76d6cb
+machine_hash: 370c86ca531a88da394146350c062c749efc585b6ca2c00925818b049979ff79
 product: claude-code
 product_name: Claude Code
 record:
@@ -44,12 +44,12 @@ record:
   title: Added `effort` frontmatter support for skills and slash commands to override…
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2026-03-17-5-model-support-changes-in-v0-34-0|5 Model Support
-  changes in v0.34.0]]'
-- '[[Changes/GitHub Copilot CLI/2026-03-17-2-model-support-changes-in-v1-0-7|2 Model
-  Support changes in v1.0.7]]'
+- '[[Changes/Ollama/2026-03-17-4-model-support-changes-in-v0-18-1|4 Model Support
+  changes in v0.18.1]]'
 - '[[Changes/ChatGPT/2026-03-18-we-re-rolling-out-gpt-5-4-mini-in-chatgpt-gpt-5-4-mini-is-available-to-free-and|GPT-5.4
   mini in ChatGPT]]'
+- '[[Changes/Dify/2026-03-18-llm-related-nodes-including-llm-and-question-classifier|LLM-related
+  nodes, including LLM and Question Classifier]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-03-19-v2-1-80-github-299176707-1bfcfc3a|claude-code-2026-03-19-v2-1-80-github-299176707-1bfcfc3a]]'
 source_type: github_releases
 theme: model-support
@@ -82,7 +82,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-03-18 · ChatGPT · [[Changes/ChatGPT/2026-03-18-we-re-rolling-out-gpt-5-4-mini-in-chatgpt-gpt-5-4-mini-is-available-to-free-and|GPT-5.4 mini in ChatGPT]]
+- Earlier: 2026-03-18 · Dify · [[Changes/Dify/2026-03-18-llm-related-nodes-including-llm-and-question-classifier|LLM-related nodes, including LLM and Question Classifier]]
 - Later: 2026-03-19 · Cline · [[Changes/Cline/2026-03-19-3-model-support-changes-in-v3-74-0|3 Model Support changes in v3.74.0]]
 <!-- chronolog:end -->
 

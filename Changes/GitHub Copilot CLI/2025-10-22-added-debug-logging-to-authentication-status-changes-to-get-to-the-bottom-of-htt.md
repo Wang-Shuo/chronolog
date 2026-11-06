@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 6fb6b65da9def2bf14f5b69de3189bc5a1fb885b61b4df8500777aa91fc610e3
+machine_hash: 4a8499fd16f4b4e5ea1bf1586480cc6ec0fe6e26762621892e5c6bdf89eed72a
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -42,12 +42,12 @@ record:
   title: Added debug logging to authentication status changes to get to the bottom…
   type: change
 related_changes:
-- '[[Changes/Cline/2025-10-16-feat-cli-fixes-cli-authentication-redirect-error-by-arafatkatze-in-https-github|feat(cli):
-  Fixes CLI authentication redirect error]]'
 - '[[Changes/GitHub Copilot CLI/2025-10-16-enabled-non-interactive-ghe-logins-by-respecting-the-gh-host-environment-variabl|Enabled
   non-interactive GHE logins by respecting the GH_HOST environment variable…]]'
 - '[[Changes/Codex CLI/2025-10-17-prompt-mcp-login-when-adding-a-streamable-http-server-that-supports-oauth-5193|Prompt
   mcp login when adding a streamable HTTP server that supports oauth (♯5193)]]'
+- '[[Changes/Dify/2025-10-22-4-account-and-access-changes-in-1-9-2|4 Account and Access
+  changes in 1.9.2]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2025-10-22-v0-0-348-github-256199917-0456772f|github-copilot-cli-2025-10-22-v0-0-348-github-256199917-0456772f]]'
 source_type: github_releases
 theme: account-access
@@ -78,7 +78,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Account and Access
 
-- Earlier: 2025-10-17 · Codex CLI · [[Changes/Codex CLI/2025-10-17-prompt-mcp-login-when-adding-a-streamable-http-server-that-supports-oauth-5193|Prompt mcp login when adding a streamable HTTP server that supports oauth (♯5193)]]
+- Earlier: 2025-10-22 · Dify · [[Changes/Dify/2025-10-22-4-account-and-access-changes-in-1-9-2|4 Account and Access changes in 1.9.2]]
 - Later: 2025-10-23 · Codex CLI · [[Changes/Codex CLI/2025-10-23-3-account-and-access-changes-in-rust-v0-48-0|3 Account and Access changes in rust-v0.48.0]]
 <!-- chronolog:end -->
 

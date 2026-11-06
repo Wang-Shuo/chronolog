@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 3753c32c5837d24330598318f99551dca0691918d27cfcbe2c7acbb981e80a4b
+machine_hash: 4ca6b018b5fc4d24bb91a1261cb23439424225debfbff50c6a0b209927a81cb0
 product: openhands
 product_name: OpenHands
 record:
@@ -47,12 +47,12 @@ record:
   title: 3 Model Support changes in v1.27.0
   type: change
 related_changes:
-- '[[Changes/OpenHands/2026-10-08-test-e2e-launch-the-same-model-profile-test-from-the-beta-profile-by-enyst-in-ht|test(e2e):
-  launch the same-model profile test from the BETA profile]]'
-- '[[Changes/Claude Code/2026-10-09-claude-tag-changed-claude-in-slack-to-show-the-footer-with-the-session-link-mode|Claude
-  Tag Changed Claude in Slack to show the footer with the session link, model…]]'
+- '[[Changes/Open WebUI/2026-10-10-49-model-support-changes-in-v0-12-0|49 Model Support
+  changes in v0.12.0]]'
 - '[[Changes/GitHub Copilot CLI/2026-10-12-2-model-support-changes-in-v1-0-96|2 Model
   Support changes in v1.0.96]]'
+- '[[Changes/Ollama/2026-10-12-3-model-support-changes-in-v0-40-4|3 Model Support
+  changes in v0.40.4]]'
 source_release: '[[Releases/OpenHands/openhands-2026-10-12-v1-27-0-github-410728945-cac9a43e|openhands-2026-10-12-v1-27-0-github-410728945-cac9a43e]]'
 source_type: github_releases
 theme: model-support
@@ -92,7 +92,7 @@ Source: https://github.com/OpenHands/OpenHands/releases/tag/v1.27.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-10-12 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-10-12-2-model-support-changes-in-v1-0-96|2 Model Support changes in v1.0.96]]
+- Earlier: 2026-10-12 · Ollama · [[Changes/Ollama/2026-10-12-3-model-support-changes-in-v0-40-4|3 Model Support changes in v0.40.4]]
 - Later: 2026-10-13 · Cline · [[Changes/Cline/2026-10-13-3-model-support-changes-in-v4-1-24|3 Model Support changes in v4.1.24]]
 <!-- chronolog:end -->
 

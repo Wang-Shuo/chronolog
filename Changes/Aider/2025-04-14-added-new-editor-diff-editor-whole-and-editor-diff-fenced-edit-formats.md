@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 1cf88b0977b3f2b180159361740eaa60cdfc78590c557d5e290647ee6ca55894
+machine_hash: a3936f91b3046b5278ccd9b9db223c0de30db09042146e6cc1ebeeb52931b915
 product: aider
 product_name: Aider
 record:
@@ -44,10 +44,10 @@ record:
   title: Added new `editor-diff`, `editor-whole`, and `editor-diff-fenced` edit formats
   type: change
 related_changes:
-- '[[Changes/Cline/2025-04-06-add-ability-to-detect-when-user-edits-files-manually-so-cline-knows-to-re-read-l|Add
-  ability to detect when user edits files manually so Cline knows to re-read…]]'
 - '[[Changes/Windsurf/2025-04-07-ability-to-edit-subdomain-on-website-deploy|Ability
   to edit subdomain on website deploy]]'
+- '[[Changes/Dify/2025-04-09-chore-slider-fix-the-slider-lint-error-by-nov1c444-in-https-github-com-langgeniu|chore(slider):
+  fix the slider lint error]]'
 - '[[Changes/Cline/2025-04-12-3-editor-experience-changes-in-v3-12-0|3 Editor Experience
   changes in v3.12.0]]'
 source_release: '[[Releases/Aider/aider-2025-04-14-v0-82-0-github-212339053-266589e6|aider-2025-04-14-v0-82-0-github-212339053-266589e6]]'
@@ -80,7 +80,7 @@ type: change
 ## Nearby in Editor Experience
 
 - Earlier: 2025-04-12 · Cline · [[Changes/Cline/2025-04-12-3-editor-experience-changes-in-v3-12-0|3 Editor Experience changes in v3.12.0]]
-- Later: 2025-04-19 · Cline · [[Changes/Cline/2025-04-19-add-ability-to-edit-past-messages-with-options-to-restore-your-workspace-back-to|Add ability to edit past messages, with options to restore your workspace back…]]
+- Later: 2025-04-18 · Replit · [[Changes/Replit/2025-04-18-dev-preview-url-education|Dev preview URL education]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

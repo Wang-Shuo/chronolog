@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 43b66ec7cf396e53591c3dd4924119d094a8fc8c4dbb83a37a701d457ea3d32d
+machine_hash: cddd552dfb996c5bea79dfa06f1b3dedea579244b167b4443803f269df59a8fb
 product: openhands
 product_name: OpenHands
 record:
@@ -42,12 +42,11 @@ record:
   title: 2 Apps and Integrations changes in 1.9.1
   type: change
 related_changes:
-- '[[Changes/OpenHands/2026-07-06-7-apps-and-integrations-changes-in-1-9-0|7 Apps
-  and Integrations changes in 1.9.0]]'
 - '[[Changes/Claude Code/2026-07-07-2-apps-and-integrations-changes-in-v2-1-203|2
   Apps and Integrations changes in v2.1.203]]'
 - '[[Changes/GitHub Copilot CLI/2026-07-07-7-apps-and-integrations-changes-in-v1-0-69|7
   Apps and Integrations changes in v1.0.69]]'
+- '[[Changes/Lovable/2026-07-07-app-connector-github-api|App connector: GitHub API]]'
 source_release: '[[Releases/OpenHands/openhands-2026-07-07-1-9-1-github-350590509-fb4f817d|openhands-2026-07-07-1-9-1-github-350590509-fb4f817d]]'
 source_type: github_releases
 theme: apps-integrations
@@ -81,8 +80,8 @@ Source: https://github.com/OpenHands/OpenHands/releases/tag/1.9.1
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-07-07 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-07-07-7-apps-and-integrations-changes-in-v1-0-69|7 Apps and Integrations changes in v1.0.69]]
-- Later: 2026-07-08 · Claude Code · [[Changes/Claude Code/2026-07-08-reserved-the-claude-browser-mcp-server-name-alongside-claude-preview-ahead-of-th|Reserved the "Claude Browser" MCP server name (alongside "Claude Preview") ahead…]]
+- Earlier: 2026-07-07 · Lovable · [[Changes/Lovable/2026-07-07-app-connector-github-api|App connector: GitHub API]]
+- Later: 2026-07-07 · v0 · [[Changes/v0/2026-07-07-3-apps-and-integrations-changes-in-grouped-tool-approvals-richer-mcp|3 Apps and Integrations changes in Grouped tool approvals, richer MCP…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

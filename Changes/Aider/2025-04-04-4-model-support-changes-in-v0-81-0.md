@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: ec27f4a2a60d9d46495f8867976cd8fe54fd2599ac04f64f501c03972acec89b
+machine_hash: a9a8105dc5b28d049d3eca6855c567e9ea8ca21ffa9a90451cddd8e991c211d1
 product: aider
 product_name: Aider
 record:
@@ -47,10 +47,10 @@ record:
   title: 4 Model Support changes in v0.81.0
   type: change
 related_changes:
-- '[[Changes/Aider/2025-03-31-3-model-support-changes-in-v0-80-0|3 Model Support changes
-  in v0.80.0]]'
-- '[[Changes/Cline/2025-04-01-3-model-support-changes-in-v3-8-5|3 Model Support changes
-  in v3.8.5]]'
+- '[[Changes/Open WebUI/2025-04-01-3-model-support-changes-in-v0-6-0|3 Model Support
+  changes in v0.6.0]]'
+- '[[Changes/Ollama/2025-04-02-api-show-will-now-include-model-capabilities-such-as-vision|/api/show
+  will now include model capabilities such as vision]]'
 - '[[Changes/OpenHands/2025-04-02-2-model-support-changes-in-0-31-0|2 Model Support
   changes in 0.31.0]]'
 source_release: '[[Releases/Aider/aider-2025-04-04-v0-81-0-github-210314163-f0912302|aider-2025-04-04-v0-81-0-github-210314163-f0912302]]'

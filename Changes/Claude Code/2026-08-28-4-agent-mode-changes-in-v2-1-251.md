@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 7e623de49f9a3f41db4d35a58ea03448e79bf8d539c94effbd735dec1889bcd0
+machine_hash: 31fc00c360de2814e76d7598141c2d13200d3efdff127450e5bb0f2eb241a79b
 product: claude-code
 product_name: Claude Code
 record:
@@ -104,7 +104,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.251
 ## Nearby in Agent Mode
 
 - Earlier: 2026-08-27 · OpenHands · [[Changes/OpenHands/2026-08-27-4-agent-mode-changes-in-v1-16-0|4 Agent Mode changes in v1.16.0]]
-- Later: 2026-08-29 · Codex CLI · [[Changes/Codex CLI/2026-08-29-2-agent-mode-changes-in-rust-v0-151-0|2 Agent Mode changes in rust-v0.151.0]]
+- Later: 2026-08-28 · Replit · [[Changes/Replit/2026-08-28-find-your-first-customers-with-growth-skills|Find your first customers with Growth Skills]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

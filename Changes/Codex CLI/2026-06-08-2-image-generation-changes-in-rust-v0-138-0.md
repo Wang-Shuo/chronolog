@@ -4,20 +4,20 @@ date: '2026-06-08'
 description: 'Codex CLI · 2026-06-08 · Image Generation: 2 changes in 0.138.0 — #25960
   Restore Windows coverage for code-mode image generation exposure @won-openai'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2024-08-08-we-re-rolling-out-the-ability-for-chatgpt-free-users-to-create-up-to-two-images-2c505c|DALL·E
-    3 for ChatGPT Free users]]'
+  first_in_tracked: "[[Changes/Open WebUI/2024-03-10-dall-e-integration-introduced-dall-e-integration-for-image-generation-alongside|\U0001F3A8
+    DALL-E Integration]]"
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 669
+  lag_days: 820
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: image-generation
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 9186738bb47696d18e1aa4fb8814b303e9c862849401da962eba30ccbd8d2201
+machine_hash: 32963e2845747ab535776be5fa5897fda43ec96bc0607a85cb7ef1217c7fa243
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -43,10 +43,10 @@ record:
   title: 2 Image Generation changes in rust-v0.138.0
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-04-30-19443-add-gpt-image-2-to-bundled-openai-docs-skill-kkahadze-oai|♯19443
-  Add gpt-image-2 to bundled OpenAI Docs skill @kkahadze-oai]]'
 - '[[Changes/Codex CLI/2026-06-01-3-image-generation-changes-in-rust-v0-136-0|3 Image
   Generation changes in rust-v0.136.0]]'
+- "[[Changes/Open WebUI/2026-06-01-image-generation-with-non-standard-response-headers-image-generation-now-works-w|\U0001F58C️
+  Image generation with non-standard response headers. Image generation now…]]"
 - '[[Changes/Codex CLI/2026-06-04-3-image-generation-changes-in-rust-v0-137-0|3 Image
   Generation changes in rust-v0.137.0]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-06-08-rust-v0-138-0-github-336275797-115d015a|codex-cli-2026-06-08-rust-v0-138-0-github-336275797-115d015a]]'
@@ -97,7 +97,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.138.0
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2024-08-08 · ChatGPT · [[Changes/ChatGPT/2024-08-08-we-re-rolling-out-the-ability-for-chatgpt-free-users-to-create-up-to-two-images-2c505c|DALL·E 3 for ChatGPT Free users]]
+- Earliest same-theme entry in the tracked set: 2024-03-10 · Open WebUI · [[Changes/Open WebUI/2024-03-10-dall-e-integration-introduced-dall-e-integration-for-image-generation-alongside|🎨 DALL-E Integration]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

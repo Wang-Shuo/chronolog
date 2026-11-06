@@ -4,20 +4,20 @@ date: '2026-05-13'
 description: 'Claude Code · 2026-05-13 · Voice and Audio: [VSCode] Voice mode: the
   WSL error now suggests installing `sox libsox-fmt-pulse` for WSLg users'
 diffusion:
-  first_in_tracked: '[[Changes/Aider/2023-08-11-voice-to-code-https-aider-chat-docs-voice-html-support-which-allows-you-to-code|Voice-to-code((source
-    link) support, which allows you…]]'
+  first_in_tracked: '[[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2
+    Voice and Audio changes in 0.3.7]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1006
+  lag_days: 1038
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: f199658977bf11751b39d4a5dd16094d4d17127665f69ae5d250c0b04abefe6f
+machine_hash: cfa08a1e2fce57b9030b7eb19f618f588ff11efafed85c9763411eed505c52ce
 product: claude-code
 product_name: Claude Code
 record:
@@ -51,10 +51,10 @@ record:
   title: '[VSCode] Voice mode'
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-04-28-voice-mode-keybindings-bound-to-caps-lock-now-show-an-error-since-terminals-don|Voice
-  mode: keybindings bound to Caps Lock now show an error since terminals don''t…]]'
-- '[[Changes/Gemini CLI/2026-05-05-feat-voice-implement-real-time-voice-mode-with-cloud-and-local-backends-by-abhij|feat(voice):
-  implement real-time voice mode with cloud and local backends]]'
+- '[[Changes/Open WebUI/2026-05-09-10-voice-and-audio-changes-in-v0-9-3|10 Voice and
+  Audio changes in v0.9.3]]'
+- '[[Changes/Dify/2026-05-12-audio-and-transcript-behavior-explicitly-resume-audiocontext-and-play-audio-on-f|Audio
+  and transcript behavior]]'
 - '[[Changes/Gemini CLI/2026-05-12-2-voice-and-audio-changes-in-v0-42-0|2 Voice and
   Audio changes in v0.42.0]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-05-13-v2-1-141-github-322186176-9f8e2e22|claude-code-2026-05-13-v2-1-141-github-322186176-9f8e2e22]]'
@@ -95,13 +95,13 @@ type: change
 ## Nearby in Voice and Audio
 
 - Earlier: 2026-05-12 · Gemini CLI · [[Changes/Gemini CLI/2026-05-12-2-voice-and-audio-changes-in-v0-42-0|2 Voice and Audio changes in v0.42.0]]
-- Later: 2026-06-02 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-06-02-add-the-voice-command-to-dictate-prompts-using-local-speech-to-text-models|Add the /voice command to dictate prompts using local speech-to-text models]]
+- Later: 2026-05-13 · ElevenLabs · [[Changes/ElevenLabs/2026-05-13-javascript-sdk|JavaScript SDK]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-08-11 · Aider · [[Changes/Aider/2023-08-11-voice-to-code-https-aider-chat-docs-voice-html-support-which-allows-you-to-code|Voice-to-code((source link) support, which allows you…]]
+- Earliest same-theme entry in the tracked set: 2023-07-10 · Dify · [[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2 Voice and Audio changes in 0.3.7]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

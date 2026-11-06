@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 82f8733ffdf31de253990f85b868e8571cdafaebd5438c22f8517b73487e5abc
+machine_hash: d3c614da0cafa862344d750177829f0feaa865f864430f86f23430318d4e9d13
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -48,12 +48,12 @@ record:
   title: 4 Account and Access changes in v0.1.14
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2025-07-11-add-no-browser-environment-variable-to-trigger-offline-oauth-flow-by-sethtroisi|Add
-  NO_BROWSER environment variable to trigger offline oauth flow]]'
-- '[[Changes/Windsurf/2025-07-17-support-for-more-mcp-servers-with-easier-and-more-secure-authentication-by-integ|Support
-  for more MCP servers with easier and more secure authentication…]]'
 - '[[Changes/Gemini CLI/2025-07-19-3-account-and-access-changes-in-v0-1-13|3 Account
   and Access changes in v0.1.13]]'
+- "[[Changes/Open WebUI/2025-07-19-oauth-token-endpoint-authentication-method-added-configurable-oauth-token-endpoi|\U0001F510
+  OAuth Token Endpoint Authentication Method]]"
+- '[[Changes/Dify/2025-07-23-8-account-and-access-changes-in-1-7-0|8 Account and Access
+  changes in 1.7.0]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2025-07-25-v0-1-14-github-235287807-631ef7fa|gemini-cli-2025-07-25-v0-1-14-github-235287807-631ef7fa]]'
 source_type: github_releases
 theme: account-access
@@ -102,8 +102,8 @@ Source: https://github.com/google-gemini/gemini-cli/releases/tag/v0.1.14
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Account and Access
 
-- Earlier: 2025-07-19 · Gemini CLI · [[Changes/Gemini CLI/2025-07-19-3-account-and-access-changes-in-v0-1-13|3 Account and Access changes in v0.1.13]]
-- Later: 2025-07-30 · Gemini CLI · [[Changes/Gemini CLI/2025-07-30-5-account-and-access-changes-in-v0-1-15|5 Account and Access changes in v0.1.15]]
+- Earlier: 2025-07-23 · Dify · [[Changes/Dify/2025-07-23-8-account-and-access-changes-in-1-7-0|8 Account and Access changes in 1.7.0]]
+- Later: 2025-07-28 · Dify · [[Changes/Dify/2025-07-28-test-add-comprehensive-integration-tests-for-api-key-authentication-system-by-fa|test: add comprehensive integration tests for API key authentication system]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

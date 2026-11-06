@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 0ed4bec3333f18aa2b7b7c7c6842d9b8f2997d28749f9488968dd25e27f38803
+machine_hash: 9caea59ffc5479cf790afa0cbb01086cd2e2347c1463c6ab533efbfbe1d39359
 product: claude-code
 product_name: Claude Code
 record:
@@ -92,7 +92,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.307
 ## Nearby in Developer Workflow
 
 - Earlier: 2026-10-20 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-10-20-2-developer-workflow-changes-in-v1-0-101|2 Developer Workflow changes in v1.0.101]]
-- Later: 2026-10-22 · Claude Code · [[Changes/Claude Code/2026-10-22-improved-disk-full-handling-a-bash-command-cut-off-by-a-full-disk-now-says-so-an|Improved disk-full handling]]
+- Later: 2026-10-21 · Ollama · [[Changes/Ollama/2026-10-21-flint-is-an-apache-2-0-licensed-40b-parameter-mixture-of-experts-model-with-appr|Flint is an Apache 2.0-licensed, 40B-parameter mixture-of-experts model…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

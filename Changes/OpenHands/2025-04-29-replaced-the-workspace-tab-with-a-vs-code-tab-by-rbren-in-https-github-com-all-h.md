@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 3bd78c0ee1b5de50531d9ddd276c25046619373dd9e9c5562989ea826f22b2c8
+machine_hash: 91e52bf4e1890e23f9a599472d188a4464ef9c07ee443af4053d420148c252a7
 product: openhands
 product_name: OpenHands
 record:
@@ -41,8 +41,8 @@ record:
   title: Replaced the workspace tab with a VS Code tab
   type: change
 related_changes:
-- '[[Changes/Cline/2025-04-19-add-ability-to-edit-past-messages-with-options-to-restore-your-workspace-back-to|Add
-  ability to edit past messages, with options to restore your workspace back…]]'
+- '[[Changes/Dify/2025-04-23-2-editor-experience-changes-in-1-3-0|2 Editor Experience
+  changes in 1.3.0]]'
 - '[[Changes/OpenHands/2025-04-23-introduced-a-new-changes-tab-to-show-modifications-made-by-openhands-by-amanape|Introduced
   a new Changes tab to show modifications made by OpenHands]]'
 - '[[Changes/Windsurf/2025-04-25-updates-ide-marketplace-link-by-mirroring-open-vsx|Updates

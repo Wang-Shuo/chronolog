@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: fe5e4cc7d83562e7d094ed306634f7885168bfdfbd5e91f612ecef1365232ee6
+machine_hash: 980744f9ada7361682dc2ba2373e0820d2f89c0090be609b3f1036fe9edfc525
 product: claude-code
 product_name: Claude Code
 record:
@@ -102,7 +102,7 @@ type: change
 ## Nearby in Model Support
 
 - Earlier: 2026-10-01 · Codex CLI · [[Changes/Codex CLI/2026-10-01-5-model-support-changes-in-rust-v0-160-0|5 Model Support changes in rust-v0.160.0]]
-- Later: 2026-10-05 · Claude Code · [[Changes/Claude Code/2026-10-05-2-model-support-changes-in-v2-1-290|2 Model Support changes in v2.1.290]]
+- Later: 2026-10-02 · Replit · [[Changes/Replit/2026-10-02-new-models-from-openai-and-anthropic|New models from OpenAI and Anthropic]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

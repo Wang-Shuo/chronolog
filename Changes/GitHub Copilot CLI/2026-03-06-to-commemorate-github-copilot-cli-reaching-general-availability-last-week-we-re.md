@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: ef3078243df25023c5e10cb5bbfda09e7d1a5d36e1f56128c6c2d516b20604c1
+machine_hash: 23937803534fc373a9d713eec734fd71a16cf5c5958c6da1a0cf1833fc30d000
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -48,10 +48,10 @@ record:
     we're…
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-03-04-install-the-cursor-acp-directly-in-your-jetbrains-ide-from-the-acp-registry-and|Install
-  the Cursor ACP directly in your JetBrains IDE from the ACP Registry…]]'
-- '[[Changes/GitHub Copilot CLI/2026-03-05-6-editor-experience-changes-in-v0-0-422|6
-  Editor Experience changes in v0.0.422]]'
+- '[[Changes/v0/2026-03-05-added-summary-header-to-diff-tab-showing-file-changes|Added
+  summary header to diff tab showing file changes]]'
+- '[[Changes/v0/2026-03-05-added-diff-code-tab-toggle-with-hover-expand-functionality|Added
+  diff/code tab toggle with hover-expand functionality]]'
 - '[[Changes/Cline/2026-03-06-hooks-added-a-notification-hook-for-attention-and-completion-boundaries|Hooks:
   Added a Notification hook for attention and completion boundaries]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-03-06-v1-0-2-github-294107102-f1013c82|github-copilot-cli-2026-03-06-v1-0-2-github-294107102-f1013c82]]'
@@ -85,7 +85,7 @@ type: change
 ## Nearby in Editor Experience
 
 - Earlier: 2026-03-06 · Cline · [[Changes/Cline/2026-03-06-hooks-added-a-notification-hook-for-attention-and-completion-boundaries|Hooks: Added a Notification hook for attention and completion boundaries]]
-- Later: 2026-03-10 · Claude Code · [[Changes/Claude Code/2026-03-10-vscode-added-vscode-anthropic-claude-code-open-uri-handler-to-open-a-new-claude|VSCode: Added vscode://anthropic.claude-code/open URI handler to open a new Claude…]]
+- Later: 2026-03-08 · Open WebUI · [[Changes/Open WebUI/2026-03-08-open-terminal-html-editing-users-can-now-edit-html-source-files-in-open-terminal|✏️ Open Terminal HTML editing. Users can now edit HTML source files in Open…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

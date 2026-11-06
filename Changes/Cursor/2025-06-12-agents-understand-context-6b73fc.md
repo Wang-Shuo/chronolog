@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 56f04f733a8d51d49674e4a5be624135371b6e1632043b6bb1e554ad5360e39c
+machine_hash: c7901922719ec103ff0640a0849ddbb03034584805d5bed7506fe632ea0ac2a3
 product: cursor
 product_name: Cursor
 record:
@@ -56,10 +56,10 @@ record:
   title: Agents understand context
   type: change
 related_changes:
-- '[[Changes/OpenHands/2025-06-05-2-apps-and-integrations-changes-in-0-41-0|2 Apps
-  and Integrations changes in 0.41.0]]'
-- '[[Changes/Cline/2025-06-10-add-collapsible-mcp-response-panels-to-keep-conversations-focused-on-the-main-ai|Add
-  collapsible MCP response panels to keep conversations focused on the main AI…]]'
+- "[[Changes/Open WebUI/2025-06-10-openai-compatible-embeddings-endpoint-introducing-a-fully-openai-style-api-embed|\U0001F9E9
+  OpenAI-Compatible Embeddings Endpoint]]"
+- '[[Changes/Dify/2025-06-11-6-apps-and-integrations-changes-in-1-4-2|6 Apps and Integrations
+  changes in 1.4.2]]'
 - '[[Changes/Cline/2025-06-12-2-apps-and-integrations-changes-in-v3-17-13|2 Apps and
   Integrations changes in v3.17.13]]'
 source_release: '[[Releases/Cursor/cursor-2025-06-12-1-1-https-cursor-com-changelog-1-1-0f0190fc|cursor-2025-06-12-1-1-https-cursor-com-changelog-1-1-0f0190fc]]'
@@ -98,7 +98,7 @@ type: change
 ## Nearby in Apps and Integrations
 
 - Earlier: 2025-06-12 · Cline · [[Changes/Cline/2025-06-12-2-apps-and-integrations-changes-in-v3-17-13|2 Apps and Integrations changes in v3.17.13]]
-- Later: 2025-06-20 · OpenHands · [[Changes/OpenHands/2025-06-20-3-apps-and-integrations-changes-in-0-44-0|3 Apps and Integrations changes in 0.44.0]]
+- Later: 2025-06-16 · Dify · [[Changes/Dify/2025-06-16-2-apps-and-integrations-changes-in-1-4-3|2 Apps and Integrations changes in 1.4.3]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

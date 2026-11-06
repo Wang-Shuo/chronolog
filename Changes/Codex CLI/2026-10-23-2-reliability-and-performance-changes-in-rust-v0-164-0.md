@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 5cb124d02856a237b69016e2b3e1829ee94f6c94c6e45f4cce0801c01d826330
+machine_hash: b06e0eac2931483899e9760ef65919c079bc1c1cb182780b329962275482c6cd
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -95,7 +95,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.164.0
 ## Nearby in Reliability and Performance
 
 - Earlier: 2026-10-23 · Claude Code · [[Changes/Claude Code/2026-10-23-improved-memory-use-of-non-interactive-sessions-p-agent-sdk-during-compaction-wh|Improved memory use of non-interactive sessions (-p, Agent SDK) during compaction…]]
-- Later: 2026-10-29 · Windsurf · [[Changes/Windsurf/2026-10-29-reduced-memory-usage-for-large-devin-local-sessions|Reduced memory usage for large Devin Local sessions]]
+- Later: 2026-10-23 · Dify · [[Changes/Dify/2026-10-23-2-reliability-and-performance-changes-in-1-18-0|2 Reliability and Performance changes in 1.18.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

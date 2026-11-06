@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: adabfe4a20c967de3c530b9cc0de6eb8e66aebec49543460547432d5d60599bc
+machine_hash: 23adb4fa9c8dbf1737c5b67236242c5e3f9fe2b730f4a29f5c9bdc85a9338843
 product: cline
 product_name: Cline
 record:
@@ -42,12 +42,12 @@ record:
   title: 'Refactor: Git commit message generation as a module'
   type: change
 related_changes:
-- '[[Changes/Windsurf/2025-07-17-now-you-can-mention-terminal-in-cascade|Now you can
-  @-mention terminal in Cascade]]'
 - '[[Changes/Cline/2025-07-18-standalone-terminal-manager-remove-other-vscode-impls-now-covered-by-host-bridge|Standalone
   Terminal Manager & remove other vscode-impls (now covered by host bridge)]]'
 - '[[Changes/Gemini CLI/2025-07-19-12-developer-workflow-changes-in-v0-1-13|12 Developer
   Workflow changes in v0.1.13]]'
+- "[[Changes/Open WebUI/2025-07-19-enhanced-reasoning-tag-processing-improved-and-expanded-reasoning-tag-parsing-to|\U0001F9E0
+  Enhanced Reasoning Tag Processing]]"
 source_release: '[[Releases/Cline/cline-2025-07-22-v3-19-8-github-234341731-78a40b25|cline-2025-07-22-v3-19-8-github-234341731-78a40b25]]'
 source_type: github_releases
 theme: developer-workflow
@@ -82,7 +82,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2025-07-19 · Gemini CLI · [[Changes/Gemini CLI/2025-07-19-12-developer-workflow-changes-in-v0-1-13|12 Developer Workflow changes in v0.1.13]]
+- Earlier: 2025-07-19 · Open WebUI · [[Changes/Open WebUI/2025-07-19-enhanced-reasoning-tag-processing-improved-and-expanded-reasoning-tag-parsing-to|🧠 Enhanced Reasoning Tag Processing]]
 - Later: 2025-07-23 · Codex CLI · [[Changes/Codex CLI/2025-07-23-https-github-com-openai-codex-pull-1626-to-ensure-shell-commands-spawned-by-code|(source link) to ensure shell commands spawned by Codex…]]
 <!-- chronolog:end -->
 

@@ -4,20 +4,20 @@ date: '2023-09-25'
 description: 'ChatGPT · 2023-09-25 · Voice and Audio: You can now use voice to engage
   in a back-and-forth conversation with your assistant. Speak with it on the go, request…'
 diffusion:
-  first_in_tracked: '[[Changes/Aider/2023-08-11-voice-to-code-https-aider-chat-docs-voice-html-support-which-allows-you-to-code|Voice-to-code((source
-    link) support, which allows you…]]'
+  first_in_tracked: '[[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2
+    Voice and Audio changes in 0.3.7]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 45
+  lag_days: 77
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: expansion
-machine_hash: 7d4754863ade96d791b2a32242544284e9510151335732e331979952a5992e69
+machine_hash: 4f6ee639fbf82066c423723f51e6421b249a8ba880c0b0d9305108985bdff247
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -53,6 +53,8 @@ record:
   title: Voice (Beta) is now rolling out to Plus users on iOS and Android
   type: change
 related_changes:
+- '[[Changes/Dify/2023-07-27-feat-application-api-add-speech-to-text-by-zxhlyh-in-https-github-com-langgenius|Feat/application
+  api add speech to text]]'
 - '[[Changes/Aider/2023-08-11-voice-to-code-https-aider-chat-docs-voice-html-support-which-allows-you-to-code|Voice-to-code((source
   link) support, which allows you…]]'
 - '[[Changes/Aider/2023-08-22-2-voice-and-audio-changes-in-v0-13-0|2 Voice and Audio
@@ -93,7 +95,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-08-11 · Aider · [[Changes/Aider/2023-08-11-voice-to-code-https-aider-chat-docs-voice-html-support-which-allows-you-to-code|Voice-to-code((source link) support, which allows you…]]
+- Earliest same-theme entry in the tracked set: 2023-07-10 · Dify · [[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2 Voice and Audio changes in 0.3.7]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

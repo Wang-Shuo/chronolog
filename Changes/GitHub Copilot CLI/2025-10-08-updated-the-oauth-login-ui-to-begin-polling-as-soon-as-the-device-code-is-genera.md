@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 8f8904b01d068b3ce20461c55f346f7eb8793b30eee32baa086926afd59b74df
+machine_hash: 7531305f434c17e40e34db39fca2094ddee813a8cacc4bfc78d0dcfc4a8bac5e
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -44,12 +44,12 @@ record:
     generated…
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2025-10-03-4568-fix-hang-on-second-oauth-login-attempt|♯4568
-  Fix hang on second oauth login attempt]]'
-- '[[Changes/Codex CLI/2025-10-06-3-account-and-access-changes-in-rust-v0-45-0|3 Account
-  and Access changes in rust-v0.45.0]]'
 - '[[Changes/Gemini CLI/2025-10-07-for-dynamic-client-registration-use-registration-endpoint-in-config-if-available|For
   dynamic client registration - use registration endpoint in config if available…]]'
+- '[[Changes/Open WebUI/2025-10-07-10-account-and-access-changes-in-v0-6-33|10 Account
+  and Access changes in v0.6.33]]'
+- "[[Changes/Open WebUI/2025-10-07-redis-session-storage-is-now-available-as-an-experimental-option-for-oauth-authe|\U0001F5C4️
+  Redis session storage is now available as an experimental option for OAuth…]]"
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2025-10-08-v0-0-337-github-253168640-7d65819d|github-copilot-cli-2025-10-08-v0-0-337-github-253168640-7d65819d]]'
 source_type: github_releases
 theme: account-access
@@ -80,7 +80,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Account and Access
 
-- Earlier: 2025-10-07 · Gemini CLI · [[Changes/Gemini CLI/2025-10-07-for-dynamic-client-registration-use-registration-endpoint-in-config-if-available|For dynamic client registration - use registration endpoint in config if available…]]
+- Earlier: 2025-10-07 · Open WebUI · [[Changes/Open WebUI/2025-10-07-redis-session-storage-is-now-available-as-an-experimental-option-for-oauth-authe|🗄️ Redis session storage is now available as an experimental option for OAuth…]]
 - Later: 2025-10-09 · Codex CLI · [[Changes/Codex CLI/2025-10-09-we-are-in-the-middle-of-significantly-improving-support-for-connecting-to-mcp-se|We are in the middle of significantly improving support for connecting to MCP…]]
 <!-- chronolog:end -->
 

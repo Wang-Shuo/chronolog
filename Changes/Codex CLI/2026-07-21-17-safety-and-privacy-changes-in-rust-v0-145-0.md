@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 67e21dbbfde038cc80a647fefff1555ef01546bb5f19bddc499cbc37d014ed94
+machine_hash: d75f53413098036f7388e567d4f88c21c79892b9843b0a712bdfce4943244cd5
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -164,7 +164,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.145.0
 ## Nearby in Safety and Privacy
 
 - Earlier: 2026-07-21 · Claude Code · [[Changes/Claude Code/2026-07-21-fixed-remote-control-sessions-not-showing-a-pending-permission-prompt-or-dialog|Fixed Remote Control sessions not showing a pending permission prompt or dialog…]]
-- Later: 2026-07-22 · Claude Code · [[Changes/Claude Code/2026-07-22-3-safety-and-privacy-changes-in-v2-1-218|3 Safety and Privacy changes in v2.1.218]]
+- Later: 2026-07-21 · v0 · [[Changes/v0/2026-07-21-typed-prompts-survive-clarifying-questions-permission-approvals-and-queued-submi|Typed prompts survive clarifying questions, permission approvals, and queued…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

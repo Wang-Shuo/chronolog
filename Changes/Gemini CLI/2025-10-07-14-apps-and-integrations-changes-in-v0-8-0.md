@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 210de9c729bb9df3721573899f7e8d513596c0328fbfd8c1cacdc8d805080b2e
+machine_hash: c67cf01b91f38bb1e87d5fae2b30a50ec488826097b5263e7043508ab4aaa083
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -73,12 +73,9 @@ record:
   title: 14 Apps and Integrations changes in v0.8.0
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2025-10-01-11-apps-and-integrations-changes-in-v0-7-0|11 Apps
-  and Integrations changes in v0.7.0]]'
-- '[[Changes/OpenHands/2025-10-01-added-configurable-timeout-settings-for-shttp-mcp-servers-to-prevent-tool-calls|Added
-  configurable timeout settings for SHTTP MCP servers to prevent tool calls…]]'
-- '[[Changes/Codex CLI/2025-10-03-17-apps-and-integrations-changes-in-rust-v0-44-0|17
-  Apps and Integrations changes in rust-v0.44.0]]'
+- '[[Changes/ElevenLabs/2025-10-07-python-sdk|Python SDK]]'
+- '[[Changes/ElevenLabs/2025-10-07-sdk-releases|SDK Releases]]'
+- '[[Changes/ElevenLabs/2025-10-07-mcp-server|MCP Server]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2025-10-07-v0-8-0-github-252858757-2ecdc728|gemini-cli-2025-10-07-v0-8-0-github-252858757-2ecdc728]]'
 source_type: github_releases
 theme: apps-integrations
@@ -145,8 +142,8 @@ Source: https://github.com/google-gemini/gemini-cli/releases/tag/v0.8.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2025-10-03 · Codex CLI · [[Changes/Codex CLI/2025-10-03-17-apps-and-integrations-changes-in-rust-v0-44-0|17 Apps and Integrations changes in rust-v0.44.0]]
-- Later: 2025-10-08 · Cline · [[Changes/Cline/2025-10-08-move-mcp-marketplace-catalog-from-global-state-to-disk-cache-by-celestial-vault|Move MCP marketplace catalog from global state to disk cache]]
+- Earlier: 2025-10-07 · ElevenLabs · [[Changes/ElevenLabs/2025-10-07-mcp-server|MCP Server]]
+- Later: 2025-10-07 · Open WebUI · [[Changes/Open WebUI/2025-10-07-3-apps-and-integrations-changes-in-v0-6-33|3 Apps and Integrations changes in v0.6.33]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

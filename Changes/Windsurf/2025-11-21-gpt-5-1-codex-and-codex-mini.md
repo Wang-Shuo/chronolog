@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 2d5897df27520f4874270fad19b581bca4e2f57211a8451737c66763708593da
+machine_hash: d7ff44d4f23a2a6a07ee8e95b176a9799432e079d176050b11a21193436841d8
 product: windsurf
 product_name: Windsurf
 record:
@@ -83,8 +83,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2025-11-21 · Codex CLI · [[Changes/Codex CLI/2025-11-21-chore-drop-model-max-output-tokens-by-jif-oai-in-https-github-com-openai-codex-p|chore: drop model_max_output_tokens]]
-- Later: 2025-11-24 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2025-11-24-opus-4-5-gpt-4-1-and-gpt-5-mini-are-now-available-in-github-copilot-cli|Opus 4.5, GPT-4.1 and GPT-5-Mini are now available in GitHub Copilot CLI]]
+- Earlier: 2025-11-21 · Replit · [[Changes/Replit/2025-11-21-design-mode-create-stunning-websites-in-under-2-minutes|Design Mode: Create stunning websites in under 2 minutes]]
+- Later: 2025-11-24 · Claude · [[Changes/Claude/2025-11-24-claude-opus-4-5-launch|Claude Opus 4.5 launch]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

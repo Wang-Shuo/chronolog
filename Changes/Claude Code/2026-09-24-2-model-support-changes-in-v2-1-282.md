@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 966b81c1ab827b9b50b269c020e3b51a725462cf888fbd977b364548e6c7c32c
+machine_hash: 58dace56bae81966cf4d7b0ac2b2f130b5e4a6d355786ffb0c47745c2bc270a9
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,12 +45,11 @@ record:
   title: 2 Model Support changes in v2.1.282
   type: change
 related_changes:
-- '[[Changes/OpenHands/2026-09-22-test-strengthen-llm-profile-configuration-by-aivong-openhands-in-https-github-co|test:
-  strengthen LLM profile configuration]]'
-- '[[Changes/Claude Code/2026-09-23-improved-interactive-startup-time-git-reads-startup-telemetry-and-the-bedrock-ve|Improved
-  interactive startup time]]'
-- '[[Changes/Codex CLI/2026-09-23-2-model-support-changes-in-rust-v0-156-1|2 Model
-  Support changes in rust-v0.156.1]]'
+- '[[Changes/ElevenLabs/2026-09-23-image-video|Image & Video]]'
+- '[[Changes/Lovable/2026-09-23-claude-models-for-your-app-s-ai-features|Claude models
+  for your app''s AI features]]'
+- '[[Changes/Lovable/2026-09-23-enable-extended-retention-models-in-your-enterprise-workspace|Enable
+  extended-retention models in your Enterprise workspace]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-24-v2-1-282-github-395840120-957e42c4|claude-code-2026-09-24-v2-1-282-github-395840120-957e42c4]]'
 source_type: github_releases
 theme: model-support
@@ -90,7 +89,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.282
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-09-23 · Codex CLI · [[Changes/Codex CLI/2026-09-23-2-model-support-changes-in-rust-v0-156-1|2 Model Support changes in rust-v0.156.1]]
+- Earlier: 2026-09-23 · Lovable · [[Changes/Lovable/2026-09-23-enable-extended-retention-models-in-your-enterprise-workspace|Enable extended-retention models in your Enterprise workspace]]
 - Later: 2026-09-24 · Cline · [[Changes/Cline/2026-09-24-3-model-support-changes-in-v4-1-21|3 Model Support changes in v4.1.21]]
 <!-- chronolog:end -->
 

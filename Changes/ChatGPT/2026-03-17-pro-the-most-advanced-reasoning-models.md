@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: cb8ca4aa7235b81a440fcbfb3f169a5aa1e6ccee0f28f8974e980173701637b1
+machine_hash: b427cb2f234ec51bba7057db69c21ad6b627ea1c527954dfbb46f9ed7b1d449e
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -41,10 +41,10 @@ record:
   title: Pro – the most advanced reasoning models
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-03-16-5-model-support-changes-in-rust-v0-115-0|5 Model
-  Support changes in rust-v0.115.0]]'
 - '[[Changes/GitHub Copilot CLI/2026-03-16-model-can-discover-and-use-tools-dynamically-with-tool-search-for-claude-models|Model
   can discover and use tools dynamically with tool search for Claude models]]'
+- '[[Changes/Lovable/2026-03-16-nano-banana-2-gemini-3-1-flash-image-support|Nano
+  Banana 2 (Gemini 3.1 Flash Image) support]]'
 - '[[Changes/ChatGPT/2026-03-17-instant-fast-responses-for-everyday-questions|Instant
   – fast responses for everyday questions]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-03-17-updates-to-the-model-picker-in-chatgpt-764a9949|chatgpt-2026-03-17-updates-to-the-model-picker-in-chatgpt-764a9949]]'
@@ -77,7 +77,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-03-16 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-03-16-model-can-discover-and-use-tools-dynamically-with-tool-search-for-claude-models|Model can discover and use tools dynamically with tool search for Claude models]]
+- Earlier: 2026-03-16 · Lovable · [[Changes/Lovable/2026-03-16-nano-banana-2-gemini-3-1-flash-image-support|Nano Banana 2 (Gemini 3.1 Flash Image) support]]
 - Later: 2026-03-17 · Claude Code · [[Changes/Claude Code/2026-03-17-increased-default-maximum-output-token-limits-for-claude-opus-4-6-to-64k-tokens|Increased default maximum output token limits for Claude Opus 4.6 to 64k tokens…]]
 <!-- chronolog:end -->
 

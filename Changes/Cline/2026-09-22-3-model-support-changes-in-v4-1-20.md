@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 9aa7a0d5da7bf4fc276281f6cbf73de0e18ec88f3f0505c526181ee85e79b225
+machine_hash: c0b20008700762fef8b4eb48b1dcc99153b3171f9679de9507e88158791b6f02
 product: cline
 product_name: Cline
 record:
@@ -55,10 +55,9 @@ record:
   title: 3 Model Support changes in v4.1.20
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-09-18-2-model-support-changes-in-rust-v0-155-1|2 Model
-  Support changes in rust-v0.155.1]]'
-- '[[Changes/GitHub Copilot CLI/2026-09-21-enable-the-rubber-duck-agent-for-every-model-family-and-for-low-cost-tier-sessio|Enable
-  the rubber-duck agent for every model family and for low-cost-tier session models]]'
+- '[[Changes/Open WebUI/2026-09-21-41-model-support-changes-in-v0-11-4|41 Model Support
+  changes in v0.11.4]]'
+- '[[Changes/Claude/2026-09-22-claude-opus-5-5-launch|Claude Opus 5.5 launch]]'
 - '[[Changes/Claude Code/2026-09-22-5-model-support-changes-in-v2-1-280|5 Model Support
   changes in v2.1.280]]'
 source_release: '[[Releases/Cline/cline-2026-09-22-v4-1-20-github-394105689-95df91cb|cline-2026-09-22-v4-1-20-github-394105689-95df91cb]]'

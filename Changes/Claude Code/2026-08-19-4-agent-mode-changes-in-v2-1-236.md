@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: b19c3d0b6620dedceac683c263a9ff33473d847414641f0f3886dcb697d60e7c
+machine_hash: f612a83b8edb0ec82ad92e272f52aa4bb247a4252892d26fe3cc73241d691b56
 product: claude-code
 product_name: Claude Code
 record:
@@ -53,7 +53,7 @@ record:
   title: 4 Agent Mode changes in v2.1.236
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-08-17-agents-in-every-repo|Agents in every repo]]'
+- '[[Changes/ElevenLabs/2026-08-17-elevenagents-fdc84e|ElevenAgents]]'
 - '[[Changes/OpenHands/2026-08-17-docs-agents-add-a-repository-map-clarifying-what-belongs-where-by-smolpaws-in-ht|docs(agents):
   add a repository map clarifying what belongs where]]'
 - '[[Changes/Codex CLI/2026-08-18-12-agent-mode-changes-in-rust-v0-148-0|12 Agent

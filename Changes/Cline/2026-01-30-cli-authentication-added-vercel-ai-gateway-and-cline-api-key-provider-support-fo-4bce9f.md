@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: adb98bb9b1f06a652be5b8ce49597b888333b793f4e3b915852d68b791724e53
+machine_hash: b9acd88293993450fb19fed99c6483a465586b2973a3f91465d1c35e1d4026ee
 product: cline
 product_name: Cline
 record:
@@ -60,12 +60,12 @@ related_changes:
   and Access changes in rust-v0.92.0]]'
 - '[[Changes/GitHub Copilot CLI/2026-01-27-error-messages-consistently-reference-login-and-logout-commands|Error
   messages consistently reference /login and /logout commands]]'
-- '[[Changes/Cline/2026-01-30-cli-authentication-added-vercel-ai-gateway-and-cline-api-key-provider-support-fo|_CLI
+- '[[Changes/Cline/2026-01-30-cli-authentication-added-vercel-ai-gateway-and-cline-api-key-provider-support-fo|CLI
   authentication: Added Vercel AI Gateway and Cline API key provider support…]]'
 source_release: '[[Releases/Cline/cline-2026-01-30-v3-56-1-github-281368867-936d9b63|cline-2026-01-30-v3-56-1-github-281368867-936d9b63]]'
 source_type: github_releases
 theme: account-access
-title: '_CLI authentication: Added Vercel AI Gateway and Cline API key provider support…'
+title: 'CLI authentication: Added Vercel AI Gateway and Cline API key provider support…'
 type: change
 ---
 
@@ -84,17 +84,17 @@ type: change
 <!-- chronolog:begin region="context" -->
 ## Also in this release
 
-- [[Changes/Cline/2026-01-30-new-model-added-kimi-k2-5-model-to-moonshot-provider-262k-context-image-support|_New model: Added Kimi-K2.5 model to Moonshot provider…]] · Context Window
-- [[Changes/Cline/2026-01-30-hooks-hook-scripts-now-run-from-the-workspace-repository-root-instead-of-filesys-9eb2c6|_Hooks: Hook scripts now run from the workspace repository root instead…]] · Apps and Integrations
-- [[Changes/Cline/2026-01-30-litellm-fixed-thinking-configuration-not-appearing-for-reasoning-capable-models-cb84ce|_LiteLLM: Fixed thinking configuration not appearing for reasoning-capable models]] · Model Support
+- [[Changes/Cline/2026-01-30-new-model-added-kimi-k2-5-model-to-moonshot-provider-262k-context-image-support|New model: Added Kimi-K2.5 model to Moonshot provider…]] · Context Window
+- [[Changes/Cline/2026-01-30-hooks-hook-scripts-now-run-from-the-workspace-repository-root-instead-of-filesys-9eb2c6|Hooks: Hook scripts now run from the workspace repository root instead…]] · Apps and Integrations
+- [[Changes/Cline/2026-01-30-litellm-fixed-thinking-configuration-not-appearing-for-reasoning-capable-models-cb84ce|LiteLLM: Fixed thinking configuration not appearing for reasoning-capable models]] · Model Support
 - [[Changes/Cline/2026-01-30-6-other-changes-in-v3-56-1|6 other changes in v3.56.1]] · Other changes
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Account and Access
 
-- Earlier: 2026-01-30 · Cline · [[Changes/Cline/2026-01-30-cli-authentication-added-vercel-ai-gateway-and-cline-api-key-provider-support-fo|_CLI authentication: Added Vercel AI Gateway and Cline API key provider support…]]
-- Later: 2026-01-30 · Cline · [[Changes/Cline/2026-01-30-cli-authentication-added-vercel-ai-gateway-and-cline-api-key-provider-support-fo-4f2168|_CLI authentication: Added Vercel AI Gateway and Cline API key provider support…]]
+- Earlier: 2026-01-30 · Cline · [[Changes/Cline/2026-01-30-cli-authentication-added-vercel-ai-gateway-and-cline-api-key-provider-support-fo|CLI authentication: Added Vercel AI Gateway and Cline API key provider support…]]
+- Later: 2026-01-30 · Cline · [[Changes/Cline/2026-01-30-cli-authentication-added-vercel-ai-gateway-and-cline-api-key-provider-support-fo-4f2168|CLI authentication: Added Vercel AI Gateway and Cline API key provider support…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

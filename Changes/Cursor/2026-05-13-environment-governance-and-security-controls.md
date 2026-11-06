@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: f91199192c0e3ec790debea1f75f7218dbd6f6a5ef732af49f38999c0109ddfe
+machine_hash: 1c96f436f3c86d57a9fcd4efd650e90927e2a5e209ae2edd1d6c668d02e96460
 product: cursor
 product_name: Cursor
 record:
@@ -51,10 +51,11 @@ record:
   title: Environment governance and security controls
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-05-11-sessions-with-extension-permission-prompts-can-be-resumed-without-a-session-file|Sessions
-  with extension permission prompts can be resumed without…]]'
 - '[[Changes/Gemini CLI/2026-05-12-3-safety-and-privacy-changes-in-v0-42-0|3 Safety
   and Privacy changes in v0.42.0]]'
+- '[[Changes/v0/2026-05-12-v0-can-now-run-terminal-commands-in-your-chats-with-a-permission-prompt-before-e|v0
+  can now run terminal commands in your chats, with a permission prompt before each
+  one]]'
 - '[[Changes/Claude Code/2026-05-13-5-safety-and-privacy-changes-in-v2-1-141|5 Safety
   and Privacy changes in v2.1.141]]'
 source_release: '[[Releases/Cursor/cursor-2026-05-13-3-4-https-cursor-com-changelog-05-13-26-685b1c4c|cursor-2026-05-13-3-4-https-cursor-com-changelog-05-13-26-685b1c4c]]'

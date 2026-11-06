@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: pricing
-machine_hash: 91a3852ada996872588ecefdb9c0b29286d17fc5afc52af657d12ab3fea2fd63
+machine_hash: 2e94f94bfb73465d8cf7e8b72ebfc004f5c70629f315b8cd4f32145fd74d7d34
 product: openhands
 product_name: OpenHands
 record:
@@ -44,12 +44,12 @@ record:
   title: Add cost metrics to evaluation outputs for all benchmarks
   type: change
 related_changes:
-- '[[Changes/Aider/2023-06-26-enables-display-of-cost-info-based-on-openai-advertised-pricing-5f5b32|Enables
-  display of cost info based on OpenAI advertised pricing]]'
-- '[[Changes/Cursor/2023-11-03-pro-plan-if-you-hit-your-fast-request-limit-and-prefer-to-purchase-more-you-now|Pro++
-  plan: if you hit your fast request limit and prefer to purchase more, you now can]]'
-- '[[Changes/Aider/2024-02-10-updated-all-openai-model-names-pricing-info|Updated
-  all OpenAI model names, pricing info]]'
+- '[[Changes/Dify/2024-04-08-add-segment-function-billing-check-for-saas-env-by-johnjyong-in-https-github-com|add
+  segment function billing check for SAAS env]]'
+- '[[Changes/Dify/2024-05-27-2-pricing-model-changes-in-0-6-9|2 Pricing Model changes
+  in 0.6.9]]'
+- '[[Changes/Dify/2024-06-04-feat-show-more-usage-info-in-billing-page-by-iamjoel-in-https-github-com-langgen|feat:
+  show more usage info in billing page]]'
 source_release: '[[Releases/OpenHands/openhands-2024-06-04-0-6-1-github-158811079-9345253b|openhands-2024-06-04-0-6-1-github-158811079-9345253b]]'
 source_type: github_releases
 theme: pricing-model
@@ -82,8 +82,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Pricing Model
 
-- Earlier: 2024-02-10 · Aider · [[Changes/Aider/2024-02-10-updated-all-openai-model-names-pricing-info|Updated all OpenAI model names, pricing info]]
-- Later: 2024-07-29 · Aider · [[Changes/Aider/2024-07-29-enhanced-token-usage-and-cost-reporting-now-works-when-streaming-too|Enhanced token usage and cost reporting]]
+- Earlier: 2024-06-04 · Dify · [[Changes/Dify/2024-06-04-feat-show-more-usage-info-in-billing-page-by-iamjoel-in-https-github-com-langgen|feat: show more usage info in billing page]]
+- Later: 2024-06-14 · Dify · [[Changes/Dify/2024-06-14-feat-pricing-page-add-llm-load-balancing-info-by-iamjoel-in-https-github-com-lan|feat: pricing page add llm load balancing info]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

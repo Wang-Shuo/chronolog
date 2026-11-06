@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: b85d86f9dd74723b3386444cddf167f9524b6b0231124bb60400bb6cb4fcc866
+machine_hash: e9aeba3a91b38dc329711302f59786fb998956d22c0d13372c4704199f4665a1
 product: cline
 product_name: Cline
 record:
@@ -42,7 +42,8 @@ record:
   title: Pashpashpash/gpt 5 release
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-08-06-separate-models-per-agent|Separate models per Agent]]'
+- '[[Changes/Gemini/2025-08-06-students-get-one-free-year-of-google-ai-pro-in-the-us-japan-indonesia-korea-and|Students
+  get one free year of Google AI Pro in the US, Japan, Indonesia, Korea, and Brazil]]'
 - '[[Changes/Gemini CLI/2025-08-06-20-model-support-changes-in-v0-1-18|20 Model Support
   changes in v0.1.18]]'
 - '[[Changes/ChatGPT/2025-08-07-gpt-5-is-slowly-rolling-out-to-all-users-on-chatgpt-plus-pro-team-and-free-plans-64a08c|GPT-5]]'

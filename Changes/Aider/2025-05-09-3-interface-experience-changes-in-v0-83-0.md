@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: e60a2a8f1a45e968e4ce5b38d0ccf65d15f6343b963944c73bdc735114fac84e
+machine_hash: 0df29617455480bda8160e77b9b70ed261455382822f86b4d010778215ac4e51
 product: aider
 product_name: Aider
 record:
@@ -46,10 +46,10 @@ record:
   title: 3 Interface Experience changes in v0.83.0
   type: change
 related_changes:
-- '[[Changes/Cline/2025-05-03-add-support-for-latex-rendering|Add support for LaTeX
-  rendering]]'
 - '[[Changes/ChatGPT/2025-05-06-we-ve-removed-the-row-of-individual-tool-icons-from-the-mobile-composer-and-repl-a35dd7|Mobile
   UI (iOS/Android) changing on Free/Plus/Pro plans]]'
+- "[[Changes/Open WebUI/2025-05-06-multiple-xml-tags-in-messages-now-parsed-correctly-fixed-parsing-issues-when-mes|\U0001F3F7️
+  Multiple XML Tags in Messages Now Parsed Correctly]]"
 - '[[Changes/OpenHands/2025-05-07-added-branch-picker-for-repository-on-homepage-by-rbren-in-https-github-com-all|Added
   branch picker for repository on homepage]]'
 source_release: '[[Releases/Aider/aider-2025-05-09-v0-83-0-github-217725361-c9b2b84c|aider-2025-05-09-v0-83-0-github-217725361-c9b2b84c]]'

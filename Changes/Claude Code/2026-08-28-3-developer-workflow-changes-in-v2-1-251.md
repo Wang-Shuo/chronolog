@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 479c5f0b039a2b88c1d43f4e8881d7d82b7178a82d3bd571ce427f722f926465
+machine_hash: 5271ef149c9ceba2774f13ec3b6943ba9c1119633e0e9ae9660546b99ee5fa8e
 product: claude-code
 product_name: Claude Code
 record:
@@ -98,7 +98,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.251
 ## Nearby in Developer Workflow
 
 - Earlier: 2026-08-27 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-08-27-5-developer-workflow-changes-in-v1-0-81|5 Developer Workflow changes in v1.0.81]]
-- Later: 2026-08-29 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-08-29-a-message-typed-while-worktree-or-move-is-preparing-the-worktree-no-longer-break|A message typed while /worktree or /move is preparing the worktree no longer breaks…]]
+- Later: 2026-08-28 · v0 · [[Changes/v0/2026-08-28-2-developer-workflow-changes-in-gpt-5-6-sol-sign-in-inside-previews|2 Developer Workflow changes in GPT-5.6 Sol, sign-in inside previews…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

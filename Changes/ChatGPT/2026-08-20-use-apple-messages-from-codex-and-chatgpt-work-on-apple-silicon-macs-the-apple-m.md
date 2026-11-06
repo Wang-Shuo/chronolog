@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 4c74c8feda7422bba29c1ad8d595f89034caaf87d1ad1a56cc08e88010de6f9d
+machine_hash: 1b6b5e3892c7c91b3acd5e719cdf0d8cb922efa16fc69d8c2c6824fa18b7d310
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -50,11 +50,12 @@ record:
   title: Use Apple Messages from Codex and ChatGPT Work
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-08-17-settings|Settings]]'
-- '[[Changes/Codex CLI/2026-08-18-57-apps-and-integrations-changes-in-rust-v0-148-0|57
-  Apps and Integrations changes in rust-v0.148.0]]'
 - '[[Changes/Claude Code/2026-08-19-sigterm-in-print-sdk-mode-no-longer-records-an-interrupted-turn-or-synthetic-too|SIGTERM
   in print/SDK mode no longer records an interrupted turn or synthetic tool…]]'
+- '[[Changes/Lovable/2026-08-19-per-user-access-for-amazon-redshift|Per-user access
+  for Amazon Redshift]]'
+- '[[Changes/Lovable/2026-08-19-lovable-can-use-your-connected-service-account-while-building|Lovable
+  can use your connected service account while building]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-08-20-codex-and-chatgpt-feature-updates-c987f574|chatgpt-2026-08-20-codex-and-chatgpt-feature-updates-c987f574]]'
 source_type: chatgpt_changelog
 theme: apps-integrations
@@ -85,7 +86,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-08-19 · Claude Code · [[Changes/Claude Code/2026-08-19-sigterm-in-print-sdk-mode-no-longer-records-an-interrupted-turn-or-synthetic-too|SIGTERM in print/SDK mode no longer records an interrupted turn or synthetic tool…]]
+- Earlier: 2026-08-19 · Lovable · [[Changes/Lovable/2026-08-19-lovable-can-use-your-connected-service-account-while-building|Lovable can use your connected service account while building]]
 - Later: 2026-08-20 · Claude Code · [[Changes/Claude Code/2026-08-20-6-apps-and-integrations-changes-in-v2-1-238|6 Apps and Integrations changes in v2.1.238]]
 <!-- chronolog:end -->
 

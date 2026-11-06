@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 05901f8bb69a8478f26137e2fe9be50b6ef01215421cfad7f066491e5603dfed
+machine_hash: b8c514a99d763b4b517f2f208530cb4a0c4ca355ba2051efdfabd98de04e9dce
 product: aider
 product_name: Aider
 record:
@@ -42,12 +42,12 @@ record:
   title: Allow repo map for "whole" edit format
   type: change
 related_changes:
-- '[[Changes/Aider/2024-03-04-show-the-user-a-faq-link-if-edits-fail-to-apply|Show
-  the user a FAQ link if edits fail to apply]]'
-- '[[Changes/Cursor/2024-03-20-team-invites-we-made-it-a-bit-easier-for-you-to-invite-your-colleagues-to-your-c|Team
-  invites: We made it a bit easier for you to invite your colleagues…]]'
+- '[[Changes/Dify/2024-04-09-2-editor-experience-changes-in-0-6-1|2 Editor Experience
+  changes in 0.6.1]]'
 - '[[Changes/Cursor/2024-04-12-copilot-ux-suggestion-previews-now-have-syntax-highlighting-which-we-find-makes|Copilot++
   UX: Suggestion previews now have syntax highlighting, which we find makes…]]'
+- '[[Changes/Dify/2024-04-16-3-editor-experience-changes-in-0-6-3|3 Editor Experience
+  changes in 0.6.3]]'
 source_release: '[[Releases/Aider/aider-2024-04-24-v0-30-0-github-152501578-f64b607d|aider-2024-04-24-v0-30-0-github-152501578-f64b607d]]'
 source_type: github_releases
 theme: editor-experience
@@ -76,8 +76,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2024-04-12 · Cursor · [[Changes/Cursor/2024-04-12-copilot-ux-suggestion-previews-now-have-syntax-highlighting-which-we-find-makes|Copilot++ UX: Suggestion previews now have syntax highlighting, which we find makes…]]
-- Later: 2024-05-07 · Aider · [[Changes/Aider/2024-05-07-support-for-deepseek-v2-via-more-a-flexible-config-of-system-messages-in-the-dif|Support for Deepseek-V2, via more a flexible config of system messages in the diff…]]
+- Earlier: 2024-04-16 · Dify · [[Changes/Dify/2024-04-16-3-editor-experience-changes-in-0-6-3|3 Editor Experience changes in 0.6.3]]
+- Later: 2024-04-24 · Open WebUI · [[Changes/Open WebUI/2024-04-24-filereader-optimization-implemented-filereader-initialization-per-image-in-multi|📜 FileReader Optimization]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

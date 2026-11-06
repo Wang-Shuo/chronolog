@@ -1,0 +1,98 @@
+---
+card_id: v0-2026-09-29-dac2ed
+date: '2026-09-29'
+description: 'v0 · 2026-09-29 · Pricing Model: ChatGPT Plus and Pro subscribers can
+  now use their ChatGPT subscription to build in v0. Once connected and enabled, eligible…'
+diffusion:
+  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-daily-limit-to-ensure-a-high-quality-experience-for-all-chatgpt-users-we-are-exp|Daily
+    limit: To ensure a high-quality experience for all ChatGPT users, we…]]'
+  inference: No adoption, equivalence, or causation claim.
+  lag_days: 1384
+  relation: same-theme-chronology
+  role: later-observed
+  scope: tracked-products-only
+  theme: pricing-model
+  tracked_products_count: 20
+evolves_from: []
+extractor_version: fallback-v5
+impact: incremental
+kind: pricing
+machine_hash: 435c3651348ec444315005883c19d1b37bfd4cef907bed48d4add878eb6c3399
+product: v0
+product_name: v0
+record:
+  card_id: v0-2026-09-29-dac2ed
+  comparison: ''
+  date: '2026-09-29'
+  description: 'v0 — Use your ChatGPT subscription in v0: ChatGPT Plus and Pro subscribers
+    can now use their ChatGPT subscription to build in v0. Once connected and enabled,
+    eligible AI responses count towards your ChatGPT plan instead of using v0 credits.'
+  evidence:
+  - quote: ChatGPT Plus and Pro subscribers can now use their ChatGPT subscription
+      to build in v0. Once connected and enabled, eligible AI responses count towards
+      your ChatGPT plan instead of using v0 credits.
+    source_release: https://v0.app/changelog#2026-09-29-chatgpt-subscription
+  extractor_version: fallback-v5
+  impact: incremental
+  kind: pricing
+  product: v0
+  product_name: v0
+  slug: chatgpt-plus-and-pro-subscribers-can-now-use-their-chatgpt-subscription-to-build
+  source_release: v0-2026-09-29-2026-09-29-chatgpt-subscription-674fbcd7
+  source_type: v0_changelog
+  theme: pricing-model
+  title: ChatGPT Plus and Pro subscribers can now use their ChatGPT subscription to
+    build in v0
+  type: change
+related_changes:
+- '[[Changes/ChatGPT/2026-09-29-pro-200-is-available-for-new-subscriptions-again-at-200-month-5ed430|Pro
+  200 subscriptions]]'
+- '[[Changes/ChatGPT/2026-09-29-we-re-introducing-pro-500-a-new-500-month-plan-with-the-highest-included-usage-o-e04989|A
+  new Pro plan with Astra Ultrafast]]'
+- '[[Changes/Claude Code/2026-09-29-claude-tag-added-direct-messages-with-claude-for-members-on-an-enterprise-plan-s|Claude
+  Tag Added direct messages with Claude for members on an Enterprise plan…]]'
+source_release: '[[Releases/v0/v0-2026-09-29-2026-09-29-chatgpt-subscription-674fbcd7|v0-2026-09-29-2026-09-29-chatgpt-subscription-674fbcd7]]'
+source_type: v0_changelog
+theme: pricing-model
+title: ChatGPT Plus and Pro subscribers can now use their ChatGPT subscription to
+  build in v0
+type: change
+---
+
+<!-- chronolog:begin region="header" -->
+# ChatGPT Plus and Pro subscribers can now use their ChatGPT subscription to build in v0
+
+**v0** · 2026-09-29 · [[Themes/pricing-model|Pricing Model]] · Pricing · [Official source](https://v0.app/changelog#2026-09-29-chatgpt-subscription) · from [[Releases/v0/v0-2026-09-29-2026-09-29-chatgpt-subscription-674fbcd7|Use your ChatGPT subscription in v0]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="evidence" -->
+> ChatGPT Plus and Pro subscribers can now use their ChatGPT subscription to build in v0. Once connected and enabled, eligible AI responses count towards your ChatGPT plan instead of using v0 credits.
+>
+> Source: https://v0.app/changelog#2026-09-29-chatgpt-subscription
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="context" -->
+## Also in this release
+
+- [[Changes/v0/2026-09-29-what-counts-towards-chatgpt-usage|What counts towards ChatGPT usage?]] · Model Support
+- [[Changes/v0/2026-09-29-connect-your-chatgpt-account|Connect your ChatGPT account]] · Account and Access
+- [[Changes/v0/2026-09-29-what-happens-if-i-reach-my-chatgpt-usage-limit|What happens if I reach my ChatGPT usage limit?]] · Pricing Model
+- [[Changes/v0/2026-09-29-supported-models-currently-include-gpt-6-astra-gpt-5-6-sol-and-gpt-5-6-luna-use|Supported models currently include GPT-6 Astra, GPT-5.6 Sol, and GPT-5.6 Luna]] · Model Support
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="nearby" -->
+## Nearby in Pricing Model
+
+- Earlier: 2026-09-29 · Claude Code · [[Changes/Claude Code/2026-09-29-claude-tag-added-direct-messages-with-claude-for-members-on-an-enterprise-plan-s|Claude Tag Added direct messages with Claude for members on an Enterprise plan…]]
+- Later: 2026-10-01 · Codex CLI · [[Changes/Codex CLI/2026-10-01-49079-update-and-centralize-tui-subscription-labels-etraut-openai|♯49079 Update and centralize TUI subscription labels @etraut-openai]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="relations" -->
+## Related
+
+- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-daily-limit-to-ensure-a-high-quality-experience-for-all-chatgpt-users-we-are-exp|Daily limit: To ensure a high-quality experience for all ChatGPT users, we…]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="footer" -->
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20v0-2026-09-29-dac2ed&body=Card%3A%20Changes%2Fv0%2F2026-09-29-chatgpt-plus-and-pro-subscribers-can-now-use-their-chatgpt-subscription-to-build.md%0ACard%20ID%3A%20v0-2026-09-29-dac2ed%0ASource%3A%20https%3A%2F%2Fv0.app%2Fchangelog%232026-09-29-chatgpt-subscription%0A%0AWhat%20should%20be%20corrected%3F%0A)
+<!-- chronolog:end -->

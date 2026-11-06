@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: projects-workspaces
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 5a2afd1d81b6fc782a443144ff4bc7d4c33720f536ac5709c8521671df775183
+machine_hash: aab8ffb53c69cc397dd79f26651681b1f4cd63c441ab1d9f2668b420ea9439d4
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -51,10 +51,9 @@ record:
   title: Branch conversations on web
   type: change
 related_changes:
-- '[[Changes/Cursor/2024-10-09-composer-history-lets-you-access-previous-composer-sessions-after-restart-you-ca|Composer
-  history lets you access previous composer sessions after restart]]'
-- '[[Changes/ChatGPT/2025-06-12-starting-a-new-project-directly-from-a-chat|Starting
-  a new project directly from a chat]]'
+- '[[Changes/Replit/2025-07-11-replit-md-documentation|replit.md documentation]]'
+- "[[Changes/Open WebUI/2025-07-14-instant-folder-based-chat-creation-start-a-new-chat-directly-from-any-folder-jus|\U0001F4C1
+  Instant Folder-Based Chat Creation]]"
 - '[[Changes/Codex CLI/2025-08-20-2352-https-github-com-openai-codex-pull-2352-tui-skip-identical-consecutive-entr|♯2352((source
   link) tui: skip identical consecutive…]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-09-04-branch-conversations-on-web-335d0aa3|chatgpt-2025-09-04-branch-conversations-on-web-335d0aa3]]'

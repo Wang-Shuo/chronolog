@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: efb172233ed92f798cb822ebd0fc70c21a70988841f567c55df653959fbce8c9
+machine_hash: c0973b0c9d228239219437752b3a93017db4381c1395e270353ca20b37ceaf5f
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -98,7 +98,7 @@ type: change
 ## Nearby in Mobile and Desktop
 
 - Earlier: 2026-06-17 · Claude Code · [[Changes/Claude Code/2026-06-17-2-mobile-and-desktop-changes-in-v2-1-181|2 Mobile and Desktop changes in v2.1.181]]
-- Later: 2026-06-22 · Codex CLI · [[Changes/Codex CLI/2026-06-22-28791-bazel-refresh-expired-macos-sdk-pin-anp-oai|♯28791 bazel: refresh expired macOS SDK pin @anp-oai]]
+- Later: 2026-06-19 · v0 · [[Changes/v0/2026-06-19-on-mobile-an-expired-session-while-sending-opens-the-re-authenticate-flow-instea|On mobile, an expired session while sending opens the re-authenticate flow instead…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

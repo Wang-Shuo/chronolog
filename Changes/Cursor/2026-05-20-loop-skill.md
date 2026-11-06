@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: bb6b79d2d5030116fa8e5e6c99d1836d0243ca48a09462eb0a90cd44a68394ff
+machine_hash: 64245df332b7a2ce0a157c8b62666a17a9f19c4405a196af5a3690b321c8f75b
 product: cursor
 product_name: Cursor
 record:
@@ -52,8 +52,8 @@ record:
   title: /loop skill
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-05-19-assign-work-items-to-cursor-or-mention-cursor-in-a-comment-to-kick-off-a-cloud-a-1c05f0|Assign
-  work items to Cursor, or mention @Cursor in a comment to kick off a cloud agent]]'
+- '[[Changes/Gemini/2026-05-19-gemini-spark-is-your-24-7-personal-ai-agent|Gemini
+  Spark is your 24/7 personal AI agent]]'
 - '[[Changes/GitHub Copilot CLI/2026-05-19-4-agent-mode-changes-in-v1-0-49|4 Agent
   Mode changes in v1.0.49]]'
 - '[[Changes/Codex CLI/2026-05-20-23147-make-multi-agent-v2-tool-namespace-configurable-jif-oai|♯23147

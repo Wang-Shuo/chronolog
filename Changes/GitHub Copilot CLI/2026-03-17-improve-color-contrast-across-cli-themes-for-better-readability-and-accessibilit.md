@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: accessibility-localization
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 7869ca31473e1ab994411cbd374d0259f08e0f219fac2444f421da26a3191570
+machine_hash: 2e2a2683179e5b5363cc16dbf510ae20b53a1e5b8735f10a01de3a4f23f467a7
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -41,10 +41,10 @@ record:
   title: Improve color contrast across CLI themes for better readability and accessibility
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-02-17-11860-fixed-screen-reader-regression-in-cli-etraut-openai|♯11860
-  Fixed screen reader regression in CLI @etraut-openai]]'
 - '[[Changes/GitHub Copilot CLI/2026-02-19-improve-quick-help-accessibility-screen-reader-friendly-tab-labels-reordered-lay|Improve
   quick help accessibility]]'
+- '[[Changes/Open WebUI/2026-02-23-ui-accessibility-improvements-screen-reader-users-can-now-navigate-the-interface|♿
+  UI accessibility improvements. Screen reader users can now navigate…]]'
 - '[[Changes/GitHub Copilot CLI/2026-03-09-table-disables-borders-in-screen-reader-mode-to-prevent-announcing-decorative-ch|Table
   disables borders in screen reader mode to prevent announcing decorative characters]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-03-17-v1-0-7-github-298086450-3846932e|github-copilot-cli-2026-03-17-v1-0-7-github-298086450-3846932e]]'
@@ -82,7 +82,7 @@ type: change
 ## Nearby in Accessibility and Localization
 
 - Earlier: 2026-03-09 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-03-09-table-disables-borders-in-screen-reader-mode-to-prevent-announcing-decorative-ch|Table disables borders in screen reader mode to prevent announcing decorative characters]]
-- Later: 2026-05-07 · Codex CLI · [[Changes/Codex CLI/2026-05-07-tui-startup-and-accessibility-were-tightened-by-bounding-terminal-probes-clearin|TUI startup and accessibility were tightened by bounding terminal probes, clearing…]]
+- Later: 2026-04-29 · Dify · [[Changes/Dify/2026-04-29-2-accessibility-and-localization-changes-in-1-14-0|2 Accessibility and Localization changes in 1.14.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

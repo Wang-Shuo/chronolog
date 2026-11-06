@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 25860c3f41389f04ec101d65fb770266c91f7c63b56d4f13d53826dec106734f
+machine_hash: ab72a855e55f163cf49afd792f18daaae362df7fee36ed86aea5b57fa308dcde
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -43,12 +43,10 @@ record:
   title: 2 Mobile and Desktop changes in rust-v0.72.0
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2025-11-26-improve-pty-resize-error-handling-for-windows-by-galz10-in-https-github-com-goog|Improve
-  pty resize error handling for Windows]]'
-- '[[Changes/Codex CLI/2025-12-02-execution-gains-an-experimental-exp-model-unified-exec-pruning-to-limit-session|Execution
-  gains an experimental “exp” model, unified exec pruning to limit session…]]'
+- '[[Changes/ElevenLabs/2025-12-08-ios-sdk|iOS SDK]]'
 - '[[Changes/Codex CLI/2025-12-09-4-mobile-and-desktop-changes-in-rust-v0-66-0|4 Mobile
   and Desktop changes in rust-v0.66.0]]'
+- '[[Changes/Lovable/2025-12-10-chat-suggestions-on-mobile|Chat suggestions on mobile]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2025-12-13-rust-v0-72-0-github-270052666-cf6fbee8|codex-cli-2025-12-13-rust-v0-72-0-github-270052666-cf6fbee8]]'
 source_type: github_releases
 theme: mobile-desktop
@@ -84,8 +82,8 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.72.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2025-12-09 · Codex CLI · [[Changes/Codex CLI/2025-12-09-4-mobile-and-desktop-changes-in-rust-v0-66-0|4 Mobile and Desktop changes in rust-v0.66.0]]
-- Later: 2025-12-18 · Codex CLI · [[Changes/Codex CLI/2025-12-18-8084-chore-ci-drop-homebrew-origin-main-workaround-for-macos-runners|♯8084 chore(ci): drop Homebrew origin/main workaround for macOS runners]]
+- Earlier: 2025-12-10 · Lovable · [[Changes/Lovable/2025-12-10-chat-suggestions-on-mobile|Chat suggestions on mobile]]
+- Later: 2025-12-15 · ElevenLabs · [[Changes/ElevenLabs/2025-12-15-android-sdk|Android SDK]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

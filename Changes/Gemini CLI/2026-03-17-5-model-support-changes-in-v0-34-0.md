@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: ce95dfecacce384bb36a717d1ad3bf8d89475a9b1b2586ee3f718eeb99562753
+machine_hash: f6505482d16513299ef34c5fa48e02af1951c56e5aeb9ec2ab2f3484d3885136
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -53,12 +53,12 @@ record:
   title: 5 Model Support changes in v0.34.0
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-03-17-pro-the-most-advanced-reasoning-models|Pro – the most
-  advanced reasoning models]]'
 - '[[Changes/ChatGPT/2026-03-17-thinking-deeper-reasoning-for-more-complex-tasks|Thinking
   – deeper reasoning for more complex tasks]]'
 - '[[Changes/Claude Code/2026-03-17-increased-default-maximum-output-token-limits-for-claude-opus-4-6-to-64k-tokens|Increased
   default maximum output token limits for Claude Opus 4.6 to 64k tokens…]]'
+- '[[Changes/Dify/2026-03-17-18-model-support-changes-in-1-13-1|18 Model Support changes
+  in 1.13.1]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2026-03-17-v0-34-0-github-298158994-68230a41|gemini-cli-2026-03-17-v0-34-0-github-298158994-68230a41]]'
 source_type: github_releases
 theme: model-support
@@ -110,7 +110,7 @@ Source: https://github.com/google-gemini/gemini-cli/releases/tag/v0.34.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-03-17 · Claude Code · [[Changes/Claude Code/2026-03-17-increased-default-maximum-output-token-limits-for-claude-opus-4-6-to-64k-tokens|Increased default maximum output token limits for Claude Opus 4.6 to 64k tokens…]]
+- Earlier: 2026-03-17 · Dify · [[Changes/Dify/2026-03-17-18-model-support-changes-in-1-13-1|18 Model Support changes in 1.13.1]]
 - Later: 2026-03-17 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-03-17-2-model-support-changes-in-v1-0-7|2 Model Support changes in v1.0.7]]
 <!-- chronolog:end -->
 

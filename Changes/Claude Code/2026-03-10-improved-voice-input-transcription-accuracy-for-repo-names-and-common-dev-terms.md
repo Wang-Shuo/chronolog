@@ -4,20 +4,20 @@ date: '2026-03-10'
 description: 'Claude Code · 2026-03-10 · Voice and Audio: Improved voice input transcription
   accuracy for repo names and common dev terms (regex, OAuth, JSON)'
 diffusion:
-  first_in_tracked: '[[Changes/Aider/2023-08-11-voice-to-code-https-aider-chat-docs-voice-html-support-which-allows-you-to-code|Voice-to-code((source
-    link) support, which allows you…]]'
+  first_in_tracked: '[[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2
+    Voice and Audio changes in 0.3.7]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 942
+  lag_days: 974
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 9934a414f13efad5a1c2f2abfb9a5404f0e8d9ecdf98f060a5a87273a13d8235
+machine_hash: ff63669774be8c54c1fbeb7f9d76065a7f753978a28464c6f2496a752b9bb420
 product: claude-code
 product_name: Claude Code
 record:
@@ -53,12 +53,10 @@ record:
     terms…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-03-05-3-voice-and-audio-changes-in-v2-1-69|3 Voice and
-  Audio changes in v2.1.69]]'
-- '[[Changes/Codex CLI/2026-03-05-2-voice-and-audio-changes-in-rust-v0-111-0|2 Voice
-  and Audio changes in rust-v0.111.0]]'
-- '[[Changes/Claude Code/2026-03-07-added-voice-pushtotalk-keybinding-to-make-the-voice-activation-key-rebindable-in|Added
-  voice:pushToTalk keybinding to make the voice activation key rebindable…]]'
+- '[[Changes/ElevenLabs/2026-03-09-audio-native|Audio Native]]'
+- '[[Changes/ElevenLabs/2026-03-09-speech-to-text-dec5c9|Speech to Text]]'
+- "[[Changes/Open WebUI/2026-03-09-azure-speech-transcription-errors-improved-azure-ai-speech-error-handling-to-dis|\U0001F3A4
+  Azure speech transcription errors. Improved Azure AI Speech error handling…]]"
 source_release: '[[Releases/Claude Code/claude-code-2026-03-10-v2-1-72-github-294951528-18ee0f48|claude-code-2026-03-10-v2-1-72-github-294951528-18ee0f48]]'
 source_type: github_releases
 theme: voice
@@ -95,14 +93,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Voice and Audio
 
-- Earlier: 2026-03-07 · Claude Code · [[Changes/Claude Code/2026-03-07-added-voice-pushtotalk-keybinding-to-make-the-voice-activation-key-rebindable-in|Added voice:pushToTalk keybinding to make the voice activation key rebindable…]]
+- Earlier: 2026-03-09 · Open WebUI · [[Changes/Open WebUI/2026-03-09-azure-speech-transcription-errors-improved-azure-ai-speech-error-handling-to-dis|🎤 Azure speech transcription errors. Improved Azure AI Speech error handling…]]
 - Later: 2026-03-11 · Claude Code · [[Changes/Claude Code/2026-03-11-improved-voice-mode-to-automatically-retry-transient-connection-failures-during|Improved voice mode to automatically retry transient connection failures during…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-08-11 · Aider · [[Changes/Aider/2023-08-11-voice-to-code-https-aider-chat-docs-voice-html-support-which-allows-you-to-code|Voice-to-code((source link) support, which allows you…]]
+- Earliest same-theme entry in the tracked set: 2023-07-10 · Dify · [[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2 Voice and Audio changes in 0.3.7]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

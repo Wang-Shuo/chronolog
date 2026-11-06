@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: b9f86d976f34e3bac3d777cc5527021375fe33407111650dd608d219bd13a63d
+machine_hash: 83e468a5d2fdaa8c77bba0ca5c046cb4efdfd3824b50d37cee818f9a3f8cae39
 product: cline
 product_name: Cline
 record:
@@ -42,12 +42,11 @@ record:
   title: Move MCP marketplace catalog from global state to disk cache
   type: change
 related_changes:
-- '[[Changes/OpenHands/2025-10-01-added-configurable-timeout-settings-for-shttp-mcp-servers-to-prevent-tool-calls|Added
-  configurable timeout settings for SHTTP MCP servers to prevent tool calls…]]'
-- '[[Changes/Codex CLI/2025-10-03-17-apps-and-integrations-changes-in-rust-v0-44-0|17
-  Apps and Integrations changes in rust-v0.44.0]]'
+- '[[Changes/ElevenLabs/2025-10-07-mcp-server|MCP Server]]'
 - '[[Changes/Gemini CLI/2025-10-07-14-apps-and-integrations-changes-in-v0-8-0|14 Apps
   and Integrations changes in v0.8.0]]'
+- '[[Changes/Open WebUI/2025-10-07-3-apps-and-integrations-changes-in-v0-6-33|3 Apps
+  and Integrations changes in v0.6.33]]'
 source_release: '[[Releases/Cline/cline-2025-10-08-v3-32-7-github-253184994-00247f69|cline-2025-10-08-v3-32-7-github-253184994-00247f69]]'
 source_type: github_releases
 theme: apps-integrations
@@ -78,7 +77,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2025-10-07 · Gemini CLI · [[Changes/Gemini CLI/2025-10-07-14-apps-and-integrations-changes-in-v0-8-0|14 Apps and Integrations changes in v0.8.0]]
+- Earlier: 2025-10-07 · Open WebUI · [[Changes/Open WebUI/2025-10-07-3-apps-and-integrations-changes-in-v0-6-33|3 Apps and Integrations changes in v0.6.33]]
 - Later: 2025-10-08 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2025-10-08-added-validation-for-mcp-server-names-fixes-https-github-com-github-copilot-cli|Added validation for MCP server names…]]
 <!-- chronolog:end -->
 

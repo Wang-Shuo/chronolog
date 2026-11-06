@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: b28556778db5eca4e3c3c5dea95e6b8d72a3fb342287270a3961cd5bd00c0d84
+machine_hash: 31978c0d303188241cb1e53260a10f33bba094b551ac26e26f9606d74d6eaff5
 product: claude-code
 product_name: Claude Code
 record:
@@ -46,10 +46,10 @@ record:
   title: 2 Safety and Privacy changes in v2.1.149
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-05-20-5-safety-and-privacy-changes-in-rust-v0-132-0|5
-  Safety and Privacy changes in rust-v0.132.0]]'
 - '[[Changes/GitHub Copilot CLI/2026-05-20-add-security-review-slash-command-to-review-code-changes-for-security-vulnerabil|Add
   /security-review slash command to review code changes for security…]]'
+- '[[Changes/Claude/2026-05-21-claude-now-works-with-more-security-and-compliance-tools|Claude
+  now works with more security and compliance tools]]'
 - '[[Changes/Codex CLI/2026-05-21-17-safety-and-privacy-changes-in-rust-v0-133-0|17
   Safety and Privacy changes in rust-v0.133.0]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-05-22-v2-1-149-github-328077450-086ee33f|claude-code-2026-05-22-v2-1-149-github-328077450-086ee33f]]'

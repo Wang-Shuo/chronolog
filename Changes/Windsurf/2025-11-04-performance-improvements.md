@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 0921c4ee349527ba9b978c958c5a0f41e773857fe4f92b37563b36407b708ba7
+machine_hash: e0a2e67d4f66a216bcc9e40379f1504f97b595fcf5a0a1271b71c0b5f2c8f18d
 product: windsurf
 product_name: Windsurf
 record:
@@ -48,11 +48,12 @@ record:
   title: Performance Improvements
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-10-29-improved-performance|Improved Performance]]'
-- '[[Changes/Codex CLI/2025-10-30-chore-speed-up-pipeline-in-https-github-com-openai-codex-pull-5812|chore:
-  speed-up pipeline in (source link)]]'
+- '[[Changes/Ollama/2025-10-30-qwen3-vl-performance-improvements-including-flash-attention-support-by-default|qwen3-vl
+  performance improvements, including flash attention support by default]]'
 - '[[Changes/Cline/2025-10-31-refactor-ui-improve-tooltip-and-task-header-responsiveness-by-abeatrix-in-https|refactor(ui):
   improve tooltip and task header responsiveness]]'
+- '[[Changes/Replit/2025-10-31-custom-domain-verification-improvements|Custom domain
+  verification improvements]]'
 source_release: '[[Releases/Windsurf/windsurf-2025-11-04-v1-12-28-55c0c8a2|windsurf-2025-11-04-v1-12-28-55c0c8a2]]'
 source_type: windsurf_changelog
 theme: reliability-performance
@@ -88,8 +89,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2025-10-31 · Cline · [[Changes/Cline/2025-10-31-refactor-ui-improve-tooltip-and-task-header-responsiveness-by-abeatrix-in-https|refactor(ui): improve tooltip and task header responsiveness]]
-- Later: 2025-11-07 · Gemini CLI · [[Changes/Gemini CLI/2025-11-07-refactor-todo-improve-performance-and-readability-of-todo-component-by-miguelsol|refactor(todo): improve performance and readability of todo component]]
+- Earlier: 2025-10-31 · Replit · [[Changes/Replit/2025-10-31-custom-domain-verification-improvements|Custom domain verification improvements]]
+- Later: 2025-11-05 · Ollama · [[Changes/Ollama/2025-11-05-add-vulkan-memory-detection-for-intel-gpu-using-dxgi-pdh|Add Vulkan memory detection for Intel GPU using DXGI+PDH]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

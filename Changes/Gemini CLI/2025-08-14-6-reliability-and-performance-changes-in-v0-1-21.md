@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: c1f8a515fedd221b43cf97d0da93f12b01f1936a6a0ead178d2b4101b3fba128
+machine_hash: c53dd05defd23f3012a8589fdd8274de3d5cb0c6e9d4a22ed25f7c4903eb6a0f
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -56,9 +56,8 @@ record:
   title: 6 Reliability and Performance changes in v0.1.21
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-08-06-1-4-5-improved-performance|1.4.5: Improved performance]]'
-- '[[Changes/Gemini CLI/2025-08-06-4-reliability-and-performance-changes-in-v0-1-18|4
-  Reliability and Performance changes in v0.1.18]]'
+- '[[Changes/Lovable/2025-08-11-visual-edits-v2|Visual edits v2]]'
+- '[[Changes/Lovable/2025-08-11-scales-to-large-workspaces|Scales to large workspaces]]'
 - '[[Changes/Gemini CLI/2025-08-12-2-reliability-and-performance-changes-in-v0-1-19|2
   Reliability and Performance changes in v0.1.19]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2025-08-14-v0-1-21-github-239867721-f576cbaa|gemini-cli-2025-08-14-v0-1-21-github-239867721-f576cbaa]]'
@@ -116,7 +115,7 @@ Source: https://github.com/google-gemini/gemini-cli/releases/tag/v0.1.21
 ## Nearby in Reliability and Performance
 
 - Earlier: 2025-08-12 · Gemini CLI · [[Changes/Gemini CLI/2025-08-12-2-reliability-and-performance-changes-in-v0-1-19|2 Reliability and Performance changes in v0.1.19]]
-- Later: 2025-08-21 · Cursor · [[Changes/Cursor/2025-08-21-1-5-5-general-stability-improvements-and-bug-fixes-to-enhance-overall-applicatio|1.5.5: General stability improvements and bug fixes to enhance overall application…]]
+- Later: 2025-08-15 · Ollama · [[Changes/Ollama/2025-08-15-2-reliability-and-performance-changes-in-v0-11-5|2 Reliability and Performance changes in v0.11.5]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

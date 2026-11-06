@@ -4,20 +4,20 @@ date: '2024-12-12'
 description: 'ChatGPT · 2024-12-12 · Voice and Audio: Today we started rolling out
   two updates to voice mode in ChatGPT:'
 diffusion:
-  first_in_tracked: '[[Changes/Aider/2023-08-11-voice-to-code-https-aider-chat-docs-voice-html-support-which-allows-you-to-code|Voice-to-code((source
-    link) support, which allows you…]]'
+  first_in_tracked: '[[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2
+    Voice and Audio changes in 0.3.7]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 489
+  lag_days: 521
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: d4c6d25f7c6118ac996b0401f3cbb504a132d84f218534230bb328cc5bb81227
+machine_hash: ea1464d0a4ad2cdc71cb1964420fbf81cf7909c27499cb00b72bbb5986f8b35e
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -51,8 +51,8 @@ record:
   title: Today we started rolling out two updates to voice mode in ChatGPT
   type: change
 related_changes:
-- '[[Changes/Aider/2024-09-29-new-voice-format-switch-to-send-voice-audio-as-wav-mp3-webm-by-mbailey|New
-  --voice-format switch to send voice audio as wav/mp3/webm, by @mbailey]]'
+- '[[Changes/Dify/2024-11-25-the-new-version-extends-support-for-multi-modal-tasks-for-example-you-can-upload|The
+  new version extends support for multi-modal tasks]]'
 - '[[Changes/Aider/2024-12-01-added-voice-input-device-to-select-audio-input-device-for-voice-recording-by-pre|Added
   --voice-input-device to select audio input device for voice recording, by @preynal]]'
 - '[[Changes/ChatGPT/2024-12-12-video-and-screenshare-in-our-latest-mobile-apps-we-are-starting-to-roll-out-real|Video
@@ -97,7 +97,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-08-11 · Aider · [[Changes/Aider/2023-08-11-voice-to-code-https-aider-chat-docs-voice-html-support-which-allows-you-to-code|Voice-to-code((source link) support, which allows you…]]
+- Earliest same-theme entry in the tracked set: 2023-07-10 · Dify · [[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2 Voice and Audio changes in 0.3.7]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

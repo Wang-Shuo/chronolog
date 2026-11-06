@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 1788067a0717116eb0f34b6b228bdc997fb7370f242cdda70d914dd057e67744
+machine_hash: b22abb3d442a1f9f4176f52fa5d3a18cf66b15ad43ac4618f3f099df3e1ddbae
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -59,12 +59,10 @@ record:
     session…
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2025-11-13-6387-for-npm-upgrade-on-windows-go-through-cmd-exe-to-get-path-traversal-working|♯6387
-  — For npm upgrade on Windows, go through cmd.exe to get path traversal working…]]'
-- '[[Changes/Codex CLI/2025-11-19-3-mobile-and-desktop-changes-in-rust-v0-59-0|3 Mobile
-  and Desktop changes in rust-v0.59.0]]'
 - '[[Changes/Gemini CLI/2025-11-26-improve-pty-resize-error-handling-for-windows-by-galz10-in-https-github-com-goog|Improve
   pty resize error handling for Windows]]'
+- '[[Changes/ElevenLabs/2025-11-27-client|Client]]'
+- '[[Changes/ElevenLabs/2025-11-27-react|React]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2025-12-02-rust-v0-64-0-github-266901625-82376886|codex-cli-2025-12-02-rust-v0-64-0-github-266901625-82376886]]'
 source_type: github_releases
 theme: mobile-desktop
@@ -103,8 +101,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2025-11-26 · Gemini CLI · [[Changes/Gemini CLI/2025-11-26-improve-pty-resize-error-handling-for-windows-by-galz10-in-https-github-com-goog|Improve pty resize error handling for Windows]]
-- Later: 2025-12-09 · Codex CLI · [[Changes/Codex CLI/2025-12-09-4-mobile-and-desktop-changes-in-rust-v0-66-0|4 Mobile and Desktop changes in rust-v0.66.0]]
+- Earlier: 2025-11-27 · ElevenLabs · [[Changes/ElevenLabs/2025-11-27-react|React]]
+- Later: 2025-12-08 · ElevenLabs · [[Changes/ElevenLabs/2025-12-08-android-sdk|Android SDK]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

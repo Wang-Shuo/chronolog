@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 7037469650aafc04dec0bf303c351792b75d9230c53bdbf7f4c44bfca048fd23
+machine_hash: bc606ac540c41517af9e666590c605148d94eeaffcc710bd5ab2ec51208ddc6f
 product: cursor
 product_name: Cursor
 record:
@@ -91,7 +91,7 @@ type: change
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-09-23 · Claude Code · [[Changes/Claude Code/2026-09-23-17-apps-and-integrations-changes-in-v2-1-281|17 Apps and Integrations changes in v2.1.281]]
-- Later: 2026-09-24 · Claude Code · [[Changes/Claude Code/2026-09-24-8-apps-and-integrations-changes-in-v2-1-282|8 Apps and Integrations changes in v2.1.282]]
+- Later: 2026-09-23 · Lovable · [[Changes/Lovable/2026-09-23-app-chat-connectors-aws-api-azure-cloud-api-azure-graph-entra-api-google-cloud-a|App + chat connectors]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -1,0 +1,718 @@
+---
+coverage:
+  acquired_at: '2026-11-06T13:15:09Z'
+  acquisition: http
+  coverage: available-endpoint
+  earliest: '2024-12-13'
+  known_gaps: Dated weekly Replit changelog pages listed in the official sitemap,
+    covering Agent and related development-platform features. This includes non-AI
+    platform changes announced alongside Agent. Unindexed historical announcements
+    are outside this source's scope.
+  last_successful_fetch: '2026-11-06T13:15:09Z'
+  latest: '2026-10-30'
+  release_count: 99
+  url: https://docs.replit.com/updates
+created: '2024-12-13'
+date: '2026-10-30'
+description: 'Replit: 99 archived releases and 476 tracked changes.'
+machine_hash: 2df8a60beca18c5a45b9f357b17191a620faa69ebe481e1ac2a7806af8e250a3
+modified: '2026-10-30'
+product: replit
+product_name: Replit
+publication: active
+tags:
+- product
+title: Replit
+top_themes:
+- agent-mode
+- apps-integrations
+- enterprise-admin
+- reliability-performance
+- safety-privacy
+- pricing-model
+- collaboration
+- mobile-desktop
+- model-support
+- editor-experience
+- account-access
+- interface-experience
+- search-browsing
+- context-window
+- automation-scheduling
+- developer-workflow
+- voice
+- image-generation
+- file-data
+- projects-workspaces
+- multimodal
+- memory
+verbosity_baseline: 4.86
+---
+
+<!-- chronolog:begin region="header" -->
+# Replit
+
+99 releases · 2024-12-13 → 2026-10-30 · [[About|coverage details]]
+<!-- chronolog:end -->
+
+## Release cadence
+<!-- chronolog:begin region="cadence" -->
+Last release 2026-10-30 (7 days before the archive date) · 12 releases in the last 90 days · cadence: normal
+
+Monthly releases, last 12 months (baseline 4.3 per month):
+
+- 2025-12 ▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇ 4
+- 2026-01 ▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇ 5
+- 2026-02 ▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇ 4
+- 2026-03 ▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇ 4
+- 2026-04 ▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇ 4
+- 2026-05 ▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇ 5
+- 2026-06 ▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇ 4
+- 2026-07 ▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇ 5
+- 2026-08 ▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇ 4
+- 2026-09 ▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇ 4
+- 2026-10 ▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇ 5
+- 2026-11 · 0
+<!-- chronolog:end -->
+
+## Eras
+<!-- chronolog:begin region="narrative" -->
+The release archive records announced changes; a reviewed phase narrative is not yet available.
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="eras" -->
+No reviewed eras assigned yet. The release archive below is chronological.
+<!-- chronolog:end -->
+
+## Themes
+<!-- chronolog:begin region="themes" -->
+- [[Themes/agent-mode|Agent Mode]] · 98 cards · ████████████
+- [[Themes/apps-integrations|Apps and Integrations]] · 94 cards · ████████████
+- [[Themes/enterprise-admin|Enterprise and Administration]] · 62 cards · ████████
+- [[Themes/reliability-performance|Reliability and Performance]] · 31 cards · ████
+- [[Themes/safety-privacy|Safety and Privacy]] · 28 cards · ███
+- [[Themes/pricing-model|Pricing Model]] · 24 cards · ███
+- [[Themes/collaboration|Collaboration]] · 22 cards · ███
+- [[Themes/mobile-desktop|Mobile and Desktop]] · 19 cards · ██
+- Other changes · 7 cards
+<!-- chronolog:end -->
+
+## Recent releases
+<!-- chronolog:begin region="recent" -->
+- 2026-10-30 · [[Releases/Replit/replit-2026-10-30-2026-10-30-8c94fa6c|Replit updates — 2026-10-30]] · 3 cards
+- 2026-10-23 · [[Releases/Replit/replit-2026-10-23-2026-10-23-22527b8b|Replit updates — 2026-10-23]] · 5 cards
+- 2026-10-16 · [[Releases/Replit/replit-2026-10-16-2026-10-16-3443a38d|Replit updates — 2026-10-16]] · 3 cards
+- 2026-10-09 · [[Releases/Replit/replit-2026-10-09-2026-10-09-58884c93|Replit updates — 2026-10-09]] · 3 cards
+- 2026-10-02 · [[Releases/Replit/replit-2026-10-02-2026-10-02-3eeb4015|Replit updates — 2026-10-02]] · 4 cards
+- 2026-09-25 · [[Releases/Replit/replit-2026-09-25-2026-09-25-5a45f4f9|Replit updates — 2026-09-25]] · 5 cards
+- 2026-09-18 · [[Releases/Replit/replit-2026-09-18-2026-09-18-bb95ac6d|Replit updates — 2026-09-18]] · 2 cards
+- 2026-09-11 · [[Releases/Replit/replit-2026-09-11-2026-09-11-fe1ab3d8|Replit updates — 2026-09-11]] · 3 cards
+- 2026-09-04 · [[Releases/Replit/replit-2026-09-04-2026-09-04-ccf2eec3|Replit updates — 2026-09-04]] · 1 card
+- 2026-08-28 · [[Releases/Replit/replit-2026-08-28-2026-08-28-1fac4f32|Replit updates — 2026-08-28]] · 6 cards
+<!-- chronolog:end -->
+
+## Coverage
+<!-- chronolog:begin region="coverage" -->
+99 releases · 2024-12-13 → 2026-10-30 · [official source](https://docs.replit.com/updates) · Dated weekly Replit changelog pages listed in the official sitemap, covering Agent and related development-platform features. This includes non-AI platform changes announced alongside Agent. Unindexed historical announcements are outside this source's scope.
+
+Acquisition details, how cards are made and known gaps: [[About]].
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="releases" -->
+<details class="disclosure">
+<summary>Release archive (99 releases)</summary>
+
+- 2026-10-30: [[Releases/Replit/replit-2026-10-30-2026-10-30-8c94fa6c|Replit updates — 2026-10-30]]
+- 2026-10-23: [[Releases/Replit/replit-2026-10-23-2026-10-23-22527b8b|Replit updates — 2026-10-23]]
+- 2026-10-16: [[Releases/Replit/replit-2026-10-16-2026-10-16-3443a38d|Replit updates — 2026-10-16]]
+- 2026-10-09: [[Releases/Replit/replit-2026-10-09-2026-10-09-58884c93|Replit updates — 2026-10-09]]
+- 2026-10-02: [[Releases/Replit/replit-2026-10-02-2026-10-02-3eeb4015|Replit updates — 2026-10-02]]
+- 2026-09-25: [[Releases/Replit/replit-2026-09-25-2026-09-25-5a45f4f9|Replit updates — 2026-09-25]]
+- 2026-09-18: [[Releases/Replit/replit-2026-09-18-2026-09-18-bb95ac6d|Replit updates — 2026-09-18]]
+- 2026-09-11: [[Releases/Replit/replit-2026-09-11-2026-09-11-fe1ab3d8|Replit updates — 2026-09-11]]
+- 2026-09-04: [[Releases/Replit/replit-2026-09-04-2026-09-04-ccf2eec3|Replit updates — 2026-09-04]]
+- 2026-08-28: [[Releases/Replit/replit-2026-08-28-2026-08-28-1fac4f32|Replit updates — 2026-08-28]]
+- 2026-08-21: [[Releases/Replit/replit-2026-08-21-2026-08-21-07917b7e|Replit updates — 2026-08-21]]
+- 2026-08-14: [[Releases/Replit/replit-2026-08-14-2026-08-14-e5550355|Replit updates — 2026-08-14]]
+- 2026-08-07: [[Releases/Replit/replit-2026-08-07-2026-08-07-d8d80b64|Replit updates — 2026-08-07]]
+- 2026-07-31: [[Releases/Replit/replit-2026-07-31-2026-07-31-9665255c|Replit updates — 2026-07-31]]
+- 2026-07-24: [[Releases/Replit/replit-2026-07-24-2026-07-24-b0f18b89|Replit updates — 2026-07-24]]
+- 2026-07-17: [[Releases/Replit/replit-2026-07-17-2026-07-17-97de1494|Replit updates — 2026-07-17]]
+- 2026-07-10: [[Releases/Replit/replit-2026-07-10-2026-07-10-b0b0aa18|Replit updates — 2026-07-10]]
+- 2026-07-03: [[Releases/Replit/replit-2026-07-03-2026-07-03-1318c060|Replit updates — 2026-07-03]]
+- 2026-06-26: [[Releases/Replit/replit-2026-06-26-2026-06-26-0ee85750|Replit updates — 2026-06-26]]
+- 2026-06-19: [[Releases/Replit/replit-2026-06-19-2026-06-19-ff036602|Replit updates — 2026-06-19]]
+- 2026-06-12: [[Releases/Replit/replit-2026-06-12-2026-06-12-d92f034f|Replit updates — 2026-06-12]]
+- 2026-06-05: [[Releases/Replit/replit-2026-06-05-2026-06-05-95c49499|Replit updates — 2026-06-05]]
+- 2026-05-29: [[Releases/Replit/replit-2026-05-29-2026-05-29-e3cfe151|Replit updates — 2026-05-29]]
+- 2026-05-22: [[Releases/Replit/replit-2026-05-22-2026-05-22-243c68d8|Replit updates — 2026-05-22]]
+- 2026-05-15: [[Releases/Replit/replit-2026-05-15-2026-05-15-d142aa2e|Replit updates — 2026-05-15]]
+- 2026-05-08: [[Releases/Replit/replit-2026-05-08-2026-05-08-5ea341bc|Replit updates — 2026-05-08]]
+- 2026-05-01: [[Releases/Replit/replit-2026-05-01-2026-05-01-1a235a49|Replit updates — 2026-05-01]]
+- 2026-04-24: [[Releases/Replit/replit-2026-04-24-2026-04-24-4062672c|Replit updates — 2026-04-24]]
+- 2026-04-17: [[Releases/Replit/replit-2026-04-17-2026-04-17-97599a7a|Replit updates — 2026-04-17]]
+- 2026-04-10: [[Releases/Replit/replit-2026-04-10-2026-04-10-5fcce17c|Replit updates — 2026-04-10]]
+- 2026-04-03: [[Releases/Replit/replit-2026-04-03-2026-04-03-7b5eb8b0|Replit updates — 2026-04-03]]
+- 2026-03-27: [[Releases/Replit/replit-2026-03-27-2026-03-27-94673ef3|Replit updates — 2026-03-27]]
+- 2026-03-20: [[Releases/Replit/replit-2026-03-20-2026-03-20-d0928006|Replit updates — 2026-03-20]]
+- 2026-03-13: [[Releases/Replit/replit-2026-03-13-2026-03-13-934442d3|Replit updates — 2026-03-13]]
+- 2026-03-06: [[Releases/Replit/replit-2026-03-06-2026-03-06-63efb5ba|Replit updates — 2026-03-06]]
+- 2026-02-27: [[Releases/Replit/replit-2026-02-27-2026-02-27-f0dc45d2|Replit updates — 2026-02-27]]
+- 2026-02-20: [[Releases/Replit/replit-2026-02-20-2026-02-20-4b4b553e|Replit updates — 2026-02-20]]
+- 2026-02-13: [[Releases/Replit/replit-2026-02-13-2026-02-13-6a679506|Replit updates — 2026-02-13]]
+- 2026-02-06: [[Releases/Replit/replit-2026-02-06-2026-02-06-b4b1f73a|Replit updates — 2026-02-06]]
+- 2026-01-30: [[Releases/Replit/replit-2026-01-30-2026-01-30-d7bba788|Replit updates — 2026-01-30]]
+- 2026-01-23: [[Releases/Replit/replit-2026-01-23-2026-01-23-0f161827|Replit updates — 2026-01-23]]
+- 2026-01-16: [[Releases/Replit/replit-2026-01-16-2026-01-16-d287c407|Replit updates — 2026-01-16]]
+- 2026-01-09: [[Releases/Replit/replit-2026-01-09-2026-01-09-e20af2fb|Replit updates — 2026-01-09]]
+- 2026-01-02: [[Releases/Replit/replit-2026-01-02-2026-01-02-76d02586|Replit updates — 2026-01-02]]
+- 2025-12-26: [[Releases/Replit/replit-2025-12-26-2025-12-26-e8b48049|Replit updates — 2025-12-26]]
+- 2025-12-19: [[Releases/Replit/replit-2025-12-19-2025-12-19-cb186cb0|Replit updates — 2025-12-19]]
+- 2025-12-12: [[Releases/Replit/replit-2025-12-12-2025-12-12-ae737b71|Replit updates — 2025-12-12]]
+- 2025-12-05: [[Releases/Replit/replit-2025-12-05-2025-12-05-a5f5ba3b|Replit updates — 2025-12-05]]
+- 2025-11-26: [[Releases/Replit/replit-2025-11-26-2025-11-26-b469983e|Replit updates — 2025-11-26]]
+- 2025-11-21: [[Releases/Replit/replit-2025-11-21-2025-11-21-d3d6b6ca|Replit updates — 2025-11-21]]
+- 2025-11-16: [[Releases/Replit/replit-2025-11-16-2025-11-16-5a312963|Replit updates — 2025-11-16]]
+- 2025-11-07: [[Releases/Replit/replit-2025-11-07-2025-11-07-67163a16|Replit updates — 2025-11-07]]
+- 2025-10-31: [[Releases/Replit/replit-2025-10-31-2025-10-31-6a35f9ae|Replit updates — 2025-10-31]]
+- 2025-10-24: [[Releases/Replit/replit-2025-10-24-2025-10-24-e335466b|Replit updates — 2025-10-24]]
+- 2025-10-17: [[Releases/Replit/replit-2025-10-17-2025-10-17-32d063da|Replit updates — 2025-10-17]]
+- 2025-10-10: [[Releases/Replit/replit-2025-10-10-2025-10-10-6e646996|Replit updates — 2025-10-10]]
+- 2025-10-03: [[Releases/Replit/replit-2025-10-03-2025-10-03-65f6bedb|Replit updates — 2025-10-03]]
+- 2025-09-26: [[Releases/Replit/replit-2025-09-26-2025-09-26-9c91350c|Replit updates — 2025-09-26]]
+- 2025-09-19: [[Releases/Replit/replit-2025-09-19-2025-09-19-b0d6c042|Replit updates — 2025-09-19]]
+- 2025-09-12: [[Releases/Replit/replit-2025-09-12-2025-09-12-019d2e90|Replit updates — 2025-09-12]]
+- 2025-09-05: [[Releases/Replit/replit-2025-09-05-2025-09-05-8d902215|Replit updates — 2025-09-05]]
+- 2025-08-29: [[Releases/Replit/replit-2025-08-29-2025-08-29-e2004036|Replit updates — 2025-08-29]]
+- 2025-08-22: [[Releases/Replit/replit-2025-08-22-2025-08-22-b06c1525|Replit updates — 2025-08-22]]
+- 2025-08-15: [[Releases/Replit/replit-2025-08-15-2025-08-15-be9b8837|Replit updates — 2025-08-15]]
+- 2025-08-08: [[Releases/Replit/replit-2025-08-08-2025-08-08-cb053c3d|Replit updates — 2025-08-08]]
+- 2025-08-01: [[Releases/Replit/replit-2025-08-01-2025-08-01-3bbceb1a|Replit updates — 2025-08-01]]
+- 2025-07-25: [[Releases/Replit/replit-2025-07-25-2025-07-25-4078f477|Replit updates — 2025-07-25]]
+- 2025-07-18: [[Releases/Replit/replit-2025-07-18-2025-07-18-829a891d|Replit updates — 2025-07-18]]
+- 2025-07-11: [[Releases/Replit/replit-2025-07-11-2025-07-11-7720b5c2|Replit updates — 2025-07-11]]
+- 2025-07-04: [[Releases/Replit/replit-2025-07-04-2025-07-04-cb49ecc5|Replit updates — 2025-07-04]]
+- 2025-06-27: [[Releases/Replit/replit-2025-06-27-2025-06-27-b39448c0|Replit updates — 2025-06-27]]
+- 2025-06-20: [[Releases/Replit/replit-2025-06-20-2025-06-20-5f136b4d|Replit updates — 2025-06-20]]
+- 2025-06-13: [[Releases/Replit/replit-2025-06-13-2025-06-13-6b3d531f|Replit updates — 2025-06-13]]
+- 2025-06-06: [[Releases/Replit/replit-2025-06-06-2025-06-06-4525a97e|Replit updates — 2025-06-06]]
+- 2025-05-30: [[Releases/Replit/replit-2025-05-30-2025-05-30-a19846cf|Replit updates — 2025-05-30]]
+- 2025-05-23: [[Releases/Replit/replit-2025-05-23-2025-05-23-071101e9|Replit updates — 2025-05-23]]
+- 2025-05-16: [[Releases/Replit/replit-2025-05-16-2025-05-16-6ddbb27c|Replit updates — 2025-05-16]]
+- 2025-05-09: [[Releases/Replit/replit-2025-05-09-2025-05-09-48bfa2be|Replit updates — 2025-05-09]]
+- 2025-05-02: [[Releases/Replit/replit-2025-05-02-2025-05-02-ceaa92ef|Replit updates — 2025-05-02]]
+- 2025-04-25: [[Releases/Replit/replit-2025-04-25-2025-04-25-d2967d56|Replit updates — 2025-04-25]]
+- 2025-04-18: [[Releases/Replit/replit-2025-04-18-2025-04-18-24c8e895|Replit updates — 2025-04-18]]
+- 2025-04-11: [[Releases/Replit/replit-2025-04-11-2025-04-11-8b7eac10|Replit updates — 2025-04-11]]
+- 2025-04-04: [[Releases/Replit/replit-2025-04-04-2025-04-04-fa12a476|Replit updates — 2025-04-04]]
+- 2025-03-28: [[Releases/Replit/replit-2025-03-28-2025-03-28-e7e91c08|Replit updates — 2025-03-28]]
+- 2025-03-21: [[Releases/Replit/replit-2025-03-21-2025-03-21-245c8626|Replit updates — 2025-03-21]]
+- 2025-03-14: [[Releases/Replit/replit-2025-03-14-2025-03-14-667c20db|Replit updates — 2025-03-14]]
+- 2025-03-07: [[Releases/Replit/replit-2025-03-07-2025-03-07-9e8a9aa0|Replit updates — 2025-03-07]]
+- 2025-02-28: [[Releases/Replit/replit-2025-02-28-2025-02-28-81625fa9|Replit updates — 2025-02-28]]
+- 2025-02-21: [[Releases/Replit/replit-2025-02-21-2025-02-21-052e1226|Replit updates — 2025-02-21]]
+- 2025-02-14: [[Releases/Replit/replit-2025-02-14-2025-02-14-179ef4c1|Replit updates — 2025-02-14]]
+- 2025-02-07: [[Releases/Replit/replit-2025-02-07-2025-02-07-c5bc91d9|Replit updates — 2025-02-07]]
+- 2025-01-31: [[Releases/Replit/replit-2025-01-31-2025-01-31-879df024|Replit updates — 2025-01-31]]
+- 2025-01-24: [[Releases/Replit/replit-2025-01-24-2025-01-24-6966ab48|Replit updates — 2025-01-24]]
+- 2025-01-17: [[Releases/Replit/replit-2025-01-17-2025-01-17-e64d23ef|Replit updates — 2025-01-17]]
+- 2025-01-10: [[Releases/Replit/replit-2025-01-10-2025-01-10-f947321a|Replit updates — 2025-01-10]]
+- 2025-01-03: [[Releases/Replit/replit-2025-01-03-2025-01-03-8a1ad12e|Replit updates — 2025-01-03]]
+- 2024-12-27: [[Releases/Replit/replit-2024-12-27-2024-12-27-e5c636ef|Replit updates — 2024-12-27]]
+- 2024-12-20: [[Releases/Replit/replit-2024-12-20-2024-12-20-d175030c|Replit updates — 2024-12-20]]
+- 2024-12-13: [[Releases/Replit/replit-2024-12-13-2024-12-13-bc147372|Replit updates — 2024-12-13]]
+
+</details>
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="changes" -->
+<details class="disclosure">
+<summary>All tracked changes (476 cards)</summary>
+
+**2026** · 211 cards
+
+- 2026-10-30 · Agent Mode: [[Changes/Replit/2026-10-30-message-and-create-chats-with-agent|Message and create chats with Agent]]
+- 2026-10-30 · Agent Mode: [[Changes/Replit/2026-10-30-contribute-to-your-company-codebase-with-cloud-agents|Contribute to your company codebase with Cloud Agents]]
+- 2026-10-30 · Model Support: [[Changes/Replit/2026-10-30-gpt-6-1-terra-in-the-model-selector|GPT-6.1 Terra in the model selector]]
+- 2026-10-23 · Agent Mode: [[Changes/Replit/2026-10-23-create-and-update-skills-with-agent|Create and update skills with Agent]]
+- 2026-10-23 · Apps and Integrations: [[Changes/Replit/2026-10-23-keep-your-apps-running-when-credits-run-out|Keep your apps running when credits run out]]
+- 2026-10-23 · Collaboration: [[Changes/Replit/2026-10-23-chat-and-asset-sharing|Chat and asset sharing]]
+- 2026-10-23 · Agent Mode: [[Changes/Replit/2026-10-23-monitoring-agent|Monitoring Agent]]
+- 2026-10-23 · Agent Mode: [[Changes/Replit/2026-10-23-stripe-atlas-on-replit|Stripe Atlas on Replit]]
+- 2026-10-16 · Enterprise and Administration: [[Changes/Replit/2026-10-16-bring-your-own-cloud-to-replit|Bring Your Own Cloud to Replit]]
+- 2026-10-16 · Model Support: [[Changes/Replit/2026-10-16-claude-haiku-5-5-in-the-model-selector|Claude Haiku 5.5 in the model selector]]
+- 2026-10-16 · Search and Browsing: [[Changes/Replit/2026-10-16-find-a-replit-solutions-partner|Find a Replit Solutions Partner]]
+- 2026-10-09 · Context Window: [[Changes/Replit/2026-10-09-work-across-projects-from-a-chat|Work across projects from a chat]]
+- 2026-10-09 · Mobile and Desktop: [[Changes/Replit/2026-10-09-replit-desktop-windows-preview-with-microsoft-and-nvidia|Replit Desktop Windows preview with Microsoft and NVIDIA]]
+- 2026-10-09 · Automation and Scheduling: [[Changes/Replit/2026-10-09-create-and-manage-tiktok-ads|Create and manage TikTok Ads]]
+- 2026-10-02 · Interface Experience: [[Changes/Replit/2026-10-02-new-settings-page|New Settings page]]
+- 2026-10-02 · Enterprise and Administration: [[Changes/Replit/2026-10-02-workspace-settings|Workspace settings]]
+- 2026-10-02 · Model Support: [[Changes/Replit/2026-10-02-new-models-from-openai-and-anthropic|New models from OpenAI and Anthropic]]
+- 2026-10-02 · Apps and Integrations: [[Changes/Replit/2026-10-02-jev-is-now-available-through-replit-ai-integrations|Jev is now available through Replit AI Integrations]]
+- 2026-09-25 · Apps and Integrations: [[Changes/Replit/2026-09-25-build-apps-for-meta-devices|Build apps for Meta devices]]
+- 2026-09-25 · Safety and Privacy: [[Changes/Replit/2026-09-25-control-access-to-design-systems-and-slide-templates|Control access to design systems and slide templates]]
+- 2026-09-25 · Apps and Integrations: [[Changes/Replit/2026-09-25-create-replit-apps-through-muse|Create Replit apps through Muse]]
+- 2026-09-25 · Apps and Integrations: [[Changes/Replit/2026-09-25-build-and-test-airwallex-integrations|Build and test Airwallex integrations]]
+- 2026-09-25 · Model Support: [[Changes/Replit/2026-09-25-build-with-new-openai-and-anthropic-models|Build with new OpenAI and Anthropic models]]
+- 2026-09-18 · Safety and Privacy: [[Changes/Replit/2026-09-18-investigate-with-expanded-audit-logs|Investigate with expanded audit logs]]
+- 2026-09-18 · Agent Mode: [[Changes/Replit/2026-09-18-connect-custom-apis-to-agent|Connect custom APIs to Agent]]
+- 2026-09-11 · Enterprise and Administration: [[Changes/Replit/2026-09-11-retrieve-prompt-text-for-compliance-workflows|Retrieve prompt text for compliance workflows]]
+- 2026-09-11 · Apps and Integrations: [[Changes/Replit/2026-09-11-use-replit-from-desktop-mcp-clients|Use Replit from desktop MCP clients]]
+- 2026-09-11 · Apps and Integrations: [[Changes/Replit/2026-09-11-use-managed-postgresql-in-databricks-apps|Use managed PostgreSQL in Databricks Apps]]
+- 2026-09-04 · Agent Mode: [[Changes/Replit/2026-09-04-understand-app-usage-with-project-analytics|Understand app usage with Project Analytics]]
+- 2026-08-28 · Agent Mode: [[Changes/Replit/2026-08-28-agent|Agent]]
+- 2026-08-28 · Apps and Integrations: [[Changes/Replit/2026-08-28-integrations|Integrations]]
+- 2026-08-28 · Agent Mode: [[Changes/Replit/2026-08-28-find-your-first-customers-with-growth-skills|Find your first customers with Growth Skills]]
+- 2026-08-28 · Model Support: [[Changes/Replit/2026-08-28-intelligent-model-routing-for-enterprise|Intelligent model routing for Enterprise]]
+- 2026-08-28 · Apps and Integrations: [[Changes/Replit/2026-08-28-customize-connectors|Customize connectors]]
+- 2026-08-28 · Model Support: [[Changes/Replit/2026-08-28-intelligent-model-routing|Intelligent model routing]]
+- 2026-08-21 · Context Window: [[Changes/Replit/2026-08-21-start-with-conversations|Start with Conversations]]
+- 2026-08-21 · Agent Mode: [[Changes/Replit/2026-08-21-steer-agent-while-working|Steer Agent while working]]
+- 2026-08-21 · Enterprise and Administration: [[Changes/Replit/2026-08-21-control-agent-models-across-workspaces|Control Agent models across Workspaces]]
+- 2026-08-21 · Pricing Model: [[Changes/Replit/2026-08-21-work-in-free-mode|Work in Free Mode]]
+- 2026-08-21 · Enterprise and Administration: [[Changes/Replit/2026-08-21-teams-and-enterprise|Teams and Enterprise]]
+- 2026-08-21 · Automation and Scheduling: [[Changes/Replit/2026-08-21-automate-recurring-work-with-routines|Automate recurring work with Routines]]
+- 2026-08-21 · Safety and Privacy: [[Changes/Replit/2026-08-21-run-black-box-pen-tests|Run black-box pen tests]]
+- 2026-08-21 · Agent Mode: [[Changes/Replit/2026-08-21-agent|Agent]]
+- 2026-08-14 · Interface Experience: [[Changes/Replit/2026-08-14-choose-a-workspace-region|Choose a workspace region]]
+- 2026-08-14 · Enterprise and Administration: [[Changes/Replit/2026-08-14-teams-and-enterprise|Teams and Enterprise]]
+- 2026-08-14 · Apps and Integrations: [[Changes/Replit/2026-08-14-integrations|Integrations]]
+- 2026-08-14 · Enterprise and Administration: [[Changes/Replit/2026-08-14-share-and-manage-workspace-skills|Share and manage workspace skills]]
+- 2026-08-14 · Agent Mode: [[Changes/Replit/2026-08-14-ask-for-inline-charts|Ask for inline charts]]
+- 2026-08-14 · Apps and Integrations: [[Changes/Replit/2026-08-14-use-replit-through-mcp|Use Replit through MCP]]
+- 2026-08-14 · Enterprise and Administration: [[Changes/Replit/2026-08-14-admin-api-available-in-beta|Admin API available in beta]]
+- 2026-08-14 · Apps and Integrations: [[Changes/Replit/2026-08-14-connect-more-mcp-servers|Connect more MCP servers]]
+- 2026-08-14 · Account and Access: [[Changes/Replit/2026-08-14-migrate-to-clerk-auth|Migrate to Clerk Auth]]
+- 2026-08-07 · Enterprise and Administration: [[Changes/Replit/2026-08-07-teams-and-enterprise|Teams and Enterprise]]
+- 2026-08-07 · Agent Mode: [[Changes/Replit/2026-08-07-agent|Agent]]
+- 2026-08-07 · Safety and Privacy: [[Changes/Replit/2026-08-07-security-scan-while-you-build|Security scan while you build]]
+- 2026-08-07 · Account and Access: [[Changes/Replit/2026-08-07-build-with-sso|Build with SSO]]
+- 2026-08-07 · Pricing Model: [[Changes/Replit/2026-08-07-move-projects-between-workspaces|Move projects between workspaces]]
+- 2026-07-31 · Model Support: [[Changes/Replit/2026-07-31-choose-agent-s-primary-model|Choose Agent's primary model]]
+- 2026-07-31 · Projects and Workspaces: [[Changes/Replit/2026-07-31-a-rebuilt-usage-page|A rebuilt usage page]]
+- 2026-07-31 · Enterprise and Administration: [[Changes/Replit/2026-07-31-stay-signed-in-longer|Stay signed in longer]]
+- 2026-07-31 · Agent Mode: [[Changes/Replit/2026-07-31-agent|Agent]]
+- 2026-07-31 · Apps and Integrations: [[Changes/Replit/2026-07-31-connect-more-mcp-servers|Connect more MCP servers]]
+- 2026-07-31 · Pricing Model: [[Changes/Replit/2026-07-31-billing|Billing]]
+- 2026-07-31 · Enterprise and Administration: [[Changes/Replit/2026-07-31-teams-and-enterprise|Teams and Enterprise]]
+- 2026-07-24 · Apps and Integrations: [[Changes/Replit/2026-07-24-bring-more-slack-context-to-agent|Bring more Slack context to Agent]]
+- 2026-07-24 · Pricing Model: [[Changes/Replit/2026-07-24-more-flexibility-when-changing-your-pro-plan|More flexibility when changing your Pro plan]]
+- 2026-07-24 · Voice and Audio: [[Changes/Replit/2026-07-24-a-new-way-to-build-from-your-phone|A new way to build from your phone]]
+- 2026-07-24 · Pricing Model: [[Changes/Replit/2026-07-24-billing|Billing]]
+- 2026-07-24 · Pricing Model: [[Changes/Replit/2026-07-24-lower-prices-across-replit-cloud|Lower prices across Replit Cloud]]
+- 2026-07-24 · Apps and Integrations: [[Changes/Replit/2026-07-24-integrations|Integrations]]
+- 2026-07-17 · Interface Experience: [[Changes/Replit/2026-07-17-a-faster-task-sidebar|A faster task sidebar]]
+- 2026-07-17 · Account and Access: [[Changes/Replit/2026-07-17-agent-suggests-connectors-when-several-fit|Agent suggests connectors when several fit]]
+- 2026-07-17 · Apps and Integrations: [[Changes/Replit/2026-07-17-integrations|Integrations]]
+- 2026-07-10 · Agent Mode: [[Changes/Replit/2026-07-10-editors-can-answer-agent-s-questions|Editors can answer Agent's questions]]
+- 2026-07-10 · Agent Mode: [[Changes/Replit/2026-07-10-connect-excalidraw-to-agent|Connect Excalidraw to Agent]]
+- 2026-07-10 · Apps and Integrations: [[Changes/Replit/2026-07-10-integrations|Integrations]]
+- 2026-07-03 · Agent Mode: [[Changes/Replit/2026-07-03-sell-in-your-app-with-whop|Sell in your app with Whop]]
+- 2026-07-03 · Apps and Integrations: [[Changes/Replit/2026-07-03-integrations|Integrations]]
+- 2026-07-03 · Pricing Model: [[Changes/Replit/2026-07-03-billing|Billing]]
+- 2026-07-03 · Mobile and Desktop: [[Changes/Replit/2026-07-03-the-redesigned-replit-desktop-app|The redesigned Replit Desktop App]]
+- 2026-07-03 · Pricing Model: [[Changes/Replit/2026-07-03-downgrade-from-pro-to-core-in-one-step|Downgrade from Pro to Core in one step]]
+- 2026-06-26 · Enterprise and Administration: [[Changes/Replit/2026-06-26-multiple-workspaces-for-scim-customers|Multiple workspaces for SCIM customers]]
+- 2026-06-26 · Apps and Integrations: [[Changes/Replit/2026-06-26-use-replit-from-slack|Use Replit from Slack]]
+- 2026-06-26 · Apps and Integrations: [[Changes/Replit/2026-06-26-a-new-integrations-experience|A new Integrations experience]]
+- 2026-06-26 · Enterprise and Administration: [[Changes/Replit/2026-06-26-teams-and-enterprise|Teams and Enterprise]]
+- 2026-06-26 · Apps and Integrations: [[Changes/Replit/2026-06-26-integrations|Integrations]]
+- 2026-06-19 · Agent Mode: [[Changes/Replit/2026-06-19-agent|Agent]]
+- 2026-06-19 · Enterprise and Administration: [[Changes/Replit/2026-06-19-invite-external-guests-to-enterprise-workspaces|Invite external guests to Enterprise workspaces]]
+- 2026-06-19 · Apps and Integrations: [[Changes/Replit/2026-06-19-use-replit-from-claude|Use Replit from Claude]]
+- 2026-06-19 · Apps and Integrations: [[Changes/Replit/2026-06-19-new-mcp-servers-apollo-and-black-forest-labs|New MCP servers: Apollo and Black Forest Labs]]
+- 2026-06-19 · Apps and Integrations: [[Changes/Replit/2026-06-19-integrations|Integrations]]
+- 2026-06-19 · Enterprise and Administration: [[Changes/Replit/2026-06-19-teams-and-enterprise|Teams and Enterprise]]
+- 2026-06-19 · Voice and Audio: [[Changes/Replit/2026-06-19-voice-mode|Voice Mode]]
+- 2026-06-12 · Safety and Privacy: [[Changes/Replit/2026-06-12-security|Security]]
+- 2026-06-12 · Files and Data: [[Changes/Replit/2026-06-12-add-visual-references-when-you-generate-media-on-canvas|Add visual references when you generate media on Canvas]]
+- 2026-06-12 · Safety and Privacy: [[Changes/Replit/2026-06-12-choose-which-production-alerts-reach-your-inbox|Choose which production alerts reach your inbox]]
+- 2026-06-12 · Agent Mode: [[Changes/Replit/2026-06-12-agent|Agent]]
+- 2026-06-12 · Agent Mode: [[Changes/Replit/2026-06-12-customize-agent-with-workspace-instructions-and-skills|Customize Agent with workspace instructions and skills]]
+- 2026-06-12 · Agent Mode: [[Changes/Replit/2026-06-12-block-malicious-packages-with-package-firewall|Block malicious packages with Package Firewall]]
+- 2026-06-12 · Reliability and Performance: [[Changes/Replit/2026-06-12-faster-slide-import-and-export|Faster slide import and export]]
+- 2026-06-05 · Agent Mode: [[Changes/Replit/2026-06-05-sell-physical-products-with-shopify|Sell physical products with Shopify]]
+- 2026-06-05 · Collaboration: [[Changes/Replit/2026-06-05-use-stripe-in-collaborative-workspaces|Use Stripe in collaborative workspaces]]
+- 2026-06-05 · Pricing Model: [[Changes/Replit/2026-06-05-billing|Billing]]
+- 2026-06-05 · Apps and Integrations: [[Changes/Replit/2026-06-05-integrations|Integrations]]
+- 2026-06-05 · Agent Mode: [[Changes/Replit/2026-06-05-improve-your-search-ranking-with-seo-agent|Improve your search ranking with SEO Agent]]
+- 2026-06-05 · Agent Mode: [[Changes/Replit/2026-06-05-agent|Agent]]
+- 2026-06-05 · Apps and Integrations: [[Changes/Replit/2026-06-05-build-data-apps-on-microsoft-fabric|Build data apps on Microsoft Fabric]]
+- 2026-05-29 · Apps and Integrations: [[Changes/Replit/2026-05-29-integrations|Integrations]]
+- 2026-05-29 · Pricing Model: [[Changes/Replit/2026-05-29-generate-3d-models-with-the-tripo3d-connector|Generate 3D models with the Tripo3D connector]]
+- 2026-05-29 · Pricing Model: [[Changes/Replit/2026-05-29-billing|Billing]]
+- 2026-05-29 · Files and Data: [[Changes/Replit/2026-05-29-generate-media-right-on-canvas|Generate media right on Canvas]]
+- 2026-05-29 · Enterprise and Administration: [[Changes/Replit/2026-05-29-upgrade-to-enterprise-without-leaving-replit|Upgrade to Enterprise without leaving Replit]]
+- 2026-05-29 · Agent Mode: [[Changes/Replit/2026-05-29-agent-can-generate-music-sound-effects-and-speech|Agent can generate music, sound effects, and speech]]
+- 2026-05-29 · Agent Mode: [[Changes/Replit/2026-05-29-agent|Agent]]
+- 2026-05-29 · Enterprise and Administration: [[Changes/Replit/2026-05-29-teams-and-enterprise|Teams and Enterprise]]
+- 2026-05-22 · Apps and Integrations: [[Changes/Replit/2026-05-22-two-new-connectors-quiver-ai-and-browserbase|Two new connectors: Quiver AI and Browserbase]]
+- 2026-05-22 · Agent Mode: [[Changes/Replit/2026-05-22-agent|Agent]]
+- 2026-05-22 · Automation and Scheduling: [[Changes/Replit/2026-05-22-cleaner-task-settings-dropdown|Cleaner task settings dropdown]]
+- 2026-05-22 · Apps and Integrations: [[Changes/Replit/2026-05-22-integrations|Integrations]]
+- 2026-05-22 · Editor Experience: [[Changes/Replit/2026-05-22-layout-controls-in-the-visual-editor|Layout controls in the Visual Editor]]
+- 2026-05-22 · Agent Mode: [[Changes/Replit/2026-05-22-agent-settings-stay-yours-in-shared-projects|Agent settings stay yours in shared projects]]
+- 2026-05-22 · Agent Mode: [[Changes/Replit/2026-05-22-agent-suggests-power-mode-when-you-re-stuck|Agent suggests Power Mode when you're stuck]]
+- 2026-05-15 · Agent Mode: [[Changes/Replit/2026-05-15-agent|Agent]]
+- 2026-05-15 · Apps and Integrations: [[Changes/Replit/2026-05-15-four-new-mcp-servers-in-the-directory|Four new MCP servers in the directory]]
+- 2026-05-15 · Apps and Integrations: [[Changes/Replit/2026-05-15-nine-new-connectors-ready-to-use-out-of-the-box|Nine new connectors ready to use out of the box]]
+- 2026-05-15 · Apps and Integrations: [[Changes/Replit/2026-05-15-integrations|Integrations]]
+- 2026-05-15 · Enterprise and Administration: [[Changes/Replit/2026-05-15-teams-and-enterprise|Teams and Enterprise]]
+- 2026-05-15 · Enterprise and Administration: [[Changes/Replit/2026-05-15-per-user-spend-limits-for-enterprise-workspaces|Per-user spend limits for Enterprise workspaces]]
+- 2026-05-15 · Files and Data: [[Changes/Replit/2026-05-15-export-canvas-frames-as-pngs|Export Canvas frames as PNGs]]
+- 2026-05-15 · Enterprise and Administration: [[Changes/Replit/2026-05-15-buy-enterprise-online-with-automated-sso-setup|Buy Enterprise online with automated SSO setup]]
+- 2026-05-08 · Apps and Integrations: [[Changes/Replit/2026-05-08-speaker-notes-and-presenter-view-in-slide-decks|Speaker notes and Presenter view in Slide Decks]]
+- 2026-05-08 · Safety and Privacy: [[Changes/Replit/2026-05-08-workspace-security-center-2-0|Workspace Security Center 2.0]]
+- 2026-05-08 · Agent Mode: [[Changes/Replit/2026-05-08-agent-accepts-svg-uploads|Agent accepts SVG uploads]]
+- 2026-05-08 · Agent Mode: [[Changes/Replit/2026-05-08-agent|Agent]]
+- 2026-05-08 · Context Window: [[Changes/Replit/2026-05-08-external-access-tokens-for-private-deployments|External access tokens for Private Deployments]]
+- 2026-05-08 · Agent Mode: [[Changes/Replit/2026-05-08-new-animated-icons-for-agent-modes|New animated icons for Agent modes]]
+- 2026-05-08 · Account and Access: [[Changes/Replit/2026-05-08-private-publishing-for-everyone|Private publishing for everyone]]
+- 2026-05-01 · Apps and Integrations: [[Changes/Replit/2026-05-01-replit-app-monitoring-keeps-an-eye-on-your-published-apps|Replit App Monitoring keeps an eye on your published apps]]
+- 2026-05-01 · Agent Mode: [[Changes/Replit/2026-05-01-agent|Agent]]
+- 2026-05-01 · Agent Mode: [[Changes/Replit/2026-05-01-create-full-slide-decks-with-agent|Create full Slide Decks with Agent]]
+- 2026-04-24 · Mobile and Desktop: [[Changes/Replit/2026-04-24-preview-on-an-ios-simulator-or-android-emulator|Preview on an iOS Simulator or Android Emulator]]
+- 2026-04-24 · Model Support: [[Changes/Replit/2026-04-24-security-agent-reviews-your-whole-codebase|Security Agent reviews your whole codebase]]
+- 2026-04-24 · Mobile and Desktop: [[Changes/Replit/2026-04-24-add-a-mobile-app-to-older-projects|Add a mobile app to older projects]]
+- 2026-04-24 · Apps and Integrations: [[Changes/Replit/2026-04-24-plaid-connector-is-live|Plaid connector is live]]
+- 2026-04-24 · Agent Mode: [[Changes/Replit/2026-04-24-cve-auto-protect-patches-critical-vulnerabilities-automatically|CVE Auto-Protect patches critical vulnerabilities automatically]]
+- 2026-04-24 · Agent Mode: [[Changes/Replit/2026-04-24-agent|Agent]]
+- 2026-04-24 · Apps and Integrations: [[Changes/Replit/2026-04-24-integrations|Integrations]]
+- 2026-04-17 · Apps and Integrations: [[Changes/Replit/2026-04-17-integrations|Integrations]]
+- 2026-04-17 · Agent Mode: [[Changes/Replit/2026-04-17-replit-agent-on-google-cloud-marketplace|Replit Agent on Google Cloud Marketplace]]
+- 2026-04-17 · Model Support: [[Changes/Replit/2026-04-17-claude-opus-4-7-powers-power-mode|Claude Opus 4.7 powers Power mode]]
+- 2026-04-17 · Agent Mode: [[Changes/Replit/2026-04-17-new-agent-modes-dropdown|New Agent modes dropdown]]
+- 2026-04-17 · Agent Mode: [[Changes/Replit/2026-04-17-agent|Agent]]
+- 2026-04-17 · Enterprise and Administration: [[Changes/Replit/2026-04-17-teams-and-enterprise|Teams and Enterprise]]
+- 2026-04-17 · Agent Mode: [[Changes/Replit/2026-04-17-agent-suggests-follow-up-tasks|Agent suggests follow-up tasks]]
+- 2026-04-17 · Safety and Privacy: [[Changes/Replit/2026-04-17-custom-groups-for-scim-organizations|Custom groups for SCIM organizations]]
+- 2026-04-10 · Apps and Integrations: [[Changes/Replit/2026-04-10-integrations|Integrations]]
+- 2026-04-10 · Agent Mode: [[Changes/Replit/2026-04-10-recreate-any-ui-from-a-screenshot|Recreate any UI from a screenshot]]
+- 2026-04-10 · Pricing Model: [[Changes/Replit/2026-04-10-razorpay-payments-for-india|Razorpay payments for India]]
+- 2026-04-10 · Apps and Integrations: [[Changes/Replit/2026-04-10-databricks-apps-integration|Databricks Apps integration]]
+- 2026-04-10 · Apps and Integrations: [[Changes/Replit/2026-04-10-connectors-available-on-all-paid-plans|Connectors available on all paid plans]]
+- 2026-04-10 · Agent Mode: [[Changes/Replit/2026-04-10-agent|Agent]]
+- 2026-04-10 · Reliability and Performance: [[Changes/Replit/2026-04-10-choose-where-your-app-runs-with-publishing-geography|Choose where your app runs with publishing geography]]
+- 2026-04-10 · Apps and Integrations: [[Changes/Replit/2026-04-10-revenuecat-app-store-connect-sync|RevenueCat App Store Connect sync]]
+- 2026-04-10 · Pricing Model: [[Changes/Replit/2026-04-10-past-invoices-in-usage-page|Past invoices in usage page]]
+- 2026-04-03 · Image Generation: [[Changes/Replit/2026-04-03-stock-and-ai-generated-images-in-library|Stock and AI-generated images in Library]]
+- 2026-04-03 · Agent Mode: [[Changes/Replit/2026-04-03-agent|Agent]]
+- 2026-03-27 · Reliability and Performance: [[Changes/Replit/2026-03-27-application-level-analytics|Application-level analytics]]
+- 2026-03-20 · Enterprise and Administration: [[Changes/Replit/2026-03-20-enterprise-audit-log-portal|Enterprise Audit Log Portal]]
+- 2026-03-20 · Mobile and Desktop: [[Changes/Replit/2026-03-20-replit-pwa-on-microsoft-app-store|Replit PWA on Microsoft App Store]]
+- 2026-03-20 · Agent Mode: [[Changes/Replit/2026-03-20-empty-project-creation|Empty project creation]]
+- 2026-03-20 · Enterprise and Administration: [[Changes/Replit/2026-03-20-teams-and-enterprise|Teams and Enterprise]]
+- 2026-03-13 · Agent Mode: [[Changes/Replit/2026-03-13-introducing-replit-agent-4|Introducing Replit Agent 4]]
+- 2026-03-13 · Agent Mode: [[Changes/Replit/2026-03-13-agent|Agent]]
+- 2026-03-06 · Interface Experience: [[Changes/Replit/2026-03-06-ai-chat-message-truncation|AI Chat message truncation]]
+- 2026-03-06 · Apps and Integrations: [[Changes/Replit/2026-03-06-revenuecat-integration-now-generally-available|RevenueCat integration now generally available]]
+- 2026-03-06 · Enterprise and Administration: [[Changes/Replit/2026-03-06-teams-and-enterprise|Teams and Enterprise]]
+- 2026-03-06 · Apps and Integrations: [[Changes/Replit/2026-03-06-connectors-and-ai-integrations-now-enabled-by-default-for-teams-and-enterprise|Connectors and AI Integrations now enabled by default for Teams and Enterprise]]
+- 2026-03-06 · Apps and Integrations: [[Changes/Replit/2026-03-06-gpt-codex-5-3-support-in-ai-integrations|GPT-Codex-5.3 support in AI Integrations]]
+- 2026-02-27 · Interface Experience: [[Changes/Replit/2026-02-27-system-theme-support|System theme support]]
+- 2026-02-27 · Reliability and Performance: [[Changes/Replit/2026-02-27-agent-performance-improvements|Agent performance improvements]]
+- 2026-02-27 · Interface Experience: [[Changes/Replit/2026-02-27-password-manager-keyboard-navigation|Password manager keyboard navigation]]
+- 2026-02-20 · Enterprise and Administration: [[Changes/Replit/2026-02-20-teams-and-enterprise|Teams and Enterprise]]
+- 2026-02-20 · Search and Browsing: [[Changes/Replit/2026-02-20-skills-search|Skills Search]]
+- 2026-02-20 · Apps and Integrations: [[Changes/Replit/2026-02-20-expanded-default-mcp-list|Expanded default MCP list]]
+- 2026-02-20 · Agent Mode: [[Changes/Replit/2026-02-20-production-deployment-logs-access|Production deployment logs access]]
+- 2026-02-20 · Enterprise and Administration: [[Changes/Replit/2026-02-20-deployment-visibility-settings|Deployment visibility settings]]
+- 2026-02-20 · Image Generation: [[Changes/Replit/2026-02-20-video-stack|Video Stack]]
+- 2026-02-20 · Apps and Integrations: [[Changes/Replit/2026-02-20-razorpay-mcp-integration|Razorpay MCP integration]]
+- 2026-02-20 · Memory and Personalization: [[Changes/Replit/2026-02-20-background-memory-compression|Background memory compression]]
+- 2026-02-13 · Apps and Integrations: [[Changes/Replit/2026-02-13-connection-reliability-improvements|Connection reliability improvements]]
+- 2026-02-13 · Enterprise and Administration: [[Changes/Replit/2026-02-13-user-group-level-budgets|User/group level budgets]]
+- 2026-02-13 · Enterprise and Administration: [[Changes/Replit/2026-02-13-teams-and-enterprise|Teams and Enterprise]]
+- 2026-02-13 · Apps and Integrations: [[Changes/Replit/2026-02-13-open-in-replit-button-beta|Open in Replit button (Beta)]]
+- 2026-02-13 · Model Support: [[Changes/Replit/2026-02-13-claude-opus-4-5-support|Claude Opus 4.5 support]]
+- 2026-02-13 · Apps and Integrations: [[Changes/Replit/2026-02-13-bitbucket-integration-improvements|Bitbucket integration improvements]]
+- 2026-02-13 · Agent Mode: [[Changes/Replit/2026-02-13-agent-production-sql-database-access|Agent production SQL database access]]
+- 2026-02-06 · Model Support: [[Changes/Replit/2026-02-06-replit-gemini-cli-extension|Replit + Gemini CLI extension]]
+- 2026-02-06 · Agent Mode: [[Changes/Replit/2026-02-06-agent-inbox|Agent Inbox]]
+- 2026-02-06 · Collaboration: [[Changes/Replit/2026-02-06-for-teams|For Teams]]
+- 2026-02-06 · Model Support: [[Changes/Replit/2026-02-06-custom-openai-key-support|Custom OpenAI key support]]
+- 2026-01-23 · Agent Mode: [[Changes/Replit/2026-01-23-rulessync-support-for-replit-md|RulesSync support for replit.md]]
+- 2026-01-23 · Voice and Audio: [[Changes/Replit/2026-01-23-audio-support-in-ai-integrations|Audio support in AI integrations]]
+- 2026-01-23 · Automation and Scheduling: [[Changes/Replit/2026-01-23-web-search-in-agent-automations|Web search in Agent automations]]
+- 2026-01-16 · Safety and Privacy: [[Changes/Replit/2026-01-16-node-js-security-patch|Node.js security patch]]
+- 2026-01-16 · Agent Mode: [[Changes/Replit/2026-01-16-redesigned-tool-calls-ui-in-agent-chat|Redesigned tool calls UI in Agent chat]]
+- 2026-01-16 · Mobile and Desktop: [[Changes/Replit/2026-01-16-mobile-apps-on-replit|Mobile Apps on Replit]]
+- 2026-01-09 · Apps and Integrations: [[Changes/Replit/2026-01-09-made-with-replit-badge|Made with Replit badge]]
+- 2026-01-09 · Agent Mode: [[Changes/Replit/2026-01-09-ai-command-in-shell|AI command in Shell]]
+- 2026-01-09 · Apps and Integrations: [[Changes/Replit/2026-01-09-private-apps-for-free-accounts|Private apps for free accounts]]
+- 2026-01-09 · Automation and Scheduling: [[Changes/Replit/2026-01-09-automation-preview-for-agent-users|Automation preview for Agent users]]
+- 2026-01-02 · Collaboration: [[Changes/Replit/2026-01-02-the-replit-team-is-spending-time-with-friends-and-family-to-celebrate-the-holida|Replit updates — 2026-01-02]]
+
+**2025** · 243 cards
+
+- 2025-12-26 · Pricing Model: [[Changes/Replit/2025-12-26-credit-packs-holiday-sale|Credit packs holiday sale]]
+- 2025-12-26 · Reliability and Performance: [[Changes/Replit/2025-12-26-fast-build|Fast Build]]
+- 2025-12-26 · Safety and Privacy: [[Changes/Replit/2025-12-26-security-center-for-enterprise|Security Center for Enterprise]]
+- 2025-12-26 · Apps and Integrations: [[Changes/Replit/2025-12-26-replit-chatgpt-app|Replit ChatGPT App]]
+- 2025-12-26 · Enterprise and Administration: [[Changes/Replit/2025-12-26-teams-and-enterprise|Teams and Enterprise]]
+- 2025-12-26 · Pricing Model: [[Changes/Replit/2025-12-26-gift-cards|Gift cards]]
+- 2025-12-26 · Apps and Integrations: [[Changes/Replit/2025-12-26-replit-rewind-2025|Replit Rewind 2025]]
+- 2025-12-19 · Interface Experience: [[Changes/Replit/2025-12-19-status-dot-design-update|Status Dot Design Update]]
+- 2025-12-19 · Apps and Integrations: [[Changes/Replit/2025-12-19-custom-mcp-server-icons|Custom MCP Server Icons]]
+- 2025-12-12 · Apps and Integrations: [[Changes/Replit/2025-12-12-plaid-connector-for-enterprise|Plaid Connector for Enterprise]]
+- 2025-12-12 · Enterprise and Administration: [[Changes/Replit/2025-12-12-teams-and-enterprise|Teams and Enterprise]]
+- 2025-12-12 · Apps and Integrations: [[Changes/Replit/2025-12-12-agent-now-supports-custom-mcp-servers|Agent now supports custom MCP servers]]
+- 2025-12-05 · Reliability and Performance: [[Changes/Replit/2025-12-05-database-now-generally-available|Database now generally available]]
+- 2025-12-05 · Reliability and Performance: [[Changes/Replit/2025-12-05-fast-mode-handles-more-autonomously|Fast Mode handles more autonomously]]
+- 2025-12-05 · Agent Mode: [[Changes/Replit/2025-12-05-build-full-stack-mobile-apps-with-agent|Build full-stack mobile apps with Agent]]
+- 2025-12-05 · Reliability and Performance: [[Changes/Replit/2025-12-05-connect-third-party-services-faster|Connect third-party services faster]]
+- 2025-11-26 · Pricing Model: [[Changes/Replit/2025-11-26-stripe-integrated-payments-for-core-users|Stripe Integrated Payments for Core Users]]
+- 2025-11-26 · Search and Browsing: [[Changes/Replit/2025-11-26-better-search-rankings-for-custom-domains|Better search rankings for Custom Domains]]
+- 2025-11-21 · Apps and Integrations: [[Changes/Replit/2025-11-21-new-connector-todoist|New connector: Todoist]]
+- 2025-11-21 · Reliability and Performance: [[Changes/Replit/2025-11-21-fast-mode-now-available-to-everyone|Fast Mode now available to everyone]]
+- 2025-11-21 · Apps and Integrations: [[Changes/Replit/2025-11-21-enhanced-atlassian-connectors|Enhanced Atlassian connectors]]
+- 2025-11-21 · Enterprise and Administration: [[Changes/Replit/2025-11-21-teams-and-enterprise|Teams and Enterprise]]
+- 2025-11-21 · Safety and Privacy: [[Changes/Replit/2025-11-21-hounddog-privacy-scanning-integration|HoundDog privacy scanning integration]]
+- 2025-11-21 · Apps and Integrations: [[Changes/Replit/2025-11-21-enterprise-data-warehouse-connectors|Enterprise data warehouse connectors]]
+- 2025-11-21 · Model Support: [[Changes/Replit/2025-11-21-design-mode-create-stunning-websites-in-under-2-minutes|Design Mode: Create stunning websites in under 2 minutes]]
+- 2025-11-21 · Account and Access: [[Changes/Replit/2025-11-21-replit-auth-ui-improvements|Replit Auth UI improvements]]
+- 2025-11-16 · Developer Workflow: [[Changes/Replit/2025-11-16-gitlab-and-bitbucket-support|GitLab and Bitbucket support]]
+- 2025-11-16 · Apps and Integrations: [[Changes/Replit/2025-11-16-azure-marketplace-integration|Azure Marketplace integration]]
+- 2025-11-07 · Enterprise and Administration: [[Changes/Replit/2025-11-07-analytics-dashboard-for-enterprise-admins|Analytics dashboard for enterprise admins]]
+- 2025-11-07 · Agent Mode: [[Changes/Replit/2025-11-07-agent-tools-dropdown-in-planning-flow|Agent tools dropdown in planning flow]]
+- 2025-11-07 · Apps and Integrations: [[Changes/Replit/2025-11-07-connectors-support-for-remixing|Connectors support for remixing]]
+- 2025-11-07 · Enterprise and Administration: [[Changes/Replit/2025-11-07-teams-and-enterprise|Teams and Enterprise]]
+- 2025-11-07 · Agent Mode: [[Changes/Replit/2025-11-07-at-symbol-filename-support-in-agent|At symbol filename support in Agent]]
+- 2025-11-07 · Agent Mode: [[Changes/Replit/2025-11-07-animated-agent-icon|Animated agent icon]]
+- 2025-10-31 · Reliability and Performance: [[Changes/Replit/2025-10-31-custom-domain-verification-improvements|Custom domain verification improvements]]
+- 2025-10-31 · Enterprise and Administration: [[Changes/Replit/2025-10-31-teams-and-enterprise|Teams and Enterprise]]
+- 2025-10-31 · Apps and Integrations: [[Changes/Replit/2025-10-31-agentmail-connector|Agentmail connector]]
+- 2025-10-31 · Apps and Integrations: [[Changes/Replit/2025-10-31-zendesk-connector|Zendesk connector]]
+- 2025-10-31 · Apps and Integrations: [[Changes/Replit/2025-10-31-slash-command-connector-discovery|Slash command connector discovery]]
+- 2025-10-31 · Apps and Integrations: [[Changes/Replit/2025-10-31-salesforce-and-clickup-connectors|Salesforce and ClickUp connectors]]
+- 2025-10-31 · Enterprise and Administration: [[Changes/Replit/2025-10-31-bulk-delete-for-organizations|Bulk delete for organizations]]
+- 2025-10-24 · Agent Mode: [[Changes/Replit/2025-10-24-build-score-rating-system|Build Score rating system]]
+- 2025-10-24 · Enterprise and Administration: [[Changes/Replit/2025-10-24-teams-and-enterprise|Teams and Enterprise]]
+- 2025-10-24 · Account and Access: [[Changes/Replit/2025-10-24-sso-support-for-replit-auth-in-enterprise-apps|SSO support for Replit Auth in Enterprise apps]]
+- 2025-10-24 · Reliability and Performance: [[Changes/Replit/2025-10-24-plan-mode-improvements|Plan mode improvements]]
+- 2025-10-17 · Enterprise and Administration: [[Changes/Replit/2025-10-17-teams-and-enterprise|Teams and Enterprise]]
+- 2025-10-17 · Apps and Integrations: [[Changes/Replit/2025-10-17-clickup-integration|ClickUp integration]]
+- 2025-10-17 · Apps and Integrations: [[Changes/Replit/2025-10-17-build-mode-redesign-for-react-apps|Build mode redesign for React apps]]
+- 2025-10-10 · Reliability and Performance: [[Changes/Replit/2025-10-10-faster-agent-stopping|Faster agent stopping]]
+- 2025-10-10 · Safety and Privacy: [[Changes/Replit/2025-10-10-dependency-vulnerability-scanning|Dependency vulnerability scanning]]
+- 2025-10-10 · Collaboration: [[Changes/Replit/2025-10-10-support-seat-access-for-teams|Support seat access for teams]]
+- 2025-10-10 · Agent Mode: [[Changes/Replit/2025-10-10-agent-usage-cost-visibility|Agent usage cost visibility]]
+- 2025-10-10 · Enterprise and Administration: [[Changes/Replit/2025-10-10-teams-and-enterprise|Teams and Enterprise]]
+- 2025-10-10 · Reliability and Performance: [[Changes/Replit/2025-10-10-github-import-improvements|GitHub import improvements]]
+- 2025-10-10 · Agent Mode: [[Changes/Replit/2025-10-10-webview-logging-experience|Webview logging experience]]
+- 2025-10-10 · Editor Experience: [[Changes/Replit/2025-10-10-escape-key-for-visual-select-edit-mode|Escape key for Visual Select/Edit mode]]
+- 2025-10-03 · Search and Browsing: [[Changes/Replit/2025-10-03-app-themes-font-improvements|App Themes font improvements]]
+- 2025-10-03 · Apps and Integrations: [[Changes/Replit/2025-10-03-vercel-import-integration|Vercel import integration]]
+- 2025-10-03 · Enterprise and Administration: [[Changes/Replit/2025-10-03-teams-and-enterprise|Teams and Enterprise]]
+- 2025-10-03 · Apps and Integrations: [[Changes/Replit/2025-10-03-connectors-admin-management|Connectors admin management]]
+- 2025-10-03 · Apps and Integrations: [[Changes/Replit/2025-10-03-git-source-control-enhancements|Git source control enhancements]]
+- 2025-10-03 · Apps and Integrations: [[Changes/Replit/2025-10-03-connectors-platform-launch|Connectors platform launch]]
+- 2025-09-26 · Safety and Privacy: [[Changes/Replit/2025-09-26-security-scan-in-deployment|Security scan in deployment]]
+- 2025-09-26 · Enterprise and Administration: [[Changes/Replit/2025-09-26-teams-and-enterprise|Teams and Enterprise]]
+- 2025-09-26 · Safety and Privacy: [[Changes/Replit/2025-09-26-security-scan-enforcement-for-enterprises|Security scan enforcement for enterprises]]
+- 2025-09-26 · Agent Mode: [[Changes/Replit/2025-09-26-agent-playground-testing-improvements|Agent playground testing improvements]]
+- 2025-09-19 · Agent Mode: [[Changes/Replit/2025-09-19-autonomy-level-control-for-agent|Autonomy level control for Agent]]
+- 2025-09-19 · Editor Experience: [[Changes/Replit/2025-09-19-soc-2-pentest-completion|SOC 2 pentest completion]]
+- 2025-09-19 · Reliability and Performance: [[Changes/Replit/2025-09-19-faster-user-deletion-in-clui|Faster user deletion in CLUI]]
+- 2025-09-19 · Enterprise and Administration: [[Changes/Replit/2025-09-19-teams-and-enterprise|Teams and enterprise]]
+- 2025-09-19 · Apps and Integrations: [[Changes/Replit/2025-09-19-mobile-connectors-support|Mobile connectors support]]
+- 2025-09-19 · Collaboration: [[Changes/Replit/2025-09-19-deploy-is-now-publish|'Deploy' is now 'Publish']]
+- 2025-09-19 · Safety and Privacy: [[Changes/Replit/2025-09-19-malicious-file-detection|Malicious file detection]]
+- 2025-09-19 · Safety and Privacy: [[Changes/Replit/2025-09-19-supply-chain-attack-blocking|Supply chain attack blocking]]
+- 2025-09-19 · Collaboration: [[Changes/Replit/2025-09-19-email-copying-from-members-page|Email copying from members page]]
+- 2025-09-12 · Apps and Integrations: [[Changes/Replit/2025-09-12-app-connectors-and-integrations|App connectors and integrations]]
+- 2025-09-12 · Agent Mode: [[Changes/Replit/2025-09-12-agent-3-launch|Agent 3 Launch]]
+- 2025-09-12 · Agent Mode: [[Changes/Replit/2025-09-12-agents-automations-beta|Agents & Automations (beta)]]
+- 2025-09-05 · Agent Mode: [[Changes/Replit/2025-09-05-plan-mode|Plan mode]]
+- 2025-09-05 · Apps and Integrations: [[Changes/Replit/2025-09-05-gcp-marketplace-integration|GCP Marketplace integration]]
+- 2025-09-05 · Agent Mode: [[Changes/Replit/2025-09-05-general-agent|General Agent]]
+- 2025-08-29 · Collaboration: [[Changes/Replit/2025-08-29-app-themes|App themes]]
+- 2025-08-29 · Pricing Model: [[Changes/Replit/2025-08-29-organization-subscription-cancellation|Organization subscription cancellation]]
+- 2025-08-29 · Apps and Integrations: [[Changes/Replit/2025-08-29-shareable-app-creation-links|Shareable app creation links]]
+- 2025-08-29 · Safety and Privacy: [[Changes/Replit/2025-08-29-security-rating-improvement|Security rating improvement]]
+- 2025-08-29 · Agent Mode: [[Changes/Replit/2025-08-29-agent-infrastructure-upgrades|Agent infrastructure upgrades]]
+- 2025-08-22 · Enterprise and Administration: [[Changes/Replit/2025-08-22-teams-and-enterprise|Teams and Enterprise]]
+- 2025-08-22 · Enterprise and Administration: [[Changes/Replit/2025-08-22-multiple-sso-providers-for-enterprise|Multiple SSO providers for Enterprise]]
+- 2025-08-22 · Safety and Privacy: [[Changes/Replit/2025-08-22-soc-2-type-ii-certification|SOC 2 Type II certification]]
+- 2025-08-15 · Reliability and Performance: [[Changes/Replit/2025-08-15-this-week-was-focused-on-bug-fixes-and-performance-improvements|This week was focused on bug fixes and performance improvements]]
+- 2025-08-15 · Other changes: [[Changes/Replit/2025-08-15-we-re-gearing-up-for-something-big-stay-tuned|We're gearing up for something big, stay tuned!]]
+- 2025-08-08 · Editor Experience: [[Changes/Replit/2025-08-08-visual-editor-focus-improvement|Visual Editor focus improvement]]
+- 2025-08-08 · Mobile and Desktop: [[Changes/Replit/2025-08-08-live-activities-on-ios|Live activities on iOS]]
+- 2025-08-08 · Collaboration: [[Changes/Replit/2025-08-08-replit-app-to-organization-transfer|Replit App to Organization transfer]]
+- 2025-08-08 · Enterprise and Administration: [[Changes/Replit/2025-08-08-enterprise|Enterprise]]
+- 2025-08-08 · Collaboration: [[Changes/Replit/2025-08-08-streamline-your-team-management-with-enhanced-scim-https-docs-replit-com-teams-i|Streamline your team management with enhanced…]]
+- 2025-08-08 · Image Generation: [[Changes/Replit/2025-08-08-image-generation-full-rollout|Image generation full rollout]]
+- 2025-08-08 · Other changes: [[Changes/Replit/2025-08-08-platform|Platform]]
+- 2025-08-08 · Context Window: [[Changes/Replit/2025-08-08-improved-filesystem-search|Improved filesystem search]]
+- 2025-08-08 · Account and Access: [[Changes/Replit/2025-08-08-object-storage-agent-integration|Object Storage Agent integration]]
+- 2025-08-01 · Interface Experience: [[Changes/Replit/2025-08-01-theme-toggle-in-avatar-dropdown|Theme toggle in avatar dropdown]]
+- 2025-08-01 · Agent Mode: [[Changes/Replit/2025-08-01-agent-now-has-access-to-replit-docs|Agent now has access to Replit Docs]]
+- 2025-08-01 · Interface Experience: [[Changes/Replit/2025-08-01-visual-editor-color-picker-improvement|Visual editor color picker improvement]]
+- 2025-07-25 · Apps and Integrations: [[Changes/Replit/2025-07-25-domains-improvements|Domains improvements]]
+- 2025-07-25 · Agent Mode: [[Changes/Replit/2025-07-25-queue|Queue]]
+- 2025-07-18 · Mobile and Desktop: [[Changes/Replit/2025-07-18-mobile-push-notifications-for-usage-alerts|Mobile push notifications for usage alerts]]
+- 2025-07-18 · Model Support: [[Changes/Replit/2025-07-18-llm-routing-improvements|LLM routing improvements]]
+- 2025-07-11 · Agent Mode: [[Changes/Replit/2025-07-11-agent-multi-tool-calling-upgrade|Agent multi-tool calling upgrade]]
+- 2025-07-11 · Projects and Workspaces: [[Changes/Replit/2025-07-11-replit-md-documentation|replit.md documentation]]
+- 2025-07-11 · Safety and Privacy: [[Changes/Replit/2025-07-11-deployment-privacy-indicators|Deployment privacy indicators]]
+- 2025-07-04 · Pricing Model: [[Changes/Replit/2025-07-04-effort-based-billing|Effort-based billing]]
+- 2025-07-04 · Search and Browsing: [[Changes/Replit/2025-07-04-web-search-for-agent|Web Search for Agent]]
+- 2025-07-04 · Enterprise and Administration: [[Changes/Replit/2025-07-04-teams-and-enterprise|Teams and Enterprise]]
+- 2025-07-04 · Search and Browsing: [[Changes/Replit/2025-07-04-gallery|Gallery]]
+- 2025-07-04 · Collaboration: [[Changes/Replit/2025-07-04-teams-app-store-experience|Teams App Store experience]]
+- 2025-07-04 · Agent Mode: [[Changes/Replit/2025-07-04-custom-agent-instructions|Custom Agent Instructions]]
+- 2025-07-04 · Reliability and Performance: [[Changes/Replit/2025-07-04-improved-icons|Improved icons]]
+- 2025-06-27 · Safety and Privacy: [[Changes/Replit/2025-06-27-security-scanner-updates|Security scanner updates]]
+- 2025-06-27 · Agent Mode: [[Changes/Replit/2025-06-27-new-app-creation-experience|New app creation experience]]
+- 2025-06-27 · Agent Mode: [[Changes/Replit/2025-06-27-agent-system-prompt-optimization|Agent system prompt optimization]]
+- 2025-06-27 · Mobile and Desktop: [[Changes/Replit/2025-06-27-new-app-store-screenshots|New App Store screenshots]]
+- 2025-06-27 · Apps and Integrations: [[Changes/Replit/2025-06-27-new-landing-page-for-viewer-seats|New landing page for viewer seats]]
+- 2025-06-27 · Enterprise and Administration: [[Changes/Replit/2025-06-27-teams-and-enterprise|Teams and Enterprise]]
+- 2025-06-27 · Pricing Model: [[Changes/Replit/2025-06-27-organization-suspension-from-ubb-services|Organization suspension from UBB services]]
+- 2025-06-20 · Reliability and Performance: [[Changes/Replit/2025-06-20-python-run-performance-improvements|Python run performance improvements]]
+- 2025-06-20 · Safety and Privacy: [[Changes/Replit/2025-06-20-security-scanner-improvements|Security scanner improvements]]
+- 2025-06-20 · Safety and Privacy: [[Changes/Replit/2025-06-20-view-live-app-button|View live app button]]
+- 2025-06-20 · Safety and Privacy: [[Changes/Replit/2025-06-20-deployment-prevention|Deployment prevention]]
+- 2025-06-13 · Enterprise and Administration: [[Changes/Replit/2025-06-13-teams-and-enterprise|Teams and Enterprise]]
+- 2025-06-13 · Mobile and Desktop: [[Changes/Replit/2025-06-13-workspace-quality-improvements|Workspace quality improvements]]
+- 2025-06-13 · Mobile and Desktop: [[Changes/Replit/2025-06-13-mobile-app-update|Mobile app update]]
+- 2025-06-13 · Reliability and Performance: [[Changes/Replit/2025-06-13-infrastructure-improvements|Infrastructure improvements]]
+- 2025-06-13 · Collaboration: [[Changes/Replit/2025-06-13-organization-app-sharing-improvement|Organization app sharing improvement]]
+- 2025-06-13 · Collaboration: [[Changes/Replit/2025-06-13-teams-members-page-improvements|Teams members page improvements]]
+- 2025-06-06 · Collaboration: [[Changes/Replit/2025-06-06-teams-viewer-seat-management|Teams viewer seat management]]
+- 2025-06-06 · Agent Mode: [[Changes/Replit/2025-06-06-new-agent-entrypoints-in-workspace|New Agent entrypoints in workspace]]
+- 2025-06-06 · Enterprise and Administration: [[Changes/Replit/2025-06-06-csv-export-for-teams-admins|CSV export for Teams admins]]
+- 2025-06-06 · Enterprise and Administration: [[Changes/Replit/2025-06-06-teams-and-enterprise|Teams and Enterprise]]
+- 2025-06-06 · Editor Experience: [[Changes/Replit/2025-06-06-visual-editor-image-management|Visual Editor image management]]
+- 2025-05-30 · Reliability and Performance: [[Changes/Replit/2025-05-30-ai-latency-improvements|AI latency improvements]]
+- 2025-05-30 · Agent Mode: [[Changes/Replit/2025-05-30-preview-empty-state-improvements|Preview empty state improvements]]
+- 2025-05-30 · Enterprise and Administration: [[Changes/Replit/2025-05-30-scim-provisioning-streamlined|SCIM provisioning streamlined]]
+- 2025-05-30 · Editor Experience: [[Changes/Replit/2025-05-30-unified-github-tab-refresh|Unified GitHub tab refresh]]
+- 2025-05-30 · Mobile and Desktop: [[Changes/Replit/2025-05-30-ios-app-payment-support|iOS app payment support]]
+- 2025-05-30 · Apps and Integrations: [[Changes/Replit/2025-05-30-stripe-checkout-release|Stripe Checkout release]]
+- 2025-05-30 · Enterprise and Administration: [[Changes/Replit/2025-05-30-teams-and-enterprise|Teams and Enterprise]]
+- 2025-05-23 · Editor Experience: [[Changes/Replit/2025-05-23-visual-editor-rollout|Visual Editor rollout]]
+- 2025-05-23 · Model Support: [[Changes/Replit/2025-05-23-sonnet-4-in-agent|Sonnet 4 in Agent]]
+- 2025-05-23 · Reliability and Performance: [[Changes/Replit/2025-05-23-faster-agent-responses|Faster Agent responses]]
+- 2025-05-23 · Enterprise and Administration: [[Changes/Replit/2025-05-23-teams-and-enterprise|Teams and Enterprise]]
+- 2025-05-23 · Collaboration: [[Changes/Replit/2025-05-23-extended-app-preview-time|Extended app preview time]]
+- 2025-05-23 · Collaboration: [[Changes/Replit/2025-05-23-team-member-app-transfers|Team member app transfers]]
+- 2025-05-23 · Safety and Privacy: [[Changes/Replit/2025-05-23-private-development-urls|Private Development URLs]]
+- 2025-05-16 · Safety and Privacy: [[Changes/Replit/2025-05-16-this-week-s-release-is-all-about-safety-and-security-replit-has-added-a-new-secu|This week's release is all about safety and security]]
+- 2025-05-16 · Interface Experience: [[Changes/Replit/2025-05-16-full-screen-email-verification|Full-screen email verification]]
+- 2025-05-16 · Enterprise and Administration: [[Changes/Replit/2025-05-16-scim-for-enterprise-customers|SCIM for Enterprise customers]]
+- 2025-05-16 · Agent Mode: [[Changes/Replit/2025-05-16-ask-agent-to-add-a-database|Ask Agent to add a database]]
+- 2025-05-16 · Context Window: [[Changes/Replit/2025-05-16-replit-time-travel|Replit time travel]]
+- 2025-05-16 · Enterprise and Administration: [[Changes/Replit/2025-05-16-teams-and-enterprise|Teams and Enterprise]]
+- 2025-05-16 · Safety and Privacy: [[Changes/Replit/2025-05-16-security-scans|Security scans]]
+- 2025-05-16 · Reliability and Performance: [[Changes/Replit/2025-05-16-google-analytics-blueprint|Google Analytics blueprint]]
+- 2025-05-16 · Collaboration: [[Changes/Replit/2025-05-16-viewer-seats-for-replit-teams|Viewer seats for Replit Teams]]
+- 2025-05-16 · Account and Access: [[Changes/Replit/2025-05-16-replit-auth-matching-by-default|Replit Auth matching by default]]
+- 2025-05-09 · Apps and Integrations: [[Changes/Replit/2025-05-09-notion-integration|Notion integration]]
+- 2025-05-09 · Apps and Integrations: [[Changes/Replit/2025-05-09-paypal-checkout-integration|PayPal checkout integration]]
+- 2025-05-09 · Safety and Privacy: [[Changes/Replit/2025-05-09-enhanced-enterprise-deployment-privacy-settings|Enhanced enterprise deployment privacy settings]]
+- 2025-05-09 · Enterprise and Administration: [[Changes/Replit/2025-05-09-teams-and-enterprise|Teams and Enterprise]]
+- 2025-05-02 · Account and Access: [[Changes/Replit/2025-05-02-replit-auth|Replit Auth]]
+- 2025-05-02 · Reliability and Performance: [[Changes/Replit/2025-05-02-app-type-selector-fully-launched|App type selector fully launched]]
+- 2025-05-02 · Enterprise and Administration: [[Changes/Replit/2025-05-02-teams-and-enterprise|Teams and Enterprise]]
+- 2025-05-02 · Collaboration: [[Changes/Replit/2025-05-02-replit-teams-annual-plan|Replit Teams Annual plan]]
+- 2025-04-25 · Agent Mode: [[Changes/Replit/2025-04-25-mobile-app-agent-tour-and-deployments-in-dock|Mobile app Agent tour and deployments in dock]]
+- 2025-04-25 · Safety and Privacy: [[Changes/Replit/2025-04-25-advanced-privacy-settings-for-teams|Advanced privacy settings for teams]]
+- 2025-04-25 · Collaboration: [[Changes/Replit/2025-04-25-team-invitation-improvements|Team invitation improvements]]
+- 2025-04-25 · Enterprise and Administration: [[Changes/Replit/2025-04-25-teams-and-enterprise|Teams and Enterprise]]
+- 2025-04-18 · Enterprise and Administration: [[Changes/Replit/2025-04-18-enhanced-app-restoration|Enhanced app restoration]]
+- 2025-04-18 · Enterprise and Administration: [[Changes/Replit/2025-04-18-teams-and-enterprise|Teams and Enterprise]]
+- 2025-04-18 · Agent Mode: [[Changes/Replit/2025-04-18-streamlined-agent-progress-ux|Streamlined Agent progress UX]]
+- 2025-04-18 · Collaboration: [[Changes/Replit/2025-04-18-bulk-organization-invites|Bulk organization invites]]
+- 2025-04-18 · Developer Workflow: [[Changes/Replit/2025-04-18-clearer-checkpoint-titles|Clearer checkpoint titles]]
+- 2025-04-18 · Editor Experience: [[Changes/Replit/2025-04-18-dev-preview-url-education|Dev preview URL education]]
+- 2025-04-18 · Apps and Integrations: [[Changes/Replit/2025-04-18-smarter-integrations-matching|Smarter integrations matching]]
+- 2025-04-18 · Reliability and Performance: [[Changes/Replit/2025-04-18-faster-ai-responses|Faster AI responses]]
+- 2025-04-11 · Apps and Integrations: [[Changes/Replit/2025-04-11-app-idea-generator-for-logged-out-visitors|App idea generator for logged-out visitors]]
+- 2025-04-04 · Agent Mode: [[Changes/Replit/2025-04-04-agent-reliability-improvements|Agent reliability improvements]]
+- 2025-04-04 · Agent Mode: [[Changes/Replit/2025-04-04-better-icons|Better icons]]
+- 2025-04-04 · Model Support: [[Changes/Replit/2025-04-04-3d-model-generation-milestone|3D model generation milestone]]
+- 2025-04-04 · Reliability and Performance: [[Changes/Replit/2025-04-04-assistant-performance-improvements|Assistant performance improvements]]
+- 2025-03-28 · Pricing Model: [[Changes/Replit/2025-03-28-invoice-threshold-update|Invoice threshold update]]
+- 2025-03-28 · Agent Mode: [[Changes/Replit/2025-03-28-agent-v2-is-now-available|Agent v2 is now available]]
+- 2025-03-28 · Multimodal Input: [[Changes/Replit/2025-03-28-deeplearningai-course-launch|DeepLearningAI course launch]]
+- 2025-03-21 · Agent Mode: [[Changes/Replit/2025-03-21-agent-timeline-messages|Agent timeline messages]]
+- 2025-03-21 · Editor Experience: [[Changes/Replit/2025-03-21-visual-editor|Visual Editor]]
+- 2025-03-14 · Reliability and Performance: [[Changes/Replit/2025-03-14-web-view-performance-improvements|Web View performance improvements]]
+- 2025-03-14 · Pricing Model: [[Changes/Replit/2025-03-14-neon-db-history-retention|Neon DB history retention]]
+- 2025-03-14 · Context Window: [[Changes/Replit/2025-03-14-enhanced-link-context-features|Enhanced link context features]]
+- 2025-03-14 · Model Support: [[Changes/Replit/2025-03-14-assistant-model-selection|Assistant model selection]]
+- 2025-03-07 · Mobile and Desktop: [[Changes/Replit/2025-03-07-first-look-at-the-new-mobile-app|First look at the new mobile app]]
+- 2025-03-07 · Mobile and Desktop: [[Changes/Replit/2025-03-07-mobile-app-webview-improvements|Mobile App Webview improvements]]
+- 2025-02-28 · Model Support: [[Changes/Replit/2025-02-28-better-documentation|Better documentation]]
+- 2025-02-28 · Agent Mode: [[Changes/Replit/2025-02-28-agent-v2|Agent v2]]
+- 2025-02-28 · Reliability and Performance: [[Changes/Replit/2025-02-28-database-performance-improvement|Database performance improvement]]
+- 2025-02-28 · Agent Mode: [[Changes/Replit/2025-02-28-deployment-improvements|Deployment improvements]]
+- 2025-02-28 · Model Support: [[Changes/Replit/2025-02-28-claude-3-7-sonnet-release|Claude 3.7 Sonnet release]]
+- 2025-02-21 · Apps and Integrations: [[Changes/Replit/2025-02-21-replit-grok|Replit 🤝 Grok]]
+- 2025-02-21 · Agent Mode: [[Changes/Replit/2025-02-21-improved-international-character-support-in-screenshots|Improved international character support in screenshots]]
+- 2025-02-21 · Apps and Integrations: [[Changes/Replit/2025-02-21-one-click-deploy-for-assistant|One-click deploy for Assistant]]
+- 2025-02-21 · Mobile and Desktop: [[Changes/Replit/2025-02-21-replit-expo|Replit 🤝 Expo]]
+- 2025-02-14 · Pricing Model: [[Changes/Replit/2025-02-14-social-coding-challenges|Social coding challenges]]
+- 2025-02-14 · Agent Mode: [[Changes/Replit/2025-02-14-agent-updates|Agent updates]]
+- 2025-02-14 · Reliability and Performance: [[Changes/Replit/2025-02-14-object-storage|Object Storage]]
+- 2025-02-14 · Mobile and Desktop: [[Changes/Replit/2025-02-14-mobile-development|Mobile development]]
+- 2025-02-07 · Mobile and Desktop: [[Changes/Replit/2025-02-07-replit-mobile|Replit Mobile]]
+- 2025-02-07 · Reliability and Performance: [[Changes/Replit/2025-02-07-improved-database-viewer|Improved database viewer]]
+- 2025-02-07 · Agent Mode: [[Changes/Replit/2025-02-07-new-replit-app-cover-pages|New Replit App cover pages]]
+- 2025-02-07 · Agent Mode: [[Changes/Replit/2025-02-07-agent-is-now-free-to-try|Agent is now free to try]]
+- 2025-02-07 · Agent Mode: [[Changes/Replit/2025-02-07-agent-actions|Agent actions]]
+- 2025-01-31 · Agent Mode: [[Changes/Replit/2025-01-31-more-performant-agent-in-asia|More performant Agent in Asia]]
+- 2025-01-31 · Apps and Integrations: [[Changes/Replit/2025-01-31-repl-app|Repl - App]]
+- 2025-01-31 · Search and Browsing: [[Changes/Replit/2025-01-31-object-storage-improvements|Object Storage improvements]]
+- 2025-01-31 · Editor Experience: [[Changes/Replit/2025-01-31-de-cluttered-diffs|De-cluttered diffs]]
+- 2025-01-31 · Account and Access: [[Changes/Replit/2025-01-31-x-login|X login]]
+- 2025-01-24 · Reliability and Performance: [[Changes/Replit/2025-01-24-better-zips|Better Zips]]
+- 2025-01-24 · Apps and Integrations: [[Changes/Replit/2025-01-24-assistant-workflows|Assistant + Workflows]]
+- 2025-01-24 · Reliability and Performance: [[Changes/Replit/2025-01-24-autoscale-deployment-optimizations|Autoscale deployment optimizations]]
+- 2025-01-17 · Mobile and Desktop: [[Changes/Replit/2025-01-17-web-view-mobile-support|Web view mobile support]]
+- 2025-01-17 · Developer Workflow: [[Changes/Replit/2025-01-17-assistant-inline-shell-commands|Assistant inline shell commands]]
+- 2025-01-17 · Apps and Integrations: [[Changes/Replit/2025-01-17-sendgrid-integration|SendGrid integration]]
+- 2025-01-10 · Agent Mode: [[Changes/Replit/2025-01-10-agent-and-assistant-improvements|Agent and Assistant improvements]]
+- 2025-01-10 · Enterprise and Administration: [[Changes/Replit/2025-01-10-teams-and-enterprise|Teams and Enterprise]]
+- 2025-01-10 · Other changes: [[Changes/Replit/2025-01-10-another-great-week-of-updates|Another great week of updates!]]
+- 2025-01-10 · Mobile and Desktop: [[Changes/Replit/2025-01-10-teams-mobile-search|Teams mobile search]]
+- 2025-01-10 · Editor Experience: [[Changes/Replit/2025-01-10-shell-bash-completion|Shell bash completion]]
+- 2025-01-10 · Apps and Integrations: [[Changes/Replit/2025-01-10-slack-integration|Slack integration]]
+- 2025-01-03 · Interface Experience: [[Changes/Replit/2025-01-03-menu-search-feature|Menu search feature]]
+- 2025-01-03 · Apps and Integrations: [[Changes/Replit/2025-01-03-react-by-default|React by default]]
+- 2025-01-03 · Enterprise and Administration: [[Changes/Replit/2025-01-03-teams-and-enterprise|Teams and Enterprise]]
+- 2025-01-03 · Collaboration: [[Changes/Replit/2025-01-03-the-team-took-some-time-to-recharge-but-updates-keep-coming|The team took some time to recharge, but updates keep coming]]
+- 2025-01-03 · Other changes: [[Changes/Replit/2025-01-03-happy-new-year|🎆 Happy New Year!]]
+- 2025-01-03 · Apps and Integrations: [[Changes/Replit/2025-01-03-xai-integration|xAI integration]]
+- 2025-01-03 · Account and Access: [[Changes/Replit/2025-01-03-replit-teams-login|Replit Teams login]]
+- 2025-01-03 · Reliability and Performance: [[Changes/Replit/2025-01-03-custom-domain-error-handling|Custom domain error handling]]
+- 2025-01-03 · Pricing Model: [[Changes/Replit/2025-01-03-neon-database-improvements|Neon database improvements]]
+
+**2024** · 22 cards
+
+- 2024-12-27 · Enterprise and Administration: [[Changes/Replit/2024-12-27-teams-and-enterprise|Teams and Enterprise]]
+- 2024-12-27 · Agent Mode: [[Changes/Replit/2024-12-27-database-polish|Database polish]]
+- 2024-12-27 · Other changes: [[Changes/Replit/2024-12-27-happy-holidays|Happy Holidays!]]
+- 2024-12-27 · Collaboration: [[Changes/Replit/2024-12-27-replit-teams-updates|Replit Teams updates]]
+- 2024-12-27 · Agent Mode: [[Changes/Replit/2024-12-27-agent-improvements|Agent improvements]]
+- 2024-12-27 · Apps and Integrations: [[Changes/Replit/2024-12-27-integrations|Integrations]]
+- 2024-12-27 · Voice and Audio: [[Changes/Replit/2024-12-27-build-notifications|Build notifications]]
+- 2024-12-20 · Other changes: [[Changes/Replit/2024-12-20-updates-have-been-rolling-out-straight-into-the-holiday-season-before-getting-in|Updates have been rolling out straight into the holiday season]]
+- 2024-12-20 · Agent Mode: [[Changes/Replit/2024-12-20-recommendation-system|Recommendation system]]
+- 2024-12-20 · Agent Mode: [[Changes/Replit/2024-12-20-database-notifications|Database notifications]]
+- 2024-12-20 · Apps and Integrations: [[Changes/Replit/2024-12-20-integration-visibility|Integration visibility]]
+- 2024-12-20 · Developer Workflow: [[Changes/Replit/2024-12-20-workflows|Workflows]]
+- 2024-12-13 · Apps and Integrations: [[Changes/Replit/2024-12-13-build-beautiful-apps|Build Beautiful Apps]]
+- 2024-12-13 · Apps and Integrations: [[Changes/Replit/2024-12-13-more-beautiful-apps-improved-support-for-responsive-react-apps-allows-you-to-cre|More Beautiful Apps: Improved support for responsive React apps allows you…]]
+- 2024-12-13 · Editor Experience: [[Changes/Replit/2024-12-13-3-editor-experience-changes-in-replit-updates-2024-12-13|3 Editor Experience changes in Replit updates — 2024-12-13]]
+- 2024-12-13 · Agent Mode: [[Changes/Replit/2024-12-13-rapid-scraping-screenshots|Rapid Scraping / Screenshots]]
+- 2024-12-13 · Other changes: [[Changes/Replit/2024-12-13-2-other-changes-in-replit-updates-2024-12-13|2 other changes in Replit updates — 2024-12-13]]
+- 2024-12-13 · Agent Mode: [[Changes/Replit/2024-12-13-usage-updates-you-ll-love|Usage Updates You’ll Love]]
+- 2024-12-13 · Editor Experience: [[Changes/Replit/2024-12-13-rollback-with-ease|Rollback with Ease]]
+- 2024-12-13 · Pricing Model: [[Changes/Replit/2024-12-13-billing-updates-all-usage-limits-for-agent-have-been-removed-and-the-credits-inc|Billing updates: All usage limits for Agent have been removed, and the credits…]]
+- 2024-12-13 · Agent Mode: [[Changes/Replit/2024-12-13-2-agent-mode-changes-in-replit-updates-2024-12-13|2 Agent Mode changes in Replit updates — 2024-12-13]]
+- 2024-12-13 · Editor Experience: [[Changes/Replit/2024-12-13-assistant-features|Assistant Features]]
+
+</details>
+<!-- chronolog:end -->

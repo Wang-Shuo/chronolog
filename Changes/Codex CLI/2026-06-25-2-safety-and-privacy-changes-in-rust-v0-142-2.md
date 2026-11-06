@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: cad1f24d10e786fe78cfbff9a5737e4a92f011ee3db7e28894a7dad24ec2e5e6
+machine_hash: 0bbb1cd5efe01d9f2819c1777a18c44311ac0ba3a842ebdfd2cf7d8680c76eb6
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -44,8 +44,8 @@ record:
   title: 2 Safety and Privacy changes in rust-v0.142.2
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-06-23-6-safety-and-privacy-changes-in-v1-0-64|6
-  Safety and Privacy changes in v1.0.64]]'
+- '[[Changes/Lovable/2026-06-23-restrict-external-collaborators-without-enforcing-sso|Restrict
+  external collaborators without enforcing SSO]]'
 - '[[Changes/Claude Code/2026-06-24-improved-sandbox-network-permission-dialog-hosts-you-allow-with-yes-are-now-reme|Improved
   sandbox network permission dialog]]'
 - '[[Changes/GitHub Copilot CLI/2026-06-24-commands-with-slash-prefixed-string-arguments-e-g-body-azp-run-no-longer-trigger|Commands
@@ -89,7 +89,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.142.2
 ## Nearby in Safety and Privacy
 
 - Earlier: 2026-06-24 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-06-24-commands-with-slash-prefixed-string-arguments-e-g-body-azp-run-no-longer-trigger|Commands with slash-prefixed string arguments (e.g. --body "/azp run") no longer…]]
-- Later: 2026-06-26 · Claude Code · [[Changes/Claude Code/2026-06-26-fixed-external-plugins-enabled-only-by-project-claude-settings-json-not-requirin|Fixed external plugins enabled only by project .claude/settings.json not requiring…]]
+- Later: 2026-06-25 · Dify · [[Changes/Dify/2026-06-25-14-safety-and-privacy-changes-in-1-15-0|14 Safety and Privacy changes in 1.15.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

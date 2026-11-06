@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 88adcada8b1fd4d8e95bb0914f73a10bfe2f4c2bf3a7c8eeb44eeee908e70711
+machine_hash: 62c2e5bed22e3595a3f2bf7fe9e6fcf8adf83f699640df0f7d332425d8cf714b
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -44,10 +44,10 @@ record:
   title: 3 Safety and Privacy changes in rust-v0.73.0
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2025-12-09-add-consent-flag-to-link-command-by-kevinjwang1-in-https-github-com-google-gemin|Add
-  consent flag to Link command]]'
-- '[[Changes/Codex CLI/2025-12-10-5-safety-and-privacy-changes-in-rust-v0-69-0|5 Safety
-  and Privacy changes in rust-v0.69.0]]'
+- '[[Changes/v0/2025-12-12-cve-2025-55184-denial-of-service-dos-vulnerability|CVE-2025-55184
+  : Denial of Service (DoS) vulnerability]]'
+- '[[Changes/v0/2025-12-12-cve-2025-55183-source-code-disclosure-vulnerability|CVE-2025-55183
+  : Source code disclosure vulnerability]]'
 - '[[Changes/Codex CLI/2025-12-13-3-safety-and-privacy-changes-in-rust-v0-72-0|3 Safety
   and Privacy changes in rust-v0.72.0]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2025-12-15-rust-v0-73-0-github-270562118-b6e8102c|codex-cli-2025-12-15-rust-v0-73-0-github-270562118-b6e8102c]]'

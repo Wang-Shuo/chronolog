@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: memory
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: c9802da05d37a5ae2ae4773a91eb24a953252f3b2df9aeeebc156f0f0a8caaba
+machine_hash: 9c626de89484d25bc8db9ea7a1723ec1ad49dfe0d2d460f9583c0c2ac168ec59
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -43,12 +43,12 @@ record:
     compaction
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-02-11-add-instructions-command-to-view-and-toggle-custom-instruction-files|Add
-  /instructions command to view and toggle custom instruction files]]'
 - '[[Changes/Codex CLI/2026-02-12-11-memory-and-personalization-changes-in-rust-v0-100-0|11
   Memory and Personalization changes in rust-v0.100.0]]'
 - '[[Changes/Codex CLI/2026-02-12-6-memory-and-personalization-changes-in-rust-v0-101-0|6
   Memory and Personalization changes in rust-v0.101.0]]'
+- '[[Changes/Open WebUI/2026-02-12-2-memory-and-personalization-changes-in-v0-8-0|2
+  Memory and Personalization changes in v0.8.0]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-02-14-v0-0-410-github-286297809-871b7096|github-copilot-cli-2026-02-14-v0-0-410-github-286297809-871b7096]]'
 source_type: github_releases
 theme: memory
@@ -82,7 +82,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Memory and Personalization
 
-- Earlier: 2026-02-12 · Codex CLI · [[Changes/Codex CLI/2026-02-12-6-memory-and-personalization-changes-in-rust-v0-101-0|6 Memory and Personalization changes in rust-v0.101.0]]
+- Earlier: 2026-02-12 · Open WebUI · [[Changes/Open WebUI/2026-02-12-2-memory-and-personalization-changes-in-v0-8-0|2 Memory and Personalization changes in v0.8.0]]
 - Later: 2026-02-17 · Codex CLI · [[Changes/Codex CLI/2026-02-17-4-memory-and-personalization-changes-in-rust-v0-102-0|4 Memory and Personalization changes in rust-v0.102.0]]
 <!-- chronolog:end -->
 

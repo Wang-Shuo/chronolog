@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: 302c5d6bc5251c1d7dc1ca6c75063789592fcc599a17da0c80146337bc30fc3c
+machine_hash: fd2645a749f2066ea6d116b4088376d9c4df0f07cc2272b5d5542ca10282092c
 product: cursor
 product_name: Cursor
 record:
@@ -60,10 +60,10 @@ record:
   title: 'UI refresh: Phase one of a fresh coat of paint with new default Cursor themes…'
   type: change
 related_changes:
-- '[[Changes/Aider/2025-01-31-improved-handling-of-context-window-size-limits-with-better-messaging-and-ollama|Improved
-  handling of context window size limits, with better messaging…]]'
 - '[[Changes/Aider/2025-02-06-dynamically-changes-the-ollama-context-window-to-hold-the-current-chat|Dynamically
   changes the Ollama context window to hold the current chat]]'
+- '[[Changes/Dify/2025-02-07-feat-add-completion-mode-and-context-size-options-for-llm-configuration-by-laipz|feat:
+  add completion mode and context size options for LLM configuration]]'
 - '[[Changes/Cline/2025-02-19-new-advanced-setting-to-disable-the-browser-tool-improved-support-for-aws-bedroc|New
   advanced setting to disable the browser tool, improved support for AWS Bedrock…]]'
 source_release: '[[Releases/Cursor/cursor-2025-02-19-0-46-x-https-cursor-com-changelog-0-46-x-640a0a10|cursor-2025-02-19-0-46-x-https-cursor-com-changelog-0-46-x-640a0a10]]'
@@ -105,7 +105,7 @@ type: change
 ## Nearby in Context Window
 
 - Earlier: 2025-02-19 · Cline · [[Changes/Cline/2025-02-19-new-advanced-setting-to-disable-the-browser-tool-improved-support-for-aws-bedroc|New advanced setting to disable the browser tool, improved support for AWS Bedrock…]]
-- Later: 2025-02-24 · OpenHands · [[Changes/OpenHands/2025-02-24-by-default-openhands-truncates-history-by-half-when-it-hits-llm-context-limit-by|By default, OpenHands truncates history by half when it hits LLM context limit]]
+- Later: 2025-02-20 · Gemini · [[Changes/Gemini/2025-02-20-document-upload-is-now-available-to-all-gemini-users|Document upload is now available to all Gemini users]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -4,20 +4,20 @@ date: '2024-09-04'
 description: 'Aider · 2024-09-04 · Voice and Audio: Catch `/voice` transcription exceptions,
   show the WAV file so the user can recover it.'
 diffusion:
-  first_in_tracked: '[[Changes/Aider/2023-08-11-voice-to-code-https-aider-chat-docs-voice-html-support-which-allows-you-to-code|Voice-to-code((source
-    link) support, which allows you…]]'
+  first_in_tracked: '[[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2
+    Voice and Audio changes in 0.3.7]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 390
+  lag_days: 422
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: bb3084161e2c510d38e32be4df0f3d95eabbd3e1b5e0386123e36d0f8cb1411d
+machine_hash: 3a13e20e6620cdcc7f8f0e36aacbd7d6c35b17772676bfab7ac1ba1aaa35ab43
 product: aider
 product_name: Aider
 record:
@@ -43,12 +43,12 @@ record:
     recover it
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2023-09-25-we-are-beginning-to-roll-out-new-voice-and-image-capabilities-in-chatgpt-they-of|We
-  are beginning to roll out new voice and image capabilities in ChatGPT]]'
-- '[[Changes/ChatGPT/2023-11-21-chatgpt-with-voice-is-now-available-to-all-free-users-download-the-app-on-your-p|ChatGPT
-  with voice is available to all users]]'
-- '[[Changes/Aider/2024-06-04-detect-supported-audio-sample-rates-for-voice|Detect
-  supported audio sample rates for /voice]]'
+- "[[Changes/Open WebUI/2024-08-02-elevenlabs-voice-adaptations-voice-enhancements-including-support-for-elevenlabs|\U0001F5E3
+  ElevenLabs Voice Adaptations]]"
+- '[[Changes/Dify/2024-08-14-chore-allow-download-audio-video-through-http-node-by-hjlarry-in-https-github-co|chore:
+  allow download audio/video through HTTP node]]'
+- '[[Changes/Dify/2024-08-19-enh-setfocus-after-voice-input-by-leslie2046-in-https-github-com-langgenius-dify|enh:setfocus
+  after voice input]]'
 source_release: '[[Releases/Aider/aider-2024-09-04-v0-55-0-github-173466209-522ef089|aider-2024-09-04-v0-55-0-github-173466209-522ef089]]'
 source_type: github_releases
 theme: voice
@@ -81,14 +81,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Voice and Audio
 
-- Earlier: 2024-06-04 · Aider · [[Changes/Aider/2024-06-04-detect-supported-audio-sample-rates-for-voice|Detect supported audio sample rates for /voice]]
-- Later: 2024-09-09 · Aider · [[Changes/Aider/2024-09-09-new-chat-language-switch-to-set-the-spoken-language|New --chat-language switch to set the spoken language]]
+- Earlier: 2024-08-19 · Dify · [[Changes/Dify/2024-08-19-enh-setfocus-after-voice-input-by-leslie2046-in-https-github-com-langgenius-dify|enh:setfocus after voice input]]
+- Later: 2024-09-04 · Gemini · [[Changes/Gemini/2024-09-04-go-live-with-gemini|Go Live with Gemini]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-08-11 · Aider · [[Changes/Aider/2023-08-11-voice-to-code-https-aider-chat-docs-voice-html-support-which-allows-you-to-code|Voice-to-code((source link) support, which allows you…]]
+- Earliest same-theme entry in the tracked set: 2023-07-10 · Dify · [[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2 Voice and Audio changes in 0.3.7]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

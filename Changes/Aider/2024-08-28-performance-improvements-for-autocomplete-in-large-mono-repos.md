@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 619a70c5157356b71ed63fa111169b16420b389bf10110a0c778ec3a64e1f3d6
+machine_hash: 6bc10832a56929b70c50452e5c62cfcdff873812b06cd9aaea020d94db34c2dc
 product: aider
 product_name: Aider
 record:
@@ -51,12 +51,12 @@ record:
   title: Performance improvements for autocomplete in large/mono repos
   type: change
 related_changes:
-- '[[Changes/Cursor/2024-08-22-we-have-a-new-chat-ux-excited-for-you-to-try-it-out-and-share-your-thoughts|We
-  have a new chat UX!]]'
-- '[[Changes/Aider/2024-08-23-new-reset-command-to-drop-files-and-clear-chat-history|New
-  /reset command to /drop files and /clear chat history]]'
 - '[[Changes/OpenHands/2024-08-23-correct-list-rendering-for-chat-window-by-sb-git-cloud-in-https-github-com-all-h|Correct
   list rendering for chat window]]'
+- '[[Changes/Dify/2024-08-26-4-interface-experience-changes-in-0-7-2|4 Interface Experience
+  changes in 0.7.2]]'
+- "[[Changes/Open WebUI/2024-08-27-latex-rendering-issue-addressed-an-issue-that-affected-the-correct-rendering-of|\U0001F527
+  LaTeX Rendering Issue]]"
 source_release: '[[Releases/Aider/aider-2024-08-28-v0-54-0-github-172373996-a6760e8b|aider-2024-08-28-v0-54-0-github-172373996-a6760e8b]]'
 source_type: github_releases
 theme: interface-experience
@@ -87,8 +87,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2024-08-23 · OpenHands · [[Changes/OpenHands/2024-08-23-correct-list-rendering-for-chat-window-by-sb-git-cloud-in-https-github-com-all-h|Correct list rendering for chat window]]
-- Later: 2024-09-04 · OpenHands · [[Changes/OpenHands/2024-09-04-codeactagent-recovers-upon-a-llm-completion-exception-by-shubhamofbce-in-https-g|CodeActAgent recovers upon a llm completion exception]]
+- Earlier: 2024-08-27 · Open WebUI · [[Changes/Open WebUI/2024-08-27-latex-rendering-issue-addressed-an-issue-that-affected-the-correct-rendering-of|🔧 LaTeX Rendering Issue]]
+- Later: 2024-09-03 · Dify · [[Changes/Dify/2024-09-03-2-interface-experience-changes-in-0-7-3|2 Interface Experience changes in 0.7.3]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 9d7ce07d83a1127392b75e4ae52610e7e9016f0eb110ecb92d0a4fec61ebe69c
+machine_hash: a2e49c444be7a496d3790a7ddfaa1e70201d9ee0a0e505c2d7d7b6558dc8c0aa
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -43,11 +43,11 @@ record:
   title: 'feat: add eval:inventory CLI command and reporting logic'
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-06-23-15-developer-workflow-changes-in-v1-0-64|15
-  Developer Workflow changes in v1.0.64]]'
 - '[[Changes/Windsurf/2026-06-23-cli-and-devin-local|CLI and Devin Local]]'
 - '[[Changes/GitHub Copilot CLI/2026-06-24-remove-syntax-highlighting-from-shell-commands-in-the-timeline|Remove
   syntax highlighting from shell commands in the timeline]]'
+- '[[Changes/Dify/2026-06-25-9-developer-workflow-changes-in-1-15-0|9 Developer Workflow
+  changes in 1.15.0]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2026-06-25-v0-49-0-github-344957147-bf1cea5f|gemini-cli-2026-06-25-v0-49-0-github-344957147-bf1cea5f]]'
 source_type: github_releases
 theme: developer-workflow
@@ -76,7 +76,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2026-06-24 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-06-24-remove-syntax-highlighting-from-shell-commands-in-the-timeline|Remove syntax highlighting from shell commands in the timeline]]
+- Earlier: 2026-06-25 · Dify · [[Changes/Dify/2026-06-25-9-developer-workflow-changes-in-1-15-0|9 Developer Workflow changes in 1.15.0]]
 - Later: 2026-06-26 · Cline · [[Changes/Cline/2026-06-26-2-developer-workflow-changes-in-v4-0-0|2 Developer Workflow changes in v4.0.0]]
 <!-- chronolog:end -->
 

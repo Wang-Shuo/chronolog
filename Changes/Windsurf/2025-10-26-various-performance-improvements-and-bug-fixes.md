@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 130395e0a90163c285b6afc17bf84d5c13867cbe2cc87100e05ffe46867ebc68
+machine_hash: e8a895a15894fb6112b5be9fe274720b44f0037dcebc0353d136137956facbaf
 product: windsurf
 product_name: Windsurf
 record:
@@ -40,12 +40,11 @@ record:
   title: Various performance improvements and bug fixes
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2025-10-23-group-work-upload-notes-proposals-and-contracts-so-collaborators-can-draft-deliv|Group
-  work: Upload notes, proposals, and contracts so collaborators can draft…]]'
 - '[[Changes/Codex CLI/2025-10-23-chore-ci-speed-up-macos-builds-by-using-larger-runner-by-javisoto-in-https-githu|chore(ci):
   Speed up macOS builds by using larger runner]]'
 - '[[Changes/Windsurf/2025-10-23-performance-optimizations-and-stability-enhancements|Performance
   optimizations and stability enhancements]]'
+- '[[Changes/Replit/2025-10-24-plan-mode-improvements|Plan mode improvements]]'
 source_release: '[[Releases/Windsurf/windsurf-2025-10-26-v1-12-27-8261ea06|windsurf-2025-10-26-v1-12-27-8261ea06]]'
 source_type: windsurf_changelog
 theme: reliability-performance
@@ -74,7 +73,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2025-10-23 · Windsurf · [[Changes/Windsurf/2025-10-23-performance-optimizations-and-stability-enhancements|Performance optimizations and stability enhancements]]
+- Earlier: 2025-10-24 · Replit · [[Changes/Replit/2025-10-24-plan-mode-improvements|Plan mode improvements]]
 - Later: 2025-10-29 · Cursor · [[Changes/Cursor/2025-10-29-2-reliability-and-performance-changes-in-2-0|2 Reliability and Performance changes in 2.0]]
 <!-- chronolog:end -->
 

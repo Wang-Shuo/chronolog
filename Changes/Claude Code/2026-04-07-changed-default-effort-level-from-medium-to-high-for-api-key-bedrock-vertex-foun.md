@@ -4,20 +4,20 @@ date: '2026-04-07'
 description: 'Claude Code · 2026-04-07 · Enterprise and Administration: Changed default
   effort level from medium to high for API-key, Bedrock/Vertex/Foundry, Team, and…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2024-03-20-admin-improvements-team-admins-can-now-mark-themselves-as-unpaid-users-and-can-s|Admin
-    improvements: Team admins can now mark themselves as unpaid users and can see…]]'
+  first_in_tracked: '[[Changes/Gemini/2023-05-05-access-for-google-workspace-accounts|Access
+    for Google Workspace accounts]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 748
+  lag_days: 1068
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: c150661fe5b34777ec1b4aa62b17e29b3a516390fb1379cd8595f3e5f9acd4d4
+machine_hash: d352e561f5657b96e57c441336b9e01d799d75aa7d231f585fbd6f92bfbe0438
 product: claude-code
 product_name: Claude Code
 record:
@@ -53,8 +53,8 @@ record:
   title: Changed default effort level from medium to high for API-key…
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-03-26-15789-treat-chatgpt-hc-plan-as-enterprise-arnavdugar-openai|♯15789
-  Treat ChatGPT hc plan as Enterprise @arnavdugar-openai]]'
+- '[[Changes/Dify/2026-03-27-refactor-workspace-optimize-workspaces-plan-resolution-for-saas-and-enterprise-w|refactor(workspace):
+  optimize /workspaces plan resolution for SaaS and enterprise…]]'
 - '[[Changes/Cursor/2026-04-02-added-an-enterprise-admin-control-for-disabling-made-with-cursor-code-attributio|Added
   an Enterprise Admin control for disabling "Made with Cursor" code attribution…]]'
 - '[[Changes/Claude Code/2026-04-04-added-forceremotesettingsrefresh-policy-setting-when-set-the-cli-blocks-startup|Added
@@ -91,13 +91,13 @@ type: change
 ## Nearby in Enterprise and Administration
 
 - Earlier: 2026-04-04 · Claude Code · [[Changes/Claude Code/2026-04-04-added-forceremotesettingsrefresh-policy-setting-when-set-the-cli-blocks-startup|Added forceRemoteSettingsRefresh policy setting]]
-- Later: 2026-04-09 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-04-09-show-a-clear-message-to-contact-your-organization-administrator-when-remote-sess|Show a clear message to contact your organization administrator when remote sessions…]]
+- Later: 2026-04-09 · Claude · [[Changes/Claude/2026-04-09-role-based-access-controls-for-enterprise-plans|Role-based access controls for Enterprise plans]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2024-03-20 · Cursor · [[Changes/Cursor/2024-03-20-admin-improvements-team-admins-can-now-mark-themselves-as-unpaid-users-and-can-s|Admin improvements: Team admins can now mark themselves as unpaid users and can see…]]
+- Earliest same-theme entry in the tracked set: 2023-05-05 · Gemini · [[Changes/Gemini/2023-05-05-access-for-google-workspace-accounts|Access for Google Workspace accounts]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

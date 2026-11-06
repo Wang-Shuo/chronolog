@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: de0f76d535494d31efeed694b555e53f14c80d16ec0f711dd565cf405f17cf9d
+machine_hash: 77d1617a28fb6d465a04f34323e09ac0fa5cb9688ab282455deeffb76ca5b550
 product: claude-code
 product_name: Claude Code
 record:
@@ -54,10 +54,10 @@ record:
     prompt…
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-05-29-reasoning-effort-picker-respects-model-capabilities-options-not-supported-by-the|Reasoning
-  effort picker respects model capabilities]]'
 - '[[Changes/Codex CLI/2026-06-01-2-interface-experience-changes-in-rust-v0-136-0|2
   Interface Experience changes in rust-v0.136.0]]'
+- '[[Changes/Open WebUI/2026-06-01-4-interface-experience-changes-in-v0-9-6|4 Interface
+  Experience changes in v0.9.6]]'
 - '[[Changes/Claude Code/2026-06-02-2-interface-experience-changes-in-v2-1-161|2 Interface
   Experience changes in v2.1.161]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-06-03-v2-1-162-github-333906405-cdc7c67c|claude-code-2026-06-03-v2-1-162-github-333906405-cdc7c67c]]'

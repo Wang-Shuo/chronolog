@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: f577e4d0db486efee4bb5eb03eb94d1974e4b0e36fbe3e39dac0aac10e861c5a
+machine_hash: d7b768bf04fbe909d4ad7ab9b51a81b380fb096738a7b1506f7552d8f870ad9a
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -47,10 +47,9 @@ record:
   title: 4 Apps and Integrations changes in v0.0.402
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-01-31-14-apps-and-integrations-changes-in-rust-v0-93-0|14
-  Apps and Integrations changes in rust-v0.93.0]]'
-- '[[Changes/Codex CLI/2026-01-31-added-apps-to-browse-connectors-in-tui-and-insertion-for-app-prompts-9728|Added
-  /apps to browse connectors in TUI and $ insertion for app prompts]]'
+- '[[Changes/ElevenLabs/2026-02-02-sdk-releases|SDK Releases]]'
+- '[[Changes/Dify/2026-02-03-14-apps-and-integrations-changes-in-1-12-0|14 Apps and
+  Integrations changes in 1.12.0]]'
 - '[[Changes/GitHub Copilot CLI/2026-02-03-3-apps-and-integrations-changes-in-v0-0-401|3
   Apps and Integrations changes in v0.0.401]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-02-03-v0-0-402-github-282736139-30a68bc2|github-copilot-cli-2026-02-03-v0-0-402-github-282736139-30a68bc2]]'

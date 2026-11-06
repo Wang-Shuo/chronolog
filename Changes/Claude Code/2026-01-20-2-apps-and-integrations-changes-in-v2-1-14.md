@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 0857269cb167c26e0d9c1e448b0ab8155e769e077d5736c484cde06b02cb26e7
+machine_hash: edf9df2b94826da0f5abd3495ebfa6b835034e8ee3b3de91f6a3609f776040fa
 product: claude-code
 product_name: Claude Code
 record:
@@ -43,12 +43,10 @@ record:
   title: 2 Apps and Integrations changes in v2.1.14
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-01-16-accepting-an-mcp-elicitation-now-sends-an-empty-json-payload-instead-of-null-to|Accepting
-  an MCP elicitation now sends an empty JSON payload instead of null…]]'
-- '[[Changes/Codex CLI/2026-01-16-3-apps-and-integrations-changes-in-rust-v0-87-0|3
-  Apps and Integrations changes in rust-v0.87.0]]'
 - '[[Changes/GitHub Copilot CLI/2026-01-16-mcp-servers-now-start-correctly-for-custom-agents|MCP
   servers now start correctly for custom agents]]'
+- '[[Changes/ElevenLabs/2026-01-19-modified-schemas|Modified Schemas]]'
+- '[[Changes/ElevenLabs/2026-01-19-sdk-releases|SDK Releases]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-01-20-v2-1-14-github-278458927-a7d53111|claude-code-2026-01-20-v2-1-14-github-278458927-a7d53111]]'
 source_type: github_releases
 theme: apps-integrations
@@ -83,7 +81,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.14
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-01-16 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-01-16-mcp-servers-now-start-correctly-for-custom-agents|MCP servers now start correctly for custom agents]]
+- Earlier: 2026-01-19 · ElevenLabs · [[Changes/ElevenLabs/2026-01-19-sdk-releases|SDK Releases]]
 - Later: 2026-01-20 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-01-20-enable-all-github-mcp-tools-flag-now-enables-read-write-github-mcp-tools|--enable-all-github-mcp-tools flag now enables read-write GitHub MCP tools]]
 <!-- chronolog:end -->
 

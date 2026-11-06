@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: faf208339508caf5c5c1cac5be60e27c52db6498f0a9f9ea4e96e27e09027eed
+machine_hash: 01a316a1bea4d17e2c3045da08c31fe4b3b87fc245b173f84f21f27f248bd638
 product: cursor
 product_name: Cursor
 record:
@@ -51,11 +51,12 @@ record:
   title: Long Context Chat (Beta)
   type: change
 related_changes:
-- '[[Changes/Cursor/2023-11-24-you-can-now-folder-in-the-chat-to-chat-with-a-folder-let-us-know-what-you-think|@folder]]'
-- '[[Changes/Cursor/2023-11-27-folders-you-can-now-use-the-symbol-to-reference-specific-folders-we-ll-try-to-pi|@
-  folders: You can now use the @ symbol to reference specific folders!]]'
-- '[[Changes/Cursor/2023-11-30-better-context-chat-in-particular-followups-are-now-smarter|Better
-  context chat: in particular, followups are now smarter!]]'
+- '[[Changes/Dify/2024-02-01-feat-add-xinference-llm-context-size-by-yeuoly-in-https-github-com-langgenius-di|feat:
+  add xinference llm context size]]'
+- '[[Changes/Dify/2024-03-19-add-max-tokens-parameter-rule-for-zhipuai-glm4-and-glm4v-by-orangeclk-in-https-g|add
+  max_tokens parameter rule for zhipuai glm4 and glm4v]]'
+- '[[Changes/Ollama/2024-03-26-command-r-https-ollama-com-library-command-r-a-large-language-model-optimized-fo|Command
+  R((source link) a Large Language Model optimized…]]'
 source_release: '[[Releases/Cursor/cursor-2024-04-01-0-31-x-https-cursor-com-changelog-0-31-x-f88ca4c9|cursor-2024-04-01-0-31-x-https-cursor-com-changelog-0-31-x-f88ca4c9]]'
 source_type: cursor_changelog
 theme: context-window
@@ -84,7 +85,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Context Window
 
-- Earlier: 2023-11-30 · Cursor · [[Changes/Cursor/2023-11-30-better-context-chat-in-particular-followups-are-now-smarter|Better context chat: in particular, followups are now smarter!]]
+- Earlier: 2024-03-26 · Ollama · [[Changes/Ollama/2024-03-26-command-r-https-ollama-com-library-command-r-a-large-language-model-optimized-fo|Command R((source link) a Large Language Model optimized…]]
 - Later: 2024-04-12 · Cursor · [[Changes/Cursor/2024-04-12-cursorrules-you-can-write-down-repo-level-rules-for-the-ai-by-creating-a-cursorr|.cursorrules: You can write down repo-level rules for the AI by creating…]]
 <!-- chronolog:end -->
 

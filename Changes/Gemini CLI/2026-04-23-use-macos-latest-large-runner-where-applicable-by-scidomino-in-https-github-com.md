@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 99a483fdb7fc107f087c8210f1a56bc5b15cb0050534f077f0354a701f2e0e62
+machine_hash: 54b7eb1e630ee9a7a86a010dc53e90db368ef936d7bd495c6c4bbaeed4a479b1
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -41,12 +41,12 @@ record:
   title: use macos-latest-large runner where applicable
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-04-16-prompt-frame-no-longer-causes-rendering-issues-on-windows-and-ubuntu-terminals|Prompt
-  frame no longer causes rendering issues on Windows and Ubuntu terminals]]'
-- '[[Changes/Claude Code/2026-04-17-extra-usage-now-works-from-remote-control-mobile-web-clients|/extra-usage
-  now works from Remote Control (mobile/web) clients]]'
 - '[[Changes/Codex CLI/2026-04-20-2-mobile-and-desktop-changes-in-rust-v0-122-0|2
   Mobile and Desktop changes in rust-v0.122.0]]'
+- '[[Changes/Open WebUI/2026-04-21-2-mobile-and-desktop-changes-in-v0-9-0|2 Mobile
+  and Desktop changes in v0.9.0]]'
+- '[[Changes/Ollama/2026-04-22-fixed-model-picker-showing-stale-model-after-switching-chats-in-the-macos-app|Fixed
+  model picker showing stale model after switching chats in the macOS app]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2026-04-23-v0-39-0-github-312542426-bb57739c|gemini-cli-2026-04-23-v0-39-0-github-312542426-bb57739c]]'
 source_type: github_releases
 theme: mobile-desktop
@@ -86,7 +86,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2026-04-20 · Codex CLI · [[Changes/Codex CLI/2026-04-20-2-mobile-and-desktop-changes-in-rust-v0-122-0|2 Mobile and Desktop changes in rust-v0.122.0]]
+- Earlier: 2026-04-22 · Ollama · [[Changes/Ollama/2026-04-22-fixed-model-picker-showing-stale-model-after-switching-chats-in-the-macos-app|Fixed model picker showing stale model after switching chats in the macOS app]]
 - Later: 2026-04-23 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-04-23-tool-availability-detection-works-correctly-on-windows|Tool availability detection works correctly on Windows]]
 <!-- chronolog:end -->
 

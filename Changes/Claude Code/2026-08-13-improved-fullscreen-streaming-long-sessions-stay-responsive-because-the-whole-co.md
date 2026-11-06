@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 4878996040bb356f061fc61b227abb90d1e2cc8e7bd8ba5a720ad3935a6ebb63
+machine_hash: 808c4bec5c1d21b026bfec7ed5f5f8180294928072d04171a0f8f579fd6a1361
 product: claude-code
 product_name: Claude Code
 record:
@@ -90,7 +90,7 @@ type: change
 ## Nearby in Interface Experience
 
 - Earlier: 2026-08-12 · Claude Code · [[Changes/Claude Code/2026-08-12-vscode-added-session-groups-in-the-sidebar-right-click-to-create-rename-or-delet|VSCode Added session groups in the sidebar]]
-- Later: 2026-08-17 · Claude Code · [[Changes/Claude Code/2026-08-17-3-interface-experience-changes-in-v2-1-234|3 Interface Experience changes in v2.1.234]]
+- Later: 2026-08-14 · Replit · [[Changes/Replit/2026-08-14-choose-a-workspace-region|Choose a workspace region]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 64fa286e25f9e366ca5f26c09af0e8b9f6cc1301808887291fb2e2964ab3dea8
+machine_hash: f862c4c61ff168a511d448b2a58e07e23bc3c8390aa1c075224df3640780fbcc
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -48,10 +48,9 @@ record:
   title: 4 Safety and Privacy changes in v0.6.0
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2025-09-15-3-safety-and-privacy-changes-in-rust-v0-36-0|3 Safety
-  and Privacy changes in rust-v0.36.0]]'
-- '[[Changes/Gemini CLI/2025-09-17-2-safety-and-privacy-changes-in-v0-5-3|2 Safety
-  and Privacy changes in v0.5.3]]'
+- '[[Changes/Replit/2025-09-19-malicious-file-detection|Malicious file detection]]'
+- '[[Changes/Dify/2025-09-22-5-safety-and-privacy-changes-in-1-9-0|5 Safety and Privacy
+  changes in 1.9.0]]'
 - '[[Changes/Codex CLI/2025-09-23-3880-add-non-sandbox-test-helper-3880|♯3880 Add
   non_sandbox_test helper (♯3880)]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2025-09-24-v0-6-0-github-249519586-83671b5c|gemini-cli-2025-09-24-v0-6-0-github-249519586-83671b5c]]'
@@ -98,7 +97,7 @@ Source: https://github.com/google-gemini/gemini-cli/releases/tag/v0.6.0
 ## Nearby in Safety and Privacy
 
 - Earlier: 2025-09-23 · Codex CLI · [[Changes/Codex CLI/2025-09-23-3880-add-non-sandbox-test-helper-3880|♯3880 Add non_sandbox_test helper (♯3880)]]
-- Later: 2025-09-26 · Codex CLI · [[Changes/Codex CLI/2025-09-26-2-safety-and-privacy-changes-in-rust-v0-42-0|2 Safety and Privacy changes in rust-v0.42.0]]
+- Later: 2025-09-25 · Open WebUI · [[Changes/Open WebUI/2025-09-25-3-safety-and-privacy-changes-in-v0-6-31|3 Safety and Privacy changes in v0.6.31]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

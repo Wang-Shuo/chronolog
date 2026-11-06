@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: f5bf81c4ca12616923ef7ca0b4d3478a9b62f71f3cceac45dd364db6cbd15cc2
+machine_hash: d9274c3b659d64adb5c49dfc11e64fbdfabc8a0d0d05a0efca9063033af07d8c
 product: openhands
 product_name: OpenHands
 record:
@@ -41,11 +41,11 @@ record:
   title: Performance improvement of UI during long sessions
   type: change
 related_changes:
-- '[[Changes/Cursor/2024-12-17-cursor-starts-up-faster|Cursor starts up faster]]'
-- '[[Changes/Cursor/2024-12-17-cheaper-and-faster-bug-finding-model|Cheaper and faster
-  Bug Finding Model]]'
-- '[[Changes/Cline/2024-12-18-when-cline-needs-to-make-targeted-edits-to-large-files-he-now-uses-a-search-repl|When
-  Cline needs to make targeted edits to large files, he now uses a search…]]'
+- '[[Changes/Open WebUI/2024-12-31-2-reliability-and-performance-changes-in-v0-5-3|2
+  Reliability and Performance changes in v0.5.3]]'
+- '[[Changes/Replit/2025-01-03-custom-domain-error-handling|Custom domain error handling]]'
+- '[[Changes/Open WebUI/2025-01-05-3-reliability-and-performance-changes-in-v0-5-4|3
+  Reliability and Performance changes in v0.5.4]]'
 source_release: '[[Releases/OpenHands/openhands-2025-01-07-0-19-0-github-193581612-a242e2a9|openhands-2025-01-07-0-19-0-github-193581612-a242e2a9]]'
 source_type: github_releases
 theme: reliability-performance
@@ -76,8 +76,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2024-12-18 · Cline · [[Changes/Cline/2024-12-18-when-cline-needs-to-make-targeted-edits-to-large-files-he-now-uses-a-search-repl|When Cline needs to make targeted edits to large files, he now uses a search…]]
-- Later: 2025-01-10 · Aider · [[Changes/Aider/2025-01-10-2-reliability-and-performance-changes-in-v0-71-0|2 Reliability and Performance changes in v0.71.0]]
+- Earlier: 2025-01-05 · Open WebUI · [[Changes/Open WebUI/2025-01-05-3-reliability-and-performance-changes-in-v0-5-4|3 Reliability and Performance changes in v0.5.4]]
+- Later: 2025-01-08 · Ollama · [[Changes/Ollama/2025-01-08-granite-3-1-dense-https-ollama-com-library-granite3-1-dense-2b-and-8b-text-only|Granite 3.1 Dense((source link)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

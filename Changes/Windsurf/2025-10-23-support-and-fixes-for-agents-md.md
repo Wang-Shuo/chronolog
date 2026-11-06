@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 30340ecfb33f48b1ce8584562f32374b0c3fa4d99bf187275f5a183190923fba
+machine_hash: 25ae53f0aa23344fabeadaf1d6979ca040546dbed76431a56709a5c09f49e8dd
 product: windsurf
 product_name: Windsurf
 record:
@@ -41,7 +41,8 @@ record:
   title: Support and fixes for AGENTS.md
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2025-10-17-agent-override-file-5215|Agent override file (♯5215)]]'
+- '[[Changes/Dify/2025-10-22-4-agent-mode-changes-in-1-9-2|4 Agent Mode changes in
+  1.9.2]]'
 - '[[Changes/Gemini CLI/2025-10-22-feat-core-add-telemetry-for-subagent-execution-by-abhipatel12-in-https-github-co|feat(core):
   add telemetry for subagent execution]]'
 - '[[Changes/Codex CLI/2025-10-23-2-agent-mode-changes-in-rust-v0-48-0|2 Agent Mode
@@ -77,7 +78,7 @@ type: change
 ## Nearby in Agent Mode
 
 - Earlier: 2025-10-23 · Codex CLI · [[Changes/Codex CLI/2025-10-23-2-agent-mode-changes-in-rust-v0-48-0|2 Agent Mode changes in rust-v0.48.0]]
-- Later: 2025-10-28 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2025-10-28-2-agent-mode-changes-in-v0-0-353|2 Agent Mode changes in v0.0.353]]
+- Later: 2025-10-24 · Replit · [[Changes/Replit/2025-10-24-build-score-rating-system|Build Score rating system]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

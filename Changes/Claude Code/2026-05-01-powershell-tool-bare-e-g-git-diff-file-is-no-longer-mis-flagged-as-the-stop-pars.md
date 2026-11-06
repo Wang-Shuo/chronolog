@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 514f884fdfd7b13f9a2444d3062eef9f1456e05949626afb925cd277e47f30f2
+machine_hash: 9990f8bc80f8247d1dadd9c30406da3389bdb0e1c27ceb58fb7fb420a4799c34
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,10 +45,10 @@ record:
   title: 'PowerShell tool: bare `--` (e.g. `git diff -- file`) is no longer mis-flagged…'
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-04-24-2-editor-experience-changes-in-v1-0-36|2
-  Editor Experience changes in v1.0.36]]'
 - '[[Changes/GitHub Copilot CLI/2026-04-27-add-copilot-completion-bash-zsh-fish-subcommand-to-generate-static-shell-complet|Add
   copilot completion bash / zsh / fish subcommand to generate static shell…]]'
+- '[[Changes/Dify/2026-04-29-6-editor-experience-changes-in-1-14-0|6 Editor Experience
+  changes in 1.14.0]]'
 - '[[Changes/Codex CLI/2026-04-30-20045-fix-plan-mode-nudge-test-after-task-completion-signature-change-canvrno-oa|♯20045
   Fix plan mode nudge test after task completion signature change @canvrno-oai]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-05-01-v2-1-126-github-316244540-de18d9bb|claude-code-2026-05-01-v2-1-126-github-316244540-de18d9bb]]'

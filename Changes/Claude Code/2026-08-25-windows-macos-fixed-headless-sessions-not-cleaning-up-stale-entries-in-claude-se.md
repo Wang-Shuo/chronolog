@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 95253e57d39ecd5115ea02ec72ef65ed4a8190c162d67d09ea93c2f54fa03486
+machine_hash: bcd4d5745c7d82b8e586024c9eefa9353cd88c384b0fbbb8dff5e6fab5210448
 product: claude-code
 product_name: Claude Code
 record:
@@ -44,10 +44,10 @@ record:
   title: 'Windows/macOS: Fixed headless sessions not cleaning up stale entries…'
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-08-21-remote-sessions-images-uploaded-from-mobile-now-include-their-saved-file-path-so|Remote
-  sessions: images uploaded from mobile now include their saved file path…]]'
 - '[[Changes/Claude Code/2026-08-21-windows-cross-session-messaging-is-now-available-so-claude-code-sessions-across|Windows:
   cross-session messaging is now available, so Claude Code sessions across…]]'
+- '[[Changes/Ollama/2026-08-21-developers-can-now-easily-configure-claude-desktop-to-seamlessly-work-with-ollam|Developers
+  can now easily configure Claude Desktop to seamlessly work with Ollama…]]'
 - '[[Changes/Windsurf/2026-08-21-devin-desktop|Devin Desktop]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-08-25-v2-1-246-github-376644211-dd9805a0|claude-code-2026-08-25-v2-1-246-github-376644211-dd9805a0]]'
 source_type: github_releases
@@ -85,7 +85,7 @@ type: change
 ## Nearby in Mobile and Desktop
 
 - Earlier: 2026-08-21 · Windsurf · [[Changes/Windsurf/2026-08-21-devin-desktop|Devin Desktop]]
-- Later: 2026-08-26 · Codex CLI · [[Changes/Codex CLI/2026-08-26-39811-restrict-macos-preference-reads-to-full-disk-policies-copyberry|♯39811 Restrict macOS preference reads to full-disk policies @copyberry]]
+- Later: 2026-08-25 · Lovable · [[Changes/Lovable/2026-08-25-filter-audit-logs-by-client|Filter audit logs by client]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

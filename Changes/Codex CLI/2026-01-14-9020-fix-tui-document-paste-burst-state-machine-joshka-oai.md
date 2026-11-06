@@ -4,20 +4,20 @@ date: '2026-01-14'
 description: 'Codex CLI · 2026-01-14 · Files and Data: #9020 fix(tui): document paste-burst
   state machine @joshka-oai'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-07-06-we-re-rolling-out-code-interpreter-to-all-chatgpt-plus-users-over-the-next-week-66255e|Code
-    interpreter is now rolling out in beta on web]]'
+  first_in_tracked: '[[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2
+    Files and Data changes in 0.2.2]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 923
+  lag_days: 965
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: d6c9749bd208143ca2ee397aedb8e49adfedff2f95b2d0dc84909f1ae3f85e56
+machine_hash: cc951fa3a8ba2ef1feab48e9c405b80e433b1b9b1874ddf7934caccb836d2be6
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -43,12 +43,11 @@ record:
   title: '#9020 fix(tui): document paste-burst state machine @joshka-oai'
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2025-12-15-8024-docs-document-enabling-experimental-skills|♯8024
-  docs: document enabling experimental skills]]'
-- '[[Changes/Cline/2026-01-09-revert-8341-due-to-regressions-in-diff-view-document-truncation-see-8423-8429|Revert
-  ♯8341 due to regressions in diff view/document truncation (see ♯8423, ♯8429)]]'
-- '[[Changes/Codex CLI/2026-01-09-app-server-readme-now-documents-skills-support-and-usage-8853|App-server
-  README now documents skills support and usage]]'
+- '[[Changes/Open WebUI/2026-01-09-5-files-and-data-changes-in-v0-7-0|5 Files and
+  Data changes in v0.7.0]]'
+- '[[Changes/ElevenLabs/2026-01-12-knowledge-base|Knowledge Base]]'
+- '[[Changes/Dify/2026-01-13-4-files-and-data-changes-in-1-11-3|4 Files and Data changes
+  in 1.11.3]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-01-14-rust-v0-81-0-github-276819252-cf63dc40|codex-cli-2026-01-14-rust-v0-81-0-github-276819252-cf63dc40]]'
 source_type: github_releases
 theme: file-data
@@ -86,14 +85,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Files and Data
 
-- Earlier: 2026-01-09 · Codex CLI · [[Changes/Codex CLI/2026-01-09-app-server-readme-now-documents-skills-support-and-usage-8853|App-server README now documents skills support and usage]]
-- Later: 2026-01-31 · Codex CLI · [[Changes/Codex CLI/2026-01-31-10191-chore-app-server-document-authmode-owenlin0|♯10191 chore(app-server): document AuthMode @owenlin0]]
+- Earlier: 2026-01-13 · Dify · [[Changes/Dify/2026-01-13-4-files-and-data-changes-in-1-11-3|4 Files and Data changes in 1.11.3]]
+- Later: 2026-01-19 · ElevenLabs · [[Changes/ElevenLabs/2026-01-19-knowledge-base|Knowledge Base]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-07-06 · ChatGPT · [[Changes/ChatGPT/2023-07-06-we-re-rolling-out-code-interpreter-to-all-chatgpt-plus-users-over-the-next-week-66255e|Code interpreter is now rolling out in beta on web]]
+- Earliest same-theme entry in the tracked set: 2023-05-25 · Dify · [[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2 Files and Data changes in 0.2.2]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

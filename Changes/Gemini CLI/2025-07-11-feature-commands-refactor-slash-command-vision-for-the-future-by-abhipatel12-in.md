@@ -4,20 +4,20 @@ date: '2025-07-11'
 description: 'Gemini CLI · 2025-07-11 · Multimodal Input: feature(commands) - Refactor
   Slash Command + Vision For the Future by @abhipatel12 in…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-09-25-you-can-now-show-chatgpt-one-or-more-images-troubleshoot-why-your-grill-won-t-st-e42bd6|Image
-    input will be generally available to Plus users on all platforms]]'
+  first_in_tracked: '[[Changes/Dify/2023-09-19-add-video-to-cn-readme-by-crazywoola-in-https-github-com-langgenius-dify-pull-11|add
+    video to cn readme]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 655
+  lag_days: 661
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: multimodal
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: b362b69456c8303059e133d86d4162fae7c94205a32d5199f92b7c8bb3fe131b
+machine_hash: 72b8423914b665588f734834635645fc24c2c6da7a134ca6ae33f945f07bc530
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -42,11 +42,11 @@ record:
   title: feature(commands) - Refactor Slash Command + Vision For the Future
   type: change
 related_changes:
-- '[[Changes/Aider/2024-04-21-4-turbo-vision|--4-turbo-vision]]'
-- '[[Changes/OpenHands/2024-09-30-vision-and-prompt-caching-fixes-by-enyst-in-https-github-com-all-hands-ai-openha|Vision
-  and prompt caching fixes]]'
-- '[[Changes/ChatGPT/2024-12-12-use-the-controls-at-the-bottom-of-the-screen-like-the-camera-button-below-to-get|Use
-  the controls at the bottom of the screen, like the camera button below, to get started]]'
+- '[[Changes/Dify/2025-05-15-feat-api-add-image-multimodal-support-for-llmnode-by-quantumghost-in-https-githu|feat(api):
+  Add image multimodal support for LLMNode]]'
+- '[[Changes/Ollama/2025-05-21-support-for-alibaba-s-qwen-3-and-qwen-2-architectures-in-ollama-s-new-multimodal|Support
+  for Alibaba''s Qwen 3 and Qwen 2 architectures in Ollama''s new multimodal…]]'
+- '[[Changes/ElevenLabs/2025-06-30-elevencreative-studio|ElevenCreative Studio]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2025-07-11-v0-1-10-github-231320517-434b29eb|gemini-cli-2025-07-11-v0-1-10-github-231320517-434b29eb]]'
 source_type: github_releases
 theme: multimodal
@@ -82,14 +82,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Multimodal Input
 
-- Earlier: 2024-12-12 · ChatGPT · [[Changes/ChatGPT/2024-12-12-use-the-controls-at-the-bottom-of-the-screen-like-the-camera-button-below-to-get|Use the controls at the bottom of the screen, like the camera button below, to get started]]
+- Earlier: 2025-06-30 · ElevenLabs · [[Changes/ElevenLabs/2025-06-30-elevencreative-studio|ElevenCreative Studio]]
 - Later: 2025-07-16 · Cline · [[Changes/Cline/2025-07-16-add-vision-capability-to-moonshot-v1-by-saoudrizwan-in-https-github-com-cline-cl|Add vision capability to moonshot v1]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-09-25 · ChatGPT · [[Changes/ChatGPT/2023-09-25-you-can-now-show-chatgpt-one-or-more-images-troubleshoot-why-your-grill-won-t-st-e42bd6|Image input will be generally available to Plus users on all platforms]]
+- Earliest same-theme entry in the tracked set: 2023-09-19 · Dify · [[Changes/Dify/2023-09-19-add-video-to-cn-readme-by-crazywoola-in-https-github-com-langgenius-dify-pull-11|add video to cn readme]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

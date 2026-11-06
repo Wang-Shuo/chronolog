@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 7fc32b267ab64d2d523d1587a7c4087acc8ce5a0359e1b0001328cee9a1a4909
+machine_hash: c889e2ae6e0e73370c84afadf04999589a21724c6673342cc0dcfb9e737d54b4
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -44,12 +44,10 @@ record:
   title: 2 Mobile and Desktop changes in v1.0.49
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-05-14-generated-images-will-continue-to-appear-in-the-images-tab-storage-management-is|Generated
-  images will continue to appear in the Images tab]]'
-- '[[Changes/Claude Code/2026-05-15-the-powershell-tool-is-now-enabled-by-default-on-windows-for-bedrock-vertex-and|The
-  PowerShell tool is now enabled by default on Windows for Bedrock, Vertex…]]'
-- '[[Changes/Codex CLI/2026-05-18-10-mobile-and-desktop-changes-in-rust-v0-131-0|10
-  Mobile and Desktop changes in rust-v0.131.0]]'
+- '[[Changes/ElevenLabs/2026-05-18-ios-sdk|iOS SDK]]'
+- '[[Changes/Lovable/2026-05-18-lovable-mobile-app|Lovable mobile app]]'
+- '[[Changes/Gemini/2026-05-19-the-next-chapter-of-gemini-live|The next chapter of
+  Gemini Live]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-05-19-v1-0-49-github-324640083-4bf093b8|github-copilot-cli-2026-05-19-v1-0-49-github-324640083-4bf093b8]]'
 source_type: github_releases
 theme: mobile-desktop
@@ -92,8 +90,8 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.49
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2026-05-18 · Codex CLI · [[Changes/Codex CLI/2026-05-18-10-mobile-and-desktop-changes-in-rust-v0-131-0|10 Mobile and Desktop changes in rust-v0.131.0]]
-- Later: 2026-05-22 · Gemini CLI · [[Changes/Gemini CLI/2026-05-22-ci-release-build-and-attach-unsigned-macos-binaries-to-releases-by-ruomengz-in-h|ci(release): build and attach unsigned macOS binaries to releases]]
+- Earlier: 2026-05-19 · Gemini · [[Changes/Gemini/2026-05-19-the-next-chapter-of-gemini-live|The next chapter of Gemini Live]]
+- Later: 2026-05-21 · Lovable · [[Changes/Lovable/2026-05-21-improvements-and-bug-fixes|Improvements and bug fixes]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

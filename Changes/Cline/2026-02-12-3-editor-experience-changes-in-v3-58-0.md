@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: ad79c81b85511936905c70fc416d9189eb3d2846ec81cb0f0f5a4fb95bb61b0d
+machine_hash: 6bdcda57d389d9fe4ec043976449345b8191b1fd628cda2d8912af189ff86506
 product: cline
 product_name: Cline
 record:
@@ -45,10 +45,10 @@ record:
   title: 3 Editor Experience changes in v3.58.0
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2026-02-10-3-editor-experience-changes-in-v0-28-0|3 Editor
-  Experience changes in v0.28.0]]'
 - '[[Changes/Codex CLI/2026-02-11-2-editor-experience-changes-in-rust-v0-99-0|2 Editor
   Experience changes in rust-v0.99.0]]'
+- '[[Changes/Dify/2026-02-11-review-edit-the-node-generates-a-ui-where-humans-can-review-ai-outputs-and-modif|Review
+  & Edit: The node generates a UI where humans can review AI outputs…]]'
 - '[[Changes/GitHub Copilot CLI/2026-02-11-3-editor-experience-changes-in-v0-0-407|3
   Editor Experience changes in v0.0.407]]'
 source_release: '[[Releases/Cline/cline-2026-02-12-v3-58-0-github-285499006-63eb7b5c|cline-2026-02-12-v3-58-0-github-285499006-63eb7b5c]]'

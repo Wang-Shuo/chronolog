@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 12c758b8d3ac72fb9d12ba31bdc4db362a296ca7944b0f1e5a33827b1a40b08e
+machine_hash: 2c09602a607e538ccb57dada373cf630a14365cf535dbfae42fdfaf46b6c54bc
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -42,12 +42,11 @@ record:
   title: 2 Safety and Privacy changes in rust-v0.56.0
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2025-10-30-3-safety-and-privacy-changes-in-rust-v0-52-0|3 Safety
-  and Privacy changes in rust-v0.52.0]]'
-- '[[Changes/Codex CLI/2025-11-04-3-safety-and-privacy-changes-in-rust-v0-54-0|3 Safety
-  and Privacy changes in rust-v0.54.0]]'
 - '[[Changes/Gemini CLI/2025-11-04-fix-infra-simplify-cancel-in-progress-and-add-permission-to-set-status-step-by-s|fix(infra)
   - Simplify cancel in progress and add permission to set status step]]'
+- '[[Changes/ElevenLabs/2025-11-05-security|Security]]'
+- '[[Changes/Open WebUI/2025-11-06-4-safety-and-privacy-changes-in-v0-6-35|4 Safety
+  and Privacy changes in v0.6.35]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2025-11-07-rust-v0-56-0-github-260721835-230209f8|codex-cli-2025-11-07-rust-v0-56-0-github-260721835-230209f8]]'
 source_type: github_releases
 theme: safety-privacy
@@ -85,7 +84,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.56.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Safety and Privacy
 
-- Earlier: 2025-11-04 · Gemini CLI · [[Changes/Gemini CLI/2025-11-04-fix-infra-simplify-cancel-in-progress-and-add-permission-to-set-status-step-by-s|fix(infra) - Simplify cancel in progress and add permission to set status step]]
+- Earlier: 2025-11-06 · Open WebUI · [[Changes/Open WebUI/2025-11-06-4-safety-and-privacy-changes-in-v0-6-35|4 Safety and Privacy changes in v0.6.35]]
 - Later: 2025-11-07 · Gemini CLI · [[Changes/Gemini CLI/2025-11-07-migrate-console-error-to-coreevents-debugger-for-sandbox-logger-chatrecordingser|migrate console.error to coreEvents/debugger for sandbox, logger, chatRecordingService]]
 <!-- chronolog:end -->
 

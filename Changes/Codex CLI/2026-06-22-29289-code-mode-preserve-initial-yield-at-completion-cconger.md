@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 39192b60232f783a95f0f64980b6cda5687026ca2befe3d8bbfca3746240f1e4
+machine_hash: 84580354a449904a935735fba7043a9e0bc62fc4be3bd5bb31ad8254dc097cec
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -41,11 +41,11 @@ record:
   title: '#29289 code-mode: preserve initial yield at completion @cconger'
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-06-16-4-editor-experience-changes-in-v1-0-63|4
-  Editor Experience changes in v1.0.63]]'
-- '[[Changes/Windsurf/2026-06-16-removed-the-explain-sparkle-button-from-the-editor-breadcrumbs|Removed
-  the Explain sparkle button from the editor breadcrumbs]]'
 - '[[Changes/Windsurf/2026-06-16-agent-and-editor-modes|Agent and Editor modes]]'
+- '[[Changes/Lovable/2026-06-18-require-the-workspace-editor-role-to-edit-projects|Require
+  the workspace editor role to edit projects]]'
+- '[[Changes/v0/2026-06-19-inspect-on-vercel-and-analytics-stay-disabled-until-a-deployment-has-an-inspecto|Inspect
+  on Vercel and Analytics stay disabled until a deployment has an inspector…]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-06-22-rust-v0-142-0-github-343189954-a218ab4e|codex-cli-2026-06-22-rust-v0-142-0-github-343189954-a218ab4e]]'
 source_type: github_releases
 theme: editor-experience
@@ -90,7 +90,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2026-06-16 · Windsurf · [[Changes/Windsurf/2026-06-16-agent-and-editor-modes|Agent and Editor modes]]
+- Earlier: 2026-06-19 · v0 · [[Changes/v0/2026-06-19-inspect-on-vercel-and-analytics-stay-disabled-until-a-deployment-has-an-inspecto|Inspect on Vercel and Analytics stay disabled until a deployment has an inspector…]]
 - Later: 2026-06-23 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-06-23-9-editor-experience-changes-in-v1-0-64|9 Editor Experience changes in v1.0.64]]
 <!-- chronolog:end -->
 

@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: 4295b38c5bc1116625a0e35cdce240c0f78a21ee43c4b94287030755c31dfa85
+machine_hash: d4ec5ad10c69c01c166fb2deedeb458adb0bdc2780e0581b5182ad780713e07e
 product: cursor
 product_name: Cursor
 record:
@@ -98,7 +98,7 @@ type: change
 ## Nearby in Developer Workflow
 
 - Earlier: 2025-08-21 · Cline · [[Changes/Cline/2025-08-21-when-packaging-cline-core-for-debug-builds-include-map-files-by-sjf-in-https-git|When packaging cline-core for debug builds include map files]]
-- Later: 2025-08-26 · Codex CLI · [[Changes/Codex CLI/2025-08-26-11-developer-workflow-changes-in-rust-v0-24-0|11 Developer Workflow changes in rust-v0.24.0]]
+- Later: 2025-08-21 · Open WebUI · [[Changes/Open WebUI/2025-08-21-resolved-code-block-input-issue-with-shift-enter-fixed-a-bug-where-typing-three|📝 Resolved Code Block Input Issue with Shift+Enter]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

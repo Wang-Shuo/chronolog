@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: ab97c934ec7e123ab2271981aa28b9d8f210e023ffd7baf6b6b967c354e5e110
+machine_hash: 46421f7921ef376fcd4c7047d5b082451b4561a634db7ef6701d8f84f573d844
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -43,12 +43,10 @@ record:
   title: Esc to exit privacy screen in error state
   type: change
 related_changes:
-- '[[Changes/OpenHands/2025-06-20-daytona-runtime-sandbox-handling-by-idagelic-in-https-github-com-all-hands-ai-op|Daytona
-  Runtime sandbox handling]]'
-- '[[Changes/OpenHands/2025-06-20-support-for-dev-container-networking-without-host-mode-by-llamantino-in-https-gi|Support
-  for dev container networking without host mode by @llamantino…]]'
-- '[[Changes/OpenHands/2025-06-20-enhanced-security-by-ensuring-redirect-uri-is-https-unless-it-is-for-localhost-b|Enhanced
-  security by ensuring redirect URI is HTTPS unless it is for localhost]]'
+- '[[Changes/Dify/2025-06-25-2-safety-and-privacy-changes-in-1-5-0|2 Safety and Privacy
+  changes in 1.5.0]]'
+- '[[Changes/Replit/2025-06-27-security-scanner-updates|Security scanner updates]]'
+- '[[Changes/ElevenLabs/2025-06-30-workspaces|Workspaces]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2025-07-01-v0-1-8-github-229252035-f46324ec|gemini-cli-2025-07-01-v0-1-8-github-229252035-f46324ec]]'
 source_type: github_releases
 theme: safety-privacy
@@ -86,8 +84,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Safety and Privacy
 
-- Earlier: 2025-06-20 · OpenHands · [[Changes/OpenHands/2025-06-20-enhanced-security-by-ensuring-redirect-uri-is-https-unless-it-is-for-localhost-b|Enhanced security by ensuring redirect URI is HTTPS unless it is for localhost]]
-- Later: 2025-07-08 · Codex CLI · [[Changes/Codex CLI/2025-07-08-adds-support-for-a-sandbox-flag-and-makes-some-breaking-changes-to-config-toml-a|Adds support for a --sandbox flag and makes some breaking changes to config.toml…]]
+- Earlier: 2025-06-30 · ElevenLabs · [[Changes/ElevenLabs/2025-06-30-workspaces|Workspaces]]
+- Later: 2025-07-02 · Dify · [[Changes/Dify/2025-07-02-chore-upgrade-package-versions-for-security-reason-by-iamjoel-in-https-github-co|chore: upgrade package versions for security reason]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

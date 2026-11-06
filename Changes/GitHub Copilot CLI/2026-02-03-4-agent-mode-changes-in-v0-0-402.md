@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 5dc447d142de28275507994d2527ab8998fcaec10acb319443a577f46fcdeedc
+machine_hash: e77b4e1a1174b89ac0ac8b0fce8052880f7b70b9b080046321214e558d450ac0
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -46,12 +46,11 @@ record:
   title: 4 Agent Mode changes in v0.0.402
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-01-29-2-agent-mode-changes-in-v0-0-399|2 Agent
-  Mode changes in v0.0.399]]'
-- '[[Changes/Codex CLI/2026-02-02-2-agent-mode-changes-in-rust-v0-94-0|2 Agent Mode
-  changes in rust-v0.94.0]]'
+- '[[Changes/ElevenLabs/2026-02-02-agents-platform-fb792c|Agents Platform]]'
 - '[[Changes/Claude Code/2026-02-03-added-token-count-tool-uses-and-duration-metrics-to-task-tool-results|Added
   token count, tool uses, and duration metrics to Task tool results]]'
+- '[[Changes/Dify/2026-02-03-9-agent-mode-changes-in-1-12-0|9 Agent Mode changes in
+  1.12.0]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-02-03-v0-0-402-github-282736139-30a68bc2|github-copilot-cli-2026-02-03-v0-0-402-github-282736139-30a68bc2]]'
 source_type: github_releases
 theme: agent-mode
@@ -88,7 +87,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v0.0.402
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2026-02-03 · Claude Code · [[Changes/Claude Code/2026-02-03-added-token-count-tool-uses-and-duration-metrics-to-task-tool-results|Added token count, tool uses, and duration metrics to Task tool results]]
+- Earlier: 2026-02-03 · Dify · [[Changes/Dify/2026-02-03-9-agent-mode-changes-in-1-12-0|9 Agent Mode changes in 1.12.0]]
 - Later: 2026-02-03 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-02-03-support-agents-skills-directory-for-auto-loading-skills|Support .agents/skills directory for auto-loading skills]]
 <!-- chronolog:end -->
 

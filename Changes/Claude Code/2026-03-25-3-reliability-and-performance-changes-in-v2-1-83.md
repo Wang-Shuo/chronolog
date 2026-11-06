@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: c2b607af096633446ecfa1f97145e4be281f09e9a8f5365a6e51b6b547180382
+machine_hash: f94be2967d68fcbe5b5974fe8f732ee93babac25b2d7b1169898ef5a1a29b2b5
 product: claude-code
 product_name: Claude Code
 record:
@@ -46,12 +46,12 @@ record:
   title: 3 Reliability and Performance changes in v2.1.83
   type: change
 related_changes:
-- '[[Changes/Windsurf/2026-03-19-various-bug-fixes-and-performance-improvements|Various
-  bug fixes and performance improvements]]'
 - '[[Changes/Cline/2026-03-20-latency-improvements-for-remote-workspaces|Latency improvements
   for remote workspaces]]'
 - '[[Changes/GitHub Copilot CLI/2026-03-20-reduced-memory-usage-when-viewing-large-files-in-their-entirety|Reduced
   memory usage when viewing large files in their entirety]]'
+- '[[Changes/ElevenLabs/2026-03-23-packages-v1-0-0-release-candidate|Packages v1.0.0
+  Release Candidate]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-03-25-v2-1-83-github-301019202-ba6a8317|claude-code-2026-03-25-v2-1-83-github-301019202-ba6a8317]]'
 source_type: github_releases
 theme: reliability-performance
@@ -92,8 +92,8 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.83
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2026-03-20 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-03-20-reduced-memory-usage-when-viewing-large-files-in-their-entirety|Reduced memory usage when viewing large files in their entirety]]
-- Later: 2026-03-26 · Claude Code · [[Changes/Claude Code/2026-03-26-2-reliability-and-performance-changes-in-v2-1-84|2 Reliability and Performance changes in v2.1.84]]
+- Earlier: 2026-03-23 · ElevenLabs · [[Changes/ElevenLabs/2026-03-23-packages-v1-0-0-release-candidate|Packages v1.0.0 Release Candidate]]
+- Later: 2026-03-25 · Open WebUI · [[Changes/Open WebUI/2026-03-25-5-reliability-and-performance-changes-in-v0-8-11|5 Reliability and Performance changes in v0.8.11]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

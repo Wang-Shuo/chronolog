@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 09e373feb6cf8a04e85c623a754ec74229458da07e110a0cb3bdbc1e7419b753
+machine_hash: ca7f72f828ff6b5509842166a307913d1369e0acfbfe70b1a707b757c96d5589
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -44,8 +44,8 @@ record:
   title: 2 Account and Access changes in rust-v0.79.0
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-12-22-2-account-and-access-changes-in-2-3|2 Account and Access
-  changes in 2.3]]'
+- '[[Changes/Dify/2025-12-25-chore-remove-unused-login-call-from-activation-flow-by-hjlarry-in-https-github-c|chore:
+  remove unused login call from activation flow]]'
 - '[[Changes/OpenHands/2025-12-30-added-oauth-2-0-device-flow-for-cli-authentication-by-malhotra5-in-https-github|Added
   OAuth 2.0 Device Flow for CLI authentication]]'
 - '[[Changes/Cline/2026-01-06-added-support-for-azure-based-identity-authentication-in-openai-compatible-provi|Added

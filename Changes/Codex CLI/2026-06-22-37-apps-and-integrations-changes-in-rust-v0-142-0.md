@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 3ba5019674e29a512c85fd1d59cc95ced0a6039f251ee0bfbb36cc7be56eab9b
+machine_hash: 2c96208d750ad73d9aabf0191b888cba254e465b5cca47115be2c1b99945207a
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -126,10 +126,9 @@ record:
   title: 37 Apps and Integrations changes in rust-v0.142.0
   type: change
 related_changes:
-- '[[Changes/Windsurf/2026-06-18-made-mcp-registry-parsing-more-tolerant-of-old-and-inconsistent-schemas|Made
-  MCP registry parsing more tolerant of old and inconsistent schemas]]'
-- '[[Changes/Claude Code/2026-06-19-added-attribution-sessionurl-setting-to-omit-the-claude-ai-session-link-from-com|Added
-  attribution.sessionUrl setting to omit the claude.ai session link…]]'
+- '[[Changes/Replit/2026-06-19-new-mcp-servers-apollo-and-black-forest-labs|New MCP
+  servers: Apollo and Black Forest Labs]]'
+- '[[Changes/Replit/2026-06-19-use-replit-from-claude|Use Replit from Claude]]'
 - '[[Changes/Claude Code/2026-06-22-2-apps-and-integrations-changes-in-v2-1-186|2
   Apps and Integrations changes in v2.1.186]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-06-22-rust-v0-142-0-github-343189954-a218ab4e|codex-cli-2026-06-22-rust-v0-142-0-github-343189954-a218ab4e]]'

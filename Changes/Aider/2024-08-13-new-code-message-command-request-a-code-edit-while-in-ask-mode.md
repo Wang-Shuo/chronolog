@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: e2432aa8495d97f318275c18f2aae19e28de6679605f6e2a18f7e2446e7a8b5c
+machine_hash: 0c13dce978dd631413d03f38b9f1bc1ed1d7f60bf09e040eeb879b6723062053
 product: aider
 product_name: Aider
 record:
@@ -82,7 +82,7 @@ type: change
 ## Nearby in Editor Experience
 
 - Earlier: 2024-08-10 · Aider · [[Changes/Aider/2024-08-10-diff-now-shows-diffs-of-all-changes-resulting-from-your-request-including-lint-a|/diff now shows diffs of all changes resulting from your request, including lint…]]
-- Later: 2024-08-31 · Cline · [[Changes/Cline/2024-08-31-you-can-now-edit-claude-s-changes-before-accepting-when-he-edits-or-creates-a-fi|You can now edit Claude's changes before accepting! When he edits or creates…]]
+- Later: 2024-08-14 · Open WebUI · [[Changes/Open WebUI/2024-08-14-deprecated-frontend-functions-removed-frontend-functions-that-were-migrated-to-b|🗑️ Deprecated Frontend Functions]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

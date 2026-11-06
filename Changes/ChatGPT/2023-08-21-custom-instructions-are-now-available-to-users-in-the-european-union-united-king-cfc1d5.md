@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: memory
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: expansion
-machine_hash: 973f10f127bd2a5794ac99dec37fa9c4a9e6cc22f5119d095187676767c66165
+machine_hash: ccd084afa955f905510ca346654aea0ebea5cb2b5286e952ab0fcfa0527bec9d
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -74,7 +74,7 @@ type: change
 ## Nearby in Memory and Personalization
 
 - Earlier: 2023-08-09 · ChatGPT · [[Changes/ChatGPT/2023-08-09-custom-instructions-are-now-available-to-chatgpt-users-on-the-free-plan-except-f-963d1e|Custom instructions are now available to free users]]
-- Later: 2024-02-13 · ChatGPT · [[Changes/ChatGPT/2024-02-13-we-re-testing-memory-with-chatgpt-remembering-things-you-discuss-across-all-chat-9872c8|Memory and new controls for ChatGPT]]
+- Later: 2024-01-05 · Dify · [[Changes/Dify/2024-01-05-feat-optimize-memory-invoke-error-output-by-takatost-in-https-github-com-langgen|feat: optimize memory & invoke error output]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

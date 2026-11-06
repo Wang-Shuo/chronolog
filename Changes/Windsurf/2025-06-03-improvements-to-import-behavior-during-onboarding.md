@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 6a9ab1d3b9a66dc9cb9ed9d54f3f186d8ee7f799ab29c7f0ea2a0a1450017451
+machine_hash: 7c405fe174b2063a9baa9698e09505d43148d39bcc2b0d43cd6200455db0aae8
 product: windsurf
 product_name: Windsurf
 record:
@@ -42,10 +42,10 @@ record:
   title: Improvements to import behavior during onboarding
   type: change
 related_changes:
-- '[[Changes/Cline/2025-05-22-2-interface-experience-changes-in-v3-17-0|2 Interface
-  Experience changes in v3.17.0]]'
 - '[[Changes/Cline/2025-05-28-add-improved-onboarding-experience-for-new-users-with-guided-setup|Add
   improved onboarding experience for new users with guided setup]]'
+- "[[Changes/Open WebUI/2025-05-29-localization-upgrades-experience-highly-improved-user-interface-translations-and|\U0001F30F
+  Localization Upgrades]]"
 - '[[Changes/ChatGPT/2025-06-03-memory-improvements-are-starting-to-roll-out-to-free-users-in-addition-to-the-sa-a02494|Memory
   improvements are starting to roll out to Free users]]'
 source_release: '[[Releases/Windsurf/windsurf-2025-06-03-v1-9-4-9614b1e4|windsurf-2025-06-03-v1-9-4-9614b1e4]]'

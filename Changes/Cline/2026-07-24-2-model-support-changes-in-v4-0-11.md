@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 415ba33abbd02663e13bae1f0d8ae5e7306c86bee15aeea90cd701c1cac95816
+machine_hash: 5a84bc3f995dfe7f4366e067ded9f32d864df5332a23dc20f4dfd8a6fce79e1b
 product: cline
 product_name: Cline
 record:
@@ -43,9 +43,9 @@ record:
   title: 2 Model Support changes in v4.0.11
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-07-22-optimization-modes-e62142|Optimization modes]]'
-- '[[Changes/GitHub Copilot CLI/2026-07-23-2-model-support-changes-in-v1-0-74|2 Model
-  Support changes in v1.0.74]]'
+- '[[Changes/Ollama/2026-07-23-added-chat-thinking-and-tool-calling-support-for-laguna-2-1-models-including-a-m|Added
+  chat, thinking, and tool calling support for Laguna 2.1 models, including…]]'
+- '[[Changes/Claude/2026-07-24-claude-opus-5-launch|Claude Opus 5 launch]]'
 - '[[Changes/Claude Code/2026-07-24-3-model-support-changes-in-v2-1-219|3 Model Support
   changes in v2.1.219]]'
 source_release: '[[Releases/Cline/cline-2026-07-24-v4-0-11-github-359492045-6636f242|cline-2026-07-24-v4-0-11-github-359492045-6636f242]]'

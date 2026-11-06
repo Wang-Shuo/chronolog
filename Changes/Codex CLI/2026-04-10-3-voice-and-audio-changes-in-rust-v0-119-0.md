@@ -4,20 +4,20 @@ date: '2026-04-10'
 description: 'Codex CLI · 2026-04-10 · Voice and Audio: 3 changes in 0.119.0 — Realtime
   voice sessions now default to the v2 WebRTC path, with configurable transport, voice…'
 diffusion:
-  first_in_tracked: '[[Changes/Aider/2023-08-11-voice-to-code-https-aider-chat-docs-voice-html-support-which-allows-you-to-code|Voice-to-code((source
-    link) support, which allows you…]]'
+  first_in_tracked: '[[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2
+    Voice and Audio changes in 0.3.7]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 973
+  lag_days: 1005
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 841904161f22d8a183f3b5cf854b917d20b7d55178e44839d0f937972ce88595
+machine_hash: 705e25cb222033fc5ebda572aa2d1420b72d2bbf9bd2bfce9b2f2e908c69690a
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -47,12 +47,9 @@ record:
   title: 3 Voice and Audio changes in rust-v0.119.0
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-03-26-slash-commands-unavailable-for-the-current-auth-setup-voice-mobile-chrome-upgrad|Slash
-  commands unavailable for the current auth setup…]]'
-- '[[Changes/Codex CLI/2026-03-26-15579-increase-voice-space-hold-timeout-to-1s-aibrahim-oai|♯15579
-  Increase voice space hold timeout to 1s @aibrahim-oai]]'
-- '[[Changes/Codex CLI/2026-03-31-16114-remove-tui-voice-transcription-feature-etraut-openai|♯16114
-  Remove TUI voice transcription feature @etraut-openai]]'
+- '[[Changes/ElevenLabs/2026-04-07-voices-5fda10|Voices]]'
+- '[[Changes/ElevenLabs/2026-04-07-swift-sdk|Swift SDK]]'
+- '[[Changes/ElevenLabs/2026-04-07-speech-to-text-f6e004|Speech to Text]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-04-10-rust-v0-119-0-github-307754801-19f169d1|codex-cli-2026-04-10-rust-v0-119-0-github-307754801-19f169d1]]'
 source_type: github_releases
 theme: voice
@@ -101,14 +98,14 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.119.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Voice and Audio
 
-- Earlier: 2026-03-31 · Codex CLI · [[Changes/Codex CLI/2026-03-31-16114-remove-tui-voice-transcription-feature-etraut-openai|♯16114 Remove TUI voice transcription feature @etraut-openai]]
+- Earlier: 2026-04-07 · ElevenLabs · [[Changes/ElevenLabs/2026-04-07-speech-to-text-f6e004|Speech to Text]]
 - Later: 2026-04-13 · Cursor · [[Changes/Cursor/2026-04-13-prompt-buttons-now-stay-in-place-while-voice-input-is-processing|Prompt buttons now stay in place while voice input is processing]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-08-11 · Aider · [[Changes/Aider/2023-08-11-voice-to-code-https-aider-chat-docs-voice-html-support-which-allows-you-to-code|Voice-to-code((source link) support, which allows you…]]
+- Earliest same-theme entry in the tracked set: 2023-07-10 · Dify · [[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2 Voice and Audio changes in 0.3.7]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

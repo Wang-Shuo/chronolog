@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 77848a7cf819b45b5ecf5dca6fa650e4784ff48dc5c2c6d00ce0f6fbcbd07c3c
+machine_hash: 8b67e657312fb4a253452b2b5f5a9bf18504b36c540a8f4b971cac3250ee8380
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -87,7 +87,7 @@ type: change
 ## Nearby in Interface Experience
 
 - Earlier: 2023-08-30 · Cursor · [[Changes/Cursor/2023-08-30-you-can-now-switch-to-the-vs-code-sidebar-orientation|Switch to the VS Code sidebar orientation]]
-- Later: 2023-11-03 · Cursor · [[Changes/Cursor/2023-11-03-chat-scroll-we-got-rid-of-sticky-scroll-to-make-the-chat-easier-to-read|Chat scroll: we got rid of sticky scroll to make the chat easier to read]]
+- Later: 2023-09-19 · Dify · [[Changes/Dify/2023-09-19-mermaid-front-end-rendering-by-charli117-in-https-github-com-langgenius-dify-pul|Mermaid front end rendering]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

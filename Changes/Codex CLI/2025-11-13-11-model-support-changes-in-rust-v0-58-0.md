@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: ec0af64fc15597153acc97f548b48b6da635a37cf31caacfbf9addb332124262
+machine_hash: 17a8ba974e2927fff1afb712902d8a7f4c79514c52846b3ce2dff46d5557d7ee
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -60,10 +60,10 @@ record:
   title: 11 Model Support changes in rust-v0.58.0
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2025-11-12-we-re-updating-gpt-5-to-gpt-5-1-instant-and-gpt-5-1-thinking-making-answers-both-d702c4|GPT-5.1
-  in ChatGPT]]'
 - '[[Changes/Gemini CLI/2025-11-12-docs-add-model-documentation-by-jkcinouye-in-https-github-com-google-gemini-gemi|Docs:
   Add /model documentation]]'
+- '[[Changes/Ollama/2025-11-12-ollama-will-now-prefer-dedicated-gpus-over-igpus-when-scheduling-models|Ollama
+  will now prefer dedicated GPUs over iGPUs when scheduling models]]'
 - '[[Changes/Cline/2025-11-13-8-model-support-changes-in-v3-37-0|8 Model Support changes
   in v3.37.0]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2025-11-13-rust-v0-58-0-github-262201496-2a895bfb|codex-cli-2025-11-13-rust-v0-58-0-github-262201496-2a895bfb]]'
@@ -126,7 +126,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.58.0
 ## Nearby in Model Support
 
 - Earlier: 2025-11-13 · Cline · [[Changes/Cline/2025-11-13-8-model-support-changes-in-v3-37-0|8 Model Support changes in v3.37.0]]
-- Later: 2025-11-13 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2025-11-13-gpt-5-1-gpt-5-1-codex-and-gpt-5-1-codex-mini-are-now-available-in-github-copilot|GPT-5.1, GPT-5.1-Codex, and GPT-5.1-Codex-Mini are now available in GitHub Copilot CLI]]
+- Later: 2025-11-13 · Dify · [[Changes/Dify/2025-11-13-5-model-support-changes-in-1-10-0|5 Model Support changes in 1.10.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

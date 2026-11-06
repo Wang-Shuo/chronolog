@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: memory
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: a10a3ba1bf07bc516df8d7886ca822500650794e67f1123a8e790dd5314f66e9
+machine_hash: 8c7987f7973fdcf64a747ff9f1486c622bce78fdfdc38cb5e6dff2e6657c891a
 product: cline
 product_name: Cline
 record:
@@ -41,8 +41,8 @@ record:
   title: Adds option to add custom instructions to the end of the system prompt
   type: change
 related_changes:
-- '[[Changes/OpenHands/2024-07-05-ci-for-colima-modify-cpu-count-and-memory-by-smartmanoj-in-https-github-com-open|CI:
-  For colima, modify CPU count and memory]]'
+- '[[Changes/Dify/2024-07-08-2-memory-and-personalization-changes-in-0-6-13|2 Memory
+  and Personalization changes in 0.6.13]]'
 - '[[Changes/OpenHands/2024-07-13-arch-deprecating-recall-action-and-search-memory-by-xingyaoww-in-https-github-co|arch:
   deprecating recall action and search_memory]]'
 - '[[Changes/Cline/2024-07-28-quality-of-life-improvements-like-markdown-rendering-memory-optimizations-better|Quality
@@ -76,7 +76,7 @@ type: change
 ## Nearby in Memory and Personalization
 
 - Earlier: 2024-07-28 · Cline · [[Changes/Cline/2024-07-28-quality-of-life-improvements-like-markdown-rendering-memory-optimizations-better|Quality of life improvements like markdown rendering, memory optimizations, better…]]
-- Later: 2025-01-07 · OpenHands · [[Changes/OpenHands/2025-01-07-developer-mode-now-defaults-to-storing-data-on-the-filesystem-instead-of-in-memo|Developer mode now defaults to storing data on the filesystem instead of in-memory…]]
+- Later: 2024-08-14 · Dify · [[Changes/Dify/2024-08-14-enhancing-llm-memory-with-conversation-variables-and-variable-assigners-https-di|Enhancing LLM Memory with Conversation Variables and Variable…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

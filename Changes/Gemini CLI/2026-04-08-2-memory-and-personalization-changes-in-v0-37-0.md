@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: memory
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 0df48e1720191b2f93363ef9439b6695693046dd8d5d693f1878945fa087acbb
+machine_hash: bdf6e36ce2eaae6841ff9a65ea2ea70a6a9b22b6a2d3872e379613339c7ce47b
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -43,8 +43,8 @@ record:
   title: 2 Memory and Personalization changes in v0.37.0
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-03-26-15175-chore-morpheus-does-not-generate-memories-jif-oai|♯15175
-  chore: morpheus does not generate memories @jif-oai]]'
+- '[[Changes/Gemini/2026-03-26-make-the-switch-seamlessly-bring-your-ai-memories-and-chat-history-to-gemini|Make
+  the switch: Seamlessly bring your AI memories and chat history to Gemini]]'
 - '[[Changes/Claude Code/2026-03-27-memory-filenames-in-the-saved-n-memories-notice-now-highlight-on-hover-and-open|Memory
   filenames in the "Saved N memories" notice now highlight on hover and open on click]]'
 - '[[Changes/Gemini CLI/2026-04-01-3-memory-and-personalization-changes-in-v0-36-0|3

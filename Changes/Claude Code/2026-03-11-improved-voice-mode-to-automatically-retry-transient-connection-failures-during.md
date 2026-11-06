@@ -4,20 +4,20 @@ date: '2026-03-11'
 description: 'Claude Code · 2026-03-11 · Voice and Audio: Improved voice mode to automatically
   retry transient connection failures during rapid push-to-talk re-press'
 diffusion:
-  first_in_tracked: '[[Changes/Aider/2023-08-11-voice-to-code-https-aider-chat-docs-voice-html-support-which-allows-you-to-code|Voice-to-code((source
-    link) support, which allows you…]]'
+  first_in_tracked: '[[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2
+    Voice and Audio changes in 0.3.7]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 943
+  lag_days: 975
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: d549b07f58dcdbc5a60a8b8cdc5b62545fef4355d9163472f49afd42f8ce297f
+machine_hash: 55490c8ac983bfe3dd3adc7672b8ff3315820b5d0cd4ae4ab226b377f33029cd
 product: claude-code
 product_name: Claude Code
 record:
@@ -43,10 +43,9 @@ record:
     during…
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-03-05-2-voice-and-audio-changes-in-rust-v0-111-0|2 Voice
-  and Audio changes in rust-v0.111.0]]'
-- '[[Changes/Claude Code/2026-03-07-added-voice-pushtotalk-keybinding-to-make-the-voice-activation-key-rebindable-in|Added
-  voice:pushToTalk keybinding to make the voice activation key rebindable…]]'
+- '[[Changes/ElevenLabs/2026-03-09-speech-to-text-dec5c9|Speech to Text]]'
+- "[[Changes/Open WebUI/2026-03-09-azure-speech-transcription-errors-improved-azure-ai-speech-error-handling-to-dis|\U0001F3A4
+  Azure speech transcription errors. Improved Azure AI Speech error handling…]]"
 - '[[Changes/Claude Code/2026-03-10-improved-voice-input-transcription-accuracy-for-repo-names-and-common-dev-terms|Improved
   voice input transcription accuracy for repo names and common dev terms…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-03-11-v2-1-73-github-295814700-0abb054f|claude-code-2026-03-11-v2-1-73-github-295814700-0abb054f]]'
@@ -90,7 +89,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-08-11 · Aider · [[Changes/Aider/2023-08-11-voice-to-code-https-aider-chat-docs-voice-html-support-which-allows-you-to-code|Voice-to-code((source link) support, which allows you…]]
+- Earliest same-theme entry in the tracked set: 2023-07-10 · Dify · [[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2 Voice and Audio changes in 0.3.7]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

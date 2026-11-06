@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: b2c0b5ca2a39050ed4326cc7c6a442bdda197f56b3a459ef39c008817e4927da
+machine_hash: dfff85eb34b3f3a9d3cdeee73be30e3b43b30012dd5bf1dea53e4a535f6c9c76
 product: cline
 product_name: Cline
 record:
@@ -61,12 +61,12 @@ record:
     Bedrock…
   type: change
 related_changes:
-- '[[Changes/Cline/2025-01-30-new-context-window-progress-bar-in-the-task-header-to-understand-increased-cost|New
-  Context Window progress bar in the task header to understand increased…]]'
 - '[[Changes/Aider/2025-01-31-improved-handling-of-context-window-size-limits-with-better-messaging-and-ollama|Improved
   handling of context window size limits, with better messaging…]]'
 - '[[Changes/Aider/2025-02-06-dynamically-changes-the-ollama-context-window-to-hold-the-current-chat|Dynamically
   changes the Ollama context window to hold the current chat]]'
+- '[[Changes/Dify/2025-02-07-feat-add-completion-mode-and-context-size-options-for-llm-configuration-by-laipz|feat:
+  add completion mode and context size options for LLM configuration]]'
 source_release: '[[Releases/Cline/cline-2025-02-19-v3-4-0-github-201249725-2b8f1358|cline-2025-02-19-v3-4-0-github-201249725-2b8f1358]]'
 source_type: github_releases
 theme: context-window
@@ -98,7 +98,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Context Window
 
-- Earlier: 2025-02-06 · Aider · [[Changes/Aider/2025-02-06-dynamically-changes-the-ollama-context-window-to-hold-the-current-chat|Dynamically changes the Ollama context window to hold the current chat]]
+- Earlier: 2025-02-07 · Dify · [[Changes/Dify/2025-02-07-feat-add-completion-mode-and-context-size-options-for-llm-configuration-by-laipz|feat: add completion mode and context size options for LLM configuration]]
 - Later: 2025-02-19 · Cursor · [[Changes/Cursor/2025-02-19-ui-refresh-phase-one-of-a-fresh-coat-of-paint-with-new-default-cursor-themes-des|UI refresh: Phase one of a fresh coat of paint with new default Cursor themes…]]
 <!-- chronolog:end -->
 

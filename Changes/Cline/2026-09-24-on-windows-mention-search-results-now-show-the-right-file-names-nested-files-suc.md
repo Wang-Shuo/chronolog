@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: search-browsing
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 4849802f836cc016b123be3da8b5078537cb42bde55bf7dd110b6451f69818a6
+machine_hash: 9efdca7d4a6bf257500f859bb4899efa059d1162662c1821cdad249109893790
 product: cline
 product_name: Cline
 record:
@@ -44,8 +44,8 @@ record:
   title: On Windows, @-mention search results now show the right file names
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-09-21-consecutive-steering-prompts-in-the-same-mode-combine-into-one-pending-message-p|Consecutive
-  steering prompts in the same mode combine into one pending message]]'
+- '[[Changes/Open WebUI/2026-09-21-6-search-and-browsing-changes-in-v0-11-4|6 Search
+  and Browsing changes in v0.11.4]]'
 - '[[Changes/Codex CLI/2026-09-22-2-search-and-browsing-changes-in-rust-v0-156-0|2
   Search and Browsing changes in rust-v0.156.0]]'
 - '[[Changes/Claude Code/2026-09-23-improved-deep-research-reliability-on-long-research-briefs-by-removing-unused-re|Improved

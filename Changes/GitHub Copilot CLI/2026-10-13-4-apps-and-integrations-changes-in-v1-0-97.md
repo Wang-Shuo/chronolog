@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 5f8d46de6c0cc892a6290dfb1ed4d8b830bd0256923195f350e6dbe95d4d597a
+machine_hash: a49af5cc143439b4c57dddad902b12231a4137a02c446ff1b29661feb3246fd1
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -50,11 +50,11 @@ record:
   title: 4 Apps and Integrations changes in v1.0.97
   type: change
 related_changes:
-- '[[Changes/Cline/2026-10-13-an-mcp-server-or-hook-that-exits-before-reading-all-of-its-input-no-longer-crash|An
-  MCP server or hook that exits before reading all of its input no longer crashes…]]'
 - '[[Changes/Cursor/2026-10-13-2-apps-and-integrations-changes-in-origin-app-marketplace|2
   Apps and Integrations changes in Origin App Marketplace]]'
 - '[[Changes/Cursor/2026-10-13-apps-for-your-stack|Apps for your stack]]'
+- '[[Changes/Gemini/2026-10-13-an-easier-way-to-customize-how-gemini-works-for-you-and-more-connected-apps|An
+  easier way to customize how Gemini works for you and more connected apps]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-10-13-v1-0-97-github-411990782-ee7b7038|github-copilot-cli-2026-10-13-v1-0-97-github-411990782-ee7b7038]]'
 source_type: github_releases
 theme: apps-integrations
@@ -98,8 +98,8 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.97
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-10-13 · Cursor · [[Changes/Cursor/2026-10-13-apps-for-your-stack|Apps for your stack]]
-- Later: 2026-10-14 · Claude Code · [[Changes/Claude Code/2026-10-14-7-apps-and-integrations-changes-in-v2-1-300|7 Apps and Integrations changes in v2.1.300]]
+- Earlier: 2026-10-13 · Gemini · [[Changes/Gemini/2026-10-13-an-easier-way-to-customize-how-gemini-works-for-you-and-more-connected-apps|An easier way to customize how Gemini works for you and more connected apps]]
+- Later: 2026-10-13 · Lovable · [[Changes/Lovable/2026-10-13-approve-every-tool-from-a-chat-connector-at-once|Approve every tool from a chat connector at once]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

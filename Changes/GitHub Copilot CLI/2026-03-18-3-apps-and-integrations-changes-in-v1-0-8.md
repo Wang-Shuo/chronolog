@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 4a2e41917084a186be0d7c9bfb51a9d1fb30ad7c74d1af60243ae30903524709
+machine_hash: c496faeb118df1029213288aa8e75865c06d7a263eacf7ff8c1f39419b6feb8c
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -47,12 +47,12 @@ record:
   title: 3 Apps and Integrations changes in v1.0.8
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2026-03-17-4-apps-and-integrations-changes-in-v0-34-0|4 Apps
-  and Integrations changes in v0.34.0]]'
-- '[[Changes/GitHub Copilot CLI/2026-03-17-add-experimental-sdk-session-apis-to-list-and-manage-skills-mcp-servers-and-plug|Add
-  experimental SDK session APIs to list and manage skills, MCP servers…]]'
+- '[[Changes/Ollama/2026-03-17-docker-containers-spin-up-an-integration-as-a-pipeline-step-to-run-evals-test-pr|Docker/containers:
+  spin up an integration as a pipeline step to run evals, test…]]'
 - '[[Changes/Claude Code/2026-03-18-2-apps-and-integrations-changes-in-v2-1-79|2 Apps
   and Integrations changes in v2.1.79]]'
+- '[[Changes/Dify/2026-03-18-4-apps-and-integrations-changes-in-1-13-2|4 Apps and
+  Integrations changes in 1.13.2]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-03-18-v1-0-8-github-298648607-10ad7512|github-copilot-cli-2026-03-18-v1-0-8-github-298648607-10ad7512]]'
 source_type: github_releases
 theme: apps-integrations
@@ -92,7 +92,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.8
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-03-18 · Claude Code · [[Changes/Claude Code/2026-03-18-2-apps-and-integrations-changes-in-v2-1-79|2 Apps and Integrations changes in v2.1.79]]
+- Earlier: 2026-03-18 · Dify · [[Changes/Dify/2026-03-18-4-apps-and-integrations-changes-in-1-13-2|4 Apps and Integrations changes in 1.13.2]]
 - Later: 2026-03-19 · Claude Code · [[Changes/Claude Code/2026-03-19-4-apps-and-integrations-changes-in-v2-1-80|4 Apps and Integrations changes in v2.1.80]]
 <!-- chronolog:end -->
 

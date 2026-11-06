@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: fd02327d56c5729cce2795a7e352d54ab61feb5849a6d32eaf7d265be1df0716
+machine_hash: 86361ef66a70a5c05f43ca5a7c032630b2fbaa6d86d1a32967f18fe4380b81d5
 product: cline
 product_name: Cline
 record:
@@ -40,12 +40,12 @@ record:
   title: Enable OpenRouter prompt cache control for Qwen models
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-05-11-custom-describe-in-natural-language-when-bugbot-should-use-default-or-high-effor|Custom:
-  Describe in natural language when Bugbot should use default or high effort]]'
 - '[[Changes/Gemini CLI/2026-05-12-5-model-support-changes-in-v0-42-0|5 Model Support
   changes in v0.42.0]]'
 - '[[Changes/GitHub Copilot CLI/2026-05-12-display-a-warning-when-the-cli-version-is-deprecated-and-premium-model-access-ma|Display
   a warning when the CLI version is deprecated and premium model access may be lost]]'
+- '[[Changes/Ollama/2026-05-12-mlx-refined-model-push-behavior-by-dhiltgen-in-https-github-com-ollama-ollama-pu|mlx:
+  refined model push behavior]]'
 source_release: '[[Releases/Cline/cline-2026-05-13-v3-83-0-github-322019752-5cd466dd|cline-2026-05-13-v3-83-0-github-322019752-5cd466dd]]'
 source_type: github_releases
 theme: model-support
@@ -76,8 +76,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-05-12 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-05-12-display-a-warning-when-the-cli-version-is-deprecated-and-premium-model-access-ma|Display a warning when the CLI version is deprecated and premium model access may be lost]]
-- Later: 2026-05-14 · Claude Code · [[Changes/Claude Code/2026-05-14-2-model-support-changes-in-v2-1-142|2 Model Support changes in v2.1.142]]
+- Earlier: 2026-05-12 · Ollama · [[Changes/Ollama/2026-05-12-mlx-refined-model-push-behavior-by-dhiltgen-in-https-github-com-ollama-ollama-pu|mlx: refined model push behavior]]
+- Later: 2026-05-13 · Ollama · [[Changes/Ollama/2026-05-13-nomic-embed-text-now-converts-inputs-to-lowercase-per-the-model-card-where-prior|nomic-embed-text now converts inputs to lowercase per the model card where prior…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

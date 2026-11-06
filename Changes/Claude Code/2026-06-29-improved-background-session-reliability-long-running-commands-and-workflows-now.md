@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: d9c9956e5307af42395785c113ecda183500349affc92fcbd5755019a0828fe0
+machine_hash: 98e94aa7688d95bf092876bd81082302552671f84b544fb444f0dfde37820f65
 product: claude-code
 product_name: Claude Code
 record:
@@ -47,11 +47,11 @@ record:
   title: Improved background session reliability
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-06-22-28791-bazel-refresh-expired-macos-sdk-pin-anp-oai|♯28791
-  bazel: refresh expired macOS SDK pin @anp-oai]]'
 - '[[Changes/Windsurf/2026-06-23-devin-desktop|Devin Desktop]]'
 - '[[Changes/Codex CLI/2026-06-25-26709-pac-4-add-macos-system-proxy-resolver-canvrno-oai|♯26709
   PAC 4 - Add macOS system proxy resolver @canvrno-oai]]'
+- '[[Changes/Dify/2026-06-25-install-it-on-any-platform-macos-linux-windows-with-a-single-command-and-no-acce|Install
+  it on any platform (macOS, Linux, Windows) with a single command and no…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-06-29-v2-1-196-github-346482381-e21be272|claude-code-2026-06-29-v2-1-196-github-346482381-e21be272]]'
 source_type: github_releases
 theme: mobile-desktop
@@ -87,8 +87,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2026-06-25 · Codex CLI · [[Changes/Codex CLI/2026-06-25-26709-pac-4-add-macos-system-proxy-resolver-canvrno-oai|♯26709 PAC 4 - Add macOS system proxy resolver @canvrno-oai]]
-- Later: 2026-06-30 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-06-30-2-mobile-and-desktop-changes-in-v1-0-66|2 Mobile and Desktop changes in v1.0.66]]
+- Earlier: 2026-06-25 · Dify · [[Changes/Dify/2026-06-25-install-it-on-any-platform-macos-linux-windows-with-a-single-command-and-no-acce|Install it on any platform (macOS, Linux, Windows) with a single command and no…]]
+- Later: 2026-06-29 · ElevenLabs · [[Changes/ElevenLabs/2026-06-29-ios-sdk|iOS SDK]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

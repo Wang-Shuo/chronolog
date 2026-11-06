@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 8b572b43f65893ca2d9f672ef95141bc131c66bf42c1d4ae4d90991c7cde3451
+machine_hash: d2484ad6ac9cce3810297854a041409be0d391496efa322c68b092589065c6b8
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -43,10 +43,10 @@ record:
   title: '#23069 multiagent: trim model-visible description, cap to 5 models @sayan-oai'
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-05-19-resumed-sessions-now-keep-the-model-they-were-using-instead-of-picking-up-anothe|Resumed
-  sessions now keep the model they were using instead of picking up another…]]'
-- '[[Changes/Cline/2026-05-19-add-sap-ai-core-support-for-additional-hosted-models|Add
-  SAP AI Core support for additional hosted models]]'
+- '[[Changes/Gemini/2026-05-19-3-5-flash-delivers-frontier-level-intelligence-for-your-daily-life|3.5
+  Flash delivers frontier-level intelligence for your daily life]]'
+- '[[Changes/Gemini/2026-05-19-gemini-responses-are-now-even-richer-more-dynamic-and-interactive|Gemini
+  responses are now even richer, more dynamic, and interactive]]'
 - '[[Changes/GitHub Copilot CLI/2026-05-19-2-model-support-changes-in-v1-0-49|2 Model
   Support changes in v1.0.49]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-05-20-rust-v0-132-0-github-325545332-3345c1c4|codex-cli-2026-05-20-rust-v0-132-0-github-325545332-3345c1c4]]'

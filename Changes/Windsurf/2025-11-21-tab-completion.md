@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 46342d7df10e0cc8817aea02e003bec7bd4088d7dcea4b1fcf93da3b689424b5
+machine_hash: d3eb01ce68512635c12ebf48cd1eff974d1146ce0556ce82ea32e86a49a6864f
 product: windsurf
 product_name: Windsurf
 record:
@@ -87,7 +87,7 @@ type: change
 ## Nearby in Editor Experience
 
 - Earlier: 2025-11-21 · Cursor · [[Changes/Cursor/2025-11-21-4-editor-experience-changes-in-2-1|4 Editor Experience changes in 2.1]]
-- Later: 2025-11-26 · Gemini CLI · [[Changes/Gemini CLI/2025-11-26-restore-keyboard-mode-when-exiting-the-editor-by-scidomino-in-https-github-com-g|Restore keyboard mode when exiting the editor]]
+- Later: 2025-11-26 · Dify · [[Changes/Dify/2025-11-26-introduced-a-broad-set-of-workflow-editor-improvements-including-ui-refinement-s|Introduced a broad set of workflow-editor improvements, including UI refinement…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

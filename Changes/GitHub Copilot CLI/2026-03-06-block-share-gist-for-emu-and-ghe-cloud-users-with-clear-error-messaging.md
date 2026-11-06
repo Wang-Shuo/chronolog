@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: ae652a61ec1f82e2b0885584af1c50325c8fe38d581e1ffed3cb8ffb1725aaef
+machine_hash: 8a8037609ac910e9f842d45fb28cce5cff890adc059c9d43acb18b1b33902c80
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -42,12 +42,12 @@ record:
   title: Block /share gist for EMU and GHE Cloud users with clear error messaging
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-02-25-12028-remove-feature-flag-collaboration-modes-aibrahim-oai|♯12028
-  remove feature flag collaboration modes @aibrahim-oai]]'
-- '[[Changes/Gemini CLI/2026-02-25-enable-in-cli-extension-management-commands-for-team-by-chrstnb-in-https-github|Enable
-  in-CLI extension management commands for team]]'
+- '[[Changes/v0/2026-02-25-added-team-setting-to-allow-v0-to-open-prs-on-behalf-of-members-without-github-a|Added
+  team setting to allow v0 to open PRs on behalf of members without GitHub accounts]]'
 - '[[Changes/Codex CLI/2026-02-26-2-collaboration-changes-in-rust-v0-106-0|2 Collaboration
   changes in rust-v0.106.0]]'
+- "[[Changes/Open WebUI/2026-03-01-individual-user-sharing-control-administrators-can-now-disable-individual-user-s|\U0001F510
+  Individual user sharing control. Administrators can now disable individual…]]"
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-03-06-v0-0-423-github-294013031-8fd55d5e|github-copilot-cli-2026-03-06-v0-0-423-github-294013031-8fd55d5e]]'
 source_type: github_releases
 theme: collaboration
@@ -80,8 +80,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Collaboration
 
-- Earlier: 2026-02-26 · Codex CLI · [[Changes/Codex CLI/2026-02-26-2-collaboration-changes-in-rust-v0-106-0|2 Collaboration changes in rust-v0.106.0]]
-- Later: 2026-03-10 · Codex CLI · [[Changes/Codex CLI/2026-03-10-14117-feat-otel-centralize-otel-metric-names-and-shared-tag-builders-owenlin0|♯14117 feat(otel): Centralize OTEL metric names and shared tag builders @owenlin0]]
+- Earlier: 2026-03-01 · Open WebUI · [[Changes/Open WebUI/2026-03-01-individual-user-sharing-control-administrators-can-now-disable-individual-user-s|🔐 Individual user sharing control. Administrators can now disable individual…]]
+- Later: 2026-03-09 · Open WebUI · [[Changes/Open WebUI/2026-03-09-teams-webhook-crash-fixed-a-typeerror-crash-in-the-teams-webhook-handler-when-us|📨 Teams webhook crash. Fixed a TypeError crash in the Teams webhook handler…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

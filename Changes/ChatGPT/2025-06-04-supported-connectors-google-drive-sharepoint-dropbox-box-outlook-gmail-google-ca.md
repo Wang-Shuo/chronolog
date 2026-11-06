@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 7d59c200763846cc480469b6f56fd760d4d73ce81f0ccdbc0e024632f457ac0e
+machine_hash: 242e6865799095d33e21e27b6970a4d4ad2c025c269b45a116bae460ab70526d
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -47,10 +47,9 @@ record:
     Google…'
   type: change
 related_changes:
-- '[[Changes/Cline/2025-05-16-add-tailwind-css-intellisense-to-the-recommended-extensions-list|Add
-  Tailwind CSS IntelliSense to the recommended extensions list]]'
-- '[[Changes/Cline/2025-05-22-add-integration-with-nebius-ai-studio-as-a-new-provider-thanks-aktsvigun|Add
-  integration with Nebius AI Studio as a new provider (Thanks @Aktsvigun!)]]'
+- "[[Changes/Open WebUI/2025-05-29-azure-openai-embedding-support-you-can-now-select-azure-openai-endpoints-for-tex|\U0001F7E6
+  Azure OpenAI Embedding Support]]"
+- '[[Changes/Replit/2025-05-30-stripe-checkout-release|Stripe Checkout release]]'
 - '[[Changes/OpenHands/2025-06-01-2-apps-and-integrations-changes-in-0-40-0|2 Apps
   and Integrations changes in 0.40.0]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-06-04-connectors-in-beta-for-deep-research-plus-pro-team-enterprise-ed-6bb21f0f|chatgpt-2025-06-04-connectors-in-beta-for-deep-research-plus-pro-team-enterprise-ed-6bb21f0f]]'

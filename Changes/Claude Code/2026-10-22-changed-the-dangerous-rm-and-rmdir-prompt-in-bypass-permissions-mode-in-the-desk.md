@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: c02ff88cacdafcb60d76067407d63554c732f1a7fc2a2c7c1f4b75c98c661183
+machine_hash: 92143ac7442fbab4f998d890133ff7c0ac3b5ca7ea688766634d356bd864f976
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,12 +45,12 @@ record:
   title: Changed the dangerous `rm` and `rmdir` prompt in bypass permissions mode…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-19-windows-improved-git-command-start-up-with-a-standard-git-for-windows-install-by|Windows:
-  Improved git command start-up with a standard Git for Windows install…]]'
 - '[[Changes/GitHub Copilot CLI/2026-10-20-macos-sandboxed-commands-can-connect-directly-to-localhost-tcp-services-when-loc|macOS
   sandboxed commands can connect directly to localhost TCP services when local…]]'
 - '[[Changes/OpenHands/2026-10-20-2-mobile-and-desktop-changes-in-v1-29-0|2 Mobile
   and Desktop changes in v1.29.0]]'
+- '[[Changes/Ollama/2026-10-21-note-flint-is-supported-on-macos-other-gpu-support-will-be-enabled-in-a-subseque|Note:
+  Flint is supported on MacOS]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-10-22-v2-1-309-github-421170674-b2394d99|claude-code-2026-10-22-v2-1-309-github-421170674-b2394d99]]'
 source_type: github_releases
 theme: mobile-desktop
@@ -87,8 +87,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2026-10-20 · OpenHands · [[Changes/OpenHands/2026-10-20-2-mobile-and-desktop-changes-in-v1-29-0|2 Mobile and Desktop changes in v1.29.0]]
-- Later: 2026-10-22 · OpenHands · [[Changes/OpenHands/2026-10-22-the-app-isn-t-signed-with-an-apple-developer-id-yet-so-macos-may-call-a|The app isn't signed with an Apple Developer ID yet, so macOS may call a]]
+- Earlier: 2026-10-21 · Ollama · [[Changes/Ollama/2026-10-21-note-flint-is-supported-on-macos-other-gpu-support-will-be-enabled-in-a-subseque|Note: Flint is supported on MacOS]]
+- Later: 2026-10-22 · Ollama · [[Changes/Ollama/2026-10-22-flint-https-ollama-com-library-flint-now-runs-on-linux-and-windows-as-well-as-ma|Flint((source link) now runs on Linux and Windows as well as macOS]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

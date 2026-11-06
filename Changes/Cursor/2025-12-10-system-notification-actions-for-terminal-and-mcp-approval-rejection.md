@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 9f3427c228fb57599c531e211c1bdf20a549510dea1689f3471fed6cdca55f6f
+machine_hash: 2538d8b01c35bd80706af85a0daaec92d318f1986aacba54fd128ecade310a68
 product: cursor
 product_name: Cursor
 record:
@@ -51,10 +51,10 @@ record:
   title: System notification actions for terminal and MCP approval/rejection
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2025-12-09-3-apps-and-integrations-changes-in-rust-v0-66-0|3
-  Apps and Integrations changes in rust-v0.66.0]]'
 - '[[Changes/Gemini CLI/2025-12-09-8-apps-and-integrations-changes-in-v0-20-0|8 Apps
   and Integrations changes in v0.20.0]]'
+- '[[Changes/v0/2025-12-09-2-apps-and-integrations-changes-in-bug-fixes-and-improvements-for-dec-9th|2
+  Apps and Integrations changes in Bug fixes and improvements for Dec 9th]]'
 - '[[Changes/Codex CLI/2025-12-10-7817-fix-upgrade-modelcontextprotocol-sdk-to-1-24-0|♯7817
   fix: Upgrade @modelcontextprotocol/sdk to ^1.24.0]]'
 source_release: '[[Releases/Cursor/cursor-2025-12-10-2-2-https-cursor-com-changelog-2-2-297c9323|cursor-2025-12-10-2-2-https-cursor-com-changelog-2-2-297c9323]]'
@@ -94,7 +94,7 @@ type: change
 ## Nearby in Apps and Integrations
 
 - Earlier: 2025-12-10 · Codex CLI · [[Changes/Codex CLI/2025-12-10-7817-fix-upgrade-modelcontextprotocol-sdk-to-1-24-0|♯7817 fix: Upgrade @modelcontextprotocol/sdk to ^1.24.0]]
-- Later: 2025-12-10 · Windsurf · [[Changes/Windsurf/2025-12-10-mcp-servers|MCP Servers]]
+- Later: 2025-12-10 · Lovable · [[Changes/Lovable/2025-12-10-miro-mcp-available-as-a-chat-connector|Miro MCP available as a chat connector]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

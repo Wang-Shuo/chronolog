@@ -1,0 +1,115 @@
+---
+card_id: dify-2025-04-09-1de727
+date: '2025-04-09'
+description: 'Dify · 2025-04-09 · Safety and Privacy: 4 changes in v1.2.0 — **Security
+  & Efficiency**: Fixes like the provider credentials load error by @liuzhenghua ensure…'
+diffusion:
+  first_in_tracked: '[[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|Ghost
+    mode for opting out of storing any kind of data on our servers]]'
+  inference: No adoption, equivalence, or causation claim.
+  lag_days: 724
+  relation: same-theme-chronology
+  role: later-observed
+  scope: tracked-products-only
+  theme: safety-privacy
+  tracked_products_count: 20
+evolves_from: []
+extractor_version: fallback-v5
+impact: incremental
+kind: digest
+machine_hash: ee0e3ea5ab9ca05e4deeb13e12e6da6ccb2641be36b30b8a8e2f1e662584bb05
+product: dify
+product_name: Dify
+record:
+  card_id: dify-2025-04-09-1de727
+  comparison: ''
+  date: '2025-04-09'
+  description: 'Dify — v1.2.0: 4 Safety and Privacy changes'
+  evidence:
+  - quote: '**Security & Efficiency**: Fixes like the provider credentials load error
+      by @liuzhenghua ensure the platform''s robust performance. Also, optimizing
+      the database workflow app log index has been another focus area.'
+    source_release: https://github.com/langgenius/dify/releases/tag/1.2.0
+  - quote: 'SaaS: batch upload limit check for sandbox plan by @JohnJyong in https://github.com/langgenius/dify/pull/17264'
+    source_release: https://github.com/langgenius/dify/releases/tag/1.2.0
+  - quote: 'fix: update permission logic to ensure administrators always have access
+      by @BenjaminX in https://github.com/langgenius/dify/pull/17360'
+    source_release: https://github.com/langgenius/dify/releases/tag/1.2.0
+  - quote: 'optimize: plugin permission by @quicksandznzn in https://github.com/langgenius/dify/pull/17507'
+    source_release: https://github.com/langgenius/dify/releases/tag/1.2.0
+  extractor_version: fallback-v5
+  impact: incremental
+  kind: digest
+  product: dify
+  product_name: Dify
+  slug: 4-safety-and-privacy-changes-in-1-2-0
+  source_release: dify-2025-04-09-1-2-0-github-211219994-e78c941d
+  source_type: github_releases
+  theme: safety-privacy
+  title: 4 Safety and Privacy changes in 1.2.0
+  type: change
+related_changes:
+- '[[Changes/Dify/2025-03-24-2-safety-and-privacy-changes-in-1-1-3|2 Safety and Privacy
+  changes in 1.1.3]]'
+- '[[Changes/Open WebUI/2025-04-01-2-safety-and-privacy-changes-in-v0-6-0|2 Safety
+  and Privacy changes in v0.6.0]]'
+- '[[Changes/Open WebUI/2025-04-05-3-safety-and-privacy-changes-in-v0-6-1|3 Safety
+  and Privacy changes in v0.6.1]]'
+source_release: '[[Releases/Dify/dify-2025-04-09-1-2-0-github-211219994-e78c941d|dify-2025-04-09-1-2-0-github-211219994-e78c941d]]'
+source_type: github_releases
+theme: safety-privacy
+title: 4 Safety and Privacy changes in 1.2.0
+type: change
+---
+
+<!-- chronolog:begin region="header" -->
+# 4 Safety and Privacy changes in 1.2.0
+
+**Dify** · 2025-04-09 · [[Themes/safety-privacy|Safety and Privacy]] · Digest · [Official source](https://github.com/langgenius/dify/releases/tag/1.2.0) · from [[Releases/Dify/dify-2025-04-09-1-2-0-github-211219994-e78c941d|v1.2.0]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="evidence" -->
+## Changes in this digest
+
+> **Security & Efficiency**: Fixes like the provider credentials load error by @liuzhenghua ensure the platform's robust performance. Also, optimizing the database workflow app log index has been another focus area.
+
+> SaaS: batch upload limit check for sandbox plan by @JohnJyong in https://github.com/langgenius/dify/pull/17264
+
+> fix: update permission logic to ensure administrators always have access by @BenjaminX in https://github.com/langgenius/dify/pull/17360
+
+> optimize: plugin permission by @quicksandznzn in https://github.com/langgenius/dify/pull/17507
+
+Source: https://github.com/langgenius/dify/releases/tag/1.2.0
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="context" -->
+## Also in this release
+
+- [[Changes/Dify/2025-04-09-feat-agent-node-add-memory-by-nov1c444-in-https-github-com-langgenius-dify-pull|feat: agent node add memory]] · Memory and Personalization
+- [[Changes/Dify/2025-04-09-ui-ux-improvements-whether-it-s-fixing-layout-issues-on-mobile-thanks-leeeeeem-i|UI/UX Improvements: Whether it’s fixing layout issues on mobile…]] · Mobile and Desktop
+- [[Changes/Dify/2025-04-09-2-reliability-and-performance-changes-in-1-2-0|2 Reliability and Performance changes in 1.2.0]] · Reliability and Performance
+- [[Changes/Dify/2025-04-09-2-developer-workflow-changes-in-1-2-0|2 Developer Workflow changes in 1.2.0]] · Developer Workflow
+- [[Changes/Dify/2025-04-09-hello-community-we-re-excited-to-share-our-v1-2-0-update-with-you-it-s-packed-wi|Hello community!]] · Collaboration
+- [[Changes/Dify/2025-04-09-5-automation-and-scheduling-changes-in-1-2-0|5 Automation and Scheduling changes in 1.2.0]] · Automation and Scheduling
+- [[Changes/Dify/2025-04-09-6-model-support-changes-in-1-2-0|6 Model Support changes in 1.2.0]] · Model Support
+- [[Changes/Dify/2025-04-09-6-apps-and-integrations-changes-in-1-2-0|6 Apps and Integrations changes in 1.2.0]] · Apps and Integrations
+- [[Changes/Dify/2025-04-09-chore-slider-fix-the-slider-lint-error-by-nov1c444-in-https-github-com-langgeniu|chore(slider): fix the slider lint error]] · Editor Experience
+- [[Changes/Dify/2025-04-09-82-other-changes-in-1-2-0|82 other changes in 1.2.0]] · Other changes
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="nearby" -->
+## Nearby in Safety and Privacy
+
+- Earlier: 2025-04-05 · Open WebUI · [[Changes/Open WebUI/2025-04-05-3-safety-and-privacy-changes-in-v0-6-1|3 Safety and Privacy changes in v0.6.1]]
+- Later: 2025-04-13 · Open WebUI · [[Changes/Open WebUI/2025-04-13-5-safety-and-privacy-changes-in-v0-6-3|5 Safety and Privacy changes in v0.6.3]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="relations" -->
+## Related
+
+- Earliest same-theme entry in the tracked set: 2023-04-16 · Cursor · [[Changes/Cursor/2023-04-16-ghost-mode-for-opting-out-of-storing-any-kind-of-data-on-our-servers|Ghost mode for opting out of storing any kind of data on our servers]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="footer" -->
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20dify-2025-04-09-1de727&body=Card%3A%20Changes%2FDify%2F2025-04-09-4-safety-and-privacy-changes-in-1-2-0.md%0ACard%20ID%3A%20dify-2025-04-09-1de727%0ASource%3A%20https%3A%2F%2Fgithub.com%2Flanggenius%2Fdify%2Freleases%2Ftag%2F1.2.0%0A%0AWhat%20should%20be%20corrected%3F%0A)
+<!-- chronolog:end -->

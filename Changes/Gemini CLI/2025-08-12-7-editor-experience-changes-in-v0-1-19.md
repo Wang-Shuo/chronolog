@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: a0cada544745ddebb56cf567d289dbdf541554225fb37b9d7540289b3271bb1c
+machine_hash: ac5cee77179a1355dae97b5aae57bc57a07497a81da403f23ca21889a1050522
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -56,10 +56,9 @@ record:
   title: 7 Editor Experience changes in v0.1.19
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2025-08-06-27-editor-experience-changes-in-v0-1-18|27 Editor
-  Experience changes in v0.1.18]]'
-- '[[Changes/Cline/2025-08-07-hostbridge-diff-diagnostics-by-kvyb-in-https-github-com-cline-cline-pull-5368|Hostbridge
-  diff diagnostics]]'
+- '[[Changes/Lovable/2025-08-11-search-all-files-in-the-code-editor|Search all files
+  in the code editor]]'
+- '[[Changes/Lovable/2025-08-11-upgraded-people-tab|Upgraded people tab]]'
 - '[[Changes/Codex CLI/2025-08-12-https-github-com-openai-codex-pull-2050-show-diff-preview-for-apply-patch|(source
   link) show diff preview for apply_patch]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2025-08-12-v0-1-19-github-239452049-c4d9f679|gemini-cli-2025-08-12-v0-1-19-github-239452049-c4d9f679]]'

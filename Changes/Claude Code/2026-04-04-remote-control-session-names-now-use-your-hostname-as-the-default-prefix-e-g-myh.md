@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 78866ff3593ed76bb7fe22a25483c5f3dec7557cc7eedbd879c92d72261bb0e1
+machine_hash: 523892e6f9c9dcc62dc0f6dea46cf7093967f517cf0f748dc0460f85f880973d
 product: claude-code
 product_name: Claude Code
 record:
@@ -44,12 +44,12 @@ record:
   title: Remote Control session names now use your hostname as the default prefix…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-04-02-4-apps-and-integrations-changes-in-v2-1-91|4 Apps
-  and Integrations changes in v2.1.91]]'
-- '[[Changes/Cursor/2026-04-02-2-apps-and-integrations-changes-in-3-0|2 Apps and Integrations
-  changes in 3.0]]'
 - '[[Changes/GitHub Copilot CLI/2026-04-02-mcp-tool-calls-display-tool-name-and-parameter-summary-in-the-timeline|MCP
   tool calls display tool name and parameter summary in the timeline]]'
+- '[[Changes/Lovable/2026-04-02-app-connectors-aikido-gitlab-and-aws-s3|App connectors:
+  Aikido, GitLab, and AWS S3]]'
+- '[[Changes/Lovable/2026-04-02-chat-connectors-hex-confidence-and-posthog|Chat connectors:
+  Hex, Confidence, and PostHog]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-04-04-v2-1-92-github-305189904-2eb020f5|claude-code-2026-04-04-v2-1-92-github-305189904-2eb020f5]]'
 source_type: github_releases
 theme: apps-integrations
@@ -86,7 +86,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-04-02 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-04-02-mcp-tool-calls-display-tool-name-and-parameter-summary-in-the-timeline|MCP tool calls display tool name and parameter summary in the timeline]]
+- Earlier: 2026-04-02 · Lovable · [[Changes/Lovable/2026-04-02-chat-connectors-hex-confidence-and-posthog|Chat connectors: Hex, Confidence, and PostHog]]
 - Later: 2026-04-06 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-04-06-2-apps-and-integrations-changes-in-v1-0-19|2 Apps and Integrations changes in v1.0.19]]
 <!-- chronolog:end -->
 

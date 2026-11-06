@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: cc5121088d291d7df032407d9b19d2923a7d3e36e7adc76f0d08518a41058bbe
+machine_hash: f365d1e5c27a05620186f742001cbbc4b40078e630b4d2c3e421631c8daa925a
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -88,7 +88,7 @@ type: change
 ## Nearby in Developer Workflow
 
 - Earlier: 2025-10-06 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2025-10-06-improved-slash-command-input-by-showing-argument-hints-in-the-input-box|Improved slash command input by showing argument hints in the input box]]
-- Later: 2025-10-08 · Cline · [[Changes/Cline/2025-10-08-2-developer-workflow-changes-in-v3-32-7|2 Developer Workflow changes in v3.32.7]]
+- Later: 2025-10-07 · Open WebUI · [[Changes/Open WebUI/2025-10-07-3-developer-workflow-changes-in-v0-6-33|3 Developer Workflow changes in v0.6.33]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: a966ce628788193ae69ca1b33418c6420fa689a31ab5807ce738e5fadc94c614
+machine_hash: 110c0e10ead42afc0ef369eebbb6ace7b60ca99768d262fe5a27bf15944dc153
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,10 +45,10 @@ record:
     [on|off]`)
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-09-22-6-editor-experience-changes-in-rust-v0-156-0|6 Editor
-  Experience changes in rust-v0.156.0]]'
 - '[[Changes/GitHub Copilot CLI/2026-09-22-in-the-sessions-tab-rows-you-can-dismiss-now-take-x-then-x-again-to-confirm-a-lo|In
   the Sessions tab, rows you can dismiss now take x then x again to confirm]]'
+- '[[Changes/Lovable/2026-09-25-open-cited-web-sources-from-an-answer|Open cited web
+  sources from an answer]]'
 - '[[Changes/ChatGPT/2026-09-28-you-can-now-select-a-chart-metric-or-record-in-the-health-tab-to-get-personalize|Explore
   your health data with personalized summaries]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-28-v2-1-284-github-398457074-cbb49e49|claude-code-2026-09-28-v2-1-284-github-398457074-cbb49e49]]'

@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: a391d8d94a99d35f09ebf71db5a79750829b99e178936d03aeab798a4f2236bd
+machine_hash: fcf0886d21331529e7ec4c351e846d71d093c379aa118a50233acb52c28a1db8
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -56,8 +56,8 @@ record:
   title: 6 Developer Workflow changes in v1.0.85
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-10-code-review-added-a-note-under-the-still-open-findings-list-in-follow-up-reviews|Code
-  Review Added a note under the still-open findings list in follow-up reviews]]'
+- '[[Changes/Dify/2026-09-10-4-developer-workflow-changes-in-1-17-1|4 Developer Workflow
+  changes in 1.17.1]]'
 - '[[Changes/Claude Code/2026-09-11-added-otel-metrics-include-repository-to-tag-opentelemetry-metrics-and-events-wi|Added
   OTEL_METRICS_INCLUDE_REPOSITORY to tag OpenTelemetry metrics and events…]]'
 - '[[Changes/Claude Code/2026-09-15-3-developer-workflow-changes-in-v2-1-273|3 Developer

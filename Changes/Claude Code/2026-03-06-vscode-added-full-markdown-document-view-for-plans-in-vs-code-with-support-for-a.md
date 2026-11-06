@@ -5,20 +5,20 @@ description: 'Claude Code · 2026-03-06 · Files and Data: [VSCode] Added full m
   document view for plans in VS Code, with support for adding comments to provide
   feedback'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-07-06-we-re-rolling-out-code-interpreter-to-all-chatgpt-plus-users-over-the-next-week-66255e|Code
-    interpreter is now rolling out in beta on web]]'
+  first_in_tracked: '[[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2
+    Files and Data changes in 0.2.2]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 974
+  lag_days: 1016
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 631e44a700573360b4def951958b7e0297e6c6d7f2d5c63ee89c82064d4cbf1b
+machine_hash: 3f6fbf0cca4df85b34d3a7b3285016cd3cad873166025a9bd8a4f6b72b02a619
 product: claude-code
 product_name: Claude Code
 record:
@@ -86,13 +86,13 @@ type: change
 ## Nearby in Files and Data
 
 - Earlier: 2026-03-05 · Codex CLI · [[Changes/Codex CLI/2026-03-05-added-sample-skill-documentation-for-artifact-workflows-including-slide-deck-and|Added sample skill documentation for artifact workflows, including slide deck…]]
-- Later: 2026-03-09 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-03-09-document-gh-host-http-proxy-https-proxy-no-color-and-no-proxy-environment-variab|Document GH_HOST, HTTP_PROXY, HTTPS_PROXY, NO_COLOR, and NO_PROXY environment…]]
+- Later: 2026-03-08 · Open WebUI · [[Changes/Open WebUI/2026-03-08-android-photo-capture-fixed-an-issue-where-the-first-photo-taken-in-chat-appeare|📷 Android photo capture. Fixed an issue where the first photo taken in chat…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-07-06 · ChatGPT · [[Changes/ChatGPT/2023-07-06-we-re-rolling-out-code-interpreter-to-all-chatgpt-plus-users-over-the-next-week-66255e|Code interpreter is now rolling out in beta on web]]
+- Earliest same-theme entry in the tracked set: 2023-05-25 · Dify · [[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2 Files and Data changes in 0.2.2]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

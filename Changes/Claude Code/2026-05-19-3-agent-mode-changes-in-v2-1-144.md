@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: a9677eb15f33945d662223e6fb286a3a20f95f27644b8fa4b46efc21c084f895
+machine_hash: 1893bac5f911cf69d4fccc2861e248bc618a7c214528e84ddf2567eb2ab44692
 product: claude-code
 product_name: Claude Code
 record:
@@ -47,10 +47,8 @@ record:
   title: 3 Agent Mode changes in v2.1.144
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-05-18-9-agent-mode-changes-in-rust-v0-131-0|9 Agent Mode
-  changes in rust-v0.131.0]]'
-- '[[Changes/Cursor/2026-05-18-composer-2-5-is-now-available-in-cursor|Composer 2.5
-  is now available in Cursor]]'
+- '[[Changes/ElevenLabs/2026-05-18-elevenagents-ddcb34|ElevenAgents]]'
+- '[[Changes/Lovable/2026-05-18-build-and-plan-mode-switch|Build and Plan mode switch]]'
 - '[[Changes/Claude Code/2026-05-19-added-resume-support-for-background-sessions-sessions-started-via-claude-bg-or-a|Added
   /resume support for background sessions]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-05-19-v2-1-144-github-324524751-1469637a|claude-code-2026-05-19-v2-1-144-github-324524751-1469637a]]'
@@ -97,7 +95,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.144
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2026-05-18 · Cursor · [[Changes/Cursor/2026-05-18-composer-2-5-is-now-available-in-cursor|Composer 2.5 is now available in Cursor]]
+- Earlier: 2026-05-18 · Lovable · [[Changes/Lovable/2026-05-18-build-and-plan-mode-switch|Build and Plan mode switch]]
 - Later: 2026-05-19 · Claude Code · [[Changes/Claude Code/2026-05-19-3-agent-mode-changes-in-v2-1-145|3 Agent Mode changes in v2.1.145]]
 <!-- chronolog:end -->
 

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: d2ce55dccdf6f7bf9d548ccf6cb54b0ab455af0de325750342232144cf5dbfa2
+machine_hash: 920858bb902cac516a07f7c1e35ab1395985704d97d623ed11dab372c7b776e4
 product: claude-code
 product_name: Claude Code
 record:
@@ -44,10 +44,10 @@ record:
   title: 2 Agent Mode changes in v2.1.169
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-06-05-ask-the-agent-to-make-one-match-the-other-remove-repeated-content-or-adjust-a-gr|Multi-select
-  elements]]'
-- '[[Changes/GitHub Copilot CLI/2026-06-05-2-agent-mode-changes-in-v1-0-60|2 Agent
-  Mode changes in v1.0.60]]'
+- '[[Changes/Replit/2026-06-05-improve-your-search-ranking-with-seo-agent|Improve
+  your search ranking with SEO Agent]]'
+- '[[Changes/Replit/2026-06-05-sell-physical-products-with-shopify|Sell physical products
+  with Shopify]]'
 - '[[Changes/Claude Code/2026-06-06-claude-agents-typing-a-url-into-the-list-now-filters-to-the-session-whose-first|claude
   agents: typing a URL into the list now filters to the session whose first…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-06-08-v2-1-169-github-336158564-d513d69d|claude-code-2026-06-08-v2-1-169-github-336158564-d513d69d]]'

@@ -4,20 +4,20 @@ date: '2026-10-08'
 description: 'OpenHands · 2026-10-08 · Files and Data: 2 changes in v1.26.0 — feat(onboarding):
   open the next setup guide step when one is done in Canvas by @hieptl in…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-07-06-we-re-rolling-out-code-interpreter-to-all-chatgpt-plus-users-over-the-next-week-66255e|Code
-    interpreter is now rolling out in beta on web]]'
+  first_in_tracked: '[[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2
+    Files and Data changes in 0.2.2]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1190
+  lag_days: 1232
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 12945c804449d140479e913c26da1e64e97e691f2279f23ece63989a5f860d31
+machine_hash: 6bf0f7dae7925b26143ff00c49b15a2f2beecd3f6165f5f36199452eaaf180e9
 product: openhands
 product_name: OpenHands
 record:
@@ -88,13 +88,13 @@ Source: https://github.com/OpenHands/OpenHands/releases/tag/v1.26.0
 ## Nearby in Files and Data
 
 - Earlier: 2026-10-06 · OpenHands · [[Changes/OpenHands/2026-10-06-6-files-and-data-changes-in-v1-25-0|6 Files and Data changes in v1.25.0]]
-- Later: 2026-10-14 · Claude Code · [[Changes/Claude Code/2026-10-14-2-files-and-data-changes-in-v2-1-299|2 Files and Data changes in v2.1.299]]
+- Later: 2026-10-10 · Open WebUI · [[Changes/Open WebUI/2026-10-10-6-files-and-data-changes-in-v0-12-0|6 Files and Data changes in v0.12.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-07-06 · ChatGPT · [[Changes/ChatGPT/2023-07-06-we-re-rolling-out-code-interpreter-to-all-chatgpt-plus-users-over-the-next-week-66255e|Code interpreter is now rolling out in beta on web]]
+- Earliest same-theme entry in the tracked set: 2023-05-25 · Dify · [[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2 Files and Data changes in 0.2.2]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

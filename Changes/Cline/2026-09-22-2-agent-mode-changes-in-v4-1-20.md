@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 6d7277f88192a6727c557d70d436e0ed9c19efd4a87719a8ca8a235a9a46686d
+machine_hash: 1ae1cd1fc59b846ec172b4e4179392b42d12e466ceac7a460a9db2a38776f135
 product: cline
 product_name: Cline
 record:
@@ -45,10 +45,10 @@ record:
   title: 2 Agent Mode changes in v4.1.20
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-19-added-an-auto-mode-server-row-to-status-showing-whether-this-session-s-auto-mode|Added
-  an Auto mode server row to /status showing whether this session''s auto…]]'
 - '[[Changes/GitHub Copilot CLI/2026-09-21-show-live-elapsed-time-for-execution-subagents-in-timeline-entries|Show
   live elapsed time for execution subagents in timeline entries]]'
+- '[[Changes/Lovable/2026-09-21-manage-agent-permissions-from-your-account-settings|Manage
+  agent permissions from your account settings]]'
 - '[[Changes/Claude Code/2026-09-22-2-agent-mode-changes-in-v2-1-280|2 Agent Mode
   changes in v2.1.280]]'
 source_release: '[[Releases/Cline/cline-2026-09-22-v4-1-20-github-394105689-95df91cb|cline-2026-09-22-v4-1-20-github-394105689-95df91cb]]'

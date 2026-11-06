@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 38e443139a174e357a0fc375ecb4fd2db8e2e0416df776b1fc0e0a0fc127aa0d
+machine_hash: f71b1e347e6f402563547d3a42a484e83ca018f5f6563251a5b127f31b5d66a1
 product: cline
 product_name: Cline
 record:
@@ -41,12 +41,12 @@ record:
   title: Add settings button to MCP popover to easily modify installed servers
   type: change
 related_changes:
-- '[[Changes/Cline/2025-04-04-add-a-tab-for-configuring-local-mcp-servers|Add a tab
-  for configuring local MCP Servers]]'
-- '[[Changes/Windsurf/2025-04-07-increased-stability-around-mcp-sse-connections|Increased
-  stability around MCP SSE connections]]'
 - '[[Changes/Cline/2025-04-08-add-modal-in-the-chat-area-to-more-easily-enable-or-disable-mcp-servers|Add
   modal in the chat area to more easily enable or disable MCP servers]]'
+- '[[Changes/Dify/2025-04-09-6-apps-and-integrations-changes-in-1-2-0|6 Apps and Integrations
+  changes in 1.2.0]]'
+- '[[Changes/Replit/2025-04-11-app-idea-generator-for-logged-out-visitors|App idea
+  generator for logged-out visitors]]'
 source_release: '[[Releases/Cline/cline-2025-04-12-v3-12-0-github-212001434-6cc8f535|cline-2025-04-12-v3-12-0-github-212001434-6cc8f535]]'
 source_type: github_releases
 theme: apps-integrations
@@ -77,8 +77,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2025-04-08 · Cline · [[Changes/Cline/2025-04-08-add-modal-in-the-chat-area-to-more-easily-enable-or-disable-mcp-servers|Add modal in the chat area to more easily enable or disable MCP servers]]
-- Later: 2025-04-15 · Cursor · [[Changes/Cursor/2025-04-15-images-in-mcp|Images in MCP]]
+- Earlier: 2025-04-11 · Replit · [[Changes/Replit/2025-04-11-app-idea-generator-for-logged-out-visitors|App idea generator for logged-out visitors]]
+- Later: 2025-04-13 · Open WebUI · [[Changes/Open WebUI/2025-04-13-openapi-yaml-format-support-external-tools-can-now-use-yaml-format-openapi-specs|📄 OpenAPI YAML Format Support]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

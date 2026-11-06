@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 2bb592e8c20a05a52a67521c4176da631bf1900642a08f82a4bec4308ae59bfd
+machine_hash: 8ce21ba06fd4c9c5afca048c42e3154695eb8a207d2226536e0d8a7a1f05eb5e
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -161,7 +161,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.154.0
 ## Nearby in Context Window
 
 - Earlier: 2026-09-09 · Claude Code · [[Changes/Claude Code/2026-09-09-improved-prompt-cache-stability-subagents-and-sessions-started-with-system-promp|Improved prompt-cache stability]]
-- Later: 2026-09-10 · Cursor · [[Changes/Cursor/2026-09-10-you-shouldn-t-have-to-onboard-an-agent-every-time-you-start-a-task-each-project|Shared context]]
+- Later: 2026-09-09 · Lovable · [[Changes/Lovable/2026-09-09-readable-previews-for-csv-and-tsv-files|Readable previews for CSV and TSV files]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

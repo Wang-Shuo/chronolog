@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: accessibility-localization
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: d3b7c50e4b7bc0dad68cff067d177377d9faa3d60944b56f6c2839b865107636
+machine_hash: 1a0542bdcd3e4bab34c797775a0473d930515c44ccdd67014bb92017ac5e3139
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -52,10 +52,10 @@ record:
   title: Improve quick help accessibility
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-02-04-added-support-for-full-width-zenkaku-space-input-from-japanese-ime-in-checkbox-s|Added
-  support for full-width (zenkaku) space input from Japanese IME in checkbox selection]]'
 - '[[Changes/GitHub Copilot CLI/2026-02-12-theme-preview-appears-above-theme-list-in-screen-reader-mode|Theme
   preview appears above theme list in screen reader mode]]'
+- '[[Changes/Open WebUI/2026-02-12-screen-reader-accessibility-screen-reader-users-now-hear-the-password-field-labe|♿
+  Screen reader accessibility. Screen reader users now hear the password field…]]'
 - '[[Changes/Codex CLI/2026-02-17-11860-fixed-screen-reader-regression-in-cli-etraut-openai|♯11860
   Fixed screen reader regression in CLI @etraut-openai]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-02-19-v0-0-412-github-288488873-f50c4c60|github-copilot-cli-2026-02-19-v0-0-412-github-288488873-f50c4c60]]'
@@ -96,7 +96,7 @@ type: change
 ## Nearby in Accessibility and Localization
 
 - Earlier: 2026-02-17 · Codex CLI · [[Changes/Codex CLI/2026-02-17-11860-fixed-screen-reader-regression-in-cli-etraut-openai|♯11860 Fixed screen reader regression in CLI @etraut-openai]]
-- Later: 2026-03-09 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-03-09-table-disables-borders-in-screen-reader-mode-to-prevent-announcing-decorative-ch|Table disables borders in screen reader mode to prevent announcing decorative characters]]
+- Later: 2026-02-23 · Open WebUI · [[Changes/Open WebUI/2026-02-23-ui-accessibility-improvements-screen-reader-users-can-now-navigate-the-interface|♿ UI accessibility improvements. Screen reader users can now navigate…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

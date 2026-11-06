@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: e043783190e5ac1a6746d9153a8d3b3c02770c5dc9018de6adbfd2e050effd47
+machine_hash: 7da83dd92da8a3cee460fc384ece88f0ccf76c0025e7fb60e0da9fcd3e0bd334
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -79,10 +79,10 @@ record:
   title: 19 Agent Mode changes in rust-v0.128.0
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-04-28-press-ctrl-x-b-to-move-the-current-running-task-or-shell-command-to-the-backgrou|Press
-  ctrl+x → b to move the current running task or shell command to the background]]'
 - '[[Changes/Cursor/2026-04-29-3-agent-mode-changes-in-build-programmatic-agents|3
   Agent Mode changes in Build programmatic agents…]]'
+- '[[Changes/Dify/2026-04-29-2-agent-mode-changes-in-1-14-0|2 Agent Mode changes in
+  1.14.0]]'
 - '[[Changes/Windsurf/2026-04-29-devin-agent-in-windsurf|Devin Agent in Windsurf]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-04-30-rust-v0-128-0-github-315916672-1708ab89|codex-cli-2026-04-30-rust-v0-128-0-github-315916672-1708ab89]]'
 source_type: github_releases

@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 03defd58d303e2f439217798fa60ba08f2a2bd95cb1ce653d22234ec9fc9d13f
+machine_hash: 63a3f096401042af303a0ed6fc00e4835453dc844118a40d66a4459771d6329b
 product: aider
 product_name: Aider
 record:
@@ -45,10 +45,10 @@ record:
   title: 4 Developer Workflow changes in v0.46.0
   type: change
 related_changes:
-- '[[Changes/OpenHands/2024-07-13-feat-implement-user-confirmation-mode-request-confirmation-when-running-bash-pyt|feat:
-  Implement user confirmation mode, request confirmation when running…]]'
 - '[[Changes/OpenHands/2024-07-19-2-developer-workflow-changes-in-0-8-1|2 Developer
   Workflow changes in 0.8.1]]'
+- '[[Changes/Dify/2024-07-23-stop-the-service-command-please-execute-in-the-docker-directory|Stop
+  the service，Command, please execute in the docker directory]]'
 - '[[Changes/Cline/2024-07-28-provide-feedback-to-tool-use-like-terminal-commands-and-file-edits|Provide
   feedback to tool use like terminal commands and file edits]]'
 source_release: '[[Releases/Aider/aider-2024-07-29-v0-46-0-github-167657280-41bdfe9c|aider-2024-07-29-v0-46-0-github-167657280-41bdfe9c]]'

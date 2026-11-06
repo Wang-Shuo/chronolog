@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 1215736d11f640a064f4d5e29620169e421e9f97f304422777b98211001a9fa9
+machine_hash: fe8dad1c02ac0c5b366887107d42efa399c1a1492c2d15eac833d730bb2b8d15
 product: cline
 product_name: Cline
 record:
@@ -44,10 +44,10 @@ record:
   title: Improved automatic linter/compiler debugging by only sending Claude new errors…
   type: change
 related_changes:
-- '[[Changes/Cursor/2024-09-17-we-ve-added-support-for-using-cursor-on-macs-over-remote-ssh|Cursor
-  adds support for using Cursor on Macs over Remote SSH]]'
 - '[[Changes/Cline/2024-09-19-problems-add-workspace-errors-and-warnings-for-claude-to-fix-no-more-back-and-fo|@problems:
   Add workspace errors and warnings for Claude to fix, no more…]]'
+- '[[Changes/Dify/2024-09-20-3-developer-workflow-changes-in-0-8-3|3 Developer Workflow
+  changes in 0.8.3]]'
 - '[[Changes/Aider/2024-09-21-2-developer-workflow-changes-in-v0-57-0|2 Developer
   Workflow changes in v0.57.0]]'
 source_release: '[[Releases/Cline/cline-2024-09-21-v1-9-0-github-176245101-991e177a|cline-2024-09-21-v1-9-0-github-176245101-991e177a]]'
@@ -79,7 +79,7 @@ type: change
 ## Nearby in Developer Workflow
 
 - Earlier: 2024-09-21 · Aider · [[Changes/Aider/2024-09-21-2-developer-workflow-changes-in-v0-57-0|2 Developer Workflow changes in v0.57.0]]
-- Later: 2024-09-30 · OpenHands · [[Changes/OpenHands/2024-09-30-bash-commands-do-not-block-the-main-runtime-by-tofarr-in-https-github-com-all-ha|Bash commands do not block the main runtime]]
+- Later: 2024-09-30 · Dify · [[Changes/Dify/2024-09-30-2-developer-workflow-changes-in-0-9-0|2 Developer Workflow changes in 0.9.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

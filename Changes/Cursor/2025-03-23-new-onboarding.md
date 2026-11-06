@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 57bb6c3bdf804071dcddfcce59dbb7cb2f453d0e0b9cbc2f414d307af82bcdbf
+machine_hash: 3c3e7fe11560965c38ae51fc20636f0c50e0675c88682f6ee07774e6ef58784c
 product: cursor
 product_name: Cursor
 record:
@@ -48,10 +48,10 @@ record:
   title: New onboarding
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2025-03-18-improved-response-display-of-nested-blockquote-content|Improved
-  response display of nested blockquote content]]'
-- '[[Changes/Aider/2025-03-21-3-interface-experience-changes-in-v0-78-0|3 Interface
-  Experience changes in v0.78.0]]'
+- '[[Changes/Dify/2025-03-21-this-version-disables-the-svg-rendering-in-the-message-if-you-are-using-our-comm-c3ad8b|
+  This version disables the SVG rendering in the message]]'
+- '[[Changes/Lovable/2025-03-21-the-monthly-credits-counter-is-now-in-the-settings-menu-for-quick-access|The
+  monthly credits counter is now in the settings menu for quick access]]'
 - '[[Changes/Cline/2025-03-23-add-documentation-menu-item-to-easily-access-cline-s-docs|Add
   ''Documentation'' menu item to easily access Cline''s docs]]'
 source_release: '[[Releases/Cursor/cursor-2025-03-23-0-48-x-https-cursor-com-changelog-0-48-x-7b3e771b|cursor-2025-03-23-0-48-x-https-cursor-com-changelog-0-48-x-7b3e771b]]'
@@ -97,7 +97,7 @@ type: change
 ## Nearby in Interface Experience
 
 - Earlier: 2025-03-23 · Cline · [[Changes/Cline/2025-03-23-add-documentation-menu-item-to-easily-access-cline-s-docs|Add 'Documentation' menu item to easily access Cline's docs]]
-- Later: 2025-03-31 · Aider · [[Changes/Aider/2025-03-31-2-interface-experience-changes-in-v0-80-0|2 Interface Experience changes in v0.80.0]]
+- Later: 2025-03-24 · Dify · [[Changes/Dify/2025-03-24-ui-ux-fixes-addressed-various-style-and-interaction-issues-like-sidebar-width-on|UI/UX Fixes: Addressed various style and interaction issues, like sidebar width…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

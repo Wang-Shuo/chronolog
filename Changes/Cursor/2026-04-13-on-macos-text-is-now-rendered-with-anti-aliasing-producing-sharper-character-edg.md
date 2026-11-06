@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 83757a6286a76c0bfe71c0951522e4f90673fb61c7ff4401d9d035a8ab389522
+machine_hash: 449eb5363a145f93622a98f0e7f9c28cfccb0a69271ca108214259f035854f86
 product: cursor
 product_name: Cursor
 record:
@@ -44,10 +44,10 @@ record:
     edges
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2026-04-01-feat-core-implement-strict-macos-sandboxing-using-seatbelt-allowlist-by-ehedlund|feat(core):
-  implement strict macOS sandboxing using Seatbelt allowlist]]'
-- '[[Changes/ChatGPT/2026-04-02-we-re-rolling-out-chatgpt-in-carplay-giving-you-access-to-a-hands-free-chatgpt-e|ChatGPT
-  in Apple CarPlay]]'
+- '[[Changes/Claude/2026-04-09-claude-cowork-generally-available|Claude Cowork generally
+  available]]'
+- '[[Changes/Ollama/2026-04-09-openclaw-channel-setup-connect-whatsapp-telegram-discord-and-other-messaging-cha|OpenClaw
+  channel setup]]'
 - '[[Changes/Codex CLI/2026-04-10-6-mobile-and-desktop-changes-in-rust-v0-119-0|6
   Mobile and Desktop changes in rust-v0.119.0]]'
 source_release: '[[Releases/Cursor/cursor-2026-04-13-3-1-https-cursor-com-changelog-3-1-27a51313|cursor-2026-04-13-3-1-https-cursor-com-changelog-3-1-27a51313]]'

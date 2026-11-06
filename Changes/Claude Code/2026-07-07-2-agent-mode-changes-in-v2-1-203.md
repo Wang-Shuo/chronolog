@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: fcda734488df56a6a7c882f556e6604f41e538360d959761f69c4b272459c425
+machine_hash: 80ed1ac9dfa6e8aeb59530d2243cfd3ef6cdef22897638753aa14a2ff61d049b
 product: claude-code
 product_name: Claude Code
 record:
@@ -44,10 +44,8 @@ record:
   title: 2 Agent Mode changes in v2.1.203
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-07-01-3-agent-mode-changes-in-v1-0-68|3 Agent
-  Mode changes in v1.0.68]]'
-- '[[Changes/Claude Code/2026-07-06-3-agent-mode-changes-in-v2-1-202|3 Agent Mode
-  changes in v2.1.202]]'
+- '[[Changes/ElevenLabs/2026-07-06-elevenagents-c38b88|ElevenAgents]]'
+- '[[Changes/ElevenLabs/2026-07-06-elevenagents-f45a54|ElevenAgents]]'
 - '[[Changes/OpenHands/2026-07-06-9-agent-mode-changes-in-1-9-0|9 Agent Mode changes
   in 1.9.0]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-07-07-v2-1-203-github-350481879-29776bbc|claude-code-2026-07-07-v2-1-203-github-350481879-29776bbc]]'

@@ -4,20 +4,20 @@ date: '2026-09-04'
 description: 'GitHub Copilot CLI · 2026-09-04 · Enterprise and Administration: Enterprise
   admins can pin sign-in to approved GitHub organizations with the forceLoginOrgs…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2024-03-20-admin-improvements-team-admins-can-now-mark-themselves-as-unpaid-users-and-can-s|Admin
-    improvements: Team admins can now mark themselves as unpaid users and can see…]]'
+  first_in_tracked: '[[Changes/Gemini/2023-05-05-access-for-google-workspace-accounts|Access
+    for Google Workspace accounts]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 898
+  lag_days: 1218
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: b18272a49e6f576170f0a36facafa6fdc0e474652462ec1aafbcecf432d3cfb8
+machine_hash: 83bd9d17819b9a96519613c8f4f720097e396583f2b125370bc87a6bc55b4045
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -52,12 +52,12 @@ record:
   title: Enterprise admins can pin sign-in to approved GitHub organizations…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-08-14-changed-the-github-app-setup-tip-to-no-longer-appear-in-repositories-whose-origi|Changed
-  the GitHub app setup tip to no longer appear in repositories whose origin…]]'
-- '[[Changes/Claude Code/2026-08-18-remote-control-claude-rc-now-applies-the-same-enterprise-gateway-availability-ch|Remote
-  Control: claude rc now applies the same enterprise-gateway availability…]]'
-- '[[Changes/GitHub Copilot CLI/2026-08-27-2-enterprise-and-administration-changes-in-v1-0-81|2
-  Enterprise and Administration changes in v1.0.81]]'
+- '[[Changes/Lovable/2026-09-01-find-buy-and-connect-a-domain-from-chat|Find, buy,
+  and connect a domain from chat]]'
+- '[[Changes/Lovable/2026-09-01-lovable-in-slack-is-now-available-on-enterprise|Lovable
+  in Slack is now available on Enterprise]]'
+- '[[Changes/Lovable/2026-09-03-see-how-your-workspace-adopts-lovable|See how your
+  workspace adopts Lovable]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-09-04-v1-0-83-github-382838246-6f996d9c|github-copilot-cli-2026-09-04-v1-0-83-github-382838246-6f996d9c]]'
 source_type: github_releases
 theme: enterprise-admin
@@ -96,14 +96,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Enterprise and Administration
 
-- Earlier: 2026-08-27 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-08-27-2-enterprise-and-administration-changes-in-v1-0-81|2 Enterprise and Administration changes in v1.0.81]]
-- Later: 2026-09-10 · ChatGPT · [[Changes/ChatGPT/2026-09-10-box-dropbox-and-sharepoint-integrations-are-now-rolling-out-to-go-plus-pro-busin|Box, Dropbox, and SharePoint integrations are now rolling out to Go, Plus, Pro…]]
+- Earlier: 2026-09-03 · Lovable · [[Changes/Lovable/2026-09-03-see-how-your-workspace-adopts-lovable|See how your workspace adopts Lovable]]
+- Later: 2026-09-04 · Lovable · [[Changes/Lovable/2026-09-04-manage-and-protect-your-preview-links|Manage and protect your preview links]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2024-03-20 · Cursor · [[Changes/Cursor/2024-03-20-admin-improvements-team-admins-can-now-mark-themselves-as-unpaid-users-and-can-s|Admin improvements: Team admins can now mark themselves as unpaid users and can see…]]
+- Earliest same-theme entry in the tracked set: 2023-05-05 · Gemini · [[Changes/Gemini/2023-05-05-access-for-google-workspace-accounts|Access for Google Workspace accounts]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

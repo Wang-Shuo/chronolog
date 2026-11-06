@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 7615c27b231a9a6f0ca64d29b535210463247e898ad396fddf43bd563ae3442c
+machine_hash: 70cd732fbb946a5896fd7c08ff39c66fe5f501d8cabd813e8d57a005d43b008e
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -44,8 +44,7 @@ record:
   title: Attach recent photos faster
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-08-19-improved-startup-performance-the-session-counter-is-now-written-in-the-backgroun|Improved
-  startup performance: the session counter is now written in the background]]'
+- '[[Changes/Lovable/2026-08-19-faster-preview-loading|Faster preview loading]]'
 - '[[Changes/Claude Code/2026-08-20-improved-startup-responsiveness-the-automatic-update-check-now-runs-about-10-sec|Improved
   startup responsiveness]]'
 - '[[Changes/Codex CLI/2026-08-20-2-reliability-and-performance-changes-in-rust-v0-149-0|2
@@ -77,7 +76,7 @@ type: change
 ## Nearby in Reliability and Performance
 
 - Earlier: 2026-08-20 · Codex CLI · [[Changes/Codex CLI/2026-08-20-2-reliability-and-performance-changes-in-rust-v0-149-0|2 Reliability and Performance changes in rust-v0.149.0]]
-- Later: 2026-08-25 · Claude Code · [[Changes/Claude Code/2026-08-25-improved-bash-tool-latency-on-bash-shells-by-replaying-snapshot-functions-withou|Improved Bash tool latency on bash shells by replaying snapshot functions without…]]
+- Later: 2026-08-24 · ElevenLabs · [[Changes/ElevenLabs/2026-08-24-elevenagents-a7877c|ElevenAgents]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

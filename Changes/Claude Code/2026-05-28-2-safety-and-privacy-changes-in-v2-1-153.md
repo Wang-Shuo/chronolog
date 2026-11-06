@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 6d0cb2fe18b5ad3bcc70b4aa88427a2b6f7919e6ff2845fde4b04743a0d51d4f
+machine_hash: 3a8b2c57d64f282ea009e9e70da9a5cc276e163e07378cf0c054b50e4b95d18f
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,12 +45,11 @@ record:
   title: 2 Safety and Privacy changes in v2.1.153
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-05-26-7-safety-and-privacy-changes-in-rust-v0-134-0|7
-  Safety and Privacy changes in rust-v0.134.0]]'
 - '[[Changes/Claude Code/2026-05-27-2-safety-and-privacy-changes-in-v2-1-152|2 Safety
   and Privacy changes in v2.1.152]]'
 - '[[Changes/Gemini CLI/2026-05-27-4-safety-and-privacy-changes-in-v0-44-0|4 Safety
   and Privacy changes in v0.44.0]]'
+- '[[Changes/Lovable/2026-05-27-sensitive-data-scanning|Sensitive data scanning]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-05-28-v2-1-153-github-330532213-2fa9c18a|claude-code-2026-05-28-v2-1-153-github-330532213-2fa9c18a]]'
 source_type: github_releases
 theme: safety-privacy
@@ -89,7 +88,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.153
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Safety and Privacy
 
-- Earlier: 2026-05-27 · Gemini CLI · [[Changes/Gemini CLI/2026-05-27-4-safety-and-privacy-changes-in-v0-44-0|4 Safety and Privacy changes in v0.44.0]]
+- Earlier: 2026-05-27 · Lovable · [[Changes/Lovable/2026-05-27-sensitive-data-scanning|Sensitive data scanning]]
 - Later: 2026-05-28 · Codex CLI · [[Changes/Codex CLI/2026-05-28-7-safety-and-privacy-changes-in-rust-v0-135-0|7 Safety and Privacy changes in rust-v0.135.0]]
 <!-- chronolog:end -->
 

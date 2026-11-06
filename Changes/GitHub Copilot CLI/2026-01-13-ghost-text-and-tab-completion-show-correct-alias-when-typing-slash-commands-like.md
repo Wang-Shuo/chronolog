@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 5a6bab513e95a5d166ea365d8501278fc35a0344841bbe5cb920cc92e97e22a2
+machine_hash: a1bddecc3f9ce85e0b4cf2b84fe93c4d998bd2e78b6917fffebb57b04113ba92
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -43,10 +43,10 @@ record:
     like…
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-01-08-afterfileedit-hook-now-correctly-provides-old-string-with-the-file-s-previous-co|afterFileEdit
-  hook now correctly provides old_string with the file''s previous…]]'
-- '[[Changes/Codex CLI/2026-01-09-8939-chore-move-app-server-tests-from-chat-completion-to-responses-celia-oai|♯8939
-  chore move app server tests from chat completion to responses @celia-oai]]'
+- '[[Changes/Open WebUI/2026-01-10-2-editor-experience-changes-in-v0-7-2|2 Editor
+  Experience changes in v0.7.2]]'
+- '[[Changes/v0/2026-01-12-blocked-sending-new-messages-when-pending-edits-exist|Blocked
+  sending new messages when pending edits exist]]'
 - '[[Changes/Claude Code/2026-01-13-2-editor-experience-changes-in-v2-1-6|2 Editor
   Experience changes in v2.1.6]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-01-13-v0-0-381-github-276485455-00f2509f|github-copilot-cli-2026-01-13-v0-0-381-github-276485455-00f2509f]]'

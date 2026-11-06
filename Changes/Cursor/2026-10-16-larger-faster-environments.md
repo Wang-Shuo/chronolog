@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: d6f65eceb02ee4b871fbb2e75d8317d1b59acb44c9b7bc14d7687e150a7f76a8
+machine_hash: db1973fc7fee4492903c66415e951966bd8fdf7575bd5496fa54e61b689028c6
 product: cursor
 product_name: Cursor
 record:
@@ -45,10 +45,10 @@ record:
   title: Larger, faster environments
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-10-13-emergency-memory-relief-in-long-sessions-can-now-bypass-its-cooldown-before-v8-a|Emergency
-  memory relief in long sessions can now bypass its cooldown before V8…]]'
-- '[[Changes/Claude Code/2026-10-14-improved-memory-and-disk-use-when-pdfs-are-mentioned-their-bytes-are-no-longer-k|Improved
-  memory and disk use when PDFs are @-mentioned]]'
+- "[[Changes/Open WebUI/2026-10-14-general-improvements-various-improvements-were-implemented-across-the-applicatio|\U0001F504
+  General improvements. Various improvements were implemented across…]]"
+- '[[Changes/Open WebUI/2026-10-14-2-reliability-and-performance-changes-in-v0-12-1|2
+  Reliability and Performance changes in v0.12.1]]'
 - '[[Changes/ChatGPT/2026-10-16-faster-responses|Faster responses]]'
 source_release: '[[Releases/Cursor/cursor-2026-10-16-cloud-agent-canvases-and-environment-improvements-https-cursor-c-1809cd74|cursor-2026-10-16-cloud-agent-canvases-and-environment-improvements-https-cursor-c-1809cd74]]'
 source_type: cursor_changelog
@@ -80,7 +80,7 @@ type: change
 ## Nearby in Reliability and Performance
 
 - Earlier: 2026-10-16 · ChatGPT · [[Changes/ChatGPT/2026-10-16-faster-responses|Faster responses]]
-- Later: 2026-10-19 · Claude Code · [[Changes/Claude Code/2026-10-19-2-reliability-and-performance-changes-in-v2-1-304|2 Reliability and Performance changes in v2.1.304]]
+- Later: 2026-10-16 · Open WebUI · [[Changes/Open WebUI/2026-10-16-general-improvements-various-improvements-were-implemented-across-the-applicatio|🔄 General improvements. Various improvements were implemented across…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

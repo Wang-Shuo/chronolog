@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 64931664e017b75ad3d809ebe1829aa15b70db2b531b71706f531c522d3fd7ea
+machine_hash: 62b75c72b788cdb76567d21c1fde38e5064233a3f10754bbadd285cd441805f8
 product: cline
 product_name: Cline
 record:
@@ -86,7 +86,7 @@ type: change
 ## Nearby in Safety and Privacy
 
 - Earlier: 2026-10-16 · Claude Code · [[Changes/Claude Code/2026-10-16-2-safety-and-privacy-changes-in-v2-1-302|2 Safety and Privacy changes in v2.1.302]]
-- Later: 2026-10-19 · Claude Code · [[Changes/Claude Code/2026-10-19-added-decider-person-to-a-mod-s-tool-check-answer-only-the-permission-dialog-or|Added decider: "person" to a mod's tool.check answer: only the permission dialog…]]
+- Later: 2026-10-16 · Lovable · [[Changes/Lovable/2026-10-16-lovable-writes-and-runs-tests-for-the-rules-you-change|Lovable writes and runs tests for the rules you change]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

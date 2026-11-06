@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: b35f9fb3581e3db7c54a3028808ff7ab12418f220311e13057d67817fb41ca94
+machine_hash: ef3a6e91dcc7a9688b2b8547be2e7e91f2b63da5850cdcfba3c8fc472155ac45
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -72,10 +72,10 @@ record:
   title: 16 Developer Workflow changes in v0.1.14
   type: change
 related_changes:
-- '[[Changes/Cline/2025-07-22-refactor-git-commit-message-generation-as-a-module-by-abeatrix-in-https-github-c|Refactor:
-  Git commit message generation as a module]]'
 - '[[Changes/Codex CLI/2025-07-23-https-github-com-openai-codex-pull-1626-to-ensure-shell-commands-spawned-by-code|(source
   link) to ensure shell commands spawned by Codex…]]'
+- '[[Changes/Dify/2025-07-23-minor-typo-fix-remove-debug-code-and-fix-typo-by-neatguycoding-in-https-github-c|minor
+  typo fix: remove debug code and fix typo]]'
 - '[[Changes/Codex CLI/2025-07-24-we-now-record-some-git-state-in-the-jsonl-log-due-to-vishnu-oai-https-github-com|We
   now record some Git state in the .jsonl log due to @vishnu-oai…]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2025-07-25-v0-1-14-github-235287807-631ef7fa|gemini-cli-2025-07-25-v0-1-14-github-235287807-631ef7fa]]'

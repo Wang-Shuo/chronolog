@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 6d74a8e16b59e52c040b3386fc98df424d768bfe3592d3184b11df852f709609
+machine_hash: d214ac1cff89e0bfbb985369b21c2d2f6bced756583ec9c03509b68e3d9b59d8
 product: cline
 product_name: Cline
 record:
@@ -42,12 +42,12 @@ record:
   title: 2 Model Support changes in v3.26.6
   type: change
 related_changes:
-- '[[Changes/Cline/2025-08-21-removing-max-tokens-from-sonic-model-by-pashpashpash-in-https-github-com-cline-c|removing
-  max tokens from sonic model]]'
-- '[[Changes/Cursor/2025-08-21-2-model-support-changes-in-1-5|2 Model Support changes
-  in 1.5]]'
+- '[[Changes/Ollama/2025-08-25-3-model-support-changes-in-v0-11-7|3 Model Support
+  changes in v0.11.7]]'
 - '[[Changes/Codex CLI/2025-08-26-5-model-support-changes-in-rust-v0-24-0|5 Model
   Support changes in rust-v0.24.0]]'
+- '[[Changes/Dify/2025-08-27-9-model-support-changes-in-1-8-0|9 Model Support changes
+  in 1.8.0]]'
 source_release: '[[Releases/Cline/cline-2025-08-28-v3-26-6-github-243281594-0003162a|cline-2025-08-28-v3-26-6-github-243281594-0003162a]]'
 source_type: github_releases
 theme: model-support
@@ -81,8 +81,8 @@ Source: https://github.com/cline/cline/releases/tag/v3.26.6
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2025-08-26 · Codex CLI · [[Changes/Codex CLI/2025-08-26-5-model-support-changes-in-rust-v0-24-0|5 Model Support changes in rust-v0.24.0]]
-- Later: 2025-09-02 · Codex CLI · [[Changes/Codex CLI/2025-09-02-2-model-support-changes-in-rust-v0-28-0|2 Model Support changes in rust-v0.28.0]]
+- Earlier: 2025-08-27 · Dify · [[Changes/Dify/2025-08-27-9-model-support-changes-in-1-8-0|9 Model Support changes in 1.8.0]]
+- Later: 2025-08-28 · Open WebUI · [[Changes/Open WebUI/2025-08-28-2-model-support-changes-in-v0-6-26|2 Model Support changes in v0.6.26]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

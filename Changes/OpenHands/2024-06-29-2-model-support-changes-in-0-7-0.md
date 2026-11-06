@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: f1537f09a59f07d55ceed49c96b665c9f2e78c8da17fd8c6a8d6814c9f98ace5
+machine_hash: f49e830a48e040e1109e08287f5248097b54142da322899a25bd9672e5a64d5d
 product: openhands
 product_name: OpenHands
 record:
@@ -42,12 +42,11 @@ record:
   title: 2 Model Support changes in 0.7.0
   type: change
 related_changes:
-- '[[Changes/Cursor/2024-06-08-update-0-35-1-disables-copilot-partial-accepts-by-default-and-makes-the-keybindi|UPDATE
-  (0.35.1): Disables Copilot++ partial accepts by default and makes…]]'
-- '[[Changes/Aider/2024-06-20-2-model-support-changes-in-v0-39-0|2 Model Support changes
-  in v0.39.0]]'
-- '[[Changes/Aider/2024-06-24-2-model-support-changes-in-v0-40-0|2 Model Support changes
-  in v0.40.0]]'
+- '[[Changes/DeepSeek API/2024-06-28-deepseek-chat|deepseek-chat]]'
+- '[[Changes/Dify/2024-06-28-14-model-support-changes-in-0-6-12|14 Model Support changes
+  in 0.6.12]]'
+- '[[Changes/Ollama/2024-06-29-show-info-will-now-show-additional-model-information-in-ollama-run|/show
+  info will now show additional model information in ollama run]]'
 source_release: '[[Releases/OpenHands/openhands-2024-06-29-0-7-0-github-163149742-cace6f1a|openhands-2024-06-29-0-7-0-github-163149742-cace6f1a]]'
 source_type: github_releases
 theme: model-support
@@ -89,7 +88,7 @@ Source: https://github.com/OpenHands/OpenHands/releases/tag/0.7.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2024-06-24 · Aider · [[Changes/Aider/2024-06-24-2-model-support-changes-in-v0-40-0|2 Model Support changes in v0.40.0]]
+- Earlier: 2024-06-29 · Ollama · [[Changes/Ollama/2024-06-29-show-info-will-now-show-additional-model-information-in-ollama-run|/show info will now show additional model information in ollama run]]
 - Later: 2024-07-01 · Aider · [[Changes/Aider/2024-07-01-4-model-support-changes-in-v0-41-0|4 Model Support changes in v0.41.0]]
 <!-- chronolog:end -->
 

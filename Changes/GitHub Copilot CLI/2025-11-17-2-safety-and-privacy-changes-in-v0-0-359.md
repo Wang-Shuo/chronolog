@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: ed280444686353d3eeddb5536d1562b89e7a1bbfd0d8c55d17ced5b665d96efe
+machine_hash: b723c1111d5d792f33056730be0a6fa0f6a1a425ce664d3802dcfcd3aebc151b
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -42,12 +42,12 @@ record:
   title: 2 Safety and Privacy changes in v0.0.359
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2025-11-07-2-safety-and-privacy-changes-in-rust-v0-56-0|2 Safety
-  and Privacy changes in rust-v0.56.0]]'
 - '[[Changes/Gemini CLI/2025-11-07-migrate-console-error-to-coreevents-debugger-for-sandbox-logger-chatrecordingser|migrate
   console.error to coreEvents/debugger for sandbox, logger, chatRecordingService]]'
 - '[[Changes/Codex CLI/2025-11-13-6480-use-codex-linux-sandbox-in-unified-exec-6c36318bd|♯6480
   — Use codex-linux-sandbox in unified exec (6c36318bd)]]'
+- '[[Changes/Dify/2025-11-13-2-safety-and-privacy-changes-in-1-10-0|2 Safety and Privacy
+  changes in 1.10.0]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2025-11-17-v0-0-359-github-263127541-a6162e30|github-copilot-cli-2025-11-17-v0-0-359-github-263127541-a6162e30]]'
 source_type: github_releases
 theme: safety-privacy
@@ -83,7 +83,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v0.0.359
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Safety and Privacy
 
-- Earlier: 2025-11-13 · Codex CLI · [[Changes/Codex CLI/2025-11-13-6480-use-codex-linux-sandbox-in-unified-exec-6c36318bd|♯6480 — Use codex-linux-sandbox in unified exec (6c36318bd)]]
+- Earlier: 2025-11-13 · Dify · [[Changes/Dify/2025-11-13-2-safety-and-privacy-changes-in-1-10-0|2 Safety and Privacy changes in 1.10.0]]
 - Later: 2025-11-18 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2025-11-18-fix-file-operations-timing-out-while-waiting-for-user-permission|Fix file operations timing out while waiting for user permission]]
 <!-- chronolog:end -->
 

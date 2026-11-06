@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 1e08ae54e86597423b068413d1370db83f046068dc7c5150ad7651b3afc9760e
+machine_hash: 0dda23fb70a12dac817d663d201d73b1e60ac81ac5f01c937e81ad750e0c32a0
 product: cursor
 product_name: Cursor
 record:
@@ -40,10 +40,10 @@ record:
   title: Auto mode is now powered by Cursor Router
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-07-21-20-agent-mode-changes-in-rust-v0-145-0|20 Agent
-  Mode changes in rust-v0.145.0]]'
 - '[[Changes/GitHub Copilot CLI/2026-07-21-2-agent-mode-changes-in-v1-0-73|2 Agent
   Mode changes in v1.0.73]]'
+- '[[Changes/v0/2026-07-21-agent-auto-pushes-retry-after-rebasing-when-a-push-is-rejected-as-non-fast-forwa|Agent
+  auto-pushes retry after rebasing when a push is rejected as non-fast-forward…]]'
 - '[[Changes/Claude Code/2026-07-22-changed-plan-mode-with-auto-to-no-longer-prompt-for-bash-commands-the-static-ana|Changed
   plan mode with auto to no longer prompt for Bash commands the static…]]'
 source_release: '[[Releases/Cursor/cursor-2026-07-22-cursor-router-https-cursor-com-changelog-router-af8c2ac4|cursor-2026-07-22-cursor-router-https-cursor-com-changelog-router-af8c2ac4]]'

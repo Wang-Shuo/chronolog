@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: f94d3a1ea863bb917530e538fafbc2d8538fac2040e4c735f4b4b3a6600b3c3b
+machine_hash: e9b74d2fa4a351ff6267900b572d454c7a869236906c10816f48739dae56c361
 product: cline
 product_name: Cline
 record:
@@ -42,10 +42,10 @@ record:
   title: Onboarding flow now uses dynamically fetched recommended models instead…
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-04-20-6-model-support-changes-in-rust-v0-122-0|6 Model
-  Support changes in rust-v0.122.0]]'
 - '[[Changes/GitHub Copilot CLI/2026-04-20-ctrl-t-to-toggle-reasoning-display-is-now-listed-in-the-help-and-overlay|ctrl+t
   to toggle reasoning display is now listed in the /help and ? overlay]]'
+- '[[Changes/Open WebUI/2026-04-21-28-model-support-changes-in-v0-9-0|28 Model Support
+  changes in v0.9.0]]'
 - '[[Changes/Claude Code/2026-04-22-2-model-support-changes-in-v2-1-117|2 Model Support
   changes in v2.1.117]]'
 source_release: '[[Releases/Cline/cline-2026-04-22-v3-80-0-github-312385304-eee3574e|cline-2026-04-22-v3-80-0-github-312385304-eee3574e]]'
@@ -79,7 +79,7 @@ type: change
 ## Nearby in Model Support
 
 - Earlier: 2026-04-22 · Claude Code · [[Changes/Claude Code/2026-04-22-2-model-support-changes-in-v2-1-117|2 Model Support changes in v2.1.117]]
-- Later: 2026-04-23 · Codex CLI · [[Changes/Codex CLI/2026-04-23-6-model-support-changes-in-rust-v0-123-0|6 Model Support changes in rust-v0.123.0]]
+- Later: 2026-04-22 · Ollama · [[Changes/Ollama/2026-04-22-mlx-runner-adds-logprobs-support-for-compatible-models|MLX runner adds logprobs support for compatible models]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

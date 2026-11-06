@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: f0f193ae858b979801f33d26a9947c78b79a9a38617318f05742c7b7b9a571bd
+machine_hash: dfaef783d457b87b6132f6368454fa3d8608ef5597f101111de12e31e26b2f30
 product: cline
 product_name: Cline
 record:
@@ -50,12 +50,12 @@ record:
     view…
   type: change
 related_changes:
-- '[[Changes/Aider/2024-08-10-diff-now-shows-diffs-of-all-changes-resulting-from-your-request-including-lint-a|/diff
-  now shows diffs of all changes resulting from your request, including lint…]]'
-- '[[Changes/Aider/2024-08-13-new-code-message-command-request-a-code-edit-while-in-ask-mode|New
-  /code message command request a code edit while in ask mode]]'
+- '[[Changes/Dify/2024-08-19-3-editor-experience-changes-in-0-7-1|3 Editor Experience
+  changes in 0.7.1]]'
 - '[[Changes/Cline/2024-08-31-you-can-now-edit-claude-s-changes-before-accepting-when-he-edits-or-creates-a-fi|You
   can now edit Claude''s changes before accepting! When he edits or creates…]]'
+- "[[Changes/Open WebUI/2024-09-04-missing-chat-completion-response-headers-ensured-proper-return-of-proxied-respon|\U0001F504
+  Missing Chat Completion Response Headers]]"
 source_release: '[[Releases/Cline/cline-2024-09-05-v1-5-27-github-173592068-f67d96e6|cline-2024-09-05-v1-5-27-github-173592068-f67d96e6]]'
 source_type: github_releases
 theme: editor-experience
@@ -85,8 +85,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2024-08-31 · Cline · [[Changes/Cline/2024-08-31-you-can-now-edit-claude-s-changes-before-accepting-when-he-edits-or-creates-a-fi|You can now edit Claude's changes before accepting! When he edits or creates…]]
-- Later: 2024-09-17 · Cursor · [[Changes/Cursor/2024-09-17-update-0-41-1-0-41-3-improves-onboarding-ux-fixes-a-bug-with-composer-cancellati|UPDATE (0.41.1–0.41.3): Improves onboarding UX, fixes a bug with composer…]]
+- Earlier: 2024-09-04 · Open WebUI · [[Changes/Open WebUI/2024-09-04-missing-chat-completion-response-headers-ensured-proper-return-of-proxied-respon|🔄 Missing Chat Completion Response Headers]]
+- Later: 2024-09-12 · Dify · [[Changes/Dify/2024-09-12-editor-can-also-create-api-key-by-cuckootan-in-https-github-com-langgenius-dify|editor can also create api key]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

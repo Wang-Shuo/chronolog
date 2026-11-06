@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 225d61585ce894d26cacc1373e9d0179c0616789fe610e7682eb1acadceef721
+machine_hash: 04f1ae3209bbfad2a744c8e481fe5bd28b22ecfd88ab6651eacc081126acfb7c
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -80,8 +80,8 @@ record:
   title: 19 Developer Workflow changes in rust-v0.117.0
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2026-03-24-feat-skills-improve-async-pr-review-workflow-and-logging-by-mattkorwel-in-https|feat(skills):
-  improve async-pr-review workflow and logging]]'
+- '[[Changes/Open WebUI/2026-03-25-34-developer-workflow-changes-in-v0-8-11|34 Developer
+  Workflow changes in v0.8.11]]'
 - '[[Changes/Claude Code/2026-03-26-5-developer-workflow-changes-in-v2-1-84|5 Developer
   Workflow changes in v2.1.84]]'
 - '[[Changes/Claude Code/2026-03-26-improved-powershell-dangerous-command-detection|Improved

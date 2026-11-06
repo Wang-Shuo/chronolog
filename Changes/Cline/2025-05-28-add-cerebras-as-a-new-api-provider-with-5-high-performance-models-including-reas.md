@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 97e5be4e12972f4e546109fcfb4479449d96bf6b3dc820f775ae65d8f20aae19
+machine_hash: b64e539162e3b7ec65b745965558929cd5bf60b04dc7f9c912924766a89ac752
 product: cline
 product_name: Cline
 record:
@@ -55,10 +55,12 @@ record:
   title: Add Cerebras as a new API provider with 5 high-performance models including…
   type: change
 related_changes:
-- '[[Changes/Windsurf/2025-04-27-performance-improvements|Performance Improvements]]'
-- '[[Changes/ChatGPT/2025-05-08-outside-the-european-regions-listed-above-all-plus-and-pro-accounts-that-have-me-507581|Opt‑in
-  reminders]]'
-- '[[Changes/Windsurf/2025-05-15-misc|Misc]]'
+- '[[Changes/Open WebUI/2025-05-26-3-reliability-and-performance-changes-in-v0-6-11|3
+  Reliability and Performance changes in v0.6.11]]'
+- '[[Changes/Dify/2025-05-27-performance-optimizations-improved-several-workflows-including-the-validation-lo|Performance
+  Optimizations: Improved several workflows, including the validation…]]'
+- '[[Changes/Ollama/2025-05-27-logs-will-now-include-better-memory-estimate-debug-information-when-running-mode|Logs
+  will now include better memory estimate debug information when running models…]]'
 source_release: '[[Releases/Cline/cline-2025-05-28-v3-17-6-github-221411446-d46f957a|cline-2025-05-28-v3-17-6-github-221411446-d46f957a]]'
 source_type: github_releases
 theme: reliability-performance
@@ -90,8 +92,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2025-05-15 · Windsurf · [[Changes/Windsurf/2025-05-15-misc|Misc]]
-- Later: 2025-05-30 · Aider · [[Changes/Aider/2025-05-30-improved-openrouter-model-metadata-handling-by-introducing-a-local-cache-increas|Improved OpenRouter model metadata handling by introducing a local cache, increasing…]]
+- Earlier: 2025-05-27 · Ollama · [[Changes/Ollama/2025-05-27-logs-will-now-include-better-memory-estimate-debug-information-when-running-mode|Logs will now include better memory estimate debug information when running models…]]
+- Later: 2025-05-28 · Open WebUI · [[Changes/Open WebUI/2025-05-28-2-reliability-and-performance-changes-in-v0-6-12|2 Reliability and Performance changes in v0.6.12]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

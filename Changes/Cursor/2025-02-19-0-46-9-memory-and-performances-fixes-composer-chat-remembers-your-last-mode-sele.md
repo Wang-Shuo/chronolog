@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: memory
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: 13542f1f4971bc845ecc204df05adf7dc86a4dcb4c89df17b5c4bb32b5469cff
+machine_hash: a2446dd9af20c6c1bf538bcf8808be50bb8b0240fe6f3df383389521ec01f44d
 product: cursor
 product_name: Cursor
 record:
@@ -57,10 +57,10 @@ record:
     mode…'
   type: change
 related_changes:
-- '[[Changes/Cline/2024-07-28-quality-of-life-improvements-like-markdown-rendering-memory-optimizations-better|Quality
-  of life improvements like markdown rendering, memory optimizations, better…]]'
-- '[[Changes/Cline/2024-08-11-adds-option-to-add-custom-instructions-to-the-end-of-the-system-prompt|Adds
-  option to add custom instructions to the end of the system prompt]]'
+- '[[Changes/Dify/2024-11-26-llm-memory-processing-corrected-errors-in-llm-memory-handling-11103-and-11106|LLM
+  Memory Processing: Corrected errors in LLM memory handling]]'
+- '[[Changes/Dify/2025-01-07-database-and-memory-optimizations-that-not-only-improve-performance-but-they-ll|Database
+  and memory optimizations that not only improve performance but they''ll…]]'
 - '[[Changes/OpenHands/2025-01-07-developer-mode-now-defaults-to-storing-data-on-the-filesystem-instead-of-in-memo|Developer
   mode now defaults to storing data on the filesystem instead of in-memory…]]'
 source_release: '[[Releases/Cursor/cursor-2025-02-19-0-46-x-https-cursor-com-changelog-0-46-x-640a0a10|cursor-2025-02-19-0-46-x-https-cursor-com-changelog-0-46-x-640a0a10]]'

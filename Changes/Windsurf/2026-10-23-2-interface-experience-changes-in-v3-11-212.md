@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 9642a0653cf3db96729a6916ce058b990131c59bbebad25161ed4e2d4ac7a877
+machine_hash: 2d8abe0b1f5cb961bd4f63d7d862ce1dcc4c775e0eeec56bb19847691726b53a
 product: windsurf
 product_name: Windsurf
 record:
@@ -47,10 +47,10 @@ record:
   title: 2 Interface Experience changes in v3.11.212
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-23-improved-a-mod-s-image-to-draw-inside-tmux-with-allow-passthrough-and-focus-even|Improved
-  a mod''s Image to draw inside tmux with allow-passthrough…]]'
 - '[[Changes/Codex CLI/2026-10-23-9-interface-experience-changes-in-rust-v0-164-0|9
   Interface Experience changes in rust-v0.164.0]]'
+- '[[Changes/Dify/2026-10-23-2-interface-experience-changes-in-1-18-0|2 Interface
+  Experience changes in 1.18.0]]'
 - '[[Changes/OpenHands/2026-10-23-refactor-sidebar-express-mobile-drawer-duration-in-css-by-enyst-in-https-github|refactor(sidebar):
   express mobile drawer duration in CSS]]'
 source_release: '[[Releases/Windsurf/windsurf-2026-10-23-v3-11-212-ce285b20|windsurf-2026-10-23-v3-11-212-ce285b20]]'
@@ -93,7 +93,7 @@ Source: https://docs.devin.ai/desktop/changelog#v3-11-212
 ## Nearby in Interface Experience
 
 - Earlier: 2026-10-23 · OpenHands · [[Changes/OpenHands/2026-10-23-refactor-sidebar-express-mobile-drawer-duration-in-css-by-enyst-in-https-github|refactor(sidebar): express mobile drawer duration in CSS]]
-- Later: 2026-10-26 · Claude Code · [[Changes/Claude Code/2026-10-26-changed-clicks-on-scrollbar-arrows-and-bars-in-fullscreen-lists-to-act-when-the|Changed clicks on scrollbar arrows and bars in fullscreen lists to act…]]
+- Later: 2026-10-25 · Open WebUI · [[Changes/Open WebUI/2026-10-25-13-interface-experience-changes-in-v0-12-4|13 Interface Experience changes in v0.12.4]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

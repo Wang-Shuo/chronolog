@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: search-browsing
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 4b6946838ce1d6ab943ea639d2e64a1d43b66bccb5c08345729512755b3c63dc
+machine_hash: da782dacaa1ad5c31ae8b75d24c0ac18be955e71065a95fe40cccc37046e3361
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -47,12 +47,12 @@ record:
   title: We’ve upgraded ChatGPT search for all users to provide even more comprehensive…
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2025-06-04-combines-internal-web-sources-for-synthesis|Combines
-  internal + web sources for synthesis]]'
 - '[[Changes/ChatGPT/2025-06-04-chatgpt-team-enterprise-and-edu-customers-globally-can-use-connectors-in-deep-re|ChatGPT
   Team, Enterprise, and Edu customers globally can use connectors in deep…]]'
 - '[[Changes/Cursor/2025-06-04-link-and-web-search-can-now-parse-pdfs-and-include-in-context|@Link
   and web search can now parse PDFs and include in context]]'
+- '[[Changes/Dify/2025-06-11-marketplace-ui-update-easier-browsing-with-improved-sorting-for-app-types-20685|Marketplace
+  UI Update]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-06-13-improvements-to-the-chatgpt-search-response-quality-2791e464|chatgpt-2025-06-13-improvements-to-the-chatgpt-search-response-quality-2791e464]]'
 source_type: chatgpt_changelog
 theme: search-browsing
@@ -83,8 +83,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Search and Browsing
 
-- Earlier: 2025-06-04 · Cursor · [[Changes/Cursor/2025-06-04-link-and-web-search-can-now-parse-pdfs-and-include-in-context|@Link and web search can now parse PDFs and include in context]]
-- Later: 2025-07-24 · ChatGPT · [[Changes/ChatGPT/2025-07-24-pro-users-can-now-connect-to-canva-and-notion-for-both-chat-search-and-deep-rese-bd2af2|Canva and Notion connectors (Pro)]]
+- Earlier: 2025-06-11 · Dify · [[Changes/Dify/2025-06-11-marketplace-ui-update-easier-browsing-with-improved-sorting-for-app-types-20685|Marketplace UI Update]]
+- Later: 2025-06-16 · Open WebUI · [[Changes/Open WebUI/2025-06-16-bypass-webloader-now-works-as-expected-resolved-an-issue-where-the-bypass-webloa|🌐 Bypass Webloader Now Works as Expected]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 6a12fbfdfc8b0ee10de0b4e3c745c82d0c1b3af38de61121b034378ff8e58d3f
+machine_hash: 31e2b3e833991aaa82b320bb1e4a98f722b673e8b12f3e3a322c34cbf0bc06b9
 product: cursor
 product_name: Cursor
 record:
@@ -47,12 +47,12 @@ record:
   title: Cursor is now based on VS Code 1.83.1
   type: change
 related_changes:
-- '[[Changes/Cursor/2023-07-28-more-robust-extension-handling-you-can-now-use-pre-release-extensions-again|More
-  robust extension handling]]'
 - '[[Changes/Cursor/2023-09-11-we-serve-extensions-now-using-cursor-s-extension-marketplace|Cursor
   Marketplace]]'
 - '[[Changes/Cursor/2023-09-17-we-point-to-a-different-marketplace-for-downloading-extensions-and-use-a-fork-of|Cursor
   Python and Cursor Marketplace]]'
+- '[[Changes/Gemini/2023-09-19-bard-can-now-access-helpful-information-from-google-apps-and-services|Bard
+  can now access helpful information from Google apps and services]]'
 source_release: '[[Releases/Cursor/cursor-2023-10-20-0-13-0-0-13-4-https-cursor-com-changelog-0-13-0-0-13-4-5f700e1b|cursor-2023-10-20-0-13-0-0-13-4-https-cursor-com-changelog-0-13-0-0-13-4-5f700e1b]]'
 source_type: cursor_changelog
 theme: apps-integrations
@@ -81,7 +81,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2023-09-17 · Cursor · [[Changes/Cursor/2023-09-17-we-point-to-a-different-marketplace-for-downloading-extensions-and-use-a-fork-of|Cursor Python and Cursor Marketplace]]
+- Earlier: 2023-09-19 · Gemini · [[Changes/Gemini/2023-09-19-bard-can-now-access-helpful-information-from-google-apps-and-services|Bard can now access helpful information from Google apps and services]]
 - Later: 2023-11-06 · ChatGPT · [[Changes/ChatGPT/2023-11-06-you-can-now-create-custom-versions-of-chatgpt-that-combine-instructions-extra-kn-5c0997|Introducing GPTs]]
 <!-- chronolog:end -->
 

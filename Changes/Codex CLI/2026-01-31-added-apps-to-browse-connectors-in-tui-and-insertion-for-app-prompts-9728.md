@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 8db23ca9add48fba8cca1ca58d396401d2e55d21514b9a938a03f7cb6f315f85
+machine_hash: dbfe769209ae318897cd2516ff473927c8458d4bd09cbf3f48ab6adab9eb8606
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -101,7 +101,7 @@ type: change
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-01-30 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-01-30-3-apps-and-integrations-changes-in-v0-0-400|3 Apps and Integrations changes in v0.0.400]]
-- Later: 2026-02-03 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-02-03-3-apps-and-integrations-changes-in-v0-0-401|3 Apps and Integrations changes in v0.0.401]]
+- Later: 2026-02-02 · ElevenLabs · [[Changes/ElevenLabs/2026-02-02-sdk-releases|SDK Releases]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

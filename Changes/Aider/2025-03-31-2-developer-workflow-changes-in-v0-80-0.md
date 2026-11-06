@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 9e76d8047ae1d4fdeb769125f463091aa8fbbaf452849cd6d288f62f32eb8da0
+machine_hash: 199a15d53081faec450d5188e3d1f32f206c8bf8faf3211dfd0cf4ecb9f47db1
 product: aider
 product_name: Aider
 record:
@@ -41,10 +41,10 @@ record:
   title: 2 Developer Workflow changes in v0.80.0
   type: change
 related_changes:
-- '[[Changes/Cline/2025-02-19-new-git-to-reference-the-current-working-changes-or-specific-commits-thanks-mrub|New
-  @git to reference the current working changes or specific commits…]]'
-- '[[Changes/Aider/2025-03-13-2-developer-workflow-changes-in-v0-77-0|2 Developer
-  Workflow changes in v0.77.0]]'
+- '[[Changes/Dify/2025-03-21-stop-the-service-command-please-execute-in-the-docker-directory|Stop
+  the service, Command, please execute in the docker directory]]'
+- '[[Changes/Dify/2025-03-24-stop-the-service-command-please-execute-in-the-docker-directory|Stop
+  the service, Command, please execute in the docker directory]]'
 - '[[Changes/OpenHands/2025-03-25-reduce-bash-soft-timeout-from-30-to-10-seconds-by-xingyaoww-in-https-github-com|Reduce
   bash SOFT timeout from 30 to 10 seconds]]'
 source_release: '[[Releases/Aider/aider-2025-03-31-v0-80-0-github-209238246-56764716|aider-2025-03-31-v0-80-0-github-209238246-56764716]]'
@@ -84,7 +84,7 @@ Source: https://github.com/Aider-AI/aider/releases/tag/v0.80.0
 ## Nearby in Developer Workflow
 
 - Earlier: 2025-03-25 · OpenHands · [[Changes/OpenHands/2025-03-25-reduce-bash-soft-timeout-from-30-to-10-seconds-by-xingyaoww-in-https-github-com|Reduce bash SOFT timeout from 30 to 10 seconds]]
-- Later: 2025-04-02 · OpenHands · [[Changes/OpenHands/2025-04-02-prevent-openhands-from-creating-additional-pull-requests-unless-explicitly-instr|Prevent OpenHands from creating additional pull requests unless explicitly instructed]]
+- Later: 2025-04-01 · Open WebUI · [[Changes/Open WebUI/2025-04-01-improved-error-handling-from-pipelines-pipelines-now-show-the-actual-returned-er|📚 Improved Error Handling from Pipelines]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

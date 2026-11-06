@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: d06705ae815e330cac97d9cba5dedffc2fa23e687451097cdfdccacf34c1243d
+machine_hash: d1a7e7aaa5b95fe51daec894e0b3c4f0e7cecd4d8fed53a41e557c3818af4bc6
 product: cline
 product_name: Cline
 record:
@@ -40,10 +40,10 @@ record:
   title: 'Requesty: use base URL to get models and API keys'
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2025-09-10-2-model-support-changes-in-rust-v0-32-0|2 Model
-  Support changes in rust-v0.32.0]]'
 - '[[Changes/Codex CLI/2025-09-10-2799-persist-model-reasoning-changes-2799|♯2799
   Persist model & reasoning changes (♯2799)]]'
+- "[[Changes/Open WebUI/2025-09-10-the-command-for-model-selection-now-supports-real-time-search-and-filtering-impr|\U0001F50D
+  The \"@\" command for model selection now supports real-time search and filtering…]]"
 - '[[Changes/Cline/2025-09-11-5-model-support-changes-in-v3-28-0|5 Model Support changes
   in v3.28.0]]'
 source_release: '[[Releases/Cline/cline-2025-09-12-v3-28-1-github-246864558-e39e1779|cline-2025-09-12-v3-28-1-github-246864558-e39e1779]]'

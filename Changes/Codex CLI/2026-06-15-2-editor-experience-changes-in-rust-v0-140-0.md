@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: a4b3a503f78c08908af1a4f752bd5bac43096958e456d63e2a841cad75e87c1c
+machine_hash: 386c61ff2f80542fde2ba9449d18098128d28e895290dd48fa61331198e5876b
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -98,7 +98,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.140.0
 ## Nearby in Editor Experience
 
 - Earlier: 2026-06-13 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-06-13-2-editor-experience-changes-in-v1-0-62|2 Editor Experience changes in v1.0.62]]
-- Later: 2026-06-16 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-06-16-4-editor-experience-changes-in-v1-0-63|4 Editor Experience changes in v1.0.63]]
+- Later: 2026-06-15 · ElevenLabs · [[Changes/ElevenLabs/2026-06-15-workspaces|Workspaces]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

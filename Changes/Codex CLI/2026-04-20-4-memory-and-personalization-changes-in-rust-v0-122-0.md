@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: memory
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 375a65ce2ad22db3d989a7af6c38b0dd6b16fbb2469a4862f7b6322ac2dea0ce
+machine_hash: 01391e286ad3e6c176ad67e1d56bcfa2a9ffe3e975f22a628c80604b04e3e6cf
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -104,7 +104,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.122.0
 ## Nearby in Memory and Personalization
 
 - Earlier: 2026-04-16 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-04-16-custom-instructions-and-skills-refresh-from-disk-after-clear-or-new|Custom instructions and skills refresh from disk after /clear or /new]]
-- Later: 2026-04-22 · ChatGPT · [[Changes/ChatGPT/2026-04-22-sometimes-you-just-want-the-right-answer-as-quickly-as-possible-we-re-rolling-ou|Fast answers in ChatGPT]]
+- Later: 2026-04-20 · ElevenLabs · [[Changes/ElevenLabs/2026-04-20-elevenagents-d2ebb2|ElevenAgents]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

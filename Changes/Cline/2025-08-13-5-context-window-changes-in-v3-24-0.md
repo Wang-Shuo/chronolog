@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 1a36741584db1f818d55a9c0c12115d535c70ec6695010d0b106ac982a5b7087
+machine_hash: 97e12e5ad17c85ea369ca670f54f149993cabf98746a7f1af1bbab534a7bed37
 product: cline
 product_name: Cline
 record:
@@ -50,8 +50,7 @@ record:
   title: 5 Context Window changes in v3.24.0
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2025-08-06-3-context-window-changes-in-v0-1-18|3 Context Window
-  changes in v0.1.18]]'
+- '[[Changes/Claude/2025-08-12-1m-token-context-window|1M token context window]]'
 - '[[Changes/Codex CLI/2025-08-12-https-github-com-openai-codex-pull-2200-send-prompt-cache-key-for-better-caching|(source
   link) send prompt cache key for better caching…]]'
 - '[[Changes/Gemini CLI/2025-08-12-3-context-window-changes-in-v0-1-19|3 Context Window

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 9451b4104aa81aa39996869ce6febf87bc79bf42dc2f78217805ce5f07ab791c
+machine_hash: 45ccd20f8b2428ba5c3351d8a531af8bc90ef6de3282bc450ee1cd6d812f8c54
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -79,9 +79,9 @@ record:
   title: GPT-5
   type: change
 related_changes:
-- '[[Changes/Cline/2025-08-06-add-prompt-caching-for-opus-4-1-by-saoudrizwan-in-https-github-com-cline-cline-p|Add
-  prompt caching for Opus 4.1]]'
 - '[[Changes/Cursor/2025-08-06-separate-models-per-agent|Separate models per Agent]]'
+- '[[Changes/Gemini/2025-08-06-students-get-one-free-year-of-google-ai-pro-in-the-us-japan-indonesia-korea-and|Students
+  get one free year of Google AI Pro in the US, Japan, Indonesia, Korea, and Brazil]]'
 - '[[Changes/Gemini CLI/2025-08-06-20-model-support-changes-in-v0-1-18|20 Model Support
   changes in v0.1.18]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-08-07-gpt-5-a50b91bc|chatgpt-2025-08-07-gpt-5-a50b91bc]]'

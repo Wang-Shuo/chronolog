@@ -5,20 +5,20 @@ description: 'ChatGPT · 2026-09-10 · Enterprise and Administration: Box, Dropb
   and SharePoint integrations are now rolling out to Go, Plus, Pro, Business, Edu,
   Healthcare…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2024-03-20-admin-improvements-team-admins-can-now-mark-themselves-as-unpaid-users-and-can-s|Admin
-    improvements: Team admins can now mark themselves as unpaid users and can see…]]'
+  first_in_tracked: '[[Changes/Gemini/2023-05-05-access-for-google-workspace-accounts|Access
+    for Google Workspace accounts]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 904
+  lag_days: 1224
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: expansion
-machine_hash: 7ad453a2db21bc7ff7b0ddaac9a7b0cfe41dfab1a4f2ccb58e75980c057aceb0
+machine_hash: 12ca4b5b6be3e1680079bae49a788b53d782982d531bea8656392fe66f9cb8ba
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -60,12 +60,12 @@ record:
     Pro…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-08-18-remote-control-claude-rc-now-applies-the-same-enterprise-gateway-availability-ch|Remote
-  Control: claude rc now applies the same enterprise-gateway availability…]]'
-- '[[Changes/GitHub Copilot CLI/2026-08-27-2-enterprise-and-administration-changes-in-v1-0-81|2
-  Enterprise and Administration changes in v1.0.81]]'
+- '[[Changes/Lovable/2026-09-03-see-how-your-workspace-adopts-lovable|See how your
+  workspace adopts Lovable]]'
 - '[[Changes/GitHub Copilot CLI/2026-09-04-enterprise-admins-can-pin-sign-in-to-approved-github-organizations-with-the-forc|Enterprise
   admins can pin sign-in to approved GitHub organizations…]]'
+- '[[Changes/Lovable/2026-09-04-manage-and-protect-your-preview-links|Manage and protect
+  your preview links]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-09-10-box-dropbox-and-sharepoint-are-now-in-library-e089c018|chatgpt-2026-09-10-box-dropbox-and-sharepoint-are-now-in-library-e089c018]]'
 source_type: chatgpt_changelog
 theme: enterprise-admin
@@ -95,14 +95,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Enterprise and Administration
 
-- Earlier: 2026-09-04 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-09-04-enterprise-admins-can-pin-sign-in-to-approved-github-organizations-with-the-forc|Enterprise admins can pin sign-in to approved GitHub organizations…]]
-- Later: 2026-09-17 · Claude Code · [[Changes/Claude Code/2026-09-17-claude-tag-improved-claude-s-notices-in-enterprise-grid-channels-shared-across-w|Claude Tag Improved Claude's notices in Enterprise Grid channels shared across…]]
+- Earlier: 2026-09-04 · Lovable · [[Changes/Lovable/2026-09-04-manage-and-protect-your-preview-links|Manage and protect your preview links]]
+- Later: 2026-09-10 · Claude · [[Changes/Claude/2026-09-10-smart-reports-beta|Smart reports (beta)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2024-03-20 · Cursor · [[Changes/Cursor/2024-03-20-admin-improvements-team-admins-can-now-mark-themselves-as-unpaid-users-and-can-s|Admin improvements: Team admins can now mark themselves as unpaid users and can see…]]
+- Earliest same-theme entry in the tracked set: 2023-05-05 · Gemini · [[Changes/Gemini/2023-05-05-access-for-google-workspace-accounts|Access for Google Workspace accounts]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

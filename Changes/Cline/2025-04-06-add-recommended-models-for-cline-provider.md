@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 9cb5cb812892adbe8829d6d489cd657c04eb3821c3e85c40fec536a33cb8a8dc
+machine_hash: 64f89f0648b51041281157cd0d5d99090a8b8a919c376da86c8761dd52c3b37a
 product: cline
 product_name: Cline
 record:
@@ -40,12 +40,11 @@ record:
   title: Add recommended models for Cline provider
   type: change
 related_changes:
-- '[[Changes/OpenHands/2025-04-02-2-model-support-changes-in-0-31-0|2 Model Support
-  changes in 0.31.0]]'
-- '[[Changes/Aider/2025-04-04-4-model-support-changes-in-v0-81-0|4 Model Support changes
-  in v0.81.0]]'
 - '[[Changes/Cline/2025-04-04-add-gemini-2-5-pro-preview-03-25-to-google-provider|Add
   Gemini 2.5 Pro Preview 03-25 to Google Provider]]'
+- '[[Changes/Replit/2025-04-04-3d-model-generation-milestone|3D model generation milestone]]'
+- "[[Changes/Open WebUI/2025-04-05-conditional-export-button-visibility-ui-now-gracefully-hides-export-buttons-when|\U0001F6AB
+  Conditional Export Button Visibility]]"
 source_release: '[[Releases/Cline/cline-2025-04-06-v3-9-2-github-210579054-7c606c67|cline-2025-04-06-v3-9-2-github-210579054-7c606c67]]'
 source_type: github_releases
 theme: model-support
@@ -76,8 +75,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2025-04-04 · Cline · [[Changes/Cline/2025-04-04-add-gemini-2-5-pro-preview-03-25-to-google-provider|Add Gemini 2.5 Pro Preview 03-25 to Google Provider]]
-- Later: 2025-04-10 · ChatGPT · [[Changes/ChatGPT/2025-04-10-effective-april-30-2025-gpt-4-will-be-retired-from-chatgpt-and-fully-replaced-by-d03b3b|Sunsetting GPT‑4 in ChatGPT]]
+- Earlier: 2025-04-05 · Open WebUI · [[Changes/Open WebUI/2025-04-05-conditional-export-button-visibility-ui-now-gracefully-hides-export-buttons-when|🚫 Conditional Export Button Visibility]]
+- Later: 2025-04-06 · Ollama · [[Changes/Ollama/2025-04-06-2-model-support-changes-in-v0-6-5|2 Model Support changes in v0.6.5]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

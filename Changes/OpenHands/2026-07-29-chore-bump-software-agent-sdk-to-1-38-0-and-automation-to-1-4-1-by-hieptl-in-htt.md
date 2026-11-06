@@ -4,20 +4,20 @@ date: '2026-07-29'
 description: 'OpenHands · 2026-07-29 · Automation and Scheduling: chore: bump software-agent-sdk
   to 1.38.0 and automation to 1.4.1 by @hieptl in…'
 diffusion:
-  first_in_tracked: '[[Changes/OpenHands/2024-09-04-better-syntax-error-loop-detection-by-tobitege-in-https-github-com-all-hands-ai|Better
-    syntax error loop detection]]'
+  first_in_tracked: '[[Changes/Dify/2024-01-02-add-data-clean-schedule-by-johnjyong-in-https-github-com-langgenius-dify-pull-18|Add
+    data clean schedule]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 693
+  lag_days: 939
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: c949b67eb47e0796b72129b5efbbebff8636d6c617ab456179d3c2957488869b
+machine_hash: cd2e91af0e6551201d2f13cc246b435579af6068f32e33540095ea5c4532036b
 product: openhands
 product_name: OpenHands
 record:
@@ -54,12 +54,12 @@ record:
   title: 'chore: bump software-agent-sdk to 1.38.0 and automation to 1.4.1'
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-07-08-30508-revert-make-auto-review-on-request-prompt-more-proactive-dylan-hurd-oai|♯30508
-  Revert "Make auto-review on-request prompt more proactive" @dylan-hurd-oai]]'
-- '[[Changes/ChatGPT/2026-07-09-work-can-also-keep-projects-moving-through-scheduled-tasks-that-run-once-repeat-2d6910|Work
-  can also keep projects moving through Scheduled Tasks that run once, repeat…]]'
+- '[[Changes/Dify/2026-07-17-2-automation-and-scheduling-changes-in-1-16-0|2 Automation
+  and Scheduling changes in 1.16.0]]'
 - '[[Changes/Gemini CLI/2026-07-22-feat-caretaker-triage-implement-main-worker-execution-loop-and-egress-action-pub|feat(caretaker-triage):
   implement main worker execution loop and egress action publisher]]'
+- '[[Changes/Open WebUI/2026-07-27-9-automation-and-scheduling-changes-in-v0-11-0|9
+  Automation and Scheduling changes in v0.11.0]]'
 source_release: '[[Releases/OpenHands/openhands-2026-07-29-v1-7-0-github-362088149-8fdb1e1c|openhands-2026-07-29-v1-7-0-github-362088149-8fdb1e1c]]'
 source_type: github_releases
 theme: automation-scheduling
@@ -93,14 +93,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Automation and Scheduling
 
-- Earlier: 2026-07-22 · Gemini CLI · [[Changes/Gemini CLI/2026-07-22-feat-caretaker-triage-implement-main-worker-execution-loop-and-egress-action-pub|feat(caretaker-triage): implement main worker execution loop and egress action publisher]]
+- Earlier: 2026-07-27 · Open WebUI · [[Changes/Open WebUI/2026-07-27-9-automation-and-scheduling-changes-in-v0-11-0|9 Automation and Scheduling changes in v0.11.0]]
 - Later: 2026-07-30 · OpenHands · [[Changes/OpenHands/2026-07-30-chore-bump-agent-server-1-39-1-automation-1-5-0-typescript-client-1-36-1-by-hiep|chore: bump agent-server 1.39.1, automation 1.5.0, typescript-client 1.36.1]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2024-09-04 · OpenHands · [[Changes/OpenHands/2024-09-04-better-syntax-error-loop-detection-by-tobitege-in-https-github-com-all-hands-ai|Better syntax error loop detection]]
+- Earliest same-theme entry in the tracked set: 2024-01-02 · Dify · [[Changes/Dify/2024-01-02-add-data-clean-schedule-by-johnjyong-in-https-github-com-langgenius-dify-pull-18|Add data clean schedule]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

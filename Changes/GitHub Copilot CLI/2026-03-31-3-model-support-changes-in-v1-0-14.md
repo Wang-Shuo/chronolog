@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 80a190a1711dddb5362c9c3733e3e6ce4dc8c09e013bb09efdd67f52fe46def1
+machine_hash: 99f8b8ca6c45cac074a9cf3655a62a3ca5958fd26def488d437c3c7f9a5f0871
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -45,8 +45,8 @@ record:
   title: 3 Model Support changes in v1.0.14
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-03-26-model-display-header-shows-the-active-reasoning-effort-level-e-g-high-next-to-th|Model
-  display header shows the active reasoning effort level (e.g. "(high)") next…]]'
+- "[[Changes/Open WebUI/2026-03-27-admin-model-visibility-administrators-can-now-see-models-even-when-no-access-con|\U0001F451
+  Admin model visibility. Administrators can now see models even when no access…]]"
 - '[[Changes/GitHub Copilot CLI/2026-03-30-2-model-support-changes-in-v1-0-13|2 Model
   Support changes in v1.0.13]]'
 - '[[Changes/Codex CLI/2026-03-31-5-model-support-changes-in-rust-v0-118-0|5 Model

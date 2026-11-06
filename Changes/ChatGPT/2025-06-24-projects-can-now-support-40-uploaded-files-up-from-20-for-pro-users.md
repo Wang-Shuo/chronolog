@@ -4,20 +4,20 @@ date: '2025-06-24'
 description: 'ChatGPT · 2025-06-24 · Files and Data: Projects can now support 40 uploaded
   files, up from 20, for Pro users.'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-07-06-we-re-rolling-out-code-interpreter-to-all-chatgpt-plus-users-over-the-next-week-66255e|Code
-    interpreter is now rolling out in beta on web]]'
+  first_in_tracked: '[[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2
+    Files and Data changes in 0.2.2]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 719
+  lag_days: 761
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 13b35df40f2a3ae9a16363136e67956ce331b3170323930dd2cecedc4af6351b
+machine_hash: b576774aeb13400f9c642fc7190c32f8e7ea6941e60fd2829c0653168690214b
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -45,12 +45,12 @@ record:
   title: Project file limit increased (Pro)
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2025-02-06-users-can-now-share-a-canvas-asset-such-as-rendered-react-html-code-document-or-2f5aff|Canvas
-  sharing]]'
-- '[[Changes/Cline/2025-05-28-add-support-for-uploading-various-file-types-xml-json-txt-log-md-docx-ipynb-pdf|Add
-  support for uploading various file types…]]'
-- '[[Changes/Cline/2025-06-03-add-support-for-uploading-csv-and-xlsx-files-for-data-analysis-and-processing|Add
-  support for uploading CSV and XLSX files for data analysis and processing]]'
+- '[[Changes/Dify/2025-06-11-update-template-zh-mdx-fix-document-update-metadata-body-param-by-geosmart-in-ht|Update
+  template.zh.mdx-fix document update metadata body param]]'
+- '[[Changes/Dify/2025-06-16-2-files-and-data-changes-in-1-4-3|2 Files and Data changes
+  in 1.4.3]]'
+- '[[Changes/Open WebUI/2025-06-16-3-files-and-data-changes-in-v0-6-15|3 Files and
+  Data changes in v0.6.15]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-06-24-project-file-limit-increased-pro-a6870635|chatgpt-2025-06-24-project-file-limit-increased-pro-a6870635]]'
 source_type: chatgpt_changelog
 theme: file-data
@@ -77,14 +77,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Files and Data
 
-- Earlier: 2025-06-03 · Cline · [[Changes/Cline/2025-06-03-add-support-for-uploading-csv-and-xlsx-files-for-data-analysis-and-processing|Add support for uploading CSV and XLSX files for data analysis and processing]]
-- Later: 2025-08-14 · Gemini CLI · [[Changes/Gemini CLI/2025-08-14-document-certificate-issue-workaround-by-scidomino-in-https-github-com-google-ge|Document certificate issue workaround]]
+- Earlier: 2025-06-16 · Open WebUI · [[Changes/Open WebUI/2025-06-16-3-files-and-data-changes-in-v0-6-15|3 Files and Data changes in v0.6.15]]
+- Later: 2025-06-25 · Dify · [[Changes/Dify/2025-06-25-feature-refactor-batch-update-document-status-for-21324-by-neatguycoding-in-http|Feature：Refactor batch update document status for ♯21324]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-07-06 · ChatGPT · [[Changes/ChatGPT/2023-07-06-we-re-rolling-out-code-interpreter-to-all-chatgpt-plus-users-over-the-next-week-66255e|Code interpreter is now rolling out in beta on web]]
+- Earliest same-theme entry in the tracked set: 2023-05-25 · Dify · [[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2 Files and Data changes in 0.2.2]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

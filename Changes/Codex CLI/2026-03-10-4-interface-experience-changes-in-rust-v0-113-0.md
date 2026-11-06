@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: c9fe7a9efe564dd71c66cae114d8130a4e1b8e78fd1bbdf39c36e0a155742776
+machine_hash: af122481fff5604050b5d804e4d0d1e70b5ef790a6c08ff21fbc87d633ecaeb4
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -48,8 +48,8 @@ record:
   title: 4 Interface Experience changes in rust-v0.113.0
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-03-08-added-a-new-model-selection-surface-update-so-the-latest-model-catalog-changes-a|Added
-  a new model-selection surface update so the latest model catalog changes…]]'
+- '[[Changes/Open WebUI/2026-03-08-5-interface-experience-changes-in-v0-8-9|5 Interface
+  Experience changes in v0.8.9]]'
 - '[[Changes/GitHub Copilot CLI/2026-03-09-show-loading-spinner-in-diff-mode-while-fetching-changes|Show
   loading spinner in diff mode while fetching changes]]'
 - '[[Changes/Claude Code/2026-03-10-added-w-key-in-copy-to-write-the-focused-selection-directly-to-a-file-bypassing|Added
@@ -102,7 +102,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.113.0
 ## Nearby in Interface Experience
 
 - Earlier: 2026-03-10 · Claude Code · [[Changes/Claude Code/2026-03-10-added-w-key-in-copy-to-write-the-focused-selection-directly-to-a-file-bypassing|Added w key in /copy to write the focused selection directly to a file…]]
-- Later: 2026-03-11 · Claude Code · [[Changes/Claude Code/2026-03-11-2-interface-experience-changes-in-v2-1-73|2 Interface Experience changes in v2.1.73]]
+- Later: 2026-03-10 · v0 · [[Changes/v0/2026-03-10-added-tooltip-to-disabled-new-chat-button|Added tooltip to disabled New Chat button]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: fcb859ce3c9b50c1fa218fd3850e55f36a91341f680518b92b5d5f877337ba19
+machine_hash: e591b075bbc622c954636794e09f2c063dd6533c6499588bd40b5ed9f0c190ac
 product: claude-code
 product_name: Claude Code
 record:
@@ -58,10 +58,10 @@ record:
   title: 5 Apps and Integrations changes in v2.1.269
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-09-10-the-data-plugin-helps-you-analyze-connected-business-data-in-chatgpt-work-and-co|Data
-  plugin in ChatGPT Work and Codex]]'
-- '[[Changes/Claude Code/2026-09-10-7-apps-and-integrations-changes-in-v2-1-268|7
-  Apps and Integrations changes in v2.1.268]]'
+- '[[Changes/Lovable/2026-09-10-lovable-mcp-now-works-with-grok|Lovable MCP now works
+  with Grok]]'
+- '[[Changes/Lovable/2026-09-10-connect-your-app-to-cloudflare-api|Connect your app
+  to Cloudflare API]]'
 - '[[Changes/ChatGPT/2026-09-11-we-re-planning-to-retire-custom-gpts-across-chatgpt-plans-and-provide-a-migratio|Planned
   custom GPT retirement and migration to plugins]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-11-v2-1-269-github-387243742-288e9189|claude-code-2026-09-11-v2-1-269-github-387243742-288e9189]]'
@@ -113,7 +113,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.269
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-09-11 · ChatGPT · [[Changes/ChatGPT/2026-09-11-we-re-planning-to-retire-custom-gpts-across-chatgpt-plans-and-provide-a-migratio|Planned custom GPT retirement and migration to plugins]]
-- Later: 2026-09-14 · ChatGPT · [[Changes/ChatGPT/2026-09-14-for-new-health-plugin-connections-chatgpt-will-now-default-to-each-user-s-global|For new Health plugin connections, ChatGPT will now default to each user’s global…]]
+- Later: 2026-09-11 · Lovable · [[Changes/Lovable/2026-09-11-get-a-warning-when-another-lovable-project-already-uses-your-supabase-project|Get a warning when another Lovable project already uses your Supabase project]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

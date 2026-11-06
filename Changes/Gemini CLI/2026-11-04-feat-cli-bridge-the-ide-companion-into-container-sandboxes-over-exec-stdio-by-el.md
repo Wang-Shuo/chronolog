@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: e88e951543127eaaf38cfb1dbf959a06d8a58e167096639a2058797b3b51a554
+machine_hash: 6a98af678ac65b04ab2d76f267627887ac9ff5aec7b01a8b556b63485ca08f25
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -42,12 +42,12 @@ record:
   title: 'feat(cli): bridge the IDE companion into container sandboxes over exec stdio'
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-30-2-editor-experience-changes-in-v2-1-314|2 Editor
-  Experience changes in v2.1.314]]'
-- '[[Changes/Claude Code/2026-10-31-2-editor-experience-changes-in-v2-1-316|2 Editor
-  Experience changes in v2.1.316]]'
+- '[[Changes/Open WebUI/2026-11-03-4-editor-experience-changes-in-v0-13-0|4 Editor
+  Experience changes in v0.13.0]]'
 - '[[Changes/OpenHands/2026-11-03-feat-files-add-a-download-button-to-the-files-tab-ohe-3834-by-hieptl-in-https-gi|feat(files):
   add a Download button to the Files tab (OHE-3834)]]'
+- '[[Changes/Dify/2026-11-04-3-editor-experience-changes-in-1-19-0|3 Editor Experience
+  changes in 1.19.0]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2026-11-04-v0-67-0-github-434415349-61471746|gemini-cli-2026-11-04-v0-67-0-github-434415349-61471746]]'
 source_type: github_releases
 theme: editor-experience
@@ -78,7 +78,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2026-11-03 · OpenHands · [[Changes/OpenHands/2026-11-03-feat-files-add-a-download-button-to-the-files-tab-ohe-3834-by-hieptl-in-https-gi|feat(files): add a Download button to the Files tab (OHE-3834)]]
+- Earlier: 2026-11-04 · Dify · [[Changes/Dify/2026-11-04-3-editor-experience-changes-in-1-19-0|3 Editor Experience changes in 1.19.0]]
 - Later: 2026-11-05 · OpenHands · [[Changes/OpenHands/2026-11-05-chore-deps-bump-monaco-editor-from-0-56-0-to-0-57-0-in-the-monaco-group-by-depen|chore(deps): bump monaco-editor from 0.56.0 to 0.57.0 in the monaco group…]]
 <!-- chronolog:end -->
 

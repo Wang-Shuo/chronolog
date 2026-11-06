@@ -1,0 +1,97 @@
+---
+card_id: replit-2025-05-02-977920
+date: '2025-05-02'
+description: 'Replit · 2025-05-02 · Reliability and Performance: The app type selector
+  is now available to all users! This feature makes it easier to choose the right…'
+diffusion:
+  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General
+    performance: Among other improvements, users will notice that ChatGPT is now…]]'
+  inference: No adoption, equivalence, or causation claim.
+  lag_days: 869
+  relation: same-theme-chronology
+  role: later-observed
+  scope: tracked-products-only
+  theme: reliability-performance
+  tracked_products_count: 20
+evolves_from: []
+extractor_version: fallback-v5
+impact: significant
+kind: launch
+machine_hash: b490fe20761ab9023fde96e27385d144052786787f441d770bd3b69f6dd614f7
+product: replit
+product_name: Replit
+record:
+  ai_generated: true
+  card_id: replit-2025-05-02-977920
+  comparison: ''
+  confidence: low
+  date: '2025-05-02'
+  description: 'Replit — Replit updates — 2025-05-02: The app type selector is now
+    available to all users! This feature makes it easier to choose the right template
+    when starting a new project, helping you get up and running faster with appropriate
+    configurations for your specific use case.'
+  evidence:
+  - quote: The app type selector is now available to all users! This feature makes
+      it easier to choose the right template when starting a new project, helping
+      you get up and running faster with appropriate configurations for your specific
+      use case.
+    source_release: https://docs.replit.com/updates/2025/05/02/changelog
+  extractor_version: fallback-v5
+  impact: significant
+  kind: launch
+  product: replit
+  product_name: Replit
+  slug: app-type-selector-fully-launched
+  source_release: replit-2025-05-02-2025-05-02-ceaa92ef
+  source_type: replit_changelog
+  theme: reliability-performance
+  title: App type selector fully launched
+  type: change
+related_changes:
+- '[[Changes/Replit/2025-04-18-faster-ai-responses|Faster AI responses]]'
+- '[[Changes/Dify/2025-04-23-chore-speed-up-git-checkout-by-removing-fetch-depth-0-to-avoid-pulling-all-tags|chore:
+  speed up git checkout by removing fetch-depth 0 to avoid pulling all tags…]]'
+- '[[Changes/Windsurf/2025-04-27-performance-improvements|Performance Improvements]]'
+source_release: '[[Releases/Replit/replit-2025-05-02-2025-05-02-ceaa92ef|replit-2025-05-02-2025-05-02-ceaa92ef]]'
+source_type: replit_changelog
+theme: reliability-performance
+title: App type selector fully launched
+type: change
+---
+
+<!-- chronolog:begin region="header" -->
+# App type selector fully launched
+
+**Replit** · 2025-05-02 · [[Themes/reliability-performance|Reliability and Performance]] · Launch · [Official source](https://docs.replit.com/updates/2025/05/02/changelog) · from [[Releases/Replit/replit-2025-05-02-2025-05-02-ceaa92ef|Replit updates — 2025-05-02]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="evidence" -->
+> The app type selector is now available to all users! This feature makes it easier to choose the right template when starting a new project, helping you get up and running faster with appropriate configurations for your specific use case.
+>
+> Source: https://docs.replit.com/updates/2025/05/02/changelog
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="context" -->
+## Also in this release
+
+- [[Changes/Replit/2025-05-02-replit-teams-annual-plan|Replit Teams Annual plan]] · Collaboration
+- [[Changes/Replit/2025-05-02-teams-and-enterprise|Teams and Enterprise]] · Enterprise and Administration
+- [[Changes/Replit/2025-05-02-replit-auth|Replit Auth]] · Account and Access
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="nearby" -->
+## Nearby in Reliability and Performance
+
+- Earlier: 2025-04-27 · Windsurf · [[Changes/Windsurf/2025-04-27-performance-improvements|Performance Improvements]]
+- Later: 2025-05-03 · Ollama · [[Changes/Ollama/2025-05-03-2-reliability-and-performance-changes-in-v0-6-8|2 Reliability and Performance changes in v0.6.8]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="relations" -->
+## Related
+
+- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General performance: Among other improvements, users will notice that ChatGPT is now…]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="footer" -->
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20replit-2025-05-02-977920&body=Card%3A%20Changes%2FReplit%2F2025-05-02-app-type-selector-fully-launched.md%0ACard%20ID%3A%20replit-2025-05-02-977920%0ASource%3A%20https%3A%2F%2Fdocs.replit.com%2Fupdates%2F2025%2F05%2F02%2Fchangelog%0A%0AWhat%20should%20be%20corrected%3F%0A)
+<!-- chronolog:end -->

@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: pricing
-machine_hash: a25e364102c9a8375b19a646cac4232a4ad4c956a953b959b0de26fd639f2061
+machine_hash: d2611829ca9981f155a85ed783b7e2fdd858398a581637627edb9d329204f6fb
 product: cline
 product_name: Cline
 record:
@@ -39,7 +39,8 @@ record:
   title: Codex-5.3 through ChatGPT subscription
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-12-18-billing-groups|Billing groups]]'
+- '[[Changes/Dify/2026-02-03-refactor-contract-restructure-console-contracts-with-nested-billing-module-by-ly|refactor(contract):
+  restructure console contracts with nested billing module]]'
 - '[[Changes/Claude Code/2026-02-04-removed-misleading-anthropic-api-pricing-from-model-selector-for-third-party-pro|Removed
   misleading Anthropic API pricing from model selector for third-party…]]'
 - '[[Changes/Codex CLI/2026-02-04-10274-add-credits-tooltip-pakrym-oai|♯10274 Add

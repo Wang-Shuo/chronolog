@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 13460a0410c00baabfa6f6339d34d115c92c97927c0cb37366b9d64aae19eb51
+machine_hash: f55e336c3fe7dec99db93813ecb0f1d2b36ad0147b8358092bb0bed34f476a8e
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -43,12 +43,12 @@ record:
     "Codex CLI"'
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2025-08-20-9-account-and-access-changes-in-rust-v0-23-0|9 Account
-  and Access changes in rust-v0.23.0]]'
-- '[[Changes/Codex CLI/2025-08-26-2528-fix-login-for-internal-employees|♯2528 Fix
-  login for internal employees]]'
+- '[[Changes/Dify/2025-08-27-7-account-and-access-changes-in-1-8-0|7 Account and Access
+  changes in 1.8.0]]'
 - '[[Changes/Cline/2025-08-28-feature-qwen-code-cli-api-support-with-oauth-by-evinelias-in-https-github-com-cl|Feature/Qwen
   Code CLI API Support with OAuth]]'
+- '[[Changes/Open WebUI/2025-08-28-2-account-and-access-changes-in-v0-6-26|2 Account
+  and Access changes in v0.6.26]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2025-08-29-rust-v0-26-0-github-243361170-3db0d38c|codex-cli-2025-08-29-rust-v0-26-0-github-243361170-3db0d38c]]'
 source_type: github_releases
 theme: account-access
@@ -82,8 +82,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Account and Access
 
-- Earlier: 2025-08-28 · Cline · [[Changes/Cline/2025-08-28-feature-qwen-code-cli-api-support-with-oauth-by-evinelias-in-https-github-com-cl|Feature/Qwen Code CLI API Support with OAuth]]
-- Later: 2025-09-04 · Gemini CLI · [[Changes/Gemini CLI/2025-09-04-feat-mcp-add-odic-fallback-to-oauth-metadata-look-up-by-xiaoheh-in-https-github|feat(mcp): Add ODIC fallback to OAuth metadata look up]]
+- Earlier: 2025-08-28 · Open WebUI · [[Changes/Open WebUI/2025-08-28-2-account-and-access-changes-in-v0-6-26|2 Account and Access changes in v0.6.26]]
+- Later: 2025-09-03 · Dify · [[Changes/Dify/2025-09-03-2-account-and-access-changes-in-1-8-1|2 Account and Access changes in 1.8.1]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

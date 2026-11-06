@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: e1e03ca336e85d66b4262a770d30f2b721ec41a6982a88109b72723fd1a20442
+machine_hash: a39aad8b96bcd5d6af8ea33e2ada57a57c0b33416af43109620f6b406c0deb4c
 product: cline
 product_name: Cline
 record:
@@ -87,7 +87,7 @@ Source: https://github.com/cline/cline/releases/tag/v3.34.1
 ## Nearby in Model Support
 
 - Earlier: 2025-10-24 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2025-10-24-improved-prompting-for-sonnet-4-5-to-reduce-the-number-of-intermediate-markdown|Improved prompting for Sonnet 4.5 to reduce the number of intermediate markdown…]]
-- Later: 2025-10-27 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2025-10-27-improve-error-message-from-model-model-command-when-using-an-unsupported-model|Improve error message from /model model command when using an unsupported model]]
+- Later: 2025-10-27 · ElevenLabs · [[Changes/ElevenLabs/2025-10-27-supported-llm-models|Supported LLM Models]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

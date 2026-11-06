@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 8fa37b2ef993bd6332a0cdde23fc783b51e3c063a548965202e8031d83d8af65
+machine_hash: 6f4784869b4b6aa551bfc79c0110d9f768d5eefbe8c42f2007d81abbe62e7388
 product: claude-code
 product_name: Claude Code
 record:
@@ -84,10 +84,10 @@ record:
   title: 14 Apps and Integrations changes in v2.1.290
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-10-01-4-apps-and-integrations-changes-in-rust-v0-160-0|4
-  Apps and Integrations changes in rust-v0.160.0]]'
 - '[[Changes/Claude Code/2026-10-02-5-apps-and-integrations-changes-in-v2-1-288|5
   Apps and Integrations changes in v2.1.288]]'
+- '[[Changes/Replit/2026-10-02-jev-is-now-available-through-replit-ai-integrations|Jev
+  is now available through Replit AI Integrations]]'
 - '[[Changes/Claude Code/2026-10-03-2-apps-and-integrations-changes-in-v2-1-289|2
   Apps and Integrations changes in v2.1.289]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-10-05-v2-1-290-github-403993621-ae06f2b6|claude-code-2026-10-05-v2-1-290-github-403993621-ae06f2b6]]'

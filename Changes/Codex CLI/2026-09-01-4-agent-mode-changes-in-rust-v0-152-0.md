@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 26e587272e05e52edc752962b8b5a349b884d39d8234a41d65b53c84f95e545b
+machine_hash: d327f81be64d02217c2c9b9854987400425bb33fee30ee9a7dd19535626e66fd
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -46,10 +46,8 @@ record:
   title: 4 Agent Mode changes in rust-v0.152.0
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-08-28-4-agent-mode-changes-in-v2-1-251|4 Agent Mode
-  changes in v2.1.251]]'
-- '[[Changes/Codex CLI/2026-08-29-2-agent-mode-changes-in-rust-v0-151-0|2 Agent Mode
-  changes in rust-v0.151.0]]'
+- '[[Changes/ElevenLabs/2026-08-31-elevenlabs-cli|ElevenLabs CLI]]'
+- '[[Changes/ElevenLabs/2026-08-31-elevenagents|ElevenAgents]]'
 - '[[Changes/Claude Code/2026-09-01-5-agent-mode-changes-in-v2-1-257|5 Agent Mode
   changes in v2.1.257]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-09-01-rust-v0-152-0-github-380164108-cd339544|codex-cli-2026-09-01-rust-v0-152-0-github-380164108-cd339544]]'

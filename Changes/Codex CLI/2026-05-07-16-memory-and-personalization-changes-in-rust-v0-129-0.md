@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: memory
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 5d553e8f9574cf0f76cff001070153aecd668cf6a4c5e306be2dd1a9c0b0ed44
+machine_hash: e6158b3bd7171d9a90985d241e253b4c462ba9abbb48102b2ab5f1ee49c58036
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -152,7 +152,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.129.0
 ## Nearby in Memory and Personalization
 
 - Earlier: 2026-05-05 · Gemini CLI · [[Changes/Gemini CLI/2026-05-05-feat-memory-persist-auto-memory-scratchpad-for-skill-extraction-by-sandytao520-i|feat(memory): persist auto-memory scratchpad for skill extraction]]
-- Later: 2026-05-12 · Gemini CLI · [[Changes/Gemini CLI/2026-05-12-feat-memory-add-auto-memory-inbox-flow-with-canonical-patch-contract-by-sandytao|feat(memory): add Auto Memory inbox flow with canonical-patch contract]]
+- Later: 2026-05-09 · Open WebUI · [[Changes/Open WebUI/2026-05-09-faster-memory-query-performance-per-user-memory-lookups-and-deletions-now-run-mu|⚡ Faster memory query performance. Per-user memory lookups and deletions now run…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

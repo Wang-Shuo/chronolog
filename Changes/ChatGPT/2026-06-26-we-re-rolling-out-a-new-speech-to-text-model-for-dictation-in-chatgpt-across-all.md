@@ -4,20 +4,20 @@ date: '2026-06-26'
 description: 'ChatGPT · 2026-06-26 · Voice and Audio: We’re rolling out a new speech-to-text
   model for dictation in ChatGPT across all plans. This is a behind-the-scenes…'
 diffusion:
-  first_in_tracked: '[[Changes/Aider/2023-08-11-voice-to-code-https-aider-chat-docs-voice-html-support-which-allows-you-to-code|Voice-to-code((source
-    link) support, which allows you…]]'
+  first_in_tracked: '[[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2
+    Voice and Audio changes in 0.3.7]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1050
+  lag_days: 1082
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 44b10f37722cb9647ee8a3e105fe4f193e4cc0d60451474f3368bf08049d69c4
+machine_hash: 3e8a74f5665c11e7ac06ac6c82ef0a1c9baa5c22327086db598064610ca8b416
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -73,12 +73,11 @@ record:
   title: Improved dictation in ChatGPT
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-06-13-voice-runtime-download-dialog-no-longer-reopens-in-a-loop-after-an-install-failu|Voice
-  runtime download dialog no longer reopens in a loop after an install failure]]'
-- '[[Changes/Codex CLI/2026-06-15-2-voice-and-audio-changes-in-rust-v0-140-0|2 Voice
-  and Audio changes in rust-v0.140.0]]'
-- '[[Changes/ChatGPT/2026-06-18-help-with-pronunciations-chatgpt-can-now-include-text-and-audio-pronunciation-gu|Help
-  with pronunciations]]'
+- '[[Changes/Lovable/2026-06-18-add-voice-to-your-app-with-text-to-speech-and-speech-to-text|Add
+  voice to your app with text-to-speech and speech-to-text]]'
+- '[[Changes/Replit/2026-06-19-voice-mode|Voice Mode]]'
+- '[[Changes/Dify/2026-06-25-refactor-inject-session-into-audio-tts-by-myshkin451-in-https-github-com-langgen|refactor:
+  inject session into audio TTS]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-06-26-improved-dictation-in-chatgpt-19d2c1ea|chatgpt-2026-06-26-improved-dictation-in-chatgpt-19d2c1ea]]'
 source_type: chatgpt_changelog
 theme: voice
@@ -105,14 +104,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Voice and Audio
 
-- Earlier: 2026-06-18 · ChatGPT · [[Changes/ChatGPT/2026-06-18-help-with-pronunciations-chatgpt-can-now-include-text-and-audio-pronunciation-gu|Help with pronunciations]]
+- Earlier: 2026-06-25 · Dify · [[Changes/Dify/2026-06-25-refactor-inject-session-into-audio-tts-by-myshkin451-in-https-github-com-langgen|refactor: inject session into audio TTS]]
 - Later: 2026-06-26 · Claude Code · [[Changes/Claude Code/2026-06-26-improved-voice-mode-on-linux-now-distinguishes-no-microphone-from-sox-not-instal|Improved voice mode on Linux]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-08-11 · Aider · [[Changes/Aider/2023-08-11-voice-to-code-https-aider-chat-docs-voice-html-support-which-allows-you-to-code|Voice-to-code((source link) support, which allows you…]]
+- Earliest same-theme entry in the tracked set: 2023-07-10 · Dify · [[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2 Voice and Audio changes in 0.3.7]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

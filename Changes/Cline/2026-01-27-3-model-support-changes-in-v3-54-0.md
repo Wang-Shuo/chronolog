@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: a661fafd0f3e5cbcb37ebcf2ca836e0a1e235d706190a319f2dc733bf4f329be
+machine_hash: 309e4c4cc448dc179e74eecf84bd9a806a7a3a2bec705a6af2b0db9e9989452a
 product: cline
 product_name: Cline
 record:
@@ -44,12 +44,11 @@ record:
   title: 3 Model Support changes in v3.54.0
   type: change
 related_changes:
-- '[[Changes/Cline/2026-01-23-removed-grok-model-from-free-tier|Removed grok model
-  from free tier]]'
 - '[[Changes/GitHub Copilot CLI/2026-01-24-directory-path-uses-consistent-muted-text-color-with-git-branch-and-model-displa|Directory
   path uses consistent muted text color with git branch and model display]]'
 - '[[Changes/Codex CLI/2026-01-25-5-model-support-changes-in-rust-v0-90-0|5 Model
   Support changes in rust-v0.90.0]]'
+- '[[Changes/ElevenLabs/2026-01-26-elevencreative-studio|ElevenCreative Studio]]'
 source_release: '[[Releases/Cline/cline-2026-01-27-v3-54-0-github-280361451-f31b8c09|cline-2026-01-27-v3-54-0-github-280361451-f31b8c09]]'
 source_type: github_releases
 theme: model-support
@@ -87,7 +86,7 @@ Source: https://github.com/cline/cline/releases/tag/v3.54.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-01-25 · Codex CLI · [[Changes/Codex CLI/2026-01-25-5-model-support-changes-in-rust-v0-90-0|5 Model Support changes in rust-v0.90.0]]
+- Earlier: 2026-01-26 · ElevenLabs · [[Changes/ElevenLabs/2026-01-26-elevencreative-studio|ElevenCreative Studio]]
 - Later: 2026-01-27 · Codex CLI · [[Changes/Codex CLI/2026-01-27-2-model-support-changes-in-rust-v0-92-0|2 Model Support changes in rust-v0.92.0]]
 <!-- chronolog:end -->
 

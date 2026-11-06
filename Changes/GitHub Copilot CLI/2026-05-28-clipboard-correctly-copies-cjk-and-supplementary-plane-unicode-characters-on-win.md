@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: e3316375dfecc6a5bdfe5bf7ece64ac102509c76420518f621b707bc218780a7
+machine_hash: 389a27e6216401640d4272be4dacfe97df88fbda63d3e840e29e0c1ce21d4575
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -92,7 +92,7 @@ type: change
 ## Nearby in Mobile and Desktop
 
 - Earlier: 2026-05-28 · Codex CLI · [[Changes/Codex CLI/2026-05-28-5-mobile-and-desktop-changes-in-rust-v0-135-0|5 Mobile and Desktop changes in rust-v0.135.0]]
-- Later: 2026-06-02 · Windsurf · [[Changes/Windsurf/2026-06-02-windsurf-is-now-devin-desktop-https-devin-ai-blog-windsurf-is-now-devin-desktop|Windsurf is now Devin Desktop((source link)]]
+- Later: 2026-06-01 · Open WebUI · [[Changes/Open WebUI/2026-06-01-startup-on-non-unicode-consoles-open-webui-no-longer-crashes-at-startup-when-the|🥾 Startup on non-Unicode consoles. Open WebUI no longer crashes at startup…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

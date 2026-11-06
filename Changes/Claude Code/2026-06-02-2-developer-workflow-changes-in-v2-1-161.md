@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 24a3d2f12495503cefcdbd4c2fdce6070f96633a8bc5e41eb2805624dae5bb9c
+machine_hash: 6a701c56e2a23a17186525397a112c6d12c11b80fac3b22c2c808a9c13da4d64
 product: claude-code
 product_name: Claude Code
 record:
@@ -44,10 +44,10 @@ record:
   title: 2 Developer Workflow changes in v2.1.161
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-06-01-11-developer-workflow-changes-in-rust-v0-136-0|11
-  Developer Workflow changes in rust-v0.136.0]]'
 - '[[Changes/GitHub Copilot CLI/2026-06-01-lsp-show-lsp-test-and-lsp-reload-correctly-discover-project-lsp-config-when-the|/lsp
   show, /lsp test, and /lsp reload correctly discover project LSP config…]]'
+- '[[Changes/Open WebUI/2026-06-01-27-developer-workflow-changes-in-v0-9-6|27 Developer
+  Workflow changes in v0.9.6]]'
 - '[[Changes/Claude Code/2026-06-02-2-developer-workflow-changes-in-v2-1-160|2 Developer
   Workflow changes in v2.1.160]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-06-02-v2-1-161-github-333271302-7337e6fa|claude-code-2026-06-02-v2-1-161-github-333271302-7337e6fa]]'

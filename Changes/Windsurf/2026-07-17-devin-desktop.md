@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 84c90573a44892bbeb6a29c1c0731b327ffee49e05050c20e3d4af4a2efbd033
+machine_hash: 2869f1e7dce104575518c71aaaeae6123b1acc2c786380414023a9ed2d627e48
 product: windsurf
 product_name: Windsurf
 record:
@@ -111,7 +111,7 @@ type: change
 ## Nearby in Mobile and Desktop
 
 - Earlier: 2026-07-16 · ChatGPT · [[Changes/ChatGPT/2026-07-16-continue-work-across-devices-cloud-work-conversations-now-sync-across-web-mobile|Continue Work across devices]]
-- Later: 2026-07-21 · Codex CLI · [[Changes/Codex CLI/2026-07-21-3-mobile-and-desktop-changes-in-rust-v0-145-0|3 Mobile and Desktop changes in rust-v0.145.0]]
+- Later: 2026-07-20 · ElevenLabs · [[Changes/ElevenLabs/2026-07-20-android-sdk|Android SDK]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 4c9b3f7eb977569036ae92758e75e5a4762a8a19ecac4a3c4a31f7640b7d1e22
+machine_hash: 0c1b88bacbd1183541f00d2a9f4113211d08172eeb966b3476436d53b2383aa1
 product: claude-code
 product_name: Claude Code
 record:
@@ -42,12 +42,11 @@ record:
   title: Improved performance of long and resumed conversations by eliminating redundant…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-05-27-the-usage-breakdown-now-includes-large-session-files-files-are-scanned-with-a-st|The
-  /usage breakdown now includes large session files]]'
 - '[[Changes/Claude Code/2026-05-28-claude-code-now-shows-a-one-time-notice-when-your-npm-global-install-can-t-auto|Claude
   Code now shows a one-time notice when your npm global install can''t auto-update]]'
 - '[[Changes/Claude Code/2026-05-28-renamed-the-effort-slider-labels-from-speed-intelligence-to-faster-smarter-for-c|Renamed
   the /effort slider labels…]]'
+- '[[Changes/Lovable/2026-05-28-improvements-and-bug-fixes|Improvements and bug fixes]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-05-29-v2-1-157-github-331670634-f5eda9d8|claude-code-2026-05-29-v2-1-157-github-331670634-f5eda9d8]]'
 source_type: github_releases
 theme: reliability-performance
@@ -82,8 +81,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2026-05-28 · Claude Code · [[Changes/Claude Code/2026-05-28-renamed-the-effort-slider-labels-from-speed-intelligence-to-faster-smarter-for-c|Renamed the /effort slider labels…]]
-- Later: 2026-06-02 · Claude Code · [[Changes/Claude Code/2026-06-02-improved-auto-mode-classifier-latency-by-reducing-reasoning-on-routine-actions-l|Improved auto mode classifier latency by reducing reasoning on routine actions…]]
+- Earlier: 2026-05-28 · Lovable · [[Changes/Lovable/2026-05-28-improvements-and-bug-fixes|Improvements and bug fixes]]
+- Later: 2026-06-01 · Open WebUI · [[Changes/Open WebUI/2026-06-01-5-reliability-and-performance-changes-in-v0-9-6|5 Reliability and Performance changes in v0.9.6]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 21c46e1173aefc9f3b43641fbc7fce6680e1a88a58fc07f274a9f665e8e9593e
+machine_hash: 307dbf3a48066286f4a1bb7c5a5dcafb136a0104079c01fee906ca501ea68b1c
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -92,7 +92,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.136.0
 ## Nearby in Interface Experience
 
 - Earlier: 2026-05-29 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-05-29-reasoning-effort-picker-respects-model-capabilities-options-not-supported-by-the|Reasoning effort picker respects model capabilities]]
-- Later: 2026-06-02 · Claude Code · [[Changes/Claude Code/2026-06-02-2-interface-experience-changes-in-v2-1-161|2 Interface Experience changes in v2.1.161]]
+- Later: 2026-06-01 · Open WebUI · [[Changes/Open WebUI/2026-06-01-4-interface-experience-changes-in-v0-9-6|4 Interface Experience changes in v0.9.6]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

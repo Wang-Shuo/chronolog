@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 800f633cde903f76c2ade5c9b1f84add8b0c38bc5e9c50400ca0c3363578e6c6
+machine_hash: 98a1d5a2e415c94e04f6660bdcefba49de39918b2cccb750f79d010eeb641c3f
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -46,10 +46,8 @@ record:
   title: 3 Apps and Integrations changes in rust-v0.64.0
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2025-11-26-feat-zed-integration-use-default-model-routing-for-zed-integration-by-benbrandt|feat(zed-integration):
-  Use default model routing for Zed integration]]'
-- '[[Changes/Cline/2025-11-27-feat-hooks-implement-taskcomplete-hook-by-candieduniverse-in-https-github-com-cl|feat(hooks):
-  Implement TaskComplete hook]]'
+- '[[Changes/ElevenLabs/2025-11-27-workspaces-88d227|Workspaces]]'
+- '[[Changes/ElevenLabs/2025-11-27-javascript-sdk|JavaScript SDK]]'
 - '[[Changes/Cline/2025-12-02-feat-cerebras-add-x-cerebras-3rd-party-integration-header-by-sebastiand-cerebras|feat(cerebras):
   add X-Cerebras-3rd-Party-Integration header]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2025-12-02-rust-v0-64-0-github-266901625-82376886|codex-cli-2025-12-02-rust-v0-64-0-github-266901625-82376886]]'

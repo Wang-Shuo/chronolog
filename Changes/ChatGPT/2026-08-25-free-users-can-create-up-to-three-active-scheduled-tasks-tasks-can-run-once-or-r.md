@@ -5,20 +5,20 @@ description: 'ChatGPT · 2026-08-25 · Automation and Scheduling: Free users can
   up to three active scheduled tasks. Tasks can run once or recur no more than once
   per…'
 diffusion:
-  first_in_tracked: '[[Changes/OpenHands/2024-09-04-better-syntax-error-loop-detection-by-tobitege-in-https-github-com-all-hands-ai|Better
-    syntax error loop detection]]'
+  first_in_tracked: '[[Changes/Dify/2024-01-02-add-data-clean-schedule-by-johnjyong-in-https-github-com-langgenius-dify-pull-18|Add
+    data clean schedule]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 720
+  lag_days: 966
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 5835be8d4f77b4eda068a87caff5a10267f3980b461d584c73908680874f6546
+machine_hash: c5c5a2bb3ddafb01a10efacd113deafa035fa3a2ca68f929fbc2dd9b2c693879
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -48,8 +48,8 @@ record:
   title: Scheduled tasks for Free users
   type: change
 related_changes:
-- '[[Changes/OpenHands/2026-08-21-4-automation-and-scheduling-changes-in-v1-15-0|4
-  Automation and Scheduling changes in v1.15.0]]'
+- '[[Changes/Replit/2026-08-21-automate-recurring-work-with-routines|Automate recurring
+  work with Routines]]'
 - '[[Changes/ChatGPT/2026-08-25-scheduled-tasks-in-chatgpt-work-can-use-webhooks-to-respond-when-something-chang|Scheduled
   tasks in ChatGPT Work can use webhooks to respond when something changes…]]'
 - '[[Changes/ChatGPT/2026-08-25-free-go-plus-and-pro-users-can-share-scheduled-tasks-recipients-can-review-and-c|Share
@@ -84,14 +84,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Automation and Scheduling
 
-- Earlier: 2026-08-21 · OpenHands · [[Changes/OpenHands/2026-08-21-4-automation-and-scheduling-changes-in-v1-15-0|4 Automation and Scheduling changes in v1.15.0]]
-- Later: 2026-08-26 · Codex CLI · [[Changes/Codex CLI/2026-08-26-40436-add-a-managed-gate-for-in-app-local-automation-copyberry|♯40436 Add a managed gate for in-app local automation @copyberry]]
+- Earlier: 2026-08-21 · Replit · [[Changes/Replit/2026-08-21-automate-recurring-work-with-routines|Automate recurring work with Routines]]
+- Later: 2026-08-25 · Dify · [[Changes/Dify/2026-08-25-feat-workflow-support-human-input-in-loop-and-iteration-by-laipz8200-in-https-gi|feat(workflow): support human input in loop and iteration]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2024-09-04 · OpenHands · [[Changes/OpenHands/2024-09-04-better-syntax-error-loop-detection-by-tobitege-in-https-github-com-all-hands-ai|Better syntax error loop detection]]
+- Earliest same-theme entry in the tracked set: 2024-01-02 · Dify · [[Changes/Dify/2024-01-02-add-data-clean-schedule-by-johnjyong-in-https-github-com-langgenius-dify-pull-18|Add data clean schedule]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

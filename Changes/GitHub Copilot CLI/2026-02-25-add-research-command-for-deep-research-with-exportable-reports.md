@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: search-browsing
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 0a1db5de5eb9972a3158b3a049c4280fbfc9f0e67b06845e889e089a976edb53
+machine_hash: b510425edab98b7fa11af1ea991907e27cf0d1151d1536aa17be5447600e3b42
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -41,10 +41,10 @@ record:
   title: Add /research command for deep research with exportable reports
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-02-11-3-search-and-browsing-changes-in-rust-v0-99-0|3
-  Search and Browsing changes in rust-v0.99.0]]'
-- '[[Changes/Codex CLI/2026-02-17-11224-chore-clarify-web-search-deprecation-notices-and-consolidate-tests-sayan-o|♯11224
-  chore: clarify web_search deprecation notices and consolidate tests @sayan-oai]]'
+- '[[Changes/Open WebUI/2026-02-23-4-search-and-browsing-changes-in-v0-8-4|4 Search
+  and Browsing changes in v0.8.4]]'
+- '[[Changes/Ollama/2026-02-24-ollama-s-app-will-now-allow-models-that-support-tools-to-use-web-search-capabili|Ollama''s
+  app will now allow models that support tools to use web search capabilities]]'
 - '[[Changes/Gemini CLI/2026-02-25-introduce-limits-for-search-results-by-gundermanc-in-https-github-com-google-gem|Introduce
   limits for search results]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-02-25-v0-0-417-github-290112241-1e81b06b|github-copilot-cli-2026-02-25-v0-0-417-github-290112241-1e81b06b]]'

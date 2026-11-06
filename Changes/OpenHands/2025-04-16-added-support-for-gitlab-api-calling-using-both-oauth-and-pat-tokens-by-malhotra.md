@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: c2a779ccf0a46e4150be70b6dbf25848da0976efa8e0cc869ae77a6620b40cee
+machine_hash: c5f87a2b68ec38dcac6bc4376474ee8af0ce96703cbf87ace0e979d0a6cdf089
 product: openhands
 product_name: OpenHands
 record:
@@ -54,12 +54,12 @@ record:
   title: Added support for GitLab API calling using both OAuth and PAT tokens
   type: change
 related_changes:
-- '[[Changes/OpenHands/2024-12-18-changes-to-github-authentication-by-malhotra5-in-https-github-com-all-hands-ai-o|Changes
-  to Github Authentication]]'
-- '[[Changes/Aider/2025-03-31-2-account-and-access-changes-in-v0-80-0|2 Account and
-  Access changes in v0.80.0]]'
 - '[[Changes/Aider/2025-04-04-2-account-and-access-changes-in-v0-81-0|2 Account and
   Access changes in v0.81.0]]'
+- '[[Changes/Open WebUI/2025-04-13-2-account-and-access-changes-in-v0-6-3|2 Account
+  and Access changes in v0.6.3]]'
+- "[[Changes/Open WebUI/2025-04-14-ldap-login-reliability-restored-resolved-a-critical-issue-where-some-ldap-setups|\U0001F6E0️
+  LDAP Login Reliability Restored]]"
 source_release: '[[Releases/OpenHands/openhands-2025-04-16-0-33-0-github-212925112-8094af39|openhands-2025-04-16-0-33-0-github-212925112-8094af39]]'
 source_type: github_releases
 theme: account-access
@@ -91,8 +91,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Account and Access
 
-- Earlier: 2025-04-04 · Aider · [[Changes/Aider/2025-04-04-2-account-and-access-changes-in-v0-81-0|2 Account and Access changes in v0.81.0]]
-- Later: 2025-06-04 · Cursor · [[Changes/Cursor/2025-06-04-mcp-one-click-install-and-oauth-support|MCP one-click install and OAuth support]]
+- Earlier: 2025-04-14 · Open WebUI · [[Changes/Open WebUI/2025-04-14-ldap-login-reliability-restored-resolved-a-critical-issue-where-some-ldap-setups|🛠️ LDAP Login Reliability Restored]]
+- Later: 2025-04-28 · Dify · [[Changes/Dify/2025-04-28-feat-add-interfaces-of-oauth-handler-methods-for-authorization-by-yeuoly-in-http|feat: add interfaces of OAuth handler methods for authorization]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

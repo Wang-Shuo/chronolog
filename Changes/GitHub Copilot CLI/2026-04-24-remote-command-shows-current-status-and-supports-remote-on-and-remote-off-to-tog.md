@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 9f24788d81344c6b8d4e734bba02ff6eef745a66d4f48ae7829fb81f6df71528
+machine_hash: 9269d0a012a25270d6d79b3e3d8f91ddfb3e493c9c3a1430be88369f9b79ed41
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -45,10 +45,10 @@ record:
     off…
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2026-04-23-4-apps-and-integrations-changes-in-v0-39-0|4 Apps
-  and Integrations changes in v0.39.0]]'
 - '[[Changes/GitHub Copilot CLI/2026-04-23-3-apps-and-integrations-changes-in-v1-0-35|3
   Apps and Integrations changes in v1.0.35]]'
+- '[[Changes/Ollama/2026-04-23-openclaw-integration-now-bundles-ollama-s-web-search-plugin-in-openclaw|OpenClaw
+  integration now bundles Ollama''s web search plugin in OpenClaw]]'
 - '[[Changes/Codex CLI/2026-04-24-11-apps-and-integrations-changes-in-rust-v0-125-0|11
   Apps and Integrations changes in rust-v0.125.0]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-04-24-v1-0-36-github-313365985-f271ddd3|github-copilot-cli-2026-04-24-v1-0-36-github-313365985-f271ddd3]]'
@@ -86,7 +86,7 @@ type: change
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-04-24 · Codex CLI · [[Changes/Codex CLI/2026-04-24-11-apps-and-integrations-changes-in-rust-v0-125-0|11 Apps and Integrations changes in rust-v0.125.0]]
-- Later: 2026-04-28 · Claude Code · [[Changes/Claude Code/2026-04-28-2-apps-and-integrations-changes-in-v2-1-122|2 Apps and Integrations changes in v2.1.122]]
+- Later: 2026-04-24 · Lovable · [[Changes/Lovable/2026-04-24-data-app-connectors-bigquery-databricks-snowflake|Data app connectors: BigQuery, Databricks, Snowflake]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

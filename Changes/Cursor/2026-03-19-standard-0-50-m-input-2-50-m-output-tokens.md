@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: pricing
-machine_hash: 5c4af9d68dc55d3542232ae893aa6a44474cd9df216722d5a47ca943c32d5b75
+machine_hash: 6413b9045fd956fd4afcf6aaf8be3c5cfa93d9d1e03c4d62363e7ca3d6a15ca1
 product: cursor
 product_name: Cursor
 record:
@@ -42,8 +42,8 @@ record:
   title: 'Standard: $0.50/M input, $2.50/M output tokens'
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-03-10-eligible-chatgpt-plus-and-pro-users-can-now-turn-on-auto-top-up-for-credits-used-5e9d54|Auto
-  top-up for flexible usage credits]]'
+- '[[Changes/Dify/2026-03-17-test-add-comprehensive-unit-and-integration-tests-for-billing-components-by-codi|test:
+  add comprehensive unit and integration tests for billing components]]'
 - '[[Changes/Gemini CLI/2026-03-17-2-pricing-model-changes-in-v0-34-0|2 Pricing Model
   changes in v0.34.0]]'
 - '[[Changes/Cline/2026-03-19-add-missing-fireworks-serverless-models-and-pricing|Add

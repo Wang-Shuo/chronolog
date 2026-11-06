@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 6dc04822d4d947597192909cdbabccb606a70174cb29f1dc2602eac7692e0c1a
+machine_hash: 9f662c7f9c679e6bc83d2b331ae215c172d77c384720eb905e44acdcb73d5f8a
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -82,7 +82,7 @@ type: change
 ## Nearby in Reliability and Performance
 
 - Earlier: 2026-05-21 · Claude Code · [[Changes/Claude Code/2026-05-21-3-reliability-and-performance-changes-in-v2-1-147|3 Reliability and Performance changes in v2.1.147]]
-- Later: 2026-05-27 · Claude Code · [[Changes/Claude Code/2026-05-27-the-usage-breakdown-now-includes-large-session-files-files-are-scanned-with-a-st|The /usage breakdown now includes large session files]]
+- Later: 2026-05-24 · Lovable · [[Changes/Lovable/2026-05-24-lovable-cloud-database-health-check|Lovable Cloud database health check]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

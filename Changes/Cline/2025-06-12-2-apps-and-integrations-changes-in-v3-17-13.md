@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 107c7b34d6c08413b5408a287e00b7bb7e2897826c05b433e5966bb213091440
+machine_hash: 7f53ae24b448a9d1765b0222c5704aa7315cb22f8d002ec9af8bfdb379e9152d
 product: cline
 product_name: Cline
 record:
@@ -43,12 +43,12 @@ record:
   title: 2 Apps and Integrations changes in v3.17.13
   type: change
 related_changes:
-- '[[Changes/Cline/2025-06-05-add-support-for-streamable-mcp-servers|Add support for
-  streamable MCP servers]]'
-- '[[Changes/OpenHands/2025-06-05-2-apps-and-integrations-changes-in-0-41-0|2 Apps
-  and Integrations changes in 0.41.0]]'
 - '[[Changes/Cline/2025-06-10-add-collapsible-mcp-response-panels-to-keep-conversations-focused-on-the-main-ai|Add
   collapsible MCP response panels to keep conversations focused on the main AI…]]'
+- "[[Changes/Open WebUI/2025-06-10-openai-compatible-embeddings-endpoint-introducing-a-fully-openai-style-api-embed|\U0001F9E9
+  OpenAI-Compatible Embeddings Endpoint]]"
+- '[[Changes/Dify/2025-06-11-6-apps-and-integrations-changes-in-1-4-2|6 Apps and Integrations
+  changes in 1.4.2]]'
 source_release: '[[Releases/Cline/cline-2025-06-12-v3-17-13-github-224782169-cbb192bc|cline-2025-06-12-v3-17-13-github-224782169-cbb192bc]]'
 source_type: github_releases
 theme: apps-integrations
@@ -82,7 +82,7 @@ Source: https://github.com/cline/cline/releases/tag/v3.17.13
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2025-06-10 · Cline · [[Changes/Cline/2025-06-10-add-collapsible-mcp-response-panels-to-keep-conversations-focused-on-the-main-ai|Add collapsible MCP response panels to keep conversations focused on the main AI…]]
+- Earlier: 2025-06-11 · Dify · [[Changes/Dify/2025-06-11-6-apps-and-integrations-changes-in-1-4-2|6 Apps and Integrations changes in 1.4.2]]
 - Later: 2025-06-12 · Cursor · [[Changes/Cursor/2025-06-12-agents-understand-context-6b73fc|Agents understand context]]
 <!-- chronolog:end -->
 

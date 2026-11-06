@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: policy
-machine_hash: 0f36cde2145d068170a704a03a2d72e68cdc3b71794c2f406f7083b06e74f32d
+machine_hash: 93788b885e37ce77be939febd7e7afa47513f84b035341c5609e3c8de08028ec
 product: cursor
 product_name: Cursor
 record:
@@ -46,10 +46,9 @@ record:
     fast…
   type: change
 related_changes:
-- '[[Changes/Aider/2024-08-20-improved-cost-estimate-logic-for-caching|Improved cost
-  estimate logic for caching]]'
-- '[[Changes/Cline/2024-09-12-openrouter-now-supports-prompt-caching-they-re-still-working-on-reporting-cache|OpenRouter
-  now supports prompt caching!]]'
+- '[[Changes/Lovable/2025-03-14-announcing-the-10k-lovable-s-build-competition-https-build-launch-win-lovable-ap|Announcing
+  the \$10K Lovable''s Build…]]'
+- '[[Changes/Replit/2025-03-14-neon-db-history-retention|Neon DB history retention]]'
 - '[[Changes/Cline/2025-03-23-2-pricing-model-changes-in-v3-8-0|2 Pricing Model changes
   in v3.8.0]]'
 source_release: '[[Releases/Cursor/cursor-2025-03-23-0-48-x-https-cursor-com-changelog-0-48-x-7b3e771b|cursor-2025-03-23-0-48-x-https-cursor-com-changelog-0-48-x-7b3e771b]]'

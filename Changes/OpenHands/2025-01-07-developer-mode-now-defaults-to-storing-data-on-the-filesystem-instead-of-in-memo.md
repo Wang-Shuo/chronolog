@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: memory
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: e763f022e405ff889f8b9588b406061ddd54b0203c481a312b20cb1c23774f6e
+machine_hash: 86472063a887896c210594af9205c0d76dd1987fe05981e3bff7554001890ee3
 product: openhands
 product_name: OpenHands
 record:
@@ -54,12 +54,12 @@ record:
     in-memory…
   type: change
 related_changes:
-- '[[Changes/OpenHands/2024-07-13-arch-deprecating-recall-action-and-search-memory-by-xingyaoww-in-https-github-co|arch:
-  deprecating recall action and search_memory]]'
-- '[[Changes/Cline/2024-07-28-quality-of-life-improvements-like-markdown-rendering-memory-optimizations-better|Quality
-  of life improvements like markdown rendering, memory optimizations, better…]]'
-- '[[Changes/Cline/2024-08-11-adds-option-to-add-custom-instructions-to-the-end-of-the-system-prompt|Adds
-  option to add custom instructions to the end of the system prompt]]'
+- '[[Changes/Dify/2024-10-23-custom-icon-restoration-we-ve-reintroduced-the-flexibility-and-personalization-o|Custom
+  Icon Restoration]]'
+- '[[Changes/Dify/2024-11-26-llm-memory-processing-corrected-errors-in-llm-memory-handling-11103-and-11106|LLM
+  Memory Processing: Corrected errors in LLM memory handling]]'
+- '[[Changes/Dify/2025-01-07-database-and-memory-optimizations-that-not-only-improve-performance-but-they-ll|Database
+  and memory optimizations that not only improve performance but they''ll…]]'
 source_release: '[[Releases/OpenHands/openhands-2025-01-07-0-19-0-github-193581612-a242e2a9|openhands-2025-01-07-0-19-0-github-193581612-a242e2a9]]'
 source_type: github_releases
 theme: memory
@@ -90,7 +90,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Memory and Personalization
 
-- Earlier: 2024-08-11 · Cline · [[Changes/Cline/2024-08-11-adds-option-to-add-custom-instructions-to-the-end-of-the-system-prompt|Adds option to add custom instructions to the end of the system prompt]]
+- Earlier: 2025-01-07 · Dify · [[Changes/Dify/2025-01-07-database-and-memory-optimizations-that-not-only-improve-performance-but-they-ll|Database and memory optimizations that not only improve performance but they'll…]]
 - Later: 2025-02-19 · Cursor · [[Changes/Cursor/2025-02-19-0-46-9-memory-and-performances-fixes-composer-chat-remembers-your-last-mode-sele|0.46.9: Memory and performances fixes, composer/chat remembers your last mode…]]
 <!-- chronolog:end -->
 

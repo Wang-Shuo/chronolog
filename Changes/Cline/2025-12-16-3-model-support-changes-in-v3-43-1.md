@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: d2faf09ad3d6515f2c217d9cfd01eec5869c08feb8223256d83617d908bd093f
+machine_hash: fea98711962349414d45bb6ab8ddfb67668a4df7e31737cdb9e5aaec8cfae6f5
 product: cline
 product_name: Cline
 record:
@@ -46,11 +46,12 @@ record:
   title: 3 Model Support changes in v3.43.1
   type: change
 related_changes:
-- '[[Changes/Windsurf/2025-12-11-1-12-43-gpt-5-2-changelog-banner|1.12.43 GPT-5.2
-  changelog banner]]'
-- '[[Changes/Windsurf/2025-12-11-gpt-5-2|GPT-5.2]]'
+- '[[Changes/v0/2025-12-12-you-can-now-select-from-three-different-models-in-v0|Select
+  from three different models in v0]]'
 - '[[Changes/Codex CLI/2025-12-13-5-model-support-changes-in-rust-v0-72-0|5 Model
   Support changes in rust-v0.72.0]]'
+- '[[Changes/Ollama/2025-12-13-2-model-support-changes-in-v0-13-4|2 Model Support
+  changes in v0.13.4]]'
 source_release: '[[Releases/Cline/cline-2025-12-16-v3-43-1-github-270900389-93b6e94c|cline-2025-12-16-v3-43-1-github-270900389-93b6e94c]]'
 source_type: github_releases
 theme: model-support
@@ -86,7 +87,7 @@ Source: https://github.com/cline/cline/releases/tag/v3.43.1
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2025-12-13 · Codex CLI · [[Changes/Codex CLI/2025-12-13-5-model-support-changes-in-rust-v0-72-0|5 Model Support changes in rust-v0.72.0]]
+- Earlier: 2025-12-13 · Ollama · [[Changes/Ollama/2025-12-13-2-model-support-changes-in-v0-13-4|2 Model Support changes in v0.13.4]]
 - Later: 2025-12-16 · Gemini CLI · [[Changes/Gemini CLI/2025-12-16-6-model-support-changes-in-v0-21-0|6 Model Support changes in v0.21.0]]
 <!-- chronolog:end -->
 

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 07ddbd303ed2d8bfad4ff540b730c7ad17e1333956e9a9d6f785d819cd57f52b
+machine_hash: 640ecb4a97329e5824b0673fc4d980a1a753f194e65b680acdd2447bfdbf3487
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -42,8 +42,8 @@ record:
   title: 2 Editor Experience changes in v1.0.69
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-07-01-2-editor-experience-changes-in-v1-0-68|2
-  Editor Experience changes in v1.0.68]]'
+- '[[Changes/Open WebUI/2026-07-01-2-editor-experience-changes-in-v0-10-2|2 Editor
+  Experience changes in v0.10.2]]'
 - '[[Changes/Windsurf/2026-07-04-devin-local|Devin Local]]'
 - '[[Changes/Claude Code/2026-07-07-changed-left-arrow-to-no-longer-close-the-background-tasks-diff-and-workflow-det|Changed
   left arrow to no longer close the background tasks, diff, and workflow…]]'

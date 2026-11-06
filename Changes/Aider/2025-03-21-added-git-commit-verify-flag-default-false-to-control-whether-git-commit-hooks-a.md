@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: b469b87d8a95361710f4c6afd3086ea952c08b0e16cc9a9b7f7e5ed9643c7a58
+machine_hash: c74faddf25145a6e585b5634fbfb496ace091dd562e8885cb402458ee3375285
 product: aider
 product_name: Aider
 record:
@@ -44,12 +44,12 @@ record:
   title: Added `--git-commit-verify` flag (default
   type: change
 related_changes:
-- '[[Changes/Cline/2025-03-01-2-apps-and-integrations-changes-in-v3-5-0|2 Apps and
-  Integrations changes in v3.5.0]]'
-- '[[Changes/Cline/2025-03-03-add-timeout-option-to-mcp-servers|Add timeout option
-  to MCP servers]]'
-- '[[Changes/Cursor/2025-03-11-mcp-added-global-server-configuration-with-cursor-mcp-json-and-support-for-envir|MCP:
-  Added global server configuration with ~/.cursor/mcp.json and support…]]'
+- '[[Changes/Dify/2025-03-11-8-apps-and-integrations-changes-in-1-0-1|8 Apps and Integrations
+  changes in 1.0.1]]'
+- '[[Changes/Gemini/2025-03-13-gemini-with-2-0-flash-thinking-experimental-is-now-even-better-at-completing-com|Gemini
+  with 2.0 Flash Thinking (experimental) is now even better at completing…]]'
+- '[[Changes/Dify/2025-03-18-enhanced-integration-of-pg-bigm-for-keyword-search-in-pgvector-by-utsumi-fj-in-1|Enhanced
+  Integration of pg_bigm for Keyword Search in pgvector by @utsumi-fj in ♯13876]]'
 source_release: '[[Releases/Aider/aider-2025-03-21-v0-78-0-github-207521806-fc6d03b9|aider-2025-03-21-v0-78-0-github-207521806-fc6d03b9]]'
 source_type: github_releases
 theme: apps-integrations
@@ -81,8 +81,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2025-03-11 · Cursor · [[Changes/Cursor/2025-03-11-mcp-added-global-server-configuration-with-cursor-mcp-json-and-support-for-envir|MCP: Added global server configuration with ~/.cursor/mcp.json and support…]]
-- Later: 2025-03-23 · Cline · [[Changes/Cline/2025-03-23-2-apps-and-integrations-changes-in-v3-8-0|2 Apps and Integrations changes in v3.8.0]]
+- Earlier: 2025-03-18 · Dify · [[Changes/Dify/2025-03-18-enhanced-integration-of-pg-bigm-for-keyword-search-in-pgvector-by-utsumi-fj-in-1|Enhanced Integration of pg_bigm for Keyword Search in pgvector by @utsumi-fj in ♯13876]]
+- Later: 2025-03-21 · Dify · [[Changes/Dify/2025-03-21-github-plugin-installation-resolved-an-import-dsl-issue-that-blocked-the-install|GitHub Plugin Installation]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

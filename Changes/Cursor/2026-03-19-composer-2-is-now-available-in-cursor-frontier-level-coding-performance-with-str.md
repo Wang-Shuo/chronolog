@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: c5b39688c0d2e928b9368e7d11f1ade636b879df9beb78028e499f1f7cba3ccd
+machine_hash: 276a4cb6e1a06a5505273fa93bbbf4d4b77d70137eb591a6fef42c2a7dd78d32
 product: cursor
 product_name: Cursor
 record:
@@ -42,10 +42,10 @@ record:
   title: Composer 2 is now available in Cursor
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-03-17-improved-memory-usage-and-startup-time-when-resuming-large-sessions|Improved
-  memory usage and startup time when resuming large sessions]]'
-- '[[Changes/Claude Code/2026-03-18-2-reliability-and-performance-changes-in-v2-1-79|2
-  Reliability and Performance changes in v2.1.79]]'
+- '[[Changes/Dify/2026-03-18-this-patch-release-fixes-several-critical-regressions-and-stability-issues-intro|This
+  patch release fixes several critical regressions and stability issues…]]'
+- '[[Changes/Ollama/2026-03-18-claude-code-will-now-be-faster-when-run-locally-due-to-preventing-cache-breakage|Claude
+  Code will now be faster when run locally, due to preventing cache breakages]]'
 - '[[Changes/Claude Code/2026-03-19-reduced-memory-usage-on-startup-in-large-repositories-80-mb-saved-on-250k-file-r|Reduced
   memory usage on startup in large repositories (~80 MB saved on 250k-file repos)]]'
 source_release: '[[Releases/Cursor/cursor-2026-03-19-composer-2-https-cursor-com-changelog-composer-2-8a6d25c8|cursor-2026-03-19-composer-2-https-cursor-com-changelog-composer-2-8a6d25c8]]'

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: eb03d86bb70970ae2fbe8a640062b3a0f31a7f213d28c12e848e9b335798857f
+machine_hash: e9b85a39dc47293cc00d1315c284a911c79492d557a72427936528c46908a840
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -59,8 +59,7 @@ record:
   title: Google Drive app unification
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-03-20-6-apps-and-integrations-changes-in-v1-0-10|6
-  Apps and Integrations changes in v1.0.10]]'
+- '[[Changes/ElevenLabs/2026-03-23-sdk-releases|SDK Releases]]'
 - '[[Changes/GitHub Copilot CLI/2026-03-23-6-apps-and-integrations-changes-in-v1-0-11|6
   Apps and Integrations changes in v1.0.11]]'
 - '[[Changes/Gemini CLI/2026-03-24-5-apps-and-integrations-changes-in-v0-35-0|5 Apps

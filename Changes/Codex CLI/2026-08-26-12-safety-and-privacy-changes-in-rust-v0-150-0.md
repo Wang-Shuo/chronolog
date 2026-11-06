@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: e1e41dbded318c91b82af0bc4de712b4f1d1009033d16d3381a6636f514ac6a2
+machine_hash: b2556f4cb7cef5eb9f6d68e30c39433662cc728741c154e909ef79abf10a27bc
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -67,10 +67,10 @@ record:
   title: 12 Safety and Privacy changes in rust-v0.150.0
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-08-25-6-safety-and-privacy-changes-in-v2-1-246|6 Safety
-  and Privacy changes in v2.1.246]]'
 - '[[Changes/Gemini CLI/2026-08-25-ssr-agent-issue-fix-26120-clarify-privacy-notice-wording-and-selection-options-b|SSR
   Agent Issue Fix (26120): Clarify privacy notice wording and selection options]]'
+- '[[Changes/Open WebUI/2026-08-25-7-safety-and-privacy-changes-in-v0-11-1|7 Safety
+  and Privacy changes in v0.11.1]]'
 - '[[Changes/Claude Code/2026-08-26-2-safety-and-privacy-changes-in-v2-1-247|2 Safety
   and Privacy changes in v2.1.247]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-08-26-rust-v0-150-0-github-377374683-d950f84c|codex-cli-2026-08-26-rust-v0-150-0-github-377374683-d950f84c]]'
@@ -139,7 +139,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.150.0
 ## Nearby in Safety and Privacy
 
 - Earlier: 2026-08-26 · Claude Code · [[Changes/Claude Code/2026-08-26-2-safety-and-privacy-changes-in-v2-1-247|2 Safety and Privacy changes in v2.1.247]]
-- Later: 2026-08-27 · Claude Code · [[Changes/Claude Code/2026-08-27-4-safety-and-privacy-changes-in-v2-1-248|4 Safety and Privacy changes in v2.1.248]]
+- Later: 2026-08-26 · Lovable · [[Changes/Lovable/2026-08-26-log-out-everywhere|Log out everywhere]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: a6d16efbc58700a90a7de2e6c3b421dc77c6c9880104d3f8119a8df255269005
+machine_hash: 4ddc41e00999903454dc718a0271572f4e2ba65a72796a2ae2aa8e5aca54187c
 product: aider
 product_name: Aider
 record:
@@ -48,12 +48,12 @@ record:
   title: 5 Model Support changes in v0.49.0
   type: change
 related_changes:
-- '[[Changes/Aider/2024-07-31-added-strong-model-as-a-fallback-for-commit-messages-and-chat-summaries|Added
-  strong model as a fallback for commit messages (and chat summaries)]]'
-- '[[Changes/OpenHands/2024-08-01-add-unit-tests-for-llm-init-function-by-neubig-in-https-github-com-opendevin-ope|Add
-  unit tests for LLM init function]]'
-- '[[Changes/Aider/2024-08-06-3-model-support-changes-in-v0-48-0|3 Model Support changes
-  in v0.48.0]]'
+- '[[Changes/Dify/2024-08-06-19-model-support-changes-in-0-6-16|19 Model Support changes
+  in 0.6.16]]'
+- '[[Changes/Ollama/2024-08-06-3-model-support-changes-in-v0-3-4|3 Model Support changes
+  in v0.3.4]]'
+- "[[Changes/Open WebUI/2024-08-07-modal-handling-fixed-an-issue-where-modals-were-not-closing-correctly-in-various|\U0001F5C3️
+  Modal Handling]]"
 source_release: '[[Releases/Aider/aider-2024-08-10-v0-49-0-github-169642017-dab576d9|aider-2024-08-10-v0-49-0-github-169642017-dab576d9]]'
 source_type: github_releases
 theme: model-support
@@ -96,7 +96,7 @@ Source: https://github.com/Aider-AI/aider/releases/tag/v0.49.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2024-08-06 · Aider · [[Changes/Aider/2024-08-06-3-model-support-changes-in-v0-48-0|3 Model Support changes in v0.48.0]]
+- Earlier: 2024-08-07 · Open WebUI · [[Changes/Open WebUI/2024-08-07-modal-handling-fixed-an-issue-where-modals-were-not-closing-correctly-in-various|🗃️ Modal Handling]]
 - Later: 2024-08-11 · Cline · [[Changes/Cline/2024-08-11-adds-option-to-choose-other-claude-models-gpt-4o-deepseek-and-mistral-if-you-use|Adds option to choose other Claude models…]]
 <!-- chronolog:end -->
 

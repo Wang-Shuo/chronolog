@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 0998ae7ac59ece9d205a42f461e5e17be13bfda8da973647fc201678128894a2
+machine_hash: 943511f3dfa988fe7701115045e2f6fb03795f7a97ad47c8f2071e3496d0c39e
 product: aider
 product_name: Aider
 record:
@@ -92,7 +92,7 @@ Source: https://github.com/Aider-AI/aider/releases/tag/v0.80.0
 ## Nearby in Model Support
 
 - Earlier: 2025-03-27 · ChatGPT · [[Changes/ChatGPT/2025-03-27-gpt-4o-is-now-more-adept-at-following-detailed-instructions-especially-for-promp|Enhanced instruction-following and formatting accuracy]]
-- Later: 2025-04-01 · Cline · [[Changes/Cline/2025-04-01-3-model-support-changes-in-v3-8-5|3 Model Support changes in v3.8.5]]
+- Later: 2025-03-31 · ElevenLabs · [[Changes/ElevenLabs/2025-03-31-text-to-speech|Text to speech]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

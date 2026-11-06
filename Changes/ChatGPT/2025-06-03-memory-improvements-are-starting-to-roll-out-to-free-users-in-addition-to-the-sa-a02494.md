@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 07ada91216ee5209ba9b3d191350679415c13102927edbb99197f2c85437dbc5
+machine_hash: 7eb9e2db49a509a199ad2cfe6f0eaffdf94b50fefada33732aa42f90d8b71a28
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -50,12 +50,12 @@ record:
   title: Memory improvements are starting to roll out to Free users
   type: change
 related_changes:
-- '[[Changes/Cline/2025-05-21-add-keyboard-shortcut-cmd-to-quickly-focus-cline-from-anywhere-in-vs-code-d699eb|Add
-  keyboard shortcut (Cmd+'') to quickly focus Cline from anywhere in VS Code]]'
-- '[[Changes/Cline/2025-05-22-2-interface-experience-changes-in-v3-17-0|2 Interface
-  Experience changes in v3.17.0]]'
+- '[[Changes/Dify/2025-05-27-feat-workflow-add-variable-node-jump-navigation-and-persist-node-dimensions-posi|feat(workflow):
+  Add variable node jump navigation and persist node dimensions/position]]'
 - '[[Changes/Cline/2025-05-28-add-improved-onboarding-experience-for-new-users-with-guided-setup|Add
   improved onboarding experience for new users with guided setup]]'
+- "[[Changes/Open WebUI/2025-05-29-localization-upgrades-experience-highly-improved-user-interface-translations-and|\U0001F30F
+  Localization Upgrades]]"
 source_release: '[[Releases/ChatGPT/chatgpt-2025-06-03-memory-is-now-more-comprehensive-for-free-users-32de8dd3|chatgpt-2025-06-03-memory-is-now-more-comprehensive-for-free-users-32de8dd3]]'
 source_type: chatgpt_changelog
 theme: interface-experience
@@ -84,7 +84,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2025-05-28 · Cline · [[Changes/Cline/2025-05-28-add-improved-onboarding-experience-for-new-users-with-guided-setup|Add improved onboarding experience for new users with guided setup]]
+- Earlier: 2025-05-29 · Open WebUI · [[Changes/Open WebUI/2025-05-29-localization-upgrades-experience-highly-improved-user-interface-translations-and|🌏 Localization Upgrades]]
 - Later: 2025-06-03 · Windsurf · [[Changes/Windsurf/2025-06-03-improvements-to-import-behavior-during-onboarding|Improvements to import behavior during onboarding]]
 <!-- chronolog:end -->
 

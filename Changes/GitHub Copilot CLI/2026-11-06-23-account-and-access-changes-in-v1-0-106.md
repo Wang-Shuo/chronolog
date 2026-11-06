@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 1a407bfd8f8f94963e43b0a2dd7d90a48278b1c927d0b15a696f3f2cc16475da
+machine_hash: 3df80467a28477f7a0b8ec2f2233d6d26f1c171c8a267cdf778683ebff58b801
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -110,10 +110,10 @@ record:
   title: 23 Account and Access changes in v1.0.106
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-31-vscode-added-sign-in-to-a-claude-apps-gateway-from-the-chat-panel-with-no-termin|VSCode
-  Added sign-in to a Claude apps gateway from the chat panel, with no…]]'
 - '[[Changes/OpenHands/2026-11-03-ci-deps-bump-docker-login-action-from-4-6-0-to-4-7-0-in-the-actions-group-across|ci(deps):
   bump docker/login-action from 4.6.0 to 4.7.0 in the actions group across 1…]]'
+- '[[Changes/Dify/2026-11-04-2-account-and-access-changes-in-1-19-0|2 Account and
+  Access changes in 1.19.0]]'
 - '[[Changes/Codex CLI/2026-11-06-5-account-and-access-changes-in-rust-v0-167-0|5
   Account and Access changes in rust-v0.167.0]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-11-06-v1-0-106-github-435988160-ec5b15d4|github-copilot-cli-2026-11-06-v1-0-106-github-435988160-ec5b15d4]]'

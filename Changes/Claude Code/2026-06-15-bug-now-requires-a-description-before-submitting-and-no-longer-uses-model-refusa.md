@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: a6f38e8a1093976103428351fb45a144d502bddf23d4e4035eb906e5605b1c22
+machine_hash: 87414424767d77907af8843c6870b581c1c13e7c8044604e62f6cf3074054dad
 product: claude-code
 product_name: Claude Code
 record:
@@ -44,10 +44,10 @@ record:
   title: '`/bug` now requires a description before submitting, and no longer uses…'
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-06-12-as-of-june-12-2026-gpt-5-2-models-are-no-longer-available-in-chatgpt-this-applie|Retiring
-  GPT-5.2 models]]'
 - '[[Changes/Claude Code/2026-06-12-added-enforceavailablemodels-managed-setting-when-enabled-the-availablemodels-al|Added
   enforceAvailableModels managed setting]]'
+- '[[Changes/Ollama/2026-06-12-improved-recurrent-model-support-with-per-boundary-states-from-the-gated-delta-k|Improved
+  recurrent model support with per-boundary states from the gated-delta kernels]]'
 - '[[Changes/GitHub Copilot CLI/2026-06-13-3-model-support-changes-in-v1-0-62|3 Model
   Support changes in v1.0.62]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-06-15-v2-1-178-github-339741361-902bc427|claude-code-2026-06-15-v2-1-178-github-339741361-902bc427]]'

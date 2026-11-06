@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 559fac7cd1cc06dccbe90549bdda0a78e2845f98d65fa0a7985a9b25ec8680c8
+machine_hash: 65fd4431e457545d8617fa933b9acb1b77938eab8d5d2b5f018159b4a86fc3f2
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,10 +45,10 @@ record:
   title: Added `notify_when_idle` to cross-session `SendMessage`
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-08-14-learning-projects-and-personalized-suggestions|Learning,
-  Projects, and personalized suggestions]]'
-- '[[Changes/ChatGPT/2026-08-14-use-chatgpt-and-codex-on-linux-the-desktop-app-is-now-available-globally-in-publ|Use
-  ChatGPT and Codex on Linux]]'
+- '[[Changes/Lovable/2026-08-16-attach-a-figma-file-in-chat|Attach a Figma file in
+  chat]]'
+- '[[Changes/Lovable/2026-08-17-copy-a-project-link-in-the-mobile-and-desktop-apps|Copy
+  a project link in the mobile and desktop apps]]'
 - '[[Changes/Codex CLI/2026-08-18-3-mobile-and-desktop-changes-in-rust-v0-148-0|3
   Mobile and Desktop changes in rust-v0.148.0]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-08-19-v2-1-236-github-373272539-bbbacf79|claude-code-2026-08-19-v2-1-236-github-373272539-bbbacf79]]'
@@ -88,7 +88,7 @@ type: change
 ## Nearby in Mobile and Desktop
 
 - Earlier: 2026-08-18 · Codex CLI · [[Changes/Codex CLI/2026-08-18-3-mobile-and-desktop-changes-in-rust-v0-148-0|3 Mobile and Desktop changes in rust-v0.148.0]]
-- Later: 2026-08-20 · ChatGPT · [[Changes/ChatGPT/2026-08-20-keep-pinned-chats-in-sync-pinned-chats-now-stay-in-sync-between-the-chatgpt-desk|Keep pinned chats in sync]]
+- Later: 2026-08-19 · Gemini · [[Changes/Gemini/2026-08-19-a-new-dedicated-student-hub-study-notebooks-on-mobile-one-year-of-google-ai-pro|A new dedicated student hub, study notebooks on mobile, one year of Google AI Pro…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

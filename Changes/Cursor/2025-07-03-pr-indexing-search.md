@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 33d6ed6b178ea201c4d00e711206e1ac517b3625d7a49ef762642ef76665b09c
+machine_hash: 4fda581b86b0c14f477da3b7e6036a8d151852a5401fba79bcea4e4bf00cb1b2
 product: cursor
 product_name: Cursor
 record:
@@ -48,10 +48,10 @@ record:
   title: PR indexing & search
   type: change
 related_changes:
-- '[[Changes/Cline/2025-06-10-prioritize-active-files-open-tabs-at-the-top-of-the-file-context-menu-when-using|Prioritize
-  active files (open tabs) at the top of the file context menu when using…]]'
-- '[[Changes/OpenHands/2025-06-20-2-context-window-changes-in-0-43-0|2 Context Window
-  changes in 0.43.0]]'
+- '[[Changes/Dify/2025-06-25-feat-add-a-flask-context-manager-by-laipz8200-in-https-github-com-langgenius-dif|feat:
+  add a flask_context_manager]]'
+- '[[Changes/Ollama/2025-06-25-ollama-will-now-limit-context-length-to-what-the-model-was-trained-against-to-av|Ollama
+  will now limit context length to what the model was trained against to avoid…]]'
 - '[[Changes/Aider/2025-06-27-enhanced-thinking-tokens-support-can-now-be-disabled-by-setting-to-0-and-improve|Enhanced
   thinking tokens support]]'
 source_release: '[[Releases/Cursor/cursor-2025-07-03-1-2-https-cursor-com-changelog-1-2-27872f5d|cursor-2025-07-03-1-2-https-cursor-com-changelog-1-2-27872f5d]]'
@@ -96,7 +96,7 @@ type: change
 ## Nearby in Context Window
 
 - Earlier: 2025-06-27 · Aider · [[Changes/Aider/2025-06-27-enhanced-thinking-tokens-support-can-now-be-disabled-by-setting-to-0-and-improve|Enhanced thinking tokens support]]
-- Later: 2025-07-17 · Windsurf · [[Changes/Windsurf/2025-07-17-mentioning-conversations|mentioning conversations]]
+- Later: 2025-07-10 · Dify · [[Changes/Dify/2025-07-10-style-config-var-update-styling-classes-to-use-design-system-tokens-by-minamiyam|style(config-var): update styling classes to use design system tokens]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 7ec08ecfc3ab4f40ae84c9924e759b8c5c056f1571b5ec0885985c956f42cd7e
+machine_hash: 9ad7d56710909c7a33457829eff590a76e5f966f8dd70186fab09c9b13016caf
 product: claude-code
 product_name: Claude Code
 record:
@@ -46,12 +46,12 @@ record:
   title: 'Windows: Improved git command start-up with a standard Git for Windows install…'
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-15-improved-artifacts-pages-claude-writes-now-paint-the-band-above-a-sticky-header|Improved
-  artifacts: pages Claude writes now paint the band above a sticky header…]]'
-- '[[Changes/Codex CLI/2026-10-15-3-mobile-and-desktop-changes-in-rust-v0-163-0|3
-  Mobile and Desktop changes in rust-v0.163.0]]'
 - '[[Changes/ChatGPT/2026-10-16-present-or-export-present-directly-from-chatgpt-on-the-web-export-to-powerpoint|Present
   or export. Present directly from ChatGPT]]'
+- '[[Changes/Lovable/2026-10-16-removed-tabs-in-the-desktop-app|Removed: tabs in the
+  desktop app]]'
+- '[[Changes/Lovable/2026-10-17-jump-to-your-last-chat-in-the-desktop-app|Jump to
+  your last chat in the desktop app]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-10-19-v2-1-304-github-417677344-46c4d994|claude-code-2026-10-19-v2-1-304-github-417677344-46c4d994]]'
 source_type: github_releases
 theme: mobile-desktop
@@ -89,7 +89,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2026-10-16 · ChatGPT · [[Changes/ChatGPT/2026-10-16-present-or-export-present-directly-from-chatgpt-on-the-web-export-to-powerpoint|Present or export. Present directly from ChatGPT]]
+- Earlier: 2026-10-17 · Lovable · [[Changes/Lovable/2026-10-17-jump-to-your-last-chat-in-the-desktop-app|Jump to your last chat in the desktop app]]
 - Later: 2026-10-20 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-10-20-macos-sandboxed-commands-can-connect-directly-to-localhost-tcp-services-when-loc|macOS sandboxed commands can connect directly to localhost TCP services when local…]]
 <!-- chronolog:end -->
 

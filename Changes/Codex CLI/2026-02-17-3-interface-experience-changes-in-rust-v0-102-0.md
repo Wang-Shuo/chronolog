@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 709dbb24f94207096580f93000a4e2832fe80faf0463fc7ac6f63f4becab3edf
+machine_hash: c1ac2cda66002b3c4810e67032241c1dc5c58dbe45eb09797bd9fa9ee1118b5f
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -44,10 +44,10 @@ record:
   title: 3 Interface Experience changes in rust-v0.102.0
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-02-13-simplified-composer-the-message-composer-has-been-streamlined-to-reduce-visual-c|Simplified
-  composer]]'
-- '[[Changes/Claude Code/2026-02-13-improved-narrow-terminal-layout-for-prompt-footer|Improved
-  narrow terminal layout for prompt footer]]'
+- '[[Changes/Open WebUI/2026-02-14-2-interface-experience-changes-in-v0-8-1|2 Interface
+  Experience changes in v0.8.1]]'
+- '[[Changes/Open WebUI/2026-02-16-strikethrough-shortcut-conflict-fix-pressing-ctrl-shift-s-to-toggle-the-sidebar|⌨️
+  Strikethrough shortcut conflict fix. Pressing Ctrl+Shift+S to toggle…]]'
 - '[[Changes/Claude Code/2026-02-17-added-spinnertipsoverride-setting-to-customize-spinner-tips-configure-tips-with|Added
   spinnerTipsOverride setting to customize spinner tips]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-02-17-rust-v0-102-0-github-287401154-1bf3dbd0|codex-cli-2026-02-17-rust-v0-102-0-github-287401154-1bf3dbd0]]'

@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: c7a5dd40c98631cbc9af05c8553cc610ec073da29be09eee21b6338d9f6014fb
+machine_hash: eb10448b1ce5fae210b5807b6aca230e32270f19d16b91eedfd3d9f4e87201f8
 product: claude-code
 product_name: Claude Code
 record:
@@ -43,12 +43,12 @@ record:
   title: Changed terminal hyperlinks in rendered markdown
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-08-25-plus-and-pro-users-can-ask-work-on-web-ios-and-android-to-respond-when-a-new-gma|Create
-  webhook-triggered tasks]]'
-- '[[Changes/Claude Code/2026-08-25-2-developer-workflow-changes-in-v2-1-246|2 Developer
-  Workflow changes in v2.1.246]]'
+- '[[Changes/Dify/2026-08-25-4-developer-workflow-changes-in-1-17-0|4 Developer Workflow
+  changes in 1.17.0]]'
 - '[[Changes/Gemini CLI/2026-08-25-ssr-agent-issue-fix-24935-force-terminal-buffer-rerender-after-exiting-external|SSR
   Agent Issue Fix (24935)]]'
+- '[[Changes/Open WebUI/2026-08-25-73-developer-workflow-changes-in-v0-11-1|73 Developer
+  Workflow changes in v0.11.1]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-08-26-v2-1-247-github-377320078-fc507178|claude-code-2026-08-26-v2-1-247-github-377320078-fc507178]]'
 source_type: github_releases
 theme: developer-workflow
@@ -83,7 +83,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2026-08-25 · Gemini CLI · [[Changes/Gemini CLI/2026-08-25-ssr-agent-issue-fix-24935-force-terminal-buffer-rerender-after-exiting-external|SSR Agent Issue Fix (24935)]]
+- Earlier: 2026-08-25 · Open WebUI · [[Changes/Open WebUI/2026-08-25-73-developer-workflow-changes-in-v0-11-1|73 Developer Workflow changes in v0.11.1]]
 - Later: 2026-08-26 · Codex CLI · [[Changes/Codex CLI/2026-08-26-15-developer-workflow-changes-in-rust-v0-150-0|15 Developer Workflow changes in rust-v0.150.0]]
 <!-- chronolog:end -->
 

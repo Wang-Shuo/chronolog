@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 6b062ef758023a8290d1050126b65983403267c3c158f2ffa2d692e38d2d9c2b
+machine_hash: e9ab0e64b8548edea4ff90825b13ab10a469a10534066e258b2be43826b86c40
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -48,8 +48,8 @@ record:
   title: 3 Agent Mode changes in v1.0.74
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-07-21-2-agent-mode-changes-in-v1-0-73|2 Agent
-  Mode changes in v1.0.73]]'
+- '[[Changes/v0/2026-07-21-agent-auto-pushes-retry-after-rebasing-when-a-push-is-rejected-as-non-fast-forwa|Agent
+  auto-pushes retry after rebasing when a push is rejected as non-fast-forward…]]'
 - '[[Changes/Claude Code/2026-07-22-changed-plan-mode-with-auto-to-no-longer-prompt-for-bash-commands-the-static-ana|Changed
   plan mode with auto to no longer prompt for Bash commands the static…]]'
 - '[[Changes/Cursor/2026-07-22-auto-mode-is-now-powered-by-cursor-router|Auto mode

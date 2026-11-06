@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: b3058a26f6c6429ddf69d747cb05766a59c3f6633ce5657c73422c4df248f388
+machine_hash: 849185dd5a0411bbb85af2dd6f1b6f381ac8d2e6ec57b02ee7e4fb8afc849aa6
 product: cline
 product_name: Cline
 record:
@@ -42,12 +42,11 @@ record:
   title: 2 Developer Workflow changes in v3.13.0
   type: change
 related_changes:
-- '[[Changes/Windsurf/2025-04-02-commit-message-generation-beta|Commit Message Generation
-  (Beta)]]'
 - '[[Changes/Cursor/2025-04-15-improved-agent-terminal-control|Improved agent terminal
   control]]'
 - '[[Changes/OpenHands/2025-04-16-converted-the-terminal-panel-from-a-fixed-bottom-panel-to-a-tab-by-rbren-in-http|Converted
   the Terminal panel from a fixed bottom panel to a tab]]'
+- '[[Changes/Replit/2025-04-18-clearer-checkpoint-titles|Clearer checkpoint titles]]'
 source_release: '[[Releases/Cline/cline-2025-04-19-v3-13-0-github-213455478-f5b1cb21|cline-2025-04-19-v3-13-0-github-213455478-f5b1cb21]]'
 source_type: github_releases
 theme: developer-workflow
@@ -84,8 +83,8 @@ Source: https://github.com/cline/cline/releases/tag/v3.13.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2025-04-16 · OpenHands · [[Changes/OpenHands/2025-04-16-converted-the-terminal-panel-from-a-fixed-bottom-panel-to-a-tab-by-rbren-in-http|Converted the Terminal panel from a fixed bottom panel to a tab]]
-- Later: 2025-04-23 · OpenHands · [[Changes/OpenHands/2025-04-23-restored-interactivity-to-the-terminal-by-rbren-in-https-github-com-all-hands-ai|Restored interactivity to the terminal]]
+- Earlier: 2025-04-18 · Replit · [[Changes/Replit/2025-04-18-clearer-checkpoint-titles|Clearer checkpoint titles]]
+- Later: 2025-04-23 · Dify · [[Changes/Dify/2025-04-23-2-developer-workflow-changes-in-1-3-0|2 Developer Workflow changes in 1.3.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

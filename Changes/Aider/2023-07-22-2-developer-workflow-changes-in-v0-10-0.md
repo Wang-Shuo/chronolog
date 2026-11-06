@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: f2893f5c470ffba02e3278ff882a94e37af7bfb3ed8fa5b1a5a4cfec20a9652e
+machine_hash: f4fbd2394f5e3014c365e94e990aac2df4b48786e6b36d5304ecb1b018b8d4ea
 product: aider
 product_name: Aider
 record:
@@ -43,13 +43,13 @@ record:
   title: 2 Developer Workflow changes in v0.10.0
   type: change
 related_changes:
-- '[[Changes/Aider/2023-07-08-ask-to-create-a-git-repo-if-none-found-to-better-track-gpt-s-code-changes-e7e81b|Ask
-  to create a git repo if none found, to better track GPT''s code changes]]'
 - '[[Changes/Aider/2023-07-12-2-developer-workflow-changes-in-v0-8-3|2 Developer Workflow
   changes in v0.8.3]]'
 - '[[Changes/Cursor/2023-07-12-this-update-patches-search-cmd-win-shift-f-and-many-extensions-for-and-wsl-and-s|This
   update patches search (Cmd/Win+Shift+F) and many extensions for and WSL and SSH
   users]]'
+- '[[Changes/Dify/2023-07-18-feat-add-bash-before-entrypoint-sh-in-dockerfile-by-takatost-in-https-github-com|feat:
+  add bash before entrypoint.sh in Dockerfile]]'
 source_release: '[[Releases/Aider/aider-2023-07-22-v0-10-0-github-113187659-b0aea783|aider-2023-07-22-v0-10-0-github-113187659-b0aea783]]'
 source_type: github_releases
 theme: developer-workflow
@@ -85,7 +85,7 @@ Source: https://github.com/Aider-AI/aider/releases/tag/v0.10.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2023-07-12 · Cursor · [[Changes/Cursor/2023-07-12-this-update-patches-search-cmd-win-shift-f-and-many-extensions-for-and-wsl-and-s|This update patches search (Cmd/Win+Shift+F) and many extensions for and WSL and SSH users]]
+- Earlier: 2023-07-18 · Dify · [[Changes/Dify/2023-07-18-feat-add-bash-before-entrypoint-sh-in-dockerfile-by-takatost-in-https-github-com|feat: add bash before entrypoint.sh in Dockerfile]]
 - Later: 2023-07-24 · Aider · [[Changes/Aider/2023-07-24-added-git-command-to-run-git-from-inside-aider-chats|Added /git command to run git from inside aider chats]]
 <!-- chronolog:end -->
 

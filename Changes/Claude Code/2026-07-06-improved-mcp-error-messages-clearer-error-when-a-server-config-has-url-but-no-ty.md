@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 0258bead4e6a7b8381f9c3d179d8046874521a368230be055054a327e2a3d3de
+machine_hash: 21cff489c010f4f671722b52f2536060962c9d99fe0642ba32817fe2bebdbdf7
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,12 +45,10 @@ record:
   title: Improved MCP error messages
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-07-01-added-dataviz-skill-for-chart-and-dashboard-design-guidance-with-a-runnable-colo|Added
-  /dataviz skill for chart and dashboard design guidance with a runnable…]]'
-- '[[Changes/GitHub Copilot CLI/2026-07-01-2-apps-and-integrations-changes-in-v1-0-68|2
-  Apps and Integrations changes in v1.0.68]]'
-- '[[Changes/Claude Code/2026-07-02-stacked-slash-skill-invocations-like-skill-a-skill-b-do-xyz-now-load-all-leading|Stacked
-  slash-skill invocations like /skill-a /skill-b do XYZ now load all leading…]]'
+- '[[Changes/Lovable/2026-07-02-connectors-page-in-projects|Connectors page in projects]]'
+- '[[Changes/Lovable/2026-07-02-app-connector-wordpress-self-hosted|App connector:
+  WordPress (self-hosted)]]'
+- '[[Changes/Replit/2026-07-03-integrations|Integrations]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-07-06-v2-1-202-github-349856235-58e6d3e8|claude-code-2026-07-06-v2-1-202-github-349856235-58e6d3e8]]'
 source_type: github_releases
 theme: apps-integrations
@@ -81,8 +79,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-07-02 · Claude Code · [[Changes/Claude Code/2026-07-02-stacked-slash-skill-invocations-like-skill-a-skill-b-do-xyz-now-load-all-leading|Stacked slash-skill invocations like /skill-a /skill-b do XYZ now load all leading…]]
-- Later: 2026-07-06 · OpenHands · [[Changes/OpenHands/2026-07-06-7-apps-and-integrations-changes-in-1-9-0|7 Apps and Integrations changes in 1.9.0]]
+- Earlier: 2026-07-03 · Replit · [[Changes/Replit/2026-07-03-integrations|Integrations]]
+- Later: 2026-07-06 · ElevenLabs · [[Changes/ElevenLabs/2026-07-06-sdk-releases|SDK Releases]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

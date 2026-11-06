@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 2c4a43c3a495699e3f7d1de6e275769830d2f954047e50f9525eae2be32fe71c
+machine_hash: 44f08ba56995443be5257722bb51cc462d56d9982db33c12ac60fffe18cf0f43
 product: claude-code
 product_name: Claude Code
 record:
@@ -46,12 +46,11 @@ record:
   title: 2 Account and Access changes in v2.1.234
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-08-12-updated-login-to-repeat-the-claude-code-oauth-token-override-warning-after-a-suc|Updated
-  /login to repeat the CLAUDE_CODE_OAUTH_TOKEN override warning after…]]'
-- '[[Changes/Claude Code/2026-08-13-remote-control-resuming-a-conversation-whose-session-was-deleted-from-claude-ai|Remote
-  Control: resuming a conversation whose session was deleted from claude.ai…]]'
 - '[[Changes/OpenHands/2026-08-13-ci-deps-bump-docker-login-action-from-4-5-2-to-4-6-0-in-the-actions-group-by-dep|ci(deps):
   bump docker/login-action from 4.5.2 to 4.6.0 in the actions group…]]'
+- '[[Changes/Replit/2026-08-14-migrate-to-clerk-auth|Migrate to Clerk Auth]]'
+- '[[Changes/v0/2026-08-14-expired-sessions-recover-instead-of-dropping-you-into-a-personal-only-or-logged|Expired
+  sessions recover instead of dropping you into a personal-only or logged-out…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-08-17-v2-1-234-github-371864218-2ca32673|claude-code-2026-08-17-v2-1-234-github-371864218-2ca32673]]'
 source_type: github_releases
 theme: account-access
@@ -92,7 +91,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.234
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Account and Access
 
-- Earlier: 2026-08-13 · OpenHands · [[Changes/OpenHands/2026-08-13-ci-deps-bump-docker-login-action-from-4-5-2-to-4-6-0-in-the-actions-group-by-dep|ci(deps): bump docker/login-action from 4.5.2 to 4.6.0 in the actions group…]]
+- Earlier: 2026-08-14 · v0 · [[Changes/v0/2026-08-14-expired-sessions-recover-instead-of-dropping-you-into-a-personal-only-or-logged|Expired sessions recover instead of dropping you into a personal-only or logged-out…]]
 - Later: 2026-08-18 · Codex CLI · [[Changes/Codex CLI/2026-08-18-16-account-and-access-changes-in-rust-v0-148-0|16 Account and Access changes in rust-v0.148.0]]
 <!-- chronolog:end -->
 

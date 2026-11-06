@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 1231c9a511528f9a01cebaaeb1b3ffdf07e070666d5972bb5ef7ae3cf35030e8
+machine_hash: 99afce2592ed1f23bf2c73bf6b0dc06ff37c72c469c4b95c37ff3dc2f02bc5f4
 product: cline
 product_name: Cline
 record:
@@ -44,12 +44,12 @@ record:
     checkpoints
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-02-28-improved-model-command-to-show-the-currently-active-model-in-the-slash-command-m|Improved
-  /model command to show the currently active model in the slash command menu]]'
-- '[[Changes/Claude Code/2026-02-28-added-simplify-and-batch-bundled-slash-commands|Added
-  /simplify and /batch bundled slash commands]]'
 - '[[Changes/Codex CLI/2026-03-02-3-developer-workflow-changes-in-rust-v0-107-0|3
   Developer Workflow changes in rust-v0.107.0]]'
+- '[[Changes/Open WebUI/2026-03-02-faster-artifact-content-updates-artifact-content-extraction-during-streaming-is|⚡
+  Faster artifact content updates. Artifact content extraction during streaming…]]'
+- '[[Changes/Open WebUI/2026-03-02-6-developer-workflow-changes-in-v0-8-8|6 Developer
+  Workflow changes in v0.8.8]]'
 source_release: '[[Releases/Cline/cline-2026-03-03-v3-69-0-github-292321177-f95c432e|cline-2026-03-03-v3-69-0-github-292321177-f95c432e]]'
 source_type: github_releases
 theme: developer-workflow
@@ -83,7 +83,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2026-03-02 · Codex CLI · [[Changes/Codex CLI/2026-03-02-3-developer-workflow-changes-in-rust-v0-107-0|3 Developer Workflow changes in rust-v0.107.0]]
+- Earlier: 2026-03-02 · Open WebUI · [[Changes/Open WebUI/2026-03-02-6-developer-workflow-changes-in-v0-8-8|6 Developer Workflow changes in v0.8.8]]
 - Later: 2026-03-03 · Cursor · [[Changes/Cursor/2026-03-03-3-developer-workflow-changes-in-2-6|3 Developer Workflow changes in 2.6]]
 <!-- chronolog:end -->
 

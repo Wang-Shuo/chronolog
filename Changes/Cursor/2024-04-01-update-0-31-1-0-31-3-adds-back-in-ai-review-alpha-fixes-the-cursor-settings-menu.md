@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 81f17741a2a6e76b674b772ed08d5442d22fc1010b2a7ebcde58dc913ce49e40
+machine_hash: d846c79f23c6cff1ac34a1569019c002c3e42560d3fa0701810977f184df2272
 product: cursor
 product_name: Cursor
 record:
@@ -44,9 +44,9 @@ record:
   title: 'UPDATE (0.31.1–0.31.3): Adds back in AI Review (alpha), fixes…'
   type: change
 related_changes:
-- '[[Changes/Cursor/2024-02-09-fine-grained-chat-replies-start-by-hovering-over-the-area-of-the-response-you-wa|Fine-grained
-  chat replies…]]'
 - '[[Changes/Cursor/2024-03-01-ai-notes-enabled-by-default-hold-shift-on-any-symbol-better-in-editor-chat-auto|Polish]]'
+- "[[Changes/Open WebUI/2024-03-18-sidebar-ui-update-updated-sidebar-ui-to-feature-a-chat-menu-dropdown-replacing-t|\U0001F504
+  Sidebar UI Update]]"
 - '[[Changes/Cursor/2024-03-20-new-settings-we-moved-all-our-settings-to-be-accessible-by-the-gear-in-the-top-r|New
   Settings: We moved all our settings to be accessible by the gear in the top right]]'
 source_release: '[[Releases/Cursor/cursor-2024-04-01-0-31-x-https-cursor-com-changelog-0-31-x-f88ca4c9|cursor-2024-04-01-0-31-x-https-cursor-com-changelog-0-31-x-f88ca4c9]]'
@@ -78,7 +78,7 @@ type: change
 ## Nearby in Interface Experience
 
 - Earlier: 2024-03-20 · Cursor · [[Changes/Cursor/2024-03-20-new-settings-we-moved-all-our-settings-to-be-accessible-by-the-gear-in-the-top-r|New Settings: We moved all our settings to be accessible by the gear in the top right]]
-- Later: 2024-04-12 · Cursor · [[Changes/Cursor/2024-04-12-cursor-help-pane-beta-you-can-also-ask-cursor-about-cursor-the-cursor-help-pane|Cursor Help Pane (Beta): You can also ask Cursor about Cursor!]]
+- Later: 2024-04-04 · Open WebUI · [[Changes/Open WebUI/2024-04-04-latex-chat-screen-overflow-fixed-screen-overflow-issue-with-latex-rendering|📜 LaTeX Chat Screen Overflow: Fixed screen overflow issue with LaTeX rendering]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

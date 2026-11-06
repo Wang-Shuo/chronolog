@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 215f16c32405f1a14871de6f144020f620030eeb2040994fcb6d288f77bff809
+machine_hash: 6a29bc68b2f171373f9879c4eca221f7eb8626985e6be7d7c658fa4ecab8299a
 product: cursor
 product_name: Cursor
 record:
@@ -56,12 +56,12 @@ record:
   title: Cursor adds a file picker, arrow key navigation, and a model toggle to Composer
   type: change
 related_changes:
-- '[[Changes/Cursor/2024-05-03-command-k-autoselect-we-ve-also-added-automatic-selection-for-command-k-this-mea|Command-K
-  Autoselect: We''ve also added automatic selection for Command-K!]]'
-- '[[Changes/Aider/2024-05-13-added-restore-chat-history-to-restore-prior-chat-history-on-launch-so-you-can-co|Added
-  --restore-chat-history to restore prior chat history on launch, so you can…]]'
-- '[[Changes/Aider/2024-06-04-repo-map-is-now-optimized-based-on-text-of-chat-history-as-well-as-files-added-t|Repo
-  map is now optimized based on text of chat history as well as files added to chat]]'
+- '[[Changes/Dify/2024-07-08-2-interface-experience-changes-in-0-6-13|2 Interface
+  Experience changes in 0.6.13]]'
+- '[[Changes/Open WebUI/2024-07-09-sideways-scrolling-in-settings-settings-tabs-container-now-supports-horizontal-s|↔️
+  Sideways Scrolling in Settings]]'
+- "[[Changes/Open WebUI/2024-07-17-styling-refactor-various-styling-updates-for-a-cleaner-and-more-cohesive-user-in|\U0001F3A8
+  Styling Refactor]]"
 source_release: '[[Releases/Cursor/cursor-2024-07-23-0-38-x-https-cursor-com-changelog-0-38-x-e6d087df|cursor-2024-07-23-0-38-x-https-cursor-com-changelog-0-38-x-e6d087df]]'
 source_type: cursor_changelog
 theme: interface-experience
@@ -92,7 +92,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2024-06-04 · Aider · [[Changes/Aider/2024-06-04-repo-map-is-now-optimized-based-on-text-of-chat-history-as-well-as-files-added-t|Repo map is now optimized based on text of chat history as well as files added to chat]]
+- Earlier: 2024-07-17 · Open WebUI · [[Changes/Open WebUI/2024-07-17-styling-refactor-various-styling-updates-for-a-cleaner-and-more-cohesive-user-in|🎨 Styling Refactor]]
 - Later: 2024-07-31 · Aider · [[Changes/Aider/2024-07-31-switching-to-code-and-ask-mode-no-longer-summarizes-the-chat-history|Switching to code and ask mode no longer summarizes the chat history]]
 <!-- chronolog:end -->
 

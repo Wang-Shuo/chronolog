@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: f4efcc4f7e407cdc5c470225b07c2c089f8470669ef47af7f58a0fb12bb4c260
+machine_hash: 9a66ff62e9b52afa369756a1c7b75f653a83d1fb5a14444bf391f6176e4600eb
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -59,10 +59,10 @@ record:
   title: 9 Apps and Integrations changes in v1.0.70
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-07-09-enterprise-and-edu-users-can-find-skills-under-plugins-in-the-sidebar-on-the-ski|Skills
-  are now generally available]]'
-- '[[Changes/Codex CLI/2026-07-09-11-apps-and-integrations-changes-in-rust-v0-144-0|11
-  Apps and Integrations changes in rust-v0.144.0]]'
+- '[[Changes/Lovable/2026-07-09-approve-connector-actions-before-they-run|Approve
+  connector actions before they run]]'
+- '[[Changes/Lovable/2026-07-09-connect-bigquery-with-your-google-account|Connect
+  BigQuery with your Google account]]'
 - '[[Changes/OpenHands/2026-07-09-chore-bump-sdk-packages-to-v1-34-0-by-all-hands-bot-in-https-github-com-openhand|chore:
   bump SDK packages to v1.34.0]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-07-10-v1-0-70-github-351853788-0192ae35|github-copilot-cli-2026-07-10-v1-0-70-github-351853788-0192ae35]]'
@@ -121,7 +121,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.70
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-07-09 · OpenHands · [[Changes/OpenHands/2026-07-09-chore-bump-sdk-packages-to-v1-34-0-by-all-hands-bot-in-https-github-com-openhand|chore: bump SDK packages to v1.34.0]]
-- Later: 2026-07-11 · Claude Code · [[Changes/Claude Code/2026-07-11-2-apps-and-integrations-changes-in-v2-1-207|2 Apps and Integrations changes in v2.1.207]]
+- Later: 2026-07-10 · Replit · [[Changes/Replit/2026-07-10-integrations|Integrations]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

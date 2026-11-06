@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: dd4d05295382928fedc2535ac94b13aaaf0788dfbdc983c3445c8916686b8c43
+machine_hash: 83e3a2e3ebc9c4073b75712dc5a9dd8a0cb99f55e41d6149b371b192e96be63e
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -44,10 +44,11 @@ record:
   title: 2 Context Window changes in v0.1.13
   type: change
 related_changes:
-- '[[Changes/Aider/2025-06-27-enhanced-thinking-tokens-support-can-now-be-disabled-by-setting-to-0-and-improve|Enhanced
-  thinking tokens support]]'
-- '[[Changes/Cursor/2025-07-03-pr-indexing-search|PR indexing & search]]'
+- '[[Changes/Gemini/2025-07-15-stay-on-top-of-your-work-with-productivity-planner-gem|Stay
+  on Top of Your Work with Productivity Planner Gem]]'
 - '[[Changes/Windsurf/2025-07-17-mentioning-conversations|mentioning conversations]]'
+- '[[Changes/Ollama/2025-07-18-ollama-ps-will-now-show-the-context-length-of-loaded-models|ollama
+  ps will now show the context length of loaded models]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2025-07-19-v0-1-13-github-233708271-319aa8dd|gemini-cli-2025-07-19-v0-1-13-github-233708271-319aa8dd]]'
 source_type: github_releases
 theme: context-window
@@ -90,8 +91,8 @@ Source: https://github.com/google-gemini/gemini-cli/releases/tag/v0.1.13
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Context Window
 
-- Earlier: 2025-07-17 · Windsurf · [[Changes/Windsurf/2025-07-17-mentioning-conversations|mentioning conversations]]
-- Later: 2025-07-22 · Cline · [[Changes/Cline/2025-07-22-change-available-cerebras-models-modify-context-window-by-arafatkatze-in-https-g|Change available Cerebras models + modify context window]]
+- Earlier: 2025-07-18 · Ollama · [[Changes/Ollama/2025-07-18-ollama-ps-will-now-show-the-context-length-of-loaded-models|ollama ps will now show the context length of loaded models]]
+- Later: 2025-07-19 · Open WebUI · [[Changes/Open WebUI/2025-07-19-chat-preview-in-search-when-searching-chats-instantly-preview-results-in-context|🔎 Chat Preview in Search]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

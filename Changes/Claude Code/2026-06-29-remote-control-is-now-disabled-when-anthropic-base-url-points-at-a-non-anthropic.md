@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: cce924ec1b327858bea3b533e788907d3f782c9d4e950dc0840f10faf3397332
+machine_hash: 6a3ff6a76d369a733aec8b1535fbb5e60a391004a0f1da87acecd99198b58d0b
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,10 +45,9 @@ record:
   title: Remote Control is now disabled when `ANTHROPIC_BASE_URL` points at a non-Anthropic…
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-06-25-9-apps-and-integrations-changes-in-rust-v0-142-2|9
-  Apps and Integrations changes in rust-v0.142.2]]'
-- '[[Changes/Cline/2026-06-26-13-apps-and-integrations-changes-in-v4-0-0|13 Apps and
-  Integrations changes in v4.0.0]]'
+- '[[Changes/Replit/2026-06-26-use-replit-from-slack|Use Replit from Slack]]'
+- '[[Changes/v0/2026-06-26-the-v0-mcp-server-adds-tools-to-create-find-and-read-chats-fetch-a-preview-and-s|The
+  v0 MCP server adds tools to create, find, and read chats, fetch a preview…]]'
 - '[[Changes/Cline/2026-06-28-roll-the-stable-vs-code-extension-back-to-the-pre-sdk-migration-codebase-to-reso|Roll
   the stable VS Code extension back to the pre-SDK-migration codebase to resolve…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-06-29-v2-1-196-github-346482381-e21be272|claude-code-2026-06-29-v2-1-196-github-346482381-e21be272]]'
@@ -87,7 +86,7 @@ type: change
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-06-28 · Cline · [[Changes/Cline/2026-06-28-roll-the-stable-vs-code-extension-back-to-the-pre-sdk-migration-codebase-to-reso|Roll the stable VS Code extension back to the pre-SDK-migration codebase to resolve…]]
-- Later: 2026-06-30 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-06-30-9-apps-and-integrations-changes-in-v1-0-66|9 Apps and Integrations changes in v1.0.66]]
+- Later: 2026-06-29 · ElevenLabs · [[Changes/ElevenLabs/2026-06-29-sdk-releases|SDK Releases]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

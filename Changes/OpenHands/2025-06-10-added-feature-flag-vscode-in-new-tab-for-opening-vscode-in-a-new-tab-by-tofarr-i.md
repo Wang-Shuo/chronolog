@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: a23b47c3b495f18352b2c6fdeb1da2537b5d20a7023a00b9ad3bd58bc26c48b5
+machine_hash: 3f62160c4be2e25faf0721a82426dcb14fbef4f01df703528e10d0348c7c96ca
 product: openhands
 product_name: OpenHands
 record:
@@ -44,10 +44,11 @@ record:
   title: Added feature flag `VSCODE_IN_NEW_TAB` for opening vscode in a new tab
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-05-15-new-tab-model|New Tab model]]'
-- '[[Changes/Windsurf/2025-05-15-swe-1-mini|SWE-1-mini]]'
-- '[[Changes/Aider/2025-05-30-2-editor-experience-changes-in-v0-84-0|2 Editor Experience
-  changes in v0.84.0]]'
+- '[[Changes/Replit/2025-05-30-unified-github-tab-refresh|Unified GitHub tab refresh]]'
+- '[[Changes/Replit/2025-06-06-visual-editor-image-management|Visual Editor image
+  management]]'
+- '[[Changes/Open WebUI/2025-06-10-3-editor-experience-changes-in-v0-6-14|3 Editor
+  Experience changes in v0.6.14]]'
 source_release: '[[Releases/OpenHands/openhands-2025-06-10-0-42-0-github-224437594-6a2ec2b8|openhands-2025-06-10-0-42-0-github-224437594-6a2ec2b8]]'
 source_type: github_releases
 theme: editor-experience
@@ -78,7 +79,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2025-05-30 · Aider · [[Changes/Aider/2025-05-30-2-editor-experience-changes-in-v0-84-0|2 Editor Experience changes in v0.84.0]]
+- Earlier: 2025-06-10 · Open WebUI · [[Changes/Open WebUI/2025-06-10-3-editor-experience-changes-in-v0-6-14|3 Editor Experience changes in v0.6.14]]
 - Later: 2025-06-10 · Windsurf · [[Changes/Windsurf/2025-06-10-planning-mode|Planning Mode]]
 <!-- chronolog:end -->
 

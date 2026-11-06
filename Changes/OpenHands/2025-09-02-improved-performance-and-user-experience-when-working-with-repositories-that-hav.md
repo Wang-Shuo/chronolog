@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: a324bdccdf00a5fdbe8be4befad2136303753ad2c4aca588b147aa8c93fbd31a
+machine_hash: cae06a766967a6b209ad569b095ef87d9671822a573411536150f119b12c7b48
 product: openhands
 product_name: OpenHands
 record:
@@ -43,12 +43,11 @@ record:
     have…
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2025-08-26-2-reliability-and-performance-changes-in-rust-v0-24-0|2
-  Reliability and Performance changes in rust-v0.24.0]]'
-- '[[Changes/Codex CLI/2025-08-29-performance-cleanup-remove-unnecessary-flush-calls|Performance/cleanup:
-  remove unnecessary flush() calls]]'
+- '[[Changes/Lovable/2025-09-01-your-new-lovable-inbox|Your new Lovable Inbox]]'
 - '[[Changes/Codex CLI/2025-09-02-2-reliability-and-performance-changes-in-rust-v0-28-0|2
   Reliability and Performance changes in rust-v0.28.0]]'
+- '[[Changes/Ollama/2025-09-02-improved-performance-via-overlapping-gpu-and-cpu-computations|Improved
+  performance via overlapping GPU and CPU computations]]'
 source_release: '[[Releases/OpenHands/openhands-2025-09-02-0-55-0-github-244207227-058913b0|openhands-2025-09-02-0-55-0-github-244207227-058913b0]]'
 source_type: github_releases
 theme: reliability-performance
@@ -79,8 +78,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2025-09-02 · Codex CLI · [[Changes/Codex CLI/2025-09-02-2-reliability-and-performance-changes-in-rust-v0-28-0|2 Reliability and Performance changes in rust-v0.28.0]]
-- Later: 2025-09-04 · Gemini CLI · [[Changes/Gemini CLI/2025-09-04-chore-remove-cli-flags-all-files-and-show-memory-usage-by-jackwotherspoon-in-htt|chore: remove CLI flags all_files and show_memory_usage]]
+- Earlier: 2025-09-02 · Ollama · [[Changes/Ollama/2025-09-02-improved-performance-via-overlapping-gpu-and-cpu-computations|Improved performance via overlapping GPU and CPU computations]]
+- Later: 2025-09-03 · Dify · [[Changes/Dify/2025-09-03-3-reliability-and-performance-changes-in-1-8-1|3 Reliability and Performance changes in 1.8.1]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

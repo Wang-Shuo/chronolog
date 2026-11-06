@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 00a63d92a9708bebd1f094438ec9e5df4d4a4fee27e0a2a8ddd74e11268dfd94
+machine_hash: 26d4730c72e370998e934f5d4206bcb56f28f2f51f2d8f4593be22fa99dfd8e8
 product: cline
 product_name: Cline
 record:
@@ -47,9 +47,11 @@ record:
     Vertex AI…
   type: change
 related_changes:
-- '[[Changes/Windsurf/2025-05-15-new-family-of-swe-1-models|New Family of SWE-1 Models]]'
-- '[[Changes/Cline/2025-05-18-2-model-support-changes-in-v3-16-1|2 Model Support changes
-  in v3.16.1]]'
+- '[[Changes/Gemini/2025-05-20-students-get-a-free-upgrade-of-gemini-in-select-countries|Students
+  get a free upgrade of Gemini in select countries]]'
+- '[[Changes/Gemini/2025-05-20-add-your-own-files-to-deep-research-and-bring-reports-to-life-in-canvas-all-on-g|Add
+  your own files to Deep Research and bring reports to life in Canvas, all on Gemini
+  2.5]]'
 - '[[Changes/Cline/2025-05-22-add-support-for-anthropic-claude-sonnet-4-and-claude-opus-4-in-both-anthropic-an|Add
   support for Anthropic Claude Sonnet 4 and Claude Opus 4 in both Anthropic…]]'
 source_release: '[[Releases/Cline/cline-2025-05-22-v3-17-2-github-220508945-79432c34|cline-2025-05-22-v3-17-2-github-220508945-79432c34]]'

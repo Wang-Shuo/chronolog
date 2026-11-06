@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: f9b446e4b3406b049a4c03ae670ec569ede454bb61ddb9748f20c05be1a7a9f9
+machine_hash: 7845867eb90a9a36ae6ee1dc4baab544794d13c6f998b10b853e1e8921c6ae5d
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -47,8 +47,8 @@ record:
   title: 3 Safety and Privacy changes in v1.0.97
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-10-12-3-safety-and-privacy-changes-in-v1-0-96|3
-  Safety and Privacy changes in v1.0.96]]'
+- '[[Changes/Ollama/2026-10-12-updated-readme-and-documentation-with-clearer-privacy-and-cloud-services-wording|Updated
+  README and documentation with clearer privacy and cloud-services wording]]'
 - '[[Changes/OpenHands/2026-10-12-fix-telemetry-retry-automation-consent-sync-by-enyst-in-https-github-com-openhan|fix(telemetry):
   retry automation consent sync]]'
 - '[[Changes/Cursor/2026-10-13-origin-now-integrates-with-over-20-apps-for-deployments-ci-code-review-security-99509e|Origin

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: fix
-machine_hash: a8252e1f49554561f218042aed1570d61080c2f6f152522eed76e4db1a99bbc6
+machine_hash: 019cea3d62258c70d55b110f66207b801505d64c531749af8efae95bbd70d960
 product: claude-code
 product_name: Claude Code
 record:
@@ -47,12 +47,12 @@ record:
     option…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-03-20-2-safety-and-privacy-changes-in-v2-1-81|2 Safety
-  and Privacy changes in v2.1.81]]'
 - '[[Changes/Gemini CLI/2026-03-24-5-safety-and-privacy-changes-in-v0-35-0|5 Safety
   and Privacy changes in v0.35.0]]'
 - '[[Changes/Claude Code/2026-03-25-2-safety-and-privacy-changes-in-v2-1-83|2 Safety
   and Privacy changes in v2.1.83]]'
+- '[[Changes/Open WebUI/2026-03-25-4-safety-and-privacy-changes-in-v0-8-11|4 Safety
+  and Privacy changes in v0.8.11]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-03-26-v2-1-84-github-301540101-d02104aa|claude-code-2026-03-26-v2-1-84-github-301540101-d02104aa]]'
 source_type: github_releases
 theme: safety-privacy
@@ -91,7 +91,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Safety and Privacy
 
-- Earlier: 2026-03-25 · Claude Code · [[Changes/Claude Code/2026-03-25-2-safety-and-privacy-changes-in-v2-1-83|2 Safety and Privacy changes in v2.1.83]]
+- Earlier: 2026-03-25 · Open WebUI · [[Changes/Open WebUI/2026-03-25-4-safety-and-privacy-changes-in-v0-8-11|4 Safety and Privacy changes in v0.8.11]]
 - Later: 2026-03-26 · Claude Code · [[Changes/Claude Code/2026-03-26-2-safety-and-privacy-changes-in-v2-1-85|2 Safety and Privacy changes in v2.1.85]]
 <!-- chronolog:end -->
 

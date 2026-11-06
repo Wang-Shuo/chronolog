@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: pricing
-machine_hash: 21e237de3ba188a48cbf0fd0016367ddb431bbebab46556bbd91e44f56ef2d46
+machine_hash: fa36808f88373a80518a2de9fb8a4bd2d2b394f813c5ef4833e8c4e7ed2f4ee0
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -43,12 +43,12 @@ record:
     @felixxia-oai'
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-10-19-complete-usage-reporting-no-longer-shows-partial-status-or-phantom-unattributed|Complete
-  usage reporting no longer shows partial status or phantom unattributed…]]'
-- '[[Changes/ChatGPT/2026-10-21-you-can-now-use-momo-to-pay-for-chatgpt-go-plus-and-pro-subscriptions-purchased|MoMo
-  payments in Vietnam]]'
+- '[[Changes/ElevenLabs/2026-10-26-2-pricing-model-changes-in-elevenlabs-updates-2026-10-26|2
+  Pricing Model changes in ElevenLabs updates — 2026-10-26]]'
 - '[[Changes/ChatGPT/2026-10-28-eligible-chatgpt-pro-and-business-subscribers-can-activate-promotional-api-credi|API
   credits for eligible ChatGPT Pro and Business plans]]'
+- '[[Changes/Lovable/2026-10-28-get-an-email-before-your-credits-run-out|Get an email
+  before your credits run out]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-10-29-rust-v0-166-0-github-428320524-44f8c24a|codex-cli-2026-10-29-rust-v0-166-0-github-428320524-44f8c24a]]'
 source_type: github_releases
 theme: pricing-model
@@ -93,8 +93,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Pricing Model
 
-- Earlier: 2026-10-28 · ChatGPT · [[Changes/ChatGPT/2026-10-28-eligible-chatgpt-pro-and-business-subscribers-can-activate-promotional-api-credi|API credits for eligible ChatGPT Pro and Business plans]]
-- Later: 2026-11-06 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-11-06-5-pricing-model-changes-in-v1-0-106|5 Pricing Model changes in v1.0.106]]
+- Earlier: 2026-10-28 · Lovable · [[Changes/Lovable/2026-10-28-get-an-email-before-your-credits-run-out|Get an email before your credits run out]]
+- Later: 2026-11-02 · ElevenLabs · [[Changes/ElevenLabs/2026-11-02-3-pricing-model-changes-in-elevenlabs-updates-2026-11-02|3 Pricing Model changes in ElevenLabs updates — 2026-11-02]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 63e8279a1aa6f81742f3355790d9cc4e3f3e6f14340f8f2e9205acd8c83734fe
+machine_hash: b899788bb1e15ddb7a279730749c534dd7e9d7b5c967d6c6ac902841af7b5d1e
 product: claude-code
 product_name: Claude Code
 record:
@@ -89,7 +89,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.207
 ## Nearby in Safety and Privacy
 
 - Earlier: 2026-07-10 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-07-10-5-safety-and-privacy-changes-in-v1-0-70|5 Safety and Privacy changes in v1.0.70]]
-- Later: 2026-07-14 · Claude Code · [[Changes/Claude Code/2026-07-14-3-safety-and-privacy-changes-in-v2-1-210|3 Safety and Privacy changes in v2.1.210]]
+- Later: 2026-07-13 · Lovable · [[Changes/Lovable/2026-07-13-redesigned-settings|Redesigned settings]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

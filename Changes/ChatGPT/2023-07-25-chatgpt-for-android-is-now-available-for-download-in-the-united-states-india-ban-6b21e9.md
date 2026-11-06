@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: expansion
-machine_hash: 6f24fc929187754500682fd6dc08f017fe5d40b31e5863b01d89089bfab2d773
+machine_hash: c318b4daf6a5deb916d70b4d3473cfe358825f2c20ce63acda3bdf2a1a5ce8c2
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -80,7 +80,7 @@ type: change
 ## Nearby in Mobile and Desktop
 
 - Earlier: 2023-07-12 · Aider · [[Changes/Aider/2023-07-12-2-mobile-and-desktop-changes-in-v0-8-3|2 Mobile and Desktop changes in v0.8.3]]
-- Later: 2024-01-04 · Aider · [[Changes/Aider/2024-01-04-prevent-false-auto-commits-on-windows-by-ctoth|Prevent false auto-commits on Windows, by @ctoth]]
+- Later: 2023-09-06 · Ollama · [[Changes/Ollama/2023-09-06-note-cmake-is-required-to-build-dependencies-on-macos-it-can-be-installed-with-b|Note: cmake is required to build dependencies]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

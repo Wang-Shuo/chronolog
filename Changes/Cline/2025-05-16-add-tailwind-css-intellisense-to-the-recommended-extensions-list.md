@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 539a74f7746b51f92953630b3adab9fa55033867b430b92b6f55203b062abe12
+machine_hash: ca0ddc0a2cad7f58706914b17fe6439854aeed6e4f1382fa0213e859cfb98304
 product: cline
 product_name: Cline
 record:
@@ -43,12 +43,12 @@ record:
   title: Add Tailwind CSS IntelliSense to the recommended extensions list
   type: change
 related_changes:
-- '[[Changes/OpenHands/2025-05-12-2-apps-and-integrations-changes-in-0-38-0|2 Apps
-  and Integrations changes in 0.38.0]]'
 - '[[Changes/ChatGPT/2025-05-15-the-github-connector-is-now-available-globally-to-plus-pro-team-users-including|GitHub
   connector for deep research]]'
 - '[[Changes/Cursor/2025-05-15-refreshed-inline-edit-cmd-ctrl-k-with-agent-integration|Refreshed
   Inline Edit (Cmd/Ctrl+K) with Agent integration]]'
+- '[[Changes/Dify/2025-05-15-5-apps-and-integrations-changes-in-1-4-0|5 Apps and Integrations
+  changes in 1.4.0]]'
 source_release: '[[Releases/Cline/cline-2025-05-16-v3-16-0-github-219219393-255497c4|cline-2025-05-16-v3-16-0-github-219219393-255497c4]]'
 source_type: github_releases
 theme: apps-integrations
@@ -78,8 +78,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2025-05-15 · Cursor · [[Changes/Cursor/2025-05-15-refreshed-inline-edit-cmd-ctrl-k-with-agent-integration|Refreshed Inline Edit (Cmd/Ctrl+K) with Agent integration]]
-- Later: 2025-05-22 · Cline · [[Changes/Cline/2025-05-22-add-integration-with-nebius-ai-studio-as-a-new-provider-thanks-aktsvigun|Add integration with Nebius AI Studio as a new provider (Thanks @Aktsvigun!)]]
+- Earlier: 2025-05-15 · Dify · [[Changes/Dify/2025-05-15-5-apps-and-integrations-changes-in-1-4-0|5 Apps and Integrations changes in 1.4.0]]
+- Later: 2025-05-19 · Open WebUI · [[Changes/Open WebUI/2025-05-19-2-apps-and-integrations-changes-in-v0-6-10|2 Apps and Integrations changes in v0.6.10]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

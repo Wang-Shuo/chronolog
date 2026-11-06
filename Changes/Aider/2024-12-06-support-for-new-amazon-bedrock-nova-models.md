@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 9c880a812dd97c75d0425bb406cfbaa16cc9803116e331a551b3bf0d0c7c58af
+machine_hash: c97947d0983821753a46a820087efaa69cd4ba1f792a7a5bdc304714183f8b41
 product: aider
 product_name: Aider
 record:
@@ -42,12 +42,12 @@ record:
   title: Support for new Amazon Bedrock Nova models
   type: change
 related_changes:
-- '[[Changes/Aider/2024-11-21-7-model-support-changes-in-v0-64-0|7 Model Support changes
-  in v0.64.0]]'
-- '[[Changes/Aider/2024-11-26-added-alias-config-to-define-custom-model-aliases-https-aider-chat-docs-config-m|Added
-  --alias config to define custom model…]]'
-- '[[Changes/Aider/2024-12-01-pdf-support-for-sonnet-and-gemini-models|PDF support
-  for Sonnet and Gemini models]]'
+- '[[Changes/Dify/2024-12-03-2-model-support-changes-in-0-13-0|2 Model Support changes
+  in 0.13.0]]'
+- '[[Changes/Ollama/2024-12-04-3-model-support-changes-in-v0-5-0|3 Model Support changes
+  in v0.5.0]]'
+- '[[Changes/Dify/2024-12-05-4-model-support-changes-in-0-13-1|4 Model Support changes
+  in 0.13.1]]'
 source_release: '[[Releases/Aider/aider-2024-12-06-v0-67-0-github-189421051-c32a4de1|aider-2024-12-06-v0-67-0-github-189421051-c32a4de1]]'
 source_type: github_releases
 theme: model-support
@@ -78,8 +78,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2024-12-01 · Aider · [[Changes/Aider/2024-12-01-pdf-support-for-sonnet-and-gemini-models|PDF support for Sonnet and Gemini models]]
-- Later: 2024-12-10 · Aider · [[Changes/Aider/2024-12-10-4-model-support-changes-in-v0-68-0|4 Model Support changes in v0.68.0]]
+- Earlier: 2024-12-05 · Dify · [[Changes/Dify/2024-12-05-4-model-support-changes-in-0-13-1|4 Model Support changes in 0.13.1]]
+- Later: 2024-12-07 · Open WebUI · [[Changes/Open WebUI/2024-12-07-bypass-model-access-control-introduced-the-bypass-model-access-control-environme|🔓 Bypass Model Access Control]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

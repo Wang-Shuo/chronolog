@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 1eae9755c36c4b4f9fc848273e89101a0483ce3f1ab865be2e49c4de3c9d6f85
+machine_hash: 4748bfbc75497b64ddfe9e23c6e18b4e9a2275c594a569c1042f4d480b126c2d
 product: cline
 product_name: Cline
 record:
@@ -83,7 +83,7 @@ type: change
 ## Nearby in Mobile and Desktop
 
 - Earlier: 2025-10-23 · ChatGPT · [[Changes/ChatGPT/2025-10-23-starting-today-project-sharing-is-available-to-all-chatgpt-users-including-for-f-3f946e|Starting today, project sharing is available to all ChatGPT users, including…]]
-- Later: 2025-10-24 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2025-10-24-bundled-sharp-dependency-into-the-cli-package-we-re-one-step-closer-to-implement|Bundled sharp dependency into the CLI package -- we're one step closer…]]
+- Later: 2025-10-23 · v0 · [[Changes/v0/2025-10-23-the-v0-ios-app-is-now-live-on-the-app-store-build-apps-on-the-go-with-the-full-p|v0 iOS App]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

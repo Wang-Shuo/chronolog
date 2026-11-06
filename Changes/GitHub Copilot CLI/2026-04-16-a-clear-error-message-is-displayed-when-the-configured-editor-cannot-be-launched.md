@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 7eda180976bddc48df08725e8c91b01a35a4c6c3c77281e89bbb230dba98bf1b
+machine_hash: 3b749f5dfc902a5006edb90e712bd3a7cd49f2b8877b5c508b5e0ac78dff4922
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -83,7 +83,7 @@ type: change
 ## Nearby in Editor Experience
 
 - Earlier: 2026-04-16 · Claude Code · [[Changes/Claude Code/2026-04-16-transcript-view-footer-now-shows-dump-to-scrollback-and-v-open-in-editor-shortcu|Transcript view footer now shows  (dump to scrollback) and v (open in editor)…]]
-- Later: 2026-04-17 · Claude Code · [[Changes/Claude Code/2026-04-17-remote-control-clients-can-now-query-file-autocomplete-suggestions|Remote Control clients can now query @-file autocomplete suggestions]]
+- Later: 2026-04-16 · Ollama · [[Changes/Ollama/2026-04-16-hermes-and-github-copilot-cli-in-ollama-launch-added-both-integrations-which-can|Hermes and GitHub Copilot CLI in ollama launch. Added both integrations…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

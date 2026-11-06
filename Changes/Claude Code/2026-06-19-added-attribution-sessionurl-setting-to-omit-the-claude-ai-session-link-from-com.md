@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: b596cfa05fb768172187bae039096ada92db731a1e4e3a7acfda1b0c79681d92
+machine_hash: bd96108de90e7e779769acdd07c8be46e713dcbc764863c5802e1534293df041
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,10 +45,10 @@ record:
   title: Added `attribution.sessionUrl` setting to omit the claude.ai session link…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-06-17-added-config-key-value-syntax-to-set-any-setting-from-the-prompt-e-g-config-thin|Added
-  /config key=value syntax to set any setting from the prompt…]]'
 - '[[Changes/Codex CLI/2026-06-18-17-apps-and-integrations-changes-in-rust-v0-141-0|17
   Apps and Integrations changes in rust-v0.141.0]]'
+- '[[Changes/Lovable/2026-06-18-inspect-your-app-s-ai-activity|Inspect your app''s
+  AI activity]]'
 - '[[Changes/Windsurf/2026-06-18-made-mcp-registry-parsing-more-tolerant-of-old-and-inconsistent-schemas|Made
   MCP registry parsing more tolerant of old and inconsistent schemas]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-06-19-v2-1-183-github-341696059-98586912|claude-code-2026-06-19-v2-1-183-github-341696059-98586912]]'
@@ -84,7 +84,7 @@ type: change
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-06-18 · Windsurf · [[Changes/Windsurf/2026-06-18-made-mcp-registry-parsing-more-tolerant-of-old-and-inconsistent-schemas|Made MCP registry parsing more tolerant of old and inconsistent schemas]]
-- Later: 2026-06-22 · Claude Code · [[Changes/Claude Code/2026-06-22-2-apps-and-integrations-changes-in-v2-1-186|2 Apps and Integrations changes in v2.1.186]]
+- Later: 2026-06-19 · Replit · [[Changes/Replit/2026-06-19-integrations|Integrations]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

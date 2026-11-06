@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: 146fa23e24c686713f85901b9902f62407a2123441c3601166293c43dc5460ae
+machine_hash: 0e90432eb3a8c9b434948c25e5499adce53c6a37c02e46d33c4ee5888e778da0
 product: openhands
 product_name: OpenHands
 record:
@@ -84,7 +84,7 @@ type: change
 ## Nearby in Agent Mode
 
 - Earlier: 2025-07-30 · Gemini CLI · [[Changes/Gemini CLI/2025-07-30-6-agent-mode-changes-in-v0-1-15|6 Agent Mode changes in v0.1.15]]
-- Later: 2025-08-02 · Gemini CLI · [[Changes/Gemini CLI/2025-08-02-6-agent-mode-changes-in-v0-1-16|6 Agent Mode changes in v0.1.16]]
+- Later: 2025-08-01 · Replit · [[Changes/Replit/2025-08-01-agent-now-has-access-to-replit-docs|Agent now has access to Replit Docs]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

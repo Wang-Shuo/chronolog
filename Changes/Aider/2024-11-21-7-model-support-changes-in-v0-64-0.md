@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: fd5211bcb97b646475a6bc26b189cbf1000e22aa390fb8200bf9aee6bb649757
+machine_hash: 25999b00fd75207e42da852508b21e72a83798453d242b5a3d22b0dcf83e28d4
 product: aider
 product_name: Aider
 record:
@@ -53,12 +53,12 @@ record:
   title: 7 Model Support changes in v0.64.0
   type: change
 related_changes:
-- '[[Changes/Aider/2024-11-04-4-model-support-changes-in-v0-62-0|4 Model Support changes
-  in v0.62.0]]'
-- '[[Changes/Aider/2024-11-13-web-command-just-adds-the-page-to-the-chat-without-triggering-an-llm-response|/web
-  command just adds the page to the chat, without triggering an LLM response]]'
-- '[[Changes/OpenHands/2024-11-15-add-a-general-utility-that-automatically-converts-function-calling-llm-requests|Add
-  a general utility that automatically converts function-calling LLM requests…]]'
+- '[[Changes/Ollama/2024-11-20-t-lu-3-https-ollama-com-library-tulu3-t-lu-3-is-a-leading-instruction-following|Tülu
+  3((source link) Tülu 3 is a leading instruction…]]'
+- '[[Changes/Open WebUI/2024-11-20-arena-model-access-control-corrected-an-issue-where-arena-model-access-control-s|⚔️
+  Arena Model Access Control]]'
+- '[[Changes/Open WebUI/2024-11-20-3-model-support-changes-in-v0-4-1|3 Model Support
+  changes in v0.4.1]]'
 source_release: '[[Releases/Aider/aider-2024-11-21-v0-64-0-github-186737977-90b8b4cc|aider-2024-11-21-v0-64-0-github-186737977-90b8b4cc]]'
 source_type: github_releases
 theme: model-support
@@ -104,8 +104,8 @@ Source: https://github.com/Aider-AI/aider/releases/tag/v0.64.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2024-11-15 · OpenHands · [[Changes/OpenHands/2024-11-15-add-a-general-utility-that-automatically-converts-function-calling-llm-requests|Add a general utility that automatically converts function-calling LLM requests…]]
-- Later: 2024-11-26 · Aider · [[Changes/Aider/2024-11-26-added-alias-config-to-define-custom-model-aliases-https-aider-chat-docs-config-m|Added --alias config to define custom model…]]
+- Earlier: 2024-11-20 · Open WebUI · [[Changes/Open WebUI/2024-11-20-3-model-support-changes-in-v0-4-1|3 Model Support changes in v0.4.1]]
+- Later: 2024-11-23 · Ollama · [[Changes/Ollama/2024-11-23-marco-o1-https-ollama-com-library-marco-o1-an-open-large-reasoning-model-for-rea|Marco-o1((source link) An open large reasoning model…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

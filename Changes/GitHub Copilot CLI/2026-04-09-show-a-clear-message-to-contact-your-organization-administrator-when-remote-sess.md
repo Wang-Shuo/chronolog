@@ -5,20 +5,20 @@ description: 'GitHub Copilot CLI · 2026-04-09 · Enterprise and Administration:
   a clear message to contact your organization administrator when remote sessions
   are…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2024-03-20-admin-improvements-team-admins-can-now-mark-themselves-as-unpaid-users-and-can-s|Admin
-    improvements: Team admins can now mark themselves as unpaid users and can see…]]'
+  first_in_tracked: '[[Changes/Gemini/2023-05-05-access-for-google-workspace-accounts|Access
+    for Google Workspace accounts]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 750
+  lag_days: 1070
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: fb94346ce923632d87a5b68a8e23ef94f486a31efc4a4111da72a80ba5be46c6
+machine_hash: 517aa69625c1e17d5e6a73dffa4287d7bd883b3b8ae58863848c42c6663ecf5e
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -44,12 +44,12 @@ record:
     sessions…
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-04-02-added-an-enterprise-admin-control-for-disabling-made-with-cursor-code-attributio|Added
-  an Enterprise Admin control for disabling "Made with Cursor" code attribution…]]'
 - '[[Changes/Claude Code/2026-04-04-added-forceremotesettingsrefresh-policy-setting-when-set-the-cli-blocks-startup|Added
   forceRemoteSettingsRefresh policy setting]]'
 - '[[Changes/Claude Code/2026-04-07-changed-default-effort-level-from-medium-to-high-for-api-key-bedrock-vertex-foun|Changed
   default effort level from medium to high for API-key…]]'
+- '[[Changes/Claude/2026-04-09-role-based-access-controls-for-enterprise-plans|Role-based
+  access controls for Enterprise plans]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-04-09-v1-0-22-github-307239074-a988a80d|github-copilot-cli-2026-04-09-v1-0-22-github-307239074-a988a80d]]'
 source_type: github_releases
 theme: enterprise-admin
@@ -85,14 +85,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Enterprise and Administration
 
-- Earlier: 2026-04-07 · Claude Code · [[Changes/Claude Code/2026-04-07-changed-default-effort-level-from-medium-to-high-for-api-key-bedrock-vertex-foun|Changed default effort level from medium to high for API-key…]]
+- Earlier: 2026-04-09 · Claude · [[Changes/Claude/2026-04-09-role-based-access-controls-for-enterprise-plans|Role-based access controls for Enterprise plans]]
 - Later: 2026-04-10 · Claude Code · [[Changes/Claude Code/2026-04-10-added-os-ca-certificate-store-trust-by-default-so-enterprise-tls-proxies-work-wi|Added OS CA certificate store trust by default, so enterprise TLS proxies work…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2024-03-20 · Cursor · [[Changes/Cursor/2024-03-20-admin-improvements-team-admins-can-now-mark-themselves-as-unpaid-users-and-can-s|Admin improvements: Team admins can now mark themselves as unpaid users and can see…]]
+- Earliest same-theme entry in the tracked set: 2023-05-05 · Gemini · [[Changes/Gemini/2023-05-05-access-for-google-workspace-accounts|Access for Google Workspace accounts]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

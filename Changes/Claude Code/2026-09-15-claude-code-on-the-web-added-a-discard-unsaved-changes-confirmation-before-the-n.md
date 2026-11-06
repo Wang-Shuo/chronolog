@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: be138d372619fed9a01895882f7d2f9a9a062d5e4c4f07a56a7b41498d185404
+machine_hash: 8ecaa0ffd778635b2e9cc4008880b825c4fb02ffe536bfbb0772275323881386
 product: claude-code
 product_name: Claude Code
 record:
@@ -50,8 +50,8 @@ record:
     before…'
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-10-added-browser-tab-icons-for-published-artifacts-chosen-by-claude-to-match-each-p|Added
-  browser-tab icons for published artifacts, chosen by Claude to match each page]]'
+- '[[Changes/Lovable/2026-09-10-sync-your-project-with-bitbucket-cloud|Sync your project
+  with Bitbucket Cloud]]'
 - '[[Changes/Claude Code/2026-09-11-3-editor-experience-changes-in-v2-1-269|3 Editor
   Experience changes in v2.1.269]]'
 - '[[Changes/Claude Code/2026-09-14-3-editor-experience-changes-in-v2-1-271|3 Editor

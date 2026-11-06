@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 84aa3945dbb794a84dcd30faf6ae88a0bcffceec93ca6d66eae98cdb8e1c80d7
+machine_hash: 1ea1bef791ad7e7cabc1aeff019f9b0d5caa46907d1512213511528e9c3c3eb1
 product: cline
 product_name: Cline
 record:
@@ -42,10 +42,10 @@ record:
   title: Only show the info banner messages about the right sidebar in VSCode
   type: change
 related_changes:
-- '[[Changes/Windsurf/2025-09-16-made-improvements-to-the-sign-up-onboarding-flow|Made
-  improvements to the sign up onboarding flow]]'
 - '[[Changes/Cline/2025-09-25-2-interface-experience-changes-in-v3-31-0|2 Interface
   Experience changes in v3.31.0]]'
+- '[[Changes/Open WebUI/2025-09-25-4-interface-experience-changes-in-v0-6-31|4 Interface
+  Experience changes in v0.6.31]]'
 - '[[Changes/Codex CLI/2025-09-26-4101-hide-the-status-indicator-when-the-answer-stream-starts-4101|♯4101
   hide the status indicator when the answer stream starts (♯4101)]]'
 source_release: '[[Releases/Cline/cline-2025-09-28-v3-32-1-github-250554515-640a088d|cline-2025-09-28-v3-32-1-github-250554515-640a088d]]'

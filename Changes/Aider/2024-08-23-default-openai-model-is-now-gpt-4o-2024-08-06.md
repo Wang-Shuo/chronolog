@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 3dccaa19d23e144c6aee9fe8de063ef4a1374313e942d17336a063571b797ce3
+machine_hash: 5112db07c21c2f48fba1fa12a5e355ab969b3bab2bcfef84f1bb2771f8561507
 product: aider
 product_name: Aider
 record:
@@ -43,12 +43,12 @@ record:
   title: Default OpenAI model is now `gpt-4o-2024-08-06`
   type: change
 related_changes:
-- '[[Changes/Aider/2024-08-13-infinite-output-for-deepseek-coder-mistral-models-in-addition-to-anthropic-s-mod|Infinite
-  output for DeepSeek Coder, Mistral models in addition to Anthropic''s models]]'
-- '[[Changes/Cline/2024-08-15-adds-support-for-prompt-caching-https-www-anthropic-com-news-prompt-caching-to-r|Adds
-  support for Prompt Caching((source link)]]'
-- '[[Changes/Aider/2024-08-20-prompt-caching-for-anthropic-models-with-cache-prompts|Prompt
-  caching for Anthropic models with --cache-prompts]]'
+- '[[Changes/Ollama/2024-08-20-2-model-support-changes-in-v0-3-7|2 Model Support changes
+  in v0.3.7]]'
+- '[[Changes/Open WebUI/2024-08-21-2-model-support-changes-in-v0-3-15|2 Model Support
+  changes in v0.3.15]]'
+- '[[Changes/Open WebUI/2024-08-21-3-model-support-changes-in-v0-3-14|3 Model Support
+  changes in v0.3.14]]'
 source_release: '[[Releases/Aider/aider-2024-08-23-v0-52-0-github-171697898-902b71ba|aider-2024-08-23-v0-52-0-github-171697898-902b71ba]]'
 source_type: github_releases
 theme: model-support
@@ -79,7 +79,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2024-08-20 · Aider · [[Changes/Aider/2024-08-20-prompt-caching-for-anthropic-models-with-cache-prompts|Prompt caching for Anthropic models with --cache-prompts]]
+- Earlier: 2024-08-21 · Open WebUI · [[Changes/Open WebUI/2024-08-21-3-model-support-changes-in-v0-3-14|3 Model Support changes in v0.3.14]]
 - Later: 2024-08-23 · OpenHands · [[Changes/OpenHands/2024-08-23-enhance-the-llm-class-with-async-support-by-tobitege-in-https-github-com-all-han|Enhance the LLM class with async support]]
 <!-- chronolog:end -->
 

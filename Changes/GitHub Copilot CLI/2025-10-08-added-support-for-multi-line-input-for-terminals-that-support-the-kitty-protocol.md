@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 990ac37532fcbeb4a4ce6f3dd7f63529a313c26c759a4bc73881a8f842b2f334
+machine_hash: bab4159adcbca94549cbde84ddd85416b5623d2bf83546498ad333fdb5c53b28
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -47,10 +47,10 @@ record:
   title: Added support for multi-line input for terminals that support the [Kitty…
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2025-10-06-improved-slash-command-input-by-showing-argument-hints-in-the-input-box|Improved
-  slash command input by showing argument hints in the input box]]'
 - '[[Changes/Gemini CLI/2025-10-07-delete-shell-service-test-ts-and-change-other-tests-to-cover-the-same-features-b|Delete
   shell-service.test.ts and change other tests to cover the same features]]'
+- '[[Changes/Open WebUI/2025-10-07-3-developer-workflow-changes-in-v0-6-33|3 Developer
+  Workflow changes in v0.6.33]]'
 - '[[Changes/Cline/2025-10-08-2-developer-workflow-changes-in-v3-32-7|2 Developer
   Workflow changes in v3.32.7]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2025-10-08-v0-0-337-github-253168640-7d65819d|github-copilot-cli-2025-10-08-v0-0-337-github-253168640-7d65819d]]'

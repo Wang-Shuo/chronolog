@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: a0ae894e223493f23db6292fa35bba60f30132bc8243df1d169d0fbe917a427d
+machine_hash: 8bdcab6cc12693fa9732965222833e06745cec7cfd82a4a0d4782d2a3763176d
 product: claude-code
 product_name: Claude Code
 record:
@@ -57,12 +57,12 @@ record:
   title: 6 Safety and Privacy changes in v2.1.287
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-30-4-safety-and-privacy-changes-in-v2-1-286|4 Safety
-  and Privacy changes in v2.1.286]]'
 - '[[Changes/Codex CLI/2026-09-30-2-safety-and-privacy-changes-in-rust-v0-159-3|2
   Safety and Privacy changes in rust-v0.159.3]]'
 - '[[Changes/GitHub Copilot CLI/2026-09-30-permission-prompts-remain-answerable-after-resuming-interrupted-sessions|Permission
   prompts remain answerable after resuming interrupted sessions]]'
+- '[[Changes/Lovable/2026-09-30-rotate-your-cloud-database-password-from-chat|Rotate
+  your Cloud database password from chat]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-10-01-v2-1-287-github-401174143-9cfdbb87|claude-code-2026-10-01-v2-1-287-github-401174143-9cfdbb87]]'
 source_type: github_releases
 theme: safety-privacy
@@ -115,7 +115,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.287
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Safety and Privacy
 
-- Earlier: 2026-09-30 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-09-30-permission-prompts-remain-answerable-after-resuming-interrupted-sessions|Permission prompts remain answerable after resuming interrupted sessions]]
+- Earlier: 2026-09-30 · Lovable · [[Changes/Lovable/2026-09-30-rotate-your-cloud-database-password-from-chat|Rotate your Cloud database password from chat]]
 - Later: 2026-10-01 · Codex CLI · [[Changes/Codex CLI/2026-10-01-7-safety-and-privacy-changes-in-rust-v0-160-0|7 Safety and Privacy changes in rust-v0.160.0]]
 <!-- chronolog:end -->
 

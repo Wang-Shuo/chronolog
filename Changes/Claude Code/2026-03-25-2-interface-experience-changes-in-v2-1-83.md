@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 61b3ad3b943f55e2ff3b32e03bc1237ccb1a2df694f9f92ccc3a8b0b8b89363b
+machine_hash: cbc5dc2e7a7b6deb77b1f080354d554a51a36a7428110e846b6bad81bfa3ef18
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,10 +45,10 @@ record:
   title: 2 Interface Experience changes in v2.1.83
   type: change
 related_changes:
-- '[[Changes/Cline/2026-03-19-add-feature-tips-tooltip-during-thinking-state|Add feature
-  tips tooltip during thinking state]]'
-- '[[Changes/Codex CLI/2026-03-19-2-interface-experience-changes-in-rust-v0-116-0|2
-  Interface Experience changes in rust-v0.116.0]]'
+- '[[Changes/v0/2026-03-20-improved-git-sync-workflow-with-simplified-pr-menu|Improved
+  git sync workflow with simplified PR menu]]'
+- '[[Changes/v0/2026-03-20-added-element-screenshot-attachment-for-design-mode-element-selection|Added
+  element screenshot attachment for design mode element selection]]'
 - '[[Changes/Gemini CLI/2026-03-24-docs-cli-add-custom-keybinding-documentation-by-scidomino-in-https-github-com-go|docs(cli):
   add custom keybinding documentation]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-03-25-v2-1-83-github-301019202-ba6a8317|claude-code-2026-03-25-v2-1-83-github-301019202-ba6a8317]]'
@@ -90,7 +90,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.83
 ## Nearby in Interface Experience
 
 - Earlier: 2026-03-24 · Gemini CLI · [[Changes/Gemini CLI/2026-03-24-docs-cli-add-custom-keybinding-documentation-by-scidomino-in-https-github-com-go|docs(cli): add custom keybinding documentation]]
-- Later: 2026-03-26 · ChatGPT · [[Changes/ChatGPT/2026-03-26-to-give-you-more-space-to-view-your-most-critical-chats-and-projects-the-sidebar|A simplified sidebar on mobile]]
+- Later: 2026-03-25 · Open WebUI · [[Changes/Open WebUI/2026-03-25-17-interface-experience-changes-in-v0-8-11|17 Interface Experience changes in v0.8.11]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

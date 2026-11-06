@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 78a509fdbd09b3ec053a8c3134396cb1ece04493ffae7aa733f06c47d1956656
+machine_hash: a4b130dded4dc0df287adcbdc46abde69fa65a08b91ac1b5d7eb8695df848b5d
 product: claude-code
 product_name: Claude Code
 record:
@@ -44,11 +44,11 @@ record:
     includes…'
   type: change
 related_changes:
-- '[[Changes/Windsurf/2026-04-29-devin-agent-in-windsurf|Devin Agent in Windsurf]]'
-- '[[Changes/Codex CLI/2026-04-30-19-agent-mode-changes-in-rust-v0-128-0|19 Agent
-  Mode changes in rust-v0.128.0]]'
 - '[[Changes/GitHub Copilot CLI/2026-05-01-3-agent-mode-changes-in-v1-0-40|3 Agent
   Mode changes in v1.0.40]]'
+- '[[Changes/Replit/2026-05-01-create-full-slide-decks-with-agent|Create full Slide
+  Decks with Agent]]'
+- '[[Changes/Replit/2026-05-01-agent|Agent]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-05-04-v2-1-128-github-317391175-a20e13a2|claude-code-2026-05-04-v2-1-128-github-317391175-a20e13a2]]'
 source_type: github_releases
 theme: agent-mode
@@ -82,7 +82,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2026-05-01 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-05-01-3-agent-mode-changes-in-v1-0-40|3 Agent Mode changes in v1.0.40]]
+- Earlier: 2026-05-01 · Replit · [[Changes/Replit/2026-05-01-agent|Agent]]
 - Later: 2026-05-05 · Gemini CLI · [[Changes/Gemini CLI/2026-05-05-feat-core-enhance-shell-command-validation-and-add-core-tools-allowlist-by-galz1|feat(core): enhance shell command validation and add core tools allowlist]]
 <!-- chronolog:end -->
 

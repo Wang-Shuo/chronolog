@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: 267f757798650f2d72bf99d6764ae7783f26578920ae19bc678e18d85c6933fe
+machine_hash: a3dfbe47f63a526377a15c0e601c5cadb5a4e96130de797b206a34acdc714803
 product: cursor
 product_name: Cursor
 record:
@@ -45,8 +45,7 @@ record:
   title: Improved Agent Harness
   type: change
 related_changes:
-- '[[Changes/Windsurf/2025-10-23-support-and-fixes-for-agents-md|Support and fixes
-  for AGENTS.md]]'
+- '[[Changes/ElevenLabs/2025-10-27-agents-cli|Agents CLI]]'
 - '[[Changes/GitHub Copilot CLI/2025-10-28-2-agent-mode-changes-in-v0-0-353|2 Agent
   Mode changes in v0.0.353]]'
 - '[[Changes/Cursor/2025-10-29-browser-ga-1124ce|Browser (GA)]]'

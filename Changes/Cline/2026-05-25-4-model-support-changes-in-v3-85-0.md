@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: ae6c5770489028bacf0f2b7e46c6cd71a89f8ba712830c9e12fbb461d2c66a64
+machine_hash: a6fa40249a2e59651ae11159fbc8f24f8be695e1ed5d33d1a216d07aeb90d692
 product: cline
 product_name: Cline
 record:
@@ -46,8 +46,8 @@ record:
   title: 4 Model Support changes in v3.85.0
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-05-21-18868-add-mitm-hook-config-model-evawong-oai|♯18868
-  Add MITM hook config model @evawong-oai]]'
+- '[[Changes/Lovable/2026-05-21-gemini-3-5-flash-for-ai-features-in-your-app|Gemini
+  3.5 Flash for AI features in your app]]'
 - '[[Changes/Gemini CLI/2026-05-22-2-model-support-changes-in-v0-43-0|2 Model Support
   changes in v0.43.0]]'
 - '[[Changes/GitHub Copilot CLI/2026-05-23-general-purpose-subagents-use-gpt-5-4-or-gpt-5-5-when-available|General-purpose

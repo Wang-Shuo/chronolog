@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: search-browsing
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 286ae6d5e7bfb4a7aa7e93d5987f5a1df7c9c91028b483cb2da6c9bc14831fa1
+machine_hash: 3a215765076877e0841d52d4b95d3ea412d7ef65f846f59b3811c8a9adda5007
 product: cursor
 product_name: Cursor
 record:
@@ -41,12 +41,12 @@ record:
   title: '1.7.20: Web search auto-accept setting'
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2025-09-03-3061-show-loading-state-when-search-results-are-pending|♯3061
-  Show loading state when @ search results are pending]]'
-- '[[Changes/ChatGPT/2025-09-16-we-ve-made-further-improvements-to-search-in-chatgpt-making-results-more-accurat|ChatGPT
-  makes further improvements to search, making results more accurate…]]'
 - '[[Changes/ChatGPT/2025-09-16-shopping-search-is-better-at-detecting-shopping-intent-showing-products-when-you|Shopping:
   Search is better at detecting shopping intent, showing products when you…]]'
+- '[[Changes/Ollama/2025-09-24-2-search-and-browsing-changes-in-v0-12-2|2 Search and
+  Browsing changes in v0.12.2]]'
+- '[[Changes/Open WebUI/2025-09-25-2-search-and-browsing-changes-in-v0-6-31|2 Search
+  and Browsing changes in v0.6.31]]'
 source_release: '[[Releases/Cursor/cursor-2025-09-29-1-7-https-cursor-com-changelog-1-7-0a03c0ae|cursor-2025-09-29-1-7-https-cursor-com-changelog-1-7-0a03c0ae]]'
 source_type: cursor_changelog
 theme: search-browsing
@@ -93,7 +93,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Search and Browsing
 
-- Earlier: 2025-09-16 · ChatGPT · [[Changes/ChatGPT/2025-09-16-shopping-search-is-better-at-detecting-shopping-intent-showing-products-when-you|Shopping: Search is better at detecting shopping intent, showing products when you…]]
+- Earlier: 2025-09-25 · Open WebUI · [[Changes/Open WebUI/2025-09-25-2-search-and-browsing-changes-in-v0-6-31|2 Search and Browsing changes in v0.6.31]]
 - Later: 2025-10-03 · Codex CLI · [[Changes/Codex CLI/2025-10-03-4511-wire-up-web-search-item|♯4511 Wire up web search item]]
 <!-- chronolog:end -->
 

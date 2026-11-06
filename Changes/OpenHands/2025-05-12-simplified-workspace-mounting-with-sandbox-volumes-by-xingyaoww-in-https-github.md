@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 559c5d12cc4099daca9ffd09aff2862a1253fe7f8199d4eb636b45c2d2633edf
+machine_hash: 77c4869599f0b3e2fce75cce42a6a25c26eb80870b7e952edcfd1ce73a3e483c
 product: openhands
 product_name: OpenHands
 record:
@@ -43,12 +43,12 @@ record:
   title: Simplified workspace mounting with SANDBOX_VOLUMES
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2025-03-18-new-ui-for-temporary-chats-we-ve-made-accessing-and-viewing-these-private-conver|New
-  UI for Temporary Chats]]'
-- '[[Changes/OpenHands/2025-03-19-feat-microagents-add-security-microagent-by-h55nick-in-https-github-com-all-hand|feat(microagents):
-  Add security microagent]]'
-- '[[Changes/OpenHands/2025-04-23-enabled-custom-sandbox-for-resolver-by-tetsu-is-in-https-github-com-all-hands-ai|Enabled
-  custom sandbox for resolver]]'
+- '[[Changes/Open WebUI/2025-05-05-7-safety-and-privacy-changes-in-v0-6-6|7 Safety
+  and Privacy changes in v0.6.6]]'
+- "[[Changes/Open WebUI/2025-05-06-tool-server-settings-ui-privacy-restored-prevented-restricted-users-from-accessi|\U0001F50E
+  Tool Server Settings UI Privacy Restored]]"
+- '[[Changes/Replit/2025-05-09-enhanced-enterprise-deployment-privacy-settings|Enhanced
+  enterprise deployment privacy settings]]'
 source_release: '[[Releases/OpenHands/openhands-2025-05-12-0-38-0-github-218087330-c64d64fd|openhands-2025-05-12-0-38-0-github-218087330-c64d64fd]]'
 source_type: github_releases
 theme: safety-privacy
@@ -81,8 +81,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Safety and Privacy
 
-- Earlier: 2025-04-23 · OpenHands · [[Changes/OpenHands/2025-04-23-enabled-custom-sandbox-for-resolver-by-tetsu-is-in-https-github-com-all-hands-ai|Enabled custom sandbox for resolver]]
-- Later: 2025-06-04 · Cursor · [[Changes/Cursor/2025-06-04-team-admins-can-now-disable-privacy-mode|Team admins can now disable Privacy Mode]]
+- Earlier: 2025-05-09 · Replit · [[Changes/Replit/2025-05-09-enhanced-enterprise-deployment-privacy-settings|Enhanced enterprise deployment privacy settings]]
+- Later: 2025-05-15 · Dify · [[Changes/Dify/2025-05-15-chore-upgrade-package-version-to-fix-security-issue-by-iamjoel-in-https-github-c|chore: upgrade package version to fix security issue]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

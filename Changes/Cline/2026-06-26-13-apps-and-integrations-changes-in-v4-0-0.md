@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: fbfc4eeaf9153061720a55d7d8210a50073c93a1b0f0681fbdf7307739262295
+machine_hash: a7cdede69a9343d20fe5ba0253fe56449129deb8bbc2d5196cc9720c9257e505
 product: cline
 product_name: Cline
 record:
@@ -89,12 +89,12 @@ record:
   title: 13 Apps and Integrations changes in v4.0.0
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-06-24-2-apps-and-integrations-changes-in-v1-0-65|2
-  Apps and Integrations changes in v1.0.65]]'
-- '[[Changes/Claude Code/2026-06-25-2-apps-and-integrations-changes-in-v2-1-193|2
-  Apps and Integrations changes in v2.1.193]]'
 - '[[Changes/Codex CLI/2026-06-25-9-apps-and-integrations-changes-in-rust-v0-142-2|9
   Apps and Integrations changes in rust-v0.142.2]]'
+- '[[Changes/Dify/2026-06-25-27-apps-and-integrations-changes-in-1-15-0|27 Apps and
+  Integrations changes in 1.15.0]]'
+- '[[Changes/Ollama/2026-06-25-docs-redesign-docs-landing-and-integrations-overview-by-hoyyeva-in-https-github|docs:
+  redesign docs landing and integrations overview]]'
 source_release: '[[Releases/Cline/cline-2026-06-26-v4-0-0-github-345514931-9953949f|cline-2026-06-26-v4-0-0-github-345514931-9953949f]]'
 source_type: github_releases
 theme: apps-integrations
@@ -155,8 +155,8 @@ Source: https://github.com/cline/cline/releases/tag/v4.0.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-06-25 · Codex CLI · [[Changes/Codex CLI/2026-06-25-9-apps-and-integrations-changes-in-rust-v0-142-2|9 Apps and Integrations changes in rust-v0.142.2]]
-- Later: 2026-06-28 · Cline · [[Changes/Cline/2026-06-28-roll-the-stable-vs-code-extension-back-to-the-pre-sdk-migration-codebase-to-reso|Roll the stable VS Code extension back to the pre-SDK-migration codebase to resolve…]]
+- Earlier: 2026-06-25 · Ollama · [[Changes/Ollama/2026-06-25-docs-redesign-docs-landing-and-integrations-overview-by-hoyyeva-in-https-github|docs: redesign docs landing and integrations overview]]
+- Later: 2026-06-26 · Lovable · [[Changes/Lovable/2026-06-26-app-connectors-klipy-and-logo-dev|App connectors: KLIPY and Logo.dev]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 818e87a886ec74985dd0cf9613a2136fa0103f2eaf42bfd407423e913b148ecc
+machine_hash: fac6f489a37214beade561c5f5421c3ed31b4593c6bb445caa9ecefcbdd4a6ff
 product: claude-code
 product_name: Claude Code
 record:
@@ -123,7 +123,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.268
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-09-10 · ChatGPT · [[Changes/ChatGPT/2026-09-10-the-data-plugin-helps-you-analyze-connected-business-data-in-chatgpt-work-and-co|Data plugin in ChatGPT Work and Codex]]
-- Later: 2026-09-11 · ChatGPT · [[Changes/ChatGPT/2026-09-11-we-re-planning-to-retire-custom-gpts-across-chatgpt-plans-and-provide-a-migratio|Planned custom GPT retirement and migration to plugins]]
+- Later: 2026-09-10 · Dify · [[Changes/Dify/2026-09-10-12-apps-and-integrations-changes-in-1-17-1|12 Apps and Integrations changes in 1.17.1]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

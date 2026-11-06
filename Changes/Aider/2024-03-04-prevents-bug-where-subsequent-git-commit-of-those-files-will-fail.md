@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 098fbdcb32dc292ca436deaf3e31e2d6746cace3d66d1476951021c2b1f78459
+machine_hash: dee4b350914fd8fb0fe8e45727d72da5a24ecc576d615fe1429c7f03e3404e59
 product: aider
 product_name: Aider
 record:
@@ -42,12 +42,12 @@ record:
   title: Prevents bug where subsequent git commit of those files will fail
   type: change
 related_changes:
-- '[[Changes/Aider/2024-02-03-2-developer-workflow-changes-in-v0-23-0|2 Developer
-  Workflow changes in v0.23.0]]'
-- '[[Changes/Aider/2024-02-10-new-web-url-command-which-scrapes-the-url-turns-it-into-fairly-clean-markdown-an|New
-  /web url command which scrapes the url, turns it into fairly clean markdown…]]'
 - '[[Changes/Cursor/2024-02-15-linter-you-can-now-turn-on-an-ai-linter-in-the-more-tab-beside-chat-it-ll-scan-y|Linter:
   You can now turn on an AI linter in the "More" tab beside Chat]]'
+- '[[Changes/Dify/2024-02-19-2-developer-workflow-changes-in-0-5-6|2 Developer Workflow
+  changes in 0.5.6]]'
+- '[[Changes/Dify/2024-02-28-2-developer-workflow-changes-in-0-5-7|2 Developer Workflow
+  changes in 0.5.7]]'
 source_release: '[[Releases/Aider/aider-2024-03-04-v0-25-0-github-144719910-7de50f06|aider-2024-03-04-v0-25-0-github-144719910-7de50f06]]'
 source_type: github_releases
 theme: developer-workflow
@@ -77,8 +77,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2024-02-15 · Cursor · [[Changes/Cursor/2024-02-15-linter-you-can-now-turn-on-an-ai-linter-in-the-more-tab-beside-chat-it-ll-scan-y|Linter: You can now turn on an AI linter in the "More" tab beside Chat]]
-- Later: 2024-03-08 · Aider · [[Changes/Aider/2024-03-08-2-developer-workflow-changes-in-v0-26-0|2 Developer Workflow changes in v0.26.0]]
+- Earlier: 2024-02-28 · Dify · [[Changes/Dify/2024-02-28-2-developer-workflow-changes-in-0-5-7|2 Developer Workflow changes in 0.5.7]]
+- Later: 2024-03-04 · Dify · [[Changes/Dify/2024-03-04-add-logs-for-vdb-migrate-command-by-bowenliang123-in-https-github-com-langgenius|add logs for vdb-migrate command]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: a18646e3270e7501d913714329fd1e7d6ee66b26707bc3ffb6bffa7e6f8467a2
+machine_hash: 2e14d00b27be1e200655ebc0ece43ef154ffc02aca77d0aa6cc172510cc1d580
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -57,12 +57,9 @@ record:
   title: 7 Model Support changes in v1.0.64
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2026-06-18-vertex-ai-model-mapping-fix-by-davidapierce-in-https-github-com-google-gemini-ge|Vertex
-  ai model mapping fix]]'
-- '[[Changes/Claude Code/2026-06-19-added-a-warning-when-the-requested-model-is-deprecated-or-automatically-updated|Added
-  a warning when the requested model is deprecated or automatically updated…]]'
-- '[[Changes/Codex CLI/2026-06-22-3-model-support-changes-in-rust-v0-142-0|3 Model
-  Support changes in rust-v0.142.0]]'
+- '[[Changes/ElevenLabs/2026-06-22-workspaces|Workspaces]]'
+- '[[Changes/ElevenLabs/2026-06-22-music|Music]]'
+- '[[Changes/ElevenLabs/2026-06-22-dubbing|Dubbing]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-06-23-v1-0-64-github-343650012-6d4aa4bd|github-copilot-cli-2026-06-23-v1-0-64-github-343650012-6d4aa4bd]]'
 source_type: github_releases
 theme: model-support
@@ -121,7 +118,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.64
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-06-22 · Codex CLI · [[Changes/Codex CLI/2026-06-22-3-model-support-changes-in-rust-v0-142-0|3 Model Support changes in rust-v0.142.0]]
+- Earlier: 2026-06-22 · ElevenLabs · [[Changes/ElevenLabs/2026-06-22-dubbing|Dubbing]]
 - Later: 2026-06-24 · ChatGPT · [[Changes/ChatGPT/2026-06-24-we-re-updating-gpt-5-5-instant-our-most-used-model-in-chatgpt-to-improve-convers|GPT-5.5 Instant Update]]
 <!-- chronolog:end -->
 

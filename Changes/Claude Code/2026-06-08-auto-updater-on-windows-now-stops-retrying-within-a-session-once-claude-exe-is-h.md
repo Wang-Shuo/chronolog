@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: f730c285448c53550adbebc0f2ca3df62fd4bba78bbf43fec49fd4394fa9eafd
+machine_hash: 95ba302b798e703c825d56d86b4f5abd1d88a8010a6cede7e1dd28d4960d0bc0
 product: claude-code
 product_name: Claude Code
 record:
@@ -44,8 +44,8 @@ record:
   title: Auto-updater on Windows now stops retrying within a session once `claude.exe`…
   type: change
 related_changes:
-- '[[Changes/Windsurf/2026-06-06-hardened-migration-from-windsurf-on-windows-to-preserve-shortcut-icon|Hardened
-  migration from Windsurf on Windows to preserve shortcut icon]]'
+- '[[Changes/Ollama/2026-06-07-hermes-desktop-is-now-available-via-ollama-launch-hermes-desktop-with-native-win|Hermes
+  Desktop is now available via ollama launch hermes-desktop with native…]]'
 - '[[Changes/ChatGPT/2026-06-08-cleaner-edit-message-flow-android-now-makes-it-clearer-when-you-re-editing-a-pre|Cleaner
   edit-message flow]]'
 - '[[Changes/ChatGPT/2026-06-08-immediate-image-previews-after-sending-when-you-upload-an-image-on-ios-chatgpt-u|Immediate

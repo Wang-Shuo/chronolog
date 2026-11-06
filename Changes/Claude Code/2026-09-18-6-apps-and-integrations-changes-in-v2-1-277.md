@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 1b4b4dac5d11e7c552143680bfb4bc9c6992ace51d57ffd838600d69fc63df7c
+machine_hash: d27b8b2a7d74f912cd293c59a00bea7d4e081d6bece58d845508527865a5d55a
 product: claude-code
 product_name: Claude Code
 record:
@@ -58,12 +58,12 @@ record:
   title: 6 Apps and Integrations changes in v2.1.277
   type: change
 related_changes:
-- '[[Changes/Cline/2026-09-17-terminal-commands-that-succeed-without-printing-anything-git-add-a-on-a-clean-tr|Terminal
-  commands that succeed without printing anything…]]'
 - '[[Changes/Codex CLI/2026-09-17-24-apps-and-integrations-changes-in-rust-v0-155-0|24
   Apps and Integrations changes in rust-v0.155.0]]'
 - '[[Changes/GitHub Copilot CLI/2026-09-17-resuming-an-active-session-without-plugin-directory-discovery-or-working-directo|Resuming
   an active session without plugin-directory, discovery, or working-directory…]]'
+- '[[Changes/Lovable/2026-09-17-connect-your-app-to-the-lovable-api|Connect your app
+  to the Lovable API]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-18-v2-1-277-github-391616593-06a20f36|claude-code-2026-09-18-v2-1-277-github-391616593-06a20f36]]'
 source_type: github_releases
 theme: apps-integrations
@@ -114,8 +114,8 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.277
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-09-17 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-09-17-resuming-an-active-session-without-plugin-directory-discovery-or-working-directo|Resuming an active session without plugin-directory, discovery, or working-directory…]]
-- Later: 2026-09-21 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-09-21-8-apps-and-integrations-changes-in-v1-0-87|8 Apps and Integrations changes in v1.0.87]]
+- Earlier: 2026-09-17 · Lovable · [[Changes/Lovable/2026-09-17-connect-your-app-to-the-lovable-api|Connect your app to the Lovable API]]
+- Later: 2026-09-21 · ElevenLabs · [[Changes/ElevenLabs/2026-09-21-sdk-releases|SDK releases]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

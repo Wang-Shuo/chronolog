@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 116ec595c8492d0278ba853d308eae21dbeba51e27b8825834de4f869a37551e
+machine_hash: 49c61c3a50d0648feacfc9eae59ff47536386e18b1664f0eb58e8a6a62a3e01c
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -46,8 +46,8 @@ record:
   title: 4 Interface Experience changes in v0.27.0
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-02-02-2-interface-experience-changes-in-rust-v0-94-0|2
-  Interface Experience changes in rust-v0.94.0]]'
+- '[[Changes/Dify/2026-02-03-test-enhance-hittestingpage-tests-with-additional-coverage-for-rendering-and-sta|test:
+  enhance HitTestingPage tests with additional coverage for rendering and state…]]'
 - '[[Changes/GitHub Copilot CLI/2026-02-03-inserting-new-line-with-shift-enter-keybinding-in-vs-code-integrated-terminal|Inserting
   new line with shift+enter keybinding in VS Code integrated terminal]]'
 - '[[Changes/Codex CLI/2026-02-04-10340-session-picker-shows-thread-name-if-set-pap-openai|♯10340

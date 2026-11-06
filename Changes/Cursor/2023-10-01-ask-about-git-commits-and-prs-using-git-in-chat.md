@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: b7d699c5cda13abbe1e4a099f8e85d3795544dac2bd4099ba7fc13348c5f1b0a
+machine_hash: 6b0fe96a98708b6fe211b379c0de9d04a4cdf111a2fd2b2ef5d2119bc113e2f7
 product: cursor
 product_name: Cursor
 record:
@@ -42,10 +42,10 @@ record:
   title: Ask about git commits and PRs using @git in chat!
   type: change
 related_changes:
-- '[[Changes/Cursor/2023-09-05-ships-with-cursor-python-a-language-server-fork-of-pyright-built-for-cursor|Cursor-Python
-  LSP]]'
 - '[[Changes/Cursor/2023-09-23-never-lets-your-root-directory-be-in-the-gitignore|gitignore
   and search hotfix]]'
+- "[[Changes/Ollama/2023-09-23-ollama-will-run-on-wsl-2-with-gpu-support|\U0001F916
+  Ollama will run on WSL 2 with GPU support]]"
 - '[[Changes/Aider/2023-09-30-2-developer-workflow-changes-in-v0-14-1|2 Developer
   Workflow changes in v0.14.1]]'
 source_release: '[[Releases/Cursor/cursor-2023-10-01-0-12-0-https-cursor-com-changelog-0-12-0-2555ff30|cursor-2023-10-01-0-12-0-https-cursor-com-changelog-0-12-0-2555ff30]]'

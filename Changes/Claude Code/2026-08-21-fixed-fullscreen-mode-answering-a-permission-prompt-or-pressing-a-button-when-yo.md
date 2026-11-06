@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: fix
-machine_hash: 5eaf4623a3180ed70b7400986cfd2dbf6c418a2693dd55bfe1691006e332b63f
+machine_hash: 9e230a90274e41757b6484c4b76db93814a1d88db09d1cba6abd3ff76d6dc599
 product: claude-code
 product_name: Claude Code
 record:
@@ -55,8 +55,7 @@ record:
     when you…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-08-19-2-safety-and-privacy-changes-in-v2-1-236|2 Safety
-  and Privacy changes in v2.1.236]]'
+- '[[Changes/Lovable/2026-08-19-a-simpler-publish-dialog|A simpler Publish dialog]]'
 - '[[Changes/Claude Code/2026-08-20-3-safety-and-privacy-changes-in-v2-1-238|3 Safety
   and Privacy changes in v2.1.238]]'
 - '[[Changes/Codex CLI/2026-08-20-18-safety-and-privacy-changes-in-rust-v0-149-0|18
@@ -102,7 +101,7 @@ type: change
 ## Nearby in Safety and Privacy
 
 - Earlier: 2026-08-20 · Codex CLI · [[Changes/Codex CLI/2026-08-20-18-safety-and-privacy-changes-in-rust-v0-149-0|18 Safety and Privacy changes in rust-v0.149.0]]
-- Later: 2026-08-25 · Claude Code · [[Changes/Claude Code/2026-08-25-6-safety-and-privacy-changes-in-v2-1-246|6 Safety and Privacy changes in v2.1.246]]
+- Later: 2026-08-21 · Replit · [[Changes/Replit/2026-08-21-run-black-box-pen-tests|Run black-box pen tests]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

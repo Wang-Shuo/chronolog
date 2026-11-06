@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 203186ab740b1158795ae54ceb845c1f12afcc202fbb2983949b351c6dc2507d
+machine_hash: cb16b3bd06c263b28f39f1e2c0e96433c5debf289338a280a8fb887c2c40e777
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -46,10 +46,9 @@ record:
   title: 3 Editor Experience changes in v0.0.336
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2025-10-03-2-editor-experience-changes-in-v0-0-334|2
-  Editor Experience changes in v0.0.334]]'
 - '[[Changes/GitHub Copilot CLI/2025-10-06-3-editor-experience-changes-in-v0-0-335|3
   Editor Experience changes in v0.0.335]]'
+- '[[Changes/Lovable/2025-10-06-a-smoother-build-experience|A smoother build experience]]'
 - '[[Changes/Gemini CLI/2025-10-07-4-editor-experience-changes-in-v0-8-0|4 Editor
   Experience changes in v0.8.0]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2025-10-07-v0-0-336-github-252854806-b7d3047f|github-copilot-cli-2025-10-07-v0-0-336-github-252854806-b7d3047f]]'
@@ -91,7 +90,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v0.0.336
 ## Nearby in Editor Experience
 
 - Earlier: 2025-10-07 · Gemini CLI · [[Changes/Gemini CLI/2025-10-07-4-editor-experience-changes-in-v0-8-0|4 Editor Experience changes in v0.8.0]]
-- Later: 2025-10-08 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2025-10-08-2-editor-experience-changes-in-v0-0-337|2 Editor Experience changes in v0.0.337]]
+- Later: 2025-10-07 · Open WebUI · [[Changes/Open WebUI/2025-10-07-tab-characters-are-now-preserved-when-pasting-code-or-formatted-text-into-the-ch|⌨️ Tab characters are now preserved when pasting code or formatted text…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

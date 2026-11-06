@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 3896d5a1ba6ef0f57dad5832dfdd9a33cdd9cc5b24f1d3eabdf3ba0427358f70
+machine_hash: 3c345943e1c2dc5668b044fa41286a4e92a3ceda7039b398ba3152cca4c3da19
 product: cursor
 product_name: Cursor
 record:
@@ -82,7 +82,7 @@ type: change
 ## Nearby in Developer Workflow
 
 - Earlier: 2026-04-28 · Gemini CLI · [[Changes/Gemini CLI/2026-04-28-3-developer-workflow-changes-in-v0-40-0|3 Developer Workflow changes in v0.40.0]]
-- Later: 2026-04-29 · Windsurf · [[Changes/Windsurf/2026-04-29-devin-for-terminal|Devin for Terminal]]
+- Later: 2026-04-29 · Dify · [[Changes/Dify/2026-04-29-2-developer-workflow-changes-in-1-14-0|2 Developer Workflow changes in 1.14.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

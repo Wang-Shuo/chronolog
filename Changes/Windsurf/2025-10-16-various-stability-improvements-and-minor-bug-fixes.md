@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 1ac0863094bfc3fe1b3d513e8fb12b684f0cb3cb42e1a2d3f250247c2d63645b
+machine_hash: b0eaf1393da6c769150a487c6e6854ca79b99dc01b9770d3f315269cfd4436e8
 product: windsurf
 product_name: Windsurf
 record:
@@ -41,12 +41,12 @@ record:
   title: Various stability improvements and minor bug fixes
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2025-10-01-2-reliability-and-performance-changes-in-v0-7-0|2
-  Reliability and Performance changes in v0.7.0]]'
-- '[[Changes/Gemini CLI/2025-10-07-part-3-6-feat-telemetry-enhance-metrics-with-performance-monitoring-apis-by-elyi|Part
-  3/6 feat(telemetry): enhance metrics with performance monitoring APIs]]'
 - '[[Changes/Windsurf/2025-10-10-various-other-bug-fixes-and-stability-improvements|Various
   other bug fixes and stability improvements]]'
+- '[[Changes/Ollama/2025-10-15-flash-attention-is-now-enabled-by-default-for-gemma-3-improving-performance-and|Flash
+  attention is now enabled by default for Gemma 3, improving performance…]]'
+- "[[Changes/Open WebUI/2025-10-16-various-improvements-were-implemented-across-the-frontend-and-backend-to-enhance|\U0001F504
+  Various improvements were implemented across the frontend and backend to enhance…]]"
 source_release: '[[Releases/Windsurf/windsurf-2025-10-16-v1-12-20-13ea1abb|windsurf-2025-10-16-v1-12-20-13ea1abb]]'
 source_type: windsurf_changelog
 theme: reliability-performance
@@ -75,8 +75,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2025-10-10 · Windsurf · [[Changes/Windsurf/2025-10-10-various-other-bug-fixes-and-stability-improvements|Various other bug fixes and stability improvements]]
-- Later: 2025-10-22 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2025-10-22-made-improvements-to-the-memory-footprint-of-copilot-cli-especially-when-dealing|Made improvements to the memory footprint of Copilot CLI, especially when dealing…]]
+- Earlier: 2025-10-16 · Open WebUI · [[Changes/Open WebUI/2025-10-16-various-improvements-were-implemented-across-the-frontend-and-backend-to-enhance|🔄 Various improvements were implemented across the frontend and backend to enhance…]]
+- Later: 2025-10-22 · Dify · [[Changes/Dify/2025-10-22-5-reliability-and-performance-changes-in-1-9-2|5 Reliability and Performance changes in 1.9.2]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

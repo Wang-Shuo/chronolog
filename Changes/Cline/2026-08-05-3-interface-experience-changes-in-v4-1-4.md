@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 75ca4594635aa518a70225c044bd806a5b8ee6bc1d77733f45053a807f3b59a0
+machine_hash: 8491f042be285c2dba7de2421cc7966453f2c33a9dd374fc2e258fb663115726
 product: cline
 product_name: Cline
 record:
@@ -48,10 +48,10 @@ record:
   title: 3 Interface Experience changes in v4.1.4
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-07-30-4-interface-experience-changes-in-v1-0-76|4
-  Interface Experience changes in v1.0.76]]'
 - '[[Changes/GitHub Copilot CLI/2026-08-03-2-interface-experience-changes-in-v1-0-78|2
   Interface Experience changes in v1.0.78]]'
+- '[[Changes/Lovable/2026-08-03-revise-a-plan-by-highlighting-the-part-you-want-changed|Revise
+  a plan by highlighting the part you want changed]]'
 - '[[Changes/Claude Code/2026-08-04-vscode-added-focus-view-a-chat-menu-toggle-that-hides-tool-activity-behind-an-ex|VSCode
   Added Focus view]]'
 source_release: '[[Releases/Cline/cline-2026-08-05-v4-1-4-github-365446897-8becc947|cline-2026-08-05-v4-1-4-github-365446897-8becc947]]'

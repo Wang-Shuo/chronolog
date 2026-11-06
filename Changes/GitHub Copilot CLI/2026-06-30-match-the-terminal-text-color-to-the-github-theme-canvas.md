@@ -4,20 +4,20 @@ date: '2026-06-30'
 description: 'GitHub Copilot CLI · 2026-06-30 · Files and Data: Match the terminal
   text color to the GitHub theme canvas'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-07-06-we-re-rolling-out-code-interpreter-to-all-chatgpt-plus-users-over-the-next-week-66255e|Code
-    interpreter is now rolling out in beta on web]]'
+  first_in_tracked: '[[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2
+    Files and Data changes in 0.2.2]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1090
+  lag_days: 1132
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 3622f9a62bf96195cba0884eef8688ab6a70872f01c4d3e485648daff493e778
+machine_hash: 11b6bebcb53f7c436c4a581a3c5e6791f9053acf5d0c10cac84f06637b79fa60
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -51,12 +51,12 @@ record:
   title: Match the terminal text color to the GitHub theme canvas
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-06-23-preserve-open-canvas-instances-across-reconnects-and-restarts|Preserve
-  open canvas instances across reconnects and restarts]]'
 - '[[Changes/ChatGPT/2026-06-26-the-personal-finance-experience-in-chatgpt-is-rolling-out-to-plus-users-in-the-u|Personal
   finance in ChatGPT expands to Plus users and Android]]'
 - '[[Changes/Claude Code/2026-06-29-added-clickable-file-attachments-in-chat-cmd-ctrl-click-reveals-the-file-in-find|Added
   clickable file attachments in chat]]'
+- '[[Changes/Open WebUI/2026-06-29-5-files-and-data-changes-in-v0-10-0|5 Files and
+  Data changes in v0.10.0]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-06-30-v1-0-66-github-346845066-af776740|github-copilot-cli-2026-06-30-v1-0-66-github-346845066-af776740]]'
 source_type: github_releases
 theme: file-data
@@ -101,14 +101,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Files and Data
 
-- Earlier: 2026-06-29 · Claude Code · [[Changes/Claude Code/2026-06-29-added-clickable-file-attachments-in-chat-cmd-ctrl-click-reveals-the-file-in-find|Added clickable file attachments in chat]]
+- Earlier: 2026-06-29 · Open WebUI · [[Changes/Open WebUI/2026-06-29-5-files-and-data-changes-in-v0-10-0|5 Files and Data changes in v0.10.0]]
 - Later: 2026-07-06 · OpenHands · [[Changes/OpenHands/2026-07-06-docs-bring-readme-md-over-from-agent-canvas-by-rbren-in-https-github-com-openhan|docs: Bring README.md over from Agent Canvas]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-07-06 · ChatGPT · [[Changes/ChatGPT/2023-07-06-we-re-rolling-out-code-interpreter-to-all-chatgpt-plus-users-over-the-next-week-66255e|Code interpreter is now rolling out in beta on web]]
+- Earliest same-theme entry in the tracked set: 2023-05-25 · Dify · [[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2 Files and Data changes in 0.2.2]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

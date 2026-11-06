@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: a45a9db44ef85eb72d6f4a616b3617121e5b7b175169fec7324aac56a836fd2e
+machine_hash: 4a0cef1b8015c1a2d98162f61f5a48352f09d4359e0cc88db8c22d78820bc44c
 product: cline
 product_name: Cline
 record:
@@ -42,12 +42,12 @@ record:
   title: Big shoutout to @samuel871211 for numerous code quality improvements, refactoring…
   type: change
 related_changes:
-- '[[Changes/Cline/2025-04-06-add-improvements-to-file-mention-searching-for-faster-searching|Add
-  improvements to file mention searching for faster searching]]'
 - '[[Changes/Cline/2025-04-10-add-more-robust-error-tracking-for-users-opted-in-to-telemetry-thank-you-for-hel|Add
   more robust error tracking for users opted in to telemetry…]]'
 - '[[Changes/OpenHands/2025-04-10-improve-the-performance-of-event-retrieval-in-openhands-particularly-for-convers|Improve
   the performance of event retrieval in OpenHands, particularly…]]'
+- '[[Changes/Lovable/2025-04-11-loading-larger-projects-should-now-be-much-faster-since-not-all-messages-are-loa|Loading
+  larger projects should now be much faster since not all messages are loaded…]]'
 source_release: '[[Releases/Cline/cline-2025-04-13-v3-12-1-github-212050930-d87aed1c|cline-2025-04-13-v3-12-1-github-212050930-d87aed1c]]'
 source_type: github_releases
 theme: reliability-performance
@@ -77,8 +77,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2025-04-10 · OpenHands · [[Changes/OpenHands/2025-04-10-improve-the-performance-of-event-retrieval-in-openhands-particularly-for-convers|Improve the performance of event retrieval in OpenHands, particularly…]]
-- Later: 2025-04-27 · Windsurf · [[Changes/Windsurf/2025-04-27-performance-improvements|Performance Improvements]]
+- Earlier: 2025-04-11 · Lovable · [[Changes/Lovable/2025-04-11-loading-larger-projects-should-now-be-much-faster-since-not-all-messages-are-loa|Loading larger projects should now be much faster since not all messages are loaded…]]
+- Later: 2025-04-13 · Open WebUI · [[Changes/Open WebUI/2025-04-13-reindex-knowledge-files-on-demand-admins-can-now-trigger-reindexing-of-all-knowl|🔁 Reindex Knowledge Files on Demand]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

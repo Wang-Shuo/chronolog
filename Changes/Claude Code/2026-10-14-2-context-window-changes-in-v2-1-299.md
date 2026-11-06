@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 307d676ab1ec2305cb7bd3637a64748df0f31308faadc96662455af9445857f4
+machine_hash: 1e37a24549d04e186d41fa3f339bf072b57b9b134f2145b771fe738a8dc0f275
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,8 +45,8 @@ record:
   title: 2 Context Window changes in v2.1.299
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-10-09-context-now-applies-to-new-and-resumed-acp-sessions-instead-of-silently-using-th|--context
-  now applies to new and resumed ACP sessions instead of silently using…]]'
+- '[[Changes/Open WebUI/2026-10-10-5-context-window-changes-in-v0-12-0|5 Context Window
+  changes in v0.12.0]]'
 - '[[Changes/Cline/2026-10-13-2-context-window-changes-in-v4-1-24|2 Context Window
   changes in v4.1.24]]'
 - '[[Changes/Claude Code/2026-10-14-added-cache-creation-5m-tokens-and-cache-creation-1h-tokens-to-the-opentelemetry|Added
@@ -96,7 +96,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.299
 ## Nearby in Context Window
 
 - Earlier: 2026-10-14 · Claude Code · [[Changes/Claude Code/2026-10-14-added-cache-creation-5m-tokens-and-cache-creation-1h-tokens-to-the-opentelemetry|Added cache_creation_5m_tokens and cache_creation_1h_tokens to the OpenTelemetry…]]
-- Later: 2026-10-15 · Claude Code · [[Changes/Claude Code/2026-10-15-improved-switching-to-a-model-with-a-smaller-context-window-a-conversation-too-l|Improved switching to a model with a smaller context window]]
+- Later: 2026-10-14 · Ollama · [[Changes/Ollama/2026-10-14-nvidia-nemotron-3-5-super-https-ollama-com-library-nemotron-3-5-super-is-a-visio|NVIDIA Nemotron 3.5 Super((source link)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

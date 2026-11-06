@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 794d5d13495f9f8b49df6ec5c9e487cd272411de782b20ad419bdfe919f61eb4
+machine_hash: 24af3d19cfd4742586e035d91cec851da04844eeb08c9fc71c16cdfab381cd30
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -44,12 +44,12 @@ record:
   title: 2 Model Support changes in v1.0.13
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-03-26-added-anthropic-default-opus-sonnet-haiku-model-supports-env-vars-to-override-ef|Added
-  ANTHROPIC_DEFAULT{OPUS,SONNET,HAIKU}MODEL_SUPPORTS env vars to override…]]'
-- '[[Changes/Codex CLI/2026-03-26-3-model-support-changes-in-rust-v0-117-0|3 Model
-  Support changes in rust-v0.117.0]]'
-- '[[Changes/GitHub Copilot CLI/2026-03-26-model-display-header-shows-the-active-reasoning-effort-level-e-g-high-next-to-th|Model
-  display header shows the active reasoning effort level (e.g. "(high)") next…]]'
+- '[[Changes/Dify/2026-03-27-7-model-support-changes-in-1-13-3|7 Model Support changes
+  in 1.13.3]]'
+- '[[Changes/Ollama/2026-03-27-ollama-s-app-will-now-no-longer-incorrectly-show-model-is-out-of-date|Ollama''s
+  app will now no longer incorrectly show "model is out of date"]]'
+- "[[Changes/Open WebUI/2026-03-27-admin-model-visibility-administrators-can-now-see-models-even-when-no-access-con|\U0001F451
+  Admin model visibility. Administrators can now see models even when no access…]]"
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-03-30-v1-0-13-github-303313822-db3397e2|github-copilot-cli-2026-03-30-v1-0-13-github-303313822-db3397e2]]'
 source_type: github_releases
 theme: model-support
@@ -89,7 +89,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.13
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-03-26 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-03-26-model-display-header-shows-the-active-reasoning-effort-level-e-g-high-next-to-th|Model display header shows the active reasoning effort level (e.g. "(high)") next…]]
+- Earlier: 2026-03-27 · Open WebUI · [[Changes/Open WebUI/2026-03-27-admin-model-visibility-administrators-can-now-see-models-even-when-no-access-con|👑 Admin model visibility. Administrators can now see models even when no access…]]
 - Later: 2026-03-31 · Codex CLI · [[Changes/Codex CLI/2026-03-31-5-model-support-changes-in-rust-v0-118-0|5 Model Support changes in rust-v0.118.0]]
 <!-- chronolog:end -->
 

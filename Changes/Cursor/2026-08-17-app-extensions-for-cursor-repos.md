@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 887b580ff111f6b43638b41f08ec663f7ef15f3b27bff77696034eb6a7b87c04
+machine_hash: 57ee1cca029524d6ab4d661f2e30d26fd72ef91e11f127e9bdafb8a8a4c2e0c2
 product: cursor
 product_name: Cursor
 record:
@@ -50,10 +50,9 @@ record:
   title: App extensions for Cursor repos
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-08-14-2-apps-and-integrations-changes-in-v2-1-233|2
-  Apps and Integrations changes in v2.1.233]]'
-- '[[Changes/Cline/2026-08-14-everything-in-this-release-lands-through-the-sdk-bundle-so-it-applies-to-windows|Everything
-  in this release lands through the SDK bundle, so it applies to windows…]]'
+- '[[Changes/v0/2026-08-14-4-apps-and-integrations-changes-in-a-redesigned-sidebar-a-richer|4
+  Apps and Integrations changes in A redesigned sidebar, a richer…]]'
+- '[[Changes/Lovable/2026-08-16-lovable-mcp-updates|Lovable MCP updates]]'
 - '[[Changes/Claude Code/2026-08-17-remote-control-signing-this-computer-in-to-a-different-claude-ai-account-or-orga|Remote
   Control: signing this computer in to a different claude.ai account…]]'
 source_release: '[[Releases/Cursor/cursor-2026-08-17-origin-code-hosting-https-cursor-com-changelog-origin-code-hosti-ed3a9195|cursor-2026-08-17-origin-code-hosting-https-cursor-com-changelog-origin-code-hosti-ed3a9195]]'
@@ -91,7 +90,7 @@ type: change
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-08-17 · Claude Code · [[Changes/Claude Code/2026-08-17-remote-control-signing-this-computer-in-to-a-different-claude-ai-account-or-orga|Remote Control: signing this computer in to a different claude.ai account…]]
-- Later: 2026-08-18 · Codex CLI · [[Changes/Codex CLI/2026-08-18-57-apps-and-integrations-changes-in-rust-v0-148-0|57 Apps and Integrations changes in rust-v0.148.0]]
+- Later: 2026-08-17 · ElevenLabs · [[Changes/ElevenLabs/2026-08-17-sdk-releases|SDK Releases]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

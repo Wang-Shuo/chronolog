@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 2e5be6917786d0bf1827a568a9141a9045cb8d94b61252372a588753cd17f6d6
+machine_hash: 743e2b8882df3de4ba74559ae0696dbc247f4578ee1998988d1ac61eab157638
 product: windsurf
 product_name: Windsurf
 record:
@@ -43,11 +43,11 @@ record:
   title: New menu to open previous conversations to quickly switch conversations
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2025-06-03-memory-improvements-are-starting-to-roll-out-to-free-users-in-addition-to-the-sa-a02494|Memory
-  improvements are starting to roll out to Free users]]'
 - '[[Changes/Windsurf/2025-06-03-improvements-to-import-behavior-during-onboarding|Improvements
   to import behavior during onboarding]]'
 - '[[Changes/Cursor/2025-06-04-new-settings-and-dashboard|New Settings and Dashboard]]'
+- "[[Changes/Open WebUI/2025-06-10-tooltip-translation-clarity-improved-translation-and-tooltip-clarity-especially|\U0001F6E0️
+  Tooltip & Translation Clarity]]"
 source_release: '[[Releases/Windsurf/windsurf-2025-06-10-v1-10-1-98f62653|windsurf-2025-06-10-v1-10-1-98f62653]]'
 source_type: windsurf_changelog
 theme: interface-experience
@@ -79,8 +79,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2025-06-04 · Cursor · [[Changes/Cursor/2025-06-04-new-settings-and-dashboard|New Settings and Dashboard]]
-- Later: 2025-06-27 · Aider · [[Changes/Aider/2025-06-27-2-interface-experience-changes-in-v0-85-0|2 Interface Experience changes in v0.85.0]]
+- Earlier: 2025-06-10 · Open WebUI · [[Changes/Open WebUI/2025-06-10-tooltip-translation-clarity-improved-translation-and-tooltip-clarity-especially|🛠️ Tooltip & Translation Clarity]]
+- Later: 2025-06-11 · Dify · [[Changes/Dify/2025-06-11-markdown-rendering-fixes-ensured-abbreviations-display-properly-in-react-markdow|Markdown Rendering Fixes]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 558b8a1a50871cd1fe2cbfddf6f76b382873d9740d030f317fa39090e8470572
+machine_hash: d3bdfd941008902320422298484582def40c8ff5a46dec5ca4b55c7011a0f397
 product: cline
 product_name: Cline
 record:
@@ -43,10 +43,10 @@ record:
   title: Never run a foreign compiled plugin-sandbox bootstrap for a source host
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-08-07-2-safety-and-privacy-changes-in-v2-1-224|2 Safety
-  and Privacy changes in v2.1.224]]'
-- '[[Changes/Codex CLI/2026-08-07-9-safety-and-privacy-changes-in-rust-v0-147-0|9
-  Safety and Privacy changes in rust-v0.147.0]]'
+- '[[Changes/Lovable/2026-08-07-trust-center-for-your-published-app|Trust Center for
+  your published app]]'
+- '[[Changes/Replit/2026-08-07-security-scan-while-you-build|Security scan while you
+  build]]'
 - '[[Changes/Claude Code/2026-08-08-2-safety-and-privacy-changes-in-v2-1-225|2 Safety
   and Privacy changes in v2.1.225]]'
 source_release: '[[Releases/Cline/cline-2026-08-09-v4-1-7-github-367373350-886ff444|cline-2026-08-09-v4-1-7-github-367373350-886ff444]]'

@@ -4,20 +4,20 @@ date: '2026-10-08'
 description: 'Codex CLI · 2026-10-08 · Voice and Audio: 2 changes in 0.162.0 — #50046
   Stabilize Windows voice build cache keys across tool reinstalls @anp-oai'
 diffusion:
-  first_in_tracked: '[[Changes/Aider/2023-08-11-voice-to-code-https-aider-chat-docs-voice-html-support-which-allows-you-to-code|Voice-to-code((source
-    link) support, which allows you…]]'
+  first_in_tracked: '[[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2
+    Voice and Audio changes in 0.3.7]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1154
+  lag_days: 1186
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 6a6162ddfe5375a631ac0853d3dddde6c31127644af54dfbd887494a8c8491d2
+machine_hash: c353d0e2474aabbfd572132767c26b45764e7d995010b724d687462d641839be
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -95,13 +95,13 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.162.0
 ## Nearby in Voice and Audio
 
 - Earlier: 2026-10-07 · Codex CLI · [[Changes/Codex CLI/2026-10-07-4-voice-and-audio-changes-in-rust-v0-161-0|4 Voice and Audio changes in rust-v0.161.0]]
-- Later: 2026-10-14 · Claude Code · [[Changes/Claude Code/2026-10-14-claude-tag-added-support-for-slack-voice-clips-in-claude-in-slack-claude-reads-s|Claude Tag Added support for Slack voice clips in Claude in Slack]]
+- Later: 2026-10-10 · Open WebUI · [[Changes/Open WebUI/2026-10-10-12-voice-and-audio-changes-in-v0-12-0|12 Voice and Audio changes in v0.12.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-08-11 · Aider · [[Changes/Aider/2023-08-11-voice-to-code-https-aider-chat-docs-voice-html-support-which-allows-you-to-code|Voice-to-code((source link) support, which allows you…]]
+- Earliest same-theme entry in the tracked set: 2023-07-10 · Dify · [[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2 Voice and Audio changes in 0.3.7]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

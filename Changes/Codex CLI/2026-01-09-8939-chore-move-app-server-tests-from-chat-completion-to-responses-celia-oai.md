@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: ce67b76bc5ce61d5222a4035a9fcfd728efc2ce752441a6cbd87c25bdc9f5145
+machine_hash: e94939c0a4b715be9074cb3fe13060ca8eeadbabd20254df0e3b34fe32696564
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -42,12 +42,12 @@ record:
   title: '#8939 [chore] move app server tests from chat completion to responses @celia-oai'
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-01-08-create-new-rules-and-edit-existing-ones-directly-from-the-cli-with-the-rules-com|Rules
-  generation and management]]'
 - '[[Changes/Cursor/2026-01-08-added-rules-to-create-new-rules-and-edit-existing-rules|Added
   /rules to create new rules and edit existing rules]]'
 - '[[Changes/Cursor/2026-01-08-afterfileedit-hook-now-correctly-provides-old-string-with-the-file-s-previous-co|afterFileEdit
   hook now correctly provides old_string with the file''s previous…]]'
+- '[[Changes/v0/2026-01-08-added-an-inline-chat-in-the-new-vs-code-editor|Added an
+  inline chat in the new VS Code editor]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-01-09-rust-v0-80-0-github-275597320-df7b3faf|codex-cli-2026-01-09-rust-v0-80-0-github-275597320-df7b3faf]]'
 source_type: github_releases
 theme: editor-experience
@@ -85,8 +85,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2026-01-08 · Cursor · [[Changes/Cursor/2026-01-08-afterfileedit-hook-now-correctly-provides-old-string-with-the-file-s-previous-co|afterFileEdit hook now correctly provides old_string with the file's previous…]]
-- Later: 2026-01-13 · Claude Code · [[Changes/Claude Code/2026-01-13-2-editor-experience-changes-in-v2-1-6|2 Editor Experience changes in v2.1.6]]
+- Earlier: 2026-01-08 · v0 · [[Changes/v0/2026-01-08-added-an-inline-chat-in-the-new-vs-code-editor|Added an inline chat in the new VS Code editor]]
+- Later: 2026-01-09 · Open WebUI · [[Changes/Open WebUI/2026-01-09-3-editor-experience-changes-in-v0-7-0|3 Editor Experience changes in v0.7.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

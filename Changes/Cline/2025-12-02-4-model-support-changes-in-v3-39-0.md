@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 17d91be68c42c4ab48542285f20842715fef1d79d053ace91b4fd8124c27ddae
+machine_hash: f2b6a1c5bc9f155bba349f54a0229df1764c398d00d8080d8cee53afd0c7ff39
 product: cline
 product_name: Cline
 record:
@@ -47,11 +47,12 @@ record:
   title: 4 Model Support changes in v3.39.0
   type: change
 related_changes:
-- '[[Changes/Windsurf/2025-11-24-claude-opus-4-5|Claude Opus 4.5]]'
-- '[[Changes/Gemini CLI/2025-11-26-6-model-support-changes-in-v0-18-0|6 Model Support
-  changes in v0.18.0]]'
+- '[[Changes/Lovable/2025-11-26-gemini-3-pro-image-generation-support|Gemini 3 Pro
+  & image generation support]]'
 - '[[Changes/Cline/2025-11-27-12-model-support-changes-in-v3-38-3|12 Model Support
   changes in v3.38.3]]'
+- '[[Changes/ElevenLabs/2025-11-27-4-model-support-changes-in-elevenlabs-updates-2025-11-27|4
+  Model Support changes in ElevenLabs updates — 2025-11-27]]'
 source_release: '[[Releases/Cline/cline-2025-12-02-v3-39-0-github-266733488-92b66311|cline-2025-12-02-v3-39-0-github-266733488-92b66311]]'
 source_type: github_releases
 theme: model-support
@@ -93,7 +94,7 @@ Source: https://github.com/cline/cline/releases/tag/v3.39.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2025-11-27 · Cline · [[Changes/Cline/2025-11-27-12-model-support-changes-in-v3-38-3|12 Model Support changes in v3.38.3]]
+- Earlier: 2025-11-27 · ElevenLabs · [[Changes/ElevenLabs/2025-11-27-4-model-support-changes-in-elevenlabs-updates-2025-11-27|4 Model Support changes in ElevenLabs updates — 2025-11-27]]
 - Later: 2025-12-02 · Cline · [[Changes/Cline/2025-12-02-skip-reasoning-details-on-microwave-model-by-canvrno-in-https-github-com-cline-c|Skip reasoning_details on microwave model]]
 <!-- chronolog:end -->
 

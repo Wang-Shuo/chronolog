@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: policy
-machine_hash: 9b90c37e0010775c6c17efc89066bbf7c5306aa931c968c93413e89f53743d0a
+machine_hash: 3c8c0548e1dbacb1ba5de134a2a75ae1e738d82ef2363ca000c12e03bab49998
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -49,12 +49,12 @@ record:
   title: Higher message limits for GPT-4
   type: change
 related_changes:
-- '[[Changes/Aider/2023-07-08-3-model-support-changes-in-v0-8-2|3 Model Support changes
-  in v0.8.2]]'
-- '[[Changes/Aider/2023-07-12-3-model-support-changes-in-v0-8-3|3 Model Support changes
-  in v0.8.3]]'
 - '[[Changes/Aider/2023-07-16-support-for-the-openai-models-in-azure-https-aider-chat-docs-faq-html-azure|Support
   for the OpenAI models in Azure((source link)]]'
+- '[[Changes/Dify/2023-07-17-we-supported-the-latest-anthropic-claude-2-llm|We supported
+  the latest Anthropic Claude-2 LLM!]]'
+- '[[Changes/Dify/2023-07-18-feat-remove-davinci-required-model-from-azure-provider-by-takatost-in-https-gith|feat:
+  remove davinci required model from azure provider]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2023-07-19-higher-message-limits-for-gpt-4-1b971518|chatgpt-2023-07-19-higher-message-limits-for-gpt-4-1b971518]]'
 source_type: chatgpt_changelog
 theme: model-support
@@ -81,8 +81,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2023-07-16 · Aider · [[Changes/Aider/2023-07-16-support-for-the-openai-models-in-azure-https-aider-chat-docs-faq-html-azure|Support for the OpenAI models in Azure((source link)]]
-- Later: 2023-07-22 · Aider · [[Changes/Aider/2023-07-22-benchmarked-https-aider-chat-docs-benchmarks-html-at-64-7-for-gpt-4-diff-no-regr|Benchmarked((source link) at 64.7% for gpt-4/diff…]]
+- Earlier: 2023-07-18 · Dify · [[Changes/Dify/2023-07-18-feat-remove-davinci-required-model-from-azure-provider-by-takatost-in-https-gith|feat: remove davinci required model from azure provider]]
+- Later: 2023-07-21 · Ollama · [[Changes/Ollama/2023-07-21-3-model-support-changes-in-v0-0-11|3 Model Support changes in v0.0.11]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

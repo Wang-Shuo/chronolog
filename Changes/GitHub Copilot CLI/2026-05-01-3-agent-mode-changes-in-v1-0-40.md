@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: ffb9d2629f278b919c1247e42b12b1287d3467cd11798e664ab0de70a103de56
+machine_hash: 8b55029364b9ec5fe86b1e10f416eaf147861755a0393277e840ed31cfe610eb
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -46,8 +46,8 @@ record:
   title: 3 Agent Mode changes in v1.0.40
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-04-29-3-agent-mode-changes-in-build-programmatic-agents|3
-  Agent Mode changes in Build programmatic agents…]]'
+- '[[Changes/Dify/2026-04-29-2-agent-mode-changes-in-1-14-0|2 Agent Mode changes in
+  1.14.0]]'
 - '[[Changes/Windsurf/2026-04-29-devin-agent-in-windsurf|Devin Agent in Windsurf]]'
 - '[[Changes/Codex CLI/2026-04-30-19-agent-mode-changes-in-rust-v0-128-0|19 Agent
   Mode changes in rust-v0.128.0]]'
@@ -96,7 +96,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.40
 ## Nearby in Agent Mode
 
 - Earlier: 2026-04-30 · Codex CLI · [[Changes/Codex CLI/2026-04-30-19-agent-mode-changes-in-rust-v0-128-0|19 Agent Mode changes in rust-v0.128.0]]
-- Later: 2026-05-04 · Claude Code · [[Changes/Claude Code/2026-05-04-auto-mode-when-the-classifier-can-t-evaluate-an-action-the-error-now-includes-a|Auto mode: when the classifier can't evaluate an action, the error now includes…]]
+- Later: 2026-05-01 · Replit · [[Changes/Replit/2026-05-01-create-full-slide-decks-with-agent|Create full Slide Decks with Agent]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

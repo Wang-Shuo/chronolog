@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: bf7ff90ed8a8abb2bd285bf627e511bda50b1da9e5bbc8226bff504d97258101
+machine_hash: 10f76f0a3da010bd922d2186250d595d983ce9ff5aa2fbfb3beed6c316819119
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -98,7 +98,7 @@ type: change
 ## Nearby in Account and Access
 
 - Earlier: 2025-11-04 · Codex CLI · [[Changes/Codex CLI/2025-11-04-6159-fix-typo-in-error-message-for-oauth-login-6159|♯6159 Fix typo in error message for OAuth login (♯6159)]]
-- Later: 2025-11-07 · Codex CLI · [[Changes/Codex CLI/2025-11-07-3-account-and-access-changes-in-rust-v0-56-0|3 Account and Access changes in rust-v0.56.0]]
+- Later: 2025-11-05 · Ollama · [[Changes/Ollama/2025-11-05-ollama-will-now-show-login-instructions-when-switching-to-a-cloud-model-in-inter|Ollama will now show login instructions when switching to a cloud model…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

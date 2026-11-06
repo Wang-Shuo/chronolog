@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: policy
-machine_hash: 7ccb006df17490a15b03d529c981644f1b562806b82aa0aabeae28601b5f3967
+machine_hash: 1ef627a552608e47e0744dd6a04658808d6a4a7f582935262ad510e18077d4d5
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -41,8 +41,8 @@ record:
   title: Plan usage reflects the current billing period after quota resets
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-29-claude-tag-added-direct-messages-with-claude-for-members-on-an-enterprise-plan-s|Claude
-  Tag Added direct messages with Claude for members on an Enterprise plan…]]'
+- '[[Changes/v0/2026-09-29-what-happens-if-i-reach-my-chatgpt-usage-limit|What happens
+  if I reach my ChatGPT usage limit?]]'
 - '[[Changes/Codex CLI/2026-10-01-49079-update-and-centralize-tui-subscription-labels-etraut-openai|♯49079
   Update and centralize TUI subscription labels @etraut-openai]]'
 - '[[Changes/Claude Code/2026-10-02-improved-the-usage-credits-message-shown-to-team-and-enterprise-members-whose-or|Improved
@@ -89,7 +89,7 @@ type: change
 ## Nearby in Pricing Model
 
 - Earlier: 2026-10-02 · Claude Code · [[Changes/Claude Code/2026-10-02-improved-the-usage-credits-message-shown-to-team-and-enterprise-members-whose-or|Improved the /usage-credits message shown to Team and Enterprise members whose…]]
-- Later: 2026-10-09 · Claude Code · [[Changes/Claude Code/2026-10-09-updated-cost-the-status-line-max-budget-usd-and-the-sdk-s-cost-figures-to-price|Updated /cost, the status line, --max-budget-usd and the SDK's cost figures…]]
+- Later: 2026-10-07 · Lovable · [[Changes/Lovable/2026-10-07-set-credit-usage-limits-and-alerts-for-your-workspace|Set credit usage limits and alerts for your workspace]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

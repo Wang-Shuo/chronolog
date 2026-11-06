@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: c6acc526d38cadb306fb46a202208f57a52284f07525eeb5634dd5ffe81eef56
+machine_hash: 11648c4ee7f5ee9a181dec9b8ab14a177f76cce4b3793657cfc896a98b5011c2
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -48,12 +48,9 @@ record:
   title: 5 Agent Mode changes in rust-v0.24.0
   type: change
 related_changes:
-- '[[Changes/Cline/2025-08-21-adding-task-progress-param-to-the-summarize-task-tool-call-by-0xtoshii-in-https|adding
-  task_progress param to the summarize task tool call]]'
-- '[[Changes/Cursor/2025-08-21-you-can-now-start-background-agents-directly-from-linear-delegate-tasks-to-curso|Run
-  Agents in Linear]]'
-- '[[Changes/Cursor/2025-08-21-get-native-os-notifications-when-an-agent-run-finishes-or-when-input-is-required|OS
-  notifications from Agent]]'
+- '[[Changes/ElevenLabs/2025-08-25-sdk-releases|SDK Releases]]'
+- '[[Changes/ElevenLabs/2025-08-25-elevenlabs-agent-testing|ElevenLabs agent Testing]]'
+- '[[Changes/ElevenLabs/2025-08-25-agents-platform|Agents Platform]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2025-08-26-rust-v0-24-0-github-242647588-70fa432e|codex-cli-2025-08-26-rust-v0-24-0-github-242647588-70fa432e]]'
 source_type: github_releases
 theme: agent-mode
@@ -103,8 +100,8 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.24.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2025-08-21 · Cursor · [[Changes/Cursor/2025-08-21-get-native-os-notifications-when-an-agent-run-finishes-or-when-input-is-required|OS notifications from Agent]]
-- Later: 2025-08-29 · Codex CLI · [[Changes/Codex CLI/2025-08-29-2848-chore-try-to-make-it-easier-to-debug-the-flakiness-of-test-shell-command-ap|♯2848 chore: try to make it easier to debug the flakiness…]]
+- Earlier: 2025-08-25 · ElevenLabs · [[Changes/ElevenLabs/2025-08-25-agents-platform|Agents Platform]]
+- Later: 2025-08-27 · Dify · [[Changes/Dify/2025-08-27-5-agent-mode-changes-in-1-8-0|5 Agent Mode changes in 1.8.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: fbbeca4c7adbb2ca5769e69be2bb0912c2245cad823ed25f492d086754f5131c
+machine_hash: 2b1a0d8c437fb008ae66c366ce8cb5922acccdddd8e1d0c0da259e1f15ddecf1
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -54,10 +54,9 @@ record:
   title: 7 Model Support changes in rust-v0.158.0
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-25-3-model-support-changes-in-v2-1-283|3 Model Support
-  changes in v2.1.283]]'
-- '[[Changes/Codex CLI/2026-09-25-8-model-support-changes-in-rust-v0-157-0|8 Model
-  Support changes in rust-v0.157.0]]'
+- '[[Changes/Replit/2026-09-25-build-with-new-openai-and-anthropic-models|Build with
+  new OpenAI and Anthropic models]]'
+- '[[Changes/Claude/2026-09-28-claude-sonnet-5-5-launch|Claude Sonnet 5.5 launch]]'
 - '[[Changes/Claude Code/2026-09-28-6-model-support-changes-in-v2-1-284|6 Model Support
   changes in v2.1.284]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-09-28-rust-v0-158-0-github-397962047-f52f49e7|codex-cli-2026-09-28-rust-v0-158-0-github-397962047-f52f49e7]]'
@@ -117,7 +116,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.158.0
 ## Nearby in Model Support
 
 - Earlier: 2026-09-28 · Claude Code · [[Changes/Claude Code/2026-09-28-6-model-support-changes-in-v2-1-284|6 Model Support changes in v2.1.284]]
-- Later: 2026-09-28 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-09-28-5-model-support-changes-in-v1-0-89|5 Model Support changes in v1.0.89]]
+- Later: 2026-09-28 · ElevenLabs · [[Changes/ElevenLabs/2026-09-28-elevenagents-4d99c8|ElevenAgents]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

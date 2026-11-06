@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 629478504165416eaacc84999b34ab222b8263aa200a25c84c007eac20f7918d
+machine_hash: 0a725b7604c83d186bc94df853e265462685acf556047dc984adeba3a072f7f6
 product: claude-code
 product_name: Claude Code
 record:
@@ -56,12 +56,11 @@ record:
   title: 5 Interface Experience changes in v2.1.280
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-09-17-43846-include-completed-commentary-in-the-copy-picker-copyberry|♯43846
-  Include completed commentary in the /copy picker @copyberry]]'
-- '[[Changes/Claude Code/2026-09-18-vscode-added-a-sign-out-row-to-the-panel-menu-with-logout-in-the-typed-command-m|VSCode
-  Added a Sign out row to the panel menu, with /logout in the typed command menu]]'
+- '[[Changes/Lovable/2026-09-18-redesigned-project-cards|Redesigned project cards]]'
 - '[[Changes/GitHub Copilot CLI/2026-09-21-number-key-selection-in-the-question-dialog-works-for-choices-10-and-beyond|Number-key
   selection in the question dialog works for choices 10 and beyond]]'
+- '[[Changes/Open WebUI/2026-09-21-13-interface-experience-changes-in-v0-11-4|13 Interface
+  Experience changes in v0.11.4]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-22-v2-1-280-github-393879189-1cf5db2b|claude-code-2026-09-22-v2-1-280-github-393879189-1cf5db2b]]'
 source_type: github_releases
 theme: interface-experience
@@ -108,7 +107,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.280
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-09-21 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-09-21-number-key-selection-in-the-question-dialog-works-for-choices-10-and-beyond|Number-key selection in the question dialog works for choices 10 and beyond]]
+- Earlier: 2026-09-21 · Open WebUI · [[Changes/Open WebUI/2026-09-21-13-interface-experience-changes-in-v0-11-4|13 Interface Experience changes in v0.11.4]]
 - Later: 2026-09-22 · Codex CLI · [[Changes/Codex CLI/2026-09-22-32-interface-experience-changes-in-rust-v0-156-0|32 Interface Experience changes in rust-v0.156.0]]
 <!-- chronolog:end -->
 

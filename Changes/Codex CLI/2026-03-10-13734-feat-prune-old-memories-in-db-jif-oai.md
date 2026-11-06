@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: memory
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: ead3dda2ac646ed01719047fbc278f15b3cd9e5fb4164c586a285a7b928b389f
+machine_hash: acebf1f839efa784cade522113f9b66e4c3c4b55eaf7c52d4db1599e28c9d806
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -40,12 +40,12 @@ record:
   title: '#13734 feat: prune old memories in DB @jif-oai'
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-02-28-project-configs-auto-memory-now-shared-across-git-worktrees-of-the-same-reposito|Project
-  configs & auto memory now shared across git worktrees of the same repository]]'
 - '[[Changes/Codex CLI/2026-03-02-6-memory-and-personalization-changes-in-rust-v0-107-0|6
   Memory and Personalization changes in rust-v0.107.0]]'
 - '[[Changes/Codex CLI/2026-03-05-5-memory-and-personalization-changes-in-rust-v0-110-0|5
   Memory and Personalization changes in rust-v0.110.0]]'
+- "[[Changes/Open WebUI/2026-03-08-system-metrics-via-opentelemetry-administrators-can-now-monitor-python-runtime-a|\U0001F4E1
+  System metrics via OpenTelemetry. Administrators can now monitor Python…]]"
 source_release: '[[Releases/Codex CLI/codex-cli-2026-03-10-rust-v0-113-0-github-294999501-e594ccb6|codex-cli-2026-03-10-rust-v0-113-0-github-294999501-e594ccb6]]'
 source_type: github_releases
 theme: memory
@@ -85,7 +85,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Memory and Personalization
 
-- Earlier: 2026-03-05 · Codex CLI · [[Changes/Codex CLI/2026-03-05-5-memory-and-personalization-changes-in-rust-v0-110-0|5 Memory and Personalization changes in rust-v0.110.0]]
+- Earlier: 2026-03-08 · Open WebUI · [[Changes/Open WebUI/2026-03-08-system-metrics-via-opentelemetry-administrators-can-now-monitor-python-runtime-a|📡 System metrics via OpenTelemetry. Administrators can now monitor Python…]]
 - Later: 2026-03-11 · Gemini CLI · [[Changes/Gemini CLI/2026-03-11-feat-implement-slash-command-handling-in-acp-for-memory-init-extensions-and-rest|feat: Implement slash command handling in ACP for /memory,/init,/extensions…]]
 <!-- chronolog:end -->
 

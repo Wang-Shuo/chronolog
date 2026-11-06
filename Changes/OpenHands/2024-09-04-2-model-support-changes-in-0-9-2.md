@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 8f5fb8af9819fd7b8e1dc5cd5a1a7fd8ff94971709718b9473041e1b77f79849
+machine_hash: dd272e6997ff5762157cecbd06ea909ec0c971dbd1033d32310f1766c4c5d843
 product: openhands
 product_name: OpenHands
 record:
@@ -44,10 +44,10 @@ record:
   title: 2 Model Support changes in 0.9.2
   type: change
 related_changes:
-- '[[Changes/Aider/2024-08-28-4-model-support-changes-in-v0-54-0|4 Model Support changes
-  in v0.54.0]]'
-- '[[Changes/OpenHands/2024-08-29-2-model-support-changes-in-0-9-1|2 Model Support
-  changes in 0.9.1]]'
+- '[[Changes/Ollama/2024-08-31-ollama-will-now-show-an-improved-error-message-when-attempting-to-run-unsupporte|Ollama
+  will now show an improved error message when attempting to run unsupported models]]'
+- '[[Changes/Dify/2024-09-03-3-model-support-changes-in-0-7-3|3 Model Support changes
+  in 0.7.3]]'
 - '[[Changes/Aider/2024-09-04-3-model-support-changes-in-v0-55-0|3 Model Support changes
   in v0.55.0]]'
 source_release: '[[Releases/OpenHands/openhands-2024-09-04-0-9-2-github-173488185-b7500959|openhands-2024-09-04-0-9-2-github-173488185-b7500959]]'
@@ -85,7 +85,7 @@ Source: https://github.com/OpenHands/OpenHands/releases/tag/0.9.2
 ## Nearby in Model Support
 
 - Earlier: 2024-09-04 · Aider · [[Changes/Aider/2024-09-04-3-model-support-changes-in-v0-55-0|3 Model Support changes in v0.55.0]]
-- Later: 2024-09-09 · Aider · [[Changes/Aider/2024-09-09-3-model-support-changes-in-v0-56-0|3 Model Support changes in v0.56.0]]
+- Later: 2024-09-05 · DeepSeek API · [[Changes/DeepSeek API/2024-09-05-deepseek-coder-deepseek-chat-upgraded-to-deepseek-v2-5-model|deepseek-coder & deepseek-chat Upgraded to DeepSeek V2.5 Model]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

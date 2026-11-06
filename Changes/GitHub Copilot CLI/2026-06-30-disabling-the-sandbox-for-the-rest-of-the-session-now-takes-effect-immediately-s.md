@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: de060086c346c8c485f3bf22ccaa61dbf57e678740b1678a0b4f3e4946cfdd02
+machine_hash: d352e30b5ce882d492daa13adf323c95886674c56617fee40b7a8bd6be400e10
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -45,12 +45,12 @@ record:
   title: Disabling the sandbox for the rest of the session now takes effect immediately…
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-06-25-2-safety-and-privacy-changes-in-rust-v0-142-2|2
-  Safety and Privacy changes in rust-v0.142.2]]'
-- '[[Changes/Claude Code/2026-06-26-fixed-external-plugins-enabled-only-by-project-claude-settings-json-not-requirin|Fixed
-  external plugins enabled only by project .claude/settings.json not requiring…]]'
 - '[[Changes/Claude Code/2026-06-29-security-claude-mcp-list-get-no-longer-spawn-mcp-json-servers-that-a-repo-self-a|Security:
   claude mcp list/get no longer spawn .mcp.json servers that a repo…]]'
+- '[[Changes/Lovable/2026-06-29-set-a-default-data-hosting-region-for-new-projects|Set
+  a default data hosting region for new projects]]'
+- '[[Changes/Open WebUI/2026-06-29-16-safety-and-privacy-changes-in-v0-10-0|16 Safety
+  and Privacy changes in v0.10.0]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-06-30-v1-0-67-github-347129452-cdc0d10f|github-copilot-cli-2026-06-30-v1-0-67-github-347129452-cdc0d10f]]'
 source_type: github_releases
 theme: safety-privacy
@@ -85,7 +85,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Safety and Privacy
 
-- Earlier: 2026-06-29 · Claude Code · [[Changes/Claude Code/2026-06-29-security-claude-mcp-list-get-no-longer-spawn-mcp-json-servers-that-a-repo-self-a|Security: claude mcp list/get no longer spawn .mcp.json servers that a repo…]]
+- Earlier: 2026-06-29 · Open WebUI · [[Changes/Open WebUI/2026-06-29-16-safety-and-privacy-changes-in-v0-10-0|16 Safety and Privacy changes in v0.10.0]]
 - Later: 2026-06-30 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-06-30-3-safety-and-privacy-changes-in-v1-0-66|3 Safety and Privacy changes in v1.0.66]]
 <!-- chronolog:end -->
 

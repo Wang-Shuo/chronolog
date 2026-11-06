@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: d5dde68e60955e7d4a80414e72e8ff49db65a692bd82db5a5455e96d7e6208d2
+machine_hash: 658d687431b8c019a55cbc0338ba22e86b820699e976b9d466d6bf97a13d2d3c
 product: cline
 product_name: Cline
 record:
@@ -76,7 +76,7 @@ type: change
 ## Nearby in Context Window
 
 - Earlier: 2024-07-28 · Cline · [[Changes/Cline/2024-07-28-claude-now-has-context-about-vscode-s-visible-editors-and-opened-tabs|Claude now has context about vscode's visible editors and opened tabs]]
-- Later: 2024-08-10 · Aider · [[Changes/Aider/2024-08-10-add-read-only-files-to-the-chat-context-with-read-and-read-including-from-outsid|Add read-only files to the chat context with /read and --read, including…]]
+- Later: 2024-08-02 · DeepSeek API · [[Changes/DeepSeek API/2024-08-02-api-launches-context-caching-on-disk-technology|API Launches Context Caching on Disk Technology]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -5,20 +5,20 @@ description: 'ChatGPT · 2025-07-17 · Voice and Audio: The Advanced Voice upgra
   we announced on June 7th are now rolling out to ChatGPT free users too. With the
   same…'
 diffusion:
-  first_in_tracked: '[[Changes/Aider/2023-08-11-voice-to-code-https-aider-chat-docs-voice-html-support-which-allows-you-to-code|Voice-to-code((source
-    link) support, which allows you…]]'
+  first_in_tracked: '[[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2
+    Voice and Audio changes in 0.3.7]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 706
+  lag_days: 738
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: expansion
-machine_hash: 8f149b76ef814ca7766915bcb09405042502ff4fb8113dfb7624d85eadd966c5
+machine_hash: 29aef95a34c24be0cb36d0c87b6ade1d1beb312dfdf573558e7cf6d8f93aa423
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -48,10 +48,9 @@ record:
   title: Updates to Advanced Voice Mode for Free tier users
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2025-06-18-capture-meetings-brainstorms-or-voice-notes-launching-today-for-pro-enterprise-a|Capture
-  meetings, brainstorms, or voice notes]]'
-- '[[Changes/Gemini CLI/2025-07-01-feat-add-audio-and-video-support-to-read-file-by-santhoshkumarcodes-in-https-git|feat:
-  add audio and video support to read_file]]'
+- '[[Changes/ElevenLabs/2025-07-14-text-to-voice-f4167d|Text to Voice]]'
+- "[[Changes/Open WebUI/2025-07-14-audio-mime-type-registration-issues-with-audio-file-content-types-have-been-reso|\U0001F504
+  Audio MIME Type Registration]]"
 - '[[Changes/ChatGPT/2025-07-16-record-live-conversations-like-team-meetings-or-voice-notes-and-turn-those-into|Record
   live conversations like team meetings or voice notes, and turn those…]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-07-17-updates-to-advanced-voice-mode-for-free-tier-users-eeba7562|chatgpt-2025-07-17-updates-to-advanced-voice-mode-for-free-tier-users-eeba7562]]'
@@ -87,7 +86,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-08-11 · Aider · [[Changes/Aider/2023-08-11-voice-to-code-https-aider-chat-docs-voice-html-support-which-allows-you-to-code|Voice-to-code((source link) support, which allows you…]]
+- Earliest same-theme entry in the tracked set: 2023-07-10 · Dify · [[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2 Voice and Audio changes in 0.3.7]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

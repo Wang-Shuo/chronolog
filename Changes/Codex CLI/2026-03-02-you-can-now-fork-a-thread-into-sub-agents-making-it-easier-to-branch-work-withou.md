@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 65428d1715862db7febd062a61d805831580c15c9115a2617d8c2c190d912493
+machine_hash: 9720a882ed5ba4bae5b2dac9880e04817218a998ba435ccc025b8e4e99c77cad
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -88,7 +88,7 @@ type: change
 ## Nearby in Agent Mode
 
 - Earlier: 2026-02-28 · Claude Code · [[Changes/Claude Code/2026-02-28-added-http-hooks-which-can-post-json-to-a-url-and-receive-json-instead-of-runnin|Added HTTP hooks, which can POST JSON to a URL and receive JSON instead of running…]]
-- Later: 2026-03-03 · Cline · [[Changes/Cline/2026-03-03-add-user-agent-header-to-requests-sent-to-the-cline-backend|Add User-Agent header to requests sent to the Cline backend]]
+- Later: 2026-03-02 · ElevenLabs · [[Changes/ElevenLabs/2026-03-02-new-schemas|New Schemas]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 5ff8f891ee366bd5f74b07c81e980e5f297fe99de3770fdcfd59cec108fe526f
+machine_hash: dff786e3489a20fd60722bf4d54cfaae95b893c3955aa618c04b21c69888363e
 product: cline
 product_name: Cline
 record:
@@ -42,8 +42,8 @@ record:
   title: Replace vscode context.globalStoragePath with HostProvider.globalStorageFsPath
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2025-09-18-3857-make-esc-button-work-when-auto-compaction-3857|♯3857
-  Make ESC button work when auto-compaction (♯3857)]]'
+- '[[Changes/Dify/2025-09-22-example-of-no-unstable-context-value-by-asukaminato0721-in-https-github-com-lang|example
+  of no-unstable-context-value]]'
 - '[[Changes/Codex CLI/2025-09-23-4093-chore-enable-auto-compaction-for-gpt-5-codex-4093|♯4093
   chore: enable auto-compaction for gpt-5-codex (♯4093)]]'
 - '[[Changes/Gemini CLI/2025-09-24-2-context-window-changes-in-v0-6-0|2 Context Window
@@ -80,7 +80,7 @@ type: change
 ## Nearby in Context Window
 
 - Earlier: 2025-09-24 · Gemini CLI · [[Changes/Gemini CLI/2025-09-24-2-context-window-changes-in-v0-6-0|2 Context Window changes in v0.6.0]]
-- Later: 2025-09-28 · Cline · [[Changes/Cline/2025-09-28-tasks-directory-replace-uses-of-context-globalstorageuri-with-hostprovider-get-g|Tasks directory Replace uses of context.globalStorageUri…]]
+- Later: 2025-09-25 · Open WebUI · [[Changes/Open WebUI/2025-09-25-rag-query-generation-is-now-skipped-when-all-attached-files-are-set-to-full-cont|🔍 RAG query generation is now skipped when all attached files are set to full…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

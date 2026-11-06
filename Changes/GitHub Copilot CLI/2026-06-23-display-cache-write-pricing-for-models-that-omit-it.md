@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: pricing
-machine_hash: 11cd18cd346953869dc4111cbb6ed11dc440449d57ee1be384ca900c435a0704
+machine_hash: 1bdc657a234a6fcbe912496046d44b80230709a5c8e9f332b019470582e49e14
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -53,10 +53,10 @@ record:
   title: Display cache-write pricing for models that omit it
   type: change
 related_changes:
-- '[[Changes/Windsurf/2026-06-06-simplified-model-picker-pricing-view-for-select-enterprise-customers|Simplified
-  model picker pricing view for select enterprise customers]]'
-- '[[Changes/Codex CLI/2026-06-18-28143-feat-app-server-expose-rate-limit-reset-credits-jayp-oai|♯28143
-  feat(app-server): expose rate-limit reset credits @jayp-oai]]'
+- '[[Changes/Lovable/2026-06-18-one-credit-balance-and-clearer-usage-insights|One
+  credit balance and clearer usage insights]]'
+- '[[Changes/Lovable/2026-06-18-ask-lovable-about-your-workspace-s-credit-usage|Ask
+  Lovable about your workspace’s credit usage]]'
 - '[[Changes/Codex CLI/2026-06-22-usage-can-now-show-and-redeem-earned-usage-limit-reset-credits-with-confirmation|/usage
   can now show and redeem earned usage-limit reset credits…]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-06-23-v1-0-64-github-343650012-6d4aa4bd|github-copilot-cli-2026-06-23-v1-0-64-github-343650012-6d4aa4bd]]'
@@ -104,7 +104,7 @@ type: change
 ## Nearby in Pricing Model
 
 - Earlier: 2026-06-22 · Codex CLI · [[Changes/Codex CLI/2026-06-22-usage-can-now-show-and-redeem-earned-usage-limit-reset-credits-with-confirmation|/usage can now show and redeem earned usage-limit reset credits…]]
-- Later: 2026-06-26 · Cline · [[Changes/Cline/2026-06-26-add-clinepass-to-the-vs-code-extension-including-onboarding-provider-selection-s|Add ClinePass to the VS Code extension, including onboarding, provider selection…]]
+- Later: 2026-06-25 · Dify · [[Changes/Dify/2026-06-25-6-pricing-model-changes-in-1-15-0|6 Pricing Model changes in 1.15.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -5,20 +5,20 @@ description: 'Cline · 2025-01-06 · Automation and Scheduling: There is now a �
   new changes’ button when Cline completes a task, giving you an overview of all the
   changes…'
 diffusion:
-  first_in_tracked: '[[Changes/OpenHands/2024-09-04-better-syntax-error-loop-detection-by-tobitege-in-https-github-com-all-hands-ai|Better
-    syntax error loop detection]]'
+  first_in_tracked: '[[Changes/Dify/2024-01-02-add-data-clean-schedule-by-johnjyong-in-https-github-com-langgenius-dify-pull-18|Add
+    data clean schedule]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 124
+  lag_days: 370
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 60285717676a5514ff41c5a5b8957924346b54b97cd5dbcb2af883bc10710ba4
+machine_hash: e344a15979927624066d35eeb94b8980014023e809a4184afe9882451bfa077b
 product: cline
 product_name: Cline
 record:
@@ -52,8 +52,12 @@ record:
     you…
   type: change
 related_changes:
-- '[[Changes/OpenHands/2024-09-04-better-syntax-error-loop-detection-by-tobitege-in-https-github-com-all-hands-ai|Better
-  syntax error loop detection]]'
+- '[[Changes/Dify/2024-12-03-update-the-scheduler-of-update-tidb-serverless-status-task-to-1-10min-by-johnjyo|update
+  the scheduler of update_tidb_serverless_status_task to 1/10min]]'
+- '[[Changes/Open WebUI/2024-12-25-structured-output-for-ollama-pass-structured-data-output-directly-to-ollama-unlo|✅
+  Structured Output for Ollama]]'
+- "[[Changes/Open WebUI/2025-01-05-action-functions-restored-corrected-an-issue-preventing-action-functions-from-wo|\U0001F6E0️
+  Action Functions Restored]]"
 source_release: '[[Releases/Cline/cline-2025-01-06-v3-1-0-github-193383290-c6ffdbb3|cline-2025-01-06-v3-1-0-github-193383290-c6ffdbb3]]'
 source_type: github_releases
 theme: automation-scheduling
@@ -85,14 +89,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Automation and Scheduling
 
-- Earlier: 2024-09-04 · OpenHands · [[Changes/OpenHands/2024-09-04-better-syntax-error-loop-detection-by-tobitege-in-https-github-com-all-hands-ai|Better syntax error loop detection]]
+- Earlier: 2025-01-05 · Open WebUI · [[Changes/Open WebUI/2025-01-05-action-functions-restored-corrected-an-issue-preventing-action-functions-from-wo|🛠️ Action Functions Restored]]
 - Later: 2025-01-14 · ChatGPT · [[Changes/ChatGPT/2025-01-14-today-we-re-rolling-out-a-beta-version-of-tasks-a-new-way-to-ask-chatgpt-to-do-t-2d33b6|Scheduled tasks in ChatGPT]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2024-09-04 · OpenHands · [[Changes/OpenHands/2024-09-04-better-syntax-error-loop-detection-by-tobitege-in-https-github-com-all-hands-ai|Better syntax error loop detection]]
+- Earliest same-theme entry in the tracked set: 2024-01-02 · Dify · [[Changes/Dify/2024-01-02-add-data-clean-schedule-by-johnjyong-in-https-github-com-langgenius-dify-pull-18|Add data clean schedule]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

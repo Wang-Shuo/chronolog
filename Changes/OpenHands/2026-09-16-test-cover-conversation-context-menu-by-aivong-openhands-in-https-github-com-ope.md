@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 72c45a4361df73cc3656466dabae6bf9e52ab085e89833f28af31350d68bd617
+machine_hash: e311479b8f9a4d8057e707b505da1925bb452db4a951c1220fde36db0bfab4a5
 product: openhands
 product_name: OpenHands
 record:
@@ -51,8 +51,8 @@ record:
   title: 'test: cover conversation context menu'
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-14-improved-the-spinner-status-during-long-thinking-it-now-reads-deep-in-thought-af|Improved
-  the spinner status during long thinking]]'
+- '[[Changes/Ollama/2026-09-14-runaway-repeat-token-detection-now-requires-100-repeat-tokens-for-reduced-false|Runaway
+  repeat token detection now requires 100 repeat tokens for reduced false…]]'
 - '[[Changes/Claude Code/2026-09-15-added-x-claude-code-request-class-x-claude-code-agent-type-x-claude-code-prev-to|Added
   x-claude-code-request-class, x-claude-code-agent-type…]]'
 - '[[Changes/GitHub Copilot CLI/2026-09-16-3-context-window-changes-in-v1-0-85|3 Context

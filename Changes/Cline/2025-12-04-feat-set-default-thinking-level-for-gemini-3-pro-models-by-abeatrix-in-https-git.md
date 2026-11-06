@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 15ce5544f96f48d444640e9a9bc757dc782f48bb3607823defa6fffb427b8572
+machine_hash: 044ae5bfc1ca0b76ddcfcdff94b57738853e7827536b4145b5f4f05e20913948
 product: cline
 product_name: Cline
 record:
@@ -44,10 +44,10 @@ record:
   title: 'feat: set default thinking level for Gemini 3 Pro models'
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2025-12-02-2-model-support-changes-in-rust-v0-64-0|2 Model
-  Support changes in rust-v0.64.0]]'
 - '[[Changes/Gemini CLI/2025-12-02-5-model-support-changes-in-v0-19-0|5 Model Support
   changes in v0.19.0]]'
+- '[[Changes/Open WebUI/2025-12-02-9-model-support-changes-in-v0-6-41|9 Model Support
+  changes in v0.6.41]]'
 - '[[Changes/GitHub Copilot CLI/2025-12-03-add-apply-patch-toolchain-for-openai-codex-models|Add
   apply_patch toolchain for OpenAI Codex models]]'
 source_release: '[[Releases/Cline/cline-2025-12-04-v3-40-0-github-267309290-aef9a8dc|cline-2025-12-04-v3-40-0-github-267309290-aef9a8dc]]'

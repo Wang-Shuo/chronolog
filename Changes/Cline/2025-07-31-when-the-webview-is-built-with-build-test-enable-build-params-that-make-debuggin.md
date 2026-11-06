@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: fa5c1ea8e1a3b9097cbe187abdd99a6fc9031c48699700ed8e08eed6140bbffe
+machine_hash: 9159a74b1f0e343afa736fab0fb8d90de8dbdc925fa5ccd7c1d7408da734462d
 product: cline
 product_name: Cline
 record:
@@ -42,8 +42,8 @@ record:
     debugging…
   type: change
 related_changes:
-- '[[Changes/Cline/2025-07-26-adding-gitbash-terminal-support-and-docs-for-solving-windows-terminal-issues-by|Adding
-  gitbash terminal support and docs for solving windows terminal issues]]'
+- '[[Changes/Dify/2025-07-28-postgresql-healthcheck-enhanced-the-healthcheck-command-to-avoid-fatal-log-error|PostgreSQL
+  Healthcheck: Enhanced the healthcheck command to avoid fatal log…]]'
 - '[[Changes/Cursor/2025-07-29-2-developer-workflow-changes-in-1-3|2 Developer Workflow
   changes in 1.3]]'
 - '[[Changes/Gemini CLI/2025-07-30-18-developer-workflow-changes-in-v0-1-15|18 Developer

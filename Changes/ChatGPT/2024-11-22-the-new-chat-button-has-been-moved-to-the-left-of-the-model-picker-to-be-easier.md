@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 9c35663d49e7f692fc2c673b45a547ddaeae59918e5673493a61e3482d23fc4e
+machine_hash: b6af5886d998e830d1a52cfc6e205bc8fe6c32dfff7db20e4600c2ea044e6343
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -55,10 +55,10 @@ record:
     easier to access
   type: change
 related_changes:
-- '[[Changes/OpenHands/2024-09-04-codeactagent-recovers-upon-a-llm-completion-exception-by-shubhamofbce-in-https-g|CodeActAgent
-  recovers upon a llm completion exception]]'
-- '[[Changes/Aider/2024-09-29-new-settings-for-completion-menu-colors|New settings
-  for completion menu colors]]'
+- '[[Changes/Dify/2024-11-18-enabled-up-down-arrow-key-navigation-for-group-questions-improving-debugging-by|Enabled
+  up/down arrow key navigation for group questions, improving debugging…]]'
+- "[[Changes/Open WebUI/2024-11-19-user-settings-search-quickly-search-for-settings-fields-improving-ease-of-use-an|\U0001F50D
+  User Settings Search]]"
 - '[[Changes/Aider/2024-11-21-improved-model-settings-configuration-https-aider-chat-docs-config-adv-model-set|Improved
   model settings…]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2024-11-22-updates-to-the-chatgpt-web-experience-bf046a2c|chatgpt-2024-11-22-updates-to-the-chatgpt-web-experience-bf046a2c]]'
@@ -95,7 +95,7 @@ type: change
 ## Nearby in Interface Experience
 
 - Earlier: 2024-11-21 · Aider · [[Changes/Aider/2024-11-21-improved-model-settings-configuration-https-aider-chat-docs-config-adv-model-set|Improved model settings…]]
-- Later: 2024-11-24 · Cursor · [[Changes/Cursor/2024-11-24-composer-ui-in-the-sidebar-with-inline-diffs|Composer UI in the sidebar with inline diffs]]
+- Later: 2024-11-23 · Open WebUI · [[Changes/Open WebUI/2024-11-23-mobile-controls-visibility-resolved-an-issue-where-the-controls-button-was-not-d|📱 Mobile Controls Visibility]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

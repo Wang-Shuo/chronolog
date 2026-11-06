@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: 1619a208b4873e1b9cfd66fab00899d33c2d22f5c1b9ae7938e0d1f67aa6d2d3
+machine_hash: 868b504857007d5afd13f52c8f0c6bd9db8a5e5c88398749e0895571a7865b8e
 product: openhands
 product_name: OpenHands
 record:
@@ -46,10 +46,9 @@ record:
     messages…
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-08-06-sending-messages-while-cursor-is-working-now-does-a-better-job-of-steering-the-a|More
-  Agent steerability]]'
-- '[[Changes/Gemini CLI/2025-08-06-6-agent-mode-changes-in-v0-1-18|6 Agent Mode changes
-  in v0.1.18]]'
+- '[[Changes/ElevenLabs/2025-08-11-agents-platform|Agents Platform]]'
+- '[[Changes/Lovable/2025-08-11-agent-mode-is-the-new-default-mode|Agent Mode is the
+  new default mode]]'
 - '[[Changes/Gemini CLI/2025-08-12-feat-agent-introduce-foundational-subagent-architecture-by-abhipatel12-in-https|feat(agent):
   Introduce Foundational Subagent Architecture]]'
 source_release: '[[Releases/OpenHands/openhands-2025-08-13-0-52-0-github-239694560-820ac3ef|openhands-2025-08-13-0-52-0-github-239694560-820ac3ef]]'

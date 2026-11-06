@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 94834c4fad6dac4ff003a1e2b13bd1e57442dbdfcca503a80796de3a7d704f09
+machine_hash: 3cf1e8797c5db0d174a981dd8b813cbb96dcc56f31322e60b2065ab39a38b02a
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -49,12 +49,12 @@ record:
   title: Upload the latest file versions directly from Google Drive, Microsoft OneDrive…
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2024-01-10-the-store-features-a-diverse-range-of-gpts-developed-by-our-partners-and-the-com-71db32|Discover
-  what’s trending in the GPT Store]]'
-- '[[Changes/Cursor/2024-01-15-supports-newer-version-of-python-extension|Supports
-  newer version of python extension]]'
-- '[[Changes/Cursor/2024-01-25-update-0-24-3-0-24-4-adds-ability-to-configure-openai-base-url-fixes-getcursor-c|UPDATE
-  (0.24.3-0.24.4): Adds ability to configure OpenAI base URL, fixes…]]'
+- '[[Changes/Dify/2024-05-02-2-apps-and-integrations-changes-in-0-6-6|2 Apps and Integrations
+  changes in 0.6.6]]'
+- '[[Changes/Dify/2024-05-09-3-apps-and-integrations-changes-in-0-6-7|3 Apps and Integrations
+  changes in 0.6.7]]'
+- '[[Changes/Dify/2024-05-13-4-apps-and-integrations-changes-in-0-6-8|4 Apps and Integrations
+  changes in 0.6.8]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2024-05-16-improvements-to-data-analysis-in-chatgpt-a2e63572|chatgpt-2024-05-16-improvements-to-data-analysis-in-chatgpt-a2e63572]]'
 source_type: chatgpt_changelog
 theme: apps-integrations
@@ -85,8 +85,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2024-01-25 · Cursor · [[Changes/Cursor/2024-01-25-update-0-24-3-0-24-4-adds-ability-to-configure-openai-base-url-fixes-getcursor-c|UPDATE (0.24.3-0.24.4): Adds ability to configure OpenAI base URL, fixes…]]
-- Later: 2024-06-04 · OpenHands · [[Changes/OpenHands/2024-06-04-2-apps-and-integrations-changes-in-0-6-1|2 Apps and Integrations changes in 0.6.1]]
+- Earlier: 2024-05-13 · Dify · [[Changes/Dify/2024-05-13-4-apps-and-integrations-changes-in-0-6-8|4 Apps and Integrations changes in 0.6.8]]
+- Later: 2024-05-27 · Dify · [[Changes/Dify/2024-05-27-you-can-now-publish-your-ai-workflow-in-dify-as-a-reusable-tool-this-allows-for|Publish your AI workflow in Dify as a reusable tool]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

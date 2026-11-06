@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 05eb2a7066c8703eee8a8b6bad8afe99b181b15480e72b6160e2fc01f5cf5dbc
+machine_hash: ee8a1914604913473f8ac8948e8be3baca3fceeeee85bd7f91a5f3615c8f650b
 product: cline
 product_name: Cline
 record:
@@ -42,10 +42,10 @@ record:
   title: Restore reasoning trace visibility in chat and improve the thinking row UX…
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-02-12-add-substring-matching-to-slash-command-autocomplete|Add
-  substring matching to slash command autocomplete]]'
-- '[[Changes/GitHub Copilot CLI/2026-02-12-cli-now-integrates-with-vs-code-use-ide-for-more-information|CLI
-  now integrates with VS Code, use /ide for more information]]'
+- '[[Changes/Ollama/2026-02-12-ctrl-g-will-now-allow-for-editing-text-prompts-in-a-text-editor-when-running-a-m|Ctrl+G
+  will now allow for editing text prompts in a text editor when running a model]]'
+- '[[Changes/Open WebUI/2026-02-12-2-editor-experience-changes-in-v0-8-0|2 Editor
+  Experience changes in v0.8.0]]'
 - '[[Changes/GitHub Copilot CLI/2026-02-14-3-editor-experience-changes-in-v0-0-410|3
   Editor Experience changes in v0.0.410]]'
 source_release: '[[Releases/Cline/cline-2026-02-16-v3-63-0-github-287000672-778ec0e7|cline-2026-02-16-v3-63-0-github-287000672-778ec0e7]]'

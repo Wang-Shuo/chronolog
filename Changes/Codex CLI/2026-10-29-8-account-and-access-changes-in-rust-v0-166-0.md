@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: e62d4dae584af2126ea89021426188f021a311020127be3175757d41a751c77c
+machine_hash: 352c2d92a7902d7ff165e24b4961b95935e4443d91a0a2e748602b6756183733
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -58,12 +58,12 @@ record:
   title: 8 Account and Access changes in rust-v0.166.0
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-26-improved-the-message-shown-when-a-pasted-sign-in-code-is-refused-it-now-says-the|Improved
-  the message shown when a pasted sign-in code is refused]]'
 - '[[Changes/Windsurf/2026-10-26-a-dropped-connection-during-sign-in-no-longer-signs-you-out-devin-desktop-retrie|A
   dropped connection during sign-in no longer signs you out]]'
 - '[[Changes/Codex CLI/2026-10-27-3-account-and-access-changes-in-rust-v0-165-0|3
   Account and Access changes in rust-v0.165.0]]'
+- '[[Changes/Lovable/2026-10-28-set-up-two-factor-authentication-from-the-dashboard-banner|Set
+  up two-factor authentication from the dashboard banner]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-10-29-rust-v0-166-0-github-428320524-44f8c24a|codex-cli-2026-10-29-rust-v0-166-0-github-428320524-44f8c24a]]'
 source_type: github_releases
 theme: account-access
@@ -123,8 +123,8 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.166.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Account and Access
 
-- Earlier: 2026-10-27 · Codex CLI · [[Changes/Codex CLI/2026-10-27-3-account-and-access-changes-in-rust-v0-165-0|3 Account and Access changes in rust-v0.165.0]]
-- Later: 2026-10-30 · Claude Code · [[Changes/Claude Code/2026-10-30-improved-the-cloud-session-error-shown-while-a-request-refused-for-your-claude-a|Improved the cloud session error shown while a request refused for your claude.ai…]]
+- Earlier: 2026-10-28 · Lovable · [[Changes/Lovable/2026-10-28-set-up-two-factor-authentication-from-the-dashboard-banner|Set up two-factor authentication from the dashboard banner]]
+- Later: 2026-10-29 · Lovable · [[Changes/Lovable/2026-10-29-log-in-with-one-click-using-google|Log in with one click using Google]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

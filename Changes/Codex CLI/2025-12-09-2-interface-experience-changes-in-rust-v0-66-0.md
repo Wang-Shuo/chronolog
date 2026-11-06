@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 25b1786e49e041a99646aa70325395811d9241cf874253f4e97724177c6f4596
+machine_hash: f994e33e904528ff690aa6557d8d5e81e0449fad1c034d899b187bfd6a358e91
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -44,12 +44,12 @@ record:
   title: 2 Interface Experience changes in rust-v0.66.0
   type: change
 related_changes:
-- '[[Changes/Cline/2025-12-02-4-interface-experience-changes-in-v3-39-0|4 Interface
-  Experience changes in v3.39.0]]'
-- '[[Changes/Codex CLI/2025-12-02-chore-dedup-unified-exec-waited-rendering-by-jif-oai-in-7256|chore:
-  dedup unified exec "waited" rendering by @jif-oai in ♯7256]]'
+- '[[Changes/v0/2025-12-02-you-can-now-access-project-settings-in-v0-using-the-in-chat-sidebar|Project
+  Settings in the Sidebar]]'
 - '[[Changes/Codex CLI/2025-12-04-3-interface-experience-changes-in-rust-v0-65-0|3
   Interface Experience changes in rust-v0.65.0]]'
+- '[[Changes/v0/2025-12-04-you-can-now-easily-purchase-and-add-custom-domains-to-your-v0-projects-directly|Buy
+  Custom Domains]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2025-12-09-rust-v0-66-0-github-268559734-698ec8f9|codex-cli-2025-12-09-rust-v0-66-0-github-268559734-698ec8f9]]'
 source_type: github_releases
 theme: interface-experience
@@ -92,7 +92,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.66.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2025-12-04 · Codex CLI · [[Changes/Codex CLI/2025-12-04-3-interface-experience-changes-in-rust-v0-65-0|3 Interface Experience changes in rust-v0.65.0]]
+- Earlier: 2025-12-04 · v0 · [[Changes/v0/2025-12-04-you-can-now-easily-purchase-and-add-custom-domains-to-your-v0-projects-directly|Buy Custom Domains]]
 - Later: 2025-12-10 · Codex CLI · [[Changes/Codex CLI/2025-12-10-4-interface-experience-changes-in-rust-v0-69-0|4 Interface Experience changes in rust-v0.69.0]]
 <!-- chronolog:end -->
 

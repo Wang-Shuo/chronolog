@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 08e978bf2a2a98f569d26dd178c6ae42943a215ff7e82256a18c4fb10b0b4d64
+machine_hash: 7212516465897b239314d44bdd05f7958ac89bd75ac9e3fa5bdfe90f17eba4a5
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -45,10 +45,10 @@ record:
   title: 2 Editor Experience changes in v0.0.338
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2025-10-07-4-editor-experience-changes-in-v0-8-0|4 Editor
-  Experience changes in v0.8.0]]'
 - '[[Changes/GitHub Copilot CLI/2025-10-07-3-editor-experience-changes-in-v0-0-336|3
   Editor Experience changes in v0.0.336]]'
+- '[[Changes/Open WebUI/2025-10-07-tab-characters-are-now-preserved-when-pasting-code-or-formatted-text-into-the-ch|⌨️
+  Tab characters are now preserved when pasting code or formatted text…]]'
 - '[[Changes/GitHub Copilot CLI/2025-10-08-2-editor-experience-changes-in-v0-0-337|2
   Editor Experience changes in v0.0.337]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2025-10-09-v0-0-338-github-253482278-f1b036d3|github-copilot-cli-2025-10-09-v0-0-338-github-253482278-f1b036d3]]'

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: aae25bd3e0ffdc5e1fbadf8e8079954f94df3189e15cd873a51c8493f174439b
+machine_hash: 1798ec8c58e767921ae9a47dd9ab8b008468c22436b1bca9d0ab6729d46d46e7
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -47,12 +47,12 @@ record:
     dealing…
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2025-10-07-part-3-6-feat-telemetry-enhance-metrics-with-performance-monitoring-apis-by-elyi|Part
-  3/6 feat(telemetry): enhance metrics with performance monitoring APIs]]'
-- '[[Changes/Windsurf/2025-10-10-various-other-bug-fixes-and-stability-improvements|Various
-  other bug fixes and stability improvements]]'
+- "[[Changes/Open WebUI/2025-10-16-various-improvements-were-implemented-across-the-frontend-and-backend-to-enhance|\U0001F504
+  Various improvements were implemented across the frontend and backend to enhance…]]"
 - '[[Changes/Windsurf/2025-10-16-various-stability-improvements-and-minor-bug-fixes|Various
   stability improvements and minor bug fixes]]'
+- '[[Changes/Dify/2025-10-22-5-reliability-and-performance-changes-in-1-9-2|5 Reliability
+  and Performance changes in 1.9.2]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2025-10-22-v0-0-348-github-256199917-0456772f|github-copilot-cli-2025-10-22-v0-0-348-github-256199917-0456772f]]'
 source_type: github_releases
 theme: reliability-performance
@@ -83,7 +83,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2025-10-16 · Windsurf · [[Changes/Windsurf/2025-10-16-various-stability-improvements-and-minor-bug-fixes|Various stability improvements and minor bug fixes]]
+- Earlier: 2025-10-22 · Dify · [[Changes/Dify/2025-10-22-5-reliability-and-performance-changes-in-1-9-2|5 Reliability and Performance changes in 1.9.2]]
 - Later: 2025-10-23 · ChatGPT · [[Changes/ChatGPT/2025-10-23-group-work-upload-notes-proposals-and-contracts-so-collaborators-can-draft-deliv|Group work: Upload notes, proposals, and contracts so collaborators can draft…]]
 <!-- chronolog:end -->
 

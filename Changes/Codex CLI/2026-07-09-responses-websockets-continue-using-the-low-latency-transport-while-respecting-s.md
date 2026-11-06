@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: e37eaf7e3a09fa264b7b6ce2a5cc5d83e2a8410ede9a2c576b68ab18fb0b04c5
+machine_hash: 00e3f3c30ecbeaeae65b22d418a510a37241c9e6a4960f62eddd7f6000d704c0
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -43,10 +43,10 @@ record:
   title: Responses WebSockets continue using the low-latency transport while respecting…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-07-07-2-reliability-and-performance-changes-in-v2-1-203|2
-  Reliability and Performance changes in v2.1.203]]'
 - '[[Changes/GitHub Copilot CLI/2026-07-07-5-reliability-and-performance-changes-in-v1-0-69|5
   Reliability and Performance changes in v1.0.69]]'
+- '[[Changes/v0/2026-07-07-faster-vm-preview-startup-and-vercel-deploys-trimming-several-seconds-of-setup|Faster
+  VM preview startup and Vercel deploys, trimming several seconds of setup]]'
 - '[[Changes/Claude Code/2026-07-08-auto-update-binary-downloads-now-stream-to-disk-instead-of-buffering-in-memory-c|Auto-update
   binary downloads now stream to disk instead of buffering in memory…]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-07-09-rust-v0-144-0-github-351657410-407edb96|codex-cli-2026-07-09-rust-v0-144-0-github-351657410-407edb96]]'
@@ -92,7 +92,7 @@ type: change
 ## Nearby in Reliability and Performance
 
 - Earlier: 2026-07-08 · Claude Code · [[Changes/Claude Code/2026-07-08-auto-update-binary-downloads-now-stream-to-disk-instead-of-buffering-in-memory-c|Auto-update binary downloads now stream to disk instead of buffering in memory…]]
-- Later: 2026-07-14 · Claude Code · [[Changes/Claude Code/2026-07-14-3-reliability-and-performance-changes-in-v2-1-208|3 Reliability and Performance changes in v2.1.208]]
+- Later: 2026-07-13 · ElevenLabs · [[Changes/ElevenLabs/2026-07-13-packages|Packages]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

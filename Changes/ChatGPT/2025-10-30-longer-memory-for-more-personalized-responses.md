@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: memory
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 7896497ab12bee7795befb80b86d1873621dec76b5c2f698353784deb708d832
+machine_hash: 748b5d01743e34c3bc381de9596ceb7e2004e916064bb95beefd2dca6557dac0
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -41,8 +41,8 @@ record:
   title: Longer memory for more personalized responses
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2025-10-22-part-4-6-feat-telemetry-add-memory-monitor-with-activity-aware-recording-and-tes|Part
-  4/6 feat(telemetry): add memory monitor with activity-aware recording and tests]]'
+- '[[Changes/Claude/2025-10-23-claude-s-memory-on-max-and-pro-plans|Claude’s memory
+  on Max and Pro plans]]'
 - '[[Changes/ChatGPT/2025-10-28-longer-memory-for-more-personalized-responses|Longer
   memory for more personalized responses]]'
 - '[[Changes/ChatGPT/2025-10-29-chatgpt-pulse-is-now-available-on-web-and-rolling-out-to-atlas-for-pro-users-wit|ChatGPT

@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 2db048d1f3d5c59255a47dec34d41b124e5a02d3d59e5ffcd465c119f1138434
+machine_hash: dec7892402fb1e773335a64cdb99e6bc10c9bfef3029a21344d87268569931a1
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -43,12 +43,12 @@ record:
   title: Add support for GPT-5.2
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2025-12-11-today-we-re-releasing-gpt-5-2-the-next-upgrade-to-the-gpt-5-series-gpt-5-2-is-sm|Today,
-  we’re releasing GPT-5.2, the next upgrade to the GPT-5 series]]'
 - '[[Changes/Cline/2025-12-11-11-model-support-changes-in-v3-41-0|11 Model Support
   changes in v3.41.0]]'
 - '[[Changes/Codex CLI/2025-12-11-introducing-gpt-5-2-our-latest-frontier-model-with-improvements-across-knowledge|Introducing
   gpt-5.2 our latest frontier model with improvements across knowledge…]]'
+- '[[Changes/Dify/2025-12-11-9-model-support-changes-in-1-11-0|9 Model Support changes
+  in 1.11.0]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2025-12-11-v0-0-369-github-269660183-56b3d6bc|github-copilot-cli-2025-12-11-v0-0-369-github-269660183-56b3d6bc]]'
 source_type: github_releases
 theme: model-support
@@ -75,7 +75,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2025-12-11 · Codex CLI · [[Changes/Codex CLI/2025-12-11-introducing-gpt-5-2-our-latest-frontier-model-with-improvements-across-knowledge|Introducing gpt-5.2 our latest frontier model with improvements across knowledge…]]
+- Earlier: 2025-12-11 · Dify · [[Changes/Dify/2025-12-11-9-model-support-changes-in-1-11-0|9 Model Support changes in 1.11.0]]
 - Later: 2025-12-11 · Windsurf · [[Changes/Windsurf/2025-12-11-1-12-43-gpt-5-2-changelog-banner|1.12.43 GPT-5.2 changelog banner]]
 <!-- chronolog:end -->
 

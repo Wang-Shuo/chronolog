@@ -4,20 +4,20 @@ date: '2026-03-02'
 description: 'Codex CLI · 2026-03-02 · Voice and Audio: 5 changes in 0.107.0 — Realtime
   voice sessions now let you pick microphone and speaker devices, persist those…'
 diffusion:
-  first_in_tracked: '[[Changes/Aider/2023-08-11-voice-to-code-https-aider-chat-docs-voice-html-support-which-allows-you-to-code|Voice-to-code((source
-    link) support, which allows you…]]'
+  first_in_tracked: '[[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2
+    Voice and Audio changes in 0.3.7]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 934
+  lag_days: 966
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 3898a514caa81480293bd71733e1ac4c574a6d00dea3c19d2d94e00a60ddd0b7
+machine_hash: c28f4f04858690b10abb1f164a9cf5dccc2e9f9397ef3bf960d62d723ed1ca96
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -106,13 +106,13 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.107.0
 ## Nearby in Voice and Audio
 
 - Earlier: 2026-02-27 · ChatGPT · [[Changes/ChatGPT/2026-02-27-improved-dictation-visuals-dictation-now-has-a-clearer-more-streamlined-interfac|Improved dictation visuals]]
-- Later: 2026-03-05 · Claude Code · [[Changes/Claude Code/2026-03-05-3-voice-and-audio-changes-in-v2-1-69|3 Voice and Audio changes in v2.1.69]]
+- Later: 2026-03-02 · ElevenLabs · [[Changes/ElevenLabs/2026-03-02-voices|Voices]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-08-11 · Aider · [[Changes/Aider/2023-08-11-voice-to-code-https-aider-chat-docs-voice-html-support-which-allows-you-to-code|Voice-to-code((source link) support, which allows you…]]
+- Earliest same-theme entry in the tracked set: 2023-07-10 · Dify · [[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2 Voice and Audio changes in 0.3.7]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

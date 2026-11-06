@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 840dfd33be0baabdfbb4cb8def84110db05a0faf9d1c892b27e1dc7c2591d5ac
+machine_hash: 07d3a2e39f323c9137a1f4996e7ef8e40e8faeefd03888d80590ad1fe3e6870a
 product: claude-code
 product_name: Claude Code
 record:
@@ -49,12 +49,11 @@ record:
   title: 3 Safety and Privacy changes in v2.1.51
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2026-02-18-5-safety-and-privacy-changes-in-v0-29-0|5 Safety
-  and Privacy changes in v0.29.0]]'
-- '[[Changes/Claude Code/2026-02-19-3-safety-and-privacy-changes-in-v2-1-49|3 Safety
-  and Privacy changes in v2.1.49]]'
-- '[[Changes/GitHub Copilot CLI/2026-02-21-show-permission-elevation-dialog-when-accepting-a-plan-with-autopilot-to-prevent|Show
-  permission elevation dialog when accepting a plan with autopilot to prevent…]]'
+- '[[Changes/Lovable/2026-02-23-guided-publishing-flow|Guided publishing flow]]'
+- "[[Changes/Open WebUI/2026-02-23-backend-config-null-safety-language-detection-during-app-initialization-no-longe|\U0001F6E1️
+  Backend config null safety. Language detection during app initialization no…]]"
+- '[[Changes/Open WebUI/2026-02-23-3-safety-and-privacy-changes-in-v0-8-4|3 Safety
+  and Privacy changes in v0.8.4]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-02-24-v2-1-51-github-289665343-b4bbdd9c|claude-code-2026-02-24-v2-1-51-github-289665343-b4bbdd9c]]'
 source_type: github_releases
 theme: safety-privacy
@@ -92,7 +91,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.51
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Safety and Privacy
 
-- Earlier: 2026-02-21 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-02-21-show-permission-elevation-dialog-when-accepting-a-plan-with-autopilot-to-prevent|Show permission elevation dialog when accepting a plan with autopilot to prevent…]]
+- Earlier: 2026-02-23 · Open WebUI · [[Changes/Open WebUI/2026-02-23-3-safety-and-privacy-changes-in-v0-8-4|3 Safety and Privacy changes in v0.8.4]]
 - Later: 2026-02-25 · Codex CLI · [[Changes/Codex CLI/2026-02-25-9-safety-and-privacy-changes-in-rust-v0-105-0|9 Safety and Privacy changes in rust-v0.105.0]]
 <!-- chronolog:end -->
 

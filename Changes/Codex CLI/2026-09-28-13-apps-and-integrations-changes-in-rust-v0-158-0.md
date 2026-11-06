@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 37d84f81f553d6f50b534c9370bfba5dd4940b1fcb96592ec93ac54dda335d90
+machine_hash: f821a3b091e4aa2534b183a4e30e1c43a2a49fd8e99cda01be2acc6c9ed83a0c
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -64,10 +64,9 @@ record:
   title: 13 Apps and Integrations changes in rust-v0.158.0
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-09-25-9-apps-and-integrations-changes-in-rust-v0-157-0|9
-  Apps and Integrations changes in rust-v0.157.0]]'
-- '[[Changes/OpenHands/2026-09-25-chore-deps-bump-openhands-extensions-to-0-24-0-by-devinvinson-in-https-github-co|chore(deps):
-  bump @openhands/extensions to 0.24.0]]'
+- '[[Changes/Replit/2026-09-25-create-replit-apps-through-muse|Create Replit apps
+  through Muse]]'
+- '[[Changes/Replit/2026-09-25-build-apps-for-meta-devices|Build apps for Meta devices]]'
 - '[[Changes/Claude Code/2026-09-28-8-apps-and-integrations-changes-in-v2-1-284|8
   Apps and Integrations changes in v2.1.284]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-09-28-rust-v0-158-0-github-397962047-f52f49e7|codex-cli-2026-09-28-rust-v0-158-0-github-397962047-f52f49e7]]'
@@ -139,7 +138,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.158.0
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-09-28 · Claude Code · [[Changes/Claude Code/2026-09-28-8-apps-and-integrations-changes-in-v2-1-284|8 Apps and Integrations changes in v2.1.284]]
-- Later: 2026-09-28 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-09-28-4-apps-and-integrations-changes-in-v1-0-89|4 Apps and Integrations changes in v1.0.89]]
+- Later: 2026-09-28 · ElevenLabs · [[Changes/ElevenLabs/2026-09-28-sdk-releases|SDK releases]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

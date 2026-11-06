@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: e2edfdaf29d8ec8d79d5b767130215dfd0c6c63f2c8c6d33d90cba78771626cf
+machine_hash: f7d8a781a7ef845552c6d5d7318bcc304b3f844225d675d4570e196ab1611881
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -47,12 +47,12 @@ record:
   title: 3 Safety and Privacy changes in v0.42.0
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-05-08-pressing-ctrl-c-while-a-permission-prompt-is-pending-no-longer-causes-the-cli-to|Pressing
-  Ctrl+C while a permission prompt is pending no longer causes the CLI to hang]]'
 - '[[Changes/Claude Code/2026-05-11-fixed-skill-name-permission-rules-the-wildcard-form-now-works-as-a-prefix-match|Fixed
   Skill(name ) permission rules]]'
 - '[[Changes/GitHub Copilot CLI/2026-05-11-sessions-with-extension-permission-prompts-can-be-resumed-without-a-session-file|Sessions
   with extension permission prompts can be resumed without…]]'
+- '[[Changes/Dify/2026-05-12-3-safety-and-privacy-changes-in-1-14-1|3 Safety and Privacy
+  changes in 1.14.1]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2026-05-12-v0-42-0-github-321461714-faa5f8a3|gemini-cli-2026-05-12-v0-42-0-github-321461714-faa5f8a3]]'
 source_type: github_releases
 theme: safety-privacy
@@ -95,8 +95,8 @@ Source: https://github.com/google-gemini/gemini-cli/releases/tag/v0.42.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Safety and Privacy
 
-- Earlier: 2026-05-11 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-05-11-sessions-with-extension-permission-prompts-can-be-resumed-without-a-session-file|Sessions with extension permission prompts can be resumed without…]]
-- Later: 2026-05-13 · Claude Code · [[Changes/Claude Code/2026-05-13-5-safety-and-privacy-changes-in-v2-1-141|5 Safety and Privacy changes in v2.1.141]]
+- Earlier: 2026-05-12 · Dify · [[Changes/Dify/2026-05-12-3-safety-and-privacy-changes-in-1-14-1|3 Safety and Privacy changes in 1.14.1]]
+- Later: 2026-05-12 · v0 · [[Changes/v0/2026-05-12-v0-can-now-run-terminal-commands-in-your-chats-with-a-permission-prompt-before-e|v0 can now run terminal commands in your chats, with a permission prompt before each one]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

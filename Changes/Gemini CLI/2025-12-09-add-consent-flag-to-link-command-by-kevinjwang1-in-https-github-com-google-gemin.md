@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 10cda1ab82d8c213c8e6a0c48a33dd13aebef34f675a9c1f8aa1ea8b445236a0
+machine_hash: 2fd548aa78ca6f6c8e9325a673a9aed1de2180e78b69deb02454eb148fcfd309
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -43,10 +43,10 @@ record:
   title: Add consent flag to Link command
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2025-12-02-9-safety-and-privacy-changes-in-rust-v0-64-0|9 Safety
-  and Privacy changes in rust-v0.64.0]]'
 - '[[Changes/Gemini CLI/2025-12-02-improve-code-coverage-for-cli-src-ui-privacy-package-by-megha1188-in-https-githu|Improve
   code coverage for cli/src/ui/privacy package]]'
+- '[[Changes/Open WebUI/2025-12-02-2-safety-and-privacy-changes-in-v0-6-41|2 Safety
+  and Privacy changes in v0.6.41]]'
 - '[[Changes/Codex CLI/2025-12-09-3-safety-and-privacy-changes-in-rust-v0-66-0|3 Safety
   and Privacy changes in rust-v0.66.0]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2025-12-09-v0-20-0-github-268880631-841db492|gemini-cli-2025-12-09-v0-20-0-github-268880631-841db492]]'

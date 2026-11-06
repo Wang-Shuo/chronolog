@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 4b8166f7d2b696349845436709db39bfb35684837d2ea7e1aadf85e33ae2bd32
+machine_hash: ca3256825240e7dca005c21f7dccc052433f7222a71c4d5ada9b113d5cf1e48c
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -58,10 +58,9 @@ record:
   title: 7 Model Support changes in v0.35.0
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-03-19-2-model-support-changes-in-rust-v0-116-0|2 Model
-  Support changes in rust-v0.116.0]]'
 - '[[Changes/GitHub Copilot CLI/2026-03-20-2-model-support-changes-in-v1-0-10|2 Model
   Support changes in v1.0.10]]'
+- '[[Changes/ElevenLabs/2026-03-23-new-schemas|New Schemas]]'
 - '[[Changes/GitHub Copilot CLI/2026-03-23-ensure-models-appear-in-picker-correctly-display-model-names-where-possible|Ensure
   models appear in picker correctly, display model names where possible]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2026-03-24-v0-35-0-github-300868580-f6f9b621|gemini-cli-2026-03-24-v0-35-0-github-300868580-f6f9b621]]'
@@ -118,7 +117,7 @@ Source: https://github.com/google-gemini/gemini-cli/releases/tag/v0.35.0
 ## Nearby in Model Support
 
 - Earlier: 2026-03-23 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-03-23-ensure-models-appear-in-picker-correctly-display-model-names-where-possible|Ensure models appear in picker correctly, display model names where possible]]
-- Later: 2026-03-26 · Claude Code · [[Changes/Claude Code/2026-03-26-added-anthropic-default-opus-sonnet-haiku-model-supports-env-vars-to-override-ef|Added ANTHROPIC_DEFAULT{OPUS,SONNET,HAIKU}MODEL_SUPPORTS env vars to override…]]
+- Later: 2026-03-25 · Ollama · [[Changes/Ollama/2026-03-25-if-you-have-ollama-installed-any-local-or-cloud-model-from-ollama-can-be-selecte|If you have Ollama installed, any local or cloud model from Ollama can be selected…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

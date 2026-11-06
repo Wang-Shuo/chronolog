@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 4244602cef63ba7520a3d5c0e851c14ed87f5ead5276a7eee8897372dfe76bcb
+machine_hash: 9707bbd3b6d2ddaa1acc0d2e83b70b464996518e3b7023215433056ea44891ec
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -69,12 +69,12 @@ record:
   title: 14 Model Support changes in rust-v0.143.0
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-07-06-we-re-rolling-out-gpt-5-5-instant-mini-in-chatgpt-it-replaces-gpt-5-3-instant-mi|GPT-5.5
-  Instant Mini in ChatGPT]]'
 - '[[Changes/OpenHands/2026-07-06-4-model-support-changes-in-1-9-0|4 Model Support
   changes in 1.9.0]]'
 - '[[Changes/GitHub Copilot CLI/2026-07-07-6-model-support-changes-in-v1-0-69|6 Model
   Support changes in v1.0.69]]'
+- '[[Changes/Lovable/2026-07-07-nano-banana-2-lite-image-model-for-ai-features-in-your-app|Nano
+  Banana 2 Lite image model for AI features in your app]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-07-08-rust-v0-143-0-github-350650561-9eba805c|codex-cli-2026-07-08-rust-v0-143-0-github-350650561-9eba805c]]'
 source_type: github_releases
 theme: model-support
@@ -146,7 +146,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.143.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-07-07 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-07-07-6-model-support-changes-in-v1-0-69|6 Model Support changes in v1.0.69]]
+- Earlier: 2026-07-07 · Lovable · [[Changes/Lovable/2026-07-07-nano-banana-2-lite-image-model-for-ai-features-in-your-app|Nano Banana 2 Lite image model for AI features in your app]]
 - Later: 2026-07-09 · Cline · [[Changes/Cline/2026-07-09-allow-selecting-cline-free-models-on-the-clinepass-provider-organized-into-subsc|Allow selecting Cline free models on the ClinePass provider, organized…]]
 <!-- chronolog:end -->
 

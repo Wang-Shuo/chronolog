@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: memory
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: d9c55e5994f5813b302a884cf091b878e014dfb4b7e6746fe15053d1fd7124e2
+machine_hash: 113c4dbe345bfd52119eadb405925920a3da9c1daf21f156b190bd06b80685c0
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -60,12 +60,11 @@ record:
   title: 9 Memory and Personalization changes in rust-v0.105.0
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-02-17-2-memory-and-personalization-changes-in-v0-0-411|2
-  Memory and Personalization changes in v0.0.411]]'
-- '[[Changes/Gemini CLI/2026-02-18-2-memory-and-personalization-changes-in-v0-29-0|2
-  Memory and Personalization changes in v0.29.0]]'
 - '[[Changes/GitHub Copilot CLI/2026-02-19-2-memory-and-personalization-changes-in-v0-0-412|2
   Memory and Personalization changes in v0.0.412]]'
+- '[[Changes/Replit/2026-02-20-background-memory-compression|Background memory compression]]'
+- '[[Changes/Open WebUI/2026-02-23-2-memory-and-personalization-changes-in-v0-8-4|2
+  Memory and Personalization changes in v0.8.4]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-02-25-rust-v0-105-0-github-290476287-0c72d1ed|codex-cli-2026-02-25-rust-v0-105-0-github-290476287-0c72d1ed]]'
 source_type: github_releases
 theme: memory
@@ -126,7 +125,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.105.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Memory and Personalization
 
-- Earlier: 2026-02-19 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-02-19-2-memory-and-personalization-changes-in-v0-0-412|2 Memory and Personalization changes in v0.0.412]]
+- Earlier: 2026-02-23 · Open WebUI · [[Changes/Open WebUI/2026-02-23-2-memory-and-personalization-changes-in-v0-8-4|2 Memory and Personalization changes in v0.8.4]]
 - Later: 2026-02-25 · Gemini CLI · [[Changes/Gemini CLI/2026-02-25-test-evals-mark-all-save-memory-evals-as-usually-passes-due-to-unreliability-by|test(evals): mark all save_memory evals as USUALLY_PASSES due to unreliability]]
 <!-- chronolog:end -->
 

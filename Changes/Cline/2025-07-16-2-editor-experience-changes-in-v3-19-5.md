@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: d70d428436eb9ca751588b2341426ab9d6fc16e3443f93596a41b786edd58d69
+machine_hash: ad47c479f58e03d1bf3a3de3eff1b85a420b7f69cc486fab8ee8676ded6bd5cc
 product: cline
 product_name: Cline
 record:
@@ -42,12 +42,12 @@ record:
   title: 2 Editor Experience changes in v3.19.5
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2025-07-01-2-editor-experience-changes-in-v0-1-8|2 Editor
-  Experience changes in v0.1.8]]'
-- '[[Changes/Codex CLI/2025-07-09-add-a-completion-subcommand-to-the-cli-in-https-github-com-openai-codex-pull-149|Add
-  a completion subcommand to the CLI…]]'
+- '[[Changes/Dify/2025-07-10-2-editor-experience-changes-in-1-6-0|2 Editor Experience
+  changes in 1.6.0]]'
 - '[[Changes/Gemini CLI/2025-07-11-help-add-shift-tab-tip-by-abhipatel12-in-https-github-com-google-gemini-gemini-c|help:
   add shift+tab tip]]'
+- '[[Changes/Open WebUI/2025-07-14-3-editor-experience-changes-in-v0-6-16|3 Editor
+  Experience changes in v0.6.16]]'
 source_release: '[[Releases/Cline/cline-2025-07-16-v3-19-5-github-232737574-15eeaef6|cline-2025-07-16-v3-19-5-github-232737574-15eeaef6]]'
 source_type: github_releases
 theme: editor-experience
@@ -81,7 +81,7 @@ Source: https://github.com/cline/cline/releases/tag/v3.19.5
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2025-07-11 · Gemini CLI · [[Changes/Gemini CLI/2025-07-11-help-add-shift-tab-tip-by-abhipatel12-in-https-github-com-google-gemini-gemini-c|help: add shift+tab tip]]
+- Earlier: 2025-07-14 · Open WebUI · [[Changes/Open WebUI/2025-07-14-3-editor-experience-changes-in-v0-6-16|3 Editor Experience changes in v0.6.16]]
 - Later: 2025-07-16 · OpenHands · [[Changes/OpenHands/2025-07-16-2-editor-experience-changes-in-0-49-0|2 Editor Experience changes in 0.49.0]]
 <!-- chronolog:end -->
 

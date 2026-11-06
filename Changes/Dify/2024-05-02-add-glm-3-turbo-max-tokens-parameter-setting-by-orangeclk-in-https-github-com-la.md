@@ -1,0 +1,96 @@
+---
+card_id: dify-2024-05-02-525639
+date: '2024-05-02'
+description: 'Dify · 2024-05-02 · Context Window: add glm-3-turbo max_tokens parameter
+  setting by @orangeclk in https://github.com/langgenius/dify/pull/4017'
+diffusion:
+  first_in_tracked: '[[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2
+    Context Window changes in 0.2.9]]'
+  inference: No adoption, equivalence, or causation claim.
+  lag_days: 364
+  relation: same-theme-chronology
+  role: later-observed
+  scope: tracked-products-only
+  theme: context-window
+  tracked_products_count: 20
+evolves_from: []
+extractor_version: fallback-v5
+impact: incremental
+kind: change
+machine_hash: ab95e2d77b2f0f801f5465e7f06061b8e62e92075ce43855cb1b9ee87fc22e54
+product: dify
+product_name: Dify
+record:
+  card_id: dify-2024-05-02-525639
+  comparison: ''
+  date: '2024-05-02'
+  description: 'Dify — v0.6.6: add glm-3-turbo max_tokens parameter setting by @orangeclk
+    in https://github.com/langgenius/dify/pull/4017'
+  evidence:
+  - quote: add glm-3-turbo max_tokens parameter setting by @orangeclk in https://github.com/langgenius/dify/pull/4017
+    source_release: https://github.com/langgenius/dify/releases/tag/0.6.6
+  extractor_version: fallback-v5
+  impact: incremental
+  kind: change
+  product: dify
+  product_name: Dify
+  slug: add-glm-3-turbo-max-tokens-parameter-setting-by-orangeclk-in-https-github-com-la
+  source_release: dify-2024-05-02-0-6-6-github-153776816-f9d55236
+  source_type: github_releases
+  theme: context-window
+  title: add glm-3-turbo max_tokens parameter setting
+  type: change
+related_changes:
+- '[[Changes/Cursor/2024-04-01-long-context-chat-beta-this-is-a-new-experimental-feature-that-lets-you-talk-wit|Long
+  Context Chat (Beta)]]'
+- '[[Changes/Cursor/2024-04-12-cursorrules-you-can-write-down-repo-level-rules-for-the-ai-by-creating-a-cursorr|.cursorrules:
+  You can write down repo-level rules for the AI by creating…]]'
+- '[[Changes/Ollama/2024-04-28-llama-3-gradient-1048k-https-ollama-com-library-llama3-gradient-a-llama-3-fine-t|Llama
+  3 Gradient 1048K((source link)]]'
+source_release: '[[Releases/Dify/dify-2024-05-02-0-6-6-github-153776816-f9d55236|dify-2024-05-02-0-6-6-github-153776816-f9d55236]]'
+source_type: github_releases
+theme: context-window
+title: add glm-3-turbo max_tokens parameter setting
+type: change
+---
+
+<!-- chronolog:begin region="header" -->
+# add glm-3-turbo max_tokens parameter setting
+
+**Dify** · 2024-05-02 · [[Themes/context-window|Context Window]] · [Official source](https://github.com/langgenius/dify/releases/tag/0.6.6) · from [[Releases/Dify/dify-2024-05-02-0-6-6-github-153776816-f9d55236|v0.6.6]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="evidence" -->
+> add glm-3-turbo max_tokens parameter setting by @orangeclk in https://github.com/langgenius/dify/pull/4017
+>
+> Source: https://github.com/langgenius/dify/releases/tag/0.6.6
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="context" -->
+## Also in this release
+
+- [[Changes/Dify/2024-05-02-2-safety-and-privacy-changes-in-0-6-6|2 Safety and Privacy changes in 0.6.6]] · Safety and Privacy
+- [[Changes/Dify/2024-05-02-2-apps-and-integrations-changes-in-0-6-6|2 Apps and Integrations changes in 0.6.6]] · Apps and Integrations
+- [[Changes/Dify/2024-05-02-3-editor-experience-changes-in-0-6-6|3 Editor Experience changes in 0.6.6]] · Editor Experience
+- [[Changes/Dify/2024-05-02-5-model-support-changes-in-0-6-6|5 Model Support changes in 0.6.6]] · Model Support
+- [[Changes/Dify/2024-05-02-optimize-the-knowledge-failed-documents-query-by-charli117-in-https-github-com-l|optimize the knowledge failed documents query]] · Files and Data
+- [[Changes/Dify/2024-05-02-this-update-primarily-focuses-on-enhancing-system-stability-and-improving-user-e|This update primarily focuses on enhancing system stability and improving user experience]] · Reliability and Performance
+- [[Changes/Dify/2024-05-02-52-other-changes-in-0-6-6|52 other changes in 0.6.6]] · Other changes
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="nearby" -->
+## Nearby in Context Window
+
+- Earlier: 2024-04-28 · Ollama · [[Changes/Ollama/2024-04-28-llama-3-gradient-1048k-https-ollama-com-library-llama3-gradient-a-llama-3-fine-t|Llama 3 Gradient 1048K((source link)]]
+- Later: 2024-05-02 · Open WebUI · [[Changes/Open WebUI/2024-05-02-unlimited-context-length-advanced-settings-now-allow-unlimited-max-context-lengt|🔄 Unlimited Context Length]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="relations" -->
+## Related
+
+- Earliest same-theme entry in the tracked set: 2023-05-04 · Cursor · [[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2 Context Window changes in 0.2.9]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="footer" -->
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20dify-2024-05-02-525639&body=Card%3A%20Changes%2FDify%2F2024-05-02-add-glm-3-turbo-max-tokens-parameter-setting-by-orangeclk-in-https-github-com-la.md%0ACard%20ID%3A%20dify-2024-05-02-525639%0ASource%3A%20https%3A%2F%2Fgithub.com%2Flanggenius%2Fdify%2Freleases%2Ftag%2F0.6.6%0A%0AWhat%20should%20be%20corrected%3F%0A)
+<!-- chronolog:end -->

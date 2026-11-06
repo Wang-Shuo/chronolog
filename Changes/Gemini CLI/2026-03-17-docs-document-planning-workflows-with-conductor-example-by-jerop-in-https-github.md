@@ -4,20 +4,20 @@ date: '2026-03-17'
 description: 'Gemini CLI · 2026-03-17 · Files and Data: docs: document planning workflows
   with Conductor example by @jerop in…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-07-06-we-re-rolling-out-code-interpreter-to-all-chatgpt-plus-users-over-the-next-week-66255e|Code
-    interpreter is now rolling out in beta on web]]'
+  first_in_tracked: '[[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2
+    Files and Data changes in 0.2.2]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 985
+  lag_days: 1027
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: aaebd3ae6c693fed51e763293549470001ab5e31642c9c2d9d166ab5f8bf66a5
+machine_hash: d3b99940fc3bb5ac74fbd6c9ab54634e26213b6e832ed3666c9ec946f7196be2
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -44,12 +44,12 @@ record:
   title: 'docs: document planning workflows with Conductor example'
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-03-05-added-sample-skill-documentation-for-artifact-workflows-including-slide-deck-and|Added
-  sample skill documentation for artifact workflows, including slide deck…]]'
-- '[[Changes/Claude Code/2026-03-06-vscode-added-full-markdown-document-view-for-plans-in-vs-code-with-support-for-a|VSCode
-  Added full markdown document view for plans in VS Code, with support…]]'
+- "[[Changes/Open WebUI/2026-03-08-android-photo-capture-fixed-an-issue-where-the-first-photo-taken-in-chat-appeare|\U0001F4F7
+  Android photo capture. Fixed an issue where the first photo taken in chat…]]"
 - '[[Changes/GitHub Copilot CLI/2026-03-09-document-gh-host-http-proxy-https-proxy-no-color-and-no-proxy-environment-variab|Document
   GH_HOST, HTTP_PROXY, HTTPS_PROXY, NO_COLOR, and NO_PROXY environment…]]'
+- '[[Changes/Dify/2026-03-17-16-files-and-data-changes-in-1-13-1|16 Files and Data
+  changes in 1.13.1]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2026-03-17-v0-34-0-github-298158994-68230a41|gemini-cli-2026-03-17-v0-34-0-github-298158994-68230a41]]'
 source_type: github_releases
 theme: file-data
@@ -91,14 +91,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Files and Data
 
-- Earlier: 2026-03-09 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-03-09-document-gh-host-http-proxy-https-proxy-no-color-and-no-proxy-environment-variab|Document GH_HOST, HTTP_PROXY, HTTPS_PROXY, NO_COLOR, and NO_PROXY environment…]]
+- Earlier: 2026-03-17 · Dify · [[Changes/Dify/2026-03-17-16-files-and-data-changes-in-1-13-1|16 Files and Data changes in 1.13.1]]
 - Later: 2026-03-24 · Gemini CLI · [[Changes/Gemini CLI/2026-03-24-docs-document-npm-deprecation-warnings-as-safe-to-ignore-by-h30s-in-https-github|docs: document npm deprecation warnings as safe to ignore]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-07-06 · ChatGPT · [[Changes/ChatGPT/2023-07-06-we-re-rolling-out-code-interpreter-to-all-chatgpt-plus-users-over-the-next-week-66255e|Code interpreter is now rolling out in beta on web]]
+- Earliest same-theme entry in the tracked set: 2023-05-25 · Dify · [[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2 Files and Data changes in 0.2.2]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

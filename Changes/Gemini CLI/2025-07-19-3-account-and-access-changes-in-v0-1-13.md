@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 3d69a7472c8c02bfcec4fff040f012602be93e67898e92e69ac30aacd0ae6e4f
+machine_hash: 991383d645f0c11a18502c3fda71bb3d680ab6d856750d7b458d035293d3aa27
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -46,10 +46,10 @@ record:
   title: 3 Account and Access changes in v0.1.13
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2025-07-01-rename-authtype-login-with-google-personal-login-with-google-by-scidomino-in-htt|Rename
-  AuthType LOGIN_WITH_GOOGLE_PERSONAL - LOGIN_WITH_GOOGLE]]'
 - '[[Changes/Gemini CLI/2025-07-11-add-no-browser-environment-variable-to-trigger-offline-oauth-flow-by-sethtroisi|Add
   NO_BROWSER environment variable to trigger offline oauth flow]]'
+- '[[Changes/Open WebUI/2025-07-14-3-account-and-access-changes-in-v0-6-16|3 Account
+  and Access changes in v0.6.16]]'
 - '[[Changes/Windsurf/2025-07-17-support-for-more-mcp-servers-with-easier-and-more-secure-authentication-by-integ|Support
   for more MCP servers with easier and more secure authentication…]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2025-07-19-v0-1-13-github-233708271-319aa8dd|gemini-cli-2025-07-19-v0-1-13-github-233708271-319aa8dd]]'
@@ -97,7 +97,7 @@ Source: https://github.com/google-gemini/gemini-cli/releases/tag/v0.1.13
 ## Nearby in Account and Access
 
 - Earlier: 2025-07-17 · Windsurf · [[Changes/Windsurf/2025-07-17-support-for-more-mcp-servers-with-easier-and-more-secure-authentication-by-integ|Support for more MCP servers with easier and more secure authentication…]]
-- Later: 2025-07-25 · Gemini CLI · [[Changes/Gemini CLI/2025-07-25-4-account-and-access-changes-in-v0-1-14|4 Account and Access changes in v0.1.14]]
+- Later: 2025-07-19 · Open WebUI · [[Changes/Open WebUI/2025-07-19-oauth-token-endpoint-authentication-method-added-configurable-oauth-token-endpoi|🔐 OAuth Token Endpoint Authentication Method]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

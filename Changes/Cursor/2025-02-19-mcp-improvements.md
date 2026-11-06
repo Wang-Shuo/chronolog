@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 09a0e7a9bd78020cb9617932abfd861bfc4b7de6a16ee2c0f8f7ac5b244e9f46
+machine_hash: cf1bc6312dc74a5b113a5dee04051ad45d10a511391287d4bb8f626dfd9f27d5
 product: cursor
 product_name: Cursor
 record:
@@ -45,8 +45,8 @@ record:
   title: MCP improvements
   type: change
 related_changes:
-- '[[Changes/Cline/2025-01-30-add-advanced-settings-to-remove-mcp-prompts-from-requests-to-save-tokens-enable|Add
-  Advanced Settings to remove MCP prompts from requests to save tokens…]]'
+- '[[Changes/Lovable/2025-02-12-3-apps-and-integrations-changes-in-lovable-updates-2025-02-12|3
+  Apps and Integrations changes in Lovable updates — 2025-02-12]]'
 - '[[Changes/Cline/2025-02-19-introducing-mcp-marketplace-you-can-now-discover-and-install-the-best-mcp-server|Introducing
   MCP Marketplace!]]'
 - '[[Changes/Cursor/2025-02-19-2-apps-and-integrations-changes-in-0-46-x|2 Apps and
@@ -96,7 +96,7 @@ type: change
 ## Nearby in Apps and Integrations
 
 - Earlier: 2025-02-19 · Cline · [[Changes/Cline/2025-02-19-introducing-mcp-marketplace-you-can-now-discover-and-install-the-best-mcp-server|Introducing MCP Marketplace!]]
-- Later: 2025-03-01 · Cline · [[Changes/Cline/2025-03-01-2-apps-and-integrations-changes-in-v3-5-0|2 Apps and Integrations changes in v3.5.0]]
+- Later: 2025-02-21 · Replit · [[Changes/Replit/2025-02-21-one-click-deploy-for-assistant|One-click deploy for Assistant]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

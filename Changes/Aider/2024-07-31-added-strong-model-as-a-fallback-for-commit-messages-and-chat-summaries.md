@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 74a3abab1ba5277d0996ab6f98419e097b76fd0a6ef8fca33b99178fd70edc1c
+machine_hash: a2e3092b47e5605e16afb05b403a1fc99a1affc57325bd642f032f099ae8931c
 product: aider
 product_name: Aider
 record:
@@ -43,12 +43,12 @@ record:
   title: Added strong model as a fallback for commit messages (and chat summaries)
   type: change
 related_changes:
-- '[[Changes/OpenHands/2024-07-19-4-model-support-changes-in-0-8-1|4 Model Support
-  changes in 0.8.1]]'
-- '[[Changes/Cursor/2024-07-23-new-default-model-we-ve-made-claude-3-5-sonnet-the-default-model-for-users|New
-  Default Model: We''ve made Claude 3.5 Sonnet the default model for users]]'
+- '[[Changes/Ollama/2024-07-25-4-model-support-changes-in-v0-3-0|4 Model Support changes
+  in v0.3.0]]'
 - '[[Changes/Aider/2024-07-29-fall-back-to-main-model-if-weak-model-is-unable-to-generate-a-commit-message|Fall
   back to main model if weak model is unable to generate a commit message]]'
+- '[[Changes/Ollama/2024-07-30-3-model-support-changes-in-v0-3-1|3 Model Support changes
+  in v0.3.1]]'
 source_release: '[[Releases/Aider/aider-2024-07-31-v0-47-0-github-168059187-28da6242|aider-2024-07-31-v0-47-0-github-168059187-28da6242]]'
 source_type: github_releases
 theme: model-support
@@ -82,7 +82,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2024-07-29 · Aider · [[Changes/Aider/2024-07-29-fall-back-to-main-model-if-weak-model-is-unable-to-generate-a-commit-message|Fall back to main model if weak model is unable to generate a commit message]]
+- Earlier: 2024-07-30 · Ollama · [[Changes/Ollama/2024-07-30-3-model-support-changes-in-v0-3-1|3 Model Support changes in v0.3.1]]
 - Later: 2024-08-01 · OpenHands · [[Changes/OpenHands/2024-08-01-add-unit-tests-for-llm-init-function-by-neubig-in-https-github-com-opendevin-ope|Add unit tests for LLM init function]]
 <!-- chronolog:end -->
 

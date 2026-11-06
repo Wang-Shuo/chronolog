@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: ada69e402a0a45f2952ca291f0fb570607ab46b27d2762f267a782b2b0f22d1f
+machine_hash: 39cdde360934172b94134a168418e36f4618045b12deafd55aab1b32e52dc426
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -48,12 +48,9 @@ record:
   title: 2 Agent Mode changes in v0.0.353
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2025-10-22-feat-core-add-telemetry-for-subagent-execution-by-abhipatel12-in-https-github-co|feat(core):
-  add telemetry for subagent execution]]'
-- '[[Changes/Codex CLI/2025-10-23-2-agent-mode-changes-in-rust-v0-48-0|2 Agent Mode
-  changes in rust-v0.48.0]]'
-- '[[Changes/Windsurf/2025-10-23-support-and-fixes-for-agents-md|Support and fixes
-  for AGENTS.md]]'
+- '[[Changes/ElevenLabs/2025-10-27-agents-platform|Agents Platform]]'
+- '[[Changes/ElevenLabs/2025-10-27-agents-platform-b53aea|Agents Platform]]'
+- '[[Changes/ElevenLabs/2025-10-27-agents-cli|Agents CLI]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2025-10-28-v0-0-353-github-257902150-5c3db4c7|github-copilot-cli-2025-10-28-v0-0-353-github-257902150-5c3db4c7]]'
 source_type: github_releases
 theme: agent-mode
@@ -84,7 +81,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v0.0.353
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2025-10-23 · Windsurf · [[Changes/Windsurf/2025-10-23-support-and-fixes-for-agents-md|Support and fixes for AGENTS.md]]
+- Earlier: 2025-10-27 · ElevenLabs · [[Changes/ElevenLabs/2025-10-27-agents-cli|Agents CLI]]
 - Later: 2025-10-29 · Cursor · [[Changes/Cursor/2025-10-29-browser-ga-1124ce|Browser (GA)]]
 <!-- chronolog:end -->
 

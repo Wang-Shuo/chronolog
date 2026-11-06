@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 57a2452e35e3a13432158a592b74d3d6ee9967de50ffaf690cfcda3cbd8055fa
+machine_hash: ac934e3a7384cb694324388f4b6d954c3143a44b175ee967bb5d5cba6f4fd03d
 product: cline
 product_name: Cline
 record:
@@ -42,8 +42,8 @@ record:
   title: 'feat(cli): Fixes CLI authentication redirect error'
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2025-10-07-for-dynamic-client-registration-use-registration-endpoint-in-config-if-available|For
-  dynamic client registration - use registration endpoint in config if available…]]'
+- "[[Changes/Open WebUI/2025-10-07-redis-session-storage-is-now-available-as-an-experimental-option-for-oauth-authe|\U0001F5C4️
+  Redis session storage is now available as an experimental option for OAuth…]]"
 - '[[Changes/GitHub Copilot CLI/2025-10-08-updated-the-oauth-login-ui-to-begin-polling-as-soon-as-the-device-code-is-genera|Updated
   the OAuth login UI to begin polling as soon as the device code is generated…]]'
 - '[[Changes/Codex CLI/2025-10-09-we-are-in-the-middle-of-significantly-improving-support-for-connecting-to-mcp-se|We

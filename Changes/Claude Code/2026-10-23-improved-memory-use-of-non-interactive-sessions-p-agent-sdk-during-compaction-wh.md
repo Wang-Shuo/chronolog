@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: b6eb5a4eccde49652c58e995dbc66cee4d02f05bc2e4ac01618cac6cd05320f6
+machine_hash: 9dab1c05d38d8e9fecddb23c0ff7be00207f19e06404a82ad12a30c0f4ac3f45
 product: claude-code
 product_name: Claude Code
 record:
@@ -55,7 +55,8 @@ record:
     compaction…
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-10-16-larger-faster-environments|Larger, faster environments]]'
+- "[[Changes/Open WebUI/2026-10-16-general-improvements-various-improvements-were-implemented-across-the-applicatio|\U0001F504
+  General improvements. Various improvements were implemented across…]]"
 - '[[Changes/Claude Code/2026-10-19-2-reliability-and-performance-changes-in-v2-1-304|2
   Reliability and Performance changes in v2.1.304]]'
 - '[[Changes/Claude Code/2026-10-22-2-reliability-and-performance-changes-in-v2-1-309|2

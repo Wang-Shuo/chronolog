@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: fe002a6cb63070262e0cd72e637df9d0063045ddd1193c25e3e09ae87f8f12f2
+machine_hash: d7ed95c291a5fab92fdc1f6c6bd5e8b854a031f930a983c5564c3730934821df
 product: windsurf
 product_name: Windsurf
 record:
@@ -43,12 +43,11 @@ record:
   title: 2 Editor Experience changes in v1.13.3
   type: change
 related_changes:
-- '[[Changes/Claude Code/2025-12-19-vscode-added-tab-icon-badges-showing-pending-permissions-blue-and-unread-complet|VSCode
-  Added tab icon badges showing pending permissions (blue) and unread…]]'
 - '[[Changes/Cline/2025-12-22-duplicate-error-messages-during-streaming-for-diff-edit-tool-when-parallel-tool|Duplicate
   error messages during streaming for Diff Edit tool when Parallel Tool…]]'
 - '[[Changes/Gemini CLI/2025-12-22-4-editor-experience-changes-in-v0-22-0|4 Editor
   Experience changes in v0.22.0]]'
+- '[[Changes/Lovable/2025-12-23-mention-code-files-in-chat|Mention code files in chat]]'
 source_release: '[[Releases/Windsurf/windsurf-2025-12-24-v1-13-3-cac9d5c1|windsurf-2025-12-24-v1-13-3-cac9d5c1]]'
 source_type: windsurf_changelog
 theme: editor-experience
@@ -89,8 +88,8 @@ Source: https://docs.devin.ai/desktop/changelog#v1-13-3
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2025-12-22 · Gemini CLI · [[Changes/Gemini CLI/2025-12-22-4-editor-experience-changes-in-v0-22-0|4 Editor Experience changes in v0.22.0]]
-- Later: 2025-12-27 · Windsurf · [[Changes/Windsurf/2025-12-27-tab-fixes-and-improvements|Tab fixes and improvements]]
+- Earlier: 2025-12-23 · Lovable · [[Changes/Lovable/2025-12-23-mention-code-files-in-chat|Mention code files in chat]]
+- Later: 2025-12-25 · Dify · [[Changes/Dify/2025-12-25-2-editor-experience-changes-in-1-11-2|2 Editor Experience changes in 1.11.2]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

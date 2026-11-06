@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: a9ec8cfd112aad769babb7ce1c593a9e716856cb976220568afeae46a63d0164
+machine_hash: 1b059c1e767c19ad155cb3c916260b3b8f2398f4d40248533dceae0af74f6e40
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,12 +45,12 @@ record:
     repos)
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-03-17-2-reliability-and-performance-changes-in-v2-1-77|2
-  Reliability and Performance changes in v2.1.77]]'
-- '[[Changes/Claude Code/2026-03-17-improved-memory-usage-and-startup-time-when-resuming-large-sessions|Improved
-  memory usage and startup time when resuming large sessions]]'
 - '[[Changes/Claude Code/2026-03-18-2-reliability-and-performance-changes-in-v2-1-79|2
   Reliability and Performance changes in v2.1.79]]'
+- '[[Changes/Dify/2026-03-18-this-patch-release-fixes-several-critical-regressions-and-stability-issues-intro|This
+  patch release fixes several critical regressions and stability issues…]]'
+- '[[Changes/Ollama/2026-03-18-claude-code-will-now-be-faster-when-run-locally-due-to-preventing-cache-breakage|Claude
+  Code will now be faster when run locally, due to preventing cache breakages]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-03-19-v2-1-80-github-299176707-1bfcfc3a|claude-code-2026-03-19-v2-1-80-github-299176707-1bfcfc3a]]'
 source_type: github_releases
 theme: reliability-performance
@@ -84,7 +84,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2026-03-18 · Claude Code · [[Changes/Claude Code/2026-03-18-2-reliability-and-performance-changes-in-v2-1-79|2 Reliability and Performance changes in v2.1.79]]
+- Earlier: 2026-03-18 · Ollama · [[Changes/Ollama/2026-03-18-claude-code-will-now-be-faster-when-run-locally-due-to-preventing-cache-breakage|Claude Code will now be faster when run locally, due to preventing cache breakages]]
 - Later: 2026-03-19 · Cursor · [[Changes/Cursor/2026-03-19-composer-2-is-now-available-in-cursor-frontier-level-coding-performance-with-str|Composer 2 is now available in Cursor]]
 <!-- chronolog:end -->
 

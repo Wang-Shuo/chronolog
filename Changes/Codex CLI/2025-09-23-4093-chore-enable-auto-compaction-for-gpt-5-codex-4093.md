@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: d8143e10de4aaf8ef75ad355e41a0bd04597aa7263e4559c0888d3f80ab54269
+machine_hash: 687e7e7e1b3402f794273574d8d703d330e6271cf438ebf12a2ed63f31fe65f0
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -43,12 +43,12 @@ record:
   title: '[#4093] chore: enable auto-compaction for `gpt-5-codex` (#4093)'
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2025-09-17-2-context-window-changes-in-v0-5-3|2 Context Window
-  changes in v0.5.3]]'
-- '[[Changes/Cline/2025-09-18-pass-max-tokens-to-moonshot-provider-by-canvrno-in-https-github-com-cline-cline|Pass
-  max_tokens to moonshot provider]]'
 - '[[Changes/Codex CLI/2025-09-18-3857-make-esc-button-work-when-auto-compaction-3857|♯3857
   Make ESC button work when auto-compaction (♯3857)]]'
+- '[[Changes/Gemini/2025-09-18-your-custom-gems-are-now-shareable|Your Custom Gems
+  are Now Shareable]]'
+- '[[Changes/Dify/2025-09-22-example-of-no-unstable-context-value-by-asukaminato0721-in-https-github-com-lang|example
+  of no-unstable-context-value]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2025-09-23-rust-v0-40-0-github-249412506-64037925|codex-cli-2025-09-23-rust-v0-40-0-github-249412506-64037925]]'
 source_type: github_releases
 theme: context-window
@@ -83,7 +83,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Context Window
 
-- Earlier: 2025-09-18 · Codex CLI · [[Changes/Codex CLI/2025-09-18-3857-make-esc-button-work-when-auto-compaction-3857|♯3857 Make ESC button work when auto-compaction (♯3857)]]
+- Earlier: 2025-09-22 · Dify · [[Changes/Dify/2025-09-22-example-of-no-unstable-context-value-by-asukaminato0721-in-https-github-com-lang|example of no-unstable-context-value]]
 - Later: 2025-09-24 · Gemini CLI · [[Changes/Gemini CLI/2025-09-24-2-context-window-changes-in-v0-6-0|2 Context Window changes in v0.6.0]]
 <!-- chronolog:end -->
 

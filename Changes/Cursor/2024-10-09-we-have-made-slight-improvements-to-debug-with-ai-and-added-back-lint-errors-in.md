@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: afb57ba85c68582b2e480ed746ea0dd3f57100908ee056554e9f593b54e8207a
+machine_hash: 4019e71a5949153e0afa7cfd55b7d70c4351f569e119cc62e9886c9804521bf1
 product: cursor
 product_name: Cursor
 record:
@@ -44,12 +44,12 @@ record:
     in Chat
   type: change
 related_changes:
-- '[[Changes/Cline/2024-09-21-improved-automatic-linter-compiler-debugging-by-only-sending-claude-new-errors-t|Improved
-  automatic linter/compiler debugging by only sending Claude new errors…]]'
 - '[[Changes/OpenHands/2024-09-30-bash-commands-do-not-block-the-main-runtime-by-tofarr-in-https-github-com-all-ha|Bash
   commands do not block the main runtime]]'
 - '[[Changes/Aider/2024-10-04-3-developer-workflow-changes-in-v0-59-0|3 Developer
   Workflow changes in v0.59.0]]'
+- "[[Changes/Open WebUI/2024-10-07-code-block-enhancements-introduced-a-floating-copy-button-in-code-blocks-to-faci|\U0001F527
+  Code Block Enhancements]]"
 source_release: '[[Releases/Cursor/cursor-2024-10-09-0-42-x-https-cursor-com-changelog-0-42-x-71ecd9d1|cursor-2024-10-09-0-42-x-https-cursor-com-changelog-0-42-x-71ecd9d1]]'
 source_type: cursor_changelog
 theme: developer-workflow
@@ -83,8 +83,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2024-10-04 · Aider · [[Changes/Aider/2024-10-04-3-developer-workflow-changes-in-v0-59-0|3 Developer Workflow changes in v0.59.0]]
-- Later: 2024-10-31 · OpenHands · [[Changes/OpenHands/2024-10-31-split-bash-commands-by-the-new-line-character-by-tofarr-in-https-github-com-all|Split bash commands by the new line character]]
+- Earlier: 2024-10-07 · Open WebUI · [[Changes/Open WebUI/2024-10-07-code-block-enhancements-introduced-a-floating-copy-button-in-code-blocks-to-faci|🔧 Code Block Enhancements]]
+- Later: 2024-10-14 · Dify · [[Changes/Dify/2024-10-14-2-developer-workflow-changes-in-0-9-2|2 Developer Workflow changes in 0.9.2]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 5955178eda5072865592752ba5bfcdc786628501901784998826c4160fdb2270
+machine_hash: cb0034fea831d506e91533c21adb566a1cae45ce2140a56134722d8d772d224b
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -127,7 +127,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.23.0
 ## Nearby in Account and Access
 
 - Earlier: 2025-08-18 · Gemini CLI · [[Changes/Gemini CLI/2025-08-18-feat-oauth-make-oauth-client-a-singleton-to-survive-cache-failures-by-mboshernit|feat(oauth): Make oauth client a singleton to survive cache failures]]
-- Later: 2025-08-26 · Codex CLI · [[Changes/Codex CLI/2025-08-26-2528-fix-login-for-internal-employees|♯2528 Fix login for internal employees]]
+- Later: 2025-08-21 · Open WebUI · [[Changes/Open WebUI/2025-08-21-3-account-and-access-changes-in-v0-6-23|3 Account and Access changes in v0.6.23]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: b6eff13bdf59d7cd585685e2acc60177be0e8832be06d675861b521d1a515914
+machine_hash: 4eaceaa91f7f7d0970938ca23f67deda4e77e83500f6267021f997a15ac45f1c
 product: claude-code
 product_name: Claude Code
 record:
@@ -54,12 +54,13 @@ record:
   title: 5 Safety and Privacy changes in v2.1.141
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-05-11-fixed-skill-name-permission-rules-the-wildcard-form-now-works-as-a-prefix-match|Fixed
-  Skill(name ) permission rules]]'
-- '[[Changes/GitHub Copilot CLI/2026-05-11-sessions-with-extension-permission-prompts-can-be-resumed-without-a-session-file|Sessions
-  with extension permission prompts can be resumed without…]]'
+- '[[Changes/Dify/2026-05-12-3-safety-and-privacy-changes-in-1-14-1|3 Safety and Privacy
+  changes in 1.14.1]]'
 - '[[Changes/Gemini CLI/2026-05-12-3-safety-and-privacy-changes-in-v0-42-0|3 Safety
   and Privacy changes in v0.42.0]]'
+- '[[Changes/v0/2026-05-12-v0-can-now-run-terminal-commands-in-your-chats-with-a-permission-prompt-before-e|v0
+  can now run terminal commands in your chats, with a permission prompt before each
+  one]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-05-13-v2-1-141-github-322186176-9f8e2e22|claude-code-2026-05-13-v2-1-141-github-322186176-9f8e2e22]]'
 source_type: github_releases
 theme: safety-privacy
@@ -107,7 +108,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.141
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Safety and Privacy
 
-- Earlier: 2026-05-12 · Gemini CLI · [[Changes/Gemini CLI/2026-05-12-3-safety-and-privacy-changes-in-v0-42-0|3 Safety and Privacy changes in v0.42.0]]
+- Earlier: 2026-05-12 · v0 · [[Changes/v0/2026-05-12-v0-can-now-run-terminal-commands-in-your-chats-with-a-permission-prompt-before-e|v0 can now run terminal commands in your chats, with a permission prompt before each one]]
 - Later: 2026-05-13 · Cursor · [[Changes/Cursor/2026-05-13-environment-governance-and-security-controls|Environment governance and security controls]]
 <!-- chronolog:end -->
 

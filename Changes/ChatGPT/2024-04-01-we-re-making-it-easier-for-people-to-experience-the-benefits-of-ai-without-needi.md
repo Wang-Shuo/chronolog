@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 138370e72d6c5a2d8ca0bc807cfef1264184a08163dcae1730079ae973a84b45
+machine_hash: 481ede208133b9a77f03a7685add5fcf7f9b3c16dc5632d972ddf72f1d4cdebb
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -50,12 +50,12 @@ record:
   title: Start using ChatGPT instantly
   type: change
 related_changes:
-- '[[Changes/Cursor/2023-06-27-if-you-re-not-logged-in-we-show-the-popup-to-log-in-again|If
-  you''re not logged in, we show the popup to log in again]]'
-- '[[Changes/Cursor/2023-07-25-you-can-now-chat-with-any-codebase-no-need-to-have-a-github-repo-login-through-g|"with
-  codebase" for all codebases!]]'
-- '[[Changes/Cursor/2023-09-01-you-should-now-be-able-to-sign-in-with-github-again|You
-  should now be able to sign in with GitHub again]]'
+- '[[Changes/Dify/2023-10-10-feat-move-login-required-wrapper-outside-by-takatost-in-https-github-com-langgen|feat:
+  move login_required wrapper outside]]'
+- '[[Changes/Dify/2024-03-12-smtp-authentication-is-optional-by-lmagnien-in-https-github-com-langgenius-dify|SMTP
+  authentication is optional]]'
+- '[[Changes/Dify/2024-03-29-authentication-is-only-applied-when-both-the-username-and-password-have-values-b|Authentication
+  is only applied when both the username and password have values]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2024-04-01-start-using-chatgpt-instantly-40988be9|chatgpt-2024-04-01-start-using-chatgpt-instantly-40988be9]]'
 source_type: chatgpt_changelog
 theme: account-access
@@ -82,8 +82,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Account and Access
 
-- Earlier: 2023-09-01 · Cursor · [[Changes/Cursor/2023-09-01-you-should-now-be-able-to-sign-in-with-github-again|You should now be able to sign in with GitHub again]]
-- Later: 2024-12-06 · OpenHands · [[Changes/OpenHands/2024-12-06-updated-initial-sign-in-with-github-modal-by-amanape-in-https-github-com-all-han|Updated initial Sign in with Github modal]]
+- Earlier: 2024-03-29 · Dify · [[Changes/Dify/2024-03-29-authentication-is-only-applied-when-both-the-username-and-password-have-values-b|Authentication is only applied when both the username and password have values]]
+- Later: 2024-04-04 · Open WebUI · [[Changes/Open WebUI/2024-04-04-trusted-email-authentication-authenticate-using-a-trusted-email-header|📧 Trusted Email Authentication: Authenticate using a trusted email header]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

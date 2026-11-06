@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 4a373a24c4607fa42575d79411a2bfa047f3b8cd2b8b07573b535e15a2530b6d
+machine_hash: 623c251ce9f5555ea702a1282379fed72562f384584610a99f7515aa7d5ba8d9
 product: cline
 product_name: Cline
 record:
@@ -48,12 +48,12 @@ record:
     in the UI
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-06-23-11-interface-experience-changes-in-v1-0-64|11
-  Interface Experience changes in v1.0.64]]'
-- '[[Changes/GitHub Copilot CLI/2026-06-24-2-interface-experience-changes-in-v1-0-65|2
-  Interface Experience changes in v1.0.65]]'
 - '[[Changes/Claude Code/2026-06-26-added-claude-code-disable-mouse-clicks-to-disable-mouse-click-drag-hover-in-full|Added
   CLAUDE_CODE_DISABLE_MOUSE_CLICKS to disable mouse click/drag/hover…]]'
+- '[[Changes/Lovable/2026-06-26-search-the-template-and-design-system-pickers|Search
+  the template and design system pickers]]'
+- '[[Changes/v0/2026-06-26-2-interface-experience-changes-in-platform-api-v2-mcp-chat-tools|2
+  Interface Experience changes in Platform API v2, MCP chat tools…]]'
 source_release: '[[Releases/Cline/cline-2026-06-29-v4-0-4-github-346492914-8f0d1522|cline-2026-06-29-v4-0-4-github-346492914-8f0d1522]]'
 source_type: github_releases
 theme: interface-experience
@@ -81,8 +81,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-06-26 · Claude Code · [[Changes/Claude Code/2026-06-26-added-claude-code-disable-mouse-clicks-to-disable-mouse-click-drag-hover-in-full|Added CLAUDE_CODE_DISABLE_MOUSE_CLICKS to disable mouse click/drag/hover…]]
-- Later: 2026-06-30 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-06-30-3-interface-experience-changes-in-v1-0-66|3 Interface Experience changes in v1.0.66]]
+- Earlier: 2026-06-26 · v0 · [[Changes/v0/2026-06-26-2-interface-experience-changes-in-platform-api-v2-mcp-chat-tools|2 Interface Experience changes in Platform API v2, MCP chat tools…]]
+- Later: 2026-06-29 · Open WebUI · [[Changes/Open WebUI/2026-06-29-14-interface-experience-changes-in-v0-10-0|14 Interface Experience changes in v0.10.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

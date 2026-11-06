@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 68b228949e27d0a0e8149e29ee6462ecb445e5504ae74bdba60f1646c63f54ef
+machine_hash: 10ba198a89499a55c274ab4c74b3cb3745505adfdc31feee2e58de760fef9283
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -67,10 +67,8 @@ record:
   title: 10 Agent Mode changes in v0.35.0
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-03-18-2-agent-mode-changes-in-v1-0-8|2 Agent
-  Mode changes in v1.0.8]]'
-- '[[Changes/Codex CLI/2026-03-19-5-agent-mode-changes-in-rust-v0-116-0|5 Agent Mode
-  changes in rust-v0.116.0]]'
+- '[[Changes/ElevenLabs/2026-03-23-elevenagents|ElevenAgents]]'
+- '[[Changes/ElevenLabs/2026-03-23-python-sdk|Python SDK]]'
 - '[[Changes/GitHub Copilot CLI/2026-03-23-2-agent-mode-changes-in-v1-0-11|2 Agent
   Mode changes in v1.0.11]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2026-03-24-v0-35-0-github-300868580-f6f9b621|gemini-cli-2026-03-24-v0-35-0-github-300868580-f6f9b621]]'

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: fb871d5468cb1953c69e62d4b121bb5daaf1ffaeb263f799e0f20a6d3b0750b1
+machine_hash: a17244d80ea0af972cfaeee93f54fdb0d16a747cd796260c59754c5b40639e98
 product: cline
 product_name: Cline
 record:
@@ -92,7 +92,7 @@ type: change
 ## Nearby in Context Window
 
 - Earlier: 2026-07-22 · Gemini CLI · [[Changes/Gemini CLI/2026-07-22-refactor-exclude-transient-ci-configuration-files-from-workspace-context-by-davi|Refactor: exclude transient CI configuration files from workspace context]]
-- Later: 2026-07-29 · Codex CLI · [[Changes/Codex CLI/2026-07-29-5-context-window-changes-in-rust-v0-146-0|5 Context Window changes in rust-v0.146.0]]
+- Later: 2026-07-25 · Lovable · [[Changes/Lovable/2026-07-25-leaked-api-keys-are-revoked-automatically|Leaked API keys are revoked automatically]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

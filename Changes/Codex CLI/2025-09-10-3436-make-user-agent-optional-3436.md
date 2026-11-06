@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: e9af45c01bb33a94b8329d23c917aaac1dcc2f75e11aee876fdd24b955ed2482
+machine_hash: 7c671090f084296f63c6f1c091920018c11193eba033386e6012887c4a6bb8c7
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -42,10 +42,8 @@ record:
   title: '[#3436] Make user_agent optional (#3436)'
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2025-09-04-feat-subagent-enable-incremental-output-streaming-by-allenhutchison-in-https-git|feat(subagent):
-  Enable incremental output streaming]]'
-- '[[Changes/Codex CLI/2025-09-05-3-agent-mode-changes-in-rust-v0-30-0|3 Agent Mode
-  changes in rust-v0.30.0]]'
+- '[[Changes/Replit/2025-09-05-plan-mode|Plan mode]]'
+- '[[Changes/ElevenLabs/2025-09-08-agents-platform|Agents Platform]]'
 - '[[Changes/OpenHands/2025-09-09-2-agent-mode-changes-in-0-56-0|2 Agent Mode changes
   in 0.56.0]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2025-09-10-rust-v0-34-0-github-246311336-c35641ed|codex-cli-2025-09-10-rust-v0-34-0-github-246311336-c35641ed]]'

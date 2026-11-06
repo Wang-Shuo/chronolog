@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: ccc77f93e50a8c237246eb104352ba126790bed485a6cdddb5a5bdc8bb80c68a
+machine_hash: f6abf132bbe81f44855b6016ef7cd745e8d6f5a555e53d695bd66cd6a8e67a1f
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -43,7 +43,8 @@ record:
   title: Added a scrollbar to the `@` file mentioning picker and increased the size…
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-09-29-1-7-45-model-picker-ux|1.7.45: Model picker UX]]'
+- '[[Changes/Dify/2025-09-29-oceanbase-parser-selection-explanation-clarified-by-longbingljw-in-26071|OceanBase
+  parser selection explanation clarified by @longbingljw in ♯26071]]'
 - '[[Changes/GitHub Copilot CLI/2025-09-29-model-will-open-a-picker-to-change-the-model|/model
   will open a picker to change the model]]'
 - '[[Changes/GitHub Copilot CLI/2025-10-01-3-interface-experience-changes-in-v0-0-332|3

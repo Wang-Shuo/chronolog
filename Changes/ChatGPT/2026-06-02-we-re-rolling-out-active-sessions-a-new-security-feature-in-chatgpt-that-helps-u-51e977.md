@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 7d49fddf1ac7c42cc491d8e22c7430430302cb73d152e3c5ad5b6fb6d64fa751
+machine_hash: 33c7f79ec091c76c1a9942419febd3180613fcb5df77b745b5faa8e5e9f90974
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -51,12 +51,11 @@ record:
     review…
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-05-28-7-safety-and-privacy-changes-in-rust-v0-135-0|7
-  Safety and Privacy changes in rust-v0.135.0]]'
-- '[[Changes/Claude Code/2026-05-29-2-safety-and-privacy-changes-in-v2-1-157|2 Safety
-  and Privacy changes in v2.1.157]]'
-- '[[Changes/Codex CLI/2026-06-01-11-safety-and-privacy-changes-in-rust-v0-136-0|11
-  Safety and Privacy changes in rust-v0.136.0]]'
+- '[[Changes/Lovable/2026-06-01-security-scan-profiles|Security scan profiles]]'
+- '[[Changes/Lovable/2026-06-01-scheduled-security-scans-enterprise|Scheduled security
+  scans (Enterprise)]]'
+- '[[Changes/Open WebUI/2026-06-01-7-safety-and-privacy-changes-in-v0-9-6|7 Safety
+  and Privacy changes in v0.9.6]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-06-02-active-account-session-controls-0830d01c|chatgpt-2026-06-02-active-account-session-controls-0830d01c]]'
 source_type: chatgpt_changelog
 theme: safety-privacy
@@ -89,7 +88,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Safety and Privacy
 
-- Earlier: 2026-06-01 · Codex CLI · [[Changes/Codex CLI/2026-06-01-11-safety-and-privacy-changes-in-rust-v0-136-0|11 Safety and Privacy changes in rust-v0.136.0]]
+- Earlier: 2026-06-01 · Open WebUI · [[Changes/Open WebUI/2026-06-01-7-safety-and-privacy-changes-in-v0-9-6|7 Safety and Privacy changes in v0.9.6]]
 - Later: 2026-06-03 · Claude Code · [[Changes/Claude Code/2026-06-03-4-safety-and-privacy-changes-in-v2-1-162|4 Safety and Privacy changes in v2.1.162]]
 <!-- chronolog:end -->
 

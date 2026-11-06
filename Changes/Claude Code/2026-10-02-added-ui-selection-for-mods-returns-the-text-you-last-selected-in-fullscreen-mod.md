@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: ff98e0422e7b4d9579dd1a0642bb8f440d7741e4a0587db6b45d38574342f055
+machine_hash: 3fac4f8b845f58ba8959e5f1ac1003f27a0087483f938435144f2f3a3b20da26
 product: claude-code
 product_name: Claude Code
 record:
@@ -88,7 +88,7 @@ type: change
 ## Nearby in Interface Experience
 
 - Earlier: 2026-10-01 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-10-01-footer-text-selection-stays-on-the-same-visible-line-when-the-footer-grows-or-sh|Footer text selection stays on the same visible line when the footer grows or shrinks]]
-- Later: 2026-10-05 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-10-05-add-a-pre-conversation-ctrl-e-environment-picker-to-switch-between-local-and-clo|Add a pre-conversation Ctrl+E environment picker to switch between local and cloud runs]]
+- Later: 2026-10-02 · Replit · [[Changes/Replit/2026-10-02-new-settings-page|New Settings page]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

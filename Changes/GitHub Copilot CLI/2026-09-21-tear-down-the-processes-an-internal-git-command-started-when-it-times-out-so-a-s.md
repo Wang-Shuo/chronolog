@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: memory
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: daed629ec483bf601752c57eb1feba331ccb91dffc565b82ebea4f46a9350997
+machine_hash: cc179aba04bdf7d18636799e560e34ac9f3a6a918b89d2bd21820636abfa5b9b
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -89,7 +89,7 @@ type: change
 ## Nearby in Memory and Personalization
 
 - Earlier: 2026-09-17 · Codex CLI · [[Changes/Codex CLI/2026-09-17-7-memory-and-personalization-changes-in-rust-v0-155-0|7 Memory and Personalization changes in rust-v0.155.0]]
-- Later: 2026-09-22 · Codex CLI · [[Changes/Codex CLI/2026-09-22-6-memory-and-personalization-changes-in-rust-v0-156-0|6 Memory and Personalization changes in rust-v0.156.0]]
+- Later: 2026-09-21 · Open WebUI · [[Changes/Open WebUI/2026-09-21-6-memory-and-personalization-changes-in-v0-11-4|6 Memory and Personalization changes in v0.11.4]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

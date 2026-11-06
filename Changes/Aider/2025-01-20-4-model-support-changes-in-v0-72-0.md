@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 1a8d238d26795f5cab984116042ec59f5720482f88ed5c71172cb6c2083bfb60
+machine_hash: a7528dde7ab2dacdd59d395653f13ce5e678a815d6b73f9c947dc275e9222837
 product: aider
 product_name: Aider
 record:
@@ -46,12 +46,12 @@ record:
   title: 4 Model Support changes in v0.72.0
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2024-12-13-projects-provide-a-new-way-to-group-files-and-chats-for-personal-use-simplifying|Projects
-  provide a new way to group files and chats for personal use, simplifying…]]'
-- '[[Changes/Aider/2024-12-26-3-model-support-changes-in-v0-70-0|3 Model Support changes
-  in v0.70.0]]'
+- '[[Changes/Ollama/2025-01-08-5-model-support-changes-in-v0-5-5|5 Model Support changes
+  in v0.5.5]]'
 - '[[Changes/Aider/2025-01-10-2-model-support-changes-in-v0-71-0|2 Model Support changes
   in v0.71.0]]'
+- '[[Changes/Dify/2025-01-13-2-model-support-changes-in-0-15-1|2 Model Support changes
+  in 0.15.1]]'
 source_release: '[[Releases/Aider/aider-2025-01-20-v0-72-0-github-195728533-ef711abb|aider-2025-01-20-v0-72-0-github-195728533-ef711abb]]'
 source_type: github_releases
 theme: model-support
@@ -88,8 +88,8 @@ Source: https://github.com/Aider-AI/aider/releases/tag/v0.72.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2025-01-10 · Aider · [[Changes/Aider/2025-01-10-2-model-support-changes-in-v0-71-0|2 Model Support changes in v0.71.0]]
-- Later: 2025-01-21 · Cline · [[Changes/Cline/2025-01-21-add-vs-code-lm-api-provider-to-run-models-provided-by-other-vs-code-extensions-e|Add VS Code LM API provider to run models provided by other VS Code extensions…]]
+- Earlier: 2025-01-13 · Dify · [[Changes/Dify/2025-01-13-2-model-support-changes-in-0-15-1|2 Model Support changes in 0.15.1]]
+- Later: 2025-01-20 · DeepSeek API · [[Changes/DeepSeek API/2025-01-20-deepseek-reasoner|deepseek-reasoner]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

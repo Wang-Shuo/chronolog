@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 66353f0d2e374ecf1bce67ec6523ed0557caf9807b6dc723497bef4b0184a30b
+machine_hash: d18ffcd0fcc22906c49816837fd23bb91a41ce2b1aa1f33f586e072873c08dcd
 product: cursor
 product_name: Cursor
 record:
@@ -46,10 +46,10 @@ record:
   title: Cursor is now based on VS Code 1.84.2
   type: change
 related_changes:
-- '[[Changes/Cursor/2023-10-20-cursor-is-now-based-on-vs-code-1-83-1-this-ensures-that-the-newest-versions-of-a|Cursor
-  is now based on VS Code 1.83.1]]'
 - '[[Changes/ChatGPT/2023-11-06-you-can-now-create-custom-versions-of-chatgpt-that-combine-instructions-extra-kn-5c0997|Introducing
   GPTs]]'
+- '[[Changes/Dify/2023-11-13-2-apps-and-integrations-changes-in-0-3-30|2 Apps and
+  Integrations changes in 0.3.30]]'
 - '[[Changes/Cursor/2023-11-15-now-based-on-vs-code-1-84-2-notably-this-fixes-a-few-notebook-bugs-and-ensures-t|New
   upstream]]'
 source_release: '[[Releases/Cursor/cursor-2023-11-15-0-16-0-https-cursor-com-changelog-0-16-0-5861ed6e|cursor-2023-11-15-0-16-0-https-cursor-com-changelog-0-16-0-5861ed6e]]'
@@ -81,7 +81,7 @@ type: change
 ## Nearby in Apps and Integrations
 
 - Earlier: 2023-11-15 · Cursor · [[Changes/Cursor/2023-11-15-now-based-on-vs-code-1-84-2-notably-this-fixes-a-few-notebook-bugs-and-ensures-t|New upstream]]
-- Later: 2023-12-16 · Cursor · [[Changes/Cursor/2023-12-16-copilot-we-ve-continued-to-improve-the-copilot-ghost-text-experience-surprisingl|Copilot++: We've continued to improve the Copilot++ ghost text experience]]
+- Later: 2023-11-21 · Dify · [[Changes/Dify/2023-11-21-feat-remove-plugin-page-by-zxhlyh-in-https-github-com-langgenius-dify-pull-1544|feat: remove plugin page]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: expansion
-machine_hash: 00e62f90514fca2c64187221b225d758c632c7ec3aa9e5357b780b6f013227fb
+machine_hash: d24a4c1caf3a0f34277bde888f1fc8be28ad801f94f1e805925c5ea7ff8689d6
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -43,9 +43,10 @@ record:
   title: GitHub connector for deep research
   type: change
 related_changes:
-- '[[Changes/Cline/2025-05-03-refactor-message-handling-to-not-show-the-mcp-view-of-the-server-modal|Refactor
-  message handling to not show the MCP View of the server modal]]'
-- '[[Changes/Windsurf/2025-05-07-cascade-plugins|Cascade Plugins]]'
+- "[[Changes/Open WebUI/2025-05-10-external-reranker-support-for-knowledge-base-search-supercharge-your-retrieval-a|\U0001F3C6
+  External Reranker Support for Knowledge Base Search]]"
+- "[[Changes/Open WebUI/2025-05-10-external-reranker-integration-functionality-restored-external-reranker-integrati|\U0001F916
+  External Reranker Integration Functionality Restored]]"
 - '[[Changes/OpenHands/2025-05-12-2-apps-and-integrations-changes-in-0-38-0|2 Apps
   and Integrations changes in 0.38.0]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-05-15-github-connector-for-deep-research-0808a124|chatgpt-2025-05-15-github-connector-for-deep-research-0808a124]]'

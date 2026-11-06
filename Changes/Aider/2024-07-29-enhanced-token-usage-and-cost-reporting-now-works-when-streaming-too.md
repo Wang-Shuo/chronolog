@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: pricing
-machine_hash: 57601f51adbb3f4a5449ae210822b3f489006b4660d5db5e47efd561b092821a
+machine_hash: f2100d5bc73d530f25c2d2e7dab7e79a0a967ca93faddfc0ad0d50e0066e3509
 product: aider
 product_name: Aider
 record:
@@ -43,12 +43,12 @@ record:
   title: Enhanced token usage and cost reporting
   type: change
 related_changes:
-- '[[Changes/Cursor/2023-11-03-pro-plan-if-you-hit-your-fast-request-limit-and-prefer-to-purchase-more-you-now|Pro++
-  plan: if you hit your fast request limit and prefer to purchase more, you now can]]'
-- '[[Changes/Aider/2024-02-10-updated-all-openai-model-names-pricing-info|Updated
-  all OpenAI model names, pricing info]]'
 - '[[Changes/OpenHands/2024-06-04-add-cost-metrics-to-evaluation-outputs-for-all-benchmarks-by-ryanhoangt-in-https|Add
   cost metrics to evaluation outputs for all benchmarks]]'
+- '[[Changes/Dify/2024-06-14-feat-pricing-page-add-llm-load-balancing-info-by-iamjoel-in-https-github-com-lan|feat:
+  pricing page add llm load balancing info]]'
+- '[[Changes/Gemini/2024-07-15-workspace-extensions-now-available-in-beta-for-gemini-for-google-workspace-add-o|Workspace
+  Extensions now available in Beta for Gemini for Google Workspace add-on…]]'
 source_release: '[[Releases/Aider/aider-2024-07-29-v0-46-0-github-167657280-41bdfe9c|aider-2024-07-29-v0-46-0-github-167657280-41bdfe9c]]'
 source_type: github_releases
 theme: pricing-model
@@ -80,7 +80,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Pricing Model
 
-- Earlier: 2024-06-04 · OpenHands · [[Changes/OpenHands/2024-06-04-add-cost-metrics-to-evaluation-outputs-for-all-benchmarks-by-ryanhoangt-in-https|Add cost metrics to evaluation outputs for all benchmarks]]
+- Earlier: 2024-07-15 · Gemini · [[Changes/Gemini/2024-07-15-workspace-extensions-now-available-in-beta-for-gemini-for-google-workspace-add-o|Workspace Extensions now available in Beta for Gemini for Google Workspace add-on…]]
 - Later: 2024-08-13 · Aider · [[Changes/Aider/2024-08-13-improved-token-and-cost-reporting-for-infinite-output|Improved token and cost reporting for infinite output]]
 <!-- chronolog:end -->
 

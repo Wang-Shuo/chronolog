@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: accessibility-localization
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 0c5ea16e03a9b9029d3e2880ec6338a8e499edce2cad0225ca016ffeda7ea360
+machine_hash: 90a67fd6f987804ecc1656259e7a7cf2799ac7a66c8fa7bf9c3dfb8c7e7d1169
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -41,12 +41,12 @@ record:
   title: Only show screen reader notice once
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2025-10-07-added-a-prompt-for-users-who-launch-with-screen-reader-to-persistently-save-this|Added
-  a prompt for users who launch with --screen-reader to persistently save…]]'
 - '[[Changes/Gemini CLI/2025-10-22-show-notification-in-screen-reader-mode-by-chrstnb-in-https-github-com-google-ge|Show
   notification in screen reader mode]]'
 - '[[Changes/Gemini CLI/2025-11-04-cherry-pick-screen-reader-nudge-changes-by-chrstnb-in-https-github-com-google-ge|Cherry
   pick screen reader nudge changes]]'
+- '[[Changes/Open WebUI/2025-11-06-screen-reader-support-was-enhanced-by-wrapping-messages-in-semantic-elements-wit|♿
+  Screen reader support was enhanced by wrapping messages in semantic elements…]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2025-11-07-v0-13-0-github-260462305-15cfa0b7|gemini-cli-2025-11-07-v0-13-0-github-260462305-15cfa0b7]]'
 source_type: github_releases
 theme: accessibility-localization
@@ -88,8 +88,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Accessibility and Localization
 
-- Earlier: 2025-11-04 · Gemini CLI · [[Changes/Gemini CLI/2025-11-04-cherry-pick-screen-reader-nudge-changes-by-chrstnb-in-https-github-com-google-ge|Cherry pick screen reader nudge changes]]
-- Later: 2025-12-12 · Cline · [[Changes/Cline/2025-12-12-accessibility-screen-reader-support-for-slash-and-context-menus-by-mingxuanzhang|accessibility: screen reader support for slash and context menus]]
+- Earlier: 2025-11-06 · Open WebUI · [[Changes/Open WebUI/2025-11-06-screen-reader-support-was-enhanced-by-wrapping-messages-in-semantic-elements-wit|♿ Screen reader support was enhanced by wrapping messages in semantic elements…]]
+- Later: 2025-11-13 · Dify · [[Changes/Dify/2025-11-13-feat-localization-for-hi-in-by-smartdever02-in-https-github-com-langgenius-dify|feat: localization for hi-IN]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

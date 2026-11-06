@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: f9a69f502e67ae11447dc4c4a18817ce32e7046f6ce1b439dae488d51ded187b
+machine_hash: fedf51db27fa5ac9ff5bc3367edfab4b872602d92b159df84692746d3efa67ef
 product: claude-code
 product_name: Claude Code
 record:
@@ -43,12 +43,12 @@ record:
   title: '`/config` settings (theme, editor mode, verbose, etc.) now persist…'
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-04-16-a-clear-error-message-is-displayed-when-the-configured-editor-cannot-be-launched|A
-  clear error message is displayed when the configured editor cannot be launched]]'
 - '[[Changes/Claude Code/2026-04-17-remote-control-clients-can-now-query-file-autocomplete-suggestions|Remote
   Control clients can now query @-file autocomplete suggestions]]'
 - '[[Changes/Claude Code/2026-04-20-2-editor-experience-changes-in-v2-1-116|2 Editor
   Experience changes in v2.1.116]]'
+- '[[Changes/Open WebUI/2026-04-21-5-editor-experience-changes-in-v0-9-0|5 Editor
+  Experience changes in v0.9.0]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-04-23-v2-1-119-github-312949780-573724e7|claude-code-2026-04-23-v2-1-119-github-312949780-573724e7]]'
 source_type: github_releases
 theme: editor-experience
@@ -82,7 +82,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2026-04-20 · Claude Code · [[Changes/Claude Code/2026-04-20-2-editor-experience-changes-in-v2-1-116|2 Editor Experience changes in v2.1.116]]
+- Earlier: 2026-04-21 · Open WebUI · [[Changes/Open WebUI/2026-04-21-5-editor-experience-changes-in-v0-9-0|5 Editor Experience changes in v0.9.0]]
 - Later: 2026-04-23 · Claude Code · [[Changes/Claude Code/2026-04-23-merged-cost-and-stats-into-usage-both-remain-as-typing-shortcuts-that-open-the-r|Merged /cost and /stats into /usage]]
 <!-- chronolog:end -->
 

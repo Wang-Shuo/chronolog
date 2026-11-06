@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: c57819d906009f767f16fe719dd6d0ea2c404f2b11221de7a3383e763081fda2
+machine_hash: 0af085e93a42df1ee0b578db2b4ee7b08c6212589b3bd9ea63543c9e284e52d1
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -46,12 +46,10 @@ record:
   title: World Cup updates
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-06-04-4-collaboration-changes-in-rust-v0-137-0|4 Collaboration
-  changes in rust-v0.137.0]]'
-- '[[Changes/GitHub Copilot CLI/2026-06-05-show-the-mission-control-sharing-status-of-synced-sessions-in-the-session-info-v|Show
-  the Mission Control sharing status of synced sessions in the /session info view]]'
 - '[[Changes/Codex CLI/2026-06-15-27245-image-add-shared-data-url-preparation-utilities-fjord-oai|♯27245
   image: add shared data URL preparation utilities @fjord-oai]]'
+- '[[Changes/Lovable/2026-06-15-clearer-inbox-notifications|Clearer inbox notifications]]'
+- '[[Changes/Lovable/2026-06-16-cleaner-preview-links|Cleaner preview links]]'
 scope: Web, iOS, and Android
 source_release: '[[Releases/ChatGPT/chatgpt-2026-06-18-chatgpt-app-experience-updates-d15f55c5|chatgpt-2026-06-18-chatgpt-app-experience-updates-d15f55c5]]'
 source_type: chatgpt_changelog
@@ -88,8 +86,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Collaboration
 
-- Earlier: 2026-06-15 · Codex CLI · [[Changes/Codex CLI/2026-06-15-27245-image-add-shared-data-url-preparation-utilities-fjord-oai|♯27245 image: add shared data URL preparation utilities @fjord-oai]]
-- Later: 2026-06-22 · Codex CLI · [[Changes/Codex CLI/2026-06-22-26707-pac-2-add-shared-auth-system-proxy-contract-canvrno-oai|♯26707 PAC 2 - Add shared auth system proxy contract @canvrno-oai]]
+- Earlier: 2026-06-16 · Lovable · [[Changes/Lovable/2026-06-16-cleaner-preview-links|Cleaner preview links]]
+- Later: 2026-06-19 · v0 · [[Changes/v0/2026-06-19-4-collaboration-changes-in-annotations-mode-in-form-questions|4 Collaboration changes in Annotations mode, in-form questions…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

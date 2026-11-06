@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: b67cd15231c64cc3cf35ff23a6c60b216a17bbada6b3d4897d64eb4a1a2e83d2
+machine_hash: 1309fb173344e9c3576d46507556ee4fb4ee502060f155e7c29e1dbb553b958d
 product: cline
 product_name: Cline
 record:
@@ -42,12 +42,12 @@ record:
   title: 2 Developer Workflow changes in v4.1.3
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2026-07-28-feat-evals-add-eval-coverage-report-command-by-ved015-in-https-github-com-google|feat(evals):
-  add eval coverage report command]]'
 - '[[Changes/Codex CLI/2026-07-29-12-developer-workflow-changes-in-rust-v0-146-0|12
   Developer Workflow changes in rust-v0.146.0]]'
 - '[[Changes/GitHub Copilot CLI/2026-07-30-2-developer-workflow-changes-in-v1-0-76|2
   Developer Workflow changes in v1.0.76]]'
+- '[[Changes/v0/2026-07-31-duplicating-a-git-backed-chat-produces-a-working-copy-instead-of-one-that-fails|Duplicating
+  a Git-backed chat produces a working copy instead of one that fails to render]]'
 source_release: '[[Releases/Cline/cline-2026-08-02-v4-1-3-github-363709138-84b1555e|cline-2026-08-02-v4-1-3-github-363709138-84b1555e]]'
 source_type: github_releases
 theme: developer-workflow
@@ -83,7 +83,7 @@ Source: https://github.com/cline/cline/releases/tag/v4.1.3
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2026-07-30 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-07-30-2-developer-workflow-changes-in-v1-0-76|2 Developer Workflow changes in v1.0.76]]
+- Earlier: 2026-07-31 · v0 · [[Changes/v0/2026-07-31-duplicating-a-git-backed-chat-produces-a-working-copy-instead-of-one-that-fails|Duplicating a Git-backed chat produces a working copy instead of one that fails to render]]
 - Later: 2026-08-03 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-08-03-2-developer-workflow-changes-in-v1-0-78|2 Developer Workflow changes in v1.0.78]]
 <!-- chronolog:end -->
 

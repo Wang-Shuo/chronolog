@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 858ef70c62831a895815da59268fb7327d52405403048b2eb3b4c9c590663036
+machine_hash: b45ca8fda4c70737f28e16bc13bd8fae343893dcedb0e6ff0c0c77fb83a2a5bf
 product: cursor
 product_name: Cursor
 record:
@@ -43,8 +43,8 @@ record:
   title: Use Cursor where your team works
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-06-04-admin-api-for-teams-to-access-usage-metrics-and-spend-data|Admin
-  API for teams to access usage metrics and spend data]]'
+- "[[Changes/Open WebUI/2025-06-10-dedicated-user-role-edit-modal-updating-user-roles-now-reliably-opens-a-dedicate|\U0001F4DD
+  Dedicated User Role Edit Modal]]"
 - '[[Changes/ChatGPT/2025-06-12-sharing-chats-from-projects|Sharing chats from projects]]'
 - '[[Changes/ChatGPT/2025-06-12-starting-today-we-re-adding-several-updates-to-projects-in-chatgpt-to-help-you-d|Starting
   today, we’re adding several updates to projects in ChatGPT to help you do…]]'
@@ -84,7 +84,7 @@ type: change
 ## Nearby in Collaboration
 
 - Earlier: 2025-06-12 · ChatGPT · [[Changes/ChatGPT/2025-06-12-starting-today-we-re-adding-several-updates-to-projects-in-chatgpt-to-help-you-d|Starting today, we’re adding several updates to projects in ChatGPT to help you do…]]
-- Later: 2025-07-11 · Cline · [[Changes/Cline/2025-07-11-request-validation-and-remove-credit-balance-for-cline-team-by-abeatrix-in-https|Request validation and remove credit balance for cline team]]
+- Later: 2025-06-13 · Replit · [[Changes/Replit/2025-06-13-teams-members-page-improvements|Teams members page improvements]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

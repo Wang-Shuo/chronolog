@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 88e43fd648556a1f5a44da3606936778162f06836c1fd8f9ce5e90273b981417
+machine_hash: bc6054ca8d8a3938d6848ad53ba5ff70db57b35c9da6b79c02c3bc71db7a7b4b
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -45,12 +45,11 @@ record:
   title: 3 Interface Experience changes in v0.1.21
   type: change
 related_changes:
-- '[[Changes/Aider/2025-08-09-clear-now-prints-all-chat-history-cleared-so-you-know-it-worked-by-zexin-yuan|/clear
-  now prints “All chat history cleared.” so you know it worked, by Zexin Yuan]]'
 - '[[Changes/Gemini CLI/2025-08-12-5356-minor-fix-remove-duplicate-binding-and-add-complete-navigation-command-by-l|♯5356
   Minor fix: Remove duplicate binding and add complete navigation command]]'
 - '[[Changes/Cline/2025-08-13-move-browser-settings-menu-to-tailwind-by-celestial-vault-in-https-github-com-cl|move
   browser settings menu to tailwind]]'
+- '[[Changes/Gemini/2025-08-13-introducing-temporary-chat|Introducing Temporary Chat]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2025-08-14-v0-1-21-github-239867721-f576cbaa|gemini-cli-2025-08-14-v0-1-21-github-239867721-f576cbaa]]'
 source_type: github_releases
 theme: interface-experience
@@ -99,7 +98,7 @@ Source: https://github.com/google-gemini/gemini-cli/releases/tag/v0.1.21
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2025-08-13 · Cline · [[Changes/Cline/2025-08-13-move-browser-settings-menu-to-tailwind-by-celestial-vault-in-https-github-com-cl|move browser settings menu to tailwind]]
+- Earlier: 2025-08-13 · Gemini · [[Changes/Gemini/2025-08-13-introducing-temporary-chat|Introducing Temporary Chat]]
 - Later: 2025-08-20 · Codex CLI · [[Changes/Codex CLI/2025-08-20-2-interface-experience-changes-in-rust-v0-23-0|2 Interface Experience changes in rust-v0.23.0]]
 <!-- chronolog:end -->
 

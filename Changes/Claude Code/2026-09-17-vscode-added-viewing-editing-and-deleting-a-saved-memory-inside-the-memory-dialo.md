@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: memory
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 52addd2b6307b5412b6c67891d1383d048dc045ce1cfd741384baaaadaae823a
+machine_hash: 1cca1ec94ab07a5721cce8c5cf75f3ee561a0baf81e733f82d45bac258c3b4d6
 product: claude-code
 product_name: Claude Code
 record:
@@ -43,10 +43,10 @@ record:
     dialog'
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-09-09-2-memory-and-personalization-changes-in-rust-v0-154-0|2
-  Memory and Personalization changes in rust-v0.154.0]]'
 - '[[Changes/Claude Code/2026-09-10-2-memory-and-personalization-changes-in-v2-1-268|2
   Memory and Personalization changes in v2.1.268]]'
+- '[[Changes/Dify/2026-09-10-2-memory-and-personalization-changes-in-1-17-1|2 Memory
+  and Personalization changes in 1.17.1]]'
 - '[[Changes/GitHub Copilot CLI/2026-09-16-3-memory-and-personalization-changes-in-v1-0-85|3
   Memory and Personalization changes in v1.0.85]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-17-v2-1-275-github-391032307-12ccfafd|claude-code-2026-09-17-v2-1-275-github-391032307-12ccfafd]]'

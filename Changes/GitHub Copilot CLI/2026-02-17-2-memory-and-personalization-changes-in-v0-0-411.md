@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: memory
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: f22b7515ca8d6eadce2d119f0fac805d28b5f4a690755590676676c999c0b634
+machine_hash: 3acd18b2e13e9672c8c9315b02f624bf742c92fadba5273dcdcafb8d5b084715
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -42,8 +42,8 @@ record:
   title: 2 Memory and Personalization changes in v0.0.411
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-02-12-6-memory-and-personalization-changes-in-rust-v0-101-0|6
-  Memory and Personalization changes in rust-v0.101.0]]'
+- '[[Changes/Open WebUI/2026-02-12-2-memory-and-personalization-changes-in-v0-8-0|2
+  Memory and Personalization changes in v0.8.0]]'
 - '[[Changes/GitHub Copilot CLI/2026-02-14-reduced-memory-growth-in-long-sessions-by-evicting-transient-events-after-compac|Reduced
   memory growth in long sessions by evicting transient events after compaction]]'
 - '[[Changes/Codex CLI/2026-02-17-4-memory-and-personalization-changes-in-rust-v0-102-0|4
@@ -88,7 +88,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v0.0.411
 ## Nearby in Memory and Personalization
 
 - Earlier: 2026-02-17 · Codex CLI · [[Changes/Codex CLI/2026-02-17-4-memory-and-personalization-changes-in-rust-v0-102-0|4 Memory and Personalization changes in rust-v0.102.0]]
-- Later: 2026-02-18 · Gemini CLI · [[Changes/Gemini CLI/2026-02-18-2-memory-and-personalization-changes-in-v0-29-0|2 Memory and Personalization changes in v0.29.0]]
+- Later: 2026-02-17 · Open WebUI · [[Changes/Open WebUI/2026-02-17-faster-model-filtering-model-access-control-filtering-no-longer-makes-a-redundan|⚡ Faster model filtering. Model access control filtering no longer makes…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

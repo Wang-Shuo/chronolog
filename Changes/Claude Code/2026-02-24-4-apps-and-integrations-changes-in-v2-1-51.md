@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 95885d5dc4913b6b360da5a552b8674e716d69569597fe94673d267cab79a9dd
+machine_hash: ac0bc2d2241455e7cecfef638b67a140cbcc02285be7b8b899807887d64a6f20
 product: claude-code
 product_name: Claude Code
 record:
@@ -51,12 +51,11 @@ record:
   title: 4 Apps and Integrations changes in v2.1.51
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-02-20-support-remote-plugin-sources-github-repos-and-git-urls-in-marketplace-json-plug|Support
-  remote plugin sources (GitHub repos and git URLs) in marketplace.json plugin…]]'
-- '[[Changes/GitHub Copilot CLI/2026-02-21-explore-agent-can-now-use-github-mcp-tools-when-available|Explore
-  agent can now use GitHub MCP tools when available]]'
-- '[[Changes/GitHub Copilot CLI/2026-02-23-5-apps-and-integrations-changes-in-v0-0-415|5
-  Apps and Integrations changes in v0.0.415]]'
+- '[[Changes/Lovable/2026-02-23-lovable-cloud-updates|Lovable Cloud updates]]'
+- "[[Changes/Open WebUI/2026-02-23-mcp-ssl-verification-fix-mcp-tool-connections-now-properly-respect-the-aiohttp-c|\U0001F513
+  MCP SSL verification fix. MCP tool connections now properly respect…]]"
+- '[[Changes/Claude/2026-02-24-cowork-plugins-and-admin-controls|Cowork plugins and
+  admin controls]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-02-24-v2-1-51-github-289665343-b4bbdd9c|claude-code-2026-02-24-v2-1-51-github-289665343-b4bbdd9c]]'
 source_type: github_releases
 theme: apps-integrations
@@ -96,7 +95,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.51
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-02-23 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-02-23-5-apps-and-integrations-changes-in-v0-0-415|5 Apps and Integrations changes in v0.0.415]]
+- Earlier: 2026-02-24 · Claude · [[Changes/Claude/2026-02-24-cowork-plugins-and-admin-controls|Cowork plugins and admin controls]]
 - Later: 2026-02-24 · Cline · [[Changes/Cline/2026-02-24-add-mcp-enterprise-configuration-details|Add MCP enterprise configuration details]]
 <!-- chronolog:end -->
 

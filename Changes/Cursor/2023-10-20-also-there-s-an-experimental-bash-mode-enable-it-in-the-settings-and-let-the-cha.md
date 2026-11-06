@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: defdaafc496ac7a6351627d68e0dd2b8dc51324c0436a03df43f2681ff93feee
+machine_hash: b88678c706c591543300f54b49a066d2b3d9a3b3847be11ca11ae923b46b207e
 product: cursor
 product_name: Cursor
 record:
@@ -83,7 +83,7 @@ type: change
 ## Nearby in Developer Workflow
 
 - Earlier: 2023-10-20 · Aider · [[Changes/Aider/2023-10-20-3-developer-workflow-changes-in-v0-15-0|3 Developer Workflow changes in v0.15.0]]
-- Later: 2024-01-04 · Aider · [[Changes/Aider/2024-01-04-improved-unicode-encoding-for-run-command-output-by-ctoth|Improved unicode encoding for /run command output, by @ctoth]]
+- Later: 2023-11-21 · Dify · [[Changes/Dify/2023-11-21-3-developer-workflow-changes-in-0-3-31|3 Developer Workflow changes in 0.3.31]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

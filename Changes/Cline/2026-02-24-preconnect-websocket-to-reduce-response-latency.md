@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 7aefa49854db2c25d86ce2be2d856035072c00d1877940d89b7f014b6361863c
+machine_hash: 2fe1940d753388ca82e13230313bf962291178e0b666cc65b0b9b265ac961ff1
 product: cline
 product_name: Cline
 record:
@@ -40,12 +40,11 @@ record:
   title: Preconnect websocket to reduce response latency
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-02-19-2-reliability-and-performance-changes-in-v0-0-412|2
-  Reliability and Performance changes in v0.0.412]]'
-- '[[Changes/Claude Code/2026-02-20-3-reliability-and-performance-changes-in-v2-1-50|3
-  Reliability and Performance changes in v2.1.50]]'
-- '[[Changes/GitHub Copilot CLI/2026-02-20-improve-code-search-speed-in-large-repos|Improve
-  code search speed in large repos]]'
+- '[[Changes/Ollama/2026-02-21-improved-tokenizer-performance|Improved tokenizer performance]]'
+- '[[Changes/Lovable/2026-02-23-project-search-has-been-improved-with-faster-full-text-search-better-substring-m|Project
+  search has been improved with faster full-text search, better substring…]]'
+- '[[Changes/Open WebUI/2026-02-23-10-reliability-and-performance-changes-in-v0-8-4|10
+  Reliability and Performance changes in v0.8.4]]'
 source_release: '[[Releases/Cline/cline-2026-02-24-v3-67-0-github-289672223-0705057f|cline-2026-02-24-v3-67-0-github-289672223-0705057f]]'
 source_type: github_releases
 theme: reliability-performance
@@ -78,8 +77,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2026-02-20 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-02-20-improve-code-search-speed-in-large-repos|Improve code search speed in large repos]]
-- Later: 2026-02-25 · Codex CLI · [[Changes/Codex CLI/2026-02-25-3-reliability-and-performance-changes-in-rust-v0-105-0|3 Reliability and Performance changes in rust-v0.105.0]]
+- Earlier: 2026-02-23 · Open WebUI · [[Changes/Open WebUI/2026-02-23-10-reliability-and-performance-changes-in-v0-8-4|10 Reliability and Performance changes in v0.8.4]]
+- Later: 2026-02-24 · Ollama · [[Changes/Ollama/2026-02-24-mlx-engine-now-has-improved-memory-usage|MLX engine now has improved memory usage]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

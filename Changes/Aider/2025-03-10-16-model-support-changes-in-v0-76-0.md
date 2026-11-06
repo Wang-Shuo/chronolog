@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 2e2b0b07baf572dec6c057bbc18d5ec1791f7bb6a409a376e832f674a3389172
+machine_hash: 88fce3fd498c55e5f0f5f70f71727a4a6552b7c57819605c58125e9980cb8a93
 product: aider
 product_name: Aider
 record:
@@ -74,10 +74,10 @@ record:
   title: 16 Model Support changes in v0.76.0
   type: change
 related_changes:
-- '[[Changes/Aider/2025-03-04-4-model-support-changes-in-v0-75-0|4 Model Support changes
-  in v0.75.0]]'
 - '[[Changes/Cline/2025-03-06-add-new-gemini-models-to-gcp-vertex-thanks-shohei-ihaya-and-claude-models-asksag|Add
   new Gemini models to GCP Vertex (thanks @shohei-ihaya!) and Claude models…]]'
+- '[[Changes/Lovable/2025-03-07-addressed-main-regressions-introduced-with-sonnet-3-7-https-lovable-dev-blog-ant|Addressed
+  main regressions introduced with Sonnet…]]'
 - '[[Changes/OpenHands/2025-03-07-default-version-of-claude-is-now-claude-3-7-sonnet-20250219-by-tofarr-in-https-g|Default
   version of Claude is now claude-3-7-sonnet-20250219]]'
 source_release: '[[Releases/Aider/aider-2025-03-10-v0-76-0-github-204781393-e828f532|aider-2025-03-10-v0-76-0-github-204781393-e828f532]]'

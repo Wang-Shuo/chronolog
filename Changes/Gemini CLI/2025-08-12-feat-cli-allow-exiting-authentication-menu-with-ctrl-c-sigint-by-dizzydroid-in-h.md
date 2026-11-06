@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 3997e55548633177d2fff4db897eca515d26a5502e911448c6183abe55e617f6
+machine_hash: bdbabac8433e7f1e3608ab375bb068f23ab8f8f866f90631cfce68b4924140c5
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -52,12 +52,12 @@ record:
   title: 'feat(cli): Allow Exiting Authentication Menu with CTRL+C (SIGINT)'
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2025-08-05-6-account-and-access-changes-in-v0-1-17|6 Account
-  and Access changes in v0.1.17]]'
-- '[[Changes/Gemini CLI/2025-08-06-6-account-and-access-changes-in-v0-1-18|6 Account
-  and Access changes in v0.1.18]]'
+- '[[Changes/Replit/2025-08-08-object-storage-agent-integration|Object Storage Agent
+  integration]]'
 - '[[Changes/Codex CLI/2025-08-09-https-github-com-openai-codex-pull-2042-should-help-fix-the-python-certificates|(source
   link) should help/fix the Python certificates…]]'
+- '[[Changes/Open WebUI/2025-08-09-4-account-and-access-changes-in-v0-6-19|4 Account
+  and Access changes in v0.6.19]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2025-08-12-v0-1-19-github-239452049-c4d9f679|gemini-cli-2025-08-12-v0-1-19-github-239452049-c4d9f679]]'
 source_type: github_releases
 theme: account-access
@@ -97,7 +97,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Account and Access
 
-- Earlier: 2025-08-09 · Codex CLI · [[Changes/Codex CLI/2025-08-09-https-github-com-openai-codex-pull-2042-should-help-fix-the-python-certificates|(source link) should help/fix the Python certificates…]]
+- Earlier: 2025-08-09 · Open WebUI · [[Changes/Open WebUI/2025-08-09-4-account-and-access-changes-in-v0-6-19|4 Account and Access changes in v0.6.19]]
 - Later: 2025-08-14 · Gemini CLI · [[Changes/Gemini CLI/2025-08-14-7-account-and-access-changes-in-v0-1-21|7 Account and Access changes in v0.1.21]]
 <!-- chronolog:end -->
 

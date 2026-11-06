@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: e4f9e57077ca474ac8947b0a9d9680c37b1df349f0c814bc3cc6b3d8b42e1388
+machine_hash: 1f87321247d0e89b9bca4598a0550fbc9e7cec6fb6e5c65d74eaa1c863316146
 product: claude-code
 product_name: Claude Code
 record:
@@ -44,12 +44,12 @@ record:
   title: 2 Model Support changes in v2.1.198
   type: change
 related_changes:
-- '[[Changes/Cline/2026-06-30-add-support-for-claude-sonnet-5-across-the-anthropic-bedrock-vertex-claude-code|Add
-  support for Claude Sonnet 5 across the Anthropic, Bedrock, Vertex, Claude Code…]]'
-- '[[Changes/GitHub Copilot CLI/2026-06-30-add-claude-sonnet-5-as-a-supported-model|Add
-  Claude Sonnet 5 as a supported model]]'
 - '[[Changes/GitHub Copilot CLI/2026-06-30-5-model-support-changes-in-v1-0-66|5 Model
   Support changes in v1.0.66]]'
+- '[[Changes/Ollama/2026-06-30-tightened-gemma-4-moe-model-loading-in-the-mlx-engine|Tightened
+  Gemma 4 MoE model loading in the MLX engine]]'
+- '[[Changes/Claude/2026-07-01-model-entitlements-for-enterprise-plans-beta|Model
+  entitlements for Enterprise plans (beta)]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-07-01-v2-1-198-github-347599701-9cec0dab|claude-code-2026-07-01-v2-1-198-github-347599701-9cec0dab]]'
 source_type: github_releases
 theme: model-support
@@ -89,7 +89,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.198
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-06-30 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-06-30-5-model-support-changes-in-v1-0-66|5 Model Support changes in v1.0.66]]
+- Earlier: 2026-07-01 · Claude · [[Changes/Claude/2026-07-01-model-entitlements-for-enterprise-plans-beta|Model entitlements for Enterprise plans (beta)]]
 - Later: 2026-07-01 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-07-01-add-support-for-the-kimi-k2-7-code-model|Add support for the kimi-k2.7-code model]]
 <!-- chronolog:end -->
 

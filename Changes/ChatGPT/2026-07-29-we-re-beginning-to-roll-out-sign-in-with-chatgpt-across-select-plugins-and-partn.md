@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: b53322e6aeefdbee2e499936b0ced0a844de941d1842692db9a70bb6c8ba0ee0
+machine_hash: 20aeed9e2f2072d4e5676bed4da5f80d69d0fec2740852c880ebaeee0c884a09
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -69,12 +69,12 @@ record:
   title: Sign in with ChatGPT
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-07-24-5-apps-and-integrations-changes-in-v2-1-219|5
-  Apps and Integrations changes in v2.1.219]]'
-- '[[Changes/Cline/2026-07-24-include-the-host-plugin-version-in-telemetry-events|Include
-  the host plugin version in telemetry events]]'
-- '[[Changes/Cursor/2026-07-28-plugins-mcp-servers-hooks-and-skills-to-extend-cursor-across-your-workflows|Plugins,
-  MCP servers, hooks, and skills to extend Cursor across your workflows]]'
+- '[[Changes/Lovable/2026-07-28-upgrade-an-older-project-to-tanstack-start|Upgrade
+  an older project to TanStack Start]]'
+- '[[Changes/Lovable/2026-07-28-app-chat-connectors-google-analytics-and-xero|App
+  + chat connectors: Google Analytics and Xero]]'
+- '[[Changes/Lovable/2026-07-28-connect-pipedrive-in-one-click|Connect Pipedrive in
+  one click]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-07-29-sign-in-with-chatgpt-d166182a|chatgpt-2026-07-29-sign-in-with-chatgpt-d166182a]]'
 source_type: chatgpt_changelog
 theme: apps-integrations
@@ -101,7 +101,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-07-28 · Cursor · [[Changes/Cursor/2026-07-28-plugins-mcp-servers-hooks-and-skills-to-extend-cursor-across-your-workflows|Plugins, MCP servers, hooks, and skills to extend Cursor across your workflows]]
+- Earlier: 2026-07-28 · Lovable · [[Changes/Lovable/2026-07-28-connect-pipedrive-in-one-click|Connect Pipedrive in one click]]
 - Later: 2026-07-29 · Codex CLI · [[Changes/Codex CLI/2026-07-29-47-apps-and-integrations-changes-in-rust-v0-146-0|47 Apps and Integrations changes in rust-v0.146.0]]
 <!-- chronolog:end -->
 

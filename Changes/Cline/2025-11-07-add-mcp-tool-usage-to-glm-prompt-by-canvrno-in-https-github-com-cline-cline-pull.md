@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 5fe2fd493373d6169dab4201fa1714bc7e8620ec823b20e0447dffb56baa9400
+machine_hash: 361bedaba95c29c1a0e6651739c449c2d3d49b5205095d4d69b80782b1d22598
 product: cline
 product_name: Cline
 record:
@@ -40,11 +40,11 @@ record:
   title: Add MCP tool usage to GLM prompt
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2025-11-04-2-apps-and-integrations-changes-in-v0-12-0|2 Apps
-  and Integrations changes in v0.12.0]]'
-- '[[Changes/Windsurf/2025-11-04-mcp-enhancements|MCP Enhancements]]'
+- '[[Changes/Lovable/2025-11-05-lovable-shopify-integration|Lovable × Shopify Integration]]'
 - '[[Changes/Cline/2025-11-06-8-apps-and-integrations-changes-in-v3-36-0|8 Apps and
   Integrations changes in v3.36.0]]'
+- '[[Changes/Open WebUI/2025-11-06-2-apps-and-integrations-changes-in-v0-6-35|2 Apps
+  and Integrations changes in v0.6.35]]'
 source_release: '[[Releases/Cline/cline-2025-11-07-v3-36-1-github-260470182-789b6594|cline-2025-11-07-v3-36-1-github-260470182-789b6594]]'
 source_type: github_releases
 theme: apps-integrations
@@ -74,7 +74,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2025-11-06 · Cline · [[Changes/Cline/2025-11-06-8-apps-and-integrations-changes-in-v3-36-0|8 Apps and Integrations changes in v3.36.0]]
+- Earlier: 2025-11-06 · Open WebUI · [[Changes/Open WebUI/2025-11-06-2-apps-and-integrations-changes-in-v0-6-35|2 Apps and Integrations changes in v0.6.35]]
 - Later: 2025-11-07 · Codex CLI · [[Changes/Codex CLI/2025-11-07-6237-add-modelreasoningeffort-option-to-typescript-sdk|♯6237 Add modelReasoningEffort option to TypeScript SDK]]
 <!-- chronolog:end -->
 

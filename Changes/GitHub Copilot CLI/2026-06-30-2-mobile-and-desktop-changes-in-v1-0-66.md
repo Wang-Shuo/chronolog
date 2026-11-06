@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 82540b08f4f7315ed2c9952119f7b7fe3567e63d2a2d063c73ef8a92acf685c9
+machine_hash: ac4cb75b1c230cd702fa3a13389ec2f944bdbc300f3f650a3067fcd1f7fa55ed
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -42,11 +42,12 @@ record:
   title: 2 Mobile and Desktop changes in v1.0.66
   type: change
 related_changes:
-- '[[Changes/Windsurf/2026-06-23-devin-desktop|Devin Desktop]]'
-- '[[Changes/Codex CLI/2026-06-25-26709-pac-4-add-macos-system-proxy-resolver-canvrno-oai|♯26709
-  PAC 4 - Add macOS system proxy resolver @canvrno-oai]]'
-- '[[Changes/Claude Code/2026-06-29-improved-background-session-reliability-long-running-commands-and-workflows-now|Improved
-  background session reliability]]'
+- '[[Changes/Lovable/2026-06-29-fewer-taps-to-attach-images-on-mobile|Fewer taps to
+  attach images on mobile]]'
+- '[[Changes/Open WebUI/2026-06-29-4-mobile-and-desktop-changes-in-v0-10-0|4 Mobile
+  and Desktop changes in v0.10.0]]'
+- '[[Changes/Gemini/2026-06-30-hand-off-the-heavy-lifting-to-gemini-spark-now-available-in-the-macos-app|Hand
+  off the heavy lifting to Gemini Spark, now available in the macOS app]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-06-30-v1-0-66-github-346845066-af776740|github-copilot-cli-2026-06-30-v1-0-66-github-346845066-af776740]]'
 source_type: github_releases
 theme: mobile-desktop
@@ -95,8 +96,8 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.66
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2026-06-29 · Claude Code · [[Changes/Claude Code/2026-06-29-improved-background-session-reliability-long-running-commands-and-workflows-now|Improved background session reliability]]
-- Later: 2026-07-04 · Windsurf · [[Changes/Windsurf/2026-07-04-devin-desktop|Devin Desktop]]
+- Earlier: 2026-06-30 · Gemini · [[Changes/Gemini/2026-06-30-hand-off-the-heavy-lifting-to-gemini-spark-now-available-in-the-macos-app|Hand off the heavy lifting to Gemini Spark, now available in the macOS app]]
+- Later: 2026-07-03 · Replit · [[Changes/Replit/2026-07-03-the-redesigned-replit-desktop-app|The redesigned Replit Desktop App]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

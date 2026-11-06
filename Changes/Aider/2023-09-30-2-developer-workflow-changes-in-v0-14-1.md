@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: b009b6500475b2501a62fff2fd48477e33592b8f085de9fee30c5910667de6f5
+machine_hash: 207390c556aab3ed4a543e4e3861ba5c8149df30891774847789fde55168de16
 product: aider
 product_name: Aider
 record:
@@ -42,12 +42,12 @@ record:
   title: 2 Developer Workflow changes in v0.14.1
   type: change
 related_changes:
-- '[[Changes/Cursor/2023-08-26-we-had-a-big-bug-for-people-on-language-packs-thank-you-to-all-who-helped-us-deb|Bug
-  fix for people on language packs]]'
-- '[[Changes/Cursor/2023-09-05-ships-with-cursor-python-a-language-server-fork-of-pyright-built-for-cursor|Cursor-Python
-  LSP]]'
+- '[[Changes/Ollama/2023-09-22-ollama-will-now-fit-words-in-the-available-width-of-the-terminal-for-better-read|Ollama
+  will now fit words in the available width of the terminal for better readability]]'
 - '[[Changes/Cursor/2023-09-23-never-lets-your-root-directory-be-in-the-gitignore|gitignore
   and search hotfix]]'
+- "[[Changes/Ollama/2023-09-23-ollama-will-run-on-wsl-2-with-gpu-support|\U0001F916
+  Ollama will run on WSL 2 with GPU support]]"
 source_release: '[[Releases/Aider/aider-2023-09-30-v0-14-1-github-123191470-c6bf1d6a|aider-2023-09-30-v0-14-1-github-123191470-c6bf1d6a]]'
 source_type: github_releases
 theme: developer-workflow
@@ -81,7 +81,7 @@ Source: https://github.com/Aider-AI/aider/releases/tag/v0.14.1
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2023-09-23 · Cursor · [[Changes/Cursor/2023-09-23-never-lets-your-root-directory-be-in-the-gitignore|gitignore and search hotfix]]
+- Earlier: 2023-09-23 · Ollama · [[Changes/Ollama/2023-09-23-ollama-will-run-on-wsl-2-with-gpu-support|🤖 Ollama will run on WSL 2 with GPU support]]
 - Later: 2023-10-01 · Cursor · [[Changes/Cursor/2023-10-01-ask-about-git-commits-and-prs-using-git-in-chat|Ask about git commits and PRs using @git in chat!]]
 <!-- chronolog:end -->
 

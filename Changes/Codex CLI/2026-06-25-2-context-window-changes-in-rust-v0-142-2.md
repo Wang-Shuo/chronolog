@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: e0059ad2e9c1e5876d896276e271ccaa057c092041d666f72ce256997c65c97f
+machine_hash: 384b31fe3680cfe19331eaf9cbe67dbf5463f328795801f82f339ba3a6c2f645
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -87,7 +87,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.142.2
 ## Nearby in Context Window
 
 - Earlier: 2026-06-23 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-06-23-3-context-window-changes-in-v1-0-64|3 Context Window changes in v1.0.64]]
-- Later: 2026-06-30 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-06-30-keep-session-store-searches-and-context-lookups-responsive|Keep session-store searches and context lookups responsive]]
+- Later: 2026-06-25 · Dify · [[Changes/Dify/2026-06-25-3-context-window-changes-in-1-15-0|3 Context Window changes in 1.15.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

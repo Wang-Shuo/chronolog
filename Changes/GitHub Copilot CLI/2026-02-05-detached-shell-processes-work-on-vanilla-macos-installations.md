@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: c20e8aa3fd32d4af4732c862b21f5120db984fb5ba147d41feaa30a4b17b5169
+machine_hash: f540df740adf1013f12dc3b9cbfae6971022cd1b03bf2f452a2ea54ace7a4309
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -80,7 +80,7 @@ type: change
 ## Nearby in Mobile and Desktop
 
 - Earlier: 2026-02-04 · Codex CLI · [[Changes/Codex CLI/2026-02-04-2-mobile-and-desktop-changes-in-rust-v0-95-0|2 Mobile and Desktop changes in rust-v0.95.0]]
-- Later: 2026-02-11 · Codex CLI · [[Changes/Codex CLI/2026-02-11-4-mobile-and-desktop-changes-in-rust-v0-99-0|4 Mobile and Desktop changes in rust-v0.99.0]]
+- Later: 2026-02-09 · ElevenLabs · [[Changes/ElevenLabs/2026-02-09-new-endpoints|New Endpoints]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

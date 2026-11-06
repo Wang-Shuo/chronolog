@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: c040dc33bec72dae8fe1eaf51bed55e1a2e4140f59c99a327dc81fb3aabbc223
+machine_hash: ac3b78de6279e6ab30a16a8ff811b7d104f51ef5465c9bb3bc057e907ab01147
 product: cursor
 product_name: Cursor
 record:
@@ -43,8 +43,8 @@ record:
   title: Agent plans are now files that can be edited with normal tools
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2025-12-09-feat-a2a-urgent-fix-process-modelinfo-agent-message-by-cocosheng-g-in-https-gith|feat(a2a):
-  Urgent fix - Process modelInfo agent message]]'
+- '[[Changes/v0/2025-12-09-v0-has-now-automatically-updated-every-react2shell-vulnerable-project-deployed-w|React2Shell
+  Vulnerability Patch]]'
 - '[[Changes/Cursor/2025-12-10-plan-mode-now-supports-inline-mermaid-diagrams-allowing-the-agent-to-automatical|Plan
   Mode improvements]]'
 - '[[Changes/Cursor/2025-12-10-multi-agent-judging|Multi-agent judging]]'
@@ -84,8 +84,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2025-12-09 · Gemini CLI · [[Changes/Gemini CLI/2025-12-09-feat-a2a-urgent-fix-process-modelinfo-agent-message-by-cocosheng-g-in-https-gith|feat(a2a): Urgent fix - Process modelInfo agent message]]
-- Later: 2025-12-16 · OpenHands · [[Changes/OpenHands/2025-12-16-new-openhands-1-0-0-using-the-new-software-agent-sdk-https-github-com-openhands|New OpenHands 1.0.0 using the new…]]
+- Earlier: 2025-12-09 · v0 · [[Changes/v0/2025-12-09-v0-has-now-automatically-updated-every-react2shell-vulnerable-project-deployed-w|React2Shell Vulnerability Patch]]
+- Later: 2025-12-11 · Dify · [[Changes/Dify/2025-12-11-2-agent-mode-changes-in-1-11-0|2 Agent Mode changes in 1.11.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 2a595d71266b649c3fe716c6bd8701e3fddf9fdf2e6933e561c4c3f33f61b5b0
+machine_hash: 62335cdf9b4223a4322cb986aed9554c1c4e89be6855c9fd846f8e0a225263d6
 product: claude-code
 product_name: Claude Code
 record:
@@ -46,10 +46,10 @@ record:
     system…
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-06-25-apps-can-display-richer-safety-buffering-ui-using-server-provided-visibility-and|Apps
-  can display richer safety-buffering UI using server-provided visibility…]]'
-- '[[Changes/GitHub Copilot CLI/2026-06-30-perform-tokenizer-warmup-in-parallel-on-a-background-thread-for-better-startup-p|Perform
-  tokenizer warmup in parallel on a background thread for better startup performance]]'
+- '[[Changes/Ollama/2026-06-30-2-reliability-and-performance-changes-in-v0-31-1|2
+  Reliability and Performance changes in v0.31.1]]'
+- "[[Changes/Open WebUI/2026-07-01-general-improvements-various-improvements-were-implemented-across-the-applicatio|\U0001F504
+  General improvements. Various improvements were implemented across…]]"
 - '[[Changes/Claude Code/2026-07-02-2-reliability-and-performance-changes-in-v2-1-199|2
   Reliability and Performance changes in v2.1.199]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-07-03-v2-1-200-github-348415228-64d6d68d|claude-code-2026-07-03-v2-1-200-github-348415228-64d6d68d]]'
@@ -83,7 +83,7 @@ type: change
 ## Nearby in Reliability and Performance
 
 - Earlier: 2026-07-02 · Claude Code · [[Changes/Claude Code/2026-07-02-2-reliability-and-performance-changes-in-v2-1-199|2 Reliability and Performance changes in v2.1.199]]
-- Later: 2026-07-07 · Claude Code · [[Changes/Claude Code/2026-07-07-2-reliability-and-performance-changes-in-v2-1-203|2 Reliability and Performance changes in v2.1.203]]
+- Later: 2026-07-06 · Ollama · [[Changes/Ollama/2026-07-06-igpu-can-now-offload-vision-models-with-padding-to-fit-available-memory|iGPU can now offload vision models with padding to fit available memory]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -4,20 +4,20 @@ date: '2026-10-01'
 description: 'Codex CLI · 2026-10-01 · Voice and Audio: #49073 Surface realtime voice
   catalog failures in the TUI @etraut-openai'
 diffusion:
-  first_in_tracked: '[[Changes/Aider/2023-08-11-voice-to-code-https-aider-chat-docs-voice-html-support-which-allows-you-to-code|Voice-to-code((source
-    link) support, which allows you…]]'
+  first_in_tracked: '[[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2
+    Voice and Audio changes in 0.3.7]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1147
+  lag_days: 1179
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 72c67ab6a7333c57ca9a01c5ba0f3046dd2d4f7241ccc259e68dacd90cfc0b22
+machine_hash: f0925b45b69c301f183dce2ec6ac59c2632e7755eff23f6a7b39216ef854645f
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -41,10 +41,10 @@ record:
   title: '#49073 Surface realtime voice catalog failures in the TUI @etraut-openai'
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-09-29-audio-is-deleted-once-your-notes-are-ready-and-can-t-be-accessed-or-replayed-ava|Audio
-  is deleted once your notes are ready and can’t be accessed or replayed]]'
 - '[[Changes/Codex CLI/2026-09-29-48824-keep-voice-rtp-timestamps-aligned-to-20-ms-packets-bc-openai|♯48824
   Keep voice RTP timestamps aligned to 20 ms packets @bc-openai]]'
+- '[[Changes/Gemini/2026-09-30-let-skills-in-gemini-tackle-your-most-repetitive-tasks|Let
+  skills in Gemini tackle your most repetitive tasks]]'
 - '[[Changes/GitHub Copilot CLI/2026-09-30-holding-space-and-ctrl-x-v-explain-when-voice-mode-is-off-or-still-getting-ready|Holding
   Space and Ctrl+X V explain when voice mode is off or still getting ready]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-10-01-rust-v0-160-0-github-401312540-620e0269|codex-cli-2026-10-01-rust-v0-160-0-github-401312540-620e0269]]'
@@ -90,13 +90,13 @@ type: change
 ## Nearby in Voice and Audio
 
 - Earlier: 2026-09-30 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-09-30-holding-space-and-ctrl-x-v-explain-when-voice-mode-is-off-or-still-getting-ready|Holding Space and Ctrl+X V explain when voice mode is off or still getting ready]]
-- Later: 2026-10-05 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-10-05-voice-runtime-install-errors-name-why-the-download-from-nuget-org-failed-not-onl|Voice runtime install errors name why the download from nuget.org failed, not only…]]
+- Later: 2026-10-01 · Lovable · [[Changes/Lovable/2026-10-01-add-live-voice-conversations-to-your-app-with-gpt-live|Add live voice conversations to your app with GPT Live]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-08-11 · Aider · [[Changes/Aider/2023-08-11-voice-to-code-https-aider-chat-docs-voice-html-support-which-allows-you-to-code|Voice-to-code((source link) support, which allows you…]]
+- Earliest same-theme entry in the tracked set: 2023-07-10 · Dify · [[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2 Voice and Audio changes in 0.3.7]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

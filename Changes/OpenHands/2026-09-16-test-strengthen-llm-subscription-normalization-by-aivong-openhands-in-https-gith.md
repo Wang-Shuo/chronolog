@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: pricing
-machine_hash: 1cd57f834478c7833c3fa95f1c82f9886619d757db980d74937855051a09b05e
+machine_hash: 10f8b672eb8a9990e771e6bce32e770fe03c39a11b664c68259fe7ec2aa34ab5
 product: openhands
 product_name: OpenHands
 record:
@@ -52,8 +52,8 @@ record:
   title: 'test: strengthen LLM subscription normalization'
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-10-2-pricing-model-changes-in-v2-1-268|2 Pricing
-  Model changes in v2.1.268]]'
+- '[[Changes/Lovable/2026-09-10-share-your-lovable-invite-link-from-your-phone|Share
+  your Lovable invite link from your phone]]'
 - '[[Changes/Claude Code/2026-09-14-added-support-for-a-multiplier-above-1-up-to-10-in-the-modelpricing-managed-sett|Added
   support for a multiplier above 1, up to 10, in the modelPricing managed…]]'
 - '[[Changes/GitHub Copilot CLI/2026-09-16-usage-shows-per-model-ai-credit-consumption-in-usage-breakdowns|/usage

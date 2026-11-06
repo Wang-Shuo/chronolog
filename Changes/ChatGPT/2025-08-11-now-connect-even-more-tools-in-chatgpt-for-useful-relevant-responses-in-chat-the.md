@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: search-browsing
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 3be48aa333f2d3d146a070deca43e7f202799a86963960c4665a269469818090
+machine_hash: 8bbb46d26ffe759767d5f0fbec455f659978dd2e5cd4d65674933279fc03ac1d
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -55,12 +55,12 @@ record:
     chat
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-06-04-link-and-web-search-can-now-parse-pdfs-and-include-in-context|@Link
-  and web search can now parse PDFs and include in context]]'
-- '[[Changes/ChatGPT/2025-06-13-we-ve-upgraded-chatgpt-search-for-all-users-to-provide-even-more-comprehensive-u|We’ve
-  upgraded ChatGPT search for all users to provide even more comprehensive…]]'
 - '[[Changes/ChatGPT/2025-07-24-pro-users-can-now-connect-to-canva-and-notion-for-both-chat-search-and-deep-rese-bd2af2|Canva
   and Notion connectors (Pro)]]'
+- '[[Changes/Ollama/2025-08-05-agentic-capabilities-use-the-models-native-capabilities-for-function-calling-web|Agentic
+  capabilities: Use the models’ native capabilities for function calling…]]'
+- '[[Changes/Open WebUI/2025-08-09-2-search-and-browsing-changes-in-v0-6-19|2 Search
+  and Browsing changes in v0.6.19]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-08-11-additional-connectors-for-plus-and-pro-6d22248a|chatgpt-2025-08-11-additional-connectors-for-plus-and-pro-6d22248a]]'
 source_type: chatgpt_changelog
 theme: search-browsing
@@ -90,8 +90,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Search and Browsing
 
-- Earlier: 2025-07-24 · ChatGPT · [[Changes/ChatGPT/2025-07-24-pro-users-can-now-connect-to-canva-and-notion-for-both-chat-search-and-deep-rese-bd2af2|Canva and Notion connectors (Pro)]]
-- Later: 2025-08-18 · Gemini CLI · [[Changes/Gemini CLI/2025-08-18-feat-core-migrate-web-search-write-file-and-discovered-tool-by-joshualitt-in-htt|feat(core): Migrate web-search, write-file, and discovered-tool]]
+- Earlier: 2025-08-09 · Open WebUI · [[Changes/Open WebUI/2025-08-09-2-search-and-browsing-changes-in-v0-6-19|2 Search and Browsing changes in v0.6.19]]
+- Later: 2025-08-15 · Ollama · [[Changes/Ollama/2025-08-15-ollama-s-new-app-will-now-remember-default-selections-for-default-model-turbo-an|Ollama's new app will now remember default selections for default model, Turbo…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

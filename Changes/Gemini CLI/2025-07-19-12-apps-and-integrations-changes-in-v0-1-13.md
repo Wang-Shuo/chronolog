@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: fd57aaf0207c18a106c35e0618494897dfc5cbc2af142bfe922d4ee45a5ca24b
+machine_hash: 41fd75301638e5ca736d55b243716951f2a47d1f9174653ebed27f36387d2792
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -132,7 +132,7 @@ Source: https://github.com/google-gemini/gemini-cli/releases/tag/v0.1.13
 ## Nearby in Apps and Integrations
 
 - Earlier: 2025-07-19 · Codex CLI · [[Changes/Codex CLI/2025-07-19-https-github-com-openai-codex-pull-1571-fixes-a-longstanding-issue-where-we-fail|(source link) fixes a longstanding issue where we failed…]]
-- Later: 2025-07-23 · Codex CLI · [[Changes/Codex CLI/2025-07-23-numerous-fixes-to-codex-mcp|Numerous fixes to codex mcp]]
+- Later: 2025-07-19 · Open WebUI · [[Changes/Open WebUI/2025-07-19-cleaner-database-credentials-database-connection-no-longer-duplicates-in-credent|🧹 Cleaner Database Credentials]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

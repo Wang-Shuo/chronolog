@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 2c51e2627711c92bb71d07958189e2a44b4954a46ac6c4cb5dc4e5e05816481f
+machine_hash: 77431a8ac72875a8f825ba9808ee530c7d5e8597ea84d073fc4241fe738e479d
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,12 +45,11 @@ record:
   title: 2 Apps and Integrations changes in v2.1.312
   type: change
 related_changes:
-- '[[Changes/OpenHands/2026-10-23-2-apps-and-integrations-changes-in-v1-32-0|2 Apps
-  and Integrations changes in v1.32.0]]'
-- '[[Changes/Windsurf/2026-10-23-5-apps-and-integrations-changes-in-v3-11-212|5 Apps
-  and Integrations changes in v3.11.212]]'
 - '[[Changes/Claude Code/2026-10-26-3-apps-and-integrations-changes-in-v2-1-311|3
   Apps and Integrations changes in v2.1.311]]'
+- '[[Changes/ElevenLabs/2026-10-26-2-apps-and-integrations-changes-in-elevenlabs-updates-2026-10-26|2
+  Apps and Integrations changes in ElevenLabs updates — 2026-10-26]]'
+- '[[Changes/Lovable/2026-10-26-redesigned-connector-pages|Redesigned connector pages]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-10-27-v2-1-312-github-425846009-439d063a|claude-code-2026-10-27-v2-1-312-github-425846009-439d063a]]'
 source_type: github_releases
 theme: apps-integrations
@@ -89,7 +88,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.312
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-10-26 · Claude Code · [[Changes/Claude Code/2026-10-26-3-apps-and-integrations-changes-in-v2-1-311|3 Apps and Integrations changes in v2.1.311]]
+- Earlier: 2026-10-26 · Lovable · [[Changes/Lovable/2026-10-26-redesigned-connector-pages|Redesigned connector pages]]
 - Later: 2026-10-27 · Codex CLI · [[Changes/Codex CLI/2026-10-27-10-apps-and-integrations-changes-in-rust-v0-165-0|10 Apps and Integrations changes in rust-v0.165.0]]
 <!-- chronolog:end -->
 

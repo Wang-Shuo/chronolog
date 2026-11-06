@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 2d88f9437577aea41ca60255cc24eb6e9209a705cd23be2389457ee92dc9e7f9
+machine_hash: 72786644c6603c0ed09d5df0c984c7a9baceb225e148b29fb0cf70a8becac8a7
 product: openhands
 product_name: OpenHands
 record:
@@ -42,8 +42,8 @@ record:
   title: 'feat: add linux desktop installer build (CI + deb maintainer fix)'
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-08-25-windows-macos-fixed-headless-sessions-not-cleaning-up-stale-entries-in-claude-se|Windows/macOS:
-  Fixed headless sessions not cleaning up stale entries…]]'
+- "[[Changes/Open WebUI/2026-08-25-starting-up-on-windows-the-windows-start-script-now-creates-the-secret-key-it-ne|\U0001FA9F
+  Starting up on Windows. The Windows start script now creates the secret key…]]"
 - '[[Changes/Codex CLI/2026-08-26-39811-restrict-macos-preference-reads-to-full-disk-policies-copyberry|♯39811
   Restrict macOS preference reads to full-disk policies @copyberry]]'
 - '[[Changes/GitHub Copilot CLI/2026-08-27-sandboxed-builds-on-windows-create-their-scratch-caches-on-first-run-so-cargo-go|Sandboxed
@@ -83,7 +83,7 @@ type: change
 ## Nearby in Mobile and Desktop
 
 - Earlier: 2026-08-27 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-08-27-sandboxed-builds-on-windows-create-their-scratch-caches-on-first-run-so-cargo-go|Sandboxed builds on Windows create their scratch caches on first run, so cargo, go…]]
-- Later: 2026-08-31 · ChatGPT · [[Changes/ChatGPT/2026-08-31-share-your-stickers-in-messaging-apps-download-your-pack-or-add-it-to-imessage-o|Share your stickers in messaging apps]]
+- Later: 2026-08-28 · v0 · [[Changes/v0/2026-08-28-the-native-mobile-app-gained-message-queuing-tappable-links-shared-chat-author-a|The native mobile app gained message queuing, tappable links, shared-chat author…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

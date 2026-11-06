@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: fix
-machine_hash: c266ed6f968dda943dbfc77a5c43ee6d920dff3526e9107e6e7f692aeadbfd8d
+machine_hash: 755ee25614a1d0e91008d5b990f1ea09cdeb9b65a3eb5ae6e3da9ceb77815c1c
 product: claude-code
 product_name: Claude Code
 record:
@@ -53,10 +53,10 @@ record:
     mobile…
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-06-30-3-safety-and-privacy-changes-in-v1-0-66|3
-  Safety and Privacy changes in v1.0.66]]'
 - '[[Changes/GitHub Copilot CLI/2026-07-01-4-safety-and-privacy-changes-in-v1-0-68|4
   Safety and Privacy changes in v1.0.68]]'
+- '[[Changes/Open WebUI/2026-07-01-3-safety-and-privacy-changes-in-v0-10-2|3 Safety
+  and Privacy changes in v0.10.2]]'
 - '[[Changes/Claude Code/2026-07-03-changed-the-default-permission-mode-to-manual-across-the-cli-help-vs-code-and-je|Changed
   the "default" permission mode to "Manual" across the CLI, --help, VS Code…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-07-06-v2-1-202-github-349856235-58e6d3e8|claude-code-2026-07-06-v2-1-202-github-349856235-58e6d3e8]]'

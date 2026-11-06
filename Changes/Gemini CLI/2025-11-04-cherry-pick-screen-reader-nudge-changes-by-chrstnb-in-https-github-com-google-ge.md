@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: accessibility-localization
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 86450bc2ea528583e7425bb3f3d1198190d4473b233d61466c18ddd2c8c81f81
+machine_hash: b5388663e7612b4ad4e2594875f9473a445ce48267878dfc75b8e77982406bb8
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -86,7 +86,7 @@ type: change
 ## Nearby in Accessibility and Localization
 
 - Earlier: 2025-10-22 · Gemini CLI · [[Changes/Gemini CLI/2025-10-22-show-notification-in-screen-reader-mode-by-chrstnb-in-https-github-com-google-ge|Show notification in screen reader mode]]
-- Later: 2025-11-07 · Gemini CLI · [[Changes/Gemini CLI/2025-11-07-only-show-screen-reader-notice-once-by-chrstnb-in-https-github-com-google-gemini|Only show screen reader notice once]]
+- Later: 2025-11-06 · Open WebUI · [[Changes/Open WebUI/2025-11-06-screen-reader-support-was-enhanced-by-wrapping-messages-in-semantic-elements-wit|♿ Screen reader support was enhanced by wrapping messages in semantic elements…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

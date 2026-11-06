@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: memory
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 7352e59df71422132275c3cb678ff26c4b9e8f81e9a1400e2887277bb73eeddb
+machine_hash: 49da0ded0ee2dea79039674b2213030889d5e93cecd46058a01a9c8abecd4d3e
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -44,10 +44,10 @@ record:
     facts…
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-01-07-we-re-starting-to-roll-out-health-a-dedicated-space-in-chatgpt-for-health-and-we|We’re
-  starting to roll out Health, a dedicated space in ChatGPT for health…]]'
 - '[[Changes/Gemini CLI/2026-01-07-feat-core-implement-jit-context-memory-loading-and-ui-sync-by-sandytao520-in-htt|feat(core):
   Implement JIT context memory loading and UI sync]]'
+- '[[Changes/Open WebUI/2026-01-09-2-memory-and-personalization-changes-in-v0-7-0|2
+  Memory and Personalization changes in v0.7.0]]'
 - '[[Changes/ChatGPT/2026-01-15-when-reference-chat-history-is-enabled-chatgpt-can-now-more-reliably-find-specif|Improved
   memory for finding details from past chats (Plus & Pro)]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-01-16-v0-0-384-github-277297952-1cab0865|github-copilot-cli-2026-01-16-v0-0-384-github-277297952-1cab0865]]'

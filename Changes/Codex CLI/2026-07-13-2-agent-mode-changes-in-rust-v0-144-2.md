@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 6355ba797740496adf467da20405b952ad96e18d1cd974347d59270af95f469c
+machine_hash: 8534a746fbedf2e56514ca930c47391c3711d593eedb9849f157aacb25493fcb
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -44,12 +44,12 @@ record:
   title: 2 Agent Mode changes in rust-v0.144.2
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-07-10-3-agent-mode-changes-in-v1-0-70|3 Agent
-  Mode changes in v1.0.70]]'
 - '[[Changes/Claude Code/2026-07-11-2-agent-mode-changes-in-v2-1-207|2 Agent Mode
   changes in v2.1.207]]'
 - '[[Changes/Claude Code/2026-07-11-auto-mode-is-now-available-without-claude-code-enable-auto-mode-opt-in-on-bedroc|Auto
   mode is now available without CLAUDE_CODE_ENABLE_AUTO_MODE opt-in on Bedrock…]]'
+- '[[Changes/Ollama/2026-07-11-2-agent-mode-changes-in-v0-32-0|2 Agent Mode changes
+  in v0.32.0]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-07-13-rust-v0-144-2-github-352930553-119c6f5d|codex-cli-2026-07-13-rust-v0-144-2-github-352930553-119c6f5d]]'
 source_type: github_releases
 theme: agent-mode
@@ -80,8 +80,8 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.144.2
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2026-07-11 · Claude Code · [[Changes/Claude Code/2026-07-11-auto-mode-is-now-available-without-claude-code-enable-auto-mode-opt-in-on-bedroc|Auto mode is now available without CLAUDE_CODE_ENABLE_AUTO_MODE opt-in on Bedrock…]]
-- Later: 2026-07-14 · Claude Code · [[Changes/Claude Code/2026-07-14-4-agent-mode-changes-in-v2-1-208|4 Agent Mode changes in v2.1.208]]
+- Earlier: 2026-07-11 · Ollama · [[Changes/Ollama/2026-07-11-2-agent-mode-changes-in-v0-32-0|2 Agent Mode changes in v0.32.0]]
+- Later: 2026-07-13 · ElevenLabs · [[Changes/ElevenLabs/2026-07-13-python-sdk|Python SDK]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

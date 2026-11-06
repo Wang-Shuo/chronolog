@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: c9ef2df13085b22bc4ee35e7c53d5d5aa4d66acc4344f33fe114eda27ac70ebe
+machine_hash: 2b99bc480511225b7f69408e775b2e472c3458f8e54b3b3bcea746f542c7d27e
 product: cursor
 product_name: Cursor
 record:
@@ -45,10 +45,9 @@ record:
   title: 'Agent sees recent changes: The agent can use a tool to see your recent changes'
   type: change
 related_changes:
-- '[[Changes/OpenHands/2024-12-19-agent-gets-stuck-in-closing-and-server-won-t-die-by-tofarr-in-https-github-com-a|Agent
-  gets stuck in closing and server won''t die]]'
-- '[[Changes/OpenHands/2025-01-07-added-ratelimiterror-status-on-ui-and-agent-state-by-rkat7-in-https-github-com-a|Added
-  RateLimitError status on UI and Agent state]]'
+- '[[Changes/ElevenLabs/2025-01-16-agents-platform|Agents Platform]]'
+- '[[Changes/Dify/2025-01-22-agent-log-formatting-tweaked-deepseek-s-api-response-handling-to-fix-format-issu|Agent
+  Log Formatting]]'
 - '[[Changes/OpenHands/2025-01-22-when-connecting-to-a-github-repo-the-agent-now-explicitly-knows-which-repo-was-c|When
   connecting to a GitHub repo, the agent now explicitly knows which repo…]]'
 source_release: '[[Releases/Cursor/cursor-2025-01-23-0-45-x-https-cursor-com-changelog-0-45-x-c162d228|cursor-2025-01-23-0-45-x-https-cursor-com-changelog-0-45-x-c162d228]]'
@@ -87,7 +86,7 @@ type: change
 ## Nearby in Agent Mode
 
 - Earlier: 2025-01-22 · OpenHands · [[Changes/OpenHands/2025-01-22-when-connecting-to-a-github-repo-the-agent-now-explicitly-knows-which-repo-was-c|When connecting to a GitHub repo, the agent now explicitly knows which repo…]]
-- Later: 2025-02-19 · Cursor · [[Changes/Cursor/2025-02-19-agent-is-ready-agent-is-now-the-default-mode-bringing-a-more-powerful-and-unifie|Agent is ready: Agent is now the default mode, bringing a more powerful and unified…]]
+- Later: 2025-01-27 · ElevenLabs · [[Changes/ElevenLabs/2025-01-27-agents-platform|Agents Platform]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

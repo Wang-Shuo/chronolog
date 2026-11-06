@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: ebd8507a59569b770a861acde01f7491b1529de03b6c973b34fb3d7bf74a7570
+machine_hash: a9ad102f9d8a68ef76dcb7b0a1d1e5a0bcbbd94cebd86995cc91ed86d6dca185
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -104,7 +104,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.93.0
 ## Nearby in Safety and Privacy
 
 - Earlier: 2026-01-30 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-01-30-acp-server-support-permission-flags-yolo-allow-all-etc-and-permissions-config|ACP server support permission flags: --yolo, --allow-all, etc. and permissions config]]
-- Later: 2026-02-02 · OpenHands · [[Changes/OpenHands/2026-02-02-2-safety-and-privacy-changes-in-1-3-0|2 Safety and Privacy changes in 1.3.0]]
+- Later: 2026-02-02 · ElevenLabs · [[Changes/ElevenLabs/2026-02-02-workspaces|Workspaces]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: c2b6b5e3f9ebd9faef6834017b39bd6ab63b733e85cb00d4110dfa7faa798244
+machine_hash: 8eaa2db112f2767c9976be4dabf67f37b941198d94093a14e1efca5dc5327f41
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -42,12 +42,12 @@ record:
   title: 2 Interface Experience changes in v1.0.61
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-06-08-table-of-contents-in-longer-conversations-conversations-longer-than-five-respons|Table
-  of contents in longer conversations]]'
 - '[[Changes/ChatGPT/2026-06-08-cleaned-up-logged-out-mobile-web-experience-logged-out-users-now-see-a-composer|Cleaned
   up logged-out mobile web experience]]'
 - '[[Changes/Claude Code/2026-06-08-2-interface-experience-changes-in-v2-1-169|2 Interface
   Experience changes in v2.1.169]]'
+- '[[Changes/v0/2026-06-08-3-interface-experience-changes-in-changelog-update|3 Interface
+  Experience changes in Changelog update]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-06-09-v1-0-61-github-336905979-4d0a69f2|github-copilot-cli-2026-06-09-v1-0-61-github-336905979-4d0a69f2]]'
 source_type: github_releases
 theme: interface-experience
@@ -91,8 +91,8 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.61
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-06-08 · Claude Code · [[Changes/Claude Code/2026-06-08-2-interface-experience-changes-in-v2-1-169|2 Interface Experience changes in v2.1.169]]
-- Later: 2026-06-10 · ChatGPT · [[Changes/ChatGPT/2026-06-10-we-re-updating-the-model-picker-to-make-it-easier-to-choose-the-balance-of-speed-b05795|We’re updating the model picker to make it easier to choose the balance of speed…]]
+- Earlier: 2026-06-08 · v0 · [[Changes/v0/2026-06-08-3-interface-experience-changes-in-changelog-update|3 Interface Experience changes in Changelog update]]
+- Later: 2026-06-09 · Lovable · [[Changes/Lovable/2026-06-09-svg-previews-in-chat|SVG previews in chat]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

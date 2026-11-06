@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 813b394c504c8248cfaa483573961e14ea67784010c10e4d61cedffc1e373511
+machine_hash: 42713318152739a8795d2eb37c5d08dfba021fcfa48bdc436f492083ac002a6b
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -61,10 +61,10 @@ record:
   title: 11 Mobile and Desktop changes in rust-v0.156.0
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-18-claude-code-on-the-web-changed-the-admin-claude-code-setting-labeled-web-to-clou|Claude
-  Code on the web Changed the admin Claude Code setting labeled…]]'
 - '[[Changes/ChatGPT/2026-09-21-you-can-now-track-your-credit-score-in-chatgpt-securely-connect-your-experian-cr|Credit
   scores in Finances]]'
+- "[[Changes/Open WebUI/2026-09-21-apple-device-replies-an-assistant-reply-no-longer-comes-up-blank-in-a-home-scree|\U0001F4F1
+  Apple device replies. An assistant reply no longer comes up blank in a home…]]"
 - '[[Changes/Cline/2026-09-22-rules-are-found-and-shown-consistently-the-rules-panel-listed-only-clinerules-an|Rules
   are found and shown consistently]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-09-22-rust-v0-156-0-github-394061815-b23dd5f4|codex-cli-2026-09-22-rust-v0-156-0-github-394061815-b23dd5f4]]'

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 5059d181487d6b49640832a20a12bfa137f4900156a5d98aafac7ec728d5d956
+machine_hash: be8cfcb99213224919c0d4afe3ef15a4a546cdbd62e3595043ef780c1772080c
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -42,10 +42,10 @@ record:
   title: 2 Mobile and Desktop changes in v0.1.14
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2025-07-11-don-t-enforce-leading-slash-since-that-s-not-true-on-windows-by-scidomino-in-htt|Don''t
-  enforce leading slash since that''s not true on Windows]]'
-- '[[Changes/ChatGPT/2025-07-16-record-mode-is-now-available-to-chatgpt-plus-users-globally-in-the-macos-desktop|Record
-  mode is now available to ChatGPT Plus users globally in the macOS desktop app]]'
+- '[[Changes/Ollama/2025-07-18-ollama-s-new-app-is-available-for-macos-and-windows-download-ollama-https-ollama|Ollama''s
+  new app is available for macOS and Windows]]'
+- '[[Changes/Replit/2025-07-18-mobile-push-notifications-for-usage-alerts|Mobile push
+  notifications for usage alerts]]'
 - '[[Changes/Codex CLI/2025-07-19-though-https-github-com-openai-codex-pull-1590-should-make-it-so-that-on-windows|Though
   (source link) should make it so that, on Windows…]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2025-07-25-v0-1-14-github-235287807-631ef7fa|gemini-cli-2025-07-25-v0-1-14-github-235287807-631ef7fa]]'
@@ -93,7 +93,7 @@ Source: https://github.com/google-gemini/gemini-cli/releases/tag/v0.1.14
 ## Nearby in Mobile and Desktop
 
 - Earlier: 2025-07-19 · Codex CLI · [[Changes/Codex CLI/2025-07-19-though-https-github-com-openai-codex-pull-1590-should-make-it-so-that-on-windows|Though (source link) should make it so that, on Windows…]]
-- Later: 2025-07-30 · Gemini CLI · [[Changes/Gemini CLI/2025-07-30-2-mobile-and-desktop-changes-in-v0-1-15|2 Mobile and Desktop changes in v0.1.15]]
+- Later: 2025-07-28 · Dify · [[Changes/Dify/2025-07-28-windows-pem-keypath-fix-corrected-path-errors-for-private-pem-key-files-on-windo|Windows PEM KeyPath Fix]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

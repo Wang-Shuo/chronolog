@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: b2811749bc69e4d65426da9b34e020461ecd77f3374b5805c06eaf6413fcf845
+machine_hash: d02353503acafaea3f740daa3e705760b7401864b585f01f6bace925d2596146
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,12 +45,12 @@ record:
     could not…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-08-11-improved-compaction-progress-the-retry-countdown-and-stall-hint-now-appear-durin|Improved
-  compaction progress]]'
 - '[[Changes/Cline/2026-08-11-respect-your-configured-max-output-tokens-when-the-compaction-summarizer-request|Respect
   your configured max output tokens when the compaction summarizer requests…]]'
 - '[[Changes/Gemini CLI/2026-08-11-refactor-exclude-transient-ci-configuration-files-from-workspace-context-by-davi|Refactor:
   exclude transient CI configuration files from workspace context]]'
+- '[[Changes/Lovable/2026-08-11-readable-previews-for-attached-files|Readable previews
+  for attached files]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-08-12-v2-1-229-github-369475532-b063933d|claude-code-2026-08-12-v2-1-229-github-369475532-b063933d]]'
 source_type: github_releases
 theme: context-window
@@ -87,7 +87,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Context Window
 
-- Earlier: 2026-08-11 · Gemini CLI · [[Changes/Gemini CLI/2026-08-11-refactor-exclude-transient-ci-configuration-files-from-workspace-context-by-davi|Refactor: exclude transient CI configuration files from workspace context]]
+- Earlier: 2026-08-11 · Lovable · [[Changes/Lovable/2026-08-11-readable-previews-for-attached-files|Readable previews for attached files]]
 - Later: 2026-08-13 · OpenHands · [[Changes/OpenHands/2026-08-13-feat-context-window-usage-meter-usage-drawer-and-manual-compaction-by-georgeglar|feat: context window usage meter, usage drawer, and manual compaction]]
 <!-- chronolog:end -->
 

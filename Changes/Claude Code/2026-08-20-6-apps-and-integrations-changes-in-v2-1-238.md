@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: e81456b142ec07bfb40178193b2637e219a19c5746af105a4ee5cd372e8d82fa
+machine_hash: 4f31c238aafa2188d54ba27c92b52216c8f867686c23f4db9cb33cc7563334d5
 product: claude-code
 product_name: Claude Code
 record:
@@ -62,10 +62,10 @@ record:
   title: 6 Apps and Integrations changes in v2.1.238
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-08-18-57-apps-and-integrations-changes-in-rust-v0-148-0|57
-  Apps and Integrations changes in rust-v0.148.0]]'
-- '[[Changes/Claude Code/2026-08-19-sigterm-in-print-sdk-mode-no-longer-records-an-interrupted-turn-or-synthetic-too|SIGTERM
-  in print/SDK mode no longer records an interrupted turn or synthetic tool…]]'
+- '[[Changes/Lovable/2026-08-19-per-user-access-for-amazon-redshift|Per-user access
+  for Amazon Redshift]]'
+- '[[Changes/Lovable/2026-08-19-lovable-can-use-your-connected-service-account-while-building|Lovable
+  can use your connected service account while building]]'
 - '[[Changes/ChatGPT/2026-08-20-use-apple-messages-from-codex-and-chatgpt-work-on-apple-silicon-macs-the-apple-m|Use
   Apple Messages from Codex and ChatGPT Work]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-08-20-v2-1-238-github-373927029-c96744e2|claude-code-2026-08-20-v2-1-238-github-373927029-c96744e2]]'

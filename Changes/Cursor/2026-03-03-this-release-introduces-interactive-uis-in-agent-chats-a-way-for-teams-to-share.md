@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: e52118fb2ba632f3e6d70d46b5262d9d24f09984380b7bdfd0a2d9828029c6a4
+machine_hash: 330e3011d7791f9b5d6f7003b28d8a5da27da9f31154c82ced0245171cabe264
 product: cursor
 product_name: Cursor
 record:
@@ -55,8 +55,8 @@ record:
     private…
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-03-02-3-developer-workflow-changes-in-rust-v0-107-0|3
-  Developer Workflow changes in rust-v0.107.0]]'
+- '[[Changes/Open WebUI/2026-03-02-6-developer-workflow-changes-in-v0-8-8|6 Developer
+  Workflow changes in v0.8.8]]'
 - '[[Changes/Cline/2026-03-03-retry-nested-git-restore-and-prevent-silent-git-disabled-leftovers-in-checkpoint|Retry
   nested git restore and prevent silent .git_disabled leftovers in checkpoints]]'
 - '[[Changes/Cursor/2026-03-03-3-developer-workflow-changes-in-2-6|3 Developer Workflow

@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 5542f53fdd135b50c13700242312cad361e08e1c19f822894317a314738a46f7
+machine_hash: 0aa09600f9d130e900dd068b3fbc9034b838830d5aa7042d4ae897dba7c95ed0
 product: openhands
 product_name: OpenHands
 record:
@@ -40,7 +40,8 @@ record:
   title: Example code review microagent
   type: change
 related_changes:
-- '[[Changes/Windsurf/2025-06-10-terminal-improvements|Terminal Improvements]]'
+- '[[Changes/Dify/2025-06-16-keep-those-pull-requests-coming-as-we-aim-to-make-your-user-experience-as-seamle|Keep
+  those pull requests coming as we aim to make your user experience as seamless…]]'
 - '[[Changes/OpenHands/2025-06-20-git-ownership-errors-in-containers-by-llamantino-in-https-github-com-all-hands-a|Git
   Ownership Errors in containers]]'
 - '[[Changes/OpenHands/2025-06-20-2-developer-workflow-changes-in-0-44-0|2 Developer

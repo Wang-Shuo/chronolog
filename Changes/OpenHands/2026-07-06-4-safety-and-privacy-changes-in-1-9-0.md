@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: ba5178b6f7a71d2b196490ef882de28d17f043107bd03694aa52b51624a68dd7
+machine_hash: a9a420a492b2ad6d958f7b2ffe5ff8d8e79718a69e2f34c1ee73264fba6d9779
 product: openhands
 product_name: OpenHands
 record:
@@ -50,8 +50,8 @@ record:
   title: 4 Safety and Privacy changes in 1.9.0
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-07-01-4-safety-and-privacy-changes-in-v1-0-68|4
-  Safety and Privacy changes in v1.0.68]]'
+- '[[Changes/Open WebUI/2026-07-01-3-safety-and-privacy-changes-in-v0-10-2|3 Safety
+  and Privacy changes in v0.10.2]]'
 - '[[Changes/Claude Code/2026-07-03-changed-the-default-permission-mode-to-manual-across-the-cli-help-vs-code-and-je|Changed
   the "default" permission mode to "Manual" across the CLI, --help, VS Code…]]'
 - '[[Changes/Claude Code/2026-07-06-fixed-remote-control-sessions-showing-the-wrong-permission-mode-in-the-mobile-an|Fixed

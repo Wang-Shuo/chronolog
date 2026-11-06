@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: ef7bef0e3a8a487463a75fa79202f47e32af6b497f76e89f3ef10695834804f5
+machine_hash: 3cd73e22152b3608cc7f457274cad825d9aa59b1e0b66485222cebc36175102d
 product: claude-code
 product_name: Claude Code
 record:
@@ -49,12 +49,12 @@ record:
   title: 3 Developer Workflow changes in v2.1.257
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-08-27-5-developer-workflow-changes-in-v1-0-81|5
-  Developer Workflow changes in v1.0.81]]'
-- '[[Changes/Claude Code/2026-08-28-3-developer-workflow-changes-in-v2-1-251|3 Developer
-  Workflow changes in v2.1.251]]'
 - '[[Changes/GitHub Copilot CLI/2026-08-29-a-message-typed-while-worktree-or-move-is-preparing-the-worktree-no-longer-break|A
   message typed while /worktree or /move is preparing the worktree no longer breaks…]]'
+- "[[Changes/Open WebUI/2026-08-31-custom-interface-fonts-reach-more-of-the-app-the-font-chosen-in-interface-settin|\U0001F524
+  Custom interface fonts reach more of the app. The font chosen in interface…]]"
+- '[[Changes/Open WebUI/2026-08-31-9-developer-workflow-changes-in-v0-11-2|9 Developer
+  Workflow changes in v0.11.2]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-01-v2-1-257-github-380686035-b86855a6|claude-code-2026-09-01-v2-1-257-github-380686035-b86855a6]]'
 source_type: github_releases
 theme: developer-workflow
@@ -99,7 +99,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.257
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2026-08-29 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-08-29-a-message-typed-while-worktree-or-move-is-preparing-the-worktree-no-longer-break|A message typed while /worktree or /move is preparing the worktree no longer breaks…]]
+- Earlier: 2026-08-31 · Open WebUI · [[Changes/Open WebUI/2026-08-31-9-developer-workflow-changes-in-v0-11-2|9 Developer Workflow changes in v0.11.2]]
 - Later: 2026-09-01 · Codex CLI · [[Changes/Codex CLI/2026-09-01-6-developer-workflow-changes-in-rust-v0-152-0|6 Developer Workflow changes in rust-v0.152.0]]
 <!-- chronolog:end -->
 

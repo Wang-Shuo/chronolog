@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: ee2fb7003d0f59f27949024dffa5fc1c09d5f55042050c5b02e07f89b771bf53
+machine_hash: ce03778707ae036939cc89aed4725c5c216503767b92df4f15798021ecfa063f
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -51,12 +51,12 @@ record:
   title: '#19805 Add MultiAgentV2 root and subagent context hints @jif-oai'
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-04-24-2-context-window-changes-in-rust-v0-125-0|2 Context
-  Window changes in rust-v0.125.0]]'
 - '[[Changes/Claude Code/2026-04-28-vscode-context-now-opens-a-native-token-usage-dialog|VSCode
   /context now opens a native token usage dialog]]'
 - '[[Changes/GitHub Copilot CLI/2026-04-28-add-compact-context-usage-and-env-slash-commands-for-acp-sessions|Add
   /compact, /context, /usage, and /env slash commands for ACP sessions]]'
+- '[[Changes/Dify/2026-04-29-3-context-window-changes-in-1-14-0|3 Context Window changes
+  in 1.14.0]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-04-30-rust-v0-128-0-github-315916672-1708ab89|codex-cli-2026-04-30-rust-v0-128-0-github-315916672-1708ab89]]'
 source_type: github_releases
 theme: context-window
@@ -97,7 +97,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Context Window
 
-- Earlier: 2026-04-28 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-04-28-add-compact-context-usage-and-env-slash-commands-for-acp-sessions|Add /compact, /context, /usage, and /env slash commands for ACP sessions]]
+- Earlier: 2026-04-29 · Dify · [[Changes/Dify/2026-04-29-3-context-window-changes-in-1-14-0|3 Context Window changes in 1.14.0]]
 - Later: 2026-05-01 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-05-01-remote-session-statusline-shows-the-remote-working-directory-and-branch-instead|Remote session statusline shows the remote working directory and branch instead…]]
 <!-- chronolog:end -->
 

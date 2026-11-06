@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 35462cc936e5fe3658736d5dc59600f54b73371b94cc78254806905dd432b699
+machine_hash: 1b7f81e33f57bee9905722ee79bfb982c595b9e7bf7e80b136205f3074caec1d
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -54,8 +54,8 @@ record:
   title: 5 Model Support changes in rust-v0.115.0
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-03-14-improved-model-fallback-notifications-now-always-visible-instead-of-hidden-behin|Improved
-  model fallback notifications]]'
+- '[[Changes/Ollama/2026-03-14-3-model-support-changes-in-v0-18-0|3 Model Support
+  changes in v0.18.0]]'
 - '[[Changes/ChatGPT/2026-03-16-we-re-rolling-out-an-update-to-gpt-5-3-instant-that-improves-follow-up-tone-and|GPT-5.3
   Instant update]]'
 - '[[Changes/Cline/2026-03-16-added-w-b-inference-by-coreweave-as-a-new-api-provider-with-17-models|Added
@@ -109,7 +109,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.115.0
 ## Nearby in Model Support
 
 - Earlier: 2026-03-16 · Cline · [[Changes/Cline/2026-03-16-added-w-b-inference-by-coreweave-as-a-new-api-provider-with-17-models|Added W&B Inference by CoreWeave as a new API provider with 17 models]]
-- Later: 2026-03-16 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-03-16-model-can-discover-and-use-tools-dynamically-with-tool-search-for-claude-models|Model can discover and use tools dynamically with tool search for Claude models]]
+- Later: 2026-03-16 · ElevenLabs · [[Changes/ElevenLabs/2026-03-16-music|Music]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: search-browsing
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 968d91303216f43f88fba89ffc9f29bd1c19e4eaec2f221bc41fcf8d33142596
+machine_hash: 1b61d77ddfafd16b6684ffc557217a3a71c926f2f0b6b10cf6594760afcd8f84
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -50,12 +50,12 @@ record:
   title: 4 Search and Browsing changes in rust-v0.79.0
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2025-10-22-refactor-core-migrate-web-search-tool-to-tool-names-by-abhipatel12-in-https-gith|refactor(core):
-  migrate web search tool to tool-names]]'
-- '[[Changes/Codex CLI/2025-11-09-6367-sdk-add-network-access-and-web-search-options-to-typescript-sdk|♯6367
-  – SDK: add network_access and web_search options to TypeScript SDK]]'
-- '[[Changes/Codex CLI/2025-11-13-2-search-and-browsing-changes-in-rust-v0-58-0|2
-  Search and Browsing changes in rust-v0.58.0]]'
+- '[[Changes/Replit/2025-11-26-better-search-rankings-for-custom-domains|Better search
+  rankings for Custom Domains]]'
+- "[[Changes/Open WebUI/2025-12-02-web-search-domain-filtering-was-corrected-to-properly-block-results-when-any-res|\U0001F6E1️
+  Web search domain filtering was corrected to properly block results when any…]]"
+- '[[Changes/Open WebUI/2025-12-21-3-search-and-browsing-changes-in-v0-6-42|3 Search
+  and Browsing changes in v0.6.42]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-01-07-rust-v0-79-0-github-274682036-5d03e364|codex-cli-2026-01-07-rust-v0-79-0-github-274682036-5d03e364]]'
 source_type: github_releases
 theme: search-browsing
@@ -98,8 +98,8 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.79.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Search and Browsing
 
-- Earlier: 2025-11-13 · Codex CLI · [[Changes/Codex CLI/2025-11-13-2-search-and-browsing-changes-in-rust-v0-58-0|2 Search and Browsing changes in rust-v0.58.0]]
-- Later: 2026-01-16 · Codex CLI · [[Changes/Codex CLI/2026-01-16-2-search-and-browsing-changes-in-rust-v0-86-0|2 Search and Browsing changes in rust-v0.86.0]]
+- Earlier: 2025-12-21 · Open WebUI · [[Changes/Open WebUI/2025-12-21-3-search-and-browsing-changes-in-v0-6-42|3 Search and Browsing changes in v0.6.42]]
+- Later: 2026-01-08 · v0 · [[Changes/v0/2026-01-08-improved-the-speed-and-token-use-of-the-web-search-tool|Improved the speed and token use of the Web Search tool]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

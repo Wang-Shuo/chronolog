@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: fbe21e015e3bb0d9a2b45841429d4108ac36ad2f8cb4d9e3d796e59cfde80fa0
+machine_hash: a87c6e648e2dd6032a4ce1286ccb7d312ce0a9f0488b5e875c2050814a6f5f4e
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -44,10 +44,10 @@ record:
     name…
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2025-09-23-2-developer-workflow-changes-in-rust-v0-40-0|2 Developer
-  Workflow changes in rust-v0.40.0]]'
 - '[[Changes/Gemini CLI/2025-09-24-10-developer-workflow-changes-in-v0-6-0|10 Developer
   Workflow changes in v0.6.0]]'
+- '[[Changes/Open WebUI/2025-09-25-2-developer-workflow-changes-in-v0-6-31|2 Developer
+  Workflow changes in v0.6.31]]'
 - '[[Changes/Codex CLI/2025-09-26-3-developer-workflow-changes-in-rust-v0-42-0|3 Developer
   Workflow changes in rust-v0.42.0]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2025-09-26-v0-0-328-github-250426078-8d17da88|github-copilot-cli-2025-09-26-v0-0-328-github-250426078-8d17da88]]'

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: ab79d36dec52a3554b6871f7d53e8b2cb5f645f727c850c4d2c03097018ea974
+machine_hash: f622cffaba96147e267181eadae2f61c28d8f4f3c38d8fdeead28b20529ed70b
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -96,7 +96,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.35
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-04-23 · Gemini CLI · [[Changes/Gemini CLI/2026-04-23-4-apps-and-integrations-changes-in-v0-39-0|4 Apps and Integrations changes in v0.39.0]]
-- Later: 2026-04-24 · Codex CLI · [[Changes/Codex CLI/2026-04-24-11-apps-and-integrations-changes-in-rust-v0-125-0|11 Apps and Integrations changes in rust-v0.125.0]]
+- Later: 2026-04-23 · Ollama · [[Changes/Ollama/2026-04-23-openclaw-integration-now-bundles-ollama-s-web-search-plugin-in-openclaw|OpenClaw integration now bundles Ollama's web search plugin in OpenClaw]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

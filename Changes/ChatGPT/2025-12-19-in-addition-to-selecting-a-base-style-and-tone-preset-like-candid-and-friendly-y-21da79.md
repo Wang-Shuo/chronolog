@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: memory
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 4d094f1decfd3b8e16e0a4ca449d329ae242617ef86a712cc7ac13d845849323
+machine_hash: a4d52d3b2f085674f98b62248c0012a50e58a941c579ab45b41bb37f33719f9e
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -94,7 +94,7 @@ type: change
 ## Nearby in Memory and Personalization
 
 - Earlier: 2025-12-16 · Gemini CLI · [[Changes/Gemini CLI/2025-12-16-chore-tests-remove-obsolete-test-for-hierarchical-memory-by-pareshjoshij-in-http|chore(tests): remove obsolete test for hierarchical memory]]
-- Later: 2025-12-22 · ChatGPT · [[Changes/ChatGPT/2025-12-22-today-we-re-rolling-out-your-year-with-chatgpt-an-optional-personalized-end-of-y-740eb1|Your Year with ChatGPT]]
+- Later: 2025-12-21 · Open WebUI · [[Changes/Open WebUI/2025-12-21-channel-image-upload-handling-was-optimized-to-process-and-store-compressed-imag|🖼️ Channel image upload handling was optimized to process and store compressed…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

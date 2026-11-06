@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: e61f1d2ec53e227b630892e9e56c63113a6a57d02c7ea7db7f01ce097b32f17a
+machine_hash: a9955dda2e4cb6a0ae073550f28b631a3fc26ed19e9534c138e673f4b20ca1df
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -57,12 +57,12 @@ record:
     fullscreen…'
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2025-07-25-2-interface-experience-changes-in-v0-1-14|2 Interface
-  Experience changes in v0.1.14]]'
-- '[[Changes/Gemini CLI/2025-07-30-2-interface-experience-changes-in-v0-1-15|2 Interface
-  Experience changes in v0.1.15]]'
 - '[[Changes/Cline/2025-07-31-feat-adds-navigation-bar-component-and-restructure-app-layout-by-abeatrix-in-htt|feat:
   adds navigation bar component and restructure app layout]]'
+- '[[Changes/Replit/2025-08-01-visual-editor-color-picker-improvement|Visual editor
+  color picker improvement]]'
+- '[[Changes/Replit/2025-08-01-theme-toggle-in-avatar-dropdown|Theme toggle in avatar
+  dropdown]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2025-08-02-rust-v0-11-0-github-237026044-61c786fa|codex-cli-2025-08-02-rust-v0-11-0-github-237026044-61c786fa]]'
 source_type: github_releases
 theme: interface-experience
@@ -93,7 +93,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2025-07-31 · Cline · [[Changes/Cline/2025-07-31-feat-adds-navigation-bar-component-and-restructure-app-layout-by-abeatrix-in-htt|feat: adds navigation bar component and restructure app layout]]
+- Earlier: 2025-08-01 · Replit · [[Changes/Replit/2025-08-01-theme-toggle-in-avatar-dropdown|Theme toggle in avatar dropdown]]
 - Later: 2025-08-02 · Gemini CLI · [[Changes/Gemini CLI/2025-08-02-2-interface-experience-changes-in-v0-1-16|2 Interface Experience changes in v0.1.16]]
 <!-- chronolog:end -->
 

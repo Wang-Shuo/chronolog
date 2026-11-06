@@ -4,20 +4,20 @@ date: '2025-08-26'
 description: 'Codex CLI · 2025-08-26 · Automation and Scheduling: #2692 do not schedule
   frames for Tui::Draw events in backtrack'
 diffusion:
-  first_in_tracked: '[[Changes/OpenHands/2024-09-04-better-syntax-error-loop-detection-by-tobitege-in-https-github-com-all-hands-ai|Better
-    syntax error loop detection]]'
+  first_in_tracked: '[[Changes/Dify/2024-01-02-add-data-clean-schedule-by-johnjyong-in-https-github-com-langgenius-dify-pull-18|Add
+    data clean schedule]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 356
+  lag_days: 602
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: af1a31c692fdf6d98cae6e57759cf6e068f5e62c7a0fa61949938c119a859ad0
+machine_hash: d8037b6124d722c695fb938f71dd37b49514cb9ad2bef8fa3497224b86ad9373
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -43,8 +43,8 @@ record:
   title: '#2692 do not schedule frames for Tui::Draw events in backtrack'
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2025-08-06-6-automation-and-scheduling-changes-in-v0-1-18|6
-  Automation and Scheduling changes in v0.1.18]]'
+- '[[Changes/Open WebUI/2025-08-09-customizable-floating-quick-actions-with-tool-support-take-full-control-of-your|✍️
+  Customizable Floating Quick Actions with Tool Support]]'
 - '[[Changes/Gemini CLI/2025-08-12-2-automation-and-scheduling-changes-in-v0-1-19|2
   Automation and Scheduling changes in v0.1.19]]'
 - '[[Changes/Gemini CLI/2025-08-14-8-automation-and-scheduling-changes-in-v0-1-21|8
@@ -89,13 +89,13 @@ type: change
 ## Nearby in Automation and Scheduling
 
 - Earlier: 2025-08-14 · Gemini CLI · [[Changes/Gemini CLI/2025-08-14-8-automation-and-scheduling-changes-in-v0-1-21|8 Automation and Scheduling changes in v0.1.21]]
-- Later: 2025-09-24 · Gemini CLI · [[Changes/Gemini CLI/2025-09-24-3-automation-and-scheduling-changes-in-v0-6-0|3 Automation and Scheduling changes in v0.6.0]]
+- Later: 2025-08-27 · Dify · [[Changes/Dify/2025-08-27-loop-exit-conditions-fixed-loop-exit-condition-to-accept-variables-from-nodes-in|Loop Exit Conditions]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2024-09-04 · OpenHands · [[Changes/OpenHands/2024-09-04-better-syntax-error-loop-detection-by-tobitege-in-https-github-com-all-hands-ai|Better syntax error loop detection]]
+- Earliest same-theme entry in the tracked set: 2024-01-02 · Dify · [[Changes/Dify/2024-01-02-add-data-clean-schedule-by-johnjyong-in-https-github-com-langgenius-dify-pull-18|Add data clean schedule]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

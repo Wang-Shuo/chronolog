@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 0369d8faa160c96642b76cd3bdebe5646ca07453868b0c95bc416b457c2ffeac
+machine_hash: 89964654a8635a4080549b917ecff363fbd1631c07b503c8df76f08f8aacaf29
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -103,7 +103,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.35
 ## Nearby in Interface Experience
 
 - Earlier: 2026-04-23 · Gemini CLI · [[Changes/Gemini CLI/2026-04-23-stop-showing-scrollbar-unless-we-are-in-terminalbuffer-mode-by-jacob314-in-https|Stop showing scrollbar unless we are in terminalBuffer mode]]
-- Later: 2026-04-24 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-04-24-subcommand-picker-shows-a-selection-indicator-next-to-the-highlighted-item|Subcommand picker shows a selection indicator (❯) next to the highlighted item]]
+- Later: 2026-04-23 · Ollama · [[Changes/Ollama/2026-04-23-improved-reliability-of-the-openclaw-onboarding-flow-in-ollama-launch|Improved reliability of the OpenClaw onboarding flow in ollama launch]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 083dddc733609b539114cd6315e366eee0a65d804552a4d7423ec787cbbf907c
+machine_hash: 5e23af5d6047d3fb226ea96a1f8dc97370c9109ce52b6e86d3b0595a17d56f26
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -51,12 +51,12 @@ record:
   title: 5 Account and Access changes in rust-v0.154.0
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-04-2-account-and-access-changes-in-v2-1-261|2 Account
-  and Access changes in v2.1.261]]'
-- '[[Changes/GitHub Copilot CLI/2026-09-04-3-account-and-access-changes-in-v1-0-83|3
-  Account and Access changes in v1.0.83]]'
+- '[[Changes/Lovable/2026-09-07-send-app-emails-from-tanstack-start-projects-without-cloud|Send
+  app emails from TanStack Start projects without Cloud]]'
 - '[[Changes/Claude Code/2026-09-08-2-account-and-access-changes-in-v2-1-265|2 Account
   and Access changes in v2.1.265]]'
+- '[[Changes/Lovable/2026-09-08-lovable-signs-in-to-test-pages-behind-your-app-s-login|Lovable
+  signs in to test pages behind your app''s login]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-09-09-rust-v0-154-0-github-385887902-ee241ff1|codex-cli-2026-09-09-rust-v0-154-0-github-385887902-ee241ff1]]'
 source_type: github_releases
 theme: account-access
@@ -110,7 +110,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.154.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Account and Access
 
-- Earlier: 2026-09-08 · Claude Code · [[Changes/Claude Code/2026-09-08-2-account-and-access-changes-in-v2-1-265|2 Account and Access changes in v2.1.265]]
+- Earlier: 2026-09-08 · Lovable · [[Changes/Lovable/2026-09-08-lovable-signs-in-to-test-pages-behind-your-app-s-login|Lovable signs in to test pages behind your app's login]]
 - Later: 2026-09-10 · Claude Code · [[Changes/Claude Code/2026-09-10-2-account-and-access-changes-in-v2-1-268|2 Account and Access changes in v2.1.268]]
 <!-- chronolog:end -->
 

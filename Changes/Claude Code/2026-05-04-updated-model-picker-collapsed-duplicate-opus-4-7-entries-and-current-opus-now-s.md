@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 145f1591b2d6e0ac1cd3e901ee1d1df48657648724c50bab3ac23a351069fba1
+machine_hash: d73d1dc9f5b7af7db1337ed9cf5c55e7e8890524486be67628bea6e1064278ef
 product: claude-code
 product_name: Claude Code
 record:
@@ -55,12 +55,12 @@ record:
   title: Updated `/model` picker
   type: change
 related_changes:
-- '[[Changes/Cline/2026-05-01-2-model-support-changes-in-v3-82-0|2 Model Support changes
-  in v3.82.0]]'
 - '[[Changes/GitHub Copilot CLI/2026-05-01-2-model-support-changes-in-v1-0-40|2 Model
   Support changes in v1.0.40]]'
 - '[[Changes/OpenHands/2026-05-01-added-llm-model-on-conversation-cards-and-header-by-sjathin-in-https-github-com|Added
   LLM model on conversation cards and header]]'
+- '[[Changes/Ollama/2026-05-03-the-ollama-app-now-surfaces-featured-models-from-server-driven-recommendations|The
+  Ollama app now surfaces featured models from server-driven recommendations]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-05-04-v2-1-128-github-317391175-a20e13a2|claude-code-2026-05-04-v2-1-128-github-317391175-a20e13a2]]'
 source_type: github_releases
 theme: model-support
@@ -94,7 +94,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-05-01 · OpenHands · [[Changes/OpenHands/2026-05-01-added-llm-model-on-conversation-cards-and-header-by-sjathin-in-https-github-com|Added LLM model on conversation cards and header]]
+- Earlier: 2026-05-03 · Ollama · [[Changes/Ollama/2026-05-03-the-ollama-app-now-surfaces-featured-models-from-server-driven-recommendations|The Ollama app now surfaces featured models from server-driven recommendations]]
 - Later: 2026-05-04 · Cursor · [[Changes/Cursor/2026-05-04-model-access-controls-d2ba4f|Model access controls]]
 <!-- chronolog:end -->
 

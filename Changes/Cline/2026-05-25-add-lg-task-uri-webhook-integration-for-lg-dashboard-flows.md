@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 730c1c849d3e6428d12bb424acd6c9b289529860e2b03490003860c183a30bb7
+machine_hash: 3030df650c6f8e52d94432c166d93344e0ff8c51936e46f9f9a580f5eeaf8210
 product: cline
 product_name: Cline
 record:
@@ -43,10 +43,9 @@ record:
   title: Add `/lg-task` URI webhook integration for LG dashboard flows
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-05-22-2-apps-and-integrations-changes-in-v2-1-149|2
-  Apps and Integrations changes in v2.1.149]]'
-- '[[Changes/Gemini CLI/2026-05-22-docs-extensions-refactor-releasing-guide-and-add-update-mechanisms-by-ruomengz-i|docs(extensions):
-  refactor releasing guide and add update mechanisms]]'
+- '[[Changes/Replit/2026-05-22-integrations|Integrations]]'
+- '[[Changes/Replit/2026-05-22-two-new-connectors-quiver-ai-and-browserbase|Two new
+  connectors: Quiver AI and Browserbase]]'
 - '[[Changes/GitHub Copilot CLI/2026-05-23-2-apps-and-integrations-changes-in-v1-0-52|2
   Apps and Integrations changes in v1.0.52]]'
 source_release: '[[Releases/Cline/cline-2026-05-25-v3-85-0-github-329008379-9b345c1b|cline-2026-05-25-v3-85-0-github-329008379-9b345c1b]]'
@@ -79,7 +78,7 @@ type: change
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-05-23 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-05-23-2-apps-and-integrations-changes-in-v1-0-52|2 Apps and Integrations changes in v1.0.52]]
-- Later: 2026-05-26 · Codex CLI · [[Changes/Codex CLI/2026-05-26-11-apps-and-integrations-changes-in-rust-v0-134-0|11 Apps and Integrations changes in rust-v0.134.0]]
+- Later: 2026-05-25 · ElevenLabs · [[Changes/ElevenLabs/2026-05-25-python-sdk|Python SDK]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

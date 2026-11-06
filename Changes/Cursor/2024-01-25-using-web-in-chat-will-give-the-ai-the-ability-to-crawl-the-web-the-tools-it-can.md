@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: search-browsing
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 6d1b95daea506a09d0a84ad60c62edcff8a9516c6d0bf581fa292168b5da1dcb
+machine_hash: 9c2ee75aba1eaa850af068e0570bd56a7ef11f115b59f87946b21299f5acb4d5
 product: cursor
 product_name: Cursor
 record:
@@ -46,12 +46,12 @@ record:
   title: Using @Web in chat will give the AI the ability to crawl the web!
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2023-06-22-search-history-improvements-tapping-on-a-search-result-takes-you-directly-to-the|Search
-  History Improvements]]'
 - '[[Changes/ChatGPT/2023-07-03-we-ve-learned-that-the-browsing-beta-can-occasionally-display-content-in-ways-we|Browsing
   is temporarily disabled]]'
 - '[[Changes/ChatGPT/2023-09-27-browsing-is-rolling-out-to-all-plus-users-chatgpt-can-now-browse-the-internet-to-335b58|Browsing
   is rolling out to all Plus users]]'
+- '[[Changes/Dify/2023-11-21-current-version-adds-full-text-search-and-hybrid-search-functions-for-datasets-s|Current
+  version adds full-text search and hybrid search functions for datasets…]]'
 source_release: '[[Releases/Cursor/cursor-2024-01-25-0-24-x-https-cursor-com-changelog-0-24-x-c3b46238|cursor-2024-01-25-0-24-x-https-cursor-com-changelog-0-24-x-c3b46238]]'
 source_type: cursor_changelog
 theme: search-browsing
@@ -81,8 +81,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Search and Browsing
 
-- Earlier: 2023-09-27 · ChatGPT · [[Changes/ChatGPT/2023-09-27-browsing-is-rolling-out-to-all-plus-users-chatgpt-can-now-browse-the-internet-to-335b58|Browsing is rolling out to all Plus users]]
-- Later: 2024-06-29 · OpenHands · [[Changes/OpenHands/2024-06-29-5-search-and-browsing-changes-in-0-7-0|5 Search and Browsing changes in 0.7.0]]
+- Earlier: 2023-11-21 · Dify · [[Changes/Dify/2023-11-21-current-version-adds-full-text-search-and-hybrid-search-functions-for-datasets-s|Current version adds full-text search and hybrid search functions for datasets…]]
+- Later: 2024-06-02 · Open WebUI · [[Changes/Open WebUI/2024-06-02-web-search-support-introducing-built-in-web-search-capabilities-via-rag-api-allo|🔍 Web Search Support]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

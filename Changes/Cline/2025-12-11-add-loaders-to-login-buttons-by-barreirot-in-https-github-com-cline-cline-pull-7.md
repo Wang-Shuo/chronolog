@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 43b47a7deabbd3578c6940adc4e472fc879899d1e358ab7728e9088bc8775413
+machine_hash: 5deadfb1f7457f490690a781794c898129e778be5ef65ccb36d3dc480e6a3323
 product: cline
 product_name: Cline
 record:
@@ -40,12 +40,12 @@ record:
   title: Add loaders to login buttons
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2025-12-02-feat-support-login-as-an-option-on-shell-tool-mcp-by-bolinfest-in-7120|feat:
-  support login as an option on shell-tool-mcp by @bolinfest in ♯7120]]'
 - '[[Changes/Codex CLI/2025-12-09-2-account-and-access-changes-in-rust-v0-66-0|2 Account
   and Access changes in rust-v0.66.0]]'
 - '[[Changes/Codex CLI/2025-12-10-2-account-and-access-changes-in-rust-v0-69-0|2 Account
   and Access changes in rust-v0.69.0]]'
+- '[[Changes/v0/2025-12-10-added-automatic-oauth-refresh-for-mcp-servers|Added automatic
+  oauth refresh for MCP servers]]'
 source_release: '[[Releases/Cline/cline-2025-12-11-v3-41-0-github-269664920-dcb387db|cline-2025-12-11-v3-41-0-github-269664920-dcb387db]]'
 source_type: github_releases
 theme: account-access
@@ -81,8 +81,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Account and Access
 
-- Earlier: 2025-12-10 · Codex CLI · [[Changes/Codex CLI/2025-12-10-2-account-and-access-changes-in-rust-v0-69-0|2 Account and Access changes in rust-v0.69.0]]
-- Later: 2025-12-12 · Windsurf · [[Changes/Windsurf/2025-12-12-request-all-supported-scopes-if-no-scopes-are-provided-in-mcp-oauth-config|Request all supported scopes if no scopes are provided in MCP OAuth config]]
+- Earlier: 2025-12-10 · v0 · [[Changes/v0/2025-12-10-added-automatic-oauth-refresh-for-mcp-servers|Added automatic oauth refresh for MCP servers]]
+- Later: 2025-12-11 · Dify · [[Changes/Dify/2025-12-11-feat-unify-environment-variables-for-database-connection-and-authentication-by-b|feat: Unify environment variables for database connection and authentication]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

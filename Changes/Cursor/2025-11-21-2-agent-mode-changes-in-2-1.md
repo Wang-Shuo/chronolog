@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 323b44e645016c9f86925864ac09a487c2ef52a07df51ddfcec95f822205807f
+machine_hash: 5675d941ab769f120c07ac326b3f33eba9f95ad1a7e14ca6d02d2fbb664d2e94
 product: cursor
 product_name: Cursor
 record:
@@ -44,8 +44,8 @@ record:
   title: 2 Agent Mode changes in 2.1
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2025-11-13-6510-feat-shell-command-tool-29364f3a9|♯6510 — feat:
-  shell_command tool (29364f3a9)]]'
+- '[[Changes/Gemini/2025-11-18-gemini-agent-is-now-available-on-the-web-to-google-ai-ultra-subscribers-18-in-th|Gemini
+  Agent is now available on the web, to Google AI Ultra subscribers 18+ in the US]]'
 - '[[Changes/Codex CLI/2025-11-19-2-agent-mode-changes-in-rust-v0-59-0|2 Agent Mode
   changes in rust-v0.59.0]]'
 - '[[Changes/Cursor/2025-11-21-instant-grep-beta|Instant Grep (Beta)]]'
@@ -88,7 +88,7 @@ Source: https://cursor.com/changelog/2-1
 ## Nearby in Agent Mode
 
 - Earlier: 2025-11-19 · Codex CLI · [[Changes/Codex CLI/2025-11-19-2-agent-mode-changes-in-rust-v0-59-0|2 Agent Mode changes in rust-v0.59.0]]
-- Later: 2025-12-02 · Codex CLI · [[Changes/Codex CLI/2025-12-02-powershell-apply-patch-parsing-is-corrected-and-apply-patch-tests-now-cover-shel|PowerShell apply_patch parsing is corrected, and apply_patch tests now cover…]]
+- Later: 2025-11-21 · ElevenLabs · [[Changes/ElevenLabs/2025-11-21-agents-platform|Agents Platform]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

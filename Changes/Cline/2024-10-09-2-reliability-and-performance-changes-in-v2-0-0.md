@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: fe5fad02f0821d6b5301648ef0cbb11cc7ce5eedd3b9a78351d1398a58e577a6
+machine_hash: 1f1ecc261356ed51f65c4817654bd53d315740dadac87dae52e44544ac1992e3
 product: cline
 product_name: Cline
 record:
@@ -49,12 +49,12 @@ record:
   title: 2 Reliability and Performance changes in v2.0.0
   type: change
 related_changes:
-- '[[Changes/Cursor/2024-09-17-composer-can-now-be-added-to-the-ai-pane-this-release-also-includes-many-stabili-7b4c37|Composer
-  can now be added to the AI pane]]'
-- '[[Changes/Cline/2024-09-19-folder-adds-folder-s-files-all-at-once-to-speed-up-your-workflow-even-more|@folder:
-  Adds folder''s files all at once to speed up your workflow even more]]'
 - '[[Changes/OpenHands/2024-10-03-improve-the-docker-runtime-build-speed-fix-issues-in-build-by-xingyaoww-in-https|Improve
   the docker runtime build speed & fix issues in build]]'
+- "[[Changes/Open WebUI/2024-10-07-library-dependencies-update-upgraded-dependencies-to-ensure-compatibility-and-pe|\U0001F4E6
+  Library Dependencies Update]]"
+- '[[Changes/Open WebUI/2024-10-07-2-reliability-and-performance-changes-in-v0-3-31|2
+  Reliability and Performance changes in v0.3.31]]'
 source_release: '[[Releases/Cline/cline-2024-10-09-v2-0-0-github-179063623-cccde13e|cline-2024-10-09-v2-0-0-github-179063623-cccde13e]]'
 source_type: github_releases
 theme: reliability-performance
@@ -90,8 +90,8 @@ Source: https://github.com/cline/cline/releases/tag/v2.0.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2024-10-03 · OpenHands · [[Changes/OpenHands/2024-10-03-improve-the-docker-runtime-build-speed-fix-issues-in-build-by-xingyaoww-in-https|Improve the docker runtime build speed & fix issues in build]]
-- Later: 2024-11-24 · Cursor · [[Changes/Cursor/2024-11-24-several-performance-improvements|Several performance improvements]]
+- Earlier: 2024-10-07 · Open WebUI · [[Changes/Open WebUI/2024-10-07-2-reliability-and-performance-changes-in-v0-3-31|2 Reliability and Performance changes in v0.3.31]]
+- Later: 2024-10-14 · Dify · [[Changes/Dify/2024-10-14-2-reliability-and-performance-changes-in-0-9-2|2 Reliability and Performance changes in 0.9.2]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

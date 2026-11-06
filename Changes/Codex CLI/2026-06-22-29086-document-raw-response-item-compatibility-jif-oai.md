@@ -4,20 +4,20 @@ date: '2026-06-22'
 description: 'Codex CLI · 2026-06-22 · Files and Data: #29086 Document raw response
   item compatibility @jif-oai'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-07-06-we-re-rolling-out-code-interpreter-to-all-chatgpt-plus-users-over-the-next-week-66255e|Code
-    interpreter is now rolling out in beta on web]]'
+  first_in_tracked: '[[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2
+    Files and Data changes in 0.2.2]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1082
+  lag_days: 1124
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: c9014104d2434b58e3345fd9c85e539e3cd7b893ac42b7a74fd0e3560a2b4001
+machine_hash: 93edd0d4efd2683c33250ef9fe76a38eba5955fe16981595c833b51a05dc1310
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -43,10 +43,10 @@ record:
   title: '#29086 Document raw response item compatibility @jif-oai'
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-06-08-interactive-charts-in-answers-chatgpt-can-now-turn-some-answers-into-rich-and-in|Interactive
-  charts in answers]]'
 - '[[Changes/ChatGPT/2026-06-08-full-screen-writing-blocks-for-longer-form-work-writing-blocks-now-cover-long-fo|Full-screen
   writing blocks for longer-form work]]'
+- '[[Changes/Replit/2026-06-12-add-visual-references-when-you-generate-media-on-canvas|Add
+  visual references when you generate media on Canvas]]'
 - '[[Changes/GitHub Copilot CLI/2026-06-16-recover-from-unreadable-native-document-attachments-by-falling-back-to-file-path|Recover
   from unreadable native document attachments by falling back to file-path uploads]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-06-22-rust-v0-142-0-github-343189954-a218ab4e|codex-cli-2026-06-22-rust-v0-142-0-github-343189954-a218ab4e]]'
@@ -100,7 +100,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-07-06 · ChatGPT · [[Changes/ChatGPT/2023-07-06-we-re-rolling-out-code-interpreter-to-all-chatgpt-plus-users-over-the-next-week-66255e|Code interpreter is now rolling out in beta on web]]
+- Earliest same-theme entry in the tracked set: 2023-05-25 · Dify · [[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2 Files and Data changes in 0.2.2]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

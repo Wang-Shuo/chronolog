@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: memory
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: c7ff655823d5d9dc08c06873bb3f2862890a013d07c1c0f4378dd3823c2c4dc2
+machine_hash: 3081fabfd529466a4315d948f9238bf4a10caee7f60c14d07506e2178d4f8116
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -42,8 +42,8 @@ record:
   title: 2 Memory and Personalization changes in rust-v0.149.0
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-08-14-you-can-now-change-a-project-s-memory-setting-after-you-create-it-open-the-proje-b36ffe|Edit
-  memory settings for existing projects]]'
+- '[[Changes/v0/2026-08-14-reduced-the-web-client-s-memory-use-by-clearing-preview-iframes-blob-and-audio-u|Reduced
+  the web client''s memory use by clearing preview iframes, blob and audio…]]'
 - '[[Changes/ChatGPT/2026-08-20-use-computer-history-in-more-regions-computer-history-is-now-available-in-the-ee|Use
   Computer History in more regions]]'
 - '[[Changes/Claude Code/2026-08-20-updated-the-bundled-claude-api-skill-for-the-managed-agents-aug-19-release-web-s|Updated
@@ -97,7 +97,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.149.0
 ## Nearby in Memory and Personalization
 
 - Earlier: 2026-08-20 · Claude Code · [[Changes/Claude Code/2026-08-20-updated-the-bundled-claude-api-skill-for-the-managed-agents-aug-19-release-web-s|Updated the bundled claude-api skill for the Managed Agents Aug 19 release]]
-- Later: 2026-08-26 · Codex CLI · [[Changes/Codex CLI/2026-08-26-3-memory-and-personalization-changes-in-rust-v0-150-0|3 Memory and Personalization changes in rust-v0.150.0]]
+- Later: 2026-08-25 · Claude · [[Changes/Claude/2026-08-25-memory-in-claude-cowork-editable-topics-and-a-sensitive-topics-setting|Memory in Claude Cowork, editable topics, and a sensitive topics setting]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

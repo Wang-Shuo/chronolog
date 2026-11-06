@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 39d4a854d92293b0de3dac46fe6da4092cdedc81b82e950b16af93f580144d65
+machine_hash: 545f9bf5e49c3066d9c10c48a66522f419af34de4066beeb6c87ff2620b10400
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -42,12 +42,12 @@ record:
   title: 2 Interface Experience changes in v0.1.15
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-07-03-chat-rendering-bugs-resolved-toolcall-display-overflow-issues|Chat
-  rendering bugs resolved (toolcall display, overflow issues)]]'
-- '[[Changes/Gemini CLI/2025-07-19-add-numbers-to-selection-list-by-miguelsolorio-in-https-github-com-google-gemini|Add
-  numbers to selection list]]'
+- '[[Changes/Dify/2025-07-23-3-interface-experience-changes-in-1-7-0|3 Interface Experience
+  changes in 1.7.0]]'
 - '[[Changes/Gemini CLI/2025-07-25-2-interface-experience-changes-in-v0-1-14|2 Interface
   Experience changes in v0.1.14]]'
+- '[[Changes/Dify/2025-07-28-3-interface-experience-changes-in-1-7-1|3 Interface Experience
+  changes in 1.7.1]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2025-07-30-v0-1-15-github-236146632-10a2efdb|gemini-cli-2025-07-30-v0-1-15-github-236146632-10a2efdb]]'
 source_type: github_releases
 theme: interface-experience
@@ -92,7 +92,7 @@ Source: https://github.com/google-gemini/gemini-cli/releases/tag/v0.1.15
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2025-07-25 · Gemini CLI · [[Changes/Gemini CLI/2025-07-25-2-interface-experience-changes-in-v0-1-14|2 Interface Experience changes in v0.1.14]]
+- Earlier: 2025-07-28 · Dify · [[Changes/Dify/2025-07-28-3-interface-experience-changes-in-1-7-1|3 Interface Experience changes in 1.7.1]]
 - Later: 2025-07-31 · Cline · [[Changes/Cline/2025-07-31-feat-adds-navigation-bar-component-and-restructure-app-layout-by-abeatrix-in-htt|feat: adds navigation bar component and restructure app layout]]
 <!-- chronolog:end -->
 

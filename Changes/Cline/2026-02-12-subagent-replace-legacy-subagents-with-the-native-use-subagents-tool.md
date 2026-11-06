@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 61dde4c112ff23e223e6a8b75ae6c2bc2c91076d53e3a83a7ab7c3b6e2601191
+machine_hash: f5264d6e95efed8d050808a45356ab6674f758a6c216bf85920dcabc44709486
 product: cline
 product_name: Cline
 record:
@@ -41,10 +41,10 @@ record:
   title: 'Subagent: replace legacy subagents with the native `use_subagents` tool'
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2026-02-10-4-agent-mode-changes-in-v0-28-0|4 Agent Mode changes
-  in v0.28.0]]'
 - '[[Changes/Codex CLI/2026-02-11-10-agent-mode-changes-in-rust-v0-99-0|10 Agent Mode
   changes in rust-v0.99.0]]'
+- '[[Changes/Dify/2026-02-11-flexible-delivery-methods-human-input-forms-can-be-delivered-via-webapp-or-email|Flexible
+  Delivery Methods: Human input forms can be delivered…]]'
 - '[[Changes/GitHub Copilot CLI/2026-02-11-3-agent-mode-changes-in-v0-0-407|3 Agent
   Mode changes in v0.0.407]]'
 source_release: '[[Releases/Cline/cline-2026-02-12-v3-58-0-github-285499006-63eb7b5c|cline-2026-02-12-v3-58-0-github-285499006-63eb7b5c]]'

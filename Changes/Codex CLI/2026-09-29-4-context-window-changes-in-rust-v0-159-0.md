@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: d6442770cd55916383a7c20d6934cade9ea34789627d73f1b4fbc0cd131f92e9
+machine_hash: 766f7282372112ddff7816c9b0974d41e8681c6b044fe1d75ba16c3545510a8c
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -49,10 +49,10 @@ record:
   title: 4 Context Window changes in rust-v0.159.0
   type: change
 related_changes:
-- '[[Changes/OpenHands/2026-09-25-refactor-remove-test-conversation-id-fallbacks-in-websocket-context-add-state-up|refactor:
-  remove test-conversation-id fallbacks in websocket context + add…]]'
 - '[[Changes/Codex CLI/2026-09-28-17-context-window-changes-in-rust-v0-158-0|17 Context
   Window changes in rust-v0.158.0]]'
+- '[[Changes/Ollama/2026-09-28-send-context-and-one-or-more-questions|Send context
+  and one or more questions]]'
 - '[[Changes/Claude Code/2026-09-29-2-context-window-changes-in-v2-1-285|2 Context
   Window changes in v2.1.285]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-09-29-rust-v0-159-0-github-398926954-1ffcd516|codex-cli-2026-09-29-rust-v0-159-0-github-398926954-1ffcd516]]'

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 8dcfc843e059982e6bf3ba4340af3910eb78293d39ea7b0d6167d7ff7f3fb312
+machine_hash: a3b9c76f44ca128b6cc77a177aafcbb6d1330df80abd578ee858ecde3525e8bf
 product: openhands
 product_name: OpenHands
 record:
@@ -43,12 +43,11 @@ record:
   title: Enabled custom sandbox for resolver
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2025-03-18-more-clear-and-private-incognito-keyboard-for-temporary-chats|More
-  clear and private Incognito keyboard for Temporary Chats]]'
-- '[[Changes/ChatGPT/2025-03-18-new-ui-for-temporary-chats-we-ve-made-accessing-and-viewing-these-private-conver|New
-  UI for Temporary Chats]]'
-- '[[Changes/OpenHands/2025-03-19-feat-microagents-add-security-microagent-by-h55nick-in-https-github-com-all-hand|feat(microagents):
-  Add security microagent]]'
+- '[[Changes/Open WebUI/2025-04-13-5-safety-and-privacy-changes-in-v0-6-3|5 Safety
+  and Privacy changes in v0.6.3]]'
+- '[[Changes/ElevenLabs/2025-04-14-pronunciation-dictionaries|Pronunciation Dictionaries]]'
+- '[[Changes/Dify/2025-04-23-5-safety-and-privacy-changes-in-1-3-0|5 Safety and Privacy
+  changes in 1.3.0]]'
 source_release: '[[Releases/OpenHands/openhands-2025-04-23-0-34-0-github-214259369-f2d174a1|openhands-2025-04-23-0-34-0-github-214259369-f2d174a1]]'
 source_type: github_releases
 theme: safety-privacy
@@ -81,8 +80,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Safety and Privacy
 
-- Earlier: 2025-03-19 · OpenHands · [[Changes/OpenHands/2025-03-19-feat-microagents-add-security-microagent-by-h55nick-in-https-github-com-all-hand|feat(microagents): Add security microagent]]
-- Later: 2025-05-12 · OpenHands · [[Changes/OpenHands/2025-05-12-simplified-workspace-mounting-with-sandbox-volumes-by-xingyaoww-in-https-github|Simplified workspace mounting with SANDBOX_VOLUMES]]
+- Earlier: 2025-04-23 · Dify · [[Changes/Dify/2025-04-23-5-safety-and-privacy-changes-in-1-3-0|5 Safety and Privacy changes in 1.3.0]]
+- Later: 2025-04-25 · Replit · [[Changes/Replit/2025-04-25-advanced-privacy-settings-for-teams|Advanced privacy settings for teams]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

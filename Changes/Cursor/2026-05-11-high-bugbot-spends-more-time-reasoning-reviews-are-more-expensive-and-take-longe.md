@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 9a1baa3ba205cbd7d20294c50191308e9a6dfe5776d1c478941b079ac3fb47a5
+machine_hash: 4d3c3fc63048bc6311ef19f748a440368e0c8152928ca12b61dfb7a5d1de5a00
 product: cursor
 product_name: Cursor
 record:
@@ -44,10 +44,10 @@ record:
   title: 'High: Bugbot spends more time reasoning'
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-05-07-added-support-for-general-model-names-for-subagent-configuration-i-e-set-model-o|Added
-  support for general model names for subagent configuration (i.e., set model]]'
-- '[[Changes/GitHub Copilot CLI/2026-05-08-3-model-support-changes-in-v1-0-44|3 Model
-  Support changes in v1.0.44]]'
+- '[[Changes/Open WebUI/2026-05-09-9-model-support-changes-in-v0-9-3|9 Model Support
+  changes in v0.9.3]]'
+- '[[Changes/Open WebUI/2026-05-10-3-model-support-changes-in-v0-9-5|3 Model Support
+  changes in v0.9.5]]'
 - '[[Changes/Claude Code/2026-05-11-compaction-prompt-now-asks-the-model-to-preserve-sensitive-user-instructions|Compaction
   prompt now asks the model to preserve sensitive user instructions]]'
 source_release: '[[Releases/Cursor/cursor-2026-05-11-bugbot-effort-levels-https-cursor-com-changelog-05-11-26-b41d8617|cursor-2026-05-11-bugbot-effort-levels-https-cursor-com-changelog-05-11-26-b41d8617]]'
@@ -83,7 +83,7 @@ type: change
 ## Nearby in Model Support
 
 - Earlier: 2026-05-11 · Claude Code · [[Changes/Claude Code/2026-05-11-compaction-prompt-now-asks-the-model-to-preserve-sensitive-user-instructions|Compaction prompt now asks the model to preserve sensitive user instructions]]
-- Later: 2026-05-12 · Gemini CLI · [[Changes/Gemini CLI/2026-05-12-5-model-support-changes-in-v0-42-0|5 Model Support changes in v0.42.0]]
+- Later: 2026-05-12 · Dify · [[Changes/Dify/2026-05-12-2-model-support-changes-in-1-14-1|2 Model Support changes in 1.14.1]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

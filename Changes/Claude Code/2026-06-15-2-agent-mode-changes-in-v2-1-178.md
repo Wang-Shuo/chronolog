@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: c244b7be3ed132ba0775a2d16264dd8e27ae603b3be7ed1db83b66c8da050f05
+machine_hash: 750f29bc99dfee50e69bfa866c7616875d92fb3a2f9267e8c5bfb402e4cb8142
 product: claude-code
 product_name: Claude Code
 record:
@@ -46,10 +46,9 @@ record:
   title: 2 Agent Mode changes in v2.1.178
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-06-10-sub-agents-can-now-spawn-their-own-sub-agents-up-to-5-levels-deep|Sub-agents
-  can now spawn their own sub-agents (up to 5 levels deep)]]'
-- '[[Changes/OpenHands/2026-06-10-2-agent-mode-changes-in-1-8-0|2 Agent Mode changes
-  in 1.8.0]]'
+- '[[Changes/Replit/2026-06-12-customize-agent-with-workspace-instructions-and-skills|Customize
+  Agent with workspace instructions and skills]]'
+- '[[Changes/Replit/2026-06-12-agent|Agent]]'
 - '[[Changes/GitHub Copilot CLI/2026-06-13-4-agent-mode-changes-in-v1-0-62|4 Agent
   Mode changes in v1.0.62]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-06-15-v2-1-178-github-339741361-902bc427|claude-code-2026-06-15-v2-1-178-github-339741361-902bc427]]'

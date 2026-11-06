@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 257ae280592efe8ed31e7cab5b4d7bf044741e7d7f670055fdabb0d7e58eabeb
+machine_hash: 767778eb52ee46ba978f25f474bf90b3474fc6bc4fbc58f3f621a6e5e855e2b4
 product: claude-code
 product_name: Claude Code
 record:
@@ -44,12 +44,11 @@ record:
   title: Added external editor support (Ctrl+G) in AskUserQuestion "Other" input field
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-01-13-send-messages-while-copilot-is-thinking-to-steer-or-queue|Send
-  messages while Copilot is thinking to steer or queue]]'
 - '[[Changes/Codex CLI/2026-01-14-2-editor-experience-changes-in-rust-v0-81-0|2 Editor
   Experience changes in rust-v0.81.0]]'
 - '[[Changes/Gemini CLI/2026-01-14-4-editor-experience-changes-in-v0-24-0|4 Editor
   Experience changes in v0.24.0]]'
+- '[[Changes/Ollama/2026-01-14-qwen-image-edit-2511|Qwen-Image-Edit-2511]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-01-16-v2-1-9-github-277250534-9563859d|claude-code-2026-01-16-v2-1-9-github-277250534-9563859d]]'
 source_type: github_releases
 theme: editor-experience
@@ -82,7 +81,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2026-01-14 · Gemini CLI · [[Changes/Gemini CLI/2026-01-14-4-editor-experience-changes-in-v0-24-0|4 Editor Experience changes in v0.24.0]]
+- Earlier: 2026-01-14 · Ollama · [[Changes/Ollama/2026-01-14-qwen-image-edit-2511|Qwen-Image-Edit-2511]]
 - Later: 2026-01-16 · Cursor · [[Changes/Cursor/2026-01-16-this-release-brings-many-of-the-editor-s-most-loved-features-to-the-cursor-cli-a|Cursor brings many of the editor’s most-loved features to the Cursor CLI, along…]]
 <!-- chronolog:end -->
 

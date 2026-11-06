@@ -4,20 +4,20 @@ date: '2025-11-21'
 description: 'Cursor · 2025-11-21 · Enterprise and Administration: 3 changes in Improved
   Plan Mode, AI Code Review in Editor, and Instant Grep — Define extension allowlist…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2024-03-20-admin-improvements-team-admins-can-now-mark-themselves-as-unpaid-users-and-can-s|Admin
-    improvements: Team admins can now mark themselves as unpaid users and can see…]]'
+  first_in_tracked: '[[Changes/Gemini/2023-05-05-access-for-google-workspace-accounts|Access
+    for Google Workspace accounts]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 611
+  lag_days: 931
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 74b9615e6f47cfc73c202e02fc918c6e3a0dbc9bad1cd227458b44ad2690d747
+machine_hash: 24c707639bf5a3679d778f9790e7fc1fd70889117b7be4243c3fa361004e8036
 product: cursor
 product_name: Cursor
 record:
@@ -45,10 +45,11 @@ record:
   title: 3 Enterprise and Administration changes in 2.1
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-10-29-cursor-for-enterprise|Cursor for Enterprise]]'
-- '[[Changes/Cursor/2025-10-29-hooks-cloud-distribution|Hooks: Cloud Distribution]]'
-- '[[Changes/Cursor/2025-10-29-sandboxed-terminals-admin-controls|Sandboxed Terminals:
-  Admin Controls]]'
+- '[[Changes/Replit/2025-11-07-analytics-dashboard-for-enterprise-admins|Analytics
+  dashboard for enterprise admins]]'
+- '[[Changes/Dify/2025-11-13-chore-remove-unused-enterprise-bot-from-the-readme-by-crazywoola-in-https-github|chore:
+  remove unused enterprise bot from the readme]]'
+- '[[Changes/v0/2025-11-17-we-launched-a-new-enterprise-page|Enterprise]]'
 source_release: '[[Releases/Cursor/cursor-2025-11-21-2-1-https-cursor-com-changelog-2-1-730bb490|cursor-2025-11-21-2-1-https-cursor-com-changelog-2-1-730bb490]]'
 source_type: cursor_changelog
 theme: enterprise-admin
@@ -89,14 +90,14 @@ Source: https://cursor.com/changelog/2-1
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Enterprise and Administration
 
-- Earlier: 2025-10-29 · Cursor · [[Changes/Cursor/2025-10-29-sandboxed-terminals-admin-controls|Sandboxed Terminals: Admin Controls]]
-- Later: 2025-11-27 · Cline · [[Changes/Cline/2025-11-27-creates-and-refactor-enterprise-docs-by-juanpflores-in-https-github-com-cline-cl|Creates and Refactor Enterprise Docs]]
+- Earlier: 2025-11-17 · v0 · [[Changes/v0/2025-11-17-we-launched-a-new-enterprise-page|Enterprise]]
+- Later: 2025-11-21 · Replit · [[Changes/Replit/2025-11-21-teams-and-enterprise|Teams and Enterprise]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2024-03-20 · Cursor · [[Changes/Cursor/2024-03-20-admin-improvements-team-admins-can-now-mark-themselves-as-unpaid-users-and-can-s|Admin improvements: Team admins can now mark themselves as unpaid users and can see…]]
+- Earliest same-theme entry in the tracked set: 2023-05-05 · Gemini · [[Changes/Gemini/2023-05-05-access-for-google-workspace-accounts|Access for Google Workspace accounts]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

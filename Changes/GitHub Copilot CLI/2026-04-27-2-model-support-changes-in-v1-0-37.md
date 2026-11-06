@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: da6650d8edd73cb30d0f42b8edfc1cbd2a94c1ef9adc75a99b6a45b3c9cf4176
+machine_hash: cdfa37da3d794f8dbfb14071a733eb5ad3461393637ad9dd5d77754b1f85adc3
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -45,12 +45,12 @@ record:
   title: 2 Model Support changes in v1.0.37
   type: change
 related_changes:
-- '[[Changes/Cline/2026-04-24-add-gpt-5-5-model-support-for-openai-codex-subscription-users|Add
-  GPT-5.5 model support for OpenAI Codex subscription users]]'
-- '[[Changes/Codex CLI/2026-04-24-5-model-support-changes-in-rust-v0-125-0|5 Model
-  Support changes in rust-v0.125.0]]'
-- '[[Changes/GitHub Copilot CLI/2026-04-24-claude-opus-4-6-now-uses-medium-reasoning-effort-by-default|Claude
-  Opus 4.6 now uses medium reasoning effort by default]]'
+- '[[Changes/Lovable/2026-04-24-knowledge-and-content-app-connectors-fireflies-gemini-enterprise-wordpress|Knowledge
+  and content app connectors: Fireflies, Gemini Enterprise, WordPress]]'
+- '[[Changes/Open WebUI/2026-04-24-4-model-support-changes-in-v0-9-2|4 Model Support
+  changes in v0.9.2]]'
+- '[[Changes/Replit/2026-04-24-security-agent-reviews-your-whole-codebase|Security
+  Agent reviews your whole codebase]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-04-27-v1-0-37-github-314304065-a4bb7d0c|github-copilot-cli-2026-04-27-v1-0-37-github-314304065-a4bb7d0c]]'
 source_type: github_releases
 theme: model-support
@@ -86,7 +86,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.37
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-04-24 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-04-24-claude-opus-4-6-now-uses-medium-reasoning-effort-by-default|Claude Opus 4.6 now uses medium reasoning effort by default]]
+- Earlier: 2026-04-24 · Replit · [[Changes/Replit/2026-04-24-security-agent-reviews-your-whole-codebase|Security Agent reviews your whole codebase]]
 - Later: 2026-04-28 · ChatGPT · [[Changes/ChatGPT/2026-04-28-we-re-making-it-easier-to-choose-the-right-model-before-you-send-a-message-model|Easier model selection in ChatGPT]]
 <!-- chronolog:end -->
 

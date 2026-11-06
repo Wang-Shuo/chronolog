@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: e808d4af4f2088fd0b606fc94ad09734ef7da2b4b8a0587e1d9174d0c8c61d93
+machine_hash: 7ce903acb29c20e1b619cf1f268c33df93d00c96bdee1fbb481eb26ea713a6b5
 product: cline
 product_name: Cline
 record:
@@ -39,11 +39,12 @@ record:
   title: Refactor Terminal Module
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-12-10-ask-mode-can-use-a-read-only-terminal-to-get-better-answers-like-checking-git-co|Ask
-  Mode can use a read-only terminal to get better answers, like checking git commits]]'
-- '[[Changes/Cursor/2025-12-10-debug-mode|Debug Mode]]'
 - '[[Changes/Cline/2025-12-11-6-developer-workflow-changes-in-v3-41-0|6 Developer
   Workflow changes in v3.41.0]]'
+- '[[Changes/Dify/2025-12-11-2-developer-workflow-changes-in-1-11-0|2 Developer Workflow
+  changes in 1.11.0]]'
+- '[[Changes/v0/2025-12-11-the-command-palette-now-searches-across-all-your-accessible-workspaces-not-just|Search
+  across all your scopes]]'
 source_release: '[[Releases/Cline/cline-2025-12-12-v3-42-0-github-270042562-021fbb79|cline-2025-12-12-v3-42-0-github-270042562-021fbb79]]'
 source_type: github_releases
 theme: developer-workflow
@@ -73,8 +74,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2025-12-11 · Cline · [[Changes/Cline/2025-12-11-6-developer-workflow-changes-in-v3-41-0|6 Developer Workflow changes in v3.41.0]]
-- Later: 2025-12-16 · Gemini CLI · [[Changes/Gemini CLI/2025-12-16-5-developer-workflow-changes-in-v0-21-0|5 Developer Workflow changes in v0.21.0]]
+- Earlier: 2025-12-11 · v0 · [[Changes/v0/2025-12-11-the-command-palette-now-searches-across-all-your-accessible-workspaces-not-just|Search across all your scopes]]
+- Later: 2025-12-12 · Dify · [[Changes/Dify/2025-12-12-please-use-the-following-command-instead-for-details-please-read-this-https-gith| Please use the following command instead]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

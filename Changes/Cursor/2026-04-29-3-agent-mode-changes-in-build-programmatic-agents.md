@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: f9e84f58cb00e844911d2afae22b7c0c6ee63971690fe15195131f479fa89afa
+machine_hash: dff09b4d76e0bb3c00ed8a4d45bfdb74d37f9eade489b5d4385a3b6ce774bf81
 product: cursor
 product_name: Cursor
 record:
@@ -93,7 +93,7 @@ Source: https://cursor.com/changelog/sdk-release
 ## Nearby in Agent Mode
 
 - Earlier: 2026-04-28 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-04-28-press-ctrl-x-b-to-move-the-current-running-task-or-shell-command-to-the-backgrou|Press ctrl+x → b to move the current running task or shell command to the background]]
-- Later: 2026-04-29 · Windsurf · [[Changes/Windsurf/2026-04-29-devin-agent-in-windsurf|Devin Agent in Windsurf]]
+- Later: 2026-04-29 · Dify · [[Changes/Dify/2026-04-29-2-agent-mode-changes-in-1-14-0|2 Agent Mode changes in 1.14.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

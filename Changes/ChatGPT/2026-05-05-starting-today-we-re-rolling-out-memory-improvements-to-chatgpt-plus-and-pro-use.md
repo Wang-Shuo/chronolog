@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: memory
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: a824dacfcb9b4a0391acb8a98127cecece6dd0a44add7a857cb56916d1b5aa1d
+machine_hash: 7a08dd654e5e2650070de026a930f27b122038228bfc2657d69973f1f64136d9
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -102,8 +102,8 @@ record:
   title: Memory sources and more personalized responses in ChatGPT
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-04-24-custom-instruction-files-in-gitignored-directories-e-g-github-instructions-now-l|Custom
-  instruction files in .gitignored directories (e.g., .github/instructions/)…]]'
+- '[[Changes/Open WebUI/2026-04-24-2-memory-and-personalization-changes-in-v0-9-2|2
+  Memory and Personalization changes in v0.9.2]]'
 - '[[Changes/Gemini CLI/2026-04-28-refactor-memory-replace-memorymanageragent-with-prompt-driven-memory-editing-acr|refactor(memory):
   replace MemoryManagerAgent with prompt-driven memory editing…]]'
 - '[[Changes/Codex CLI/2026-04-30-12-memory-and-personalization-changes-in-rust-v0-128-0|12

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 294d6479f3b41a86dd31231e9842bbd5d8cef310913ba15774830116af75e26d
+machine_hash: c29f49bec95e2de5077e60af65587c987816b184af1b1a72affbe07d8bb7d601
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -43,10 +43,10 @@ record:
   title: Fix file operations timing out while waiting for user permission
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2025-11-07-migrate-console-error-to-coreevents-debugger-for-sandbox-logger-chatrecordingser|migrate
-  console.error to coreEvents/debugger for sandbox, logger, chatRecordingService]]'
 - '[[Changes/Codex CLI/2025-11-13-6480-use-codex-linux-sandbox-in-unified-exec-6c36318bd|♯6480
   — Use codex-linux-sandbox in unified exec (6c36318bd)]]'
+- '[[Changes/Dify/2025-11-13-2-safety-and-privacy-changes-in-1-10-0|2 Safety and Privacy
+  changes in 1.10.0]]'
 - '[[Changes/GitHub Copilot CLI/2025-11-17-2-safety-and-privacy-changes-in-v0-0-359|2
   Safety and Privacy changes in v0.0.359]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2025-11-18-v0-0-360-github-263159124-dd1de33f|github-copilot-cli-2025-11-18-v0-0-360-github-263159124-dd1de33f]]'

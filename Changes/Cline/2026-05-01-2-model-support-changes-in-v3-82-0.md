@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 52adbe90279b9dd1241f52ba414fca07e576bb172c2da791d04988c654f8e052
+machine_hash: 71cb368047e723957f0625b603f16a010baf7be080af64eaa925cf90d645c2a8
 product: cline
 product_name: Cline
 record:
@@ -42,8 +42,8 @@ record:
   title: 2 Model Support changes in v3.82.0
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2026-04-28-2-model-support-changes-in-v0-40-0|2 Model Support
-  changes in v0.40.0]]'
+- '[[Changes/Dify/2026-04-29-27-model-support-changes-in-1-14-0|27 Model Support changes
+  in 1.14.0]]'
 - '[[Changes/Codex CLI/2026-04-30-10-model-support-changes-in-rust-v0-128-0|10 Model
   Support changes in rust-v0.128.0]]'
 - '[[Changes/Claude Code/2026-05-01-2-model-support-changes-in-v2-1-126|2 Model Support

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: cf25b4cbf6e940f5a872f2e72610915c7412fbd20533cfea83604442a4fbb362
+machine_hash: 0e85904d7bac251d88e7218f0f6020c4f239812ded09d24f7974a985df3d7349
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -82,10 +82,8 @@ record:
   title: GPT-5.5 Instant Update
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-06-19-added-a-warning-when-the-requested-model-is-deprecated-or-automatically-updated|Added
-  a warning when the requested model is deprecated or automatically updated…]]'
-- '[[Changes/Codex CLI/2026-06-22-3-model-support-changes-in-rust-v0-142-0|3 Model
-  Support changes in rust-v0.142.0]]'
+- '[[Changes/ElevenLabs/2026-06-22-music|Music]]'
+- '[[Changes/ElevenLabs/2026-06-22-dubbing|Dubbing]]'
 - '[[Changes/GitHub Copilot CLI/2026-06-23-7-model-support-changes-in-v1-0-64|7 Model
   Support changes in v1.0.64]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-06-24-gpt-5-5-instant-update-6c17e30e|chatgpt-2026-06-24-gpt-5-5-instant-update-6c17e30e]]'

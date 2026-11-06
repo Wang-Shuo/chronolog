@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 0a8da9a7f96d3391a41e1aebda1dedade962c99a1d0ffa028aaf54454f6ded8f
+machine_hash: ad072226dd6bfe58f4828716978f5e4224b785705391a9b90ec9700fca318deb
 product: openhands
 product_name: OpenHands
 record:
@@ -42,12 +42,12 @@ record:
   title: Bash commands do not block the main runtime
   type: change
 related_changes:
-- '[[Changes/Cline/2024-09-19-problems-add-workspace-errors-and-warnings-for-claude-to-fix-no-more-back-and-fo|@problems:
-  Add workspace errors and warnings for Claude to fix, no more…]]'
-- '[[Changes/Aider/2024-09-21-2-developer-workflow-changes-in-v0-57-0|2 Developer
-  Workflow changes in v0.57.0]]'
 - '[[Changes/Cline/2024-09-21-improved-automatic-linter-compiler-debugging-by-only-sending-claude-new-errors-t|Improved
   automatic linter/compiler debugging by only sending Claude new errors…]]'
+- '[[Changes/Dify/2024-09-30-2-developer-workflow-changes-in-0-9-0|2 Developer Workflow
+  changes in 0.9.0]]'
+- '[[Changes/Dify/2024-09-30-stop-the-service-command-please-execute-in-the-docker-directory|Stop
+  the service，Command, please execute in the docker directory]]'
 source_release: '[[Releases/OpenHands/openhands-2024-09-30-0-9-7-github-177640625-2411194e|openhands-2024-09-30-0-9-7-github-177640625-2411194e]]'
 source_type: github_releases
 theme: developer-workflow
@@ -76,7 +76,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2024-09-21 · Cline · [[Changes/Cline/2024-09-21-improved-automatic-linter-compiler-debugging-by-only-sending-claude-new-errors-t|Improved automatic linter/compiler debugging by only sending Claude new errors…]]
+- Earlier: 2024-09-30 · Dify · [[Changes/Dify/2024-09-30-stop-the-service-command-please-execute-in-the-docker-directory|Stop the service，Command, please execute in the docker directory]]
 - Later: 2024-10-04 · Aider · [[Changes/Aider/2024-10-04-3-developer-workflow-changes-in-v0-59-0|3 Developer Workflow changes in v0.59.0]]
 <!-- chronolog:end -->
 

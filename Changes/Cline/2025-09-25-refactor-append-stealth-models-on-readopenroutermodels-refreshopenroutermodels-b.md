@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 4d9cf631d08d9989ee292ea8e3c13d3ec17d8f6b38068bcd71f589ed7654d945
+machine_hash: 5e42ce78677ee594c6e595676388a4c33714af67fc5201fd43913b17c55bc10b
 product: cline
 product_name: Cline
 record:
@@ -42,12 +42,12 @@ record:
   title: 'refactor: append stealth models on readOpenRouterModels & refreshOpenRouterModels'
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2025-09-23-2-model-support-changes-in-rust-v0-40-0|2 Model
-  Support changes in rust-v0.40.0]]'
 - '[[Changes/Windsurf/2025-09-23-gpt-5-codex-is-now-in-windsurf|GPT-5-Codex is now
   in Windsurf!]]'
 - '[[Changes/Gemini CLI/2025-09-24-6-model-support-changes-in-v0-6-0|6 Model Support
   changes in v0.6.0]]'
+- '[[Changes/Ollama/2025-09-24-models-with-qwen3-s-architecture-including-moe-now-run-in-ollama-s-new-engine|Models
+  with Qwen3''s architecture including MoE now run in Ollama''s new engine]]'
 source_release: '[[Releases/Cline/cline-2025-09-25-v3-31-0-github-249851716-699f2598|cline-2025-09-25-v3-31-0-github-249851716-699f2598]]'
 source_type: github_releases
 theme: model-support
@@ -79,8 +79,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2025-09-24 · Gemini CLI · [[Changes/Gemini CLI/2025-09-24-6-model-support-changes-in-v0-6-0|6 Model Support changes in v0.6.0]]
-- Later: 2025-09-25 · OpenHands · [[Changes/OpenHands/2025-09-25-set-claude-sonnet-output-token-limit|Set Claude Sonnet output token limit]]
+- Earlier: 2025-09-24 · Ollama · [[Changes/Ollama/2025-09-24-models-with-qwen3-s-architecture-including-moe-now-run-in-ollama-s-new-engine|Models with Qwen3's architecture including MoE now run in Ollama's new engine]]
+- Later: 2025-09-25 · Gemini · [[Changes/Gemini/2025-09-25-update-to-2-5-flash-in-gemini|Update to 2.5 Flash in Gemini]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

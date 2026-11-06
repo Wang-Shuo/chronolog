@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 3529a4ce6f9e042a8fde2e15186fdc363f3ee9f7f853c752864695f040ff781f
+machine_hash: 67b2c8ad3d57e8091c6d1ead1f3882c871d55176ffdd96b6bf1541f944ba5c39
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -44,12 +44,12 @@ record:
   title: 3 Mobile and Desktop changes in rust-v0.148.0
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-08-14-work-in-the-built-in-browser-or-chrome-browser-actions-are-available-in-the-linu|Work
-  in the built-in browser or Chrome]]'
-- '[[Changes/ChatGPT/2026-08-14-learning-projects-and-personalized-suggestions|Learning,
-  Projects, and personalized suggestions]]'
 - '[[Changes/ChatGPT/2026-08-14-use-chatgpt-and-codex-on-linux-the-desktop-app-is-now-available-globally-in-publ|Use
   ChatGPT and Codex on Linux]]'
+- '[[Changes/Lovable/2026-08-16-attach-a-figma-file-in-chat|Attach a Figma file in
+  chat]]'
+- '[[Changes/Lovable/2026-08-17-copy-a-project-link-in-the-mobile-and-desktop-apps|Copy
+  a project link in the mobile and desktop apps]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-08-18-rust-v0-148-0-github-372686337-4265c0ae|codex-cli-2026-08-18-rust-v0-148-0-github-372686337-4265c0ae]]'
 source_type: github_releases
 theme: mobile-desktop
@@ -96,7 +96,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.148.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2026-08-14 · ChatGPT · [[Changes/ChatGPT/2026-08-14-use-chatgpt-and-codex-on-linux-the-desktop-app-is-now-available-globally-in-publ|Use ChatGPT and Codex on Linux]]
+- Earlier: 2026-08-17 · Lovable · [[Changes/Lovable/2026-08-17-copy-a-project-link-in-the-mobile-and-desktop-apps|Copy a project link in the mobile and desktop apps]]
 - Later: 2026-08-19 · Claude Code · [[Changes/Claude Code/2026-08-19-added-notify-when-idle-to-cross-session-sendmessage-ask-another-claude-code-sess|Added notify_when_idle to cross-session SendMessage]]
 <!-- chronolog:end -->
 

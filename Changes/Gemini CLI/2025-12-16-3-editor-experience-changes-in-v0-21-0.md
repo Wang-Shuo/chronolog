@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 361eaed6612327c36efd17ddd3b694a2b24db04f2e22399158d6f537fc1b8014
+machine_hash: ffcf422278716eb3cf23b2c191c8689ee2d7b1ad48f8119e0e4b0cef7bbde722
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -47,10 +47,11 @@ record:
   title: 3 Editor Experience changes in v0.21.0
   type: change
 related_changes:
-- '[[Changes/Windsurf/2025-12-10-diff-zones|Diff Zones]]'
 - '[[Changes/Windsurf/2025-12-10-tab-supercomplete|Tab (Supercomplete)]]'
 - '[[Changes/Cline/2025-12-11-display-completion-messages-in-processstateupdate-by-maxpaulus43-in-https-github|display
   completion messages in processStateUpdate]]'
+- '[[Changes/Dify/2025-12-11-3-editor-experience-changes-in-1-11-0|3 Editor Experience
+  changes in 1.11.0]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2025-12-16-v0-21-0-github-270848833-3e3b19fe|gemini-cli-2025-12-16-v0-21-0-github-270848833-3e3b19fe]]'
 source_type: github_releases
 theme: editor-experience
@@ -92,7 +93,7 @@ Source: https://github.com/google-gemini/gemini-cli/releases/tag/v0.21.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2025-12-11 · Cline · [[Changes/Cline/2025-12-11-display-completion-messages-in-processstateupdate-by-maxpaulus43-in-https-github|display completion messages in processStateUpdate]]
+- Earlier: 2025-12-11 · Dify · [[Changes/Dify/2025-12-11-3-editor-experience-changes-in-1-11-0|3 Editor Experience changes in 1.11.0]]
 - Later: 2025-12-17 · ChatGPT · [[Changes/ChatGPT/2025-12-17-edit-and-review-tasks-in-pulse-anytime-after-you-create-them-please-note-that-pu|Edit and review tasks in Pulse anytime after you create them]]
 <!-- chronolog:end -->
 

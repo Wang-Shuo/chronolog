@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 575e6a862785fddb6d8547168bae2b4acc80854a757355d5a7d3df7b8c4133cf
+machine_hash: b49ddaaf5bc030d5937977fdf4c5cf50c48d06de4a3855bd5269b03bbd510e27
 product: cursor
 product_name: Cursor
 record:
@@ -41,12 +41,12 @@ record:
   title: Shipped better error logging, which should help us improve stability
   type: change
 related_changes:
-- '[[Changes/Cursor/2023-09-20-we-ship-a-new-version-of-indexing-which-should-be-significantly-more-stable-than|More
-  Stable Codebase Indexing]]'
-- '[[Changes/Cursor/2023-09-22-stable-version-of-indexing-this-should-be-much-more-stable-than-previous-version|Stable
-  Indexing v0.1]]'
-- '[[Changes/Cursor/2023-10-01-indexing-should-now-be-faster-more-stable-and-use-less-of-your-system-resources-c870a3|Indexing
-  should now be faster, more stable, and use less of your system resources]]'
+- '[[Changes/Ollama/2023-10-13-improved-gpu-allocation-for-older-gpus-to-fix-out-of-memory-errors|Improved
+  GPU allocation for older GPUs to fix "out of memory" errors]]'
+- '[[Changes/Ollama/2023-10-20-ollama-run-will-now-show-more-descriptive-errors-when-encountering-runtime-issue|ollama
+  run will now show more descriptive errors when encountering runtime issues…]]'
+- '[[Changes/Ollama/2023-10-27-2-reliability-and-performance-changes-in-v0-1-6|2 Reliability
+  and Performance changes in v0.1.6]]'
 source_release: '[[Releases/Cursor/cursor-2023-11-03-0-14-0-https-cursor-com-changelog-0-14-0-45a47acf|cursor-2023-11-03-0-14-0-https-cursor-com-changelog-0-14-0-45a47acf]]'
 source_type: cursor_changelog
 theme: reliability-performance
@@ -78,8 +78,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2023-10-01 · Cursor · [[Changes/Cursor/2023-10-01-indexing-should-now-be-faster-more-stable-and-use-less-of-your-system-resources-c870a3|Indexing should now be faster, more stable, and use less of your system resources]]
-- Later: 2023-11-30 · Cursor · [[Changes/Cursor/2023-11-30-faster-copilot-a-few-hundred-milliseconds-faster-through-various-networking-opti|Faster Copilot++: a few hundred milliseconds faster, through various networking…]]
+- Earlier: 2023-10-27 · Ollama · [[Changes/Ollama/2023-10-27-2-reliability-and-performance-changes-in-v0-1-6|2 Reliability and Performance changes in v0.1.6]]
+- Later: 2023-11-04 · Ollama · [[Changes/Ollama/2023-11-04-ollama-push-is-now-much-faster-7b-models-will-push-up-to-100mb-s-and-large-model|ollama push is now much faster]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

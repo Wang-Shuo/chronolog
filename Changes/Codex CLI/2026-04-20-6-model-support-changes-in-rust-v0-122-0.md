@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 1cf4826fd0deefead03a7b45effe4ee0d58c9f7d8fdf0d574650f6d359a874d0
+machine_hash: 3dad788e39a244cf9b7869579385850f4a6a5b275895627b08b201f79165aa43
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -52,12 +52,12 @@ record:
   title: 6 Model Support changes in rust-v0.122.0
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-04-16-auto-mode-is-now-available-for-max-subscribers-when-using-opus-4-7|Auto
-  mode is now available for Max subscribers when using Opus 4.7]]'
-- '[[Changes/Cline/2026-04-16-add-claude-opus-4-7-model-support|Add Claude Opus 4.7
-  model support]]'
-- '[[Changes/GitHub Copilot CLI/2026-04-16-add-support-for-claude-opus-4-7|Add support
-  for Claude Opus 4.7]]'
+- '[[Changes/Ollama/2026-04-16-gemma-4-on-mlx-added-support-for-running-gemma-4-via-mlx-on-apple-silicon-includ|Gemma
+  4 on MLX. Added support for running Gemma 4 via MLX on Apple Silicon…]]'
+- '[[Changes/Claude/2026-04-17-claude-design-by-anthropic-labs|Claude Design by Anthropic
+  Labs]]'
+- '[[Changes/Replit/2026-04-17-claude-opus-4-7-powers-power-mode|Claude Opus 4.7 powers
+  Power mode]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-04-20-rust-v0-122-0-github-311361536-9a010c0e|codex-cli-2026-04-20-rust-v0-122-0-github-311361536-9a010c0e]]'
 source_type: github_releases
 theme: model-support
@@ -110,7 +110,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.122.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-04-16 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-04-16-add-support-for-claude-opus-4-7|Add support for Claude Opus 4.7]]
+- Earlier: 2026-04-17 · Replit · [[Changes/Replit/2026-04-17-claude-opus-4-7-powers-power-mode|Claude Opus 4.7 powers Power mode]]
 - Later: 2026-04-20 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-04-20-ctrl-t-to-toggle-reasoning-display-is-now-listed-in-the-help-and-overlay|ctrl+t to toggle reasoning display is now listed in the /help and ? overlay]]
 <!-- chronolog:end -->
 

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: da8abcaac87d134081e7fe4416b689fdc789b0d0966d0c32cc96029aab50b0b8
+machine_hash: 4a97d6b6ba2def4eb287c520a4ff0c3175779eebe5496d09a235e6c1f959dd63
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -55,10 +55,9 @@ record:
   title: 6 Agent Mode changes in v0.38.0
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-04-13-branch-selection-in-empty-state|Branch selection in
-  empty state]]'
 - '[[Changes/Cursor/2026-04-13-3-agent-mode-changes-in-3-1|3 Agent Mode changes in
   3.1]]'
+- '[[Changes/ElevenLabs/2026-04-13-elevenagents|ElevenAgents]]'
 - '[[Changes/Cursor/2026-04-14-ask-a-quick-side-question-without-derailing-the-agent-s-main-task-btw-allows-you|/btw
   support in CLI]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2026-04-14-v0-38-0-github-309093275-47df3672|gemini-cli-2026-04-14-v0-38-0-github-309093275-47df3672]]'

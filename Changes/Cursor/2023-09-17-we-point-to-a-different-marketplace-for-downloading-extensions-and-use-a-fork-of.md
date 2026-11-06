@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: a40c2e2e1f952f4a21ef407736f9f65713dd491cc31a01e10de414f29daad0fd
+machine_hash: 4c69d8e5e31f6fea69d5e7d93aa9b51d3cdf5d009078feaaa4e5b0a37518aeb0
 product: cursor
 product_name: Cursor
 record:
@@ -48,10 +48,10 @@ record:
   title: Cursor Python and Cursor Marketplace
   type: change
 related_changes:
-- '[[Changes/Aider/2023-07-12-install-docs-link-to-neovim-plugin-https-github-com-joshuavial-aider-nvim-by-jos|Install
-  docs link to NeoVim plugin((source link)]]'
-- '[[Changes/Cursor/2023-07-28-more-robust-extension-handling-you-can-now-use-pre-release-extensions-again|More
-  robust extension handling]]'
+- '[[Changes/Dify/2023-08-14-add-ruby-s-sdk-implement-code-by-benjaminx-in-https-github-com-langgenius-dify-p|Add
+  Ruby''s SDK implement code]]'
+- '[[Changes/Dify/2023-09-09-chore-handle-workspace-apps-scrollbar-by-iamjoel-in-https-github-com-langgenius|chore:
+  handle workspace apps scrollbar]]'
 - '[[Changes/Cursor/2023-09-11-we-serve-extensions-now-using-cursor-s-extension-marketplace|Cursor
   Marketplace]]'
 source_release: '[[Releases/Cursor/cursor-2023-09-17-0-11-1-nightly-https-cursor-com-changelog-0-11-1-9c40f1bf|cursor-2023-09-17-0-11-1-nightly-https-cursor-com-changelog-0-11-1-9c40f1bf]]'
@@ -81,7 +81,7 @@ type: change
 ## Nearby in Apps and Integrations
 
 - Earlier: 2023-09-11 · Cursor · [[Changes/Cursor/2023-09-11-we-serve-extensions-now-using-cursor-s-extension-marketplace|Cursor Marketplace]]
-- Later: 2023-10-20 · Cursor · [[Changes/Cursor/2023-10-20-cursor-is-now-based-on-vs-code-1-83-1-this-ensures-that-the-newest-versions-of-a|Cursor is now based on VS Code 1.83.1]]
+- Later: 2023-09-19 · Gemini · [[Changes/Gemini/2023-09-19-bard-can-now-access-helpful-information-from-google-apps-and-services|Bard can now access helpful information from Google apps and services]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

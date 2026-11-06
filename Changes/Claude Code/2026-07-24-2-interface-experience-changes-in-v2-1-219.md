@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: c5e09a412b4f7bd08f43d4d4adbe205fcd90b8bd75415c5f426423cada027bc2
+machine_hash: cc7dab1aab77e7e9f3e306705bf5fe89e08d61db509486b649f7afb7d28ef743
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,10 +45,10 @@ record:
   title: 2 Interface Experience changes in v2.1.219
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-07-20-the-sessions-sidebar-is-now-navigable-with-the-keyboard-and-mouse-arrows-open-an|The
-  Sessions sidebar is now navigable with the keyboard and mouse…]]'
-- '[[Changes/Codex CLI/2026-07-21-18-interface-experience-changes-in-rust-v0-145-0|18
-  Interface Experience changes in rust-v0.145.0]]'
+- '[[Changes/Lovable/2026-07-21-invite-people-outside-your-workspace-to-an-internally-published-app|Invite
+  people outside your workspace to an internally published app]]'
+- '[[Changes/v0/2026-07-21-2-interface-experience-changes-in-slash-commands-the-shopify|2
+  Interface Experience changes in Slash commands, the Shopify…]]'
 - '[[Changes/GitHub Copilot CLI/2026-07-23-add-model-plan-or-model-plan-to-pick-a-model-used-while-in-plan-mode-pass-a-mode|Add
   /model plan (or /model --plan) to pick a model used while in plan mode]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-07-24-v2-1-219-github-359412713-6c14d233|claude-code-2026-07-24-v2-1-219-github-359412713-6c14d233]]'
@@ -88,7 +88,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.219
 ## Nearby in Interface Experience
 
 - Earlier: 2026-07-23 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-07-23-add-model-plan-or-model-plan-to-pick-a-model-used-while-in-plan-mode-pass-a-mode|Add /model plan (or /model --plan) to pick a model used while in plan mode]]
-- Later: 2026-07-28 · Cursor · [[Changes/Cursor/2026-07-28-existing-free-users-in-india-can-upgrade-their-plan-from-the-dashboard-new-users-aeb811|Existing Free users in India can upgrade their plan from the dashboard]]
+- Later: 2026-07-27 · Open WebUI · [[Changes/Open WebUI/2026-07-27-19-interface-experience-changes-in-v0-11-0|19 Interface Experience changes in v0.11.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -4,20 +4,20 @@ date: '2025-09-29'
 description: 'ChatGPT · 2025-09-29 · Voice and Audio: Turn off voice mode, to remove
   the option to use voice mode in ChatGPT.'
 diffusion:
-  first_in_tracked: '[[Changes/Aider/2023-08-11-voice-to-code-https-aider-chat-docs-voice-html-support-which-allows-you-to-code|Voice-to-code((source
-    link) support, which allows you…]]'
+  first_in_tracked: '[[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2
+    Voice and Audio changes in 0.3.7]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 780
+  lag_days: 812
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 991b1777cde0991f720654f1efdb3dd0beb2d0e57a6dc2e44efc27857aeae183
+machine_hash: cadad815d82ef890512d4fc6e91737c3bb6e0c478ebe0f5a6a9fe8eedc26c29b
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -41,9 +41,8 @@ record:
   title: Turn off voice mode, to remove the option to use voice mode in ChatGPT
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2025-08-07-you-can-now-choose-from-four-distinct-personalities-or-use-the-default-personali-b6826c|Personalities]]'
-- '[[Changes/ChatGPT/2025-09-09-last-month-we-announced-that-everyone-now-has-access-to-advanced-voice-mode-with-d861d2|ChatGPT
-  Voice Update]]'
+- '[[Changes/ElevenLabs/2025-09-15-new-endpoints|New Endpoints]]'
+- '[[Changes/ElevenLabs/2025-09-15-text-to-speech|Text to Speech]]'
 - '[[Changes/Cline/2025-09-25-3-voice-and-audio-changes-in-v3-31-0|3 Voice and Audio
   changes in v3.31.0]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-09-29-parental-controls-8b95b69a|chatgpt-2025-09-29-parental-controls-8b95b69a]]'
@@ -78,13 +77,13 @@ type: change
 ## Nearby in Voice and Audio
 
 - Earlier: 2025-09-25 · Cline · [[Changes/Cline/2025-09-25-3-voice-and-audio-changes-in-v3-31-0|3 Voice and Audio changes in v3.31.0]]
-- Later: 2025-10-29 · Cursor · [[Changes/Cursor/2025-10-29-voice-mode|Voice Mode]]
+- Later: 2025-09-29 · ElevenLabs · [[Changes/ElevenLabs/2025-09-29-speech-to-text|Speech to Text]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-08-11 · Aider · [[Changes/Aider/2023-08-11-voice-to-code-https-aider-chat-docs-voice-html-support-which-allows-you-to-code|Voice-to-code((source link) support, which allows you…]]
+- Earliest same-theme entry in the tracked set: 2023-07-10 · Dify · [[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2 Voice and Audio changes in 0.3.7]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

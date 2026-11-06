@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: ab944ab42df76ccf33e08a44ab3a0b9384a777a789bca449e04a3ceb11949fea
+machine_hash: 5600e9fb6ee838b8f3effe243987fe070814068ee2b39fe760496fcecd950a5a
 product: cline
 product_name: Cline
 record:
@@ -46,12 +46,10 @@ record:
     to set…
   type: change
 related_changes:
-- '[[Changes/Aider/2025-02-06-4-model-support-changes-in-v0-74-0|4 Model Support changes
-  in v0.74.0]]'
-- '[[Changes/OpenHands/2025-02-19-better-error-when-llm-settings-do-not-exist-by-amanape-in-https-github-com-all-h|Better
-  error when LLM settings do not exist]]'
-- '[[Changes/OpenHands/2025-02-27-allow-selecting-the-claude-3-7-model-from-via-the-anthropic-provider-by-amanape|Allow
-  selecting the Claude 3.7 model from via the Anthropic provider]]'
+- '[[Changes/Lovable/2025-02-28-all-lovable-users-are-now-using-sonnet-3-7-for-the-main-workflow-which-means-tha|All
+  Lovable users are now using Sonnet 3.7 for the main workflow, which means…]]'
+- '[[Changes/Replit/2025-02-28-claude-3-7-sonnet-release|Claude 3.7 Sonnet release]]'
+- '[[Changes/Replit/2025-02-28-better-documentation|Better documentation]]'
 source_release: '[[Releases/Cline/cline-2025-03-01-v3-5-0-github-203165377-15dc26a5|cline-2025-03-01-v3-5-0-github-203165377-15dc26a5]]'
 source_type: github_releases
 theme: model-support
@@ -82,7 +80,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2025-02-27 · OpenHands · [[Changes/OpenHands/2025-02-27-allow-selecting-the-claude-3-7-model-from-via-the-anthropic-provider-by-amanape|Allow selecting the Claude 3.7 model from via the Anthropic provider]]
+- Earlier: 2025-02-28 · Replit · [[Changes/Replit/2025-02-28-better-documentation|Better documentation]]
 - Later: 2025-03-03 · Cline · [[Changes/Cline/2025-03-03-add-gemini-flash-models-to-vertex-provider-thanks-jpaodev|Add Gemini Flash models to Vertex provider (thanks @jpaodev!)]]
 <!-- chronolog:end -->
 

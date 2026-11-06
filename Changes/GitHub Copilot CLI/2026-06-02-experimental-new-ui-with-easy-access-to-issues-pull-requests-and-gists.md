@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: b0090787486c6c4c00748e583572a913a9ebd6b8400f0aaf410a5f13006cae13
+machine_hash: 8b985f8e6b411c8538405e6ab1d89e2746bae712bf92c597c5032c3c9d1ee222
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -45,8 +45,8 @@ record:
   title: '`/experimental` new UI with easy access to issues, pull requests, and gists'
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-06-01-lsp-show-lsp-test-and-lsp-reload-correctly-discover-project-lsp-config-when-the|/lsp
-  show, /lsp test, and /lsp reload correctly discover project LSP config…]]'
+- '[[Changes/Open WebUI/2026-06-01-27-developer-workflow-changes-in-v0-9-6|27 Developer
+  Workflow changes in v0.9.6]]'
 - '[[Changes/Claude Code/2026-06-02-2-developer-workflow-changes-in-v2-1-160|2 Developer
   Workflow changes in v2.1.160]]'
 - '[[Changes/Claude Code/2026-06-02-2-developer-workflow-changes-in-v2-1-161|2 Developer

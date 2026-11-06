@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 3a94c05fe1cb33bca6f38b83d57137bf5ad53fd05439d6e46bb5a51fd3ca754d
+machine_hash: 4c983cb1a8fbfaaf7191fa6555d60efd6a7bb53fb6ef9554386f8b705ecac9fc
 product: claude-code
 product_name: Claude Code
 record:
@@ -41,10 +41,10 @@ record:
   title: Improved PowerShell dangerous command detection
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-03-23-2-developer-workflow-changes-in-v1-0-11|2
-  Developer Workflow changes in v1.0.11]]'
 - '[[Changes/Gemini CLI/2026-03-24-feat-skills-improve-async-pr-review-workflow-and-logging-by-mattkorwel-in-https|feat(skills):
   improve async-pr-review workflow and logging]]'
+- '[[Changes/Open WebUI/2026-03-25-34-developer-workflow-changes-in-v0-8-11|34 Developer
+  Workflow changes in v0.8.11]]'
 - '[[Changes/Claude Code/2026-03-26-5-developer-workflow-changes-in-v2-1-84|5 Developer
   Workflow changes in v2.1.84]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-03-26-v2-1-85-github-302129484-6eb9dcd7|claude-code-2026-03-26-v2-1-85-github-302129484-6eb9dcd7]]'

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 96b644413561e61f9a86010434006f19a420f18b64436d49ce4e46a48d4b0022
+machine_hash: cf0737d5dea6ccf408b222f7006a383d55474c487076cf4cb19a4cd9042d90c5
 product: claude-code
 product_name: Claude Code
 record:
@@ -46,8 +46,7 @@ record:
   title: 2 Agent Mode changes in v2.1.285
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-09-28-11-agent-mode-changes-in-rust-v0-158-0|11 Agent
-  Mode changes in rust-v0.158.0]]'
+- '[[Changes/ElevenLabs/2026-09-28-elevenagents|ElevenAgents]]'
 - '[[Changes/GitHub Copilot CLI/2026-09-28-queue-exit-commands-while-an-agent-response-is-still-running|Queue
   exit commands while an agent response is still running]]'
 - '[[Changes/ChatGPT/2026-09-29-we-re-introducing-dots-always-on-agents-in-chatgpt-that-can-take-on-ongoing-work-24bef5|ChatGPT

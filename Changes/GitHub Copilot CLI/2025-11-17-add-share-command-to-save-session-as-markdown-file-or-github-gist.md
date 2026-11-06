@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 318f052405fc01f9a79de03511edc8f44606a15603737ae5bb35e7c69fa90d80
+machine_hash: 29b52fb43b8944bd218328b62318d7af3ca834d341bb8e106d2ff0120f1f61ff
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -42,12 +42,11 @@ record:
   title: Add `/share` command to save session as markdown file or GitHub gist
   type: change
 related_changes:
-- '[[Changes/Cline/2025-11-13-3-developer-workflow-changes-in-v3-37-0|3 Developer
-  Workflow changes in v3.37.0]]'
-- '[[Changes/Codex CLI/2025-11-13-7-developer-workflow-changes-in-rust-v0-58-0|7 Developer
-  Workflow changes in rust-v0.58.0]]'
+- '[[Changes/Dify/2025-11-13-chore-add-type-check-to-pre-commit-by-lyzno1-in-https-github-com-langgenius-dify|chore:
+  add type-check to pre-commit]]'
 - '[[Changes/Gemini CLI/2025-11-14-trivial-yaml-fixes-for-linter-by-joshualitt-in-https-github-com-google-gemini-ge|Trivial
   yaml fixes for linter]]'
+- '[[Changes/Replit/2025-11-16-gitlab-and-bitbucket-support|GitLab and Bitbucket support]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2025-11-17-v0-0-359-github-263127541-a6162e30|github-copilot-cli-2025-11-17-v0-0-359-github-263127541-a6162e30]]'
 source_type: github_releases
 theme: developer-workflow
@@ -79,7 +78,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2025-11-14 · Gemini CLI · [[Changes/Gemini CLI/2025-11-14-trivial-yaml-fixes-for-linter-by-joshualitt-in-https-github-com-google-gemini-ge|Trivial yaml fixes for linter]]
+- Earlier: 2025-11-16 · Replit · [[Changes/Replit/2025-11-16-gitlab-and-bitbucket-support|GitLab and Bitbucket support]]
 - Later: 2025-11-19 · Codex CLI · [[Changes/Codex CLI/2025-11-19-15-developer-workflow-changes-in-rust-v0-59-0|15 Developer Workflow changes in rust-v0.59.0]]
 <!-- chronolog:end -->
 

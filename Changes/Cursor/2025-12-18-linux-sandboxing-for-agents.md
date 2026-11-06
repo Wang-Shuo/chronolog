@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 3c7d1fe9a9eb72b93f662f0410159ac5a4f91e0fb756592d18358884ded7da6e
+machine_hash: d0364fc1716994e6eefbd5699f9e9050074099a29bf388d31f1a86239ae44521
 product: cursor
 product_name: Cursor
 record:
@@ -46,7 +46,8 @@ record:
   title: Linux sandboxing for agents
   type: change
 related_changes:
-- '[[Changes/Windsurf/2025-12-16-agents-tool-execution|Agents & Tool Execution]]'
+- '[[Changes/Claude/2025-12-18-skills-for-organizations-partners-and-the-ecosystem|Skills
+  for organizations, partners, and the ecosystem]]'
 - '[[Changes/Codex CLI/2025-12-18-3-agent-mode-changes-in-rust-v0-74-0|3 Agent Mode
   changes in rust-v0.74.0]]'
 - '[[Changes/Cursor/2025-12-18-shared-agent-transcripts-164030|Shared agent transcripts]]'

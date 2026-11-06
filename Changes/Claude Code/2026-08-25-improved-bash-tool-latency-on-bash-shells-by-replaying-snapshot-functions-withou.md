@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: b7701fd9cde2fd7c2b6be917981b046d94d671aa5ecc5aef2da6678007ba2da6
+machine_hash: 79f2a30accac6d769f7df3fe46093887de25c94fb597601736f5faff1e74ea83
 product: claude-code
 product_name: Claude Code
 record:
@@ -44,12 +44,11 @@ record:
     without…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-08-20-improved-startup-responsiveness-the-automatic-update-check-now-runs-about-10-sec|Improved
-  startup responsiveness]]'
 - '[[Changes/Codex CLI/2026-08-20-2-reliability-and-performance-changes-in-rust-v0-149-0|2
   Reliability and Performance changes in rust-v0.149.0]]'
 - '[[Changes/ChatGPT/2026-08-21-attach-recent-photos-faster-press-and-hold-the-button-to-open-your-recent-photos|Attach
   recent photos faster]]'
+- '[[Changes/ElevenLabs/2026-08-24-elevenagents-a7877c|ElevenAgents]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-08-25-v2-1-246-github-376644211-dd9805a0|claude-code-2026-08-25-v2-1-246-github-376644211-dd9805a0]]'
 source_type: github_releases
 theme: reliability-performance
@@ -85,8 +84,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2026-08-21 · ChatGPT · [[Changes/ChatGPT/2026-08-21-attach-recent-photos-faster-press-and-hold-the-button-to-open-your-recent-photos|Attach recent photos faster]]
-- Later: 2026-08-27 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-08-27-resume-large-sessions-faster-by-showing-recent-history-first-while-older-message|Resume large sessions faster by showing recent history first while older messages load]]
+- Earlier: 2026-08-24 · ElevenLabs · [[Changes/ElevenLabs/2026-08-24-elevenagents-a7877c|ElevenAgents]]
+- Later: 2026-08-25 · Dify · [[Changes/Dify/2026-08-25-workflow-runtime-stability|Workflow & Runtime Stability]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

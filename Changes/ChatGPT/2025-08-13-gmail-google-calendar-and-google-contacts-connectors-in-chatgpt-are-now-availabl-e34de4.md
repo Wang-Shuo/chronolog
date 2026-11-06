@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: expansion
-machine_hash: d7808a7323720417fc15c1f7367aa7bf22e061d47c3753697b2acebda6f48850
+machine_hash: 848c366c212fd03a1841890e6cdfdc2c509116bd3902045e93b7d07d177de013
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -47,8 +47,8 @@ record:
   title: Gmail, Google Calendar, and Google Contacts Connectors in ChatGPT (Plus)
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2025-08-06-26-apps-and-integrations-changes-in-v0-1-18|26
-  Apps and Integrations changes in v0.1.18]]'
+- '[[Changes/Lovable/2025-08-11-real-time-analytics-on-your-lovable-apps|Real-time
+  analytics on your Lovable apps]]'
 - '[[Changes/Codex CLI/2025-08-12-https-github-com-openai-codex-pull-1975-add-json-schema-sanitization-for-mcp-too|(source
   link) add JSON schema sanitization for MCP tools…]]'
 - '[[Changes/Gemini CLI/2025-08-12-10-apps-and-integrations-changes-in-v0-1-19|10

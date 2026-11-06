@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 412fbc90e808c570e4925f35bea94802f7ad485090923467ecf8dd81465a7d41
+machine_hash: d28e9ff53bad905be61570187e2e881ab58b571e9f87c904f0a48421048ddad8
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -44,10 +44,10 @@ record:
   title: 'perf(ui): optimize table rendering by memoizing styled characters'
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-02-19-6-interface-experience-changes-in-v0-0-412|6
-  Interface Experience changes in v0.0.412]]'
-- '[[Changes/GitHub Copilot CLI/2026-02-20-add-configurable-status-line-support-to-display-dynamic-session-information-via|Add
-  configurable status line support to display dynamic session information…]]'
+- '[[Changes/Lovable/2026-02-23-drag-and-drop-reordering-of-pinned-tools-in-the-project-navigation-bar-has-been|Drag
+  and drop reordering of pinned tools in the project navigation bar has been…]]'
+- '[[Changes/Open WebUI/2026-02-23-8-interface-experience-changes-in-v0-8-4|8 Interface
+  Experience changes in v0.8.4]]'
 - '[[Changes/Codex CLI/2026-02-25-8-interface-experience-changes-in-rust-v0-105-0|8
   Interface Experience changes in rust-v0.105.0]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2026-02-25-v0-30-0-github-290144121-620926b3|gemini-cli-2026-02-25-v0-30-0-github-290144121-620926b3]]'

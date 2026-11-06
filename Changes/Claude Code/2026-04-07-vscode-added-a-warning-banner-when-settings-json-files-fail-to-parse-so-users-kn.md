@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 4a92f8ab935ba4fd9c3d1af4088bd4725f2b766ccb0a3e30158bbfe3a394fdc9
+machine_hash: edc9c57ea3c775fef1d5e02f6c8abe4c1eb1f8a6e5feed057cb2f22303e08933
 product: claude-code
 product_name: Claude Code
 record:
@@ -46,8 +46,7 @@ record:
     so users…'
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-04-02-add-permissionrequest-hook-to-allow-scripts-to-programmatically-approve-or-deny|Add
-  PermissionRequest hook to allow scripts to programmatically approve or deny tool…]]'
+- '[[Changes/Lovable/2026-04-02-app-emails|App emails]]'
 - '[[Changes/Claude Code/2026-04-04-linux-sandbox-now-ships-the-apply-seccomp-helper-in-both-npm-and-native-builds-r|Linux
   sandbox now ships the apply-seccomp helper in both npm and native builds…]]'
 - '[[Changes/GitHub Copilot CLI/2026-04-04-add-notification-hook-event-that-fires-asynchronously-on-shell-completion-permis|Add

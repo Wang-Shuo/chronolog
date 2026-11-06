@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 765c86d6c9e379f807fc2b9323957779e2a861e18021c2942cc09817894300c9
+machine_hash: 2b7c333afe5050c9f7311843a3fd4ffca339b44298ce2cfc3d312fd4a1d9eede
 product: windsurf
 product_name: Windsurf
 record:
@@ -46,7 +46,8 @@ record:
   title: Adaptive Fix
   type: change
 related_changes:
-- '[[Changes/Windsurf/2026-04-06-introducing-adaptive|Introducing Adaptive]]'
+- '[[Changes/Ollama/2026-04-07-added-latest-models-to-ollama-app|Added latest models
+  to Ollama App]]'
 - '[[Changes/Windsurf/2026-04-07-adaptive-model-visibility|Adaptive Model Visibility]]'
 - '[[Changes/Gemini CLI/2026-04-08-5-model-support-changes-in-v0-37-0|5 Model Support
   changes in v0.37.0]]'

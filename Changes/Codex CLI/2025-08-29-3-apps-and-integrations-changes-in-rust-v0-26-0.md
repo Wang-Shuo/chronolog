@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 44e409d21d2f81096bb054531fd46b57198ee651fc71f18cb715b6d923de9560
+machine_hash: 79c32f1f45a0664281a5a67cee48d65516e5446846b25a5e2c37b1826e4bf479
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -44,12 +44,12 @@ record:
   title: 3 Apps and Integrations changes in rust-v0.26.0
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-08-21-cursor-now-supports-mcp-elicitation-a-new-feature-in-the-mcp-spec-that-allows-se|Support
-  for MCP elicitation]]'
-- '[[Changes/Codex CLI/2025-08-26-5-apps-and-integrations-changes-in-rust-v0-24-0|5
-  Apps and Integrations changes in rust-v0.24.0]]'
+- '[[Changes/Dify/2025-08-27-11-apps-and-integrations-changes-in-1-8-0|11 Apps and
+  Integrations changes in 1.8.0]]'
 - '[[Changes/Gemini CLI/2025-08-27-2-apps-and-integrations-changes-in-v0-2-0|2 Apps
   and Integrations changes in v0.2.0]]'
+- "[[Changes/Open WebUI/2025-08-28-configurable-file-upload-processing-mode-added-process-in-background-query-param|\U0001F4C1
+  Configurable File Upload Processing Mode]]"
 source_release: '[[Releases/Codex CLI/codex-cli-2025-08-29-rust-v0-26-0-github-243361170-3db0d38c|codex-cli-2025-08-29-rust-v0-26-0-github-243361170-3db0d38c]]'
 source_type: github_releases
 theme: apps-integrations
@@ -88,7 +88,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.26.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2025-08-27 · Gemini CLI · [[Changes/Gemini CLI/2025-08-27-2-apps-and-integrations-changes-in-v0-2-0|2 Apps and Integrations changes in v0.2.0]]
+- Earlier: 2025-08-28 · Open WebUI · [[Changes/Open WebUI/2025-08-28-configurable-file-upload-processing-mode-added-process-in-background-query-param|📁 Configurable File Upload Processing Mode]]
 - Later: 2025-08-29 · Codex CLI · [[Changes/Codex CLI/2025-08-29-mcp-stability-drop-mutexes-earlier-and-avoid-lock-ordering-pitfalls|MCP stability: drop mutexes earlier and avoid lock ordering pitfalls]]
 <!-- chronolog:end -->
 

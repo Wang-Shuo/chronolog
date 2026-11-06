@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 0aa104319427b5cffa5b542015feff0fd86e3b9db656e69c48178ad93a95d682
+machine_hash: 479ff48d970555a5eab06d3850339eb25d68185d9163e7dba75fcf6d57f90678
 product: claude-code
 product_name: Claude Code
 record:
@@ -48,12 +48,12 @@ record:
   title: 3 Apps and Integrations changes in v2.1.78
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-03-14-4-apps-and-integrations-changes-in-v2-1-76|4 Apps
-  and Integrations changes in v2.1.76]]'
-- '[[Changes/Codex CLI/2026-03-16-17-apps-and-integrations-changes-in-rust-v0-115-0|17
-  Apps and Integrations changes in rust-v0.115.0]]'
 - '[[Changes/GitHub Copilot CLI/2026-03-16-6-apps-and-integrations-changes-in-v1-0-6|6
   Apps and Integrations changes in v1.0.6]]'
+- '[[Changes/Lovable/2026-03-16-app-connectors-twitch-twilio-linear-telegram-and-contentful|App
+  connectors: Twitch, Twilio, Linear, Telegram, and Contentful]]'
+- '[[Changes/Lovable/2026-03-16-chat-connectors-polar-and-sanity|Chat connectors:
+  Polar and Sanity]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-03-17-v2-1-78-github-298204446-1f2c1721|claude-code-2026-03-17-v2-1-78-github-298204446-1f2c1721]]'
 source_type: github_releases
 theme: apps-integrations
@@ -91,7 +91,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.78
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-03-16 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-03-16-6-apps-and-integrations-changes-in-v1-0-6|6 Apps and Integrations changes in v1.0.6]]
+- Earlier: 2026-03-16 · Lovable · [[Changes/Lovable/2026-03-16-chat-connectors-polar-and-sanity|Chat connectors: Polar and Sanity]]
 - Later: 2026-03-17 · Claude Code · [[Changes/Claude Code/2026-03-17-2-apps-and-integrations-changes-in-v2-1-77|2 Apps and Integrations changes in v2.1.77]]
 <!-- chronolog:end -->
 

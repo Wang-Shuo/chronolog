@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: ecfc5bb3e0cc31a212a089e3f77ad322af53ff1a91f8bcf80c3b17f6f24e69c8
+machine_hash: 2ed63bac5abe78865996a5af4dc3537c3f730da616ec89415a28928e1e03940f
 product: cline
 product_name: Cline
 record:
@@ -42,8 +42,8 @@ record:
   title: 2 Model Support changes in v3.12.0
   type: change
 related_changes:
-- '[[Changes/Cline/2025-04-06-add-recommended-models-for-cline-provider|Add recommended
-  models for Cline provider]]'
+- '[[Changes/Dify/2025-04-09-6-model-support-changes-in-1-2-0|6 Model Support changes
+  in 1.2.0]]'
 - '[[Changes/ChatGPT/2025-04-10-effective-april-30-2025-gpt-4-will-be-retired-from-chatgpt-and-fully-replaced-by-d03b3b|Sunsetting
   GPT‑4 in ChatGPT]]'
 - '[[Changes/Cline/2025-04-10-add-support-for-xai-s-provider-s-grok-3-models|Add support
@@ -83,7 +83,7 @@ Source: https://github.com/cline/cline/releases/tag/v3.12.0
 ## Nearby in Model Support
 
 - Earlier: 2025-04-10 · Cline · [[Changes/Cline/2025-04-10-add-support-for-xai-s-provider-s-grok-3-models|Add support for xAI's provider's Grok 3 models]]
-- Later: 2025-04-14 · Aider · [[Changes/Aider/2025-04-14-6-model-support-changes-in-v0-82-0|6 Model Support changes in v0.82.0]]
+- Later: 2025-04-13 · Open WebUI · [[Changes/Open WebUI/2025-04-13-2-model-support-changes-in-v0-6-3|2 Model Support changes in v0.6.3]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

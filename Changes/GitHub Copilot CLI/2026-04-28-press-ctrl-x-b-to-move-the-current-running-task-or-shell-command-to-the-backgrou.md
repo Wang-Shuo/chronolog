@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 7f268b14c05af8ad82690f546c8c9bf21b2e2fe961e1809fbc8e53dd8815be17
+machine_hash: 16530898658c26a5c80856f036762ead4b111a93b9ba5cabb44dfdbbc38221ae
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -43,8 +43,7 @@ record:
     background
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-04-24-custom-agents-skills-and-commands-from-claude-are-no-longer-loaded-by-the-copilo|Custom
-  agents, skills, and commands from ~/.claude/ are no longer loaded…]]'
+- '[[Changes/ElevenLabs/2026-04-27-elevenagents-e7cc6e|ElevenAgents]]'
 - '[[Changes/Claude Code/2026-04-28-2-agent-mode-changes-in-v2-1-121|2 Agent Mode
   changes in v2.1.121]]'
 - '[[Changes/Gemini CLI/2026-04-28-3-agent-mode-changes-in-v0-40-0|3 Agent Mode changes

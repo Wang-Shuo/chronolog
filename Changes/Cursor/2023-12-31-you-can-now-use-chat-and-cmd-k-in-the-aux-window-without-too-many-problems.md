@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 64003a5e0656bd16dcc065dae4c0a2f6bd3574765d939fc0c4adb3d717e31ce2
+machine_hash: dc9ffe8fafd819a7552fcfefac8f57f0d3824df64c9798adca3b9f8fe389c87c
 product: cursor
 product_name: Cursor
 record:
@@ -74,7 +74,7 @@ type: change
 ## Nearby in Editor Experience
 
 - Earlier: 2023-12-30 · Cursor · [[Changes/Cursor/2023-12-30-cursor-is-now-based-on-vs-code-1-85-1-which-among-other-things-includes-floating|VS Code 1.85.1]]
-- Later: 2024-01-03 · Cursor · [[Changes/Cursor/2024-01-03-hold-down-command-press-and-release-shift-and-continue-holding-down-command-this|Early Preview: Hold-cmd-tap-shift to Trigger AI Rewrite]]
+- Later: 2024-01-02 · Dify · [[Changes/Dify/2024-01-02-gpt-2-tokenizer-files-now-cached-within-dify-s-codebase-making-builds-quicker-an|GPT-2 Tokenizer Files: Now cached within Dify's codebase, making builds quicker…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

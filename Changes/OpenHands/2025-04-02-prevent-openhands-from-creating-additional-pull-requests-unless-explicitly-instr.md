@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 141c9bc5312b9719480df6053d320be27a17c97fc2b2201193ce7f70743c4110
+machine_hash: 5ca92c0b1391b9a56629fa1bdaa586564e2e78f50b0cc09ba1db20ef8bd7d2d8
 product: openhands
 product_name: OpenHands
 record:
@@ -44,12 +44,12 @@ record:
     instructed
   type: change
 related_changes:
-- '[[Changes/Aider/2025-03-13-2-developer-workflow-changes-in-v0-77-0|2 Developer
-  Workflow changes in v0.77.0]]'
 - '[[Changes/OpenHands/2025-03-25-reduce-bash-soft-timeout-from-30-to-10-seconds-by-xingyaoww-in-https-github-com|Reduce
   bash SOFT timeout from 30 to 10 seconds]]'
 - '[[Changes/Aider/2025-03-31-2-developer-workflow-changes-in-v0-80-0|2 Developer
   Workflow changes in v0.80.0]]'
+- "[[Changes/Open WebUI/2025-04-01-improved-error-handling-from-pipelines-pipelines-now-show-the-actual-returned-er|\U0001F4DA
+  Improved Error Handling from Pipelines]]"
 source_release: '[[Releases/OpenHands/openhands-2025-04-02-0-31-0-github-209939505-1b9e3a2d|openhands-2025-04-02-0-31-0-github-209939505-1b9e3a2d]]'
 source_type: github_releases
 theme: developer-workflow
@@ -81,7 +81,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2025-03-31 · Aider · [[Changes/Aider/2025-03-31-2-developer-workflow-changes-in-v0-80-0|2 Developer Workflow changes in v0.80.0]]
+- Earlier: 2025-04-01 · Open WebUI · [[Changes/Open WebUI/2025-04-01-improved-error-handling-from-pipelines-pipelines-now-show-the-actual-returned-er|📚 Improved Error Handling from Pipelines]]
 - Later: 2025-04-02 · Windsurf · [[Changes/Windsurf/2025-04-02-commit-message-generation-beta|Commit Message Generation (Beta)]]
 <!-- chronolog:end -->
 

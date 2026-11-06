@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 7596cad29348b758bdf869dc24a46a475291bdadd47616ad8d40fd9e18eb0f3c
+machine_hash: 2b0fe189c5ad09ab42609dd1a2f6c3c1a70bef3d255e853d90695e4104840053
 product: cline
 product_name: Cline
 record:
@@ -48,11 +48,12 @@ record:
   title: 4 Model Support changes in v3.35.0
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-10-29-plan-mode-in-background|Plan Mode in Background]]'
-- '[[Changes/Gemini CLI/2025-10-29-5-model-support-changes-in-v0-11-0|5 Model Support
-  changes in v0.11.0]]'
+- '[[Changes/Ollama/2025-10-29-4-model-support-changes-in-v0-12-7|4 Model Support
+  changes in v0.12.7]]'
 - '[[Changes/Codex CLI/2025-10-30-5-model-support-changes-in-rust-v0-52-0|5 Model
   Support changes in rust-v0.52.0]]'
+- '[[Changes/Ollama/2025-10-30-ollama-will-now-stop-running-a-model-before-removing-it-via-ollama-rm|Ollama
+  will now stop running a model before removing it via ollama rm]]'
 source_release: '[[Releases/Cline/cline-2025-10-31-v3-35-0-github-258670330-1bba90ed|cline-2025-10-31-v3-35-0-github-258670330-1bba90ed]]'
 source_type: github_releases
 theme: model-support
@@ -93,7 +94,7 @@ Source: https://github.com/cline/cline/releases/tag/v3.35.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2025-10-30 · Codex CLI · [[Changes/Codex CLI/2025-10-30-5-model-support-changes-in-rust-v0-52-0|5 Model Support changes in rust-v0.52.0]]
+- Earlier: 2025-10-30 · Ollama · [[Changes/Ollama/2025-10-30-ollama-will-now-stop-running-a-model-before-removing-it-via-ollama-rm|Ollama will now stop running a model before removing it via ollama rm]]
 - Later: 2025-11-03 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2025-11-03-2-model-support-changes-in-v0-0-354|2 Model Support changes in v0.0.354]]
 <!-- chronolog:end -->
 

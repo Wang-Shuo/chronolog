@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: bd24cef11a4158a449d04010af3c3f581718b73131ea54a1118409cd89005f0c
+machine_hash: 91f192d3afcca29fbee458d945d2e1c02c3b1af6f4e90d4e6e1adf3cd696ea95
 product: aider
 product_name: Aider
 record:
@@ -41,12 +41,12 @@ record:
   title: Properly override `GIT_EDITOR` env for commits if it is already set
   type: change
 related_changes:
-- '[[Changes/Aider/2024-05-13-improved-reflection-feedback-to-llms-using-the-diff-edit-format|Improved
-  reflection feedback to LLMs using the diff edit format]]'
 - '[[Changes/Cursor/2024-05-26-merges-vs-code-1-89-into-cursor-38031f|Merges VS Code
   1.89 into Cursor]]'
 - '[[Changes/Cursor/2024-05-26-accept-partial-completions-with-copilot-ce6049|Accept
   partial completions with Copilot++]]'
+- '[[Changes/Open WebUI/2024-06-03-edit-titles-with-double-click-double-click-on-titles-to-rename-them-quickly-and|✏️
+  Edit Titles with Double Click]]'
 source_release: '[[Releases/Aider/aider-2024-06-04-v0-37-0-github-158850149-b4830675|aider-2024-06-04-v0-37-0-github-158850149-b4830675]]'
 source_type: github_releases
 theme: editor-experience
@@ -79,7 +79,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2024-05-26 · Cursor · [[Changes/Cursor/2024-05-26-accept-partial-completions-with-copilot-ce6049|Accept partial completions with Copilot++]]
+- Earlier: 2024-06-03 · Open WebUI · [[Changes/Open WebUI/2024-06-03-edit-titles-with-double-click-double-click-on-titles-to-rename-them-quickly-and|✏️ Edit Titles with Double Click]]
 - Later: 2024-06-08 · Cursor · [[Changes/Cursor/2024-06-08-default-on-cursor-prediction-with-a-new-ui|Default-on Cursor Prediction with a new UI]]
 <!-- chronolog:end -->
 

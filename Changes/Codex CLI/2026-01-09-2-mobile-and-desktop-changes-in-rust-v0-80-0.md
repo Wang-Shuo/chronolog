@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: e779927710b40120694925f2d9bdb26236cff298ed7a422e602096187fc07e67
+machine_hash: 0de13d413a7425df2b15978089b23bac033338bc7bade89b03839a1a39dc5989
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -90,7 +90,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.80.0
 ## Nearby in Mobile and Desktop
 
 - Earlier: 2026-01-09 · Claude Code · [[Changes/Claude Code/2026-01-09-added-support-for-windows-package-manager-winget-installations-with-automatic-de|Added support for Windows Package Manager (winget) installations with automatic…]]
-- Later: 2026-01-14 · Codex CLI · [[Changes/Codex CLI/2026-01-14-2-mobile-and-desktop-changes-in-rust-v0-81-0|2 Mobile and Desktop changes in rust-v0.81.0]]
+- Later: 2026-01-09 · Open WebUI · [[Changes/Open WebUI/2026-01-09-users-on-windows-now-see-correctly-preserved-line-breaks-when-using-the-clipboar|📋 Users on Windows now see correctly preserved line breaks when using…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

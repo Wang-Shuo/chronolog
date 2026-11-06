@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: bb546893ad9c569b35b6647088ad2b6c6f1144501d357eb8e312fc1b11730989
+machine_hash: e81881911d790f56b33547c0ca7428388a568c0b280051daeb9a6c8d25f2b297
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -44,8 +44,7 @@ record:
   title: 2 Apps and Integrations changes in v0.38.0
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-04-13-3-apps-and-integrations-changes-in-v2-1-105|3
-  Apps and Integrations changes in v2.1.105]]'
+- '[[Changes/ElevenLabs/2026-04-13-sdk-releases|SDK Releases]]'
 - '[[Changes/GitHub Copilot CLI/2026-04-13-5-apps-and-integrations-changes-in-v1-0-25|5
   Apps and Integrations changes in v1.0.25]]'
 - '[[Changes/GitHub Copilot CLI/2026-04-13-you-can-now-remote-control-your-cli-sessions-using-remote-or-remote|Remote

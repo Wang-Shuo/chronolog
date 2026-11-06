@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 8f8ce35b28e4d6c130f012c6097defcf97db80e36865cf871b655ff6898674b7
+machine_hash: 92b35729ab743aaad9de58f61ddb82f449c22c96aaf04394896b53965ba7e69a
 product: openhands
 product_name: OpenHands
 record:
@@ -40,12 +40,12 @@ record:
   title: Windows doc extended with more WSL hints
   type: change
 related_changes:
-- '[[Changes/Aider/2024-03-08-2-developer-workflow-changes-in-v0-26-0|2 Developer
-  Workflow changes in v0.26.0]]'
-- '[[Changes/Aider/2024-05-10-2-developer-workflow-changes-in-v0-34-0|2 Developer
-  Workflow changes in v0.34.0]]'
 - '[[Changes/Aider/2024-05-22-4-developer-workflow-changes-in-v0-36-0|4 Developer
   Workflow changes in v0.36.0]]'
+- '[[Changes/Ollama/2024-05-22-granite-code-https-ollama-com-library-granite-code-a-family-of-open-foundation-m|Granite
+  code((source link) A family of open foundation…]]'
+- '[[Changes/Dify/2024-05-27-update-docker-compose-yaml-new-debug-variable-by-theysua-in-https-github-com-lan|Update
+  docker-compose.yaml- New DEBUG variable]]'
 source_release: '[[Releases/OpenHands/openhands-2024-06-04-0-6-1-github-158811079-9345253b|openhands-2024-06-04-0-6-1-github-158811079-9345253b]]'
 source_type: github_releases
 theme: developer-workflow
@@ -78,7 +78,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2024-05-22 · Aider · [[Changes/Aider/2024-05-22-4-developer-workflow-changes-in-v0-36-0|4 Developer Workflow changes in v0.36.0]]
+- Earlier: 2024-05-27 · Dify · [[Changes/Dify/2024-05-27-update-docker-compose-yaml-new-debug-variable-by-theysua-in-https-github-com-lan|Update docker-compose.yaml- New DEBUG variable]]
 - Later: 2024-06-08 · Cursor · [[Changes/Cursor/2024-06-08-remote-tunnels-are-now-supported-remote-ssh-support-is-also-more-robust-now-supp|Remote tunnels are now supported!]]
 <!-- chronolog:end -->
 

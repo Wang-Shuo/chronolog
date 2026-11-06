@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: b3dee51dc8cde8e288dcc415a59834a69f93317e9750faef537efb2da8a7a76a
+machine_hash: f1ab85fc65dd1278ee18ee85e721f9aff5e5f52d9d13ed8d8eccebb9a838ef12
 product: cursor
 product_name: Cursor
 record:
@@ -58,12 +58,12 @@ record:
   title: Indexing should now be faster, more stable, and use less of your system resources
   type: change
 related_changes:
-- '[[Changes/Cursor/2023-09-08-following-this-update-future-updates-should-come-as-staged-rollouts-this-will-me|Staged
-  Rollouts]]'
-- '[[Changes/Cursor/2023-09-20-we-ship-a-new-version-of-indexing-which-should-be-significantly-more-stable-than|More
-  Stable Codebase Indexing]]'
 - '[[Changes/Cursor/2023-09-22-stable-version-of-indexing-this-should-be-much-more-stable-than-previous-version|Stable
   Indexing v0.1]]'
+- '[[Changes/Ollama/2023-09-22-models-will-now-be-loaded-immediately-making-even-the-first-prompt-much-faster|Models
+  will now be loaded immediately making even the first prompt much faster]]'
+- '[[Changes/Ollama/2023-09-23-2-reliability-and-performance-changes-in-v0-1-0|2 Reliability
+  and Performance changes in v0.1.0]]'
 source_release: '[[Releases/Cursor/cursor-2023-10-01-0-12-0-https-cursor-com-changelog-0-12-0-2555ff30|cursor-2023-10-01-0-12-0-https-cursor-com-changelog-0-12-0-2555ff30]]'
 source_type: cursor_changelog
 theme: reliability-performance
@@ -95,8 +95,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2023-09-22 · Cursor · [[Changes/Cursor/2023-09-22-stable-version-of-indexing-this-should-be-much-more-stable-than-previous-version|Stable Indexing v0.1]]
-- Later: 2023-11-03 · Cursor · [[Changes/Cursor/2023-11-03-shipped-better-error-logging-which-should-help-us-improve-stability|Shipped better error logging, which should help us improve stability]]
+- Earlier: 2023-09-23 · Ollama · [[Changes/Ollama/2023-09-23-2-reliability-and-performance-changes-in-v0-1-0|2 Reliability and Performance changes in v0.1.0]]
+- Later: 2023-10-12 · Ollama · [[Changes/Ollama/2023-10-12-2-reliability-and-performance-changes-in-v0-1-2|2 Reliability and Performance changes in v0.1.2]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

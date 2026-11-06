@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: e4a76e017c02ab96249b290ac69b1d53d5c356bb3466e21faa16b2338eb37269
+machine_hash: a7a209ce0d861c46127646fedb209a0c0c14c60371175d723ab06b0bf61d2ae6
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -58,9 +58,10 @@ record:
   title: 9 Editor Experience changes in v1.0.64
   type: change
 related_changes:
-- '[[Changes/Windsurf/2026-06-16-removed-the-explain-sparkle-button-from-the-editor-breadcrumbs|Removed
-  the Explain sparkle button from the editor breadcrumbs]]'
-- '[[Changes/Windsurf/2026-06-16-agent-and-editor-modes|Agent and Editor modes]]'
+- '[[Changes/Lovable/2026-06-18-require-the-workspace-editor-role-to-edit-projects|Require
+  the workspace editor role to edit projects]]'
+- '[[Changes/v0/2026-06-19-inspect-on-vercel-and-analytics-stay-disabled-until-a-deployment-has-an-inspecto|Inspect
+  on Vercel and Analytics stay disabled until a deployment has an inspector…]]'
 - '[[Changes/Codex CLI/2026-06-22-29289-code-mode-preserve-initial-yield-at-completion-cconger|♯29289
   code-mode: preserve initial yield at completion @cconger]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-06-23-v1-0-64-github-343650012-6d4aa4bd|github-copilot-cli-2026-06-23-v1-0-64-github-343650012-6d4aa4bd]]'

@@ -4,20 +4,20 @@ date: '2024-03-20'
 description: 'Cursor · 2024-03-20 · Enterprise and Administration: Admin improvements:
   Team admins can now mark themselves as unpaid users and can see the last time team…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2024-03-20-admin-improvements-team-admins-can-now-mark-themselves-as-unpaid-users-and-can-s|Admin
-    improvements: Team admins can now mark themselves as unpaid users and can see…]]'
+  first_in_tracked: '[[Changes/Gemini/2023-05-05-access-for-google-workspace-accounts|Access
+    for Google Workspace accounts]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 0
+  lag_days: 320
   relation: same-theme-chronology
-  role: first-observed
+  role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: c1511f02a2091562119781010dfc5bf0a361f8a440b4d5a130242266c5a21fd7
+machine_hash: 2bbb15d27f332a2da42273688248924d4c7f95d78e10a9864c0c6dabcf25eed5
 product: cursor
 product_name: Cursor
 record:
@@ -43,6 +43,11 @@ record:
   title: 'Admin improvements: Team admins can now mark themselves as unpaid users
     and can see…'
   type: change
+related_changes:
+- '[[Changes/Gemini/2023-05-05-access-for-google-workspace-accounts|Access for Google
+  Workspace accounts]]'
+- '[[Changes/Gemini/2024-02-21-enterprise-grade-data-protections-for-workspace-customers-is-now-available-in-ge|Enterprise-grade
+  data protections for Workspace customers is now available in Gemini]]'
 source_release: '[[Releases/Cursor/cursor-2024-03-20-0-30-x-https-cursor-com-changelog-0-30-x-e7e3c53e|cursor-2024-03-20-0-30-x-https-cursor-com-changelog-0-30-x-e7e3c53e]]'
 source_type: cursor_changelog
 theme: enterprise-admin
@@ -75,13 +80,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Enterprise and Administration
 
-- Later: 2024-08-31 · Cline · [[Changes/Cline/2024-08-31-adds-support-for-reading-pdf-and-docx-files-try-turn-my-business-plan-docx-into|Adds support for reading .pdf and .docx files…]]
+- Earlier: 2024-02-21 · Gemini · [[Changes/Gemini/2024-02-21-enterprise-grade-data-protections-for-workspace-customers-is-now-available-in-ge|Enterprise-grade data protections for Workspace customers is now available in Gemini]]
+- Later: 2024-04-22 · Dify · [[Changes/Dify/2024-04-22-feat-enterprise-sso-by-garfielddai-in-https-github-com-langgenius-dify-pull-3602|Feat/enterprise sso]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry among the 10 tracked products.
+- Earliest same-theme entry in the tracked set: 2023-05-05 · Gemini · [[Changes/Gemini/2023-05-05-access-for-google-workspace-accounts|Access for Google Workspace accounts]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

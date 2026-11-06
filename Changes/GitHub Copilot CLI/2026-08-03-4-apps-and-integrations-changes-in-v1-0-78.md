@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: d45b38a50500197fe7b0a0bb15a4478de71caa061ac640eec04be478bad8e165
+machine_hash: b29b498c60b57e6abbe9634351f3e32efbf32bcfeea39a073dfa7bd3cb0ab459
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -51,12 +51,10 @@ record:
   title: 4 Apps and Integrations changes in v1.0.78
   type: change
 related_changes:
-- '[[Changes/OpenHands/2026-07-30-feat-enable-disable-an-installed-mcp-server-from-its-card-by-hieptl-in-https-git|feat:
-  enable/disable an installed MCP server from its card]]'
-- '[[Changes/Cline/2026-07-31-3-apps-and-integrations-changes-in-v4-1-0|3 Apps and
-  Integrations changes in v4.1.0]]'
 - '[[Changes/Cursor/2026-08-03-cursor-can-now-read-write-and-act-across-your-google-workspace|Google
   Workspace Plugins]]'
+- '[[Changes/ElevenLabs/2026-08-03-mcp-server|MCP Server]]'
+- '[[Changes/ElevenLabs/2026-08-03-sdk-releases|SDK Releases]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-08-03-v1-0-78-github-364543196-53a079bc|github-copilot-cli-2026-08-03-v1-0-78-github-364543196-53a079bc]]'
 source_type: github_releases
 theme: apps-integrations
@@ -101,7 +99,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.78
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-08-03 · Cursor · [[Changes/Cursor/2026-08-03-cursor-can-now-read-write-and-act-across-your-google-workspace|Google Workspace Plugins]]
+- Earlier: 2026-08-03 · ElevenLabs · [[Changes/ElevenLabs/2026-08-03-sdk-releases|SDK Releases]]
 - Later: 2026-08-03 · OpenHands · [[Changes/OpenHands/2026-08-03-chore-bump-openhands-extensions-to-0-13-0-by-hieptl-in-https-github-com-openhand|chore: bump @openhands/extensions to 0.13.0]]
 <!-- chronolog:end -->
 

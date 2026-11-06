@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: bedc06fb699c18eafb5091da7faefe9b43f91530d392db83ddbd4f5dc3c0b0e6
+machine_hash: dbf86d107a5c9f3a18fdf7fea070e741c36cfe4cc8c54432a996200e4b28ec6e
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -41,12 +41,12 @@ record:
   title: Improve CLI startup speed by loading custom CA certificates asynchronously
   type: change
 related_changes:
-- '[[Changes/Cline/2026-04-24-add-periodic-memory-usage-logging|add periodic memory
-  usage logging]]'
 - '[[Changes/Claude Code/2026-04-28-faster-startup-after-upgrading-removed-the-recent-activity-panel-from-the-releas|Faster
   startup after upgrading]]'
 - '[[Changes/Gemini CLI/2026-04-28-2-reliability-and-performance-changes-in-v0-40-0|2
   Reliability and Performance changes in v0.40.0]]'
+- '[[Changes/Dify/2026-04-29-3-reliability-and-performance-changes-in-1-14-0|3 Reliability
+  and Performance changes in 1.14.0]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-05-01-v1-0-40-github-316385532-9c4aec71|github-copilot-cli-2026-05-01-v1-0-40-github-316385532-9c4aec71]]'
 source_type: github_releases
 theme: reliability-performance
@@ -85,7 +85,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2026-04-28 · Gemini CLI · [[Changes/Gemini CLI/2026-04-28-2-reliability-and-performance-changes-in-v0-40-0|2 Reliability and Performance changes in v0.40.0]]
+- Earlier: 2026-04-29 · Dify · [[Changes/Dify/2026-04-29-3-reliability-and-performance-changes-in-1-14-0|3 Reliability and Performance changes in 1.14.0]]
 - Later: 2026-05-05 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-05-05-improve-stability-on-windows-by-working-around-a-v8-crash-in-node-24-x|Improve stability on Windows by working around a V8 crash in Node 24.x]]
 <!-- chronolog:end -->
 

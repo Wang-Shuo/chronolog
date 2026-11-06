@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 95e8080796a0f28f54a38270e9df8f415bb8830e6319fc501b86789ec99f683c
+machine_hash: bfe1b541832d70e7f994b455d2199b046b8993ef17c7fa53ffcc0a81df1992e6
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,12 +45,12 @@ record:
   title: 2 Reliability and Performance changes in v2.1.203
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-06-30-perform-tokenizer-warmup-in-parallel-on-a-background-thread-for-better-startup-p|Perform
-  tokenizer warmup in parallel on a background thread for better startup performance]]'
 - '[[Changes/Claude Code/2026-07-02-2-reliability-and-performance-changes-in-v2-1-199|2
   Reliability and Performance changes in v2.1.199]]'
 - '[[Changes/Claude Code/2026-07-03-improved-the-install-script-to-explain-when-installation-is-killed-by-the-system|Improved
   the install script to explain when installation is killed by the system…]]'
+- '[[Changes/Ollama/2026-07-06-igpu-can-now-offload-vision-models-with-padding-to-fit-available-memory|iGPU
+  can now offload vision models with padding to fit available memory]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-07-07-v2-1-203-github-350481879-29776bbc|claude-code-2026-07-07-v2-1-203-github-350481879-29776bbc]]'
 source_type: github_releases
 theme: reliability-performance
@@ -89,7 +89,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.203
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2026-07-03 · Claude Code · [[Changes/Claude Code/2026-07-03-improved-the-install-script-to-explain-when-installation-is-killed-by-the-system|Improved the install script to explain when installation is killed by the system…]]
+- Earlier: 2026-07-06 · Ollama · [[Changes/Ollama/2026-07-06-igpu-can-now-offload-vision-models-with-padding-to-fit-available-memory|iGPU can now offload vision models with padding to fit available memory]]
 - Later: 2026-07-07 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-07-07-5-reliability-and-performance-changes-in-v1-0-69|5 Reliability and Performance changes in v1.0.69]]
 <!-- chronolog:end -->
 

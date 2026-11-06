@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 03898d4b25ee23513c86715efde59ecf4b3859c0126ba66bfc5a812e27692896
+machine_hash: 45ffbf1436b81f306c1860ad7c8e88f2a09055a107e97b455ff29ed81f13607e
 product: cursor
 product_name: Cursor
 record:
@@ -99,7 +99,7 @@ type: change
 ## Nearby in Editor Experience
 
 - Earlier: 2025-09-26 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2025-09-26-2-editor-experience-changes-in-v0-0-328|2 Editor Experience changes in v0.0.328]]
-- Later: 2025-09-29 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2025-09-29-4-editor-experience-changes-in-v0-0-329|4 Editor Experience changes in v0.0.329]]
+- Later: 2025-09-29 · Dify · [[Changes/Dify/2025-09-29-2-editor-experience-changes-in-1-9-1|2 Editor Experience changes in 1.9.1]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

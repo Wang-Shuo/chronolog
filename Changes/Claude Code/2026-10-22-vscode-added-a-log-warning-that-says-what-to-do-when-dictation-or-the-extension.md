@@ -4,20 +4,20 @@ date: '2026-10-22'
 description: 'Claude Code · 2026-10-22 · Voice and Audio: [VSCode] Added a log warning
   that says what to do when dictation or the extension''s own requests fail certificate…'
 diffusion:
-  first_in_tracked: '[[Changes/Aider/2023-08-11-voice-to-code-https-aider-chat-docs-voice-html-support-which-allows-you-to-code|Voice-to-code((source
-    link) support, which allows you…]]'
+  first_in_tracked: '[[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2
+    Voice and Audio changes in 0.3.7]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1168
+  lag_days: 1200
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: c2e5624efad1d927897473a93cabf6de77eef2d558dbd728fb45ef56f0a9a0b4
+machine_hash: 8346adc69ab2eed48656a64c6958c564ab30601af5d9cb79ce935cf708c24daf
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,10 +45,9 @@ record:
     extension''s…'
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-10-15-4-voice-and-audio-changes-in-rust-v0-163-0|4 Voice
-  and Audio changes in rust-v0.163.0]]'
 - '[[Changes/GitHub Copilot CLI/2026-10-19-voice-dictation-no-longer-inserts-language-markers-like-en-us-into-transcript-te|Voice
   dictation no longer inserts language markers like en-US into transcript text]]'
+- '[[Changes/Lovable/2026-10-19-faster-dictation|Faster dictation]]'
 - '[[Changes/Claude Code/2026-10-21-2-voice-and-audio-changes-in-v2-1-307|2 Voice
   and Audio changes in v2.1.307]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-10-22-v2-1-309-github-421170674-b2394d99|claude-code-2026-10-22-v2-1-309-github-421170674-b2394d99]]'
@@ -94,7 +93,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-08-11 · Aider · [[Changes/Aider/2023-08-11-voice-to-code-https-aider-chat-docs-voice-html-support-which-allows-you-to-code|Voice-to-code((source link) support, which allows you…]]
+- Earliest same-theme entry in the tracked set: 2023-07-10 · Dify · [[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2 Voice and Audio changes in 0.3.7]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: 8fedc065d4565262e9b2189b37c9016d81dd14de0b46766c95a2ae310c3cbf63
+machine_hash: 3f4a7a839e0ecf95cfa7a37417d97911ed1f24f3910421a30fbaba21f5dcab12
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -55,10 +55,8 @@ record:
   title: Add notification hook event that fires asynchronously on shell completion…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-04-02-fixed-plan-mode-in-remote-sessions-losing-track-of-the-plan-file-after-a-contain|Fixed
-  plan mode in remote sessions losing track of the plan file after a container…]]'
-- '[[Changes/GitHub Copilot CLI/2026-04-02-add-permissionrequest-hook-to-allow-scripts-to-programmatically-approve-or-deny|Add
-  PermissionRequest hook to allow scripts to programmatically approve or deny tool…]]'
+- '[[Changes/Lovable/2026-04-02-security-updates|Security updates]]'
+- '[[Changes/Lovable/2026-04-02-app-emails|App emails]]'
 - '[[Changes/Claude Code/2026-04-04-linux-sandbox-now-ships-the-apply-seccomp-helper-in-both-npm-and-native-builds-r|Linux
   sandbox now ships the apply-seccomp helper in both npm and native builds…]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-04-04-v1-0-18-github-305219965-5e5d3492|github-copilot-cli-2026-04-04-v1-0-18-github-305219965-5e5d3492]]'

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 535882348e5bdd5c3c3baadc19b0c79294205bd22c73117a87e9ae346e8c6e40
+machine_hash: e728e2ccaac7f56bd42b6a742dbeaf29a2e0d29ffb7f02d1e014c07c30b384e0
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -43,10 +43,10 @@ record:
   title: Opus 4.5, GPT-4.1 and GPT-5-Mini are now available in GitHub Copilot CLI
   type: change
 related_changes:
-- '[[Changes/Windsurf/2025-11-21-gemini-3-pro|Gemini 3 Pro]]'
 - '[[Changes/Windsurf/2025-11-21-ai-models|AI Models]]'
 - '[[Changes/Windsurf/2025-11-21-gpt-5-1-codex-and-codex-mini|GPT-5.1 Codex and Codex
   Mini]]'
+- '[[Changes/Claude/2025-11-24-claude-opus-4-5-launch|Claude Opus 4.5 launch]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2025-11-24-v0-0-363-github-264932270-d93c3cfb|github-copilot-cli-2025-11-24-v0-0-363-github-264932270-d93c3cfb]]'
 source_type: github_releases
 theme: model-support
@@ -78,8 +78,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2025-11-21 · Windsurf · [[Changes/Windsurf/2025-11-21-gpt-5-1-codex-and-codex-mini|GPT-5.1 Codex and Codex Mini]]
-- Later: 2025-11-24 · Windsurf · [[Changes/Windsurf/2025-11-24-1-12-36-claude-opus-4-5-changelog-banner|1.12.36 Claude Opus 4.5 changelog banner]]
+- Earlier: 2025-11-24 · Claude · [[Changes/Claude/2025-11-24-claude-opus-4-5-launch|Claude Opus 4.5 launch]]
+- Later: 2025-11-24 · Open WebUI · [[Changes/Open WebUI/2025-11-24-model-cloning-is-now-available-in-admin-settings-allowing-administrators-to-quic|🤖 Model cloning is now available in admin settings, allowing administrators…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

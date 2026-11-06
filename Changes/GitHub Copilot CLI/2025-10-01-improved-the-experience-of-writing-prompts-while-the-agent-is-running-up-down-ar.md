@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: 915e969be38e5a04369e27c9bfae632a6536fad7c0bd14bbd37551d8295a6ea1
+machine_hash: 928dcd91ef61a6e93c04b1ddfc5b3299e4d8859caf24bf9f6937ffdf3155806c
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -47,12 +47,10 @@ record:
     up/down…
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-09-29-agent-can-take-screenshots-improve-ui-and-debug-client-issues-read-more-about-br|Browser
-  Controls]]'
-- '[[Changes/Cursor/2025-09-29-6-agent-mode-changes-in-1-7|6 Agent Mode changes in
-  1.7]]'
-- '[[Changes/Cursor/2025-09-29-image-file-support-for-agent|Image file support for
-  Agent]]'
+- '[[Changes/Dify/2025-09-29-2-agent-mode-changes-in-1-9-1|2 Agent Mode changes in
+  1.9.1]]'
+- '[[Changes/ElevenLabs/2025-09-29-agents-platform|Agents Platform]]'
+- '[[Changes/ElevenLabs/2025-09-29-agents-platform-7144f6|Agents Platform]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2025-10-01-v0-0-331-github-251406886-aee6dc09|github-copilot-cli-2025-10-01-v0-0-331-github-251406886-aee6dc09]]'
 source_type: github_releases
 theme: agent-mode
@@ -83,7 +81,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2025-09-29 · Cursor · [[Changes/Cursor/2025-09-29-image-file-support-for-agent|Image file support for Agent]]
+- Earlier: 2025-09-29 · ElevenLabs · [[Changes/ElevenLabs/2025-09-29-agents-platform-7144f6|Agents Platform]]
 - Later: 2025-10-03 · Codex CLI · [[Changes/Codex CLI/2025-10-03-5-agent-mode-changes-in-rust-v0-44-0|5 Agent Mode changes in rust-v0.44.0]]
 <!-- chronolog:end -->
 

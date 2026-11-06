@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: memory
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 265b778979dba3a1afe11248e0ad88ea51b7a9b69ad06dccf7ce3a4de8115296
+machine_hash: 5e25b6720426be9292de82c30ec843a41386c4151f6376c9a769488c1cf2576e
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -45,8 +45,8 @@ record:
   title: 3 Memory and Personalization changes in v0.0.385
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2026-01-07-feat-core-implement-jit-context-memory-loading-and-ui-sync-by-sandytao520-in-htt|feat(core):
-  Implement JIT context memory loading and UI sync]]'
+- '[[Changes/Open WebUI/2026-01-09-2-memory-and-personalization-changes-in-v0-7-0|2
+  Memory and Personalization changes in v0.7.0]]'
 - '[[Changes/ChatGPT/2026-01-15-when-reference-chat-history-is-enabled-chatgpt-can-now-more-reliably-find-specif|Improved
   memory for finding details from past chats (Plus & Pro)]]'
 - '[[Changes/GitHub Copilot CLI/2026-01-16-inject-repo-memories-in-the-prompt-and-add-memory-storage-tool-to-remember-facts|Inject

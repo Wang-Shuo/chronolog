@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 60201b4c465edabc558e231678557382e88e373d7da7e9675b9e3a922b3d96ce
+machine_hash: 356ebd5c31150fd69a1d54a7374aaa46a4a1e019f00156a601f239a316c08667
 product: aider
 product_name: Aider
 record:
@@ -43,10 +43,10 @@ record:
   title: Show models supported by api/key if requested model isn't available
   type: change
 related_changes:
-- '[[Changes/Aider/2023-08-08-defend-against-gpt-3-5-or-non-openai-models-suggesting-filenames-surrounded-by-a|Defend
-  against GPT-3.5 or non-OpenAI models suggesting filenames surrounded by asterisks]]'
-- '[[Changes/Aider/2023-08-11-2-model-support-changes-in-v0-12-0|2 Model Support changes
-  in v0.12.0]]'
+- '[[Changes/Gemini/2023-09-19-collaborate-with-bard-on-your-content-in-gmail-docs-drive|Collaborate
+  with Bard on your content in Gmail, Docs & Drive]]'
+- '[[Changes/Ollama/2023-09-22-2-model-support-changes-in-v0-0-20|2 Model Support
+  changes in v0.0.20]]'
 - '[[Changes/ChatGPT/2023-09-27-choose-browse-with-bing-in-the-selector-under-gpt-4|Choose
   Browse with Bing in the selector under GPT-4]]'
 source_release: '[[Releases/Aider/aider-2023-09-30-v0-14-1-github-123191470-c6bf1d6a|aider-2023-09-30-v0-14-1-github-123191470-c6bf1d6a]]'

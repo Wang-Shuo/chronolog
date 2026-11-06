@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 77068dae13a5a4dd8da624bb11dee914bd0e4b03aefd8ebe57cc8eeeb5f73c4c
+machine_hash: 6077a6dc02604ca9b10b26d83e97dc2477543fa6ae9f83cebe56a9f6adf836be
 product: aider
 product_name: Aider
 record:
@@ -42,10 +42,10 @@ record:
   title: Improved error messages on attempt to add not-git subdir to chat
   type: change
 related_changes:
-- '[[Changes/Aider/2024-08-23-3-developer-workflow-changes-in-v0-52-0|3 Developer
-  Workflow changes in v0.52.0]]'
 - '[[Changes/OpenHands/2024-08-23-allow-easier-copy-paste-into-the-terminal-by-tofarr-in-https-github-com-all-hand|Allow
   easier copy paste into the terminal]]'
+- '[[Changes/Dify/2024-08-26-stop-the-service-command-please-execute-in-the-docker-directory|Stop
+  the service，Command, please execute in the docker directory]]'
 - '[[Changes/Aider/2024-08-27-you-can-now-bulk-accept-reject-a-series-of-add-url-and-run-shell-confirmations|Bulk
   accept/reject a series of add url and run shell confirmations]]'
 source_release: '[[Releases/Aider/aider-2024-08-27-v0-53-0-github-172157209-6d1857f0|aider-2024-08-27-v0-53-0-github-172157209-6d1857f0]]'
@@ -80,7 +80,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2024-08-23 · OpenHands · [[Changes/OpenHands/2024-08-23-allow-easier-copy-paste-into-the-terminal-by-tofarr-in-https-github-com-all-hand|Allow easier copy paste into the terminal]]
+- Earlier: 2024-08-26 · Dify · [[Changes/Dify/2024-08-26-stop-the-service-command-please-execute-in-the-docker-directory|Stop the service，Command, please execute in the docker directory]]
 - Later: 2024-08-28 · Aider · [[Changes/Aider/2024-08-28-2-developer-workflow-changes-in-v0-54-0|2 Developer Workflow changes in v0.54.0]]
 <!-- chronolog:end -->
 

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: memory
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: f6980b64ba15f305f4a2be08359d9b0b31f8863dc42c1826ed65b4b6a7bfd96e
+machine_hash: 9c67c77dfcd0db274c2a0d6a862111f229cfd68d84230893f8497229846ee485
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -42,10 +42,9 @@ record:
   title: 'test(evals): mark all `save_memory` evals as `USUALLY_PASSES` due to unreliability'
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2026-02-18-2-memory-and-personalization-changes-in-v0-29-0|2
-  Memory and Personalization changes in v0.29.0]]'
-- '[[Changes/GitHub Copilot CLI/2026-02-19-2-memory-and-personalization-changes-in-v0-0-412|2
-  Memory and Personalization changes in v0.0.412]]'
+- '[[Changes/Replit/2026-02-20-background-memory-compression|Background memory compression]]'
+- '[[Changes/Open WebUI/2026-02-23-2-memory-and-personalization-changes-in-v0-8-4|2
+  Memory and Personalization changes in v0.8.4]]'
 - '[[Changes/Codex CLI/2026-02-25-9-memory-and-personalization-changes-in-rust-v0-105-0|9
   Memory and Personalization changes in rust-v0.105.0]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2026-02-25-v0-30-0-github-290144121-620926b3|gemini-cli-2026-02-25-v0-30-0-github-290144121-620926b3]]'

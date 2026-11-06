@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 78fc91dc55f2396b5edd2d2d9e84110e1cd2da541ac22b3fe2eadddc2c60737d
+machine_hash: a3b6bb70e42fd962c0a9d9f77bd68f8812def9315de232cb615280aadb6179e7
 product: windsurf
 product_name: Windsurf
 record:
@@ -39,12 +39,11 @@ record:
   title: Tab fixes and improvements
   type: change
 related_changes:
-- '[[Changes/Cline/2025-12-22-duplicate-error-messages-during-streaming-for-diff-edit-tool-when-parallel-tool|Duplicate
-  error messages during streaming for Diff Edit tool when Parallel Tool…]]'
-- '[[Changes/Gemini CLI/2025-12-22-4-editor-experience-changes-in-v0-22-0|4 Editor
-  Experience changes in v0.22.0]]'
+- '[[Changes/Lovable/2025-12-23-mention-code-files-in-chat|Mention code files in chat]]'
 - '[[Changes/Windsurf/2025-12-24-2-editor-experience-changes-in-v1-13-3|2 Editor Experience
   changes in v1.13.3]]'
+- '[[Changes/Dify/2025-12-25-2-editor-experience-changes-in-1-11-2|2 Editor Experience
+  changes in 1.11.2]]'
 source_release: '[[Releases/Windsurf/windsurf-2025-12-27-v1-13-5-7fb4dd9f|windsurf-2025-12-27-v1-13-5-7fb4dd9f]]'
 source_type: windsurf_changelog
 theme: editor-experience
@@ -74,7 +73,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2025-12-24 · Windsurf · [[Changes/Windsurf/2025-12-24-2-editor-experience-changes-in-v1-13-3|2 Editor Experience changes in v1.13.3]]
+- Earlier: 2025-12-25 · Dify · [[Changes/Dify/2025-12-25-2-editor-experience-changes-in-1-11-2|2 Editor Experience changes in 1.11.2]]
 - Later: 2025-12-30 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2025-12-30-tab-completion-for-path-arguments-in-slash-commands-like-cwd-and-add-dir|Tab completion for path arguments in slash commands like /cwd and /add-dir]]
 <!-- chronolog:end -->
 

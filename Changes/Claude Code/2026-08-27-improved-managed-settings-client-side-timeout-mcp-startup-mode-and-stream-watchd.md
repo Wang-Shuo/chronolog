@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: d374a2c45f67568768205e37eb2d34d00dd714febb5370379c6945cecbdd62b7
+machine_hash: 0d971ab59c5c731b7cb45c8bb9ccda261c66d437d92381a94db700f991af01d8
 product: claude-code
 product_name: Claude Code
 record:
@@ -43,12 +43,11 @@ record:
   title: Improved managed settings
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-08-26-2-apps-and-integrations-changes-in-v2-1-247|2
-  Apps and Integrations changes in v2.1.247]]'
-- '[[Changes/Cline/2026-08-26-4-apps-and-integrations-changes-in-v4-1-16|4 Apps and
-  Integrations changes in v4.1.16]]'
 - '[[Changes/Codex CLI/2026-08-26-24-apps-and-integrations-changes-in-rust-v0-150-0|24
   Apps and Integrations changes in rust-v0.150.0]]'
+- '[[Changes/Lovable/2026-08-26-connect-github-api-by-signing-in-with-your-github-account|Connect
+  GitHub API by signing in with your GitHub account]]'
+- '[[Changes/Lovable/2026-08-26-chat-with-lovable-in-slack|Chat with Lovable in Slack]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-08-27-v2-1-248-github-378106990-677106e3|claude-code-2026-08-27-v2-1-248-github-378106990-677106e3]]'
 source_type: github_releases
 theme: apps-integrations
@@ -84,7 +83,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-08-26 · Codex CLI · [[Changes/Codex CLI/2026-08-26-24-apps-and-integrations-changes-in-rust-v0-150-0|24 Apps and Integrations changes in rust-v0.150.0]]
+- Earlier: 2026-08-26 · Lovable · [[Changes/Lovable/2026-08-26-chat-with-lovable-in-slack|Chat with Lovable in Slack]]
 - Later: 2026-08-27 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-08-27-12-apps-and-integrations-changes-in-v1-0-81|12 Apps and Integrations changes in v1.0.81]]
 <!-- chronolog:end -->
 

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: memory
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 77a132ec66ad96938dba974e79e9967d32dd706f103f1d98ca6e1620c722e81f
+machine_hash: 23ac9110ea0befeb599ff018898505bf6ab2d55eeda4d0105ae5f5cb0786a82e
 product: claude-code
 product_name: Claude Code
 record:
@@ -96,7 +96,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.268
 ## Nearby in Memory and Personalization
 
 - Earlier: 2026-09-09 · Codex CLI · [[Changes/Codex CLI/2026-09-09-2-memory-and-personalization-changes-in-rust-v0-154-0|2 Memory and Personalization changes in rust-v0.154.0]]
-- Later: 2026-09-16 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-09-16-3-memory-and-personalization-changes-in-v1-0-85|3 Memory and Personalization changes in v1.0.85]]
+- Later: 2026-09-10 · Dify · [[Changes/Dify/2026-09-10-2-memory-and-personalization-changes-in-1-17-1|2 Memory and Personalization changes in 1.17.1]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

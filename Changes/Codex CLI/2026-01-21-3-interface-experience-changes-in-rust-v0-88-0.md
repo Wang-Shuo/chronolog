@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 3ab950623a6143101f2e1eeaf04b63aead7d29f7f87970ece7a777c7174cd64c
+machine_hash: 75ea2d2b9486fe474a04e20760c36d36a82cdff8b3005fb227a5274597d62067
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -45,10 +45,10 @@ record:
   title: 3 Interface Experience changes in rust-v0.88.0
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-01-16-2-interface-experience-changes-in-cli-agent-modes-and-cloud-handoff|2
-  Interface Experience changes in CLI Agent Modes and Cloud Handoff]]'
 - '[[Changes/OpenHands/2026-01-16-adding-a-status-indicator-above-the-chat-until-the-conversation-is-ready-by-heyi|Adding
   a status indicator above the chat until the conversation is ready]]'
+- '[[Changes/v0/2026-01-16-added-searchable-version-selector-for-easier-navigation|Added
+  searchable version selector for easier navigation]]'
 - '[[Changes/Claude Code/2026-01-20-improved-backspace-to-delete-pasted-text-as-a-single-token-instead-of-one-charac|Improved
   backspace to delete pasted text as a single token instead of one character…]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-01-21-rust-v0-88-0-github-278754265-4d0aa1b4|codex-cli-2026-01-21-rust-v0-88-0-github-278754265-4d0aa1b4]]'

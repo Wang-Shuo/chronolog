@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: 0ac8b6101aa0b9923d2b8e5f9eefe56ce5eeb0056267712570f4a6c6198d2ce7
+machine_hash: 13c5bde1bfc594544a1583ad9fdab840a30c73628129621afdb6620a0982715a
 product: claude-code
 product_name: Claude Code
 record:
@@ -56,8 +56,8 @@ record:
     task state
   type: change
 related_changes:
-- '[[Changes/Cline/2026-02-24-preconnect-websocket-to-reduce-response-latency|Preconnect
-  websocket to reduce response latency]]'
+- '[[Changes/Ollama/2026-02-24-mlx-engine-now-has-improved-memory-usage|MLX engine
+  now has improved memory usage]]'
 - '[[Changes/Codex CLI/2026-02-25-3-reliability-and-performance-changes-in-rust-v0-105-0|3
   Reliability and Performance changes in rust-v0.105.0]]'
 - '[[Changes/Gemini CLI/2026-02-25-2-reliability-and-performance-changes-in-v0-30-0|2

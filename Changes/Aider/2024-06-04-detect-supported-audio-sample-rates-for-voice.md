@@ -4,20 +4,20 @@ date: '2024-06-04'
 description: 'Aider · 2024-06-04 · Voice and Audio: Detect supported audio sample
   rates for `/voice`.'
 diffusion:
-  first_in_tracked: '[[Changes/Aider/2023-08-11-voice-to-code-https-aider-chat-docs-voice-html-support-which-allows-you-to-code|Voice-to-code((source
-    link) support, which allows you…]]'
+  first_in_tracked: '[[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2
+    Voice and Audio changes in 0.3.7]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 298
+  lag_days: 330
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: b76a86653b5efaf910598d774574966a2a3accb04c617e3f6bae1c6e031c2a72
+machine_hash: 97cb8ada2772bcb2d5577d5e9fa4dcd6897513ed03add7a1c7e5e6d837873c40
 product: aider
 product_name: Aider
 record:
@@ -40,12 +40,12 @@ record:
   title: Detect supported audio sample rates for `/voice`
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2023-09-25-you-can-now-use-voice-to-engage-in-a-back-and-forth-conversation-with-your-assis-13666e|Voice
-  (Beta) is now rolling out to Plus users on iOS and Android]]'
-- '[[Changes/ChatGPT/2023-09-25-we-are-beginning-to-roll-out-new-voice-and-image-capabilities-in-chatgpt-they-of|We
-  are beginning to roll out new voice and image capabilities in ChatGPT]]'
-- '[[Changes/ChatGPT/2023-11-21-chatgpt-with-voice-is-now-available-to-all-free-users-download-the-app-on-your-p|ChatGPT
-  with voice is available to all users]]'
+- '[[Changes/Dify/2024-04-25-2-voice-and-audio-changes-in-0-6-5|2 Voice and Audio
+  changes in 0.6.5]]'
+- '[[Changes/Dify/2024-05-09-2-voice-and-audio-changes-in-0-6-7|2 Voice and Audio
+  changes in 0.6.7]]'
+- "[[Changes/Open WebUI/2024-06-03-local-tts-voice-selection-fixed-the-issue-where-the-selected-local-text-to-speec|\U0001F50A
+  Local TTS Voice Selection]]"
 source_release: '[[Releases/Aider/aider-2024-06-04-v0-37-0-github-158850149-b4830675|aider-2024-06-04-v0-37-0-github-158850149-b4830675]]'
 source_type: github_releases
 theme: voice
@@ -78,14 +78,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Voice and Audio
 
-- Earlier: 2023-11-21 · ChatGPT · [[Changes/ChatGPT/2023-11-21-chatgpt-with-voice-is-now-available-to-all-free-users-download-the-app-on-your-p|ChatGPT with voice is available to all users]]
-- Later: 2024-09-04 · Aider · [[Changes/Aider/2024-09-04-catch-voice-transcription-exceptions-show-the-wav-file-so-the-user-can-recover-i|Catch /voice transcription exceptions, show the WAV file so the user can recover it]]
+- Earlier: 2024-06-03 · Open WebUI · [[Changes/Open WebUI/2024-06-03-local-tts-voice-selection-fixed-the-issue-where-the-selected-local-text-to-speec|🔊 Local TTS Voice Selection]]
+- Later: 2024-06-10 · Open WebUI · [[Changes/Open WebUI/2024-06-10-3-voice-and-audio-changes-in-v0-3-0|3 Voice and Audio changes in v0.3.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-08-11 · Aider · [[Changes/Aider/2023-08-11-voice-to-code-https-aider-chat-docs-voice-html-support-which-allows-you-to-code|Voice-to-code((source link) support, which allows you…]]
+- Earliest same-theme entry in the tracked set: 2023-07-10 · Dify · [[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2 Voice and Audio changes in 0.3.7]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

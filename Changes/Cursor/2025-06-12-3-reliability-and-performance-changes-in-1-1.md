@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 560e0db0a26453ff60ad445c7d5456e1e7ea619ab8841ef1e72df039226750f8
+machine_hash: bcfd58cc65bc59b226b87b66bc96349428cc5edf8c2c7ff1eb5b8e3ae8fa5a4f
 product: cursor
 product_name: Cursor
 record:
@@ -45,12 +45,12 @@ record:
   title: 3 Reliability and Performance changes in 1.1
   type: change
 related_changes:
-- '[[Changes/Cline/2025-05-28-add-cerebras-as-a-new-api-provider-with-5-high-performance-models-including-reas|Add
-  Cerebras as a new API provider with 5 high-performance models including…]]'
-- '[[Changes/Aider/2025-05-30-improved-openrouter-model-metadata-handling-by-introducing-a-local-cache-increas|Improved
-  OpenRouter model metadata handling by introducing a local cache, increasing…]]'
-- '[[Changes/Cursor/2025-06-04-faster-responses-with-parallel-tool-calls|Faster responses
-  with parallel tool calls]]'
+- '[[Changes/Ollama/2025-06-09-the-macos-app-is-now-a-native-application-and-starts-much-faster-while-requiring|The
+  macOS app is now a native application and starts much faster while requiring…]]'
+- "[[Changes/Open WebUI/2025-06-10-pinecone-vector-search-optimizations-applied-latest-best-practices-from-pinecone|\U0001F680
+  Pinecone & Vector Search Optimizations]]"
+- '[[Changes/Dify/2025-06-11-5-reliability-and-performance-changes-in-1-4-2|5 Reliability
+  and Performance changes in 1.4.2]]'
 source_release: '[[Releases/Cursor/cursor-2025-06-12-1-1-https-cursor-com-changelog-1-1-0f0190fc|cursor-2025-06-12-1-1-https-cursor-com-changelog-1-1-0f0190fc]]'
 source_type: cursor_changelog
 theme: reliability-performance
@@ -90,7 +90,7 @@ Source: https://cursor.com/changelog/1-1
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2025-06-04 · Cursor · [[Changes/Cursor/2025-06-04-faster-responses-with-parallel-tool-calls|Faster responses with parallel tool calls]]
+- Earlier: 2025-06-11 · Dify · [[Changes/Dify/2025-06-11-5-reliability-and-performance-changes-in-1-4-2|5 Reliability and Performance changes in 1.4.2]]
 - Later: 2025-06-13 · ChatGPT · [[Changes/ChatGPT/2025-06-13-improved-search-capability-and-instruction-following-594de0|Improved search capability and instruction following]]
 <!-- chronolog:end -->
 

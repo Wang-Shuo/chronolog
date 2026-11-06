@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 4b91d85ca4c9a94d5b7848c67d7d7f09acabd34840261b11d8272f802c045629
+machine_hash: 6b59781c51389dd44fe8c2ccb5c8a9f66f2e9d11d14f12aeab41bdf560f46c70
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -43,8 +43,8 @@ record:
   title: 2 Developer Workflow changes in rust-v0.66.0
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2025-12-02-4-developer-workflow-changes-in-v0-19-0|4 Developer
-  Workflow changes in v0.19.0]]'
+- '[[Changes/Open WebUI/2025-12-02-13-developer-workflow-changes-in-v0-6-41|13 Developer
+  Workflow changes in v0.6.41]]'
 - '[[Changes/Cline/2025-12-04-docs-remove-advanced-patterns-and-testing-debugging-from-hooks-docs-by-jl-codes|docs:
   remove Advanced Patterns and Testing & Debugging from Hooks docs]]'
 - '[[Changes/Codex CLI/2025-12-04-chore-make-create-approval-requirement-for-command-an-async-fn-7501-michael-boli|chore:

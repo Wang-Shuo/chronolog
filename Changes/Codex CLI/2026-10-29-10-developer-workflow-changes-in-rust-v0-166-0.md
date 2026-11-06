@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 0f3c31886630a5e7bf02f2a200ae718b01b5df79b8e4f01c8ce890e04503b9f0
+machine_hash: 8c6a67b86af0f790b1aab4bd6564e3fe80b111402e04c01785eba86ac125baf0
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -132,7 +132,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.166.0
 ## Nearby in Developer Workflow
 
 - Earlier: 2026-10-27 · OpenHands · [[Changes/OpenHands/2026-10-27-chore-bump-shell-quote-and-dompurify-dependencies-by-devinvinson-in-https-github|chore: bump shell-quote and DOMPurify dependencies]]
-- Later: 2026-10-30 · Claude Code · [[Changes/Claude Code/2026-10-30-4-developer-workflow-changes-in-v2-1-314|4 Developer Workflow changes in v2.1.314]]
+- Later: 2026-10-29 · Open WebUI · [[Changes/Open WebUI/2026-10-29-35-developer-workflow-changes-in-v0-12-5|35 Developer Workflow changes in v0.12.5]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

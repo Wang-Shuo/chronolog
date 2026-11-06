@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 0da53c3bcb7ecf883fb45c843c50a3252b8ee17b62882de6485f3130d360f222
+machine_hash: 00bf5df193cb43d40a0fb0dbdd69805dd123a92d2dc0a61b3529c1127ee6905e
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -57,10 +57,8 @@ record:
   title: 8 Apps and Integrations changes in v0.20.0
   type: change
 related_changes:
-- '[[Changes/Cline/2025-12-04-added-subpages-and-content-to-hooks-by-jl-codes-in-https-github-com-cline-cline|added
-  subpages and content to hooks]]'
-- '[[Changes/Codex CLI/2025-12-04-2-apps-and-integrations-changes-in-rust-v0-65-0|2
-  Apps and Integrations changes in rust-v0.65.0]]'
+- '[[Changes/ElevenLabs/2025-12-08-javascript-sdk|JavaScript SDK]]'
+- '[[Changes/ElevenLabs/2025-12-08-python-sdk|Python SDK]]'
 - '[[Changes/Codex CLI/2025-12-09-3-apps-and-integrations-changes-in-rust-v0-66-0|3
   Apps and Integrations changes in rust-v0.66.0]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2025-12-09-v0-20-0-github-268880631-841db492|gemini-cli-2025-12-09-v0-20-0-github-268880631-841db492]]'
@@ -113,7 +111,7 @@ Source: https://github.com/google-gemini/gemini-cli/releases/tag/v0.20.0
 ## Nearby in Apps and Integrations
 
 - Earlier: 2025-12-09 · Codex CLI · [[Changes/Codex CLI/2025-12-09-3-apps-and-integrations-changes-in-rust-v0-66-0|3 Apps and Integrations changes in rust-v0.66.0]]
-- Later: 2025-12-10 · Codex CLI · [[Changes/Codex CLI/2025-12-10-7817-fix-upgrade-modelcontextprotocol-sdk-to-1-24-0|♯7817 fix: Upgrade @modelcontextprotocol/sdk to ^1.24.0]]
+- Later: 2025-12-09 · v0 · [[Changes/v0/2025-12-09-2-apps-and-integrations-changes-in-bug-fixes-and-improvements-for-dec-9th|2 Apps and Integrations changes in Bug fixes and improvements for Dec 9th]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

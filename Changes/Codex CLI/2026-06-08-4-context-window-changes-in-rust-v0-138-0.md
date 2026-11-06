@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 5577a81b1d67c8bd279f7517d8662b7ff530c2ed5472f3aa72874455387fc099
+machine_hash: 15fdd396379bcf7732184db2cfb5bd293ba6944c97c63ab59634d206d73aadf9
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -98,7 +98,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.138.0
 ## Nearby in Context Window
 
 - Earlier: 2026-06-08 · Claude Code · [[Changes/Claude Code/2026-06-08-added-cd-command-to-move-a-session-to-a-new-working-directory-without-breaking-t|Added /cd command to move a session to a new working directory without breaking…]]
-- Later: 2026-06-09 · Codex CLI · [[Changes/Codex CLI/2026-06-09-3-context-window-changes-in-rust-v0-139-0|3 Context Window changes in rust-v0.139.0]]
+- Later: 2026-06-08 · v0 · [[Changes/v0/2026-06-08-press-cmd-k-to-open-a-new-context-aware-command-palette-and-jump-to-chats-projec|Press Cmd+K to open a new context-aware command palette and jump to chats, projects…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

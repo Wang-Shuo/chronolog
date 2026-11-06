@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 40b245617d793464a2c3af0b513eeaa6f4cddbb51df6d5faed9507575137e008
+machine_hash: 934db945aa3b9ce9d237ddb38f25b1d85b45a5297cdd24c217a837bdee2259e8
 product: claude-code
 product_name: Claude Code
 record:
@@ -51,12 +51,12 @@ record:
   title: 3 Interface Experience changes in v2.1.271
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-09-09-4-interface-experience-changes-in-rust-v0-154-0|4
-  Interface Experience changes in rust-v0.154.0]]'
-- '[[Changes/Claude Code/2026-09-10-2-interface-experience-changes-in-v2-1-268|2 Interface
-  Experience changes in v2.1.268]]'
+- '[[Changes/Dify/2026-09-10-8-interface-experience-changes-in-1-17-1|8 Interface
+  Experience changes in 1.17.1]]'
 - '[[Changes/Claude Code/2026-09-11-3-interface-experience-changes-in-v2-1-269|3 Interface
   Experience changes in v2.1.269]]'
+- '[[Changes/Lovable/2026-09-11-preview-a-remixable-project-without-signing-in|Preview
+  a remixable project without signing in]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-14-v2-1-271-github-388664071-570fd44f|claude-code-2026-09-14-v2-1-271-github-388664071-570fd44f]]'
 source_type: github_releases
 theme: interface-experience
@@ -102,7 +102,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.271
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-09-11 · Claude Code · [[Changes/Claude Code/2026-09-11-3-interface-experience-changes-in-v2-1-269|3 Interface Experience changes in v2.1.269]]
+- Earlier: 2026-09-11 · Lovable · [[Changes/Lovable/2026-09-11-preview-a-remixable-project-without-signing-in|Preview a remixable project without signing in]]
 - Later: 2026-09-15 · Claude Code · [[Changes/Claude Code/2026-09-15-claude-code-on-the-web-improved-the-routine-detail-page-menu-and-rename-in-the-b|Claude Code on the web Improved the routine detail page]]
 <!-- chronolog:end -->
 

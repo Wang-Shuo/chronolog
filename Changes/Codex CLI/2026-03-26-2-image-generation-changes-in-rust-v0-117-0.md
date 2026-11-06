@@ -4,20 +4,20 @@ date: '2026-03-26'
 description: 'Codex CLI · 2026-03-26 · Image Generation: 2 changes in 0.117.0 — Image
   workflows got smoother: `view_image` now returns image URLs for code mode, generated…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2024-08-08-we-re-rolling-out-the-ability-for-chatgpt-free-users-to-create-up-to-two-images-2c505c|DALL·E
-    3 for ChatGPT Free users]]'
+  first_in_tracked: "[[Changes/Open WebUI/2024-03-10-dall-e-integration-introduced-dall-e-integration-for-image-generation-alongside|\U0001F3A8
+    DALL-E Integration]]"
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 595
+  lag_days: 746
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: image-generation
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 551c19c679634842f8d18784bc3e37cf7be0ca11f6318114468f1fc06dc1b848
+machine_hash: d9edc3d90e98d6e7210a2329568fb36c3ac31ef9812cc222edee21291c852e5b
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -44,11 +44,11 @@ record:
   title: 2 Image Generation changes in rust-v0.117.0
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-01-22-image-generation|Image generation]]'
-- '[[Changes/Codex CLI/2026-03-05-expanded-image-workflow-support-for-clients-including-client-side-handling-of-im|Expanded
-  image workflow support for clients, including client-side handling…]]'
-- '[[Changes/Codex CLI/2026-03-10-image-generation-now-saves-output-files-into-the-current-working-directory-13607|Image
-  generation now saves output files into the current working directory]]'
+- '[[Changes/Lovable/2026-03-16-image-generation-updates|Image generation updates]]'
+- '[[Changes/v0/2026-03-16-added-image-generation-capability-to-the-plan-agent|Added
+  image generation capability to the Plan agent]]'
+- "[[Changes/Open WebUI/2026-03-25-rag-query-generation-robustness-the-rag-query-generation-web-search-and-image-ge|\U0001F50D
+  RAG query generation robustness. The RAG query generation, web search…]]"
 source_release: '[[Releases/Codex CLI/codex-cli-2026-03-26-rust-v0-117-0-github-302123790-7cb322b6|codex-cli-2026-03-26-rust-v0-117-0-github-302123790-7cb322b6]]'
 source_type: github_releases
 theme: image-generation
@@ -98,14 +98,14 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.117.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Image Generation
 
-- Earlier: 2026-03-10 · Codex CLI · [[Changes/Codex CLI/2026-03-10-image-generation-now-saves-output-files-into-the-current-working-directory-13607|Image generation now saves output files into the current working directory]]
-- Later: 2026-04-20 · Codex CLI · [[Changes/Codex CLI/2026-04-20-tool-discovery-and-image-generation-are-now-enabled-by-default-with-higher-detai|Tool discovery and image generation are now enabled by default, with higher-detail…]]
+- Earlier: 2026-03-25 · Open WebUI · [[Changes/Open WebUI/2026-03-25-rag-query-generation-robustness-the-rag-query-generation-web-search-and-image-ge|🔍 RAG query generation robustness. The RAG query generation, web search…]]
+- Later: 2026-04-03 · Replit · [[Changes/Replit/2026-04-03-stock-and-ai-generated-images-in-library|Stock and AI-generated images in Library]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2024-08-08 · ChatGPT · [[Changes/ChatGPT/2024-08-08-we-re-rolling-out-the-ability-for-chatgpt-free-users-to-create-up-to-two-images-2c505c|DALL·E 3 for ChatGPT Free users]]
+- Earliest same-theme entry in the tracked set: 2024-03-10 · Open WebUI · [[Changes/Open WebUI/2024-03-10-dall-e-integration-introduced-dall-e-integration-for-image-generation-alongside|🎨 DALL-E Integration]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

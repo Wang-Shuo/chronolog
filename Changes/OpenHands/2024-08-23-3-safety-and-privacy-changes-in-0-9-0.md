@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 1e8256b314476cbefc7cef083ed91987ef51fce2f740b269c50b32e89ecf7c92
+machine_hash: 65c0a7ee27ece7e6715ccd8590067f8b280ef6d7170ad68be8b76faa42d9dfba
 product: openhands
 product_name: OpenHands
 record:
@@ -45,12 +45,12 @@ record:
   title: 3 Safety and Privacy changes in 0.9.0
   type: change
 related_changes:
-- '[[Changes/OpenHands/2024-07-27-fix-update-swebenchsshbox-after-global-config-was-removed-from-sandbox-by-rajwor|FIX
-  Update SWEBenchSSHBox after global config was removed…]]'
-- '[[Changes/Aider/2024-07-31-resolved-permission-issues-when-using-docker-run-user-xxx|Resolved
-  permission issues when using docker run --user xxx]]'
-- '[[Changes/OpenHands/2024-08-01-2-safety-and-privacy-changes-in-0-8-3|2 Safety and
-  Privacy changes in 0.8.3]]'
+- '[[Changes/Open WebUI/2024-08-07-2-safety-and-privacy-changes-in-v0-3-12|2 Safety
+  and Privacy changes in v0.3.12]]'
+- '[[Changes/Dify/2024-08-19-2-safety-and-privacy-changes-in-0-7-1|2 Safety and Privacy
+  changes in 0.7.1]]'
+- "[[Changes/Open WebUI/2024-08-21-security-enhancements-various-security-improvements-implemented-across-the-platf|\U0001F6E1️
+  Security Enhancements]]"
 source_release: '[[Releases/OpenHands/openhands-2024-08-23-0-9-0-github-171741467-33b5726c|openhands-2024-08-23-0-9-0-github-171741467-33b5726c]]'
 source_type: github_releases
 theme: safety-privacy
@@ -89,8 +89,8 @@ Source: https://github.com/OpenHands/OpenHands/releases/tag/0.9.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Safety and Privacy
 
-- Earlier: 2024-08-01 · OpenHands · [[Changes/OpenHands/2024-08-01-2-safety-and-privacy-changes-in-0-8-3|2 Safety and Privacy changes in 0.8.3]]
-- Later: 2024-09-17 · Cursor · [[Changes/Cursor/2024-09-17-this-update-fixes-the-following-security-issue-cve-2024-45599|This update fixes the following security issue: CVE-2024-45599]]
+- Earlier: 2024-08-21 · Open WebUI · [[Changes/Open WebUI/2024-08-21-security-enhancements-various-security-improvements-implemented-across-the-platf|🛡️ Security Enhancements]]
+- Later: 2024-08-26 · Dify · [[Changes/Dify/2024-08-26-feat-7134-use-dataset-api-create-a-dataset-with-permission-by-crazywoola-in-http|Feat/7134 use dataset api create a dataset with permission]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

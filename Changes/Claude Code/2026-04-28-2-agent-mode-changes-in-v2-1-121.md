@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 303005ac28e21db823bea14898a02290848d89b9bdbe0c55c37bf3481b5c08de
+machine_hash: b2141a7b7646af72688652e95c86ff128789993ea2fe8c5f86a3387862dc43cd
 product: claude-code
 product_name: Claude Code
 record:
@@ -44,12 +44,9 @@ record:
   title: 2 Agent Mode changes in v2.1.121
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-04-24-this-release-introduces-a-new-way-to-multitask-with-async-subagents-an-improved|Cursor
-  introduces a new way to multitask with async subagents, an improved worktrees…]]'
-- '[[Changes/Cursor/2026-04-24-multitask-in-agents-window-9bc7ed|Multitask in Agents
-  Window]]'
-- '[[Changes/GitHub Copilot CLI/2026-04-24-custom-agents-skills-and-commands-from-claude-are-no-longer-loaded-by-the-copilo|Custom
-  agents, skills, and commands from ~/.claude/ are no longer loaded…]]'
+- '[[Changes/ElevenLabs/2026-04-27-swift-sdk|Swift SDK]]'
+- '[[Changes/ElevenLabs/2026-04-27-packages|Packages]]'
+- '[[Changes/ElevenLabs/2026-04-27-elevenagents-e7cc6e|ElevenAgents]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-04-28-v2-1-121-github-314262096-ff31d5ce|claude-code-2026-04-28-v2-1-121-github-314262096-ff31d5ce]]'
 source_type: github_releases
 theme: agent-mode
@@ -89,7 +86,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.121
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2026-04-24 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-04-24-custom-agents-skills-and-commands-from-claude-are-no-longer-loaded-by-the-copilo|Custom agents, skills, and commands from ~/.claude/ are no longer loaded…]]
+- Earlier: 2026-04-27 · ElevenLabs · [[Changes/ElevenLabs/2026-04-27-elevenagents-e7cc6e|ElevenAgents]]
 - Later: 2026-04-28 · Gemini CLI · [[Changes/Gemini CLI/2026-04-28-3-agent-mode-changes-in-v0-40-0|3 Agent Mode changes in v0.40.0]]
 <!-- chronolog:end -->
 

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: policy
-machine_hash: adfe070e4a51c40b171afdcf79e03b79eafd820d9463f5bd1bd130f734218c83
+machine_hash: 043b0c8cdd2980ce8df4c8d6dd672dfed1e9b90e58b94c60965403a487b21985
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -44,12 +44,12 @@ record:
   title: Add `/streamer-mode` to hide preview model names and quota details for streaming
   type: change
 related_changes:
-- '[[Changes/Cline/2026-02-12-2-model-support-changes-in-v3-58-0|2 Model Support changes
-  in v3.58.0]]'
 - '[[Changes/Codex CLI/2026-02-12-3-model-support-changes-in-rust-v0-101-0|3 Model
   Support changes in rust-v0.101.0]]'
 - '[[Changes/Codex CLI/2026-02-12-4-model-support-changes-in-rust-v0-100-0|4 Model
   Support changes in rust-v0.100.0]]'
+- '[[Changes/Gemini/2026-02-12-solve-modern-science-research-and-engineering-challenges-with-gemini-3-deep-thin|Solve
+  modern science, research and engineering challenges with Gemini 3 Deep Think]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-02-12-v0-0-408-github-285665658-f7720c52|github-copilot-cli-2026-02-12-v0-0-408-github-285665658-f7720c52]]'
 source_type: github_releases
 theme: model-support
@@ -82,8 +82,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-02-12 · Codex CLI · [[Changes/Codex CLI/2026-02-12-4-model-support-changes-in-rust-v0-100-0|4 Model Support changes in rust-v0.100.0]]
-- Later: 2026-02-13 · ChatGPT · [[Changes/ChatGPT/2026-02-13-as-previously-announced-we-have-retired-gpt-4o-gpt-4-1-gpt-4-1-mini-and-openai-o|Retiring GPT-4o and other legacy models]]
+- Earlier: 2026-02-12 · Gemini · [[Changes/Gemini/2026-02-12-solve-modern-science-research-and-engineering-challenges-with-gemini-3-deep-thin|Solve modern science, research and engineering challenges with Gemini 3 Deep Think]]
+- Later: 2026-02-12 · Ollama · [[Changes/Ollama/2026-02-12-3-model-support-changes-in-v0-16-0|3 Model Support changes in v0.16.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

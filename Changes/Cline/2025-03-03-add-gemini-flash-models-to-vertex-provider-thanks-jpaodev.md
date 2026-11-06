@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: bc323bac69a8eab4ac5dc6c732b5f30aff0c7bbbac3a5bbd721cabc6806ebba7
+machine_hash: 9233f01603a3d29fa234ec594e3d48d161cd6aaa109ac33dc166a6c17bb1945c
 product: cline
 product_name: Cline
 record:
@@ -43,10 +43,8 @@ record:
   title: Add Gemini Flash models to Vertex provider (thanks @jpaodev!)
   type: change
 related_changes:
-- '[[Changes/OpenHands/2025-02-19-better-error-when-llm-settings-do-not-exist-by-amanape-in-https-github-com-all-h|Better
-  error when LLM settings do not exist]]'
-- '[[Changes/OpenHands/2025-02-27-allow-selecting-the-claude-3-7-model-from-via-the-anthropic-provider-by-amanape|Allow
-  selecting the Claude 3.7 model from via the Anthropic provider]]'
+- '[[Changes/Replit/2025-02-28-claude-3-7-sonnet-release|Claude 3.7 Sonnet release]]'
+- '[[Changes/Replit/2025-02-28-better-documentation|Better documentation]]'
 - '[[Changes/Cline/2025-03-01-add-enable-extended-thinking-option-for-claude-3-7-sonnet-with-ability-to-set-di|Add
   ''Enable extended thinking'' option for Claude 3.7 Sonnet, with ability to set…]]'
 source_release: '[[Releases/Cline/cline-2025-03-03-v3-5-1-github-203250765-0e967ba9|cline-2025-03-03-v3-5-1-github-203250765-0e967ba9]]'

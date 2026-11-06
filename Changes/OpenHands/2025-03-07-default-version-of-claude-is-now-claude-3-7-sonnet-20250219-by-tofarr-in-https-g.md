@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 7b64f6f12d010273602f3dfb4322b7238e81d5685196281baa5147f039c5902d
+machine_hash: ce401794fee85756f8c621fa42a8507cd209805a0d607ae3b3a9c7e51a0d79db
 product: openhands
 product_name: OpenHands
 record:
@@ -44,12 +44,12 @@ record:
   title: Default version of Claude is now claude-3-7-sonnet-20250219
   type: change
 related_changes:
-- '[[Changes/Cline/2025-03-03-add-gemini-flash-models-to-vertex-provider-thanks-jpaodev|Add
-  Gemini Flash models to Vertex provider (thanks @jpaodev!)]]'
-- '[[Changes/Aider/2025-03-04-4-model-support-changes-in-v0-75-0|4 Model Support changes
-  in v0.75.0]]'
+- '[[Changes/Open WebUI/2025-03-05-2-model-support-changes-in-v0-5-19|2 Model Support
+  changes in v0.5.19]]'
 - '[[Changes/Cline/2025-03-06-add-new-gemini-models-to-gcp-vertex-thanks-shohei-ihaya-and-claude-models-asksag|Add
   new Gemini models to GCP Vertex (thanks @shohei-ihaya!) and Claude models…]]'
+- '[[Changes/Lovable/2025-03-07-addressed-main-regressions-introduced-with-sonnet-3-7-https-lovable-dev-blog-ant|Addressed
+  main regressions introduced with Sonnet…]]'
 source_release: '[[Releases/OpenHands/openhands-2025-03-07-0-28-0-github-204383834-ab2a02bd|openhands-2025-03-07-0-28-0-github-204383834-ab2a02bd]]'
 source_type: github_releases
 theme: model-support
@@ -80,7 +80,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2025-03-06 · Cline · [[Changes/Cline/2025-03-06-add-new-gemini-models-to-gcp-vertex-thanks-shohei-ihaya-and-claude-models-asksag|Add new Gemini models to GCP Vertex (thanks @shohei-ihaya!) and Claude models…]]
+- Earlier: 2025-03-07 · Lovable · [[Changes/Lovable/2025-03-07-addressed-main-regressions-introduced-with-sonnet-3-7-https-lovable-dev-blog-ant|Addressed main regressions introduced with Sonnet…]]
 - Later: 2025-03-10 · Aider · [[Changes/Aider/2025-03-10-16-model-support-changes-in-v0-76-0|16 Model Support changes in v0.76.0]]
 <!-- chronolog:end -->
 

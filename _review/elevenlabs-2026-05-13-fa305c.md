@@ -1,0 +1,31 @@
+---
+draft: true
+machine_hash: 499ec4b3a699212c925a5eb9aad426ee86bd59890cb53fbb7c2c062f0ba7ed5b
+product: elevenlabs
+record:
+  ai_generated: true
+  card_id: elevenlabs-2026-05-13-fa305c
+  comparison: ''
+  confidence: low
+  date: '2026-05-13'
+  description: 'ElevenLabs — ElevenLabs updates — 2026-05-13: New Endpoints'
+  evidence:
+  - quote: New Endpoints
+    source_release: https://elevenlabs.io/docs/changelog/2026/5/13
+  extractor_version: fallback-v5
+  impact: significant
+  kind: launch
+  product: elevenlabs
+  product_name: ElevenLabs
+  slug: new-endpoints
+  source_release: elevenlabs-2026-05-13-2026-05-13-1809b47f
+  source_type: elevenlabs_changelog
+  theme: __candidate__
+  theme_matches: []
+  theme_review_reason: no_match
+  theme_suggestion: endpoints
+  title: New Endpoints
+  type: change
+---
+
+Pending theme review. Resolve via the theme vocabulary or review decisions.

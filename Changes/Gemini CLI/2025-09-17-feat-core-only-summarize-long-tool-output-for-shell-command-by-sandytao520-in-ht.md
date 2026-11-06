@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: d8737ef85c9d3545715c6305dbbae5042d622ad8d448730fc6759ccbfade7303
+machine_hash: ee5a38d6233edbf4eba53a9b2a39e17f47394dc9a3f1f70f09bdb2f43ef83d98
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -42,12 +42,9 @@ record:
   title: 'feat(core): Only summarize long tool output for shell command'
   type: change
 related_changes:
-- '[[Changes/OpenHands/2025-09-09-2-agent-mode-changes-in-0-56-0|2 Agent Mode changes
-  in 0.56.0]]'
-- '[[Changes/Codex CLI/2025-09-10-3436-make-user-agent-optional-3436|♯3436 Make user_agent
-  optional (♯3436)]]'
-- '[[Changes/Cursor/2025-09-12-3-agent-mode-changes-in-1-6|3 Agent Mode changes in
-  1.6]]'
+- '[[Changes/Replit/2025-09-12-agents-automations-beta|Agents & Automations (beta)]]'
+- '[[Changes/Replit/2025-09-12-agent-3-launch|Agent 3 Launch]]'
+- '[[Changes/ElevenLabs/2025-09-15-agents-platform|Agents Platform]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2025-09-17-v0-5-3-github-248106224-41cde85c|gemini-cli-2025-09-17-v0-5-3-github-248106224-41cde85c]]'
 source_type: github_releases
 theme: agent-mode
@@ -82,7 +79,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2025-09-12 · Cursor · [[Changes/Cursor/2025-09-12-3-agent-mode-changes-in-1-6|3 Agent Mode changes in 1.6]]
+- Earlier: 2025-09-15 · ElevenLabs · [[Changes/ElevenLabs/2025-09-15-agents-platform|Agents Platform]]
 - Later: 2025-09-18 · Codex CLI · [[Changes/Codex CLI/2025-09-18-2-agent-mode-changes-in-rust-v0-39-0|2 Agent Mode changes in rust-v0.39.0]]
 <!-- chronolog:end -->
 

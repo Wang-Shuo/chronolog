@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 0963d7226343028d763110a041ed2cacb7f33a0d7e58ade2b62640edc4931db2
+machine_hash: 07e2f1d7bf189ba8dcde1c2dc8dd70683581285eeb00f40a88c90980b495135d
 product: claude-code
 product_name: Claude Code
 record:
@@ -105,9 +105,10 @@ record:
   title: 19 Apps and Integrations changes in v2.1.299
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-10-13-apps-for-your-stack|Apps for your stack]]'
 - '[[Changes/GitHub Copilot CLI/2026-10-13-4-apps-and-integrations-changes-in-v1-0-97|4
   Apps and Integrations changes in v1.0.97]]'
+- '[[Changes/Lovable/2026-10-13-approve-every-tool-from-a-chat-connector-at-once|Approve
+  every tool from a chat connector at once]]'
 - '[[Changes/Claude Code/2026-10-14-7-apps-and-integrations-changes-in-v2-1-300|7
   Apps and Integrations changes in v2.1.300]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-10-14-v2-1-299-github-412217284-623d9162|claude-code-2026-10-14-v2-1-299-github-412217284-623d9162]]'

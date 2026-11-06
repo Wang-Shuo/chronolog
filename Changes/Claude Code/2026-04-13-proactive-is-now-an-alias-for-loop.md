@@ -4,20 +4,20 @@ date: '2026-04-13'
 description: 'Claude Code · 2026-04-13 · Automation and Scheduling: `/proactive` is
   now an alias for `/loop`'
 diffusion:
-  first_in_tracked: '[[Changes/OpenHands/2024-09-04-better-syntax-error-loop-detection-by-tobitege-in-https-github-com-all-hands-ai|Better
-    syntax error loop detection]]'
+  first_in_tracked: '[[Changes/Dify/2024-01-02-add-data-clean-schedule-by-johnjyong-in-https-github-com-langgenius-dify-pull-18|Add
+    data clean schedule]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 586
+  lag_days: 832
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 6a22d1f6e857e482f1165251385de5fabdb72f3bc853e27ceac939c525ac23fd
+machine_hash: ec54f7d2711ebdc9625d098401ab0e1f6d3738d8f8524e454bebcaaee9a9554c
 product: claude-code
 product_name: Claude Code
 record:
@@ -42,12 +42,11 @@ record:
   title: '`/proactive` is now an alias for `/loop`'
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-03-26-2-automation-and-scheduling-changes-in-rust-v0-117-0|2
-  Automation and Scheduling changes in rust-v0.117.0]]'
 - '[[Changes/Gemini CLI/2026-04-01-test-core-migrate-hook-tests-to-scheduler-by-abhipatel12-in-https-github-com-goo|test(core):
   migrate hook tests to scheduler]]'
 - '[[Changes/Cursor/2026-04-02-reduced-the-browser-automation-tool-surface-and-tightened-the-subagent-to-use-br|Reduced
   the browser automation tool surface and tightened the subagent to use…]]'
+- '[[Changes/Lovable/2026-04-02-project-comments|Project comments]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-04-13-v2-1-105-github-308569432-65a12cd3|claude-code-2026-04-13-v2-1-105-github-308569432-65a12cd3]]'
 source_type: github_releases
 theme: automation-scheduling
@@ -81,14 +80,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Automation and Scheduling
 
-- Earlier: 2026-04-02 · Cursor · [[Changes/Cursor/2026-04-02-reduced-the-browser-automation-tool-surface-and-tightened-the-subagent-to-use-br|Reduced the browser automation tool surface and tightened the subagent to use…]]
+- Earlier: 2026-04-02 · Lovable · [[Changes/Lovable/2026-04-02-project-comments|Project comments]]
 - Later: 2026-04-15 · Claude Code · [[Changes/Claude Code/2026-04-15-resume-continue-now-resurrects-unexpired-scheduled-tasks|--resume/--continue now resurrects unexpired scheduled tasks]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2024-09-04 · OpenHands · [[Changes/OpenHands/2024-09-04-better-syntax-error-loop-detection-by-tobitege-in-https-github-com-all-hands-ai|Better syntax error loop detection]]
+- Earliest same-theme entry in the tracked set: 2024-01-02 · Dify · [[Changes/Dify/2024-01-02-add-data-clean-schedule-by-johnjyong-in-https-github-com-langgenius-dify-pull-18|Add data clean schedule]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: b816ed424b0c5c2e84e1c835620ef0b4e6e7327ab7768a3e01af03a8c3821fb3
+machine_hash: 78204dd377554124ecc34b19e7fe9799e5ece9b4ed2de0917f3d3ee1f93ace7e
 product: aider
 product_name: Aider
 record:
@@ -46,8 +46,8 @@ record:
   title: '[New `--multiline` flag and `/multiline-mode`…'
   type: change
 related_changes:
-- '[[Changes/Aider/2024-12-01-2-developer-workflow-changes-in-v0-66-0|2 Developer
-  Workflow changes in v0.66.0]]'
+- '[[Changes/Dify/2024-12-09-stop-the-service-command-please-execute-in-the-docker-directory|Stop
+  the service，Command, please execute in the docker directory]]'
 - '[[Changes/Aider/2024-12-10-2-developer-workflow-changes-in-v0-68-0|2 Developer
   Workflow changes in v0.68.0]]'
 - '[[Changes/OpenHands/2024-12-12-request-code-review-from-the-person-who-initiated-the-resolver-by-openhands-agen|Request
@@ -84,7 +84,7 @@ type: change
 ## Nearby in Developer Workflow
 
 - Earlier: 2024-12-12 · OpenHands · [[Changes/OpenHands/2024-12-12-request-code-review-from-the-person-who-initiated-the-resolver-by-openhands-agen|Request code review from the person who initiated the resolver]]
-- Later: 2024-12-17 · Cursor · [[Changes/Cursor/2024-12-17-agent-sees-terminal-exit-codes-can-run-commands-in-the-background-and-commands-a-4f6044|Agent sees terminal exit codes, can run commands in the background, and commands…]]
+- Later: 2024-12-16 · Dify · [[Changes/Dify/2024-12-16-2-developer-workflow-changes-in-0-14-0|2 Developer Workflow changes in 0.14.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

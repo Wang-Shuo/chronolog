@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 3f9780774f76d0fd31d3ca6664b8dbd8e1277720c0a7329428fc7a5ea7fc1a2e
+machine_hash: 43611148354740151dcb7c80fd6f43ae11ed74d58567bafdb860d2afa43058e2
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -100,7 +100,7 @@ Source: https://github.com/google-gemini/gemini-cli/releases/tag/v0.1.18
 ## Nearby in Context Window
 
 - Earlier: 2025-08-06 · Cursor · [[Changes/Cursor/2025-08-06-admin-api-for-blocklists-block-specific-files-or-directories-from-being-indexed|Admin API for blocklists]]
-- Later: 2025-08-12 · Codex CLI · [[Changes/Codex CLI/2025-08-12-https-github-com-openai-codex-pull-2200-send-prompt-cache-key-for-better-caching|(source link) send prompt cache key for better caching…]]
+- Later: 2025-08-08 · Replit · [[Changes/Replit/2025-08-08-improved-filesystem-search|Improved filesystem search]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

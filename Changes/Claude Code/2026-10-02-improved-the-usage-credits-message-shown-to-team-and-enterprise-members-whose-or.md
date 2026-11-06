@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: pricing
-machine_hash: 475742670ec659d16fd59beb1f23f239e725020815c9ab1176f99d139027137c
+machine_hash: ec2ddf5ad55c9b00746967c5e22f31c75fc19c198dba689f58acca4ea2cabfc8
 product: claude-code
 product_name: Claude Code
 record:
@@ -54,10 +54,10 @@ record:
     whose…
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-09-29-we-re-introducing-pro-500-a-new-500-month-plan-with-the-highest-included-usage-o-e04989|A
-  new Pro plan with Astra Ultrafast]]'
-- '[[Changes/Claude Code/2026-09-29-claude-tag-added-direct-messages-with-claude-for-members-on-an-enterprise-plan-s|Claude
-  Tag Added direct messages with Claude for members on an Enterprise plan…]]'
+- '[[Changes/v0/2026-09-29-chatgpt-plus-and-pro-subscribers-can-now-use-their-chatgpt-subscription-to-build|ChatGPT
+  Plus and Pro subscribers can now use their ChatGPT subscription to build in v0]]'
+- '[[Changes/v0/2026-09-29-what-happens-if-i-reach-my-chatgpt-usage-limit|What happens
+  if I reach my ChatGPT usage limit?]]'
 - '[[Changes/Codex CLI/2026-10-01-49079-update-and-centralize-tui-subscription-labels-etraut-openai|♯49079
   Update and centralize TUI subscription labels @etraut-openai]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-10-02-v2-1-288-github-402056988-39eb9ac6|claude-code-2026-10-02-v2-1-288-github-402056988-39eb9ac6]]'

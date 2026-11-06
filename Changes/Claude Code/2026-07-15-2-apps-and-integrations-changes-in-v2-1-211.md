@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: e4cd6c177b6c59c4ba8c486d8ccfae6617ae694a506cac9f8ca1025b2c7f8223
+machine_hash: a673fd2c647b0f2c4e3d4a8034d3fb775a0f48551a9fb87662b445d2809614f7
 product: claude-code
 product_name: Claude Code
 record:
@@ -43,10 +43,9 @@ record:
   title: 2 Apps and Integrations changes in v2.1.211
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-07-10-9-apps-and-integrations-changes-in-v1-0-70|9
-  Apps and Integrations changes in v1.0.70]]'
-- '[[Changes/Claude Code/2026-07-11-2-apps-and-integrations-changes-in-v2-1-207|2
-  Apps and Integrations changes in v2.1.207]]'
+- '[[Changes/Lovable/2026-07-13-mapbox-connector|Mapbox connector]]'
+- '[[Changes/Lovable/2026-07-13-let-your-app-s-users-connect-their-own-accounts|Let
+  your app''s users connect their own accounts]]'
 - '[[Changes/Claude Code/2026-07-14-3-apps-and-integrations-changes-in-v2-1-208|3
   Apps and Integrations changes in v2.1.208]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-07-15-v2-1-211-github-354658856-71e66e57|claude-code-2026-07-15-v2-1-211-github-354658856-71e66e57]]'

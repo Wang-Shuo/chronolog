@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 3cd351a9c7a966ac70b705665dab148205608fadfe5c10fd13f120777276f72d
+machine_hash: 9f7616520e2b04adf0d8e716b4be8a16e4153dc7642d691bed2978a0644fa8eb
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -54,8 +54,8 @@ record:
   title: 8 Model Support changes in rust-v0.81.0
   type: change
 related_changes:
-- '[[Changes/Cline/2026-01-13-phase-in-responses-api-usage-instead-of-defaulting-for-every-supported-model|Phase
-  in Responses API usage instead of defaulting for every supported model]]'
+- '[[Changes/Dify/2026-01-13-8-model-support-changes-in-1-11-3|8 Model Support changes
+  in 1.11.3]]'
 - '[[Changes/GitHub Copilot CLI/2026-01-13-retrieving-models-handles-network-errors-from-firewalled-routes-gracefully-raise|Retrieving
   models handles network errors from firewalled routes gracefully, raises…]]'
 - '[[Changes/Cline/2026-01-14-add-gpt-5-2-codex-openai-model-support|Add gpt-5.2-codex

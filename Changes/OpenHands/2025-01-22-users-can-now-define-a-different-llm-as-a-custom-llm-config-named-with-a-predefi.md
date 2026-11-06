@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: 5b44e861f6f78b3f863a192c8c1d6b20088cf8053dbac691d92c4ecff07516fc
+machine_hash: b8f8397ced8d2353d91e11c48b8aba61ed4d02494bf04d28e3f48f4a5ea0ab8d
 product: openhands
 product_name: OpenHands
 record:
@@ -63,10 +63,9 @@ record:
     predefined name
   type: change
 related_changes:
-- '[[Changes/OpenHands/2024-12-26-frontend-hyperlink-in-chat-window-should-open-link-in-a-new-tab-by-openhands-age|Frontend
-  Hyperlink in Chat window should open link in a new tab]]'
-- '[[Changes/Cline/2025-01-06-compare-lets-you-see-a-diff-overview-between-the-snapshot-and-the-current-state|Compare
-  lets you see a diff overview between the snapshot and the current state…]]'
+- '[[Changes/Dify/2025-01-07-2-editor-experience-changes-in-0-15-0|2 Editor Experience
+  changes in 0.15.0]]'
+- '[[Changes/Replit/2025-01-10-shell-bash-completion|Shell bash completion]]'
 - '[[Changes/OpenHands/2025-01-13-added-new-app-tab-which-allows-users-to-interact-with-the-web-app-run-in-openhan|Added
   new App tab which allows users to interact with the web app run in OpenHands…]]'
 source_release: '[[Releases/OpenHands/openhands-2025-01-22-0-21-0-github-196131705-25b6d08c|openhands-2025-01-22-0-21-0-github-196131705-25b6d08c]]'
@@ -101,7 +100,7 @@ type: change
 ## Nearby in Editor Experience
 
 - Earlier: 2025-01-13 · OpenHands · [[Changes/OpenHands/2025-01-13-added-new-app-tab-which-allows-users-to-interact-with-the-web-app-run-in-openhan|Added new App tab which allows users to interact with the web app run in OpenHands…]]
-- Later: 2025-02-13 · OpenHands · [[Changes/OpenHands/2025-02-13-add-success-failure-indicators-for-file-read-edit-operations-by-neubig-in-https|Add success/failure indicators for file read/edit operations]]
+- Later: 2025-01-27 · ElevenLabs · [[Changes/ElevenLabs/2025-01-27-api|API]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

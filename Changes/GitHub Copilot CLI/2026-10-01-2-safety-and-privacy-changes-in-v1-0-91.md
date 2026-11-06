@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: a6237510766768d70ce77dc343b582f1d6bb2b8e7b945cdcdf1f4e90bbdf0ae9
+machine_hash: 875b648cb1f8a35552f402eb3f27f4618cf5e6373ce4689f51554b1f93280579
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -45,8 +45,8 @@ record:
   title: 2 Safety and Privacy changes in v1.0.91
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-09-30-permission-prompts-remain-answerable-after-resuming-interrupted-sessions|Permission
-  prompts remain answerable after resuming interrupted sessions]]'
+- '[[Changes/Lovable/2026-09-30-rotate-your-cloud-database-password-from-chat|Rotate
+  your Cloud database password from chat]]'
 - '[[Changes/Claude Code/2026-10-01-6-safety-and-privacy-changes-in-v2-1-287|6 Safety
   and Privacy changes in v2.1.287]]'
 - '[[Changes/Codex CLI/2026-10-01-7-safety-and-privacy-changes-in-rust-v0-160-0|7
@@ -87,7 +87,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.91
 ## Nearby in Safety and Privacy
 
 - Earlier: 2026-10-01 · Codex CLI · [[Changes/Codex CLI/2026-10-01-7-safety-and-privacy-changes-in-rust-v0-160-0|7 Safety and Privacy changes in rust-v0.160.0]]
-- Later: 2026-10-02 · Claude Code · [[Changes/Claude Code/2026-10-02-6-safety-and-privacy-changes-in-v2-1-288|6 Safety and Privacy changes in v2.1.288]]
+- Later: 2026-10-01 · Lovable · [[Changes/Lovable/2026-10-01-keep-your-workspace-s-ai-processing-in-the-eu|Keep your workspace's AI processing in the EU]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

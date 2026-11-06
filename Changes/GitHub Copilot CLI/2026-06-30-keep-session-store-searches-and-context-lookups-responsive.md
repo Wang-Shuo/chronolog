@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 0857c20cac6f7a60f94b6424467478ab1f59383b8942f0d3c9cb83a532feb181
+machine_hash: a4d63a98e425a3757fe4b7e7e0a2a28ab674158a6adfdaea77a4cc5d9af9318a
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -41,12 +41,12 @@ record:
   title: Keep session-store searches and context lookups responsive
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-06-22-10-context-window-changes-in-rust-v0-142-0|10 Context
-  Window changes in rust-v0.142.0]]'
-- '[[Changes/GitHub Copilot CLI/2026-06-23-3-context-window-changes-in-v1-0-64|3 Context
-  Window changes in v1.0.64]]'
 - '[[Changes/Codex CLI/2026-06-25-2-context-window-changes-in-rust-v0-142-2|2 Context
   Window changes in rust-v0.142.2]]'
+- '[[Changes/Dify/2026-06-25-3-context-window-changes-in-1-15-0|3 Context Window changes
+  in 1.15.0]]'
+- '[[Changes/Open WebUI/2026-06-29-3-context-window-changes-in-v0-10-0|3 Context Window
+  changes in v0.10.0]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-06-30-v1-0-66-github-346845066-af776740|github-copilot-cli-2026-06-30-v1-0-66-github-346845066-af776740]]'
 source_type: github_releases
 theme: context-window
@@ -91,7 +91,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Context Window
 
-- Earlier: 2026-06-25 · Codex CLI · [[Changes/Codex CLI/2026-06-25-2-context-window-changes-in-rust-v0-142-2|2 Context Window changes in rust-v0.142.2]]
+- Earlier: 2026-06-29 · Open WebUI · [[Changes/Open WebUI/2026-06-29-3-context-window-changes-in-v0-10-0|3 Context Window changes in v0.10.0]]
 - Later: 2026-07-01 · Claude Code · [[Changes/Claude Code/2026-07-01-subagents-and-context-compaction-now-inherit-the-session-s-extended-thinking-con|Subagents and context compaction now inherit the session's extended thinking…]]
 <!-- chronolog:end -->
 

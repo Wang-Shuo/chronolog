@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: e337078d8806358bc32d56614a866c59fbd73806a620bd7d4edacfa74726e2c9
+machine_hash: 42b733c2acd5de12f4e15aa1de283e015110a1a3dedd5b2b08b7055679cb6d00
 product: openhands
 product_name: OpenHands
 record:
@@ -53,12 +53,12 @@ record:
     limit
   type: change
 related_changes:
-- '[[Changes/Aider/2025-02-06-dynamically-changes-the-ollama-context-window-to-hold-the-current-chat|Dynamically
-  changes the Ollama context window to hold the current chat]]'
-- '[[Changes/Cline/2025-02-19-new-advanced-setting-to-disable-the-browser-tool-improved-support-for-aws-bedroc|New
-  advanced setting to disable the browser tool, improved support for AWS Bedrock…]]'
-- '[[Changes/Cursor/2025-02-19-ui-refresh-phase-one-of-a-fresh-coat-of-paint-with-new-default-cursor-themes-des|UI
-  refresh: Phase one of a fresh coat of paint with new default Cursor themes…]]'
+- '[[Changes/Gemini/2025-02-20-document-upload-is-now-available-to-all-gemini-users|Document
+  upload is now available to all Gemini users]]'
+- "[[Changes/Open WebUI/2025-02-20-full-context-mode-for-local-document-search-rag-toggle-full-context-mode-from-ad|\U0001F4C4
+  Full Context Mode for Local Document Search (RAG)]]"
+- '[[Changes/Lovable/2025-02-21-connecting-to-apis-and-external-data-sources-can-be-tricky-we-ve-made-it-easier|Connecting
+  to APIs and external data sources can be tricky]]'
 source_release: '[[Releases/OpenHands/openhands-2025-02-24-0-26-0-github-202133631-5a109814|openhands-2025-02-24-0-26-0-github-202133631-5a109814]]'
 source_type: github_releases
 theme: context-window
@@ -88,8 +88,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Context Window
 
-- Earlier: 2025-02-19 · Cursor · [[Changes/Cursor/2025-02-19-ui-refresh-phase-one-of-a-fresh-coat-of-paint-with-new-default-cursor-themes-des|UI refresh: Phase one of a fresh coat of paint with new default Cursor themes…]]
-- Later: 2025-03-07 · OpenHands · [[Changes/OpenHands/2025-03-07-2-context-window-changes-in-0-28-0|2 Context Window changes in 0.28.0]]
+- Earlier: 2025-02-21 · Lovable · [[Changes/Lovable/2025-02-21-connecting-to-apis-and-external-data-sources-can-be-tricky-we-ve-made-it-easier|Connecting to APIs and external data sources can be tricky]]
+- Later: 2025-02-25 · ElevenLabs · [[Changes/ElevenLabs/2025-02-25-elevencreative-studio|ElevenCreative Studio]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: f652c4433851b5c71ead5adb4c2df4ba684fc7890b131c5b3e8cf82e77127b90
+machine_hash: 4220b8691c640d2a5272f5424ddb9b454ecafb41510b4822cbf9c285659fd502
 product: claude-code
 product_name: Claude Code
 record:
@@ -47,12 +47,10 @@ record:
   title: Changed `/bug` and `/feedback` reports to include only model-behavior params…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-11-added-claude-code-gateway-model-discovery-timeout-ms-to-extend-the-llm-gateway-v|Added
-  CLAUDE_CODE_GATEWAY_MODEL_DISCOVERY_TIMEOUT_MS to extend the LLM gateway…]]'
-- '[[Changes/ChatGPT/2026-09-14-we-re-retiring-automatic-switching-from-instant-to-thinking-reasoning-for-chatgp|Changes
-  to automatic switching to thinking in ChatGPT (Plus and Pro)]]'
-- '[[Changes/Claude Code/2026-09-14-2-model-support-changes-in-v2-1-271|2 Model Support
-  changes in v2.1.271]]'
+- '[[Changes/ElevenLabs/2026-09-14-javascript-sdk|JavaScript SDK]]'
+- '[[Changes/ElevenLabs/2026-09-14-python-sdk|Python SDK]]'
+- '[[Changes/Ollama/2026-09-14-2-model-support-changes-in-v0-34-1|2 Model Support
+  changes in v0.34.1]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-15-v2-1-273-github-389362239-6ea37826|claude-code-2026-09-15-v2-1-273-github-389362239-6ea37826]]'
 source_type: github_releases
 theme: model-support
@@ -92,8 +90,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-09-14 · Claude Code · [[Changes/Claude Code/2026-09-14-2-model-support-changes-in-v2-1-271|2 Model Support changes in v2.1.271]]
-- Later: 2026-09-16 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-09-16-13-model-support-changes-in-v1-0-85|13 Model Support changes in v1.0.85]]
+- Earlier: 2026-09-14 · Ollama · [[Changes/Ollama/2026-09-14-2-model-support-changes-in-v0-34-1|2 Model Support changes in v0.34.1]]
+- Later: 2026-09-15 · Lovable · [[Changes/Lovable/2026-09-15-removed-workspace-level-ai-model-training-setting|Removed: workspace-level AI model training setting]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 64a6a8191f7835e7ce4219c2e3836a9555a3a84fd84fe7773ecfe72041e96c5d
+machine_hash: b5ec9c475cb964b05e7542a9ade7f8f96c3c1692968ccfa4ead654b393a15644
 product: openhands
 product_name: OpenHands
 record:
@@ -43,12 +43,12 @@ record:
   title: Added tooltip for `suggested tasks`
   type: change
 related_changes:
-- '[[Changes/Windsurf/2025-06-10-new-menu-to-open-previous-conversations-to-quickly-switch-conversations|New
-  menu to open previous conversations to quickly switch conversations]]'
 - '[[Changes/Aider/2025-06-27-2-interface-experience-changes-in-v0-85-0|2 Interface
   Experience changes in v0.85.0]]'
 - '[[Changes/Gemini CLI/2025-07-01-feat-add-markdown-table-rendering-support-by-heartyguy-in-https-github-com-googl|feat:
   Add markdown table rendering support]]'
+- '[[Changes/Dify/2025-07-02-2-interface-experience-changes-in-1-5-1|2 Interface Experience
+  changes in 1.5.1]]'
 source_release: '[[Releases/OpenHands/openhands-2025-07-02-0-48-0-github-229531654-8c83a404|openhands-2025-07-02-0-48-0-github-229531654-8c83a404]]'
 source_type: github_releases
 theme: interface-experience
@@ -79,7 +79,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2025-07-01 · Gemini CLI · [[Changes/Gemini CLI/2025-07-01-feat-add-markdown-table-rendering-support-by-heartyguy-in-https-github-com-googl|feat: Add markdown table rendering support]]
+- Earlier: 2025-07-02 · Dify · [[Changes/Dify/2025-07-02-2-interface-experience-changes-in-1-5-1|2 Interface Experience changes in 1.5.1]]
 - Later: 2025-07-03 · Cursor · [[Changes/Cursor/2025-07-03-chat-rendering-bugs-resolved-toolcall-display-overflow-issues|Chat rendering bugs resolved (toolcall display, overflow issues)]]
 <!-- chronolog:end -->
 

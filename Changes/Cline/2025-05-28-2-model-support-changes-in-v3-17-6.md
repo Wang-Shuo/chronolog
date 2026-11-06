@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: f03783b60927fc3fcd01fb9a04f2715e5975d6b5e700d27030d06f55945ba910
+machine_hash: 6709e9d458ebb01d22718d3918c7aae959bf7eef57fb56ef609fddc0b70ae667
 product: cline
 product_name: Cline
 record:
@@ -43,11 +43,11 @@ record:
   title: 2 Model Support changes in v3.17.6
   type: change
 related_changes:
-- '[[Changes/Cline/2025-05-22-add-support-for-claude-4-models-sonnet-4-and-opus-4-in-aws-bedrock-and-vertex-ai|Add
-  support for Claude 4 models (Sonnet 4 and Opus 4) in AWS Bedrock and Vertex AI…]]'
-- '[[Changes/Cline/2025-05-22-2-model-support-changes-in-v3-17-1|2 Model Support changes
-  in v3.17.1]]'
-- '[[Changes/Windsurf/2025-05-22-byok-anthropic-key|BYOK (Anthropic Key)]]'
+- '[[Changes/Replit/2025-05-23-sonnet-4-in-agent|Sonnet 4 in Agent]]'
+- '[[Changes/Open WebUI/2025-05-26-3-model-support-changes-in-v0-6-11|3 Model Support
+  changes in v0.6.11]]'
+- '[[Changes/Dify/2025-05-27-3-model-support-changes-in-1-4-1|3 Model Support changes
+  in 1.4.1]]'
 source_release: '[[Releases/Cline/cline-2025-05-28-v3-17-6-github-221411446-d46f957a|cline-2025-05-28-v3-17-6-github-221411446-d46f957a]]'
 source_type: github_releases
 theme: model-support
@@ -83,8 +83,8 @@ Source: https://github.com/cline/cline/releases/tag/v3.17.6
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2025-05-22 · Windsurf · [[Changes/Windsurf/2025-05-22-byok-anthropic-key|BYOK (Anthropic Key)]]
-- Later: 2025-05-30 · Aider · [[Changes/Aider/2025-05-30-6-model-support-changes-in-v0-84-0|6 Model Support changes in v0.84.0]]
+- Earlier: 2025-05-27 · Dify · [[Changes/Dify/2025-05-27-3-model-support-changes-in-1-4-1|3 Model Support changes in 1.4.1]]
+- Later: 2025-05-28 · DeepSeek API · [[Changes/DeepSeek API/2025-05-28-deepseek-reasoner|deepseek-reasoner]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

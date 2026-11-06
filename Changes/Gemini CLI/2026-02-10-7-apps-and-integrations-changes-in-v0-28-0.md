@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 6b4d309d068af8a4b18bd6954b3193a2fae10c157e72fd4cb9d237fd970d3ce6
+machine_hash: 29f182098588bc4c423b026f912ef5021b3b7c2c645b03c6c13f27f1653aa535
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -57,12 +57,11 @@ record:
   title: 7 Apps and Integrations changes in v0.28.0
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-02-05-2-apps-and-integrations-changes-in-v0-0-403|2
-  Apps and Integrations changes in v0.0.403]]'
 - '[[Changes/Claude Code/2026-02-06-added-plugin-name-to-skill-descriptions-and-skills-menu-for-better-discoverabili|Added
   plugin name to skill descriptions and /skills menu for better discoverability]]'
 - '[[Changes/GitHub Copilot CLI/2026-02-07-4-apps-and-integrations-changes-in-v0-0-406|4
   Apps and Integrations changes in v0.0.406]]'
+- '[[Changes/ElevenLabs/2026-02-09-sdk-releases|SDK Releases]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2026-02-10-v0-28-0-github-285023966-1bd56186|gemini-cli-2026-02-10-v0-28-0-github-285023966-1bd56186]]'
 source_type: github_releases
 theme: apps-integrations
@@ -115,7 +114,7 @@ Source: https://github.com/google-gemini/gemini-cli/releases/tag/v0.28.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-02-07 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-02-07-4-apps-and-integrations-changes-in-v0-0-406|4 Apps and Integrations changes in v0.0.406]]
+- Earlier: 2026-02-09 · ElevenLabs · [[Changes/ElevenLabs/2026-02-09-sdk-releases|SDK Releases]]
 - Later: 2026-02-11 · Codex CLI · [[Changes/Codex CLI/2026-02-11-13-apps-and-integrations-changes-in-rust-v0-99-0|13 Apps and Integrations changes in rust-v0.99.0]]
 <!-- chronolog:end -->
 

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: ab84b697f7f41d4af165793abd53822ce6e3e207b1580dc333572ba24af12e91
+machine_hash: 1402d29e28ba1cb8e3e25bffc5d132136a5fa90f2466aa9d894195da89d58e48
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -46,10 +46,10 @@ record:
   title: 2 Agent Mode changes in v1.0.19
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-04-02-design-mode|Design Mode]]'
-- '[[Changes/Cursor/2026-04-02-agents-window-da5689|Agents Window]]'
+- '[[Changes/Lovable/2026-04-02-ai-powered-visual-edits|AI-powered visual edits]]'
 - '[[Changes/GitHub Copilot CLI/2026-04-03-built-in-skills-are-now-included-with-the-cli-starting-with-a-guide-for-customiz|Built-in
   skills are now included with the CLI, starting with a guide for customizing…]]'
+- '[[Changes/Replit/2026-04-03-agent|Agent]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-04-06-v1-0-19-github-305837484-a9d8ae9e|github-copilot-cli-2026-04-06-v1-0-19-github-305837484-a9d8ae9e]]'
 source_type: github_releases
 theme: agent-mode
@@ -84,8 +84,8 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.19
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2026-04-03 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-04-03-built-in-skills-are-now-included-with-the-cli-starting-with-a-guide-for-customiz|Built-in skills are now included with the CLI, starting with a guide for customizing…]]
-- Later: 2026-04-07 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-04-07-spinner-no-longer-appears-stuck-when-a-long-running-async-shell-command-is-activ|Spinner no longer appears stuck when a long-running async shell command is active]]
+- Earlier: 2026-04-03 · Replit · [[Changes/Replit/2026-04-03-agent|Agent]]
+- Later: 2026-04-07 · ElevenLabs · [[Changes/ElevenLabs/2026-04-07-new-endpoints|New Endpoints]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

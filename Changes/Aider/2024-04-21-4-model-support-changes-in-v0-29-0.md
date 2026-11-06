@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: e07ca5dcb571d185904d6ad7c1e71ed100aa3dd065f4dad4b57bffeb6625b5fa
+machine_hash: df90eb80ac6afd0c2eb573382e508390d2774d74b83fb5b47938ecf73070247b
 product: aider
 product_name: Aider
 record:
@@ -49,12 +49,12 @@ record:
   title: 4 Model Support changes in v0.29.0
   type: change
 related_changes:
-- '[[Changes/Cursor/2024-03-20-stable-claude-support-all-the-newest-claude-models-are-available-for-pro-and-api|Stable
-  Claude Support]]'
-- '[[Changes/Aider/2024-04-09-4-model-support-changes-in-v0-28-0|4 Model Support changes
-  in v0.28.0]]'
 - '[[Changes/Cursor/2024-04-12-new-gpt-4-model-as-of-a-couple-of-days-ago-you-can-try-out-gpt-4-turbo-2024-04-0|New
   GPT-4 model: As of a couple of days ago, you can try out gpt-4-turbo-2024-04-09…]]'
+- '[[Changes/Dify/2024-04-16-7-model-support-changes-in-0-6-3|7 Model Support changes
+  in 0.6.3]]'
+- '[[Changes/Open WebUI/2024-04-16-2-model-support-changes-in-v0-1-119|2 Model Support
+  changes in v0.1.119]]'
 source_release: '[[Releases/Aider/aider-2024-04-21-v0-29-0-github-152105481-898d28d6|aider-2024-04-21-v0-29-0-github-152105481-898d28d6]]'
 source_type: github_releases
 theme: model-support
@@ -92,8 +92,8 @@ Source: https://github.com/Aider-AI/aider/releases/tag/v0.29.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2024-04-12 · Cursor · [[Changes/Cursor/2024-04-12-new-gpt-4-model-as-of-a-couple-of-days-ago-you-can-try-out-gpt-4-turbo-2024-04-0|New GPT-4 model: As of a couple of days ago, you can try out gpt-4-turbo-2024-04-09…]]
-- Later: 2024-04-24 · Aider · [[Changes/Aider/2024-04-24-5-model-support-changes-in-v0-30-0|5 Model Support changes in v0.30.0]]
+- Earlier: 2024-04-16 · Open WebUI · [[Changes/Open WebUI/2024-04-16-2-model-support-changes-in-v0-1-119|2 Model Support changes in v0.1.119]]
+- Later: 2024-04-21 · Open WebUI · [[Changes/Open WebUI/2024-04-21-model-selector-resolved-issue-where-default-model-selection-was-not-saving|🔧 Model Selector: Resolved issue where default model selection was not saving]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

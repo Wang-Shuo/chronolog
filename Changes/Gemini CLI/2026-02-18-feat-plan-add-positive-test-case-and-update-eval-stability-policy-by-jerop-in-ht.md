@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 1abd15399d36e9d2cc43a241ad7d29497775b26ac3b201b902fb16a268007fbd
+machine_hash: ffb800f74b6d4900273259164e588b71fdcba7b0feff013ae54c22fa00c93f45
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -42,8 +42,8 @@ record:
   title: 'feat(plan): add positive test case and update eval stability policy'
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-02-17-2-reliability-and-performance-changes-in-v0-0-411|2
-  Reliability and Performance changes in v0.0.411]]'
+- "[[Changes/Open WebUI/2026-02-17-general-improvements-various-improvements-were-implemented-across-the-applicatio|\U0001F504
+  General improvements. Various improvements were implemented across…]]"
 - '[[Changes/Claude Code/2026-02-18-5-reliability-and-performance-changes-in-v2-1-47|5
   Reliability and Performance changes in v2.1.47]]'
 - '[[Changes/Cursor/2026-02-18-auto-updates-now-run-in-the-background-for-faster-time-to-interactive|Auto-updates

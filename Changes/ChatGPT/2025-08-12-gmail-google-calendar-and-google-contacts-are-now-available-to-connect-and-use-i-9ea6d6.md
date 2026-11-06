@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 477733023bd7c85a6e5cf06d539821cb88628e520ea9f75a9a3e020c517b13b8
+machine_hash: 5934689ecefe3ff29bc2a226054a3665fafbcaf2f734a9916b73cfbae07d55ca
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -82,11 +82,11 @@ record:
   title: Gmail, Google Calendar, and Google Contacts Connectors in ChatGPT (Pro)
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2025-08-07-2-model-support-changes-in-rust-v0-15-0|2 Model
-  Support changes in rust-v0.15.0]]'
-- '[[Changes/Windsurf/2025-08-07-gpt-5-available|GPT-5 Available]]'
-- '[[Changes/Aider/2025-08-09-5-model-support-changes-in-v0-86-0|5 Model Support changes
-  in v0.86.0]]'
+- "[[Changes/Open WebUI/2025-08-10-chat-completion-model-id-error-resolved-a-critical-issue-where-chat-completions|\U0001F41E
+  Chat Completion 'model_id' Error]]"
+- '[[Changes/ElevenLabs/2025-08-11-music|Music]]'
+- "[[Changes/Open WebUI/2025-08-11-openai-api-v1-endpoint-compatibility-enhanced-api-compatibility-by-supporting-re|\U0001F517
+  OpenAI API '/v1' Endpoint Compatibility]]"
 source_release: '[[Releases/ChatGPT/chatgpt-2025-08-12-gmail-google-calendar-and-google-contacts-connectors-in-chatgpt-db727e12|chatgpt-2025-08-12-gmail-google-calendar-and-google-contacts-connectors-in-chatgpt-db727e12]]'
 source_type: chatgpt_changelog
 theme: model-support
@@ -113,7 +113,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2025-08-09 · Aider · [[Changes/Aider/2025-08-09-5-model-support-changes-in-v0-86-0|5 Model Support changes in v0.86.0]]
+- Earlier: 2025-08-11 · Open WebUI · [[Changes/Open WebUI/2025-08-11-openai-api-v1-endpoint-compatibility-enhanced-api-compatibility-by-supporting-re|🔗 OpenAI API '/v1' Endpoint Compatibility]]
 - Later: 2025-08-12 · ChatGPT · [[Changes/ChatGPT/2025-08-12-you-can-now-choose-between-auto-fast-and-thinking-for-gpt-5-most-users-will-want-f4c05b|GPT-5 Updates]]
 <!-- chronolog:end -->
 

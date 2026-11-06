@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: bd1e93a16f215e590919bd602637d0e8a3db747f6461b1d3f4580e1a3f88c31e
+machine_hash: 0bb3aa05df9dbd275f222a8322392d9ff601daa008886c96e665821a6187eef8
 product: claude-code
 product_name: Claude Code
 record:
@@ -43,12 +43,12 @@ record:
     auto…
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-09-17-9-agent-mode-changes-in-rust-v0-155-0|9 Agent Mode
-  changes in rust-v0.155.0]]'
 - '[[Changes/OpenHands/2026-09-17-2-agent-mode-changes-in-v1-20-0|2 Agent Mode changes
   in v1.20.0]]'
 - '[[Changes/Claude Code/2026-09-18-4-agent-mode-changes-in-v2-1-277|4 Agent Mode
   changes in v2.1.277]]'
+- '[[Changes/Replit/2026-09-18-connect-custom-apis-to-agent|Connect custom APIs to
+  Agent]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-19-v2-1-278-github-391877760-2958ad0a|claude-code-2026-09-19-v2-1-278-github-391877760-2958ad0a]]'
 source_type: github_releases
 theme: agent-mode
@@ -77,8 +77,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2026-09-18 · Claude Code · [[Changes/Claude Code/2026-09-18-4-agent-mode-changes-in-v2-1-277|4 Agent Mode changes in v2.1.277]]
-- Later: 2026-09-21 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-09-21-show-live-elapsed-time-for-execution-subagents-in-timeline-entries|Show live elapsed time for execution subagents in timeline entries]]
+- Earlier: 2026-09-18 · Replit · [[Changes/Replit/2026-09-18-connect-custom-apis-to-agent|Connect custom APIs to Agent]]
+- Later: 2026-09-21 · ElevenLabs · [[Changes/ElevenLabs/2026-09-21-elevenagents|ElevenAgents]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

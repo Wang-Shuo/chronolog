@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: ceaa78eafe66b565e4a77685500c3e48289e2d398e04e0d6a69ec9306ceefa83
+machine_hash: ce3c2d991ea601b9089765b0fef261be7a414dc166a5d83bdb89f87f8bc3a2fe
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -63,10 +63,10 @@ record:
   title: 12 Developer Workflow changes in rust-v0.131.0
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-05-14-terminal-cursor-positions-correctly-on-the-input-field-instead-of-on-decorative|Terminal
-  cursor positions correctly on the input field instead of on decorative…]]'
 - '[[Changes/Claude Code/2026-05-15-2-developer-workflow-changes-in-v2-1-143|2 Developer
   Workflow changes in v2.1.143]]'
+- '[[Changes/v0/2026-05-15-bash-terminal-output-no-longer-flashes-empty-rows-while-commands-are-running|Bash
+  terminal output no longer flashes empty rows while commands are running]]'
 - '[[Changes/Windsurf/2026-05-16-2-developer-workflow-changes-in-v2-3-9|2 Developer
   Workflow changes in v2.3.9]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-05-18-rust-v0-131-0-github-324452638-5f16ff1d|codex-cli-2026-05-18-rust-v0-131-0-github-324452638-5f16ff1d]]'

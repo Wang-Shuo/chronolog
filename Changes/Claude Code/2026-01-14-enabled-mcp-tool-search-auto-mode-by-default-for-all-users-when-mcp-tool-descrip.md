@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 148d71c27e09cdac32e8b444ad224902354a83aec80355d43d23c3c47babf177
+machine_hash: 771ca281fe96a133fa45e55d1d9b36235a7210e408bd49238fa7e792dc998c62
 product: claude-code
 product_name: Claude Code
 record:
@@ -63,8 +63,8 @@ record:
   title: Enabled MCP tool search auto mode by default for all users
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2026-01-07-add-core-tool-that-adds-all-context-from-the-core-package-by-jacob314-in-https-g|Add
-  core tool that adds all context from the core package]]'
+- '[[Changes/Open WebUI/2026-01-09-3-context-window-changes-in-v0-7-0|3 Context Window
+  changes in v0.7.0]]'
 - '[[Changes/Claude Code/2026-01-13-added-context-window-used-percentage-and-context-window-remaining-percentage-fie|Added
   context_window.used_percentage and context_window.remaining_percentage…]]'
 - '[[Changes/GitHub Copilot CLI/2026-01-13-auto-compaction-runs-in-background-without-blocking-the-conversation|Auto-compaction

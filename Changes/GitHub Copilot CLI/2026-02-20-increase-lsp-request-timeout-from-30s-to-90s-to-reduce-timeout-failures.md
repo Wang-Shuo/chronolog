@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 00536feecdd5acf77235a1f2f8c2689dd836057c1c071b9cd5a1a3a51888e2fa
+machine_hash: 6fc3f24bd490f1d6887676ef9382717d0aeab58db83549378368536b35e521ee
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -79,7 +79,7 @@ type: change
 ## Nearby in Developer Workflow
 
 - Earlier: 2026-02-20 · Claude Code · [[Changes/Claude Code/2026-02-20-3-developer-workflow-changes-in-v2-1-50|3 Developer Workflow changes in v2.1.50]]
-- Later: 2026-02-24 · Claude Code · [[Changes/Claude Code/2026-02-24-bashtool-now-skips-login-shell-l-flag-by-default-when-a-shell-snapshot-is-availa|BashTool now skips login shell (-l flag) by default when a shell snapshot…]]
+- Later: 2026-02-23 · Open WebUI · [[Changes/Open WebUI/2026-02-23-12-developer-workflow-changes-in-v0-8-4|12 Developer Workflow changes in v0.8.4]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: memory
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 6fcd4010344d4ff1af45ff357effcf1cf81f27a7418b68a59753b046d3e64651
+machine_hash: 099fd9e6ea9176c8709678052788fa0c1f9f2e5f929b3f8560f07db0c918311d
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -51,8 +51,8 @@ record:
   title: 'feat(core): Implement JIT context memory loading and UI sync'
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2025-12-19-in-addition-to-selecting-a-base-style-and-tone-preset-like-candid-and-friendly-y-21da79|New
-  detailed characteristic controls]]'
+- "[[Changes/Open WebUI/2025-12-21-channel-image-upload-handling-was-optimized-to-process-and-store-compressed-imag|\U0001F5BC️
+  Channel image upload handling was optimized to process and store compressed…]]"
 - '[[Changes/ChatGPT/2025-12-22-today-we-re-rolling-out-your-year-with-chatgpt-an-optional-personalized-end-of-y-740eb1|Your
   Year with ChatGPT]]'
 - '[[Changes/ChatGPT/2026-01-07-we-re-starting-to-roll-out-health-a-dedicated-space-in-chatgpt-for-health-and-we|We’re
@@ -93,7 +93,7 @@ type: change
 ## Nearby in Memory and Personalization
 
 - Earlier: 2026-01-07 · ChatGPT · [[Changes/ChatGPT/2026-01-07-we-re-starting-to-roll-out-health-a-dedicated-space-in-chatgpt-for-health-and-we|We’re starting to roll out Health, a dedicated space in ChatGPT for health…]]
-- Later: 2026-01-15 · ChatGPT · [[Changes/ChatGPT/2026-01-15-when-reference-chat-history-is-enabled-chatgpt-can-now-more-reliably-find-specif|Improved memory for finding details from past chats (Plus & Pro)]]
+- Later: 2026-01-09 · Open WebUI · [[Changes/Open WebUI/2026-01-09-2-memory-and-personalization-changes-in-v0-7-0|2 Memory and Personalization changes in v0.7.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

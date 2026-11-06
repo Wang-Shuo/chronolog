@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 993563680486734cfc4348dce75ac82c7c93745762f8beaf7ae594cab0370bc2
+machine_hash: b362e98f6a4097ed7442c0ac8529198e019087d2478a2b0288b4df8adc43789a
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -46,10 +46,10 @@ record:
   title: 3 Editor Experience changes in rust-v0.66.0
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2025-12-02-3-editor-experience-changes-in-rust-v0-64-0|3 Editor
-  Experience changes in rust-v0.64.0]]'
 - '[[Changes/Gemini CLI/2025-12-02-restore-bracketed-paste-mode-after-external-editor-exit-by-scidomino-in-https-gi|Restore
   bracketed paste mode after external editor exit]]'
+- "[[Changes/Open WebUI/2025-12-02-the-model-editor-interface-was-refined-with-access-control-settings-moved-to-a-d|\U0001F3A8
+  The model editor interface was refined with access control settings moved…]]"
 - '[[Changes/Cline/2025-12-04-set-the-cli-s-ide-version-to-just-the-cli-version-rather-than-being-blank-to-mak|set
   the cli''s ''ide version'' to just the cli version rather than being blank, to make…]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2025-12-09-rust-v0-66-0-github-268559734-698ec8f9|codex-cli-2025-12-09-rust-v0-66-0-github-268559734-698ec8f9]]'

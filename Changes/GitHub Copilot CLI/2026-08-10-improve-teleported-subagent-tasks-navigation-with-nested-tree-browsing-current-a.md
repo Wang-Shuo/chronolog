@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: search-browsing
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 668e2c5a5c53d6f4f3ff2cfb66029c2ed47c60fda66a630dcb47f870cf32d0d9
+machine_hash: 034cbb73da51f152187f5fbc1f5f08451f76cd736d2e7bfc3252140b14201497
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -58,8 +58,8 @@ record:
     current/all…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-07-22-changed-deep-research-to-start-only-when-invoked-manually-claude-no-longer-launc|Changed
-  /deep-research to start only when invoked manually]]'
+- '[[Changes/Open WebUI/2026-07-27-7-search-and-browsing-changes-in-v0-11-0|7 Search
+  and Browsing changes in v0.11.0]]'
 - '[[Changes/Codex CLI/2026-07-29-2-search-and-browsing-changes-in-rust-v0-146-0|2
   Search and Browsing changes in rust-v0.146.0]]'
 - '[[Changes/Codex CLI/2026-08-07-3-search-and-browsing-changes-in-rust-v0-147-0|3

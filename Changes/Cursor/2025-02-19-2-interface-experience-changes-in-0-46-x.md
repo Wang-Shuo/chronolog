@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: cc6bc8330088a1a57c71d7537b8566c5f03c54d3ef73930480b5ea430dd8777a
+machine_hash: 72c8efde7e0a40177f5a831fe611a7b0a522498f28fdb041f4803c9b69b81c6e
 product: cursor
 product_name: Cursor
 record:
@@ -43,7 +43,8 @@ record:
   title: 2 Interface Experience changes in 0.46.x
   type: change
 related_changes:
-- '[[Changes/Aider/2025-01-31-https-aider-chat-history-html|(source link)]]'
+- "[[Changes/Open WebUI/2025-02-05-redesigned-chat-input-ui-enjoy-a-sleeker-and-more-intuitive-message-input-with-i|\U0001F4AC
+  Redesigned Chat Input UI]]"
 - '[[Changes/Aider/2025-02-06-https-aider-chat-history-html|(source link)]]'
 - '[[Changes/Cline/2025-02-09-adds-keyboard-shortcut-cmd-shift-a-to-easily-switch-between-plan-act-mode|Adds
   keyboard shortcut (CMD + Shift + A) to easily switch between Plan/Act mode]]'

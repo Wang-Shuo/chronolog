@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 3866efac788a9f240a3d4a6c0012fb7d2a8dd8d96be26fdad184ec4efe92442f
+machine_hash: a2a678e808f43046ddc61f7a34c8bb53485a0417be19c6bd167566bdab868395
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -48,12 +48,12 @@ record:
   title: 4 Apps and Integrations changes in v0.34.0
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-03-16-6-apps-and-integrations-changes-in-v1-0-6|6
-  Apps and Integrations changes in v1.0.6]]'
 - '[[Changes/Claude Code/2026-03-17-3-apps-and-integrations-changes-in-v2-1-78|3 Apps
   and Integrations changes in v2.1.78]]'
 - '[[Changes/Claude Code/2026-03-17-2-apps-and-integrations-changes-in-v2-1-77|2 Apps
   and Integrations changes in v2.1.77]]'
+- '[[Changes/Dify/2026-03-17-27-apps-and-integrations-changes-in-1-13-1|27 Apps and
+  Integrations changes in 1.13.1]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2026-03-17-v0-34-0-github-298158994-68230a41|gemini-cli-2026-03-17-v0-34-0-github-298158994-68230a41]]'
 source_type: github_releases
 theme: apps-integrations
@@ -103,7 +103,7 @@ Source: https://github.com/google-gemini/gemini-cli/releases/tag/v0.34.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-03-17 · Claude Code · [[Changes/Claude Code/2026-03-17-2-apps-and-integrations-changes-in-v2-1-77|2 Apps and Integrations changes in v2.1.77]]
+- Earlier: 2026-03-17 · Dify · [[Changes/Dify/2026-03-17-27-apps-and-integrations-changes-in-1-13-1|27 Apps and Integrations changes in 1.13.1]]
 - Later: 2026-03-17 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-03-17-add-experimental-sdk-session-apis-to-list-and-manage-skills-mcp-servers-and-plug|Add experimental SDK session APIs to list and manage skills, MCP servers…]]
 <!-- chronolog:end -->
 

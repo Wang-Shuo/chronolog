@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: f5f1ec0d94bbfe7ab4d335aee43a1600aa905ff99637c9e1b4ac0d7f885c3c6a
+machine_hash: 338f36540f5635ec9010ff5bb7fec3a4537c4a1adf2faefebb57004dca7c674e
 product: cline
 product_name: Cline
 record:
@@ -60,10 +60,9 @@ record:
     Code…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-06-29-added-support-for-organization-default-models-admins-set-it-in-the-org-console-i|Added
-  support for organization default models]]'
-- '[[Changes/Cline/2026-06-29-4-model-support-changes-in-v4-0-2|4 Model Support changes
-  in v4.0.2]]'
+- '[[Changes/Open WebUI/2026-06-29-25-model-support-changes-in-v0-10-0|25 Model Support
+  changes in v0.10.0]]'
+- '[[Changes/Claude/2026-06-30-claude-sonnet-5-launch|Claude Sonnet 5 launch]]'
 - '[[Changes/Claude Code/2026-06-30-introducing-claude-sonnet-5-now-the-default-model-in-claude-code-with-a-native-1|Introducing
   Claude Sonnet 5]]'
 source_release: '[[Releases/Cline/cline-2026-06-30-v4-0-5-github-347073726-bcc213b8|cline-2026-06-30-v4-0-5-github-347073726-bcc213b8]]'

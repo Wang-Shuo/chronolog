@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 5eaae2af8c278c219038e1f2b820d49b42d0fe5068e8fcb36223ea1f77c6b76e
+machine_hash: 3628b3d55f40fa84f01b58ac2af658b04dfadc6290d05cfe524951bbbba6d740
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -129,7 +129,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.122.0
 ## Nearby in Context Window
 
 - Earlier: 2026-04-17 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-04-17-3-context-window-changes-in-v1-0-32|3 Context Window changes in v1.0.32]]
-- Later: 2026-04-23 · Codex CLI · [[Changes/Codex CLI/2026-04-23-18794-organize-context-fragments-pakrym-oai|♯18794 Organize context fragments @pakrym-oai]]
+- Later: 2026-04-21 · Open WebUI · [[Changes/Open WebUI/2026-04-21-8-context-window-changes-in-v0-9-0|8 Context Window changes in v0.9.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

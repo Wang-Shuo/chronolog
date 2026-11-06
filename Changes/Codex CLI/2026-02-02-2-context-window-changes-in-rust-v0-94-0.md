@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 2504344da74518901cc0292d67f369244c94d0e70d39b2b285dc045f8cc753c2
+machine_hash: f8023dee9ed4d1496d7598e50fbbfbd4133c08aa84815da28b0d00cc366b90fb
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -42,9 +42,9 @@ record:
   title: 2 Context Window changes in rust-v0.94.0
   type: change
 related_changes:
-- '[[Changes/Cline/2026-01-30-new-model-added-kimi-k2-5-model-to-moonshot-provider-262k-context-image-support-53f1f0|_New
+- '[[Changes/Cline/2026-01-30-new-model-added-kimi-k2-5-model-to-moonshot-provider-262k-context-image-support-53f1f0|New
   model: Added Kimi-K2.5 model to Moonshot provider…]]'
-- '[[Changes/Cline/2026-01-30-new-model-added-kimi-k2-5-model-to-moonshot-provider-262k-context-image-support-9b8adb|_New
+- '[[Changes/Cline/2026-01-30-new-model-added-kimi-k2-5-model-to-moonshot-provider-262k-context-image-support-9b8adb|New
   model: Added Kimi-K2.5 model to Moonshot provider…]]'
 - '[[Changes/Codex CLI/2026-01-31-6-context-window-changes-in-rust-v0-93-0|6 Context
   Window changes in rust-v0.93.0]]'

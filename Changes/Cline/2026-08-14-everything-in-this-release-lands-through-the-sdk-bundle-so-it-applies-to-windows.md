@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 43353e5628f1f67ac013bd06b1ca8e3bc7c3cf6b41bb003980c5d10b0411bc69
+machine_hash: ea0d12ed83401d20710172c7fe181c77ab96669374c74489bef70e5d29e0612a
 product: cline
 product_name: Cline
 record:
@@ -48,10 +48,10 @@ record:
     windows…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-08-13-4-apps-and-integrations-changes-in-v2-1-232|4
-  Apps and Integrations changes in v2.1.232]]'
 - '[[Changes/Cline/2026-08-13-these-land-through-sdk-v0-0-74-and-therefore-apply-to-windows-running-the-sdk-bu|These
   land through SDK v0.0.74 and therefore apply to windows running the SDK…]]'
+- '[[Changes/Lovable/2026-08-13-build-dashboards-from-your-snowflake-semantic-views|Build
+  dashboards from your Snowflake semantic views]]'
 - '[[Changes/Claude Code/2026-08-14-2-apps-and-integrations-changes-in-v2-1-233|2
   Apps and Integrations changes in v2.1.233]]'
 source_release: '[[Releases/Cline/cline-2026-08-14-v4-1-10-github-370718211-daf3638f|cline-2026-08-14-v4-1-10-github-370718211-daf3638f]]'
@@ -86,7 +86,7 @@ type: change
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-08-14 · Claude Code · [[Changes/Claude Code/2026-08-14-2-apps-and-integrations-changes-in-v2-1-233|2 Apps and Integrations changes in v2.1.233]]
-- Later: 2026-08-17 · Claude Code · [[Changes/Claude Code/2026-08-17-remote-control-signing-this-computer-in-to-a-different-claude-ai-account-or-orga|Remote Control: signing this computer in to a different claude.ai account…]]
+- Later: 2026-08-14 · Replit · [[Changes/Replit/2026-08-14-connect-more-mcp-servers|Connect more MCP servers]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

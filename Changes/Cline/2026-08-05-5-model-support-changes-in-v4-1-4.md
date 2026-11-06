@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: ad81217d8027bfefebef7623e1f08aa9661c61a75a0a1b3a9fc7d071b246dced
+machine_hash: 19a3a054fe2234b5c4554b85f54e3776f5f914c40f100c8b12a6c089267fe33f
 product: cline
 product_name: Cline
 record:
@@ -56,12 +56,12 @@ record:
   title: 5 Model Support changes in v4.1.4
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-08-03-the-allow-all-auto-safety-judge-model-is-no-longer-user-configurable-the-judge-m|The
-  /allow-all auto safety-judge model is no longer user-configurable]]'
 - '[[Changes/Claude Code/2026-08-04-3-model-support-changes-in-v2-1-221|3 Model Support
   changes in v2.1.221]]'
 - '[[Changes/Claude Code/2026-08-04-improved-the-refusal-when-claude-tries-to-invoke-a-skill-with-disable-model-invo|Improved
   the refusal when Claude tries to invoke a skill with disable-model-invocation]]'
+- '[[Changes/Ollama/2026-08-04-ollama-run-kimi-k3-now-offers-kimi-k3-cloud-for-cloud-only-models-that-publish-n|ollama
+  run kimi-k3 now offers kimi-k3:cloud for cloud-only models that publish…]]'
 source_release: '[[Releases/Cline/cline-2026-08-05-v4-1-4-github-365446897-8becc947|cline-2026-08-05-v4-1-4-github-365446897-8becc947]]'
 source_type: github_releases
 theme: model-support
@@ -104,7 +104,7 @@ Source: https://github.com/cline/cline/releases/tag/v4.1.4
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-08-04 · Claude Code · [[Changes/Claude Code/2026-08-04-improved-the-refusal-when-claude-tries-to-invoke-a-skill-with-disable-model-invo|Improved the refusal when Claude tries to invoke a skill with disable-model-invocation]]
+- Earlier: 2026-08-04 · Ollama · [[Changes/Ollama/2026-08-04-ollama-run-kimi-k3-now-offers-kimi-k3-cloud-for-cloud-only-models-that-publish-n|ollama run kimi-k3 now offers kimi-k3:cloud for cloud-only models that publish…]]
 - Later: 2026-08-05 · Cline · [[Changes/Cline/2026-08-05-explain-when-a-free-model-promotion-ends-requests-to-a-retired-free-model-now-sh|Explain when a free model promotion ends]]
 <!-- chronolog:end -->
 

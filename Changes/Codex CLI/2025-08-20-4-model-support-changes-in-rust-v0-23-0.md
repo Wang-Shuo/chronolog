@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: e02c1f792b6b59395410d30d486881ba431813c5d9ffae0226bfa73074759eb5
+machine_hash: 4c8f484e91e8abef2948b4dd99b57c4b91fd061a23e83e2e1ea5785d3c17bcd3
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -50,8 +50,8 @@ record:
   title: 4 Model Support changes in rust-v0.23.0
   type: change
 related_changes:
-- '[[Changes/Cline/2025-08-15-add-support-for-200k-context-for-claude-sonnet-4-using-openrouter-cline-by-saoud|Add
-  support for 200k context for claude sonnet 4 using openrouter/cline]]'
+- '[[Changes/Ollama/2025-08-15-ollama-flash-attention-1-will-also-enable-flash-attention-for-pure-cpu-models|OLLAMA_FLASH_ATTENTION=1
+  will also enable flash attention for pure-CPU models]]'
 - '[[Changes/Gemini CLI/2025-08-18-4-model-support-changes-in-v0-1-22|4 Model Support
   changes in v0.1.22]]'
 - '[[Changes/Cline/2025-08-20-2-model-support-changes-in-v3-26-0|2 Model Support changes

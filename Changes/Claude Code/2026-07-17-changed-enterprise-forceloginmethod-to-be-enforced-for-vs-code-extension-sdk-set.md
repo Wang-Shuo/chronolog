@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: db9c54d94beaf42062c5e571d9d3ebfa6ca8c34590d61fcadc19543edbe100c1
+machine_hash: 502a9a3f19bdc590011d05fb358a93c73640c1c7d2b04fdbdfadb3c1a2995aaa
 product: claude-code
 product_name: Claude Code
 record:
@@ -85,7 +85,7 @@ type: change
 ## Nearby in Developer Workflow
 
 - Earlier: 2026-07-16 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-07-16-8-developer-workflow-changes-in-v1-0-71|8 Developer Workflow changes in v1.0.71]]
-- Later: 2026-07-19 · Claude Code · [[Changes/Claude Code/2026-07-19-claude-no-longer-runs-the-verify-and-code-review-skills-on-its-own-invoke-them-w|Claude no longer runs the /verify and /code-review skills on its own]]
+- Later: 2026-07-17 · Dify · [[Changes/Dify/2026-07-17-3-developer-workflow-changes-in-1-16-0|3 Developer Workflow changes in 1.16.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

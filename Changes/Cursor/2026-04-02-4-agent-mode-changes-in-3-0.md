@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 3a45bc6f128cce6d738b052c0d9d12056575142031089f45124ab8f6acf78ca6
+machine_hash: 19d1c9edbb4ac9c64c2a6ad7b48c00083f22971fcd2198ce97c0dfc0cad6d610
 product: cursor
 product_name: Cursor
 record:
@@ -48,10 +48,8 @@ record:
   title: 4 Agent Mode changes in 3.0
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-04-01-3-agent-mode-changes-in-v2-1-89|3 Agent Mode changes
-  in v2.1.89]]'
-- '[[Changes/Cline/2026-04-01-exclude-new-task-tool-from-system-prompt-in-yolo-headless-mode|Exclude
-  new_task tool from system prompt in yolo/headless mode]]'
+- '[[Changes/ElevenLabs/2026-04-01-packages|Packages]]'
+- '[[Changes/ElevenLabs/2026-04-01-new-endpoints|New Endpoints]]'
 - '[[Changes/Gemini CLI/2026-04-01-10-agent-mode-changes-in-v0-36-0|10 Agent Mode
   changes in v0.36.0]]'
 source_release: '[[Releases/Cursor/cursor-2026-04-02-3-0-https-cursor-com-changelog-3-0-c58cd2ad|cursor-2026-04-02-3-0-https-cursor-com-changelog-3-0-c58cd2ad]]'
@@ -103,7 +101,7 @@ Source: https://cursor.com/changelog/3-0
 ## Nearby in Agent Mode
 
 - Earlier: 2026-04-01 · Gemini CLI · [[Changes/Gemini CLI/2026-04-01-10-agent-mode-changes-in-v0-36-0|10 Agent Mode changes in v0.36.0]]
-- Later: 2026-04-03 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-04-03-built-in-skills-are-now-included-with-the-cli-starting-with-a-guide-for-customiz|Built-in skills are now included with the CLI, starting with a guide for customizing…]]
+- Later: 2026-04-02 · Lovable · [[Changes/Lovable/2026-04-02-ai-powered-visual-edits|AI-powered visual edits]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

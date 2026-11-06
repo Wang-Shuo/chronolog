@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: b7181f66e2c2cbae0c60776682c17ac4d62d9622c58bfcdd747544d1368c57b5
+machine_hash: b912de5a6e4d5d7cdd1feb8c93840fbbbfce38a57a221a574473152ca4dbaaa6
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -44,8 +44,8 @@ record:
     config…
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2026-01-14-feat-add-folder-suggestions-to-dir-add-command-by-jackwotherspoon-in-https-githu|feat:
-  add folder suggestions to /dir add command]]'
+- '[[Changes/Dify/2026-01-15-please-use-the-following-command-instead-for-details-please-read-this-https-gith|
+  Please use the following command instead]]'
 - '[[Changes/Claude Code/2026-01-16-added-session-url-attribution-to-commits-and-prs-created-from-web-sessions|Added
   session URL attribution to commits and PRs created from web sessions]]'
 - '[[Changes/Codex CLI/2026-01-16-input-prompt-placeholder-styling-is-back-to-non-italic-to-avoid-terminal-renderi|Input

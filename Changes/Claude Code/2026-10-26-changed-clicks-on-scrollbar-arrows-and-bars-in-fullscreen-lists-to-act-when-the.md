@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 731b4c273a739af9087e12595ea76605215144c76fd6cf0b4adcedeaa4cee1fc
+machine_hash: 9d6be574f52fd8f7e870d7dd557d77628bb758574e7d2b825844f08f55055f5a
 product: claude-code
 product_name: Claude Code
 record:
@@ -44,12 +44,12 @@ record:
   title: Changed clicks on scrollbar arrows and bars in fullscreen lists to act…
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-10-23-9-interface-experience-changes-in-rust-v0-164-0|9
-  Interface Experience changes in rust-v0.164.0]]'
 - '[[Changes/OpenHands/2026-10-23-refactor-sidebar-express-mobile-drawer-duration-in-css-by-enyst-in-https-github|refactor(sidebar):
   express mobile drawer duration in CSS]]'
 - '[[Changes/Windsurf/2026-10-23-2-interface-experience-changes-in-v3-11-212|2 Interface
   Experience changes in v3.11.212]]'
+- '[[Changes/Open WebUI/2026-10-25-13-interface-experience-changes-in-v0-12-4|13 Interface
+  Experience changes in v0.12.4]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-10-26-v2-1-311-github-424682562-151da26b|claude-code-2026-10-26-v2-1-311-github-424682562-151da26b]]'
 source_type: github_releases
 theme: interface-experience
@@ -88,8 +88,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-10-23 · Windsurf · [[Changes/Windsurf/2026-10-23-2-interface-experience-changes-in-v3-11-212|2 Interface Experience changes in v3.11.212]]
-- Later: 2026-10-27 · Claude Code · [[Changes/Claude Code/2026-10-27-2-interface-experience-changes-in-v2-1-312|2 Interface Experience changes in v2.1.312]]
+- Earlier: 2026-10-25 · Open WebUI · [[Changes/Open WebUI/2026-10-25-13-interface-experience-changes-in-v0-12-4|13 Interface Experience changes in v0.12.4]]
+- Later: 2026-10-26 · ElevenLabs · [[Changes/ElevenLabs/2026-10-26-transcript-downloads-the-dubbing-project-menu-can-download-target-language-trans|Transcript downloads: The dubbing project menu can download target language…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

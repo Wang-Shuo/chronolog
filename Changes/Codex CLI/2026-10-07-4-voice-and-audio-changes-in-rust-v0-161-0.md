@@ -5,20 +5,20 @@ description: 'Codex CLI · 2026-10-07 · Voice and Audio: 4 changes in 0.161.0 �
   your microphone, speaker, and microphone input channels for voice conversations,
   with…'
 diffusion:
-  first_in_tracked: '[[Changes/Aider/2023-08-11-voice-to-code-https-aider-chat-docs-voice-html-support-which-allows-you-to-code|Voice-to-code((source
-    link) support, which allows you…]]'
+  first_in_tracked: '[[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2
+    Voice and Audio changes in 0.3.7]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1153
+  lag_days: 1185
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 44d00141ce2b02eb6925063db8ef1fcf36f98bb86184e9b68150f2f8f8465bd3
+machine_hash: 646e4c93f350b1ebdd204b15cc7d98d7da4c7b640c9e18235ee4d6b4a6c47a21
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -109,7 +109,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.161.0
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-08-11 · Aider · [[Changes/Aider/2023-08-11-voice-to-code-https-aider-chat-docs-voice-html-support-which-allows-you-to-code|Voice-to-code((source link) support, which allows you…]]
+- Earliest same-theme entry in the tracked set: 2023-07-10 · Dify · [[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2 Voice and Audio changes in 0.3.7]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

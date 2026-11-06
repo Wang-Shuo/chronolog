@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: f7337db36cddfe7c8198b238fe3199e657a00793616256dba3be3602183adf9d
+machine_hash: 5d4811b13e68a0c4799505a33d560e68723b8f4e7703aa91be20ab3739562a0c
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -67,12 +67,11 @@ record:
   title: More personalization in Custom Instructions
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2024-11-22-improved-mobile-web-experience|Improved Mobile Web
-  Experience]]'
-- '[[Changes/OpenHands/2024-12-12-make-layout-responsive-for-mobile-devices-by-tofarr-in-https-github-com-all-hand|Make
-  layout responsive for mobile devices]]'
 - '[[Changes/Aider/2024-12-26-improved-environment-variable-setup-messages-on-windows|Improved
   environment variable setup messages on Windows]]'
+- "[[Changes/Open WebUI/2025-01-05-native-notifications-for-channel-messages-stay-informed-with-integrated-desktop|\U0001F4E3
+  Native Notifications for Channel Messages]]"
+- '[[Changes/Replit/2025-01-10-teams-mobile-search|Teams mobile search]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-01-17-more-personalization-in-custom-instructions-bab36367|chatgpt-2025-01-17-more-personalization-in-custom-instructions-bab36367]]'
 source_type: chatgpt_changelog
 theme: mobile-desktop
@@ -99,8 +98,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2024-12-26 · Aider · [[Changes/Aider/2024-12-26-improved-environment-variable-setup-messages-on-windows|Improved environment variable setup messages on Windows]]
-- Later: 2025-02-14 · ChatGPT · [[Changes/ChatGPT/2025-02-14-confirmation-dialog-for-logging-out-ios-web|Confirmation dialog for logging out (iOS, web)]]
+- Earlier: 2025-01-10 · Replit · [[Changes/Replit/2025-01-10-teams-mobile-search|Teams mobile search]]
+- Later: 2025-01-17 · Replit · [[Changes/Replit/2025-01-17-web-view-mobile-support|Web view mobile support]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

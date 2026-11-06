@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 6cfadfd9d4a83fd4f4a1c27a3557063a915d670b118ba7cd76d2145574b2e808
+machine_hash: c46d9571d6730bf60e3d71c1f06637f862f9a069eb957808b7eaf5f83ba89d56
 product: cursor
 product_name: Cursor
 record:
@@ -51,10 +51,10 @@ record:
   title: Cmd-K in the terminal!
   type: change
 related_changes:
-- '[[Changes/Cursor/2023-08-22-you-can-now-reply-to-cmd-k-outputs-making-it-much-easier-to-have-the-model-revis|Reply
-  to Cmd-K outputs, making it much easier to have the model revise its work]]'
 - '[[Changes/Cursor/2023-09-05-cmd-k-will-no-longer-output-backticks-if-you-do-file|Cmd-K
   will no longer output backticks if you do @file]]'
+- '[[Changes/Dify/2023-09-10-the-query-parameter-in-the-post-v1-completion-messages-endpoint-of-the-app-opena|The
+  query parameter in the POST /v1/completion-messages endpoint of the App…]]'
 - '[[Changes/Cursor/2023-09-19-you-can-now-alternate-between-diffs-and-texts-responses-in-cmd-k-this-can-be-hel|Inline
   Chat]]'
 source_release: '[[Releases/Cursor/cursor-2023-09-21-0-11-3-nightly-https-cursor-com-changelog-0-11-3-nightly-a09e54fc|cursor-2023-09-21-0-11-3-nightly-https-cursor-com-changelog-0-11-3-nightly-a09e54fc]]'

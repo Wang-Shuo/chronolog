@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: b82e91c4eb05dd09e5a2a057dcaf5cff243f56b143b5d95bb167d4dd3211bf6d
+machine_hash: 0678b955320487970959eff4b0e3d693b28870d22e1c0768829c176e8f5b798d
 product: aider
 product_name: Aider
 record:
@@ -41,9 +41,9 @@ record:
   title: Added Ctrl-Up/Down keyboard shortcuts for per-message history navigation
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2024-11-22-the-new-chat-button-has-been-moved-to-the-left-of-the-model-picker-to-be-easier|The
-  new chat button has been moved to the left of the Model Picker to be easier to access]]'
 - '[[Changes/ChatGPT/2024-11-22-sidebar-redesign-e6413a|Sidebar redesign]]'
+- "[[Changes/Open WebUI/2024-11-23-mobile-controls-visibility-resolved-an-issue-where-the-controls-button-was-not-d|\U0001F4F1
+  Mobile Controls Visibility]]"
 - '[[Changes/Cursor/2024-11-24-composer-ui-in-the-sidebar-with-inline-diffs|Composer
   UI in the sidebar with inline diffs]]'
 source_release: '[[Releases/Aider/aider-2024-12-01-v0-66-0-github-188357801-0e641110|aider-2024-12-01-v0-66-0-github-188357801-0e641110]]'
@@ -78,7 +78,7 @@ type: change
 ## Nearby in Interface Experience
 
 - Earlier: 2024-11-24 · Cursor · [[Changes/Cursor/2024-11-24-composer-ui-in-the-sidebar-with-inline-diffs|Composer UI in the sidebar with inline diffs]]
-- Later: 2024-12-06 · Aider · [[Changes/Aider/2024-12-06-2-interface-experience-changes-in-v0-67-0|2 Interface Experience changes in v0.67.0]]
+- Later: 2024-12-03 · Lovable · [[Changes/Lovable/2024-12-03-2-interface-experience-changes-in-lovable-updates-2024-12-03|2 Interface Experience changes in Lovable updates — 2024-12-03]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

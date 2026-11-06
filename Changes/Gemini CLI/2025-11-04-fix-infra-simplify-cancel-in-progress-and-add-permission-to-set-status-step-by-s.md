@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 1b5032ed42d23092f11e40b29aa7ed55d1f46ba021f6d83a3498c77e8b15e92a
+machine_hash: 961846780dbc2ad23c4bcb02a13b06d19f8d5bfa0edc3909e272a373c8ff2138
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -90,7 +90,7 @@ type: change
 ## Nearby in Safety and Privacy
 
 - Earlier: 2025-11-04 · Codex CLI · [[Changes/Codex CLI/2025-11-04-3-safety-and-privacy-changes-in-rust-v0-54-0|3 Safety and Privacy changes in rust-v0.54.0]]
-- Later: 2025-11-07 · Codex CLI · [[Changes/Codex CLI/2025-11-07-2-safety-and-privacy-changes-in-rust-v0-56-0|2 Safety and Privacy changes in rust-v0.56.0]]
+- Later: 2025-11-05 · ElevenLabs · [[Changes/ElevenLabs/2025-11-05-security|Security]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

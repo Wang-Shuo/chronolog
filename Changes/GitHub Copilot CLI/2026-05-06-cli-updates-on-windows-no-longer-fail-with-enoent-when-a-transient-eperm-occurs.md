@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 4d38e83807b2e43c120e6e89accf7a6a1da722bdbea0589467853476bdb7fcfc
+machine_hash: 7dfdc6f4c49f3c266ea4c1b8aec18d7defaa3d001c1f17fd7d50a23f2e0fe639
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -46,10 +46,9 @@ record:
     occurs…
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-04-29-the-agents-that-run-in-the-cursor-desktop-app-cli-and-web-app-are-now-accessible|The
-  agents that run in the Cursor desktop app, CLI, and web app are now accessible…]]'
-- '[[Changes/Codex CLI/2026-04-30-3-mobile-and-desktop-changes-in-rust-v0-128-0|3
-  Mobile and Desktop changes in rust-v0.128.0]]'
+- '[[Changes/Ollama/2026-05-03-3-mobile-and-desktop-changes-in-v0-23-0|3 Mobile and
+  Desktop changes in v0.23.0]]'
+- '[[Changes/ElevenLabs/2026-05-04-android-sdk|Android SDK]]'
 - '[[Changes/GitHub Copilot CLI/2026-05-05-package-extraction-no-longer-crashes-on-windows-when-antivirus-or-filesystem-loc|Package
   extraction no longer crashes on Windows when antivirus or filesystem locks…]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-05-06-v1-0-42-github-318458746-856bb0d7|github-copilot-cli-2026-05-06-v1-0-42-github-318458746-856bb0d7]]'

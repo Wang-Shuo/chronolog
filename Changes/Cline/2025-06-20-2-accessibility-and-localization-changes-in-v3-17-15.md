@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: accessibility-localization
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 6fbcea5b013ca8d4b37afd070a4b5cc577f4f007ff9a1cbfb259926fb00020df
+machine_hash: e80d4dbc7b2afc60b77bb0ce0b595b8d334789f035e7552ccc1721e0d07f1fe1
 product: cline
 product_name: Cline
 record:
@@ -44,12 +44,12 @@ record:
   title: 2 Accessibility and Localization changes in v3.17.15
   type: change
 related_changes:
-- '[[Changes/Aider/2025-03-04-added-support-for-tree-sitter-language-pack|Added support
-  for tree-sitter language pack]]'
-- '[[Changes/Aider/2025-03-10-switch-to-tree-sitter-language-pack-for-tree-sitter-support|Switch
-  to tree-sitter-language-pack for tree sitter support]]'
-- '[[Changes/Aider/2025-03-13-big-upgrade-in-programming-languages-supported-https-aider-chat-docs-languages-h|Big
-  upgrade in programming languages…]]'
+- '[[Changes/Open WebUI/2025-06-10-3-accessibility-and-localization-changes-in-v0-6-14|3
+  Accessibility and Localization changes in v0.6.14]]'
+- '[[Changes/Dify/2025-06-16-localized-documentation-updates-documentation-link-updates-now-support-localizat|Localized
+  Documentation Updates]]'
+- "[[Changes/Open WebUI/2025-06-16-new-accessibility-enhancements-across-the-interface-benefit-from-significant-acc|\U0001F310
+  New Accessibility Enhancements Across the Interface]]"
 source_release: '[[Releases/Cline/cline-2025-06-20-v3-17-15-github-226774542-7d02d01d|cline-2025-06-20-v3-17-15-github-226774542-7d02d01d]]'
 source_type: github_releases
 theme: accessibility-localization
@@ -82,8 +82,8 @@ Source: https://github.com/cline/cline/releases/tag/v3.17.15
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Accessibility and Localization
 
-- Earlier: 2025-03-13 · Aider · [[Changes/Aider/2025-03-13-big-upgrade-in-programming-languages-supported-https-aider-chat-docs-languages-h|Big upgrade in programming languages…]]
-- Later: 2025-09-04 · Gemini CLI · [[Changes/Gemini CLI/2025-09-04-introduce-initial-screen-reader-mode-handling-and-flag-by-chrstnb-in-https-githu|Introduce initial screen reader mode handling and flag]]
+- Earlier: 2025-06-16 · Open WebUI · [[Changes/Open WebUI/2025-06-16-new-accessibility-enhancements-across-the-interface-benefit-from-significant-acc|🌐 New Accessibility Enhancements Across the Interface]]
+- Later: 2025-07-14 · Open WebUI · [[Changes/Open WebUI/2025-07-14-accessibility-high-contrast-theme-enhancements-major-accessibility-overhaul-with|🎨 Accessibility & High-Contrast Theme Enhancements]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

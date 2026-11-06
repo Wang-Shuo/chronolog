@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 6abb304b4cc73f798882fba185b25e3fbcf735e6c8e78b10ea1a69328c7b436a
+machine_hash: 4fe918049b1311583dc75c484e990c52ceea247664b908d1d9bbb664534dc762
 product: cline
 product_name: Cline
 record:
@@ -44,12 +44,12 @@ record:
   title: Complete telemetry attribution for model/provider tracking
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2025-11-04-2-model-support-changes-in-rust-v0-54-0|2 Model
-  Support changes in rust-v0.54.0]]'
 - '[[Changes/Gemini CLI/2025-11-04-2-model-support-changes-in-v0-12-0|2 Model Support
   changes in v0.12.0]]'
 - '[[Changes/ChatGPT/2025-11-05-you-can-now-interrupt-long-running-queries-such-as-deep-research-or-gpt-5-pro-to|Interrupt
   ChatGPT]]'
+- '[[Changes/Ollama/2025-11-05-2-model-support-changes-in-v0-12-10|2 Model Support
+  changes in v0.12.10]]'
 source_release: '[[Releases/Cline/cline-2025-11-06-v3-36-0-github-260111710-dee57321|cline-2025-11-06-v3-36-0-github-260111710-dee57321]]'
 source_type: github_releases
 theme: model-support
@@ -81,8 +81,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2025-11-05 · ChatGPT · [[Changes/ChatGPT/2025-11-05-you-can-now-interrupt-long-running-queries-such-as-deep-research-or-gpt-5-pro-to|Interrupt ChatGPT]]
-- Later: 2025-11-07 · Codex CLI · [[Changes/Codex CLI/2025-11-07-introducing-our-new-model-gpt-5-codex-mini-a-more-compact-and-cost-efficient-ver|Introducing our new model GPT-5-Codex-Mini]]
+- Earlier: 2025-11-05 · Ollama · [[Changes/Ollama/2025-11-05-2-model-support-changes-in-v0-12-10|2 Model Support changes in v0.12.10]]
+- Later: 2025-11-06 · Open WebUI · [[Changes/Open WebUI/2025-11-06-10-model-support-changes-in-v0-6-35|10 Model Support changes in v0.6.35]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

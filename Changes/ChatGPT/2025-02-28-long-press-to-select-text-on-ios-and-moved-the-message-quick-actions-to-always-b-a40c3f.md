@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 116e4ec974ea9b6778b53635e0a28e9c55e135a13abc8bd60254e7e70745c6a3
+machine_hash: dcf866d04869355f3b93cbdb68c711563cfdd4a6ff05a0e1ba3c1c049e4f32d6
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -44,11 +44,10 @@ record:
   title: Long press to select text on iOS and moved the message quick actions to always…
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2025-02-14-confirmation-dialog-for-logging-out-ios-web|Confirmation
-  dialog for logging out (iOS, web)]]'
-- '[[Changes/ChatGPT/2025-02-14-updated-launch-animations-and-composer-design-on-android|Updated
-  launch animations and composer design on Android]]'
+- "[[Changes/Open WebUI/2025-02-20-mobile-hover-issue-resolved-users-can-now-edit-responses-smoothly-on-mobile-with|\U0001F4F1
+  Mobile Hover Issue Resolved]]"
 - '[[Changes/ChatGPT/2025-02-21-ios-widget-see-below|iOS widget (see below)]]'
+- "[[Changes/Replit/2025-02-21-replit-expo|Replit \U0001F91D Expo]]"
 source_release: '[[Releases/ChatGPT/chatgpt-2025-02-28-general-ios-long-press-to-select-text-on-ios-and-moved-the-messa-04ecc8ba|chatgpt-2025-02-28-general-ios-long-press-to-select-text-on-ios-and-moved-the-messa-04ecc8ba]]'
 source_type: chatgpt_changelog
 theme: mobile-desktop
@@ -75,8 +74,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2025-02-21 · ChatGPT · [[Changes/ChatGPT/2025-02-21-ios-widget-see-below|iOS widget (see below)]]
-- Later: 2025-03-10 · Aider · [[Changes/Aider/2025-03-10-specify-desktop-notification-command-with-notifications-command|Specify desktop notification command with --notifications-command]]
+- Earlier: 2025-02-21 · Replit · [[Changes/Replit/2025-02-21-replit-expo|Replit 🤝 Expo]]
+- Later: 2025-03-03 · Gemini · [[Changes/Gemini/2025-03-03-new-extensions-available-in-all-gemini-countries-and-languages|New extensions available in all Gemini countries and languages]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 3066c624821d6b555cd7e259f4144dbd9aae10013dd36e08c98a314f86e0c3c7
+machine_hash: d8e51c200dc52374e2bba32e845800b07eaa223ce80adcadc2cea32911fbcb2f
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -46,10 +46,10 @@ record:
     and bug…
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-03-11-5-reliability-and-performance-changes-in-0-47-x|5 Reliability
-  and Performance changes in 0.47.x]]'
-- '[[Changes/Cursor/2025-03-11-this-release-focuses-mainly-on-stability-and-performance-improvements-to-make-ex|This
-  release focuses mainly on stability and performance improvements to make…]]'
+- '[[Changes/Dify/2025-03-11-stability-reliability-tackled-pesky-bugs-be-it-with-document-extracts-chat-compo|Stability
+  & Reliability]]'
+- '[[Changes/Replit/2025-03-14-web-view-performance-improvements|Web View performance
+  improvements]]'
 - '[[Changes/Cline/2025-03-15-improve-checkpoints-loading-performance-and-display-warning-for-large-projects-n|Improve
   checkpoints loading performance and display warning for large projects not…]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-03-18-web-and-the-windows-desktop-app-ef646255|chatgpt-2025-03-18-web-and-the-windows-desktop-app-ef646255]]'

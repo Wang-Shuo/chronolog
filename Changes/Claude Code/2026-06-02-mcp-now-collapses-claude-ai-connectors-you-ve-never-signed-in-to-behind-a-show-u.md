@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 5d1d228941b605a5b345ffc0b9fc01dedabff5222caac6e1835e13462af2f2c3
+machine_hash: 861ec0fb487b20ced0cb8c3c0afe28f3d89a64008414d5ea37ad549cd8d926d8
 product: claude-code
 product_name: Claude Code
 record:
@@ -43,12 +43,11 @@ record:
   title: '`/mcp` now collapses claude.ai connectors you''ve never signed in to behind…'
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-05-29-2-apps-and-integrations-changes-in-v1-0-56|2
-  Apps and Integrations changes in v1.0.56]]'
-- '[[Changes/Codex CLI/2026-06-01-20-apps-and-integrations-changes-in-rust-v0-136-0|20
-  Apps and Integrations changes in rust-v0.136.0]]'
 - '[[Changes/GitHub Copilot CLI/2026-06-01-5-apps-and-integrations-changes-in-v1-0-57|5
   Apps and Integrations changes in v1.0.57]]'
+- '[[Changes/Lovable/2026-06-01-app-connector-salesforce|App connector: Salesforce]]'
+- '[[Changes/Open WebUI/2026-06-01-4-apps-and-integrations-changes-in-v0-9-6|4 Apps
+  and Integrations changes in v0.9.6]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-06-02-v2-1-161-github-333271302-7337e6fa|claude-code-2026-06-02-v2-1-161-github-333271302-7337e6fa]]'
 source_type: github_releases
 theme: apps-integrations
@@ -81,7 +80,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-06-01 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-06-01-5-apps-and-integrations-changes-in-v1-0-57|5 Apps and Integrations changes in v1.0.57]]
+- Earlier: 2026-06-01 · Open WebUI · [[Changes/Open WebUI/2026-06-01-4-apps-and-integrations-changes-in-v0-9-6|4 Apps and Integrations changes in v0.9.6]]
 - Later: 2026-06-02 · Claude Code · [[Changes/Claude Code/2026-06-02-removed-the-jetbrains-plugin-install-suggestion-from-startup|Removed the JetBrains plugin install suggestion from startup]]
 <!-- chronolog:end -->
 

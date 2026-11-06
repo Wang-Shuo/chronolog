@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 751de990ad1de3411f6b1d7432bc365dada1c8dea2b93d25ba50f6e76e1bcdcc
+machine_hash: 6d2c0f20afe7014c5d8e7693493eba539bde8022711d6edd962102655963c6da
 product: cline
 product_name: Cline
 record:
@@ -44,9 +44,9 @@ record:
   title: 2 Editor Experience changes in v3.38.3
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-11-21-4-editor-experience-changes-in-2-1|4 Editor Experience
-  changes in 2.1]]'
 - '[[Changes/Windsurf/2025-11-21-tab-completion|Tab Completion]]'
+- '[[Changes/Dify/2025-11-26-introduced-a-broad-set-of-workflow-editor-improvements-including-ui-refinement-s|Introduced
+  a broad set of workflow-editor improvements, including UI refinement…]]'
 - '[[Changes/Gemini CLI/2025-11-26-restore-keyboard-mode-when-exiting-the-editor-by-scidomino-in-https-github-com-g|Restore
   keyboard mode when exiting the editor]]'
 source_release: '[[Releases/Cline/cline-2025-11-27-v3-38-3-github-265611552-4d743450|cline-2025-11-27-v3-38-3-github-265611552-4d743450]]'

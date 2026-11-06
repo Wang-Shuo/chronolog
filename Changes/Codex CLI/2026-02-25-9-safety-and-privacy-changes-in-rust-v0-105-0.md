@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: a40f3eb995839176bee2495d76581818e39733f8002492486af1886ed142172d
+machine_hash: 25faa3723d53b7589a95f4ab13768762643189dbc40d4ebb6106ad2a83808b87
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -61,10 +61,10 @@ record:
   title: 9 Safety and Privacy changes in rust-v0.105.0
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-02-19-3-safety-and-privacy-changes-in-v2-1-49|3 Safety
-  and Privacy changes in v2.1.49]]'
-- '[[Changes/GitHub Copilot CLI/2026-02-21-show-permission-elevation-dialog-when-accepting-a-plan-with-autopilot-to-prevent|Show
-  permission elevation dialog when accepting a plan with autopilot to prevent…]]'
+- "[[Changes/Open WebUI/2026-02-23-backend-config-null-safety-language-detection-during-app-initialization-no-longe|\U0001F6E1️
+  Backend config null safety. Language detection during app initialization no…]]"
+- '[[Changes/Open WebUI/2026-02-23-3-safety-and-privacy-changes-in-v0-8-4|3 Safety
+  and Privacy changes in v0.8.4]]'
 - '[[Changes/Claude Code/2026-02-24-3-safety-and-privacy-changes-in-v2-1-51|3 Safety
   and Privacy changes in v2.1.51]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-02-25-rust-v0-105-0-github-290476287-0c72d1ed|codex-cli-2026-02-25-rust-v0-105-0-github-290476287-0c72d1ed]]'

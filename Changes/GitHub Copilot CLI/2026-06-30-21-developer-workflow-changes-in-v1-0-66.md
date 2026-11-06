@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 4354063bfa84c31df937436711ce26ee42c419e4121123e33153a58f50dd8d9d
+machine_hash: 25850851b97ccd1856b48dab01c848e7b294fb0237b4fe7504b6c06d86906227
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -86,12 +86,12 @@ record:
   title: 21 Developer Workflow changes in v1.0.66
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2026-06-25-feat-add-eval-inventory-cli-command-and-reporting-logic-by-ved015-in-https-githu|feat:
-  add eval:inventory CLI command and reporting logic]]'
 - '[[Changes/Cline/2026-06-26-2-developer-workflow-changes-in-v4-0-0|2 Developer Workflow
   changes in v4.0.0]]'
 - '[[Changes/Claude Code/2026-06-29-2-developer-workflow-changes-in-v2-1-196|2 Developer
   Workflow changes in v2.1.196]]'
+- '[[Changes/Open WebUI/2026-06-29-42-developer-workflow-changes-in-v0-10-0|42 Developer
+  Workflow changes in v0.10.0]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-06-30-v1-0-66-github-346845066-af776740|github-copilot-cli-2026-06-30-v1-0-66-github-346845066-af776740]]'
 source_type: github_releases
 theme: developer-workflow
@@ -178,7 +178,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.66
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2026-06-29 · Claude Code · [[Changes/Claude Code/2026-06-29-2-developer-workflow-changes-in-v2-1-196|2 Developer Workflow changes in v2.1.196]]
+- Earlier: 2026-06-29 · Open WebUI · [[Changes/Open WebUI/2026-06-29-42-developer-workflow-changes-in-v0-10-0|42 Developer Workflow changes in v0.10.0]]
 - Later: 2026-07-01 · Claude Code · [[Changes/Claude Code/2026-07-01-background-agents-launched-from-claude-agents-now-commit-push-and-open-a-draft-p|Background agents launched from claude agents now commit, push, and open a draft…]]
 <!-- chronolog:end -->
 

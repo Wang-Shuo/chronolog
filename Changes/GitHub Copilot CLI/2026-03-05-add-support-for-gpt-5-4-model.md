@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 2e6a72597d51133a8564d9c0b476bdf4b97c8b933274bda84a7b9a8054310875
+machine_hash: f59f241365d8a50970b48ffa4b2d434f900ee55784e62100e075ff19ce5a0a8f
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -44,8 +44,7 @@ record:
   title: Add support for GPT-5.4 model
   type: change
 related_changes:
-- '[[Changes/Cline/2026-03-04-2-model-support-changes-in-v3-70-0|2 Model Support changes
-  in v3.70.0]]'
+- '[[Changes/v0/2026-03-04-added-auto-model-selection|Added auto model selection]]'
 - '[[Changes/Claude Code/2026-03-05-changed-sonnet-4-5-users-on-pro-max-team-premium-to-be-automatically-migrated-to|Changed
   Sonnet 4.5 users on Pro/Max/Team Premium to be automatically migrated…]]'
 - '[[Changes/Codex CLI/2026-03-05-2-model-support-changes-in-rust-v0-110-0|2 Model
@@ -88,7 +87,7 @@ type: change
 ## Nearby in Model Support
 
 - Earlier: 2026-03-05 · Codex CLI · [[Changes/Codex CLI/2026-03-05-2-model-support-changes-in-rust-v0-110-0|2 Model Support changes in rust-v0.110.0]]
-- Later: 2026-03-06 · Cline · [[Changes/Cline/2026-03-06-added-gpt-5-4-models-for-chatgpt-subscription-users|Added GPT-5.4 models for ChatGPT subscription users]]
+- Later: 2026-03-05 · Ollama · [[Changes/Ollama/2026-03-05-allow-thinking-levels-such-as-medium-to-correctly-interpreted-in-ollama-s-api-fo|Allow thinking levels such as "medium" to correctly interpreted in Ollama's API…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

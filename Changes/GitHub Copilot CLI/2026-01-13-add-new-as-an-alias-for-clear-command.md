@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 4ef9e513d78358d93e1b23b34a7e60fe520236413b4bc4491951548b47a43f93
+machine_hash: 48c7edb62891b8769ff3d0200dbf03f9bd28cc3914eec1bfb430b40667930b9e
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -44,10 +44,10 @@ record:
   title: Add `/new` as an alias for `/clear` command
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-01-12-added-claude-code-tmpdir-environment-variable-to-override-the-temp-directory-use|Added
-  CLAUDE_CODE_TMPDIR environment variable to override the temp directory used…]]'
 - '[[Changes/Claude Code/2026-01-13-3-developer-workflow-changes-in-v2-1-6|3 Developer
   Workflow changes in v2.1.6]]'
+- '[[Changes/Dify/2026-01-13-5-developer-workflow-changes-in-1-11-3|5 Developer Workflow
+  changes in 1.11.3]]'
 - '[[Changes/GitHub Copilot CLI/2026-01-13-2-developer-workflow-changes-in-v0-0-380|2
   Developer Workflow changes in v0.0.380]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-01-13-v0-0-381-github-276485455-00f2509f|github-copilot-cli-2026-01-13-v0-0-381-github-276485455-00f2509f]]'

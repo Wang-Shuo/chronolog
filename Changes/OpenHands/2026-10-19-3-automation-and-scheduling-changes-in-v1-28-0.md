@@ -4,20 +4,20 @@ date: '2026-10-19'
 description: 'OpenHands · 2026-10-19 · Automation and Scheduling: 3 changes in v1.28.0
   — feat(automations): hide templates that overlap built-in integrations on self-hosted…'
 diffusion:
-  first_in_tracked: '[[Changes/OpenHands/2024-09-04-better-syntax-error-loop-detection-by-tobitege-in-https-github-com-all-hands-ai|Better
-    syntax error loop detection]]'
+  first_in_tracked: '[[Changes/Dify/2024-01-02-add-data-clean-schedule-by-johnjyong-in-https-github-com-langgenius-dify-pull-18|Add
+    data clean schedule]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 775
+  lag_days: 1021
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: de851b5877c3f33c905a726b6b1ec7ae5ba932c858e38aa6474f405e0ad0761f
+machine_hash: 8b2be3a3ebb9a75e06805761c63fef7b5e3bddc7c795df135635ea859c9d844d
 product: openhands
 product_name: OpenHands
 record:
@@ -46,10 +46,10 @@ record:
   title: 3 Automation and Scheduling changes in v1.28.0
   type: change
 related_changes:
-- '[[Changes/OpenHands/2026-10-08-2-automation-and-scheduling-changes-in-v1-26-0|2
-  Automation and Scheduling changes in v1.26.0]]'
-- '[[Changes/OpenHands/2026-10-12-4-automation-and-scheduling-changes-in-v1-27-0|4
-  Automation and Scheduling changes in v1.27.0]]'
+- '[[Changes/Open WebUI/2026-10-14-automation-run-results-an-automation-run-is-now-recorded-as-successful-only-afte|⏰
+  Automation run results. An automation run is now recorded as successful only…]]'
+- "[[Changes/Open WebUI/2026-10-14-recurring-automations-run-once-automations-set-with-the-daily-weekly-or-monthly|\U0001F4C5
+  Recurring automations run once. Automations set with the Daily, Weekly…]]"
 - '[[Changes/GitHub Copilot CLI/2026-10-19-reasoning-only-max-token-responses-no-longer-loop-indefinitely-and-now-end-with|Reasoning-only
   max-token responses no longer loop indefinitely and now end…]]'
 source_release: '[[Releases/OpenHands/openhands-2026-10-19-v1-28-0-github-417391290-d3015a14|openhands-2026-10-19-v1-28-0-github-417391290-d3015a14]]'
@@ -99,7 +99,7 @@ Source: https://github.com/OpenHands/OpenHands/releases/tag/v1.28.0
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2024-09-04 · OpenHands · [[Changes/OpenHands/2024-09-04-better-syntax-error-loop-detection-by-tobitege-in-https-github-com-all-hands-ai|Better syntax error loop detection]]
+- Earliest same-theme entry in the tracked set: 2024-01-02 · Dify · [[Changes/Dify/2024-01-02-add-data-clean-schedule-by-johnjyong-in-https-github-com-langgenius-dify-pull-18|Add data clean schedule]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

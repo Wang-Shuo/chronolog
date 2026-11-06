@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 8fa8aa92122f7055d23fde890082a35bdb84e4b45b9ea0193f6b8307256ef940
+machine_hash: 972a9216900f8f3001b927c15ecd0c83f97a3a56a2361adee40aa6d9fa8fef17
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -99,7 +99,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.100.0
 ## Nearby in Model Support
 
 - Earlier: 2026-02-12 · Codex CLI · [[Changes/Codex CLI/2026-02-12-3-model-support-changes-in-rust-v0-101-0|3 Model Support changes in rust-v0.101.0]]
-- Later: 2026-02-12 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-02-12-add-streamer-mode-to-hide-preview-model-names-and-quota-details-for-streaming|Add /streamer-mode to hide preview model names and quota details for streaming]]
+- Later: 2026-02-12 · Gemini · [[Changes/Gemini/2026-02-12-solve-modern-science-research-and-engineering-challenges-with-gemini-3-deep-thin|Solve modern science, research and engineering challenges with Gemini 3 Deep Think]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

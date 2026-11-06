@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: 270da34244f2537bcf8c490f87e96e847bd79bfc80bd56e149f82afa0a860fa0
+machine_hash: 47dfa5ee5fefe9cb77671e7757c1e7c95ad242a879b34c4dd1523f117a8f1057
 product: cursor
 product_name: Cursor
 record:
@@ -57,12 +57,12 @@ record:
   title: Improved agent terminal control
   type: change
 related_changes:
-- '[[Changes/Aider/2025-03-31-2-developer-workflow-changes-in-v0-80-0|2 Developer
-  Workflow changes in v0.80.0]]'
 - '[[Changes/OpenHands/2025-04-02-prevent-openhands-from-creating-additional-pull-requests-unless-explicitly-instr|Prevent
   OpenHands from creating additional pull requests unless explicitly instructed]]'
 - '[[Changes/Windsurf/2025-04-02-commit-message-generation-beta|Commit Message Generation
   (Beta)]]'
+- '[[Changes/Dify/2025-04-09-2-developer-workflow-changes-in-1-2-0|2 Developer Workflow
+  changes in 1.2.0]]'
 source_release: '[[Releases/Cursor/cursor-2025-04-15-0-49-https-cursor-com-changelog-0-49-3e16488f|cursor-2025-04-15-0-49-https-cursor-com-changelog-0-49-3e16488f]]'
 source_type: cursor_changelog
 theme: developer-workflow
@@ -96,7 +96,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2025-04-02 · Windsurf · [[Changes/Windsurf/2025-04-02-commit-message-generation-beta|Commit Message Generation (Beta)]]
+- Earlier: 2025-04-09 · Dify · [[Changes/Dify/2025-04-09-2-developer-workflow-changes-in-1-2-0|2 Developer Workflow changes in 1.2.0]]
 - Later: 2025-04-16 · OpenHands · [[Changes/OpenHands/2025-04-16-converted-the-terminal-panel-from-a-fixed-bottom-panel-to-a-tab-by-rbren-in-http|Converted the Terminal panel from a fixed bottom panel to a tab]]
 <!-- chronolog:end -->
 

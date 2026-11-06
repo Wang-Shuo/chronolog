@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: search-browsing
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 1c6953e2f2a586fe87ba87a8d630d8a821f958d1fd77ac2968f165ff99cdb770
+machine_hash: f6ba4b94ea347a6fc6c3f22ed728212910af0ccc8a7e1004287bc379038e829c
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -42,12 +42,12 @@ record:
   title: 2 Search and Browsing changes in rust-v0.24.0
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2025-07-24-pro-users-can-now-connect-to-canva-and-notion-for-both-chat-search-and-deep-rese-bd2af2|Canva
-  and Notion connectors (Pro)]]'
-- '[[Changes/ChatGPT/2025-08-11-now-connect-even-more-tools-in-chatgpt-for-useful-relevant-responses-in-chat-the|Now
-  connect even more tools in ChatGPT for useful, relevant responses in chat]]'
+- '[[Changes/Ollama/2025-08-15-ollama-s-new-app-will-now-remember-default-selections-for-default-model-turbo-an|Ollama''s
+  new app will now remember default selections for default model, Turbo…]]'
 - '[[Changes/Gemini CLI/2025-08-18-feat-core-migrate-web-search-write-file-and-discovered-tool-by-joshualitt-in-htt|feat(core):
   Migrate web-search, write-file, and discovered-tool]]'
+- '[[Changes/Open WebUI/2025-08-21-3-search-and-browsing-changes-in-v0-6-23|3 Search
+  and Browsing changes in v0.6.23]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2025-08-26-rust-v0-24-0-github-242647588-70fa432e|codex-cli-2025-08-26-rust-v0-24-0-github-242647588-70fa432e]]'
 source_type: github_releases
 theme: search-browsing
@@ -91,8 +91,8 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.24.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Search and Browsing
 
-- Earlier: 2025-08-18 · Gemini CLI · [[Changes/Gemini CLI/2025-08-18-feat-core-migrate-web-search-write-file-and-discovered-tool-by-joshualitt-in-htt|feat(core): Migrate web-search, write-file, and discovered-tool]]
-- Later: 2025-09-03 · Codex CLI · [[Changes/Codex CLI/2025-09-03-3061-show-loading-state-when-search-results-are-pending|♯3061 Show loading state when @ search results are pending]]
+- Earlier: 2025-08-21 · Open WebUI · [[Changes/Open WebUI/2025-08-21-3-search-and-browsing-changes-in-v0-6-23|3 Search and Browsing changes in v0.6.23]]
+- Later: 2025-08-28 · Open WebUI · [[Changes/Open WebUI/2025-08-28-2-search-and-browsing-changes-in-v0-6-26|2 Search and Browsing changes in v0.6.26]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

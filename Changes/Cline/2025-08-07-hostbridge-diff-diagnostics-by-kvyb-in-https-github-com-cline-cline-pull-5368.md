@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 0c9b819c9bc4d258ec91819d41646379a0392b5fb1f96157313876706ca94bad
+machine_hash: 945b601a95d5c0a0eb9f6747957b841c9670659906ff293923a6c83503f5d930
 product: cline
 product_name: Cline
 record:
@@ -78,7 +78,7 @@ type: change
 ## Nearby in Editor Experience
 
 - Earlier: 2025-08-06 · Gemini CLI · [[Changes/Gemini CLI/2025-08-06-27-editor-experience-changes-in-v0-1-18|27 Editor Experience changes in v0.1.18]]
-- Later: 2025-08-12 · Codex CLI · [[Changes/Codex CLI/2025-08-12-https-github-com-openai-codex-pull-2050-show-diff-preview-for-apply-patch|(source link) show diff preview for apply_patch]]
+- Later: 2025-08-08 · Replit · [[Changes/Replit/2025-08-08-visual-editor-focus-improvement|Visual Editor focus improvement]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

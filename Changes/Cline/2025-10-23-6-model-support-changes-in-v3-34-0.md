@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 498b9590f401e7fb1ee01fa47e3e28488371232a7f23ac8d84a61fed05316b38
+machine_hash: c7c20faedc1623ae7e6a2dfbd2a2a1d93d7ebb81753aef1aa9e08bce8035605b
 product: cline
 product_name: Cline
 record:
@@ -54,8 +54,8 @@ record:
   title: 6 Model Support changes in v3.34.0
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2025-10-22-we-re-updating-the-model-for-signed-out-users-to-gpt-5-instant-giving-more-peopl|We’re
-  updating the model for signed-out users to GPT-5 Instant, giving more people…]]'
+- '[[Changes/Dify/2025-10-22-8-model-support-changes-in-1-9-2|8 Model Support changes
+  in 1.9.2]]'
 - '[[Changes/Gemini CLI/2025-10-22-3-model-support-changes-in-v0-10-0|3 Model Support
   changes in v0.10.0]]'
 - '[[Changes/GitHub Copilot CLI/2025-10-22-2-model-support-changes-in-v0-0-349|2 Model

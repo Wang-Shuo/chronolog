@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 21595792804e51dacaef72863d6c53a97d4c5dc379a19bfa3867e0807e385caf
+machine_hash: fb22f361d9f1d732851a534748c241d61202753d8dd5891f714758a972638820
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -56,10 +56,9 @@ record:
   title: 7 Safety and Privacy changes in rust-v0.135.0
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-05-27-2-safety-and-privacy-changes-in-v2-1-152|2 Safety
-  and Privacy changes in v2.1.152]]'
 - '[[Changes/Gemini CLI/2026-05-27-4-safety-and-privacy-changes-in-v0-44-0|4 Safety
   and Privacy changes in v0.44.0]]'
+- '[[Changes/Lovable/2026-05-27-sensitive-data-scanning|Sensitive data scanning]]'
 - '[[Changes/Claude Code/2026-05-28-2-safety-and-privacy-changes-in-v2-1-153|2 Safety
   and Privacy changes in v2.1.153]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-05-28-rust-v0-135-0-github-331012967-2f52956b|codex-cli-2026-05-28-rust-v0-135-0-github-331012967-2f52956b]]'

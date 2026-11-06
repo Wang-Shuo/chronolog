@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 28ca31443013ecbe843ef288a5aebe71e7f3904da7f99914c38c7fe18687a5e3
+machine_hash: a17df066c7b086c65d7ffcd0f26f4896d52a679826fc7e9fd6f31b39fe13e543
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -48,12 +48,11 @@ record:
   title: 4 Agent Mode changes in rust-v0.120.0
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-04-10-ultraplan-and-other-remote-session-features-now-auto-create-a-default-cloud-envi|/ultraplan
-  and other remote-session features now auto-create a default cloud…]]'
-- '[[Changes/Codex CLI/2026-04-10-13-agent-mode-changes-in-rust-v0-119-0|13 Agent
-  Mode changes in rust-v0.119.0]]'
 - '[[Changes/GitHub Copilot CLI/2026-04-10-add-mode-autopilot-and-plan-flags-to-start-the-cli-directly-in-a-specific-agent|Add
   --mode, --autopilot, and --plan flags to start the CLI directly in a specific…]]'
+- '[[Changes/Replit/2026-04-10-agent|Agent]]'
+- '[[Changes/Replit/2026-04-10-recreate-any-ui-from-a-screenshot|Recreate any UI from
+  a screenshot]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-04-11-rust-v0-120-0-github-307789275-437473b9|codex-cli-2026-04-11-rust-v0-120-0-github-307789275-437473b9]]'
 source_type: github_releases
 theme: agent-mode
@@ -96,7 +95,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.120.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2026-04-10 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-04-10-add-mode-autopilot-and-plan-flags-to-start-the-cli-directly-in-a-specific-agent|Add --mode, --autopilot, and --plan flags to start the CLI directly in a specific…]]
+- Earlier: 2026-04-10 · Replit · [[Changes/Replit/2026-04-10-recreate-any-ui-from-a-screenshot|Recreate any UI from a screenshot]]
 - Later: 2026-04-13 · Cursor · [[Changes/Cursor/2026-04-13-tiled-layout-2f03f6|Tiled layout]]
 <!-- chronolog:end -->
 

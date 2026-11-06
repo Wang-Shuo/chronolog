@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: b6991830330d5750d9a962d717a281135eb3a43ceb6db115dccb96bbf7d02a3e
+machine_hash: fc2f4695d1c7beefe2054487a039adbc9ade4c0eb9153b9fa4e9dea861ce88a7
 product: claude-code
 product_name: Claude Code
 record:
@@ -43,12 +43,12 @@ record:
   title: Changed plan mode with auto to no longer prompt for Bash commands the static…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-07-21-2-agent-mode-changes-in-v2-1-217|2 Agent Mode
-  changes in v2.1.217]]'
 - '[[Changes/Codex CLI/2026-07-21-20-agent-mode-changes-in-rust-v0-145-0|20 Agent
   Mode changes in rust-v0.145.0]]'
 - '[[Changes/GitHub Copilot CLI/2026-07-21-2-agent-mode-changes-in-v1-0-73|2 Agent
   Mode changes in v1.0.73]]'
+- '[[Changes/v0/2026-07-21-agent-auto-pushes-retry-after-rebasing-when-a-push-is-rejected-as-non-fast-forwa|Agent
+  auto-pushes retry after rebasing when a push is rejected as non-fast-forward…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-07-22-v2-1-218-github-358276841-57d73db4|claude-code-2026-07-22-v2-1-218-github-358276841-57d73db4]]'
 source_type: github_releases
 theme: agent-mode
@@ -85,7 +85,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2026-07-21 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-07-21-2-agent-mode-changes-in-v1-0-73|2 Agent Mode changes in v1.0.73]]
+- Earlier: 2026-07-21 · v0 · [[Changes/v0/2026-07-21-agent-auto-pushes-retry-after-rebasing-when-a-push-is-rejected-as-non-fast-forwa|Agent auto-pushes retry after rebasing when a push is rejected as non-fast-forward…]]
 - Later: 2026-07-22 · Cursor · [[Changes/Cursor/2026-07-22-auto-mode-is-now-powered-by-cursor-router|Auto mode is now powered by Cursor Router]]
 <!-- chronolog:end -->
 

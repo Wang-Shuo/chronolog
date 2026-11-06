@@ -10,12 +10,12 @@ diffusion:
   role: first-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: c052d349430e897c4222596952806b9370495586e2a6efbdb9695f70a82d37ce
+machine_hash: f5bd6c766ef5a114bc6d761073785d163411c21dbb3fc5698697b02bc97dbcfb
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -70,13 +70,13 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Collaboration
 
-- Later: 2024-01-10 · ChatGPT · [[Changes/ChatGPT/2024-01-10-we-re-launching-a-new-chatgpt-plan-for-teams-of-all-sizes-which-provides-a-secur-c68432|Use ChatGPT alongside your team]]
+- Later: 2023-07-13 · Gemini · [[Changes/Gemini/2023-07-13-share-your-bard-conversations-with-others|Share your Bard conversations with others]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry among the 10 tracked products.
+- Earliest same-theme entry among the 20 tracked products.
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

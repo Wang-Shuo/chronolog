@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: memory
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 32010e9d0c2f95d1860afebbe039f39526a15c079a05460d4f391bf13119f374
+machine_hash: 52dba7700c4deff6ff68e3698314ba68aebdd7577f9b2cfaa6f55197317b5d7f
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -41,12 +41,12 @@ record:
   title: '#15175 chore: morpheus does not generate memories @jif-oai'
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2026-03-17-docs-document-tool-exclusion-from-memory-via-deny-policy-by-abhijit-2592-in-http|docs:
-  document tool exclusion from memory via deny policy]]'
 - '[[Changes/Codex CLI/2026-03-19-4-memory-and-personalization-changes-in-rust-v0-116-0|4
   Memory and Personalization changes in rust-v0.116.0]]'
 - '[[Changes/Gemini CLI/2026-03-24-refactor-core-align-jit-memory-placement-with-tiered-context-model-by-sandytao52|refactor(core):
   align JIT memory placement with tiered context model]]'
+- '[[Changes/Open WebUI/2026-03-25-4-memory-and-personalization-changes-in-v0-8-11|4
+  Memory and Personalization changes in v0.8.11]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-03-26-rust-v0-117-0-github-302123790-7cb322b6|codex-cli-2026-03-26-rust-v0-117-0-github-302123790-7cb322b6]]'
 source_type: github_releases
 theme: memory
@@ -92,8 +92,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Memory and Personalization
 
-- Earlier: 2026-03-24 · Gemini CLI · [[Changes/Gemini CLI/2026-03-24-refactor-core-align-jit-memory-placement-with-tiered-context-model-by-sandytao52|refactor(core): align JIT memory placement with tiered context model]]
-- Later: 2026-03-27 · Claude Code · [[Changes/Claude Code/2026-03-27-memory-filenames-in-the-saved-n-memories-notice-now-highlight-on-hover-and-open|Memory filenames in the "Saved N memories" notice now highlight on hover and open on click]]
+- Earlier: 2026-03-25 · Open WebUI · [[Changes/Open WebUI/2026-03-25-4-memory-and-personalization-changes-in-v0-8-11|4 Memory and Personalization changes in v0.8.11]]
+- Later: 2026-03-26 · Gemini · [[Changes/Gemini/2026-03-26-make-the-switch-seamlessly-bring-your-ai-memories-and-chat-history-to-gemini|Make the switch: Seamlessly bring your AI memories and chat history to Gemini]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

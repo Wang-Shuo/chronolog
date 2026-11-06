@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 45fa51c4ab46d9573d8c2632b0a65a5eb5625fc744538f9db4affb1e56bf0ee8
+machine_hash: 2d703cf5dbd35c109e9b972d5c61bfda3db52dc6c780f1623cea4cb9546a6a06
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -52,12 +52,10 @@ record:
     powers…
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-09-12-3-agent-mode-changes-in-1-6|3 Agent Mode changes in
-  1.6]]'
-- '[[Changes/Gemini CLI/2025-09-17-feat-core-only-summarize-long-tool-output-for-shell-command-by-sandytao520-in-ht|feat(core):
-  Only summarize long tool output for shell command]]'
-- '[[Changes/Codex CLI/2025-09-18-2-agent-mode-changes-in-rust-v0-39-0|2 Agent Mode
-  changes in rust-v0.39.0]]'
+- '[[Changes/ElevenLabs/2025-09-22-agents-platform|Agents Platform]]'
+- '[[Changes/ElevenLabs/2025-09-22-package-updates|Package Updates]]'
+- '[[Changes/Replit/2025-09-26-agent-playground-testing-improvements|Agent playground
+  testing improvements]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-09-29-introducing-instant-checkout-and-the-agentic-commerce-protocol-6ba1bd7e|chatgpt-2025-09-29-introducing-instant-checkout-and-the-agentic-commerce-protocol-6ba1bd7e]]'
 source_type: chatgpt_changelog
 theme: agent-mode
@@ -87,7 +85,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2025-09-18 · Codex CLI · [[Changes/Codex CLI/2025-09-18-2-agent-mode-changes-in-rust-v0-39-0|2 Agent Mode changes in rust-v0.39.0]]
+- Earlier: 2025-09-26 · Replit · [[Changes/Replit/2025-09-26-agent-playground-testing-improvements|Agent playground testing improvements]]
 - Later: 2025-09-29 · Cursor · [[Changes/Cursor/2025-09-29-hooks-beta|Hooks (beta)]]
 <!-- chronolog:end -->
 

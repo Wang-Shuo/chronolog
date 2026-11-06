@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 5a64bdad39dd07749826ec31791cb80d72cdb8d661f2b71a9c120179d751744b
+machine_hash: 72ba7a64b449d8378869b8279b367d045d9fe8b15d904f52f60d0772e85dc874
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -42,10 +42,10 @@ record:
   title: Session export header renders each field on its own line in shared gists
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-02-26-2-collaboration-changes-in-rust-v0-106-0|2 Collaboration
-  changes in rust-v0.106.0]]'
 - '[[Changes/GitHub Copilot CLI/2026-03-06-block-share-gist-for-emu-and-ghe-cloud-users-with-clear-error-messaging|Block
   /share gist for EMU and GHE Cloud users with clear error messaging]]'
+- "[[Changes/Open WebUI/2026-03-09-teams-webhook-crash-fixed-a-typeerror-crash-in-the-teams-webhook-handler-when-us|\U0001F4E8
+  Teams webhook crash. Fixed a TypeError crash in the Teams webhook handler…]]"
 - '[[Changes/Codex CLI/2026-03-10-14117-feat-otel-centralize-otel-metric-names-and-shared-tag-builders-owenlin0|♯14117
   feat(otel): Centralize OTEL metric names and shared tag builders @owenlin0]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-03-11-v1-0-4-github-295850245-f6b8c4f1|github-copilot-cli-2026-03-11-v1-0-4-github-295850245-f6b8c4f1]]'
@@ -86,7 +86,7 @@ type: change
 ## Nearby in Collaboration
 
 - Earlier: 2026-03-10 · Codex CLI · [[Changes/Codex CLI/2026-03-10-14117-feat-otel-centralize-otel-metric-names-and-shared-tag-builders-owenlin0|♯14117 feat(otel): Centralize OTEL metric names and shared tag builders @owenlin0]]
-- Later: 2026-03-20 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-03-20-2-collaboration-changes-in-v1-0-10|2 Collaboration changes in v1.0.10]]
+- Later: 2026-03-12 · v0 · [[Changes/v0/2026-03-12-added-toggle-for-v0-bot-git-actions-for-team-and-business-plans|Added toggle for v0 bot git actions for Team and Business plans]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

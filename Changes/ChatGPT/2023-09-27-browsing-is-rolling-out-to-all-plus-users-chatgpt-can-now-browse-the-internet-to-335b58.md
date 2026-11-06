@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: search-browsing
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 4fa625e57cada344a0a105e198b008aa3890e41e5af9d63e1e248feb2e6b6122
+machine_hash: dac45853c2f8de551ccce3b07134e71802857dcc71633234d021a787577ce9cc
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -83,7 +83,7 @@ type: change
 ## Nearby in Search and Browsing
 
 - Earlier: 2023-07-03 · ChatGPT · [[Changes/ChatGPT/2023-07-03-we-ve-learned-that-the-browsing-beta-can-occasionally-display-content-in-ways-we|Browsing is temporarily disabled]]
-- Later: 2024-01-25 · Cursor · [[Changes/Cursor/2024-01-25-using-web-in-chat-will-give-the-ai-the-ability-to-crawl-the-web-the-tools-it-can|Using @Web in chat will give the AI the ability to crawl the web!]]
+- Later: 2023-11-21 · Dify · [[Changes/Dify/2023-11-21-current-version-adds-full-text-search-and-hybrid-search-functions-for-datasets-s|Current version adds full-text search and hybrid search functions for datasets…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

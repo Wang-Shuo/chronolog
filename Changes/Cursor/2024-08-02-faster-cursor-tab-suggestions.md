@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: c0d1e07288e697d55bcd2d4fa05a424d1d009558712d943cd35797999242550d
+machine_hash: 677eebc82ac6552efd0acd189b19ca8fa9bce38dcf597167d0fd01c22287a64c
 product: cursor
 product_name: Cursor
 record:
@@ -51,8 +51,8 @@ record:
   title: Faster Cursor Tab Suggestions!
   type: change
 related_changes:
-- '[[Changes/Cursor/2024-07-23-copilot-now-has-chunked-streaming-currently-in-beta-it-will-surface-edits-faster|Copilot++
-  now has chunked streaming (currently in Beta)!]]'
+- '[[Changes/Ollama/2024-07-30-performance-and-reliability-improvements-when-downloading-models-using-ollama-pu|Performance
+  and reliability improvements when downloading models using ollama pull]]'
 - '[[Changes/Aider/2024-07-31-improved-performance-of-lint-on-all-dirty-files-in-repo|Improved
   performance of --lint on all dirty files in repo]]'
 - '[[Changes/OpenHands/2024-08-01-runtime-reduce-dependency-to-speed-up-ci-and-reduce-image-size-by-xingyaoww-in-h|Runtime
@@ -87,7 +87,7 @@ type: change
 ## Nearby in Reliability and Performance
 
 - Earlier: 2024-08-01 · OpenHands · [[Changes/OpenHands/2024-08-01-runtime-reduce-dependency-to-speed-up-ci-and-reduce-image-size-by-xingyaoww-in-h|Runtime Reduce dependency to speed up CI and reduce image size]]
-- Later: 2024-08-06 · Aider · [[Changes/Aider/2024-08-06-2-reliability-and-performance-changes-in-v0-48-0|2 Reliability and Performance changes in v0.48.0]]
+- Later: 2024-08-02 · Open WebUI · [[Changes/Open WebUI/2024-08-02-2-reliability-and-performance-changes-in-v0-3-11|2 Reliability and Performance changes in v0.3.11]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

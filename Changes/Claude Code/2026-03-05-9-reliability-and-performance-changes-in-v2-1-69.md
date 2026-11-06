@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 1066eee8310d1860aafffe07aa4170016ddd6862c92fdd7159ac9afd309357d5
+machine_hash: 9a8a84260042ec650f9d4985c6a17dc23ecaebb0bd569fe1a250c278be9724c3
 product: claude-code
 product_name: Claude Code
 record:
@@ -63,10 +63,10 @@ record:
   title: 9 Reliability and Performance changes in v2.1.69
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-02-27-faster-sharing-sharing-chats-is-now-easier-and-faster-with-a-quicker-loading-sha|Faster
-  sharing. Sharing chats is now easier and faster, with a quicker-loading share menu]]'
-- '[[Changes/Claude Code/2026-02-28-improved-memory-usage-in-long-sessions-with-subagents-by-stripping-heavy-progres|Improved
-  memory usage in long sessions with subagents by stripping heavy progress…]]'
+- "[[Changes/Open WebUI/2026-03-02-chatcontrols-memory-leak-the-chatcontrols-panel-no-longer-leaks-event-listeners|\U0001F9E0
+  ChatControls memory leak. The ChatControls panel no longer leaks event…]]"
+- "[[Changes/Open WebUI/2026-03-02-general-improvements-various-improvements-were-implemented-across-the-applicatio|\U0001F504
+  General improvements. Various improvements were implemented across…]]"
 - '[[Changes/Cursor/2026-03-03-modals-load-faster|Modals load faster]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-03-05-v2-1-69-github-293216328-162b2e44|claude-code-2026-03-05-v2-1-69-github-293216328-162b2e44]]'
 source_type: github_releases

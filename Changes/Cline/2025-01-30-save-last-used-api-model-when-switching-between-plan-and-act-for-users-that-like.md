@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 14f9f3bf5d4031f784b869c41ddf91e709a493430d9d855c96e6515183ece2a2
+machine_hash: 74bf46136607e5f9528ebcbbdc565d2110e496882f06b72bb8a27ea64d1fb50f
 product: cline
 product_name: Cline
 record:
@@ -45,12 +45,12 @@ record:
     like…
   type: change
 related_changes:
-- '[[Changes/OpenHands/2025-01-22-2-model-support-changes-in-0-21-0|2 Model Support
-  changes in 0.21.0]]'
 - '[[Changes/Cursor/2025-01-23-deepseek-models-deepseek-r1-and-deepseek-v3-are-supported-in-0-45-and-0-44-you-c|Deepseek
   models: Deepseek R1 and Deepseek v3 are supported in 0.45 and 0.44]]'
 - '[[Changes/Cursor/2025-01-23-better-codebase-understanding-we-ve-trained-a-new-model-for-codebase-understandi|Better
   Codebase Understanding: We''ve trained a new model for Codebase Understanding]]'
+- '[[Changes/Open WebUI/2025-01-23-2-model-support-changes-in-v0-5-7|2 Model Support
+  changes in v0.5.7]]'
 source_release: '[[Releases/Cline/cline-2025-01-30-v3-2-6-github-197481129-124c52a1|cline-2025-01-30-v3-2-6-github-197481129-124c52a1]]'
 source_type: github_releases
 theme: model-support
@@ -81,8 +81,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2025-01-23 · Cursor · [[Changes/Cursor/2025-01-23-better-codebase-understanding-we-ve-trained-a-new-model-for-codebase-understandi|Better Codebase Understanding: We've trained a new model for Codebase Understanding]]
-- Later: 2025-01-31 · Aider · [[Changes/Aider/2025-01-31-5-model-support-changes-in-v0-73-0|5 Model Support changes in v0.73.0]]
+- Earlier: 2025-01-23 · Open WebUI · [[Changes/Open WebUI/2025-01-23-2-model-support-changes-in-v0-5-7|2 Model Support changes in v0.5.7]]
+- Later: 2025-01-30 · Gemini · [[Changes/Gemini/2025-01-30-introducing-gemini-2-0-flash-to-gemini|Introducing Gemini 2.0 Flash to Gemini]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

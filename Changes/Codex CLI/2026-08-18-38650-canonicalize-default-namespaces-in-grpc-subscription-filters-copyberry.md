@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: pricing
-machine_hash: 80f0fea0d88862a45cf8aad8d3214a98343a94743963036c9fc723f95f3bdafb
+machine_hash: a450112809ddc7eb834a1b6b049fa1b51342b15ef5dd82b7d48de71f5e0f5cd1
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -41,11 +41,12 @@ record:
   title: '#38650 Canonicalize default namespaces in gRPC subscription filters @copyberry'
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-08-04-changed-fast-mode-to-report-on-the-stream-when-usage-credits-run-out-mid-session|Changed
-  fast mode to report on the stream when usage credits run out mid-session…]]'
-- '[[Changes/Windsurf/2026-08-10-devin-cloud|Devin Cloud]]'
 - '[[Changes/Cline/2026-08-11-report-fable-5-cost-on-vertex-as-unknown-rather-than-applying-anthropic-s-list-p|Report
   Fable 5 cost on Vertex as unknown rather than applying Anthropic''s list…]]'
+- '[[Changes/v0/2026-08-14-billing-and-checkout-show-actionable-payment-errors-scope-appropriate-upgrade-pl|Billing
+  and checkout show actionable payment errors, scope-appropriate upgrade…]]'
+- '[[Changes/Lovable/2026-08-17-credit-check-ins-for-long-running-messages-beta|Credit
+  check-ins for long-running messages (beta)]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-08-18-rust-v0-148-0-github-372686337-4265c0ae|codex-cli-2026-08-18-rust-v0-148-0-github-372686337-4265c0ae]]'
 source_type: github_releases
 theme: pricing-model
@@ -86,8 +87,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Pricing Model
 
-- Earlier: 2026-08-11 · Cline · [[Changes/Cline/2026-08-11-report-fable-5-cost-on-vertex-as-unknown-rather-than-applying-anthropic-s-list-p|Report Fable 5 cost on Vertex as unknown rather than applying Anthropic's list…]]
-- Later: 2026-08-19 · Claude Code · [[Changes/Claude Code/2026-08-19-usage-now-shows-the-usage-credits-spend-row-for-team-and-enterprise-members-and|/usage now shows the usage-credits spend row for Team and Enterprise members…]]
+- Earlier: 2026-08-17 · Lovable · [[Changes/Lovable/2026-08-17-credit-check-ins-for-long-running-messages-beta|Credit check-ins for long-running messages (beta)]]
+- Later: 2026-08-18 · Lovable · [[Changes/Lovable/2026-08-18-running-out-of-credits-mid-message-now-pauses-your-work|Running out of credits mid-message now pauses your work]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

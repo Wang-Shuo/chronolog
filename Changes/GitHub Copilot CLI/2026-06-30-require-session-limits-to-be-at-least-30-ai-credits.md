@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: pricing
-machine_hash: 3a74134935f6ad046438b9f157edab07b19842ae6db67f4a5de41ea6174837a7
+machine_hash: bdd1292f166556e2fc91c54984f42abdc615e8726cfacf5f646a223946d309cf
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -43,10 +43,10 @@ record:
   title: Require session limits to be at least 30 AI credits
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-06-23-display-cache-write-pricing-for-models-that-omit-it|Display
-  cache-write pricing for models that omit it]]'
-- '[[Changes/Cline/2026-06-26-add-clinepass-to-the-vs-code-extension-including-onboarding-provider-selection-s|Add
-  ClinePass to the VS Code extension, including onboarding, provider selection…]]'
+- '[[Changes/v0/2026-06-26-2-pricing-model-changes-in-platform-api-v2-mcp-chat-tools|2
+  Pricing Model changes in Platform API v2, MCP chat tools…]]'
+- '[[Changes/Open WebUI/2026-06-29-2-pricing-model-changes-in-v0-10-0|2 Pricing Model
+  changes in v0.10.0]]'
 - '[[Changes/GitHub Copilot CLI/2026-06-30-configure-subagent-concurrency-and-depth-limits-in-settings-usage-based-billing|Configure
   subagent concurrency and depth limits in /settings (usage-based billing users)]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-06-30-v1-0-67-github-347129452-cdc0d10f|github-copilot-cli-2026-06-30-v1-0-67-github-347129452-cdc0d10f]]'
@@ -84,7 +84,7 @@ type: change
 ## Nearby in Pricing Model
 
 - Earlier: 2026-06-30 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-06-30-configure-subagent-concurrency-and-depth-limits-in-settings-usage-based-billing|Configure subagent concurrency and depth limits in /settings (usage-based billing users)]]
-- Later: 2026-07-06 · OpenHands · [[Changes/OpenHands/2026-07-06-refactor-extract-billing-test-fixtures-for-pltf-1269-by-aivong-openhands-in-http|refactor: extract billing test fixtures for PLTF-1269]]
+- Later: 2026-07-03 · Replit · [[Changes/Replit/2026-07-03-downgrade-from-pro-to-core-in-one-step|Downgrade from Pro to Core in one step]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

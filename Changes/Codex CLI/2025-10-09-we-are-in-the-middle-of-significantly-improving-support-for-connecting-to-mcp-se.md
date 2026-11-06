@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: a0cc07b6587c3b9dbe99693055265d9aa9f33b662f77651d00441e33735bf219
+machine_hash: 24b946cc5cfc814902b05a6f1c5cbd2f7fb5d29c26c141fc810e69febdae1bfb
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -58,10 +58,10 @@ record:
     MCP…
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2025-10-06-3-account-and-access-changes-in-rust-v0-45-0|3 Account
-  and Access changes in rust-v0.45.0]]'
-- '[[Changes/Gemini CLI/2025-10-07-for-dynamic-client-registration-use-registration-endpoint-in-config-if-available|For
-  dynamic client registration - use registration endpoint in config if available…]]'
+- '[[Changes/Open WebUI/2025-10-07-10-account-and-access-changes-in-v0-6-33|10 Account
+  and Access changes in v0.6.33]]'
+- "[[Changes/Open WebUI/2025-10-07-redis-session-storage-is-now-available-as-an-experimental-option-for-oauth-authe|\U0001F5C4️
+  Redis session storage is now available as an experimental option for OAuth…]]"
 - '[[Changes/GitHub Copilot CLI/2025-10-08-updated-the-oauth-login-ui-to-begin-polling-as-soon-as-the-device-code-is-genera|Updated
   the OAuth login UI to begin polling as soon as the device code is generated…]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2025-10-09-rust-v0-46-0-github-253202599-fb352044|codex-cli-2025-10-09-rust-v0-46-0-github-253202599-fb352044]]'

@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: ea8cf30733d13d39185346419bebe7bd0ebd4d7091a733a41b0c3b876850d49f
+machine_hash: 89ae7b769073d7cde7cd41ab5879d12c48364539b69c609d4dfb938d5031d499
 product: claude-code
 product_name: Claude Code
 record:
@@ -41,12 +41,12 @@ record:
   title: 2 Developer Workflow changes in v2.1.27
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-01-28-header-layout-adapts-better-to-narrow-terminal-widths|Header
-  layout adapts better to narrow terminal widths]]'
 - '[[Changes/Claude Code/2026-01-29-changed-bash-commands-to-show-timeout-duration-alongside-elapsed-time|Changed
   Bash commands to show timeout duration alongside elapsed time]]'
 - '[[Changes/GitHub Copilot CLI/2026-01-29-add-lsp-language-server-protocol-tool-for-code-intelligence-requires-staff-flag|Add
   LSP (Language Server Protocol) tool for code intelligence (requires staff flag)]]'
+- '[[Changes/v0/2026-01-29-added-server-logs-for-better-debugging|Added server logs
+  for better debugging]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-01-30-v2-1-27-github-281663155-d003937d|claude-code-2026-01-30-v2-1-27-github-281663155-d003937d]]'
 source_type: github_releases
 theme: developer-workflow
@@ -81,7 +81,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.27
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2026-01-29 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-01-29-add-lsp-language-server-protocol-tool-for-code-intelligence-requires-staff-flag|Add LSP (Language Server Protocol) tool for code intelligence (requires staff flag)]]
+- Earlier: 2026-01-29 · v0 · [[Changes/v0/2026-01-29-added-server-logs-for-better-debugging|Added server logs for better debugging]]
 - Later: 2026-01-30 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-01-30-3-developer-workflow-changes-in-v0-0-400|3 Developer Workflow changes in v0.0.400]]
 <!-- chronolog:end -->
 

@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: bc8a8b298d7f70a708af99312fc6f83f87419e4123b926a493f40550dbbef481
+machine_hash: be0572733a54e05c56c90cdebe744b1684ccc290c62ebdaf8a27d1bde4a9e68f
 product: windsurf
 product_name: Windsurf
 record:
@@ -46,10 +46,10 @@ record:
   title: GPT-5-Codex is now in Windsurf!
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2025-09-18-we-re-improving-the-quality-and-latency-of-responses-of-the-version-of-advanced|Voice
-  Updates]]'
-- '[[Changes/Cline/2025-09-19-add-code-supernova-stealth-model-by-saoudrizwan-in-https-github-com-cline-cline|Add
-  code-supernova stealth model]]'
+- '[[Changes/Ollama/2025-09-21-2-model-support-changes-in-v0-12-1|2 Model Support
+  changes in v0.12.1]]'
+- '[[Changes/Dify/2025-09-22-5-model-support-changes-in-1-9-0|5 Model Support changes
+  in 1.9.0]]'
 - '[[Changes/Codex CLI/2025-09-23-2-model-support-changes-in-rust-v0-40-0|2 Model
   Support changes in rust-v0.40.0]]'
 source_release: '[[Releases/Windsurf/windsurf-2025-09-23-v1-12-8-10005d9a|windsurf-2025-09-23-v1-12-8-10005d9a]]'

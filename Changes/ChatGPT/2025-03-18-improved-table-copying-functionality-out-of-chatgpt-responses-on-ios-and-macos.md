@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 9626965c83299e55cf7f9a0f24abd0018c77a32b3d53be8082b960282cd5714c
+machine_hash: 805206f64e09540cea514aa7b356ef1c94d71d2cc927ca9d19fda944c8b2ed54
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -43,9 +43,10 @@ record:
     macOS
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2025-02-21-ios-widget-see-below|iOS widget (see below)]]'
-- '[[Changes/ChatGPT/2025-02-28-long-press-to-select-text-on-ios-and-moved-the-message-quick-actions-to-always-b-a40c3f|Long
-  press to select text on iOS and moved the message quick actions to always…]]'
+- '[[Changes/Replit/2025-03-07-mobile-app-webview-improvements|Mobile App Webview
+  improvements]]'
+- '[[Changes/Replit/2025-03-07-first-look-at-the-new-mobile-app|First look at the
+  new mobile app]]'
 - '[[Changes/Aider/2025-03-10-specify-desktop-notification-command-with-notifications-command|Specify
   desktop notification command with --notifications-command]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-03-18-ios-app-6a42bb0f|chatgpt-2025-03-18-ios-app-6a42bb0f]]'
@@ -79,7 +80,7 @@ type: change
 ## Nearby in Mobile and Desktop
 
 - Earlier: 2025-03-10 · Aider · [[Changes/Aider/2025-03-10-specify-desktop-notification-command-with-notifications-command|Specify desktop notification command with --notifications-command]]
-- Later: 2025-04-23 · OpenHands · [[Changes/OpenHands/2025-04-23-addressed-failure-of-docker-containers-to-start-on-windows-by-happyherp-in-https|Addressed failure of Docker containers to start on Windows]]
+- Later: 2025-03-24 · Dify · [[Changes/Dify/2025-03-24-inputs-on-ios-devices-squashed-bugs-causing-errors-when-passing-inputs-on-ios-by|Inputs on iOS Devices]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

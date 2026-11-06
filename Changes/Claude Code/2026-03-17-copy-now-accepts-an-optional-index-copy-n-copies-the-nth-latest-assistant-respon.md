@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 2d1a0913bf13aee5fec7f608e91799cb4646bd4cd043b4ee8dfdbd9cafe50671
+machine_hash: 40dfd45834b1404d748b1e239db921e8d712ee3ed3c629a39540ecd484b9a7fb
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,12 +45,11 @@ record:
     response'
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-03-11-2-interface-experience-changes-in-v1-0-4|2
-  Interface Experience changes in v1.0.4]]'
-- '[[Changes/Codex CLI/2026-03-16-14410-make-collab-model-metadata-accurate-on-completion-aibrahim-oai|♯14410
-  Make collab model metadata accurate on completion @aibrahim-oai]]'
-- '[[Changes/GitHub Copilot CLI/2026-03-16-show-friendlier-error-messages-and-provide-keyboard-shortcut-to-open-event-links|Show
-  friendlier error messages and provide keyboard shortcut to open event links…]]'
+- '[[Changes/Lovable/2026-03-16-improvements-and-bug-fixes|Improvements and bug fixes]]'
+- '[[Changes/Lovable/2026-03-16-better-dashboard-organization-and-navigation|Better
+  dashboard organization and navigation]]'
+- '[[Changes/v0/2026-03-16-improved-sidebar-design-based-on-user-feedback|Improved
+  sidebar design based on user feedback]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-03-17-v2-1-77-github-297726061-caf6c30c|claude-code-2026-03-17-v2-1-77-github-297726061-caf6c30c]]'
 source_type: github_releases
 theme: interface-experience
@@ -89,7 +88,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-03-16 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-03-16-show-friendlier-error-messages-and-provide-keyboard-shortcut-to-open-event-links|Show friendlier error messages and provide keyboard shortcut to open event links…]]
+- Earlier: 2026-03-16 · v0 · [[Changes/v0/2026-03-16-improved-sidebar-design-based-on-user-feedback|Improved sidebar design based on user feedback]]
 - Later: 2026-03-17 · Claude Code · [[Changes/Claude Code/2026-03-17-2-interface-experience-changes-in-v2-1-78|2 Interface Experience changes in v2.1.78]]
 <!-- chronolog:end -->
 

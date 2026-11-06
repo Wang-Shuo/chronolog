@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: memory
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 52a5c95790ace8675efce1adbe3f51e06c98457e0d171fd616afd7ed360da92f
+machine_hash: c5681b734c0f3f0c3006d839902ceaa044bbaf04a76695c2b9b2a31c641cad5c
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -40,10 +40,9 @@ record:
   title: '#18973 chore: prep memories for AB @jif-oai'
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-04-16-custom-instructions-and-skills-refresh-from-disk-after-clear-or-new|Custom
-  instructions and skills refresh from disk after /clear or /new]]'
-- '[[Changes/Codex CLI/2026-04-20-4-memory-and-personalization-changes-in-rust-v0-122-0|4
-  Memory and Personalization changes in rust-v0.122.0]]'
+- '[[Changes/ElevenLabs/2026-04-20-elevenagents-d2ebb2|ElevenAgents]]'
+- '[[Changes/Open WebUI/2026-04-21-7-memory-and-personalization-changes-in-v0-9-0|7
+  Memory and Personalization changes in v0.9.0]]'
 - '[[Changes/ChatGPT/2026-04-22-sometimes-you-just-want-the-right-answer-as-quickly-as-possible-we-re-rolling-ou|Fast
   answers in ChatGPT]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-04-23-rust-v0-124-0-github-312880358-5864635b|codex-cli-2026-04-23-rust-v0-124-0-github-312880358-5864635b]]'

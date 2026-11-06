@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: search-browsing
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: policy
-machine_hash: 0e9e9c8e5a028b9efebc3c0ecdc17a573f9ec903b12e70fda40348ae77feb3c7
+machine_hash: 57cbe8c2032b733a6d638e1cab0d9911025b03db283ebc61175dcaba1253d0b1
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -47,12 +47,12 @@ record:
   title: Legacy deep research mode deprecation notice
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-03-10-2-search-and-browsing-changes-in-rust-v0-113-0|2
-  Search and Browsing changes in rust-v0.113.0]]'
-- '[[Changes/Codex CLI/2026-03-11-14136-fix-core-use-dedicated-types-for-responsesapi-web-search-tool-config-owenl|♯14136
-  fix(core): use dedicated types for responsesapi web search tool config @owenlin0]]'
 - '[[Changes/GitHub Copilot CLI/2026-03-13-changelog-supports-last-n-since-version-and-summarize-to-browse-and-summarize-mu|/changelog
   supports last N, since version, and summarize to browse…]]'
+- '[[Changes/Dify/2026-03-17-test-add-integration-tests-for-app-card-operations-list-browsing-and-create-app|test:
+  add integration tests for app card operations, list browsing, and create app flows]]'
+- '[[Changes/Ollama/2026-03-17-3-search-and-browsing-changes-in-v0-18-1|3 Search and
+  Browsing changes in v0.18.1]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-03-19-legacy-deep-research-mode-deprecation-notice-99d97534|chatgpt-2026-03-19-legacy-deep-research-mode-deprecation-notice-99d97534]]'
 source_type: chatgpt_changelog
 theme: search-browsing
@@ -79,7 +79,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Search and Browsing
 
-- Earlier: 2026-03-13 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-03-13-changelog-supports-last-n-since-version-and-summarize-to-browse-and-summarize-mu|/changelog supports last N, since version, and summarize to browse…]]
+- Earlier: 2026-03-17 · Ollama · [[Changes/Ollama/2026-03-17-3-search-and-browsing-changes-in-v0-18-1|3 Search and Browsing changes in v0.18.1]]
 - Later: 2026-03-23 · ChatGPT · [[Changes/ChatGPT/2026-03-23-now-it-s-easier-to-find-reuse-and-build-on-your-files-over-time-when-you-upload|File Library in ChatGPT]]
 <!-- chronolog:end -->
 

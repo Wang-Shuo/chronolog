@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: ef4b3c7e970accf75c9bf49fd52949a11db852a4b8594f85d29b6736587ebb19
+machine_hash: 483b3b6d970e9679191f16394a4dd42e6496247a16c9d0c15075e65dbe09e081
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -88,7 +88,7 @@ type: change
 ## Nearby in Model Support
 
 - Earlier: 2025-11-21 · ChatGPT · [[Changes/ChatGPT/2025-11-21-chatgpt-now-adds-more-inline-images-from-the-web-to-help-you-quickly-understand-83e5b8|More images in answers]]
-- Later: 2025-11-21 · Windsurf · [[Changes/Windsurf/2025-11-21-sonnet-4-5|Sonnet 4.5]]
+- Later: 2025-11-21 · ElevenLabs · [[Changes/ElevenLabs/2025-11-21-python-sdk|Python SDK]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

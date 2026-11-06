@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 8866e2a736b1451dd44332590d2aaaaeffe88f6a10158bedb167fabd6c4387b6
+machine_hash: e1cca9a7050ba84ffe6d30a75f5b121bd673b23c03d4c48551c9f5ce6d419c36
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,12 +45,12 @@ record:
   title: 2 Apps and Integrations changes in v2.1.79
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-03-17-2-apps-and-integrations-changes-in-v2-1-77|2 Apps
-  and Integrations changes in v2.1.77]]'
 - '[[Changes/Gemini CLI/2026-03-17-4-apps-and-integrations-changes-in-v0-34-0|4 Apps
   and Integrations changes in v0.34.0]]'
 - '[[Changes/GitHub Copilot CLI/2026-03-17-add-experimental-sdk-session-apis-to-list-and-manage-skills-mcp-servers-and-plug|Add
   experimental SDK session APIs to list and manage skills, MCP servers…]]'
+- '[[Changes/Ollama/2026-03-17-docker-containers-spin-up-an-integration-as-a-pipeline-step-to-run-evals-test-pr|Docker/containers:
+  spin up an integration as a pipeline step to run evals, test…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-03-18-v2-1-79-github-298704791-2ebf4bbd|claude-code-2026-03-18-v2-1-79-github-298704791-2ebf4bbd]]'
 source_type: github_releases
 theme: apps-integrations
@@ -87,8 +87,8 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.79
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-03-17 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-03-17-add-experimental-sdk-session-apis-to-list-and-manage-skills-mcp-servers-and-plug|Add experimental SDK session APIs to list and manage skills, MCP servers…]]
-- Later: 2026-03-18 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-03-18-3-apps-and-integrations-changes-in-v1-0-8|3 Apps and Integrations changes in v1.0.8]]
+- Earlier: 2026-03-17 · Ollama · [[Changes/Ollama/2026-03-17-docker-containers-spin-up-an-integration-as-a-pipeline-step-to-run-evals-test-pr|Docker/containers: spin up an integration as a pipeline step to run evals, test…]]
+- Later: 2026-03-18 · Dify · [[Changes/Dify/2026-03-18-4-apps-and-integrations-changes-in-1-13-2|4 Apps and Integrations changes in 1.13.2]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

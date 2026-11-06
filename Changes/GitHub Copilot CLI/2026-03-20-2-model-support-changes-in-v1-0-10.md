@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 9a94286d6ed3d6dba9b3ebfe97a8076cb18eeb37e7187b29faae72c701ecc2a6
+machine_hash: 0e080edda545cfc9d43f7de5a1c5b9cfbb6e2e5e48e42a2bbc0893d6620e43d8
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -89,7 +89,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.10
 ## Nearby in Model Support
 
 - Earlier: 2026-03-19 · Codex CLI · [[Changes/Codex CLI/2026-03-19-2-model-support-changes-in-rust-v0-116-0|2 Model Support changes in rust-v0.116.0]]
-- Later: 2026-03-23 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-03-23-ensure-models-appear-in-picker-correctly-display-model-names-where-possible|Ensure models appear in picker correctly, display model names where possible]]
+- Later: 2026-03-23 · ElevenLabs · [[Changes/ElevenLabs/2026-03-23-new-schemas|New Schemas]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

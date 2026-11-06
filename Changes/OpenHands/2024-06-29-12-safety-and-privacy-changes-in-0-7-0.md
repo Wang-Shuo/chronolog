@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 9d5240114252a2da20bbc08a5ac304a6a2672752d293f56a48eb85ddb72eb593
+machine_hash: 631aef44a3493abe7c5a29ba4b8ff11298dbe9fe79d90b44c5e62960ecd08cb0
 product: openhands
 product_name: OpenHands
 record:
@@ -66,12 +66,12 @@ record:
   title: 12 Safety and Privacy changes in 0.7.0
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2023-08-28-today-we-re-launching-chatgpt-enterprise-which-offers-enterprise-grade-security-4958cf|Introducing
-  ChatGPT Enterprise]]'
-- '[[Changes/Cursor/2023-08-30-api-key-input-box-is-now-a-password-type|API Key input
-  box is now a password type]]'
-- '[[Changes/OpenHands/2024-06-04-2-safety-and-privacy-changes-in-0-6-1|2 Safety and
-  Privacy changes in 0.6.1]]'
+- '[[Changes/Dify/2024-06-14-2-safety-and-privacy-changes-in-0-6-11|2 Safety and Privacy
+  changes in 0.6.11]]'
+- '[[Changes/Open WebUI/2024-06-27-2-safety-and-privacy-changes-in-v0-3-6|2 Safety
+  and Privacy changes in v0.3.6]]'
+- '[[Changes/Dify/2024-06-28-feat-permission-and-security-fixes-by-chazzhou-in-https-github-com-langgenius-di|feat:
+  permission and security fixes]]'
 source_release: '[[Releases/OpenHands/openhands-2024-06-29-0-7-0-github-163149742-cace6f1a|openhands-2024-06-29-0-7-0-github-163149742-cace6f1a]]'
 source_type: github_releases
 theme: safety-privacy
@@ -133,8 +133,8 @@ Source: https://github.com/OpenHands/OpenHands/releases/tag/0.7.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Safety and Privacy
 
-- Earlier: 2024-06-04 · OpenHands · [[Changes/OpenHands/2024-06-04-2-safety-and-privacy-changes-in-0-6-1|2 Safety and Privacy changes in 0.6.1]]
-- Later: 2024-07-05 · OpenHands · [[Changes/OpenHands/2024-07-05-2-safety-and-privacy-changes-in-0-7-1|2 Safety and Privacy changes in 0.7.1]]
+- Earlier: 2024-06-28 · Dify · [[Changes/Dify/2024-06-28-feat-permission-and-security-fixes-by-chazzhou-in-https-github-com-langgenius-di|feat: permission and security fixes]]
+- Later: 2024-06-30 · Open WebUI · [[Changes/Open WebUI/2024-06-30-dependency-update-upgraded-authlib-from-version-1-3-0-to-1-3-1-to-ensure-better|📦 Dependency Update]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

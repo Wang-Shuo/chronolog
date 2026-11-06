@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: dd587e64403da5fb3639296deff4f3d8d29d08029168699aec6689b4c32eec83
+machine_hash: 53fd539916a5a214ba9ae26b48f405b8cb46ce302d5887c001800782247cac00
 product: claude-code
 product_name: Claude Code
 record:
@@ -44,8 +44,8 @@ record:
   title: 2 Safety and Privacy changes in v2.1.81
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2026-03-17-3-safety-and-privacy-changes-in-v0-34-0|3 Safety
-  and Privacy changes in v0.34.0]]'
+- '[[Changes/Ollama/2026-03-17-ci-cd-generate-code-reviews-security-checks-and-other-tasks-within-your-ci|CI/CD:
+  Generate code reviews, security checks, and other tasks within your CI]]'
 - '[[Changes/Claude Code/2026-03-18-fixed-custom-status-line-showing-nothing-when-workspace-trust-is-blocking-it|Fixed
   custom status line showing nothing when workspace trust is blocking it]]'
 - '[[Changes/Codex CLI/2026-03-19-8-safety-and-privacy-changes-in-rust-v0-116-0|8

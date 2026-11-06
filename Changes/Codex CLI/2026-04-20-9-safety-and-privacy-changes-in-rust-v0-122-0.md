@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: da45492015aaeca4cf410b9cc8e5c2676ba09cc200a4a2f49357121acd16fea5
+machine_hash: a1c6e272c1dff2feda5fef296d55e144fa629fa1963f6fb7579c666f358d8ecd
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -62,8 +62,8 @@ record:
   title: 9 Safety and Privacy changes in rust-v0.122.0
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-04-17-6-safety-and-privacy-changes-in-v2-1-113|6 Safety
-  and Privacy changes in v2.1.113]]'
+- '[[Changes/Replit/2026-04-17-custom-groups-for-scim-organizations|Custom groups
+  for SCIM organizations]]'
 - '[[Changes/Claude Code/2026-04-18-fixed-a-crash-in-the-permission-dialog-when-an-agent-teams-teammate-requested-to|Fixed
   a crash in the permission dialog when an agent teams teammate requested tool…]]'
 - '[[Changes/Claude Code/2026-04-20-security-sandbox-auto-allow-no-longer-bypasses-the-dangerous-path-safety-check-f|Security:
@@ -127,7 +127,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.122.0
 ## Nearby in Safety and Privacy
 
 - Earlier: 2026-04-20 · Claude Code · [[Changes/Claude Code/2026-04-20-security-sandbox-auto-allow-no-longer-bypasses-the-dangerous-path-safety-check-f|Security: sandbox auto-allow no longer bypasses the dangerous-path safety check…]]
-- Later: 2026-04-23 · Claude Code · [[Changes/Claude Code/2026-04-23-fixed-mcp-step-up-authorization-silently-refreshing-instead-of-prompting-for-re|Fixed MCP step-up authorization silently refreshing instead of prompting…]]
+- Later: 2026-04-21 · Open WebUI · [[Changes/Open WebUI/2026-04-21-11-safety-and-privacy-changes-in-v0-9-0|11 Safety and Privacy changes in v0.9.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

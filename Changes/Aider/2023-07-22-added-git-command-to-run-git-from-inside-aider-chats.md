@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: c21dfdceeae134b4e5aa003a3d26f6e17e58e89e84e3fb65b19a7a20bb3cf5c4
+machine_hash: 97a572e1a33aa0417e70856cb3869f3d14a0928bb50c7bca7fbbdf556e626507
 product: aider
 product_name: Aider
 record:
@@ -42,11 +42,11 @@ record:
   title: Added `/git` command to run git from inside aider chats
   type: change
 related_changes:
-- '[[Changes/Aider/2023-07-12-2-developer-workflow-changes-in-v0-8-3|2 Developer Workflow
-  changes in v0.8.3]]'
 - '[[Changes/Cursor/2023-07-12-this-update-patches-search-cmd-win-shift-f-and-many-extensions-for-and-wsl-and-s|This
   update patches search (Cmd/Win+Shift+F) and many extensions for and WSL and SSH
   users]]'
+- '[[Changes/Dify/2023-07-18-feat-add-bash-before-entrypoint-sh-in-dockerfile-by-takatost-in-https-github-com|feat:
+  add bash before entrypoint.sh in Dockerfile]]'
 - '[[Changes/Aider/2023-07-22-2-developer-workflow-changes-in-v0-10-0|2 Developer
   Workflow changes in v0.10.0]]'
 source_release: '[[Releases/Aider/aider-2023-07-22-v0-10-0-github-113187659-b0aea783|aider-2023-07-22-v0-10-0-github-113187659-b0aea783]]'
@@ -80,7 +80,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2023-07-12 · Cursor · [[Changes/Cursor/2023-07-12-this-update-patches-search-cmd-win-shift-f-and-many-extensions-for-and-wsl-and-s|This update patches search (Cmd/Win+Shift+F) and many extensions for and WSL and SSH users]]
+- Earlier: 2023-07-18 · Dify · [[Changes/Dify/2023-07-18-feat-add-bash-before-entrypoint-sh-in-dockerfile-by-takatost-in-https-github-com|feat: add bash before entrypoint.sh in Dockerfile]]
 - Later: 2023-07-24 · Aider · [[Changes/Aider/2023-07-24-added-git-command-to-run-git-from-inside-aider-chats|Added /git command to run git from inside aider chats]]
 <!-- chronolog:end -->
 

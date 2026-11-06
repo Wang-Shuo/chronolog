@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 07946b9cf7060f691dca2f763aa98977bae0bbfc1dce55b667bbf642abbc06e4
+machine_hash: 1f2bdf216740db6325e7fc7329f543f27d2deae425c83f65f8594c06abd5bd03
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -82,7 +82,7 @@ type: change
 ## Nearby in Context Window
 
 - Earlier: 2026-01-28 · Gemini CLI · [[Changes/Gemini CLI/2026-01-28-feat-core-enhanced-anchored-iterative-context-compression-with-self-verification|feat(core): enhanced anchored iterative context compression with self-verification]]
-- Later: 2026-01-30 · Cline · [[Changes/Cline/2026-01-30-new-model-added-kimi-k2-5-model-to-moonshot-provider-262k-context-image-support|_New model: Added Kimi-K2.5 model to Moonshot provider…]]
+- Later: 2026-01-30 · Cline · [[Changes/Cline/2026-01-30-new-model-added-kimi-k2-5-model-to-moonshot-provider-262k-context-image-support|New model: Added Kimi-K2.5 model to Moonshot provider…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

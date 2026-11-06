@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: 8c46f427dee28a558070d3620aff8a2f60f98088b950b5b35697bb9abfbb8a81
+machine_hash: f85c9a16c6924aa5068a1707a2afbbede128d6e4f1ab67a96b0165ac3ee6c413
 product: cursor
 product_name: Cursor
 record:
@@ -49,8 +49,8 @@ record:
   title: Hooks (beta)
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2025-09-18-2-agent-mode-changes-in-rust-v0-39-0|2 Agent Mode
-  changes in rust-v0.39.0]]'
+- '[[Changes/Replit/2025-09-26-agent-playground-testing-improvements|Agent playground
+  testing improvements]]'
 - '[[Changes/ChatGPT/2025-09-29-we-re-introducing-instant-checkout-in-chatgpt-and-the-agentic-commerce-protocol-8cbf19|ChatGPT
   introduces Instant Checkout and the Agentic Commerce Protocol that powers…]]'
 - '[[Changes/ChatGPT/2025-09-29-agentic-commerce-protocol|Agentic Commerce Protocol]]'
@@ -103,7 +103,7 @@ type: change
 ## Nearby in Agent Mode
 
 - Earlier: 2025-09-29 · ChatGPT · [[Changes/ChatGPT/2025-09-29-agentic-commerce-protocol|Agentic Commerce Protocol]]
-- Later: 2025-10-01 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2025-10-01-improved-the-experience-of-writing-prompts-while-the-agent-is-running-up-down-ar|Improved the experience of writing prompts while the agent is running -- up/down…]]
+- Later: 2025-09-29 · Dify · [[Changes/Dify/2025-09-29-2-agent-mode-changes-in-1-9-1|2 Agent Mode changes in 1.9.1]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

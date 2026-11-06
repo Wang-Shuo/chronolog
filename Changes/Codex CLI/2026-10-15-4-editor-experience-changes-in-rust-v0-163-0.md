@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 7d0eb1241875bb0e21a9702ea1307247b0aa914bbbbf9e6ecb66796175f1f9f7
+machine_hash: aa9cd48aac274ae5480bac310c555a33c2bd7ccbba03c0798f35893f47ef4821
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -49,12 +49,12 @@ record:
   title: 4 Editor Experience changes in rust-v0.163.0
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-10-13-synchronous-task-json-output-now-includes-failed-child-error-and-lifecycle-event|Synchronous
-  /task JSON output now includes failed child error and lifecycle events…]]'
-- '[[Changes/Claude Code/2026-10-14-3-editor-experience-changes-in-v2-1-300|3 Editor
-  Experience changes in v2.1.300]]'
 - '[[Changes/Claude Code/2026-10-14-2-editor-experience-changes-in-v2-1-299|2 Editor
   Experience changes in v2.1.299]]'
+- "[[Changes/Open WebUI/2026-10-14-open-attached-knowledge-from-its-preview-clicking-the-name-in-the-preview-of-an|\U0001F4DA
+  Open attached knowledge from its preview. Clicking the name in the preview…]]"
+- '[[Changes/Open WebUI/2026-10-14-4-editor-experience-changes-in-v0-12-1|4 Editor
+  Experience changes in v0.12.1]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-10-15-rust-v0-163-0-github-414286110-97016fe6|codex-cli-2026-10-15-rust-v0-163-0-github-414286110-97016fe6]]'
 source_type: github_releases
 theme: editor-experience
@@ -103,7 +103,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.163.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2026-10-14 · Claude Code · [[Changes/Claude Code/2026-10-14-2-editor-experience-changes-in-v2-1-299|2 Editor Experience changes in v2.1.299]]
+- Earlier: 2026-10-14 · Open WebUI · [[Changes/Open WebUI/2026-10-14-4-editor-experience-changes-in-v0-12-1|4 Editor Experience changes in v0.12.1]]
 - Later: 2026-10-16 · ChatGPT · [[Changes/ChatGPT/2026-10-16-create-and-refine-edit-text-images-shapes-and-charts-directly-or-ask-chatgpt-to|Create and refine]]
 <!-- chronolog:end -->
 

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 2785265458bde63cd2f87187c99a0265012305f0b69237517a0cda9a30a53b04
+machine_hash: 8f30d500677282cb69167b7eba49cd052896a22793f1b4280b88a216cacd7651
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -43,10 +43,10 @@ record:
   title: Ad-hoc text sources
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-02-20-chatgpt-now-has-a-total-context-window-length-of-256k-tokens-128k-input-and-128k|Expanded
-  context window for Thinking]]'
 - '[[Changes/Claude Code/2026-02-20-2-context-window-changes-in-v2-1-50|2 Context
   Window changes in v2.1.50]]'
+- '[[Changes/Ollama/2026-02-21-ollama-s-macos-and-windows-apps-will-now-default-to-a-context-length-based-on-av|Ollama''s
+  macOS and Windows apps will now default to a context length based…]]'
 - '[[Changes/Claude Code/2026-02-24-tool-results-larger-than-50k-characters-are-now-persisted-to-disk-previously-100|Tool
   results larger than 50K characters are now persisted to disk (previously 100K)]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-02-25-add-sources-to-your-projects-from-anywhere-83407292|chatgpt-2026-02-25-add-sources-to-your-projects-from-anywhere-83407292]]'

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: be518388a4707ba16b81903916fb2c4662c2d321fe2e04a5069ae87bf2765d45
+machine_hash: 9487163aaed520061f63ec97695eb5456770a0f62e8298aa27f222820c805ba4
 product: cline
 product_name: Cline
 record:
@@ -45,12 +45,12 @@ record:
   title: 2 Context Window changes in v4.1.24
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-10-08-10-context-window-changes-in-rust-v0-162-0|10 Context
-  Window changes in rust-v0.162.0]]'
-- '[[Changes/Claude Code/2026-10-09-2-context-window-changes-in-v2-1-296|2 Context
-  Window changes in v2.1.296]]'
 - '[[Changes/GitHub Copilot CLI/2026-10-09-context-now-applies-to-new-and-resumed-acp-sessions-instead-of-silently-using-th|--context
   now applies to new and resumed ACP sessions instead of silently using…]]'
+- '[[Changes/Replit/2026-10-09-work-across-projects-from-a-chat|Work across projects
+  from a chat]]'
+- '[[Changes/Open WebUI/2026-10-10-5-context-window-changes-in-v0-12-0|5 Context Window
+  changes in v0.12.0]]'
 source_release: '[[Releases/Cline/cline-2026-10-13-v4-1-24-github-411804449-05899922|cline-2026-10-13-v4-1-24-github-411804449-05899922]]'
 source_type: github_releases
 theme: context-window
@@ -88,7 +88,7 @@ Source: https://github.com/cline/cline/releases/tag/v4.1.24
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Context Window
 
-- Earlier: 2026-10-09 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-10-09-context-now-applies-to-new-and-resumed-acp-sessions-instead-of-silently-using-th|--context now applies to new and resumed ACP sessions instead of silently using…]]
+- Earlier: 2026-10-10 · Open WebUI · [[Changes/Open WebUI/2026-10-10-5-context-window-changes-in-v0-12-0|5 Context Window changes in v0.12.0]]
 - Later: 2026-10-14 · Claude Code · [[Changes/Claude Code/2026-10-14-added-cache-creation-5m-tokens-and-cache-creation-1h-tokens-to-the-opentelemetry|Added cache_creation_5m_tokens and cache_creation_1h_tokens to the OpenTelemetry…]]
 <!-- chronolog:end -->
 

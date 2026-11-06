@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: a7f1d8a43ef1fcfa340dab1203bd463d87f072e521691231ac8e2a6c04d60b88
+machine_hash: 5d7fb4ee7e716a27a84a36e02ff10e8de6c37168fdec043c85ada4f152f304b8
 product: claude-code
 product_name: Claude Code
 record:
@@ -47,10 +47,10 @@ record:
   title: 3 Apps and Integrations changes in v2.1.293
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-10-05-5-apps-and-integrations-changes-in-v1-0-92|5
-  Apps and Integrations changes in v1.0.92]]'
-- '[[Changes/Claude Code/2026-10-06-9-apps-and-integrations-changes-in-v2-1-292|9
-  Apps and Integrations changes in v2.1.292]]'
+- '[[Changes/Lovable/2026-10-06-connect-to-databricks-with-your-own-account|Connect
+  to Databricks with your own account]]'
+- '[[Changes/Lovable/2026-10-06-redesigned-model-list-for-the-built-in-ai-connector|Redesigned
+  model list for the built-in AI connector]]'
 - '[[Changes/OpenHands/2026-10-06-chore-consume-extensions-0-27-0-by-henriquehirako-in-https-github-com-openhands|chore:
   consume Extensions 0.27.0]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-10-07-v2-1-293-github-405988533-66d1bb8d|claude-code-2026-10-07-v2-1-293-github-405988533-66d1bb8d]]'

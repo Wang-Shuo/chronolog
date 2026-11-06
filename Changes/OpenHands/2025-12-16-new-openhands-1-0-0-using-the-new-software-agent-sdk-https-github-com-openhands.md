@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: 3988a5b513d8ad6c28e93622f3078d108d00a31dc7626536629216500232d34f
+machine_hash: 4d1023af4ed6226839b92ffdcb1529618a67ffd4f3a1f424af40ad3678491ac4
 product: openhands
 product_name: OpenHands
 record:
@@ -47,11 +47,10 @@ record:
   title: New OpenHands 1.0.0 using the [new…
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-12-10-plan-mode-now-supports-inline-mermaid-diagrams-allowing-the-agent-to-automatical|Plan
-  Mode improvements]]'
-- '[[Changes/Cursor/2025-12-10-multi-agent-judging|Multi-agent judging]]'
-- '[[Changes/Cursor/2025-12-10-agent-plans-are-now-files-that-can-be-edited-with-normal-tools|Agent
-  plans are now files that can be edited with normal tools]]'
+- '[[Changes/Dify/2025-12-11-2-agent-mode-changes-in-1-11-0|2 Agent Mode changes in
+  1.11.0]]'
+- '[[Changes/ElevenLabs/2025-12-15-agents-platform|Agents Platform]]'
+- '[[Changes/ElevenLabs/2025-12-15-agents-platform-ef857c|Agents Platform]]'
 source_release: '[[Releases/OpenHands/openhands-2025-12-16-1-0-0-github-270799113-83836508|openhands-2025-12-16-1-0-0-github-270799113-83836508]]'
 source_type: github_releases
 theme: agent-mode
@@ -82,7 +81,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2025-12-10 · Cursor · [[Changes/Cursor/2025-12-10-agent-plans-are-now-files-that-can-be-edited-with-normal-tools|Agent plans are now files that can be edited with normal tools]]
+- Earlier: 2025-12-15 · ElevenLabs · [[Changes/ElevenLabs/2025-12-15-agents-platform-ef857c|Agents Platform]]
 - Later: 2025-12-16 · Windsurf · [[Changes/Windsurf/2025-12-16-agents-tool-execution|Agents & Tool Execution]]
 <!-- chronolog:end -->
 

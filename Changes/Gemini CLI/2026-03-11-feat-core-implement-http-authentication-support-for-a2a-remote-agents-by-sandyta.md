@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 119e4e3c929cc6edb382ce0612030a5e293a4fecd6519a3e6e74d877f0dd2e27
+machine_hash: 212a27788f9c98e9e1bbc8981ab3a8d441742d1f1c4bbfbfa7d1680fc5b69221
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -54,8 +54,8 @@ record:
   title: 'feat(core): implement HTTP authentication support for A2A remote agents'
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-03-09-login-flow-no-longer-hangs-on-ubuntu-when-system-keyring-is-unresponsive|Login
-  flow no longer hangs on Ubuntu when system keyring is unresponsive]]'
+- '[[Changes/v0/2026-03-09-improved-error-messages-when-project-creation-or-oauth-flows-fail|Improved
+  error messages when project creation or OAuth flows fail]]'
 - '[[Changes/Codex CLI/2026-03-10-2-account-and-access-changes-in-rust-v0-113-0|2
   Account and Access changes in rust-v0.113.0]]'
 - '[[Changes/Claude Code/2026-03-11-added-actionable-guidance-when-oauth-login-or-connectivity-checks-fail-due-to-ss|Added

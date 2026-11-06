@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: e986a44f6f908fb0e280f8be1bc791c57d59f7549568c52511a5e90d490e5cfe
+machine_hash: 1d2d0f26cd826b1e8972414d0f2c542c6c1a54ca4c3bec3d43dd158859455504
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -44,9 +44,10 @@ record:
   title: Native Compaction Support
   type: change
 related_changes:
-- '[[Changes/Windsurf/2025-11-04-performance-improvements|Performance Improvements]]'
 - '[[Changes/Gemini CLI/2025-11-07-refactor-todo-improve-performance-and-readability-of-todo-component-by-miguelsol|refactor(todo):
   improve performance and readability of todo component]]'
+- '[[Changes/Ollama/2025-11-12-improved-rendering-performance-in-ollama-s-new-app-especially-when-rendering-cod|Improved
+  rendering performance in Ollama''s new app, especially when rendering code]]'
 - '[[Changes/GitHub Copilot CLI/2025-11-17-improve-ctrl-c-performance|Improve Ctrl+C
   performance]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2025-11-19-rust-v0-59-0-github-263735550-757042e7|codex-cli-2025-11-19-rust-v0-59-0-github-263735550-757042e7]]'
@@ -90,7 +91,7 @@ type: change
 ## Nearby in Reliability and Performance
 
 - Earlier: 2025-11-17 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2025-11-17-improve-ctrl-c-performance|Improve Ctrl+C performance]]
-- Later: 2025-11-21 · Windsurf · [[Changes/Windsurf/2025-11-21-general-improvements|General Improvements]]
+- Later: 2025-11-19 · Ollama · [[Changes/Ollama/2025-11-19-3-reliability-and-performance-changes-in-v0-13-0|3 Reliability and Performance changes in v0.13.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

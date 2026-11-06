@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: a9373073b1e132327bf57db1c4da53befd2bf6b4b9fc593ef139bf39ab6003c8
+machine_hash: 7cf8b0758c03873b531e0d4752d5904ed28edeb000ca46853a9625b8d7bd2672
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -90,11 +90,11 @@ record:
   title: 20 Model Support changes in v0.1.18
   type: change
 related_changes:
-- '[[Changes/Cline/2025-08-06-3-model-support-changes-in-v3-20-11|3 Model Support
-  changes in v3.20.11]]'
 - '[[Changes/Cline/2025-08-06-add-prompt-caching-for-opus-4-1-by-saoudrizwan-in-https-github-com-cline-cline-p|Add
   prompt caching for Opus 4.1]]'
 - '[[Changes/Cursor/2025-08-06-separate-models-per-agent|Separate models per Agent]]'
+- '[[Changes/Gemini/2025-08-06-students-get-one-free-year-of-google-ai-pro-in-the-us-japan-indonesia-korea-and|Students
+  get one free year of Google AI Pro in the US, Japan, Indonesia, Korea, and Brazil]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2025-08-06-v0-1-18-github-237823435-7c1f8990|gemini-cli-2025-08-06-v0-1-18-github-237823435-7c1f8990]]'
 source_type: github_releases
 theme: model-support
@@ -176,7 +176,7 @@ Source: https://github.com/google-gemini/gemini-cli/releases/tag/v0.1.18
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2025-08-06 · Cursor · [[Changes/Cursor/2025-08-06-separate-models-per-agent|Separate models per Agent]]
+- Earlier: 2025-08-06 · Gemini · [[Changes/Gemini/2025-08-06-students-get-one-free-year-of-google-ai-pro-in-the-us-japan-indonesia-korea-and|Students get one free year of Google AI Pro in the US, Japan, Indonesia, Korea, and Brazil]]
 - Later: 2025-08-07 · ChatGPT · [[Changes/ChatGPT/2025-08-07-gpt-5-is-slowly-rolling-out-to-all-users-on-chatgpt-plus-pro-team-and-free-plans-64a08c|GPT-5]]
 <!-- chronolog:end -->
 

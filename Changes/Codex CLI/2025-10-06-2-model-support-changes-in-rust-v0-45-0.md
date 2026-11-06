@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: d9c4e4b97a008fd54917035de8c9e2c8deb95dfa2143ef59b49521ac89d2a59c
+machine_hash: f4ac07a6a411b7e549f2d39c896478e2d1393e92a27b6df6410a0e1a97af4e96
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -43,12 +43,12 @@ record:
   title: 2 Model Support changes in rust-v0.45.0
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2025-10-02-added-usage-slash-command-to-provide-stats-about-premium-request-usage-session-t|Added
-  /usage slash command to provide stats about Premium request usage, session…]]'
 - '[[Changes/ChatGPT/2025-10-03-we-re-updating-gpt-5-instant-to-better-recognize-and-support-people-in-moments-o-ea32fc|Updating
   GPT-5]]'
 - '[[Changes/Codex CLI/2025-10-03-6-model-support-changes-in-rust-v0-44-0|6 Model
   Support changes in rust-v0.44.0]]'
+- '[[Changes/Ollama/2025-10-03-ollama-flash-attention-can-now-be-overridden-to-0-for-models-that-have-flash-att|OLLAMA_FLASH_ATTENTION
+  can now be overridden to 0 for models that have flash…]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2025-10-06-rust-v0-45-0-github-252516377-0c83cb4a|codex-cli-2025-10-06-rust-v0-45-0-github-252516377-0c83cb4a]]'
 source_type: github_releases
 theme: model-support
@@ -85,8 +85,8 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.45.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2025-10-03 · Codex CLI · [[Changes/Codex CLI/2025-10-03-6-model-support-changes-in-rust-v0-44-0|6 Model Support changes in rust-v0.44.0]]
-- Later: 2025-10-07 · Gemini CLI · [[Changes/Gemini CLI/2025-10-07-5-model-support-changes-in-v0-8-0|5 Model Support changes in v0.8.0]]
+- Earlier: 2025-10-03 · Ollama · [[Changes/Ollama/2025-10-03-ollama-flash-attention-can-now-be-overridden-to-0-for-models-that-have-flash-att|OLLAMA_FLASH_ATTENTION can now be overridden to 0 for models that have flash…]]
+- Later: 2025-10-06 · Lovable · [[Changes/Lovable/2025-10-06-sonnet-4-5|Sonnet 4.5]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

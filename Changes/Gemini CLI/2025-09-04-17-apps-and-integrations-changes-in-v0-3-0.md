@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: b2beec43b55cd9b2927826e54928d82ce0718b50f8f1027983248f16a3c20e4b
+machine_hash: 530c34bb90244711090a7d0f61910dd81d14cedbf72712d2253f0540c3f627a9
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -78,12 +78,10 @@ record:
   title: 17 Apps and Integrations changes in v0.3.0
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2025-08-27-2-apps-and-integrations-changes-in-v0-2-0|2 Apps
-  and Integrations changes in v0.2.0]]'
-- '[[Changes/Codex CLI/2025-08-29-3-apps-and-integrations-changes-in-rust-v0-26-0|3
-  Apps and Integrations changes in rust-v0.26.0]]'
-- '[[Changes/Codex CLI/2025-08-29-mcp-stability-drop-mutexes-earlier-and-avoid-lock-ordering-pitfalls|MCP
-  stability: drop mutexes earlier and avoid lock ordering pitfalls]]'
+- '[[Changes/ElevenLabs/2025-09-01-mcp-server|MCP Server]]'
+- '[[Changes/Lovable/2025-09-01-smarter-seo-for-new-apps|Smarter SEO for new apps]]'
+- '[[Changes/Dify/2025-09-03-4-apps-and-integrations-changes-in-1-8-1|4 Apps and Integrations
+  changes in 1.8.1]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2025-09-04-v0-3-0-github-244870431-556b0abc|gemini-cli-2025-09-04-v0-3-0-github-244870431-556b0abc]]'
 source_type: github_releases
 theme: apps-integrations
@@ -159,7 +157,7 @@ Source: https://github.com/google-gemini/gemini-cli/releases/tag/v0.3.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2025-08-29 · Codex CLI · [[Changes/Codex CLI/2025-08-29-mcp-stability-drop-mutexes-earlier-and-avoid-lock-ordering-pitfalls|MCP stability: drop mutexes earlier and avoid lock ordering pitfalls]]
+- Earlier: 2025-09-03 · Dify · [[Changes/Dify/2025-09-03-4-apps-and-integrations-changes-in-1-8-1|4 Apps and Integrations changes in 1.8.1]]
 - Later: 2025-09-05 · Codex CLI · [[Changes/Codex CLI/2025-09-05-4-apps-and-integrations-changes-in-rust-v0-30-0|4 Apps and Integrations changes in rust-v0.30.0]]
 <!-- chronolog:end -->
 

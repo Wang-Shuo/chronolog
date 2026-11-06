@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 0dacce7cd1e98e62a36c057ae07655013916995f1e51e1859c04b4839fe9542c
+machine_hash: 943c40c4f71d664116cf5bad8a882919c03887dfe9943a58909e19ba077a09e7
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -46,12 +46,11 @@ record:
   title: 3 Apps and Integrations changes in v0.0.395
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-01-23-2-apps-and-integrations-changes-in-v0-0-393|2
-  Apps and Integrations changes in v0.0.393]]'
 - '[[Changes/GitHub Copilot CLI/2026-01-24-plugin-skills-work-in-agent-responses|Plugin
   skills work in agent responses]]'
 - '[[Changes/Codex CLI/2026-01-25-3-apps-and-integrations-changes-in-rust-v0-90-0|3
   Apps and Integrations changes in rust-v0.90.0]]'
+- '[[Changes/ElevenLabs/2026-01-26-sdk-releases|SDK Releases]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-01-26-v0-0-395-github-280018620-9ba72686|github-copilot-cli-2026-01-26-v0-0-395-github-280018620-9ba72686]]'
 source_type: github_releases
 theme: apps-integrations
@@ -89,7 +88,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v0.0.395
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-01-25 · Codex CLI · [[Changes/Codex CLI/2026-01-25-3-apps-and-integrations-changes-in-rust-v0-90-0|3 Apps and Integrations changes in rust-v0.90.0]]
+- Earlier: 2026-01-26 · ElevenLabs · [[Changes/ElevenLabs/2026-01-26-sdk-releases|SDK Releases]]
 - Later: 2026-01-27 · Claude Code · [[Changes/Claude Code/2026-01-27-changed-the-commit-push-pr-skill-to-automatically-post-pr-urls-to-slack-channels|Changed the /commit-push-pr skill to automatically post PR URLs to Slack channels…]]
 <!-- chronolog:end -->
 

@@ -4,20 +4,20 @@ date: '2025-11-13'
 description: 'Cline · 2025-11-13 · Voice and Audio: 2 changes in v3.37.0 — Enable
   voice mode for linux also by @arafatkatze in https://github.com/cline/cline/pull/7369'
 diffusion:
-  first_in_tracked: '[[Changes/Aider/2023-08-11-voice-to-code-https-aider-chat-docs-voice-html-support-which-allows-you-to-code|Voice-to-code((source
-    link) support, which allows you…]]'
+  first_in_tracked: '[[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2
+    Voice and Audio changes in 0.3.7]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 825
+  lag_days: 857
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 0d865d727d681dc9878190d2ff0746c08d88bb1ac676c36d59e461350b71a684
+machine_hash: 983d54cd7870a95a5b691c9432b587f9cf768b2ccb5cea5488efacf19133df28
 product: cline
 product_name: Cline
 record:
@@ -42,11 +42,9 @@ record:
   title: 2 Voice and Audio changes in v3.37.0
   type: change
 related_changes:
-- '[[Changes/Cline/2025-09-25-3-voice-and-audio-changes-in-v3-31-0|3 Voice and Audio
-  changes in v3.31.0]]'
-- '[[Changes/ChatGPT/2025-09-29-turn-off-voice-mode-to-remove-the-option-to-use-voice-mode-in-chatgpt|Turn
-  off voice mode, to remove the option to use voice mode in ChatGPT]]'
-- '[[Changes/Cursor/2025-10-29-voice-mode|Voice Mode]]'
+- '[[Changes/ElevenLabs/2025-11-12-music-api|Music API]]'
+- '[[Changes/ElevenLabs/2025-11-12-elevencreative-studio|ElevenCreative Studio]]'
+- '[[Changes/ElevenLabs/2025-11-12-python-sdk|Python SDK]]'
 source_release: '[[Releases/Cline/cline-2025-11-13-v3-37-0-github-262246065-f6c1ac93|cline-2025-11-13-v3-37-0-github-262246065-f6c1ac93]]'
 source_type: github_releases
 theme: voice
@@ -86,14 +84,14 @@ Source: https://github.com/cline/cline/releases/tag/v3.37.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Voice and Audio
 
-- Earlier: 2025-10-29 · Cursor · [[Changes/Cursor/2025-10-29-voice-mode|Voice Mode]]
-- Later: 2025-11-25 · ChatGPT · [[Changes/ChatGPT/2025-11-25-we-re-making-chatgpt-voice-a-seamless-part-of-the-chatgpt-experience-so-you-can-2bc316|We’re making ChatGPT Voice a seamless part of the ChatGPT experience, so you can use…]]
+- Earlier: 2025-11-12 · ElevenLabs · [[Changes/ElevenLabs/2025-11-12-python-sdk|Python SDK]]
+- Later: 2025-11-13 · Dify · [[Changes/Dify/2025-11-13-feat-add-audio-content-support-for-mcp-tools-by-ithacadream-in-https-github-com|feat: Add Audio Content Support for MCP Tools]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-08-11 · Aider · [[Changes/Aider/2023-08-11-voice-to-code-https-aider-chat-docs-voice-html-support-which-allows-you-to-code|Voice-to-code((source link) support, which allows you…]]
+- Earliest same-theme entry in the tracked set: 2023-07-10 · Dify · [[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2 Voice and Audio changes in 0.3.7]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

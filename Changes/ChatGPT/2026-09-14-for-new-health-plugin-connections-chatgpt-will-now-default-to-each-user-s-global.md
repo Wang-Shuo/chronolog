@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 0444ce42e2f44e83aa2f77aaa3aba98f046dd1f9544d104f374a2aec6708c4b9
+machine_hash: 88e35553e7284a00d63399e5f6eec1b07ed54dccc7b6c58e0508d4948a11cc8b
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -47,12 +47,12 @@ record:
     global…
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-09-11-we-re-planning-to-retire-custom-gpts-across-chatgpt-plans-and-provide-a-migratio|Planned
-  custom GPT retirement and migration to plugins]]'
-- '[[Changes/Claude Code/2026-09-11-5-apps-and-integrations-changes-in-v2-1-269|5
-  Apps and Integrations changes in v2.1.269]]'
-- '[[Changes/Claude Code/2026-09-11-added-output-style-name-to-list-and-switch-output-styles-including-over-remote-c|Added
-  /output-style name to list and switch output styles, including over Remote…]]'
+- '[[Changes/Lovable/2026-09-11-connect-other-mcp-clients-to-the-lovable-mcp-server|Connect
+  other MCP clients to the Lovable MCP server]]'
+- '[[Changes/Replit/2026-09-11-use-managed-postgresql-in-databricks-apps|Use managed
+  PostgreSQL in Databricks Apps]]'
+- '[[Changes/Replit/2026-09-11-use-replit-from-desktop-mcp-clients|Use Replit from
+  desktop MCP clients]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-09-14-updated-permissions-for-new-health-connections-8bc634b7|chatgpt-2026-09-14-updated-permissions-for-new-health-connections-8bc634b7]]'
 source_type: chatgpt_changelog
 theme: apps-integrations
@@ -83,7 +83,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-09-11 · Claude Code · [[Changes/Claude Code/2026-09-11-added-output-style-name-to-list-and-switch-output-styles-including-over-remote-c|Added /output-style name to list and switch output styles, including over Remote…]]
+- Earlier: 2026-09-11 · Replit · [[Changes/Replit/2026-09-11-use-replit-from-desktop-mcp-clients|Use Replit from desktop MCP clients]]
 - Later: 2026-09-14 · Claude Code · [[Changes/Claude Code/2026-09-14-5-apps-and-integrations-changes-in-v2-1-271|5 Apps and Integrations changes in v2.1.271]]
 <!-- chronolog:end -->
 

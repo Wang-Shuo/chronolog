@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: a6377856b9a81a30429ca101507ee998bed5e0cd4587bdba17c3b7384cda3684
+machine_hash: da47cc89d12dcaa0ce2e14f6ce3e0fd8fc80f04c6a2f5be6b38e6d4edceba53a
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -42,12 +42,12 @@ record:
   title: 2 Agent Mode changes in rust-v0.59.0
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2025-11-12-3-agent-mode-changes-in-v0-0-355|3 Agent
-  Mode changes in v0.0.355]]'
-- '[[Changes/Cline/2025-11-13-feat-add-agents-md-support-by-saoudrizwan-in-https-github-com-cline-cline-pull-7|feat:
-  add AGENTS.md support]]'
 - '[[Changes/Codex CLI/2025-11-13-6510-feat-shell-command-tool-29364f3a9|♯6510 — feat:
   shell_command tool (29364f3a9)]]'
+- '[[Changes/Dify/2025-11-13-these-trigger-features-are-only-available-for-workflows-chatflow-agent-and-basic|These
+  trigger features are only available for Workflows]]'
+- '[[Changes/Gemini/2025-11-18-gemini-agent-is-now-available-on-the-web-to-google-ai-ultra-subscribers-18-in-th|Gemini
+  Agent is now available on the web, to Google AI Ultra subscribers 18+ in the US]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2025-11-19-rust-v0-59-0-github-263735550-757042e7|codex-cli-2025-11-19-rust-v0-59-0-github-263735550-757042e7]]'
 source_type: github_releases
 theme: agent-mode
@@ -92,7 +92,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.59.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2025-11-13 · Codex CLI · [[Changes/Codex CLI/2025-11-13-6510-feat-shell-command-tool-29364f3a9|♯6510 — feat: shell_command tool (29364f3a9)]]
+- Earlier: 2025-11-18 · Gemini · [[Changes/Gemini/2025-11-18-gemini-agent-is-now-available-on-the-web-to-google-ai-ultra-subscribers-18-in-th|Gemini Agent is now available on the web, to Google AI Ultra subscribers 18+ in the US]]
 - Later: 2025-11-21 · Cursor · [[Changes/Cursor/2025-11-21-instant-grep-beta|Instant Grep (Beta)]]
 <!-- chronolog:end -->
 

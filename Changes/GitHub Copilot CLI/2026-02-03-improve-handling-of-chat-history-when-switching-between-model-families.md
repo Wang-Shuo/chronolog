@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: b3417b94f44a798eb946b8648cb53ef4fbe291ff16d86f2d893a60bfe2a05ebe
+machine_hash: 7c1ecf118c495e4af859e20cd62ee8fea35967ebbfab60127d0e97c500ed77b0
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -43,12 +43,11 @@ record:
   title: Improve handling of chat history when switching between model families
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-01-31-10118-codex-cli-show-model-capacity-guidance-on-429-ccy-oai|♯10118
-  CodexCLI Show model-capacity guidance on 429 @ccy-oai]]'
-- '[[Changes/Codex CLI/2026-02-02-10373-chore-core-gpt-5-2-codex-personality-template-dylan-hurd-oai|♯10373
-  chore(core) gpt-5.2-codex personality template @dylan-hurd-oai]]'
+- '[[Changes/ElevenLabs/2026-02-02-user|User]]'
 - '[[Changes/Claude Code/2026-02-03-changed-model-to-execute-immediately-instead-of-being-queued|Changed
   /model to execute immediately instead of being queued]]'
+- '[[Changes/Dify/2026-02-03-5-model-support-changes-in-1-12-0|5 Model Support changes
+  in 1.12.0]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-02-03-v0-0-401-github-282605019-24696a01|github-copilot-cli-2026-02-03-v0-0-401-github-282605019-24696a01]]'
 source_type: github_releases
 theme: model-support
@@ -82,7 +81,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-02-03 · Claude Code · [[Changes/Claude Code/2026-02-03-changed-model-to-execute-immediately-instead-of-being-queued|Changed /model to execute immediately instead of being queued]]
+- Earlier: 2026-02-03 · Dify · [[Changes/Dify/2026-02-03-5-model-support-changes-in-1-12-0|5 Model Support changes in 1.12.0]]
 - Later: 2026-02-04 · ChatGPT · [[Changes/ChatGPT/2026-02-04-jan-10-2026-we-lowered-the-standard-and-light-thinking-time-as-we-observed-users-e93d5a|Jan 10, 2026: We lowered the Standard and Light thinking time as we observed users…]]
 <!-- chronolog:end -->
 

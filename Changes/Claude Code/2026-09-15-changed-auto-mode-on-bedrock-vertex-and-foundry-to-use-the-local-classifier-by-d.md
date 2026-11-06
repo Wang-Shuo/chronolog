@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 1cb471bc9e8b0a9b1b4f487434409f9439ff2a4e19f9a353e0d7498e3c1ef04a
+machine_hash: 0c0c4757e65551104c8318b82c146e0701e87aee321eb2148c626f81461cef8c
 product: claude-code
 product_name: Claude Code
 record:
@@ -44,11 +44,10 @@ record:
   title: Changed auto mode on Bedrock, Vertex and Foundry to use the local classifier…
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-09-10-subscriptions|Subscriptions]]'
-- '[[Changes/Claude Code/2026-09-11-2-agent-mode-changes-in-v2-1-269|2 Agent Mode
-  changes in v2.1.269]]'
 - '[[Changes/Claude Code/2026-09-14-7-agent-mode-changes-in-v2-1-271|7 Agent Mode
   changes in v2.1.271]]'
+- '[[Changes/ElevenLabs/2026-09-14-elevenagents|ElevenAgents]]'
+- '[[Changes/ElevenLabs/2026-09-14-elevenagents-d9e798|ElevenAgents]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-15-v2-1-273-github-389362239-6ea37826|claude-code-2026-09-15-v2-1-273-github-389362239-6ea37826]]'
 source_type: github_releases
 theme: agent-mode
@@ -88,7 +87,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2026-09-14 · Claude Code · [[Changes/Claude Code/2026-09-14-7-agent-mode-changes-in-v2-1-271|7 Agent Mode changes in v2.1.271]]
+- Earlier: 2026-09-14 · ElevenLabs · [[Changes/ElevenLabs/2026-09-14-elevenagents-d9e798|ElevenAgents]]
 - Later: 2026-09-16 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-09-16-2-agent-mode-changes-in-v1-0-85|2 Agent Mode changes in v1.0.85]]
 <!-- chronolog:end -->
 

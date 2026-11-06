@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 0e912fe6fa25f6f4bfc0ce0098c3b4e55ff384d38f2cf02eb532c2148bb82787
+machine_hash: b4298455657c44b83dd58fc4c0893fb6b411c7e8bb78bfe70d31f9fef28f4c91
 product: cursor
 product_name: Cursor
 record:
@@ -44,8 +44,8 @@ record:
   title: WSL Fixes
   type: change
 related_changes:
-- '[[Changes/Cursor/2023-08-03-also-the-linter-is-slightly-improved|In-editor chat
-  is back!]]'
+- '[[Changes/Dify/2023-08-14-refactor-added-project-name-to-docker-compose-command-by-shunyue1320-in-https-gi|refactor:
+  Added project name to Docker Compose command]]'
 - '[[Changes/Cursor/2023-08-17-the-cursor-nightly-command-now-works-on-mac|The cursor-nightly
   command now works on Mac]]'
 - '[[Changes/Aider/2023-08-22-improved-foo-no-foo-switch-handling-for-command-line-and-yml-config-settings|Improved

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 0d1e577f0b6ebfe2dbf0448ced374ce3f663be29d36fd3276770a1a3bc3b79fe
+machine_hash: e0889b2ccec8760ae71c8429f2350e1a37945f2899ce330213810f8045aae3ea
 product: cursor
 product_name: Cursor
 record:
@@ -89,7 +89,7 @@ type: change
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-06-22 · Codex CLI · [[Changes/Codex CLI/2026-06-22-37-apps-and-integrations-changes-in-rust-v0-142-0|37 Apps and Integrations changes in rust-v0.142.0]]
-- Later: 2026-06-23 · Claude Code · [[Changes/Claude Code/2026-06-23-2-apps-and-integrations-changes-in-v2-1-187|2 Apps and Integrations changes in v2.1.187]]
+- Later: 2026-06-22 · ElevenLabs · [[Changes/ElevenLabs/2026-06-22-python-sdk|Python SDK]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

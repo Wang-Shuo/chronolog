@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 6404800c14dec440983d5d659f7428552460e284b6a086bdda191e3caa54e51f
+machine_hash: 680f1d6531e45b1f2a6420e5b6cd678a1bfd10ad0d968981194390241f77f2f1
 product: claude-code
 product_name: Claude Code
 record:
@@ -44,10 +44,10 @@ record:
   title: Improved memory and disk use when PDFs are @-mentioned
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-10-08-3-reliability-and-performance-changes-in-rust-v0-162-0|3
-  Reliability and Performance changes in rust-v0.162.0]]'
-- '[[Changes/Claude Code/2026-10-09-improved-transcript-toggle-ctrl-o-responsiveness-in-code-heavy-conversations-by|Improved
-  transcript toggle (ctrl+o) responsiveness in code-heavy conversations…]]'
+- '[[Changes/Ollama/2026-10-11-paused-background-model-upgrade-for-embedding-and-other-request-performance-by-j|Paused
+  background model upgrade for embedding and other request performance,]]'
+- '[[Changes/Ollama/2026-10-12-2-reliability-and-performance-changes-in-v0-40-4|2
+  Reliability and Performance changes in v0.40.4]]'
 - '[[Changes/GitHub Copilot CLI/2026-10-13-emergency-memory-relief-in-long-sessions-can-now-bypass-its-cooldown-before-v8-a|Emergency
   memory relief in long sessions can now bypass its cooldown before V8…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-10-14-v2-1-299-github-412217284-623d9162|claude-code-2026-10-14-v2-1-299-github-412217284-623d9162]]'
@@ -91,7 +91,7 @@ type: change
 ## Nearby in Reliability and Performance
 
 - Earlier: 2026-10-13 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-10-13-emergency-memory-relief-in-long-sessions-can-now-bypass-its-cooldown-before-v8-a|Emergency memory relief in long sessions can now bypass its cooldown before V8…]]
-- Later: 2026-10-16 · ChatGPT · [[Changes/ChatGPT/2026-10-16-faster-responses|Faster responses]]
+- Later: 2026-10-14 · Open WebUI · [[Changes/Open WebUI/2026-10-14-general-improvements-various-improvements-were-implemented-across-the-applicatio|🔄 General improvements. Various improvements were implemented across…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

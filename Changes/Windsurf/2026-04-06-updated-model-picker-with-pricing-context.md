@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: 293241f816fe17d7c71cab4ca3ed87aa46cf64b74214341341556352b3241085
+machine_hash: 892c84bdcfb21f26f6fba7a42f4636dc8db67da9a68d9490b8c4553333687573
 product: windsurf
 product_name: Windsurf
 record:
@@ -73,8 +73,8 @@ record:
   title: Updated Model Picker with Pricing Context
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2026-03-24-feat-telemetry-add-clearcut-instrumentation-for-ai-credits-billing-events-by-gsq|feat(telemetry):
-  add Clearcut instrumentation for AI credits billing events]]'
+- '[[Changes/Dify/2026-03-27-3-pricing-model-changes-in-1-13-3|3 Pricing Model changes
+  in 1.13.3]]'
 - '[[Changes/Codex CLI/2026-03-31-15934-add-usage-based-business-plan-types-bwanner-oai|♯15934
   Add usage-based business plan types @bwanner-oai]]'
 - '[[Changes/Claude Code/2026-04-04-added-per-model-and-cache-hit-breakdown-to-cost-for-subscription-users|Added

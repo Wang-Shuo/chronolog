@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 3e92e694e8b3048f4b247e174db00c01a2ccbf861a55c072a53a659ed040e5f3
+machine_hash: 2962e35eff353faca8de3f5e93ea90fee48e70c553b94607b4b8a4adcfbab2f8
 product: claude-code
 product_name: Claude Code
 record:
@@ -49,10 +49,10 @@ record:
   title: 3 Apps and Integrations changes in v2.1.307
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-20-4-apps-and-integrations-changes-in-v2-1-305|4
-  Apps and Integrations changes in v2.1.305]]'
-- '[[Changes/GitHub Copilot CLI/2026-10-20-4-apps-and-integrations-changes-in-v1-0-101|4
-  Apps and Integrations changes in v1.0.101]]'
+- '[[Changes/Lovable/2026-10-20-let-lovable-create-your-supabase-project|Let Lovable
+  create your Supabase project]]'
+- '[[Changes/Lovable/2026-10-20-app-chat-connectors-llamaparse-platform-and-n8n|App
+  + chat connectors: LlamaParse Platform and n8n]]'
 - '[[Changes/OpenHands/2026-10-20-2-apps-and-integrations-changes-in-v1-29-0|2 Apps
   and Integrations changes in v1.29.0]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-10-21-v2-1-307-github-420041378-ab2f5a8d|claude-code-2026-10-21-v2-1-307-github-420041378-ab2f5a8d]]'

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: cdc9cbf0b8e2cdad8b006b7b553171f61f2da6af91924a6b29faa26a8beaeea6
+machine_hash: 6c2410d36196edcdc670278e4ae2742635b86e8696ddb5d51be2463580f5380b
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -44,11 +44,11 @@ record:
   title: 3 Agent Mode changes in rust-v0.74.0
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-12-10-agent-plans-are-now-files-that-can-be-edited-with-normal-tools|Agent
-  plans are now files that can be edited with normal tools]]'
 - '[[Changes/OpenHands/2025-12-16-new-openhands-1-0-0-using-the-new-software-agent-sdk-https-github-com-openhands|New
   OpenHands 1.0.0 using the new…]]'
 - '[[Changes/Windsurf/2025-12-16-agents-tool-execution|Agents & Tool Execution]]'
+- '[[Changes/Claude/2025-12-18-skills-for-organizations-partners-and-the-ecosystem|Skills
+  for organizations, partners, and the ecosystem]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2025-12-18-rust-v0-74-0-github-271533952-972d825a|codex-cli-2025-12-18-rust-v0-74-0-github-271533952-972d825a]]'
 source_type: github_releases
 theme: agent-mode
@@ -95,7 +95,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.74.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2025-12-16 · Windsurf · [[Changes/Windsurf/2025-12-16-agents-tool-execution|Agents & Tool Execution]]
+- Earlier: 2025-12-18 · Claude · [[Changes/Claude/2025-12-18-skills-for-organizations-partners-and-the-ecosystem|Skills for organizations, partners, and the ecosystem]]
 - Later: 2025-12-18 · Cursor · [[Changes/Cursor/2025-12-18-shared-agent-transcripts-164030|Shared agent transcripts]]
 <!-- chronolog:end -->
 

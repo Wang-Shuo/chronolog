@@ -1,0 +1,96 @@
+---
+card_id: replit-2026-03-06-f8aa29
+date: '2026-03-06'
+description: 'Replit · 2026-03-06 · Interface Experience: Long messages in AI Chat
+  are now truncated with a "Show more" button, keeping your chat history readable.'
+diffusion:
+  first_in_tracked: '[[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop
+    generating: Based on your feedback, we''ve added the ability to stop generating…]]'
+  inference: No adoption, equivalence, or causation claim.
+  lag_days: 1152
+  relation: same-theme-chronology
+  role: later-observed
+  scope: tracked-products-only
+  theme: interface-experience
+  tracked_products_count: 20
+evolves_from: []
+extractor_version: fallback-v5
+impact: incremental
+kind: launch
+machine_hash: 5ffdde20ac2295c3ee0f9a931adaf904b49b51fd5a8f913b128c1f9e0ec694db
+product: replit
+product_name: Replit
+record:
+  card_id: replit-2026-03-06-f8aa29
+  comparison: ''
+  date: '2026-03-06'
+  description: 'Replit — Replit updates — 2026-03-06: Long messages in AI Chat are
+    now truncated with a "Show more" button, keeping your chat history readable.'
+  evidence:
+  - quote: Long messages in AI Chat are now truncated with a "Show more" button, keeping
+      your chat history readable.
+    source_release: https://docs.replit.com/updates/2026/03/06/changelog
+  extractor_version: fallback-v5
+  impact: incremental
+  kind: launch
+  product: replit
+  product_name: Replit
+  slug: ai-chat-message-truncation
+  source_release: replit-2026-03-06-2026-03-06-63efb5ba
+  source_type: replit_changelog
+  theme: interface-experience
+  theme_matches: []
+  theme_resolution: manual-semantic-rule-v1
+  title: AI Chat message truncation
+  type: change
+related_changes:
+- '[[Changes/Codex CLI/2026-03-05-13313-renaming-team-to-business-plan-during-tui-onboarding-bwanner-oai|♯13313
+  Renaming Team to Business plan during TUI onboarding @bwanner-oai]]'
+- '[[Changes/GitHub Copilot CLI/2026-03-05-text-selection-persists-after-copying-to-clipboard-in-alt-screen|Text
+  selection persists after copying to clipboard in alt screen]]'
+- '[[Changes/Claude Code/2026-03-06-vscode-added-spark-icon-in-vs-code-activity-bar-that-lists-all-claude-code-sessi|VSCode
+  Added spark icon in VS Code activity bar that lists all Claude Code…]]'
+source_release: '[[Releases/Replit/replit-2026-03-06-2026-03-06-63efb5ba|replit-2026-03-06-2026-03-06-63efb5ba]]'
+source_type: replit_changelog
+theme: interface-experience
+title: AI Chat message truncation
+type: change
+---
+
+<!-- chronolog:begin region="header" -->
+# AI Chat message truncation
+
+**Replit** · 2026-03-06 · [[Themes/interface-experience|Interface Experience]] · Launch · [Official source](https://docs.replit.com/updates/2026/03/06/changelog) · from [[Releases/Replit/replit-2026-03-06-2026-03-06-63efb5ba|Replit updates — 2026-03-06]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="evidence" -->
+> Long messages in AI Chat are now truncated with a "Show more" button, keeping your chat history readable.
+>
+> Source: https://docs.replit.com/updates/2026/03/06/changelog
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="context" -->
+## Also in this release
+
+- [[Changes/Replit/2026-03-06-gpt-codex-5-3-support-in-ai-integrations|GPT-Codex-5.3 support in AI Integrations]] · Apps and Integrations
+- [[Changes/Replit/2026-03-06-connectors-and-ai-integrations-now-enabled-by-default-for-teams-and-enterprise|Connectors and AI Integrations now enabled by default for Teams and Enterprise]] · Apps and Integrations
+- [[Changes/Replit/2026-03-06-teams-and-enterprise|Teams and Enterprise]] · Enterprise and Administration
+- [[Changes/Replit/2026-03-06-revenuecat-integration-now-generally-available|RevenueCat integration now generally available]] · Apps and Integrations
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="nearby" -->
+## Nearby in Interface Experience
+
+- Earlier: 2026-03-06 · Claude Code · [[Changes/Claude Code/2026-03-06-vscode-added-spark-icon-in-vs-code-activity-bar-that-lists-all-claude-code-sessi|VSCode Added spark icon in VS Code activity bar that lists all Claude Code…]]
+- Later: 2026-03-08 · Codex CLI · [[Changes/Codex CLI/2026-03-08-added-a-new-model-selection-surface-update-so-the-latest-model-catalog-changes-a|Added a new model-selection surface update so the latest model catalog changes…]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="relations" -->
+## Related
+
+- Earliest same-theme entry in the tracked set: 2023-01-09 · ChatGPT · [[Changes/ChatGPT/2023-01-09-stop-generating-based-on-your-feedback-we-ve-added-the-ability-to-stop-generatin|Stop generating: Based on your feedback, we've added the ability to stop generating…]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="footer" -->
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20replit-2026-03-06-f8aa29&body=Card%3A%20Changes%2FReplit%2F2026-03-06-ai-chat-message-truncation.md%0ACard%20ID%3A%20replit-2026-03-06-f8aa29%0ASource%3A%20https%3A%2F%2Fdocs.replit.com%2Fupdates%2F2026%2F03%2F06%2Fchangelog%0A%0AWhat%20should%20be%20corrected%3F%0A)
+<!-- chronolog:end -->

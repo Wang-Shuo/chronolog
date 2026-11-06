@@ -1,0 +1,94 @@
+---
+card_id: replit-2025-06-20-6cd2b2
+date: '2025-06-20'
+description: 'Replit · 2025-06-20 · Reliability and Performance: Python runs are now
+  faster than ever! Thanks to internal improvements, the execution time of Python
+  runs has…'
+diffusion:
+  first_in_tracked: '[[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General
+    performance: Among other improvements, users will notice that ChatGPT is now…]]'
+  inference: No adoption, equivalence, or causation claim.
+  lag_days: 918
+  relation: same-theme-chronology
+  role: later-observed
+  scope: tracked-products-only
+  theme: reliability-performance
+  tracked_products_count: 20
+evolves_from: []
+extractor_version: fallback-v5
+impact: incremental
+kind: launch
+machine_hash: 22bb4c3113764b397bd6103a5553a710e0d862556fcce2f89bd1bcb632b0852e
+product: replit
+product_name: Replit
+record:
+  card_id: replit-2025-06-20-6cd2b2
+  comparison: ''
+  date: '2025-06-20'
+  description: 'Replit — Replit updates — 2025-06-20: Python runs are now faster than
+    ever! Thanks to internal improvements, the execution time of Python runs has been
+    reduced for a smoother experience.'
+  evidence:
+  - quote: Python runs are now faster than ever! Thanks to internal improvements,
+      the execution time of Python runs has been reduced for a smoother experience.
+    source_release: https://docs.replit.com/updates/2025/06/20/changelog
+  extractor_version: fallback-v5
+  impact: incremental
+  kind: launch
+  product: replit
+  product_name: Replit
+  slug: python-run-performance-improvements
+  source_release: replit-2025-06-20-2025-06-20-5f136b4d
+  source_type: replit_changelog
+  theme: reliability-performance
+  title: Python run performance improvements
+  type: change
+related_changes:
+- '[[Changes/ChatGPT/2025-06-13-improved-search-capability-and-instruction-following-594de0|Improved
+  search capability and instruction following]]'
+- '[[Changes/Replit/2025-06-13-infrastructure-improvements|Infrastructure improvements]]'
+- '[[Changes/Open WebUI/2025-06-16-4-reliability-and-performance-changes-in-v0-6-15|4
+  Reliability and Performance changes in v0.6.15]]'
+source_release: '[[Releases/Replit/replit-2025-06-20-2025-06-20-5f136b4d|replit-2025-06-20-2025-06-20-5f136b4d]]'
+source_type: replit_changelog
+theme: reliability-performance
+title: Python run performance improvements
+type: change
+---
+
+<!-- chronolog:begin region="header" -->
+# Python run performance improvements
+
+**Replit** · 2025-06-20 · [[Themes/reliability-performance|Reliability and Performance]] · Launch · [Official source](https://docs.replit.com/updates/2025/06/20/changelog) · from [[Releases/Replit/replit-2025-06-20-2025-06-20-5f136b4d|Replit updates — 2025-06-20]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="evidence" -->
+> Python runs are now faster than ever! Thanks to internal improvements, the execution time of Python runs has been reduced for a smoother experience.
+>
+> Source: https://docs.replit.com/updates/2025/06/20/changelog
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="context" -->
+## Also in this release
+
+- [[Changes/Replit/2025-06-20-deployment-prevention|Deployment prevention]] · Safety and Privacy
+- [[Changes/Replit/2025-06-20-view-live-app-button|View live app button]] · Safety and Privacy
+- [[Changes/Replit/2025-06-20-security-scanner-improvements|Security scanner improvements]] · Safety and Privacy
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="nearby" -->
+## Nearby in Reliability and Performance
+
+- Earlier: 2025-06-16 · Open WebUI · [[Changes/Open WebUI/2025-06-16-4-reliability-and-performance-changes-in-v0-6-15|4 Reliability and Performance changes in v0.6.15]]
+- Later: 2025-06-24 · OpenHands · [[Changes/OpenHands/2025-06-24-enabled-users-to-provide-feedback-on-agent-performance-even-when-the-agent-encou|Enabled users to provide feedback on agent performance even when the agent…]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="relations" -->
+## Related
+
+- Earliest same-theme entry in the tracked set: 2022-12-15 · ChatGPT · [[Changes/ChatGPT/2022-12-15-general-performance-among-other-improvements-users-will-notice-that-chatgpt-is-n|General performance: Among other improvements, users will notice that ChatGPT is now…]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="footer" -->
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20replit-2025-06-20-6cd2b2&body=Card%3A%20Changes%2FReplit%2F2025-06-20-python-run-performance-improvements.md%0ACard%20ID%3A%20replit-2025-06-20-6cd2b2%0ASource%3A%20https%3A%2F%2Fdocs.replit.com%2Fupdates%2F2025%2F06%2F20%2Fchangelog%0A%0AWhat%20should%20be%20corrected%3F%0A)
+<!-- chronolog:end -->

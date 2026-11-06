@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: 7cc877543b26dd2375cc3d24447e02aef0f6568e6580a1305a866a6b3d4e845b
+machine_hash: b69a9a7e072a19fbd9467e000ec548119217b6a6a80a883242ad1e944f6b9f34
 product: windsurf
 product_name: Windsurf
 record:
@@ -42,10 +42,10 @@ record:
   title: Tab (Supercomplete)
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2025-12-09-3-editor-experience-changes-in-rust-v0-66-0|3 Editor
-  Experience changes in rust-v0.66.0]]'
-- '[[Changes/Cursor/2025-12-10-browser-layout-and-style-editor-c9ae9c|Browser layout
-  and style editor]]'
+- '[[Changes/v0/2025-12-10-v0-s-editor-just-got-a-major-upgrade-you-can-now|v0''s
+  editor just got a major upgrade]]'
+- '[[Changes/v0/2025-12-10-added-previews-for-svg-and-md-files-to-the-new-editor|Added
+  previews for svg and md files to the new editor]]'
 - '[[Changes/Windsurf/2025-12-10-diff-zones|Diff Zones]]'
 source_release: '[[Releases/Windsurf/windsurf-2025-12-10-v1-12-41-fc64d619|windsurf-2025-12-10-v1-12-41-fc64d619]]'
 source_type: windsurf_changelog
@@ -81,7 +81,7 @@ type: change
 ## Nearby in Editor Experience
 
 - Earlier: 2025-12-10 · Cursor · [[Changes/Cursor/2025-12-10-browser-layout-and-style-editor-c9ae9c|Browser layout and style editor]]
-- Later: 2025-12-11 · Cline · [[Changes/Cline/2025-12-11-display-completion-messages-in-processstateupdate-by-maxpaulus43-in-https-github|display completion messages in processStateUpdate]]
+- Later: 2025-12-10 · v0 · [[Changes/v0/2025-12-10-v0-s-editor-just-got-a-major-upgrade-you-can-now|v0's editor just got a major upgrade]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

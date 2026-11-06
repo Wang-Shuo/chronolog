@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: search-browsing
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: e4c28d2cfeb7b9cf7f4b1abd0ea6d6bd6ac70f4a54b7a895800a80b2bca1ec05
+machine_hash: 3e3361b9506234e0f3194e2eecb375f44975c5c0b8f749c9e46193ff53b20f72
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -44,12 +44,12 @@ record:
   title: 2 Search and Browsing changes in rust-v0.95.0
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-01-16-added-webfetch-websearch-tools-approval-options-for-granular-controls-over-web-s|Added
-  WebFetch, WebSearch tools, & approval options for granular controls over web…]]'
-- '[[Changes/Codex CLI/2026-01-27-5-search-and-browsing-changes-in-rust-v0-92-0|5
-  Search and Browsing changes in rust-v0.92.0]]'
+- '[[Changes/Gemini/2026-01-28-meet-your-new-ai-browsing-assistant-gemini-in-chrome|Meet
+  your new AI browsing assistant: Gemini in Chrome]]'
 - '[[Changes/Codex CLI/2026-01-31-3-search-and-browsing-changes-in-rust-v0-93-0|3
   Search and Browsing changes in rust-v0.93.0]]'
+- '[[Changes/Ollama/2026-02-03-sub-agent-support-for-ollama-launch-for-planning-deep-research-and-similar-tasks|Sub-agent
+  support for ollama launch for planning, deep research, and similar tasks]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-02-04-rust-v0-95-0-github-282823276-932b0b6b|codex-cli-2026-02-04-rust-v0-95-0-github-282823276-932b0b6b]]'
 source_type: github_releases
 theme: search-browsing
@@ -92,7 +92,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.95.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Search and Browsing
 
-- Earlier: 2026-01-31 · Codex CLI · [[Changes/Codex CLI/2026-01-31-3-search-and-browsing-changes-in-rust-v0-93-0|3 Search and Browsing changes in rust-v0.93.0]]
+- Earlier: 2026-02-03 · Ollama · [[Changes/Ollama/2026-02-03-sub-agent-support-for-ollama-launch-for-planning-deep-research-and-similar-tasks|Sub-agent support for ollama launch for planning, deep research, and similar tasks]]
 - Later: 2026-02-11 · Codex CLI · [[Changes/Codex CLI/2026-02-11-3-search-and-browsing-changes-in-rust-v0-99-0|3 Search and Browsing changes in rust-v0.99.0]]
 <!-- chronolog:end -->
 

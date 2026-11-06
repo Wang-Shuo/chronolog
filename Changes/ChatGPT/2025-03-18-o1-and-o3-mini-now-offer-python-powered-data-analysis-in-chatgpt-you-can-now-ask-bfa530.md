@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: e06b1ae92d3a6a2093d796b81ab5736cab0a8503b8c9fa16ebd0d2610c5b585e
+machine_hash: 6e834a1ded2940e09965c58c17f094f2bf8a02c2d25f53b6df1258a9c0b48d08
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -58,12 +58,11 @@ record:
   title: o1 and o3-mini now offer Python-powered data analysis in ChatGPT
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-03-11-3-model-support-changes-in-0-47-x|3 Model Support changes
-  in 0.47.x]]'
-- '[[Changes/Aider/2025-03-13-2-model-support-changes-in-v0-77-0|2 Model Support changes
-  in v0.77.0]]'
-- '[[Changes/Aider/2025-03-13-added-reasoning-effort-command-to-control-model-reasoning-level|Added
-  /reasoning-effort command to control model reasoning level]]'
+- '[[Changes/Gemini/2025-03-13-update-to-gemini-2-0-flash-thinking-experimental-in-gemini|Update
+  to Gemini 2.0 Flash Thinking (experimental) in Gemini]]'
+- '[[Changes/Ollama/2025-03-14-3-model-support-changes-in-v0-6-1|3 Model Support changes
+  in v0.6.1]]'
+- '[[Changes/Replit/2025-03-14-assistant-model-selection|Assistant model selection]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-03-18-web-and-the-windows-desktop-app-ef646255|chatgpt-2025-03-18-web-and-the-windows-desktop-app-ef646255]]'
 source_type: chatgpt_changelog
 theme: model-support
@@ -94,8 +93,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2025-03-13 · Aider · [[Changes/Aider/2025-03-13-added-reasoning-effort-command-to-control-model-reasoning-level|Added /reasoning-effort command to control model reasoning level]]
-- Later: 2025-03-18 · OpenHands · [[Changes/OpenHands/2025-03-18-make-microagents-available-in-the-event-stream-as-recall-observations-accessible|Make microagents available in the event stream as recall observations…]]
+- Earlier: 2025-03-14 · Replit · [[Changes/Replit/2025-03-14-assistant-model-selection|Assistant model selection]]
+- Later: 2025-03-18 · Dify · [[Changes/Dify/2025-03-18-2-model-support-changes-in-1-1-0|2 Model Support changes in 1.1.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

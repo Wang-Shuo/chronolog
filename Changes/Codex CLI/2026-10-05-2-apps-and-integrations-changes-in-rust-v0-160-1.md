@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 84c6dd92253a243349cb9bc59e042fe286cdde7094060be8cbe4899d1c7239fa
+machine_hash: 9e173334ee8160b870d318591cf48fbb3c0cb3dc27e3caa87b3771e9d2d608c4
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -46,8 +46,8 @@ record:
   title: 2 Apps and Integrations changes in rust-v0.160.1
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-02-5-apps-and-integrations-changes-in-v2-1-288|5
-  Apps and Integrations changes in v2.1.288]]'
+- '[[Changes/Replit/2026-10-02-jev-is-now-available-through-replit-ai-integrations|Jev
+  is now available through Replit AI Integrations]]'
 - '[[Changes/Claude Code/2026-10-03-2-apps-and-integrations-changes-in-v2-1-289|2
   Apps and Integrations changes in v2.1.289]]'
 - '[[Changes/Claude Code/2026-10-05-14-apps-and-integrations-changes-in-v2-1-290|14
@@ -83,7 +83,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.160.1
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-10-05 · Claude Code · [[Changes/Claude Code/2026-10-05-14-apps-and-integrations-changes-in-v2-1-290|14 Apps and Integrations changes in v2.1.290]]
-- Later: 2026-10-05 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-10-05-5-apps-and-integrations-changes-in-v1-0-92|5 Apps and Integrations changes in v1.0.92]]
+- Later: 2026-10-05 · ElevenLabs · [[Changes/ElevenLabs/2026-10-05-swift-sdk|Swift SDK]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

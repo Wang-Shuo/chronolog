@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 8eb7d9c20fffcf90368384b86e7ec00e6a68aa497f3e4328c5d30afcc0973930
+machine_hash: 6f5881b2ad2f6add41142eaa984b35d8dbc946554b095d4f282e96cdee506627
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -89,7 +89,7 @@ type: change
 ## Nearby in Collaboration
 
 - Earlier: 2026-04-15 · Codex CLI · [[Changes/Codex CLI/2026-04-15-17717-codex-refactor-marketplace-add-into-shared-core-flow-xli-oai|♯17717 codex Refactor marketplace add into shared core flow @xli-oai]]
-- Later: 2026-04-23 · Codex CLI · [[Changes/Codex CLI/2026-04-23-2-collaboration-changes-in-rust-v0-123-0|2 Collaboration changes in rust-v0.123.0]]
+- Later: 2026-04-21 · Open WebUI · [[Changes/Open WebUI/2026-04-21-shared-chat-access-controls-you-can-now-control-who-has-access-to-a-shared-chat|🔗 Shared chat access controls. You can now control who has access to a shared…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

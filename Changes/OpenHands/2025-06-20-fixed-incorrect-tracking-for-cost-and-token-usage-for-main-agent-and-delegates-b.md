@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: 8ff71399518621b0a36921dc320a12a24964074f70f18e2ea61b0e130bdc86c8
+machine_hash: 02d54e2c45d33d39112c668c06beee8d83b46547c9716eee125add710e9c177f
 product: openhands
 product_name: OpenHands
 record:
@@ -44,12 +44,10 @@ record:
   title: '**Fixed incorrect tracking for cost and token usage for main agent and delegates**'
   type: change
 related_changes:
-- '[[Changes/OpenHands/2025-06-10-ensured-prs-opened-by-agent-is-properly-tracked-in-conversation-metadata-by-malh|Ensured
-  PRs opened by agent is properly tracked in conversation metadata]]'
-- '[[Changes/Cursor/2025-06-12-you-can-now-launch-background-agents-directly-from-slack-by-mentioning-cursor-ag|Launch
-  Background Agents directly from Slack by mentioning @Cursor]]'
 - '[[Changes/Cursor/2025-06-12-improved-background-agent-reliability|Improved Background
   Agent reliability]]'
+- '[[Changes/ElevenLabs/2025-06-17-agents-platform|Agents Platform]]'
+- '[[Changes/ElevenLabs/2025-06-17-agents-platform-e180ce|Agents Platform]]'
 source_release: '[[Releases/OpenHands/openhands-2025-06-20-0-44-0-github-226788383-62d9d16f|openhands-2025-06-20-0-44-0-github-226788383-62d9d16f]]'
 source_type: github_releases
 theme: agent-mode
@@ -82,8 +80,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2025-06-12 · Cursor · [[Changes/Cursor/2025-06-12-improved-background-agent-reliability|Improved Background Agent reliability]]
-- Later: 2025-07-03 · Cursor · [[Changes/Cursor/2025-07-03-let-agent-resolve-merge-conflicts|Let Agent resolve merge conflicts]]
+- Earlier: 2025-06-17 · ElevenLabs · [[Changes/ElevenLabs/2025-06-17-agents-platform-e180ce|Agents Platform]]
+- Later: 2025-06-23 · ElevenLabs · [[Changes/ElevenLabs/2025-06-23-agents-platform|Agents Platform]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

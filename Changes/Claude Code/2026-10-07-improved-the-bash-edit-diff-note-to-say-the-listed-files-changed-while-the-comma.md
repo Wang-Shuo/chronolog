@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 2c3acf81d0ed06f8c5b7d976ce6cc1d41c194b1ad36eaaf828735ccf9fc87459
+machine_hash: d06d4ce8350989d85e6b7c05077389f8d472eb0cc59c60575252d447a9f5d8d8
 product: claude-code
 product_name: Claude Code
 record:
@@ -47,8 +47,8 @@ record:
     command…
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-10-05-2-editor-experience-changes-in-v1-0-92|2
-  Editor Experience changes in v1.0.92]]'
+- '[[Changes/Lovable/2026-10-05-restore-lovable-work-after-a-push-to-your-git-repository-replaces-it|Restore
+  Lovable work after a push to your Git repository replaces it]]'
 - '[[Changes/Claude Code/2026-10-06-added-prompt-autocomplete-an-event-a-mod-hooks-to-add-its-own-rows-to-the-prompt|Added
   prompt.autocomplete, an event a mod hooks to add its own rows to the prompt…]]'
 - '[[Changes/OpenHands/2026-10-06-feat-conversation-give-the-drawer-tab-strip-real-tab-semantics-by-errmakov-in-ht|feat(conversation):

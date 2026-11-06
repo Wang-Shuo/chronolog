@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 45f28695ad8333987151204ef0582c6786ef574a5b217bf782bc02ba4a3bb71e
+machine_hash: a76a8dff8bf05e6c08794078ceb31dcc620eba7d03aa92e6be6b684c46485e52
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -43,8 +43,8 @@ record:
   title: '#14135 tui: only show fast status for gpt-5.4 @pash-openai'
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-03-10-14123-pass-on-save-info-to-model-ui-tweaks-won-openai|♯14123
-  pass on save info to model + ui tweaks @won-openai]]'
+- '[[Changes/v0/2026-03-10-updated-auto-model-icon-to-new-radial-design|Updated auto
+  model icon to new radial design]]'
 - '[[Changes/ChatGPT/2026-03-11-as-of-march-11-2026-gpt-5-1-models-are-no-longer-available-in-chatgpt-this-appli|Retiring
   GPT-5.1 models]]'
 - '[[Changes/Claude Code/2026-03-11-2-model-support-changes-in-v2-1-73|2 Model Support

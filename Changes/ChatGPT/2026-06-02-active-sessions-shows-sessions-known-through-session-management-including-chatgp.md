@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: d27144b696b18d080b36e642b006678cbde18d2f18e8c2583894fdfd04f9ef35
+machine_hash: ecd17567e59bd32ac15e92b9b0253a103aadb9c2b4ddf4c07090011cd8b8e5c1
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -49,12 +49,12 @@ record:
     ChatGPT…
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-05-23-2-account-and-access-changes-in-v1-0-52|2
-  Account and Access changes in v1.0.52]]'
 - '[[Changes/Codex CLI/2026-05-26-2-account-and-access-changes-in-rust-v0-134-0|2
   Account and Access changes in rust-v0.134.0]]'
 - '[[Changes/GitHub Copilot CLI/2026-06-01-surface-the-underlying-reason-e-g-github-api-rate-limit-when-sdk-auth-token-vali|Surface
   the underlying reason (e.g. GitHub API rate limit) when SDK auth-token…]]'
+- '[[Changes/Open WebUI/2026-06-01-6-account-and-access-changes-in-v0-9-6|6 Account
+  and Access changes in v0.9.6]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-06-02-active-account-session-controls-0830d01c|chatgpt-2026-06-02-active-account-session-controls-0830d01c]]'
 source_type: chatgpt_changelog
 theme: account-access
@@ -85,7 +85,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Account and Access
 
-- Earlier: 2026-06-01 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-06-01-surface-the-underlying-reason-e-g-github-api-rate-limit-when-sdk-auth-token-vali|Surface the underlying reason (e.g. GitHub API rate limit) when SDK auth-token…]]
+- Earlier: 2026-06-01 · Open WebUI · [[Changes/Open WebUI/2026-06-01-6-account-and-access-changes-in-v0-9-6|6 Account and Access changes in v0.9.6]]
 - Later: 2026-06-02 · Claude Code · [[Changes/Claude Code/2026-06-02-added-a-prompt-before-writing-to-shell-startup-files-zshenv-zlogin-bash-login-an|Added a prompt before writing to shell startup files…]]
 <!-- chronolog:end -->
 

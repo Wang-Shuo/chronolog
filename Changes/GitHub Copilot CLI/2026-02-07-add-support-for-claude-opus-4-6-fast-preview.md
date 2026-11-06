@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: dcc5670f1cb1c359c0154e90754bf13b3b89756ecd46608ee8a7d8d762b526c3
+machine_hash: 0ec63a2b5f6dfda291fcd7ca9c6c9dcc441a134ec1413ab154d2fc2165a38e2f
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -45,8 +45,8 @@ record:
   title: Add support for Claude Opus 4.6 Fast (Preview)
   type: change
 related_changes:
-- '[[Changes/Windsurf/2026-02-05-new-models|New Models]]'
-- '[[Changes/Windsurf/2026-02-05-claude-opus-4-6-fast-mode|Claude Opus 4.6 (fast mode)]]'
+- '[[Changes/Replit/2026-02-06-custom-openai-key-support|Custom OpenAI key support]]'
+- '[[Changes/Replit/2026-02-06-replit-gemini-cli-extension|Replit + Gemini CLI extension]]'
 - '[[Changes/Claude Code/2026-02-07-fast-mode-is-now-available-for-opus-4-6-learn-more-at-https-code-claude-com-docs|Fast
   mode is now available for Opus 4.6]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-02-07-v0-0-406-github-284060687-b4a44242|github-copilot-cli-2026-02-07-v0-0-406-github-284060687-b4a44242]]'
@@ -81,7 +81,7 @@ type: change
 ## Nearby in Model Support
 
 - Earlier: 2026-02-07 · Claude Code · [[Changes/Claude Code/2026-02-07-fast-mode-is-now-available-for-opus-4-6-learn-more-at-https-code-claude-com-docs|Fast mode is now available for Opus 4.6]]
-- Later: 2026-02-10 · ChatGPT · [[Changes/ChatGPT/2026-02-10-we-re-making-an-update-to-gpt-5-2-instant-in-chatgpt-and-the-api-that-improves-r|GPT-5.2 Instant Update]]
+- Later: 2026-02-07 · Ollama · [[Changes/Ollama/2026-02-07-ollama-launch-will-now-download-missing-models-instead-of-erroring|ollama launch will now download missing models instead of erroring]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

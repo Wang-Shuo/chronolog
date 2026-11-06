@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: f3da773681f7e39e08916c2f06cd1e4385260139ab06ff0b71a2f24f9041c958
+machine_hash: 590e081a6e9d14e5695b7e92ca069819a602dea7adc960fe194dc6f25e963678
 product: openhands
 product_name: OpenHands
 record:
@@ -44,12 +44,12 @@ record:
   title: Adding a status indicator above the chat until the conversation is ready
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-01-14-2-interface-experience-changes-in-rust-v0-81-0|2
-  Interface Experience changes in rust-v0.81.0]]'
-- '[[Changes/Codex CLI/2026-01-15-extend-the-rust-protocol-types-to-include-additional-metadata-on-text-elements-e|Extend
-  the Rust protocol/types to include additional metadata on text elements…]]'
 - '[[Changes/Cursor/2026-01-16-2-interface-experience-changes-in-cli-agent-modes-and-cloud-handoff|2
   Interface Experience changes in CLI Agent Modes and Cloud Handoff]]'
+- '[[Changes/Lovable/2026-01-16-better-dashboard-organization-and-navigation|Better
+  dashboard organization and navigation]]'
+- '[[Changes/Lovable/2026-01-16-lovable-now-offers-a-more-native-mobile-experience-across-the-app-with-sheets-re|Lovable
+  now offers a more native mobile experience across the app, with sheets…]]'
 source_release: '[[Releases/OpenHands/openhands-2026-01-16-1-2-0-github-277420089-3a6d7d12|openhands-2026-01-16-1-2-0-github-277420089-3a6d7d12]]'
 source_type: github_releases
 theme: interface-experience
@@ -78,8 +78,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-01-16 · Cursor · [[Changes/Cursor/2026-01-16-2-interface-experience-changes-in-cli-agent-modes-and-cloud-handoff|2 Interface Experience changes in CLI Agent Modes and Cloud Handoff]]
-- Later: 2026-01-20 · Claude Code · [[Changes/Claude Code/2026-01-20-improved-backspace-to-delete-pasted-text-as-a-single-token-instead-of-one-charac|Improved backspace to delete pasted text as a single token instead of one character…]]
+- Earlier: 2026-01-16 · Lovable · [[Changes/Lovable/2026-01-16-lovable-now-offers-a-more-native-mobile-experience-across-the-app-with-sheets-re|Lovable now offers a more native mobile experience across the app, with sheets…]]
+- Later: 2026-01-16 · v0 · [[Changes/v0/2026-01-16-added-searchable-version-selector-for-easier-navigation|Added searchable version selector for easier navigation]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

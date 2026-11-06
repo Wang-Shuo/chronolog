@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: beecaadea38236f8147150dba46bc51d2417256739d6a77b2548e81156a17868
+machine_hash: af2139308e851643d1b5cec90cc3e3d456994fef3dbf9d2d7920f669f6faf6e6
 product: aider
 product_name: Aider
 record:
@@ -50,12 +50,12 @@ record:
   title: 6 Developer Workflow changes in v0.55.0
   type: change
 related_changes:
-- '[[Changes/Aider/2024-08-27-improved-error-messages-on-attempt-to-add-not-git-subdir-to-chat|Improved
-  error messages on attempt to add not-git subdir to chat]]'
 - '[[Changes/Aider/2024-08-28-2-developer-workflow-changes-in-v0-54-0|2 Developer
   Workflow changes in v0.54.0]]'
 - '[[Changes/Cline/2024-09-02-new-terminal-emulator-when-claude-runs-commands-you-can-now-type-directly-in-the|New
   terminal emulator!]]'
+- '[[Changes/Dify/2024-09-03-3-developer-workflow-changes-in-0-7-3|3 Developer Workflow
+  changes in 0.7.3]]'
 source_release: '[[Releases/Aider/aider-2024-09-04-v0-55-0-github-173466209-522ef089|aider-2024-09-04-v0-55-0-github-173466209-522ef089]]'
 source_type: github_releases
 theme: developer-workflow
@@ -99,7 +99,7 @@ Source: https://github.com/Aider-AI/aider/releases/tag/v0.55.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2024-09-02 · Cline · [[Changes/Cline/2024-09-02-new-terminal-emulator-when-claude-runs-commands-you-can-now-type-directly-in-the|New terminal emulator!]]
+- Earlier: 2024-09-03 · Dify · [[Changes/Dify/2024-09-03-3-developer-workflow-changes-in-0-7-3|3 Developer Workflow changes in 0.7.3]]
 - Later: 2024-09-09 · Aider · [[Changes/Aider/2024-09-09-2-developer-workflow-changes-in-v0-56-0|2 Developer Workflow changes in v0.56.0]]
 <!-- chronolog:end -->
 

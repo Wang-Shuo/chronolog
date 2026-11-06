@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 9d30eb0f77cc069c363bd7a4fdbf6f99c8754d297b460790a8b56d1dfdf23cad
+machine_hash: 99b6f283fb312524b77167b0dd2c74c99b55a73affbe70c02393bfd813629ae7
 product: windsurf
 product_name: Windsurf
 record:
@@ -43,8 +43,8 @@ record:
   title: Hardened migration from Windsurf on Windows to preserve shortcut icon
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-06-04-bundled-ripgrep-local-shell-runs-use-the-bundled-platform-rg-binary-without-modi|Bundled
-  ripgrep: Local shell runs use the bundled platform rg binary without…]]'
+- '[[Changes/Ollama/2026-06-04-ollama-launch-hermes-desktop-now-launches-hermes-desktop-and-can-skip-rebuilding|ollama
+  launch hermes-desktop now launches Hermes Desktop and can skip rebuilding…]]'
 - '[[Changes/Windsurf/2026-06-04-added-a-new-command-for-devin-desktop-to-rerun-the-migration-from-windsurf-this|Added
   a new command for Devin Desktop to rerun the migration from Windsurf]]'
 - '[[Changes/GitHub Copilot CLI/2026-06-05-2-mobile-and-desktop-changes-in-v1-0-60|2
@@ -80,7 +80,7 @@ type: change
 ## Nearby in Mobile and Desktop
 
 - Earlier: 2026-06-05 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-06-05-2-mobile-and-desktop-changes-in-v1-0-60|2 Mobile and Desktop changes in v1.0.60]]
-- Later: 2026-06-08 · ChatGPT · [[Changes/ChatGPT/2026-06-08-cleaner-edit-message-flow-android-now-makes-it-clearer-when-you-re-editing-a-pre|Cleaner edit-message flow]]
+- Later: 2026-06-07 · Ollama · [[Changes/Ollama/2026-06-07-hermes-desktop-is-now-available-via-ollama-launch-hermes-desktop-with-native-win|Hermes Desktop is now available via ollama launch hermes-desktop with native…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 3741a7619e29cf88808d153127692c01bd6e23bd5df6609fbbaba2988bc07a77
+machine_hash: 180766ac1f8659e40d2bdca56592adefb755003c57379b99f219f0946238dfe4
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -43,12 +43,12 @@ record:
   title: 2 Interface Experience changes in v1.0.37
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2026-04-23-stop-showing-scrollbar-unless-we-are-in-terminalbuffer-mode-by-jacob314-in-https|Stop
-  showing scrollbar unless we are in terminalBuffer mode]]'
-- '[[Changes/GitHub Copilot CLI/2026-04-23-4-interface-experience-changes-in-v1-0-35|4
-  Interface Experience changes in v1.0.35]]'
+- '[[Changes/Ollama/2026-04-23-improved-reliability-of-the-openclaw-onboarding-flow-in-ollama-launch|Improved
+  reliability of the OpenClaw onboarding flow in ollama launch]]'
 - '[[Changes/GitHub Copilot CLI/2026-04-24-subcommand-picker-shows-a-selection-indicator-next-to-the-highlighted-item|Subcommand
   picker shows a selection indicator (❯) next to the highlighted item]]'
+- '[[Changes/Lovable/2026-04-24-dashboard-organization-and-navigation|Dashboard organization
+  and navigation]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-04-27-v1-0-37-github-314304065-a4bb7d0c|github-copilot-cli-2026-04-27-v1-0-37-github-314304065-a4bb7d0c]]'
 source_type: github_releases
 theme: interface-experience
@@ -84,7 +84,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.37
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-04-24 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-04-24-subcommand-picker-shows-a-selection-indicator-next-to-the-highlighted-item|Subcommand picker shows a selection indicator (❯) next to the highlighted item]]
+- Earlier: 2026-04-24 · Lovable · [[Changes/Lovable/2026-04-24-dashboard-organization-and-navigation|Dashboard organization and navigation]]
 - Later: 2026-04-28 · Claude Code · [[Changes/Claude Code/2026-04-28-4-interface-experience-changes-in-v2-1-121|4 Interface Experience changes in v2.1.121]]
 <!-- chronolog:end -->
 

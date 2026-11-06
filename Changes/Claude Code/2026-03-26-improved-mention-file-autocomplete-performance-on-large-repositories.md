@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: b44ee231b60d95229151f02f2d791581775783e7ec72000b16ac60d19fcbb3c6
+machine_hash: 79d478c14a26e5f12e09ee7b766ab22a10fb403bbc5207b644d345c32e1b7df2
 product: claude-code
 product_name: Claude Code
 record:
@@ -51,10 +51,10 @@ record:
   title: Improved @-mention file autocomplete performance on large repositories
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2026-03-24-docs-cli-add-custom-keybinding-documentation-by-scidomino-in-https-github-com-go|docs(cli):
-  add custom keybinding documentation]]'
 - '[[Changes/Claude Code/2026-03-25-2-interface-experience-changes-in-v2-1-83|2 Interface
   Experience changes in v2.1.83]]'
+- '[[Changes/Open WebUI/2026-03-25-17-interface-experience-changes-in-v0-8-11|17 Interface
+  Experience changes in v0.8.11]]'
 - '[[Changes/ChatGPT/2026-03-26-to-give-you-more-space-to-view-your-most-critical-chats-and-projects-the-sidebar|A
   simplified sidebar on mobile]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-03-26-v2-1-85-github-302129484-6eb9dcd7|claude-code-2026-03-26-v2-1-85-github-302129484-6eb9dcd7]]'

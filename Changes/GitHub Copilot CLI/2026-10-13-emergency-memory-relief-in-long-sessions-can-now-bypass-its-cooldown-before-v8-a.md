@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 031f9b7f094ad53f9d4cd6031b5a9a5a33a1207a9e5f5d9a94f56e76d2084cb2
+machine_hash: 9c5625c8e30a2f2fe307417dadc71471f0871528b80eb4230a2f8518bfe9b17c
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -49,12 +49,12 @@ record:
     V8…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-06-improved-rendering-speed-of-long-bulleted-or-numbered-replies-they-stream-resize|Improved
-  rendering speed of long bulleted or numbered replies]]'
-- '[[Changes/Codex CLI/2026-10-08-3-reliability-and-performance-changes-in-rust-v0-162-0|3
-  Reliability and Performance changes in rust-v0.162.0]]'
-- '[[Changes/Claude Code/2026-10-09-improved-transcript-toggle-ctrl-o-responsiveness-in-code-heavy-conversations-by|Improved
-  transcript toggle (ctrl+o) responsiveness in code-heavy conversations…]]'
+- '[[Changes/Open WebUI/2026-10-10-5-reliability-and-performance-changes-in-v0-12-0|5
+  Reliability and Performance changes in v0.12.0]]'
+- '[[Changes/Ollama/2026-10-11-paused-background-model-upgrade-for-embedding-and-other-request-performance-by-j|Paused
+  background model upgrade for embedding and other request performance,]]'
+- '[[Changes/Ollama/2026-10-12-2-reliability-and-performance-changes-in-v0-40-4|2
+  Reliability and Performance changes in v0.40.4]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-10-13-v1-0-97-github-411990782-ee7b7038|github-copilot-cli-2026-10-13-v1-0-97-github-411990782-ee7b7038]]'
 source_type: github_releases
 theme: reliability-performance
@@ -91,7 +91,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2026-10-09 · Claude Code · [[Changes/Claude Code/2026-10-09-improved-transcript-toggle-ctrl-o-responsiveness-in-code-heavy-conversations-by|Improved transcript toggle (ctrl+o) responsiveness in code-heavy conversations…]]
+- Earlier: 2026-10-12 · Ollama · [[Changes/Ollama/2026-10-12-2-reliability-and-performance-changes-in-v0-40-4|2 Reliability and Performance changes in v0.40.4]]
 - Later: 2026-10-14 · Claude Code · [[Changes/Claude Code/2026-10-14-improved-memory-and-disk-use-when-pdfs-are-mentioned-their-bytes-are-no-longer-k|Improved memory and disk use when PDFs are @-mentioned]]
 <!-- chronolog:end -->
 

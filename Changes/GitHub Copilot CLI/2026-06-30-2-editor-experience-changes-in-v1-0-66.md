@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 97b8607d5d9cedaacd25442443655e4a00f5f9efe854a2307e502c92edb32d03
+machine_hash: 44813f7363cc56befc851695e5d6f3f2f88b41cceebaf767d92698668a3426d2
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -42,12 +42,12 @@ record:
   title: 2 Editor Experience changes in v1.0.66
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-06-24-add-a-copilot-skill-subcommand-and-a-skill-alias-for-skills-to-list-add-and-remo|Add
-  a copilot skill subcommand (and a /skill alias for /skills) to list, add…]]'
-- '[[Changes/Claude Code/2026-06-25-added-live-file-path-autocomplete-to-bash-mode|Added
-  live file path autocomplete to bash mode (!)]]'
 - '[[Changes/Cline/2026-06-26-add-edit-and-regenerate-support-for-previous-user-messages-with-clearer-reset-ch|Add
   edit-and-regenerate support for previous user messages, with clearer Reset Chat…]]'
+- '[[Changes/v0/2026-06-26-the-editor-no-longer-shows-a-false-start-error-when-a-preview-dev-server-or-inst|The
+  editor no longer shows a false start error when a preview, dev server…]]'
+- '[[Changes/Open WebUI/2026-06-29-10-editor-experience-changes-in-v0-10-0|10 Editor
+  Experience changes in v0.10.0]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-06-30-v1-0-66-github-346845066-af776740|github-copilot-cli-2026-06-30-v1-0-66-github-346845066-af776740]]'
 source_type: github_releases
 theme: editor-experience
@@ -96,7 +96,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.66
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2026-06-26 · Cline · [[Changes/Cline/2026-06-26-add-edit-and-regenerate-support-for-previous-user-messages-with-clearer-reset-ch|Add edit-and-regenerate support for previous user messages, with clearer Reset Chat…]]
+- Earlier: 2026-06-29 · Open WebUI · [[Changes/Open WebUI/2026-06-29-10-editor-experience-changes-in-v0-10-0|10 Editor Experience changes in v0.10.0]]
 - Later: 2026-06-30 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-06-30-ctrl-q-now-enqueues-the-highlighted-slash-command-argument-completion|Ctrl+Q now enqueues the highlighted slash-command argument completion]]
 <!-- chronolog:end -->
 

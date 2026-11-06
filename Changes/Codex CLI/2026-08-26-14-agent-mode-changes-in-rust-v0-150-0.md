@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 085d54a3854daf4a54543a65eb956110f381c25fd5c54fc7090539359bf08845
+machine_hash: d2a0263e83a0f1f480be63638ff5d008ceaa58fd795f12e0c520af91280ad6b9
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -67,12 +67,12 @@ record:
   title: 14 Agent Mode changes in rust-v0.150.0
   type: change
 related_changes:
-- '[[Changes/Cline/2026-08-22-carry-session-and-client-identity-into-langfuse-traces-for-hub-backed-and-delega|Carry
-  session and client identity into Langfuse traces for Hub-backed…]]'
-- '[[Changes/Claude Code/2026-08-25-improved-subagent-results-a-subagent-that-stops-at-its-maxturns-limit-now-return|Improved
-  subagent results]]'
+- '[[Changes/Dify/2026-08-25-53-agent-mode-changes-in-1-17-0|53 Agent Mode changes
+  in 1.17.0]]'
 - '[[Changes/Gemini CLI/2026-08-25-8-agent-mode-changes-in-v0-57-0|8 Agent Mode changes
   in v0.57.0]]'
+- "[[Changes/Open WebUI/2026-08-25-files-for-delegated-tasks-a-task-handed-to-a-sub-agent-can-now-carry-the-attachm|\U0001F91D
+  Files for delegated tasks. A task handed to a sub-agent can now carry…]]"
 source_release: '[[Releases/Codex CLI/codex-cli-2026-08-26-rust-v0-150-0-github-377374683-d950f84c|codex-cli-2026-08-26-rust-v0-150-0-github-377374683-d950f84c]]'
 source_type: github_releases
 theme: agent-mode
@@ -142,8 +142,8 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.150.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2026-08-25 · Gemini CLI · [[Changes/Gemini CLI/2026-08-25-8-agent-mode-changes-in-v0-57-0|8 Agent Mode changes in v0.57.0]]
-- Later: 2026-08-27 · Claude Code · [[Changes/Claude Code/2026-08-27-3-agent-mode-changes-in-v2-1-248|3 Agent Mode changes in v2.1.248]]
+- Earlier: 2026-08-25 · Open WebUI · [[Changes/Open WebUI/2026-08-25-files-for-delegated-tasks-a-task-handed-to-a-sub-agent-can-now-carry-the-attachm|🤝 Files for delegated tasks. A task handed to a sub-agent can now carry…]]
+- Later: 2026-08-26 · Lovable · [[Changes/Lovable/2026-08-26-add-your-app-to-slack-as-an-agent|Add your app to Slack as an agent]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

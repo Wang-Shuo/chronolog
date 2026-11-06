@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: a2dea9402cd15251cf8c021eb5ceef5681f06c3b84c2377c5793726f4c03455c
+machine_hash: 232d16db28980b8fd75bcba8f77a399307dbef35cafa6f96386aa7d77df6aad6
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -108,7 +108,7 @@ Source: https://github.com/google-gemini/gemini-cli/releases/tag/v0.4.0
 ## Nearby in Model Support
 
 - Earlier: 2025-09-08 · Codex CLI · [[Changes/Codex CLI/2025-09-08-3176-codex-respect-overrides-for-model-family-configuration-from-toml-file|♯3176 codex respect overrides for model family configuration from toml file]]
-- Later: 2025-09-10 · Codex CLI · [[Changes/Codex CLI/2025-09-10-2-model-support-changes-in-rust-v0-32-0|2 Model Support changes in rust-v0.32.0]]
+- Later: 2025-09-09 · Open WebUI · [[Changes/Open WebUI/2025-09-09-rag-loop-error-with-gemma-3-1-2b-instruct-is-fixed-by-correctly-unwrapping-unexp|🧠 RAG Loop/Error with Gemma 3.1 2B Instruct is fixed by correctly unwrapping…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

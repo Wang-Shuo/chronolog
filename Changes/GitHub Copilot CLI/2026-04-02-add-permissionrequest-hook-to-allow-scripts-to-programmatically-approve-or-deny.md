@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: a67cd5421cfdc2d91e03d86acd1c7fe3103b495c97c256372ca67fed8b75ce94
+machine_hash: 6a1022c46d344be7dbf6adbb752f6944dfaeb209901f47ec623a14b5e6dd92b8
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -83,7 +83,7 @@ type: change
 ## Nearby in Safety and Privacy
 
 - Earlier: 2026-04-02 · Claude Code · [[Changes/Claude Code/2026-04-02-fixed-plan-mode-in-remote-sessions-losing-track-of-the-plan-file-after-a-contain|Fixed plan mode in remote sessions losing track of the plan file after a container…]]
-- Later: 2026-04-04 · Claude Code · [[Changes/Claude Code/2026-04-04-linux-sandbox-now-ships-the-apply-seccomp-helper-in-both-npm-and-native-builds-r|Linux sandbox now ships the apply-seccomp helper in both npm and native builds…]]
+- Later: 2026-04-02 · Lovable · [[Changes/Lovable/2026-04-02-security-updates|Security updates]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

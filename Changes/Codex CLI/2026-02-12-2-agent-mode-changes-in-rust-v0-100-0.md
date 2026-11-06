@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 80beee6f157d7600ee47e2d31b5186998d259e2db5702d5404434252d72337f8
+machine_hash: b4997d845af9a45d4bb79b4b3ebfb7724c96f5970d70396174cdf4acf06dd7b4
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -42,8 +42,8 @@ record:
   title: 2 Agent Mode changes in rust-v0.100.0
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-02-11-10-agent-mode-changes-in-rust-v0-99-0|10 Agent Mode
-  changes in rust-v0.99.0]]'
+- '[[Changes/Dify/2026-02-11-flexible-delivery-methods-human-input-forms-can-be-delivered-via-webapp-or-email|Flexible
+  Delivery Methods: Human input forms can be delivered…]]'
 - '[[Changes/GitHub Copilot CLI/2026-02-11-3-agent-mode-changes-in-v0-0-407|3 Agent
   Mode changes in v0.0.407]]'
 - '[[Changes/Cline/2026-02-12-subagent-replace-legacy-subagents-with-the-native-use-subagents-tool|Subagent:

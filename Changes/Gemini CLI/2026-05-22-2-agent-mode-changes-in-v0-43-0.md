@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: c509572da95202b2c831517c07122c6259c10ea3ca1b1b335bd60f39be620554
+machine_hash: 2bf65e3e501483d6408c5c250d9dcf65e75b5ba9d99deffd6e58dcae17b88ba4
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -91,7 +91,7 @@ Source: https://github.com/google-gemini/gemini-cli/releases/tag/v0.43.0
 ## Nearby in Agent Mode
 
 - Earlier: 2026-05-21 · Codex CLI · [[Changes/Codex CLI/2026-05-21-7-agent-mode-changes-in-rust-v0-133-0|7 Agent Mode changes in rust-v0.133.0]]
-- Later: 2026-05-23 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-05-23-custom-agents-support-opt-in-deferred-tool-loading-via-deferred-tool-loading-in|Custom agents support opt-in deferred tool loading via deferred-tool-loading…]]
+- Later: 2026-05-22 · Replit · [[Changes/Replit/2026-05-22-agent-suggests-power-mode-when-you-re-stuck|Agent suggests Power Mode when you're stuck]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 52fbf41fcb0d60863e17f62f5fb5e928a46e615d39744170d97fb896cf2b5902
+machine_hash: 4d7f93ee3610836b8c861ce14b5d00be3e4d23d256609785b6fe29e25514df5e
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -43,8 +43,8 @@ record:
   title: 2 Apps and Integrations changes in v1.0.102
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-10-20-4-apps-and-integrations-changes-in-v1-0-101|4
-  Apps and Integrations changes in v1.0.101]]'
+- '[[Changes/Lovable/2026-10-20-app-chat-connectors-llamaparse-platform-and-n8n|App
+  + chat connectors: LlamaParse Platform and n8n]]'
 - '[[Changes/OpenHands/2026-10-20-2-apps-and-integrations-changes-in-v1-29-0|2 Apps
   and Integrations changes in v1.29.0]]'
 - '[[Changes/Claude Code/2026-10-21-3-apps-and-integrations-changes-in-v2-1-307|3

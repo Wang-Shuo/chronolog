@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 89f56568ba2194b189d8d35255a18928576df0d47c63b503ea9e302a351c64f9
+machine_hash: f42c4fe46f42b5e70179585a413f413a470de1c4a35abc8ab0b87c2536a05bc4
 product: cline
 product_name: Cline
 record:
@@ -44,12 +44,11 @@ record:
   title: Phase in Responses API usage instead of defaulting for every supported model
   type: change
 related_changes:
-- '[[Changes/Cline/2026-01-09-2-model-support-changes-in-v3-48-0|2 Model Support changes
-  in v3.48.0]]'
-- '[[Changes/Codex CLI/2026-01-09-4-model-support-changes-in-rust-v0-80-0|4 Model
-  Support changes in rust-v0.80.0]]'
-- '[[Changes/Cline/2026-01-10-removing-minimax-2-1-from-free-model-list-as-the-free-trial-has-ended|Removing
-  Minimax-2.1 from free model list as the free trial has ended]]'
+- '[[Changes/Ollama/2026-01-10-a-new-requires-command-for-the-modelfile-allows-declaring-which-version-of-ollam|A
+  new REQUIRES command for the Modelfile allows declaring which version…]]'
+- '[[Changes/Open WebUI/2026-01-10-users-no-longer-experience-database-connection-timeouts-under-high-concurrency-d|⚡
+  Users no longer experience database connection timeouts under high concurrency due…]]'
+- '[[Changes/ElevenLabs/2026-01-12-scribe-v2|Scribe v2]]'
 source_release: '[[Releases/Cline/cline-2026-01-13-v3-49-1-github-276551231-dff83073|cline-2026-01-13-v3-49-1-github-276551231-dff83073]]'
 source_type: github_releases
 theme: model-support
@@ -78,8 +77,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-01-10 · Cline · [[Changes/Cline/2026-01-10-removing-minimax-2-1-from-free-model-list-as-the-free-trial-has-ended|Removing Minimax-2.1 from free model list as the free trial has ended]]
-- Later: 2026-01-13 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-01-13-retrieving-models-handles-network-errors-from-firewalled-routes-gracefully-raise|Retrieving models handles network errors from firewalled routes gracefully, raises…]]
+- Earlier: 2026-01-12 · ElevenLabs · [[Changes/ElevenLabs/2026-01-12-scribe-v2|Scribe v2]]
+- Later: 2026-01-13 · Dify · [[Changes/Dify/2026-01-13-8-model-support-changes-in-1-11-3|8 Model Support changes in 1.11.3]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: a1bd213a0c1470a88245d697cabd23b8b7e9c1631e7668dc3dd8e948bb1cd55e
+machine_hash: a7ac2877b62be9c1b6be3cc0b533021abc0ac52681eafa23bf0c93a832ed6c85
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -71,12 +71,12 @@ record:
   title: GPT-5.4 mini in ChatGPT
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-03-17-increased-default-maximum-output-token-limits-for-claude-opus-4-6-to-64k-tokens|Increased
-  default maximum output token limits for Claude Opus 4.6 to 64k tokens…]]'
 - '[[Changes/Gemini CLI/2026-03-17-5-model-support-changes-in-v0-34-0|5 Model Support
   changes in v0.34.0]]'
 - '[[Changes/GitHub Copilot CLI/2026-03-17-2-model-support-changes-in-v1-0-7|2 Model
   Support changes in v1.0.7]]'
+- '[[Changes/Ollama/2026-03-17-4-model-support-changes-in-v0-18-1|4 Model Support
+  changes in v0.18.1]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-03-18-gpt-5-4-mini-in-chatgpt-2d1677c3|chatgpt-2026-03-18-gpt-5-4-mini-in-chatgpt-2d1677c3]]'
 source_type: chatgpt_changelog
 theme: model-support
@@ -103,8 +103,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-03-17 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-03-17-2-model-support-changes-in-v1-0-7|2 Model Support changes in v1.0.7]]
-- Later: 2026-03-19 · Claude Code · [[Changes/Claude Code/2026-03-19-added-effort-frontmatter-support-for-skills-and-slash-commands-to-override-the-m|Added effort frontmatter support for skills and slash commands to override…]]
+- Earlier: 2026-03-17 · Ollama · [[Changes/Ollama/2026-03-17-4-model-support-changes-in-v0-18-1|4 Model Support changes in v0.18.1]]
+- Later: 2026-03-18 · Dify · [[Changes/Dify/2026-03-18-llm-related-nodes-including-llm-and-question-classifier|LLM-related nodes, including LLM and Question Classifier]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

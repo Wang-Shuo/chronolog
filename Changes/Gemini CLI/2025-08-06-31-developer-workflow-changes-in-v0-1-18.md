@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 00178d8b9a995ac89e306c974dbbc97bb3445b680107d59341ff69bd5e20b99b
+machine_hash: d28702a8578f060a953fec2e7c607c20bd908b859870db489f4174272815ba5b
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -109,12 +109,12 @@ record:
   title: 31 Developer Workflow changes in v0.1.18
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2025-08-02-2-developer-workflow-changes-in-rust-v0-11-0|2 Developer
-  Workflow changes in rust-v0.11.0]]'
 - '[[Changes/Gemini CLI/2025-08-02-26-developer-workflow-changes-in-v0-1-16|26 Developer
   Workflow changes in v0.1.16]]'
 - '[[Changes/Gemini CLI/2025-08-05-30-developer-workflow-changes-in-v0-1-17|30 Developer
   Workflow changes in v0.1.17]]'
+- '[[Changes/Ollama/2025-08-05-the-model-can-be-downloaded-directly-in-ollama-s-new-app-or-via-the-terminal|The
+  model can be downloaded directly in Ollama’s new app or via the terminal]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2025-08-06-v0-1-18-github-237823435-7c1f8990|gemini-cli-2025-08-06-v0-1-18-github-237823435-7c1f8990]]'
 source_type: github_releases
 theme: developer-workflow
@@ -218,7 +218,7 @@ Source: https://github.com/google-gemini/gemini-cli/releases/tag/v0.1.18
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2025-08-05 · Gemini CLI · [[Changes/Gemini CLI/2025-08-05-30-developer-workflow-changes-in-v0-1-17|30 Developer Workflow changes in v0.1.17]]
+- Earlier: 2025-08-05 · Ollama · [[Changes/Ollama/2025-08-05-the-model-can-be-downloaded-directly-in-ollama-s-new-app-or-via-the-terminal|The model can be downloaded directly in Ollama’s new app or via the terminal]]
 - Later: 2025-08-09 · Aider · [[Changes/Aider/2025-08-09-undo-output-now-shows-only-the-first-line-of-each-commit-message-making-it-easie|/undo output now shows only the first line of each commit message, making…]]
 <!-- chronolog:end -->
 

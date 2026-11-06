@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: pricing
-machine_hash: ce2cde2e028aa299b0ffbbc61c901be9d10b934fb10743ca8ea4fb55a20cd4c3
+machine_hash: 493a6600ffbde00294cc21023a59ff4bad4f6bc38c5e0f266d3b6738c5fe73c1
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,12 +45,12 @@ record:
     trigger…
   type: change
 related_changes:
-- '[[Changes/Cline/2026-07-09-add-a-clinepass-limit-reached-error-with-a-one-click-option-to-switch-to-cline-u|Add
-  a ClinePass limit-reached error with a one-click option to switch to Cline…]]'
-- '[[Changes/Codex CLI/2026-07-09-usage-limit-reset-credits-now-show-their-type-and-expiration-and-let-you-choose|Usage-limit
-  reset credits now show their type and expiration, and let you choose…]]'
 - '[[Changes/GitHub Copilot CLI/2026-07-16-3-pricing-model-changes-in-v1-0-71|3 Pricing
   Model changes in v1.0.71]]'
+- '[[Changes/Dify/2026-07-17-5-pricing-model-changes-in-1-16-0|5 Pricing Model changes
+  in 1.16.0]]'
+- '[[Changes/v0/2026-07-21-canceled-plans-show-the-subscription-end-date-in-the-credit-balance-and-checkout|Canceled
+  plans show the subscription end date in the credit balance, and checkout…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-07-22-v2-1-218-github-358276841-57d73db4|claude-code-2026-07-22-v2-1-218-github-358276841-57d73db4]]'
 source_type: github_releases
 theme: pricing-model
@@ -88,7 +88,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Pricing Model
 
-- Earlier: 2026-07-16 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-07-16-3-pricing-model-changes-in-v1-0-71|3 Pricing Model changes in v1.0.71]]
+- Earlier: 2026-07-21 · v0 · [[Changes/v0/2026-07-21-canceled-plans-show-the-subscription-end-date-in-the-credit-balance-and-checkout|Canceled plans show the subscription end date in the credit balance, and checkout…]]
 - Later: 2026-07-22 · Cursor · [[Changes/Cursor/2026-07-22-2-pricing-model-changes-in-cursor-router|2 Pricing Model changes in Cursor Router]]
 <!-- chronolog:end -->
 

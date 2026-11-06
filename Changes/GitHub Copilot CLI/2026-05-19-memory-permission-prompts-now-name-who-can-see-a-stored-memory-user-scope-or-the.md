@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: f2f340597c9678808ac7cbb673c1400c51e429df5a7e68380676f6963db3c3e8
+machine_hash: c4973dcf551abc8cfb9209d4f9260721bcfe7e6257613e53179938943f71707a
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -47,12 +47,12 @@ record:
   title: Memory permission prompts now name who can see a stored memory
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-05-18-17-safety-and-privacy-changes-in-rust-v0-131-0|17
-  Safety and Privacy changes in rust-v0.131.0]]'
 - '[[Changes/Claude Code/2026-05-19-fixed-a-permission-prompt-bypass-where-bare-variable-assignments-to-non-allowlis|Fixed
   a permission-prompt bypass where bare variable assignments to non-allowlisted…]]'
 - '[[Changes/Claude Code/2026-05-19-fixed-skill-tool-failing-with-permission-error-in-headless-mode-regression-in-v2|Fixed
   Skill tool failing with permission error in headless mode (regression in v2.1.141)]]'
+- '[[Changes/Dify/2026-05-19-2-safety-and-privacy-changes-in-1-14-2|2 Safety and Privacy
+  changes in 1.14.2]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-05-19-v1-0-49-github-324640083-4bf093b8|github-copilot-cli-2026-05-19-v1-0-49-github-324640083-4bf093b8]]'
 source_type: github_releases
 theme: safety-privacy
@@ -91,7 +91,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Safety and Privacy
 
-- Earlier: 2026-05-19 · Claude Code · [[Changes/Claude Code/2026-05-19-fixed-skill-tool-failing-with-permission-error-in-headless-mode-regression-in-v2|Fixed Skill tool failing with permission error in headless mode (regression in v2.1.141)]]
+- Earlier: 2026-05-19 · Dify · [[Changes/Dify/2026-05-19-2-safety-and-privacy-changes-in-1-14-2|2 Safety and Privacy changes in 1.14.2]]
 - Later: 2026-05-20 · Codex CLI · [[Changes/Codex CLI/2026-05-20-5-safety-and-privacy-changes-in-rust-v0-132-0|5 Safety and Privacy changes in rust-v0.132.0]]
 <!-- chronolog:end -->
 

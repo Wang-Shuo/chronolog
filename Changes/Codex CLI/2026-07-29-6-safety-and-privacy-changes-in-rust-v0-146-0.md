@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 2094a2d2730578411a1ddbd26868986f29439832baec86347da33eeeb0572d5e
+machine_hash: 480a93de0ac7e11bf9066106de536883220d719cf4b4a0c5a5945c42d554e664
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -50,10 +50,10 @@ record:
   title: 6 Safety and Privacy changes in rust-v0.146.0
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-07-23-show-a-first-run-splash-to-opt-into-the-default-sandbox|Show
-  a first-run splash to opt into the default sandbox]]'
-- '[[Changes/Claude Code/2026-07-24-2-safety-and-privacy-changes-in-v2-1-219|2 Safety
-  and Privacy changes in v2.1.219]]'
+- '[[Changes/Open WebUI/2026-07-27-13-safety-and-privacy-changes-in-v0-11-0|13 Safety
+  and Privacy changes in v0.11.0]]'
+- '[[Changes/Dify/2026-07-28-11-safety-and-privacy-changes-in-1-16-1|11 Safety and
+  Privacy changes in 1.16.1]]'
 - '[[Changes/Gemini CLI/2026-07-28-fix-a2a-server-enforce-workspace-trust-and-task-isolation-to-prevent-rce-by-luis|fix(a2a-server):
   enforce workspace trust and task isolation to prevent RCE]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-07-29-rust-v0-146-0-github-361463950-6d491983|codex-cli-2026-07-29-rust-v0-146-0-github-361463950-6d491983]]'
@@ -112,7 +112,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.146.0
 ## Nearby in Safety and Privacy
 
 - Earlier: 2026-07-28 · Gemini CLI · [[Changes/Gemini CLI/2026-07-28-fix-a2a-server-enforce-workspace-trust-and-task-isolation-to-prevent-rce-by-luis|fix(a2a-server): enforce workspace trust and task isolation to prevent RCE]]
-- Later: 2026-07-29 · OpenHands · [[Changes/OpenHands/2026-07-29-fix-revive-local-telemetry-consent-banner-by-malhotra5-in-https-github-com-openh|fix: Revive local telemetry consent banner]]
+- Later: 2026-07-29 · Lovable · [[Changes/Lovable/2026-07-29-fewer-false-alarms-in-dependency-scans|Fewer false alarms in dependency scans]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -5,20 +5,20 @@ description: 'Claude Code · 2026-10-26 · Files and Data: Improved the Artifact
   choice between a page and a document: explainers and visual or interactive work
   become…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-07-06-we-re-rolling-out-code-interpreter-to-all-chatgpt-plus-users-over-the-next-week-66255e|Code
-    interpreter is now rolling out in beta on web]]'
+  first_in_tracked: '[[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2
+    Files and Data changes in 0.2.2]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1208
+  lag_days: 1250
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: c3d54b8d62bfe29f408fdabd679fa005fb6e2c5af538dd431e65283322ccd888
+machine_hash: 04f9a9170204d91694f50cf5c39c2f4adf0fcc3587c4ddea9885e0a31c4066b8
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,12 +45,12 @@ record:
   title: Improved the Artifact tool's choice between a page and a document
   type: change
 related_changes:
-- '[[Changes/OpenHands/2026-10-08-2-files-and-data-changes-in-v1-26-0|2 Files and
-  Data changes in v1.26.0]]'
-- '[[Changes/Claude Code/2026-10-14-2-files-and-data-changes-in-v2-1-299|2 Files and
-  Data changes in v2.1.299]]'
+- '[[Changes/Dify/2026-10-23-8-files-and-data-changes-in-1-18-0|8 Files and Data changes
+  in 1.18.0]]'
 - '[[Changes/OpenHands/2026-10-23-feat-canvas-quiet-backend-logs-by-default-by-neubig-in-https-github-com-openhand|feat(canvas):
   quiet backend logs by default]]'
+- '[[Changes/Open WebUI/2026-10-25-3-files-and-data-changes-in-v0-12-4|3 Files and
+  Data changes in v0.12.4]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-10-26-v2-1-311-github-424682562-151da26b|claude-code-2026-10-26-v2-1-311-github-424682562-151da26b]]'
 source_type: github_releases
 theme: file-data
@@ -89,14 +89,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Files and Data
 
-- Earlier: 2026-10-23 · OpenHands · [[Changes/OpenHands/2026-10-23-feat-canvas-quiet-backend-logs-by-default-by-neubig-in-https-github-com-openhand|feat(canvas): quiet backend logs by default]]
+- Earlier: 2026-10-25 · Open WebUI · [[Changes/Open WebUI/2026-10-25-3-files-and-data-changes-in-v0-12-4|3 Files and Data changes in v0.12.4]]
 - Later: 2026-10-27 · OpenHands · [[Changes/OpenHands/2026-10-27-feat-canvas-per-conversation-docker-runtime-and-settings-runtime-page-by-vascosc|feat(canvas): per-conversation Docker runtime and Settings → Runtime page]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-07-06 · ChatGPT · [[Changes/ChatGPT/2023-07-06-we-re-rolling-out-code-interpreter-to-all-chatgpt-plus-users-over-the-next-week-66255e|Code interpreter is now rolling out in beta on web]]
+- Earliest same-theme entry in the tracked set: 2023-05-25 · Dify · [[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2 Files and Data changes in 0.2.2]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

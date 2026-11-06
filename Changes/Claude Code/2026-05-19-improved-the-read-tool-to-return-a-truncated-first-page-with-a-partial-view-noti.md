@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: c038b146a2d2d0a399da391bae95bf8b9197fd3fe83f2920bdeb65c2de147a89
+machine_hash: 35268129234868d5158eb631a22a577b70ccd27da092985bc9490fdddef8ba9b
 product: claude-code
 product_name: Claude Code
 record:
@@ -48,12 +48,11 @@ record:
     notice…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-05-14-improved-reactive-compaction-the-first-summarize-attempt-now-seeds-from-the-orig|Improved
-  reactive compaction]]'
 - '[[Changes/GitHub Copilot CLI/2026-05-14-context-shows-correct-token-limits-for-all-models-instead-of-always-showing-128k|/context
   shows correct token limits for all models instead of always showing 128k]]'
 - '[[Changes/Codex CLI/2026-05-18-7-context-window-changes-in-rust-v0-131-0|7 Context
   Window changes in rust-v0.131.0]]'
+- '[[Changes/Lovable/2026-05-18-draw-on-images|Draw on images]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-05-19-v2-1-145-github-325388499-227a5ce4|claude-code-2026-05-19-v2-1-145-github-325388499-227a5ce4]]'
 source_type: github_releases
 theme: context-window
@@ -87,7 +86,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Context Window
 
-- Earlier: 2026-05-18 · Codex CLI · [[Changes/Codex CLI/2026-05-18-7-context-window-changes-in-rust-v0-131-0|7 Context Window changes in rust-v0.131.0]]
+- Earlier: 2026-05-18 · Lovable · [[Changes/Lovable/2026-05-18-draw-on-images|Draw on images]]
 - Later: 2026-05-19 · Claude Code · [[Changes/Claude Code/2026-05-19-the-post-survey-follow-up-hint-now-appears-after-every-non-dismiss-survey-respon|The post-survey follow-up hint now appears after every non-dismiss survey response…]]
 <!-- chronolog:end -->
 

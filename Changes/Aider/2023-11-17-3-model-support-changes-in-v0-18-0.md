@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 1f337e592c50bc7c48c4d02adc63877d24a1b65f4945b445a4ac84fa30e932fe
+machine_hash: 02357f5be8f5d8b7604a83b2e02245743b484187afe897319f8bbfef58071049
 product: aider
 product_name: Aider
 record:
@@ -45,12 +45,12 @@ record:
   title: 3 Model Support changes in v0.18.0
   type: change
 related_changes:
-- '[[Changes/Aider/2023-10-18-show-models-supported-by-api-key-if-requested-model-isn-t-available|Show
-  models supported by api/key if requested model isn''t available]]'
-- '[[Changes/Aider/2023-11-07-2-model-support-changes-in-v0-17-0|2 Model Support changes
-  in v0.17.0]]'
 - '[[Changes/Cursor/2023-11-10-new-models-you-can-plug-in-your-api-key-to-try-out-the-newest-gpt-4-and-gpt-3-tu|New
   models: you can plug in your API key to try out the newest gpt-4 and gpt-3 turbo…]]'
+- '[[Changes/Ollama/2023-11-10-3-model-support-changes-in-v0-1-9|3 Model Support changes
+  in v0.1.9]]'
+- '[[Changes/Dify/2023-11-13-2-model-support-changes-in-0-3-30|2 Model Support changes
+  in 0.3.30]]'
 source_release: '[[Releases/Aider/aider-2023-11-17-v0-18-0-github-130041531-739b78bc|aider-2023-11-17-v0-18-0-github-130041531-739b78bc]]'
 source_type: github_releases
 theme: model-support
@@ -83,8 +83,8 @@ Source: https://github.com/Aider-AI/aider/releases/tag/v0.18.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2023-11-10 · Cursor · [[Changes/Cursor/2023-11-10-new-models-you-can-plug-in-your-api-key-to-try-out-the-newest-gpt-4-and-gpt-3-tu|New models: you can plug in your API key to try out the newest gpt-4 and gpt-3 turbo…]]
-- Later: 2023-12-16 · Cursor · [[Changes/Cursor/2023-12-16-ai-review-beta-this-is-a-new-experimental-feature-that-let-s-gpt-4-scan-your-git|AI Review (beta)]]
+- Earlier: 2023-11-13 · Dify · [[Changes/Dify/2023-11-13-2-model-support-changes-in-0-3-30|2 Model Support changes in 0.3.30]]
+- Later: 2023-11-17 · Ollama · [[Changes/Ollama/2023-11-17-4-model-support-changes-in-v0-1-10|4 Model Support changes in v0.1.10]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

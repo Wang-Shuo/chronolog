@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 65bd0e37eef7548b1ef5dcaa95d9eb02c9447d724873abff1a6123a6e7adcee3
+machine_hash: 39f383985b9c01fc8bbc4dc01a6e9e414b1a653efcdfd057319d0b63b424a173
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -112,7 +112,7 @@ Source: https://github.com/google-gemini/gemini-cli/releases/tag/v0.1.18
 ## Nearby in Agent Mode
 
 - Earlier: 2025-08-06 · Cursor · [[Changes/Cursor/2025-08-06-sending-messages-while-cursor-is-working-now-does-a-better-job-of-steering-the-a|More Agent steerability]]
-- Later: 2025-08-12 · Gemini CLI · [[Changes/Gemini CLI/2025-08-12-feat-agent-introduce-foundational-subagent-architecture-by-abhipatel12-in-https|feat(agent): Introduce Foundational Subagent Architecture]]
+- Later: 2025-08-11 · ElevenLabs · [[Changes/ElevenLabs/2025-08-11-agents-platform|Agents Platform]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

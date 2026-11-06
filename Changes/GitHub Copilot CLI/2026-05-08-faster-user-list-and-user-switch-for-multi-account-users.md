@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: c00507311ff8686db7c1685c22e6bef8240218d759242f41f15fd6b9cc0178f2
+machine_hash: 54a0daa44c8641ea25c828af81a502ade87bdc19c980b80598e83f9ca236f70d
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -41,9 +41,10 @@ record:
   title: Faster /user list and /user switch for multi-account users
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-05-07-pin-skills-as-quick-actions|Pin skills as quick actions]]'
 - '[[Changes/Cursor/2026-05-07-build-in-parallel-from-plans|Build in parallel from
   plans]]'
+- '[[Changes/Ollama/2026-05-07-api-show-responses-are-now-cached-improving-median-latency-by-6-7x-which-will-in|/api/show
+  responses are now cached, improving median latency…]]'
 - '[[Changes/Codex CLI/2026-05-08-added-a-faster-cargo-profiling-build-profile-and-disabled-empty-doctest-targets|Added
   a faster Cargo profiling build profile and disabled empty doctest targets…]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-05-08-v1-0-44-github-319701730-20ae02a8|github-copilot-cli-2026-05-08-v1-0-44-github-319701730-20ae02a8]]'
@@ -80,7 +81,7 @@ type: change
 ## Nearby in Reliability and Performance
 
 - Earlier: 2026-05-08 · Codex CLI · [[Changes/Codex CLI/2026-05-08-added-a-faster-cargo-profiling-build-profile-and-disabled-empty-doctest-targets|Added a faster Cargo profiling build profile and disabled empty doctest targets…]]
-- Later: 2026-05-11 · Claude Code · [[Changes/Claude Code/2026-05-11-added-scroll-speed-command-to-tune-mouse-wheel-scroll-speed-with-a-live-preview|Added /scroll-speed command to tune mouse wheel scroll speed with a live preview]]
+- Later: 2026-05-09 · Open WebUI · [[Changes/Open WebUI/2026-05-09-4-reliability-and-performance-changes-in-v0-9-3|4 Reliability and Performance changes in v0.9.3]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

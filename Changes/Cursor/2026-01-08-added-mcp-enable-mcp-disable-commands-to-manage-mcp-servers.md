@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 14f2e7bdab5129649c3469744b0e1f7740ea58251f8742de49d5c55817510c1e
+machine_hash: 592f7cb990a44a757f1c8f50c6b6c70a47f0f9d9f7b4c1b27ad13067db23b5b4
 product: cursor
 product_name: Cursor
 record:
@@ -87,7 +87,7 @@ type: change
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-01-07 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-01-07-shutdown-mcp-servers-after-subagent-execution-completes|Shutdown MCP servers after subagent execution completes]]
-- Later: 2026-01-09 · Claude Code · [[Changes/Claude Code/2026-01-09-2-apps-and-integrations-changes-in-v2-1-2|2 Apps and Integrations changes in v2.1.2]]
+- Later: 2026-01-08 · v0 · [[Changes/v0/2026-01-08-improved-the-error-message-when-an-enterprise-user-adds-an-integration-they-don|Improved the error message when an Enterprise user adds an integration they don't…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

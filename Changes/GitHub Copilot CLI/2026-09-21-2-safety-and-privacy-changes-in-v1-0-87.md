@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 7b1d255f167b13797d4d9ad19c4827e275108a13b872d81d9894a0f4f7722087
+machine_hash: 5fff6bd7f27854ad12db73b4851cc05ded8b37c025a41bf9ff44e77b7f03058f
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -45,10 +45,10 @@ record:
   title: 2 Safety and Privacy changes in v1.0.87
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-09-17-sandbox-policy-now-reports-local-network-access-using-your-configured-setting|/sandbox
-  policy now reports local-network access using your configured setting]]'
 - '[[Changes/Claude Code/2026-09-18-4-safety-and-privacy-changes-in-v2-1-277|4 Safety
   and Privacy changes in v2.1.277]]'
+- '[[Changes/Replit/2026-09-18-investigate-with-expanded-audit-logs|Investigate with
+  expanded audit logs]]'
 - '[[Changes/ChatGPT/2026-09-21-privacy-center-is-rolling-out-to-signed-in-chatgpt-free-go-plus-and-pro-users-it-0d2f36|Privacy
   Center in ChatGPT]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-09-21-v1-0-87-github-393077593-9fe949ec|github-copilot-cli-2026-09-21-v1-0-87-github-393077593-9fe949ec]]'
@@ -92,7 +92,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.87
 ## Nearby in Safety and Privacy
 
 - Earlier: 2026-09-21 · ChatGPT · [[Changes/ChatGPT/2026-09-21-privacy-center-is-rolling-out-to-signed-in-chatgpt-free-go-plus-and-pro-users-it-0d2f36|Privacy Center in ChatGPT]]
-- Later: 2026-09-22 · Claude Code · [[Changes/Claude Code/2026-09-22-2-safety-and-privacy-changes-in-v2-1-280|2 Safety and Privacy changes in v2.1.280]]
+- Later: 2026-09-21 · Lovable · [[Changes/Lovable/2026-09-21-use-your-connected-tools-from-lovable-in-telegram|Use your connected tools from Lovable in Telegram]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

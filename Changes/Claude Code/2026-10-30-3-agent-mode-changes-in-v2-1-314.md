@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 19635dcf149d85e71c01bca4dd3884070b991ba8e5d0865640c97b8ba9f8a97e
+machine_hash: 85495261db2746e9ac0d49ace6793fb7be851e6383e02d9de4faf7d7dd3a4b3a
 product: claude-code
 product_name: Claude Code
 record:
@@ -48,12 +48,12 @@ record:
   title: 3 Agent Mode changes in v2.1.314
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-10-27-4-agent-mode-changes-in-rust-v0-165-0|4 Agent Mode
-  changes in rust-v0.165.0]]'
 - '[[Changes/OpenHands/2026-10-27-feat-verify-stand-in-for-digitalocean-so-managed-agents-can-be-verified-by-enyst|feat(verify):
   stand in for DigitalOcean so Managed Agents can be verified]]'
 - '[[Changes/Codex CLI/2026-10-29-7-agent-mode-changes-in-rust-v0-166-0|7 Agent Mode
   changes in rust-v0.166.0]]'
+- "[[Changes/Open WebUI/2026-10-29-photos-for-sub-agents-models-can-now-hand-a-photo-attached-in-the-chat-to-a-sub|\U0001F916
+  Photos for sub-agents. Models can now hand a photo attached in the chat…]]"
 source_release: '[[Releases/Claude Code/claude-code-2026-10-30-v2-1-314-github-428518421-b7ac83d7|claude-code-2026-10-30-v2-1-314-github-428518421-b7ac83d7]]'
 source_type: github_releases
 theme: agent-mode
@@ -97,8 +97,8 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.314
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2026-10-29 · Codex CLI · [[Changes/Codex CLI/2026-10-29-7-agent-mode-changes-in-rust-v0-166-0|7 Agent Mode changes in rust-v0.166.0]]
-- Later: 2026-10-31 · Claude Code · [[Changes/Claude Code/2026-10-31-2-agent-mode-changes-in-v2-1-316|2 Agent Mode changes in v2.1.316]]
+- Earlier: 2026-10-29 · Open WebUI · [[Changes/Open WebUI/2026-10-29-photos-for-sub-agents-models-can-now-hand-a-photo-attached-in-the-chat-to-a-sub|🤖 Photos for sub-agents. Models can now hand a photo attached in the chat…]]
+- Later: 2026-10-30 · Replit · [[Changes/Replit/2026-10-30-contribute-to-your-company-codebase-with-cloud-agents|Contribute to your company codebase with Cloud Agents]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

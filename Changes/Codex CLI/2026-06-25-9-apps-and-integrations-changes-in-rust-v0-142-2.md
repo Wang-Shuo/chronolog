@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 07a2d11497024d7906cb56e5c61cb416d9f1c204ac4747c5347192f67c4d4b3d
+machine_hash: 5a9265798762ffe89926cb86378b495d69802668bdfb56bcaea95d14aef55e69
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -60,10 +60,8 @@ record:
   title: 9 Apps and Integrations changes in rust-v0.142.2
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-06-24-2-apps-and-integrations-changes-in-v2-1-191|2
-  Apps and Integrations changes in v2.1.191]]'
-- '[[Changes/GitHub Copilot CLI/2026-06-24-2-apps-and-integrations-changes-in-v1-0-65|2
-  Apps and Integrations changes in v1.0.65]]'
+- '[[Changes/Lovable/2026-06-24-lovable-mcp-updates|Lovable MCP updates]]'
+- '[[Changes/Lovable/2026-06-24-app-connector-calendly|App connector: Calendly]]'
 - '[[Changes/Claude Code/2026-06-25-2-apps-and-integrations-changes-in-v2-1-193|2
   Apps and Integrations changes in v2.1.193]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-06-25-rust-v0-142-2-github-344540546-8fdabe3c|codex-cli-2026-06-25-rust-v0-142-2-github-344540546-8fdabe3c]]'
@@ -119,7 +117,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.142.2
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-06-25 · Claude Code · [[Changes/Claude Code/2026-06-25-2-apps-and-integrations-changes-in-v2-1-193|2 Apps and Integrations changes in v2.1.193]]
-- Later: 2026-06-26 · Cline · [[Changes/Cline/2026-06-26-13-apps-and-integrations-changes-in-v4-0-0|13 Apps and Integrations changes in v4.0.0]]
+- Later: 2026-06-25 · Dify · [[Changes/Dify/2026-06-25-27-apps-and-integrations-changes-in-1-15-0|27 Apps and Integrations changes in 1.15.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

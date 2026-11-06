@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 7ff2a78d0e391c76293869e8acf02702536b12ae1ec33a06660feaeb719de94d
+machine_hash: 0ffce4dd09c3750a9ea6b75095b429ebb1e6975ceba6ff2b036e2c03b663d0cd
 product: aider
 product_name: Aider
 record:
@@ -43,12 +43,12 @@ record:
   title: Added `--alias` config to define [custom model…
   type: change
 related_changes:
-- '[[Changes/Aider/2024-11-13-web-command-just-adds-the-page-to-the-chat-without-triggering-an-llm-response|/web
-  command just adds the page to the chat, without triggering an LLM response]]'
-- '[[Changes/OpenHands/2024-11-15-add-a-general-utility-that-automatically-converts-function-calling-llm-requests|Add
-  a general utility that automatically converts function-calling LLM requests…]]'
 - '[[Changes/Aider/2024-11-21-7-model-support-changes-in-v0-64-0|7 Model Support changes
   in v0.64.0]]'
+- '[[Changes/Ollama/2024-11-23-marco-o1-https-ollama-com-library-marco-o1-an-open-large-reasoning-model-for-rea|Marco-o1((source
+  link) An open large reasoning model…]]'
+- '[[Changes/Dify/2024-11-25-17-model-support-changes-in-0-12-0|17 Model Support changes
+  in 0.12.0]]'
 source_release: '[[Releases/Aider/aider-2024-11-26-v0-65-0-github-187637118-11b15eff|aider-2024-11-26-v0-65-0-github-187637118-11b15eff]]'
 source_type: github_releases
 theme: model-support
@@ -80,8 +80,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2024-11-21 · Aider · [[Changes/Aider/2024-11-21-7-model-support-changes-in-v0-64-0|7 Model Support changes in v0.64.0]]
-- Later: 2024-12-01 · Aider · [[Changes/Aider/2024-12-01-pdf-support-for-sonnet-and-gemini-models|PDF support for Sonnet and Gemini models]]
+- Earlier: 2024-11-25 · Dify · [[Changes/Dify/2024-11-25-17-model-support-changes-in-0-12-0|17 Model Support changes in 0.12.0]]
+- Later: 2024-11-26 · Dify · [[Changes/Dify/2024-11-26-feat-allow-to-contains-files-in-the-system-prompt-even-model-not-support-by-laip|feat: Allow to contains files in the system prompt even model not support]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

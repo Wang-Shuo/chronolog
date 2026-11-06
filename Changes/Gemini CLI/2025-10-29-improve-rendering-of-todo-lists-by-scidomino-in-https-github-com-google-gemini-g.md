@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 602c3d2f5477646fde433fcaa70a816169748f5fc0d3c736a6abf10717db7227
+machine_hash: 5cc8093164c29abafcc7120d843976bfef462a5dd8764b0c8364de5c32cfb2fa
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -86,7 +86,7 @@ type: change
 ## Nearby in Interface Experience
 
 - Earlier: 2025-10-29 · Cursor · [[Changes/Cursor/2025-10-29-optimized-text-parsing-for-chat-rendering|Optimized text parsing for chat rendering]]
-- Later: 2025-10-31 · Cline · [[Changes/Cline/2025-10-31-2-interface-experience-changes-in-v3-35-0|2 Interface Experience changes in v3.35.0]]
+- Later: 2025-10-30 · v0 · [[Changes/v0/2025-10-30-we-redesigned-the-chat-sidebar-with-better-organization-faster-navigation-and-a|Redesigned Chat Sidebar]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

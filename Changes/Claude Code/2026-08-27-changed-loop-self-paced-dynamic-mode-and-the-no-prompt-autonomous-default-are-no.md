@@ -4,20 +4,20 @@ date: '2026-08-27'
 description: 'Claude Code · 2026-08-27 · Automation and Scheduling: Changed `/loop`:
   self-paced dynamic mode and the no-prompt autonomous default are now always available…'
 diffusion:
-  first_in_tracked: '[[Changes/OpenHands/2024-09-04-better-syntax-error-loop-detection-by-tobitege-in-https-github-com-all-hands-ai|Better
-    syntax error loop detection]]'
+  first_in_tracked: '[[Changes/Dify/2024-01-02-add-data-clean-schedule-by-johnjyong-in-https-github-com-langgenius-dify-pull-18|Add
+    data clean schedule]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 722
+  lag_days: 968
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: de5bf887d63220257fb949a007015945cd96e0d30981fefdd3c4f11e87126719
+machine_hash: 403e6e263b7edd92a3746bdf94052da4befa3a5ddcb9aed9ba7f8597f8bcf32a
 product: claude-code
 product_name: Claude Code
 record:
@@ -46,10 +46,10 @@ record:
   title: 'Changed `/loop`: self-paced dynamic mode and the no-prompt autonomous default…'
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-08-25-free-go-plus-and-pro-users-can-share-scheduled-tasks-recipients-can-review-and-c|Share
-  scheduled tasks]]'
-- '[[Changes/ChatGPT/2026-08-25-free-users-can-create-up-to-three-active-scheduled-tasks-tasks-can-run-once-or-r|Scheduled
-  tasks for Free users]]'
+- '[[Changes/Dify/2026-08-25-feat-workflow-support-human-input-in-loop-and-iteration-by-laipz8200-in-https-gi|feat(workflow):
+  support human input in loop and iteration]]'
+- '[[Changes/Open WebUI/2026-08-25-11-automation-and-scheduling-changes-in-v0-11-1|11
+  Automation and Scheduling changes in v0.11.1]]'
 - '[[Changes/Codex CLI/2026-08-26-40436-add-a-managed-gate-for-in-app-local-automation-copyberry|♯40436
   Add a managed gate for in-app local automation @copyberry]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-08-27-v2-1-248-github-378106990-677106e3|claude-code-2026-08-27-v2-1-248-github-378106990-677106e3]]'
@@ -94,7 +94,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2024-09-04 · OpenHands · [[Changes/OpenHands/2024-09-04-better-syntax-error-loop-detection-by-tobitege-in-https-github-com-all-hands-ai|Better syntax error loop detection]]
+- Earliest same-theme entry in the tracked set: 2024-01-02 · Dify · [[Changes/Dify/2024-01-02-add-data-clean-schedule-by-johnjyong-in-https-github-com-langgenius-dify-pull-18|Add data clean schedule]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 1efdcd2e2b1a9acbb286c029eb4be2b9e982f967520a16f2e096b341bd350821
+machine_hash: 14e944ab68431239a0a70f864b54fa536981dfffc5690951c810e490a1d96cb8
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -82,7 +82,7 @@ type: change
 ## Nearby in Safety and Privacy
 
 - Earlier: 2026-10-09 · Claude Code · [[Changes/Claude Code/2026-10-09-4-safety-and-privacy-changes-in-v2-1-296|4 Safety and Privacy changes in v2.1.296]]
-- Later: 2026-10-12 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-10-12-3-safety-and-privacy-changes-in-v1-0-96|3 Safety and Privacy changes in v1.0.96]]
+- Later: 2026-10-10 · Open WebUI · [[Changes/Open WebUI/2026-10-10-6-safety-and-privacy-changes-in-v0-12-0|6 Safety and Privacy changes in v0.12.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: be53d03d332cc185805b24d12bcb81badf3ce3fee30087b1cace2eac0f7fe5b8
+machine_hash: bc8454a0750f3c0fdf0f1c37c5e3d3e33d05e1cae9f29af2ec4e305ba6744e4b
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -44,8 +44,8 @@ record:
   title: '#41227 Use compatible PowerShell for elevated Windows sandbox commands @copyberry'
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-08-29-5-safety-and-privacy-changes-in-rust-v0-151-0|5
-  Safety and Privacy changes in rust-v0.151.0]]'
+- "[[Changes/Open WebUI/2026-08-31-security-advisory-this-release-includes-security-and-access-control-fixes-we-rec|\U0001F6E1️
+  Security Advisory: This release includes security and access-control fixes]]"
 - '[[Changes/Claude Code/2026-09-01-fixed-remote-and-scheduled-sessions-failing-with-user-messages-must-have-non-emp|Fixed
   remote and scheduled sessions failing…]]'
 - '[[Changes/Claude Code/2026-09-01-10-safety-and-privacy-changes-in-v2-1-257|10 Safety

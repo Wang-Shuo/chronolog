@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: 58a9c533886ce48f3f4326019d2748a5e3679ed61d64b489ef423788ca50d4f1
+machine_hash: fa1113819b71db0f3edde6a09beb5525aa72694cc8c25c0540a908c6998a3a7b
 product: cursor
 product_name: Cursor
 record:
@@ -90,7 +90,7 @@ type: change
 ## Nearby in Agent Mode
 
 - Earlier: 2026-05-19 · Claude Code · [[Changes/Claude Code/2026-05-19-3-agent-mode-changes-in-v2-1-145|3 Agent Mode changes in v2.1.145]]
-- Later: 2026-05-19 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-05-19-4-agent-mode-changes-in-v1-0-49|4 Agent Mode changes in v1.0.49]]
+- Later: 2026-05-19 · Dify · [[Changes/Dify/2026-05-19-3-agent-mode-changes-in-1-14-2|3 Agent Mode changes in 1.14.2]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

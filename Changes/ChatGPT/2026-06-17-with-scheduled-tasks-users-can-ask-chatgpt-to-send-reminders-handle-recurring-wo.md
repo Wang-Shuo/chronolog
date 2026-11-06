@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: d51fef4de3bd03dd7506cba67e0e9f1c196dbe4da9eaba325f7d462af2f897e5
+machine_hash: 1e0749d77f5db905c864ac8007353660195f71aadd9af9ffeea78169c3ecd438
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -56,8 +56,8 @@ record:
   title: With scheduled tasks, users can ask ChatGPT to send reminders, handle recurring…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-06-12-2-reliability-and-performance-changes-in-v2-1-176|2
-  Reliability and Performance changes in v2.1.176]]'
+- '[[Changes/Replit/2026-06-12-faster-slide-import-and-export|Faster slide import
+  and export]]'
 - '[[Changes/GitHub Copilot CLI/2026-06-13-speed-up-branch-and-head-detection-in-warm-sessions|Speed
   up branch and HEAD detection in warm sessions]]'
 - '[[Changes/Codex CLI/2026-06-15-3-reliability-and-performance-changes-in-rust-v0-140-0|3

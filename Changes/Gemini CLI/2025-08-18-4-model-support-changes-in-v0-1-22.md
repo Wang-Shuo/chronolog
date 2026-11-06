@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 8cf6c8c7f525fbe77a389949907e0c1e01502d401498cc06e4bae073b0de7156
+machine_hash: a682a00fd2c12d1fde8fe1907b25553973296691ba3e70a6bd5c96604da1c95e
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -49,12 +49,12 @@ record:
   title: 4 Model Support changes in v0.1.22
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2025-08-14-28-model-support-changes-in-v0-1-21|28 Model Support
-  changes in v0.1.21]]'
 - '[[Changes/ChatGPT/2025-08-15-we-re-making-gpt-5-s-default-personality-warmer-and-more-familiar-this-is-in-res-19a03e|GPT-5
   Updates]]'
 - '[[Changes/Cline/2025-08-15-add-support-for-200k-context-for-claude-sonnet-4-using-openrouter-cline-by-saoud|Add
   support for 200k context for claude sonnet 4 using openrouter/cline]]'
+- '[[Changes/Ollama/2025-08-15-ollama-flash-attention-1-will-also-enable-flash-attention-for-pure-cpu-models|OLLAMA_FLASH_ATTENTION=1
+  will also enable flash attention for pure-CPU models]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2025-08-18-v0-1-22-github-240728052-5b8812ab|gemini-cli-2025-08-18-v0-1-22-github-240728052-5b8812ab]]'
 source_type: github_releases
 theme: model-support
@@ -98,7 +98,7 @@ Source: https://github.com/google-gemini/gemini-cli/releases/tag/v0.1.22
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2025-08-15 · Cline · [[Changes/Cline/2025-08-15-add-support-for-200k-context-for-claude-sonnet-4-using-openrouter-cline-by-saoud|Add support for 200k context for claude sonnet 4 using openrouter/cline]]
+- Earlier: 2025-08-15 · Ollama · [[Changes/Ollama/2025-08-15-ollama-flash-attention-1-will-also-enable-flash-attention-for-pure-cpu-models|OLLAMA_FLASH_ATTENTION=1 will also enable flash attention for pure-CPU models]]
 - Later: 2025-08-20 · Cline · [[Changes/Cline/2025-08-20-2-model-support-changes-in-v3-26-0|2 Model Support changes in v3.26.0]]
 <!-- chronolog:end -->
 

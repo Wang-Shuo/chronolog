@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 04187cef1a0dc999467c2e20e454bf7a995cbad6fd071b8ba460f17e121f526f
+machine_hash: ba3a2b35fd4737332f7b20362afe03b96c30a48d351af9c728d19cf78d65edd4
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -88,7 +88,7 @@ type: change
 ## Nearby in Collaboration
 
 - Earlier: 2026-06-04 · Codex CLI · [[Changes/Codex CLI/2026-06-04-4-collaboration-changes-in-rust-v0-137-0|4 Collaboration changes in rust-v0.137.0]]
-- Later: 2026-06-15 · Codex CLI · [[Changes/Codex CLI/2026-06-15-27245-image-add-shared-data-url-preparation-utilities-fjord-oai|♯27245 image: add shared data URL preparation utilities @fjord-oai]]
+- Later: 2026-06-05 · Replit · [[Changes/Replit/2026-06-05-use-stripe-in-collaborative-workspaces|Use Stripe in collaborative workspaces]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

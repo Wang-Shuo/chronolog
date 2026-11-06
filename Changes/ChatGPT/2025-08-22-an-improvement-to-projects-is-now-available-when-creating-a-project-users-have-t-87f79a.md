@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: memory
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: launch
-machine_hash: d8e222c6fca421ee18f0666fecad702fecf43c93e6f91d1e7e5520ebbf14ef43
+machine_hash: c5ad473a8cfce98350f5d75b552c04b552afc04774c3a00da30ab1bb50660932
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -104,7 +104,7 @@ type: change
 ## Nearby in Memory and Personalization
 
 - Earlier: 2025-08-18 · ChatGPT · [[Changes/ChatGPT/2025-08-18-longer-memory-for-more-personalized-responses-4644fd|Longer memory for more personalized responses]]
-- Later: 2025-08-28 · Windsurf · [[Changes/Windsurf/2025-08-28-memory-improvements|Memory improvements]]
+- Later: 2025-08-28 · Open WebUI · [[Changes/Open WebUI/2025-08-28-pdf-export-content-mismatch-fixed-resolved-an-issue-where-exporting-a-pdf-of-one|📄 PDF Export Content Mismatch Fixed]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

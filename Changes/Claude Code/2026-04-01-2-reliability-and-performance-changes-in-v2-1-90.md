@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 1f0474a9016c6a30c3180765ee6da5c293bb78d3277e0bbd0311be3f4bde555c
+machine_hash: eb328d352bf8c37bf3c9affe27ac2b5f49fd3a06841ea750abe5e5f36be6fa64
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,8 +45,7 @@ record:
   title: 2 Reliability and Performance changes in v2.1.90
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-03-26-cli-no-longer-crashes-with-out-of-memory-errors-when-running-shell-commands-that|CLI
-  no longer crashes with out-of-memory errors when running shell commands…]]'
+- '[[Changes/Replit/2026-03-27-application-level-analytics|Application-level analytics]]'
 - '[[Changes/GitHub Copilot CLI/2026-03-30-2-reliability-and-performance-changes-in-v1-0-13|2
   Reliability and Performance changes in v1.0.13]]'
 - '[[Changes/GitHub Copilot CLI/2026-03-31-2-reliability-and-performance-changes-in-v1-0-14|2

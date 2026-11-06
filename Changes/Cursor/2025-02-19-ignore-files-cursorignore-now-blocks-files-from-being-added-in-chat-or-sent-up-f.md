@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: eb1984a09439585ae09024523bfd471f6750e139c07673e7bd56a70797db6314
+machine_hash: e4a6d50e8bcf149e35206c888c7e27b01c946635c7031cf091ca33eaed3c5465
 product: cursor
 product_name: Cursor
 record:
@@ -47,12 +47,12 @@ record:
     sent up…'
   type: change
 related_changes:
-- '[[Changes/OpenHands/2025-01-13-added-new-app-tab-which-allows-users-to-interact-with-the-web-app-run-in-openhan|Added
-  new App tab which allows users to interact with the web app run in OpenHands…]]'
-- '[[Changes/OpenHands/2025-01-22-users-can-now-define-a-different-llm-as-a-custom-llm-config-named-with-a-predefi|Users
-  can now define a different LLM as a custom LLM config named with a predefined name]]'
+- '[[Changes/Lovable/2025-02-12-introducing-visual-edits-https-lovable-dev-blog-introducing-visual-edits|Introducing
+  Visual Edits.((source link)]]'
 - '[[Changes/OpenHands/2025-02-13-add-success-failure-indicators-for-file-read-edit-operations-by-neubig-in-https|Add
   success/failure indicators for file read/edit operations]]'
+- "[[Changes/Open WebUI/2025-02-14-playground-text-completion-restored-addressed-an-issue-where-text-completion-in|\U0001F4DD
+  Playground Text Completion Restored]]"
 source_release: '[[Releases/Cursor/cursor-2025-02-19-0-46-x-https-cursor-com-changelog-0-46-x-640a0a10|cursor-2025-02-19-0-46-x-https-cursor-com-changelog-0-46-x-640a0a10]]'
 source_type: cursor_changelog
 theme: editor-experience
@@ -92,8 +92,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2025-02-13 · OpenHands · [[Changes/OpenHands/2025-02-13-add-success-failure-indicators-for-file-read-edit-operations-by-neubig-in-https|Add success/failure indicators for file read/edit operations]]
-- Later: 2025-03-11 · Cursor · [[Changes/Cursor/2025-03-11-0-47-2-cursor-tab-accepts-work-with-single-line-selections|0.47.2: Cursor Tab accepts work with single-line selections]]
+- Earlier: 2025-02-14 · Open WebUI · [[Changes/Open WebUI/2025-02-14-playground-text-completion-restored-addressed-an-issue-where-text-completion-in|📝 Playground Text Completion Restored]]
+- Later: 2025-02-21 · Lovable · [[Changes/Lovable/2025-02-21-improvements-in-visual-edits-https-x-com-lovable-dev-status-1892249059718484100|Improvements in visual edits((source link)]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 430ee534df73b59e29278256a4f8cdb2d1f29824c2e53f3c20d2cbd11f8e2938
+machine_hash: ba4819710dc9c7d841232d09cd415e3e2fc364326727f011b82142ca7f7d9cea
 product: cline
 product_name: Cline
 record:
@@ -58,8 +58,8 @@ record:
   title: 7 Apps and Integrations changes in v3.41.0
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-12-10-system-notification-actions-for-terminal-and-mcp-approval-rejection|System
-  notification actions for terminal and MCP approval/rejection]]'
+- '[[Changes/Lovable/2025-12-10-connectors-hub-formerly-integrations|Connectors hub
+  (formerly Integrations)]]'
 - '[[Changes/Windsurf/2025-12-10-mcp-servers|MCP Servers]]'
 - '[[Changes/Windsurf/2025-12-10-cascade-hooks-on-user-prompts|Cascade Hooks on User
   Prompts]]'
@@ -113,7 +113,7 @@ Source: https://github.com/cline/cline/releases/tag/v3.41.0
 ## Nearby in Apps and Integrations
 
 - Earlier: 2025-12-10 · Windsurf · [[Changes/Windsurf/2025-12-10-cascade-hooks-on-user-prompts|Cascade Hooks on User Prompts]]
-- Later: 2025-12-13 · Codex CLI · [[Changes/Codex CLI/2025-12-13-2-apps-and-integrations-changes-in-rust-v0-72-0|2 Apps and Integrations changes in rust-v0.72.0]]
+- Later: 2025-12-11 · Dify · [[Changes/Dify/2025-12-11-16-apps-and-integrations-changes-in-1-11-0|16 Apps and Integrations changes in 1.11.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: f91eda0f3c0bd2610f3a259ceae6af6d6409a2b7e3633e3ff80c4b05792819f4
+machine_hash: 77eae17a0743839b7bcd49236e23a21e09ae9422cee63aa5f93868e58dd24e42
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -43,12 +43,11 @@ record:
   title: '#21954 Fix goal update and add `/goal edit` command in TUI @etraut-openai'
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-05-12-read-only-gh-cli-commands-list-view-status-diff-etc-are-auto-approved-without-pr|Read-only
-  gh CLI commands (list, view, status, diff, etc.) are auto-approved without…]]'
-- '[[Changes/Cursor/2026-05-13-improved-pr-tabs-by-adding-clearer-review-states-better-reviewer-thread-visibili|Improved
-  PR tabs by adding clearer review states, better reviewer/thread visibility…]]'
+- '[[Changes/ElevenLabs/2026-05-13-workspaces|Workspaces]]'
 - '[[Changes/Claude Code/2026-05-15-bg-and-detach-now-preserve-allow-dangerously-skip-permissions-so-the-forked-work|/bg
   and ←-detach now preserve --allow-dangerously-skip-permissions…]]'
+- '[[Changes/v0/2026-05-15-reloading-the-preview-iframe-in-safari-shows-the-open-preview-in-new-tab-message|Reloading
+  the preview iframe in Safari shows the "Open preview in new tab" message…]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-05-18-rust-v0-131-0-github-324452638-5f16ff1d|codex-cli-2026-05-18-rust-v0-131-0-github-324452638-5f16ff1d]]'
 source_type: github_releases
 theme: editor-experience
@@ -88,8 +87,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2026-05-15 · Claude Code · [[Changes/Claude Code/2026-05-15-bg-and-detach-now-preserve-allow-dangerously-skip-permissions-so-the-forked-work|/bg and ←-detach now preserve --allow-dangerously-skip-permissions…]]
-- Later: 2026-05-19 · Claude Code · [[Changes/Claude Code/2026-05-19-fewer-spurious-tool-errors-during-search-head-tail-file-views-now-satisfy-the-re|Fewer spurious tool errors during search]]
+- Earlier: 2026-05-15 · v0 · [[Changes/v0/2026-05-15-reloading-the-preview-iframe-in-safari-shows-the-open-preview-in-new-tab-message|Reloading the preview iframe in Safari shows the "Open preview in new tab" message…]]
+- Later: 2026-05-18 · Lovable · [[Changes/Lovable/2026-05-18-seo-and-ai-search|SEO and AI search]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

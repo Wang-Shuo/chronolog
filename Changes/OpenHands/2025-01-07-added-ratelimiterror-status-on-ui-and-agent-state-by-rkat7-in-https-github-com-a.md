@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: 49761cc06d35cc09d3dcfe3aad70562487f9cf337fdd165f591da131b843e53b
+machine_hash: 3eaafb72de2cb962d332fba30deb0cb3b30f06a36a60ee560e009b8cc9de118b
 product: openhands
 product_name: OpenHands
 record:
@@ -43,11 +43,10 @@ record:
   title: Added RateLimitError status on UI and Agent state
   type: change
 related_changes:
-- '[[Changes/Aider/2024-12-10-updated-shell-command-prompt|Updated shell command prompt]]'
-- '[[Changes/OpenHands/2024-12-17-let-user-continue-when-the-agent-gets-stuck-in-a-loop-ui-only-by-enyst-in-https|Let
-  user continue when the agent gets stuck in a loop (UI-only)]]'
-- '[[Changes/OpenHands/2024-12-19-agent-gets-stuck-in-closing-and-server-won-t-die-by-tofarr-in-https-github-com-a|Agent
-  gets stuck in closing and server won''t die]]'
+- "[[Changes/Open WebUI/2024-12-25-true-asynchronous-chat-support-create-chats-navigate-away-and-return-anytime-wit|\U0001F4AC
+  True Asynchronous Chat Support]]"
+- '[[Changes/Replit/2024-12-27-agent-improvements|Agent improvements]]'
+- '[[Changes/Replit/2024-12-27-database-polish|Database polish]]'
 source_release: '[[Releases/OpenHands/openhands-2025-01-07-0-19-0-github-193581612-a242e2a9|openhands-2025-01-07-0-19-0-github-193581612-a242e2a9]]'
 source_type: github_releases
 theme: agent-mode
@@ -78,8 +77,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2024-12-19 · OpenHands · [[Changes/OpenHands/2024-12-19-agent-gets-stuck-in-closing-and-server-won-t-die-by-tofarr-in-https-github-com-a|Agent gets stuck in closing and server won't die]]
-- Later: 2025-01-22 · OpenHands · [[Changes/OpenHands/2025-01-22-when-connecting-to-a-github-repo-the-agent-now-explicitly-knows-which-repo-was-c|When connecting to a GitHub repo, the agent now explicitly knows which repo…]]
+- Earlier: 2024-12-27 · Replit · [[Changes/Replit/2024-12-27-database-polish|Database polish]]
+- Later: 2025-01-10 · Replit · [[Changes/Replit/2025-01-10-agent-and-assistant-improvements|Agent and Assistant improvements]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

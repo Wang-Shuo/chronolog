@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: projects-workspaces
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 0d5f7129fbe8f87572f2fc17e8a4a0dabad9e53a75bc79412d0f3dfeea022be2
+machine_hash: 90ae07d8a29f9d42d48d2d6e8162088908efffceac119e4ab69826f5b6ea6894
 product: cursor
 product_name: Cursor
 record:
@@ -85,7 +85,7 @@ type: change
 ## Nearby in Projects and Workspaces
 
 - Earlier: 2024-09-17 · Cursor · [[Changes/Cursor/2024-09-17-composer-notepads-previously-called-projects-can-now-include-tagged-files-and-be|Composer Notepads (previously called Projects) can now include tagged files…]]
-- Later: 2025-06-12 · ChatGPT · [[Changes/ChatGPT/2025-06-12-starting-a-new-project-directly-from-a-chat|Starting a new project directly from a chat]]
+- Later: 2024-10-14 · Dify · [[Changes/Dify/2024-10-14-miscellaneous-fixes-including-max-token-adjustments-in-openrouter-by-infinitnet|Miscellaneous Fixes: Including max-token adjustments in OpenRouter…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

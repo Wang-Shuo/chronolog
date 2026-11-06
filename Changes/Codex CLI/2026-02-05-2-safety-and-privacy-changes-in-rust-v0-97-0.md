@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 55b820a5d88ff42b6d08a7bbf6ef549c5ef136fb3c89361102ef2305bbe97457
+machine_hash: b512e33648830b13c0da6a2cde4051b63e0cb7f3ed72dda0bee517a796fcc6ec
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -43,8 +43,8 @@ record:
   title: 2 Safety and Privacy changes in rust-v0.97.0
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-02-03-fixed-permission-dialogs-stealing-focus-while-actively-typing|Fixed
-  permission dialogs stealing focus while actively typing]]'
+- '[[Changes/Dify/2026-02-03-9-safety-and-privacy-changes-in-1-12-0|9 Safety and Privacy
+  changes in 1.12.0]]'
 - '[[Changes/Codex CLI/2026-02-04-6-safety-and-privacy-changes-in-rust-v0-95-0|6 Safety
   and Privacy changes in rust-v0.95.0]]'
 - '[[Changes/Gemini CLI/2026-02-04-security-hooks-wrap-hook-injected-context-in-distinct-xml-tags-by-yunaseoul-in-h|security(hooks):

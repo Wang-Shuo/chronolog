@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: bec2b1c2f1c24672bc63484f75200deabf835ab6f1314d56947d337bb67b4643
+machine_hash: b90f245c3e62b886c78a5c46c33ae4ff6796386dcf6c57f5eba4c538761fb9a0
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -100,7 +100,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.80.0
 ## Nearby in Developer Workflow
 
 - Earlier: 2026-01-09 · Claude Code · [[Changes/Claude Code/2026-01-09-4-developer-workflow-changes-in-v2-1-2|4 Developer Workflow changes in v2.1.2]]
-- Later: 2026-01-12 · Claude Code · [[Changes/Claude Code/2026-01-12-added-claude-code-tmpdir-environment-variable-to-override-the-temp-directory-use|Added CLAUDE_CODE_TMPDIR environment variable to override the temp directory used…]]
+- Later: 2026-01-09 · Open WebUI · [[Changes/Open WebUI/2026-01-09-24-developer-workflow-changes-in-v0-7-0|24 Developer Workflow changes in v0.7.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

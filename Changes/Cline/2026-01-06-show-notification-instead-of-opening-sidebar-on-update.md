@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 36b2761bfd4f97b5e70db1fb8feefe56a1ff25f6873de22093c9b5287959d8b7
+machine_hash: 8dc9b6644a14688ecfea9f34cf0298ddc43f6c1ddbbe47d51798c938d979a976
 product: cline
 product_name: Cline
 record:
@@ -40,8 +40,8 @@ record:
   title: Show notification instead of opening sidebar on update
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2025-12-19-2-interface-experience-changes-in-rust-v0-76-0|2
-  Interface Experience changes in rust-v0.76.0]]'
+- '[[Changes/Open WebUI/2025-12-21-8-interface-experience-changes-in-v0-6-42|8 Interface
+  Experience changes in v0.6.42]]'
 - '[[Changes/Cline/2025-12-22-model-picker-favorites-ordering-star-toggle-and-keyboard-navigation-for-openrout|Model
   picker favorites ordering, star toggle, and keyboard navigation for OpenRouter…]]'
 - '[[Changes/Cursor/2025-12-22-3-interface-experience-changes-in-2-3|3 Interface Experience

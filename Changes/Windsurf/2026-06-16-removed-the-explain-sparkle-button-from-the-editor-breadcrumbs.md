@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: f69c5fe858e55a9895a83a92ea9412e391a2d3869ee052d1872d80e30fa01eb5
+machine_hash: 43bacfb5f760678b67c894eb9bb28a4be968e24d10ff46e70f9d9cc8ef5421c7
 product: windsurf
 product_name: Windsurf
 record:
@@ -41,12 +41,11 @@ record:
   title: Removed the Explain sparkle button from the editor breadcrumbs
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-06-13-2-editor-experience-changes-in-v1-0-62|2
-  Editor Experience changes in v1.0.62]]'
-- '[[Changes/Codex CLI/2026-06-15-2-editor-experience-changes-in-rust-v0-140-0|2 Editor
-  Experience changes in rust-v0.140.0]]'
+- '[[Changes/ElevenLabs/2026-06-15-workspaces|Workspaces]]'
 - '[[Changes/GitHub Copilot CLI/2026-06-16-4-editor-experience-changes-in-v1-0-63|4
   Editor Experience changes in v1.0.63]]'
+- '[[Changes/Lovable/2026-06-16-see-when-you-have-unpublished-changes|See when you
+  have unpublished changes]]'
 source_release: '[[Releases/Windsurf/windsurf-2026-06-16-v3-2-16-684ac1d4|windsurf-2026-06-16-v3-2-16-684ac1d4]]'
 source_type: windsurf_changelog
 theme: editor-experience
@@ -79,8 +78,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2026-06-16 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-06-16-4-editor-experience-changes-in-v1-0-63|4 Editor Experience changes in v1.0.63]]
-- Later: 2026-06-22 · Codex CLI · [[Changes/Codex CLI/2026-06-22-29289-code-mode-preserve-initial-yield-at-completion-cconger|♯29289 code-mode: preserve initial yield at completion @cconger]]
+- Earlier: 2026-06-16 · Lovable · [[Changes/Lovable/2026-06-16-see-when-you-have-unpublished-changes|See when you have unpublished changes]]
+- Later: 2026-06-18 · Lovable · [[Changes/Lovable/2026-06-18-require-the-workspace-editor-role-to-edit-projects|Require the workspace editor role to edit projects]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

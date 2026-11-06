@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: a5eb92cd52db1622f9690343d7b7351ef836f2ecc653aff97dd143f723bafc21
+machine_hash: ad3ff7090619c322474df5b20bb32a0332fecc7458ff0aba368e26353392365d
 product: claude-code
 product_name: Claude Code
 record:
@@ -44,8 +44,8 @@ record:
   title: Improved the Workflow tool's prompt footprint
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2026-08-25-ssr-agent-issue-fix-19239-update-clear-command-docs-to-include-context-reset-by|SSR
-  Agent Issue Fix (19239): Update /clear command docs to include context reset]]'
+- '[[Changes/Open WebUI/2026-08-25-4-context-window-changes-in-v0-11-1|4 Context Window
+  changes in v0.11.1]]'
 - '[[Changes/Claude Code/2026-08-26-changed-sonnet-5-s-default-auto-compact-window-to-its-full-1m-context-so-session|Changed
   Sonnet 5''s default auto-compact window to its full 1M context, so sessions…]]'
 - '[[Changes/Codex CLI/2026-08-26-14-context-window-changes-in-rust-v0-150-0|14 Context

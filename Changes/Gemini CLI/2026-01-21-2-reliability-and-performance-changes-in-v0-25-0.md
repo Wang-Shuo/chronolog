@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: b70272c27dc26f65817372b63c140cda5a678132aedcf3d4bd755388b17cf54a
+machine_hash: 5c35a3af82ec4b53e498e8c46c62163ccca4280de5a0ce6ebbba4d576f8ce9e1
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -44,8 +44,8 @@ record:
   title: 2 Reliability and Performance changes in v0.25.0
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-01-16-faster-message-queueing-and-ux|Faster message queueing
-  and UX]]'
+- '[[Changes/Ollama/2026-01-16-glm-4-7-flash-https-ollama-com-library-glm-4-7-flash-as-the-strongest-model-in-t|GLM-4.7-Flash((source
+  link) As the strongest model…]]'
 - '[[Changes/Claude Code/2026-01-21-improved-ui-rendering-performance-with-react-compiler|Improved
   UI rendering performance with React Compiler]]'
 - '[[Changes/Codex CLI/2026-01-21-9543-fix-memory-leak-issue-jif-oai|♯9543 fix: memory
@@ -92,7 +92,7 @@ Source: https://github.com/google-gemini/gemini-cli/releases/tag/v0.25.0
 ## Nearby in Reliability and Performance
 
 - Earlier: 2026-01-21 · Codex CLI · [[Changes/Codex CLI/2026-01-21-9543-fix-memory-leak-issue-jif-oai|♯9543 fix: memory leak issue @jif-oai]]
-- Later: 2026-01-22 · Cursor · [[Changes/Cursor/2026-01-22-4-reliability-and-performance-changes-in-2-4|4 Reliability and Performance changes in 2.4]]
+- Later: 2026-01-21 · Ollama · [[Changes/Ollama/2026-01-21-reduced-memory-usage-for-glm-4-7-flash-models|Reduced memory usage for GLM-4.7-Flash models]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

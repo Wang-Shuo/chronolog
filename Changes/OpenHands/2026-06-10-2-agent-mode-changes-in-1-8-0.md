@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 9a92fa8674823004ad6804477a353664f2c8e1a16a0727472537b06122f84dcc
+machine_hash: b22278706f5537823c20659fcb74ae34a7e819afd990f3995b2fb9e9408afd6c
 product: openhands
 product_name: OpenHands
 record:
@@ -42,10 +42,9 @@ record:
   title: 2 Agent Mode changes in 1.8.0
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-06-09-5-agent-mode-changes-in-rust-v0-139-0|5 Agent Mode
-  changes in rust-v0.139.0]]'
 - '[[Changes/GitHub Copilot CLI/2026-06-09-3-agent-mode-changes-in-v1-0-61|3 Agent
   Mode changes in v1.0.61]]'
+- '[[Changes/Lovable/2026-06-09-publish-from-chat|Publish from chat]]'
 - '[[Changes/Claude Code/2026-06-10-sub-agents-can-now-spawn-their-own-sub-agents-up-to-5-levels-deep|Sub-agents
   can now spawn their own sub-agents (up to 5 levels deep)]]'
 source_release: '[[Releases/OpenHands/openhands-2026-06-10-1-8-0-github-337373027-9a0bbdca|openhands-2026-06-10-1-8-0-github-337373027-9a0bbdca]]'
@@ -84,7 +83,7 @@ Source: https://github.com/OpenHands/OpenHands/releases/tag/1.8.0
 ## Nearby in Agent Mode
 
 - Earlier: 2026-06-10 · Claude Code · [[Changes/Claude Code/2026-06-10-sub-agents-can-now-spawn-their-own-sub-agents-up-to-5-levels-deep|Sub-agents can now spawn their own sub-agents (up to 5 levels deep)]]
-- Later: 2026-06-13 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-06-13-4-agent-mode-changes-in-v1-0-62|4 Agent Mode changes in v1.0.62]]
+- Later: 2026-06-12 · Replit · [[Changes/Replit/2026-06-12-block-malicious-packages-with-package-firewall|Block malicious packages with Package Firewall]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

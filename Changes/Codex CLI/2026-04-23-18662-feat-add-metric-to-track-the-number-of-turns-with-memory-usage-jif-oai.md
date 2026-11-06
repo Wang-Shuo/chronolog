@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: e1de5fe0c2712e506dd06a1dbb8be01d224f3b0ce96b07cc1ec212c255201c4e
+machine_hash: 2891f6c056144be11619ac34b82fb68cc44ed712b9d3be070e3f1ddbb2a19658
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -44,12 +44,12 @@ record:
   title: '#18662 feat: add metric to track the number of turns with memory usage @jif-oai'
   type: change
 related_changes:
-- '[[Changes/Windsurf/2026-04-17-various-bug-fixes-and-performance-improvements|Various
-  bug fixes and performance improvements]]'
-- '[[Changes/Claude Code/2026-04-20-resume-on-large-sessions-is-significantly-faster-up-to-67-on-40mb-sessions-and-h|/resume
-  on large sessions is significantly faster (up to 67% on 40MB+ sessions)…]]'
+- '[[Changes/Open WebUI/2026-04-21-24-reliability-and-performance-changes-in-v0-9-0|24
+  Reliability and Performance changes in v0.9.0]]'
 - '[[Changes/Claude Code/2026-04-22-2-reliability-and-performance-changes-in-v2-1-117|2
   Reliability and Performance changes in v2.1.117]]'
+- '[[Changes/Ollama/2026-04-22-2-reliability-and-performance-changes-in-v0-21-1|2
+  Reliability and Performance changes in v0.21.1]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-04-23-rust-v0-123-0-github-312509536-cebe4f18|codex-cli-2026-04-23-rust-v0-123-0-github-312509536-cebe4f18]]'
 source_type: github_releases
 theme: reliability-performance
@@ -89,7 +89,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2026-04-22 · Claude Code · [[Changes/Claude Code/2026-04-22-2-reliability-and-performance-changes-in-v2-1-117|2 Reliability and Performance changes in v2.1.117]]
+- Earlier: 2026-04-22 · Ollama · [[Changes/Ollama/2026-04-22-2-reliability-and-performance-changes-in-v0-21-1|2 Reliability and Performance changes in v0.21.1]]
 - Later: 2026-04-23 · Gemini CLI · [[Changes/Gemini CLI/2026-04-23-2-reliability-and-performance-changes-in-v0-39-0|2 Reliability and Performance changes in v0.39.0]]
 <!-- chronolog:end -->
 

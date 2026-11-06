@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 9f6dc031f33011bc43cb94e24f5022ceda78b084fcdd81e484b54aa0f2dfaee5
+machine_hash: 8001e7e8abaddb6e9ed8038f001c3d3c07e370bfd138d6299e8e9cc8e538bc08
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,12 +45,9 @@ record:
   title: 2 Apps and Integrations changes in v2.1.45
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-02-12-mcp-servers-respect-the-cwd-working-directory-property|MCP
-  servers respect the cwd working directory property]]'
-- '[[Changes/GitHub Copilot CLI/2026-02-12-2-apps-and-integrations-changes-in-v0-0-409|2
-  Apps and Integrations changes in v0.0.409]]'
-- '[[Changes/GitHub Copilot CLI/2026-02-14-3-apps-and-integrations-changes-in-v0-0-410|3
-  Apps and Integrations changes in v0.0.410]]'
+- '[[Changes/ElevenLabs/2026-02-16-javascript-sdk|JavaScript SDK]]'
+- '[[Changes/ElevenLabs/2026-02-16-python-sdk|Python SDK]]'
+- '[[Changes/ElevenLabs/2026-02-16-sdk-releases|SDK Releases]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-02-17-v2-1-45-github-287379410-d0651fb6|claude-code-2026-02-17-v2-1-45-github-287379410-d0651fb6]]'
 source_type: github_releases
 theme: apps-integrations
@@ -88,7 +85,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.45
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-02-14 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-02-14-3-apps-and-integrations-changes-in-v0-0-410|3 Apps and Integrations changes in v0.0.410]]
+- Earlier: 2026-02-16 · ElevenLabs · [[Changes/ElevenLabs/2026-02-16-sdk-releases|SDK Releases]]
 - Later: 2026-02-17 · Codex CLI · [[Changes/Codex CLI/2026-02-17-15-apps-and-integrations-changes-in-rust-v0-102-0|15 Apps and Integrations changes in rust-v0.102.0]]
 <!-- chronolog:end -->
 

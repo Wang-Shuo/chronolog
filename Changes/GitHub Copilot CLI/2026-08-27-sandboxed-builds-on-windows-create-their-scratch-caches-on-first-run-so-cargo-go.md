@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 88058b88de931af78f10003376cf500b526da0a6ac8c0c848fd7466116b4a623
+machine_hash: 992f546495dcfdfc268cc4f5f43807e2ddcac49721fa7652e5504ccf183edaaa
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -46,9 +46,9 @@ record:
     cargo, go…
   type: change
 related_changes:
-- '[[Changes/Windsurf/2026-08-21-devin-desktop|Devin Desktop]]'
-- '[[Changes/Claude Code/2026-08-25-windows-macos-fixed-headless-sessions-not-cleaning-up-stale-entries-in-claude-se|Windows/macOS:
-  Fixed headless sessions not cleaning up stale entries…]]'
+- '[[Changes/Lovable/2026-08-25-filter-audit-logs-by-client|Filter audit logs by client]]'
+- "[[Changes/Open WebUI/2026-08-25-starting-up-on-windows-the-windows-start-script-now-creates-the-secret-key-it-ne|\U0001FA9F
+  Starting up on Windows. The Windows start script now creates the secret key…]]"
 - '[[Changes/Codex CLI/2026-08-26-39811-restrict-macos-preference-reads-to-full-disk-policies-copyberry|♯39811
   Restrict macOS preference reads to full-disk policies @copyberry]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-08-27-v1-0-81-github-377993714-523d567a|github-copilot-cli-2026-08-27-v1-0-81-github-377993714-523d567a]]'

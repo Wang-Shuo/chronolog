@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: accessibility-localization
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 0c30d86f1218a17751605b98a464873b44761facff6cc3bb12f9f03ab4721f81
+machine_hash: cdefd253ba051b691b98bb868204bd1528227fa0ea81c120a139322320018d58
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -45,12 +45,12 @@ record:
   title: 2 Accessibility and Localization changes in v0.7.0
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2025-09-04-introduce-initial-screen-reader-mode-handling-and-flag-by-chrstnb-in-https-githu|Introduce
-  initial screen reader mode handling and flag]]'
-- '[[Changes/Gemini CLI/2025-09-09-screen-reader-updates-by-chrstnb-in-https-github-com-google-gemini-gemini-cli-pu|Screen
-  reader updates]]'
 - '[[Changes/Cline/2025-09-17-accessibility-improvements-to-screen-readers-in-mcp-cline-rules-workflows-and-hi|Accessibility:
   Improvements to screen readers in MCP, Cline Rules, workflows…]]'
+- '[[Changes/Open WebUI/2025-09-17-3-accessibility-and-localization-changes-in-v0-6-29|3
+  Accessibility and Localization changes in v0.6.29]]'
+- '[[Changes/Open WebUI/2025-09-25-enhanced-user-interface-accessibility-through-the-addition-of-unique-element-ids|♿
+  Enhanced user interface accessibility through the addition of unique element IDs…]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2025-10-01-v0-7-0-github-251548156-78585420|gemini-cli-2025-10-01-v0-7-0-github-251548156-78585420]]'
 source_type: github_releases
 theme: accessibility-localization
@@ -90,7 +90,7 @@ Source: https://github.com/google-gemini/gemini-cli/releases/tag/v0.7.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Accessibility and Localization
 
-- Earlier: 2025-09-17 · Cline · [[Changes/Cline/2025-09-17-accessibility-improvements-to-screen-readers-in-mcp-cline-rules-workflows-and-hi|Accessibility: Improvements to screen readers in MCP, Cline Rules, workflows…]]
+- Earlier: 2025-09-25 · Open WebUI · [[Changes/Open WebUI/2025-09-25-enhanced-user-interface-accessibility-through-the-addition-of-unique-element-ids|♿ Enhanced user interface accessibility through the addition of unique element IDs…]]
 - Later: 2025-10-02 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2025-10-02-improved-screen-reader-mode-by-replacing-icons-in-the-timeline-with-informative|Improved --screen-reader mode by replacing icons in the timeline with informative labels]]
 <!-- chronolog:end -->
 

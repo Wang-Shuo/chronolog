@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: ae95521e19918370995a766606ff2bd9cd814ac7dcd64bfb3fffebb80eb0e124
+machine_hash: c60bd6d0aab3acfd2b837d6d8db1cd76c20d18cbcb76469b14edb46827dbf3c7
 product: openhands
 product_name: OpenHands
 record:
@@ -42,8 +42,8 @@ record:
   title: The app isn't signed with an Apple Developer ID yet, so macOS may call a
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-22-changed-the-dangerous-rm-and-rmdir-prompt-in-bypass-permissions-mode-in-the-desk|Changed
-  the dangerous rm and rmdir prompt in bypass permissions mode…]]'
+- '[[Changes/Ollama/2026-10-22-flint-https-ollama-com-library-flint-now-runs-on-linux-and-windows-as-well-as-ma|Flint((source
+  link) now runs on Linux and Windows as well as macOS]]'
 - '[[Changes/OpenHands/2026-10-22-the-app-isn-t-signed-with-an-apple-developer-id-yet-so-macos-may-call-a|The
   app isn''t signed with an Apple Developer ID yet, so macOS may call a]]'
 - '[[Changes/OpenHands/2026-10-22-the-app-isn-t-signed-with-an-apple-developer-id-yet-so-macos-may-call-a-431833|The

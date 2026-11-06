@@ -4,20 +4,20 @@ date: '2026-06-04'
 description: 'Cursor · 2026-06-04 · Files and Data: Improved the agent''s ability
   to fix canvas type errors.'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-07-06-we-re-rolling-out-code-interpreter-to-all-chatgpt-plus-users-over-the-next-week-66255e|Code
-    interpreter is now rolling out in beta on web]]'
+  first_in_tracked: '[[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2
+    Files and Data changes in 0.2.2]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1064
+  lag_days: 1106
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: 54cdcf8802b023c932293d33439bbf394dd1ef42ac3b58eef03916ad960b1658
+machine_hash: a821b430ed6e040f787d82a15c111324e19ffe176098169bd5a5b48e467ea1d3
 product: cursor
 product_name: Cursor
 record:
@@ -53,8 +53,8 @@ record:
   title: Improved the agent's ability to fix canvas type errors
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-06-01-canvas-providers-can-return-file-urls-in-open-results-for-local-file-previews|Canvas
-  providers can return file:// URLs in open results for local file previews]]'
+- '[[Changes/Open WebUI/2026-06-01-5-files-and-data-changes-in-v0-9-6|5 Files and
+  Data changes in v0.9.6]]'
 - '[[Changes/Codex CLI/2026-06-04-25682-codex-document-out-of-line-test-module-convention-anp-oai|♯25682
   codex document out-of-line test module convention @anp-oai]]'
 - '[[Changes/Cursor/2026-06-04-design-mode-is-now-available-in-canvases|Design Mode
@@ -100,7 +100,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-07-06 · ChatGPT · [[Changes/ChatGPT/2023-07-06-we-re-rolling-out-code-interpreter-to-all-chatgpt-plus-users-over-the-next-week-66255e|Code interpreter is now rolling out in beta on web]]
+- Earliest same-theme entry in the tracked set: 2023-05-25 · Dify · [[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2 Files and Data changes in 0.2.2]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 75cf80d537696ec013c96d376973218083bb5ace61aeb14613809ec4a3dc0805
+machine_hash: 6f70f09e3c5fb7d3116db55db8b7bdd409513012d74d73abacff321de80c2c2b
 product: openhands
 product_name: OpenHands
 record:
@@ -42,11 +42,9 @@ record:
   title: 'docs(agents): add a repository map clarifying what belongs where'
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-08-14-improved-claude-self-hosted-runner-session-start-time-the-session-branch-is-now|Improved
-  claude self-hosted-runner session start time]]'
-- '[[Changes/Claude Code/2026-08-17-removed-the-redundant-allowed-by-auto-mode-classifier-line-that-auto-mode-showed|Removed
-  the redundant "Allowed by auto mode classifier" line that auto mode showed…]]'
 - '[[Changes/Cursor/2026-08-17-agents-in-every-repo|Agents in every repo]]'
+- '[[Changes/ElevenLabs/2026-08-17-elevenagents|ElevenAgents]]'
+- '[[Changes/ElevenLabs/2026-08-17-elevenagents-fdc84e|ElevenAgents]]'
 source_release: '[[Releases/OpenHands/openhands-2026-08-17-v1-14-0-github-371966965-402951e4|openhands-2026-08-17-v1-14-0-github-371966965-402951e4]]'
 source_type: github_releases
 theme: agent-mode
@@ -78,7 +76,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2026-08-17 · Cursor · [[Changes/Cursor/2026-08-17-agents-in-every-repo|Agents in every repo]]
+- Earlier: 2026-08-17 · ElevenLabs · [[Changes/ElevenLabs/2026-08-17-elevenagents-fdc84e|ElevenAgents]]
 - Later: 2026-08-18 · Codex CLI · [[Changes/Codex CLI/2026-08-18-12-agent-mode-changes-in-rust-v0-148-0|12 Agent Mode changes in rust-v0.148.0]]
 <!-- chronolog:end -->
 

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 96086d5d281b5137386d6bf5498f012d8b8518743cf931a493efbce3eda040a7
+machine_hash: 4d85755e80871acc0a14b9e6dc5b063dd83b1cde79b2fd922667fb7b82a33761
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -59,12 +59,11 @@ record:
   title: 8 Apps and Integrations changes in rust-v0.139.0
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-06-05-10-apps-and-integrations-changes-in-v1-0-60|10
-  Apps and Integrations changes in v1.0.60]]'
-- '[[Changes/Claude Code/2026-06-06-added-glob-pattern-support-in-deny-rule-tool-name-position-denies-all-tools-allo|Added
-  glob pattern support in deny rule tool-name position ("" denies all tools)]]'
 - '[[Changes/Codex CLI/2026-06-08-19-apps-and-integrations-changes-in-rust-v0-138-0|19
   Apps and Integrations changes in rust-v0.138.0]]'
+- '[[Changes/ElevenLabs/2026-06-08-sdk-releases|SDK Releases]]'
+- '[[Changes/v0/2026-06-08-4-apps-and-integrations-changes-in-changelog-update|4 Apps
+  and Integrations changes in Changelog update]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-06-09-rust-v0-139-0-github-336847772-eda0ee6f|codex-cli-2026-06-09-rust-v0-139-0-github-336847772-eda0ee6f]]'
 source_type: github_releases
 theme: apps-integrations
@@ -118,7 +117,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.139.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-06-08 · Codex CLI · [[Changes/Codex CLI/2026-06-08-19-apps-and-integrations-changes-in-rust-v0-138-0|19 Apps and Integrations changes in rust-v0.138.0]]
+- Earlier: 2026-06-08 · v0 · [[Changes/v0/2026-06-08-4-apps-and-integrations-changes-in-changelog-update|4 Apps and Integrations changes in Changelog update]]
 - Later: 2026-06-09 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-06-09-4-apps-and-integrations-changes-in-v1-0-61|4 Apps and Integrations changes in v1.0.61]]
 <!-- chronolog:end -->
 

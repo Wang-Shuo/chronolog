@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: e6acfcfeadaa51b467367f454837ce09c567e03f0adb1e7e29eb6a0300c58b5d
+machine_hash: 0a2f9834e31d384993be874ea316d59234998f2a8207a4629aeeb587785fb918
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -50,10 +50,10 @@ record:
   title: 5 Agent Mode changes in v0.1.14
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2025-07-19-https-github-com-openai-codex-pull-1589-changes-ctrl-d-so-it-only-exits-the-tui|(source
-  link) changes ctrl-d so it only exits the TUI…]]'
-- '[[Changes/Gemini CLI/2025-07-19-3-agent-mode-changes-in-v0-1-13|3 Agent Mode changes
-  in v0.1.13]]'
+- '[[Changes/ElevenLabs/2025-07-22-2-agent-mode-changes-in-elevenlabs-updates-2025-07-22|2
+  Agent Mode changes in ElevenLabs updates — 2025-07-22]]'
+- '[[Changes/Dify/2025-07-23-2-agent-mode-changes-in-1-7-0|2 Agent Mode changes in
+  1.7.0]]'
 - '[[Changes/OpenHands/2025-07-24-2-agent-mode-changes-in-0-50-0|2 Agent Mode changes
   in 0.50.0]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2025-07-25-v0-1-14-github-235287807-631ef7fa|gemini-cli-2025-07-25-v0-1-14-github-235287807-631ef7fa]]'
@@ -107,7 +107,7 @@ Source: https://github.com/google-gemini/gemini-cli/releases/tag/v0.1.14
 ## Nearby in Agent Mode
 
 - Earlier: 2025-07-24 · OpenHands · [[Changes/OpenHands/2025-07-24-2-agent-mode-changes-in-0-50-0|2 Agent Mode changes in 0.50.0]]
-- Later: 2025-07-29 · Cursor · [[Changes/Cursor/2025-07-29-agents-can-now-use-your-native-terminal-a-new-terminal-will-be-created-when-need|Share terminal with Agent]]
+- Later: 2025-07-25 · Replit · [[Changes/Replit/2025-07-25-queue|Queue]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

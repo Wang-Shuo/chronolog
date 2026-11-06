@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: b388dc61a59c366209e64f58560879140663f13bf3177ffcbcceca40d1af73b6
+machine_hash: ed35d306e1b46d2ae3189e952a86ffcdd124378224b5630e8c6fc868a164f985
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -43,12 +43,12 @@ record:
   title: 3 Developer Workflow changes in v0.0.407
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-02-10-improved-heredoc-delimiter-parsing-to-prevent-command-smuggling|Improved
-  heredoc delimiter parsing to prevent command smuggling]]'
-- '[[Changes/Gemini CLI/2026-02-10-6-developer-workflow-changes-in-v0-28-0|6 Developer
-  Workflow changes in v0.28.0]]'
+- '[[Changes/v0/2026-02-10-added-support-for-nuxt-and-additional-frameworks-in-git-imports|Added
+  support for Nuxt and additional frameworks in Git imports]]'
 - '[[Changes/Codex CLI/2026-02-11-9-developer-workflow-changes-in-rust-v0-99-0|9 Developer
   Workflow changes in rust-v0.99.0]]'
+- '[[Changes/Dify/2026-02-11-please-use-the-following-command-instead-for-details-please-read-this-https-gith|
+  Please use the following command instead]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-02-11-v0-0-407-github-285416009-ed3cb109|github-copilot-cli-2026-02-11-v0-0-407-github-285416009-ed3cb109]]'
 source_type: github_releases
 theme: developer-workflow
@@ -92,7 +92,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v0.0.407
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2026-02-11 · Codex CLI · [[Changes/Codex CLI/2026-02-11-9-developer-workflow-changes-in-rust-v0-99-0|9 Developer Workflow changes in rust-v0.99.0]]
+- Earlier: 2026-02-11 · Dify · [[Changes/Dify/2026-02-11-please-use-the-following-command-instead-for-details-please-read-this-https-gith| Please use the following command instead]]
 - Later: 2026-02-12 · Cline · [[Changes/Cline/2026-02-12-terminal-surface-command-exit-codes-in-results-and-improve-long-running-execute|Terminal: surface command exit codes in results and improve long-running…]]
 <!-- chronolog:end -->
 

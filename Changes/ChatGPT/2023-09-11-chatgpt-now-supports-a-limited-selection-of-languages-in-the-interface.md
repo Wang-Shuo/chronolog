@@ -12,12 +12,12 @@ diffusion:
   role: first-observed
   scope: tracked-products-only
   theme: accessibility-localization
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 55f52ee7f45467f43e246e80b9faf6b74d565cd9cc3ab30c9deb073379746935
+machine_hash: c36c45062f88dd29584a5c099b8e44de9d9ac103c2ae126beae39dff3c5950aa
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -70,13 +70,13 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Accessibility and Localization
 
-- Later: 2025-03-04 · Aider · [[Changes/Aider/2025-03-04-added-support-for-tree-sitter-language-pack|Added support for tree-sitter language pack]]
+- Later: 2024-03-18 · Open WebUI · [[Changes/Open WebUI/2024-03-18-localization-you-can-now-change-the-ui-language-in-settings-general-we-support-u|🌍 Localization: You can now change the UI language in Settings  General]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry among the 10 tracked products.
+- Earliest same-theme entry among the 20 tracked products.
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 8640c4a6bbd132c0cc58f833cea93b7d035d3c19e33303eff84e6a8aa2cf1071
+machine_hash: 8a8c79cfc85f3f0fc1d90860d77ae29708b42b10f5e0c491ebe14eddde8bb585
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -55,8 +55,8 @@ record:
   title: 8 Collaboration changes in rust-v0.164.0
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-10-16-chatgpt-slides-lets-you-create-presentations-and-keep-working-on-them-with-your|ChatGPT
-  Slides lets you create presentations and keep working on them with your team…]]'
+- '[[Changes/v0/2026-10-16-team-avatar-changes-show-immediately-in-the-scope-switcher-instead-of-a-cached-i|Team
+  avatar changes show immediately in the scope switcher instead of a cached image]]'
 - '[[Changes/Claude Code/2026-10-19-added-a-warning-on-pro-and-max-plans-when-resuming-an-inactive-conversation-woul|Added
   a warning on Pro and Max plans when resuming an inactive conversation would…]]'
 - '[[Changes/OpenHands/2026-10-19-feat-verify-openhands-adopt-the-shared-known-bug-contract-by-enyst-in-https-gith|feat(verify-openhands):
@@ -120,7 +120,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.164.0
 ## Nearby in Collaboration
 
 - Earlier: 2026-10-19 · OpenHands · [[Changes/OpenHands/2026-10-19-feat-verify-openhands-adopt-the-shared-known-bug-contract-by-enyst-in-https-gith|feat(verify-openhands): adopt the shared known-bug contract]]
-- Later: 2026-10-26 · Windsurf · [[Changes/Windsurf/2026-10-26-ide-mode-now-offers-devin-cloud-whenever-your-account-has-cloud-access-the-same|IDE mode now offers Devin Cloud whenever your account has Cloud access, the same…]]
+- Later: 2026-10-23 · Dify · [[Changes/Dify/2026-10-23-5-collaboration-changes-in-1-18-0|5 Collaboration changes in 1.18.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

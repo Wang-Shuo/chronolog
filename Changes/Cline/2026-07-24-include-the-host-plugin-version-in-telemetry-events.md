@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 904cb9162ae8a63292ee3eca3758ab72f75849d54b828953e559bd7fc5ab27a0
+machine_hash: 41635aef860e7598d866493952ff6511d89023c88788c5ab08e1bdfb0c0e17bb
 product: cline
 product_name: Cline
 record:
@@ -40,10 +40,10 @@ record:
   title: Include the host plugin version in telemetry events
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-07-22-3-apps-and-integrations-changes-in-v2-1-218|3
-  Apps and Integrations changes in v2.1.218]]'
-- '[[Changes/GitHub Copilot CLI/2026-07-23-3-apps-and-integrations-changes-in-v1-0-74|3
-  Apps and Integrations changes in v1.0.74]]'
+- '[[Changes/Lovable/2026-07-23-recommended-connectors-in-search|Recommended connectors
+  in search]]'
+- '[[Changes/Ollama/2026-07-23-improved-integrations-restored-claude-code-channels-fixed-anthropic-thinking-str|Improved
+  integrations: restored Claude Code Channels, fixed Anthropic thinking…]]'
 - '[[Changes/Claude Code/2026-07-24-5-apps-and-integrations-changes-in-v2-1-219|5
   Apps and Integrations changes in v2.1.219]]'
 source_release: '[[Releases/Cline/cline-2026-07-24-v4-0-11-github-359492045-6636f242|cline-2026-07-24-v4-0-11-github-359492045-6636f242]]'
@@ -77,7 +77,7 @@ type: change
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-07-24 · Claude Code · [[Changes/Claude Code/2026-07-24-5-apps-and-integrations-changes-in-v2-1-219|5 Apps and Integrations changes in v2.1.219]]
-- Later: 2026-07-28 · Cursor · [[Changes/Cursor/2026-07-28-plugins-mcp-servers-hooks-and-skills-to-extend-cursor-across-your-workflows|Plugins, MCP servers, hooks, and skills to extend Cursor across your workflows]]
+- Later: 2026-07-24 · Replit · [[Changes/Replit/2026-07-24-integrations|Integrations]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

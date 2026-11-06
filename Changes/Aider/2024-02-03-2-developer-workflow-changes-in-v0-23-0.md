@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 8f0892a110043dd05200d5b7c91394c0a7506896b9d7f93598112dd542438ac1
+machine_hash: 37619641db5a9e53cd8ff944a59a65da41695d46e068c8e07ead949100365f13
 product: aider
 product_name: Aider
 record:
@@ -43,11 +43,12 @@ record:
   title: 2 Developer Workflow changes in v0.23.0
   type: change
 related_changes:
-- '[[Changes/Cursor/2024-01-06-dev-containers-are-now-supported-this-build-also|Dev
-  containers are now supported!]]'
-- '[[Changes/Cursor/2024-01-06-improves-the-stability-of-wsl|Improves the stability
-  of WSL]]'
-- '[[Changes/Cursor/2024-01-15-working-wsl-codebase-search|Working WSL codebase search]]'
+- '[[Changes/Ollama/2024-01-20-2-developer-workflow-changes-in-v0-1-21|2 Developer
+  Workflow changes in v0.1.21]]'
+- '[[Changes/Dify/2024-02-01-2-developer-workflow-changes-in-0-5-3|2 Developer Workflow
+  changes in 0.5.3]]'
+- '[[Changes/Ollama/2024-02-02-ollama-serve-will-now-print-prompt-when-ollama-debug-1-is-set|ollama
+  serve will now print prompt when OLLAMA_DEBUG=1 is set]]'
 source_release: '[[Releases/Aider/aider-2024-02-03-v0-23-0-github-139777047-d2a08520|aider-2024-02-03-v0-23-0-github-139777047-d2a08520]]'
 source_type: github_releases
 theme: developer-workflow
@@ -82,8 +83,8 @@ Source: https://github.com/Aider-AI/aider/releases/tag/v0.23.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2024-01-15 · Cursor · [[Changes/Cursor/2024-01-15-working-wsl-codebase-search|Working WSL codebase search]]
-- Later: 2024-02-10 · Aider · [[Changes/Aider/2024-02-10-new-web-url-command-which-scrapes-the-url-turns-it-into-fairly-clean-markdown-an|New /web url command which scrapes the url, turns it into fairly clean markdown…]]
+- Earlier: 2024-02-02 · Ollama · [[Changes/Ollama/2024-02-02-ollama-serve-will-now-print-prompt-when-ollama-debug-1-is-set|ollama serve will now print prompt when OLLAMA_DEBUG=1 is set]]
+- Later: 2024-02-06 · Dify · [[Changes/Dify/2024-02-06-enhancement-introduce-ruff-for-python-linter-for-reordering-and-removing-unused|enhancement: introduce Ruff for Python linter for reordering and removing unused…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

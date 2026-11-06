@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 0e5751a4d9af88cf6952a242825191c42c826d3cf3e02634fd6b15f719b5f066
+machine_hash: 8fee5df2905eb72ed8b0714fc770d3a356011c0f80348b13e4baa06faca59008
 product: cline
 product_name: Cline
 record:
@@ -50,10 +50,10 @@ record:
   title: 4 Model Support changes in v4.0.2
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-06-26-as-of-june-26-2026-gpt-4-5-is-no-longer-available-in-chatgpt-including-for-custo|Retiring
-  GPT-4.5]]'
 - '[[Changes/Cline/2026-06-26-2-model-support-changes-in-v4-0-0|2 Model Support changes
   in v4.0.0]]'
+- '[[Changes/v0/2026-06-26-a-saved-model-selection-no-longer-briefly-flips-to-a-default-while-the-page-load|A
+  saved model selection no longer briefly flips to a default while the page loads]]'
 - '[[Changes/Claude Code/2026-06-29-added-support-for-organization-default-models-admins-set-it-in-the-org-console-i|Added
   support for organization default models]]'
 source_release: '[[Releases/Cline/cline-2026-06-29-v4-0-2-github-346061575-5588d101|cline-2026-06-29-v4-0-2-github-346061575-5588d101]]'
@@ -93,7 +93,7 @@ Source: https://github.com/cline/cline/releases/tag/v4.0.2
 ## Nearby in Model Support
 
 - Earlier: 2026-06-29 · Claude Code · [[Changes/Claude Code/2026-06-29-added-support-for-organization-default-models-admins-set-it-in-the-org-console-i|Added support for organization default models]]
-- Later: 2026-06-30 · Claude Code · [[Changes/Claude Code/2026-06-30-introducing-claude-sonnet-5-now-the-default-model-in-claude-code-with-a-native-1|Introducing Claude Sonnet 5]]
+- Later: 2026-06-29 · ElevenLabs · [[Changes/ElevenLabs/2026-06-29-workspaces|Workspaces]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

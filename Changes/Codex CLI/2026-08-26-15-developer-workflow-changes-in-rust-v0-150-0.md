@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 67c2a4f0bc1e2d0a48bfdb35a041ee0e297ff3b3bb0427a660d9288202296f52
+machine_hash: 04a32f320b42ed5dd898360d1d508bc0c74177769f1329c155cfbc697994ab75
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -71,10 +71,10 @@ record:
   title: 15 Developer Workflow changes in rust-v0.150.0
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-08-25-2-developer-workflow-changes-in-v2-1-246|2 Developer
-  Workflow changes in v2.1.246]]'
 - '[[Changes/Gemini CLI/2026-08-25-ssr-agent-issue-fix-24935-force-terminal-buffer-rerender-after-exiting-external|SSR
   Agent Issue Fix (24935)]]'
+- '[[Changes/Open WebUI/2026-08-25-73-developer-workflow-changes-in-v0-11-1|73 Developer
+  Workflow changes in v0.11.1]]'
 - '[[Changes/Claude Code/2026-08-26-changed-terminal-hyperlinks-in-rendered-markdown-link-targets-that-point-at-a-ne|Changed
   terminal hyperlinks in rendered markdown]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-08-26-rust-v0-150-0-github-377374683-d950f84c|codex-cli-2026-08-26-rust-v0-150-0-github-377374683-d950f84c]]'

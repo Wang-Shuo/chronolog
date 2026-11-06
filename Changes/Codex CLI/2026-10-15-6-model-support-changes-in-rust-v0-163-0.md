@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 98c7fd65a3b79c937c380157cc5c0a9f2afa3d2e896cb2eaeb8bfc5862b5ca07
+machine_hash: cf6120a7555ac278620394ca19f8b715347f162494c2d7097fdfb0019f31f02b
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -53,12 +53,12 @@ record:
   title: 6 Model Support changes in rust-v0.163.0
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-14-2-model-support-changes-in-v2-1-299|2 Model Support
-  changes in v2.1.299]]'
-- '[[Changes/Claude Code/2026-10-14-improved-the-note-claude-3-models-get-about-an-mentioned-pdf-so-they-less-often|Improved
-  the note Claude 3 models get about an @-mentioned PDF, so they less often…]]'
-- '[[Changes/GitHub Copilot CLI/2026-10-14-add-support-for-gemini-4-argon|Add support
-  for Gemini 4 Argon]]'
+- '[[Changes/Ollama/2026-10-14-decision-models-are-now-available-on-cloud-use-clef-cloud-and-clef-flash-cloud-t|Decision
+  models are now available on cloud]]'
+- '[[Changes/Open WebUI/2026-10-14-9-model-support-changes-in-v0-12-1|9 Model Support
+  changes in v0.12.1]]'
+- '[[Changes/Open WebUI/2026-10-14-4-model-support-changes-in-v0-12-2|4 Model Support
+  changes in v0.12.2]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-10-15-rust-v0-163-0-github-414286110-97016fe6|codex-cli-2026-10-15-rust-v0-163-0-github-414286110-97016fe6]]'
 source_type: github_releases
 theme: model-support
@@ -111,8 +111,8 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.163.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-10-14 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-10-14-add-support-for-gemini-4-argon|Add support for Gemini 4 Argon]]
-- Later: 2026-10-16 · ChatGPT · [[Changes/ChatGPT/2026-10-16-gpt-6-pro-in-the-chat-tab-now-offers|GPT-6 Pro in the chat tab now offers]]
+- Earlier: 2026-10-14 · Open WebUI · [[Changes/Open WebUI/2026-10-14-4-model-support-changes-in-v0-12-2|4 Model Support changes in v0.12.2]]
+- Later: 2026-10-15 · Lovable · [[Changes/Lovable/2026-10-15-gpt-6-1-sol-for-your-app-s-ai-features|GPT-6.1 Sol for your app's AI features]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

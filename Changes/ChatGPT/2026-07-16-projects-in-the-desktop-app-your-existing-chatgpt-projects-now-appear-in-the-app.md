@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: projects-workspaces
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 57301f523c829020e8da1a3cad1a8aac8b0b4869460ba603c21381baefb31a27
+machine_hash: d5a1fed241d25794c9302d2dbdb425fc0c3cf751bb0dbdeae4549d24bc17d0bd
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -96,7 +96,7 @@ type: change
 ## Nearby in Projects and Workspaces
 
 - Earlier: 2026-07-07 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-07-07-keep-session-resume-working-when-token-timing-includes-fractional-milliseconds|Keep session resume working when token timing includes fractional milliseconds]]
-- Later: 2026-07-21 · Codex CLI · [[Changes/Codex CLI/2026-07-21-33201-branch-conversations-when-editing-earlier-tui-prompts-copyberry|♯33201 Branch conversations when editing earlier TUI prompts @copyberry]]
+- Later: 2026-07-16 · Ollama · [[Changes/Ollama/2026-07-16-the-interactive-agent-now-receives-the-current-working-directory-for-better-proj|The interactive agent now receives the current working directory for better project…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: e3e84a0584e290e389829c284347bd282163e324909d4a09af56ea3c43185b6c
+machine_hash: bc42a5e91c9af5ce33ef5186df6c6107b4991070b59bb0fddfd4eb1142adf42a
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -42,8 +42,8 @@ record:
   title: 2 Model Support changes in rust-v0.64.0
   type: change
 related_changes:
-- '[[Changes/Cline/2025-11-27-12-model-support-changes-in-v3-38-3|12 Model Support
-  changes in v3.38.3]]'
+- '[[Changes/ElevenLabs/2025-11-27-4-model-support-changes-in-elevenlabs-updates-2025-11-27|4
+  Model Support changes in ElevenLabs updates — 2025-11-27]]'
 - '[[Changes/Cline/2025-12-02-4-model-support-changes-in-v3-39-0|4 Model Support changes
   in v3.39.0]]'
 - '[[Changes/Cline/2025-12-02-skip-reasoning-details-on-microwave-model-by-canvrno-in-https-github-com-cline-c|Skip

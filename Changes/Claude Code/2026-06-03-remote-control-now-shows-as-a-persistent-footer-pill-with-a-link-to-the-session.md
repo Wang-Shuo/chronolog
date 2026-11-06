@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: ad53d11a8ce097fbec0de18a8c071ed48f4bcf54390426f49d0a4ba35da2eb4a
+machine_hash: 8fbe78ed4271738f1a2fd86471ec500fbc8038ba4ebe47bffdfb156362e0871c
 product: claude-code
 product_name: Claude Code
 record:
@@ -46,8 +46,8 @@ record:
     session)…
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-06-01-5-apps-and-integrations-changes-in-v1-0-57|5
-  Apps and Integrations changes in v1.0.57]]'
+- '[[Changes/Open WebUI/2026-06-01-4-apps-and-integrations-changes-in-v0-9-6|4 Apps
+  and Integrations changes in v0.9.6]]'
 - '[[Changes/Claude Code/2026-06-02-mcp-now-collapses-claude-ai-connectors-you-ve-never-signed-in-to-behind-a-show-u|/mcp
   now collapses claude.ai connectors you''ve never signed in to behind…]]'
 - '[[Changes/Claude Code/2026-06-02-removed-the-jetbrains-plugin-install-suggestion-from-startup|Removed
@@ -87,7 +87,7 @@ type: change
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-06-02 · Claude Code · [[Changes/Claude Code/2026-06-02-removed-the-jetbrains-plugin-install-suggestion-from-startup|Removed the JetBrains plugin install suggestion from startup]]
-- Later: 2026-06-04 · Claude Code · [[Changes/Claude Code/2026-06-04-2-apps-and-integrations-changes-in-v2-1-163|2 Apps and Integrations changes in v2.1.163]]
+- Later: 2026-06-03 · Lovable · [[Changes/Lovable/2026-06-03-configure-who-can-create-app-connector-connections|Configure who can create app connector connections]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

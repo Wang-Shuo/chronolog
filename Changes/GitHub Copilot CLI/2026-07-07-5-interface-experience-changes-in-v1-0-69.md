@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 404b29cad80d656781e2f76050b5819fc11968123924d4ac0ba80f8275b83e32
+machine_hash: 8c923aea002f90ce2543452a86cf4647b2d582e555e78bb54b1b98efb8abcd47
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -108,7 +108,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.69
 ## Nearby in Interface Experience
 
 - Earlier: 2026-07-07 · Claude Code · [[Changes/Claude Code/2026-07-07-removed-a-redundant-navigation-hint-from-the-claude-agents-footer|Removed a redundant navigation hint from the claude agents footer]]
-- Later: 2026-07-09 · Cline · [[Changes/Cline/2026-07-09-2-interface-experience-changes-in-v4-0-7|2 Interface Experience changes in v4.0.7]]
+- Later: 2026-07-07 · Lovable · [[Changes/Lovable/2026-07-07-reorder-folders-shared-with-you|Reorder folders shared with you]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

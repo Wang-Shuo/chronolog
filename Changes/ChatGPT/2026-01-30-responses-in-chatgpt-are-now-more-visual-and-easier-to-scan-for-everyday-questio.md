@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: ee08a3e2c33034c2829c4045664b10ccf45184baac824430f0fbeebc6199a3ab
+machine_hash: 7062677558a4a150935a2913d900a10568b3ad572f54496978cf91991fd4848c
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -54,10 +54,10 @@ record:
   title: More visual responses
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-01-28-improved-read-search-progress-indicators-to-show-reading-while-in-progress-and-r|Improved
-  read/search progress indicators to show "Reading…" while in progress…]]'
 - '[[Changes/Gemini CLI/2026-01-28-remove-missing-sidebar-item-by-chrstnb-in-https-github-com-google-gemini-gemini|Remove
   missing sidebar item]]'
+- '[[Changes/v0/2026-01-28-added-modals-for-library-and-projects-navigation|Added
+  modals for Library and Projects navigation]]'
 - '[[Changes/Claude Code/2026-01-29-3-interface-experience-changes-in-v2-1-23|3 Interface
   Experience changes in v2.1.23]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-01-30-more-visual-responses-d2d2073c|chatgpt-2026-01-30-more-visual-responses-d2d2073c]]'

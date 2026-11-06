@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 8ff29cad12e06b25207d59c1941b1b34771194bc8e86fc7eecef9f7354c599d0
+machine_hash: b5b746cf1d370856a48ea14fc37328553838dd07fee009f35f546c90eb09274b
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -54,12 +54,12 @@ record:
   title: MCP OAuth against Microsoft Entra servers behind a tenant vanity domain…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-06-25-added-a-startup-notice-when-mcp-servers-need-authentication-pointing-at-mcp|Added
-  a startup notice when MCP servers need authentication, pointing at /mcp]]'
-- '[[Changes/Codex CLI/2026-06-25-macos-authentication-clients-can-honor-system-proxy-pac-and-wpad-settings-when-r|macOS
-  authentication clients can honor system proxy, PAC, and WPAD settings…]]'
-- '[[Changes/Codex CLI/2026-06-25-added-opt-in-windows-system-proxy-support-for-authentication-including-pac-wpad|Added
-  opt-in Windows system proxy support for authentication, including PAC, WPAD…]]'
+- '[[Changes/v0/2026-06-26-3-account-and-access-changes-in-platform-api-v2-mcp-chat-tools|3
+  Account and Access changes in Platform API v2, MCP chat tools…]]'
+- "[[Changes/Open WebUI/2026-06-29-shared-folder-read-only-chats-no-longer-sign-users-out-opening-or-reading-chats|\U0001F91D
+  Shared folder read-only chats no longer sign users out. Opening or reading…]]"
+- '[[Changes/Open WebUI/2026-06-29-9-account-and-access-changes-in-v0-10-0|9 Account
+  and Access changes in v0.10.0]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-06-30-v1-0-67-github-347129452-cdc0d10f|github-copilot-cli-2026-06-30-v1-0-67-github-347129452-cdc0d10f]]'
 source_type: github_releases
 theme: account-access
@@ -94,7 +94,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Account and Access
 
-- Earlier: 2026-06-25 · Codex CLI · [[Changes/Codex CLI/2026-06-25-added-opt-in-windows-system-proxy-support-for-authentication-including-pac-wpad|Added opt-in Windows system proxy support for authentication, including PAC, WPAD…]]
+- Earlier: 2026-06-29 · Open WebUI · [[Changes/Open WebUI/2026-06-29-9-account-and-access-changes-in-v0-10-0|9 Account and Access changes in v0.10.0]]
 - Later: 2026-06-30 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-06-30-6-account-and-access-changes-in-v1-0-66|6 Account and Access changes in v1.0.66]]
 <!-- chronolog:end -->
 

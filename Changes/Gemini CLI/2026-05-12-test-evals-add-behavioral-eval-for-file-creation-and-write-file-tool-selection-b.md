@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 8a69f44d17670fb8c7fcff71459214ce14804989dee255ebb3575fef1c26294c
+machine_hash: a0bc0a2b5118f712ef752e7a23f285bbf03b6461dcb332bb6307f274cb1bc947
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -44,12 +44,12 @@ record:
   title: 'test(evals): add behavioral eval for file creation and write_file tool selection'
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-05-08-20665-make-environment-providers-own-default-selection-starr-openai|♯20665
-  Make environment providers own default selection @starr-openai]]'
-- '[[Changes/GitHub Copilot CLI/2026-05-08-project-info-remains-visible-in-slash-command-picker-when-no-results-match|Project
-  info remains visible in slash command picker when no results match]]'
+- '[[Changes/Open WebUI/2026-05-10-2-interface-experience-changes-in-v0-9-5|2 Interface
+  Experience changes in v0.9.5]]'
 - '[[Changes/Claude Code/2026-05-11-added-transcript-view-navigation-for-keyboard-shortcuts-to-jump-between-user-pro|Added
   transcript view navigation]]'
+- '[[Changes/Dify/2026-05-12-8-interface-experience-changes-in-1-14-1|8 Interface
+  Experience changes in 1.14.1]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2026-05-12-v0-42-0-github-321461714-faa5f8a3|gemini-cli-2026-05-12-v0-42-0-github-321461714-faa5f8a3]]'
 source_type: github_releases
 theme: interface-experience
@@ -86,7 +86,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-05-11 · Claude Code · [[Changes/Claude Code/2026-05-11-added-transcript-view-navigation-for-keyboard-shortcuts-to-jump-between-user-pro|Added transcript view navigation]]
+- Earlier: 2026-05-12 · Dify · [[Changes/Dify/2026-05-12-8-interface-experience-changes-in-1-14-1|8 Interface Experience changes in 1.14.1]]
 - Later: 2026-05-13 · Claude Code · [[Changes/Claude Code/2026-05-13-2-interface-experience-changes-in-v2-1-141|2 Interface Experience changes in v2.1.141]]
 <!-- chronolog:end -->
 

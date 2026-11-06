@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 961a26412e40c633beee4af3a1ff225054524c82473435eb8c47258c317c4972
+machine_hash: 99944c80a62f29aaa6d9cc9bbbdcd60de6459cb0b8f380d013a03d4cedaa5cb3
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -93,7 +93,7 @@ type: change
 ## Nearby in Account and Access
 
 - Earlier: 2025-10-16 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2025-10-16-enabled-non-interactive-ghe-logins-by-respecting-the-gh-host-environment-variabl|Enabled non-interactive GHE logins by respecting the GH_HOST environment variable…]]
-- Later: 2025-10-22 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2025-10-22-added-debug-logging-to-authentication-status-changes-to-get-to-the-bottom-of-htt|Added debug logging to authentication status changes to get to the bottom…]]
+- Later: 2025-10-22 · Dify · [[Changes/Dify/2025-10-22-4-account-and-access-changes-in-1-9-2|4 Account and Access changes in 1.9.2]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 4a754c757d9f6a3e9ee58e043a211b521980b069706b5c7e8843263f82f11cb0
+machine_hash: 8e328c8af6c05afbda21d74fd47d9c81ca43676eb1bd7f92f561db63c5e267cd
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -43,10 +43,10 @@ record:
   title: 2 Model Support changes in v1.0.7
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-03-17-thinking-deeper-reasoning-for-more-complex-tasks|Thinking
-  – deeper reasoning for more complex tasks]]'
 - '[[Changes/Claude Code/2026-03-17-increased-default-maximum-output-token-limits-for-claude-opus-4-6-to-64k-tokens|Increased
   default maximum output token limits for Claude Opus 4.6 to 64k tokens…]]'
+- '[[Changes/Dify/2026-03-17-18-model-support-changes-in-1-13-1|18 Model Support changes
+  in 1.13.1]]'
 - '[[Changes/Gemini CLI/2026-03-17-5-model-support-changes-in-v0-34-0|5 Model Support
   changes in v0.34.0]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-03-17-v1-0-7-github-298086450-3846932e|github-copilot-cli-2026-03-17-v1-0-7-github-298086450-3846932e]]'
@@ -88,7 +88,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.7
 ## Nearby in Model Support
 
 - Earlier: 2026-03-17 · Gemini CLI · [[Changes/Gemini CLI/2026-03-17-5-model-support-changes-in-v0-34-0|5 Model Support changes in v0.34.0]]
-- Later: 2026-03-18 · ChatGPT · [[Changes/ChatGPT/2026-03-18-we-re-rolling-out-gpt-5-4-mini-in-chatgpt-gpt-5-4-mini-is-available-to-free-and|GPT-5.4 mini in ChatGPT]]
+- Later: 2026-03-17 · Ollama · [[Changes/Ollama/2026-03-17-4-model-support-changes-in-v0-18-1|4 Model Support changes in v0.18.1]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

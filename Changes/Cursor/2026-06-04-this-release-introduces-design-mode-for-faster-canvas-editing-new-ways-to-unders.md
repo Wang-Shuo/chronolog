@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 5971da0fac2b4973768d80bb1704a54d474f60429fd796e2bece3165607166d0
+machine_hash: eccdc07e19a8243033496ce036dbeb40f9f9accb1c159c0d28484596a506e92b
 product: cursor
 product_name: Cursor
 record:
@@ -59,10 +59,10 @@ record:
   title: Cursor introduces Design Mode for faster canvas editing, new ways to understand…
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-06-01-9-context-window-changes-in-rust-v0-136-0|9 Context
-  Window changes in rust-v0.136.0]]'
 - '[[Changes/Gemini CLI/2026-06-03-feat-context-complete-simplification-work-by-joshualitt-in-https-github-com-goog|feat(context):
   Complete simplification work]]'
+- '[[Changes/Ollama/2026-06-03-the-llama-cpp-backend-now-includes-cached-prompt-tokens-in-token-accounting-impr|The
+  llama.cpp backend now includes cached prompt tokens in token accounting…]]'
 - '[[Changes/Codex CLI/2026-06-04-3-context-window-changes-in-rust-v0-137-0|3 Context
   Window changes in rust-v0.137.0]]'
 source_release: '[[Releases/Cursor/cursor-2026-06-04-3-7-https-cursor-com-changelog-canvas-improvements-6f42df85|cursor-2026-06-04-3-7-https-cursor-com-changelog-canvas-improvements-6f42df85]]'

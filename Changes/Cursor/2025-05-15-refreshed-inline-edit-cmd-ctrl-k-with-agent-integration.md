@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: 19572a92f3d941052677e17c5f6c13c5f4108b461f4dc2bc84d350cdd68e76ba
+machine_hash: 6de0912d9e30507b069679c05f321765fc2a6388f6d1f8880ec058e13941a251
 product: cursor
 product_name: Cursor
 record:
@@ -66,7 +66,8 @@ record:
   title: Refreshed Inline Edit (Cmd/Ctrl+K) with Agent integration
   type: change
 related_changes:
-- '[[Changes/Windsurf/2025-05-07-cascade-plugins|Cascade Plugins]]'
+- "[[Changes/Open WebUI/2025-05-10-external-reranker-integration-functionality-restored-external-reranker-integrati|\U0001F916
+  External Reranker Integration Functionality Restored]]"
 - '[[Changes/OpenHands/2025-05-12-2-apps-and-integrations-changes-in-0-38-0|2 Apps
   and Integrations changes in 0.38.0]]'
 - '[[Changes/ChatGPT/2025-05-15-the-github-connector-is-now-available-globally-to-plus-pro-team-users-including|GitHub
@@ -109,7 +110,7 @@ type: change
 ## Nearby in Apps and Integrations
 
 - Earlier: 2025-05-15 · ChatGPT · [[Changes/ChatGPT/2025-05-15-the-github-connector-is-now-available-globally-to-plus-pro-team-users-including|GitHub connector for deep research]]
-- Later: 2025-05-16 · Cline · [[Changes/Cline/2025-05-16-add-tailwind-css-intellisense-to-the-recommended-extensions-list|Add Tailwind CSS IntelliSense to the recommended extensions list]]
+- Later: 2025-05-15 · Dify · [[Changes/Dify/2025-05-15-5-apps-and-integrations-changes-in-1-4-0|5 Apps and Integrations changes in 1.4.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

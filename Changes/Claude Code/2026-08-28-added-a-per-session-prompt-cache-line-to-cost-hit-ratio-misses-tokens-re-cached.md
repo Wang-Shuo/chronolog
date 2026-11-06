@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: pricing
-machine_hash: 5287d7c22f6b724dbe974e4f8fdd1a4d7f2c5d36554d68d2b5f3a07d6fc3c3f8
+machine_hash: 7daede0812aa36abd47250b7eff347e5ad3a76b10e433959644dfd65ff2c7527
 product: claude-code
 product_name: Claude Code
 record:
@@ -53,10 +53,10 @@ record:
   title: Added a per-session prompt-cache line to `/cost`…
   type: change
 related_changes:
-- '[[Changes/Cline/2026-08-26-cost-estimates-are-no-longer-shown-for-providers-billed-by-a-flat-rate-subscript|Cost
-  estimates are no longer shown for providers billed by a flat-rate subscription…]]'
 - '[[Changes/Codex CLI/2026-08-26-40488-export-turn-cost-as-an-otel-metric-copyberry|♯40488
   Export turn cost as an OTEL metric @copyberry]]'
+- '[[Changes/Lovable/2026-08-26-lovable-works-up-to-10-hours-on-a-single-message|Lovable
+  works up to 10 hours on a single message]]'
 - '[[Changes/Claude Code/2026-08-27-added-usage-credits-for-enterprise-organizations-billed-through-aws-marketplace|Added
   /usage-credits for Enterprise organizations billed through AWS Marketplace…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-08-28-v2-1-251-github-378586104-42ac2f96|claude-code-2026-08-28-v2-1-251-github-378586104-42ac2f96]]'
@@ -96,7 +96,7 @@ type: change
 ## Nearby in Pricing Model
 
 - Earlier: 2026-08-27 · Claude Code · [[Changes/Claude Code/2026-08-27-added-usage-credits-for-enterprise-organizations-billed-through-aws-marketplace|Added /usage-credits for Enterprise organizations billed through AWS Marketplace…]]
-- Later: 2026-09-01 · Codex CLI · [[Changes/Codex CLI/2026-09-01-rate-limit-banners-offer-actions-for-checking-usage-managing-credits-resetting-l|Rate-limit banners offer actions for checking usage, managing credits, resetting…]]
+- Later: 2026-08-28 · v0 · [[Changes/v0/2026-08-28-4-pricing-model-changes-in-gpt-5-6-sol-sign-in-inside-previews|4 Pricing Model changes in GPT-5.6 Sol, sign-in inside previews…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

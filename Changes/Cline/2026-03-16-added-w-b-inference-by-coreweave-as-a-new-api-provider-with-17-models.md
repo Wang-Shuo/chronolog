@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 21086a989ca169d995f85213e56a0ce2b8c7889caf3c784321c8ee5c7b37e06b
+machine_hash: 0e5c1048d18070a49fd4e1ff9ce29622677ca0702d8761bd8514602d74cb537e
 product: cline
 product_name: Cline
 record:
@@ -43,10 +43,10 @@ record:
   title: Added W&B Inference by CoreWeave as a new API provider with 17 models
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-03-14-added-effort-slash-command-to-set-model-effort-level|Added
-  /effort slash command to set model effort level]]'
 - '[[Changes/Claude Code/2026-03-14-improved-model-fallback-notifications-now-always-visible-instead-of-hidden-behin|Improved
   model fallback notifications]]'
+- '[[Changes/Ollama/2026-03-14-3-model-support-changes-in-v0-18-0|3 Model Support
+  changes in v0.18.0]]'
 - '[[Changes/ChatGPT/2026-03-16-we-re-rolling-out-an-update-to-gpt-5-3-instant-that-improves-follow-up-tone-and|GPT-5.3
   Instant update]]'
 source_release: '[[Releases/Cline/cline-2026-03-16-v3-73-0-github-297671814-8825c55f|cline-2026-03-16-v3-73-0-github-297671814-8825c55f]]'

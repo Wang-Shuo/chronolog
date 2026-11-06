@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 53ed1a53eb245ed800b93f02319a3513fdb46c9343ec0914c753e6a95037b7d4
+machine_hash: edfccb98e6b1c9e4f038d735db77c7e195c58d132a556d6cc2c0be5b8b851e64
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -76,10 +76,10 @@ record:
   title: 15 Safety and Privacy changes in rust-v0.164.0
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-22-8-safety-and-privacy-changes-in-v2-1-309|8 Safety
-  and Privacy changes in v2.1.309]]'
 - '[[Changes/GitHub Copilot CLI/2026-10-22-3-safety-and-privacy-changes-in-v1-0-103|3
   Safety and Privacy changes in v1.0.103]]'
+- '[[Changes/Lovable/2026-10-22-clearer-privacy-security-settings|Clearer Privacy
+  & security settings]]'
 - '[[Changes/Claude Code/2026-10-23-4-safety-and-privacy-changes-in-v2-1-310|4 Safety
   and Privacy changes in v2.1.310]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-10-23-rust-v0-164-0-github-421457270-d867151d|codex-cli-2026-10-23-rust-v0-164-0-github-421457270-d867151d]]'
@@ -155,7 +155,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.164.0
 ## Nearby in Safety and Privacy
 
 - Earlier: 2026-10-23 · Claude Code · [[Changes/Claude Code/2026-10-23-4-safety-and-privacy-changes-in-v2-1-310|4 Safety and Privacy changes in v2.1.310]]
-- Later: 2026-10-23 · Windsurf · [[Changes/Windsurf/2026-10-23-electron-42-11-16-and-node-js-24-22-1-for-the-remote-server-with-the-october-202|Electron 42.11.16 and Node.js 24.22.1 for the remote server, with the October 2026…]]
+- Later: 2026-10-23 · Dify · [[Changes/Dify/2026-10-23-11-safety-and-privacy-changes-in-1-18-0|11 Safety and Privacy changes in 1.18.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

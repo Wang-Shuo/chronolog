@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 1329155dfad51a16358bcce5bbe46faba399c9b8ed2a0a0833da1f8e8d1e0134
+machine_hash: 809a727275db2d8bf3b2224924a3bfa6b1e27973db63172e11f2e1c8ae949003
 product: aider
 product_name: Aider
 record:
@@ -41,12 +41,12 @@ record:
   title: 2 Developer Workflow changes in v0.26.0
   type: change
 related_changes:
-- '[[Changes/Aider/2024-02-10-new-web-url-command-which-scrapes-the-url-turns-it-into-fairly-clean-markdown-an|New
-  /web url command which scrapes the url, turns it into fairly clean markdown…]]'
-- '[[Changes/Cursor/2024-02-15-linter-you-can-now-turn-on-an-ai-linter-in-the-more-tab-beside-chat-it-ll-scan-y|Linter:
-  You can now turn on an AI linter in the "More" tab beside Chat]]'
+- '[[Changes/Dify/2024-02-28-2-developer-workflow-changes-in-0-5-7|2 Developer Workflow
+  changes in 0.5.7]]'
 - '[[Changes/Aider/2024-03-04-prevents-bug-where-subsequent-git-commit-of-those-files-will-fail|Prevents
   bug where subsequent git commit of those files will fail]]'
+- '[[Changes/Dify/2024-03-04-add-logs-for-vdb-migrate-command-by-bowenliang123-in-https-github-com-langgenius|add
+  logs for vdb-migrate command]]'
 source_release: '[[Releases/Aider/aider-2024-03-08-v0-26-0-github-145564820-b17e657f|aider-2024-03-08-v0-26-0-github-145564820-b17e657f]]'
 source_type: github_releases
 theme: developer-workflow
@@ -79,8 +79,8 @@ Source: https://github.com/Aider-AI/aider/releases/tag/v0.26.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2024-03-04 · Aider · [[Changes/Aider/2024-03-04-prevents-bug-where-subsequent-git-commit-of-those-files-will-fail|Prevents bug where subsequent git commit of those files will fail]]
-- Later: 2024-05-10 · Aider · [[Changes/Aider/2024-05-10-2-developer-workflow-changes-in-v0-34-0|2 Developer Workflow changes in v0.34.0]]
+- Earlier: 2024-03-04 · Dify · [[Changes/Dify/2024-03-04-add-logs-for-vdb-migrate-command-by-bowenliang123-in-https-github-com-langgenius|add logs for vdb-migrate command]]
+- Later: 2024-03-10 · Ollama · [[Changes/Ollama/2024-03-10-ollama-command-h-will-now-show-documentation-for-supported-environment-variables|ollama command -h will now show documentation for supported environment variables]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

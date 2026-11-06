@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: search-browsing
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 789b6cd00f13a2405203801811c99b2a843f0be3e6f4cb4037e80cb97e053490
+machine_hash: 2aa2302bd00e7039b0ca6c810dcbac43a5bf745b3525f26f8922326c55f09fdc
 product: cline
 product_name: Cline
 record:
@@ -75,10 +75,10 @@ record:
     agents…
   type: change
 related_changes:
-- '[[Changes/OpenHands/2024-06-29-5-search-and-browsing-changes-in-0-7-0|5 Search
-  and Browsing changes in 0.7.0]]'
-- '[[Changes/OpenHands/2024-11-04-allow-codeact-agent-to-perform-web-browsing-by-itself-no-more-delegation-to-brow|Allow
-  CodeAct agent to perform web browsing by itself…]]'
+- '[[Changes/Open WebUI/2024-11-19-2-search-and-browsing-changes-in-v0-4-0|2 Search
+  and Browsing changes in v0.4.0]]'
+- "[[Changes/Open WebUI/2024-11-26-query-generation-issue-resolved-an-error-in-web-search-query-generation-enhancin|\U0001F50D
+  Query Generation Issue]]"
 - '[[Changes/OpenHands/2024-12-04-added-alignment-checker-for-browsing-agent-by-s-aniruddha-in-https-github-com-al|Added
   Alignment checker for browsing agent]]'
 source_release: '[[Releases/Cline/cline-2024-12-12-v2-2-0-github-190497394-033cbd45|cline-2024-12-12-v2-2-0-github-190497394-033cbd45]]'
@@ -111,7 +111,7 @@ type: change
 ## Nearby in Search and Browsing
 
 - Earlier: 2024-12-04 · OpenHands · [[Changes/OpenHands/2024-12-04-added-alignment-checker-for-browsing-agent-by-s-aniruddha-in-https-github-com-al|Added Alignment checker for browsing agent]]
-- Later: 2025-02-14 · ChatGPT · [[Changes/ChatGPT/2025-02-14-set-chatgpt-as-default-search-engine-in-safari|Set ChatGPT as default search engine in Safari]]
+- Later: 2025-01-31 · Replit · [[Changes/Replit/2025-01-31-object-storage-improvements|Object Storage improvements]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

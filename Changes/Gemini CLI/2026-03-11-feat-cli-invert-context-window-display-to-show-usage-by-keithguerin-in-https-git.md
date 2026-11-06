@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 54e405eef33dca5bf6b5478de5834e158840a518319f76fc32db9e858caf23cc
+machine_hash: 87b0f9c1796c3b349c556541cf3dc41cc76dc750c9b6e87d75f1c9cba78df8fb
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -44,8 +44,8 @@ record:
   title: 'feat(cli): invert context window display to show usage'
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-03-10-4-context-window-changes-in-rust-v0-113-0|4 Context
-  Window changes in rust-v0.113.0]]'
+- '[[Changes/Claude/2026-03-11-work-across-excel-and-powerpoint|Work across Excel
+  and PowerPoint]]'
 - '[[Changes/Claude Code/2026-03-11-improved-the-remote-control-spawn-mode-selection-prompt-with-better-context|Improved
   the Remote Control spawn mode selection prompt with better context]]'
 - '[[Changes/Codex CLI/2026-03-11-2-context-window-changes-in-rust-v0-114-0|2 Context

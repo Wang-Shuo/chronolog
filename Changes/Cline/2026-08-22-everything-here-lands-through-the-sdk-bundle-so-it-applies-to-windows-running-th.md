@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: fd554a1ba5b0876832d0fc4ccbbde227318040e17b6784e8f75c0260cfba0909
+machine_hash: 7a6c5d71c521696a1c06431a08f3ff446b3347fa43813d3bdb3df48f72ec8523
 product: cline
 product_name: Cline
 record:
@@ -45,10 +45,10 @@ record:
     that bundle
   type: change
 related_changes:
-- '[[Changes/Cline/2026-08-21-2-apps-and-integrations-changes-in-v4-1-12|2 Apps and
-  Integrations changes in v4.1.12]]'
 - '[[Changes/Cline/2026-08-21-2-apps-and-integrations-changes-in-v4-1-11|2 Apps and
   Integrations changes in v4.1.11]]'
+- '[[Changes/Lovable/2026-08-21-export-designs-from-figma-with-the-lovable-plugin|Export
+  designs from Figma with the Lovable plugin]]'
 - '[[Changes/OpenHands/2026-08-21-2-apps-and-integrations-changes-in-v1-15-0|2 Apps
   and Integrations changes in v1.15.0]]'
 source_release: '[[Releases/Cline/cline-2026-08-22-v4-1-13-github-375030518-eeba0b7b|cline-2026-08-22-v4-1-13-github-375030518-eeba0b7b]]'
@@ -83,7 +83,7 @@ type: change
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-08-21 · OpenHands · [[Changes/OpenHands/2026-08-21-2-apps-and-integrations-changes-in-v1-15-0|2 Apps and Integrations changes in v1.15.0]]
-- Later: 2026-08-23 · Cline · [[Changes/Cline/2026-08-23-everything-here-lands-through-the-sdk-bundle-so-it-applies-to-windows-running-th|Everything here lands through the SDK bundle, so it applies to windows running that bundle]]
+- Later: 2026-08-22 · ElevenLabs · [[Changes/ElevenLabs/2026-08-22-mcp-server|MCP server]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

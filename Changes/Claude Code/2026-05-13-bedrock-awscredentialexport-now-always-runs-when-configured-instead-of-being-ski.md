@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: f10c6b49f62da339b69008a74671ecfb6abf3f6e18ec31f41720ff70e6ed055f
+machine_hash: 48c6855784cf9e63cf65d2d579a0b6aa0413fd4fcc2ba072f4102d2bc9478308
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,12 +45,12 @@ record:
     being…'
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-05-06-improved-visual-consistency-in-slash-command-dialogs-and-login-upgrade-extra-usa|Improved
-  visual consistency in slash command dialogs and /login, /upgrade…]]'
-- '[[Changes/Codex CLI/2026-05-07-2-account-and-access-changes-in-rust-v0-129-0|2
-  Account and Access changes in rust-v0.129.0]]'
-- '[[Changes/Codex CLI/2026-05-08-2-account-and-access-changes-in-rust-v0-130-0|2
-  Account and Access changes in rust-v0.130.0]]'
+- "[[Changes/Open WebUI/2026-05-10-redirect-based-ssrf-protection-all-outbound-http-requests-now-block-3xx-redirect|\U0001F6E1️
+  Redirect-based SSRF protection. All outbound HTTP requests now block 3xx…]]"
+- '[[Changes/Dify/2026-05-12-refactor-auth-update-oauth-button-and-settings-modal-for-improved-state-manageme|refactor(auth):
+  update OAuth button and settings modal for improved state management…]]'
+- '[[Changes/v0/2026-05-12-added-support-for-oauth-authorized-mcp-servers-in-the-platform-api-with-referenc|Added
+  support for OAuth-authorized MCP servers in the platform API, with reference…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-05-13-v2-1-141-github-322186176-9f8e2e22|claude-code-2026-05-13-v2-1-141-github-322186176-9f8e2e22]]'
 source_type: github_releases
 theme: account-access
@@ -88,7 +88,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Account and Access
 
-- Earlier: 2026-05-08 · Codex CLI · [[Changes/Codex CLI/2026-05-08-2-account-and-access-changes-in-rust-v0-130-0|2 Account and Access changes in rust-v0.130.0]]
+- Earlier: 2026-05-12 · v0 · [[Changes/v0/2026-05-12-added-support-for-oauth-authorized-mcp-servers-in-the-platform-api-with-referenc|Added support for OAuth-authorized MCP servers in the platform API, with reference…]]
 - Later: 2026-05-18 · Codex CLI · [[Changes/Codex CLI/2026-05-18-5-account-and-access-changes-in-rust-v0-131-0|5 Account and Access changes in rust-v0.131.0]]
 <!-- chronolog:end -->
 

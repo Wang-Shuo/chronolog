@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: pricing
-machine_hash: 13eb61bb39b32a5467b98955b5fc4251391445fbfe0ce9ac6b81dc8cf457dda2
+machine_hash: 5facfc790df2b908f9c6791f85f66bff7e085469be96a986e6c9e0184c4ed707
 product: cursor
 product_name: Cursor
 record:
@@ -56,9 +56,9 @@ record:
   title: Simpler, unified pricing
   type: change
 related_changes:
-- '[[Changes/Windsurf/2025-04-20-updated-simplified-pricing|Updated & Simplified Pricing]]'
-- '[[Changes/Windsurf/2025-04-20-user-prompt-credits|User Prompt Credits]]'
-- '[[Changes/Windsurf/2025-04-20-existing-plans|Existing Plans]]'
+- '[[Changes/Lovable/2025-05-02-improvements|Improvements]]'
+- '[[Changes/ElevenLabs/2025-05-05-billing|Billing]]'
+- '[[Changes/ElevenLabs/2025-05-12-billing|Billing]]'
 source_release: '[[Releases/Cursor/cursor-2025-05-15-0-50-https-cursor-com-changelog-0-50-dc290998|cursor-2025-05-15-0-50-https-cursor-com-changelog-0-50-dc290998]]'
 source_type: cursor_changelog
 theme: pricing-model
@@ -102,8 +102,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Pricing Model
 
-- Earlier: 2025-04-20 · Windsurf · [[Changes/Windsurf/2025-04-20-existing-plans|Existing Plans]]
-- Later: 2025-07-01 · Gemini CLI · [[Changes/Gemini CLI/2025-07-01-docs-add-a-page-detailing-quota-and-cost-information-by-ptone-in-https-github-co|Docs: Add a page detailing quota and cost information]]
+- Earlier: 2025-05-12 · ElevenLabs · [[Changes/ElevenLabs/2025-05-12-billing|Billing]]
+- Later: 2025-05-19 · ElevenLabs · [[Changes/ElevenLabs/2025-05-19-billing|Billing]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

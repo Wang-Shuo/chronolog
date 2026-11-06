@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: cef08a602b1058a989f0556bd8d6bfbaf943bcb5d934318e8ab88bf08208b672
+machine_hash: 456bb50e6753915450ce8485330a00ff20a404747be936ee9af50364c64f3f49
 product: aider
 product_name: Aider
 record:
@@ -45,8 +45,8 @@ record:
   title: 3 Reliability and Performance changes in v0.85.0
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2025-06-13-improved-search-capability-and-instruction-following-594de0|Improved
-  search capability and instruction following]]'
+- '[[Changes/Replit/2025-06-20-python-run-performance-improvements|Python run performance
+  improvements]]'
 - '[[Changes/OpenHands/2025-06-24-enabled-users-to-provide-feedback-on-agent-performance-even-when-the-agent-encou|Enabled
   users to provide feedback on agent performance even when the agent…]]'
 - '[[Changes/Cline/2025-06-26-optimized-cline-to-work-with-the-claude-4-family-of-models-resulting-in-improved|Optimized
@@ -92,7 +92,7 @@ Source: https://github.com/Aider-AI/aider/releases/tag/v0.85.0
 ## Nearby in Reliability and Performance
 
 - Earlier: 2025-06-26 · Cline · [[Changes/Cline/2025-06-26-optimized-cline-to-work-with-the-claude-4-family-of-models-resulting-in-improved|Optimized Cline to work with the Claude 4 family of models, resulting in improved…]]
-- Later: 2025-07-03 · Cline · [[Changes/Cline/2025-07-03-2-reliability-and-performance-changes-in-v3-18-3|2 Reliability and Performance changes in v3.18.3]]
+- Later: 2025-06-27 · Ollama · [[Changes/Ollama/2025-06-27-the-macos-app-is-now-a-native-application-and-starts-much-faster-while-requiring|The macOS app is now a native application and starts much faster while requiring…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

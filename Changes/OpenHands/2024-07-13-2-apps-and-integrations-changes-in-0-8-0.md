@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 3f9b22a795de60b5c3509d278693adeec283ed0b0feb37f74a867042d0acf95f
+machine_hash: b65e3968ebf2868f2efe87df4c2ced81039d5f143dc3144f869c11263a9c181f
 product: openhands
 product_name: OpenHands
 record:
@@ -43,12 +43,12 @@ record:
   title: 2 Apps and Integrations changes in 0.8.0
   type: change
 related_changes:
-- '[[Changes/OpenHands/2024-06-29-10-apps-and-integrations-changes-in-0-7-0|10 Apps
-  and Integrations changes in 0.7.0]]'
-- '[[Changes/Cursor/2024-07-03-docs-management-go-to-cursor-settings-features-docs-to-re-index-your-docs|Docs
-  management! Go to Cursor Settings  Features  Docs to re-index your docs]]'
 - '[[Changes/OpenHands/2024-07-05-chore-deps-dev-bump-typescript-eslint-eslint-plugin-from-7-14-1-to-7-15-0-in-fro|chore(deps-dev):
   bump @typescript-eslint/eslint-plugin from 7.14.1 to 7.15.0 in /frontend]]'
+- '[[Changes/Dify/2024-07-08-2-apps-and-integrations-changes-in-0-6-13|2 Apps and
+  Integrations changes in 0.6.13]]'
+- "[[Changes/Open WebUI/2024-07-09-apache-tika-integration-added-support-for-using-apache-tika-as-a-document-loader|\U0001F4C4
+  Apache Tika Integration]]"
 source_release: '[[Releases/OpenHands/openhands-2024-07-13-0-8-0-github-165308599-8532f458|openhands-2024-07-13-0-8-0-github-165308599-8532f458]]'
 source_type: github_releases
 theme: apps-integrations
@@ -86,8 +86,8 @@ Source: https://github.com/OpenHands/OpenHands/releases/tag/0.8.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2024-07-05 · OpenHands · [[Changes/OpenHands/2024-07-05-chore-deps-dev-bump-typescript-eslint-eslint-plugin-from-7-14-1-to-7-15-0-in-fro|chore(deps-dev): bump @typescript-eslint/eslint-plugin from 7.14.1 to 7.15.0 in /frontend]]
-- Later: 2024-07-19 · OpenHands · [[Changes/OpenHands/2024-07-19-5-apps-and-integrations-changes-in-0-8-1|5 Apps and Integrations changes in 0.8.1]]
+- Earlier: 2024-07-09 · Open WebUI · [[Changes/Open WebUI/2024-07-09-apache-tika-integration-added-support-for-using-apache-tika-as-a-document-loader|📄 Apache Tika Integration]]
+- Later: 2024-07-15 · Dify · [[Changes/Dify/2024-07-15-2-apps-and-integrations-changes-in-0-6-14|2 Apps and Integrations changes in 0.6.14]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

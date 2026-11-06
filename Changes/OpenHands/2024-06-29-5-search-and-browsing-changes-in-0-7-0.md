@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: search-browsing
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 3e5483049bbf48b6e8aeff71418431801ac4591a707103e7ccea2ba770a7a9cd
+machine_hash: 00c5499e8fa0f927027614372278dc9f7e74b3e5cd174b709c9c7aa470e02634
 product: openhands
 product_name: OpenHands
 record:
@@ -51,12 +51,12 @@ record:
   title: 5 Search and Browsing changes in 0.7.0
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2023-07-03-we-ve-learned-that-the-browsing-beta-can-occasionally-display-content-in-ways-we|Browsing
-  is temporarily disabled]]'
-- '[[Changes/ChatGPT/2023-09-27-browsing-is-rolling-out-to-all-plus-users-chatgpt-can-now-browse-the-internet-to-335b58|Browsing
-  is rolling out to all Plus users]]'
-- '[[Changes/Cursor/2024-01-25-using-web-in-chat-will-give-the-ai-the-ability-to-crawl-the-web-the-tools-it-can|Using
-  @Web in chat will give the AI the ability to crawl the web!]]'
+- '[[Changes/Open WebUI/2024-06-12-3-search-and-browsing-changes-in-v0-3-3|3 Search
+  and Browsing changes in v0.3.3]]'
+- "[[Changes/Open WebUI/2024-06-17-tavily-web-search-includes-tavily-as-a-web-search-provider-option|\U0001F310
+  Tavily Web Search: Includes Tavily as a web search provider option]]"
+- "[[Changes/Open WebUI/2024-06-27-new-web-search-provider-added-jina-search-as-a-new-option|\U0001F50D
+  New Web Search Provider: Added jina_search as a new option]]"
 source_release: '[[Releases/OpenHands/openhands-2024-06-29-0-7-0-github-163149742-cace6f1a|openhands-2024-06-29-0-7-0-github-163149742-cace6f1a]]'
 source_type: github_releases
 theme: search-browsing
@@ -104,8 +104,8 @@ Source: https://github.com/OpenHands/OpenHands/releases/tag/0.7.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Search and Browsing
 
-- Earlier: 2024-01-25 · Cursor · [[Changes/Cursor/2024-01-25-using-web-in-chat-will-give-the-ai-the-ability-to-crawl-the-web-the-tools-it-can|Using @Web in chat will give the AI the ability to crawl the web!]]
-- Later: 2024-11-04 · OpenHands · [[Changes/OpenHands/2024-11-04-allow-codeact-agent-to-perform-web-browsing-by-itself-no-more-delegation-to-brow|Allow CodeAct agent to perform web browsing by itself…]]
+- Earlier: 2024-06-27 · Open WebUI · [[Changes/Open WebUI/2024-06-27-new-web-search-provider-added-jina-search-as-a-new-option|🔍 New Web Search Provider: Added jina_search as a new option]]
+- Later: 2024-07-25 · Ollama · [[Changes/Ollama/2024-07-25-web-browsing|Web browsing]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

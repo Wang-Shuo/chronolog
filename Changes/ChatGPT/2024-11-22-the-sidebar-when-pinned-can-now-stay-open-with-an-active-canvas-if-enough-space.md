@@ -4,20 +4,20 @@ date: '2024-11-22'
 description: 'ChatGPT · 2024-11-22 · Files and Data: The sidebar when pinned can now
   stay open with an active Canvas if enough space is available'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-07-06-we-re-rolling-out-code-interpreter-to-all-chatgpt-plus-users-over-the-next-week-66255e|Code
-    interpreter is now rolling out in beta on web]]'
+  first_in_tracked: '[[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2
+    Files and Data changes in 0.2.2]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 505
+  lag_days: 547
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 7bf87d2ad6e5a88eba67317a3001b76877e811b8501e869334e02bf3207e3760
+machine_hash: 0b9913738ec3cf5cdb75d9eab1d4e25cebc3a947d57154854fa478627cda853c
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -53,12 +53,12 @@ record:
     space…
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2023-07-06-we-re-rolling-out-code-interpreter-to-all-chatgpt-plus-users-over-the-next-week-66255e|Code
-  interpreter is now rolling out in beta on web]]'
-- '[[Changes/ChatGPT/2024-05-16-today-we-re-starting-to-roll-out-enhancements-to-data-analysis-6433a3|Today,
-  we’re starting to roll out enhancements to data analysis]]'
-- '[[Changes/OpenHands/2024-06-29-2-files-and-data-changes-in-0-7-0|2 Files and Data
-  changes in 0.7.0]]'
+- '[[Changes/Dify/2024-11-05-8-files-and-data-changes-in-0-11-0|8 Files and Data changes
+  in 0.11.0]]'
+- '[[Changes/Dify/2024-11-11-update-document-and-segment-word-count-by-johnjyong-in-https-github-com-langgeni|update
+  document and segment word count]]'
+- '[[Changes/Open WebUI/2024-11-19-2-files-and-data-changes-in-v0-4-0|2 Files and
+  Data changes in v0.4.0]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2024-11-22-updates-to-the-chatgpt-web-experience-bf046a2c|chatgpt-2024-11-22-updates-to-the-chatgpt-web-experience-bf046a2c]]'
 source_type: chatgpt_changelog
 theme: file-data
@@ -91,14 +91,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Files and Data
 
-- Earlier: 2024-06-29 · OpenHands · [[Changes/OpenHands/2024-06-29-2-files-and-data-changes-in-0-7-0|2 Files and Data changes in 0.7.0]]
-- Later: 2024-12-10 · ChatGPT · [[Changes/ChatGPT/2024-12-10-today-we-made-canvas-available-in-4o-by-default-for-all-users-free-and-paid-addi-5aaec4|Canvas]]
+- Earlier: 2024-11-19 · Open WebUI · [[Changes/Open WebUI/2024-11-19-2-files-and-data-changes-in-v0-4-0|2 Files and Data changes in v0.4.0]]
+- Later: 2024-11-22 · Open WebUI · [[Changes/Open WebUI/2024-11-22-inline-citations-for-rag-results-get-seamless-inline-citations-for-retrieval-aug|📚 Inline Citations for RAG Results]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-07-06 · ChatGPT · [[Changes/ChatGPT/2023-07-06-we-re-rolling-out-code-interpreter-to-all-chatgpt-plus-users-over-the-next-week-66255e|Code interpreter is now rolling out in beta on web]]
+- Earliest same-theme entry in the tracked set: 2023-05-25 · Dify · [[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2 Files and Data changes in 0.2.2]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

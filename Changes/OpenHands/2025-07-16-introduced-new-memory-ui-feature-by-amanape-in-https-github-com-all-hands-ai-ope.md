@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: memory
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: f06c016ab3db84519ed41c2d4c995321c07c49ab411400b3556fa7dfc2c70567
+machine_hash: 3dbf7cf7a2c1914c0b1c6a6c2194d795bb3c6e2d04a38a0b55fc1c468485db52
 product: openhands
 product_name: OpenHands
 record:
@@ -43,11 +43,11 @@ record:
   title: Introduced new Memory UI feature
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-06-04-memories|Memories]]'
 - '[[Changes/ChatGPT/2025-06-12-improvements-to-memory-to-reference-past-chats-in-a-project|Improvements
   to memory to reference past chats in a project]]'
 - '[[Changes/Cursor/2025-07-03-memories-is-now-ga-since-1-0-we-ve-improved-memory-generation-quality-added-in-e|Memories
   (now GA)]]'
+- '[[Changes/ElevenLabs/2025-07-14-elevencreative-studio|ElevenCreative Studio]]'
 source_release: '[[Releases/OpenHands/openhands-2025-07-16-0-49-0-github-232847111-e4746322|openhands-2025-07-16-0-49-0-github-232847111-e4746322]]'
 source_type: github_releases
 theme: memory
@@ -80,7 +80,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Memory and Personalization
 
-- Earlier: 2025-07-03 · Cursor · [[Changes/Cursor/2025-07-03-memories-is-now-ga-since-1-0-we-ve-improved-memory-generation-quality-added-in-e|Memories (now GA)]]
+- Earlier: 2025-07-14 · ElevenLabs · [[Changes/ElevenLabs/2025-07-14-elevencreative-studio|ElevenCreative Studio]]
 - Later: 2025-07-25 · Gemini CLI · [[Changes/Gemini CLI/2025-07-25-feat-memory-make-directory-search-limit-on-memory-discovery-configurable-with-se|feat(memory): make directory search limit on memory discovery configurable…]]
 <!-- chronolog:end -->
 

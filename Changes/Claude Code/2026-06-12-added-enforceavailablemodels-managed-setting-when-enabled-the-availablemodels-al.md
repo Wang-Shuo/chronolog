@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 21c64230ad1ad389eb926fb8930072f3cf6751f13bef326454862a2bc9f66e73
+machine_hash: 9f4073b2bdfcf27730bc2a91ffa97ebd6d4e861ad85966f95a11ea0700f0b8f2
 product: claude-code
 product_name: Claude Code
 record:
@@ -83,7 +83,7 @@ type: change
 ## Nearby in Model Support
 
 - Earlier: 2026-06-12 · ChatGPT · [[Changes/ChatGPT/2026-06-12-as-of-june-12-2026-gpt-5-2-models-are-no-longer-available-in-chatgpt-this-applie|Retiring GPT-5.2 models]]
-- Later: 2026-06-13 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-06-13-3-model-support-changes-in-v1-0-62|3 Model Support changes in v1.0.62]]
+- Later: 2026-06-12 · Ollama · [[Changes/Ollama/2026-06-12-improved-recurrent-model-support-with-per-boundary-states-from-the-gated-delta-k|Improved recurrent model support with per-boundary states from the gated-delta kernels]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

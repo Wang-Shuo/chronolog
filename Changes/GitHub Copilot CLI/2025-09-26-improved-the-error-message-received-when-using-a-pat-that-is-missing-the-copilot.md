@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 0bbd63ed9c33d772208949803c6dddd6e2bfa440ac44ea6d3e4abea8e02ef6b0
+machine_hash: f4f93d4e43117c2132fa2afd5c03bdadef3a614c8b4d6c107356de1bbae4d220
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -46,10 +46,10 @@ record:
   title: Improved the error message received when using a PAT that is missing…
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2025-09-23-3880-add-non-sandbox-test-helper-3880|♯3880 Add
-  non_sandbox_test helper (♯3880)]]'
 - '[[Changes/Gemini CLI/2025-09-24-4-safety-and-privacy-changes-in-v0-6-0|4 Safety
   and Privacy changes in v0.6.0]]'
+- '[[Changes/Open WebUI/2025-09-25-3-safety-and-privacy-changes-in-v0-6-31|3 Safety
+  and Privacy changes in v0.6.31]]'
 - '[[Changes/Codex CLI/2025-09-26-2-safety-and-privacy-changes-in-rust-v0-42-0|2 Safety
   and Privacy changes in rust-v0.42.0]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2025-09-26-v0-0-328-github-250426078-8d17da88|github-copilot-cli-2025-09-26-v0-0-328-github-250426078-8d17da88]]'
@@ -83,7 +83,7 @@ type: change
 ## Nearby in Safety and Privacy
 
 - Earlier: 2025-09-26 · Codex CLI · [[Changes/Codex CLI/2025-09-26-2-safety-and-privacy-changes-in-rust-v0-42-0|2 Safety and Privacy changes in rust-v0.42.0]]
-- Later: 2025-09-29 · ChatGPT · [[Changes/ChatGPT/2025-09-29-we-re-rolling-out-parental-controls-globally-in-chatgpt-to-help-families-guide-h-289d0a|ChatGPT rolls out parental controls globally to help families guide how ChatGPT…]]
+- Later: 2025-09-26 · Replit · [[Changes/Replit/2025-09-26-security-scan-enforcement-for-enterprises|Security scan enforcement for enterprises]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

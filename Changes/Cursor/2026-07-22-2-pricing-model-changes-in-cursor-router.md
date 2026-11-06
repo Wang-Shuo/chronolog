@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: a6b361317a4a25fae413c8be5a1675e2feeed8c0dd278a1201157f70a18ea21f
+machine_hash: 85a1a1b3f4a881caebbab3b0c1865304916eae1cda398f9043c350b759a99e07
 product: cursor
 product_name: Cursor
 record:
@@ -42,10 +42,10 @@ record:
   title: 2 Pricing Model changes in Cursor Router
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-07-09-usage-limit-reset-credits-now-show-their-type-and-expiration-and-let-you-choose|Usage-limit
-  reset credits now show their type and expiration, and let you choose…]]'
-- '[[Changes/GitHub Copilot CLI/2026-07-16-3-pricing-model-changes-in-v1-0-71|3 Pricing
-  Model changes in v1.0.71]]'
+- '[[Changes/Dify/2026-07-17-5-pricing-model-changes-in-1-16-0|5 Pricing Model changes
+  in 1.16.0]]'
+- '[[Changes/v0/2026-07-21-canceled-plans-show-the-subscription-end-date-in-the-credit-balance-and-checkout|Canceled
+  plans show the subscription end date in the credit balance, and checkout…]]'
 - '[[Changes/Claude Code/2026-07-22-changed-server-managed-settings-so-benign-feature-and-cost-toggles-no-longer-tri|Changed
   server-managed settings so benign feature and cost toggles no longer trigger…]]'
 source_release: '[[Releases/Cursor/cursor-2026-07-22-cursor-router-https-cursor-com-changelog-router-af8c2ac4|cursor-2026-07-22-cursor-router-https-cursor-com-changelog-router-af8c2ac4]]'
@@ -87,7 +87,7 @@ Source: https://cursor.com/changelog/router
 ## Nearby in Pricing Model
 
 - Earlier: 2026-07-22 · Claude Code · [[Changes/Claude Code/2026-07-22-changed-server-managed-settings-so-benign-feature-and-cost-toggles-no-longer-tri|Changed server-managed settings so benign feature and cost toggles no longer trigger…]]
-- Later: 2026-07-28 · Cursor · [[Changes/Cursor/2026-07-28-local-pricing-at-649-per-month-tax-inclusive-billed-in-inr-with-upi-or-card|Local pricing at ₹649 per month, tax inclusive, billed in INR with UPI or card]]
+- Later: 2026-07-24 · Replit · [[Changes/Replit/2026-07-24-lower-prices-across-replit-cloud|Lower prices across Replit Cloud]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

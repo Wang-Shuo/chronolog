@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 82e0fd3f9097a485a4a81f5e36b59696be8755036fb143ec042b355c0c5db66f
+machine_hash: 2769e81f88e33419a882d055580576a7e4bfe4130a9f2152e1832db92c165193
 product: cline
 product_name: Cline
 record:
@@ -52,12 +52,12 @@ record:
   title: 5 Model Support changes in v3.28.0
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2025-09-09-6-model-support-changes-in-v0-4-0|6 Model Support
-  changes in v0.4.0]]'
 - '[[Changes/Codex CLI/2025-09-10-2-model-support-changes-in-rust-v0-32-0|2 Model
   Support changes in rust-v0.32.0]]'
 - '[[Changes/Codex CLI/2025-09-10-2799-persist-model-reasoning-changes-2799|♯2799
   Persist model & reasoning changes (♯2799)]]'
+- "[[Changes/Open WebUI/2025-09-10-the-command-for-model-selection-now-supports-real-time-search-and-filtering-impr|\U0001F50D
+  The \"@\" command for model selection now supports real-time search and filtering…]]"
 source_release: '[[Releases/Cline/cline-2025-09-11-v3-28-0-github-246638695-88c662f3|cline-2025-09-11-v3-28-0-github-246638695-88c662f3]]'
 source_type: github_releases
 theme: model-support
@@ -100,7 +100,7 @@ Source: https://github.com/cline/cline/releases/tag/v3.28.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2025-09-10 · Codex CLI · [[Changes/Codex CLI/2025-09-10-2799-persist-model-reasoning-changes-2799|♯2799 Persist model & reasoning changes (♯2799)]]
+- Earlier: 2025-09-10 · Open WebUI · [[Changes/Open WebUI/2025-09-10-the-command-for-model-selection-now-supports-real-time-search-and-filtering-impr|🔍 The "@" command for model selection now supports real-time search and filtering…]]
 - Later: 2025-09-12 · Cline · [[Changes/Cline/2025-09-12-requesty-use-base-url-to-get-models-and-api-keys|Requesty: use base URL to get models and API keys]]
 <!-- chronolog:end -->
 

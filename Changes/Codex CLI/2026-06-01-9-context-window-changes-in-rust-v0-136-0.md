@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 3d87da4f27a578a9910d2471a2c6248451a77783a3123dff76819dd5ce45f919
+machine_hash: 5790625575248907d53d822776b707223649032e3102276b60ced9c593bc358e
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -125,7 +125,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.136.0
 ## Nearby in Context Window
 
 - Earlier: 2026-05-29 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-05-29-2-context-window-changes-in-v1-0-56|2 Context Window changes in v1.0.56]]
-- Later: 2026-06-03 · Gemini CLI · [[Changes/Gemini CLI/2026-06-03-feat-context-complete-simplification-work-by-joshualitt-in-https-github-com-goog|feat(context): Complete simplification work]]
+- Later: 2026-06-01 · Open WebUI · [[Changes/Open WebUI/2026-06-01-4-context-window-changes-in-v0-9-6|4 Context Window changes in v0.9.6]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

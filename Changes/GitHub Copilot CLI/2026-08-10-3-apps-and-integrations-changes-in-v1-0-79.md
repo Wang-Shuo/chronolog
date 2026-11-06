@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: acdc51a7e74d4e5886010919205406e1e0ed4159097b62989fa50ffb2bd4902e
+machine_hash: be47b3ca5670fee971a9b634a86498887e0ed7015a7c6e9c5e299586e472c2cd
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -46,12 +46,10 @@ record:
   title: 3 Apps and Integrations changes in v1.0.79
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-08-07-65-apps-and-integrations-changes-in-rust-v0-147-0|65
-  Apps and Integrations changes in rust-v0.147.0]]'
-- '[[Changes/Claude Code/2026-08-08-3-apps-and-integrations-changes-in-v2-1-225|3
-  Apps and Integrations changes in v2.1.225]]'
 - '[[Changes/Cline/2026-08-09-2-apps-and-integrations-changes-in-v4-1-7|2 Apps and
   Integrations changes in v4.1.7]]'
+- '[[Changes/ElevenLabs/2026-08-10-sdk-releases|SDK Releases]]'
+- '[[Changes/ElevenLabs/2026-08-10-mcp-server|MCP Server]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-08-10-v1-0-79-github-368051224-d4fdfd9a|github-copilot-cli-2026-08-10-v1-0-79-github-368051224-d4fdfd9a]]'
 source_type: github_releases
 theme: apps-integrations
@@ -97,8 +95,8 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.79
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-08-09 · Cline · [[Changes/Cline/2026-08-09-2-apps-and-integrations-changes-in-v4-1-7|2 Apps and Integrations changes in v4.1.7]]
-- Later: 2026-08-11 · Claude Code · [[Changes/Claude Code/2026-08-11-2-apps-and-integrations-changes-in-v2-1-228|2 Apps and Integrations changes in v2.1.228]]
+- Earlier: 2026-08-10 · ElevenLabs · [[Changes/ElevenLabs/2026-08-10-mcp-server|MCP Server]]
+- Later: 2026-08-10 · Lovable · [[Changes/Lovable/2026-08-10-agent-integrations-for-workspace-published-apps|Agent integrations for workspace-published apps]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

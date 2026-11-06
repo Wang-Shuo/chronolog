@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: b1bc71c3f433c0e7762a9e2657bb0121de2775619ed1469c8aa4b28008adba17
+machine_hash: 3b3c254dbe9f94609357724f4a10bf55c9194910b97c80039f5922772f69617f
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -46,10 +46,10 @@ record:
     using…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-08-improved-token-counts-behind-a-claude-apps-gateway-on-amazon-bedrock-which-conte|Improved
-  token counts behind a Claude apps gateway on Amazon Bedrock…]]'
 - '[[Changes/Codex CLI/2026-10-08-10-context-window-changes-in-rust-v0-162-0|10 Context
   Window changes in rust-v0.162.0]]'
+- '[[Changes/Ollama/2026-10-08-ollama-launch-claude-uses-the-model-s-full-context-length-by-jberg5-in-https-git|ollama
+  launch claude uses the model''s full context length]]'
 - '[[Changes/Claude Code/2026-10-09-2-context-window-changes-in-v2-1-296|2 Context
   Window changes in v2.1.296]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-10-09-v1-0-95-github-408085682-4bdfce3d|github-copilot-cli-2026-10-09-v1-0-95-github-408085682-4bdfce3d]]'
@@ -83,7 +83,7 @@ type: change
 ## Nearby in Context Window
 
 - Earlier: 2026-10-09 · Claude Code · [[Changes/Claude Code/2026-10-09-2-context-window-changes-in-v2-1-296|2 Context Window changes in v2.1.296]]
-- Later: 2026-10-13 · Cline · [[Changes/Cline/2026-10-13-2-context-window-changes-in-v4-1-24|2 Context Window changes in v4.1.24]]
+- Later: 2026-10-09 · Replit · [[Changes/Replit/2026-10-09-work-across-projects-from-a-chat|Work across projects from a chat]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

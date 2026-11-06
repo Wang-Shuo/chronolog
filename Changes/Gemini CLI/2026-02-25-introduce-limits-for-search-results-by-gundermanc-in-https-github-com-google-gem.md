@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: search-browsing
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 050fa919f5818c562b2dcb7281137743d945e9d5f64c93fbf036d3e24e657f14
+machine_hash: 2e24e9d27946318e13495b7cd6b747357a327c221250cd99a08e7251fdcdcb22
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -41,12 +41,11 @@ record:
   title: Introduce limits for search results
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-02-04-2-search-and-browsing-changes-in-rust-v0-95-0|2
-  Search and Browsing changes in rust-v0.95.0]]'
-- '[[Changes/Codex CLI/2026-02-11-3-search-and-browsing-changes-in-rust-v0-99-0|3
-  Search and Browsing changes in rust-v0.99.0]]'
-- '[[Changes/Codex CLI/2026-02-17-11224-chore-clarify-web-search-deprecation-notices-and-consolidate-tests-sayan-o|♯11224
-  chore: clarify web_search deprecation notices and consolidate tests @sayan-oai]]'
+- '[[Changes/Replit/2026-02-20-skills-search|Skills Search]]'
+- '[[Changes/Open WebUI/2026-02-23-4-search-and-browsing-changes-in-v0-8-4|4 Search
+  and Browsing changes in v0.8.4]]'
+- '[[Changes/Ollama/2026-02-24-ollama-s-app-will-now-allow-models-that-support-tools-to-use-web-search-capabili|Ollama''s
+  app will now allow models that support tools to use web search capabilities]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2026-02-25-v0-30-0-github-290144121-620926b3|gemini-cli-2026-02-25-v0-30-0-github-290144121-620926b3]]'
 source_type: github_releases
 theme: search-browsing
@@ -88,7 +87,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Search and Browsing
 
-- Earlier: 2026-02-17 · Codex CLI · [[Changes/Codex CLI/2026-02-17-11224-chore-clarify-web-search-deprecation-notices-and-consolidate-tests-sayan-o|♯11224 chore: clarify web_search deprecation notices and consolidate tests @sayan-oai]]
+- Earlier: 2026-02-24 · Ollama · [[Changes/Ollama/2026-02-24-ollama-s-app-will-now-allow-models-that-support-tools-to-use-web-search-capabili|Ollama's app will now allow models that support tools to use web search capabilities]]
 - Later: 2026-02-25 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-02-25-add-research-command-for-deep-research-with-exportable-reports|Add /research command for deep research with exportable reports]]
 <!-- chronolog:end -->
 

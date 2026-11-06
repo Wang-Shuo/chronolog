@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 5dc37803462b0030436696e32f1bd36edd072e01f2c0c463ca8d10d5cb0c116b
+machine_hash: 85e6042e3f721a3445a017be377519cd8452ed2d0c8df8514d0952d4a1065b61
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -86,7 +86,7 @@ type: change
 ## Nearby in Context Window
 
 - Earlier: 2026-03-05 · Codex CLI · [[Changes/Codex CLI/2026-03-05-3-context-window-changes-in-rust-v0-110-0|3 Context Window changes in rust-v0.110.0]]
-- Later: 2026-03-06 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-03-06-improve-explore-agent-precision-and-large-repository-support-with-better-context|Improve explore agent precision and large repository support with better context sharing]]
+- Later: 2026-03-05 · Ollama · [[Changes/Ollama/2026-03-05-add-context-length-to-support-compaction-when-using-ollama-launch|Add context length to support compaction when using ollama launch]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

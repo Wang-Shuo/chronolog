@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 73f3f829442c3fb98cc08ff6bf51dc8d573d07842c25db035acf5497eec41068
+machine_hash: 1e487e43ac8735d95ec064db26d8ff6a53f87fa130f1082952bef69d2043b5ab
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -81,7 +81,7 @@ type: change
 ## Nearby in Account and Access
 
 - Earlier: 2026-06-25 · Codex CLI · [[Changes/Codex CLI/2026-06-25-macos-authentication-clients-can-honor-system-proxy-pac-and-wpad-settings-when-r|macOS authentication clients can honor system proxy, PAC, and WPAD settings…]]
-- Later: 2026-06-30 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-06-30-mcp-oauth-against-microsoft-entra-servers-behind-a-tenant-vanity-domain-e-g-copi|MCP OAuth against Microsoft Entra servers behind a tenant vanity domain…]]
+- Later: 2026-06-25 · Dify · [[Changes/Dify/2026-06-25-5-account-and-access-changes-in-1-15-0|5 Account and Access changes in 1.15.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

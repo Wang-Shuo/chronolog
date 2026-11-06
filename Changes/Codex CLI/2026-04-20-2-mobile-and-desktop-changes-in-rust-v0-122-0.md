@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 2855d1c650b2bc3a80c1649f26b47ec531e6ef1088777a7682b04891b1ca6c54
+machine_hash: 0360a2a0f09886fb81523befe66dc9d61add5a9490ad33b87fcbb05949428ce2
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -44,10 +44,10 @@ record:
   title: 2 Mobile and Desktop changes in rust-v0.122.0
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-04-16-windows-powershell-tool-is-progressively-rolling-out-opt-in-or-out-with-claude-c|Windows:
-  PowerShell tool is progressively rolling out]]'
 - '[[Changes/GitHub Copilot CLI/2026-04-16-prompt-frame-no-longer-causes-rendering-issues-on-windows-and-ubuntu-terminals|Prompt
   frame no longer causes rendering issues on Windows and Ubuntu terminals]]'
+- '[[Changes/Ollama/2026-04-16-fixed-macos-cross-compiles-so-they-no-longer-trigger-generate-which-was-breaking|Fixed
+  macOS cross-compiles so they no longer trigger generate…]]'
 - '[[Changes/Claude Code/2026-04-17-extra-usage-now-works-from-remote-control-mobile-web-clients|/extra-usage
   now works from Remote Control (mobile/web) clients]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-04-20-rust-v0-122-0-github-311361536-9a010c0e|codex-cli-2026-04-20-rust-v0-122-0-github-311361536-9a010c0e]]'
@@ -95,7 +95,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.122.0
 ## Nearby in Mobile and Desktop
 
 - Earlier: 2026-04-17 · Claude Code · [[Changes/Claude Code/2026-04-17-extra-usage-now-works-from-remote-control-mobile-web-clients|/extra-usage now works from Remote Control (mobile/web) clients]]
-- Later: 2026-04-23 · Gemini CLI · [[Changes/Gemini CLI/2026-04-23-use-macos-latest-large-runner-where-applicable-by-scidomino-in-https-github-com|use macos-latest-large runner where applicable]]
+- Later: 2026-04-21 · Open WebUI · [[Changes/Open WebUI/2026-04-21-2-mobile-and-desktop-changes-in-v0-9-0|2 Mobile and Desktop changes in v0.9.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

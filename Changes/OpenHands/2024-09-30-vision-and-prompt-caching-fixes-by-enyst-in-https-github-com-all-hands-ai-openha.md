@@ -4,20 +4,20 @@ date: '2024-09-30'
 description: 'OpenHands · 2024-09-30 · Multimodal Input: Vision and prompt caching
   fixes by @enyst in https://github.com/All-Hands-AI/OpenHands/pull/4014'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-09-25-you-can-now-show-chatgpt-one-or-more-images-troubleshoot-why-your-grill-won-t-st-e42bd6|Image
-    input will be generally available to Plus users on all platforms]]'
+  first_in_tracked: '[[Changes/Dify/2023-09-19-add-video-to-cn-readme-by-crazywoola-in-https-github-com-langgenius-dify-pull-11|add
+    video to cn readme]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 371
+  lag_days: 377
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: multimodal
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: f0c69a2d19181b606cee114aa13e376e6fa2818b75a0bd82378215432bff63e4
+machine_hash: a5f4b7ca961fc280477c2fdde09d259d00d52dbb090958c40698bb0fc8d662d1
 product: openhands
 product_name: OpenHands
 record:
@@ -41,11 +41,12 @@ record:
   title: Vision and prompt caching fixes
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2023-09-25-you-can-now-show-chatgpt-one-or-more-images-troubleshoot-why-your-grill-won-t-st-e42bd6|Image
-  input will be generally available to Plus users on all platforms]]'
-- '[[Changes/Cursor/2023-11-27-image-support-in-chat-you-can-now-drag-and-drop-images-into-the-chat-to-send-the|Image
-  Support in Chat]]'
-- '[[Changes/Aider/2024-04-21-4-turbo-vision|--4-turbo-vision]]'
+- '[[Changes/Dify/2024-04-22-2-multimodal-input-changes-in-0-6-4|2 Multimodal Input
+  changes in 0.6.4]]'
+- "[[Changes/Open WebUI/2024-05-02-youtube-rag-pipeline-introduces-dedicated-rag-pipeline-for-youtube-videos-enabli|\U0001F4F9
+  Youtube RAG Pipeline]]"
+- '[[Changes/Dify/2024-09-20-feat-add-hunyuan-vision-by-muzea-in-https-github-com-langgenius-dify-pull-8529|feat:
+  add hunyuan-vision]]'
 source_release: '[[Releases/OpenHands/openhands-2024-09-30-0-9-7-github-177640625-2411194e|openhands-2024-09-30-0-9-7-github-177640625-2411194e]]'
 source_type: github_releases
 theme: multimodal
@@ -74,14 +75,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Multimodal Input
 
-- Earlier: 2024-04-21 · Aider · [[Changes/Aider/2024-04-21-4-turbo-vision|--4-turbo-vision]]
-- Later: 2024-12-12 · ChatGPT · [[Changes/ChatGPT/2024-12-12-use-the-controls-at-the-bottom-of-the-screen-like-the-camera-button-below-to-get|Use the controls at the bottom of the screen, like the camera button below, to get started]]
+- Earlier: 2024-09-20 · Dify · [[Changes/Dify/2024-09-20-feat-add-hunyuan-vision-by-muzea-in-https-github-com-langgenius-dify-pull-8529|feat: add hunyuan-vision]]
+- Later: 2024-10-21 · Dify · [[Changes/Dify/2024-10-21-if-you-have-a-basic-chatbot-or-text-generator-app-with-the-vision-feature-enable| If you have a Basic Chatbot or Text Generator App with the ‘Vision’ feature…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-09-25 · ChatGPT · [[Changes/ChatGPT/2023-09-25-you-can-now-show-chatgpt-one-or-more-images-troubleshoot-why-your-grill-won-t-st-e42bd6|Image input will be generally available to Plus users on all platforms]]
+- Earliest same-theme entry in the tracked set: 2023-09-19 · Dify · [[Changes/Dify/2023-09-19-add-video-to-cn-readme-by-crazywoola-in-https-github-com-langgenius-dify-pull-11|add video to cn readme]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

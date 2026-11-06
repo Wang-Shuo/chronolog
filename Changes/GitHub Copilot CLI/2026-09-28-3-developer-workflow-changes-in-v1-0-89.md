@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 4acdf8168ffd6d8986543bbf0cd6cdc262a5cc82f3af18e1e07eb4181be2c861
+machine_hash: b27da3f38d0b3f5c37fa2b820afd1a4f64c4950057b7de11fca85ba3d965a655
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -46,12 +46,11 @@ record:
   title: 3 Developer Workflow changes in v1.0.89
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-09-25-4-developer-workflow-changes-in-rust-v0-157-0|4
-  Developer Workflow changes in rust-v0.157.0]]'
 - '[[Changes/Claude Code/2026-09-28-changed-recap-to-decline-with-a-short-notice-when-it-arrives-relayed-from-a-chat|Changed
   /recap to decline with a short notice when it arrives relayed from a chat…]]'
 - '[[Changes/Codex CLI/2026-09-28-14-developer-workflow-changes-in-rust-v0-158-0|14
   Developer Workflow changes in rust-v0.158.0]]'
+- '[[Changes/ElevenLabs/2026-09-28-flows-ffc074|Flows]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-09-28-v1-0-89-github-398551718-87b48178|github-copilot-cli-2026-09-28-v1-0-89-github-398551718-87b48178]]'
 source_type: github_releases
 theme: developer-workflow
@@ -94,7 +93,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.89
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2026-09-28 · Codex CLI · [[Changes/Codex CLI/2026-09-28-14-developer-workflow-changes-in-rust-v0-158-0|14 Developer Workflow changes in rust-v0.158.0]]
+- Earlier: 2026-09-28 · ElevenLabs · [[Changes/ElevenLabs/2026-09-28-flows-ffc074|Flows]]
 - Later: 2026-09-29 · Claude Code · [[Changes/Claude Code/2026-09-29-3-developer-workflow-changes-in-v2-1-285|3 Developer Workflow changes in v2.1.285]]
 <!-- chronolog:end -->
 

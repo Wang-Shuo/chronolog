@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 58fcf7dc3073c485c36f964c324facb40acad42620eb82215db60b8d7df9ca2b
+machine_hash: f98e7dea2154da1ad280e64605e7926d6d3183f643d80a678c8e391db22e9fc6
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -44,8 +44,8 @@ record:
   title: 3 Mobile and Desktop changes in rust-v0.117.0
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-03-19-14986-temporarily-disable-private-desktop-until-it-works-with-elevated-ipc-path|♯14986
-  temporarily disable private desktop until it works with elevated IPC path…]]'
+- '[[Changes/Claude/2026-03-25-interactive-apps-in-claude-for-ios-and-android|Interactive
+  apps in Claude for iOS and Android]]'
 - '[[Changes/ChatGPT/2026-03-26-users-can-now-choose-to-share-their-device-location-so-chatgpt-can-provide-more-7907ed|Location
   Sharing]]'
 - '[[Changes/Claude Code/2026-03-26-added-powershell-tool-for-windows-as-an-opt-in-preview-learn-more-at-https-code|Added

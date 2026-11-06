@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 45a290ce8a2971abca05c4c39aa24f5ffe24f0b13c105d5a10ad81c30b314a19
+machine_hash: 26116784bed438c7f61fb29891ff22ee750bdd9ea9eda259484db32e224bce5c
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -85,7 +85,7 @@ type: change
 ## Nearby in Interface Experience
 
 - Earlier: 2026-01-28 · Claude Code · [[Changes/Claude Code/2026-01-28-improved-read-search-progress-indicators-to-show-reading-while-in-progress-and-r|Improved read/search progress indicators to show "Reading…" while in progress…]]
-- Later: 2026-01-29 · Claude Code · [[Changes/Claude Code/2026-01-29-3-interface-experience-changes-in-v2-1-23|3 Interface Experience changes in v2.1.23]]
+- Later: 2026-01-28 · v0 · [[Changes/v0/2026-01-28-added-modals-for-library-and-projects-navigation|Added modals for Library and Projects navigation]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

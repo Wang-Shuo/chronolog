@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: c36b0448d87fa614527265aa78bffdf236e9ae8a4285343e2452af7d6f2560c8
+machine_hash: 999627ede053df81f8c17c5f44155639295c63fcde406031227528e3ff4d2891
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -70,8 +70,8 @@ record:
   title: GPT-5.5 Instant Mini in ChatGPT
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-07-01-add-support-for-the-kimi-k2-7-code-model|Add
-  support for the kimi-k2.7-code model]]'
+- '[[Changes/Open WebUI/2026-07-01-5-model-support-changes-in-v0-10-2|5 Model Support
+  changes in v0.10.2]]'
 - '[[Changes/Cline/2026-07-02-generalize-the-model-capability-warning-so-it-applies-more-broadly|Generalize
   the model capability warning so it applies more broadly]]'
 - '[[Changes/Claude Code/2026-07-03-claude-sonnet-5-sessions-no-longer-use-the-mid-conversation-system-role-for-harn|Claude
@@ -103,7 +103,7 @@ type: change
 ## Nearby in Model Support
 
 - Earlier: 2026-07-03 · Claude Code · [[Changes/Claude Code/2026-07-03-claude-sonnet-5-sessions-no-longer-use-the-mid-conversation-system-role-for-harn|Claude Sonnet 5 sessions no longer use the mid-conversation system role for harness…]]
-- Later: 2026-07-06 · OpenHands · [[Changes/OpenHands/2026-07-06-4-model-support-changes-in-1-9-0|4 Model Support changes in 1.9.0]]
+- Later: 2026-07-06 · ElevenLabs · [[Changes/ElevenLabs/2026-07-06-elevencreative-studio|ElevenCreative Studio]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

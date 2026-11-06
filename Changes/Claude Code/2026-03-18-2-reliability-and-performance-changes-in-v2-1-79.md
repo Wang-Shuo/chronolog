@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: da3d4a003523a87f2992f8f5f7cbcef05e6560b1208ca9380ef79088e9096ca1
+machine_hash: a66b859bc5d4ae60fc95c00b2a0ed48d2198788bcf9b8b4347274e12d494e3e6
 product: claude-code
 product_name: Claude Code
 record:
@@ -43,12 +43,12 @@ record:
   title: 2 Reliability and Performance changes in v2.1.79
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-03-16-3-reliability-and-performance-changes-in-v1-0-6|3
-  Reliability and Performance changes in v1.0.6]]'
 - '[[Changes/Claude Code/2026-03-17-2-reliability-and-performance-changes-in-v2-1-77|2
   Reliability and Performance changes in v2.1.77]]'
 - '[[Changes/Claude Code/2026-03-17-improved-memory-usage-and-startup-time-when-resuming-large-sessions|Improved
   memory usage and startup time when resuming large sessions]]'
+- '[[Changes/Dify/2026-03-17-2-reliability-and-performance-changes-in-1-13-1|2 Reliability
+  and Performance changes in 1.13.1]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-03-18-v2-1-79-github-298704791-2ebf4bbd|claude-code-2026-03-18-v2-1-79-github-298704791-2ebf4bbd]]'
 source_type: github_releases
 theme: reliability-performance
@@ -85,8 +85,8 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.79
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2026-03-17 · Claude Code · [[Changes/Claude Code/2026-03-17-improved-memory-usage-and-startup-time-when-resuming-large-sessions|Improved memory usage and startup time when resuming large sessions]]
-- Later: 2026-03-19 · Claude Code · [[Changes/Claude Code/2026-03-19-reduced-memory-usage-on-startup-in-large-repositories-80-mb-saved-on-250k-file-r|Reduced memory usage on startup in large repositories (~80 MB saved on 250k-file repos)]]
+- Earlier: 2026-03-17 · Dify · [[Changes/Dify/2026-03-17-2-reliability-and-performance-changes-in-1-13-1|2 Reliability and Performance changes in 1.13.1]]
+- Later: 2026-03-18 · Dify · [[Changes/Dify/2026-03-18-this-patch-release-fixes-several-critical-regressions-and-stability-issues-intro|This patch release fixes several critical regressions and stability issues…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

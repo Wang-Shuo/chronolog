@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: c4b05307695c12ff276fa29c1bd985836a18c7bd728fa7b24292b2097b4538ab
+machine_hash: 7ad40b466ffc7821746c98a3c0a350c8b4fb47ae3315c7d3ce9586bd475b9dbb
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -45,8 +45,8 @@ record:
   title: 2 Safety and Privacy changes in v1.0.77
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-07-29-6-safety-and-privacy-changes-in-rust-v0-146-0|6
-  Safety and Privacy changes in rust-v0.146.0]]'
+- '[[Changes/Lovable/2026-07-29-fewer-false-alarms-in-dependency-scans|Fewer false
+  alarms in dependency scans]]'
 - '[[Changes/OpenHands/2026-07-29-fix-revive-local-telemetry-consent-banner-by-malhotra5-in-https-github-com-openh|fix:
   Revive local telemetry consent banner]]'
 - '[[Changes/GitHub Copilot CLI/2026-07-30-5-safety-and-privacy-changes-in-v1-0-76|5

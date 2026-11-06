@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: 60e8b415fa58757aaa648d1b9b11c1f8a0f3934e251046ad626d4eea8efbbfb7
+machine_hash: bcb9e72703fdaec0c30f10115067ad45c787b796dda4ea402d5d4b89866ed3ce
 product: cursor
 product_name: Cursor
 record:
@@ -48,12 +48,12 @@ record:
   title: Plan Mode improvements
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2025-12-03-add-infer-property-to-control-custom-agent-tool-visibility|Add
-  infer property to control custom agent tool visibility]]'
 - '[[Changes/Codex CLI/2025-12-09-7729-feat-add-is-mutating-detection-for-shell-command-handler-jif-oai|♯7729
   feat: add is-mutating detection for shell command handler @jif-oai]]'
 - '[[Changes/Gemini CLI/2025-12-09-feat-a2a-urgent-fix-process-modelinfo-agent-message-by-cocosheng-g-in-https-gith|feat(a2a):
   Urgent fix - Process modelInfo agent message]]'
+- '[[Changes/v0/2025-12-09-v0-has-now-automatically-updated-every-react2shell-vulnerable-project-deployed-w|React2Shell
+  Vulnerability Patch]]'
 source_release: '[[Releases/Cursor/cursor-2025-12-10-2-2-https-cursor-com-changelog-2-2-297c9323|cursor-2025-12-10-2-2-https-cursor-com-changelog-2-2-297c9323]]'
 source_type: cursor_changelog
 theme: agent-mode
@@ -90,8 +90,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2025-12-09 · Gemini CLI · [[Changes/Gemini CLI/2025-12-09-feat-a2a-urgent-fix-process-modelinfo-agent-message-by-cocosheng-g-in-https-gith|feat(a2a): Urgent fix - Process modelInfo agent message]]
-- Later: 2025-12-16 · OpenHands · [[Changes/OpenHands/2025-12-16-new-openhands-1-0-0-using-the-new-software-agent-sdk-https-github-com-openhands|New OpenHands 1.0.0 using the new…]]
+- Earlier: 2025-12-09 · v0 · [[Changes/v0/2025-12-09-v0-has-now-automatically-updated-every-react2shell-vulnerable-project-deployed-w|React2Shell Vulnerability Patch]]
+- Later: 2025-12-11 · Dify · [[Changes/Dify/2025-12-11-2-agent-mode-changes-in-1-11-0|2 Agent Mode changes in 1.11.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

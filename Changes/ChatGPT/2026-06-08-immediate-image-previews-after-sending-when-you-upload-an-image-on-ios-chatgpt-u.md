@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: d2e542ed96a69169d5d40763a84df8347f3c096e81c35cbd3580e14898a7f3ec
+machine_hash: c09479a1e248185dc7c50735fce0abd6648ce059403e18a9f6d441a06d3a444b
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -47,10 +47,10 @@ record:
   title: Immediate image previews after sending
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-06-05-2-mobile-and-desktop-changes-in-v1-0-60|2
-  Mobile and Desktop changes in v1.0.60]]'
 - '[[Changes/Windsurf/2026-06-06-hardened-migration-from-windsurf-on-windows-to-preserve-shortcut-icon|Hardened
   migration from Windsurf on Windows to preserve shortcut icon]]'
+- '[[Changes/Ollama/2026-06-07-hermes-desktop-is-now-available-via-ollama-launch-hermes-desktop-with-native-win|Hermes
+  Desktop is now available via ollama launch hermes-desktop with native…]]'
 - '[[Changes/ChatGPT/2026-06-08-cleaner-edit-message-flow-android-now-makes-it-clearer-when-you-re-editing-a-pre|Cleaner
   edit-message flow]]'
 scope: iOS
@@ -90,7 +90,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2026-06-06 · Windsurf · [[Changes/Windsurf/2026-06-06-hardened-migration-from-windsurf-on-windows-to-preserve-shortcut-icon|Hardened migration from Windsurf on Windows to preserve shortcut icon]]
+- Earlier: 2026-06-07 · Ollama · [[Changes/Ollama/2026-06-07-hermes-desktop-is-now-available-via-ollama-launch-hermes-desktop-with-native-win|Hermes Desktop is now available via ollama launch hermes-desktop with native…]]
 - Later: 2026-06-08 · Claude Code · [[Changes/Claude Code/2026-06-08-auto-updater-on-windows-now-stops-retrying-within-a-session-once-claude-exe-is-h|Auto-updater on Windows now stops retrying within a session once claude.exe…]]
 <!-- chronolog:end -->
 

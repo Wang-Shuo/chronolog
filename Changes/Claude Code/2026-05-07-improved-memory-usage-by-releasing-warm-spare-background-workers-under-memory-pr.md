@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: f38ec164ca85ed26dee5e373c6deb764047421650ead496a1761391a272a985d
+machine_hash: cb1db9eb587328777cc4168355cb17cf8f5977d4cdbd16687aae2aa8638c1579
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,10 +45,10 @@ record:
     pressure
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-05-01-improve-cli-startup-speed-by-loading-custom-ca-certificates-asynchronously|Improve
-  CLI startup speed by loading custom CA certificates asynchronously]]'
 - '[[Changes/GitHub Copilot CLI/2026-05-05-improve-stability-on-windows-by-working-around-a-v8-crash-in-node-24-x|Improve
   stability on Windows by working around a V8 crash in Node 24.x]]'
+- '[[Changes/Ollama/2026-05-05-gemma-4-mtp-speculative-decoding-is-now-supported-on-macs-this-can-give-over-a-2|Gemma
+  4 MTP speculative decoding is now supported on Macs]]'
 - '[[Changes/Claude Code/2026-05-06-updated-the-tui-fullscreen-startup-banner-to-describe-additional-renderer-benefi|Updated
   the /tui fullscreen startup banner to describe additional renderer…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-05-07-v2-1-133-github-319164825-08653677|claude-code-2026-05-07-v2-1-133-github-319164825-08653677]]'

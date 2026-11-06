@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 05bc29c4078037a84a87fc37f407ffdbf4d5b873ceef44c6fb437bd668bd6f3a
+machine_hash: fbd949241d4d951514f5d2bdf1d1ae9733ea9b6377f2091391ad17adb156dcad
 product: aider
 product_name: Aider
 record:
@@ -44,12 +44,12 @@ record:
   title: '[Benchmarked](https://aider.chat/docs/benchmarks.html) at 64.7% for gpt-4/diff…'
   type: change
 related_changes:
-- '[[Changes/Aider/2023-07-12-3-model-support-changes-in-v0-8-3|3 Model Support changes
-  in v0.8.3]]'
-- '[[Changes/Aider/2023-07-16-support-for-the-openai-models-in-azure-https-aider-chat-docs-faq-html-azure|Support
-  for the OpenAI models in Azure((source link)]]'
+- '[[Changes/Dify/2023-07-18-feat-remove-davinci-required-model-from-azure-provider-by-takatost-in-https-gith|feat:
+  remove davinci required model from azure provider]]'
 - '[[Changes/ChatGPT/2023-07-19-we-re-doubling-the-number-of-messages-chatgpt-plus-customers-can-send-with-gpt-4|Higher
   message limits for GPT-4]]'
+- '[[Changes/Ollama/2023-07-21-3-model-support-changes-in-v0-0-11|3 Model Support
+  changes in v0.0.11]]'
 source_release: '[[Releases/Aider/aider-2023-07-22-v0-10-0-github-113187659-b0aea783|aider-2023-07-22-v0-10-0-github-113187659-b0aea783]]'
 source_type: github_releases
 theme: model-support
@@ -81,7 +81,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2023-07-19 · ChatGPT · [[Changes/ChatGPT/2023-07-19-we-re-doubling-the-number-of-messages-chatgpt-plus-customers-can-send-with-gpt-4|Higher message limits for GPT-4]]
+- Earlier: 2023-07-21 · Ollama · [[Changes/Ollama/2023-07-21-3-model-support-changes-in-v0-0-11|3 Model Support changes in v0.0.11]]
 - Later: 2023-07-24 · Aider · [[Changes/Aider/2023-07-24-benchmarked-https-aider-chat-docs-benchmarks-html-at-64-7-for-gpt-4-diff-no-regr|Benchmarked((source link) at 64.7% for gpt-4/diff…]]
 <!-- chronolog:end -->
 

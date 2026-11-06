@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: e49c72bf576893b4acd88efffb0fb777f0c16f746cdc3bca19f661ac227a4520
+machine_hash: 7479f6bbe941e3193c91682faad84f1b7bbf0a1ac360bf32e4f717e8705abcf2
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -44,12 +44,9 @@ record:
   title: 2 Apps and Integrations changes in rust-v0.40.0
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2025-09-15-5-apps-and-integrations-changes-in-rust-v0-36-0|5
-  Apps and Integrations changes in rust-v0.36.0]]'
-- '[[Changes/Gemini CLI/2025-09-17-6-apps-and-integrations-changes-in-v0-5-3|6 Apps
-  and Integrations changes in v0.5.3]]'
-- '[[Changes/Cline/2025-09-20-feat-oca-ui-add-oca-provider-with-model-picker-and-auth-integration-by-nihar-ora|feat(oca-ui):
-  add OCA provider with model picker and auth integration]]'
+- '[[Changes/ElevenLabs/2025-09-22-python-sdk|Python SDK]]'
+- '[[Changes/ElevenLabs/2025-09-22-new-endpoints|New Endpoints]]'
+- '[[Changes/ElevenLabs/2025-09-22-sdk-releases|SDK Releases]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2025-09-23-rust-v0-40-0-github-249412506-64037925|codex-cli-2025-09-23-rust-v0-40-0-github-249412506-64037925]]'
 source_type: github_releases
 theme: apps-integrations
@@ -88,7 +85,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.40.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2025-09-20 · Cline · [[Changes/Cline/2025-09-20-feat-oca-ui-add-oca-provider-with-model-picker-and-auth-integration-by-nihar-ora|feat(oca-ui): add OCA provider with model picker and auth integration]]
+- Earlier: 2025-09-22 · ElevenLabs · [[Changes/ElevenLabs/2025-09-22-sdk-releases|SDK Releases]]
 - Later: 2025-09-24 · Gemini CLI · [[Changes/Gemini CLI/2025-09-24-5-apps-and-integrations-changes-in-v0-6-0|5 Apps and Integrations changes in v0.6.0]]
 <!-- chronolog:end -->
 

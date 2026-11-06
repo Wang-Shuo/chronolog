@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 266653248fb12a9a20d45b2773a3023bc373b609bedfbd4f8217d2983601f421
+machine_hash: 0027fbadc49a6744f1d1ac14173de74d112e0ff400180ffb288e8935af94576a
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -41,10 +41,10 @@ record:
   title: 2 Developer Workflow changes in v0.0.344
   type: change
 related_changes:
-- '[[Changes/Cline/2025-10-16-8-developer-workflow-changes-in-v3-33-0|8 Developer
-  Workflow changes in v3.33.0]]'
 - '[[Changes/GitHub Copilot CLI/2025-10-16-enabled-the-kitty-protocol-by-default-multi-line-input-is-now-supported-via-shif|Enabled
   the Kitty protocol by default]]'
+- "[[Changes/Open WebUI/2025-10-16-duplicate-html-content-in-artifacts-is-now-prevented-by-improving-code-block-det|\U0001F3A8
+  Duplicate HTML content in artifacts is now prevented by improving code block…]]"
 - '[[Changes/Codex CLI/2025-10-17-add-parsed-command-to-execapprovalrequestevent-5222|Add
   parsed command to ExecApprovalRequestEvent (♯5222)]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2025-10-18-v0-0-344-github-255475797-67bfc644|github-copilot-cli-2025-10-18-v0-0-344-github-255475797-67bfc644]]'
@@ -82,7 +82,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v0.0.344
 ## Nearby in Developer Workflow
 
 - Earlier: 2025-10-17 · Codex CLI · [[Changes/Codex CLI/2025-10-17-add-parsed-command-to-execapprovalrequestevent-5222|Add parsed command to ExecApprovalRequestEvent (♯5222)]]
-- Later: 2025-10-22 · Gemini CLI · [[Changes/Gemini CLI/2025-10-22-6-developer-workflow-changes-in-v0-10-0|6 Developer Workflow changes in v0.10.0]]
+- Later: 2025-10-22 · Dify · [[Changes/Dify/2025-10-22-chore-remove-pnpm-build-from-dev-setup-command-by-laipz8200-in-https-github-com|chore: remove pnpm build from dev-setup command]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

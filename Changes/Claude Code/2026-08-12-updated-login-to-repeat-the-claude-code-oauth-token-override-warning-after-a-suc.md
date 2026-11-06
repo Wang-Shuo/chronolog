@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 0475af0e74e4c388afff04293dbe1ed875545ba6fd8a742a39dd5c38becde5f9
+machine_hash: 51cc13d3d97d7f81df9c392b713dc03e982efa668eee24f8f9e433788ac43de3
 product: claude-code
 product_name: Claude Code
 record:
@@ -43,8 +43,7 @@ record:
     after…
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-08-07-8-account-and-access-changes-in-rust-v0-147-0|8
-  Account and Access changes in rust-v0.147.0]]'
+- '[[Changes/Replit/2026-08-07-build-with-sso|Build with SSO]]'
 - '[[Changes/Cline/2026-08-09-2-account-and-access-changes-in-v4-1-7|2 Account and
   Access changes in v4.1.7]]'
 - '[[Changes/GitHub Copilot CLI/2026-08-10-login-links-are-clickable-during-web-and-device-code-sign-in|Login

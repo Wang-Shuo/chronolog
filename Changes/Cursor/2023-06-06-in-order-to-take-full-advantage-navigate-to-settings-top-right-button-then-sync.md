@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: a08a1bc2dce9b86738a24b0290acc64385b496cbf085adb17299b9988224b027
+machine_hash: 390cab3cff36eeb3412eb248b26aa80fed943085c02f42817a39b473008d688a
 product: cursor
 product_name: Cursor
 record:
@@ -81,7 +81,7 @@ type: change
 ## Nearby in Editor Experience
 
 - Earlier: 2023-05-17 · Cursor · [[Changes/Cursor/2023-05-17-diff-generate-improvements|Diff/Generate improvements]]
-- Later: 2023-06-25 · Aider · [[Changes/Aider/2023-06-25-2-editor-experience-changes-in-v0-7-0|2 Editor Experience changes in v0.7.0]]
+- Later: 2023-06-21 · Dify · [[Changes/Dify/2023-06-21-dataset-supports-multi-file-uploads|📁 dataset supports multi-file uploads]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

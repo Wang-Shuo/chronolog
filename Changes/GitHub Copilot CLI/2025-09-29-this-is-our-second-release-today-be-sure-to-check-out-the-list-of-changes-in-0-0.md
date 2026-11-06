@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 0dfd21fc9b6832fc9fcce626a20b78d4bcea53b0657489a0cdc3d50eb57b441d
+machine_hash: 3cb346373cbd4a579246ff0c34afba5804af57c9f98ae939dab5f7f966e77180
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -46,9 +46,9 @@ record:
   title: This is our second release today -- be sure to check out [the list of changes…
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-09-29-1-7-4-shift-tab-shortcut-improvements|1.7.4: Shift+Tab
-  shortcut improvements]]'
 - '[[Changes/Cursor/2025-09-29-pr-summaries-from-bugbot|PR summaries from Bugbot]]'
+- '[[Changes/Dify/2025-09-29-2-editor-experience-changes-in-1-9-1|2 Editor Experience
+  changes in 1.9.1]]'
 - '[[Changes/GitHub Copilot CLI/2025-09-29-4-editor-experience-changes-in-v0-0-329|4
   Editor Experience changes in v0.0.329]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2025-09-29-v0-0-330-github-250925263-5db5a59a|github-copilot-cli-2025-09-29-v0-0-330-github-250925263-5db5a59a]]'
@@ -80,7 +80,7 @@ type: change
 ## Nearby in Editor Experience
 
 - Earlier: 2025-09-29 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2025-09-29-4-editor-experience-changes-in-v0-0-329|4 Editor Experience changes in v0.0.329]]
-- Later: 2025-10-01 · Gemini CLI · [[Changes/Gemini CLI/2025-10-01-4-editor-experience-changes-in-v0-7-0|4 Editor Experience changes in v0.7.0]]
+- Later: 2025-09-29 · Open WebUI · [[Changes/Open WebUI/2025-09-29-a-warning-is-now-displayed-in-the-user-edit-modal-if-conflicting-group-permissio|⚠️ A warning is now displayed in the user edit modal if conflicting group…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: dbf055e140aab0896553ff63df4d09db9bd3ee9c48c78ba0c3e941a1b3ab29ed
+machine_hash: f1a674d1ede53311bb0f63ad4cb9c69537421e64e20579ac6f0e1f6f040bee9f
 product: claude-code
 product_name: Claude Code
 record:
@@ -67,12 +67,11 @@ record:
   title: 8 Apps and Integrations changes in v2.1.284
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-25-14-apps-and-integrations-changes-in-v2-1-283|14
-  Apps and Integrations changes in v2.1.283]]'
-- '[[Changes/Codex CLI/2026-09-25-9-apps-and-integrations-changes-in-rust-v0-157-0|9
-  Apps and Integrations changes in rust-v0.157.0]]'
-- '[[Changes/OpenHands/2026-09-25-chore-deps-bump-openhands-extensions-to-0-24-0-by-devinvinson-in-https-github-co|chore(deps):
-  bump @openhands/extensions to 0.24.0]]'
+- '[[Changes/Replit/2026-09-25-build-and-test-airwallex-integrations|Build and test
+  Airwallex integrations]]'
+- '[[Changes/Replit/2026-09-25-create-replit-apps-through-muse|Create Replit apps
+  through Muse]]'
+- '[[Changes/Replit/2026-09-25-build-apps-for-meta-devices|Build apps for Meta devices]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-28-v2-1-284-github-398457074-cbb49e49|claude-code-2026-09-28-v2-1-284-github-398457074-cbb49e49]]'
 source_type: github_releases
 theme: apps-integrations
@@ -131,7 +130,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.284
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-09-25 · OpenHands · [[Changes/OpenHands/2026-09-25-chore-deps-bump-openhands-extensions-to-0-24-0-by-devinvinson-in-https-github-co|chore(deps): bump @openhands/extensions to 0.24.0]]
+- Earlier: 2026-09-25 · Replit · [[Changes/Replit/2026-09-25-build-apps-for-meta-devices|Build apps for Meta devices]]
 - Later: 2026-09-28 · Codex CLI · [[Changes/Codex CLI/2026-09-28-13-apps-and-integrations-changes-in-rust-v0-158-0|13 Apps and Integrations changes in rust-v0.158.0]]
 <!-- chronolog:end -->
 

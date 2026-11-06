@@ -10,12 +10,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 60773890e6d2c91673ab8b2941f36fb9301c2e8be665343c5b3fd91b5afc84ee
+machine_hash: 3f808522da976dda74caad3e3720ac1d397a55ed9f5c3a04cd3eb4b580fa14d4
 product: windsurf
 product_name: Windsurf
 record:
@@ -38,12 +38,12 @@ record:
   title: Restored conversation sharing
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-05-01-admins-can-now-create-a-team-marketplace-without-connecting-a-repository-first-a-b1834a|Admins
-  can now create a team marketplace without connecting a repository first]]'
 - '[[Changes/Codex CLI/2026-05-07-3-collaboration-changes-in-rust-v0-129-0|3 Collaboration
   changes in rust-v0.129.0]]'
 - '[[Changes/Cursor/2026-05-11-cursor-is-now-available-in-microsoft-teams|Cursor is
   now available in Microsoft Teams]]'
+- '[[Changes/v0/2026-05-15-snowflake-teams-with-multiple-accounts-can-pick-which-account-a-chat-connects-to|Snowflake
+  teams with multiple accounts can pick which account a chat connects…]]'
 source_release: '[[Releases/Windsurf/windsurf-2026-05-16-v2-3-9-a0bc6994|windsurf-2026-05-16-v2-3-9-a0bc6994]]'
 source_type: windsurf_changelog
 theme: collaboration
@@ -72,7 +72,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Collaboration
 
-- Earlier: 2026-05-11 · Cursor · [[Changes/Cursor/2026-05-11-cursor-is-now-available-in-microsoft-teams|Cursor is now available in Microsoft Teams]]
+- Earlier: 2026-05-15 · v0 · [[Changes/v0/2026-05-15-snowflake-teams-with-multiple-accounts-can-pick-which-account-a-chat-connects-to|Snowflake teams with multiple accounts can pick which account a chat connects…]]
 - Later: 2026-05-18 · Codex CLI · [[Changes/Codex CLI/2026-05-18-3-collaboration-changes-in-rust-v0-131-0|3 Collaboration changes in rust-v0.131.0]]
 <!-- chronolog:end -->
 

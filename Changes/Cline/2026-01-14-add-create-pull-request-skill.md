@@ -10,12 +10,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 362083011e026f0bd8f559c7f515ac06a8383510b391d93d75b450545c8cc23f
+machine_hash: 7e979cb5a3d36668a71cc5c9a5b0cec52f584153a1178934f278d728aee36744
 product: cline
 product_name: Cline
 record:
@@ -38,8 +38,8 @@ record:
   title: Add create-pull-request skill
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-01-13-3-developer-workflow-changes-in-v2-1-6|3 Developer
-  Workflow changes in v2.1.6]]'
+- '[[Changes/Dify/2026-01-13-5-developer-workflow-changes-in-1-11-3|5 Developer Workflow
+  changes in 1.11.3]]'
 - '[[Changes/GitHub Copilot CLI/2026-01-13-2-developer-workflow-changes-in-v0-0-380|2
   Developer Workflow changes in v0.0.380]]'
 - '[[Changes/GitHub Copilot CLI/2026-01-13-add-new-as-an-alias-for-clear-command|Add

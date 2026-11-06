@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 1a2ff98d252d8d78ccdc5e0c8f6335fd3d3ef7c33a1ea8e7abf68f18833b7895
+machine_hash: e81201b1ad97855342efb9e9e27d489399fd76fa4b3aa211d39a90d0527725e5
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,8 +45,8 @@ record:
   title: Changed a subagent's `autoCompactWindow` to lower the window set…
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-10-23-18-context-window-changes-in-rust-v0-164-0|18 Context
-  Window changes in rust-v0.164.0]]'
+- '[[Changes/Open WebUI/2026-10-25-4-context-window-changes-in-v0-12-4|4 Context Window
+  changes in v0.12.4]]'
 - '[[Changes/Claude Code/2026-10-26-2-context-window-changes-in-v2-1-311|2 Context
   Window changes in v2.1.311]]'
 - '[[Changes/Cline/2026-10-26-auto-compaction-no-longer-runs-for-models-with-an-unknown-context-limit-and-it-n|Auto-compaction

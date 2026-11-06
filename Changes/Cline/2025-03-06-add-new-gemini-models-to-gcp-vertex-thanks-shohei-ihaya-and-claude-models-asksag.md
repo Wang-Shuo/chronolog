@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 1c8d6832e329d1741798bc93483d279a5a05f49dd448de4beb52cc169877ab77
+machine_hash: 7425e78bacb91be710f5ebfaad9ec92a6af96992981715d1c9a5daf6bbf468a9
 product: cline
 product_name: Cline
 record:
@@ -46,12 +46,12 @@ record:
   title: Add new Gemini models to GCP Vertex (thanks @shohei-ihaya!) and Claude models…
   type: change
 related_changes:
-- '[[Changes/Cline/2025-03-01-add-enable-extended-thinking-option-for-claude-3-7-sonnet-with-ability-to-set-di|Add
-  ''Enable extended thinking'' option for Claude 3.7 Sonnet, with ability to set…]]'
 - '[[Changes/Cline/2025-03-03-add-gemini-flash-models-to-vertex-provider-thanks-jpaodev|Add
   Gemini Flash models to Vertex provider (thanks @jpaodev!)]]'
 - '[[Changes/Aider/2025-03-04-4-model-support-changes-in-v0-75-0|4 Model Support changes
   in v0.75.0]]'
+- '[[Changes/Open WebUI/2025-03-05-2-model-support-changes-in-v0-5-19|2 Model Support
+  changes in v0.5.19]]'
 source_release: '[[Releases/Cline/cline-2025-03-06-v3-6-0-github-204247296-85b4def6|cline-2025-03-06-v3-6-0-github-204247296-85b4def6]]'
 source_type: github_releases
 theme: model-support
@@ -80,8 +80,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2025-03-04 · Aider · [[Changes/Aider/2025-03-04-4-model-support-changes-in-v0-75-0|4 Model Support changes in v0.75.0]]
-- Later: 2025-03-07 · OpenHands · [[Changes/OpenHands/2025-03-07-default-version-of-claude-is-now-claude-3-7-sonnet-20250219-by-tofarr-in-https-g|Default version of Claude is now claude-3-7-sonnet-20250219]]
+- Earlier: 2025-03-05 · Open WebUI · [[Changes/Open WebUI/2025-03-05-2-model-support-changes-in-v0-5-19|2 Model Support changes in v0.5.19]]
+- Later: 2025-03-07 · Lovable · [[Changes/Lovable/2025-03-07-addressed-main-regressions-introduced-with-sonnet-3-7-https-lovable-dev-blog-ant|Addressed main regressions introduced with Sonnet…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

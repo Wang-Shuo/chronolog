@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 24d3b5ba6edf47730095be24acd4be1370cf10495d593c9b0c53ce7b1958341e
+machine_hash: e35142995b9a40f0786b0ae34547533a8592314f0dc47f3153e72080470442a2
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,12 +45,11 @@ record:
   title: 2 Apps and Integrations changes in v2.1.163
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-06-02-mcp-now-collapses-claude-ai-connectors-you-ve-never-signed-in-to-behind-a-show-u|/mcp
-  now collapses claude.ai connectors you''ve never signed in to behind…]]'
-- '[[Changes/Claude Code/2026-06-02-removed-the-jetbrains-plugin-install-suggestion-from-startup|Removed
-  the JetBrains plugin install suggestion from startup]]'
-- '[[Changes/Claude Code/2026-06-03-remote-control-now-shows-as-a-persistent-footer-pill-with-a-link-to-the-session|Remote
-  Control now shows as a persistent footer pill (with a link to the session)…]]'
+- '[[Changes/Lovable/2026-06-03-configure-who-can-create-app-connector-connections|Configure
+  who can create app connector connections]]'
+- '[[Changes/Lovable/2026-06-03-connector-sidebar|Connector sidebar]]'
+- '[[Changes/Lovable/2026-06-03-lovable-mcp-server-now-available-on-all-plans|Lovable
+  MCP server now available on all plans]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-06-04-v2-1-163-github-334509318-c6b9f988|claude-code-2026-06-04-v2-1-163-github-334509318-c6b9f988]]'
 source_type: github_releases
 theme: apps-integrations
@@ -89,7 +88,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.163
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-06-03 · Claude Code · [[Changes/Claude Code/2026-06-03-remote-control-now-shows-as-a-persistent-footer-pill-with-a-link-to-the-session|Remote Control now shows as a persistent footer pill (with a link to the session)…]]
+- Earlier: 2026-06-03 · Lovable · [[Changes/Lovable/2026-06-03-lovable-mcp-server-now-available-on-all-plans|Lovable MCP server now available on all plans]]
 - Later: 2026-06-04 · Codex CLI · [[Changes/Codex CLI/2026-06-04-19-apps-and-integrations-changes-in-rust-v0-137-0|19 Apps and Integrations changes in rust-v0.137.0]]
 <!-- chronolog:end -->
 

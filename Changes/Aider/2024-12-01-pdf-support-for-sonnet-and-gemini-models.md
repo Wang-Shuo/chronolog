@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: b020b20c8d6fb4d1b28e6e57b59df3eb4c379fb10c0f1443c45e67f83f354bd7
+machine_hash: 1bf68a1428b343f5fbe929b25e5caa9027c6ca0dd3943c50f354ace08369f1cb
 product: aider
 product_name: Aider
 record:
@@ -44,12 +44,12 @@ record:
   title: PDF support for Sonnet and Gemini models
   type: change
 related_changes:
-- '[[Changes/OpenHands/2024-11-15-add-a-general-utility-that-automatically-converts-function-calling-llm-requests|Add
-  a general utility that automatically converts function-calling LLM requests…]]'
-- '[[Changes/Aider/2024-11-21-7-model-support-changes-in-v0-64-0|7 Model Support changes
-  in v0.64.0]]'
-- '[[Changes/Aider/2024-11-26-added-alias-config-to-define-custom-model-aliases-https-aider-chat-docs-config-m|Added
-  --alias config to define custom model…]]'
+- "[[Changes/Open WebUI/2024-11-26-model-order-defaults-reintroduced-brought-back-the-ability-to-set-model-order-an|\U0001F3A8
+  Model Order/Defaults Reintroduced]]"
+- '[[Changes/Open WebUI/2024-11-27-model-configuration-modal-fixed-the-issue-where-the-models-configuration-modal-i|⚙️
+  Model Configuration Modal]]'
+- '[[Changes/Ollama/2024-11-28-2-model-support-changes-in-v0-4-6|2 Model Support changes
+  in v0.4.6]]'
 source_release: '[[Releases/Aider/aider-2024-12-01-v0-66-0-github-188357801-0e641110|aider-2024-12-01-v0-66-0-github-188357801-0e641110]]'
 source_type: github_releases
 theme: model-support
@@ -81,8 +81,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2024-11-26 · Aider · [[Changes/Aider/2024-11-26-added-alias-config-to-define-custom-model-aliases-https-aider-chat-docs-config-m|Added --alias config to define custom model…]]
-- Later: 2024-12-06 · Aider · [[Changes/Aider/2024-12-06-support-for-new-amazon-bedrock-nova-models|Support for new Amazon Bedrock Nova models]]
+- Earlier: 2024-11-28 · Ollama · [[Changes/Ollama/2024-11-28-2-model-support-changes-in-v0-4-6|2 Model Support changes in v0.4.6]]
+- Later: 2024-12-03 · Dify · [[Changes/Dify/2024-12-03-2-model-support-changes-in-0-13-0|2 Model Support changes in 0.13.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

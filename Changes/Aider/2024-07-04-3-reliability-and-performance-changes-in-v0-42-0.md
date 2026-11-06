@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 0b9161fda9100bffb759697c5f7c91c44317e30ccfd222d3dadec8f1ec83d702
+machine_hash: 89c7b07614a65bcd6ccd3ead5ae27527682ebe7442434d287b3cdd09df2e51d1
 product: aider
 product_name: Aider
 record:
@@ -44,12 +44,12 @@ record:
   title: 3 Reliability and Performance changes in v0.42.0
   type: change
 related_changes:
-- '[[Changes/Cursor/2024-05-03-update-0-33-1-0-33-3-fix-to-settings-toggles-fix-to-copilot-diffbox-performance|UPDATE
-  (0.33.1–0.33.3): Fix to settings toggles, fix to Copilot++ diffbox…]]'
-- '[[Changes/Cursor/2024-05-03-stability-this-build-fixes-a-connection-error-problem-that-was-consistently-affe|Stability:
-  This build fixes a connection error problem that was consistently…]]'
-- '[[Changes/Aider/2024-06-04-performance-improvements-the-repo-map-especially-in-large-repos|Performance
-  improvements the repo map, especially in large repos]]'
+- '[[Changes/Dify/2024-06-14-2-reliability-and-performance-changes-in-0-6-11|2 Reliability
+  and Performance changes in 0.6.11]]'
+- '[[Changes/Ollama/2024-06-22-3-reliability-and-performance-changes-in-v0-1-46|3
+  Reliability and Performance changes in v0.1.46]]'
+- '[[Changes/Ollama/2024-07-02-5-reliability-and-performance-changes-in-v0-2-0|5 Reliability
+  and Performance changes in v0.2.0]]'
 source_release: '[[Releases/Aider/aider-2024-07-04-v0-42-0-github-164022924-7cbc4811|aider-2024-07-04-v0-42-0-github-164022924-7cbc4811]]'
 source_type: github_releases
 theme: reliability-performance
@@ -82,8 +82,8 @@ Source: https://github.com/Aider-AI/aider/releases/tag/v0.42.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2024-06-04 · Aider · [[Changes/Aider/2024-06-04-performance-improvements-the-repo-map-especially-in-large-repos|Performance improvements the repo map, especially in large repos]]
-- Later: 2024-07-23 · Cursor · [[Changes/Cursor/2024-07-23-copilot-now-has-chunked-streaming-currently-in-beta-it-will-surface-edits-faster|Copilot++ now has chunked streaming (currently in Beta)!]]
+- Earlier: 2024-07-02 · Ollama · [[Changes/Ollama/2024-07-02-5-reliability-and-performance-changes-in-v0-2-0|5 Reliability and Performance changes in v0.2.0]]
+- Later: 2024-07-09 · Open WebUI · [[Changes/Open WebUI/2024-07-09-3-reliability-and-performance-changes-in-v0-3-8|3 Reliability and Performance changes in v0.3.8]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 24b43c8afedfd925aa1a732bcd3f310ea9c0ee1855c5250986ee13397464214a
+machine_hash: 51dd0ea8a6df8d095258521709c02443f84f763f8a7b8354b91734b5d2a90590
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -47,12 +47,12 @@ record:
   title: 3 Account and Access changes in rust-v0.107.0
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-02-26-2-account-and-access-changes-in-rust-v0-106-0|2
-  Account and Access changes in rust-v0.106.0]]'
 - '[[Changes/Gemini CLI/2026-02-27-3-account-and-access-changes-in-v0-31-0|3 Account
   and Access changes in v0.31.0]]'
 - '[[Changes/Claude Code/2026-02-28-added-manual-url-paste-fallback-during-mcp-oauth-authentication-if-the-automatic|Added
   manual URL paste fallback during MCP OAuth authentication]]'
+- '[[Changes/Open WebUI/2026-03-01-3-account-and-access-changes-in-v0-8-6|3 Account
+  and Access changes in v0.8.6]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-03-02-rust-v0-107-0-github-292187522-c29f3a8f|codex-cli-2026-03-02-rust-v0-107-0-github-292187522-c29f3a8f]]'
 source_type: github_releases
 theme: account-access
@@ -98,8 +98,8 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.107.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Account and Access
 
-- Earlier: 2026-02-28 · Claude Code · [[Changes/Claude Code/2026-02-28-added-manual-url-paste-fallback-during-mcp-oauth-authentication-if-the-automatic|Added manual URL paste fallback during MCP OAuth authentication]]
-- Later: 2026-03-05 · Claude Code · [[Changes/Claude Code/2026-03-05-2-account-and-access-changes-in-v2-1-69|2 Account and Access changes in v2.1.69]]
+- Earlier: 2026-03-01 · Open WebUI · [[Changes/Open WebUI/2026-03-01-3-account-and-access-changes-in-v0-8-6|3 Account and Access changes in v0.8.6]]
+- Later: 2026-03-04 · v0 · [[Changes/v0/2026-03-04-added-sign-in-dialog-on-public-chats-for-logged-out-users|Added sign-in dialog on public chats for logged-out users]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

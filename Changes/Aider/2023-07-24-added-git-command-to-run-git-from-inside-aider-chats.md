@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 20b151aecab661df75bb768905c1e254d0c5438c32be06a0d60441fe5eff8a3c
+machine_hash: 8eda9df4e3a34581e5e1d0a6edbb90c639a93a63a2509928b61f7d51975f5199
 product: aider
 product_name: Aider
 record:
@@ -42,9 +42,8 @@ record:
   title: Added `/git` command to run git from inside aider chats
   type: change
 related_changes:
-- '[[Changes/Cursor/2023-07-12-this-update-patches-search-cmd-win-shift-f-and-many-extensions-for-and-wsl-and-s|This
-  update patches search (Cmd/Win+Shift+F) and many extensions for and WSL and SSH
-  users]]'
+- '[[Changes/Dify/2023-07-18-feat-add-bash-before-entrypoint-sh-in-dockerfile-by-takatost-in-https-github-com|feat:
+  add bash before entrypoint.sh in Dockerfile]]'
 - '[[Changes/Aider/2023-07-22-2-developer-workflow-changes-in-v0-10-0|2 Developer
   Workflow changes in v0.10.0]]'
 - '[[Changes/Aider/2023-07-22-added-git-command-to-run-git-from-inside-aider-chats|Added

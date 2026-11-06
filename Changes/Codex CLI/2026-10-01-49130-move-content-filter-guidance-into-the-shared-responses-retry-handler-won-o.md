@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 570c6d5d229af6a264861da83056d7fc4f21948435bd42d73cedc5353c401bb8
+machine_hash: 392b63813107b5c05b54d72a4f3829c0d18c238c80b2407733f3b09070d06f25
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -94,7 +94,7 @@ type: change
 ## Nearby in Collaboration
 
 - Earlier: 2026-09-29 · Codex CLI · [[Changes/Codex CLI/2026-09-29-2-collaboration-changes-in-rust-v0-159-0|2 Collaboration changes in rust-v0.159.0]]
-- Later: 2026-10-07 · Codex CLI · [[Changes/Codex CLI/2026-10-07-2-collaboration-changes-in-rust-v0-161-0|2 Collaboration changes in rust-v0.161.0]]
+- Later: 2026-10-06 · v0 · [[Changes/v0/2026-10-06-personal-v0-accounts-are-now-team-workspaces-giving-everyone-access-to-v0-s-coll|Personal accounts are now team workspaces]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

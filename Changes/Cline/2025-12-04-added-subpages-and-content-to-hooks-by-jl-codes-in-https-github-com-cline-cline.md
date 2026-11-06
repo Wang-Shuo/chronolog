@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: bf98b39cac3f8be487d047f0f27addc3546844e0d7102ea0e3bd5d9c2161443f
+machine_hash: d260ed79a363a5f5deff7c51fe20600b00b0971d056995af2895c8d375981fe6
 product: cline
 product_name: Cline
 record:
@@ -43,12 +43,11 @@ record:
   title: added subpages and content to hooks
   type: change
 related_changes:
-- '[[Changes/Cline/2025-12-02-feat-cerebras-add-x-cerebras-3rd-party-integration-header-by-sebastiand-cerebras|feat(cerebras):
-  add X-Cerebras-3rd-Party-Integration header]]'
-- '[[Changes/Codex CLI/2025-12-02-3-apps-and-integrations-changes-in-rust-v0-64-0|3
-  Apps and Integrations changes in rust-v0.64.0]]'
 - '[[Changes/Gemini CLI/2025-12-02-9-apps-and-integrations-changes-in-v0-19-0|9 Apps
   and Integrations changes in v0.19.0]]'
+- '[[Changes/Open WebUI/2025-12-02-2-apps-and-integrations-changes-in-v0-6-41|2 Apps
+  and Integrations changes in v0.6.41]]'
+- '[[Changes/v0/2025-12-03-you-can-now-bring-your-own-mcps-to-v0|Bring your own MCPs]]'
 source_release: '[[Releases/Cline/cline-2025-12-04-v3-40-0-github-267309290-aef9a8dc|cline-2025-12-04-v3-40-0-github-267309290-aef9a8dc]]'
 source_type: github_releases
 theme: apps-integrations
@@ -81,7 +80,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2025-12-02 · Gemini CLI · [[Changes/Gemini CLI/2025-12-02-9-apps-and-integrations-changes-in-v0-19-0|9 Apps and Integrations changes in v0.19.0]]
+- Earlier: 2025-12-03 · v0 · [[Changes/v0/2025-12-03-you-can-now-bring-your-own-mcps-to-v0|Bring your own MCPs]]
 - Later: 2025-12-04 · Codex CLI · [[Changes/Codex CLI/2025-12-04-2-apps-and-integrations-changes-in-rust-v0-65-0|2 Apps and Integrations changes in rust-v0.65.0]]
 <!-- chronolog:end -->
 

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 059e7fe322d4d68559eef15b199e10ba2415e3feecebab200623b28efcbaca2f
+machine_hash: 5e8a02af604da7862eb703d3f4f70c3bde095c9a1aaf0f32cd1bc6b9842140b9
 product: claude-code
 product_name: Claude Code
 record:
@@ -41,12 +41,12 @@ record:
   title: 'Gateway: `/login` now supports Anthropic-operated public gateway endpoints'
   type: change
 related_changes:
-- '[[Changes/OpenHands/2026-07-08-feat-track-user-login-timestamps-by-saurya-in-https-github-com-openhands-openhan|feat:
-  track user login timestamps]]'
 - '[[Changes/ChatGPT/2026-07-09-we-re-deprecating-atlas-as-we-bring-browser-based-agentic-capabilities-into-chat|Retiring
   Atlas]]'
 - '[[Changes/Codex CLI/2026-07-09-5-account-and-access-changes-in-rust-v0-144-0|5
   Account and Access changes in rust-v0.144.0]]'
+- '[[Changes/Lovable/2026-07-09-workspace-invitations-expire-after-30-days|Workspace
+  invitations expire after 30 days]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-07-10-v2-1-206-github-351694341-0226036e|claude-code-2026-07-10-v2-1-206-github-351694341-0226036e]]'
 source_type: github_releases
 theme: account-access
@@ -79,7 +79,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Account and Access
 
-- Earlier: 2026-07-09 · Codex CLI · [[Changes/Codex CLI/2026-07-09-5-account-and-access-changes-in-rust-v0-144-0|5 Account and Access changes in rust-v0.144.0]]
+- Earlier: 2026-07-09 · Lovable · [[Changes/Lovable/2026-07-09-workspace-invitations-expire-after-30-days|Workspace invitations expire after 30 days]]
 - Later: 2026-07-10 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-07-10-2-account-and-access-changes-in-v1-0-70|2 Account and Access changes in v1.0.70]]
 <!-- chronolog:end -->
 

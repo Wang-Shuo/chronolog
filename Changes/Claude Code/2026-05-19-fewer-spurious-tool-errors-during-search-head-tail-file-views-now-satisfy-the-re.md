@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: e55d658f6579a0247927be0824aa9b711d2d08802d747795898792ce5f67fb7d
+machine_hash: 31a426c4eb90a06495df030731f42d9c0aa9852727acb92c0eb10f4b702adc25
 product: claude-code
 product_name: Claude Code
 record:
@@ -49,12 +49,11 @@ record:
   title: Fewer spurious tool errors during search
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-05-13-improved-pr-tabs-by-adding-clearer-review-states-better-reviewer-thread-visibili|Improved
-  PR tabs by adding clearer review states, better reviewer/thread visibility…]]'
-- '[[Changes/Claude Code/2026-05-15-bg-and-detach-now-preserve-allow-dangerously-skip-permissions-so-the-forked-work|/bg
-  and ←-detach now preserve --allow-dangerously-skip-permissions…]]'
+- '[[Changes/v0/2026-05-15-reloading-the-preview-iframe-in-safari-shows-the-open-preview-in-new-tab-message|Reloading
+  the preview iframe in Safari shows the "Open preview in new tab" message…]]'
 - '[[Changes/Codex CLI/2026-05-18-21954-fix-goal-update-and-add-goal-edit-command-in-tui-etraut-openai|♯21954
   Fix goal update and add /goal edit command in TUI @etraut-openai]]'
+- '[[Changes/Lovable/2026-05-18-seo-and-ai-search|SEO and AI search]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-05-19-v2-1-144-github-324524751-1469637a|claude-code-2026-05-19-v2-1-144-github-324524751-1469637a]]'
 source_type: github_releases
 theme: editor-experience
@@ -93,8 +92,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2026-05-18 · Codex CLI · [[Changes/Codex CLI/2026-05-18-21954-fix-goal-update-and-add-goal-edit-command-in-tui-etraut-openai|♯21954 Fix goal update and add /goal edit command in TUI @etraut-openai]]
-- Later: 2026-05-19 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-05-19-file-diffs-are-correctly-reported-to-acp-clients-for-all-edit-tool-types|File diffs are correctly reported to ACP clients for all edit tool types]]
+- Earlier: 2026-05-18 · Lovable · [[Changes/Lovable/2026-05-18-seo-and-ai-search|SEO and AI search]]
+- Later: 2026-05-19 · Dify · [[Changes/Dify/2026-05-19-feat-messagelogmodal-refactor-modal-structure-and-improve-tab-handling-by-coding|feat(MessageLogModal): refactor modal structure and improve tab handling]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

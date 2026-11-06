@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: fa1294275bbb25b02c16cb3cb020f84079fd33ab797af9260f05de752f74d2bf
+machine_hash: 5e4b4a91a8fc8c6afa4a1e25a0d451c5779c6f69e43c369652e5f38cc1cf09a5
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -44,11 +44,11 @@ record:
   title: 'feat(agent): Introduce Foundational Subagent Architecture'
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-08-06-sidebar-for-all-agents|Sidebar for all Agents]]'
-- '[[Changes/Cursor/2025-08-06-sending-messages-while-cursor-is-working-now-does-a-better-job-of-steering-the-a|More
-  Agent steerability]]'
 - '[[Changes/Gemini CLI/2025-08-06-6-agent-mode-changes-in-v0-1-18|6 Agent Mode changes
   in v0.1.18]]'
+- '[[Changes/ElevenLabs/2025-08-11-agents-platform|Agents Platform]]'
+- '[[Changes/Lovable/2025-08-11-agent-mode-is-the-new-default-mode|Agent Mode is the
+  new default mode]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2025-08-12-v0-1-19-github-239452049-c4d9f679|gemini-cli-2025-08-12-v0-1-19-github-239452049-c4d9f679]]'
 source_type: github_releases
 theme: agent-mode
@@ -88,7 +88,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2025-08-06 · Gemini CLI · [[Changes/Gemini CLI/2025-08-06-6-agent-mode-changes-in-v0-1-18|6 Agent Mode changes in v0.1.18]]
+- Earlier: 2025-08-11 · Lovable · [[Changes/Lovable/2025-08-11-agent-mode-is-the-new-default-mode|Agent Mode is the new default mode]]
 - Later: 2025-08-13 · OpenHands · [[Changes/OpenHands/2025-08-13-enhanced-the-cli-interface-by-adding-proper-markdown-rendering-for-agent-message|Enhanced the CLI interface by adding proper markdown rendering for agent messages…]]
 <!-- chronolog:end -->
 

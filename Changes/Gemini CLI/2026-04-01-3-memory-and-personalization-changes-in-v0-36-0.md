@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: memory
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: e5f86a3c44c32c719a7d8d877dd4244131d779c28d64b0746883ce7f1a2cb012
+machine_hash: cfe46c550a1580498b38362d8f8f183ea1090a7eb1c5b6aaab5051ed08a142d1
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -47,10 +47,10 @@ record:
   title: 3 Memory and Personalization changes in v0.36.0
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2026-03-24-refactor-core-align-jit-memory-placement-with-tiered-context-model-by-sandytao52|refactor(core):
-  align JIT memory placement with tiered context model]]'
 - '[[Changes/Codex CLI/2026-03-26-15175-chore-morpheus-does-not-generate-memories-jif-oai|♯15175
   chore: morpheus does not generate memories @jif-oai]]'
+- '[[Changes/Gemini/2026-03-26-make-the-switch-seamlessly-bring-your-ai-memories-and-chat-history-to-gemini|Make
+  the switch: Seamlessly bring your AI memories and chat history to Gemini]]'
 - '[[Changes/Claude Code/2026-03-27-memory-filenames-in-the-saved-n-memories-notice-now-highlight-on-hover-and-open|Memory
   filenames in the "Saved N memories" notice now highlight on hover and open on click]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2026-04-01-v0-36-0-github-304395807-bc719eb1|gemini-cli-2026-04-01-v0-36-0-github-304395807-bc719eb1]]'

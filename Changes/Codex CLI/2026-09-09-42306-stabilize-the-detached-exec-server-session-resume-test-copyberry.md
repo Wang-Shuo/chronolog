@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: projects-workspaces
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: f22f2485e3836f843940ac29aab1b298776efc07b30c1ea1e7b66744a869afe8
+machine_hash: 32e575acb9f9ba2661dbeb4bae42a40eaabcccc983f45569960db081a4085a28
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -43,8 +43,7 @@ record:
   title: '#42306 Stabilize the detached exec-server session resume test @copyberry'
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-07-21-33201-branch-conversations-when-editing-earlier-tui-prompts-copyberry|♯33201
-  Branch conversations when editing earlier TUI prompts @copyberry]]'
+- '[[Changes/Replit/2026-07-31-a-rebuilt-usage-page|A rebuilt usage page]]'
 - '[[Changes/GitHub Copilot CLI/2026-08-10-a-failed-session-history-load-no-longer-leaves-the-timeline-permanently-empty-th|A
   failed session-history load no longer leaves the timeline permanently empty]]'
 - '[[Changes/Codex CLI/2026-09-03-42140-https-github-com-openai-codex-pull-42140-add-redo-support-to-vim-composer|♯42140((source

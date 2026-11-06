@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 4c5ca5f35c2aefb79b665174ee2c56493364bb0b18c9261ed2ebaa8d92a5c90e
+machine_hash: e119fbe26b783ca72a5d97db584cfe57b91281ee31567ec15addcad0cc0d4992
 product: aider
 product_name: Aider
 record:
@@ -42,12 +42,12 @@ record:
   title: Improved unicode encoding for `/run` command output, by @ctoth
   type: change
 related_changes:
-- '[[Changes/Aider/2023-10-18-2-developer-workflow-changes-in-v0-14-2|2 Developer
-  Workflow changes in v0.14.2]]'
-- '[[Changes/Aider/2023-10-20-3-developer-workflow-changes-in-v0-15-0|3 Developer
-  Workflow changes in v0.15.0]]'
-- '[[Changes/Cursor/2023-10-20-also-there-s-an-experimental-bash-mode-enable-it-in-the-settings-and-let-the-cha|Also,
-  there''s an experimental bash mode]]'
+- '[[Changes/Ollama/2023-12-08-linewrap-now-works-when-resizing-the-terminal-with-ollama-run|Linewrap
+  now works when resizing the terminal with ollama run]]'
+- '[[Changes/Dify/2023-12-19-2-developer-workflow-changes-in-0-3-34|2 Developer Workflow
+  changes in 0.3.34]]'
+- '[[Changes/Ollama/2024-01-03-added-shortcuts-help-command-to-ollama-run-to-list-keyboard-shortcuts|Added
+  /? shortcuts help command to ollama run to list keyboard shortcuts]]'
 source_release: '[[Releases/Aider/aider-2024-01-04-v0-20-0-github-135845423-1a95dda2|aider-2024-01-04-v0-20-0-github-135845423-1a95dda2]]'
 source_type: github_releases
 theme: developer-workflow
@@ -77,7 +77,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2023-10-20 · Cursor · [[Changes/Cursor/2023-10-20-also-there-s-an-experimental-bash-mode-enable-it-in-the-settings-and-let-the-cha|Also, there's an experimental bash mode]]
+- Earlier: 2024-01-03 · Ollama · [[Changes/Ollama/2024-01-03-added-shortcuts-help-command-to-ollama-run-to-list-keyboard-shortcuts|Added /? shortcuts help command to ollama run to list keyboard shortcuts]]
 - Later: 2024-01-06 · Cursor · [[Changes/Cursor/2024-01-06-wsl-and-dev-containers-should-now-work-properly|Better Remote Support]]
 <!-- chronolog:end -->
 

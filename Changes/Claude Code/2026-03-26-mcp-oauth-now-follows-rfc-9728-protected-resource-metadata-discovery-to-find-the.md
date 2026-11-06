@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: ee35302a5695f5ac4e3716df563dc0e197ed6de9cd5f9047160ef96078a96363
+machine_hash: 39866dcaa714b1efa906a2091d3a1712558060d9cdc0c64a7799a9ff328831a8
 product: claude-code
 product_name: Claude Code
 record:
@@ -52,12 +52,12 @@ record:
   title: MCP OAuth now follows RFC 9728 Protected Resource Metadata discovery to find…
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-03-20-login-device-flow-works-correctly-in-codespaces-and-remote-terminal-environments|/login
-  device flow works correctly in Codespaces and remote terminal environments]]'
 - '[[Changes/GitHub Copilot CLI/2026-03-23-mcp-oauth-authentication-works-with-mcp-servers-like-the-atlassian-rovo-mcp-serv|MCP
   OAuth authentication works with MCP servers like the Atlassian Rovo MCP Server…]]'
 - '[[Changes/Gemini CLI/2026-03-24-docs-core-add-authentication-guide-for-remote-subagents-by-adamfweidman-in-https|docs(core):
   add authentication guide for remote subagents]]'
+- '[[Changes/Open WebUI/2026-03-25-11-account-and-access-changes-in-v0-8-11|11 Account
+  and Access changes in v0.8.11]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-03-26-v2-1-85-github-302129484-6eb9dcd7|claude-code-2026-03-26-v2-1-85-github-302129484-6eb9dcd7]]'
 source_type: github_releases
 theme: account-access
@@ -93,7 +93,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Account and Access
 
-- Earlier: 2026-03-24 · Gemini CLI · [[Changes/Gemini CLI/2026-03-24-docs-core-add-authentication-guide-for-remote-subagents-by-adamfweidman-in-https|docs(core): add authentication guide for remote subagents]]
+- Earlier: 2026-03-25 · Open WebUI · [[Changes/Open WebUI/2026-03-25-11-account-and-access-changes-in-v0-8-11|11 Account and Access changes in v0.8.11]]
 - Later: 2026-03-26 · Codex CLI · [[Changes/Codex CLI/2026-03-26-4-account-and-access-changes-in-rust-v0-117-0|4 Account and Access changes in rust-v0.117.0]]
 <!-- chronolog:end -->
 

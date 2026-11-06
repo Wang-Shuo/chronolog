@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: ed91cdbedff47996acd1bc4ee8d33e41dfb5948a0d9f1a00eb0c5c5a898d0313
+machine_hash: 29d976735f3ff68f35742b479c867e95dff8087c8aae3de284dcdb5e3f742ca2
 product: cline
 product_name: Cline
 record:
@@ -44,10 +44,9 @@ record:
   title: 3 Apps and Integrations changes in v3.34.0
   type: change
 related_changes:
-- '[[Changes/Windsurf/2025-10-17-improved-diagnostics-for-third-party-extensions|Improved
-  diagnostics for third party extensions]]'
-- '[[Changes/GitHub Copilot CLI/2025-10-18-enabled-github-mcp-server-in-prompt-mode|Enabled
-  GitHub MCP server in prompt mode]]'
+- '[[Changes/ElevenLabs/2025-10-20-sdk-releases|SDK Releases]]'
+- '[[Changes/Dify/2025-10-22-12-apps-and-integrations-changes-in-1-9-2|12 Apps and
+  Integrations changes in 1.9.2]]'
 - '[[Changes/Gemini CLI/2025-10-22-7-apps-and-integrations-changes-in-v0-10-0|7 Apps
   and Integrations changes in v0.10.0]]'
 source_release: '[[Releases/Cline/cline-2025-10-23-v3-34-0-github-256544591-4e449228|cline-2025-10-23-v3-34-0-github-256544591-4e449228]]'

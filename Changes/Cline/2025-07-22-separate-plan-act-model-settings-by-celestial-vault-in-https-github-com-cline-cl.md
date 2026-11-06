@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 8fd7c67e75ea04a4eb70fd0ccef6fba8a26271c8a7b680bc7fab7ae1fdc4e107
+machine_hash: d6c10f65579dc7970f7c978fc0e9fcbb86b3f9e8d711fa89de3b1c9b1086319a
 product: cline
 product_name: Cline
 record:
@@ -43,12 +43,12 @@ record:
   title: Separate plan act model settings
   type: change
 related_changes:
-- '[[Changes/OpenHands/2025-07-16-added-openhands-provider-for-llm-through-openhands-cloud-by-xingyaoww-in-https-g|Added
-  OpenHands provider for LLM through OpenHands Cloud]]'
 - '[[Changes/Codex CLI/2025-07-19-as-of-https-github-com-openai-codex-pull-1594-we-now-stream-the-response-from-th|As
   of (source link) we now stream the response…]]'
 - '[[Changes/Gemini CLI/2025-07-19-4-model-support-changes-in-v0-1-13|4 Model Support
   changes in v0.1.13]]'
+- "[[Changes/Open WebUI/2025-07-19-chat-id-header-forwarding-ollama-and-openai-router-requests-now-include-the-chat|\U0001F4E1
+  Chat ID Header Forwarding]]"
 source_release: '[[Releases/Cline/cline-2025-07-22-v3-19-8-github-234341731-78a40b25|cline-2025-07-22-v3-19-8-github-234341731-78a40b25]]'
 source_type: github_releases
 theme: model-support
@@ -83,7 +83,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2025-07-19 · Gemini CLI · [[Changes/Gemini CLI/2025-07-19-4-model-support-changes-in-v0-1-13|4 Model Support changes in v0.1.13]]
+- Earlier: 2025-07-19 · Open WebUI · [[Changes/Open WebUI/2025-07-19-chat-id-header-forwarding-ollama-and-openai-router-requests-now-include-the-chat|📡 Chat ID Header Forwarding]]
 - Later: 2025-07-23 · Cline · [[Changes/Cline/2025-07-23-adding-support-for-new-models-qwen-3-models-on-qwen-provider-by-arafatkatze-in-h|Adding support for new models Qwen 3 models on Qwen provider]]
 <!-- chronolog:end -->
 

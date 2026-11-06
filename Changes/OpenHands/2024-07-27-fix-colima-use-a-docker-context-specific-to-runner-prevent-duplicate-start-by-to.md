@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: e006dafb91caeac5479543234bc9c960d5dc09e1e471a7f24ae243c1ecce24e7
+machine_hash: 1d3fb64b0128a865f64d47992b1954d820263947794246ecd8052f783bef8730
 product: openhands
 product_name: OpenHands
 record:
@@ -43,12 +43,12 @@ record:
     start'
   type: change
 related_changes:
-- '[[Changes/Cursor/2024-06-08-adds-context-pills-to-chat-messages-so-you-can-see-what-will-be-was-used-a324a3|Adds
-  context pills to chat messages, so you can see what will be/was used]]'
-- '[[Changes/Aider/2024-06-17-2-context-window-changes-in-v0-38-0|2 Context Window
-  changes in v0.38.0]]'
 - '[[Changes/Aider/2024-06-24-improved-error-info-for-token-limit-errors|Improved
   error info for token limit errors]]'
+- '[[Changes/Ollama/2024-07-21-mistral-nemo-https-ollama-com-library-mistral-nemo-a-state-of-the-art-12b-model|Mistral
+  Nemo((source link) A state-of-the-art 12B…]]'
+- '[[Changes/Ollama/2024-07-25-mistral-large-2-https-ollama-com-library-mistral-large-mistral-s-new-123b-flagsh|Mistral
+  Large 2((source link)]]'
 source_release: '[[Releases/OpenHands/openhands-2024-07-27-0-8-2-github-167485944-4c47e7ce|openhands-2024-07-27-0-8-2-github-167485944-4c47e7ce]]'
 source_type: github_releases
 theme: context-window
@@ -82,7 +82,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Context Window
 
-- Earlier: 2024-06-24 · Aider · [[Changes/Aider/2024-06-24-improved-error-info-for-token-limit-errors|Improved error info for token limit errors]]
+- Earlier: 2024-07-25 · Ollama · [[Changes/Ollama/2024-07-25-mistral-large-2-https-ollama-com-library-mistral-large-mistral-s-new-123b-flagsh|Mistral Large 2((source link)]]
 - Later: 2024-07-28 · Cline · [[Changes/Cline/2024-07-28-updated-max-output-tokens-to-8192-so-less-lazy-coding-rest-of-code-here|Updated max output tokens to 8192 so less lazy coding (// rest of code here...)]]
 <!-- chronolog:end -->
 

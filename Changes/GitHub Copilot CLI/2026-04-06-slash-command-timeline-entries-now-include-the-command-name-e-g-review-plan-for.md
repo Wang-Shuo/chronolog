@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: a8baa287c3a460ea65bdd3a03c964ce2483c2147cfd64a0da71754cb82809cb8
+machine_hash: 59ccc732c72371d06b6830ca6cc760a6e76581deb17b548c49b84833779c39b3
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -43,10 +43,9 @@ record:
     "Plan")…
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2026-04-01-feat-core-cap-jit-context-upward-traversal-at-git-root-by-sandytao520-in-https-g|feat(core):
-  cap JIT context upward traversal at git root]]'
 - '[[Changes/Claude Code/2026-04-02-2-context-window-changes-in-v2-1-91|2 Context
   Window changes in v2.1.91]]'
+- '[[Changes/Lovable/2026-04-02-image-tools|Image tools]]'
 - '[[Changes/Claude Code/2026-04-04-pro-users-now-see-a-footer-hint-when-returning-to-a-session-after-the-prompt-cac|Pro
   users now see a footer hint when returning to a session after the prompt cache…]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-04-06-v1-0-19-github-305837484-a9d8ae9e|github-copilot-cli-2026-04-06-v1-0-19-github-305837484-a9d8ae9e]]'

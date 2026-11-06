@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 94eddba0accb1cf24a790db3b03b6a54ec84e719afca662d1f1bb756a90d388f
+machine_hash: fc11e6f3b48719ae2af0118731da150437c7533537a279a6bd3dca58f881aea9
 product: aider
 product_name: Aider
 record:
@@ -54,12 +54,12 @@ record:
   title: 6 Model Support changes in v0.78.0
   type: change
 related_changes:
-- '[[Changes/Aider/2025-03-13-added-reasoning-effort-command-to-control-model-reasoning-level|Added
-  /reasoning-effort command to control model reasoning level]]'
-- '[[Changes/ChatGPT/2025-03-18-o1-and-o3-mini-now-offer-python-powered-data-analysis-in-chatgpt-you-can-now-ask-bfa530|o1
-  and o3-mini now offer Python-powered data analysis in ChatGPT]]'
+- '[[Changes/Dify/2025-03-18-2-model-support-changes-in-1-1-0|2 Model Support changes
+  in 1.1.0]]'
 - '[[Changes/OpenHands/2025-03-18-make-microagents-available-in-the-event-stream-as-recall-observations-accessible|Make
   microagents available in the event stream as recall observations…]]'
+- '[[Changes/Dify/2025-03-20-2-model-support-changes-in-1-1-1|2 Model Support changes
+  in 1.1.1]]'
 source_release: '[[Releases/Aider/aider-2025-03-21-v0-78-0-github-207521806-fc6d03b9|aider-2025-03-21-v0-78-0-github-207521806-fc6d03b9]]'
 source_type: github_releases
 theme: model-support
@@ -103,7 +103,7 @@ Source: https://github.com/Aider-AI/aider/releases/tag/v0.78.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2025-03-18 · OpenHands · [[Changes/OpenHands/2025-03-18-make-microagents-available-in-the-event-stream-as-recall-observations-accessible|Make microagents available in the event stream as recall observations…]]
+- Earlier: 2025-03-20 · Dify · [[Changes/Dify/2025-03-20-2-model-support-changes-in-1-1-1|2 Model Support changes in 1.1.1]]
 - Later: 2025-03-23 · Cursor · [[Changes/Cursor/2025-03-23-2-model-support-changes-in-0-48-x|2 Model Support changes in 0.48.x]]
 <!-- chronolog:end -->
 

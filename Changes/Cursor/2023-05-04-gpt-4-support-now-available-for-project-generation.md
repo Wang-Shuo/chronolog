@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 4526cc1e23adcc9e12749d269eecad338d2fc327d107e56d6a03ee7acfd42e96
+machine_hash: 6ac4ab8038b39ef3ac9125b0ffed1600f0decfabc91145df76d832b6889f2855
 product: cursor
 product_name: Cursor
 record:
@@ -82,7 +82,7 @@ type: change
 ## Nearby in Model Support
 
 - Earlier: 2023-05-03 · ChatGPT · [[Changes/ChatGPT/2023-05-03-we-are-deprecating-the-legacy-gpt-3-5-model-on-may-10th-users-will-be-able-to-co|We are deprecating the Legacy (GPT-3.5) model on May 10th]]
-- Later: 2023-05-20 · Cursor · [[Changes/Cursor/2023-05-20-upgrades-to-gpt-4-e59675|Upgrades to GPT-4]]
+- Later: 2023-05-15 · Gemini · [[Changes/Gemini/2023-05-15-more-concise-summaries|More concise summaries]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

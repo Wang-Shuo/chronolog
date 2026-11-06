@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 1243847bb6e170e38a607dc4f7cb11e1b870442b83e67eec5e58b21f259400ac
+machine_hash: bc8746c4674525fe7085db6d2bb04759edf2de07c9bcf434b102dbc495aaf9d7
 product: claude-code
 product_name: Claude Code
 record:
@@ -66,11 +66,12 @@ record:
   title: 7 Apps and Integrations changes in v2.1.300
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-10-13-2-apps-and-integrations-changes-in-origin-app-marketplace|2
-  Apps and Integrations changes in Origin App Marketplace]]'
-- '[[Changes/Cursor/2026-10-13-apps-for-your-stack|Apps for your stack]]'
+- '[[Changes/Gemini/2026-10-13-an-easier-way-to-customize-how-gemini-works-for-you-and-more-connected-apps|An
+  easier way to customize how Gemini works for you and more connected apps]]'
 - '[[Changes/GitHub Copilot CLI/2026-10-13-4-apps-and-integrations-changes-in-v1-0-97|4
   Apps and Integrations changes in v1.0.97]]'
+- '[[Changes/Lovable/2026-10-13-approve-every-tool-from-a-chat-connector-at-once|Approve
+  every tool from a chat connector at once]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-10-14-v2-1-300-github-412815061-c358fcd0|claude-code-2026-10-14-v2-1-300-github-412815061-c358fcd0]]'
 source_type: github_releases
 theme: apps-integrations
@@ -124,7 +125,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.300
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-10-13 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-10-13-4-apps-and-integrations-changes-in-v1-0-97|4 Apps and Integrations changes in v1.0.97]]
+- Earlier: 2026-10-13 · Lovable · [[Changes/Lovable/2026-10-13-approve-every-tool-from-a-chat-connector-at-once|Approve every tool from a chat connector at once]]
 - Later: 2026-10-14 · Claude Code · [[Changes/Claude Code/2026-10-14-19-apps-and-integrations-changes-in-v2-1-299|19 Apps and Integrations changes in v2.1.299]]
 <!-- chronolog:end -->
 

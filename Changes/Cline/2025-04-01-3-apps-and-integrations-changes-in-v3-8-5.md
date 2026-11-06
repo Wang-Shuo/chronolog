@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 52e17fdcf15ca4fa4ee5471ca77bc622e923b67d9d9f566f135df8c1ac00a86d
+machine_hash: e45a5dcf810304e4c50399a13106f8d0dd6e2d0282cb0663463f2676ed1c233e
 product: cline
 product_name: Cline
 record:
@@ -44,8 +44,8 @@ record:
   title: 3 Apps and Integrations changes in v3.8.5
   type: change
 related_changes:
-- '[[Changes/Aider/2025-03-21-added-git-commit-verify-flag-default-false-to-control-whether-git-commit-hooks-a|Added
-  --git-commit-verify flag (default]]'
+- '[[Changes/Dify/2025-03-21-github-plugin-installation-resolved-an-import-dsl-issue-that-blocked-the-install|GitHub
+  Plugin Installation]]'
 - '[[Changes/Cline/2025-03-23-2-apps-and-integrations-changes-in-v3-8-0|2 Apps and
   Integrations changes in v3.8.0]]'
 - '[[Changes/Cursor/2025-03-23-3-apps-and-integrations-changes-in-0-48-x|3 Apps and
@@ -87,7 +87,7 @@ Source: https://github.com/cline/cline/releases/tag/v3.8.5
 ## Nearby in Apps and Integrations
 
 - Earlier: 2025-03-23 · Cursor · [[Changes/Cursor/2025-03-23-3-apps-and-integrations-changes-in-0-48-x|3 Apps and Integrations changes in 0.48.x]]
-- Later: 2025-04-02 · Windsurf · [[Changes/Windsurf/2025-04-02-misc|Misc]]
+- Later: 2025-04-01 · Open WebUI · [[Changes/Open WebUI/2025-04-01-2-apps-and-integrations-changes-in-v0-6-0|2 Apps and Integrations changes in v0.6.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

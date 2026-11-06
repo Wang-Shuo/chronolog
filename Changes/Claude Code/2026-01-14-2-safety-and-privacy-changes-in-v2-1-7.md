@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 4ce9fd39e6f291e2b7a08de9ebd897cb65a50de35d4710b39965e1f83e79eab4
+machine_hash: e81624c3d915925f8f34bfbbfc9fa6225cd5d5801531a3b70b51b693df255d1f
 product: claude-code
 product_name: Claude Code
 record:
@@ -43,10 +43,10 @@ record:
   title: 2 Safety and Privacy changes in v2.1.7
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-01-09-2-safety-and-privacy-changes-in-rust-v0-80-0|2 Safety
-  and Privacy changes in rust-v0.80.0]]'
 - '[[Changes/Claude Code/2026-01-13-fixed-permission-bypass-via-shell-line-continuation-that-could-allow-blocked-com|Fixed
   permission bypass via shell line continuation that could allow blocked…]]'
+- '[[Changes/Dify/2026-01-13-5-safety-and-privacy-changes-in-1-11-3|5 Safety and Privacy
+  changes in 1.11.3]]'
 - '[[Changes/GitHub Copilot CLI/2026-01-13-provide-inline-feedback-when-rejecting-tool-permission-requests-so-agents-don-t|Provide
   inline feedback when rejecting tool permission requests so agents don''t have…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-01-14-v2-1-7-github-276555327-bf21dc80|claude-code-2026-01-14-v2-1-7-github-276555327-bf21dc80]]'

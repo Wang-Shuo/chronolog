@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 5d69a173591eb61163ecdfbe5dda0f3a981abac49ad3b4371a8917f0630286f1
+machine_hash: 381025539e4948e9071d8003b14a9e0f50657297cb871a475fe88c4581c45090
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -63,10 +63,10 @@ record:
   title: Introducing GPTs
   type: change
 related_changes:
-- '[[Changes/Cursor/2023-09-11-we-serve-extensions-now-using-cursor-s-extension-marketplace|Cursor
-  Marketplace]]'
 - '[[Changes/Cursor/2023-09-17-we-point-to-a-different-marketplace-for-downloading-extensions-and-use-a-fork-of|Cursor
   Python and Cursor Marketplace]]'
+- '[[Changes/Gemini/2023-09-19-bard-can-now-access-helpful-information-from-google-apps-and-services|Bard
+  can now access helpful information from Google apps and services]]'
 - '[[Changes/Cursor/2023-10-20-cursor-is-now-based-on-vs-code-1-83-1-this-ensures-that-the-newest-versions-of-a|Cursor
   is now based on VS Code 1.83.1]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2023-11-06-introducing-gpts-3721c457|chatgpt-2023-11-06-introducing-gpts-3721c457]]'
@@ -96,7 +96,7 @@ type: change
 ## Nearby in Apps and Integrations
 
 - Earlier: 2023-10-20 · Cursor · [[Changes/Cursor/2023-10-20-cursor-is-now-based-on-vs-code-1-83-1-this-ensures-that-the-newest-versions-of-a|Cursor is now based on VS Code 1.83.1]]
-- Later: 2023-11-15 · Cursor · [[Changes/Cursor/2023-11-15-now-based-on-vs-code-1-84-2-notably-this-fixes-a-few-notebook-bugs-and-ensures-t|New upstream]]
+- Later: 2023-11-13 · Dify · [[Changes/Dify/2023-11-13-2-apps-and-integrations-changes-in-0-3-30|2 Apps and Integrations changes in 0.3.30]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

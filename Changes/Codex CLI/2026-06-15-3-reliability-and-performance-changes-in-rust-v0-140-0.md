@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 62e75f85783febe36f2aa014a4167dec4aafd88c93f391d5d63bd41b37e5cb68
+machine_hash: 0d842d2a81eee284076d1cb5c5e9b5048872a3778f0b51df2746f42e5cad663e
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -46,10 +46,10 @@ record:
   title: 3 Reliability and Performance changes in rust-v0.140.0
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-06-10-the-average-review-time-for-bugbot-is-now-90-seconds-down-from-5-minutes-bugbot-362593|The
-  average review time for Bugbot is now ~90 seconds, down from ~5 minutes]]'
 - '[[Changes/Claude Code/2026-06-12-2-reliability-and-performance-changes-in-v2-1-176|2
   Reliability and Performance changes in v2.1.176]]'
+- '[[Changes/Replit/2026-06-12-faster-slide-import-and-export|Faster slide import
+  and export]]'
 - '[[Changes/GitHub Copilot CLI/2026-06-13-speed-up-branch-and-head-detection-in-warm-sessions|Speed
   up branch and HEAD detection in warm sessions]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-06-15-rust-v0-140-0-github-339797498-eb64f8cb|codex-cli-2026-06-15-rust-v0-140-0-github-339797498-eb64f8cb]]'

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 890dacf0470a5453e6b1f4eb04b3fe10b47205d99316948db9212ab550bcb7a3
+machine_hash: 3629ff5944f612b9b2fdd246695914796a10246ce0fb1e18c918fcd70bb6660f
 product: windsurf
 product_name: Windsurf
 record:
@@ -40,12 +40,11 @@ record:
   title: Various bug fixes and performance improvements
   type: change
 related_changes:
-- '[[Changes/Windsurf/2026-01-30-various-bug-fixes-and-performance-improvements|Various
-  bug fixes and performance improvements]]'
-- '[[Changes/Codex CLI/2026-01-31-3-reliability-and-performance-changes-in-rust-v0-93-0|3
-  Reliability and Performance changes in rust-v0.93.0]]'
+- '[[Changes/ElevenLabs/2026-02-02-eleven-v3|Eleven v3]]'
 - '[[Changes/Claude Code/2026-02-03-improved-memory-usage-for-resume-68-reduction-for-users-with-many-sessions-by-re|Improved
   memory usage for --resume (68% reduction for users with many sessions)…]]'
+- '[[Changes/Dify/2026-02-03-feat-use-xdist-to-make-make-test-faster-by-yihong0618-in-https-github-com-langge|feat:
+  use xdist to make make test faster]]'
 source_release: '[[Releases/Windsurf/windsurf-2026-02-05-v1-9544-35-edff4a60|windsurf-2026-02-05-v1-9544-35-edff4a60]]'
 source_type: windsurf_changelog
 theme: reliability-performance
@@ -77,8 +76,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2026-02-03 · Claude Code · [[Changes/Claude Code/2026-02-03-improved-memory-usage-for-resume-68-reduction-for-users-with-many-sessions-by-re|Improved memory usage for --resume (68% reduction for users with many sessions)…]]
-- Later: 2026-02-12 · Codex CLI · [[Changes/Codex CLI/2026-02-12-improved-websocket-session-stability-by-continuing-ping-handling-when-idle-and-s|Improved websocket session stability by continuing ping handling when idle…]]
+- Earlier: 2026-02-03 · Dify · [[Changes/Dify/2026-02-03-feat-use-xdist-to-make-make-test-faster-by-yihong0618-in-https-github-com-langge|feat: use xdist to make make test faster]]
+- Later: 2026-02-09 · ElevenLabs · [[Changes/ElevenLabs/2026-02-09-text-to-speech|Text to Speech]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

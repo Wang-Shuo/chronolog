@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: f288760afbf69f952fe209f6d207763b2128f21a5be87fb9024af5ff4d6ac8d4
+machine_hash: a50cf05e4ed1451aaa4c4317300a7ff4695c6f88cdc0b106af77a5b2c396cf71
 product: openhands
 product_name: OpenHands
 record:
@@ -94,7 +94,7 @@ Source: https://github.com/OpenHands/OpenHands/releases/tag/0.8.3
 ## Nearby in Developer Workflow
 
 - Earlier: 2024-07-31 · Aider · [[Changes/Aider/2024-07-31-3-developer-workflow-changes-in-v0-47-0|3 Developer Workflow changes in v0.47.0]]
-- Later: 2024-08-10 · Aider · [[Changes/Aider/2024-08-10-5-developer-workflow-changes-in-v0-49-0|5 Developer Workflow changes in v0.49.0]]
+- Later: 2024-08-06 · Dify · [[Changes/Dify/2024-08-06-2-developer-workflow-changes-in-0-6-16|2 Developer Workflow changes in 0.6.16]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

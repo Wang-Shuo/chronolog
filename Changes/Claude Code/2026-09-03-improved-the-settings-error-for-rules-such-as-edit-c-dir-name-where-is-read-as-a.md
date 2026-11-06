@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: ac072e51aed44ba776f00082ed2e93ccdf8c6d54c88b5dcf50f50fade3a2a5f3
+machine_hash: 76fe7be14d23991589453496d2e5bf604356549b76a85898708fa4af6dfa5593
 product: claude-code
 product_name: Claude Code
 record:
@@ -46,12 +46,12 @@ record:
   title: Improved the settings error for rules such as `Edit(C:\dir\(name)\**)`, where…
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-08-27-once-the-agent-s-build-is-to-your-liking-click-the-create-repo-button-to-save-yo|Turn
-  it into a real repo, whenever you want]]'
-- '[[Changes/GitHub Copilot CLI/2026-08-27-add-copilot-app-to-open-the-github-copilot-app-in-the-current-directory|Add
-  copilot app to open the GitHub Copilot app in the current directory]]'
+- "[[Changes/Open WebUI/2026-08-31-chat-branches-stay-connected-after-reloads-a-reply-saved-under-an-earlier-messag|\U0001F4A5
+  Chat branches stay connected after reloads. A reply saved under an earlier…]]"
 - '[[Changes/Claude Code/2026-09-01-2-editor-experience-changes-in-v2-1-257|2 Editor
   Experience changes in v2.1.257]]'
+- '[[Changes/v0/2026-09-01-review-the-code-diff-against-the-base-branch|Review the
+  code diff against the base branch]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-03-v2-1-260-github-382367470-ac2ba1fc|claude-code-2026-09-03-v2-1-260-github-382367470-ac2ba1fc]]'
 source_type: github_releases
 theme: editor-experience
@@ -89,7 +89,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Editor Experience
 
-- Earlier: 2026-09-01 · Claude Code · [[Changes/Claude Code/2026-09-01-2-editor-experience-changes-in-v2-1-257|2 Editor Experience changes in v2.1.257]]
+- Earlier: 2026-09-01 · v0 · [[Changes/v0/2026-09-01-review-the-code-diff-against-the-base-branch|Review the code diff against the base branch]]
 - Later: 2026-09-04 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-09-04-2-editor-experience-changes-in-v1-0-83|2 Editor Experience changes in v1.0.83]]
 <!-- chronolog:end -->
 

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 8c022e84f46e25388ba2bad2ad73e2c3b59586bae523a7414f09982fb086ee03
+machine_hash: 2ad0c5cddaa74d9e99682cb9f715c2e0c00414c824e9f65ef8c039397dfd48c1
 product: aider
 product_name: Aider
 record:
@@ -43,12 +43,12 @@ record:
   title: Aider is better at offering to add files to the chat on Windows
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2023-07-25-chatgpt-for-android-is-now-available-for-download-in-the-united-states-india-ban-6b21e9|Introducing
-  the ChatGPT app for Android]]'
-- '[[Changes/Aider/2024-01-04-prevent-false-auto-commits-on-windows-by-ctoth|Prevent
-  false auto-commits on Windows, by @ctoth]]'
 - '[[Changes/OpenHands/2024-06-29-2-mobile-and-desktop-changes-in-0-7-0|2 Mobile and
   Desktop changes in 0.7.0]]'
+- '[[Changes/Dify/2024-07-08-ensure-sh-are-lf-style-so-that-they-can-be-used-directly-by-docker-for-windows-b|Ensure
+  .sh are LF-style, so that they can be used directly by Docker for Windows]]'
+- "[[Changes/Open WebUI/2024-07-09-font-change-for-windows-replaced-arimo-with-inter-font-for-windows-users-improvi|\U0001F504
+  Font Change for Windows]]"
 source_release: '[[Releases/Aider/aider-2024-07-18-v0-45-0-github-166117451-6702cfa2|aider-2024-07-18-v0-45-0-github-166117451-6702cfa2]]'
 source_type: github_releases
 theme: mobile-desktop
@@ -78,8 +78,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2024-06-29 · OpenHands · [[Changes/OpenHands/2024-06-29-2-mobile-and-desktop-changes-in-0-7-0|2 Mobile and Desktop changes in 0.7.0]]
-- Later: 2024-09-04 · Aider · [[Changes/Aider/2024-09-04-only-print-the-pip-command-when-self-updating-on-windows-without-running-it|Only print the pip command when self updating on Windows, without running it]]
+- Earlier: 2024-07-09 · Open WebUI · [[Changes/Open WebUI/2024-07-09-font-change-for-windows-replaced-arimo-with-inter-font-for-windows-users-improvi|🔄 Font Change for Windows]]
+- Later: 2024-07-30 · Ollama · [[Changes/Ollama/2024-07-30-ollama-on-windows-will-now-show-better-error-messages-if-required-files-are-miss|Ollama on Windows will now show better error messages if required files are missing]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

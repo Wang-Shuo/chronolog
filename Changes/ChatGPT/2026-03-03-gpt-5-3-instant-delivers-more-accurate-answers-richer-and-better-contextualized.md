@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: bd2bf98c3bc3838a5371560cd21f4196ceead8be44c493550ae7f9766d38e2d7
+machine_hash: 3aa1f826e002c2444bbbde464b0e25483ed91ab3eb8548506f2de2d851f6e69b
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -54,12 +54,12 @@ record:
   title: GPT-5.3 Instant Update
   type: change
 related_changes:
-- '[[Changes/Cline/2026-02-27-4-model-support-changes-in-v3-68-0|4 Model Support changes
-  in v3.68.0]]'
-- '[[Changes/Gemini CLI/2026-02-27-11-model-support-changes-in-v0-31-0|11 Model Support
-  changes in v0.31.0]]'
 - '[[Changes/Codex CLI/2026-03-02-4-model-support-changes-in-rust-v0-107-0|4 Model
   Support changes in rust-v0.107.0]]'
+- '[[Changes/Ollama/2026-03-02-qwen3-5-https-ollama-com-library-qwen3-5-the-small-qwen-3-5-model-series-is-now|Qwen3.5((source
+  link) the small Qwen 3.5 model series…]]'
+- "[[Changes/Open WebUI/2026-03-02-temporary-chat-params-preservation-model-parameters-are-now-correctly-saved-when|\U0001F4BE
+  Temporary chat params preservation. Model parameters are now correctly saved…]]"
 source_release: '[[Releases/ChatGPT/chatgpt-2026-03-03-gpt-5-3-instant-update-a32de9bf|chatgpt-2026-03-03-gpt-5-3-instant-update-a32de9bf]]'
 source_type: chatgpt_changelog
 theme: model-support
@@ -86,7 +86,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-03-02 · Codex CLI · [[Changes/Codex CLI/2026-03-02-4-model-support-changes-in-rust-v0-107-0|4 Model Support changes in rust-v0.107.0]]
+- Earlier: 2026-03-02 · Open WebUI · [[Changes/Open WebUI/2026-03-02-temporary-chat-params-preservation-model-parameters-are-now-correctly-saved-when|💾 Temporary chat params preservation. Model parameters are now correctly saved…]]
 - Later: 2026-03-03 · Cline · [[Changes/Cline/2026-03-03-restore-gpt-oss-native-file-editing-on-openai-compatible-models|Restore GPT-OSS native file editing on OpenAI-compatible models]]
 <!-- chronolog:end -->
 

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: d62f8e3243fd861489857a373621e1fe0cb3d9617ce5be200a9e9ca6ee6f7755
+machine_hash: 670f776132283bbcfc200745b2098a742a84f9bb68389f18508c0ed37f8b088a
 product: openhands
 product_name: OpenHands
 record:
@@ -42,12 +42,12 @@ record:
   title: Improve the docker runtime build speed & fix issues in build
   type: change
 related_changes:
-- '[[Changes/Cursor/2024-09-17-cursor-tab-now-auto-imports-symbols-in-python-files-we-ve-also-significantly-imp|Cursor
-  Tab now auto-imports symbols in Python files!]]'
-- '[[Changes/Cursor/2024-09-17-composer-can-now-be-added-to-the-ai-pane-this-release-also-includes-many-stabili-7b4c37|Composer
-  can now be added to the AI pane]]'
-- '[[Changes/Cline/2024-09-19-folder-adds-folder-s-files-all-at-once-to-speed-up-your-workflow-even-more|@folder:
-  Adds folder''s files all at once to speed up your workflow even more]]'
+- "[[Changes/Open WebUI/2024-09-24-event-loop-error-resolution-addressed-a-critical-error-where-a-missing-running-e|\U0001F504
+  Event Loop Error Resolution]]"
+- '[[Changes/Dify/2024-09-30-2-reliability-and-performance-changes-in-0-9-1|2 Reliability
+  and Performance changes in 0.9.1]]'
+- '[[Changes/Dify/2024-09-30-4-reliability-and-performance-changes-in-0-9-0|4 Reliability
+  and Performance changes in 0.9.0]]'
 source_release: '[[Releases/OpenHands/openhands-2024-10-03-0-9-8-github-178234217-d0ac3d62|openhands-2024-10-03-0-9-8-github-178234217-d0ac3d62]]'
 source_type: github_releases
 theme: reliability-performance
@@ -76,8 +76,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2024-09-19 · Cline · [[Changes/Cline/2024-09-19-folder-adds-folder-s-files-all-at-once-to-speed-up-your-workflow-even-more|@folder: Adds folder's files all at once to speed up your workflow even more]]
-- Later: 2024-10-09 · Cline · [[Changes/Cline/2024-10-09-2-reliability-and-performance-changes-in-v2-0-0|2 Reliability and Performance changes in v2.0.0]]
+- Earlier: 2024-09-30 · Dify · [[Changes/Dify/2024-09-30-4-reliability-and-performance-changes-in-0-9-0|4 Reliability and Performance changes in 0.9.0]]
+- Later: 2024-10-07 · Open WebUI · [[Changes/Open WebUI/2024-10-07-library-dependencies-update-upgraded-dependencies-to-ensure-compatibility-and-pe|📦 Library Dependencies Update]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

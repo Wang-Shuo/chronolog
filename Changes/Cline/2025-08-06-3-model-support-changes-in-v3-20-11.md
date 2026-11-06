@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 9cf82f618515c21e5646a50fce7b44f40dd36d0e183d70f0dfcd586bbfc7c154
+machine_hash: 4c01513481226e5a8ca6cd0dbb46b03ae3e4ac6ed0375466e9cd363fa2ac5129
 product: cline
 product_name: Cline
 record:
@@ -44,12 +44,12 @@ record:
   title: 3 Model Support changes in v3.20.11
   type: change
 related_changes:
-- '[[Changes/Cline/2025-08-05-adding-anthropic-opus-4-1-by-arafatkatze-in-https-github-com-cline-cline-pull-53|Adding
-  Anthropic opus 4.1]]'
 - '[[Changes/Codex CLI/2025-08-05-introduces-the-oss-flag-so-codex-cli-can-be-used-with-the-new-open-weight-models|Introduces
   the --oss flag so Codex CLI can be used with the new open-weight models…]]'
 - '[[Changes/Gemini CLI/2025-08-05-20-model-support-changes-in-v0-1-17|20 Model Support
   changes in v0.1.17]]'
+- '[[Changes/Ollama/2025-08-05-3-model-support-changes-in-v0-11-0|3 Model Support
+  changes in v0.11.0]]'
 source_release: '[[Releases/Cline/cline-2025-08-06-v3-20-11-github-237845536-5cab9a83|cline-2025-08-06-v3-20-11-github-237845536-5cab9a83]]'
 source_type: github_releases
 theme: model-support
@@ -84,7 +84,7 @@ Source: https://github.com/cline/cline/releases/tag/v3.20.11
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2025-08-05 · Gemini CLI · [[Changes/Gemini CLI/2025-08-05-20-model-support-changes-in-v0-1-17|20 Model Support changes in v0.1.17]]
+- Earlier: 2025-08-05 · Ollama · [[Changes/Ollama/2025-08-05-3-model-support-changes-in-v0-11-0|3 Model Support changes in v0.11.0]]
 - Later: 2025-08-06 · Cline · [[Changes/Cline/2025-08-06-add-prompt-caching-for-opus-4-1-by-saoudrizwan-in-https-github-com-cline-cline-p|Add prompt caching for Opus 4.1]]
 <!-- chronolog:end -->
 

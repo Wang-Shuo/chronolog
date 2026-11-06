@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 51cd4090c3335cf7288fc9a2471d6dc9b7034eefa1d9c94947f972eee3ab67fb
+machine_hash: 8dacd15e947625adf9274fc8458fbe23269af70d2e5c40660436674412b27186
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -44,10 +44,10 @@ record:
     running
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-09-3-developer-workflow-changes-in-v2-1-296|3 Developer
-  Workflow changes in v2.1.296]]'
 - '[[Changes/GitHub Copilot CLI/2026-10-12-interactive-sessions-in-git-repositories-reach-the-input-prompt-sooner|Interactive
   sessions in git repositories reach the input prompt sooner]]'
+- '[[Changes/Ollama/2026-10-12-decision-models-can-now-be-used-directly-from-the-terminal-with-ollama-run-ask-y|Decision
+  models can now be used directly from the terminal with ollama run]]'
 - '[[Changes/Cline/2026-10-13-deleting-a-slash-command-from-the-input-keeps-the-spacing-of-the-text-around-it|Deleting
   a slash command from the input keeps the spacing of the text around it]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-10-13-v1-0-97-github-411990782-ee7b7038|github-copilot-cli-2026-10-13-v1-0-97-github-411990782-ee7b7038]]'

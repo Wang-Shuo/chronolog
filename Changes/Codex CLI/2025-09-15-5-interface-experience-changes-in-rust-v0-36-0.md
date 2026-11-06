@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: ae5ded3205468be316d60e773fe3dedc6fe63b8dd52d41e06df52ae9644ba0a1
+machine_hash: b3db34a0f50b11e29c85be54f0a95a83e4013474fd5b58b64b85ef0a954ff5bd
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -51,8 +51,8 @@ record:
   title: 5 Interface Experience changes in rust-v0.36.0
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2025-09-05-3135-tui-add-session-resume-picker-resume-and-quick-resume-continue|♯3135
-  TUI: Add session resume picker (--resume) and quick resume (--continue)]]'
+- "[[Changes/Open WebUI/2025-09-09-follow-up-tooltip-duplication-is-removed-streamlining-the-user-interface-and-pre|\U0001F4AC
+  Follow-up tooltip duplication is removed, streamlining the user interface…]]"
 - '[[Changes/Cline/2025-09-11-2-interface-experience-changes-in-v3-28-0|2 Interface
   Experience changes in v3.28.0]]'
 - '[[Changes/Cursor/2025-09-12-1-6-27-native-menu-notification-badge|1.6.27: Native

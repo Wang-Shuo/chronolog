@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 27e4c155c07fb73f7a3f53564adaa376efeddd6308c6c47b23f370408db9516b
+machine_hash: 7297345405303c0a8869212d49ff7aba8d312dbb6e9d27a492fe9f20af3a39e6
 product: cursor
 product_name: Cursor
 record:
@@ -54,8 +54,8 @@ record:
   title: GPT-V Support
   type: change
 related_changes:
-- '[[Changes/Cursor/2023-09-10-ask-a-question-about-an-edit-that-the-model-with-option-enter-or-bring-in-contex|Quick
-  question and @chat in cmd+k]]'
+- '[[Changes/Dify/2023-11-06-feat-add-context-missing-warning-by-iamjoel-in-https-github-com-langgenius-dify|feat:
+  add context missing warning]]'
 - '[[Changes/Aider/2023-11-07-2-context-window-changes-in-v0-17-0|2 Context Window
   changes in v0.17.0]]'
 - '[[Changes/Cursor/2023-11-10-copilot-beta-this-is-an-add-on-to-copilot-that-suggests-diffs-around-your-cursor|Copilot++

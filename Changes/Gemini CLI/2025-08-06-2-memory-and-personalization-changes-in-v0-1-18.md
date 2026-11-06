@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: memory
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: bb609feac176ed90af596e5517985db662824e73c0f2b12576773a787d7afa78
+machine_hash: f1a8d6811447bc8d36461337d36467ce29cfda0e74b7624d7a9d554a595eb54b
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -96,7 +96,7 @@ Source: https://github.com/google-gemini/gemini-cli/releases/tag/v0.1.18
 ## Nearby in Memory and Personalization
 
 - Earlier: 2025-08-05 · Gemini CLI · [[Changes/Gemini CLI/2025-08-05-2-memory-and-personalization-changes-in-v0-1-17|2 Memory and Personalization changes in v0.1.17]]
-- Later: 2025-08-12 · Gemini CLI · [[Changes/Gemini CLI/2025-08-12-feat-drop-load-memory-from-include-directories-option-from-cli-args-by-y-okt-in|feat: drop load-memory-from-include-directories option from cli args]]
+- Later: 2025-08-09 · Open WebUI · [[Changes/Open WebUI/2025-08-09-enhanced-memory-stability-and-security-refactored-memory-update-and-delete-opera|🧠 Enhanced Memory Stability and Security]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 2333eb4a3d99bfbb4b9ac48d30118ea83e0a6962da4df941e1750c0c7b2af902
+machine_hash: 7d2592ebd2a3c226095b9f41dabd3c583b9a4b4ce4dbec74bf4262909de48d68
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -43,10 +43,10 @@ record:
   title: ctrl+t to toggle reasoning display is now listed in the /help and ? overlay
   type: change
 related_changes:
-- '[[Changes/Cline/2026-04-16-add-claude-opus-4-7-model-support|Add Claude Opus 4.7
-  model support]]'
-- '[[Changes/GitHub Copilot CLI/2026-04-16-add-support-for-claude-opus-4-7|Add support
-  for Claude Opus 4.7]]'
+- '[[Changes/Claude/2026-04-17-claude-design-by-anthropic-labs|Claude Design by Anthropic
+  Labs]]'
+- '[[Changes/Replit/2026-04-17-claude-opus-4-7-powers-power-mode|Claude Opus 4.7 powers
+  Power mode]]'
 - '[[Changes/Codex CLI/2026-04-20-6-model-support-changes-in-rust-v0-122-0|6 Model
   Support changes in rust-v0.122.0]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-04-20-v1-0-33-github-311308778-029d953b|github-copilot-cli-2026-04-20-v1-0-33-github-311308778-029d953b]]'
@@ -81,7 +81,7 @@ type: change
 ## Nearby in Model Support
 
 - Earlier: 2026-04-20 · Codex CLI · [[Changes/Codex CLI/2026-04-20-6-model-support-changes-in-rust-v0-122-0|6 Model Support changes in rust-v0.122.0]]
-- Later: 2026-04-22 · Claude Code · [[Changes/Claude Code/2026-04-22-2-model-support-changes-in-v2-1-117|2 Model Support changes in v2.1.117]]
+- Later: 2026-04-21 · Open WebUI · [[Changes/Open WebUI/2026-04-21-28-model-support-changes-in-v0-9-0|28 Model Support changes in v0.9.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

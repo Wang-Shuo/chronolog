@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: f27ed4c0e4bd2767d63c35fbb545a62215796815be4314ba6260e5d1f740bb17
+machine_hash: e41d3bf08015dcd8f4061b574a3ed009ed33ea17445e097275e9de7d9e076ab8
 product: claude-code
 product_name: Claude Code
 record:
@@ -91,7 +91,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.83
 ## Nearby in Safety and Privacy
 
 - Earlier: 2026-03-24 · Gemini CLI · [[Changes/Gemini CLI/2026-03-24-5-safety-and-privacy-changes-in-v0-35-0|5 Safety and Privacy changes in v0.35.0]]
-- Later: 2026-03-26 · Claude Code · [[Changes/Claude Code/2026-03-26-fixed-the-allow-claude-to-edit-its-own-settings-for-this-session-permission-opti|Fixed the "allow Claude to edit its own settings for this session" permission option…]]
+- Later: 2026-03-25 · Open WebUI · [[Changes/Open WebUI/2026-03-25-4-safety-and-privacy-changes-in-v0-8-11|4 Safety and Privacy changes in v0.8.11]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

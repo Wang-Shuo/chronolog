@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: expansion
-machine_hash: e1c12ae9d5da1895fd4f86e7694872241e375443348539a1e22b052b2bdd2f7c
+machine_hash: 85ef3638538c0895724ea4a3ca37f5cb3e2e6f20619db0630430a63a0b26c3bf
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -43,12 +43,12 @@ record:
     desktop app
   type: change
 related_changes:
-- '[[Changes/OpenHands/2025-05-05-made-small-tweaks-for-mobile-styles-by-rbren-in-https-github-com-all-hands-ai-op|Made
-  small tweaks for mobile styles]]'
 - '[[Changes/Codex CLI/2025-07-10-thanks-to-pchuri-so-that-when-running-codex-installed-via-npm-process-platform-a|Thanks
   to @pchuri so that when running Codex installed via npm…]]'
 - '[[Changes/Gemini CLI/2025-07-11-don-t-enforce-leading-slash-since-that-s-not-true-on-windows-by-scidomino-in-htt|Don''t
   enforce leading slash since that''s not true on Windows]]'
+- "[[Changes/Open WebUI/2025-07-14-seamless-iphone-image-uploads-effortlessly-upload-photos-from-iphones-and-other|\U0001F4F7
+  Seamless iPhone Image Uploads]]"
 source_release: '[[Releases/ChatGPT/chatgpt-2025-07-16-record-mode-in-chatgpt-macos-desktop-app-plus-3cdaccb1|chatgpt-2025-07-16-record-mode-in-chatgpt-macos-desktop-app-plus-3cdaccb1]]'
 source_type: chatgpt_changelog
 theme: mobile-desktop
@@ -78,8 +78,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2025-07-11 · Gemini CLI · [[Changes/Gemini CLI/2025-07-11-don-t-enforce-leading-slash-since-that-s-not-true-on-windows-by-scidomino-in-htt|Don't enforce leading slash since that's not true on Windows]]
-- Later: 2025-07-19 · Codex CLI · [[Changes/Codex CLI/2025-07-19-though-https-github-com-openai-codex-pull-1590-should-make-it-so-that-on-windows|Though (source link) should make it so that, on Windows…]]
+- Earlier: 2025-07-14 · Open WebUI · [[Changes/Open WebUI/2025-07-14-seamless-iphone-image-uploads-effortlessly-upload-photos-from-iphones-and-other|📷 Seamless iPhone Image Uploads]]
+- Later: 2025-07-18 · Ollama · [[Changes/Ollama/2025-07-18-ollama-s-new-app-is-available-for-macos-and-windows-download-ollama-https-ollama|Ollama's new app is available for macOS and Windows]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

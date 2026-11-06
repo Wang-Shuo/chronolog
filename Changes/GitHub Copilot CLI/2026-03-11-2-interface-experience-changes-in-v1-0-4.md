@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 513f26b7e3d59792060bc69b7e3d3e8ec2057e66946511a9e283af8a259dcf78
+machine_hash: c8d224ab94bda82ff36a7917608a72ff4e6f1eb8beda5b1671bbe654b73f9b0a
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -44,8 +44,8 @@ record:
   title: 2 Interface Experience changes in v1.0.4
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-03-10-4-interface-experience-changes-in-rust-v0-113-0|4
-  Interface Experience changes in rust-v0.113.0]]'
+- '[[Changes/v0/2026-03-10-added-tooltip-to-disabled-new-chat-button|Added tooltip
+  to disabled New Chat button]]'
 - '[[Changes/Claude Code/2026-03-11-2-interface-experience-changes-in-v2-1-73|2 Interface
   Experience changes in v2.1.73]]'
 - '[[Changes/Gemini CLI/2026-03-11-feat-admin-enable-30-day-default-retention-for-chat-history-remove-warning-by-sk|feat(admin):
@@ -92,7 +92,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.4
 ## Nearby in Interface Experience
 
 - Earlier: 2026-03-11 · Gemini CLI · [[Changes/Gemini CLI/2026-03-11-feat-admin-enable-30-day-default-retention-for-chat-history-remove-warning-by-sk|feat(admin): enable 30 day default retention for chat history & remove warning]]
-- Later: 2026-03-16 · Codex CLI · [[Changes/Codex CLI/2026-03-16-14410-make-collab-model-metadata-accurate-on-completion-aibrahim-oai|♯14410 Make collab model metadata accurate on completion @aibrahim-oai]]
+- Later: 2026-03-11 · v0 · [[Changes/v0/2026-03-11-added-tooltip-to-disabled-new-chat-button-for-view-only-access|Added tooltip to disabled New Chat button for view-only access]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

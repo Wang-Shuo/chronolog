@@ -378,7 +378,7 @@ def wiki_label(text: str) -> str:
     text = text.replace('|', ' / ').replace('<', '').replace('>', '')
     text = re.sub(r"https?://\S+", "(source link)", text)
     text = text.replace("#", "♯")
-    return re.sub(r"(?<!\w)_|_(?!\w)", "", text)
+    return re.sub(r"(?<!\w)_+|_+(?!\w)", "", text)
 
 
 def card_link(

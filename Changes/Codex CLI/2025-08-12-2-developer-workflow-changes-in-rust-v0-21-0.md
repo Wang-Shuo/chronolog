@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 5d5d750537d9bf0343fc14b774cf69d6dc44446a6a5a3140ecea42de9bf78886
+machine_hash: 2476d3dfa65ef10f9889ef44c6dc6bcd9fb31e87aca4b78333c27da657415f35
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -43,12 +43,12 @@ record:
   title: 2 Developer Workflow changes in rust-v0.21.0
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2025-08-06-31-developer-workflow-changes-in-v0-1-18|31 Developer
-  Workflow changes in v0.1.18]]'
-- '[[Changes/Aider/2025-08-09-undo-output-now-shows-only-the-first-line-of-each-commit-message-making-it-easie|/undo
-  output now shows only the first line of each commit message, making…]]'
 - '[[Changes/Cline/2025-08-09-revert-unnecessary-terminal-command-issue-workarounds-by-saoudrizwan-in-https-gi|Revert
   unnecessary terminal command issue workarounds]]'
+- '[[Changes/Open WebUI/2025-08-09-2-developer-workflow-changes-in-v0-6-19|2 Developer
+  Workflow changes in v0.6.19]]'
+- '[[Changes/Dify/2025-08-11-4-developer-workflow-changes-in-1-7-2|4 Developer Workflow
+  changes in 1.7.2]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2025-08-12-rust-v0-21-0-github-239240731-76e29b83|codex-cli-2025-08-12-rust-v0-21-0-github-239240731-76e29b83]]'
 source_type: github_releases
 theme: developer-workflow
@@ -85,7 +85,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.21.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2025-08-09 · Cline · [[Changes/Cline/2025-08-09-revert-unnecessary-terminal-command-issue-workarounds-by-saoudrizwan-in-https-gi|Revert unnecessary terminal command issue workarounds]]
+- Earlier: 2025-08-11 · Dify · [[Changes/Dify/2025-08-11-4-developer-workflow-changes-in-1-7-2|4 Developer Workflow changes in 1.7.2]]
 - Later: 2025-08-12 · Gemini CLI · [[Changes/Gemini CLI/2025-08-12-4-developer-workflow-changes-in-v0-1-19|4 Developer Workflow changes in v0.1.19]]
 <!-- chronolog:end -->
 

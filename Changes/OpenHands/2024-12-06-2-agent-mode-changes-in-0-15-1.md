@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 633d3a810e4f2342393d24f2e5ff90d299ee47414e752dab4018383580aec816
+machine_hash: 5541ae603a8e2cc46f9af8c179c0eac4bdbc71b598473a2dc129808bcd85d19e
 product: openhands
 product_name: OpenHands
 record:
@@ -42,12 +42,11 @@ record:
   title: 2 Agent Mode changes in 0.15.1
   type: change
 related_changes:
-- '[[Changes/OpenHands/2024-09-04-files-display-updated-content-after-agent-edit-by-amanape-in-https-github-com-al|Files
-  display updated content after agent edit]]'
-- '[[Changes/OpenHands/2024-10-22-improvements-to-agent-editing-using-llm-by-xingyaoww-in-https-github-com-all-han|Improvements
-  to Agent Editing using LLM]]'
-- '[[Changes/OpenHands/2024-11-08-2-agent-mode-changes-in-0-13-0|2 Agent Mode changes
-  in 0.13.0]]'
+- "[[Changes/Open WebUI/2024-11-19-agentic-retrieval-improve-rag-accuracy-via-smart-pre-processing-of-chat-history|\U0001F5C2️
+  Agentic Retrieval]]"
+- '[[Changes/Dify/2024-11-25-for-instance-you-can-upload-a-pdf-report-and-let-the-agent-automatically-analyze|For
+  instance, you can upload a PDF report and let the Agent automatically analyze…]]'
+- '[[Changes/ElevenLabs/2024-11-29-api|API]]'
 source_release: '[[Releases/OpenHands/openhands-2024-12-06-0-15-1-github-189468969-ea2e2af5|openhands-2024-12-06-0-15-1-github-189468969-ea2e2af5]]'
 source_type: github_releases
 theme: agent-mode
@@ -81,7 +80,7 @@ Source: https://github.com/OpenHands/OpenHands/releases/tag/0.15.1
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2024-11-08 · OpenHands · [[Changes/OpenHands/2024-11-08-2-agent-mode-changes-in-0-13-0|2 Agent Mode changes in 0.13.0]]
+- Earlier: 2024-11-29 · ElevenLabs · [[Changes/ElevenLabs/2024-11-29-api|API]]
 - Later: 2024-12-10 · Aider · [[Changes/Aider/2024-12-10-updated-shell-command-prompt|Updated shell command prompt]]
 <!-- chronolog:end -->
 

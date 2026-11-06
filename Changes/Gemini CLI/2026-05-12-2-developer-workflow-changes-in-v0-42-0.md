@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 7b167243c3004b23606164de5d562f0de8533da2ef13220cb99c6e4837c057dc
+machine_hash: 6e2b0ea3102e32b2de792bbd7211f336d18a37f1b2fbbf69e36193263fe237b5
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -43,8 +43,8 @@ record:
   title: 2 Developer Workflow changes in v0.42.0
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-05-08-2-developer-workflow-changes-in-v1-0-44|2
-  Developer Workflow changes in v1.0.44]]'
+- '[[Changes/Open WebUI/2026-05-10-2-developer-workflow-changes-in-v0-9-5|2 Developer
+  Workflow changes in v0.9.5]]'
 - '[[Changes/Claude Code/2026-05-11-added-hook-args-string-field-exec-form-that-spawns-the-command-directly-without|Added
   hook args: string field (exec form) that spawns the command directly…]]'
 - '[[Changes/GitHub Copilot CLI/2026-05-11-2-developer-workflow-changes-in-v1-0-45|2

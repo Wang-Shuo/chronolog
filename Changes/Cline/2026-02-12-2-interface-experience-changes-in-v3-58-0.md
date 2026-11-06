@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 0d0c7e1c33d55301249b174ef5fb987a524535a4d9e8492bf19b0b655de8ce96
+machine_hash: 341a4549a6a28b0331f75da814613e53140a96207b2d62f8fb1c9967f52c2c34
 product: cline
 product_name: Cline
 record:
@@ -42,12 +42,12 @@ record:
   title: 2 Interface Experience changes in v3.58.0
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2026-02-10-2-interface-experience-changes-in-v0-28-0|2 Interface
-  Experience changes in v0.28.0]]'
 - '[[Changes/Codex CLI/2026-02-11-8-interface-experience-changes-in-rust-v0-99-0|8
   Interface Experience changes in rust-v0.99.0]]'
 - '[[Changes/GitHub Copilot CLI/2026-02-11-2-interface-experience-changes-in-v0-0-407|2
   Interface Experience changes in v0.0.407]]'
+- '[[Changes/v0/2026-02-11-added-branch-picker-for-vercel-deployments|Added branch
+  picker for Vercel deployments]]'
 source_release: '[[Releases/Cline/cline-2026-02-12-v3-58-0-github-285499006-63eb7b5c|cline-2026-02-12-v3-58-0-github-285499006-63eb7b5c]]'
 source_type: github_releases
 theme: interface-experience
@@ -87,7 +87,7 @@ Source: https://github.com/cline/cline/releases/tag/v3.58.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-02-11 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-02-11-2-interface-experience-changes-in-v0-0-407|2 Interface Experience changes in v0.0.407]]
+- Earlier: 2026-02-11 · v0 · [[Changes/v0/2026-02-11-added-branch-picker-for-vercel-deployments|Added branch picker for Vercel deployments]]
 - Later: 2026-02-12 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-02-12-diff-uses-full-screen-in-alt-screen-mode|/diff uses full screen in alt-screen mode]]
 <!-- chronolog:end -->
 

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: 76fab8f5c52296ed650b0bf7f031cd62dc31721a195b51e688816c6224b2a90b
+machine_hash: 3f1d966bcd8cc620827816e74133df2501149642c7e12931d05dcdf3202a4db7
 product: claude-code
 product_name: Claude Code
 record:
@@ -46,12 +46,9 @@ record:
   title: Added `/resume` support for background sessions
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-05-15-2-agent-mode-changes-in-v2-1-143|2 Agent Mode
-  changes in v2.1.143]]'
-- '[[Changes/Codex CLI/2026-05-18-9-agent-mode-changes-in-rust-v0-131-0|9 Agent Mode
-  changes in rust-v0.131.0]]'
-- '[[Changes/Cursor/2026-05-18-composer-2-5-is-now-available-in-cursor|Composer 2.5
-  is now available in Cursor]]'
+- '[[Changes/ElevenLabs/2026-05-18-elevenagents|ElevenAgents]]'
+- '[[Changes/ElevenLabs/2026-05-18-elevenagents-ddcb34|ElevenAgents]]'
+- '[[Changes/Lovable/2026-05-18-build-and-plan-mode-switch|Build and Plan mode switch]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-05-19-v2-1-144-github-324524751-1469637a|claude-code-2026-05-19-v2-1-144-github-324524751-1469637a]]'
 source_type: github_releases
 theme: agent-mode
@@ -90,7 +87,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2026-05-18 · Cursor · [[Changes/Cursor/2026-05-18-composer-2-5-is-now-available-in-cursor|Composer 2.5 is now available in Cursor]]
+- Earlier: 2026-05-18 · Lovable · [[Changes/Lovable/2026-05-18-build-and-plan-mode-switch|Build and Plan mode switch]]
 - Later: 2026-05-19 · Claude Code · [[Changes/Claude Code/2026-05-19-3-agent-mode-changes-in-v2-1-145|3 Agent Mode changes in v2.1.145]]
 <!-- chronolog:end -->
 

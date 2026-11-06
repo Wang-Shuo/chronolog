@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 7fc29fe76f52aacd7496f77dc12902f8231008797992976386e8f1280c3aab91
+machine_hash: be940c2b2c29218b50d5478d5e4e8ea375c28d6dcd013bde9f26a16120069e3c
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -45,8 +45,7 @@ record:
   title: 2 Mobile and Desktop changes in rust-v0.134.0
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-05-19-2-mobile-and-desktop-changes-in-v1-0-49|2
-  Mobile and Desktop changes in v1.0.49]]'
+- '[[Changes/Lovable/2026-05-21-improvements-and-bug-fixes|Improvements and bug fixes]]'
 - '[[Changes/Gemini CLI/2026-05-22-ci-release-build-and-attach-unsigned-macos-binaries-to-releases-by-ruomengz-in-h|ci(release):
   build and attach unsigned macOS binaries to releases]]'
 - '[[Changes/GitHub Copilot CLI/2026-05-23-2-mobile-and-desktop-changes-in-v1-0-52|2

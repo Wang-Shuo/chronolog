@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 65c8c30f6a4f15c5bedbaafd291c8eba58a635d54b39f4bf6486d9fc0681adee
+machine_hash: 7fb3da1a5099cffeb73ae646e3a8fec14eee36dab82d4c0546ff23242e1c0e19
 product: cline
 product_name: Cline
 record:
@@ -101,7 +101,7 @@ Source: https://github.com/cline/cline/releases/tag/v3.38.0
 ## Nearby in Model Support
 
 - Earlier: 2025-11-14 · Windsurf · [[Changes/Windsurf/2025-11-14-gpt-5-1-priority-mode|GPT-5.1 Priority Mode]]
-- Later: 2025-11-18 · Gemini CLI · [[Changes/Gemini CLI/2025-11-18-feat-launch-gemini-3-in-gemini-cli-by-skeshive-in-https-github-com-google-gemini|feat: launch Gemini 3 in Gemini CLI 🚀🚀🚀]]
+- Later: 2025-11-18 · Gemini · [[Changes/Gemini/2025-11-18-gemini-3-our-most-intelligent-model-yet-is-available-to-everyone-in-the-app|Gemini 3, our most intelligent model yet, is available to everyone in the app]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

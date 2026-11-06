@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 612f01d01a635c3c0da82f99093e4a075b96821886550170e25a8a0ddcca1c69
+machine_hash: 67ae36232c577734899f9fe8f614d173ad7a224d6efaeae6eb1366e4ad8ff7cd
 product: claude-code
 product_name: Claude Code
 record:
@@ -84,7 +84,7 @@ type: change
 ## Nearby in Agent Mode
 
 - Earlier: 2026-03-26 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-03-26-resume-session-restores-the-previously-selected-custom-agent|Resume session restores the previously selected custom agent]]
-- Later: 2026-03-31 · Codex CLI · [[Changes/Codex CLI/2026-03-31-4-agent-mode-changes-in-rust-v0-118-0|4 Agent Mode changes in rust-v0.118.0]]
+- Later: 2026-03-27 · Dify · [[Changes/Dify/2026-03-27-4-agent-mode-changes-in-1-13-3|4 Agent Mode changes in 1.13.3]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

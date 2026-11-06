@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: f2ccb233c0a93c882a6156e386cd57c959f887de6f5d5d206cd240faa5169990
+machine_hash: d1bf414eed53f9677e8c01a21f10be11abc591286d673fa870e54a8e3bd48202
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -43,8 +43,8 @@ record:
   title: Send messages while Copilot is thinking to steer or queue
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-01-09-8939-chore-move-app-server-tests-from-chat-completion-to-responses-celia-oai|♯8939
-  chore move app server tests from chat completion to responses @celia-oai]]'
+- '[[Changes/v0/2026-01-12-blocked-sending-new-messages-when-pending-edits-exist|Blocked
+  sending new messages when pending edits exist]]'
 - '[[Changes/Claude Code/2026-01-13-2-editor-experience-changes-in-v2-1-6|2 Editor
   Experience changes in v2.1.6]]'
 - '[[Changes/GitHub Copilot CLI/2026-01-13-ghost-text-and-tab-completion-show-correct-alias-when-typing-slash-commands-like|Ghost

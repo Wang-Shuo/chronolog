@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 9977d185dab54ab816eb94ec9a68ce656009d0034770be22a1e5432309890468
+machine_hash: cf21fe19ebfd4555c675972644a79e6a57d44ec54348d264681a8d3fc84d2c27
 product: claude-code
 product_name: Claude Code
 record:
@@ -54,10 +54,10 @@ record:
   title: 4 Safety and Privacy changes in v2.1.162
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-05-29-2-safety-and-privacy-changes-in-v2-1-157|2 Safety
-  and Privacy changes in v2.1.157]]'
-- '[[Changes/Codex CLI/2026-06-01-11-safety-and-privacy-changes-in-rust-v0-136-0|11
-  Safety and Privacy changes in rust-v0.136.0]]'
+- '[[Changes/Lovable/2026-06-01-scheduled-security-scans-enterprise|Scheduled security
+  scans (Enterprise)]]'
+- '[[Changes/Open WebUI/2026-06-01-7-safety-and-privacy-changes-in-v0-9-6|7 Safety
+  and Privacy changes in v0.9.6]]'
 - '[[Changes/ChatGPT/2026-06-02-we-re-rolling-out-active-sessions-a-new-security-feature-in-chatgpt-that-helps-u-51e977|ChatGPT
   rolls out Active sessions, a new security feature that helps users review…]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-06-03-v2-1-162-github-333906405-cdc7c67c|claude-code-2026-06-03-v2-1-162-github-333906405-cdc7c67c]]'

@@ -4,20 +4,20 @@ date: '2025-10-22'
 description: 'Gemini CLI · 2025-10-22 · Files and Data: document all settings with
   showInDialog: true by @scidomino in https://github.com/google-gemini/gemini-cli/pull/11049'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-07-06-we-re-rolling-out-code-interpreter-to-all-chatgpt-plus-users-over-the-next-week-66255e|Code
-    interpreter is now rolling out in beta on web]]'
+  first_in_tracked: '[[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2
+    Files and Data changes in 0.2.2]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 839
+  lag_days: 881
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 8517c2491571516e49074289e2da71f70dcf2d6262d18849ef50d60d65d80ac5
+machine_hash: 2c90170986f9c0feaba2a423902ed0f977b0daa31b69e3644b77c7883f19d15c
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -43,12 +43,12 @@ record:
   title: 'document all settings with showInDialog: true'
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2025-08-14-document-certificate-issue-workaround-by-scidomino-in-https-github-com-google-ge|Document
-  certificate issue workaround]]'
-- '[[Changes/Codex CLI/2025-09-05-3118-codex-document-use-experimental-reasoning-summary-toml-key-config|♯3118
-  codex document use_experimental_reasoning_summary toml key config]]'
 - '[[Changes/Gemini CLI/2025-10-07-2-files-and-data-changes-in-v0-8-0|2 Files and
   Data changes in v0.8.0]]'
+- '[[Changes/Open WebUI/2025-10-07-2-files-and-data-changes-in-v0-6-33|2 Files and
+  Data changes in v0.6.33]]'
+- '[[Changes/Open WebUI/2025-10-16-2-files-and-data-changes-in-v0-6-34|2 Files and
+  Data changes in v0.6.34]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2025-10-22-v0-10-0-github-256434073-b3dd91c0|gemini-cli-2025-10-22-v0-10-0-github-256434073-b3dd91c0]]'
 source_type: github_releases
 theme: file-data
@@ -88,14 +88,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Files and Data
 
-- Earlier: 2025-10-07 · Gemini CLI · [[Changes/Gemini CLI/2025-10-07-2-files-and-data-changes-in-v0-8-0|2 Files and Data changes in v0.8.0]]
+- Earlier: 2025-10-16 · Open WebUI · [[Changes/Open WebUI/2025-10-16-2-files-and-data-changes-in-v0-6-34|2 Files and Data changes in v0.6.34]]
 - Later: 2025-10-23 · Codex CLI · [[Changes/Codex CLI/2025-10-23-docs-document-exec-json-events-by-tibo-openai-in-https-github-com-openai-codex-p|docs: document exec json events]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-07-06 · ChatGPT · [[Changes/ChatGPT/2023-07-06-we-re-rolling-out-code-interpreter-to-all-chatgpt-plus-users-over-the-next-week-66255e|Code interpreter is now rolling out in beta on web]]
+- Earliest same-theme entry in the tracked set: 2023-05-25 · Dify · [[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2 Files and Data changes in 0.2.2]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

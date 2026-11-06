@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: f970f7ea1f823100fca337e1b6ed741a5db667146dfbe0f9b42c28b55ba67e07
+machine_hash: 034f5d783785a223377e6e475ffea55595bf126bae8fcb4b07f3cb79f9c2609e
 product: openhands
 product_name: OpenHands
 record:
@@ -45,12 +45,11 @@ record:
   title: 2 Mobile and Desktop changes in v1.35.0
   type: change
 related_changes:
-- '[[Changes/OpenHands/2026-10-27-the-app-isn-t-signed-with-an-apple-developer-id-yet-so-macos-may-call-a|The
-  app isn''t signed with an Apple Developer ID yet, so macOS may call a]]'
-- '[[Changes/Codex CLI/2026-10-29-57503-fix-macos-standalone-release-pruning-etraut-openai|♯57503
-  Fix macOS standalone release pruning @etraut-openai]]'
 - '[[Changes/Claude Code/2026-10-30-2-mobile-and-desktop-changes-in-v2-1-314|2 Mobile
   and Desktop changes in v2.1.314]]'
+- '[[Changes/ElevenLabs/2026-11-02-android-sdk|Android SDK]]'
+- "[[Changes/Open WebUI/2026-11-03-image-drops-from-photo-apps-images-dropped-into-chats-and-channels-are-now-recog|\U0001F5BC️
+  Image drops from photo apps. Images dropped into chats and channels are now…]]"
 source_release: '[[Releases/OpenHands/openhands-2026-11-03-v1-35-0-github-433088800-6c59b2b0|openhands-2026-11-03-v1-35-0-github-433088800-6c59b2b0]]'
 source_type: github_releases
 theme: mobile-desktop
@@ -91,7 +90,7 @@ Source: https://github.com/OpenHands/OpenHands/releases/tag/v1.35.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2026-10-30 · Claude Code · [[Changes/Claude Code/2026-10-30-2-mobile-and-desktop-changes-in-v2-1-314|2 Mobile and Desktop changes in v2.1.314]]
+- Earlier: 2026-11-03 · Open WebUI · [[Changes/Open WebUI/2026-11-03-image-drops-from-photo-apps-images-dropped-into-chats-and-channels-are-now-recog|🖼️ Image drops from photo apps. Images dropped into chats and channels are now…]]
 - Later: 2026-11-05 · OpenHands · [[Changes/OpenHands/2026-11-05-2-mobile-and-desktop-changes-in-v1-36-0|2 Mobile and Desktop changes in v1.36.0]]
 <!-- chronolog:end -->
 

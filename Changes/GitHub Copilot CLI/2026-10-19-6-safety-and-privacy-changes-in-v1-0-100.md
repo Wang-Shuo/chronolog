@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: de6da7e0b9552aab28b803dd78ecf7605a1791ea7f0fd7ce7bae486906bbbbd8
+machine_hash: b36ce94ca49f2096f406a3eaa0a73f5ed941566e41cd349b76659a8b11666c98
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -58,10 +58,10 @@ record:
   title: 6 Safety and Privacy changes in v1.0.100
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-16-2-safety-and-privacy-changes-in-v2-1-302|2 Safety
-  and Privacy changes in v2.1.302]]'
-- '[[Changes/Cline/2026-10-16-cline-cloud-sessions-rolling-out-gradually-run-a-task-in-a-hosted-sandbox-on-a-g|Cline
-  Cloud sessions, rolling out gradually]]'
+- '[[Changes/Lovable/2026-10-16-require-approval-or-block-publishing-with-workspace-policies|Require
+  approval or block publishing with workspace policies]]'
+- '[[Changes/Open WebUI/2026-10-16-2-safety-and-privacy-changes-in-v0-12-3|2 Safety
+  and Privacy changes in v0.12.3]]'
 - '[[Changes/Claude Code/2026-10-19-added-decider-person-to-a-mod-s-tool-check-answer-only-the-permission-dialog-or|Added
   decider: "person" to a mod''s tool.check answer: only the permission dialog…]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-10-19-v1-0-100-github-417622960-9e2e7578|github-copilot-cli-2026-10-19-v1-0-100-github-417622960-9e2e7578]]'

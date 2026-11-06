@@ -4,20 +4,20 @@ date: '2026-10-06'
 description: 'OpenHands · 2026-10-06 · Voice and Audio: feat(chat): add optional voice
   dictation to the chat input by @VascoSch92 in…'
 diffusion:
-  first_in_tracked: '[[Changes/Aider/2023-08-11-voice-to-code-https-aider-chat-docs-voice-html-support-which-allows-you-to-code|Voice-to-code((source
-    link) support, which allows you…]]'
+  first_in_tracked: '[[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2
+    Voice and Audio changes in 0.3.7]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1152
+  lag_days: 1184
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 772fa8363b0a2b30f0953f509f7ba78163747ee4ea188a69f45c9bf4326544c3
+machine_hash: 963450a65f51b43f21f743ce41dc136a3f357d94e69bb30a053967fb9413b9f6
 product: openhands
 product_name: OpenHands
 record:
@@ -42,8 +42,7 @@ record:
   title: 'feat(chat): add optional voice dictation to the chat input'
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-10-01-49073-surface-realtime-voice-catalog-failures-in-the-tui-etraut-openai|♯49073
-  Surface realtime voice catalog failures in the TUI @etraut-openai]]'
+- '[[Changes/ElevenLabs/2026-10-05-packages|Packages]]'
 - '[[Changes/GitHub Copilot CLI/2026-10-05-voice-runtime-install-errors-name-why-the-download-from-nuget-org-failed-not-onl|Voice
   runtime install errors name why the download from nuget.org failed, not only…]]'
 - '[[Changes/ChatGPT/2026-10-06-upload-audio-files-to-chatgpt-to-create-transcripts-summarize-recordings-and-ask|Audio
@@ -91,7 +90,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-08-11 · Aider · [[Changes/Aider/2023-08-11-voice-to-code-https-aider-chat-docs-voice-html-support-which-allows-you-to-code|Voice-to-code((source link) support, which allows you…]]
+- Earliest same-theme entry in the tracked set: 2023-07-10 · Dify · [[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2 Voice and Audio changes in 0.3.7]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

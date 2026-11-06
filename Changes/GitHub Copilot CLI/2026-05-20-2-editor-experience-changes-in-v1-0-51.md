@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 465c509bc2d73ca325b59bb00d3f61fd59965d4efd45ea0a9de66edd9ca6e31d
+machine_hash: 0851d645af138f6c9d0b87a8377e9147d47c84230f54452d73d7fbad14ce772d
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -44,8 +44,8 @@ record:
   title: 2 Editor Experience changes in v1.0.51
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-05-19-fewer-spurious-tool-errors-during-search-head-tail-file-views-now-satisfy-the-re|Fewer
-  spurious tool errors during search]]'
+- '[[Changes/Dify/2026-05-19-feat-messagelogmodal-refactor-modal-structure-and-improve-tab-handling-by-coding|feat(MessageLogModal):
+  refactor modal structure and improve tab handling]]'
 - '[[Changes/GitHub Copilot CLI/2026-05-19-file-diffs-are-correctly-reported-to-acp-clients-for-all-edit-tool-types|File
   diffs are correctly reported to ACP clients for all edit tool types]]'
 - '[[Changes/Codex CLI/2026-05-20-3-editor-experience-changes-in-rust-v0-132-0|3 Editor

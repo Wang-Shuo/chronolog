@@ -4,20 +4,20 @@ date: '2026-01-09'
 description: 'Codex CLI · 2026-01-09 · Files and Data: App-server README now documents
   skills support and usage. (#8853)'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-07-06-we-re-rolling-out-code-interpreter-to-all-chatgpt-plus-users-over-the-next-week-66255e|Code
-    interpreter is now rolling out in beta on web]]'
+  first_in_tracked: '[[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2
+    Files and Data changes in 0.2.2]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 918
+  lag_days: 960
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: c5efa9290589840dfe20ea14497bf4cb9df4d71338057330454a3cc99f91d983
+machine_hash: bb30d51acd74d3ec33ca570d2b08754865b9fcf57f94a3433c202c5962a27c70
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -43,10 +43,10 @@ record:
   title: App-server README now documents skills support and usage
   type: change
 related_changes:
-- '[[Changes/Cline/2025-11-27-docs-document-proxy-settings-by-dominiccooney-in-https-github-com-cline-cline-pu|docs:
-  Document proxy settings]]'
-- '[[Changes/Codex CLI/2025-12-15-8024-docs-document-enabling-experimental-skills|♯8024
-  docs: document enabling experimental skills]]'
+- '[[Changes/Open WebUI/2025-12-21-6-files-and-data-changes-in-v0-6-42|6 Files and
+  Data changes in v0.6.42]]'
+- '[[Changes/Dify/2025-12-25-add-file-upload-enabled-check-and-new-i18n-message-by-halogen22-in-https-github|Add
+  file upload enabled check and new i18n message]]'
 - '[[Changes/Cline/2026-01-09-revert-8341-due-to-regressions-in-diff-view-document-truncation-see-8423-8429|Revert
   ♯8341 due to regressions in diff view/document truncation (see ♯8423, ♯8429)]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-01-09-rust-v0-80-0-github-275597320-df7b3faf|codex-cli-2026-01-09-rust-v0-80-0-github-275597320-df7b3faf]]'
@@ -87,13 +87,13 @@ type: change
 ## Nearby in Files and Data
 
 - Earlier: 2026-01-09 · Cline · [[Changes/Cline/2026-01-09-revert-8341-due-to-regressions-in-diff-view-document-truncation-see-8423-8429|Revert ♯8341 due to regressions in diff view/document truncation (see ♯8423, ♯8429)]]
-- Later: 2026-01-14 · Codex CLI · [[Changes/Codex CLI/2026-01-14-9020-fix-tui-document-paste-burst-state-machine-joshka-oai|♯9020 fix(tui): document paste-burst state machine @joshka-oai]]
+- Later: 2026-01-09 · Open WebUI · [[Changes/Open WebUI/2026-01-09-5-files-and-data-changes-in-v0-7-0|5 Files and Data changes in v0.7.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-07-06 · ChatGPT · [[Changes/ChatGPT/2023-07-06-we-re-rolling-out-code-interpreter-to-all-chatgpt-plus-users-over-the-next-week-66255e|Code interpreter is now rolling out in beta on web]]
+- Earliest same-theme entry in the tracked set: 2023-05-25 · Dify · [[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2 Files and Data changes in 0.2.2]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

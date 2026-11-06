@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 2c03d03660621bd299515b05e2ca67647c4ce4fdd841b070edad38d337274e21
+machine_hash: 123ce0f852483b0a5554ffaec231cb6e1aa3eb73b2c3f6eb2b7d00edbabcca9f
 product: cursor
 product_name: Cursor
 record:
@@ -50,8 +50,8 @@ record:
   title: New Settings and Dashboard
   type: change
 related_changes:
-- '[[Changes/Cline/2025-05-28-add-improved-onboarding-experience-for-new-users-with-guided-setup|Add
-  improved onboarding experience for new users with guided setup]]'
+- "[[Changes/Open WebUI/2025-05-29-localization-upgrades-experience-highly-improved-user-interface-translations-and|\U0001F30F
+  Localization Upgrades]]"
 - '[[Changes/ChatGPT/2025-06-03-memory-improvements-are-starting-to-roll-out-to-free-users-in-addition-to-the-sa-a02494|Memory
   improvements are starting to roll out to Free users]]'
 - '[[Changes/Windsurf/2025-06-03-improvements-to-import-behavior-during-onboarding|Improvements
@@ -100,7 +100,7 @@ type: change
 ## Nearby in Interface Experience
 
 - Earlier: 2025-06-03 · Windsurf · [[Changes/Windsurf/2025-06-03-improvements-to-import-behavior-during-onboarding|Improvements to import behavior during onboarding]]
-- Later: 2025-06-10 · Windsurf · [[Changes/Windsurf/2025-06-10-new-menu-to-open-previous-conversations-to-quickly-switch-conversations|New menu to open previous conversations to quickly switch conversations]]
+- Later: 2025-06-10 · Open WebUI · [[Changes/Open WebUI/2025-06-10-tooltip-translation-clarity-improved-translation-and-tooltip-clarity-especially|🛠️ Tooltip & Translation Clarity]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

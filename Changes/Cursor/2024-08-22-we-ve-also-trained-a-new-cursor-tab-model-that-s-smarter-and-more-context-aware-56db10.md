@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 97b95d987befc77c901aa0c28b0f63dac9cd6d3d30bf83db6b9fa9c142df0b84
+machine_hash: 7ada31b6cf0cce8b2dc720d5b086b57ca9fb7cc5f1582df16fc5c756754b3a91
 product: cursor
 product_name: Cursor
 record:
@@ -61,8 +61,8 @@ record:
   title: We've also trained a new Cursor Tab model that's smarter and more context-aware
   type: change
 related_changes:
-- '[[Changes/Cline/2024-07-30-export-tasks-to-markdown-files-useful-as-context-for-future-tasks|Export
-  tasks to markdown files (useful as context for future tasks)]]'
+- '[[Changes/Dify/2024-08-06-chore-make-prompt-generator-max-tokens-configurable-by-gijigae-in-https-github-c|chore:
+  make prompt generator max tokens configurable]]'
 - '[[Changes/Aider/2024-08-10-add-read-only-files-to-the-chat-context-with-read-and-read-including-from-outsid|Add
   read-only files to the chat context with /read and --read, including…]]'
 - '[[Changes/Aider/2024-08-13-bug-fix-for-chat-history-size-in-tokens|Bug fix for

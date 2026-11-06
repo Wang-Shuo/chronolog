@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 3bda1b9a7f34fe9b0bcb896dc768cef0ccce83024f2f7da1537aadb83e00ea66
+machine_hash: 2142d4afca366a953035f516019b0455ac39d766d5f6c8877828dea48daccd71
 product: claude-code
 product_name: Claude Code
 record:
@@ -54,9 +54,9 @@ record:
     header…'
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-10-08-50384-allow-opting-into-16-kib-arm64-code-pages-for-macos-signing-chess-oai|♯50384
-  Allow opting into 16 KiB ARM64 code pages for macOS signing @chess-oai]]'
 - '[[Changes/Windsurf/2026-10-12-devin-desktop|Devin Desktop]]'
+- '[[Changes/Gemini/2026-10-13-code-prototype-and-build-with-google-antigravity-in-the-gemini-macos-app|Code,
+  prototype, and build with Google Antigravity in the Gemini macOS app]]'
 - '[[Changes/Claude Code/2026-10-14-2-mobile-and-desktop-changes-in-v2-1-300|2 Mobile
   and Desktop changes in v2.1.300]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-10-15-v2-1-301-github-413913133-a3fb5b4e|claude-code-2026-10-15-v2-1-301-github-413913133-a3fb5b4e]]'

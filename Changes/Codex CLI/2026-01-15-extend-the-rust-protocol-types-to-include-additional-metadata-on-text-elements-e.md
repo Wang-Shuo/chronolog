@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: a9488285ac2101076feafc1e5f2ba9c8c98ed6e4ec9a76913ac983f80b5e0b8e
+machine_hash: 04a9985d14e65d569a7e3ccd9e36b331b1f2306c4c4c1f74bc384163cea0c8b4
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -45,8 +45,8 @@ record:
   title: Extend the Rust protocol/types to include additional metadata on text elements…
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-01-13-shell-mode-history-navigation-now-filters-by-prefix-typing-git-and-pressing-up-a|Shell
-  mode history navigation now filters by prefix - typing !git and pressing up…]]'
+- '[[Changes/v0/2026-01-13-added-credits-display-in-the-user-menu|Added credits display
+  in the user menu]]'
 - '[[Changes/Claude Code/2026-01-14-added-showturnduration-setting-to-hide-turn-duration-messages-e-g-cooked-for-1m|Added
   showTurnDuration setting to hide turn duration messages (e.g., "Cooked for 1m 6s")]]'
 - '[[Changes/Codex CLI/2026-01-14-2-interface-experience-changes-in-rust-v0-81-0|2

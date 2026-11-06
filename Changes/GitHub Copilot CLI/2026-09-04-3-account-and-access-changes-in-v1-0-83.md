@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: d28209b5a3636c00d1ab7008c2cad85b2cc900a63bc2faa9a7b0fa5bc21bb237
+machine_hash: 0fdfb4a035767650ee1be9bbf9feb00910dd763bd949dbe8bd584354947d25bd
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -97,7 +97,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.83
 ## Nearby in Account and Access
 
 - Earlier: 2026-09-04 · Claude Code · [[Changes/Claude Code/2026-09-04-2-account-and-access-changes-in-v2-1-261|2 Account and Access changes in v2.1.261]]
-- Later: 2026-09-08 · Claude Code · [[Changes/Claude Code/2026-09-08-2-account-and-access-changes-in-v2-1-265|2 Account and Access changes in v2.1.265]]
+- Later: 2026-09-07 · Lovable · [[Changes/Lovable/2026-09-07-send-app-emails-from-tanstack-start-projects-without-cloud|Send app emails from TanStack Start projects without Cloud]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

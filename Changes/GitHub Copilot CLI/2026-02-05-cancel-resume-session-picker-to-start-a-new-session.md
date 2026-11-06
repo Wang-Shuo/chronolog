@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 4013468385ff6b2202eb5b9791e66453d21803258549c0d98b04fedb5b2c3485
+machine_hash: 0836e0744eaf52d0d58bed9e662aee00474200331de1c921993c387bd740c6ed
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -82,7 +82,7 @@ type: change
 ## Nearby in Interface Experience
 
 - Earlier: 2026-02-05 · Codex CLI · [[Changes/Codex CLI/2026-02-05-2-interface-experience-changes-in-rust-v0-97-0|2 Interface Experience changes in rust-v0.97.0]]
-- Later: 2026-02-06 · Claude Code · [[Changes/Claude Code/2026-02-06-2-interface-experience-changes-in-v2-1-33|2 Interface Experience changes in v2.1.33]]
+- Later: 2026-02-05 · Lovable · [[Changes/Lovable/2026-02-05-reorder-folders-in-the-dashboard-sidebar-via-drag-and-drop-with-support-for-nest|Reorder folders in the dashboard sidebar via drag and drop, with support for nesting…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

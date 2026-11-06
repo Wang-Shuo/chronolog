@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: a798db01e73f28b35850c2b4cf11d527fe4da3e4595ee6110979dd7a5a6c9b69
+machine_hash: 28028720f86316e752d243ac51489ce9f5ea368708aed458896c5143f0910d3a
 product: cline
 product_name: Cline
 record:
@@ -44,12 +44,11 @@ record:
   title: 2 Account and Access changes in v4.1.7
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-08-03-2-account-and-access-changes-in-v1-0-78|2
-  Account and Access changes in v1.0.78]]'
 - '[[Changes/Claude Code/2026-08-07-changed-managed-settings-the-approval-prompt-no-longer-re-appears-after-re-login|Changed
   managed settings]]'
 - '[[Changes/Codex CLI/2026-08-07-8-account-and-access-changes-in-rust-v0-147-0|8
   Account and Access changes in rust-v0.147.0]]'
+- '[[Changes/Replit/2026-08-07-build-with-sso|Build with SSO]]'
 source_release: '[[Releases/Cline/cline-2026-08-09-v4-1-7-github-367373350-886ff444|cline-2026-08-09-v4-1-7-github-367373350-886ff444]]'
 source_type: github_releases
 theme: account-access
@@ -89,7 +88,7 @@ Source: https://github.com/cline/cline/releases/tag/v4.1.7
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Account and Access
 
-- Earlier: 2026-08-07 · Codex CLI · [[Changes/Codex CLI/2026-08-07-8-account-and-access-changes-in-rust-v0-147-0|8 Account and Access changes in rust-v0.147.0]]
+- Earlier: 2026-08-07 · Replit · [[Changes/Replit/2026-08-07-build-with-sso|Build with SSO]]
 - Later: 2026-08-10 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-08-10-login-links-are-clickable-during-web-and-device-code-sign-in|Login links are clickable during web and device-code sign-in]]
 <!-- chronolog:end -->
 

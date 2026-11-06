@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: b95451a9f8e256199ea4ad2ccace66293f4ee7472463d77602b0656e481e1212
+machine_hash: fc4e627f83758521ed87a7190edbc701bcbbba047e4268d4d27361a2125d277f
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -107,7 +107,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v0.0.422
 ## Nearby in Editor Experience
 
 - Earlier: 2026-03-04 · Cursor · [[Changes/Cursor/2026-03-04-install-the-cursor-acp-directly-in-your-jetbrains-ide-from-the-acp-registry-and|Install the Cursor ACP directly in your JetBrains IDE from the ACP Registry…]]
-- Later: 2026-03-06 · Cline · [[Changes/Cline/2026-03-06-hooks-added-a-notification-hook-for-attention-and-completion-boundaries|Hooks: Added a Notification hook for attention and completion boundaries]]
+- Later: 2026-03-05 · v0 · [[Changes/v0/2026-03-05-added-summary-header-to-diff-tab-showing-file-changes|Added summary header to diff tab showing file changes]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

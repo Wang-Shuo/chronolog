@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: 0beb20dc6cd11ca9396b16427ef0f3a8258448c977accd906661859941938e63
+machine_hash: 929a23766fc1dfed6c020204f7ffc6791b5af0fb1743d3e1e6c92486bcce246d
 product: openhands
 product_name: OpenHands
 record:
@@ -43,9 +43,8 @@ record:
   title: Agent gets stuck in closing and server won't die
   type: change
 related_changes:
-- '[[Changes/OpenHands/2024-12-06-2-agent-mode-changes-in-0-15-1|2 Agent Mode changes
-  in 0.15.1]]'
-- '[[Changes/Aider/2024-12-10-updated-shell-command-prompt|Updated shell command prompt]]'
+- '[[Changes/Replit/2024-12-13-usage-updates-you-ll-love|Usage Updates You’ll Love]]'
+- '[[Changes/Replit/2024-12-13-rapid-scraping-screenshots|Rapid Scraping / Screenshots]]'
 - '[[Changes/OpenHands/2024-12-17-let-user-continue-when-the-agent-gets-stuck-in-a-loop-ui-only-by-enyst-in-https|Let
   user continue when the agent gets stuck in a loop (UI-only)]]'
 source_release: '[[Releases/OpenHands/openhands-2024-12-19-0-16-1-github-191728577-8dadb9d6|openhands-2024-12-19-0-16-1-github-191728577-8dadb9d6]]'
@@ -77,7 +76,7 @@ type: change
 ## Nearby in Agent Mode
 
 - Earlier: 2024-12-17 · OpenHands · [[Changes/OpenHands/2024-12-17-let-user-continue-when-the-agent-gets-stuck-in-a-loop-ui-only-by-enyst-in-https|Let user continue when the agent gets stuck in a loop (UI-only)]]
-- Later: 2025-01-07 · OpenHands · [[Changes/OpenHands/2025-01-07-added-ratelimiterror-status-on-ui-and-agent-state-by-rkat7-in-https-github-com-a|Added RateLimitError status on UI and Agent state]]
+- Later: 2024-12-20 · Replit · [[Changes/Replit/2024-12-20-database-notifications|Database notifications]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

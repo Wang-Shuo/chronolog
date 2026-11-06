@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 506c5371d431b978d89e3546166b7d12f670dfcfa47726e68b4c7db69c48099a
+machine_hash: 591f202dcc902df4a9559b18e06ff1dd59bcdd898df511fb9e7b2231b509ad15
 product: cline
 product_name: Cline
 record:
@@ -65,7 +65,7 @@ related_changes:
 source_release: '[[Releases/Cline/cline-2026-01-30-v3-56-0-github-281356951-bdf900e3|cline-2026-01-30-v3-56-0-github-281356951-bdf900e3]]'
 source_type: github_releases
 theme: account-access
-title: '_CLI authentication: Added Vercel AI Gateway and Cline API key provider support…'
+title: 'CLI authentication: Added Vercel AI Gateway and Cline API key provider support…'
 type: change
 ---
 
@@ -84,9 +84,9 @@ type: change
 <!-- chronolog:begin region="context" -->
 ## Also in this release
 
-- [[Changes/Cline/2026-01-30-new-model-added-kimi-k2-5-model-to-moonshot-provider-262k-context-image-support-53f1f0|_New model: Added Kimi-K2.5 model to Moonshot provider…]] · Context Window
-- [[Changes/Cline/2026-01-30-hooks-hook-scripts-now-run-from-the-workspace-repository-root-instead-of-filesys|_Hooks: Hook scripts now run from the workspace repository root instead…]] · Apps and Integrations
-- [[Changes/Cline/2026-01-30-litellm-fixed-thinking-configuration-not-appearing-for-reasoning-capable-models-c6cd73|_LiteLLM: Fixed thinking configuration not appearing for reasoning-capable models]] · Model Support
+- [[Changes/Cline/2026-01-30-new-model-added-kimi-k2-5-model-to-moonshot-provider-262k-context-image-support-53f1f0|New model: Added Kimi-K2.5 model to Moonshot provider…]] · Context Window
+- [[Changes/Cline/2026-01-30-hooks-hook-scripts-now-run-from-the-workspace-repository-root-instead-of-filesys|Hooks: Hook scripts now run from the workspace repository root instead…]] · Apps and Integrations
+- [[Changes/Cline/2026-01-30-litellm-fixed-thinking-configuration-not-appearing-for-reasoning-capable-models-c6cd73|LiteLLM: Fixed thinking configuration not appearing for reasoning-capable models]] · Model Support
 - [[Changes/Cline/2026-01-30-6-other-changes-in-v3-56-0|6 other changes in v3.56.0]] · Other changes
 <!-- chronolog:end -->
 
@@ -94,7 +94,7 @@ type: change
 ## Nearby in Account and Access
 
 - Earlier: 2026-01-27 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-01-27-error-messages-consistently-reference-login-and-logout-commands|Error messages consistently reference /login and /logout commands]]
-- Later: 2026-01-30 · Cline · [[Changes/Cline/2026-01-30-cli-authentication-added-vercel-ai-gateway-and-cline-api-key-provider-support-fo-4bce9f|_CLI authentication: Added Vercel AI Gateway and Cline API key provider support…]]
+- Later: 2026-01-30 · Cline · [[Changes/Cline/2026-01-30-cli-authentication-added-vercel-ai-gateway-and-cline-api-key-provider-support-fo-4bce9f|CLI authentication: Added Vercel AI Gateway and Cline API key provider support…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

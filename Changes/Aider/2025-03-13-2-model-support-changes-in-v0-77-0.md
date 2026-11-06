@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 2380befc9f054a136fa9bbc720799ca3075245beb4f52dfdb86195af9c3fdd29
+machine_hash: a9f3d5cdf0274e7f3b5f62ee94722afadb36d96081f74ca66f482bb4a8a46894
 product: aider
 product_name: Aider
 record:
@@ -42,12 +42,12 @@ record:
   title: 2 Model Support changes in v0.77.0
   type: change
 related_changes:
-- '[[Changes/Cline/2025-03-10-2-model-support-changes-in-v3-6-9|2 Model Support changes
-  in v3.6.9]]'
 - '[[Changes/Cursor/2025-03-11-sonnet-3-7-thinking-we-ve-made-a-few-improvements-to-3-7-prompting-thinking-will|Sonnet
   3.7 thinking: We''ve made a few improvements to 3.7 prompting]]'
 - '[[Changes/Cursor/2025-03-11-3-model-support-changes-in-0-47-x|3 Model Support changes
   in 0.47.x]]'
+- '[[Changes/Ollama/2025-03-11-gemma-3-https-ollama-com-library-gemma3-google-gemma-3-model-is-now-available-in|Gemma
+  3((source link) Google Gemma 3 model is now available…]]'
 source_release: '[[Releases/Aider/aider-2025-03-13-v0-77-0-github-205707771-facc801d|aider-2025-03-13-v0-77-0-github-205707771-facc801d]]'
 source_type: github_releases
 theme: model-support
@@ -86,8 +86,8 @@ Source: https://github.com/Aider-AI/aider/releases/tag/v0.77.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2025-03-11 · Cursor · [[Changes/Cursor/2025-03-11-3-model-support-changes-in-0-47-x|3 Model Support changes in 0.47.x]]
-- Later: 2025-03-18 · ChatGPT · [[Changes/ChatGPT/2025-03-18-o1-and-o3-mini-now-offer-python-powered-data-analysis-in-chatgpt-you-can-now-ask-bfa530|o1 and o3-mini now offer Python-powered data analysis in ChatGPT]]
+- Earlier: 2025-03-11 · Ollama · [[Changes/Ollama/2025-03-11-gemma-3-https-ollama-com-library-gemma3-google-gemma-3-model-is-now-available-in|Gemma 3((source link) Google Gemma 3 model is now available…]]
+- Later: 2025-03-13 · Gemini · [[Changes/Gemini/2025-03-13-deep-research-is-now-powered-by-gemini-2-0-flash-thinking-experimental-and-avail|Deep Research is now powered by Gemini 2.0 Flash Thinking (experimental)…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

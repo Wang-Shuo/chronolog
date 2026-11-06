@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 8ea2c79c471835d7fa7e418c989c666581a1523fa5efc4bd21092abaacda419f
+machine_hash: a939a52e5c82697c3493c3f438846068c22eac187ba0ade73965d4d5399cba38
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -42,11 +42,11 @@ record:
   title: 'refactor(todo): improve performance and readability of todo component'
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2025-10-30-chore-speed-up-pipeline-in-https-github-com-openai-codex-pull-5812|chore:
-  speed-up pipeline in (source link)]]'
-- '[[Changes/Cline/2025-10-31-refactor-ui-improve-tooltip-and-task-header-responsiveness-by-abeatrix-in-https|refactor(ui):
-  improve tooltip and task header responsiveness]]'
 - '[[Changes/Windsurf/2025-11-04-performance-improvements|Performance Improvements]]'
+- '[[Changes/Ollama/2025-11-05-add-vulkan-memory-detection-for-intel-gpu-using-dxgi-pdh|Add
+  Vulkan memory detection for Intel GPU using DXGI+PDH]]'
+- '[[Changes/Open WebUI/2025-11-06-3-reliability-and-performance-changes-in-v0-6-35|3
+  Reliability and Performance changes in v0.6.35]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2025-11-07-v0-13-0-github-260462305-15cfa0b7|gemini-cli-2025-11-07-v0-13-0-github-260462305-15cfa0b7]]'
 source_type: github_releases
 theme: reliability-performance
@@ -88,8 +88,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2025-11-04 · Windsurf · [[Changes/Windsurf/2025-11-04-performance-improvements|Performance Improvements]]
-- Later: 2025-11-17 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2025-11-17-improve-ctrl-c-performance|Improve Ctrl+C performance]]
+- Earlier: 2025-11-06 · Open WebUI · [[Changes/Open WebUI/2025-11-06-3-reliability-and-performance-changes-in-v0-6-35|3 Reliability and Performance changes in v0.6.35]]
+- Later: 2025-11-12 · Ollama · [[Changes/Ollama/2025-11-12-improved-rendering-performance-in-ollama-s-new-app-especially-when-rendering-cod|Improved rendering performance in Ollama's new app, especially when rendering code]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

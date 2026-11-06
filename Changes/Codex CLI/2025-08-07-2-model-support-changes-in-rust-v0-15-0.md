@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 423600f52394ff077598c5ccea5777d100198c7a79219310343b414bd358a5d1
+machine_hash: 9b31aae6efbf1584d0279f25d0c44004adfcf238a2b31255cdb1af08e984448e
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -82,7 +82,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.15.0
 ## Nearby in Model Support
 
 - Earlier: 2025-08-07 · Cline · [[Changes/Cline/2025-08-07-pashpashpash-gpt-5-release-by-pashpashpash-in-https-github-com-cline-cline-pull|Pashpashpash/gpt 5 release]]
-- Later: 2025-08-07 · Windsurf · [[Changes/Windsurf/2025-08-07-gpt-5-available|GPT-5 Available]]
+- Later: 2025-08-07 · Ollama · [[Changes/Ollama/2025-08-07-openai-always-provide-reasoning-by-drifkin-in-https-github-com-ollama-ollama-pul|openai: always provide reasoning]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

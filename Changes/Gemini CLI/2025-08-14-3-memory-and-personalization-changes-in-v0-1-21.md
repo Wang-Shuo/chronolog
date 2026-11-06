@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: memory
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: eae99dc54dd8750e1e76252a5d37b35be994d9e5f7429c5b8868518db5a14ee6
+machine_hash: 4446b427ce7c4844ba651d98bd1b246cc67246b50b168821c98c7570a93d76b5
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -47,10 +47,10 @@ record:
   title: 3 Memory and Personalization changes in v0.1.21
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2025-08-05-2-memory-and-personalization-changes-in-v0-1-17|2
-  Memory and Personalization changes in v0.1.17]]'
-- '[[Changes/Gemini CLI/2025-08-06-2-memory-and-personalization-changes-in-v0-1-18|2
-  Memory and Personalization changes in v0.1.18]]'
+- "[[Changes/Open WebUI/2025-08-09-enhanced-memory-stability-and-security-refactored-memory-update-and-delete-opera|\U0001F9E0
+  Enhanced Memory Stability and Security]]"
+- '[[Changes/Dify/2025-08-11-chore-remove-unused-variable-pruned-memory-by-hyongtao-db-in-https-github-com-la|Chore:
+  remove unused variable pruned_memory]]'
 - '[[Changes/Gemini CLI/2025-08-12-feat-drop-load-memory-from-include-directories-option-from-cli-args-by-y-okt-in|feat:
   drop load-memory-from-include-directories option from cli args]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2025-08-14-v0-1-21-github-239867721-f576cbaa|gemini-cli-2025-08-14-v0-1-21-github-239867721-f576cbaa]]'

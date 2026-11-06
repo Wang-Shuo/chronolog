@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: ec093d492389aeb7cf9c4f2cdd38f5a00512dc3b604b830e04750bd7bfc1a570
+machine_hash: a8dcdd55b835fa67aec7ff977c9dd552d454d5b4984d3c776fc4e4755ab30695
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -59,8 +59,7 @@ record:
   title: 9 Interface Experience changes in rust-v0.157.0
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-09-23-4-interface-experience-changes-in-v2-1-281|4 Interface
-  Experience changes in v2.1.281]]'
+- '[[Changes/Lovable/2026-09-23-redesigned-projects-page|Redesigned Projects page]]'
 - '[[Changes/Claude Code/2026-09-24-4-interface-experience-changes-in-v2-1-282|4 Interface
   Experience changes in v2.1.282]]'
 - '[[Changes/Claude Code/2026-09-25-2-interface-experience-changes-in-v2-1-283|2 Interface

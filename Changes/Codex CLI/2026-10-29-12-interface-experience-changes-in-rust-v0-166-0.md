@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 5d94e053a753973124eb3619e0c11452cd5757f95ec80cc0d49c36a6e3bc3fe6
+machine_hash: 6d1593c3957789ae9a1fcd232164b7386cff9e0988bd3ea09a90bf8f3ac2358e
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -67,12 +67,10 @@ record:
   title: 12 Interface Experience changes in rust-v0.166.0
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-27-2-interface-experience-changes-in-v2-1-312|2 Interface
-  Experience changes in v2.1.312]]'
-- '[[Changes/Codex CLI/2026-10-27-added-a-repository-filter-to-the-session-picker-and-directory-grouping-to-the-ag|Added
-  a repository filter to the session picker and directory grouping to the agent…]]'
+- '[[Changes/Lovable/2026-10-27-redesigned-sidebar|Redesigned sidebar]]'
 - '[[Changes/OpenHands/2026-10-27-3-interface-experience-changes-in-v1-34-0|3 Interface
   Experience changes in v1.34.0]]'
+- '[[Changes/Lovable/2026-10-28-redesigned-share-menu|Redesigned Share menu]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-10-29-rust-v0-166-0-github-428320524-44f8c24a|codex-cli-2026-10-29-rust-v0-166-0-github-428320524-44f8c24a]]'
 source_type: github_releases
 theme: interface-experience
@@ -140,8 +138,8 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.166.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-10-27 · OpenHands · [[Changes/OpenHands/2026-10-27-3-interface-experience-changes-in-v1-34-0|3 Interface Experience changes in v1.34.0]]
-- Later: 2026-11-03 · OpenHands · [[Changes/OpenHands/2026-11-03-12-interface-experience-changes-in-v1-35-0|12 Interface Experience changes in v1.35.0]]
+- Earlier: 2026-10-28 · Lovable · [[Changes/Lovable/2026-10-28-redesigned-share-menu|Redesigned Share menu]]
+- Later: 2026-10-29 · Lovable · [[Changes/Lovable/2026-10-29-bring-your-app-or-website-to-lovable|Bring your app or website to Lovable]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

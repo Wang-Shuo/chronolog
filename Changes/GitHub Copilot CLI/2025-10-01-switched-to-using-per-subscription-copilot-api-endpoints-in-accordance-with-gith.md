@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: pricing
-machine_hash: c2b967e56704212d9e23d56651ecee146afcc8d97822e8c5db8550db45d28e4b
+machine_hash: 7eb3cecbe9990be980a1f930d141e4dc2bf975590c48d4480beb2ac5c56434e1
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -44,10 +44,9 @@ record:
   title: Switched to using per-subscription Copilot API endpoints in accordance…
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2025-08-18-we-re-launching-chatgpt-go-a-new-low-cost-subscription-plan-this-will-initially-e5f740|ChatGPT
-  launches ChatGPT Go, a new low-cost subscription plan]]'
-- '[[Changes/Gemini CLI/2025-08-18-update-quota-and-pricing-md-to-clarify-billing-by-blanca-delgado-parra-in-https|Update
-  quota-and-pricing.md to clarify billing]]'
+- '[[Changes/Replit/2025-08-29-organization-subscription-cancellation|Organization
+  subscription cancellation]]'
+- '[[Changes/Lovable/2025-09-01-flexible-plan-management|Flexible plan management]]'
 - '[[Changes/ChatGPT/2025-09-22-we-re-launching-chatgpt-go-our-low-cost-subscription-plan-in-indonesia-for-rp-75|ChatGPT
   launches ChatGPT Go, our low cost subscription plan, in Indonesia]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2025-10-01-v0-0-332-github-251578896-6e8ac1df|github-copilot-cli-2025-10-01-v0-0-332-github-251578896-6e8ac1df]]'
@@ -82,7 +81,7 @@ type: change
 ## Nearby in Pricing Model
 
 - Earlier: 2025-09-22 · ChatGPT · [[Changes/ChatGPT/2025-09-22-we-re-launching-chatgpt-go-our-low-cost-subscription-plan-in-indonesia-for-rp-75|ChatGPT launches ChatGPT Go, our low cost subscription plan, in Indonesia]]
-- Later: 2025-10-08 · ChatGPT · [[Changes/ChatGPT/2025-10-08-we-re-excited-to-announce-that-chatgpt-go-our-low-cost-subscription-plan-is-now|ChatGPT Go, our low cost subscription plan, is now available in 16 additional countries]]
+- Later: 2025-10-01 · v0 · [[Changes/v0/2025-10-01-it-no-longer-costs-credits-to-use-fix-with-v0-when-v0-makes-an-error|It no longer costs credits to use "Fix with v0" when v0 makes an error]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

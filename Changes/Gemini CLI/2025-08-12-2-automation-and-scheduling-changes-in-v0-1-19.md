@@ -4,20 +4,20 @@ date: '2025-08-12'
 description: 'Gemini CLI · 2025-08-12 · Automation and Scheduling: 2 changes in Release
   v0.1.19 — Add a request queue to the tool scheduler by @jakemac53 in…'
 diffusion:
-  first_in_tracked: '[[Changes/OpenHands/2024-09-04-better-syntax-error-loop-detection-by-tobitege-in-https-github-com-all-hands-ai|Better
-    syntax error loop detection]]'
+  first_in_tracked: '[[Changes/Dify/2024-01-02-add-data-clean-schedule-by-johnjyong-in-https-github-com-langgenius-dify-pull-18|Add
+    data clean schedule]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 342
+  lag_days: 588
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: automation-scheduling
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: c3852afae7756a2a85e59ab97cd95784d6cd4e2b87516fe88db513cfb04a9b78
+machine_hash: 9ffe0e49af5f90787646b21eb353b500ce03c45b58a7fcc44b4ac5f2976cb7d3
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -42,12 +42,12 @@ record:
   title: 2 Automation and Scheduling changes in v0.1.19
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2025-08-02-5-automation-and-scheduling-changes-in-v0-1-16|5
-  Automation and Scheduling changes in v0.1.16]]'
 - '[[Changes/Gemini CLI/2025-08-05-6-automation-and-scheduling-changes-in-v0-1-17|6
   Automation and Scheduling changes in v0.1.17]]'
 - '[[Changes/Gemini CLI/2025-08-06-6-automation-and-scheduling-changes-in-v0-1-18|6
   Automation and Scheduling changes in v0.1.18]]'
+- '[[Changes/Open WebUI/2025-08-09-customizable-floating-quick-actions-with-tool-support-take-full-control-of-your|✍️
+  Customizable Floating Quick Actions with Tool Support]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2025-08-12-v0-1-19-github-239452049-c4d9f679|gemini-cli-2025-08-12-v0-1-19-github-239452049-c4d9f679]]'
 source_type: github_releases
 theme: automation-scheduling
@@ -91,14 +91,14 @@ Source: https://github.com/google-gemini/gemini-cli/releases/tag/v0.1.19
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Automation and Scheduling
 
-- Earlier: 2025-08-06 · Gemini CLI · [[Changes/Gemini CLI/2025-08-06-6-automation-and-scheduling-changes-in-v0-1-18|6 Automation and Scheduling changes in v0.1.18]]
+- Earlier: 2025-08-09 · Open WebUI · [[Changes/Open WebUI/2025-08-09-customizable-floating-quick-actions-with-tool-support-take-full-control-of-your|✍️ Customizable Floating Quick Actions with Tool Support]]
 - Later: 2025-08-14 · Gemini CLI · [[Changes/Gemini CLI/2025-08-14-8-automation-and-scheduling-changes-in-v0-1-21|8 Automation and Scheduling changes in v0.1.21]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2024-09-04 · OpenHands · [[Changes/OpenHands/2024-09-04-better-syntax-error-loop-detection-by-tobitege-in-https-github-com-all-hands-ai|Better syntax error loop detection]]
+- Earliest same-theme entry in the tracked set: 2024-01-02 · Dify · [[Changes/Dify/2024-01-02-add-data-clean-schedule-by-johnjyong-in-https-github-com-langgenius-dify-pull-18|Add data clean schedule]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

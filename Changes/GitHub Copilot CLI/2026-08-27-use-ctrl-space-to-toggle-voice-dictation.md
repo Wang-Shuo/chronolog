@@ -4,20 +4,20 @@ date: '2026-08-27'
 description: 'GitHub Copilot CLI · 2026-08-27 · Voice and Audio: Use Ctrl+Space to
   toggle voice dictation.'
 diffusion:
-  first_in_tracked: '[[Changes/Aider/2023-08-11-voice-to-code-https-aider-chat-docs-voice-html-support-which-allows-you-to-code|Voice-to-code((source
-    link) support, which allows you…]]'
+  first_in_tracked: '[[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2
+    Voice and Audio changes in 0.3.7]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1112
+  lag_days: 1144
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 87a1061ca833d9316cca98b2bfdc770d7da60916be7e005f20ef6026b256e3ac
+machine_hash: a4970c4505b8a1a80e1da073e04a718330acd85ac1d65e5947ac8b9dcf7267e7
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -40,10 +40,10 @@ record:
   title: Use Ctrl+Space to toggle voice dictation
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-08-21-alpine-musl-builds-native-image-paste-clipboard-and-audio-capture-add-ons-now-lo|Alpine/musl
-  builds: native image paste, clipboard, and audio-capture add-ons now…]]'
-- '[[Changes/Cline/2026-08-21-stop-offering-image-voice-and-other-non-chat-models-in-chat-model-pickers|Stop
-  offering image, voice, and other non-chat models in chat model pickers]]'
+- '[[Changes/Dify/2026-08-25-audio-asr-now-accepts-audio-x-m4a-and-audio-mime-types-are-validated-more-accura|Audio
+  ASR now accepts audio/x-m4a, and audio MIME types are validated more…]]'
+- '[[Changes/Open WebUI/2026-08-25-4-voice-and-audio-changes-in-v0-11-1|4 Voice and
+  Audio changes in v0.11.1]]'
 - '[[Changes/Codex CLI/2026-08-26-39953-support-voice-aware-configuration-and-version-skew-builds-copyberry|♯39953
   Support voice-aware configuration and version-skew builds @copyberry]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-08-27-v1-0-81-github-377993714-523d567a|github-copilot-cli-2026-08-27-v1-0-81-github-377993714-523d567a]]'
@@ -96,7 +96,7 @@ type: change
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-08-11 · Aider · [[Changes/Aider/2023-08-11-voice-to-code-https-aider-chat-docs-voice-html-support-which-allows-you-to-code|Voice-to-code((source link) support, which allows you…]]
+- Earliest same-theme entry in the tracked set: 2023-07-10 · Dify · [[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2 Voice and Audio changes in 0.3.7]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 59d7211ca1cde1facfff34e481469564e55056d281ee813878dd18342af4faef
+machine_hash: b37643e6c9ad4502514c2eedd26f72a10ca86211f5aa95b4c1e55f6821261a51
 product: cursor
 product_name: Cursor
 record:
@@ -49,8 +49,8 @@ record:
   title: 4 Agent Mode changes in 2.4
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2026-01-21-13-agent-mode-changes-in-v0-25-0|13 Agent Mode
-  changes in v0.25.0]]'
+- '[[Changes/v0/2026-01-21-added-ai-sdk-v6-support-for-agents|Added AI SDK v6 support
+  for agents]]'
 - '[[Changes/Codex CLI/2026-01-22-9650-chore-tweak-agents-md-dylan-hurd-oai|♯9650
   chore: tweak AGENTS.md @dylan-hurd-oai]]'
 - '[[Changes/Cursor/2026-01-22-skills|Skills]]'

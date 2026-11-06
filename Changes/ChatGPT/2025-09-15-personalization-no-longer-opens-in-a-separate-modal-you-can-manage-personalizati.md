@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: memory
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 73f35c6a94ac0716f24e46635f34e323128e108a3c5501f50674860f0c9a554b
+machine_hash: 8b08e55a4f380058b2d5d226bc928b86dc3373c6b530dd64582782afc6903c79
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -45,11 +45,11 @@ record:
   title: Personalization settings are now in Settings
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2025-08-22-an-improvement-to-projects-is-now-available-when-creating-a-project-users-have-t-87f79a|An
-  improvement to projects is now available]]'
 - '[[Changes/Windsurf/2025-08-28-memory-improvements|Memory improvements]]'
 - '[[Changes/Gemini CLI/2025-09-04-2-memory-and-personalization-changes-in-v0-3-0|2
   Memory and Personalization changes in v0.3.0]]'
+- '[[Changes/Claude/2025-09-11-claude-s-memory-on-team-plans-and-incognito-chats-for-free-pro-max-and-team-plan|Claude’s
+  memory on Team plans and incognito chats for free, Pro, Max, and Team plans]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-09-15-personalization-settings-are-now-in-settings-bdb1bffc|chatgpt-2025-09-15-personalization-settings-are-now-in-settings-bdb1bffc]]'
 source_type: chatgpt_changelog
 theme: memory
@@ -76,8 +76,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Memory and Personalization
 
-- Earlier: 2025-09-04 · Gemini CLI · [[Changes/Gemini CLI/2025-09-04-2-memory-and-personalization-changes-in-v0-3-0|2 Memory and Personalization changes in v0.3.0]]
-- Later: 2025-09-22 · ChatGPT · [[Changes/ChatGPT/2025-09-22-longer-memory-for-more-personalized-responses|Longer memory for more personalized responses]]
+- Earlier: 2025-09-11 · Claude · [[Changes/Claude/2025-09-11-claude-s-memory-on-team-plans-and-incognito-chats-for-free-pro-max-and-team-plan|Claude’s memory on Team plans and incognito chats for free, Pro, Max, and Team plans]]
+- Later: 2025-09-18 · Claude · [[Changes/Claude/2025-09-18-claude-s-memory-on-enterprise-plans|Claude’s memory on Enterprise plans]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

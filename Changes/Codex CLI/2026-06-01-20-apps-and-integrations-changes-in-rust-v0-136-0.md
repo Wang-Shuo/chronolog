@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 3090d0da1a6f564dc1513638e8aa9fb29ed877c0434cf537dd1862fbf3801c2a
+machine_hash: 6a26f1385cdd07bcd19feee77f7dc9bf0b676e118920354b390d6e7515e69f12
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -93,12 +93,11 @@ record:
   title: 20 Apps and Integrations changes in rust-v0.136.0
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-05-28-10-apps-and-integrations-changes-in-v1-0-55|10
-  Apps and Integrations changes in v1.0.55]]'
 - '[[Changes/Claude Code/2026-05-29-4-apps-and-integrations-changes-in-v2-1-157|4
   Apps and Integrations changes in v2.1.157]]'
 - '[[Changes/GitHub Copilot CLI/2026-05-29-2-apps-and-integrations-changes-in-v1-0-56|2
   Apps and Integrations changes in v1.0.56]]'
+- '[[Changes/Replit/2026-05-29-integrations|Integrations]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-06-01-rust-v0-136-0-github-332669350-976b06b6|codex-cli-2026-06-01-rust-v0-136-0-github-332669350-976b06b6]]'
 source_type: github_releases
 theme: apps-integrations
@@ -178,8 +177,8 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.136.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-05-29 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-05-29-2-apps-and-integrations-changes-in-v1-0-56|2 Apps and Integrations changes in v1.0.56]]
-- Later: 2026-06-01 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-06-01-5-apps-and-integrations-changes-in-v1-0-57|5 Apps and Integrations changes in v1.0.57]]
+- Earlier: 2026-05-29 · Replit · [[Changes/Replit/2026-05-29-integrations|Integrations]]
+- Later: 2026-06-01 · ElevenLabs · [[Changes/ElevenLabs/2026-06-01-sdk-releases|SDK Releases]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

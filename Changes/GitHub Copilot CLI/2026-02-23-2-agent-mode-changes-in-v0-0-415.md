@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 3480f9c71162d27bde70b3492130428331afc104088d733a257ab87e756476c1
+machine_hash: 23ee0243225a8d9d1210dd081cba9ecc5e4a3026e9a9f14d37a1161f63ac8bfe
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -44,12 +44,11 @@ record:
   title: 2 Agent Mode changes in v0.0.415
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2026-02-18-8-agent-mode-changes-in-v0-29-0|8 Agent Mode changes
-  in v0.29.0]]'
-- '[[Changes/GitHub Copilot CLI/2026-02-19-3-agent-mode-changes-in-v0-0-412|3 Agent
-  Mode changes in v0.0.412]]'
 - '[[Changes/Claude Code/2026-02-20-2-agent-mode-changes-in-v2-1-50|2 Agent Mode changes
   in v2.1.50]]'
+- '[[Changes/Replit/2026-02-20-production-deployment-logs-access|Production deployment
+  logs access]]'
+- '[[Changes/ElevenLabs/2026-02-23-elevenagents|ElevenAgents]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-02-23-v0-0-415-github-289607575-3b8d8d7c|github-copilot-cli-2026-02-23-v0-0-415-github-289607575-3b8d8d7c]]'
 source_type: github_releases
 theme: agent-mode
@@ -85,8 +84,8 @@ Source: https://github.com/github/copilot-cli/releases/tag/v0.0.415
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2026-02-20 · Claude Code · [[Changes/Claude Code/2026-02-20-2-agent-mode-changes-in-v2-1-50|2 Agent Mode changes in v2.1.50]]
-- Later: 2026-02-24 · Cline · [[Changes/Cline/2026-02-24-3-agent-mode-changes-in-v3-67-0|3 Agent Mode changes in v3.67.0]]
+- Earlier: 2026-02-23 · ElevenLabs · [[Changes/ElevenLabs/2026-02-23-elevenagents|ElevenAgents]]
+- Later: 2026-02-23 · Lovable · [[Changes/Lovable/2026-02-23-file-edits-now-persist-when-stopping-the-agent-so-you-can-resume-work-without-lo|File edits now persist when stopping the agent, so you can resume work without…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

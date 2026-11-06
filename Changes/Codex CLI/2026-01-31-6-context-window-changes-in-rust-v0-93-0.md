@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: ef244bc5280e90ad6c6a5bbfa1adfd73dddb8beb48252c0e137057356e5a85db
+machine_hash: eb378f208cbf0b6ce51a4b0f71d6e54a746a6e405f006c200d84ea0332430086
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -54,11 +54,11 @@ record:
   title: 6 Context Window changes in rust-v0.93.0
   type: change
 related_changes:
-- '[[Changes/Cline/2026-01-30-new-model-added-kimi-k2-5-model-to-moonshot-provider-262k-context-image-support|_New
+- '[[Changes/Cline/2026-01-30-new-model-added-kimi-k2-5-model-to-moonshot-provider-262k-context-image-support|New
   model: Added Kimi-K2.5 model to Moonshot provider…]]'
-- '[[Changes/Cline/2026-01-30-new-model-added-kimi-k2-5-model-to-moonshot-provider-262k-context-image-support-53f1f0|_New
+- '[[Changes/Cline/2026-01-30-new-model-added-kimi-k2-5-model-to-moonshot-provider-262k-context-image-support-53f1f0|New
   model: Added Kimi-K2.5 model to Moonshot provider…]]'
-- '[[Changes/Cline/2026-01-30-new-model-added-kimi-k2-5-model-to-moonshot-provider-262k-context-image-support-9b8adb|_New
+- '[[Changes/Cline/2026-01-30-new-model-added-kimi-k2-5-model-to-moonshot-provider-262k-context-image-support-9b8adb|New
   model: Added Kimi-K2.5 model to Moonshot provider…]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-01-31-rust-v0-93-0-github-281755443-684a63d8|codex-cli-2026-01-31-rust-v0-93-0-github-281755443-684a63d8]]'
 source_type: github_releases
@@ -114,7 +114,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.93.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Context Window
 
-- Earlier: 2026-01-30 · Cline · [[Changes/Cline/2026-01-30-new-model-added-kimi-k2-5-model-to-moonshot-provider-262k-context-image-support-9b8adb|_New model: Added Kimi-K2.5 model to Moonshot provider…]]
+- Earlier: 2026-01-30 · Cline · [[Changes/Cline/2026-01-30-new-model-added-kimi-k2-5-model-to-moonshot-provider-262k-context-image-support-9b8adb|New model: Added Kimi-K2.5 model to Moonshot provider…]]
 - Later: 2026-02-02 · Codex CLI · [[Changes/Codex CLI/2026-02-02-2-context-window-changes-in-rust-v0-94-0|2 Context Window changes in rust-v0.94.0]]
 <!-- chronolog:end -->
 

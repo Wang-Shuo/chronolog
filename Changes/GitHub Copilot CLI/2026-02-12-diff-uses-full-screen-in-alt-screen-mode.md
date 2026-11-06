@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 59095136f1f3e747161f1233cb3f57e388ad73f71661dea8a19f886b4cebcb7c
+machine_hash: 335ab792ba1aa6fb5db433a3ac49adbdab13db610ffb18add1232d4eda36d987
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -41,10 +41,10 @@ record:
   title: /diff uses full screen in alt-screen mode
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-02-11-8-interface-experience-changes-in-rust-v0-99-0|8
-  Interface Experience changes in rust-v0.99.0]]'
 - '[[Changes/GitHub Copilot CLI/2026-02-11-2-interface-experience-changes-in-v0-0-407|2
   Interface Experience changes in v0.0.407]]'
+- '[[Changes/v0/2026-02-11-added-branch-picker-for-vercel-deployments|Added branch
+  picker for Vercel deployments]]'
 - '[[Changes/Cline/2026-02-12-2-interface-experience-changes-in-v3-58-0|2 Interface
   Experience changes in v3.58.0]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-02-12-v0-0-409-github-285888661-2d549ab0|github-copilot-cli-2026-02-12-v0-0-409-github-285888661-2d549ab0]]'

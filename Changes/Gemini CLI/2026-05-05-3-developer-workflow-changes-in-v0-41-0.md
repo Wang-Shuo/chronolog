@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 7ea53c064d279519db3847b559af3eb3d59cf5698f3c5a494d60089bd406853d
+machine_hash: b34806fe5709d1f8c26025409e8c92b54268bd82c73d4356a20bb33999b208b0
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -46,12 +46,12 @@ record:
   title: 3 Developer Workflow changes in v0.41.0
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-05-01-3-developer-workflow-changes-in-v2-1-126|3 Developer
-  Workflow changes in v2.1.126]]'
 - '[[Changes/Cline/2026-05-01-restore-vs-code-foreground-terminal-support-and-settings|Restore
   VS Code foreground terminal support and settings]]'
 - '[[Changes/GitHub Copilot CLI/2026-05-01-slash-command-suggestions-rank-prefix-matches-above-fuzzy-matches|Slash
   command suggestions rank prefix matches above fuzzy matches]]'
+- '[[Changes/Ollama/2026-05-03-claude-code-on-the-terminal-can-still-be-accessed-through-the-cli-with|Claude
+  Code on the terminal can still be accessed through the CLI with]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2026-05-05-v0-41-0-github-318058458-3befafe6|gemini-cli-2026-05-05-v0-41-0-github-318058458-3befafe6]]'
 source_type: github_releases
 theme: developer-workflow
@@ -91,7 +91,7 @@ Source: https://github.com/google-gemini/gemini-cli/releases/tag/v0.41.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2026-05-01 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-05-01-slash-command-suggestions-rank-prefix-matches-above-fuzzy-matches|Slash command suggestions rank prefix matches above fuzzy matches]]
+- Earlier: 2026-05-03 · Ollama · [[Changes/Ollama/2026-05-03-claude-code-on-the-terminal-can-still-be-accessed-through-the-cli-with|Claude Code on the terminal can still be accessed through the CLI with]]
 - Later: 2026-05-06 · Claude Code · [[Changes/Claude Code/2026-05-06-2-developer-workflow-changes-in-v2-1-129|2 Developer Workflow changes in v2.1.129]]
 <!-- chronolog:end -->
 

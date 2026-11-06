@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 2adab90229c23c37dfb5ba6b8befec411309a6e0ac66e22e97bc29e7de0f5d13
+machine_hash: 746b17fbc83f7906ca746a7633763734a017f35bfc3b6d886703f3b552938124
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -43,12 +43,12 @@ record:
   title: Show the specific authentication failure (such as 401 Bad credentials) instead…
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-08-26-2-account-and-access-changes-in-rust-v0-150-0|2
-  Account and Access changes in rust-v0.150.0]]'
 - '[[Changes/GitHub Copilot CLI/2026-08-27-2-account-and-access-changes-in-v1-0-81|2
   Account and Access changes in v1.0.81]]'
 - '[[Changes/Claude Code/2026-08-28-changed-analytics-to-no-longer-turn-off-before-sign-in-solely-because-managed-se|Changed
   analytics to no longer turn off before sign-in solely because managed…]]'
+- '[[Changes/v0/2026-08-28-4-account-and-access-changes-in-gpt-5-6-sol-sign-in-inside-previews|4
+  Account and Access changes in GPT-5.6 Sol, sign-in inside previews…]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-08-29-v1-0-82-github-379131215-2ee28d74|github-copilot-cli-2026-08-29-v1-0-82-github-379131215-2ee28d74]]'
 source_type: github_releases
 theme: account-access
@@ -78,8 +78,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Account and Access
 
-- Earlier: 2026-08-28 · Claude Code · [[Changes/Claude Code/2026-08-28-changed-analytics-to-no-longer-turn-off-before-sign-in-solely-because-managed-se|Changed analytics to no longer turn off before sign-in solely because managed…]]
-- Later: 2026-09-01 · Claude Code · [[Changes/Claude Code/2026-09-01-2-account-and-access-changes-in-v2-1-257|2 Account and Access changes in v2.1.257]]
+- Earlier: 2026-08-28 · v0 · [[Changes/v0/2026-08-28-4-account-and-access-changes-in-gpt-5-6-sol-sign-in-inside-previews|4 Account and Access changes in GPT-5.6 Sol, sign-in inside previews…]]
+- Later: 2026-08-31 · Open WebUI · [[Changes/Open WebUI/2026-08-31-disconnect-oauth-only-where-there-is-oauth-the-disconnect-control-on-a-tool-serv|🔌 Disconnect OAuth only where there is OAuth. The disconnect control on a tool…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

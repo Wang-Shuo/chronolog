@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: f4635b28901fd71d8b430f3494be9b6e9736259e453652446f984cd1712a6b64
+machine_hash: 673655b1ab68349e99365e5b0edd73ded5a4cf83ddde026eb6da2253906d87a4
 product: cursor
 product_name: Cursor
 record:
@@ -44,12 +44,11 @@ record:
   title: 2 Apps and Integrations changes in 2.3
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2025-12-18-2-apps-and-integrations-changes-in-rust-v0-74-0|2
-  Apps and Integrations changes in rust-v0.74.0]]'
-- '[[Changes/GitHub Copilot CLI/2025-12-18-2-apps-and-integrations-changes-in-v0-0-370|2
-  Apps and Integrations changes in v0.0.370]]'
 - '[[Changes/Claude Code/2025-12-19-2-apps-and-integrations-changes-in-v2-0-73|2 Apps
   and Integrations changes in v2.0.73]]'
+- '[[Changes/Replit/2025-12-19-custom-mcp-server-icons|Custom MCP Server Icons]]'
+- '[[Changes/Open WebUI/2025-12-21-2-apps-and-integrations-changes-in-v0-6-42|2 Apps
+  and Integrations changes in v0.6.42]]'
 source_release: '[[Releases/Cursor/cursor-2025-12-22-2-3-https-cursor-com-changelog-2-3-fe418465|cursor-2025-12-22-2-3-https-cursor-com-changelog-2-3-fe418465]]'
 source_type: cursor_changelog
 theme: apps-integrations
@@ -89,7 +88,7 @@ Source: https://cursor.com/changelog/2-3
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2025-12-19 · Claude Code · [[Changes/Claude Code/2025-12-19-2-apps-and-integrations-changes-in-v2-0-73|2 Apps and Integrations changes in v2.0.73]]
+- Earlier: 2025-12-21 · Open WebUI · [[Changes/Open WebUI/2025-12-21-2-apps-and-integrations-changes-in-v0-6-42|2 Apps and Integrations changes in v0.6.42]]
 - Later: 2025-12-22 · Gemini CLI · [[Changes/Gemini CLI/2025-12-22-3-apps-and-integrations-changes-in-v0-22-0|3 Apps and Integrations changes in v0.22.0]]
 <!-- chronolog:end -->
 

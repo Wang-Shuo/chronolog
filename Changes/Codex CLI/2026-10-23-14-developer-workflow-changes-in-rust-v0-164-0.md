@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: b044d067c7104375fe2669bcfb00ec9afaff1773524ef6717bdfb108cd73930f
+machine_hash: 442f577b39ecc36bbaa6ff875418216529bbebadb752dcf00a3addeb1021a51c
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -146,7 +146,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.164.0
 ## Nearby in Developer Workflow
 
 - Earlier: 2026-10-23 · Claude Code · [[Changes/Claude Code/2026-10-23-code-review-improved-the-code-review-admin-section-to-retry-the-first-load-and-s|Code Review Improved the Code Review admin section to retry the first load…]]
-- Later: 2026-10-23 · Windsurf · [[Changes/Windsurf/2026-10-23-4-developer-workflow-changes-in-v3-11-212|4 Developer Workflow changes in v3.11.212]]
+- Later: 2026-10-23 · Dify · [[Changes/Dify/2026-10-23-respect-xforward-headers-enabled-standalone-api-default-remains-false-bundled-co| /  RESPECT_XFORWARD_HEADERS_ENABLED  /  Standalone API default remains false]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

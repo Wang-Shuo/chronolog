@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: e6eb66b110bbce89edeb079b5cbefa766962d219eb5e4a633a931a0f58a6484b
+machine_hash: bf2d8d05eb6aae31348145d82a0716c89968495ad21a4c6b7597e2a62272c03d
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -50,12 +50,12 @@ record:
   title: 5 Account and Access changes in v0.1.15
   type: change
 related_changes:
-- '[[Changes/Windsurf/2025-07-17-support-for-more-mcp-servers-with-easier-and-more-secure-authentication-by-integ|Support
-  for more MCP servers with easier and more secure authentication…]]'
-- '[[Changes/Gemini CLI/2025-07-19-3-account-and-access-changes-in-v0-1-13|3 Account
-  and Access changes in v0.1.13]]'
+- '[[Changes/Dify/2025-07-23-8-account-and-access-changes-in-1-7-0|8 Account and Access
+  changes in 1.7.0]]'
 - '[[Changes/Gemini CLI/2025-07-25-4-account-and-access-changes-in-v0-1-14|4 Account
   and Access changes in v0.1.14]]'
+- '[[Changes/Dify/2025-07-28-test-add-comprehensive-integration-tests-for-api-key-authentication-system-by-fa|test:
+  add comprehensive integration tests for API key authentication system]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2025-07-30-v0-1-15-github-236146632-10a2efdb|gemini-cli-2025-07-30-v0-1-15-github-236146632-10a2efdb]]'
 source_type: github_releases
 theme: account-access
@@ -106,7 +106,7 @@ Source: https://github.com/google-gemini/gemini-cli/releases/tag/v0.1.15
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Account and Access
 
-- Earlier: 2025-07-25 · Gemini CLI · [[Changes/Gemini CLI/2025-07-25-4-account-and-access-changes-in-v0-1-14|4 Account and Access changes in v0.1.14]]
+- Earlier: 2025-07-28 · Dify · [[Changes/Dify/2025-07-28-test-add-comprehensive-integration-tests-for-api-key-authentication-system-by-fa|test: add comprehensive integration tests for API key authentication system]]
 - Later: 2025-08-02 · Gemini CLI · [[Changes/Gemini CLI/2025-08-02-6-account-and-access-changes-in-v0-1-16|6 Account and Access changes in v0.1.16]]
 <!-- chronolog:end -->
 

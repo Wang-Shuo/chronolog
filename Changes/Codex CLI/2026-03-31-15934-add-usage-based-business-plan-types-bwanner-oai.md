@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: pricing
-machine_hash: 8900bcf217e92bdcea225d0f2539dab7d8c0f996a06c682088ab4f9088edc229
+machine_hash: 2eeff257f4ca865dcebcceefca2813e708313eb363818c17b55242842f564679
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -40,11 +40,12 @@ record:
   title: '#15934 Add usage-based business plan types @bwanner-oai'
   type: change
 related_changes:
-- '[[Changes/Cursor/2026-03-19-fast-default-1-50-m-input-7-50-m-output-tokens|Fast
-  (default): $1.50/M input, $7.50/M output tokens]]'
-- '[[Changes/Windsurf/2026-03-19-quota-billing|Quota Billing]]'
 - '[[Changes/Gemini CLI/2026-03-24-feat-telemetry-add-clearcut-instrumentation-for-ai-credits-billing-events-by-gsq|feat(telemetry):
   add Clearcut instrumentation for AI credits billing events]]'
+- "[[Changes/Open WebUI/2026-03-25-metrics-export-interval-configuration-administrators-can-now-control-opentelemet|\U0001F4CA
+  Metrics export interval configuration. Administrators can now control…]]"
+- '[[Changes/Dify/2026-03-27-3-pricing-model-changes-in-1-13-3|3 Pricing Model changes
+  in 1.13.3]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-03-31-rust-v0-118-0-github-303805427-02df59b6|codex-cli-2026-03-31-rust-v0-118-0-github-303805427-02df59b6]]'
 source_type: github_releases
 theme: pricing-model
@@ -85,7 +86,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Pricing Model
 
-- Earlier: 2026-03-24 · Gemini CLI · [[Changes/Gemini CLI/2026-03-24-feat-telemetry-add-clearcut-instrumentation-for-ai-credits-billing-events-by-gsq|feat(telemetry): add Clearcut instrumentation for AI credits billing events]]
+- Earlier: 2026-03-27 · Dify · [[Changes/Dify/2026-03-27-3-pricing-model-changes-in-1-13-3|3 Pricing Model changes in 1.13.3]]
 - Later: 2026-04-04 · Claude Code · [[Changes/Claude Code/2026-04-04-added-per-model-and-cache-hit-breakdown-to-cost-for-subscription-users|Added per-model and cache-hit breakdown to /cost for subscription users]]
 <!-- chronolog:end -->
 

@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: befa90d27a404a5f47638b634fb79812410266e026ce5dc4a639101d4e5a4770
+machine_hash: a4677759dfed80e00fe0dd7009f4d0b11bd305ee483ce4ed4a0f062defa5ccfc
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -40,9 +40,9 @@ record:
   title: Enable in-CLI extension management commands for team
   type: change
 related_changes:
-- '[[Changes/Windsurf/2026-02-12-enterprise-team-improvements|Enterprise & Team Improvements]]'
-- '[[Changes/ChatGPT/2026-02-13-cleaner-select-all-behavior-cmd-a-cmd-a-now-selects-only-the-conversation-conten|Cleaner
-  “Select All” behavior (Cmd+A)]]'
+- '[[Changes/ElevenLabs/2026-02-23-music|Music]]'
+- '[[Changes/Lovable/2026-02-23-external-collaborator-visibility|External collaborator
+  visibility]]'
 - '[[Changes/Codex CLI/2026-02-25-12028-remove-feature-flag-collaboration-modes-aibrahim-oai|♯12028
   remove feature flag collaboration modes @aibrahim-oai]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2026-02-25-v0-30-0-github-290144121-620926b3|gemini-cli-2026-02-25-v0-30-0-github-290144121-620926b3]]'
@@ -87,7 +87,7 @@ type: change
 ## Nearby in Collaboration
 
 - Earlier: 2026-02-25 · Codex CLI · [[Changes/Codex CLI/2026-02-25-12028-remove-feature-flag-collaboration-modes-aibrahim-oai|♯12028 remove feature flag collaboration modes @aibrahim-oai]]
-- Later: 2026-02-26 · Codex CLI · [[Changes/Codex CLI/2026-02-26-2-collaboration-changes-in-rust-v0-106-0|2 Collaboration changes in rust-v0.106.0]]
+- Later: 2026-02-25 · v0 · [[Changes/v0/2026-02-25-added-team-setting-to-allow-v0-to-open-prs-on-behalf-of-members-without-github-a|Added team setting to allow v0 to open PRs on behalf of members without GitHub accounts]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

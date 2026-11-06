@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: pricing
-machine_hash: 0be5d407863e5322637dda78fd723c603d77335d6ea55c9137dde01e26662a95
+machine_hash: b10f7eccc6ceecebf9acd50b15a14360986ff872686995b20de302c3a3a7cbab
 product: claude-code
 product_name: Claude Code
 record:
@@ -53,9 +53,10 @@ record:
   title: Added per-model and cache-hit breakdown to `/cost` for subscription users
   type: change
 related_changes:
-- '[[Changes/Windsurf/2026-03-19-quota-billing|Quota Billing]]'
-- '[[Changes/Gemini CLI/2026-03-24-feat-telemetry-add-clearcut-instrumentation-for-ai-credits-billing-events-by-gsq|feat(telemetry):
-  add Clearcut instrumentation for AI credits billing events]]'
+- "[[Changes/Open WebUI/2026-03-25-metrics-export-interval-configuration-administrators-can-now-control-opentelemet|\U0001F4CA
+  Metrics export interval configuration. Administrators can now control…]]"
+- '[[Changes/Dify/2026-03-27-3-pricing-model-changes-in-1-13-3|3 Pricing Model changes
+  in 1.13.3]]'
 - '[[Changes/Codex CLI/2026-03-31-15934-add-usage-based-business-plan-types-bwanner-oai|♯15934
   Add usage-based business plan types @bwanner-oai]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-04-04-v2-1-92-github-305189904-2eb020f5|claude-code-2026-04-04-v2-1-92-github-305189904-2eb020f5]]'

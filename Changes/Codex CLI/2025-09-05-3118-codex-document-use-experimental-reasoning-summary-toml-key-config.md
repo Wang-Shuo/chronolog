@@ -4,20 +4,20 @@ date: '2025-09-05'
 description: 'Codex CLI · 2025-09-05 · Files and Data: [#3118] [codex] document `use_experimental_reasoning_summary`
   toml key config'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-07-06-we-re-rolling-out-code-interpreter-to-all-chatgpt-plus-users-over-the-next-week-66255e|Code
-    interpreter is now rolling out in beta on web]]'
+  first_in_tracked: '[[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2
+    Files and Data changes in 0.2.2]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 792
+  lag_days: 834
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 94c161890c61094ca1989482e3339f7a7f4129f0dce7bdaf84356cffc07b460c
+machine_hash: 27676e074f673a3def92d0823e3a39db6d464000a592287a2525df5787e9cdf9
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -44,12 +44,12 @@ record:
   title: '[#3118] [codex] document `use_experimental_reasoning_summary` toml key config'
   type: change
 related_changes:
-- '[[Changes/Cline/2025-06-03-add-support-for-uploading-csv-and-xlsx-files-for-data-analysis-and-processing|Add
-  support for uploading CSV and XLSX files for data analysis and processing]]'
-- '[[Changes/ChatGPT/2025-06-24-projects-can-now-support-40-uploaded-files-up-from-20-for-pro-users|Project
-  file limit increased (Pro)]]'
-- '[[Changes/Gemini CLI/2025-08-14-document-certificate-issue-workaround-by-scidomino-in-https-github-com-google-ge|Document
-  certificate issue workaround]]'
+- "[[Changes/Open WebUI/2025-08-21-resolved-silently-dropped-streaming-response-chunks-fixed-an-issue-where-the-fin|\U0001F4AC
+  Resolved Silently Dropped Streaming Response Chunks]]"
+- '[[Changes/Dify/2025-08-27-4-files-and-data-changes-in-1-8-0|4 Files and Data changes
+  in 1.8.0]]'
+- '[[Changes/Open WebUI/2025-08-28-3-files-and-data-changes-in-v0-6-26|3 Files and
+  Data changes in v0.6.26]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2025-09-05-rust-v0-30-0-github-245199079-dedb4e90|codex-cli-2025-09-05-rust-v0-30-0-github-245199079-dedb4e90]]'
 source_type: github_releases
 theme: file-data
@@ -86,14 +86,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Files and Data
 
-- Earlier: 2025-08-14 · Gemini CLI · [[Changes/Gemini CLI/2025-08-14-document-certificate-issue-workaround-by-scidomino-in-https-github-com-google-ge|Document certificate issue workaround]]
-- Later: 2025-10-07 · Gemini CLI · [[Changes/Gemini CLI/2025-10-07-2-files-and-data-changes-in-v0-8-0|2 Files and Data changes in v0.8.0]]
+- Earlier: 2025-08-28 · Open WebUI · [[Changes/Open WebUI/2025-08-28-3-files-and-data-changes-in-v0-6-26|3 Files and Data changes in v0.6.26]]
+- Later: 2025-09-09 · Claude · [[Changes/Claude/2025-09-09-creating-and-editing-files-with-claude|Creating and editing files with Claude]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-07-06 · ChatGPT · [[Changes/ChatGPT/2023-07-06-we-re-rolling-out-code-interpreter-to-all-chatgpt-plus-users-over-the-next-week-66255e|Code interpreter is now rolling out in beta on web]]
+- Earliest same-theme entry in the tracked set: 2023-05-25 · Dify · [[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2 Files and Data changes in 0.2.2]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 6bb1b6834c7b39f857c93f5db218dca54e12f1a5a062411a9279ee95d0f0f8a1
+machine_hash: c5e74ae7bef40b252c9fcebc099a868738b8080576481ca5190b6f41dcb166ce
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -48,12 +48,10 @@ record:
   title: 4 Agent Mode changes in rust-v0.28.0
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2025-08-26-5-agent-mode-changes-in-rust-v0-24-0|5 Agent Mode
-  changes in rust-v0.24.0]]'
-- '[[Changes/Codex CLI/2025-08-29-2848-chore-try-to-make-it-easier-to-debug-the-flakiness-of-test-shell-command-ap|♯2848
-  chore: try to make it easier to debug the flakiness…]]'
-- '[[Changes/Codex CLI/2025-08-29-2-agent-mode-changes-in-rust-v0-27-0|2 Agent Mode
-  changes in rust-v0.27.0]]'
+- '[[Changes/Replit/2025-08-29-agent-infrastructure-upgrades|Agent infrastructure
+  upgrades]]'
+- '[[Changes/ElevenLabs/2025-09-01-agents-platform|Agents Platform]]'
+- '[[Changes/ElevenLabs/2025-09-01-agents-platform-e79cb5|Agents Platform]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2025-09-02-rust-v0-28-0-github-244268255-15ebe412|codex-cli-2025-09-02-rust-v0-28-0-github-244268255-15ebe412]]'
 source_type: github_releases
 theme: agent-mode
@@ -94,7 +92,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.28.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2025-08-29 · Codex CLI · [[Changes/Codex CLI/2025-08-29-2-agent-mode-changes-in-rust-v0-27-0|2 Agent Mode changes in rust-v0.27.0]]
+- Earlier: 2025-09-01 · ElevenLabs · [[Changes/ElevenLabs/2025-09-01-agents-platform-e79cb5|Agents Platform]]
 - Later: 2025-09-03 · Codex CLI · [[Changes/Codex CLI/2025-09-03-3089-docs-update-link-to-https-agents-md|♯3089 Docs: update link to (source link)]]
 <!-- chronolog:end -->
 

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: pricing
-machine_hash: 474c77055b77d4182c4d4ad916df21eac39a5f6152848fdf00b39021e1ec9272
+machine_hash: 414363002d59ea4b710670342be7cecbeb878256424046a2de18173b18596b67
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -44,12 +44,12 @@ record:
   title: Rate-limit banners offer actions for checking usage, managing credits, resetting…
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-08-26-40488-export-turn-cost-as-an-otel-metric-copyberry|♯40488
-  Export turn cost as an OTEL metric @copyberry]]'
 - '[[Changes/Claude Code/2026-08-27-added-usage-credits-for-enterprise-organizations-billed-through-aws-marketplace|Added
   /usage-credits for Enterprise organizations billed through AWS Marketplace…]]'
 - '[[Changes/Claude Code/2026-08-28-added-a-per-session-prompt-cache-line-to-cost-hit-ratio-misses-tokens-re-cached|Added
   a per-session prompt-cache line to /cost…]]'
+- '[[Changes/v0/2026-08-28-4-pricing-model-changes-in-gpt-5-6-sol-sign-in-inside-previews|4
+  Pricing Model changes in GPT-5.6 Sol, sign-in inside previews…]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-09-01-rust-v0-152-0-github-380164108-cd339544|codex-cli-2026-09-01-rust-v0-152-0-github-380164108-cd339544]]'
 source_type: github_releases
 theme: pricing-model
@@ -88,7 +88,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Pricing Model
 
-- Earlier: 2026-08-28 · Claude Code · [[Changes/Claude Code/2026-08-28-added-a-per-session-prompt-cache-line-to-cost-hit-ratio-misses-tokens-re-cached|Added a per-session prompt-cache line to /cost…]]
+- Earlier: 2026-08-28 · v0 · [[Changes/v0/2026-08-28-4-pricing-model-changes-in-gpt-5-6-sol-sign-in-inside-previews|4 Pricing Model changes in GPT-5.6 Sol, sign-in inside previews…]]
 - Later: 2026-09-02 · Cline · [[Changes/Cline/2026-09-02-cost-estimates-no-longer-appear-in-task-history-for-subscription-billed-tasks-cl|Cost estimates no longer appear in task history for subscription-billed tasks…]]
 <!-- chronolog:end -->
 

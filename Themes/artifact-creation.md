@@ -1,11 +1,13 @@
 ---
 created: '2026-07-09'
-date: '2026-07-09'
-description: Cross-product timeline of Artifact Creation changes in ChatGPT.
-machine_hash: 4b6f3f9ee830fa6ff800e4be2c4d98589fd9eecae91f628084c97e6914d0f374
-modified: '2026-07-09'
+date: '2026-11-03'
+description: Cross-product timeline of Artifact Creation changes in ChatGPT and Open
+  WebUI.
+machine_hash: a13afcfa79781714a68e1a477c9d222633f873f7459f766df3518c8b270f176d
+modified: '2026-11-03'
 products_involved:
 - ChatGPT
+- Open WebUI
 publication: active
 status: official
 tags:
@@ -18,7 +20,7 @@ title: Artifact Creation
 <!-- chronolog:begin region="header" -->
 # Artifact Creation
 
-1 tracked change in ChatGPT · 2026-07-09 → 2026-07-09 · ChatGPT averages 1.7 cards per release
+2 tracked changes across ChatGPT and Open WebUI · 2026-07-09 → 2026-11-03 · Open WebUI averages 7.6 cards per release, ChatGPT 1.7
 <!-- chronolog:end -->
 
 ## Research summary
@@ -46,12 +48,23 @@ Scope: tracked-products-only. Entries show same-theme chronology; they do not es
 
 Launches, expansions, pricing and policy changes and standalone announcements come first in each year; fixes, digests and other changes are folded beneath them.
 
+<fieldset class="timeline-filter">
+<legend>Show</legend>
+<label><input type="radio" name="timeline-product" id="tl-only-all" checked> All</label>
+<label><input type="radio" name="timeline-product" id="tl-only-1"> ChatGPT</label>
+<label><input type="radio" name="timeline-product" id="tl-only-2"> Open WebUI</label>
+</fieldset>
+
 <details class="disclosure" open>
-<summary>2026 · 1 entry (ChatGPT 1)</summary>
+<summary>2026 · 2 entries (ChatGPT 1 · Open WebUI 1)</summary>
+
+**2026-11**
+
+- 2026-11-03 · <span class="tl-product tl-p2">**Open WebUI**</span> · [[Changes/Open WebUI/2026-11-03-nested-code-previews-preview-now-opens-code-blocks-inside-lists-quotes-and-detai|🧩 Nested code previews. Preview now opens code blocks inside lists, quotes…]] · Change
 
 **2026-07**
 
-- 2026-07-09 · **ChatGPT** · [[Changes/ChatGPT/2026-07-09-chatgpt-sites-lets-you-turn-your-work-or-ideas-into-an-interactive-website-or-li|ChatGPT Sites lets you turn your work or ideas into an interactive website…]] · Change
+- 2026-07-09 · <span class="tl-product tl-p1">**ChatGPT**</span> · [[Changes/ChatGPT/2026-07-09-chatgpt-sites-lets-you-turn-your-work-or-ideas-into-an-interactive-website-or-li|ChatGPT Sites lets you turn your work or ideas into an interactive website…]] · Change
 
 </details>
 

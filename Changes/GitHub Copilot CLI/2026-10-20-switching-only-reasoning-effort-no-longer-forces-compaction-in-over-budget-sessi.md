@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 67bc9c5e5db311d363643412fe94b1f94c1fab420efc2be3ded2387f79ce8393
+machine_hash: 408c6ab2777adc5b4a07afda7fa4de46b687337d7a7c812aaba2059de7a7a671
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -45,12 +45,12 @@ record:
     sessions
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-19-3-context-window-changes-in-v2-1-304|3 Context
-  Window changes in v2.1.304]]'
 - '[[Changes/GitHub Copilot CLI/2026-10-19-avoid-false-context-exhaustion-and-rollover-refusal-when-tool-definitions-are-de|Avoid
   false context exhaustion and rollover refusal when tool definitions are deferred]]'
 - '[[Changes/OpenHands/2026-10-19-chore-lint-remove-context-color-spec-bookkeeping-by-enyst-in-https-github-com-op|chore(lint):
   remove context color spec bookkeeping]]'
+- '[[Changes/v0/2026-10-19-open-mcps-in-the-chat-composer-choose-slack-and-connect-your-workspace-once-conn|Open
+  + → MCPs in the chat composer, choose Slack , and connect your workspace]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-10-20-v1-0-101-github-418747415-a1bf6298|github-copilot-cli-2026-10-20-v1-0-101-github-418747415-a1bf6298]]'
 source_type: github_releases
 theme: context-window
@@ -87,8 +87,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Context Window
 
-- Earlier: 2026-10-19 · OpenHands · [[Changes/OpenHands/2026-10-19-chore-lint-remove-context-color-spec-bookkeeping-by-enyst-in-https-github-com-op|chore(lint): remove context color spec bookkeeping]]
-- Later: 2026-10-22 · Claude Code · [[Changes/Claude Code/2026-10-22-updated-the-claude-api-skill-service-account-keys-and-workload-identity-federati|Updated the /claude-api skill]]
+- Earlier: 2026-10-19 · v0 · [[Changes/v0/2026-10-19-open-mcps-in-the-chat-composer-choose-slack-and-connect-your-workspace-once-conn|Open + → MCPs in the chat composer, choose Slack , and connect your workspace]]
+- Later: 2026-10-21 · Ollama · [[Changes/Ollama/2026-10-21-flint-https-ollama-com-library-flint-brings-recursive-s-coding-model-to-ollama-i|Flint((source link) brings Recursive's coding model to Ollama]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

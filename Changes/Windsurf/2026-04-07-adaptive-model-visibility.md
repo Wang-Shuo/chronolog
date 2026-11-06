@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 9a3cf28dc09a44ce7aec453d344bdca65e9b4cfa0f2c043efa1c8da697371aec
+machine_hash: 8ed26ef64c528d483cf6d254e46461547cc3ad3687bf6bb5a0e5cb65c27a5bb8
 product: windsurf
 product_name: Windsurf
 record:
@@ -45,10 +45,10 @@ record:
   title: Adaptive Model Visibility
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-04-04-new-critic-agent-automatically-reviews-plans-and-complex-implementations-using-a|New
-  Critic agent automatically reviews plans and complex implementations using…]]'
 - '[[Changes/Windsurf/2026-04-06-adaptive-model-router|Adaptive Model Router]]'
 - '[[Changes/Windsurf/2026-04-06-introducing-adaptive|Introducing Adaptive]]'
+- '[[Changes/Ollama/2026-04-07-added-latest-models-to-ollama-app|Added latest models
+  to Ollama App]]'
 source_release: '[[Releases/Windsurf/windsurf-2026-04-07-v1-9600-40-5667d4c9|windsurf-2026-04-07-v1-9600-40-5667d4c9]]'
 source_type: windsurf_changelog
 theme: model-support
@@ -77,7 +77,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-04-06 · Windsurf · [[Changes/Windsurf/2026-04-06-introducing-adaptive|Introducing Adaptive]]
+- Earlier: 2026-04-07 · Ollama · [[Changes/Ollama/2026-04-07-added-latest-models-to-ollama-app|Added latest models to Ollama App]]
 - Later: 2026-04-08 · Gemini CLI · [[Changes/Gemini CLI/2026-04-08-5-model-support-changes-in-v0-37-0|5 Model Support changes in v0.37.0]]
 <!-- chronolog:end -->
 

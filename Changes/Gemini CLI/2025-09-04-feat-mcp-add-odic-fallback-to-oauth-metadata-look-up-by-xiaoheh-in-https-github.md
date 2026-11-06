@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: b8e82ea8075bb6744b7bd300f0e4949030436d09aa978a2f3b16cfb1ec272ddb
+machine_hash: 6f492b15818b6c59ddfcf9cfd9861b9c1938d2132da3ff61c76adde5a6f20faa
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -52,12 +52,12 @@ record:
   title: 'feat(mcp): Add ODIC fallback to OAuth metadata look up'
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2025-08-26-2528-fix-login-for-internal-employees|♯2528 Fix
-  login for internal employees]]'
-- '[[Changes/Cline/2025-08-28-feature-qwen-code-cli-api-support-with-oauth-by-evinelias-in-https-github-com-cl|Feature/Qwen
-  Code CLI API Support with OAuth]]'
+- '[[Changes/Open WebUI/2025-08-28-2-account-and-access-changes-in-v0-6-26|2 Account
+  and Access changes in v0.6.26]]'
 - '[[Changes/Codex CLI/2025-08-29-2737-changed-oauth-success-screen-to-use-the-string-codex-rather-than-codex-cli|♯2737
   Changed OAuth success screen to use the string "Codex" rather than "Codex CLI"]]'
+- '[[Changes/Dify/2025-09-03-2-account-and-access-changes-in-1-8-1|2 Account and Access
+  changes in 1.8.1]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2025-09-04-v0-3-0-github-244870431-556b0abc|gemini-cli-2025-09-04-v0-3-0-github-244870431-556b0abc]]'
 source_type: github_releases
 theme: account-access
@@ -99,7 +99,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Account and Access
 
-- Earlier: 2025-08-29 · Codex CLI · [[Changes/Codex CLI/2025-08-29-2737-changed-oauth-success-screen-to-use-the-string-codex-rather-than-codex-cli|♯2737 Changed OAuth success screen to use the string "Codex" rather than "Codex CLI"]]
+- Earlier: 2025-09-03 · Dify · [[Changes/Dify/2025-09-03-2-account-and-access-changes-in-1-8-1|2 Account and Access changes in 1.8.1]]
 - Later: 2025-09-05 · Codex CLI · [[Changes/Codex CLI/2025-09-05-3-account-and-access-changes-in-rust-v0-30-0|3 Account and Access changes in rust-v0.30.0]]
 <!-- chronolog:end -->
 

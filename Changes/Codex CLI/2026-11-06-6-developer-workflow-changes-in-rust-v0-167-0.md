@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 076698c852e967b3910e4a6c0e8c4105d0515533820b98488e8e380274d8a120
+machine_hash: 54a01f2ec03dd4fd925c41546e86c187346f6e6a07f35be21d36989332fbdfcb
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -53,12 +53,12 @@ record:
   title: 6 Developer Workflow changes in rust-v0.167.0
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-10-29-10-developer-workflow-changes-in-rust-v0-166-0|10
-  Developer Workflow changes in rust-v0.166.0]]'
-- '[[Changes/Claude Code/2026-10-30-4-developer-workflow-changes-in-v2-1-314|4 Developer
-  Workflow changes in v2.1.314]]'
 - '[[Changes/Claude Code/2026-10-31-2-developer-workflow-changes-in-v2-1-316|2 Developer
   Workflow changes in v2.1.316]]'
+- '[[Changes/Open WebUI/2026-11-03-15-developer-workflow-changes-in-v0-13-0|15 Developer
+  Workflow changes in v0.13.0]]'
+- '[[Changes/Dify/2026-11-04-2-developer-workflow-changes-in-1-19-0|2 Developer Workflow
+  changes in 1.19.0]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-11-06-rust-v0-167-0-github-435979892-a2e140bc|codex-cli-2026-11-06-rust-v0-167-0-github-435979892-a2e140bc]]'
 source_type: github_releases
 theme: developer-workflow
@@ -111,7 +111,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.167.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2026-10-31 · Claude Code · [[Changes/Claude Code/2026-10-31-2-developer-workflow-changes-in-v2-1-316|2 Developer Workflow changes in v2.1.316]]
+- Earlier: 2026-11-04 · Dify · [[Changes/Dify/2026-11-04-2-developer-workflow-changes-in-1-19-0|2 Developer Workflow changes in 1.19.0]]
 - Later: 2026-11-06 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-11-06-64-developer-workflow-changes-in-v1-0-106|64 Developer Workflow changes in v1.0.106]]
 <!-- chronolog:end -->
 

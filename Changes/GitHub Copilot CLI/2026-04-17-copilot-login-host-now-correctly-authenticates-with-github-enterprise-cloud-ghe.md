@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: fa0a75d93093f0764d30e44eedf37451cfdc3e115cadd3094e1e24c4609e0ec4
+machine_hash: d67ee9d0512b1691c5e7645162ed5e9d91ea2c702cea5a1c2487ece5ffc11682
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -83,7 +83,7 @@ type: change
 ## Nearby in Account and Access
 
 - Earlier: 2026-04-14 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-04-14-enterprise-login-accepts-hostnames-without-a-url-scheme-e-g-github-example-com|Enterprise login accepts hostnames without a URL scheme (e.g. 'github.example.com')]]
-- Later: 2026-04-22 · ChatGPT · [[Changes/ChatGPT/2026-04-22-we-re-launching-chatgpt-for-clinicians-a-free-version-of-chatgpt-for-verified-cl|ChatGPT for Clinicians]]
+- Later: 2026-04-21 · Open WebUI · [[Changes/Open WebUI/2026-04-21-17-account-and-access-changes-in-v0-9-0|17 Account and Access changes in v0.9.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

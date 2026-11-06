@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: e73bbde552abb0a63fa956b94d1d1752c0bbb4fe18fa5687e6d25f061282c0f1
+machine_hash: b34375c37732df0780aa80510421f785125aa2b07465228712d33c61f45db05c
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -47,10 +47,10 @@ record:
   title: 4 Interface Experience changes in rust-v0.69.0
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2025-12-02-chore-dedup-unified-exec-waited-rendering-by-jif-oai-in-7256|chore:
-  dedup unified exec "waited" rendering by @jif-oai in ♯7256]]'
 - '[[Changes/Codex CLI/2025-12-04-3-interface-experience-changes-in-rust-v0-65-0|3
   Interface Experience changes in rust-v0.65.0]]'
+- '[[Changes/v0/2025-12-04-you-can-now-easily-purchase-and-add-custom-domains-to-your-v0-projects-directly|Buy
+  Custom Domains]]'
 - '[[Changes/Codex CLI/2025-12-09-2-interface-experience-changes-in-rust-v0-66-0|2
   Interface Experience changes in rust-v0.66.0]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2025-12-10-rust-v0-69-0-github-269307708-4ae297da|codex-cli-2025-12-10-rust-v0-69-0-github-269307708-4ae297da]]'

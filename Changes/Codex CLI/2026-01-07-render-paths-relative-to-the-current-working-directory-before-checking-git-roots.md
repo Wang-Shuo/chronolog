@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 20b5af635e88eef15ca613d65213986590d4c7358886eb18267bf70f09eb696b
+machine_hash: 9388f21e229ad65b0c6be609b2b9ec1c0911fa70a2f3b79883a97f31bf870c77
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -44,7 +44,8 @@ record:
     roots…
   type: change
 related_changes:
-- '[[Changes/Windsurf/2025-12-24-wave-13-merry-shipmas|Wave 13: Merry Shipmas]]'
+- '[[Changes/Dify/2025-12-25-2-developer-workflow-changes-in-1-11-2|2 Developer Workflow
+  changes in 1.11.2]]'
 - '[[Changes/GitHub Copilot CLI/2025-12-30-kill-command-filtering-now-allows-commands-when-kill-appears-as-an-argument|Kill
   command filtering now allows commands when ''kill'' appears as an argument]]'
 - '[[Changes/Codex CLI/2026-01-06-6-developer-workflow-changes-in-rust-v0-78-0|6 Developer

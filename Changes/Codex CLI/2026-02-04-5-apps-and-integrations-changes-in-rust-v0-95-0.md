@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 0da8aa500fbe53c4bcde967cf6f7b4480464708d5d3fc45f8fd61790996b75b3
+machine_hash: 49ff7e695ff8e4f6eb717e23a11afc6029153446e01a5ab875eed20d3585778c
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -50,8 +50,8 @@ record:
   title: 5 Apps and Integrations changes in rust-v0.95.0
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-01-31-added-apps-to-browse-connectors-in-tui-and-insertion-for-app-prompts-9728|Added
-  /apps to browse connectors in TUI and $ insertion for app prompts]]'
+- '[[Changes/Dify/2026-02-03-14-apps-and-integrations-changes-in-1-12-0|14 Apps and
+  Integrations changes in 1.12.0]]'
 - '[[Changes/GitHub Copilot CLI/2026-02-03-3-apps-and-integrations-changes-in-v0-0-401|3
   Apps and Integrations changes in v0.0.401]]'
 - '[[Changes/GitHub Copilot CLI/2026-02-03-4-apps-and-integrations-changes-in-v0-0-402|4

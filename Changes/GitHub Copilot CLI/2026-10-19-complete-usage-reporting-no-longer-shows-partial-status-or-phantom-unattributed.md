@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: pricing-model
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: pricing
-machine_hash: 4aaec0e819abc30183f77bcc3d26849bf1510b0a5254db81279b79ea0fc14e91
+machine_hash: 459d05b8418b8d6ad05e395c137fa39067cbafd98a5732af3125904270ea6175
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -43,12 +43,12 @@ record:
   title: Complete usage reporting no longer shows partial status or phantom unattributed…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-09-updated-cost-the-status-line-max-budget-usd-and-the-sdk-s-cost-figures-to-price|Updated
-  /cost, the status line, --max-budget-usd and the SDK''s cost figures…]]'
-- '[[Changes/GitHub Copilot CLI/2026-10-13-show-billed-ai-credits-in-usage-for-token-billed-sessions-including-after-resume|Show
-  billed AI Credits in /usage for token-billed sessions, including after resume]]'
 - '[[Changes/ChatGPT/2026-10-15-the-rosalind-academic-plan-helps-eligible-academic-labs-use-chatgpt-for-life-sci|The
   Rosalind Academic Plan helps eligible academic labs use ChatGPT for life…]]'
+- '[[Changes/Lovable/2026-10-16-review-publish-requests-and-findings-in-the-action-center|Review
+  publish requests and findings in the Action center]]'
+- '[[Changes/v0/2026-10-16-members-with-a-scheduled-ending-or-cancelled-premium-subscription-keep-their-rem|Members
+  with a scheduled-ending or cancelled Premium subscription keep…]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-10-19-v1-0-100-github-417622960-9e2e7578|github-copilot-cli-2026-10-19-v1-0-100-github-417622960-9e2e7578]]'
 source_type: github_releases
 theme: pricing-model
@@ -90,7 +90,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Pricing Model
 
-- Earlier: 2026-10-15 · ChatGPT · [[Changes/ChatGPT/2026-10-15-the-rosalind-academic-plan-helps-eligible-academic-labs-use-chatgpt-for-life-sci|The Rosalind Academic Plan helps eligible academic labs use ChatGPT for life…]]
+- Earlier: 2026-10-16 · v0 · [[Changes/v0/2026-10-16-members-with-a-scheduled-ending-or-cancelled-premium-subscription-keep-their-rem|Members with a scheduled-ending or cancelled Premium subscription keep…]]
 - Later: 2026-10-21 · ChatGPT · [[Changes/ChatGPT/2026-10-21-you-can-now-use-momo-to-pay-for-chatgpt-go-plus-and-pro-subscriptions-purchased|MoMo payments in Vietnam]]
 <!-- chronolog:end -->
 

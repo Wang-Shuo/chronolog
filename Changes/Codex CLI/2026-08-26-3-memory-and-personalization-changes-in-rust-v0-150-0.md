@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: memory
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 99056f3ae8d4dc1599a609b8529e716d5c40d40d98b7257af33747f540adda54
+machine_hash: b2858b90d096d9cb4a9dd60c02902a09ea1f73585dffe8ca6846b2d7257c34e0
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -44,12 +44,12 @@ record:
   title: 3 Memory and Personalization changes in rust-v0.150.0
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2026-08-20-use-computer-history-in-more-regions-computer-history-is-now-available-in-the-ee|Use
-  Computer History in more regions]]'
-- '[[Changes/Claude Code/2026-08-20-updated-the-bundled-claude-api-skill-for-the-managed-agents-aug-19-release-web-s|Updated
-  the bundled claude-api skill for the Managed Agents Aug 19 release]]'
 - '[[Changes/Codex CLI/2026-08-20-2-memory-and-personalization-changes-in-rust-v0-149-0|2
   Memory and Personalization changes in rust-v0.149.0]]'
+- '[[Changes/Claude/2026-08-25-memory-in-claude-cowork-editable-topics-and-a-sensitive-topics-setting|Memory
+  in Claude Cowork, editable topics, and a sensitive topics setting]]'
+- '[[Changes/Open WebUI/2026-08-25-8-memory-and-personalization-changes-in-v0-11-1|8
+  Memory and Personalization changes in v0.11.1]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-08-26-rust-v0-150-0-github-377374683-d950f84c|codex-cli-2026-08-26-rust-v0-150-0-github-377374683-d950f84c]]'
 source_type: github_releases
 theme: memory
@@ -97,7 +97,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.150.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Memory and Personalization
 
-- Earlier: 2026-08-20 · Codex CLI · [[Changes/Codex CLI/2026-08-20-2-memory-and-personalization-changes-in-rust-v0-149-0|2 Memory and Personalization changes in rust-v0.149.0]]
+- Earlier: 2026-08-25 · Open WebUI · [[Changes/Open WebUI/2026-08-25-8-memory-and-personalization-changes-in-v0-11-1|8 Memory and Personalization changes in v0.11.1]]
 - Later: 2026-08-27 · ChatGPT · [[Changes/ChatGPT/2026-08-27-3-memory-and-personalization-changes-in-more-controls-in-temporary-chat|3 Memory and Personalization changes in More controls in temporary chat]]
 <!-- chronolog:end -->
 

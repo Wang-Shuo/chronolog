@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: cd44d7c54f9b8a91e6d2c523ad9d9bc798ee46ca3325846b56f296d7109823a1
+machine_hash: 8002d19bccb5027d758764ea328d19905d2c26e487feb8b46eb80d4df4e11b09
 product: aider
 product_name: Aider
 record:
@@ -46,12 +46,12 @@ record:
   title: 4 Model Support changes in v0.53.0
   type: change
 related_changes:
-- '[[Changes/Aider/2024-08-20-prompt-caching-for-anthropic-models-with-cache-prompts|Prompt
-  caching for Anthropic models with --cache-prompts]]'
 - '[[Changes/Aider/2024-08-23-default-openai-model-is-now-gpt-4o-2024-08-06|Default
   OpenAI model is now gpt-4o-2024-08-06]]'
 - '[[Changes/OpenHands/2024-08-23-enhance-the-llm-class-with-async-support-by-tobitege-in-https-github-com-all-han|Enhance
   the LLM class with async support]]'
+- '[[Changes/Dify/2024-08-26-11-model-support-changes-in-0-7-2|11 Model Support changes
+  in 0.7.2]]'
 source_release: '[[Releases/Aider/aider-2024-08-27-v0-53-0-github-172157209-6d1857f0|aider-2024-08-27-v0-53-0-github-172157209-6d1857f0]]'
 source_type: github_releases
 theme: model-support
@@ -92,8 +92,8 @@ Source: https://github.com/Aider-AI/aider/releases/tag/v0.53.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2024-08-23 · OpenHands · [[Changes/OpenHands/2024-08-23-enhance-the-llm-class-with-async-support-by-tobitege-in-https-github-com-all-han|Enhance the LLM class with async support]]
-- Later: 2024-08-28 · Aider · [[Changes/Aider/2024-08-28-4-model-support-changes-in-v0-54-0|4 Model Support changes in v0.54.0]]
+- Earlier: 2024-08-26 · Dify · [[Changes/Dify/2024-08-26-11-model-support-changes-in-0-7-2|11 Model Support changes in 0.7.2]]
+- Later: 2024-08-27 · Open WebUI · [[Changes/Open WebUI/2024-08-27-show-knowledge-search-status-enhanced-model-usage-transparency-by-displaying-sta|😄 Show Knowledge Search Status]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

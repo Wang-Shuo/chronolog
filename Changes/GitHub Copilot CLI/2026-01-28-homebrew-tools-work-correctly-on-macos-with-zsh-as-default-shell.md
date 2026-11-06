@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: c87d14da0c4bdb858bba1760887505ceabc023c6368fd7d3ee92c8174368a5a4
+machine_hash: b768bd77ecdebd1f0f74aa9af6029f2481cf2e7a6f96bdc0fde5f34901a22890
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -80,7 +80,7 @@ type: change
 ## Nearby in Mobile and Desktop
 
 - Earlier: 2026-01-22 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-01-22-add-msi-installer-for-windows|Add MSI installer for Windows]]
-- Later: 2026-01-29 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-01-29-skills-load-correctly-on-windows|Skills load correctly on Windows]]
+- Later: 2026-01-28 · v0 · [[Changes/v0/2026-01-28-improved-git-workflow-ui-on-mobile-devices|Improved Git workflow UI on mobile devices]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 7550b392e05ba1ce25f4c8a5559a7ce798e826b1f263ccfd00c0bf9629972caf
+machine_hash: 024edfbd79fd00469fc09cd33b0614eb5066428b58584fc2d439ca24733320fa
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -53,12 +53,12 @@ record:
   title: '#14410 Make collab model metadata accurate on completion @aibrahim-oai'
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-03-11-2-interface-experience-changes-in-v2-1-73|2 Interface
-  Experience changes in v2.1.73]]'
-- '[[Changes/Gemini CLI/2026-03-11-feat-admin-enable-30-day-default-retention-for-chat-history-remove-warning-by-sk|feat(admin):
-  enable 30 day default retention for chat history & remove warning]]'
 - '[[Changes/GitHub Copilot CLI/2026-03-11-2-interface-experience-changes-in-v1-0-4|2
   Interface Experience changes in v1.0.4]]'
+- '[[Changes/v0/2026-03-11-added-tooltip-to-disabled-new-chat-button-for-view-only-access|Added
+  tooltip to disabled New Chat button for view-only access]]'
+- '[[Changes/Ollama/2026-03-14-or-using-openclaw-s-onboarding|Or using OpenClaw’s
+  onboarding]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-03-16-rust-v0-115-0-github-297641413-c704d9db|codex-cli-2026-03-16-rust-v0-115-0-github-297641413-c704d9db]]'
 source_type: github_releases
 theme: interface-experience
@@ -97,7 +97,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-03-11 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-03-11-2-interface-experience-changes-in-v1-0-4|2 Interface Experience changes in v1.0.4]]
+- Earlier: 2026-03-14 · Ollama · [[Changes/Ollama/2026-03-14-or-using-openclaw-s-onboarding|Or using OpenClaw’s onboarding]]
 - Later: 2026-03-16 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-03-16-show-friendlier-error-messages-and-provide-keyboard-shortcut-to-open-event-links|Show friendlier error messages and provide keyboard shortcut to open event links…]]
 <!-- chronolog:end -->
 

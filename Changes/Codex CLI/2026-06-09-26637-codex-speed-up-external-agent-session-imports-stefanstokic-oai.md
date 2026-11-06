@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: f9ca32cfb0a1e64879392d0e13c4c8a7e60dc2c1f33bcbee11016248487e589f
+machine_hash: 394502dde9304719ff108ea02d3fb8f08ac1c71927d8b0c3bd627c68b9f7c5be
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -53,12 +53,12 @@ record:
   title: '#26637 [codex] Speed up external agent session imports @stefanstokic-oai'
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-06-02-improved-rendering-performance-for-large-file-writes|Improved
-  rendering performance for large file writes]]'
 - '[[Changes/Cursor/2026-06-04-reliability-performance-and-platform-improvements|Reliability,
   performance, and platform improvements]]'
 - '[[Changes/Cursor/2026-06-04-run-correlation-every-send-now-carries-a-platform-generated-requestid-exposed-on|Run
   correlation: Every send() now carries a platform-generated requestId, exposed…]]'
+- '[[Changes/Ollama/2026-06-05-gemma-4-qat-weights-https-ollama-com-library-gemma4-the-gemma-4-family-is-now-op|Gemma
+  4 QAT weights((source link)]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-06-09-rust-v0-139-0-github-336847772-eda0ee6f|codex-cli-2026-06-09-rust-v0-139-0-github-336847772-eda0ee6f]]'
 source_type: github_releases
 theme: reliability-performance
@@ -96,7 +96,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2026-06-04 · Cursor · [[Changes/Cursor/2026-06-04-run-correlation-every-send-now-carries-a-platform-generated-requestid-exposed-on|Run correlation: Every send() now carries a platform-generated requestId, exposed…]]
+- Earlier: 2026-06-05 · Ollama · [[Changes/Ollama/2026-06-05-gemma-4-qat-weights-https-ollama-com-library-gemma4-the-gemma-4-family-is-now-op|Gemma 4 QAT weights((source link)]]
 - Later: 2026-06-09 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-06-09-grep-searches-in-large-monorepos-use-an-indexed-search-engine-for-significantly|Grep searches in large monorepos use an indexed search engine for significantly…]]
 <!-- chronolog:end -->
 

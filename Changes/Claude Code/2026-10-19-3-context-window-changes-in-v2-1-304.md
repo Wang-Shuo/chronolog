@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 5466243891f9052f996debfaf39857b64752086f3ce5b4c15b3227767618cf26
+machine_hash: e3fff1ca68f063d657fed3c814ad4c3701cb18b0ed8326095bb664816c559f00
 product: claude-code
 product_name: Claude Code
 record:
@@ -48,12 +48,12 @@ record:
   title: 3 Context Window changes in v2.1.304
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-10-15-16-context-window-changes-in-rust-v0-163-0|16 Context
-  Window changes in rust-v0.163.0]]'
-- '[[Changes/Claude Code/2026-10-16-2-context-window-changes-in-v2-1-302|2 Context
-  Window changes in v2.1.302]]'
 - '[[Changes/Cline/2026-10-16-auto-compact-and-its-strategy-setting-sit-together-again-in-feature-settings|Auto
   Compact and its strategy setting sit together again in Feature settings]]'
+- '[[Changes/Open WebUI/2026-10-16-2-context-window-changes-in-v0-12-3|2 Context Window
+  changes in v0.12.3]]'
+- '[[Changes/Ollama/2026-10-18-2-context-window-changes-in-v0-40-7|2 Context Window
+  changes in v0.40.7]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-10-19-v2-1-304-github-417677344-46c4d994|claude-code-2026-10-19-v2-1-304-github-417677344-46c4d994]]'
 source_type: github_releases
 theme: context-window
@@ -97,7 +97,7 @@ Source: https://github.com/anthropics/claude-code/releases/tag/v2.1.304
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Context Window
 
-- Earlier: 2026-10-16 · Cline · [[Changes/Cline/2026-10-16-auto-compact-and-its-strategy-setting-sit-together-again-in-feature-settings|Auto Compact and its strategy setting sit together again in Feature settings]]
+- Earlier: 2026-10-18 · Ollama · [[Changes/Ollama/2026-10-18-2-context-window-changes-in-v0-40-7|2 Context Window changes in v0.40.7]]
 - Later: 2026-10-19 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-10-19-avoid-false-context-exhaustion-and-rollover-refusal-when-tool-definitions-are-de|Avoid false context exhaustion and rollover refusal when tool definitions are deferred]]
 <!-- chronolog:end -->
 

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 2b5ae56c6162f0efafb980a471eee53e3cefbbb4b0b5c0b16da34eaa2e1017d4
+machine_hash: f664d8ba0515bf4930354484a6be014be323a7a48a09ac473ac7f0f8e142bc23
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -55,12 +55,12 @@ record:
   title: 6 Interface Experience changes in v1.0.60
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-06-04-2-interface-experience-changes-in-v2-1-163|2 Interface
-  Experience changes in v2.1.163]]'
 - '[[Changes/Codex CLI/2026-06-04-2-interface-experience-changes-in-rust-v0-137-0|2
   Interface Experience changes in rust-v0.137.0]]'
 - '[[Changes/Cursor/2026-06-04-shared-canvases-can-now-be-opened-full-screen-in-the-browser-making-them-easier|Shared
   canvases can now be opened full-screen in the browser, making them easier…]]'
+- '[[Changes/Lovable/2026-06-04-transfer-a-domain-out-to-another-registrar|Transfer
+  a domain out to another registrar]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2026-06-05-v1-0-60-github-335046279-6a5628d4|github-copilot-cli-2026-06-05-v1-0-60-github-335046279-6a5628d4]]'
 source_type: github_releases
 theme: interface-experience
@@ -113,7 +113,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.60
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2026-06-04 · Cursor · [[Changes/Cursor/2026-06-04-shared-canvases-can-now-be-opened-full-screen-in-the-browser-making-them-easier|Shared canvases can now be opened full-screen in the browser, making them easier…]]
+- Earlier: 2026-06-04 · Lovable · [[Changes/Lovable/2026-06-04-transfer-a-domain-out-to-another-registrar|Transfer a domain out to another registrar]]
 - Later: 2026-06-08 · ChatGPT · [[Changes/ChatGPT/2026-06-08-improvement-to-charts-table-of-contents-and-full-screen-writing-also-fixes-long|Improvement to charts, table of contents and full screen writing]]
 <!-- chronolog:end -->
 

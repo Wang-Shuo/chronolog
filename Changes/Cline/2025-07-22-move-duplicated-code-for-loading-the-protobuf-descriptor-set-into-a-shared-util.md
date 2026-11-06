@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: dc1cfbde216b1042bc3d4b1c1792610df0d521d43c8679b1b3dff6dcbc5ed8ad
+machine_hash: 510dacaf8895db8aa9a5f308ef655bde7fc5dcdc04bb360f7f41e4e1cccc7288
 product: cline
 product_name: Cline
 record:
@@ -44,12 +44,12 @@ record:
     util file
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2025-06-12-starting-today-we-re-adding-several-updates-to-projects-in-chatgpt-to-help-you-d|Starting
-  today, we’re adding several updates to projects in ChatGPT to help you do…]]'
-- '[[Changes/Cursor/2025-06-12-use-cursor-where-your-team-works-3e7ca8|Use Cursor
-  where your team works]]'
 - '[[Changes/Cline/2025-07-11-request-validation-and-remove-credit-balance-for-cline-team-by-abeatrix-in-https|Request
   validation and remove credit balance for cline team]]'
+- '[[Changes/Open WebUI/2025-07-14-4-collaboration-changes-in-v0-6-16|4 Collaboration
+  changes in v0.6.16]]'
+- "[[Changes/Open WebUI/2025-07-19-user-group-add-remove-endpoints-effortlessly-add-or-remove-users-from-groups-wit|\U0001F465
+  User Group Add/Remove Endpoints]]"
 source_release: '[[Releases/Cline/cline-2025-07-22-v3-19-8-github-234341731-78a40b25|cline-2025-07-22-v3-19-8-github-234341731-78a40b25]]'
 source_type: github_releases
 theme: collaboration
@@ -85,7 +85,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Collaboration
 
-- Earlier: 2025-07-11 · Cline · [[Changes/Cline/2025-07-11-request-validation-and-remove-credit-balance-for-cline-team-by-abeatrix-in-https|Request validation and remove credit balance for cline team]]
+- Earlier: 2025-07-19 · Open WebUI · [[Changes/Open WebUI/2025-07-19-user-group-add-remove-endpoints-effortlessly-add-or-remove-users-from-groups-wit|👥 User Group Add/Remove Endpoints]]
 - Later: 2025-07-31 · Cline · [[Changes/Cline/2025-07-31-refactor-setup-e2e-tests-to-use-shared-mock-server-by-abeatrix-in-https-github-c|refactor: setup e2e tests to use shared mock server]]
 <!-- chronolog:end -->
 

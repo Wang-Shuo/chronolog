@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: launch
-machine_hash: 97d968b8a49abb2aed473311c5bd79ad249ee4a1e0c44b3d5ade498064919c52
+machine_hash: c61f91e243e512943a08be3ad91ce591c2dcec6c5f4c4980363423ab75003db4
 product: cursor
 product_name: Cursor
 record:
@@ -51,10 +51,9 @@ record:
   title: Agent To-dos
   type: change
 related_changes:
-- '[[Changes/Cursor/2025-06-12-improved-background-agent-reliability|Improved Background
-  Agent reliability]]'
-- '[[Changes/OpenHands/2025-06-20-fixed-incorrect-tracking-for-cost-and-token-usage-for-main-agent-and-delegates-b|Fixed
-  incorrect tracking for cost and token usage for main agent and delegates]]'
+- '[[Changes/Replit/2025-06-27-agent-system-prompt-optimization|Agent system prompt
+  optimization]]'
+- '[[Changes/Replit/2025-06-27-new-app-creation-experience|New app creation experience]]'
 - '[[Changes/Cursor/2025-07-03-let-agent-resolve-merge-conflicts|Let Agent resolve
   merge conflicts]]'
 source_release: '[[Releases/Cursor/cursor-2025-07-03-1-2-https-cursor-com-changelog-1-2-27872f5d|cursor-2025-07-03-1-2-https-cursor-com-changelog-1-2-27872f5d]]'
@@ -100,8 +99,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2025-06-20 · OpenHands · [[Changes/OpenHands/2025-06-20-fixed-incorrect-tracking-for-cost-and-token-usage-for-main-agent-and-delegates-b|Fixed incorrect tracking for cost and token usage for main agent and delegates]]
-- Later: 2025-07-19 · Codex CLI · [[Changes/Codex CLI/2025-07-19-https-github-com-openai-codex-pull-1589-changes-ctrl-d-so-it-only-exits-the-tui|(source link) changes ctrl-d so it only exits the TUI…]]
+- Earlier: 2025-06-27 · Replit · [[Changes/Replit/2025-06-27-new-app-creation-experience|New app creation experience]]
+- Later: 2025-07-04 · Replit · [[Changes/Replit/2025-07-04-custom-agent-instructions|Custom Agent Instructions]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

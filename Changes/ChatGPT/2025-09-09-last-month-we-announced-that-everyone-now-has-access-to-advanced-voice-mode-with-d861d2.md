@@ -5,20 +5,20 @@ description: 'ChatGPT · 2025-09-09 · Voice and Audio: Last month we announced 
   everyone now has access to Advanced Voice Mode, with usage expanded from minutes
   per day…'
 diffusion:
-  first_in_tracked: '[[Changes/Aider/2023-08-11-voice-to-code-https-aider-chat-docs-voice-html-support-which-allows-you-to-code|Voice-to-code((source
-    link) support, which allows you…]]'
+  first_in_tracked: '[[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2
+    Voice and Audio changes in 0.3.7]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 760
+  lag_days: 792
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: voice
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 91222b6f71221dd0361e78d9714ebb9fac8266872d4c37234b4c9c16fd5f286b
+machine_hash: a193d67d30ee9182cffec05b51ab69560efe5be7b25c80d94f2c5f82a8230afc
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -57,11 +57,9 @@ record:
   title: ChatGPT Voice Update
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2025-08-07-today-we-re-rolling-out-improvements-to-voice-mode-to-make-it-more-accessible-an-055388|ChatGPT
-  Voice updates]]'
-- '[[Changes/ChatGPT/2025-08-07-you-can-now-set-an-accent-color-that-applies-to-elements-in-chatgpt-including-yo-865968|Accent
-  Colors]]'
-- '[[Changes/ChatGPT/2025-08-07-you-can-now-choose-from-four-distinct-personalities-or-use-the-default-personali-b6826c|Personalities]]'
+- '[[Changes/ElevenLabs/2025-09-08-python-sdk|Python SDK]]'
+- '[[Changes/ElevenLabs/2025-09-08-text-to-speech|Text to Speech]]'
+- '[[Changes/ElevenLabs/2025-09-08-new-endpoints|New Endpoints]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-09-09-chatgpt-voice-update-c17a6a9f|chatgpt-2025-09-09-chatgpt-voice-update-c17a6a9f]]'
 source_type: chatgpt_changelog
 theme: voice
@@ -88,14 +86,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Voice and Audio
 
-- Earlier: 2025-08-07 · ChatGPT · [[Changes/ChatGPT/2025-08-07-you-can-now-choose-from-four-distinct-personalities-or-use-the-default-personali-b6826c|Personalities]]
-- Later: 2025-09-25 · Cline · [[Changes/Cline/2025-09-25-3-voice-and-audio-changes-in-v3-31-0|3 Voice and Audio changes in v3.31.0]]
+- Earlier: 2025-09-08 · ElevenLabs · [[Changes/ElevenLabs/2025-09-08-new-endpoints|New Endpoints]]
+- Later: 2025-09-15 · ElevenLabs · [[Changes/ElevenLabs/2025-09-15-javascript-sdk|JavaScript SDK]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-08-11 · Aider · [[Changes/Aider/2023-08-11-voice-to-code-https-aider-chat-docs-voice-html-support-which-allows-you-to-code|Voice-to-code((source link) support, which allows you…]]
+- Earliest same-theme entry in the tracked set: 2023-07-10 · Dify · [[Changes/Dify/2023-07-10-2-voice-and-audio-changes-in-0-3-7|2 Voice and Audio changes in 0.3.7]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

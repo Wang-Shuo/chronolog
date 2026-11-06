@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 7e1542a955e6f0f6b4bc563742496b28ee321c983c4133668f85c76be301f061
+machine_hash: ccd178a0e528d6f3a965c331f3feee5e7ecdd39cee30adb829e472c840a916e5
 product: cline
 product_name: Cline
 record:
@@ -45,12 +45,11 @@ record:
     that bundle
   type: change
 related_changes:
-- '[[Changes/Cline/2026-08-21-2-apps-and-integrations-changes-in-v4-1-11|2 Apps and
-  Integrations changes in v4.1.11]]'
 - '[[Changes/OpenHands/2026-08-21-2-apps-and-integrations-changes-in-v1-15-0|2 Apps
   and Integrations changes in v1.15.0]]'
 - '[[Changes/Cline/2026-08-22-everything-here-lands-through-the-sdk-bundle-so-it-applies-to-windows-running-th|Everything
   here lands through the SDK bundle, so it applies to windows running that bundle]]'
+- '[[Changes/ElevenLabs/2026-08-22-mcp-server|MCP server]]'
 source_release: '[[Releases/Cline/cline-2026-08-23-v4-1-14-github-375175985-b7635cc3|cline-2026-08-23-v4-1-14-github-375175985-b7635cc3]]'
 source_type: github_releases
 theme: apps-integrations
@@ -81,7 +80,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-08-22 · Cline · [[Changes/Cline/2026-08-22-everything-here-lands-through-the-sdk-bundle-so-it-applies-to-windows-running-th|Everything here lands through the SDK bundle, so it applies to windows running that bundle]]
+- Earlier: 2026-08-22 · ElevenLabs · [[Changes/ElevenLabs/2026-08-22-mcp-server|MCP server]]
 - Later: 2026-08-23 · Cline · [[Changes/Cline/2026-08-23-2-apps-and-integrations-changes-in-v4-1-15|2 Apps and Integrations changes in v4.1.15]]
 <!-- chronolog:end -->
 

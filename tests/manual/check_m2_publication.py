@@ -31,11 +31,12 @@ class Links(HTMLParser):
         self.text.append(value)
 
 
-def audit_html(site, base_url=None):
+def audit_html(site, base_url=None, excluded_slugs=()):
     checked = 0
     errors = []
     base = urlsplit('https://' + base_url) if base_url else urlsplit('http://preview')
     prefix = base.path.rstrip('/')
+    excluded_hrefs = {'/' + slug for slug in excluded_slugs}
     for file in site.rglob('*.html'):
         parser = Links()
         parser.feed(file.read_text())
@@ -44,6 +45,8 @@ def audit_html(site, base_url=None):
         if re.search(r'\[\[(?:Changes|Products|Releases|Themes|Archive)/', visible):
             errors.append((str(file.relative_to(site)), 'unrendered wiki link'))
         for href in parser.hrefs:
+            if href in excluded_hrefs:
+                errors.append((str(file.relative_to(site)), f'link to excluded content: {href}'))
             if href.startswith(('#','mailto:','tel:','data:')):
                 continue
             url = urlsplit(urljoin(f'{base.scheme}://{base.netloc}{prefix}/' + file.relative_to(site).as_posix(), href))
@@ -89,9 +92,6 @@ def audit(vault, site, base_url=None):
     assert not broken, broken[:20]
     for slug in expected:
         assert (site / (slug + '.html')).exists(), slug
-    html = '\n'.join(p.read_text() for p in site.rglob('*.html'))
-    for excluded_slug in excluded:
-        assert f'href="/{excluded_slug}"' not in html
     changes = {k:v for k,v in active.items() if k.startswith('Changes/')}
     releases = {k:v for k,v in active.items() if k.startswith('Releases/')}
     product_counts = Counter(v['product'] for v in changes.values())
@@ -119,7 +119,7 @@ def audit(vault, site, base_url=None):
     rs,cs,pending = read_history(vault, product_ids)
     links = validate_vault_links(vault,rs,cs,pending)
     assert not links['errors'], links['errors'][:10]
-    html_links = audit_html(site, base_url)
+    html_links = audit_html(site, base_url, excluded)
     return {'html_links_checked':html_links,'active_pages':len(expected),'excluded_pages':len(excluded),'active_releases':len(releases),
             'active_changes':len(changes),'archive_months':len(month_counts),'products':dict(product_counts),'themes':dict(theme_counts),
             'index_set_matches_vault':True,'broken_graph_edges':broken,'vault_validation':links,

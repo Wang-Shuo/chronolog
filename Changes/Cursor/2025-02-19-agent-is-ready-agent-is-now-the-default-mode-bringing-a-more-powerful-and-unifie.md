@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: 3404db2bbe234657623c3a6317bdc4fc254d2eb823e9c8cb55ba9ea43d06ca4f
+machine_hash: 5b182041f954ac7d3fe3d051034eb84a8f5d28c6e3f8fbf4cff4ee5c7ef51553
 product: cursor
 product_name: Cursor
 record:
@@ -48,12 +48,9 @@ record:
     and unified…'
   type: change
 related_changes:
-- '[[Changes/OpenHands/2025-01-22-when-connecting-to-a-github-repo-the-agent-now-explicitly-knows-which-repo-was-c|When
-  connecting to a GitHub repo, the agent now explicitly knows which repo…]]'
-- '[[Changes/Cursor/2025-01-23-agent-sees-recent-changes-the-agent-can-use-a-tool-to-see-your-recent-changes-it|Agent
-  sees recent changes: The agent can use a tool to see your recent changes]]'
-- '[[Changes/Cursor/2025-01-23-cursor-rules-users-can-write-several-repository-level-rules-to-disk-in-the-curso|.cursor/rules:
-  Users can write several repository-level rules to disk…]]'
+- '[[Changes/Replit/2025-02-14-agent-updates|Agent updates]]'
+- '[[Changes/ElevenLabs/2025-02-17-agents-platform|Agents Platform]]'
+- '[[Changes/ElevenLabs/2025-02-17-api|API]]'
 source_release: '[[Releases/Cursor/cursor-2025-02-19-0-46-x-https-cursor-com-changelog-0-46-x-640a0a10|cursor-2025-02-19-0-46-x-https-cursor-com-changelog-0-46-x-640a0a10]]'
 source_type: cursor_changelog
 theme: agent-mode
@@ -93,8 +90,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2025-01-23 · Cursor · [[Changes/Cursor/2025-01-23-cursor-rules-users-can-write-several-repository-level-rules-to-disk-in-the-curso|.cursor/rules: Users can write several repository-level rules to disk…]]
-- Later: 2025-03-07 · OpenHands · [[Changes/OpenHands/2025-03-07-3-agent-mode-changes-in-0-28-0|3 Agent Mode changes in 0.28.0]]
+- Earlier: 2025-02-17 · ElevenLabs · [[Changes/ElevenLabs/2025-02-17-api|API]]
+- Later: 2025-02-21 · Replit · [[Changes/Replit/2025-02-21-improved-international-character-support-in-screenshots|Improved international character support in screenshots]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

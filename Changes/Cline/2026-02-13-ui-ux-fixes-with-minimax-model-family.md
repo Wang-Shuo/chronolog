@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 2d5ee534786c367a94305d7abbb3c80a906deb131ac56bbcc4ca07ace9c6eb16
+machine_hash: 5f70dba234831d00b4022e424431ca1035a1d839f32cc41680af23e192b90bc2
 product: cline
 product_name: Cline
 record:
@@ -41,10 +41,10 @@ record:
   title: UI/UX fixes with minimax model family
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-02-12-4-model-support-changes-in-rust-v0-100-0|4 Model
-  Support changes in rust-v0.100.0]]'
-- '[[Changes/GitHub Copilot CLI/2026-02-12-add-streamer-mode-to-hide-preview-model-names-and-quota-details-for-streaming|Add
-  /streamer-mode to hide preview model names and quota details for streaming]]'
+- '[[Changes/Ollama/2026-02-12-3-model-support-changes-in-v0-16-0|3 Model Support
+  changes in v0.16.0]]'
+- '[[Changes/Open WebUI/2026-02-12-19-model-support-changes-in-v0-8-0|19 Model Support
+  changes in v0.8.0]]'
 - '[[Changes/ChatGPT/2026-02-13-as-previously-announced-we-have-retired-gpt-4o-gpt-4-1-gpt-4-1-mini-and-openai-o|Retiring
   GPT-4o and other legacy models]]'
 source_release: '[[Releases/Cline/cline-2026-02-13-v3-61-0-github-286203694-385f06f9|cline-2026-02-13-v3-61-0-github-286203694-385f06f9]]'
@@ -74,7 +74,7 @@ type: change
 ## Nearby in Model Support
 
 - Earlier: 2026-02-13 · ChatGPT · [[Changes/ChatGPT/2026-02-13-as-previously-announced-we-have-retired-gpt-4o-gpt-4-1-gpt-4-1-mini-and-openai-o|Retiring GPT-4o and other legacy models]]
-- Later: 2026-02-17 · Claude Code · [[Changes/Claude Code/2026-02-17-added-support-for-claude-sonnet-4-6|Added support for Claude Sonnet 4.6]]
+- Later: 2026-02-13 · Replit · [[Changes/Replit/2026-02-13-claude-opus-4-5-support|Claude Opus 4.5 support]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

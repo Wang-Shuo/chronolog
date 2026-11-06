@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 70df5a7120042d025fa9e8dd9b3b03a21d999535e7f9b47265c1d46aea0aae90
+machine_hash: 4bfae242236f4940b37d793adf677f80fa2f60443c64d40cb32972c7603a6117
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,10 +45,10 @@ record:
   title: 2 Interface Experience changes in v2.1.141
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-05-08-project-info-remains-visible-in-slash-command-picker-when-no-results-match|Project
-  info remains visible in slash command picker when no results match]]'
 - '[[Changes/Claude Code/2026-05-11-added-transcript-view-navigation-for-keyboard-shortcuts-to-jump-between-user-pro|Added
   transcript view navigation]]'
+- '[[Changes/Dify/2026-05-12-8-interface-experience-changes-in-1-14-1|8 Interface
+  Experience changes in 1.14.1]]'
 - '[[Changes/Gemini CLI/2026-05-12-test-evals-add-behavioral-eval-for-file-creation-and-write-file-tool-selection-b|test(evals):
   add behavioral eval for file creation and write_file tool selection]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-05-13-v2-1-141-github-322186176-9f8e2e22|claude-code-2026-05-13-v2-1-141-github-322186176-9f8e2e22]]'

@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: ff0a02eccd3d519db6db23d9cda1fbdce480787cbf2c3749b129fcb1ef734016
+machine_hash: e2bb95b78119f40e72dd2fb00eaf5b23231c5b4a3593e5a806606803829e440d
 product: openhands
 product_name: OpenHands
 record:
@@ -47,9 +47,10 @@ record:
   title: 2 Developer Workflow changes in 0.44.0
   type: change
 related_changes:
-- '[[Changes/Windsurf/2025-06-10-theme-aware-codeblocks-with-refreshed-design|Theme-aware
-  codeblocks with refreshed design]]'
-- '[[Changes/Windsurf/2025-06-10-terminal-improvements|Terminal Improvements]]'
+- '[[Changes/Dify/2025-06-11-improved-housekeeping-command-now-preserves-avatar-images-and-app-icons-correctl|Improved
+  Housekeeping Command]]'
+- '[[Changes/Dify/2025-06-16-keep-those-pull-requests-coming-as-we-aim-to-make-your-user-experience-as-seamle|Keep
+  those pull requests coming as we aim to make your user experience as seamless…]]'
 - '[[Changes/OpenHands/2025-06-20-git-ownership-errors-in-containers-by-llamantino-in-https-github-com-all-hands-a|Git
   Ownership Errors in containers]]'
 source_release: '[[Releases/OpenHands/openhands-2025-06-20-0-44-0-github-226788383-62d9d16f|openhands-2025-06-20-0-44-0-github-226788383-62d9d16f]]'

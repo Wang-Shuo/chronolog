@@ -4,20 +4,20 @@ date: '2026-08-17'
 description: 'OpenHands · 2026-08-17 · Files and Data: 2 changes in v1.14.0 — feat(canvas):
   present structured error outcomes by @neubig in…'
 diffusion:
-  first_in_tracked: '[[Changes/ChatGPT/2023-07-06-we-re-rolling-out-code-interpreter-to-all-chatgpt-plus-users-over-the-next-week-66255e|Code
-    interpreter is now rolling out in beta on web]]'
+  first_in_tracked: '[[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2
+    Files and Data changes in 0.2.2]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 1138
+  lag_days: 1180
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: file-data
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: a24b68393997ccb420e942117cb94e7674e3b5a4d6ea824ac88a57b0a7a4cd5e
+machine_hash: 3a7d164ab685301914a138c9955586ca2b0ab960c144fc963e66834d1753a523
 product: openhands
 product_name: OpenHands
 record:
@@ -91,7 +91,7 @@ Source: https://github.com/OpenHands/OpenHands/releases/tag/v1.14.0
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2023-07-06 · ChatGPT · [[Changes/ChatGPT/2023-07-06-we-re-rolling-out-code-interpreter-to-all-chatgpt-plus-users-over-the-next-week-66255e|Code interpreter is now rolling out in beta on web]]
+- Earliest same-theme entry in the tracked set: 2023-05-25 · Dify · [[Changes/Dify/2023-05-25-2-files-and-data-changes-in-0-2-2|2 Files and Data changes in 0.2.2]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

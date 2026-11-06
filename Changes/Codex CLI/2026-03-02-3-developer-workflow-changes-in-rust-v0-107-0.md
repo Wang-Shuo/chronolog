@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: e43c80642282bafec8b4643bf68f8cb22ece22bf41c7bdcdebdbf2a33937c104
+machine_hash: 8a5accdfbc45d7c66093587021f335c4f9b47738f05da1a7c8bf1e3fd5ce5723
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -47,12 +47,12 @@ record:
   title: 3 Developer Workflow changes in rust-v0.107.0
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-02-27-type-to-reference-github-issues-pull-requests-and-discussions|Type
-  ♯ to reference GitHub issues, pull requests and discussions]]'
 - '[[Changes/Claude Code/2026-02-28-improved-model-command-to-show-the-currently-active-model-in-the-slash-command-m|Improved
   /model command to show the currently active model in the slash command menu]]'
 - '[[Changes/Claude Code/2026-02-28-added-simplify-and-batch-bundled-slash-commands|Added
   /simplify and /batch bundled slash commands]]'
+- '[[Changes/Open WebUI/2026-03-01-9-developer-workflow-changes-in-v0-8-6|9 Developer
+  Workflow changes in v0.8.6]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-03-02-rust-v0-107-0-github-292187522-c29f3a8f|codex-cli-2026-03-02-rust-v0-107-0-github-292187522-c29f3a8f]]'
 source_type: github_releases
 theme: developer-workflow
@@ -98,8 +98,8 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.107.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2026-02-28 · Claude Code · [[Changes/Claude Code/2026-02-28-added-simplify-and-batch-bundled-slash-commands|Added /simplify and /batch bundled slash commands]]
-- Later: 2026-03-03 · Cline · [[Changes/Cline/2026-03-03-retry-nested-git-restore-and-prevent-silent-git-disabled-leftovers-in-checkpoint|Retry nested git restore and prevent silent .git_disabled leftovers in checkpoints]]
+- Earlier: 2026-03-01 · Open WebUI · [[Changes/Open WebUI/2026-03-01-9-developer-workflow-changes-in-v0-8-6|9 Developer Workflow changes in v0.8.6]]
+- Later: 2026-03-02 · Open WebUI · [[Changes/Open WebUI/2026-03-02-faster-artifact-content-updates-artifact-content-extraction-during-streaming-is|⚡ Faster artifact content updates. Artifact content extraction during streaming…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

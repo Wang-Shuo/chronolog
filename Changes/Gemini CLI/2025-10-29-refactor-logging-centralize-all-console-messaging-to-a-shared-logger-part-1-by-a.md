@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: fc3aaffa7837156822f475f44078c53b60e754c33d759cefdfb125e49c30217d
+machine_hash: d1c9b292231c98e6e833e4029d95fcccfaf68b424e4284f8b003c2067ab36139
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -86,7 +86,7 @@ type: change
 ## Nearby in Collaboration
 
 - Earlier: 2025-10-29 · Cursor · [[Changes/Cursor/2025-10-29-team-commands|Team Commands]]
-- Later: 2025-11-07 · Cline · [[Changes/Cline/2025-11-07-share-provider-information-by-barreirot-in-https-github-com-cline-cline-pull-733|Share provider information]]
+- Later: 2025-11-05 · Lovable · [[Changes/Lovable/2025-11-05-request-access-to-private-projects|Request access to private projects]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

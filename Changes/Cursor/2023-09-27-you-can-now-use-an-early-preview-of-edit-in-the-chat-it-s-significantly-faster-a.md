@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 84dd82cb4d4550e7f8d46071221853641c291adf73c6bd69f79e8ee4ad524181
+machine_hash: 40821c24a5755616c403fa3a65dea3d4f318edae1edd3a5d4cb7298a0d2d39ae
 product: cursor
 product_name: Cursor
 record:
@@ -60,8 +60,8 @@ record:
   title: /edit in chat
   type: change
 related_changes:
-- '[[Changes/Cursor/2023-09-05-cmd-k-will-no-longer-output-backticks-if-you-do-file|Cmd-K
-  will no longer output backticks if you do @file]]'
+- '[[Changes/Dify/2023-09-10-the-query-parameter-in-the-post-v1-completion-messages-endpoint-of-the-app-opena|The
+  query parameter in the POST /v1/completion-messages endpoint of the App…]]'
 - '[[Changes/Cursor/2023-09-19-you-can-now-alternate-between-diffs-and-texts-responses-in-cmd-k-this-can-be-hel|Inline
   Chat]]'
 - '[[Changes/Cursor/2023-09-21-hacky-first-version-of-cmd-k-in-the-terminal-let-us-know-what-you-think|Cmd-K
@@ -93,7 +93,7 @@ type: change
 ## Nearby in Editor Experience
 
 - Earlier: 2023-09-21 · Cursor · [[Changes/Cursor/2023-09-21-hacky-first-version-of-cmd-k-in-the-terminal-let-us-know-what-you-think|Cmd-K in the terminal!]]
-- Later: 2023-10-29 · Aider · [[Changes/Aider/2023-10-29-2-editor-experience-changes-in-v0-16-0|2 Editor Experience changes in v0.16.0]]
+- Later: 2023-10-14 · Dify · [[Changes/Dify/2023-10-14-remove-the-suggested-api-for-completion-app-by-crazywoola-in-https-github-com-la|remove the suggested api for completion app]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

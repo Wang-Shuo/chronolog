@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 3e88da8bc3af2fbba31e7cf850ef09c8e0bbc0dd8f8170532b69bfb015529686
+machine_hash: 28738163588d5790127d7bda7424f6f8e170a7ea38480290e0cbad107ba38f28
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -58,10 +58,10 @@ record:
     model's…
   type: change
 related_changes:
-- '[[Changes/Cline/2025-09-28-tasks-directory-replace-uses-of-context-globalstorageuri-with-hostprovider-get-g|Tasks
-  directory Replace uses of context.globalStorageUri…]]'
 - '[[Changes/Cline/2025-09-29-disk-ts-replace-uses-of-context-globalstorageuri-with-hostprovider-get-globalsto|disk.ts
   Replace uses of context.globalStorageUri…]]'
+- '[[Changes/Dify/2025-09-29-synced-fileuploader-context-with-props-to-fix-inconsistent-file-parameters-in-ca|Synced
+  FileUploader context with props to fix inconsistent file parameters in cached…]]'
 - '[[Changes/Codex CLI/2025-10-03-2-context-window-changes-in-rust-v0-44-0|2 Context
   Window changes in rust-v0.44.0]]'
 source_release: '[[Releases/GitHub Copilot CLI/github-copilot-cli-2025-10-03-v0-0-334-github-252134613-e212da05|github-copilot-cli-2025-10-03-v0-0-334-github-252134613-e212da05]]'

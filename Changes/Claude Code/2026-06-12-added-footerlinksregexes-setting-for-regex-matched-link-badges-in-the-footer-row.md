@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 5b26d54a052714491bd8dbd172f89c98a4b4c7311604f4b8cb8c498b714592bf
+machine_hash: 97e176b484520835f230c187a7bdd5f57c3227b2cbfb9f22820f5be34b09ee41
 product: claude-code
 product_name: Claude Code
 record:
@@ -45,8 +45,7 @@ record:
     row…
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-06-09-2-interface-experience-changes-in-v1-0-61|2
-  Interface Experience changes in v1.0.61]]'
+- '[[Changes/Lovable/2026-06-09-svg-previews-in-chat|SVG previews in chat]]'
 - '[[Changes/ChatGPT/2026-06-10-we-re-updating-the-model-picker-to-make-it-easier-to-choose-the-balance-of-speed-b05795|We’re
   updating the model picker to make it easier to choose the balance of speed…]]'
 - '[[Changes/Windsurf/2026-06-10-agent-and-editor-modes|Agent and Editor modes]]'

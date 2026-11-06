@@ -5,20 +5,20 @@ description: 'Claude Code · 2026-08-14 · Enterprise and Administration: Change
   GitHub app setup tip to no longer appear in repositories whose origin remote is
   on…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2024-03-20-admin-improvements-team-admins-can-now-mark-themselves-as-unpaid-users-and-can-s|Admin
-    improvements: Team admins can now mark themselves as unpaid users and can see…]]'
+  first_in_tracked: '[[Changes/Gemini/2023-05-05-access-for-google-workspace-accounts|Access
+    for Google Workspace accounts]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 877
+  lag_days: 1197
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 65e2ccb55626c26db7cac30aef1ab16c90120643b774e44518d23602b616a354
+machine_hash: bd13a4da3b59b689f628a60700abe3671915412f29455d60a0ed2646ab480df7
 product: claude-code
 product_name: Claude Code
 record:
@@ -90,13 +90,13 @@ type: change
 ## Nearby in Enterprise and Administration
 
 - Earlier: 2026-08-13 · Claude Code · [[Changes/Claude Code/2026-08-13-enterprise-policy-a-url-typed-blockedmarketplaces-entry-for-a-bare-repo-url-keep|Enterprise policy: a url-typed blockedMarketplaces entry for a bare repo URL keeps…]]
-- Later: 2026-08-18 · Claude Code · [[Changes/Claude Code/2026-08-18-remote-control-claude-rc-now-applies-the-same-enterprise-gateway-availability-ch|Remote Control: claude rc now applies the same enterprise-gateway availability…]]
+- Later: 2026-08-14 · Lovable · [[Changes/Lovable/2026-08-14-set-up-entra-id-single-sign-on-from-the-microsoft-app-gallery|Set up Entra ID single sign-on from the Microsoft app gallery]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2024-03-20 · Cursor · [[Changes/Cursor/2024-03-20-admin-improvements-team-admins-can-now-mark-themselves-as-unpaid-users-and-can-s|Admin improvements: Team admins can now mark themselves as unpaid users and can see…]]
+- Earliest same-theme entry in the tracked set: 2023-05-05 · Gemini · [[Changes/Gemini/2023-05-05-access-for-google-workspace-accounts|Access for Google Workspace accounts]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

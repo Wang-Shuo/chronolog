@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: dbc4be40bbd3a68d14bfd473226e50ac67ed7e95d741ce097be48c141de1536e
+machine_hash: 6f67f10a5c22a6173e22b3c4d47329d032b1e07d69e3cb2367b60b92b3c25a21
 product: cline
 product_name: Cline
 record:
@@ -59,12 +59,11 @@ record:
   title: 8 Model Support changes in v3.37.0
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2025-11-12-we-re-updating-chatgpt-s-tone-controls-so-it-s-easier-to-make-responses-sound-th-d3a253|New
-  tone and personalization controls]]'
-- '[[Changes/ChatGPT/2025-11-12-we-re-updating-gpt-5-to-gpt-5-1-instant-and-gpt-5-1-thinking-making-answers-both-d702c4|GPT-5.1
-  in ChatGPT]]'
+- '[[Changes/ElevenLabs/2025-11-12-language-presets|Language Presets]]'
 - '[[Changes/Gemini CLI/2025-11-12-docs-add-model-documentation-by-jkcinouye-in-https-github-com-google-gemini-gemi|Docs:
   Add /model documentation]]'
+- '[[Changes/Ollama/2025-11-12-ollama-will-now-prefer-dedicated-gpus-over-igpus-when-scheduling-models|Ollama
+  will now prefer dedicated GPUs over iGPUs when scheduling models]]'
 source_release: '[[Releases/Cline/cline-2025-11-13-v3-37-0-github-262246065-f6c1ac93|cline-2025-11-13-v3-37-0-github-262246065-f6c1ac93]]'
 source_type: github_releases
 theme: model-support
@@ -116,7 +115,7 @@ Source: https://github.com/cline/cline/releases/tag/v3.37.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2025-11-12 · Gemini CLI · [[Changes/Gemini CLI/2025-11-12-docs-add-model-documentation-by-jkcinouye-in-https-github-com-google-gemini-gemi|Docs: Add /model documentation]]
+- Earlier: 2025-11-12 · Ollama · [[Changes/Ollama/2025-11-12-ollama-will-now-prefer-dedicated-gpus-over-igpus-when-scheduling-models|Ollama will now prefer dedicated GPUs over iGPUs when scheduling models]]
 - Later: 2025-11-13 · Codex CLI · [[Changes/Codex CLI/2025-11-13-11-model-support-changes-in-rust-v0-58-0|11 Model Support changes in rust-v0.58.0]]
 <!-- chronolog:end -->
 

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 355acbdb0f313de979e64b88be459e0add420fc433945522deaf213769709208
+machine_hash: ba5d8165e26852654aad6769136f14b413f7d5c869a444dbec9920c01559f8b8
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -44,7 +44,8 @@ record:
   title: Add a `completion` subcommand to the CLI…
   type: change
 related_changes:
-- '[[Changes/Windsurf/2025-06-10-planning-mode|Planning Mode]]'
+- '[[Changes/Dify/2025-06-16-dead-code-cleanup-we-ve-removed-some-obsolete-code-utilizing-vulture-keeping-our|Dead
+  Code Cleanup]]'
 - '[[Changes/Aider/2025-06-27-improved-github-copilot-token-handling-with-better-validation-and-error-messages|Improved
   GitHub Copilot token handling with better validation and error messages…]]'
 - '[[Changes/Gemini CLI/2025-07-01-2-editor-experience-changes-in-v0-1-8|2 Editor
@@ -78,7 +79,7 @@ type: change
 ## Nearby in Editor Experience
 
 - Earlier: 2025-07-01 · Gemini CLI · [[Changes/Gemini CLI/2025-07-01-2-editor-experience-changes-in-v0-1-8|2 Editor Experience changes in v0.1.8]]
-- Later: 2025-07-11 · Gemini CLI · [[Changes/Gemini CLI/2025-07-11-help-add-shift-tab-tip-by-abhipatel12-in-https-github-com-google-gemini-gemini-c|help: add shift+tab tip]]
+- Later: 2025-07-10 · Dify · [[Changes/Dify/2025-07-10-2-editor-experience-changes-in-1-6-0|2 Editor Experience changes in 1.6.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

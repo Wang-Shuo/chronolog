@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: safety-privacy
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 98577aed8e1e65278d8f482bc195af864297bd2f220f81ec42975b8020c02216
+machine_hash: a62d0fd072083762d671b0965ef1ac07828a829206d0aad0e7d0c4915a3e65ef
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -45,12 +45,11 @@ record:
   title: Migrate /privacy to new architecture
   type: change
 related_changes:
-- '[[Changes/Gemini CLI/2025-07-01-esc-to-exit-privacy-screen-in-error-state-by-scidomino-in-https-github-com-googl|Esc
-  to exit privacy screen in error state]]'
-- '[[Changes/Codex CLI/2025-07-08-adds-support-for-a-sandbox-flag-and-makes-some-breaking-changes-to-config-toml-a|Adds
-  support for a --sandbox flag and makes some breaking changes to config.toml…]]'
 - '[[Changes/Gemini CLI/2025-07-11-update-terms-of-service-and-privacy-notice-for-clarity-by-jkcinouye-in-https-git|Update
   Terms of Service and Privacy Notice for clarity]]'
+- '[[Changes/Replit/2025-07-11-deployment-privacy-indicators|Deployment privacy indicators]]'
+- '[[Changes/Open WebUI/2025-07-14-3-safety-and-privacy-changes-in-v0-6-16|3 Safety
+  and Privacy changes in v0.6.16]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2025-07-19-v0-1-13-github-233708271-319aa8dd|gemini-cli-2025-07-19-v0-1-13-github-233708271-319aa8dd]]'
 source_type: github_releases
 theme: safety-privacy
@@ -89,8 +88,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Safety and Privacy
 
-- Earlier: 2025-07-11 · Gemini CLI · [[Changes/Gemini CLI/2025-07-11-update-terms-of-service-and-privacy-notice-for-clarity-by-jkcinouye-in-https-git|Update Terms of Service and Privacy Notice for clarity]]
-- Later: 2025-07-25 · Gemini CLI · [[Changes/Gemini CLI/2025-07-25-migrate-privacy-to-new-architecture-by-abhipatel12-in-https-github-com-google-ge|Migrate /privacy to new architecture]]
+- Earlier: 2025-07-14 · Open WebUI · [[Changes/Open WebUI/2025-07-14-3-safety-and-privacy-changes-in-v0-6-16|3 Safety and Privacy changes in v0.6.16]]
+- Later: 2025-07-19 · Open WebUI · [[Changes/Open WebUI/2025-07-19-2-safety-and-privacy-changes-in-v0-6-17|2 Safety and Privacy changes in v0.6.17]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

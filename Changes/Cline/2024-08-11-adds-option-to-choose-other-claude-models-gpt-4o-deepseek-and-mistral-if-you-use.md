@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: f8561d6b4a316c528dab3ff2377a07dc23692589e10386e3ce8b67d3541ec6b5
+machine_hash: 4e6d177d9bd6b5f3e7f01c79a6537663a916ec63c4bd438b9c6fa6c11f988daf
 product: cline
 product_name: Cline
 record:
@@ -44,10 +44,10 @@ record:
   title: Adds option to choose other Claude models…
   type: change
 related_changes:
-- '[[Changes/OpenHands/2024-08-01-add-unit-tests-for-llm-init-function-by-neubig-in-https-github-com-opendevin-ope|Add
-  unit tests for LLM init function]]'
-- '[[Changes/Aider/2024-08-06-3-model-support-changes-in-v0-48-0|3 Model Support changes
-  in v0.48.0]]'
+- '[[Changes/Ollama/2024-08-06-3-model-support-changes-in-v0-3-4|3 Model Support changes
+  in v0.3.4]]'
+- "[[Changes/Open WebUI/2024-08-07-modal-handling-fixed-an-issue-where-modals-were-not-closing-correctly-in-various|\U0001F5C3️
+  Modal Handling]]"
 - '[[Changes/Aider/2024-08-10-5-model-support-changes-in-v0-49-0|5 Model Support changes
   in v0.49.0]]'
 source_release: '[[Releases/Cline/cline-2024-08-11-v1-1-1-github-169687977-cae7895b|cline-2024-08-11-v1-1-1-github-169687977-cae7895b]]'

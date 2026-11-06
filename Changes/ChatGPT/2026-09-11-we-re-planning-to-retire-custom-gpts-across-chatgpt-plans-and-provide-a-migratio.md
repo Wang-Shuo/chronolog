@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: policy
-machine_hash: 6053a3c74783abcbf30d86b0a3acf0780b3fa9a42b543d986ccf337830d4a45d
+machine_hash: 861c09c092fca49ac7d4b42e877174b0d93f99aa673e530eb6ef79e3bc9ff71c
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -66,12 +66,12 @@ record:
   title: Planned custom GPT retirement and migration to plugins
   type: change
 related_changes:
-- '[[Changes/OpenHands/2026-09-09-docs-remove-duplicate-openhands-extensions-bullet-in-development-md-by-imitater|docs:
-  remove duplicate OpenHands/extensions bullet in DEVELOPMENT.md]]'
-- '[[Changes/ChatGPT/2026-09-10-the-data-plugin-helps-you-analyze-connected-business-data-in-chatgpt-work-and-co|Data
-  plugin in ChatGPT Work and Codex]]'
-- '[[Changes/Claude Code/2026-09-10-7-apps-and-integrations-changes-in-v2-1-268|7
-  Apps and Integrations changes in v2.1.268]]'
+- '[[Changes/Lovable/2026-09-10-chat-connectors-canva-and-wispr-flow|Chat connectors:
+  Canva and Wispr Flow]]'
+- '[[Changes/Lovable/2026-09-10-lovable-mcp-now-works-with-grok|Lovable MCP now works
+  with Grok]]'
+- '[[Changes/Lovable/2026-09-10-connect-your-app-to-cloudflare-api|Connect your app
+  to Cloudflare API]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2026-09-11-planned-custom-gpt-retirement-and-migration-to-plugins-05b21afb|chatgpt-2026-09-11-planned-custom-gpt-retirement-and-migration-to-plugins-05b21afb]]'
 source_type: chatgpt_changelog
 theme: apps-integrations
@@ -98,7 +98,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Apps and Integrations
 
-- Earlier: 2026-09-10 · Claude Code · [[Changes/Claude Code/2026-09-10-7-apps-and-integrations-changes-in-v2-1-268|7 Apps and Integrations changes in v2.1.268]]
+- Earlier: 2026-09-10 · Lovable · [[Changes/Lovable/2026-09-10-connect-your-app-to-cloudflare-api|Connect your app to Cloudflare API]]
 - Later: 2026-09-11 · Claude Code · [[Changes/Claude Code/2026-09-11-5-apps-and-integrations-changes-in-v2-1-269|5 Apps and Integrations changes in v2.1.269]]
 <!-- chronolog:end -->
 

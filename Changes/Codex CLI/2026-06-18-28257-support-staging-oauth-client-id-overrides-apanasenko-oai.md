@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 8c09bee240cea296a4848ef7ef7b1a808b798fc70325800fd1768ed41596c3f9
+machine_hash: b7befb3fee09af3181692a19e0f25166f2d27abff73e804a7bbc42ac5f26fdb4
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -43,12 +43,12 @@ record:
   title: '#28257 Support staging OAuth client ID overrides @apanasenko-oai'
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-06-15-5-account-and-access-changes-in-rust-v0-140-0|5
-  Account and Access changes in rust-v0.140.0]]'
 - '[[Changes/GitHub Copilot CLI/2026-06-16-2-account-and-access-changes-in-v1-0-63|2
   Account and Access changes in v1.0.63]]'
 - '[[Changes/Claude Code/2026-06-17-improved-the-mcp-oauth-browser-page-to-match-claude-code-s-visual-style-and-auto|Improved
   the MCP OAuth browser page to match Claude Code''s visual style…]]'
+- '[[Changes/Lovable/2026-06-17-choose-your-interface-language|Choose your interface
+  language]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2026-06-18-rust-v0-141-0-github-341160952-94bdbd75|codex-cli-2026-06-18-rust-v0-141-0-github-341160952-94bdbd75]]'
 source_type: github_releases
 theme: account-access
@@ -85,8 +85,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Account and Access
 
-- Earlier: 2026-06-17 · Claude Code · [[Changes/Claude Code/2026-06-17-improved-the-mcp-oauth-browser-page-to-match-claude-code-s-visual-style-and-auto|Improved the MCP OAuth browser page to match Claude Code's visual style…]]
-- Later: 2026-06-22 · Claude Code · [[Changes/Claude Code/2026-06-22-2-account-and-access-changes-in-v2-1-186|2 Account and Access changes in v2.1.186]]
+- Earlier: 2026-06-17 · Lovable · [[Changes/Lovable/2026-06-17-choose-your-interface-language|Choose your interface language]]
+- Later: 2026-06-19 · v0 · [[Changes/v0/2026-06-19-anonymous-users-opening-a-shared-or-public-chat-are-no-longer-redirected-to-sign|Anonymous users opening a shared or public chat are no longer redirected to sign…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

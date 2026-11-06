@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: 45712f3d42be81b3d147d6d3f946a37b8e956f7b86d8000c6d06cd6bf81a5b83
+machine_hash: 8016f0845117f8cca1eb7635dd22e5d4d45384be28f8e0d50e7713732d0b476f
 product: openhands
 product_name: OpenHands
 record:
@@ -43,8 +43,7 @@ record:
   title: 'chore: bump agent-server to 1.56.0'
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-19-added-claude-api-managed-agents-secure-which-compares-a-managed-agents-agent-s-s|Added
-  /claude-api managed-agents-secure, which compares a Managed Agents agent''s…]]'
+- '[[Changes/ElevenLabs/2026-10-19-elevenagents-ee74ab|ElevenAgents]]'
 - '[[Changes/GitHub Copilot CLI/2026-10-19-2-agent-mode-changes-in-v1-0-100|2 Agent
   Mode changes in v1.0.100]]'
 - '[[Changes/OpenHands/2026-10-19-3-agent-mode-changes-in-v1-28-0|3 Agent Mode changes

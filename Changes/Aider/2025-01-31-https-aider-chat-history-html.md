@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: f61783da65de3fb0ad68f96bf11fdd1fe0fe9f6ab2bbcfdcc53a14ebbe1a42a5
+machine_hash: 95b440a6040b72a086c4e2f5aeb5c86b308d4b2bfc8716d13f2bc6bf487fb768
 product: aider
 product_name: Aider
 record:
@@ -41,10 +41,11 @@ record:
   title: https://aider.chat/HISTORY.html
   type: change
 related_changes:
-- '[[Changes/Aider/2024-12-26-https-aider-chat-history-html|(source link)]]'
-- '[[Changes/OpenHands/2025-01-02-add-loading-spinner-to-task-form-during-conversation-creation-by-rbren-in-https|Add
-  loading spinner to task form during conversation creation]]'
 - '[[Changes/Aider/2025-01-10-https-aider-chat-history-html|(source link)]]'
+- '[[Changes/Dify/2025-01-13-knowledge-api-toc-added-a-table-of-contents-to-the-knowledge-api-documentation-t|Knowledge
+  API ToC]]'
+- '[[Changes/Open WebUI/2025-01-22-general-ui-ux-refinements-numerous-tweaks-across-the-webui-make-navigation-and-u|✨
+  General UI/UX Refinements]]'
 source_release: '[[Releases/Aider/aider-2025-01-31-v0-73-0-github-197873362-8d9f245d|aider-2025-01-31-v0-73-0-github-197873362-8d9f245d]]'
 source_type: github_releases
 theme: interface-experience
@@ -75,8 +76,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2025-01-10 · Aider · [[Changes/Aider/2025-01-10-https-aider-chat-history-html|(source link)]]
-- Later: 2025-02-06 · Aider · [[Changes/Aider/2025-02-06-https-aider-chat-history-html|(source link)]]
+- Earlier: 2025-01-22 · Open WebUI · [[Changes/Open WebUI/2025-01-22-general-ui-ux-refinements-numerous-tweaks-across-the-webui-make-navigation-and-u|✨ General UI/UX Refinements]]
+- Later: 2025-02-05 · Open WebUI · [[Changes/Open WebUI/2025-02-05-redesigned-chat-input-ui-enjoy-a-sleeker-and-more-intuitive-message-input-with-i|💬 Redesigned Chat Input UI]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 557834a92393305a1d99013a000a5d064c8ce0071f8ec7d7d85580b3c98aa8ea
+machine_hash: d7e0204824b772e62051741991b65e41da004e42942e65f163c8d7931246f564
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -60,12 +60,12 @@ record:
   title: DALL·E 3 is now rolling out in beta
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2023-09-27-choose-browse-with-bing-in-the-selector-under-gpt-4|Choose
-  Browse with Bing in the selector under GPT-4]]'
-- '[[Changes/Aider/2023-09-30-show-models-supported-by-api-key-if-requested-model-isn-t-available|Show
-  models supported by api/key if requested model isn''t available]]'
-- '[[Changes/Cursor/2023-10-01-use-edit-in-the-chat-to-edit-a-whole-file-if-less-than-400-lines-expect-the-edit-78e4ac|Use
-  /edit in the chat to edit a whole file (if less than 400 lines)]]'
+- '[[Changes/Dify/2023-10-12-2-model-support-changes-in-0-3-27|2 Model Support changes
+  in 0.3.27]]'
+- '[[Changes/Ollama/2023-10-12-3-model-support-changes-in-v0-1-2|3 Model Support changes
+  in v0.1.2]]'
+- '[[Changes/Dify/2023-10-14-feat-switch-to-generation-model-set-default-stop-word-by-iamjoel-in-https-github|feat:
+  switch to generation model set default stop word]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2023-10-16-dall-e-3-is-now-rolling-out-in-beta-d2dd292b|chatgpt-2023-10-16-dall-e-3-is-now-rolling-out-in-beta-d2dd292b]]'
 source_type: chatgpt_changelog
 theme: model-support
@@ -92,7 +92,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2023-10-01 · Cursor · [[Changes/Cursor/2023-10-01-use-edit-in-the-chat-to-edit-a-whole-file-if-less-than-400-lines-expect-the-edit-78e4ac|Use /edit in the chat to edit a whole file (if less than 400 lines)]]
+- Earlier: 2023-10-14 · Dify · [[Changes/Dify/2023-10-14-feat-switch-to-generation-model-set-default-stop-word-by-iamjoel-in-https-github|feat: switch to generation model set default stop word]]
 - Later: 2023-10-17 · ChatGPT · [[Changes/ChatGPT/2023-10-17-browsing-which-we-re-launched-a-few-weeks-ago-is-moving-out-of-beta-plus-and-ent|Browsing is now out of beta]]
 <!-- chronolog:end -->
 

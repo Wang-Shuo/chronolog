@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 6be8ba57d7068886d7edb5d73b5f662cd8a761a48bd36e0a4fed84e1662b36b9
+machine_hash: c299853d9a96c9dc6c3331c8ebe87a262fbc696f5b7f87504f3b15ba041b0385
 product: cursor
 product_name: Cursor
 record:
@@ -47,10 +47,10 @@ record:
   title: 2 Model Support changes in CLI Improvements and Mermaid ASCII…
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-02-17-11699-chore-rm-remote-models-fflag-sayan-oai|♯11699
-  chore: rm remote models fflag @sayan-oai]]'
 - '[[Changes/GitHub Copilot CLI/2026-02-17-2-model-support-changes-in-v0-0-411|2 Model
   Support changes in v0.0.411]]'
+- '[[Changes/Open WebUI/2026-02-17-4-model-support-changes-in-v0-8-3|4 Model Support
+  changes in v0.8.3]]'
 - '[[Changes/Codex CLI/2026-02-18-2-model-support-changes-in-rust-v0-104-0|2 Model
   Support changes in rust-v0.104.0]]'
 source_release: '[[Releases/Cursor/cursor-2026-02-18-cli-improvements-and-mermaid-ascii-diagrams-https-cursor-com-cha-a75d36c7|cursor-2026-02-18-cli-improvements-and-mermaid-ascii-diagrams-https-cursor-com-cha-a75d36c7]]'

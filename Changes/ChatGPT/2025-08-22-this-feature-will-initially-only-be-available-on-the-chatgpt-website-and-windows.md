@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: mobile-desktop
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: cb1c9ba695c2ae7022f74043bee5c6eda21e02e6b1acab356902614df0981d5e
+machine_hash: 386a50f1e0830aecc447c9d3387642afef78a17f8e79bf9b5f2e021d7032a585
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -48,12 +48,12 @@ record:
     Windows app
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2025-08-09-https-github-com-openai-codex-pull-2019-fixes-two-things-for-windows|(source
-  link) fixes two things for Windows]]'
-- '[[Changes/Gemini CLI/2025-08-14-2-mobile-and-desktop-changes-in-v0-1-21|2 Mobile
-  and Desktop changes in v0.1.21]]'
+- '[[Changes/Ollama/2025-08-15-reduced-size-of-installation-on-windows-and-linux|Reduced
+  size of installation on Windows and Linux]]'
 - '[[Changes/Codex CLI/2025-08-20-2-mobile-and-desktop-changes-in-rust-v0-23-0|2 Mobile
   and Desktop changes in rust-v0.23.0]]'
+- '[[Changes/Open WebUI/2025-08-21-3-mobile-and-desktop-changes-in-v0-6-23|3 Mobile
+  and Desktop changes in v0.6.23]]'
 source_release: '[[Releases/ChatGPT/chatgpt-2025-08-22-project-only-memory-3424a221|chatgpt-2025-08-22-project-only-memory-3424a221]]'
 source_type: chatgpt_changelog
 theme: mobile-desktop
@@ -83,8 +83,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Mobile and Desktop
 
-- Earlier: 2025-08-20 · Codex CLI · [[Changes/Codex CLI/2025-08-20-2-mobile-and-desktop-changes-in-rust-v0-23-0|2 Mobile and Desktop changes in rust-v0.23.0]]
-- Later: 2025-08-26 · Codex CLI · [[Changes/Codex CLI/2025-08-26-2-mobile-and-desktop-changes-in-rust-v0-24-0|2 Mobile and Desktop changes in rust-v0.24.0]]
+- Earlier: 2025-08-21 · Open WebUI · [[Changes/Open WebUI/2025-08-21-3-mobile-and-desktop-changes-in-v0-6-23|3 Mobile and Desktop changes in v0.6.23]]
+- Later: 2025-08-25 · Ollama · [[Changes/Ollama/2025-08-25-download-ollama-for-macos-or-windows|Download Ollama for macOS or Windows]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

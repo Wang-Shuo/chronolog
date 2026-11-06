@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 38a1b51bdb7b8fd8515015e1332396063bd88063f0056e49bff16164ca2ff491
+machine_hash: 40b1b104f69130887ec70f1d2ee8d189cab891ddd3dbcde835f0d19257886305
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -47,10 +47,10 @@ record:
   title: 4 Editor Experience changes in rust-v0.25.0
   type: change
 related_changes:
-- '[[Changes/Cline/2025-08-21-add-an-rpc-to-the-host-bridge-to-reveal-a-directory-in-the-ide-file-explorer-by|Add
-  an RPC to the host bridge to reveal a directory in the IDE file explorer]]'
 - '[[Changes/Cursor/2025-08-21-tab-now-aware-of-full-notebook|Tab now aware of full
   notebook]]'
+- "[[Changes/Open WebUI/2025-08-21-restored-message-toolbar-icons-for-empty-messages-with-files-fixed-an-issue-wher|\U0001F41B
+  Restored Message Toolbar Icons for Empty Messages with Files]]"
 - '[[Changes/Codex CLI/2025-08-26-6-editor-experience-changes-in-rust-v0-24-0|6 Editor
   Experience changes in rust-v0.24.0]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2025-08-27-rust-v0-25-0-github-242803749-ad836b6a|codex-cli-2025-08-27-rust-v0-25-0-github-242803749-ad836b6a]]'
@@ -92,7 +92,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.25.0
 ## Nearby in Editor Experience
 
 - Earlier: 2025-08-26 · Codex CLI · [[Changes/Codex CLI/2025-08-26-6-editor-experience-changes-in-rust-v0-24-0|6 Editor Experience changes in rust-v0.24.0]]
-- Later: 2025-08-27 · Gemini CLI · [[Changes/Gemini CLI/2025-08-27-2-editor-experience-changes-in-v0-2-0|2 Editor Experience changes in v0.2.0]]
+- Later: 2025-08-27 · Dify · [[Changes/Dify/2025-08-27-2-editor-experience-changes-in-1-8-0|2 Editor Experience changes in 1.8.0]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

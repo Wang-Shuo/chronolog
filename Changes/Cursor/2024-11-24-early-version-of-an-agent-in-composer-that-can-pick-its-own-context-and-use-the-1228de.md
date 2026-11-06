@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: context-window
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: 68377f3cf74508b3219defa8aac77d3e8e9c3d50829cbe739f468604a2b289df
+machine_hash: bb9e2dce3c04a79fd3bd9a79b733df31404904d88e00ecaeec8497f94b9b05db
 product: cursor
 product_name: Cursor
 record:
@@ -67,12 +67,12 @@ record:
     the terminal
   type: change
 related_changes:
-- '[[Changes/OpenHands/2024-10-17-display-in-the-logs-the-prompt-cache-hit-or-miss-for-deepseek-chat-by-enyst-in-h|Display
-  in the logs the prompt cache hit or miss for Deepseek Chat]]'
-- '[[Changes/Aider/2024-11-01-save-fname-command-will-make-a-file-of-add-and-read-only-commands-that-recreate|/save
-  fname command will make a file of /add and /read-only commands…]]'
 - '[[Changes/OpenHands/2024-11-15-truncate-agent-history-when-context-window-is-exceeded-by-enyst-in-https-github|Truncate
   agent history when context window is exceeded]]'
+- '[[Changes/Ollama/2024-11-20-mistral-large-https-ollama-com-library-mistral-large-a-new-version-of-mistral-la|Mistral
+  Large((source link) a new version of Mistral…]]'
+- '[[Changes/Open WebUI/2024-11-20-tool-descriptions-on-hover-easily-access-tool-descriptions-by-hovering-over-the|ℹ️
+  Tool Descriptions on Hover]]'
 source_release: '[[Releases/Cursor/cursor-2024-11-24-0-43-x-https-cursor-com-changelog-0-43-x-18aee492|cursor-2024-11-24-0-43-x-https-cursor-com-changelog-0-43-x-18aee492]]'
 source_type: cursor_changelog
 theme: context-window
@@ -111,8 +111,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Context Window
 
-- Earlier: 2024-11-15 · OpenHands · [[Changes/OpenHands/2024-11-15-truncate-agent-history-when-context-window-is-exceeded-by-enyst-in-https-github|Truncate agent history when context window is exceeded]]
-- Later: 2024-11-26 · Aider · [[Changes/Aider/2024-11-26-ollama-models-now-default-to-an-8k-context-window|Ollama models now default to an 8k context window]]
+- Earlier: 2024-11-20 · Open WebUI · [[Changes/Open WebUI/2024-11-20-tool-descriptions-on-hover-easily-access-tool-descriptions-by-hovering-over-the|ℹ️ Tool Descriptions on Hover]]
+- Later: 2024-11-25 · Dify · [[Changes/Dify/2024-11-25-style-refactor-fetch-and-context-by-akarachen-in-https-github-com-langgenius-dif|style: refactor fetch and context]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

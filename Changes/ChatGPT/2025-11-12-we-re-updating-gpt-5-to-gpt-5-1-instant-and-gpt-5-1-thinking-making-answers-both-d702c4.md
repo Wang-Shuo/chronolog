@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: d6fdd330e21cce7cfc63fceb5d102115df69d812baa5146df4dd8f77f745c11b
+machine_hash: f5d55aad1f87e67602e717f8d5307156b7aad1fec3b66660417e4e52102b2f8f
 product: chatgpt
 product_name: ChatGPT
 record:
@@ -97,7 +97,7 @@ type: change
 ## Nearby in Model Support
 
 - Earlier: 2025-11-12 · ChatGPT · [[Changes/ChatGPT/2025-11-12-we-re-updating-chatgpt-s-tone-controls-so-it-s-easier-to-make-responses-sound-th-d3a253|New tone and personalization controls]]
-- Later: 2025-11-12 · Gemini CLI · [[Changes/Gemini CLI/2025-11-12-docs-add-model-documentation-by-jkcinouye-in-https-github-com-google-gemini-gemi|Docs: Add /model documentation]]
+- Later: 2025-11-12 · ElevenLabs · [[Changes/ElevenLabs/2025-11-12-scribe-v2-realtime|Scribe v2 Realtime]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

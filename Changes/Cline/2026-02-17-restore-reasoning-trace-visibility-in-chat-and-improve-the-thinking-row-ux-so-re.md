@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 0dedb46d04b020671a043ce0cbe8231ddec15dd0eda3b3bf545d933d3930eaf5
+machine_hash: a41a528dac540bc69478c42d6cf2922ed2c2ffa3d0be227e855d99b99aa0e462
 product: cline
 product_name: Cline
 record:
@@ -42,8 +42,8 @@ record:
   title: Restore reasoning trace visibility in chat and improve the thinking row UX…
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-02-12-cli-now-integrates-with-vs-code-use-ide-for-more-information|CLI
-  now integrates with VS Code, use /ide for more information]]'
+- '[[Changes/Open WebUI/2026-02-12-2-editor-experience-changes-in-v0-8-0|2 Editor
+  Experience changes in v0.8.0]]'
 - '[[Changes/GitHub Copilot CLI/2026-02-14-3-editor-experience-changes-in-v0-0-410|3
   Editor Experience changes in v0.0.410]]'
 - '[[Changes/Cline/2026-02-16-restore-reasoning-trace-visibility-in-chat-and-improve-the-thinking-row-ux-so-re|Restore

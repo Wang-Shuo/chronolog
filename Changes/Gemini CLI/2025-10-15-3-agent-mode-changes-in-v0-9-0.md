@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 01fdf75e45ae0587f2bf6f0cf9e9a2ffcfaaabc8dd9c66d7d0556e713df7cbca
+machine_hash: e82d1b2326399e00b40fb1cec5be375c933262b3a5e155c26a68686ddf69411f
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -47,12 +47,9 @@ record:
   title: 3 Agent Mode changes in v0.9.0
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2025-10-01-improved-the-experience-of-writing-prompts-while-the-agent-is-running-up-down-ar|Improved
-  the experience of writing prompts while the agent is running -- up/down…]]'
-- '[[Changes/Codex CLI/2025-10-03-5-agent-mode-changes-in-rust-v0-44-0|5 Agent Mode
-  changes in rust-v0.44.0]]'
-- '[[Changes/Gemini CLI/2025-10-07-2-agent-mode-changes-in-v0-8-0|2 Agent Mode changes
-  in v0.8.0]]'
+- '[[Changes/ElevenLabs/2025-10-14-javascript-sdk|JavaScript SDK]]'
+- '[[Changes/ElevenLabs/2025-10-14-agents-platform|Agents Platform]]'
+- '[[Changes/ElevenLabs/2025-10-14-python-sdk|Python SDK]]'
 source_release: '[[Releases/Gemini CLI/gemini-cli-2025-10-15-v0-9-0-github-254729703-41b9b488|gemini-cli-2025-10-15-v0-9-0-github-254729703-41b9b488]]'
 source_type: github_releases
 theme: agent-mode
@@ -92,7 +89,7 @@ Source: https://github.com/google-gemini/gemini-cli/releases/tag/v0.9.0
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2025-10-07 · Gemini CLI · [[Changes/Gemini CLI/2025-10-07-2-agent-mode-changes-in-v0-8-0|2 Agent Mode changes in v0.8.0]]
+- Earlier: 2025-10-14 · ElevenLabs · [[Changes/ElevenLabs/2025-10-14-python-sdk|Python SDK]]
 - Later: 2025-10-16 · Cline · [[Changes/Cline/2025-10-16-2-agent-mode-changes-in-v3-33-0|2 Agent Mode changes in v3.33.0]]
 <!-- chronolog:end -->
 

@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: account-access
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 96d09c7789b2180c760de261cf18f240cf4b0b8f4333ed1a99a943716c181995
+machine_hash: 4187383d36be17c21bed03d1d8e78b2caac69ed1bcf2cef7ea440760adafab7b
 product: claude-code
 product_name: Claude Code
 record:
@@ -41,12 +41,12 @@ record:
   title: Changed OAuth and API Console URLs from console.anthropic.com to platform.claude.com
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-01-07-2-account-and-access-changes-in-rust-v0-79-0|2 Account
-  and Access changes in rust-v0.79.0]]'
-- '[[Changes/Gemini CLI/2026-01-07-validate-oauth-resource-parameter-matches-mcp-server-url-by-galz10-in-https-gith|Validate
-  OAuth resource parameter matches MCP server URL]]'
+- '[[Changes/Open WebUI/2026-01-09-3-account-and-access-changes-in-v0-7-0|3 Account
+  and Access changes in v0.7.0]]'
 - '[[Changes/Claude Code/2026-01-13-updated-help-improve-claude-setting-fetch-to-refresh-oauth-and-retry-when-it-fai|Updated
   "Help improve Claude" setting fetch to refresh OAuth and retry when it fails…]]'
+- '[[Changes/Dify/2026-01-13-4-account-and-access-changes-in-1-11-3|4 Account and
+  Access changes in 1.11.3]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-01-14-v2-1-7-github-276555327-bf21dc80|claude-code-2026-01-14-v2-1-7-github-276555327-bf21dc80]]'
 source_type: github_releases
 theme: account-access
@@ -79,7 +79,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Account and Access
 
-- Earlier: 2026-01-13 · Claude Code · [[Changes/Claude Code/2026-01-13-updated-help-improve-claude-setting-fetch-to-refresh-oauth-and-retry-when-it-fai|Updated "Help improve Claude" setting fetch to refresh OAuth and retry when it fails…]]
+- Earlier: 2026-01-13 · Dify · [[Changes/Dify/2026-01-13-4-account-and-access-changes-in-1-11-3|4 Account and Access changes in 1.11.3]]
 - Later: 2026-01-14 · Codex CLI · [[Changes/Codex CLI/2026-01-14-2-account-and-access-changes-in-rust-v0-81-0|2 Account and Access changes in rust-v0.81.0]]
 <!-- chronolog:end -->
 

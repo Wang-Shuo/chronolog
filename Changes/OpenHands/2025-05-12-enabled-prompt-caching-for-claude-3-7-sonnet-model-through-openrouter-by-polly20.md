@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: aea6180d1a3ab20880870a046240037740cb4a3799ffcd76146ea285cf22bbf1
+machine_hash: 3eb4d0e83b982aa4c43fe65847414c334a6f733463cbcba921b47ffef3c025c4
 product: openhands
 product_name: OpenHands
 record:
@@ -46,10 +46,10 @@ record:
   title: Enabled prompt caching for claude-3.7-sonnet model through OpenRouter
   type: change
 related_changes:
-- '[[Changes/Aider/2025-05-09-12-model-support-changes-in-v0-83-0|12 Model Support
-  changes in v0.83.0]]'
 - '[[Changes/Cline/2025-05-10-7-model-support-changes-in-v3-15-0|7 Model Support changes
   in v3.15.0]]'
+- "[[Changes/Open WebUI/2025-05-10-clear-alerts-for-private-task-models-when-interacting-with-private-task-models-t|\U0001F6A8
+  Clear Alerts for Private Task Models]]"
 - '[[Changes/Cline/2025-05-12-update-gemini-in-openrouter-cline-providers-to-use-implicit-caching|Update
   Gemini in OpenRouter/Cline providers to use implicit caching]]'
 source_release: '[[Releases/OpenHands/openhands-2025-05-12-0-38-0-github-218087330-c64d64fd|openhands-2025-05-12-0-38-0-github-218087330-c64d64fd]]'

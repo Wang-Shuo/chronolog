@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: change
-machine_hash: 7c462579027f6f20c28ed40381982840ae962d9f9d8b3c56099fdad565d6719d
+machine_hash: 7b67b23668f119318fad7861929fa6866e0a14fb01552d333b7f29e05a3b8540
 product: claude-code
 product_name: Claude Code
 record:
@@ -46,12 +46,12 @@ record:
   title: Added `ANTHROPIC_DEFAULT_MODEL` environment variable
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-08-17-2-model-support-changes-in-v2-1-234|2 Model Support
-  changes in v2.1.234]]'
 - '[[Changes/OpenHands/2026-08-17-feat-add-llm-pre-flight-validation-to-prevent-saving-misconfigured-profiles-by-n|feat:
   add LLM pre-flight validation to prevent saving misconfigured profiles]]'
 - '[[Changes/Codex CLI/2026-08-18-18-model-support-changes-in-rust-v0-148-0|18 Model
   Support changes in rust-v0.148.0]]'
+- '[[Changes/Lovable/2026-08-18-gemini-3-7-flash-is-now-the-default-model-for-your-app-s-ai-features|Gemini
+  3.7 Flash is now the default model for your app''s AI features]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-08-19-v2-1-236-github-373272539-bbbacf79|claude-code-2026-08-19-v2-1-236-github-373272539-bbbacf79]]'
 source_type: github_releases
 theme: model-support
@@ -88,8 +88,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Model Support
 
-- Earlier: 2026-08-18 · Codex CLI · [[Changes/Codex CLI/2026-08-18-18-model-support-changes-in-rust-v0-148-0|18 Model Support changes in rust-v0.148.0]]
-- Later: 2026-08-20 · Codex CLI · [[Changes/Codex CLI/2026-08-20-6-model-support-changes-in-rust-v0-149-0|6 Model Support changes in rust-v0.149.0]]
+- Earlier: 2026-08-18 · Lovable · [[Changes/Lovable/2026-08-18-gemini-3-7-flash-is-now-the-default-model-for-your-app-s-ai-features|Gemini 3.7 Flash is now the default model for your app's AI features]]
+- Later: 2026-08-19 · Ollama · [[Changes/Ollama/2026-08-19-caches-resolved-model-metadata-between-requests-cutting-time-to-first-token-by-r|Caches resolved model metadata between requests, cutting time-to-first-token…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

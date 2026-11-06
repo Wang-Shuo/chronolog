@@ -1,0 +1,131 @@
+---
+card_id: elevenlabs-2025-06-17-e180ce
+date: '2025-06-17'
+description: 'ElevenLabs · 2025-06-17 · Agent Mode: **Agent simulation**:'
+diffusion:
+  first_in_tracked: '[[Changes/Cursor/2023-07-06-welcome-to-the-first-nightly-release-it-comes-with-agents-which-we-aren-t-releas|Agents,
+    new docs]]'
+  inference: No adoption, equivalence, or causation claim.
+  lag_days: 712
+  relation: same-theme-chronology
+  role: later-observed
+  scope: tracked-products-only
+  theme: agent-mode
+  tracked_products_count: 20
+evolves_from: []
+extractor_version: fallback-v5
+impact: paradigm-shift
+kind: launch
+machine_hash: 31d5fdb1e7751f58e07723cc90a3d9246cac13fdfd1208437ca03d273e877128
+product: elevenlabs
+product_name: ElevenLabs
+record:
+  ai_generated: true
+  card_id: elevenlabs-2025-06-17-e180ce
+  comparison: ''
+  confidence: low
+  date: '2025-06-17'
+  description: 'ElevenLabs — ElevenLabs updates — 2025-06-17: **Agent simulation**:'
+  evidence:
+  - quote: '**Agent simulation**:'
+    source_release: https://elevenlabs.io/docs/changelog/2025/6/17
+  - quote: '[Simulate conversation](https://elevenlabs.io/docs/api-reference/agents/simulate-conversation)
+      - Added `dynamic_variables` parameter for populating conversation context with
+      runtime values'
+    source_release: https://elevenlabs.io/docs/changelog/2025/6/17
+  - quote: '[Simulate conversation stream](https://elevenlabs.io/docs/api-reference/agents/simulate-conversation-stream)
+      - Added `dynamic_variables` parameter for streaming conversation simulations'
+    source_release: https://elevenlabs.io/docs/changelog/2025/6/17
+  - quote: '**Agent configuration**:'
+    source_release: https://elevenlabs.io/docs/changelog/2025/6/17
+  - quote: '[Agent platform settings](https://elevenlabs.io/docs/api-reference/agents/update#request.body.platform_settings.call_limits)
+      - Added `bursting_enabled` parameter to control burst pricing for call limits'
+    source_release: https://elevenlabs.io/docs/changelog/2025/6/17
+  - quote: '**WebSocket events**:'
+    source_release: https://elevenlabs.io/docs/changelog/2025/6/17
+  - quote: Enhanced `ClientEvent` enum to include `mcp_connection_status` for real-time
+      MCP server monitoring
+    source_release: https://elevenlabs.io/docs/changelog/2025/6/17
+  - quote: '**Conversation charging**:'
+    source_release: https://elevenlabs.io/docs/changelog/2025/6/17
+  - quote: Added `is_burst` indicator to conversation metadata for tracking burst
+      pricing usage
+    source_release: https://elevenlabs.io/docs/changelog/2025/6/17
+  extractor_version: fallback-v5
+  impact: paradigm-shift
+  kind: launch
+  product: elevenlabs
+  product_name: ElevenLabs
+  slug: agents-platform
+  source_release: elevenlabs-2025-06-17-2025-06-17-95385721
+  source_type: elevenlabs_changelog
+  theme: agent-mode
+  title: Agents Platform
+  type: change
+related_changes:
+- '[[Changes/Cursor/2025-06-12-you-can-now-launch-background-agents-directly-from-slack-by-mentioning-cursor-ag|Launch
+  Background Agents directly from Slack by mentioning @Cursor]]'
+- '[[Changes/Cursor/2025-06-12-improved-background-agent-reliability|Improved Background
+  Agent reliability]]'
+- '[[Changes/ElevenLabs/2025-06-17-agents-platform|Agents Platform]]'
+source_release: '[[Releases/ElevenLabs/elevenlabs-2025-06-17-2025-06-17-95385721|elevenlabs-2025-06-17-2025-06-17-95385721]]'
+source_type: elevenlabs_changelog
+theme: agent-mode
+title: Agents Platform
+type: change
+---
+
+<!-- chronolog:begin region="header" -->
+# Agents Platform
+
+**ElevenLabs** · 2025-06-17 · [[Themes/agent-mode|Agent Mode]] · Launch · [Official source](https://elevenlabs.io/docs/changelog/2025/6/17) · from [[Releases/ElevenLabs/elevenlabs-2025-06-17-2025-06-17-95385721|ElevenLabs updates — 2025-06-17]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="evidence" -->
+> **Agent simulation**:
+>
+> [Simulate conversation](https://elevenlabs.io/docs/api-reference/agents/simulate-conversation) - Added `dynamic_variables` parameter for populating conversation context with runtime values
+>
+> [Simulate conversation stream](https://elevenlabs.io/docs/api-reference/agents/simulate-conversation-stream) - Added `dynamic_variables` parameter for streaming conversation simulations
+>
+> **Agent configuration**:
+>
+> [Agent platform settings](https://elevenlabs.io/docs/api-reference/agents/update#request.body.platform_settings.call_limits) - Added `bursting_enabled` parameter to control burst pricing for call limits
+>
+> **WebSocket events**:
+>
+> Enhanced `ClientEvent` enum to include `mcp_connection_status` for real-time MCP server monitoring
+>
+> **Conversation charging**:
+>
+> Added `is_burst` indicator to conversation metadata for tracking burst pricing usage
+>
+> Source: https://elevenlabs.io/docs/changelog/2025/6/17
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="context" -->
+## Also in this release
+
+- [[Changes/ElevenLabs/2025-06-17-workspaces|Workspaces]] · Apps and Integrations
+- [[Changes/ElevenLabs/2025-06-17-elevencreative-studio|ElevenCreative Studio]] · Voice and Audio
+- [[Changes/ElevenLabs/2025-06-17-subscription-management|Subscription Management]] · Pricing Model
+- [[Changes/ElevenLabs/2025-06-17-agents-platform|Agents Platform]] · Agent Mode
+- [[Changes/ElevenLabs/2025-06-17-agents-platform-mcp-servers|Agents Platform - MCP Servers]] · Apps and Integrations
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="nearby" -->
+## Nearby in Agent Mode
+
+- Earlier: 2025-06-12 · Cursor · [[Changes/Cursor/2025-06-12-improved-background-agent-reliability|Improved Background Agent reliability]]
+- Later: 2025-06-20 · OpenHands · [[Changes/OpenHands/2025-06-20-fixed-incorrect-tracking-for-cost-and-token-usage-for-main-agent-and-delegates-b|Fixed incorrect tracking for cost and token usage for main agent and delegates]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="relations" -->
+## Related
+
+- Earliest same-theme entry in the tracked set: 2023-07-06 · Cursor · [[Changes/Cursor/2023-07-06-welcome-to-the-first-nightly-release-it-comes-with-agents-which-we-aren-t-releas|Agents, new docs]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="footer" -->
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20elevenlabs-2025-06-17-e180ce&body=Card%3A%20Changes%2FElevenLabs%2F2025-06-17-agents-platform-e180ce.md%0ACard%20ID%3A%20elevenlabs-2025-06-17-e180ce%0ASource%3A%20https%3A%2F%2Felevenlabs.io%2Fdocs%2Fchangelog%2F2025%2F6%2F17%0A%0AWhat%20should%20be%20corrected%3F%0A)
+<!-- chronolog:end -->

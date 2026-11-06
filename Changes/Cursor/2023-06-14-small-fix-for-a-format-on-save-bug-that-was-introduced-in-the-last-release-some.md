@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 26d0310db1e3a3ec5d115ebbcfaf7ef6ec4f02cf963349edcdefb5aee053696a
+machine_hash: c22e499dd3a26733e83407905a32423aa5f4cd717d0ae8565a427dee3286e77e
 product: cursor
 product_name: Cursor
 record:
@@ -42,11 +42,11 @@ record:
   title: Small improvements
   type: change
 related_changes:
-- '[[Changes/Cursor/2023-05-17-remote-ssh-is-easier-to-use|Remote SSH is easier to
-  use!]]'
 - '[[Changes/Cursor/2023-05-17-in-terminal-debugging-f140b2|In-terminal Debugging]]'
 - '[[Changes/Aider/2023-06-07-added-in-chat-command-clear-to-clear-the-conversation-history|Added
   in-chat command /clear to clear the conversation history]]'
+- '[[Changes/Dify/2023-06-09-delete-segment-not-commit-by-johnjyong-in-https-github-com-langgenius-dify-pull|delete
+  segment not commit]]'
 source_release: '[[Releases/Cursor/cursor-2023-06-14-0-2-32-https-cursor-com-changelog-0-2-32-fcd78291|cursor-2023-06-14-0-2-32-https-cursor-com-changelog-0-2-32-fcd78291]]'
 source_type: cursor_changelog
 theme: developer-workflow
@@ -73,7 +73,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Developer Workflow
 
-- Earlier: 2023-06-07 · Aider · [[Changes/Aider/2023-06-07-added-in-chat-command-clear-to-clear-the-conversation-history|Added in-chat command /clear to clear the conversation history]]
+- Earlier: 2023-06-09 · Dify · [[Changes/Dify/2023-06-09-delete-segment-not-commit-by-johnjyong-in-https-github-com-langgenius-dify-pull|delete segment not commit]]
 - Later: 2023-06-17 · Cursor · [[Changes/Cursor/2023-06-17-the-ai-linter-now-shows-diffs|Diffs in AI linter feedback]]
 <!-- chronolog:end -->
 

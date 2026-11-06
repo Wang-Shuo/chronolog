@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: dfe9801d6a598f5f2c878b40924f02f5f49b6a6f587a8b55eb2a906e1aa9c22b
+machine_hash: b50f87f15b0cc1db596f1c2401511aa9f7a2d8757b1a56beb73b3e716b92a0db
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -106,8 +106,8 @@ record:
   title: 33 Apps and Integrations changes in rust-v0.149.0
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-08-19-sigterm-in-print-sdk-mode-no-longer-records-an-interrupted-turn-or-synthetic-too|SIGTERM
-  in print/SDK mode no longer records an interrupted turn or synthetic tool…]]'
+- '[[Changes/Lovable/2026-08-19-lovable-can-use-your-connected-service-account-while-building|Lovable
+  can use your connected service account while building]]'
 - '[[Changes/ChatGPT/2026-08-20-use-apple-messages-from-codex-and-chatgpt-work-on-apple-silicon-macs-the-apple-m|Use
   Apple Messages from Codex and ChatGPT Work]]'
 - '[[Changes/Claude Code/2026-08-20-6-apps-and-integrations-changes-in-v2-1-238|6
@@ -223,7 +223,7 @@ Source: https://github.com/openai/codex/releases/tag/rust-v0.149.0
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-08-20 · Claude Code · [[Changes/Claude Code/2026-08-20-6-apps-and-integrations-changes-in-v2-1-238|6 Apps and Integrations changes in v2.1.238]]
-- Later: 2026-08-21 · ChatGPT · [[Changes/ChatGPT/2026-08-21-updated-plugin-recommendations-make-it-easier-to-find-tools-people-continue-to-u|Updated plugin recommendations make it easier to find tools people continue to use]]
+- Later: 2026-08-20 · Lovable · [[Changes/Lovable/2026-08-20-sort-connectors-and-add-an-mcp-server-from-the-catalog-header|Sort connectors and add an MCP server from the catalog header]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

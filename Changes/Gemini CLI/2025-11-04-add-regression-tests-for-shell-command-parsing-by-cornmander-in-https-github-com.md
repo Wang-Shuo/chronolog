@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: ec32bc506226f1b4b68beea34ad3dfccec412248df776951ef5c7c9cad98138b
+machine_hash: 773b52ef1f8d48fb2aa6a7502b87b83e3bafb2825435cffa419af4c7ce5c3968
 product: gemini-cli
 product_name: Gemini CLI
 record:
@@ -86,7 +86,7 @@ type: change
 ## Nearby in Agent Mode
 
 - Earlier: 2025-11-03 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2025-11-03-custom-agents-with-special-characters-in-filenames-no-longer-fail|Custom agents with special characters in filenames no longer fail]]
-- Later: 2025-11-07 · Gemini CLI · [[Changes/Gemini CLI/2025-11-07-3-agent-mode-changes-in-v0-13-0|3 Agent Mode changes in v0.13.0]]
+- Later: 2025-11-05 · ElevenLabs · [[Changes/ElevenLabs/2025-11-05-agents-platform|Agents Platform]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

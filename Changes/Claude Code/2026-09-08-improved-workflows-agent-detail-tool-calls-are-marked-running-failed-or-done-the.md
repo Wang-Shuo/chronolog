@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: agent-mode
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: paradigm-shift
 kind: change
-machine_hash: 7a545211573533cb883d77b305b7986476168745d6622331094a4755dfb68169
+machine_hash: 19fa92d33e25ce83d134246aeec3f4b1789b7df0ed15bb87e2d6baf176d51fb9
 product: claude-code
 product_name: Claude Code
 record:
@@ -46,12 +46,9 @@ record:
   title: Improved `/workflows` agent detail
   type: change
 related_changes:
-- '[[Changes/Codex CLI/2026-09-03-4-agent-mode-changes-in-rust-v0-153-0|4 Agent Mode
-  changes in rust-v0.153.0]]'
-- '[[Changes/Claude Code/2026-09-04-2-agent-mode-changes-in-v2-1-261|2 Agent Mode
-  changes in v2.1.261]]'
-- '[[Changes/GitHub Copilot CLI/2026-09-04-stopping-a-timed-out-shell-command-now-lets-queued-messages-run-and-sessions-ret|Stopping
-  a timed-out shell command now lets queued messages run and sessions return…]]'
+- '[[Changes/ElevenLabs/2026-09-07-javascript-sdk|JavaScript SDK]]'
+- '[[Changes/ElevenLabs/2026-09-07-elevenagents|ElevenAgents]]'
+- '[[Changes/ElevenLabs/2026-09-07-python-sdk|Python SDK]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-09-08-v2-1-265-github-384990084-dc34b405|claude-code-2026-09-08-v2-1-265-github-384990084-dc34b405]]'
 source_type: github_releases
 theme: agent-mode
@@ -84,7 +81,7 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Agent Mode
 
-- Earlier: 2026-09-04 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-09-04-stopping-a-timed-out-shell-command-now-lets-queued-messages-run-and-sessions-ret|Stopping a timed-out shell command now lets queued messages run and sessions return…]]
+- Earlier: 2026-09-07 · ElevenLabs · [[Changes/ElevenLabs/2026-09-07-python-sdk|Python SDK]]
 - Later: 2026-09-09 · Codex CLI · [[Changes/Codex CLI/2026-09-09-6-agent-mode-changes-in-rust-v0-154-0|6 Agent Mode changes in rust-v0.154.0]]
 <!-- chronolog:end -->
 

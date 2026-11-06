@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: apps-integrations
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 7247985891eb4a19e8cb6ef9feff6cffb4b53a60729853685f82c87467cbe16a
+machine_hash: f406d811fadea03a7fd3ce96aae5c224eb79ecf29239a55a84727b09ec049a5d
 product: github-copilot-cli
 product_name: GitHub Copilot CLI
 record:
@@ -45,8 +45,8 @@ record:
   title: 2 Apps and Integrations changes in v1.0.98
   type: change
 related_changes:
-- '[[Changes/GitHub Copilot CLI/2026-10-13-4-apps-and-integrations-changes-in-v1-0-97|4
-  Apps and Integrations changes in v1.0.97]]'
+- '[[Changes/Lovable/2026-10-13-approve-every-tool-from-a-chat-connector-at-once|Approve
+  every tool from a chat connector at once]]'
 - '[[Changes/Claude Code/2026-10-14-7-apps-and-integrations-changes-in-v2-1-300|7
   Apps and Integrations changes in v2.1.300]]'
 - '[[Changes/Claude Code/2026-10-14-19-apps-and-integrations-changes-in-v2-1-299|19
@@ -86,7 +86,7 @@ Source: https://github.com/github/copilot-cli/releases/tag/v1.0.98
 ## Nearby in Apps and Integrations
 
 - Earlier: 2026-10-14 · Claude Code · [[Changes/Claude Code/2026-10-14-19-apps-and-integrations-changes-in-v2-1-299|19 Apps and Integrations changes in v2.1.299]]
-- Later: 2026-10-15 · Codex CLI · [[Changes/Codex CLI/2026-10-15-15-apps-and-integrations-changes-in-rust-v0-163-0|15 Apps and Integrations changes in rust-v0.163.0]]
+- Later: 2026-10-14 · Lovable · [[Changes/Lovable/2026-10-14-connect-your-app-to-bing-webmaster-tools|Connect your app to Bing Webmaster Tools]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

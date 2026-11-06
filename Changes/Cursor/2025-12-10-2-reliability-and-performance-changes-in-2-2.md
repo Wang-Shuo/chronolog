@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: reliability-performance
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: 1dc6e77d4cc38cef119985b2ae458ab34cbc1b02683a52d5c765e5fdc0920502
+machine_hash: 41ae87fc4ece35dcac6a10b55683fa057d29b19f387faa97499d3bfa301b76fa
 product: cursor
 product_name: Cursor
 record:
@@ -44,11 +44,12 @@ record:
   title: 2 Reliability and Performance changes in 2.2
   type: change
 related_changes:
-- '[[Changes/Windsurf/2025-11-21-general-improvements|General Improvements]]'
-- '[[Changes/Cline/2025-11-27-feat-update-cerebras-models-and-speed-by-sebastiand-cerebras-in-https-github-com|feat:
-  update Cerebras models and speed]]'
-- '[[Changes/Codex CLI/2025-12-04-2-reliability-and-performance-changes-in-rust-v0-65-0|2
-  Reliability and Performance changes in rust-v0.65.0]]'
+- '[[Changes/Replit/2025-12-05-fast-mode-handles-more-autonomously|Fast Mode handles
+  more autonomously]]'
+- '[[Changes/Replit/2025-12-05-database-now-generally-available|Database now generally
+  available]]'
+- '[[Changes/v0/2025-12-09-optimized-preview-loading-performance-when-using-design-mode|Optimized
+  preview loading performance when using Design Mode]]'
 source_release: '[[Releases/Cursor/cursor-2025-12-10-2-2-https-cursor-com-changelog-2-2-297c9323|cursor-2025-12-10-2-2-https-cursor-com-changelog-2-2-297c9323]]'
 source_type: cursor_changelog
 theme: reliability-performance
@@ -89,8 +90,8 @@ Source: https://cursor.com/changelog/2-2
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Reliability and Performance
 
-- Earlier: 2025-12-04 · Codex CLI · [[Changes/Codex CLI/2025-12-04-2-reliability-and-performance-changes-in-rust-v0-65-0|2 Reliability and Performance changes in rust-v0.65.0]]
-- Later: 2025-12-10 · Windsurf · [[Changes/Windsurf/2025-12-10-general-stability-and-performance-improvements|General stability and performance improvements]]
+- Earlier: 2025-12-09 · v0 · [[Changes/v0/2025-12-09-optimized-preview-loading-performance-when-using-design-mode|Optimized preview loading performance when using Design Mode]]
+- Later: 2025-12-10 · Lovable · [[Changes/Lovable/2025-12-10-saving-visual-and-code-edits-is-now-20-faster|Saving visual and code edits is now \~20% faster]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

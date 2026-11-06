@@ -4,20 +4,20 @@ date: '2026-04-23'
 description: 'Claude Code · 2026-04-23 · Enterprise and Administration: Added `DISABLE_UPDATES`
   env var to completely block all update paths including manual `claude update`…'
 diffusion:
-  first_in_tracked: '[[Changes/Cursor/2024-03-20-admin-improvements-team-admins-can-now-mark-themselves-as-unpaid-users-and-can-s|Admin
-    improvements: Team admins can now mark themselves as unpaid users and can see…]]'
+  first_in_tracked: '[[Changes/Gemini/2023-05-05-access-for-google-workspace-accounts|Access
+    for Google Workspace accounts]]'
   inference: No adoption, equivalence, or causation claim.
-  lag_days: 764
+  lag_days: 1084
   relation: same-theme-chronology
   role: later-observed
   scope: tracked-products-only
   theme: enterprise-admin
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 3aa6ee0e7ee9144d38ac46e4de9f1b5513db779ed9a91a4978f3ff2bc485cb56
+machine_hash: 66912a0ce0ccd1b0432a31a42c7dc25d33820d809330ac8b57c68a40d54ff506
 product: claude-code
 product_name: Claude Code
 record:
@@ -44,12 +44,11 @@ record:
   title: Added `DISABLE_UPDATES` env var to completely block all update paths including…
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-04-10-added-os-ca-certificate-store-trust-by-default-so-enterprise-tls-proxies-work-wi|Added
-  OS CA certificate store trust by default, so enterprise TLS proxies work…]]'
 - '[[Changes/Codex CLI/2026-04-10-the-readme-now-uses-the-current-chatgpt-business-plan-name-16348|The
   README now uses the current ChatGPT Business plan name (♯16348)]]'
 - '[[Changes/ChatGPT/2026-04-16-we-re-beginning-to-roll-out-ads-for-users-on-free-and-go-plans-in-australia-new|Rolling
   out ads in Australia, New Zealand, and Canada]]'
+- '[[Changes/Replit/2026-04-17-teams-and-enterprise|Teams and Enterprise]]'
 source_release: '[[Releases/Claude Code/claude-code-2026-04-23-v2-1-118-github-312487295-b3c6b04c|claude-code-2026-04-23-v2-1-118-github-312487295-b3c6b04c]]'
 source_type: github_releases
 theme: enterprise-admin
@@ -84,14 +83,14 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Enterprise and Administration
 
-- Earlier: 2026-04-16 · ChatGPT · [[Changes/ChatGPT/2026-04-16-we-re-beginning-to-roll-out-ads-for-users-on-free-and-go-plans-in-australia-new|Rolling out ads in Australia, New Zealand, and Canada]]
-- Later: 2026-04-28 · Claude Code · [[Changes/Claude Code/2026-04-28-pasting-a-pr-url-into-the-resume-search-box-now-finds-the-session-that-created-t|Pasting a PR URL into the /resume search box now finds the session that created…]]
+- Earlier: 2026-04-17 · Replit · [[Changes/Replit/2026-04-17-teams-and-enterprise|Teams and Enterprise]]
+- Later: 2026-04-24 · Lovable · [[Changes/Lovable/2026-04-24-improvements-and-bug-fixes|Improvements and bug fixes]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
 ## Related
 
-- Earliest same-theme entry in the tracked set: 2024-03-20 · Cursor · [[Changes/Cursor/2024-03-20-admin-improvements-team-admins-can-now-mark-themselves-as-unpaid-users-and-can-s|Admin improvements: Team admins can now mark themselves as unpaid users and can see…]]
+- Earliest same-theme entry in the tracked set: 2023-05-05 · Gemini · [[Changes/Gemini/2023-05-05-access-for-google-workspace-accounts|Access for Google Workspace accounts]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="footer" -->

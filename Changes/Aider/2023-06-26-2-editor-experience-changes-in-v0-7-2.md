@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: editor-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: a376e5dd4f32a12c99fff122d8a3bc8aa73b85c4eb8641e7b13dfb67582f3923
+machine_hash: 3476936f116f57575716ed0ce62a6a0119b6ce81665a689d6303632d46773140
 product: aider
 product_name: Aider
 record:
@@ -44,9 +44,10 @@ record:
   title: 2 Editor Experience changes in v0.7.2
   type: change
 related_changes:
-- '[[Changes/Cursor/2023-05-17-diff-generate-improvements|Diff/Generate improvements]]'
 - '[[Changes/Cursor/2023-06-06-in-order-to-take-full-advantage-navigate-to-settings-top-right-button-then-sync|In
   order to take full advantage, navigate to Settings (top right button), then…]]'
+- "[[Changes/Dify/2023-06-21-dataset-supports-multi-file-uploads|\U0001F4C1 dataset
+  supports multi-file uploads]]"
 - '[[Changes/Aider/2023-06-25-2-editor-experience-changes-in-v0-7-0|2 Editor Experience
   changes in v0.7.0]]'
 source_release: '[[Releases/Aider/aider-2023-06-26-v0-7-2-github-109946498-ae0f95eb|aider-2023-06-26-v0-7-2-github-109946498-ae0f95eb]]'

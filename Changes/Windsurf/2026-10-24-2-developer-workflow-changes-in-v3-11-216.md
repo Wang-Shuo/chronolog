@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: developer-workflow
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: c90c8d09c733cd9110400e5a2865ab9a6eebbb303964814bc851e3f6c3902534
+machine_hash: 3ed9cc0a467ee477989d6304d640a6b1c0d5decd02c197fe180a8b5d990da18b
 product: windsurf
 product_name: Windsurf
 record:
@@ -46,10 +46,10 @@ record:
   title: 2 Developer Workflow changes in v3.11.216
   type: change
 related_changes:
-- '[[Changes/Claude Code/2026-10-23-code-review-improved-the-code-review-admin-section-to-retry-the-first-load-and-s|Code
-  Review Improved the Code Review admin section to retry the first load…]]'
 - '[[Changes/Codex CLI/2026-10-23-14-developer-workflow-changes-in-rust-v0-164-0|14
   Developer Workflow changes in rust-v0.164.0]]'
+- '[[Changes/Dify/2026-10-23-respect-xforward-headers-enabled-standalone-api-default-remains-false-bundled-co|
+  /  RESPECT_XFORWARD_HEADERS_ENABLED  /  Standalone API default remains false]]'
 - '[[Changes/Windsurf/2026-10-23-4-developer-workflow-changes-in-v3-11-212|4 Developer
   Workflow changes in v3.11.212]]'
 source_release: '[[Releases/Windsurf/windsurf-2026-10-24-v3-11-216-5e8fa8fb|windsurf-2026-10-24-v3-11-216-5e8fa8fb]]'
@@ -86,7 +86,7 @@ Source: https://docs.devin.ai/desktop/changelog#v3-11-216
 ## Nearby in Developer Workflow
 
 - Earlier: 2026-10-23 · Windsurf · [[Changes/Windsurf/2026-10-23-4-developer-workflow-changes-in-v3-11-212|4 Developer Workflow changes in v3.11.212]]
-- Later: 2026-10-26 · Claude Code · [[Changes/Claude Code/2026-10-26-4-developer-workflow-changes-in-v2-1-311|4 Developer Workflow changes in v2.1.311]]
+- Later: 2026-10-25 · Open WebUI · [[Changes/Open WebUI/2026-10-25-49-developer-workflow-changes-in-v0-12-4|49 Developer Workflow changes in v0.12.4]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

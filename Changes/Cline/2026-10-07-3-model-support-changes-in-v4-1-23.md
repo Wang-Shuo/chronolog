@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: digest
-machine_hash: b9ee67e816c2d952c309d5620ae095f48d6d4ce316d0dad94c07a8484e3e13d6
+machine_hash: b72dcec78c508066f6c34573b07e146d4e8ed45b65df1b48f2f3df76124e0d62
 product: cline
 product_name: Cline
 record:
@@ -53,10 +53,9 @@ record:
   title: 3 Model Support changes in v4.1.23
   type: change
 related_changes:
-- '[[Changes/OpenHands/2026-10-06-7-model-support-changes-in-v1-25-0|7 Model Support
-  changes in v1.25.0]]'
 - '[[Changes/ChatGPT/2026-10-07-we-re-introducing-gpt-6-with-intelligent-ui-in-chatgpt-chatgpt-can-now-combine-t|GPT-6
   and Intelligent UI in ChatGPT]]'
+- '[[Changes/Claude/2026-10-07-claude-haiku-5-5-launch|Claude Haiku 5.5 launch]]'
 - '[[Changes/Claude Code/2026-10-07-added-claude-haiku-5-5-claude-haiku-5-5-now-the-default-haiku-model-on-the-anthr|Added
   Claude Haiku 5.5 (claude-haiku-5-5), now the default Haiku model…]]'
 source_release: '[[Releases/Cline/cline-2026-10-07-v4-1-23-github-405494670-768378b9|cline-2026-10-07-v4-1-23-github-405494670-768378b9]]'

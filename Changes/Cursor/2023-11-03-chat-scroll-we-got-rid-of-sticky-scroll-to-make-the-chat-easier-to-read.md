@@ -12,12 +12,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: interface-experience
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: ecd05a6b439c1946308b1f2c6ca5cb28e3725aa79498218c59d0feb1312d36fa
+machine_hash: afe5b3989e23f4fafb77f199fc173ccb59af3e1f8894ec10f85bf5b071771c3a
 product: cursor
 product_name: Cursor
 record:
@@ -43,12 +43,12 @@ record:
   title: 'Chat scroll: we got rid of sticky scroll to make the chat easier to read'
   type: change
 related_changes:
-- '[[Changes/Cursor/2023-08-22-nicer-error-messages-in-the-chat-fewer-annoying-popups-7d864e|Nicer
-  error messages in the chat!]]'
 - '[[Changes/Cursor/2023-08-30-you-can-now-switch-to-the-vs-code-sidebar-orientation|Switch
   to the VS Code sidebar orientation]]'
 - '[[Changes/ChatGPT/2023-09-11-if-you-ve-configured-your-browser-to-use-one-of-these-supported-languages-you-ll-e4857e|If
   you''ve configured your browser to use one of these supported languages, you''ll…]]'
+- '[[Changes/Dify/2023-09-19-mermaid-front-end-rendering-by-charli117-in-https-github-com-langgenius-dify-pul|Mermaid
+  front end rendering]]'
 source_release: '[[Releases/Cursor/cursor-2023-11-03-0-14-0-https-cursor-com-changelog-0-14-0-45a47acf|cursor-2023-11-03-0-14-0-https-cursor-com-changelog-0-14-0-45a47acf]]'
 source_type: cursor_changelog
 theme: interface-experience
@@ -80,8 +80,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Interface Experience
 
-- Earlier: 2023-09-11 · ChatGPT · [[Changes/ChatGPT/2023-09-11-if-you-ve-configured-your-browser-to-use-one-of-these-supported-languages-you-ll-e4857e|If you've configured your browser to use one of these supported languages, you'll…]]
-- Later: 2023-11-10 · Cursor · [[Changes/Cursor/2023-11-10-command-dot-you-can-now-use-the-command-dot-menu-to-have-command-k-fix-lint-erro|Command-dot: you can now use the Command-dot menu to have Command-K fix lint errors inline]]
+- Earlier: 2023-09-19 · Dify · [[Changes/Dify/2023-09-19-mermaid-front-end-rendering-by-charli117-in-https-github-com-langgenius-dify-pul|Mermaid front end rendering]]
+- Later: 2023-11-06 · Dify · [[Changes/Dify/2023-11-06-2-interface-experience-changes-in-0-3-29|2 Interface Experience changes in 0.3.29]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->

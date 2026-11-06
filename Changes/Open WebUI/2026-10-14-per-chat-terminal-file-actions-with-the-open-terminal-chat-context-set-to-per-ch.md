@@ -1,0 +1,124 @@
+---
+card_id: open-webui-2026-10-14-7d34f9
+date: '2026-10-14'
+description: "Open WebUI · 2026-10-14 · Context Window: \U0001F5A5️ **Per chat terminal
+  file actions.** With the Open Terminal chat context set to Per chat, opening HTML
+  files…"
+diffusion:
+  first_in_tracked: '[[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2
+    Context Window changes in 0.2.9]]'
+  inference: No adoption, equivalence, or causation claim.
+  lag_days: 1259
+  relation: same-theme-chronology
+  role: later-observed
+  scope: tracked-products-only
+  theme: context-window
+  tracked_products_count: 20
+evolves_from: []
+extractor_version: fallback-v5
+impact: significant
+kind: change
+machine_hash: 823fd62d06fd4390189e829dd36cb5342629732d069c4c825e9bf7ddd19630c4
+product: open-webui
+product_name: Open WebUI
+record:
+  ai_generated: true
+  card_id: open-webui-2026-10-14-7d34f9
+  comparison: ''
+  confidence: low
+  date: '2026-10-14'
+  description: "Open WebUI — v0.12.2: \U0001F5A5️ **Per chat terminal file actions.**
+    With the Open Terminal chat context set to Per chat, opening HTML files, running
+    notebooks, saving edited files, creating new files, deleting several selected
+    files and downloading a folder or selection as a zip now use the chat's own workspace,
+    where HTML files showed \"File not found\" and saved files never appeared in the
+    chat. [#32418](https://github.com/open-webui/open-webui/pull/32418), [Commit](https://github.com/open-webui/open-webui/commit/77fd8aea613c42e0d590804c7f9fdcf6f5f4af02),
+    [#29965](https://github.com/open-webui/open-webui/issues/29965)"
+  evidence:
+  - quote: "\U0001F5A5️ **Per chat terminal file actions.** With the Open Terminal
+      chat context set to Per chat, opening HTML files, running notebooks, saving
+      edited files, creating new files, deleting several selected files and downloading
+      a folder or selection as a zip now use the chat's own workspace, where HTML
+      files showed \"File not found\" and saved files never appeared in the chat.
+      [#32418](https://github.com/open-webui/open-webui/pull/32418), [Commit](https://github.com/open-webui/open-webui/commit/77fd8aea613c42e0d590804c7f9fdcf6f5f4af02),
+      [#29965](https://github.com/open-webui/open-webui/issues/29965)"
+    source_release: https://github.com/open-webui/open-webui/releases/tag/v0.12.2
+  extractor_version: fallback-v5
+  impact: significant
+  kind: change
+  product: open-webui
+  product_name: Open WebUI
+  slug: per-chat-terminal-file-actions-with-the-open-terminal-chat-context-set-to-per-ch
+  source_release: open-webui-2026-10-14-v0-12-2-github-413184477-0a3afe9d
+  source_type: github_releases
+  theme: context-window
+  theme_matches:
+  - matched_terms:
+    - context
+    score: 50
+    theme: context-window
+  - matched_terms:
+    - terminal
+    score: 50
+    theme: developer-workflow
+  theme_resolution: manual-semantic-rule-v1
+  title: "\U0001F5A5️ **Per chat terminal file actions.** With the Open Terminal chat
+    context set…"
+  type: change
+related_changes:
+- '[[Changes/Claude Code/2026-10-14-added-usage-warnings-for-max-effort-workflows-always-on-context-and-large-tool-r|Added
+  /usage warnings for max effort, workflows, always-on context and large tool…]]'
+- '[[Changes/Ollama/2026-10-14-nvidia-nemotron-3-5-super-https-ollama-com-library-nemotron-3-5-super-is-a-visio|NVIDIA
+  Nemotron 3.5 Super((source link)]]'
+- '[[Changes/Open WebUI/2026-10-14-2-context-window-changes-in-v0-12-1|2 Context Window
+  changes in v0.12.1]]'
+source_release: '[[Releases/Open WebUI/open-webui-2026-10-14-v0-12-2-github-413184477-0a3afe9d|open-webui-2026-10-14-v0-12-2-github-413184477-0a3afe9d]]'
+source_type: github_releases
+theme: context-window
+title: "\U0001F5A5️ Per chat terminal file actions. With the Open Terminal chat context
+  set…"
+type: change
+---
+
+<!-- chronolog:begin region="header" -->
+# 🖥️ **Per chat terminal file actions.** With the Open Terminal chat context set…
+
+**Open WebUI** · 2026-10-14 · [[Themes/context-window|Context Window]] · [Official source](https://github.com/open-webui/open-webui/releases/tag/v0.12.2) · from [[Releases/Open WebUI/open-webui-2026-10-14-v0-12-2-github-413184477-0a3afe9d|v0.12.2]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="evidence" -->
+> 🖥️ **Per chat terminal file actions.** With the Open Terminal chat context set to Per chat, opening HTML files, running notebooks, saving edited files, creating new files, deleting several selected files and downloading a folder or selection as a zip now use the chat's own workspace, where HTML files showed "File not found" and saved files never appeared in the chat. [#32418](https://github.com/open-webui/open-webui/pull/32418), [Commit](https://github.com/open-webui/open-webui/commit/77fd8aea613c42e0d590804c7f9fdcf6f5f4af02), [#29965](https://github.com/open-webui/open-webui/issues/29965)
+>
+> Source: https://github.com/open-webui/open-webui/releases/tag/v0.12.2
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="context" -->
+## Also in this release
+
+- [[Changes/Open WebUI/2026-10-14-open-attached-knowledge-from-its-preview-clicking-the-name-in-the-preview-of-an|📚 Open attached knowledge from its preview. Clicking the name in the preview…]] · Editor Experience
+- [[Changes/Open WebUI/2026-10-14-6-developer-workflow-changes-in-v0-12-2|6 Developer Workflow changes in v0.12.2]] · Developer Workflow
+- [[Changes/Open WebUI/2026-10-14-general-improvements-various-improvements-were-implemented-across-the-applicatio|🔄 General improvements. Various improvements were implemented across…]] · Reliability and Performance
+- [[Changes/Open WebUI/2026-10-14-automation-run-results-an-automation-run-is-now-recorded-as-successful-only-afte|⏰ Automation run results. An automation run is now recorded as successful only…]] · Automation and Scheduling
+- [[Changes/Open WebUI/2026-10-14-voice-on-android-chrome-voice-calls-and-dictation-on-android-chrome-no-longer-go|📱 Voice on Android Chrome. Voice calls and dictation on Android Chrome no longer…]] · Voice and Audio
+- [[Changes/Open WebUI/2026-10-14-4-model-support-changes-in-v0-12-2|4 Model Support changes in v0.12.2]] · Model Support
+- [[Changes/Open WebUI/2026-10-14-scim-cannot-delete-admins-an-identity-provider-can-no-longer-delete-administrato|👮 SCIM cannot delete admins. An identity provider can no longer delete…]] · Enterprise and Administration
+- [[Changes/Open WebUI/2026-10-14-2-interface-experience-changes-in-v0-12-2|2 Interface Experience changes in v0.12.2]] · Interface Experience
+- [[Changes/Open WebUI/2026-10-14-memory-reindex-rate-limits-reindexing-memories-from-the-admin-reindex-knowledge|🧮 Memory reindex rate limits. Reindexing memories, from the admin Reindex…]] · Memory and Personalization
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="nearby" -->
+## Nearby in Context Window
+
+- Earlier: 2026-10-14 · Open WebUI · [[Changes/Open WebUI/2026-10-14-2-context-window-changes-in-v0-12-1|2 Context Window changes in v0.12.1]]
+- Later: 2026-10-15 · Claude Code · [[Changes/Claude Code/2026-10-15-improved-switching-to-a-model-with-a-smaller-context-window-a-conversation-too-l|Improved switching to a model with a smaller context window]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="relations" -->
+## Related
+
+- Earliest same-theme entry in the tracked set: 2023-05-04 · Cursor · [[Changes/Cursor/2023-05-04-2-context-window-changes-in-0-2-9|2 Context Window changes in 0.2.9]]
+<!-- chronolog:end -->
+
+<!-- chronolog:begin region="footer" -->
+[Report an issue with this card](https://github.com/Wang-Shuo/chronolog/issues/new?title=Card%20feedback%3A%20open-webui-2026-10-14-7d34f9&body=Card%3A%20Changes%2FOpen%20WebUI%2F2026-10-14-per-chat-terminal-file-actions-with-the-open-terminal-chat-context-set-to-per-ch.md%0ACard%20ID%3A%20open-webui-2026-10-14-7d34f9%0ASource%3A%20https%3A%2F%2Fgithub.com%2Fopen-webui%2Fopen-webui%2Freleases%2Ftag%2Fv0.12.2%0A%0AWhat%20should%20be%20corrected%3F%0A)
+<!-- chronolog:end -->

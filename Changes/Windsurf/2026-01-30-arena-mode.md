@@ -13,12 +13,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: model-support
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: significant
 kind: launch
-machine_hash: 0d13572c2e9b82083f48b7554691256f782d3cd18ef6da7954cd4fd678cc8f27
+machine_hash: 6a2d944ae9c36a8c9a41250554ea543d182ecff9e710a2bce50e1347f8f255d1
 product: windsurf
 product_name: Windsurf
 record:
@@ -68,9 +68,9 @@ record:
   title: Arena Mode
   type: change
 related_changes:
-- '[[Changes/Cline/2026-01-30-litellm-fixed-thinking-configuration-not-appearing-for-reasoning-capable-models-c6cd73|_LiteLLM:
+- '[[Changes/Cline/2026-01-30-litellm-fixed-thinking-configuration-not-appearing-for-reasoning-capable-models-c6cd73|LiteLLM:
   Fixed thinking configuration not appearing for reasoning-capable models]]'
-- '[[Changes/Cline/2026-01-30-litellm-fixed-thinking-configuration-not-appearing-for-reasoning-capable-models-cb84ce|_LiteLLM:
+- '[[Changes/Cline/2026-01-30-litellm-fixed-thinking-configuration-not-appearing-for-reasoning-capable-models-cb84ce|LiteLLM:
   Fixed thinking configuration not appearing for reasoning-capable models]]'
 - '[[Changes/GitHub Copilot CLI/2026-01-30-acp-server-supports-changing-models-during-a-session|ACP
   server supports changing models during a session]]'

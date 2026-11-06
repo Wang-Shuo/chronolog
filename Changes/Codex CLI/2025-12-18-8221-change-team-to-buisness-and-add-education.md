@@ -11,12 +11,12 @@ diffusion:
   role: later-observed
   scope: tracked-products-only
   theme: collaboration
-  tracked_products_count: 10
+  tracked_products_count: 20
 evolves_from: []
 extractor_version: fallback-v5
 impact: incremental
 kind: change
-machine_hash: 441596dfbad89d687199a0ee141c68b2ca1bbf15f34303f9c426e7f38a9c067a
+machine_hash: 3089d8dcc7753c00dd0de1d4537b02859454d45e7b6fcdd171163590b0f69f27
 product: codex-cli
 product_name: Codex CLI
 record:
@@ -39,12 +39,12 @@ record:
   title: '#8221 Change “Team” to “Buisness” and add Education'
   type: change
 related_changes:
-- '[[Changes/ChatGPT/2025-11-25-share-photos-to-discuss-them-out-loud|Share photos
-  to discuss them out loud]]'
-- '[[Changes/Codex CLI/2025-12-09-7547-use-shared-check-sandboxing-pakrym-oai|♯7547
-  Use shared check sandboxing @pakrym-oai]]'
+- '[[Changes/v0/2025-12-10-added-default-design-systems-for-teams|Added default design
+  systems for Teams]]'
 - '[[Changes/Cline/2025-12-16-migrate-whatsnewmodal-to-new-shared-dialogue-component|Migrate
   WhatsNewModal to new shared dialogue component]]'
+- '[[Changes/v0/2025-12-16-pull-in-info-from-your-projects-teams-and-users|Pull in
+  info from your projects, teams, and users]]'
 source_release: '[[Releases/Codex CLI/codex-cli-2025-12-18-rust-v0-74-0-github-271533952-972d825a|codex-cli-2025-12-18-rust-v0-74-0-github-271533952-972d825a]]'
 source_type: github_releases
 theme: collaboration
@@ -85,8 +85,8 @@ type: change
 <!-- chronolog:begin region="nearby" -->
 ## Nearby in Collaboration
 
-- Earlier: 2025-12-16 · Cline · [[Changes/Cline/2025-12-16-migrate-whatsnewmodal-to-new-shared-dialogue-component|Migrate WhatsNewModal to new shared dialogue component]]
-- Later: 2026-01-07 · GitHub Copilot CLI · [[Changes/GitHub Copilot CLI/2026-01-07-add-share-and-share-gist-flags-for-session-sharing-in-non-interactive-mode|Add --share and --share-gist flags for session sharing in non-interactive mode]]
+- Earlier: 2025-12-16 · v0 · [[Changes/v0/2025-12-16-pull-in-info-from-your-projects-teams-and-users|Pull in info from your projects, teams, and users]]
+- Later: 2025-12-21 · Open WebUI · [[Changes/Open WebUI/2025-12-21-user-uploaded-images-are-now-automatically-converted-from-base64-to-actual-file|🖼️ User-uploaded images are now automatically converted from base64 to actual file…]]
 <!-- chronolog:end -->
 
 <!-- chronolog:begin region="relations" -->
